@@ -1,0 +1,27 @@
+.DS_Store
+.obsidian/plugins/
+.obsidian/workspace
+svg-cache
+# Ignore system files
+.DS_Store
+/Users/rogerlin/Wealth_of_Nations/Attachments
+/Users/rogerlin/Wealth_of_Nations/svg-cache
+# Ignore Obsidian configuration files
+.obsidian/
+.makemd/
+.space/
+.trash/
+.space/
+# Ignore theme, configuration, and cache-related files
+*.css
+*.json
+*.cfg
+*.sty
+*.mdc
+*.octet-stream
+.obsidian/.keys.json
+*.mdc
+*.ipynb
+*.sample
+*.idea
+*?\x16.gitFinderDeleted
