@@ -7,10 +7,15 @@ tags:
   - financial_mathematics
   - interest_rates
   - term_structure
+  - actuarial_science
+  - present_value
+  - future_value
 aliases:
   - Actuarial Guide
   - Business Professionals
   - Financial Math
+  - Financial Mathematics
+  - Time Value of Money
 key_concepts:
   - Bond valuation
   - Duration, convexity, immunization
@@ -19,87 +24,100 @@ key_concepts:
   - Level annuities
   - Project appraisal and loans
   - Varying annuities
+  - Amortization and sinking fund methods
+  - Term structure of interest rates
+  - Annuity-immediate and annuity-due
+  - Continuously payable annuities
+  - Perpetuities
+  - Equations of value
+  - Deferred annuities
+  - Varying force of interest
+cssclasses: academia
 ---
 
-# FINANCIAL MATHEMATICS
+# Financial Mathematics: A Practical Guide for Actuaries and other Business Professionals
 
-# A Practical Guide for Actuaries and other Business Professionals.
+## Contents
 
-### Contents
-
-[[Table of Contents|Table of Contents]]
-[[A Practical Guide for Actuaries and other Business Professionals.|Interest Rates and Factors]]
+### 1. Interest Rates and Factors
 1.1 Interest
-1.2 [[Interest Rate Quotations|Simple Interest]]
-1.3 [[Continuously Compounding Interest|Compound Interest]]
+1.2 Simple Interest
+1.3 Compound Interest
 1.4 Accumulated Value
 1.5 Present Value
 1.6 Rate of Discount
 1.7 Constant Force of Interest
 1.8 Varying Force of Interest
-1.9 Discrete Changes in [[Interest Rate Quotations|Interest Rates]]
-[[Exercises|Exercises]] and Solutions
-[[A Practical Guide for Actuaries and other Business Professionals.|Level Annuities]]
+1.9 Discrete Changes in Interest Rates
+Exercises and Solutions
+
+### 2. Level Annuities
 2.1 Annuity-Immediate
 2.2 Annuity-Due
 2.3 Deferred Annuities
 2.4 Continuously Payable Annuities
 2.5 Perpetuities
 2.6 Equations of Value
-[[Exercises|Exercises]] and Solutions
-[[A Practical Guide for Actuaries and other Business Professionals.|Varying Annuities]]
+Exercises and Solutions
+
+### 3. Varying Annuities
 3.1 Increasing Annuity-Immediate
 3.2 Increasing Annuity-Due
 3.3 Decreasing Annuity-Immediate
 3.4 Decreasing Annuity-Due
-3.5 Continuously Payable [[A Practical Guide for Actuaries and other Business Professionals.|Varying Annuities]]
+3.5 Continuously Payable Varying Annuities
 3.6 Compound Increasing Annuities
 3.7 Continuously Varying Payment Streams
 3.8 Continuously Increasing Annuities
 3.9 Continuously Decreasing Annuities
-[[Exercises|Exercises]] and Solutions
-Non-[[Continuously Compounding Interest|Annual Interest Rate]] and Annuities
+Exercises and Solutions
+
+### 4. Non-Annual Interest Rate and Annuities
 4.1 Non-Annual Interest and Discount Rates
-4.2 Nominal $p^{thly}$ [[Interest Rate Quotations|Interest Rates]]: $I^{(p)}$
+4.2 Nominal $p^{thly}$ Interest Rates: $I^{(p)}$
 4.3 Nominal $p^{thly}$ Discount Rates: $d^{(p)}$
 4.4 Annuities-Immediate Payable $p^{thly}$
 4.5 Annuities-Due Payable $p^{thly}$
-[[Exercises|Exercises]] and Solutions
-[[A Practical Guide for Actuaries and other Business Professionals.|Project Appraisal and Loans]]
-5.1 [[Common Errors In DCF Models|Discounted Cash Flow Analysis]]
-5.2 Nominal vs. [[Real Interest Rates and Aggregate Production|Real Interest Rates]]
-5.3 [[An Asset Allocation Primer|Investment]] Funds
-5.4 Allocating [[An Asset Allocation Primer|Investment]] Income
+Exercises and Solutions
+
+### 5. Project Appraisal and Loans
+5.1 Discounted Cash Flow Analysis
+5.2 Nominal vs. Real Interest Rates
+5.3 Investment Funds
+5.4 Allocating Investment Income
 5.5 Loans: The Amortization Method
 5.6 Loans: The Sinking Fund Method
-[[A Practical Guide for Actuaries and other Business Professionals.|Financial Instruments]]
-6.1 Types of [[A Practical Guide for Actuaries and other Business Professionals.|Financial Instruments]]
-6.1.1 Money Market Instruments
-6.1.2 Bonds
-6.1.3 Common Stock
-6.1.4 Preferred Stock
-6.1.5 Mutual Funds
-6.1.6 Guaranteed [[An Asset Allocation Primer|Investment]] Contracts (GIC)
-6.1.7 [[Financial Mathematics Course|Derivative Securities]]
+
+### 6. Financial Instruments
+6.1 Types of Financial Instruments
+   6.1.1 Money Market Instruments
+   6.1.2 Bonds
+   6.1.3 Common Stock
+   6.1.4 Preferred Stock
+   6.1.5 Mutual Funds
+   6.1.6 Guaranteed Investment Contracts (GIC)
+   6.1.7 Derivative Securities
 6.2 Bond Valuation
 6.3 Stock Valuation
-[[Exercises|Exercises]] and Solutions
-[[Key Rates O1s Durations and Hedging|Duration]], [[PSET II Fixed Income Asset Pricing 1|Convexity]], and Immunization
+Exercises and Solutions
+
+### 7. Duration, Convexity, and Immunization
 7.1 Price as a Function of Yield
-7.2 [[A Guide to Duration DV01 and Yield Curve|Modified Duration]]
-7.3 [[Teaching Note 2- Interest Rate Risk Management And Factors|Macaulay Duration]]
-7.4 Effective [[Key Rates O1s Durations and Hedging|Duration]]
-7.5 [[PSET II Fixed Income Asset Pricing 1|Convexity]]
-7.5.1 Macaulay [[PSET II Fixed Income Asset Pricing 1|Convexity]]
-7.5.2 Effective [[PSET II Fixed Income Asset Pricing 1|Convexity]]
-7.6 [[Key Rates O1s Durations and Hedging|Duration]], [[PSET II Fixed Income Asset Pricing 1|Convexity]], and Prices: Putting It All Together
-7.6.1 Revisiting the Percentage Change in Price
-7.6.2 The Passage of Time and [[Key Rates O1s Durations and Hedging|Duration]]
-7.6.3 [[An Asset Allocation Primer|Portfolio]] [[An Analytical Decomposition of Forward Rates|Duration and Convexity]]
+7.2 Modified Duration
+7.3 Macaulay Duration
+7.4 Effective Duration
+7.5 Convexity
+   7.5.1 Macaulay Convexity
+   7.5.2 Effective Convexity
+7.6 Duration, Convexity, and Prices: Putting It All Together
+   7.6.1 Revisiting the Percentage Change in Price
+   7.6.2 The Passage of Time and Duration
+   7.6.3 Portfolio Duration and Convexity
 7.7 Immunization
 7.8 Full Immunization
-[[Exercises|Exercises]] and Solutions
-The [[6. A Brief Introduction to Stochastic Calculus|Term Structure of Interest Rates]]
+Exercises and Solutions
+
+### 8. The Term Structure of Interest Rates
 8.1 Yield-to-Maturity
 8.2 Spot Rates
 
@@ -109,9 +127,9 @@ The [[6. A Brief Introduction to Stochastic Calculus|Term Structure of Interest 
 
 -interest is the payment made by a borrower (i.e. the cost of doing business) for using a lender’s capital assets (usually money); an example is a loan transaction —interest rate is the percentage of interest to the capital asset in question interest takes into account the risk of default (risk that the borrower can't pay back the loan the risk of default can be reduced if the borrower promises to release an asset of theirs in the event of their default (the asset is called collateral
 
-# 1.1 Interest
+### 1.1 Interest
 
-### Interest on Savings Accounts
+#### Interest on Savings Accounts
 
  A bank borrows a depositor's money and pays them interest for the use of their money the greater the need for money, the greater the interest rate offered
 

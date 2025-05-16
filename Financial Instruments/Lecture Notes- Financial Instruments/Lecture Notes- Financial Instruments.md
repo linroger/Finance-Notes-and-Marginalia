@@ -1,24 +1,35 @@
 ---
-title: Lecture NotesFinancial Instruments
+cssclasses:
+  - academia
+title: Lecture Notes - Financial Instruments
 tags:
   - derivatives
   - financial_instruments
   - lecture_notes
   - risk_management
   - valuation
+  - options_pricing
+  - black_scholes
+  - credit_derivatives
 aliases:
   - Fin Instruments
   - Financial Instruments
   - Lecture Notes
+  - Financial Instruments Lecture Notes
 key_concepts:
   - Derivatives and risk
   - Financial instrument valuation
   - Instrument types and pricing
-  - Lecture notes overview
-  - Risk management techniques
+  - Black-Scholes formula
+  - Implied volatility
+  - Forward rate agreements
+  - Futures contracts
+  - Interest rate derivatives
+  - Credit default swaps
+  - American options
 ---
 
-# Lecture NotesFinancial Instruments
+# Lecture Notes - Financial Instruments
 
 %% Begin Waypoint %%
 - **[[Lecture Notes- Financial Instruments]]**

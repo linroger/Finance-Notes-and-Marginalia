@@ -1,33 +1,50 @@
 ---
-title: Lecture 2-Asset Allocation with Multiple Risky Assets
+title: Lecture 2 - Asset Allocation with Multiple Risky Assets
+cssclasses:
+  - academia
+  - finance
 tags:
   - asset_allocation
   - covariance_matrix
   - multiple_assets
   - portfolio_theory
   - risk_return
+  - portfolio_optimization
+  - modern_portfolio_theory
+  - efficient_frontier
+  - diversification
+  - risk_management
 aliases:
   - Asset Allocation
   - Multiple Risky Assets
+  - Lecture 2
+  - Portfolio Optimization
+  - Tangency Portfolio
 key_concepts:
   - CRRA preferences
   - Mean-standard deviation frontier
   - Optimal portfolio framework
   - Portfolio return variance
   - Tangency portfolio formulas
+  - Efficient frontier construction
+  - Diversification benefits
+  - Correlation effects
+  - Capital allocation line
+  - Matrix algebra in portfolio theory
+  - Constrained optimization
+  - Global minimum variance portfolio
 ---
 
-# Lecture 2-Asset Allocation with Multiple Risky Assets
-[[Lecture 2- [[Lecture 2- Asset Allocation with Multiple Risky Assets|Asset Allocation]] with [[Lecture 2- Asset Allocation with Multiple Risky Assets|Multiple Risky Assets]]|[[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]]]]
-We now extend our optimal [[Lecture 5- Dynamic [[An Asset Allocation Primer|Portfolio]] Choice|[[An Asset Allocation Primer|portfolio]] choice]] framework to allow for [[Lecture 2- Asset Allocation with Multiple Risky Assets|multiple risky assets]]. This gets us close to the type of models that are used by asset managers of large portfolios to decide how much to allocate to different asset classes.
+# Lecture 2: Asset Allocation with Multiple Risky Assets
+We now extend our optimal [[An Asset Allocation Primer|portfolio]] choice framework to allow for multiple risky assets. This gets us close to the type of models that are used by asset managers of large portfolios to decide how much to allocate to different asset classes.
 
 We still stick to the IID [[Assets|returns]] assumption for now.
 
-In your intro investments course,  you saw the graphical representation of the solution for the optimal [[An Asset Allocation Primer|portfolio]]. Recall the hyperbolic shape of the [[Lecture 2- Asset Allocation with Multiple Risky Assets|mean-standard deviation frontier]],  the tangency [[An Asset Allocation Primer|portfolio]],  and the capital market line that depicts all possible combinations of the [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] with the tangency [[An Asset Allocation Primer|portfolio]]. Here we are going to use matrix algebra to get explicit formulas for the tangency [[An Asset Allocation Primer|portfolio]] and its risk-return properties.
+In your intro investments course, you saw the graphical representation of the solution for the optimal [[An Asset Allocation Primer|portfolio]]. Recall the hyperbolic shape of the mean-standard deviation frontier, the tangency [[An Asset Allocation Primer|portfolio]], and the capital market line that depicts all possible combinations of the [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] with the tangency [[An Asset Allocation Primer|portfolio]]. Here we are going to use matrix algebra to get explicit formulas for the tangency [[An Asset Allocation Primer|portfolio]] and its risk-return properties.
 
 I use bold lowercase letters for vectors and bold uppercase letters for matrices. I use $\boldsymbol{\iota}$ to denote a column vector with all elements equal to one and $\boldsymbol{I}$ for the [[Prerequisites|identity matrix]] (which has ones on its diagonals and zeros everywhere else). Letters or symbols that are not in boldface are scalars.
 
-### 2.1 Risk and return at the portfolio level
+## 2.1 Risk and Return at the Portfolio Level
 
 Consider $N$ risky assets with an $N \times 1$ vector of [[Assets|returns]] $\boldsymbol{r}$ and expected [[Assets|returns]] $\mathbb{E}[\boldsymbol{r}]$. We will often look at excess [[Assets|returns]]
 $$
@@ -40,7 +57,7 @@ $$
 
 $$
 
-Very important for our [[Lecture 5- Dynamic [[An Asset Allocation Primer|Portfolio]] Choice|[[An Asset Allocation Primer|portfolio]] choice]] analysis is the $N \times N$ covariance matrix of [[Assets|returns]]
+Very important for our [[An Asset Allocation Primer|portfolio]] choice analysis is the $N \times N$ covariance matrix of [[Assets|returns]]
 $$
 
 \begin{equation*}
@@ -84,7 +101,7 @@ $$
 
 $$
 
-This last formula shows that all $N \times N$ elements of the covariance matrix play a role in determining the [[Lecture 2- Asset Allocation with Multiple Risky Assets|portfolio return variance]]. This is important. The [[An Asset Allocation Primer|portfolio]] variance depends not only on how volatile individual [[Some Stylized Empirical Facts About Asset Retur|asset returns]] are,  but also on how strongly they covary,  i.e.,  whether they tend to move together or not. Here is how this looks like in the $N=2$ case,  where $\rho$ denotes the correlation of the two [[Some Stylized Empirical Facts About Asset Retur|asset returns]] and $\rho \sigma_{1} \sigma_{2}$ their covariance:
+This last formula shows that all $N \times N$ elements of the covariance matrix play a role in determining the portfolio return variance. This is important. The [[An Asset Allocation Primer|portfolio]] variance depends not only on how volatile individual [[Some Stylized Empirical Facts About Asset Retur|asset returns]] are,  but also on how strongly they covary,  i.e.,  whether they tend to move together or not. Here is how this looks like in the $N=2$ case,  where $\rho$ denotes the correlation of the two [[Some Stylized Empirical Facts About Asset Retur|asset returns]] and $\rho \sigma_{1} \sigma_{2}$ their covariance:
 $$
 
 \begin{align*}
@@ -103,7 +120,7 @@ $$
 
 $$
 
-So if the [[An Asset Allocation Primer|portfolio]] has positive weight on both assets,  $\omega_{1}>0$ and $\omega_{2}>0$,  then,  due to the middle term in this expression,  the higher the correlation of the two [[Some Stylized Empirical Facts About Asset Retur|asset returns]],  the higher the [[Lecture 2- Asset Allocation with Multiple Risky Assets|portfolio return variance]].
+So if the [[An Asset Allocation Primer|portfolio]] has positive weight on both assets, $\omega_{1}>0$ and $\omega_{2}>0$, then, due to the middle term in this expression, the higher the correlation of the two [[Some Stylized Empirical Facts About Asset Retur|asset returns]], the higher the portfolio return variance.
 
 Sometimes we are interested in the covariances of [[Assets|returns]] of the individual assets that are in the [[An Asset Allocation Primer|portfolio]] with the return of the overall [[An Asset Allocation Primer|portfolio]]. We can get this vector of covariances by post-multiplying the covariance matrix with the [[Portfolios and Trading Strategies|portfolio weight vector]],
 $$
@@ -122,9 +139,9 @@ $$
 
 $$
 
-### 2.2 Optimal [[Lecture 5- Dynamic Portfolio Choice|portfolio choice]] with multiple risky assets
+## 2.2 Optimal Portfolio Choice with Multiple Risky Assets
 
-Let's now turn to finding the optimal [[An Asset Allocation Primer|portfolio]] weight when we have [[Lecture 2- Asset Allocation with Multiple Risky Assets|multiple risky assets]]. As in the last lecture,  we assume the investor has [[Lecture 2- Asset Allocation with Multiple Risky Assets|CRRA preferences]] and we'll use a [[Convexity|first-order approximation]] of marginal utility to simplify the problem. The following analysis is pretty much analogous to our analysis in the single risky asset case in the last lecture,  but with some [[Prerequisites|vectors and matrices]] replacing some scalars to account for the fact that we have [[Lecture 2- Asset Allocation with Multiple Risky Assets|multiple risky assets]].
+Let's now turn to finding the optimal [[An Asset Allocation Primer|portfolio]] weight when we have multiple risky assets. As in the last lecture, we assume the investor has CRRA preferences and we'll use a [[Convexity|first-order approximation]] of marginal utility to simplify the problem. The following analysis is pretty much analogous to our analysis in the single risky asset case in the last lecture,  but with some [[Prerequisites|vectors and matrices]] replacing some scalars to account for the fact that we have [[Lecture 2- Asset Allocation with Multiple Risky Assets|multiple risky assets]].
 
 If the investor starts with wealth $W_{0}$ at the beginning of a period and invests proportions $\boldsymbol{\omega}$ of this [[The One-Period Framework|initial wealth]] into the $N$ risky assets and the rest in the [[2. Forwards, Swaps, Futures, and Options|risk-free asset]],  then the total [[An Asset Allocation Primer|investment]] in risky assets accounts for a proportion $\boldsymbol{\iota}^{\prime} \boldsymbol{\omega}=\sum_{i}^{N} \omega_{i}$ of [[The One-Period Framework|initial wealth]] and the rest,  $1-\boldsymbol{\iota}^{\prime} \boldsymbol{\omega}$ is allocated to the [[2. Forwards, Swaps, Futures, and Options|risk-free asset]]. Hence the return on the investor's wealth [[An Asset Allocation Primer|portfolio]] is
 $$

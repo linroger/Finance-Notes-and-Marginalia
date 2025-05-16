@@ -1,44 +1,51 @@
 ---
 cssclasses:
   - academia
-title: Comps Definition,  How They're Used in Analysis,  and Example
+title: Comps Definition, How They're Used in Analysis, and Example
 tags:
   - business_valuation
   - comparable_company_analysis
   - comps_definition
   - retail_sector
   - same_store_sales
+  - financial_metrics
+  - enterprise_value
+  - equity_valuation
 aliases:
   - Comparable Company Analysis
   - Comparables
   - FMV
+  - Trading Multiples
+  - Peer Analysis
 key_concepts:
-  - Comparable company analysis
-  - 'Comps: financial metrics'
-  - Determine business valuation
-  - Fair market value (FMV)
-  - 'Retail: same-store sales'
+  - Comparable company analysis methodology
+  - Comps as financial metrics for valuation
+  - Business valuation using multiples
+  - Fair market value (FMV) determination
+  - Retail same-store sales metrics
+  - Enterprise value to EBITDA multiple
+  - Price-to-earnings valuation
+  - Growth rate calculation methodology
+  - Real estate property valuation
 ---
 
-[[Comps Definition,     How They're Used in Analysis,     and Example|Comps]]
-
-# Comps Definition,  How They're Used in Analysis,  and Example
+# Comps Definition, How They're Used in Analysis, and Example
 ## WHAT ARE COMPS?
 
-The term comps,  short for [[Comps Definition, How They're Used in Analysis, and Example|comparables]],  carries different meanings depending on the industry and context,  but generally entails a comparison of financial metrics and other factors to quantify performance or determine valuation.
+The term comps, short for comparables, carries different meanings depending on the industry and context, but generally entails a comparison of financial metrics and other factors to quantify performance or determine valuation.
 
-In retail,  it refers to a company's same-store sales compared to the previous year or a similar store. Similarly,  in [[Week 1 [[Squam Lake Group Introduction|Introduction]] to [[BMW Valuation|Financial Analysis]]|[[BMW Valuation|financial analysis]]]] ,  comps is short for "[[Comps Definition, How They're Used in Analysis, and Example|comparable company analysis]],  " which is a technique used to assign a value to a business based on the valuation metrics of a peer. In real estate,  comps are used to assess a property's value by comparing it to similar properties.
+In retail, it refers to a company's same-store sales compared to the previous year or a similar store. Similarly, in financial analysis, comps is short for "comparable company analysis," which is a technique used to assign a value to a business based on the valuation metrics of a peer. In real estate, comps are used to assess a property's value by comparing it to similar properties.
 
 ### KEY TAKEAWAYS
 
-- Not including new stores in comps removes extraneous factors,  such as grand opening promotions,  that may skew results.
+- Not including new stores in comps removes extraneous factors, such as grand opening promotions, that may skew results.
 - Comps are valuable metrics used by retailers to identify the profitability of a current store.
 
 ## UNDERSTANDING COMPS: THE RETAIL SECTOR
 
-When used to gauge the performance of retail operations,  comps is used in the context of comparable same-store sales. This comps metric is used by analysts and investors to determine what portion of any sales growth is attributed to old stores versus new stores. Some large retail chains release comps monthly.
+When used to gauge the performance of retail operations, comps is used in the context of comparable same-store sales. This comps metric is used by analysts and investors to determine what portion of any sales growth is attributed to old stores versus new stores. Some large retail chains release comps monthly.
 
-Stores that have been open for less than one year are new stores. New stores typically experience high growth rates for several reasons,  including promotions,  increased interest from launches,  and grand openings. As a result,  including new stores in the growth rate calculation for an entire [[Southland Corp. (c)|retail chain]] can create misleading results. Because the comps metric only compares results for stores that are older than one year,  it gives a better indication of true growth for the overall firm.
+Stores that have been open for less than one year are new stores. New stores typically experience high growth rates for several reasons, including promotions, increased interest from launches, and grand openings. As a result, including new stores in the growth rate calculation for an entire retail chain can create misleading results. Because the comps metric only compares results for stores that are older than one year, it gives a better indication of true growth for the overall firm.
 
 ## CALCULATING AND USING RETAIL SALES COMPS
 

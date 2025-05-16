@@ -63,7 +63,7 @@ R_{t} \sim \mathcal{N}\left(\mu,        \sigma^{2}\right) \tag{1.1}
 \end{equation*}
 $$
 
-The empirical counterpart to a probability distribution is the empirical distribution,  which is basically a histogram,  scaled so that the area covered by all bars adds up to one,  just like a probability distribution function integrates to one. The size of the area of each bar in the histogram then tells us how often empirical observations of [[Assets|returns]] have fallen into various [[Exotic Interest Rate Options|ranges]]. If we have used a sufficiently large sample of [[Assets|returns]] to construct the histogram,  the histogram should get close to the true [[Lecture 1- [[Exercises|Probability Distributions]] of [[Assets|Returns]]|probability distribution]] of [[Assets|returns]].
+The empirical counterpart to a probability distribution is the empirical distribution,  which is basically a histogram,  scaled so that the area covered by all bars adds up to one,  just like a probability distribution function integrates to one. The size of the area of each bar in the histogram then tells us how often empirical observations of [[Assets|returns]] have fallen into various [[Exotic Interest Rate Options|ranges]]. If we have used a sufficiently large sample of [[Assets|returns]] to construct the histogram,  the histogram should get close to the true [[Lecture 1- Probability Distributions of Returns|Probability of Returns]]
 
 Let's focus on the [[Hedge Fund Strategies|stock market]] index as a whole as one risky asset (or the return on an exchange-traded fund that invests in essentially all U.S. stocks). I denote the return on the [[Hedge Fund Strategies|stock market]] index with $R$. To look at [[Lecture 1- Probability Distributions of Returns|empirical distribution]] of [[Assets|returns]],  I use monthly [[Assets|returns]] data from 1927 to 2022 on a value-weighted index of the entire U.S. [[Hedge Fund Strategies|stock market]] from the Center for Research in Security Prices (CRSP) here at the University of Chicago. In a value-weighed index,  each stock's weight in the index in month $t$ is the stocks' [[Price-to-Sales Ratios in Stock Valuation|market capitalization]] at the end of month $t-1$ ( $=$ price $\times$ number shares outstanding) as a fraction of aggregate [[Price-to-Sales Ratios in Stock Valuation|market capitalization]] of all U.S. stocks at the end of month $t-1$.
 
@@ -156,7 +156,7 @@ Figure 1.3: Return distributions with same variances and same [[Lecture 1- Proba
 
 An example of non-symmetric (or skewed) distributions is shown in Figure 1.3. Both [[Lecture 1- [[Exercises|Probability Distributions]] of [[Assets|Returns]]|probability distribution]]s of [[Assets|returns]] of assets (A) and (B) in this figure have the same mean $\mathbb{E}[R]=0.5 \%$ and the same variance $\operatorname{var}(R)=0.0025$. So if we judge risk just based on variance,  we would be indifferent between asset (A) and (B).
 
-In contrast,  semi-variances differ. Asset (A) has $ \operatorname{var}(R)^{-}=0.0015$,  while asset (B) has $\operatorname{var}(R)^{-}=0.0009$. So based on semi-variance,  and forced to choose one asset,  one would choose asset (B). The [[Assets|returns]] of asset (B) have a longer left tail,  i.e.,  higher probability of big losses,  which tends to increase semi-variance,  but also overall a smaller probability that [[Assets|returns]] fall below the mean. Unlike for (A),  less than ${} 50 \\%$ of the probability mass,  i.e.,  less than ${} 50 \\%$ of the area under the [[Lecture 1- [[Exercises|Probability Distributions]] of [[Assets|Returns]]|probability distribution]] function,  is accounted for by [[Assets|returns]] lower than the [[Lecture 1- Probability Distributions of Returns|expected return]] of ${} 0.5 \\%$. This second feature dominates and leads to a lower semi-variance than for asset (A).
+In contrast,  semi-variances differ. Asset (A) has $ \operatorname{var}(R)^{-}=0.0015$,  while asset (B) has $\operatorname{var}(R)^{-}=0.0009$. So based on semi-variance,  and forced to choose one asset,  one would choose asset (B). The [[Assets|returns]] of asset (B) have a longer left tail,  i.e.,  higher probability of big losses,  which tends to increase semi-variance,  but also overall a smaller probability that [[Assets|returns]] fall below the mean. Unlike for (A),  less than ${} 50 \\%$ of the probability mass,  i.e.,  less than ${} 50 \\%$ of the area under the [[Lecture 1- Probability Distributions of Returns|Probability of Returns]] function,  is accounted for by [[Assets|returns]] lower than the [[Lecture 1- Probability Distributions of Returns|expected return]] of ${} 0.5 \\%$. This second feature dominates and leads to a lower semi-variance than for asset (A).
 
 That asset (B) is better for a risk averse investor is not obvious at all. For example,  an investor who does not worry too much about small losses but is very averse to big losses might prefer asset (A).
 
@@ -180,32 +180,20 @@ $$
 So choosing based on lower variances leads us to choose asset $A$.
 
 In contrast,  semi-variances are the same
-$$
-\begin{align*}
-$$
-
-& \operatorname{var}\left(R_{A}\right)^{-}=\frac{1}{2}(-0.375-0.25)^{2} \approx 0.19  \tag{1.7}
-
-& \operatorname{var}\left(R_{B}\right)^{-}=\frac{1}{2}(-0.375-0.25)^{2} \approx 0.19 \tag{1.8}
-
-\end{align*}$$
+$$\begin{align}
+\operatorname{var}\left(R_{A}\right)^{-} &= \frac{1}{2}(-0.375 - 0.25)^{2} \approx 0.19 \tag{1.7} \\
+\operatorname{var}\left(R_{B}\right)^{-} &= \frac{1}{2}(-0.375 - 0.25)^{2} \approx 0.19 \tag{1.8}
+\end{align}$$
 
 This should be intuitive from the payoff diagram: Both assets's payoffs have the same downside. They only differ on the upside. Hence,  semivariances are the same. A measure of risk that focuses only on the magnitude of potential losses is useless here in helping us choose between these two assets - unless we think that we should really be indifferent between asset $A$ and asset $B$.
 
-But this would be an odd choice. Any risk averse person,  no matter how weak their risk aversion is,  as long as they have slight risk aversion,  would prefer asset $A$. We can see this by thinking of asset $B$ as a compound gamble $C$. The payoff diagram 1.4 c depicts this compound gamble. First,  we take the gamble associated with asset $A$. Then,  if we reached the upper node,  where we receive 1.50 we immediately reinvest these proceeds in an additional gamble with price of 
-
-$$
-1.50$ and payoffs$$
-
- 2.00
-
-$ or $$ 1.00$,  with equal probability,  that are delivered immediately after entering the gamble. Thus,  the final payoffs are then the same as in gamble $B$.
+But this would be an odd choice. Any risk averse person,  no matter how weak their risk aversion is,  as long as they have slight risk aversion,  would prefer asset $A$. We can see this by thinking of asset $B$ as a compound gamble $C$. The payoff diagram 1.4 c depicts this compound gamble. First,  we take the gamble associated with asset $A$. Then,  if we reached the upper node,  where we receive 1.50 we immediately reinvest these proceeds in an additional gamble with price of \$1.50 and payoffs \$2.00 or \$1.00,  with equal probability,  that are delivered immediately after entering the gamble. Thus,  the final payoffs are then the same as in gamble $B$.
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-011.jpg?height=1784&width=993&top_left_y=382&top_left_x=577)
 
 Figure 1.4: Evaluating upside risk
 
-Now focus on the second stage gamble. We invest $$ 1.50$ and get payoffs with an expected value of $\frac{1}{2} $ 2.00+\frac{1}{2} $ 1.00=$ 1.50$,  i.e.,  an expected return of $0 \%$. Thus,  we get no compensation for the risk that we are taking in this second stage of the gamble. Any risk averse person would prefer to avoid this second stage gamble if an alternative gamble is available that delivers the same expected payoff,  but for sure,  without uncertainty. How can we avoid this second stage gamble? Easy. Take gamble $A$ instead of gamble $B$. Therefore,  any risk averse person would prefer asset $A$ over asset $B$.
+Now focus on the second stage gamble. We invest \$1.50 and get payoffs with an expected value of $\frac{1}{2} \$ 2.00+\frac{1}{2} \$ 1.00=\$1.50$,  i.e.,  an expected return of $0 \%$. Thus,  we get no compensation for the risk that we are taking in this second stage of the gamble. Any risk averse person would prefer to avoid this second stage gamble if an alternative gamble is available that delivers the same expected payoff,  but for sure,  without uncertainty. How can we avoid this second stage gamble? Easy. Take gamble $A$ instead of gamble $B$. Therefore,  any risk averse person would prefer asset $A$ over asset $B$.
 
 Focusing on semi-variance would mislead us by ignoring uncertainty on the upside in gamble $B$. It makes a difference to us whether there is uncertainty on the upside. Holding the expected return conditional on being on the upside fixed,  knowing for sure what you get conditional on being on the upside is better than being uncertain about how much upside you will get.
 
@@ -272,35 +260,24 @@ Marginal utility captures how valuable an addition to wealth would be in differe
 Utility functions are typically associated with preferences of individual consumers. But for our purposes here,  $U(W)$ can be a stand-in for anything that might make an investor (which could be a financial institution rather than an individual investor) assign higher value to payoffs in some states than in other states. For example,  a bank concerned about violating regulatory thresholds for minimum equity capital has a strong motivation to avoid even getting to close to this threshold. Hence,  for this bank,  "marginal utility" is high in states of the world where they are close to breaching their capital requirement thresholds. They may have a motive to obtain insurance (e.g.,  hedging with derivatives) that delivers payoffs in such states of the world.
 
 How exactly the investor's aversion to risk looks like,  e.g.,  which types of risk the investor fears the most,  is determined by the functional form of $U(W)$. We work with a power-utility function
+$$\begin{equation*}
+U(W) = \frac{W^{1-\gamma} - 1}{1 - \gamma}, \quad U^{\prime}(W) = W^{-\gamma} \tag{1.9}
+\end{equation*}$$
 
-\begin{equation*}
+where $\gamma > 0$ is the \textit{relative risk aversion coefficient}. For $\gamma = 1$, it may seem that $U(W)$ is undefined, but in fact the limit as $\gamma \rightarrow 1$ does exist and it is simply the natural logarithm of $W$. So we use
+$$\begin{equation*}
+U(W) = \log(W) \quad \text{if} \quad \gamma = 1 \tag{1.10}
+\end{equation*}$$
 
-U(W)=\frac{W^{1-\gamma}-1}{1-\gamma},        \quad U^{\prime}(W)=W^{-\gamma} \tag{1.9}
+Marginal utility, after taking the derivative with respect to $W$, is
 
-\end{equation*}
+$$\begin{equation*}
+U^{\prime}(W) = W^{-\gamma} \tag{1.11}
+\end{equation*}$$
 
-$$
-where $\gamma>0$ is the [[Theory Meets Data - Asset Pricing Puzzles|relative risk aversion coefficient]]. For $\gamma=1$,  it may seem that $U(W)$ is undefined,  but in fact the limit for $\gamma \rightarrow 1$ does exist and it is simply the natural logarithm of $W .{ }^{1}$ So we use$$
+Power utility has several desirable properties. First, marginal utility declines with wealth. The parameter $\gamma$ controls the curvature of $U(W)$ and hence determines the degree of risk aversion. Examples for $\gamma = 2$ and $\gamma = 5$ are shown in Figure 1.11.
 
-\begin{equation*}
-
-U(W)=\log (W) \quad \text { if } \quad \gamma=1 \tag{1.10}
-
-\end{equation*}
-
-$$
-Marginal utility,  after taking the derivative w.r.t. $W$ is$$
-
-\begin{equation*}
-
-U^{\prime}(W)=W^{-\gamma} \tag{1.11}
-
-\end{equation*}
-
-$$
-Power utility has has several desirable properties. First,  marginal utility declines with wealth. The parameter $\gamma$ controls the curvature of $U(W)$ and hence it controls the degree of risk aversion. Examples for $\gamma=2$ and $\gamma=5$ are shown in Figure 1.11.
-
-Second,  [[Lecture 5- Dynamic [[An Asset Allocation Primer|Portfolio]] Choice|[[An Asset Allocation Primer|portfolio]] choice]]s based on maximizing $\mathbb{E}[U(W)]$ with this function scale plausibly with wealth. If an investor with power utility has $$ 1,  000$ in wealth and finds it optimal,  say,  to put half of it into risky assets and half of it into a risk-free asset,
+Second, portfolio choices based on maximizing $\mathbb{E}[U(W)]$ with this function scale plausibly with wealth. If an investor with power utility has \$1,000 in wealth and finds it optimal, say, to put half of it into risky assets and half into a risk-free asset, ...
 
 [^0] ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-018.jpg?height=985&width=1180&top_left_y=296&top_left_x=429)
 
@@ -318,9 +295,7 @@ it is much more reasonable than a utility function that implies that the dollar 
 
 Figure 1.9 shows some data on this from the 2022 version of the Survey of Consumer Finances conducted by the Federal Reserve Board. I grouped all survey respondents into 20 groups based on their total level of financial assets (stocks,  bonds,  including retirement accounts,  bank deposits,  etc.). The x-axis shows the average log wealth of respondents in each group,  i.e.,  the wealthiest households are in the right-most group. The y-axis shows the average equity share,  i.e.,  the proportion of financial assets invested in stocks (directly held and via mutual funds,  including retirement accounts). I use only data from survey respondents who have at least some investment in stocks. ${ }^{3}$
 
-There is a slight increase of the equity share going from the poorest to the richest households. But the increase from about $40 \%$ to $60 \%$ is small considering that the wealth differences between the different bins are huge. Households in the lowest bin have,  on
-
-[^2]average,  $$ 4 \mathrm{~K}$ in wealth; households in the highest group have $$ 90 \mathrm{~m}$ on average.
+There is a slight increase of the equity share going from the poorest to the richest households. But the increase from about $40 \%$ to $60 \%$ is small considering that the wealth differences between the different bins are huge. Households in the lowest bin have,  on average,  4K in wealth; households in the highest group have $90m on average.
 
 Moreover,  if we want to use a utility function to capture the risk attitude of an institutional investor such as a [[Uses of Interest Rate Swaps|pension fund]] or an endowment,  there is little reason to think that an institution with a bigger [[An Asset Allocation Primer|portfolio]] would necessarily want to devote more or less of its [[An Asset Allocation Primer|portfolio]] to risky assets. Hence,  [[Lecture 2- Asset Allocation with Multiple Risky Assets|CRRA preferences]] seem like a useful starting point for modeling the [[Risk Aversion|risk attitudes]] of institutions.
 
@@ -652,4 +627,4 @@ Once we have picked the asset,  we can then lever up or down to achieve the opti
 \end{equation*}
 
 $$
-Of course,  combining risky asset classes may be much better than picking a single one. For this,  we need to take into account the correlation of an [[Some Stylized Empirical Facts About Asset Retur|asset returns]]. We'll get to this important point in the next session.$$
+Of course,  combining risky asset classes may be much better than picking a single one. For this,  we need to take into account the correlation of an [[Some Stylized Empirical Facts About Asset Retur|asset returns]]. We'll get to this important point in the next session.

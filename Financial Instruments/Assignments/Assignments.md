@@ -3,11 +3,9 @@ cssclasses:
   - academia
 linter-yaml-title-alias: Assignments-Financial Instruments
 title: Assignments
-tags: 
-aliases: 
-key_concepts: []
----
-
+tags: [financial_instruments, coursework, problem_sets]
+aliases: [Financial Instruments Assignments, Problem Sets]
+key_concepts: [practice problems, midterm solutions, homework assignments]
 ---
 # Assignments
 

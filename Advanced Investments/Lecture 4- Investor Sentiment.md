@@ -1,31 +1,46 @@
 ---
-title: Lecture 4Investor Sentiment
+title: Lecture 4 - Investor Sentiment
+cssclasses:
+  - academia
+  - finance
 tags:
   - dividend_growth
   - investor_sentiment
   - risk_aversion
   - stock_market
   - valuation_ratios
+  - behavioral_finance
+  - market_timing
+  - asset_pricing
+  - financial_economics
+  - investment_psychology
 aliases:
   - Investor Sentiment
   - Lecture 4
   - Sentiment Analysis
+  - Market Sentiment
+  - Investor Psychology
 key_concepts:
   - Changing risk perceptions
   - Dividend growth expectations
   - Price-dividend ratio
   - Time-varying sentiment
   - Valuation cycles
+  - Sentiment-based valuation models
+  - Growth expectation bias
+  - Market timing strategies
+  - Behavioral asset pricing
+  - Irrational exuberance
+  - Contrarian investing
 ---
 
-# Lecture 4-Investor Sentiment
-[[Lecture 4- [[Lecture 4- Investor Sentiment|Investor Sentiment]]|[[Lecture 4- Investor Sentiment|investor sentiment]]]]
+# Lecture 4: Investor Sentiment
 
-In the last lecture we discussed that the aggregate valuation of the [[Hedge Fund Strategies|stock market]],  as measured by ratios such as the price-dividend or price-earnings ratios,  varies strongly over time. And we discussed that a model with time-varying [[Lecture 4- [[Lecture 4- Investor Sentiment|Investor Sentiment]]|[[Lecture 4- Investor Sentiment|investor sentiment]]]] could potentially explain why [[Hedge Fund Strategies|stock market]] valuations vary so much and why the valuation levels are inversely related to future [[Hedge Fund Strategies|stock market]] [[Assets|returns]].
+In the last lecture we discussed that the aggregate valuation of the stock market,  as measured by ratios such as the price-dividend or price-earnings ratios,  varies strongly over time. And we discussed that a model with time-varying investor sentiment could potentially explain why stock market valuations vary so much and why the valuation levels are inversely related to future stock market returns.
 
-Now we look more closely at the notion of [[Lecture 4- [[Lecture 4- Investor Sentiment|Investor Sentiment]]|[[Lecture 4- Investor Sentiment|investor sentiment]]]]. What is the nature of time-varying [[Lecture 4- [[Lecture 4- Investor Sentiment|Investor Sentiment]]|[[Lecture 4- Investor Sentiment|investor sentiment]]]] that could be driving these valuation cycles? Better understanding of the nature of [[Lecture 4- [[Lecture 4- Investor Sentiment|Investor Sentiment]]|[[Lecture 4- Investor Sentiment|investor sentiment]]]] could help us make better use of the valuation assessments that we get from valuation ratios. If we can tie variation in valuation levels to investor [[Preview of the Book|cash flow]] growth [[FORWARD RATES AND TERM STRUCTURE|expectations]],  we can ask whether we agree with these growth [[FORWARD RATES AND TERM STRUCTURE|expectations]]. If we can tie variation in valuation levels to changing perceptions of risk or risk aversion,  we can ask whether we share these changing perceptions of risk or risk aversion. If we can tie variation in valuation levels to changing demand for [[Hedge Fund Strategies|stock market]] investing coming from certain investor groups,  we can ask whether these demand changes are likely informed or uninformed demands. Answers to these questions can help us get more confidence whether a valuation ratio like the [[Lecture 4- Investor Sentiment|price-dividend ratio]] at a given point in time is a good signal about future excess [[Assets|returns]] on the [[Hedge Fund Strategies|stock market]].
+Now we look more closely at the notion of investor sentiment. What is the nature of time-varying investor sentiment that could be driving these valuation cycles? Better understanding of the nature of investor sentiment could help us make better use of the valuation assessments that we get from valuation ratios. If we can tie variation in valuation levels to investor cash flow growth expectations,  we can ask whether we agree with these growth expectations. If we can tie variation in valuation levels to changing perceptions of risk or risk aversion,  we can ask whether we share these changing perceptions of risk or risk aversion. If we can tie variation in valuation levels to changing demand for stock market investing coming from certain investor groups,  we can ask whether these demand changes are likely informed or uninformed demands. Answers to these questions can help us get more confidence whether a valuation ratio like the price-dividend ratio at a given point in time is a good signal about future excess returns on the stock market.
 
-We start by using our sentiment-based valuation model from the last lecture to understand better the different potential sources of [[Lecture 4- Investor Sentiment|time-varying sentiment]] and their effects on [[Hedge Fund Strategies|stock market]] valuation. Recall from last lecture the approximate presentvalue identity in (3.25) after we took conditional [[FORWARD RATES AND TERM STRUCTURE|expectations]]:
+We start by using our sentiment-based valuation model from the last lecture to understand better the different potential sources of time-varying sentiment and their effects on stock market valuation. Recall from last lecture the approximate present-value identity in (3.25) after we took conditional expectations:
 $$
 
 \begin{equation*}
@@ -86,9 +101,9 @@ s_{t}=\frac{1}{1-\rho}\left(\tilde{g}_{t}-g\right) \tag{4.5}
 
 $$
 
-So in this version,  [[Lecture 4- [[Lecture 4- Investor Sentiment|Investor Sentiment]]|[[Lecture 4- Investor Sentiment|investor sentiment]]]] is driven by excessively volatile [[FORWARD RATES AND TERM STRUCTURE|expectations]] of [[Equity Commodity and Currency Math|dividend growth]] that vary around the constant true expected growth rate $g$.
+So in this version, investor sentiment is driven by excessively volatile expectations of dividend growth that vary around the constant true expected growth rate $g$.
 
-Second,  sentiment could reflect time-varying risk aversion or time-varying risk perceptions that make investors demand a time-varying expected rate of return $\tilde{\theta}_{t}$ from [[Hedge Fund Strategies|stock market]] investments,  while investors' expected growth rate is equal to the true growth rate $g$. In this case,
+Second,  sentiment could reflect time-varying risk aversion or time-varying risk perceptions that make investors demand a time-varying expected rate of return $\tilde{\theta}_{t}$ from stock market investments,  while investors' expected growth rate is equal to the true growth rate $g$. In this case,
 $$
 
 \begin{equation*}
@@ -118,7 +133,7 @@ The first story would say that a high [[Lecture 4- Investor Sentiment|price-divi
 
 In the second story,  it's exactly the opposite. In this case,  there shouldn't be any systematic mismatch between investors' [[FORWARD RATES AND TERM STRUCTURE|expectations]] of [[Preview of the Book|cash flow]] growth and subsequent actual realizations of [[Preview of the Book|cash flow]] growth. Instead,  investors' [[FORWARD RATES AND TERM STRUCTURE|expectations]] of the equity risk premium relative to risk free rates should vary with the [[Lecture 4- Investor Sentiment|price-dividend ratio]]. If they price stocks at high valuation levels because they are happy with a low risk premium,  then they should be aware that they will earn a low risk premium in the future,  on average.
 
-### 4.1 Expectations data
+## 4.1 Expectations data
 
 To shed light on the source of sentiment,  we now look at [[FORWARD RATES AND TERM STRUCTURE|expectations]] data. What do participants in the market expect regarding [[Advanced Derivatives Pricing Methodology|future cash flows]] and future [[Assets|returns]],  and how do these [[FORWARD RATES AND TERM STRUCTURE|expectations]] relate to valuation ratios such as the [[Lecture 4- Investor Sentiment|price-dividend ratio]]?
 
@@ -126,7 +141,7 @@ To shed light on the source of sentiment,  we now look at [[FORWARD RATES AND TE
 
 Figure 4.1: Repurchase-adjusted $\log P / D$ and I/B/E/S analyst aggregate long-term real earnings-per-share growth forecasts (annualized)
 
-### 4.1.1 Cash flow expectations
+## 4.1.1 Cash flow expectations
 
 If the [[Preview of the Book|cash flow]] growth sentiment story is a substantial part of what's driving variation in the [[Lecture 4- Investor Sentiment|price-dividend ratio]] over time,  we should see a strong relationship between the [[Lecture 4- Investor Sentiment|price-dividend ratio]] and [[Preview of the Book|cash flow]] growth [[FORWARD RATES AND TERM STRUCTURE|expectations]] of investors.
 
@@ -171,25 +186,25 @@ To summarize,  over these roughly 40 years,  analyst forecasts of long-term earn
 
 Figure 4.3: One year expected excess [[Assets|returns]] from surveys of different groups of market participants
 
-finding supports the notion of [[Lecture 4- [[Lecture 4- Investor Sentiment|Investor Sentiment]]|[[Lecture 4- Investor Sentiment|investor sentiment]]]] as time-varying optimism/pessimism about future [[Preview of the Book|cash flow]] growth.
+finding supports the notion of investor sentiment as time-varying optimism/pessimism about future cash flow growth.
 
-### 4.1.2 Return expectations
+## 4.1.2 Return expectations
 
-But are analysts earnings growth [[FORWARD RATES AND TERM STRUCTURE|expectations]] a reasonable proxy for investor [[FORWARD RATES AND TERM STRUCTURE|expectations]] of [[Hedge Fund Strategies|stock market]] [[Preview of the Book|cash flow]] growth? Unfortunately,  there are currently no surveys of [[Preview of the Book|cash flow]] growth [[FORWARD RATES AND TERM STRUCTURE|expectations]] of professional and retail investors with sufficiently long time series to answer this question. But surveys of return [[FORWARD RATES AND TERM STRUCTURE|expectations]] of different investor groups (or forecasters and decision makers close to market participants) do exist. These data allow us to take a look at the second possible story that could explain variation over time in the [[Lecture 4- Investor Sentiment|price-dividend ratio]]: time-varying risk perceptions or time-varying risk aversion.
+But are analysts earnings growth expectations a reasonable proxy for investor expectations of stock market cash flow growth? Unfortunately, there are currently no surveys of cash flow growth expectations of professional and retail investors with sufficiently long time series to answer this question. But surveys of return expectations of different investor groups (or forecasters and decision makers close to market participants) do exist. These data allow us to take a look at the second possible story that could explain variation over time in the price-dividend ratio: time-varying risk perceptions or time-varying risk aversion.
 
-Under the time-varying risk perception or time-varying risk aversion story,  we should see that [[FORWARD RATES AND TERM STRUCTURE|expectations]] of [[Hedge Fund Strategies|stock market]] [[Assets|returns]] are varying strongly with the [[Lecture 4- Investor Sentiment|price-dividend ratio]]. Specifically,  when the [[Lecture 4- Investor Sentiment|price-dividend ratio]] is high,  and hence perceived risk is low or risk aversion is low,  return [[FORWARD RATES AND TERM STRUCTURE|expectations]] should be low and vice versa.
+Under the time-varying risk perception or time-varying risk aversion story, we should see that expectations of stock market returns are varying strongly with the price-dividend ratio. Specifically, when the price-dividend ratio is high, and hence perceived risk is low or risk aversion is low, return expectations should be low and vice versa.
 
-Figure 4.3 shows the return [[FORWARD RATES AND TERM STRUCTURE|expectations]] of individual investors ${ }^{2}$,  corporate chief financial officers (CFOs) ${ }^{3}$,  and professional forecasters ${ }^{4}$ working in the financial industry (right y-axis). The numbers are averaged each period among all the respondents in each survey. So just like for equity analysts in our earlier analysis,  we are looking at the average opinion of forecasters,  but now averages for different types of forecasters. The plot shows the series of expected one-year return in excess of the one-year yield on U.S. [[US Markets|Treasury securities]] at the time of the survey. For comparison,  the plot also shows the log [[Lecture 4- Investor Sentiment|price-dividend ratio]] (left y-axis).
+Figure 4.3 shows the return expectations of individual investors ${ }^{2}$,  corporate chief financial officers (CFOs) ${ }^{3}$,  and professional forecasters ${ }^{4}$ working in the financial industry (right y-axis). The numbers are averaged each period among all the respondents in each survey. So just like for equity analysts in our earlier analysis,  we are looking at the average opinion of forecasters,  but now averages for different types of forecasters. The plot shows the series of expected one-year return in excess of the one-year yield on U.S. Treasury securities at the time of the survey. For comparison,  the plot also shows the log price-dividend ratio (left y-axis).
 
-If it was true that times of high [[Lecture 4- Investor Sentiment|price-dividend ratio]] are times of low risk aversion or low perceived risk (rather than high [[Preview of the Book|cash flow]] growth [[FORWARD RATES AND TERM STRUCTURE|expectations]]),  then we should see that the excess return [[FORWARD RATES AND TERM STRUCTURE|expectations]] are systematically lower in these periods. In other words,  the expected excess [[Assets|returns]] shown in the figure should be inversely related to the $\log P / D$ ratio.
+If it was true that times of high price-dividend ratio are times of low risk aversion or low perceived risk (rather than high cash flow growth expectations),  then we should see that the excess return expectations are systematically lower in these periods. In other words,  the expected excess returns shown in the figure should be inversely related to the $\log P / D$ ratio.
 
-Eyeballing the figure,  neither individual investor nor CFO [[FORWARD RATES AND TERM STRUCTURE|expectations]] seem to have much relation to the $\log P / D$ ratio. Only the professional forecasters' series in some period seems to move inversely with $\log P / D$. For example,  when the $\log P / D$ ratio fell in the recessions around 2001 and 2008,  professional forecasters sharply raised their excess return [[FORWARD RATES AND TERM STRUCTURE|expectations]]. But then there are other periods such as from 2003 to 2007 when their excess return [[FORWARD RATES AND TERM STRUCTURE|expectations]] fell along with a fall in the $\log P / D$ ratio,  so overall it's not clear whether there really is an inverse relationship.
+Eyeballing the figure,  neither individual investor nor CFO expectations seem to have much relation to the $\log P / D$ ratio. Only the professional forecasters' series in some period seems to move inversely with $\log P / D$. For example,  when the $\log P / D$ ratio fell in the recessions around 2001 and 2008,  professional forecasters sharply raised their excess return expectations. But then there are other periods such as from 2003 to 2007 when their excess return expectations fell along with a fall in the $\log P / D$ ratio,  so overall it's not clear whether there really is an inverse relationship.
 
-To investigate this more carefully,  I run regressions of the excess return [[FORWARD RATES AND TERM STRUCTURE|expectations]] series on the $\log P / D$ ratio measured at the end of the quarter before the quarter in which the return expectation is measured in the survey. I also include the excess return on the [[Hedge Fund Strategies|stock market]] index over the past year as an explanatory variable to check whether the respondents in these surveys have a tendency to form [[FORWARD RATES AND TERM STRUCTURE|expectations]] by extrapolating recent [[Assets|returns]],  or by taking a contrarian view expecting a reversal of recent [[Assets|returns]].
+To investigate this more carefully,  I run regressions of the excess return expectations series on the $\log P / D$ ratio measured at the end of the quarter before the quarter in which the return expectation is measured in the survey. I also include the excess return on the stock market index over the past year as an explanatory variable to check whether the respondents in these surveys have a tendency to form expectations by extrapolating recent returns,  or by taking a contrarian view expecting a reversal of recent returns.
 
 Table 4.1 presents the results,  with $t$-statistics shown in parentheses. In line with our visual impression from the figure,  none of the three groups has a negative coefficient on the $\log P / D$. Instead,  for all three,  the estimated coefficient is positive,  but the difference to zero is not statistically significant. The three groups are strikingly similar in their lack of sensitivity to the $\log P / D$ ratio.
 
-[^12]Table 4.1: Relation of expected excess [[Assets|returns]] from surveys to [[Lecture 4- Investor Sentiment|price-dividend ratio]] and past [[Assets|returns]]
+[^12]Table 4.1: Relation of expected excess returns from surveys to price-dividend ratio and past returns
 
 |                          |            |           |                  |         |
 | ------------------------ | ---------- | --------- | ---------------- | ------- |
@@ -205,9 +220,9 @@ In contrast,  the estimated coefficients for the one-year lagged excess return a
 
 Overall,  the evidence on return [[FORWARD RATES AND TERM STRUCTURE|expectations]] does not provide much support for the idea that movements in the [[Hedge Fund Strategies|stock market]]'s [[Lecture 4- Investor Sentiment|price-dividend ratio]] are due to changes in investors' risk aversion or risk perception. It's not the case that investors systematically view periods of high price-dividend ratios as periods when expected excess [[Assets|returns]] are low. Therefore,  they must view the elevated price levels in these times as justified by their [[FORWARD RATES AND TERM STRUCTURE|expectations]] of [[Advanced Derivatives Pricing Methodology|future cash flows]].
 
-### 4.2 What drives investors' time-varying growth expectations?
+## 4.2 What drives investors' time-varying growth expectations?
 
-If time-varying optimism/pessimism about future [[Preview of the Book|cash flow]] growth is the driving force of [[Lecture 4- [[Lecture 4- Investor Sentiment|Investor Sentiment]]|[[Lecture 4- Investor Sentiment|investor sentiment]]]],  what gives rise to this time-variation? What are the conditions that are fertile for excessive optimism? What are the conditions that tend to lead to excessive pessimism? This is an active area of research and the subject of much debate among practitioners. I can only offer a few hints at what may be going on,  not a firm,  well-established conclusion.
+If time-varying optimism/pessimism about future cash flow growth is the driving force of investor sentiment,  what gives rise to this time-variation? What are the conditions that are fertile for excessive optimism? What are the conditions that tend to lead to excessive pessimism? This is an active area of research and the subject of much debate among practitioners. I can only offer a few hints at what may be going on,  not a firm,  well-established conclusion.
 
 Various studies of how investors and forecasters come up with [[FORWARD RATES AND TERM STRUCTURE|expectations]] of asset
 
@@ -262,11 +277,11 @@ Table 4.2: Predictive regressions of one-quarter-ahead [[Assets|returns]] on exp
 | Estimates               | 0.067       | $-5.967$   | 0.028   |
 | $t$-statistic           | $(4.632)$   | $(-3.448)$ |         |
 
-Overall,  these results are broadly in line with the notion that [[Lecture 4- [[Lecture 4- Investor Sentiment|Investor Sentiment]]|[[Lecture 4- Investor Sentiment|investor sentiment]]]] about future [[Preview of the Book|cash flow]] growth becomes more positive when investors have experienced a string of several years of high real payout growth.
+Overall,  these results are broadly in line with the notion that investor sentiment about future cash flow growth becomes more positive when investors have experienced a string of several years of high real payout growth.
 
-### 4.3 Fund flows as sentiment indicator
+## 4.3 Fund flows as sentiment indicator
 
-A different approach to understanding [[Lecture 4- [[Lecture 4- Investor Sentiment|Investor Sentiment]]|[[Lecture 4- Investor Sentiment|investor sentiment]]]] focuses on who is buying and selling. For example,  a popular view in the finance industry is that retail investors are subject to particularly strong time-variation in sentiment for stocks with little connection to [[Hedge Fund Strategies|stock market]] [[Week 2 Fundamentals Of Forecasting|fundamentals]]. If this is true,  we should be able to use the quantity of stocks demanded by retail investors as a sentiment indicator. If retail investors' changing demand for stocks has price impact,  we should then see a connection between retail investor demand for stocks and valuation levels in the [[Hedge Fund Strategies|stock market]]. Under the (arguably reasonable) assumption that retail investor demand is unlikely to be driven by superior information about [[Hedge Fund Strategies|stock market]] [[Week 2 Fundamentals Of Forecasting|fundamentals]],  a connection between retail investor demand and valuation levels would give us further reason to suspect that timevariation in [[Hedge Fund Strategies|stock market]] valuation ratios reflects sentiment-driven deviations of [[Hedge Fund Strategies|stock market]] valuations from [[Week 2 Fundamentals Of Forecasting|fundamentals]].
+A different approach to understanding investor sentiment focuses on who is buying and selling. For example, a popular view in the finance industry is that retail investors are subject to particularly strong time-variation in sentiment for stocks with little connection to stock market fundamentals. If this is true, we should be able to use the quantity of stocks demanded by retail investors as a sentiment indicator. If retail investors' changing demand for stocks has price impact, we should then see a connection between retail investor demand for stocks and valuation levels in the stock market. Under the (arguably reasonable) assumption that retail investor demand is unlikely to be driven by superior information about stock market fundamentals, a connection between retail investor demand and valuation levels would give us further reason to suspect that time-variation in stock market valuation ratios reflects sentiment-driven deviations of stock market valuations from fundamentals.
 
 Of course,  a finding of a positive correlation between retail investor demand for stocks and valuation levels would not prove causation. For example,  it could be that high valuation levels attract retail investor demand for stocks so that causality runs in the
 
@@ -352,11 +367,11 @@ Figure 4.10: [[Assets|Returns]] to a [[An Asset Allocation Primer|portfolio]] lo
 
 Source: Brown,  D.C.,  Davies,  S.W. and Ringgenberg,  M.C.,  2021. ETF [[Arbitrage Pricing of Derivatives|arbitrage]],  nonfundamental demand,  and return predictability. Review of Finance,  25(4),  pp0.\1-972.
 
-These results from the cross-section of ETFs provide some further support to the notion that MF and ETF flows can be a useful (retail) [[Lecture 4- [[Lecture 4- Investor Sentiment|Investor Sentiment]]|[[Lecture 4- Investor Sentiment|investor sentiment]]]] indicator.
+These results from the cross-section of ETFs provide some further support to the notion that MF and ETF flows can be a useful (retail) investor sentiment indicator.
 
-### 4.3.1 Using artificial intelligence to extract sentiment from textual information
+## 4.3.1 Using artificial intelligence to extract sentiment from textual information
 
-Another approach to measuring sentiment is to extract it from textual information that can be found in newspaper articles,  corporate filings and earnings call transcripts,  or other media sources. In the past,  such sentiment measures relied on relatively simple approaches such as counting the number of words in news articles about the [[Hedge Fund Strategies|stock market]] or the economy that express a positive or optimistic opinion and those that express a negative or pessimistic opinion.
+Another approach to measuring sentiment is to extract it from textual information that can be found in newspaper articles, corporate filings and earnings call transcripts, or other media sources. In the past, such sentiment measures relied on relatively simple approaches such as counting the number of words in news articles about the stock market or the economy that express a positive or optimistic opinion and those that express a negative or pessimistic opinion.
 
 The recent breakthroughs in artificial intelligence with large language models (LLM) such as those underlying Open AI's ChatGPT open up opportunities to push these sorts
 ```latex

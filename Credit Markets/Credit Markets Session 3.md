@@ -6,9 +6,12 @@ tags:
   - default_probabilities
   - hazard_rate
   - risk_neutral
+  - survival_probability
+  - bond_pricing
 aliases:
   - CDS
   - Credit Derivatives
+  - Hazard Rate Model
 key_concepts:
   - CDS cash flows
   - Default probabilities
@@ -17,235 +20,350 @@ key_concepts:
   - Hazard rate model
   - Recovery rate
   - Risk neutral valuation
+  - Survival probability curves
+  - Bond pricing
+  - CDS duration
 ---
 
 # Credit Markets Session 3
-1. [[Copulas and the Modeling of Default Correlatio|CDS pricing]] in the [[Credit Market Session 2|Hazard Rate Model]]
-	- CDS cash-flows
-	- [[Copulas and the Modeling of Default Correlatio|CDS pricing]]
-	- [[RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS|Hazard Rates]]
-	- ISDA [[Credit Markets Homework 4|CDS Hazard Rate]] model
-	- Simple [[Copulas and the Modeling of Default Correlatio|CDS pricing]] formulas
-1. Bond [[Arbitrage Pricing of Derivatives|pricing]] in the [[Credit Market Session 2|Hazard Rate Model]]
-	- Generic bond [[Arbitrage Pricing of Derivatives|pricing]]
-	- Simple bond [[Arbitrage Pricing of Derivatives|pricing]] formulas
-	- Yield/spread model vs [[Credit Market Session 2|hazard rate model]]
-1. [[Credit Markets Session 4|Calibration]],  [[Credit Markets Session 4|Model Prices]] & Edges
-	- [[Credit Markets Session 4|Calibration]] of the [[Credit Market Session 2|Hazard Rate Model]] Model
-	- Prices and Edges
-1. Q&A
 
-## REMINDER : CDS CASH-FLOWS DIAGRAM
+1. CDS pricing in the Hazard Rate Model
+   - CDS cash-flows
+   - CDS pricing
+   - Hazard Rates
+   - ISDA CDS Hazard Rate model
+   - Simple CDS pricing formulas
+2. Bond pricing in the Hazard Rate Model
+   - Generic bond pricing
+   - Simple bond pricing formulas
+   - Yield/spread model vs hazard rate model
+3. Calibration, Model Prices & Edges
+   - Calibration of the Hazard Rate Model
+   - Prices and Edges
+4. Q&A
 
- ![500](02e885a66702d7f24bcf990b5c66ca08.png)
+## Reminder: CDS Cash-Flows Diagram
 
-## CDS CUMULATIVE CASH-FLOWS (PREMIUM AND DEFAULT LEGS)
+![500](02e885a66702d7f24bcf990b5c66ca08.png)
 
- ![500](590457ab2abdc6df18add125abb4adb4.png)
+## CDS Cumulative Cash-Flows (Premium and Default Legs)
 
-## RISK NEUTRAL VALUATION FRAMEWORK
+![500](590457ab2abdc6df18add125abb4adb4.png)
+
+## Risk Neutral Valuation Framework
+
 - Each instrument uniquely defined by its cumulative future cash-flows
-$$CF(t),     \quad t\geq0\tag{1}$$
+$$CF(t), \quad t\geq0 \tag{1}$$
 
-- [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Risk neutral]] valuation: use a "market implied" probability measure $\mathbb{P}$ for determining prices of securities
+- Risk neutral valuation: use a "market implied" probability measure $\mathbb{P}$ for determining prices of securities
 - Bank savings account security B used as numeraire for discounting future cash-flows:
-$$B(t)=e^{\int_{0}^{t}r_{\mathrm{s}}d s},     \,     t\geq0$$
+$$B(t)=e^{\int_{0}^{t}r_{s}ds}, \, t\geq0$$
 
 - Present value obtained as
-$$P V\left(t\right)=B(t)\cdot\mathbb{E}\left[\int_{t}^{\infty}B(s)^{-1}\cdot d C F(s)|{\mathcal{F}}_{t}\right]$$
+$$PV(t)=B(t)\cdot\mathbb{E}\left[\int_{t}^{\infty}B(s)^{-1}\cdot dCF(s)|\mathcal{F}_{t}\right]$$
 
-## SIMPLE CASE: DETERMINISTIC INTEREST RATES
-- We consider the simple case of [[RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS|deterministic interest rates]] The "time value of money" at time t for time s is captured in the calibrated [[Credit Markets Session 3|discount factor curve]]:
-$$DF(t,     s)=B(t)\cdot\mathbb{E}\left[B(s)^{-1}|\mathcal{F}_{t}\right]=e^{-\int_{t}^{s}r_{u}du},     \ 0\leq t\leq s\tag{3}$$
+## Simple Case: Deterministic Interest Rates
+
+- We consider the simple case of deterministic interest rates. The "time value of money" at time t for time s is captured in the calibrated discount factor curve:
+$$DF(t, s)=B(t)\cdot\mathbb{E}\left[B(s)^{-1}|\mathcal{F}_{t}\right]=e^{-\int_{t}^{s}r_{u}du}, \ 0\leq t\leq s \tag{3}$$
 
 - The risk free valuation formula simplifies to
-$$PV\left(t\right)=\mathbb{E}\left[\int_{t}^{\infty}DF(t,     s)\cdot dCF(s)|\mathcal{F}_{t}\right]\tag{4}$$
+$$PV(t)=\mathbb{E}\left[\int_{t}^{\infty}DF(t, s)\cdot dCF(s)|\mathcal{F}_{t}\right] \tag{4}$$
 
-- Same formula holds when security cash-flows and [[Interest Rate Quotations|interest rates]] are independent
+- Same formula holds when security cash-flows and interest rates are independent
 
-## CDS PREMIUM/FIXED LEG CASH-FLOWS
-- Quarterly [[Realized Returns|coupon payments]] until maturity $T = T_n$:
-- We denote the random/stochastic issuer default time by
-- Cumulative Premium Leg cash-flows have stochastic dependence on t:
-$$c_{i}\cdot\mathbb{I}_{\{s\geq T_{i}\}}\cdot\mathbb{I}_{\{\tau>T_{i}\}}\qquad\qquad(6)$$
+## CDS Premium/Fixed Leg Cash-Flows
 
-## VALUATION FRAMEWORK FOR CREDIT-RISKY CASH-FLOWS
-- We assume DF(t,  s) is the deterministic risk-free [[Discount Factors|discount factor]] (as of time t,  for time s). The DF(t,  .) curve can be calibrated from market quotes via bootstrapping.
-- Reminder: $t ∈ [0,     \infty)$ is the random/stochastic issuer default time
-- Market implied issuer survival & [[Credit Markets Session 3|default probabilities]]:
-$$SP\left(t,     s\right):=\mathbb{P}\left(\tau>s|\tau>t\right),     \ \ 0\leq t\leq s,     \tag{7}$$
-$$DP\left(t,     s\right):=\mathbb{P}\left(\tau\leq s|\tau>t\right)=1-SP\left(t,     s\right).\tag{8}$$
+- Quarterly coupon payments until maturity $T = T_n$
+- We denote the random/stochastic issuer default time by $\tau$
+- Cumulative Premium Leg cash-flows have stochastic dependence on $\tau$:
+$$c_{i}\cdot\mathbb{I}_{\{s\geq T_{i}\}}\cdot\mathbb{I}_{\{\tau>T_{i}\}} \tag{6}$$
 
-## RISK NEUTRAL VALUATION OF CDS PREMIUM/FIXED LEG
+## Valuation Framework for Credit-Risky Cash-Flows
 
-INTUITIVE INTERPRETATION: PREMIUM LEG
+- We assume DF(t, s) is the deterministic risk-free discount factor (as of time t, for time s). The DF(t, .) curve can be calibrated from market quotes via bootstrapping.
+- Reminder: $\tau \in [0, \infty)$ is the random/stochastic issuer default time
+- Market implied issuer survival & default probabilities:
+$$SP(t, s):=\mathbb{P}(\tau>s|\tau>t), \ \ 0\leq t\leq s \tag{7}$$
+$$DP(t, s):=\mathbb{P}(\tau\leq s|\tau>t)=1-SP(t, s) \tag{8}$$
+
+## Risk Neutral Valuation of CDS Premium/Fixed Leg
+
+### Intuitive Interpretation: Premium Leg
 
 - Present value of risky contractual cash-flows
-$$PV_{\mathit{CDS\_PL}}\left(t\right)=\sum_{i=1}^{n}c_{i}\cdot DF(t,     \,     T_{i})\cdot SP(t,     \,     T_{i})\tag{14}$$
+$$PV_{CDS\_PL}(t)=\sum_{i=1}^{n}c_{i}\cdot DF(t, \, T_{i})\cdot SP(t, \, T_{i}) \tag{14}$$
 
 - is obtained by summing up the cash-flows amounts $c_i$
-- … multiplied with the discount factors $DF(t,      T_i)$ at cash-flow times $T_i$ (time value of money)
-- … and multiplied with probability $SP(t,      T_i)$ of issuer being "alive" at cash-flow time $T_i$ ([[Quantitative Trading Strategies Lecture Notes|credit risk]] "adjuster")
+- ... multiplied with the discount factors $DF(t, T_i)$ at cash-flow times $T_i$ (time value of money)
+- ... and multiplied with probability $SP(t, T_i)$ of issuer being "alive" at cash-flow time $T_i$ (credit risk "adjuster")
 
-## CDS DEFAULT/LOSS LEG CASH-FLOWS
+## CDS Default/Loss Leg Cash-Flows
 
-- [[Credit Markets Session 3|Recovery Rate]] given default denoted by R
+- Recovery Rate given default denoted by R
 - For simplicity ("basic model") we assume R is constant
-- Think of R as the expected (average) [[Credit Markets Session 3|recovery rate]] for a given issuer and seniority rank
+- Think of R as the expected (average) recovery rate for a given issuer and seniority rank
 - Default Leg cash-flows until time s are given by:
-$$D L\left(s\right):=\left(1-R\right)\cdot\mathbb{I}_{\left\{\tau\leq s\right\}}\tag{15}$$
+$$DL(s):=(1-R)\cdot\mathbb{I}_{\{\tau\leq s\}} \tag{15}$$
 
-## VALUATION OF CDS DEFAULT/LOSS LEG (USING FUBINI)
-$$PV_{CDS \_{}DL} (t) ==\mathbb{E}\left[\int_{t}^{T}\left(1-R\right)\cdot DF(t,     s)\cdot d\mathbb{I}_{\left\{\tau\leq s\right\}}|\tau>t\right.$$$$=\int_{t}^{T}\left(1-R\right)\cdot DF(t,     s)\cdot d\mathbb{I}$$$$=\left(1-R\right)\cdot\int_{t}^{T}DF(t,     s)\cdot d\mathbb{P}\left(\tau\leq s|\tau>t\right)\tag{19}$$$$=\left(1-R\right)\cdot\int_{t}^{T}DF(t,     s)\cdot dDP(t,     s).\tag{20}$$$$\left[\mathbf{I}_{\{\tau\leq s\}}|\tau>t\right]$$
+## Valuation of CDS Default/Loss Leg (Using Fubini)
 
-## INTUITIVE INTERPRETATION: DEFAULT LEG
+$$\begin{aligned}
+PV_{CDS\_DL}(t) &= \mathbb{E}\left[\int_{t}^{T}(1-R)\cdot DF(t, s)\cdot d\mathbb{I}_{\{\tau\leq s\}}|\tau>t\right] \\
+&= \int_{t}^{T}(1-R)\cdot DF(t, s)\cdot d\mathbb{P}(\tau\leq s|\tau>t) \\
+&= (1-R)\cdot\int_{t}^{T}DF(t, s)\cdot dDP(t, s) \tag{20}
+\end{aligned}$$
 
-Present value of loss payment at (random) issuer default time$$
-P V_{C D S_{-}D{\it L}}\left(t\right)=\int_{t}^{T}\left(1-R\right)\cdot D F(t,  s)\cdot d D P(t,  s) \tag{21}
+## Intuitive Interpretation: Default Leg
 
-$$
-Obtained by splitting the time until maturity $[t,      T]$ in infinitesimal (one day) intervals and summing up the loss amount on each interval: $1 − R$
-… multiplied with the [[Discount Factors|discount factor]] for that interval: $DF(t,      s)$ … and multiplied with the incremental probability of default on that interval: $*dDP*(t,      s)$.
+Present value of loss payment at (random) issuer default time:
 
-## HAZARD RATES QUICK RECAP ON DISCOUNT FACTORS AND FORWARD INTEREST RATES
-- Forward [[Interest Rate Quotations|interest rates]] $f (t,      s),      s ≥ t$ represent information about [[Interest Rate Quotations|interest rates]] at future time $s$,      as seen from time $t$. 
-- Information is contained in today's [[The Vasicek Model|term structure]] of spot [[Interest Rate Quotations|interest rates]] (discount curves).
-- [[Forward Points in Currency|Forward rate]] curves $f (t,     .)$ are defined implicitly from [[Discount Factors|Discount Factor]] curves:$$DF(t,     s)=\exp\left[-\int_{t}^{s}f\left(t,     u\right)du\right],     \ \ 0\leq t\leq s,     \tag{22}$$
-… or defined explicitly as
-$$f\left(t,     s\right)=-\frac{\partial}{\partial s}\ln\left[D F\left(t,     s\right)\right]=-\frac{1}{D F(t,     s)}\cdot\frac{\partial D F}{\partial s}\left(t,     s\right).\tag{23}$$
+$$PV_{CDS\_DL}(t)=\int_{t}^{T}(1-R)\cdot DF(t, s)\cdot dDP(t, s) \tag{21}$$
 
-## HAZARD RATES HAZARD RATES (A.K.A. DEFAULT INTENSITIES)
-- [[RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS|Hazard rates]] $h (t,      s)$ represent infinitesimal probabilities of default at future time $s$,      using market information as of time $t$. Similar concept to forward [[Interest Rate Quotations|interest rates]].
-- [[Advanced Usage of QuantLib analytics library|Hazard rate curves]] $h (t,     .)$ defined implicitly from [[A Poisson Model of Single Issuer Default|Survival Probability]] curves:$$SP(t,     s)=\exp\left[-\int_{t}^{s}h\left(t,     u\right)du\right],     \ \ 0\leq t\leq s,     \tag{24}$$
-… or defined explicitly as$$h\left(t,     s\right)=-\frac{\partial}{\partial s}\ln\left[SP\left(t,     s\right)\right]=-\frac{1}{SP(t,     s)}\cdot\frac{\partial SP}{\partial s}\left(t,     s\right).\tag{25}$$
-## PROPERTIES OF HAZARD RATES
-[[RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS|Hazard rates]] $h (t,      s)$ quantify [[A Deterministic Credit Migration Model|conditional probabilities]] of default "around" specific times $s$ in the future$$\mathbb{P}\left(s<\tau<s+\epsilon|\tau>s,     \tau>t\right)\tag{26}$$$$=\frac{\mathbb{P}\left(s<\tau<s+\epsilon|\tau>t\right)}{\mathbb{P}\left(\tau>s|\tau>t\right)}$$$$ =\frac{SP(t,     s)-SP(t,     s+\epsilon)}{SP(t,     s)}$$ $$=1-\exp\left[-\int_{s}^{s+\epsilon}h\left(t,     u\right)du\right]$$$$\simeq h\left(t,     s\right)\cdot\epsilon,     \ \ 0\leq t\leq s.$$
+Obtained by splitting the time until maturity $[t, T]$ in infinitesimal (one day) intervals and summing up the loss amount on each interval: $1-R$
+... multiplied with the discount factor for that interval: $DF(t, s)$ 
+... and multiplied with the incremental probability of default on that interval: $dDP(t, s)$.
 
-## VALUATION OF CDS DEFAULT/LOSS LEG USING HAZARD RATES
-$$PV_{\mathit{CDS\_DL}}\left(t\right)=\left(1-R\right)\cdot\int_{t}^{T}DF(t,     s)\cdot dDP(t,     s)\tag{27}$$
+## Hazard Rates: Quick Recap on Discount Factors and Forward Interest Rates
 
- $$=\left(1-R\right)\cdot\int_{t}^{T}DF(t,     s)\cdot d\left[1-SP(t,     s)\right]\tag{28}$$$$=-\left(1-R\right)\cdot\int_{t}^{T}DF(t,     s)\cdot dSP(t,     s)\tag{29}$$ $$=\left(1-R\right)\cdot\int_{t}^{T}h\left(t,     s\right)\cdot DF(t,     s)\cdot SP(t,     s)\cdot ds.\tag{30}$$$$PV_{\mathit{CDS\_DL}}\left(t\right)=\left(1-R\right)\cdot\int_{t}^{T}h\left(t,     s\right)\cdot DF(t,     s)\cdot SP(t,     s)\cdot ds$$
-$$=\sum_{i=1}^{n}\left(1-R\right)\cdot\int_{T_{i-1}}^{T_{i}}h\left(t,     s\right)\cdot DF(t,     s)\cdot SP(t,     s)\cdot ds\tag{31}$$
-$$\simeq\sum_{i=1}^{n}\left(1-R\right)\cdot h\left(t,     T_{i}\right)\cdot\Delta T_{i}\cdot DF(t,     T_{i})\cdot SP(t,     T_{i}).\tag{32}$$
+- Forward interest rates $f(t, s), s \geq t$ represent information about interest rates at future time $s$, as seen from time $t$. 
+- Information is contained in today's term structure of spot interest rates (discount curves).
+- Forward rate curves $f(t, .)$ are defined implicitly from Discount Factor curves:
+$$DF(t, s)=\exp\left[-\int_{t}^{s}f(t, u)du\right], \ \ 0\leq t\leq s \tag{22}$$
+... or defined explicitly as
+$$f(t, s)=-\frac{\partial}{\partial s}\ln[DF(t, s)]=-\frac{1}{DF(t, s)}\cdot\frac{\partial DF}{\partial s}(t, s) \tag{23}$$
 
-## CDS VALUATION (RECEIVING PREMIUM C,      PAYING DEFAULT/LOSS LEG)
-$$PV_{CDS}\left(t\right)=PV_{CDS\_PL}\left(t\right)-PV_{CDS\_PL}\left(t\right)\tag{33}$$
-$$=\sum_{i=1}^{n}c_{i}\cdot DF(t,     \,     T_{i})\cdot SP(t,     \,     T_{i})$$
-$$-\left(1-R\right)\cdot\int_{t}^{T}h\left(t,     s\right)\cdot DF(t,     s)\cdot SP(t,     s)\cdot ds$$
-$$\simeq\sum_{i=1}^{n}\left[c-\left(1-R\right)\cdot h\left(t,     \,     T_{i}\right)\right]\cdot\Delta T_{i}\cdot DF(t,     \,     T_{i})\cdot SP(t,     \,     T_{i}).\tag{34}$$
+## Hazard Rates (a.k.a. Default Intensities)
 
-## CDS DURATION AND PARSPREAD
-- [[RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS|CDS Duration]] defined as the "Unit" 1bp Premium Leg PV 
-- CDS Premium Leg valuation via [[Key Rates O1s Durations and Hedging|Duration]]:
-- ParSpread defined from [[The Default Correlation of the Reference Issuer|CDS Default]] Leg and [[Key Rates O1s Durations and Hedging|Duration]]: 
-- 
-- CDS valuation:
-#### CDS DURATION DEFINED AS THE "UNIT" 1BP PREMIUM LEG PV$$ Duration(t) := \sum_{i=1}^{n} \Delta T_{i} \cdot DF(t,      T_{i}) \cdot SP(t,      T_{i}) \tag{35}$$
-#### CDS PREMIUM LEG VALUATION VIA DURATION:$$ PV_{CDS\_PL} (t) = c \cdot Duration(t) \tag{36}$$
-#### PARSPREAD DEFINED FROM CDS DEFAULT LEG AND DURATION:$$ PV_{CDS\_DL} (t) = ParSpread(t) \cdot Duration(t) \tag{37}$$
-#### CDS VALUATION:$$ PV_{CDS} (t) = [c - ParSpread(t)] \cdot Duration(t) \tag{38}$$
-## CDS PAR SPREADS,      PRICES VS UPFRONTS FOR DIFFERENT MATURITIES
-- Standardized CDS maturities: 1Y,      2Y,      3Y,      4Y,      5Y,      7Y,      10Y 
-- CDS Par Spreads: measure the "market implied" issuer default risks for the given maturities. 
-- They are one-to-one to (and can be "bootstrapped" from) CDS prices and survival probabilities.
-- "CDS PV" = price from the point of view of a CDS [[Credit Default Swaps|protection seller]] (long [[Quantitative Trading Strategies Lecture Notes|credit risk]]) 
-- "[[CDS Upfront Amounts|CDS Upfront]]" = price from the point of view of a CDS [[Credit Default Swaps|protection buyer]] (short [[Quantitative Trading Strategies Lecture Notes|credit risk]]) 
-- "[[CDS Upfront Amounts|CDS Upfront]]" = - "CDS PV"
-## CDS DURATION AND PARSPREAD FORMULAS
+- Hazard rates $h(t, s)$ represent infinitesimal probabilities of default at future time $s$, using market information as of time $t$. Similar concept to forward interest rates.
+- Hazard rate curves $h(t, .)$ defined implicitly from Survival Probability curves:
+$$SP(t, s)=\exp\left[-\int_{t}^{s}h(t, u)du\right], \ \ 0\leq t\leq s \tag{24}$$
+... or defined explicitly as
+$$h(t, s)=-\frac{\partial}{\partial s}\ln[SP(t, s)]=-\frac{1}{SP(t, s)}\cdot\frac{\partial SP}{\partial s}(t, s) \tag{25}$$
 
-## CDS TRADES "AT PAR" WHEN PARSPREAD MATCHES THE COUPON:
-- $$ PV_{CDS} (t) = 0 \leftrightarrow ParSpread(t) = c \tag{39}$$
+## Properties of Hazard Rates
 
-## CDS PARSPREAD MEASURES THE CREDIT RISK OF THE CDS CONTRACT
-- $$ ParSpread(t) \approx (1 - R) \cdot h \tag{40}$$
-## CDS CS01 DEFINED AS \(\DELTA PV\) FOR -1BP CHANGE IN PARSPREAD:$$ CS01_{CDS} (t,      s) := PV_{CDS} (t,      s - 1bp) - PV_{CDS} (t,      s) $$ $$ \approx [c - s + 1bp] \cdot Duration(t) - [c - s] \cdot Duration(t) $$$$ = Duration(t) \tag{41}$$## ISDA CDS HAZARD RATE MODEL ISDA CDS STANDARD PRICING & QUOTING MODEL
+Hazard rates $h(t, s)$ quantify conditional probabilities of default "around" specific times $s$ in the future:
 
-Deterministic [[Advanced Usage of QuantLib analytics library|discount curve]]: ISDA SOFR Constant recovery R,      constant hazard rate h Default Leg computed via numerical integration$$PV_{\mathit{CDS}}\left(t,     c,     h,     R\right)=PV_{\mathit{CDS}\_\mathit{PL}}\left(t,     c,     h,     R\right)-PV_{\mathit{CDS}\_\mathit{PL}}\left(t,     h,     R\right)$$
-$$=\sum_{i=1}^{n}c_{i}\cdot DF(t,     T_{i})\cdot e^{\left(t-T_{i}\right)\cdot h}-\left(1-R\right)\cdot h\cdot\int_{t}^{T}DF(t,     s)\cdot e^{\left(t-s\right)\cdot h}ds$$
-$$\simeq\sum_{i=1}^{n}\left[c-\left(1-R\right)\cdot h\right]\cdot\Delta T_{i}\cdot DF(t,     T_{i})\cdot e^{\left(t-T_{i}\right)\cdot h}$$$$ \sum_{i=1}^{n}\left[c-(1-R)\cdot h\right]\cdot\Delta T_{i}\cdot e^{(t-T_{i})\cdot(r_{i}+h)}.\tag{42}$$
+$$\begin{aligned}
+\mathbb{P}(s<\tau<s+\epsilon|\tau>s, \tau>t) &= \frac{\mathbb{P}(s<\tau<s+\epsilon|\tau>t)}{\mathbb{P}(\tau>s|\tau>t)} \\
+&= \frac{SP(t, s)-SP(t, s+\epsilon)}{SP(t, s)} \\
+&= 1-\exp\left[-\int_{s}^{s+\epsilon}h(t, u)du\right] \\
+&\simeq h(t, s)\cdot\epsilon, \ \ 0\leq t\leq s
+\end{aligned}$$
 
-## SIMPLE CDS VALUATION WITH CONSTANT PARAMETERS$$ PV_{CDS} (c,      r,      h,      R,      T) = \tag{43} $$$$ = \sum_{k=1}^{4T} \frac{c}{4} \cdot e^{-k \cdot (r+h)/4} - \frac{(1 - R) \cdot h}{r + h} \cdot \left[ 1 - e^{-T \cdot (r+h)} \right] \tag{44} $$$$ = \left[ \frac{c/4}{e^{(r+h)/4} - 1} - \frac{(1 - R) \cdot h}{r + h} \right] \cdot \left[ 1 - e^{-T \cdot (r+h)} \right] \tag{45} $$$$ \approx \left[ c - (1 - R) \cdot h \right] \cdot \frac{1 - e^{-T \cdot (r+h)}}{r + h} \tag{46} $$
-## CDS VALUATION SURFACE (5% FLAT INTEREST RATES,      5% COUPON) 
- ![500](ff4daa49d51e35f704363ecc48e1f397.png)
-ISDA CDS "CURVE SHAPE" MODEL
-- Uses reference ISDA SNAC [[Advanced Usage of QuantLib analytics library|discount curve]],      flat recovery and piece-wise constant hazard rate 
+## Valuation of CDS Default/Loss Leg Using Hazard Rates
+
+$$\begin{aligned}
+PV_{CDS\_DL}(t) &= (1-R)\cdot\int_{t}^{T}DF(t, s)\cdot dDP(t, s) \tag{27} \\
+&= (1-R)\cdot\int_{t}^{T}DF(t, s)\cdot d[1-SP(t, s)] \tag{28} \\
+&= -(1-R)\cdot\int_{t}^{T}DF(t, s)\cdot dSP(t, s) \tag{29} \\
+&= (1-R)\cdot\int_{t}^{T}h(t, s)\cdot DF(t, s)\cdot SP(t, s)\cdot ds \tag{30}
+\end{aligned}$$
+
+$$\begin{aligned}
+PV_{CDS\_DL}(t) &= (1-R)\cdot\int_{t}^{T}h(t, s)\cdot DF(t, s)\cdot SP(t, s)\cdot ds \\
+&= \sum_{i=1}^{n}(1-R)\cdot\int_{T_{i-1}}^{T_{i}}h(t, s)\cdot DF(t, s)\cdot SP(t, s)\cdot ds \tag{31} \\
+&\simeq \sum_{i=1}^{n}(1-R)\cdot h(t, T_{i})\cdot\Delta T_{i}\cdot DF(t, T_{i})\cdot SP(t, T_{i}) \tag{32}
+\end{aligned}$$
+
+## CDS Valuation (Receiving Premium C, Paying Default/Loss Leg)
+
+$$\begin{aligned}
+PV_{CDS}(t) &= PV_{CDS\_PL}(t)-PV_{CDS\_DL}(t) \tag{33} \\
+&= \sum_{i=1}^{n}c_{i}\cdot DF(t, \, T_{i})\cdot SP(t, \, T_{i}) \\
+&- (1-R)\cdot\int_{t}^{T}h(t, s)\cdot DF(t, s)\cdot SP(t, s)\cdot ds \\
+&\simeq \sum_{i=1}^{n}[c-(1-R)\cdot h(t, \, T_{i})]\cdot\Delta T_{i}\cdot DF(t, \, T_{i})\cdot SP(t, \, T_{i}) \tag{34}
+\end{aligned}$$
+
+## CDS Duration and ParSpread
+
+### CDS Duration Defined as the "Unit" 1bp Premium Leg PV
+$$Duration(t) := \sum_{i=1}^{n} \Delta T_{i} \cdot DF(t, T_{i}) \cdot SP(t, T_{i}) \tag{35}$$
+
+### CDS Premium Leg Valuation via Duration:
+$$PV_{CDS\_PL}(t) = c \cdot Duration(t) \tag{36}$$
+
+### ParSpread Defined from CDS Default Leg and Duration:
+$$PV_{CDS\_DL}(t) = ParSpread(t) \cdot Duration(t) \tag{37}$$
+
+### CDS Valuation:
+$$PV_{CDS}(t) = [c - ParSpread(t)] \cdot Duration(t) \tag{38}$$
+
+## CDS Par Spreads, Prices vs Upfronts for Different Maturities
+
+- Standardized CDS maturities: 1Y, 2Y, 3Y, 4Y, 5Y, 7Y, 10Y 
+- CDS Par Spreads: measure the "market implied" issuer default risks for the given maturities
+- They are one-to-one to (and can be "bootstrapped" from) CDS prices and survival probabilities
+- "CDS PV" = price from the point of view of a CDS protection seller (long credit risk)
+- "CDS Upfront" = price from the point of view of a CDS protection buyer (short credit risk)
+- "CDS Upfront" = - "CDS PV"
+
+## CDS Duration and ParSpread Formulas
+
+### CDS trades "at par" when ParSpread matches the coupon:
+$$PV_{CDS}(t) = 0 \leftrightarrow ParSpread(t) = c \tag{39}$$
+
+### CDS ParSpread measures the credit risk of the CDS contract
+$$ParSpread(t) \approx (1 - R) \cdot h \tag{40}$$
+
+### CDS CS01 defined as $\Delta PV$ for -1bp change in ParSpread:
+$$\begin{aligned}
+CS01_{CDS}(t, s) &:= PV_{CDS}(t, s - 1bp) - PV_{CDS}(t, s) \\
+&\approx [c - s + 1bp] \cdot Duration(t) - [c - s] \cdot Duration(t) \\
+&= Duration(t) \tag{41}
+\end{aligned}$$
+
+## ISDA CDS Hazard Rate Model
+
+### ISDA CDS Standard Pricing & Quoting Model
+
+- Deterministic discount curve: ISDA SOFR 
+- Constant recovery R, constant hazard rate h 
+- Default Leg computed via numerical integration
+
+$$\begin{aligned}
+PV_{CDS}(t, c, h, R) &= PV_{CDS\_PL}(t, c, h, R) - PV_{CDS\_DL}(t, h, R) \\
+&= \sum_{i=1}^{n}c_{i}\cdot DF(t, T_{i})\cdot e^{(t-T_{i})\cdot h} - (1-R)\cdot h\cdot\int_{t}^{T}DF(t, s)\cdot e^{(t-s)\cdot h}ds \\
+&\simeq \sum_{i=1}^{n}[c-(1-R)\cdot h]\cdot\Delta T_{i}\cdot DF(t, T_{i})\cdot e^{(t-T_{i})\cdot h} \\
+&= \sum_{i=1}^{n}[c-(1-R)\cdot h]\cdot\Delta T_{i}\cdot e^{(t-T_{i})\cdot(r_{i}+h)} \tag{42}
+\end{aligned}$$
+
+## Simple CDS Valuation with Constant Parameters
+$$\begin{aligned}
+PV_{CDS}(c, r, h, R, T) &= \sum_{k=1}^{4T} \frac{c}{4} \cdot e^{-k \cdot (r+h)/4} - \frac{(1 - R) \cdot h}{r + h} \cdot [1 - e^{-T \cdot (r+h)}] \tag{44} \\
+&= \left[\frac{c/4}{e^{(r+h)/4} - 1} - \frac{(1 - R) \cdot h}{r + h}\right] \cdot [1 - e^{-T \cdot (r+h)}] \tag{45} \\
+&\approx [c - (1 - R) \cdot h] \cdot \frac{1 - e^{-T \cdot (r+h)}}{r + h} \tag{46}
+\end{aligned}$$
+
+## CDS Valuation Surface (5% Flat Interest Rates, 5% Coupon) 
+
+![500](ff4daa49d51e35f704363ecc48e1f397.png)
+
+## ISDA CDS "Curve Shape" Model
+
+- Uses reference ISDA SNAC discount curve, flat recovery and piece-wise constant hazard rate 
 - Calibrate piece-wise flat hazard rate curve using sequential "Bootstrapping" over CDS maturities 
 - Standard CDS maturities:
-	- 1Y,      2Y,      3Y,      5Y,      7Y and 10Y
-- ISDA SNAC swap/[[Advanced Usage of QuantLib analytics library|discount curve]] definition:
-	- Curve calibrated to 3M [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] until Oct 2022 
-	- Curve calibrated to 3M SOFR after Oct 2022
- ![500](bcf4324ce737732237aa9cd687528bcf.png)
-##  BOND PRICING IN THE HAZARD RATE MODEL 
-#### FIXED LEG VALUATION:
-- Risky semi-annual coupons $c$ at times $\{ T_i \}^n_{i=1}$ and principal payment at maturity $T = T_n$$$ PV_{Bond\_FL} (t) = \sum_{i=1}^{n} c \cdot \Delta T_i \cdot DF(t,      T_i) \cdot SP(t,      T_i) + DF(t,      T_n) \cdot SP(t,      T_n) \tag{47} $$
-  #### DEFAULT LEG VALUATION:
-- Bond pays recovery value $R_i$ at default time $\tau \in [T_{i-1},      T_i]$,      if issuer defaults before maturity $T$$$ PV_{Bond\_DL} (t) = \int_{t}^{T} R_s \cdot h(t,      s) \cdot DF(t,      s) \cdot SP(t,      s) \,      ds $$
-$$$ \approx \sum_{i=1}^{n} R_i \cdot h(t,      T_i) \cdot \Delta T_i \cdot DF(t,      T_i) \cdot SP(t,      T_i) \tag{48} $$
-#### BOND VALUATION FORMULA (COMBINED FIXED AND DEFAULT LEGS)$$ PV_{Bond} (t) = PV_{Bond\_FL} (t) + PV_{Bond\_DL} (t) \tag{49} $$$$ = \sum_{i=1}^{n} c \cdot \Delta T_i \cdot DF(t,      T_i) \cdot SP(t,      T_i) + \int_{t}^{T} R_s \cdot h(t,      s) \cdot DF(t,      s) \cdot SP(t,      s) ds \tag{50}$$ $$ \approx \sum_{i=1}^{n} [c + R_i \cdot h(t,      T_i)] \cdot \Delta T_i \cdot DF(t,      T_i) \cdot SP(t,      T_i) + DF(t,      T_n) \cdot SP(t,      T_n) \tag{51}$$
-## SIMPLE HAZARD RATE BOND PRICING FORMULA (FLAT PARAMETERS)$$ PV_{Bond} (c,      r,      h,      R) = \tag{52} $$$$ = \sum_{k=1}^{2T} \frac{c}{2} \cdot e^{-k \cdot (r+h)/2} + e^{-T \cdot (r+h)} + \frac{R \cdot h}{r + h} \cdot [1 - e^{-T \cdot (r+h)}] \tag{53} $$$$ = 1 + \left[\frac{c}{2} - \frac{(e^{\frac{r+h}{2}} - 1)}{e^{\frac{r+h}{2}} - 1}\right] \cdot \frac{R \cdot h}{r + h} \cdot [1 - e^{-T \cdot (r+h)}] \tag{54} $$$$ \approx 1 + \left[ \frac{c - r - (1 - R) \cdot h}{r + h} \right] \cdot [1 - e^{-T \cdot (r+h)}] \tag{55} $$
+  - 1Y, 2Y, 3Y, 5Y, 7Y and 10Y
+- ISDA SNAC swap/discount curve definition:
+  - Curve calibrated to 3M LIBOR until Oct 2022 
+  - Curve calibrated to 3M SOFR after Oct 2022
 
-## BOND VALUATION SURFACE USING HAZARD RATE MODEL 
- ![500](b090a10c674e9619ed30797c6a98325e.png)
+![500](bcf4324ce737732237aa9cd687528bcf.png)
 
-## YIELD/SPREAD MODEL VS HAZARD RATE MODEL HAZARD RATE VS YIELD/SPREAD MODELS (FLAT PARAMETERS)
-Bond valuation in flat "yield/spread" model:$$PV_{Bond}\left(c,     r,     s\right)\simeq1+\left[\frac{c-r-s}{r+s}\right]\cdot\left[1-e^{-T\cdot\left(r+s\right)}\right]\,     .\tag{56}$$
-Bond valuation in flat "hazard rate" model: $$PV_{Bond}\left(c,     r,     h,     R\right)\simeq1+\left[\frac{c-r-\left(1-R\right)\cdot h}{r+h}\right]\cdot\left[1-e^{-T\cdot\left(r+h\right)}\right]\tag{57}$$
-Yield/spread model is "simple" case of [[Credit Market Session 2|hazard rate model]] for$$R=0,      s=h\tag{58}$$
+## Bond Pricing in the Hazard Rate Model 
 
-## BOND PRICING IN YIELD MODEL VS HAZARD RATE MODEL
-Bond trading at 100% "par" price in [[Credit Market Session 2|hazard rate model]]:$$PV=1\iff c=r+(1-R)\cdot h.\tag{59}$$
+### Fixed Leg Valuation:
+- Risky semi-annual coupons $c$ at times $\{T_i\}^n_{i=1}$ and principal payment at maturity $T = T_n$
+$$PV_{Bond\_FL}(t) = \sum_{i=1}^{n} c \cdot \Delta T_i \cdot DF(t, T_i) \cdot SP(t, T_i) + DF(t, T_n) \cdot SP(t, T_n) \tag{47}$$
+
+### Default Leg Valuation:
+- Bond pays recovery value $R_i$ at default time $\tau \in [T_{i-1}, T_i]$, if issuer defaults before maturity $T$
+$$\begin{aligned}
+PV_{Bond\_DL}(t) &= \int_{t}^{T} R_s \cdot h(t, s) \cdot DF(t, s) \cdot SP(t, s) \, ds \\
+&\approx \sum_{i=1}^{n} R_i \cdot h(t, T_i) \cdot \Delta T_i \cdot DF(t, T_i) \cdot SP(t, T_i) \tag{48}
+\end{aligned}$$
+
+### Bond Valuation Formula (Combined Fixed and Default Legs)
+$$\begin{aligned}
+PV_{Bond}(t) &= PV_{Bond\_FL}(t) + PV_{Bond\_DL}(t) \tag{49} \\
+&= \sum_{i=1}^{n} c \cdot \Delta T_i \cdot DF(t, T_i) \cdot SP(t, T_i) + \int_{t}^{T} R_s \cdot h(t, s) \cdot DF(t, s) \cdot SP(t, s) ds \tag{50} \\
+&\approx \sum_{i=1}^{n} [c + R_i \cdot h(t, T_i)] \cdot \Delta T_i \cdot DF(t, T_i) \cdot SP(t, T_i) + DF(t, T_n) \cdot SP(t, T_n) \tag{51}
+\end{aligned}$$
+
+## Simple Hazard Rate Bond Pricing Formula (Flat Parameters)
+$$\begin{aligned}
+PV_{Bond}(c, r, h, R) &= \sum_{k=1}^{2T} \frac{c}{2} \cdot e^{-k \cdot (r+h)/2} + e^{-T \cdot (r+h)} + \frac{R \cdot h}{r + h} \cdot [1 - e^{-T \cdot (r+h)}] \tag{53} \\
+&= 1 + \left[\frac{c}{2} \cdot \frac{1 - e^{-T \cdot (r+h)}}{1 - e^{-(r+h)/2}} - 1 + \frac{R \cdot h}{r + h}\right] \cdot [1 - e^{-T \cdot (r+h)}] \tag{54} \\
+&\approx 1 + \left[\frac{c - r - (1 - R) \cdot h}{r + h}\right] \cdot [1 - e^{-T \cdot (r+h)}] \tag{55}
+\end{aligned}$$
+
+## Bond Valuation Surface Using Hazard Rate Model 
+
+![500](b090a10c674e9619ed30797c6a98325e.png)
+
+## Yield/Spread Model vs Hazard Rate Model
+
+### Hazard Rate vs Yield/Spread Models (Flat Parameters)
+
+Bond valuation in flat "yield/spread" model:
+$$PV_{Bond}(c, r, s) \simeq 1 + \left[\frac{c-r-s}{r+s}\right] \cdot [1-e^{-T \cdot (r+s)}] \tag{56}$$
+
+Bond valuation in flat "hazard rate" model: 
+$$PV_{Bond}(c, r, h, R) \simeq 1 + \left[\frac{c-r-(1-R) \cdot h}{r+h}\right] \cdot [1-e^{-T \cdot (r+h)}] \tag{57}$$
+
+Yield/spread model is "simple" case of hazard rate model for
+$$R=0, s=h \tag{58}$$
+
+## Bond Pricing in Yield Model vs Hazard Rate Model
+
+Bond trading at 100% "par" price in hazard rate model:
+$$PV=1 \iff c=r+(1-R) \cdot h \tag{59}$$
+
 Bond trading at 100% "par" price in yield/spread model:
-$$PV=1\iff c=y=r+s\tag{60}$$
-Model translations:$$y=c=r+(1-R)\cdot h\tag{61}$$$$s=(1-R)\cdot h\tag{62}$$
+$$PV=1 \iff c=y=r+s \tag{60}$$
 
-## YIELD/SPREAD MODEL VS HAZARD RATE MODEL 
-SUMMARY OF [[Credit Market Session 2|HAZARD RATE MODEL]]
-- By construction,      recovery rates R are increasing with seniority rank in the [[Introduction to Corporate Finance|capital structure]]
-	- Preferred Equity ~0%
-	- Subordinated ~20%
-	- Senior Unsecured ~40%
-	- Senior Secured ~ 65%
-	- Senior Loan (First Lien) ~80%
-- When using the [[Credit Market Session 2|hazard rate model]],      bonds of all seniorities are priced simultaneously 
-	- using same [[A Poisson Model of Single Issuer Default|survival probability]]/hazard rate curve (default time is common to all instruments) 
-	- … but different recovery rates.
-- Consistent framework for identifying dislocations across maturities and [[Credit Markets Session 1|seniority ranks]]!
-[[Advanced Usage of QuantLib analytics library|CREDIT CURVE]] SHAPES: VZ VS US TREASURY YIELDS [[Credit Markets Session 4|CALIBRATION]] OF THE [[Credit Market Session 2|HAZARD RATE MODEL]] 
- ![500](63cb053f2afd6bf0d66b64295ea9749b.png)
+Model translations:
+$$y=c=r+(1-R) \cdot h \tag{61}$$
+$$s=(1-R) \cdot h \tag{62}$$
 
-[[Credit Markets Session 4|CALIBRATION]] OF THE [[Credit Market Session 2|HAZARD RATE MODEL]]
+## Summary of Hazard Rate Model
+
+- By construction, recovery rates R are increasing with seniority rank in the capital structure
+  - Preferred Equity ~0%
+  - Subordinated ~20%
+  - Senior Unsecured ~40%
+  - Senior Secured ~ 65%
+  - Senior Loan (First Lien) ~80%
+- When using the hazard rate model, bonds of all seniorities are priced simultaneously 
+  - using same survival probability/hazard rate curve (default time is common to all instruments) 
+  - ... but different recovery rates.
+- Consistent framework for identifying dislocations across maturities and seniority ranks!
+
+## Credit Curve Shapes: VZ vs US Treasury Yields
+
+![500](63cb053f2afd6bf0d66b64295ea9749b.png)
+
+## Calibration of the Hazard Rate Model
+
 - Decide on a functional form for the Hazard Rate curve:
-	- piece-wise constant (or linear) curve on pivot maturities grid (e.g. 1Y,      2Y,      3Y,      5Y,      7Y,      10Y,      20Y and 30Y) 
-	- or use smooth parametric curve shapes (e.g. Nelson-Siegel)
-- Agree on issuer recovery rates by [[Credit Markets Session 1|seniority ranks]]
-	- use historical averages: ~40% recovery for CDS and senior unsecured bonds 
-	- … or calibrate recovery rates from market prices
-- Select weights for instrument used as [[Credit Markets Session 4|calibration]] inputs
-	- usually weights are proportional to [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] 
-	- and inversely proportional to risk/DV01
-- Run [[Credit Markets Session 4|calibration]] process: sequential bootstrapping vs numerical minimization of residual errors
+  - piece-wise constant (or linear) curve on pivot maturities grid (e.g. 1Y, 2Y, 3Y, 5Y, 7Y, 10Y, 20Y and 30Y) 
+  - or use smooth parametric curve shapes (e.g. Nelson-Siegel)
+- Agree on issuer recovery rates by seniority ranks
+  - use historical averages: ~40% recovery for CDS and senior unsecured bonds 
+  - ... or calibrate recovery rates from market prices
+- Select weights for instrument used as calibration inputs
+  - usually weights are proportional to liquidity 
+  - and inversely proportional to risk/DV01
+- Run calibration process: sequential bootstrapping vs numerical minimization of residual errors
 
-## FAIR VALUE PRICES AND "MODEL EDGES"
-- Use jointly calibrated [[RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS|Hazard Rates]] model to compute [[Credit Markets Session 4|model prices]] for arbitrary credit instruments:
-	- for instruments used as [[Credit Markets Session 4|calibration]] inputs: bonds and CDS 
-	- … as well as instruments outside the [[Credit Markets Session 4|calibration]] set: less liquid,      off-the-run,      new issues bonds,      etc 
-- Once can think of the calibrated model price as the "Fair Value" price for an instrument 
+## Fair Value Prices and "Model Edges"
+
+- Use jointly calibrated Hazard Rates model to compute model prices for arbitrary credit instruments:
+  - for instruments used as calibration inputs: bonds and CDS 
+  - ... as well as instruments outside the calibration set: less liquid, off-the-run, new issues bonds, etc 
+- One can think of the calibrated model price as the "Fair Value" price for an instrument 
 - The difference between market and model/fair value prices (distance to fair value) is called "model edge"
 
-## EXAMPLE: BOND VS CDS BASIS ARBITRAGE
-- For any credit issuer,      cash bonds and synthetic CDS are linked to same default event! 
-- CDS usually used to hedge the [[Credit Markets Session 5|credit default risk]] of a "long" risky bond position 
+## Example: Bond vs CDS Basis Arbitrage
+
+- For any credit issuer, cash bonds and synthetic CDS are linked to same default event! 
+- CDS usually used to hedge the credit default risk of a "long" risky bond position 
 - Bond "intrinsic" prices (priced on CDS calibrated curve) and market prices "should be close" 
 - Option Adjusted Spread/OAS = "market - intrinsic" bond price 
-- OAS "dislocated" from zero =) opportunity for bond vs CDS basis [[PSET 1 Solution-Financial Instruments|arbitrage trade]]!
+- OAS "dislocated" from zero => opportunity for bond vs CDS basis arbitrage trade!
 
-## BOND VS CDS BASIS EXAMPLE: VZ CURVE 
- ![500](7152aea3e4bab8153540da4ee622c989.png)
-## Q &A
-- [[Credit Market Session 2|Hazard rate model]] formulas 
-- [[Copulas and the Modeling of Default Correlatio|CDS pricing]] Bond [[Arbitrage Pricing of Derivatives|pricing]]
-- Yield vs. Hazard Rate [[Arbitrage Pricing of Derivatives|pricing]] models 
+## Bond vs CDS Basis Example: VZ Curve 
+
+![500](7152aea3e4bab8153540da4ee622c989.png)
+
+## Q&A
+
+- Hazard rate model formulas 
+- CDS pricing 
+- Bond pricing
+- Yield vs. Hazard Rate pricing models 
 - Risks and sensitivities 
-- Credit [[Credit Markets Session 4|Calibration]] 
-- [[Credit Markets Session 4|Model Prices]] and Edges
+- Credit Calibration 
+- Model Prices and Edges

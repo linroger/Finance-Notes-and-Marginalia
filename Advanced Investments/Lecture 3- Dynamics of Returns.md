@@ -1,30 +1,44 @@
 ---
-title: Lecture 3-Dynamics of Returns
+title: Lecture 3 - Dynamics of Returns
+cssclasses:
+  - academia
+  - finance
 tags:
   - conditional_returns
   - lecture_notes
   - market_timing
   - stock_returns
   - volatility
+  - return_predictability
+  - time_series_analysis
+  - market_efficiency
+  - dynamic_portfolio_management
+  - financial_econometrics
 aliases:
   - Dynamics of Returns
   - Lecture 3
   - Lecture 3 Notes
+  - Return Dynamics
+  - Time-Varying Returns
 key_concepts:
-  - conditional distribution of returns
-  - optimal allocation formula
-  - statistical model of returns
-  - time-varying expected returns
-  - unconditional distribution of returns
+  - Conditional distribution of returns
+  - Optimal allocation formula
+  - Statistical model of returns
+  - Time-varying expected returns
+  - Unconditional distribution of returns
+  - Market timing strategies
+  - Return predictability evidence
+  - Volatility forecasting methods
+  - Dynamic allocation techniques
+  - Autoregressive processes
+  - Business cycle predictability
+  - Conditional variances
 ---
 
 
-# Lecture 3-Dynamics of Returns
+# Lecture 3: Dynamics of Returns
 
-[[Lecture 3- [[Lecture 3- Dynamics of Returns|Dynamics of Returns]]|return dynamics]]
-## Lecture 3
-
-We now focus on [[Lecture 3- [[Lecture 3- Dynamics of Returns|Dynamics of Returns]]|return dynamics]] over time. Recall from lecture 1 the formula for the optimal risky asset share in the single risky asset case:
+We now focus on return dynamics over time. Recall from lecture 1 the formula for the optimal risky asset share in the single risky asset case:
 $$
 
 \begin{equation*}
@@ -35,29 +49,29 @@ $$
 
 $$
 
-The inputs of this [[Lecture 3- Dynamics of Returns|optimal allocation formula]] could potentially vary over time. Perhaps there are times when expected excess [[Assets|returns]] are high and times when they are low? Perhaps there are times when volatility is high and other times when volatility is low? If such time-variation in expected [[Assets|returns]] or risk exists,  can it be exploited in a markettiming strategy? Later,  in lecture 5 ,  we will look more detail into optimal [[Lecture 2- [[Lecture 2- Asset Allocation with Multiple Risky Assets|Asset Allocation]] with [[Lecture 2- Asset Allocation with Multiple Risky Assets|Multiple Risky Assets]]|[[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]]]] in a multi-period setting when risk and [[Lecture 1- Probability Distributions of Returns|expected return]] are time-varying. But for now,  let's just think about potentially applying this formula period-by-period,  with a oneperiod [[An Asset Allocation Primer|investment]] horizon. To do this,  we need to a statistical model that gives us [[FORWARD RATES AND TERM STRUCTURE|expectations]] of next-period [[Assets|returns]] and/or forecasts of next-period volatility.
+The inputs of this optimal allocation formula could potentially vary over time. Perhaps there are times when expected excess [[Assets|returns]] are high and times when they are low? Perhaps there are times when volatility is high and other times when volatility is low? If such time-variation in expected [[Assets|returns]] or risk exists,  can it be exploited in a markettiming strategy? Later, in lecture 5, we will look more detail into optimal [[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]] in a multi-period setting when risk and expected return are time-varying. But for now,  let's just think about potentially applying this formula period-by-period,  with a oneperiod [[An Asset Allocation Primer|investment]] horizon. To do this,  we need to a statistical model that gives us [[FORWARD RATES AND TERM STRUCTURE|expectations]] of next-period [[Assets|returns]] and/or forecasts of next-period volatility.
 
 With this motivation in mind,  we will now look the data to answer questions such as: Are [[Hedge Fund Strategies|stock market]] index [[Assets|returns]] predictable? If yes,  does such predictability allow market timing? What sort of variables can be useful predictors of [[Assets|returns]]? Is volatility predictable?
 
-### 3.1 Conditional [[Lecture 1- Probability Distributions of Returns|probability distributions]]
+## 3.1 Conditional Probability Distributions
 
-Questions about the [[Lecture 2- [[Lecture 2- Asset Allocation with Multiple Risky Assets|Asset Allocation]] with [[Lecture 2- Asset Allocation with Multiple Risky Assets|Multiple Risky Assets]]|[[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]]]],  predictability,  and market timing all have to do with the conditional [[Lecture 1- [[Exercises|Probability Distributions]] of [[Assets|Returns]]|probability distribution]] of [[Assets|returns]].
+Questions about the asset allocation,  predictability,  and market timing all have to do with the conditional probability distribution of returns.
 
-In the past two lectures we focused on the unconditional [[Lecture 1- [[Exercises|Probability Distributions]] of [[Assets|Returns]]|probability distribution]] of [[Assets|returns]]. The unconditional distribution describes how likely various outcomes are
+In the past two lectures we focused on the unconditional probability distribution of returns. The unconditional distribution describes how likely various outcomes are
 
 in general,  without picking a subset of specific situations. For example,  we discussed how to estimate the unconditional mean of stock [[Assets|returns]] by taking a simple average of [[Assets|returns]].
 
-In contrast,  the conditional distribution describes how likely various outcomes for [[Assets|returns]] are conditional on a subset of specific situations. For example,  suppose we come to the conclusion that the distribution of next period [[Assets|returns]],  $R_{t+1}$ is different depending on whether [[Assets|returns]] in the current period,  $R_{t}$ are negative or positive. In this case,  the current period return $R_{t}$ is the conditioning information and the distribution of [[Assets|returns]] conditional on whether $R_{t}<0$ or $R_{t} \geq 0$ is the [[Lecture 3- Dynamics of Returns|conditional distribution of returns]].
+In contrast,  the conditional distribution describes how likely various outcomes for returns are conditional on a subset of specific situations. For example,  suppose we come to the conclusion that the distribution of next period returns,  $R_{t+1}$ is different depending on whether returns in the current period,  $R_{t}$ are negative or positive. In this case,  the current period return $R_{t}$ is the conditioning information and the distribution of returns conditional on whether $R_{t}<0$ or $R_{t} \geq 0$ is the conditional distribution of returns.
 
-Now,  the conditional distribution differs from the unconditional distribution only if the conditioning information (lagged [[Assets|returns]] in our example) actually has some useful information about the shape and location of [[Lecture 1- [[Exercises|Probability Distributions]] of [[Assets|Returns]]|probability distribution]] of future [[Assets|returns]]. To describe how the shape and location of this [[Lecture 1- [[Exercises|Probability Distributions]] of [[Assets|Returns]]|probability distribution]] changes with conditioning information,  we need a statistical model.
+Now,  the conditional distribution differs from the unconditional distribution only if the conditioning information (lagged returns in our example) actually has some useful information about the shape and location of probability distribution of future returns. To describe how the shape and location of this probability distribution changes with conditioning information,  we need a statistical model.
 
-For example,  a crude statistical model of the conditional distribution of [[Hedge Fund Strategies|stock market]] [[Assets|returns]] would be to assert that that future [[Assets|returns]] may be drawn from two different distributions: one that applies when the market went up in the previous month,  the other one when it fell.
+For example,  a crude statistical model of the conditional distribution of stock market returns would be to assert that that future returns may be drawn from two different distributions: one that applies when the market went up in the previous month,  the other one when it fell.
 
-Figure 3.1 plots histograms of the two distributions: one depicts the distribution of [[Hedge Fund Strategies|stock market]] [[Assets|returns]] following a gain in the previous month; the other one depicts the distribution of [[Hedge Fund Strategies|stock market]] [[Assets|returns]] following a loss in the previous month. Interestingly,  the distributions do seem to be different! Note how the distribution following a loss is more spread out and less concentrated in the middle. This means that when the [[Hedge Fund Strategies|stock market]] has fallen in the previous month then,  historically,  it was followed by a more volatile month in which [[Assets|returns]] were likely to be either very high or very low.
+Figure 3.1 plots histograms of the two distributions: one depicts the distribution of stock market returns following a gain in the previous month; the other one depicts the distribution of stock market returns following a loss in the previous month. Interestingly,  the distributions do seem to be different! Note how the distribution following a loss is more spread out and less concentrated in the middle. This means that when the stock market has fallen in the previous month then,  historically,  it was followed by a more volatile month in which returns were likely to be either very high or very low.
 
-Just as we can characterize unconditional [[Lecture 1- [[Exercises|Probability Distributions]] of [[Assets|Returns]]|probability distribution]]s in terms of unconditional moments,  we can describe conditional distributions in terms of conditional moments. If $x_{t}$ is a variable that represents our conditioning information (in Figure $3.1 x_{t}$ would be an indicator for whether $R_{t}<0$ or $R_{t} \geq 0$ ),  then we can describe the distribution of $R_{t+1}$ conditional on $x_{t}$ with its conditional moments such as,  e.g.,  the conditional [[Lecture 1- Probability Distributions of Returns|expected return]],  $\mathbb{E}\left[R_{t+1} \mid x_{t}\right]$,  and the conditional variance $\operatorname{var}\left(R_{t+1} \mid x_{t}\right)$.
+Just as we can characterize unconditional probability distributions in terms of unconditional moments,  we can describe conditional distributions in terms of conditional moments. If $x_{t}$ is a variable that represents our conditioning information (in Figure $3.1 x_{t}$ would be an indicator for whether $R_{t}<0$ or $R_{t} \geq 0$ ),  then we can describe the distribution of $R_{t+1}$ conditional on $x_{t}$ with its conditional moments such as,  e.g.,  the conditional expected return,  $\mathbb{E}\left[R_{t+1} \mid x_{t}\right]$,  and the conditional variance $\operatorname{var}\left(R_{t+1} \mid x_{t}\right)$.
 
-To make these conditional moments useful in applications,  we need a statistical model to describe them. Here is an example: Suppose there was momentum in [[Assets|returns]],  by which we mean that high [[Assets|returns]] in month $t$ are followed,  on average,  by predictably high [[Assets|returns]] in month $t+1$. We could capture this with a model for conditional expected [[Assets|returns]] such as
+To make these conditional moments useful in applications,  we need a statistical model to describe them. Here is an example: Suppose there was momentum in returns,  by which we mean that high returns in month $t$ are followed,  on average,  by predictably high returns in month $t+1$. We could capture this with a model for conditional expected returns such as
 $$
 
 \mathbb{E}\left[R_{t+1} \mid R_{t}\right]=a+b R_{t}
@@ -66,17 +80,17 @@ $$
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-073.jpg?height=790&width=969&top_left_y=353&top_left_x=600)
 
-Figure 3.1: Distribution of monthly [[Hedge Fund Strategies|stock market]] [[Assets|returns]] 1927-2021 conditional on gain or loss in previous month
+Figure 3.1: Distribution of monthly stock market returns 1927-2021 conditional on gain or loss in previous month
 
-for some constants $a,      b>0$. If we had instead $b<0$,  this would be a model for reversals where high past [[Assets|returns]] predict low future [[Assets|returns]]. We can use regressions to estimate such models of conditional expected [[Assets|returns]].
+for some constants $a,      b>0$. If we had instead $b<0$,  this would be a model for reversals where high past returns predict low future returns. We can use regressions to estimate such models of conditional expected returns.
 
-We often omit stating the conditioning information explicitly and just write $\mathbb{E}_{t}[\cdot]$,  e.g. $E_{t}\left[R_{t+1}\right]$. This is imprecise because this notation is not explicit about the type of information we are conditioning on,  but reduces clutter in our notation. Typically this notation means that we think of the [[FORWARD RATES AND TERM STRUCTURE|expectations]] conditioned on whatever is observable to an investor at time $t$.
+We often omit stating the conditioning information explicitly and just write $\mathbb{E}_{t}[\cdot]$,  e.g. $E_{t}\left[R_{t+1}\right]$. This is imprecise because this notation is not explicit about the type of information we are conditioning on,  but reduces clutter in our notation. Typically this notation means that we think of the expectations conditioned on whatever is observable to an investor at time $t$.
 
-If [[Assets|returns]] are independently and identically (IID) distributed,  then conditional and unconditional distributions are the same. Or,  put differently,  in this case conditioning information about the current state of the economy etc. does not contain information about the distribution of future [[Assets|returns]]. Our crude analysis of the [[Assets|returns]] conditional on previous month's gain/loss in Figure 3.1 already suggests that [[Assets|returns]] are not IID,  as the two conditional distributions shown in this figure differ substantially (although we haven't yet done a formal statistical test to see whether the difference is really statistically significant).
+If returns are independently and identically (IID) distributed,  then conditional and unconditional distributions are the same. Or,  put differently,  in this case conditioning information about the current state of the economy etc. does not contain information about the distribution of future returns. Our crude analysis of the returns conditional on previous month's gain/loss in Figure 3.1 already suggests that returns are not IID,  as the two conditional distributions shown in this figure differ substantially (although we haven't yet done a formal statistical test to see whether the difference is really statistically significant).
 
-### 3.2 Logarithmic returns
+## 3.2 Logarithmic returns
 
-In this lecture and the coming ones,  we will pay more attention to the [[Lecture 3- [[Lecture 3- Dynamics of Returns|Dynamics of Returns]]|return dynamics]] over time. This means that we will have to take into account the compounding of [[Assets|returns]].
+In this lecture and the coming ones,  we will pay more attention to the return dynamics over time. This means that we will have to take into account the compounding of returns.
 
 Unfortunately,  working with compound [[Assets|returns]] is messy,  because compounding is multiplicative. Consider an asset that earns a sequence of [[Assets|returns]] over time: $R_{t+1},      R_{t+2},      \ldots,      R_{T}$. Calculation of the long-run return on this asset from time $t$ to $t+T$ involves compounding of [[Assets|returns]] over multiple periods:
 $$
@@ -234,7 +248,7 @@ $$
 
 This approximation is a useful rule of thumb to keep in mind. If you see someone presenting average log [[Assets|returns]] from some [[An Asset Allocation Primer|investment]] and the variance of log [[Assets|returns]],  you can easily get an estimate of the implied average simple [[Assets|returns]] using this formula.
 
-### 3.3 Stock market valuation models
+## 3.3 Stock market valuation models
 
 With log transformations in our toolkit,  we now turn our attention to valuation models that allow us to analyze how investor [[FORWARD RATES AND TERM STRUCTURE|expectations]] and [[Lecture 4- [[Lecture 4- Investor Sentiment|Investor Sentiment]]|[[Lecture 4- Investor Sentiment|investor sentiment]]]] may affect [[Arbitrage Pricing of Derivatives|pricing]] in the [[Hedge Fund Strategies|stock market]] (and other risky [[Primary Issuance and Secondary Resale Markets|asset markets]]). This in turn provides insights about observable variables that may be useful for predicting [[Hedge Fund Strategies|stock market]] [[Assets|returns]].
 
@@ -492,7 +506,7 @@ $$
 
 which is exactly what it should be: The log return investors can expect to earn is the required rate of expected log return that they priced into the [[Hedge Fund Strategies|stock market]] valuation.
 
-### 3.4 A valuation model with [[Lecture 4- Investor Sentiment|investor sentiment]]
+## 3.4 A valuation model with [[Lecture 4- Investor Sentiment|investor sentiment]]
 
 Let's use this framework to understand how time-varying [[Lecture 4- [[Lecture 4- Investor Sentiment|Investor Sentiment]]|[[Lecture 4- Investor Sentiment|investor sentiment]]]] could affect prices,  how we could measure sentiment,  and how we could potentially exploit it in our [[Lecture 2- [[Lecture 2- Asset Allocation with Multiple Risky Assets|Asset Allocation]] with [[Lecture 2- Asset Allocation with Multiple Risky Assets|Multiple Risky Assets]]|[[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]]]] strategy. For the purpose of this exercise,  suppose that equation (3.26) represents how rational investors - who are not subject to sentiment fluctuationswould value the aggregate [[Hedge Fund Strategies|stock market]]. This means that these rational investors expect constant growth of dividends $g$ and they would require an [[Lecture 1- Probability Distributions of Returns|expected return]] of $\theta$ to hold the outstanding value of all stocks. Let's call the $v_{t}$ in (3.26) the (log) fundamental value.
 

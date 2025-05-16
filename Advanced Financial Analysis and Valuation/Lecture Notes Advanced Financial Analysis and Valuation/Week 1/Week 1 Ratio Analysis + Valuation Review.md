@@ -11,47 +11,50 @@ tags:
   - roic
   - valuation
   - wacc
+  - financial_analysis
+  - corporate_finance
 aliases:
   - DCF
   - DDM
   - Valuation Methods
   - Week 1 Review
 key_concepts:
-  - Discount rate components
-  - Dividend discount model
-  - Enterprise DCF process
-  - Enterprise vs equity models
-  - Free cash flow
-  - NOPAT and FCF
-  - Operating vs investing items
-  - ROE decomposition
-  - ROIC operational efficiency
-  - ROIC vs ROA
-  - Valuation basics
+  - Capital structure impact on valuation methods
+  - Continuing value calculation techniques
+  - Discount rate components and calculation
+  - Dividend discount model limitations
+  - Economic profit model applications
+  - Enterprise DCF process and methodology
+  - Enterprise vs equity valuation models
+  - Equity value determination from enterprise value
+  - Financial ratio analysis fundamentals
+  - Free cash flow calculation and components
+  - Mid-year adjustment technique
+  - NOPAT and FCF relationship
+  - Non-operating assets valuation 
+  - Operating vs investing classification
+  - ROE decomposition and drivers
+  - ROIC as a measure of operational efficiency
+  - ROIC vs ROA differences and applications
+  - Terminal value estimation methods
+  - Valuation basics and principles
+  - Weighted average cost of capital (WACC)
 ---
 
 # Week 1 Ratio Analysis + Valuation Review
 
-[[Week 1 Ratio Analysis + Valuation Review|Ratio Analysis]]
+## Ratio Analysis Review
 
-[Week 1 [[Squam Lake Group Introduction|Introduction]]](Zhe/Week%201/Week%201%20Introduction.md)
-
-[Week 1 [[Chapter 12 Market Efficiency|Market Efficiency]]](Zhe/Week%201/Week%201%20Market%20Efficiency.md)
-
-[Week 1 Ratio Analysis + Valuation Review](Zhe/Week%201/Week%201%20Ratio%20Analysis%20+%20Valuation%20Review.md)
-
-## RATIO ANALYSIS REVIEW
-
-We can decompose ROE,  a common profitability measure,  into operating and financing parts. We use ROIC rather than the more traditional ROA:
+We can decompose ROE, a common profitability measure, into operating and financing parts. We use ROIC rather than the more traditional ROA:
 
  ![500](47f6500fe5d8755b4df15b4982060e45.png)
 
 - ROIC captures only operating items whereas ROA commingles operating and non-operating
-	- E.g.,  [[[[BMW Valuation|Operating Income]] vs. Net Income What's the Difference|Net Income]] (ROA's numerator) includes both sales revenue (operating) and gains on trading securities (non-operating)
-	- E.g.,  total assets (ROA's denominator) includes both inventory (operating) and excess cash and marketable securities (non-operating)
+	- E.g., Net Income (ROA's numerator) includes both sales revenue (operating) and gains on trading securities (non-operating)
+	- E.g., total assets (ROA's denominator) includes both inventory (operating) and excess cash and marketable securities (non-operating)
  ![500](f74f105527ff6562e1a3c4a125c50e21.png)
 
-## USING ROIC
+## Using ROIC
 
 Using ROIC means reclassifying items in the balance sheet and income statement as operating or investing.
 
@@ -59,18 +62,18 @@ Using ROIC means reclassifying items in the balance sheet and income statement a
 
  ![500](28e623f0c852fc77c1da480e48501bd0.png)
 
-### RECLASSIFICATION PROCESS
+### Reclassification Process
 - Operating items are part of the company's core business and affect the NOPAT.
 - Investing items are related to how the business finances its operations and growth.
  ![500](f0cb236942d39633b9810a12b6fc3aa2.png)
-### ROIC DEEP DIVE
+### ROIC Deep Dive
 A detailed look into ROIC can provide insights into a firm's operational efficiency and profitability.
 You can also take a deeper dive into ROIC
  ![500](7b42d00a60d7036264e3148ecb368471.png)
 ---
 
-- UPS’ ROIC advantage over FedEx comes from advantages in both [[Operating Margin]] and turnover
-- On margin,  UPS’ benefit is driven by higher reliance on labor (higher compensation/revenues) but lower reliance on equipment (lower purchased transportation/revenues,  lower fuel/revenues)
+- UPS' ROIC advantage over FedEx comes from advantages in both Operating Margin and turnover
+- On margin, UPS' benefit is driven by higher reliance on labor (higher compensation/revenues) but lower reliance on equipment (lower purchased transportation/revenues, lower fuel/revenues)
 - UPS also has better capital efficiency (invested capital turnover)
 
 **Decomposing ROIC:**
@@ -96,54 +99,54 @@ $$
 \end{array}
 $$
 
-## VALUATION REVIEW
+## Valuation Review
 
-### VALUATION BASICS
+### Valuation Basics
 $$V_0=\sum_{t=1}^\infty\frac{Projected\textit{ Future Payoffs}_t}{(l^2+Discount\text{ Rate})^t}$$
 
-1. Value today (i.e.,  t = 0)
+1. Value today (i.e., t = 0)
 1. "Flows" expected to be received in the future
-	- May be received in one lump sum,  in a constant stream,  or in different amounts each year
-1. [[PSET 7- Kohler|Discount rate]] applied to future flows,  representing:
+	- May be received in one lump sum, in a constant stream, or in different amounts each year
+1. Discount rate applied to future flows, representing:
 	- Time value of money
 		 - Consumption tomorrow instead of consumption today
 		 - Constant rate for all assets
 	- Risk of the flows
 		 - Varies by type of flow (capital)
 
-### VALUATION BASICS: DIVIDEND DISCOUNT MODEL ("DDM")
+### Valuation Basics: Dividend Discount Model ("DDM")
 
-- In theory,  the [[Week 1 Ratio Analysis + Valuation Review|dividend discount model]] is what underpins value:
+- In theory, the dividend discount model is what underpins value:
 -  ![500](179280fa1e69d0ab1dd2e546a4d10037.png)
-- However,  the DDM's usefulness relies heavily on the ability to forecast future dividends
+- However, the DDM's usefulness relies heavily on the ability to forecast future dividends
 	- Dividends are chosen by management and many companies do not pay dividends
-	- In practice,  we rarely use the DDM
+	- In practice, we rarely use the DDM
 
-### OVERVIEW OF COMMON VALUATION METHODS
+### Overview of Common Valuation Methods
 
-Instead,  we use measures of flows between the firm and the market (s),  e.g.,  [[Free Cash Flow Valuation of Companies|free cash flow]],  because these flows can be better estimated than dividends.
+Instead, we use measures of flows between the firm and the market(s), e.g., free cash flow, because these flows can be better estimated than dividends.
 
  ![500](7856be1646d7babb6998471a3a86b2eb.png)
 
-## ENTERPRISE VS. EQUITY METHOD VALUATION
+## Enterprise vs. Equity Method Valuation
 
-- Enterprise valuation models value the flows (cash flows,  earnings,  etc.) due to all investors (i.e.,  both equity and debt holders)
+- Enterprise valuation models value the flows (cash flows, earnings, etc.) due to all investors (i.e., both equity and debt holders)
 - Equity valuation models value the flows due to equity holders only
 - The two models can be bridged by:
  ![500](af5232b5117c85953567b0f598017104.png)
-## ENTERPRISE DCF REVIEW
+## Enterprise DCF Review
 
-- This model discounts **[[Free Cash Flow Valuation of Companies|free cash flow]]** (i.e.,  [[Preview of the Book|cash flow]] generated by business operations - less any reinvestment back into the business - that is available to all investors) at the weighted average cost of capital (i.e.,  a blend of the cost of debt and the [[Week 7- Cost of Capital Review, Implied Model, Private Firms|cost of equity]])
-- Ideally used to value companies that will maintain their [[Introduction to Corporate Finance|capital structure]] at a target [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] ratio
+- This model discounts **free cash flow** (i.e., cash flow generated by business operations - less any reinvestment back into the business - that is available to all investors) at the weighted average cost of capital (i.e., a blend of the cost of debt and the cost of equity)
+- Ideally used to value companies that will maintain their capital structure at a target leverage ratio
  ![500](1ff37736d5e1f2021817ce23373bace1.png)
-### FOUR-PART PROCESS
+### Four-Part Process
 
-1. **[[Free Cash Flow Valuation of Companies|Free Cash Flow]] ("FCF")**
+1. **Free Cash Flow ("FCF")**
 	- Forecast operating line items and line items affecting invested capital
-	- Calculate net [[Operating Income vs. Net Income What's the Difference|operating profit]] after tax ("NOPAT") and changes to invested capital
+	- Calculate net operating profit after tax ("NOPAT") and changes to invested capital
 	- Calculate projected FCF
 
-	> Note: McKinsey valuation book uses net [[Operating Income vs. Net Income What's the Difference|operating profit]] less adjusted taxes ("NOPLAT"),  which 1) adjusts for cash taxes on [[[[BMW Valuation|Operating Income]] vs. Net Income What's the Difference|[[BMW Valuation|Operating Income]]]] and 2) treats deferred taxes as non-operating items. NOPAT treats deferred taxes as operating,  but as long as tax expense and deferred taxes are treated consistently,  using NOPAT vs NOPLAT leads to the same results.
+	> Note: McKinsey valuation book uses net operating profit less adjusted taxes ("NOPLAT"), which 1) adjusts for cash taxes on Operating Income and 2) treats deferred taxes as non-operating items. NOPAT treats deferred taxes as operating, but as long as tax expense and deferred taxes are treated consistently, using NOPAT vs NOPLAT leads to the same results.
 
 1. **Discounting**
 	- Calculate the present value of FCFs in the explicit forecast period by discounting the forecasted FCFs with WACC
@@ -152,7 +155,7 @@ Instead,  we use measures of flows between the firm and the market (s),  e.g.,  
 1. **Continuing Value**
 	- Continuing value represents the value of the firm's FCFs after the explicit forecast period
 	- It is typically a perpetuity
-	- With growth & reinvestment,  continuing value is defined as:
+	- With growth & reinvestment, continuing value is defined as:
 
 	$$\frac{FCF_{T+1}}{WACC - g}$$
 
@@ -165,29 +168,29 @@ Instead,  we use measures of flows between the firm and the market (s),  e.g.,  
 
 1. **Equity Value Calculation**
 	- Sum the present values of the forecasted FCFs and the continuing value
-	- (+) the present value of non-operating assets (e.g.,  equity investments) if applicable
+	- (+) the present value of non-operating assets (e.g., equity investments) if applicable
 	- (-) net debt (debt and debt equivalents minus cash and cash equivalents)
 	- (-) the value of preferred stock and noncontrolling interest if applicable
 	- Estimated price per share = equity value divided by the number of shares outstanding
 
 ---
 
-## ENTERPRISE DCF REVIEW (CONT.) FREE CASH FLOW ("FCF")
+## Enterprise DCF Review (Cont.) Free Cash Flow ("FCF")
 
-At a high level,  [[Free Cash Flow Valuation of Companies|free cash flow]] is calculated as:
+At a high level, free cash flow is calculated as:
 $$\text{FCF} = \text{NOPAT} + \text{D\&A} - \text{increase in non-cash WC} - \text{capital expenditures} - \text{other adjustments to invested capital}$$
 
 -  ![500](e629d3668bd30ab52c13c33d6bfada65.png)
 
 ---
 
-## ENTERPRISE DCF REVIEW (CONT.)
+## Enterprise DCF Review (Cont.)
 
  ![500](282fb15410f651458c418eaca129f629.png)
 
  ![500](3833f246a0c8fadd2ae41e7a46d704eb.png)
 
-### ECONOMIC PROFIT MODEL REVIEW
+### Economic Profit Model Review
 
  ![500](d0c3566e553d142cc0f34904f31461b8.png)
 
@@ -197,7 +200,7 @@ $$\text{FCF} = \text{NOPAT} + \text{D\&A} - \text{increase in non-cash WC} - \te
 
  ![500](f1ac6f299ac7edc54dff342011d520a0.png)
 
-### DISCOUNTING
+### Discounting
 
 - Calculate the present value of FCFs in the explicit forecast period by discounting the forecasted FCFs with WACC:
 $$PV_{FCF} = \sum_{t=1}^T \frac{FCF_t}{(1+WACC)^t}$$
@@ -206,13 +209,13 @@ Where:
 
 - $D$ and $E$ are measured using market values where possible
 - $K_d$ represents the cost of debt
-- $K_e$ represents the [[Week 7- Cost of Capital Review, Implied Model, Private Firms|cost of equity]]
-- $T_m$ represents the marginal tax rate,  which is used to value the interest tax shield
+- $K_e$ represents the cost of equity
+- $T_m$ represents the marginal tax rate, which is used to value the interest tax shield
 
-### CONTINUING VALUE
+### Continuing Value
 - Continuing value represents the value of the firm's FCFs after the explicit forecast period
 - It is typically a perpetuity
-- With growth & reinvestment,  continuing value is defined as:
+- With growth & reinvestment, continuing value is defined as:
 $$CV = \frac{FCF_{T+1}}{WACC - g}$$
 
 Where:
@@ -223,10 +226,10 @@ Where:
 - $RONIC$ represents the return on new invested capital
 - Further discounted by WACC to determine present value of continuing value
 - Apply a mid-year adjustment to the PVs as appropriate
-## ENTERPRISE DCF REVIEW (CONT.) EQUITY VALUE CALCULATION
+## Enterprise DCF Review (Cont.) Equity Value Calculation
 
 - Sum the present values of the forecasted FCFs and the continuing value
-- (+) the present value of non-operating assets (e.g.,  equity investments) if applicable
+- (+) the present value of non-operating assets (e.g., equity investments) if applicable
 - (-) net debt (debt and debt equivalents minus cash and cash equivalents)
 - (-) the value of preferred stock and noncontrolling interest if applicable
 - Estimated price per share = equity value divided by the number of shares outstanding
