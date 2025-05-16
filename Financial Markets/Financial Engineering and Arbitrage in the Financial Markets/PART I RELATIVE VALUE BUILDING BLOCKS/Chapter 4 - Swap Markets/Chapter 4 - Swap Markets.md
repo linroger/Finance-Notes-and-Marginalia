@@ -1,10 +1,10 @@
 %% Begin Waypoint %%
-- **[[Chapter 4 - Swap Markets]]**
-	- [[Chapter 4 - Swap Markets]]
-	- [[Cross-Currency Swaps]]
-	- [[Equity Commodity and Exotic Swaps]]
-	- [[Fundamentals of Swaps]]
-	- [[Interest Rate Swaps]]
+- **[Chapter 4 - Swap Markets](.md)**
+	- [Chapter 4 - Swap Markets](.md)
+	- [Cross-Currency Swaps](Cross-Currency%20Swaps.md)
+	- [Equity Commodity and Exotic Swaps](Equity%20Commodity%20and%20Exotic%20Swaps.md)
+	- [Fundamentals of Swaps](Fundamentals%20of%20Swaps.md)
+	- [Interest Rate Swaps](Interest%20Rate%20Swaps.md)
 
 %% End Waypoint %%
 

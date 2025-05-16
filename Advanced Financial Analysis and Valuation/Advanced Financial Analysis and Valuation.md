@@ -28,21 +28,21 @@ key_concepts:
 # Advanced Financial Analysis and Valuation
 
 %% Begin Waypoint %%
-- **[[Advanced Financial Analysis and Valuation]]**
-	- [[Advanced Financial Analysis and Valuation]]
-	- [[BMW Valuation Multiples]]
-	- [[BMW Valuation Report]]
-	- [[BMW Valuation]]
-	- [[Common Errors In DCF Models]]
-	- [[DCF Breakdown]]
-	- [[Financial Accounting- Class Notes]]
-	- **[[Financial Ratios]]**
-	- [[Financial_Statements.xlsm]]
-	- [[Introduction to Corporate Finance]]
-	- **[[Lecture Notes Advanced Financial Analysis and Valuation]]**
-	- [[Lectures on Valuation and Security Analysis]]
-	- [[Porter's Five Forces]]
-	- **[[Problem Sets]]**
-	- [[Warren Buffet Case Study]]
+- **[Advanced Financial Analysis and Valuation](.md)**
+	- [Advanced Financial Analysis and Valuation](.md)
+	- [BMW Valuation Multiples](BMW%20Valuation%20Multiples.md)
+	- [BMW Valuation Report](BMW%20Valuation%20Report.md)
+	- [BMW Valuation](BMW%20Valuation.md)
+	- [Common Errors In DCF Models](Common%20Errors%20In%20DCF%20Models.md)
+	- [DCF Breakdown](DCF%20Breakdown.md)
+	- [Financial Accounting- Class Notes](Financial%20Accounting-%20Class%20Notes.md)
+	- **[Financial Ratios](Financial%20Ratios/Financial%20Ratios.md)**
+	- [Financial_Statements](Financial_Statements.xlsm)
+	- [Introduction to Corporate Finance](Introduction%20to%20Corporate%20Finance.md)
+	- **[Lecture Notes Advanced Financial Analysis and Valuation](Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation.md)**
+	- [Lectures on Valuation and Security Analysis](Lectures%20on%20Valuation%20and%20Security%20Analysis.md)
+	- [Porter's Five Forces](Porter's%20Five%20Forces.md)
+	- **[Problem Sets](Problem%20Sets/Problem%20Sets.md)**
+	- [Warren Buffet Case Study](Warren%20Buffet%20Case%20Study.md)
 
 %% End Waypoint %%

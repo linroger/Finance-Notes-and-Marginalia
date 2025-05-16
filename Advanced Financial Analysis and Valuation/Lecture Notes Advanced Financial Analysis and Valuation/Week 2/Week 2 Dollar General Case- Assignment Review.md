@@ -19,23 +19,23 @@ key_concepts:
   - Store appearance, customer satisfaction
 ---
 
-[[Week 2 [[Week 7- Cost of Capital Review, Implied Model, Private Firms|Advanced Financial Analysis]] and Valuation]]
+[Advanced Financial Analysis](Week%202%20[[Week%207-%20Cost%20of%20Capital%20Review,%20Implied%20Model,%20Private%20Firms) and Valuation]]
 
 # Week 2 Dollar General CaseAssignment Review
 
 ## KEY CASE FACTS
 
-- In 2007,  Dollar General received an [[Week 2 Dollar General Case- Assignment Review|acquisition offer]] from KKR for $7.3BN
-	- Represented a 31% premium over the [[Chapter 16 - Black–Scholes Model|stock price]] at the time
+- In 2007,  Dollar General received an [acquisition offer](.md) from KKR for $7.3BN
+	- Represented a 31% premium over the [stock price](../../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) at the time
 	- Transaction value / actual FY2006 EBITDA = 16.3x
 - The agreement was approved unanimously by the board of directors
 - Shareholders sued,  arguing that the agreed price undervalued Dollar General
-- Debt investors were concerned the merger would ratchet up Dollar General's [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] too much at a time when Dollar General's operating performance was also under pressure
+- Debt investors were concerned the merger would ratchet up Dollar General's [leverage](../../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) too much at a time when Dollar General's operating performance was also under pressure
 - Poll: Would you approve the agreement?
 - Note: The year references in the case materials are confusing as the FY end falls into the next calendar year. So,  the FY ending Feb 2,  2007 is often referred to as (fiscal) year 2006.
 ## CASE QUESTIONS
 
-- Assessment of [[Dollar General Case Study|DG performance]]
+- Assessment of [DG performance](../../Problem%20Sets/Dollar%20General%20Case%20Study.md)
    - Key ratios
    - Over time
    - Relative to its peers
@@ -57,9 +57,9 @@ key_concepts:
 
 ## ASSESSMENT OF DG PERFORMANCE: RELATIVE TO PEERS
 
-- Family Dollar (size,  business overlap) and Dollar Tree (size) seem to be reasonable [[Comps Definition, How They're Used in Analysis, and Example|comparables]]
-- Until FY2006,  DG's [[Operating Margin|profit margin]] was better than Family Dollar's but worsened due to the new strategy
-- DG's FY2006 [[DOLLAR TREE CASE STUDY|ROA and ROE]] were worse than Family Dollar's or Dollar Tree's - DG's market ratios tend to look better than peers (Why? Driven by denominator)
+- Family Dollar (size,  business overlap) and Dollar Tree (size) seem to be reasonable [comparables](../../Financial%20Ratios/Comps%20Definition,%20How%20They're%20Used%20in%20Analysis,%20and%20Example.md)
+- Until FY2006,  DG's [profit margin](../../Financial%20Ratios/Operating%20Margin.md) was better than Family Dollar's but worsened due to the new strategy
+- DG's FY2006 [ROA and ROE](../../Problem%20Sets/DOLLAR%20TREE%20CASE%20STUDY.md) were worse than Family Dollar's or Dollar Tree's - DG's market ratios tend to look better than peers (Why? Driven by denominator)
    - Market-to-book is more stable than PE (less affected by transitory items)
  ![500](49659fd1cc0c80fcf0f1b85f7efdcbc1.png)
 ## CAUSE FOR DG PERFORMANCE DECLINE
@@ -73,7 +73,7 @@ key_concepts:
 - New strategies expected to contribute negatively to earnings beyond current FY ($71.2MM remaining in special items)
    - What do you do with these future charges in 2007 valuation?
 - DG expects its new strategies to enhance store appearance and customer satisfaction while reducing employee turnover and inventory shrink
-- Does the market [[Arbitrage Pricing of Derivatives|pricing]] or the KKR offer reflect these improvements?
+- Does the market [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) or the KKR offer reflect these improvements?
 
 ## SUGGESTED PRO FORMA FY2006 (YEAR ENDED FEB. 2007)
 
@@ -125,8 +125,8 @@ SUGGESTED FY2007 FORECAST (EXCL. NET SALES ADJUSTMENT)
 - KKR offer: Transaction value / actual FY2006 EBITDA = 16.3x
 - Prior M&A transactions:
 	   - Average = 8.9x
-	   - Transactions of similar size (KKR / Toys "R" Us; Bain and [[Week 6 Assignment Review|Blackstone]] / Michaels) Average = 10.9x
-- [[BMW Valuation|Peer companies]]:
+	   - Transactions of similar size (KKR / Toys "R" Us; Bain and [Blackstone](../Week%206/Week%206%20Assignment%20Review.md) / Michaels) Average = 10.9x
+- [Peer companies](../../BMW%20Valuation.md):
 	   - Compared to Family Dollar and Dollar Tree multiples,  DG's transaction value / adj. EBITDA is high
    - Relative to all companies in set,  the transaction value / adj. EBITDA is also high
 - Case analysis
@@ -136,7 +136,7 @@ SUGGESTED FY2007 FORECAST (EXCL. NET SALES ADJUSTMENT)
 ## SHORT-TERM AFTERMATH
 - On June 22,  2007,  Dollar General's shareholders approved the offer to take the company private
 	   - Dollar General said that of the shares that voted—249.8 million shares,  more than 79% of the total outstanding—99% were in favor of the merger
-- Chairman and CEO [[HBS DOLLAR GENERAL GOING PRIVATE|David A. Perdue]] said that he would retire upon completion of the deal
+- Chairman and CEO [David A. Perdue](../../Problem%20Sets/HBS%20DOLLAR%20GENERAL%20GOING%20PRIVATE.md) said that he would retire upon completion of the deal
 	   - Mr. Perdue realized ~$30 million from the transaction
 - End of July,  2007,  the banks that financed the deal sold the debt to TPG for as little as 87 cents on the dollar
  ![500](c44bab1276353e7791ec6225a451aaac.png)
@@ -153,7 +153,7 @@ SUGGESTED FY2007 FORECAST (EXCL. NET SALES ADJUSTMENT)
 	   - There are often one-time or non-recurring events
 	   - Their relevance differs when we are judging performance ex post versus when we are predicting future performance
 - Comparing performance across firms is even more challenging as it requires understanding differences in business model,  strategy and accounting choices
-- [[Corporate Finance Lecture Notes|Financial statement analysis]] helps to make predictions and comparisons
+- [Financial statement analysis](../../../Course%20Notes/Corporate%20Finance%20Lecture%20Notes.md) helps to make predictions and comparisons
 - Valuation using multiples needs to make many adjustments for comparability
 	   - Good multiples valuation is quite complex
 
@@ -163,7 +163,7 @@ Broader Motivations Dollar General Motivations
 
 - DG was in the middle of turnaround strategy and faced a lot of pressure from investors
 	   - Short-term focus
-- The mid-2000s were a peak time for [[Note on LBO [[Introduction to Corporate Finance|Capital Structure]] Module Note|Note On LBO [[Introduction to Corporate Finance|Capital Structure]]|LBOs]] from an investor standpoint due to the availability of debt,  cash-flush investors seeking higher [[Assets|returns]],  and a track record of successful [[Note on LBO [[Introduction to Corporate Finance|Capital Structure]] Module Note|Note On LBO [[Introduction to Corporate Finance|Capital Structure]]|LBOs]]
+- The mid-2000s were a peak time for [Capital Structure](Note%20on%20LBO%20[[Introduction%20to%20Corporate%20Finance) Module Note|Note On LBO [Capital Structure](../../Introduction%20to%20Corporate%20Finance.md)|LBOs]] from an investor standpoint due to the availability of debt,  cash-flush investors seeking higher [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md),  and a track record of successful [Capital Structure](Note%20on%20LBO%20[[Introduction%20to%20Corporate%20Finance) Module Note|Note On LBO [Capital Structure](../../Introduction%20to%20Corporate%20Finance.md)|LBOs]]
 - On the firm side,  firms often embark on an LBO:
 	   - To reduce agency costs by more closely uniting ownership and management (governance)
 - DG management likely believed executing their turnaround strategy would be easier when removed from Wall Street pressure
@@ -174,12 +174,12 @@ Broader Motivations Dollar General Motivations
 
 [Week 2 Dollar General CaseAssignment Review](Zhe/Week%202/Week%202%20Dollar%20General%20Case-%20Assignment%20Review.md)
 
-[[[Dollar General Case Study|DOLLAR GENERAL CASE]] STUDY](DOLLAR%20GENERAL%20CASE%20STUDY.md)
+[DOLLAR GENERAL CASE]([Dollar%20General%20Case%20Study) STUDY](DOLLAR%20GENERAL%20CASE%20STUDY.md)
 
 [HBS DOLLAR GENERAL GOING PRIVATE](HBS%20DOLLAR%20GENERAL%20GOING%20PRIVATE.md)
 
 [DOLLAR TREE CASE STUDY](DOLLAR%20TREE%20CASE%20STUDY.md)
 
-[[[BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS|BROADLINES RETAILING]] DAY WITH THE DOLLAR STORE HIGHLIGHTS](BROADLINES%20RETAILING%20DAY%20WITH%20THE%20DOLLAR%20STORE%20HIGHLIGHTS.md)
+[BROADLINES RETAILING]([BROADLINES%20RETAILING%20DAY%20WITH%20THE%20DOLLAR%20STORE%20HIGHLIGHTS) DAY WITH THE DOLLAR STORE HIGHLIGHTS](BROADLINES%20RETAILING%20DAY%20WITH%20THE%20DOLLAR%20STORE%20HIGHLIGHTS.md)
 
 [PSET 2- GROUP ASSIGNMENT](PSET%202-%20GROUP%20ASSIGNMENT.md)

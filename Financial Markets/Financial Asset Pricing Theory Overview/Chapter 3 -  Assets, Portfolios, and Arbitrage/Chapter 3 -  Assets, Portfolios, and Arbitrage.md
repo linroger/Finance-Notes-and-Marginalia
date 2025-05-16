@@ -14,14 +14,14 @@ key_concepts:
   - one- and multi-period models
 ---
 %% Begin Waypoint %%
-- **[[Chapter 3]]**
-	- [[Arbitrage]]
-	- [[Assets]]
-	- [[Chapter 3]]
-	- [[Exercises]]
-	- [[Marketed Dividends and Market Completeness]]
-	- [[Portfolios and Trading Strategies]]
-	- [[Redundant Assets]]
+- **[Chapter 3](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Chapter%203.md)**
+	- [Arbitrage](Arbitrage.md)
+	- [Assets](Assets.md)
+	- [Chapter 3](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Chapter%203.md)
+	- [Exercises](Exercises.md)
+	- [Marketed Dividends and Market Completeness](Marketed%20Dividends%20and%20Market%20Completeness.md)
+	- [Portfolios and Trading Strategies](Portfolios%20and%20Trading%20Strategies.md)
+	- [Redundant Assets](Redundant%20Assets.md)
 
 %% End Waypoint %%
 # Chapter 3 -  Assets, Portfolios, and Arbitrage

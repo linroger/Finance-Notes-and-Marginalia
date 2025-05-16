@@ -24,18 +24,18 @@ key_concepts:
 
 Bus 35130
 Spring 2024
-[[PSET 5 Financial Instruments|John Heaton]]
+[John Heaton](../../Financial%20Instruments/Assignments/PSET%205%20Financial%20Instruments.md)
 March 25,  2024
 
 ## HOMEWORK 2 DUE AT THE BEGINNING OF CLASS 3
 
-This homework is on the [[Arbitrage Pricing of Derivatives|pricing]] and [[10. Other Topics in Quantitative Finance|risk assessment]] of Leveraged Inverse Floaters. Please,  write the solution to the homework as a clean report addressed to the principals of the [[Lecture Notes Bonds,  Preferred Stock,  and Structured Products|fixed income]] group at [[PSET II Fixed Income Asset Pricing 1|JCH Fixed Income Group]],  LLP. The principals of [[PSET II Fixed Income Asset Pricing 1|JCH Fixed Income Group]] are very demanding,  so make sure to describe exactly the source of your results. However,  the report must be clean and concise. An appendix to the report may contain any additional material. The data for this homework are collected in the data file *HW2 Data.xls* available on canvas. Note 1: For each section below,  there are questions that require pencil and paper (PP) answers,  and questions that require actual computation using data and computer programs (CP). You are to do both. Note 2: As with previous homework assignments there are "guides" for doing the homework in Excel,  Matlab and Python. In each code provides partial solutions to the questions.
+This homework is on the [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and [risk assessment](../../Financial%20Engineering/10.%20Other%20Topics%20in%20Quantitative%20Finance.md) of Leveraged Inverse Floaters. Please,  write the solution to the homework as a clean report addressed to the principals of the [fixed income](../Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md) group at [JCH Fixed Income Group](.md),  LLP. The principals of [JCH Fixed Income Group](.md) are very demanding,  so make sure to describe exactly the source of your results. However,  the report must be clean and concise. An appendix to the report may contain any additional material. The data for this homework are collected in the data file *HW2 Data.xls* available on canvas. Note 1: For each section below,  there are questions that require pencil and paper (PP) answers,  and questions that require actual computation using data and computer programs (CP). You are to do both. Note 2: As with previous homework assignments there are "guides" for doing the homework in Excel,  Matlab and Python. In each code provides partial solutions to the questions.
 
 To make the code run you are required to complete some formulas or to produce some of the results yourself. You are not required to use any of the guides,  but use of one of them is recommended.
 
 ## LEVERAGE INVERSE FLOATERS
 
-Recommended Reading: Veronesi's Book. Chapter 2 (esp. 2.8); Chapter 3 (esp. 3.7) In an environment of [[The Economist Time Is Cheap|low interest rates]],  inverse floaters are popular [[An Asset Allocation Primer|investment]] vehicles that allow a fund manager to obtain a higher yield,  by betting on the direction of the movement in [[Interest Rate Quotations|interest rates]]. In particular,  consider the following term sheet for a [[Structured Finance 203|Leveraged Inverse Floater]].
+Recommended Reading: Veronesi's Book. Chapter 2 (esp. 2.8); Chapter 3 (esp. 3.7) In an environment of [low interest rates](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Time%20Is%20Cheap.md),  inverse floaters are popular [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) vehicles that allow a fund manager to obtain a higher yield,  by betting on the direction of the movement in [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md). In particular,  consider the following term sheet for a [Leveraged Inverse Floater](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20II%20CASH%20FLOW%20ENGINEERING/Chapter%208%20-%20Structured%20Finance/Structured%20Finance%20203.md).
 
 ## LEVERAGED INVERSE FLOATER TERM SHEET
 
@@ -67,7 +67,7 @@ where:
 - $F$is the face value of the bond.
 - $C$is the coupon payment.
 - $P$is the price of the bond.
-- $T$is the [[Hedging Strategies with Forwards|time to maturity]] in years.
+- $T$is the [time to maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) in years.
 - $\ln$denotes the natural logarithm.
 #### SEMI ANNUALLY COMPOUNDED YIELD
 
@@ -79,14 +79,14 @@ where:
 - $F$is the face value of the bond.
 - $C$is the coupon payment.
 - $P$is the price of the bond.
-- $T$is the [[Hedging Strategies with Forwards|time to maturity]] in years.
+- $T$is the [time to maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) in years.
 ### CALCULATIONS FOR MATURITIES 0.5,  1,  AND 1.5 YEARS
 #### MATURITY 0.5 YEARS
 - **Given Values**:
 - Price ($P$): 100.5
 - Face Value ($F$): 100
 - Coupon Payment ($C$): 1.25 (Assuming a 2.5% annual coupon rate,  prorated for 0.5 years)
-- [[Hedging Strategies with Forwards|Time to Maturity]] ($T$): 0.5
+- [Time to Maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) ($T$): 0.5
 - **Z-Factor**:
 $$Z = \frac{P}{F} = \frac{100.5}{100} = 1.005$$
 
@@ -101,7 +101,7 @@ $$Y_{sa} = 2 \times \left[\left(\frac{F + C}{P} \right)^{\frac{1}{2T}} - 1 \righ
 - Price ($P$): 101
 - Face Value ($F$): 100
 - Coupon Payment ($C$): 2.5 (Assuming a 2.5% annual coupon rate)
-- [[Hedging Strategies with Forwards|Time to Maturity]] ($T$): 1
+- [Time to Maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) ($T$): 1
 - **Z-Factor**:
 $$Z = \frac{P}{F} = \frac{101}{100} = 1.01$$
 
@@ -116,7 +116,7 @@ $$Y_{sa} = 2 \times \left[\left(\frac{F + C}{P} \right)^{\frac{1}{2T}} - 1 \righ
 - Price ($P$): 101.5
 - Face Value ($F$): 100
 - Coupon Payment ($C$): 3.75 (Assuming a 2.5% annual coupon rate,  prorated for 1.5 years)
-- [[Hedging Strategies with Forwards|Time to Maturity]] ($T$): 1.5
+- [Time to Maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) ($T$): 1.5
 - **Z-Factor**:
 $$Z = \frac{P}{F} = \frac{101.5}{100} = 1.015$$
 
@@ -150,7 +150,7 @@ where:
 - $F$is the face value of the bond (assumed to be 100).
 - $C$is the coupon payment.
 - $P$is the price of the bond.
-- $T$is the [[Hedging Strategies with Forwards|time to maturity]] in years.
+- $T$is the [time to maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) in years.
 - $\ln$denotes the natural logarithm.
 
 ## SEMI ANNUALLY COMPOUNDED YIELD
@@ -163,15 +163,15 @@ where:
 - $F$is the face value of the bond (assumed to be 100).
 - $C$is the coupon payment.
 - $P$is the price of the bond.
-- $T$is the [[Hedging Strategies with Forwards|time to maturity]] in years.
+- $T$is the [time to maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) in years.
 
 # CALCULATIONS FOR MATURITIES 0.5,  1,  AND 1.5 YEARS
 
 ## MATURITY 0.5 YEARS
 - Price ($P$): 102.6953
 - Face Value ($F$): 100 (assumed)
-- Coupon Payment ($C$): 100 × 0.03 × 0.5 = 1.5 ([[PSET 3 Financial Instruments|semi-annual coupon rate]] of 0.03,  prorated for 0.5 years)
-- [[Hedging Strategies with Forwards|Time to Maturity]] ($T$): 0.5
+- Coupon Payment ($C$): 100 × 0.03 × 0.5 = 1.5 ([semi-annual coupon rate](../../Financial%20Instruments/Assignments/PSET%203%20Financial%20Instruments.md) of 0.03,  prorated for 0.5 years)
+- [Time to Maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) ($T$): 0.5
 
 ### Z-FACTOR
 $$Z = \frac{P}{F} = \frac{102.6953}{100} = 1.026953$$
@@ -185,8 +185,8 @@ $$Y_{sa} = 2 \times \left[\left(\frac{F + C}{P} \right)^{\frac{1}{2T}} - 1 \righ
 ## MATURITY 1 YEAR
 - Price ($P$): 105.7617
 - Face Value ($F$): 100 (assumed)
-- Coupon Payment ($C$): 100 × 0.0325 = 3.25 ([[PSET 3 Financial Instruments|semi-annual coupon rate]] of 0.0325)
-- [[Hedging Strategies with Forwards|Time to Maturity]] ($T$): 1
+- Coupon Payment ($C$): 100 × 0.0325 = 3.25 ([semi-annual coupon rate](../../Financial%20Instruments/Assignments/PSET%203%20Financial%20Instruments.md) of 0.0325)
+- [Time to Maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) ($T$): 1
 
 ### Z-FACTOR
 $$Z = \frac{P}{F} = \frac{105.7617}{100} = 1.057617$$
@@ -200,8 +200,8 @@ $$Y_{sa} = 2 \times \left[\left(\frac{F + C}{P} \right)^{\frac{1}{2T}} - 1 \righ
 ## MATURITY 1.5 YEARS
 - Price ($P$): 107.7109
 - Face Value ($F$): 100 (assumed)
-- Coupon Payment ($C$): 100 × 0.0288 × 1.5 = 4.32 ([[PSET 3 Financial Instruments|semi-annual coupon rate]] of 0.0288,  prorated for 1.5 years)
-- [[Hedging Strategies with Forwards|Time to Maturity]] ($T$): 1.5
+- Coupon Payment ($C$): 100 × 0.0288 × 1.5 = 4.32 ([semi-annual coupon rate](../../Financial%20Instruments/Assignments/PSET%203%20Financial%20Instruments.md) of 0.0288,  prorated for 1.5 years)
+- [Time to Maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) ($T$): 1.5
 
 ### Z-FACTOR
 $$Z = \frac{P}{F} = \frac{107.7109}{100} = 1.077109$$
@@ -217,48 +217,48 @@ $$Y_{sa} = 2 \times \left[\left(\frac{F + C}{P} \right)^{\frac{1}{2T}} - 1 \righ
 Do the following:
 
 1. Bootstrap methodology
-(PP) Describe **bootstrap** methodology for extracting the [[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]].
+(PP) Describe **bootstrap** methodology for extracting the [term structure of interest rates](../../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md).
 
 - Step 1: We begin the bootstrap methodology for
-- The bootstrap methodology extracts [[Interest Rate Quotations|interest rates]] embedded in the prices of zero coupon bonds of a similar [[Quantitative Trading Strategies Lecture Notes|credit risk]] across different maturities. It begins with the aggregation of the market prices for similar types of bonds across the maturity spectrum. Using the market price and semiannual coupon for the shortest maturity bond,  we can extract the price of the zero coupon bond with the same maturity for this [[Preview of the Book|cash flow]] strip. Using this zero coupon bond price,  we can then solve for the zero coupon bond price for the next shortest maturity,  and once we calculate this,  we can then solve for the zero coupon bond price of the following shortest maturity [[Preview of the Book|cash flow]] strip. We continue this process until we reach the final maturity. Once we accomplish this,  we are left with a range of zero coupon bond prices for various maturities at a given date. From these zero coupon bond prices,  we can then derive the spot yield,  which would be the discounting factor used to discount a \$100 face value bond to the corresponding zero coupon bond price. This would give us the spot yields for the range of maturities,  which forms the [[The Vasicek Model|term structure]].
+- The bootstrap methodology extracts [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) embedded in the prices of zero coupon bonds of a similar [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) across different maturities. It begins with the aggregation of the market prices for similar types of bonds across the maturity spectrum. Using the market price and semiannual coupon for the shortest maturity bond,  we can extract the price of the zero coupon bond with the same maturity for this [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) strip. Using this zero coupon bond price,  we can then solve for the zero coupon bond price for the next shortest maturity,  and once we calculate this,  we can then solve for the zero coupon bond price of the following shortest maturity [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) strip. We continue this process until we reach the final maturity. Once we accomplish this,  we are left with a range of zero coupon bond prices for various maturities at a given date. From these zero coupon bond prices,  we can then derive the spot yield,  which would be the discounting factor used to discount a \$100 face value bond to the corresponding zero coupon bond price. This would give us the spot yields for the range of maturities,  which forms the [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md).
 
 > [!NOTE]
 > 1. Gather market data:
 >
-> 	 - Collect the available market data for various fixed-income securities,  such as government bonds,  [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]],  or interest rate swaps.
+> 	 - Collect the available market data for various fixed-income securities,  such as government bonds,  [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md),  or interest rate swaps.
 > 	 - The data should include the security's price,  coupon rate (if applicable),  maturity date,  and any other relevant information.
 > 1. Identify the shortest maturity security:
 >
 > 	 - From the collected market data,  identify the security with the shortest maturity date.
 > 	 - This security will serve as the starting point for the bootstrap process.
-> 1. Determine the [[The Foreign Exchange Market Annotations|spot rate]] for the shortest maturity:
+> 1. Determine the [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) for the shortest maturity:
 >
-> 	 - Calculate the [[The Foreign Exchange Market Annotations|spot rate]] (zero-coupon rate) for the shortest maturity security.
-> 	 - For a zero-coupon bond,  the [[The Foreign Exchange Market Annotations|spot rate]] is simply the yield to maturity.
-> 	 - For a coupon-bearing bond,  the [[The Foreign Exchange Market Annotations|spot rate]] can be derived from the bond's price and [[Realized Returns|coupon payments]] using the following formula:
-> Bond Price = [[Realized Returns|Coupon Payments]] × Discount Factors + Face Value × [[Discount Factors|Discount Factor]] at Maturity
-> where [[Discount Factors|Discount Factor]] = 1 / (1 + [[The Foreign Exchange Market Annotations|Spot Rate]])^[[Hedging Strategies with Forwards|Time to Maturity]]
+> 	 - Calculate the [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) (zero-coupon rate) for the shortest maturity security.
+> 	 - For a zero-coupon bond,  the [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) is simply the yield to maturity.
+> 	 - For a coupon-bearing bond,  the [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) can be derived from the bond's price and [coupon payments](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) using the following formula:
+> Bond Price = [Coupon Payments](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) × Discount Factors + Face Value × [Discount Factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) at Maturity
+> where [Discount Factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) = 1 / (1 + [Spot Rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md))^[Time to Maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md)
 > 1. Move to the next shortest maturity:
 >
 > 	 - Select the security with the next shortest maturity date from the remaining market data.
 > 1. Determine the discount factors for known maturities:
 >
 > 	 - Using the spot rates calculated in the previous steps,  determine the discount factors for all maturities up to the current security's maturity.
-> 	 - The [[Discount Factors|discount factor]] for a given maturity is calculated as: [[Discount Factors|Discount Factor]] = 1 / (1 + [[The Foreign Exchange Market Annotations|Spot Rate]])^[[Hedging Strategies with Forwards|Time to Maturity]]
-> 1. Calculate the [[The Foreign Exchange Market Annotations|spot rate]] for the current maturity:
+> 	 - The [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) for a given maturity is calculated as: [Discount Factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) = 1 / (1 + [Spot Rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md))^[Time to Maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md)
+> 1. Calculate the [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) for the current maturity:
 >
-> 	 - Use the bond [[Arbitrage Pricing of Derivatives|pricing]] formula to set up an equation that relates the security's price to its [[Realized Returns|coupon payments]] and the unknown [[The Foreign Exchange Market Annotations|spot rate]].
-> 	 - Solve the equation for the unknown [[The Foreign Exchange Market Annotations|spot rate]],  considering the discount factors for the known maturities.
-> 	 - This [[The Foreign Exchange Market Annotations|spot rate]] represents the zero-coupon rate for the current maturity.
+> 	 - Use the bond [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formula to set up an equation that relates the security's price to its [coupon payments](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) and the unknown [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md).
+> 	 - Solve the equation for the unknown [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md),  considering the discount factors for the known maturities.
+> 	 - This [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) represents the zero-coupon rate for the current maturity.
 > 1. Repeat steps 4-6:
 >
 > 	 - Continue the process by moving to the next shortest maturity security and repeating steps 4-6.
-> 	 - At each iteration,  use the previously calculated spot rates to determine the discount factors for the known maturities and solve for the unknown [[The Foreign Exchange Market Annotations|spot rate]].
+> 	 - At each iteration,  use the previously calculated spot rates to determine the discount factors for the known maturities and solve for the unknown [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md).
 > 1. Construct the yield curve:
 >
 > 	 - After completing the iterations for all available maturities,  the result is a series of spot rates corresponding to different maturities.
 > 	 - Plot these spot rates against their respective maturities to create the yield curve.
-> 	 - The yield curve represents the [[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]],  showing the relationship between [[Interest Rate Quotations|interest rates]] and maturities.
+> 	 - The yield curve represents the [term structure of interest rates](../../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md),  showing the relationship between [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) and maturities.
 > 1. Interpolation and extrapolation (optional):
 >
 > 	 - If desired,  interpolation techniques can be used to estimate spot rates for maturities that are not directly observed in the market data.
@@ -275,13 +275,13 @@ r &= 2 \left( \frac{100}{(99.29125116 + 1)^2} \right) - 0.000709507 \\
 r &= 2 \left( \frac{100}{(99.1395 + 1)^{2/3}} \right) - 0.00576968
 \end{align*}$$
 
-(CP) The *AllBondQuotes 20090217* tab of the data file provided contains Treasury Bills,    Notes and Bonds on February 17,    2009. (i) Use these data to bootstrap the [[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]] for as long a maturity as possible,    and obtain the [[Basic Interest Rate Concepts and Relations|discount function]]. In particular,    you will see that for several maturities,    you will have a choice of which bonds to use in your bootstrap.
+(CP) The *AllBondQuotes 20090217* tab of the data file provided contains Treasury Bills,    Notes and Bonds on February 17,    2009. (i) Use these data to bootstrap the [term structure of interest rates](../../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md) for as long a maturity as possible,    and obtain the [discount function](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Basic%20Interest%20Rate%20Concepts%20and%20Relations.md). In particular,    you will see that for several maturities,    you will have a choice of which bonds to use in your bootstrap.
 
 Compute two discount curves,    (a) one that uses the most recently issued bonds (as of 02/19/2009),    and (b) one that uses the oldest bonds. Discuss the differences. Make sure to report what data you actually use for the bootstrap as well as any approximation you have to carry out. \[Note: The bonds with highest coupon are the oldest ones].
-(ii) Plot the resulting [[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]] (i.e. the [[The Foreign Exchange Market Annotations|spot rate]] function)
+(ii) Plot the resulting [term structure of interest rates](../../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md) (i.e. the [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) function)
 for both cases (a) and (b). Discuss the difference and any other visible feature of the yield curve.
 
-The two term structures appear to be roughly similar,    although the off the run bonds appear to have greater fluctuations,    and at times,    a higher [[The Foreign Exchange Market Annotations|spot rate]]. This could be due to the fact that off the run bonds are not traded as regularly,    and are oftentimes held in a [[An Asset Allocation Primer|portfolio]] until maturity. This means that the market for off the run bonds is more illiquid than the market for on the run bonds,    and that this would result in the less smooth [[The Vasicek Model|term structure]] we observe.
+The two term structures appear to be roughly similar,    although the off the run bonds appear to have greater fluctuations,    and at times,    a higher [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md). This could be due to the fact that off the run bonds are not traded as regularly,    and are oftentimes held in a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) until maturity. This means that the market for off the run bonds is more illiquid than the market for on the run bonds,    and that this would result in the less smooth [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) we observe.
 
  ![500](PSET%20II%20Fixed%20Income%20Asset%20Pricing-20240401170538265.png
 
@@ -289,7 +289,7 @@ The two term structures appear to be roughly similar,    although the off the ru
 
 |           |                |                |               |          |                     |                     |
 | --------- | -------------- | -------------- | ------------- | -------- | ------------------- | ------------------- |
-| Dates     | Bond Price Old | Bond Price New | Annual Coupon | Maturity | [[The Foreign Exchange Market Annotations|Spot Rate]] Old Bonds | [[The Foreign Exchange Market Annotations|Spot Rate]] New Bonds |
+| Dates     | Bond Price Old | Bond Price New | Annual Coupon | Maturity | [Spot Rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) Old Bonds | [Spot Rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) New Bonds |
 | 8/15/2009 | 102.6953       | 101.5000       | 6.00          | 0.49     | 0.01080258          | 0.00492611          |
 | 2/15/2010 | 105.7617       | 102.9102       | 6.50          | 0.99     | -0.0004125          | 0.00573728          |
 | 8/15/2010 | 107.7109       | 105.2227       | 5.75          | 1.49     | 0.00577288          | 0.00612027          |
@@ -318,27 +318,27 @@ The two term structures appear to be roughly similar,    although the off the ru
 
 ## 2. LEVERAGE INVERSE FLOATER PRICING
 
-(PP) Describe the cash flows of the [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] [[Interest Rate and Yield Curve-Based Structured|Inverse Floater]] provided in Term Sheet.
+(PP) Describe the cash flows of the [Leverage](../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) [Inverse Floater](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20II%20CASH%20FLOW%20ENGINEERING/Chapter%208%20-%20Structured%20Finance/Interest%20Rate%20and%20Yield%20Curve-Based%20Structured.md) provided in Term Sheet.
 
-How can we decompose the [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] [[Interest Rate and Yield Curve-Based Structured|Inverse Floater]] into simpler securities?
-- The [[Structured Finance 203|leveraged Inverse Floater]] can be decomposed into a [[Chapter 4 - Futures: Hedging and Speculation|long position]] in 2 zero-coupon bonds with a maturity at T=10 and one coupon bond with a fixed rate of 10% and a maturity at T=10,    in addition to a short position in 2 floating rate coupon bonds 
-(PP) Discuss intuitively the benefits from investing in the [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] Inverse Floaters as compared to an existing,    traded,    regular [[PSET II Fixed Income Asset Pricing 1|fixed rate note]] with the same maturity.
-1. Higher yield: The LIF provides a higher yield due to the [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] factor and the inverse relationship with the reference interest rate.
-2. Interest rate hedge: The LIF can act as a hedge against rising [[Interest Rate Quotations|interest rates]],    as its [[Realized Returns|coupon payments]] increase when the reference interest rate decreases.
-(CP) Use the results in Point 1 to compute the price of [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] [[Interest Rate and Yield Curve-Based Structured|Inverse Floater]] described in the Term Sheet (which [[The Vasicek Model|term structure]] do you use? Remember you have to come up with one price and not two. Explain your choice). 
+How can we decompose the [Leverage](../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) [Inverse Floater](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20II%20CASH%20FLOW%20ENGINEERING/Chapter%208%20-%20Structured%20Finance/Interest%20Rate%20and%20Yield%20Curve-Based%20Structured.md) into simpler securities?
+- The [leveraged Inverse Floater](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20II%20CASH%20FLOW%20ENGINEERING/Chapter%208%20-%20Structured%20Finance/Structured%20Finance%20203.md) can be decomposed into a [long position](../../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%204%20-%20Futures:%20Hedging%20and%20Speculation.md) in 2 zero-coupon bonds with a maturity at T=10 and one coupon bond with a fixed rate of 10% and a maturity at T=10,    in addition to a short position in 2 floating rate coupon bonds 
+(PP) Discuss intuitively the benefits from investing in the [Leverage](../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) Inverse Floaters as compared to an existing,    traded,    regular [fixed rate note](.md) with the same maturity.
+1. Higher yield: The LIF provides a higher yield due to the [leverage](../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) factor and the inverse relationship with the reference interest rate.
+2. Interest rate hedge: The LIF can act as a hedge against rising [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md),    as its [coupon payments](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) increase when the reference interest rate decreases.
+(CP) Use the results in Point 1 to compute the price of [Leverage](../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) [Inverse Floater](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20II%20CASH%20FLOW%20ENGINEERING/Chapter%208%20-%20Structured%20Finance/Interest%20Rate%20and%20Yield%20Curve-Based%20Structured.md) described in the Term Sheet (which [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) do you use? Remember you have to come up with one price and not two. Explain your choice). 
 
 ## 3. DURATION AND CONVEXITY
 
-(PP) Describe the **[[Key Rates O1s Durations and Hedging|duration]]** of a [[Lecture Notes Bonds,  Preferred Stock,  and Structured Products|fixed income]] security and how it is calculated in general. How is the [[Key Rates O1s Durations and Hedging|duration]] of the [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] [[Interest Rate and Yield Curve-Based Structured|Inverse Floater]] calculated? What are its components?
+(PP) Describe the **[duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)** of a [fixed income](../Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md) security and how it is calculated in general. How is the [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of the [Leverage](../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) [Inverse Floater](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20II%20CASH%20FLOW%20ENGINEERING/Chapter%208%20-%20Structured%20Finance/Interest%20Rate%20and%20Yield%20Curve-Based%20Structured.md) calculated? What are its components?
 
-- The [[Key Rates O1s Durations and Hedging|duration]] of a bond measures it's [[Duration|price sensitivity]] to changes in [[Interest Rate Quotations|interest rates]],    representing the weighted average time until a bond's cash flows are received.
-- The [[Teaching Note 2- Interest Rate Risk Management And Factors|Macaulay duration]] is defined as$$D^{M c}=-\frac{(1+y/2)}{P}\frac{d P}{d y}$$
+- The [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of a bond measures it's [price sensitivity](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%204/Duration.md) to changes in [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md),    representing the weighted average time until a bond's cash flows are received.
+- The [Macaulay duration](../Fixed%20Income%20Lecture%20Notes/Teaching%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors.md) is defined as$$D^{M c}=-\frac{(1+y/2)}{P}\frac{d P}{d y}$$
 - Or equivalently,   $$D^{M c}=\frac{1}{2}\sum_{j=1}^{n}w_{j}\times j$$
 where$$w_{j}=\frac{1}{P}\left(\frac{c/2}{\left(1+\frac{y}{2}\right)^{j}}\right),   \;w_{n}=\frac{1}{P}\left(\frac{c/2+100}{\left(1+\frac{y}{2}\right)^{n}}\right)$$
 
 ## MODIFIED DURATION
 
-- The [[A Guide to Duration DV01 and Yield Curve|modified duration]] is instead defined as$$M D=-\frac{1}{P}\frac{d P}{d y}$$
+- The [modified duration](../../Financial%20Engineering/A%20Guide%20to%20Duration%20DV01%20and%20Yield%20Curve.md) is instead defined as$$M D=-\frac{1}{P}\frac{d P}{d y}$$
 - Or equivalently,   $$M D=\frac{D^{M c}}{\left(1+\frac{y}{2}\right)}$$
-(CP) Calculate the [[Key Rates O1s Durations and Hedging|duration]] of the [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] [[Interest Rate and Yield Curve-Based Structured|Inverse Floater]]. Plot the value of the [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] [[Interest Rate and Yield Curve-Based Structured|Inverse Floater]] against a hypothetical parallel shift in the [[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]].
+(CP) Calculate the [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of the [Leverage](../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) [Inverse Floater](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20II%20CASH%20FLOW%20ENGINEERING/Chapter%208%20-%20Structured%20Finance/Interest%20Rate%20and%20Yield%20Curve-Based%20Structured.md). Plot the value of the [Leverage](../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) [Inverse Floater](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20II%20CASH%20FLOW%20ENGINEERING/Chapter%208%20-%20Structured%20Finance/Interest%20Rate%20and%20Yield%20Curve-Based%20Structured.md) against a hypothetical parallel shift in the [term structure of interest rates](../../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md).
  ![500](PSET%20II%20Fixed%20Income%20Asset%20Pricing-20240401212426843.png)

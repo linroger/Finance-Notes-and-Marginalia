@@ -203,13 +203,13 @@ n &=& \displaystyle\frac{T}{\Delta t}\;, \\
 $$
 
 ### Table 2: LIBOR Quotes
-![Table 2: LIBOR Quotes](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/423488a8e316fa74af9540b1b712c8f875a658cd5ae94a17a797ae96b4698aa7.jpg)
+![Table 2: LIBOR Quotes](Attachments/Table_2!_LIBOR_Quotes.jpg)
 
 ### Table 3: Future Quotes
-![Table 3: Future Quotes](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bbf06e3025565783fb139253b1e236e6bdd608da263b736843f16a8fc58648ca.jpg)
+![Table 3: Future Quotes](Attachments/Table_3!_Future_Quotes.jpg)
 
 ### Table 4: Swap Quotes
-![Table 4: Swap Quotes](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f0ae89221bed8ce4d9c1da110c06598ca0787c9ef59f9dc5e6c375398a7318e8.jpg)
+![Table 4: Swap Quotes](Attachments/Table_4!_Swap_Quotes.jpg)
 
 From (B.1) - (B.6), the PV of a forward swap effective between $t+\tau$ and $t+T$ as seen at $t$ is:
 $$
@@ -241,7 +241,7 @@ $$
 $$
 
 ### Table 5: ATM Implied Swaption Volatilities
-![Table 5: ATM Implied Swaption Volatilities](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6a716cfc8d39427493c56d770daa6506f3d3da1126041a03e391af2749bce741.jpg)
+![Table 5: ATM Implied Swaption Volatilities](Attachments/Table_5!_ATM_Implied_Swaption_Volatilities.jpg)
 
 ## References
 

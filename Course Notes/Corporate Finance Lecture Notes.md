@@ -20,28 +20,28 @@ key_concepts:
 
 #  
 
-Course [[Squam Lake Group Introduction|Introduction]] and Corporate Organizations  Dave Schabes  
+Course [Introduction](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) and Corporate Organizations  Dave Schabes  
 
 January 3, 2023  
 # Course Goals  
 - Introduce essential tools for business analysis and financing  decisions  
   - Principal perspective is that of CFO and Treasurer  
 - Understand use of  the time value of money concept  
-  - Role of [[Interest Rate Quotations|interest rates]]  
-- [[Arbitrage Pricing of Derivatives|Pricing]] of debt – loans, bonds and other fixed and floating rate  [[Corporate Bonds and Loans|debt instruments]]  
+  - Role of [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)  
+- [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of debt – loans, bonds and other fixed and floating rate  [debt instruments](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Corporate%20Bonds%20and%20Loans.md)  
 # Course Goals  
 - Use net present value (NPV) as financial decision making tool     
 - Discuss alternative commonly used financial decision tools     
 - Evaluate business firms and new projects using NPV  
-- Present analysis of [[Corporate Finance Lecture Notes|earnings and cash flow]] [[Week 2 Fundamentals Of Forecasting|forecasting]]  
+- Present analysis of [earnings and cash flow](.md) [forecasting](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md)  
   - Utilize this analysis to discuss equity and debt valuation  methods  
 - Briefly introduce how risk is priced by investors  
 # Course Goals  
-- Cover role of [[Introduction to Corporate Finance|capital structure]] in terms of costs and risks  o   Present the [[Liquidity Preference Market Segmentation and P|Modigliani]] Miller propositions    o   Discuss the implications of taxes on [[Introduction to Corporate Finance|financial decisions]]  o   Briefly present working capital management and  management of short- and long-term debt  
+- Cover role of [capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) in terms of costs and risks  o   Present the [Modigliani](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Liquidity%20Preference%20Market%20Segmentation%20and%20P.md) Miller propositions    o   Discuss the implications of taxes on [financial decisions](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md)  o   Briefly present working capital management and  management of short- and long-term debt  
 # Course Goals  
 - Discuss distressed situations and bankruptcy 
 - Understand considerations of stakeholders beyond debt and  equity holders 
-- Develop understanding of [[Corporate Finance Lecture Notes|financial statement analysis]]  
+- Develop understanding of [financial statement analysis](.md)  
 - Present role of corporate governance  
 # Course Approach  
 - Lectures  
@@ -63,15 +63,15 @@ January 3, 2023
 
 §   Securities are a subset of financial assets  •   Not all financial assets are securities  •   Despite what the text says!  
 # Assets and Investment Decisions  
-- [[Chapter 1 Introduction to Securities Trading and Markets|Investment Decision]]  
-  - Purchase decision regarding real or financial assets    o   D is [[An Asset Allocation Primer|investment]] or exit decision – sale of some all of an  [[An Asset Allocation Primer|investment]]  
+- [Investment Decision](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%201%20Introduction%20to%20Securities%20Trading%20and%20Markets.md)  
+  - Purchase decision regarding real or financial assets    o   D is [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) or exit decision – sale of some all of an  [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 - Financing Decision  
-  - Sale of financial assets to fund an [[Chapter 1 Introduction to Securities Trading and Markets|investment decision]]  §   Securities e.g., stocks or bonds  §   Loans  
+  - Sale of financial assets to fund an [investment decision](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%201%20Introduction%20to%20Securities%20Trading%20and%20Markets.md)  §   Securities e.g., stocks or bonds  §   Loans  
 # Assets and Investment Decisions  
 - Capital Budget/Capital Expenditure  
-  - Amount to be spent for [[An Asset Allocation Primer|investment]] purposes in the year    o   Separate from Operating Budget/Operating Expenses  
-- [[Introduction to Corporate Finance|Capital Structure]]  
-  - Set of liabilities which fund an [[An Asset Allocation Primer|investment]]     o   Usually used in reference to a corporation or trust  
+  - Amount to be spent for [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) purposes in the year    o   Separate from Operating Budget/Operating Expenses  
+- [Capital Structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md)  
+  - Set of liabilities which fund an [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)     o   Usually used in reference to a corporation or trust  
 # Business Organizations  
 - Cost and ability to obtain those forms may vary widely  
 - Focus on corporate form of organization  
@@ -113,10 +113,10 @@ January 3, 2023
   - Often family owned companies or otherwise closely-held    o   Many owners involved as management or directors  
 - Taxed as partnerships  
   - Profits and losses pass through to owners pro rata  Limited Liability Corporations (LLCs)  
-- Used frequently by [[Private Equity|private equity firms]] as [[An Asset Allocation Primer|investment]] vehicles    o   Advantages of partnership taxation structure    o   Still maintain limited liability  o   Principal Disadvantage:  §   Convert LLC to a C corporation if company goes public  §   Alternative to create C corporation holding company  
+- Used frequently by [private equity firms](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2014%20-%20Private%20Equity,%20Pension,%20and%20Sovereign%20Funds/Private%20Equity.md) as [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) vehicles    o   Advantages of partnership taxation structure    o   Still maintain limited liability  o   Principal Disadvantage:  §   Convert LLC to a C corporation if company goes public  §   Alternative to create C corporation holding company  
 #  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7fab34fb39c8cf50bdf3176cdb5cc569e58cefc5e3ebc5a3eeaa79e4aea0b28f.jpg)  
+ ![500](Attachments/500-788.jpg)  
 # Type C Corporation  
 - Named after Subchapter C of the US Internal Revenue Code 
 - C corporations are taxed as a separate entity from owners 
@@ -124,8 +124,8 @@ January 3, 2023
 - Much more flexibility to raise capital – “take public”  
   - Issue shares – interests in the company    o   May issue dividends  
 # Type C Corporation  
-- When taken public, known as an [[Primary Issuance and Secondary Resale Markets|Initial Public Offering]] (IPO)   
-- May be purchased by any type of investor  o   Individual    o   Mutual or [[Uses of Interest Rate Swaps|pension fund]]  o   Foreign investor   
+- When taken public, known as an [Initial Public Offering](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Primary%20Issuance%20and%20Secondary%20Resale%20Markets.md) (IPO)   
+- May be purchased by any type of investor  o   Individual    o   Mutual or [pension fund](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Uses%20of%20Interest%20Rate%20Swaps.md)  o   Foreign investor   
 - May be private  
 # Type C Corporation Advantages  
 - Distinct legal entity with rights similar to an individual in some  respects – “legal person”  
@@ -149,16 +149,16 @@ January 3, 2023
 - Currently over 5000 globally  
 - Governance  must be incorporated in charter  
 # Financial Managers  
-- [[An Asset Allocation Primer|Investment]] decisions made by line of business heads  
+- [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) decisions made by line of business heads  
 - Financial Managers  
-  - Budgeting, rule setting    o   Financing decisions – [[Introduction to Corporate Finance|capital structure]]  
+  - Budgeting, rule setting    o   Financing decisions – [capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md)  
 # Financial Managers  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/863809ef59bc8e73a615f42e4afd6f89797077c3fc5f4bd594c142017fcc8321.jpg)  
+ ![500](Attachments/500-661.jpg)  
 # Maximizing Shareholder Value  
 - Free market capitalism  
 - Friedman doctrine on business and social responsibility  
-  - Maximize the company’s value    o   Return money to investors (your employers)    o   “Well-functioning” [[Financial Markets and Institutions Lecture Notes|financial markets]]    o   Investors act through taxation or philanthropy  
+  - Maximize the company’s value    o   Return money to investors (your employers)    o   “Well-functioning” [financial markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md)    o   Investors act through taxation or philanthropy  
 - Maximizing value is complex enough  
 # Maximizing Shareholder Value  
 - Shareholders have diverse goals – impossible to fully satisfy all  
@@ -175,7 +175,7 @@ January 3, 2023
   - Concentrated versus diversified interests behave similarly  
 # Agency  
 - Agent – someone acting on behalf of others  
-  - Management  for shareholders and bond holders    o   [[An Asset Allocation Primer|Investment]] manager for clients  
+  - Management  for shareholders and bond holders    o   [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) manager for clients  
 - Separation of ownership and control  
   - Benefits and costs  
 #  
@@ -184,11 +184,11 @@ Calculating Present and Future Values  Dave Schabes
 
 January 5, 2023  
 # Future Value 1  
-- The future value of an [[An Asset Allocation Primer|investment]] is equal to the initial  amount of the [[An Asset Allocation Primer|investment]] multiplied by one plus the interest  rate (or other form of return) earned over the time period  
+- The future value of an [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is equal to the initial  amount of the [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) multiplied by one plus the interest  rate (or other form of return) earned over the time period  
 
 !"#"\$% '()"% \*+ \$100 (# 7% 1%\$ (22"3 +\*\$ #4\* 5%(\$6,  8  = \$100 ⋅1.07 = \$107,  $C_{2}=\S107\cdot1.07=\S114.49,$  ,    !  $o r\;C_{2}=\S100\cdot1.07^{2}$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/507d22ab103aea836fac19c780fa5cd69a00a5c5ad51fdbd43d73f343db90eba.jpg)  
+ ![500](Attachments/500-658.jpg)  
 # Future Value  
 - Generally,  
 $C_{t}=P V*(1+r)^{t},$  , 4ℎ%\$%   $C_{t}$    #ℎ% E(6ℎ +)\*4 (# #F3% #,    >? F6 #ℎ% '()"% #\*G(5 (2G  $r$   F6 #ℎ% F2#%\$%6# \$(#%  
@@ -199,39 +199,39 @@ $C_{t}=P V*(1+r)^{t},$  , 4ℎ%\$%   $C_{t}$    #ℎ% E(6ℎ +)\*4 (# #F3% #,   
 
 # •   When one reinvests their returns and continues to earn  interest, this is known as  compound interest  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2f3bfc414a29f7244ac5e96980c510ffa09ceca59bd77cd0f12eae1da34a4d27.jpg)  
-Growth of \$100 at Different [[Interest Rate Quotations|Interest Rates]]  
+ ![500](Attachments/500-715.jpg)  
+Growth of \$100 at Different [Interest Rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)  
 # Present Value  
 - Value today of  ¥ 114.49 Renminbi received 2 years from now 
  >\$%6%2# '()"% \*+ ¥114.49 (# 7% 1%\$ (22"3 +\*\$ #4\* 5%(\$6,  >?  $\bar{\L}_{1}=\underline{{{\Psi}}}114.49/1.07=\underline{{{\Psi}}}107,P V_{0}=\underline{{{\Psi}}}107$  1.07 = ¥100,    \*\$ >? = ¥114.49/1.07 "   = ¥100  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4f24272b7450226b49c1911aaf43fb4a8210e44017651d356a0a7cbf73d5f240.jpg)  
+ ![500](Attachments/500-738.jpg)  
 
 >? = 8 # /(1 + \$) # , 4ℎ%\$% 1/(1 + \$) #  F6 #ℎ% GF6E\*"2# +(E#\*\$,    $D F_{2}=1/(1.07)^{2}=.8734$  
 # Present Value of \$100 at Different Interest Rates  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/79b05c6189d51c4413919838521da7b4a4daf25c788891bb790ef51684778df9.jpg)  
+ ![500](Attachments/500-744.jpg)  
 # Valuation  
 
 # •   What is wrong with the text example?  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3534b1bcde464a6bef5660895e945b35df81af77a33637c31f1c0657bcf54593.jpg)  
+ ![500](Attachments/500-741.jpg)  
 # Valuation  
-- Given risk free rate of 7% and [[Hedge Fund Strategies|stock market]] return of 12%  
-  - [[Hedge Fund Strategies|Stock market]] is risky  
+- Given risk free rate of 7% and [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) return of 12%  
+  - [Stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) is risky  
   - Future value of \$700,000   §   At 7%:  \$749,000  §   At 12%:  \$784,000  
 - Office building will be worth \$800,000 in one year for certain  
   - PV = \$747,664 at 7%    o   Pay \$700,000 so net present value is +\$47,664  
 # Accounting for Risk  
-- [[Lecture 1- Probability Distributions of Returns|Expected return]]:  mean return for project  
-  - Need to consider all potential outcomes    o   Difficulty in determining outcomes varies  o   Risk determines appropriate [[PSET 7- Kohler|discount rate]]  
-- No risk free [[An Asset Allocation Primer|investment]] should earn a positive NPV  
-- Nominal versus real [[Assets|returns]]  
+- [Expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md):  mean return for project  
+  - Need to consider all potential outcomes    o   Difficulty in determining outcomes varies  o   Risk determines appropriate [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md)  
+- No risk free [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) should earn a positive NPV  
+- Nominal versus real [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
 - Return to risk in a couple of weeks  
 # Net Present Value and Rate of Return Rules  
 - Net Present Value Rule:  invest in projects where the net  present value is greater than 0  
-- Rate of return:  Profit/[[An Asset Allocation Primer|Investment]] – invest where project’s  [[Realized Returns|return on capital]] exceeds [[Market Players Hedgers Vs Speculators|opportunity cost of capital]]  
-- [[Market Players Hedgers Vs Speculators|Opportunity Cost of Capital]] – the rate of return (usually  expressed on an annual basis) appropriate for the [[An Asset Allocation Primer|investment]]  
+- Rate of return:  Profit/[Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) – invest where project’s  [return on capital](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) exceeds [opportunity cost of capital](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Market%20Players%20Hedgers%20Vs%20Speculators.md)  
+- [Opportunity Cost of Capital](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Market%20Players%20Hedgers%20Vs%20Speculators.md) – the rate of return (usually  expressed on an annual basis) appropriate for the [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
   - Very difficult in practice to get right  o   Many methods to estimate – will discuss a some later  
 Calculating Present Values with Multiple Cash Flows  
 $$
@@ -251,8 +251,8 @@ $$
 - Problem 11  
   - Cash flows:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2b5215fb8b403d41d25609732ce3f524cb9f4a6cd97819a2c234e750853d835b.jpg)  
-  - [[Market Players Hedgers Vs Speculators|Opportunity cost of capital]]   $15\%$  , solve for PV:  
+ ![500](Attachments/500-660.jpg)  
+  - [Opportunity cost of capital](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Market%20Players%20Hedgers%20Vs%20Speculators.md)   $15\%$  , solve for PV:  
 
 >? !  = \$432/(1.15),  $P V_{2}=\S137/(1.15)^{2},P V_{3}=\S797/(1.15)$  5) & ,   $P V_{1}=375.65,P V_{2}=103.59,P V_{3}$   $P V_{3}=525.04,$  ,    ${}^{P}V_{P r o j e c t}=375.65+103.59+525.04=$   = 375.65 + 103.59 + 525.04 = 1004.28;   F2'%6# \$1200,    O%#   $\ P r e s e n t\,V a l u e\ =-\S1200+\S1004.28$  = −195.73  
 # Opportunity Cost of Capital  
@@ -287,7 +287,7 @@ $$
 r={\frac{C}{P V}}\ o r\ P V={\frac{C}{r}}
 $$  
 # Perpetuity Example  
-- How much money do you need to donate to provide an  scholarship of \$50,000 a year in perpetuity, if [[Interest Rate Quotations|interest rates]]  will be 5% forever?  
+- How much money do you need to donate to provide an  scholarship of \$50,000 a year in perpetuity, if [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)  will be 5% forever?  
 $$
 P V=\frac{C}{r}=\frac{\S50{,}000}{.05}=\S1{,}000{,}000
 $$  
@@ -308,12 +308,12 @@ $$
 C={\cfrac{P V}{{\cfrac{1}{r}}-{\cfrac{1}{(1+r)^{t}}}}}
 $$  
 # Annuity Example  
-- How much money do you need to have saved to provide an  annual income of \$50,000 by purchasing a 10 year annuity, if  [[Interest Rate Quotations|interest rates]] will be 5% for the next 10 years?  
+- How much money do you need to have saved to provide an  annual income of \$50,000 by purchasing a 10 year annuity, if  [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) will be 5% for the next 10 years?  
 
 >? = 8 × Y  $\left[\frac{1}{r}-\frac{1}{r(1+r)^{t}}\right]=\S50,\!000\times\left[\frac{1}{.\,05}-\frac{1}{.\,05}\right]$  1 Z   . 05(1 + .05) !%   = \$50,000 × (20 −12.27865) = \$386,086.75  
 # Conceptual Diagram  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a5614a8eca3a2ed55d201b4184f1740c83d546b2f3748c3b80168b2defcdb467.jpg)  
+ ![500](Attachments/500-700.jpg)  
 # Installment Loan Example  
 - Your business needs to borrow \$10,000,000 for thirty years to  purchase a building   
 - Repay loan in equal annual installments 
@@ -323,7 +323,7 @@ $$
 8 =  10,000,000/((1/.08) × (1 –  1/(1 + .08) &% )     =  \$888,274.33  
 # Installment Loan Example  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e9ec244b0e9321f92fe9f6717ddb58977ac839c2ff2b1fb6837be99956018507.jpg)  
+ ![500](Attachments/500-791.jpg)  
 Principal Amortization of Annual Installment Loan  
 # Growing Perpetuity  
 $$
@@ -343,7 +343,7 @@ $$
 $$
 P V_{g}=\frac{C}{r-g}\times\left(1-\left(\frac{1+g}{1+r}\right)^{t}\right)
 $$  
-- [[Uses of Interest Rate Swaps|Pension fund]] contributions:  
+- [Pension fund](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Uses%20of%20Interest%20Rate%20Swaps.md) contributions:  
   - Contribute \$5,000 per year; grow contribution at 5% p.a.    o   Expect fund to grow at 6% p.a.  
   - How much will you have in 40 years?  
 # Growing Annuity  
@@ -358,11 +358,11 @@ $$
 !? =  157,778.45 × 1.06 2%   !? =  \$1,622,864.61  
 # Summary  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5d1d4208e9c08ac7a71b278f8b0a9f00048dad4a52fae800c82b14f95f0ee899.jpg)  
+ ![500](Attachments/500-685.jpg)  
  $r$   $g$  
 $^b$   $\textdollar{r}=\textdollar{g}$   $\mathbf{C}\times t/(1+\textdollar{r})$  
 # Interest Rate Quotes  
-- [[Interest Rate Quotations|Interest rate quotes]] vary in a number of ways  
+- [Interest rate quotes](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) vary in a number of ways  
   - Compounding period    o   Day basis  
 - Annual Percentage Rate (APR)  o   Commonly used in retail loans  
 
@@ -375,12 +375,12 @@ E A R=[1+r/m]^{m}-1,
 $$  
 
 +\*\$ %e(31)%:   $A P R\,=10\%$   \*2 ( 3\*2#ℎ)5 )\*(2,   $E A R=[1+.10/12]^{12}-1=10.47\%$  
-- [[Interest Rate Quotations|Continuous compounding]] often used in economic models  
+- [Continuous compounding](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) often used in economic models  
   - Simplifies calculations then converted to appropriate  rate, e.g., semi-annually  
 # Continuous Compounding Example  
 - Formula:   !"#"\$% ?()"% = % \*#  
-- Example: Initial [[An Asset Allocation Primer|investment]] \$1,000  
-  - Continuous interest rate: 5%    o   Number of periods:  3  o   Final value of [[An Asset Allocation Primer|investment]]:   \$1,000% .%5⋅&   = 1,161.83   o   [[Continuously Compounding Interest|Annual interest rate]] equivalent:  
+- Example: Initial [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) \$1,000  
+  - Continuous interest rate: 5%    o   Number of periods:  3  o   Final value of [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md):   \$1,000% .%5⋅&   = 1,161.83   o   [Annual interest rate](../Financial%20Instruments/Review%20Session%20Notes/Continuously%20Compounding%20Interest.md) equivalent:  
 
 (\$1161.83/\$1000) !/&   −1 = 5.13%  
 #  
@@ -390,7 +390,7 @@ Bond Valuation  Dave Schabes
 January 10, 2023  
 # Bond Terminology  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e9a331c6bb046a0f9174ceffca62ce1966028b5766e068e969acfb89c7b3cf16.jpg)  
+ ![500](Attachments/500-732.jpg)  
 # Bond Terminology  
 - Certificate – evidence of ownership  
 - Indenture – legal documentation containing terms and  conditions 
@@ -406,10 +406,10 @@ January 10, 2023
 - Five year French bond yield -0.449% in June 2021  
 - Final maturity of OAT issued October 25, 1993 due October  10, 2025  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/15f626a4cd6460d98f38b860e49af7839c2ee2f8a1c38970140559d658e22f56.jpg)  
+ ![500](Attachments/500-663.jpg)  
 
 !" = . 99551  6.00 + . 99551 6.00 !  + . 99551 6.00 "  + . 99551 6.00 #  + 106.00 \$ = €132.69  
-- Despite loss of three years of interest ( €18),  price declined only  €12.30  since market [[Interest Rate Quotations|interest rates]] declined from 0.3% to -0.449%  
+- Despite loss of three years of interest ( €18),  price declined only  €12.30  since market [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) declined from 0.3% to -0.449%  
 # OAT Example Updated  
 
 # •   Since a bond is an annuity plus a final payment of principal:  
@@ -468,8 +468,8 @@ Price        112  Face Value     100  n                      5  Coupon          
 # Bond Price Terms  
 - Bid Price – where bond dealer will buy a bond   
 - Asked (Offered) Price – where bond dealer will sell a bond   
-- Clean Price – the quoted bond price, without [[Intra-Year Compounding and Day-Count|accrued interest]]    o   This is what is quoted   
-- Dirty or [[Accrued Interest|Invoice Price]] – the price with [[Intra-Year Compounding and Day-Count|accrued interest]]    o   Amount of cash you actually have to provide  
+- Clean Price – the quoted bond price, without [accrued interest](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md)    o   This is what is quoted   
+- Dirty or [Invoice Price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Accrued%20Interest.md) – the price with [accrued interest](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md)    o   Amount of cash you actually have to provide  
 # Invoice Price vs Clean Price  
 - Five year note issued December 30, 2022.  Clean price:  100.  Pays 5% coupon rate paid semi annually:  June 30 and  December 30  
 - Purchase April 5:  
@@ -486,83 +486,83 @@ $$
 - Notes and bonds pay interest semi annually  
 # Treasury Bill, Note and Bond Yields 1  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a2f2089ef585ba054f2e2ebdd22fc00fc275de9a7ee49430bfa8d8d947a910a6.jpg)  
+ ![500](Attachments/500-681.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1a5d0f240c4d231623cf3d77f23c87808e9305223d74b50b6997fb6b00a3affa.jpg)  
+ ![500](Attachments/500-669.jpg)  
 # Bond Prices Using YTM  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cf5d0fc02a6440e9ae04b2f6136e1c0b2998bc4945224312975cbfae461fe964.jpg)  
+ ![500](Attachments/500-746.jpg)  
 # Interest Rates and Bond Prices  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4cbf524431c8777e9f6edaf61286df5a176d7c7ee724f3e516a2cf842b46379d.jpg)  
+ ![500](Attachments/500-656.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/054697d3bde2780cb8153f83511a3494c5aead5cee1a4af62dfff5852282405f.jpg)  
+ ![500](Attachments/500-686.jpg)  
 # Interest Rates and Bond Prices  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/99a25e98081e39a844ef374876a551b6a3e2b242f08adc310b6689b2e4dcd471.jpg)  
+ ![500](Attachments/500-673.jpg)  
 
 # •   Prices move inversely to yields  
 # Bond Duration (Interest Rate Sensitivity) 2  
 - Price of any fixed coupon instrument will fall (rise) as interest  rates rise (fall)  
-- Various, slightly different measures of [[Key Rates O1s Durations and Hedging|duration]] – sensitivity of  price to [[How Countries Go Broke-Chapter 12 to Chapter 14|interest rate changes]]  
+- Various, slightly different measures of [duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) – sensitivity of  price to [interest rate changes](../International%20Finance/Bridgewater/How%20Countries%20Go%20Broke/How%20Countries%20Go%20Broke-Chapter%2012%20to%20Chapter%2014.md)  
 $$
 \mathsf{D u r a t i o n}=\sum_{t=1}^{n}\left(\frac{P V(C_{t}){\times}t}{P}\right),
 $$  
 
 /ℎ121   $P r i c e\;=\;\Sigma P V(C_{t})$  , 7=?   $C_{t}$      721 5ℎ1 3=452;<1=5’4 874ℎ 6:A/4 75 53<1 5  
 # Bond Duration (Interest Rate Sensitivity)  
-- [[Key Rates O1s Durations and Hedging|Duration]] represents the sum of present value proportional  contribution of each [[Preview of the Book|cash flow]]   
-- [[A Guide to Duration DV01 and Yield Curve|Modified duration]] ([[Duration|price sensitivity]] to a change in interest  rates)    [[A Guide to Duration DV01 and Yield Curve|Modified Duration]] = [[Key Rates O1s Durations and Hedging|Duration]]/(1 + YTM), with some caveats 
+- [Duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) represents the sum of present value proportional  contribution of each [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md)   
+- [Modified duration](../Financial%20Engineering/A%20Guide%20to%20Duration%20DV01%20and%20Yield%20Curve.md) ([price sensitivity](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%204/Duration.md) to a change in interest  rates)    [Modified Duration](../Financial%20Engineering/A%20Guide%20to%20Duration%20DV01%20and%20Yield%20Curve.md) = [Duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)/(1 + YTM), with some caveats 
 - Measures only sensitivity to a parallel shift in yield curve  
   - More complex changes require more sophisticated tools  
-[[Key Rates O1s Durations and Hedging|Duration]] Calculations  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9a463c9b398998fc2c5b85affc4d54b0f5e5277fb4e3efb60d5cccb812dc7366.jpg)  
+[Duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) Calculations  
+ ![500](Attachments/500-756.jpg)  
 # Comparison of Two Seven Year Notes  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4bb663e4fd91aeb97371bdae7b419c60ef469e25fca2fd0298992cc22f0bdf8c.jpg)  
+ ![500](Attachments/500-835.jpg)  
 - Which note is riskier?  Why?  
 # Term Structure of Interest Rates  
-- [[The Foreign Exchange Market Annotations|Spot rate]], [[PSET 7- Kohler|discount rate]], zero coupon rate  
+- [Spot rate](../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md), [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md), zero coupon rate  
   - Three different terms with the same meaning  
-  - Rate used to discount a single [[Preview of the Book|cash flow]] on a given date  
-- The [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|Law of One Price]]:  
-  - Cash flows (of identical risk) delivered on a given date  must have the same [[The Foreign Exchange Market Annotations|spot rate]]    o   If untrue, there would be a risk-free [[Arbitrage Pricing of Derivatives|arbitrage]] opportunity  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a7659d9ad3854aff2844c9f32b3b5de3e4e37223be57e85de4ec346af82471fe.jpg)  
-[[6. A Brief Introduction to Stochastic Calculus|Term Structure of Interest Rates]]  
+  - Rate used to discount a single [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) on a given date  
+- The [Law of One Price](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md):  
+  - Cash flows (of identical risk) delivered on a given date  must have the same [spot rate](../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md)    o   If untrue, there would be a risk-free [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity  
+ ![500](Attachments/500-679.jpg)  
+[Term Structure of Interest Rates](../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md)  
 # The Term Structure of Interest Rates 3  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/13c74c028fea5ce664d1581c838ae37ec97f87d9323594cdfd8ce8b4b4ef51ae.jpg)  
+ ![500](Attachments/500-752.jpg)  
 
 # •   10-year minus 2-year treasury yield differential  
 - Inverted yield curve “predicts” recessions  
 # Valuing Bonds Using Spot Rates  
-- Calculate the  [[Discount Factors|discount factor]] :  
+- Calculate the  [discount factor](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) :  
 $D i s c o u n t\;F a c t o r\,=\frac{1}{(1+r_{n})^{n}},$     $e.\,g.\,,D F_{3}\,i f\,r_{3}=5\%,$     $D F_{3}=1/(1+.05)^{3}=.8638$  
 # The Law of One Price  
-- The [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|law of one price]] states that, given [[Chapter 12 Market Efficiency|efficient market]]  conditions, there are no [[Arbitrage Pure Versus Relative Value|pure arbitrage]] opportunities  
+- The [law of one price](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) states that, given [efficient market](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%2012%20Market%20Efficiency.md)  conditions, there are no [pure arbitrage](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Arbitrage%20Pure%20Versus%20Relative%20Value.md) opportunities  
   - Any set of future identical cashflows must be priced the  same – have identical present values  
-  - Since real world markets do not meet [[Chapter 12 Market Efficiency|efficient market]]  assumptions, there are some [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]]  available  
+  - Since real world markets do not meet [efficient market](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%2012%20Market%20Efficiency.md)  assumptions, there are some [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md)  available  
 
 §   Only realizable on a statistical basis  §   High cost to access these opportunities  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c67512703d1f2884a773aa5d1b44887881fa5adbeb72d7f75fc2d210be4c0757.jpg)  
+ ![500](Attachments/500-735.jpg)  
 # Term Structure Measurement  
-- [[The Foreign Exchange Market Annotations|Spot rate]] –discount single payment received on a date  o   Must be inferred in most cases  
+- [Spot rate](../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) –discount single payment received on a date  o   Must be inferred in most cases  
 
-§   Limited number of discount (single payment) bills   §   Notes and bonds make multiple [[Realized Returns|coupon payments]]  
+§   Limited number of discount (single payment) bills   §   Notes and bonds make multiple [coupon payments](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md)  
   - STRIPS – Separate Trading of Registered Interest and  Principal of Securities  
 
 §   Separates principal only portion of coupon notes and  bonds which trade regularly  §   Allows creation of zero coupon (spot) yield curve  
 # More on Discount Factors  
 - Inverted yield curves  
-  - [[Forwards and Futures Notes|Implied forward rates]]  
+  - [Implied forward rates](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)  
 
-§   One year [[The Foreign Exchange Market Annotations|spot rate]]:  20%  §   Two year [[The Foreign Exchange Market Annotations|spot rate]]:    7%  1 1 X' !   = 1.20  = .833, X' .   = 1.07 .  = .873  3<>:314 X' . = 1.0481 A2    !  
+§   One year [spot rate](../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md):  20%  §   Two year [spot rate](../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md):    7%  1 1 X' !   = 1.20  = .833, X' .   = 1.07 .  = .873  3<>:314 X' . = 1.0481 A2    !  
 
 7 =1B75391 4.59% 3=512145 2751 6A2 A=1 !172 3= A=1 !172  
-- While this example is obvious, building spot yield curves is  complex and relies on assumptions to exclude [[Arbitrage Pricing of Derivatives|arbitrage]]  opportunities  
+- While this example is obvious, building spot yield curves is  complex and relies on assumptions to exclude [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)  opportunities  
 # Term Structure and Expectations Theory  
-- Why does the [[The Vasicek Model|term structure]] exist?  
-  - [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|Liquidity]] [[Utility Indices|preference]]    o   [[Teaching Note 3 Understanding The Term Structure Of Interest Rates|Expectations theory]]  o   Risk  o   [[War Economies and Hyperinflation|Inflation]] (Deflation) risk  
+- Why does the [term structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) exist?  
+  - [Liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) [preference](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md)    o   [Expectations theory](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates.md)  o   Risk  o   [Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) (Deflation) risk  
 - Prices reflect future view of all market participants  
 # Real versus Nominal Returns  
 - Real return   $(r_{r e a l})$  :  
@@ -576,51 +576,51 @@ $$
 - If countries are viewed as equally risky, the real return  available should be identical – Fisher Effect  
 # Inflation Rates (US and Selected Countries)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5baea7f7de8fedc6af8f58137ad42be0f39e33e0353b071c981ed51a0b3ee777.jpg)  
+ ![500](Attachments/500-805.jpg)  
 # Real and Nominal US Rates  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c9a87b72472d2925bb793c41829bc5481e2fd2a59bdb41884b185ff89c7a277.jpg)  
+ ![500](Attachments/500-805.jpg)  
 # Short-term Rates and Inflation  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3100afdb263b1f4ac5681a80b3e8e12a858d6e062f75a607de7866ed775716d4.jpg)  
+ ![500](Attachments/500-805.jpg)  
 #  
 
 More on Bonds and Equity Valuation I  Dave Schabes  
 
 January 12, 2023  
-[[Default Risk and Credit Derivatives 183|Default Risk]] Example:  Manufacturing Company   •   Three state world – equal probability  
+[Default Risk](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/Default%20Risk%20and%20Credit%20Derivatives%20183.md) Example:  Manufacturing Company   •   Three state world – equal probability  
   - High Earnings – adequate to repay debt in full and a return  to equity holders  
   - Middle Earnings – inadequate to repay debt in full, but  enough to repay 50% of outstanding debt  
 
 §   Equity holders wiped out  o   Low Earnings – inadequate to repay debt  
 
-§   Company sold for value of remaining physical assets  §   Equal to 10% of outstanding debt  [[Default Risk and Credit Derivatives 183|Default Risk]] Example:  Manufacturing Company  
+§   Company sold for value of remaining physical assets  §   Equal to 10% of outstanding debt  [Default Risk](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/Default%20Risk%20and%20Credit%20Derivatives%20183.md) Example:  Manufacturing Company  
 - Value of debt outstanding:  \$100 million (one year zero  coupon)  
-  - Risk free rate: 5% per annum    o   [[Lecture 1- Probability Distributions of Returns|Expected return]] in one year  = (100 X 1.00 + 100 X .50 + 100 X .10)/3 = 160/3 = 53.33    o   Will pay less than:  53.33/1.05 = 50.79    o   Need more information on [[Chapter 5 - Index Futures|market risk]] profile to say more  
+  - Risk free rate: 5% per annum    o   [Expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) in one year  = (100 X 1.00 + 100 X .50 + 100 X .10)/3 = 160/3 = 53.33    o   Will pay less than:  53.33/1.05 = 50.79    o   Need more information on [market risk](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md) profile to say more  
 # Bond Spreads  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9073f5bedc199d3257a087f75a62e77408515ae40a9008c5b917ef92bdd4579f.jpg)  
+ ![500](Attachments/500-745.jpg)  
 # Credit Ratings  
 
 #  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f15aef9488e288ddf7dc0df54f5312989fc5d3cf089eb3559298eb605d75a2c4.jpg)  
+ ![500](Attachments/500-788.jpg)  
 # Credit Spreads May 2007 through January 2023  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e881c48b8055dacf908e4fe1bf73d69bf13349832d242f1e8d654eb3c003dcc0.jpg)  
+ ![500](Attachments/500-805.jpg)  
 # Sovereign Bonds  
-- These are generally viewed as risk free if issued in their own  [[Forwards and Futures Notes|currency]]   
+- These are generally viewed as risk free if issued in their own  [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)   
 - Many countries borrow in other currencies, however  
-  - “Take advantage” of lower rates available from  international investors    o   Part of a [[Forwards and Futures Notes|currency]] union  o   “Pegged” [[Forwards and Futures Notes|currency]]  
+  - “Take advantage” of lower rates available from  international investors    o   Part of a [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) union  o   “Pegged” [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)  
 # Sovereign Bond Yields  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ed4dc6c95630f89d0c13b6b4ddc10c9cb04df0592f8d10736b9910fa00830af8.jpg)  
+ ![500](Attachments/500-743.jpg)  
 # Common Stock Trading  
 - Primary Share Offering  
-  - Usually an “[[Primary Issuance and Secondary Resale Markets|Initial Public Offering]]” (IPO)  
+  - Usually an “[Initial Public Offering](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Primary%20Issuance%20and%20Secondary%20Resale%20Markets.md)” (IPO)  
   - Preceded by a “Road Show”  
 
-§   Company management and underwriters ([[An Asset Allocation Primer|Investment]]  Banks) tell company’s story to potential investors  §   Determine level of interest – price and quantity of  shares  
+§   Company management and underwriters ([Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  Banks) tell company’s story to potential investors  §   Determine level of interest – price and quantity of  shares  
   - At offering, underwriters buy shares from company and  sell on to institutional and individual investors  
 #  
 
@@ -631,7 +631,7 @@ January 12, 2023
   - Buy from other shareholders – not directly from company     o   Vast majority of stock trading on this basis  
 - Ownership passes once trade is confirmed and settled  o   Payment made to seller and shares received by buyer  
 # Stock Markets  
-- A [[Hedge Fund Strategies|stock market]] is a venue where buyers and sellers “meet”     o   These were once principally physical “trading [[Caps and Floors|floors]]”    §   Individuals shouted or used hand signals to trade    •   “bid” (where I buy)   •   “offer” or “ask” (where I sell)  
+- A [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) is a venue where buyers and sellers “meet”     o   These were once principally physical “trading [floors](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Caps%20and%20Floors.md)”    §   Individuals shouted or used hand signals to trade    •   “bid” (where I buy)   •   “offer” or “ask” (where I sell)  
 - Effectively been replaced by electronic networks  
 # Stock Trading on Traditional Venues  
 - Prior to market reforms a company’s stock:   o   Almost always traded on exchange where “listed”  
@@ -639,32 +639,32 @@ January 12, 2023
 - Two largest exchanges were:  o   New York Stock Exchange (NYSE)  
   - National Association of Security Dealers Quotation  (NASDAQ) system  
 # Post 2005 Market Changes  
-- Exchanges compete for limit orders to show best [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]]   
+- Exchanges compete for limit orders to show best [liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md)   
 - More bids and offers shown on exchanges     o   Increases comfort of buyer or seller – large mutual fund    o   Creates more “market orders” on that venue   
 - Institutional fund managers and retail investors are price  takers    
 - Specialized firms are price makers  
 # Example  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8b583b93bfdc65d1cbf6ed049b476b9552e53dc87c0f17c3a5def6ed9f881119.jpg)  
+ ![500](Attachments/500-805.jpg)  
 - How much would you pay if you bought 200 shs? 400 shs?  
 - How much would you receive if you sold 500 shs? 1000 shs?  
 # Apple Computer Summary Stock Information 1  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b5a4097cebd5f13bf5fad6d62ae6c6d12cf60ee9898855aafb3d281845d160aa.jpg)  
+ ![500](Attachments/500-752.jpg)  
 # Common Stock Valuation  
 - Valuation measures  
   - Book    o   Liquidation  o   Earnings  
 - Valuation by Comparable s  
   - Companies in same industry    o   Must consider critical differences  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/78fe3c04ef24e528c9febb698da96495ecf120dc9a6a9251149e975e10288fc2.jpg)  
+ ![500](Attachments/500-805.jpg)  
 Relationship between Stock Prices and Dividends  
 - Examine various valuation methods  
   - P/E and P/B ratios vary widely within industries  
 - Dividends  
   - Companies either pay earnings out in dividends or reinvest  in the business  
-  - An equity [[An Asset Allocation Primer|investment]] may be thought of as a perpetuity  
+  - An equity [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) may be thought of as a perpetuity  
 
-§   Ultimately all cash is paid out to shareholders  §   PV([[Chapter 16 - Black–Scholes Model|Stock Price]]) = PV([[Exercises|expected dividends]] per share)  §   Receive dividends and capital gains (losses)  
+§   Ultimately all cash is paid out to shareholders  §   PV([Stock Price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md)) = PV([expected dividends](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) per share)  §   Receive dividends and capital gains (losses)  
 Relationship between Stock Prices and Dividends    •   Assumptions:  
   - Current Price, P 0  
   - Expected Price in one year, P 1  
@@ -674,14 +674,14 @@ $$
 $$  
 
 ) ##\$%  = [.92 + 174.62 −126.01]/126.01 = 39% Relationship between Stock Prices and Dividends  
-- Rearranging the [[Lecture 1- Probability Distributions of Returns|expected return]] equation  
+- Rearranging the [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) equation  
 $$
 P_{0}=(D I V_{1}+P_{1})/(1+r)
 $$  
 - Today’s price equals the discounted value of the dividend plus  the expected capital gain or loss  
-- )  is the [[Week 7- Cost of Capital Review, Implied Model, Private Firms|cost of equity]] capital or the [[Price-to-Sales Ratios in Stock Valuation|market capitalization]] rate  
+- )  is the [cost of equity](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%207/Week%207-%20Cost%20of%20Capital%20Review,%20Implied%20Model,%20Private%20Firms.md) capital or the [market capitalization](../Advanced%20Financial%20Analysis%20and%20Valuation/Financial%20Ratios/Price-to-Sales%20Ratios%20in%20Stock%20Valuation.md) rate  
 - When the market is well functioning  
-  - All investments with equivalent risk have the same  [[Lecture 1- Probability Distributions of Returns|expected return]],  )   Relationship between Stock Prices and Dividends  
+  - All investments with equivalent risk have the same  [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md),  )   Relationship between Stock Prices and Dividends  
 - By the same logic as previously presented, the future price for  period 1 must equal:  
 $$
 \begin{array}{c}{{P_{1}={(D I V_{2}+P_{2})}/{(1+r)}}}\\ {{a n d\;P_{0}\;m u s t\;e q u a l,}}\\ {{+\;P_{1})/{(1+r)}+\;{(D I V_{2}+P_{2})}/{(1+r)^{2}},}}\end{array}
@@ -689,7 +689,7 @@ $$
 $\begin{array}{c}{{P_{0}=\displaystyle\frac{\sum_{t=1}^{H}D I V_{t}}{(1+r)^{t}}+\displaystyle\frac{P_{H}}{(1+r)^{H}}},}\\ {{l e t\;H\to\infty\;a n d\;P_{0}=\displaystyle\frac{D I V}{r},t h e\;p e r p e t u i t}}\end{array}$  , &ℎ\$ #\$)#\$&\*K&T UN)8\*97  
 # Relationship between Stock Prices and Dividends  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/22f6741d3830b5470b411cf073d8e3b2d296323c2cf3970c8f1c5c14e7dfd8d7.jpg)  
+ ![500](Attachments/500-805.jpg)  
  $10\%$   $15\%$  
 Relationship between Stock Prices and Dividends  •   How to obtain PVs of cumulative dividends and future price  o   For cumulative dividends use growing annuity formula:  
 $$
@@ -701,7 +701,7 @@ $$
 
 0U P\$ 7II\*8\$ &ℎ\$ 'K^K'\$+' %N+&K+\*\$I K+&N #)\$#\$&\*K&T, P\$ N_&7K+:  $\begin{array}{r}{P_{0}=\sum_{t=1}^{\infty}\frac{D I V_{t}}{(1+r)^{t}}}\end{array}$  , &ℎ\$ /K^K'\$+' /KI%N\*+& (/\`a) bN'\$9  
 # Estimating the Equity Cost of Capital  
-- Expected  [[Equity Commodity and Currency Math|dividend growth]] assumed constant:  •   Expected  return of comparable investments will equal:  
+- Expected  [dividend growth](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Equity%20Commodity%20and%20Currency%20Math.md) assumed constant:  •   Expected  return of comparable investments will equal:  
 
 I&7&\$I &ℎ7& &ℎ\$ 'K^K'\$+' TK\$9' #9\*I 'K^K'\$'   $b y$   &ℎ\$ I&N%d #)K%\$ #9\*I &ℎ\$ \$"#\$%&\$' L)NP&ℎ )7&\$    \$J\*79I &ℎ\$ %NI& NU \$J\*K&T %7#K&79   Payout Ratio, Plowback Ratio and Return on Equity  
 - Payout and plowback ratios – alternative approach to long-run  growth  
@@ -719,7 +719,7 @@ c\$&\*)+ N+ !J\*K&T = !3e/fNNd !J\*K&T #\$) eℎ7)\$
   - Should compare to unregulated companies with similar,  low earnings volatility  
 - Examine Table 4.4 from text  
 DCF Models and Utility Rate Setting  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2ba354f8cec3eefd1613a6aa0f968078610c3adc3416c98854a9704276caa8b7.jpg)  
+ ![500](Attachments/500-790.jpg)  
 Brealey, Myers and Allen:  Table 4.4  
 # DCF Models and Utility Rate Setting  
 - Aqua America:  Price: \$33.62 Dividend: \$1.18  
@@ -742,7 +742,7 @@ $$
 iℎKI #)N^K'\$I 7+ 79&\$)+7&K^\$ \$I&K87&\$ NU &ℎ\$    \$J\*K&T %NI&  $o f\,c a p i t a l,r=\frac{D I V_{1}}{P_{0}}+g=.035+.05$  
 # DCF Models and Utility Rate Setting  
 - These estimates are likely unrealistically high given utilities’  role.  Would expect slowing in line with demographics of  service area  
-- But what if the [[An Asset Allocation Primer|investment]] requirements for utilities differ  from other businesses?  
+- But what if the [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) requirements for utilities differ  from other businesses?  
   - Will return to this at the beginning of next lecture  
 #  
 
@@ -768,14 +768,14 @@ Utilities Regulation:  Pacific Gas & Electric
   - Share price has dropped dramatically since agreed  
 - Is PG&E investible?  
 Utilities Regulation:  Pacific Gas & Electric 1 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/595f918bf2b50209f9b09a786f9f9ed1d1044eb6fa84c729ca7864efe901efea.jpg)  
+ ![500](Attachments/500-730.jpg)  
 # Utilities Regulation:  Pacific Gas & Electric  
 - How to interpret previous financials?  
-- What does current [[Chapter 16 - Black–Scholes Model|stock price]] imply?  
+- What does current [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) imply?  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fb944bbc8482f5dbdf8db27d17d3b8e274c1a57d02e58e12a91c34333f15e973.jpg)  
+ ![500](Attachments/500-805.jpg)  
 
-Source:  Yahoo! Finance website.  Accessed January 13, 2023.  [[PSET 7- Kohler|Growth Assumptions]] and Multistage Models  
+Source:  Yahoo! Finance website.  Accessed January 13, 2023.  [Growth Assumptions](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) and Multistage Models  
 - Estimating r and g  
   - Utilize multiple companies in the industry    o   High growth rates are rarely sustainable  
 - Growth-Tech example:  changes in  
@@ -787,7 +787,7 @@ Source:  Yahoo! Finance website.  Accessed January 13, 2023.  [[PSET 7- Kohler|G
 - Difficult to believe, since no firm maintains a 20% annual  growth rate forever  
 - Use multi-stage model to obtain more realistic answer  
 Growth-Tech Financial Assumptions – Multi-stage  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0c31074f6aed735d72d2efbb40e076c2b2454a9864d282291a9c161a8215f24a.jpg)  
+ ![500](Attachments/500-708.jpg)  
 
 # •   Two-stages:  
 
@@ -795,7 +795,7 @@ Growth-Tech Financial Assumptions – Multi-stage
 
  2.  Reduced profitability and plowback.  
 Multistage Growth Model:  Growth-Tech  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eec521a439bc5f8cfdfff50495035b50ea0cc6b7a9caff783f49a342b431f3e8.jpg)  
+ ![500](Attachments/500-713.jpg)  
 
 Now obtain an expected rate of return equal to 9.91% v 21%  due to lower risk  
 # Phoenix Corp.  
@@ -805,10 +805,10 @@ Now obtain an expected rate of return equal to 9.91% v 21%  due to lower risk
 - By year 4, EPS is \$1.12 per share and dividends \$.67  
 # Phoenix Corp.  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d8d0bcf2798df3b5e6da57d22d1e10a39342607b2a50e6f5d7d07db0c6e6d425.jpg)  
+ ![500](Attachments/500-792.jpg)  
 # Phoenix Corp.  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2b108a241c90f163148e420f407ade93e32b24067548486e181963d1f1b2be1c.jpg)  
+ ![500](Attachments/500-759.jpg)  
 # Earnings Per Share Model  
 - Reported earnings typically do not represent cash earned     o   Many noncash items:  amortization and depreciation    o   Book versus market values  
 - Income stocks (No growth)  
@@ -829,31 +829,31 @@ $$
 .ℎ939 +#JM 5B 4ℎ9 K39B9;4 G0,:9 -N C3-.4ℎ -KK-34:;5459B  
 # Earnings Per Share Model with Growth Opportunities  
 $\textdollar{\S^{10}}$  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5f001c27c3ad59589de483f9e321bc84e9d272427542a8ec983964ecac7103c8.jpg)  
+ ![500](Attachments/500-805.jpg)  
  $\S10.00\ (\mathrm{EPS}_{1}).\ \mathrm{NPV}=-10+C/r,$   $r=.10$   $P_{\mathrm{{0}}},$   $r=.10$  
-- Assumes market understands the [[Lecture 1- Probability Distributions of Returns|expected return]] of the  project  
+- Assumes market understands the [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) of the  project  
 Earnings Per Share Model with Growth Opportunities   
 - Calculate values in above table:  
 $_5=100+{\frac{-10+5}{(1+.10)}}=100+(-4.55)=$     $\frac{E P S}{P_{0}}=\frac{\S10}{\S95.45}=10.5\%,\frac{P}{E}=9.545$  
-- Results of growth opportunity determine change in [[Chapter 16 - Black–Scholes Model|stock price]]   $\frac{E P S}{P_{0}}=\ 10\%\ a n d\frac{P}{E}=10\ w i t h o u t\ g r o w t$  = 10 .54ℎ-:4 C3-.4ℎ -KK-34:;54>  
+- Results of growth opportunity determine change in [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md)   $\frac{E P S}{P_{0}}=\ 10\%\ a n d\frac{P}{E}=10\ w i t h o u t\ g r o w t$  = 10 .54ℎ-:4 C3-.4ℎ -KK-34:;54>  
 # Discounted Cash Flow Valuation  
 - Basis of private company transactions  
 - Companies trade on a multiple of EBITDA (Earnings Before  Interest, Taxes, Depreciation and Amortization)  
-  - EBITDA is pre-tax [[Free Cash Flow Valuation of Companies|Free Cash Flow]] (FCF)  
+  - EBITDA is pre-tax [Free Cash Flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2011%20-%20Individual%20Investors-A%20Survey%20of%20Modern%20Investment%20Theory/Free%20Cash%20Flow%20Valuation%20of%20Companies.md) (FCF)  
   - Assumed buyer will create tax efficient structure  
 - Value con cate nat or division  
 $$
 :\!\frac{F C F_{1}}{(1+r)^{1}}\!+\!\frac{F C F_{2}}{(1+r)^{2}}\!+\cdots\!\frac{F C F_{H}}{(1+r)^{H}}\!+\!\frac{\phantom{F C F_{1}}}{(1
 $$  
 Con cate nat or Business  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6602a14debff72e4f39a6b41ebf7dee338e042c5ee0bb04c5a7b8fed5615a648.jpg)  
+ ![500](Attachments/500-736.jpg)  
 
 # •   Six- and ten-year PV’s of FC  
 # Valuation Methods  
 - Price to Earnings Ratio (P/E)   
 - Price (Market) to Book Ratio (P/B)   
-- [[Lehman Brothers Option Adjusted Spread|Discounted Cash Flow]] (DCF)   
-- [[Lehman Brothers Option Adjusted Spread|Discounted Cash Flow]] without growth (DCF with PVGO = 0)    o   Base or downside case  
+- [Discounted Cash Flow](../Financial%20Instruments/Lehman%20Brothers%20Option%20Adjusted%20Spread.md) (DCF)   
+- [Discounted Cash Flow](../Financial%20Instruments/Lehman%20Brothers%20Option%20Adjusted%20Spread.md) without growth (DCF with PVGO = 0)    o   Base or downside case  
 # Horizon (Terminal) Value Calculations  
 - P/E Ratios – utilize similar companies’ P/E ratios  
   - Must consider strengths and weaknesses of our  con cate nat or business versus market competitors  
@@ -875,7 +875,7 @@ $$
 - Discounted Cash Flows caveats:  o   Maintenance versus growth investments  
 
 §   Growth requires increased:  •   Staffing  •   Plant and equipment  •   External expenditures  •   May increase risk – limits to market share and size    Maintenance of current earnings often requires:  
-- Ongoing capital expenditures  •   [[An Asset Allocation Primer|Investment]] in staff, advertising, administration  
+- Ongoing capital expenditures  •   [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in staff, advertising, administration  
   - Need to determine if growth initiatives are positive NPV  
 # Horizon (Terminal) Value Calculations  
 - Discounted Cash Flows caveats:  
@@ -887,7 +887,7 @@ $$
 §   That is, there are no NPV positive growth opportunities  past the horizon date  §   Likely unless business has monopolistic characteristics  or tremendous brand value  
 # Horizon (Terminal) Value Calculations  
 - Discounted Cash Flows  
-  - First calculate the value in year 6 of the [[Advanced Derivatives Pricing Methodology|future cash flows]]  
+  - First calculate the value in year 6 of the [future cash flows](../Financial%20Engineering/Advanced%20Derivatives%20Pricing%20Methodology.md)  
 $$
 F V_{H o r i z o n}=\frac{1.09}{.10-.06}=\S27.3
 $$  
@@ -908,11 +908,11 @@ P V_{H o r i z o n}={\frac{e a r n i n g s_{H+1}}{r}}
 $$  
 $P V_{H o r i z o n}=\left({\frac{1}{(1.1)^{6}}}\right)\left({\frac{2.18}{.\,10}}\right)=\S12.3\,P V$     $P V_{B u s i n e s s}=0.9+12.3=\S13.2$  
 Con cate nat or Horizon Values 2 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5e891b3c030ac47e88130780fa907b97c9957821c2dc706d4b6a0d55e9c99052.jpg)  
+ ![500](Attachments/500-776.jpg)  
 - What should you pay for this business?  
 #  
 
-Net Present Value and Other [[An Asset Allocation Primer|Investment]] Criteria  Dave Schabes  
+Net Present Value and Other [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Criteria  Dave Schabes  
 
 January 19, 2023  
 # Net Present Value  
@@ -924,22 +924,22 @@ $$
   - Should cash be used for project X?    o   NPV rule:  Invest if project X’s NPV > 0  o   \$9 mm of Other Assets; \$1 mm cash  
 # Vegetron Project X  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/14a43faa091c9d5c3255f2ce0aea0f6d8713fc565d4dd52b90c7ca9cc22fe85d.jpg)  
+ ![500](Attachments/500-741.jpg)  
 - How do we know that Vegetron’s market value will equal the  value of Vegetron’s existing assets +/- the PV of project X?  
 # Vegetron Project X  
 - What’s missing from analysis?  
 # Vegetron Project X  
 - What’s missing from analysis?   
 - Discussion of risk     o   Fit with business model  §   Strategy  §   Tactical    o   Competence  o   Competitive response  
-- These determine the appropriate [[Market Players Hedgers Vs Speculators|opportunity cost of capital]]  
+- These determine the appropriate [opportunity cost of capital](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Market%20Players%20Hedgers%20Vs%20Speculators.md)  
 # Investment Criteria  
-- Many types of [[An Asset Allocation Primer|investment]] decisions  
-  - Mutual fund manager determining a [[An Asset Allocation Primer|portfolio]] choice    o   [[Private Equity|Private equity]] fund assessing a new [[An Asset Allocation Primer|investment]]  o   Information technology head deciding on a new  accounting system  o   Head of retail [[HKS The Banking Industry|banking]] division determining where to open  a new branch  
+- Many types of [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) decisions  
+  - Mutual fund manager determining a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) choice    o   [Private equity](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2014%20-%20Private%20Equity,%20Pension,%20and%20Sovereign%20Funds/Private%20Equity.md) fund assessing a new [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  o   Information technology head deciding on a new  accounting system  o   Head of retail [banking](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) division determining where to open  a new branch  
 - All require financial and business analysis  
 # Company Choices with Retained Earnings  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f4a358c3512d4f837df7741210c88e82e4cd02cb0d9ebec6175571989e6ce97b.jpg)  
-- [[An Asset Allocation Primer|Investment]] in business  
+ ![500](Attachments/500-742.jpg)  
+- [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in business  
 - Return cash to shareholders – dividends and buybacks  
 # Quantitative Investment Criteria  
 - Net Present Value   
@@ -953,38 +953,38 @@ $$
   - Money today is worth more than money in the future  
 
 §   Now true in almost every country after years of  “financial repression”  
-  - NPV depends solely on forecasted cash flows and  [[Market Players Hedgers Vs Speculators|opportunity cost of capital]]  
+  - NPV depends solely on forecasted cash flows and  [opportunity cost of capital](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Market%20Players%20Hedgers%20Vs%20Speculators.md)  
 
 §   Both are uncertain in the real world  o   NPV values can be summed  
 
 §   Allows comparison of projects with different time  horizons  
 # Modern Portfolio Theory  
-- Assumptions underlying summing of project NPVs  o   Independence of project outcomes  o   Risk adjusted [[Assets|returns]] are similar  
-  - Based on Harry Markowitz’s modern [[A Brief History of Investment Thought|portfolio theory]]  §    Will cover later in quarter     $N P V(A+B)=N P V(A)+N P V(B)$  
+- Assumptions underlying summing of project NPVs  o   Independence of project outcomes  o   Risk adjusted [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are similar  
+  - Based on Harry Markowitz’s modern [portfolio theory](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2011%20-%20Individual%20Investors-A%20Survey%20of%20Modern%20Investment%20Theory/A%20Brief%20History%20of%20Investment%20Thought.md)  §    Will cover later in quarter     $N P V(A+B)=N P V(A)+N P V(B)$  
 - Alternative measures may lack this capability  
 # Book Rate of Return  
 - Book Income/Book Assets  
   - Have never seen this used  
 - Accounting terms  
-  - Capital [[An Asset Allocation Primer|investment]]    o   Operating expenses  
+  - Capital [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)    o   Operating expenses  
 - Represents average rate of return across business  o   Need to look at marginal return of new activities  
 # Payback and Discounted Payback  
 - When do I get my money back?  o   Helps people assess relative risk  
   - Often useful when discussing with people with little  financial background  
 - Limitations  
-  - Ignores cash flows after payback date    o   Equally weights all cash flows  §   Less of an issue in low/no [[War Economies and Hyperinflation|inflation]] countries  
+  - Ignores cash flows after payback date    o   Equally weights all cash flows  §   Less of an issue in low/no [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) countries  
 # Payback Period  
 - Discounted payback discounts cash flows as with NPV    o   Only measures through payback date  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/69024cab720fda226cd72945fbc78151998edb42f3526577eb90a61084b7416f.jpg)  
+ ![500](Attachments/500-740.jpg)  
 - Often used in conjunction with IRR and NPV  
 - Have not seen “payback rule” used as discussed in text  
 # Discounted Payback Period  
 - Measure NPV of cashflows until end of payback period   o   Have never seen this used – would use NPV and IRR   o   Look at payback period to assess  
 
-§   Potential risks over early part of [[An Asset Allocation Primer|investment]] period  §   Time until [[Private Equity|return on investment]]  
+§   Potential risks over early part of [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) period  §   Time until [return on investment](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2014%20-%20Private%20Equity,%20Pension,%20and%20Sovereign%20Funds/Private%20Equity.md)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f02574d5c89e590951f9cb5443065e9e5739343f227eba466b9fe1cddf647a50.jpg)  
+ ![500](Attachments/500-741.jpg)  
 # Internal Rate of Return (IRR)  
 - IRR is the rate of return where the NPV equals zero  o   For a single payout this may be calculated directly:  
 
@@ -996,15 +996,15 @@ $$
 $$
 N P V=\sum_{t=1}^{T}\frac{C_{t}}{(1+I R R)^{t}}\,=0
 $$  
-- IRR calculators start with an initial guess, then raise or lower  the [[PSET 7- Kohler|discount rate]] until NPV goes to zero  
-- The [[An Asset Allocation Primer|investment]] rule based on IRR is to choose investments  where the IRR  $>$   [[Market Players Hedgers Vs Speculators|Opportunity cost of capital]]  [[An Asset Allocation Primer|Investment]]  
+- IRR calculators start with an initial guess, then raise or lower  the [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) until NPV goes to zero  
+- The [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) rule based on IRR is to choose investments  where the IRR  $>$   [Opportunity cost of capital](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Market%20Players%20Hedgers%20Vs%20Speculators.md)  [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
   - With caveats, IRR rule and NPV rule usually agree  
 NPV and IRR   
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3af34c3fd0dc035575a074a3b9add759e0e189519106cdeb11c3755f1ead1d41.jpg)  
+ ![500](Attachments/500-747.jpg)  
 - IRR measures rate of return  
-- NPV may be positive, but de minimis, versus [[An Asset Allocation Primer|investment]]  
+- NPV may be positive, but de minimis, versus [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 - Why did I use two IRR guesses?  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cc41f084fc96df6c6ccc1a9aba27fb2c811896f4ff92290cf89a81e132ddeb49.jpg)  
+ ![500](Attachments/500-805.jpg)  
 IRR and NPV Example 1  
 
 # •   IRR equals 28.08%  
@@ -1016,27 +1016,27 @@ IRR and NPV Example 1
 # IRR Issues  
 - Lending and borrowing  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1255e8298f8ccdfc79f3e26a5e3bfdda29fdc74c2237aeb45e182b2b6c83b518.jpg)  
+ ![500](Attachments/500-739.jpg)  
 - There is nothing wrong with the calculation above  o   Two sides of the same transaction  
 - Transaction unlikely to occur if 10% is the correct cost of  capital for both parties  
 # IRR Issues  
 - Multiple IRRs – Helmsley Iron Example  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/54fe326648403b8bd6b6f839a6861037d962683c2f81db1989a53d993451633b.jpg)  
+ ![500](Attachments/500-703.jpg)  
 
 \$30 mm initial investment and \$65 mm environmental  cleanup costs in year 10  
-- Provides \$10 mm in [[Preview of the Book|cash flow]] years 2 through 9  
+- Provides \$10 mm in [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) years 2 through 9  
 # Helmsley Iron Example  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d2a8090dc642aafeecadacce97ed341958adc5cdcf081ec3a2ed53266cc4134e.jpg)  
+ ![500](Attachments/500-726.jpg)  
 # IRR Issues  
 - No IRR – text example  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/47e1b30d0fd2a59a9cf0acd79a5219781c65b0d913decfd856d0d6bd4a4108a2.jpg)  
+ ![500](Attachments/500-805.jpg)  
 - NPV is either always positive or negative  
 - One party is providing the other “free” money  
 # No IRR Example  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7b8296bcaa86af2f9a41dba55ff92fe12acd6093be7309b22eb20c851cf4e48f.jpg)  
+ ![500](Attachments/500-734.jpg)  
 
 Other party willing to hand you NPV regardless of discount  rate  
 # Mutually Exclusive Projects  
@@ -1044,31 +1044,31 @@ Other party willing to hand you NPV regardless of discount  rate
   - Limited resources – only negotiate one deal  
   - Examples:  
 
-§   New corporate accounting system  •   Buy  •   Build  •   Rent (Software as a Service)    §   Limited number of staff at an [[An Asset Allocation Primer|investment]] firm  
+§   New corporate accounting system  •   Buy  •   Build  •   Rent (Software as a Service)    §   Limited number of staff at an [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) firm  
 # Machine Tool Example  
 - Manual versus computer controlled machine tool – only need  one or the other  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/830235eb44f583d7a7a8f0265b0470a5c063fdf2778361323538337e2458141c.jpg)  
+ ![500](Attachments/500-694.jpg)  
 - E – D shows incremental IRR and NPV from choosing E over D  
-  - Same return as D on first \$10,000 and 50% return on  second \$10,000 – well above [[Market Players Hedgers Vs Speculators|opportunity cost of capital]]  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/86bdd7e4ef0ef8a9d1d7380ac2b8813d42798a67c3a9cc09d83b800623d5bfb7.jpg)  
+  - Same return as D on first \$10,000 and 50% return on  second \$10,000 – well above [opportunity cost of capital](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Market%20Players%20Hedgers%20Vs%20Speculators.md)  
+ ![500](Attachments/500-664.jpg)  
 Machine Tool Example  
 - Incremental IRR is 50%, where NPV of the projects are equal  
 # Differing Cash Flows Over Time  
 - Projects F and G  
-  - Equal [[An Asset Allocation Primer|investment]] amounts  
+  - Equal [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) amounts  
 
-§   Cash flows over different time horizons  §   Impact of [[PSET 7- Kohler|discount rate]] – uncertainty around  
+§   Cash flows over different time horizons  §   Impact of [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) – uncertainty around  
   - Consider how long money is “locked up”  §   Reinvestment risk  §   Uncertainty regarding potential alternatives  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b27bfd512233bfe57e1978c04342fe9312e69617fb5a154da0cc5a04bcc7b0b1.jpg)  
+ ![500](Attachments/500-702.jpg)  
 # Differing Cash Flows Over Time  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1e2bdcabf6b4e6228c0a5f8f0b5b9e7fc23790c7abf8946d283c49a6c12471e8.jpg)  
+ ![500](Attachments/500-747.jpg)  
 # Multiple Opportunity Costs of Capital  
 - There is rarely a single interest rate that covers all relevant  time-periods  
   - A “flat” yield curve  
-  - Unlikely to find the perfect [[PSET 7- Kohler|discount rate]] or rates  
+  - Unlikely to find the perfect [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) or rates  
 - Focus on:  
   - Getting the cash flows right and  
   - Understanding the qualitative risks and quantifying  sensitivities to various changes in model inputs  
@@ -1078,43 +1078,43 @@ Machine Tool Example
 - Easier for many managers to think in terms of rate of return  than evaluate NPV dollars  
 - Many other qualitative factors in decision process:  
   - Example:  Risk Aversion – no one remembers if you made  an extra \$1,000 NPV but everyone remembers if your  project was significantly late or over budget  Choosing Investments With Limited Resources  
-- Acceptance of every positive NPV project ensures maximizing  [[An Introduction to Equity Markets|shareholder wealth]]  
+- Acceptance of every positive NPV project ensures maximizing  [shareholder wealth](../Financial%20Engineering/An%20Introduction%20to%20Equity%20Markets.md)  
   - No firm has the resources to assess every potential project    o   Leads to capital rationing  
 - Often other critical resources effectively limit available capital  
   - People – e.g. research scientists, developers    o   Corporate competence  
 # Profitability Index  
 - Assumptions:  
   - Current year capital expenditure limited to \$10 mm  
-  - Three potential projects, requiring \$20 mm [[An Asset Allocation Primer|investment]]  
+  - Three potential projects, requiring \$20 mm [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/94851f5c90f167cda2b0afffae7deb11bfaaf20b326f3f8f9e1ab7da56647f89.jpg)  
+ ![500](Attachments/500-731.jpg)  
 # Profitability Index  
 - Now add fourth project to begin in one year  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f1c2f82e979707aefd2f2127792f40b90a97ad474f73aaf4b828562412e13c44.jpg)  
+ ![500](Attachments/500-677.jpg)  
 - Total NPV of A plus   $\sf D>B$   plus C, \$34.62  $>$   \$28.01  
 - Profitability Index does not work with additional constraint(s)  
 # NPV Comparison  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2fd877f59a1a5554caa239bd9188014cbfc26dab5c8e81a976b11855cf290956.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8f874e7b3f0240ebbc30583013d0874481548305b3507f43bbf43838baec2df7.jpg)  
+ ![500](Attachments/500-751.jpg)  
+ ![500](Attachments/500-751.jpg)  
 Profitability Index Comparison  
 - Assumes D only available project in year 1  
 #  
 
-Making [[An Asset Allocation Primer|Investment]] Decisions with the NPV Rule  Dave Schabes  
+Making [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Decisions with the NPV Rule  Dave Schabes  
 
 January 24, 2023  
 # Five General Rules  
 - Discount cash flows, not profits   
 - Discount incremental cash flows   
-- Treat [[War Economies and Hyperinflation|inflation]] consistently   
-- Separate [[An Asset Allocation Primer|investment]] and financing decisions   
+- Treat [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) consistently   
+- Separate [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and financing decisions   
 - Forecast and deduct taxes  
 # Cash Flows Not Profits  
 - Always working from Financial Statements  
-  - Not designed to represent [[Preview of the Book|cash flow]]    o   Represents business as a “going concern”  
-- Need to make adjustments to convert from financial  statements to [[Preview of the Book|cash flow]]  
+  - Not designed to represent [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md)    o   Represents business as a “going concern”  
+- Need to make adjustments to convert from financial  statements to [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md)  
   - Examples:  
 
 §   Capital Expenses   §   Working Capital  
@@ -1122,25 +1122,25 @@ January 24, 2023
 - Current expenses versus capital expenses  o   Current expenses:  payroll, printer paper  
   - Capital expense:  purchase of land, equipment, a  competitor  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1f1507b9b30be0fd924beef556db6d5486c3333ecfe875010d8a95efce090cfd.jpg)  
+ ![500](Attachments/500-691.jpg)  
 # Working Capital  
 - Working capital is the amount of cash and equivalents needed  to keep the business going (checkbook or debitcard balance)  
   - Profits recorded when a product is contractually sold  
 
 §   Companies often provide customers short-term  financing – accounts receivable  §   Cash paid 15 to 90 or more days later  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3801b9f2f80aa2e952538546307f5f22abd71ed852b2bf09596bc560a4cccb28.jpg)  
+ ![500](Attachments/500-670.jpg)  
 Working Capital  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8f0ee14d0fc3b2b47ad849a67ef780a99cb40d3bda8cac845d6cc9517768e624.jpg)  
+ ![500](Attachments/500-725.jpg)  
 - Simplified accounting view over time  
 # Working Capital  
 - Errors regarding working capital  o   Omission of working capital effects  
 
-§   Particularly smaller companies with limited access to  short-[[Short-Term Rates and the Transition from LIBOR|term loans]]  
+§   Particularly smaller companies with limited access to  short-[term loans](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md)  
   - Working capital needs change  
 
 §   Increasing/decreasing sales  §   Changes in input prices (recently lumber, copper)  
-  - Omission of recovery of working capital  §   Positive [[Preview of the Book|cash flow]] at project’s end  
+  - Omission of recovery of working capital  §   Positive [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) at project’s end  
 # Discount Incremental Cash Flows  
 - Don’t fall into “sunk cost” fallacy – “We’ve invested too much  to stop now.”   
 - Examples of sunk costs:    o   Employees hired and paid to develop prototype products    o   Marketing studies    o   Research and development cost  
@@ -1155,11 +1155,11 @@ Opportunity Costs and Additional Revenue and Expense
   - Value of assets used in project and sold or used elsewhere  in firm    o   May be negative due to environmental or other costs  
 # Inflation  
 - Many companies simply ignore  
-  - Assumes [[War Economies and Hyperinflation|inflation]] low and affects all inputs and outputs  similarly    o   Most problematic when a specific input increases in cost  or output decreases in price relative to others  
+  - Assumes [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) low and affects all inputs and outputs  similarly    o   Most problematic when a specific input increases in cost  or output decreases in price relative to others  
 - Recall nominal versus real distinction  o   Discount real cash flows with real rates  o   Discount nominal cash flows with nominal rates  
-Separate [[An Asset Allocation Primer|Investment]] and Financing Decisions, and  Deduct Taxes  
+Separate [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and Financing Decisions, and  Deduct Taxes  
 - Present theoretical basis for Separation Principle later  
-  - [[An Asset Allocation Primer|Investment]]’s [[PSET 7- Kohler|discount rate]] based on its risk    o   Financing structure is an independent decision  
+  - [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)’s [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) based on its risk    o   Financing structure is an independent decision  
 - Taxes are a business expense  
   - Companies often have many means to reduce taxes    o   Typically use marginal tax rate firm pays  
 # Corporate Income Taxes  
@@ -1177,7 +1177,7 @@ Separate [[An Asset Allocation Primer|Investment]] and Financing Decisions, and 
 # Key Corporate Tax Policy Areas  
 - Amortization of Research and Development (R&D) Expenses  
   - Must be amortized over 5 years beginning 2022  §   Contrary to approach on plant and equipment  
-- Tax Loss Carry-[[Forwards and Futures|Forwards]]  
+- Tax Loss Carry-[Forwards](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md)  
   - Prior to TCJA, 2 years losses may be used to offset up to  80% of current years taxable income    o   Tax Loss carry-backs eliminated  
 # Key Corporate Tax Policy Areas  
 - Limits on Interest Deductions  
@@ -1188,7 +1188,7 @@ Separate [[An Asset Allocation Primer|Investment]] and Financing Decisions, and 
 
 §   Applies 2018-2022  §   Unused deductions may be carried forward  
   - Beginning 2022 interest deductions limited to 30% of EBIT  
-- Will force companies (relatively few) with interest deductions  exceeding 30% to rethink [[Introduction to Corporate Finance|capital structure]]  
+- Will force companies (relatively few) with interest deductions  exceeding 30% to rethink [capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md)  
 # Key Corporate Tax Policy Areas  
 - CARES Act changes 1  
   - Net Operating Losses  
@@ -1201,45 +1201,45 @@ Separate [[An Asset Allocation Primer|Investment]] and Financing Decisions, and 
 # Key Corporate Tax Policy Areas  
 - Territorial Versus Worldwide Taxation  o   Majority of countries implement territorial taxation  §   Tax income earned only in their country  o   Until 2018 US taxed worldwide income of US corporations  
 
-§   TCJA changed to territorial system  §   Non-US income untaxed until “repatriated” – brought  back to a company account in the US  §   Led to tax regime [[Arbitrage Pricing of Derivatives|arbitrage]]  
+§   TCJA changed to territorial system  §   Non-US income untaxed until “repatriated” – brought  back to a company account in the US  §   Led to tax regime [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)  
   - Territorial approach also created M&A opportunities  
 
 §   So called “inversions”  
 # International Mulch And Compost Company  
-- [[An Asset Allocation Primer|Investment]] [[Preview of the Book|cash flow]] has three components:  
-  - Capital [[An Asset Allocation Primer|Investment]]    o   Operating  o   Changes in working capital  
-- Capital [[An Asset Allocation Primer|Investment]]  
-  - Initial negative [[Preview of the Book|cash flow]]:  plant and equipment, R&D    o   Positive [[Preview of the Book|cash flow]] at end:  salvage value or reuse  International Mulch And Compost Company  
-- Operating [[Preview of the Book|Cash Flow]]  
+- [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) has three components:  
+  - Capital [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)    o   Operating  o   Changes in working capital  
+- Capital [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
+  - Initial negative [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md):  plant and equipment, R&D    o   Positive [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) at end:  salvage value or reuse  International Mulch And Compost Company  
+- Operating [Cash Flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md)  
   - Revenues – Expenses – Taxes  
   - Expense and tax reduction projects contribute to cash  flow  
-- [[An Asset Allocation Primer|Investment]] in Working Capital  
-  - Inventories + Accounts Receivable – Accounts Payable  (A/R – A/P is known as “trade credit”)    o   Negative [[Preview of the Book|cash flow]] (when sales are stable or increasing)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e0471bc78fd90e17abc8f8bf1ac00e0e4b382fa6e6c9e681177291a3dfa8b4f0.jpg)  
+- [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in Working Capital  
+  - Inventories + Accounts Receivable – Accounts Payable  (A/R – A/P is known as “trade credit”)    o   Negative [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) (when sales are stable or increasing)  
+ ![500](Attachments/500-698.jpg)  
 # IM&C Guano Project  
-- [[Preview of the Book|Cash Flow]] [[Week 2 Fundamentals Of Forecasting|Forecasting]]  
-  - Capital [[An Asset Allocation Primer|Investment]]  
+- [Cash Flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) [Forecasting](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md)  
+  - Capital [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
 §   Purchase \$12 mm P&E; salvage value \$1.949 mm  §   Difference between salvage value and depreciation is a  (taxable) capital gain at 21%  
-  - Operating [[Preview of the Book|Cash Flow]]  
+  - Operating [Cash Flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md)  
 
-§   Start with Pre-tax Profits – subtract Taxes (21% of Pretax Profit) to obtain After-tax Profits  §   Operating [[Preview of the Book|Cash Flow]] equals After-tax Profits +  Depreciation  
+§   Start with Pre-tax Profits – subtract Taxes (21% of Pretax Profit) to obtain After-tax Profits  §   Operating [Cash Flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) equals After-tax Profits +  Depreciation  
 # IM&C Guano Project  
-- [[Preview of the Book|Cash Flow]] [[Week 2 Fundamentals Of Forecasting|Forecasting]]  
+- [Cash Flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) [Forecasting](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md)  
   - Working Capital  
 
 §   Increases and then decreases over project life.  Why?  •   Increase in Inventory  •   Increase in A/R  •   Increase in A/P partially offsets first two  §   Increase in working capital  $=$   increase in A/R + increase  in inventory – increase in A/P  
-- Total Project [[Preview of the Book|Cash Flow]] equals Operating [[Preview of the Book|Cash Flow]] plus  [[An Asset Allocation Primer|Investment]] in Working Capital + [[Preview of the Book|Cash Flow]] from Capital  Investments  
+- Total Project [Cash Flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) equals Operating [Cash Flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) plus  [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in Working Capital + [Cash Flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) from Capital  Investments  
 # Valuing the Project  
-- Net present value of the cash flows is the project’s value    o   [[PSET 7- Kohler|Discount rate]] is 20% per annum    o   Sum of discounted cash flows is \$3.806 mm    o   Assuming our modelling is correct IM&C should proceed  §   Used straight-line depreciation which does not  conform with tax law  
+- Net present value of the cash flows is the project’s value    o   [Discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) is 20% per annum    o   Sum of discounted cash flows is \$3.806 mm    o   Assuming our modelling is correct IM&C should proceed  §   Used straight-line depreciation which does not  conform with tax law  
 - Now add tax rules  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/593ff15684082a97b1171532c8710c40a6d3a646cc36dfc272b6b87e4e37a99f.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0303e92f912598b020d0400208f9f85075b20d9a9ec1beb6c17b80c73bd41fe7.jpg)  
-Expensing of Capital [[An Asset Allocation Primer|Investment]] and Accelerated  Depreciation  
+ ![500](Attachments/500-786.jpg)  
+ ![500](Attachments/500-791.jpg)  
+Expensing of Capital [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and Accelerated  Depreciation  
 - To properly calculate project’s NPV must use depreciation  according to tax code  
   - Expensing of capital costs increases NPV to \$4.929 mm  
 
-§   Increases Year 0 [[Preview of the Book|cash flow]] by \$15,160 – \$12640 =  \$2,520   §   Offset by decrease in ongoing discounted cashflows  due to loss of tax savings from depreciation of \$1,397  §   Net increase in NPV is \$1,123  
+§   Increases Year 0 [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) by \$15,160 – \$12640 =  \$2,520   §   Offset by decrease in ongoing discounted cashflows  due to loss of tax savings from depreciation of \$1,397  §   Net increase in NPV is \$1,123  
   - Double declining balance method provides \$212 less in  savings  
 # Choosing Among Projects  
 - Projects usually mutually exclusive  
@@ -1252,21 +1252,21 @@ Expensing of Capital [[An Asset Allocation Primer|Investment]] and Accelerated  
 
 # •   Delayed Investment  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4fac305123c913baf0b1aaa80e254be78c4f4754cbe74838d12a20784773f2eb.jpg)  
+ ![500](Attachments/500-751.jpg)  
 
 # •   Should harvest in year 4 to maximize NPV  
-  - Growth rate of [[Preview of the Book|cash flow]] falls below [[PSET 7- Kohler|discount rate]]  
+  - Growth rate of [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) falls below [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md)  
 # Short-lived Versus Long-lived Investments  
 - Choice between a long-live versus short-lived machine  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/31ef4cccde6fec19387e333ca0cbb0ecc0378e0511476729431efcbddaecafdf.jpg)  
+ ![500](Attachments/500-757.jpg)  
 - Larger NPV is bad since this is an expense – so would choose B  o   But this is incorrect since utilization periods are different  
   - Need to convert into annualize cost (rent equivalent) and  choose A  
 # Replacement of Capital  
 - Previous example looked at life of machinery as fixed  
   - Real machinery is maintained until uneconomic  §   Known as maintenance capital  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/422f325c5ef833b070f404e4abe404ac7d8fc982b737a2c4e3d80b3e90f1f8fa.jpg)  
+ ![500](Attachments/500-805.jpg)  
 
 Continue with old machine unless cost of new machine  declines or its benefits increase, or cost of maintenance of old  machine increases  
 # Excess Capacity Costs  
@@ -1275,17 +1275,17 @@ Continue with old machine unless cost of new machine  declines or its benefits i
   - Need to maintain some level of excess capacity  §   Surge demand  
   - Charged out (or not if deemed legacy cost)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/480fceb645a8286d04e0100f4fbb50514c74567721ba9f13d50da7cb9497fa12.jpg)  
+ ![500](Attachments/500-756.jpg)  
 #  
 
-[[Squam Lake Group Introduction|Introduction]] to [[Lecture 7-Risk and Return of Bonds|Risk and Return]]  Dave Schabes  
+[Introduction](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to [Risk and Return](../Advanced%20Investments/Lecture%207-Risk%20and%20Return%20of%20Bonds.md)  Dave Schabes  
 
 January 26, 2023  
 # Thinking about Risk and Value  
-- Among other things, value is determined by:  o   Time until expected [[Assets|returns]] are realized  
-  - Range of price changes over [[An Asset Allocation Primer|investment]] horizon  §   Volatility  §   [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|Liquidity]]    o   Me a sur ability of potential price changes    o   Availability of mitigants  
+- Among other things, value is determined by:  o   Time until expected [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are realized  
+  - Range of price changes over [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) horizon  §   Volatility  §   [Liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md)    o   Me a sur ability of potential price changes    o   Availability of mitigants  
 # Financial Decision Making  
-- All of these factors are inherently tied together  o   Apple Computer [[Chapter 16 - Black–Scholes Model|stock price]] – January 20,2023  
+- All of these factors are inherently tied together  o   Apple Computer [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) – January 20,2023  
 
 §   Average 81 million shares per day   §   \$137.00 per share  
   - Price of a 1957 Ferrari Testa Rossa Factory Prototype  
@@ -1293,36 +1293,36 @@ January 26, 2023
 §   Last trade at \$39.8 million in 2014  §   Prior trade \$16.39 million in 2011  §   No sales since  
 # 1957 Ferrari Testa Rossa  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/622b22d6e61bd0001be0683ba4addd8142e545d2e5a068f52fe169f7c6f93555.jpg)  
+ ![500](Attachments/500-699.jpg)  
 # Equity Returns  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4bfe7d5457fada5f6d85abde2bda3e94adc996798887e20b6f6c0294e1f49572.jpg)  
+ ![500](Attachments/500-805.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a796dbed05dc93f8c47a617ddc213f8212bc522411da42fbab858bddfa7bf11f.jpg)  
+ ![500](Attachments/500-807.jpg)  
 # Return Calculations  
 - Nominal versus Real  
-  - Nominal – without accounting for [[War Economies and Hyperinflation|inflation]]  
+  - Nominal – without accounting for [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)  
 $$
 \begin{array}{r l}{\quad}&{{}\circ\mathsf{R e a l}\ =\frac{1+r}{1+i}-1}\end{array}
 $$  
 - Risk premium – historical difference between nominal stock  market return and risk free rate  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b0ed5496c5564d9dad105c84d2cbd5009db7aeca30eb41db6af2291fb92d77c0.jpg)  
+ ![500](Attachments/500-805.jpg)  
 # Return Calculations  
-- Arithmetic [[Assets|returns]]  
-  - Simple average of annual [[Assets|returns]] – not weighted by value    o   What to expect for an “average” year based on history  
+- Arithmetic [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+  - Simple average of annual [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) – not weighted by value    o   What to expect for an “average” year based on history  
 - Average Compound Annual Return  o   Identical to geometric mean 
-- Relationship between Arithmetic and Geometric  o   Depends on distribution of [[Assets|returns]]  
-Geometric versus Arithmetic [[Assets|Returns]]  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/23fe14985824a56877242d6118a57b2e4df338480bd611c5229274e05ef1519a.jpg)  
+- Relationship between Arithmetic and Geometric  o   Depends on distribution of [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+Geometric versus Arithmetic [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+ ![500](Attachments/500-838.jpg)  
 - Second row is text example  
 
 Only when all outcomes are identical will geometric mean  equal Arithmetic  
 - Always use arithmetic mean for cost of capital calculation  
-[[Assets|Returns]] Over Time  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4e2dbd821b799dc5eae9b979b5303564e1c6365f510332fc4e92c82f38dcac69.jpg)  
+[Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) Over Time  
+ ![500](Attachments/500-805.jpg)  
 - Need to look at the effect weighted by dollars at risk 
-- Simply averaging [[Assets|returns]] gives incorrect result  o   Overstates or understates real [[Assets|returns]] on [[An Asset Allocation Primer|investment]]  
+- Simply averaging [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) gives incorrect result  o   Overstates or understates real [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) on [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 # Risk Premiums  
 - Expected market return equals risk free rate return plus  average (really expected) risk premium.  Equity market for  example:  
 
@@ -1331,21 +1331,21 @@ Only when all outcomes are identical will geometric mean  equal Arithmetic
 - Expected risk premium may be lower – two possible reasons  
 # Actual versus Expected Risk Premiums  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e142fef13aab4a5a71c203243675971e208dd806f364e5395d9f3dae9af04916.jpg)  
+ ![500](Attachments/500-774.jpg)  
 - The expectation for all the countries may have been identical  
-  - Actual results in the US may simply have been slightly  above average and investor [[FORWARD RATES AND TERM STRUCTURE|expectations]] were lower  
+  - Actual results in the US may simply have been slightly  above average and investor [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) were lower  
 # Actual versus Expected Risk Premiums  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fb349ff082d0c2d0a1d5a34678f60887f343d4027686c650bfbcb1aa6a0bc1c9.jpg)  
+ ![500](Attachments/500-798.jpg)  
 
 # •   Stock prices have grown faster than dividends and earnings  
-  - Investors view [[Hedge Fund Strategies|stock market]] as a relatively safer  
+  - Investors view [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) as a relatively safer  
 # Global Return Statistics 1900-2011 1  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/af5f0f75569d2629f05d76d786177f5685f2e30420090828ad2e378af9fe15aa.jpg)  
+ ![500](Attachments/500-779.jpg)  
 # Variance and Standard Deviation  
-- [[Assets|Returns]] for many asset classes are assumed to be  approximately normally distributed  
-  - Not accurate for many    o   Traders and investors “kludge” as needed  o   Reason:  calculations of [[Lecture 7-Risk and Return of Bonds|risk and return]] mathematically  simply with this assumption  
+- [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) for many asset classes are assumed to be  approximately normally distributed  
+  - Not accurate for many    o   Traders and investors “kludge” as needed  o   Reason:  calculations of [risk and return](../Advanced%20Investments/Lecture%207-Risk%20and%20Return%20of%20Bonds.md) mathematically  simply with this assumption  
 - Implies asset prices themselves are log normally distributed  
 # Market Variance and Standard Deviation  
 - Definitions for market return,  # % :  
@@ -1360,7 +1360,7 @@ $$
 ?\*9649#4 C&;)  $a t i o n\;o f\;\tilde{r}_{m}=\sigma_{m}=\sqrt{V a r i a n c e(\tilde{r}_{m})}$  )  
 # US Stock Market Actual Returns 1900-2016  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/787ca878385b1bb845c6b4c11478f2d05bea8c5cf8c91b177b5c1183d4b1e3a2.jpg)  
+ ![500](Attachments/500-752.jpg)  
 
 # •   Time Horizon  
   - Age 25  
@@ -1372,40 +1372,40 @@ Return Data 1900-2017  Treasury Bills  Government Bonds  Common Stocks
 
 Mean  s  s 2   3.80%  2.70%  0.081  5.30% 9.00% 0.806 11.50%  19.70%  3.887  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/be68480385e12c45859dd642fb9e8635a69bc20e2ca92862027097d37ff8f877.jpg)  
+ ![500](Attachments/500-680.jpg)  
 # Cross-country Risk and Return Measures  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/df058a9c932b94040e50f3e9474b055c1317fef104f2d8214691088c5f9a4555.jpg)  
+ ![500](Attachments/500-727.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a167d3168354cc040a6416fb552b9e94a8b8a2767bb35c1fd004c38f073cb3f5.jpg)  
+ ![500](Attachments/500-752.jpg)  
 # Modern Portfolio Theory (1952)  
 - Harry Markowitz postulated as follows, if financial assets have  the following price distribution:  
-  - [[Assets|Returns]] of financial asset i, r i , are normally distributed    o   Each r i  has a standard deviation, σ i,  which is constant and   o   A covariance, σ ij , between all other financial assets, j, also  assumed constant  
+  - [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) of financial asset i, r i , are normally distributed    o   Each r i  has a standard deviation, σ i,  which is constant and   o   A covariance, σ ij , between all other financial assets, j, also  assumed constant  
 - If above assumptions were above correct and transaction  costs were zero:  
 # Modern Portfolio Theory (1952)  
-- A [[An Asset Allocation Primer|portfolio]] of such assets has the following properties:  
-  - [[Lecture 1- Probability Distributions of Returns|Expected return]], r p,  equals the sum of the proportion of  each asset’s return     o   [[An Asset Allocation Primer|Portfolio]] variance,   ${\upsigma}_{\uprho}{}^{2}.$  , a determined by the variance of  each asset’s return and that return’s with all other assets  
+- A [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of such assets has the following properties:  
+  - [Expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md), r p,  equals the sum of the proportion of  each asset’s return     o   [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) variance,   ${\upsigma}_{\uprho}{}^{2}.$  , a determined by the variance of  each asset’s return and that return’s with all other assets  
 - If all financial assets had these properties:  
-  - One could construct a minimum variance [[An Asset Allocation Primer|portfolio]]     o   At any desired risk level  
+  - One could construct a minimum variance [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)     o   At any desired risk level  
 # Diversification and Risk Reduction  
 - Markowitz’s insights led to research demonstrating that  despite some of the assumptions being violated:  
   - Diversification substantially reduced risk without reducing  return  
   - As few as 30 securities track the overall market closely  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7bc02fbb40a47b0ef85fa315589b51bc585197ab2a8e270afa71740ea8fdaf8d.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6dadefe34ea9c854e61b362d8c288cdc5abd10e7e05d3db825e9c3c9c959a0cb.jpg)  
-Calculating the [[An Asset Allocation Primer|Portfolio]] Effect  
+ ![500](Attachments/500-716.jpg)  
+ ![500](Attachments/500-672.jpg)  
+Calculating the [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Effect  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/adaf41f0ce68ec5a83783b74136f96c67728c8e5b1cc70ea04722430c3366d25.jpg)  
+ ![500](Attachments/500-837.jpg)  
 # Calculating the Portfolio Effect  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/084d59e54c63d2d71eb53696faa51624edc7d9c73718302bc01da81e9f9cc9c8.jpg)  
-[[An Asset Allocation Primer|Portfolio]] Standard Deviation  
+ ![500](Attachments/500-829.jpg)  
+[Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Standard Deviation  
 # Calculating the Portfolio Effect  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/61f59a5c835a40482039963f26717b1a4f19fc3a348bcaa482dea3d6555672cb.jpg)  
-[[An Asset Allocation Primer|Portfolio]] Standard Deviation 40/60 AMZN/LUV Split  
-General Formula for [[2. Forwards, Swaps, Futures, and Options|Portfolio Diversification]]  •   General formula for computing variance of a [[An Asset Allocation Primer|portfolio]] is:  
+ ![500](Attachments/500-828.jpg)  
+[Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Standard Deviation 40/60 AMZN/LUV Split  
+General Formula for [Portfolio Diversification](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md)  •   General formula for computing variance of a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is:  
 $$
 \mathit{V a r i a n c e}=\sum_{i=1}^{N}\sum_{j=1}^{N}x_{i}\,x_{j}\sigma_{i j},
 $$  
@@ -1417,37 +1417,37 @@ $$
 - Investors buy index funds  
   - “Smart” beta funds  
 # Contribution of Risk  
-- The [[Chapter 5 - Index Futures|market risk]] of the securities in a [[An Asset Allocation Primer|portfolio]] determines the  degree of [[2. Forwards, Swaps, Futures, and Options|portfolio diversification]]  
-- Standard measure of [[Chapter 5 - Index Futures|market risk]],  $\beta$  , equal 1 for “market”  
+- The [market risk](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md) of the securities in a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) determines the  degree of [portfolio diversification](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md)  
+- Standard measure of [market risk](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md),  $\beta$  , equal 1 for “market”  
   - Investments with:  
 
 §      $0<\beta<1$   move same direction but less than market  §      $1<\beta$   move same direction but more than market   §    $\beta<0$   move in the opposite direction of the market  
-  - Example:  [[The Fall of Bear Stearns|JP Morgan]],  $\beta=1.14$  
+  - Example:  [JP Morgan](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/The%20Fall%20of%20Bear%20Stearns.md),  $\beta=1.14$  
 
-§   On average, expect JPM increase 11.4% if [[Hedge Fund Strategies|stock market]]  increases 10%  
+§   On average, expect JPM increase 11.4% if [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md)  increases 10%  
 # Specific Risk and Market Risk  
 - Investors are not compensated for divers if i able risks  
-- [[Chapter 5 - Index Futures|Market risk]] is non-divers if i able so is compensated  
+- [Market risk](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md) is non-divers if i able so is compensated  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c7e480b3a7f65aed412bbbeba7e9a2af2d2c7c922aa65e97a6db980f5c5bd417.jpg)  
+ ![500](Attachments/500-758.jpg)  
 # Contribution of Risk  
-- Definition of   $\beta$   of a stock or [[An Asset Allocation Primer|portfolio]]:  
+- Definition of   $\beta$   of a stock or [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md):  
 $$
 \beta=\sigma_{i m}/\sigma_{m}^{2},t h a t\;i s,
 $$  
 
 \*ℎ& 3:;9#)963& :D -\*:3. ) J)\*ℎ \*ℎ& 09#.&\*  4);)4&4 R+ \*ℎ& 09#.&\* ;9#)963&  
-- [[Chapter 5 - Index Futures|Market risk]] accounts for most of the risk of a well-diversified  [[An Asset Allocation Primer|portfolio]]  
-  - Average   $\beta$   of stocks in the [[An Asset Allocation Primer|portfolio]] determine its [[Risk Preferences|riskiness]]  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8f28119d1982178f0aedc40a55f25e7bf5c6d2469ef88fd587654bbb0bc2755d.jpg)  
-Beta and [[An Asset Allocation Primer|Portfolio]] Risk  
+- [Market risk](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md) accounts for most of the risk of a well-diversified  [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
+  - Average   $\beta$   of stocks in the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) determine its [riskiness](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Preferences.md)  
+ ![500](Attachments/500-797.jpg)  
+Beta and [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Risk  
 Example:  Beta Estimation  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8bacc721bced5dafb9040dc127c8a880522228f2eed5382b6d9dfe76941b58f2.jpg)  
+ ![500](Attachments/500-754.jpg)  
 # Value Additivity and Diversification  
 - Given the ability of investors to easily diversify:  o   Should companies diversify?  
 
 §   Increase value  §   Reduce risk  
-- If [[Week 8 Opportunities And Risks Of Investing Internationally|diversification benefits]] individual companies:  o   Simple project additivity does not work  o   Need to consider project impact  
+- If [diversification benefits](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%208/Week%208%20Opportunities%20And%20Risks%20Of%20Investing%20Internationally.md) individual companies:  o   Simple project additivity does not work  o   Need to consider project impact  
 
 §   Risk increasing  §   Risk decreasing  
 # Value Additivity and Diversification  
@@ -1456,41 +1456,41 @@ Example:  Beta Estimation
 $P V(A B)=P V(A)+P V(B),$  .6:J6 9- ;9=(& 944)\*);)\*+  
 #  
 
-[[A Brief History of Investment Thought|Portfolio Theory]] and the [[2. Forwards, Swaps, Futures, and Options|Capital Asset Pricing Model]]  (CAPM)  Dave Schabes  
+[Portfolio Theory](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2011%20-%20Individual%20Investors-A%20Survey%20of%20Modern%20Investment%20Theory/A%20Brief%20History%20of%20Investment%20Thought.md) and the [Capital Asset Pricing Model](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md)  (CAPM)  Dave Schabes  
 
 January 31, 2023  
 # Markowitz and the CAPM  
-- Markowitz provided a model for [[Lecture 7-Risk and Return of Bonds|risk and return]], if:  
-  - Assets’ [[Assets|returns]] were normally distributed    o   Variance of [[Some Stylized Empirical Facts About Asset Retur|asset returns]] were constant over time  o   There were no transaction or other trading costs  
+- Markowitz provided a model for [risk and return](../Advanced%20Investments/Lecture%207-Risk%20and%20Return%20of%20Bonds.md), if:  
+  - Assets’ [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) were normally distributed    o   Variance of [asset returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Some%20Stylized%20Empirical%20Facts%20About%20Asset%20Retur.md) were constant over time  o   There were no transaction or other trading costs  
 - Not literally true, but close for many assets  
   - Distributions generally lept okur tic & skewed    o   Costs exist, but approach zero for large investors  
 # Stock Portfolios  
 
 # •   Recall Amazon and Southwest  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ee70f334487c171bdc9c6626221c3e271bb47d62e2086a237dda848687a313c.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0c1b3aa40209e94c4f9faede711f9d6bc30504600ee3638ded2affc6a6c6e580.jpg)  
-Amazon and Southwest [[An Asset Allocation Primer|Portfolio]]  
+ ![500](Attachments/500-777.jpg)  
+ ![500](Attachments/500-815.jpg)  
+Amazon and Southwest [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 # Efficient Portfolios  
-- The two-stock [[An Asset Allocation Primer|portfolio]] above can be extended to any  number of stocks (and other financial and real assets):  
-  - As long as the [[Assets|returns]] of new assets added to the  [[An Asset Allocation Primer|portfolio]] are not perfectly correlated with existing  ones, there will be a reduction in overall risk    o   The lower the correlation  among [[An Asset Allocation Primer|portfolio]] assets the  greater the risk reduction  
+- The two-stock [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) above can be extended to any  number of stocks (and other financial and real assets):  
+  - As long as the [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) of new assets added to the  [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) are not perfectly correlated with existing  ones, there will be a reduction in overall risk    o   The lower the correlation  among [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) assets the  greater the risk reduction  
 # Efficient Portfolios  
-- Markowitz demonstrated that one can determine a minimum  variance [[An Asset Allocation Primer|portfolio]] for each return level   
-- Conversely, one can create a maximum return [[An Asset Allocation Primer|portfolio]] for  each level of risk (measured by standard deviation)  
-  - These are [[Mean-Variance Efficient Returns and Pricing Fac|Efficient Portfolios]]    o   Relies on assumptions stated above  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b790a9d1f874af74793f248d21c97d88f01fe11e8587d6af6965fe6f035e6172.jpg)  
-[[Mean-Variance Efficient Returns and Pricing Fac|Efficient Portfolios]]  
-- A, B, and C are [[Mean-Variance Efficient Returns and Pricing Fac|Efficient Portfolios]]  
+- Markowitz demonstrated that one can determine a minimum  variance [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) for each return level   
+- Conversely, one can create a maximum return [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) for  each level of risk (measured by standard deviation)  
+  - These are [Efficient Portfolios](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Mean-Variance%20Efficient%20Returns%20and%20Pricing%20Fac.md)    o   Relies on assumptions stated above  
+ ![500](Attachments/500-687.jpg)  
+[Efficient Portfolios](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Mean-Variance%20Efficient%20Returns%20and%20Pricing%20Fac.md)  
+- A, B, and C are [Efficient Portfolios](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Mean-Variance%20Efficient%20Returns%20and%20Pricing%20Fac.md)  
 - Portfolios below the red line are inefficient  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e4f22b40a862e168fa76d3878ed5f094dce47c17b57c1d5989ed1fc784770ce8.jpg)  
+ ![500](Attachments/500-787.jpg)  
 # The Capital Asset Pricing Model  
 - Sharpe, Lintner and Treynor introduced the CAPM  
-  - Realized that if all investors priced assets as Markowitz  had proposed and     o   All investors could borrow and lend at the   [[Black Scholes Derivation|risk-free rate]]:  §   The expected risk premium would be proportional to  !  
-- Not true for most individuals – good approximation for large  investors and [[Financial Intermediation as Delegated Monitoring|financial intermediaries]]  
+  - Realized that if all investors priced assets as Markowitz  had proposed and     o   All investors could borrow and lend at the   [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md):  §   The expected risk premium would be proportional to  !  
+- Not true for most individuals – good approximation for large  investors and [financial intermediaries](../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-%20Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Financial%20Intermediation%20as%20Delegated%20Monitoring.md)  
 # Borrowing and Lending at the Risk Free Rate  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9c3037af224b7b0a6072ea6dcd78bf7ff7a8d681bbde36e1f865d8244649b939.jpg)  
-Creating [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]:  Example  
+ ![500](Attachments/500-753.jpg)  
+Creating [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md):  Example  
 - Suppose:  
 $\circ\,r_{f}\:=\:2\%,r_{m}=8\%$  , )\*+,)-. -/0)12 +"-\*)0\* =  6%     o   4 #  = 12%  
   - Investor A desires an 11% return; Investor B a 5% return  §   Each has \$1,000,000 in financial assets  
@@ -1502,17 +1502,17 @@ $\circ\,r_{f}\:=\:2\%,r_{m}=8\%$  , )\*+,)-. -/0)12 +"-\*)0\* =  6%     o   4 # 
 §   8% on \$1,000,000  $+$   6% on \$500,000  §   A views this as 11% on original \$1 mm  §    $11\%=1$  .5X equity risk premium   $(2\%+6\%+3\%)$    §   A’s portfolio  $\beta$   is 1.5  
   - Investor B earns:  
 
-§    $8\%$   on \$500,000 + 2% on \$500,000  §   B views this as   $5\%$   on \$1 mm  §   5% = 0.5X equity risk premium 2% + 3% (6% on  \$500,000)  §   B’s [[An Asset Allocation Primer|portfolio]]   $\beta$   is 0.5  
+§    $8\%$   on \$500,000 + 2% on \$500,000  §   B views this as   $5\%$   on \$1 mm  §   5% = 0.5X equity risk premium 2% + 3% (6% on  \$500,000)  §   B’s [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)   $\beta$   is 0.5  
 # Archegos  
 - Works in a risk free world, but we do not live in that world   
-- [[The Economist Margin Call of the Wild|Archegos]] was a “family office” run by [[The Economist Margin Call of the Wild|Bill Hwang]]  
-  - Tiger Asia Management found guilty of insider trading in  2012.  Founded by Hwang    o   One year later establishes [[The Economist Margin Call of the Wild|Archegos]] Capital Management  
-- By 2020, 10 large banks had \$50 billion of credit exposure to  [[The Economist Margin Call of the Wild|Archegos]]  
-  - [[The Economist Margin Call of the Wild|Archegos]] assets believed to be approximately \$10 billion  
+- [Archegos](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md) was a “family office” run by [Bill Hwang](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)  
+  - Tiger Asia Management found guilty of insider trading in  2012.  Founded by Hwang    o   One year later establishes [Archegos](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md) Capital Management  
+- By 2020, 10 large banks had \$50 billion of credit exposure to  [Archegos](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)  
+  - [Archegos](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md) assets believed to be approximately \$10 billion  
 # Archegos  
 - How did banks take on so much exposure?  
-  - [[Chapter 43 - Securitisation, ABSs and CDOs|Total Return Swaps]]  
-  - Full amount [[The Economist Margin Call of the Wild|Archegos]] engaged in not revealed to banks  
+  - [Total Return Swaps](../Financial%20Engineering/Derivatives/Part%20X%20-%20Credit%20Derivatives/Chapter%2043%20-%20Securitisation,%20ABSs%20and%20CDOs.md)  
+  - Full amount [Archegos](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md) engaged in not revealed to banks  
 - Prime Brokerage  
   - Process trades    o   Lend cash and securities  
 - High fees may outweighed credit and reputation al concerns  
@@ -1520,7 +1520,7 @@ $\circ\,r_{f}\:=\:2\%,r_{m}=8\%$  , )\*+,)-. -/0)12 +"-\*)0\* =  6%     o   4 # 
 
 #  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/162aca585d9a24319bc8038d136afeefce3ac4f1cf0bc380e96371b5ac8c80ef.jpg)  
+ ![500](Attachments/500-816.jpg)  
 # Sharpe Ratio  
 - Common measure for risk/return tradeoff    o  $\begin{array}{r}{S h a r p e\;r a t i o=\frac{r-r_{f}}{\sigma}=\frac{R i s k\;P r e m i u m}{S t a n d a r d\;D e v i a t i o}}\end{array}$        o   Fraught with issues  
 - Very difficult to separate skill from luck  
@@ -1529,32 +1529,32 @@ $\circ\,r_{f}\:=\:2\%,r_{m}=8\%$  , )\*+,)-. -/0)12 +"-\*)0\* =  6%     o   4 # 
 $$
 r-r_{f}=\beta(r_{m}-r_{f})
 $$  
-- That is, there is a linear relationship between incremental  un divers if i able [[Lecture 7-Risk and Return of Bonds|risk and return]]  
-  - A number studies of stock prices have shown this to be  approximately correct but with many anomalies  o   A company’s appropriate [[PSET 7- Kohler|discount rate]] is its weighted  average cost of capital – not solely equity cost  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d57562d4a7c7285e51c0942c4971b25feda5bb77addb65ed85b143e0e3912599.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c0b3d1dfdfe368353b1532f0f1b0282d6bdd97efb44e7005fafd11d09bfd1be0.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/129cd8344323267405da17008903fb7325f1328e679aac85c561ca68edf96686.jpg)  
+- That is, there is a linear relationship between incremental  un divers if i able [risk and return](../Advanced%20Investments/Lecture%207-Risk%20and%20Return%20of%20Bonds.md)  
+  - A number studies of stock prices have shown this to be  approximately correct but with many anomalies  o   A company’s appropriate [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) is its weighted  average cost of capital – not solely equity cost  
+ ![500](Attachments/500-722.jpg)  
+ ![500](Attachments/500-798.jpg)  
+ ![500](Attachments/500-707.jpg)  
 Stock Prices and the Securities Market Line  
 - Stocks A and B are said to be overpriced or overvalued  
 - A stock above the Market Line is under priced or undervalued  
 # Expected Returns  
-- CAPM assumes that investors choose their [[An Asset Allocation Primer|portfolio]]’s risk level    o   No value to company’s diversifying to reduce risk    o   Market will not compensate investors for divers if i able risk    o   Conglomerate craze of the 1960’s  
+- CAPM assumes that investors choose their [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)’s risk level    o   No value to company’s diversifying to reduce risk    o   Market will not compensate investors for divers if i able risk    o   Conglomerate craze of the 1960’s  
 - Many of CAPM’s assumptions are violated to some degree  
 - Many studies demonstrate that CAPM does not fully describe  stock return behavior  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/78d340f201d86f724735ee0702e4f3031797c401e54920a304ecba71f62cddd0.jpg)  
+ ![500](Attachments/500-733.jpg)  
 Risk Premium by Decile  
 # Risk Premiums  
 - Actual risk premiums differ from what CAPM predicts  
   - Low risk stocks earn more than predicted    o   High risk stocks earn less than predicted  
 - Potential Issues  
-  - Market mis-defined    o   [[Swaps Types|Borrowing and lending]] restrictions  o   Equities:  positive and negative auto correlation of [[Assets|returns]]  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c7f0558b7038966fde633726b4a5b355d703822c8529b954016790b4cdc3ae94.jpg)  
-Cumulative [[Assets|Returns]]  
+  - Market mis-defined    o   [Borrowing and lending](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Swaps%20Types.md) restrictions  o   Equities:  positive and negative auto correlation of [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+ ![500](Attachments/500-823.jpg)  
+Cumulative [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
 
 #   Green line value versus growth, Red line small versus large  
 # Risk Premiums  
 - Small versus large companies – CAPM states that only  !   matters  
-  - Il [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] and idiosyncratic risks  
+  - Il [liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) and idiosyncratic risks  
 - High versus low book-to-market  
   - Value versus growth  
 - Anomalies tend to disappear once discovered  
@@ -1569,23 +1569,23 @@ $\iota=a+b_{1}(r_{f a c t o r\;1})+b_{2}(r_{f a c t o r\;2})+\cdots$
 - APT assumes:  
   - Investors consider many economic factors, potentially:  
 
-§   [[Primary vs. Secondary Commodities|Commodity prices]]  §   [[Interest Rate Quotations|Interest rates]]  §   [[Currency Swap Basics|Currency exchange]] rates  §   Among others  
+§   [Commodity prices](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Primary%20vs.%20Secondary%20Commodities.md)  §   [Interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)  §   [Currency exchange](../Clippings/Currency%20Swap%20Basics.md) rates  §   Among others  
   - Any stock has two sources of risk:  
 
 §   Economic factors  §   Specific (idiosyncratic) factors  
 # Arbitrage Pricing Theory  
-- Risk due to economic factors is non-divers if i able ([[Chapter 5 - Index Futures|market risk]])    •   Risk due to specific factors is potentially fully divers if i able    •   Leads to the following:    BC+-D1-E ").F +"-\*)0\* =  " −" !  =   @ (" ) + @ (" ) + ⋯+ @ (" )  
+- Risk due to economic factors is non-divers if i able ([market risk](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md))    •   Risk due to specific factors is potentially fully divers if i able    •   Leads to the following:    BC+-D1-E ").F +"-\*)0\* =  " −" !  =   @ (" ) + @ (" ) + ⋯+ @ (" )  
 
 6 !07/5\$ 6  −" ! 8 !07/5\$ 8  −" ! 1 !07/5\$ 1  −" !  
 # Arbitrage Pricing Theory  
-  - [[Chapter 5 - Index Futures|Diversified portfolio]] with zero sensitivity to all factors must  earn the risk free rate  
+  - [Diversified portfolio](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md) with zero sensitivity to all factors must  earn the risk free rate  
 
-§   If offered a higher return, investors would buy the  [[An Asset Allocation Primer|portfolio]] and borrow at   $r_{f}$  , earning an [[Arbitrage Pricing of Derivatives|arbitrage]] profit  §   If offered a lower return investors would sell the  [[An Asset Allocation Primer|portfolio]] and lend at  $r_{f}$  , earning an [[Arbitrage Pricing of Derivatives|arbitrage]] profit  
-  - [[Chapter 5 - Index Futures|Diversified portfolio]] with sensitivity to one factor will earn  a risk premium varying in direct proportion to its  sensitivity to that factor, e.g., [[Chapter 5 - Index Futures|market risk]]  
+§   If offered a higher return, investors would buy the  [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and borrow at   $r_{f}$  , earning an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) profit  §   If offered a lower return investors would sell the  [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and lend at  $r_{f}$  , earning an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) profit  
+  - [Diversified portfolio](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md) with sensitivity to one factor will earn  a risk premium varying in direct proportion to its  sensitivity to that factor, e.g., [market risk](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md)  
 # Comparing CAPM to APT  
 - Same result if:  
-  - Expected risk premium on each [[An Asset Allocation Primer|portfolio]] is proportional to  market   $\beta$  
-- APT does not require a market [[An Asset Allocation Primer|portfolio]] to price assets  o   Does not face same measurement problems as CAPM  o   However, must determine appropriate underlying factors  
+  - Expected risk premium on each [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is proportional to  market   $\beta$  
+- APT does not require a market [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) to price assets  o   Does not face same measurement problems as CAPM  o   However, must determine appropriate underlying factors  
 # Fama-French Three-factor Model  
 - Three-factors:  
   - Market Factor     o   Firm Size  o   Book-to-Market  
@@ -1601,22 +1601,22 @@ $\iota=a+b_{1}(r_{f a c t o r\;1})+b_{2}(r_{f a c t o r\;2})+\cdots$
 §   Size negative for some industries, e.g., Computers  §   Book-to-market negative for some industries, e.g.,  food  
 # Fama-French Three-factor Model 2  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/16cc6b65c883a4cfe5b32e800f703c8d380951033f4fac8728e71a44e090bcd3.jpg)  
+ ![500](Attachments/500-774.jpg)  
 #  
 
 Risk and the Cost of Capital  Dave Schabes  
 
 February 7, 2023  
 # Company and Projects’ Costs of Capital  
-- Company Cost of Capital (or Weighted Average Cost of Capital  – WACC) is the [[Lecture 1- Probability Distributions of Returns|expected return]] on all the company’s  outstanding [[Class Note 1- Borrower-Lender conflicts and implied agency problems|debt and equity]]  
-- Project Cost of Capital is a function of the relative [[Risk Preferences|riskiness]] of  the project  
+- Company Cost of Capital (or Weighted Average Cost of Capital  – WACC) is the [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) on all the company’s  outstanding [debt and equity](../Financial%20Markets%20and%20Institutions/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/Class%20Note%201-%20Borrower-Lender%20conflicts%20and%20implied%20agency%20problems.md)  
+- Project Cost of Capital is a function of the relative [riskiness](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Preferences.md) of  the project  
 - Market value of firm must be the sum of all its projects  
   - If a firm has two assets (projects), A and B, its value must  equal  
 $$
 m\;V a l u e=P V(A B)=\;P V(A)+P V(B)
 $$  
 # Company and Projects Costs of Capital  
-- Each asset is valued using its appropriate [[PSET 7- Kohler|discount rate]]  
+- Each asset is valued using its appropriate [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md)  
   - “Sum-of-parts” analysis for large multi-line of business  companies    o   Discount each project (or asset) at rate at which the  market would project it could be purchased independently  
 - There is no exact science to this  
   - Do not focus on getting numbers exactly right    •   Understand key risks and ability to mitigate  
@@ -1629,22 +1629,22 @@ One entry records what is taken in (revenue) or owned  (assets), known as a  deb
 
 Est.  January 1, 1500 (In Ducats)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c6e4e6ca23c991aafbee88849df27a917b11fcb9e5c4e23aaf50165731271e7d.jpg)  
+ ![500](Attachments/500-684.jpg)  
 # Venetian Corn Merchants  
 
 January 7, 1500  Buy 50 Ducats worth of corn wholesale  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/73ace3723b89d59a29694df38ef50bf3f4e2c5e2912d0bea1aba9588fb85c466.jpg)  
+ ![500](Attachments/500-662.jpg)  
 # Venetian Corn Merchants  
 
 January 9, 1500  Sell (10 Ducats cost) of Corn for 20 Ducats retail  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ccd326d5ea0deb9d8c66f5a963cbc93fe47bb62d1a5f732d7625c0998358cee2.jpg)  
+ ![500](Attachments/500-747.jpg)  
 # Balance Sheets  
   - The value of assets equals the value of liabilities  §   Equity value is the “plug”  
 - Text uses a “Market Value” Balance Sheet  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c8077b5a84f2af07e5018db8863bf278910e7fa1ef95be106db10ef4731fa988.jpg)  
+ ![500](Attachments/500-671.jpg)  
 # Balance Sheets and WACC  
 - We will discuss both accounting based measures and market  based measures later  
 - WACC for company above equals:  
@@ -1654,7 +1654,7 @@ $$
 $$
 =7.5\%\times{\frac{30}{100}}+15\%\times{\frac{70}{100}}=12.75\%
 $$  
-- Will explain why the WACC does not change regardless of  [[Introduction to Corporate Finance|capital structure]] when present [[Liquidity Preference Market Segmentation and P|Modigliani]]-Miller theorems  Weighted Average Cost of Capital and Taxes  
+- Will explain why the WACC does not change regardless of  [capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) when present [Modigliani](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Liquidity%20Preference%20Market%20Segmentation%20and%20P.md)-Miller theorems  Weighted Average Cost of Capital and Taxes  
 - WACC for company above equals:  
 $$
 C(w i t h\;t a x e s)=(1-T_{C})r_{D}\times\frac{D}{V}+r_{E}\times
@@ -1664,20 +1664,20 @@ $$
 $$  
 # Business Unit Use of WACC  
 - Example:  Chase Capital Corporation (CCC)  
-  - Equity component of CCC’s liabilities based on relative  [[Risk Preferences|riskiness]] of [[An Asset Allocation Primer|investment]]:  
+  - Equity component of CCC’s liabilities based on relative  [riskiness](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Preferences.md) of [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md):  
 
-§   Equity [[An Asset Allocation Primer|investment]] – 50%  §   Subordinated debt – 20%  §   Senior loan – 8%  
+§   Equity [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) – 50%  §   Subordinated debt – 20%  §   Senior loan – 8%  
   - Return assumptions on cost of capital components:  
 
 §   Debt:  5%  §   Equity 12%  
 # Investment Financing Costs  
-- Calculate cost of capital for each [[An Asset Allocation Primer|investment]] type:  
+- Calculate cost of capital for each [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) type:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4c90e1812ebf2d45394badb48d271bcaf11c595af238fec2108f710c45c6273b.jpg)  
+ ![500](Attachments/500-777.jpg)  
 # Investment Financing Costs  
 - Apply weighted average by product  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/04bbc01c924daaa16cad66ef8439c7dd14cc174011da610a9135a9a61ae16e9f.jpg)  
+ ![500](Attachments/500-785.jpg)  
 - “Franchise Value” versus Business Unit Value  o   Could not have raised outside money at these levels  
 # Measuring the Cost of Equity  
 - Recall CAPM:  
@@ -1686,31 +1686,31 @@ r=r_{f}+\beta(r_{m}-r_{f}),
 $$  
 
 4ℎ\*#\* # "9 5ℎ\* \*8I\*J5\*K #\*5)#L M7# ' N"O\*L 957JP  
-- To determine the [[Week 7- Cost of Capital Review, Implied Model, Private Firms|cost of equity]] we estimate a stock’s  G  
+- To determine the [cost of equity](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%207/Week%207-%20Cost%20of%20Capital%20Review,%20Implied%20Model,%20Private%20Firms.md) we estimate a stock’s  G  
 - Stock’s   $\beta$   represents the future relationship between an  individual stock’s movement and the overall market  
   - Analysts rely on historical return relationships  
 
 §   Values for   $\beta$   change over time  §    $R^{2}$   demonstrates there are many other factors  •   Much of the risk is divers if i able  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e58b02b8978866b3d5aa83ebf87278368304703c140facc1d1c09c1b9094e370.jpg)  
+ ![500](Attachments/500-709.jpg)  
 # Divers if i able Risk  
 - US Steel  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/806b6b781b6f1a4e52b9e9897b9f41c1f3faf3aa7a2950b096f938c8323b8ea0.jpg)  
+ ![500](Attachments/500-747.jpg)  
 
-The lower the   $R^{2}$   of   $\beta$   the greater the variance of  divers if i able [[Assets|returns]] – adding X to a [[An Asset Allocation Primer|portfolio]] in the 2013- 2017 period would have had relatively more [[Chapter 5 - Index Futures|market risk]]  variance than in the 2008-2012 period  
+The lower the   $R^{2}$   of   $\beta$   the greater the variance of  divers if i able [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) – adding X to a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in the 2013- 2017 period would have had relatively more [market risk](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md)  variance than in the 2008-2012 period  
 - Standard Error of  G  –  2 S.E. is 95% confidence interval  
 # CSX Example  
 
 # •   Estimate weighted average cost of capital for CSX, 1/2018  
 - Industry and competitor  G′9  – use industry  G 3  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f991e0a0be4846af2364973f3e5a96fa9eab56a4bbe95ae9b62941c3642b1bc9.jpg)  
+ ![500](Attachments/500-710.jpg)  
 # CSX Example  
 - Text notes CAPM is short-term, so   $r_{f}$   should represent shortterm rate  
-  - Use [[The Gauss Model|short-term interest rate]] or long-term rate less term  risk premium  §   Text chooses latter, using the long-term bond rate  minus the risk premium  
+  - Use [short-term interest rate](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Gauss%20Model.md) or long-term rate less term  risk premium  §   Text chooses latter, using the long-term bond rate  minus the risk premium  
 
 3.0% −1.5% = 1.5%, O\*#9)9 1.6% )9"LN 3 \$7L5ℎ T"((  
-- Add equity [[Chapter 5 - Index Futures|market risk]] premium of 7.0% and obtain  3795 7M \*U)"5V =  1.5% + 1.25 × 7.0% = 10.3%  
+- Add equity [market risk](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md) premium of 7.0% and obtain  3795 7M \*U)"5V =  1.5% + 1.25 × 7.0% = 10.3%  
 # CSX WACC Calculation and Asset Beta  
 - Given the following:  
   - CSX’s cost of debt is given as 4.0% and tax rate 21%  o   CSX’s debt to market value ratio is 19.2%  
@@ -1721,12 +1721,12 @@ $\begin{array}{r}{=(1-T_{C})r_{D}(D/V)+r_{E}(E/}\\ {=(1-.21)\times4.0\%\times.19
 
 #  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/242842a1db0e3a4c76c18fcb5b6a0617c3f54aba67e7d83ae415b5d29f1d13f5.jpg)  
+ ![500](Attachments/500-717.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3902e32560d5d4c04dad470c6d4e435d3741920615b96794f8df46c423fddf1d.jpg)  
+ ![500](Attachments/500-659.jpg)  
 # CSX Debt to Market Value Ratio  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2062a854d4abc2ef224ff09248987896638fcefba07f87132a2df08d5a16b5d6.jpg)  
+ ![500](Attachments/500-657.jpg)  
 # CSX Debt to Market Value Ratio  
 - To calculate debt to market value ratio need a definition of  debt  
   - Authors used Long-term debt plus Current Liabilities  
@@ -1737,7 +1737,7 @@ $\begin{array}{r}{=(1-T_{C})r_{D}(D/V)+r_{E}(E/}\\ {=(1-.21)\times4.0\%\times.19
 # CSX WACC Calculation and Asset Beta  
 - Projects are considered in terms of their own risk,  independent of how they are financed  
   - Example of the “separation principle”  
-  - Known as the asset beta – since represents the [[Risk Preferences|riskiness]]  of the corporate assets versus the market  o   Debt beta may be difficult to calculate, assumed .15  
+  - Known as the asset beta – since represents the [riskiness](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Preferences.md)  of the corporate assets versus the market  o   Debt beta may be difficult to calculate, assumed .15  
 - Calculate asset beta,  $\beta_{A}$  , as follows:  G '  = (</&) = .15 × .192 + 1.25 × .808 = 1.04  
 # Analyzing Project Risk  
 - Understand the business model – What is the project’s  purpose?  
@@ -1745,20 +1745,20 @@ $\begin{array}{r}{=(1-T_{C})r_{D}(D/V)+r_{E}(E/}\\ {=(1-.21)\times4.0\%\times.19
 
 §   Comparable s  •   Internal projects  •   Stand-alone businesses  
   - Divers if i able versus non divers if i able risks  
-  - Don’t use fudge factors  §   Adjust cash-flows  §   Conduct break-even, sensitivity and [[Week 4 Valuing Young and High‐Growth Companies|scenario analysis]]  
+  - Don’t use fudge factors  §   Adjust cash-flows  §   Conduct break-even, sensitivity and [scenario analysis](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%204%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%204%20Valuing%20Young%20and%20High‐Growth%20Companies.md)  
 # Asset Betas  
 
 # •   Cyclical it y  
   - Firm earnings versus market earnings – earnings or cash  flow beta  
 
-§   Gold mining – high volatility, low beta  o   High cyclical it y implies high beta – tied to [[Business Cycles- Introduction, Characteristics, and History|business cycle]]  
+§   Gold mining – high volatility, low beta  o   High cyclical it y implies high beta – tied to [business cycle](../International%20Finance/Economic%20Stabilization%20Notes/Business%20Cycles-%20Introduction,%20Characteristics,%20and%20History.md)  
 
 §   Airlines, resorts  §   Construction  
   - Low cyclical it y – people buy in good times and bad  
 
 §   Food  §   Tobacco and alcohol  
 # Asset Betas and Operating Leverage  
-- [[Week 3 Cyclical Industries (and Advanced Forecasting)|High fixed costs]] relative to others – high asset beta  
+- [High fixed costs](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%203/Week%203%20Cyclical%20Industries%20(and%20Advanced%20Forecasting).md) relative to others – high asset beta  
   - Steel  
   - Automotive  
 
@@ -1795,7 +1795,7 @@ $$
 /(4-\* \$%(2\*3\*45\*) −\$%(382(89:\* -./0) = \$%(8//\*0) + \$%('()\*+ -./0)  
 # Asset Betas  
 - Other issues  
-  - Incorrect [[PSET 7- Kohler|discount rate]]  §   Project [[Key Rates O1s Durations and Hedging|duration]]  
+  - Incorrect [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md)  §   Project [duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)  
   - Execution  §   Experience  §   Competence  
 - Divers if i able risks do not change the cost of capital  
 # Allowing for Poor Outcomes  
@@ -1804,20 +1804,20 @@ $$
   - Major cost overruns (1.5X or more)  
   - Failure to complete the project on time (or at all)  
 - Text Example:  
-  - Project Z forecast to create \$1 mm of [[Preview of the Book|cash flow]] in one  year and [[PSET 7- Kohler|discount rate]] is 10%  
+  - Project Z forecast to create \$1 mm of [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) in one  year and [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) is 10%  
 # Allowing for Poor Outcomes  
 - Project Z PV equals:    $\begin{array}{r}{P V_{z}=\frac{\S1,000,000}{1+0.1}=\S909{,}101}\end{array}$  
 - Risk technology will not work, making the project worthless  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3bafc2c84e1dc1d8699af3c8dd88da20334c86adc006dff7225705221f4b8c3a.jpg)  
-- With technological uncertainty you do not alter [[PSET 7- Kohler|discount rate]]  but add additional possibility,  
+ ![500](Attachments/500-749.jpg)  
+- With technological uncertainty you do not alter [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md)  but add additional possibility,  
 
 PV equals:    $\begin{array}{r}{P V_{z}=\frac{\S900,000}{1+0.1}=\S818{,}000}\end{array}$  
 # Correcting Forecasts  
 
 # •   CFO in text example should be fired  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/be6da07c68d82289b199dc1510111a176090e4d81bf5634fb4c991f566b462ec.jpg)  
+ ![500](Attachments/500-797.jpg)  
 #  
 
 Project Analysis  Dave Schabes  
@@ -1843,26 +1843,26 @@ February 9, 2023
 - Text Example: Otobai Company electric scooter  
   - Given assumptions:  
 
-§   20% cost of capital  §   Initial [[An Asset Allocation Primer|investment]]:  ¥15 billion; salvage value ¥0  §   Sales increase through year 6 then decline – increase  in working capital followed by decrease  §   COGS:  50% of sales  §   Taxes:  40% taxable income (straight-line depreciation)  
+§   20% cost of capital  §   Initial [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md):  ¥15 billion; salvage value ¥0  §   Sales increase through year 6 then decline – increase  in working capital followed by decrease  §   COGS:  50% of sales  §   Taxes:  40% taxable income (straight-line depreciation)  
 # Assumptions  
 - Numerous implicit assumptions  
-  - No legal or regulatory issues (intellectual property)    o   Minimal liability issues  o   Additional [[An Asset Allocation Primer|investment]] requirements (charging stations)  o   Competitive threats  §   Margin compression – mitigate through supplier prices  §   Rate of unit or price declines  o   Market acceptance  
+  - No legal or regulatory issues (intellectual property)    o   Minimal liability issues  o   Additional [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) requirements (charging stations)  o   Competitive threats  §   Margin compression – mitigate through supplier prices  §   Rate of unit or price declines  o   Market acceptance  
 # Sensitivity Analysis  
 - Only certainty:  initial forecast will be wrong    o   Knightian Uncertainty    o   Analyze other potential outcomes; create action plans   
 - Sensitivity to changes in key variables  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/38aaa54c5bc032ed45916c7891fc7560a81f757da0b91a27cf53a6a95a46e3d7.jpg)  
+ ![500](Attachments/500-827.jpg)  
 
 # •   Inputs in  Blue , calculated in Black  
 # Optimistic and Pessimistic Forecasts  
 - Need to differentiate from “best” or “worst” case  o People underestimate extremes  
   - Use prior real world scenarios  o   World finds new ways to confuse you  
-- Misses in volumes and [[Arbitrage Pricing of Derivatives|pricing]] become largest issues  
-- Understand volatility versus [[The Economist Regime Change|regime change]]  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/781bfc9b448c87fef85c9359853d14644d8dd89aa713264d21ef45f2de2bd766.jpg)  
+- Misses in volumes and [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) become largest issues  
+- Understand volatility versus [regime change](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md)  
+ ![500](Attachments/500-783.jpg)  
 - Biggest risks:  Unit sales and COGS  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/06042acf94134b61301d2f1f6e8ad02776c7e6990ec103dc24aaf1fc93b22f4f.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b3d48e374a6a17a2339b0bbda3a25e44bb2494130d2f379ee9fc720e4abd8ceb.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cc85c6f318cff6e1b9a641fc4fb228bf970de9cc6a7757593295376488c73ff7.jpg)  
+ ![500](Attachments/500-784.jpg)  
+ ![500](Attachments/500-822.jpg)  
+ ![500](Attachments/500-711.jpg)  
 # Changing Multiple Variables (Scenarios)  
 - Need to determine reasonable number of scenarios  
   - Base on experience in own country and others    o   Consider “worst” case  
@@ -1876,17 +1876,17 @@ February 9, 2023
 - On an annual Accounting basis  
   - Need to alter the variable of interest each year to achieve  zero pretax profit    o   Goal Seek works, but one year at a time  
 NPV Breakeven Changes 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e1bd6aff3db778f8d874605ad79c124ed9399ee93c32fb2a20738cfde3165001.jpg)  
+ ![500](Attachments/500-719.jpg)  
 - Combined with prior product experience  
-  - Provides sense of [[Risk Preferences|riskiness]] of project turning NPV negative    o   Shows which categories have narrow window for error  
+  - Provides sense of [riskiness](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Preferences.md) of project turning NPV negative    o   Shows which categories have narrow window for error  
 # Operating Leverage and Break-even  
-- The Degree of [[Week 3 Cyclical Industries (and Advanced Forecasting)|Operating Leverage]] (DOL) is defined as:  
+- The Degree of [Operating Leverage](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%203/Week%203%20Cyclical%20Industries%20(and%20Advanced%20Forecasting).md) (DOL) is defined as:  
 
 &'()'\*+,-' )ℎ,\*-' /\* &(01/+2 !"# =      &'()'\*+,-' )ℎ,\*-' /\* 3,4'2  
   - Defined in terms of accounting numbers  o   We need to understand cashflow impact  
 
 !"# = 1 +  7/8'9 :02+2 (+ !'<(')/,+/0\*) 1   &(01/+2  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/428ffe250ba69e04d9d0d08afe108d1515ab832f5d604d4ce70dfab4fa3467d6.jpg)  
+ ![500](Attachments/500-737.jpg)  
 
 = 1 +  4530 + 1500 !"# !"##\$%&'%(&) = 4.5%,   1720  
 
@@ -1896,16 +1896,16 @@ NPV Breakeven Changes
   - New retail bank product  
   - Not useful for assessing new businesses  
 - Issues with assuming a normal distribution  
-  - 2008 [[Squam Lake Group Letter|Financial Crisis]]  
+  - 2008 [Financial Crisis](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Letter.md)  
 
-§   Simulations by  largest banks missed by a large amount  §   Assumed a normal distribution of [[Assets|returns]] with little or  no correlation among assets  
+§   Simulations by  largest banks missed by a large amount  §   Assumed a normal distribution of [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) with little or  no correlation among assets  
 # Monte Carlo Simulations  
 - Advantage:  considers all possible combinations   
 - Disadvantages:  limited by data and distribution al assumptions   
 - Steps:  
   - Project Modeling     o   Specifying Probabilities  o   Simulate Cash Flows  o   Calculate Present Value  
 # Project Modeling  
-- Ultimately want to get to [[Preview of the Book|cash flow]]  o   Consider whether can reasonably estimate probabilities  §   If not, consider alternative methods  o   Are co variances understood?  
+- Ultimately want to get to [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md)  o   Consider whether can reasonably estimate probabilities  §   If not, consider alternative methods  o   Are co variances understood?  
 
 §   Relationship between increased sales and price  §   Are relationships stable?  
 - Forecast expected sales and error annually for year 1  
@@ -1923,7 +1923,7 @@ Q/+ℎ 2,4'2 '8<')+'9 +0 R' H\*)ℎ,\*-'9   $f o r\,y e a r\,2.$  ,    3,4'2\*%(
 - Calculate expected NPV and NPV at different probability  percentages  
 # Sample Distribution  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/335902d30b0ef4666448c14521c3fcdafcab4b68e878ba7eb4034ccb60e555ea.jpg)  
+ ![500](Attachments/500-692.jpg)  
 Outcomes based on 400 Samples Generated by Rand()  
 # Scooter Project Step 1  
 
@@ -1931,34 +1931,34 @@ Scooter Project Revenue Normal Distribution Year 1
 
 Change           Percent  Cumulative  Probability  Revenue  (Y mm)  Change  Change  (one sided)  8133  461.3  5.7%   $20\%$    2.5%  7671  299.2  3.9%   $13\%$    10.0%  7372  215.7  2.9%  8%  20.0%  7157  184.3  2.6%  5%  30.0%  6972  172.3  2.5%  3%  40.0%  6800  0%  50.0%      6628  -172.3  -2.6%  -3%  40.0%  6443  -184.3  -2.9%  -5%  30.0%  6228  -215.7  -3.5%  -8%  20.0%  5929  -299.2  -5.0%  -13%  10.0%  5467  -461.3  -8.4%  -20%  2.5%  StdDev  10%  
 # Uses for Monte Carlo Simulations  
-- [[Lecture 7-Risk and Return of Bonds|Risk and return]] estimates for new products  
+- [Risk and return](../Advanced%20Investments/Lecture%207-Risk%20and%20Return%20of%20Bonds.md) estimates for new products  
   - Automotive    o   Consumer Products  
 - Plant capacities  
 - Financial and real option evaluation  
-  - [[Key Rates O1s Durations and Hedging|Hedging]] strategies    o   Next steps regarding an existing project  
+  - [Hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) strategies    o   Next steps regarding an existing project  
 # Real Options and Decision Trees  
 - Financial Options  
   - Puts and Calls  
-  - Actively traded on stocks, currencies, [[Futures Not Subject to Cash-And-Carry|commodities]] and  [[Interest Rate Quotations|interest rates]] (bonds)  
+  - Actively traded on stocks, currencies, [commodities](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) and  [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) (bonds)  
 - Real Options  
   - Ability to modify, delay, abandon or expand a project    o   Companies invest and find situation has changed  
 # Real Options and Decision Trees  
 - Financial Options are the right, but not the obligation, to buy  (Call) or sell (Put) a financial asset at a fixed price  
 - Investments in projects or companies may also be viewed as  options.  These are known as Real Options.  
 - UPS/Boeing  
-  - In late 2016, UPS and Boeing announced purchase of 14  Boeing 747-8 Freighters and the right to buy 14 additional  §   [[Arbitrage Pricing of Derivatives|Pricing]] undisclosed  §   Most customers pay far below “list”  §   Options may or may not have been priced separately  
+  - In late 2016, UPS and Boeing announced purchase of 14  Boeing 747-8 Freighters and the right to buy 14 additional  §   [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) undisclosed  §   Most customers pay far below “list”  §   Options may or may not have been priced separately  
 # UPS/Boeing Option – UPS Viewpoint  
 - Decision Tree  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5a872a00fe33001bc15a6db03b14f1f244d6966031033129e05cc74e6d3524a3.jpg)  
+ ![500](Attachments/500-771.jpg)  
 # Silver Mine (Question 24)  
 - Silver mine produces 10,000 oz of silver per year  
   - Variable Cost: \$32/oz    o   Annual Fixed Costs:  \$40,000 per annum  
 - In half the years, silver sells for \$48/oz; in other half \$24/oz  
-- What is the average [[Preview of the Book|cash flow]] if the mine is always in  production?  
-- What is the average [[Preview of the Book|cash flow]] if the mine can be costlessly  shutdown in years of low prices?  
+- What is the average [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) if the mine is always in  production?  
+- What is the average [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) if the mine can be costlessly  shutdown in years of low prices?  
 Silver Mine (Question 24)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/29d56077174bcd7ef188b8048072d5b69a136437b72b8179c3f41f6112f61f56.jpg)  
+ ![500](Attachments/500-788.jpg)  
 # Pharmaceutical R&D  
 - Product Development Phases  
   - Clinical Trials  
@@ -1969,13 +1969,13 @@ Silver Mine (Question 24)
 
 #   Decision to continue depends on probabilities and value of  outcomes at each stage  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/87a0a2f6221137e1089a7ee17c9ddd2e8c52d96b2391f21ea86d20a204e37c75.jpg)  
+ ![500](Attachments/500-758.jpg)  
 # Valuation of Outcomes  
-- \$18 mm incremental [[An Asset Allocation Primer|investment]] for Phase II  o   44% chance of success; 56% failure NPV = 0 
+- \$18 mm incremental [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) for Phase II  o   44% chance of success; 56% failure NPV = 0 
 - Need to determine NPV if Phase II successful  o   Commercial success dependent on FDA’s allowed scope  
 
 §    $\mathsf{N P V}=\mathsf{S700}$   mm if widely used; 25% probability   $\mathsf{\bullet}\ \mathsf{N P V}=\mathsf{S300}$   mm in most likely case; 50% probability  §  $\mathsf{I N P V}=\mathsf{S}\boldsymbol{100}$   mm if use restricted; 25% probability  
-- Phase III and prelaunch require \$130 mm incremental  [[An Asset Allocation Primer|investment]]  
+- Phase III and prelaunch require \$130 mm incremental  [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 # Valuation of Outcomes  
 - Work backwards through decision tree  
   - Assumptions:  
@@ -2002,13 +2002,13 @@ February 14, 2023
 # Capital Budgets  
 - Recall, capital budgets are set in the context of a company’s    o   Strategy and goals    o   Strengths and weaknesses  
 - Often difficult to think “one-level up” in organization  
-- Forecast [[Week 2 Fundamentals Of Forecasting|biases]]  
-  - Managers tend to be optimistic:   §   Overestimate [[Assets|returns]], underestimate risk  
+- Forecast [biases](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md)  
+  - Managers tend to be optimistic:   §   Overestimate [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md), underestimate risk  
 # Capital Budgets  
 - Much of capital budget dedicated to maintenance   o   Limited resources for discretionary projects 
-- Top management may carry [[Week 2 Fundamentals Of Forecasting|biases]] too  
+- Top management may carry [biases](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) too  
   - Supporting businesses they understand; viewing other  businesses as riskier  
-- Question [[Preview of the Book|cash flow]] components:  revenues, expenses, capital  investments  
+- Question [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) components:  revenues, expenses, capital  investments  
 - Audit projects and businesses regularly, e.g., quarterly  
 # Market Values and Planning  
 - Use market values where available  
@@ -2018,8 +2018,8 @@ February 14, 2023
 
 §   Location  §   Reproduction difficulty  
 # Department Store Assumptions  
-- \$100 mm [[An Asset Allocation Primer|investment]]; 10% [[PSET 7- Kohler|discount rate]]  
-- \$8 mm [[Preview of the Book|cash flow]] annually for 10 years  
+- \$100 mm [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md); 10% [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md)  
+- \$8 mm [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) annually for 10 years  
 - Real estate prices expected to increase 3% per annum  
 # Business Analysis  
 - PV contribution of Business and Real Estate separately  
@@ -2030,10 +2030,10 @@ February 14, 2023
   - Look for lowest annual cost  §   Considering location which drives desired sales  
   - Some have real estate subsidiary which manages owned  properties  
 - Assume you could rent out the building in perpetuity and  rents grow at the same rate as real estate values, then:   $P V={\frac{\S7\ m m}{.\,10-.3}}=\S100\ m m$  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ee51a5088b325c68112b6c5b3e2c3eb6996153ecc17833ae50b073373a85a3ad.jpg)  
+ ![500](Attachments/500-754.jpg)  
 Rental Charge Versus Business Income  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a588410450f7e9fef8500dbdccff61e95d5ae1b4df305d5ad0cea4fcd5a92439.jpg)  
+ ![500](Attachments/500-723.jpg)  
 # Gold Mine  
 - Assumptions:  
   - \$500 mm to develop  
@@ -2046,19 +2046,19 @@ Rental Charge Versus Business Income
 # •   Solomon (owner) believes gold prices will rise 5%/annum  
   - Solomon is ignoring the market price  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/195495e83a7385a4792b33b25c36cda42efe29d39ec8cc2518e29a7c8a4ca9df.jpg)  
+ ![500](Attachments/500-769.jpg)  
      Source:  CME website, accessed February 11, 2023.  www.CMEgroup.com  
 # Gold Mine—Financial Analysis  
 - Today’s price should be slightly below future expected prices  due to:  
-  - Opportunity cost ([[Interest Rate Quotations|interest rates]])  
-  - [[Primary vs. Secondary Commodities|Storage costs]]  
-- Solomon’s initial analysis is incorrect – [[Futures Not Subject to Cash-And-Carry|futures]] or forward  market are better indicators  
+  - Opportunity cost ([interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md))  
+  - [Storage costs](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Primary%20vs.%20Secondary%20Commodities.md)  
+- Solomon’s initial analysis is incorrect – [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) or forward  market are better indicators  
 $$
 N P V=-500+\sum_{t=1}^{10}\cdot\frac{1(P_{t}-C_{t})}{(1+.1)^{t}}=-\S35
 $$  
 # Gold Mine—Financial Analysis  
 - The market says that the price of gold does not need to be  discounted    
-- It is likely that Solomon could use [[Futures Not Subject to Cash-And-Carry|futures]] or forward contracts  to hedge the production of the first few years of gold  
+- It is likely that Solomon could use [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) or forward contracts  to hedge the production of the first few years of gold  
   - Text effectively assumes this price is today’s price  
 
 +, !"# = −500 + 1500 −;  . 1I1,150 = \$293 66   (1 + .1) \* \*-+  
@@ -2071,7 +2071,7 @@ $$
 - There are real costs:  warehouse space, insurance, assaying  costs – but these are small – covered by convenience yield  
 # Economic Rents and Comparative Advantage  
 - Economists assume perfectly competitive markets  
-- [[Week 6 Bank Analysis and Valuation|Competitive Advantage]], e.g., differentiated products and  other factors allow creation of economic rents  
+- [Competitive Advantage](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%206/Week%206%20Bank%20Analysis%20and%20Valuation.md), e.g., differentiated products and  other factors allow creation of economic rents  
   - May be short- or long-term  
 
 §   Economies of scale  §   Government protections  §   Brands  
@@ -2080,18 +2080,18 @@ $$
 # Polyzone  
 - A US company is considering modifying an existing plant to  produce Polyzone  
   - Polyzone would prove very profitable at current prices  due to a global shortage  
-  - The company has no long-run technological or other  [[Week 6 Bank Analysis and Valuation|competitive advantage]]  
+  - The company has no long-run technological or other  [competitive advantage](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%206/Week%206%20Bank%20Analysis%20and%20Valuation.md)  
   - Assumptions:  
 
-§   [[An Asset Allocation Primer|Investment]] \$100 mm   §   WACC 8%  §   Sales price \$1.20/lb  
+§   [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) \$100 mm   §   WACC 8%  §   Sales price \$1.20/lb  
 Polyzone Production  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/64992f539a4d9df5fa1b0ff2bced1f6d9d32d41939f309dbf69dae5464ed8a74.jpg)  
+ ![500](Attachments/500-824.jpg)  
 - Initial analysis shows \$64 mm NPV – several potential issues  discussed  
 Polyzone Production  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fb7192be4e9a3620e9cc33002c85a8ddbbb2db62536ea7809dab81fbe12c83ab.jpg)  
-- Company looks at NPV breakeven [[Arbitrage Pricing of Derivatives|pricing]] for a European  competitor – Polyzone’s inputs largely sourced from Europe  and many of the products users are there as well  
+ ![500](Attachments/500-693.jpg)  
+- Company looks at NPV breakeven [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) for a European  competitor – Polyzone’s inputs largely sourced from Europe  and many of the products users are there as well  
 Polyzone Production  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6732a14ae2efe8ef8d29c1dd3e47ce4c026ec733864ff8ff4afc27a8c6e226ea.jpg)  
+ ![500](Attachments/500-729.jpg)  
 - Company settles on the scenario above – concludes project  not NPV positive unless competitors very slow to enter  
 # Marvin Enterprises  
 - Examining new technology to build a hot product  
@@ -2100,8 +2100,8 @@ Polyzone Production
 §   Industry-wide annual sales: \$1.68 bn; 240 mm units  §   Marvin has 10% market share  
   - Marvin had a technology edge going into 2037  
 
-§   Enabled price cut from \$9 to \$7 per unit  §   Competitors adopted Marvin’s technology, fueling  market growth  §   Marvin earning 20% rate of [[Realized Returns|return on capital]] using new  technology  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c254abef888214c005fb48fbff765702307c464ebd836ddea876beee4b7c2548.jpg)  
+§   Enabled price cut from \$9 to \$7 per unit  §   Competitors adopted Marvin’s technology, fueling  market growth  §   Marvin earning 20% rate of [return on capital](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) using new  technology  
+ ![500](Attachments/500-678.jpg)  
 Gargle Blasters Demand Curve  
 - Each \$1 of price reduction is expected to increase demand by  80 million units  
 # Industry Cost Size and Cost Structure  
@@ -2112,7 +2112,7 @@ Gargle Blasters Demand Curve
 
 §   What is the impact on Marvin?  §   On the industry?  
 # Marvin Assumptions  
-- [[An Asset Allocation Primer|Investment]]: \$1 billion  
+- [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md): \$1 billion  
   - Add annual capacity of 100 mm units within 12 months  
 
 §   Manufacturing cost \$3.00 per unit  §   Production facilities indefinite life  •   Implies economically-driven decision  
@@ -2120,7 +2120,7 @@ Gargle Blasters Demand Curve
 - Cost of capital:  20%; no corporate income taxes  
 - Demand Curve not expected to change  
 Gargle Blaster Prices and Market Impact  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d618e93ac43d1017f34da3bc14aadff690e266e6521804b571627fdf6fe10c63.jpg)  
+ ![500](Attachments/500-712.jpg)  
 - Competitive industries drive profits toward zero 
 - Demand curve implies price of:  340 66 = 80 × (10 −"J>LA), "J>LA = \$5.75  
 
@@ -2149,9 +2149,9 @@ $N P V=0=-10+(X-3.00)/.20,X=$   $X=\S5$   $D e m a n d=80\times(10-5)=400\;m$  M
 - At \$5.00 per unit, all 2029 technology will be forced out of the  market – 2037 technology will still be NPV positive  
 - Value to Marvin  
   - Unit prices expected to drop to \$6 then, five years later to  \$5 per unit; unit costs remain \$3 throughout  
-  - Annual net [[Preview of the Book|cash flow]] for 100 mm units:  
+  - Annual net [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) for 100 mm units:  
 $\begin{array}{l}{\displaystyle a r v i n=-1000+\sum_{t=1}^{5}\frac{300}{(1.20)^{t}}+\frac{1}{(1.20)^{5}}\Big(}\\ {\displaystyle\quad-1000+897+402=\S299\:m m.}\end{array}$  200 . 2  / = XO6FB? 70% FS ?ℎA VCODA LF6AB >G S>JB? 5 QACJB.   Market Implications and Value of Marvin’s Expansion  
-- Consider all incremental [[Preview of the Book|cash flow]] changes due to decision  
+- Consider all incremental [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) changes due to decision  
   - Marvin’s decision to introduce third generation technology  in 2043 immediately reduces the market price of Gargle  Blasters to \$6  
 
 §   If Marvin held off five years, the current equipment  would retain its value  
@@ -2159,7 +2159,7 @@ $\begin{array}{l}{\displaystyle a r v i n=-1000+\sum_{t=1}^{5}\frac{300}{(1.20)^
 # Alternative Expansion Plans  
 - Marvin may choose a plant with greater or lesser capacity  
 - How do we determine Marvin’s optimal choice?    o   Estimate impact of additional capacity on prices    o   Calculate NPV of new plant  o   Calculate NPV existing plant (will be zero or negative)    o   Sum these  NPVs  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/97a5ae344bd62a2b3aa7257167823f5514ceff5a05289cfcc3f14c094bb1b0bc.jpg)  
+ ![500](Attachments/500-824.jpg)  
 # Alternative Expansion Plans  
 - Why does NPV drop at new production above 200 mm?  o   Market size increases; price decreases  
 
@@ -2170,8 +2170,8 @@ $\begin{array}{l}{\displaystyle a r v i n=-1000+\sum_{t=1}^{5}\frac{300}{(1.20)^
 
 §   Marvin drives out all first generation competitors and  maintains a price at just under \$6.00  
 Impact of Alternative Production Decisions    
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/487e9c3e835cbc021bdaf5e15a82137bcad271c7b4cb8c516c8b15b135a66fb7.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ddf053d1b377a600e4b0333e79b87c65e66d5f065d81e1b1a260cfe33b8859a6.jpg)  
+ ![500](Attachments/500-695.jpg)  
+ ![500](Attachments/500-778.jpg)  
 Gargle Blasters Demand Curve  
 # Value of Marvin’s Stock  
 - Marvin current value  
@@ -2185,7 +2185,7 @@ Gargle Blasters Demand Curve
 $\begin{array}{c}{{P V_{E x i s t i n g P l a n t100m m3r d G e n}=}}\\ {{m\times\left[\displaystyle\sum_{t=1}^{5}\frac{6.00-3.50}{(1.20)^{t}}+\frac{5.00-3.50}{.20\times(1.20)^{5}}\right]:}}\\ {{\upsilon t a l\;V a l u e\;=\S252\;m m+\S299\;m m=S}}\end{array}$  ] = \$252 66  
 - Investors had bid stock up to \$460 mm anticipating action by  Marvin  
 # Cautionary Tales  
-- [[BMW Valuation|Automotive Industry]]  o   Monopolistic Competition  
+- [Automotive Industry](../Advanced%20Financial%20Analysis%20and%20Valuation/BMW%20Valuation.md)  o   Monopolistic Competition  
 
 §   Differentiated Product  §   Differing Cost Structures  §   Internal Economies of Scale  
 - Airlines  
@@ -2193,7 +2193,7 @@ $\begin{array}{c}{{P V_{E x i s t i n g P l a n t100m m3r d G e n}=}}\\ {{m\time
 - What’s next?  
 #  
 
-[[Overview of Financial Markets|Overview]] of Corporate Financing  Dave Schabes  
+[Overview](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md) of Corporate Financing  Dave Schabes  
 
 February 16, 2023  
 # Different Investor Constituencies  
@@ -2204,7 +2204,7 @@ February 16, 2023
 §   Risk/return tradeoff differs for debt holders versus  shareholders  §   May differ between different classes of debt holders  
   - Management and Board emphasis regarding different  investor classes says a great deal about company  
 
-§   Emphasizing ensuring debt holders are secure versus  maximizing [[Chapter 16 - Black–Scholes Model|stock price]] today  
+§   Emphasizing ensuring debt holders are secure versus  maximizing [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) today  
 # Sources of Funds  
 - Three broad categories:  o   Internally generated  
 
@@ -2214,9 +2214,9 @@ February 16, 2023
 # Sources of Funds  
 - Key decisions:    o   Ratio of funds used in business versus returned to  shareholders    o   Ratio of Debt to Equity   
 - In recent years, Equity issuance is negative   
-- Debt issuance growing since [[Squam Lake Group Letter|Financial Crisis]]   
-- Less [[An Asset Allocation Primer|investment]] in business  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7fc767bf3b8fbc1cdbed4823e236aa749cffb50aadb12cb437f76db1ed10840b.jpg)  
+- Debt issuance growing since [Financial Crisis](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Letter.md)   
+- Less [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in business  
+ ![500](Attachments/500-780.jpg)  
 Sources of Funds:  US Non financial Corporations  
 
 Net equity issuance has been negative for more than two  decades due principally to corporate stock repurchase s  Sources of Funds:  US Non financial Corporations  
@@ -2232,26 +2232,26 @@ Net equity issuance has been negative for more than two  decades due principally
 - Some argue large corporations do not return enough to  shareholders  
   - Changed in recent years:  
 
-§   Share repurchase s  §   Increased debt issuance ([[The Economist Time Is Cheap|low interest rates]])  
+§   Share repurchase s  §   Increased debt issuance ([low interest rates](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Time%20Is%20Cheap.md))  
 - Financial structure varies by industry  
   - Large international bank    o   Technology startup  
 # Balance Sheet:  US Manufacturing Companies  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2ab72f8c089d2939534dffd209b8339d0946b8b0c42ea5e870021f495b7b24f1.jpg)  
+ ![500](Attachments/500-682.jpg)  
 - One-to-one debt equity ratio common for such companies for  many year  
 # Non financial Corporations: Debt (Percentage of Equity)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ac725b293278a70c6a2efef8d86ae5f1aa0d6854e29ac4e9838843e3f4130a6d.jpg)  
-- [[Corporate Bonds and Loans|Corporate debt]] as a percentage of total financing has  increased since the [[Squam Lake Group Letter|Financial Crisis]]  
+ ![500](Attachments/500-688.jpg)  
+- [Corporate debt](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Corporate%20Bonds%20and%20Loans.md) as a percentage of total financing has  increased since the [Financial Crisis](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Letter.md)  
 # Corporate Debt Levels  
 
 # •   Debt levels have increased in the US and other countries  
   - Example:  China  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6218665c49de65f6434e538e9e562ae98292f15176e0003799e71a2f3e5ba9b6.jpg)  
+ ![500](Attachments/500-783.jpg)  
 # Total Liabilities to Total Capitalization  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f489d3ba4bd8e8d44535998dbcc351e1bbcc7c237ef2a2d12798f51fede13d06.jpg)  
+ ![500](Attachments/500-824.jpg)  
 
 #   Debt markets differ substantially among these countries  
 
@@ -2268,15 +2268,15 @@ Nature of businesses differ as well
 
 #  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/556c1f186d43ce62c1be22ae88350c8baa024450e489645ffdddc9f1f405138b.jpg)  
+ ![500](Attachments/500-721.jpg)  
 # Ownership Rights and Issues  
 - Shareholder rights without debt  
-  - Cash-flow Rights    o   [[Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation|Control Rights]]  
+  - Cash-flow Rights    o   [Control Rights](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%207/Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation.md)  
 - Shareholder rights with debt  
   - Cash-flow rights contingent on meeting creditors’  contractual rights    o   Shareholders have a residual claim on company’s assets  
 # Ownership Rights and Issues  
-- [[Southland Corp. (c)|Financial Distress]] and Bankruptcy  
-  - Owners may be forced to forego [[Exercises|dividend payments]]  or put more money into company    o   Bankruptcy places company under “protection” of  court of law – creditors “estopped”  
+- [Financial Distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md) and Bankruptcy  
+  - Owners may be forced to forego [dividend payments](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md)  or put more money into company    o   Bankruptcy places company under “protection” of  court of law – creditors “estopped”  
 - Small and medium sized companies have only one or a  few shareholders; large companies may have millions  
 - Large company shareholders effectively limited to voting  for Board members and limited other matters  
 # Ownership Rights and Issues  
@@ -2298,7 +2298,7 @@ Nature of businesses differ as well
 # ExxonMobil and Engine No 1  
 - Key issue:  “… no credible program to protect value in an  energy transition”  
 - Exxon vigorously fought Engine No 1’s claims  
-- ISS, a major proxy advisor, advised its clients, who include  many large [[An Asset Allocation Primer|investment]] funds to support Engine 1’s nominees  
+- ISS, a major proxy advisor, advised its clients, who include  many large [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) funds to support Engine 1’s nominees  
 - Several major Exxon shareholders announced they support  Engine No 1’s proposals  
 - Three of the four Engine No 1 nominees were elected  
 # Other Shareholder Issues  
@@ -2316,23 +2316,23 @@ Nature of businesses differ as well
 - Tunneling  Partnerships and Other Organizational Structures  
 - Partnerships  
   - General    o   Limited  
-- Trusts – legal structures designed to hold specific assets    o   Real Estate [[An Asset Allocation Primer|Investment]] Trusts    o   Special Purpose Entities  
+- Trusts – legal structures designed to hold specific assets    o   Real Estate [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Trusts    o   Special Purpose Entities  
 # Preferred versus Common Stock  
 - Public and private companies may issue preferred stock  
-  - Publicly issued preferred stock receives a [[Utility Indices|preference]] in  receiving [[Exercises|dividend payments]]  
+  - Publicly issued preferred stock receives a [preference](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) in  receiving [dividend payments](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md)  
 
-§   Fixed payment to investors – no voting rights  §   If preferred dividends unpaid, no common dividends  paid – typically “cumulative”   §   Limited voting rights may be granted to preferred  shareholders if [[Exercises|dividend payments]] missed  
-  - Private companies issue preferred stock to give certain  investors, e.g. [[The Economist Intangible Capitalism|venture capital]], [[Utility Indices|preference]] in receipt of  proceeds ahead of founders  
+§   Fixed payment to investors – no voting rights  §   If preferred dividends unpaid, no common dividends  paid – typically “cumulative”   §   Limited voting rights may be granted to preferred  shareholders if [dividend payments](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) missed  
+  - Private companies issue preferred stock to give certain  investors, e.g. [venture capital](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Intangible%20Capitalism.md), [preference](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) in receipt of  proceeds ahead of founders  
 # Debt Instruments  
 - Major issues for CFO  
-  - Debt maturity    o   Fixed or floating rate  o   [[Forwards and Futures Notes|Currency]] choice  o   Covenants and collateral    o   Straight or convertible bonds    o   Lease versus buy  Debt Maturity and Fixed versus Floating Rates  
+  - Debt maturity    o   Fixed or floating rate  o   [Currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) choice  o   Covenants and collateral    o   Straight or convertible bonds    o   Lease versus buy  Debt Maturity and Fixed versus Floating Rates  
 - Long-term debt generally “more expensive” than short-term  
   - However, reduces risk of cash crunch – think Covid    o   Match maturity of liabilities with assets  
 - Fixed versus floating  
-  - Do the company’s earnings change with interest rate  levels?    o   [[Volatility and Convexity|Short-term rates]] generally below long-term  
+  - Do the company’s earnings change with interest rate  levels?    o   [Short-term rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%208/Volatility%20and%20Convexity.md) generally below long-term  
 # Currency, Collateral and Covenants  
 - Try to match expenditures in country with borrowings  
-  - Eurozone plant selling into Europe financed in Euros    o   Risk of being unable to obtain the [[Forwards and Futures Notes|currency]] borrowed  
+  - Eurozone plant selling into Europe financed in Euros    o   Risk of being unable to obtain the [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) borrowed  
 - Collateral – banks and other lenders often granted a lien on  plant, accounts receivable and other assets of the company  
 - Covenants – promises made by the company to its creditors  
   - Seniority of debt, rights and remedies;  stricter covenants  generally imply lower interest rate  
@@ -2346,39 +2346,39 @@ Nature of businesses differ as well
   - May be abused to hide debt    o   Greensill Capital  
 # Financial Markets and Intermediaries  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/74ff74e29c1f3288620f725723cf58be711e7b4cbf61aecf1050fd0b578f2f1a.jpg)  
+ ![500](Attachments/500-789.jpg)  
 # Financial Markets  
-- Financial assets are traded on a financial market  o   Market makers provide [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]]  
-  - [[Financial Intermediation as Delegated Monitoring|Financial intermediaries]] provide securities borrowing and  lending  
+- Financial assets are traded on a financial market  o   Market makers provide [liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md)  
+  - [Financial intermediaries](../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-%20Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Financial%20Intermediation%20as%20Delegated%20Monitoring.md) provide securities borrowing and  lending  
 - Types of transactions  
   - Primary and Secondary  
 - Exchange-traded and over-the-counter  
 # Financial Intermediaries  
 - Companies that engage in financial asset purchases and sales  as a principal  
-  - Commercial Banks    o   [[An Asset Allocation Primer|Investment]] Banks  o   Insurance Companies  o   Securities and [[Futures Not Subject to Cash-And-Carry|Futures]] Exchanges  
+  - Commercial Banks    o   [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Banks  o   Insurance Companies  o   Securities and [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) Exchanges  
 - General do not hold real assets, e.g., physical plant and  equipment  
 # Investment Funds  
 - Companies that hold financial assets on behalf of their clients  
   - Mutual Funds  
 
-§   Open end  §   Closed end    o   [[Basis Trade Explainer|Hedge Funds]]    o Pension Funds  
-- Most large [[HBR Case Study- Oaktree|Financial Services]] Holding Companies also engage  in this business  
+§   Open end  §   Closed end    o   [Hedge Funds](../Financial%20Engineering/Basis%20Trade%20Explainer.md)    o Pension Funds  
+- Most large [Financial Services](HBR%20Notes/HBR%20Case%20Study-%20Oaktree.md) Holding Companies also engage  in this business  
 # Funds, Financial Institutions and Insurance Companies  
 - Mutual funds intermediate flows between individuals and  companies  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b93e76724d458feac532589788724adb5517f07fcac5a0f70c14abdcdbb73e2c.jpg)  
+ ![500](Attachments/500-675.jpg)  
 - Commercial banks intermediate flows between borrowers and  depositors  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c9a0861a497c9008e91302a4986f7e5334eeef59f666b06e4801925459e2b235.jpg)  
+ ![500](Attachments/500-718.jpg)  
 # Funds, Financial Institutions and Insurance Companies  
-- [[An Asset Allocation Primer|Investment]] banks intermediate flows between companies and  (institutional) investors  
+- [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) banks intermediate flows between companies and  (institutional) investors  
   - Will discuss next lecture  
 - Insurance companies intermediate flows between companies  and policyholders  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b67f6115f5cfbcebc8fbb527b3ef904809803662ed9d055594bf1af2c364c27b.jpg)  
-Role of [[Financial Markets and Institutions Lecture Notes|Financial Markets]] and Intermediaries  
+ ![500](Attachments/500-676.jpg)  
+Role of [Financial Markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) and Intermediaries  
 - Payments Mechanism   
-- [[Swaps Types|Borrowing and Lending]]  o   [[SIVS An Oasis of Calm in the Sub Prime Maelstrom|Maturity Transformation]]    o   Risk Pooling   
+- [Borrowing and Lending](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Swaps%20Types.md)  o   [Maturity Transformation](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/SIVS%20An%20Oasis%20of%20Calm%20in%20the%20Sub%20Prime%20Maelstrom.md)    o   Risk Pooling   
 - Financial Information Provision  
 #  
 
@@ -2387,9 +2387,9 @@ How Corporations Issue Securities  Dave Schabes
 February 21, 2023  
 # Stages of Company Investment  
 - Founder/Angel   
-- [[The Economist Intangible Capitalism|Venture Capital]]    o   Rounds of VC financing   
-- [[Private Equity|Private Equity]]   
-- [[Primary Issuance and Secondary Resale Markets|Initial Public Offering]]    o   Follow-on (secondary) offerings   
+- [Venture Capital](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Intangible%20Capitalism.md)    o   Rounds of VC financing   
+- [Private Equity](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2014%20-%20Private%20Equity,%20Pension,%20and%20Sovereign%20Funds/Private%20Equity.md)   
+- [Initial Public Offering](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Primary%20Issuance%20and%20Secondary%20Resale%20Markets.md)    o   Follow-on (secondary) offerings   
 - Debt Offerings  
 # Founder/Angel  
 - Marvin Enterprises (2031)  
@@ -2398,11 +2398,11 @@ February 21, 2023
 §   Purchase price \$.10/share  §   \$90,000 cash; \$10,000 startup expenses  
   - Banks unwilling to lend – no product   o   Founders develop business plan  
 
-§   Borrowed all they could and put all their wealth into  Marvin  §   Signaled value to potential [[The Economist Intangible Capitalism|venture capital]] investors  
+§   Borrowed all they could and put all their wealth into  Marvin  §   Signaled value to potential [venture capital](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Intangible%20Capitalism.md) investors  
 # Venture Capital Stages  
 - First Meriam Venture Partners buys 1 mm shares at \$1/sh.  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ebeeacf6ec8e5ac4aab4b238b059a8c1dce2deeb4c3549e6a4ebc17d96e967c.jpg)  
+ ![500](Attachments/500-827.jpg)  
 # Venture Capital  Stage  
 - Marvin’s value nominally 20X its initial value  
 - First Meriam has a controlling stake  
@@ -2413,39 +2413,39 @@ February 21, 2023
   - First Meriam’s stock is preferred  §   Converts to common if company taken public  
 # Venture Capital  Stage  
 - What happens if Marvin does not do well?   
-- Second-stage [[An Asset Allocation Primer|Investment]] – 2033    o   Prototype designed and tested    o   Additional funds for pilot production and test marketing   
-- Additional [[An Asset Allocation Primer|investment]] from First Meriam \$1.5 mm    
+- Second-stage [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) – 2033    o   Prototype designed and tested    o   Additional funds for pilot production and test marketing   
+- Additional [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) from First Meriam \$1.5 mm    
 - Other VC investors -- \$2.5 mm  
-[[The Economist Intangible Capitalism|Venture Capital]]  Stage  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b02821acdcb04efc16331073c40afc66ef89bb8bf7bb193d4f7453487a812cf1.jpg)  
+[Venture Capital](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Intangible%20Capitalism.md)  Stage  
+ ![500](Attachments/500-706.jpg)  
 - What percent of the company do the new investors own?  
 - What percentage does First Meriam own?  
-[[The Economist Intangible Capitalism|Venture Capital]] Stage  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3a15eeed893ef12aa1ec945907c61fc8709f6afa9fe213ac811f5b216f4b39bf.jpg)  
+[Venture Capital](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Intangible%20Capitalism.md) Stage  
+ ![500](Attachments/500-701.jpg)  
 - Marvin’s value based on latest round’s implied valuation  o   Only worth what you can sell it for  
 # Venture Capital Stage  
 - Mezzanine Financing  
   - May refer to debt or equity  
 - Other early stage investors include:  
   - High Net Worth Individuals; Family offices  
-  - [[Private Equity|Private Equity firms]]; Corporations with strategic interest  
+  - [Private Equity firms](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2014%20-%20Private%20Equity,%20Pension,%20and%20Sovereign%20Funds/Private%20Equity.md); Corporations with strategic interest  
 - Incentives and Issues  
   - Carried Interest  
 # Venture Capital Investments and Returns 1  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b4626529040d44be631d1117654718730b1ff786d30ad4f0b9bb27785c06f3d7.jpg)  
+ ![500](Attachments/500-789.jpg)  
 # Recent History of Venture Investments  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eecd42736d05f6ebb28ea4118fbad7c632cea1045c1f6c3014a16353de4a3834.jpg)  
+ ![500](Attachments/500-826.jpg)  
 # Business Of Venture Capital  
-- Fund risky new businesses:  sell or liquidate company    o    Demand high expected [[Assets|returns]] and substantial control     o   Realization of [[Assets|returns]]  §   Sell to larger company  §   Take company public  
+- Fund risky new businesses:  sell or liquidate company    o    Demand high expected [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) and substantial control     o   Realization of [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  §   Sell to larger company  §   Take company public  
 - Most investments fail  
 - Internal Rate of Return  
-  - Likely overstates actual [[Assets|returns]]  
+  - Likely overstates actual [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
 # Initial Public Offering (IPO)  
 - Marvin goes public February 3, 2037  
 - Primary and Secondary Offerings  
-  - Primary – new shares for [[An Asset Allocation Primer|investment]] in business  
+  - Primary – new shares for [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in business  
   - Secondary – existing investors cash out  
 - Going Public Tradeoffs  
   - SOX  
@@ -2454,7 +2454,7 @@ February 21, 2023
 
 #  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8e9998e242276e9feff501fbc4e02f960e010e924c4c0bdb6805a955fe4e91af.jpg)  
+ ![500](Attachments/500-770.jpg)  
  $\%$  
 # IPO Process  
 - Management interested in selling some shares since IPO  market for tech companies is “hot”  
@@ -2485,28 +2485,28 @@ February 21, 2023
 
 Reputation al – failed IPOs  •   Due diligence  •   Allocation process – “spinning”  
 
-Financial –  HBOS 2008 rights issue  •   [[Lessons From The Crisis|Morgan Stanley]] and Dresdner Kleinwort  •   Only 8.3% of the shares sold – failed underwriting  •   Underwriters hold the remainder – ultimately  acquired by Lloyds TSB early 2009  
+Financial –  HBOS 2008 rights issue  •   [Morgan Stanley](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Lessons%20From%20The%20Crisis.md) and Dresdner Kleinwort  •   Only 8.3% of the shares sold – failed underwriting  •   Underwriters hold the remainder – ultimately  acquired by Lloyds TSB early 2009  
 # Underwriting Costs and Pricing  
 - Costs  
   - Spread – difference between underwriting price and  offering price; typically 7% for smaller issuers  
   - Additional fees – registration, legal, printing among others  
-- [[Arbitrage Pricing of Derivatives|Pricing]]  
+- [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)  
   - New issues often “under priced”    o   IPOs averaged 16.8% gain on few day based on one study  
 # Updated First-day Returns  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/87b088141989da6f4926a24975ba331b41327f22d904de3f0d76717ef51d03d5.jpg)  
+ ![500](Attachments/500-806.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/996f399c46f7725d6b562851efd77aa28def6635db08716014999af4bafaf9e2.jpg)  
+ ![500](Attachments/500-793.jpg)  
 # Hot New-issue Periods 2  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/beb95e7985aecf42ce4c610eaea102a4a7b0957ec435e51ad5256afe16f8cf15.jpg)  
+ ![500](Attachments/500-785.jpg)  
 
 #   Bars show number of IPOs; Chart in text shows proceeds  
 
 Long-run (three year holding period) investors lose 18.7% –    passive index funds “must “ invest  
 # Alternative Issuing Procedures  
 - US IPOs typically employ book building process  
-  - Institutional buyers indicate where they would buy IPO    o   Underwriters may give [[Utility Indices|preference]] to certain potential  buyers  
+  - Institutional buyers indicate where they would buy IPO    o   Underwriters may give [preference](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) to certain potential  buyers  
 - Recently companies have engaged in primary direct offerings  
   - Only sales from existing shareholders – no new money     o   Lower fees but greater uncertainty of price level  
 # Auctions  
@@ -2523,10 +2523,10 @@ Long-run (three year holding period) investors lose 18.7% –    passive index f
 - At least one class of securities SEC registered  •   At least 12 months subject to reporting  requirements  •   No missed dividends or defaults since last  financial statements issued  •   First time issuance has additional requirements  
 # General Cash Offer Costs  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7b36cd199270165b75ebe9e4ff69f72cfdfa3fe7cb4e610f1e168ff0f83ddc9c.jpg)  
+ ![500](Attachments/500-827.jpg)  
 # Total Costs as Percentage of Proceeds  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3cdef57da988b0f7328b45adea4376dc8b4425ee15a1d05a6da12bcc4430a9fa.jpg)  
+ ![500](Attachments/500-791.jpg)  
 
 # Some costs are fixed; others vary with size  
 # Market Reaction to Stock Issues  
@@ -2551,7 +2551,7 @@ Long-run (three year holding period) investors lose 18.7% –    passive index f
 # Private Placements 4  
 - May only be sold to Accredited Investors or Qualified  Institutional Buyers (QIBs) as defined in Regulation D under  the Securities Act of 1933  
   - Accredited Investor -- net worth of \$1 mm or annual  income of \$200,000 for an individual (\$300,000 for a  couple); trust or certain other entities with assets of \$5  mm; certain designated financial professionals  
-  - QIB – Certain [[Chapter 4 Institutional Trading|institutional investors]] with unaffiliated  assets of \$100 mm; banks and thrifts \$25 mm; brokerdealers \$10 mm  
+  - QIB – Certain [institutional investors](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%204%20Institutional%20Trading.md) with unaffiliated  assets of \$100 mm; banks and thrifts \$25 mm; brokerdealers \$10 mm  
 # Private Placements  
 - Often specific types of debt or equity targeted at certain types  of buyers  
   - Commercial mortgage bonds places with an insurance  company    o   Preferred equity for a small company  
@@ -2559,15 +2559,15 @@ Long-run (three year holding period) investors lose 18.7% –    passive index f
   - Buyer is typically expected to hold the security to maturity  
 # What Could Go Wrong?  FTX 5  
 - On November 11, 2022 FTX Trading LTD., et al. (“FTX”) filed for  bankruptcy in the United States bankruptcy court for the  district of Delaware  
-- FTX was founded in 2019 as a crypto [[Currency Swap Basics|currency exchange]] 
+- FTX was founded in 2019 as a crypto [currency exchange](../Clippings/Currency%20Swap%20Basics.md) 
 - Numerous related companies were founded as well  o   Most importantly, Alameda Research LLC 
-- FTX created its own crypto [[Forwards and Futures Notes|currency]], FTT  
+- FTX created its own crypto [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md), FTT  
 # FTX Corporate Structure  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/93f7c9a78795aa2d16d7c89b4a03dc6e1660b24bb2db91b4b66058eee9ec7e69.jpg)  
+ ![500](Attachments/500-704.jpg)  
 # FTX Recovery Process  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/941df99193108f162b9153af8feb2375dc828bcc156f54879b54c861eccbab2d.jpg)  
+ ![500](Attachments/500-823.jpg)  
 #  
 
 Does Debt Policy Matter?  Dave Schabes  
@@ -2577,28 +2577,28 @@ February 23, 2023
 - Grew out of payout policy debate 
 - In the 1950s finance community divided into two camps:  o   Companies achieve higher valuations if pay high dividends  
   - Companies achieve higher valuations if pay little or no  dividends and reinvest in company  
-- In 1961 Miller and [[Liquidity Preference Market Segmentation and P|Modigliani]] show that dividend policy does  not matter  
+- In 1961 Miller and [Modigliani](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Liquidity%20Preference%20Market%20Segmentation%20and%20P.md) show that dividend policy does  not matter  
 - All that matters is the market value of the company’s assets  
 # Modigliani and Miller Debt Theorems  
-- As we have discussed the market value of the company’s  assets must equal the present value of its [[Advanced Derivatives Pricing Methodology|future cash flows]]  
-- The [[Introduction to Corporate Finance|Capital Structure]] of a company is its chosen mix of debt,  equity and other liabilities  
-  - [[Leverage Ratio|Financial Leverage]] (gearing) refers to the relative amount  of debt to equity a company employs  
-  - If a firm’s value is based solely on the value of its assets  then [[Introduction to Corporate Finance|capital structure]] should not matter – why are  [[Primary Issuance and Secondary Resale Markets|investment bankers]] paid so much?  
+- As we have discussed the market value of the company’s  assets must equal the present value of its [future cash flows](../Financial%20Engineering/Advanced%20Derivatives%20Pricing%20Methodology.md)  
+- The [Capital Structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) of a company is its chosen mix of debt,  equity and other liabilities  
+  - [Financial Leverage](../Advanced%20Financial%20Analysis%20and%20Valuation/Financial%20Ratios/Leverage%20Ratio.md) (gearing) refers to the relative amount  of debt to equity a company employs  
+  - If a firm’s value is based solely on the value of its assets  then [capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) should not matter – why are  [investment bankers](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Primary%20Issuance%20and%20Secondary%20Resale%20Markets.md) paid so much?  
 # Modigliani and Miller Debt Theorems  
-- If MM are correct, then [[An Asset Allocation Primer|investment]] decisions may be  separated from capital raising decisions  
+- If MM are correct, then [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) decisions may be  separated from capital raising decisions  
   - We never considered how we would finance the projects  in Chapters 5 through 12    o   The Separation Principle implied by MM allowed us to do  so  
 - Now look more closely at the MM propositions  
 # Capital Structure  
-- Commercial and [[Lecture Notes 9- Corporate Securities And Credit Derivatives|investment banking]] revolve around:  
-  - Capital raising   o   [[Financial Mathematics Course|Risk management]]  o   Mergers, acquisitions and divest it ure s  
-- [[Introduction to Corporate Finance|Capital structure]] choices irrelevant in simple (perfect) markets  
+- Commercial and [investment banking](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Notes%209-%20Corporate%20Securities%20And%20Credit%20Derivatives.md) revolve around:  
+  - Capital raising   o   [Risk management](../Financial%20Engineering/Financial%20Mathematics%20Course.md)  o   Mergers, acquisitions and divest it ure s  
+- [Capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) choices irrelevant in simple (perfect) markets  
 - Real world – regulations, taxes and other factors – strays  significantly from perfect capital markets assumptions  
 # Capital Structure  
 - Understanding which factors create:  
-  - Benefits to altering [[Introduction to Corporate Finance|capital structure]]     o   Potentially unnecessary risks  
+  - Benefits to altering [capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md)     o   Potentially unnecessary risks  
 - Critical to successful corporate financial management  
 - Critical choice CFO faces:  
-  - Amount of [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] (borrowing) to take on    §   Debt always appears less expensive than equity in the  short-term  
+  - Amount of [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) (borrowing) to take on    §   Debt always appears less expensive than equity in the  short-term  
 # Wapshot Mining Company  
 - Issues 1000 shares at \$50 each   
 - Borrows \$25,000   
@@ -2607,7 +2607,7 @@ February 23, 2023
 
 !"#\$% = '(\$)\*+ + -%.\* = 50,000 + 25,000 = \$75,000.   7ℎ)9 :\$9\* .% \*ℎ% :";<%\*′9 "99%9:%>\*    ?@ \*ℎ% A"#\$% ?@ B"C9ℎ?\*′9 "99%\*9  
 # Wapshot Mining Company  
-- The equity issued is called levered equity as there is debt  ahead of it in the [[Introduction to Corporate Finance|capital structure]]  
+- The equity issued is called levered equity as there is debt  ahead of it in the [capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md)  
 - Wapshot borrows an additional \$10,000 and pays a special  (one time) dividend to shareholders  
   - What is Wapshot’s value now?  
 
@@ -2620,11 +2620,11 @@ February 23, 2023
 §   Debt value remains the same even though amount of  debt is larger  §   Interest rate on (New or Old) Debt unchanged  §   No corporate or individual taxes to consider  
   - Consider two identical firms:  
 
-§   U and L differ only in [[Introduction to Corporate Finance|capital structure]]:  •   U financed entirely with equity   •   L financed with \$1 of debt for each \$1 of equity  
+§   U and L differ only in [capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md):  •   U financed entirely with equity   •   L financed with \$1 of debt for each \$1 of equity  
 # Firms U and L  
-- Assume you buy 1% of the profits of each firm  o   Which firm is the riskier equity [[An Asset Allocation Primer|investment]]?  o   What is your [[Lecture 1- Probability Distributions of Returns|expected return]] if you buy:  
+- Assume you buy 1% of the profits of each firm  o   Which firm is the riskier equity [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)?  o   What is your [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) if you buy:  
 
-§   1% of the equity of U?  §   1% of the [[Class Note 1- Borrower-Lender conflicts and implied agency problems|debt and equity]] of L?  
+§   1% of the equity of U?  §   1% of the [debt and equity](../Financial%20Markets%20and%20Institutions/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/Class%20Note%201-%20Borrower-Lender%20conflicts%20and%20implied%20agency%20problems.md) of L?  
 - Recall:  
 $$
 V_{U}=E_{U}
@@ -2634,16 +2634,16 @@ V_{L}=E_{L}+D_{L}
 $$  
 # Firms U and L  
 # Firms U and L  
-- Buying 1% of the equity in U or 1% of the [[Class Note 1- Borrower-Lender conflicts and implied agency problems|debt and equity]] in L  earn identical [[Assets|returns]]  
-  - By the [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|Law of One Price]], each [[An Asset Allocation Primer|investment]] must have the  same value:  1% of the company’s profits    o   Each must also have the same [[Lecture 1- Probability Distributions of Returns|expected return]]  
+- Buying 1% of the equity in U or 1% of the [debt and equity](../Financial%20Markets%20and%20Institutions/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/Class%20Note%201-%20Borrower-Lender%20conflicts%20and%20implied%20agency%20problems.md) in L  earn identical [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+  - By the [Law of One Price](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md), each [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) must have the  same value:  1% of the company’s profits    o   Each must also have the same [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md)  
 - Now assume you are willing to take more risk  
   - Buy 1% of the equity of L  
 # Firms U and L  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c0b7db721be5bb20604e4c7263432611e98d70da503505c3db7e7a9412d8fdf3.jpg)  
-- Alternatively, buy   $1\%$   of the equity of U and sell short 1% of  the debt of L – same [[Lecture 1- Probability Distributions of Returns|expected return]]  
+ ![500](Attachments/500-666.jpg)  
+- Alternatively, buy   $1\%$   of the equity of U and sell short 1% of  the debt of L – same [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bbcf89105a46f6baaaeddb44b377813ac6908834ae5748f905bd923eb69e1702.jpg)  
+ ![500](Attachments/500-696.jpg)  
 # Modigliani and Miller I  
 - “The market value of any firm is independent of its capital  structure.”  
   - Key assumptions  
@@ -2651,35 +2651,35 @@ $$
 §   No taxes or transaction costs  §   Ability to go long or short any security  §   Single borrowing/lending rate  
 - Earlier saw version of this: value additivity  
   - Splitting firm cash flows does not alter firm’s value    o   Law of Conservation of Value  
-[[Liquidity Preference Market Segmentation and P|Modigliani]] and Miller I:  Macbeth Spot Removers  •   Expected earnings:  \$1.50/sh.; equity return 15%  •   Four potential outcomes  
+[Modigliani](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Liquidity%20Preference%20Market%20Segmentation%20and%20P.md) and Miller I:  Macbeth Spot Removers  •   Expected earnings:  \$1.50/sh.; equity return 15%  •   Four potential outcomes  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b7c039ebc98cd3d301d5a92b23a38d8b2743052a0e94a62c7e638c73e16953d8.jpg)  
+ ![500](Attachments/500-822.jpg)  
 # Macbeth Spot Removers  
 - Company president proposes the following:  
   - Issuing \$5,000 debt; interest rate 10% annually   o   Re purchasing 500 shares of stock  
 - Impact on share value a function of distribution of outcomes  
 # Macbeth Spot Removers  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6f420283904a2838a6395851931c15dc70a82101de3d5239a8f728ece48f7794.jpg)  
+ ![500](Attachments/500-665.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/258b90fb3d3aab4e03f6841a311ba970f9064363d1508d2a6266080184e99d94.jpg)  
+ ![500](Attachments/500-774.jpg)  
 # Macbeth Spot Removers  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0dc4b08a1abcc1d914f4b8834725fdb988997751169b40df374616d80bf4784b.jpg)  
+ ![500](Attachments/500-689.jpg)  
 # Shareholders Borrow and Increase Investment  
 
 Financial manager points out that shareholders have ability to  create this outcome for themselves by buying two shares and  borrowing the funds to purchase one of the shares at 10%  
   - Only change is who defaults if loan cannot be repaid  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d95d991ffc31a6300ece06a83a457eb79d3f34286b08fb9782003b10af20324b.jpg)  
+ ![500](Attachments/500-720.jpg)  
 # Financial Risk and Expected Return  
-- [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] increases expected [[Preview of the Book|cash flow]] and risk level per  share, but not share price –   $\beta_{E}$   has increased  
+- [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) increases expected [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) and risk level per  share, but not share price –   $\beta_{E}$   has increased  
 
 "%&"'#"( ,&")-#0+1 0+',2" !"# "%&"'#"( )"#\*)+ ,+ -.."#. = ) !  = 2-)3"# 4-5\*" ,6 -55 ."'\*)0#0".  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3d0efa4f3407287fac708018e32541d45b1e65dfcf3dc8a2c7a6ae18d05bec62.jpg)  
+ ![500](Attachments/500-690.jpg)  
 # Financial Risk and Expected Return  
-- Recall, Harry Markowitz’s modern [[A Brief History of Investment Thought|portfolio theory]]  
+- Recall, Harry Markowitz’s modern [portfolio theory](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2011%20-%20Individual%20Investors-A%20Survey%20of%20Modern%20Investment%20Theory/A%20Brief%20History%20of%20Investment%20Thought.md)  
   - Applying it to the securities of a single firm, we obtain:  
 $\dot{\mathbf{\omega}}_{A}=\left(\frac{D}{D+E}\right)\times\boldsymbol{r}_{D}+\left(\frac{E}{D+E}\right)\times\boldsymbol{r}_{E},i n\,w d$  
 - This is the company’s weighted cost of capital (WACC)  
@@ -2698,32 +2698,32 @@ $$
 $\begin{array}{c}{{b o r r o w e d,r_{E}=.15+(.15-.10)\times\left(\displaystyle\frac{\S t}{\S t}\right.}}\\ {{\left.r_{E}=20\%}}\end{array}$  \$5,000 U>D% \$5,000 )9 .?;;?N%F, ; W,  \$5,000  
 
 X"D.%\*ℎ′9 BYZZ )9 \$>Dℎ">E%F,    BYZZ = V  \$5,000 W × 10% + (\$5,000/\$10,000) × 20% \$10,000  $=15\%$  , )F%>\*)D"# \*? \*ℎ% \$>#%A%;%F BYZZ  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b203d56bcba3260b1be12f317949ab87b33385cbb59d13e9e67ba780af6c93fb.jpg)  
-[[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]], Risk and [[Assets|Returns]]  
-- Assumes [[BMW Valuation|operating income]] after interest paid on debt and  interest payment made regardless of [[BMW Valuation|operating income]] level  
+ ![500](Attachments/500-839.jpg)  
+[Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md), Risk and [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+- Assumes [operating income](../Advanced%20Financial%20Analysis%20and%20Valuation/BMW%20Valuation.md) after interest paid on debt and  interest payment made regardless of [operating income](../Advanced%20Financial%20Analysis%20and%20Valuation/BMW%20Valuation.md) level  
 # Leverage and the Cost of Capital  
 - WACC for a firm with the following balance sheet:  
 $$
 \begin{array}{c}{r_{A}=r_{D}\left(\frac{D}{V}\right)+r_{E}\left(\frac{E}{V}\right)}\\ {=7.25\%\left(\frac{33.3}{100}\right)+15.5\%\left(\frac{66.7}{100}\right)=12.7}\end{array}
 $$  
-- ; \$  and WACC remain the same regardless of changing the  [[Introduction to Corporate Finance|capital structure]]  
+- ; \$  and WACC remain the same regardless of changing the  [capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md)  
 # Leverage and the Cost of Capital  
 - WACC for same firm, but with higher level of debt:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ebf078562d1fa5f2acd674e189f7dce9a9e92c944469d198f99fa1dc94df1440.jpg)  
+ ![500](Attachments/500-714.jpg)  
 $$
 \begin{array}{l}{{s u m e,r_{D}\;r i s e s\;t o\;8\%.\;r_{A}=r_{D}\left(\displaystyle\frac{D}{V}\right)+r_{E}}}\\ {{\%\left(\displaystyle\frac{50}{100}\right)+r_{E}\left(\displaystyle\frac{50}{100}\right)=12.75\%,s o l v i n g}}\end{array}
 $$  
 
 = 8.00% K  N% ?.\*")>,  $r_{E}=17.5\%$   ">F 9\$.9\*)\*\$\*)>E ."D< )>,     $=8.00\%\left({\frac{50}{100}}\right)+17.5\%\left({\frac{50}{100}}\right)=12.75\%$  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8d4918bd2bf9bf3b851863a69b7932e571803eb1697cf10a9e5735e99c5757e0.jpg)  
+ ![500](Attachments/500-769.jpg)  
 MM 2:  Risk Free Debt  
-- If debt remains risk free only equity holders demand  increasing [[Assets|returns]]  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f23d1e4d330ae20f44123fdca27dcdefa1963bd1c8a1eb0ace097d66162d28e1.jpg)  
+- If debt remains risk free only equity holders demand  increasing [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+ ![500](Attachments/500-724.jpg)  
 MM II: Risky Debt  
-- If debt becomes risky both [[Class Note 1- Borrower-Lender conflicts and implied agency problems|debt and equity]] holders demand  increasing [[Assets|returns]]  
+- If debt becomes risky both [debt and equity](../Financial%20Markets%20and%20Institutions/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/Class%20Note%201-%20Borrower-Lender%20conflicts%20and%20implied%20agency%20problems.md) holders demand  increasing [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
 # Beta of Leveraged Equity  
-- Debt  J :  relationship of debt value to [[Hedge Fund Strategies|stock market]] volatility 
+- Debt  J :  relationship of debt value to [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) volatility 
   - Typically 0 to 0.2  
 - Again use MPT to calculate $\beta s\colon$  
 $$
@@ -2753,12 +2753,12 @@ $$
 \$500 in NPV terms  
 # Reeby Sports  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6c06eb1b57e6699e46517ce29bc493b80a71b60f737a0cf515af061314fafb46.jpg)  
+ ![500](Attachments/500-697.jpg)  
 # Reeby Sports  
 
 # _%D"##, ; #  = ;  $r_{A}+\left(r_{A}-r_{D}\right)\times\left(\frac{D}{E}\right),=.10+\frac{(.\,10-.0}{500}$  (. 10 −.07)500    $=13\%$  , \$\*)#)\`)>E \*ℎ)9 F)9D?\$>\* ;"\*% N% 9%%:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/10e692fc19b3445683eb85a384f29a01754ce99f8c2c99a4e7e67ffca2f5a4ed.jpg)  
+ ![500](Attachments/500-784.jpg)  
 # After-tax Weighted-Average Cost of Capital  
 - Business interest expense is deductible in many countries   
 - The after-tax cost of borrowing on an annual basis is:  
@@ -2767,7 +2767,7 @@ $:e r-t a x\,W A C C=r_{D}(1-T_{C})\left(\frac{D}{V}\right)+r_{E}$   K' L,  ! N�
 - MM II assumes no taxes, with taxes the WACC declines  
 # CSX Example After-tax WACC at Different D/E Ratios  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/37ec3d69f49a482a213ee6f1a4f485f38c3c3160fddbcf3a2e1992ea13dd72b0.jpg)  
+ ![500](Attachments/500-769.jpg)  
 # CSX Example After-tax WACC  
 - CSX 2017 relevant financial data:  
 $r_{D}=4.0\%;\;r_{E}=10.3\%;\;T_{C}=21\%;$   = 21%;  -/! = .192  
@@ -2785,7 +2785,7 @@ February 28, 2023
 Real World Departures from MM Assumptions  
 - MM understood that the real world departed from their  assumptions  
 - Major departures  
-  - Taxes    o   Transaction Costs  o   [[Southland Corp. (c)|Financial Distress]] and Bankruptcy  o   Conflicts between creditors and shareholders  
+  - Taxes    o   Transaction Costs  o   [Financial Distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md) and Bankruptcy  o   Conflicts between creditors and shareholders  
 # Taxes  
 - In the US and most other countries, interest paid by firms is a  deductible expense from taxable income  
 - Individuals and institutions that receive dividends and capital  gains are taxed (albeit at a lower rate than interest received)  and they are paid from after-tax corporate income  
@@ -2793,9 +2793,9 @@ Real World Departures from MM Assumptions
   - Some institutions, e.g., endowments and pension funds, are  tax exempt  
 # Taxes  
 - Limits were placed on the deduct i bil it y of interest at 30% of  income (defined as EBITDA) in 2017  
-  - This has been repealed as part of the CARES act legislation     o   With [[Interest Rate Quotations|interest rates]] currently low, few companies would  have hit this constraint  §   Due to the Corona virus, poor earnings may have made  this constraint “bite” more quickly for some companies  
+  - This has been repealed as part of the CARES act legislation     o   With [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) currently low, few companies would  have hit this constraint  §   Due to the Corona virus, poor earnings may have made  this constraint “bite” more quickly for some companies  
 - Assume that this constraint is not binding for our examples  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b40f4d678c8debc9154465e594295a7a851768542da0dd9d06d72dbdc178d3d0.jpg)  
+ ![500](Attachments/500-820.jpg)  
 # Tax Shield Valuation  
 - Firm U and L are identical except  
   - L has \$1,000 of debt at 8% per annum    o   U is capitalized entirely with equity  
@@ -2824,7 +2824,7 @@ Fℎ6;6 E +  5. 1ℎ6 :/;G/;216 123 ;216, :29:67759H  $r_{D}$  ,  F6 /@1259   $P
 §   Due to reduction of issuance (or decrease share count  through a buyback) to 902 shares from 1,000   §   Shares are now slightly riskier due to debt load  
 # Johnson & Johnson Example  
 - J&J adds \$10 billion of debt and buys back \$10 billion of stock  
-- Since nothing else regarding [[FORWARD RATES AND TERM STRUCTURE|expectations]] for J&J’s future cash  flow has changed, MM III states:  
+- Since nothing else regarding [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) for J&J’s future cash  flow has changed, MM III states:  
 $$
 \Delta P V_{J\&J}=T_{C}\times D=.21\times\S10\;b n=\S2.1
 $$  
@@ -2833,32 +2833,32 @@ $$
 - Book Value Balance Sheet “Total Value” line is unchanged  
 # Johnson & Johnson (Values as of December 21, 2017)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/85d01159fe6af287a14bfc2536f365ff303f108ac69e6fcc3f8c1ae2799b3cbd.jpg)  
+ ![500](Attachments/500-799.jpg)  
 - Recall MM propositions assume the market knows the current  market value of all assets and liabilities  
 # Johnson & Johnson Pre-share Repurchase  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1d598daed3e3631e48edcfc9cb35f071d5a9743ffe5e129bca88c259a963ab5d.jpg)  
+ ![500](Attachments/500-776.jpg)  
 # Johnson & Johnson Example  
 - How do we obtain market values?  
   - Utilize Financial Statement values for working capital,  long-term debt and other liabilities  
   - Add estimated PV of tax shield to Assets  
   - Utilize market value of equity to value assets not included  in book value on the balance sheet, e.g., brand name,  customer relationships, and research and development  
-- [[Chapter 16 - Black–Scholes Model|Stock Price]] X number of shares = market value of equity  
+- [Stock Price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) X number of shares = market value of equity  
 # Johnson & Johnson Example Post-share Repurchase  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c10f1fd313d4116fb98381cd171460efd0e7791f9f07747f765b193fe7315fc7.jpg)  
+ ![500](Attachments/500-777.jpg)  
 # Taxes and Limits to Borrowing  
 
 #   Example is hypothetical, however, corporations have taken on  debt and repurchased stock for many years 1  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/00177425a3edfd9a78f666c0c8ee68715e4a2eda9a447538fa99b335567b402e.jpg)  
+ ![500](Attachments/500-773.jpg)  
 Johnson & Johnson:  Why not borrow more?  •   Since J&J’s value increased \$2.1bn by borrowing \$10 bn  o   Practical and market limits to amount a company borrows  
 
 §   Formula does not apply at extremely high debt ratios  §   Debt may not be fixed and perpetually outstanding    §   Marginal tax rates vary  §   Variability of income limits value of tax shield  §   Limits on deduct i bil it y of interest expense  
   - Most importantly  
 
 §   Impact of personal taxes  §   Additional costs to debt – bankruptcy and agency  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/79b6130f066334154e915fbc60a88b925d87b79f1460a80898ad55fce4228252.jpg)  
+ ![500](Attachments/500-769.jpg)  
 Corporate and Personal Taxes  
 - Investors compare investments’ after-tax cash-flow to risk  
 # Corporate and Personal Taxes  
@@ -2880,7 +2880,7 @@ $\phantom{x}\phantom{x}\phantom{x}\phantom{}\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!
 
 #   Ceteris paribus , firm desires to have as much taxable income  as possible be paid out in the least taxed form  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2891ce7ec20ba68d7139671b047ff21fc3a008aa47da234b1321b19bfb8e6c87.jpg)  
+ ![500](Attachments/500-705.jpg)  
 # Relative Tax Advantage of Debt  
 - Where   $T_{C}=21\%$  , E .'  = 15% 298   $T_{p}=37\%$  , there is a \$.04  disadvantage to debt  
 - Where   $T_{C}=35\%,T_{p e}=25\%\,a n d\,T_{p}=39\%,$  , , there is a \$.12  advantage to debt  
@@ -2888,7 +2888,7 @@ $\phantom{x}\phantom{x}\phantom{x}\phantom{}\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!
 - In the case where   $T_{C}=21\%$   298 9/ /1ℎ6; 1236. , there is a  \$.21 advantage to debt  
 # Costs of Financial Distress  
 - In the real world, companies run into financial difficulties    o   Unanticipated downturns in sales    o   Increasing spending too quickly     o   Coupled with too much debt  
-- To capture this we add costs of [[Southland Corp. (c)|financial distress]] to value  equation  
+- To capture this we add costs of [financial distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md) to value  equation  
 $V a l u e\;o f\;F i r m=A s s e t\;V a l u e+P V_{T a x}$  −!" +0121034&5"56&"( \*&128'11  
 # Costs of Financial Distress  
 - How creditors think about default:  
@@ -2899,9 +2899,9 @@ $V a l u e\;o f\;F i r m=A s s e t\;V a l u e+P V_{T a x}$  −!" +0121034&5"56&
 
 # •   Trade-off Theory – there is a trade-off between maximizing  tax shield and the costs of distress  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e2e09419db92dcbd7b92267203d60441b18532a6bf97ec605ecc4ce3b8db4dd4.jpg)  
+ ![500](Attachments/500-773.jpg)  
 # Financial Distress Costs  
-- [[Southland Corp. (c)|Financial distress]] and bankruptcy are extremely costly  
+- [Financial distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md) and bankruptcy are extremely costly  
 - Distress alone can force companies to deal with harsh terms  from suppliers and constant monitoring by creditors  
   - Banks    o   Bond holders  
 # Financial Distress Costs  
@@ -2926,7 +2926,7 @@ $V a l u e\;o f\;F i r m=A s s e t\;V a l u e+P V_{T a x}$  −!" +0121034&5"56&
 - (Almost) all creditors are “estopped”  
   - Prohibited from taking action against company to obtain  moneys owed ahead of other creditors  
 - Allows for “Debtor-In-Possession” (DIP) financing,  
-  - DIP lender obtains a “super-lien”, allowing for improved  [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] during the bankruptcy process  
+  - DIP lender obtains a “super-lien”, allowing for improved  [liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) during the bankruptcy process  
 # Chapter 11 – Reorganization  
 - Management develops a “reorganization plan” – usually a 120  day exclusive right   
 - Other creditors or equity holders may submit a plan as well  after 120 day period  
@@ -2935,7 +2935,7 @@ $V a l u e\;o f\;F i r m=A s s e t\;V a l u e+P V_{T a x}$  −!" +0121034&5"56&
 # Chapter 11 – Reorganization  
 - Specialized judge who only hears bankruptcy cases  
 - Court of equity – not of law  
-  - Vote on plan by “interested parties” – impaired creditors  §   At risk of losing money – not fully secured    o   Usually restructuring or turnaround specialists hired to  execute    o   If creditors agree, [[HomeMax Case Study Solution|restructuring plan]] is put in place.  If not,  judge may impose a plan, known as a “cram down”  
+  - Vote on plan by “interested parties” – impaired creditors  §   At risk of losing money – not fully secured    o   Usually restructuring or turnaround specialists hired to  execute    o   If creditors agree, [restructuring plan](../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/HomeMax%20Case%20Study%20Solution.md) is put in place.  If not,  judge may impose a plan, known as a “cram down”  
 # Chapter 7 – Liquidation  
 - Often begin as Chapter 11  
   - Company determined no longer viable as a going concern  o   Liquidation value greater than going concern value  
@@ -2943,7 +2943,7 @@ $V a l u e\;o f\;F i r m=A s s e t\;V a l u e+P V_{T a x}$  −!" +0121034&5"56&
 # Chapter 7 – Liquidation  
 - Assets sold  
   - Creditors paid off as proceeds received  
-  - Generally in order of their priority in the [[Introduction to Corporate Finance|capital structure]]  
+  - Generally in order of their priority in the [capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md)  
 
 §   Secured creditors  §   Un (under) secured creditors  §   Other creditors  
   - Such sales may be conducted, under Chapter 11 as well  
@@ -2965,8 +2965,8 @@ March 2, 2023
 - Plant unusable for several months  
 - Kept Chase Capital from selling at a distressed price – no  buyers  
 - Ultimately Age Refining Inc. sold to NuStar Energy LP in court  administered 363 sale  
-- Received all [[Notes on Currency Swaps|interest and principal]], including penalty interest  [[Southland Corp. (c)|Financial Distress]] Costs and Firm Value  
-- Costs of [[Southland Corp. (c)|financial distress]] are an important departure from  perfect capital markets  
+- Received all [interest and principal](../Financial%20Engineering/Notes%20on%20Currency%20Swaps.md), including penalty interest  [Financial Distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md) Costs and Firm Value  
+- Costs of [financial distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md) are an important departure from  perfect capital markets  
 - Example above demonstrates  
   - Substantial direct and indirect costs related to proceedings  
   - Negotiations with owners went on for many months:  
@@ -2980,17 +2980,17 @@ March 2, 2023
 §   Financial (turnaround)  §   Strategic  §   Accounting  §   Appraisers and Auctioneers  
 - Studies have shown that such costs average 3 to 4% of the  company’s value and as much as 10%  
 # Financial Distress Costs and Firm Value  
-- Company’s majority creditors and shareholders may agree to  a [[Southland Prepackaged Bankruptcy Submission.docx|prepackaged bankruptcy]] – a “prepack”  
+- Company’s majority creditors and shareholders may agree to  a [prepackaged bankruptcy](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Prepackaged%20Bankruptcy%20Submission.docx.md) – a “prepack”  
   - Reorganization plan agreed prior to filing Chapter 11    o   Approved relatively quickly  o   Less expensive  
 - Minimizes costs and forces acceptance by minority creditors  or shareholders  Back to the Theory:  Shareholder and Creditor Rights  
 - Shareholders have the right to put their company into  bankruptcy  
   - Not an all or nothing proposition  
   - Creditors may also place company in bankruptcy  §   Must consider Lender Liability  
-- Loss of business value typically occurs prior to formal notice of  [[Southland Corp. (c)|financial distress]] or bankruptcy filing  
+- Loss of business value typically occurs prior to formal notice of  [financial distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md) or bankruptcy filing  
   - Costs of distress or bankruptcy limited to the incremental  costs they impose on the business  
 # Ace Limited versus Ace Unlimited 3  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f0a9971784e0fce55128c75d6700b644497058956c0fbdd35007c143b65572e4.jpg)  
+ ![500](Attachments/500-809.jpg)  
 # Ace Limited versus Ace Unlimited  
 - From MM propositions we know Ace’s asset value is \$1000    
 - With Ace Unlimited, creditors know they can obtain potential  recovery from owners  
@@ -3002,7 +3002,7 @@ March 2, 2023
 # •   Assuming Ace is sold for the value of the bonds  
   - Creditors receive the remaining value after bankruptcy  costs are paid  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a7858fbdc74efe3c492f6512a163b6784fb7de533c0963668b5427065a40338a.jpg)  
+ ![500](Attachments/500-821.jpg)  
 # Indirect Costs of Bankruptcy  
 - Consent of the Bankruptcy Court is required for all financial  decisions  
   - At risk of each judge’s priorities  o   May end up on the wrong side of a cram-down 
@@ -3012,18 +3012,18 @@ March 2, 2023
 - Creditor and shareholder interests generally aligned when  company is performing as expected  
   - Interests often diverge during financial stress  
   - If firm is not in bankruptcy, owners (management) often  effectively in control of decisions  
-- Shareholders in centi viz ed to “go for broke” or to ensure that  creditors do not benefit from capital contributions if company  in [[Southland Corp. (c)|financial distress]]  
+- Shareholders in centi viz ed to “go for broke” or to ensure that  creditors do not benefit from capital contributions if company  in [financial distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md)  
 # Circular File Company  
 
 # •   Circular File is in financial distress:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/64920fcf62473ee78cfea4216833ca43fa01d2f1cba0e169995166b124136cd2.jpg)  
+ ![500](Attachments/500-674.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5a9966bc7c2d29ab90dc418db05cf9fdd1dc621bced79ab564d7ea7c6ae357c3.jpg)  
+ ![500](Attachments/500-760.jpg)  
 # Risk Shifting  
-- Shareholders win only if Circular’s value exceeds \$50 and are  presented with the following [[An Asset Allocation Primer|investment]] opportunity:  
+- Shareholders win only if Circular’s value exceeds \$50 and are  presented with the following [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunity:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f69bc1c0e29f156d7525aae39b90b90b85606868a47a18052ed800cffe694e16.jpg)  
+ ![500](Attachments/500-763.jpg)  
   - Assumptions:  
 
 §   Bonds not due for one year   §   No ability for bond holders to call a technical default  §   Circular has \$10 cash  
@@ -3031,19 +3031,19 @@ March 2, 2023
 - The project has an NPV = -\$2   o   Stock likely worthless in one year without the project   o   Shareholders use the creditors’ money to invest 
 - Market value of Circular falls to \$28  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8e461a5beca0354e36d1d4e131b8b1df524a9f69c576c67cef5e88d72d69363c.jpg)  
+ ![500](Attachments/500-683.jpg)  
 - \$10 of cash replaced by risky \$8 asset; stock value increases  Refusal to Contribute Equity Capital (Debt Overhang)  
 - Circular now has opportunity to invest in +\$5 NPV project  o   Circular should issue \$10 new stock to fund project  o   Firm value increases by \$15  
 
 §   \$8 to bond holders  §   \$7 to equity holders  
 - Shareholders do not invest since receive less than invested  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a7c01c95721038b24babae2838df647e2074b49b166961ee087acf2013da0e91.jpg)  
+ ![500](Attachments/500-667.jpg)  
 Refusal to Contribute Equity Capital (Debt Overhang)  
 - Stockholders may refuse to contribute capital to an NPV  positive project if value goes to creditors  
   - In real situations a sharing of risk and reward may be  negotiated  
 - This situation is known as Debt Overhang  
-  - Company has so much debt that new equity [[An Asset Allocation Primer|investment]]  cannot be obtained  
+  - Company has so much debt that new equity [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  cannot be obtained  
 # Additional Shareholder Strategies  
 - Cash in and Run (Tunneling)  
   - Owners always know more than creditors and may take  advantage of that knowledge    o   Allegedly took place in FTX case through misappropriating  customer funds and defrauding bank lenders  
@@ -3051,46 +3051,46 @@ Refusal to Contribute Equity Capital (Debt Overhang)
   - Disguising fraud – company purposely misleads creditors,  customers and investors  §   FTX example coming up  
 # Additional Shareholder Strategies  
 - Bait and Switch  
-  - May lead to [[Southland Corp. (c)|financial distress]] as well as use in distress  
-  - Begin to add debt after long time policy of conservative  [[Introduction to Corporate Finance|capital structure]]  
+  - May lead to [financial distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md) as well as use in distress  
+  - Begin to add debt after long time policy of conservative  [capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md)  
 
-§   Often facilitated by banks and bond investors  §   Low rates in recent years have led to increasing  [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] and decreasing credit premiums  •   “Covenant-lite” structures  
+§   Often facilitated by banks and bond investors  §   Low rates in recent years have led to increasing  [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) and decreasing credit premiums  •   “Covenant-lite” structures  
   - Increases risk of pre-existing debt  §   Lowers existing bond prices – raises equity value  
 # Agency Costs of Borrowing  
-- Lenders try to limit [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]], but  o   Competition makes this difficult  o   Ms. Ketchup:  two potential projects  
+- Lenders try to limit [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md), but  o   Competition makes this difficult  o   Ms. Ketchup:  two potential projects  
 
 §   One, low risk, low return “sure thing”  §   Second, high risk, negative NPV project  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/50e8c17ef43190ea9350da4d6a23500fb4de5423dbbf09b04a9cc90c8c606f55.jpg)  
+ ![500](Attachments/500-826.jpg)  
 # Ms. Ketchup Example  
 - Ms. Ketchup wants to borrow PV(\$10) from her bank and  will provide the remaining funds herself  
 - Bank projections show the following:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2c07bdfea5f0625c7a55caa4f5a3c977c154faba61435fda9153591c29622ce2.jpg)  
+ ![500](Attachments/500-803.jpg)  
 - What can the bank do?  
 # Ms. Ketchup Example  
 - What can the bank do?  
   - Only fund Project 1 (purpose of loan)    o   Require substantially larger equity contribution from Ms. K  to lend against Project 2  o   Place milestones and other restrictions on the company if  Project 2 is undertaken – before loan proceeds disbursed  o   Increase monitoring requirements  
 - No contract covers every eventuality  
 # Type of Asset and Cost of Distress  
-  - “Essential” businesses allow for greater [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]]  
+  - “Essential” businesses allow for greater [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)  
   - Collateral such as oil and gas in the ground valued  conservatively  
 - Businesses that borrow less than average  o   Greater cyclical it y or unable to use tax shield  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3f7e78bd6ecba96e2d31499dfc6bb02e2e4c1c6e15421139f2f35a5f1a0bbd7c.jpg)  
+ ![500](Attachments/500-728.jpg)  
 Source:  NYU Stern School of Business website, accessed August 19, 2021.  www.stern.nyu.edu.  
 # Trade-off Theory  
-- [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] based on  
-  - Degree and volatility of profits    o   Perceived [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] of assets  
-- Substantial costs to change [[Introduction to Corporate Finance|capital structure]]  o   Companies’ target specific ratios or debt rating 
+- [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) based on  
+  - Degree and volatility of profits    o   Perceived [liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) of assets  
+- Substantial costs to change [capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md)  o   Companies’ target specific ratios or debt rating 
 - Debt also viewed as disciplinary tool 
-- Companies rarely base [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] on optimal tax structure  
+- Companies rarely base [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) on optimal tax structure  
 # Pecking Order and Information Asymmetry  
 - Executive management and Board (“insiders”) know more  about company’s condition than others – including creditors  
 - Smith v Jones – volatile industry  
   - Identical opportunity for each company  
   - Current share price \$100  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d7f4656e5b1d74d64eb7c407cca8675e0ca24ddb38e1dfa67088c8edb1bd1434.jpg)  
+ ![500](Attachments/500-668.jpg)  
 # Smith v Jones  
 - Make different financing choices  
   - Smith announces issuance of 1.2 mm shares of stock    o   Jones announce issuance of \$120 million five year note  
@@ -3099,11 +3099,11 @@ Source:  NYU Stern School of Business website, accessed August 19, 2021.  www.st
 - Result:  both companies will issue debt regardless of their view  
 # Financial Slack  
 - Cash, short-term investments and unutilized credit lines  
-  - Valuable when opportunities require quick action   o   Drag on financial [[Assets|returns]] since earning well-below WACC  
+  - Valuable when opportunities require quick action   o   Drag on financial [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) since earning well-below WACC  
 - May encourage management to spend on poor earning assets  
   - “Empire” building    o   Executive perks   o   More debt may be the “cure”  
 # Theory of Optimal Capital Structure  
-- Financial world is too complex to accommodate a single  theory that explains [[Introduction to Corporate Finance|capital structure]]  
+- Financial world is too complex to accommodate a single  theory that explains [capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md)  
 - With the potential exception of banks (deposits), value comes  from the firm’s assets  
 - Mature, more stable companies tend to borrow more  
 - Growth companies tend to borrow little  
@@ -3122,9 +3122,9 @@ Source:  NYU Stern School of Business website, accessed August 19, 2021.  www.st
 On November 6, Binance announces intention to sell its holdings  of FTT, estimated at 95.5 million FTT, worth approximately \$2.1  billion 5  
   - Alameda proposes purchase of Binance’s holdings at \$22/FTT   §   Other FTT holders withdraw and sell \$5 billion of FTT  
 
-By November 8, FTT drops to \$8 and FTX attempts to find up to  \$6 billion in new [[An Asset Allocation Primer|investment]]  
+By November 8, FTT drops to \$8 and FTX attempts to find up to  \$6 billion in new [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
-[[An Asset Allocation Primer|Investment]] search fails. FTX and affiliates file for bankruptcy on  November 11  
+[Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) search fails. FTX and affiliates file for bankruptcy on  November 11  
 # Why did management oppose filing?  
 - Two key management members cooperated with federal  authorities  
   - Caroline Ellison and Zixiao “Gary” Wang  o   Presumably will testify against Bankman-Fried  
@@ -3141,5 +3141,5 @@ By November 8, FTT drops to \$8 and FTX attempts to find up to  \$6 billion in n
 # What Open Issues Remain?  
 - Understanding the extent of the fraud  
   - Determining the amount of money actually lost by  investors     o   Proving who participated in the creation and perpetuation  of the  fraud and bringing those individuals to justice  
-- Determining the role of the [[The Economist Intangible Capitalism|venture capital]] and other  investors  
+- Determining the role of the [venture capital](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Intangible%20Capitalism.md) and other  investors  
 - Establishing what changes the US and other jurisdictions  should make regarding trading in digital assets  

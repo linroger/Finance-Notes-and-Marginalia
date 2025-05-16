@@ -25,20 +25,20 @@ key_concepts:
 # Bid-Ask Prices with Adverse SelectionPrivate Information
 
 ## I. Introduction to Liquidity
-- **Definition of [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|Liquidity]]**:
+- **Definition of [Liquidity](Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md)**:
   - Many definitions exist,  but all share a common theme:
 	- Trading an asset too much or too quickly incurs costs if the asset is illiquid.
 
 ## II. The Setup
 - **Traders**:
-  - Two types: informed and uninformed ([[Bid-Ask Prices with Adverse SelectionPrivate Information|liquidity traders]]).
+  - Two types: informed and uninformed ([liquidity traders](.md)).
   - All traders and market makers are risk-neutral,  so there is no risk premium.
 
 ### A. Information Structure
 1. **Private Information**:
-   - [[Bid-Ask Prices with Adverse SelectionPrivate Information|Informed traders]] know exactly what the firm will be worth on a fixed future date.
-   - Let $V$ be the unknown value; everyone knows $V$ will be either 0 or 1,  and [[Bid-Ask Prices with Adverse SelectionPrivate Information|informed traders]] know which value will occur.
-   - Uninformed [[Bid-Ask Prices with Adverse SelectionPrivate Information|liquidity traders]] believe the probability that $V = 1$ is $\frac{1}{2}$.
+   - [Informed traders](.md) know exactly what the firm will be worth on a fixed future date.
+   - Let $V$ be the unknown value; everyone knows $V$ will be either 0 or 1,  and [informed traders](.md) know which value will occur.
+   - Uninformed [liquidity traders](.md) believe the probability that $V = 1$ is $\frac{1}{2}$.
 
    $$ 
    \begin{array}{c|c}
@@ -54,33 +54,33 @@ key_concepts:
    - This abstracts from block trading.
 
 ### B. Trading Behavior
-1. **[[Bid-Ask Prices with Adverse SelectionPrivate Information|Informed Traders]]**:
-   - Buy when the stock is underpriced at the ask,  sell when overpriced at the bid,  and do nothing if the value is between the [[Class Note 9 Bid and Ask Prices With Private Information|bid and ask]].
-1. **[[Bid-Ask Prices with Adverse SelectionPrivate Information|Liquidity Traders]]**:
-   - Buy when they have excess [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] and sell when they need [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]].
-   - Half of all [[Bid-Ask Prices with Adverse SelectionPrivate Information|liquidity traders]] buy and the other half sell,  with each [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] trader buying with probability $\frac{1}{2}$.
+1. **[Informed Traders](.md)**:
+   - Buy when the stock is underpriced at the ask,  sell when overpriced at the bid,  and do nothing if the value is between the [bid and ask](Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md).
+1. **[Liquidity Traders](.md)**:
+   - Buy when they have excess [liquidity](Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) and sell when they need [liquidity](Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md).
+   - Half of all [liquidity traders](.md) buy and the other half sell,  with each [liquidity](Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) trader buying with probability $\frac{1}{2}$.
 
-1. **[[Bid-Ask Prices with Adverse SelectionPrivate Information|Market Maker Behavior]]**:
+1. **[Market Maker Behavior](.md)**:
    - Market makers earn zero monopoly profits and break even on average across trades.
-   - They do not observe the private information of [[Bid-Ask Prices with Adverse SelectionPrivate Information|informed traders]],  leading to potential losses when trading with [[Bid-Ask Prices with Adverse SelectionPrivate Information|informed traders]].
+   - They do not observe the private information of [informed traders](.md),  leading to potential losses when trading with [informed traders](.md).
 
 ## III. Pricing Mechanics
 1. **Setting Prices**:
    - Market makers set prices first; traders then choose the type of trade at the fixed price.
-   - To break even,  market makers set a [[Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed Traders|bid-ask spread]].
-   - This means the average loss to [[Bid-Ask Prices with Adverse SelectionPrivate Information|informed traders]] equals the average profit from [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]]-motivated trades.
+   - To break even,  market makers set a [bid-ask spread](Bid%20Ask%20and%20Transaction%20Prices%20in%20a%20Specialist%20Market%20With%20Heterogeneously%20Informed%20Traders.md).
+   - This means the average loss to [informed traders](.md) equals the average profit from [liquidity](Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md)-motivated trades.
 
 1. **Break-even Conditions**:
    - The bid is the expected value of the stock given public information and the fact that a sell order arrives.
    - The ask is the expected value given all public information and the fact that a buy order arrives.
 
 ### A. Example Without Informed Traders
-- If there are no [[Bid-Ask Prices with Adverse SelectionPrivate Information|informed traders]],  the [[Class Note 9 [[Class Note 9 Bid and Ask Prices With Private Information|Bid and Ask]] Prices With Private Information|[[Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed Traders|bid-ask spread]]]] is zero.
-- If there are only [[Bid-Ask Prices with Adverse SelectionPrivate Information|informed traders]],  there is no spread allowing the [[Class Note 9 Bid and Ask Prices With Private Information|market maker]] to break even.
+- If there are no [informed traders](.md),  the [Bid and Ask](Class%20Note%209%20[[Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information) Prices With Private Information|[bid-ask spread](Bid%20Ask%20and%20Transaction%20Prices%20in%20a%20Specialist%20Market%20With%20Heterogeneously%20Informed%20Traders.md)]] is zero.
+- If there are only [informed traders](.md),  there is no spread allowing the [market maker](Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) to break even.
 
 ## IV. One Period Example
 1. **Absence of Trades**:
-   - The [[Chapter 16 - Black–Scholes Model|stock price]] would be $\frac{1}{2}$ due to the $50-50$ chance of being worth $1$ or $0$.
+   - The [stock price](../../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) would be $\frac{1}{2}$ due to the $50-50$ chance of being worth $1$ or $0$.
 
 1. **Trading Orders**:
    - When an order comes in,  the probability it is informed is $\frac{1}{2}$.
@@ -88,11 +88,11 @@ key_concepts:
 ### A. Determining the Ask Price
 1. If a buy order comes in from an informed trader:
    - The private information indicates the stock is worth $1$.
-   - The [[Class Note 9 Bid and Ask Prices With Private Information|market maker]]'s profit:
+   - The [market maker](Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md)'s profit:
 	 $$
      \text{Profit} = \text{ask} - 1
      $$
-1. If the buy is from a [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] trader:
+1. If the buy is from a [liquidity](Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) trader:
    - The average profit from the trade:
 	 $$
      \text{Profit} = \text{ask} - \left( \frac{1}{2} \cdot 1 + \frac{1}{2} \cdot 0 \right) = \text{ask} - \frac{1}{2}
@@ -111,11 +111,11 @@ key_concepts:
 ### B. Determining the Bid Price
 1. If a sell order comes from an informed trader:
    - The private information indicates the stock is worth $0$.
-   - The [[Class Note 9 Bid and Ask Prices With Private Information|market maker]]'s profit:
+   - The [market maker](Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md)'s profit:
 	 $$
      \text{Profit} = 0 - \text{bid}
      $$
-1. If the sell is from a [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] trader:
+1. If the sell is from a [liquidity](Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) trader:
    - The average profit from the trade:
 	 $$
      \text{Profit} = \frac{1}{2} - \text{bid}
@@ -132,13 +132,13 @@ key_concepts:
      $$
 
 ## V. Implications of Private Information
-1. **[[Bid-Ask Prices with Adverse SelectionPrivate Information|Price Adjustment]]**:
-   - Private information reduces [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]].
-   - The larger the fraction of [[Bid-Ask Prices with Adverse SelectionPrivate Information|informed traders]],  the larger the [[Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed Traders|bid-ask spread]],  but the quicker the price reflects private information.
+1. **[Price Adjustment](.md)**:
+   - Private information reduces [liquidity](Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md).
+   - The larger the fraction of [informed traders](.md),  the larger the [bid-ask spread](Bid%20Ask%20and%20Transaction%20Prices%20in%20a%20Specialist%20Market%20With%20Heterogeneously%20Informed%20Traders.md),  but the quicker the price reflects private information.
    - Buying or selling a security will move the price,  even without information in a competitive market.
 
-1. **[[Chapter 12 Market Efficiency|Market Efficiency]]**:
-   - [[Chapter 12 Market Efficiency|Market efficiency]] allows [[Chapter 1 Introduction to Securities Trading and Markets|trading profits]] with private information,  although it can be hard to determine if one possesses truly private information.
+1. **[Market Efficiency](../../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%2012%20Market%20Efficiency.md)**:
+   - [Market efficiency](../../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%2012%20Market%20Efficiency.md) allows [trading profits](../../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%201%20Introduction%20to%20Securities%20Trading%20and%20Markets.md) with private information,  although it can be hard to determine if one possesses truly private information.
 
 ## VI. Graphical Representation
 ```latex
@@ -192,6 +192,6 @@ key_concepts:
 
 ## VII. Results of the Model
 - **Summary**:
-  - Private information creates a [[Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed Traders|bid-ask spread]].
-  - The price adjusts to reflect new information from [[Bid-Ask Prices with Adverse SelectionPrivate Information|informed traders]].
+  - Private information creates a [bid-ask spread](Bid%20Ask%20and%20Transaction%20Prices%20in%20a%20Specialist%20Market%20With%20Heterogeneously%20Informed%20Traders.md).
+  - The price adjusts to reflect new information from [informed traders](.md).
   - Informed trading leads to price changes even in competitive markets.

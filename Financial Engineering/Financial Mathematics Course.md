@@ -34,13 +34,13 @@ key_concepts:
 Lecture Notes Universitat Ulm  
 # Content.  
 
-This course covers the fundamental principles and techniques of [[Financial Mathematics Course|financial mathematics]] in discrete and [[Financial Mathematics Course|continuous-time models]]. The focus will be on probabilistic techniques which will be discussed in some detail. Specific topics are  
+This course covers the fundamental principles and techniques of [financial mathematics](.md) in discrete and [continuous-time models](.md). The focus will be on probabilistic techniques which will be discussed in some detail. Specific topics are  
 
-Classical [[Fixed Income Asset Pricing|Asset Pricing]]: [[2. Forwards, Swaps, Futures, and Options|Mean-Variance Analysis]], CAPM, [[Arbitrage Pricing of Derivatives|Arbitrage]],
-Martingale-based stochastic market models: Fundamental Theorems of [[Fixed Income Asset Pricing|Asset Pricing]].   
-Contingent Claim Analysis: European, American and [[Exotic Interest Rate Options|Exotic]] Options.   
-.[[Financial Mathematics Course|Interest Rate Theory]]: [[Financial Mathematics Course|Term Structure Models]], Interest Rate [[Chapter 9 Arbitrage and Hedging With Options|Derivatives]].  
-Pre-requisites. Probability Theory, Calculus, [[Prerequisites|Linear Algebra]]  
+Classical [Asset Pricing](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md): [Mean-Variance Analysis](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md), CAPM, [Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md),
+Martingale-based stochastic market models: Fundamental Theorems of [Asset Pricing](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md).   
+Contingent Claim Analysis: European, American and [Exotic](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) Options.   
+.[Interest Rate Theory](.md): [Term Structure Models](.md), Interest Rate [Derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md).  
+Pre-requisites. Probability Theory, Calculus, [Linear Algebra](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Prerequisites.md)  
 # Contents  
 
 # Arbitrage Theory 5  
@@ -48,12 +48,12 @@ Pre-requisites. Probability Theory, Calculus, [[Prerequisites|Linear Algebra]]
 # 1.1 Derivative Background . 5  
 
 1.1.1 Derivative Instruments . 5   
-1.1.2 [[Rate and Price Trees|Underlying securities]] 7   
+1.1.2 [Underlying securities](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) 7   
 1.1.3 Markets 8   
 1.1.4 Types of Traders 8   
 1.1.5 Modelling Assumptions 9   
-1.2 [[Arbitrage Pricing of Derivatives|Arbitrage]] 10   
-1.3 [[Arbitrage Pricing of Derivatives|Arbitrage]] Relationships 12   
+1.2 [Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) 10   
+1.3 [Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) Relationships 12   
 1.3.1 Fundamental Determinants of Option Values 12   
 1.3.2Arbitrage bounds . 14   
 1.4 Single-Period Market Models 15   
@@ -69,25 +69,25 @@ Pre-requisites. Probability Theory, Calculus, [[Prerequisites|Linear Algebra]]
 2.1.2 Risk Aversion . 25   
 2.1.3 Further measures of risk 28   
 2.2 Optimal Portfolios 31   
-2.2.1 The [[Exercises|mean-variance]] approach 31   
-2.2.2 [[2. Forwards, Swaps, Futures, and Options|Capital asset pricing model]]. 34   
-2.2.3 [[An Asset Allocation Primer|Portfolio]] optimisation and the [[Exercises|absence of arbitrage]] 35  
+2.2.1 The [mean-variance](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) approach 31   
+2.2.2 [Capital asset pricing model](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md). 34   
+2.2.3 [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) optimisation and the [absence of arbitrage](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) 35  
 
 # 3 Discrete-time models 39  
 
 # 3.1 The model. 39  
 
-3.2 Existence of Equivalent [[Financial Mathematics Course|Martingale Measures]] 42   
-3.2.1 The No-[[Arbitrage Pricing of Derivatives|Arbitrage]] Condition 42   
-3.2.2Risk-Neutral [[Arbitrage Pricing of Derivatives|Pricing]] . 45   
+3.2 Existence of Equivalent [Martingale Measures](.md) 42   
+3.2.1 The No-[Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) Condition 42   
+3.2.2Risk-Neutral [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) . 45   
 3.3 .3Complete Markets 47   
 3.4 The Cox-Ross-Rubinstein Model 49   
 3.4.1 Model Structure 50   
-3.4.2 [[Financial Mathematics Course|Risk-Neutral Pricing]] 51   
-3.4.3 [[Key Rates O1s Durations and Hedging|Hedging]] .. 53   
-3.5 [[A Real-Life Option Pricing Exercise|Binomial]] Approximations 56   
+3.4.2 [Risk-Neutral Pricing](.md) 51   
+3.4.3 [Hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) .. 53   
+3.5 [Binomial](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) Approximations 56   
 3.5.1Model Structure 56   
-3.5.2 The [[Mathematical Modeling of Derivative Pricing|Black-Scholes]] Option [[Arbitrage Pricing of Derivatives|Pricing]] Formula. 57   
+3.5.2 The [Black-Scholes](Mathematical%20Modeling%20of%20Derivative%20Pricing.md) Option [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) Formula. 57   
 3.6 American Options 60   
 3.6.1 Stopping Times, Optional Stopping and Snell Envelopes 60   
 3.6.2 The Financial Model .. 67   
@@ -96,41 +96,41 @@ Pre-requisites. Probability Theory, Calculus, [[Prerequisites|Linear Algebra]]
 
 # Continuous-time Financial Market Models 72  
 
-4.1 The [[Black-Scholes Model|Stock Price Process]] and its [[6. A Brief Introduction to Stochastic Calculus|Stochastic Calculus]] 72  
+4.1 The [Stock Price Process](../Credit%20Markets/Black-Scholes%20Model.md) and its [Stochastic Calculus](6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md) 72  
 
 4.1.1 Continuous-time Stochastic Processes 72   
 4.1.2 Stochastic Analysis .. 73   
-4.1.3 [[Determining the Stochastic Process for a Forward Contract from Ito’s Lemma|Ito's Lemma]] 76   
+4.1.3 [Ito's Lemma](Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md) 76   
 4.1.4 Girsanov's Theorem. 79   
 Financial Market Models .. 80   
 4.2.1 The Financial Market Model 80   
-4.2.2 Equivalent [[Financial Mathematics Course|Martingale Measures]] 82   
-4.2.3 [[Financial Mathematics Course|Risk-neutral Pricing]] 83   
-4.2.4 The [[Black Scholes Derivation|Black-Scholes Model]] 84   
-4.2.5 [[Options Greeks|The Greeks]] 87   
+4.2.2 Equivalent [Martingale Measures](.md) 82   
+4.2.3 [Risk-neutral Pricing](.md) 83   
+4.2.4 The [Black-Scholes Model](../Financial%20Instruments/Black%20Scholes%20Derivation.md) 84   
+4.2.5 [The Greeks](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Options%20Greeks.md) 87   
 4.2.6 Barrier Options . 89  
 
 # 5 Interest Rate Theory 91  
 
 # 5.1 The Bond Market .  
 
-5.1.1 The [[6. A Brief Introduction to Stochastic Calculus|Term Structure of Interest Rates]]. 91   
+5.1.1 The [Term Structure of Interest Rates](6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md). 91   
 5.1.2 Mathematical Modelling 92   
-5.1.3 Bond [[Arbitrage Pricing of Derivatives|Pricing]], ... 96   
+5.1.3 Bond [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), ... 96   
 5.2 Short-rate Models 96   
 5.2.1 The Term-structure Equation. 97   
 5.2.2 Martingale Modelling 98   
-5.3 [[Implementing Heath, Jarrow & Merton (HJM) Model|Heath-Jarrow-Morton]] Methodology 99   
-5.3.1 The [[Implementing Heath, Jarrow & Merton (HJM) Model|Heath-Jarrow-Morton]] Model Class 99   
-5.3.2 Forward Risk-neutral [[Financial Mathematics Course|Martingale Measures]] 101   
-5.4 [[Arbitrage Pricing of Derivatives|Pricing]] and [[Key Rates O1s Durations and Hedging|Hedging]] Contingent Claims 102   
-5.4.1 Gaussian [[Implementing Heath, Jarrow & Merton (HJM) Model|HJM Framework]] .. 102   
+5.3 [Heath-Jarrow-Morton](Fixed%20Income%20Derivatives/Implementing%20Heath,%20Jarrow%20&%20Merton%20(HJM)%20Model.md) Methodology 99   
+5.3.1 The [Heath-Jarrow-Morton](Fixed%20Income%20Derivatives/Implementing%20Heath,%20Jarrow%20&%20Merton%20(HJM)%20Model.md) Model Class 99   
+5.3.2 Forward Risk-neutral [Martingale Measures](.md) 101   
+5.4 [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and [Hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) Contingent Claims 102   
+5.4.1 Gaussian [HJM Framework](Fixed%20Income%20Derivatives/Implementing%20Heath,%20Jarrow%20&%20Merton%20(HJM)%20Model.md) .. 102   
 5.4.2 Swaps 103   
 5.4.3 Caps 104  
 
 # A Basic Probability Background 106  
 
-A.1 [[Week 2 Fundamentals Of Forecasting|Fundamentals]] 106   
+A.1 [Fundamentals](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) 106   
 A.2 Convolution and Characteristic Functions 108   
 A.3 The Central Limit Theorem 112  
 
@@ -139,7 +139,7 @@ A.3 The Central Limit Theorem 112
 B.1 Measure 115   
 B.2 Integral 118   
 B.3Probability 120   
-B.4 Equivalent Measures and Radon-Nikodym [[Chapter 9 Arbitrage and Hedging With Options|Derivatives]] 124   
+B.4 Equivalent Measures and Radon-Nikodym [Derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) 124   
 B.5 Conditional expectation 125   
 B.6 Modes of Convergence 131  
 
@@ -156,52 +156,52 @@ C.4 Martingale Transforms 136
 
 # 1.1 Derivative Background  
 
-Definition 1.1.1. A derivative security, or contingent claim, is a financial contract whose value at [[Risk Neutral Pricing of Options|expiration date]] $T$ (more briefly, expiry) is determined exactly by the price (or prices within $a$ prespecified time-interval) of the underlying financial assets (or instruments) at time $T$ (within the time interval $[0,T]$  
+Definition 1.1.1. A derivative security, or contingent claim, is a financial contract whose value at [expiration date](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) $T$ (more briefly, expiry) is determined exactly by the price (or prices within $a$ prespecified time-interval) of the underlying financial assets (or instruments) at time $T$ (within the time interval $[0,T]$  
 
-This section provides the institutional background on [[Financial Mathematics Course|derivative securities]], the main groups of underlying assets, the markets where [[Financial Mathematics Course|derivative securities]] are traded and the financial agents involved in these activities. As our focus is on (probabilistic) models and not institutional considerations we refer the reader to the references for excellent sources describing institutions such as Davis (1994), Edwards and Ma (1992) and Kolb (1991).  
+This section provides the institutional background on [derivative securities](.md), the main groups of underlying assets, the markets where [derivative securities](.md) are traded and the financial agents involved in these activities. As our focus is on (probabilistic) models and not institutional considerations we refer the reader to the references for excellent sources describing institutions such as Davis (1994), Edwards and Ma (1992) and Kolb (1991).  
 
 # 1.1.1 Derivative Instruments  
 
-[[Financial Mathematics Course|Derivative securities]] can be grouped under three general headings: Options, [[Forward and Futures Contracts|Forwards and Futures]] and Swaps. During this text we will mainly deal with options although our [[Arbitrage Pricing of Derivatives|pricing]] techniques may be readily applied to [[Forwards and Futures|forwards]], [[Futures Not Subject to Cash-And-Carry|futures]] and swaps as well..  
+[Derivative securities](.md) can be grouped under three general headings: Options, [Forwards and Futures](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) and Swaps. During this text we will mainly deal with options although our [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) techniques may be readily applied to [forwards](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md), [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) and swaps as well..  
 
 # Options.  
 
 An option is a financial instrument giving one the right but not the obligation to make a specified transaction at (or by) a specified date at a specified price. Call options give one the right to buy. Put options give one the right to sell. European options give one the right to buy/sell on the specified date, the expiry date, on which the option expires or matures. American options give one the right to buy/sell at any time prior to or at expiry.  
 
-Over-the-counter (OTC) options were long ago negotiated by a broker between a buyer and a seller. In 1973 (the year of the [[Credit Markets Session 5|Black-Scholes formula]], perhaps the central result of the subject), the Chicago Board Options Exchange (CBOE) began trading in options on some stocks. Since. then, the growth of options has been explosive. Options are now traded on all the major world. exchanges, in enormous volumes. Risk magazine (12/97) estimated \$35 trillion as the gross figure. for worldwide derivatives markets in 1996. By contrast, the Financial Times of 7 October 2002 (Special Report on Derivatives) gives the interest rate and currency derivatives volume as. $\S$ 83 trillion - an indication of the rate of growth in recent years! The simplest [[Notes on Basic Options Properties|call and put]] options. are now so standard they are called vanilla options. Many kinds of options now exist, including so-called [[Exotic Interest Rate Options|exotic]] options. Types include: Asian options, which depend on the average price over a period, lookback options, which depend on the maximum or minimum price over a period and barrier options, which depend on some price level being attained or not.  
+Over-the-counter (OTC) options were long ago negotiated by a broker between a buyer and a seller. In 1973 (the year of the [Black-Scholes formula](../Credit%20Markets/Credit%20Markets%20Session%205.md), perhaps the central result of the subject), the Chicago Board Options Exchange (CBOE) began trading in options on some stocks. Since. then, the growth of options has been explosive. Options are now traded on all the major world. exchanges, in enormous volumes. Risk magazine (12/97) estimated \$35 trillion as the gross figure. for worldwide derivatives markets in 1996. By contrast, the Financial Times of 7 October 2002 (Special Report on Derivatives) gives the interest rate and currency derivatives volume as. $\S$ 83 trillion - an indication of the rate of growth in recent years! The simplest [call and put](../Course%20Notes/HBR%20Notes/Notes%20on%20Basic%20Options%20Properties.md) options. are now so standard they are called vanilla options. Many kinds of options now exist, including so-called [exotic](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) options. Types include: Asian options, which depend on the average price over a period, lookback options, which depend on the maximum or minimum price over a period and barrier options, which depend on some price level being attained or not.  
 
-Terminology. The asset to which the option refers is called the [[Risk Neutral Pricing of Options|underlying asset]] or the un-. derlying. The price at which the transaction to buy/sell the underlying, on/by the expiry date (if exercised), is made, is called the [[Options|exercise price]] or [[Call and Put Payoffs at Expiry|strike price]]. We shall usually use $K$ for the [[Call and Put Payoffs at Expiry|strike price]], time $t=0$ for the initial time (when the contract between the buyer and the seller of. the option is struck), time. $t=T$ for the expiry or final time..  
+Terminology. The asset to which the option refers is called the [underlying asset](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) or the un-. derlying. The price at which the transaction to buy/sell the underlying, on/by the expiry date (if exercised), is made, is called the [exercise price](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Options.md) or [strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md). We shall usually use $K$ for the [strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md), time $t=0$ for the initial time (when the contract between the buyer and the seller of. the option is struck), time. $t=T$ for the expiry or final time..  
 
-Consider, say, a European call option, with [[Call and Put Payoffs at Expiry|strike price]] $K$ ; write $S(t)$ for the value (or price). of the underlying at time. $t$ . If $S(t)>K$ , the option is in the money, if $S(t)=K$ , the option is. said to be at the money and if $S(t)<K$ , the option is out of the money.  
+Consider, say, a European call option, with [strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) $K$ ; write $S(t)$ for the value (or price). of the underlying at time. $t$ . If $S(t)>K$ , the option is in the money, if $S(t)=K$ , the option is. said to be at the money and if $S(t)<K$ , the option is out of the money.  
 
 The payoff from the option, which is  
 $$
 S(T)-K{\mathrm{~if~}}S(T)>K\quad{\mathrm{and}}\quad0{\mathrm{~otherwise}}
 $$  
 
-(more briefly written as $(S(T)-K)^{+}$ ). Taking into account the initial payment of an investor one obtains the [[PSET 4 Solution-Financial Instruments|profit diagram]] below..  
+(more briefly written as $(S(T)-K)^{+}$ ). Taking into account the initial payment of an investor one obtains the [profit diagram](../Financial%20Instruments/Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) below..  
 
 profit  
 
 ![](b991efadb49b157353998ac2e67d54bd7f559e61c063d9c0be1e944df81b545c.jpg)  
-Figure 1.1: [[PSET 4 Solution-Financial Instruments|Profit diagram]] for a European call  
+Figure 1.1: [Profit diagram](../Financial%20Instruments/Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) for a European call  
 
 # Forwards  
 
-A [[Forward Points in Currency|forward contract]] is an agreement to buy or sell an asset. $S$ at a certain future date $T$ for a certain price $K$ . The agent who agrees to buy the [[Risk Neutral Pricing of Options|underlying asset]] is said to have a [[Chapter 4 - Futures: Hedging and Speculation|long position]], the. other agent assumes a short position. The settlement date is called delivery date and the specified price is referred to as delivery price. The [[Forward Contracts and Forward Prices|forward price]]. $f(t,T)$ is the delivery price which would make the contract have zero value at time $t$ . At the time the contract is set up, $t=0$ , the [[Forward Contracts and Forward Prices|forward price]] therefore equals the delivery price, hence $f(0,T)=K$ . The forward prices $f(t,T)$ need not (and will not) necessarily be equal to the delivery price $K$ during the life-time of the contract.  
+A [forward contract](../Clippings/Forward%20Points%20in%20Currency.md) is an agreement to buy or sell an asset. $S$ at a certain future date $T$ for a certain price $K$ . The agent who agrees to buy the [underlying asset](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) is said to have a [long position](Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%204%20-%20Futures:%20Hedging%20and%20Speculation.md), the. other agent assumes a short position. The settlement date is called delivery date and the specified price is referred to as delivery price. The [forward price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md). $f(t,T)$ is the delivery price which would make the contract have zero value at time $t$ . At the time the contract is set up, $t=0$ , the [forward price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) therefore equals the delivery price, hence $f(0,T)=K$ . The forward prices $f(t,T)$ need not (and will not) necessarily be equal to the delivery price $K$ during the life-time of the contract.  
 
-The payoff from a [[Chapter 4 - Futures: Hedging and Speculation|long position]] in a [[Forward Points in Currency|forward contract]] on one unit of an asset with price $S(T)$ at the maturity of the contract is  
+The payoff from a [long position](Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%204%20-%20Futures:%20Hedging%20and%20Speculation.md) in a [forward contract](../Clippings/Forward%20Points%20in%20Currency.md) on one unit of an asset with price $S(T)$ at the maturity of the contract is  
 $$
 S(T)-K.
 $$  
 
-Compared with a call option with the same maturity and [[Call and Put Payoffs at Expiry|strike price]] $K$ we see that the investor. now faces a downside risk, too. He has the obligation to buy the asset for price $K$  
+Compared with a call option with the same maturity and [strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) $K$ we see that the investor. now faces a downside risk, too. He has the obligation to buy the asset for price $K$  
 
 # Swaps  
 
 A swap is an agreement whereby two parties undertake to exchange, at known dates in the future, various financial assets (or cash flows) according to a prearranged formula that depends on the  
 
-value of one or more underlying assets. Examples are [[Financial Instruments PSET Solutions|currency swaps]] ([[Currency Swap Basics|exchange currencies]]) and interest-rate swaps (exchange of fixed for floating set of interest payments)..  
+value of one or more underlying assets. Examples are [currency swaps](../Financial%20Instruments/Financial%20Instruments%20PSET%20Solutions.md) ([exchange currencies](../Clippings/Currency%20Swap%20Basics.md)) and interest-rate swaps (exchange of fixed for floating set of interest payments)..  
 
 # 1.1.2 Underlying securities  
 
@@ -209,102 +209,102 @@ value of one or more underlying assets. Examples are [[Financial Instruments PSE
 
 The basis of modern economic life - or of the capitalist system - is the limited liability company (UK: & Co. Ltd, now plc - public limited company), the corporation (US: Inc.), 'die Aktiengesellschaft' (Germany: AG). Such companies are owned by their shareholders; the shares.  
 
-provide partial ownership of the company, pro rata with [[An Asset Allocation Primer|investment]], have value, reflecting both the value of the company's (real) assets and the earning power of the company's dividends..  
+provide partial ownership of the company, pro rata with [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), have value, reflecting both the value of the company's (real) assets and the earning power of the company's dividends..  
 
 With publicly quoted companies, shares are quoted and traded on the Stock Exchange. Stock is the generic term for assets held in the form of shares.  
 
 # Interest Rates.  
 
-The value of some financial assets depends solely on the level of [[Interest Rate Quotations|interest rates]] (or yields), e.g. Treasury (T-) notes, T-bills, T-bonds, municipal and corporate bonds. These are fixed-income securities by which national, state and local governments and large companies partially finance their economic activity. Fixed-income securities require the payment of interest in the form of a fixed amount of money at predetermined points in time, as well as repayment of the principal at. maturity of the security. [[Interest Rate Quotations|Interest rates]] themselves are notional assets, which cannot be delivered.. [[Key Rates O1s Durations and Hedging|Hedging]] exposure to [[Interest Rate Quotations|interest rates]] is more complicated than [[Key Rates O1s Durations and Hedging|hedging]] exposure to the price movements of a certain stock. A whole [[The Vasicek Model|term structure]] is necessary for a full description of the level of [[Interest Rate Quotations|interest rates]], and for [[Key Rates O1s Durations and Hedging|hedging]] purposes one must clarify the nature of the exposure carefully. We will discuss the subject of modelling the [[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]] in Chapter 8..  
+The value of some financial assets depends solely on the level of [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) (or yields), e.g. Treasury (T-) notes, T-bills, T-bonds, municipal and corporate bonds. These are fixed-income securities by which national, state and local governments and large companies partially finance their economic activity. Fixed-income securities require the payment of interest in the form of a fixed amount of money at predetermined points in time, as well as repayment of the principal at. maturity of the security. [Interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) themselves are notional assets, which cannot be delivered.. [Hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) exposure to [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) is more complicated than [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) exposure to the price movements of a certain stock. A whole [term structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) is necessary for a full description of the level of [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md), and for [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) purposes one must clarify the nature of the exposure carefully. We will discuss the subject of modelling the [term structure of interest rates](6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md) in Chapter 8..  
 
 # Currencies.  
 
-A [[Forwards and Futures Notes|currency]] is the denomination of the national units of payment (money) and as such is a financial asset. The end of fixed exchange rates and the adoption of floating exchange rates resulted in a. sharp increase in exchange rate volatility. [[Chapter 2-The Principle Of Comparative Advantage|International trade]], and economic activity involving it, such as most manufacturing industry, involves dealing with more than one [[Forwards and Futures Notes|currency]]. A company. may wish to hedge adverse movements of foreign currencies and in doing so use derivative instru-. ments (see for example the exposure of the [[Key Rates O1s Durations and Hedging|hedging]] problems British Steel faced as a result of the. sharp increase in the pound sterling in 96/97 Rennocks (1997)).  
+A [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) is the denomination of the national units of payment (money) and as such is a financial asset. The end of fixed exchange rates and the adoption of floating exchange rates resulted in a. sharp increase in exchange rate volatility. [International trade](../International%20Finance/Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md), and economic activity involving it, such as most manufacturing industry, involves dealing with more than one [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md). A company. may wish to hedge adverse movements of foreign currencies and in doing so use derivative instru-. ments (see for example the exposure of the [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) problems British Steel faced as a result of the. sharp increase in the pound sterling in 96/97 Rennocks (1997)).  
 
 # Indexes.  
 
-An index tracks the value of a (hypothetical) basket of stocks (FT-SE100, S&P-500, DAX), bonds (REX), and so on. Again, these are not assets themselves. Derivative instruments on indexes may be used for [[Key Rates O1s Durations and Hedging|hedging]] if no derivative instruments on a particular asset (a stock, a bond, a commodity) in question are available and if the correlation in movement between the index and the asset is significant. Furthermore, institutional funds (such as pension funds, mutual funds etc.), which manage large diversified stock portfolios, try to mimic particular stock indexes and use [[Chapter 9 Arbitrage and Hedging With Options|derivatives]] on stock indexes as a [[The Impact of Option Strategies in Financial  Portfolios Performance|portfolio management]] tool. On the other hand, a speculator may wish to bet on a certain overall development in a market without exposing him/herself to a particular asset.  
+An index tracks the value of a (hypothetical) basket of stocks (FT-SE100, S&P-500, DAX), bonds (REX), and so on. Again, these are not assets themselves. Derivative instruments on indexes may be used for [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) if no derivative instruments on a particular asset (a stock, a bond, a commodity) in question are available and if the correlation in movement between the index and the asset is significant. Furthermore, institutional funds (such as pension funds, mutual funds etc.), which manage large diversified stock portfolios, try to mimic particular stock indexes and use [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) on stock indexes as a [portfolio management](Fixed%20Income%20Derivatives/The%20Impact%20of%20Option%20Strategies%20in%20Financial%20%20Portfolios%20Performance.md) tool. On the other hand, a speculator may wish to bet on a certain overall development in a market without exposing him/herself to a particular asset.  
 
-A new kind of index was generated with the Index of Catastrophe Losses (CAT-Index) by the. Chicago Board of Trade (CBOT) lately. The growing number of huge natural disasters (such as. hurricane Andrew 1992, the Kobe earthquake 1995) has led the insurance industry to try to find new ways of increasing its capacity to carry risks. The CBOT tried to capitalise on this problem. by launching a market in insurance [[Chapter 9 Arbitrage and Hedging With Options|derivatives]]. Currently investors are offered options on the CAT-Index, thereby taking in effect the position of traditional reinsurance..  
+A new kind of index was generated with the Index of Catastrophe Losses (CAT-Index) by the. Chicago Board of Trade (CBOT) lately. The growing number of huge natural disasters (such as. hurricane Andrew 1992, the Kobe earthquake 1995) has led the insurance industry to try to find new ways of increasing its capacity to carry risks. The CBOT tried to capitalise on this problem. by launching a market in insurance [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md). Currently investors are offered options on the CAT-Index, thereby taking in effect the position of traditional reinsurance..  
 
-[[Chapter 9 Arbitrage and Hedging With Options|Derivatives]] are themselves assets - they are traded, have value etc. - and so can be used as underlying assets for new contingent claims: options on [[Futures Not Subject to Cash-And-Carry|futures]], options on baskets of options, etc. These developments give rise to so-called [[Exotic Interest Rate Options|exotic]] options, demanding a sophisticated mathematical machinery to handle them.  
+[Derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) are themselves assets - they are traded, have value etc. - and so can be used as underlying assets for new contingent claims: options on [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md), options on baskets of options, etc. These developments give rise to so-called [exotic](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) options, demanding a sophisticated mathematical machinery to handle them.  
 
 # 1.1.3 Markets  
 
-[[Financial Instruments PSET Solutions|Financial derivatives]] are basically traded in two ways: on organized exchanges and over-thecounter (OTC). Organised exchanges are subject to regulatory rules, require a certain degree of standardisation of the traded instruments ([[Call and Put Payoffs at Expiry|strike price]], maturity dates, size of contract etc.) and have a physical location at which trade takes place. Examples are the Chicago Board Options Exchange (CBOE), which coincidentally opened in April 1973, the same year the seminal contributions on option prices by Black and Scholes Black and Scholes (1973) and [[Credit Markets Session 5|Merton]] [[Credit Markets Session 5|Merton]] (1973) were published, the London [[Lecture Notes on International Finance|International Financial]] [[Futures Not Subject to Cash-And-Carry|Futures]] Exchange (LIFFE) and the Deutsche Terminborse (DTB).  
+[Financial derivatives](../Financial%20Instruments/Financial%20Instruments%20PSET%20Solutions.md) are basically traded in two ways: on organized exchanges and over-thecounter (OTC). Organised exchanges are subject to regulatory rules, require a certain degree of standardisation of the traded instruments ([strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md), maturity dates, size of contract etc.) and have a physical location at which trade takes place. Examples are the Chicago Board Options Exchange (CBOE), which coincidentally opened in April 1973, the same year the seminal contributions on option prices by Black and Scholes Black and Scholes (1973) and [Merton](../Credit%20Markets/Credit%20Markets%20Session%205.md) [Merton](../Credit%20Markets/Credit%20Markets%20Session%205.md) (1973) were published, the London [International Financial](../International%20Finance/Lecture%20Notes%20on%20International%20Finance.md) [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) Exchange (LIFFE) and the Deutsche Terminborse (DTB).  
 
-OTC trading takes place via computers and phones between various commercial and [[An Asset Allocation Primer|investment]] banks (leading players include institutions such as Bankers Trust, Goldman Sachs - where Fischer Black worked, [[HBS Citigroup 2007-Financial Reporting And Regulatory Capital|Citibank]], Chase Manhattan and Deutsche Bank).  
+OTC trading takes place via computers and phones between various commercial and [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) banks (leading players include institutions such as Bankers Trust, Goldman Sachs - where Fischer Black worked, [Citibank](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital.md), Chase Manhattan and Deutsche Bank).  
 
 Due to the growing sophistication of investors boosting demand for increasingly complicated, made-to-measure products, the OTC market volume is currently (as of 1998) growing at a much faster pace than trade on most exchanges.  
 
 # 1.1.4 Types of Traders  
 
-We can classify the traders of [[Financial Mathematics Course|derivative securities]] in three different classes:  
+We can classify the traders of [derivative securities](.md) in three different classes:  
 
 # Hedgers.  
 
 Successful companies concentrate on economic activities in which they do best. They use the.   
-market to insure themselves against adverse movements of prices, currencies, [[Interest Rate Quotations|interest rates]] etc.   
-[[Key Rates O1s Durations and Hedging|Hedging]] is an attempt to reduce exposure to risk a company already faces. Shorter Oxford English.   
+market to insure themselves against adverse movements of prices, currencies, [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) etc.   
+[Hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) is an attempt to reduce exposure to risk a company already faces. Shorter Oxford English.   
 Dictionary (OED): Hedge: 'trans. To cover oneself against loss on (a bet etc.) by betting, etc.,.   
 on the other side. Also fig. 1672.'.  
 
 # Speculators.  
 
-Speculators want to take a position in the market - they take the opposite position to hedgers. Indeed, speculation is needed to make [[Key Rates O1s Durations and Hedging|hedging]] possible, in that a hedger, wishing to lay off risk, cannot do so unless someone is willing to take it on.  
+Speculators want to take a position in the market - they take the opposite position to hedgers. Indeed, speculation is needed to make [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) possible, in that a hedger, wishing to lay off risk, cannot do so unless someone is willing to take it on.  
 
-In speculation, available funds are invested opportunistically in the hope of making a profit: the underlying itself is irrelevant to the investor (speculator), who is only interested in the potential. for possible profit that trade involving it may present. [[Key Rates O1s Durations and Hedging|Hedging]], by contrast, is typically engaged in by companies who have to deal habitually in intrinsically risky assets such as foreign exchange next year, [[Futures Not Subject to Cash-And-Carry|commodities]] next year, etc. They may prefer to forgo the chance to make exceptional windfall profits when future uncertainty works to their advantage by protecting themselves against exceptional loss. This would serve to protect their economic base (trade in [[Futures Not Subject to Cash-And-Carry|commodities]], or manufacture of products using these as raw materials), and also enable them to focus their effort in their chosen area of trade or manufacture. For speculators, on the other hand, it is the market. (forex, [[Futures Not Subject to Cash-And-Carry|commodities]] or whatever) itself which is their main forum of economic activity.  
+In speculation, available funds are invested opportunistically in the hope of making a profit: the underlying itself is irrelevant to the investor (speculator), who is only interested in the potential. for possible profit that trade involving it may present. [Hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md), by contrast, is typically engaged in by companies who have to deal habitually in intrinsically risky assets such as foreign exchange next year, [commodities](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) next year, etc. They may prefer to forgo the chance to make exceptional windfall profits when future uncertainty works to their advantage by protecting themselves against exceptional loss. This would serve to protect their economic base (trade in [commodities](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md), or manufacture of products using these as raw materials), and also enable them to focus their effort in their chosen area of trade or manufacture. For speculators, on the other hand, it is the market. (forex, [commodities](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) or whatever) itself which is their main forum of economic activity.  
 
 # Arbitrageurs.  
 
-Arbitrageurs try to lock in riskless profit by simultaneously entering into transactions in two or more markets. The very existence of arbitrageurs means that there can only be very small [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]] in the prices quoted in most [[Financial Markets and Institutions Lecture Notes|financial markets]]. The underlying concept of this book is the [[Exercises|absence of arbitrage]] opportunities (cf. 1.2).  
+Arbitrageurs try to lock in riskless profit by simultaneously entering into transactions in two or more markets. The very existence of arbitrageurs means that there can only be very small [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md) in the prices quoted in most [financial markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md). The underlying concept of this book is the [absence of arbitrage](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) opportunities (cf. 1.2).  
 
 # 1.1.5 Modelling Assumptions  
 
 # Contingent Claim Pricing.  
 
-The fundamental problem in the mathematics of [[Financial Instruments PSET Solutions|financial derivatives]] is that of [[Arbitrage Pricing of Derivatives|pricing]]. The modern theory began in 1973 with the seminal [[Mathematical Modeling of Derivative Pricing|Black-Scholes]] theory of option [[Arbitrage Pricing of Derivatives|pricing]], Black and Scholes (1973), and [[Credit Markets Session 5|Merton]]'s extensions of this theory, [[Credit Markets Session 5|Merton]] (1973).  
+The fundamental problem in the mathematics of [financial derivatives](../Financial%20Instruments/Financial%20Instruments%20PSET%20Solutions.md) is that of [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). The modern theory began in 1973 with the seminal [Black-Scholes](Mathematical%20Modeling%20of%20Derivative%20Pricing.md) theory of option [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), Black and Scholes (1973), and [Merton](../Credit%20Markets/Credit%20Markets%20Session%205.md)'s extensions of this theory, [Merton](../Credit%20Markets/Credit%20Markets%20Session%205.md) (1973).  
 
-To expose the relevant features, we start by discussing contingent claim [[Arbitrage Pricing of Derivatives|pricing]] in the simplest. (idealised) case and impose the following set of assumptions on the [[Financial Markets and Institutions Lecture Notes|financial markets]] (We will relax these assumptions subsequently):  
+To expose the relevant features, we start by discussing contingent claim [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) in the simplest. (idealised) case and impose the following set of assumptions on the [financial markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) (We will relax these assumptions subsequently):  
 
 Table 1.1: General assumptions   
 
 
-<html><body><table><tr><td>Nomarketfrictions No [[Default Risk and Credit Derivatives 183|default risk]] Competitivemarkets Rationalagents Noarbitrage</td><td>No transaction costs, no bid/ask spread, no taxes, no [[Case Study Mf Globals Repo-To-Maturity Trades|margin requirements]], no restrictions on short sales Implying e interest for [[Swaps Types|borrowing and lending]] same Market participants act as price takers Market participants prefer more to less</td></tr></table></body></html>  
+<html><body><table><tr><td>Nomarketfrictions No [default risk](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/Default%20Risk%20and%20Credit%20Derivatives%20183.md) Competitivemarkets Rationalagents Noarbitrage</td><td>No transaction costs, no bid/ask spread, no taxes, no [margin requirements](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2010/Case%20Study%20Mf%20Globals%20Repo-To-Maturity%20Trades.md), no restrictions on short sales Implying e interest for [borrowing and lending](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Swaps%20Types.md) same Market participants act as price takers Market participants prefer more to less</td></tr></table></body></html>  
 
-All real markets involve frictions; this assumption is made purely for simplicity. We develop. the theory of an ideal - frictionless - market so as to focus on the irreducible essentials of the theory and as a [[Convexity|first-order approximation]] to reality. Understanding frictionless markets is also a necessary step to understand markets with frictions..  
+All real markets involve frictions; this assumption is made purely for simplicity. We develop. the theory of an ideal - frictionless - market so as to focus on the irreducible essentials of the theory and as a [first-order approximation](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%204/Convexity.md) to reality. Understanding frictionless markets is also a necessary step to understand markets with frictions..  
 
-The risk of failure of a company - bankruptcy - is inescapably present in its economic activity:. death is part of life, for companies as for individuals. Those risks also appear at the national level: quite apart from war, or economic collapse resulting from war, recent decades have seen default of interest payments of international debt, or the threat of it. We ignore [[Default Risk and Credit Derivatives 183|default risk]] for simplicity. while developing understanding of the principal aspects (for recent overviews on the subject we. refer the reader to Jameson (1995), Madan (1998)).  
+The risk of failure of a company - bankruptcy - is inescapably present in its economic activity:. death is part of life, for companies as for individuals. Those risks also appear at the national level: quite apart from war, or economic collapse resulting from war, recent decades have seen default of interest payments of international debt, or the threat of it. We ignore [default risk](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/Default%20Risk%20and%20Credit%20Derivatives%20183.md) for simplicity. while developing understanding of the principal aspects (for recent overviews on the subject we. refer the reader to Jameson (1995), Madan (1998)).  
 
 We assume financial agents to be price takers, not price makers. This implies that even large amounts of trading in a security by one agent does not influence the security's price. Hence agents can buy or sell as much of any security as they wish without changing the security's price.  
 
-To assume that market participants prefer more to less is a very weak assumption on the preferences of market participants. Apart from this we will develop a [[Utility Indices|preference]]-free theory.  
+To assume that market participants prefer more to less is a very weak assumption on the preferences of market participants. Apart from this we will develop a [preference](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md)-free theory.  
 
 The relaxation of these assumptions is subject to ongoing research and we will include comments on this in the text.  
 
-We want to mention the special character of the no-[[Arbitrage Pricing of Derivatives|arbitrage]] assumption. If we developed a. theoretical price of a financial derivative under our assumptions and this price did not coincide with the price observed, we would take this as an [[Arbitrage Pricing of Derivatives|arbitrage]] opportunity in our model and go on to. explore the consequences. This might lead to a relaxation of one of the other assumptions and a. restart of the procedure again with no-[[Arbitrage Pricing of Derivatives|arbitrage]] assumed. The no-[[Arbitrage Pricing of Derivatives|arbitrage]] assumption thus has a special status that the others do not. It is the basis for the [[Risk-Neutral Pricing|arbitrage pricing]] technique that we. shall develop, and we discuss it in more detail below..  
+We want to mention the special character of the no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) assumption. If we developed a. theoretical price of a financial derivative under our assumptions and this price did not coincide with the price observed, we would take this as an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity in our model and go on to. explore the consequences. This might lead to a relaxation of one of the other assumptions and a. restart of the procedure again with no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) assumed. The no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) assumption thus has a special status that the others do not. It is the basis for the [arbitrage pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Risk-Neutral%20Pricing.md) technique that we. shall develop, and we discuss it in more detail below..  
 
 # 1.2 Arbitrage  
 
-We now turn in detail to the concept of [[Arbitrage Pricing of Derivatives|arbitrage]], which lies at the centre of the relative [[Arbitrage Pricing of Derivatives|pricing]].   
+We now turn in detail to the concept of [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), which lies at the centre of the relative [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md).   
 theory. This approach works under very weak assumptions. We do not have to impose any.   
 assumptions on the tastes (preferences) and beliefs of market participants. The economic agents may be heterogeneous with respect to their preferences for consumption over time and with respect.   
-to their [[FORWARD RATES AND TERM STRUCTURE|expectations]] about future states of the world. All we assume is that they prefer more to.   
+to their [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) about future states of the world. All we assume is that they prefer more to.   
 less, or more precisely, an increase in consumption without any costs will always be accepted..  
 
-The principle of [[Arbitrage Pricing of Derivatives|arbitrage]] in its broadest sense is given by the following quotation from OED: '3 [Comm.]. The traffic in Bills of Exchange drawn on sundry places, and bought or sold in sight of the daily quotations of rates in the several markets. Also, the similar traffic in Stocks. 1881.'  
+The principle of [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) in its broadest sense is given by the following quotation from OED: '3 [Comm.]. The traffic in Bills of Exchange drawn on sundry places, and bought or sold in sight of the daily quotations of rates in the several markets. Also, the similar traffic in Stocks. 1881.'  
 
-Used in this broad sense, the term covers financial activity of many kinds, including trade. in options, [[Futures Not Subject to Cash-And-Carry|futures]] and foreign exchange. However, the term [[Arbitrage Pricing of Derivatives|arbitrage]] is nowadays also used in a narrower and more technical sense. [[Financial Markets and Institutions Lecture Notes|Financial markets]] involve both riskless (bank account) and risky (stocks, etc.) assets. To the investor, the only point of exposing oneself to risk is. the opportunity, or possibility, of realising a greater profit than the riskless procedure of putting all one's money in the bank (the mathematics of which - [[Continuously Compounding Interest|compound interest]] - does not require. a textbook treatment at this level). Generally speaking, the greater the risk, the greater the return required to make [[An Asset Allocation Primer|investment]] an attractive enough prospect to attract funds. Thus, for instance, a clearing bank lends to companies at higher rates than it pays to its account holders. The companies' trading activities involve risk; the bank tries to spread the risk over a range of different loans, and makes its money on the difference between high/risky and low/riskless interest. rates.  
+Used in this broad sense, the term covers financial activity of many kinds, including trade. in options, [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) and foreign exchange. However, the term [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) is nowadays also used in a narrower and more technical sense. [Financial markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) involve both riskless (bank account) and risky (stocks, etc.) assets. To the investor, the only point of exposing oneself to risk is. the opportunity, or possibility, of realising a greater profit than the riskless procedure of putting all one's money in the bank (the mathematics of which - [compound interest](../Financial%20Instruments/Review%20Session%20Notes/Continuously%20Compounding%20Interest.md) - does not require. a textbook treatment at this level). Generally speaking, the greater the risk, the greater the return required to make [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) an attractive enough prospect to attract funds. Thus, for instance, a clearing bank lends to companies at higher rates than it pays to its account holders. The companies' trading activities involve risk; the bank tries to spread the risk over a range of different loans, and makes its money on the difference between high/risky and low/riskless interest. rates.  
 
-The essence of the technical sense of [[Arbitrage Pricing of Derivatives|arbitrage]] is that it should not be possible to guarantee a profit without exposure to risk. Were it possible to do so, arbitrageurs (we use the French spelling, as is customary) would do so, in unlimited quantity, using the market as a 'money-pump' to extract arbitrarily large quantities of riskless profit. This would, for instance, make it impossible for the market to be in equilibrium. We shall restrict ourselves to markets in equilibrium for simplicity - so we must restrict ourselves to markets without [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]].  
+The essence of the technical sense of [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) is that it should not be possible to guarantee a profit without exposure to risk. Were it possible to do so, arbitrageurs (we use the French spelling, as is customary) would do so, in unlimited quantity, using the market as a 'money-pump' to extract arbitrarily large quantities of riskless profit. This would, for instance, make it impossible for the market to be in equilibrium. We shall restrict ourselves to markets in equilibrium for simplicity - so we must restrict ourselves to markets without [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md).  
 
-The above makes it clear that a market with [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]] would be a disorderly. market - too disorderly to model. The remarkable thing is the converse. It turns out that the minimal requirement of [[Exercises|absence of arbitrage]] opportunities is enough to allow one to build a model. of a financial market which - while admittedly idealised - is realistic enough both to provide real. insight and to handle the mathematics necessary to price standard contingent claims. We shall see that [[Forward Contracts and Forward Prices|arbitrage arguments]] suffice to determine prices - the [[Risk-Neutral Pricing|arbitrage pricing]] technique. For an. accessible treatment rather different to ours, see e.g. Allingham (1991)..  
+The above makes it clear that a market with [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md) would be a disorderly. market - too disorderly to model. The remarkable thing is the converse. It turns out that the minimal requirement of [absence of arbitrage](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) opportunities is enough to allow one to build a model. of a financial market which - while admittedly idealised - is realistic enough both to provide real. insight and to handle the mathematics necessary to price standard contingent claims. We shall see that [arbitrage arguments](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) suffice to determine prices - the [arbitrage pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Risk-Neutral%20Pricing.md) technique. For an. accessible treatment rather different to ours, see e.g. Allingham (1991)..  
 
-To explain the fundamental arguments of the [[Risk-Neutral Pricing|arbitrage pricing]] technique we use the following:  
+To explain the fundamental arguments of the [arbitrage pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Risk-Neutral%20Pricing.md) technique we use the following:  
 
 # Example.  
 
-Consider an investor who acts in a market in which only three financial assets are traded: (riskless) bonds $B$ (bank account), stocks $S$ and European Call options. $C$ with strike. $K=1$ on the stock.. The investor may invest today, time. $t=0$ , in all three assets, leave his [[An Asset Allocation Primer|investment]] until time. $t=T$ and get his [[Assets|returns]] back then (we assume the option expires at $t=T$ , also). We assume the current. $\mathcal{L}$ prices of the financial assets are given by.  
+Consider an investor who acts in a market in which only three financial assets are traded: (riskless) bonds $B$ (bank account), stocks $S$ and European Call options. $C$ with strike. $K=1$ on the stock.. The investor may invest today, time. $t=0$ , in all three assets, leave his [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) until time. $t=T$ and get his [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) back then (we assume the option expires at $t=T$ , also). We assume the current. $\mathcal{L}$ prices of the financial assets are given by.  
 $$
 B(0)=1,S(0)=1,C(0)=0.2
 $$  
@@ -319,90 +319,90 @@ $$
 B(T,d)=1.25,S(T,d)=0.75,\mathrm{andtherefore}C(T,d)=0.
 $$  
 
-Table 1.2: Original [[An Asset Allocation Primer|portfolio]]   
+Table 1.2: Original [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)   
 
 
 <html><body><table><tr><td>Financial asset</td><td>Number of</td><td>Total amount in f</td></tr><tr><td>Bond</td><td>10</td><td>10</td></tr><tr><td>Stock</td><td>10</td><td>10</td></tr><tr><td>Call</td><td>25</td><td>5</td></tr></table></body></html>  
 
-Now our investor has a starting capital of $\mathcal{L}25$ , and divides it as in Table 1.2 below (we call such a division a [[An Asset Allocation Primer|portfolio]]). Depending of the state of the world at time $t=T$ this [[An Asset Allocation Primer|portfolio]] will give t he $\mathcal{L}$ return shown in Table 1.3. Can the investor do better? Let us consider the restructured in the different possible future states (Table 1.5). We see that this [[An Asset Allocation Primer|portfolio]] generates the same time $t=T$ return while costing only $\mathcal{L}24.6$ now, a saving of $\mathcal{L}0.4$ against the first [[An Asset Allocation Primer|portfolio]]. So the investor should use the second [[An Asset Allocation Primer|portfolio]] and have a free lunch today!  
+Now our investor has a starting capital of $\mathcal{L}25$ , and divides it as in Table 1.2 below (we call such a division a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)). Depending of the state of the world at time $t=T$ this [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) will give t he $\mathcal{L}$ return shown in Table 1.3. Can the investor do better? Let us consider the restructured in the different possible future states (Table 1.5). We see that this [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) generates the same time $t=T$ return while costing only $\mathcal{L}24.6$ now, a saving of $\mathcal{L}0.4$ against the first [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). So the investor should use the second [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and have a free lunch today!  
 
-Table 1.3: Return of original [[An Asset Allocation Primer|portfolio]]   
+Table 1.3: Return of original [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)   
 
 
 <html><body><table><tr><td>State of the world</td><td>Bond</td><td>Stock</td><td>Call</td><td>Total</td></tr><tr><td>Up Down</td><td>12.5 12.5</td><td>17.5 7.5</td><td>18.75 0</td><td>48.75 20.</td></tr></table></body></html>  
 
-[[An Asset Allocation Primer|portfolio]] of Table 1.4. This [[An Asset Allocation Primer|portfolio]] requires only an [[An Asset Allocation Primer|investment]] of $\mathcal{L}24.6$ . We compute its return   
-Table 1.4: Restructured [[An Asset Allocation Primer|portfolio]]   
+[portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of Table 1.4. This [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) requires only an [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of $\mathcal{L}24.6$ . We compute its return   
+Table 1.4: Restructured [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)   
 
 
 <html><body><table><tr><td>Financial asset</td><td>Number of</td><td>Total amount in f</td></tr><tr><td>Bond</td><td>11.8</td><td>11.8</td></tr><tr><td>Stock</td><td>7</td><td>7</td></tr><tr><td>Call</td><td>29</td><td>5.8</td></tr></table></body></html>  
 
-In the above example the investor was able to restructure his [[An Asset Allocation Primer|portfolio]], reducing the current (time $t=0$ ) expenses without changing the return at the future date. $t=T$ in both possible states of the world. So there is an [[Arbitrage Pricing of Derivatives|arbitrage]] possibility in the above market situation, and the prices quoted are not [[Arbitrage Pricing of Derivatives|arbitrage]] (or market) prices. If we regard (as we shall do) the prices of the bond. and the stock (our underlying) as given, the option must be mispriced. We will develop in this. book models of financial market (with different degrees of sophistication) which will allow us to find methods to avoid (or to spot) such [[Arbitrage Pricing of Derivatives|pricing]] errors. For the time being, let us have a closer look at the differences between [[An Asset Allocation Primer|portfolio]] 1, consisting of 10 bonds, 10 stocks and 25 call options, in short $(10,10,25)$ , and [[An Asset Allocation Primer|portfolio]] 2, of the form (11.8, 7, 29). The difference (from the point of view of [[An Asset Allocation Primer|portfolio]] 1, say) is the following [[An Asset Allocation Primer|portfolio]], D:. $\left(-1.8,3,-4\right)$ . Sell short three stocks (see below), buy four options and put. $\mathcal{L}1.8$ in your bank account. The left-over is exactly the. $\mathcal{L}0.4$ of the example. But what is the effect of doing that? Let us consider the consequences in the possible states of the world. From Table 1.6 below, we see in both cases that the effects of the different positions of the [[An Asset Allocation Primer|portfolio]] offset themselves. But clearly the [[An Asset Allocation Primer|portfolio]] generates an income at $t=0$ and is therefore itself an [[Arbitrage Pricing of Derivatives|arbitrage]] opportunity.  
+In the above example the investor was able to restructure his [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), reducing the current (time $t=0$ ) expenses without changing the return at the future date. $t=T$ in both possible states of the world. So there is an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) possibility in the above market situation, and the prices quoted are not [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) (or market) prices. If we regard (as we shall do) the prices of the bond. and the stock (our underlying) as given, the option must be mispriced. We will develop in this. book models of financial market (with different degrees of sophistication) which will allow us to find methods to avoid (or to spot) such [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) errors. For the time being, let us have a closer look at the differences between [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) 1, consisting of 10 bonds, 10 stocks and 25 call options, in short $(10,10,25)$ , and [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) 2, of the form (11.8, 7, 29). The difference (from the point of view of [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) 1, say) is the following [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), D:. $\left(-1.8,3,-4\right)$ . Sell short three stocks (see below), buy four options and put. $\mathcal{L}1.8$ in your bank account. The left-over is exactly the. $\mathcal{L}0.4$ of the example. But what is the effect of doing that? Let us consider the consequences in the possible states of the world. From Table 1.6 below, we see in both cases that the effects of the different positions of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) offset themselves. But clearly the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) generates an income at $t=0$ and is therefore itself an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity.  
 
 If we only look at the position in bonds and stocks, we can say that this position covers us against possible price movements of the option, i.e. having. $\mathcal{L}1.8$ in your bank account and being. three stocks short has the same time. $t=T$ effects of having four call options outstanding against. us. We say that the bond/stock position is a hedge against the position in options..  
 
 Let us emphasise that the above arguments were independent of the preferences and plans of the investor. They were also independent of the interpretation of. $t=T$ : it could be a fixed time, maybe a year from now, but it could refer to the happening of a certain event, e.g. a stock hitting a certain level, exchange rates at a certain level, etc..  
 
-Table 1.5: Return of the restructured [[An Asset Allocation Primer|portfolio]]   
+Table 1.5: Return of the restructured [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)   
 
 
 <html><body><table><tr><td>State of the world</td><td>Bond</td><td>Stock</td><td>Call</td><td>Total</td></tr><tr><td>Up</td><td>14.75</td><td>12.25</td><td>21.75</td><td>48.75</td></tr><tr><td>Down</td><td>14.75</td><td>5.25</td><td>0</td><td>20.</td></tr></table></body></html>  
 
-Table 1.6: Difference [[An Asset Allocation Primer|portfolio]]   
+Table 1.6: Difference [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)   
 
 
 <html><body><table><tr><td>world is in state up</td><td>world is in state down</td></tr><tr><td>exercise option 3 buy 3 stocks at 1.75 -5.25 sell bond 2.25</td><td>option is worthless 0 buy 3 stocks at 0.75 -2.25 sell bond 2.25</td></tr><tr><td>Balance 二</td><td>Balance</td></tr></table></body></html>  
 
 # 1.3 Arbitrage Relationships  
 
-We will in this section use [[Arbitrage Pricing of Derivatives|arbitrage]]-based arguments ([[Risk-Neutral Pricing|arbitrage pricing]] technique) to develop. general bounds on the value of options. Such bounds, deduced from the underlying assumption. that no [[Arbitrage Pricing of Derivatives|arbitrage]] should be possible, allow one to test the plausibility of sophisticated financial market models.  
+We will in this section use [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-based arguments ([arbitrage pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Risk-Neutral%20Pricing.md) technique) to develop. general bounds on the value of options. Such bounds, deduced from the underlying assumption. that no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) should be possible, allow one to test the plausibility of sophisticated financial market models.  
 
 In our analysis here we use stocks as the underlying.  
 
 # 1.3.1 Fundamental Determinants of Option Values  
 
-We consider the determinants of the option value in table 1.7 below. Since we restrict ourselves to non-[[Chapter 25 - Pricing European Options|dividend paying stocks]] we don't have to consider cash dividends as another natural determinant.  
+We consider the determinants of the option value in table 1.7 below. Since we restrict ourselves to non-[dividend paying stocks](Derivatives/Part%20V%20-%20Options%20Pricing/Chapter%2025%20-%20Pricing%20European%20Options.md) we don't have to consider cash dividends as another natural determinant.  
 
 Table 1.7: Determinants affecting option value   
 
 
-<html><body><table><tr><td>Current [[Chapter 16 - Black–Scholes Model|stock price]]</td><td>S(t)</td></tr><tr><td>[[Call and Put Payoffs at Expiry|Strike price]]</td><td>K</td></tr><tr><td>Stockvolatility</td><td></td></tr><tr><td>Time to expiry</td><td>-L</td></tr><tr><td>[[Interest Rate Quotations|Interest rates]]</td><td>r</td></tr></table></body></html>  
+<html><body><table><tr><td>Current [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md)</td><td>S(t)</td></tr><tr><td>[Strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md)</td><td>K</td></tr><tr><td>Stockvolatility</td><td></td></tr><tr><td>Time to expiry</td><td>-L</td></tr><tr><td>[Interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)</td><td>r</td></tr></table></body></html>  
 
 We now examine the effects of the single determinants on the option prices (all other factors remaining unchanged).  
 
-We saw that at expiry the only variables that mattered were the [[Chapter 16 - Black–Scholes Model|stock price]] $S(T)$ and [[Call and Put Payoffs at Expiry|strike price]] $K$ : remember the payoffs $C=(S(T)-K)^{+},P=(S(T)-K)^{-}(:=\operatorname*{max}\{K-S(T),0\})$ Looking at the payoffs, we see that an increase in the [[Chapter 16 - Black–Scholes Model|stock price]] will increase (decrease) the value of a call (put) option (recall all other factors remain unchanged). The opposite happens if the [[Call and Put Payoffs at Expiry|strike price]] is increased: the price of a call (put) option will go down (up)..  
+We saw that at expiry the only variables that mattered were the [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) $S(T)$ and [strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) $K$ : remember the payoffs $C=(S(T)-K)^{+},P=(S(T)-K)^{-}(:=\operatorname*{max}\{K-S(T),0\})$ Looking at the payoffs, we see that an increase in the [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) will increase (decrease) the value of a call (put) option (recall all other factors remain unchanged). The opposite happens if the [strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) is increased: the price of a call (put) option will go down (up)..  
 
-When we buy an option, we bet on a favourable outcome. The actual outcome is uncertain; its uncertainty is represented by a probability density; favourable outcomes are governed by the tails. of the density (right or left tail for a call or a put option). An increase in volatility flattens out the density and thickens the tails, so increases the value of both [[Notes on Basic Options Properties|call and put]] options. Of course, this. argument again relies on the fact that we don't suffer from (with the increase of volatility more. likely) more severe unfavourable outcomes - we have the right, but not the obligation, to exercise. the option.  
+When we buy an option, we bet on a favourable outcome. The actual outcome is uncertain; its uncertainty is represented by a probability density; favourable outcomes are governed by the tails. of the density (right or left tail for a call or a put option). An increase in volatility flattens out the density and thickens the tails, so increases the value of both [call and put](../Course%20Notes/HBR%20Notes/Notes%20on%20Basic%20Options%20Properties.md) options. Of course, this. argument again relies on the fact that we don't suffer from (with the increase of volatility more. likely) more severe unfavourable outcomes - we have the right, but not the obligation, to exercise. the option.  
 
-A heuristic statement of the effects of time to expiry or [[Interest Rate Quotations|interest rates]] is not so easy to make.. In the simplest of models (no dividends, [[Interest Rate Quotations|interest rates]] remain fixed during the period under consideration), one might argue that the longer the time to expiry the more can happen to the price of a stock. Therefore a longer period increases the possibility of movements of the [[Chapter 16 - Black–Scholes Model|stock price]]. and hence the value of a call (put) should be higher the more time remains before expiry. But only the owner of an American-type option can react immediately to favourable price movements,. whereas the owner of a European option has to wait until expiry, and only the [[Chapter 16 - Black–Scholes Model|stock price]] then is relevant. Observe the contrast with volatility: an increase in volatility increases the likelihood of favourable outcomes at expiry, whereas the [[Chapter 16 - Black–Scholes Model|stock price]] movements before expiry may cancel out themselves. A longer time until expiry might also increase the possibility of adverse effects from which the [[Chapter 16 - Black–Scholes Model|stock price]] has to recover before expiry. We see that by using purely heuristic. arguments we are not able to make precise statements. One can, however, show by explicit [[Forward Contracts and Forward Prices|arbitrage arguments]] that an increase in time to expiry leads to an increase in the value of call options as well as put options. (We should point out that in case of a dividend-paying stock the. statement is not true in general for European-type options.).  
+A heuristic statement of the effects of time to expiry or [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) is not so easy to make.. In the simplest of models (no dividends, [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) remain fixed during the period under consideration), one might argue that the longer the time to expiry the more can happen to the price of a stock. Therefore a longer period increases the possibility of movements of the [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md). and hence the value of a call (put) should be higher the more time remains before expiry. But only the owner of an American-type option can react immediately to favourable price movements,. whereas the owner of a European option has to wait until expiry, and only the [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) then is relevant. Observe the contrast with volatility: an increase in volatility increases the likelihood of favourable outcomes at expiry, whereas the [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) movements before expiry may cancel out themselves. A longer time until expiry might also increase the possibility of adverse effects from which the [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) has to recover before expiry. We see that by using purely heuristic. arguments we are not able to make precise statements. One can, however, show by explicit [arbitrage arguments](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) that an increase in time to expiry leads to an increase in the value of call options as well as put options. (We should point out that in case of a dividend-paying stock the. statement is not true in general for European-type options.).  
 
-To qualify the effects of the interest rate we have to consider two aspects. An increase in the. interest rate tends to increase the expected growth rate in an economy and hence the [[Chapter 16 - Black–Scholes Model|stock price]] tends to increase. On the other hand, the present value of any future cash fows decreases. These two effects both decrease the value of a put option, while the first effect increases the value of a call option. However, it can be shown that the first effect always dominates the second effect, so. the value of a call option will increase with increasing [[Interest Rate Quotations|interest rates]]..  
+To qualify the effects of the interest rate we have to consider two aspects. An increase in the. interest rate tends to increase the expected growth rate in an economy and hence the [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) tends to increase. On the other hand, the present value of any future cash fows decreases. These two effects both decrease the value of a put option, while the first effect increases the value of a call option. However, it can be shown that the first effect always dominates the second effect, so. the value of a call option will increase with increasing [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)..  
 
-The above heuristic statements, in particular the last, will be verified again in appropriate models of [[Financial Markets and Institutions Lecture Notes|financial markets]], see \$4.5.4 and 6.2.3..  
+The above heuristic statements, in particular the last, will be verified again in appropriate models of [financial markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md), see \$4.5.4 and 6.2.3..  
 
-We summarise in table 1.8 the effect of an increase of one of the parameters on the value of options on non-[[Chapter 25 - Pricing European Options|dividend paying stocks]] while keeping all others fixed:  
+We summarise in table 1.8 the effect of an increase of one of the parameters on the value of options on non-[dividend paying stocks](Derivatives/Part%20V%20-%20Options%20Pricing/Chapter%2025%20-%20Pricing%20European%20Options.md) while keeping all others fixed:  
 
 Table 1.8: Effects of parameters   
 
 
-<html><body><table><tr><td>Parameter (increase)</td><td>Call</td><td>Put</td></tr><tr><td>[[Chapter 16 - Black–Scholes Model|Stock price]] [[Call and Put Payoffs at Expiry|Strike price]] Volatility [[Interest Rate Quotations|Interest rates]] Time to expiry</td><td>Positive Negative Positive Positive Positive</td><td>Negative Positive Positive Negative</td></tr></table></body></html>  
+<html><body><table><tr><td>Parameter (increase)</td><td>Call</td><td>Put</td></tr><tr><td>[Stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) [Strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) Volatility [Interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) Time to expiry</td><td>Positive Negative Positive Positive Positive</td><td>Negative Positive Positive Negative</td></tr></table></body></html>  
 
-We would like to emphasise again that these results all assume that all other variables remain fixed, which of course is not true in practice. For example stock prices tend to fall (rise) when [[Interest Rate Quotations|interest rates]] rise (fall) and the observable effect on option prices may well be different from the effects deduced under our assumptions.  
+We would like to emphasise again that these results all assume that all other variables remain fixed, which of course is not true in practice. For example stock prices tend to fall (rise) when [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) rise (fall) and the observable effect on option prices may well be different from the effects deduced under our assumptions.  
 
-Cox and Rubinstein (1985), p. 37-39, discuss other possible determining factors of option. value, such as expected rate of growth of the [[Chapter 16 - Black–Scholes Model|stock price]], additional properties of [[Chapter 16 - Black–Scholes Model|stock price]]. movements, investors' attitudes toward risk, characteristics of other assets and institutional environment (tax rules, [[Case Study Mf Globals Repo-To-Maturity Trades|margin requirements]], transaction costs, [[Market Structure and Size|market structure]]). They show that.  
+Cox and Rubinstein (1985), p. 37-39, discuss other possible determining factors of option. value, such as expected rate of growth of the [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md), additional properties of [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md). movements, investors' attitudes toward risk, characteristics of other assets and institutional environment (tax rules, [margin requirements](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2010/Case%20Study%20Mf%20Globals%20Repo-To-Maturity%20Trades.md), transaction costs, [market structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2010/Market%20Structure%20and%20Size.md)). They show that.  
 
 in many important circumstances the influence of these variables is marginal or even vanishing.  
 
 # 1.3.2 Arbitrage bounds  
 
-We now use the principle of no-[[Arbitrage Pricing of Derivatives|arbitrage]] to obtain bounds for option prices. Such bounds, de-. duced from the underlying assumption that no [[Arbitrage Pricing of Derivatives|arbitrage]] should be possible, allow one to test the plausibility of sophisticated financial market models. We focus on European options (puts. and calls) with identical underlying (say a stock. $S$ ), strike $K$ and expiry date $T$ . Furthermore we assume the existence of a risk-free bank account (bond) with constant interest rate. $r$ (continuously compounded) during the time interval $[0,T]$ . We start with a fundamental relationship:  
+We now use the principle of no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) to obtain bounds for option prices. Such bounds, de-. duced from the underlying assumption that no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) should be possible, allow one to test the plausibility of sophisticated financial market models. We focus on European options (puts. and calls) with identical underlying (say a stock. $S$ ), strike $K$ and expiry date $T$ . Furthermore we assume the existence of a risk-free bank account (bond) with constant interest rate. $r$ (continuously compounded) during the time interval $[0,T]$ . We start with a fundamental relationship:  
 
-Proposition 1.3.1. We have the following [[7. Black Scholes Model|put-call parity]] between the prices of the [[Risk Neutral Pricing of Options|underlying asset]] $S$ and European [[Notes on Basic Options Properties|call and put]] options on stocks that pay no dividends:.  
+Proposition 1.3.1. We have the following [put-call parity](7.%20Black%20Scholes%20Model.md) between the prices of the [underlying asset](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) $S$ and European [call and put](../Course%20Notes/HBR%20Notes/Notes%20on%20Basic%20Options%20Properties.md) options on stocks that pay no dividends:.  
 $$
 S+P-C=K e^{-r(T-t)}.
 $$  
 
-Proof. Consider a [[An Asset Allocation Primer|portfolio]] consisting of one stock, one put and a short position in one call (the holder of the [[An Asset Allocation Primer|portfolio]] has written the call); write. $V(t)$ for the value of this [[An Asset Allocation Primer|portfolio]]. Then.  
+Proof. Consider a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) consisting of one stock, one put and a short position in one call (the holder of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) has written the call); write. $V(t)$ for the value of this [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). Then.  
 $$
 V(t)=S(t)+P(t)-C(t)
 $$  
@@ -412,7 +412,7 @@ $$
 V(T)=S(T)+(S(T)-K)^{-}-(S(T)-K)^{+}=S(T)+K-S(T)=K.
 $$  
 
-This [[An Asset Allocation Primer|portfolio]] thus guarantees a payoff $K$ at time $T$ .Using the principle of no-[[Arbitrage Pricing of Derivatives|arbitrage]], the value of the [[An Asset Allocation Primer|portfolio]] must at any time $t$ correspond to the value of a sure payoff $K$ at $T$ , that is. V(t) = Ke-r(T-t).  
+This [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) thus guarantees a payoff $K$ at time $T$ .Using the principle of no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), the value of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) must at any time $t$ correspond to the value of a sure payoff $K$ at $T$ , that is. V(t) = Ke-r(T-t).  
 
 Having established (1.1), we concentrate on European calls in the following.  
 
@@ -425,26 +425,26 @@ Proof. That $C\geq0$ is obvious, otherwise buying' the call would give a riskles
 
 Similarly the upper bound $C\leq S$ must hold, since violation would mean that the right to. buy the stock has a higher value than owning the stock. This must be false, since a stock offers additional benefits.  
 
-Now from [[7. Black Scholes Model|put-call parity]] (1.1) and the fact that $P\geq0$ (use the same argument as above), we. have  
+Now from [put-call parity](7.%20Black%20Scholes%20Model.md) (1.1) and the fact that $P\geq0$ (use the same argument as above), we. have  
 $$
 S(t)-K e^{-r(T-t)}=C(t)-P(t)\leq C(t),
 $$  
 
 which proves the last assertion.  
 
-It is immediately clear that an American call option can never be worth less than the corresponding European call option, for the American option has the added feature of being able to be exercised at any time until the maturity date. Hence (with the obvious notation): $C_{A}(t)\geq C_{E}(t)$ The striking result we are going to show (due to R.C. [[Credit Markets Session 5|Merton]] in 1973, ([[Credit Markets Session 5|Merton]] 1990), Theorem 8.2) is:  
+It is immediately clear that an American call option can never be worth less than the corresponding European call option, for the American option has the added feature of being able to be exercised at any time until the maturity date. Hence (with the obvious notation): $C_{A}(t)\geq C_{E}(t)$ The striking result we are going to show (due to R.C. [Merton](../Credit%20Markets/Credit%20Markets%20Session%205.md) in 1973, ([Merton](../Credit%20Markets/Credit%20Markets%20Session%205.md) 1990), Theorem 8.2) is:  
 
 Proposition 1.3.3. For a non-dividend paying stock we have  
 $$
 C_{A}(t)=C_{E}(t).
 $$  
 
-Proof. Exercising the American call at time $t<T$ generates the cash-flow $S(t)-K$ .From Proposition 1.3.2 we know that the value of the call must be greater or equal to $S(t)-K e^{-r(T-t)}$ which is greater than $S(t)-K$ . Hence selling the call would have realised a higher cash-flow and. the [[Bond Futures Options|early exercise]] of the call was suboptimal.  
+Proof. Exercising the American call at time $t<T$ generates the cash-flow $S(t)-K$ .From Proposition 1.3.2 we know that the value of the call must be greater or equal to $S(t)-K e^{-r(T-t)}$ which is greater than $S(t)-K$ . Hence selling the call would have realised a higher cash-flow and. the [early exercise](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Bond%20Futures%20Options.md) of the call was suboptimal.  
 
 Remark 1.3.1. Qualitatively, there are two reasons why an American call should not be exercised early:  
 
-(i) Insurance. An investor who holds a call option instead of the underlying stock is insured against a fall in [[Chapter 16 - Black–Scholes Model|stock price]] below $K$ , and if he [[Exercises|exercises]] early, he loses this insurance.   
-(ii) Interest on the [[Call and Put Payoffs at Expiry|strike price]]. When the holder [[Exercises|exercises]] the option, he buys the stock and pays the [[Call and Put Payoffs at Expiry|strike price]], $K$ .[[Bond Futures Options|Early exercise]] at $t<T$ deprives the holder of the interest on $K$ between times t and $^T$ : the later he pays out $K$ , the better.  
+(i) Insurance. An investor who holds a call option instead of the underlying stock is insured against a fall in [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) below $K$ , and if he [exercises](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) early, he loses this insurance.   
+(ii) Interest on the [strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md). When the holder [exercises](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) the option, he buys the stock and pays the [strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md), $K$ .[Early exercise](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Bond%20Futures%20Options.md) at $t<T$ deprives the holder of the interest on $K$ between times t and $^T$ : the later he pays out $K$ , the better.  
 
 We remark that an American put offers additional value compared to a European put.  
 
@@ -452,27 +452,27 @@ We remark that an American put offers additional value compared to a European pu
 
 # 1.4.1 A fundamental example  
 
-We consider a [[Exercises|one-period model]], i.e. we allow trading only at $t=0$ and $t=T=1(\mathrm{say})$ . Our aim is to value at. $t=0$ a European derivative on a stock $S$ with maturity. $T$  
+We consider a [one-period model](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md), i.e. we allow trading only at $t=0$ and $t=T=1(\mathrm{say})$ . Our aim is to value at. $t=0$ a European derivative on a stock $S$ with maturity. $T$  
 
-First idea. Model. $S_{T}$ as a random variable on a [[Uncertainty Information and Stochastic Processes|probability space]] $(\Omega,{\mathcal{F}},I P)$ . The derivative is given by $H=f(S_{T})$ , i.e. it is a random variable (for a suitable function $f(.)$ ). We could then. price the derivative using some [[Discount Factors|discount factor]] $\beta$ by using the expected value of the discounted future payoff:  
+First idea. Model. $S_{T}$ as a random variable on a [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md) $(\Omega,{\mathcal{F}},I P)$ . The derivative is given by $H=f(S_{T})$ , i.e. it is a random variable (for a suitable function $f(.)$ ). We could then. price the derivative using some [discount factor](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) $\beta$ by using the expected value of the discounted future payoff:  
 $$
 H_{0}=D E(\beta H).
 $$  
 
 Problem. How should we pick the probability measure. $\mathcal{W}$ ?According to their preferences. investors will have different opinions about the distribution of the price $S_{T}$  
 
-[[Mathematical Modeling of Derivative Pricing|Black-Scholes]]-[[Credit Markets Session 5|Merton]] (Ross) approach. Use the [[Credit Default Swaps|no-arbitrage principle]] and construct a [[Key Rates O1s Durations and Hedging|hedging]] [[An Asset Allocation Primer|portfolio]] using only known (and already priced) securities to duplicate the payoff $H$ .We assume  
+[Black-Scholes](Mathematical%20Modeling%20of%20Derivative%20Pricing.md)-[Merton](../Credit%20Markets/Credit%20Markets%20Session%205.md) (Ross) approach. Use the [no-arbitrage principle](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Credit%20Default%20Swaps.md) and construct a [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) using only known (and already priced) securities to duplicate the payoff $H$ .We assume  
 
 1. Investors are non-satiable, i.e. they always prefer more to less.   
-2. Markets do not allow [[Arbitrage Pricing of Derivatives|arbitrage]] , i.e. the possibility of risk-free profits.  
+2. Markets do not allow [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) , i.e. the possibility of risk-free profits.  
 
-From the [[Credit Default Swaps|no-arbitrage principle]] we see:  
+From the [no-arbitrage principle](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Credit%20Default%20Swaps.md) we see:  
 
-If it is possible to duplicate the payoff $H$ of a derivative using a [[An Asset Allocation Primer|portfolio]] $V$ of underlying (basic). securities, i.e. $H(\omega)=V(\omega)$ $\forall\omega$ , the price of the [[An Asset Allocation Primer|portfolio]] at $t=0$ must equal the price of the derivative at. $t=0$  
+If it is possible to duplicate the payoff $H$ of a derivative using a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $V$ of underlying (basic). securities, i.e. $H(\omega)=V(\omega)$ $\forall\omega$ , the price of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) at $t=0$ must equal the price of the derivative at. $t=0$  
 
 Let us assume there are two tradeable assets  
 
-: a riskfree bond (bank account) with $B(0)=1$ and $B(T)=1$ , that is the interest rate $r=0$ and the [[Discount Factors|discount factor]] $\beta(t)=1$ .(In this context we use. $\beta(t)=1/B(t)$ as the [[Discount Factors|discount factor]]).  
+: a riskfree bond (bank account) with $B(0)=1$ and $B(T)=1$ , that is the interest rate $r=0$ and the [discount factor](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) $\beta(t)=1$ .(In this context we use. $\beta(t)=1/B(t)$ as the [discount factor](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md)).  
 
 a risky stock $S$ with $S(0)=10$ and two possible values at $t=T$  
 $$
@@ -481,50 +481,50 @@ $$
 
 We call this setting a $(B,S)-$ market. The problem is to price a European call at $t=0$ with strike $K=15$ and maturity $T$ , i.e. the random payoff. $H=(S(T)-K)^{+}$ . We can evaluate the call in every possible state at. $t=T$ and see $H=5$ (if $S(T)=20$ ) with probability $p$ and $H=0$ (if $S(T)=7.5$ ) with probability $1-p$ . This is illustrated in figure (1.4.1).  
 
-The key idea now is to try to find a [[An Asset Allocation Primer|portfolio]] combining bond and stock, which synthesizes the [[Preview of the Book|cash flow]] of the option. If such a [[An Asset Allocation Primer|portfolio]] exists, holding this [[An Asset Allocation Primer|portfolio]] today would be equivalent to holding the option - they would produce the same [[Preview of the Book|cash flow]] in the future. Therefore the price of the option should be the same as the price of constructing the [[An Asset Allocation Primer|portfolio]], otherwise investors could just restructure their holdings in the assets and obtain a riskfree profit today.  
+The key idea now is to try to find a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) combining bond and stock, which synthesizes the [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) of the option. If such a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) exists, holding this [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) today would be equivalent to holding the option - they would produce the same [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) in the future. Therefore the price of the option should be the same as the price of constructing the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), otherwise investors could just restructure their holdings in the assets and obtain a riskfree profit today.  
 
 ![](ab3438638b76b47c8b52a633d92876a8a9bf2afafa8f4a494e424976392037a0.jpg)  
 Figure 1.2: One-period example  
 
-We briefly present the constructing of the [[An Asset Allocation Primer|portfolio]] $\pmb{\theta}=(\theta_{0},\theta_{1})$ , which in the current setting is. just a simple exercise in [[Prerequisites|linear algebra]]. If we buy. $\theta_{1}$ stocks and invest $\theta_{0}$ $\mathrm{\mathcal{L}}$ in the bank account,. then today's value of the [[An Asset Allocation Primer|portfolio]] is  
+We briefly present the constructing of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $\pmb{\theta}=(\theta_{0},\theta_{1})$ , which in the current setting is. just a simple exercise in [linear algebra](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Prerequisites.md). If we buy. $\theta_{1}$ stocks and invest $\theta_{0}$ $\mathrm{\mathcal{L}}$ in the bank account,. then today's value of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is  
 $$
 V(0)=\theta_{0}+\theta_{1}\cdot S(0).
 $$  
 
-In state 1 the [[Chapter 16 - Black–Scholes Model|stock price]] is $20~\mathrm{£}\mathrm{~d}^{.}$ and the value of the option $^\textrm{\scriptsize5\textrm{d}}$ , so  
+In state 1 the [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) is $20~\mathrm{£}\mathrm{~d}^{.}$ and the value of the option $^\textrm{\scriptsize5\textrm{d}}$ , so  
 $$
 \theta_{0}+\theta_{1}\cdot20=5.
 $$  
 
-In state 2 the [[Chapter 16 - Black–Scholes Model|stock price]] is 7.5  and the value of the option $0 \$£^{\ast}$ , SO  $$
+In state 2 the [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) is 7.5  and the value of the option $0 \$£^{\ast}$ , SO  $$
 \theta_{0}+\theta_{1}\cdot7.5=0.
 $$
 
-We solve this and get $\theta_{0}=-3\quad\mathrm{and}\quad\theta_{1}=0.4$ So the value of our [[An Asset Allocation Primer|portfolio]] at time $0$ in $£$ is  
+We solve this and get $\theta_{0}=-3\quad\mathrm{and}\quad\theta_{1}=0.4$ So the value of our [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) at time $0$ in $£$ is  
 $$
 V(0)=-3B(0)+0.4S(0)=-3+0.4\times10=1
 $$  
-$V(0)$ is called the [[Exercises|no-arbitrage price]]. Every other price allows a riskless profit, since if the option is too cheap, buy it and finance yourself by selling short the above [[An Asset Allocation Primer|portfolio]] (i.e. sell the [[An Asset Allocation Primer|portfolio]] without possessing it and promise to deliver it at time $T=1$ this is riskfree because you own the option). If on the other hand the option is too dear, write it (i.e. sell it in the market) and cover yourself by setting up the above [[An Asset Allocation Primer|portfolio]].  
+$V(0)$ is called the [no-arbitrage price](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md). Every other price allows a riskless profit, since if the option is too cheap, buy it and finance yourself by selling short the above [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) (i.e. sell the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) without possessing it and promise to deliver it at time $T=1$ this is riskfree because you own the option). If on the other hand the option is too dear, write it (i.e. sell it in the market) and cover yourself by setting up the above [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md).  
 
-We see that the [[Exercises|no-arbitrage price]] is independent of the individual preferences of the investor. (given by certain probability assumptions about the future, i.e. a probability measure $\mathcal{W}$ ).But one can identify a special, so called risk-neutral, probability measure. ${\mathcal{M}}^{*}$ , such that  
+We see that the [no-arbitrage price](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) is independent of the individual preferences of the investor. (given by certain probability assumptions about the future, i.e. a probability measure $\mathcal{W}$ ).But one can identify a special, so called risk-neutral, probability measure. ${\mathcal{M}}^{*}$ , such that  
 $$
 {\cal H}_{0}={\cal I}E^{*}\left(\beta{\cal H}\right)=\left(p^{*}\cdot\beta(S_{1}-K)+\left(1-p^{*}\right)\cdot0\right)=1.
 $$  
 
-In the above example we get from $1=p^{*}5+(1-p^{*})0$ that $p^{*}=0.2$ This probability measure ${\mathcal{N}}^{*}$ is equivalent to $\mathcal{W}$ , and the [[Verifying Martingale Property with Q|discounted stock price]] process, i.e. $\beta_{t}S_{t},t=0,1$ follows a ${\mathcal{N}}^{*}$ martingale. In the above example this corresponds to $S(0)=p^{*}S(T)^{u p}+(1-p^{*})S(T)^{d o w n}$ , that is $S(0)=I E^{*}\left(\beta S(T)\right)$  
+In the above example we get from $1=p^{*}5+(1-p^{*})0$ that $p^{*}=0.2$ This probability measure ${\mathcal{N}}^{*}$ is equivalent to $\mathcal{W}$ , and the [discounted stock price](Verifying%20Martingale%20Property%20with%20Q.md) process, i.e. $\beta_{t}S_{t},t=0,1$ follows a ${\mathcal{N}}^{*}$ martingale. In the above example this corresponds to $S(0)=p^{*}S(T)^{u p}+(1-p^{*})S(T)^{d o w n}$ , that is $S(0)=I E^{*}\left(\beta S(T)\right)$  
 
-We will show that the above generalizes. Indeed, we will find that the no-[[Arbitrage Pricing of Derivatives|arbitrage]] condition is equivalent to the existence of an equivalent martingale measure (first [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|fundamental theorem]] of [[Fixed Income Asset Pricing|asset pricing]]) and that the property that we can price assets using the expectation operator is equivalent to the uniqueness of the equivalent martingale measure..  
+We will show that the above generalizes. Indeed, we will find that the no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) condition is equivalent to the existence of an equivalent martingale measure (first [fundamental theorem](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of [asset pricing](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md)) and that the property that we can price assets using the expectation operator is equivalent to the uniqueness of the equivalent martingale measure..  
 
-Let us consider the construction of [[Key Rates O1s Durations and Hedging|hedging]] strategies from a different perspective. Consider a one-period $(B,S)-$ market setting with [[Discount Factors|discount factor]] $\beta=1$ . Assume we want to replicate a derivative $H$ (that is a random variable on some [[Uncertainty Information and Stochastic Processes|probability space]] $(\Omega,\mathcal{F},I P)$ . For each [[The Value of the Swap Contract after Initiation|hedging strategy]] $\pmb{\theta}=(\theta_{0},\theta_{1})$ we have an initial value of the [[An Asset Allocation Primer|portfolio]] $V(0)=\theta_{0}+\theta_{1}S(0)$ and a time $t=T$ value of $V(T)=\theta_{0}+\theta_{1}S(T)$ . We can write $V(T)=V(0)+\left(V(T)-V(0)\right)$ with $G(T)=$ $V(T)-V(0)=\theta_{1}(S(T)-S(0))$ the gains from trading. So the costs $C(0)$ of setting up this [[An Asset Allocation Primer|portfolio]] at time $t=0$ are given by $C(0)=V(0)$ , while maintaining (or achieving) a perfect hedge at $t=T$ requires an additional capital of $C(T)=H-V(T)$ . Thus we have two possibilities for finding 'optimal' [[Key Rates O1s Durations and Hedging|hedging]] strategies:  
+Let us consider the construction of [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) strategies from a different perspective. Consider a one-period $(B,S)-$ market setting with [discount factor](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) $\beta=1$ . Assume we want to replicate a derivative $H$ (that is a random variable on some [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md) $(\Omega,\mathcal{F},I P)$ . For each [hedging strategy](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/The%20Value%20of%20the%20Swap%20Contract%20after%20Initiation.md) $\pmb{\theta}=(\theta_{0},\theta_{1})$ we have an initial value of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $V(0)=\theta_{0}+\theta_{1}S(0)$ and a time $t=T$ value of $V(T)=\theta_{0}+\theta_{1}S(T)$ . We can write $V(T)=V(0)+\left(V(T)-V(0)\right)$ with $G(T)=$ $V(T)-V(0)=\theta_{1}(S(T)-S(0))$ the gains from trading. So the costs $C(0)$ of setting up this [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) at time $t=0$ are given by $C(0)=V(0)$ , while maintaining (or achieving) a perfect hedge at $t=T$ requires an additional capital of $C(T)=H-V(T)$ . Thus we have two possibilities for finding 'optimal' [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) strategies:  
 
-[[Exercises|Mean-variance]] [[Key Rates O1s Durations and Hedging|hedging]]. Find $\theta_{0}$ (or alternatively $V(0)$ ) and $\theta_{1}$ such that  
+[Mean-variance](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md). Find $\theta_{0}$ (or alternatively $V(0)$ ) and $\theta_{1}$ such that  
 $$
 E\left((H-V(T))^{2}\right)=E\left(\left(H-\left(V(0)+\theta_{1}(S(T)-S(0))\right)\right)^{2}\right)\rightarrow\mathrm{min}
 $$  
 
-.Risk-minimal [[Key Rates O1s Durations and Hedging|hedging]]. Minimize the cost from trading, i.e. an appropriate functional involving the costs $C(t)$ $t=0,T$  
+.Risk-minimal [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md). Minimize the cost from trading, i.e. an appropriate functional involving the costs $C(t)$ $t=0,T$  
 
-In our example [[Exercises|mean-variance]] [[Key Rates O1s Durations and Hedging|hedging]] corresponds to the standard linear regression problem, and SO  
+In our example [mean-variance](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) corresponds to the standard linear regression problem, and SO  
 $$
 \theta_{1}=\frac{{\pmb C}o v(H,({\cal S}(T)-{\cal S}(0)))}{{\pmb W}a r({\cal S}(T)-{\cal S}(0))}\mathrm{and}V_{0}={\pmb E}(H)-\theta_{1}{\pmb E}({\cal S}(T)-{\cal S}(0)).
 $$  
@@ -534,7 +534,7 @@ $$
 R_{\mathrm{min}}={\cal V}a r(H)-\theta_{1}^{2}{\cal W}a r(S(T)-S(0))={\cal V}a r(H)(1-\rho^{2}),
 $$  
 
-where $\rho$ is the correlation coefficient of $H$ and $S(T)$ . Therefore we can't expect a perfect hedge in general. If however. $|\rho|=1$ , i.e. $H$ is a linear function of. $S(T)$ , a perfect hedge is possible. We call a [[Exercises|market complete]] if a perfect hedge is possible for all contingent claims.  
+where $\rho$ is the correlation coefficient of $H$ and $S(T)$ . Therefore we can't expect a perfect hedge in general. If however. $|\rho|=1$ , i.e. $H$ is a linear function of. $S(T)$ , a perfect hedge is possible. We call a [market complete](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) if a perfect hedge is possible for all contingent claims.  
 
 # 1.4.2 A single-period model  
 
@@ -549,12 +549,12 @@ $$
 S(0)=(S_{0}(0),S_{1}(0),\ldots,S_{d}(0))^{\prime}
 $$  
 
-(where $'$ denotes the transpose of a vector or matrix). At time $T$ , the owner of financial asset number $i$ receives a random payment depending on the state of the world. We model this randomness by introducing a finite [[Uncertainty Information and Stochastic Processes|probability space]] $(\Omega,{\mathcal{F}},I P)$ , with a finite number $|\Omega|=N$ of points (each) corresponding to a certain state of the world) $\omega_{1},\ldots,\omega_{j},\ldots,\omega_{N}$ , each with positive probability: ${\cal P}(\{\omega\})>0$ , which means that every state of the world is possible. $\mathcal{F}$ is the set of subsets of $\Omega$ (events that can happen in the world) on which $\mathbb{\textit{P}}(.)$ is defined (we can quantify how probable these events are), here $\mathcal{F}=\mathcal{P}(\Omega)$ the set of all subsets of $\Omega$ .(In more complicated models it is not possible to define a probability measure on all subsets of the state space $\Omega$ , see 2.1.) We can now write the random payment arising from financial asset $i$ as  
+(where $'$ denotes the transpose of a vector or matrix). At time $T$ , the owner of financial asset number $i$ receives a random payment depending on the state of the world. We model this randomness by introducing a finite [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md) $(\Omega,{\mathcal{F}},I P)$ , with a finite number $|\Omega|=N$ of points (each) corresponding to a certain state of the world) $\omega_{1},\ldots,\omega_{j},\ldots,\omega_{N}$ , each with positive probability: ${\cal P}(\{\omega\})>0$ , which means that every state of the world is possible. $\mathcal{F}$ is the set of subsets of $\Omega$ (events that can happen in the world) on which $\mathbb{\textit{P}}(.)$ is defined (we can quantify how probable these events are), here $\mathcal{F}=\mathcal{P}(\Omega)$ the set of all subsets of $\Omega$ .(In more complicated models it is not possible to define a probability measure on all subsets of the state space $\Omega$ , see 2.1.) We can now write the random payment arising from financial asset $i$ as  
 $$
 S_{i}(T)=(S_{i}(T,\omega_{1}),\dots,S_{i}(T,\omega_{j}),\dots,S_{i}(T,\omega_{N}))^{\prime}.
 $$  
 
-At time $t=0$ the agents can buy and sell financial assets. The [[An Asset Allocation Primer|portfolio]] position of an individual agent is given by a trading strategy $\varphi$ , which is an $\textstyle\mathit{\Pi}\mathit{{H}}^{d+1}$ vector,  
+At time $t=0$ the agents can buy and sell financial assets. The [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) position of an individual agent is given by a trading strategy $\varphi$ , which is an $\textstyle\mathit{\Pi}\mathit{{H}}^{d+1}$ vector,  
 $$
 \varphi=(\varphi_{0},\varphi_{1},\ldots,\varphi_{d})^{\prime}.
 $$  
@@ -564,7 +564,7 @@ as positive (recall we allow short positions).
 
 The dynamics of our model using the trading strategy $\varphi$ are as follows: at time. $t=0$ we invest the amount $\begin{array}{r}{S(0)^{\prime}\varphi=\sum_{i=0}^{d}\varphi_{i}S_{i}(0)}\end{array}$ and at time $t=T$ we receive the random payment $S(T,\omega)^{\prime}\varphi=$ $\textstyle\sum_{i=0}^{d}\varphi_{i}S_{i}(T,\omega)$ depending on the realised state $\omega$ of the world. Using the. $(d+1)\times N$ matrix $\vec{S}$ whose columns are the vectors $S(T,\omega)$ , we can write the possible payments more compactly as $\vec{S}^{\prime}\varphi$  
 
-What does an [[Arbitrage Pricing of Derivatives|arbitrage]] opportunity mean in our model? As [[Arbitrage Pricing of Derivatives|arbitrage]] is 'making something out of nothing; an [[Arbitrage Pricing of Derivatives|arbitrage]] strategy is a vector $\varphi\in\ensuremath{\mathbb{R}}^{d+1}$ such that $S(0)^{\prime}\varphi=0$ , our net [[An Asset Allocation Primer|investment]] at time $t=0$ is zero, and  
+What does an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity mean in our model? As [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) is 'making something out of nothing; an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) strategy is a vector $\varphi\in\ensuremath{\mathbb{R}}^{d+1}$ such that $S(0)^{\prime}\varphi=0$ , our net [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) at time $t=0$ is zero, and  
 $$
 S(T,\omega)^{\prime}\varphi\geq0,~\forall\omega\in\Omega~\mathrm{and~there~exists~a~}~\omega\in\Omega~\mathrm{such~that}~S(T,\omega)^{\prime}\varphi>0.
 $$  
@@ -576,9 +576,9 @@ $$
 
 i.e we don't have to repay anything at $t=T$ . Now this means we had a free lunch' at $t=0$ at the market's expense.  
 
-We agreed that we should not have [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]] in our model. The consequences of this assumption are surprisingly far-reaching.  
+We agreed that we should not have [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md) in our model. The consequences of this assumption are surprisingly far-reaching.  
 
-So assume that there are no [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]]. If we analyse the structure of our model. above, we see that every statement can be formulated in terms of Euclidean geometry or [[Prerequisites|linear algebra]]. For instance, [[Exercises|absence of arbitrage]] means that the space.  
+So assume that there are no [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md). If we analyse the structure of our model. above, we see that every statement can be formulated in terms of Euclidean geometry or [linear algebra](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Prerequisites.md). For instance, [absence of arbitrage](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) means that the space.  
 $$
 \Gamma=\left\{\left({\begin{array}{l}{x}\ {y}\end{array}}\right),x\in I R,y\in I R^{N}:x=-S(0)^{\prime}\varphi,y={\vec{S}}^{\prime}\varphi,\varphi\in I R^{d+1}\right\}
 $$  
@@ -588,9 +588,9 @@ $$
 \displaystyle{I R_{+}^{N+1}=\left\{z\in I R^{N+1}:z_{i}\geq0\forall0\leq i\leq N\quad\exists i\mathrm{suchthat}z_{i}>0\right\}}
 $$  
 
-have no common points. A statement like that naturally points to the use of a separation theorem for convex subsets, the [[Properties of State-Price Deflators|separating hyperplane theorem]] (see e.g. Rockafellar (1970) for an account of such results, or Appendix A). Using such a theorem we come to the following characterisation. of no [[Arbitrage Pricing of Derivatives|arbitrage]].  
+have no common points. A statement like that naturally points to the use of a separation theorem for convex subsets, the [separating hyperplane theorem](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Properties%20of%20State-Price%20Deflators.md) (see e.g. Rockafellar (1970) for an account of such results, or Appendix A). Using such a theorem we come to the following characterisation. of no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md).  
 
-Theorem 1.4.1. There is no [[Arbitrage Pricing of Derivatives|arbitrage]] if and only if there exists a vector  
+Theorem 1.4.1. There is no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) if and only if there exists a vector  
 $$
 \psi\in I R^{N},\quad\psi_{i}>0,\forall1\leq i\leq N
 $$  
@@ -605,14 +605,14 @@ $$
 S(0)^{\prime}\varphi=(\vec{S}\psi)^{\prime}\varphi=\psi^{\prime}\vec{S}^{\prime}\varphi\geq0,
 $$  
 
-iince $\psi_{i}>0$ $\forall1\leq i\leq N$ . So no [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]] exist  
+iince $\psi_{i}>0$ $\forall1\leq i\leq N$ . So no [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md) exist  
 
-To show the implication $\Rrightarrow$ ' we use a variant of the [[Properties of State-Price Deflators|separating hyperplane theorem]]. [[Exercises|Absence of arbitrage]] means the $\Gamma$ and $\mathbb{R}_{+}^{N+1}$ have no common points. This means that $K\subset\mathbb{R}_{+}^{N+1}$ defined by  
+To show the implication $\Rrightarrow$ ' we use a variant of the [separating hyperplane theorem](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Properties%20of%20State-Price%20Deflators.md). [Absence of arbitrage](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) means the $\Gamma$ and $\mathbb{R}_{+}^{N+1}$ have no common points. This means that $K\subset\mathbb{R}_{+}^{N+1}$ defined by  
 $$
 K=\left\{z\in I R_{+}^{N+1}:\sum_{i=0}^{N}z_{i}=1\right\}
 $$  
 
-and $\Gamma$ do not meet. But $K$ is a compact and convex set, and by the [[Properties of State-Price Deflators|separating hyperplane theorem]] (Appendix C), there is a vector $\lambda\in\mathbb{R}^{N+1}$ such that for all $z\in K$  
+and $\Gamma$ do not meet. But $K$ is a compact and convex set, and by the [separating hyperplane theorem](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Properties%20of%20State-Price%20Deflators.md) (Appendix C), there is a vector $\lambda\in\mathbb{R}^{N+1}$ such that for all $z\in K$  
 $$
 \lambda^{\prime}z>0
 $$  
@@ -626,16 +626,16 @@ Now choosing. $z_{i}=1$ successively we see that $\lambda_{i}>0,i=0,...N$ , and 
 
 The vector $\psi$ is called a state-price vector. We can think of $\psi_{j}$ as the marginal cost of obtaining an additional unit of account in state $\omega_{j}$ . We can now reformulate the above statement to:  
 
-There is no [[Arbitrage Pricing of Derivatives|arbitrage]] if and only if there exists a state-price vector.  
+There is no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) if and only if there exists a state-price vector.  
 
 Using a further normalisation, we can clarify the link to our probabilistic setting. Given a state-price vector $\psi=(\psi_{1},...,\psi_{N})$ , we set $\psi_{0}=\psi_{1}+...+\psi_{N}$ and for any state. $\omega_{j}$ write $q_{j}=\psi_{j}/\psi_{0}$ . We can now view $\left(q_{1},\ldots,q_{N}\right)$ as probabilities and define a new probability measure. on $\Omega$ by $\mathbf{\deltaQ}(\{\omega_{j}\})=q_{j},j=1,\dots,N$ . Using this probability measure, we see that for each asset $i$ we have the relation  
 $$
 \frac{S_{i}(0)}{\psi_{0}}=\sum_{j=1}^{N}q_{j}S_{i}(T,\omega_{j})=E_{\pmb{Q}}(S_{i}(T)).
 $$  
 
-Hence the normalized price of the financial security $i$ is just its expected payoff under some specially chosen 'risk-neutral' probabilities. Observe that we didn't make any use of the specific probability measure $\mathcal{W}$ in our given [[Uncertainty Information and Stochastic Processes|probability space]].  
+Hence the normalized price of the financial security $i$ is just its expected payoff under some specially chosen 'risk-neutral' probabilities. Observe that we didn't make any use of the specific probability measure $\mathcal{W}$ in our given [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md).  
 
-So far we have not specified anything about the denomination of prices. From a technical point. of view we could choose any asset. $i$ as long as its price vector $(S_{i}(0),S_{i}(T,\omega_{1}),\ldots,S_{i}(T,\omega_{N}))^{\prime}$ only contains positive entries, and express all other prices in units of this asset. We say that we use this asset as numeraire. Let us emphasise again that [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]] do not depend on the chosen numeraire. It turns out that appropriate choice of the numeraire facilitates the probability-theoretic analysis in complex settings, and we will discuss the choice of the numeraire in detail later on.  
+So far we have not specified anything about the denomination of prices. From a technical point. of view we could choose any asset. $i$ as long as its price vector $(S_{i}(0),S_{i}(T,\omega_{1}),\ldots,S_{i}(T,\omega_{N}))^{\prime}$ only contains positive entries, and express all other prices in units of this asset. We say that we use this asset as numeraire. Let us emphasise again that [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md) do not depend on the chosen numeraire. It turns out that appropriate choice of the numeraire facilitates the probability-theoretic analysis in complex settings, and we will discuss the choice of the numeraire in detail later on.  
 
 For simplicity, let us assume that asset $0$ is a riskless bond paying one unit in all states $\omega\in\Omega$ at time $T$ . This means that $S_{0}(T,\omega)=1$ in all states of the world $\omega\in\Omega$ . By the above analysis we must have  
 $$
@@ -656,31 +656,31 @@ In the language of probability theory we just have shown that the processes. $S_
 are $\mathbb{Q}$ -martingales. (Martingales are the probabilists' way of describing fair games: see Chapter 3.) It is important to notice that under the given probability measure. $\mathcal{W}$ (which reflects an individual.   
 agent's belief or the markets' belief) the processes $S_{i}(t)/(1+r)^{t},~t=0,T$ generally do not form.   $\mathcal{W}$ - martingales.  
 
-We use this to shed light on the relationship of the probability measures $\mathcal{W}$ and $\mathbb{Q}$ .Since $\mathbb{Q}(\{\omega\})>0$ for all $\omega\in\Omega$ the probability measures $\mathcal{W}$ and $\mathbb{Q}$ are equivalent and (see Chapters 2 and 3) because of the argument above we call. $\mathbb{Q}$ an equivalent martingale measure. So we arrived. at yet another characterisation of [[Arbitrage Pricing of Derivatives|arbitrage]]:.  
+We use this to shed light on the relationship of the probability measures $\mathcal{W}$ and $\mathbb{Q}$ .Since $\mathbb{Q}(\{\omega\})>0$ for all $\omega\in\Omega$ the probability measures $\mathcal{W}$ and $\mathbb{Q}$ are equivalent and (see Chapters 2 and 3) because of the argument above we call. $\mathbb{Q}$ an equivalent martingale measure. So we arrived. at yet another characterisation of [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md):.  
 
-There is no [[Arbitrage Pricing of Derivatives|arbitrage]] if and only if there exists an equivalent martingale measure.  
+There is no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) if and only if there exists an equivalent martingale measure.  
 
-We also see that [[Financial Mathematics Course|risk-neutral pricing]] corresponds to using the expectation operator with respect. to an equivalent martingale measure. This concept lies at the heart of stochastic (mathematical) finance and will be the golden thread (or roter Faden) throughout this book..  
+We also see that [risk-neutral pricing](.md) corresponds to using the expectation operator with respect. to an equivalent martingale measure. This concept lies at the heart of stochastic (mathematical) finance and will be the golden thread (or roter Faden) throughout this book..  
 
-We now know how the given prices of our $(d+1)$ financial assets should be related in order to <clude [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]], but how should we price a newly introduced financial instrument? We can represent this financial instrument by its random payments $\delta(T)=(\delta(T,\omega_{1}),\dots,\delta(T,\omega_{j}),\dots,\delta(T,\omega_{N}))^{\prime}$ (observe that $\delta(T)$ is a vector in $\mathbb{R}^{N}$ ) at time $t=T$ and ask for its price $\delta(0)$ at time $t=0$ . The natural idea is to use an equivalent probability measure $\mathbb{Q}$ and set  
+We now know how the given prices of our $(d+1)$ financial assets should be related in order to <clude [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md), but how should we price a newly introduced financial instrument? We can represent this financial instrument by its random payments $\delta(T)=(\delta(T,\omega_{1}),\dots,\delta(T,\omega_{j}),\dots,\delta(T,\omega_{N}))^{\prime}$ (observe that $\delta(T)$ is a vector in $\mathbb{R}^{N}$ ) at time $t=T$ and ask for its price $\delta(0)$ at time $t=0$ . The natural idea is to use an equivalent probability measure $\mathbb{Q}$ and set  
 $$
 \delta(0)=E_{Q}(\delta(T)/(1+r)^{T})
 $$  
 
 (recall that all time $t=0$ and time $t=T$ prices are related in this way). Unfortunately, as we don't have a unique martingale measure in general, we cannot guarantee the uniqueness of the $t=0$ price. Put another way, we know every equivalent martingale measure leads to a reasonable relative price for our newly created financial instrument, but which measure should one choose?  
 
-The easiest way out would be if there were only one equivalent martingale measure at our disposal - and surprisingly enough the classical economic [[Arbitrage Pricing of Derivatives|pricing]] theory puts us exactly in this situation! Given a set of financial assets on a market the underlying question is whether we are able to price any new financial asset which might be introduced in the market, or equivalently whether we can replicate the cash-flow of the new asset by means of a [[An Asset Allocation Primer|portfolio]] of our original assets. If this is the case and we can replicate every new asset, the market is called complete.  
+The easiest way out would be if there were only one equivalent martingale measure at our disposal - and surprisingly enough the classical economic [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) theory puts us exactly in this situation! Given a set of financial assets on a market the underlying question is whether we are able to price any new financial asset which might be introduced in the market, or equivalently whether we can replicate the cash-flow of the new asset by means of a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of our original assets. If this is the case and we can replicate every new asset, the market is called complete.  
 
 In our financial market situation the question can be restated mathematically in terms of Euclidean geometry: do the vectors $S_{i}(T)$ span the whole $\mathbb{R}^{N}$ ? This leads to:  
 
-Theorem 1.4.2. Suppose there are no [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]]. Then the model is complete if and only if the matrix equation  
+Theorem 1.4.2. Suppose there are no [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md). Then the model is complete if and only if the matrix equation  
 $$
 \vec{S}^{\prime}\varphi=\delta
 $$  
 
 has a solution $\varphi\in\ensuremath{\mathbb{R}}^{d+1}$ for any vector $\delta\in\mathbb{R}^{N}$  
 
-[[Prerequisites|Linear algebra]] immediately tells us that the above theorem means that the number of independent vectors in $\vec{S^{\prime}}$ must equal the number of states in $\Omega$ . In an informal way we can say that if the financial market model contains 2 ( $N$ ) states of the world at time $T$ it allows for 1 $(N-1)$ sources of randomness (if there is only one state we know the outcome). Likewise we can view the numeraire asset as risk-free and all other assets as risky. We can now restate the above characterisation of completeness in an informal (but intuitive) way as:  
+[Linear algebra](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Prerequisites.md) immediately tells us that the above theorem means that the number of independent vectors in $\vec{S^{\prime}}$ must equal the number of states in $\Omega$ . In an informal way we can say that if the financial market model contains 2 ( $N$ ) states of the world at time $T$ it allows for 1 $(N-1)$ sources of randomness (if there is only one state we know the outcome). Likewise we can view the numeraire asset as risk-free and all other assets as risky. We can now restate the above characterisation of completeness in an informal (but intuitive) way as:  
 
 A financial market model is complete if it contains at least as many independent risky assets as sources of randomness.  
 
@@ -688,7 +688,7 @@ The question of completeness can be expressed equivalently in probabilistic lang
 
 If a financial market model is complete, traditional economic theory shows that there exists a unique system of prices. If there exists only one system of prices, and every equivalent martingale measure gives rise to a price system, we can only have a unique equivalent martingale measure. (We will come back to this important question in Chapters 4 and 6).  
 
-The ([[Arbitrage Pricing of Derivatives|arbitrage]]-free) market is complete if and only if there exists a unique equivalent martingale measure.  
+The ([arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free) market is complete if and only if there exists a unique equivalent martingale measure.  
 
 # Example (continued).  
 
@@ -707,12 +707,12 @@ $$
 {\left[\begin{array}{l}{\psi_{1}}\ {\psi_{2}}\end{array}\right]}={\left[\begin{array}{l}{2/3}\ {1/3}\end{array}\right]},
 $$  
 
-hence showing that there are no [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]] in our market model. Furthermore, since $\psi_{1}+\psi_{2}=1$ we see that we already have computed [[Financial Instruments|risk-neutral probabilities]], and so we have found an equivalent martingale measure $\mathbb{Q}$ with  
+hence showing that there are no [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md) in our market model. Furthermore, since $\psi_{1}+\psi_{2}=1$ we see that we already have computed [risk-neutral probabilities](../Financial%20Instruments/Financial%20Instruments.md), and so we have found an equivalent martingale measure $\mathbb{Q}$ with  
 $$
 \pmb{Q}(\omega_{1})=\frac{2}{3},\pmb{Q}(\omega_{2})=\frac{1}{3}.
 $$  
 
-We now want to find out if the market is complete (or equivalently if there is a unique equivalent martingale measure). For that we introduce a new financial asset $\delta$ with random payments $\delta(T)=$ $(\delta(T,\omega_{1}),\delta(T,\omega_{2}))^{\prime}$ . For the market to be complete, each such. $\delta(T)$ must be in the linear span of. $S_{0}(T)$ and $S_{1}(T)$ . Now since $S_{0}(T)$ and $S_{1}(T)$ are linearly independent, their linear span is the. whole ${\cal R}^{2}(={\cal R}^{|\Omega|})$ and $\delta(T)$ is indeed in the linear span. Hence we can find a [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|replicating portfolio]] by solving  
+We now want to find out if the market is complete (or equivalently if there is a unique equivalent martingale measure). For that we introduce a new financial asset $\delta$ with random payments $\delta(T)=$ $(\delta(T,\omega_{1}),\delta(T,\omega_{2}))^{\prime}$ . For the market to be complete, each such. $\delta(T)$ must be in the linear span of. $S_{0}(T)$ and $S_{1}(T)$ . Now since $S_{0}(T)$ and $S_{1}(T)$ are linearly independent, their linear span is the. whole ${\cal R}^{2}(={\cal R}^{|\Omega|})$ and $\delta(T)$ is indeed in the linear span. Hence we can find a [replicating portfolio](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) by solving  
 $$
 \left[\begin{array}{c c}{\delta(T,\omega_{1})}\ {\delta(T,\omega_{2})}\end{array}\right]=\left[\begin{array}{c c}{1}&{180}\ {1}&{90}\end{array}\right]\left[\begin{array}{c c}{\varphi_{0}}\ {\varphi_{1}}\end{array}\right].
 $$  
@@ -722,11 +722,11 @@ $$
 {\left[\begin{array}{l}{30}\ {0}\end{array}\right]}={\left[\begin{array}{l l}{1}&{180}\ {1}&{90}\end{array}\right]}\quad{\left[\begin{array}{l}{\varphi_{0}}\ {\varphi_{1}}\end{array}\right]},
 $$  
 
-with solution $\varphi_{0}=-30$ and $\varphi_{1}={\textstyle\frac{1}{3}}$ , telling us to borrow 30 units and buy $\frac13$ stocks, which is exactly what we did to set up our [[An Asset Allocation Primer|portfolio]] above. Of course an alternative way of showing [[Marketed Dividends and Market Completeness|market completeness]] is to recognise that (1.4) above admits only one solution for [[Financial Instruments|risk-neutral probabilities]], showing the uniqueness of the martingale measure.  
+with solution $\varphi_{0}=-30$ and $\varphi_{1}={\textstyle\frac{1}{3}}$ , telling us to borrow 30 units and buy $\frac13$ stocks, which is exactly what we did to set up our [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) above. Of course an alternative way of showing [market completeness](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Marketed%20Dividends%20and%20Market%20Completeness.md) is to recognise that (1.4) above admits only one solution for [risk-neutral probabilities](../Financial%20Instruments/Financial%20Instruments.md), showing the uniqueness of the martingale measure.  
 
 # Example. Change of numeraire.  
 
-We choose a situation similar to the above example, i.e. we have $d+1=2$ assets and $|\Omega|=2$ states of the world. $\Omega=\{\omega_{1},\omega_{2}\}$ . But now we assume two risky assets (and no bond) as the [[A Practical Guide for Actuaries and other Business Professionals.|financial instruments]] at our disposal. The price vectors are given by  
+We choose a situation similar to the above example, i.e. we have $d+1=2$ assets and $|\Omega|=2$ states of the world. $\Omega=\{\omega_{1},\omega_{2}\}$ . But now we assume two risky assets (and no bond) as the [financial instruments](../Financial%20Instruments/A%20Practical%20Guide%20for%20Actuaries%20and%20other%20Business%20Professionals..md) at our disposal. The price vectors are given by  
 $$
 S(0)={\left[\begin{array}{l}{S_{0}(0)}\ {S_{1}(0)}\end{array}\right]}={\left[\begin{array}{l}{1}\ {1}\end{array}\right]},S_{0}(T)={\left[\begin{array}{l}{3/4}\ {5/4}\end{array}\right]},S_{1}(T)={\left[\begin{array}{l}{1/2}\ {2}\end{array}\right]},{\vec{S}}={\left[\begin{array}{l l}{3/4}&{5/4}\ {1/2}&{2}\end{array}\right]}.
 $$  
@@ -736,24 +736,24 @@ $$
 {\left[\begin{array}{l}{\psi_{1}}\ {\psi_{2}}\end{array}\right]}={\left[\begin{array}{l}{6/7}\ {2/7}\end{array}\right]},
 $$  
 
-showing that there are no [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]] in our market model. So we find an equivalent martingale measure $\mathbb{Q}$ with  
+showing that there are no [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md) in our market model. So we find an equivalent martingale measure $\mathbb{Q}$ with  
 $$
 \pmb{Q}(\omega_{1})=\frac{3}{4},\pmb{Q}(\omega_{2})=\frac{1}{4}.
 $$  
 
-Since we don't have a [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] in our model, this normalisation (this numeraire) is very artificial, and we shall use one of the modelled assets as a numeraire, say. $S_{0}$ . Under this normalisation, we have the following asset prices (in terms of. $S_{0}(t,\omega)$ !):  
+Since we don't have a [risk-free asset](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) in our model, this normalisation (this numeraire) is very artificial, and we shall use one of the modelled assets as a numeraire, say. $S_{0}$ . Under this normalisation, we have the following asset prices (in terms of. $S_{0}(t,\omega)$ !):  
 $$
 \begin{array}{r l}&{\tilde{S}(0)=\left[\begin{array}{l}{\tilde{S}_{0}(0)}\ {\tilde{S}_{1}(0)}\end{array}\right]=\left[\begin{array}{l}{S_{0}(0)/S_{0}(0)}\ {S_{1}(0)/S_{0}(0)}\end{array}\right]=\left[\begin{array}{l}{1}\ {1}\end{array}\right],}\ &{\tilde{S}_{0}(T)=\left[\begin{array}{l}{S_{0}(T,\omega_{1})/S_{0}(T,\omega_{1})}\ {S_{0}(T,\omega_{2})/S_{0}(T,\omega_{2})}\end{array}\right]=\left[\begin{array}{l}{1}\ {1}\end{array}\right],}\ &{\tilde{S}_{1}(T)=\left[\begin{array}{l}{S_{1}(T,\omega_{1})/S_{0}(T,\omega_{1})}\ {S_{1}(T,\omega_{2})/S_{0}(T,\omega_{2})}\end{array}\right]=\left[\begin{array}{l}{2/3}\ {8/5}\end{array}\right].}\end{array}
 $$  
 
-Since the model is [[Arbitrage Pricing of Derivatives|arbitrage]]-free (recall that a change of numeraire doesn't affect the no-[[Arbitrage Pricing of Derivatives|arbitrage]] property), we are able to find risk-neutrl probabilities $\tilde{q}_{1}=\frac{9}{14}$ and $\begin{array}{r}{\tilde{q}_{2}=\frac{5}{14}}\end{array}$  
+Since the model is [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free (recall that a change of numeraire doesn't affect the no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) property), we are able to find risk-neutrl probabilities $\tilde{q}_{1}=\frac{9}{14}$ and $\begin{array}{r}{\tilde{q}_{2}=\frac{5}{14}}\end{array}$  
 
-We now compute the prices for a call option to exchange $S_{0}$ for $S_{1}$ . Define $Z(T)=\operatorname*{max}\{S_{1}(T)-$ $S_{0}(T),0\}$ and the [[Preview of the Book|cash flow]] is given by  
+We now compute the prices for a call option to exchange $S_{0}$ for $S_{1}$ . Define $Z(T)=\operatorname*{max}\{S_{1}(T)-$ $S_{0}(T),0\}$ and the [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) is given by  
 $$
 {\left[\begin{array}{l}{Z(T,\omega_{1})}\ {Z(T,\omega_{2})}\end{array}\right]}={\left[\begin{array}{l}{~0}\ {3/4}\end{array}\right]}.
 $$  
 
-option as There are no difficulties in finding the hedge [[An Asset Allocation Primer|portfolio]] $\begin{array}{r}{Z_{0}=\frac{3}{14}}\end{array}$ $\varphi_{0}=-{\frac{3}{7}}$ and $\varphi_{1}=\frac{\mathfrak{g}}{14}$ and [[Arbitrage Pricing of Derivatives|pricing]] the  
+option as There are no difficulties in finding the hedge [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $\begin{array}{r}{Z_{0}=\frac{3}{14}}\end{array}$ $\varphi_{0}=-{\frac{3}{7}}$ and $\varphi_{1}=\frac{\mathfrak{g}}{14}$ and [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) the  
 
 We want to point out the following observation. Using $S_{0}$ as numeraire we naturally write  
 $$
@@ -769,7 +769,7 @@ a European call on the asset ${\tilde{S}}_{1}$
 
 # 1.4.3 A few financial-economic considerations  
 
-The underlying principle for modelling economic behaviour of investors (or economic agents in general) is the maximisation of expected utility, that is one assumes that agents have a utility function $U(.)$ and base economic decisions on expected utility considerations. For instance, as-. suming a [[Exercises|one-period model]], an economic agent might have a utility function over current( $t=0$ and future ( $t=T$ ) values of consumption  
+The underlying principle for modelling economic behaviour of investors (or economic agents in general) is the maximisation of expected utility, that is one assumes that agents have a utility function $U(.)$ and base economic decisions on expected utility considerations. For instance, as-. suming a [one-period model](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md), an economic agent might have a utility function over current( $t=0$ and future ( $t=T$ ) values of consumption  
 $$
 U(c_{0},c_{T})=u(c_{0})+B(\beta u(c_{T})),
 $$  
@@ -779,7 +779,7 @@ $u(.)$ is a standard utility function expressing
 
 non-satiation - investors prefer more to less; $u$ is increasing;   
 risk aversion - investors reject an actuarially fair gamble; $u$ is concave;   
-and (maybe) decreasing [[Utility Functions in Models and in Reality|absolute risk aversion]] and constant [[CCAPM with Alternative Preferences|relative risk aversion]].  
+and (maybe) decreasing [absolute risk aversion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Functions%20in%20Models%20and%20in%20Reality.md) and constant [relative risk aversion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/CCAPM%20with%20Alternative%20Preferences.md).  
 
 Typical examples are power utility $u(x)=(x^{\gamma}-1)/\gamma$ , log utility $u(x)=\log(x)$ or quadratic utility $u(x)=x^{2}+d x$ (for which only the first two properties are true.)  
 
@@ -800,7 +800,7 @@ $$
 
 The investor buys or sells more of the asset until this first-order condition is satisfied.  
 
-If we use the [[Definitions and Immediate Consequences|stochastic discount factor]]  
+If we use the [stochastic discount factor](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Definitions%20and%20Immediate%20Consequences.md)  
 $$
 m=\beta\frac{u^{\prime}(c_{T})}{u^{\prime}(c_{0})},
 $$  
@@ -810,7 +810,7 @@ $$
 p=l E(m X).
 $$  
 
-We can use (under regularity conditions) the random variable $m$ to perform a [[Change of Probability Measure|change of measure]],. i.e. define a probability measure. $\mathit{\Pi}\mathit{\perp}\mathit{\Psi}$ using  
+We can use (under regularity conditions) the random variable $m$ to perform a [change of measure](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2011%20-%20Risk-adjusted%20probabilities/Change%20of%20Probability%20Measure.md),. i.e. define a probability measure. $\mathit{\Pi}\mathit{\perp}\mathit{\Psi}$ using  
 $$
 B P^{*}(A)=B E^{*}({\bf1}_{A})=B E(m{\bf1}_{A}).
 $$  
@@ -820,7 +820,7 @@ $$
 p=\textstyle\operatorname{\mathbb{E}}^{*}(X)
 $$  
 
-Returning to the initial [[Definitions and Immediate Consequences|pricing equation]], we see that under $\b{\mathcal{N}}^{*}$ the investor has the utility function $u(x)=x$ . Such an investor is called risk-neutral, and consequently one often calls the corresponding measure a [[Verifying Martingale Property with Q|risk-neutral measure]]. An excellent discussion of these issues (and further much deeper results) are given in Cochrane (2001).  
+Returning to the initial [pricing equation](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Definitions%20and%20Immediate%20Consequences.md), we see that under $\b{\mathcal{N}}^{*}$ the investor has the utility function $u(x)=x$ . Such an investor is called risk-neutral, and consequently one often calls the corresponding measure a [risk-neutral measure](Verifying%20Martingale%20Property%20with%20Q.md). An excellent discussion of these issues (and further much deeper results) are given in Cochrane (2001).  
 
 # Chapter 2  
 
@@ -828,35 +828,35 @@ Returning to the initial [[Definitions and Immediate Consequences|pricing equati
 
 # 2.1 Choice under Uncertainty  
 
-In a [[Marketed Dividends and Market Completeness|complete financial market]] [[Credit Markets Session 4|model prices]] of [[Financial Mathematics Course|derivative securities]] can be obtained by [[Arbitrage Pricing of Derivatives|arbitrage]]. arguments. In incomplete market situations, these [[A Practical Guide for Actuaries and other Business Professionals.|financial instruments]] carry an intrinsic risk. which cannot be hedged away. Thus in order to price these instruments further assumptions on the investors, especially regarding their preferences towards the risks involved, are needed.  
+In a [complete financial market](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Marketed%20Dividends%20and%20Market%20Completeness.md) [model prices](../Credit%20Markets/Credit%20Markets%20Session%204.md) of [derivative securities](.md) can be obtained by [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). arguments. In incomplete market situations, these [financial instruments](../Financial%20Instruments/A%20Practical%20Guide%20for%20Actuaries%20and%20other%20Business%20Professionals..md) carry an intrinsic risk. which cannot be hedged away. Thus in order to price these instruments further assumptions on the investors, especially regarding their preferences towards the risks involved, are needed.  
 
 # 2.1.1 Preferences and the Expected Utility Theorem  
 
 Let $\mathcal{X}$ be some non-empty set. An element $x\in\mathcal{X}$ will be interpreted as a possible choice of an economic agent. If presented with two choices $x,y\in{\mathcal{X}}$ the agent might prefer one over the other. This can be formalized  
 
-Definition 2.1.1. A binary relation $\succeq$ defined on. $\mathcal{X}\times\mathcal{X}$ is called a [[Utility Indices|preference relation]], if it is  
+Definition 2.1.1. A binary relation $\succeq$ defined on. $\mathcal{X}\times\mathcal{X}$ is called a [preference relation](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md), if it is  
 
 transitive: $x\succeq y,y\succeq z\Rightarrow x\succeq z$ complete: for all $x,y\in{\mathcal{X}}$ either $x\succeq y$ or $y\succeq x$  
 
 If $x\succeq y$ and $y\succeq x$ we write $x\sim y$ (indifference relation). x is said to be strictly preferred to $y$ denoted by $x\succ y$ , if $x\succeq y$ and $y\not\subset x$  
 
-Definition 2.1.2. A numerical representation of a [[Utility Indices|preference]] order $\succeq$ is a function $U:{\mathcal{X}}\rightarrow{\mathcal{R}}$ such that  
+Definition 2.1.2. A numerical representation of a [preference](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) order $\succeq$ is a function $U:{\mathcal{X}}\rightarrow{\mathcal{R}}$ such that  
 $$
 y\succeq x\Leftrightarrow U(y)\geq U(x).
 $$  
 
 In order to characterize existence of a numerical representation we need  
 
-Definition 2.1.3. $L e t\succeq b e$ a [[Utility Indices|preference relation]] on $\mathcal{X}$ . A subset $\mathcal{Z}$ of $\mathcal{X}$ is called order dense if for any pair $x,y\in{\mathcal{X}}$ such that $x\succ y$ there exists some. $z\in{\mathcal{Z}}$ such that $x\succeq z\succeq y$  
+Definition 2.1.3. $L e t\succeq b e$ a [preference relation](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) on $\mathcal{X}$ . A subset $\mathcal{Z}$ of $\mathcal{X}$ is called order dense if for any pair $x,y\in{\mathcal{X}}$ such that $x\succ y$ there exists some. $z\in{\mathcal{Z}}$ such that $x\succeq z\succeq y$  
 
-Theorem 2.1.1. For the existence of a numerical representation of a [[Utility Indices|preference relation]] $\succeq i t$ is necessary and sufficient that $\mathcal{X}$ contains a countable order dense subset $\mathcal{Z}$ . In particular, any [[Utility Indices|preference relation]] admits a numerical representation if $\mathcal{X}$ is countable.  
+Theorem 2.1.1. For the existence of a numerical representation of a [preference relation](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) $\succeq i t$ is necessary and sufficient that $\mathcal{X}$ contains a countable order dense subset $\mathcal{Z}$ . In particular, any [preference relation](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) admits a numerical representation if $\mathcal{X}$ is countable.  
 
-Suppose that each possible choice of our economic agent corresponds to a probability distribution on a sample space $(\Omega,{\mathcal{F}})$ .Thus the set. $\mathcal{X}$ can be identified with a subset $\mathcal{M}$ of the set $\mathcal{M}_{1}(\Omega,\mathcal{F})$ of all [[Exercises|probability distributions]] on $(\Omega,{\mathcal{F}})$ .In the context of the theory of choice the elements of. $\mathcal{M}$ are sometimes called lotteries. We assume in the sequel that. $\mathcal{M}$ is convex. The aim in the following is to characterize the [[Utility Indices|preference]] orders $\succeq$ that allow a numerical representation of the form.  
+Suppose that each possible choice of our economic agent corresponds to a probability distribution on a sample space $(\Omega,{\mathcal{F}})$ .Thus the set. $\mathcal{X}$ can be identified with a subset $\mathcal{M}$ of the set $\mathcal{M}_{1}(\Omega,\mathcal{F})$ of all [probability distributions](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) on $(\Omega,{\mathcal{F}})$ .In the context of the theory of choice the elements of. $\mathcal{M}$ are sometimes called lotteries. We assume in the sequel that. $\mathcal{M}$ is convex. The aim in the following is to characterize the [preference](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) orders $\succeq$ that allow a numerical representation of the form.  
 $$
 \mu\succeq\nu\Leftrightarrow\intop_{\Omega}u(\omega)\mu(d\omega)\geq\intop_{\Omega}u(\omega)\nu(d\omega)
 $$  
 
-Definition 2.1.4. A numerical representation $U$ of a [[Utility Indices|preference]] order $\succeq$ on $\mathcal{M}$ is called a von Neumann-Morgenstern representation if it is of form (2.2).  
+Definition 2.1.4. A numerical representation $U$ of a [preference](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) order $\succeq$ on $\mathcal{M}$ is called a von Neumann-Morgenstern representation if it is of form (2.2).  
 
 Any von Neumann-Morgenstern representation of $U$ is affine on $\mathcal{M}$ in the sense that  
 $$
@@ -877,7 +877,7 @@ $$
 \alpha\mu+(1-\alpha)\nu\succ\lambda\succ\beta\mu+(1-\beta)\nu
 $$  
 
-Theorem 2.1.2. Suppose the [[Utility Indices|preference relation]] $\succeq$ on $\mathcal{M}$ satisfies the axioms (A) and (I). Then there exists an affine numerical representation $U$ of $\succeq$ . Moreover, $U$ is unique up to positive affine transformations, i.e. any other affine numerical representation $\tilde{U}$ with these properties is of the form $\tilde{U}=a U+b$ for some $a>0$ and $b\in\mathcal{M}$  
+Theorem 2.1.2. Suppose the [preference relation](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) $\succeq$ on $\mathcal{M}$ satisfies the axioms (A) and (I). Then there exists an affine numerical representation $U$ of $\succeq$ . Moreover, $U$ is unique up to positive affine transformations, i.e. any other affine numerical representation $\tilde{U}$ with these properties is of the form $\tilde{U}=a U+b$ for some $a>0$ and $b\in\mathcal{M}$  
 
 In case of a discrete (finite) probability distribution existence of an affine numerical representation is equivalent to existence of a von Neumann-Morgenstern representation.  
 
@@ -888,30 +888,30 @@ $$
 {\begin{array}{r l}{\delta_{x}\succ\nu{\mathrm{~for~all~}}x\in A\to\mu\succ\nu}\ {}\ {\nu\succ\delta_{x}{\mathrm{~for~all~}}x\in A\to\nu\succ\mu.}\end{array}}
 $$  
 
-From now on we will work within the framework of the [[Preferences for Multi-Date Consumption Plans|expected utility representation]].  
+From now on we will work within the framework of the [expected utility representation](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Preferences%20for%20Multi-Date%20Consumption%20Plans.md).  
 
 # 2.1.2 Risk Aversion  
 
-We focus now on individual financial assets under the assumption that their payoff distributions. at a fixed time are known. We can view these asset distributions as [[Exercises|probability distributions]] on some interval $S\subseteq{\mathcal{R}}$ . Thus we take. $\mathcal{M}$ as a fixed set of Borel probability measures on. $S$ . We also assume that $\mathcal{M}$ is convex and contains all point masses. $\delta_{x}$ for $x\in S$ . Also, we assume that each $\mu\in\mathcal M$ has a well defined expectation  
+We focus now on individual financial assets under the assumption that their payoff distributions. at a fixed time are known. We can view these asset distributions as [probability distributions](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) on some interval $S\subseteq{\mathcal{R}}$ . Thus we take. $\mathcal{M}$ as a fixed set of Borel probability measures on. $S$ . We also assume that $\mathcal{M}$ is convex and contains all point masses. $\delta_{x}$ for $x\in S$ . Also, we assume that each $\mu\in\mathcal M$ has a well defined expectation  
 $$
 m(\mu)=\int x\mu(d x)\in I R.
 $$  
 
-For assets with random payoff $\mu$ resp. [[Risk Sharing|insurance contracts]] with random damage $m(\mu)$ is often called fair price resp. fair premium. However, actual prices resp. premia will typically be different due to risk premia, which can be explained within our conceptual framework. We assume in the sequel that [[Utility Indices|preference]] relations have a von Neumann-Morgenstern representation.  
+For assets with random payoff $\mu$ resp. [insurance contracts](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Risk%20Sharing.md) with random damage $m(\mu)$ is often called fair price resp. fair premium. However, actual prices resp. premia will typically be different due to risk premia, which can be explained within our conceptual framework. We assume in the sequel that [preference](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) relations have a von Neumann-Morgenstern representation.  
 
-Definition 2.1.5. A [[Utility Indices|preference relation]] $\succ$ on $\mathcal{M}$ is called monotone if  
+Definition 2.1.5. A [preference relation](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) $\succ$ on $\mathcal{M}$ is called monotone if  
 $$
 x>y i m p l i e s\delta_{x}\succ\delta_{y}.
 $$  
 
-The [[Utility Indices|preference relation]] is called risk averse if for $\mu\in\mathcal{M}$  
+The [preference relation](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) is called risk averse if for $\mu\in\mathcal{M}$  
 $$
 \delta_{m(\mu)}\succ\mu\quad u n l e s s\quad\mu=\delta_{m(\mu)}.
 $$  
 
-Remark 2.1.1. An economic agent is called risk-averse if his [[Utility Indices|preference relation]] is risk averse A risk-averse economic agent is unwilling to accept or indifferent to every actuarially fair gamble. An economic agent is strictly risk averse if he is unwilling to accept every actuarially fair gamble.  
+Remark 2.1.1. An economic agent is called risk-averse if his [preference relation](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) is risk averse A risk-averse economic agent is unwilling to accept or indifferent to every actuarially fair gamble. An economic agent is strictly risk averse if he is unwilling to accept every actuarially fair gamble.  
 
-Proposition 2.1.1. A [[Utility Indices|preference relation]] a is  
+Proposition 2.1.1. A [preference relation](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) a is  
 
 (i) monotone, iff u is strictly increasing (ii) risk averse, iff $u$ is concave.  
 
@@ -936,7 +936,7 @@ holds for all distinct $x,y\in S$ and $\alpha\in(0,1)$ . Hence
 $$
 u(\alpha x+(1-\alpha)y)>\alpha u(x)+(1-\alpha)u(y),
 $$  
-$u$ is strictly concave. Conversely, if $u$ is strictly concave, then [[Volatility and Convexity|Jensen's inequality]] implies risk aversion, since  
+$u$ is strictly concave. Conversely, if $u$ is strictly concave, then [Jensen's inequality](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%208/Volatility%20and%20Convexity.md) implies risk aversion, since  
 $$
 U(\delta_{m(\mu)})=u\left(\int x\mu(d x)\right)\geq i n t u(x)\mu(d x)=U(\mu)
 $$  
@@ -952,16 +952,16 @@ $$
 
 So $\delta_{c(\mu)}\sim\mu$ , i.e. there is indifference between $\mu$ and the sure amount. $c(\mu)$  
 
-Definition 2.1.7. The [[Risk Aversion|certainty equivalent]] of $\mu$ , denoted by $c(\mu)$ is the number defined in (2.4). It is the amount of money for which the individual is indifferent between the lottery $\mu$ and the certain amount $c(\mu)$ The number  
+Definition 2.1.7. The [certainty equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md) of $\mu$ , denoted by $c(\mu)$ is the number defined in (2.4). It is the amount of money for which the individual is indifferent between the lottery $\mu$ and the certain amount $c(\mu)$ The number  
 $$
 \rho(\mu)=m(\mu)-c(\mu)
 $$  
 
 is called the risk premium.  
 
-The [[Risk Aversion|certainty equivalent]] can be viewed as the upper price an investor would pay for the asset distribution $\mu$ . Thus the fair price must be reduced by the risk premium if one wants an agent to buy the asset.  
+The [certainty equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md) can be viewed as the upper price an investor would pay for the asset distribution $\mu$ . Thus the fair price must be reduced by the risk premium if one wants an agent to buy the asset.  
 
-Consider now an investor who has the choice to invest a fraction of his wealth in a riskfree and. the remaining fraction of his wealth in a risky asset. We want to find conditions on the distribution of the risky asset and the preferences (utility function) of the investor in order to determine his. willingness for a risky [[An Asset Allocation Primer|investment]]. Formally, we consider the following optimisation problem.  
+Consider now an investor who has the choice to invest a fraction of his wealth in a riskfree and. the remaining fraction of his wealth in a risky asset. We want to find conditions on the distribution of the risky asset and the preferences (utility function) of the investor in order to determine his. willingness for a risky [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). Formally, we consider the following optimisation problem.  
 $$
 f(\lambda)=U(\mu_{\lambda})=\int u d\mu_{\lambda}\to\operatorname*{max},
 $$  
@@ -975,7 +975,7 @@ with $X$ an integrable random variable with non-degenerate distribution $\mu$ an
 
 Proposition 2.1.2. We have $\lambda^{*}=1$ if $\b{\mathcal{L}}(\b{X})\leq c$ and $\lambda^{*}>0$ if $c\geq c(\mu)$  
 
-Proof. By [[Volatility and Convexity|Jensen's inequality]]  
+Proof. By [Jensen's inequality](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%208/Volatility%20and%20Convexity.md)  
 $$
 f(\lambda)\leq u\left({\cal E}\left[X_{\lambda}\right]\right)=u\left((1-\lambda){\cal E}(X)+\lambda c\right)
 $$  
@@ -987,7 +987,7 @@ $$
 f(\lambda)\geq E\left(1-\lambda\right)u(X)+\lambda u(c))=(1-\lambda)u(c(\mu))+\lambda u(c)
 $$  
 
-with equality iff. $\lambda\in\{0,1\}$ . The right-hand side is increasing in $\lambda$ if $c\geq c(\mu)$ , and this implies.   $\lambda^{*}>0$ . Remark 2.1.2. (i) (Demand for a risky asset.) The price of a risky asset must be below the expected discounted payoff in order to attract any [[2. Forwards, Swaps, Futures, and Options|risk-averse investor]].   
+with equality iff. $\lambda\in\{0,1\}$ . The right-hand side is increasing in $\lambda$ if $c\geq c(\mu)$ , and this implies.   $\lambda^{*}>0$ . Remark 2.1.2. (i) (Demand for a risky asset.) The price of a risky asset must be below the expected discounted payoff in order to attract any [risk-averse investor](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md).   
 (ii) (Demand for insurance.) Risk aversion can create a demand for insurance even if the insurance premium lies above the fair price.   
 (iii) If $u\in C^{1}(\mathcal{R})$ then  
 $$
@@ -1016,14 +1016,14 @@ $$
 \alpha(x)=-\frac{u^{\prime\prime}(x)}{u^{\prime}(x)}
 $$  
 
-is called the Arrow-Pratt coefficient of [[Utility Functions in Models and in Reality|absolute risk aversion]] of u at level $x$  
+is called the Arrow-Pratt coefficient of [absolute risk aversion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Functions%20in%20Models%20and%20in%20Reality.md) of u at level $x$  
 
-Example 2.1.1. (i) Constant [[Utility Functions in Models and in Reality|absolute risk aversion]] (CARA). Here $\alpha(x)\equiv\alpha$ for some constant. This implies a (normalized) utility function  
+Example 2.1.1. (i) Constant [absolute risk aversion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Functions%20in%20Models%20and%20in%20Reality.md) (CARA). Here $\alpha(x)\equiv\alpha$ for some constant. This implies a (normalized) utility function  
 $$
 u(x)=1-e^{-\alpha x}.
 $$  
 
-(ii) Hyperbolic [[Utility Functions in Models and in Reality|absolute risk aversion]] (HARA). Here $\alpha(x)=(1-\gamma)/x$ for some $\gamma\in[0,1)$ .This implies  
+(ii) Hyperbolic [absolute risk aversion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Functions%20in%20Models%20and%20in%20Reality.md) (HARA). Here $\alpha(x)=(1-\gamma)/x$ for some $\gamma\in[0,1)$ .This implies  
 $$
 \begin{array}{r c l l r}{{u(x)}}&{{=}}&{{\log x}}&{{f o r}}&{{\gamma=0}}\ {{}}&{{}}&{{}}&{{}}\ {{u(x)}}&{{=}}&{{x^{\gamma}/\gamma}}&{{f o r}}&{{0<\gamma<1.}}\end{array}
 $$  
@@ -1042,9 +1042,9 @@ $$
 \alpha_{R}(x)=\alpha(x)x=-x\frac{u^{\prime\prime}(x)}{u^{\prime}(x)}
 $$  
 
-is called the Arrow-Pratt coefficient of [[CCAPM with Alternative Preferences|relative risk aversion]] of u at level $x$  
+is called the Arrow-Pratt coefficient of [relative risk aversion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/CCAPM%20with%20Alternative%20Preferences.md) of u at level $x$  
 
-Remark 2.1.4. (i) An individuals utility function displays decreasing (constant, increasing) [[Utility Functions in Models and in Reality|absolute risk aversion]] if $\alpha(x)$ is decreasing (constant, increasing). (ii) An individuals utility function displays decreasing (constant, increasing) [[CCAPM with Alternative Preferences|relative risk aversion]] if $\alpha_{R}(x)$ is decreasing (constant, increasing)..  
+Remark 2.1.4. (i) An individuals utility function displays decreasing (constant, increasing) [absolute risk aversion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Functions%20in%20Models%20and%20in%20Reality.md) if $\alpha(x)$ is decreasing (constant, increasing). (ii) An individuals utility function displays decreasing (constant, increasing) [relative risk aversion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/CCAPM%20with%20Alternative%20Preferences.md) if $\alpha_{R}(x)$ is decreasing (constant, increasing)..  
 
 # 2.1.3 Further measures of risk  
 
@@ -1090,7 +1090,7 @@ $$
 $(\mathbf{b})\Leftrightarrow(\mathbf{c})$  
 $\Rightarrow$ ": Follows, because. $f(x)=-(c-x)^{+}$ is concave and increasing.  
 $^{,}$ : Let $f$ be an increasing concave function and $h=-f$ .Then $h$ is convex and decreasing   
-and its increasing right-hand derivative $h:=h_{+}^{\prime}$ can be regarded as a [[Verification of Central Limit Theorem|distribution function]] of a   
+and its increasing right-hand derivative $h:=h_{+}^{\prime}$ can be regarded as a [distribution function](Verification%20of%20Central%20Limit%20Theorem.md) of a   
 non-negative (Radon) measure on $\mathbb{R}$ . Thus $\gamma$  
 $$
 h^{\prime}(b)=h^{\prime}(a)+\gamma([a,b])\mathrm{for}a<b.
@@ -1130,7 +1130,7 @@ $$
 
 is the variance of $\mu$ (use condition) $(b)$ with $f(x)=-x^{2}$ ) which holds under $m(\nu)=m(\nu)$ for all concave functions.  
 
-In the financial context, comparison of portfolios with known payoff distributions often use a [[Exercises|mean-variance]] approach with  
+In the financial context, comparison of portfolios with known payoff distributions often use a [mean-variance](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) approach with  
 $$
 \mu\geq\nu\Leftrightarrow m(\nu)\geq m(\nu)\quad\mathrm{and}\quad v a r(\mu)\leq v a r(\nu).
 $$  
@@ -1156,7 +1156,7 @@ So $\mu\geq_{u n i}\nu$ does not hold.
 
 A further important class of distributions is discussed in the following example.  
 
-Example 2.1.3. A real-valued random variable $Y$ on some [[Uncertainty Information and Stochastic Processes|probability space]]. $(\Omega,{\mathcal{F}},I P)$ is called log-normally distributed with parameters $\alpha\in\mathbb R$ and $\sigma\in\mathbb{R}_{+}$ if it can be written as.  
+Example 2.1.3. A real-valued random variable $Y$ on some [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md). $(\Omega,{\mathcal{F}},I P)$ is called log-normally distributed with parameters $\alpha\in\mathbb R$ and $\sigma\in\mathbb{R}_{+}$ if it can be written as.  
 $$
 Y=\exp(\alpha+\sigma X)
 $$  
@@ -1174,13 +1174,13 @@ Theorem 2.1.4. For. $\mu,v\in\mathcal{M}_{1}(\mathbb{R})$ the following conditio
 
 (a) $\mu\geq_{m o n}\nu$   
 (b) for all $x,F(x)\leq G(x)$ where $F,G$ are respectively the distribution functions of $\mu,\nu$   
-(c) there exists a [[Uncertainty Information and Stochastic Processes|probability space]]. $(\Omega,{\mathcal{F}},I P)$ with random variables $X$ and $Y$ having respective distributions $\mu$ and $\nu$ such that $X\ge Y\quad l l-a.s.$  
+(c) there exists a [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md). $(\Omega,{\mathcal{F}},I P)$ with random variables $X$ and $Y$ having respective distributions $\mu$ and $\nu$ such that $X\ge Y\quad l l-a.s.$  
 
 # 2.2 Optimal Portfolios  
 
 # 2.2.1 The mean-variance approach  
 
-Recall our [[Exercises|one-period model]] with securities. $S_{0},S_{1},\ldots,S_{d}$ and security prices. $S_{i}(T)$ at the final. time $t=T$ . Here $S_{0}$ is the risk-free bond and. $S_{1},\ldots,S_{d}$ are random variables on some prob. space $(\Omega,{\mathcal{F}},I P)$ . For the purpose of this section we disregard the risk free asset and invest only in the risky assets. We consider their [[Assets|returns]].  
+Recall our [one-period model](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) with securities. $S_{0},S_{1},\ldots,S_{d}$ and security prices. $S_{i}(T)$ at the final. time $t=T$ . Here $S_{0}$ is the risk-free bond and. $S_{1},\ldots,S_{d}$ are random variables on some prob. space $(\Omega,{\mathcal{F}},I P)$ . For the purpose of this section we disregard the risk free asset and invest only in the risky assets. We consider their [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md).  
 $$
 R_{i}(T)=\frac{S_{i}(T)}{S_{i}(0)}\quad i=1,\dots,d
 $$  
@@ -1197,14 +1197,14 @@ $$
 
 (Observe that $\Sigma=(\sigma_{i j})$ is positive semi-definite).  
 
-We consider [[An Asset Allocation Primer|portfolio]] vectors $\varphi_{i}\in\mathbb{R}^{d}$ with $\varphi_{i}\geq0$ (in order to avoid the possibility of negative final wealth).  
+We consider [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) vectors $\varphi_{i}\in\mathbb{R}^{d}$ with $\varphi_{i}\geq0$ (in order to avoid the possibility of negative final wealth).  
 
-Definition 2.2.1. An investor with [[The One-Period Framework|initial wealth]] $x>0$ is assumed to hold. $\varphi_{i}\geq0$ shares of security $i,i=1,\ldots,d$ with  
+Definition 2.2.1. An investor with [initial wealth](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%206%20-%20Individual%20optimality/The%20One-Period%20Framework.md) $x>0$ is assumed to hold. $\varphi_{i}\geq0$ shares of security $i,i=1,\ldots,d$ with  
 $$
 \sum_{i=1}^{d}\varphi_{1}S_{i}(0)=x\quad"b u d g e t e q u a t i o n".
 $$  
 
-Then the [[An Asset Allocation Primer|portfolio]] vector $\pi=(\pi_{1},\ldots,\pi_{d})$ is defined as  
+Then the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) vector $\pi=(\pi_{1},\ldots,\pi_{d})$ is defined as  
 $$
 \pi_{i}=\frac{\varphi_{i}\cdot S_{i}(0)}{x}\quad i=1,\ldots,d
 $$  
@@ -1214,14 +1214,14 @@ $$
 R^{\pi}=\sum_{i=1}^{d}\pi_{i}R_{i}(T)
 $$  
 
-is called the corresponding [[An Asset Allocation Primer|portfolio]] return.  
+is called the corresponding [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) return.  
 
-Remark 2.2.1. (1) The components of the [[An Asset Allocation Primer|portfolio]] vector represent the fractions of total wealth invested in the corresponding securities. In particular, we have  
+Remark 2.2.1. (1) The components of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) vector represent the fractions of total wealth invested in the corresponding securities. In particular, we have  
 $$
 \sum_{i=1}^{d}\pi_{i}=\frac{1}{x}\sum_{i=1}^{d}\varphi_{i}S_{i}(0)=\frac{x}{x}=1
 $$  
 
-(2) Let $V^{\pi}(T)$ denote the final wealth corresponding to an [[The One-Period Framework|initial wealth]] of $x$ and a [[An Asset Allocation Primer|portfolio]] vector $\varphi$ , i. e.  
+(2) Let $V^{\pi}(T)$ denote the final wealth corresponding to an [initial wealth](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%206%20-%20Individual%20optimality/The%20One-Period%20Framework.md) of $x$ and a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) vector $\varphi$ , i. e.  
 $$
 V^{\pi}(T)=\sum_{i=1}^{d}\varphi_{i}S_{i}(T)
 $$  
@@ -1231,18 +1231,18 @@ $$
 R^{\pi}=\sum_{i=1}^{d}\pi_{i}R_{i}(T)=\sum_{i=1}^{d}\frac{\varphi_{i}S_{i}(0)}{x}\cdot\frac{S_{i}(T)}{S_{i}(0)}=\frac{V^{\pi}(T)}{x}
 $$  
 
-(3) The mean and the variance of the [[An Asset Allocation Primer|portfolio]] return are given by  
+(3) The mean and the variance of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) return are given by  
 $$
 \displaystyle{E(R^{\pi})=\sum_{i=1}^{d}\pi_{i}m_{i},\quad\displaystyle{\mathbb{V}}a r(R^{\pi})=\sum_{i=1}^{d}\sum_{j=1}^{d}\pi_{i}\sigma_{i j}\pi_{j}}
 $$  
 
-We now need to consider criteria for selecting a [[An Asset Allocation Primer|portfolio]]. The basic (by now classical) idea. of Markowitz was to look for a balance between risk (i.e. [[An Asset Allocation Primer|portfolio]] variance) and return (i.e. [[An Asset Allocation Primer|portfolio]] mean). He considered the problem of requiring a lower bound for the [[An Asset Allocation Primer|portfolio]] return (minimum return) and then choosing from the corresponding set the [[An Asset Allocation Primer|portfolio]] vector with the minimal variance. Alternatively, set an upper bound for the variance and determine the [[An Asset Allocation Primer|portfolio]]. vector with the highest possible mean return. We consider.  
+We now need to consider criteria for selecting a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). The basic (by now classical) idea. of Markowitz was to look for a balance between risk (i.e. [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) variance) and return (i.e. [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) mean). He considered the problem of requiring a lower bound for the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) return (minimum return) and then choosing from the corresponding set the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) vector with the minimal variance. Alternatively, set an upper bound for the variance and determine the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). vector with the highest possible mean return. We consider.  
 
-Definition 2.2.2. A [[An Asset Allocation Primer|portfolio]] is a frontier [[An Asset Allocation Primer|portfolio]] if it has the minimum variance among port-. folios that have the same expected rate of return. The set of all frontier portfolios is called the [[An Asset Allocation Primer|portfolio]] frontier.  
+Definition 2.2.2. A [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is a frontier [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) if it has the minimum variance among port-. folios that have the same expected rate of return. The set of all frontier portfolios is called the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) frontier.  
 
-We now discuss briefly the assumptions of the [[Exercises|mean-variance]] approach.  
+We now discuss briefly the assumptions of the [mean-variance](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) approach.  
 
-(1) A [[Utility Indices|preference]] for [[Lecture 1- Probability Distributions of Returns|expected return]] and an aversion to variance is implied by monotonicity and strict concavity of a utility function. However, for arbitrary utility functions, expected. utility cannot be defined over just the [[Lecture 1- Probability Distributions of Returns|expected return]] and variances. For. $\mu\in\mathcal M$ assume  
+(1) A [preference](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) for [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) and an aversion to variance is implied by monotonicity and strict concavity of a utility function. However, for arbitrary utility functions, expected. utility cannot be defined over just the [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) and variances. For. $\mu\in\mathcal M$ assume  
 $$
 \begin{array}{l c l}{{U(\mu)}}&{{=}}&{{\int u(x)\mu(d x)=}}\ {{}}&{{}}&{{}}\ {{}}&{{=}}&{{u(m)+\frac{1}{2}u^{\prime\prime}(m)W a r(\mu)+R_{3}(\mu)}}\end{array}(x-m)^{k}\mu(d x)
 $$  
@@ -1259,11 +1259,11 @@ $$
 U(\mu)=m-\frac b2m_{2}=m-\frac b2({\cal{W}}a r(\mu)+m^{2}).
 $$  
 
-Unfortunately, quadratic utility displays satiation (negative utility for increasing wealth) and increasing [[Utility Functions in Models and in Reality|absolute risk aversion]].  
+Unfortunately, quadratic utility displays satiation (negative utility for increasing wealth) and increasing [absolute risk aversion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Functions%20in%20Models%20and%20in%20Reality.md).  
 
 (3) For $\mu_{i}$ normal distributions, $R^{\pi}\sim{\mathcal N}$ , thus preferences can be expressed solely from mean and variance.  
 
-Proposition 2.2.1. $A$ [[An Asset Allocation Primer|portfolio]] $p$ is a frontier [[An Asset Allocation Primer|portfolio]] if and only if the [[Portfolios and Trading Strategies|portfolio weight vector]] $\pi^{p}$ is a solution to the optimisation problem.  
+Proposition 2.2.1. $A$ [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $p$ is a frontier [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) if and only if the [portfolio weight vector](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Portfolios%20and%20Trading%20Strategies.md) $\pi^{p}$ is a solution to the optimisation problem.  
 $$
 \operatorname*{min}_{\pi}\frac{1}{2}\pi^{\prime}\Sigma\pi=\operatorname*{min}_{\pi}\frac{1}{2}\sum_{i}\sum_{j}\pi_{i}\pi_{j}\sigma_{i j}^{2}\quad(=2{\cal V}a r(R^{\pi}))
 $$  
@@ -1273,7 +1273,7 @@ $$
 \begin{array}{l c l}{{\pi^{\prime}\mu=\displaystyle\sum_{i}\pi_{i}\mu_{i}}}&{{=}}&{{{\displaystyle I E(R^{\pi}):=m_{p}}}}\ {{\pi^{\prime}{\bf1}=\displaystyle\sum_{i}\pi_{i}}}&{{=}}&{{{\displaystyle1.}}}\end{array}
 $$  
 
-1 is an $N$ -vector of ones, $\pmb{m}=(m_{1},\dots,m_{d})$ is the vector of expected [[Assets|returns]] of the assets and $m_{p}$ is a fixed rate of [[An Asset Allocation Primer|portfolio]]-return.  
+1 is an $N$ -vector of ones, $\pmb{m}=(m_{1},\dots,m_{d})$ is the vector of expected [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) of the assets and $m_{p}$ is a fixed rate of [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)-return.  
 
 We can solve (2.13) and write the solution as  
 $$
@@ -1287,14 +1287,14 @@ $$
 
 where A = 1T $\Sigma^{-1}m=m^{\prime}\Sigma^{-1}{\bf1},B=m^{T}\Sigma^{-1}m,C={\bf1^{\prime}}\Sigma^{-1}{\bf1}$ and $D=B C-A^{2}>0$  
 
-For $m_{p}=0$ we find from (2.14) that the optimal [[An Asset Allocation Primer|portfolio]] is $g$ . Also, for $m_{p}=1$ (2.14) implies that the optimal [[An Asset Allocation Primer|portfolio]] is. $g+h$ . Now for any given [[Lecture 1- Probability Distributions of Returns|expected return]] $m_{q}$ we find  
+For $m_{p}=0$ we find from (2.14) that the optimal [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is $g$ . Also, for $m_{p}=1$ (2.14) implies that the optimal [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is. $g+h$ . Now for any given [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) $m_{q}$ we find  
 $$
 \pi^{q}=g+h m_{q}=(1-m_{q})g+m_{q}(g+h).
 $$  
 
 This generalizes to  
 
-Proposition 2.2.2 (Two-fund separation). The [[An Asset Allocation Primer|portfolio]] frontier can be generated by any two distinct frontier portfolios.  
+Proposition 2.2.2 (Two-fund separation). The [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) frontier can be generated by any two distinct frontier portfolios.  
 
 The covariance between the rates of return of any frontier portfolios $p$ and $q$ is  
 $$
@@ -1306,16 +1306,16 @@ $$
 \frac{\sigma^{2}(R^{p})}{1/C}-\frac{(m_{p}-A/C)^{2}}{D/C^{2}}=1,
 $$  
 
-which is a hyperbola in the standard-deviation - [[Lecture 1- Probability Distributions of Returns|expected return]] $(\sigma-\mu)$ space.  
+which is a hyperbola in the standard-deviation - [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) $(\sigma-\mu)$ space.  
 
-(i) The [[An Asset Allocation Primer|portfolio]] having the minimum variance of all feasible portfolios is called minimum variance [[An Asset Allocation Primer|portfolio]] and denoted as mvp.   
-(ii) A frontier [[An Asset Allocation Primer|portfolio]] is efficient if it has a strictly higher [[Lecture 1- Probability Distributions of Returns|expected return]] than the mvp.   
+(i) The [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) having the minimum variance of all feasible portfolios is called minimum variance [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and denoted as mvp.   
+(ii) A frontier [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is efficient if it has a strictly higher [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) than the mvp.   
 (iii) Frontier portfolios that are neither mvp nor efficient are called inefficient.   
-(iv) The [[2. Forwards, Swaps, Futures, and Options|efficient frontier]] is the part of the curve lying above the point of global minimum of standard deviation.  
+(iv) The [efficient frontier](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) is the part of the curve lying above the point of global minimum of standard deviation.  
 
-We can use (2.15) to show that for any frontier [[An Asset Allocation Primer|portfolio]] $p$ (except the mvp) there exists a. unique frontier [[An Asset Allocation Primer|portfolio]]. $z c(p)$ which has zero covariance with. $p$  
+We can use (2.15) to show that for any frontier [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $p$ (except the mvp) there exists a. unique frontier [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). $z c(p)$ which has zero covariance with. $p$  
 
-Proposition 2.2.3. If $\pi$ is any envelope [[An Asset Allocation Primer|portfolio]], then for any other [[An Asset Allocation Primer|portfolio]] (envelope or not) $\tilde{\pi}$ we have the relation.  
+Proposition 2.2.3. If $\pi$ is any envelope [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), then for any other [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) (envelope or not) $\tilde{\pi}$ we have the relation.  
 $$
 m_{\pi}=c+\beta_{\pi}(m_{\tilde{\pi}}-c)
 $$  
@@ -1325,11 +1325,11 @@ $$
 \beta_{\pi}=\frac{{\mathbb C}o v(\pi,\tilde{\pi})}{\sigma_{\tilde{\pi}}^{2}}.
 $$  
 
-Furthermore, c is the [[Lecture 1- Probability Distributions of Returns|expected return]] of a [[An Asset Allocation Primer|portfolio]] $\pi^{*}$ whose covariance with $\tilde{\pi}$ is zero.  
+Furthermore, c is the [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) of a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $\pi^{*}$ whose covariance with $\tilde{\pi}$ is zero.  
 
-Existence of a [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] has the effect of making the [[2. Forwards, Swaps, Futures, and Options|efficient frontier]] a straight line extending from the rate to the point where the line is tangential to the original [[2. Forwards, Swaps, Futures, and Options|efficient frontier]] for the risky assets. This leads to the one-fund theorem: There is a single fund ([[An Asset Allocation Primer|portfolio]]) such that any efficient [[An Asset Allocation Primer|portfolio]] can be constructed as a combination of the fund and the [[2. Forwards, Swaps, Futures, and Options|risk-free asset]].  
+Existence of a [risk-free asset](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) has the effect of making the [efficient frontier](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) a straight line extending from the rate to the point where the line is tangential to the original [efficient frontier](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) for the risky assets. This leads to the one-fund theorem: There is a single fund ([portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)) such that any efficient [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) can be constructed as a combination of the fund and the [risk-free asset](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md).  
 
-The implication of Proposition 2.2.3 in the presence of the a [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] is that there exists a linear relationship between any security and portfolios on the efficient frontiers involving so-called. 'beta factors'.  
+The implication of Proposition 2.2.3 in the presence of the a [risk-free asset](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) is that there exists a linear relationship between any security and portfolios on the efficient frontiers involving so-called. 'beta factors'.  
 $$
 m_{i}-r=\beta_{i,p}(m_{p}-r),
 $$  
@@ -1339,7 +1339,7 @@ $$
 \beta_{i,p}=\mathbb{C}o v(R_{i},R^{p})/\sigma_{p}^{2}.
 $$  
 
-This extends to any [[An Asset Allocation Primer|portfolio]] $q$ , i.e.  
+This extends to any [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $q$ , i.e.  
 $$
 m_{q}-r=\beta_{q,p}(m_{p}-r),
 $$  
@@ -1351,48 +1351,48 @@ with $\beta_{q,p}=\mathbb{C}o v(R^{q},R^{p})/\sigma_{p}^{2}$
 We now consider a so-called Equilibrium Model. The focus of attention is turned from the individual investor to the aggregate market for securities (and all investors) as a whole. We need assumptions on the investors' behaviour and the market as a whole.  
 
 . All investors have the same one-period horizon..   
-. All investors can borrow or lend at the same [[Black Scholes Derivation|risk-free rate]]..   
+. All investors can borrow or lend at the same [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md)..   
 . The markets for risky assets are perfect. Information is freely and instantly available to all investors and no investor believes that they can affect the price of a security by their own action.   
-Investors have the same estimates of the expected [[Assets|returns]], standard deviations and covariances over the one-period horizon..   
+Investors have the same estimates of the expected [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md), standard deviations and covariances over the one-period horizon..   
 All investors measure in the same numeraire..  
 
-Under the assumptions of [[Exercises|mean-variance]] theory we have in equilibrium  
+Under the assumptions of [mean-variance](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) theory we have in equilibrium  
 
-1. If investors have homogeneous [[FORWARD RATES AND TERM STRUCTURE|expectations]], then they are all faced by the same [[2. Forwards, Swaps, Futures, and Options|efficient frontier]] of risky securities.   
-2. If there is a [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] the [[2. Forwards, Swaps, Futures, and Options|efficient frontier]] collapses for all investors to a straight line which passes through the [[Financial Instruments|risk-free rate of return]] on the $m$ axis and is tangential to the [[2. Forwards, Swaps, Futures, and Options|efficient frontier]].  
+1. If investors have homogeneous [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md), then they are all faced by the same [efficient frontier](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) of risky securities.   
+2. If there is a [risk-free asset](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) the [efficient frontier](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) collapses for all investors to a straight line which passes through the [risk-free rate of return](../Financial%20Instruments/Financial%20Instruments.md) on the $m$ axis and is tangential to the [efficient frontier](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md).  
 
-All investors face the same [[2. Forwards, Swaps, Futures, and Options|efficient frontier]] because they have the same views on the available securities. Thus:  
+All investors face the same [efficient frontier](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) because they have the same views on the available securities. Thus:  
 
-1. All rational investors will hold a combination of the [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] and the [[An Asset Allocation Primer|portfolio]] of assets where the straight line through the [[A Preview of Alternative Formulations|risk-free return]] touches the original [[2. Forwards, Swaps, Futures, and Options|efficient frontier]].   
-2. Because investors share the same [[2. Forwards, Swaps, Futures, and Options|efficient frontier]] they all hold the same [[Chapter 5 - Index Futures|diversified portfolio]]. Because this [[An Asset Allocation Primer|portfolio]] is held in different quantities by all investors it must consist of all risky assets in proportion to their [[Price-to-Sales Ratios in Stock Valuation|market capitalization]]. It is commonly called the 'market [[An Asset Allocation Primer|portfolio]]' .   
+1. All rational investors will hold a combination of the [risk-free asset](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) and the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of assets where the straight line through the [risk-free return](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) touches the original [efficient frontier](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md).   
+2. Because investors share the same [efficient frontier](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) they all hold the same [diversified portfolio](Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md). Because this [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is held in different quantities by all investors it must consist of all risky assets in proportion to their [market capitalization](../Advanced%20Financial%20Analysis%20and%20Valuation/Financial%20Ratios/Price-to-Sales%20Ratios%20in%20Stock%20Valuation.md). It is commonly called the 'market [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)' .   
 3. Other strategies are non-optimal.  
 
-The line denoting the [[2. Forwards, Swaps, Futures, and Options|efficient frontier]] is called the capital market line and its equation is  
+The line denoting the [efficient frontier](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) is called the capital market line and its equation is  
 $$
 m_{p}-r=(m_{M}-r)\frac{\sigma_{p}}{\sigma_{M}}
 $$  
 
-where $m_{p}$ is the [[Lecture 1- Probability Distributions of Returns|expected return]] of any [[An Asset Allocation Primer|portfolio]] p on the [[2. Forwards, Swaps, Futures, and Options|efficient frontier]]; $\sigma_{p}$ is the standard deviation of the return on [[An Asset Allocation Primer|portfolio]] p;. $m_{M}$ is the [[Lecture 1- Probability Distributions of Returns|expected return]] on the market [[An Asset Allocation Primer|portfolio]], $O u$ is the standard deviation of the market [[An Asset Allocation Primer|portfolio]] and. $r$ is the [[Financial Instruments|risk-free rate of return]]..  
+where $m_{p}$ is the [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) of any [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) p on the [efficient frontier](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md); $\sigma_{p}$ is the standard deviation of the return on [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) p;. $m_{M}$ is the [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) on the market [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), $O u$ is the standard deviation of the market [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and. $r$ is the [risk-free rate of return](../Financial%20Instruments/Financial%20Instruments.md)..  
 
-Thus the [[Lecture 1- Probability Distributions of Returns|expected return]] on any [[An Asset Allocation Primer|portfolio]] is a linear function of its standard deviation. The factor $\frac{m_{M}-r}{\sigma_{M}}$ is called the [[Exercises|market price of risk]].  
+Thus the [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) on any [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is a linear function of its standard deviation. The factor $\frac{m_{M}-r}{\sigma_{M}}$ is called the [market price of risk](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md).  
 
-We can also develop an equation relating the [[Lecture 1- Probability Distributions of Returns|expected return]] of any asset to the return of the market  
+We can also develop an equation relating the [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) of any asset to the return of the market  
 $$
 m_{i}-r=(m_{M}-r)\beta_{i}
 $$  
 
-where $m_{i}$ is the [[Lecture 1- Probability Distributions of Returns|expected return]] on security $i$ ; $\beta_{i}$ is the beta factor of security. $i$ ,defined as $\mathbb{C}o v(R_{i},R^{M})/\mathbb{V}a r(R^{M})$ $m_{M}$ is the [[Lecture 1- Probability Distributions of Returns|expected return]] on the market [[An Asset Allocation Primer|portfolio]] and $r$ is the riskfree rate of return. Equation (2.19) is called the security market line. It shows that the [[Lecture 1- Probability Distributions of Returns|expected return]] of any security (and [[An Asset Allocation Primer|portfolio]]) can be expressed as a linear function of the securities covariance with the market as a whole.  
+where $m_{i}$ is the [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) on security $i$ ; $\beta_{i}$ is the beta factor of security. $i$ ,defined as $\mathbb{C}o v(R_{i},R^{M})/\mathbb{V}a r(R^{M})$ $m_{M}$ is the [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) on the market [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and $r$ is the riskfree rate of return. Equation (2.19) is called the security market line. It shows that the [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) of any security (and [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)) can be expressed as a linear function of the securities covariance with the market as a whole.  
 
 # 2.2.3 Portfolio optimisation and the absence of arbitrage  
 
-Consider the standard [[Exercises|one-period model]] with assets. $(S_{0},\dots,S_{d}),S_{0}$ the risk-free bond with interest. rate $r>0$ . Denote by $\boldsymbol{\varphi}=\left(\varphi_{0},\ldots,\varphi_{d}\right)$ [[An Asset Allocation Primer|portfolio]] vectors specifying the amount of shares of the assets in the [[An Asset Allocation Primer|portfolio]]..  
+Consider the standard [one-period model](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) with assets. $(S_{0},\dots,S_{d}),S_{0}$ the risk-free bond with interest. rate $r>0$ . Denote by $\boldsymbol{\varphi}=\left(\varphi_{0},\ldots,\varphi_{d}\right)$ [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) vectors specifying the amount of shares of the assets in the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)..  
 
-We consider an investor with utility function $\tilde{u}$ . A rational choice of the investor's [[An Asset Allocation Primer|portfolio]] will be based on expected utility.  
+We consider an investor with utility function $\tilde{u}$ . A rational choice of the investor's [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) will be based on expected utility.  
 $$
 \it{I E}(\tilde{u}(\varphi^{\prime}S(T)))
 $$  
 
-of the payoff. $\varphi^{\prime}S(T)$ at time $T$ , where the [[An Asset Allocation Primer|portfolio]]. $\varphi$ satisfies the budget constraint  
+of the payoff. $\varphi^{\prime}S(T)$ at time $T$ , where the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). $\varphi$ satisfies the budget constraint  
 $$
 \varphi^{\prime}S(0)\leq\omega
 $$  
@@ -1404,7 +1404,7 @@ $$
 
 with $Y=(Y_{0},Y_{1},...,Y_{d})$ and $\begin{array}{r}{Y_{i}=\frac{S_{i}(T)}{1+r}-S_{i}(0)}\end{array}$ . (Here $Y_{0}=0!$  
 
-For any [[An Asset Allocation Primer|portfolio]] $\varphi$ with. $\varphi^{\prime}S(0)<\omega$ , adding the risk-free [[An Asset Allocation Primer|investment]] $\omega-\varphi^{\prime}S(0)$ would lead to. the strictly better [[An Asset Allocation Primer|portfolio]] $\left(\varphi_{0}+\omega-\varphi^{\prime}S(0),\varphi_{1},...,\varphi_{d}\right)$ . Thus we can focus on $\varphi$ with $\varphi^{\prime}S(0)=\omega$ Then the payoff is an affine function of the discounted net gain  
+For any [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $\varphi$ with. $\varphi^{\prime}S(0)<\omega$ , adding the risk-free [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $\omega-\varphi^{\prime}S(0)$ would lead to. the strictly better [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $\left(\varphi_{0}+\omega-\varphi^{\prime}S(0),\varphi_{1},...,\varphi_{d}\right)$ . Thus we can focus on $\varphi$ with $\varphi^{\prime}S(0)=\omega$ Then the payoff is an affine function of the discounted net gain  
 $$
 \begin{array}{r}{\varphi^{\prime}S(T)=(1+r)(\varphi^{\prime}Y+\omega).}\end{array}
 $$  
@@ -1444,18 +1444,18 @@ $$
 E[n(\varphi^{\prime}Y)]\quad\varphi\in S(D)
 $$  
 
-if the only if the market model is [[Arbitrage Pricing of Derivatives|arbitrage]]-free. Moreover, there exists at most one maximizer if the market model is complete.  
+if the only if the market model is [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free. Moreover, there exists at most one maximizer if the market model is complete.  
 
 Proof. Uniqueness follows from the strict concavity of the function $\varphi\to L(u(\varphi^{\prime}Y))$ for complete market models.  
 
-In case the model is incomplete we can find a complete submodel and apply the result to this submodel. So we may assume completeness. (Recall completeness is equivalent to $\begin{array}{r l}{\eta^{\prime}Y=0}&{{}\Rightarrow}\end{array}$ $\eta=0$ ). If the model admits [[Arbitrage Pricing of Derivatives|arbitrage]], we find a vector $\xi^{\prime}\cdot Y\ge0\underline{{\cal P}}$ -a.s. and $D P(\xi^{\prime}Y)>0$ with no initial [[An Asset Allocation Primer|investment]]. So for $\varphi^{*}$ optimal  
+In case the model is incomplete we can find a complete submodel and apply the result to this submodel. So we may assume completeness. (Recall completeness is equivalent to $\begin{array}{r l}{\eta^{\prime}Y=0}&{{}\Rightarrow}\end{array}$ $\eta=0$ ). If the model admits [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), we find a vector $\xi^{\prime}\cdot Y\ge0\underline{{\cal P}}$ -a.s. and $D P(\xi^{\prime}Y)>0$ with no initial [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). So for $\varphi^{*}$ optimal  
 $$
 \begin{array}{r}{B E(u(\varphi^{*^{\prime}}Y))<B E(u((\varphi^{*}+\eta)^{\prime}Y))}\end{array}
 $$  
 
 a contradiction.  
 
-Assume now that the market is [[Arbitrage Pricing of Derivatives|arbitrage]]-free. We consider the case $D=[a,\infty)$ for some $a\in(-\infty,0)$ .We show  
+Assume now that the market is [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free. We consider the case $D=[a,\infty)$ for some $a\in(-\infty,0)$ .We show  
 
 (i) $S(D)$ is compact;   
 (ii) $\varphi\to L[u(\varphi^{\prime}Y)]$ is continuous.  
@@ -1467,7 +1467,7 @@ $$
 \eta^{\prime}Y=\operatorname*{lim}_{n\to\infty}\frac{\varphi_{n}^{\prime}Y}{|\varphi_{n}|}\geq\frac{a}{|\varphi_{n}|}=0\quad\mathit{I P a.s.}
 $$  
 
-and so by completeness $\tilde{\varphi}=(-S(0)^{\prime}\eta,\eta)$ is an [[Arbitrage Pricing of Derivatives|arbitrage]] opportunity. However, under completeness $\eta^{\prime}Y=0$ $\mathbf{\Omega}_{\mu}\mathbf{\Omega}_{\mathrm{a}.\mathrm{s}}$ . implies $\eta=0$  
+and so by completeness $\tilde{\varphi}=(-S(0)^{\prime}\eta,\eta)$ is an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity. However, under completeness $\eta^{\prime}Y=0$ $\mathbf{\Omega}_{\mu}\mathbf{\Omega}_{\mathrm{a}.\mathrm{s}}$ . implies $\eta=0$  
 
 (ii) To show continuity it suffices to construct an integrable random variable which dominates $u(\varphi^{\prime}Y)$ for all $\varphi\in S(D)$ . Define $\eta\in\mathcal{R}^{d}$ by  
 $$
@@ -1498,9 +1498,9 @@ $$
 
 This shows that. $u(X)$ can be dominated by a multiple of $\boldsymbol{u}(\alpha X-\boldsymbol{b})$ plus some constant.  
 
-We now turn to a characterization of the solution $\varphi^{*}$ of the [[Properties of State-Price Deflators|utility maximization problem]] for continuously differentiable utility functions.  
+We now turn to a characterization of the solution $\varphi^{*}$ of the [utility maximization problem](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Properties%20of%20State-Price%20Deflators.md) for continuously differentiable utility functions.  
 
-Proposition 2.2.4. Let $n$ be a twice continuously differentiable utility function on $D$ such that $\mathit{I E}(u(\varphi^{\prime}Y))$ is finite for all $\varphi\in S(D)$ . Suppose that $\varphi^{*}$ is a solution of the [[Properties of State-Price Deflators|utility maximization problem]], and that one of the following conditions is satisfied. Either  
+Proposition 2.2.4. Let $n$ be a twice continuously differentiable utility function on $D$ such that $\mathit{I E}(u(\varphi^{\prime}Y))$ is finite for all $\varphi\in S(D)$ . Suppose that $\varphi^{*}$ is a solution of the [utility maximization problem](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Properties%20of%20State-Price%20Deflators.md), and that one of the following conditions is satisfied. Either  
 
 u is defined on $D=\mathit{\Pi}\mathit{\/{R}}$ and bounded from above or u is defined on $D=[a,\infty)$ and $\varphi^{*}$ is an interior point of. $S(D)$  
 
@@ -1538,16 +1538,16 @@ $$
 
 for all $\eta$ in a small ball centered in the origin of ${\mathcal{R}}^{d}$ . Replacing $\eta$ by $-\eta$ shows that the expectation must vanish; i.e.. ${\cal{I}}E(u^{\prime}(\varphi^{*^{\prime}}Y)\eta^{\prime}Y)=0\forall\eta$ in a small ball around the origin, so ${\cal E}(u^{\prime}(\varphi^{*^{\prime}}Y)\eta^{\prime}Y)=$ 0.  
 
-We can now give a characterisation of an equivalent [[Verifying Martingale Property with Q|risk-neutral measure]].  
+We can now give a characterisation of an equivalent [risk-neutral measure](Verifying%20Martingale%20Property%20with%20Q.md).  
 
-Corollary 2.2.1. Suppose that the market model is [[Arbitrage Pricing of Derivatives|arbitrage]]-free and that the assumptions of Proposition 2.2.4 are satisfied for a utility function $u:D\rightarrow\mathscr{R}$ .Let $\phi^{*}$ be a maximizer of the expected utility. Then  
+Corollary 2.2.1. Suppose that the market model is [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free and that the assumptions of Proposition 2.2.4 are satisfied for a utility function $u:D\rightarrow\mathscr{R}$ .Let $\phi^{*}$ be a maximizer of the expected utility. Then  
 $$
 \frac{d D^{*}}{d D}=\frac{u^{\prime}(\varphi^{*^{\prime}}Y)}{D E(u^{\prime}(\varphi^{*^{\prime}}Y))}
 $$  
 
-defines an equivalent [[Verifying Martingale Property with Q|risk-neutral measure]].  
+defines an equivalent [risk-neutral measure](Verifying%20Martingale%20Property%20with%20Q.md).  
 
-Proof. Recall that. $\textstyle{\mathcal{E}}^{*}(Y)=0$ is the criterion for risk-neutrality which is satisfied by Proposition 2.2.4. Hence $\b{\mathcal{N}}^{*}$ is a [[Verifying Martingale Property with Q|risk-neutral measure]] if it is well-defined, i.e..  
+Proof. Recall that. $\textstyle{\mathcal{E}}^{*}(Y)=0$ is the criterion for risk-neutrality which is satisfied by Proposition 2.2.4. Hence $\b{\mathcal{N}}^{*}$ is a [risk-neutral measure](Verifying%20Martingale%20Property%20with%20Q.md) if it is well-defined, i.e..  
 $$
 \begin{array}{r}{D E(u^{\prime}(\varphi^{*^{\prime}}Y))\in\mathcal{L}^{1}(D).}\end{array}
 $$  
@@ -1564,14 +1564,14 @@ $$
 
 and the right-hand side has finite expectation.  
 
-Remark 2.2.2. We can now give a constructive proof of the first [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|fundamental theorem]] of [[Fixed Income Asset Pricing|asset pricing]]. Suppose the model is [[Arbitrage Pricing of Derivatives|arbitrage]]-free..   
+Remark 2.2.2. We can now give a constructive proof of the first [fundamental theorem](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of [asset pricing](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md). Suppose the model is [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free..   
 (i) If $Y$ is a.s. $\mathcal{W}$ -a.s. bounded, then so is. $u^{\prime}(\varphi^{*^{\prime}}Y)$ and the measure $\b{\mathcal{M}}^{*}$ is an equivalent martingale measure with a bounded density.   
 (ii) If $Y$ is unbounded we may consider the bounded random vector  
 $$
 \tilde{Y}=\frac{Y}{1+|Y|}
 $$  
 
-which also satisfies the no-[[Arbitrage Pricing of Derivatives|arbitrage]] condition.  
+which also satisfies the no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) condition.  
 
 Let $\tilde{\varphi}^{*}$ be a maximiser of expected utility $\it{I E}(u^{\prime}(\varphi^{\prime}\tilde{Y})$ . Then an equivalent martingale measure is given by $\b{\mathcal{N}}^{*}$ defined via the bounded density  
 $$
@@ -1586,33 +1586,33 @@ where c is an appropriate constant.
 
 # 3.1 The model  
 
-We will study so-called finite markets - i.e. [[Financial Mathematics Course|discrete-time models]] of [[Financial Markets and Institutions Lecture Notes|financial markets]] in which all. relevant quantities take a finite number of values. Following the approach of Harrison and Pliska (1981) and Taqqu and Willinger (1987), it suffices, to illustrate the ideas, to work with a finite. [[Uncertainty Information and Stochastic Processes|probability space]] $(\Omega,{\mathcal{F}},I P)$ , with a finite number. $|\Omega|$ of points $\omega$ , each with positive probability: ${\cal P}(\{\omega\})>0$  
+We will study so-called finite markets - i.e. [discrete-time models](.md) of [financial markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) in which all. relevant quantities take a finite number of values. Following the approach of Harrison and Pliska (1981) and Taqqu and Willinger (1987), it suffices, to illustrate the ideas, to work with a finite. [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md) $(\Omega,{\mathcal{F}},I P)$ , with a finite number. $|\Omega|$ of points $\omega$ , each with positive probability: ${\cal P}(\{\omega\})>0$  
 
-We specify a time horizon $T$ , which is the terminal date for all economic activities considered. (For a simple option [[Arbitrage Pricing of Derivatives|pricing]] model the time horizon typically corresponds to the expiry date of the option.)  
+We specify a time horizon $T$ , which is the terminal date for all economic activities considered. (For a simple option [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) model the time horizon typically corresponds to the expiry date of the option.)  
 
 As before, we use a filtration $\boldsymbol{F}=\{\mathcal{F}_{t}\}_{t=0}^{T}$ consisting ofd $\sigma$ -algebras ${\mathcal{F}}_{0}\subset{\mathcal{F}}_{1}\subset\cdots\subset{\mathcal{F}}_{T}$ : we take $\mathcal{F}_{0}=\{\varnothing,\Omega\}$ , the trivial. $\sigma$ -field, $\mathcal{F}_{T}=\mathcal{F}=\mathcal{P}(\Omega)$ (here $\mathcal{P}(\Omega)$ is the power-set of $\Omega$ , the class. of all $2^{|\Omega|}$ subsets of. $\Omega$ : we need every possible subset, as they all - apart from the empty set -- carry positive probability).  
 
-The financial market contains $d+1$ financial assets. The usual interpretation is to assume. one [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] (bond, bank account) labelled. $0$ , and $d$ risky assets (stocks, say) labelled 1 to $d$ .While the reader may keep this interpretation as a mental picture, we prefer not to use it directly. The prices of the assets at time. $t$ are random variables,. $S_{0}(t,\omega),S_{1}(t,\omega),\ldots,S_{d}(t,\omega)$ say, non-negative and. $\mathbf{\mathcal{F}}_{t}$ -measurable (i.e. adapted: at time $t$ , we know the prices. $S_{i}(t)$ ).We write $S(t)=(S_{0}(t),S_{1}(t),\ldots,S_{d}(t))^{\prime}$ for the vector of prices at time $t$ . Hereafter we refer to the. [[Uncertainty Information and Stochastic Processes|probability space]] $(\Omega,{\mathcal{F}},I P)$ , the set of trading dates, the price process $S$ and the information. structure $\bar{\mathcal{M}}$ , which is typically generated by the price process. $S$ , together as a securities market model.  
+The financial market contains $d+1$ financial assets. The usual interpretation is to assume. one [risk-free asset](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) (bond, bank account) labelled. $0$ , and $d$ risky assets (stocks, say) labelled 1 to $d$ .While the reader may keep this interpretation as a mental picture, we prefer not to use it directly. The prices of the assets at time. $t$ are random variables,. $S_{0}(t,\omega),S_{1}(t,\omega),\ldots,S_{d}(t,\omega)$ say, non-negative and. $\mathbf{\mathcal{F}}_{t}$ -measurable (i.e. adapted: at time $t$ , we know the prices. $S_{i}(t)$ ).We write $S(t)=(S_{0}(t),S_{1}(t),\ldots,S_{d}(t))^{\prime}$ for the vector of prices at time $t$ . Hereafter we refer to the. [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md) $(\Omega,{\mathcal{F}},I P)$ , the set of trading dates, the price process $S$ and the information. structure $\bar{\mathcal{M}}$ , which is typically generated by the price process. $S$ , together as a securities market model.  
 
 It will be essential to assume that the price process of at least one asset follows a strictly positive process.  
 
 Definition 3.1.1. A numeraire is a price process $(X(t))_{t=0}^{T}$ (a sequence of random variables),.   
 which is strictly positive for all. $t\in\{0,1,\ldots,T\}$  
 
-For the standard approach the risk-free bank account process is used as numeraire. In some applications, however, it is more convenient to use a security other than the bank account and we therefore just use $S_{0}$ without further specification as a numeraire. We furthermore take. $S_{0}(0)=1$ (that is, we reckon in units of the initial value of our numeraire), and define $\beta(t):=1/S_{0}(t)$ as a [[Discount Factors|discount factor]].  
+For the standard approach the risk-free bank account process is used as numeraire. In some applications, however, it is more convenient to use a security other than the bank account and we therefore just use $S_{0}$ without further specification as a numeraire. We furthermore take. $S_{0}(0)=1$ (that is, we reckon in units of the initial value of our numeraire), and define $\beta(t):=1/S_{0}(t)$ as a [discount factor](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md).  
 
-A trading strategy (or dynamic [[An Asset Allocation Primer|portfolio]]) $\varphi$ is a $\textstyle\mathit{\Pi}\mathit{{H}}^{d+1}$ vector [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] $\varphi=(\varphi(t))_{t=1}^{T}=$ $((\varphi_{0}(t,\omega),\varphi_{1}(t,\omega),\ldots,\varphi_{d}(t,\omega))^{\prime})_{t=1}^{T}$ which is predictable (or previsible): each $\varphi_{i}(t)$ is $\mathcal{F}_{t-1}$ -measurable for $t\geq1$ . Here $\varphi_{i}(t)$ denotes the number of shares of asset $i$ held in the [[An Asset Allocation Primer|portfolio]] at time $t-$ to  
+A trading strategy (or dynamic [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)) $\varphi$ is a $\textstyle\mathit{\Pi}\mathit{{H}}^{d+1}$ vector [stochastic process](../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) $\varphi=(\varphi(t))_{t=1}^{T}=$ $((\varphi_{0}(t,\omega),\varphi_{1}(t,\omega),\ldots,\varphi_{d}(t,\omega))^{\prime})_{t=1}^{T}$ which is predictable (or previsible): each $\varphi_{i}(t)$ is $\mathcal{F}_{t-1}$ -measurable for $t\geq1$ . Here $\varphi_{i}(t)$ denotes the number of shares of asset $i$ held in the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) at time $t-$ to  
 
-be determined on the basis of information available before time. $t$ ; i.e. the investor selects his time $t$ [[An Asset Allocation Primer|portfolio]] after observing the prices $S(t-1)$ . However, the [[An Asset Allocation Primer|portfolio]] $\varphi(t)$ must be established before, and held until after, announcement of the prices. $S(t)$ . The components $\varphi_{i}(t)$ may assume negative as well as positive values, reflecting the fact that we allow short sales and assume that the assets are perfectly divisible.  
+be determined on the basis of information available before time. $t$ ; i.e. the investor selects his time $t$ [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) after observing the prices $S(t-1)$ . However, the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $\varphi(t)$ must be established before, and held until after, announcement of the prices. $S(t)$ . The components $\varphi_{i}(t)$ may assume negative as well as positive values, reflecting the fact that we allow short sales and assume that the assets are perfectly divisible.  
 
-Definition 3.1.2. The value of the [[An Asset Allocation Primer|portfolio]] at time $t$ is the scalar product  
+Definition 3.1.2. The value of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) at time $t$ is the scalar product  
 $$
 V_{\varphi}(t)=\varphi(t)\cdot S(t):=\sum_{i=0}^{d}\varphi_{i}(t)S_{i}(t),(t=1,2,\ldots,T)a n d V_{\varphi}(0)=\varphi(1)\cdot S(0).
 $$  
 
 The process $V_{\varphi}(t,\omega)$ is called the wealth or value process of the trading strategy $\varphi$  
 
-The [[The One-Period Framework|initial wealth]]. $V_{\varphi}(0)$ is called the initial [[An Asset Allocation Primer|investment]] or endowment of the investor. Now $\varphi(t)\cdot S(t-1)$ reflects the market value of the [[An Asset Allocation Primer|portfolio]] just after it has been established at time $t-1$ , whereas $\varphi(t)\cdot S(t)$ is the value just after time $t$ prices are observed, but before changes. are made in the [[An Asset Allocation Primer|portfolio]]. Hence  
+The [initial wealth](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%206%20-%20Individual%20optimality/The%20One-Period%20Framework.md). $V_{\varphi}(0)$ is called the initial [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) or endowment of the investor. Now $\varphi(t)\cdot S(t-1)$ reflects the market value of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) just after it has been established at time $t-1$ , whereas $\varphi(t)\cdot S(t)$ is the value just after time $t$ prices are observed, but before changes. are made in the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). Hence  
 $$
 \varphi(t)\cdot(S(t)-S(t-1))=\varphi(t)\cdot\Delta S(t)
 $$  
@@ -1638,7 +1638,7 @@ $$
 
 Observe that the discounted gains process reflects the gains from trading with assets $^{1}$ to $d$ only, which in case of the standard model (a bank account and. $d$ stocks) are the risky assets.  
 
-We will only consider special classes of [[Quantitative Trading Strategies Lecture Notes|trading strategies]].  
+We will only consider special classes of [trading strategies](../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md).  
 
 Definition 3.1.4. The strategy $\varphi$ is self-financing, $\varphi\in\Phi$ $i f$  
 $$
@@ -1647,7 +1647,7 @@ $$
 
 # Interpretation.  
 
-When new prices $S(t)$ are quoted at time $t$ , the investor adjusts his [[An Asset Allocation Primer|portfolio]] from $\varphi(t)$ to $\varphi(t+1)$ without bringing in or consuming any wealth. The following result (which is trivial in our current setting, but requires a little argument in continuous time) shows that renormalising security prices (i.e. changing the numeraire) has essentially no economic effects.  
+When new prices $S(t)$ are quoted at time $t$ , the investor adjusts his [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) from $\varphi(t)$ to $\varphi(t+1)$ without bringing in or consuming any wealth. The following result (which is trivial in our current setting, but requires a little argument in continuous time) shows that renormalising security prices (i.e. changing the numeraire) has essentially no economic effects.  
 
 Proposition 3.1.1 (Numeraire Invariance). Let $X(t)$ be a numeraire. A trading strategy $\varphi$ is self-financing with respect to $S(t)$ if and only if $\varphi$ is self-financing with respect to $X(t)^{-1}S(t)$  
 
@@ -1679,7 +1679,7 @@ Subtracting $\varphi(2)\cdot\tilde{S}(2)$ on both sides gives $\varphi(2)\cdot\t
 
 We are allowed to borrow (so $\varphi_{0}(t)$ may be negative) and sell short (so. $\varphi_{i}(t)$ may be negative for $i=1,\ldots,d$ ). So it is hardly surprising that if we decide what to do about the risky assets and fix an initial endowment, the numeraire will take care of itself, in the following sense..  
 
-Proposition 3.1.3. If $(\varphi_{1}(t),\dots,\varphi_{d}(t))^{\prime}$ is predictable and. $V_{0}$ is $\mathcal{F}_{0}$ -measurable, there is a unique. predictable process $(\varphi_{0}(t))_{t=1}^{T}$ such that $\varphi=(\varphi_{0},\varphi_{1},\ldots,\varphi_{d})^{\prime}$ is self-financing with initial value of the corresponding [[An Asset Allocation Primer|portfolio]] $V_{\varphi}(0)=V_{0}$  
+Proposition 3.1.3. If $(\varphi_{1}(t),\dots,\varphi_{d}(t))^{\prime}$ is predictable and. $V_{0}$ is $\mathcal{F}_{0}$ -measurable, there is a unique. predictable process $(\varphi_{0}(t))_{t=1}^{T}$ such that $\varphi=(\varphi_{0},\varphi_{1},\ldots,\varphi_{d})^{\prime}$ is self-financing with initial value of the corresponding [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $V_{\varphi}(0)=V_{0}$  
 
 Proof. If $\varphi$ is self-financing, then by Proposition 3.1.2,  
 $$
@@ -1708,37 +1708,37 @@ $$
 
 where as. $\varphi_{1},\ldots,\varphi_{d}$ are predictable, all terms on the right-hand side are $\mathcal{F}_{t-1}$ -measurable, so $\varphi_{0}$ is predictable. $\llcorner$  
 
-Remark 3.1.1. Proposition 3.1.3 has a further important consequence: for defining a gains proceSs $\tilde{G}_{\varphi}$ only the components $(\varphi_{1}(t),\dots,\varphi_{d}(t))^{\prime}$ are needed. If we require them to be predictable. they correspond in a unique way (after fixing initial endowment) to a [[Arbitrage|self-financing trading strategy]]. Thus for the discounted world predictable strategies and final cash-flows generated by them are all that matters..  
+Remark 3.1.1. Proposition 3.1.3 has a further important consequence: for defining a gains proceSs $\tilde{G}_{\varphi}$ only the components $(\varphi_{1}(t),\dots,\varphi_{d}(t))^{\prime}$ are needed. If we require them to be predictable. they correspond in a unique way (after fixing initial endowment) to a [self-financing trading strategy](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Arbitrage.md). Thus for the discounted world predictable strategies and final cash-flows generated by them are all that matters..  
 
 We now turn to the modelling of derivative instruments in our current framework. This is done in the following fashion..  
 
-Definition 3.1.5. A contingent claim $X$ with maturity date. $T$ is an arbitrary. $\mathcal{F}_{T}=\mathcal{F}$ -measurable random variable (which is by the finiteness of the [[Uncertainty Information and Stochastic Processes|probability space]] bounded). We denote the class of all contingent claims by. $L^{0}=L^{0}(\Omega,{\mathcal{F}},I P)$  
+Definition 3.1.5. A contingent claim $X$ with maturity date. $T$ is an arbitrary. $\mathcal{F}_{T}=\mathcal{F}$ -measurable random variable (which is by the finiteness of the [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md) bounded). We denote the class of all contingent claims by. $L^{0}=L^{0}(\Omega,{\mathcal{F}},I P)$  
 
 The notation $L^{0}$ for contingent claims is motivated by the them being simply random variables in our context (and the functional-analytic spaces used later on).  
 
-A typical example of a contingent claim $X$ is an option on some [[Risk Neutral Pricing of Options|underlying asset]] $S$ , then (e.g. for the case of a European call option with maturity date. $T$ and strike $K$ ) we have a functional. relation $X=f(S)$ with some function. $f$ (e.g. $X=(S(T)-K)^{+})$ . The general definition allows for more complicated relationships which are captured by the ${\mathcal{F}}_{T}$ -measurability of $X$ (recall that ${\mathcal{F}}_{T}$ is typically generated by the process. $S$  
+A typical example of a contingent claim $X$ is an option on some [underlying asset](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) $S$ , then (e.g. for the case of a European call option with maturity date. $T$ and strike $K$ ) we have a functional. relation $X=f(S)$ with some function. $f$ (e.g. $X=(S(T)-K)^{+})$ . The general definition allows for more complicated relationships which are captured by the ${\mathcal{F}}_{T}$ -measurability of $X$ (recall that ${\mathcal{F}}_{T}$ is typically generated by the process. $S$  
 
 # 3.2 Existence of Equivalent Martingale Measures  
 
 # 3.2.1 The No-Arbitrage Condition  
 
-The central principle in the single period example was the [[Exercises|absence of arbitrage]] opportunities, i.e.. the absence [[An Asset Allocation Primer|investment]] strategies for making profits without exposure to risk. As mentioned there. this principle is central for any market model, and we now define the mathematical counterpart of this economic principle in our current setting..  
+The central principle in the single period example was the [absence of arbitrage](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) opportunities, i.e.. the absence [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) strategies for making profits without exposure to risk. As mentioned there. this principle is central for any market model, and we now define the mathematical counterpart of this economic principle in our current setting..  
 
-Definition 3.2.1. Let ${\tilde{\Phi}}\subset\Phi$ be a set of self-financing strategies.. $A$ strategy $\varphi\in\tilde{\Phi}$ is called an [[Arbitrage Pricing of Derivatives|arbitrage]] opportunity or [[Arbitrage Pricing of Derivatives|arbitrage]] strategy with respect to $\tilde{\Phi}$ if ${\cal I}P\{V_{\varphi}(0)=0\}=1$ , and the. terminal wealth of $\varphi$ satisfies  
+Definition 3.2.1. Let ${\tilde{\Phi}}\subset\Phi$ be a set of self-financing strategies.. $A$ strategy $\varphi\in\tilde{\Phi}$ is called an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity or [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) strategy with respect to $\tilde{\Phi}$ if ${\cal I}P\{V_{\varphi}(0)=0\}=1$ , and the. terminal wealth of $\varphi$ satisfies  
 $$
 {\cal I P}\{V_{\varphi}(T)\geq0\}=1a n d{\cal P}\{V_{\varphi}(T)>0\}>0.
 $$  
 
-So an [[Arbitrage Pricing of Derivatives|arbitrage]] opportunity is a self-financing strategy with zero initial value, which produces. a non-negative final value with probability one and has a positive probability of a positive final value. Observe that [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]] are always defined with respect to a certain class of [[Quantitative Trading Strategies Lecture Notes|trading strategies]].  
+So an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity is a self-financing strategy with zero initial value, which produces. a non-negative final value with probability one and has a positive probability of a positive final value. Observe that [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md) are always defined with respect to a certain class of [trading strategies](../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md).  
 
-Definition 3.2.2. We say that a security market $\mathcal{M}$ is [[Arbitrage Pricing of Derivatives|arbitrage]]-fre if there are no [[Arbitrage Pricing of Derivatives|arbitrage]].   
-opportunities in the class. $\Phi$ of [[Quantitative Trading Strategies Lecture Notes|trading strategies]].  
+Definition 3.2.2. We say that a security market $\mathcal{M}$ is [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-fre if there are no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md).   
+opportunities in the class. $\Phi$ of [trading strategies](../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md).  
 
-We will allow ourselves to use 'no-[[Arbitrage Pricing of Derivatives|arbitrage]]' in place of '[[Arbitrage Pricing of Derivatives|arbitrage]]-free' when convenient.  
+We will allow ourselves to use 'no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)' in place of '[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free' when convenient.  
 
-The fundamental insight in the single-period example was the equivalence of the no-[[Arbitrage Pricing of Derivatives|arbitrage]]. condition and the existence of [[Financial Instruments|risk-neutral probabilities]]. For the multi-period case we now use probabilistic machinery to establish the corresponding result..  
+The fundamental insight in the single-period example was the equivalence of the no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). condition and the existence of [risk-neutral probabilities](../Financial%20Instruments/Financial%20Instruments.md). For the multi-period case we now use probabilistic machinery to establish the corresponding result..  
 
-Definition 3.2.3. A probability measure $\b{\mathcal{N}}^{*}$ on $(\Omega,\mathcal{F}_{T})$ equivalent to $\mathit{\Pi}_{\mathit{\Pi}}{\mathcal{P}}$ is called a martingale measure for $\tilde{S}$ if the process $\tilde{S}$ follows a $\mathit{\Pi}\mathit{\perp}\mathit{\Psi}$ -martingale with respect to the filtration $\bar{\mu}$ . We denote by $\mathcal{P}(\tilde{S})$ the class of equivalent [[Financial Mathematics Course|martingale measures]].  
+Definition 3.2.3. A probability measure $\b{\mathcal{N}}^{*}$ on $(\Omega,\mathcal{F}_{T})$ equivalent to $\mathit{\Pi}_{\mathit{\Pi}}{\mathcal{P}}$ is called a martingale measure for $\tilde{S}$ if the process $\tilde{S}$ follows a $\mathit{\Pi}\mathit{\perp}\mathit{\Psi}$ -martingale with respect to the filtration $\bar{\mu}$ . We denote by $\mathcal{P}(\tilde{S})$ the class of equivalent [martingale measures](.md).  
 
 Proposition 3.2.1. Let $\b{\mathcal{M}}^{*}$ be an equivalent martingale measure $(I P^{\ast}\in\mathcal P(\tilde{S}))$ and $\varphi\in\Phi$ any self-financing strategy. Then the wealth process $\tilde{V}_{\varphi}(t)$ is a $\b{\mathcal{M}}^{*}$ -martingale with respect to the filtration $\bar{\mathcal{M}}$  
 
@@ -1756,39 +1756,39 @@ So for $\varphi\in\Phi$ $\tilde{V}_{\varphi}(t)$ is the martingale transform of 
 
 Observe that in our setting all processes are bounded, i.e. the martingale transform theorem. is applicable without further restrictions. The next result is the key for the further development.  
 
-Proposition 3.2.2. If an equivalent martingale measure exists - that is, if $\mathcal{P}(\tilde{S})\neq\emptyset$ - then the market $\mathcal{M}$ is [[Arbitrage Pricing of Derivatives|arbitrage]]-free.  
+Proposition 3.2.2. If an equivalent martingale measure exists - that is, if $\mathcal{P}(\tilde{S})\neq\emptyset$ - then the market $\mathcal{M}$ is [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free.  
 
 Proof. Assume such a $\mathit{\Pi}/\mathit{\Pi}^{*}$ exists. For any self-financing strategy $\varphi$ , we have as before  
 $$
 \tilde{V}_{\varphi}(t)=V_{\varphi}(0)+\sum_{\tau=1}^{t}\varphi(\tau)\cdot\Delta\tilde{S}(\tau).
 $$  
 
-By Proposition 3.2.1, $\tilde{S}(t)$ a (vector) $\b{\mathcal{U}}^{*}$ -martingale implies $\tilde{V}_{\varphi}(t)$ is a $P^{*}$ -martingale. So the initial and final $\b{\mathcal{M}}^{*}$ -[[FORWARD RATES AND TERM STRUCTURE|expectations]] are the same,  
+By Proposition 3.2.1, $\tilde{S}(t)$ a (vector) $\b{\mathcal{U}}^{*}$ -martingale implies $\tilde{V}_{\varphi}(t)$ is a $P^{*}$ -martingale. So the initial and final $\b{\mathcal{M}}^{*}$ -[expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) are the same,  
 $$
 \begin{array}{r}{E^{*}(\tilde{V}_{\varphi}(T))=I E^{*}(\tilde{V}_{\varphi}(0)).}\end{array}
 $$  
 
-If the strategy is an [[Arbitrage Pricing of Derivatives|arbitrage]] opportunity its initial value - the right-hand side above - is zero. Therefore the left-hand side $\tilde{\cal M}^{*}(\tilde{V}_{\varphi}(T))$ is zero, but $\tilde{V}_{\varphi}(T)\geq0$ (by definition). Also each $D P^{*}(\{\omega\})>0$ (by assumption, each $I P(\{\omega\})>0$ , so by equivalence each $I P^{*}(\{\omega\})>0$ ). This and $\dot{V}_{\varphi}(T)\geq0$ force $\tilde{V}_{\varphi}(T)=0$ . So no [[Arbitrage Pricing of Derivatives|arbitrage]] is possible.  
+If the strategy is an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity its initial value - the right-hand side above - is zero. Therefore the left-hand side $\tilde{\cal M}^{*}(\tilde{V}_{\varphi}(T))$ is zero, but $\tilde{V}_{\varphi}(T)\geq0$ (by definition). Also each $D P^{*}(\{\omega\})>0$ (by assumption, each $I P(\{\omega\})>0$ , so by equivalence each $I P^{*}(\{\omega\})>0$ ). This and $\dot{V}_{\varphi}(T)\geq0$ force $\tilde{V}_{\varphi}(T)=0$ . So no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) is possible.  
 
-Proposition 3.2.3. If the market $\mathcal{M}$ is [[Arbitrage Pricing of Derivatives|arbitrage]]-free, then the class. $\mathcal{P}(\tilde{S})$ of equivalent [[Financial Mathematics Course|martingale measures]] is non-empty..  
+Proposition 3.2.3. If the market $\mathcal{M}$ is [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free, then the class. $\mathcal{P}(\tilde{S})$ of equivalent [martingale measures](.md) is non-empty..  
 
-For the proof (for which we follow Schachermayer (2o00) we need some auxiliary observations. Recall the definition of [[Arbitrage Pricing of Derivatives|arbitrage]], i.e. Definition 3.2.1, in our finite-dimensional setting: a selffinancing trading strategy $\varphi\in\Phi$ is an [[Arbitrage Pricing of Derivatives|arbitrage]] opportunity if $V_{\varphi}(0)=0$ $V_{\varphi}(T,\omega)\geq0\forall\omega\in\Omega$ and there exists a. $\omega\in\Omega$ with $V_{\varphi}(T,\omega)>0$  
+For the proof (for which we follow Schachermayer (2o00) we need some auxiliary observations. Recall the definition of [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), i.e. Definition 3.2.1, in our finite-dimensional setting: a selffinancing trading strategy $\varphi\in\Phi$ is an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity if $V_{\varphi}(0)=0$ $V_{\varphi}(T,\omega)\geq0\forall\omega\in\Omega$ and there exists a. $\omega\in\Omega$ with $V_{\varphi}(T,\omega)>0$  
 
 Now call $L^{0}=L^{0}(\Omega,{\mathcal{F}},I P)$ the set of random variables on $(\Omega,{\mathcal{F}})$ and  
 $$
 L_{++}^{0}(\Omega,\mathcal{F},\mathcal{P}):=\{X\in L^{0}:X(\omega)\geq0\forall\omega\in\Omega\mathrm{and}\exists\omega\in\Omega\mathrm{such~that}X(\omega)>0\}.
 $$  
 
-(Observe that $L_{++}^{0}$ is a cone -closed under vector addition and multiplication by positive scalars.) Using $L_{++}^{0}$ we can write the [[Arbitrage Pricing of Derivatives|arbitrage]] condition more compactly as  
+(Observe that $L_{++}^{0}$ is a cone -closed under vector addition and multiplication by positive scalars.) Using $L_{++}^{0}$ we can write the [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) condition more compactly as  
 $$
 V_{\varphi}(0)=\tilde{V}_{\varphi}(0)=0\Rightarrow\tilde{V}_{\varphi}(T)\notin L_{++}^{0}(\Omega,\mathcal{F},T).
 $$  
 
 for any self-financing strategy $\varphi$  
 
-The next lemma formulates the [[Arbitrage Pricing of Derivatives|arbitrage]] condition in terms of discounted gains processes. The important advantage in using this setting (rather than a setting in terms of value processes) is that we only have to assume predictability of a vector process. $\left(\varphi_{1},\ldots,\varphi_{d}\right)$ . Recall Remark 3.1.1 and Proposition 3.1.3 here: we can choose a process. $\varphi_{0}$ in such a way that the strategy. $\varphi=(\varphi_{0},\varphi_{1},\ldots,\varphi_{d})$ has zero initial value and is self-financing..  
+The next lemma formulates the [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) condition in terms of discounted gains processes. The important advantage in using this setting (rather than a setting in terms of value processes) is that we only have to assume predictability of a vector process. $\left(\varphi_{1},\ldots,\varphi_{d}\right)$ . Recall Remark 3.1.1 and Proposition 3.1.3 here: we can choose a process. $\varphi_{0}$ in such a way that the strategy. $\varphi=(\varphi_{0},\varphi_{1},\ldots,\varphi_{d})$ has zero initial value and is self-financing..  
 
-Lemma 3.2.1. In an [[Exercises|arbitrage-free market]] any predictable vector process $\varphi^{\prime}=(\varphi_{1},\ldots,\varphi_{d})$ satisfies  
+Lemma 3.2.1. In an [arbitrage-free market](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) any predictable vector process $\varphi^{\prime}=(\varphi_{1},\ldots,\varphi_{d})$ satisfies  
 $$
 \tilde{G}_{\varphi^{\prime}}(T)\not\in L_{++}^{0}(\Omega,{\mathcal{F}},I P).
 $$  
@@ -1800,9 +1800,9 @@ $$
 V_{\varphi}(T)=\beta(T)^{-1}\tilde{V}_{\varphi}(T)=\beta(T)^{-1}(V_{\varphi}(0)+\tilde{G}_{\varphi}(T))=\beta(T)^{-1}\tilde{G}_{\varphi^{\prime}}(T)\geq0,
 $$  
 
-and is positive somewhere (i.e. with positive probability) by definition of $L_{++}^{0}$ . Hence $\varphi$ is an [[Arbitrage Pricing of Derivatives|arbitrage]] opportunity with respect to $\Phi$ .This contradicts the assumption that the market is [[Arbitrage Pricing of Derivatives|arbitrage]]-free.  
+and is positive somewhere (i.e. with positive probability) by definition of $L_{++}^{0}$ . Hence $\varphi$ is an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity with respect to $\Phi$ .This contradicts the assumption that the market is [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free.  
 
-We now define the space of contingent claims, i.e. random variables on. $\left(\Omega,\mathcal{F}\right)$ , which an economic agent may replicate with zero initial [[An Asset Allocation Primer|investment]] by pursuing some predictable trading strategy $\varphi$  
+We now define the space of contingent claims, i.e. random variables on. $\left(\Omega,\mathcal{F}\right)$ , which an economic agent may replicate with zero initial [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) by pursuing some predictable trading strategy $\varphi$  
 
 Definition 3.2.4. We call the subspace $K$ of $L^{0}(\Omega,\mathcal{F},I P)$ defined by.  
 $$
@@ -1811,7 +1811,7 @@ $$
 
 the set of contingent claims attainable at price 0.  
 
-We can now restate Lemma 3.2.1 in terms of spaces A market is [[Arbitrage Pricing of Derivatives|arbitrage]]-free if and only if  
+We can now restate Lemma 3.2.1 in terms of spaces A market is [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free if and only if  
 $$
 K\cap L_{++}^{0}(\Omega,{\mathcal{F}},I P)=\emptyset.
 $$  
@@ -1821,7 +1821,7 @@ $$
 D:=\{X\in L_{++}^{0}:\sum_{\omega\in\Omega}X(\omega)=1\}.
 $$  
 
-Now $D$ is a compact convex set. By the [[Properties of State-Price Deflators|separating hyperplane theorem]], there is a vector $\lambda=$ $\lambda(\omega):\omega\in\Omega)$ such that for all $X\in D$  
+Now $D$ is a compact convex set. By the [separating hyperplane theorem](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Properties%20of%20State-Price%20Deflators.md), there is a vector $\lambda=$ $\lambda(\omega):\omega\in\Omega)$ such that for all $X\in D$  
 $$
 \lambda\cdot X:=\sum_{\omega\in\Omega}\lambda(\omega)X(\omega)>0,
 $$  
@@ -1853,33 +1853,33 @@ $$
 
 Since this holds for any predictable $\varphi$ (boundedness holds automatically as $\Omega$ is finite), the martingale transform lemma tells us that the discounted price processes $(\Tilde{S}_{i}(t))$ are $\b{\mathcal{M}}^{*}$ -martingales.  
 
-Note. Our situation is finite-dimensional, so all we have used here is Euclidean geometry. We. have a subspace, and a cone not meeting the subspace except at the origin. Take. $\lambda$ orthogonal to the subspace on the same side of the subspace as the cone. The [[Properties of State-Price Deflators|separating hyperplane theorem]]. holds also in infinite-dimensional situations, where it is a form of the Hahn-Banach theorem of functional analysis.  
+Note. Our situation is finite-dimensional, so all we have used here is Euclidean geometry. We. have a subspace, and a cone not meeting the subspace except at the origin. Take. $\lambda$ orthogonal to the subspace on the same side of the subspace as the cone. The [separating hyperplane theorem](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Properties%20of%20State-Price%20Deflators.md). holds also in infinite-dimensional situations, where it is a form of the Hahn-Banach theorem of functional analysis.  
 
 We now combine Propositions 3.2.2 and 3.2.3 as a first central theorem in this chapter.  
 
-Theorem 3.2.1 (No-[[Arbitrage Pricing of Derivatives|Arbitrage]] Theorem). The market $\mathcal{M}$ is [[Arbitrage Pricing of Derivatives|arbitrage]]-free if and only if there exists a probability measure. $\mathit{\Pi}\mathit{\perp}\mathit{\Psi}$ equivalent to $\mathcal{W}$ under which the discounted d-dimensional [[A Preview of Alternative Formulations|asset price]] process $\bar{S}$ is a $\b{\mathcal{M}}^{*}$ -martingale.  
+Theorem 3.2.1 (No-[Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) Theorem). The market $\mathcal{M}$ is [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free if and only if there exists a probability measure. $\mathit{\Pi}\mathit{\perp}\mathit{\Psi}$ equivalent to $\mathcal{W}$ under which the discounted d-dimensional [asset price](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) process $\bar{S}$ is a $\b{\mathcal{M}}^{*}$ -martingale.  
 
 # 3.2.2 Risk-Neutral Pricing  
 
-We now turn to the main underlying question of this text, namely the [[Arbitrage Pricing of Derivatives|pricing]] of contingent claims (i.e. [[Financial Instruments PSET Solutions|financial derivatives]]). As in chapter 1 the basic idea is to reproduce the [[Preview of the Book|cash flow]] of a contingent claim in terms of a [[An Asset Allocation Primer|portfolio]] of the underlying assets. On the other hand, the equivalence of the no-[[Arbitrage Pricing of Derivatives|arbitrage]] condition and the existence of risk-neutral probability measures imply the possibility of using risk-neutral measures for [[Arbitrage Pricing of Derivatives|pricing]] purposes. We will explore the relation of these tow approaches in this subsection.  
+We now turn to the main underlying question of this text, namely the [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of contingent claims (i.e. [financial derivatives](../Financial%20Instruments/Financial%20Instruments%20PSET%20Solutions.md)). As in chapter 1 the basic idea is to reproduce the [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) of a contingent claim in terms of a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of the underlying assets. On the other hand, the equivalence of the no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) condition and the existence of risk-neutral probability measures imply the possibility of using risk-neutral measures for [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) purposes. We will explore the relation of these tow approaches in this subsection.  
 
 We say that a contingent claim is attainable if there exists a replicating strategy $\varphi\in\Phi$ such that  
 $$
 V_{\varphi}(T)=X.
 $$  
 
-So the replicating strategy generates the same time $T$ cash-flow as does $X$ .Working with discounted values (recall we use $\beta$ as the [[Discount Factors|discount factor]]) we find  
+So the replicating strategy generates the same time $T$ cash-flow as does $X$ .Working with discounted values (recall we use $\beta$ as the [discount factor](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md)) we find  
 $$
 \beta(T)X=\tilde{V}_{\varphi}(T)=V(0)+\tilde{G}_{\varphi}(T).
 $$  
 
-So the discounted value of a contingent claim is given by the initial cost of setting up a [[Forward and Futures Contracts|replication]]. strategy and the gains from trading. In a highly efficient security market we expect that the law. of one price holds true, that is for a specified cash-flow there exists only one price at any time instant. Otherwise arbitrageurs would use the opportunity to cash in a riskless profit. So the no-[[Arbitrage Pricing of Derivatives|arbitrage]] condition implies that for an attainable contingent claim its time. $t$ price must be given by the value (inital cost) of any replicating strategy (we say the claim is uniquely replicated in that case). This is the basic idea of the [[Introduction to the Mathematics of Fixed Income Pricing|arbitrage pricing theory]]..  
+So the discounted value of a contingent claim is given by the initial cost of setting up a [replication](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md). strategy and the gains from trading. In a highly efficient security market we expect that the law. of one price holds true, that is for a specified cash-flow there exists only one price at any time instant. Otherwise arbitrageurs would use the opportunity to cash in a riskless profit. So the no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) condition implies that for an attainable contingent claim its time. $t$ price must be given by the value (inital cost) of any replicating strategy (we say the claim is uniquely replicated in that case). This is the basic idea of the [arbitrage pricing theory](Fixed%20Income%20Derivatives/Introduction%20to%20the%20Mathematics%20of%20Fixed%20Income%20Pricing.md)..  
 
-Let us investigate replicating strategies a bit further. The idea is to replicate a given cash-flow at a given point in time. Using a [[Arbitrage|self-financing trading strategy]] the investor's wealth may go negative at time $t<T$ , but he must be able to cover his debt at the final date. To avoid negative wealth the concept of admissible strategies is introduced. A [[Arbitrage|self-financing trading strategy]] $\varphi\in\Phi$ is called admissible if $V_{\varphi}(t)\geq0$ for each $t=0,1,\ldots,T$ .We write. $\Phi_{a}$ for the class of admissible [[Quantitative Trading Strategies Lecture Notes|trading strategies]]. The modelling assumption of admissible strategies reflects the economic fact that the broker should be protected from unbounded short sales. In our current setting all processes are bounded anyway, so this distinction is not really needed and we use self-financing strategies when addressing the mathematical aspects of the theory. (In fact one can show that a security market which is [[Arbitrage Pricing of Derivatives|arbitrage]]-free with respect to $\Phi_{a}$ is also [[Arbitrage Pricing of Derivatives|arbitrage]]-free with respect to $\Phi$ ; see [[Exercises|Exercises]].)  
+Let us investigate replicating strategies a bit further. The idea is to replicate a given cash-flow at a given point in time. Using a [self-financing trading strategy](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Arbitrage.md) the investor's wealth may go negative at time $t<T$ , but he must be able to cover his debt at the final date. To avoid negative wealth the concept of admissible strategies is introduced. A [self-financing trading strategy](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Arbitrage.md) $\varphi\in\Phi$ is called admissible if $V_{\varphi}(t)\geq0$ for each $t=0,1,\ldots,T$ .We write. $\Phi_{a}$ for the class of admissible [trading strategies](../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md). The modelling assumption of admissible strategies reflects the economic fact that the broker should be protected from unbounded short sales. In our current setting all processes are bounded anyway, so this distinction is not really needed and we use self-financing strategies when addressing the mathematical aspects of the theory. (In fact one can show that a security market which is [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free with respect to $\Phi_{a}$ is also [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free with respect to $\Phi$ ; see [Exercises](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md).)  
 
-We now return to the main question of the section: given a contingent claim $X$ , i.e. a cash-flow at time $T$ , how can we determine its value (price) at time $t<T$ ? For an attainable contingent claim this value should be given by the value of any replicating strategy at time $t$ , i.e. there should be a unique value process (say $V_{X}(t)$ ) representing the time $t$ value of the simple contingent claim $X$ . The following proposition ensures that the value processes of replicating [[Quantitative Trading Strategies Lecture Notes|trading strategies]] coincide, thus proving the uniqueness of the value process.  
+We now return to the main question of the section: given a contingent claim $X$ , i.e. a cash-flow at time $T$ , how can we determine its value (price) at time $t<T$ ? For an attainable contingent claim this value should be given by the value of any replicating strategy at time $t$ , i.e. there should be a unique value process (say $V_{X}(t)$ ) representing the time $t$ value of the simple contingent claim $X$ . The following proposition ensures that the value processes of replicating [trading strategies](../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) coincide, thus proving the uniqueness of the value process.  
 
-Proposition 3.2.4. Suppose the market. $\mathcal{M}$ is [[Arbitrage Pricing of Derivatives|arbitrage]]-free. Then any attainable contingent claim $X$ is uniquely replicated in. $\mathcal{M}$  
+Proposition 3.2.4. Suppose the market. $\mathcal{M}$ is [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free. Then any attainable contingent claim $X$ is uniquely replicated in. $\mathcal{M}$  
 
 Proof. Suppose there is an attainable contingent claim $X$ and strategies $\varphi$ and $\psi$ such that  
 $$
@@ -1896,9 +1896,9 @@ $$
 \xi(u)=\left\{\begin{array}{l l}{\varphi(u)-\psi(u),}&{u\leq\tau}\ {\mathbf{1}_{A^{c}}(\varphi(u)-\psi(u))+\mathbf{1}_{A}(Y\beta(\tau),0,\dots,0),}&{\tau<u\leq T.}\end{array}\right.
 $$  
 
-The idea here is to use. $\varphi$ and $\psi$ to construct a self-financing strategy with zero initial [[An Asset Allocation Primer|investment]] (hence use their difference $\xi$ ) and put any gains at time $\tau$ in the savings account (i.e. invest them riskfree) up to time. $T$  
+The idea here is to use. $\varphi$ and $\psi$ to construct a self-financing strategy with zero initial [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) (hence use their difference $\xi$ ) and put any gains at time $\tau$ in the savings account (i.e. invest them riskfree) up to time. $T$  
 
-We need to show formally that $\xi$ satisfies the conditions of an [[Arbitrage Pricing of Derivatives|arbitrage]] opportunity. By construction $\xi$ is predictable and the self-financing condition (3.1) is clearly true for $t\neq\tau$ , and for $t=\tau$ we have using that $\varphi,\psi\in\Phi$  
+We need to show formally that $\xi$ satisfies the conditions of an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity. By construction $\xi$ is predictable and the self-financing condition (3.1) is clearly true for $t\neq\tau$ , and for $t=\tau$ we have using that $\varphi,\psi\in\Phi$  
 $$
 \begin{array}{r c l}{\boldsymbol{\xi}(\tau)\cdot\boldsymbol{S}(\tau)}&{=}&{\left(\varphi(\tau)-\psi(\tau)\right)\cdot\boldsymbol{S}(\tau)=V_{\varphi}(\tau)-V_{\psi}(\tau),}\ {\boldsymbol{\xi}(\tau+1)\cdot\boldsymbol{S}(\tau)}&{=}&{\mathbf{1}_{A^{c}}(\varphi(\tau+1)-\psi(\tau+1))\cdot\boldsymbol{S}(\tau)+\mathbf{1}_{A}\boldsymbol{Y}\beta(\tau)S_{0}(\tau)}\ &{=}&{\mathbf{1}_{A^{c}}(\varphi(\tau)-\psi(\tau))\cdot\boldsymbol{S}(\tau)+\mathbf{1}_{A}(V_{\varphi}(\tau)-V_{\psi}(\tau))\beta(\tau)\beta^{-1}(\tau)}\ &{=}&{V_{\varphi}(\tau)-V_{\psi}(\tau).}\end{array}
 $$  
@@ -1913,51 +1913,51 @@ $$
 {\cal I P}\{V_{\xi}(T)>0\}={\cal I P}\{A\}>0.
 $$  
 
-Hence the market contains an [[Arbitrage Pricing of Derivatives|arbitrage]] opportunity with respect to the class. $\Phi$ of self-financing strategies. But this contradicts the assumption that the market $\mathcal{M}$ is [[Arbitrage Pricing of Derivatives|arbitrage]]-free.  
+Hence the market contains an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity with respect to the class. $\Phi$ of self-financing strategies. But this contradicts the assumption that the market $\mathcal{M}$ is [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free.  
 
-This uniqueness property allows us now to define the important concept of an [[Arbitrage Pricing of Derivatives|arbitrage]] price process.  
+This uniqueness property allows us now to define the important concept of an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) price process.  
 
-Definition 3.2.5. Suppose the market is [[Arbitrage Pricing of Derivatives|arbitrage]]-free. Let $X$ be any attainable contingent claim with time $T$ maturity. Then the [[Arbitrage Pricing of Derivatives|arbitrage]] price process. $\pi_{X}(t),0\leq t\leq T$ or simply [[Arbitrage Pricing of Derivatives|arbitrage]] price. of $X$ is given by the value process of any replicating strategy. $\varphi$ for $X$  
+Definition 3.2.5. Suppose the market is [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free. Let $X$ be any attainable contingent claim with time $T$ maturity. Then the [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) price process. $\pi_{X}(t),0\leq t\leq T$ or simply [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) price. of $X$ is given by the value process of any replicating strategy. $\varphi$ for $X$  
 
-The construction of [[Key Rates O1s Durations and Hedging|hedging]] strategies that replicate the outcome of a contingent claim (for. example a European option) is an important problem in both practical and theoretical applications.. [[Key Rates O1s Durations and Hedging|Hedging]] is central to the theory of option [[Arbitrage Pricing of Derivatives|pricing]]. The classical [[Arbitrage Pricing of Derivatives|arbitrage]] valuation models, such as the [[Black Scholes Derivation|Black-Scholes model]] ((Black and Scholes 1973), depend on the idea that an option can be perfectly hedged using the [[Risk Neutral Pricing of Options|underlying asset]] (in our case the assets of the market model), so making it possible to create a [[An Asset Allocation Primer|portfolio]] that replicates the option exactly. [[Key Rates O1s Durations and Hedging|Hedging]] is also widely used to reduce risk, and the kinds of delta-[[Key Rates O1s Durations and Hedging|hedging]] strategies implicit in the [[Black Scholes Derivation|Black-Scholes model]]. are used by participants in option markets. We will come back to [[Key Rates O1s Durations and Hedging|hedging]] problems subsequently.  
+The construction of [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) strategies that replicate the outcome of a contingent claim (for. example a European option) is an important problem in both practical and theoretical applications.. [Hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) is central to the theory of option [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). The classical [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) valuation models, such as the [Black-Scholes model](../Financial%20Instruments/Black%20Scholes%20Derivation.md) ((Black and Scholes 1973), depend on the idea that an option can be perfectly hedged using the [underlying asset](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) (in our case the assets of the market model), so making it possible to create a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) that replicates the option exactly. [Hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) is also widely used to reduce risk, and the kinds of delta-[hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) strategies implicit in the [Black-Scholes model](../Financial%20Instruments/Black%20Scholes%20Derivation.md). are used by participants in option markets. We will come back to [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) problems subsequently.  
 
-Analysing the [[Arbitrage Pricing of Derivatives|arbitrage]]-[[Arbitrage Pricing of Derivatives|pricing]] approach we observe that the derivation of the price of a contingent claim doesn't require any specific preferences of the agents other than nonsatiation, i.e.. agents prefer more to less, which rules out [[Arbitrage Pricing of Derivatives|arbitrage]]. So, the [[Arbitrage Pricing of Derivatives|pricing]] formula for any attainable contingent claim must be independent of all preferences that do not admit [[Arbitrage Pricing of Derivatives|arbitrage]]. In particular,. an economy of [[An Analytical Decomposition of Forward Rates|risk-neutral investors]] must price a contingent claim in the same manner. This fundamental insight, due to Cox and Ross (Cox and Ross 1976) in the case of a simple economy a riskless asset and one risky asset - and in its general form due to Harrison and Kreps (Harrison and Kreps 1979), simplifies the [[Arbitrage Pricing of Derivatives|pricing]] formula enormously. In its general form the price of an. attainable simple contingent claim is just the expected value of the discounted payoff with respect to an equivalent martingale measure.  
+Analysing the [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-[pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) approach we observe that the derivation of the price of a contingent claim doesn't require any specific preferences of the agents other than nonsatiation, i.e.. agents prefer more to less, which rules out [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). So, the [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formula for any attainable contingent claim must be independent of all preferences that do not admit [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). In particular,. an economy of [risk-neutral investors](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%208/An%20Analytical%20Decomposition%20of%20Forward%20Rates.md) must price a contingent claim in the same manner. This fundamental insight, due to Cox and Ross (Cox and Ross 1976) in the case of a simple economy a riskless asset and one risky asset - and in its general form due to Harrison and Kreps (Harrison and Kreps 1979), simplifies the [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formula enormously. In its general form the price of an. attainable simple contingent claim is just the expected value of the discounted payoff with respect to an equivalent martingale measure.  
 
-Proposition 3.2.5. The [[Arbitrage Pricing of Derivatives|arbitrage]] price process of any attainable contingent claim $X$ is given by the risk-neutral valuation formula  
+Proposition 3.2.5. The [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) price process of any attainable contingent claim $X$ is given by the risk-neutral valuation formula  
 $$
 \pi_{\boldsymbol{X}}(t)=\beta(t)^{-1}\boldsymbol{I}\boldsymbol{E}^{*}\left(\boldsymbol{X}\boldsymbol{\beta}(T)\vert\boldsymbol{\mathcal{F}}_{t}\right)\quad\forall t=0,1,\ldots,T,
 $$  
 
 where $\mathit{\Pi}\mathit{{I E}}^{*}$ is the expectation operator with respect to an equivalent martingale measure ${\mathcal{M}}^{\flat}$  
 
-Proof. Since we assume the the market is [[Arbitrage Pricing of Derivatives|arbitrage]]-free there exists (at least) an equivalent martingale measure $\b{\mathcal{M}}^{*}$ . By Proposition 3.2.1 the discounted value process $\tilde{V}_{\varphi}$ of any self-financing strategy $\varphi$ is a $\b{\mathcal{N}}^{*}$ -martingale. So for any contingent claim $X$ with maturity $T$ and any replicating trading strategy $\varphi\in\Phi$ we have for each $t=0,1,\ldots,T$  
+Proof. Since we assume the the market is [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free there exists (at least) an equivalent martingale measure $\b{\mathcal{M}}^{*}$ . By Proposition 3.2.1 the discounted value process $\tilde{V}_{\varphi}$ of any self-financing strategy $\varphi$ is a $\b{\mathcal{N}}^{*}$ -martingale. So for any contingent claim $X$ with maturity $T$ and any replicating trading strategy $\varphi\in\Phi$ we have for each $t=0,1,\ldots,T$  
 $$
 \begin{array}{r c l l}{{\pi_{X}(t)}}&{{=}}&{{V_{\varphi}(t)=\beta(t)^{-1}\tilde{V}_{\varphi}(t)}}\ {{}}&{{}}&{{}}\ {{}}&{{=}}&{{\beta(t)^{-1}E^{*}(\tilde{V}_{\varphi}(T)|\mathcal{F}_{t})}}&{{(\mathrm{as~}\tilde{V}_{\varphi}(t)\mathrm{~is~a~}I P^{*}\mathrm{-martingale})}}\ {{}}&{{}}&{{}}\ {{}}&{{=}}&{{\beta(t)^{-1}E^{*}(\beta(T)V_{\varphi}(T)|\mathcal{F}_{t})}}&{{(\mathrm{undoing~the~discounting})}}\ {{}}&{{}}&{{}}\ {{}}&{{=}}&{{\beta(t)^{-1}E^{*}(\beta(T)X|\mathcal{F}_{t})}}&{{(\mathrm{as~}\varphi\mathrm{~is~a~replicating~strategy~for~}X).}}\end{array}
 $$  
 
 # 3.3 Complete Markets: Uniqueness of Equivalent Martingale Measures  
 
-The last section made clear that attainable contingent claims can be priced using an equivalent martingale measure. In this section we will discuss the question of the circumstances under which all contingent claims are attainable. This would be a very desirable property of the market $\mathcal{M}$ because we would then have solved the [[Arbitrage Pricing of Derivatives|pricing]] question (at least for contingent claims) completely. Since contingent claims are merely ${\mathcal{F}}_{T}$ -measurable random variables in our setting, it should be. no surprise that we can give a criterion in terms of probability measures. We start with:  
+The last section made clear that attainable contingent claims can be priced using an equivalent martingale measure. In this section we will discuss the question of the circumstances under which all contingent claims are attainable. This would be a very desirable property of the market $\mathcal{M}$ because we would then have solved the [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) question (at least for contingent claims) completely. Since contingent claims are merely ${\mathcal{F}}_{T}$ -measurable random variables in our setting, it should be. no surprise that we can give a criterion in terms of probability measures. We start with:  
 
 Definition 3.3.1. A market $\mathcal{M}$ is complete if every contingent claim is attainable, i.e. for every ${\mathcal{F}}_{T}$ -measurable random variable $X\in L^{0}$ there exists a replicating self-financing strategy $\varphi\in\Phi$ such that $V_{\varphi}(T)=X$  
 
-In the case of an [[Exercises|arbitrage-free market]]. $\mathcal{M}$ one can even insist on replicating nonnegative. contingent claims by an admissible strategy. $\varphi\in\Phi_{a}$ . Indeed, if $\varphi$ is self-financing and $\mathit{\Pi}\mathit{\iint}^{\mathrm{*}}$ is an equivalent martingale measure under which discounted prices. $\tilde{S}$ are $\b{\mathcal{M}}^{*}$ -martingales (such $\b{\mathcal{M}}^{*}$ exist since $\mathcal{M}$ is [[Arbitrage Pricing of Derivatives|arbitrage]]-free and we can hence use the no-[[Arbitrage Pricing of Derivatives|arbitrage]] theorem (Theorem 3.2.1)), $\tilde{V}_{\varphi}(t)$ is also a $\b{\mathcal{M}}^{*}$ -martingale, being the martingale transform of the martingale. $\tilde{S}$ by $\varphi$ (see Proposition 3.2.1). So  
+In the case of an [arbitrage-free market](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md). $\mathcal{M}$ one can even insist on replicating nonnegative. contingent claims by an admissible strategy. $\varphi\in\Phi_{a}$ . Indeed, if $\varphi$ is self-financing and $\mathit{\Pi}\mathit{\iint}^{\mathrm{*}}$ is an equivalent martingale measure under which discounted prices. $\tilde{S}$ are $\b{\mathcal{M}}^{*}$ -martingales (such $\b{\mathcal{M}}^{*}$ exist since $\mathcal{M}$ is [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free and we can hence use the no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) theorem (Theorem 3.2.1)), $\tilde{V}_{\varphi}(t)$ is also a $\b{\mathcal{M}}^{*}$ -martingale, being the martingale transform of the martingale. $\tilde{S}$ by $\varphi$ (see Proposition 3.2.1). So  
 $$
 \begin{array}{r}{\tilde{V}_{\varphi}(t)=E^{*}(\tilde{V}_{\varphi}(T)|\mathcal{F}_{t})}&{{}(t=0,1,\ldots,T).}\end{array}
 $$  
 
 If $\varphi$ replicates $X$ $V_{\varphi}(T)=X\geq0$ , so discounting, $\tilde{V}_{\varphi}(T)\geq0$ , so the above equation gives $\tilde{V}_{\varphi}(t)\geq0$ for each $t$ . Thus all the values at each time $t$ are non-negative - not just the final value at time $^T-$ so $\varphi$ is admissible.  
 
-Theorem 3.3.1 (Completeness Theorem). An [[Exercises|arbitrage-free market]] $\mathcal{M}$ is complete if and.   
+Theorem 3.3.1 (Completeness Theorem). An [arbitrage-free market](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) $\mathcal{M}$ is complete if and.   
 only if there exists a unique probability measure. $\mathit{\Pi}\mathit{\perp}\mathit{\Psi}$ equivalent to $\mathcal{W}$ under which discounted asset.   
 prices are martingales.  
 
-Proof. '-': Assume that the [[Exercises|arbitrage-free market]] $\mathcal{M}$ is complete.Then for any ${\mathcal{F}}_{T}$ measurable random variable $X$ ( contingent claim), there exists an admissible (so self-financing) strategy $\varphi$ replicating $X$ $X=V_{\varphi}(T)$ . As $\varphi$ is self-financing, by Proposition 3.1.2,  
+Proof. '-': Assume that the [arbitrage-free market](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) $\mathcal{M}$ is complete.Then for any ${\mathcal{F}}_{T}$ measurable random variable $X$ ( contingent claim), there exists an admissible (so self-financing) strategy $\varphi$ replicating $X$ $X=V_{\varphi}(T)$ . As $\varphi$ is self-financing, by Proposition 3.1.2,  
 $$
 \beta(T)X=\tilde{V}_{\varphi}(T)=V_{\varphi}(0)+\sum_{\tau=1}^{T}\varphi(\tau)\cdot\Delta\tilde{S}(\tau).
 $$  
 
-We know by the no-[[Arbitrage Pricing of Derivatives|arbitrage]] theorem (Theorem 3.2.1) that an equivalent martingale measure $\b{\mathcal{P}}^{*}$ exists; we have to prove uniqueness. So, let $\textstyle\#_{1},\#_{2}$ be two such equivalent [[Financial Mathematics Course|martingale measures]]. For $i=1,2$ $(\dot{V}_{\varphi}(t))_{t=0}^{T}$ is a $\boldsymbol{\mathscr{N}}_{i}$ -martingale. So,  
+We know by the no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) theorem (Theorem 3.2.1) that an equivalent martingale measure $\b{\mathcal{P}}^{*}$ exists; we have to prove uniqueness. So, let $\textstyle\#_{1},\#_{2}$ be two such equivalent [martingale measures](.md). For $i=1,2$ $(\dot{V}_{\varphi}(t))_{t=0}^{T}$ is a $\boldsymbol{\mathscr{N}}_{i}$ -martingale. So,  
 $$
 \begin{array}{r}{E_{i}(\tilde{V}_{\varphi}(T))=I E_{i}(\tilde{V}_{\varphi}(0))=V_{\varphi}(0),}\end{array}
 $$  
@@ -1969,13 +1969,13 @@ $$
 
 Since $X$ is arbitrary, $[E_{1},B_{2}$ have to agree on integrating all integrands. Now $E_{i}$ is expectation (i.e. integration) with respect to the measure $\boldsymbol{\mathscr{N}}_{i}$ , and measures that agree on integrating all integrands must coincide. So $I P_{1}=I P_{2}$ , giving uniqueness as required.  
 
-'': Assume that the [[Exercises|arbitrage-free market]] $\mathcal{M}$ is incomplete: then there exists a non-attainable.   ${\mathcal{F}}_{T}$ -measurable random variable $X$ (a contingent claim). By Proposition 3.1.3, we may confine   
+'': Assume that the [arbitrage-free market](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) $\mathcal{M}$ is incomplete: then there exists a non-attainable.   ${\mathcal{F}}_{T}$ -measurable random variable $X$ (a contingent claim). By Proposition 3.1.3, we may confine   
 attention to the risky assets. $S_{1},\ldots,S_{d}$ , as these suffice to tell us how to handle the numeraire $S_{0}$ Consider the following set of random variables:  
 $$
 \Tilde{K}:=\Bigg\{Y\in L^{0}:Y=Y_{0}+\sum_{t=1}^{T}\varphi(t)\cdot\Delta\Tilde{S}(t),Y_{0}\in I R,\varphi\mathrm{predictable}\Bigg\}.
 $$  
 
-(Recall that $Y_{0}$ is $\mathcal{F}_{0}$ -measurable and set $\varphi=((\varphi_{1}(t),\dots,\varphi_{d}(t))^{\prime})_{t=1}^{\prime}$ with predictable components.) Then by the above reasoning, the discounted value $\beta(T)X$ does not belong to $\ddot{K}$ , so $\tilde{K}$ is a proper subset of the set $L^{0}$ of all random variables on $\Omega$ (which may be identified with $\mathbb{R}^{|\Omega|}$ Let $\mathit{\Pi}\mathit{\perp}\mathit{\Psi}$ be a probability measure equivalent to $\mathcal{W}$ under which discounted prices are martingales (such $\mathit{\Pi}\mathit{\perp}\mathit{\Psi}$ exist by the no-[[Arbitrage Pricing of Derivatives|arbitrage]] theorem (Theorem 3.2.1). Define the scalar product  
+(Recall that $Y_{0}$ is $\mathcal{F}_{0}$ -measurable and set $\varphi=((\varphi_{1}(t),\dots,\varphi_{d}(t))^{\prime})_{t=1}^{\prime}$ with predictable components.) Then by the above reasoning, the discounted value $\beta(T)X$ does not belong to $\ddot{K}$ , so $\tilde{K}$ is a proper subset of the set $L^{0}$ of all random variables on $\Omega$ (which may be identified with $\mathbb{R}^{|\Omega|}$ Let $\mathit{\Pi}\mathit{\perp}\mathit{\Psi}$ be a probability measure equivalent to $\mathcal{W}$ under which discounted prices are martingales (such $\mathit{\Pi}\mathit{\perp}\mathit{\Psi}$ exist by the no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) theorem (Theorem 3.2.1). Define the scalar product  
 $$
 (Z,Y)\to I E^{*}(Z Y)
 $$  
@@ -2012,19 +2012,19 @@ $$
 
 which is zero as. $Z$ is ort hogonal to $\tilde{K}$ and $\begin{array}{r}{\sum_{t=1}^{T}\varphi(t)\cdot\Delta\tilde{S}(t)\in\tilde{K}}\end{array}$ . By the martingale transform   
 lemma (Lemma C.4.1), $\tilde{S}(t)$ is a $\b{\mathcal{U}}^{***}$ martingale since is an arbitrary predictable process. Thus $\varphi$   $\mathbb{\mathnormal{H}^{**}}$ is a second equivalent martingale measure, different from $\mathcal{W}$ : So incompleteness implies   
-non-uniqueness of equivalent [[Financial Mathematics Course|martingale measures]], as required.  
+non-uniqueness of equivalent [martingale measures](.md), as required.  
 
 # Martingale Representation.  
 
-To say that every contingent claim can be replicated means that every. $\b{\mathcal{M}}^{*}$ -martingale (where $\mathit{\Pi}\mathit{\perp}\mathit{\Psi}$ is the [[Verifying Martingale Property with Q|risk-neutral measure]], which is unique) can be written, or represented, as a martingale transform (of the discounted prices) by a replicating (perfect-hedge) trading strategy $\varphi$ .In stochasticprocess language, this says that all. $\b{\mathcal{M}}^{*}$ -martingales can be represented as martingale transforms. of discounted prices. Such martingale representation theorems hold much more generally, and are. very important. For background, see (Revuz and Yor 1991, Yor 1978)..  
+To say that every contingent claim can be replicated means that every. $\b{\mathcal{M}}^{*}$ -martingale (where $\mathit{\Pi}\mathit{\perp}\mathit{\Psi}$ is the [risk-neutral measure](Verifying%20Martingale%20Property%20with%20Q.md), which is unique) can be written, or represented, as a martingale transform (of the discounted prices) by a replicating (perfect-hedge) trading strategy $\varphi$ .In stochasticprocess language, this says that all. $\b{\mathcal{M}}^{*}$ -martingales can be represented as martingale transforms. of discounted prices. Such martingale representation theorems hold much more generally, and are. very important. For background, see (Revuz and Yor 1991, Yor 1978)..  
 
 # 3.4 The Cox-Ross-Rubinstein Model  
 
-In this section we consider simple discrete-time financial market models. The development of the [[Financial Mathematics Course|risk-neutral pricing]] formula is particularly clear in this setting since we require only elementary. mathematical methods. The link to the fundamental economic principles of the [[Risk-Neutral Pricing|arbitrage pricing]]. method can be obtained equally straightforwardly. Moreover [[A Real-Life Option Pricing Exercise|binomial]] models, by their very. construction, give rise to simple and efficient numerical procedures. We start with the paradigm of all [[A Real-Life Option Pricing Exercise|binomial]] models - the celebrated Cox-Ross-Rubinstein model (Cox, Ross, and Rubinstein 1979).  
+In this section we consider simple discrete-time financial market models. The development of the [risk-neutral pricing](.md) formula is particularly clear in this setting since we require only elementary. mathematical methods. The link to the fundamental economic principles of the [arbitrage pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Risk-Neutral%20Pricing.md). method can be obtained equally straightforwardly. Moreover [binomial](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) models, by their very. construction, give rise to simple and efficient numerical procedures. We start with the paradigm of all [binomial](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) models - the celebrated Cox-Ross-Rubinstein model (Cox, Ross, and Rubinstein 1979).  
 
 # 3.4.1 Model Structure  
 
-We take $d=1$ , that is, our model consists of two basic securities. Recall that the essence of the. relative [[Arbitrage Pricing of Derivatives|pricing]] theory is to take the price processes of these basic securities as given and price secondary securities in such a way that no [[Arbitrage Pricing of Derivatives|arbitrage]] is possible..  
+We take $d=1$ , that is, our model consists of two basic securities. Recall that the essence of the. relative [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) theory is to take the price processes of these basic securities as given and price secondary securities in such a way that no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) is possible..  
 
 Our time horizon is. $T$ and the set of dates in our financial market model is. $t=0,1,\ldots,T$ Assume that the first of our given basic securities is a (riskless) bond or bank account $B$ , which yields a riskless rate of return $r>0$ in each time interval. $[t,t+1]$ , i.e.  
 $$
@@ -2056,7 +2056,7 @@ $$
 Z(t,u)=u\mathrm{and}Z(t,d)=d,t=1,2,\ldots,T.
 $$  
 
-Our aim, of course, is to define a [[Uncertainty Information and Stochastic Processes|probability space]] on which we can model the basic securities $(B,S)$ . Since we can write the [[Chapter 16 - Black–Scholes Model|stock price]] as  
+Our aim, of course, is to define a [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md) on which we can model the basic securities $(B,S)$ . Since we can write the [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) as  
 $$
 S(t)=S(0)\prod_{\tau=1}^{t}(1+Z(\tau)),\:\:\:t=1,2,\ldots,T,
 $$  
@@ -2071,7 +2071,7 @@ $$
 \begin{array}{r}{I P(\{\omega\})=\tilde{I P}_{1}(\{\omega_{1}\})\times\ldots\times\tilde{I P}_{T}(\{\omega_{T}\})=\tilde{I P}(\{\omega_{1}\})\times\ldots\times\tilde{I P}(\{\omega_{T}\}).}\end{array}
 $$  
 
-The role of a product space is to model independent [[Forward and Futures Contracts|replication]] of a random experiment. The $Z(t)$ above are two-valued random variables, so can be thought of as tosses of a biased coin; we need to build a [[Uncertainty Information and Stochastic Processes|probability space]] on which we can model a succession of such independent tosses. Now we redefine (with a slight abuse of notation) the $Z(t),t=1,\ldots,T$ as random variables on $(\Omega,{\mathcal{F}},I P)$ as (the $t$ th projection)  
+The role of a product space is to model independent [replication](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) of a random experiment. The $Z(t)$ above are two-valued random variables, so can be thought of as tosses of a biased coin; we need to build a [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md) on which we can model a succession of such independent tosses. Now we redefine (with a slight abuse of notation) the $Z(t),t=1,\ldots,T$ as random variables on $(\Omega,{\mathcal{F}},I P)$ as (the $t$ th projection)  
 $$
 Z(t,\omega)=Z(t,\omega_{t}).
 $$  
@@ -2086,19 +2086,19 @@ $$
 \begin{array}{r c l l}{\mathcal{F}_{0}}&{=}&{\{\emptyset,\Omega\}}&{\mathrm{~(trivial~}\sigma\mathrm{-}\mathrm{field}),}\ {\mathcal{F}_{t}}&{=}&{\sigma(Z(1),\ldots,Z(t))=\sigma(S(1),\ldots,S(t)),}&\ {\mathcal{F}_{T}=\mathcal{F}}&{=}&{\mathcal{P}(\Omega)}&{\mathrm{~(class~of~all~subsets~of~}\Omega).}\end{array}
 $$  
 
-This construction emphasises again that a [[Information|multi-period model]] can be viewed as a sequence of. single-period models. Indeed, in the Cox-Ross-Rubinstein case we use identical and independent single-period models. As we will see in the sequel this will make the construction of equivalent [[Financial Mathematics Course|martingale measures]] relatively easy. Unfortunately we can hardly defend the assumption of independent and identically distributed price movements at each time period in practical applications.  
+This construction emphasises again that a [multi-period model](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md) can be viewed as a sequence of. single-period models. Indeed, in the Cox-Ross-Rubinstein case we use identical and independent single-period models. As we will see in the sequel this will make the construction of equivalent [martingale measures](.md) relatively easy. Unfortunately we can hardly defend the assumption of independent and identically distributed price movements at each time period in practical applications.  
 
-Remark 3.4.1. We used this example to show explicitly how to construct the underlying probability. space. Having done this in full once, we will from now on feel free to take for granted the existence of an appropriate [[Uncertainty Information and Stochastic Processes|probability space]] on which all relevant random variables can be defined..  
+Remark 3.4.1. We used this example to show explicitly how to construct the underlying probability. space. Having done this in full once, we will from now on feel free to take for granted the existence of an appropriate [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md) on which all relevant random variables can be defined..  
 
 # 3.4.2 Risk-Neutral Pricing  
 
-We now turn to the [[Arbitrage Pricing of Derivatives|pricing]] of [[Risk Neutral Pricing of Options|derivative assets]] in the Cox-Ross-Rubinstein market model. To do so we first have to discuss whether the Cox-Ross-Rubinstein model is [[Arbitrage Pricing of Derivatives|arbitrage]]-free and complete.  
+We now turn to the [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of [derivative assets](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) in the Cox-Ross-Rubinstein market model. To do so we first have to discuss whether the Cox-Ross-Rubinstein model is [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free and complete.  
 
-To answer these questions we have, according to our fundamental theorems (Theorems 3.2.1 and 3.3.1), to understand the structure of equivalent [[Financial Mathematics Course|martingale measures]] in the Cox-Ross-Rubinstein model. In trying to do this we use (as is quite natural and customary) the bond price process $B(t)$ as numeraire.  
+To answer these questions we have, according to our fundamental theorems (Theorems 3.2.1 and 3.3.1), to understand the structure of equivalent [martingale measures](.md) in the Cox-Ross-Rubinstein model. In trying to do this we use (as is quite natural and customary) the bond price process $B(t)$ as numeraire.  
 
 Our first task is to find an equivalent martingale measure $\mathbb{Q}$ such that the $Z(1),\ldots,Z(T)$ remain independent and identically distributed, i.e. a probability measure $\mathbb{Q}$ defined as a product measure via a measure $\tilde{\mathbb{Q}}$ on $(\Tilde{\Omega},\Tilde{\mathcal{F}})$ such that $\tilde{\mathbb{Q}}(\{u\})=q$ and $\tilde{\mathbb{Q}}(\{d\})=1-q$ . We have:  
 
-Proposition 3.4.1. (i) A martingale measure $\mathbb{Q}$ for the [[Verifying Martingale Property with Q|discounted stock price]]. $\tilde{S}$ exists if and. only if  
+Proposition 3.4.1. (i) A martingale measure $\mathbb{Q}$ for the [discounted stock price](Verifying%20Martingale%20Property%20with%20Q.md). $\tilde{S}$ exists if and. only if  
 $$
 d<r<u.
 $$  
@@ -2129,9 +2129,9 @@ $$
 
 From now on we assume that (3.8) holds true. Using the above Proposition we immediately get:  
 
-Corollary 3.4.1. The Cox-Ross-Rubinstein model is [[Arbitrage Pricing of Derivatives|arbitrage]]-free.  
+Corollary 3.4.1. The Cox-Ross-Rubinstein model is [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free.  
 
-Proof. By Proposition 3.4.1 there exists an equivalent martingale measure and this is by the no-. [[Arbitrage Pricing of Derivatives|arbitrage]] theorem (Theorem 3.2.1) enough to guarantee that the Cox-Ross-Rubinstein model is free of [[Arbitrage Pricing of Derivatives|arbitrage]]. $\llcorner$  
+Proof. By Proposition 3.4.1 there exists an equivalent martingale measure and this is by the no-. [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) theorem (Theorem 3.2.1) enough to guarantee that the Cox-Ross-Rubinstein model is free of [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). $\llcorner$  
 
 Uniqueness of the solution of the linear equation (4.7) under (3.8) gives completeness of the model, by the completeness theorem (Theorem 3.3.1):  
 
@@ -2139,27 +2139,27 @@ Proposition 3.4.2. The Cox-Ross-Rubinstein model is complete.
 
 One can translate this result - on uniqueness of the equivalent martingale measure - into. financial language. Completeness means that all contingent claims can be replicated. If we do this in the large, we can do it in the small by restriction, and conversely, we can build up our full model from its constituent components. To summarize:  
 
-Corollary 3.4.2. The [[Information|multi-period model]] is complete if and only if every underlying single-period model is complete.  
+Corollary 3.4.2. The [multi-period model](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md) is complete if and only if every underlying single-period model is complete.  
 
 We can now use the risk-neutral valuation formula to price every contingent claim in the Cox-Ross-Rubinstein model.  
 
-Proposition 3.4.3. The [[Arbitrage Pricing of Derivatives|arbitrage]] price process of a contingent claim $X$ in the Cox-Ross-Rubinstein model is given by  
+Proposition 3.4.3. The [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) price process of a contingent claim $X$ in the Cox-Ross-Rubinstein model is given by  
 $$
 \pi_{\boldsymbol{X}}(t)=\boldsymbol{B}(t)\boldsymbol{E}^{*}\left(\boldsymbol{X}/\boldsymbol{B}(T)|\boldsymbol{\mathcal{F}}_{t}\right)\quad\forall t=0,1,\ldots,T,
 $$  
 
 where $\mathbf{\nabla}\mu^{*}$ is the expectation operator with respect to the unique equivalent martingale measure $\b{\mathcal{P}}^{*}$ characterised by $\boldsymbol{p}^{*}=(\boldsymbol{r}-\boldsymbol{d})/(u-\boldsymbol{d})$  
 
-Proof. This follows directly from Proposition 3.2.4 since the Cox-Ross-Rubinstein model is [[Arbitrage Pricing of Derivatives|arbitrage]] free and complete.  
+Proof. This follows directly from Proposition 3.2.4 since the Cox-Ross-Rubinstein model is [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) free and complete.  
 
-We now give simple formulas for [[Arbitrage Pricing of Derivatives|pricing]] (and [[Key Rates O1s Durations and Hedging|hedging]]) of European contingent claims $X=$ $f(S_{T})$ for suitable functions $f$ (in this simple framework all functions. $f:I R\to R$ ). We use the notation  
+We now give simple formulas for [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) (and [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)) of European contingent claims $X=$ $f(S_{T})$ for suitable functions $f$ (in this simple framework all functions. $f:I R\to R$ ). We use the notation  
 $$
 F_{\tau}(x,p):=\sum_{j=0}^{\tau}\binom{\tau}{j}p^{j}(1-p)^{\tau-j}f\left(x(1+u)^{j}(1+d)^{\tau-j}\right)
 $$  
 
 Observe that this is just an evaluation of $f(S(j))$ along the probability-weighted paths of the price process. Accordingly, $j$ $\tau-j$ are the numbers of times. $Z(i)$ takes the two possible values. $d,u$  
 
-Corollary 3.4.3. Consider a European contigent claim with expiry $T$ given by $X=f(S_{T})$ .The [[Arbitrage Pricing of Derivatives|arbitrage]] price process $\pi_{\boldsymbol{X}}(t),t=0,1,\ldots,T$ of the contingent claim is given by (set $\tau=T-t$  
+Corollary 3.4.3. Consider a European contigent claim with expiry $T$ given by $X=f(S_{T})$ .The [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) price process $\pi_{\boldsymbol{X}}(t),t=0,1,\ldots,T$ of the contingent claim is given by (set $\tau=T-t$  
 $$
 \pi_{\boldsymbol{X}}(t)=(1+r)^{-\tau}F_{\tau}(S_{t},p^{*}).
 $$  
@@ -2174,20 +2174,20 @@ $$
 \begin{array}{r c l}{\pi_{X}(t)}&{=}&{(1+r)^{-(T-t)}{\cal{E}}^{*}[f(S(T))|{\mathcal{F}}_{t}]}\ &&{=}&{(1+r)^{-(T-t)}{\cal{E}}^{*}\left[f\left(S(t)\displaystyle\prod_{i=t+1}^{T}(1+Z(i))\right)\bigg|{\mathcal{F}}_{t}\right]}\ &&{=}&{(1+r)^{-(T-t)}{\cal{E}}^{*}\left[f\left(S(t)\displaystyle\prod_{i=t+1}^{T}(1+Z(i))\right)\right]}\ &{=}&{(1+r)^{-\tau}F_{\tau}(S(t),p^{*}).}\end{array}
 $$  
 
-We used the role of independence property of conditional [[FORWARD RATES AND TERM STRUCTURE|expectations]] from Proposition B.5.1 in the next-to-last equality. It is applicable since $S(t)$ is $\mathbf{\mathcal{F}}_{t}$ -measurable and $Z(t+1),\ldots,Z(T)$ are independent of $\mathcal{F}_{t}$ $\llcorner$  
+We used the role of independence property of conditional [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) from Proposition B.5.1 in the next-to-last equality. It is applicable since $S(t)$ is $\mathbf{\mathcal{F}}_{t}$ -measurable and $Z(t+1),\ldots,Z(T)$ are independent of $\mathcal{F}_{t}$ $\llcorner$  
 
-An immediate consequence is the [[Arbitrage Pricing of Derivatives|pricing]] formula for the European call option, i.e. $X=f(S_{T})$ with $f(x)=(x-K)^{+}$  
+An immediate consequence is the [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formula for the European call option, i.e. $X=f(S_{T})$ with $f(x)=(x-K)^{+}$  
 
-Corollary 3.4.4. Consider a European call option with expiry $T$ and [[Call and Put Payoffs at Expiry|strike price]]. $K$ written on. (one share of) the stock $S$ . The [[Arbitrage Pricing of Derivatives|arbitrage]] price process $\Pi_{C}(t),~t=0,1,\ldots,T$ of the option is given by (set $\tau=T-t$  
+Corollary 3.4.4. Consider a European call option with expiry $T$ and [strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md). $K$ written on. (one share of) the stock $S$ . The [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) price process $\Pi_{C}(t),~t=0,1,\ldots,T$ of the option is given by (set $\tau=T-t$  
 $$
 \Pi_{C}(t)=(1+r)^{-\tau}\sum_{j=0}^{\tau}{\binom{\tau}{j}}p^{*j}(1-p^{*})^{\tau-j}(S(t)(1+u)^{j}(1+d)^{\tau-j}-K)^{+}.
 $$  
 
-For a European put option, we can either argue similarly or use [[7. Black Scholes Model|put-call parity]].  
+For a European put option, we can either argue similarly or use [put-call parity](7.%20Black%20Scholes%20Model.md).  
 
 # 3.4.3 Hedging  
 
-Since the Cox-Ross-Rubinstein model is complete we can find unique [[Key Rates O1s Durations and Hedging|hedging]] strategies for replicating contingent claims. Recall that this means we can find a [[PSET 5 Solution-Financial Instruments|self-financing portfolio]] $\varphi(t)=$ $(\varphi_{0}(t),\varphi_{1}(t))$ $\varphi$ predictable, such that the value process $V_{\varphi}(t)=\varphi_{0}(t)B(t)+\varphi_{1}(t)S(t)$ satisfies  
+Since the Cox-Ross-Rubinstein model is complete we can find unique [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) strategies for replicating contingent claims. Recall that this means we can find a [self-financing portfolio](../Financial%20Instruments/Assignments/Solutions/PSET%205%20Solution-Financial%20Instruments.md) $\varphi(t)=$ $(\varphi_{0}(t),\varphi_{1}(t))$ $\varphi$ predictable, such that the value process $V_{\varphi}(t)=\varphi_{0}(t)B(t)+\varphi_{1}(t)S(t)$ satisfies  
 $$
 \Pi_{X}(t)=V_{\varphi}(t),\quad{\mathrm{for~all}}t=0,1,\ldots,T.
 $$  
@@ -2197,7 +2197,7 @@ $$
 \begin{array}{r}{\tilde{\Pi}_{X}(t)=\tilde{V}_{\varphi}(t)=\varphi_{0}(t)+\varphi_{1}(t)\tilde{S}(t),\quad\mathrm{for~all}~t=0,1,\ldots,T.}\end{array}
 $$  
 
-By the [[Arbitrage Pricing of Derivatives|pricing]] formula, Proposition 3.4.3, we know the [[Arbitrage Pricing of Derivatives|arbitrage]] price process and using the restriction of predictability of. $\varphi$ , this leads to a unique [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|replicating portfolio]] process $\varphi$ .We can compute this [[An Asset Allocation Primer|portfolio]] process at any point in time as follows. The equation $\Pi_{X}(t)=\varphi_{0}(t)+$ $\varphi_{1}(t)\tilde{S}(t)$ has to be true for each. $\omega\in\Omega$ and each $t=1,\ldots,T$ . Given such a $t$ we only can use information up to (and including) time $t-1$ to ensure that $\varphi$ is predictable. Therefore we know. $S(t-1)$ , but we only know that. $S(t)=(1+Z(t))S(t-1)$ . However, the fact that $Z(t)\in\{d,u\}$ leads to the following [[A Primer on Probability Theory and Stochastic  Modelling|system of equations]], which can be solved for $\varphi_{0}(t)$ and $\varphi_{1}(t)$ uniquely. Making the dependence of $\tilde{\Pi}_{X}$ on $\tilde{S}$ explicit, we have  
+By the [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formula, Proposition 3.4.3, we know the [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) price process and using the restriction of predictability of. $\varphi$ , this leads to a unique [replicating portfolio](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) process $\varphi$ .We can compute this [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) process at any point in time as follows. The equation $\Pi_{X}(t)=\varphi_{0}(t)+$ $\varphi_{1}(t)\tilde{S}(t)$ has to be true for each. $\omega\in\Omega$ and each $t=1,\ldots,T$ . Given such a $t$ we only can use information up to (and including) time $t-1$ to ensure that $\varphi$ is predictable. Therefore we know. $S(t-1)$ , but we only know that. $S(t)=(1+Z(t))S(t-1)$ . However, the fact that $Z(t)\in\{d,u\}$ leads to the following [system of equations](Fixed%20Income%20Derivatives/A%20Primer%20on%20Probability%20Theory%20and%20Stochastic%20%20Modelling.md), which can be solved for $\varphi_{0}(t)$ and $\varphi_{1}(t)$ uniquely. Making the dependence of $\tilde{\Pi}_{X}$ on $\tilde{S}$ explicit, we have  
 $$
 \begin{array}{r l r}{\tilde{\Pi}_{X}(t,\tilde{S}_{t-1}(1+u))}&{=}&{\varphi_{0}(t)+\varphi_{1}(t)\tilde{S}_{t-1}(1+u),}\ {\tilde{\Pi}_{X}(t,\tilde{S}_{t-1}(1+d))}&{=}&{\varphi_{0}(t)+\varphi_{1}(t)\tilde{S}_{t-1}(1+d).}\end{array}
 $$  
@@ -2207,15 +2207,15 @@ $$
 \begin{array}{r c l}{\varphi_{0}(t)}&{=}&{\frac{\tilde{S}_{t-1}(1+u)\tilde{\Pi}_{X}(t,\tilde{S}_{t-1}(1+d))-\tilde{S}_{t-1}(1+d)\tilde{\Pi}_{X}(t,\tilde{S}_{t-1}(1+u))}{\tilde{S}_{t-1}(1+u)-\tilde{S}_{t-1}(1+d)}}\ &{=}&{\frac{(1+u)\tilde{\Pi}_{X}(t,\tilde{S}_{t-1}(1+d))-(1+d)\tilde{\Pi}_{X}(t,\tilde{S}_{t-1}(1+u))}{(u-d)}}\ &{=}&{\frac{\tilde{\Pi}_{X}(t,\tilde{S}_{t-1}(1+u))-\tilde{\Pi}_{X}(t,\tilde{S}_{t-1}(1+d))}{\tilde{S}_{t-1}(1+u)-\tilde{S}_{t-1}(1+d)}}\ &{=}&{\frac{\tilde{\Pi}_{X}(t,\tilde{S}_{t-1}(1+u))-\tilde{\Pi}_{X}(t,\tilde{S}_{t-1}(1+d))}{\tilde{S}_{t-1}(u)-\tilde{S}_{t-1}(1+d)}.}\end{array}
 $$  
 
-Observe that we only need to have information up to time $t-1$ to compute $\varphi(t)$ , hence $\varphi$ is predictable. We make this rather abstract construction more transparent by constructing the hedge [[An Asset Allocation Primer|portfolio]] for the European contingent claims.  
+Observe that we only need to have information up to time $t-1$ to compute $\varphi(t)$ , hence $\varphi$ is predictable. We make this rather abstract construction more transparent by constructing the hedge [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) for the European contingent claims.  
 
-Proposition 3.4.4. The perfect [[The Value of the Swap Contract after Initiation|hedging strategy]] $\varphi=\left(\varphi_{0},\varphi_{1}\right)$ replicating the European contingent.   
+Proposition 3.4.4. The perfect [hedging strategy](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/The%20Value%20of%20the%20Swap%20Contract%20after%20Initiation.md) $\varphi=\left(\varphi_{0},\varphi_{1}\right)$ replicating the European contingent.   
 claim $f(S_{T})$ with time of expiry. $T$ is given by (again using. $\tau=T-t$  
 $$
 \begin{array}{r c l}{{\varphi_{1}(t)}}&{{=}}&{{\displaystyle\frac{(1+r)^{-\tau}\left(F_{\tau}\left(S_{t-1}\left(1+u\right),p^{*}\right)-F_{\tau}\left(S_{t-1}\left(1+d\right),p^{*}\right)\right)}{S_{t-1}(u-d)},}}\ {{}}&{{}}&{{}}\ {{\varphi_{0}(t)}}&{{=}}&{{\displaystyle\frac{(1+u)F_{\tau}\left(S_{t-1}\left(1+d\right),p^{*}\right)-(1+d)F_{\tau}\left(S_{t-1}\left(1+u\right),p^{*}\right)}{(u-d)(1+r)^{T}}.}}\end{array}
 $$  
 
-Proof. $(1+r)^{-\tau}F_{\tau}(S_{t},p^{*})$ must be the value of the [[An Asset Allocation Primer|portfolio]] at time $t$ if the strategy $\varphi=(\varphi(t))$ replicates the claim:  
+Proof. $(1+r)^{-\tau}F_{\tau}(S_{t},p^{*})$ must be the value of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) at time $t$ if the strategy $\varphi=(\varphi(t))$ replicates the claim:  
 $$
 \begin{array}{r}{\varphi_{0}(t)(1+r)^{t}+\varphi_{1}(t)S(t)=(1+r)^{-\tau}F_{\tau}(S_{t},p^{\ast}).}\end{array}
 $$  
@@ -2244,17 +2244,17 @@ $$
 
 Then $(1+r)^{-\tau}C(\tau,x)$ is value of the call at time $t$ (with time to expiry $\tau$ ) given that $S(t)=x$  
 
-Corollary 3.4.5. The perfect [[The Value of the Swap Contract after Initiation|hedging strategy]] $\varphi=\left(\varphi_{0},\varphi_{1}\right)$ replicating the European call option with time of expiry $T$ and [[Call and Put Payoffs at Expiry|strike price]] $K$ is given by  
+Corollary 3.4.5. The perfect [hedging strategy](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/The%20Value%20of%20the%20Swap%20Contract%20after%20Initiation.md) $\varphi=\left(\varphi_{0},\varphi_{1}\right)$ replicating the European call option with time of expiry $T$ and [strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) $K$ is given by  
 $$
 \begin{array}{r c l}{{\varphi_{1}(t)}}&{{=}}&{{\displaystyle\frac{(1+r)^{-\tau}\left(C(\tau,S_{t-1}(1+u))-C(\tau,S_{t-1}(1+d))\right)}{S_{t-1}(u-d)},}}\ {{}}&{{}}&{{}}\ {{\varphi_{0}(t)}}&{{=}}&{{\displaystyle\frac{(1+u)C(\tau,S_{t-1}(1+d))-(1+d)C(\tau,S_{t-1}(1+u))}{(u-d)(1+r)^{T}}.}}\end{array}
 $$  
 
 Notice that the numerator in the equation for $\varphi_{1}(t)$ is the difference of two values of $C(\tau,x)$ with the larger value of $x$ in the first term (recall $u>d$ ). When the payoff function $C(\tau,x)$ is an increasing function of $x$ , as for the European call option considered here, this is non-negative. In this case, the Proposition gives $\varphi_{1}(t)\geq0$ : the replicating strategy does not involve short-selling. We record this as:  
 
-Corollary 3.4.6. When the payoff function is a non-decreasing function of the [[A Preview of Alternative Formulations|asset price]]. $S(t)$   
-the perfect-[[The Value of the Swap Contract after Initiation|hedging strategy]] replicating the claim does not involve short-selling of the risky asset.  
+Corollary 3.4.6. When the payoff function is a non-decreasing function of the [asset price](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md). $S(t)$   
+the perfect-[hedging strategy](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/The%20Value%20of%20the%20Swap%20Contract%20after%20Initiation.md) replicating the claim does not involve short-selling of the risky asset.  
 
-If we do not use the [[Arbitrage Pricing of Derivatives|pricing]] formula from Proposition 3.4.3 (i.e. the information on the price. process), but only the final values of the option (or more generally of a contingent claim) we are still able to compute the [[Arbitrage Pricing of Derivatives|arbitrage]] price and to construct the [[Key Rates O1s Durations and Hedging|hedging]] [[An Asset Allocation Primer|portfolio]] by backward induction. In essence this is again only applying the one-period calculations for each time interval and each state of the world. We outline this procedure for the European call starting with the last period $[T-1,T]$ . We have to choose a [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|replicating portfolio]]. $\varphi(T)=(\varphi_{0}(T),\varphi_{1}(T)$ based on the information available at time $T-1$ (and so ${\mathcal{F}}_{T-1}$ -measurable). So for each $\omega\in\Omega$ the following equation has to hold:  
+If we do not use the [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formula from Proposition 3.4.3 (i.e. the information on the price. process), but only the final values of the option (or more generally of a contingent claim) we are still able to compute the [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) price and to construct the [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) by backward induction. In essence this is again only applying the one-period calculations for each time interval and each state of the world. We outline this procedure for the European call starting with the last period $[T-1,T]$ . We have to choose a [replicating portfolio](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md). $\varphi(T)=(\varphi_{0}(T),\varphi_{1}(T)$ based on the information available at time $T-1$ (and so ${\mathcal{F}}_{T-1}$ -measurable). So for each $\omega\in\Omega$ the following equation has to hold:  
 $$
 \pi_{X}(T,\omega)=\varphi_{0}(T,\omega)B(T,\omega)+\varphi_{1}(T,\omega)S(T,\omega).
 $$  
@@ -2269,48 +2269,48 @@ $$
 \begin{array}{l c l}{{\varphi_{0}(T)}}&{{=}}&{{\frac{(1+u)\Pi_{X}\left(T,S_{T-1}(1+d)\right)-(1+d)\Pi_{X}\left(T,S_{T-1}(1+u)\right)}{(u-d)(1+r)}}}\ {{}}&{{}}&{{}}\ {{\varphi_{1}(t)}}&{{=}}&{{\frac{\Pi_{X}\left(T,S_{T-1}(1+u)\right)-\Pi_{X}\left(T,S_{T-1}(1+d)\right)}{S_{T-1}(u-d)}.}}\end{array}
 $$  
 
-Using this [[An Asset Allocation Primer|portfolio]] one can compute the [[Arbitrage Pricing of Derivatives|arbitrage]] price of the contingent claim at time $T-1$ given that the current [[A Preview of Alternative Formulations|asset price]] is $S_{T-1}$ as  
+Using this [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) one can compute the [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) price of the contingent claim at time $T-1$ given that the current [asset price](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) is $S_{T-1}$ as  
 $$
 \pi_{X}(T-1,S_{T-1})=\varphi_{0}(T,S_{T-1})(1+r)^{T-1}+\varphi_{1}(T,S_{T-1})S(T-1).
 $$  
 
-Now the [[Arbitrage Pricing of Derivatives|arbitrage]] prices at time. $T-1$ are known and one can repeat the procedure to successively compute the prices at $T-2,\ldots,1,0$  
+Now the [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) prices at time. $T-1$ are known and one can repeat the procedure to successively compute the prices at $T-2,\ldots,1,0$  
 
-The advantage of our [[Financial Mathematics Course|risk-neutral pricing]] procedure over this approach is that we have a single formula for the price of the contingent claim at all times. $t$ at once, and don't have to go to a. backwards induction only to compute a price at a special time. $t$  
+The advantage of our [risk-neutral pricing](.md) procedure over this approach is that we have a single formula for the price of the contingent claim at all times. $t$ at once, and don't have to go to a. backwards induction only to compute a price at a special time. $t$  
 
 # 3.5 Binomial Approximations  
 
-Suppose we observe financial assets during a continuous time period. $[0,T]$ . To construct a stochastic model of the price processes of these assets (to, e.g. value contingent claims) one basically has two choices: one could model the processes as continuous-time stochastic processes (for which the theory of [[6. A Brief Introduction to Stochastic Calculus|stochastic calculus]] is needed) or one could construct a sequence of [[Financial Mathematics Course|discrete-time models]] in which the continuous-time price processes are approximated by discrete-time stochastic processes in a suitable sense. We describe the the second approach now by examining the asymptotic. properties of a sequence of Cox-Ross-Rubinstein models..  
+Suppose we observe financial assets during a continuous time period. $[0,T]$ . To construct a stochastic model of the price processes of these assets (to, e.g. value contingent claims) one basically has two choices: one could model the processes as continuous-time stochastic processes (for which the theory of [stochastic calculus](6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md) is needed) or one could construct a sequence of [discrete-time models](.md) in which the continuous-time price processes are approximated by discrete-time stochastic processes in a suitable sense. We describe the the second approach now by examining the asymptotic. properties of a sequence of Cox-Ross-Rubinstein models..  
 
 # 3.5.1 Model Structure  
 
-We assume that all random variables subsequently introduced are defined on a suitable [[Uncertainty Information and Stochastic Processes|probability space]] $(\Omega,{\mathcal{F}},I P)$ . We want to model two assets, a riskless bond. $B$ and a risky stock. $S$ , which we now observe in a continuous-time interval. $[0,T]$ . To transfer the [[Exercises|continuous-time framework]] into a [[A Real-Life Option Pricing Exercise|binomial]] structure we make the following adjustments. Looking at the. $n$ th Cox-Ross-Rubinstein. model in our sequence, there is a prespecified number $k_{n}$ of trading dates. We set. $\Delta_{n}=T/k_{n}$ and divide $[0,T]$ in $k_{n}$ subintervals of length. $\Delta_{n}$ , namely $I_{j}=[j\Delta_{n},(j+1)\Delta_{n}]$ $j=0,\ldots,k_{n}-1$ . We suppose that trading occurs only at the equidistant time points $t_{n,j}=j\Delta_{n}$ $j=0,\ldots,k_{n}-1$ . We fix $r_{n}$ as the riskless interest rate over each interval. $I_{j}$ , and hence the bond process (in the $n$ th model) is given by.  
+We assume that all random variables subsequently introduced are defined on a suitable [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md) $(\Omega,{\mathcal{F}},I P)$ . We want to model two assets, a riskless bond. $B$ and a risky stock. $S$ , which we now observe in a continuous-time interval. $[0,T]$ . To transfer the [continuous-time framework](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) into a [binomial](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) structure we make the following adjustments. Looking at the. $n$ th Cox-Ross-Rubinstein. model in our sequence, there is a prespecified number $k_{n}$ of trading dates. We set. $\Delta_{n}=T/k_{n}$ and divide $[0,T]$ in $k_{n}$ subintervals of length. $\Delta_{n}$ , namely $I_{j}=[j\Delta_{n},(j+1)\Delta_{n}]$ $j=0,\ldots,k_{n}-1$ . We suppose that trading occurs only at the equidistant time points $t_{n,j}=j\Delta_{n}$ $j=0,\ldots,k_{n}-1$ . We fix $r_{n}$ as the riskless interest rate over each interval. $I_{j}$ , and hence the bond process (in the $n$ th model) is given by.  
 $$
 B(t_{n,j})=(1+r_{n})^{j},\quad j=0,\ldots,k_{n}.
 $$  
 
-In the continuous-time model we compound continuously with [[The Foreign Exchange Market Annotations|spot rate]] $r\geq0$ and hence the bond. price process $B(t)$ is given by $\boldsymbol B(t)=\boldsymbol e^{r t}$ . In order to approximate this process in the [[Multi-Period Valuation Models|discrete-time framework]], we choose. $r_{n}$ such that  
+In the continuous-time model we compound continuously with [spot rate](../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) $r\geq0$ and hence the bond. price process $B(t)$ is given by $\boldsymbol B(t)=\boldsymbol e^{r t}$ . In order to approximate this process in the [discrete-time framework](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Multi-Period%20Valuation%20Models.md), we choose. $r_{n}$ such that  
 $$
 1+r_{n}=e^{r\Delta_{n}}.
 $$  
 
 With this choice we have for any $j=0,\ldots,k_{n}$ that $(1+r_{n})^{j}=\exp(r j\Delta_{n})=\exp(r t_{n,j})$ . Thus we have approximated the bond process exactly at the time points of the discrete model.  
 
-Next we model the one-period [[Assets|returns]] $S(t_{n,j+1})/S(t_{n,j})$ of the stock by a family of random variables $Z_{n,i};i=1,\ldots,k_{n}$ taking values $\{d_{n},u_{n}\}$ with  
+Next we model the one-period [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) $S(t_{n,j+1})/S(t_{n,j})$ of the stock by a family of random variables $Z_{n,i};i=1,\ldots,k_{n}$ taking values $\{d_{n},u_{n}\}$ with  
 $$
 I P(Z_{n,i}=u_{n})=p_{n}=1-I P(Z_{n,i}=d_{n})
 $$  
 
-for some $p_{n}\in(0,1)$ (which we specify later). With these $Z_{n,j}$ we model the [[Black-Scholes Model|stock price process]] $S_{n}$ in the $n$ th Cox-Ross-Rubinstein model as  
+for some $p_{n}\in(0,1)$ (which we specify later). With these $Z_{n,j}$ we model the [stock price process](../Credit%20Markets/Black-Scholes%20Model.md) $S_{n}$ in the $n$ th Cox-Ross-Rubinstein model as  
 $$
 S_{n}(t_{n,j})=S_{n}(0)\prod_{i=1}^{j}\left(1+Z_{n,i}\right),\quad j=0,1,\ldots,k_{n}.
 $$  
 
-With the specification of the one-period [[Assets|returns]] we get a complete description of the discrete. dynamics of the [[Black-Scholes Model|stock price process]] in each Cox-Ross-Rubinstein model. We call such a finite sequence $Z_{n}~=~(Z_{n,i})_{i=1}^{k_{n}}$ a lattice or tree. The parameters $u_{n},d_{n},p_{n},k_{n}$ differ from lattice to lattice, but remain constant throughout a specific lattice. In the triangular array. $(Z_{n,i}),~i=$ $1,\ldots,k_{n};~n=1,2,\ldots$ we assume that the random variables are row-wise independent (but we. allow dependence between rows). The approximation of a [[The Continuous-Time Framework|continuous-time setting]] by a sequence. of lattices is called the lattice approach.  
+With the specification of the one-period [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) we get a complete description of the discrete. dynamics of the [stock price process](../Credit%20Markets/Black-Scholes%20Model.md) in each Cox-Ross-Rubinstein model. We call such a finite sequence $Z_{n}~=~(Z_{n,i})_{i=1}^{k_{n}}$ a lattice or tree. The parameters $u_{n},d_{n},p_{n},k_{n}$ differ from lattice to lattice, but remain constant throughout a specific lattice. In the triangular array. $(Z_{n,i}),~i=$ $1,\ldots,k_{n};~n=1,2,\ldots$ we assume that the random variables are row-wise independent (but we. allow dependence between rows). The approximation of a [continuous-time setting](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%206%20-%20Individual%20optimality/The%20Continuous-Time%20Framework.md) by a sequence. of lattices is called the lattice approach.  
 
-It is important to stress that for each $n$ we get a different discrete [[Black-Scholes Model|stock price process]] $S_{n}(t)$ and that in general these processes do not coincide on common time points (and are also different from the price process $S(t)$  
+It is important to stress that for each $n$ we get a different discrete [stock price process](../Credit%20Markets/Black-Scholes%20Model.md) $S_{n}(t)$ and that in general these processes do not coincide on common time points (and are also different from the price process $S(t)$  
 
-Turning back to a specific Cox-Ross-Rubinstein model, we now have as in. $\S3.4$ a discretetime bond and [[Black-Scholes Model|stock price process]]. We want [[Arbitrage Pricing of Derivatives|arbitrage]]-free financial market models and therefore have to choose the parameters $u_{n},d_{n},p_{n}$ accordingly. An [[Arbitrage Pricing of Derivatives|arbitrage]]-free financial market model is.  
+Turning back to a specific Cox-Ross-Rubinstein model, we now have as in. $\S3.4$ a discretetime bond and [stock price process](../Credit%20Markets/Black-Scholes%20Model.md). We want [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free financial market models and therefore have to choose the parameters $u_{n},d_{n},p_{n}$ accordingly. An [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free financial market model is.  
 
 guaranteed by the existence of an equivalent martingale measure, and by Proposition 3.4.1 (i) the (necessary and) sufficient condition for that is  
 $$
@@ -2327,12 +2327,12 @@ consider some special choices.
 
 # 3.5.2 The Black-Scholes Option Pricing Formula  
 
-We now choose the parameters in the above lattice approach in a special way. Assuming the [[Black Scholes Derivation|risk-free rate]] of interest $r$ as given, we have by (3.13) $1+r_{n}=e^{r\Delta_{n}};$ and the remaining degrees of freedom are resolved by choosing $u_{n}$ and $d_{n}$ . We use the following choice:  
+We now choose the parameters in the above lattice approach in a special way. Assuming the [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md) of interest $r$ as given, we have by (3.13) $1+r_{n}=e^{r\Delta_{n}};$ and the remaining degrees of freedom are resolved by choosing $u_{n}$ and $d_{n}$ . We use the following choice:  
 $$
 1+u_{n}=e^{\sigma\sqrt{\Delta_{n}}},\quad\mathrm{and}\quad1+d_{n}=(1+u_{n})^{-1}=e^{-\sigma\sqrt{\Delta_{n}}}.
 $$  
 
-By condition (3.14) the [[Financial Instruments|risk-neutral probabilities]] for the corresponding single period models are given by  
+By condition (3.14) the [risk-neutral probabilities](../Financial%20Instruments/Financial%20Instruments.md) for the corresponding single period models are given by  
 $$
 p_{n}^{*}={\frac{r_{n}-d_{n}}{u_{n}-d_{n}}}={\frac{e^{r\Delta_{n}}-e^{-\sigma{\sqrt{\Delta_{n}}}}}{e^{\sigma{\sqrt{\Delta_{n}}}}-e^{-\sigma{\sqrt{\Delta_{n}}}}}}.
 $$  
@@ -2342,12 +2342,12 @@ $$
 a_{n}=\operatorname*{min}{\big\{}j\in I N_{0}|S(0)(1+u_{n})^{j}(1+d_{n})^{k_{n}-j}>K{\big\}}.
 $$  
 
-Then we can rewrite the [[Arbitrage Pricing of Derivatives|pricing]] formula (3.12) for $t=0$ in the setting of the $n$ th Cox-RossRubinstein model as  
+Then we can rewrite the [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formula (3.12) for $t=0$ in the setting of the $n$ th Cox-RossRubinstein model as  
 $$
 \begin{array}{l c l}{{\Pi_{C}(0)}}&{{=}}&{{(1+r_{n})^{-k_{n}}\displaystyle\sum_{j=a_{n}}^{k_{n}}{\binom{k_{n}}{j}}p_{n}^{*j}(1-p_{n}^{*})^{k_{n}-j}(S(0)(1+u_{n})^{j}(1+d_{n})^{k_{n}-j}-K)}}\ {{}}&{{=}}&{{S(0)\left[\displaystyle\sum_{j=a_{n}}^{k_{n}}{\binom{k_{n}}{j}}\left(\displaystyle\frac{p_{n}^{*}(1+u_{n})}{1+r_{n}}\right)^{j}\left(\displaystyle\frac{(1-p_{n}^{*})(1+d_{n})}{1+r_{n}}\right)^{k_{n}-j}\right]}}\ {{}}&{{}}&{{-(1+r_{n})^{-k_{n}}K\displaystyle\left[\displaystyle\sum_{j=a_{n}}^{k_{n}}{\binom{k_{n}}{j}}p_{n}^{*j}(1-p_{n}^{*})^{k_{n}-j}\right].}}\end{array}
 $$  
 
-Denoting the [[A Real-Life Option Pricing Exercise|binomial]] cumulative [[Verification of Central Limit Theorem|distribution function]] with parameters $(n,p)$ as $B^{n,p}(.)$ we see that the second bracketed expression is just  
+Denoting the [binomial](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) cumulative [distribution function](Verification%20of%20Central%20Limit%20Theorem.md) with parameters $(n,p)$ as $B^{n,p}(.)$ we see that the second bracketed expression is just  
 $$
 \begin{array}{r}{\bar{B}^{k_{n},p_{n}^{*}}(a_{n})=1-B^{k_{n},p_{n}^{*}}(a_{n}).}\end{array}
 $$  
@@ -2369,7 +2369,7 @@ $$
 \operatorname*{lim}_{n\to\infty}\Pi_{C}^{(n)}(0)=\Pi_{C}^{B S}(0)
 $$  
 
-with $\Pi_{C}^{B S}(0)$ given by the [[Credit Markets Session 5|Black-Scholes formula]] (we use $S=S(0)$ to ease the notation)  
+with $\Pi_{C}^{B S}(0)$ given by the [Black-Scholes formula](../Credit%20Markets/Credit%20Markets%20Session%205.md) (we use $S=S(0)$ to ease the notation)  
 $$
 \Pi_{C}^{B S}(0)=S N(d_{1}(S,T))-K e^{-r T}N(d_{2}(S,T)).
 $$  
@@ -2379,7 +2379,7 @@ $$
 \begin{array}{l c l}{{d_{1}(s,t)}}&{{=}}&{{{\displaystyle\frac{\log(s/K)+(r+\frac{\sigma^{2}}{2})t}{\sigma\sqrt{t}}},}}\ {{}}&{{}}&{{}}\ {{d_{2}(s,t)}}&{{=}}&{{d_{1}(s,t)-\sigma\sqrt{t}=\displaystyle\frac{\log(s/K)+(r-\frac{\sigma^{2}}{2})t}{\sigma\sqrt{t}}}}\end{array}
 $$  
 
-and $N(.)$ is the standard normal cumulative [[Verification of Central Limit Theorem|distribution function]].  
+and $N(.)$ is the standard normal cumulative [distribution function](Verification%20of%20Central%20Limit%20Theorem.md).  
 
 Proof. Since $S_{n}(0)=S$ (say) all we have to do to prove the proposition is to show  
 $$
@@ -2393,7 +2393,7 @@ $$
 \bar{B}^{k_{n},\hat{p}_{n}}(a_{n})=I P\left(a_{n}\leq Y_{n}\leq k_{n}\right)
 $$  
 
-with $\left(Y_{n}\right)$ a sequence of random variables distributed according to the [[A Real-Life Option Pricing Exercise|binomial]] law with parameters $(k_{n},\hat{p}_{n})$ . We normalise $Y_{n}$ to  
+with $\left(Y_{n}\right)$ a sequence of random variables distributed according to the [binomial](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) law with parameters $(k_{n},\hat{p}_{n})$ . We normalise $Y_{n}$ to  
 $$
 \tilde{Y}_{n}=\frac{Y_{n}-\mathit{{R P}}(Y_{n})}{\sqrt{V a r(Y_{n})}}=\frac{Y_{n}-k_{n}\hat{p}_{n}}{\sqrt{k_{n}\hat{p}_{n}(1-\hat{p}_{n})}}=\frac{\overset{k_{n}}{\sum}(B_{j,n}-\hat{p}_{n})}{\sqrt{k_{n}\hat{p}_{n}(1-\hat{p}_{n})}},
 $$  
@@ -2447,7 +2447,7 @@ $$
 
 whence (ii) follows similarly.  
 
-By the above proposition we have derived the classical [[Mathematical Modeling of Derivative Pricing|Black-Scholes]] European call option valuation formula as an asymptotic limit of option prices in a sequence of Cox-Ross-Rubinstein. type models with a special choice of parameters. We will therefore call these models discrete. [[Mathematical Modeling of Derivative Pricing|Black-Scholes]] models. Let us mention here that in the continuous-time [[Black Scholes Derivation|Black-Scholes model]] the dynamics of the (stochastic) [[Black-Scholes Model|stock price process]] $S(t)$ are modelled by a [[Black Scholes Derivation|geometric Brownian motion]] (or exponential [[The Ornstein-Uhlenbeck (OU) Process|Wiener process]]). The sample paths of this stochastic price process are almost all continuous and the probability law of $S(t)$ at any time $t$ is lognormal. In particular the time $T$ distribution of $\log\{S(T)/S(0)\}$ is $N(T\mu,T\sigma^{2})$ .Looking back at the construction of our sequence of Cox-Ross-Rubinstein models we see that  
+By the above proposition we have derived the classical [Black-Scholes](Mathematical%20Modeling%20of%20Derivative%20Pricing.md) European call option valuation formula as an asymptotic limit of option prices in a sequence of Cox-Ross-Rubinstein. type models with a special choice of parameters. We will therefore call these models discrete. [Black-Scholes](Mathematical%20Modeling%20of%20Derivative%20Pricing.md) models. Let us mention here that in the continuous-time [Black-Scholes model](../Financial%20Instruments/Black%20Scholes%20Derivation.md) the dynamics of the (stochastic) [stock price process](../Credit%20Markets/Black-Scholes%20Model.md) $S(t)$ are modelled by a [geometric Brownian motion](../Financial%20Instruments/Black%20Scholes%20Derivation.md) (or exponential [Wiener process](../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md)). The sample paths of this stochastic price process are almost all continuous and the probability law of $S(t)$ at any time $t$ is lognormal. In particular the time $T$ distribution of $\log\{S(T)/S(0)\}$ is $N(T\mu,T\sigma^{2})$ .Looking back at the construction of our sequence of Cox-Ross-Rubinstein models we see that  
 $$
 \log{\frac{S_{n}(T)}{S(0)}}=\sum_{i=1}^{k_{n}}\log(1+Z_{n,i}),
 $$  
@@ -2465,21 +2465,21 @@ i.e. $\frac{S_{n}(T)}{S(0)}$ is in the limit lognormally distributed.
 
 # 3.6 American Options  
 
-Consider a general multi-period framework. The holder of an American derivative security can 'exercise' in any period $t$ and receive payment $f(S_{t})$ (or more general a non-negative payment. $f_{t}$ In order to hedge such an option, we want to construct a [[Arbitrage|self-financing trading strategy]]. $\varphi_{t}$ such that for the corresponding value process $V_{\varphi}(t)$  
+Consider a general multi-period framework. The holder of an American derivative security can 'exercise' in any period $t$ and receive payment $f(S_{t})$ (or more general a non-negative payment. $f_{t}$ In order to hedge such an option, we want to construct a [self-financing trading strategy](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Arbitrage.md). $\varphi_{t}$ such that for the corresponding value process $V_{\varphi}(t)$  
 $$
 \begin{array}{r c l}{{V_{\varphi}(0)}}&{{=}}&{{x\mathrm{initialcapital}}}\ {{V_{\varphi}(t)}}&{{\geq}}&{{f(S_{t}),\forall t.}}\end{array}
 $$  
 
-Such a [[Key Rates O1s Durations and Hedging|hedging]] [[An Asset Allocation Primer|portfolio]] is minimal, if for a [[American-Style Derivatives|stopping time]] $\tau$  
+Such a [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is minimal, if for a [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) $\tau$  
 $$
 V_{\varphi}(\tau)=f(S_{\tau}).
 $$  
 
-Our aim in the following will be to discuss existence and construction of such a [[American-Style Derivatives|stopping time]].  
+Our aim in the following will be to discuss existence and construction of such a [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md).  
 
 # 3.6.1 Stopping Times, Optional Stopping and Snell Envelopes  
 
-A random variable $\tau$ taking values in $\{0,1,2,...;{+}\infty\}$ is called a [[American-Style Derivatives|stopping time]] (or optional time) if  
+A random variable $\tau$ taking values in $\{0,1,2,...;{+}\infty\}$ is called a [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) (or optional time) if  
 $$
 \{\tau\leq n\}=\{\omega:\tau(\omega)\leq n\}\in\mathscr{F}_{n}\mathrm{~~}\forall\mathrm{~}n\leq\infty.
 $$  
@@ -2489,14 +2489,14 @@ $$
 \{\tau=n\}\in\mathcal{F}_{n}\forall n\leq\infty.
 $$  
 
-Call a [[American-Style Derivatives|stopping time]] $\tau$ bounded, if there is a constant $K$ such that ${\cal I P}(\tau\leq K)=1$ .(Since $\tau(\omega)\le K$ for some constant $K$ and all $\omega\in\Omega\setminus N$ with $\textstyle{\mathcal{P}}(N)=0$ all identities hold true except on a null set, i.e. almost surely.)  
+Call a [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) $\tau$ bounded, if there is a constant $K$ such that ${\cal I P}(\tau\leq K)=1$ .(Since $\tau(\omega)\le K$ for some constant $K$ and all $\omega\in\Omega\setminus N$ with $\textstyle{\mathcal{P}}(N)=0$ all identities hold true except on a null set, i.e. almost surely.)  
 
 Example. Suppose ( $X_{n}$ ) is an adapted process and we are interested in the time of first entry of $X$ into a Borel set $B$ (typically one might have $B=[c,\infty)$  
 $$
 \tau=\operatorname*{inf}\{n\geq0:X_{n}\in B\}.
 $$  
 
-Now $\begin{array}{r}{\{\tau\leq n\}=\bigcup_{k\leq n}\{X_{k}\in B\}\in\mathcal{F}_{n}}\end{array}$ and $\tau=\infty$ if $X$ never enters $B$ . Thus $\tau$ is a [[American-Style Derivatives|stopping time]].  
+Now $\begin{array}{r}{\{\tau\leq n\}=\bigcup_{k\leq n}\{X_{k}\in B\}\in\mathcal{F}_{n}}\end{array}$ and $\tau=\infty$ if $X$ never enters $B$ . Thus $\tau$ is a [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md).  
 
 Intuitively, think of $\tau$ as a time at which you decide to quit a gambling game: whether or not you quit at time $n$ depends only on the history up to and including time $n$ NOT the future. Thus stopping times model gambling and other situations where there is no foreknowledge, or prescience of the future; in particular, in the financial context, where there is no insider trading. Furthermore since a gambler cannot cheat the system the expectation of his hypothetical fortune (playing with unit stake) should equal his initial fortune.  
 
@@ -2511,30 +2511,30 @@ $$
 X_{\tau(\omega)}(\omega)=\sum_{k=0}^{\infty}X_{k}(\omega)\mathbf{1}_{\{\tau(\omega)=k\}}=\sum_{k=0}^{K}X_{k}(\omega)\mathbf{1}_{\{\tau(\omega)=k\}}
 $$  
 
-Thus using successively the linearity of the expectation operator, the [[Continuous-Time Stochastic Processes|martingale property]] of $X$ the ${\mathcal F}_{k}$ -measurability of $\{\tau=k\}$ and finally the definition of conditional expectation, we get.  
+Thus using successively the linearity of the expectation operator, the [martingale property](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) of $X$ the ${\mathcal F}_{k}$ -measurability of $\{\tau=k\}$ and finally the definition of conditional expectation, we get.  
 $$
 \begin{array}{r c l}{{\displaystyle\mathbb{E}(X_{\tau})}}&{{=}}&{{\displaystyle\mathbb{E}\left[\sum_{k=0}^{K}X_{k}\mathbf{1}_{\left\{\tau=k\right\}}\right]=\sum_{k=0}^{K}{\cal E}\left[X_{k}\mathbf{1}_{\left\{\tau=k\right\}}\right]}}\ {{}}&{{=}}&{{\displaystyle\sum_{k=0}^{K}{\cal E}\left[{\cal E}(X_{K}|{\mathcal F}_{k})\mathbf{1}_{\left\{\tau=k\right\}}\right]=\sum_{k=0}^{K}{\cal E}\left[X_{K}\mathbf{1}_{\left\{\tau=k\right\}}\right]}}\ {{}}&{{=}}&{{\displaystyle{\cal E}\left[X_{K}\sum_{k=0}^{K}\mathbf{1}_{\left\{\tau=k\right\}}\right]={\cal E}(X_{K})={\cal E}(X_{0}).}}\end{array}
 $$  
 
-The [[American-Style Derivatives|stopping time]] principle holds also true if $X=\left(X_{n}\right)$ is a supermartingale; then the conclusion is  
+The [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) principle holds also true if $X=\left(X_{n}\right)$ is a supermartingale; then the conclusion is  
 $$
 \begin{array}{r}{I E X_{\tau}\leq I E X_{0}.}\end{array}
 $$  
 
 Also, alternative conditions such as  
 
-(i) $X=\left(X_{n}\right)$ is bounded $\langle|X_{n}(\omega)|\leq L$ for some $L$ and all $n,\omega$ (ii) $I E\tau<\infty$ and $(X_{n}-X_{n-1})$ is bounded; suffice for the proof of the [[American-Style Derivatives|stopping time]] principle.  
+(i) $X=\left(X_{n}\right)$ is bounded $\langle|X_{n}(\omega)|\leq L$ for some $L$ and all $n,\omega$ (ii) $I E\tau<\infty$ and $(X_{n}-X_{n-1})$ is bounded; suffice for the proof of the [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) principle.  
 
-The [[American-Style Derivatives|stopping time]] principle is important in many areas, such as sequential analysis in statistics. We turn in the next section to related ideas specific to the gambling/financial context..  
+The [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) principle is important in many areas, such as sequential analysis in statistics. We turn in the next section to related ideas specific to the gambling/financial context..  
 
-We now wish to create the concept of the. $\sigma$ -algebra of events observable up to a [[American-Style Derivatives|stopping time]]. $\tau$ , in analogy to the. $\sigma$ -algebra ${\mathcal{F}}_{n}$ which represents the events observable up to time $n$  
+We now wish to create the concept of the. $\sigma$ -algebra of events observable up to a [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md). $\tau$ , in analogy to the. $\sigma$ -algebra ${\mathcal{F}}_{n}$ which represents the events observable up to time $n$  
 
-Definition 3.6.1. Let $\tau$ be a [[American-Style Derivatives|stopping time]]. The [[American-Style Derivatives|stopping time]] $\sigma-$ algebra ${\mathcal{F}}_{\tau}$ is defined to be  
+Definition 3.6.1. Let $\tau$ be a [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md). The [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) $\sigma-$ algebra ${\mathcal{F}}_{\tau}$ is defined to be  
 $$
 \mathcal{F}_{\tau}=\{A\in\mathcal{F}:A\cap\{\tau\leq n\}\in\mathcal{F}_{n},~f o r~a l l~n\}.
 $$  
 
-Proposition 3.6.1. For $\tau$ a [[American-Style Derivatives|stopping time]], ${\mathcal{F}}_{\tau}$ is a - algebra.  
+Proposition 3.6.1. For $\tau$ a [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md), ${\mathcal{F}}_{\tau}$ is a - algebra.  
 
 Proof. We simply have to check the defining properties. Clearly $\Omega,\emptyset$ are in ${\mathcal{F}}_{\tau}$ .Also for $A\in\mathcal{F}_{\tau}$ we find  
 $$
@@ -2557,7 +2557,7 @@ $$
 
 since $(.)\in\mathcal{F}_{n}$ as $A\in{\mathcal{F}}_{\sigma}$ . So $A\in\mathcal{F}_{\tau}$  
 
-Proposition 3.6.3. For any adapted sequence of random variables $X=\left(X_{n}\right)$ and a.s.finite [[American-Style Derivatives|stopping time]] $\tau$ , define  
+Proposition 3.6.3. For any adapted sequence of random variables $X=\left(X_{n}\right)$ and a.s.finite [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) $\tau$ , define  
 $$
 X_{\tau}=\sum_{n=0}^{\infty}X_{n}\mathbf{1}_{\{\tau=n\}}.
 $$  
@@ -2594,18 +2594,18 @@ Since
 $$
 \{\rho\leq n\}=(A\cap\{\sigma\leq n\})\cup(A^{c}\cap\{\tau\leq n\})\in\mathcal{F}_{n}
 $$  
-$\rho$ is a [[American-Style Derivatives|stopping time]], and from $\rho\leq\tau$ we see that $\rho$ is bounded. So the STP (Theorem 3.6.1) implies $\begin{array}{r}{{\cal E}(X_{\rho})={\cal E}(X_{0})={\cal E}(X_{\tau})}\end{array}$ . But  
+$\rho$ is a [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md), and from $\rho\leq\tau$ we see that $\rho$ is bounded. So the STP (Theorem 3.6.1) implies $\begin{array}{r}{{\cal E}(X_{\rho})={\cal E}(X_{0})={\cal E}(X_{\tau})}\end{array}$ . But  
 $$
 \begin{array}{r l r}{{\cal E}(X_{\rho})}&{=}&{{\cal E}\left(X_{\sigma}{\bf1}_{A}+X_{\tau}{\bf1}_{A^{c}}\right),}\ {{}}&{}&{{}}\ {{\cal E}(X_{\tau})}&{=}&{{\cal E}\left(X_{\tau}{\bf1}_{A}+X_{\tau}{\bf1}_{A^{c}}\right).}\end{array}
 $$  
 
 So subtracting yields (3.19).  
 
-We can establish a further characterisation of the [[Continuous-Time Stochastic Processes|martingale property]].  
+We can establish a further characterisation of the [martingale property](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md).  
 
 Proposition 3.6.4. Let $X=\left(X_{n}\right)$ be an adapted sequence of random variables with $\textstyle H(|X_{n}|)<\infty$ for all $n$ and $\ensuremath{\boldsymbol{{H}}}(\ensuremath{\boldsymbol{{X}}}_{\tau})=0$ for all bounded stopping times $\tau$ . Then $X$ is a martingale.  
 
-Proof. Let $0\leq m<n,\infty$ and $A\in{\mathcal{F}}_{m}$ . Define a [[American-Style Derivatives|stopping time]] $\tau$ by $\tau=n\mathbf{1}_{A}+m\mathbf{1}_{A^{c}}$ . Then  
+Proof. Let $0\leq m<n,\infty$ and $A\in{\mathcal{F}}_{m}$ . Define a [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) $\tau$ by $\tau=n\mathbf{1}_{A}+m\mathbf{1}_{A^{c}}$ . Then  
 $$
 \begin{array}{r l r}{0={\cal E}(X_{\tau})}&{{}=}&{{\cal E}\left(X_{n}{\bf1}_{A}+X_{m}{\bf1}_{A^{c}}\right),}\ {0={\cal E}(X_{m})}&{{}=}&{{\cal E}\left(X_{m}{\bf1}_{A}+X_{m}{\bf1}_{A^{c}}\right),}\end{array}
 $$  
@@ -2614,9 +2614,9 @@ and by subtraction we obtain $E\left(X_{m}\mathbf{1}_{A}\right)=E\left(X_{n}\mat
 
 Write $X^{\tau}=(X_{n}^{\tau})$ for the sequence $X=\left(X_{n}\right)$ stopped at time $\tau$ , where we define $X_{n}^{\tau}(\omega):=$ $X_{\tau(\omega)\wedge n}(\omega)$  
 
-Proposition 3.6.5. (i) If $X$ is adapted and $\tau$ is a [[American-Style Derivatives|stopping time]], then the stopped sequence $X^{\tau}$ is adapted.  
+Proposition 3.6.5. (i) If $X$ is adapted and $\tau$ is a [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md), then the stopped sequence $X^{\tau}$ is adapted.  
 
-(ii) If $X$ is a martingale (super-, submartingale) and $\tau$ is a [[American-Style Derivatives|stopping time]], $X^{\tau}$ is a martingale (super-, submartingale).  
+(ii) If $X$ is a martingale (super-, submartingale) and $\tau$ is a [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md), $X^{\tau}$ is a martingale (super-, submartingale).  
 
 Proof. Let $C_{j}:=\mathbf{1}_{\{j\leq\tau\}}$ ; then  
 $$
@@ -2662,14 +2662,14 @@ $$
 
 By repeating this argument (or more formally, by backward induction), $Y_{n}\geq Z_{n}$ for all $n$ , as required.  
 
-Proposition 3.6.6. $\tau^{*}:=\operatorname*{inf}\{n\geq0:Z_{n}=X_{n}\}$ is a [[American-Style Derivatives|stopping time]], and the stopped process $Z^{\tau^{*}}$ is a martingale.  
+Proposition 3.6.6. $\tau^{*}:=\operatorname*{inf}\{n\geq0:Z_{n}=X_{n}\}$ is a [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md), and the stopped process $Z^{\tau^{*}}$ is a martingale.  
 
 Proof. Since $Z_{N}=X_{N}$ $\tau^{*}\in\{0,1,\ldots,N\}$ is well-defined and clearly bounded. For $k=0$ $\{\tau^{*}=0\}=\{Z_{0}=X_{0}\}\in\mathcal{F}_{0}$ ; for $k\geq1$  
 $$
 \{\tau^{*}=k\}=\left\{Z_{0}>X_{0}\right\}\cap\cdots\cap\left\{Z_{k-1}>X_{k-1}\right\}\cap\left\{Z_{k}=X_{k}\right\}\in{\mathcal{F}}_{k}.
 $$  
 
-So $\tau^{*}$ is a [[American-Style Derivatives|stopping time]].  
+So $\tau^{*}$ is a [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md).  
 
 As in the proof of Proposition 3.6.5,  
 $$
@@ -2703,7 +2703,7 @@ $$
 
 So $\boldsymbol{\it E}(Z_{n+1}^{\tau^{*}}|\mathcal{F}_{n})=Z_{n}^{\tau^{*}}$ . This says that $Z^{\tau^{*}}$ is a martingale, as required.  
 
-Write $T_{n,N}$ for the set of stopping times taking values in $\{n,n+1,\ldots,N\}$ (a finite set, as $\Omega$ is finite). Call a [[American-Style Derivatives|stopping time]] $\sigma\in{\mathcal{T}}_{n,N}$ optimal for ( $X_{n}$ ) if  
+Write $T_{n,N}$ for the set of stopping times taking values in $\{n,n+1,\ldots,N\}$ (a finite set, as $\Omega$ is finite). Call a [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) $\sigma\in{\mathcal{T}}_{n,N}$ optimal for ( $X_{n}$ ) if  
 $$
 E(X_{\sigma}|\mathcal{F}_{n})=\operatorname*{sup}\{I E(X_{\tau}|\mathcal{F}_{n}):\tau\in\mathcal{T}_{n,N}\}.
 $$  
@@ -2720,7 +2720,7 @@ $$
 Z_{0}=Z_{0}^{\tau^{*}}=I E\left(Z_{N}^{\tau^{*}}\right)=I E\left(Z_{\tau^{*}}\right)=I E\left(X_{\tau}^{*}\right).
 $$  
 
-Now for any [[American-Style Derivatives|stopping time]] $\tau\in T_{0,N}$ , since $Z$ is a supermartingale (above), so is the stopped process $Z^{\tau}$ (see Proposition 3.6.5). Together with the property that $Z$ dominates $X$ this yields  
+Now for any [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) $\tau\in T_{0,N}$ , since $Z$ is a supermartingale (above), so is the stopped process $Z^{\tau}$ (see Proposition 3.6.5). Together with the property that $Z$ dominates $X$ this yields  
 $$
 Z_{0}=Z_{0}^{\tau}\geq\ensuremath{\boldsymbol{{\cal E}}}\left(Z_{N}^{\tau}\right)=\ensuremath{\boldsymbol{{\cal E}}}\left(Z_{\tau}\right)\geq\ensuremath{\boldsymbol{{\cal E}}}\left(X_{\tau}\right).
 $$  
@@ -2734,11 +2734,11 @@ $$
 Z_{n}=\ensuremath{\boldsymbol{{\cal E}}}(X_{\tau_{n}^{*}}|\mathcal{F}_{n})=\operatorname*{sup}\left\{\ensuremath{\boldsymbol{{\cal E}}}(X_{\tau}|\mathcal{F}_{n}):\tau\in\mathcal{T}_{n,N}\right\}.
 $$  
 
-As we are attempting to maximise our payoff by stopping $X=\left(X_{n}\right)$ at the most advantageous time, the Corollary shows that $\tau_{n}^{*}$ gives the best [[American-Style Derivatives|stopping time]] that is realistic: it maximises our expected payoff given only information currently available.  
+As we are attempting to maximise our payoff by stopping $X=\left(X_{n}\right)$ at the most advantageous time, the Corollary shows that $\tau_{n}^{*}$ gives the best [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) that is realistic: it maximises our expected payoff given only information currently available.  
 
-We proceed by analysing optimal stopping times. One can characterize optimality by establishing a [[Continuous-Time Stochastic Processes|martingale property]]:  
+We proceed by analysing optimal stopping times. One can characterize optimality by establishing a [martingale property](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md):  
 
-Proposition 3.6.8. The [[American-Style Derivatives|stopping time]] $\sigma\in T$ is optimal for (. $X_{t}$ ) if and only if the following two.   
+Proposition 3.6.8. The [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) $\sigma\in T$ is optimal for (. $X_{t}$ ) if and only if the following two.   
 conditions hold. (i) $Z_{\sigma}=X_{\sigma}$ .   
 (ii) $Z^{\sigma}$ is a martingale.  
 
@@ -2774,7 +2774,7 @@ $$
 Z_{\sigma\wedge n}\geq I E(Z_{\sigma}|\mathcal{F}_{n}).
 $$  
 
-As above, this inequality between random variables with equal [[FORWARD RATES AND TERM STRUCTURE|expectations]] forces a.s. equality: $Z_{\sigma\wedge n}=I E(Z_{\sigma}|\mathcal{F}_{n})$ a.s.. Apply $\it{l b}(.|\mathcal{F}_{n-1})$  
+As above, this inequality between random variables with equal [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) forces a.s. equality: $Z_{\sigma\wedge n}=I E(Z_{\sigma}|\mathcal{F}_{n})$ a.s.. Apply $\it{l b}(.|\mathcal{F}_{n-1})$  
 $$
 \begin{array}{r}{E\left(Z_{\sigma\wedge n}\big|\mathcal{F}_{n-1}\right)=E E\left(E(Z_{\sigma}|\mathcal{F}_{n})|\mathcal{F}_{n-1}\right)=E(Z_{\sigma}|\mathcal{F}_{n-1})=Z_{\sigma\wedge(n-1)},}\end{array}
 $$  
@@ -2786,7 +2786,7 @@ $$
 
 so $Z^{\sigma}$ is a martingale.  
 
-From Proposition 3.6.6 and its definition (first time when $Z$ and $X$ are equal) it follows that $\tau^{*}$ is the smallest optimal [[American-Style Derivatives|stopping time]] . To find the largest optimal [[American-Style Derivatives|stopping time]] we try to find the time when $Z$ 'ceases to be a martingale'. In order to do so we need a structural result of genuine interest and importance  
+From Proposition 3.6.6 and its definition (first time when $Z$ and $X$ are equal) it follows that $\tau^{*}$ is the smallest optimal [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) . To find the largest optimal [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) we try to find the time when $Z$ 'ceases to be a martingale'. In order to do so we need a structural result of genuine interest and importance  
 
 Theorem 3.6.4 (Doob Decomposition). Let $X=\left(X_{n}\right)$ be an adapted process with each $X_{n}\in$ $\mathcal{L}^{1}$ . Then $X$ has an (essentially unique) Doob decomposition  
 $$
@@ -2828,14 +2828,14 @@ $$
 \begin{array}{r}{\nu(\omega)=\left\{\begin{array}{l l}{N}&{i f A_{N}(\omega)=0}\ {\operatorname*{min}\{n\geq0:A_{n+1}>0\}}&{i f A_{N}(\omega)>0.}\end{array}\right.}\end{array}
 $$  
 
-Observe that $\nu$ (bounded by $N$ ) is a [[American-Style Derivatives|stopping time]], since  
+Observe that $\nu$ (bounded by $N$ ) is a [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md), since  
 $$
 \{\nu=n\}=\bigcup_{k\leq n}\{A_{k}=0\}\cap\{A_{n+1}>0\}\in{\mathcal{F}}_{n}
 $$  
 
 as $A$ is predictable.  
 
-Proposition 3.6.9. v is optimal for (. $X_{t}$ ), and it is the largest optimal [[American-Style Derivatives|stopping time]] for $\left(X_{t}\right)$  
+Proposition 3.6.9. v is optimal for (. $X_{t}$ ), and it is the largest optimal [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) for $\left(X_{t}\right)$  
 
 Proof. We use Proposition 3.6.8. Since for $k\le\nu(\omega),Z_{k}(\omega)=M_{k}(\omega)-A_{k}(\omega)=M_{k}(\omega)$ $Z^{\nu}$ is a martingale and thus we have (ii) of Proposition 3.6.8. To see (i) we write  
 $$
@@ -2858,17 +2858,17 @@ So $\tau$ cannot be optimal.
 
 We assume now that we work in a market model $(\Omega,{\mathcal{F}},I F,I P)$ , which is complete with. $\mathit{\Pi}\mathit{\perp}\mathit{\Psi}$ the unique martingale measure..  
 
-Then for any [[The Value of the Swap Contract after Initiation|hedging strategy]] $\varphi$ we have that under $\b{\mathcal{M}}^{*}$  
+Then for any [hedging strategy](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/The%20Value%20of%20the%20Swap%20Contract%20after%20Initiation.md) $\varphi$ we have that under $\b{\mathcal{M}}^{*}$  
 $$
 M(t)=\tilde{V}_{\varphi}(t)=\beta(t)V_{\varphi}(t)
 $$  
 
-is a martingale. Thus we can use the STP (Theorem 3.6.1) to find for any [[American-Style Derivatives|stopping time]] $\tau$  
+is a martingale. Thus we can use the STP (Theorem 3.6.1) to find for any [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) $\tau$  
 $$
 V_{\varphi}(0)=M_{0}=I E^{*}(\tilde{V}_{\varphi}(\tau)).
 $$  
 
-Since we require $V_{\varphi}(\tau)\geq f_{\tau}(S)$ for any [[American-Style Derivatives|stopping time]] we find for the required initial capital  
+Since we require $V_{\varphi}(\tau)\geq f_{\tau}(S)$ for any [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) we find for the required initial capital  
 $$
 x\geq\operatorname*{sup}_{\tau\in\mathcal{T}}I E^{*}(\beta(\tau)f_{\tau}(S)).
 $$  
@@ -2880,7 +2880,7 @@ $$
 
 Thus (3.29) is a necessary condition for the existence of a minimal strategy. $\varphi$ . We will show that it is also sufficient and call the price in (3.29) the rational price of an American contingent claim.  
 
-Now consider the problem of the option writer to construct such a strategy $\varphi$ . At time $T$ the [[The Value of the Swap Contract after Initiation|hedging strategy]] needs to cover. $f_{T}$ , i.e. $V_{\varphi}(T)\geq f_{T}$ is required (We write short. $f_{t}$ for $f_{t}(S)$ ). At time $T-1$ the option holder can either exercise and receive $f_{T-1}$ or hold the option to expiry,. in which case. $B(T-1)E^{*}(\beta(T)f_{T}|F_{T-1})$ needs to be covered. Thus the [[The Value of the Swap Contract after Initiation|hedging strategy]] of the. writer has to satisfy.  
+Now consider the problem of the option writer to construct such a strategy $\varphi$ . At time $T$ the [hedging strategy](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/The%20Value%20of%20the%20Swap%20Contract%20after%20Initiation.md) needs to cover. $f_{T}$ , i.e. $V_{\varphi}(T)\geq f_{T}$ is required (We write short. $f_{t}$ for $f_{t}(S)$ ). At time $T-1$ the option holder can either exercise and receive $f_{T-1}$ or hold the option to expiry,. in which case. $B(T-1)E^{*}(\beta(T)f_{T}|F_{T-1})$ needs to be covered. Thus the [hedging strategy](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/The%20Value%20of%20the%20Swap%20Contract%20after%20Initiation.md) of the. writer has to satisfy.  
 $$
 V_{\varphi}(T-1)=\operatorname*{max}\{f_{T-1},B(T-1)E^{*}(\beta(T)f_{T}|\mathcal{F}_{T-1})\}
 $$  
@@ -2902,7 +2902,7 @@ $$
 Z_{t}=\operatorname*{sup}_{\tau\in{\mathcal{T}}_{t}}I E^{*}(\tilde{f}_{\tau}|{\mathcal{F}}_{t})
 $$  
 
-and the [[American-Style Derivatives|stopping time]] $\begin{array}{r}{\tau^{*}=\operatorname*{min}\{s\ge t:Z_{s}=\tilde{f}_{s}\}}\end{array}$ is optimal. So.  
+and the [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) $\begin{array}{r}{\tau^{*}=\operatorname*{min}\{s\ge t:Z_{s}=\tilde{f}_{s}\}}\end{array}$ is optimal. So.  
 $$
 Z_{t}=I E^{*}(\tilde{f}_{\tau^{*}}|\mathcal{F}_{t})
 $$  
@@ -2941,26 +2941,26 @@ $$
 
 and therefore $\phi$ is a minimal hedge.  
 
-Now consider the problem of the option holder, how to find the optimal exercise time. We observe that the optimal exercise time must be an optimal [[American-Style Derivatives|stopping time]], since for any other [[American-Style Derivatives|stopping time]] $\sigma$ (use Proposition 3.6.8)  
+Now consider the problem of the option holder, how to find the optimal exercise time. We observe that the optimal exercise time must be an optimal [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md), since for any other [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) $\sigma$ (use Proposition 3.6.8)  
 $$
 \tilde{V}_{\varphi}(\sigma)=Z_{\sigma}>\tilde{f}_{\sigma}
 $$  
 
-and holding the asset longer would generate a larger payoff. Thus the holder needs to wait until $Z_{\sigma}=\tilde{f}_{\sigma}$ i.e. (i) of Proposition 3.6.8 is true. On the other hand with $\nu$ the largest [[American-Style Derivatives|stopping time]] (compare Definition 3.6.3) we see that $\sigma\leq\nu$ . This follows since using $\bar{\phi}$ after $\nu$ with initial capital. from exercising will always yield a higher [[An Asset Allocation Primer|portfolio]] value than the strategy of exercising later. To see this recall that.. $V_{\bar{\varphi}}=Z_{t}B_{t}+A_{t}$ with $A_{t}~>~0$ for $t>\nu$ . So we must have. $\sigma\leq\nu$ and since $A_{t}=0$ for $t\leq\nu$ we see that. $Z^{\sigma}$ is a martingale. Now criterion (ii) of Proposition 3.6.8 is true and $\sigma$ is thus optimal. So  
+and holding the asset longer would generate a larger payoff. Thus the holder needs to wait until $Z_{\sigma}=\tilde{f}_{\sigma}$ i.e. (i) of Proposition 3.6.8 is true. On the other hand with $\nu$ the largest [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) (compare Definition 3.6.3) we see that $\sigma\leq\nu$ . This follows since using $\bar{\phi}$ after $\nu$ with initial capital. from exercising will always yield a higher [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) value than the strategy of exercising later. To see this recall that.. $V_{\bar{\varphi}}=Z_{t}B_{t}+A_{t}$ with $A_{t}~>~0$ for $t>\nu$ . So we must have. $\sigma\leq\nu$ and since $A_{t}=0$ for $t\leq\nu$ we see that. $Z^{\sigma}$ is a martingale. Now criterion (ii) of Proposition 3.6.8 is true and $\sigma$ is thus optimal. So  
 
-Proposition 3.6.10. A [[American-Style Derivatives|stopping time]]. $\sigma\in T_{t}$ is an optimal exercise time for the American option $\left(f_{t}\right)$ if and only if.  
+Proposition 3.6.10. A [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md). $\sigma\in T_{t}$ is an optimal exercise time for the American option $\left(f_{t}\right)$ if and only if.  
 $$
 E^{*}(\beta(\sigma)f_{\sigma})=\operatorname*{sup}_{\tau\in\mathcal{T}_{t}}E^{*}(\beta(\tau)f_{\tau})
 $$  
 
 # 3.6.3 American Options in the Cox-Ross-Rubinstein model  
 
-We now consider how to evaluate an American put option in a standard [[Binomial Option Pricing Model|CRR model]]. We assume that the time interval $[0,T]$ is divided into. $N$ equal subintervals of length $\Delta$ say. Assuming the [[Black Scholes Derivation|risk-free rate]] of interest $r$ (over [0,T]) as given, we have $1+\rho=e^{r\Delta}$ (where we denote the riskfree rate of interest in each subinterval by $\rho$ ). The remaining degrees of freedom are resolved by choosing $u$ and $d$ as follows:  
+We now consider how to evaluate an American put option in a standard [CRR model](../Financial%20Instruments/Binomial%20Option%20Pricing%20Model.md). We assume that the time interval $[0,T]$ is divided into. $N$ equal subintervals of length $\Delta$ say. Assuming the [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md) of interest $r$ (over [0,T]) as given, we have $1+\rho=e^{r\Delta}$ (where we denote the riskfree rate of interest in each subinterval by $\rho$ ). The remaining degrees of freedom are resolved by choosing $u$ and $d$ as follows:  
 $$
 1+u=e^{\sigma\sqrt{\Delta}},\quad\mathrm{and}\quad1+d=(1+u)^{-1}=e^{-\sigma\sqrt{\Delta}}.
 $$  
 
-By condition (3.9) the [[Financial Instruments|risk-neutral probabilities]] for the corresponding single period models are given by  
+By condition (3.9) the [risk-neutral probabilities](../Financial%20Instruments/Financial%20Instruments.md) for the corresponding single period models are given by  
 $$
 p^{*}={\frac{\rho-d}{u-d}}={\frac{e^{r\Delta}-e^{-\sigma{\sqrt{\Delta}}}}{e^{\sigma{\sqrt{\Delta}}}-e^{-\sigma{\sqrt{\Delta}}}}}.
 $$  
@@ -2970,12 +2970,12 @@ Thus the stock with initial value $S=S(0)$ is worth $S(1+u)^{i}(1+d)^{j}$ after 
 (i) typical lengths of time to expiry of options are measured in months (9 months, say); this gives a time step around the corresponding number of days,.   
 (ii) $2^{30}$ paths is about the order of magnitude that can be comfortably handled by computers (recall that $2^{10}=1,024$ , SO $2^{30}$ is somewhat over a billion).  
 
-We can now calculate both the value of an American put option and the [[American-Style Derivatives|optimal exercise strategy]] by working backwards through the tree (this method of [[Chapter 22 - BOPM: Implementation|backward recursion]] in time is a form of the dynamic programming (DP) technique, due to Richard Bellman, which is important in many areas of optimisation and Operational Research).  
+We can now calculate both the value of an American put option and the [optimal exercise strategy](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md) by working backwards through the tree (this method of [backward recursion](Derivatives/Part%20V%20-%20Options%20Pricing/Chapter%2022%20-%20BOPM:%20Implementation.md) in time is a form of the dynamic programming (DP) technique, due to Richard Bellman, which is important in many areas of optimisation and Operational Research).  
 
 1. Draw a binary tree showing the initial stock value and having the right number, $N$ , of time intervals.   
 2. Fill in the stock prices: after one time interval, these are $S(1+u)$ (upper) and $S(1+d)$ (lower); after two time intervals, $S(1+u)^{2}$ $S$ and $S(1+d)^{2}=S/(1+u)^{2}$ ; after $i$ time intervals, these are $S(1+u)^{j}(1+d)^{i-j}=S(1+u)^{2j-i}$ at the node with $j$ 'up' steps and $i-j$ 'down' steps (the $(i,j)$ node).   
-3. Using the [[Call and Put Payoffs at Expiry|strike price]] $K$ and the prices at the terminal nodes, fill in the payoffs $f_{N,j}^{A}=$ $\operatorname*{max}\{K-S(1+u)^{j}(1+d)^{N-j},0\}$ from the option at the terminal nodes underneath the terminal prices.   
-4. Work back down the tree, from right to left. The no-exercise values $f_{i j}$ of the option at the $(i,j)$ node are given in terms of those of its upper and lower right neighbours in the usual way, as discounted expected values under the [[Verifying Martingale Property with Q|risk-neutral measure]]:  
+3. Using the [strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) $K$ and the prices at the terminal nodes, fill in the payoffs $f_{N,j}^{A}=$ $\operatorname*{max}\{K-S(1+u)^{j}(1+d)^{N-j},0\}$ from the option at the terminal nodes underneath the terminal prices.   
+4. Work back down the tree, from right to left. The no-exercise values $f_{i j}$ of the option at the $(i,j)$ node are given in terms of those of its upper and lower right neighbours in the usual way, as discounted expected values under the [risk-neutral measure](Verifying%20Martingale%20Property%20with%20Q.md):  
 $$
 f_{i j}=e^{-r\Delta}[p^{*}f_{i+1,j+1}^{A}+(1-p^{*})f_{i+1,j}^{A}].
 $$  
@@ -2996,12 +2996,12 @@ $$
 
 # 3.6.4 A Three-period Example  
 
-Assume we have two basic securities: a risk-free bond and a risky stock. The one-year risk-free. interest rate (continuously compounded) is $r=0.06$ and the volatility of the stock is. $20\%$ .We price calls and puts in three-period Cox-Ross-Rubinstein model. The up and down movements of the [[Chapter 16 - Black–Scholes Model|stock price]] are given by  
+Assume we have two basic securities: a risk-free bond and a risky stock. The one-year risk-free. interest rate (continuously compounded) is $r=0.06$ and the volatility of the stock is. $20\%$ .We price calls and puts in three-period Cox-Ross-Rubinstein model. The up and down movements of the [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) are given by  
 $$
 1+u=e^{\sigma\sqrt{\Delta}}=1.1224\quad\mathrm{and}\quad1+d=(1+u)^{-1}=e^{-\sigma\sqrt{\Delta}}=0.8910,
 $$  
 
-with $\sigma=0.2$ and $\Delta=1/3$ . We obtain [[Financial Instruments|risk-neutral probabilities]] by (3.9)  
+with $\sigma=0.2$ and $\Delta=1/3$ . We obtain [risk-neutral probabilities](../Financial%20Instruments/Financial%20Instruments.md) by (3.9)  
 $$
 p^{*}=\frac{e^{r\Delta}-d}{u-d}=0.5584.
 $$  
@@ -3012,9 +3012,9 @@ We assume that the price of the stock at time. $t=0$ is $S(0)=100$ . To price a 
 Figure 3.2: Stock and European call prices  
 
 ![](ac9e26819594dbdbaef2357f5a8490ae18862966caa46a7c42dc192a0dc78bd4.jpg)  
-Figure 3.3: Approximation of [[Mathematical Modeling of Derivative Pricing|Black-Scholes]] price by [[A Real-Life Option Pricing Exercise|Binomial]] models  
+Figure 3.3: Approximation of [Black-Scholes](Mathematical%20Modeling%20of%20Derivative%20Pricing.md) price by [Binomial](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) models  
 
-To price a European put, with price process denoted by. $p(t)$ , and an American put, $P(t)$ (maturity $N=3$ , strike 100), we can for the European put either use the [[7. Black Scholes Model|put-call parity]] (1.1), the. [[Financial Mathematics Course|risk-neutral pricing]] formula, or work backwards through the tree. For the prices of the American put we use the technique outlined in \$4.8.1. Prices of the two puts are given in Figure 4.4. We. indicate the early exercise times of the American put in bold type. Recall that the discrete-time. rule is to exercise if the intrinsic value $K-S(t)$ is larger than the value of the corresponding European put.  
+To price a European put, with price process denoted by. $p(t)$ , and an American put, $P(t)$ (maturity $N=3$ , strike 100), we can for the European put either use the [put-call parity](7.%20Black%20Scholes%20Model.md) (1.1), the. [risk-neutral pricing](.md) formula, or work backwards through the tree. For the prices of the American put we use the technique outlined in \$4.8.1. Prices of the two puts are given in Figure 4.4. We. indicate the early exercise times of the American put in bold type. Recall that the discrete-time. rule is to exercise if the intrinsic value $K-S(t)$ is larger than the value of the corresponding European put.  
 
 ![](681bb4bf788c39818d65fa4d9745bc094532c0049e1a45b060796fbdbbe16275.jpg)  
 Figure 3.4: European $p(.)$ and American $P(.)$ put prices  
@@ -3027,11 +3027,11 @@ Figure 3.4: European $p(.)$ and American $P(.)$ put prices
 
 # 4.1.1 Continuous-time Stochastic Processes  
 
-A [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] $X=(X(t))_{t\geq0}$ is a family of random variables defined on $(\Omega,{\mathcal{F}},I P,I F)$ . We say $X$ is adapted if. $X(t)\in\mathcal{F}_{t}$ (i.e. $X(t)$ is $\mathcal{F}_{t}$ -measurable) for each $t$ : thus $X(t)$ is known when. $\mathbf{\mathcal{F}}_{t}$ is known, at time. $t$  
+A [stochastic process](../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) $X=(X(t))_{t\geq0}$ is a family of random variables defined on $(\Omega,{\mathcal{F}},I P,I F)$ . We say $X$ is adapted if. $X(t)\in\mathcal{F}_{t}$ (i.e. $X(t)$ is $\mathcal{F}_{t}$ -measurable) for each $t$ : thus $X(t)$ is known when. $\mathbf{\mathcal{F}}_{t}$ is known, at time. $t$  
 
-The [[Continuous-Time Stochastic Processes|martingale property]] in continuous time is just that suggested by the discrete-time case:  
+The [martingale property](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) in continuous time is just that suggested by the discrete-time case:  
 
-Definition 4.1.1. A [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] $X=(X(t))_{0\leq t<\infty}$ is a martingale relative to. $(\mathbf{}F,\mathbf{}P)$ if (i) $X$ is adapted, and $\textstyle\operatorname{\mathbb{E}}|X(t)|<\infty$ for a $l l\leq t<\infty$ (ii) $L[X(t)|\mathcal{F}_{s}]=X(s)D-a.s.(0\leq s\leq t),$  
+Definition 4.1.1. A [stochastic process](../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) $X=(X(t))_{0\leq t<\infty}$ is a martingale relative to. $(\mathbf{}F,\mathbf{}P)$ if (i) $X$ is adapted, and $\textstyle\operatorname{\mathbb{E}}|X(t)|<\infty$ for a $l l\leq t<\infty$ (ii) $L[X(t)|\mathcal{F}_{s}]=X(s)D-a.s.(0\leq s\leq t),$  
 
 and similarly for sub- and supermartingales.  
 
@@ -3039,17 +3039,17 @@ There are regularisation results, under which one can take. $X(t)$ RCLL in $t$ (
 
 Interpretation. Martingales model fair games. Submartingales model favourable games. Supermartingales model unfavourable games.  
 
-[[Continuous-Time Stochastic Processes|Brownian motion]] originates in work of the botanist Robert Brown in 1828. It was introduced into finance by Louis Bachelier in 1900, and developed in physics by Albert Einstein in 1905.  
+[Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) originates in work of the botanist Robert Brown in 1828. It was introduced into finance by Louis Bachelier in 1900, and developed in physics by Albert Einstein in 1905.  
 
-Definition 4.1.2. A [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] $X=(X(t))_{t\geq0}$ is a standard (one-dimensional) [[Continuous-Time Stochastic Processes|Brownian motion]], $B M$ or $B M(R)$ , on some [[Uncertainty Information and Stochastic Processes|probability space]]. $(\Omega,{\mathcal{F}},I P)$ , if  
+Definition 4.1.2. A [stochastic process](../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) $X=(X(t))_{t\geq0}$ is a standard (one-dimensional) [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md), $B M$ or $B M(R)$ , on some [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md). $(\Omega,{\mathcal{F}},I P)$ , if  
 
 (i) $X(0)=0$ a.8.,   
-(ii) $X$ has [[Continuous-Time Stochastic Processes|independent increments]]: $X(t+u)-X(t)$ is independent of $\sigma(X(s):s\leq t)$ for $u\geq0$   
+(ii) $X$ has [independent increments](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md): $X(t+u)-X(t)$ is independent of $\sigma(X(s):s\leq t)$ for $u\geq0$   
 (iii) $X$ has stationary increments: the law of. $X(t+u)-X(t)$ depends only on u,.   
 (iv) $X$ has Gaussian increments: $X(t+u)-X(t)$ is normally distributed with mean 0 and variance $u$ $X(t+u)-X(t)\sim N(0,u)$   
 (v) $X$ has continuous paths: $X(t)$ is a continuous function of. $t$ , i.e. $t\to X(t,\omega)$ is continuous in $t$ for all $\omega\in\Omega$  
 
-We shall henceforth denote standard [[Continuous-Time Stochastic Processes|Brownian motion]] $B M(R)$ by $W~=~(W(t))$ $W$ for Wiener), though. $B=(B(t))$ $B$ for Brown) is also common. Standard [[Continuous-Time Stochastic Processes|Brownian motion]] $B M(R^{d})$ in $d$ dimensions is defined by. $W(t):=(W_{1}(t),\ldots,W_{d}(t))$ , where $W_{1},\dots,W_{d}$ are independent standard Brownian motions in one dimension (independent copies of $B M(R)$  
+We shall henceforth denote standard [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) $B M(R)$ by $W~=~(W(t))$ $W$ for Wiener), though. $B=(B(t))$ $B$ for Brown) is also common. Standard [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) $B M(R^{d})$ in $d$ dimensions is defined by. $W(t):=(W_{1}(t),\ldots,W_{d}(t))$ , where $W_{1},\dots,W_{d}$ are independent standard Brownian motions in one dimension (independent copies of $B M(R)$  
 
 We have Wiener's theorem:  
 
@@ -3059,16 +3059,16 @@ For further background, see any measure-theoretic text on stochastic processes. 
 
 # Geometric Brownian Motion  
 
-Now that we have both [[Continuous-Time Stochastic Processes|Brownian motion]]. $W$ and [[Determining the Stochastic Process for a Forward Contract from Ito’s Lemma|Ito's Lemma]] to hand, we can introduce the most. important [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] for us, a relative of [[Continuous-Time Stochastic Processes|Brownian motion]] - geometric (or exponential, or economic) [[Continuous-Time Stochastic Processes|Brownian motion]].  
+Now that we have both [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md). $W$ and [Ito's Lemma](Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md) to hand, we can introduce the most. important [stochastic process](../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) for us, a relative of [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) - geometric (or exponential, or economic) [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md).  
 
-Suppose we wish to model the time evolution of a [[Chapter 16 - Black–Scholes Model|stock price]] $S(t)$ (as we will, in the BlackScholes theory). Consider how $S$ will change in some small time-interval from the present time. $t$ to a time $t+d t$ in the near future. Writing $d S(t)$ for the change $S(t+d t)-S(t)$ in $S$ , the return on $S$ in this interval is $d S(t)/S(t)$ . It is economically reasonable to expect this return to decompose. into two components, a systematic part and a random part. The systematic part could plausibly be modelled by $\mu d t$ , where $\mu$ is some parameter representing the mean rate of return of the stock. The random part could plausibly be modelled by $\sigma d W(t)$ , where $d W(t)$ represents the noise term driving the [[Verifying Martingale Property with Q|stock price dynamics]], and $\sigma$ is a second parameter describing how much effect this. noise has - how much the [[Chapter 16 - Black–Scholes Model|stock price]] fluctuates. Thus. $\sigma$ governs how volatile the price is, and is called the volatility of the stock. The role of the driving noise term is to represent the random. buffeting effect of the multiplicity of factors at work in the economic environment in which the [[Chapter 16 - Black–Scholes Model|stock price]] is determined by supply and demand.  
+Suppose we wish to model the time evolution of a [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) $S(t)$ (as we will, in the BlackScholes theory). Consider how $S$ will change in some small time-interval from the present time. $t$ to a time $t+d t$ in the near future. Writing $d S(t)$ for the change $S(t+d t)-S(t)$ in $S$ , the return on $S$ in this interval is $d S(t)/S(t)$ . It is economically reasonable to expect this return to decompose. into two components, a systematic part and a random part. The systematic part could plausibly be modelled by $\mu d t$ , where $\mu$ is some parameter representing the mean rate of return of the stock. The random part could plausibly be modelled by $\sigma d W(t)$ , where $d W(t)$ represents the noise term driving the [stock price dynamics](Verifying%20Martingale%20Property%20with%20Q.md), and $\sigma$ is a second parameter describing how much effect this. noise has - how much the [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) fluctuates. Thus. $\sigma$ governs how volatile the price is, and is called the volatility of the stock. The role of the driving noise term is to represent the random. buffeting effect of the multiplicity of factors at work in the economic environment in which the [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) is determined by supply and demand.  
 
-Putting this together, we have the [[Implementing Heath, Jarrow & Merton (HJM) Model|stochastic differential equation]]  
+Putting this together, we have the [stochastic differential equation](Fixed%20Income%20Derivatives/Implementing%20Heath,%20Jarrow%20&%20Merton%20(HJM)%20Model.md)  
 $$
 d S(t)=S(t)(\mu d t+\sigma d W(t)),\quad S(0)>0,
 $$  
 
-due to Ito in 1944. This corrects Bachelier's earlier attempt of 1900 (he did not have the factor $S(t)$ on the right - missing the interpretation in terms of [[Assets|returns]], and leading to negative stock prices!) Incidentally, Bachelier's work served as Ito's motivation in introducing Ito calculus. The mathematical importance of Ito's work was recognised early, and led on to the work of (Doob 1953), (Meyer 1976) and many others (see the memorial volume (Ikeda, Watanabe, M., and Kunita 1996) in honour of Ito's eightieth birthday in 1995). The economic importance of geometric Brownian. motion was recognised by Paul A. Samuelson in his work from 1965 on ((Samuelson 1965)), for. which Samuelson received the Nobel Prize in Economics in 1970, and by Robert [[Credit Markets Session 5|Merton]] (see ([[Credit Markets Session 5|Merton]] 1990) for a full bibliography), in work for which he was similarly honoured in 1997..  
+due to Ito in 1944. This corrects Bachelier's earlier attempt of 1900 (he did not have the factor $S(t)$ on the right - missing the interpretation in terms of [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md), and leading to negative stock prices!) Incidentally, Bachelier's work served as Ito's motivation in introducing Ito calculus. The mathematical importance of Ito's work was recognised early, and led on to the work of (Doob 1953), (Meyer 1976) and many others (see the memorial volume (Ikeda, Watanabe, M., and Kunita 1996) in honour of Ito's eightieth birthday in 1995). The economic importance of geometric Brownian. motion was recognised by Paul A. Samuelson in his work from 1965 on ((Samuelson 1965)), for. which Samuelson received the Nobel Prize in Economics in 1970, and by Robert [Merton](../Credit%20Markets/Credit%20Markets%20Session%205.md) (see ([Merton](../Credit%20Markets/Credit%20Markets%20Session%205.md) 1990) for a full bibliography), in work for which he was similarly honoured in 1997..  
 
 # 4.1.2 Stochastic Analysis  
 
@@ -3077,9 +3077,9 @@ $$
 \intop_{0}^{t}X d Y=\intop_{0}^{t}X(s,\omega)d Y(s,\omega),
 $$  
 
-for suitable stochastic processes $X$ and $Y$ , the integrand and the integrator. We shall confine our attention here mainly to the basic case with integrator [[Continuous-Time Stochastic Processes|Brownian motion]]: $Y=W$ . Much greater generality is possible: for $Y$ a continuous martingale, see (Karatzas and Shreve 1991) or (Revuz and Yor 1991); for a systematic general treatment, see (Protter 2004).  
+for suitable stochastic processes $X$ and $Y$ , the integrand and the integrator. We shall confine our attention here mainly to the basic case with integrator [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md): $Y=W$ . Much greater generality is possible: for $Y$ a continuous martingale, see (Karatzas and Shreve 1991) or (Revuz and Yor 1991); for a systematic general treatment, see (Protter 2004).  
 
-The first thing to note is that stochastic integrals with respect to [[Continuous-Time Stochastic Processes|Brownian motion]], if they exist, must be quite different from the measure-theoretic integral. For, the Lebesgue-Stieltjes integrals described there have as integrators the difference of two monotone (increasing) functions, which are locally of bounded variation. But we know that [[Continuous-Time Stochastic Processes|Brownian motion]] is of infinite (unbounded) variation on every interval. So Lebesgue-Stieltjes and Ito integrals must be fundamentally different.  
+The first thing to note is that stochastic integrals with respect to [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md), if they exist, must be quite different from the measure-theoretic integral. For, the Lebesgue-Stieltjes integrals described there have as integrators the difference of two monotone (increasing) functions, which are locally of bounded variation. But we know that [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) is of infinite (unbounded) variation on every interval. So Lebesgue-Stieltjes and Ito integrals must be fundamentally different.  
 
 In view of the above, it is quite surprising that Ito integrals can be defined at all. But if we take for granted Ito's fundamental insight that they can be, it is obvious how to begin and clear enough how to proceed. We begin with the simplest possible integrands $X$ , and extend successively in much the same way that we extended the measure-theoretic integral.  
 
@@ -3100,7 +3100,7 @@ $$
 Already one wonders how to extend this from constants. $c_{i}$ to suitable random variables, and one.   
 seeks to simplify the obvious but clumsy three-line expressions above.  
 
-We begin again, this time calling a [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] $X$ simple if there is a partition $0=t_{0}<$ $t_{1}<...<t_{n}=T<\infty$ and uniformly bounded $\mathcal{F}_{t_{n}}$ -measurable random variables $\xi_{k}$ $|\xi_{k}|\le C$ for all $k=0,\ldots,n$ and $\omega$ , for some $C$ ) and if $X(t,\omega)$ can be written in the form  
+We begin again, this time calling a [stochastic process](../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) $X$ simple if there is a partition $0=t_{0}<$ $t_{1}<...<t_{n}=T<\infty$ and uniformly bounded $\mathcal{F}_{t_{n}}$ -measurable random variables $\xi_{k}$ $|\xi_{k}|\le C$ for all $k=0,\ldots,n$ and $\omega$ , for some $C$ ) and if $X(t,\omega)$ can be written in the form  
 $$
 X(t,\omega)=\xi_{0}(\omega)\mathbf{1}_{\{0\}}(t)+\sum_{i=0}^{n}\xi_{i}(\omega)\mathbf{1}_{(t_{i},t_{i+1}]}(t)(0\leq t\leq T,\omega\in\Omega).
 $$  
@@ -3121,7 +3121,7 @@ $$
 \begin{array}{r l}&{I E\left[(M(v)-M(u))(M(t)-M(s))\right]}\ {=}&{I E\left[T(M(v)-M(u))(M(t)-M(s))|\mathcal{F}_{u}\right)\right]}\ {=}&{I E\left[(M(t)-M(s))E((M(v)-M(u))|\mathcal{F}_{u})\right],}\end{array}
 $$  
 
-taking out what is known (as. $s,t\leq u$ ). The inner expectation is zero by the [[Continuous-Time Stochastic Processes|martingale property]], so the left-hand side is zero, as required..  
+taking out what is known (as. $s,t\leq u$ ). The inner expectation is zero by the [martingale property](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md), so the left-hand side is zero, as required..  
 
 We now can add further properties of the stochastic integral for simple functions.  
 
@@ -3190,7 +3190,7 @@ $$
 X(t):=x_{0}+\intop_{0}^{t}b(s)d s+\intop_{0}^{t}\sigma(s)d W(s)
 $$  
 
-defines a [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] $X$ with $X(0)=x_{0}$ . It is customary, and convenient, to express such an equation symbolically in differential form, in terms of the [[Implementing Heath, Jarrow & Merton (HJM) Model|stochastic differential equation]]  
+defines a [stochastic process](../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) $X$ with $X(0)=x_{0}$ . It is customary, and convenient, to express such an equation symbolically in differential form, in terms of the [stochastic differential equation](Fixed%20Income%20Derivatives/Implementing%20Heath,%20Jarrow%20&%20Merton%20(HJM)%20Model.md)  
 $$
 \begin{array}{r}{d X(t)=b(t)d t+\sigma(t)d W(t),~X(0)=x_{0}.}\end{array}
 $$  
@@ -3222,7 +3222,7 @@ $$
 f(X(t))=f(x_{0})+\intop_{0}^{t}f^{\prime}(X(u))d X(u)+\frac{1}{2}\intop_{0}^{t}f^{\prime\prime}(X(u))d\left<X\right>(u).
 $$  
 
-More generally, suppose that $f:I R^{2}\to I R$ is a function, continuously differentiable once in. its first argument (which will denote time), and twice in its second argument (space): $f\in C^{1,2}$ By the Taylor expansion of a smooth function of several variables we get for $t$ close to $t_{0}$ (we use subscripts to denote partial [[Chapter 9 Arbitrage and Hedging With Options|derivatives]]: $f_{t}:=\partial f/\partial t$ $f_{t x}:=\partial^{2}f/\partial t\partial x$  
+More generally, suppose that $f:I R^{2}\to I R$ is a function, continuously differentiable once in. its first argument (which will denote time), and twice in its second argument (space): $f\in C^{1,2}$ By the Taylor expansion of a smooth function of several variables we get for $t$ close to $t_{0}$ (we use subscripts to denote partial [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md): $f_{t}:=\partial f/\partial t$ $f_{t x}:=\partial^{2}f/\partial t\partial x$  
 $$
 \begin{array}{r c l}{{f(t,X(t))}}&{{=}}&{{f(t_{0},X(t_{0}))}}\ {{}}&{{}}&{{\displaystyle+(t-t_{0})f_{t}(t_{0},X(t_{0}))+(X(t)-X(t_{0}))f_{x}(t_{0},X(t_{0}))}}\ {{}}&{{}}&{{\displaystyle+\frac{1}{2}(t-t_{0})^{2}f_{t t}(t_{0},X(t_{0}))+\frac{1}{2}(X(t)-X(t_{0}))^{2}f_{x x}(t_{0},X(t_{0}))}}\ {{}}&{{}}&{{\displaystyle+(t-t_{0})(X(t)-X(t_{0}))f_{t x}(t_{0},X(t_{0}))+\ldots,}}\end{array}
 $$  
@@ -3247,9 +3247,9 @@ $$
 d f=\left(f_{t}+b f_{x}+{\frac{1}{2}}\sigma^{2}f_{x x}\right)d t+\sigma f_{x}d W+{\mathrm{higher-order~terms}}.
 $$  
 
-As above the higher-order terms are irrelevant, and summarising, we obtain [[Determining the Stochastic Process for a Forward Contract from Ito’s Lemma|Ito's lemma]], the analogue for the Ito or [[6. A Brief Introduction to Stochastic Calculus|stochastic calculus]] of the chain rule for ordinary (Newton-Leibniz) calculus:  
+As above the higher-order terms are irrelevant, and summarising, we obtain [Ito's lemma](Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md), the analogue for the Ito or [stochastic calculus](6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md) of the chain rule for ordinary (Newton-Leibniz) calculus:  
 
-Theorem 4.1.3 ([[Determining the Stochastic Process for a Forward Contract from Ito’s Lemma|Ito's Lemma]]). If $X(t)$ has stochastic differential given by 4.3, then $f\mathrm{~=~}$ $f(t,X(t))$ has stochastic differential  
+Theorem 4.1.3 ([Ito's Lemma](Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md)). If $X(t)$ has stochastic differential given by 4.3, then $f\mathrm{~=~}$ $f(t,X(t))$ has stochastic differential  
 $$
 d f=\left(f_{t}+b f_{x}+{\frac{1}{2}}\sigma^{2}f_{x x}\right)d t+\sigma f_{x}d W.
 $$  
@@ -3285,16 +3285,16 @@ $$
 d x=d W(t),\quad(d x)^{2}=d t.
 $$  
 
-Thus [[Determining the Stochastic Process for a Forward Contract from Ito’s Lemma|Ito's lemma]] gives  
+Thus [Ito's lemma](Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md) gives  
 $$
 \begin{array}{l c l}{\displaystyle d f(t,W(t))}&{=}&{f_{t}d t+f_{x}d W(t)+\displaystyle\frac{1}{2}f_{x x}(d W(t))^{2}}\ {\displaystyle}&{=}&{f\left(\left(\mu-\displaystyle\frac{1}{2}\sigma^{2}\right)d t+\sigma d W(t)+\displaystyle\frac{1}{2}\sigma^{2}d t\right)}\ {\displaystyle}&{=}&{f(\mu d t+\sigma d W(t)),}\end{array}
 $$  
 
-SO $f(t,W(t))$ is a solution of the [[Implementing Heath, Jarrow & Merton (HJM) Model|stochastic differential equation]], and the initial condition $f(0,W(0))=$ $S(0)$ as $W(0)=0$ , giving existence.  
+SO $f(t,W(t))$ is a solution of the [stochastic differential equation](Fixed%20Income%20Derivatives/Implementing%20Heath,%20Jarrow%20&%20Merton%20(HJM)%20Model.md), and the initial condition $f(0,W(0))=$ $S(0)$ as $W(0)=0$ , giving existence.  
 
 # 4.1.4 Girsanov's Theorem  
 
-Consider first independent $N(0,1)$ random variables $Z_{1},\ldots,Z_{n}$ on a [[Uncertainty Information and Stochastic Processes|probability space]] $(\Omega,{\mathcal{F}},I P)$ Given a vector $\gamma=(\gamma_{1},\dots,\gamma_{n})$ , consider a new probability measure $\tilde{\cal{I}}{}^{\dot{}{P}}$ on $(\Omega,{\mathcal{F}})$ defined by  
+Consider first independent $N(0,1)$ random variables $Z_{1},\ldots,Z_{n}$ on a [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md) $(\Omega,{\mathcal{F}},I P)$ Given a vector $\gamma=(\gamma_{1},\dots,\gamma_{n})$ , consider a new probability measure $\tilde{\cal{I}}{}^{\dot{}{P}}$ on $(\Omega,{\mathcal{F}})$ defined by  
 $$
 \tilde{I P}(d\omega)=\exp\left\{\sum_{i=1}^{n}\gamma_{i}Z_{i}(\omega)-\frac{1}{2}\sum_{i=1}^{n}\gamma_{i}^{2}\right\}I P(d\omega).
 $$  
@@ -3304,9 +3304,9 @@ $$
 \begin{array}{l l}{{}}&{{\displaystyle{\tilde{P}(Z_{i}\in d z_{i},\alpha_{i}=1,\ldots,n)}}}\ {{=}}&{{\displaystyle{\exp\left\{\sum_{i=1}^{n}\gamma_{i}Z_{i}-\frac{1}{2}\sum_{i=1}^{n}\gamma_{i}^{2}\right\}}P(Z_{i}\in d z_{i},i=1,\ldots,n)}}\ {{=}}&{{\displaystyle(2\pi)^{-\frac{n}{2}}\exp\left\{\sum_{i=1}^{n}\gamma_{i}z_{i}-\frac{1}{2}\sum_{i=1}^{n}\gamma_{i}^{2}-\frac{1}{2}\sum_{i=1}^{n}z_{i}^{2}\right\}\prod_{i=1}^{n}d z_{i}}}\ {{=}}&{{\displaystyle(2\pi)^{-\frac{n}{2}}\exp\left\{-\frac{1}{2}\sum_{i=1}^{n}(z_{i}-\gamma_{i})^{2}\right\}d z_{1}\ldots d z_{n}.}}\end{array}
 $$  
 
-This says that if the $Z_{i}$ are independent $N(0,1)$ under $\mathcal{W}$ , they are independent $N(\gamma_{i},1)$ under $\tilde{\cal{I}}{}_{P}^{}$ Thus the effect of the [[Change of Probability Measure|change of measure]] $\tilde{\mathcal{P}}\to\tilde{\mathcal{P}}$ , from the original measure $\mathcal{W}$ to the equivalent measure $\tilde{\cal{I}}{}_{P}^{}$ , is to change the mean, from $0=(0,\ldots,0)$ to $\gamma=(\gamma_{1},\dots,\gamma_{n})$  
+This says that if the $Z_{i}$ are independent $N(0,1)$ under $\mathcal{W}$ , they are independent $N(\gamma_{i},1)$ under $\tilde{\cal{I}}{}_{P}^{}$ Thus the effect of the [change of measure](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2011%20-%20Risk-adjusted%20probabilities/Change%20of%20Probability%20Measure.md) $\tilde{\mathcal{P}}\to\tilde{\mathcal{P}}$ , from the original measure $\mathcal{W}$ to the equivalent measure $\tilde{\cal{I}}{}_{P}^{}$ , is to change the mean, from $0=(0,\ldots,0)$ to $\gamma=(\gamma_{1},\dots,\gamma_{n})$  
 
-This result extends to infinitely many dimensions - i.e., from random vectors to stochastic processes, indeed with random rather than deterministic means. Let $W~=~(W_{1},\dots,W_{d})$ be a $d$ -dimensional [[Continuous-Time Stochastic Processes|Brownian motion]] defined on a [[Some Discrete-Time Stochastic Processes|filtered probability space]] $(\Omega,{\mathcal{F}},I P,I F)$ with the filtration $\bar{\mu}$ satisfying the usual conditions.Let $(\gamma(t):0\leq t\leq T)$ be a measurable, adapted $d$ dimensional process with $\begin{array}{r}{\int_{0}^{T^{\prime}}\gamma_{i}(t)^{2}d t<\infty\quad a.s.,i=1,\ldots,d}\end{array}$ , and define the process ( $L(t):0\leq t\leq T,$ by  
+This result extends to infinitely many dimensions - i.e., from random vectors to stochastic processes, indeed with random rather than deterministic means. Let $W~=~(W_{1},\dots,W_{d})$ be a $d$ -dimensional [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) defined on a [filtered probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Some%20Discrete-Time%20Stochastic%20Processes.md) $(\Omega,{\mathcal{F}},I P,I F)$ with the filtration $\bar{\mu}$ satisfying the usual conditions.Let $(\gamma(t):0\leq t\leq T)$ be a measurable, adapted $d$ dimensional process with $\begin{array}{r}{\int_{0}^{T^{\prime}}\gamma_{i}(t)^{2}d t<\infty\quad a.s.,i=1,\ldots,d}\end{array}$ , and define the process ( $L(t):0\leq t\leq T,$ by  
 $$
 L(t)=\exp\left\{-\intop_{0}^{t}\gamma(s)^{\prime}d W(s)-\frac{1}{2}\intop_{0}^{t}\left\|\gamma(s)\right\|^{2}d s\right\}.
 $$  
@@ -3328,9 +3328,9 @@ $$
 {\frac{d{\tilde{D}}}{d D}}=L(T),
 $$  
 
-the process $\tilde{W}=(\tilde{W}_{1},\dots,\tilde{W}_{d})$ is $d$ -dimensional [[Continuous-Time Stochastic Processes|Brownian motion]].  
+the process $\tilde{W}=(\tilde{W}_{1},\dots,\tilde{W}_{d})$ is $d$ -dimensional [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md).  
 
-In particular, for. $\gamma(t)$ constant $(=\gamma$ ), [[Change of Probability Measure|change of measure]] by introducing the [[A Preview of Alternative Formulations|Radon-Nikodym derivative]] $\textstyle\exp\left\{-\gamma W(t)-{\frac{1}{2}}\gamma^{2}t\right\}$ corresponds to a change of drift from. $c$ to $c-\gamma$ . If $\mathbf{\mathcal{F}}=\left(\mathcal{F}_{t}\right)$ is the Brownian filtration (basically. $\mathcal{F}_{t}=\sigma(W(s),0\leq s\leq t)$ slightly enlarged to satisfy the usual. conditions) any pair of [[Change of Probability Measure|equivalent probability measures]] $\mathbb{Q}\sim\mathcal{N}$ on $\mathcal{F}=\mathcal{F}_{T}$ is a Girsanov pair, i.e..  
+In particular, for. $\gamma(t)$ constant $(=\gamma$ ), [change of measure](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2011%20-%20Risk-adjusted%20probabilities/Change%20of%20Probability%20Measure.md) by introducing the [Radon-Nikodym derivative](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) $\textstyle\exp\left\{-\gamma W(t)-{\frac{1}{2}}\gamma^{2}t\right\}$ corresponds to a change of drift from. $c$ to $c-\gamma$ . If $\mathbf{\mathcal{F}}=\left(\mathcal{F}_{t}\right)$ is the Brownian filtration (basically. $\mathcal{F}_{t}=\sigma(W(s),0\leq s\leq t)$ slightly enlarged to satisfy the usual. conditions) any pair of [equivalent probability measures](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2011%20-%20Risk-adjusted%20probabilities/Change%20of%20Probability%20Measure.md) $\mathbb{Q}\sim\mathcal{N}$ on $\mathcal{F}=\mathcal{F}_{T}$ is a Girsanov pair, i.e..  
 $$
 \left.\frac{d\tilde{\pmb{Q}}}{d D}\right|_{\mathcal{F}_{t}}=\pmb{L}(t)
 $$  
@@ -3341,7 +3341,7 @@ with $L$ defined as above. Girsanov's theorem (or the Cameron-Martin-Girsanov th
 
 # 4.2.1 The Financial Market Model  
 
-We start with a general model of a frictionless (compare Chapter 1) security market where investors are allowed to trade continuously up to some fixed finite planning horizon $T$ . Uncertainty in the financial market is modelled by a [[Uncertainty Information and Stochastic Processes|probability space]] $(\Omega,{\mathcal{F}},I P)$ and a filtration $\mathbf{\mathcal{F}}=(\mathcal{F}_{t})_{0\leq t\leq T}$ satisfying the usual conditions of right-continuity and completeness. We assume that the $\sigma$ -field $\mathcal{F}_{0}$ is trivial, i.e. for every $A\in{\mathcal{F}}_{0}$ either $\textstyle P(A)=0$ or ${\cal{P}}(A)=1$ , and that $\mathcal{F}_{T}=\mathcal{F}$  
+We start with a general model of a frictionless (compare Chapter 1) security market where investors are allowed to trade continuously up to some fixed finite planning horizon $T$ . Uncertainty in the financial market is modelled by a [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md) $(\Omega,{\mathcal{F}},I P)$ and a filtration $\mathbf{\mathcal{F}}=(\mathcal{F}_{t})_{0\leq t\leq T}$ satisfying the usual conditions of right-continuity and completeness. We assume that the $\sigma$ -field $\mathcal{F}_{0}$ is trivial, i.e. for every $A\in{\mathcal{F}}_{0}$ either $\textstyle P(A)=0$ or ${\cal{P}}(A)=1$ , and that $\mathcal{F}_{T}=\mathcal{F}$  
 
 There are $d+1$ primary traded assets, whose price processes are given by stochastic processes $S_{0},\ldots,S_{d}$ .We assume that the processes $S_{0},\ldots,S_{d}$ represent the prices of some traded assets (stocks, bonds, or options).  
 
@@ -3349,18 +3349,18 @@ We have not emphasised so far that there was an implicit numeraire behind the pr
 
 Definition 4.2.1. A numeraire is a price process $X(t)$ almost surely strictly positive for each $t\in[0,T]$  
 
-We assume now that. $S_{0}(t)$ is a [[Options|non-dividend paying asset]], which is (almost surely) strictly. positive and use $S_{0}$ as numeraire. Historically' (see (Harrison and Pliska 1981) the money market account $B(t)$ , given by $B(t)=e^{r(t)}$ with a positive deterministic process $r(t)$ and $r(0)=0$ was used as a numeraire, and the reader may think of. $S_{0}(t)$ as being $B(t)$  
+We assume now that. $S_{0}(t)$ is a [non-dividend paying asset](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Options.md), which is (almost surely) strictly. positive and use $S_{0}$ as numeraire. Historically' (see (Harrison and Pliska 1981) the money market account $B(t)$ , given by $B(t)=e^{r(t)}$ with a positive deterministic process $r(t)$ and $r(0)=0$ was used as a numeraire, and the reader may think of. $S_{0}(t)$ as being $B(t)$  
 
-Our principal task will be the [[Arbitrage Pricing of Derivatives|pricing]] and [[Key Rates O1s Durations and Hedging|hedging]] of contingent claims, which we model as ${\mathcal{F}}_{T}$ -measurable random variables. This implies that the contingent claims specify a stochastic cash-flow at time $T$ and that they may depend on the whole path of the underlying in. $[0,T]$ - because ${\mathcal{F}}_{T}$ contains all that information. We will often have to impose further integrability conditions on the contingent claims under consideration. The fundamental concept in ([[Arbitrage Pricing of Derivatives|arbitrage]]) [[Arbitrage Pricing of Derivatives|pricing]] and [[Key Rates O1s Durations and Hedging|hedging]] contingent claims is the interplay of self-financing replicating portfolios and [[Financial Instruments|risk-neutral probabilities]]. Although the current setting is on a much higher level of sophistication, the key ideas remain the same.  
+Our principal task will be the [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of contingent claims, which we model as ${\mathcal{F}}_{T}$ -measurable random variables. This implies that the contingent claims specify a stochastic cash-flow at time $T$ and that they may depend on the whole path of the underlying in. $[0,T]$ - because ${\mathcal{F}}_{T}$ contains all that information. We will often have to impose further integrability conditions on the contingent claims under consideration. The fundamental concept in ([arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)) [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) contingent claims is the interplay of self-financing replicating portfolios and [risk-neutral probabilities](../Financial%20Instruments/Financial%20Instruments.md). Although the current setting is on a much higher level of sophistication, the key ideas remain the same.  
 
 We call an $\textstyle\mathit{\Pi}\mathit{{H}}^{d+1}$ -valued predictable process  
 $$
 \varphi(t)=(\varphi_{0}(t),\ldots,\varphi_{d}(t)),\quad t\in[0,T]
 $$  
 
-with $\begin{array}{r}{\int_{0}^{T}L E(\varphi_{0}(t))d t<\infty,\sum_{i=0}^{d}\int_{0}^{T}L E(\varphi_{i}^{2}(t))d t<\infty}\end{array}$ a trading strategy (or dynamic [[An Asset Allocation Primer|portfolio]] process). Here. $\varphi_{i}(t)$ denotes the number of shares of asset. $i$ held in the [[An Asset Allocation Primer|portfolio]] at time. $t$ - to be determined on the basis of information available before time $t$ ; i.e. the investor selects his time $t$ [[An Asset Allocation Primer|portfolio]] after observing the prices. $S(t-)$ . The components $\varphi_{i}(t)$ may assume negative as well. as positive values, reflecting the fact that we allow short sales and assume that the assets are perfectly divisible..  
+with $\begin{array}{r}{\int_{0}^{T}L E(\varphi_{0}(t))d t<\infty,\sum_{i=0}^{d}\int_{0}^{T}L E(\varphi_{i}^{2}(t))d t<\infty}\end{array}$ a trading strategy (or dynamic [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) process). Here. $\varphi_{i}(t)$ denotes the number of shares of asset. $i$ held in the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) at time. $t$ - to be determined on the basis of information available before time $t$ ; i.e. the investor selects his time $t$ [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) after observing the prices. $S(t-)$ . The components $\varphi_{i}(t)$ may assume negative as well. as positive values, reflecting the fact that we allow short sales and assume that the assets are perfectly divisible..  
 
-Definition 4.2.2. (i) The value of the [[An Asset Allocation Primer|portfolio]] $\varphi$ at time $t$ is given by the scalar product  
+Definition 4.2.2. (i) The value of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $\varphi$ at time $t$ is given by the scalar product  
 $$
 V_{\varphi}(t):=\varphi(t)\cdot S(t)=\sum_{i=0}^{d}\varphi_{i}(t)S_{i}(t),t\in[0,T].
 $$  
@@ -3375,7 +3375,7 @@ $$
 V_{\varphi}(t)=V_{\varphi}(0)+G_{\varphi}(t)\mathrm{\it~for~}a l l t\in[0,T].
 $$  
 
-Remark 4.2.1. (i) The financial implications of the above equations are that all changes in the wealth of the [[An Asset Allocation Primer|portfolio]] are due to capital gains, as opposed to withdrawals of cash or injections of new funds.  
+Remark 4.2.1. (i) The financial implications of the above equations are that all changes in the wealth of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) are due to capital gains, as opposed to withdrawals of cash or injections of new funds.  
 
 (ii) The definition of a trading strategy includes regularity assumptions in order to ensure the existence of stochastic integrals.  
 
@@ -3414,26 +3414,26 @@ $$
 
 # 4.2.2 Equivalent Martingale Measures  
 
-We develop a relative [[Arbitrage Pricing of Derivatives|pricing]] theory for contingent claims. Again the underlying concept is the link between the no-[[Arbitrage Pricing of Derivatives|arbitrage]] condition and certain probability measures. We begin with:  
+We develop a relative [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) theory for contingent claims. Again the underlying concept is the link between the no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) condition and certain probability measures. We begin with:  
 
-Definition 4.2.3. A [[Arbitrage|self-financing trading strategy]] $\varphi$ is called an [[Arbitrage Pricing of Derivatives|arbitrage]] opportunity if the wealth process $V_{\varphi}$ satisfies the following set of conditions:  
+Definition 4.2.3. A [self-financing trading strategy](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Arbitrage.md) $\varphi$ is called an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity if the wealth process $V_{\varphi}$ satisfies the following set of conditions:  
 $$
 0,\quad D(V_{\varphi}(T)\geq0)=1,\quad a n d\quad D(V_{\varphi}(T)>0)>
 $$  
 
-[[Class Note 13 The LTCM Meltdown|Arbitrage opportunities]] represent the limitless creation of wealth through [[Arbitrage|risk-free profit]] and thus should not be present in a well-functioning market.  
+[Arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md) represent the limitless creation of wealth through [risk-free profit](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Arbitrage.md) and thus should not be present in a well-functioning market.  
 
-The main tool in investigating [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]] is the concept of equivalent [[Financial Mathematics Course|martingale measures]]:  
+The main tool in investigating [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md) is the concept of equivalent [martingale measures](.md):  
 
 Definition 4.2.4. We say that a probability measure $\mathbb{Q}$ defined on $(\Omega,{\mathcal{F}})$ is an equivalent mar-.   
 tingale measure if:. (i) $\mathbb{Q}$ is equivalent to. $\mathcal{W}$   
 (ii) the discounted price process $\tilde{S}$ is a $\mathbb{Q}$ martingale.  
 
-We denote the set of [[Financial Mathematics Course|martingale measures]] by $\mathcal{P}$  
+We denote the set of [martingale measures](.md) by $\mathcal{P}$  
 
 A useful criterion in determining whether a given equivalent measure is indeed a martingale measure is the observation that the growth rates relative to the numeraire of all given primary. assets under the measure in question must coincide. For example, in the case. $S_{0}(t)\stackrel{}{=}B(t)$ we have:  
 
-Lemma 4.2.1. Assume $S_{0}(t)=B(t)=e^{r(t)}$ , then $\mathbb{Q}\sim I P$ is a martingale measure if and only if every [[A Preview of Alternative Formulations|asset price]] process. $S_{i}$ has [[Chapter 47 - Asset Price Dynamics|price dynamics]] under $\mathbb{Q}$ of the form.  
+Lemma 4.2.1. Assume $S_{0}(t)=B(t)=e^{r(t)}$ , then $\mathbb{Q}\sim I P$ is a martingale measure if and only if every [asset price](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) process. $S_{i}$ has [price dynamics](Derivatives/Part%20XII%20-%20Price%20Dynamics/Chapter%2047%20-%20Asset%20Price%20Dynamics.md) under $\mathbb{Q}$ of the form.  
 $$
 d S_{i}(t)=r(t)S_{i}(t)d t+d M_{i}(t),
 $$  
@@ -3442,34 +3442,34 @@ where $M_{i}$ is a $\mathbb{Q}$ -martingale.
 
 The proof is an application of Ito's formula.  
 
-In order to proceed we have to impose further restrictions on the set of [[Quantitative Trading Strategies Lecture Notes|trading strategies]].  
+In order to proceed we have to impose further restrictions on the set of [trading strategies](../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md).  
 
-Definition 4.2.5. A [[Arbitrage|self-financing trading strategy]] $\varphi$ is called tame (relative to the numeraire. $S_{0}$ if  
+Definition 4.2.5. A [self-financing trading strategy](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Arbitrage.md) $\varphi$ is called tame (relative to the numeraire. $S_{0}$ if  
 $$
 \begin{array}{r}{\tilde{V}_{\varphi}(t)\geq0~f o r~a l l t\in[0,T].}\end{array}
 $$  
 
-We use the notation $\Phi$ for the set of tame [[Quantitative Trading Strategies Lecture Notes|trading strategies]].  
+We use the notation $\Phi$ for the set of tame [trading strategies](../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md).  
 
-We next analyse the value process under equivalent [[Financial Mathematics Course|martingale measures]] for such strategies  
+We next analyse the value process under equivalent [martingale measures](.md) for such strategies  
 
 Proposition 4.2.2. For $\varphi\in\Phi\tilde{V}_{\varphi}(t)$ is a martingale under each $\mathbb{Q}\in\mathcal{P}$  
 
 This observation is the key to our first central result:  
 
-Theorem 4.2.1. Assume $\mathcal{P}\neq\emptyset$ . Then the market model contains no [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]] in $\Phi$  
+Theorem 4.2.1. Assume $\mathcal{P}\neq\emptyset$ . Then the market model contains no [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md) in $\Phi$  
 
 Proof. For any. $\varphi\in\Phi$ and under any. $\mathbb{Q}\in\mathcal{P}\tilde{V}_{\varphi}(t)$ is a martingale. That is,  
 $$
 {\mathbb E}_{\pmb{Q}}\left(\tilde{V}_{\varphi}(t)|\mathcal{F}_{u}\right)=\tilde{V}_{\varphi}(u),\mathrm{for~all}\quad u\le t\le T.
 $$  
 
-For $\varphi\in\Phi$ to be an [[Arbitrage Pricing of Derivatives|arbitrage]] opportunity we must have $\tilde{V}_{\varphi}(0)=V_{\varphi}(0)=0$ . Now  
+For $\varphi\in\Phi$ to be an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity we must have $\tilde{V}_{\varphi}(0)=V_{\varphi}(0)=0$ . Now  
 $$
 E_{Q}\left(\tilde{V}_{\varphi}(t)\right)=0,\mathrm{forall}0\leq t\leq T.
 $$  
 
-Now $\varphi$ is tame, so $\tilde{V}_{\varphi}(t)\geq0,0\leq t\leq T$ , implying ${\cal I}E_{\bf{\boldsymbol{Q}}}\left(\tilde{V}_{\varphi}(t)\right)=0$ $0\leq t\leq T$ , and in particular ${\cal E}_{\cal Q}\left(\tilde{V}_{\varphi}(T)\right)=0$ . But an [[Arbitrage Pricing of Derivatives|arbitrage]] opportunity $\varphi$ also has to satisfy $\begin{array}{r}{P\left(V_{\varphi}(T)\ge0\right)=1}\end{array}$ , and since $\mathbb{Q}\sim\mathcal{N}$ , this means $\mathbb{Q}\left(V_{\varphi}(T)\ge0\right)=1$ . Both together yield  
+Now $\varphi$ is tame, so $\tilde{V}_{\varphi}(t)\geq0,0\leq t\leq T$ , implying ${\cal I}E_{\bf{\boldsymbol{Q}}}\left(\tilde{V}_{\varphi}(t)\right)=0$ $0\leq t\leq T$ , and in particular ${\cal E}_{\cal Q}\left(\tilde{V}_{\varphi}(T)\right)=0$ . But an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity $\varphi$ also has to satisfy $\begin{array}{r}{P\left(V_{\varphi}(T)\ge0\right)=1}\end{array}$ , and since $\mathbb{Q}\sim\mathcal{N}$ , this means $\mathbb{Q}\left(V_{\varphi}(T)\ge0\right)=1$ . Both together yield  
 $$
 \begin{array}{r}{Q\left(V_{\varphi}(T)>0\right)=I P\left(V_{\varphi}(T)>0\right)=0,}\end{array}
 $$  
@@ -3478,23 +3478,23 @@ and hence the result follows.
 
 # 4.2.3 Risk-neutral Pricing  
 
-We now assume that there exists an equivalent martingale measure. $\b{\mathcal{M}}^{*}$ which implies that there are no [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]] with respect to. $\Phi$ in the financial market model. Until further notice. we use $\mathit{\Pi}\mathit{\perp}\mathit{\Psi}$ as our reference measure, and when using the term martingale we always assume that the underlying probability measure is $\b{\mathcal{M}}^{*}$ . In particular, we restrict our attention to contingent. claims $X$ such that $X/S_{0}(T)\in L^{1}(\mathcal{F},I P^{*})$  
+We now assume that there exists an equivalent martingale measure. $\b{\mathcal{M}}^{*}$ which implies that there are no [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md) with respect to. $\Phi$ in the financial market model. Until further notice. we use $\mathit{\Pi}\mathit{\perp}\mathit{\Psi}$ as our reference measure, and when using the term martingale we always assume that the underlying probability measure is $\b{\mathcal{M}}^{*}$ . In particular, we restrict our attention to contingent. claims $X$ such that $X/S_{0}(T)\in L^{1}(\mathcal{F},I P^{*})$  
 
-We now define a further subclass of [[Quantitative Trading Strategies Lecture Notes|trading strategies]]:  
+We now define a further subclass of [trading strategies](../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md):  
 
-Definition 4.2.6. A [[Arbitrage|self-financing trading strategy]] is called ( $\b{\mathcal{P}}^{*}$ -) admissible if the relative. $\varphi$   
+Definition 4.2.6. A [self-financing trading strategy](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Arbitrage.md) is called ( $\b{\mathcal{P}}^{*}$ -) admissible if the relative. $\varphi$   
 gains process  
 $$
 \tilde{G}_{\varphi}(t)=\int_{0}^{t}\varphi(u)d\tilde{S}(u)
 $$  
 
-is a ( $\b{\mathcal{P}}^{*}$ -) martingale. The class of all $(\varPsi^{*}-)$ admissible [[Quantitative Trading Strategies Lecture Notes|trading strategies]] is denoted $\Phi({\cal P}^{*})$  
+is a ( $\b{\mathcal{P}}^{*}$ -) martingale. The class of all $(\varPsi^{*}-)$ admissible [trading strategies](../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) is denoted $\Phi({\cal P}^{*})$  
 
-By definition $\tilde{S}$ is a martingale, and $\tilde{G}$ is the stochastic integral with respect to $\tilde{S}$ . We see that any sufficiently integrable processes $\varphi_{1},\ldots,\varphi_{d}$ give rise to $\b{\mathcal{M}}^{*}$ -admissible [[Quantitative Trading Strategies Lecture Notes|trading strategies]]. We can repeat the above argument to obtain  
+By definition $\tilde{S}$ is a martingale, and $\tilde{G}$ is the stochastic integral with respect to $\tilde{S}$ . We see that any sufficiently integrable processes $\varphi_{1},\ldots,\varphi_{d}$ give rise to $\b{\mathcal{M}}^{*}$ -admissible [trading strategies](../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md). We can repeat the above argument to obtain  
 
-Theorem 4.2.2. The financial market model $\mathcal{M}$ contains no [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]] in. $\Phi(\boldsymbol{P}^{*})$  
+Theorem 4.2.2. The financial market model $\mathcal{M}$ contains no [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md) in. $\Phi(\boldsymbol{P}^{*})$  
 
-Under the assumption that no [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]] exist, the question of [[Arbitrage Pricing of Derivatives|pricing]] and hedg-. ing a contingent claim reduces to the existence of replicating self-financing [[Quantitative Trading Strategies Lecture Notes|trading strategies]]. Formally:  
+Under the assumption that no [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md) exist, the question of [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and hedg-. ing a contingent claim reduces to the existence of replicating self-financing [trading strategies](../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md). Formally:  
 
 Definition 4.2.7. (i) A contingent claim $X$ is called attainable if there exists at least one admissible trading strategy such that  
 $$
@@ -3503,16 +3503,16 @@ $$
 
 We call such a trading strategy $\varphi$ a replicating strategy for $X$ (ii) The financial market model $\mathcal{M}$ is said to be complete if any contingent claim is attainable.  
 
-Again we emphasise that this depends on the class of [[Quantitative Trading Strategies Lecture Notes|trading strategies]]. On the other hand, it does not depend on the numeraire: it is an easy exercise in the continuous asset-price process case to show that if a contingent claim is attainable in a given numeraire it is also attainable in any other numeraire and the replicating strategies are the same.  
+Again we emphasise that this depends on the class of [trading strategies](../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md). On the other hand, it does not depend on the numeraire: it is an easy exercise in the continuous asset-price process case to show that if a contingent claim is attainable in a given numeraire it is also attainable in any other numeraire and the replicating strategies are the same.  
 
-If a contingent claim. $X$ is attainable, $X$ can be replicated by a [[An Asset Allocation Primer|portfolio]] $\varphi\in\Phi(D^{*})$ . This means that holding the [[An Asset Allocation Primer|portfolio]] and holding the contingent claim are equivalent from a financial point of view. In the [[Exercises|absence of arbitrage]] the ([[Arbitrage Pricing of Derivatives|arbitrage]]) price process. $\Pi_{X}(t)$ of the contingent. claim must therefore satisfy.  
+If a contingent claim. $X$ is attainable, $X$ can be replicated by a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $\varphi\in\Phi(D^{*})$ . This means that holding the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and holding the contingent claim are equivalent from a financial point of view. In the [absence of arbitrage](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) the ([arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)) price process. $\Pi_{X}(t)$ of the contingent. claim must therefore satisfy.  
 $$
 \Pi_{X}(t)=V_{\varphi}(t).
 $$  
 
-Of course the questions arise of what will happen if $X$ can be replicated by more than one [[An Asset Allocation Primer|portfolio]], and what the relation of the price process to the equivalent martingale measure(s) is. The following central theorem is the key to answering these questions:  
+Of course the questions arise of what will happen if $X$ can be replicated by more than one [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), and what the relation of the price process to the equivalent martingale measure(s) is. The following central theorem is the key to answering these questions:  
 
-Theorem 4.2.3 (Risk-Neutral Valuation Formula). The [[Arbitrage Pricing of Derivatives|arbitrage]] price process of any attainable claim is given by the risk-neutral valuation formula.  
+Theorem 4.2.3 (Risk-Neutral Valuation Formula). The [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) price process of any attainable claim is given by the risk-neutral valuation formula.  
 $$
 \Pi_{X}(t)=S_{0}(t)E_{I P^{*}}\left[\left.\frac{X}{S_{0}(T)}\right|\mathcal{F}_{t}\right].
 $$  
@@ -3533,19 +3533,19 @@ $$
 
 # The Model  
 
-We concentrate on the classical [[Black Scholes Derivation|Black-Scholes model]]  
+We concentrate on the classical [Black-Scholes model](../Financial%20Instruments/Black%20Scholes%20Derivation.md)  
 $$
 \begin{array}{r c l l}{d B(t)}&{=}&{r B(t)d t,\quad}&{B(0)=1,\quad}\ {d S(t)}&{=}&{S(t)\left(b d t+\sigma d W(t)\right),\quad}&{S(0)=p\in(0,\infty),}\end{array}
 $$  
 
-with constant coefficients $b\in I R,r,\sigma\in I R_{+}$ . We write as usual $\tilde{S}(t)=S(t)/B(t)$ for the [[Verifying Martingale Property with Q|discounted stock price]] process (with the bank account being the natural numeraire), and get from Ito's formula  
+with constant coefficients $b\in I R,r,\sigma\in I R_{+}$ . We write as usual $\tilde{S}(t)=S(t)/B(t)$ for the [discounted stock price](Verifying%20Martingale%20Property%20with%20Q.md) process (with the bank account being the natural numeraire), and get from Ito's formula  
 $$
 d\tilde{S}(t)=\tilde{S}(t)\{(b-r)d t+\sigma d W(t)\}.
 $$  
 
 # Equivalent Martingale Measure  
 
-Because we use the Brownian filtration any pair of [[Change of Probability Measure|equivalent probability measures]] $I P\sim\mathbb{Q}$ on ${\mathcal{F}}_{T}$ is a Girsanov pair, i.e..  
+Because we use the Brownian filtration any pair of [equivalent probability measures](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2011%20-%20Risk-adjusted%20probabilities/Change%20of%20Probability%20Measure.md) $I P\sim\mathbb{Q}$ on ${\mathcal{F}}_{T}$ is a Girsanov pair, i.e..  
 $$
 \left.\frac{d\pmb{Q}}{d D}\right|_{\mathcal{F}_{t}}=L(t)
 $$  
@@ -3560,7 +3560,7 @@ $$
 d W(t)=d\tilde{W}(t)-\gamma(t)d t,
 $$  
 
-where $\tilde{W}$ is a $\mathbb{Q}$ -[[The Ornstein-Uhlenbeck (OU) Process|Wiener process]]. Thus the $\mathbb{Q}$ -dynamics for $\tilde{S}$ are  
+where $\tilde{W}$ is a $\mathbb{Q}$ -[Wiener process](../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md). Thus the $\mathbb{Q}$ -dynamics for $\tilde{S}$ are  
 $$
 d\tilde{S}(t)=\tilde{S}(t)\left\{(b-r-\sigma\gamma(t))d t+\sigma d\tilde{W}(t)\right\}.
 $$  
@@ -3575,7 +3575,7 @@ $$
 \gamma(t)\equiv\gamma=\frac{b-r}{\sigma},
 $$  
 
-(the '[[Exercises|market price of risk]]'). Indeed, this argument leads to a unique martingale measure, and we will make use of this fact later on. Using the product rule, we find the. $\mathbb{Q}$ dynamics of $S$ aS  
+(the '[market price of risk](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md)'). Indeed, this argument leads to a unique martingale measure, and we will make use of this fact later on. Using the product rule, we find the. $\mathbb{Q}$ dynamics of $S$ aS  
 $$
 d S(t)=S(t)\left\{r d t+\sigma d{\tilde{W}}\right\}.
 $$  
@@ -3596,9 +3596,9 @@ $$
 L(t)=\exp\left\{-\left(\frac{b-r}{\sigma}\right)W(t)-\frac{1}{2}\left(\frac{b-r}{\sigma}\right)^{2}t\right\}.
 $$  
 
-Now consider a European call with strike. $K$ and maturity $T$ on the stock $S$ (so $\Phi(T)=(S(T)-$ $K)^{+}$ ), we can evaluate the above expected value (which is easier than solving the [[Mathematical Modeling of Derivative Pricing|Black-Scholes]] partial differential equation) and obtain:  
+Now consider a European call with strike. $K$ and maturity $T$ on the stock $S$ (so $\Phi(T)=(S(T)-$ $K)^{+}$ ), we can evaluate the above expected value (which is easier than solving the [Black-Scholes](Mathematical%20Modeling%20of%20Derivative%20Pricing.md) partial differential equation) and obtain:  
 
-Proposition 4.2.3 ([[Credit Markets Session 5|Black-Scholes Formula]]). The [[Mathematical Modeling of Derivative Pricing|Black-Scholes]] price process of a European call is given by.  
+Proposition 4.2.3 ([Black-Scholes Formula](../Credit%20Markets/Credit%20Markets%20Session%205.md)). The [Black-Scholes](Mathematical%20Modeling%20of%20Derivative%20Pricing.md) price process of a European call is given by.  
 $$
 C(t)=S(t){N}({d_{1}}(S(t),T-t))-K{e^{-r(T-t)}}{N}({d_{2}}(S(t),T-t)).
 $$  
@@ -3610,17 +3610,17 @@ $$
 
 Observe that we have already deduced this formula as a limit of a discrete-time setting.  
 
-To obtain a [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|replicating portfolio]] we start in the discounted setting. We have from the riskneutral valuation principle  
+To obtain a [replicating portfolio](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) we start in the discounted setting. We have from the riskneutral valuation principle  
 $$
 M(t)=\exp\left\{-r T\right\}L E^{*}\left[\Phi(S(T))|\mathcal{F}_{t}\right].
 $$  
 
-Now we use [[Determining the Stochastic Process for a Forward Contract from Ito’s Lemma|Ito's lemma]] to find the dynamics of the $\b{\mathcal{P}}^{*}$ -martingale $M(t)=G(t,S(t))$  
+Now we use [Ito's lemma](Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md) to find the dynamics of the $\b{\mathcal{P}}^{*}$ -martingale $M(t)=G(t,S(t))$  
 $$
 d M(t)=\sigma S(t)G_{s}(t,S(t))d\tilde{W}(t).
 $$  
 
-Using this representation, we get for the stock component of the [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|replicating portfolio]]  
+Using this representation, we get for the stock component of the [replicating portfolio](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)  
 $$
 h(t)=\sigma S(t)G_{s}(t,S(t)).
 $$  
@@ -3635,19 +3635,19 @@ $$
 \varphi_{0}(t)=G(t,S(t))-G_{s}(t,S(t))S(t).
 $$  
 
-To transfer this [[An Asset Allocation Primer|portfolio]] to undiscounted values we multiply it by the [[Discount Factors|discount factor]], i.e $F(t,S(t))$ $=B(t)G(t,S(t))$ and get:  
+To transfer this [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) to undiscounted values we multiply it by the [discount factor](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md), i.e $F(t,S(t))$ $=B(t)G(t,S(t))$ and get:  
 
-Proposition 4.2.4. The replicating strategy in the classical [[Black Scholes Derivation|Black-Scholes model]] is given by  
+Proposition 4.2.4. The replicating strategy in the classical [Black-Scholes model](../Financial%20Instruments/Black%20Scholes%20Derivation.md) is given by  
 $$
 \begin{array}{l c l}{\varphi_{0}}&{=}&{\displaystyle\frac{F(t,S(t))-F_{s}(t,S(t))S(t)}{B(t)},}\ {\varphi_{1}}&{=}&{F_{s}(t,S(t)).}\end{array}
 $$  
 
-We can also use an [[Arbitrage Pricing of Derivatives|arbitrage]] approach to derive the [[Credit Markets Session 5|Black-Scholes formula]]. For this consider a [[PSET 5 Solution-Financial Instruments|self-financing portfolio]] which has dynamics  
+We can also use an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) approach to derive the [Black-Scholes formula](../Credit%20Markets/Credit%20Markets%20Session%205.md). For this consider a [self-financing portfolio](../Financial%20Instruments/Assignments/Solutions/PSET%205%20Solution-Financial%20Instruments.md) which has dynamics  
 $$
 )+\varphi_{1}(t)d S(t)=(\varphi_{0}(t)r B(t)+\varphi_{1}(t)\mu S(t))d t+\varphi
 $$  
 
-Assume that the [[An Asset Allocation Primer|portfolio]] value can be written as  
+Assume that the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) value can be written as  
 $$
 V_{\varphi}(t)=V(t)=f(t,S(t))
 $$  
@@ -3667,19 +3667,19 @@ $$
 \varphi_{0}(t)=\frac{1}{r B(t)}(f_{t}(t,S_{t})+\frac{1}{2}\sigma^{2}S_{t}^{2}f_{x x}(t,S_{t})).
 $$  
 
-Then looking at the total [[An Asset Allocation Primer|portfolio]] value we find that $f(t,x)$ must satisfy the following PDE  
+Then looking at the total [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) value we find that $f(t,x)$ must satisfy the following PDE  
 $$
 f_{t}(t,x)+r x f_{x}(t,x)+{\frac{1}{2}}\sigma^{2}x^{2}f_{x x}(t,x)-r f(t,x)=0
 $$  
 
 and initial condition $f(T,x)=(x-K)^{+}$  
 
-In their original paper Black and Scholes (1973), Black and Scholes used an [[Risk-Neutral Pricing|arbitrage pricing]] approach (rather than our risk-neutral valuation approach) to deduce the price of a European call as the solution of a partial differential equation (we call this the PDE approach). The idea is as follows: start by assuming that the option price $C(t)$ is given by $C(t)=f(t,S(t))$ for some sufficiently smooth function. $f:I R_{+}\times[0,T]\rightarrow I R$ . By Ito's formula (Theorem 4.1.3) we find for the dynamics of the option price process (observe that we work under $\mathcal{W}$ $d S=S(b d t+\sigma d W))$  
+In their original paper Black and Scholes (1973), Black and Scholes used an [arbitrage pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Risk-Neutral%20Pricing.md) approach (rather than our risk-neutral valuation approach) to deduce the price of a European call as the solution of a partial differential equation (we call this the PDE approach). The idea is as follows: start by assuming that the option price $C(t)$ is given by $C(t)=f(t,S(t))$ for some sufficiently smooth function. $f:I R_{+}\times[0,T]\rightarrow I R$ . By Ito's formula (Theorem 4.1.3) we find for the dynamics of the option price process (observe that we work under $\mathcal{W}$ $d S=S(b d t+\sigma d W))$  
 $$
 d C=\left\{f_{t}(t,S)+f_{s}(t,S)S b+\frac{1}{2}f_{s s}(t,S)S^{2}\sigma^{2}\right\}d t+f_{s}S\sigma d W.
 $$  
 
-Consider a [[An Asset Allocation Primer|portfolio]] $\psi$ consisting of a short position in. $\psi_{1}(t)=f_{s}(t,S(t))$ stocks and a [[Chapter 4 - Futures: Hedging and Speculation|long position]] in $\psi_{2}(t)=1$ call and assume the [[An Asset Allocation Primer|portfolio]] is self-financing. Then its value process is  
+Consider a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $\psi$ consisting of a short position in. $\psi_{1}(t)=f_{s}(t,S(t))$ stocks and a [long position](Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%204%20-%20Futures:%20Hedging%20and%20Speculation.md) in $\psi_{2}(t)=1$ call and assume the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is self-financing. Then its value process is  
 $$
 V_{\psi}(t)=-\psi_{1}(t)S(t)+C(t),
 $$  
@@ -3689,7 +3689,7 @@ $$
 \begin{array}{l c l}{{d V_{\psi}}}&{{=}}&{{-\psi_{1}d S+d C}}\ {{}}&{{}}&{{}}\ {{}}&{{=}}&{{-f_{s}(S b d t+S\sigma d W)+\displaystyle\left(f_{t}+f_{s}S b+\frac{1}{2}f_{s s}S^{2}\sigma^{2}\right)d t+f_{s}S\sigma d W}}\ {{}}&{{}}&{{}}\ {{}}&{{=}}&{{\displaystyle\left(f_{t}+\frac{1}{2}f_{s s}S^{2}\sigma^{2}\right)d t.}}\end{array}
 $$  
 
-So the dynamics of the value process of the [[An Asset Allocation Primer|portfolio]] do not have any exposure to the driving [[Continuous-Time Stochastic Processes|Brownian motion]], and its appreciation rate in an [[Arbitrage Pricing of Derivatives|arbitrage]]-free world must therefore equal the [[Black Scholes Derivation|risk-free rate]], i.e.  
+So the dynamics of the value process of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) do not have any exposure to the driving [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md), and its appreciation rate in an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free world must therefore equal the [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md), i.e.  
 $$
 d V_{\psi}(t)=r V_{\psi}(t)d t=\left(-r f_{s}S+r C\right)d t.
 $$  
@@ -3699,7 +3699,7 @@ $$
 -r S f_{s}+r f=f_{t}+\frac{1}{2}\sigma^{2}S^{2}f_{s s}.
 $$  
 
-This leads again to the [[Mathematical Modeling of Derivative Pricing|Black-Scholes]] partial differential equation (4.8) for $f$ , i.e.  
+This leads again to the [Black-Scholes](Mathematical%20Modeling%20of%20Derivative%20Pricing.md) partial differential equation (4.8) for $f$ , i.e.  
 $$
 f_{t}+r s f_{s}+\frac{1}{2}\sigma^{2}s^{2}f_{s s}-r f=0.
 $$  
@@ -3708,17 +3708,17 @@ Since $C(T)=(S(T)-K)^{+}$ we need to impose the terminal condition $f(s,T)=(s-K)
 
 # Note.  
 
-One point in the justification of the above argument is missing: we have to show that the trading strategy short $\psi_{1}$ stocks and long one call is self-financing. In fact, this is not true, since $\psi_{1}=$ $\psi_{1}(t,S(t))$ is dependent on the [[Black-Scholes Model|stock price process]]. Formally, for the self-financing condition to be true we must have  
+One point in the justification of the above argument is missing: we have to show that the trading strategy short $\psi_{1}$ stocks and long one call is self-financing. In fact, this is not true, since $\psi_{1}=$ $\psi_{1}(t,S(t))$ is dependent on the [stock price process](../Credit%20Markets/Black-Scholes%20Model.md). Formally, for the self-financing condition to be true we must have  
 $$
 d V_{\psi}(t)=d(\psi_{1}(t)S(t))+d C(t)=\psi_{1}(t)d S(t)+d C(t).
 $$  
 
-Now $\psi(t)=\psi(t,S(t))$ depends on the [[Chapter 16 - Black–Scholes Model|stock price]] and so we have  
+Now $\psi(t)=\psi(t,S(t))$ depends on the [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) and so we have  
 $$
 d(\psi_{1}(t,S(t))S(t))=\psi_{1}(t)d S(t)+S(t)d\psi_{1}(t,S(t))+d\left<\psi_{1},S\right>(t).
 $$  
 
-We see that the [[An Asset Allocation Primer|portfolio]] $\psi$ is self-financing, if  
+We see that the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $\psi$ is self-financing, if  
 $$
 S(t)d\psi_{1}(t,S(t))+d\left\langle\psi_{1},S\right\rangle(t)=0.
 $$  
@@ -3727,7 +3727,7 @@ It is an exercise in Ito calculus to show that this is not the case.
 
 # 4.2.5 The Greeks  
 
-We will now analyse the impact of the underlying parameters in the standard [[Black Scholes Derivation|Black-Scholes model]] on the prices of [[Notes on Basic Options Properties|call and put]] options. The [[Mathematical Modeling of Derivative Pricing|Black-Scholes]] option values depend on the (current) [[Chapter 16 - Black–Scholes Model|stock price]], the volatility, the [[Hedging Strategies with Forwards|time to maturity]], the interest rate and the [[Call and Put Payoffs at Expiry|strike price]]. The sensitivities of the option price with respect to the first four parameters are called [[Options Greeks|the Greeks]] and are widely used for [[Key Rates O1s Durations and Hedging|hedging]] purposes. We can determine the impact of these parameters by taking partial [[Chapter 9 Arbitrage and Hedging With Options|derivatives]]. Recall the [[Credit Markets Session 5|Black-Scholes formula]] for a European call (4.7):  
+We will now analyse the impact of the underlying parameters in the standard [Black-Scholes model](../Financial%20Instruments/Black%20Scholes%20Derivation.md) on the prices of [call and put](../Course%20Notes/HBR%20Notes/Notes%20on%20Basic%20Options%20Properties.md) options. The [Black-Scholes](Mathematical%20Modeling%20of%20Derivative%20Pricing.md) option values depend on the (current) [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md), the volatility, the [time to maturity](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md), the interest rate and the [strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md). The sensitivities of the option price with respect to the first four parameters are called [the Greeks](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Options%20Greeks.md) and are widely used for [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) purposes. We can determine the impact of these parameters by taking partial [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md). Recall the [Black-Scholes formula](../Credit%20Markets/Credit%20Markets%20Session%205.md) for a European call (4.7):  
 $$
 C(0)=C(S,T,K,r,\sigma)=S N(d_{1}(S,T))-K e^{-r T}N(d_{2}(S,T)),
 $$  
@@ -3742,9 +3742,9 @@ $$
 \begin{array}{r c l}{{\Delta}}&{{:=}}&{{\displaystyle\frac{\partial C}{\partial S}}}&{{=\phantom{-}N(d_{1})>0,}}\ {{\displaystyle\mathcal{V}}}&{{:=}}&{{\displaystyle\frac{\partial C}{\partial\sigma}}}&{{=\phantom{-}S\sqrt{T}n(d_{1})>0,}}\ {{\Theta}}&{{:=}}&{{\displaystyle\frac{\partial C}{\partial T}}}&{{=\phantom{-}\displaystyle\frac{S\sigma}{2\sqrt{T}}n(d_{1})+K r e^{-r T}N(d_{2})>0,}}\ {{\rho}}&{{:=}}&{{\displaystyle\frac{\partial C}{\partial r}}}&{{=\phantom{-}T K e^{-r T}N(d_{2})>0,}}\ {{\Gamma}}&{{:=}}&{{\displaystyle\frac{\partial^{2}C}{\partial S^{2}}}}&{{=\displaystyle\frac{n(d_{1})}{S\sigma\sqrt{T}}>0.}}\end{array}
 $$  
 
-(As usual $N$ is the cumulative normal [[Verification of Central Limit Theorem|distribution function]] and. $n$ is its density.) From the definitions it is clear that $\Delta$ delta - measures the change in the value of the option compared with the change in the value of the [[Risk Neutral Pricing of Options|underlying asset]], $\nu$ vega - measures the change of the. option compared with the change in the volatility of the underlying, and similar statements hold for $\Theta$ theta - and $\rho$ rho (observe that these [[Chapter 9 Arbitrage and Hedging With Options|derivatives]] are in line with our [[Arbitrage Pricing of Derivatives|arbitrage]]-based. considerations in 1.3). Furthermore,. $\Delta$ gives the number of shares in the [[Chapter 22 - BOPM: Implementation|replication portfolio]] for a call option (see Proposition 4.2.4), so. $\Gamma$ measures the sensitivity of our [[An Asset Allocation Primer|portfolio]] to the change. in the [[Chapter 16 - Black–Scholes Model|stock price]]..  
+(As usual $N$ is the cumulative normal [distribution function](Verification%20of%20Central%20Limit%20Theorem.md) and. $n$ is its density.) From the definitions it is clear that $\Delta$ delta - measures the change in the value of the option compared with the change in the value of the [underlying asset](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md), $\nu$ vega - measures the change of the. option compared with the change in the volatility of the underlying, and similar statements hold for $\Theta$ theta - and $\rho$ rho (observe that these [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) are in line with our [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-based. considerations in 1.3). Furthermore,. $\Delta$ gives the number of shares in the [replication portfolio](Derivatives/Part%20V%20-%20Options%20Pricing/Chapter%2022%20-%20BOPM:%20Implementation.md) for a call option (see Proposition 4.2.4), so. $\Gamma$ measures the sensitivity of our [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) to the change. in the [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md)..  
 
-The [[Mathematical Modeling of Derivative Pricing|Black-Scholes]] partial differential equation (4.8) can be used to obtain the relation between [[Options Greeks|the Greeks]], i.e. (observe that. $\Theta$ is the derivative of. $C$ , the price of a European call, with respect to the time to expiry. $T-t$ , while in the [[Black Scholes Derivation|Black-Scholes PDE]] the partial derivative with respect to the current time $t$ appears)  
+The [Black-Scholes](Mathematical%20Modeling%20of%20Derivative%20Pricing.md) partial differential equation (4.8) can be used to obtain the relation between [the Greeks](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Options%20Greeks.md), i.e. (observe that. $\Theta$ is the derivative of. $C$ , the price of a European call, with respect to the time to expiry. $T-t$ , while in the [Black-Scholes PDE](../Financial%20Instruments/Black%20Scholes%20Derivation.md) the partial derivative with respect to the current time $t$ appears)  
 $$
 r C=\frac{1}{2}s^{2}\sigma^{2}\Gamma+r s\Delta-\Theta.
 $$  
@@ -3764,17 +3764,17 @@ $$
 d C(t)=r C(t)d t+\sigma\eta^{c}(t)C(t)d\tilde{W}(t).
 $$  
 
-So, as expected in the [[Binomial Option Pricing Model|risk-neutral world]], the appreciation rate of the call option equals the riskfree rate $r$ . The volatility coefficient is. $\sigma\eta^{c}$ , and hence stochastic. It is precisely this feature that. causes difficulties when assessing the impact of options in a [[An Asset Allocation Primer|portfolio]]..  
+So, as expected in the [risk-neutral world](../Financial%20Instruments/Binomial%20Option%20Pricing%20Model.md), the appreciation rate of the call option equals the riskfree rate $r$ . The volatility coefficient is. $\sigma\eta^{c}$ , and hence stochastic. It is precisely this feature that. causes difficulties when assessing the impact of options in a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)..  
 
 # 4.2.6 Barrier Options  
 
 The question of whether or not a particular stock will attain a particular level within a specified.   
-period has long been an important one for risk managers. From at least 1967 - predating both CBOE and [[Mathematical Modeling of Derivative Pricing|Black-Scholes]] in 1973 - practitioners have sought to reduce their exposure to specific.   
+period has long been an important one for risk managers. From at least 1967 - predating both CBOE and [Black-Scholes](Mathematical%20Modeling%20of%20Derivative%20Pricing.md) in 1973 - practitioners have sought to reduce their exposure to specific.   
 risks of this kind by buying options designed with such barrier-crossing events in mind. As usual,.   
 the motivation is that buying specific options - that is, taking out specific insurance - is a cheaper.   
 way of covering oneself against a specific danger than buying a more general one..  
 
-One-barrier options specify a stock-price level,. $H$ say, such that the option pays ('knocks in'). or not ('knocks out') according to whether or not level. $H$ is attained, from below ('up') or above. ('down'). There are thus four possibilities: 'up and in', 'up and out', 'down and in' and 'down and out'. Since barrier options are path-dependent (they involve the behaviour of the path, rather than just the current price or price at expiry), they may be classified as [[Exotic Interest Rate Options|exotic]]; alternatively, the four basic one-barrier types above may be regarded as 'vanilla barrier' options, with their more complicated variants, described below, as '[[Exotic Interest Rate Options|exotic]] barrier' options. Note that holding both a knock-in option and the corresponding knock-out is equivalent to the corresponding vanilla option with the barrier removed. The sum of the prices of the knock-in and the knock-out is thus the price of the vanilla - again showing the attractiveness of barrier options as being cheaper than their vanilla counterparts.  
+One-barrier options specify a stock-price level,. $H$ say, such that the option pays ('knocks in'). or not ('knocks out') according to whether or not level. $H$ is attained, from below ('up') or above. ('down'). There are thus four possibilities: 'up and in', 'up and out', 'down and in' and 'down and out'. Since barrier options are path-dependent (they involve the behaviour of the path, rather than just the current price or price at expiry), they may be classified as [exotic](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md); alternatively, the four basic one-barrier types above may be regarded as 'vanilla barrier' options, with their more complicated variants, described below, as '[exotic](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) barrier' options. Note that holding both a knock-in option and the corresponding knock-out is equivalent to the corresponding vanilla option with the barrier removed. The sum of the prices of the knock-in and the knock-out is thus the price of the vanilla - again showing the attractiveness of barrier options as being cheaper than their vanilla counterparts.  
 
 A barrier option is often designed to pay a $r e b a t e\mathrm{~-~}\mathrm{a~}$ sum specified in advance - to compensate the holder if the option is rendered otherwise worthless by hitting/not hitting the barrier. We restrict attention to zero rebate here for simplicity.  
 
@@ -3783,12 +3783,12 @@ $$
 (S(T)-K)^{+}\mathbf{1}_{\left\{\operatorname*{min}S(.)\geq H\right\}}=(S(T)-K)\mathbf{1}_{\left\{S(T)\geq K,\operatorname*{min}S(.)\geq H\right\}},
 $$  
 
-so by [[Financial Mathematics Course|risk-neutral pricing]] the value of the option is  
+so by [risk-neutral pricing](.md) the value of the option is  
 $$
 D O C_{K,H}:=I E\left[e^{-r T}(S(T)-K)\mathbf{1}_{\left\{S(T)\geq K,\operatorname*{min}S(.)\geq H\right\}}\right],
 $$  
 
-where $S$ is [[Black Scholes Derivation|geometric Brownian motion]],. $\begin{array}{r}{S(t)=p_{0}\exp\{(\mu-\frac{1}{2}\sigma^{2}t)+\sigma W(t)\}}\end{array}$ . Write $c:=\mu-{\textstyle\frac{1}{2}}\sigma^{2}/\sigma$ then $\operatorname*{min}S(.)\geq H$ iff $\operatorname*{min}(c t+W(t))\geq\sigma^{-1}\log(H/p_{0})$ .Writing $X$ for $X(t):=c t+W(t)-\mathrm{driftir}$ ig [[Continuous-Time Stochastic Processes|Brownian motion]] with drift $c$ $m$ $M$ for its minimum and maximum processes  
+where $S$ is [geometric Brownian motion](../Financial%20Instruments/Black%20Scholes%20Derivation.md),. $\begin{array}{r}{S(t)=p_{0}\exp\{(\mu-\frac{1}{2}\sigma^{2}t)+\sigma W(t)\}}\end{array}$ . Write $c:=\mu-{\textstyle\frac{1}{2}}\sigma^{2}/\sigma$ then $\operatorname*{min}S(.)\geq H$ iff $\operatorname*{min}(c t+W(t))\geq\sigma^{-1}\log(H/p_{0})$ .Writing $X$ for $X(t):=c t+W(t)-\mathrm{driftir}$ ig [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) with drift $c$ $m$ $M$ for its minimum and maximum processes  
 $$
 m(t):=\operatorname*{min}\{X(s):s\in[0,t]\},\quad M(t):=\operatorname*{max}\{X(s):s\in[0,t]\}.
 $$  
@@ -3796,17 +3796,17 @@ $$
 the payoff function involves the bivariate process $(X,m)$ , and the option price involves the joint.   
 law of this process..  
 
-Consider first the case $c=0$ : we require the joint law of standard [[Continuous-Time Stochastic Processes|Brownian motion]] and its maximum or minimum, $(W,M)$ or $(W,m)$ . Taking $(W,M)$ for definiteness, we start the Brownian. motion $W$ at the origin at time zero, choose a level. $b>0$ , and run the process until the first-passage. time (see Exercise 5.2)  
+Consider first the case $c=0$ : we require the joint law of standard [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) and its maximum or minimum, $(W,M)$ or $(W,m)$ . Taking $(W,M)$ for definiteness, we start the Brownian. motion $W$ at the origin at time zero, choose a level. $b>0$ , and run the process until the first-passage. time (see Exercise 5.2)  
 $$
 \tau(b):=\operatorname*{inf}\{t\geq0:W(t)\geq b\}
 $$  
 
-at which the level $b$ is first attained. This is a [[American-Style Derivatives|stopping time]], and we may use the strong Markov property for $W$ at time $\tau(b)$ . The process now begins afresh at level $b$ , and by symmetry the probabilistic properties of its further evolution are invariant under reflection in the level $b$ (thought of as a mirror). This [[Appendix 23.A The Reflection Principle for Wiener Process|reflection principle]] leads to the joint density of $(W(t),M(t))$ as  
+at which the level $b$ is first attained. This is a [stopping time](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md), and we may use the strong Markov property for $W$ at time $\tau(b)$ . The process now begins afresh at level $b$ , and by symmetry the probabilistic properties of its further evolution are invariant under reflection in the level $b$ (thought of as a mirror). This [reflection principle](Appendices/Appendix%2023.A%20The%20Reflection%20Principle%20for%20Wiener%20Process.md) leads to the joint density of $(W(t),M(t))$ as  
 $$
 \begin{array}{l l}{{}}&{{\displaystyle{\it I P_{0}}(W(t)\in d x,M(t)\in d y)}}\ {{}}&{{=}}\ {{=}}&{{\displaystyle{\frac{2(2y-x)}{\sqrt{2\pi t^{3}}}\exp\left\{-\frac{1}{2}(2y-x)^{2}/t\right\}\left(0\leq x\leq y),\right.}}}\end{array}
 $$  
 
-a formula due to Levy. (Levy also obtained the identity in law of the bivariate processes $(M(t)-$ $W(t),M(t))$ and $(|W(t)|,L(t))$ , where $L$ is the local time process of $W$ at zero: see e.g. Revuz and Yor (1991), VI.2). The idea behind the [[Appendix 23.A The Reflection Principle for Wiener Process|reflection principle]] goes back to work of Desire Andre in 1887, and indeed further, to the method of images of Lord Kelvin (1824-1907), then Sir William Thomson, of 1848 on electrostatics. For background on this, see any good book on electromagnetism, e.g. Jeans (1925), Chapter VIII.  
+a formula due to Levy. (Levy also obtained the identity in law of the bivariate processes $(M(t)-$ $W(t),M(t))$ and $(|W(t)|,L(t))$ , where $L$ is the local time process of $W$ at zero: see e.g. Revuz and Yor (1991), VI.2). The idea behind the [reflection principle](Appendices/Appendix%2023.A%20The%20Reflection%20Principle%20for%20Wiener%20Process.md) goes back to work of Desire Andre in 1887, and indeed further, to the method of images of Lord Kelvin (1824-1907), then Sir William Thomson, of 1848 on electrostatics. For background on this, see any good book on electromagnetism, e.g. Jeans (1925), Chapter VIII.  
 
 Levy's formula for the joint density of $(W(t),M(t))$ may be extended to the case of general drift $c$ by the usual method for changing drift, Girsanov's theorem. The general result is  
 $$
@@ -3815,7 +3815,7 @@ $$
 
 See e.g. Rogers and Williams (1994), I, (13.10), or Harrison (1985), \$1.8. As an alternative to. the probabilistic approach above, a second approach to this formula makes explicit use of Kelvin's language - mirrors, sources, sinks; see e.g. Cox and Miller (1972), \$5.7..  
 
-Given such an explicit formula for the joint density of $(X(t),M(t))-\mathrm{or}$ equivalently, $(X(t),m(t))$ - we can calculate the option price by integration. The factor. $S(T)-K$ , or $S-K$ , gives rise to. two terms, in. $S$ and $K$ , while the integrals, involving relatives of the normal density function. $n$ may be obtained explicitly in terms of the normal [[Verification of Central Limit Theorem|distribution function]]. $N$ - both features familiar from the [[Credit Markets Session 5|Black-Scholes formula]]. Indeed, this resemblance makes it convenient to decompose the price $D O C_{K,H}$ of the down-and-out call into the ([[Mathematical Modeling of Derivative Pricing|Black-Scholes]]) price of the corresponding vanilla call, $C_{K}$ say, and the knockout discount, $K O D_{K,H}$ say, by which the knockout barrier at. $H$ lowers the price:  
+Given such an explicit formula for the joint density of $(X(t),M(t))-\mathrm{or}$ equivalently, $(X(t),m(t))$ - we can calculate the option price by integration. The factor. $S(T)-K$ , or $S-K$ , gives rise to. two terms, in. $S$ and $K$ , while the integrals, involving relatives of the normal density function. $n$ may be obtained explicitly in terms of the normal [distribution function](Verification%20of%20Central%20Limit%20Theorem.md). $N$ - both features familiar from the [Black-Scholes formula](../Credit%20Markets/Credit%20Markets%20Session%205.md). Indeed, this resemblance makes it convenient to decompose the price $D O C_{K,H}$ of the down-and-out call into the ([Black-Scholes](Mathematical%20Modeling%20of%20Derivative%20Pricing.md)) price of the corresponding vanilla call, $C_{K}$ say, and the knockout discount, $K O D_{K,H}$ say, by which the knockout barrier at. $H$ lowers the price:  
 $$
 D O C_{K,H}=C_{K}-K O D_{K,H}.
 $$  
@@ -3825,12 +3825,12 @@ $$
 K O D_{K,H}=p_{0}(H/p_{0})^{2+2\lambda/\sigma^{2}}N(c_{1})-K e^{-r T}(H/p_{0})^{2\lambda/\sigma^{2}}N(c_{2}),
 $$  
 
-where $p_{0}$ is the initial [[Chapter 16 - Black–Scholes Model|stock price]] as usual and $c_{1}$ $c_{2}$ are functions of the price. $p=p_{0}$ and time $t=T$ given by  
+where $p_{0}$ is the initial [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) as usual and $c_{1}$ $c_{2}$ are functions of the price. $p=p_{0}$ and time $t=T$ given by  
 $$
 c_{1,2}(p,t)=\frac{\log(H^{2}/p K)+(r\pm\frac{1}{2}\sigma^{2})t}{\sigma\sqrt{t}}
 $$  
 
-(the notation is that of the excellent text Musiela and Rutkowski (1997), s9.6, to which we refer for further detail). The other cases of vanilla barrier options, and their [[DCF Breakdown|sensitivity analysis]], are given in detail in Zhang (1997), Chapter 10..  
+(the notation is that of the excellent text Musiela and Rutkowski (1997), s9.6, to which we refer for further detail). The other cases of vanilla barrier options, and their [sensitivity analysis](../Advanced%20Financial%20Analysis%20and%20Valuation/DCF%20Breakdown.md), are given in detail in Zhang (1997), Chapter 10..  
 
 # Chapter 5  
 
@@ -3840,67 +3840,67 @@ $$
 
 # 5.1.1 The Term Structure of Interest Rates  
 
-We start with a heuristic discussion, which we will formalize in the following section. The main traded objects we consider are zero-coupon bonds. A zero-coupon bond is a bond that has no [[Realized Returns|coupon payments]]. The price of a zero-coupon bond at time. $t$ that pays, say, a sure. $£$ at time $T\geq t$ is denoted $p(t,T)$ . All zero-coupon bonds are assumed to be default-free and have strictly positive prices. Various different [[Interest Rate Quotations|interest rates]] are defined in connection with zero-coupon bonds,. but we will only consider [[PSET 7 Solutions-Financial Instruments|continuously compounded interest]] rates (which facilitates theoretical. considerations).  
+We start with a heuristic discussion, which we will formalize in the following section. The main traded objects we consider are zero-coupon bonds. A zero-coupon bond is a bond that has no [coupon payments](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md). The price of a zero-coupon bond at time. $t$ that pays, say, a sure. $£$ at time $T\geq t$ is denoted $p(t,T)$ . All zero-coupon bonds are assumed to be default-free and have strictly positive prices. Various different [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) are defined in connection with zero-coupon bonds,. but we will only consider [continuously compounded interest](../Financial%20Instruments/Assignments/Solutions/PSET%207%20Solutions-Financial%20Instruments.md) rates (which facilitates theoretical. considerations).  
 
-Using the [[Risk-Neutral Pricing|arbitrage pricing]] technique, we easily obtain [[Arbitrage Pricing of Derivatives|pricing]] formulas for coupon bonds. Coupon bonds are bonds with regular interest payments, called coupons, plus a principal repayment at maturity. Let $c_{j}$ be the payments at times $t_{j}$ $j=1,\dots,n$ $F$ be the face value paid at time $t_{n}$ . Then the price of the coupon bond $B_{c}$ must satisfy.  
+Using the [arbitrage pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Risk-Neutral%20Pricing.md) technique, we easily obtain [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formulas for coupon bonds. Coupon bonds are bonds with regular interest payments, called coupons, plus a principal repayment at maturity. Let $c_{j}$ be the payments at times $t_{j}$ $j=1,\dots,n$ $F$ be the face value paid at time $t_{n}$ . Then the price of the coupon bond $B_{c}$ must satisfy.  
 $$
 B_{c}=\sum_{j=1}^{n}c_{j}p(0,t_{j})+F p(0,t_{n}).
 $$  
 
-Hence, we see that a coupon bond is equivalent to a [[An Asset Allocation Primer|portfolio]] of zero-coupon bonds.  
+Hence, we see that a coupon bond is equivalent to a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of zero-coupon bonds.  
 
-The yield-to-maturity is defined as an interest rate per annum that equates the present value of future cash fows to the current market value. Using [[Interest Rate Quotations|continuous compounding]], the yield-tomaturity $y_{c}$ is defined by the relation  
+The yield-to-maturity is defined as an interest rate per annum that equates the present value of future cash fows to the current market value. Using [continuous compounding](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md), the yield-tomaturity $y_{c}$ is defined by the relation  
 $$
 B_{c}=\sum_{j=1}^{n}c_{j}\exp\{-y_{c}t_{j}\}+F\exp\{-y_{c}t_{n}\}.
 $$  
 
-If for instance the i $\cdot_{j},~j=1,\dots,n$ are expressed in years, then $y_{c}$ is an annual continuously compounded yield-to-maturity (with the continuously compounded [[Continuously Compounding Interest|annual interest rate]], $r(T)$ defined by the relation $p(0,T)=\exp\left\{-r(T)\left(T/365\right)\right\}$  
+If for instance the i $\cdot_{j},~j=1,\dots,n$ are expressed in years, then $y_{c}$ is an annual continuously compounded yield-to-maturity (with the continuously compounded [annual interest rate](../Financial%20Instruments/Review%20Session%20Notes/Continuously%20Compounding%20Interest.md), $r(T)$ defined by the relation $p(0,T)=\exp\left\{-r(T)\left(T/365\right)\right\}$  
 
-The [[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]] is defined as the relationship between the yield-to-maturity on a zero-coupon bond and the bond's maturity. Normally, this yields an upward sloping curve (as in figure 5.1), but flat and downward sloping curves have also been observed.  
+The [term structure of interest rates](6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md) is defined as the relationship between the yield-to-maturity on a zero-coupon bond and the bond's maturity. Normally, this yields an upward sloping curve (as in figure 5.1), but flat and downward sloping curves have also been observed.  
 
-In constructing the [[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]], we face the additional problem that in. most economies no zero-coupon bonds with maturity greater than one year are traded (in the USA, Treasury bills are only traded with maturity up to one year). We can, however, use prices of. coupon bonds and invert formula (5.1) for zero-coupon prices. In practice, additional complications. arise, since the maturities of coupon bonds are not equally spaced and trading in bonds with some maturities may be too thin to give reliable prices. We refer the reader to [[Credit Risk Models and the Valuation of Credit  Default Swap Contracts|Jarrow and Turnbull]] (2000) for further discussion of these issues..  
+In constructing the [term structure of interest rates](6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md), we face the additional problem that in. most economies no zero-coupon bonds with maturity greater than one year are traded (in the USA, Treasury bills are only traded with maturity up to one year). We can, however, use prices of. coupon bonds and invert formula (5.1) for zero-coupon prices. In practice, additional complications. arise, since the maturities of coupon bonds are not equally spaced and trading in bonds with some maturities may be too thin to give reliable prices. We refer the reader to [Jarrow and Turnbull](Fixed%20Income%20Derivatives/Credit%20Risk%20Models%20and%20the%20Valuation%20of%20Credit%20%20Default%20Swap%20Contracts.md) (2000) for further discussion of these issues..  
 
 ![](9d3a8c6cd69f86d00cca9e93898e1b416c35a057dd374220e290ac1e0ae55b2c.jpg)  
 Figure 5.1: Yield curve  
 
 # 5.1.2 Mathematical Modelling  
 
-Let $(\Omega,{\mathcal{F}},I P,I F)$ be a [[Some Discrete-Time Stochastic Processes|filtered probability space]] with a filtration $\boldsymbol{F}=(\mathcal{F}_{t})_{t\le T^{*}}$ satisfying the usual conditions (used to model the flow of information) and fix a terminal time horizon $T^{*}$ .We assume that all processes are defined on this [[Uncertainty Information and Stochastic Processes|probability space]]. The basic building blocks for our relative [[Arbitrage Pricing of Derivatives|pricing]] approach, zero-coupon bonds, are defined as follows..  
+Let $(\Omega,{\mathcal{F}},I P,I F)$ be a [filtered probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Some%20Discrete-Time%20Stochastic%20Processes.md) with a filtration $\boldsymbol{F}=(\mathcal{F}_{t})_{t\le T^{*}}$ satisfying the usual conditions (used to model the flow of information) and fix a terminal time horizon $T^{*}$ .We assume that all processes are defined on this [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md). The basic building blocks for our relative [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) approach, zero-coupon bonds, are defined as follows..  
 
 Definition 5.1.1. A zero-coupon bond with maturity date. $T$ , also called a. $T$ -bond, is a contract that guarantees the holder a cash payment of one unit on the date $T$ .The price at time. $t$ of a bond. with maturity date $T$ is denoted by. $p(t,T)$  
 
 Obviously we have $p(t,t)=1$ for all $t$ . We shall assume that the price process $p(t,T),t\in[0,T]$ is adapted and strictly positive and that for every fixed $t$ $p(t,T)$ is continuously differentiable in the $T$ variable.  
 
-Based on [[Arbitrage Pricing of Derivatives|arbitrage]] considerations (recall our basic aim is to construct a market model that is free of [[Arbitrage Pricing of Derivatives|arbitrage]]), we now define several risk-free [[Interest Rate Quotations|interest rates]]. Given three dates $t<T_{1}<T_{2}$ the basic question is: what is the [[Financial Instruments|risk-free rate of return]], determined at the contract time $t$ , over the interval $[T_{1},T_{2}]$ of an [[An Asset Allocation Primer|investment]] of $^{1}$ at time $T_{1}$ ? To answer this question we consider the [[Arbitrage Pricing of Derivatives|arbitrage]] Table 5.1 below (compare $\S1.3$ for the use of [[Arbitrage Pricing of Derivatives|arbitrage]] tables).  
+Based on [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) considerations (recall our basic aim is to construct a market model that is free of [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)), we now define several risk-free [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md). Given three dates $t<T_{1}<T_{2}$ the basic question is: what is the [risk-free rate of return](../Financial%20Instruments/Financial%20Instruments.md), determined at the contract time $t$ , over the interval $[T_{1},T_{2}]$ of an [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of $^{1}$ at time $T_{1}$ ? To answer this question we consider the [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) Table 5.1 below (compare $\S1.3$ for the use of [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) tables).  
 
-Table 5.1: [[Arbitrage Pricing of Derivatives|Arbitrage]] table for forward rates   
+Table 5.1: [Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) table for forward rates   
 
 
 <html><body><table><tr><td>Time</td><td>t</td><td>T1</td><td>T2</td></tr><tr><td></td><td>Buy p(t,Ti)</td><td>T2 bonds</td><td>Receive p(t,T1)</td></tr><tr><td>Netinvestment</td><td>0</td><td>-1</td><td>p(t,T1)</td></tr></table></body></html>  
 
-To exclude [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]], the equivalent constant rate of interest $R$ over this period (we pay out 1 at time $T_{1}$ and receive $e^{R(T_{2}-T_{1})}$ at $T_{2}$ ) has thus to be given by  
+To exclude [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md), the equivalent constant rate of interest $R$ over this period (we pay out 1 at time $T_{1}$ and receive $e^{R(T_{2}-T_{1})}$ at $T_{2}$ ) has thus to be given by  
 $$
 e^{R(T_{2}-T_{1})}=\frac{p(t,T_{1})}{p(t,T_{2})}.
 $$  
 
 We formalize this in:  
 
-Definition 5.1.2.. (i) The [[Forward Points in Currency|forward rate]] for the period $[T_{1},T_{2}]$ as seen at time at. $t$ is defined as.  
+Definition 5.1.2.. (i) The [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) for the period $[T_{1},T_{2}]$ as seen at time at. $t$ is defined as.  
 $$
 R(t;T_{1},T_{2})=-\frac{\log p(t,T_{2})-\log p(t,T_{1})}{T_{2}-T_{1}}.
 $$  
 
-(ii) The [[The Foreign Exchange Market Annotations|spot rate]] $R(T_{1},T_{2})$ , for the period $[T_{1},T_{2}]$ is defined as  
+(ii) The [spot rate](../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) $R(T_{1},T_{2})$ , for the period $[T_{1},T_{2}]$ is defined as  
 $$
 R(T_{1},T_{2})=R(T_{1};T_{1},T_{2}){}.
 $$  
 
-(ii) The instantaneous [[Forward Points in Currency|forward rate]] with maturity $T$ , at time $t$ , is defined by  
+(ii) The instantaneous [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) with maturity $T$ , at time $t$ , is defined by  
 $$
 f(t,T)=-\frac{\partial\log p(t,T)}{\partial T}.
 $$  
 
-(iv) The instantaneous [[An Overview of the Vasicek Short Rate Model|short rate]] at time $t$ is defined by  
+(iv) The instantaneous [short rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) at time $t$ is defined by  
 $$
 r(t)=f(t,t).
 $$  
@@ -3910,7 +3910,7 @@ $$
 B(t)=\exp\left\{\intop_{0}^{t}r(s)d s\right\}.
 $$  
 
-The interpretation of the money market account is a strategy of instantaneously reinvesting at the current [[An Overview of the Vasicek Short Rate Model|short rate]].  
+The interpretation of the money market account is a strategy of instantaneously reinvesting at the current [short rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md).  
 
 Lemma 5.1.1. For $t\leq s\leq T$ we have  
 $$
@@ -3922,14 +3922,14 @@ $$
 p(t,T)=\exp\left\{-\intop_{t}^{T}f(t,s)d s\right\}.
 $$  
 
-In what follows, we model the above processes in a generalized [[Mathematical Modeling of Derivative Pricing|Black-Scholes]] framework. That is, we assume that. $W=(W_{1},\dots,W_{d})$ is a standard $d$ dimensional [[Continuous-Time Stochastic Processes|Brownian motion]] and the filtration $\bar{\mathcal{M}}$ is the augmentation of the filtration generated by $W(t)$ . The dynamics of the various. processes are given as follows:  
+In what follows, we model the above processes in a generalized [Black-Scholes](Mathematical%20Modeling%20of%20Derivative%20Pricing.md) framework. That is, we assume that. $W=(W_{1},\dots,W_{d})$ is a standard $d$ dimensional [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) and the filtration $\bar{\mathcal{M}}$ is the augmentation of the filtration generated by $W(t)$ . The dynamics of the various. processes are given as follows:  
 
 Short-rate Dynamics:  
 $$
 \begin{array}{r}{d r(t)=a(t)d t+b(t)d W(t),}\end{array}
 $$  
 
-Bond-[[Chapter 47 - Asset Price Dynamics|price Dynamics]]:  
+Bond-[price Dynamics](Derivatives/Part%20XII%20-%20Price%20Dynamics/Chapter%2047%20-%20Asset%20Price%20Dynamics.md):  
 $$
 d p(t,T)=p(t,T)\left\{m(t,T)d t+v(t,T)d W(t)\right\},
 $$  
@@ -3953,7 +3953,7 @@ $$
 \left\{\begin{array}{l l}{\alpha(t,T)}&{=v_{T}(t,T)v(t,T)-m_{T}(t,T),}\ {\sigma(t,T)}&{=-v_{T}(t,T).}\end{array}\right.
 $$  
 
-(ii) If $f(t,T)$ satisfies (5.4), then the [[An Overview of the Vasicek Short Rate Model|short rate]] satisfies  
+(ii) If $f(t,T)$ satisfies (5.4), then the [short rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) satisfies  
 $$
 \begin{array}{r}{d r(t)=a(t)d t+b(t)d W(t),}\end{array}
 $$  
@@ -4027,11 +4027,11 @@ $$
 d Z(t,T)=(r(t)+A(t,T))d t+S(t,T)d W(t).
 $$  
 
-Now we can apply [[Determining the Stochastic Process for a Forward Contract from Ito’s Lemma|Ito's lemma]] to the process $p(t,T)=\exp\{Z(t,T)\}$ to complete the proof.  
+Now we can apply [Ito's lemma](Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md) to the process $p(t,T)=\exp\{Z(t,T)\}$ to complete the proof.  
 
 # 5.1.3 Bond Pricing, Martingale Measures and Trading Strategies  
 
-We will now examine the mathematical structure of our bond-market model in more detail. As. usual, our first task is to find a convenient characterization of the no-[[Arbitrage Pricing of Derivatives|arbitrage]] assumption. By Theorem 4.2.1, [[Exercises|absence of arbitrage]] is guaranteed by the existence of an equivalent martingale. measure $\mathbb{Q}$ . Recall that by definition an equivalent martingale measure has to satisfy $\mathbb{Q}\sim\mathcal{N}$ and the discounted price processes (with respect to a suitable numeraire) of the basic securities have. to be $\mathbb{Q}$ -martingales. For the bond market this implies that all zero-coupon bonds with maturities. $0\le T\le T^{*}$ have to be martingales.  
+We will now examine the mathematical structure of our bond-market model in more detail. As. usual, our first task is to find a convenient characterization of the no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) assumption. By Theorem 4.2.1, [absence of arbitrage](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) is guaranteed by the existence of an equivalent martingale. measure $\mathbb{Q}$ . Recall that by definition an equivalent martingale measure has to satisfy $\mathbb{Q}\sim\mathcal{N}$ and the discounted price processes (with respect to a suitable numeraire) of the basic securities have. to be $\mathbb{Q}$ -martingales. For the bond market this implies that all zero-coupon bonds with maturities. $0\le T\le T^{*}$ have to be martingales.  
 
 More precisely, taking the risk-free bank account $B(t)$ as numeraire we have  
 
@@ -4063,18 +4063,18 @@ to pay in using this approach lies in the statistical problems associated with p
 
 # 5.2 Short-rate Models  
 
-Following our introductory remarks, we now look at models of the [[An Overview of the Vasicek Short Rate Model|short rate]] of the type  
+Following our introductory remarks, we now look at models of the [short rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) of the type  
 $$
 d r(t)=a(t,r(t))d t+b(t,r(t))d W(t),
 $$  
 
-with functions $a,b$ sufficiently regular and $W$ a real-valued [[Continuous-Time Stochastic Processes|Brownian motion]].  
+with functions $a,b$ sufficiently regular and $W$ a real-valued [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md).  
 
-The crucial point in this setting is the assumption on the probability measure under which the [[An Overview of the Vasicek Short Rate Model|short rate]] is modelled.  
+The crucial point in this setting is the assumption on the probability measure under which the [short rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) is modelled.  
 
-If we model under the objective probability measure $\mathcal{W}$ and assume that a locally [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] $B$ (the money market) exists, we face the question whether in an [[Exercises|arbitrage-free market]] bond prices - quite naturally viewed as [[Chapter 9 Arbitrage and Hedging With Options|derivatives]] with the [[An Overview of the Vasicek Short Rate Model|short rate]] as underlying - are uniquely determined. In contrast to the equity market setting, with a risky asset and a [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] available for trading, the [[An Overview of the Vasicek Short Rate Model|short rate]] $r$ is not the price of a traded asset, and hence we only can set up portfolios consisting of putting money in the bank account. We thus face an incomplete market situation, and the best we can hope for is to find consistency requirements for bonds of different maturity. Given a single 'benchmark' bond, we should then be able to price all other bonds relative to this given bond..  
+If we model under the objective probability measure $\mathcal{W}$ and assume that a locally [risk-free asset](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) $B$ (the money market) exists, we face the question whether in an [arbitrage-free market](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) bond prices - quite naturally viewed as [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) with the [short rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) as underlying - are uniquely determined. In contrast to the equity market setting, with a risky asset and a [risk-free asset](2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) available for trading, the [short rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) $r$ is not the price of a traded asset, and hence we only can set up portfolios consisting of putting money in the bank account. We thus face an incomplete market situation, and the best we can hope for is to find consistency requirements for bonds of different maturity. Given a single 'benchmark' bond, we should then be able to price all other bonds relative to this given bond..  
 
-On the other hand, if we assume that the [[An Overview of the Vasicek Short Rate Model|short rate]] is modelled under an equivalent martingale measure, we can immediately price all contingent claims via the risk-neutral valuation formula. The drawback in this case is the question of calibrating the model (we do not observe the parameters of the process under an equivalent martingale measure, but rather under the objective probability measure!).  
+On the other hand, if we assume that the [short rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) is modelled under an equivalent martingale measure, we can immediately price all contingent claims via the risk-neutral valuation formula. The drawback in this case is the question of calibrating the model (we do not observe the parameters of the process under an equivalent martingale measure, but rather under the objective probability measure!).  
 
 # 5.2.1 The Term-structure Equation  
 
@@ -4083,12 +4083,12 @@ $$
 L(t)=\exp\left\{-\intop_{0}^{t}\gamma(u)d W(u)-\frac{1}{2}\intop_{0}^{t}\gamma(u)^{2}d u\right\},\quad0\leq t\leq T.
 $$  
 
-Assume now that $\gamma$ is given as $\gamma(t)=\lambda(t,r(t))$ , with a sufficiently smooth function $\lambda$ .(We will use the notation $\mathbb{Q}(\lambda)$ to emphasize the dependence of the equivalent martingale measure on $\lambda$ By Girsanov's Theorem 4.1.4, we know that $\begin{array}{r}{\tilde{W}=W+\int\lambda d t}\end{array}$ is a $\mathbb{Q}(\lambda)$ -[[Continuous-Time Stochastic Processes|Brownian motion]]. So the $\mathbb{Q}(\lambda)$ -dynamics of $r$ are given by  
+Assume now that $\gamma$ is given as $\gamma(t)=\lambda(t,r(t))$ , with a sufficiently smooth function $\lambda$ .(We will use the notation $\mathbb{Q}(\lambda)$ to emphasize the dependence of the equivalent martingale measure on $\lambda$ By Girsanov's Theorem 4.1.4, we know that $\begin{array}{r}{\tilde{W}=W+\int\lambda d t}\end{array}$ is a $\mathbb{Q}(\lambda)$ -[Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md). So the $\mathbb{Q}(\lambda)$ -dynamics of $r$ are given by  
 $$
 d r(t)=\{a(t,r(t))-b(t,r(t))\lambda(t,r(t))\}d t+b(t,r(t))d\tilde{W}(t).
 $$  
 
-Now consider a $T$ -contingent claim $X=\Phi(r(T))$ , for some sufficiently smooth function $\Phi:{\cal{R}}\rightarrow$ $\mathbb{R}^{+}$ . We know that using the risk-neutral valuation formula we obtain [[Arbitrage Pricing of Derivatives|arbitrage]]-free prices for any contingent claim by applying the expectation operator under an equivalent martingale measure (to the discounted time $T$ value). An slight modification of the argument used to find the BlackScholes PDE yields, for any $\mathbb{Q}(\lambda)$  
+Now consider a $T$ -contingent claim $X=\Phi(r(T))$ , for some sufficiently smooth function $\Phi:{\cal{R}}\rightarrow$ $\mathbb{R}^{+}$ . We know that using the risk-neutral valuation formula we obtain [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free prices for any contingent claim by applying the expectation operator under an equivalent martingale measure (to the discounted time $T$ value). An slight modification of the argument used to find the BlackScholes PDE yields, for any $\mathbb{Q}(\lambda)$  
 $$
 {\cal E}_{{\bf{Q}}(\lambda)}\left[\left.e^{-\int_{t}^{T}r(u)d u}\Phi(r(T))\right|\mathcal{F}_{t}\right]={\cal F}(t,r(t)),
 $$  
@@ -4098,7 +4098,7 @@ $$
 F_{t}+(a-b\lambda)F_{r}+\frac{1}{2}b^{2}F_{r r}-r F=0
 $$  
 
-and terminal condition $F(T,r)=\Phi(r)$ , for all $r\in\mathcal{M}$ . Suppose now that the price process $p(t,T)$ of a $T$ -bond is determined by the assessment, at time $t$ , of the segment. $\{r(\tau),t\leq\tau\leq T\}$ of the [[An Overview of the Vasicek Short Rate Model|short rate]] process over the term of the bond. So we assume  
+and terminal condition $F(T,r)=\Phi(r)$ , for all $r\in\mathcal{M}$ . Suppose now that the price process $p(t,T)$ of a $T$ -bond is determined by the assessment, at time $t$ , of the segment. $\{r(\tau),t\leq\tau\leq T\}$ of the [short rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) process over the term of the bond. So we assume  
 $$
 p(t,T)=F(t,r(t);T),
 $$  
@@ -4107,7 +4107,7 @@ with $F$ a sufficiently smooth function.
 
 Since we know that the value of a zero-coupon bond is one unit at maturity, we have the terminal condition $F(T,r;T)=1$ . Thus we have  
 
-Proposition 5.2.1 (Term-structure Equation). If there exists an equivalent martingale mea sure of type $\mathbb{Q}(\lambda)$ for the bond market (implying that the no-[[Arbitrage Pricing of Derivatives|arbitrage]] condition holds) and the price processes $p(t,T)$ of $T$ -bonds are given are given by a sufficiently smooth function $F$ as above, then $F$ will satisfy the partial differential equation (5.10) with terminal condition $F(T,r;T)=1$  
+Proposition 5.2.1 (Term-structure Equation). If there exists an equivalent martingale mea sure of type $\mathbb{Q}(\lambda)$ for the bond market (implying that the no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) condition holds) and the price processes $p(t,T)$ of $T$ -bonds are given are given by a sufficiently smooth function $F$ as above, then $F$ will satisfy the partial differential equation (5.10) with terminal condition $F(T,r;T)=1$  
 
 # 5.2.2 Martingale Modelling  
 
@@ -4116,14 +4116,14 @@ $$
 d r(t)=a(t,r(t))d t+b(t,r(t))d W(t)
 $$  
 
-with $W$ a (real-valued) $\mathbb{Q}$ -[[The Ornstein-Uhlenbeck (OU) Process|Wiener process]]. We can immediately apply the risk-neutral valuation technique to obtain the price process $\Pi_{X}(t)$ of any sufficiently integrable $T$ -contingent claim $X$ by computing the $\mathbb{Q}$ -expectation, i.e.  
+with $W$ a (real-valued) $\mathbb{Q}$ -[Wiener process](../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md). We can immediately apply the risk-neutral valuation technique to obtain the price process $\Pi_{X}(t)$ of any sufficiently integrable $T$ -contingent claim $X$ by computing the $\mathbb{Q}$ -expectation, i.e.  
 $$
 \Pi_{X}(t)=I E_{\pmb{Q}}\left[e^{-\int_{t}^{T}r(u)d u}X|\mathcal{F}_{t}\right].
 $$  
 
 If, additionally, the contingent claim is of the form $X=\Phi(r(T))$ with a sufficiently smooth function $\Phi$ , we obtain  
 
-Proposition 5.2.2 (Term-structure Equation). Consider $T$ -contingent claims of the form $X=\Phi(r(T))$ . Then [[Determining the Stochastic Process for a Forward Contract from Ito’s Lemma|arbitrage-free price]] processes are given by $\Pi_{X}(t)=F(t,r(t))$ , where $F$ is the solution of the partial differential equation  
+Proposition 5.2.2 (Term-structure Equation). Consider $T$ -contingent claims of the form $X=\Phi(r(T))$ . Then [arbitrage-free price](Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md) processes are given by $\Pi_{X}(t)=F(t,r(t))$ , where $F$ is the solution of the partial differential equation  
 $$
 F_{t}+a F_{r}+\frac{b^{2}}{2}F_{r r}-r F=0
 $$  
@@ -4140,14 +4140,14 @@ $$
 G_{t}+a G_{r}+\frac{b^{2}}{2}G_{r r}-r G=0\mathrm{and}G(S,r)=\operatorname*{max}\{F(S,r;T)-K,0\},\forall r\in I R.
 $$  
 
-So we are clearly in need of efficient methods of solving the above partial differential equations, or from a modelling point of view, we need short-rate models that facilate this computational task. Fortunately, there is a class of models, exhibiting an affine [[The Vasicek Model|term structure]] (ATS), which allows for simplification.  
+So we are clearly in need of efficient methods of solving the above partial differential equations, or from a modelling point of view, we need short-rate models that facilate this computational task. Fortunately, there is a class of models, exhibiting an affine [term structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) (ATS), which allows for simplification.  
 
 Definition 5.2.1. If bond prices are given as  
 $$
 p(t,T)=\exp{\left\{A(t,T)-B(t,T)r\right\}},\quad0\leq t\leq T,
 $$  
 
-with $A(t,T)$ and $B(t,T)$ are deterministic functions, we say that the model possesses an affine [[The Vasicek Model|term structure]].  
+with $A(t,T)$ and $B(t,T)$ are deterministic functions, we say that the model possesses an affine [term structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md).  
 
 Assuming that we have such a model in which both $a$ and $b^{2}$ are affine in $r$ , say $a(t,r)=$ $\alpha(t)-\beta(t)r$ and $b(t,r)=\sqrt{\gamma(t)+\delta(t)r}$ , we find that $A$ and $B$ are given as solutions of ordinary differential equations,  
 $$
@@ -4156,24 +4156,24 @@ $$
 
 The equation for $B$ is a Riccati equation, which can be solved analytically, see Ince (1944), s2.15, 12.51, A.21. Using the solution for $B$ we get $A$ by integrating.  
 
-Examples of short-rate models exhibiting an affine [[The Vasicek Model|term structure]] include the following.  
+Examples of short-rate models exhibiting an affine [term structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) include the following.  
 
-1. [[Vasicek Short Rate Model|Vasicek model]]: $d r=(\alpha-\beta r)d t+\gamma d W$   
+1. [Vasicek model](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Vasicek%20Short%20Rate%20Model.md): $d r=(\alpha-\beta r)d t+\gamma d W$   
 2. Cox-Ingersoll-Ross (CIR) model: $d r=(\alpha-\beta r)d t+\delta\sqrt{r}d W$   
 3. Ho-Lee model: $d r=\alpha(t)d t+\gamma d W$   
-4. Hull-White (extended [[The Vasicek Model|Vasicek]]) model: $d r=(\alpha(t)-\beta(t)r)d t+\gamma(t)d W$   
+4. Hull-White (extended [Vasicek](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md)) model: $d r=(\alpha(t)-\beta(t)r)d t+\gamma(t)d W$   
 5. Hull-White (extended CIR) model: $d r=(\alpha(t)-\beta(t)r)d t+\delta(t)\sqrt{r}d W$  
 
 # 5.3 Heath-Jarrow-Morton Methodology  
 
 # 5.3.1 The Heath-Jarrow-Morton Model Class  
 
-Modelling the [[The Vasicek Model|term structure]] with only one explanatory variable leads to various undesirable properties of the model (to say the least). Various authors have proposed models with more than one state variable, e.g. the [[An Overview of the Vasicek Short Rate Model|short rate]] and a long rate and/or intermediate rates. The. [[Implementing Heath, Jarrow & Merton (HJM) Model|Heath-Jarrow-Morton]] method (compare Heath, Jarrow, and Morton (1992)) is at the far end of. this spectrum - they propose using the entire [[Forward-Bucketo1s|forward rate curve]] as their (infinite-dimensional). state variable. More precisely, for any fixed. $T\leq T^{*}$ the dynamics of instantaneous, continuously. compounded forward rates $f(t,T)$ are exogenously given by.  
+Modelling the [term structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) with only one explanatory variable leads to various undesirable properties of the model (to say the least). Various authors have proposed models with more than one state variable, e.g. the [short rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) and a long rate and/or intermediate rates. The. [Heath-Jarrow-Morton](Fixed%20Income%20Derivatives/Implementing%20Heath,%20Jarrow%20&%20Merton%20(HJM)%20Model.md) method (compare Heath, Jarrow, and Morton (1992)) is at the far end of. this spectrum - they propose using the entire [forward rate curve](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Forward-Bucketo1s.md) as their (infinite-dimensional). state variable. More precisely, for any fixed. $T\leq T^{*}$ the dynamics of instantaneous, continuously. compounded forward rates $f(t,T)$ are exogenously given by.  
 $$
 d f(t,T)=\alpha(t,T)d t+\sigma(t,T)d W(t),
 $$  
 
-where $W$ is a $d$ -dimensional [[Continuous-Time Stochastic Processes|Brownian motion]] with respect to the underlying (objective) probability measure $\mathcal{l}^{p}$ and $\alpha(t,T)$ resp. $\sigma(t,T)$ are adapted $\mathscr{R}$ resp. $\mathit{\Pi}_{\mathit{I R}^{d}}$ -valued processes. For any fixed maturity $T$ , the initial condition of the [[Implementing Heath, Jarrow & Merton (HJM) Model|stochastic differential equation]] (5.4) is determined. by the current value of the empirical (observed) [[Forward Points in Currency|forward rate]] for the future date. $T$ which prevails at time 0. Observe that we have defined an infinite-dimensional stochastic system, and that by construction we obtain a perfect fit to the observed [[The Vasicek Model|term structure]] (thus avoiding the problem of. inverting the yield curve)..  
+where $W$ is a $d$ -dimensional [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) with respect to the underlying (objective) probability measure $\mathcal{l}^{p}$ and $\alpha(t,T)$ resp. $\sigma(t,T)$ are adapted $\mathscr{R}$ resp. $\mathit{\Pi}_{\mathit{I R}^{d}}$ -valued processes. For any fixed maturity $T$ , the initial condition of the [stochastic differential equation](Fixed%20Income%20Derivatives/Implementing%20Heath,%20Jarrow%20&%20Merton%20(HJM)%20Model.md) (5.4) is determined. by the current value of the empirical (observed) [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) for the future date. $T$ which prevails at time 0. Observe that we have defined an infinite-dimensional stochastic system, and that by construction we obtain a perfect fit to the observed [term structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) (thus avoiding the problem of. inverting the yield curve)..  
 
 The exogenous specification of the family of forward rates $\{f(t,T);T>0\}$ is equivalent to a specification of the entire family of bond prices $\{p(t,T);T>0\}$ . Furthermore, by Proposition 5.1.1 we obtain the dynamics of the bond-price processes as  
 $$
@@ -4184,9 +4184,9 @@ where
 $$
 m(t,T)=r(t)+A(t,T)+\frac{1}{2}\left\|S(t,T)\right\|^{2},
 $$  
-$\begin{array}{r}{A(t,T)=-\int_{t}^{T}\alpha(t,s)d s}\end{array}$ and $\begin{array}{r}{S(t,T)=-\int_{t}^{T}\sigma(t,s)d s}\end{array}$ (compare (5.6)).We now explore what conditions we must impose on the coefficients in order to ensure the existence of an equivalent martingale measure with respect to a suitable numeraire. By Theorem 4.2.1, we then could conclude that our bond market model is free of [[Arbitrage Pricing of Derivatives|arbitrage]].  
+$\begin{array}{r}{A(t,T)=-\int_{t}^{T}\alpha(t,s)d s}\end{array}$ and $\begin{array}{r}{S(t,T)=-\int_{t}^{T}\sigma(t,s)d s}\end{array}$ (compare (5.6)).We now explore what conditions we must impose on the coefficients in order to ensure the existence of an equivalent martingale measure with respect to a suitable numeraire. By Theorem 4.2.1, we then could conclude that our bond market model is free of [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md).  
 
-As a first possible choice of numeraire, we use the [[Appendix 5.C Forward And Futures Prices When Interest Rates Are Random|money-market account]] $B$ (assuming that there exists a measurable version of. $f(t,t)$ in $[0,T^{*}]$ ), given by  
+As a first possible choice of numeraire, we use the [money-market account](Appendices/Appendix%205.C%20Forward%20And%20Futures%20Prices%20When%20Interest%20Rates%20Are%20Random.md) $B$ (assuming that there exists a measurable version of. $f(t,t)$ in $[0,T^{*}]$ ), given by  
 $$
 B(t)=\exp\left\{\intop_{0}^{t}f(u,u)d u\right\}=\exp\left\{\intop_{0}^{t}r(u)d u\right\}.
 $$  
@@ -4215,7 +4215,7 @@ $$
 d Z=Z\left(A+\frac{1}{2}\left\|S\right\|^{2}-S\lambda\right)d t+Z S d\tilde{W},
 $$  
 
-with $\tilde{W}$ a $\mathbb{Q}$ [[Continuous-Time Stochastic Processes|Brownian motion]]. In order for. $Z$ to be a $\mathbb{Q}$ -martingale, the drift coefficient in (5.17 has to be zero, so we obtain.  
+with $\tilde{W}$ a $\mathbb{Q}$ [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md). In order for. $Z$ to be a $\mathbb{Q}$ -martingale, the drift coefficient in (5.17 has to be zero, so we obtain.  
 $$
 A(t,T)+\frac{1}{2}\left\|S(t,T)\right\|^{2}=S(t,T)\lambda(t).
 $$  
@@ -4227,22 +4227,22 @@ $$
 
 which after rearranging is (5.16).  
 
-It is possible to interpret. $\lambda$ as a risk premium, which has to be exogenously specified to allow the. choice of a particular risk-neutral martingale measure. In view of (5.16) this leads to a restriction on [[Black-Scholes Model|drift and volatility]] coefficients in the specification of the [[Forward Points in Currency|forward rate]] dynamics (5.4). The particular choice $\lambda\equiv0$ means that we assume we model directly under a risk-neutral martingale measure $\mathbb{Q}$ . In that case the relations between the various infinitesimal characteristics for the. [[Forward Points in Currency|forward rate]] are known as the '[[Implementing Heath, Jarrow & Merton (HJM) Model|Heath-Jarrow-Morton]] drift condition'..  
+It is possible to interpret. $\lambda$ as a risk premium, which has to be exogenously specified to allow the. choice of a particular risk-neutral martingale measure. In view of (5.16) this leads to a restriction on [drift and volatility](../Credit%20Markets/Black-Scholes%20Model.md) coefficients in the specification of the [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) dynamics (5.4). The particular choice $\lambda\equiv0$ means that we assume we model directly under a risk-neutral martingale measure $\mathbb{Q}$ . In that case the relations between the various infinitesimal characteristics for the. [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) are known as the '[Heath-Jarrow-Morton](Fixed%20Income%20Derivatives/Implementing%20Heath,%20Jarrow%20&%20Merton%20(HJM)%20Model.md) drift condition'..  
 
-Theorem 5.3.2 ([[Implementing Heath, Jarrow & Merton (HJM) Model|Heath-Jarrow-Morton]]). Assume that $\mathbb{Q}$ is a risk-neutral martingale measure.   
+Theorem 5.3.2 ([Heath-Jarrow-Morton](Fixed%20Income%20Derivatives/Implementing%20Heath,%20Jarrow%20&%20Merton%20(HJM)%20Model.md)). Assume that $\mathbb{Q}$ is a risk-neutral martingale measure.   
 for the bond market and that the forward-rate dynamics under $\mathbb{Q}$ are given by.  
 $$
 d f(t,T)=\alpha(t,T)d t+\sigma(t,T)d\tilde{W}(t),
 $$  
 
-with Wa $\mathbb{Q}$ -[[Continuous-Time Stochastic Processes|Brownian motion]]. Then we have:  
+with Wa $\mathbb{Q}$ -[Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md). Then we have:  
 
-(i) the [[Implementing Heath, Jarrow & Merton (HJM) Model|Heath-Jarrow-Morton]] drift condition  
+(i) the [Heath-Jarrow-Morton](Fixed%20Income%20Derivatives/Implementing%20Heath,%20Jarrow%20&%20Merton%20(HJM)%20Model.md) drift condition  
 $$
 \alpha(t,T)=\sigma(t,T)\intop_{t}^{T}\sigma(t,s)d s,\:\:\:0\leq t\leq T\leq T^{*},\:\:Q\gets a.s.,
 $$  
 
-(ii) and bond-[[Chapter 47 - Asset Price Dynamics|price dynamics]] under $\mathbb{Q}$ are given by  
+(ii) and bond-[price dynamics](Derivatives/Part%20XII%20-%20Price%20Dynamics/Chapter%2047%20-%20Asset%20Price%20Dynamics.md) under $\mathbb{Q}$ are given by  
 $$
 d p(t,T)=p(t,T)r(t)d t+p(t,T)S(t,T)d\tilde{W}(t),
 $$  
@@ -4256,9 +4256,9 @@ $$
 Z^{*}(t,T)=\frac{p(t,T)}{p(t,T^{*})},\forall t\in[0,T],
 $$  
 
-is a martingale under $\mathbb{Q}^{*}$ for all $T\leq T^{*}$ . We will call such a measure forward risk-neutral mar-. tingale measure. In this setting, a savings account is not used and the existence of a martingale measure $\mathbb{Q}^{*}$ guarantees that there are no [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]] between bonds of different maturities.  
+is a martingale under $\mathbb{Q}^{*}$ for all $T\leq T^{*}$ . We will call such a measure forward risk-neutral mar-. tingale measure. In this setting, a savings account is not used and the existence of a martingale measure $\mathbb{Q}^{*}$ guarantees that there are no [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md) between bonds of different maturities.  
 
-In order to find sufficient conditions for the existence of such a martingale measure, we follow the same programme as above. By (5.13) bond [[Chapter 47 - Asset Price Dynamics|price dynamics]] under the original probability measure $\mathcal{W}$ are given as  
+In order to find sufficient conditions for the existence of such a martingale measure, we follow the same programme as above. By (5.13) bond [price dynamics](Derivatives/Part%20XII%20-%20Price%20Dynamics/Chapter%2047%20-%20Asset%20Price%20Dynamics.md) under the original probability measure $\mathcal{W}$ are given as  
 $$
 d p(t,T)=p(t,T)\left\{m(t,T)d t+S(t,T)d W(t)\right\},
 $$  
@@ -4299,17 +4299,17 @@ $$
 
 # 5.4.1 Gaussian HJM Framework  
 
-Assume that the dynamics of the [[Forward Points in Currency|forward rate]] are given under a risk-neutral martingale measure $\mathbb{Q}$ by  
+Assume that the dynamics of the [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) are given under a risk-neutral martingale measure $\mathbb{Q}$ by  
 $$
 d f(t,T)=\alpha(t,T)d t+\sigma(t,T)d\tilde{W}(t),\quad f(0,T)=\hat{f}(0,T),
 $$  
 
-with all processes real-valued. We restrict the class of models by assuming that the [[Forward Points in Currency|forward rate]]'s volatility is deterministic. The HJM-drift condition (5.20) and the integrated form of the [[Forward Points in Currency|forward rate]] (compare (5.7)) lead to  
+with all processes real-valued. We restrict the class of models by assuming that the [forward rate](../Clippings/Forward%20Points%20in%20Currency.md)'s volatility is deterministic. The HJM-drift condition (5.20) and the integrated form of the [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) (compare (5.7)) lead to  
 $$
 f(t,t)=r(t)=f(0,t)+\intop_{0}^{t}(-\sigma(u,t)S(u,t))d u+\intop_{0}^{t}\sigma(u,t)d\Tilde{W}(u),
 $$  
 
-which implies that the short-rate (as well as the forward rates. $f(t,T))$ have Gaussian probability laws (hence the terminology). By Theorem 5.3.2, bond-[[Chapter 47 - Asset Price Dynamics|price dynamics]] under $\mathbb{Q}$ are given by  
+which implies that the short-rate (as well as the forward rates. $f(t,T))$ have Gaussian probability laws (hence the terminology). By Theorem 5.3.2, bond-[price dynamics](Derivatives/Part%20XII%20-%20Price%20Dynamics/Chapter%2047%20-%20Asset%20Price%20Dynamics.md) under $\mathbb{Q}$ are given by  
 $$
 d p(t,T)=p(t,T)\left\{r(t)d t+S(t,T)d\tilde{W}(t)\right\},
 $$  
@@ -4326,7 +4326,7 @@ $$
 C(0)=p(0,T^{*})Q^{*}(A)-K p(0,T)Q^{T}(A),
 $$  
 
-with $A=\{\omega:p(T,T^{*})>K\}$ and $\\\mathbb{Q}^{T}$ resp. $\mathbb{Q}^{*}$ the $T$ - resp. $T^{*}$ -forward [[Verifying Martingale Property with Q|risk-neutral measure]]. Now  
+with $A=\{\omega:p(T,T^{*})>K\}$ and $\\\mathbb{Q}^{T}$ resp. $\mathbb{Q}^{*}$ the $T$ - resp. $T^{*}$ -forward [risk-neutral measure](Verifying%20Martingale%20Property%20with%20Q.md). Now  
 $$
 \tilde{Z}(t,T)=\frac{p(t,T^{*})}{p(t,T)}
 $$  
@@ -4351,7 +4351,7 @@ $$
 \tilde{Z}(T,T)=\frac{p(0,T^{*})}{p(0,T)}\exp\left\{-\int_{0}^{T}(S-S^{*})d W^{T}(t)-\frac{1}{2}\int_{0}^{T}(S-S^{*})^{2}d t\right\}
 $$  
 
-(with $W^{T}$ a $\\\ Q^{T}$ -[[Continuous-Time Stochastic Processes|Brownian motion]]). The stochastic integral in the exponential is Gaussian with zero mean and variance.  
+(with $W^{T}$ a $\\\ Q^{T}$ -[Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md)). The stochastic integral in the exponential is Gaussian with zero mean and variance.  
 $$
 \Sigma^{2}(T)=\int_{0}^{T}(S(t,T)-S(t,T^{*}))^{2}d t.
 $$  
@@ -4412,12 +4412,12 @@ with parameters given as above.
 
 # 5.4.2 Swaps  
 
-This section is devoted to the [[Arbitrage Pricing of Derivatives|pricing]] of swaps. We consider the case of a [[Chapter 39 - Swaptions, Forward Swaps, and MBS|forward swap]] settled in arrears. Such a contingent claim is characterized by:.  
+This section is devoted to the [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of swaps. We consider the case of a [forward swap](Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2039%20-%20Swaptions,%20Forward%20Swaps,%20and%20MBS.md) settled in arrears. Such a contingent claim is characterized by:.  
 
 a fixed time $t$ , the contract time,   
 dates $T_{0}<T_{1},...<T_{n}$ , equally distanced $T_{i+1}-T_{i}=\delta$ $R$ , a prespecified fixed rate of interest, $K$ , a nominal amount.  
 
-A [[Currency Swaps|swap contract]]. $S$ with $K$ and $R$ fixed for the period $T_{0},\ldots T_{n}$ is a sequence of payments, where the amount of money paid out at. $T_{i+1}$ $i=0,\ldots,n-1$ is defined by.  
+A [swap contract](../Financial%20Instruments/Review%20Session%20Notes/Currency%20Swaps.md). $S$ with $K$ and $R$ fixed for the period $T_{0},\ldots T_{n}$ is a sequence of payments, where the amount of money paid out at. $T_{i+1}$ $i=0,\ldots,n-1$ is defined by.  
 $$
 X_{i+1}=K\delta(L(T_{i},T_{i})-R).
 $$  
@@ -4427,12 +4427,12 @@ $$
 p(T_{i},T_{i+1})=\frac{1}{1+\delta L(T_{i},T_{i})}.
 $$  
 
-We do not need to specify a particular interest-rate model here, all we need is the existence of a risk-neutral martingale measure. Using the [[Financial Mathematics Course|risk-neutral pricing]] formula we obtain (we may use $K=1$  
+We do not need to specify a particular interest-rate model here, all we need is the existence of a risk-neutral martingale measure. Using the [risk-neutral pricing](.md) formula we obtain (we may use $K=1$  
 $$
 \begin{array}{r c l}{{\displaystyle\Pi(t,S)}}&{{=}}&{{\displaystyle\sum_{i=1}^{n}\hfil\hfil\hfil\hfil B_{Q}\left[e^{-\int_{t}^{T}r(s)d s}\delta\big(L(T_{i},T_{i})-R\big)\bigg|\mathcal{F}_{t}\right]}}\ {{}}&{{=}}&{{\displaystyle\sum_{i=1}^{n}\hfil\hfil B_{Q}\left[\left.\mathbb{E}_{Q}\left[e^{-\int_{T_{i-1}^{T}r(s)d s}^{T_{i}}\Bigg|\mathcal{F}_{T_{i-1}}}\right]\right.\right.}}\ {{}}&{{}}&{{\displaystyle\left.\times e^{-\int_{t}^{T}r(s)d s}\left(\frac{1}{p(T_{i-1},T_{i})}-(1+\delta R)\right)\right|\mathcal{F}_{t}\right]}}\ {{}}&{{=}}&{{\displaystyle\sum_{i=1}^{n}\hfil\hfil(p(t,T_{i-1})-(1+\delta R)p(t,T_{i}))=p(t,T_{0})-\sum_{i=1}^{n}c_{i}p(t,T_{i}),}}\end{array}
 $$  
 
-with $c_{i}=\delta R,i=1,\ldots,n-1$ and $c_{n}=1+\delta R$ .So a swap is a linear combination of zero-. coupon bonds, and we obtain its price accordingly. This again shows the power of risk-neutral. [[Arbitrage Pricing of Derivatives|pricing]]. Using the linearity of the expectation operator we can reduce complicated claims to sums of simpler ones.  
+with $c_{i}=\delta R,i=1,\ldots,n-1$ and $c_{n}=1+\delta R$ .So a swap is a linear combination of zero-. coupon bonds, and we obtain its price accordingly. This again shows the power of risk-neutral. [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). Using the linearity of the expectation operator we can reduce complicated claims to sums of simpler ones.  
 
 # 5.4.3 Caps  
 
@@ -4446,7 +4446,7 @@ $$
 \begin{array}{r c l}{{X}}&{{=}}&{{\delta(L-R)^{+}=\delta\left(\displaystyle\frac{1-p}{\delta p}-R\right)^{+}}}\ {{}}&{{=}}&{{\left(\displaystyle\frac{1}{p}-(1+\delta R)\right)^{+}=\left(\displaystyle\frac{1}{p}-R^{*}\right)^{+}.}}\end{array}
 $$  
 
-The [[Financial Mathematics Course|risk-neutral pricing]] formula leads to  
+The [risk-neutral pricing](.md) formula leads to  
 $$
 \begin{array}{r l}{\Pi_{C}(t)}&{=E_{\mathbf{Q}}\left[e^{-\int_{t}^{\Pi_{r}}r(s)d s}\left(\frac{1}{p}-R^{*}\right)^{*}\Bigg|\mathcal{F}_{t}\right]}\ {=}&{E_{\mathbf{Q}}\left[E_{\mathbf{Q}}\left[e^{-\int_{T_{n}^{\mathsf{T}}}^{\Pi_{r}}r(s)d s}\Bigg|\mathcal{F}_{T_{n}}\right]e^{-\int_{T_{n}^{\mathsf{T}}}^{\Pi_{r}}r(s)d s}\left(\frac{1}{p}-R^{*}\right)^{*}\Bigg|\mathcal{F}_{t}\right]}\ {=}&{E_{\mathbf{Q}}\Bigg[p(T_{0},T_{1})e^{-\int_{T_{n}^{\mathsf{T}}}^{\Pi_{r}}r(s)d s}\left(\frac{1}{p}-R^{*}\right)^{*}\Bigg|\mathcal{F}_{t}\Bigg]}\ {=}&{E_{\mathbf{Q}}\left[e^{-\int_{T_{n}^{\mathsf{T}}}^{\Pi_{r}}r(s)d s}\left(1-p R^{*}\right)^{*}\Bigg|\mathcal{F}_{t}\right]}\ {=}&{R^{*}E_{\mathbf{Q}}\left[e^{-\int_{T_{n}^{\mathsf{T}}}^{\Pi_{r}}r(s)d s}\left(\frac{1}{R^{*}}-p\right)^{*}\Bigg|\mathcal{F}_{t}\right].}\end{array}
 $$  
@@ -4459,7 +4459,7 @@ So a caplet is equivalent to $R^{*}$ put options on a. $T_{1}$ -bond with maturi
 
 # A.1 Fundamentals  
 
-To describe a random experiment we use a sample space $\Omega$ , the set of all [[Probability Space|possible outcomes]]. Each point $\omega$ of $\Omega$ , or sample point, represents a possible random outcome of performing the random experiment.  
+To describe a random experiment we use a sample space $\Omega$ , the set of all [possible outcomes](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Probability%20Space.md). Each point $\omega$ of $\Omega$ , or sample point, represents a possible random outcome of performing the random experiment.  
 
 Examples. Write down $\Omega$ for experiments such as flip a coin three times, roll two dice. For a set $A\subseteq\Omega$ we want to know the probability ${\cal{P}}(A)$ . The class $\mathcal{F}$ of subsets of $\Omega$ whose robabilities ${\cal{P}}(A)$ are defined (call such $A$ events) should be a $\sigma$ -algebra , i.e.  
 
@@ -4471,20 +4471,20 @@ We want a probability measure defined on $\mathcal{F}$
 (ii) $\textstyle{\mathcal{P}}(A)\geq0$ for all $A$   
 (ii) If $A_{1},A_{2},\ldots$ , are disjoint, $\textstyle P(\bigcup_{i}A_{i})=\sum_{i}P(A_{i})$ countable additivity.  
 
-Definition A.1.1. A [[Uncertainty Information and Stochastic Processes|probability space]], or Kolmogorov triple, is a triple $(\Omega,{\mathcal{F}},I P)$ satisfying Kolmogorov axioms $(i),(i i)$ and (iii) above.  
+Definition A.1.1. A [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md), or Kolmogorov triple, is a triple $(\Omega,{\mathcal{F}},I P)$ satisfying Kolmogorov axioms $(i),(i i)$ and (iii) above.  
 
-A [[Uncertainty Information and Stochastic Processes|probability space]] is a mathematical model of a random experiment  
+A [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md) is a mathematical model of a random experiment  
 
 Examples. Assign probabilities for the above experiments.  
 
-Definition A.1.2. Let $(\Omega,{\mathcal{F}},I P)$ be a [[Uncertainty Information and Stochastic Processes|probability space]]. $A$ random variable (vector) $X$ is $a$ function $X:\Omega\to I R(I R^{k})$ such that $X^{-1}(B)=\{\omega\in\Omega:X(\omega)\in B\}\in{\mathcal{F}}$ for all Borel sets. $B\in B(B(B^{k}))$  
+Definition A.1.2. Let $(\Omega,{\mathcal{F}},I P)$ be a [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md). $A$ random variable (vector) $X$ is $a$ function $X:\Omega\to I R(I R^{k})$ such that $X^{-1}(B)=\{\omega\in\Omega:X(\omega)\in B\}\in{\mathcal{F}}$ for all Borel sets. $B\in B(B(B^{k}))$  
 
 For a random variable $X$  
 $$
 \{\omega\in\Omega:X(\omega)\leq x\}\in\mathcal{F}
 $$  
 
-for all $x\in\mathcal{R}$ . So define the [[Verification of Central Limit Theorem|distribution function]] $F_{X}$ of $X$ by  
+for all $x\in\mathcal{R}$ . So define the [distribution function](Verification%20of%20Central%20Limit%20Theorem.md) $F_{X}$ of $X$ by  
 $$
 F_{X}(x):=D P{\bigl(}\{\omega:X(\omega)\leq x\}{\bigr)}.
 $$  
@@ -4493,7 +4493,7 @@ Recall: $\sigma(X)$ , the $\sigma$ -algebra generated by $X$
 
 # Some important probability distributions  
 
-[[A Real-Life Option Pricing Exercise|Binomial]] distribution: Number of successes  
+[Binomial](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) distribution: Number of successes  
 $$
 I P(S_{n}=k)={\binom{n}{k}}p^{k}(1-p)^{n-k}.
 $$  
@@ -4518,7 +4518,7 @@ $$
 f(x)=\lambda e^{-\lambda x}{\bf1}_{\{[0,\infty)\}}.
 $$  
 
-. Density of [[Verification of Central Limit Theorem|standard Normal distribution]]:  
+. Density of [standard Normal distribution](Verification%20of%20Central%20Limit%20Theorem.md):  
 $$
 f(x)={\frac{1}{\sqrt{2\pi}}}e^{-x^{2}/2}.
 $$  
@@ -4567,12 +4567,12 @@ $$
 h(z)=\intop_{-\infty}^{\infty}f(z-y)g(y)d y=\intop_{-\infty}^{\infty}f(x)g(z-x)d x.
 $$  
 
-Example. Assume $t_{1},\ldots,t_{n}$ are [[Verification of Central Limit Theorem|independent random variables]] that have an exponential distribution with parameter $\lambda$ . Then $T=t_{1}+...+t_{n}$ has the Gamma $(n,\lambda)$ density function  
+Example. Assume $t_{1},\ldots,t_{n}$ are [independent random variables](Verification%20of%20Central%20Limit%20Theorem.md) that have an exponential distribution with parameter $\lambda$ . Then $T=t_{1}+...+t_{n}$ has the Gamma $(n,\lambda)$ density function  
 $$
 f(x)=\frac{\lambda^{n}x^{n-1}}{(n-1)!}e^{-\lambda x}.
 $$  
 
-Definition A.1.5. If $X$ is a random variable with [[Verification of Central Limit Theorem|distribution function]] $F$ , its [[Verification of Central Limit Theorem|moment generating function]] $\phi_{X}$ is  
+Definition A.1.5. If $X$ is a random variable with [distribution function](Verification%20of%20Central%20Limit%20Theorem.md) $F$ , its [moment generating function](Verification%20of%20Central%20Limit%20Theorem.md) $\phi_{X}$ is  
 $$
 \phi(t):=I E(e^{t X})=\int_{-\infty}^{\infty}e^{t x}d F(x).
 $$  
@@ -4591,12 +4591,12 @@ $$
 
 # A.2 Convolution and Characteristic Functions  
 
-The most basic operation on numbers is addition; the most basic operation on random variables is addition of [[Verification of Central Limit Theorem|independent random variables]]. If $X$ $Y$ are independent, with distribution functions $F$ $G$ , and  
+The most basic operation on numbers is addition; the most basic operation on random variables is addition of [independent random variables](Verification%20of%20Central%20Limit%20Theorem.md). If $X$ $Y$ are independent, with distribution functions $F$ $G$ , and  
 $$
 Z:=X+Y,
 $$  
 
-let $Z$ have [[Verification of Central Limit Theorem|distribution function]] $H$ .Then since $X+Y=Y+X$ (addition is commutative), $H$ depends on $F$ and $G$ symmetrically.We call $H$ the convolution (German: Faltung) of $F$ and $G$ written  
+let $Z$ have [distribution function](Verification%20of%20Central%20Limit%20Theorem.md) $H$ .Then since $X+Y=Y+X$ (addition is commutative), $H$ depends on $F$ and $G$ symmetrically.We call $H$ the convolution (German: Faltung) of $F$ and $G$ written  
 $$
 H=F*G.
 $$  
@@ -4638,13 +4638,13 @@ $$
 H=F*G,
 $$  
 
-and call the [[Verification of Central Limit Theorem|distribution function]] $H$ the convolution of the distribution functions $F$ and $G$  
+and call the [distribution function](Verification%20of%20Central%20Limit%20Theorem.md) $H$ the convolution of the distribution functions $F$ and $G$  
 
-In sum: addition of [[Verification of Central Limit Theorem|independent random variables]] corresponds to convolution of distribution functions or densities.  
+In sum: addition of [independent random variables](Verification%20of%20Central%20Limit%20Theorem.md) corresponds to convolution of distribution functions or densities.  
 
-Now we frequently need to add (or average) lots of [[Verification of Central Limit Theorem|independent random variables]]: for example,. when forming sample means in statistics - when the bigger the sample size is, the better. But. convolution involves integration, so adding $n$ [[Verification of Central Limit Theorem|independent random variables]] involves $n-1$ integrations, and this is awkward to do for large $n$ . One thus seeks a way to transform distributions so as to make the awkward operation of convolution as easy to handle as the operation of addition of [[Verification of Central Limit Theorem|independent random variables]] that gives rise to it.  
+Now we frequently need to add (or average) lots of [independent random variables](Verification%20of%20Central%20Limit%20Theorem.md): for example,. when forming sample means in statistics - when the bigger the sample size is, the better. But. convolution involves integration, so adding $n$ [independent random variables](Verification%20of%20Central%20Limit%20Theorem.md) involves $n-1$ integrations, and this is awkward to do for large $n$ . One thus seeks a way to transform distributions so as to make the awkward operation of convolution as easy to handle as the operation of addition of [independent random variables](Verification%20of%20Central%20Limit%20Theorem.md) that gives rise to it.  
 
-Definition A.2.1. If $X$ is a random variable with [[Verification of Central Limit Theorem|distribution function]] $F$ ,its characteristic. function $\phi$ (or $\phi_{X}$ if we need to emphasise $X$ ) is  
+Definition A.2.1. If $X$ is a random variable with [distribution function](Verification%20of%20Central%20Limit%20Theorem.md) $F$ ,its characteristic. function $\phi$ (or $\phi_{X}$ if we need to emphasise $X$ ) is  
 $$
 \phi(t):=I E(e^{i t X})=\int_{-\infty}^{\infty}e^{i t x}d F(x),(t\in I R).
 $$  
@@ -4683,7 +4683,7 @@ $$
 
 for all $t$ .Now as $u\rightarrow0$ $\left|e^{i u x}-1\right|\rightarrow0$ , and $\left|e^{i u x}-1\right|\leq2$ .The bound on the right tends. to zero as $u\to0$ by Lebesgue's dominated convergence theorem (which we quote from measure. theory: see e.g. (Williams 1991), 35.9), giving continuity; the uniformity follows as the bound holds uniformly in $t$  
 
-4. (Uniqueness theorem): $\phi$ determines the [[Verification of Central Limit Theorem|distribution function]] $F$ uniquely.  
+4. (Uniqueness theorem): $\phi$ determines the [distribution function](Verification%20of%20Central%20Limit%20Theorem.md) $F$ uniquely.  
 
 Technically, $\phi$ is the Fourier-Stieltjes transform of $F$ , and here we are quoting the uniqueness property of this transform. Were uniqueness not to hold, we would lose information on taking characteristic functions, and so $\phi$ would not be useful.  
 
@@ -4699,7 +4699,7 @@ $$
 e^{i t x}=1+i t x+\cdots+(i t x)^{k}/k!+o\left(t^{k}\right),
 $$  
 
-where $\mathbf{\dot{o}}\left(t^{k}\right)^{,}$ denotes an error term of smaller order than $t^{k}$ for small $k$ . Now replace $x$ by $X$ and take [[FORWARD RATES AND TERM STRUCTURE|expectations]]. By linearity, we obtain  
+where $\mathbf{\dot{o}}\left(t^{k}\right)^{,}$ denotes an error term of smaller order than $t^{k}$ for small $k$ . Now replace $x$ by $X$ and take [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md). By linearity, we obtain  
 $$
 \phi(t)=I E(e^{i t X})=1+i t I E X+\cdot\cdot\cdot+\frac{(i t)^{k}}{k!}I E(X^{k})+e(t),
 $$  
@@ -4757,7 +4757,7 @@ $$
 \left(1+{\frac{x}{n}}\right)^{n}\to e^{x}\quad(n\to\infty)\quad\forall x\in I R.
 $$  
 
-This is the formula governing the passage from discrete to continuous [[Continuously Compounding Interest|compound interest]]. Invest one pound (or dollar) for one year at. $100x\%$ p.a.; with interest compounded $n$ times p.a., our capital after one year is. $(1+{\frac{x}{n}})^{n}$ . With [[Interest Rate Quotations|continuous compounding]], our capital after one year is the exponential $e^{x}$ : exponential growth corresponds to [[PSET 7 Solutions-Financial Instruments|continuously compounded interest]].  
+This is the formula governing the passage from discrete to continuous [compound interest](../Financial%20Instruments/Review%20Session%20Notes/Continuously%20Compounding%20Interest.md). Invest one pound (or dollar) for one year at. $100x\%$ p.a.; with interest compounded $n$ times p.a., our capital after one year is. $(1+{\frac{x}{n}})^{n}$ . With [continuous compounding](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md), our capital after one year is the exponential $e^{x}$ : exponential growth corresponds to [continuously compounded interest](../Financial%20Instruments/Assignments/Solutions/PSET%207%20Solutions-Financial%20Instruments.md).  
 
 We need two extensions: the formula still holds with $x\in\mathcal{M}$ replaced by a complex number $z\in\pmb{\mathcal{C}}$  
 $$
@@ -4798,7 +4798,7 @@ $$
 
 The main result of this section is the same argument carried one stage further.  
 
-Theorem A.3.2 (Central Limit Theorem). If $X_{1},X_{2},\dots$ are independent and identically distributed with mean $\mu$ and variance $\sigma^{2}$ , then with $N(0,1)$ the [[Verification of Central Limit Theorem|standard normal distribution]],  
+Theorem A.3.2 (Central Limit Theorem). If $X_{1},X_{2},\dots$ are independent and identically distributed with mean $\mu$ and variance $\sigma^{2}$ , then with $N(0,1)$ the [standard normal distribution](Verification%20of%20Central%20Limit%20Theorem.md),  
 $$
 {\frac{\sqrt{n}}{\sigma}}{\frac{1}{n}}\sum_{i=1}^{n}(X_{i}-\mu)={\frac{1}{\sqrt{n}}}\sum_{i=1}^{n}(X_{i}-\mu)/\sigma\rightarrow N(0,1)(n\rightarrow\infty)i n d i s t r i b u t i o n.
 $$  
@@ -4818,7 +4818,7 @@ $$
 \begin{array}{r l}&{E\left(\exp\left\{i t\cdot\frac{\sqrt{n}}{\sigma}\left(\frac{1}{n}\displaystyle\sum_{j=1}^{n}X_{j}-\mu\right)\right\}\right)}\ {=}&{E\left(\displaystyle\prod_{j=1}^{n}\exp\left\{\frac{i t(X_{j}-\mu)}{\sigma\sqrt{n}}\right\}\right)=\displaystyle\prod_{j=1}^{n}E\left(\exp\left\{\frac{i t}{\sigma\sqrt{n}}(X_{j}-\mu)\right\}\right)}\ {=}&{\left(\phi_{0}\left(\frac{t}{\sigma\sqrt{n}}\right)\right)^{n}=\left(1-\frac{\frac{1}{2}\sigma^{2}t^{2}}{\sigma^{2}n}+o\left(\frac{1}{n}\right)\right)^{n}\rightarrow e^{-\frac{1}{2}t^{2}}(n\rightarrow\infty),}\end{array}
 $$  
 
-and $e^{-\frac{1}{2}t^{2}}$ is the characteristic function of the [[Verification of Central Limit Theorem|standard normal distribution]] $N(0,1)$ . The result follows by the continuity theorem..  
+and $e^{-\frac{1}{2}t^{2}}$ is the characteristic function of the [standard normal distribution](Verification%20of%20Central%20Limit%20Theorem.md) $N(0,1)$ . The result follows by the continuity theorem..  
 
 # Note.  
 
@@ -4849,22 +4849,22 @@ $$
 n!\sim{\sqrt{2\pi}}e^{-n}n^{n+{\frac{1}{2}}}\quad(n\to\infty)
 $$  
 
-(the symbol $\sim$ indicates that the ratio of the two sides tends to 1). The argument can be carried. $\textstyle\int_{a}^{b}{\frac{1}{\sqrt{2\pi}}}e^{-{\frac{1}{2}}x^{2}}d x$ 1827). The proof of the de-Moivre-Laplace limit theorem sketched above is closely analogous to the passage from the discrete to the continuous [[Credit Markets Session 5|Black-Scholes formula]]: see \$4.6 and \$6.4..  
+(the symbol $\sim$ indicates that the ratio of the two sides tends to 1). The argument can be carried. $\textstyle\int_{a}^{b}{\frac{1}{\sqrt{2\pi}}}e^{-{\frac{1}{2}}x^{2}}d x$ 1827). The proof of the de-Moivre-Laplace limit theorem sketched above is closely analogous to the passage from the discrete to the continuous [Black-Scholes formula](../Credit%20Markets/Credit%20Markets%20Session%205.md): see \$4.6 and \$6.4..  
 
 # Local Limit Theorems.  
 
-The central limit theorem as proved above is a global limit theorem: it relates to distributions and convergence thereof. The de Moivre-Laplace limit theorem above, however, deals directly with individual probabilities in the discrete case (the sum of a large number of which is shown to approximate an integral). A limit theorem dealing with densities and convergence thereof in the density case, or with the discrete analogues of densities - such as the individual probabilities $\textstyle{\mathit{I P}}(S_{n}=k)$ in the [[A Real-Life Option Pricing Exercise|binomial]] case above - is called a local limit theorem.  
+The central limit theorem as proved above is a global limit theorem: it relates to distributions and convergence thereof. The de Moivre-Laplace limit theorem above, however, deals directly with individual probabilities in the discrete case (the sum of a large number of which is shown to approximate an integral). A limit theorem dealing with densities and convergence thereof in the density case, or with the discrete analogues of densities - such as the individual probabilities $\textstyle{\mathit{I P}}(S_{n}=k)$ in the [binomial](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) case above - is called a local limit theorem.  
 
 # Poisson Limit Theorem.  
 
-The de Moivre-Laplace limit theorem - convergence of [[A Real-Life Option Pricing Exercise|binomial]] to normal - is only one possible limiting regime for [[A Real-Life Option Pricing Exercise|binomial]] models. The next most important one has a Poisson limit in place of a normal one.  
+The de Moivre-Laplace limit theorem - convergence of [binomial](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) to normal - is only one possible limiting regime for [binomial](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) models. The next most important one has a Poisson limit in place of a normal one.  
 
-Suppose we have a sequence of [[A Real-Life Option Pricing Exercise|binomial]] models $B(n,p)$ , where the success probability $p=p_{n}$ varies with $n$ , in such a way that  
+Suppose we have a sequence of [binomial](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) models $B(n,p)$ , where the success probability $p=p_{n}$ varies with $n$ , in such a way that  
 $$
 n p_{n}\to\lambda\to0,(n\to\infty).
 $$  
 
-Thus. $p_{n}\to0$ - indeed, $p_{n}\sim\lambda/n$ . This models a situation where we have a large number $n$ of Bernoulli trials, each with small probability $p_{n}$ of success, but such that $n p_{n}$ , the expected total number of successes, is 'neither large nor small, but intermediate'. [[A Real-Life Option Pricing Exercise|Binomial]] models satisfying condition (A.1) converge to the Poisson model $P(\lambda)$ with parameter $\lambda>0$  
+Thus. $p_{n}\to0$ - indeed, $p_{n}\sim\lambda/n$ . This models a situation where we have a large number $n$ of Bernoulli trials, each with small probability $p_{n}$ of success, but such that $n p_{n}$ , the expected total number of successes, is 'neither large nor small, but intermediate'. [Binomial](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) models satisfying condition (A.1) converge to the Poisson model $P(\lambda)$ with parameter $\lambda>0$  
 
 This result is sometimes called the law of small numbers. The Poisson distribution is widely used to model statistics of accidents, insurance claims and the like, where one has a large number $n$ of individuals at risk, each with a small probability $p_{n}$ of generating an accident, insurance claim etc. ('success probability' seems a strange usage here!).  
 
@@ -4872,11 +4872,11 @@ This result is sometimes called the law of small numbers. The Poisson distributi
 
 # Facts form Probability and Measure Theory  
 
-We will assume that most readers will be familiar with such things from an elementary course in probability and statistics; for a clear [[Squam Lake Group Introduction|introduction]] see, e.g. Grimmett and Welsh (1986), or the first few chapters of ?; Ross (1997), Resnick (2001), Durrett (1999), Ross (1997), Rosenthal (2000) are also useful.  
+We will assume that most readers will be familiar with such things from an elementary course in probability and statistics; for a clear [introduction](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) see, e.g. Grimmett and Welsh (1986), or the first few chapters of ?; Ross (1997), Resnick (2001), Durrett (1999), Ross (1997), Rosenthal (2000) are also useful.  
 
 # B.1 Measure  
 
-The language of modelling [[Financial Markets and Institutions Lecture Notes|financial markets]] involves that of probability, which in turn involves. that of measure theory. This originated with Henri Lebesgue (1875-1941), in his thesis, 'Integrale, longueur, aire' Lebesgue (1902). We begin with defining a measure on. $\mathit{\Pi}_{\mathit{\Pi}}{\mathit{\Pi}}_{\mathit{\Pi}}{\mathit{\Pi}}_{\mathit{\Pi}}{\mathit{\Pi}}_{\mathit{\Pi}}\quad{\mathit{\Pi}}_{\mathit{\Pi}}\quad{\mathit{\Pi}}_{\mathit{\Pi}}\quad\mathit{\Pi}_{\mathit{\Pi}}\quad\mathit{\Pi}_{\mathit{\Pi}}\quad\quad\mathit{\Pi}_{\mathit{\Pi}}\quad\quad\mathit{\Pi}_{\mathit{\Pi}}\quad\quad\quad\mathrm{\delta}_{\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit\mathrm{\Pi}}\quad\quad\mathrm{\delta}_{\mathrm\mathrm{\delta}}_{\mathit\mathit{\delta}}\quad\quad\quad\mathrm{\delta}\quad\quad\$ generalising the intuitive notion of length.  
+The language of modelling [financial markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) involves that of probability, which in turn involves. that of measure theory. This originated with Henri Lebesgue (1875-1941), in his thesis, 'Integrale, longueur, aire' Lebesgue (1902). We begin with defining a measure on. $\mathit{\Pi}_{\mathit{\Pi}}{\mathit{\Pi}}_{\mathit{\Pi}}{\mathit{\Pi}}_{\mathit{\Pi}}{\mathit{\Pi}}_{\mathit{\Pi}}\quad{\mathit{\Pi}}_{\mathit{\Pi}}\quad{\mathit{\Pi}}_{\mathit{\Pi}}\quad\mathit{\Pi}_{\mathit{\Pi}}\quad\mathit{\Pi}_{\mathit{\Pi}}\quad\quad\mathit{\Pi}_{\mathit{\Pi}}\quad\quad\mathit{\Pi}_{\mathit{\Pi}}\quad\quad\quad\mathrm{\delta}_{\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit\mathit{\Pi}}\quad\quad\mathrm{\delta}_{\mathit\mathrm{\Pi}}\quad\quad\mathrm{\delta}_{\mathrm\mathrm{\delta}}_{\mathit\mathit{\delta}}\quad\quad\quad\mathrm{\delta}\quad\quad\$ generalising the intuitive notion of length.  
 
 The length $\mu(I)$ of an interval. $I=(a,b),[a,b],[a,b)$ or $(a,b]$ should be $b-a$ .. $\mu(I)=b-a$ . The length of the disjoint union. $\textstyle I=\bigcup_{r=1}^{n}I_{r}$ of intervals $I_{r}$ should be the sum of their lengths:  
 $$
@@ -4991,13 +4991,13 @@ $$
 {\cal I P}(\Omega)=1.
 $$  
 
-The triple. $(\Omega,{\cal A},{\cal P})$ is called a [[Uncertainty Information and Stochastic Processes|probability space]].  
+The triple. $(\Omega,{\cal A},{\cal P})$ is called a [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md).  
 
 Observe that the above lemma and Caratheodory's extension theorem guarantee uniqueness if we construct a probability measure using the above procedure. For example the unit cube $[0,1]^{k}$ in ${\mathbf{\varLambda}}{\mathbf{\varLambda}}{\mathbf{\varLambda}}{\mathbf{\varLambda}}$ has (Lebesgue) measure 1. Using. $\Omega=[0,1]^{k}$ as the underlying set in the above construction. we find a unique probability (which equals length/area/volume if $k=1/2/3$  
 
 If a property holds everywhere except on a set of measure zero, we say it holds almost everywhere (a.e.). If it holds everywhere except on a set of probability zero, we say it holds almost surely (a.s.) (or, with probability one).  
 
-Roughly speaking, one uses addition in countable (or finite) situations, integration in uncountable ones. As the key measure-theoretic axiom of countable additivity above concerns addition, countably infinite situations (such as we meet in discrete time) fit well with measure theory. By contrast, uncountable situations (such as we meet in continuous time) do not - or at least, are considerably harder to handle. This is why the discrete-time setting of Chapters 3, 4 is easier than, and precedes, the [[The Continuous-Time Framework|continuous-time setting]] of Chapters 5, 6. Our strategy is to do as much as possible to introduce the key ideas - economic, financial and mathematical - in discrete time (which, because we work with a finite time-horizon, the expiry time $T$ , is actually a finite situation), before treating the harder case of continuous time.  
+Roughly speaking, one uses addition in countable (or finite) situations, integration in uncountable ones. As the key measure-theoretic axiom of countable additivity above concerns addition, countably infinite situations (such as we meet in discrete time) fit well with measure theory. By contrast, uncountable situations (such as we meet in continuous time) do not - or at least, are considerably harder to handle. This is why the discrete-time setting of Chapters 3, 4 is easier than, and precedes, the [continuous-time setting](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%206%20-%20Individual%20optimality/The%20Continuous-Time%20Framework.md) of Chapters 5, 6. Our strategy is to do as much as possible to introduce the key ideas - economic, financial and mathematical - in discrete time (which, because we work with a finite time-horizon, the expiry time $T$ , is actually a finite situation), before treating the harder case of continuous time.  
 
 # B.2 Integral  
 
@@ -5123,13 +5123,13 @@ We quote that the following two properties are equivalent:
 
 So the above procedure defines the integral $\textstyle\int f d F$ when the integrator $F$ is of bounded variation.  
 
-Remark B.2.1. (i) When we pass from discrete to continuous time, we will need to handle both 'smooth' paths and paths that vary by jumps - of bounded variation - and rough' ones - of unbounded variation but bounded quadratic variation; (i) The Lebesgue-Stieltjes integral $\textstyle\int g(x)d F(x)$ is needed to express the expectation $E g(X)$ , where $X$ is random variable with [[Verification of Central Limit Theorem|distribution function]] $F$ and $g$ a suitable function.  
+Remark B.2.1. (i) When we pass from discrete to continuous time, we will need to handle both 'smooth' paths and paths that vary by jumps - of bounded variation - and rough' ones - of unbounded variation but bounded quadratic variation; (i) The Lebesgue-Stieltjes integral $\textstyle\int g(x)d F(x)$ is needed to express the expectation $E g(X)$ , where $X$ is random variable with [distribution function](Verification%20of%20Central%20Limit%20Theorem.md) $F$ and $g$ a suitable function.  
 
 # B.3 Probability  
 
-As we remarked in the [[Squam Lake Group Introduction|introduction]] of this chapter, the mathematical theory of probability can be traced to 1654, to correspondence between Pascal (1623-1662) and Fermat (1601-1665). However, the theory remained both incomplete and non-rigorous until the 20th century. It turns out that the Lebesgue theory of measure and integral sketched above is exactly the machinery needed to construct a rigorous theory of probability adequate for modelling reality (option [[Arbitrage Pricing of Derivatives|pricing]], etc.) for us. This was realised by Kolmogorov (1903-1987), whose classic book of 1933, Grundbegriffe der Wahrscheinlichkeitsrechnung (Foundations of Probability Theory), Kolmogorov (1933), inaugurated the modern era in probability.  
+As we remarked in the [introduction](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) of this chapter, the mathematical theory of probability can be traced to 1654, to correspondence between Pascal (1623-1662) and Fermat (1601-1665). However, the theory remained both incomplete and non-rigorous until the 20th century. It turns out that the Lebesgue theory of measure and integral sketched above is exactly the machinery needed to construct a rigorous theory of probability adequate for modelling reality (option [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), etc.) for us. This was realised by Kolmogorov (1903-1987), whose classic book of 1933, Grundbegriffe der Wahrscheinlichkeitsrechnung (Foundations of Probability Theory), Kolmogorov (1933), inaugurated the modern era in probability.  
 
-Recall from your first course on probability that, to describe a random experiment mathematically, we begin with the sample space $\Omega$ , the set of all [[Probability Space|possible outcomes]]. Each point $\omega$ of $\Omega$ , or sample point, represents a possible - random - outcome of performing the random experiment. For a set $A\subseteq\Omega$ of points $\omega$ we want to know the probability $\textstyle{\mathcal{P}}(A)$ (or $\operatorname*{Pr}(A),\operatorname{pr}(A),$ . We clearly want  
+Recall from your first course on probability that, to describe a random experiment mathematically, we begin with the sample space $\Omega$ , the set of all [possible outcomes](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Probability%20Space.md). Each point $\omega$ of $\Omega$ , or sample point, represents a possible - random - outcome of performing the random experiment. For a set $A\subseteq\Omega$ of points $\omega$ we want to know the probability $\textstyle{\mathcal{P}}(A)$ (or $\operatorname*{Pr}(A),\operatorname{pr}(A),$ . We clearly want  
 $\begin{array}{r l}{\small{\mathrm{~\alpha~}})}&{{}\mathit{I P}(\varnothing)=0,\mathit{I P}(\Omega)=1,}\end{array}$  
 
 (ii) $P(A)\geq0{\mathrm{~for~all~}}A,$   
@@ -5149,13 +5149,13 @@ $$
 
 So the class $\mathcal{F}$ of subsets of $\Omega$ whose probabilities ${\cal{P}}(A)$ are defined (call such $A$ events) should be closed under countable, disjoint unions and complements, and contain the empty set $\varnothing$ and the whole space $\Omega$ . Therefore $\mathcal{F}$ should be a $\sigma$ -algebra and $\mathcal{W}$ should be defined on $\mathcal{F}$ according to Definition 2.1.5. Repeating this:.  
 
-Definition B.3.1. $A$ [[Uncertainty Information and Stochastic Processes|probability space]], or Kolmogorov triple, is a triple $(\Omega,{\mathcal{F}},I P)$ satisfying Kolmogorov axioms $(i),(i i),(i i i)^{*}$ (iv) above.  
+Definition B.3.1. $A$ [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md), or Kolmogorov triple, is a triple $(\Omega,{\mathcal{F}},I P)$ satisfying Kolmogorov axioms $(i),(i i),(i i i)^{*}$ (iv) above.  
 
-A [[Uncertainty Information and Stochastic Processes|probability space]] is a mathematical model of a random experiment. Often we quantify outcomes $\omega$ of random experiments by defining a real-valued function $X$ on $\Omega$ , i.e. $X:\Omega\to{\mathit{I R}}$ . If such a function is measurable it is called a random variable.  
+A [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md) is a mathematical model of a random experiment. Often we quantify outcomes $\omega$ of random experiments by defining a real-valued function $X$ on $\Omega$ , i.e. $X:\Omega\to{\mathit{I R}}$ . If such a function is measurable it is called a random variable.  
 
-Definition B.3.2. Let $(\Omega,{\mathcal{F}},I P)$ be a [[Uncertainty Information and Stochastic Processes|probability space]]. $A$ random variable (vector) $X$ is a function $X:\Omega\to{\mathit{I R}}$ $\boldsymbol{X}:\Omega\rightarrow\boldsymbol{\mathit{R}}^{k}$ ) such that $X^{-1}(B)=\{\omega\in\Omega:X(\omega)\in B\}\in{\mathcal{F}}$ for all Borel sets $B\in B(I R)(B\in B(I R^{k}))$  
+Definition B.3.2. Let $(\Omega,{\mathcal{F}},I P)$ be a [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md). $A$ random variable (vector) $X$ is a function $X:\Omega\to{\mathit{I R}}$ $\boldsymbol{X}:\Omega\rightarrow\boldsymbol{\mathit{R}}^{k}$ ) such that $X^{-1}(B)=\{\omega\in\Omega:X(\omega)\in B\}\in{\mathcal{F}}$ for all Borel sets $B\in B(I R)(B\in B(I R^{k}))$  
 
-In particular we have for a random variable $X$ that $\{\omega\in\Omega:X(\omega)\leq x\}\in{\mathcal{F}}$ for all $x\in\mathcal{M}$ Hence we can define the [[Verification of Central Limit Theorem|distribution function]] $F_{X}$ of $X$ by  
+In particular we have for a random variable $X$ that $\{\omega\in\Omega:X(\omega)\leq x\}\in{\mathcal{F}}$ for all $x\in\mathcal{M}$ Hence we can define the [distribution function](Verification%20of%20Central%20Limit%20Theorem.md) $F_{X}$ of $X$ by  
 $$
 F_{X}(x):=D P{\bigl(}\{\omega:X(\omega)\leq x\}{\bigr)}.
 $$  
@@ -5189,7 +5189,7 @@ $$
 W a r(X):=I E\left[(X-I E(X))^{2}\right]=I E\left(X^{2}\right)-(I E X)^{2}.
 $$  
 
-If $X$ is real-valued, say, with [[Verification of Central Limit Theorem|distribution function]] $F$ , recall that $\mathbb{E}X$ is defined in your first. course on probability by.  
+If $X$ is real-valued, say, with [distribution function](Verification%20of%20Central%20Limit%20Theorem.md) $F$ , recall that $\mathbb{E}X$ is defined in your first. course on probability by.  
 $$
 H E X:=\int x f(x)d x\mathrm{if}X\mathrm{has}\mathrm{adensity}f
 $$  
@@ -5204,14 +5204,14 @@ $$
 E X:=\int_{-\infty}^{\infty}x d F(x)
 $$  
 
-where the integral on the right is a Lebesgue-Stieltjes integral. This in turn agrees with the definition above, since if. $F$ is the [[Verification of Central Limit Theorem|distribution function]] of. $X$  
+where the integral on the right is a Lebesgue-Stieltjes integral. This in turn agrees with the definition above, since if. $F$ is the [distribution function](Verification%20of%20Central%20Limit%20Theorem.md) of. $X$  
 $$
 \int_{\Omega}X d D P=\int_{-\infty}^{\infty}x d F(x)\stackrel{}{_{\Omega}}
 $$  
 
 follows by the change of variable formula for the measure-theoretic integral, on applying the map $X:\Omega\to{\mathit{I R}}$ (we quote this: see any book on measure theory, e.g. Dudley (1989)).  
 
-Clearly the expectation operator. $\mathit{\Pi}_{\mathit{I B}}$ is linear. It even becomes multiplicative if we consider [[Verification of Central Limit Theorem|independent random variables]]..  
+Clearly the expectation operator. $\mathit{\Pi}_{\mathit{I B}}$ is linear. It even becomes multiplicative if we consider [independent random variables](Verification%20of%20Central%20Limit%20Theorem.md)..  
 
 Definition B.3.4. Random variables $X_{1},\ldots,X_{n}$ are independent if whenever $A_{i}\in B$ for $i=$ $1,\ldots n$ we have  
 $$
@@ -5232,11 +5232,11 @@ $$
 E\left(\prod_{i=1}^{n}X_{i}\right)=\prod_{i=1}^{n}{\cal{R}}(X_{i}).
 $$  
 
-We now review the distributions we will mainly use in our models of [[Financial Markets and Institutions Lecture Notes|financial markets]].  
+We now review the distributions we will mainly use in our models of [financial markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md).  
 
 # Examples.  
 
-(i) Bernoulli distribution. Recall our [[Arbitrage Pricing of Derivatives|arbitrage]]-[[Arbitrage Pricing of Derivatives|pricing]] example from $\S$ 1.4. There we were given a. stock with price. $S(0)$ at time $t=0$ . We assumed that after a period of time $\Delta t$ the [[Chapter 16 - Black–Scholes Model|stock price]]. could have only one of two values, either $S(\Delta t)=e^{u}S(0)$ with probability $p$ or $S(\Delta t)=e^{d}S(0)$ with probability $1-p$ $u,d\in\pi)$ . Let $R(\Delta t)=r(1)$ be a random variable modelling the logarithm of the stock return over the period. $[0,\Delta t]$ ; then  
+(i) Bernoulli distribution. Recall our [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-[pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) example from $\S$ 1.4. There we were given a. stock with price. $S(0)$ at time $t=0$ . We assumed that after a period of time $\Delta t$ the [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md). could have only one of two values, either $S(\Delta t)=e^{u}S(0)$ with probability $p$ or $S(\Delta t)=e^{d}S(0)$ with probability $1-p$ $u,d\in\pi)$ . Let $R(\Delta t)=r(1)$ be a random variable modelling the logarithm of the stock return over the period. $[0,\Delta t]$ ; then  
 $$
 P(r(1)=u)=p\mathrm{and}P(r(1)=d)=1-p.
 $$  
@@ -5245,19 +5245,19 @@ We say that $r(1)$ is distributed according to a Bernoulli distribution. Clearly
 
 The standard case of a Bernoulli distribution is given by choosing $u=1,d=0$ (which is not a very useful choice in financial modelling)..  
 
-(ii) [[A Real-Life Option Pricing Exercise|Binomial]] distribution. If we consider the logarithm of the stock return over $n$ periods (of equal length), say over $[0,T]$ , then subdividing into the periods $1,\ldots,n$ we have  
+(ii) [Binomial](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) distribution. If we consider the logarithm of the stock return over $n$ periods (of equal length), say over $[0,T]$ , then subdividing into the periods $1,\ldots,n$ we have  
 $$
 \begin{array}{r c l}{{R(T)}}&{{=}}&{{\log\left[\displaystyle\frac{S(T)}{S(0)}\right]=\log\left[\displaystyle\frac{S(T)}{S(T-\Delta t)}\cdots\displaystyle\frac{S(\Delta t)}{S(0)}\right]}}\ {{}}&{{=}}&{{\log\left[\displaystyle\frac{S(T)}{S(T-\Delta t)}\right]+\ldots+\log\left[\displaystyle\frac{S(\Delta t)}{S(0)}\right]=r(n)+\ldots+r(1).}}\end{array}
 $$  
 
 Assuming that $r(i)$ $i=1,\ldots,n$ are independent and each. $r(i)$ is Bernoulli distributed as above. we have that $\begin{array}{r}{R(T)=\sum_{i=1}^{n}r(i)}\end{array}$ is binomially distributed. Linearity of the expectation operator and independence yield $\begin{array}{r}{E(R(T))=\sum_{i=1}^{n}E(r(i))}\end{array}$ and $\begin{array}{r}{\mathbb{V}a r(R(T))=\sum_{i=1}^{n}\mathbb{V}a r(r(i))}\end{array}$  
 
-Again for the standard case one would use $u=1,d=0$ . The shorthand notation for a [[A Real-Life Option Pricing Exercise|binomial]] random variable $X$ is then $X\sim B(n,p)$ and we can compute  
+Again for the standard case one would use $u=1,d=0$ . The shorthand notation for a [binomial](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) random variable $X$ is then $X\sim B(n,p)$ and we can compute  
 $$
 T P(X=k)={\binom{n}{k}}p^{k}(1-p)^{(n-k)},\quad E(X)=n p,\quad W a r(X)=n p(1-p).
 $$  
 
-(iii) Normal distribution. As we will show in the sequel the limit of a sequence of appropriate normalised [[A Real-Life Option Pricing Exercise|binomial]] distributions is the (standard) normal distribution. We say a random variable $X$ is normally distributed with parameters $\mu,\sigma^{2}$ , in short $X\sim N(\mu,\sigma^{2})$ , if $X$ has density function  
+(iii) Normal distribution. As we will show in the sequel the limit of a sequence of appropriate normalised [binomial](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) distributions is the (standard) normal distribution. We say a random variable $X$ is normally distributed with parameters $\mu,\sigma^{2}$ , in short $X\sim N(\mu,\sigma^{2})$ , if $X$ has density function  
 $$
 f_{\mu,\sigma^{2}}(x)={\frac{1}{\sqrt{2\pi}\sigma}}\exp{\left\{-{\frac{1}{2}}\left({\frac{x-\mu}{\sigma}}\right)^{2}\right\}}.
 $$  
@@ -5265,16 +5265,16 @@ $$
 One can show that. ${\mathbb{E}}(X)=\mu$ and $W a r(X)=\sigma^{2}$ , and thus a normally distributed random variable.   
 is fully described by knowledge of its mean and variance.  
 
-Returning to the above example, one of the key results of this text will be that the limiting. model of a sequence of [[Financial Markets and Institutions Lecture Notes|financial markets]] with one-period [[Some Stylized Empirical Facts About Asset Retur|asset returns]] modelled by a Bernoulli distribution is a model where the distribution of the logarithms of instantaneous [[Some Stylized Empirical Facts About Asset Retur|asset returns]] is normal. That means $S(t+\Delta t)/S(t)$ is lognormally distributed (i.e.. $\log(S(t+\Delta t)/S(t))$ is normally distributed). Although rejected by many empirical studies (see Eberlein and Keller (1995) for a.  
+Returning to the above example, one of the key results of this text will be that the limiting. model of a sequence of [financial markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) with one-period [asset returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Some%20Stylized%20Empirical%20Facts%20About%20Asset%20Retur.md) modelled by a Bernoulli distribution is a model where the distribution of the logarithms of instantaneous [asset returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Some%20Stylized%20Empirical%20Facts%20About%20Asset%20Retur.md) is normal. That means $S(t+\Delta t)/S(t)$ is lognormally distributed (i.e.. $\log(S(t+\Delta t)/S(t))$ is normally distributed). Although rejected by many empirical studies (see Eberlein and Keller (1995) for a.  
 
-recent [[Overview of Financial Markets|overview]]), such a model seems to be the standard in use among financial practitioners (and. we will call it the standard model in the following). The main arguments against using normally distributed random variables for modelling log-[[Assets|returns]] (i.e. log-normal distributions for [[Assets|returns]]) are asymmetry and (semi-) heavy tails. We know that distributions of financial [[Some Stylized Empirical Facts About Asset Retur|asset returns]] are generally rather close to being symmetric around zero, but there is a definite tendency towards asymmetry. This may be explained by the fact that the markets react differently to positive as opposed to negative information (see Shephard (1996) s1.3.4). Since the normal distribution is. symmetric it is not possible to incorporate this empirical fact in the standard model. Financial. time series also suggest modelling by [[Exercises|probability distributions]] whose densities behave for $x\rightarrow\pm\infty$ as  
+recent [overview](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)), such a model seems to be the standard in use among financial practitioners (and. we will call it the standard model in the following). The main arguments against using normally distributed random variables for modelling log-[returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) (i.e. log-normal distributions for [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)) are asymmetry and (semi-) heavy tails. We know that distributions of financial [asset returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Some%20Stylized%20Empirical%20Facts%20About%20Asset%20Retur.md) are generally rather close to being symmetric around zero, but there is a definite tendency towards asymmetry. This may be explained by the fact that the markets react differently to positive as opposed to negative information (see Shephard (1996) s1.3.4). Since the normal distribution is. symmetric it is not possible to incorporate this empirical fact in the standard model. Financial. time series also suggest modelling by [probability distributions](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) whose densities behave for $x\rightarrow\pm\infty$ as  
 $$
 |x|^{\rho}\exp\{-\sigma|x|\}
 $$  
 
 with $\rho\in I R,\sigma>0$ . This means that we should replace the normal distribution with a distribution with heavier tails. Such a model like this would exhibit higher probabilities of extreme events and the passage from ordinary observations (around the mean) to extreme observations would be more sudden. Among suggested (classes of) distributions to be used to address these facts is the class of hyperbolic distributions (see Eberlein and Keller (1995) and $\S2.12$ below), and more general distributions of normal inverse Gaussian type (see Barndorff-Nielsen (1998), Rydberg (1996), Rydberg (1997)) appear to be very promising.  
 
-(iv) Poisson distribution. Sometimes we want to incorporate in our model of [[Financial Markets and Institutions Lecture Notes|financial markets]]. the possibility of sudden jumps. Using the standard model we model the [[A Preview of Alternative Formulations|asset price]] process by a. continuous [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]], so we need an additional process generating the jumps. To do this we use point processes in general and the [[A Poisson Model of Single Issuer Default|Poisson process]] in particular. For a [[A Poisson Model of Single Issuer Default|Poisson process]] the. probability of a jump (and no jump respectively) during a small interval. $\Delta t$ are approximately  
+(iv) Poisson distribution. Sometimes we want to incorporate in our model of [financial markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md). the possibility of sudden jumps. Using the standard model we model the [asset price](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) process by a. continuous [stochastic process](../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md), so we need an additional process generating the jumps. To do this we use point processes in general and the [Poisson process](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/A%20Poisson%20Model%20of%20Single%20Issuer%20Default.md) in particular. For a [Poisson process](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/A%20Poisson%20Model%20of%20Single%20Issuer%20Default.md) the. probability of a jump (and no jump respectively) during a small interval. $\Delta t$ are approximately  
 $$
 P(\nu(1)=1)\approx\lambda\Delta t\mathrm{and}P(\nu(1)=0)\approx1-\lambda\Delta\iota
 $$  
@@ -5321,7 +5321,7 @@ $$
 \mathrm{if}\quad l l^{\vphantom{l l l}}<<Q,\quad d l P=\frac{d I P}{d Q}d Q.
 $$  
 
-The measurable function (random variable) $d\varPsi/d\protect\mathbb{Q}$ is called the [[A Preview of Alternative Formulations|Radon-Nikodym derivative]] (RNderivative) of $\mathcal{W}$ with respect to $\mathbb{Q}$  
+The measurable function (random variable) $d\varPsi/d\protect\mathbb{Q}$ is called the [Radon-Nikodym derivative](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) (RNderivative) of $\mathcal{W}$ with respect to $\mathbb{Q}$  
 
 If $\mathbb{\Gamma}\times<<\mathbb{Q}$ and also $\mathbb{Q}<<\mathbb{P}$ , we call $\mathcal{W}$ and $\mathbb{Q}$ equivalent measures, written $I P\sim\mathbb{Q}$ . Then $d\varmathbb{P}/d\protect\mathbb{Q}$ and $d\mathscr{Q}/d I P$ both exist, and.  
 $$
@@ -5334,7 +5334,7 @@ P \~ Q iff $\mathcal{P},\mathcal{Q}$ have the same null sets, iff $\mathbb{\Gamm
 
 Far from being an abstract theoretical result, the Radon-Nikodym theorem is of key practical importance, in two ways:.  
 
-(a) It is the key to the concept of conditioning (\$2.5, 32.6 below), which is of central importance. throughout, (b) The concept of equivalent measures is central to the key idea of mathematical finance, riskneutrality, and hence to its main results, the [[Credit Markets Session 5|Black-Scholes formula]], [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|fundamental theorem]] of [[Fixed Income Asset Pricing|asset pricing]], etc. The key to all this is that prices should be the discounted expected values under an equivalent martingale measure. Thus equivalent measures, and the operation of [[Change of Probability Measure|change of measure]], are of central economic and financial importance. We shall return to this later in connection with the main mathematical result on [[Change of Probability Measure|change of measure]], Girsanov's theorem (see 35.7)..  
+(a) It is the key to the concept of conditioning (\$2.5, 32.6 below), which is of central importance. throughout, (b) The concept of equivalent measures is central to the key idea of mathematical finance, riskneutrality, and hence to its main results, the [Black-Scholes formula](../Credit%20Markets/Credit%20Markets%20Session%205.md), [fundamental theorem](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of [asset pricing](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md), etc. The key to all this is that prices should be the discounted expected values under an equivalent martingale measure. Thus equivalent measures, and the operation of [change of measure](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2011%20-%20Risk-adjusted%20probabilities/Change%20of%20Probability%20Measure.md), are of central economic and financial importance. We shall return to this later in connection with the main mathematical result on [change of measure](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2011%20-%20Risk-adjusted%20probabilities/Change%20of%20Probability%20Measure.md), Girsanov's theorem (see 35.7)..  
 
 # B.5 Conditional expectation  
 
@@ -5444,7 +5444,7 @@ $$
 
 if $G=\cup_{n}G_{n}$ $G_{n}$ disjoint - and defined on the $\sigma$ -algebra $\mathcal{G}$ , so it is a measure on $\mathcal{G}$  
 
-If ${\cal{P}}(G)=0$ , then $\mathbb{Q}(G)=0$ also (the integral of anything over a null set is zero), so $\mathbb{Q}<<\mathcal{N}$ By the Radon-Nikodym theorem, there exists a [[A Preview of Alternative Formulations|Radon-Nikodym derivative]] of $\mathbb{Q}$ with respect. to $\mathcal{W}$ on $\mathcal{G}$ , which is $\mathcal{G}$ -measurable. Following Kolmogorov, we call this [[A Preview of Alternative Formulations|Radon-Nikodym derivative]] the conditional expectation of $Y$ given (or conditional on) ${\mathcal{G}},{\mathcal{L}}(Y|{\mathcal{G}})$ , whose existence we now have established. For $Y$ that changes sign, split into $Y=Y^{+}-Y^{-}$ , and define. $\mathcal{\mathbb{E}}(Y|\mathcal{G}):=$ $\begin{array}{r}{\begin{array}{r l}{\lefteqn{I E(Y^{+}|\mathcal{G})-I E(Y^{-}|\mathcal{G})}}\end{array}}\end{array}$ . We summarize:  
+If ${\cal{P}}(G)=0$ , then $\mathbb{Q}(G)=0$ also (the integral of anything over a null set is zero), so $\mathbb{Q}<<\mathcal{N}$ By the Radon-Nikodym theorem, there exists a [Radon-Nikodym derivative](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) of $\mathbb{Q}$ with respect. to $\mathcal{W}$ on $\mathcal{G}$ , which is $\mathcal{G}$ -measurable. Following Kolmogorov, we call this [Radon-Nikodym derivative](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) the conditional expectation of $Y$ given (or conditional on) ${\mathcal{G}},{\mathcal{L}}(Y|{\mathcal{G}})$ , whose existence we now have established. For $Y$ that changes sign, split into $Y=Y^{+}-Y^{-}$ , and define. $\mathcal{\mathbb{E}}(Y|\mathcal{G}):=$ $\begin{array}{r}{\begin{array}{r l}{\lefteqn{I E(Y^{+}|\mathcal{G})-I E(Y^{-}|\mathcal{G})}}\end{array}}\end{array}$ . We summarize:  
 
 Definition B.5.1. Let $Y$ be a random variable with $\textstyle\mathbb{E}(|Y|)<\infty$ and $\mathcal{G}$ be a sub- $\cdot\sigma$ -algebra of $\mathcal{F}$ We call a random variable $Z$ a version of the conditional expectation ${\mathcal{L}}(Y|{\mathcal{G}})$ of $Y$ given $\mathcal{G}$ , and write $Z=I E(Y|{\mathcal{G}})$ , a.s., if  
 
@@ -5472,7 +5472,7 @@ $$
 1. To check that something is a conditional expectation: we have to check that it integrates the right way over the right sets (i.e., as in (B.4))..   
 2. From (B.4): if two things integrate the same way over all sets $B\in{\mathcal{G}}$ , they have the same. conditional expectation given $\mathcal{G}$   
 3. For notational convenience, we shall pass between. ${\mathcal{L}}(Y|{\mathcal{G}})$ and $\mathcal{L}_{\mathcal{G}}Y$ at will.   
-4. The conditional expectation thus defined coincides with any we may have already encountered - in regression or multivariate analysis, for example. However, this may not be immediately obvious. The conditional expectation defined above - via. $\sigma$ -algebras and the Radon-Nikodym theorem - is. rightly called by Williams ((Williams 1991), p.84) 'the central definition of modern probability'. It may take a little getting used to. As with all important but non-obvious definitions, it proves its worth in action: see. $\S2.6$ below for properties of conditional [[FORWARD RATES AND TERM STRUCTURE|expectations]], and Chapter 3 for its use in studying stochastic processes, particularly martingales (which are defined in terms of conditional [[FORWARD RATES AND TERM STRUCTURE|expectations]]).  
+4. The conditional expectation thus defined coincides with any we may have already encountered - in regression or multivariate analysis, for example. However, this may not be immediately obvious. The conditional expectation defined above - via. $\sigma$ -algebras and the Radon-Nikodym theorem - is. rightly called by Williams ((Williams 1991), p.84) 'the central definition of modern probability'. It may take a little getting used to. As with all important but non-obvious definitions, it proves its worth in action: see. $\S2.6$ below for properties of conditional [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md), and Chapter 3 for its use in studying stochastic processes, particularly martingales (which are defined in terms of conditional [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md)).  
 
 We now discuss the fundamental properties of conditional expectation. From the definition linearity of conditional expectation follows from the linearity of the integral. Further properties are given by  
 
@@ -5540,7 +5540,7 @@ $6^{\circ}$ . If $\mathcal{G}_{0}\subset\mathcal{G}$ $\begin{array}{r}{E[E(Y|\ma
 Proof. ${\cal{H}}[Y|\mathcal{G}_{0}]$ is $\mathcal{G}_{0}$ -measurable, so $\mathcal{G}$ -measurable as $\mathcal{G}_{0}\subset\mathcal{G}$ , so $E[.|\mathcal{G}]$ has no effect on it, by 3.  
 
 # Note.  
-$_6$ $6^{\circ}$ are the two forms of the iterated conditional [[FORWARD RATES AND TERM STRUCTURE|expectations]] property. When conditioning on two $\sigma$ -algebras, one larger (finer), one smaller (coarser), the coarser rubs out the effect of the finer, either way round. This may be thought of as the coarse-averaging property: we shall use this term interchangeably with the iterated conditional [[FORWARD RATES AND TERM STRUCTURE|expectations]] property (Williams (1991) uses the term tower property).  
+$_6$ $6^{\circ}$ are the two forms of the iterated conditional [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) property. When conditioning on two $\sigma$ -algebras, one larger (finer), one smaller (coarser), the coarser rubs out the effect of the finer, either way round. This may be thought of as the coarse-averaging property: we shall use this term interchangeably with the iterated conditional [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) property (Williams (1991) uses the term tower property).  
 
 7. Take $\mathcal{G}_{0}=\{\emptyset,\Omega\}$ in 6. and use 1.   
 8. If $Y$ is independent of $\mathcal{G}$ $Y$ is independent of ${\bf1}_{B}$ for every $B\in{\mathcal{G}}$ . So by (B.4) and linearity.  
@@ -5548,7 +5548,7 @@ $$
 \begin{array}{r c l}{{\displaystyle\int E(Y|\mathcal{G})d I P}}&{{=}}&{{\displaystyle\int Y d I P=\int\mathbf{1}_{B}Y d I P}}\ {{\displaystyle B}}&{{=}}&{{\displaystyle{\cal E}(\mathbf{1}_{B}Y)={\cal E}(\mathbf{1}_{B}){\cal E}(Y)=\int E Y d I P,}}\end{array}
 $$  
 
-using the multiplication theorem for [[Verification of Central Limit Theorem|independent random variables]]. Since this holds for all $B\in{\mathcal{G}}$ the result follows by $(B.4)$  
+using the multiplication theorem for [independent random variables](Verification%20of%20Central%20Limit%20Theorem.md). Since this holds for all $B\in{\mathcal{G}}$ the result follows by $(B.4)$  
 
 9. Recall (see e.g. Williams (1991), \$6.6a, 39.7h, $\mathrm{\S9.8h)}$ , that for every convex function there. exists a countable sequence $(a_{n},b_{n}),$ of points in. $\mathit{\Pi}\overline{{\mathit{{R}}^{2}}}$ such that  
 $$
@@ -5575,9 +5575,9 @@ Hence we may identify the conditional expectation operator as a projection.
 
 # B.6 Modes of Convergence  
 
-So far, we have dealt with one probability measure - or its expectation operator - at a time. We shall, however, have many occasions to consider a whole sequence of them, converging (in a suitable sense) to some limiting probability measure. Such situations arise, for example, whenever we approximate a financial model in continuous time (such as the continuous-time [[Black Scholes Derivation|Black-Scholes model]] of 6.2) by a sequence of models in discrete time (such as the discrete-time [[Black Scholes Derivation|Black-Scholes model]] of 4.6).  
+So far, we have dealt with one probability measure - or its expectation operator - at a time. We shall, however, have many occasions to consider a whole sequence of them, converging (in a suitable sense) to some limiting probability measure. Such situations arise, for example, whenever we approximate a financial model in continuous time (such as the continuous-time [Black-Scholes model](../Financial%20Instruments/Black%20Scholes%20Derivation.md) of 6.2) by a sequence of models in discrete time (such as the discrete-time [Black-Scholes model](../Financial%20Instruments/Black%20Scholes%20Derivation.md) of 4.6).  
 
-In the stochastic-process setting - such as the passage from discrete to continuous [[Mathematical Modeling of Derivative Pricing|Black-Scholes]] models mentioned above - we need concepts beyond those we have to hand, which we develop later. We confine ourselves here to setting out what we need to discuss convergence of random variables, in the various senses that are useful.  
+In the stochastic-process setting - such as the passage from discrete to continuous [Black-Scholes](Mathematical%20Modeling%20of%20Derivative%20Pricing.md) models mentioned above - we need concepts beyond those we have to hand, which we develop later. We confine ourselves here to setting out what we need to discuss convergence of random variables, in the various senses that are useful.  
 
 The first idea that occurs to one is to use the ordinary convergence concept in this new setting, of random variables: then if $X_{n}$ $X$ are random variables,  
 $$
@@ -5662,7 +5662,7 @@ $$
 \int f d P_{n}\to\int f d P(n\to\infty)
 $$  
 
-for all bounded continuous functions $f$ . This definition is given a full-length book treatment in. (Billingsley 1968), and we refer to this for background and details. For ordinary (real-valued) random variables, weak convergence of their probability measures is the same as convergence. in distribution of their distribution functions. However, the weak-convergence definition above applies equally, not just to this one-dimensional case, or to the finite-dimensional (vector-valued) setting, but also to infinite-dimensional settings such as arise in convergence of stochastic processes. We shall need such a framework in the passage from discrete- to continuous-time [[Mathematical Modeling of Derivative Pricing|Black-Scholes]]. models.  
+for all bounded continuous functions $f$ . This definition is given a full-length book treatment in. (Billingsley 1968), and we refer to this for background and details. For ordinary (real-valued) random variables, weak convergence of their probability measures is the same as convergence. in distribution of their distribution functions. However, the weak-convergence definition above applies equally, not just to this one-dimensional case, or to the finite-dimensional (vector-valued) setting, but also to infinite-dimensional settings such as arise in convergence of stochastic processes. We shall need such a framework in the passage from discrete- to continuous-time [Black-Scholes](Mathematical%20Modeling%20of%20Derivative%20Pricing.md). models.  
 
 # Appendix C  
 
@@ -5679,9 +5679,9 @@ information once known remains known - is not forgotten - and can be accessed in
 
 In reality, of course, matters are more complicated. Information overload is as much of a danger. as information scarcity. The ability to retain information, organise it, and access it quickly, is one of the main factors which will discriminate between the abilities of different economic agents to. react to changing market conditions. However, we restrict ourselves here to the simplest possible situation and do not differentiate between agents on the basis of their information-processing abilities. Thus as time passes, new information becomes available to all agents, who continually. update their information. What we need is a mathematical language to model this information fow, unfolding with time. This is provided by the idea of a filtration; we outline below the elements of this theory that we shall need..  
 
-The Kolmogorov triples $(\Omega,{\mathcal{F}},P)$ , and the Kolmogorov conditional [[FORWARD RATES AND TERM STRUCTURE|expectations]] ${\mathcal{L}}(X|B)$ give us all the machinery we need to handle static situations involving randomness. To handle dynamic situations, involving randomness which unfolds with time, we need further structure..  
+The Kolmogorov triples $(\Omega,{\mathcal{F}},P)$ , and the Kolmogorov conditional [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) ${\mathcal{L}}(X|B)$ give us all the machinery we need to handle static situations involving randomness. To handle dynamic situations, involving randomness which unfolds with time, we need further structure..  
 
-We may take the initial, or starting, time as $t=0$ . Time may evolve discretely, or continuously. We postpone the continuous case to Chapter 5; in the discrete case, we may suppose time evolves in integer steps, $t=0,1,2,\ldots$ (say, stock-market quotations daily, or tick data by the second).. There may be a final time $T$ , or time horizon, or we may have an infinite time horizon (in the. context of option [[Arbitrage Pricing of Derivatives|pricing]], the time horizon $T$ is the expiry time).  
+We may take the initial, or starting, time as $t=0$ . Time may evolve discretely, or continuously. We postpone the continuous case to Chapter 5; in the discrete case, we may suppose time evolves in integer steps, $t=0,1,2,\ldots$ (say, stock-market quotations daily, or tick data by the second).. There may be a final time $T$ , or time horizon, or we may have an infinite time horizon (in the. context of option [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), the time horizon $T$ is the expiry time).  
 
 We wish to model a situation involving randomness unfolding with time. As above, we suppose, for simplicity, that information is never lost (or forgotten): thus, as time increases we learn more. We recall from Chapter 2 that $\sigma$ -algebras represent information or knowledge. We thus need a sequence of $\sigma$ -algebras $\{{\mathcal{F}}_{n}:n=0,1,2,...\}$ , which are increasing:  
 $$
@@ -5695,7 +5695,7 @@ $$
 {\mathcal{F}}_{\infty}:=\operatorname*{lim}_{n\to\infty}{\mathcal{F}}_{n}=\sigma\left(\bigcup_{n}{\mathcal{F}}_{n}\right)
 $$  
 
-represents all we ever will know (the Doomsday. $\sigma$ -algebra'). Often,. $\mathcal{F}_{\infty}$ will be $\mathcal{F}$ (the $\sigma$ -algebra from Chapter 2, representing 'knowing everything'). But this will not always be so; see e.g. Williams (1991), \$15.8 for an interesting example. Such a family. ${\cal{F}}:=\{{\mathcal{F}}_{n}:n=0,1,2,...\}$ is called a filtration; a probability space endowed with such a filtration,. $\{\Omega,\pi,{\mathcal{F}},P\}$ is called a stochastic basis or [[Some Discrete-Time Stochastic Processes|filtered probability space]].. These definitions are due to P. A. Meyer of. Strasbourg; Meyer and the Strasbourg (and more generally, French) school of probabilists have been responsible for the 'general theory of (stochastic) processes, and for much of the progress. in stochastic integration, since the 1960s; see e.g. Dellacherie and Meyer (1978), Dellacherie and Meyer (1982), Meyer (1966), Meyer (1976).  
+represents all we ever will know (the Doomsday. $\sigma$ -algebra'). Often,. $\mathcal{F}_{\infty}$ will be $\mathcal{F}$ (the $\sigma$ -algebra from Chapter 2, representing 'knowing everything'). But this will not always be so; see e.g. Williams (1991), \$15.8 for an interesting example. Such a family. ${\cal{F}}:=\{{\mathcal{F}}_{n}:n=0,1,2,...\}$ is called a filtration; a probability space endowed with such a filtration,. $\{\Omega,\pi,{\mathcal{F}},P\}$ is called a stochastic basis or [filtered probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Some%20Discrete-Time%20Stochastic%20Processes.md).. These definitions are due to P. A. Meyer of. Strasbourg; Meyer and the Strasbourg (and more generally, French) school of probabilists have been responsible for the 'general theory of (stochastic) processes, and for much of the progress. in stochastic integration, since the 1960s; see e.g. Dellacherie and Meyer (1978), Dellacherie and Meyer (1982), Meyer (1966), Meyer (1976).  
 
 For the special case of a finite state space $\Omega=\{\omega_{1},\ldots,\omega_{n}\}$ and a given $\sigma$ algebra $\mathcal{F}$ on $\Omega$ (which in this case is just an algebra) we can always find a unique finite partition $\mathcal{P}=\{A_{1},\ldots,A_{l}\}$ of $\Omega$ , i.e. the sets $A_{i}$ are disjoint and $\textstyle\bigcup_{i=1}^{l}A_{i}=\Omega$ , corresponding to $\mathcal{F}$ . A filtration $\bar{\mathcal{M}}$ therefore corresponds to a sequence of finer and finer partitions $\mathcal{P}_{n}$ . At time $t=0$ the agents only know that. some event $\omega\in\Omega$ will happen, at time. $T<\infty$ they know which specific event $\omega^{*}$ has happened. During the flow of time the agents learn the specific structure of the $(\sigma-)$ algebras ${\mathcal{F}}_{n}$ , which means they learn the corresponding partitions $\mathcal{P}$ . Having the information in. ${\mathcal{F}}_{n}$ revealed is equivalent to. knowing in which $A_{i}^{(n)}\in\mathcal{P}_{n}$ the event $\omega^{*}$ is. Since the partitions become finer the information on $\omega^{*}$ becomes more detailed with each step.  
 
@@ -5703,11 +5703,11 @@ Unfortunately this nice interpretation breaks down as soon as $\Omega$ becomes i
 
 # C.2 Discrete-Parameter Stochastic Processes  
 
-The word 'stochastic' (derived from the Greek) is roughly synonymous with 'random'. It is perhaps unfortunate that usage favours '[[The Ornstein-Uhlenbeck (OU) Process|stochastic process]]' rather than the simpler 'random process', but as it does, we shall follow it.  
+The word 'stochastic' (derived from the Greek) is roughly synonymous with 'random'. It is perhaps unfortunate that usage favours '[stochastic process](../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md)' rather than the simpler 'random process', but as it does, we shall follow it.  
 
 We need a framework which can handle dynamic situations, in which time evolves, and in which new information unfolds with time. In particular, we need to be able to speak in terms of 'the information available at time. $n^{\prime}$ , or, 'what we know at time. $n$ '. Further, we need to be able to. increase $n-\mathrm{t}$ hereby increasing the information available as new information (typically, new price information) comes in, and talk about the information fow over time. One has a clear mental picture of what is meant by this - there is no conceptual difficulty. However, what is needed is a precise mathematical construct, which can be conveniently manipulated - perhaps in quite complicated ways - and yet which bears the above heuristic meaning. Now 'information' is not only an ordinary word, but even a technical term in mathematics - many books have been written on the subject of information theory. However, information theory in this sense is not what we. need: for us, the emphasis is on the flow of information, and how to model and describe it. With. this by way of motivation, we proceed to give some of the necessary definitions..  
 
-A [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] $X=\{X_{n}:n\in I\}$ is a family of random variables, defined on some common [[Uncertainty Information and Stochastic Processes|probability space]], indexed by an index-set $I$ . Usually (always in this book),. $I$ represents time (sometimes $I$ represents space, and one calls. $X$ a spatial process). Here,. $I=\{0,1,2,\ldots,T\}$ (finite horizon) or $I=\{0,1,2,...\}$ (infinite horizon). The (stochastic) process. $X=(X_{n})_{n=0}^{\infty}$ is Said to be adapted to the filtration. $\textstyle F=({\mathcal{F}}_{n})_{n=0}^{\infty}$ if  
+A [stochastic process](../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) $X=\{X_{n}:n\in I\}$ is a family of random variables, defined on some common [probability space](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md), indexed by an index-set $I$ . Usually (always in this book),. $I$ represents time (sometimes $I$ represents space, and one calls. $X$ a spatial process). Here,. $I=\{0,1,2,\ldots,T\}$ (finite horizon) or $I=\{0,1,2,...\}$ (infinite horizon). The (stochastic) process. $X=(X_{n})_{n=0}^{\infty}$ is Said to be adapted to the filtration. $\textstyle F=({\mathcal{F}}_{n})_{n=0}^{\infty}$ if  
 $$
 X_{n}{\mathrm{~is~}}{\mathcal{F}}_{n}-{\mathrm{measurable~for~all~}}n.
 $$  
@@ -5732,9 +5732,9 @@ for some measurable function $f_{n}$ (non-random) of $n+1$ variables.
 
 # Notation.  
 
-For a random variable $X$ on $(\Omega,{\mathcal{F}},I P)$ $X(\omega)$ is the value $X$ takes on $\omega$ $\omega$ represents the randomness). For a [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] $X=\left(X_{n}\right)$ , it is convenient (e.g., if using suffixes, $n_{i}$ say) to use $X_{n}$ $X(n)$ interchangeably, and we shall feel free to do this. With $\omega$ displayed, these become $X_{n}(\omega)$ $X(n,\omega)$ , etc.  
+For a random variable $X$ on $(\Omega,{\mathcal{F}},I P)$ $X(\omega)$ is the value $X$ takes on $\omega$ $\omega$ represents the randomness). For a [stochastic process](../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) $X=\left(X_{n}\right)$ , it is convenient (e.g., if using suffixes, $n_{i}$ say) to use $X_{n}$ $X(n)$ interchangeably, and we shall feel free to do this. With $\omega$ displayed, these become $X_{n}(\omega)$ $X(n,\omega)$ , etc.  
 
-The concept of a [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] is very general - and so very flexible -- but it is too general. for useful progress to be made without specifying further structure or further restrictions. There are two main types of [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] which are both general enough to be sufficiently flexible to model many commonly encountered situations, and sufficiently specific and structured to have a rich and powerful theory. These two types are Markov processes and martingales. A Markov. process models a situation in which where one is, is all one needs to know when wishing to predict the future - how one got there provides no further information. Such a lack of memory' property,. though an idealisation of reality, is very useful for modelling purposes. We shall encounter Markov processes more in continuous time (see Chapter 5) than in discrete time, where usage dictates that they are called Markov chains. For an excellent and accessible recent treatment of Markov chains, see e.g. Norris (1997). Martingales, on the other hand (see 3.3 below) model fair gambling games - situations where there may be lots of randomness (or unpredictability), but no tendency to drift. one way or another: rather, there is a tendency towards stability, in that the chance influences tend to cancel each other out on average..  
+The concept of a [stochastic process](../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) is very general - and so very flexible -- but it is too general. for useful progress to be made without specifying further structure or further restrictions. There are two main types of [stochastic process](../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) which are both general enough to be sufficiently flexible to model many commonly encountered situations, and sufficiently specific and structured to have a rich and powerful theory. These two types are Markov processes and martingales. A Markov. process models a situation in which where one is, is all one needs to know when wishing to predict the future - how one got there provides no further information. Such a lack of memory' property,. though an idealisation of reality, is very useful for modelling purposes. We shall encounter Markov processes more in continuous time (see Chapter 5) than in discrete time, where usage dictates that they are called Markov chains. For an excellent and accessible recent treatment of Markov chains, see e.g. Norris (1997). Martingales, on the other hand (see 3.3 below) model fair gambling games - situations where there may be lots of randomness (or unpredictability), but no tendency to drift. one way or another: rather, there is a tendency towards stability, in that the chance influences tend to cancel each other out on average..  
 
 # C.3 Definition and basic properties of martingales  
 
@@ -5761,7 +5761,7 @@ Martingales have a useful interpretation in terms of dynamic games: a martingale
 1. Martingales have many connections with harmonic functions in probabilistic potential theory. The terminology in the inequalities above comes from this: supermartingales correspond to superharmonic functions, submartingales to subharmonic functions..   
 2. $X$ is a submartingale (supermartingale) if and only if. $-X$ is a supermartingale (submartingale); $X$ is a martingale if and only if it is both a submartingale and a supermartingale.   
 3. $\left(X_{n}\right)$ is a martingale if and only if. $\left(X_{n}-X_{0}\right)$ is a martingale. So we may without loss of. generality take $X_{0}=0$ when convenient.   
-4.If $X$ is a martingale, then for $m\:<\:n$ using the iterated conditional expectation and the [[Continuous-Time Stochastic Processes|martingale property]] repeatedly (all equalities are in the a.s.-sense)  
+4.If $X$ is a martingale, then for $m\:<\:n$ using the iterated conditional expectation and the [martingale property](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) repeatedly (all equalities are in the a.s.-sense)  
 $$
 \begin{array}{r c l}{{\cal E}[X_{n}|{\mathcal F}_{m}]}&{=}&{{\cal E}[{\cal E}(X_{n}|{\mathcal F}_{n-1})|{\mathcal F}_{m}]={\cal E}[X_{n-1}|{\mathcal F}_{m}]}\ {}&{}&{}\ {}&{=}&{\ldots={\cal E}[X_{m}|{\mathcal F}_{m}]=X_{m},}\end{array}
 $$  
@@ -5781,8 +5781,8 @@ The term 'martingale' in our sense is due to J. Ville (1939). Martingales were s
 
 # Examples.  
 
-1. Mean zero [[Some Discrete-Time Stochastic Processes|random walk]]:. $S_{n}=\sum X_{i}$ , with $X_{i}$ independent with $\textstyle{\mathcal{L}}(X_{i})=0$ is a martingale (submartingales: positive mean; supermartingale: negative mean).   
-2. Stock prices: $S_{n}=S_{0}\zeta_{1}\cdot\cdot\cdot\zeta_{n}$ with $\zeta_{i}$ independent positive r.vs with existing first moment. 3. Accumulating data about a random variable (Williams (1991), pp. 96, 166-167). If $\xi\in\mathbf{\Xi}$ $\mathcal{L}^{1}(\Omega,\mathcal{F},\mathit{\Pi},\mathit{\Pi}^{\textit{\Pi}})$ $M_{n}:=I E(\xi|\mathcal{F}_{n})$ (so $M_{n}$ represents our best estimate of $\xi$ based on knowledge at time $n$ ), then using iterated conditional [[FORWARD RATES AND TERM STRUCTURE|expectations]]  
+1. Mean zero [random walk](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Some%20Discrete-Time%20Stochastic%20Processes.md):. $S_{n}=\sum X_{i}$ , with $X_{i}$ independent with $\textstyle{\mathcal{L}}(X_{i})=0$ is a martingale (submartingales: positive mean; supermartingale: negative mean).   
+2. Stock prices: $S_{n}=S_{0}\zeta_{1}\cdot\cdot\cdot\zeta_{n}$ with $\zeta_{i}$ independent positive r.vs with existing first moment. 3. Accumulating data about a random variable (Williams (1991), pp. 96, 166-167). If $\xi\in\mathbf{\Xi}$ $\mathcal{L}^{1}(\Omega,\mathcal{F},\mathit{\Pi},\mathit{\Pi}^{\textit{\Pi}})$ $M_{n}:=I E(\xi|\mathcal{F}_{n})$ (so $M_{n}$ represents our best estimate of $\xi$ based on knowledge at time $n$ ), then using iterated conditional [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md)  
 $$
 \begin{array}{r}{E[M_{n}|\mathcal{F}_{n-1}]=E[E(\xi|\mathcal{F}_{n})|\mathcal{F}_{n-1}]=E[\xi|\mathcal{F}_{n-1}]=M_{n-1},}\end{array}
 $$  
@@ -5866,74 +5866,74 @@ Remark C.4.1. The proof above is a good example of the value of Kolmogorov's def
 
 # Bibliography  
 
-Allingham, M., 1991, [[Arbitrage Pricing of Derivatives|Arbitrage]]. Elements of financial economics. (MacMillan).   
+Allingham, M., 1991, [Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). Elements of financial economics. (MacMillan).   
 Barndorff-Nielsen, O.E., 1998, Processes of normal inverse Gaussian type, Finance and Stochastics 2, 41-68.   
 Billingsley, P., 1968, Convergence of probability measures. (Wiley, New York)   
-Bjork, T., 1995, [[Financial Mathematics Course|Arbitrage theory]] in continuous time, Notes from Ascona meeting..   
-Bjork, T., 1997, [[Financial Mathematics Course|Interest rate theory]], in [[Financial Mathematics Course|Financial Mathematics]], ed. by W.J. Runggaldier Lecture Notes in Mathematics pp. 53-122. Springer, Berlin New York London.   
-Black, F., and M. Scholes, 1973, The [[Arbitrage Pricing of Derivatives|pricing]] of options and corporate liabilities, Journal of Political Economy 72, 637-659.   
-Brown, R.H., and S.M. Schaefer, 1995, [[Fixed Income Versus Equity Derivatives|Interest rate volatility]] and the shape of the [[The Vasicek Model|term structure]], in S.D. Howison, F.P. Kelly, and P. Wilmott, eds.: Mathematical models in finance (Chapman. & Hall, ).   
+Bjork, T., 1995, [Arbitrage theory](.md) in continuous time, Notes from Ascona meeting..   
+Bjork, T., 1997, [Interest rate theory](.md), in [Financial Mathematics](.md), ed. by W.J. Runggaldier Lecture Notes in Mathematics pp. 53-122. Springer, Berlin New York London.   
+Black, F., and M. Scholes, 1973, The [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of options and corporate liabilities, Journal of Political Economy 72, 637-659.   
+Brown, R.H., and S.M. Schaefer, 1995, [Interest rate volatility](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Fixed%20Income%20Versus%20Equity%20Derivatives.md) and the shape of the [term structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md), in S.D. Howison, F.P. Kelly, and P. Wilmott, eds.: Mathematical models in finance (Chapman. & Hall, ).   
 Burkholder, D.L., 1966, Martingale transforms, Ann. Math. Statist. 37, 1494-1504.   
 Burkill, J.C., and H. Burkill, 1970, A second course in mathematical analysis. (Cambridge Uni-. versity Press).   
-Cochrane, J.H., 2001, [[Fixed Income Asset Pricing|Asset pricing]]. (Princeton University Press).   
+Cochrane, J.H., 2001, [Asset pricing](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md). (Princeton University Press).   
 Cox, D.R., and H.D. Miller, 1972, The theory of stochastic processes. (Chapman and Hall, London and New York) First published 1965 by Methuen & Co Ltd.   
 Cox, J.C., and S.A. Ross, 1976, The valuation of options for alternative stochastic processes, Journal of Financial Economics 3, 145-166.   
-Cox, J.C., S. A. Ross, and M. Rubinstein, 1979, Option [[Arbitrage Pricing of Derivatives|pricing]]: a simplified approach, J. Financial Economics 7, 229-263.   
+Cox, J.C., S. A. Ross, and M. Rubinstein, 1979, Option [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md): a simplified approach, J. Financial Economics 7, 229-263.   
 Cox, J.C., and M. Rubinstein, 1985, Options markets. (Prentice-Hall).   
-Davis, M.H.A., 1994, A general option [[Arbitrage Pricing of Derivatives|pricing]] formula, Preprint, Imperial College.   
+Davis, M.H.A., 1994, A general option [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formula, Preprint, Imperial College.   
 Dellacherie, C., and P.-A. Meyer, 1978, Probabilities and potential vol. A. (Hermann, Paris).   
 Dellacherie, C., and P.-A. Meyer, 1982, Probabilities and potential vol. B. (North Holland, Amsterdam New York).   
 Doob, J. L., 1953, Stochastic processes. (Wiley).   
-Dothan, M. U., 1990, Prices in [[Financial Markets and Institutions Lecture Notes|financial markets]]. (Oxford University Press).   
+Dothan, M. U., 1990, Prices in [financial markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md). (Oxford University Press).   
 Dudley, R.M., 1989, Real Analysis and Probability. (Wadsworth, Pacific Grove).   
-Duffie, D., 1992, Dynamic [[Mean-Variance Efficient Returns and Pricing Fac|Asset Pricing Theory]]. (Princton University Press).   
-Duffie, D., and R. Kan, 1995, Multi-factor [[Financial Mathematics Course|term structure models]], in S.D. Howison, F.P. Kelly, and P. Wilmott, eds.: Mathematical models in finance (Chapman & Hall, ).   
+Duffie, D., 1992, Dynamic [Asset Pricing Theory](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Mean-Variance%20Efficient%20Returns%20and%20Pricing%20Fac.md). (Princton University Press).   
+Duffie, D., and R. Kan, 1995, Multi-factor [term structure models](.md), in S.D. Howison, F.P. Kelly, and P. Wilmott, eds.: Mathematical models in finance (Chapman & Hall, ).   
 Durrett, R., 1996, Probability: Theory and Examples. (Duxbury Press at Wadsworth Publishing Company) 2nd edn.   
 Durrett, R., 1999, Essentials of stochastic processes. (Springer).   
 Eberlein, E., and U. Keller, 1995, Hyperbolic distributions in finance, Bernoulli 1, 281-299.   
-Edwards, F.R., and C.W. Ma, 1992, [[Futures Not Subject to Cash-And-Carry|Futures]] and Options. (McGraw-Hill, New York).   
-El Karoui, N., R. Myneni, and R. Viswanathan, 1992, [[Risk-Neutral Pricing|Arbitrage pricing]] and [[Key Rates O1s Durations and Hedging|hedging]] of interest rate claims with state variables: I. Theory, Universite de Paris VI and Stanford University.   
-Grimmett, G.R., and D.J.A. Welsh, 1986, Probability: An [[Squam Lake Group Introduction|introduction]]. (Oxford University Press).   
-Harrison, J.M., 1985, [[Continuous-Time Stochastic Processes|Brownian motion]] and stochastic flow systems. (John Wiley and Sons, New York).   
-Harrison, J.M., and D. M. Kreps, 1979, Martingales and [[Arbitrage Pricing of Derivatives|arbitrage]] in multiperiod [[Chapter 1 Introduction to Securities Trading and Markets|securities markets]], J. Econ. Th. 20, 381-408.   
+Edwards, F.R., and C.W. Ma, 1992, [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) and Options. (McGraw-Hill, New York).   
+El Karoui, N., R. Myneni, and R. Viswanathan, 1992, [Arbitrage pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Risk-Neutral%20Pricing.md) and [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of interest rate claims with state variables: I. Theory, Universite de Paris VI and Stanford University.   
+Grimmett, G.R., and D.J.A. Welsh, 1986, Probability: An [introduction](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md). (Oxford University Press).   
+Harrison, J.M., 1985, [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) and stochastic flow systems. (John Wiley and Sons, New York).   
+Harrison, J.M., and D. M. Kreps, 1979, Martingales and [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) in multiperiod [securities markets](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%201%20Introduction%20to%20Securities%20Trading%20and%20Markets.md), J. Econ. Th. 20, 381-408.   
 Harrison, J.M., and S.R. Pliska, 1981, Martingales and stochastic integrals in the theory of continuous trading, Stochastic Processes and their Applications 11, 215-260.   
-Heath, D., R. Jarrow, and A. Morton, 1992, Bond [[Arbitrage Pricing of Derivatives|pricing]] and the [[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]]:. a new methodology for contingent claim valuation, Econometrica 60, 77-105.   
-Ikeda, N., S. Watanabe, Fukushima M., and H. Kunita  (eds.), 1996, Ito [[6. A Brief Introduction to Stochastic Calculus|stochastic calculus]] and probability theory. (Springer, Tokyo Berlin New York) Festschrift for Kiyosi Ito's eightieth birthday, 1995.   
+Heath, D., R. Jarrow, and A. Morton, 1992, Bond [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and the [term structure of interest rates](6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md):. a new methodology for contingent claim valuation, Econometrica 60, 77-105.   
+Ikeda, N., S. Watanabe, Fukushima M., and H. Kunita  (eds.), 1996, Ito [stochastic calculus](6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md) and probability theory. (Springer, Tokyo Berlin New York) Festschrift for Kiyosi Ito's eightieth birthday, 1995.   
 Ince, E.L., 1944, Ordinary differential equations. (Dover New York).   
 Jacod, J., and P. Protter, 2000, Probability essentials. (Springer).   
-Jameson, R. (ed.), 1995, Derivative [[Quantitative Trading Strategies Lecture Notes|credit risk]]. (Risk Publications London).   
-Jarrow, R.A., and S.M. Turnbull, 2000, [[Financial Mathematics Course|Derivative Securities]]. (South-Western College Publishing,. Cincinnati) 2nd edn. 1st ed. 1996.   
+Jameson, R. (ed.), 1995, Derivative [credit risk](../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md). (Risk Publications London).   
+Jarrow, R.A., and S.M. Turnbull, 2000, [Derivative Securities](.md). (South-Western College Publishing,. Cincinnati) 2nd edn. 1st ed. 1996.   
 Jeans, Sir James, 1925, The mathematical theory of electricity and magnetism. (Cambridge University Press) 5th. edn.   
-Karatzas, I., and S. Shreve, 1991, [[Continuous-Time Stochastic Processes|Brownian motion]] and [[6. A Brief Introduction to Stochastic Calculus|stochastic calculus]]. (Springer, New York) 2nd edn.   
-Kolb, R.W., 1991, Understanding [[Contango And Backwardation In Arbitrage-Free Futures-Markets|Futures Markets]]. (Kolb Publishing, Miami) 3rd edn.   
+Karatzas, I., and S. Shreve, 1991, [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) and [stochastic calculus](6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md). (Springer, New York) 2nd edn.   
+Kolb, R.W., 1991, Understanding [Futures Markets](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Contango%20And%20Backwardation%20In%20Arbitrage-Free%20Futures-Markets.md). (Kolb Publishing, Miami) 3rd edn.   
 Kolmogorov, A.N., 1933, Grundbegriffe der Wahrscheinlichkeitsrechnung. (Springer) English translation: Foundations of probability theory, Chelsea, New York, (1965).   
 Lebesgue, H., 1902, Integrale, longueur, aire, Annali di Mat. 7, 231-259..   
 Loeve, M., 1973, Paul Levy (1886-1971), obituary, Annals of Probability 1, 1-18.   
-Madan, D., 1998, [[Default Risk and Credit Derivatives 183|Default risk]], in D.J. Hand, and S.D. Jacka, eds.: Statistics in finance (Arnold, London, ).   
+Madan, D., 1998, [Default risk](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/Default%20Risk%20and%20Credit%20Derivatives%20183.md), in D.J. Hand, and S.D. Jacka, eds.: Statistics in finance (Arnold, London, ).   
 BIBLIOGRAPHY 141   
-[[Credit Markets Session 5|Merton]], R.C., 1973, Theory of rational option [[Arbitrage Pricing of Derivatives|pricing]], Bell Journal of Economics and Management Science 4, 141-183.   
-[[Credit Markets Session 5|Merton]], R.C., 1990, Continuous-time finance. (Blackwell, Oxford)..   
+[Merton](../Credit%20Markets/Credit%20Markets%20Session%205.md), R.C., 1973, Theory of rational option [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), Bell Journal of Economics and Management Science 4, 141-183.   
+[Merton](../Credit%20Markets/Credit%20Markets%20Session%205.md), R.C., 1990, Continuous-time finance. (Blackwell, Oxford)..   
 Meyer, P.-A., 1966, Probability and potential. (Blaisdell, Waltham, Mass.)..   
 Meyer, P.-A., 1976, Un cours sur les integrales stochastiques, in Seminaire de Probabilites $X$ no. 511 in Lecture Notes in Mathematics pp. 245-400. Springer, Berlin Heidelberg New York.   
 Musiela, M., and M. Rutkowski, 1997, Martingale methods in financial modelling vol. 36 of Applications of Mathematics: Stochastic Modelling and Applied Probability. (Springer, New York)..   
 Neveu, J., 1975, Discrete-parameter martingales. (North-Holland).   
 Norris, J.R., 1997, Markov chains. (Cambridge University Press)..   
 Protter, P., 2004, Stochastic Integration and Differential Equations. (Springer, New York) 2nd edn. 1rst edition, 1992.   
-Rennocks, John, 1997, [[Key Rates O1s Durations and Hedging|Hedging]] can only defer [[Forwards and Futures Notes|currency]] volatility impact for British Steel, Financial Times 08, Letter to the editor.   
+Rennocks, John, 1997, [Hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) can only defer [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) volatility impact for British Steel, Financial Times 08, Letter to the editor.   
 Resnick, S., 2001, A probability path. (Birkhauser) 2nd printing.   
-Revuz, D., and M. Yor, 1991, Continuous martingales and [[Continuous-Time Stochastic Processes|Brownian motion]]. (Springer, New York).   
+Revuz, D., and M. Yor, 1991, Continuous martingales and [Brownian motion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md). (Springer, New York).   
 Rockafellar, R.T., 1970, Convex Analysis. (Princton University Press, Princton NJ).   
 Rogers, L.C.G., and D. Williams, 1994, Diffusions, Markov processes and martingales, Volume 1: Foundation. (Wiley) 2nd edn. 1st ed. D. Williams, 1970.   
 Rosenthal, J.S., 2000, A first look at rigorous probability theory. (World Scientific)..   
 Ross, S.M., 1997, Probability models. (Academic Press) 6th edn.   
 Rydberg, T.H., 1996, Generalized hyperbolic diffusions with applications towards finance, Research Report 342, Department of Theoretical Statistics, Institute of Mathematics, University. Of Arhus University.   
 Rydberg, T.H., 1997, The normal inverse Gaussian Levy process: Simulation and approximation, Research Report, Department of Theoretical Statistics, Institute of Mathematics, University of Arhus University.   
-Samuelson, P.A., 1965, Rational theory of warrant [[Arbitrage Pricing of Derivatives|pricing]], Industrial Management Review 6, 13-39.   
-Schachermayer, W., 2000, [[Squam Lake Group Introduction|Introduction]] to the mathematics of [[Financial Markets and Institutions Lecture Notes|financial markets]], to appear as Springer Lecture Notes.   
-Shephard, N., 1996, Statistical aspects of ARCH and [[Valuing European Option Using the Heston Model in QuantLib Python|stochastic volatility]], in D.R. Cox, D.V. Hinkley, and O.E. Barndorff-Nielsen, eds.: Time Series Models - in econometrics, finance and other fields (Chapman & Hall, ).   
+Samuelson, P.A., 1965, Rational theory of warrant [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), Industrial Management Review 6, 13-39.   
+Schachermayer, W., 2000, [Introduction](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to the mathematics of [financial markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md), to appear as Springer Lecture Notes.   
+Shephard, N., 1996, Statistical aspects of ARCH and [stochastic volatility](../Course%20Notes/Python/QuantLib-Python/Valuing%20European%20Option%20Using%20the%20Heston%20Model%20in%20QuantLib%20Python.md), in D.R. Cox, D.V. Hinkley, and O.E. Barndorff-Nielsen, eds.: Time Series Models - in econometrics, finance and other fields (Chapman & Hall, ).   
 Snell, J. L., 1952, Applications of martingale systems theorems, Trans. Amer. Math. Soc. 73, 293-312.   
 Taqqu, M.S., and W. Willinger, 1987, The analysis of finite security markets using martingales, Adv. Appl. Prob. 19, 1-25.   
 Williams, D., 1991, Probability with martingales. (Cambridge University Press).   
 Williams, D., 2001, Weighing the odds. (Cambridge University Press)   
 Yor, M., 1978, Sous-espaces denses dans $L^{1}$ et $H^{1}$ et representation des martingales, in Seminaire de Probabilites, XII no. 649 in Lecture Notes in Mathematics pp. 265-309. Springer.   
-Zhang, P.G., 1997, [[Exotic Interest Rate Options|Exotic]] Options. (World Scientific, Singapore).  
+Zhang, P.G., 1997, [Exotic](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) Options. (World Scientific, Singapore).  

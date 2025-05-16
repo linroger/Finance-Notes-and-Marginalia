@@ -21,11 +21,11 @@ key_concepts:
 # Economic Stabilization Notes
 
 %% Begin Waypoint %%
-- **[[Economic Stabilization Notes]]**
-	- [[Business Cycles- Introduction,  Characteristics,  and History]]
-	- [[Economic Stabilization Notes]]
-	- [[Macroeconomic Models of Business Cycles]]
-	- [[Theory of Stabilization Policy]]
-	- [[Topics in Fiscal and Monetary Policies and Stabilization- Empirical Issues]]
+- **[Economic Stabilization Notes](.md)**
+	- [Business Cycles- Introduction,  Characteristics,  and History](Business%20Cycles-%20Introduction,%20%20Characteristics,%20%20and%20History)
+	- [Economic Stabilization Notes](.md)
+	- [Macroeconomic Models of Business Cycles](Macroeconomic%20Models%20of%20Business%20Cycles.md)
+	- [Theory of Stabilization Policy](Theory%20of%20Stabilization%20Policy.md)
+	- [Topics in Fiscal and Monetary Policies and Stabilization- Empirical Issues](Topics%20in%20Fiscal%20and%20Monetary%20Policies%20and%20Stabilization-%20Empirical%20Issues.md)
 
 %% End Waypoint %%

@@ -20,7 +20,7 @@ key_concepts:
 
 EXERCISE 11.1 Show that the Equations (11.8) and (11.9) are equivalent.  
 
-EXERCISE 11.2 Take a [[Exercises|continuous-time framework]] and assume that $\zeta=(\zeta_{t})_{t\in[0,T]}$ is a stateprice deflator. What is the. $\mathbb{Q}$ -dynamics of $\zeta\mathrm{^{\prime}}$  
+EXERCISE 11.2 Take a [continuous-time framework](.md) and assume that $\zeta=(\zeta_{t})_{t\in[0,T]}$ is a stateprice deflator. What is the. $\mathbb{Q}$ -dynamics of $\zeta\mathrm{^{\prime}}$  
 
 EXERCISE 11.3 Consider Example 11.3. Compute the conditional $\mathbb{Q}^{2}$ -probabilities of the transitions over the second period of the tree. Compare with conditional $\mathbb{Q}$ -probabilities illustrated in Figure 11.2 and explain why they are (not?) different.  
 

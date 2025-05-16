@@ -147,23 +147,23 @@ $$i=\frac{AV_{t+1}-AV_{t}}{AV_{t}}$$
 - Compensation a borrower of capital pays to a lender of capital lender has to be compensated since they have temporarily lost use of their capital interest and capital are almost always expressed in terms of money
 ## 1.2 Simple Interest
 
-let the interest amount earned each year on an [[An Asset Allocation Primer|investment]] of $X$ be constant where the annua rate of interest is $\dot{i}$$$AV_t=X(1+ti),$$
+let the interest amount earned each year on an [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of $X$ be constant where the annua rate of interest is $\dot{i}$$$AV_t=X(1+ti),$$
 
 where $(1+ti)$ is a linear function
 
-[[Interest Rate Quotations|simple interest]] has the property that interest is NOT reinvested to earn additional interest amount of Interest Earned to time $t$ is
+[simple interest](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) has the property that interest is NOT reinvested to earn additional interest amount of Interest Earned to time $t$ is
 $$I=AV_t-AV_0=X(1+it)-X=X\cdot it$$
 
 ## 1.3 Compound Interest
 
-— let the interest amount earned each year on an [[An Asset Allocation Primer|investment]] of $X$ also allow the interest earned to earn interest where the annual rate of interest is 2
+— let the interest amount earned each year on an [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of $X$ also allow the interest earned to earn interest where the annual rate of interest is 2
 $$AV_t=X(1+i)^t,$$
 
 where $(1+i)^{l}$ is an exponential function
 
- [[Continuously Compounding Interest|compound interest]] produces larger accumulations than [[Interest Rate Quotations|simple interest]] when $t>1$
+ [compound interest](Review%20Session%20Notes/Continuously%20Compounding%20Interest.md) produces larger accumulations than [simple interest](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) when $t>1$
 
-Note that a constant rate of [[Continuously Compounding Interest|compound interest]] implies a constant effective rate of interest
+Note that a constant rate of [compound interest](Review%20Session%20Notes/Continuously%20Compounding%20Interest.md) implies a constant effective rate of interest
 
 ## 1.4 Accumulated Value
 
@@ -175,10 +175,10 @@ Accumulated Value Factor: $AVF_{t}$
 
 — $AV_{t}$ defines the Accumulated Value that amount $X$ grows to in $t$ years
 
-the Accumulated Value at time $t$ is the product of the initial capital [[An Asset Allocation Primer|investment]] of $X$ (Prin cipal) made at time zero and the Accumulation Value Factor:
+the Accumulated Value at time $t$ is the product of the initial capital [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of $X$ (Prin cipal) made at time zero and the Accumulation Value Factor:
 $$AV_t=X\cdot AVF_t,$$
 
-where $AVF_{t}=(1+it)$ if [[Interest Rate Quotations|simple interest]] is being applied and $AVF_{t}=(1+i)^{t}$ if compouno interest is being applied
+where $AVF_{t}=(1+it)$ if [simple interest](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) is being applied and $AVF_{t}=(1+i)^{t}$ if compouno interest is being applied
 ### 1.5 Present Value
 
 ### Discounting
@@ -194,9 +194,9 @@ $$Z=X\cdot v^{t}$$
 
 - simpl interest $PVF_{t}=\frac{1}{1+it}$
 
-- [[Continuously Compounding Interest|compound interest]]: $PVF_{t}={\frac{1}{\left(1+i\right)^{t}}}=v^{t}$
+- [compound interest](Review%20Session%20Notes/Continuously%20Compounding%20Interest.md): $PVF_{t}={\frac{1}{\left(1+i\right)^{t}}}=v^{t}$
 
-[[Continuously Compounding Interest|compound interest]] produces smaller Discount Values than [[Interest Rate Quotations|simple interest]] when $t>1$
+[compound interest](Review%20Session%20Notes/Continuously%20Compounding%20Interest.md) produces smaller Discount Values than [simple interest](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) when $t>1$
 ## 1.6 Rate of Discount: $d$
 
 ### Definition
@@ -224,7 +224,7 @@ $$(1-d)(1+i)=1$$
 Interest rate is the ratio of the discount paid to the amount at the beginning of the period
 $$i=\frac{d}{1-d}$$
 
-[[PSET 7- Kohler|Discount rate]] is the ratio of the interest paid to the amount at the end of the period：
+[Discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) is the ratio of the interest paid to the amount at the end of the period：
 $$d=\frac{i}{1+i}$$
 
  The present value of end-of-year interest is the discount paid at the beginning of the yea 1
@@ -322,7 +322,7 @@ where $l_k$ is the constant rate of interest between time $k-1$ and time $k$
 
 ### Exercise (a)
 
-At what rate of [[Interest Rate Quotations|simple interest]] will 500 accumulate to 615 in 2.5 years?
+At what rate of [simple interest](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) will 500 accumulate to 615 in 2.5 years?
 
 Solution (a)
 $$\begin{gathered}
@@ -332,7 +332,7 @@ i={\frac{\frac{615}{500}-1}{2.5}}=9.2\%
 
 Exercise (b)
 
-In how many years will 500 accumulate to 630 at $7.8\%$ [[Interest Rate Quotations|simple interest]]?
+In how many years will 500 accumulate to 630 at $7.8\%$ [simple interest](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)?
 
 Solution (b)
 $$500[1+0.1(n)]=630$$
@@ -340,7 +340,7 @@ $$i=\frac{\frac{630}{500}-1}{0.1}=3.33\mathrm{~years}$$
 
 Exercise (c)
 
-At a certain rate of [[Interest Rate Quotations|simple interest]] 1,000 will accumulate to 1,100 after a certain period of time. Find the accumulated value of 500 at a rate of [[Interest Rate Quotations|simple interest]] three fourths as great over twice as long a period of time.
+At a certain rate of [simple interest](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) 1,000 will accumulate to 1,100 after a certain period of time. Find the accumulated value of 500 at a rate of [simple interest](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) three fourths as great over twice as long a period of time.
 
 Solution (c)
 $$1,000[1+i\cdot n]=1,100\to i\cdot n=0.1$$
@@ -348,14 +348,14 @@ $$500[1+\frac{3}{4}i\cdot2n]=500[1+(1.5)(0.1)]=582.50$$
 
 ### Exercise (d)
 
-[[Interest Rate Quotations|Simple interest]] of $i=4\%$ is being credited to a fund. In which period is this equivalent to an effective rate of $2.5\%$
+[Simple interest](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) of $i=4\%$ is being credited to a fund. In which period is this equivalent to an effective rate of $2.5\%$
 
 Solution (d)
 $$i_n=\frac{i}{1+i(n-1)}$$
 $$0.25=\frac{0.1}{1+0.1(n-1)}\to n=16$$
 ## Exercise (a)
 
-Fund $A$ is invested at an effective [[Continuously Compounding Interest|annual interest rate]] of $3\%$ .Fund $B$ is invested at an effective [[Continuously Compounding Interest|annual interest rate]] of $2.5\%$ .At the end of 20 years, the total in the two funds is 10,000. At the end of 31 years, the amount in Fund $A$ is twice the amount in Fund $B$ Calculate the total in the two funds at the end of 10 years.
+Fund $A$ is invested at an effective [annual interest rate](Review%20Session%20Notes/Continuously%20Compounding%20Interest.md) of $3\%$ .Fund $B$ is invested at an effective [annual interest rate](Review%20Session%20Notes/Continuously%20Compounding%20Interest.md) of $2.5\%$ .At the end of 20 years, the total in the two funds is 10,000. At the end of 31 years, the amount in Fund $A$ is twice the amount in Fund $B$ Calculate the total in the two funds at the end of 10 years.
 
 # Solution (a)
 
@@ -368,7 +368,7 @@ $$3,624.73(1.03)^{10}+2,107.46(1.025)^{10}=7,569.07$$
 
 ## Exercise (b)
 
-Carl puts 10,000 into a bank account that pays an annual [[1. DeterministicCashFlows|effective interest rate]] of $4\%$ for ten years. If a withdrawal is made during the first five and one-half years, a penalty of $5\%$ of the withdrawal amount is made. Carl withdrawals $K$ at the end of each of years 4, 5, 6, 7. The balance in the account at the end of year 10 is 10,000. Calculate $K$
+Carl puts 10,000 into a bank account that pays an annual [effective interest rate](../Financial%20Engineering/1.%20DeterministicCashFlows.md) of $4\%$ for ten years. If a withdrawal is made during the first five and one-half years, a penalty of $5\%$ of the withdrawal amount is made. Carl withdrawals $K$ at the end of each of years 4, 5, 6, 7. The balance in the account at the end of year 10 is 10,000. Calculate $K$
 
 ## Solution (b)
 $$10,000(1.04)^{10}-1.05K(1.04)^6-1.05K(1.04)^5-K(1.04)^4-K(1.04)^3=10,000$$
@@ -405,7 +405,7 @@ $$\begin{bmatrix}\frac{(n+1)^2}{4}\end{bmatrix}+4=20\to\frac{(n+1)^2}{4}=16\to\f
 
 Exercise (b)
 
-At an effective [[Continuously Compounding Interest|annual interest rate]] of $\dot{\boldsymbol{z}}$ $i>0$ , each of the following two sets of payments has present value $K$
+At an effective [annual interest rate](Review%20Session%20Notes/Continuously%20Compounding%20Interest.md) of $\dot{\boldsymbol{z}}$ $i>0$ , each of the following two sets of payments has present value $K$
 
 (i) A payment of 121 immediately and another payment of 121 at the end of one year.
 
@@ -464,7 +464,7 @@ $$(1.10)^n=\frac{1}{0.1}=1.36824\to n=\frac{ln(1.36824)}{ln(1.10)}=3.29$$
 
 ### Exercise (c)
 
-A deposit of X is made into a fund which pays an annual [[1. DeterministicCashFlows|effective interest rate]] of $6\%$ for 10 years.
+A deposit of X is made into a fund which pays an annual [effective interest rate](../Financial%20Engineering/1.%20DeterministicCashFlows.md) of $6\%$ for 10 years.
 
 At the same time , $X/2$ is deposited into another fund which pays an annual effective rate of discount of $d$ for 10 years
 
@@ -492,7 +492,7 @@ $$\delta_{\frac{1}{2}}=\frac{(2)(8)(\frac{1}{2})+2}{(8)(\frac{1}{2})^{2}+(2)(\fr
 
 Exercise (b)
 
-Fund $A$ accumulates at a [[1. DeterministicCashFlows|simple interest rate]] of $10\%$ .Fund $B$ accumulates ata simple [[PSET 7- Kohler|discount rate]] of $5\%$ .Find the point in time at which the forces of interest on the two funds are equal.
+Fund $A$ accumulates at a [simple interest rate](../Financial%20Engineering/1.%20DeterministicCashFlows.md) of $10\%$ .Fund $B$ accumulates ata simple [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) of $5\%$ .Find the point in time at which the forces of interest on the two funds are equal.
 
 ### Solution (b)
 $$AVF_t^A=1+0.1t\text{and}AVF_t^B=(1+0.1t)^{-1}$$
@@ -503,7 +503,7 @@ Equating and solve for $t$
 $$\frac{0.1}{1+0.1t}=\frac{0.1}{1-0.1t}\to0.1-0.1t=0.1+0.1t\to t=5$$
 ### Exercise (a)
 
-On 15 March 2003. A student deposits $X$ into a bank account. The account is credited with [[Interest Rate Quotations|simple interest]] where $i=7.5\%$
+On 15 March 2003. A student deposits $X$ into a bank account. The account is credited with [simple interest](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) where $i=7.5\%$
 
 On the same date, the student's professor deposits $X$ into a different bank account where interest is credited at a force of interest
 $$\delta_{t}=\frac{2t}{t^{2}+k},t\geq0.$$
@@ -568,7 +568,7 @@ A series of payments made at equal intervals of time (annually or otherwise) -pa
 
 Payments of 1 are made at the end of every year for 77 years
 
- ![500](https://storage.simpletex.cn/view/fQOLvhAuW2GUGg1Twh67vmzoIn1KSSoqm)
+ ![500](Attachments/500-166.png)
 
 ### Annuity-Immediate Present Value Factor
 
@@ -593,18 +593,18 @@ s_{n}& =1+(1)(1+i)+\cdots+(1)(1+i)^{n-2}+(1)(1+i)^{n-1} \\
 
 Basic Relationship $1:1=i\cdot a_{\text{ п}}+v^{n}$
 
-Consider an 72. -vear [[An Asset Allocation Primer|investment]] where 1 is invested at time 0
+Consider an 72. -vear [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) where 1 is invested at time 0
 
 The present value of this single payment income stream at $t=0$ is 1
 
-Alternatively, consider a 72 -year [[An Asset Allocation Primer|investment]] where 1 is invested at time 0 and produces annual interest payments of $(1)\cdot i$ at the end of each year and then the 1 is refunded at $t=7$
+Alternatively, consider a 72 -year [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) where 1 is invested at time 0 and produces annual interest payments of $(1)\cdot i$ at the end of each year and then the 1 is refunded at $t=7$
 
 1
- ![500](https://storage.simpletex.cn/view/fTWp1wnTL4GNT1KplL58bGDdx7US9zNcc)
+ ![500](Attachments/500-155.png)
 
 The present value of this multiple payment income stream at $t=0$ is $i\cdot a_{\overline{n}}+(1)v^{n}$
 
-Therefore, the present value of both [[An Asset Allocation Primer|investment]] opportunities are equal
+Therefore, the present value of both [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunities are equal
 
 Also note that $a_{\:\overline{n}}={\frac{1-v^{n}}{i}}\to1=i\cdot a_{\:\overline{n}}+v^{n}$
 ### Basic Relationship $2:PV(1+i)^{n}=FV$ and $PV=FV\cdot v^{n}$
@@ -655,7 +655,7 @@ $$\begin{aligned}
 
 Payments of 1 are made at the beginning of every year for 77 years
 
- ![500](https://storage.simpletex.cn/view/fb0uh9Q0W2NVGKtHhZ784a1NDD5HZFsZr)
+ ![500](Attachments/500-156.png)
 
 Annuity-Due Present Value Factor
 
@@ -679,19 +679,19 @@ s_{n}& =(1)(1+i)+(1)(1+i)^{2}+\cdots+(1)(1+i)^{n-1}+(1)(1+i)^{n}  \\
 \end{aligned}$$
 ### Basic Relationship $1:1=d\cdot\ddot{a}_{\overline{n}}+v^{\underline{n}}$
 
-Consider an 72. Year [[An Asset Allocation Primer|investment]] where 1 is invested at time 0.
+Consider an 72. Year [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) where 1 is invested at time 0.
 
 The present value of this single payment income stream at $t=0$ is 1.
 
-Alternatively, consider a 72. Year [[An Asset Allocation Primer|investment]] where 1 is invested at time 0 and produces annua interest payments of (1) $d$ at the beginning of each year and then have the 1 refunded at $t=7$
+Alternatively, consider a 72. Year [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) where 1 is invested at time 0 and produces annua interest payments of (1) $d$ at the beginning of each year and then have the 1 refunded at $t=7$
 
 1
 
- ![500](https://storage.simpletex.cn/view/feDDlnl3igLOuoZqTgz711PqmX63y60hg)
+ ![500](Attachments/500-162.png)
 
 The present value of this multiple payment income stream at $t=0$ is $d\cdot\ddot{a}_{n}+(1)v^{n}$
 
-Therefore, the present value of both [[An Asset Allocation Primer|investment]] opportunities are equal
+Therefore, the present value of both [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunities are equal
 
 Also note hat $\ddot{a}\:_{\pi_{\Pi}}=\frac{1-v^{n}}{d}\rightarrow1=d\cdot\ddot{a}\:_{\pi_{\Pi}}+v^{n}.$
 
@@ -746,7 +746,7 @@ $$\begin{aligned}
 
 This relationship can be visualized with a time line diagram
 
- ![500](https://storage.simpletex.cn/view/f00282KboCZQRnbuCokZe4MvfefE76cvx)
+ ![500](Attachments/500-169.png)
 
 An additional payment of 1 at time O results in $a{\frac{n-1}{n-1}}$ becoming 72. Payments that now com mence at the beginning of each year which is $\ddot{a}_{n}$
 ## Basic Relationship $6:s_{\boldsymbol{\pi}}=1+\ddot{s}_{\boldsymbol{n}-1}$
@@ -762,7 +762,7 @@ s_{n}& =1+[(1+i)+(1+i)^{2}+\cdots+(1+i)^{n-2}+(1+i)^{n-1}] \\
 
 This relationship can also the visualized with a time line diagram.
 
- ![500](https://storage.simpletex.cn/view/fmQNtQk3kGZE0rBlgHbUwWcf3iXb6g3ep)
+ ![500](Attachments/500-158.png)
 
 An additional payment of 1 at time 72. Results in $\ddot{s}{\frac{n-1}{n-1}}$ becoming 72 payments that now commerce at the end of each year which is 577
 ### 2.3 Deferred Annuities
@@ -773,7 +773,7 @@ There are three alternative dates to valuing annuities rather than at the beginn
 
  The following example will be used to illustrate the above cases. Consider a series of payments of 1 that are made at time $t=3$ to $t=9$ , inclusive
 
- ![500](https://storage.simpletex.cn/view/fXdI7LOGetIgAi2f3eFT0eHbzBiAlN6pU)
+ ![500](Attachments/500-161.png)
 
 Present Values More than One Period Before The First Payment Date At $t=2$ , there exists 7 future end-of-year payments whose present value is represented by
 $u$ 7 .If this value is discounted back to time $t=0$ , then the value of this series of payments (2 periods before the first end-of-year payment) is
@@ -789,7 +789,7 @@ The general form is
 $$_{m|}\ddot{a}_{\overline{n}|}=v^{m}\cdot\ddot{a}_{\overline{n}\mathbf{l}_{i}}.$$
 
 Another way to examine this situation is to pretend that there are 9 end-of-year payments This can be done by adding 2 more payments to the existing 7. In this case, let the 2 addi tional payments be made at $t=1$ and 2 and be denoted as 1
- ![500](https://storage.simpletex.cn/view/fTwBVBbO2erUki8of5cActymQbnKIzaBx)
+ ![500](Attachments/500-167.png)
 
 At $\mathbf{t}=0$ , there now exists 9 end-of-year payments whose present value is $u_{9}$ .This present value of 9 payments would then be reduced by the present value of the two imaginary pay ments, represented by $a\boldsymbol{T}.$ Therefore, the present value at $t=0$ is
 $$a_{\overline{9}\rceil}-a_{\overline{2}\rceil},$$
@@ -801,7 +801,7 @@ The general form is
 $$v^m\cdot a_{\overline{n}\rceil}=a_{\overline{m+n}\rceil}-a_{\overline{m}\rceil}.$$
 With the annuitydue version, one can pretend that there are 10 payments being made This can be done by adding 3 payments to the existing 7 payments. In this case, let the 3 additional payments be made at $t=0$ ， 1 and 2 and be denoted as 1
 
- ![500](https://storage.simpletex.cn/view/f3ygK1eNVtvwHNm7Hgc4zMMO5eFq6qCe1)
+ ![500](Attachments/500-160.png)
 
 At t=0 , there now exists 10 beginning-of-year payments whose present value is $\ddot{a}_{10}$ This present value of 10 payments would then be reduced by the present value of the three imag inary payments, represented by $\ddot{a}_{37}.$ Therefore, the present value at $t=0$ is
 $$\ddot{a}_{\overline{10}\rceil}-\ddot{a}_{\overline{3}\rceil},$$
@@ -821,7 +821,7 @@ Alternatively, at $t=10$ , there exists 7 past beginning-of-year payments whose 
 $$\ddot{s}_{71}\cdot(1+i)^{2}.$$
 
 Another way to examine this situation is to pretend that there are 10 end-of-year payments This can be done by adding 3 more payments to the existing 7. In this case, let the 3 addi tional payments be made at $t=10$ ,11 and 12 and be denoted as
- ![500](https://storage.simpletex.cn/view/fFDsGqIgkTgG4wgFCNz9IfzihdR1Q2agv)
+ ![500](Attachments/500-171.png)
 
 At $\mathbf{t}=12$ , there now exists 10 end-of-year payments whose present value is 5101 .This future value of 10 payments would then be reduced by the future value of the three imaginary payments, represented by 531 .Therefore, the accumulated value at $t=12$ is
 $$s_{\overline{10}}-s_{\overline{3}},$$
@@ -833,7 +833,7 @@ The general form is
 $$s_{\overline{n}}\cdot(1+i)^{m}=s_{\overline{m+n}}-s_{\overline{m}}.$$
 
 With the annuity-due version, one can pretend that there are 9 payments being made. This can be done by adding 2 payments to the existing 7 payments. In this case, let the 2 additional payments be made at $t=10$ and 1 l and bedenoted as
- ![500](https://storage.simpletex.cn/view/fznGVG0kYqV205QzUQ9Ca37RsAfqEIcTG)
+ ![500](Attachments/500-168.png)
 
 At $\mathbf{t}=12$ , there now exists 9 beginning-of-year payments whose accumulated value is $\ddot{\text{S क़}}$ This future value of 9 payments would then be reduced by the future value of the two imaginary payments, represented by $\ddot{S}\boldsymbol{\daleth}$ Therefore, the accumulated value at $t=12$ is
 $$\ddot{s}_{\overline{9}\rceil}-\ddot{s}_{\overline{2}\rceil},$$
@@ -961,7 +961,7 @@ Definition Of A Perpetuity-Immediate
 
  payments of 1 are made at the end of every year forever i.e. $n=\mathbf{x}$
 
- ![500](https://storage.simpletex.cn/view/fWLncbq3G2w2lfuuE3nw7zAic5Fts6kTb)
+ ![500](Attachments/500-157.png)
 
 Perpetuity-Immediate Present Value Factor
 
@@ -989,7 +989,7 @@ In this case, a perpetuity-immediate that is payable forever is reduced by perpe
 
 payments of 1 are made at the beginning of every year forever i.e. $Tb=00$
 
- ![500](https://storage.simpletex.cn/view/foPG090paefDV2tgpOrUFy1rl2fhqzwde)
+ ![500](Attachments/500-164.png)
 
 ### Perpetuity-Due Present Value Factor
 
@@ -1038,28 +1038,28 @@ $$a_{\overline{\infty}}\cdot\frac{i}{\delta}=\frac{1}{i}\cdot\frac{i}{\delta}=\f
 
 It helps to draw out a time line and plot the payments and withdrawals accordingl
 
- ![500](https://storage.simpletex.cn/view/f7gZt9d4Wi1LzOGQKsQ0A3PEGkygsYDTG)
+ ![500](Attachments/500-170.png)
 ### Example
 
 -a payment of 600 is due in 8 years: the alternative is to receive 100 now, 200 in 5 years and $X$ in 10 years. If $i=8\%$ ，find $\$X$ , such that the value of both options is equal.
 
- ![500](https://storage.simpletex.cn/view/fQcGoT48vY8sHoNXFqN93m8lFkhDeNOBQ)
+ ![500](Attachments/500-165.png)
 
 -compare the values at $t=0$
 
- ![500](https://storage.simpletex.cn/view/f3KdtNvY15HTLBlrDsPmdMInEUzc2aMDQ)
+ ![500](Attachments/500-159.png)
 $$\begin{aligned}
 600v_{8\%}^{8}& =100+200v_{8\%}^{5}+Xv_{8\%}^{10}  \\
 \text{X}& =\frac{600v_{8\%}^{8}-100-200v_{8\%}^{5}}{v_{8\%}^{10}}=190.08
 \end{aligned}$$
 -compare the values at $t=5$
 
- ![500](https://storage.simpletex.cn/view/fMTu53uHQK7X0rwMVLE2xq8db3og9hMMH)
+ ![500](Attachments/500-163.png)
 $$\begin{aligned}600v^{3}&=100(1+i)^{5}+200+Xv^{5}\\X&=\frac{600v^{3}-100(1+i)^{5}-200}{v^{5}}=190.08\end{aligned}$$
 
 -compare the values at $t=10$
 
- ![500](https://storage.simpletex.cn/view/fzRuUwEDwdDZ8r6U0w6Tbigx1gXZHcdBt)
+ ![500](Attachments/500-160.png)
 $$\begin{aligned}600(1+i)^2&=100(1+i)^{10}+200(1+i)^5+X\\X&=600(1+i)^2-100(1+i)^{10}-200(1+i)^5=190.08\end{aligned}$$
 
 All 3 equations gave the same answer because all 3 equations treated the value of the payments consistently at a given point of time.
@@ -1067,7 +1067,7 @@ All 3 equations gave the same answer because all 3 equations treated the value o
 
 Assuming that you do not have a financial calculator
 
-Linear Interpolation need to find the value of $u$ п at two different [[Interest Rate Quotations|interest rates]] where $a_{\overline{n}i_{1}}=P_{1}<P$ and $a_{\text{ п}i_{2}}=P_{2}>P$
+Linear Interpolation need to find the value of $u$ п at two different [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) where $a_{\overline{n}i_{1}}=P_{1}<P$ and $a_{\text{ п}i_{2}}=P_{2}>P$
 $$\left.\begin{matrix}a_{\text{п}i_1}=P_1\\a_{\text{п}i}=P\\a_{\text{п}i_2}=P_2\end{matrix}\right\}\:i\approx i_1+\frac{P_1-P}{P_1-P_2}(i_2-i_1)$$
 ### 2.1 Annuity-Immediate
 

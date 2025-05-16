@@ -211,6 +211,31 @@ Please, do the following:
 > 
 > Applying formula 4, we can compute the continuously compounded US and EURO LIBOR rates. The results are shown in the table above. Using these rates, we apply formula 2 to compute Forward Exchange rates.
 (2) Do your forward exchange rates match (approximately) the quoted ones?
+<<<<<<< HEAD
+=======
+
+> [!ANSWER]
+> We compute the difference between the quoted and the computed Forward Exchange rates, which are reported in the table below.
+> 
+> If we exclude October 1st 2008, the difference is smaller than 0.001 in most of the cases.
+> 
+> For October 1st 2008 (15 days after Lehman failure), the difference is larger. To understand why this is so, think about how we determined formula 2 for the Forward Exchange rate:
+> 
+> - Our assumption was that we could set up a strategy which perfectly matches the cash flows of a short forward position in euros for dollars.
+> - The strategy requires borrowing in euros, exchanging euros into dollars and investing the money at the dollar interest rate.
+> - If market participants are worried about third party solvency, borrowing may be much more difficult, especially for longer maturities.
+> - If borrowing is more difficult, then arbitrageurs may have a hard time correcting market inefficiencies, and the result is quoted prices misaligned with the theoretical ones.
+> 
+> **Table: Difference between quoted and computed Forward Exchange rates**
+> 
+> | Date       | 1M     | 3M     | 6M     | 1Y     |
+> |------------|--------|--------|--------|--------|
+> | 03-Oct-05  | 0.0002 | 0.0001 | 0.0002 | 0.0005 |
+> | 02-Oct-06  | 0.0002 | 0.0001 | 0.0000 | -0.0002|
+> | 01-Oct-07  | 0.0004 | 0.0008 | 0.0007 | 0.0018 |
+> | 01-Oct-08  | 0.0034 | 0.0065 | 0.0102 | 0.0134 |
+> | 01-Oct-09  | 0.0003 | 0.0015 | 0.0025 | -0.0004|
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
 > [!ANSWER]
 > We compute the difference between the quoted and the computed Forward Exchange rates, which are reported in the table below.
@@ -234,28 +259,28 @@ Please, do the following:
 > | 01-Oct-08  | 0.0034 | 0.0065 | 0.0102 | 0.0134 |
 > | 01-Oct-09  | 0.0003 | 0.0015 | 0.0025 | -0.0004|
 
-(3) If not,  pick one particular date in which the parity is violated,  and describe the [[Arbitrage Pricing of Derivatives|arbitrage]] strategy you would undertake.
+(3) If not,  pick one particular date in which the parity is violated,  and describe the [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) strategy you would undertake.
 
 > [!ANSWER]
 > 1. As we have seen that the biggest discrepancy occurs for October 1 st 2008.
-> Let's focus on that date and consider the 1 year [[A Primer on Currency Derivatives|Forward Exchange rate]]. As mentioned above the difference $F^{quoted} − F^{computed}>0$,  that is equivalent to $F^{quoted} > F^{computed}$.
-> - The rule of thumb for [[Arbitrage Pricing of Derivatives|arbitrage]] is to buy cheap and sell dear.
+> Let's focus on that date and consider the 1 year [Forward Exchange rate](../../Financial%20Engineering/A%20Primer%20on%20Currency%20Derivatives.md). As mentioned above the difference $F^{quoted} − F^{computed}>0$,  that is equivalent to $F^{quoted} > F^{computed}$.
+> - The rule of thumb for [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) is to buy cheap and sell dear.
 > 	- This means "buy computed" and "sell quoted."
-> - The computed [[A Primer on Currency Derivatives|Forward Exchange rate]] is a *synthetic* price that we pay if we set-up a strategy that replicates the payoff of a [[Forward Points in Currency|forward contract]],  while the quoted [[A Primer on Currency Derivatives|Forward Exchange rate]] is what we obtain when entering into a forward position (just sign a contract,  much easier than setting up a replicating strategy).
-> - We already know that we enter into a [[Forward Contracts on Exchange Rates|short forward contract]] to sell 1 euro for dollars (this is the "sell quoted" - we are selling euros and buying dollars; remember that with exchange rates we are long / short the Foreign [[Forwards and Futures Notes|currency]]).
-> - On the other side we have to set up a strategy that replicates the payoff of a [[Forward Rates Agreement|long forward]] position to buy 1 euro for dollars.
+> - The computed [Forward Exchange rate](../../Financial%20Engineering/A%20Primer%20on%20Currency%20Derivatives.md) is a *synthetic* price that we pay if we set-up a strategy that replicates the payoff of a [forward contract](../../Clippings/Forward%20Points%20in%20Currency.md),  while the quoted [Forward Exchange rate](../../Financial%20Engineering/A%20Primer%20on%20Currency%20Derivatives.md) is what we obtain when entering into a forward position (just sign a contract,  much easier than setting up a replicating strategy).
+> - We already know that we enter into a [short forward contract](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forward%20Contracts%20on%20Exchange%20Rates.md) to sell 1 euro for dollars (this is the "sell quoted" - we are selling euros and buying dollars; remember that with exchange rates we are long / short the Foreign [currency](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)).
+> - On the other side we have to set up a strategy that replicates the payoff of a [long forward](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Forward%20Rates%20Agreement.md) position to buy 1 euro for dollars.
 > Let's start by matching the payoffs at maturity.
-> 	- A [[Forward Rates Agreement|long forward]] contract,  at maturity,  entails:
+> 	- A [long forward](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Forward%20Rates%20Agreement.md) contract,  at maturity,  entails:
 > 		- An outflow (we pay) of dollars
 > 		- An inflow (we receive) of euros To pay dollars tomorrow we simply borrow something in US.
 > - To receive euros tomorrow we have to invest something in Europe today. How much? Here we have to remember our goal.
-> 	- We are matching the cash flows of a [[Forward Points in Currency|forward contract]],  and a [[Forward Points in Currency|forward contract]] does not require any [[Preview of the Book|cash flow]] when we enter into it.
-> 	- As our strategy so far requires borrowing in dollars and investing in euros today,  to get a [[Preview of the Book|cash flow]] equal to 0 we have to match the amount we borrow with the amount we invest,  or in other words we have to invest in Europe the full amount borrowed in US.
+> 	- We are matching the cash flows of a [forward contract](../../Clippings/Forward%20Points%20in%20Currency.md),  and a [forward contract](../../Clippings/Forward%20Points%20in%20Currency.md) does not require any [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) when we enter into it.
+> 	- As our strategy so far requires borrowing in dollars and investing in euros today,  to get a [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) equal to 0 we have to match the amount we borrow with the amount we invest,  or in other words we have to invest in Europe the full amount borrowed in US.
 > 		- To do this we just need to exchange the dollars for euros today.
-> 	- The last thing we need to understand is how much to borrow in dollars today. As the [[A Primer on Currency Derivatives|forward exchange rate]] tells us "how many dollar we have to pay in exchange for 1 euro at maturity",  following our logic of matching the cash flows of a [[Forward Points in Currency|forward contract]] we want to borrow today (in dollars) a sum that will give us 1 euro tomorrow: that's the very definition of present value.
+> 	- The last thing we need to understand is how much to borrow in dollars today. As the [forward exchange rate](../../Financial%20Engineering/A%20Primer%20on%20Currency%20Derivatives.md) tells us "how many dollar we have to pay in exchange for 1 euro at maturity",  following our logic of matching the cash flows of a [forward contract](../../Clippings/Forward%20Points%20in%20Currency.md) we want to borrow today (in dollars) a sum that will give us 1 euro tomorrow: that's the very definition of present value.
 > [!ANSWER]
 > - Summing up,  the "buy computed" strategy requires (please note that the amounts in the first and third rows are in different currencies so they cannot be summed):
-> - Table 4: Summary of the synthetic [[Forward Rates Agreement|long forward]] position$$
+> - Table 4: Summary of the synthetic [long forward](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Forward%20Rates%20Agreement.md) position$$
 > \begin{array}{lccc}
 > \hline
 > \text{Today } t = 0 & & \text{In formulas} \\
@@ -285,14 +310,14 @@ Please, do the following:
 > \end{array}
 > $$
 > - Applying the above formulas to our case the strategy becomes:
-> 	- Short a [[Forward Points in Currency|forward contract]] to sell 1 euro for 1.3960 dollars in one year
+> 	- Short a [forward contract](../../Clippings/Forward%20Points%20in%20Currency.md) to sell 1 euro for 1.3960 dollars in one year
 > 	- Borrow$e^{−0.0535} · 1.4021 = 0.9479 · 1.4021 = 1.3290$dollars today (October 1st 2008)
 > 	- Exchange 1.3290 dollars for euros obtaining 0.9479 euros
 > 	- Invest 0.9479 euros at$r_{EUR} = 5.35$%
 > - At maturity we will have
-> 	- Pay 1 euro (from [[Forward Rates Agreement|short forward]] position)
+> 	- Pay 1 euro (from [short forward](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Forward%20Rates%20Agreement.md) position)
 > 	- Receive 1.3960 dollars
 > 	- Receive 1 euro (from long synthetic forward position)
 > 	- Pay $1.3290 · e^{0.0396} = 1.3827$ dollars
-> - The net [[Preview of the Book|cash flow]] will be a positive amount equal $1.396 − 1.3827 = 0.0134$
+> - The net [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) will be a positive amount equal $1.396 − 1.3827 = 0.0134$
 > dollars per euro traded. If we apply the same strategy on$100 m,     the arbitrage is supposed to generate a positive cash flow at maturity equal to $1.337 m.

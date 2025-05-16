@@ -26,21 +26,21 @@ key_concepts:
 
 # Aims  
 
-• To explain a standard [[The Ornstein-Uhlenbeck (OU) Process|Wiener process]] and how this leads to a [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] for the [[Chapter 16 - Black–Scholes Model|stock price]] $s$ , known as a [[Black Scholes Derivation|geometric Brownian motion]] (GBM).   
-• To show how Ito’s lemma can be used to move from a [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] for the [[Chapter 16 - Black–Scholes Model|stock price]] $s$ to a stochastic diferential equation (SDE) for any non-linear function $g(S,t)$ .   
+• To explain a standard [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) and how this leads to a [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) for the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) $s$ , known as a [geometric Brownian motion](../../../Financial%20Instruments/Black%20Scholes%20Derivation.md) (GBM).   
+• To show how Ito’s lemma can be used to move from a [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) for the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) $s$ to a stochastic diferential equation (SDE) for any non-linear function $g(S,t)$ .   
 • To explain the statistical relationship between a stochastic variable which is lognormal $\ln S_{t}$ and the variable itself, $S_{t}$ . In particular, the relationship between their expected values and variances.  
 
-A great deal of analytic work in [[Arbitrage Pricing of Derivatives|pricing]] [[Financial Mathematics Course|derivative securities]] and in constructing hedge portfolios uses continuous time stochastic processes. Any variable (such as the [[Chapter 16 - Black–Scholes Model|stock price]]) which changes over time in a random way is said to be stochastic. In the real world we observe discrete changes in stock prices but if the time interval of observation is small enough, this approximates to a continuous time process. The Black–Scholes option [[Arbitrage Pricing of Derivatives|pricing]] formula was derived using [[Chapter 47 - Asset Price Dynamics|continuous time mathematics]]. The mathematics used is not much beyond simple calculus and the intuitive elements are stressed at each point in the argument. The aim is for the reader to get a feel for this approach rather than providing detailed proofs.  
+A great deal of analytic work in [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) [derivative securities](../../Financial%20Mathematics%20Course.md) and in constructing hedge portfolios uses continuous time stochastic processes. Any variable (such as the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md)) which changes over time in a random way is said to be stochastic. In the real world we observe discrete changes in stock prices but if the time interval of observation is small enough, this approximates to a continuous time process. The Black–Scholes option [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formula was derived using [continuous time mathematics](.md). The mathematics used is not much beyond simple calculus and the intuitive elements are stressed at each point in the argument. The aim is for the reader to get a feel for this approach rather than providing detailed proofs.  
 
-In the frst section we examine a Weiner process, an Ito process, and a [[Black Scholes Derivation|geometric Brownian motion]] (GMB) for the [[Chapter 16 - Black–Scholes Model|stock price]] S. We then derive a [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] for the logarithm of the [[Chapter 16 - Black–Scholes Model|stock price]] $\ln S_{t}$ and for the option premium $f(S,t)$ using [[Chapter 47 - Asset Price Dynamics|continuous time mathematics]] and Ito’s lemma. The resulting equations for $\ln S_{t}$ and $f(S,t)$ are both SDEs with the same source of randomness – the latter is important in deriving a deterministic partial diferential equation PDE for the option premium $f(S,t)$ , as we see in the next chapter. Finally we analyse the behaviour of the [[Chapter 16 - Black–Scholes Model|stock price]] when the logarithm of the [[Chapter 16 - Black–Scholes Model|stock price]] is assumed to be normally distributed – this relationship is often used in the continuous time literature.  
+In the frst section we examine a Weiner process, an Ito process, and a [geometric Brownian motion](../../../Financial%20Instruments/Black%20Scholes%20Derivation.md) (GMB) for the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) S. We then derive a [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) for the logarithm of the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) $\ln S_{t}$ and for the option premium $f(S,t)$ using [continuous time mathematics](.md) and Ito’s lemma. The resulting equations for $\ln S_{t}$ and $f(S,t)$ are both SDEs with the same source of randomness – the latter is important in deriving a deterministic partial diferential equation PDE for the option premium $f(S,t)$ , as we see in the next chapter. Finally we analyse the behaviour of the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) when the logarithm of the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) is assumed to be normally distributed – this relationship is often used in the continuous time literature.  
 
 # 47.1 STOCHASTIC PROCESSES  
 
-In this section we model the behaviour of stock prices in continuous time and show how Ito’s Lemma can be used to derive the [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] for the [[Chapter 9 Arbitrage and Hedging With Options|derivatives]] price, given a [[Continuous-Time Stochastic Processes|Brownian motion]] for the [[Chapter 16 - Black–Scholes Model|stock price]].  
+In this section we model the behaviour of stock prices in continuous time and show how Ito’s Lemma can be used to derive the [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) for the [derivatives](../../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) price, given a [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) for the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md).  
 
 # 47.1.1 Wiener Process  
 
-This is a basic building block in representing the stochastic behaviour of a ‘cash-market’ or ‘spot’ asset, such as the [[Chapter 16 - Black–Scholes Model|stock price]]. If a variable $z$ follows a [[The Ornstein-Uhlenbeck (OU) Process|Wiener process]] over a short interval of time $\Delta t$ then:  
+This is a basic building block in representing the stochastic behaviour of a ‘cash-market’ or ‘spot’ asset, such as the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md). If a variable $z$ follows a [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) over a short interval of time $\Delta t$ then:  
 $$
 \Delta z=\varepsilon\sqrt{\Delta t}
 $$  
@@ -61,12 +61,12 @@ Expected value: $E(\Delta z_{T})=0$
 $$
 \mathrm{Standard\deviation:}s t d\nu(\Delta z_{T})=\sqrt{T}
 $$  
-$V a r(\Delta z_{T})$ depends only on the time diference from $t=0$ to $T$ . If we have two non-overlapping time intervals $\{t_{1},t_{2}\}$ and $\{t_{3},t_{4}\}$ then $z_{2}-z_{1}$ and $z_{4}-z_{3}$ are uncorrelated, as the $\varepsilon_{i}$ ’s are independent (over time). A standard [[The Ornstein-Uhlenbeck (OU) Process|Wiener process]] $d z$ is the limit as $\Delta t\rightarrow0$ :  
+$V a r(\Delta z_{T})$ depends only on the time diference from $t=0$ to $T$ . If we have two non-overlapping time intervals $\{t_{1},t_{2}\}$ and $\{t_{3},t_{4}\}$ then $z_{2}-z_{1}$ and $z_{4}-z_{3}$ are uncorrelated, as the $\varepsilon_{i}$ ’s are independent (over time). A standard [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) $d z$ is the limit as $\Delta t\rightarrow0$ :  
 $$
 d z=\varepsilon{\sqrt{d t}}
 $$  
 
-where $d z$ and $d t$ represent the usual notation in diferential calculus. A [[The Ornstein-Uhlenbeck (OU) Process|Wiener process]] is sometimes referred to as a ‘[[Continuous-Time Stochastic Processes|Brownian motion]]’ and has the following properties:  
+where $d z$ and $d t$ represent the usual notation in diferential calculus. A [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) is sometimes referred to as a ‘[Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md)’ and has the following properties:  
 
 # Properties of a Wiener process  
 
@@ -75,7 +75,7 @@ where $d z$ and $d t$ represent the usual notation in diferential calculus. A [[
 
 # 47.1.2 Generalised Wiener Process  
 
-The problem in using a standard [[The Ornstein-Uhlenbeck (OU) Process|Wiener process]] to represent stock prices is that the mean change $E(d z)$ is zero but we know that stock prices tend to increase over long periods of time. A slightly better model for stock prices is the ‘generalised [[The Ornstein-Uhlenbeck (OU) Process|Wiener process]]’:  
+The problem in using a standard [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) to represent stock prices is that the mean change $E(d z)$ is zero but we know that stock prices tend to increase over long periods of time. A slightly better model for stock prices is the ‘generalised [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md)’:  
 $$
 d x=a d t+b d z
 $$  
@@ -85,7 +85,7 @@ $$
 d x/d t=\mathrm{~a~}x_{t}=x_{0}+a t
 $$  
 
-and $x_{t}$ grows at a rate $\cdot_{a}\cdot\cdot$ per period. In discrete time the generalised [[The Ornstein-Uhlenbeck (OU) Process|Wiener process]] is:  
+and $x_{t}$ grows at a rate $\cdot_{a}\cdot\cdot$ per period. In discrete time the generalised [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) is:  
 $$
 \Delta x=a\ \Delta t+b\ \Delta z
 $$  
@@ -111,7 +111,7 @@ Here both the expected drift rate $a(x,t)$ and the variance rate $b(\boldsymbol{
 
 # 47.2 GEOMETRIC BROWNIAN MOTION (GBM) AND ITO’S LEMMA  
 
-One would have thought that (47.5) would provide a reasonable characterisation of the behaviour of stock prices since it can have an upward drift rate $(a>0)$ plus a random element. In (47.5) the expected absolute change $d x$ is a constant, $a$ . But in fnance we assume it is the expected proportionate change in the [[Chapter 16 - Black–Scholes Model|stock price]] $d x/x$ that is constant. That is to say, we expect two identical stocks, one with a price of $\$10$ and one with a price of $\$100$ to both move by say $10\%$ on average – that is, by $\$1$ and $\$10$ , respectively – and not for both to change by $\$1$ . Hence the stochastic behaviour of stock prices can be represented by a ‘[[Black Scholes Derivation|geometric Brownian motion]] (GBM)’ using the proportionate change in the [[Chapter 16 - Black–Scholes Model|stock price]]:  
+One would have thought that (47.5) would provide a reasonable characterisation of the behaviour of stock prices since it can have an upward drift rate $(a>0)$ plus a random element. In (47.5) the expected absolute change $d x$ is a constant, $a$ . But in fnance we assume it is the expected proportionate change in the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) $d x/x$ that is constant. That is to say, we expect two identical stocks, one with a price of $\$10$ and one with a price of $\$100$ to both move by say $10\%$ on average – that is, by $\$1$ and $\$10$ , respectively – and not for both to change by $\$1$ . Hence the stochastic behaviour of stock prices can be represented by a ‘[geometric Brownian motion](../../../Financial%20Instruments/Black%20Scholes%20Derivation.md) (GBM)’ using the proportionate change in the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md):  
 $$
 d S/S=\mu d t+\sigma d z\quad{\mathrm{~where~}}d z=\varepsilon{\sqrt{d t}}\ .
 $$  
@@ -120,12 +120,12 @@ A GBM is a specifc form of Ito process with $a=\mu S,b=\sigma$ S and $d S/S\sim 
 
 # 47.2.1 Ito’s Lemma  
 
-Ito’s lemma is a way of deriving the [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] for any function of a stochastic variable. Suppose we have some function $G(z)$ where $z$ is a [[The Ornstein-Uhlenbeck (OU) Process|Wiener process]] and we require an expression for the diferential of this function, $d G(z)$ . From ordinary calculus, a Taylor series approximation for $d G(z)$ up to second-order terms in $d z$ is:  
+Ito’s lemma is a way of deriving the [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) for any function of a stochastic variable. Suppose we have some function $G(z)$ where $z$ is a [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) and we require an expression for the diferential of this function, $d G(z)$ . From ordinary calculus, a Taylor series approximation for $d G(z)$ up to second-order terms in $d z$ is:  
 $$
 d G(z)\approx\frac{\partial G}{\partial z}d z+\frac{1}{2}\frac{\partial^{2}G}{\partial z^{2}}d z^{2}
 $$  
 
-Note that $E(d z^{2})=d t$ and in the above equation we now replace $d z^{2}$ by $d t$ ,1 which gives us Ito’s equation for the [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] $d G(z)$ :  
+Note that $E(d z^{2})=d t$ and in the above equation we now replace $d z^{2}$ by $d t$ ,1 which gives us Ito’s equation for the [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) $d G(z)$ :  
 $$
 d G(z)=\frac{\partial G}{\partial z}d z+\frac{1}{2}\frac{\partial^{2}G}{\partial z^{2}}d t
 $$  
@@ -134,12 +134,12 @@ Above we used a simple heuristic derivation for the stochastic behaviour of $d G
 
 # 47.2.2 SDE for the Derivatives Price  
 
-Assume the [[Chapter 16 - Black–Scholes Model|stock price]] follows an Ito process:  
+Assume the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) follows an Ito process:  
 $$
 d S=a(S,t)d t+b(S,t)d z
 $$  
 
-The SDE for the [[Chapter 9 Arbitrage and Hedging With Options|derivatives]] price $f(S,t)$ is a function of the stochastic variable $s$ and time, $t$ (which is deterministic). Ito’s lemma gives the diferential equation for $f(S,t)$ as (see Appendix 47):  
+The SDE for the [derivatives](../../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) price $f(S,t)$ is a function of the stochastic variable $s$ and time, $t$ (which is deterministic). Ito’s lemma gives the diferential equation for $f(S,t)$ as (see Appendix 47):  
 $$
 d f={\frac{\partial f}{\partial t}}d t+\left[{\frac{\partial f}{\partial S}}d S+{\frac{1}{2}}b^{2}{\frac{\partial^{2}f}{\partial S^{2}}}d t\right]
 $$  
@@ -149,11 +149,11 @@ $$
 d f=\left[{\frac{\partial f}{\partial t}}+a{\frac{\partial f}{\partial S}}+{\frac{1}{2}}b^{2}{\frac{\partial^{2}f}{\partial S^{2}}}\right]d t+\left\{{\frac{\partial f}{\partial S}}b\right\}d z
 $$  
 
-The drift rate of the function $f(S,t)$ is given by the expression in the square brackets and its variance rate is the expression in the curly brackets. The key feature to note is that both $d S$ (in Equation 47.14) and $d f$ depend on the same underlying source of uncertainty $d z$ . Hence, it is possible to create a [[Definitions and Immediate Consequences|risk-free portfolio]] by combining the stock and the option. This [[An Asset Allocation Primer|portfolio]] must earn the [[Black Scholes Derivation|risk-free rate]] – otherwise [[Arbitrage Pricing of Derivatives|arbitrage]] profts can be made. This is the approach used in the BOPM to price an option and we use it here in a [[The Continuous-Time Framework|continuous time framework]].  
+The drift rate of the function $f(S,t)$ is given by the expression in the square brackets and its variance rate is the expression in the curly brackets. The key feature to note is that both $d S$ (in Equation 47.14) and $d f$ depend on the same underlying source of uncertainty $d z$ . Hence, it is possible to create a [risk-free portfolio](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Definitions%20and%20Immediate%20Consequences.md) by combining the stock and the option. This [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) must earn the [risk-free rate](../../../Financial%20Instruments/Black%20Scholes%20Derivation.md) – otherwise [arbitrage](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) profts can be made. This is the approach used in the BOPM to price an option and we use it here in a [continuous time framework](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%206%20-%20Individual%20optimality/The%20Continuous-Time%20Framework.md).  
 
 # 47.2.3 SDE for d(lnS)  
 
-We now use Ito’s lemma to derive the stochastic behaviour of $f(S)=\ln S$ , given that $d S/S$ follows a GBM. Note that the ‘continuously compounded return’, $R^{c}\equiv d(\ln S)$ . Since $d(\ln S)$ using ordinary calculus, equals $d S/S$ then it would seem from (47.11) that the expected value of $E[d(\ln S)]$ should equal $\mu d t$ . However, this is not the case, since the transformation from $d S/S$ to $d\ln S$ requires [[6. A Brief Introduction to Stochastic Calculus|stochastic calculus]] and Ito’s lemma. The GBM is:  
+We now use Ito’s lemma to derive the stochastic behaviour of $f(S)=\ln S$ , given that $d S/S$ follows a GBM. Note that the ‘continuously compounded return’, $R^{c}\equiv d(\ln S)$ . Since $d(\ln S)$ using ordinary calculus, equals $d S/S$ then it would seem from (47.11) that the expected value of $E[d(\ln S)]$ should equal $\mu d t$ . However, this is not the case, since the transformation from $d S/S$ to $d\ln S$ requires [stochastic calculus](../../6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md) and Ito’s lemma. The GBM is:  
 $$
 d S=\mu S d t+\sigma S d z,\quad\mathrm{where}\quad a=\mu S\mathrm{and}b=\sigma S.
 $$  
@@ -168,7 +168,7 @@ $$
 d(\ln S)=(\mu-\sigma^{2}/2)d t+\sigma d z
 $$  
 
-Using Ito’s lemma the drift rate for $d(\ln S)$ is not $\mu d t$ but $(\mu-\sigma^{2}/2)d t$ . However, both $d S/S$ and $d(\ln S)$ have the same variance, $\sigma^{2}d t$ . Hence given the GBM for $d S/S{\sim}N(\mu d t,\sigma^{2}d t)$ the [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] for $d(\ln S)$ using Ito’s lemma is:  
+Using Ito’s lemma the drift rate for $d(\ln S)$ is not $\mu d t$ but $(\mu-\sigma^{2}/2)d t$ . However, both $d S/S$ and $d(\ln S)$ have the same variance, $\sigma^{2}d t$ . Hence given the GBM for $d S/S{\sim}N(\mu d t,\sigma^{2}d t)$ the [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) for $d(\ln S)$ using Ito’s lemma is:  
 $$
 \begin{array}{l}{{d(\ln S)\sim N[(\mu-\sigma^{2}/2)d t,\quad\sigma^{2}d t]}}\\ {{\ln S_{T}\sim N[\ln S_{0}+(\mu-\sigma^{2}/2)T,\quad\sigma^{2}T]}}\end{array}
 $$  
@@ -185,19 +185,19 @@ $$
 i f=\frac{\partial f}{\partial t}d t+\left(\frac{\partial f}{\partial S_{1}}d S_{1}+\frac{\partial f}{\partial S_{2}}d S_{2}\right)+\frac{1}{2}\left(b_{1}^{2}\frac{\partial^{2}f}{\partial S_{1}^{2}}+b_{2}^{2}\frac{\partial^{2}f}{\partial S_{2}^{2}}\right)d t+\rho b_{1}b_{2}\left(\frac{\partial^{2}f}{\partial S_{1}\partial S_{2}}\right)d t.
 $$  
 
-The only ‘new’ term is the fnal one which accounts for the correlation between the two stock [[Assets|returns]]. We could also substitute for $d S_{1}$ and $d S_{2}$ , which gives $d f$ as a direct function of the Wiener processes $d z_{1},d z_{2}$ . To hedge or ‘remove’ these two stochastic terms in the SDE for $d f$ requires [[Financial Instruments|delta hedging]] with two underlying assets $S_{1},S_{2}$ . As we see in the next chapter this gives a PDE (which is deterministic) and can be solved for the [[Chapter 9 Arbitrage and Hedging With Options|derivatives]] price either analytically or numerically.  
+The only ‘new’ term is the fnal one which accounts for the correlation between the two stock [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md). We could also substitute for $d S_{1}$ and $d S_{2}$ , which gives $d f$ as a direct function of the Wiener processes $d z_{1},d z_{2}$ . To hedge or ‘remove’ these two stochastic terms in the SDE for $d f$ requires [delta hedging](../../../Financial%20Instruments/Financial%20Instruments.md) with two underlying assets $S_{1},S_{2}$ . As we see in the next chapter this gives a PDE (which is deterministic) and can be solved for the [derivatives](../../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) price either analytically or numerically.  
 
 # 47.3 DISTRIBUTION OF LOG STOCK PRICE AND STOCK PRICE  
 
-Below we examine the relationship between the statistical distribution for the ‘logarithm of the [[Chapter 16 - Black–Scholes Model|stock price]]’ $(\ln S)$ and the distribution for the ‘level of the [[Chapter 16 - Black–Scholes Model|stock price]]’ S – the latter is needed because it is the expected [[Chapter 16 - Black–Scholes Model|stock price]] which determines the payof to a (plain vanilla) option. In particular, if we know the mean and standard deviation of the logarithm of a variable $\ln S$ , what is the mean and standard deviation for the level of $S$ , itself. This is the standard statistical analysis of the lognormal distribution which is often used in continuous time fnance.  
+Below we examine the relationship between the statistical distribution for the ‘logarithm of the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md)’ $(\ln S)$ and the distribution for the ‘level of the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md)’ S – the latter is needed because it is the expected [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) which determines the payof to a (plain vanilla) option. In particular, if we know the mean and standard deviation of the logarithm of a variable $\ln S$ , what is the mean and standard deviation for the level of $S$ , itself. This is the standard statistical analysis of the lognormal distribution which is often used in continuous time fnance.  
 
-Assume the continuously compounded $(\log)$ return $R_{t}^{c}\equiv\ln(S_{t}/S_{t-1})$ over a small interval of time $(t-1,t)$ is $N(\nu,\sigma^{2})$ and obeys the following [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] (with $d t=1\AA$ ):  
+Assume the continuously compounded $(\log)$ return $R_{t}^{c}\equiv\ln(S_{t}/S_{t-1})$ over a small interval of time $(t-1,t)$ is $N(\nu,\sigma^{2})$ and obeys the following [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) (with $d t=1\AA$ ):  
 $$
 R_{t}^{c}\equiv\ln(S_{t}/S_{t-1})=\nu+\sigma\varepsilon_{t}
 $$  
 
 where $\varepsilon_{t}$ is an identically and independently distributed random variable with a zero-mean and is drawn from a symmetric distribution. Note that $\ensuremath{\varepsilon}_{t}$ need not be normally distributed:),  
-$E R_{t}^{c}\equiv E[\ln(S_{t}/S_{t-1})]=\nu$ (per period) and $\nu a r(R_{t}^{c})\equiv\nu a r[\ln(S_{t}/S_{t-1})]=\sigma^{2}$ . From (47.20) the [[Chapter 16 - Black–Scholes Model|stock price]] $S_{t}$ follows the [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]]:  
+$E R_{t}^{c}\equiv E[\ln(S_{t}/S_{t-1})]=\nu$ (per period) and $\nu a r(R_{t}^{c})\equiv\nu a r[\ln(S_{t}/S_{t-1})]=\sigma^{2}$ . From (47.20) the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) $S_{t}$ follows the [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md):  
 $$
 S_{t}=S_{t-1}e^{v+\sigma\varepsilon_{t}}
 $$  
@@ -214,22 +214,22 @@ Here, the gap between successive price changes gets smaller – starting at $-9.
 
 # Expected Value of lnS and S  
 
-Assume $R_{t}^{c}\equiv\ln(S_{t}/S_{t-1})=\nu+\sigma\varepsilon_{t}$ . For $S_{0}=100$ , $\sigma=0.10$ and $\nu=0$ , then $E\ln(S_{t}/S_{t-1})=$ $\nu=0$ . The mean (expected) value for the (level of the) [[Chapter 16 - Black–Scholes Model|stock price]] one period ahead is: $E S_{1}=(S_{0}e^{\nu})E(e^{\sigma\varepsilon_{1}})=100E(e^{0.10\varepsilon_{1}})$ .3 Suppose we draw $\varepsilon_{t}$ from a distribution where it takes  
+Assume $R_{t}^{c}\equiv\ln(S_{t}/S_{t-1})=\nu+\sigma\varepsilon_{t}$ . For $S_{0}=100$ , $\sigma=0.10$ and $\nu=0$ , then $E\ln(S_{t}/S_{t-1})=$ $\nu=0$ . The mean (expected) value for the (level of the) [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) one period ahead is: $E S_{1}=(S_{0}e^{\nu})E(e^{\sigma\varepsilon_{1}})=100E(e^{0.10\varepsilon_{1}})$ .3 Suppose we draw $\varepsilon_{t}$ from a distribution where it takes  
 
 (continued)  
 
 (continued)  
 
-the value $+2$ or $^{-2}$ , with equal probability and therefore $E\varepsilon_{t}=0$ . The two equally likely outcomes for the [[Chapter 16 - Black–Scholes Model|stock price]] (in period-1) are:  
+the value $+2$ or $^{-2}$ , with equal probability and therefore $E\varepsilon_{t}=0$ . The two equally likely outcomes for the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) (in period-1) are:  
 $$
 S^{+}=100e^{0.10(+2)}=122.14\mathrm{and}S^{-}=100e^{0.10(-2)}=81.87
 $$  
 
-The expected [[Chapter 16 - Black–Scholes Model|stock price]] is: $E S=(122.14+81.87)/2=102.0$  
+The expected [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) is: $E S=(122.14+81.87)/2=102.0$  
 
-Hence, if the initial [[Chapter 16 - Black–Scholes Model|stock price]] is 100 and the continuously compounded return has a mean (expected value) $\nu=0$ , then it is not the case that the expected (average) value of the [[Chapter 16 - Black–Scholes Model|stock price]] (in the next period) is equal to 100.  
+Hence, if the initial [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) is 100 and the continuously compounded return has a mean (expected value) $\nu=0$ , then it is not the case that the expected (average) value of the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) (in the next period) is equal to 100.  
 
-The average level of the [[Chapter 16 - Black–Scholes Model|stock price]] will be greater than 100 (in our case 102.0). This arises because of the exponential term $e^{\sigma\mathfrak{s}_{t}}$ . As the distribution of $\varepsilon_{t}$ is symmetric then positive values for $\varepsilon_{t}$ (e.g. $+2)$ in a large sample of data will be accompanied by an approximate equal number of negative values (of $-2$ ). But the positive value of $\varepsilon_{t}$ increases $s$ by more than the negative value of $\ensuremath{\varepsilon}_{t}$ decreases $s$ , hence the average value of $S$ is greater than 100.  
+The average level of the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) will be greater than 100 (in our case 102.0). This arises because of the exponential term $e^{\sigma\mathfrak{s}_{t}}$ . As the distribution of $\varepsilon_{t}$ is symmetric then positive values for $\varepsilon_{t}$ (e.g. $+2)$ in a large sample of data will be accompanied by an approximate equal number of negative values (of $-2$ ). But the positive value of $\varepsilon_{t}$ increases $s$ by more than the negative value of $\ensuremath{\varepsilon}_{t}$ decreases $s$ , hence the average value of $S$ is greater than 100.  
 
 We now assume $\varepsilon_{t}$ is normally distributed and $\ln(S_{t}/S_{t-1})\sim N(\upsilon,\ \sigma^{2})$ . It can be shown that the distribution of $S_{t}$ has a mean:  
 $$
@@ -257,23 +257,23 @@ $$
 \nu a r[\ln(S_{t}/S_{t-1})]=\sigma^{2}d t\mathrm{and}\nu a r[\ln(S_{T}/S_{0})]=\sigma^{2}T
 $$  
 
-Using standard statistical distribution theory it can be shown that for the [[Chapter 16 - Black–Scholes Model|stock price]]:  
+Using standard statistical distribution theory it can be shown that for the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md):  
 $$
 E(S_{t}/S_{t-1})=e^{(\nu+\sigma^{2}/2)d t}\quad\mathrm{and}\quad E(S_{T}/S_{0})=e^{(\nu+\sigma^{2}/2)T}
 $$  
 
-For completeness, also note that statistical distribution theory shows that the variance of the [[Chapter 16 - Black–Scholes Model|stock price]] at $T$ is:  
+For completeness, also note that statistical distribution theory shows that the variance of the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) at $T$ is:  
 $$
 \mathrm{var}(S_{T})=S_{0}^{2}~e^{2\mu T}(e^{\sigma^{2}T}-1)
 $$  
 
-Hence, starting from the assumption that $\ln(S_{t}/S_{t-1})\sim N(\nu d t,\sigma^{2}d t)$ is niid, we have obtained the mean and variance for the level of the [[Chapter 16 - Black–Scholes Model|stock price]], $S_{T}$ .  
+Hence, starting from the assumption that $\ln(S_{t}/S_{t-1})\sim N(\nu d t,\sigma^{2}d t)$ is niid, we have obtained the mean and variance for the level of the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md), $S_{T}$ .  
 
 # 47.4 SUMMARY  
 
 • An Ito process is one where the (absolute) change in a stochastic variable $x$ over a short interval of time, is normally distributed. The drift rate and variance may be functions of $x$ and time.   
-• The stochastic behaviour for the proportionate change in stock prices (over a small interval of time) can be represented by a continuous time process with positive drift, known as [[Black Scholes Derivation|geometric Brownian motion]] (GBM), which is a specifc form of Ito process.   
-• Ito’s lemma can be used to determine the [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] for any non-linear function $f(S,t)$ , given the [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] for $S$ .   
+• The stochastic behaviour for the proportionate change in stock prices (over a small interval of time) can be represented by a continuous time process with positive drift, known as [geometric Brownian motion](../../../Financial%20Instruments/Black%20Scholes%20Derivation.md) (GBM), which is a specifc form of Ito process.   
+• Ito’s lemma can be used to determine the [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) for any non-linear function $f(S,t)$ , given the [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) for $S$ .   
 • If the continuously compounded return is normally distributed $\ln(S_{t}/S_{t-1})\sim$ $N(\nu d t,\sigma^{2}d t)$ then statistical distribution theory implies that the distribution of $(S_{t}/S_{t-1})$ is not symmetric and has a long right tail and a truncated left tail. The distribution of $(S_{t}/S_{t-1})$ is lognormal, with mean $E(S_{t}/S_{t-1})=e^{(\nu+\sigma^{2}/2)d t}$ .  
 
 # APPENDIX 47: ITO’S LEMMA  
@@ -318,25 +318,25 @@ Do you think that the number of centimetres of rainfall per month at a certain p
 
 # Question 2  
 
-Explain the basic properties of a standard [[The Ornstein-Uhlenbeck (OU) Process|Wiener process]].  
+Explain the basic properties of a standard [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md).  
 
 # Question 3  
 
-Explain a [[Black Scholes Derivation|geometric Brownian motion]] (GBM) for stock prices.  
+Explain a [geometric Brownian motion](../../../Financial%20Instruments/Black%20Scholes%20Derivation.md) (GBM) for stock prices.  
 
 # Question 4  
 
-If the change in the [[Chapter 16 - Black–Scholes Model|stock price]] follows a GBM, $d S=\mu\ S\ d t+\sigma S\ d z$ , use Ito’s lemma to show that $d\ln(S)=(\mu-\sigma^{2}/2)d t+\sigma d z$ .  
+If the change in the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) follows a GBM, $d S=\mu\ S\ d t+\sigma S\ d z$ , use Ito’s lemma to show that $d\ln(S)=(\mu-\sigma^{2}/2)d t+\sigma d z$ .  
 
 # Question 5  
 
-The continuously compounded stock return follows the [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]]:  
+The continuously compounded stock return follows the [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md):  
 $$
 R_{i}^{c}\equiv\ln(S_{t}/S_{t-1})=\nu+\sigma\varepsilon_{t}
 $$  
-$\varepsilon_{t}$ is an identically and independently distributed random variable from a [[A Real-Life Option Pricing Exercise|binomial]] distribution, where it takes the value $+1$ or $^{-1}$ , with equal probability and therefore $E\varepsilon_{t}=0$ . The mean of the continuously compounded return equals $\nu$ (per period) and its variance is $\sigma^{2}$ . Assume $S_{0}=100$ , $\nu=0$ and $\sigma=0.1$ , so that from (1) $S_{t}=S_{t-1}e^{0.10\varepsilon_{t}}$ and the [[Chapter 16 - Black–Scholes Model|stock price]] after 2 periods is determined by:  
+$\varepsilon_{t}$ is an identically and independently distributed random variable from a [binomial](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) distribution, where it takes the value $+1$ or $^{-1}$ , with equal probability and therefore $E\varepsilon_{t}=0$ . The mean of the continuously compounded return equals $\nu$ (per period) and its variance is $\sigma^{2}$ . Assume $S_{0}=100$ , $\nu=0$ and $\sigma=0.1$ , so that from (1) $S_{t}=S_{t-1}e^{0.10\varepsilon_{t}}$ and the [stock price](../Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) after 2 periods is determined by:  
 $$
 S_{2}=S_{0}e^{0.10(\varepsilon_{1}+\varepsilon_{2})}
 $$  
 
-Calculate the four possible out-turn values for the combination $(\varepsilon_{1}+\varepsilon_{2})$ , the resulting four [[Probability Space|possible outcomes]] for $S_{2}$ and the expected value $E S_{2}$ . Brie\$y comment on the distribution of $R_{2}^{c}\equiv\mathrm{ln}(S_{2}/S_{0})$ and the resulting distribution of $(S_{2}/S_{0})$ .  
+Calculate the four possible out-turn values for the combination $(\varepsilon_{1}+\varepsilon_{2})$ , the resulting four [possible outcomes](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Probability%20Space.md) for $S_{2}$ and the expected value $E S_{2}$ . Brie\$y comment on the distribution of $R_{2}^{c}\equiv\mathrm{ln}(S_{2}/S_{0})$ and the resulting distribution of $(S_{2}/S_{0})$ .  

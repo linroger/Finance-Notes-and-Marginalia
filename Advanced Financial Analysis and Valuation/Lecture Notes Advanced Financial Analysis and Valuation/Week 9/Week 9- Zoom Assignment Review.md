@@ -29,7 +29,7 @@ Thomas Rauter
 Zoom  - Valuing a SaaS Business
 
 ## SAAS AND ZOOM
- - Bernstein Research (Feb 2021): With [[The Economist Time Is Cheap|low interest rates]] bulk of DCF value is in TV and "quasi-unforecastable"
+ - Bernstein Research (Feb 2021): With [low interest rates](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Time%20Is%20Cheap.md) bulk of DCF value is in TV and "quasi-unforecastable"
  - Example: Zoom valuation
 	- JPM in Nov 2020
  ![500](4b775203c5243a6ede33f1ec167ccb43.png)
@@ -40,11 +40,11 @@ Zoom  - Valuing a SaaS Business
 	- Growth, TAM (total addressable market), revenue retention, CAC (customer acquisition cost), gross margins
  - TAM estimates:
 ‒S-1 estimated unified communications (UC) market @ $43bn by 2022
-	- [[WSJ-Excerpts From the Lehman Report|J.P. Morgan]] estimates TAM of ~40bn
+	- [J.P. Morgan](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/WSJ-Excerpts%20From%20the%20Lehman%20Report.md) estimates TAM of ~40bn
 ‒TAM could increase with use case expansions (education, phone)
-	- [[Lessons From The Crisis|Morgan Stanley]] estimates TAM of $100bn+ due to a combination of
+	- [Morgan Stanley](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Lessons%20From%20The%20Crisis.md) estimates TAM of $100bn+ due to a combination of
 traditional UC market + combined education and UC market
- - [[Chapter 16 - Black–Scholes Model|Stock price]] went from $207 in June to $337 in December 2020
+ - [Stock price](../../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) went from $207 in June to $337 in December 2020
 
 ## SAAS VALUATION USING MULTIPLES
 - Valuation Guide By Saas Capital
@@ -62,7 +62,7 @@ See SaaS Capital guide (on Canvas) for meaning of acronyms
 	- "Starting with the future" (Week 4)
  - Key assumptions:
 	- Long-term TAM range of $40-$100bn
-	- [[Week 9- Zoom Assignment Review|Long-term Zoom market share]] range of 30% to 50%
+	- [Long-term Zoom market share](.md) range of 30% to 50%
 	- Long-term NOPAT margin of 15% to 20%
 		- Based on more established SaaS companies
 	- Asset turnover around 2
@@ -77,7 +77,7 @@ See SaaS Capital guide (on Canvas) for meaning of acronyms
 Share price in Dec 2020 = $337
 
 ## ZOOM VALUATION: SUMMARY
- - [[Week 4 Valuing Young and High‐Growth Companies|Scenario analysis]] to estimate range of implied price per share
+ - [Scenario analysis](../Week%204%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%204%20Valuing%20Young%20and%20High‐Growth%20Companies.md) to estimate range of implied price per share
  - It is hard to justify the $337 price with our analyst-based range of assumptions, even fixing long-term assumptions at the high end of range
  -  ![500](2ed2e990b4f8d2c5d375b60367140122.png)
  - TAM estimates have not changed much

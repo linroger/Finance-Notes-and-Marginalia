@@ -26,45 +26,45 @@ key_concepts:
 
 # Teaching Note 4 Interest Rate Derivatives
 
-[[PSET 5 Financial Instruments|John Heaton]]
+[John Heaton](../../Financial%20Instruments/Assignments/PSET%205%20Financial%20Instruments.md)
 
 The University of Chicago
 
 Booth School of Business
 
-[[[[Lecture Notes Bonds,  Preferred Stock,  and Structured Products|Fixed Income]] Lecture Notes]]
+[Fixed Income]([[Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products) Lecture Notes]]
 
- [[[[Squam Lake Group Introduction|Introduction]] to [[Fixed Income Asset Pricing|Fixed Income Asset Pricing]]]]
+ [Introduction]([[Squam%20Lake%20Group%20Introduction) to [Fixed Income Asset Pricing](../Fixed%20Income%20Asset%20Pricing.md)]]
 
- [[Lecture Note 2Interest Rate [[Financial Mathematics Course|Risk Management]] And Factors]]
+ [Risk Management](Lecture%20Note%202Interest%20Rate%20[[Financial%20Mathematics%20Course) And Factors]]
 
- [[Forward Rates and [[The Vasicek Model|Term Structure]]]]
+ [Term Structure](Forward%20Rates%20and%20[[The%20Vasicek%20Model)]]
 
- [[Teaching Note 4 Interest Rate [[Chapter 9 Arbitrage and Hedging With Options|Derivatives]]]]
+ [Derivatives](Teaching%20Note%204%20Interest%20Rate%20[[Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options)]]
 
- [[Teaching Note 5 [[Lecture Notes 10- Interest Rate Derivatives|Risk Neutral Pricing]]]]
+ [Risk Neutral Pricing](Teaching%20Note%205%20[[Lecture%20Notes%2010-%20Interest%20Rate%20Derivatives)]]
 
 [Teaching Note 6 Mortgage Backed Securities](Teaching%20Note%206%20Mortgage%20Backed%20Securities.md)
 
-[Teaching Note 7 A Rundown On [[Teaching Note 7 A Rundown On Continuous Time Models|Continuous Time Models]]](Teaching%20Note%207%20A%20Rundown%20On%20Continuous%20Time%20Models.md)
+[Teaching Note 7 A Rundown On [Continuous Time Models](Teaching%20Note%207%20A%20Rundown%20On%20Continuous%20Time%20Models.md)](Teaching%20Note%207%20A%20Rundown%20On%20Continuous%20Time%20Models.md)
 
-[PSET IV- [[Fixed Income Asset Pricing|Fixed Income Asset Pricing]]](PSET%20IV-%20Fixed%20Income%20Asset%20Pricing.md)
+[PSET IV- [Fixed Income Asset Pricing](../Fixed%20Income%20Asset%20Pricing.md)](PSET%20IV-%20Fixed%20Income%20Asset%20Pricing.md)
 
 ## THE NOTIONAL AMOUNT OF OVER-THE-COUNTER DERIVATIVES
 
 ![|500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240412232743007.png)
 
-(Data Source: OTC [[Chapter 9 Arbitrage and Hedging With Options|derivatives]] data are from the Bank for International Settlements,  while global GDP data are from the World Bank.)
+(Data Source: OTC [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) data are from the Bank for International Settlements,  while global GDP data are from the World Bank.)
 
-## INTEREST RATE DERIVATIVES: FORWARDS AND [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|Forward Rate Agreements]]
-- Effective [[Financial Mathematics Course|risk management]] is carried out using [[Chapter 9 Arbitrage and Hedging With Options|derivatives]],  such as forward,  [[Futures Not Subject to Cash-And-Carry|futures]],  and swaps.
-- Forward contracts and [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[EURIBOR Forward Rate Agreements and Futures|Forward Rate Agreements]] (FRAs) [[Overview of Financial Markets|Overview]]|[[EURIBOR Forward Rate Agreements and Futures|Forward Rate Agreements]]]] allow firms to lock in [[Interest Rate Quotations|interest rates]] in the future.
-- A **[[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[EURIBOR Forward Rate Agreements and Futures|Forward Rate Agreements]] (FRAs) [[Overview of Financial Markets|Overview]]|[[Forward Points in Currency|Forward Rate]] Agreement]](FRA)** is a contract between two counterparties who agree at time 0 to exchange the following net payment at a future date$T_2$
+## INTEREST RATE DERIVATIVES: FORWARDS AND [](A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Forward%20Rate%20Agreements%20(FRAs)%20Overview|Forward%20Rate%20Agreements)
+- Effective [risk management](../../Financial%20Engineering/Financial%20Mathematics%20Course.md) is carried out using [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md),  such as forward,  [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md),  and swaps.
+- Forward contracts and [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[Forward Rate Agreements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) (FRAs) [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|[Forward Rate Agreements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md)]] allow firms to lock in [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) in the future.
+- A **[Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[Forward Rate Agreements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) (FRAs) [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|[Forward Rate](../../Clippings/Forward%20Points%20in%20Currency.md) Agreement]](FRA)** is a contract between two counterparties who agree at time 0 to exchange the following net payment at a future date$T_2$
 $$\text{Net payment at }T_{2}=N\times\Delta\times[r_{n}(T_{1},  T_{2})-f_{n}]\tag{1}$$
 
 - where$r_n(T_1,   T_2)$is a$n$−times compounded floating reference rate,  $f_n$is a fixed rate,  $N$is the notional,  and$∆ = 1/n$
 - Example: Today (T0) is January 2,  2020 (we will treat this as January 1 …) and suppose a firm has a$100 million receivable in six months on June 30,  2020. Ignoring overnight investing:
-- If the firm will not need that cash immediately,  but,  say,  six month later,  it can lock-in an [[An Asset Allocation Primer|investment]] rate today for the future period$T_1  = 0.5$is July 1,  2020 to$T_2  = 1$is December 31,  2020 by entering into a [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[EURIBOR Forward Rate Agreements and Futures|Forward Rate Agreements]] (FRAs) [[Overview of Financial Markets|Overview]]|[[Forward Points in Currency|Forward Rate]] Agreement]](FRA) with a bank.
+- If the firm will not need that cash immediately,  but,  say,  six month later,  it can lock-in an [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) rate today for the future period$T_1  = 0.5$is July 1,  2020 to$T_2  = 1$is December 31,  2020 by entering into a [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[Forward Rate Agreements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) (FRAs) [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|[Forward Rate](../../Clippings/Forward%20Points%20in%20Currency.md) Agreement]](FRA) with a bank.
 - Assume the bank quotes the (semi-annually compounded) annualized rate of$f_2 = 1.59\%$.
 - When the firm receive \$100 million in six months ($T_1$) it can invest it at the then current floating rate$r_2(T_1,   T_2) = r_2(0.5,   1)$,  which is not known today.
 
@@ -76,7 +76,7 @@ $$\text{Net payment at }T_{2}=N\times\Delta\times[r_{n}(T_{1},  T_{2})-f_{n}]\ta
 - Clearly,  using the banks offer locks in the rate$f_{2}$for the period$T_1$to$T_2$for the firm,  as
 $$\text{Total amount} = \left\{ \$100 \text{ million} \times \left[1 + \frac{f_2}{2}\right] \right\} \quad (\text{Return on investment})$$$$+ \left\{ \frac{N}{2} \times [f_2 - r_2(0.5,   1)] \right\} \quad (\text{FRA payment)}$$$$= \$100 \text{ million} \times \left[1 + \frac{f_2}{2}\right]$$$$= \$100\text{million} \times \left[1 + \frac{0.0159}{2}\right]= \$100.79 \text{ million}$$
 
-- The question is: How does the bank determine the [[Forward Points in Currency|forward rate]] f2?
+- The question is: How does the bank determine the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) f2?
 - Through a simple trading strategy.
 
 ## TRADING STRATEGY TO COMPUTE FORWARD RATE
@@ -84,56 +84,56 @@ $$\text{Total amount} = \left\{ \$100 \text{ million} \times \left[1 + \frac{f_2
  ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240414082741031.png)
 
 - The bank is perfectly hedged.
-- Note also that the quoted [[Forward Points in Currency|forward rate]] is effectively implicit in the ratio
+- Note also that the quoted [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) is effectively implicit in the ratio
 $$M=\frac{Z(0,  0.5)}{Z(0,  1)}=1+\frac{f_{2}}{2}$$
 
 - in the first step of the trading strategy.
-- This fact leads to the notion of the forward [[Discount Factors|discount factor]],  given by$\frac{1}{M}$.
+- This fact leads to the notion of the forward [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md),  given by$\frac{1}{M}$.
 
 ## THE FORWARD DISCOUNT FACTOR
-- The **forward [[Discount Factors|discount factor]]** at time$t$defines the time value of money between two future dates,  $T_1$and$T_2  > T_{1}$.
-- Given the discount factors$Z(t,   T_1)$and$Z(t,   T_2)$,  the forward [[Discount Factors|discount factor]] is given by
+- The **forward [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md)** at time$t$defines the time value of money between two future dates,  $T_1$and$T_2  > T_{1}$.
+- Given the discount factors$Z(t,   T_1)$and$Z(t,   T_2)$,  the forward [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) is given by
 $$F(t,  T_{1},  T_{2})=\frac{Z(t,  T_{2})}{Z(t,  T_{1})}\tag{2}$$
 
-- Indeed,  note that in the example$Z(0,  0.5)=0.9918$and$Z(0,  1)=0.9840$implying a forward [[Discount Factors|discount factor]]$$F(0,  0.5,  1)=\frac{Z(0,  1)}{Z(0,  0.5)}=0.9921 \tag{3}$$
-- From any [[Discount Factors|discount factor]] (forward or not),  we can compute the$n-$times compound rate as$$f_{n}\left(t,  T_{1},  T_{2}\right)=n\times\left(\frac{1}{F\left(t,  T_{1},  T_{2}\right)^{\frac{1}{\left(n+\left(T_{2}-T_{1}\right)\right)}}}-1\right)\tag{4}$$
+- Indeed,  note that in the example$Z(0,  0.5)=0.9918$and$Z(0,  1)=0.9840$implying a forward [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md)$$F(0,  0.5,  1)=\frac{Z(0,  1)}{Z(0,  0.5)}=0.9921 \tag{3}$$
+- From any [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) (forward or not),  we can compute the$n-$times compound rate as$$f_{n}\left(t,  T_{1},  T_{2}\right)=n\times\left(\frac{1}{F\left(t,  T_{1},  T_{2}\right)^{\frac{1}{\left(n+\left(T_{2}-T_{1}\right)\right)}}}-1\right)\tag{4}$$
 - For instance,  in the example we have
 $$f_{2}(0,  0.5,  1)=2\times\left(\frac{1}{F\left(0,  0.5,  1\right)^{\frac{1}{2\times {0.5}}}}-1\right)=1.59\%,  $$
 
 ## THE SPOT CURVE AND THE FORWARD CURVE
 
-- The **forward curve** gives the relation between the [[Forward Points in Currency|forward rate]]$f(0,   T,   T + ∆)$and the time of.the [[An Asset Allocation Primer|investment]] T. Curves on January 2,  2020
+- The **forward curve** gives the relation between the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md)$f(0,   T,   T + ∆)$and the time of.the [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) T. Curves on January 2,  2020
  ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240412234143923.png)
 
 ## THE VALUE OF A FORWARD RATE AGREEMENT
 
 - In previous example,  suppose 3 months later,  on April 1,  2020,  the firm decides to close its FRA.
-- As [[Interest Rate Quotations|interest rates]] changed between January and April,  so did the *value* of the FRA.
+- As [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) changed between January and April,  so did the *value* of the FRA.
 - Recall bank's earlier strategy:
 	- (a) short one T-bill maturing at$T_1$and
 	- (b) long$M = 1.0079$T-bills maturing at$T_2$.
-- This [[An Asset Allocation Primer|portfolio]] (a) + (b) replicates the [[Preview of the Book|cash flow]] that the firm will receive.
-	- =⇒ its value a$t$= value of the [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[EURIBOR Forward Rate Agreements and Futures|Forward Rate Agreements]] (FRAs) [[Overview of Financial Markets|Overview]]|FRA]] for the firm. Thus:
-Value of [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[EURIBOR Forward Rate Agreements and Futures|Forward Rate Agreements]] (FRAs) [[Overview of Financial Markets|Overview]]|FRA]] to the firm at$t$$$=V^{FRA}\left(t\right)=M\times Z(t,  T_{2})-Z(t,  T_{1})\tag{5}$$
+- This [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) (a) + (b) replicates the [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) that the firm will receive.
+	- =⇒ its value a$t$= value of the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[Forward Rate Agreements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) (FRAs) [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|FRA]] for the firm. Thus:
+Value of [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[Forward Rate Agreements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) (FRAs) [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|FRA]] to the firm at$t$$$=V^{FRA}\left(t\right)=M\times Z(t,  T_{2})-Z(t,  T_{1})\tag{5}$$
 - On April 1,  2020 (= t),  we had$Z(t,   T_1) = \$0.9993$and$Z(t,  T_2) = \$0.9981$. Therefore$$V^{FRA}_t = 1.0079 × Z(t,   T_2) − Z(t,   T_1) = 1.0079 × \$0.9981 − \$0.9993 = \$0.00671 million$$
-	- =⇒ On April 1,  2020,  the [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[EURIBOR Forward Rate Agreements and Futures|Forward Rate Agreements]] (FRAs) [[Overview of Financial Markets|Overview]]|FRA]] initiated 3 months earlier was worth$671,  176.83 to the firm.
+	- =⇒ On April 1,  2020,  the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[Forward Rate Agreements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) (FRAs) [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|FRA]] initiated 3 months earlier was worth$671,  176.83 to the firm.
 - In general,  using the definition$1 + f_n(t,    T_1,   T_2)∆ = Z(t,    T_1)/Z(t,   T_2)$,  we have
 $$V^{FRA}(t)=N\times Z(t,  T_{2})\times\left[M-\frac{Z(t,  T_{1})}{Z(t,  T_{2})}\right]\tag{6}$$$$=N\times Z(t,  T_{2})\times\Delta\times\left[f_{n}(0,  T_{1},  T_{2})-f_{n}(t,  T_{1},  T_{2})\right]$$
 
 ## INTEREST RATE DERIVATIVES: SWAPS
 
-- A plain vanilla **fixed-for-floating [[Primer on Interest Rate Swaps|interest rate swap]]** is an agreement between two counterparties to [[Fundamentals of Swaps|exchange cash flows]] at$T_1,   T_2,  …,   T_n = T$,  with$T_i = T_{i−1} + ∆$,  according to
+- A plain vanilla **fixed-for-floating [interest rate swap](../../Financial%20Engineering/Primer%20on%20Interest%20Rate%20Swaps.md)** is an agreement between two counterparties to [exchange cash flows](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%204%20-%20Swap%20Markets/Fundamentals%20of%20Swaps.md) at$T_1,   T_2,  …,   T_n = T$,  with$T_i = T_{i−1} + ∆$,  according to
 
-Net [[Preview of the Book|Cash Flow]] at$$T_{i}=N\times\Delta\times[r_{n}(T_{i-1})-c]\tag{7}$$
+Net [Cash Flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) at$$T_{i}=N\times\Delta\times[r_{n}(T_{i-1})-c]\tag{7}$$
 
-- where$n = 1/∆$is the reference rate [[Interest Rate Quotations|compounding frequency]].
-- The constant c is called **[[Teaching Note 4 Interest Rate Derivatives|swap rate]]**.
+- where$n = 1/∆$is the reference rate [compounding frequency](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md).
+- The constant c is called **[swap rate](.md)**.
 
 ## - HOW DO WE DETERMINE THE **VALUE OF A SWAP**?
 
 - At inception,  the value is zero,  as the counterparties agree to swap future payments,  not today.
-- After inception,  as the floating [[Profit and Loss Attribution with an OAS|rate changes]],  so does the value of the swap.
-- Consider the party with net [[Preview of the Book|cash flow]] (7). This party is effectively long a floating rate bond ($P_{FR}(t,   T$)) and short a fixed rate bond with coupon$c (P_c(t,   T))$.
+- After inception,  as the floating [rate changes](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Profit%20and%20Loss%20Attribution%20with%20an%20OAS.md),  so does the value of the swap.
+- Consider the party with net [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) (7). This party is effectively long a floating rate bond ($P_{FR}(t,   T$)) and short a fixed rate bond with coupon$c (P_c(t,   T))$.
 - =⇒ the value of the swap is
 $$V^{swap}(t,  c,  T)=P_{FR}(t,  T)-P_{c}(t,  T)\tag{8}$$
 
@@ -142,26 +142,26 @@ $$V^{swap}(T_{i};c,  T)=100-\left(\frac{c}{2}\times100\times\sum\limits_{j=i+1}^
 
 ## THE SWAP RATE AND THE SWAP CURVE
 
-- How is the [[Teaching Note 4 Interest Rate Derivatives|swap rate]] $c$ determined?
-- The [[Teaching Note 4 Interest Rate Derivatives|swap rate]] $c$ is given by that number that makes $V^{swap}(0; c,   T) = 0$ in (8).
+- How is the [swap rate](.md) $c$ determined?
+- The [swap rate](.md) $c$ is given by that number that makes $V^{swap}(0; c,   T) = 0$ in (8).
 - Rewriting the equation for any payment frequency$n$and payment dates$T_1,   … T_M$,  we have
 $$V^{swap}(0;c,  T)=100-\left(\frac{c}{n}\times100\times\sum\limits_{j=1}^{M}Z(0,  T_{j})+Z(0,  T_{M})\times100\right)=0\tag{10}$$
 
 - Solving this equation for$c$we find
 $$c=n\times\left(\frac{1-Z\left(0,  T_{M}\right)}{\sum\limits_{j=1}^{M}Z\left(0,  T_{j}\right)}\right)\tag{11}$$
 
-- The [[Determining the Expression for the Fair Value of the Swap Spread|swap curve]] at time $t$ is the set of swap rates (at time $t$) for all maturities $T_{1}$,  $T_{2}$,  …,  $T_{M}$.
-- I denote the [[Determining the Expression for the Fair Value of the Swap Spread|swap curve]] at time $t$ by $c (t,   T_{i}) \text{ for } i = 1,   …,   M$.
+- The [swap curve](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Determining%20the%20Expression%20for%20the%20Fair%20Value%20of%20the%20Swap%20Spread.md) at time $t$ is the set of swap rates (at time $t$) for all maturities $T_{1}$,  $T_{2}$,  …,  $T_{M}$.
+- I denote the [swap curve](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Determining%20the%20Expression%20for%20the%20Fair%20Value%20of%20the%20Swap%20Spread.md) at time $t$ by $c (t,   T_{i}) \text{ for } i = 1,   …,   M$.
 
-## THE SWAP CURVE AND THE "CLASSIC" [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] CURVE
-- The [[Determining the Expression for the Fair Value of the Swap Spread|swap curve]] implicitly contains the discount factors $Z(0,   T_i)$ that market participants use to quote swaps in the OTC market.
-- From the [[Determining the Expression for the Fair Value of the Swap Spread|swap curve]],  we can then bootstrap out such discounts by inverting (11):
+## THE SWAP CURVE AND THE "CLASSIC" [](A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#London%20Interbank%20Offered%20Rate%20(LIBOR)|LIBOR) CURVE
+- The [swap curve](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Determining%20the%20Expression%20for%20the%20Fair%20Value%20of%20the%20Swap%20Spread.md) implicitly contains the discount factors $Z(0,   T_i)$ that market participants use to quote swaps in the OTC market.
+- From the [swap curve](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Determining%20the%20Expression%20for%20the%20Fair%20Value%20of%20the%20Swap%20Spread.md),  we can then bootstrap out such discounts by inverting (11):
 $$Z\left(t,  T_{1}\right)=\frac{1}{1+\frac{c(t,  T_{1})}{n}}\tag{12}$$
 
 while for $i = 2,   …,   M$
 $$Z\left(t,  T_{i}\right)=\frac{1-\frac{c\left(t,  T_{i}\right)}{n}\times\Sigma_{j=1}^{i-1}\,  Z\left(t,  T_{j}\right)}{1+\frac{c\left(t,  T_{i}\right)}{n}}\tag{13}$$
 
-- The resulting yield curve is called [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] curve.
+- The resulting yield curve is called [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] curve.
 ## TREASURY AND SWAP DISCOUNT AND YIELD ON JANUARY 4,  2005
 
  ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240412234843892.png)
@@ -175,17 +175,17 @@ $$Z\left(t,  T_{i}\right)=\frac{1-\frac{c\left(t,  T_{i}\right)}{n}\times\Sigma_
 - The market presented the following data:
 	- 3-month LIBOR: 5.5081%.
 	- 3-month repo rate: 5.27%.
-	- 5-year [[Teaching Note 4 Interest Rate Derivatives|swap rate]]: 5.69%.
+	- 5-year [swap rate](.md): 5.69%.
 	- 5-year T-note with a 5.125% coupon priced at$100.1172,
 	- and yield-to-maturity 5.10%.
-- The swap spread equals the yield to maturity of the Treasury note minus the [[Teaching Note 4 Interest Rate Derivatives|swap rate]]
+- The swap spread equals the yield to maturity of the Treasury note minus the [swap rate](.md)
 $$S S=5.69\%-5.10\%=0.59\%=59\ b p s$$
 
 - That is,  receiving the fixed rate from the swap and paying the yield in a short T-notes would return 59 basis points per year.
-- To secure this return of 59 basis points,  we have to pay the [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] rate,  as part of the swap,  and receives the repo rate,  as part of a [Reverse Repurchase](Reverse%20Repurchase%20Agreement%20Operations.md) agreement to short the T-note.
+- To secure this return of 59 basis points,  we have to pay the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] rate,  as part of the swap,  and receives the repo rate,  as part of a [Reverse Repurchase](Reverse%20Repurchase%20Agreement%20Operations.md) agreement to short the T-note.
 
 ## THE LIBOR-REPO SPREAD
-- The spread between [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] and repo (LRS) is$LRS = 5.5081\% − 5.27\% = 0.2381\%$
+- The spread between [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] and repo (LRS) is$LRS = 5.5081\% − 5.27\% = 0.2381\%$
 - The net spread is$SS − LRS = 35.19$bps.
 - This spread is not very large,  but the LIBOR-repo spread has been historically relatively stable at around 21 bps and so this net spread (SS − *LRS*) still appears a relatively safe trade.
 - Using daily data from Jan 2000 to Jun 2006,  the distribution of the LIBOR-repo spread is as
@@ -194,8 +194,8 @@ $$S S=5.69\%-5.10\%=0.59\%=59\ b p s$$
 
 ## THE TRADE
 - We finally decided to go ahead,  and enter into the following transactions:
-1. Short the 5-year bond through a [Reverse Repo](Reverse%20Repurchase%20Agreement%20Operations.md) transaction. In [[Preview of the Book|cash flow]] terms,  the fund would receive the repo rate and pay the coupon.
-1. Enter into a [[Swaptions|fixed-for-floating swap]],  in which we would receive fixed and pay LIBOR.
+1. Short the 5-year bond through a [Reverse Repo](Reverse%20Repurchase%20Agreement%20Operations.md) transaction. In [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) terms,  the fund would receive the repo rate and pay the coupon.
+1. Enter into a [fixed-for-floating swap](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Swaptions.md),  in which we would receive fixed and pay LIBOR.
 #### REVERSE REPO
 - We want to set up a$100 million trade. Thus,   we need to sell$$N=\frac{\$100\text{million}}{100.1172}=998,  829\text{ Treasury notes (for }\$100\text{ par value)}\tag{14}$$
 - Assuming haircut = 0,  we then borrow N = 998,  829 5-year T-notes from the repo dealer,  sells them in the cash market for$100 million,  and gives this cash to the repo dealer.
@@ -203,16 +203,16 @@ $$S S=5.69\%-5.10\%=0.59\%=59\ b p s$$
 - Because the repo dealer keeps the \$100 million at every reset date,  our total cash flow every quarter is$$\left.\text{[Reverse Repo] CF}(t)=\left\{\begin{array}{ll}\frac{\$100\textbf{ mm}}{4}\times r(t-0.25)-N\times100\times\frac{5.125\%}{2}&\text{if }t\text{ is a coupon date}\\\frac{\$100\textbf{ mm}}{4}\times r(t-0.25)&\text{otherwise}\end{array}\right.\right.$$
 
 #### FIXED -FOR-FLOATING SWAP
-- We have to enter into a 5-year,  [[Swaptions|fixed-for-floating swap]] in which we pay the 3-month [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] rate and receive the 5-year [[Interest Rate Swaps|fixed swap rate]].
-- In a plain vanilla [[Swaptions|fixed-for-floating swap]],  the floating payments occur at quarterly frequency,  while the fixed payments occur at [[PSET 2 Solution-Financial Instruments|semi-annual frequency]],  therefore exactly matching the payment frequency of the [Reverse Repo](Reverse%20Repurchase%20Agreement%20Operations.md) transaction discussed earlier.
-- Denoting ℓ(t) is the 3-month [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] rate at time t,  the [[Chapter 34 - Pricing Interest Rate Swaps|swap cash flows]] are then given by
+- We have to enter into a 5-year,  [fixed-for-floating swap](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Swaptions.md) in which we pay the 3-month [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] rate and receive the 5-year [fixed swap rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Swaps.md).
+- In a plain vanilla [fixed-for-floating swap](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Swaptions.md),  the floating payments occur at quarterly frequency,  while the fixed payments occur at [semi-annual frequency](../../Financial%20Instruments/Assignments/Solutions/PSET%202%20Solution-Financial%20Instruments.md),  therefore exactly matching the payment frequency of the [Reverse Repo](Reverse%20Repurchase%20Agreement%20Operations.md) transaction discussed earlier.
+- Denoting ℓ(t) is the 3-month [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] rate at time t,  the [swap cash flows](../../Financial%20Engineering/Derivatives/Part%20VIII%20-%20Swaps/Chapter%2034%20-%20Pricing%20Interest%20Rate%20Swaps.md) are then given by
 $$
 \left.\text{Swap CF}(t)=\left\{\begin{array}{c}\$100\mathrm{~mm}\times\frac{5.69\%}2-\frac{\$100\mathrm{~mm}}4\times\ell(t-0.25)\mathrm{~if~}t\mathrm{~is~fixed~payment~date}\\-\frac{\$100\mathrm{~mm}}4\times\ell(t-0.25)\mathrm{~otherwise}\end{array}\right.\right.
 $$
 
 ## THE QUARTERLY CASH FLOW
--It is useful to decompose the quarterly [[Preview of the Book|cash flow]] in two components,  the swap spread (SS) component and the LIBOR-repo spread (LRS) component.
-- We have that every six months,  the swap spread component of the [[Preview of the Book|cash flow]] is
+-It is useful to decompose the quarterly [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) in two components,  the swap spread (SS) component and the LIBOR-repo spread (LRS) component.
+- We have that every six months,  the swap spread component of the [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) is
 $$\text{SS CF every six months } =\$100\mathtt{mm}\times\dfrac{5.69\%}{2}-N\times100\times\dfrac{5.125\%}{2}$$$$=\$285,  499.73$$
 
 - The second component is the LIBOR-repo spread,  which every quarter is given by
@@ -240,34 +240,34 @@ $$\text{Total expected net cash flow per year }=2\times\$285,  499.73-4\times\$5
 may start thinking about whether we should unwind their position.
 - First question is: What is the value of the position?
 
-## - THE VALUE OF THE [[Reverse Repurchase]]
+## - THE VALUE OF THE [Reverse Repurchase](Reverse%20Repurchase)
 
-- The ex-coupon value of the [[Dollar Rolls|repo position]] on rollover quarter$t$is
+- The ex-coupon value of the [repo position](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2015/Dollar%20Rolls.md) on rollover quarter$t$is
 $$\text{Value [Reverse Repo](} =\$100 mm -N\times P_{note}(t,  T)$$
 
 - where$P_{note}(t,   T)$is the value of the T-note at time t.
 #### - THE VALUE OF THE FIXED-FOR-FLOATING SWAP
 
-- As time passes and [[Interest Rate Quotations|interest rates]] fluctuate,  the value of the swap changes. We have:
+- As time passes and [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) fluctuate,  the value of the swap changes. We have:
 $$\mathrm{Value~swap~at~}t=P_{c}(t,  T)-P_{F R}(t,  T)$$
 
 - where PFR(*t,  T*) is the LIBOR-based floating rate bond,  and Pc(*t,  T*) is the fixed rate coupon
-bond with coupon c = 5.69% =[[Teaching Note 4 Interest Rate Derivatives|swap rate]],  given by
+bond with coupon c = 5.69% =[swap rate](.md),  given by
 $$P_{c}(t,  T)=\frac{100\times5.69\%}{2}\times\sum_{i=1}^{n_{t}}Z(t,  T_{i})+100\times Z(t,  T_{n_{t}})$$
 
-- Here,  $Z(t,   T_i)$is the [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] [[Advanced Usage of QuantLib analytics library|discount curve]] (see next Figure)
-### THE [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] CURVE: JUNE 2006 – JUNE 2008
+- Here,  $Z(t,   T_i)$is the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] [discount curve](../../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) (see next Figure)
+### THE [](A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#London%20Interbank%20Offered%20Rate%20(LIBOR)|LIBOR) CURVE: JUNE 2006 – JUNE 2008
 
  ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413002218281.png)
 
 ## THE SURPRISE
 
 - On March,  2008,  as we start unwinding the position,  we have a good news: the value of the swap is now$10.21 million.
-- Indeed,  the [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] yield curve now [[Exotic Interest Rate Options|ranges]] between 2.7% at 1 month,  and 3.3% at 5 years,  which pushes up the value of the fixed part of the swap to$110.21 million.
+- Indeed,  the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] yield curve now [ranges](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) between 2.7% at 1 month,  and 3.3% at 5 years,  which pushes up the value of the fixed part of the swap to$110.21 million.
 - Because the floating part is always equal to$100 million at reset dates,   by closing the position we would obtain an inflow of$10.21 million.
 - However,  as we close the swap,  we have also to close the [Reverse Repo](Reverse%20Repurchase%20Agreement%20Operations.md).
-- The bad news is that now the T-note we are [[Short Selling|shorting]] is trading at$110.23.
-- Given the [[Intra-Year Compounding and Day-Count|accrued interest]] of$1.28,   the total losses from the short position amount to$100 million −N ×$111.51 = −$11.38 million.
+- The bad news is that now the T-note we are [shorting](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Short%20Selling.md) is trading at$110.23.
+- Given the [accrued interest](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) of$1.28,   the total losses from the short position amount to$100 million −N ×$111.51 = −$11.38 million.
 - In sum,  to close the position on March,  2008,  we receive$10.21 million from the swap,   but we have to pay$11.38 million on the [Reverse Repo](Reverse%20Repurchase%20Agreement%20Operations.md),  for a total loss of$1.16 million. This number far outweighs the cumulative cash flows we have so far received.
 
 ## THE SWAP SPREAD TRADE VALUE
@@ -279,23 +279,23 @@ $$P_{c}(t,  T)=\frac{100\times5.69\%}{2}\times\sum_{i=1}^{n_{t}}Z(t,  T_{i})+100
 1. **Cost of Carry**,  due to the variation in the cost-of-carry,  i.e. the cash-flow per period that a trade is expected to generate.
 	- In swap spread trade,  it is the difference between the swap spread and the LIBOR-repo rate.
 	- An arbitrageurs may find that holding up the trade is generating cash outflows that outstrip the expected gain from convergence.
-1. **[[Chapter 5 - Index Futures|Market Risk]]**,  that is,  the potential capital losses due to the variation in the underlying spread.
+1. **[Market Risk](../../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md)**,  that is,  the potential capital losses due to the variation in the underlying spread.
 	- In a relative value trade speculators bet on the convergence of the underlying spread to an average level.
 	- However,  such spread may either not converge to the average level,  or just widen for a while.
 1. **Funding Risk**,  that is,  the ability to hold up the position until maturity.
-	- Even for those ([[Arbitrage Pricing of Derivatives|arbitrage]]) trades in which a hedge fund is certain to make profits if it holds the position until maturity,  it is quite possible that the spread may widen further before it narrows.
+	- Even for those ([arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)) trades in which a hedge fund is certain to make profits if it holds the position until maturity,  it is quite possible that the spread may widen further before it narrows.
 	- If the spread widens,  then the hedge fund would potentially suffer large capital losses.
 	- It is then key for the hedge fund survival that it has sufficient capital in cash or a large borrowing capacity that makes it able to withstand the capital loss.
 
 ## FUNDING RISK DURING THE CRISIS?
 
 - Funding risk is especially important during periods of crisis,  for a number of reasons:
-1. All risk-based spreads - the spreads between a risky securities and [[US Markets|Treasury securities]] - tend to widen,  as investors dump risky securities and purchase safe U.S. Treasuries.
+1. All risk-based spreads - the spreads between a risky securities and [Treasury securities](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/US%20Markets.md) - tend to widen,  as investors dump risky securities and purchase safe U.S. Treasuries.
 	- =⇒ Relative value trades experience large capital losses.
-1. Lenders are more wary of [[Default Risk and Credit Derivatives 183|default risk]],  and increase haircuts,  margins,  etc.,  making capital effectively more scarce
+1. Lenders are more wary of [default risk](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/Default%20Risk%20and%20Credit%20Derivatives%20183.md),  and increase haircuts,  margins,  etc.,  making capital effectively more scarce
 	- It becomes harder for a hedge fund to keep up the position.
-1. Investors withdraw money from [[Basis Trade Explainer|hedge funds]],  if they can.
-- [[Basis Trade Explainer|Hedge funds]] must liquidate positions,  at a loss.
+1. Investors withdraw money from [hedge funds](../../Financial%20Engineering/Basis%20Trade%20Explainer.md),  if they can.
+- [Hedge funds](../../Financial%20Engineering/Basis%20Trade%20Explainer.md) must liquidate positions,  at a loss.
 - Next figure shows negative swap spreads during the crisis for long term swaps
 
 ### NEGATIVE SWAP SPREADS DURING THE CRISIS
@@ -304,11 +304,11 @@ $$P_{c}(t,  T)=\frac{100\times5.69\%}{2}\times\sum_{i=1}^{n_{t}}Z(t,  T_{i})+100
 
 ## NEGATIVE SWAP SPREAD AND NO ARBITRAGE
 
-- Negative swap spreads are a [[The Limits Of Arbitrage|textbook arbitrage]] opportunity:
-- Buy Treasury and pay fixed in a fixed for floating swap$\Longrightarrow$[[Preview of the Book|Cash Flow]] at$t=\left(c^{T-Bond}-c^{swap}\right)+\left(LIBOR_{t}-REPO_{t}\right)$
+- Negative swap spreads are a [textbook arbitrage](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Limits%20Of%20Arbitrage.md) opportunity:
+- Buy Treasury and pay fixed in a fixed for floating swap$\Longrightarrow$[Cash Flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) at$t=\left(c^{T-Bond}-c^{swap}\right)+\left(LIBOR_{t}-REPO_{t}\right)$
 - Both terms are positive. The first because of the negative swap spread,  and the second because
-[[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] is the rate for uncollateralized borrowing,  while REPO is the rate for [[Class Note 12 Part 2 Repos|collateralized borrowing]].
-- This is a [[The Limits Of Arbitrage|textbook arbitrage]] opportunity if an arbitrageur can hold the position to maturity.
+[Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] is the rate for uncollateralized borrowing,  while REPO is the rate for [collateralized borrowing](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Class%20Note%2012%20Part%202%20Repos.md).
+- This is a [textbook arbitrage](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Limits%20Of%20Arbitrage.md) opportunity if an arbitrageur can hold the position to maturity.
 - The risk of the spread increasing further,  generating severe capital losses,  may make arbitrageurs wary of entering the market.
 - At reset dates,  the value of the trade is
 $$V_{t}^{T r a d e}=(P_{c}^{T-B o n d}(t,  T)-P_{c}^{S w a p}(t,  T))$$
@@ -320,9 +320,9 @@ $$V_{t}^{T r a d e}=(P_{c}^{T-B o n d}(t,  T)-P_{c}^{S w a p}(t,  T))$$
  ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413002628495.png)
 
 ## VIOLATION OF NO-ARBITRAGE DURING THE 2007 - 2008 CRISIS
-- The violation of no-[[Arbitrage Pricing of Derivatives|arbitrage]] rules was widespread during the recent crisis
-- For instance,  another simple [[Arbitrage Pricing of Derivatives|arbitrage]] restriction that was violated was the [[Financial Instruments PSET Solutions|covered interest rate parity]] (CIP)
-- The simple rule in the [Foreign Exchange](Foreign%20Exchange%20Quoting%20Conventions.md) market according to which the [[A Primer on Currency Derivatives|forward exchange rate]]$F_{t,  T}$equals the spot$M_t$times the ratio of [[An Asset Allocation Primer|investment]] rates in domestic versus foreign country.
+- The violation of no-[arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) rules was widespread during the recent crisis
+- For instance,  another simple [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) restriction that was violated was the [covered interest rate parity](../../Financial%20Instruments/Financial%20Instruments%20PSET%20Solutions.md) (CIP)
+- The simple rule in the [Foreign Exchange](Foreign%20Exchange%20Quoting%20Conventions.md) market according to which the [forward exchange rate](../../Financial%20Engineering/A%20Primer%20on%20Currency%20Derivatives.md)$F_{t,  T}$equals the spot$M_t$times the ratio of [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) rates in domestic versus foreign country.
 - For instance,  if$M_t$= *US/EURO* exchange rate,  then
 $$F_{t,  T}=M_{t}e^{(r_{\$$
 
@@ -347,15 +347,15 @@ $$F_{t,  T}^{data}-F_{t,  T}$$
 
 $$F_{t,  t+m}^{d a$t$a}>F_{t,  t+m}=M_{t}\;e^{(r_{\$}-r_{e})m}$$
 
-- Recall that in this case,  an [[PSET 1 Solution-Financial Instruments|arbitrage trade]] requires the following:
+- Recall that in this case,  an [arbitrage trade](../../Financial%20Instruments/Assignments/Solutions/PSET%201%20Solution-Financial%20Instruments.md) requires the following:
 - (a) Short Euro forward;
-- (b) borrow dollars (or sell [[Credit Market Homework 1|US Treasuries]]);
+- (b) borrow dollars (or sell [US Treasuries](../../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Homework%201.md));
 - (c) change them into Euro;
 - (d) invest in Euro (or buy Euro bonds)
 - But point (b) failed during the crisis,  as:
-	1. Increase in [[Quantitative Trading Strategies Lecture Notes|credit risk]] concerns impaired the ability of any financial institution to borrow;
-	1. Holding safe dollars ([[Credit Market Homework 1|US Treasuries]]) is valuable during a [[Squam Lake Group Letter|financial crisis]] for [[Class Note 10 [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|Liquidity]] and Class Note 10 [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|Liquidity]] and [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|Liquidity]] Managementliquidity management|[[Class Slides Effects of MMF Regulations in the United States|liquidity management]]]]
-		- [[Credit Market Homework 1|US Treasuries]] are the only collateral accepted for short-term lending transactions.
+	1. Increase in [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) concerns impaired the ability of any financial institution to borrow;
+	1. Holding safe dollars ([US Treasuries](../../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Homework%201.md)) is valuable during a [financial crisis](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Letter.md) for [Liquidity](Class%20Note%2010%20[[Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management) and Class Note 10 [Liquidity](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) and [Liquidity](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) Managementliquidity management|[liquidity management](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Class%20Slides%20Effects%20of%20MMF%20Regulations%20in%20the%20United%20States.md)]]
+		- [US Treasuries](../../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Homework%201.md) are the only collateral accepted for short-term lending transactions.
 		- It is very valuable to hold on to them for future cash management
 
 ## CROSS-CURRENCY BASIS RISK AFTER THE CRISIS
@@ -365,8 +365,8 @@ $$F_{t,  t+m}^{d a$t$a}>F_{t,  t+m}=M_{t}\;e^{(r_{\$}-r_{e})m}$$
 ###### ISSUES WITH LIBOR
 - Until January 31,  2014: British Bankers Association (Bba) Libor
 	- Survey of a panel of banks
-	- Banks could underestimate their [[Notes on Currency Swaps|borrowing costs]]
-	- Conflict within the bank: impact of [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] setting on [[Chapter 9 Arbitrage and Hedging With Options|derivatives]] trading.
+	- Banks could underestimate their [borrowing costs](../../Financial%20Engineering/Notes%20on%20Currency%20Swaps.md)
+	- Conflict within the bank: impact of [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] setting on [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) trading.
 ###### NOW ICE LIBOR
 - ICE now the benchmark administrator
 - Regulator in UK: Financial Conduct Authority (FCA)
@@ -374,7 +374,7 @@ $$F_{t,  t+m}^{d a$t$a}>F_{t,  t+m}=M_{t}\;e^{(r_{\$}-r_{e})m}$$
 
 ## ALTERNATIVES
 
-- SOFR: "[[SOFR|Secured Overnight Financing Rate]]"
+- SOFR: "[Secured Overnight Financing Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2010/SOFR.md)"
 - ARRC: Alternative Reference Rates Committee.
 - Others:
 - SONIA (Sterling Over Night Indexed Average)
@@ -382,34 +382,34 @@ $$F_{t,  t+m}^{d a$t$a}>F_{t,  t+m}=M_{t}\;e^{(r_{\$}-r_{e})m}$$
 - TONAR (Tokyo Overnight Average Rate)
 - SARON (Swiss Average Rate Over-Night)
 - Measure of overnight *secured* borrrowing.
-- Collateralized [[Credit Market Homework 1|US Treasuries]] in the repo market.
+- Collateralized [US Treasuries](../../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Homework%201.md) in the repo market.
 - Very liquid and likely resilient markets:$1 trillion in daily volume
-- Contrast: USD [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] three-month tenor: about$1 billion
+- Contrast: USD [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] three-month tenor: about$1 billion
 - Published by New York Fed. Along with 30-day,  90-day and 180-day averages
 
 ## TRANSITION
-- [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] market:$200+ trillion of financial transactions contracts reference LIBOR
-- [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] permeates many contracts for in [[Chapter 1 Introduction to Securities Trading and Markets|securities markets]] and the corporate world: leases,  debt,
-- [[Chapter 9 Arbitrage and Hedging With Options|Derivatives]] market with Central Clearing Partners (e.g. CME …).
-- Cleared US Dollar [[Primer on Interest Rate Swaps|interest rate swap]] contracts at CME: move to SOFR discounting.
-- Intercontinental Exchange (ICE) Benchmark Administration: USD [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] benchmarks will stopped
-- Fannie and Freddie: have moved bo SOFR contracts - New York Fed: conducts repo and [Reverse Repo](Reverse%20Repurchase%20Agreement%20Operations.md) through tri-party repo. - OTC [[Advanced Usage of QuantLib analytics library|SOFR swaps]] - SOFR caps products have developed since September 2020
+- [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] market:$200+ trillion of financial transactions contracts reference LIBOR
+- [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] permeates many contracts for in [securities markets](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%201%20Introduction%20to%20Securities%20Trading%20and%20Markets.md) and the corporate world: leases,  debt,
+- [Derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) market with Central Clearing Partners (e.g. CME …).
+- Cleared US Dollar [interest rate swap](../../Financial%20Engineering/Primer%20on%20Interest%20Rate%20Swaps.md) contracts at CME: move to SOFR discounting.
+- Intercontinental Exchange (ICE) Benchmark Administration: USD [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] benchmarks will stopped
+- Fannie and Freddie: have moved bo SOFR contracts - New York Fed: conducts repo and [Reverse Repo](Reverse%20Repurchase%20Agreement%20Operations.md) through tri-party repo. - OTC [SOFR swaps](../../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) - SOFR caps products have developed since September 2020
 
 ## SOFR DERIVATIVES
 
 As an example: at the CME
 
-- [[Futures Not Subject to Cash-And-Carry|Futures]]: 3-month and 1-month. Using compounding or simple averages.
-- Term SOFR Reference rates based on [[Mathematics of the Financial Markets|futures contracts]].
+- [Futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md): 3-month and 1-month. Using compounding or simple averages.
+- Term SOFR Reference rates based on [futures contracts](../../Financial%20Engineering/Mathematics%20of%20the%20Financial%20Markets.md).
 
 ## SOME HISTORY
 
  ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413003435092.png)
 
 ### OVERNIGHT INDEX SWAPS (IS)
-- In a Is,  the two counterparties agree to exchange [[Overnight Index Swaps (OIS)|fixed for floating payments]],  where the floating payment is tied to the cumulative return from an overnight rate
-- [[Topics in Fiscal and Monetary Policies and Stabilization- Empirical Issues|Federal funds rate]],  SOFR in US. Europe: short-term rate (eSTR),  (formerly Euro OverNight Index Average (EONIA) rate).
-- Given a notional N,  the [[Overnight Index Swaps (OIS)|floating rate payment]] at time Ti is
+- In a Is,  the two counterparties agree to exchange [fixed for floating payments](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Overnight%20Index%20Swaps%20(OIS).md),  where the floating payment is tied to the cumulative return from an overnight rate
+- [Federal funds rate](../../International%20Finance/Economic%20Stabilization%20Notes/Topics%20in%20Fiscal%20and%20Monetary%20Policies%20and%20Stabilization-%20Empirical%20Issues.md),  SOFR in US. Europe: short-term rate (eSTR),  (formerly Euro OverNight Index Average (EONIA) rate).
+- Given a notional N,  the [floating rate payment](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Overnight%20Index%20Swaps%20(OIS).md) at time Ti is
 $$CF\left(T_{i}\right)=N\left(\prod\limits_{j=1}^{n_{j}}\left(1+r_{t_{j}}\delta\right)-1\right)\tag{16}$$
 
 - where δis the daily interval,  rt is the reference (annualized) overnight rate,  and nj is the number of days between reset periods.
@@ -421,29 +421,29 @@ $$CF\left(T_{i}\right)=N\left(e^{\frac{T_{i}^{T}}{T_{i-1}}\,  r\left(n\right)\ma
 - Is with longer maturities have normally quarterly payments.
 
 ## WHAT IS THE VALUE OF IS?
-- The value of Is is the difference between the [[Pricing Interest Rate Swaps|floating leg]] and the [[Pricing Interest Rate Swaps|fixed leg]]:
+- The value of Is is the difference between the [floating leg](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) and the [fixed leg](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md):
 $$V_{t}^{OIS}=V_{t}^{Floating}-V_{t}^{Fixed}\tag{18}$$
 
-- **[[Pricing Interest Rate Swaps|Floating Leg]]**: At reset dates,  and assuming the payment of a principal at maturity of the swap,
-the value of the [[Pricing Interest Rate Swaps|floating leg]] is par.
+- **[Floating Leg](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md)**: At reset dates,  and assuming the payment of a principal at maturity of the swap,
+the value of the [floating leg](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) is par.
 - Indeed,  investing the notional N in the overnight index daily gives at$T_i$
 $$N\prod_{j=1}^{n_{j}}\left(1+r_{t_{j}}\Delta\right)=C F\left(T_{i}\right)+N$$
 
 - =⇒ we can replicate the floating payments,  plus a residual of notional at maturity$T_i$,  with an
-	[[An Asset Allocation Primer|investment]] N at time 0.
+	[investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) N at time 0.
 
 - lt follows$$V_0^{Floating}=N$$
 
 .
 
-- **[[Pricing Interest Rate Swaps|Fixed leg]]:** Given a proper [[Basic Interest Rate Concepts and Relations|discount function]] ZOIS (0,  Ti),  we obtain
+- **[Fixed leg](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md):** Given a proper [discount function](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Basic%20Interest%20Rate%20Concepts%20and%20Relations.md) ZOIS (0,  Ti),  we obtain
 $$V_{0}^{Fixed}=N\ c\ \Delta\ \sum\limits_{i=1}^{n}Z^{OIS}\left(0,  T_{i}\right)+N\ Z^{OIS}\left(0,  T_{n}\right)\tag{19}$$
 
 - The value of the contract at inception is zero,  $V^{OIS}_0= 0.$
 - It follows from (18) then that
 $$V_{0}^{O I S}=V_{0}^{F l o a t i n g}-V_{0}^{F i x e d}=0\tag{20}$$
 
-- This equation implies that the [[Teaching Note 4 Interest Rate Derivatives|swap rate]] c can be computed from
+- This equation implies that the [swap rate](.md) c can be computed from
 $$1=c\,  \Delta\,  \,  \sum\limits_{i=1}^{n}Z^{OIS}\left(0,  T_{i}\right)+Z^{OIS}\left(0,  T_{n}\right)\tag{21}$$
 
 - which gives$$
@@ -458,19 +458,19 @@ $$
 $$Z^{OIS}\left(0,  T_{i}\right)=\frac{1-c\left(T_{i}\right)\,  \Delta\,  \,  \Sigma_{j=1}^{i-1}\,  Z^{OIS}\left(0,  T_{j}\right)}{1+c\left(T_{i}\right)\Delta}\tag{23}$$
 
 - recalling,  however,  that Is with maturity less than or equal to 1 year generally have only one payment.
-- Next Figure shows an example of bootstrapping from Is quotes,  on January 2,  2009. Panel A reports the original Is quotes from Bloomberg. Panel B uses the quotes from Panel A along with bootstrap methodology (23) and defines the Is [[Basic Interest Rate Concepts and Relations|discount function]]$Z^{OIS}(0,   T)$.
+- Next Figure shows an example of bootstrapping from Is quotes,  on January 2,  2009. Panel A reports the original Is quotes from Bloomberg. Panel B uses the quotes from Panel A along with bootstrap methodology (23) and defines the Is [discount function](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Basic%20Interest%20Rate%20Concepts%20and%20Relations.md)$Z^{OIS}(0,   T)$.
 
 ## IS DISCOUNT CURVE ON JANUARY 2ND,  2009
 
  ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413003734183.png)
 
-### IS AND [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] DISCOUNT CURVE ON JANUARY 2ND,  2007
+### IS AND [](A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#London%20Interbank%20Offered%20Rate%20(LIBOR)|LIBOR) DISCOUNT CURVE ON JANUARY 2ND,  2007
 
  ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413003806860.png)
 
 - However,  if we try after the crisis,  we obtain the following figure:
 
-## IS AND [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] DISCOUNT CURVE ON JANUARY 2ND,  2009
+## IS AND [](A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#London%20Interbank%20Offered%20Rate%20(LIBOR)|LIBOR) DISCOUNT CURVE ON JANUARY 2ND,  2009
 
  ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413003826513.png)
 
@@ -480,30 +480,30 @@ $$Z^{OIS}\left(0,  T_{i}\right)=\frac{1-c\left(T_{i}\right)\,  \Delta\,  \,  \Si
 - A cap pays a stream of payments at$T_i,   i = 1,  ..,   n$with$T_{i+1} = T_i + ∆$,  where
 $$C F\left(T_{i+1}\right)=\Delta\times N\times\operatorname*{max}\left(r_{n}\left(T_{i},  T_{i+1}\right)-r_{K}\right)$$
 
-- where$∆$is the time interval between payments,  $N$is the notional and$r_n (T_i,   T_{i+1})$is the n−times compounded [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] rate.
+- where$∆$is the time interval between payments,  $N$is the notional and$r_n (T_i,   T_{i+1})$is the n−times compounded [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] rate.
 - A floor pays$$CF\left(T_{i+1}\right)=\Delta\times N\times\max\left(r_{K}-r_{n}\left(T_{i},  T_{i+1}\right)\right)$$
 
 ## BLACK'S FORMULA FOR CAPLET VALUATION
 
-- It is market practice to use [[Chapter 40 - Pricing Fixed Income Options: Black’s Model and MCS|Black's model]] to value [[Interest Rate Derivatives-An Introduction to the  Pricing of Caps and Floors|Caps and Floors]]. - The main assumption is that under risk-adjusted probabilities (called "forward [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|risk neutral]] probabilities"),  the [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] rate has a log-normal distribution:
+- It is market practice to use [Black's model](../../Financial%20Engineering/Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2040%20-%20Pricing%20Fixed%20Income%20Options:%20Black’s%20Model%20and%20MCS.md) to value [Caps and Floors](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Interest%20Rate%20Derivatives-An%20Introduction%20to%20the%20%20Pricing%20of%20Caps%20and%20Floors.md). - The main assumption is that under risk-adjusted probabilities (called "forward [risk neutral](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) probabilities"),  the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] rate has a log-normal distribution:
 $$\ln\left(r_{n}\left(T_{i},  T_{i+1}\right)\right)\sim N\left(\mu_{i},  \sigma_{f,  i+1}^{2}T_{i}\right)$$
 
 - where we assume σf,  i+1 is a constant volatility and the subscript i + 1 is maturity of the caplet.
 - The valuation formula is then the following:
 $$\mathsf{caplet}(T_{i+1})=\Delta\times N\times Z\left(0,  T_{i+1}\right)\left[f_{n}(0,  T_{i},  T_{i+1})\mathcal{N}\left(d_{1}\right)-r_{K}\mathcal{N}\left(d_{2}\right)\right]\tag{24}$$
 
-- where$f_{n}(0,  T_{i},  T_{i+1}$is the [[Forward Points in Currency|forward rate]],  and$$d_{1}=\frac{\ln\left(f_{n}(0,  T_{i},  T_{i+1})/r_{K}\right)+\sigma_{j+i+1}^{2}T_{i}/2}{\sigma_{j+i+1}\sqrt{T_{i}}};\quad d_{2}=d_{1}-\sigma_{j+i+1}\sqrt{T_{i}}$$
-- Notice: We discount the payoff using$Z (0,   T_{i+1}$) and not$Z (0,   T_i)$as the [[Preview of the Book|cash flow]] is realized at time$T_{i+1}$.
+- where$f_{n}(0,  T_{i},  T_{i+1}$is the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md),  and$$d_{1}=\frac{\ln\left(f_{n}(0,  T_{i},  T_{i+1})/r_{K}\right)+\sigma_{j+i+1}^{2}T_{i}/2}{\sigma_{j+i+1}\sqrt{T_{i}}};\quad d_{2}=d_{1}-\sigma_{j+i+1}\sqrt{T_{i}}$$
+- Notice: We discount the payoff using$Z (0,   T_{i+1}$) and not$Z (0,   T_i)$as the [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) is realized at time$T_{i+1}$.
 
 ## EXAMPLE
 - On November 1,  2004. Consider a 1-year,  quarterly cap with strike rate$r_K = 2.555\%$.
 - Assume this cap is *trading* at volatility$σ_f = 23.5\%$.
-- The current [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] [[Advanced Usage of QuantLib analytics library|discount curve]] is as follows
+- The current [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] [discount curve](../../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) is as follows
 - $Z(0,   0.25) = 99.4580$;
 - $Z(0,   0.5) = 98.8510$;
 - $Z(0,   0.75) = 98.1899$;
 - $Z(0,   1) = 97.4834$.
-- From the [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] curve,  we can compute the quarterly compounded forward rates:
+- From the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] curve,  we can compute the quarterly compounded forward rates:
 - Forward Discount Factors
 $$F(0,  T_{i-1},  T_{i})=\frac{Z(0,  T_{i})}{Z(0,  T_{i-1})}$$
 
@@ -534,7 +534,7 @@ $\text{caplet } (1.0)\ =\ \Delta\times N\times Z\,  (0,  1.0)\,  [2.8987\%\times
 $$C a p(1Y)=0.0184+0.0617+0.1057=0.1859$$
 
 ## FLAT VOLATILITIES AND FORWARD VOLATILITIES
-- [[Interest Rate Derivatives-An Introduction to the  Pricing of Caps and Floors|Caps and floors]] are *quoted* in terms of flat volatilities.
+- [Caps and floors](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Interest%20Rate%20Derivatives-An%20Introduction%20to%20the%20%20Pricing%20of%20Caps%20and%20Floors.md) are *quoted* in terms of flat volatilities.
 - The volatility across caplets is kept constant for each cap.
 - For example,  from Bloomberg (code SSRC),  one finds quotes such as
 
@@ -542,8 +542,8 @@ $$C a p(1Y)=0.0184+0.0617+0.1057=0.1859$$
 
 Source: Bloomberg.
 
-- Each entry is a flat volatility for an "at-the-money" instrument,  meaning that its strike rate (equal for all the caplets) is the [[Teaching Note 4 Interest Rate Derivatives|swap rate]] with the same maturity of the cap.
-- The payment frequency of the underlying [[Interest Rate Derivatives-An Introduction to the  Pricing of Caps and Floors|caps and floors]] is 3 months.
+- Each entry is a flat volatility for an "at-the-money" instrument,  meaning that its strike rate (equal for all the caplets) is the [swap rate](.md) with the same maturity of the cap.
+- The payment frequency of the underlying [caps and floors](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Interest%20Rate%20Derivatives-An%20Introduction%20to%20the%20%20Pricing%20of%20Caps%20and%20Floors.md) is 3 months.
 - Since the first payment at horizon 3 months is known at time 0,  it is practice to set this caplet equal to zero.
 
 ## FLAT VOLATILITIES AND FORWARD VOLATILITIES
@@ -565,7 +565,7 @@ Source: Bloomberg.
 
 ## EXTRACTING THE FORWARD VOLATILITY FROM FLAT VOLATILITY
 
-- To set up [[Purpose and Structure of Financial Markets 1|arbitrage strategies]],  we need Forward Volatilities,  and not Flat volatilities.
+- To set up [arbitrage strategies](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Purpose%20and%20Structure%20of%20Financial%20Markets%201.md),  we need Forward Volatilities,  and not Flat volatilities.
 - How do we extract the Fwd volatility from the Flat volatility?
 - It is simple and analogous to the extraction of the discount$Z(t; T)$from bonds and swaps.
 - We start from the shortest maturitity,  and then bootstrap the Fwd volatility out of the Flat volatility,  by using an iterative method.
@@ -635,17 +635,17 @@ $$C a p l e t\left(T_{3},  r_{K},  \sigma_{f}^{F w d}(T_{3})\right)=\$0.1096\ \ 
 - where "slope$=\sigma_{f}^{Fwd}(10)-\sigma_{f}^{Fwd}(1)$" and "curvature$=2\sigma_{f}^{Fwd}(2)-\sigma_{f}^{Fwd}(1)-\sigma_{f}^{Fwd}(10)$.
 
 ## PUT-CALL PARITY
-- A [[7. Black Scholes Model|put-call parity]] relationship exists for [[Interest Rate Derivatives-An Introduction to the  Pricing of Caps and Floors|caps and floors]].
-- Clearly,  a [[An Asset Allocation Primer|portfolio]] of a long caplet and short floorlet with equal strikes gives
+- A [put-call parity](../../Financial%20Engineering/7.%20Black%20Scholes%20Model.md) relationship exists for [caps and floors](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Interest%20Rate%20Derivatives-An%20Introduction%20to%20the%20%20Pricing%20of%20Caps%20and%20Floors.md).
+- Clearly,  a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of a long caplet and short floorlet with equal strikes gives
 $$\operatorname*{max}\left(r_{n}\left(\tau,  T\right)-r_{K}\right)-\operatorname*{max}\left(r_{K}-r_{n}\left(\tau,  T\right)\right)=r_{n}\left(\tau,  T\right)-r_{K}$$
 
 - But this is the payoff to a swap. Hence,  we have
 $$\mathsf{c a p=f l o o r+s w a p}$$
 
 ## SWAPTIONS
-- A buyer of a swaption has *the right,  but not the obligation* to enter into a swap with given characteristics (such as maturity,  [[Teaching Note 4 Interest Rate Derivatives|swap rate]],  payment frequency,  etc.) at a given maturity$T_O$.
-- Ina *[[Chapter 39 - Swaptions, Forward Swaps, and MBS|payer swaption]]* the swaption buyer has the right to enter into a swap as a fixed-rate payer (and receive floating.) In a *receiver swaption* the swaption buyer has the right to enter into the swap as fixed-rate receiver (and pay floating).
-- For instance,  in Table 1,  an investor can purchase an at-the-money six-month option to enter into a 10-year swap at "[[A Real-Life Option Pricing Exercise|implied volatility]]" of 21.883%.
+- A buyer of a swaption has *the right,  but not the obligation* to enter into a swap with given characteristics (such as maturity,  [swap rate](.md),  payment frequency,  etc.) at a given maturity$T_O$.
+- Ina *[payer swaption](../../Financial%20Engineering/Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2039%20-%20Swaptions,%20Forward%20Swaps,%20and%20MBS.md)* the swaption buyer has the right to enter into a swap as a fixed-rate payer (and receive floating.) In a *receiver swaption* the swaption buyer has the right to enter into the swap as fixed-rate receiver (and pay floating).
+- For instance,  in Table 1,  an investor can purchase an at-the-money six-month option to enter into a 10-year swap at "[implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md)" of 21.883%.
 
  ![500](Z.%20Clippings/Lecture%20Note%204%20Interest%20Rate%20Derivatives-20240413010916470.png)
 
@@ -658,12 +658,12 @@ $$V\left(T_{i},  r_{K}\right)=P\left(T_{i},  T;r_{K}\right)-100$$
 - where$P (T_i,   T; r_K)$is the price of a coupon bond with$r_K$as coupon rate and maturity$T$.
 - Consider an option that gives its holder the right (not the obligation) to enter as the fixed rate
 receiver in the swap at time$T_O = T_{i^∗}$for some$i^∗ < n$,  at the exercise rate$r_K$.
-- Let$c (T_{i^∗},   T)$be the market [[Teaching Note 4 Interest Rate Derivatives|swap rate]] at time$T_{i^∗}$for a swap maturing at$T$.
+- Let$c (T_{i^∗},   T)$be the market [swap rate](.md) at time$T_{i^∗}$for a swap maturing at$T$.
 - If$c (T_{i^∗},   T) < r_K$,  optimal to exercise the option (and receive$r_K$instead of lower$c (T_{i^∗},   T).$
 - If$c (T_{i^∗},   T) *> r_K$,  optimal not to exercise the option (better receive the market rate$c (T_{i^∗},   T).$
 
 ## SWAPTION PAYOFF
-- We now show that the payoff of a receiver swaption is positive if and only if the market [[Teaching Note 4 Interest Rate Derivatives|swap rate]] is below the strike [[Teaching Note 4 Interest Rate Derivatives|swap rate]]:
+- We now show that the payoff of a receiver swaption is positive if and only if the market [swap rate](.md) is below the strike [swap rate](.md):
 $$V\left(T_{i^{*}},  r_{K}\right)>0\Longleftrightarrow c\left(T_{i^{*}},  T\right)<r_{K}$$
 
 - The payoff from the Swaption can be written as
@@ -672,17 +672,17 @@ $$
 $$
 
 - The value of a swap at time$T_O$is positive if and only if$(r_K − c (T_{i^∗},   T)$)
-- Clearly,  the option buyer [[Exercises|exercises]] the option if and only if the payoff is positive,  so the receiver
+- Clearly,  the option buyer [exercises](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) the option if and only if the payoff is positive,  so the receiver
 swaption payoff at$T_{i^∗}$is
 $$\mathrm{Payoff~of~Receiver~Swaption}~=~\sum\limits_{j=i^{*}+1}^{n}{Z\left(T_{i^{*}},  T_{j}\right)\Delta N\operatorname*{max}\left(r_{K}-c\left(T_{i^{*}},  T\right)\right)}$$
 
-- The payoff to the swap is equivalent to the [[Preview of the Book|cash flow]]
+- The payoff to the swap is equivalent to the [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md)
 $$\Delta N\max\left(r_{K}-c\left(T_{i^{*}},  T\right)\right)$$
 
 determined at$T_{i^∗}$,  paid out at times$T_{i^{*}+1},  T_{i^{*}+2},  …,  T_{n}$,  and thus discounted to$T_{i^{*}}$through the terms$\Sigma_{j=i^{*}+1}^{n}\,  Z\left(T_{i^{*}},  T_{j}\right)$.
 
 - The payoff at each time Ti∗+j is always the same determined at$T_{i^∗}$.
-- Similar,  the [[Chapter 39 - Swaptions, Forward Swaps, and MBS|payer swaption]] payoff at$T_{i^∗}$is
+- Similar,  the [payer swaption](../../Financial%20Engineering/Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2039%20-%20Swaptions,%20Forward%20Swaps,%20and%20MBS.md) payoff at$T_{i^∗}$is
 $$\mathrm{Payoff~of~Payer~Swaption}~=~\sum\limits_{j=i^{*}+1}^{n}Z\left(T_{i^{*}},  T_{j}\right)\Delta N\operatorname*{max}\left(c\left(T_{i^{*}},  T\right)-r_{K}\right)$$
 
 ### PAYOFF OF RECEIVER SWAPTION
@@ -691,15 +691,15 @@ $$\mathrm{Payoff~of~Payer~Swaption}~=~\sum\limits_{j=i^{*}+1}^{n}Z\left(T_{i^{*}
 
 ## SWAPTION PRICING
 
-- The price of the receiver swaption is obtained by [[Arbitrage Pricing of Derivatives|pricing]] each of those payments$∆N max (r_K − c (T_{i^∗},   T),   0)$at times$T_{i^∗+1},   T_{i^∗+2}*,   …,   T_{i^∗+n}$,  individually.
-- Like for [[Interest Rate Derivatives-An Introduction to the  Pricing of Caps and Floors|caps and floors]],  the Black's formula assumes that under the proper risk-adjusted probabilities,  the [[Teaching Note 4 Interest Rate Derivatives|swap rate]]$c (T_{i^∗},   T)$is log-normally distributed
+- The price of the receiver swaption is obtained by [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) each of those payments$∆N max (r_K − c (T_{i^∗},   T),   0)$at times$T_{i^∗+1},   T_{i^∗+2}*,   …,   T_{i^∗+n}$,  individually.
+- Like for [caps and floors](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Interest%20Rate%20Derivatives-An%20Introduction%20to%20the%20%20Pricing%20of%20Caps%20and%20Floors.md),  the Black's formula assumes that under the proper risk-adjusted probabilities,  the [swap rate](.md)$c (T_{i^∗},   T)$is log-normally distributed
 $$\log c\left(T_{i^{*}},  T\right)\sim\mathcal{N}(\mu,  \sigma_{T_{i^{*}}}^{2}T_{i^{*}})$$
 
-- where$σ_{T_i^∗}$is the [[Teaching Note 4 Interest Rate Derivatives|swap rate]] volatility,  which is what is quoted by market participants
+- where$σ_{T_i^∗}$is the [swap rate](.md) volatility,  which is what is quoted by market participants
 - Thus,  the (risk adjusted) expected value of a payer and receiver cash flows at$T_{i^∗+j}$are,  respectively,
 $$\begin{array}{l c l}{{E^{*}\left[P V\left[\max\left(c\left(T_{r},  T\right)-r_{K}\right)\right]\right]}}&{{=}}&{{Z\left(0,  T_{r^{*}+j}\right)\,  \left[f_{n}^{s}(0,  T_{r},  T)\mathcal{N}\left(d_{1}\right)-r_{K}\mathcal{N}\left(d_{2}\right)\right]}}\\ {{E^{*}\left[P V\left[\max\left(r_{K}-c\left(T_{i},  T\right)\right)\right]\right]}}&{{=}}&{{Z\left(0,  T_{r^{*}+j}\right)\,  \left[-f_{n}^{s}(0,  T_{i^{*}},  T)\mathcal{N}\left(-d_{1}\right)+r_{K}\mathcal{N}\left(-d_{2}\right)\right]}}\end{array}$$
 
-- where$f^s_n(0,   T_{i^∗},   T)$is the **[[Chapter 39 - Swaptions, Forward Swaps, and MBS|forward swap]] rate.** and
+- where$f^s_n(0,   T_{i^∗},   T)$is the **[forward swap](../../Financial%20Engineering/Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2039%20-%20Swaptions,%20Forward%20Swaps,%20and%20MBS.md) rate.** and
 $$d_{1}=\frac{\ln{(f_{n}^{s}(0,  T_{i^{*}},  T)/r_{K})}+\sigma_{T_{i^{*}}}^{2}T_{i^{*}}/2}{\sigma_{T_{i^{*}}}\sqrt{T_{i^{*}}}};\quad d_{2}=d_{1}-\sigma_{T_{i^{*}}}\sqrt{T_{i^{*}}}$$
 
 - $µ$is set up so that$f^s_n(0,   T_{i^∗},   T) = E^∗_f[c (T_{i^∗},   T)]$under the proper risk-adjusted probabilities.
@@ -710,24 +710,24 @@ $$d_{1}=\frac{\ln{(f_{n}^{s}(0,  T_{i^{*}},  T)/r_{K})}+\sigma_{T_{i^{*}}}^{2}T_
 
 ## SWAPTION PRICING
 
-- Hence,  the value of a [[Chapter 39 - Swaptions, Forward Swaps, and MBS|payer swaption]]$$\mbox{Payer Swaption}=\sum\limits_{j=i^{\prime}+1}^{n}\Delta\times N\times Z\left(0,  T_{j}\right)\left[f_{n}^{*}(0,  T_{i^{\prime}},  T){\cal N}\left(d_{1}\right)-r_{K}{\cal N}\left(d_{2}\right)\right]$$$$=AN\left[f_{n}^{*}(0,  T_{i^{\prime}},  T){\cal N}\left(d_{1}\right)-r_{K}{\cal N}\left(d_{2}\right)\right]$$
+- Hence,  the value of a [payer swaption](../../Financial%20Engineering/Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2039%20-%20Swaptions,%20Forward%20Swaps,%20and%20MBS.md)$$\mbox{Payer Swaption}=\sum\limits_{j=i^{\prime}+1}^{n}\Delta\times N\times Z\left(0,  T_{j}\right)\left[f_{n}^{*}(0,  T_{i^{\prime}},  T){\cal N}\left(d_{1}\right)-r_{K}{\cal N}\left(d_{2}\right)\right]$$$$=AN\left[f_{n}^{*}(0,  T_{i^{\prime}},  T){\cal N}\left(d_{1}\right)-r_{K}{\cal N}\left(d_{2}\right)\right]$$
 - where$$A=\sum\limits_{j=i^{\prime}+1}^{n}\Delta\times Z\left(0,  T_{j}\right)$$
 - Similarly,  the value of a receiver swaption is
 $$\text{Receiver Swaption}\ =\ A N\left[-f_{n}^{s}(0,  T_{i^{*}},  T){\mathcal{N}}\left(-d_{1}\right)+r_{K}{\mathcal{N}}\left(-d_{2}\right)\right]$$
 
 ## HOW DO WE COMPUTE THE FORWARD SWAP RATE?
-- This is implicit in the forward [[Advanced Usage of QuantLib analytics library|discount curve]]
+- This is implicit in the forward [discount curve](../../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md)
 $$F\left(0,  T_{i^{*}},  T\right)=\frac{Z\left(0,  T\right)}{Z\left(0,  T_{i^{*}}\right)}$$
 
-- Using that just as a [[Basic Interest Rate Concepts and Relations|discount function]] and following the same steps as for regular [[Teaching Note 4 Interest Rate Derivatives|swap rate]],  we can compute the [[Chapter 39 - Swaptions, Forward Swaps, and MBS|Forward Swap]] Rate$f_{n}^{*}(0,  T_{i^{*}},  T)$,  for a swap starting at time$T_{i}$,  and lasting until time$T_{i}$,  as$$f_{n}^{*}(0,  T_{i^{*}},  T)=\frac{1}{\Delta\sum_{j=i^{*}+1}^{n}F\left(0,  T_{i^{*}},  T_{i}\right)}$$
+- Using that just as a [discount function](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Basic%20Interest%20Rate%20Concepts%20and%20Relations.md) and following the same steps as for regular [swap rate](.md),  we can compute the [Forward Swap](../../Financial%20Engineering/Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2039%20-%20Swaptions,%20Forward%20Swaps,%20and%20MBS.md) Rate$f_{n}^{*}(0,  T_{i^{*}},  T)$,  for a swap starting at time$T_{i}$,  and lasting until time$T_{i}$,  as$$f_{n}^{*}(0,  T_{i^{*}},  T)=\frac{1}{\Delta\sum_{j=i^{*}+1}^{n}F\left(0,  T_{i^{*}},  T_{i}\right)}$$
 
 ## EXAMPLE
 - Today is November 1,  2004. Consider a 1-year swaption to enter into a 5-year swap at strike rate$r_K = 3.751\%$.
-- Table 1 shows that such a swaption is trading at [[A Real-Life Option Pricing Exercise|implied volatility]]$σ^s_f = 27.404\%$.
-- Table 4 provides the [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] [[Advanced Usage of QuantLib analytics library|discount curve]] up to$T = 6$.
-- to derive the Forward [[Advanced Usage of QuantLib analytics library|Discount curve]] we also need$Z(0,   1) × 100 = 97.48.$
+- Table 1 shows that such a swaption is trading at [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md)$σ^s_f = 27.404\%$.
+- Table 4 provides the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] [discount curve](../../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) up to$T = 6$.
+- to derive the Forward [Discount curve](../../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) we also need$Z(0,   1) × 100 = 97.48.$
 - We then obtain$$A=\Delta\times\sum\limits_{i=1}^{n}Z(0,  T_{i})=4.4046$$
-- The [[Chapter 39 - Swaptions, Forward Swaps, and MBS|forward swap]] rate can be computed from the forward discounts using the previous formula$f_{4}^{i}(0,  T_{O},  T_{S})=4.261\%$
+- The [forward swap](../../Financial%20Engineering/Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2039%20-%20Swaptions,%20Forward%20Swaps,%20and%20MBS.md) rate can be computed from the forward discounts using the previous formula$f_{4}^{i}(0,  T_{O},  T_{S})=4.261\%$
 $$d_{1}=\frac{ln(4.261\%/3.751\%)+0.27404^{2}\times1/2}{0.27404\times\sqrt{1}}=0.6023\,  \ d_{2}=0.6023-0.27404\times\sqrt{1}=0.3282$$
 
 - The Black's formula then gives for a receiver swaption with$N=100$:$$\mathsf{Swaption}=\sum\limits_{j=i+j+1}^{n}\Delta\times N\times Z\left(0,  T_{j}\right)\left[-f_{n}^{\circ}(0,  T_{i},  T)\mathcal{N}\left(-d_{1}\right)+r_{K}\mathcal{N}\left(-d_{2}\right)\right]$$$$=\$1.0026$$

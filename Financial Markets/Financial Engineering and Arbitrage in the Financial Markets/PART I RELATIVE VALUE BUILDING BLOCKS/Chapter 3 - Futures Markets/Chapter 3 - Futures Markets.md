@@ -1,11 +1,11 @@
 %% Begin Waypoint %%
-- **[[Chapter 3 - Futures Markets]]**
-	- [[Cash-And-Carry Arbitrage]]
-	- [[Chapter 3 - Futures Markets]]
-	- [[Fundamentals of Futures and Forwards]]
-	- [[Futures Mechanics]]
-	- [[Futures Not Subject to Cash-And-Carry]]
-	- [[Yield Curve Construction with Interest Rate Fut]]
+- **[Chapter 3 - Futures Markets](.md)**
+	- [Cash-And-Carry Arbitrage](Cash-And-Carry%20Arbitrage.md)
+	- [Chapter 3 - Futures Markets](.md)
+	- [Fundamentals of Futures and Forwards](Fundamentals%20of%20Futures%20and%20Forwards.md)
+	- [Futures Mechanics](Futures%20Mechanics.md)
+	- [Futures Not Subject to Cash-And-Carry](Futures%20Not%20Subject%20to%20Cash-And-Carry.md)
+	- [Yield Curve Construction with Interest Rate Fut](Yield%20Curve%20Construction%20with%20Interest%20Rate%20Fut.md)
 
 %% End Waypoint %%
 

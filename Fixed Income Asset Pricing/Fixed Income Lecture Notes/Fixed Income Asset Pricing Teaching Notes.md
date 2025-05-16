@@ -28,50 +28,50 @@ key_concepts:
 # Introduction
 - Several changes to fixed-income markets took place in the aftermath of the crisis
 1. Many countries increased debt to “"stimulate" the economy.
-- Lower tax revenues due to the economic downturn and higher government spending => large increase in [[Global Fixed Income Markets|government debt]]
-1. The huge [[Teaching Note 1-Introduction To Fixed Income Securities|mortgage-backed securities market]] had several changes
+- Lower tax revenues due to the economic downturn and higher government spending => large increase in [government debt](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Global%20Fixed%20Income%20Markets.md)
+1. The huge [mortgage-backed securities market](Teaching%20Note%201-Introduction%20To%20Fixed%20Income%20Securities.md) had several changes
 - Fannie Mae and Freddie Mac went into conservator ship. Many mortgage companies disappeared. New regulation has been enacted.
-1. Aggressive [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.6 [[A Preview of Alternative Formulations|Asset price]] reactions to [[The Economist Regime Change|monetary policy]] surprises|[[The Economist Regime Change|monetary policy]]]] has had large impact on Treasury bonds
-- Federal Reserve slashed [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#Federal Funds Market|[[Fed Fund Futures|Fed Funds]] Rate]] to zero
-- Federal Reserve moved to "unconventional [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.6 [[A Preview of Alternative Formulations|Asset price]] reactions to [[The Economist Regime Change|monetary policy]] surprises|[[The Economist Regime Change|monetary policy]]]]
+1. Aggressive [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.6 [Asset price](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) reactions to [monetary policy](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) surprises|[monetary policy](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md)]] has had large impact on Treasury bonds
+- Federal Reserve slashed [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Federal Funds Market|[Fed Funds](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md) Rate]] to zero
+- Federal Reserve moved to "unconventional [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.6 [Asset price](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) reactions to [monetary policy](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) surprises|[monetary policy](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md)]]
 1. Massive regulatory changes in derivative markets
-Central counter parties (CCP - Impact on [[Arbitrage Pricing of Derivatives|pricing]] of [[Chapter 9 Arbitrage and Hedging With Options|derivatives]].
+Central counter parties (CCP - Impact on [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md).
 1. Dramatic change in behavior of Treasury bonds
 - From positive beta to negative beta securities
 - Negative rates in many periods
 # The Outstanding Amount U.S. Debt
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0e98342aeebdbcbf4c3c5d40b5b8024bc83ba4bd7d152a058300e197a2d098a5.jpg)
+ ![500](Attachments/500-66.jpg)
 
 PanelA. Billions of US Dollars
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/223e187f64dc20a2341da1c355d243bc9fc328dcb0b21e0d3f386739fe8308ca.jpg)
+ ![500](Attachments/500-67.jpg)
 
 Panel B. Percentage of US GDF (Source: SIFMA and FRED at Federal Reserve of St. Louis.)
 
 # Federal Funds and U.S. Treasury Yields
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/00d4bfb06d8ddf5c00ff6ab3e7edb27588cef7698afaca1686546234288efac1.jpg)
+ ![500](Attachments/500-69.jpg)
 
 PanelA. Federal Funds Effective Rate
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/88f5abe0103ba857c48a6b1a50f244f89445a3d2c076f618e5255f63c5dde492.jpg)
+ ![500](Attachments/500-88.jpg)
 
 Panel B. Zero-Coupon Bond Yields (Data: Yields up to 5 years are from CRSP. Yields from 10 to 30 are from Gurkaynak,  Sack,  and Wright (2007),  updated series. )
 
 # The Notional Amount of Over-the-Counter Derivatives
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dcf309ded8027b1df718b626b3b31dfc98b863aa3cf8a46d15fc651804b93fb3.jpg)
+ ![500](Attachments/500-89.jpg)
 
 Panel A. Millions of US Dollars
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/55a51c9ecf78e1395d2d81af3c54294a247f760e83f356bf083e9988a62badba.jpg)
+ ![500](Attachments/500-87.jpg)
 
 Panel B. Multiple of Global GDP
 
 # The Changing Beta of U.S. Treasury Bonds
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d7d3f5985914a6b995abfe4a1405eba23d622d547c9e4d8201ec79c505fe3e58.jpg)
+ ![500](Attachments/500-75.jpg)
 
 Stock Bond Covariance (Stock data are from CRSP. 5-year zero-coupon bond data are from Gurkaynak,  Sack,  and Wright (2007,  updated series)
 
@@ -79,28 +79,28 @@ Bond Beta
 
 # The Yields of German Treasury Bonds
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4c0735bef5b9f6f3fa493afc4a83948241d5f8da999e1473ed943de398e4826b.jpg)
+ ![500](Attachments/500-105.jpg)
 
 (Data: Bloomberg)
 
 # U.S. Treasury Bills,  Notes,  and Bonds
-- U.S. Government issues various kinds of [[Analysis of Fixed Income Securities|debt securities]]
-1. Treasury Bills: Zero coupon securities with maturity up to one year 2. Treasury Notes: Fixed coupon bonds with maturity up to 10 years 3. Treasury Bonds: Fixed coupon bonds with maturity of 30 years 4. Treasury [[War Economies and Hyperinflation|Inflation]]-Protected Securities (TIPS): Floating coupon bonds indexed to [[War Economies and Hyperinflation|inflation]] 5. [[Fixed Income Asset Pricing Midterm|Floating Rate Notes]] (FRNs): Floating coupon bonds,  with coupon indexed to T-Bill rates
+- U.S. Government issues various kinds of [debt securities](../Analysis%20of%20Fixed%20Income%20Securities.md)
+1. Treasury Bills: Zero coupon securities with maturity up to one year 2. Treasury Notes: Fixed coupon bonds with maturity up to 10 years 3. Treasury Bonds: Fixed coupon bonds with maturity of 30 years 4. Treasury [Inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)-Protected Securities (TIPS): Floating coupon bonds indexed to [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) 5. [Floating Rate Notes](../Fixed%20Income%20Asset%20Pricing%20Midterm.md) (FRNs): Floating coupon bonds,  with coupon indexed to T-Bill rates
 # Marketable U.S. Treasury Securities (million of dollars) December 31,  2021
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5cf7701c68e2e03c358db5269b9aed76da99faf0cb849d8ca3e1152c07a427bf.jpg)
+ ![500](Attachments/500-111.jpg)
 
 Source: U.S. Treasury web site. https://www.treasury direct. Gou
 
 # Interest Rates and Compounding Frequency
-- The concept of [[Interest Rate Quotations|interest rates]] is ubiquitous to [[Bond Equivalent Yield (BEY) - Definition, Formula, and Example|fixed income securities]].
-- Problem: An interest rate is not well defined without a [[Interest Rate Quotations|compounding frequency]] -Example: A \$100 investment at $10\%$ interest rate over 10 years has payoffs:
+- The concept of [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) is ubiquitous to [fixed income securities](../../Clippings/Bond%20Equivalent%20Yield%20(BEY)%20-%20Definition,%20Formula,%20and%20Example.md).
+- Problem: An interest rate is not well defined without a [compounding frequency](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) -Example: A \$100 investment at $10\%$ interest rate over 10 years has payoffs:
 Annual $\begin{array}{r l r}{\mathsf{c o m p o u n d i n g:}\quad}&{{}\mathbb{S}100\times\left(1.1\right)^{10}}&{=\mathbb{S}259.37}\\ {\mathsf{c o m p o u n d i n g:}\quad}&{{}\mathbb{S}100\times\left(1.05\right)^{20}}&{=\mathbb{S}265.33}\\ {\mathsf{c o m p o u n d i n g:}\quad}&{{}\mathbb{S}100\times\left(1.025\right)^{40}}&{=\mathbb{S}268.51}\\ {\mathsf{c o m p o u n d i n g:}\;\,         \mathbb{S}100\times\left(1+\frac{0.1}{365}\right)^{10\times365}}&{=\mathbb{S}271.79}\\ {\mathsf{c o m p o u n d i n g:}\quad}&{{}\mathbb{S}100\times e^{0.1\times10}}&{=\mathbb{S}271.82}\end{array}$ Semi-annual Quarterly Daily Continuous
 The general formula to compound $n$ times over the horizon $T$ is$$
 V=\left(1+\frac{r}{n}\right)^{n\times T}
 $$  
 
-For $n$ large,  we converge to [[Interest Rate Quotations|continuous compounding]]
+For $n$ large,  we converge to [continuous compounding](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)
 $$
 V=\left(1+{\frac{r}{n}}\right)^{n\times T}\longrightarrow e^{r\times T}
 $$  
@@ -112,35 +112,35 @@ Discounting is opposite process from the previous one.
 Inverting the relation above,  we obtain$$
 Z(T)=\frac{1}{\left(1+\frac{r}{n}\right)^{n\times T}}
 $$  
-- In the limit as $n\rightarrow\infty$ we obtain the usual [[Interest Rate Quotations|continuous compounding]] formula$$
+- In the limit as $n\rightarrow\infty$ we obtain the usual [continuous compounding](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) formula$$
 Z(T)={\frac{1}{\left(1+{\frac{r}{n}}\right)^{n\times T}}}\longrightarrow Z(T)=e^{-r T}
 $$  
 # Discounts and Rates
-- Note that the [[Interest Rate Quotations|compounding frequency]] is mostly a convention
+- Note that the [compounding frequency](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) is mostly a convention
 The key question is:
 "How much are investors willing to pay today to have \$1 at T"
 Such price,  $Z(T)$ ,  is always well defined.
- - Given $Z(T)$ ,  we can derive the rate $r_{n}$ for any given [[Interest Rate Quotations|compounding frequency]] ni$$
+ - Given $Z(T)$ ,  we can derive the rate $r_{n}$ for any given [compounding frequency](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) ni$$
 r_{n}=n\times\left(\frac{1}{Z(T)^{\frac{1}{n T}}}-1\right)
 $$  
-- The [[Arithmetic and Geometric Rates of Return|continuously compounded rate]] is instead$$
+- The [continuously compounded rate](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Arithmetic%20and%20Geometric%20Rates%20of%20Return.md) is instead$$
 r=-{\frac{1}{T}}\log\left(Z(T)\right)
 $$  
 # The Term Structure of Interest Rates
-- When we discount [[Advanced Derivatives Pricing Methodology|future cash flows]] to the present,  different discount rates apply for different maturities.
-- We denote the [[Discount Factors|discount factor]] at $t$ for a dollar to be received at time $T$ by$$
+- When we discount [future cash flows](../../Financial%20Engineering/Advanced%20Derivatives%20Pricing%20Methodology.md) to the present,  different discount rates apply for different maturities.
+- We denote the [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) at $t$ for a dollar to be received at time $T$ by$$
 Z(t,         T)=e^{-r(t,         T)(T-t)}
 $$  
-- r (t,  T) = continuously compounded yield at $t$ for an [[An Asset Allocation Primer|investment]] up to $T$
+- r (t,  T) = continuously compounded yield at $t$ for an [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) up to $T$
 We put two "time" indices:
 1. $t=$ calendar time when the discounting is made (e.g. 1/31/2007,  etc.) 2. $T=$ maturity date. $\implies T-t=\mathsf{t i m e\;t o\;m a t u r i t y}$
  - Panel A of next figure shows $Z(t,         T)$ for $t=1/31/2007,         1/31/2008,         …,         3/20/2020,         $ andfor $T-t$ ranging from 0 to 30 years
  - Panel B of next figure shows the corresponding yields $r(t,         T)$
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/42fbe45b23fdf7c59a769f13205e1ef1a00af9553f13131f796e75cbebe579c8.jpg)
+ ![500](Attachments/500-112.jpg)
 Panel A. Zero Coupon Bonds (Data are from Girkaynak,  Sack,  and Wright (2007),  updated series.)
 # Panel B. Yield Curves
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/803b54810385b44646c671eeb9e533c64a0d7c054463d0203dcacb70d724ce63.jpg)
+ ![500](Attachments/500-112.jpg)
 
 (Data are from Girkaynak,  Sack,  and Wright (2007),  updated series.)
 
@@ -148,14 +148,14 @@ Panel A. Zero Coupon Bonds (Data are from Girkaynak,  Sack,  and Wright (2007), 
 
 Yield curves change a lot over time.
 
-They also have many shapes: -Flat (e.g. 1/31/2007) - Increasing (e.g. 1/30/2015) - Hump (e.g. 1/31/2009) - Inverted hump (slightly,  1/31/2007) \* What generates the shape of the [[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]]? \* What does it imply for derivative [[Arbitrage Pricing of Derivatives|pricing]] etc?
+They also have many shapes: -Flat (e.g. 1/31/2007) - Increasing (e.g. 1/30/2015) - Hump (e.g. 1/31/2009) - Inverted hump (slightly,  1/31/2007) \* What generates the shape of the [term structure of interest rates](../../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md)? \* What does it imply for derivative [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) etc?
 
 - Indeed,  there is much variation not only in level but in slope of the yield curve
 - What do these variations tell us about investors' beliefs about future rates?
  - What do they tell us about risk premia required to hold bonds?
 # Zero-Coupon Bond Yields
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cf87b0c085a2e5b586140ada3a9103ab5ca8797c446650ed5f69a9dc5655e304.jpg)
+ ![500](Attachments/500-113.jpg)
 
 (Data: Yields up to 5 years are from CRSP. Yields from 10 to 30 are from Gurkaynak,  Sack,  and Wright (2007),  updated series. )
 
@@ -165,19 +165,19 @@ What is the price of coupon bond?
 
 ·A coupon bond is just a sequence of cash payments $c/2$ (coupons) for dates $T_{\mathrm{1}},         T_{\mathrm{2}},         …,         T_{n}$ and one big payment of $100+c/2$ (principal) at $T_{n}\ (={\mathsf{m a t u r i t y\ o f}}$ the bond).
 
- - If we know the time value of money for each maturity,  that is,  the [[Basic Interest Rate Concepts and Relations|discount function]] $Z\left(t,         T_{i}\right)$ for all maturities $T_{i}$ 's,  a simple no [[Arbitrage Pricing of Derivatives|arbitrage]] argument implies
+ - If we know the time value of money for each maturity,  that is,  the [discount function](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Basic%20Interest%20Rate%20Concepts%20and%20Relations.md) $Z\left(t,         T_{i}\right)$ for all maturities $T_{i}$ 's,  a simple no [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) argument implies
 
-Coupon Bonds [[Arbitrage Pricing of Derivatives|Pricing]] Formula and No [[Arbitrage Pricing of Derivatives|Arbitrage]] Argument
+Coupon Bonds [Pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) Formula and No [Arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) Argument
 A coupon bond represents a sequence of cash payments known as coupons, with each payment typically being $c/2$ for specific dates $T_1, T_2, ..., T_n$. At maturity, $T_n$, there is an additional payment of $100 + c/2$, representing the principal and the final coupon.
 
-To determine the price of such a coupon bond, we use the [[Basic Interest Rate Concepts and Relations|discount function]] $Z(t, T_i)$, which represents the time value of money for each maturity $T_i$. The [[Arbitrage Pricing of Derivatives|pricing]] formula for a coupon bond without [[Arbitrage Pricing of Derivatives|arbitrage]] implies:
+To determine the price of such a coupon bond, we use the [discount function](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Basic%20Interest%20Rate%20Concepts%20and%20Relations.md) $Z(t, T_i)$, which represents the time value of money for each maturity $T_i$. The [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formula for a coupon bond without [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) implies:
 $$
 T_n = \frac{c}{2} \times Z(t, T_1) + \frac{c}{2} \times Z(t, T_2) + \ldots + (1) \
 = \sum_{i=1}^{n} \left(\frac{c/2}{\left(1 + \frac{r_2(t, T_i)}{2}\right)^{2 \times (T_i - t)}} + \frac{1}{\left(1 + \frac{r_2(t, T_i)}{2}\right)^{2 \times (T_i - t)}}\right)
 $$
 
-[[Arbitrage Pricing of Derivatives|Arbitrage]] Argument
-If the market price of a bond is trading at par (e.g., $100) but the right-hand side of the equation sums to $105, there exists an [[Arbitrage Pricing of Derivatives|arbitrage]] opportunity. An arbitrageur can purchase the bond for $100 and sell each cash payment or strip for a total of $105, yielding a profit of $5. This scenario illustrates perfect matching of cash flows, which constitutes a [[Arbitrage|risk-free profit]], hence an [[Arbitrage Pricing of Derivatives|arbitrage]] opportunity.
+[Arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) Argument
+If the market price of a bond is trading at par (e.g., $100) but the right-hand side of the equation sums to $105, there exists an [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity. An arbitrageur can purchase the bond for $100 and sell each cash payment or strip for a total of $105, yielding a profit of $5. This scenario illustrates perfect matching of cash flows, which constitutes a [risk-free profit](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Arbitrage.md), hence an [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity.
 
 Simplification for Semi-Annual Maturities
 When $t = 0$ and $T_i$ are exact semi-annual maturities (e.g., $T_1 = 0.5$, $T_2 = 1$, $T_3 = 1.5$, etc.), the formula simplifies as follows:
@@ -188,9 +188,9 @@ $$
 The simplification occurs because $2 \times T_i = i$ for each $i = 1, ..., n$.
 
 Market Conventions and Terminology
-Understanding market conventions is crucial for accurate bond [[Arbitrage Pricing of Derivatives|pricing]] and trading:
-[[Intra-Year Compounding and Day-Count|Accrued Interest]]: Quoted bond prices often exclude [[Intra-Year Compounding and Day-Count|accrued interest]], known as clean prices. [[Intra-Year Compounding and Day-Count|Accrued interest]] is calculated as:$\text{Accrued Interest} = \frac{\text{Interest Due in Full Period} \times \text{Number of Days Since Last Coupon Date}}{\text{Number of Days between Coupon Payments}}$
-[[Accrued Interest|Invoice Price]]: Also known as the dirty price, it is the actual payment including [[Intra-Year Compounding and Day-Count|accrued interest]].
+Understanding market conventions is crucial for accurate bond [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and trading:
+[Accrued Interest](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md): Quoted bond prices often exclude [accrued interest](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md), known as clean prices. [Accrued interest](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) is calculated as:$\text{Accrued Interest} = \frac{\text{Interest Due in Full Period} \times \text{Number of Days Since Last Coupon Date}}{\text{Number of Days between Coupon Payments}}$
+[Invoice Price](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Accrued%20Interest.md): Also known as the dirty price, it is the actual payment including [accrued interest](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md).
 Day Count Conventions: Methods for counting days differ based on the security:
 Actual/Actual: Counts the actual number of calendar days.
 30/360: Assumes 30 days in a month and 360 days in a year.
@@ -198,11 +198,11 @@ Actual/360: Counts actual days per month but assumes 360 days in a year.
 
 Choosing the correct day count convention depends on the specific security in question.
 
-What is the [[Arbitrage Pricing of Derivatives|arbitrage]] argument?
+What is the [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) argument?
 
 # Coupon Bonds
 - Suppose that the price of the bond is trading at par (100) but the right-hand side is 105.
-- Then an arb it rage ur can buy the bond (pay 100) and sell the strips (each cash payments) for a total of 105,  thereby making \$5 (million). Since there is perfect matching of cash flows in the future,  the trade is an [[Arbitrage Pricing of Derivatives|arbitrage]].
+- Then an arb it rage ur can buy the bond (pay 100) and sell the strips (each cash payments) for a total of 105,  thereby making \$5 (million). Since there is perfect matching of cash flows in the future,  the trade is an [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md).
 - Incidentally,  notice that if $t=0$ and $T_{i}$ are exact semi-annual maturities,  that is $T_{1}=0$ , $T_{2}=1$，$T_{3}=1.5$ etc.,  then we have $2\times T_{i}=i$ for every $i=1,..,n,$ and thus the formula reduces to$$
 \left0.\1,         T_{n}\right)=\sum_{i=1}^{n}\frac{c/2}{\left(1+r_{2}\left(0,         T_{i}\right)/2\right)^{i}}+\frac{100}{\left(1+r_{2}\left(0,         T_{n}\right)/2\right)^{i}}
 $$  
@@ -211,10 +211,10 @@ $$
 It is important to spend a few words on some market conventions and terminology
 
 # Accrued Interest
-- The market prices of bonds quoted in newspapers are clean prices. That is,  they are quoted without any [[Intra-Year Compounding and Day-Count|accrued interest]]. - The [[Intra-Year Compounding and Day-Count|accrued interest]] is the amount of interest that has built up since the last coupon payment.
-[[Intra-Year Compounding and Day-Count|Accrued Interest]] $=$ Interest Due in the Full Period X
-Number of Days Since Last Coupon Date Number of Days between [[Realized Returns|Coupon Payments]]
-- The actual payment is called [[Accrued Interest|invoice price]] (or dirty price)
+- The market prices of bonds quoted in newspapers are clean prices. That is,  they are quoted without any [accrued interest](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md). - The [accrued interest](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) is the amount of interest that has built up since the last coupon payment.
+[Accrued Interest](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) $=$ Interest Due in the Full Period X
+Number of Days Since Last Coupon Date Number of Days between [Coupon Payments](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md)
+- The actual payment is called [invoice price](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Accrued%20Interest.md) (or dirty price)
 # Day Count Conventions
 
 How do we count days? Three main ways
@@ -248,14 +248,14 @@ $$
 P\left(t,         T_{n}\right)=\sum_{i=1}^{n}{\frac{c/2}{\left(1+{\frac{y}{2}}\right)^{2\times(T_{i}-t)}}}+{\frac{100}{\left(1+{\frac{y}{2}}\right)^{2\times(T_{n}-t)}}}
 $$  
 
-Recall that given the [[Teaching Note 4 Interest Rate Derivatives|spot curve]] $r_{2}\left(t,         T_{i}\right)$ ,  we also had
+Recall that given the [spot curve](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) $r_{2}\left(t,         T_{i}\right)$ ,  we also had
 $$
 T_{n})=\sum_{i=1}^{n}{\frac{c/2}{\left(1+r_{2}\left(t,         T_{i}\right)/2\right)^{2\times\left(T_{i}-t\right)}}}+{\frac{1}{\left(1+r_{2}\left(t,         T_{i}\right)/2\right)^{2\times\left(T_{i}-t\right)}}}
 $$  
 
 What's the difference?
 
--The yield to maturity $y$ is a sort of average [[PSET 7- Kohler|discount rate]] that characterizes one particular bond,  and it is used to discount the cash flows of that particular bond.
+-The yield to maturity $y$ is a sort of average [discount rate](../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) that characterizes one particular bond,  and it is used to discount the cash flows of that particular bond.
 
 - Notice that two different bonds with same maturity,  will have different yield to maturities if they have different coupons.
 # Yield-to-Maturity
@@ -265,7 +265,7 @@ We will almost never use YTM
 - It is blatantly wrong as a measure of yield,  as it assumes that all the coupons can be reinvested at the constant y throughout the life of the bond.
 - That is: not only it assumes a flat yield curve,  but also one that does not move overtime.
 Example: consider the following data:
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5410c643e3e1f3d88bd1a0ecd4afea2c321746f060e4a6d96ed78323c1ca871e.jpg)
+ ![500](Attachments/500-70.jpg)
 What is the most attractive bond?
 # Yield-to-Maturity
 
@@ -275,19 +275,19 @@ Judging from the Yield-to-Maturity,  bond 3 looks great
 -Let $N_{1}$ and $N_{2}$ ,  be the number of the first and the second coupon bonds -Then$$
 \begin{array}{c}{{N_{1}\times9+N_{2}\times10\,         =\,         3}}\\ {{N_{1}\times109+N_{2}\times110\,         =\,         103}}\end{array}
 $$  
--Solving the system $\Longrightarrow$ the [[An Asset Allocation Primer|portfolio]] long $N_{1}=7$ units in bond 1 and short of $N_{2}=-6$ units bond 2 mimics exactly the cash flows of bond 3.
-- The value of this [[An Asset Allocation Primer|portfolio]] is $N_{1}\times98.57+N_{2}\times100.34=87.95<88.$ - The YTM of the [[An Asset Allocation Primer|portfolio]] is even bigger: $\mathsf{Y T M}{=}9.94\%$
+-Solving the system $\Longrightarrow$ the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) long $N_{1}=7$ units in bond 1 and short of $N_{2}=-6$ units bond 2 mimics exactly the cash flows of bond 3.
+- The value of this [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is $N_{1}\times98.57+N_{2}\times100.34=87.95<88.$ - The YTM of the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is even bigger: $\mathsf{Y T M}{=}9.94\%$
 # Yield to Maturity
 
 Why is this happening?
 
 - The YTM measures the average return on the bond under the assumption that all coupons are reinvested at the same rate $y$
-- With a non-flat [[The Vasicek Model|term structure]],  this is simply not going to happen and using YTM for relative [[Arbitrage Pricing of Derivatives|pricing]] yields bad results
-- The low coupon in bond 3 together with the fact that we cannot re-invest at the highrateof $9.91\%$ for the whole life of the bond yields the implication that the third bond is "no better" than a [[An Asset Allocation Primer|portfolio]] of the other two (which have lower YTMs).
+- With a non-flat [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md),  this is simply not going to happen and using YTM for relative [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) yields bad results
+- The low coupon in bond 3 together with the fact that we cannot re-invest at the highrateof $9.91\%$ for the whole life of the bond yields the implication that the third bond is "no better" than a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of the other two (which have lower YTMs).
 # Floating Rate Notes
-- [[Fixed Income Asset Pricing Midterm|Floating rate notes]] are securities whose coupon is not fixed,  but it depends on realized short-termrates $r_{t}$
+- [Floating rate notes](../Fixed%20Income%20Asset%20Pricing%20Midterm.md) are securities whose coupon is not fixed,  but it depends on realized short-termrates $r_{t}$
 一 If $r_{t}$ increases => coupon increases. And vice versa.
-   - The U.S. Treasury started issuing [[Fixed Income Asset Pricing Midterm|floating rate notes]] (FRN) in January 2014
+   - The U.S. Treasury started issuing [floating rate notes](../Fixed%20Income%20Asset%20Pricing%20Midterm.md) (FRN) in January 2014
  - They pay quarterly coupons using the 13-week U.S. T-bill rate as a reference rate,  plus a spread determined at the auction of the FRN.
  - Let $T_{\mathrm{1}},         \,         T_{\mathrm{2}},         \,         …,         \,         T_{n}$ denote the coupon payment dates,  with $T_{i+1}=T_{i}+0.25$
  - Then the (annualized) coupon rate at time $T_{i}$ isgivenby$$
@@ -299,7 +299,7 @@ $$
 # Floating Rate Notes: Pricing
 - How do we price a security with unknown future coupons?
  - We can use a recursive argument. Let's start with a spread = 0
- - Let Tn = maturity date,  where $n$ is the total number of [[Realized Returns|coupon payments]]
+ - Let Tn = maturity date,  where $n$ is the total number of [coupon payments](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md)
 Suppose that today is actually $T_{n-1}$$-\Longrightarrow$ Today we know the reference rate $r(T_{n-1})$ and hence$$
 T_{n}=1+\frac{1}{4}c(T_{n})=1+\frac{1}{4}r(T_{n-1})
 $$  
@@ -323,60 +323,60 @@ $$
 $$
 P^{F R N}(t)\;=\;Z(t,         T_{i})(1+r(T_{i-1})/4)
 $$  
-- Adding a spread to the [[Realized Returns|coupon payments]] is simple because the spread is constant. Use discounts $Z(t,         T)$ to compute its value
+- Adding a spread to the [coupon payments](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) is simple because the spread is constant. Use discounts $Z(t,         T)$ to compute its value
 # Repurchase Agreements
-- [[Class Note 12 Part 2 Repos|[[Class Slides On Repurchase Agreements|repurchase agreements]]]] (Repo): Agreement to sell some securities to another party and buy them back at a fixed date and for a fixed amount.
+- [[[Class Slides On Repurchase Agreements|repurchase agreements](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Class%20Note%2012%20Part%202%20Repos.md)]] (Repo): Agreement to sell some securities to another party and buy them back at a fixed date and for a fixed amount.
 - The price at which the security is bought back is greater than the selling price and the difference implies an interest rate called Repo Rate - A Reverse Repo is the borrowing of a security for a short period at an agreed interest rate.
 - The Repo Market is the single most important source of financing for government dealers.
 - Since government securities are liquid and default free,  they are excellent collateral. - Dealers can borrow money on a collateralized basis,  so that they can take huge positions even with limited capital. - The Repo Market grew very large. Next table shows the average daily amount outstanding
 # Financing by U.S. Government Securities Dealers
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eb3a1237da1e18f8c51e03d3870bcebf65b78e9e61e69d4a1398a8693436a20c.jpg)
+ ![500](Attachments/500-109.jpg)
 
 Average Daily Amount Outstanding (\$ Billions) (Source: SIFMA http:/ / www.sifma.org/research/statistics.aspx )
 
 # Bilateral Repurchase Agreements
-- A Repo transaction is as follows: Consider a trader and a repo-dealer. The trader attime $t$ wants to take a [[Chapter 4 - Futures: Hedging and Speculation|long position]] until time $T$ (typically,  overnight!) Then
+- A Repo transaction is as follows: Consider a trader and a repo-dealer. The trader attime $t$ wants to take a [long position](../../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%204%20-%20Futures:%20Hedging%20and%20Speculation.md) until time $T$ (typically,  overnight!) Then
 # Schematic Repo Transaction
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/686d44286c69b7a8a81153cdc1a416e20b3ffab56c7640b36b2fe5008038ef63.jpg)
+ ![500](Attachments/500-82.jpg)
 
 # Repurchase Agreements
 1. At time $t$ ,  the trader buys the bond at market price $P_{t}$ and enters into aRe po with the Repo Dealer. Hence,  the trader delivers the bond as collateral to the repo-dealer and gets the cash to purchase the bond.
-- The Repo Dealer typically gives something less than the market price of the bond. The difference is called hair cut. ·The term $T$ is decided at time $t$ : Most [[Class Note 12 Part 2 Repos|[[Class Slides On Repurchase Agreements|repurchase agreements]]]] are for a very short term (overnight). Some longer term agreements reach 30 days or more.  - The Repo rate is decided at time $t$
+- The Repo Dealer typically gives something less than the market price of the bond. The difference is called hair cut. ·The term $T$ is decided at time $t$ : Most [[[Class Slides On Repurchase Agreements|repurchase agreements](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Class%20Note%2012%20Part%202%20Repos.md)]] are for a very short term (overnight). Some longer term agreements reach 30 days or more.  - The Repo rate is decided at time $t$
 1. Attime $T$ ,  the trader gets back the bond from the Repo Dealer,  sells the bond in the market to get $P_{T}$ andpays $P_{t}$ plus the repo rate to the dealer.
--The profit is then $\begin{array}{r}{P_{T}-P_{t}\mathrm{{-}r e p o\r a t e\!\times\!\frac{\partial}{\partial60}\times(P_{t}-\mathsf{h a i r c u t})}.}\end{array}$ - Hence,  the [[Realized Returns|return on capital]] to the trader is
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/12196b401180ad87a712f040742963ff20921dae7abaa85c0e3ae097cd316053.jpg)
+-The profit is then $\begin{array}{r}{P_{T}-P_{t}\mathrm{{-}r e p o\r a t e\!\times\!\frac{\partial}{\partial60}\times(P_{t}-\mathsf{h a i r c u t})}.}\end{array}$ - Hence,  the [return on capital](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) to the trader is
+ ![500](Attachments/500-71.jpg)
 # Repurchase Agreements
 
-·Between $t$ and $T$ the trader earns the [[Intra-Year Compounding and Day-Count|accrued interest]] on the bond
+·Between $t$ and $T$ the trader earns the [accrued interest](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) on the bond
 
-- Positive Carry: If [[Intra-Year Compounding and Day-Count|accrued interest]] > repo rate - Negative Carry: If [[Intra-Year Compounding and Day-Count|accrued interest]] $<$ repo rate.
+- Positive Carry: If [accrued interest](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) > repo rate - Negative Carry: If [accrued interest](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) $<$ repo rate.
 - Other important definitions/characteristics of Repo markets.
-1. [[Gc and Special Repo Rates|General Collateral Rate]] (GCF): This is the Repo Rate on most [[US Markets|Treasury securities]]. Hence,  using one or another of these as collateral makes little difference in terms of costs.
+1. [General Collateral Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2010/Gc%20and%20Special%20Repo%20Rates.md) (GCF): This is the Repo Rate on most [Treasury securities](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/US%20Markets.md). Hence,  using one or another of these as collateral makes little difference in terms of costs.
 1. - In a reverse repo,  the trader (A) borrows the security from the repo dealer; (B) sells it; and (C) posts cash collateral with the dealer. - The trader is lending money to the dealer against the bond collateral => the trader would be entitled to the repo rate. - However,  the trader is happy to forgo part (all) of the repo rate in order to get hold of the bond (to sell)
 # Reverse Repo Transaction
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f2fccebcd2677dd0be2aea7e5a31d113e1584a76f93876d8725b2f0c71f5982f.jpg)
+ ![500](Attachments/500-112.jpg)
 $$
 \mathsf{P r o f i t}=(P_{t}-P_{T})+P_{t}\times\mathsf{r e p o\r a t e}\times\frac{n}{360}
 $$  
 # Tri-Party Repo
-- Based on [[Chapter 3 Financial Market Utilities|clearing and settlement]] infrastructure supported by Bank of New York Mellon and [[Case Study of JP Morgan|JPMorgan Chase]]
+- Based on [clearing and settlement](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%203%20Financial%20Market%20Utilities.md) infrastructure supported by Bank of New York Mellon and [JPMorgan Chase](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Case%20Study%20of%20JP%20Morgan.md)
 - Banks provide collateral valuation,  margining,  and management services to facilitate trading.
 - Collateral allocation: automatically selects securities from cash borrower's inventory.
-- General Collateral Finance (GCF): cleared through the [[Lecture Notes Bonds,  Preferred Stock,  and Structured Products|Fixed Income]] Clearing Corporation (FICC) GCF repo service. Mostly inter-dealer.
-- Ex-GCF: Not cleared through FlCC. [[Chapter 4 Institutional Trading|Institutional investors]] such as [[A [[An Asset Allocation Primer|Primer]] on Money Market Mutual Funds|[[Breaking the Buck|money market funds]]]] lending to broker-dealers
+- General Collateral Finance (GCF): cleared through the [Fixed Income](../Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md) Clearing Corporation (FICC) GCF repo service. Mostly inter-dealer.
+- Ex-GCF: Not cleared through FlCC. [Institutional investors](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%204%20Institutional%20Trading.md) such as [Primer](A%20[[An%20Asset%20Allocation%20Primer) on Money Market Mutual Funds|[money market funds](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-%20Bank%20Runs/Breaking%20the%20Buck.md)]] lending to broker-dealers
 ## Forward Rates
-- A [[Forward Points in Currency|forward rate]] determined at time $t$ is the rate implicit in the current [[The Foreign Exchange Market Annotations|spot rate]] function for an [[An Asset Allocation Primer|investment]] in T-bills made at date $T_{1}$ with maturity date $T_{2}$ $(>T_{1})$.
-- There are three "dates" in the [[Forward Points in Currency|forward rate]]:
+- A [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) determined at time $t$ is the rate implicit in the current [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) function for an [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in T-bills made at date $T_{1}$ with maturity date $T_{2}$ $(>T_{1})$.
+- There are three "dates" in the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md):
 	- Today $(t)$
-	- The first maturity at which the [[An Asset Allocation Primer|investment]] is made $\left(T_{1}\right)$
-	- The final maturity of the [[An Asset Allocation Primer|investment]] $\left(T_{2}\right)$
+	- The first maturity at which the [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is made $\left(T_{1}\right)$
+	- The final maturity of the [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $\left(T_{2}\right)$
 		- With semiannual compounding, we denote it $f_{2}\left(t, T_{1}, T_{2}\right)$.
-		- With [[Interest Rate Quotations|continuous compounding]], we denote it $f\left(t, T_{1}, T_{2}\right)$.
+		- With [continuous compounding](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md), we denote it $f\left(t, T_{1}, T_{2}\right)$.
 - How do we determine the forward rates?
-	- By no [[Arbitrage Pricing of Derivatives|arbitrage]].
+	- By no [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md).
 - Suppose today is $t=0$ and that I have \$10 million to invest for 1 year.
 
 Forward Rates
@@ -384,10 +384,10 @@ We have the following two strategies:
 Invest in a 1-year zero coupon bond, obtaining at maturity$$
 $10\ \text{million}\times\left(1+r_{2}\left(0, 1\right)\big/2\right)^{2}
 $$
-Invest in a 6-months zero coupon bond and enter (today) into a [[Forward Points in Currency|forward contract]] to invest the proceeds at $T_{1}=0.5$ until $T_{2}=1$ for a rate $f_{2}\left(0, 0.5, 1\right)$. At maturity we have$$
+Invest in a 6-months zero coupon bond and enter (today) into a [forward contract](../../Clippings/Forward%20Points%20in%20Currency.md) to invest the proceeds at $T_{1}=0.5$ until $T_{2}=1$ for a rate $f_{2}\left(0, 0.5, 1\right)$. At maturity we have$$
 $10\ \text{million}\times\left(1+r_{2}\left(0, 0.5\right)\big/2\right)\times\left(1+f_{2}\left(0, 0.5, 1\right)\big/2\right)
 $$
-By no [[Arbitrage Pricing of Derivatives|arbitrage]] (and if [[Quantitative Trading Strategies Lecture Notes|credit risk]] is negligible) we must have$$
+By no [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) (and if [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) is negligible) we must have$$
 \frac{\left(r_{2}(0, 1)\right)}{2}^{2} = \$10\ \text{million} \times \left(1 + \frac{r_{2}(0, 0.5)}{2}\right) \times \left(1 + \frac{f_{2}}{2}\right),
 $$
 Or$$
@@ -401,7 +401,7 @@ More generally, for every $T_{1}$ and $T_{2}$, consider the following strategies
 Invest in a $T_{2}$ -zero coupon bond, obtaining at maturity$$
 \frac{$10\ \text{million}}{Z(0, T_{2})}
 $$
-Invest in a $T_{1}$ -zero coupon bond and enter (today) into a [[Forward Points in Currency|forward contract]] to invest the proceeds at $T_{1}$ until $T_{2}$ at the $n$ -times compounded [[Forward Points in Currency|forward rate]] $f_{n}\left(0, T_{1}, T_{2}\right)$ . At maturity we have$$
+Invest in a $T_{1}$ -zero coupon bond and enter (today) into a [forward contract](../../Clippings/Forward%20Points%20in%20Currency.md) to invest the proceeds at $T_{1}$ until $T_{2}$ at the $n$ -times compounded [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) $f_{n}\left(0, T_{1}, T_{2}\right)$ . At maturity we have$$
 \frac{$10\ \text{million}}{Z(0, T_{1})}\times\left(1+\frac{f_{n}\left(0, T_{1}, T_{2}\right)}{n}\right)^{n(T_{2}-T_{1})}
 $$
 
@@ -411,7 +411,7 @@ $$
 $$
 
 Continuously Compounded Forward Rates
-Taking the limit as $n\to\infty$, the continuously compounded [[Forward Points in Currency|forward rate]] is
+Taking the limit as $n\to\infty$, the continuously compounded [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) is
 $$
 \begin{array}{l}
 f(0, T_{1}, T_{2}), =, \displaystyle\frac{\ln(Z(0, T_{1})), -\ln(Z(0, T_{2}))}{T_{2}, -, T_{1}} \
@@ -419,15 +419,15 @@ f(0, T_{1}, T_{2}), =, \displaystyle\frac{\ln(Z(0, T_{1})), -\ln(Z(0, T_{2}))}{T
 \end{array}
 $$
 
-Another concept, that we will use later, is that of instantaneous [[Forward Points in Currency|forward rate]]. We can rewrite (2) as (exercise: do it!)
+Another concept, that we will use later, is that of instantaneous [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md). We can rewrite (2) as (exercise: do it!)
 $$
 f(0, T_{1}, T_{2})=r(0, T_{1})+T_{2}\times{\frac{r(0, T_{2})-r(0, T_{1})}{T_{2}-T_{1}}}
 $$
-If we take the limit $T_{2}, \longrightarrow, T_{1}$ (that is, the horizon of the [[Forward Points in Currency|forward contract]] shrinks to zero), we obtain$$
+If we take the limit $T_{2}, \longrightarrow, T_{1}$ (that is, the horizon of the [forward contract](../../Clippings/Forward%20Points%20in%20Currency.md) shrinks to zero), we obtain$$
 f(0, T_{1}, T_{1})=r(0, T_{1})+T_{1}\times{\frac{d r(0, T_{1})}{d T_{1}}}
 $$
 
-The Relation between Forward Curve and [[Teaching Note 4 Interest Rate Derivatives|Spot Curve]]
+The Relation between Forward Curve and [Spot Curve](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md)
 The equation for the instantaneous forward curve (4) reveals an interesting (important) property of the forward-spot relationship. We can rewrite$$
 f(0, T_{1}, T_{1})-r(0, T_{1})=T_{1}\times\frac{d r(0, T_{1})}{d T_{1}}
 $$
@@ -440,19 +440,19 @@ If $$\begin{array}{}
 
 # Spot Curve and Forward Curve
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/11e1b0cbaddd0a22c8edc1144ab3b8e63b03fd469bd141652224cf8d30b08f40.jpg)
+ ![500](Attachments/500-91.jpg)
 
 - To obtain the forward curve we need a smooth yield curve
 # Estimating the Zero-Coupon Discount Function
 
-. There are several methods to extract the zero-coupon [[Advanced Usage of QuantLib analytics library|discount curve]] $Z\left(0,         T\right)$ from bond data.
+. There are several methods to extract the zero-coupon [discount curve](../../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) $Z\left(0,         T\right)$ from bond data.
 
 Why do we want to do that?
 
-1. The [[Basic Interest Rate Concepts and Relations|discount function]] $Z\left(0,         T\right)$ determines the time value of money. We need it as a basis to discount future (riskless) cash flows. 2. We cannot observe it: it is implicitly embedded in traded Treasury coupon bonds. 3. You need it to compute forward prices,  for instance,  as well as Swaps (see later). 4. It will be the basis of all future [[Financial Mathematics Course|term structure models]]: it is typically the first step to then calibrate [[Financial Mathematics Course|term structure models]]. The latter are what traders use to (a) Price new securities by no [[Arbitrage Pricing of Derivatives|arbitrage]] (we will see many). (b) Spot out [[Class Note 13 The LTCM Meltdown|arbitrage opportunities]]
+1. The [discount function](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Basic%20Interest%20Rate%20Concepts%20and%20Relations.md) $Z\left(0,         T\right)$ determines the time value of money. We need it as a basis to discount future (riskless) cash flows. 2. We cannot observe it: it is implicitly embedded in traded Treasury coupon bonds. 3. You need it to compute forward prices,  for instance,  as well as Swaps (see later). 4. It will be the basis of all future [term structure models](../../Financial%20Engineering/Financial%20Mathematics%20Course.md): it is typically the first step to then calibrate [term structure models](../../Financial%20Engineering/Financial%20Mathematics%20Course.md). The latter are what traders use to (a) Price new securities by no [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) (we will see many). (b) Spot out [arbitrage opportunities](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md)
 - The most "famous" is the boots trapping methodology
 # Bootstrap
-- Suppose we have $n$ coupon bonds. Each bond $i$ has a coupon equal to $c^{i}$ - Recall the [[Definitions and Immediate Consequences|pricing equation]] for coupon bonds with maturity $T_{i}$ is equal tc$$
+- Suppose we have $n$ coupon bonds. Each bond $i$ has a coupon equal to $c^{i}$ - Recall the [pricing equation](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Definitions%20and%20Immediate%20Consequences.md) for coupon bonds with maturity $T_{i}$ is equal tc$$
 P^{i}(t,         T_{i})=\frac{c^{i}}{2}\sum_{j=1}^{i}Z(t,         T_{j})+1\times Z(t,         T_{i})
 $$  
 
@@ -472,7 +472,7 @@ $$
 
 Example: suppose we have the following data:
 
- ![400](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ece1bac5b5ee3ef853e89b10b5c60ef7c3ff90f5557f003f6b4ba46a39bc6dfa.jpg)
+ ![400](Attachments/400-1.jpg)
 
 We find:
 $$
@@ -483,7 +483,7 @@ $$
 
 We obtain
 
- ![400](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/28d9c48e0735b28eabeb16dc240062f0b5b9e2123c1a3932bd15922341cdef76.jpg)
+ ![400](Attachments/400.jpg)
 
 # Curve Fitting
 
@@ -503,25 +503,25 @@ $$
 \operatorname*{min}_{\theta_{0},         \theta_{1},         \theta_{2},         \lambda}\sum_{j=1}^{n}\left(P\left(0,         T_{j}\right)-\widehat{P}\left(0,         T_{j}\right)\right)^{2}
 $$  
 
- - There is a large literature on the functional forms for the [[Basic Interest Rate Concepts and Relations|discount function]] $Z\left(0,         T\right)$ ,  many of them relying on spline functions.
+ - There is a large literature on the functional forms for the [discount function](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Basic%20Interest%20Rate%20Concepts%20and%20Relations.md) $Z\left(0,         T\right)$ ,  many of them relying on spline functions.
 
 - Next figure shows the difference between using boots trapping technique and the curve fitting technique
 # Zero-Coupon Yield Curves
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b48444d1b31bb764450eae432c3cf4b7d42843073986996341a521d8afc0ef1c.jpg)
+ ![500](Attachments/500-69.jpg)
 
 - Clearly,  the fitted curve is much smoother (by construction).
  - An important difference arises when we look at forward rates
 # Forward Curves
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/653075e507f7b5f2fb536597b550ff113b33be1e4bc5e7b00bed74fc65dbc651.jpg)
+ ![500](Attachments/500-82.jpg)
 
 # Interest Rate Risk Management and Factors
 
 # Interest Rate Risk Management
 # - Interest rates vary quite dramatically over time
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d0ef9916b941c2c72f569831cfae026510ccb1755674b8a3401752a1efa9df40.jpg)
+ ![500](Attachments/500-90.jpg)
 
 (Data: Yields up to 5 years are from CRSP. Yields from 10 to 30 are from Gurkaynak,  Sack,  and Wright (2007),  updated series.)
 
@@ -529,22 +529,22 @@ $$
 # And so do bond prices
 # The Life Cycle of a 30-year Bond
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/93255cfd9a6bf82eb89448ee8a9b0dc470bab9172433e9c2b5ddd5a4d21b24b3.jpg)
+ ![500](Attachments/500-112.jpg)
 
 Source: CRSP
 
 # Interest Rate Risk Management: Duration
-- The [[Key Rates O1s Durations and Hedging|duration]] of a security is defined as the sensitivity of the security's price to small,  uniform changes in the yield curve.
- - Traditionally,  the [[Key Rates O1s Durations and Hedging|duration]] is defined with respect to changes in yield-to-maturity.
+- The [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of a security is defined as the sensitivity of the security's price to small,  uniform changes in the yield curve.
+ - Traditionally,  the [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) is defined with respect to changes in yield-to-maturity.
  - However,  it is convenient to introduce it using the continuously compounded yield $r(t,         T)$ ,  as formulas are easier and the interpretation is also easier.
- - The [[Key Rates O1s Durations and Hedging|duration]] of an asset is its sensitivity to small,  uniform changes in $r(t,         T)$
+ - The [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of an asset is its sensitivity to small,  uniform changes in $r(t,         T)$
 - That is,  the change in the security's price when we apply a uniform increment dr" to the yield curve $r(t,         T)$ ,  to get $r(t,         T)+d r$
-- Hence,  we define the [[Key Rates O1s Durations and Hedging|duration]] of a security with price $P$ by$$
+- Hence,  we define the [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of a security with price $P$ by$$
 D_{P}=-\frac{1}{P}\frac{d\mathrm{~}P}{d\mathrm{~}r}
 $$  
 - This definition is all you need to remember,  as everything follows from here
 # Example: Duration of a Zero Coupon Bond
-- Consider a zero coupon bond with [[Hedging Strategies with Forwards|time to maturity]] $T$ and price $Z(t,         T)$ .By applying the definition we have:$$
+- Consider a zero coupon bond with [time to maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) $T$ and price $Z(t,         T)$ .By applying the definition we have:$$
 \begin{aligned}
 
     D_{Z, T} &= -\frac{1}{Z(t, T)} \frac{d Z(t, T)}{d r} \\
@@ -555,11 +555,11 @@ $$
 $$  $$
 \begin{array}{l}{\displaystyle=\,         -\frac{1}{Z(t,         T)}\times\left[-(T-t)\times Z(t,         T)\right]}\\ {\displaystyle}\\ {\,         =\,         T-t}\end{array}
 $$  
-- The [[Key Rates O1s Durations and Hedging|duration]] of a zero coupon bond is simply equal to its [[Hedging Strategies with Forwards|time to maturity]] $T-t$
+- The [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of a zero coupon bond is simply equal to its [time to maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) $T-t$
 # Duration of a Portfolio of Securities
-- We now show that the [[Key Rates O1s Durations and Hedging|duration]] of a [[An Asset Allocation Primer|portfolio]] of securities is just the weighted average of the durations of the singles securities (where the weights are the relative holdings).
+- We now show that the [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of securities is just the weighted average of the durations of the singles securities (where the weights are the relative holdings).
 - Suppose we have $N_{1}$ units of security 1 and $N_{2}$ of security 2. Let $P_{1}$ and $P_{2}$ be the prices of the two securities and $D_{1}$ and $D_{2}$ their durations,  respectively.
-Let HI be the value of the [[An Asset Allocation Primer|portfolio]]$$
+Let HI be the value of the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)$$
 \Pi=N_{1}P_{1}+N_{2}P_{2}
 $$  
 
@@ -584,7 +584,7 @@ w_{i}=\frac{N_{i}P_{i}}{\prod}
 $$  
 - Clearly,  the same derivation can be applied for any number of assets
 # Example: Duration of a Coupon Bond
-- We know a bond is equivalent to a [[An Asset Allocation Primer|portfolio]] of zero-coupon bonds$$
+- We know a bond is equivalent to a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of zero-coupon bonds$$
 \begin{array}{r}{P(0,         T)=\underset{i=1}{\overset{n}{\sum}}\,         c(T_{i})Z(0,         T_{i})}\end{array}
 $$  
 
@@ -600,27 +600,27 @@ Step 2: Use (1)
 $$
 D\;=\;-\frac{1}{P(0,         T)}\frac{d P(0,         T)}{d r}=\sum_{i=1}^{n}w_{i}D_{Z,         T_{i}}=\sum_{i=1}^{n}w_{i}
 $$  
-- The [[Key Rates O1s Durations and Hedging|duration]] of a Coupon Bond is a weighted average of times to maturity
+- The [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of a Coupon Bond is a weighted average of times to maturity
 - From (3),  we can compute the percentage change in the bond due to a small parallel shift in the yield function $r(t,         \tau)$ as$$
 {\frac{d P}{P}}\approx-D\times d r
 $$  
-- Hence,  if we hold a [[An Asset Allocation Primer|portfolio]] of 10-year at-par coupon bonds with [[Key Rates O1s Durations and Hedging|duration]] equal to 5,  we know that a one-basis point increase in the yield function $(d r=0.\1\%)$ is going to change the value of the bond approximately by - $$
+- Hence,  if we hold a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of 10-year at-par coupon bonds with [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) equal to 5,  we know that a one-basis point increase in the yield function $(d r=0.\1\%)$ is going to change the value of the bond approximately by - $$
 - 5 \times \frac{0.01}{100} \times 5 \, \text{million (par amount)} = -\$50,000
 $$
 # Bond Price Approximation with Duration
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4f31fdf4c3044fd403dd83d917cfd96a298f9dcc370ee52092b0f710bbf64feb.jpg)
+ ![500](Attachments/500-84.jpg)
 
 # Duration Definitions
 
-We defined the [[Key Rates O1s Durations and Hedging|duration]] as
+We defined the [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) as
 $$
 D=-{\frac{1}{P}}{\frac{d P}{d r}}
 $$  
 
- - where $r$ is the [[PSET 7 Solutions-Financial Instruments|continuously compounded interest]] rate.
+ - where $r$ is the [continuously compounded interest](../../Financial%20Instruments/Assignments/Solutions/PSET%207%20Solutions-Financial%20Instruments.md) rate.
 
- - This definition entails also the interpretation of [[Key Rates O1s Durations and Hedging|duration]] as the discounted time weighted cash flows (equation (3)).
+ - This definition entails also the interpretation of [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) as the discounted time weighted cash flows (equation (3)).
 
 - With discrete compounding the two things are not exactly the same and take different names:
 # Macaulay Duration
@@ -628,7 +628,7 @@ $$
 - Its price is$$
 P=\sum_{j=1}^{n}\frac{c/2}{\left(1+\frac{y}{2}\right)^{j}}+\frac{100}{\left(1+\frac{y}{2}\right)^{n}}
 $$  
-- The [[Teaching Note 2- Interest Rate Risk Management And Factors|Macaulay duration]] is defined as$$
+- The [Macaulay duration](Teaching%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors.md) is defined as$$
 D^{M c}=-\frac{(1+y/2)}{P}\frac{d P}{d y}
 $$  
 - Some algebra shows$$
@@ -641,7 +641,7 @@ w_{j}=\frac{1}{P}\left(\frac{c/2}{\left(1+\frac{y}{2}\right)^{j}}\right),       
 $$  
 # Modified Duration
 
- - The [[A Guide to Duration DV01 and Yield Curve|modified duration]] is instead defined as
+ - The [modified duration](../../Financial%20Engineering/A%20Guide%20to%20Duration%20DV01%20and%20Yield%20Curve.md) is instead defined as
 $$
 M D=-{\frac{1}{P}}{\frac{d P}{d y}}
 $$  
@@ -665,12 +665,12 @@ $$
 # Example: Spread Trades
 - A trader is evaluating the shape of the yield curve
  - The spread between the 30 year T-Bond and the 2 year T-Note is 266 bps.
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6f5cca589438d60911c61e6f52846b78e545677b89c4502c0fef5f903a95cc31.jpg)
+ ![500](Attachments/500-78.jpg)
 - The trader has a view: The spread will increase in the next few days
-- How can the trader devise a trading strategy to bet on his/her view,  without taking (part of) [[Analysis of Fixed Income Securities|interest rate risk]]?
-- First,  if spread increases,  it must be the case that the price of 30-year bond goes down more than the price of the 2-year bond (or up less!). - Hence,  to profit from the movement,  we need a short position in the long-term bond and a [[Chapter 4 - Futures: Hedging and Speculation|long position]] in the short-term bond.
+- How can the trader devise a trading strategy to bet on his/her view,  without taking (part of) [interest rate risk](../Analysis%20of%20Fixed%20Income%20Securities.md)?
+- First,  if spread increases,  it must be the case that the price of 30-year bond goes down more than the price of the 2-year bond (or up less!). - Hence,  to profit from the movement,  we need a short position in the long-term bond and a [long position](../../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%204%20-%20Futures:%20Hedging%20and%20Speculation.md) in the short-term bond.
 - Let n 2 and n 30 be the units of 2-year notes and 30 year bonds involved in the trading strategy.
- - Then,  the trader can hedge the [[Analysis of Fixed Income Securities|interest rate risk]] by setting$$
+ - Then,  the trader can hedge the [interest rate risk](../Analysis%20of%20Fixed%20Income%20Securities.md) by setting$$
 n_{2}\times P V B P_{2}=n_{30}\times P V B P_{30}
 $$  
 
@@ -680,24 +680,24 @@ n_{2}=100\times{\frac{1200.643}{187.3602}}=641
 $$  
 - The trader will go long 641 million (par amount) of the two year bond,  and go short 100 million par amount of the 30-year I-Bond.
 How is this done in practice?
-- Through the Repo Market. - The trader can enter into a repo at $5\%$ and a reverse repo at $4.9\%$ - The spread between [[Class Note 12 Part 2 Repos|repos]] is the profit for the Repo Dealer,  who borrows money at $4.9\%$ and lends it at $5\%$ - Finally,  suppose hair cut $=0$
+- Through the Repo Market. - The trader can enter into a repo at $5\%$ and a reverse repo at $4.9\%$ - The spread between [repos](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Class%20Note%2012%20Part%202%20Repos.md) is the profit for the Repo Dealer,  who borrows money at $4.9\%$ and lends it at $5\%$ - Finally,  suppose hair cut $=0$
 We have the following transactions at Date t
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e3907b39097cff29f1e87f876795caa96d07d16f3cdeb147612430793a4520a5.jpg)
+ ![500](Attachments/500-91.jpg)
 - These cash flows are just the nominal amount paid or received in the market. The trader is borrowing/lending money with zero hair cut,  it has a zero-net position!
 ·Suppose that at time $t+2$ the new market data are
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/04ad153fdfe86316ced081408d9e6e1e2d79e7c99b115a858e8a29f1d0491379.jpg)
+ ![500](Attachments/500-73.jpg)
 - The new spread is 270 basis points,  hence the view was right. Did the trader make any money?
-Date Transaction [[Preview of the Book|Cash Flow]] Date t + 2 1. Sell 2-year note This becomes (A) $(100.5967+0.\1)\times10,         000\times641=$ 645,  212,  011 2. Repay the amount borrowed plus Repo interest. This is (B) 643 $\begin{array}{r l r}{\mathrm{~}}&{{}}&{,         988,         470\times\left(1+2\times\frac{0.\1}{360}\right)=}\end{array}$ (644,  167,  356) 3. Collect the cash plus interest (C) 109,  249,  $\textstyle154\times\left(1+2\times{\frac{0.\1}{360}}\right)=$ 109,  278,  894 4. Buy the 30-year T-bond to cover the short position (D) $(109.8701+0.\1)\times10,         000\times100=$ (110,  326,  800)
+Date Transaction [Cash Flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) Date t + 2 1. Sell 2-year note This becomes (A) $(100.5967+0.\1)\times10,         000\times641=$ 645,  212,  011 2. Repay the amount borrowed plus Repo interest. This is (B) 643 $\begin{array}{r l r}{\mathrm{~}}&{{}}&{,         988,         470\times\left(1+2\times\frac{0.\1}{360}\right)=}\end{array}$ (644,  167,  356) 3. Collect the cash plus interest (C) 109,  249,  $\textstyle154\times\left(1+2\times{\frac{0.\1}{360}}\right)=$ 109,  278,  894 4. Buy the 30-year T-bond to cover the short position (D) $(109.8701+0.\1)\times10,         000\times100=$ (110,  326,  800)
 Profits?$$
 \mathsf{(L o s s e s)}\ =\ \mathsf{(A)}+\mathsf{(B)}+\mathsf{(C)}+\mathsf{(D)}\ =(3,         251)
 $$  
 
  - The trader lost money,  even if the spread did increase.
 
-The reason,  of course,  are the transaction costs,  such as [[Class Note 9 [[Class Note 9 Bid and Ask Prices With Private Information|Bid and Ask]] Prices With Private Information|[[Bid-Ask Prices with Adverse SelectionPrivate Information|bid-ask]] spreads]] in the Treasury market and in the Repo market
+The reason,  of course,  are the transaction costs,  such as [Bid and Ask](Class%20Note%209%20[[Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information) Prices With Private Information|[bid-ask](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Bid-Ask%20Prices%20with%20Adverse%20SelectionPrivate%20Information.md) spreads]] in the Treasury market and in the Repo market
 
 # Interest Rate Risk Management: Convexity
-- [[PSET II Fixed Income Asset Pricing 1|Convexity]] measures the curvature of a security with respect to [[Interest Rate Quotations|interest rates]]$$
+- [Convexity](../Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) measures the curvature of a security with respect to [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)$$
 C=\frac{1}{P}\frac{d^{2}\;P}{d\;r^{2}}
 $$  
 - Example 1. From the definition of a zero coupon bond:$$
@@ -713,45 +713,45 @@ $$
 $$  
 # Duration plus Convexity Approximation
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/47945f3845337ce3b5c96eac5bb78996fe1dd07cf3fb0d7a681278b8fbb98323.jpg)
+ ![500](Attachments/500-111.jpg)
 
 # Positive Convexity: Good News for Average Returns
 - Suppose we have invested \$100 million in a 20-year zero coupon bond.
 Using Equation (5) and given $D=20$ and $C=20^{2}=400$ ,  we find$$
 E\left[\frac{d P}{P}\right]\approx-20\times E[d r]+\frac{1}{2}\times400\times E[d r^{2}]
 $$  
-- Predicting variation in [[Interest Rate Quotations|interest rates]] over a short period (daily) is very hard. So $E[d r]=0$ is a good approximation. However,  note that $E[d r^{2}]=V a r(d r)>0$
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bda94788bfa1b204e67cf1c10e6f69c0a9d04e17feb271927870d301e4868f21.jpg)
-Daily Changes in the Level of [[Interest Rate Quotations|Interest Rates]] Data Source: CRSP.
+- Predicting variation in [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) over a short period (daily) is very hard. So $E[d r]=0$ is a good approximation. However,  note that $E[d r^{2}]=V a r(d r)>0$
+ ![500](Attachments/500-119.jpg)
+Daily Changes in the Level of [Interest Rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) Data Source: CRSP.
 # Positive Convexity: Good News for Average Returns
-- From data,  we can estimate the daily variance of [[Interest Rate Quotations|interest rates]] of about $E[d r^{2}]=$ $5.5351\times10^{-007}$ ,  implying$$
+- From data,  we can estimate the daily variance of [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) of about $E[d r^{2}]=$ $5.5351\times10^{-007}$ ,  implying$$
 \frac{P}{\rho}\Big]=-20\times0+\frac{1}{2}\times400\times E[d r^{2}]=1.11\times10^{-6}
 $$  
-- Although this number seems extremely small,  it is a daily [[Lecture 1- Probability Distributions of Returns|expected return]]
+- Although this number seems extremely small,  it is a daily [expected return](../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md)
 Annualized expected retu $\mathsf{r n\f r o m\c o n v e x i t y}=1.11\times10^{-04}\times252=2.79\%$
 - Similarly,  considering the \$io 0 million investment,  convexity yields a daily dollar return of \$11,  $070=1.11\times10^{-04}\times100\ \mathsf{m}$ illion.
-- Is this positive average return stemming from the fluctuation of the level of [[Interest Rate Quotations|interest rates]] a "free lunch"?
-- No: As we shall see more formally later on,  this positive average return on the [[An Asset Allocation Primer|investment]] is counterbalanced by a lower yield to maturity of the bond,  everything else equal.
+- Is this positive average return stemming from the fluctuation of the level of [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) a "free lunch"?
+- No: As we shall see more formally later on,  this positive average return on the [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is counterbalanced by a lower yield to maturity of the bond,  everything else equal.
 # Duration and Convexity Approximation: Example
-- A [[Uses of Interest Rate Swaps|pension fund]] buys \$100 million (par value) of a 10-year,  $5\%$ couponbond
- - Let the yield curve be flat at the [[Arithmetic and Geometric Rates of Return|continuously compounded rate]] of $4.5\%$
+- A [pension fund](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Uses%20of%20Interest%20Rate%20Swaps.md) buys \$100 million (par value) of a 10-year,  $5\%$ couponbond
+ - Let the yield curve be flat at the [continuously compounded rate](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Arithmetic%20and%20Geometric%20Rates%20of%20Return.md) of $4.5\%$
  - The approximate losses from an increase in $r$ Of $1\%$ are$$
 {\frac{d P}{P}}\,         \approx\,         -D\times0.01=-0.0803=-8\%
 $$  
-- To check accuracy,  we can compute the exact loss from an increase of the [[The Vasicek Model|term structure]] by $1\%$
-- Using the [[Arbitrage Pricing of Derivatives|pricing]] formula with $r=4.5\%$ and $r=5.5\%$ ,  we obtain that price declines to \$95.63 from \$103.58:$$
+- To check accuracy,  we can compute the exact loss from an increase of the [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) by $1\%$
+- Using the [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formula with $r=4.5\%$ and $r=5.5\%$ ,  we obtain that price declines to \$95.63 from \$103.58:$$
 {\frac{d P}{P}}={\frac{\S95.63-\S103.58}{\S103.58}}=-7.67\%
 $$  
--The “[[PSET II Fixed Income Asset Pricing 1|convexity]]" measure is quite accurate
+-The “[convexity](../Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md)" measure is quite accurate
 # Interest Rate Risk Management: Duration Hedging
 
- - The [[Uses of Interest Rate Swaps|pension fund]] is worried about potential losses from an increase in rates.
+ - The [pension fund](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Uses%20of%20Interest%20Rate%20Swaps.md) is worried about potential losses from an increase in rates.
 
  - The fund decides to hedge by buying $k$ 10-year zero-coupon bond $Z(0,         T)$
 
 We have $Z(0,         T)=\S63.76$ 5.,  and $D_{z}=10$
 
- - Denoting again by $P$ the value of the bond ( $(P=\S103.58)$ ,  what is the position $k$ in the zero coupon bond such that the [[An Asset Allocation Primer|portfolio]] $V\,         =\,         P+k\,         \times\,         P_{z}(0,         T)$ is insensitive to a parallel shift in the yield curve?
+ - Denoting again by $P$ the value of the bond ( $(P=\S103.58)$ ,  what is the position $k$ in the zero coupon bond such that the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $V\,         =\,         P+k\,         \times\,         P_{z}(0,         T)$ is insensitive to a parallel shift in the yield curve?
 
  - Condition $d V=0$ implies
 $$
@@ -759,7 +759,7 @@ k=-\frac{D\times P}{D_{z}\times P_{z}(0,         T)}=\frac{8.03\times103.58}{10\
 $$  
 - Assume for simplicity that fund achieves this short position through the repo market at zero haircut (i.e. the short position is achieved at zero cost for the fund.)
 # How Does Duration Hedging Perform ?
-[[Teaching Note 4 Interest Rate Derivatives|Spot Curve]] Change in Shift 
+[Spot Curve](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) Change in Shift 
 $$
 \begin{array}{|c|c|c|c|c|}
 \hline
@@ -778,12 +778,12 @@ $$
 - Source of the under performance? From $d\;V=d\;P+k\times d\;Z$ wehave$$
 \begin{array}{l}{{\displaystyle{{\bf\Psi}=\;-D\;P_{c}\;d r+\frac{1}{2}\;P_{c}\;C\;d r^{2}+k\;\left(-D_{z}\;Z\;d r+\frac{1}{2}\right.}}}\\ {{{\displaystyle{{\bf\Psi}=\;-\left(D\;P_{c}+k\;D_{z}\;Z\right)\;d r+\frac{1}{2}\;\left(P_{c}\;C+k\;Z\;C_{z}\right)}}}}\end{array}
 $$  
-- [[Key Rates O1s Durations and Hedging|Duration]] [[Key Rates O1s Durations and Hedging|hedging]] takes care of the first term but not of the second,  which is always negative in our example
+- [Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) takes care of the first term but not of the second,  which is always negative in our example
 # Interest Rate Risk Management: Duration and Convexity Hedging
 
  - Let $P_{1}$ and $P_{2}$ be the prices of two securities (e.g. short-term and a long-term zeros)，with $D_{1},         \,         D_{2},         \,         C_{1}$ ,  and $C_{2}$ their durations and convex i ties,  respectively.
 
- - Let $k_{1}$ and $k_{2}$ be the positions in the bonds. The value of the hedged [[An Asset Allocation Primer|portfolio]] is
+ - Let $k_{1}$ and $k_{2}$ be the positions in the bonds. The value of the hedged [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is
 $$
 P_{c}+k_{1}\ P_{1}+k_{2}\ P_{2}\Longrightarrow d\ V=d\ P_{c}+k_{1}\ d\ P_{1}+
 $$  
@@ -802,55 +802,55 @@ $$k_{{1}}=
 $$  
 # Duration and Convexity Hedging: Example
 
- - In the previous example,  now let the fund use also a $T_{1}=2.$ -year zero for [[Key Rates O1s Durations and Hedging|hedging]] (priced at $Z(0,         T_{1})=\S91.39)$
+ - In the previous example,  now let the fund use also a $T_{1}=2.$ -year zero for [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) (priced at $Z(0,         T_{1})=\S91.39)$
 
- - The [[PSET II Fixed Income Asset Pricing 1|convexity]] of the bond we want to hedge is $C\:=\:73.87$ .Given $D_{1}\,         =\,         2$ $D_{2}=10$ $C_{1}=4$ ,  and $C_{2}=100$ ,  we obtain $k_{1}=-0.4562$ and $k_{2}=-1.1737$
+ - The [convexity](../Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) of the bond we want to hedge is $C\:=\:73.87$ .Given $D_{1}\,         =\,         2$ $D_{2}=10$ $C_{1}=4$ ,  and $C_{2}=100$ ,  we obtain $k_{1}=-0.4562$ and $k_{2}=-1.1737$
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e21bb52e56677e4d07dc31b1bdddaa6eb0c8170c58507a8d4bf1cec8e237c5fa.jpg)
+ ![500](Attachments/500-111.jpg)
 
-- There [[Key Rates O1s Durations and Hedging|duration]] plus [[PSET II Fixed Income Asset Pricing 1|convexity]] [[The Value of the Swap Contract after Initiation|hedging strategy]] achieves a better hedge even with large changes in [[Interest Rate Quotations|interest rates]]
+- There [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) plus [convexity](../Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) [hedging strategy](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/The%20Value%20of%20the%20Swap%20Contract%20after%20Initiation.md) achieves a better hedge even with large changes in [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)
 # Convexity Trading and the Passage of Time
 - The previous example highlights a seemingly profitable trading strategy.
-- If we go long bonds with high [[PSET II Fixed Income Asset Pricing 1|convexity]],  such as long-term bonds,  and [[Key Rates O1s Durations and Hedging|duration]] hedge the [[Analysis of Fixed Income Securities|interest rate risk]] using bonds with low [[PSET II Fixed Income Asset Pricing 1|convexity]],  such as short-term bonds,  we gain positive [[Assets|returns]] from [[PSET II Fixed Income Asset Pricing 1|convexity]].
+- If we go long bonds with high [convexity](../Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md),  such as long-term bonds,  and [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) hedge the [interest rate risk](../Analysis%20of%20Fixed%20Income%20Securities.md) using bonds with low [convexity](../Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md),  such as short-term bonds,  we gain positive [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) from [convexity](../Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md).
 - That is,  in equation$$
 \approx-\left(D\ P_{c}+k\ D_{z}\ Z\right)\ d r+{\frac{1}{2}}\ \left(P_{c}\ C+k\ Z\ C_{z}\right)
 $$  
 
-The first parenthesis is always zero,  because of [[Key Rates O1s Durations and Hedging|hedging]],  while the second paren thesis is always positive,  entailing a positive flow of money
+The first parenthesis is always zero,  because of [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md),  while the second paren thesis is always positive,  entailing a positive flow of money
 
-Is this an [[Arbitrage Pricing of Derivatives|arbitrage]]? Can we make large profits by loading on [[PSET II Fixed Income Asset Pricing 1|convexity]]?
+Is this an [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)? Can we make large profits by loading on [convexity](../Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md)?
 
 - No. The simple example above leaves out an important component of return and this is the passage of time.
 # An Issue with Duration Hedging
-- Suppose that on April 1,  2004 a [[Lecture Notes Bonds,  Preferred Stock,  and Structured Products|fixed income]] fund has \$100 million (par amount) invested in a 3.875 coupon bond expiring on February 15,  2013. The price of the bond on that day is \$1 o 1.50 (per \$1 o 0 of face value),  and its duration is $D=7.491$
-Let's [[Key Rates O1s Durations and Hedging|duration]] hedges with the zero with $T=\mathsf{F e b}$ 15,  2005 ([[Key Rates O1s Durations and Hedging|duration]] $D_{S}=0.87)$$$
+- Suppose that on April 1,  2004 a [fixed income](../Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md) fund has \$100 million (par amount) invested in a 3.875 coupon bond expiring on February 15,  2013. The price of the bond on that day is \$1 o 1.50 (per \$1 o 0 of face value),  and its duration is $D=7.491$
+Let's [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) hedges with the zero with $T=\mathsf{F e b}$ 15,  2005 ([duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) $D_{S}=0.87)$$$
 k_{S}=-\frac{D\times P}{D_{S}\times P_{S}}=\frac{7.491\times101.5}{0.87\times99.0019}=-8.83
 $$  
 - Between April 1,  2004 and April 15,  2004,  the yield curve shifted up by $0.5\%$ ,  On average.
-- An effective [[Key Rates O1s Durations and Hedging|duration]] hedge should have largely hedged the losses due to the shift in [[Interest Rate Quotations|interest rates]].
--If weadd $0.50\%$ to each of the yield on April 1 and recompute the value of the hedged [[An Asset Allocation Primer|portfolio]],  we find its value would only change from \$101.50 to \$101.57,  implying $0.07\%$ increase invalue
+- An effective [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) hedge should have largely hedged the losses due to the shift in [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md).
+-If weadd $0.50\%$ to each of the yield on April 1 and recompute the value of the hedged [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md),  we find its value would only change from \$101.50 to \$101.57,  implying $0.07\%$ increase invalue
 # An Issue with Duration Hedging
-- In sharp contrast,  the new yield curve implies the value of the hedged [[An Asset Allocation Primer|portfolio]] is$$
+- In sharp contrast,  the new yield curve implies the value of the hedged [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is$$
 V_{4/15/2004}=\$98.20,         
 $$ 
-- The [[The Value of the Swap Contract after Initiation|hedging strategy]] did not work as expected. - It did work partially,  as the unhedged [[An Asset Allocation Primer|portfolio]] would have dropped instead to$$
+- The [hedging strategy](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/The%20Value%20of%20the%20Swap%20Contract%20after%20Initiation.md) did not work as expected. - It did work partially,  as the unhedged [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) would have dropped instead to$$
 V_{4/15/2004}^{\mathsf{n o\;h e d g e}}=\$97.42,         
 $$ 
- - The problem with the [[Key Rates O1s Durations and Hedging|duration]] hedge is that the slope of the terms structure changed.
+ - The problem with the [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) hedge is that the slope of the terms structure changed.
 
 # 2020 Variation in yields
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ec2e11a6d1e273b6146ddfed477ece29eb097eb6c2df7c1ebceac027e4177868.jpg)
+ ![500](Attachments/500-85.jpg)
 
 # The Dynamics of the Term Structure: Level,  Slope,  and Curvature
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7e405adf7d3f1bbdf5d5b501348347f4986fe8e882fcaaa80ffe1a181d8e17ff.jpg)
+ ![500](Attachments/500-115.jpg)
 
 Data Source: CRSP
 
 # A Factor Representation of Yield Changes
 
-·Let $\phi_{1}(t)$ $\phi_{2}(t)$ and $\phi_{3}(t)$ be three independent factors that affect the [[The Vasicek Model|term structure]].
+·Let $\phi_{1}(t)$ $\phi_{2}(t)$ and $\phi_{3}(t)$ be three independent factors that affect the [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md).
 
 - We do not know them yet: The exercise is exactly to find them out.
  - Consider the constant maturities $\tau_{1},         \;\tau_{2},         \ldots,         \tau_{n}$ : that is,  T 1 = one month,  $\tau_{2}=2$ months,  … $\tau_{n}=10$ years,  for instance.
@@ -858,14 +858,14 @@ Data Source: CRSP
 \Delta r_{i}(t)=r(t+h,         t+h+\tau_{i})-r(t,         t+\tau_{i}).
 $$  
 # A Factor Representation of Yield Changes
-- Assume that the dynamics of [[Interest Rate Quotations|interest rates]] is:$$
+- Assume that the dynamics of [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) is:$$
 \begin{aligned}
     \Delta r_{1}(t) &= \alpha_{1} + \beta_{11} \Delta \phi_{1}(t) + \beta_{12} \Delta \phi_{2}(t) + \beta_{13} \Delta \phi_{3}, \\
     \Delta r_{2}(t) &= \alpha_{2} + \beta_{21} \Delta \phi_{1}(t) + \beta_{22} \Delta \phi_{2}(t) + \beta_{23} \Delta \phi_{3}.
 \end{aligned}
 $$  
 # Identifying the Factors: Principal Component Analysis
- - The factors driving the [[The Vasicek Model|term structure]] are implicit in the $\Delta r_{1}(t),         ….,         \Delta r_{n}(t).$
+ - The factors driving the [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) are implicit in the $\Delta r_{1}(t),         ….,         \Delta r_{n}(t).$
 - PCA assumes they are linear combination of the underlying yields
 	 - That is,  for $i=1,         2,         3$ we have
 $$
@@ -930,24 +930,24 @@ $$
 > The beta coefficients in (13) are just the ei gen vectors: $\beta_{i j}=v_{j i}$
 # Factors from PCA
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9d6cf6280c640e28c94a44cc76c6ff4cda75b0964e7f108e75d02118e85accf3.jpg)
+ ![500](Attachments/500-81.jpg)
 
 Data Source: CRSP
 
 # Parallel Shifts,  Slope Tilts and Curvature Changes
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/39be43471c8e978d0db0b4725c72fa42d341ba0d765ccd4327a8d29c2c690fe9.jpg)
+ ![500](Attachments/500-86.jpg)
 
-[[A Practical Estimation Method|Regression coefficients]] Bii Data Source: CRSP
+[Regression coefficients](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/A%20Practical%20Estimation%20Method.md) Bii Data Source: CRSP
 
 # The Sensitivity of Interest Rates to PCA Level,  Slope,  and Curvature
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a884107978da9c86f0d4ee7035d69dc57340eefe36876cea552c72366df548b3.jpg)
+ ![500](Attachments/500-111.jpg)
 
- - The first three PCAs explain the vast majority of the variation in yields - => If we hedge the three PCAs,  we hedge most of [[Analysis of Fixed Income Securities|interest rate risk]]
+ - The first three PCAs explain the vast majority of the variation in yields - => If we hedge the three PCAs,  we hedge most of [interest rate risk](../Analysis%20of%20Fixed%20Income%20Securities.md)
 
 # Interest Rate Risk Management and Factor Duration
-- The factor [[Key Rates O1s Durations and Hedging|duration]] of an asset with price $P$ with respect to factor j:$$
+- The factor [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of an asset with price $P$ with respect to factor j:$$
 D_{j}=-\frac{1}{P}\frac{d\; P}{d\;\phi_{j}}
 $$  
 
@@ -955,7 +955,7 @@ From PCA we can approximate
 $$
 \frac{d r_{i}}{d\phi_{j}}\approx\beta_{i j}
 $$  
-- Example 1. From the definition of a zero coupon bond $Z (t,          t+\tau_{i})=e^{-r_{i}(t)\tau_{i}}$ the [[Key Rates O1s Durations and Hedging|duration]] with respect to factor $j$ is$$
+- Example 1. From the definition of a zero coupon bond $Z (t,          t+\tau_{i})=e^{-r_{i}(t)\tau_{i}}$ the [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) with respect to factor $j$ is$$
 \begin{array}{l}{\displaystyle D_{z,          j}\,         =\,         -\frac{1}{Z (t,         \,          t+\tau_{i})}\frac{d\ Z (t,         \,          t+\tau_{i})}{d\,         \phi_{j}}}\\ {\displaystyle\quad=\,         -\frac{1}{Z (t,         \,          t+\tau_{i})}\frac{d\ Z (t,         \,          t+\tau_{i})}{d\,          r_{i}}\times\frac{d\,          r_{i}}{d\,         \phi_{j}}}\\ {\displaystyle\quad=\,         \tau_{i}\times\beta_{i j}\,         }\end{array}
 $$  
 # Interest Rate Risk Management and Factor Duration
@@ -965,7 +965,7 @@ $$
 P_{c}(t,          T)=\frac{c}{2}\sum_{i=1}^{n}Z (t,          T_{i})+Z (t,          T_{n})
 $$  
 
- - the [[Key Rates O1s Durations and Hedging|duration]] of the bond with respect to factor $j$ is
+ - the [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of the bond with respect to factor $j$ is
 $$
 D_{j}=-\frac{1}{P_{c}}\frac{d\; P_{c}}{d\;\phi_{j}}=\sum_{i=1}^{n}w_{i}\tau_{i}\beta_{i j}
 $$  
@@ -975,15 +975,15 @@ $$
 {\frac{d\; P}{P}}\approx-D_{1}\; d\phi_{1}-D_{2}\; d\phi_{2}-D_{3}\; d\phi_{3}
 $$  
 # Interest Rate Risk Management: Factor Neutrality
--A [[An Asset Allocation Primer|portfolio]] $P$ has factor durations $D_{1}$ and $D_{2}$ with respect to level and slope
+-A [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $P$ has factor durations $D_{1}$ and $D_{2}$ with respect to level and slope
 - To implement factor neutrality,  we need to select two other securities
 - E.g. a shortand a long-dated zero coupon bonds,  denoted by $P_{z}^{S}$ and $P_{z}^{L}$
 - For each,  compute the factor durations,  $D_{z,          1}^{S},         \,          D_{z,          2}^{S},         \,          D_{z,          1}^{L}$ and $D_{z,          2}^{L}$
-·Wewant tochoose $k_{S}$ and $k_{L}$ ,  such that the variation of the [[An Asset Allocation Primer|portfolio]] plus the two bonds is approximately zero. That is,  such that the change in $V\,         =$ $P+k_{S}\times P_{z}^{S}+k_{L}\times P_{z}^{L}$ satisfies$$
+·Wewant tochoose $k_{S}$ and $k_{L}$ ,  such that the variation of the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) plus the two bonds is approximately zero. That is,  such that the change in $V\,         =$ $P+k_{S}\times P_{z}^{S}+k_{L}\times P_{z}^{L}$ satisfies$$
 D\; V=d\; P+k_{F}\times d\; P_{z}^{S}+k_{L}\times d\; P_{z}^{L}=0
 $$  
 
- - The same steps as in the case of [[Key Rates O1s Durations and Hedging|duration]] / [[PSET II Fixed Income Asset Pricing 1|convexity]] [[Key Rates O1s Durations and Hedging|hedging]] yield the twc equations:
+ - The same steps as in the case of [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) / [convexity](../Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) yield the twc equations:
 $$
 \begin{array}{c} {{k_{S}\times D_{z1}^{S}\times P_{z}^{S}+k_{L}\times D_{z1}^{L}\times P_{z}^{L}=-D_{1}\times P}} \\ {{k_{S}\times D_{z2}^{S}\times P_{z}^{S}+k_{L}\times D_{z2}^{L}\times P_{z}^{L}=-D_{2}\times P}} \end{array}
 $$  
@@ -1004,7 +1004,7 @@ $$
 K_{S}=-0.5266;\quad k_{L}=-1.1259
 $$  
 
- - In this case,  on April 15 2007 the hedged [[An Asset Allocation Primer|portfolio]] is worth
+ - In this case,  on April 15 2007 the hedged [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is worth
 $$
 V_{4/15/2004}^{F a c t o r H e d g e}=\$ 100.91,         
 $$  
@@ -1013,18 +1013,18 @@ $$
 
 # Introduction
 
-There are numerous questions that arise when we think about the [[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]],  such as:
+There are numerous questions that arise when we think about the [term structure of interest rates](../../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md),  such as:
 
-1. Why does the [[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]] tend to slope upwards?
- 1. What is the risk involved in investing in [[US Markets|Treasury securities]]?
- 1. Can we predict medium-to-long term yields? What about [[Assets|returns]]?
+1. Why does the [term structure of interest rates](../../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md) tend to slope upwards?
+ 1. What is the risk involved in investing in [Treasury securities](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/US%20Markets.md)?
+ 1. Can we predict medium-to-long term yields? What about [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)?
 # The Expectations Hypothesis
 
-The [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.4 [[The Expectation Hypothesis|Expectations hypothesis]]|[[The Expectation Hypothesis|expectations hypothesis]]]] is the hypothesis that long-term yields just reflect market participants' expectation of future [[Interest Rate Quotations|interest rates]]
+The [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.4 [Expectations hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md)|[expectations hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md)]] is the hypothesis that long-term yields just reflect market participants' expectation of future [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)
 
-Long-term yield $=$ Expected future [[Volatility and Convexity|short-term rates]]
+Long-term yield $=$ Expected future [short-term rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%208/Volatility%20and%20Convexity.md)
 
-- To illustrate,  let today be $t$ and consider the case in which investors have perfect foresight of the next l-year [[Interest Rate Quotations|interest rates]] $y_{t+1}(1)$
+- To illustrate,  let today be $t$ and consider the case in which investors have perfect foresight of the next l-year [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) $y_{t+1}(1)$
 - Investors then also know that the zero coupon bond price next year will be$$
 Z_{t+1}(1)=e^{-y_{t+1}(1)\times 1}
 $$  
@@ -1039,7 +1039,7 @@ $$
 =\mathsf{A v e r a g e}[y_{t}(1),          y_{t+1}(1),         ...,          y_{t+n}(1)]=\frac{1}{n+1}\sum_{i=0}^{n}
 $$  
 
- - The [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.4 [[The Expectation Hypothesis|Expectations hypothesis]]|[[The Expectation Hypothesis|expectations hypothesis]]]] substitutes the perfect foresight with forecasts
+ - The [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.4 [Expectations hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md)|[expectations hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md)]] substitutes the perfect foresight with forecasts
 $$
 \begin{array}{l} {{e r m\ y i e l d\,         =\,         f o r e c a s t e d\ a v e r a g e\ p a t h\ o f\,         f u t u r e}} \\ {{y_{t}(n+1)\,         =\,         E_{t}\left[\displaystyle\frac{1}{n+1}\sum_{i=0}^{n}y_{t+i}(1)\right]\qquad\qquad\qquad\qquad\qquad}} \end{array}
 $$  
@@ -1052,15 +1052,15 @@ Does this relation holds in the data?
 
 - Heuristic ally,  next figure plots the expected future three-month rates from the Survey of Professional Forecasters from 1981 to 2015
 - The forecasts are for the three-month T-bill rate for the current quarter,  denote in the figure by $r (t)$ ,  and for the next three quarters,  denoted by $r (t+3 m)$ $r (t+6 m)$ ,  and $r (t+9 m)$ ,  respectively
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/175cddb3d421b6a3e2dc735342e81c5ea821be49dd56d4016d674fabadb8c048.jpg)
+ ![500](Attachments/500-115.jpg)
 - Next figure shows the 1-year term spread,  defined as $y_{t}(1 y)-r (t)$ together with the 1-year "expectation spread".
 # 1-Year Expectation Spread vs 1-Year Term Spread
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/40ef95e25752ef1ec16f356851c0de9a3f19826fd4fb3341725cb0003ef1398d.jpg)
+ ![500](Attachments/500-87.jpg)
 
 - The l-year term spread is greater than the “expectation spread" most of the time - => the expectation hypothesis does not hold (at least,  using survey forecasts)
 # The Expectation Hypothesis and Forward Rates
-- We saw in Teaching Notes 1 that a [[Forward Points in Currency|forward rate]] at $t$ for an [[An Asset Allocation Primer|investment]] between $\tau_{1}$ and $\tau_{2}$ can be written as$$
+- We saw in Teaching Notes 1 that a [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) at $t$ for an [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) between $\tau_{1}$ and $\tau_{2}$ can be written as$$
 \mathrm{\Sigma_{2})}=\frac{1}{\tau_{2}-\tau_{1}}\ln\left (\frac{Z_{t}(\tau_{1})}{Z_{t}(\tau_{2})}\right)=\frac{1}{\tau_{2}-\tau_{1}}\left (y_{t}(\tau_{2})\tau_{2}-y_{t}(\tau_{1})\tau_{1}+y_{t}(\tau_{2})\tau_{1}\right).
 $$  
 
@@ -1078,26 +1078,26 @@ $$
 Y_{t}(\tau_{n})={\frac{\Delta t}{\tau_{n}}}\sum_{i=1}^{n}f_{t}(\tau_{i-1},         \tau_{i})=\mathsf{A v e r a g e~f o r w a r d~r a}
 $$  
 
- - The expectation hypothesis then implies that for every $i$ the [[Forward Points in Currency|forward rate]] is equal to the expected future short-term rate: 2
+ - The expectation hypothesis then implies that for every $i$ the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) is equal to the expected future short-term rate: 2
 $$
 F_{t}(\tau_{i},         \tau_{i}+\Delta t)=E_{t}[y_{t+\tau_{i}}(\Delta t)]\;.
 $$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53fea15ec012da879094873f5dfdbef561f27c632e26e33522758966851ca739.jpg)
+ ![500](Attachments/500-84.jpg)
 
 Again,  expected future rates are mostly lower than forward rates
 
 # Time Varying Risk Premia
-- The violation of the [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.4 [[The Expectation Hypothesis|Expectations hypothesis]]|[[The Expectation Hypothesis|expectations hypothesis]]]] (and the time variation in spread) suggests the existence of an additional term in Equation (1):$$
+- The violation of the [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.4 [Expectations hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md)|[expectations hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md)]] (and the time variation in spread) suggests the existence of an additional term in Equation (1):$$
 Y_{t}(n+1)\,         =\,          E_{t}\left[{\frac{1}{n+1}}\sum_{i=0}^{n}y_{t+i}(1)\right]+R P_{t}
 $$  
 
-Where $R P_{t}$ reflects a risk premium from holding the bond from $t$ to $t+1$  - The time variation in $R P_{t}$ invalidates the [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.4 [[The Expectation Hypothesis|Expectations hypothesis]]|[[The Expectation Hypothesis|expectations hypothesis]]]]
+Where $R P_{t}$ reflects a risk premium from holding the bond from $t$ to $t+1$  - The time variation in $R P_{t}$ invalidates the [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.4 [Expectations hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md)|[expectations hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md)]]
 
-- Even if the expectation of future [[Interest Rate Quotations|interest rates]] does not change,  the yield curve may change because $R P_{t}$ changes - Therefore,  movements in the yield curve do not only correspond to variations in expected future short-term yields
+- Even if the expectation of future [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) does not change,  the yield curve may change because $R P_{t}$ changes - Therefore,  movements in the yield curve do not only correspond to variations in expected future short-term yields
 # Term Structure Decomposition
 
- - Let $y_{t}(n+1)={\mathsf{y i e l d}}$ at $t$ of a bond with [[Hedging Strategies with Forwards|time to maturity]] $(n+1)$ years from $t$
+ - Let $y_{t}(n+1)={\mathsf{y i e l d}}$ at $t$ of a bond with [time to maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) $(n+1)$ years from $t$
 $$
 Z_{t}(n+1)=e^{-y_{t}(n+1)(n+1)}
 $$  
@@ -1129,7 +1129,7 @@ $$
 
 1. The weighted average between the current short-term yield and the expected long-term yield next year.
 1. A risk premium RP that market participants require to hold long-term zero coupon bonds with maturity $n+1$ over safe bonds with maturity 1.
-1. A [[PSET II Fixed Income Asset Pricing 1|convexity]] term due to the nonlinear relation that exists between the yielo $y_{t+1}(n)$ and the price $Z_{t+1}(n)=e^{-y_{t+1}(n)\times n}$
+1. A [convexity](../Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) term due to the nonlinear relation that exists between the yielo $y_{t+1}(n)$ and the price $Z_{t+1}(n)=e^{-y_{t+1}(n)\times n}$
 # Expectation Hypothesis (again)
 
  - Let $\begin{array}{r}{R P_{t}=\frac{n^{2}}{2}V_{t}}\end{array}$ . Then the expectation hypothesis holds:
@@ -1140,15 +1140,15 @@ $$
 E_{t}\big[y_{t+1}(n)\big] - y_{t}(n+1) = \frac{1}{n} \big[y_{t}(n+1) - y_{t}\big].
 $$  
 
-Expected Change in Yield Slope of [[The Vasicek Model|Term Structure]]
+Expected Change in Yield Slope of [Term Structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md)
 
-- A steep [[The Vasicek Model|term structure]] (on the RHS) signals the market expects an increase in theyield $y_{t}\left (n+1\right)$ between $t$ and $t+1$ (on the LHS)$$
+- A steep [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) (on the RHS) signals the market expects an increase in theyield $y_{t}\left (n+1\right)$ between $t$ and $t+1$ (on the LHS)$$
 E_{t}\left[y_{t+1}\left (n\right)\right]>y_{t}\left (n+1\right)
 $$  
 - =→> market expects a low or negative return on $(n+1)$ maturity bond
 # Long-Term Yield Increase
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2abe8e5db1f644210b3364b8330e5c6bf2d754b4df1ffcc8ef8dfe4b2a3bad54.jpg)
+ ![500](Attachments/500-82.jpg)
 
 ·Example: On $t=1/31/1994$ yield curve was increasing and the spread was $3.3\%$
 
@@ -1156,7 +1156,7 @@ High spread may signal long-term yield $y_{t}(30)=6.87\%$ may increase.
 
  - And indeed,  it did: t + 1 = 1/31/1995 we have $y_{t+1}(29)=7.81\%.$
 
- - This implies a loss on [[An Asset Allocation Primer|investment]]: $\begin{array}{r}{R_{t,          t+1}=\frac{Z_{t+1}(29)}{Z_{t}(30)}-1=\frac{10.3893}{12.7048}-1=-18\%}\end{array}$
+ - This implies a loss on [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md): $\begin{array}{r}{R_{t,          t+1}=\frac{Z_{t+1}(29)}{Z_{t}(30)}-1=\frac{10.3893}{12.7048}-1=-18\%}\end{array}$
 
 # Does the Expectation Hypothesis Hold in the Data?
 - Does a high slope predict an increase in future yields? (i.e. should you go short?)
@@ -1173,33 +1173,33 @@ $$
 Y_{t}=\alpha+\beta X_{t}+\varepsilon_{t+1}
 $$  
 
- - The [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.4 [[The Expectation Hypothesis|Expectations hypothesis]]|[[The Expectation Hypothesis|expectations hypothesis]]]] has $\alpha=0$ and $\beta=1$
+ - The [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.4 [Expectations hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md)|[expectations hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md)]] has $\alpha=0$ and $\beta=1$
 
 We can see if this true in the data.
 
 # Campbell and Shiller Regression
 # Test of the Expectation Hypothesis
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c2f50138d49655b7344cf93f7033d046dfed8525ddd0c914de2bd55ac2e908f.jpg)
+ ![500](Attachments/500-82.jpg)
 
 Notes: Regression results based on Fama Bliss discount bond data from CRSP. Sample: 1964 - 2006.
 
 Important to note:
 
--β ≠ 1 => [[The Expectation Hypothesis|Expectations Hypothesis]] is rejected $-\;\beta<0\Longrightarrow$ steep yield curve predicts a decrease of long-term yield \* This is the opposite of the basic simple intuition about a raising yield curve
+-β ≠ 1 => [Expectations Hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md) is rejected $-\;\beta<0\Longrightarrow$ steep yield curve predicts a decrease of long-term yield \* This is the opposite of the basic simple intuition about a raising yield curve
 
-- [[Operating Income vs. Net Income What's the Difference|Bottom line]]: A steep yield curve predicts high [[Assets|returns]] of long-term bonds
+- [Bottom line](../../Advanced%20Financial%20Analysis%20and%20Valuation/Financial%20Ratios/Operating%20Income%20vs.%20Net%20Income%20What's%20the%20Difference.md): A steep yield curve predicts high [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) of long-term bonds
 # Long-Term Yield Decrease
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8ccc21eb8c5d2d17f7f7709e9608f0f8c572ce21ac9e0a0bcb492b2141f23163.jpg)
+ ![500](Attachments/500-82.jpg)
 
 ·Example: On $t=1/30/2004$ yield curve was increasing and the spread was $4.1\%$
 
- - In the data,  high spread forecast a decline of long-term yield $y_{t}(30)=5.347\%$  - And indeed,  it did: t + 1 = 1/31/2005 we have $y_{t+1}(29)=4.655\%$  - This implies a gain on [[An Asset Allocation Primer|investment]]: $\begin{array}{r}{R_{t,          t+1}=\frac{Z_{t+1}(29)}{Z_{t}(30)}-1=\frac{25.9279}{20.1046}-1=+29\%}\end{array}$
+ - In the data,  high spread forecast a decline of long-term yield $y_{t}(30)=5.347\%$  - And indeed,  it did: t + 1 = 1/31/2005 we have $y_{t+1}(29)=4.655\%$  - This implies a gain on [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md): $\begin{array}{r}{R_{t,          t+1}=\frac{Z_{t+1}(29)}{Z_{t}(30)}-1=\frac{25.9279}{20.1046}-1=+29\%}\end{array}$
 
 # Time Varying Risk Premia
 
- - This result implies that the slope of the [[The Vasicek Model|term structure]] predicts
+ - This result implies that the slope of the [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) predicts
 $$
 L R P_{t}=R P_{t}-{\frac{n^{2}}{2}}V_{t},         
 $$  
@@ -1212,7 +1212,7 @@ $$
 
 We know slope is not positively related to the left-hand-side (previous table) $\Longrightarrow$ then it must be positively correlated with $L R P_{t}$
 
-- When slope increases so does $L R P_{t}$ ,  thereby killing the positive correlation Implication: - High slope $\nRightarrow$ market expects higher future rates. - High slope $\Rightarrow$ high risk premium $\Rightarrow$ high [[Lecture 1- Probability Distributions of Returns|expected return]] of long-term bonds $\Rightarrow$ strong price increase $\Rightarrow$ low future yield.
+- When slope increases so does $L R P_{t}$ ,  thereby killing the positive correlation Implication: - High slope $\nRightarrow$ market expects higher future rates. - High slope $\Rightarrow$ high risk premium $\Rightarrow$ high [expected return](../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) of long-term bonds $\Rightarrow$ strong price increase $\Rightarrow$ low future yield.
 # The Predictability of Bond Returns
 
 The Log Risk Premium $L R P_{t}$ can also be rewritten as: 4
@@ -1252,7 +1252,7 @@ $$
  - This finding,  again,  shows that the excess log return is in fact predictable
 - When the forward spread is strongly positive,  on average investments in longterm bonds generate a higher return compared to short term bonds.
 # Cochrane and Piazzesi Factor
-- Cochrane and Piazzesi (2005) have shown that a specific combination of forward rates successfully predicts excess log [[Assets|returns]]
+- Cochrane and Piazzesi (2005) have shown that a specific combination of forward rates successfully predicts excess log [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)
  - The predicting factor is defined by$$
 X_{t}=\gamma_{0}+\gamma_{1}y_{t}(1)+\gamma_{3}f_{t}(2,         3)+\gamma_{5}f_{t}(4,         5)
 $$  
@@ -1273,30 +1273,30 @@ $$
 
 Panel C: Log Excess Return Prediction from Cochrane Piazzesi Factor Maturityn B se (β) R 2
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cee00874d9b641843020fc44e9d046ca080ad6f8ed2105e25987d567b88420b3.jpg)
+ ![500](Attachments/500-72.jpg)
 
-- The coefficients are strongly positive,  and the $R^{2}$ higher than in Panel B,  showing that including information on the whole [[The Vasicek Model|term structure]] helps predict bond excess [[Assets|returns]].
+- The coefficients are strongly positive,  and the $R^{2}$ higher than in Panel B,  showing that including information on the whole [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) helps predict bond excess [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md).
 # Coping with Inflation Risk: Treasury Inflation-Protected Securities
 
 Treasury coupon bonds are in nominal terms,  as they pay in dollars
 
-How much you can buy with those dollars depends on [[War Economies and Hyperinflation|inflation]] before maturity Over long periods,  the [[War Economies and Hyperinflation|inflation]] can be pretty high
+How much you can buy with those dollars depends on [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) before maturity Over long periods,  the [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) can be pretty high
 
-[[Pricing an Inflation Swap|CPI index]] $=$ weighted average of the representative good prices
+[CPI index](../../Financial%20Instruments/Pricing%20an%20Inflation%20Swap.md) $=$ weighted average of the representative good prices
 
-The change in the CPl measures the realized [[War Economies and Hyperinflation|inflation]] during the period
+The change in the CPl measures the realized [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) during the period
 
 # Simple Example
 - We have monthly income of $\$ 10$ ,  000 and let CPI $=$ price of consumption basket
 - How much we can buy at a given time $t_{1}$ is $C (t_{1})=\$ 10$ ,  000/CPI $(t_{1})$
 -E.g. if CPI $(t_{1})=10\Longrightarrow$ we can buy 1000 units of consumption basket. - If basket only contains \$i 0-burgers,  we can buy $C (t_{1})=1000$ burgers at $t_{1}$
-- Let now be $t_{2}$ and let our income be the same. Because of [[War Economies and Hyperinflation|inflation]],  now ${\mathsf{C P I}}(t_{2})=$ 20.
+- Let now be $t_{2}$ and let our income be the same. Because of [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md),  now ${\mathsf{C P I}}(t_{2})=$ 20.
 - We can now only buy $C (t_{2})\,         =\,         \$ 10,         000/{\sf C P I}(t_{2})\,         =\,          500$ burgers: big loss in consumption even if nominal income is the same.
 # Inflation Risk and the Loss of Purchasing Power
 
-The ratio $C (t_{2})/C (t_{1})=\mathsf{l o s s}$ in purchasing power of a dollar between $t_{1}$ and $t_{2}$  - This ratio is given by $C (t_{2})/C (t_{1})=\mathsf{C P I}(t_{1})/\mathsf{C P I}(t_{2}).$ - In the previous example ${\mathsf{C P I}}(t_{1})/{\mathsf{C P I}}(t_{2})=0.5\Longrightarrow$ we can only afford at $t_{2}$ half of the goods we could buy at $t_{1}$ Changes in CPl are unknown $\Longrightarrow$ nominal securities have [[War Economies and Hyperinflation|inflation]] risk - Risk that the dollar payoff will afford less consumption goods than expected
+The ratio $C (t_{2})/C (t_{1})=\mathsf{l o s s}$ in purchasing power of a dollar between $t_{1}$ and $t_{2}$  - This ratio is given by $C (t_{2})/C (t_{1})=\mathsf{C P I}(t_{1})/\mathsf{C P I}(t_{2}).$ - In the previous example ${\mathsf{C P I}}(t_{1})/{\mathsf{C P I}}(t_{2})=0.5\Longrightarrow$ we can only afford at $t_{2}$ half of the goods we could buy at $t_{1}$ Changes in CPl are unknown $\Longrightarrow$ nominal securities have [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) risk - Risk that the dollar payoff will afford less consumption goods than expected
 
-  [[War Economies and Hyperinflation|Inflation]]-protected securities are vehicles that hedge against this [[War Economies and Hyperinflation|inflation]] risk
+  [Inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)-protected securities are vehicles that hedge against this [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) risk
 
 # Treasury Inflation Protected Securities (TIPS)
 
@@ -1304,16 +1304,16 @@ TIPS are coupon bonds issued with maturities of 5,  10,  and 20 years
 
 The coupon rate of TlPS is a constant fraction of the principal
 
-The principal changes over time in response to [[War Economies and Hyperinflation|inflation]].
+The principal changes over time in response to [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md).
 
-- If the CPl increases,  then the [[HSBC-Auto callable Barrier Notes with Step-up Premium|principal amount]] increases proportionally
+- If the CPl increases,  then the [principal amount](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/HSBC-Auto%20callable%20Barrier%20Notes%20with%20Step-up%20Premium.md) increases proportionally
 The Treasury publishes Index ratios$$
 \mathsf{I n d e x\ r a t i o}(t)\;=\;\mathrm{max}\left (\frac{\mathsf{R e f e r e n c e\ C P I}(t)}{\mathsf{C P I}(\mathsf{i s s u r a n c e})},          0\right)
 $$  
 
 Reference $:{\mathsf{C P I}}(t)\;=\; w (t)~{\mathsf{C P I}}(t-1)+(1-w (t))~{\mathsf{C P I}}$ (t—2) -where $w (t)$ is a weight that depends on the quoted day of the month
 
-. Next Table contains quotes of [[US Markets|Treasury securities]] on November 26,  2007. - Given the index ratio,  the next coupon payment is
+. Next Table contains quotes of [Treasury securities](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/US%20Markets.md) on November 26,  2007. - Given the index ratio,  the next coupon payment is
 
 # Treasury Securities on November 26,  2007
 ##### Panel A: Treasury Bills$$
@@ -1374,7 +1374,7 @@ $$
 $$
 ##### Panel C: TIPS
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/968ea44aa267337965de6cd259a6a22496b0632a9b37b7782c8ac2f192935142.jpg)
+ ![500](Attachments/500-113.jpg)
 
 # Reference Index Example
 
@@ -1386,13 +1386,13 @@ The quotes in the Table are for November 26,  2007.
 - Because November 26 is 25 days after November 1,  the calculation is$$
 {\mathsf{C P I}}(t)={\frac{5}{30}}\times 207.917+{\frac{25}{30}}\times 208.490=208.39
 $$  
-- An investor in TiPS is still subject to a small [[War Economies and Hyperinflation|inflation]] risk during the two months between the CPl measure and the actual payment
+- An investor in TiPS is still subject to a small [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) risk during the two months between the CPl measure and the actual payment
 # Real Bonds and the Real Term Structure of Interest Rates
-- [[Swaps Types|Borrowing and lending]] do not need dollars
+- [Borrowing and lending](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Swaps%20Types.md) do not need dollars
 - You can borrow a car from a friend and return it in a week - If you forget your wallet,  you can ask your friend to buy a sandwich today with the agreement you will return the same sandwich tomorrow. \* If your "friend" see you very hungry today,  he may ask you to return a bigger sandwich tomorrow. I.e. charge a big real interest rate.
 Real bonds are bonds that are denominated in units of a good instead of dollars
-: Relevant to [[War Economies and Hyperinflation|inflation]] linked securities are bonds that are denominated in units of the consumption basket that underlies the CPl index calculation
-,  A real [[Discount Factors|discount factor]] $Z^{r e a l}(t; T)$ defines the erchange rate between consumption goods at $t$ versus consumption goods at a later date T.
+: Relevant to [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) linked securities are bonds that are denominated in units of the consumption basket that underlies the CPl index calculation
+,  A real [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) $Z^{r e a l}(t; T)$ defines the erchange rate between consumption goods at $t$ versus consumption goods at a later date T.
 - How "bigger" a sandwich are we willing to give back to the "friend" tomorrow to have a sandwich today?
 # Real Rates
 - From real discounts $Z^{r e a l}(t; T)$ compute the real rate as usual:$$
@@ -1404,14 +1404,14 @@ $$
 R_{r e a l}(t; T)=-\frac{\ln\left (Z^{r e a l}(t; T)\right)}{T-t}
 $$  
 
- - The real [[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]] is $r_{r e a l}(t; T)$ for maturities $T$
+ - The real [term structure of interest rates](../../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md) is $r_{r e a l}(t; T)$ for maturities $T$
 
  - The value (in consumption goods) of a real coupon bond with maturity $T$ and couponrate $c$ is
 $$
 P_{c}^{r e a l}(t; T)={\frac{c\times 100}{2}}\sum_{i=1}^{n}Z^{r e a l}(t; T_{i})+100\times Z^{r e a l}
 $$  
 # Real Bonds and TIPS
-- Suppose an [[An Asset Allocation Primer|investment]] bank purchases a TlPS and strips the coupons from prin cipal,  generating a series of zero coupon bonds
+- Suppose an [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) bank purchases a TlPS and strips the coupons from prin cipal,  generating a series of zero coupon bonds
  - These zero coupon bonds pay an amount that is tied to the CPl
 ·Denotingby $I d x (T)$ the CPl adjustment for maturity $T$ (recall,  it depends on the CPl two months earlier),  the payoff of a zero coupon TiPS is as follows:$\cdot\mathit{I d x}(T)/\mathit{I d x}(0)=$ increase in the consumption basket price between O and $T$  - For simplicity,  assume
 ·Given $Z^{r e a l}(t; T)$ ,  the value at $t$ of a security paying $I d x (T)$ (i.e. the amount need to purchase one unit of consumption basket) is
@@ -1432,18 +1432,18 @@ $$
 
 - We can use the price of TIPS to “back out" the discount factors $Z^{r e a l}(t; T_{i})$
 - One limitation compared to the case of Treasuries is that we do not have available as many bond prices,  and therefore the boots trapping strategy is not applicable
-- However,  we can use the curve fitting method using a flexible function for the [[Discount Factors|discount factor]],  such as the Nelson Siegel model$$
+- However,  we can use the curve fitting method using a flexible function for the [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md),  such as the Nelson Siegel model$$
 =\;\theta_{0}+(\theta_{1}+\theta_{2})\,         \frac{1-e^{-\frac{T}{\kappa_{1}}}}{\frac{T}{\kappa_{1}}}-\theta_{2}e^{-\frac{T}{\kappa_{1}}}+\theta_{3}\left (\frac{1-e^{-\frac{T}{\kappa_{2}}}}{\frac{T}{\kappa_{2}}}\right)
 $$  
 - From the previous table,  for instance,  we obtain the following results
 # Real and Nominal Rates on November 26,  2007
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/72a6221195e7211eb3408694610b957e1b685863d3652e940af9d1e55ce775a1.jpg)
+ ![500](Attachments/500-111.jpg)
 
-- Next figure shows that the [[The Vasicek Model|term structure]] of real rates changes over time
+- Next figure shows that the [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) of real rates changes over time
 # Real Rates during and after the crisis
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0168a832864dbaf7fd996285d3949aef696bc37ab2c1b80a50e8f2d3b125f479.jpg)
+ ![500](Attachments/500-87.jpg)
 
 Data are from Gurkaynak,  Sack,  and Wright (2010),  updated series
 
@@ -1456,7 +1456,7 @@ What is the relation between real and nominal rates?
 
 We now show that
 
-Nominal rate $=$ real rate + expected [[War Economies and Hyperinflation|inflation]] + [[War Economies and Hyperinflation|inflation]] risk premium — [[PSET II Fixed Income Asset Pricing 1|convexity]]
+Nominal rate $=$ real rate + expected [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) + [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) risk premium — [convexity](../Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md)
 
 - Consider first the value today of $\$ 1$ atT$$
 Z (0,          T)=e^{-r (0,          T) T}\times P_{1}
@@ -1464,7 +1464,7 @@ $$
 - Alternatively,  we can express this in "consumption goods":
 - Unfortunately,  this amount is not known today,  because CPl $(T)$ is stochastic
  - To compute the present value we need more assumptions.
- - Let $\pi$ be the annualized [[War Economies and Hyperinflation|inflation]] rate between O and $T$$$
+ - Let $\pi$ be the annualized [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) rate between O and $T$$$
 \pi={\frac{1}{T}}\ln\left ({\frac {{\mathsf{C P I}} (T)} {{\mathsf{C P I}} (0)}}\right)
 $$  
 # The Fisher Equation under Perfect Foresight
@@ -1484,7 +1484,7 @@ $$
 R (0,          T)=r_{r e a l}(0,          T)+\pi
 $$  
 # Inflation Risk Premium
-- Assume now [[War Economies and Hyperinflation|inflation]] rate is not known and assume it is log-normal$$
+- Assume now [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) rate is not known and assume it is log-normal$$
 \log\left ({\frac {{\mathsf{C P I}} (T)} {{\mathsf{C P I}} (0)}}\right)=x\sim{\mathcal{N}}(\pi\; T,         \sigma\pi^{2}\; T)
 $$  
 - This implies that the amount of consumption we can buy at $T$ is stochastic$$
@@ -1505,10 +1505,10 @@ $$
 - Decreasing with time: Eating soon is better than eating later. - Increasing in consumption: Eating more is better than eating less. - Concave: → Risk aversion: An amount of consumption that is certain is better than a fair bet to have more or less.$$
 E\left[U (C)\right]<U\left (E[C]\right)
 $$  
-- A widely used utility function is the Constant [[CCAPM with Alternative Preferences|Relative Risk Aversion]] (CRRA):$$
+- A widely used utility function is the Constant [Relative Risk Aversion](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/CCAPM%20with%20Alternative%20Preferences.md) (CRRA):$$
 U (C,          t)=e^{-\rho t}{\frac{C^{1-\gamma}}{1-\gamma}}
 $$  
-- P = time-[[Utility Indices|preference]] parameter$-\,         \gamma=-C U^{\prime\prime}(C)/U^{\prime}(C)=\mathsf{r e l a t i v e\ r i s k\ a v e r s i o n}$ parameter.
+- P = time-[preference](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) parameter$-\,         \gamma=-C U^{\prime\prime}(C)/U^{\prime}(C)=\mathsf{r e l a t i v e\ r i s k\ a v e r s i o n}$ parameter.
 # Optimal Savings
 - An investor has wage $w (0)$ today and a random amount $w (T)$ at $T$
 - Then investor consumption plan is $\begin{array}{r}{C (0)=\frac{w (0)}{\mathsf{C P}[0)}}\end{array}$ and $\begin{array}{r}{C (T)=\frac{w (T)}{\mathsf{C P I}(T)}.}\end{array}$
@@ -1532,11 +1532,11 @@ $$
 Z (0,          T)=E\left[{\frac {{\mathsf{C P I}} (0)} {{\mathsf{C P I}} (T)}}\times{\frac{U^{\prime}(C (T),          T)}{U^{\prime}(C (0),          0)}}\right]
 $$  
 - In aggregate,  real consumption $C (t)$ depends on real GDP $Y (t)$
-- Assume that [[War Economies and Hyperinflation|inflation]] and real GDP growth have the joiny log-normal distribution$$
+- Assume that [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and real GDP growth have the joiny log-normal distribution$$
 \begin{array}{r l}&{\left (\frac{{\sf C P I}(T)}{{\sf C P I}(0)}\right)}\\ &{\mathfrak{g}\left (\frac{Y (T)}{Y (0)}\right)}\end{array}\right)=\left (\begin{array}{l}{x}\\ {y}\end{array}\right)\sim\mathcal{N}\left (\left (\begin{array}{l}{\overline{\pi}\ T}\\ {\overline{g}\ T}\end{array}\right),         \left (\begin{array}{c}{\sigma\pi^{2}\ T}\\ {\sigma\pi\sigma_{g}\rho_{g,         \pi}\ T}\end{array}\right)\right.}\end{array}
 $$  
 # Equilibrium Prices
-- Substitute the [[The Simple Multi-Period Ccapm|CRRA utility]] function$$
+- Substitute the [CRRA utility](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/The%20Simple%20Multi-Period%20Ccapm.md) function$$
 U^{\prime}(C,          t)=e^{-\rho t}C (t)^{-\gamma}
 $$  
 
@@ -1559,7 +1559,7 @@ $$
 
 The real rate depends on:
 
-1. Time [[Utility Indices|preference]] $\rho$
+1. Time [preference](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) $\rho$
 -High $\rho$ implies investors want to consume today rather then tomorrow. They will sell their (real) bonds which increase their yield
 1. The expected growth rate of the economy $\overline{{g}}$
 一 If $\overline{{g}}$ is high we expect to be rich at $T$ and hence consume a lot then. High $\gamma$ implies we want "stable consumption" over time. Hence we want to borrow to consume more today,  which increases real rates
@@ -1569,59 +1569,59 @@ The real rate depends on:
 
 We found
 
-[[War Economies and Hyperinflation|Inflation]] risk premium = —OTOgPg,  m
+[Inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) risk premium = —OTOgPg,  m
 
 Where
 
  - Intuitively:
 
--If $\rho_{g,         \pi}<0\Longrightarrow$ high [[War Economies and Hyperinflation|inflation]] occurs when real GDP is low $\Longrightarrow$ nominal bond is devalued in recessions,  when people most need the money! >very risky security $\Longrightarrow$ high risk premium $\Longrightarrow$ high long-term yield
+-If $\rho_{g,         \pi}<0\Longrightarrow$ high [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) occurs when real GDP is low $\Longrightarrow$ nominal bond is devalued in recessions,  when people most need the money! >very risky security $\Longrightarrow$ high risk premium $\Longrightarrow$ high long-term yield
 
 - Next figures show that the correlation $\rho_{g,         \pi}$ was negative until late 1990 s. It then became closer to zero. And then became strongly positive around 2008.
-In the meantime,  real GDP volatility $\sigma_{g}$ and [[War Economies and Hyperinflation|inflation]] volatility oT declined
+In the meantime,  real GDP volatility $\sigma_{g}$ and [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) volatility oT declined
    - All of these variation are bound to impact the risk premium
 # Quarterly Real GDP Growth and CPl Infation
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/707740f7df7fcb90e8c4a586e6c228f1b46e1920435bbd52c5955a10094b454a.jpg)
+ ![500](Attachments/500-85.jpg)
 
 Quarterly Real GDP Growth and CPI Infation DataSource: Federal Reserve of St. Louis
 
 # Correlation and Real GDP growth and CPI inflation Vol at ili ties
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1f6c8ad372d12be68521cb72262f95a6796f1df7847dddd5aa140831d5bb3b91.jpg)
+ ![500](Attachments/500-111.jpg)
 
 Backward-looking 10-year Rolling Window. Data Source: Federal Reserve of St. Louis
 
 # Expected Excess Return: The Market Model
-- Another way to understand the risk premium of nominal bonds is to look at its variation with the [[Hedge Fund Strategies|stock market]]
+- Another way to understand the risk premium of nominal bonds is to look at its variation with the [stock market](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md)
  - Under the CAPM,  for instance
 E [Excess Return Nominal Bond] $=\beta\times E$ [Excess Return Market]
 - Next figure shows the time variation in the correlation between stock and bonds,  and the corresponding CAPM beta.
 Why did the CAPM beta change over time?
-- David and Veronesi (2013,  JPE): Time varying role of [[War Economies and Hyperinflation|inflation]] signals
-\* Late 1970 s/ early 1980 s: Fear of stagflation (high [[War Economies and Hyperinflation|inflation]] and low growth) => high [[War Economies and Hyperinflation|inflation]] shocks are bad news for the economy > both nominal bonds and stock drop \* Mid 2000 s: Fear of deflation (low [[War Economies and Hyperinflation|inflation]] and low growth) => high [[War Economies and Hyperinflation|inflation]] shocks are good news for the economy => nominal bonds drop but stock rise
+- David and Veronesi (2013,  JPE): Time varying role of [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) signals
+\* Late 1970 s/ early 1980 s: Fear of stagflation (high [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and low growth) => high [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) shocks are bad news for the economy > both nominal bonds and stock drop \* Mid 2000 s: Fear of deflation (low [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and low growth) => high [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) shocks are good news for the economy => nominal bonds drop but stock rise
 # The Covariance between Stocks and Bonds,  and the CAPM Bond Beta
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6a6edb6074169dd862cfbec8857dd2d97f7ad77a7722027436f64742ce1b2704.jpg)
+ ![500](Attachments/500-111.jpg)
 
-Source: David and Veronesi (2016) “The Economics of the Comovement of Stocks and Bonds" in the Handbook of [[Lecture Notes Bonds,  Preferred Stock,  and Structured Products|Fixed Income]],  Pietro
+Source: David and Veronesi (2016) “The Economics of the Comovement of Stocks and Bonds" in the Handbook of [Fixed Income](../Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md),  Pietro
 
 # Nominal and Real Stock Betas
 
 Figure 1: Rolling Nominal and Real Bond-Stock Betas
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c7c760925c94114d09e111a3ee686f55584d67bfcaac8c2319c00dc617278cd1.jpg)
+ ![500](Attachments/500-86.jpg)
 
-Source: Caroline Pflueger (2024) “Back to the 1980 s or Not? The Drivers of [[War Economies and Hyperinflation|Inflation]] and Real Risks in Treasury Bonds"
+Source: Caroline Pflueger (2024) “Back to the 1980 s or Not? The Drivers of [Inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and Real Risks in Treasury Bonds"
 
 # More General Formulas
 - All previous formulas have “flat'" term structures: $r (0,          T)$ and $r_{r e a l}(0,          T)$ donot depend on $T$
-- They can be generalized by assuming that expected [[War Economies and Hyperinflation|inflation]] $\overline {{\pi}} _{t}$ and expected GDPgrowth $\overline {{g}} _{t}$ are time varying
+- They can be generalized by assuming that expected [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) $\overline {{\pi}} _{t}$ and expected GDPgrowth $\overline {{g}} _{t}$ are time varying
 - Using the continuous time methodology,  for instance,  we may assume$$
 \begin{array}{r l}&{d\overline {{\pi}} _{t}\,         =\,          (\alpha\pi-\beta\pi\overline {{\pi}} _{t}) d t+\sigma_{\overline {{\pi}} }\; d W_{\overline {{\pi}} }}\\ &{d\overline {{g}} _{t}\,         =\,          (\alpha_{g}-\beta_{g}\overline {{g}} _{t}) d t+\sigma_{\overline {{g}} }\; d W_{\overline {{g}} }}\end{array}
 $$  
 
-[[War Economies and Hyperinflation|Inflation]] and real GDP growth themselves are
+[Inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and real GDP growth themselves are
 $$
 \begin{array}{r}{d\log (\mathsf{C P I}_{t})\,         =\,         \overline{\pi}_{t}d t+\sigma_{\pi}\ d W_{\pi}}\\ {d\log (Y_{t})\,         =\,         \overline{g}_{t}d t+\sigma_{g}\ d W_{g}}\end{array}
 $$  
@@ -1648,7 +1648,7 @@ $$
 $$
 r (t,          T)=\frac{-A (t,          T)}{T-t}+\frac{B (t,          T)}{T-t}\;\overline {{\pi}} _{t}+\frac{C (t,          T)}{T-t}\;\gamma\overline {{g}} _{t}
 $$  
-- A higher expected [[War Economies and Hyperinflation|inflation]] increases nominal yield,  but differential ly across maturities
+- A higher expected [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) increases nominal yield,  but differential ly across maturities
 - A higher expected real growth increases nominal yields,  but differential ly across maturities
 # The Function A (t, T)$$
 \begin{array}{l} {{\displaystyle=\left(-\rho+\frac{1}{2}\sigma_{\pi}^{2}+\frac{1}{2}\gamma^{2}\sigma_{g}^{2}+\gamma\sigma_{\pi}\sigma_{g}\rho_{\pi g}\right)\left(T-t\right)}} \\ {{\displaystyle\ \ +\left[\sigma_{\pi}\sigma_{\pi}\rho_{\pi\pi}+\gamma\sigma_{g}\sigma_{\pi}\rho_{g\overline{{{\pi}} }}-\alpha_{\pi}+\frac{1}{2}\frac{\sigma_{\pi}^{2}}{\beta_{\pi}}+\frac{\gamma\sigma_{\pi}\sigma_{g}\rho_{\pi\overline {{{g}} }}}{\beta_{\pi}+\beta_{g}}\right]\frac{1}{\beta_{\pi}}}}\\ {{\displaystyle\ \ +\left[\sigma_{\pi}\sigma_{\overline{{{g}} }}\rho_{\pi\overline {{{g}} }}+\gamma\sigma_{g}\sigma_{\overline {{{g}} }}\rho_{g\overline {{{g}} }}-\alpha_{g}+\frac{1}{2}\frac{\gamma\sigma_{g}^{2}}{\beta_{g}}+\frac{\sigma_{\pi}\sigma_{g}\rho_{\pi\overline {{{g}} }}}{\beta_{\pi}+\beta_{g}}\right]\frac{\gamma}{\beta_{g}}\left (t\right)}}\\ {{\displaystyle\ \ -\frac{1}{4}\frac{\sigma_{\pi}^{2}} {\beta_{\pi}}B\left (t,          T\right)^{2}-\frac{1}{4}\frac{\gamma^{2}\sigma_{g}^{2}}{\beta_{g}}C\left (t,          T\right)^{2}-\frac{\gamma\sigma_{\pi}\sigma_{g}\rho_{\pi\overline {{{g}} }}}{\left (\beta_{\pi}+\beta_{g}\right)}B\left (t,          T\right)}}\end{array}
@@ -1656,21 +1656,21 @@ $$
 
 Many risk premia
 
-1. [[War Economies and Hyperinflation|Inflation]] risk premium: $\gamma\sigma_{\pi}\sigma_{g}\rho_{\pi g}.\qquad\mathsf{I f}\ \rho_{\pi g}<0\Longrightarrow Z (t,          T)\downarrow\Longrightarrow r (t,          T$ 2. Expected [[War Economies and Hyperinflation|inflation]] risk premium: $\gamma\sigma_{g}\sigma_{\pi}\rho_{g\overline {{{\pi}} }}$ If $\rho_{g,         \pi}<0\Longrightarrow r (t,          T)$ ↑
+1. [Inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) risk premium: $\gamma\sigma_{\pi}\sigma_{g}\rho_{\pi g}.\qquad\mathsf{I f}\ \rho_{\pi g}<0\Longrightarrow Z (t,          T)\downarrow\Longrightarrow r (t,          T$ 2. Expected [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) risk premium: $\gamma\sigma_{g}\sigma_{\pi}\rho_{g\overline {{{\pi}} }}$ If $\rho_{g,         \pi}<0\Longrightarrow r (t,          T)$ ↑
  1. Expected growth risk premium: $\gamma\sigma_{g}\sigma_{\overline {{{g}} }}\rho_{g\overline {{{g}} }}$ If $\rho_{g,         \overline {{{g}} }}<0\Longrightarrow r (t,          T)$ ↑ and manv convexitv efferts
 # The Shot-term Rate and Monetary Policy Interpretation
 - As we take the limit $T-t\rightarrow 0$ we obtain the formula for the "overnight”" rate real rate rreal,  t exp. Infl. & conv. Risk premium
-- The Federal Reserve is believed to follow the so-called "[[Topics in Fiscal and Monetary Policies and Stabilization- Empirical Issues|Taylor rule]]'" in setting its target Federal Fund rate,  which specifies
-R't = Q + β1 (outputt — potential output) + β1 (inflationt — target [[War Economies and Hyperinflation|inflation]])
-- The “forward looking" [[Topics in Fiscal and Monetary Policies and Stabilization- Empirical Issues|Taylor rule]] uses "expected [[War Economies and Hyperinflation|inflation]]" and expected output to their realized values.
- - The result above can be casted in terms of [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.6 [[A Preview of Alternative Formulations|Asset price]] reactions to [[The Economist Regime Change|monetary policy]] surprises|[[The Economist Regime Change|monetary policy]]]] actions$$
+- The Federal Reserve is believed to follow the so-called "[Taylor rule](../../International%20Finance/Economic%20Stabilization%20Notes/Topics%20in%20Fiscal%20and%20Monetary%20Policies%20and%20Stabilization-%20Empirical%20Issues.md)'" in setting its target Federal Fund rate,  which specifies
+R't = Q + β1 (outputt — potential output) + β1 (inflationt — target [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md))
+- The “forward looking" [Taylor rule](../../International%20Finance/Economic%20Stabilization%20Notes/Topics%20in%20Fiscal%20and%20Monetary%20Policies%20and%20Stabilization-%20Empirical%20Issues.md) uses "expected [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)" and expected output to their realized values.
+ - The result above can be casted in terms of [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.6 [Asset price](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) reactions to [monetary policy](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) surprises|[monetary policy](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md)]] actions$$
 r_{t}=\alpha+\gamma (\overline {{g}} _{t}-\mathsf{p o t e n t i a l\ o u t p u t})+(\overline {{\pi}} _{t}-\mathsf{t a r g e t}
 $$  
 
-Where $\begin{array}{r}{\alpha=\rho-\frac{\gamma^{2}}{2}\sigma_{g}^{2}-\frac{1}{2}\sigma\pi^{2}-\gamma\sigma\pi\sigma_{g}\rho_{\pi,          g}+\gamma\mathsf{p o t e n t i a l\ o u t}}\end{array}$ tput + target [[War Economies and Hyperinflation|inflation]]
+Where $\begin{array}{r}{\alpha=\rho-\frac{\gamma^{2}}{2}\sigma_{g}^{2}-\frac{1}{2}\sigma\pi^{2}-\gamma\sigma\pi\sigma_{g}\rho_{\pi,          g}+\gamma\mathsf{p o t e n t i a l\ o u t}}\end{array}$ tput + target [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)
 
 # The Dynamics of the Real Rate
-- From previous results and using Ito's formula,  the real rate follows a [[An [[Overview of Financial Markets|Overview]] of the [[The Vasicek Model|Vasicek]] [[The Vasicek Model|Short Rate Model]]|[[Vasicek Short Rate Model|Vasicek Model]]]]$$
+- From previous results and using Ito's formula,  the real rate follows a [Overview](An%20[[Overview%20of%20Financial%20Markets) of the [Vasicek](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) [Short Rate Model](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md)|[Vasicek Model](Vasicek%20Short%20Rate%20Model.md)]]$$
 d r_{r e a l,          t}=\beta_{g}\left (\overline {{r}} _{r e a l}-r_{r e a l,          t}\right) d t+\sigma_{r e a l}d W_{\overline {{g}} }
 $$  
 
@@ -1679,7 +1679,7 @@ $$
 \overline {{{r}} }_{r e a l}=\rho+\gamma\frac{\alpha_{g}}{\beta_{g}}-\frac{\gamma^{2}\sigma_{\overline {{{g}} }}^{2}}{2};\quad\sigma_{r e a l}=\gamma\sigma_{\overline {{{g}} }}
 $$  
 
- - The real zero-coupon bond [[Arbitrage Pricing of Derivatives|pricing]] formula is then
+ - The real zero-coupon bond [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formula is then
 $$
 Z_{r e a l}(t,          T)=e^{\overline {{A}} (t,          T)-C (t,          T) r_{r e a l,          t}}
 $$  
@@ -1691,33 +1691,33 @@ $$
 
  - where $\overline {{r}} _{r e a l}^{*}=\overline {{r}} _{r e a l}-\gamma\sigma_{g}\sigma_{r e a l}\rho_{\rho,          r e a l}$
 
- - The [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|risk neutral]] process of the real rate is
+ - The [risk neutral](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) process of the real rate is
 $$
 d r_{r e a l,          t}=\beta_{g}\left (\overline {{r}} _{r e a l}^{*}-r_{r e a l,          t}\right) d t+\sigma_{r e a l}d W_{\overline {{g}} }^{*}
 $$  
 # Fitting Real Vasicek to TlPS
 - We can use TiPS again to extract the real zero coupon bond prices
-·The procedure is the same for nominal [[The Vasicek Model|Vasicek]] (see TN 7),  except with the additional difficulty that we may not know what the short-term real rate $r_{r e a l,          t}$ actually is.
+·The procedure is the same for nominal [Vasicek](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) (see TN 7),  except with the additional difficulty that we may not know what the short-term real rate $r_{r e a l,          t}$ actually is.
 - One possibility is to estimate $r_{r e a l,          t}$ as well together with other quantities.
 ·For instance,  fixing $\sigma_{r e a l}=. 00967$ (estimated from the time series of real rates),  we estimate the following parameters for November 27,  2007:$$
 \beta_{g}^{*}=0.0166,         \ \ {\overline {{r}} }_{r e a l}^{*}=0.1695,         \ \ r_{r e a l,          0}=0.0046
 $$  
 
- - The fit is not as good as with the Extended [[Advanced Usage of QuantLib analytics library|Nelson-Siegel model]] in this case
+ - The fit is not as good as with the Extended [Nelson-Siegel model](../../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) in this case
 
-- Next figure shows the fitted [[The Vasicek Model|term structure]] of real rates.
+- Next figure shows the fitted [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) of real rates.
 # Vasicek Fit to TlPS on November 27,  2007
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/185d4d6134b1c8b8ebcfcef3a300d16377e52f107ee2e39f60d8420d9059ddac.jpg)
+ ![500](Attachments/500-111.jpg)
 
 Data Source: Bloomberg
 
 # Conclusions
-- The [[The Vasicek Model|term structure]] of interest rate depend on:
-1. Expectation of future [[War Economies and Hyperinflation|inflation]] 2. Expectation of future real growth 3. A whole set of risk premia - [[War Economies and Hyperinflation|Inflation]] risk premium - Expected [[War Economies and Hyperinflation|inflation]] risk premium - Expected growth risk premium
-- Multi-factor models tend to fit well the [[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]]
-- The above setting with expected [[War Economies and Hyperinflation|inflation]] and expected GDP growth can be gen eralized to any factors $\phi_{1,          t},         \;\phi_{2,          t}….$
-- Moreover,  [[Arbitrage Pricing of Derivatives|pricing]] formulas can be obtained using no-[[Arbitrage Pricing of Derivatives|arbitrage]] methodologies,  as in TN 7.
+- The [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) of interest rate depend on:
+1. Expectation of future [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) 2. Expectation of future real growth 3. A whole set of risk premia - [Inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) risk premium - Expected [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) risk premium - Expected growth risk premium
+- Multi-factor models tend to fit well the [term structure of interest rates](../../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md)
+- The above setting with expected [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and expected GDP growth can be gen eralized to any factors $\phi_{1,          t},         \;\phi_{2,          t}….$
+- Moreover,  [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formulas can be obtained using no-[arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) methodologies,  as in TN 7.
 # Appendix: Derivation of Two Factor Model
 
 Define
@@ -1735,7 +1735,7 @@ $$
 \begin{array}{r c l}{d\overline {{\pi}} _{t}\!}&{=}&{\!\left (\alpha_{\pi}-\beta_{\pi}\pi_{t}\right) d t+\sigma_{\overline {{\pi}} }d W_{\overline {{\pi}} }}\\ {d\overline {{g}} \!}&{=}&{\!\left (\alpha_{g}-\beta_{g}\pi_{t}\right) d t+\sigma_{\overline {{g}} }d W_{\overline {{g}} }}\end{array}
 $$  
 
-From the [[Definitions and Immediate Consequences|pricing equation]] we have
+From the [pricing equation](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Definitions%20and%20Immediate%20Consequences.md) we have
 $$
 Z\left (t,          T\right)=E\left[e^{-\rho\left (T-t\right)-\left (q\left (T\right)-q\left (t\right)\right)-\gamma\left (y\left (T\right)-y\left (t\right)\right)}\right]
 $$  
@@ -1745,7 +1745,7 @@ $$
 \begin{array}{l l l} {{Z\left(t,         T\right)}} & {{=}} & {{E\left[e^{-\rho\left(T-t\right)-\eta\left(q\left(T\right)-q\left(t\right)\right)-\gamma\left(y\left(T\right)-y\left(t\right)\right)}\right]}} \\ {{\ }} & {{=}} & {{e^{\eta q\left(t\right)+\gamma y\left(t\right)}E\left[e^{-\rho\left(T-t\right)}G\left(q\left(T\right),         y\left(T\right)\right)\right]}} \\ {{\ }} & {{=}} & {{e^{\eta q\left(t\right)+\gamma y\left(t\right)}V\left(q,         y,         \overline{{{\pi}} },         \overline {{{g}} },          t\right)}}\end{array}
 $$  
 
-WV/hen $\eta=1$ we have the case for nominal bonds. When $\eta=0$ wehave thecase of real bonds. When $\eta$ is intermediate,  this can be considered a case in which [[War Economies and Hyperinflation|inflation]] affects the utility function of agents directly. A case in the literature is the one of money illusion
+WV/hen $\eta=1$ we have the case for nominal bonds. When $\eta=0$ wehave thecase of real bonds. When $\eta$ is intermediate,  this can be considered a case in which [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) affects the utility function of agents directly. A case in the literature is the one of money illusion
 
 From the Feynman Kac formula,  we have that $V$ satisfies
 $$
@@ -1762,7 +1762,7 @@ $$
 V\left (q,          y,         \overline {{{\pi}} },         \overline {{{g}} },          t\right)=e^{-\eta q (t)-\gamma y (t)+A (t; T)-\eta B (t; T)\overline {{{\pi}} }-\gamma C (t; T)\overline {{{g}} }}
 $$  
 
-Taking the [[Vasicek Short Rate Model|first derivatives]]
+Taking the [first derivatives](Vasicek%20Short%20Rate%20Model.md)
 $$
 {\begin{array}{r l}{V_{t}}&{=\,         \,         \left[A^{\prime}\left (t; T\right)-\eta B^{\prime}\left (t; T\right){\overline {{\pi}} }-\gamma C^{\prime}\left (t; T\right){\overline {{g}} }\right]V}\\ {V_{q}}&{=\,         \,         -\eta V; V_{q q}=\eta^{2}V; V_{q y}=\eta\gamma V; V_{q\overline {{\pi}} }=\eta^{2}B\left (t; T\right) V; V_{q\overline {{g}} }=\eta\gamma C\left (t; T\right) V}\\ {V_{y}}&{=\,         \,         -\gamma V; V_{y y}=\gamma^{2}V; V_{y\overline {{\pi}} }=\gamma\eta B\left (t,          T\right); V_{y\overline {{g}} }=\gamma^{2}C\left (t,          T\right)}\\ {V_{\overline {{\pi}} }}&{=\,         \,         -\eta B\left (t,          T\right) V; V_{\overline {{\pi\pi}} }=\eta^{2}B\left (t,          T\right)^{2}V; V_{\overline {{\pi g}} }=\eta\gamma B\left (t,          T\right) C\left (t,          T\right) V}\\ {V_{\overline {{g}} }}&{=\,         \,         -\gamma C\left (t,          T\right) V; V_{\overline {{g g}} }=\gamma^{2}C\left (t,          T\right)^{2}V}\end{array}}
 $$  
@@ -1812,32 +1812,32 @@ $$
 
 # The Notional Amount of Over-the-Counter Derivatives
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1522c1eb598d9cfbcdbf0a79e249c90dabdd7ec1213a3716a8a7ab0da272cc9d.jpg)
+ ![500](Attachments/500-111.jpg)
 
 Panel A.Millions of Us Dollars
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/616d286095da6074941d5d2b75e281bc47dd03a503c5fe560104f80650426cc2.jpg)
+ ![500](Attachments/500-125.jpg)
 
 Panel B. Multiple of Global GDP
 
-# Interest Rate Derivatives: Forwards and [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|Forward Rate Agreements]]
+# Interest Rate Derivatives: Forwards and [](A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Forward%20Rate%20Agreements%20(FRAs)%20Overview|Forward%20Rate%20Agreements)
 
- - Effective [[Financial Mathematics Course|risk management]] is carried out using [[Chapter 9 Arbitrage and Hedging With Options|derivatives]],  such as forward,  [[Futures Not Subject to Cash-And-Carry|futures]],  and swaps
+ - Effective [risk management](../../Financial%20Engineering/Financial%20Mathematics%20Course.md) is carried out using [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md),  such as forward,  [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md),  and swaps
 
- - Forward contracts and [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[EURIBOR Forward Rate Agreements and Futures|Forward Rate Agreements]] (FRAs) [[Overview of Financial Markets|Overview]]|[[EURIBOR Forward Rate Agreements and Futures|Forward Rate Agreements]]]] allow firms to lock in [[Interest Rate Quotations|interest rates]] in the future
+ - Forward contracts and [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[Forward Rate Agreements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) (FRAs) [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|[Forward Rate Agreements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md)]] allow firms to lock in [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) in the future
 
-- A [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[EURIBOR Forward Rate Agreements and Futures|Forward Rate Agreements]] (FRAs) [[Overview of Financial Markets|Overview]]|[[Forward Points in Currency|Forward Rate]] Agreement]](FRA) is a contract between two counter parties who agree at time O to exchange the following net payment at a future date $T_{2}$
+- A [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[Forward Rate Agreements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) (FRAs) [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|[Forward Rate](../../Clippings/Forward%20Points%20in%20Currency.md) Agreement]](FRA) is a contract between two counter parties who agree at time O to exchange the following net payment at a future date $T_{2}$
 -where $r_{n}(T_{1},          T_{2})$ is a $n$ -times compounded floating reference rate,  $f_{n}$ is a fixed rate,  $N$ is the notional,  and $\Delta=1/n$
 ·Example: Today $\left (T_{0}\right)$ is January 2,  2020 (we will treat this as January 1 …) and suppose a firm has a $\$ 100$ million receivable in six months on June 30,  2020. Ignoring overnight investing:
-- If the firm will not need that cash immediately,  but,  say,  six month later,  it can lock-in an [[An Asset Allocation Primer|investment]] rate today for the future period $T_{1}=0.5$ is July 1,  2020 to $T_{2}=1$ isDecember 31,  2020 by entering into a [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[EURIBOR Forward Rate Agreements and Futures|Forward Rate Agreements]] (FRAs) [[Overview of Financial Markets|Overview]]|[[Forward Points in Currency|Forward Rate]] Agreement]](FRA) with a bank. $^*$ Assume the bank quotes the (semi-annually compounded) annualized rate of $f_{2}=1.59\%$ When the firm receive $\$ 100$ million in six months $\left (T_{1}\right)$ it can invest it at the then current floating rate $r_{2}(T_{1},          T_{2})=r_{2}(0.5,         1)$ ,  which is not known today.
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e246247ef2e4e50f005c66a3352e7a42cef41fee938d44809d066af21ca4732c.jpg)
+- If the firm will not need that cash immediately,  but,  say,  six month later,  it can lock-in an [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) rate today for the future period $T_{1}=0.5$ is July 1,  2020 to $T_{2}=1$ isDecember 31,  2020 by entering into a [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[Forward Rate Agreements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) (FRAs) [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|[Forward Rate](../../Clippings/Forward%20Points%20in%20Currency.md) Agreement]](FRA) with a bank. $^*$ Assume the bank quotes the (semi-annually compounded) annualized rate of $f_{2}=1.59\%$ When the firm receive $\$ 100$ million in six months $\left (T_{1}\right)$ it can invest it at the then current floating rate $r_{2}(T_{1},          T_{2})=r_{2}(0.5,         1)$ ,  which is not known today.
+ ![500](Attachments/500-126.jpg)
 # Hedging Interest Rate Risk
 
 Clearly,  using the banks offer locks in the rate $f_{2}$ for the period $T_{1}$ to $T_{2}$ for the firm,  as
 $$
 \begin{array}{l}{=\;\left\{\$ 100\;\mathsf{m i l i o n}\;\times\left[1+\displaystyle\frac{r_{2}(0.5,         1)}{2}\right]\right\}}\\ {\quad+\left\{\displaystyle\frac{N}{2}\times[f_{2}-r_{2}(0.5,         1)]\right\}}\\ {=\;\$ 100\;\mathsf{m i l i o n}\;\times\left[1+\displaystyle\frac{f_{2}}{2}\right]}\\ {=\;\$ 100\mathsf{m i l i o n}\times\left[1+\displaystyle\frac{0.0159}{2}\right]}\\ {=\;\$ 100.79\;\mathsf{m i l i o n}}\end{array}
 $$  
-- The question is: How does the bank determine the [[Forward Points in Currency|forward rate]] $f_{2}?$
+- The question is: How does the bank determine the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) $f_{2}?$
 - Through a simple trading strategy.
 # Trading Strategy to Compute Forward Rate
 
@@ -1850,28 +1850,28 @@ Of T-bills maturing at $T_{2}$
 
 Receive $1.0079\times\$ 100~\mathsf{m}$
 
-Enter [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[EURIBOR Forward Rate Agreements and Futures|Forward Rate Agreements]] (FRAs) [[Overview of Financial Markets|Overview]]|FRA]] with Firm $\begin{array}{r l r}&{}&{\mathsf{P a y~}_{\mathsf{2}}^{\mathsf{100~m}}\times\left[f_{2}\left (0,         0.5,         1\right)-r_{2}\left (0.5,         1\right)\right.}\\ &{}&{\mathsf{T o t a l~N e t~C a s h~F l o w=0~}\quad\mathsf{T o t a l~N e t~C a s h~F l o w=}}\end{array}$ 一 Total Net Cash $\mathsf{F l o w}=0$ 0
+Enter [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[Forward Rate Agreements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) (FRAs) [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|FRA]] with Firm $\begin{array}{r l r}&{}&{\mathsf{P a y~}_{\mathsf{2}}^{\mathsf{100~m}}\times\left[f_{2}\left (0,         0.5,         1\right)-r_{2}\left (0.5,         1\right)\right.}\\ &{}&{\mathsf{T o t a l~N e t~C a s h~F l o w=0~}\quad\mathsf{T o t a l~N e t~C a s h~F l o w=}}\end{array}$ 一 Total Net Cash $\mathsf{F l o w}=0$ 0
 
  - The bank is perfectly hedged.
 
-- Note also that the quoted [[Forward Points in Currency|forward rate]] is effectively implicit in the ratic$$
+- Note also that the quoted [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) is effectively implicit in the ratic$$
 M=\frac{Z (0,         0.5)}{Z (0,         1)}=1+\frac{f_{\mathrm{2}}}{2}
 $$  
 
 In the first step of the trading strategy
 
-- This fact leads to the notion of the forward [[Discount Factors|discount factor]],  given by $1/M$
+- This fact leads to the notion of the forward [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md),  given by $1/M$
 # The Forward Discount Factor
 
- - The forward [[Discount Factors|discount factor]] at time $t$ defines the time value of money between two future dates,  $T_{1}$ and $T_{2}>T_{1}$
+ - The forward [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) at time $t$ defines the time value of money between two future dates,  $T_{1}$ and $T_{2}>T_{1}$
 
-- Given the discount factors $Z (t,          T_{1})$ and $Z (t,          T_{2})$ ,  the forward [[Discount Factors|discount factor]] is given by$$
+- Given the discount factors $Z (t,          T_{1})$ and $Z (t,          T_{2})$ ,  the forward [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) is given by$$
 F (t,          T_{1},          T_{2})=\frac{Z (t,          T_{2})}{Z (t,          T_{1})}
 $$  
-- Indeed,  note that in the example $Z (0,         0.5)\,         =\,          0.9918$ and $Z (0,         1)\,         =\,          0.9840$ implying a forward [[Discount Factors|discount factor]]$$
+- Indeed,  note that in the example $Z (0,         0.5)\,         =\,          0.9918$ and $Z (0,         1)\,         =\,          0.9840$ implying a forward [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md)$$
 F (0,         0.5,         1)=\frac{Z (0,         1)}{Z (0,         0.5)}=0.9921
 $$  
-- From any [[Discount Factors|discount factor]] (forward or not),  we can compute the $n$ -times compounded rate as$$
+- From any [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) (forward or not),  we can compute the $n$ -times compounded rate as$$
 F_{n}\left (t,          T_{1},          T_{2}\right)=n\times\left (\frac{1}{F\left (t,          T_{1},          T_{2}\right)^{\frac{1}{n\times\left (T_{2}-T_{1}\right)}}}-1\right)
 $$  
 
@@ -1880,27 +1880,27 @@ $$
 F_{2}(0,         0.5,         1)=2\times\left (\frac{1}{F\left (0,         0.5,         1\right)^{\frac{1}{2\times 0.5}}}-1\right)=1.59\%,         
 $$  
 # The Spot Curve and the Forward Curve
-- The forward curve gives the relation between the [[Forward Points in Currency|forward rate]] $f (0,          T,          T+\Delta)$ and the time of the [[An Asset Allocation Primer|investment]] $T$ . Curves on January 2,  2020
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/311a0bd9a819131bc3d91eed4dd9d1055238f9af47a3269a02bb24fd8914c56f.jpg)
+- The forward curve gives the relation between the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) $f (0,          T,          T+\Delta)$ and the time of the [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $T$ . Curves on January 2,  2020
+ ![500](Attachments/500-111.jpg)
 Data Source: US Treasury.
 # The Value of a Forward Rate Agreement
-- In previous example,  suppose 3 months later,  on April 1,  2020,  the firm decides to close its [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[EURIBOR Forward Rate Agreements and Futures|Forward Rate Agreements]] (FRAs) [[Overview of Financial Markets|Overview]]|FRA]] - As [[Interest Rate Quotations|interest rates]] changed between January and April,  so did the value of the FRA. -Recall bank's earlier strategy:$(a)$ short one T-bill maturing at $T_{1}$ and $(b)$ long $M=1.0079$ T-bills maturing at $T_{2}$ This [[An Asset Allocation Primer|portfolio]] $(a)+(b)$ replicates the [[Preview of the Book|cash flow]] that the firm will receive. $\Longrightarrow$ its value at $t=$ value of the [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[EURIBOR Forward Rate Agreements and Futures|Forward Rate Agreements]] (FRAs) [[Overview of Financial Markets|Overview]]|FRA]] for the firm. Thus:$\textbf{t}=V^{F R A}\left (t\right)=M\times Z (t,          T_{2})-Z (t,          T_{1})$
+- In previous example,  suppose 3 months later,  on April 1,  2020,  the firm decides to close its [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[Forward Rate Agreements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) (FRAs) [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|FRA]] - As [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) changed between January and April,  so did the value of the FRA. -Recall bank's earlier strategy:$(a)$ short one T-bill maturing at $T_{1}$ and $(b)$ long $M=1.0079$ T-bills maturing at $T_{2}$ This [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $(a)+(b)$ replicates the [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) that the firm will receive. $\Longrightarrow$ its value at $t=$ value of the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[Forward Rate Agreements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) (FRAs) [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|FRA]] for the firm. Thus:$\textbf{t}=V^{F R A}\left (t\right)=M\times Z (t,          T_{2})-Z (t,          T_{1})$
 - On April 1,  2020 $(=t)$ ,  we had $Z (t,          T_{1})=\$ 0.9993$ and $Z (t,          T_{2})=\$ 0.9981$ . Therefore
-VFRA (t) =1.0079 x $: Z (t,          T_{2})-Z (t,          T_{1})=1.0079\times\$ 0.9981-\$ 0.9993=\$ 0.00$ 0671 million - => On April 1,  2020,  the [[A Guide to the Front End and Basis Swap Markets#Forward Rate Agreements (FRAs) Overview|FRA]] initiated 3 months earlier was worth \$671,  176.83 to the firm.
+VFRA (t) =1.0079 x $: Z (t,          T_{2})-Z (t,          T_{1})=1.0079\times\$ 0.9981-\$ 0.9993=\$ 0.00$ 0671 million - => On April 1,  2020,  the [](A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Forward%20Rate%20Agreements%20(FRAs)%20Overview|FRA) initiated 3 months earlier was worth \$671,  176.83 to the firm.
 In general,  using the definition $1+f_{n}(t,          T_{1},          T_{2})\Delta=Z (t,          T_{1})/Z (t,          T_{2})$ ,  we have$$
 \begin{array}{l} {{\displaystyle{\cal V}^{F R A}(t)~=~{\cal N}\times{\cal Z}(t,         T_{2})\times\left[{\cal M}-\frac{{\cal Z}(t,         T_{1})}{{\cal Z}(t,         T_{2})}\right]}} \\ {{~=~{\cal N}\times{\cal Z}(t,         T_{2})\times\Delta\times\left[f_{n}(0,         T_{1},         T_{2})-f_{n}(t,         T_{1})\right]}} \end{array}
 $$  
 # Changing Yield Curve
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2149aa3314795f714baea328b93cdec2cdce58d983c690200e4e1cc3c6112cd4.jpg)
+ ![500](Attachments/500-76.jpg)
 
 # Interest Rate Derivatives: Swaps
-- A plain vanilla fixed-for-floating [[Primer on Interest Rate Swaps|interest rate swap]] is an agreement between two counterparties to [[Fundamentals of Swaps|exchange cash flows]] at $T_{1},         \,          T_{2},         …,         \,          T_{n}=T$ With $T_{i}=T_{i-1}+\Delta$ according to$T_{i}=N\times\Delta\times[r_{n}(T_{i-1})-c]$
-Where $n=1/\Delta$ is the reference rate [[Interest Rate Quotations|compounding frequency]]
-- The constant $c$ is called [[Teaching Note 4 Interest Rate Derivatives|swap rate]].
+- A plain vanilla fixed-for-floating [interest rate swap](../../Financial%20Engineering/Primer%20on%20Interest%20Rate%20Swaps.md) is an agreement between two counterparties to [exchange cash flows](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%204%20-%20Swap%20Markets/Fundamentals%20of%20Swaps.md) at $T_{1},         \,          T_{2},         …,         \,          T_{n}=T$ With $T_{i}=T_{i-1}+\Delta$ according to$T_{i}=N\times\Delta\times[r_{n}(T_{i-1})-c]$
+Where $n=1/\Delta$ is the reference rate [compounding frequency](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)
+- The constant $c$ is called [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md).
 - How do we determine the Value of a Swap?
-- At inception,  the value is zero,  as the counter parties agree to swap future payments,  not today - After inception,  as the floating [[Profit and Loss Attribution with an OAS|rate changes]],  so does the value of the swap
-- Consider the party with net [[Preview of the Book|cash flow]] (7). This party is effectively long a floating rate bond $(P_{F R}(t,          T))$ and short a fixed rate bond with coupon $c\left (P_{c}(t,          T)\right)$$-\implies$ the value of the swap is$$
+- At inception,  the value is zero,  as the counter parties agree to swap future payments,  not today - After inception,  as the floating [rate changes](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Profit%20and%20Loss%20Attribution%20with%20an%20OAS.md),  so does the value of the swap
+- Consider the party with net [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) (7). This party is effectively long a floating rate bond $(P_{F R}(t,          T))$ and short a fixed rate bond with coupon $c\left (P_{c}(t,          T)\right)$$-\implies$ the value of the swap is$$
 V^{s w a p}(t; c,          T)=P_{F R}(t,          T)-P_{c}(t,          T)
 $$  
 -At every $T_{i}$ ,  the value of $P_{F R}(T_{i},          T)=100$ . Therefore,  at these times$$
@@ -1908,9 +1908,9 @@ C,          T)=100-\left (\frac{c}{2}\times 100\times\sum_{j=i+1}^{M}Z (T_{i},  
 $$  
 # The Swap Rate and the Swap Curve
 
-How is the [[Teaching Note 4 Interest Rate Derivatives|swap rate]] $c$ determined?
+How is the [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) $c$ determined?
 
-The [[Teaching Note 4 Interest Rate Derivatives|swap rate]] $c$ is given by that number that makes $V^{s w a p}(0; c,          T)=0$ in (8)
+The [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) $c$ is given by that number that makes $V^{s w a p}(0; c,          T)=0$ in (8)
 
 - Rewriting the equation for any payment frequency $n$ and payment dates $T_{1},         \,         \dots\,          T_{M}$ ,  wehave$$
 T)=100-\left (\frac{c}{n}\times 100\times\sum_{j=1}^{M}Z (0,          T_{j})+Z (0,          T_{M})\times 100\right)=
@@ -1918,10 +1918,10 @@ $$
 - Solving this equation for $c$ we find$$
 C=n\times\left (\frac{1-Z\left (0,          T_{M}\right)}{\Sigma_{j=1}^{M}Z\left (0,          T_{j}\right)}\right)
 $$  
-- The [[Determining the Expression for the Fair Value of the Swap Spread|swap curve]] at time $t$ is the set of swap rates (at time $t$ ) for all maturities $T_{1},         \,          T_{2},         \,         …,         \,          T_{M}$ - I denote the [[Determining the Expression for the Fair Value of the Swap Spread|swap curve]] at time $t$ by $c\left (t,          T_{i}\right)$ for $i=1,         …,         M.$
-# The Swap Curve and the "Classic" [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] Curve
-- The [[Determining the Expression for the Fair Value of the Swap Spread|swap curve]] implicitly contains the discount factors $Z (0,          T_{i})$ that market participants use to quote swaps in the OTC market.
-From the [[Determining the Expression for the Fair Value of the Swap Spread|swap curve]],  we can then bootstrap out such discounts by inverting (11)$$
+- The [swap curve](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Determining%20the%20Expression%20for%20the%20Fair%20Value%20of%20the%20Swap%20Spread.md) at time $t$ is the set of swap rates (at time $t$ ) for all maturities $T_{1},         \,          T_{2},         \,         …,         \,          T_{M}$ - I denote the [swap curve](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Determining%20the%20Expression%20for%20the%20Fair%20Value%20of%20the%20Swap%20Spread.md) at time $t$ by $c\left (t,          T_{i}\right)$ for $i=1,         …,         M.$
+# The Swap Curve and the "Classic" [](A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#London%20Interbank%20Offered%20Rate%20(LIBOR)|LIBOR) Curve
+- The [swap curve](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Determining%20the%20Expression%20for%20the%20Fair%20Value%20of%20the%20Swap%20Spread.md) implicitly contains the discount factors $Z (0,          T_{i})$ that market participants use to quote swaps in the OTC market.
+From the [swap curve](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Determining%20the%20Expression%20for%20the%20Fair%20Value%20of%20the%20Swap%20Spread.md),  we can then bootstrap out such discounts by inverting (11)$$
 Z\left (t,          T_{1}\right)\;=\;{\frac{1}{1+{\frac{c (t,          T_{1})}{n}}}}
 $$  
 
@@ -1930,32 +1930,32 @@ $$
 Z\left (t,          T_{i}\right)\;=\;{\frac{1-{\frac{c (t,          T_{i})}{n}}\times\Sigma_{j=1}^{i-1}Z\left (t,          T_{j}\right)}{1+{\frac{c (t,          T_{i})}{n}}}}
 $$  
 
-The resulting yield curve is called [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] curve.
+The resulting yield curve is called [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] curve.
 
 # Treasury and Swap Discount and Yield on January 4,  2005
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4795f4b9e88b9e8683e0b72a3e0437466e8ed33fe2b6360439c75e97f3b934bd.jpg)
+ ![500](Attachments/500-86.jpg)
 
 DataSource: Federal Reserve andCRSP
 
 # The 5-year Zero Coupon Treasury and Swap Yield
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3e62082eddc8b6ce9bb08e1f883e51c12707ded39bc8dfb78fd645ea82c7884a.jpg)
+ ![500](Attachments/500-89.jpg)
 
 DataSource: Bloomberg and CRS P
 
 # Swap Spread Trades and the Risk in Convergence Trades
 - Today is June 30,  2006,  and we are looking to make a profit on the swap spread.
  - The market presented the following data:
-- 3-month LIBOR: 5.5081% - 3-month repo rate: $5.27\%$ - 5-year [[Teaching Note 4 Interest Rate Derivatives|swap rate]]: $5.69\%$ - 5-year T-note with a $5.125\%$ coupon priced at \$100.1172,  and yield-to-maturity $5.10\%$
-The swap spread equals the yield to maturity of the Treasury note minus the [[Teaching Note 4 Interest Rate Derivatives|swap rate]]$$
+- 3-month LIBOR: 5.5081% - 3-month repo rate: $5.27\%$ - 5-year [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md): $5.69\%$ - 5-year T-note with a $5.125\%$ coupon priced at \$100.1172,  and yield-to-maturity $5.10\%$
+The swap spread equals the yield to maturity of the Treasury note minus the [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md)$$
 S S=5.69\%-5.10\%=0.59\%=59~b p
 $$  
 - That is,  receiving the fixed rate from the swap and paying the yield in a short T-notes would return 59 basis points per year.
-- To secure this return of 59 basis points,  we have to pay the [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] rate,  as part of the swap,  and receives the repo rate,  as part of a reverse repo transaction to short the T-note.
+- To secure this return of 59 basis points,  we have to pay the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] rate,  as part of the swap,  and receives the repo rate,  as part of a reverse repo transaction to short the T-note.
 # The LIBOR-Repo Spread
 
-The spread between [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] and repo (LRS) is
+The spread between [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] and repo (LRS) is
 $$
 L R S=5.5081\%-5.27\%=0.2381\%
 $$  
@@ -1963,30 +1963,30 @@ $$
 The net spread is $S S-L R S=35.19$ bps.
 
 - This spread is not very large,  but the LIBOR-repo spread has been historically relatively stable at around 21 bps and so this net spread $\left (S S-L R S\right)$ still appears a relatively safe trade. - Using daily data from Jan 2000 to Jun 2006,  the distribution of the LlBOR-repo spread is as
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c7208c1dc23115224d69814caaf6baf565830577ae063ed4466ed3eebcda4c37.jpg)
+ ![500](Attachments/500-95.jpg)
 Data Source: Bloomberg.
 - Even in extreme circumstances,  the net spread would be at least $0.59\%-0.37\%=22$ bps
 # The Trade
 
 We finally decided to go ahead,  and enter into the following transactions i
 
-1. Short the 5-year bond through a reverse repo transaction. In [[Preview of the Book|cash flow]] terms,  the fund would receive the repo rate and pay the coupon.
-1. Enter into a [[Swaptions|fixed-for-floating swap]],  in which we would receive fixed and pay LIBOR
+1. Short the 5-year bond through a reverse repo transaction. In [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) terms,  the fund would receive the repo rate and pay the coupon.
+1. Enter into a [fixed-for-floating swap](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Swaptions.md),  in which we would receive fixed and pay LIBOR
 # Reverse Repo
 - We want to set up a \$100 million trade. Thus,  we need to sel$$
 N={\frac{\$ 100{\mathsf{m i l i o n}}}{100.1172}}=998,         829{\mathsf{\; T r e a s u r y\; n o t e s\;}}({\mathsf{f o r\;}}\$ 100{\mathsf{\; p}}
 $$  
 -Assuming haircut $=\,          0$ ,  we then borrow $N\,         =\,          998$ ,  829 5-year T-notes from the repo dealer,  sells them in the cash market for \$1 oo million,  and gives this cash to the repo dealer.
 - Assume we enter into a term reverse repo with 3-months maturity,  and rolls it over every three months.
-- Because the repo dealer keeps the \$i 00 million at every reset date,  our total [[Preview of the Book|cash flow]] every quarteris$\mathsf{C F}(t)=\left\{\begin{array}{l l}{\frac{\$ 100\ \mathsf{m m}}{4}\times r (t-0.25)-N\times 100\times\frac{5.125\%}{2}}\\ {\frac{\$ 100\ \mathsf{m m}}{4}\times r (t-0.25)}\end{array}\right.$ if $t$ is a coupon date Reverse repo otherwise
+- Because the repo dealer keeps the \$i 00 million at every reset date,  our total [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) every quarteris$\mathsf{C F}(t)=\left\{\begin{array}{l l}{\frac{\$ 100\ \mathsf{m m}}{4}\times r (t-0.25)-N\times 100\times\frac{5.125\%}{2}}\\ {\frac{\$ 100\ \mathsf{m m}}{4}\times r (t-0.25)}\end{array}\right.$ if $t$ is a coupon date Reverse repo otherwise
 # The Trade
 # Fixed-for-Floating Swap
-- We have to enter into a 5-year,  [[Swaptions|fixed-for-floating swap]] in which we pay the 3-month [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] rate and receive the 5-year [[Interest Rate Swaps|fixed swap rate]].
-\* In a plain vanilla [[Swaptions|fixed-for-floating swap]],  the floating payments occur at quarterly frequency,  while the fixed payments occur at [[PSET 2 Solution-Financial Instruments|semi-annual frequency]],  therefore exactly matching the payment frequency of the reverse repo transaction discussed earlier.
--Denoting $\ell (t)$ is the 3-month [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] rate at time $t$ ,  the [[Chapter 34 - Pricing Interest Rate Swaps|swap cash flows]] are then given by $\mathsf{C F}(t)=\left\{\begin{array}{r}{\underbrace{\$ 100~\mathsf{m m}\times\frac{5.69\%}{2}-\frac{\$ 100~\mathsf{m m}}{4}\times\ell (t-0.25)}}\\ {-\frac{\$ 100~\mathsf{m m}}{4}\times\ell (t-0.25)}\end{array}\right.$ if $t$ is fixed payment date Swap otherwise
+- We have to enter into a 5-year,  [fixed-for-floating swap](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Swaptions.md) in which we pay the 3-month [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] rate and receive the 5-year [fixed swap rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Swaps.md).
+\* In a plain vanilla [fixed-for-floating swap](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Swaptions.md),  the floating payments occur at quarterly frequency,  while the fixed payments occur at [semi-annual frequency](../../Financial%20Instruments/Assignments/Solutions/PSET%202%20Solution-Financial%20Instruments.md),  therefore exactly matching the payment frequency of the reverse repo transaction discussed earlier.
+-Denoting $\ell (t)$ is the 3-month [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] rate at time $t$ ,  the [swap cash flows](../../Financial%20Engineering/Derivatives/Part%20VIII%20-%20Swaps/Chapter%2034%20-%20Pricing%20Interest%20Rate%20Swaps.md) are then given by $\mathsf{C F}(t)=\left\{\begin{array}{r}{\underbrace{\$ 100~\mathsf{m m}\times\frac{5.69\%}{2}-\frac{\$ 100~\mathsf{m m}}{4}\times\ell (t-0.25)}}\\ {-\frac{\$ 100~\mathsf{m m}}{4}\times\ell (t-0.25)}\end{array}\right.$ if $t$ is fixed payment date Swap otherwise
 # The Quarterly Cash Flow
-- It is useful to decompose the quarterly [[Preview of the Book|cash flow]] in two components,  the swap spread (SS) component and the LIBOR-repo spread (LRS) component.
-- We have that every six months,  the swap spread component of the [[Preview of the Book|cash flow]] is$$
+- It is useful to decompose the quarterly [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) in two components,  the swap spread (SS) component and the LIBOR-repo spread (LRS) component.
+- We have that every six months,  the swap spread component of the [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) is$$
 =\;\$ 100\;{\sf m m}\times\frac{5.69\%}{2}-N\times 100\times\frac{5.125\%}{2}\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\
 $$  
 
@@ -2003,63 +2003,63 @@ $$
 
 # The Swap Spread and LIBOR-Repo Spread
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9238c2649daad6ff34974cdc4bef8dfd60d8cd1a6f49b4945fae9dbcc6a19092.jpg)
+ ![500](Attachments/500-114.jpg)
 
 Source: Federal Reserve and Bloomberg.
 
 # Net Cash Flows from Swap Spread Trade
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/65e4fb507e77c84d81edad8f6919acae57723e4535d3d30a177b10b369175cca.jpg)
+ ![500](Attachments/500-111.jpg)
 
 # Unwinding the Position?
 - Given the large negative quarterly payments due to the increase in the LIBOR-repo spread,  we may start thinking about whether we should unwind their position.
 - First question is: What is the value of the position?
 The Value of the Reverse Repo
--- The ex-coupon value of the [[Dollar Rolls|repo position]] on rollover quarter $t$ is$t=\$ 100\mathsf{m m}-N\times P_{n o t e}(t,          T)$
--where $P_{n o t e}(t,          T)$ is the value of the T-note at time $t$  - The Value of the [[Swaptions|Fixed-for-Floating Swap]] - As time passes and [[Interest Rate Quotations|interest rates]] fluctuate,  the value of the swap changes. We have
--where $P_{F R}(t,          T)$ is the LIBOR-based floating rate bond,  and $P_{c}(t,          T)$ is the fixed rate coupon bond with coupon $c=5.69\%=g$ [[Teaching Note 4 Interest Rate Derivatives|swap rate]],  given by$$
+-- The ex-coupon value of the [repo position](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2015/Dollar%20Rolls.md) on rollover quarter $t$ is$t=\$ 100\mathsf{m m}-N\times P_{n o t e}(t,          T)$
+-where $P_{n o t e}(t,          T)$ is the value of the T-note at time $t$  - The Value of the [Fixed-for-Floating Swap](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Swaptions.md) - As time passes and [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) fluctuate,  the value of the swap changes. We have
+-where $P_{F R}(t,          T)$ is the LIBOR-based floating rate bond,  and $P_{c}(t,          T)$ is the fixed rate coupon bond with coupon $c=5.69\%=g$ [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md),  given by$$
 P_{c}(t,          T)=\frac{100\times 5.69\%}{2}\times\sum_{i=1}^{n_{t}}Z (t,          T_{i})+100\times Z (t,          T_{n_{t}})
 $$  
--Here,  $Z (t,          T_{i})$ is the [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] [[Advanced Usage of QuantLib analytics library|discount curve]] (see next Figure)
-# The [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] Curve: June 2006 - June 2008
+-Here,  $Z (t,          T_{i})$ is the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] [discount curve](../../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) (see next Figure)
+# The [](A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#London%20Interbank%20Offered%20Rate%20(LIBOR)|LIBOR) Curve: June 2006 - June 2008
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/143755d223e217eaf8ca2928af96074ca6d27115893c6b0c5b63f5710856ef2b.jpg)
+ ![500](Attachments/500-100.jpg)
 
 # The Surprise
 - On March,  2008,  as we start unwinding the position,  we have a good news: the value of the swap is now \$10.21 million.
-- Indeed,  the LlBOR yield curve now [[Exotic Interest Rate Options|ranges]] between $2.7\%$ at 1 month,  and $3.3\%$ at 5 years,  which pushes up the value of the fixed part of the swap to \$1 io. 21 million. - Because the floating part is always equal to $\$ 100$ million at reset dates,  by closing the position we would obtain an inflow of \$10.21 million.
+- Indeed,  the LlBOR yield curve now [ranges](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) between $2.7\%$ at 1 month,  and $3.3\%$ at 5 years,  which pushes up the value of the fixed part of the swap to \$1 io. 21 million. - Because the floating part is always equal to $\$ 100$ million at reset dates,  by closing the position we would obtain an inflow of \$10.21 million.
 - However,  as we close the swap,  we have also to close the reverse repo
-- The bad news is that now the T-note we are [[Short Selling|shorting]] is trading at \$110.23 - Given the accrued interest of $\Updownarrow 1.28$ ,  the total losses from the short position amount to $\$ 100$ million 一 $N\times\$ 111.51=-\$ 11.38$ million.
+- The bad news is that now the T-note we are [shorting](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Short%20Selling.md) is trading at \$110.23 - Given the accrued interest of $\Updownarrow 1.28$ ,  the total losses from the short position amount to $\$ 100$ million 一 $N\times\$ 111.51=-\$ 11.38$ million.
 - In sum,  to close the position on March,  2008,  we receive \$10.21 million from the swap,  but we have to pay \$11.38 million on the reverse repo,  for a total loss of \$1.16 million. This number far outweighs the cumulative cash flows we have so far received.
 # The Swap Spread Trade Value
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8169240a592b485b55a359a25d1f24f055fc7afde840d98b1bd3a7049250ddf9.jpg)
+ ![500](Attachments/500-113.jpg)
 
 # Conclusion: The Risk in Relative Value Trades
 1. Cost of Carry,  due to the variation in the cost-of-carry,  i.e. the cash-flow per period that a trade is expected to generate.
 - In swap spread trade,  it is the difference between the swap spread and the LIBOR-repo rate - An arb it rage urs may find that holding up the trade is generating cash outflows that outstrip the expected gain from convergence.
- 1. [[Chapter 5 - Index Futures|Market Risk]],  that is,  the potential capital losses due to the variation in the underlying spread. - In a relative value trade speculators bet on the convergence of the underlying spread to an average level. - However,  such spread may either not converge to the average level,  or just widen for a while
+ 1. [Market Risk](../../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md),  that is,  the potential capital losses due to the variation in the underlying spread. - In a relative value trade speculators bet on the convergence of the underlying spread to an average level. - However,  such spread may either not converge to the average level,  or just widen for a while
 1. Funding Risk,  that is,  the ability to hold up the position until maturity
-- Even for those ([[Arbitrage Pricing of Derivatives|arbitrage]]) trades in which a hedge fund is certain to make profits if it holds the position until maturity,  it is quite possible that the spread may widen further before it narrows. - If the spread widens,  then the hedge fund would potentially suffer large capital losses.  - It is then key for the hedge fund survival that it has sufficient capital in cash or a large borrowing capacity that makes it able to withstand the capital loss.
+- Even for those ([arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)) trades in which a hedge fund is certain to make profits if it holds the position until maturity,  it is quite possible that the spread may widen further before it narrows. - If the spread widens,  then the hedge fund would potentially suffer large capital losses.  - It is then key for the hedge fund survival that it has sufficient capital in cash or a large borrowing capacity that makes it able to withstand the capital loss.
 # Funding Risk during the Crisis?
 - Funding risk is especially important during periods of crisis,  for a number of reasons
-1. All risk-based spreads - the spreads between a risky securities and [[US Markets|Treasury securities]] - tend to widen,  as investors dump risky securities and purchase safe U.S. Treasuries$-\implies$ Relative value trades experience large capital losses
-1. Lenders are more wary of [[Default Risk and Credit Derivatives 183|default risk]],  and increase haircuts,  margins,  etc.,  making capital effectively more scarce
+1. All risk-based spreads - the spreads between a risky securities and [Treasury securities](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/US%20Markets.md) - tend to widen,  as investors dump risky securities and purchase safe U.S. Treasuries$-\implies$ Relative value trades experience large capital losses
+1. Lenders are more wary of [default risk](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/Default%20Risk%20and%20Credit%20Derivatives%20183.md),  and increase haircuts,  margins,  etc.,  making capital effectively more scarce
 - It becomes harder for a hedge fund to keep up the position.
-1. Investors withdraw money from [[Basis Trade Explainer|hedge funds]],  if they can - [[Basis Trade Explainer|Hedge funds]] must liquidate positions,  at a loss.
+1. Investors withdraw money from [hedge funds](../../Financial%20Engineering/Basis%20Trade%20Explainer.md),  if they can - [Hedge funds](../../Financial%20Engineering/Basis%20Trade%20Explainer.md) must liquidate positions,  at a loss.
 ·- Next figure shows negative swap spreads during the crisis for long term swaps
 # Negative Swap Spreads during the Crisis
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/486fd7fd6a1adbf391ad80885ec4e628c8daddd3cbdce9e8430cc2042a235a35.jpg)
+ ![500](Attachments/500-95.jpg)
 
 # Negative Swap Spread and No Arbitrage
 
-Negative swap spreads are a [[The Limits Of Arbitrage|textbook arbitrage]] opportunity: - Buy Treasury and pay fixed in a fixed for floating swap
+Negative swap spreads are a [textbook arbitrage](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Limits%20Of%20Arbitrage.md) opportunity: - Buy Treasury and pay fixed in a fixed for floating swap
 $$
 T=\left (c^{T-B o n d}-c^{s w a p}\right)+\left (L I B O R_{t}-R E P O_{t}\right)
 $$  
-- Both terms are positive. The first because of the negative swap spread,  and the second because [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] is the rate for un [[Class Note 12 Part 2 Repos|collateralized borrowing]],  while REPO is the rate for [[Class Note 12 Part 2 Repos|collateralized borrowing]].
-- This is a [[The Limits Of Arbitrage|textbook arbitrage]] opportunity $i f$ an arb it rage ur can hold the position to maturity
+- Both terms are positive. The first because of the negative swap spread,  and the second because [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] is the rate for un [collateralized borrowing](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Class%20Note%2012%20Part%202%20Repos.md),  while REPO is the rate for [collateralized borrowing](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Class%20Note%2012%20Part%202%20Repos.md).
+- This is a [textbook arbitrage](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Limits%20Of%20Arbitrage.md) opportunity $i f$ an arb it rage ur can hold the position to maturity
  - The risk of the spread increasing further,  generating severe capital losses,  may make arb it rage urs wary of entering the market.
 At reset dates. The value of the trade is$$
 V_{t}^{T r a d e}=(P_{c}^{T-B o n d}(t,          T)-P_{c}^{S w a p}(t,          T))
@@ -2067,16 +2067,16 @@ $$
 - If the swap spread becomes even more negative,  e.g. the yield on T-bond increases while the one of the swap remains the same,  then $V_{t}^{T r a d e}$ decreases even more.
 # Negative Spreads Continue
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bbd5b110214cefb075bbee81556810ca74a28aa89f23308aed097dbb6fd28119.jpg)
+ ![500](Attachments/500-103.jpg)
 
 Source: Federal Reserve Board,  H0.\1 release
 
 Chart 1 from Boyar chen ko et. Al. (2018) "Negative Swap Spreads,  " Federal Reserve Bank of New York Economic Policy Review
 
 # Violation of no-arbitrage during the 2007 - 2008 crisis
-- The violation of no-[[Arbitrage Pricing of Derivatives|arbitrage]] rules was widespread during the recent crisis
- - For instance,  another simple [[Arbitrage Pricing of Derivatives|arbitrage]] restriction that was violated was the [[Financial Instruments PSET Solutions|covered interest rate parity]] (CiP)
-- The simple rule in the [[Foreign Exchange Markets and Exchange Rate Determination|foreign exchange market]] according to which the [[A Primer on Currency Derivatives|forward exchange rate]] $F_{t,          T}$ equals the spot $M_{t}$ times the ratio of [[An Asset Allocation Primer|investment]] rates in domestic versus foreign country. -For instance,  if $M_{t}=U S/E U R O$ exchange rate,  then$$
+- The violation of no-[arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) rules was widespread during the recent crisis
+ - For instance,  another simple [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) restriction that was violated was the [covered interest rate parity](../../Financial%20Instruments/Financial%20Instruments%20PSET%20Solutions.md) (CiP)
+- The simple rule in the [foreign exchange market](../../International%20Finance/Foreign%20Exchange%20Markets%20and%20Exchange%20Rate%20Determination.md) according to which the [forward exchange rate](../../Financial%20Engineering/A%20Primer%20on%20Currency%20Derivatives.md) $F_{t,          T}$ equals the spot $M_{t}$ times the ratio of [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) rates in domestic versus foreign country. -For instance,  if $M_{t}=U S/E U R O$ exchange rate,  then$$
 F_{t,          T}=M_{t}e^{(r_{\Updownarrow}-r_{e})(T-t)}
 $$  
 
@@ -2089,64 +2089,64 @@ Before and during the crisis.
 
 # CIP Violation during the 2007 - 2009 Financial Crisis: Euro / Dollal
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/94801829ce3dd2037e2867b314eeea380cdc0addf38e78b90dc86d395eea655c.jpg)
+ ![500](Attachments/500-113.jpg)
 
 # CIP Violation during the 2007 - 2009 Financial Crisis: UKP / Dollal
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c05e882bf46886cf97eaeddce6636657121113006355e0a1980ad8e0e318e189.jpg)
+ ![500](Attachments/500-92.jpg)
 
 # Why Did Covered Interest Rate Parity Fail during the 2007-2009 Crisis?
-- Holding [[Credit Market Homework 1|US Treasuries]] has its own “convenience yield" when everyone needs cash collateral.
+- Holding [US Treasuries](../../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Homework%201.md) has its own “convenience yield" when everyone needs cash collateral.
 During the crisis,  from the graph,  we had the following violation:$$
 F_{t,          t+m}^{d a t a}>F_{t,          t+m}=M_{t}\ e^{(r_{\Updownarrow}-r_{e}) m}
 $$  
-- Recall that in this case,  an [[PSET 1 Solution-Financial Instruments|arbitrage trade]] requires the following
-(a) Short Euro forward; (b) borrow dollars (or sell [[Credit Market Homework 1|US Treasuries]]); (c) change them into Euro; (d) invest in Euro (or buy Euro bonds)
+- Recall that in this case,  an [arbitrage trade](../../Financial%20Instruments/Assignments/Solutions/PSET%201%20Solution-Financial%20Instruments.md) requires the following
+(a) Short Euro forward; (b) borrow dollars (or sell [US Treasuries](../../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Homework%201.md)); (c) change them into Euro; (d) invest in Euro (or buy Euro bonds)
 But point (b) failed during the crisis,  as:
-1. Increase in [[Quantitative Trading Strategies Lecture Notes|credit risk]] concerns impaired the ability of any financial institution to borrow; 2. Holding safe dollars ([[Credit Market Homework 1|US Treasuries]]) is valuable during a [[Squam Lake Group Letter|financial crisis]] for [[Class Note 10 [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|Liquidity]] and Class Note 10 [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|Liquidity]] and [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|Liquidity]] Managementliquidity management|[[Class Slides Effects of MMF Regulations in the United States|liquidity management]]]] - [[Credit Market Homework 1|US Treasuries]] are the only collateral accepted for short-term lending transactions. - It is very valuable to hold on to them for future cash management
+1. Increase in [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) concerns impaired the ability of any financial institution to borrow; 2. Holding safe dollars ([US Treasuries](../../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Homework%201.md)) is valuable during a [financial crisis](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Letter.md) for [Liquidity](Class%20Note%2010%20[[Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management) and Class Note 10 [Liquidity](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) and [Liquidity](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) Managementliquidity management|[liquidity management](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Class%20Slides%20Effects%20of%20MMF%20Regulations%20in%20the%20United%20States.md)]] - [US Treasuries](../../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Homework%201.md) are the only collateral accepted for short-term lending transactions. - It is very valuable to hold on to them for future cash management
 # Cross-Currency Basis Risk after the Crisis
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c0148955112dd7b6ccc46589b25bc4e00b87fe8067b046a7ce1ae3ffc23398a5.jpg)
+ ![500](Attachments/500-94.jpg)
 
-Figure 5 from Du,  Tepper,  and Verdelhan (2017),  “Deviations form [[Financial Instruments PSET Solutions|Covered Interest Rate Parity]],  " working paper.
+Figure 5 from Du,  Tepper,  and Verdelhan (2017),  “Deviations form [Covered Interest Rate Parity](../../Financial%20Instruments/Financial%20Instruments%20PSET%20Solutions.md),  " working paper.
 
 # Issues with LIBOR
 
 Until January 31,  2014: British Bankers Association (BBA) LlBOR
 
-- Survey of a panel of banks - Banks could underestimate their [[Notes on Currency Swaps|borrowing costs]] - Conflict within the bank: impact of [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] setting on [[Chapter 9 Arbitrage and Hedging With Options|derivatives]] trading
+- Survey of a panel of banks - Banks could underestimate their [borrowing costs](../../Financial%20Engineering/Notes%20on%20Currency%20Swaps.md) - Conflict within the bank: impact of [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] setting on [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) trading
 Now ICE LIBOR
 - ICE now the benchmark administrator - Regulator in UK: Financial Conduct Authority (FCA) - Rules for fall-back rates if there are issues
 # Alternatives
 
-SOFR: "[[SOFR|Secured Overnight Financing Rate]]'
+SOFR: "[Secured Overnight Financing Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2010/SOFR.md)'
 
 -ARRC: Alternative Reference Rates Committee
 
 Uthers:
 
-- SONlA (Sterling Over Night Indexed Average) - EONlA (Euro Overnight Index Average) - TONAR (Tokyo Overnight Average Rate) -- SARON (Swiss Average Rate Over-Night) - Measure of overnight secured borrrowing. - Collateralized [[Credit Market Homework 1|US Treasuries]] in the repo market. - Very liquid and likely resilient markets: \$1 trillion in daily volume - Contrast: USD [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] three-month tenor: about $\$ 1$ billion - Published by New York Fed. Along with 30-day,  90-day and 180-day averages
+- SONlA (Sterling Over Night Indexed Average) - EONlA (Euro Overnight Index Average) - TONAR (Tokyo Overnight Average Rate) -- SARON (Swiss Average Rate Over-Night) - Measure of overnight secured borrrowing. - Collateralized [US Treasuries](../../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Homework%201.md) in the repo market. - Very liquid and likely resilient markets: \$1 trillion in daily volume - Contrast: USD [](A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#London%20Interbank%20Offered%20Rate%20(LIBOR)|LIBOR) three-month tenor: about $\$ 1$ billion - Published by New York Fed. Along with 30-day,  90-day and 180-day averages
 # Transition
 
-·[[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] market: $\mathbb{S}200+$ trillion of financial transactions contracts reference LlBOR
+·[Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] market: $\mathbb{S}200+$ trillion of financial transactions contracts reference LlBOR
 
-- [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] permeates many contracts for in [[Chapter 1 Introduction to Securities Trading and Markets|securities markets]] and the corporate world: leases,  debt;
-- [[Chapter 9 Arbitrage and Hedging With Options|Derivatives]] market with Central Clearing Partners (e.g. CME .. )
-- Cleared US Dollar [[Primer on Interest Rate Swaps|interest rate swap]] contracts at CME: move to SOFR discounting - Intercontinental Exchange (ICE) Benchmark Administration: USD [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] benchmarks will stopped
+- [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] permeates many contracts for in [securities markets](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%201%20Introduction%20to%20Securities%20Trading%20and%20Markets.md) and the corporate world: leases,  debt;
+- [Derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) market with Central Clearing Partners (e.g. CME .. )
+- Cleared US Dollar [interest rate swap](../../Financial%20Engineering/Primer%20on%20Interest%20Rate%20Swaps.md) contracts at CME: move to SOFR discounting - Intercontinental Exchange (ICE) Benchmark Administration: USD [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] benchmarks will stopped
 - Fannie and Freddie: have moved bo SOFR contracts
 - New York Fed: conducts repo and reverse repo through tri-party repo
 # SOFR Derivatives
 
 As an example: at the CME
 
-- [[Futures Not Subject to Cash-And-Carry|Futures]]: 3-month and 1-month. Using compounding or simple averages.
-- Term SOFR Reference rates based on [[Mathematics of the Financial Markets|futures contracts]]
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b905e0214568db6336c8ee10dff43269114bceabfc920c76eb8fc5384d19d252.jpg)
+- [Futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md): 3-month and 1-month. Using compounding or simple averages.
+- Term SOFR Reference rates based on [futures contracts](../../Financial%20Engineering/Mathematics%20of%20the%20Financial%20Markets.md)
+ ![500](Attachments/500-80.jpg)
 Some History
 # Overnight Index Swaps (Is)
-- In a OlS,  the two counter parties agree to exchange [[Overnight Index Swaps (OIS)|fixed for floating payments]],  where the floating payment is tied to the cumulative return from an overnight rate
-- [[Topics in Fiscal and Monetary Policies and Stabilization- Empirical Issues|Federal funds rate]],  SOFR in US. Europe: short-term rate (ESTR),  (formerly Euro OverNight Index Average (EONlA) rate).
-- Given a notional $N$ ,  the [[Overnight Index Swaps (OIS)|floating rate payment]] at time $T_{i}$ is$$
+- In a OlS,  the two counter parties agree to exchange [fixed for floating payments](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Overnight%20Index%20Swaps%20(OIS).md),  where the floating payment is tied to the cumulative return from an overnight rate
+- [Federal funds rate](../../International%20Finance/Economic%20Stabilization%20Notes/Topics%20in%20Fiscal%20and%20Monetary%20Policies%20and%20Stabilization-%20Empirical%20Issues.md),  SOFR in US. Europe: short-term rate (ESTR),  (formerly Euro OverNight Index Average (EONlA) rate).
+- Given a notional $N$ ,  the [floating rate payment](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Overnight%20Index%20Swaps%20(OIS).md) at time $T_{i}$ is$$
 C F\left (T_{i}\right)=N\left (\prod_{j=1}^{n_{j}}\left (1+r_{t_{j}}\delta\right)-1\right)
 $$  
 
@@ -2162,21 +2162,21 @@ $$
 Is with longer maturities have normally quarterly payments
 # What is the value of Is?
 
-·- The value of Is is the difference between the [[Pricing Interest Rate Swaps|floating leg]] and the [[Pricing Interest Rate Swaps|fixed leg]]
+·- The value of Is is the difference between the [floating leg](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) and the [fixed leg](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md)
 $$
 V_{t}^{O I S}=V_{t}^{F l o a t i n g}-V_{t}^{F i x e d}
 $$  
-- [[Pricing Interest Rate Swaps|Floating Leg]]: At reset dates,  and assuming the payment of a principal at maturity of the swap. The value of the [[Pricing Interest Rate Swaps|floating leg]] is par.
+- [Floating Leg](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md): At reset dates,  and assuming the payment of a principal at maturity of the swap. The value of the [floating leg](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) is par.
 -- Indeed,  investing the notional $N$ in the overnight index daily gives at $T_{i}$$$
 N\,         \prod_{j=1}^{n_{j}}\left (1+r_{t_{j}}\Delta\right)=C F\left (T_{i}\right)+N
 $$  
-$-\implies$ we can replicate the floating payments,  plus a residual of notional at maturity $T_{i}$ ,  withan [[An Asset Allocation Primer|investment]] $N$ at time O.
+$-\implies$ we can replicate the floating payments,  plus a residual of notional at maturity $T_{i}$ ,  withan [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $N$ at time O.
 
 -It follows
 $$
 V_{0}^{F l o a t i n g}=N
 $$  
-- [[Pricing Interest Rate Swaps|Fixed leg]]: Given a proper [[Basic Interest Rate Concepts and Relations|discount function]] $Z^{O I S}\left (0,          T_{i}\right)$ ,  we obtain$$
+- [Fixed leg](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md): Given a proper [discount function](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Basic%20Interest%20Rate%20Concepts%20and%20Relations.md) $Z^{O I S}\left (0,          T_{i}\right)$ ,  we obtain$$
 V_{0}^{F i x e d}=N\; c\;\Delta\;\sum_{i=1}^{n}Z^{O I S}\left (0,          T_{i}\right)+N\; Z^{O I S}\left (0,          T_{n}\right)
 $$  
 
@@ -2187,7 +2187,7 @@ $$
 V_{0}^{O I S}=V_{0}^{F l o a t i n g}-V_{0}^{F i x e d}=0
 $$  
 
-This equation implies that the [[Teaching Note 4 Interest Rate Derivatives|swap rate]] $c$ can be computed from
+This equation implies that the [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) $c$ can be computed from
 $$
 1=c\,         \Delta\,         \,         \sum_{i=1}^{n}Z^{O I S}\left (0,          T_{i}\right)+Z^{O I S}\left (0,          T_{n}\right)
 $$  
@@ -2205,17 +2205,17 @@ We obtain the relation:$$
 Z^{O I S}\left (0,          T_{i}\right)=\frac{1-c\left (T_{i}\right)\,         \,         \Delta\,         \,         \Sigma_{j=1}^{i-1}\,          Z^{O I S}\left (0,          T_{j}\right)}{1+c\left (T_{i}\right)\Delta}
 $$  
 - Recalling,  however,  that OlS with maturity less than or equal to 1 year generally have only one payment.
-- Next Figure shows an example of boots trapping from OlS quotes,  on January 2,  2009. Panel A reports the original Is quotes from Bloomberg. Panel B uses the quotes from Panel A along with bootstrap methodology (23) and defines the OlS [[Basic Interest Rate Concepts and Relations|discount function]] $Z^{O I S}(0,          T)$
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ec3ed89c2ce67670c671be4a57173f73adcefef91fe9e9c7fa1c7402b854cbe3.jpg)
+- Next Figure shows an example of boots trapping from OlS quotes,  on January 2,  2009. Panel A reports the original Is quotes from Bloomberg. Panel B uses the quotes from Panel A along with bootstrap methodology (23) and defines the OlS [discount function](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Basic%20Interest%20Rate%20Concepts%20and%20Relations.md) $Z^{O I S}(0,          T)$
+ ![500](Attachments/500-120.jpg)
 Data Source: Bloomberg
-# Is and [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] Discount Curve on January 2 nd,  2007
+# Is and [](A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#London%20Interbank%20Offered%20Rate%20(LIBOR)|LIBOR) Discount Curve on January 2 nd,  2007
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8a7e2bbbeaa4344066c0d2e21134d4024c427927c017911b015731e5ca825d94.jpg)
+ ![500](Attachments/500-111.jpg)
 
 - However,  if we try after the crisis,  we obtain the following figure.
-# Is and [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] Discount Curve on January 2 nd,  2009
+# Is and [](A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#London%20Interbank%20Offered%20Rate%20(LIBOR)|LIBOR) Discount Curve on January 2 nd,  2009
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/44af31ac1c8e3f276b11a8cc9bccbb7efde05aae36bd9e13fb73cee79c0ed0a2.jpg)
+ ![500](Attachments/500-112.jpg)
 
 Data Source: Bloomberg
 
@@ -2228,15 +2228,15 @@ $$
 C F\left (T_{i+1}\right)=\Delta\times N\times\operatorname*{max}{\left (r_{n}\left (T_{i},          T_{i+1}\right)-r_{K},          0\right)}
 $$  
 
- - where $\Delta$ is the time interval between payments,  $N$ is the notional and $r_{n}\left (T_{i},          T_{i+1}\right)$ is the $n$ -times compounded [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] rate.
+ - where $\Delta$ is the time interval between payments,  $N$ is the notional and $r_{n}\left (T_{i},          T_{i+1}\right)$ is the $n$ -times compounded [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] rate.
 
 A floor pays
 $$
 C F\left (T_{i+1}\right)=\Delta\times N\times\operatorname*{max}\left (r_{K}-r_{n}\left (T_{i},          T_{i+1}\right),          0\right)
 $$  
 # Black's Formula for Caplet Valuation
-- It is market practice to use [[Chapter 40 - Pricing Fixed Income Options: Black’s Model and MCS|Black's model]] to value [[Interest Rate Derivatives-An Introduction to the  Pricing of Caps and Floors|Caps and Floors]]
- - The main assumption is that under risk-adjusted probabilities (called “forward [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|risk neutral]] probabilities"),  the [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] rate has a log-normal distribution:$$
+- It is market practice to use [Black's model](../../Financial%20Engineering/Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2040%20-%20Pricing%20Fixed%20Income%20Options:%20Black’s%20Model%20and%20MCS.md) to value [Caps and Floors](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Interest%20Rate%20Derivatives-An%20Introduction%20to%20the%20%20Pricing%20of%20Caps%20and%20Floors.md)
+ - The main assumption is that under risk-adjusted probabilities (called “forward [risk neutral](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) probabilities"),  the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] rate has a log-normal distribution:$$
 \ln\left (r_{n}\left (T_{i},          T_{i+1}\right)\right)\sim N\left (\mu_{i},         \sigma_{f,          i+1}^{2}T_{i}\right)
 $$  
 - Where we assume $\sigma_{f,          i+1}$ is a constant volatility and the subscript $i+1$ is maturity of the caplet.
@@ -2244,16 +2244,16 @@ $$
 \mathsf{c a p l e t}(T_{i+1})=\Delta\times N\times Z\left (0,          T_{i+1}\right)\left[f_{n}(0,          T_{i},          T_{i+1})\mathcal{N}\left (d_{1}\right)\right.
 $$  
 
- - where $f_{n}(0,          T_{i},          T_{i+1}$ is the [[Forward Points in Currency|forward rate]],  and
+ - where $f_{n}(0,          T_{i},          T_{i+1}$ is the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md),  and
 $$
 L_{1}=\frac{\ln\left (f_{n}(0,          T_{i},          T_{i+1})/r_{K}\right)+\sigma_{f,          i+1}^{2}T_{i}/2}{\sigma_{f,          i+1}\sqrt{T_{i}}};\quad d_{2}=d_{1}-\sigma_{f,          i+1}
 $$  
-- Notice: We discount the payoff using $Z\left (0,          T_{i+1}\right)$ and not $Z\left (0,          T_{i}\right)$ as the [[Preview of the Book|cash flow]] is realized at time $T_{i+1}$
+- Notice: We discount the payoff using $Z\left (0,          T_{i+1}\right)$ and not $Z\left (0,          T_{i}\right)$ as the [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) is realized at time $T_{i+1}$
 # Example
 - On November 1,  2004. Consider a 1-year,  quarterly cap with strike rate $r_{K}=2.555\%$
  - Assume this cap is trading at volatility $\sigma_{f}=23.5\%$
- - The current LlBOR [[Advanced Usage of QuantLib analytics library|discount curve]] is as follows
-- From the [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] curve,  we can compute the quarterly compounded forward rates:
+ - The current LlBOR [discount curve](../../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) is as follows
+- From the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] curve,  we can compute the quarterly compounded forward rates:
 - Forward Discount Factors$$
 F (0,          T_{i-1},          T_{i})=\frac{Z (0,          T_{i})}{Z (0,          T_{i-1})}
 $$  
@@ -2286,14 +2286,14 @@ C a p (1 Y)=0.0184+0.0617+0.1057=0.1859
 $$  
 # Flat Vol at ili ties and Forward Vol at ili ties
 
-[[Interest Rate Derivatives-An Introduction to the  Pricing of Caps and Floors|Caps and floors]] are quoted in terms of flat vol at ili ties - The volatility across caplets is kept constant for each cap.
+[Caps and floors](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Interest%20Rate%20Derivatives-An%20Introduction%20to%20the%20%20Pricing%20of%20Caps%20and%20Floors.md) are quoted in terms of flat vol at ili ties - The volatility across caplets is kept constant for each cap.
 
  - For example,  from Bloomberg (code SSRC),  one finds quotes such as
 Table 1: Quotes of Caps and Swaptions on November 1,  2004
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bdd461eaab545bb6188b67a7bccf74ca8cc19e7ea91e638775f38b2f653ee744.jpg)
+ ![500](Attachments/500-111.jpg)
 Source: Bloomberg.
-- Each entry is a flat volatility for an "at-the-money" instrument,  meaning that its strike rate (equal for all the caplets) is the [[Teaching Note 4 Interest Rate Derivatives|swap rate]] with the same maturity of the cap.
- - The payment frequency of the underlying [[Interest Rate Derivatives-An Introduction to the  Pricing of Caps and Floors|caps and floors]] is 3 months
+- Each entry is a flat volatility for an "at-the-money" instrument,  meaning that its strike rate (equal for all the caplets) is the [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) with the same maturity of the cap.
+ - The payment frequency of the underlying [caps and floors](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Interest%20Rate%20Derivatives-An%20Introduction%20to%20the%20%20Pricing%20of%20Caps%20and%20Floors.md) is 3 months
 - Since the first payment at horizon 3 months is known at time O,  it is practice to set this caplet equal to zero.
 # Flat Vol at ili ties and Forward Vol at ili ties
 
@@ -2301,7 +2301,7 @@ As an example,  from Table 1,  we obtain the following prices for caps
 
 Table 2: Cap Prices and Vol at ili ties
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b494600b0a6bab778090c95c3cc2c0dc698b4f67de728111b430c2a01c36cdf8.jpg)
+ ![500](Attachments/500-102.jpg)
 
 Data Source: Bloomberg.
 
@@ -2317,9 +2317,9 @@ Data Source: Bloomberg.
 - Next table illustrates the relation between forward volatility and flat volatility
 - The forward volatility is used to price individual caplets and thus obtain a value of the cap. - The flat volatility is used to quote the cap,  once its price is determined in the previous step. - The flat volatility is a sort of average (forward) volatility used for quoting purposes only
 Table 3: The Relation between Forward and Flat Volatility
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6627494f5d794cf121fc4096b0bb8a2c9e7e67ae72872a40e2c46cbfb3f00b2e.jpg)
+ ![500](Attachments/500-86.jpg)
 # Extracting the Forward Volatility from Flat Volatility
-- To set up [[Purpose and Structure of Financial Markets 1|arbitrage strategies]],  we need Forward Vol at ili ties,  and not Flat vol at ili ties.
+- To set up [arbitrage strategies](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Purpose%20and%20Structure%20of%20Financial%20Markets%201.md),  we need Forward Vol at ili ties,  and not Flat vol at ili ties.
 - How do we extract the Fwd volatility from the Flat volatility?
 - It is simple and analogous to the extraction of the discount $Z (t; T)$ from bonds and swaps. - We start from the shortest maturitity,  and then bootstrap the Fwd volatility out of the Flat volatility,  by using an iterative method.
  - Consider a cap with maturity $T_{i}$ and let $\sigma_{f}(T_{i})$ be its “flat volatility"
@@ -2367,25 +2367,25 @@ $$
 'a p l e t\left (T_{3},          r_{K,          3},         \sigma_{f}^{F w d}(T_{3})\right)=\$ 0.1096\quad\Longrightarrow\quad\sigma_{f}^{F w d}(T_{3})=2
 $$  
 -Figure 1 plots the forward and flat vol at ili ties on November 1,  2004
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ce2cf7919f6456d76076c6c66ebd4afa91532bcce10a1fba58872138e8dded9c.jpg)
+ ![500](Attachments/500-111.jpg)
 Figure 1: Forward and Flat Vol at ili ties
 - Flat vol at ili ties can be thought of a "cumulated averages" of forward vol at ili ties.
 Cap (quoted) volatility changes over time.
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4a07d8427b8b649998d29be97c2c414b47ea697fbb0abf80f03f563842b66f02.jpg)
+ ![500](Attachments/500-91.jpg)
 The average forward volatility curve is hump shapedi
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b47d4116f2caedbfc91566a3242ef9e22b398804e4aa4fa127a7f110118d974b.jpg)
+ ![500](Attachments/500-82.jpg)
 Figure 2: Average Forward Volatility: 1987 - 2008
 - The forward volatility has various shapes through time:
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/602cedaf1fd933fe9937956ce5a7392cca26de1c0c5ea80497af35395679e0a7.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8d8db47de5d8a0ae2da7c3d0d64b172dd6ba261a9af09d64df0ea68f481cb5c3.jpg)
+ ![500](Attachments/500-84.jpg)
+ ![500](Attachments/500-97.jpg)
 Figure 3: Forward and Flat Vol at ili ties
 The forward volatility is strongly time varying:
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2a7e91ade5011a14997498c5eafabc4b7760a4d08e64553222393aa631aefa37.jpg)
+ ![500](Attachments/500-91.jpg)
 Figure 4: Forward and Flat Vol at ili ties
 - Where $\mathsf{\Delta}^{\mathsf{u}}\mathsf{s l o p e}=\sigma_{f}^{F w d}(10)-\sigma_{f}^{F w d}(1)$ $\,         \,         {\it F W d}(1)\ "\ \mathsf{a n d}\ "\mathsf{c u r v a t u r e}=2\sigma_{f}^{F w d}(2)-\sigma_{f}^{F w d}(1)-\sigma_{f}^{F w d}(10)$
 # Put-Call Parity
-- A [[7. Black Scholes Model|put-call parity]] relationship exists for [[Interest Rate Derivatives-An Introduction to the  Pricing of Caps and Floors|caps and floors]]
-Clearly,  a [[An Asset Allocation Primer|portfolio]] of a long caplet and short floorlet with equal strikes gives$$
+- A [put-call parity](../../Financial%20Engineering/7.%20Black%20Scholes%20Model.md) relationship exists for [caps and floors](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Interest%20Rate%20Derivatives-An%20Introduction%20to%20the%20%20Pricing%20of%20Caps%20and%20Floors.md)
+Clearly,  a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of a long caplet and short floorlet with equal strikes gives$$
 \operatorname*{max}\left (r_{n}\left (\tau,          T\right)-r_{K},          0\right)-\operatorname*{max}\left (r_{K}-r_{n}\left (\tau,          T\right),          0\right)=r_{n}\left (\tau,         
 $$  
 - But this is the payoff to a swap. Hence,  we have$$
@@ -2393,12 +2393,12 @@ $$
 $$  
 # Swaptions
 
-·A buyer of a swaption has the right,  but not the obligation to enter into a swap with given characteristics (such as maturity,  [[Teaching Note 4 Interest Rate Derivatives|swap rate]],  payment frequency,  etc.) at a given maturity $T_{O}$
+·A buyer of a swaption has the right,  but not the obligation to enter into a swap with given characteristics (such as maturity,  [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md),  payment frequency,  etc.) at a given maturity $T_{O}$
 
-- In a [[Chapter 39 - Swaptions, Forward Swaps, and MBS|payer swaption]] the swaption buyer has the right to enter into a swap as a fixed-rate payer (and receive floating.) In a receiver swaption the swaption buyer has the right to enter into the swap as fixed-rate receiver (and pay floating).
-- For instance,  in Table 1,  an investor can purchase an at-the-money six-month option to enter into a 10-year swap at "[[A Real-Life Option Pricing Exercise|implied volatility]]" of $21.883\%$
+- In a [payer swaption](../../Financial%20Engineering/Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2039%20-%20Swaptions,%20Forward%20Swaps,%20and%20MBS.md) the swaption buyer has the right to enter into a swap as a fixed-rate payer (and receive floating.) In a receiver swaption the swaption buyer has the right to enter into the swap as fixed-rate receiver (and pay floating).
+- For instance,  in Table 1,  an investor can purchase an at-the-money six-month option to enter into a 10-year swap at "[implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md)" of $21.883\%$
 Table 1: Quotes of Caps and Swaptions on November 1,  2004
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cbe581cae55eefa3f7aff0baa1f3d7281e226c14a7ffa542bc6b69da70511fe9.jpg)
+ ![500](Attachments/500-84.jpg)
 Source: Bloomberg.
 # Swaptions
 - A swap,  recall,  is a contract between two parties to exchange at times $T_{1},         ..,          T_{n}$ the net cash flows$$
@@ -2414,12 +2414,12 @@ $$
 
  - Consider an option that gives its holder the right (not the obligation) to enter as the fixed rate receiver in the swap at time $T_{O}=T_{i^{*}}$ forsome $i^{*}<n$ ,  at the exercise rate $r_{K}$
 
- - Let $c\,          (T_{i^{*}},          T)$ be the market [[Teaching Note 4 Interest Rate Derivatives|swap rate]] at time $T_{i^{*}}$ for a swap maturing at $T$
+ - Let $c\,          (T_{i^{*}},          T)$ be the market [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) at time $T_{i^{*}}$ for a swap maturing at $T$
 
 -If $c\left (T_{i^{\ast}},          T\right)<r_{K}$ ,  optimal to exercise the option (and receive $r_{K}$ instead of lower $c\left(T_{i^{*}},         T\right))$ $\mathsf{I f}\,         c\left(T_{i^{*}},         T\right)>r_{K}$ ,  optimal not to exercise the option (better receive the market rate $c\left (T_{i^{*}},          T\right))$
 
 # Swaption Payoff
-- We now show that the payoff of a receiver swaption is positive if and only if the market [[Teaching Note 4 Interest Rate Derivatives|swap rate]] is below the strike [[Teaching Note 4 Interest Rate Derivatives|swap rate]]:$$
+- We now show that the payoff of a receiver swaption is positive if and only if the market [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) is below the strike [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md):$$
 V\left (T_{i^{\ast}},          r_{K}\right)>0\Longleftrightarrow c\left (T_{i^{\ast}},          T\right)<r_{K}
 $$  
 
@@ -2431,9 +2431,9 @@ $$
  - The value of a swap at time $T_{O}$ is positive if and only if $\left (r_{K}-c\left (T_{i^{*}},          T\right)\right)$
 
 # Swaption Payoff
-- Clearly,  the option buyer [[Exercises|exercises]] the option if and only if the payoff is positive,  so the receiver swap tion payoff at $T_{i^{*}}$ is
+- Clearly,  the option buyer [exercises](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) the option if and only if the payoff is positive,  so the receiver swap tion payoff at $T_{i^{*}}$ is
 Payoff of Receive $\textsf{r S w a p t i o n}\;=\;\sum_{j=i^{*}+1}^{n}Z\left (T_{i^{*}},          T_{j}\right)\Delta N\operatorname*{max}\left (r_{K}-c\left (T_{i^{*}},          T\right),         \right.$ 0
-The payoff to the swap is equivalent to the [[Preview of the Book|cash flow]]$$
+The payoff to the swap is equivalent to the [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md)$$
 \Delta N\operatorname*{max}\left (r_{K}-c\left (T_{i^{*}},          T\right),          0\right)
 $$  
 
@@ -2441,40 +2441,40 @@ Determined at $T_{i}^{*}$ ,  paid out at times $T_{i^{*}+1},          T_{i^{*}+2
 
 -- The payoff at each time $T_{i^{*}+j}$ is always the same determined at $T_{i^{*}}$
 
-- Similar,  the [[Chapter 39 - Swaptions, Forward Swaps, and MBS|payer swaption]] payoff at $T_{i^{*}}$ is$$
+- Similar,  the [payer swaption](../../Financial%20Engineering/Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2039%20-%20Swaptions,%20Forward%20Swaps,%20and%20MBS.md) payoff at $T_{i^{*}}$ is$$
 \mathsf{S w a p t i o n~}=\sum_{j=i^{*}+1}^{n}Z\left (T_{i^{*}},          T_{j}\right)\Delta N\operatorname*{max}\left (c\left (T_{i^{*}},          T\right)-r_{K},          0\right)
 $$  
 # Payoff of Receiver Swaption
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c20616253c864c218df6d07c92d9c8a063d683e062cc36e01326005d12b01db0.jpg)
+ ![500](Attachments/500-114.jpg)
 
 # Swaption Pricing
 
- - The price of the receiver swaption is obtained by [[Arbitrage Pricing of Derivatives|pricing]] each of those payments $\Delta N\operatorname*{max}\left (r_{K}-c\left (T_{i^{*}},          T\right),          0\right)$ at times $T_{i^{*}+1},          T_{i^{*}+2},         …,          T_{i^{*}+n}$ ,  individually
+ - The price of the receiver swaption is obtained by [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) each of those payments $\Delta N\operatorname*{max}\left (r_{K}-c\left (T_{i^{*}},          T\right),          0\right)$ at times $T_{i^{*}+1},          T_{i^{*}+2},         …,          T_{i^{*}+n}$ ,  individually
 
- - Like for [[Interest Rate Derivatives-An Introduction to the  Pricing of Caps and Floors|caps and floors]],  the Black's formula assumes that under the proper risk-adjusted probabilities,  the [[Teaching Note 4 Interest Rate Derivatives|swap rate]] $c\,          (T_{i^{*}},          T)$ is log-normally distributed
+ - Like for [caps and floors](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Interest%20Rate%20Derivatives-An%20Introduction%20to%20the%20%20Pricing%20of%20Caps%20and%20Floors.md),  the Black's formula assumes that under the proper risk-adjusted probabilities,  the [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) $c\,          (T_{i^{*}},          T)$ is log-normally distributed
 $$
 \log c\left (T_{i^{*}},          T\right)\sim\mathcal{N}(\mu,         \sigma_{T_{i^{*}}}^{2}T_{i^{*}})
 $$  
 
- - where $\sigma_{T_{i^{*}}}$ is the [[Teaching Note 4 Interest Rate Derivatives|swap rate]] volatility,  which is what is quoted by market participants. 2
+ - where $\sigma_{T_{i^{*}}}$ is the [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) volatility,  which is what is quoted by market participants. 2
 
  - Thus,  the (risk adjusted) expected value of a payer and receiver cash flows at $T_{i^{*}+j}$ are,  respectively,
 $$
 \begin{array}{r l}{\left.\left (c\left (T_{i^{*}},          T\right)-r_{K},          0\right)\right]\right]\;=}& {{}Z\left(0,         T_{i^{*}+j}\right)\;\left[f_{n}^{s}(0,         T_{i^{*}} ,          T)\mathcal{N}\left (d_{1}\right)\right.}\\ {\left.\left (r_{K}-c\left (T_{i^{*}},          T\right),          0\right)\right]\right]\;=}& {{}Z\left(0,         T_{i^{*}+j}\right)\;\left[-f_{n}^{s}(0,         T_{i^{*}} ,          T)\mathcal{N}\left (-\frac{r_{i^{*}}^{2}}{2\pi\epsilon}\right)\right],         }\end{array}
 $$  
 
- - where $f_{n}^{s}(0,          T_{i^{*}},          T)$ is the [[Chapter 39 - Swaptions, Forward Swaps, and MBS|forward swap]] rate. And
+ - where $f_{n}^{s}(0,          T_{i^{*}},          T)$ is the [forward swap](../../Financial%20Engineering/Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2039%20-%20Swaptions,%20Forward%20Swaps,%20and%20MBS.md) rate. And
 $$
 L_{1}=\frac{\ln{\left (f_{n}^{s}(0,          T_{i^{*}},          T)/r_{K}\right)}+\sigma_{T_{i^{*}}}^{2}T_{i^{*}}/2}{\sigma_{T_{i^{*}}}\sqrt{T_{i^{*}}}};\ \ \ \ d_{2}=d_{1}-\sigma_{T_{i^{*}}}\sqrt{T_{i^{*}}}
 $$  
 # Quoted Swaption Implied Volatility Surface
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/42a66ee6c0dbbee11e399f48f761157153ebf3514621ea40c80908841d144c31.jpg)
+ ![500](Attachments/500-87.jpg)
 
 # Swaption Pricing
 
-Hence,  the value of a [[Chapter 39 - Swaptions, Forward Swaps, and MBS|payer swaption]]
+Hence,  the value of a [payer swaption](../../Financial%20Engineering/Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2039%20-%20Swaptions,%20Forward%20Swaps,%20and%20MBS.md)
 $$
 \begin{array}{r l}{\mathsf{t i o n}\ =}&{\underset{j=i^{*}+1}{\overset{n}{\sum}}\Delta\times N\times Z\left (0,          T_{j}\right)\left[f_{n}^{s}(0,          T_{i^{*}},          T)\mathcal{N}\left (d_{1}\right)-r_{H}\mathcal{N}\left (d_{2}\right)\right]}\\ &{=\ A N\left[f_{n}^{s}(0,          T_{i^{*}},          T)\mathcal{N}\left (d_{1}\right)-r_{K}\mathcal{N}\left (d_{2}\right)\right]}\end{array}
 $$  
@@ -2490,25 +2490,25 @@ $$
 $$  
 # How do we compute the Forward Swap Rate?
 
-This is implicit in the forward [[Advanced Usage of QuantLib analytics library|discount curve]]
+This is implicit in the forward [discount curve](../../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md)
 $$
 F\left (0,          T_{i^{*}},          T\right)=\frac{Z\left (0,          T\right)}{Z\left (0,          T_{i^{*}}\right)}
 $$  
 
- - Using that just as a [[Basic Interest Rate Concepts and Relations|discount function]] and following the same steps as for regular [[Teaching Note 4 Interest Rate Derivatives|swap rate]],  we can compute the [[Chapter 39 - Swaptions, Forward Swaps, and MBS|Forward Swap]] Rate $f_{n}^{s}(0,          T_{i^{*}},          T)$ ,  for a swap starting at time $T_{i^{*}}$ andlasting until time $T_{n}$ ,  as
+ - Using that just as a [discount function](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Basic%20Interest%20Rate%20Concepts%20and%20Relations.md) and following the same steps as for regular [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md),  we can compute the [Forward Swap](../../Financial%20Engineering/Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2039%20-%20Swaptions,%20Forward%20Swaps,%20and%20MBS.md) Rate $f_{n}^{s}(0,          T_{i^{*}},          T)$ ,  for a swap starting at time $T_{i^{*}}$ andlasting until time $T_{n}$ ,  as
 $$
 F_{n}^{s}(0,          T_{i^{*}},          T)=\frac{1}{\Delta}\frac{1-F\left (0,          T_{i^{*}},          T_{n}\right)}{\Sigma_{j=i^{*}+1}^{n}F\left (0,          T_{i^{*}},          T_{i}\right)}
 $$  
 # Example
 - Today is November 1,  2004. Consider a 1-year swaption to enter into a 5-year swap at strike rate $r_{K}=3.751\%.$
- - Table 1 shows that such a swaption is trading at [[A Real-Life Option Pricing Exercise|implied volatility]] $\sigma_{f}^{s}=27.404\%$
- - Table 4 provides the [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] [[Advanced Usage of QuantLib analytics library|discount curve]] up to $T=6$
- - to derive the Forward [[Advanced Usage of QuantLib analytics library|Discount curve]] we also need $Z (0,         1)\times 100=97.48.$
+ - Table 1 shows that such a swaption is trading at [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) $\sigma_{f}^{s}=27.404\%$
+ - Table 4 provides the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] [discount curve](../../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) up to $T=6$
+ - to derive the Forward [Discount curve](../../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) we also need $Z (0,         1)\times 100=97.48.$
  - We then obtain$$
 A=\Delta\times\sum_{i=1}^{n}Z (0,          T_{i})=4.4046
 $$  
 
- - The [[Chapter 39 - Swaptions, Forward Swaps, and MBS|forward swap]] rate can be computed from the forward discounts using the previous formula $f_{4}^{s}(0,          T_{O},          T_{S})=4.261\%$
+ - The [forward swap](../../Financial%20Engineering/Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2039%20-%20Swaptions,%20Forward%20Swaps,%20and%20MBS.md) rate can be computed from the forward discounts using the previous formula $f_{4}^{s}(0,          T_{O},          T_{S})=4.261\%$
 $$
 \frac{3.751\%)+0.27404^{2}\times 1/2}{0.27404\times\sqrt{1}}=0.6023\ ,         \ d_{2}=0.6023-0.274
 $$
@@ -2522,7 +2522,7 @@ $$
 
 Table 4: LlBOR Discount and Forward Discount
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/00946d352773cb766d7a8cc6a2786a2edfdb83b6b24a729679f0a4ca6765ef33.jpg)
+ ![500](Attachments/500-113.jpg)
 
 Original Swap Data Source: Bloomberg.
 
@@ -2532,11 +2532,11 @@ The University of Chicago
 
 Booth School of Business
 
-1. [[Lecture Note 5- Black Scholes Formula|Black and Scholes Formula]]
-1.1 [[Lecture Note 5- Black Scholes Formula|Dynamic Replication]]
-1.2 Black and Scholes and the [[A Real-Life Option Pricing Exercise|Binomial]] Trees
+1. [Black and Scholes Formula](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Note%205-%20Black%20Scholes%20Formula.md)
+1.1 [Dynamic Replication](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Note%205-%20Black%20Scholes%20Formula.md)
+1.2 Black and Scholes and the [Binomial](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) Trees
 # Option Premium
-- Black,  Scholes and [[Credit Markets Session 5|Merton]] show that (under certain conditions) there exists a trading strategy involving only stocks and bonds that replicate the payoff at $T$ of a call or a put option.
+- Black,  Scholes and [Merton](../../Credit%20Markets/Credit%20Markets%20Session%205.md) show that (under certain conditions) there exists a trading strategy involving only stocks and bonds that replicate the payoff at $T$ of a call or a put option.
 ·Assume a stock $S_{t}$ has constant expected (log) return $\mu$ and constant volatility $\sigma$
 - That is,  if the log return during a small time interval $h$ be $R_{t}=l o g (S_{t+h}/S_{t})$ ,  assume$$
 E[R_{t}]=\mu\times h;~~E[R_{t}^{2}]=\sigma^{2}\times h
@@ -2544,25 +2544,25 @@ $$
 
 —( $\mu$ and $\sigma$ are the annualized expected log return and volatility)
 
- - Consider now a put option with [[Call and Put Payoffs at Expiry|strike price]] $K$ and maturity $T$  - The following trading strategy replicates the final payoff $\operatorname*{max}(K-S_{T},          0)$
+ - Consider now a put option with [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) $K$ and maturity $T$  - The following trading strategy replicates the final payoff $\operatorname*{max}(K-S_{T},          0)$
 # Option Premium by Dynamic Replication
 1. At time O:
 A Short $\Delta_{0}=-N (-d_{1,         0})$ of stocks
 Here $N (x)$ is the standard normal cumulative density function,  and $d_{1,          t}$ iS$$
 D_{1,          t}={\frac{\ln\left (S_{t}/K\right)+\left (r+\sigma^{2}/2\right)(T-t)}{\sigma{\sqrt{T-t}}}}
 $$  
-$r$ is the continuously compounded risk free rate; $\sigma$ is the volatility of stock [[Assets|returns]]
+$r$ is the continuously compounded risk free rate; $\sigma$ is the volatility of stock [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)
 
 (b) Buy an amount $B_{0}=K\times e^{-r\times T}\times N (-d_{2,         0})$ of Treasury Zero Coupon bonds
 
-Here $d_{2,         0}=d_{1,          t}-\sigma\times\sqrt{T}$ The [[An Asset Allocation Primer|portfolio]] so constructed has value at time 0
+Here $d_{2,         0}=d_{1,          t}-\sigma\times\sqrt{T}$ The [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) so constructed has value at time 0
 $$
 P_{0}=B_{0}+\Delta_{0}S_{0}
 $$  
 
 (it can be shown $P_{0}>0$
 
-1. From now on,  rebalance the [[An Asset Allocation Primer|portfolio]],  to make sure that at every $t$ ,  the [[An Asset Allocation Primer|portfolio]] has a position in stocks given by $\Delta_{t}=-N (-d_{1,          t})$
+1. From now on,  rebalance the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md),  to make sure that at every $t$ ,  the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) has a position in stocks given by $\Delta_{t}=-N (-d_{1,          t})$
 ·E.g. if $S_{t}\downarrow\implies\Delta_{t}\downarrow\implies$ short more stocks and put proceeds into bonds $\Longrightarrow B_{t}$ ·Or if $S_{t}\uparrow\implies\Delta_{t}\uparrow\implies$ buy back stocks by liquidating some bonds $\Longrightarrow B_{t}\downarrow$
 # Option Premium by Dynamic Replication
 
@@ -2570,62 +2570,62 @@ $$
 
 D 1 = . $-d_{1})=0.3632; N (-d_{2})=0.4404\Longrightarrow\Delta_{0}=-N (-d_{1})=-d_{1}=0.3632; N (d_{1})=-d_{1}=0.3632; N (d_{2})=0.3632; N (d_{1})=-d_{1}=0.3632; N (d_{2})=0.3632; N (d_{1})=-d_{1}=0.3632; N (d_{2})=0.3632; N (d_{1})=-d_{1}=0.3632; N (d_{2})=0.3632; N (d_{1})=-d_{1}=0.3632; N (d_{2})=0.3632; N (d_{1})=-d_{1}=0.3632; N (d_{2})=0.3632; N (d_{1})=-d_{1}=0.3632; N (d_{2})=0.3632; N (d_{1})=-d_{1}=0.3632; N (d_{2})=0.3632; N (d_{1})=-d_{1}=0.3632; N (d_{2})=0.3632; N (d_{1})=-d_{1}=0.3632; N (d_{2})=0.$ -0.3632Initial short position in stocks: $\Delta\times 100=-N (d_{1})\times 100=-0.3632\times 100=-\$ 36.3$ 2 -- Initial bond position: $B_{0}=K e^{-r T}N (-d_{2})=\$ 41.89$
 
-- Initial value of the [[An Asset Allocation Primer|portfolio]]: $P_{0}=B_{0}+\Delta_{0}S_{0}=\$ 41.89-\$ 36.32=\$ 5.57$
+- Initial value of the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md): $P_{0}=B_{0}+\Delta_{0}S_{0}=\$ 41.89-\$ 36.32=\$ 5.57$
 - One day later ( $(h=1/252=1~\mathrm{day})$ ) the stock is $S_{h}=99\Longrightarrow\Delta_{h}=-N (-d_{1,          h})=-. 3821$ - Need to short more,  and thus sell $|\Delta_{h}-\Delta_{0}|=|-. 3821-(-0.3632)|=0.0189$ shares. $-\;\mathrm{Obstain}\;\mathrm{cosh}=0.0189\times 99=\$ 1.879$ ,  and put it in bonds:
-NewBond $=\; B_{h}=B_{0}\times e^{r\times h}+\$ 1.879=\$ 41.89-\$ 1.879=\$ 43.777$ New [[An Asset Allocation Primer|Portfolio]] Po
+NewBond $=\; B_{h}=B_{0}\times e^{r\times h}+\$ 1.879=\$ 41.89-\$ 1.879=\$ 43.777$ New [Portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Po
 # Option Premium by Dynamic Replication
-- Fact: The [[An Asset Allocation Primer|portfolio]] $P_{t}=\Delta_{t}S_{t}+B_{t}$ obtained from the above trading strategy replicates the put option payoff.
+- Fact: The [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $P_{t}=\Delta_{t}S_{t}+B_{t}$ obtained from the above trading strategy replicates the put option payoff.
 - That is,  at maturity$$
 P_{T}=\Delta_{T}S_{T}+B_{T}=\operatorname*{max}(K-S_{T},          0)
 $$  
-- Proof by simulation: Next two figures shows that the strategy works,  even when [[An Asset Allocation Primer|portfolio]] rebalancing is at daily interval ( $h=1/252)$
-- I simulate [[Chapter 16 - Black–Scholes Model|stock price]] paths. And then performed the above trading strategy
+- Proof by simulation: Next two figures shows that the strategy works,  even when [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) rebalancing is at daily interval ( $h=1/252)$
+- I simulate [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) paths. And then performed the above trading strategy
 # Option Premium by Dynamic Replication
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8338eaea403240924d29f598dc73f55ad66bd69929d8d97b89c8e58105feabd8.jpg)
+ ![500](Attachments/500-111.jpg)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fe3708b428c3c7ec89fe675a60748522241105d0a58f593663f322204c56c8dd.jpg)
+ ![500](Attachments/500-86.jpg)
 
 # Option Premium by Dynamic Replication
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/44179ab394fca12b36326dbdaf84c088ad61bb9ec6a5eba31d8bf9215727d333.jpg)
+ ![500](Attachments/500-112.jpg)
 
 # Black and Scholes Formula
 
-·Since [[An Asset Allocation Primer|portfolio]] $P_{t}$ replicates the payoff of the put option,  the value of the [[An Asset Allocation Primer|portfolio]] at any time must equal the value of the put option.
+·Since [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $P_{t}$ replicates the payoff of the put option,  the value of the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) at any time must equal the value of the put option.
 
 - Why?
-- [[Arbitrage Pricing of Derivatives|Arbitrage]]: “Buy Cheap / Sell Dear". - For instance,  if $P_{t}$ < Put Option Premium => 1. Sell option and set up the [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|replicating portfolio]] (which costs $P_{t}$ 2. Today make ( Put Option Premium $-P_{t})>0$ 3. At maturity $T$ the [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|replicating portfolio]] provides the payoff,  exactly
+- [Arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md): “Buy Cheap / Sell Dear". - For instance,  if $P_{t}$ < Put Option Premium => 1. Sell option and set up the [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) (which costs $P_{t}$ 2. Today make ( Put Option Premium $-P_{t})>0$ 3. At maturity $T$ the [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) provides the payoff,  exactly
 In particular,  at time O,  the value of the option must be$$
 \begin{array}{r l}{\mathrm{Put~Primal~at~0,         ~}p_{0}\;=\; P_{0}=B_{0}+\Delta_{0}\times S_{0}}\\ &{}\\ {\;=\; K\times e^{-r T}\times N (-d_{2,         0})-S_{0}\times N}\end{array}
 $$  
 
-This is the celebrated “Black and Scholes’ formula for option [[Arbitrage Pricing of Derivatives|pricing]]
+This is the celebrated “Black and Scholes’ formula for option [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)
 
 Similarly,  a call option formula is given by
 $c_{0}=S_{0}\times N (d_{1,         0})-K\times e^{-r T}\times N (d_{2,         0})$
 
 # Delta Hedging and Dynamic Replication
 
-Why does the [[Teaching Note 8-American Options|dynamic replication strategy]] work?
+Why does the [dynamic replication strategy](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%208-American%20Options.md) work?
 
-- Suppose you sold a put option and decide to hedge using the [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|replicating portfolio]] $P$ - Let II be the [[An Asset Allocation Primer|portfolio]] short the put $(-p)$ and long the [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|replicating portfolio]]$$
+- Suppose you sold a put option and decide to hedge using the [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $P$ - Let II be the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) short the put $(-p)$ and long the [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)$$
 \begin{array}{r l}{\Pi\;=}& {{}{-p+P}} \\ {\;=}& {{}{-p+\Delta S+B}} \end{array}
 $$  
 - What is the sensitivity of $\prod$ to small variations in stocks?$$
 \frac{d\;\Pi}{d\; S}=-\frac{d\; p}{d\; S}+\Delta\times 1+0
 $$  
-- The [[An Asset Allocation Primer|portfolio]] $\mathrm{II}$ is delta hedged $\left (d\;\Pi/d\; S=0\right)$）if$$
+- The [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $\mathrm{II}$ is delta hedged $\left (d\;\Pi/d\; S=0\right)$）if$$
 \Delta={\frac{d\; p}{d\; S}}
 $$  
 - It can be shown that indeed $\Delta=-N (-d_{1})$ is exactly $d\; p/d\; S$
-- This implies that for every small variation in stock $S$ ,  the [[An Asset Allocation Primer|portfolio]] and the option move exactly by the same amount.
-=> the [[Lecture Note 5- Black Scholes Formula|dynamic replication]] works.
+- This implies that for every small variation in stock $S$ ,  the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and the option move exactly by the same amount.
+=> the [dynamic replication](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Note%205-%20Black%20Scholes%20Formula.md) works.
 # Delta Hedging and Dynamic Replication
 
-The next figure shows the [[Lecture Note 5- Black Scholes Formula|dynamic replication]] at work in a graph
+The next figure shows the [dynamic replication](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Note%205-%20Black%20Scholes%20Formula.md) at work in a graph
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dddaba764cbd269003353f1f81a24a71fb676b328c31c83abe2638fe94514bf4.jpg)
+ ![500](Attachments/500-113.jpg)
 
 The Put Price Profile and the Replicating Portfolic
 
@@ -2633,7 +2633,7 @@ The Put Price Profile and the Replicating Portfolic
 
 Example: Consider an at-the-money option.
 
-- The [[Chapter 16 - Black–Scholes Model|stock price]] is $S\,         =\,          100$ ,  the [[Call and Put Payoffs at Expiry|strike price]] is $K\,         =\,          100$ ,  the (continuously compounded) interest rate is $r=5\%$ ,  maturity is $T=1$ ,  and the return volatility $\sigma=30\%$
+- The [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) is $S\,         =\,          100$ ,  the [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) is $K\,         =\,          100$ ,  the (continuously compounded) interest rate is $r=5\%$ ,  maturity is $T=1$ ,  and the return volatility $\sigma=30\%$
 We then have$$
 \frac{\binom{S}{K}+(r-\delta+\sigma^{2}/2) T}{\sigma\sqrt{T}}=\frac{\log\left (\frac{100}{100}\right)+(. 05+(0.30)^{2}/2)\times 1}{0.30\sqrt{1}}
 $$  $$
@@ -2657,11 +2657,11 @@ $$
 N (-d_{1})+K e^{-r T}N (-d_{2})=-100\times 0.37575+100\times e^{. 05\times}
 $$  
 # The Binomial Tree and Black and Scholes Formula
-- 'To interpret the [[Lecture Note 5- Black Scholes Formula|Black and Scholes formula]] it is convenient to go back to [[A Real-Life Option Pricing Exercise|binomial]] trees
+- 'To interpret the [Black and Scholes formula](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Note%205-%20Black%20Scholes%20Formula.md) it is convenient to go back to [binomial](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) trees
 - Black and Scholes model assumes continuous trading - That is,  traders can trade at any instant $t$
 - Moreover,  stock prices can take on any value,  and not only the values on a tree
-- Both conditions are approximately met as we let the time interval [[Rate and Price Trees|binomial tree]] go to zero.
-- To see the similarity of [[Lecture Note 5- Black Scholes Formula|Black and Scholes formula]] with the one stemming from a [[Rate and Price Trees|binomial tree]]. Consider the following example.
+- Both conditions are approximately met as we let the time interval [binomial tree](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) go to zero.
+- To see the similarity of [Black and Scholes formula](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Note%205-%20Black%20Scholes%20Formula.md) with the one stemming from a [binomial tree](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md). Consider the following example.
 # The Binomial Tree and Black and Scholes Formula
 $i=0$ $i=1$
 $$
@@ -2673,10 +2673,10 @@ $S_{1,          d}=S_{0}\times d$ $c_{1,          d}=\operatorname*{max}(S_{1}-K
 Consider $i=0$ and $i=1$ With $S_{1,          u}=S_{0}\times u$ and $S_{1,          d}=S_{0}\times d$
 
 - Assume the price of the option has $S_{1,          u}\,         >\,          K\,         >\,          S_{1,          d}$ ,  so that the payoffs from the tree above result.
-·Let $q^{*}$ be the [[Binomial Trees and Option Pricing MBA|risk neutral probability]] of going up in the tree
+·Let $q^{*}$ be the [risk neutral probability](../../Financial%20Instruments/Review%20Session%20Notes/Binomial%20Trees%20and%20Option%20Pricing%20MBA.md) of going up in the tree
 # The Binomial Tree and Black and Scholes Formula
 
-The price of the option at time O according to [[Lecture Notes 10- Interest Rate Derivatives|risk neutral pricing]] is the
+The price of the option at time O according to [risk neutral pricing](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Notes%2010-%20Interest%20Rate%20Derivatives.md) is the
 $$
 \begin{array}{r l}{\mathfrak{z}_{0}\;=\; e^{-r\times T}E^{*}\left[\operatorname*{max}(S_{1}-K,          0)\right]}\\ {\;=\; e^{-r\times T}\times[q^{*}\times\operatorname*{max}(S_{1,          u}-K,          0)+(1-q^{*})\times\operatorname*{max}(S_{2,          u}-K,          0)]}\\ {\;=\; e^{-r\times T}\times q^{*}\times (S_{1,          u}-K)}\\ {\;=\; S_{0}\times e^{-r\times T}\times q^{*}\times u-e^{-r\times T}\times K\times q^{*}}\\ {\;=\; S_{0}\times N_{1}-e^{-r\times T}\times K\times N_{2}}\end{array}
 $$  
@@ -2684,17 +2684,17 @@ $$
 N_{1}=e^{-r\times T}\times q^{*}\times u=e^{(u_{c c}-r)\times T}\times q^{*}\quad\mathrm{and}\quad N_{2}=q^{*}
 $$  
 
- - 'The similarity with [[Lecture Note 5- Black Scholes Formula|Black and Scholes formula]] is not coincident i al
+ - 'The similarity with [Black and Scholes formula](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Note%205-%20Black%20Scholes%20Formula.md) is not coincident i al
 $$
 {\mathrm{Call}}=S\times N (d_{1})-K\times e^{-r T}\times N (d_{2})
 $$  
 
  - Interpretation:
-$-\ N_{2}=N (d_{2})$ [[Binomial Trees and Option Pricing MBA|risk neutral probability]] to be in the money at maturity; $-\ N_{1}=N (d_{1})$ [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|risk neutral]] [[Theoretical Factors|expected excess return]] conditional on exercise at $T$
+$-\ N_{2}=N (d_{2})$ [risk neutral probability](../../Financial%20Instruments/Review%20Session%20Notes/Binomial%20Trees%20and%20Option%20Pricing%20MBA.md) to be in the money at maturity; $-\ N_{1}=N (d_{1})$ [risk neutral](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) [expected excess return](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Theoretical%20Factors.md) conditional on exercise at $T$
 
 # The Binomial Tree and Black and Scholes Formula
 
-For a large number of [[A Real-Life Option Pricing Exercise|binomial]] steps,  $n$ for a fixed maturity:
+For a large number of [binomial](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) steps,  $n$ for a fixed maturity:
 $$
 \begin{array}{l} {{c_{0}~=~e^{-r T}E^{*}\left[\operatorname*{max}(S_{T}-K,         0)\right]}} \\ {{\ }} \\ {{\quad=~e^{-r\times T}\displaystyle\sum_{j=0}^{n}\left(\frac{n!}{j!(n-j)!}\right)\operatorname*{max}(S_{T,         j}-K,         0)}} \end{array}
 $$  
@@ -2720,8 +2720,8 @@ The University of Chicago Booth School ofBusiness
 
 Let's start from an example.
 
-- Let's assume the six-month,  continuously compounded [[Black Scholes Derivation|risk-free rate]] is estimated to move according to the following tree $({\mathsf{s t e p}}=1/2$ year),  wherethere is probability $p=1/2$ to move up or down.
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7fa6a7740900644756bbfb942e9ec039972a7875e7a81e904602678868ca9157.jpg)
+- Let's assume the six-month,  continuously compounded [risk-free rate](../../Financial%20Instruments/Black%20Scholes%20Derivation.md) is estimated to move according to the following tree $({\mathsf{s t e p}}=1/2$ year),  wherethere is probability $p=1/2$ to move up or down.
+ ![500](Attachments/500-76.jpg)
 # Binomial Trees
 
 The expected rate in six and twelve months are
@@ -2744,7 +2744,7 @@ $$
 Z_{0}\left (1\right)=0.9916,         \; Z_{0}\left (2\right)=0.9781,         \; Z_{0}\left (3\right)=0.9615
 $$  
 
- - Let $C_{0}$ be a call option on a six-month zero-coupon bond with maturity $i=1$ and [[Call and Put Payoffs at Expiry|strike price]] $K$
+ - Let $C_{0}$ be a call option on a six-month zero-coupon bond with maturity $i=1$ and [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) $K$
 
 - A call option on a zero coupon bond gives its owner the right,  but not the obligation,  to buy a six-month zero couponat $i$ forprice $K$
  - The payoff to the buyer of the option is$$
@@ -2759,11 +2759,11 @@ $$
 I=1
 $$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0fec6a685c1fe21a6e587dc137b694bed8933b031028d2e2d535626708106132.jpg)
+ ![500](Attachments/500-80.jpg)
 
-- We now consider a [[The Value of the Swap Contract after Initiation|hedging strategy]] that allows us to evaluate options on the tree.
+- We now consider a [hedging strategy](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/The%20Value%20of%20the%20Swap%20Contract%20after%20Initiation.md) that allows us to evaluate options on the tree.
 # The Option Hedging Strategy
-- Consider a [[An Asset Allocation Primer|portfolio]] at time $i=0$ that is long the option and short $\Delta$ units of the 2-period zero coupon bonds - Its value at time $j=0$ is$$
+- Consider a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) at time $i=0$ that is long the option and short $\Delta$ units of the 2-period zero coupon bonds - Its value at time $j=0$ is$$
 \Pi_{0}=C_{0}-\Delta\times Z_{0}\left (2\right.
 $$  
 - What is its value at time $j=1?$$$
@@ -2790,8 +2790,8 @@ $$
 $-\Delta$ is now known. For instance,  if $K=. 99$ we have $\Delta=. 4076$
 
 - In this case,  we find $\Pi_{1,          u}=C_{1,          u}-\Delta Z_{1,          u}\left (2\right)=-0.3998\;\left (\mathsf{a l s o\e q u a l\ t o}=\Pi_{1,          d}\right)$
-What is the value of the [[An Asset Allocation Primer|portfolio]] at time $i=0?$
-- The [[An Asset Allocation Primer|portfolio]] is riskless between time $i=0$ and $i=1$ - Therefore,  its value must be the discounted value of $\Pi_{1,          u}$ using the risk free rate to discount$$
+What is the value of the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) at time $i=0?$
+- The [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is riskless between time $i=0$ and $i=1$ - Therefore,  its value must be the discounted value of $\Pi_{1,          u}$ using the risk free rate to discount$$
 \left|~\mathsf{N o\A r b i t r a g e}\Longrightarrow\Pi_{0}=Z_{0}\left (1\right)\Pi_{1,          u}\right.
 $$  
 -(Recall $\Pi_{1,          u}{=}\Pi_{1,          d}$ so it does not matter what you put on the RHS)
@@ -2806,8 +2806,8 @@ C_{0}\,         \,         =\,         \,         \Delta Z_{0}\left (2\right)+Z_
 $$  
 -(recall $Z_{0}\left (1\right)=0.9916$ $Z_{0}\left (2\right)=0.9781)$
 # The Replicating Portfolio
-- Note that the option is a [[An Asset Allocation Primer|portfolio]] of zerosi$-\; N_{1}=\Delta=. 4076$ of one-year zero $Z_{0}(2)$ ; and $-\ N_{2}=\Pi_{1,          u}=-0.3998$ of six-month zero $Z_{0}(1)$
- - That is,  the [[An Asset Allocation Primer|portfolio]] of bonds$$
+- Note that the option is a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of zerosi$-\; N_{1}=\Delta=. 4076$ of one-year zero $Z_{0}(2)$ ; and $-\ N_{2}=\Pi_{1,          u}=-0.3998$ of six-month zero $Z_{0}(1)$
+ - That is,  the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of bonds$$
 P_{0}=N_{1}\times Z_{0}(2)+N_{2}\times Z_{0}(1)
 $$  
 
@@ -2818,31 +2818,31 @@ $i=0$ =1
 $Z_{1,          u}\left (1\right)=1$ $Z_{1,          u}\left (2\right)=0.9808$ $P_{1,          u}=N_{1}Z_{1,          u}(2)+N_{2}=0$
 $Z_{0}\left (1\right)=0.9916$ $Z_{0}\left (2\right)=0.9781$ $P_{0}=N_{1}Z_{0}(2)+N_{2}Z_{0}(1)=0.00223$
 $Z_{1,          d}\left (1\right)=1$ $Z_{1,          d}\left (2\right)=0.9963$ $P_{1,          d}=N_{1}Z_{1,          d}(2)+N_{2}=. 006307$
-$P$ is called "[[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|replicating portfolio]],  " a key concept.
+$P$ is called "[replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md),  " a key concept.
 
 # A No Arbitrage Relation
 - What was special about the fact that $C_{0}$ was an option on zero-coupon bond?
 - Nothing in particular!
 - We could do the same derivation with any other security
-- Let's do the same steps,  but now using ANY other security,  that depends on [[Interest Rate Quotations|interest rates]].
+- Let's do the same steps,  but now using ANY other security,  that depends on [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md).
 ·Generically,  let $Z_{0}\left (j\right)$ be any zero coupon bond,  and let's consider the following generic tree$$
 I=0\qquad\qquad\qquad i=1
 $$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/18a297c8ccea38d567183d2ec14506eecb76d27898dcb4a76e16f21f65044d0e.jpg)
+ ![500](Attachments/500-68.jpg)
 
 # A No Arbitrage Relation
 
 Let's follow the same steps:
 
-Step 1: [[An Asset Allocation Primer|Portfolio]]
+Step 1: [Portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)
 $$
 \Pi_{0}=V_{0}-\Delta Z_{0}\left (j\right)
 $$  
-- Step 2: Choose $\Delta$ to make [[An Asset Allocation Primer|portfolio]] at time $j=1$ independent of [[Interest Rate Quotations|interest rates]]$$
+- Step 2: Choose $\Delta$ to make [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) at time $j=1$ independent of [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)$$
 \begin{array}{r l r}{\Pi_{1,          u}}&{=}&{\Pi_{1,          d}\;}\\ &{\Longleftrightarrow}&\\ {V_{1,          u}-\Delta Z_{1,          u}\left (j\right)}&{=}&{V_{1,          d}-\Delta Z_{1,          d}\left (j\right)}\\ &{\Longleftrightarrow}&\\ {\Delta}&{=}&{\frac{V_{1,          u}-V_{1,          d}}{Z_{1,          u}\left (j\right)-Z_{1,          d}\left (j\right)}}\end{array}
 $$  
-- Step 3: The [[An Asset Allocation Primer|portfolio]] is riskless,  no [[Arbitrage Pricing of Derivatives|arbitrage]] requires
+- Step 3: The [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is riskless,  no [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) requires
 # A No Arbitrage Relation
 - In fact,  we can take the expected value using any probability $\tilde{p}$$$
 \Pi_{1,          u}=\Pi_{1,          d}=E^{\tilde{p}}\left[\Pi_{1}\right]
@@ -2865,7 +2865,7 @@ $$
 \frac{Z_{0}\left (1\right) E^{\tilde{p}}\left[Z_{1}\left (j\right)\right]-Z_{0}\left (j\right)}{Z_{1,          u}\left (j\right)-Z_{1,          d}\left (j\right)}=\frac{Z_{0}\left (1\right) E^{\tilde{p}}\left (V_{1}\right)-V_{0}}{V_{1,          u}-V_{1,          d}}
 $$  
 
-This last expression is key to the whole [[Fixed Income Asset Pricing|fixed income asset pricing]]
+This last expression is key to the whole [fixed income asset pricing](../Fixed%20Income%20Asset%20Pricing.md)
 
 To interpret it,  let's rewrite the equality as
 $$
@@ -2880,7 +2880,7 @@ $$
 
  - The above hold for any $\tilde{p}$ . To have economic meaning,  we must though use the true $\tilde{p}=p=0.5$
 
- - Denoting $E[.]$ (without superscript) the [[FORWARD RATES AND TERM STRUCTURE|expectations]] under the true probability,  we have
+ - Denoting $E[.]$ (without superscript) the [expectations](FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) under the true probability,  we have
 $$
 \frac{E\left[\frac{V_{1}}{V_{0}}\right]-\frac{1}{Z_{0}(1)}}{\left[\frac{V_{1,          u}}{V_{0}}-\frac{V_{1,          d}}{V_{0}}\right]}\ =\ \frac{\mathsf{E x p e c t e d~E x c e s~R e t u r n}}{\mathsf{R i s k~f r o m~i n v e s t m e n t}}=\left\{\begin{array}{c}{\mathsf{S h a r p e~R a t i o}}\\ {o r}\\ {\mathsf{M a r k e t~P r i c e~o f}}\\ {\mathsf{l n t e r e s t~R a t e~R i s k}}\end{array}\right.
 $$  
@@ -2891,7 +2891,7 @@ Similarly for the right hand side of (3).
 
 Equality (3) applies to all securities that depend on the interest rate.
 
-All assets that depend on the interest rate No Arb it rage $\Rightarrow$ have the same [[Exercises|market price of risk]]
+All assets that depend on the interest rate No Arb it rage $\Rightarrow$ have the same [market price of risk](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md)
 
  - That is,  for any security $V$ ,  we have
 $$
@@ -2943,7 +2943,7 @@ $$
 $$  
 # No Arbitrage Pricing
 - Can we obtain the price of a 2-period bond itself $Z_{0}\left (2\right)^{\prime}$ - No! That's one of our inputs. (We used it to compute $\lambda$ - Can we obtain the price of any security that matures in period $j=2$ (rather than $j=1]$
-- Yes,  by moving backward (but need more work) - We will see how to do so using a different [[Arbitrage Pricing of Derivatives|pricing]] methodology
+- Yes,  by moving backward (but need more work) - We will see how to do so using a different [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) methodology
 # Risk Neutral Pricing
 
 ·Recall that“Step $4^{\prime}$ in our derivations above gave us the equation (2) is
@@ -2973,21 +2973,21 @@ Solving the previous equation,  we obtain
 $$
 \pi^{*}=\frac{Z_{0}\left (j\right)/Z_{0}\left (1\right)-Z_{1,          d}\left (j\right)}{Z_{1,          u}\left (j\right)-Z_{1,          d}\left (j\right)}
 $$  
-$\pi^{*}$ is the [[Binomial Trees and Option Pricing MBA|risk neutral probability]] or risk adjusted probability of moving up in the tree. $:E^{*}\left[.\right]-$ the expectation computed using $\pi^{*}$ - is called [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|risk neutral]] expectation  - The term "[[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|risk neutral]]" refers to the fact that under $\pi^{*}$ ,  all assets yield the risk free rate of return.  - In fact,  from its derivation in equation (7) we also have Ex on 1-period Bond
+$\pi^{*}$ is the [risk neutral probability](../../Financial%20Instruments/Review%20Session%20Notes/Binomial%20Trees%20and%20Option%20Pricing%20MBA.md) or risk adjusted probability of moving up in the tree. $:E^{*}\left[.\right]-$ the expectation computed using $\pi^{*}$ - is called [risk neutral](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) expectation  - The term "[risk neutral](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md)" refers to the fact that under $\pi^{*}$ ,  all assets yield the risk free rate of return.  - In fact,  from its derivation in equation (7) we also have Ex on 1-period Bond
 
-Indeed,  because under $\tilde{p}=\pi^{*}$ the last term in (6) is zero,  we have the [[Financial Mathematics Course|risk-neutral pricing]] formula
+Indeed,  because under $\tilde{p}=\pi^{*}$ the last term in (6) is zero,  we have the [risk-neutral pricing](../../Financial%20Engineering/Financial%20Mathematics%20Course.md) formula
 $$
 V_{0}=Z_{0}\left (1\right) E^{*}\left[V_{1}\right]
 $$  
 # Risk Neutral Pricing
 
-The [[Lecture Notes 10- Interest Rate Derivatives|risk neutral pricing]] formula implies
+The [risk neutral pricing](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Notes%2010-%20Interest%20Rate%20Derivatives.md) formula implies
 $$
 \begin{array}{r}{\underbrace{E^{*}\left[\frac{V_{1}}{V_{0}}\right]}_{E^{*}\left[\mathsf{R e t u r n\ o n\}V\right]}\ =\ \mathsf{R e t u r n\ o n\6-m o n t h\T b i l}}\end{array}
 $$  
-- [[Lecture Notes 10- Interest Rate Derivatives|Risk neutral pricing]] is nothing more than a "trick" to easily compute the price of [[Chapter 9 Arbitrage and Hedging With Options|derivatives]].
+- [Risk neutral pricing](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Notes%2010-%20Interest%20Rate%20Derivatives.md) is nothing more than a "trick" to easily compute the price of [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md).
 - It implies a simple recipe to price securities:
--Recipe: 1. Assume agents are [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|risk neutral]]. 2. Find [[RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS|risk neutrality]] probabilities,  that is,  find $\pi^{*}$ 3. Compute the price of [[Chapter 9 Arbitrage and Hedging With Options|derivatives]] using $\pi^{*}$ and discounting at the risk free rate.
+-Recipe: 1. Assume agents are [risk neutral](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md). 2. Find [risk neutrality](../../Credit%20Markets/RISK%20NEUTRAL%20VALUATION%20FRAMEWORK%20FOR%20CREDIT%20DEFAULT%20SWAPS.md) probabilities,  that is,  find $\pi^{*}$ 3. Compute the price of [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) using $\pi^{*}$ and discounting at the risk free rate.
 # Does Risk Neutral Pricing Work?
 - In the example above,  using the 2-period bond $(j=2)$ weobtain $\pi^{*}=0.643546229$
  - The call price is then$$
@@ -3003,36 +3003,36 @@ It works beautifully
 
 # Risk Neutral vs. True Probabilities
 # Question
-- Under the [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|risk neutral]] probabilities,  the expected interest rate is$$
+- Under the [risk neutral](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) probabilities,  the expected interest rate is$$
 \boldsymbol{E}^{*}\left[\boldsymbol{r}_{1}\right]=\boldsymbol{\pi}^{*}\times\boldsymbol{r}_{1,          u}+\left (1-\boldsymbol{\pi}^{*}\right)\times\boldsymbol{r}_{1,          d}=0.0275
 $$  
 - If your boss asks you what is your forecast of the interest rate in six months,  would you tell him $2.75\%?$
 In the real world,  the expected interest rate was$$
 E\left[r_{1}\right]=2.305\%<2.75\%=E^{*}\left[r_{1}\right]
 $$  
-- Passing from the real to the [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|risk neutral]] world implies increasing the expected interest rate.
-- Interestingly,  note that the [[Forward Points in Currency|forward rate]] is (recall the time step is 0.5)$$
+- Passing from the real to the [risk neutral](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) world implies increasing the expected interest rate.
+- Interestingly,  note that the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) is (recall the time step is 0.5)$$
 F (0,         1,         2)=-2\times\ln\left (\frac{Z_{0}(2)}{Z_{0}(1)}\right)=2.7487\%
 $$  
 
-This is very close to the risk-neutral expected [[Forward Rate|future rate]]
+This is very close to the risk-neutral expected [future rate](../../Clippings/Forward%20Rate.md)
 
 # Using Risk Neutral Trees
-- From now on,  we assume that the tree that we are using is "[[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|risk neutral]]'
-- Rather than finding probabilities that make an original "true" tree into a [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|risk neutral]] one,  we start immediately from the latter.
-- We will see later how to build a tree that is [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|risk neutral]] directly from traded securities
-- Suppose that the short-term,  [[PSET 7 Solutions-Financial Instruments|continuously compounded interest]] rate moves according to the following tree.
-- At every time (1 period $=6$ months),  there is equal [[Binomial Trees and Option Pricing MBA|risk neutral probability]] ( $'\pi^{*}=1/2)$ to move up or down.
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5faaa98f8519ffffa172a4a8b2c30f6907b6f191a2d12ef3b5a250bb3736183f.jpg)
+- From now on,  we assume that the tree that we are using is "[risk neutral](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md)'
+- Rather than finding probabilities that make an original "true" tree into a [risk neutral](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) one,  we start immediately from the latter.
+- We will see later how to build a tree that is [risk neutral](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) directly from traded securities
+- Suppose that the short-term,  [continuously compounded interest](../../Financial%20Instruments/Assignments/Solutions/PSET%207%20Solutions-Financial%20Instruments.md) rate moves according to the following tree.
+- At every time (1 period $=6$ months),  there is equal [risk neutral probability](../../Financial%20Instruments/Review%20Session%20Notes/Binomial%20Trees%20and%20Option%20Pricing%20MBA.md) ( $'\pi^{*}=1/2)$ to move up or down.
+ ![500](Attachments/500-72.jpg)
 - The value of a zero-coupon bond paying one dollar in period $i=1$ is (the time step $\Delta t=0.5)$$$
 Z_{0}\left (1\right)=e^{-r_{0}\times\Delta t}\times 1=0.9916
 $$  
 - What is the value of bond paying $\$ 1$ in one year $(i=2)?$
  - It can be obtained by proceeding backward on the tree:
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6d5b52d232183b94803dc4d7fc869dd40e7c06e89d7172f4afcb01417b6eced1.jpg)
+ ![500](Attachments/500-127.jpg)
 # - Similarly,  a bond paying $\$ 1$ in 1.5 years $(i=3)$
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a3e2b390fb0cb17777c1c6fc99c72e022fd2b32cd3dd891505ea8b715650a03d.jpg)
+ ![500](Attachments/500-87.jpg)
 
 These prices imply the zero-coupon yields
 $$
@@ -3043,19 +3043,19 @@ $$
 
 - In addition,  computers can be programmed rather easily to carry out the backward computation.
 Example:
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e447543da05843dd99e3a84b2d43ef6a0f28309298449854a43cd737346567a9.jpg)
+ ![500](Attachments/500-114.jpg)
 # Describing Big Trees
 # How do we describe a long tree?
 - Using the earlier notation $u$ ,  uu etc is $\mathsf{O K}$ for small trees
  - When we start looking at long trees (30-60 steps),  then we use a slightly different notation
  - Specifically,  each point on the tree can be described by a time index $i$ and a node index $j$ - In the example in Table 2,  $i=0,         …,          10$ and $j=1,         …,          11$
 # Intermediate Cash Flows
-- Notice that given a tree,  we can insert any type of known [[Preview of the Book|cash flow]].
+- Notice that given a tree,  we can insert any type of known [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md).
 - Specifically,  at any time-node $(i,          j)$ ,  we just must add the CF$$
 P_{i,          j}=e^{-r_{i,          j}\Delta t}\left (\frac{1}{2}P_{i+1,          j}+\frac{1}{2}P_{i+1,          j+1}+C F_{i+1}\right)
 $$  
 - So,  for example,  a 1.5 year,  $4\%$ coupon bond is just given by
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c593ca25acf22b7ec62de03287e0de8a70de69231d3e0b5a137bbe70458bf1ac.jpg)
+ ![500](Attachments/500-87.jpg)
 This tree gives “ex-coupon" prices.
 - Using ex-coupon prices is useful in a number of circumstances,  as we shall see
 # Examples
@@ -3066,12 +3066,12 @@ This tree gives “ex-coupon" prices.
 
 Consider the 1.5 year,  $4\%$ coupon bond we discussed earlier,  but assume it is callable at par 100
 
-- That is,  at any point in time before maturity,  the issuer (Treasury) may "call it back" in exchange of 100. - In general,  bonds become callable after some period of time. - For example,  the Nov 2012 Treasury bond is callable at par starting on Nov 2007. - If issuer calls the bond between coupon days,  it has to pay the [[Intra-Year Compounding and Day-Count|accrued interest]] to the bond holder.
+- That is,  at any point in time before maturity,  the issuer (Treasury) may "call it back" in exchange of 100. - In general,  bonds become callable after some period of time. - For example,  the Nov 2012 Treasury bond is callable at par starting on Nov 2007. - If issuer calls the bond between coupon days,  it has to pay the [accrued interest](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) to the bond holder.
 # How do we Compute the Price of American Options?
 
 We move backwards on the tree:
 
-- At any node $(i,          j)$ the issuer can decide whether to “exercise" option or wait - If [[Exercises|exercises]],  the payoff ( $\acute{=}$ value of the option) is$$
+- At any node $(i,          j)$ the issuer can decide whether to “exercise" option or wait - If [exercises](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md),  the payoff ( $\acute{=}$ value of the option) is$$
 C a l l_{i,          j}^{\mathtt{E x}}=P_{i,          j}-100
 $$  
 - If waits,  the value of the option$$
@@ -3084,7 +3084,7 @@ $$
 C a l l_{I,          j}=0\textsf{f o r a l l}_{j}
 $$  
 - (the option expires worthless at maturity,  as the issuer has to redeem the bond at par) - we can start the procedure (1 o) backward.
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0e2b105bed484ef0c52c7b8185c7975328d2d6f06e64a90bcd34482567e276fd.jpg)
+ ![500](Attachments/500-83.jpg)
 # Callable Bond Pricing
 # What is then the price of the callable bond?
 - The buyer of a callable bond is: (1) buying a non-callable bond; $+$ (2) Selling a call to the issuer. -Hence,$$
@@ -3111,7 +3111,7 @@ $$
 
 We then have:
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/273fea836de087904517e4522a4cca7f0befedadd2b10446c15ce60ce3578472.jpg)
+ ![500](Attachments/500-73.jpg)
 
 # Cap Pricing Example
 
@@ -3120,19 +3120,19 @@ $$
 \begin{array}{r}{V_{i,          j}\ =\ \mathsf{V a l u e\ a t\ t i m e\ i\ o f\ a l l\ C a s h\ F l o w s\ a t\ t i m e s\ k}>}\\ {\ =\ e^{-\frac{1}{2}r_{i,          j}}\times\left (\frac{1}{2}V_{i+1,          j}+\frac{1}{2}V_{i+1,          j+1}+C F_{i,          j}\left (i+1\right)\right)}\end{array}
 $$  
 - Then,  the following backward tree gives a cap price $V_{0}=0.87$
- - Table 3 shows the [[Arbitrage Pricing of Derivatives|pricing]] of a cap on the bigger tree in Table 2,  with $\overline {{r}} =5\%$ ;and $N=100$
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4d3fb85ecd6efbc0508695ee304af156ee2781858c0d4ad9c191ac7a5e540a69.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/51d603aa19ddeb9cc122b4c939df1562112e4d01272c38eac905b1d3c5944f48.jpg)
+ - Table 3 shows the [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of a cap on the bigger tree in Table 2,  with $\overline {{r}} =5\%$ ;and $N=100$
+ ![500](Attachments/500-96.jpg)
+ ![500](Attachments/500-111.jpg)
 # Swaps and Swaptions
 - Similarly,  the computation of Swaps and Swaptions (options to enter into a Swap) are simple
-- Consider a 2 year swap (Maturity $=i=4.$ ),  with [[Teaching Note 4 Interest Rate Derivatives|swap rate]] (c.c.) $\overline {{r}} =. 0304$，$N=100$
+- Consider a 2 year swap (Maturity $=i=4.$ ),  with [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) (c.c.) $\overline {{r}} =. 0304$，$N=100$
 Again,  denote by$$
 C F_{i,          j}\left (i+1\right)\ =\ \mathsf{C a s h\ F l o w\ a t\ t i m e}
 $$  
 
 We obtainthe treeof cash flowsi
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8e142808268b9967cc24efc4cf04b186d278725e1b0708d4bd2cfc0d7d67d669.jpg)
+ ![500](Attachments/500-111.jpg)
 
 - The tree for the value of the swap (for the fixed payer) is then immediately computed.
 Denoting again$$
@@ -3141,19 +3141,19 @@ $$
 
 We obtain
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/430146ba98cf274450388394123e3187d8628f9115823dfeb502436200a0b812.jpg)
+ ![500](Attachments/500-112.jpg)
 
-·The [[Teaching Note 4 Interest Rate Derivatives|swap rate]] $\overline {{r}} =0.0304$ was chosen to make the value of the [[Currency Swaps|Swap contract]] $=0$ attime $i=0$
+·The [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) $\overline {{r}} =0.0304$ was chosen to make the value of the [Swap contract](../../Financial%20Instruments/Review%20Session%20Notes/Currency%20Swaps.md) $=0$ attime $i=0$
 
 # Swaptions
-- A Swaption is an option to enter into a swap,  at a given [[Teaching Note 4 Interest Rate Derivatives|swap rate]] $r_{X}$
-- A Receiver Swaption is an option to enter into a swap and receive fixed $r_{X}$ -- A [[Chapter 39 - Swaptions, Forward Swaps, and MBS|Payer Swaption]] is an option to enter into a swap and pay fixed $r_{X}$
+- A Swaption is an option to enter into a swap,  at a given [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) $r_{X}$
+- A Receiver Swaption is an option to enter into a swap and receive fixed $r_{X}$ -- A [Payer Swaption](../../Financial%20Engineering/Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2039%20-%20Swaptions,%20Forward%20Swaps,%20and%20MBS.md) is an option to enter into a swap and pay fixed $r_{X}$
 - Computing now the value of a European Swaption is simple
-- Consider for instance a European Swaption with maturity $T=1$ (i.e. $i=2$ ) to enter a one year swap and pay fixed $r_{X}=. 0304$ -Let $\overline {{r}} _{i j}$ be the [[Teaching Note 4 Interest Rate Derivatives|swap rate]] in the node $i j$ 2. -Then: $^*$ If $\overline {{{r}} }_{2 j}>r_{X}$ we exercise the option (we pay $r_{X}$ instead of current rate $\bar{r}_{2 j}$）$^*$ If $\overline {{r}} _{2 j}<r_{X}$ we do not exercise the option (we are better off paying the market rate $\overline {{r}} _{2 j}$
+- Consider for instance a European Swaption with maturity $T=1$ (i.e. $i=2$ ) to enter a one year swap and pay fixed $r_{X}=. 0304$ -Let $\overline {{r}} _{i j}$ be the [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) in the node $i j$ 2. -Then: $^*$ If $\overline {{{r}} }_{2 j}>r_{X}$ we exercise the option (we pay $r_{X}$ instead of current rate $\bar{r}_{2 j}$）$^*$ If $\overline {{r}} _{2 j}<r_{X}$ we do not exercise the option (we are better off paying the market rate $\overline {{r}} _{2 j}$
  - It looks complicated. How do we model this decision?
-- We remember that the [[Teaching Note 4 Interest Rate Derivatives|swap rate]] $\overline {{r}} _{i j}$ is determined in node $i j$ to make the value of the swap at that node equal to O.
+- We remember that the [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) $\overline {{r}} _{i j}$ is determined in node $i j$ to make the value of the swap at that node equal to O.
 # Swaptions
-- Therefore,  we first compute the value of the swap with given [[Teaching Note 4 Interest Rate Derivatives|swap rate]] $r_{X}$ along the tree $V_{i,          j}$$$
+- Therefore,  we first compute the value of the swap with given [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) $r_{X}$ along the tree $V_{i,          j}$$$
 V_{i,          j}=e^{-r_{i,          j}\Delta t}\left (\frac{1}{2}V_{i+1,          j}+\frac{1}{2}V_{i+1,          j+1}+(r_{i,          j}-r_{X})\right)
 $$  
 
@@ -3167,12 +3167,12 @@ $$
 C_{i,          j}=e^{-r_{i j}\Delta t}\left (\frac{1}{2}C_{i+1,          j}+\frac{1}{2}C_{i+1,          j+1}\right)
 $$  
 # Swaptions: Example
-- Consider receiver swaption with a strike [[Teaching Note 4 Interest Rate Derivatives|swap rate]] $r_{X}=. 0304$
- - The swaption is at the money,  that is $r_{X}=\overline{r}_{0}=$ current [[Teaching Note 4 Interest Rate Derivatives|swap rate]] at 0.
+- Consider receiver swaption with a strike [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) $r_{X}=. 0304$
+ - The swaption is at the money,  that is $r_{X}=\overline{r}_{0}=$ current [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) at 0.
  - The relevant tree for $V_{i,          j}$ is then the one given earlier.
  - Since $V_{2,          u u}=3.31$，$V_{2,          u d}=0.86$ and $V_{2,          d d}=-1.68$ ,  we only exercise in the top two nodes at $i=2$
  - The tree to value the swaption is then given by:
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/677ea1759fa6607fabf1b023d9e2278ad12208922575bd73b308c1140d4645f1.jpg)
+ ![500](Attachments/500-90.jpg)
 # American Swaptions: Example
 - Computing an American style swaption exploits the same methodology illustrated earlier. That is,  we must have$$
 C_{i,          j}^{A m}=\operatorname*{max}\left (V_{i,          j},         \ e^{-r_{i,          j}\Delta t}\times\left (\frac{1}{2}C_{i+1,          j}^{A m}+\frac{1}{2}C_{i+1,          j+1}^{A m}\right)\right)
@@ -3180,7 +3180,7 @@ $$
 
 In this case,  we find
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f87aec40503ac495b4f169fcf41d0ab3dbdbb06d36492cd9699f05efaa6ae276.jpg)
+ ![500](Attachments/500-111.jpg)
 
 # Swaptions: Examples
 
@@ -3191,26 +3191,26 @@ In this case,  we find
  - In a slightly more serious exercise,  we have a table like the following:
 
  - Let the "Terms'" be:
-$-\;\overline {{{r}} }=0.03999;$ $-\; T=5$ years; -Semi-annual payments; - At-the-money [[Chapter 39 - Swaptions, Forward Swaps, and MBS|Payer Swaption]] with $T^{*}=3$ years: - (In the last panel,  a "\*” denotes [[Bond Futures Options|early exercise]] of the option)
+$-\;\overline {{{r}} }=0.03999;$ $-\; T=5$ years; -Semi-annual payments; - At-the-money [Payer Swaption](../../Financial%20Engineering/Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2039%20-%20Swaptions,%20Forward%20Swaps,%20and%20MBS.md) with $T^{*}=3$ years: - (In the last panel,  a "\*” denotes [early exercise](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Bond%20Futures%20Options.md) of the option)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/976bef913c4d6d12057cbbca274dea804a9f5ea58781609b652248e3cc54fde9.jpg)
+ ![500](Attachments/500-89.jpg)
 
 European Option
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8860826d0ada9575f06dad15a986f603acbc01aab72c84028ac88c157046a1b1.jpg)
+ ![500](Attachments/500-111.jpg)
 
 # Tree Building
 # How can we construct a tree?
 - There are various models and methodologies. We consider two simple models here.
 # The Ho-Lee Model
 
- - The Ho-Lee model makes a simple assumption about the dynamics of the [[The Gauss Model|short-term interest rate]].
+ - The Ho-Lee model makes a simple assumption about the dynamics of the [short-term interest rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Gauss%20Model.md).
 
  - Let $\Delta t$ be the time step. Then,  for every node $(i,          j)$ the next interest rate is given by
 $$
 \begin{array}{r}{r_{i+1,          j}\ =\ r_{i,          j}+\theta_{i}\times\Delta t+\sigma\times\sqrt{\Delta t}\quad\mathsf{f o r\ a\ "u p}\mathrm{"\m o v e m e n t}}\\ {r_{i+1,          j+1}\ =\ r_{i,          j}+\theta_{i}\times\Delta t-\sigma\times\sqrt{\Delta t}\quad\mathsf{f o r\ a\ "d o w n"\m o v e m e n t}}\end{array}
 $$  
-- Where the [[Binomial Trees and Option Pricing MBA|risk neutral probability]] of an up movement is $\pi^{*}=0.5;$ $\sigma$ is the annualized volatility; and $\theta_{i}$ arechosen recursively so as to fit the current [[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]].
+- Where the [risk neutral probability](../../Financial%20Instruments/Review%20Session%20Notes/Binomial%20Trees%20and%20Option%20Pricing%20MBA.md) of an up movement is $\pi^{*}=0.5;$ $\sigma$ is the annualized volatility; and $\theta_{i}$ arechosen recursively so as to fit the current [term structure of interest rates](../../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md).
 - The tree from Ho Lee is naturally recombining: an “up $+$ down" movement produces the same interest rate as a"down $+$ up' movement.
 -- To see this easily,  consider $r_{0}$ and use the $"u,         \,          d,         $ ud,  du' notation.$$
 \begin{array}{r}{r_{1,          u}\ =\ r_{0}+\theta_{0}\times\Delta t+\sigma\times\sqrt{\Delta t}}\\ {r_{1,          d}\ =\ r_{0}+\theta_{0}\times\Delta t-\sigma\times\sqrt{\Delta t}}\end{array}
@@ -3246,26 +3246,26 @@ $$
 I=1
 $$  
 -Given $\theta_{0}$ ,  we now look for $\theta_{1}$ by trying to match the next bond $Z_{0}(3)=0.9615$
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fdbcf1bd8076cc08d02a9601485aa29510578aba24b346e1acebe7072819a775.jpg)
+ ![500](Attachments/500-111.jpg)
  - Clearly,  $Z_{0}(3)$ from the tree only depends on $\theta_{1}$
  - Searching for $\theta_{1}$ yields $\theta_{1}=0.013807$ ,  yielding
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4226fa90f3875e1a2433a7e855955de7050a2efabf74c55116ac090677ae6e12.jpg)
+ ![500](Attachments/500-112.jpg)
 - And so on for all the possible available maturities.
 # The Simple Black-Derman-Toy
-- One potential issue with the Ho-Lee model is that [[Interest Rate Quotations|interest rates]] can easily get negative. If $\sigma$ is large,  for instance there is nothing in the procedure above that guarantees that $r_{i,          j}>0$
+- One potential issue with the Ho-Lee model is that [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) can easily get negative. If $\sigma$ is large,  for instance there is nothing in the procedure above that guarantees that $r_{i,          j}>0$
 - A simple solution is to model the Ho-Lee mode in “"logarithm",  that is,  let $z_{i j}=\ln (r_{i j})$ and then assume$$
 \begin{array}{r}{z_{i+1,          j}\ =\ z_{i,          j}+\theta_{i}\times\Delta t+\sigma\times\sqrt{\Delta t}}\\ {z_{i+1,          j+1}\ =\ z_{i,          j}+\theta_{i}\times\Delta t-\sigma\times\sqrt{\Delta t}}\end{array}
 $$  
 
 Clearly,  even if $z_{i j}<0$ we have $r_{i j}=e^{z_{i j}}>0$
 
- - Note that now $\sigma$ is the standard deviation of log [[Interest Rate Quotations|interest rates]]. It can be estimated from $\Delta\ln (r_{t})$ - Note that to a first order approximation $\begin{array}{r}{\Delta z_{t}\approx\frac{1}{r_{t}}\Delta r_{t}}\end{array}$ - Therefore,  $\sigma (\boldsymbol{z}_{t})\approx\sigma (\boldsymbol{r}_{t})/r_{t}$ - In the previous example,  $\sigma (r_{t})=0.015$ and $r_{0}=1.69\%$ ,  and thus $\sigma (z_{t})\approx 88.91\%.$ - Using the same procedure,  we obtain $\theta_{0}=0.603652218$，$\theta_{1}=0.089246544$ and the [[Rate and Price Trees|binomial tree]]
+ - Note that now $\sigma$ is the standard deviation of log [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md). It can be estimated from $\Delta\ln (r_{t})$ - Note that to a first order approximation $\begin{array}{r}{\Delta z_{t}\approx\frac{1}{r_{t}}\Delta r_{t}}\end{array}$ - Therefore,  $\sigma (\boldsymbol{z}_{t})\approx\sigma (\boldsymbol{r}_{t})/r_{t}$ - In the previous example,  $\sigma (r_{t})=0.015$ and $r_{0}=1.69\%$ ,  and thus $\sigma (z_{t})\approx 88.91\%.$ - Using the same procedure,  we obtain $\theta_{0}=0.603652218$，$\theta_{1}=0.089246544$ and the [binomial tree](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/991b1effc316f809254e91720ea82f1c2b4e8ce05115219835b460053f8ea2f9.jpg)
+ ![500](Attachments/500-111.jpg)
 
 # The Black-Derman-Toy Mode
 - The previous models are popular,  but they have constant volatility.
- - It is hard for them to match the [[The Vasicek Model|term structure]] of volatility,  that is,  the fact that options of different maturity may have different volatility.
+ - It is hard for them to match the [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) of volatility,  that is,  the fact that options of different maturity may have different volatility.
  - The Black-Derman-Toy model still assume $z_{i,          j}=l o g (r_{i,          j})$ as in the simple BDT,  but it assumes that between $i$ and $i+1$ ,  for every two adjacent nodes $j$ and $j+1$ ,  the variance is$$
 \sigma_{i+1}^{2}\Delta t=V a r i a n c e[z_{i}|z_{i-1,          j}]
 $$  
@@ -3280,16 +3280,16 @@ $$
 \sigma_{i+1}\sqrt{\Delta t}=\frac{1}{2}\left (z_{i,          j}-z_{i,          j+1}\right)
 $$  
 - We then need two types of inputs in this model
-1. The current term-structure of yields 2. The current term-structure of forward volatility of [[Interest Rate Quotations|interest rates]]
-- The forward volatility can be estimated from options ([[Interest Rate Derivatives-An Introduction to the  Pricing of Caps and Floors|caps and floors]]),  and it reflects the volatility of forward rates with the indicated maturity.
+1. The current term-structure of yields 2. The current term-structure of forward volatility of [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)
+- The forward volatility can be estimated from options ([caps and floors](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Interest%20Rate%20Derivatives-An%20Introduction%20to%20the%20%20Pricing%20of%20Caps%20and%20Floors.md)),  and it reflects the volatility of forward rates with the indicated maturity.
 Therefore,  assume the following data
 Table 1: Inputs to BDT Model
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6c1964c8b9a175c35b079c72debf035f72e99501aaed9772122b81fe97d2568d.jpg)
-- Objective: Construct an interest [[Rate and Price Trees|rate tree]] that matches the data in Table 1 exactly$$
+ ![500](Attachments/500-71.jpg)
+- Objective: Construct an interest [rate tree](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) that matches the data in Table 1 exactly$$
 I=0\qquad\quad i=1\qquad\quad i=2\qquad\quad i=3
 $$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6842b4c6aa5daab5d96960b04de6a2df5cf2597952937bbfd81775a979ecaa77.jpg)
+ ![500](Attachments/500-72.jpg)
 
 (18)
 
@@ -3302,31 +3302,31 @@ $$
 Z_{i,          j+1}=z_{i,          1}-2\times j\times\sigma_{i+1}\sqrt{\Delta t}
 $$  
 - The unknowns in our original model,  with $\Delta t=1$ arethen
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4217a513628b2f41150dfb289e83a21cb4330eed0058f5c0a934abaea5951dae.jpg)
+ ![500](Attachments/500-74.jpg)
 ·At time $i=1$ we look for $z_{1,          u}$ ,  at time $i=2$ we need to look for $z_{2,          u u}$ etc.
  - Since we are already using the "volatility” condition,  the only equation to satisfy for every $i$ is the bond price out of the tree corresponds to the data $Z (0,          T_{i})$ that we have available.
  - This last computation can be done recursively by going backward from the end of the tree,  as usual.
 - Example: Suppose you had the data (extracted from Bloomberg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/69681711219bff520e7f1b314a667b7fd0b35da38323e55b189959c71b6ba3ec.jpg)
+ ![500](Attachments/500-79.jpg)
 - The implied BDT tree (already in interest rate format $r_{i j}=e x p (z_{i j})$ that matches the data is
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b7152f3a01088c202436cf6c438f206b15ea682d5cd13f7d42ab8370b2dedb5a.jpg)
+ ![500](Attachments/500-83.jpg)
 # Monte Carlo Simulations on Binomial Trees
-- [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Monte Carlo]] simulations is the most popular methodology to price securities
-- Consider a one-step [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|risk neutral]] [[Rate and Price Trees|binomial tree]] with equal chance of up or down movement.
+- [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) simulations is the most popular methodology to price securities
+- Consider a one-step [risk neutral](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) [binomial tree](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) with equal chance of up or down movement.
  - We want to price an interest rate option that pays at time $i=1$$$
 C_{1}=100\times\operatorname*{max}(r_{1}-r_{K},          0)
 $$  
 
 Where $r_{K}$ is the strike rate.
 
- - Using [[Lecture Notes 10- Interest Rate Derivatives|risk neutral pricing]],  the value of the option is
+ - Using [risk neutral pricing](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Notes%2010-%20Interest%20Rate%20Derivatives.md),  the value of the option is
 $$
 C_{0}=E^{*}\left[e^{-r_{0}\times T}\times c_{1}\right]=e^{-r_{0}\times T}\left[{\frac{1}{2}}\times c_{1,          u}+{\frac{1}{2}}\times c_{1,          d}\right]
 $$  
 
-Next figure computes the value of the option for a given [[Rate and Price Trees|binomial tree]].
+Next figure computes the value of the option for a given [binomial tree](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/163a8126a834ebb33a27c829aab8de145efa1a9782918c57393ee35bb27f7fb0.jpg)
+ ![500](Attachments/500-114.jpg)
 
 # Monte Carlo Simulations on Binomial Tree
 - Another way of computing the expected future payoff is to simulate upward and downward movements in the tree using a computer
@@ -3341,8 +3341,8 @@ $$
 Next Table illustrates the procedure
 
 - The first column reports the simulation number. -The second column displays the actual realization of the $R A N D ()$ function inExcel - The third column tells us the movement in the tree implied by the $R A N D ()$ realization - The fourth column reports the payoff at maturity,  i.e. $c_{1}^{s}=100\times\mathrm{max}(r_{1}^{s}-r_{K},          0)$ - The last column computes the discounted payoff,  $e^{-r_{0}\times T}\times c_{1}^{s}$
-Ten Simulations on the [[Rate and Price Trees|Binomial Tree]]
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c9a700702d8ec27869d29b3d3c7187e38d41b836bc999e3b45349fe10a83e29.jpg)
+Ten Simulations on the [Binomial Tree](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md)
+ ![500](Attachments/500-111.jpg)
 # The simulated value is$$
 \begin{array}{r}{\hat{c}_{0}=0.693.}\end{array}
 $$  
@@ -3358,13 +3358,13 @@ $$  $$
 I=2
 $$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f77d804db5da7e1faea94cc681d1d5e95bd3b65d51f8530ce5a32e6800921113.jpg)
+ ![500](Attachments/500-111.jpg)
 
-- First note that the backward computation methodology is equivalent to the outright calculation of the value of the security as the [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|risk neutral]] present discounted value of the payoff at maturity,  discounted at the risk free rate.
+- First note that the backward computation methodology is equivalent to the outright calculation of the value of the security as the [risk neutral](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) present discounted value of the payoff at maturity,  discounted at the risk free rate.
 That is,  the value of the security is equal to$$
 \begin{array}{r l}{c_{0}~=~}&{E^{*}\left[\underbrace{\left (e^{-r_{0}\times 0.5}\right)}_{\begin{array}{l}{(\mathsf{D i s c o u n t}~1\to 0)}\\ {(\mathsf{D i s c o u n t}~2\to 1)}\end{array}}\times\underbrace{\left (e^{-r_{1}\times 0.5}\right)}_{\begin{array}{l}{(\mathsf{D i s c o u n t}~3\to 1)}\\ {(\mathsf{D i s c o u n t}~2\to 1)}\end{array}}\times\underbrace{c_{2}}_{\begin{array}{l}{\mathsf{P a y o f f~a t}~2}\end{array}}\right]}\\ {~}&{~}\\ {~=~E^{*}\left[e^{-(r_{0}+r_{1})\times 0.5}\times c_{2}\right]}\end{array}
 $$  
-- Indeed,  the [[Interest Rate Quotations|interest rates]] $r_{2,          u u},         \; r_{2,          u d},         \; r_{2,          d u}$ and $r_{2,          d d}$ occur with a $25\%$ chance.
+- Indeed,  the [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) $r_{2,          u u},         \; r_{2,          u d},         \; r_{2,          d u}$ and $r_{2,          d d}$ occur with a $25\%$ chance.
 Thus,  the value of the option is also equal to$$
 \begin{array}{r l}{c_{0}~=~0.25\times e^{-(r_{0}+r_{1,          u})\times 0.5}\times c_{2,          u u}+0.25\times e^{-(r_{0}+r_{1,          u})\times 0.5}\times c_{2,          u d}}\\ &{+0.25\times e^{-(r_{0}+r_{1,          d})\times 0.5}\times c_{2,          d u}+0.25\times e^{-(r_{0}+r_{1,          d})\times 0.5}\times c_{2,          d d}}\\ {~=~1.7784,         }\end{array}
 $$  
@@ -3373,22 +3373,22 @@ $$
 
 - We now perform exactly the same simulation exercise as before two realization s of $R A N D ()$
 - The only caveat now is to figure out how we should discount simulated cash flows back to time Ol
-- From (24),  and its explicit development in (25) and (26) we must discount [[Preview of the Book|cash flow]] by using the realized interest rate path in that simulation.
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eabc9799bcb39b49ea6ac3a121eb96e51e26ee495b9373a2fc2da82f814634e7.jpg)
+- From (24),  and its explicit development in (25) and (26) we must discount [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) by using the realized interest rate path in that simulation.
+ ![500](Attachments/500-116.jpg)
 Higher number of simulations improves accuracy:$$
 \begin{array}{l}{N\ =\ 10\Longrightarrow\hat{c}_{0}=1.975}\\ {N\ =\ 1,         000\Longrightarrow\hat{c}=1.839}\end{array}
 $$  
 # Monte Carlo Simulations for Path Dependent Securities
 - Many securities have payoffs that are path dependent
-- The payoff at maturity depends on the whole path taken by [[Interest Rate Quotations|interest rates]] before maturity -Examples include $^*$ Asian options: Payoff at maturity depend on average [[Interest Rate Quotations|interest rates]]; $^*$ Corridor bonds: Pay coupon so long interest rate is within a band; \* Amortizing Interest Rate Swaps: The notional of IRS depend on path of [[Interest Rate Quotations|interest rates]]: \* Mortgage Backed Securities: Because of frictions in deciding when to pay back mortgage,  payoff depends on path of [[Interest Rate Quotations|interest rates]] (and many other variables)
-- The [[Arbitrage Pricing of Derivatives|pricing]] of path dependent securities is easier to perform using [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Monte Carlo]] simulations
+- The payoff at maturity depends on the whole path taken by [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) before maturity -Examples include $^*$ Asian options: Payoff at maturity depend on average [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md); $^*$ Corridor bonds: Pay coupon so long interest rate is within a band; \* Amortizing Interest Rate Swaps: The notional of IRS depend on path of [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md): \* Mortgage Backed Securities: Because of frictions in deciding when to pay back mortgage,  payoff depends on path of [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) (and many other variables)
+- The [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of path dependent securities is easier to perform using [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) simulations
 # Example: Asian Options
 - An Asian interest rate option is an option whose payoff at maturity is given by
-- This payoff makes the [[Rate and Price Trees|binomial tree]] non-recombining,  as the payoff from "up-down movement" is different from the payoff from a"down-up movement'
+- This payoff makes the [binomial tree](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) non-recombining,  as the payoff from "up-down movement" is different from the payoff from a"down-up movement'
  - Denote by $\overline {{r}} _{i,          j}=a v e r a g e (r_{k})$ for $k\leq j$ on the path to $(i,          j)$
- - For such short [[Rate and Price Trees|binomial tree]] we can still compute the value of path-dependent security using backward calculation
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/269c974a8795fd7d57ce2689b3b2a795a525d077559688bd4977a3d467cc563a.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1c3983ddd488a60b650336c5261fb79419a55bef91bfe9ef4054df41ecabcb25.jpg)
+ - For such short [binomial tree](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) we can still compute the value of path-dependent security using backward calculation
+ ![500](Attachments/500-111.jpg)
+ ![500](Attachments/500-83.jpg)
 # Monte Carlo Simulations for Path Dependent Securities
 
 ·The tree becomes non-recombining. When we use "big trees",  this is a serious problem
@@ -3396,44 +3396,44 @@ $$
 - For instance,  for mortgage backed security with monthly payment we need a tree with 360 steps. This implies a treewith $2^{360}=2.345 E+108$ nodes by the end of the tree (!).
 - MC simulations do not require a backward calculation. Problem solved!
  - In the example above,  with 10 simulations,  we obtain the following table
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a62f02b4259072b1e79b13fd03dafb094d5ee64cc2d9c7f1020717d20c8f0e18.jpg)
+ ![500](Attachments/500-111.jpg)
 # Monte Carlo Simulations with Multi Step Trees
-- The approach readily extends to multi-period [[A Real-Life Option Pricing Exercise|binomial]] trees,  which is an important extension as it allows us to evaluate relatively complex securities
+- The approach readily extends to multi-period [binomial](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) trees,  which is an important extension as it allows us to evaluate relatively complex securities
 - For instance,  in the Ho-Lee model we can simulate directly the tree$$
 \begin{array}{r}{r_{i+1,          j}\ =\ r_{i,          j}+\theta_{i}\times\Delta+\sigma\times\sqrt{\Delta}}\\ {r_{i+1,          j+1}\ =\ r_{i,          j}+\theta_{i}\times\Delta-\sigma\times\sqrt{\Delta}}\end{array}
 $$  
 # Ho-Lee Binomial Tree
 
-PanelA: TheHo-Lee Interest [[Rate and Price Trees|Rate Tree]]
+PanelA: TheHo-Lee Interest [Rate Tree](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1f81e1ba7c162aae8887bea17ef7804c486b848e8882160e24367eb80c583348.jpg)
+ ![500](Attachments/500-76.jpg)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bc48b1d29a75880d1efcf266df06b0828e405786f2fe6dfffb58907b269c35b1.jpg)
+ ![500](Attachments/500-91.jpg)
 
 # Simulations on Ho-Lee Binomial Tree
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b67a444a55086a25cf8e3bfbf560bd6233c84980f701785e17b6dfce462f0d22.jpg)
+ ![500](Attachments/500-71.jpg)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e501be0a61ffabe18d0324b920ac213df4d1ae582a2a2b9fb369ae10a179a8a4.jpg)
+ ![500](Attachments/500-94.jpg)
 
 # Ho-Lee Binomial Tree: Simulated Discounts
 - For each simulated path $r_{0},         \; r_{1}^{s},         \; r_{2}^{s},         …,          r_{k-1}^{s}$ ,  compute the simulated zero with maturity $T_{k}$ as$$
 Z^{s}(0,          T_{k})=e^{-\sum_{i=1}^{k-1}r_{i}^{s}\Delta t}
 $$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/68dbd4c329bc64e44a7248f321926728fb851cbfbfc87b53f70e1aeccc93ae7e.jpg)
+ ![500](Attachments/500-69.jpg)
 
 - Maturity $T_{i}$
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0f28b132c23347553ea3f104cb91b927f580e8e3a1665bb1b272defaf2c272eb.jpg)
+ ![500](Attachments/500-94.jpg)
 # Simulated Ho-Lee Binomial Tree: Valuation of Zero-Coupon Bonds
 - The simulated value of a zero coupon bond is the average across simulated discounts$$
 \widehat{Z}(0,          T_{k})=\frac{1}{N}\sum_{s=1}^{N}Z^{s}(0,          T_{k})
 $$  
 - The simulated values with $N=1000$ are reported in the next table,  together with the data used to fit the Ho-Lee treemodel
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c9e952c1f2b7d30d42d7d99b5307faf970743989aef01f80ccd4f5d6c22f0e36.jpg)
+ ![500](Attachments/500-111.jpg)
 # Simulated Ho-Lee Binomial Tree: Valuation of an Interest Rate Option
 - The same valuation methodology can be used to price long-term options,  such as one paying at $i=1,         …,          10$
-[[Lecture Notes 10- Interest Rate Derivatives|Risk neutral pricing]] implies that the price of this option is given by$$
+[Risk neutral pricing](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Notes%2010-%20Interest%20Rate%20Derivatives.md) implies that the price of this option is given by$$
 \begin{array}{r l}{c_{0}(T_{i})}&{\!=\!\phantom{\frac{}{}}E^{*}\left[\mathsf{P r e s e n t\ v a l u e\ o f\ p a y o f f\ a t\}T_{i}\right]}\\ &{\!=\!\phantom{\frac{}{}}E^{*}\left[e^{-(r_{0}+r_{1}+\ldots+r_{i-1})\times\Delta}\times 100\times\operatorname*{max}\left (r_{i}-r_{K},          0\right)\right]}\end{array}
 $$  
 - For each simulation path $s,         \; r_{0},         \; r_{1}^{s},         \; r_{2}^{s},         ….,         \; r_{n}^{s},         \; s=1,         ..,          N$ ,  we compute the discounted payoff$$
@@ -3451,41 +3451,41 @@ $$
 100\times\operatorname*{max}(r_{2}^{1}-r_{K},          0)=0.9849\times 100\times\operatorname*{max}(3.61\%-1.74\%,          0)=
 $$  
 - The option values in Panel A are then computed as the average of values in the corresponding column in Panel B - (although the average is taken over all the 1,  0 o 0 simulated paths,  rather than only the ten paths reported in Panel B).
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e1a39cc0dba6085f4a39ec1a4a44bf57fb51b38ae1c91d849e4ba68ac46e2705.jpg)
+ ![500](Attachments/500-89.jpg)
 # How Many Simulations are Enough?
-- A price of a security computed by [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Monte Carlo]] Simulations is an estimate of the true price. - Using simulations we are generating a sample of observations of the price of the security - Because it is an estimate,  we can compute the price's standard error.
+- A price of a security computed by [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) Simulations is an estimate of the true price. - Using simulations we are generating a sample of observations of the price of the security - Because it is an estimate,  we can compute the price's standard error.
 - For instance,  the first two rows in next Table reports the prices (again) and standard errors of the long-term interest call options discussed earlier .
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/653497b3ade6a44e0b88a0c3fdcaad2e0e48caec0dc517d96f2a0f3324b0c2d3.jpg)
+ ![500](Attachments/500-101.jpg)
 # Monte Carlo Simulations and Confidence Intervals
 - How small should a standard error be to make a trader confident on the price of the option?
  - The related concept of a $\left (95\%\right)$ confidence interval answers this question:
 Confidence interval $=[\hat{c}_{0}-2\times\mathsf{S t}$ .Err.,  $\hat{c}_{0}+2\times\mathsf{S t}$ . Err.]
 -There $95\%$ probability that the true value $c_{0}$ is between the upper and lower boundary of the confidence interval.
 - In previous Table,  the upper and lower boundaries of the confidence interval are reported in the third and fourth rows,  respectively.
-- The last row of the table reports the value of the option from the [[Rate and Price Trees|Binomial Tree]] itself.
+- The last row of the table reports the value of the option from the [Binomial Tree](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) itself.
 - In all but one case,  the true price is within the confidence interval. - Is this surprising?$\ast\textsf{N o}$ ,  because there is only $95\%$ chance that the true value lies within the confidence interval. $*~{\mathsf{I.e}}$ .for $5\%$ of the time,  the true value will not be within the confidence interval.
  - The confidence intervals in the Table are quite wide,  and so no trader would use them.
  - Raising the number of simulations reduces the spread in the confidence interval.
 # Long-term Asian Options
 - At this point,  we can estimate the values of a long-term Asian options with maturities $T_{i}=0.5,         …,          5$
 - Next table computes the value (Panel A),  and the first 10 simulated discounted payoffs (Panel B)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5d172209b07fc6ed1ce8d7079ae2e638f3a6fac8d57e36ef6f010050d15b6792.jpg)
+ ![500](Attachments/500-91.jpg)
 # Duration Calculations by Monte Carlo Simulations
-- How can we compute measures of risk if we use [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Monte Carlo]] simulations for valuation? - We can use [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Monte Carlo]] simulations to compute the "[[The Foreign Exchange Market Annotations|spot rate]]" [[Key Rates O1s Durations and Hedging|duration]],  3 defined as$$
+- How can we compute measures of risk if we use [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) simulations for valuation? - We can use [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) simulations to compute the "[spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md)" [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md),  3 defined as$$
 \mathsf{S p o t\ r a t e\ d u r a t i o n}=-\frac{1}{P}\frac{d P}{d r}\approx-\frac{1}{\hat{P}(r_{0})}\frac{\hat{P}(r_{0}+d r)-\hat{P}(r_{0})}{d r}
 $$  
 
-That is,  compute the price starting from $r_{0}$ and from $r_{0}+d r$ . Then approximate the [[Key Rates O1s Durations and Hedging|duration]] numerically
+That is,  compute the price starting from $r_{0}$ and from $r_{0}+d r$ . Then approximate the [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) numerically
 
 - Important: To avoid introducing simulation errors,  use the same realization s of the RAND () for the computation of the two prices
  ·Does itwork?
-- Panel A of next Table contains the [[Key Rates O1s Durations and Hedging|duration]] approximation for zero coupon bonds. It works pretty nicely - Panel B and C compute the durations for long-term options and Asian options discussed earlier. Note:$^*$ First,  the [[Key Rates O1s Durations and Hedging|duration]] of the interest rate call option is negative $^*$ Second,  the [[Key Rates O1s Durations and Hedging|duration]] of Asian options is also negative and higher than the one of plain vanilla options. . This may be surprising,  as Asian options' underlying (the average of [[Interest Rate Quotations|interest rates]]) is less volatile than the interest rate itself. . However,  the price of an Asian option is also smaller. Thus,  in percentage,  the sensitivity of the Asian option to changes in [[Interest Rate Quotations|interest rates]] ishigher.
+- Panel A of next Table contains the [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) approximation for zero coupon bonds. It works pretty nicely - Panel B and C compute the durations for long-term options and Asian options discussed earlier. Note:$^*$ First,  the [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of the interest rate call option is negative $^*$ Second,  the [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of Asian options is also negative and higher than the one of plain vanilla options. . This may be surprising,  as Asian options' underlying (the average of [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)) is less volatile than the interest rate itself. . However,  the price of an Asian option is also smaller. Thus,  in percentage,  the sensitivity of the Asian option to changes in [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) ishigher.
 # Duration Calculations by Monte Carlo Simulations
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3f66a8fa1307f3f4b8c7b91b70de0480d5e4df8b71834ca5bb970e9859d8f1d7.jpg)
+ ![500](Attachments/500-91.jpg)
 
 # Monte Carlo Simulations in General
-- The [[Pricing a Callable Leveraged Constant Maturity Swap Spread Note|Monte Carlo simulation]] method is far more general than what I presented so far
+- The [Monte Carlo simulation](../../Financial%20Instruments/Pricing%20a%20Callable%20Leveraged%20Constant%20Maturity%20Swap%20Spread%20Note.md) method is far more general than what I presented so far
  - For instance,  the Ho-Lee model also works with "continuous' shocks$$
 R_{t+\Delta{t}}=r_{t}+\theta_{t}\Delta{t}+\sigma\sqrt{\Delta{t}}\varepsilon_{t+\delta}
 $$  
@@ -3502,7 +3502,7 @@ $$
 
 For some function $\mu (r_{t})$ and $\sigma (r_{t})$
 
-- Important: The functions $\mu (r_{t})$ and $\sigma (r_{t})$ must be estimated with securities data,  to obtain “[[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|risk neutral]]" (or risk adjusted) processes.
+- Important: The functions $\mu (r_{t})$ and $\sigma (r_{t})$ must be estimated with securities data,  to obtain “[risk neutral](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md)" (or risk adjusted) processes.
 - The methodology is an extension of what we did to estimate $\theta_{i}$ with Ho-Lee model on trees - The price of a security with payoff $g (r_{T})$ at maturity $T$ ,  with a time interval $\Delta t=T/n$ ,  is$$
 Z (0,          T)\;\;=\;\; E^{*}\left[e^{-\sum_{j=0}^{n-1}r_{j}\Delta t}\times g (r_{T})\right]\approx\frac{1}{N}\sum_{s=1}^{N}\left[e^{-\sum_{j=0}^{n-1}r_{j}^{s}\Delta t}\times g (r_{T}^{s})\right]
 $$  
@@ -3511,35 +3511,35 @@ $$
 
 # PanelA. Billionsof USDollars
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/44cd5f982f0a5c242a9275e360245bfcdc10ca4b35b8428607c1cf221c7d3c28.jpg)
+ ![500](Attachments/500-88.jpg)
 
 Panel B. Percentage of US GDF
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/697487df73db1056c459378362e74b5bc9723900c0055407efb322bf9e488198.jpg)
+ ![500](Attachments/500-111.jpg)
 
 (Source: SIFMA and FRED at Federal Reserve of St. Louis.)
 
 # House Prices and the Mortgage Backed Securities Market
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3d909ad043c5dc12f114c2f8adedb93a918b03d3f92f13ac8d9ff8a940271959.jpg)
+ ![500](Attachments/500-88.jpg)
 
 Source: SIFMA and Standard & Poor/ Case-Shiller
 
 # The Se curit iz ation Process
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e0494099b8be2d5b0a7a222acd5f5ec3d7aecc1c8d56dfe0e156b68d2cddb99c.jpg)
+ ![500](Attachments/500-120.jpg)
 
 # MBS Players
 
 Three main government sponsored agencies exist
 
-- FNMA (Federal National Mortgage Association,  or Fannie Mae): Used to be a publicly traded corporation,  but it was placed in conservator ship in September 2008. It provides secondary markets for mortgage loans from FHA (Federal Housing Administration) and VA (Veterans Administration). - GNMA (Government National Mortgage Association,  or Ginnie Mae): Government owned. GNMA guarantees loans in FHA and VA - FHLMC (Federal Home Loan Mortgage Corporation,  or Freddie Mac): Similarly to Fannie Mae,  it provides a link between [[Teaching Note 6 Mortgage Backed Securities|mortgage lenders]] and capital markets. It buys from S&Ls,  mortgage bankers and commercial banks,  and sell mortgage pass-through securities.
-- In addition,  other private labels also exist,  although in recent times they cover a small fraction of the total issuance,  because of [[Quantitative Trading Strategies Lecture Notes|credit risk]]
+- FNMA (Federal National Mortgage Association,  or Fannie Mae): Used to be a publicly traded corporation,  but it was placed in conservator ship in September 2008. It provides secondary markets for mortgage loans from FHA (Federal Housing Administration) and VA (Veterans Administration). - GNMA (Government National Mortgage Association,  or Ginnie Mae): Government owned. GNMA guarantees loans in FHA and VA - FHLMC (Federal Home Loan Mortgage Corporation,  or Freddie Mac): Similarly to Fannie Mae,  it provides a link between [mortgage lenders](Teaching%20Note%206%20Mortgage%20Backed%20Securities.md) and capital markets. It buys from S&Ls,  mortgage bankers and commercial banks,  and sell mortgage pass-through securities.
+- In addition,  other private labels also exist,  although in recent times they cover a small fraction of the total issuance,  because of [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md)
 - There are some differences across the agencies on the type of mortgage pools they guarantee or buy/sell.
-- The most common MBS is the Pass-Through MBS: all the cash flows from the original pool are passed to the investors. - Pass through MBSs have their own interest rate $r^{P T}$ ,  lower than the average mortgage rate in the pool as agencies keep a fee for arranging the [[Teaching Note 6 Mortgage Backed Securities|MBS market]] (and provide [[Credit Default Swaps|default insurance]])
+- The most common MBS is the Pass-Through MBS: all the cash flows from the original pool are passed to the investors. - Pass through MBSs have their own interest rate $r^{P T}$ ,  lower than the average mortgage rate in the pool as agencies keep a fee for arranging the [MBS market](Teaching%20Note%206%20Mortgage%20Backed%20Securities.md) (and provide [default insurance](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Credit%20Default%20Swaps.md))
 # Mortgage Related Issuance
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/87e6a88185b3cc6aefb486d6b5680d4a696c1350aa546a0ddfcaf21c65b0230d.jpg)
+ ![500](Attachments/500-91.jpg)
 
 Notes: Agency issuance includes GNMA,  FNMA,  and FHLMC mortgage backed securities and CMOs Nonagency issuance includes both private-label RMBS,  Res e curit iz ation,  and Home Equity Loans. Quantities are\$billions. Source: SIFMA. Government-Sponsored Enterprises,  Thomson Financial,  Bloomberg
 
@@ -3547,7 +3547,7 @@ Notes: Agency issuance includes GNMA,  FNMA,  and FHLMC mortgage backed securiti
 
  - It is important to review some basic facts about mortgages
 
- - Consider for instance a 30-year [[Fixed-Rate Mortgage Loans|fixed-rate mortgage]],  with mortgage rate of $\overline {{r}} _{12}^{m}$
+ - Consider for instance a 30-year [fixed-rate mortgage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2015/Fixed-Rate%20Mortgage%20Loans.md),  with mortgage rate of $\overline {{r}} _{12}^{m}$
 
  - Let $L$ be the amount of the mortgage lent from the bank to the homeowner.
 
@@ -3566,32 +3566,32 @@ $$
 $$  
 # Scheduled Principal Balance,  Scheduled Interest,  and Principal Payments
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3d5f79821704b1a16c97fd3b879e4dc93577007e2e5ddc7bf9a421d25d26d0e0.jpg)
+ ![500](Attachments/500-88.jpg)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/810bc18173b8d3c506c67769f22c220d87927c099707e132803a5219e293be1b.jpg)
+ ![500](Attachments/500-82.jpg)
 
 # The Refinancing Option
 - The value of the mortgage debt changes over time as mortgage rates change$$
 {\mathsf{V a l u e\ o f\ m o r t g a g e\ d e b t}}=P (t)=\sum_{i=1}^{n}{\frac{C}{(1+r_{12}^{m}(t,          T_{i})/12)^{i}}}
 $$  
--where $n$ is the number of payments left at time $t$ and $r_{12}^{m}(t,          T_{i})$ are appropriate spot rates,  related to the current [[The Vasicek Model|term structure]] of mortgage rates.
+-where $n$ is the number of payments left at time $t$ and $r_{12}^{m}(t,          T_{i})$ are appropriate spot rates,  related to the current [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) of mortgage rates.
 ·Atevery $t$ ,  the homeowner can compare the amount of principal left to pay,  $L_{t}$ ,  with the market value of his liability to the bank $P (t)$
-- As in any bond,  $P (t)$ increases in value whenever [[Interest Rate Quotations|interest rates]] decline.$-\implies$ when [[Interest Rate Quotations|interest rates]] decline,  $P (t)$ may increases to a higher level than $L_{t}$ $-\implies$ optimal to refinance the mortgage.
+- As in any bond,  $P (t)$ increases in value whenever [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) decline.$-\implies$ when [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) decline,  $P (t)$ may increases to a higher level than $L_{t}$ $-\implies$ optimal to refinance the mortgage.
 # Refinancing and the Federal Funds Rate: 1990 - 2008
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4c1b1d1caf8ddea4c64e1200ce9261e8994167328db067c34dbf07a3f2488191.jpg)
+ ![500](Attachments/500-91.jpg)
 
 Source: Federal Reserve and Bloomberg.
 
 # Mortgage Prepayments
-- [[Interest Rate Quotations|Interest rates]] declines are but one component of the prepayment,  albeit very important
+- [Interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) declines are but one component of the prepayment,  albeit very important
 Other reasons include the following
 1. Seasonality: (Late) summers are characterized by larger prepayments,  because of the relocation seasonality.
-1. Age of [[Mortgage Pools|mortgage pool]]: Young (but not too young) mortgage pools tend to be refinanced more heavily.
+1. Age of [mortgage pool](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2015/Mortgage%20Pools.md): Young (but not too young) mortgage pools tend to be refinanced more heavily.
 1. Family circumstances: Defaults,  disasters,  or sale of the house
 1. Housing prices: Higher prices makes it easier to refinance
-1. Burnout effect: Mortgage pools heavily refinanced in the past tend to be insensitive to [[Interest Rate Quotations|interest rates]].
-- If a [[Mortgage Pools|mortgage pool]] has been heavily refinanced in the past,  most homeowners that could refinance alreadydid.
+1. Burnout effect: Mortgage pools heavily refinanced in the past tend to be insensitive to [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md).
+- If a [mortgage pool](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2015/Mortgage%20Pools.md) has been heavily refinanced in the past,  most homeowners that could refinance alreadydid.
 The only homeowners left in the pool are those who could not refinance
 1. Media effect: The more newspaper talk about refinancing possibilities,  the more refinancing actuallyoccurs.
 # Standard Measures of Prepayment Speed
@@ -3601,19 +3601,19 @@ Pr (Prepayment at time $t=n$ months from now) = (1 - p)^ p
 - The annualized rate,  the conditional prepayment rate (CPR) given by
 - Thus,  the CPR is computed from $p$ as $C P R=1-\left (1-p\right)^{12}$
 - PSA Experience The benchmark $100\%$ PSA (Public Securities Association),  makes the fol lowing assumptions:
-1. $\mathsf{C P R}=0.2\%$ of the principal is paid in the first month; 2. CPR increases by $0.2\%$ in each of the following 30 months; and 3. CPR then levels off at $6\%$ until maturity. - This measure makes the amount of prepayment depend only on the age of the [[Mortgage Pools|mortgage pool]]. - By scaling up or down the CPR in the PSA description,  we obtain faster or slower speeds of prepayments.
+1. $\mathsf{C P R}=0.2\%$ of the principal is paid in the first month; 2. CPR increases by $0.2\%$ in each of the following 30 months; and 3. CPR then levels off at $6\%$ until maturity. - This measure makes the amount of prepayment depend only on the age of the [mortgage pool](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2015/Mortgage%20Pools.md). - By scaling up or down the CPR in the PSA description,  we obtain faster or slower speeds of prepayments.
 # PSA Prepayment Convention
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1cb78096a6e7b0abc7cb766519800fc471e1e7acc08c3feca52f2f9e1d71ac6c.jpg)
+ ![500](Attachments/500-111.jpg)
 
 # PSA and MBS Pricing
 - A PSA prepayment speed is simply a quoting convention to allow traders to quote RMBS
 - Indeed,  given a PSA speed defines the path for the monthly prepayment probability $p_{t}$
-- Given the path $\{p_{t}\}$ ,  the [[Mortgage Pricing Spreads and Duration|MBS cash flows]] follow. Let $L_{t}$ be the outstanding principal,  then Mortgage interest payment:
+- Given the path $\{p_{t}\}$ ,  the [MBS cash flows](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2015/Mortgage%20Pricing%20Spreads%20and%20Duration.md) follow. Let $L_{t}$ be the outstanding principal,  then Mortgage interest payment:
 Scheduled principal: Principal prepayment: Outstanding principal: Update of scheduled coupon:$$
 \begin{array}{r l}{\displaystyle I_{t}\ =\ \frac{\boldsymbol{r}_{12}^{m}}{12}\times L_{t}}&{}\\ {P a y_{t}^{s c h e d u l e d}\ =\ C_{t}-I_{t}}&{}\\ {P a y_{t}^{p r e p a i d}\ =\ p_{t}\times\left (L_{t}-P a y_{t}^{s c h e d u l e d}\right)}&{}\\ {\displaystyle L_{t+1}\ =\ L_{t}-P a y_{t}^{s c h e d u l e d}-P a y_{t}^{p r e p a i d}}&{}\\ {\displaystyle C_{t+1}\ =\ \left (1-p_{t}\right)\times C_{t}}&{}\end{array}
 $$  
-- Given the dynamics of $L_{t}$ implicit in PSA,  we can compute the path thourgh [[Advanced Derivatives Pricing Methodology|future cash flows]]:
+- Given the dynamics of $L_{t}$ implicit in PSA,  we can compute the path thourgh [future cash flows](../../Financial%20Engineering/Advanced%20Derivatives%20Pricing%20Methodology.md):
 Pass-through interest payment:$$
 \begin{array}{r l}&{I_{t}^{P T}\ =\ \displaystyle\frac{r_{12}^{P T}}{12}\times L_{t}}\\ &{C F_{t}\ =\ I_{t}^{P T}+P a y_{t}^{s c h e d u l e d}+P a y_{t}^{p r e p a i d}}\end{array}
 $$  
@@ -3623,31 +3623,31 @@ $$
 {\cal P}^{M B S}(0,          T)=\sum_{t=1}^{T}~Z (0,          t)~C F_{t}
 $$  
 # The Negative Convexity of Mortgage Backed Securities
-- When [[Interest Rate Quotations|interest rates]] drop,  regular T-bonds increase in a convex manner.
-- However,  if prepayment occurs,  then Mortgage Backed Securities will move towards principal =→[[Mortgage Pricing Spreads and Duration|negative convexity]]
-Indeed,  MBS is equal to a [[An Asset Allocation Primer|portfolio]] with long bond and short call option - While long bond has [[Convexity|positive convexity]],  the short call has a strong [[Mortgage Pricing Spreads and Duration|negative convexity]]
-  [[Mortgage Pricing Spreads and Duration|Negative convexity]] implies a negative loss on average$$
+- When [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) drop,  regular T-bonds increase in a convex manner.
+- However,  if prepayment occurs,  then Mortgage Backed Securities will move towards principal =→[negative convexity](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2015/Mortgage%20Pricing%20Spreads%20and%20Duration.md)
+Indeed,  MBS is equal to a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) with long bond and short call option - While long bond has [positive convexity](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%204/Convexity.md),  the short call has a strong [negative convexity](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2015/Mortgage%20Pricing%20Spreads%20and%20Duration.md)
+  [Negative convexity](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2015/Mortgage%20Pricing%20Spreads%20and%20Duration.md) implies a negative loss on average$$
 T)\approx P^{M B S}(t,          T)+\frac{d P^{M B S}(t,          T)}{d r}(r (t+1)-r (t))+\frac{1}{2}\frac{d^{2}P^{M B}}{d r}
 $$  
 - Thus,  assuming over a short period $E\left[r (t+1)-r (t)\right]=0$ we have:$$
 \left.\frac{P^{M B S}(t+1,          T)-P^{M B S}(t,          T)}{P^{M B S}(t,          T)}\right]\approx\frac{1}{2}\;{\cal C}\; E\left[(r (t+1)-r (t))\right.
 $$  
 
-·Because $E\left[(r (t+1)-r (t))^{2}\right]>0$ ,  the [[Mortgage Pricing Spreads and Duration|negative convexity]] $C$ implies an average loss generated by the average variation in [[Interest Rate Quotations|interest rates]].
+·Because $E\left[(r (t+1)-r (t))^{2}\right]>0$ ,  the [negative convexity](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2015/Mortgage%20Pricing%20Spreads%20and%20Duration.md) $C$ implies an average loss generated by the average variation in [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md).
 
 # The Value of a Pass-Through MBS with Respect to the Interest Rate
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a91c4a0a16274b2466417c54a72740a78a1a9b2a1ce74c9d067048b73e35bdbf.jpg)
+ ![500](Attachments/500-83.jpg)
 
 # The Convexity of MBS: GNMA 7 Prices and Mortgage Rates
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/87fdf8d7aed1a22e32670c20145244a79fe32a47a1b5b67772b45f20f81968c6.jpg)
+ ![500](Attachments/500-117.jpg)
 
 Data source: Bloomberg and Federal Reserve Board
 
 # Refinancing Speed and Rates: GNMA 7 PSA and Mortgage Rates
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f8b52691d8e81152dfc18b827a3c8080051bf41bd404eecf9c6356cfaefafa4a.jpg)
+ ![500](Attachments/500-99.jpg)
 
 Data source: Bloomberg and Federal Reserve Board
 
@@ -3655,16 +3655,16 @@ Data source: Bloomberg and Federal Reserve Board
 
 A Sample of Par Value Ginnie Mae Pass-Through Prices and Treasury Yields
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fd57400f883b970ee5cc0e6d800fbcdd4c0fbe36f78c2e251085708f2f243778.jpg)
+ ![500](Attachments/500-90.jpg)
 
 WAC $=$ Weighted Average Coupon of underlying Pool; WAM $=$ Weighted Average Maturity of underlying Pool.
 
 Source: Bloomberg andFederal Reserve Board.
 
-- MBS securities pay a higher coupon than similar [[US Markets|Treasury securities]],  even if [[Quantitative Trading Strategies Lecture Notes|credit risk]] is the same - Ginnie Mae-issued RMBS have the full backing of the US government
+- MBS securities pay a higher coupon than similar [Treasury securities](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/US%20Markets.md),  even if [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) is the same - Ginnie Mae-issued RMBS have the full backing of the US government
 # RMBS and Interest Rate Risk Management: Example
 - Let today be June 8,  2007,  and assume we have invested $\$ 300$ million in the GNSF 6 pass-through - The underlying pool of this pass through has a WAC of $6.5\%$ and a WAM of 320 months. - The pass through has a $6\%$ coupon,  and it is quoted at bid/ask prices $=$ [99.4375 / 99.40625]
-- We want to hedge the risk against an increase in [[Interest Rate Quotations|interest rates]]. How do we compute [[An Analytical Decomposition of Forward Rates|duration and convexity]]?
+- We want to hedge the risk against an increase in [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md). How do we compute [duration and convexity](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%208/An%20Analytical%20Decomposition%20of%20Forward%20Rates.md)?
 - For instance,  simply using the same formulas as for bonds seems wrong. Indeed,  two simple formulas are$$
 \begin{array}{r}{D\ =\ -\frac{1}{P^{M B S}(0,          T)}\frac{d P^{M B S}(0,          T)}{d r}=\sum_{i=1}^{n}\ w_{i}\ T_{i};}\\ {C\ =\ \frac{1}{P^{M B S}(0,          T)}\frac{d^{2}P^{M B S}(0,          T)}{d r^{2}}=\sum_{i=1}^{n}\ w_{i}\ T_{i}^{2}}\end{array}
 $$  
@@ -3674,12 +3674,12 @@ $$
 W_{i}=\frac{C F_{T_{i}}Z (0,          T_{i})}{P^{M B S}(0,          T)}
 $$  
 
-This calculation yields $D=4.39$ and $C=36.1590$ - Where is the [[Mortgage Pricing Spreads and Duration|negative convexity]]?
+This calculation yields $D=4.39$ and $C=36.1590$ - Where is the [negative convexity](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2015/Mortgage%20Pricing%20Spreads%20and%20Duration.md)?
 
 # RMBS and Interest Rate Risk Management: PSA-adjusted Effective Duration
 - The earlier computations does not take into account that PSA speed,  and thus CFs,  change with the interest rate.
- - The PSA-adjusted Effective [[Key Rates O1s Durations and Hedging|Duration]] corrects for this - How can we forecast the change in PSA speed for given interes rate? - SIFMA survey forecasts provide a simple way Mortgage Prepayment Projection Yield Curve Scenarios
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4efac770a73e96d16361bd138fe24ba2973788b7e9ff393e9360d9b73d3fe712.jpg)
+ - The PSA-adjusted Effective [Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) corrects for this - How can we forecast the change in PSA speed for given interes rate? - SIFMA survey forecasts provide a simple way Mortgage Prepayment Projection Yield Curve Scenarios
+ ![500](Attachments/500-77.jpg)
 # RMBS and IRRM: PSA-adjusted Effective Duration and Convexity
 - We can use these projections to adjust the cash flows.
  - Using for instance a 50 bps increase / decrease,  we obtain
@@ -3687,32 +3687,32 @@ D $\frac{-1}{P}\frac{P (+50 b p s)-P (-50 b p s)}{2\times 50 b p s}=-\frac{1}{99
 Using instead a 1 o 0 bps increase / decrease,  we obtair$$
 \frac{-\frac{1}{P}\frac{P (+100 b p s)-P (-100 b p s)}{2\times 100 b p s}=-\frac{1}{99.43}\frac{94.00-102.24}{2\times 100 b p s}}{1}
 $$  
-- These numbers for [[PSET II Fixed Income Asset Pricing 1|convexity]] are much more in line with the intuition that cash flows increase when interest rate decline,  because of the prepayment option.
+- These numbers for [convexity](../Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) are much more in line with the intuition that cash flows increase when interest rate decline,  because of the prepayment option.
 # RMBS and IRRM: Empirical Duration and Convexity
-- A third methodology is to use past data to inform about the sensitivity of MBS to changes to [[Interest Rate Quotations|interest rates]].
-- This methodology can be particularly useful as we can check the relation between MBS prices and the relevant interest rate for [[Key Rates O1s Durations and Hedging|hedging]]. - Indeed,  given the [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] of the [[Assessing the LIFFE Swapnote|OTC swap]] market,  interest rate swaps are typically the preferred derivative instrument to hedge against changes in [[Interest Rate Quotations|interest rates]]
-- Next figures shows the relation between GNMA prices,  and the 5-year [[Teaching Note 4 Interest Rate Derivatives|swap rate]]
-- Using these data,  and denoting $c_{t}(5)$ the 5-year [[Teaching Note 4 Interest Rate Derivatives|swap rate]] at $t$ ,  we can also estimate a (simple) polynomial regression$$
+- A third methodology is to use past data to inform about the sensitivity of MBS to changes to [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md).
+- This methodology can be particularly useful as we can check the relation between MBS prices and the relevant interest rate for [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md). - Indeed,  given the [liquidity](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) of the [OTC swap](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Assessing%20the%20LIFFE%20Swapnote.md) market,  interest rate swaps are typically the preferred derivative instrument to hedge against changes in [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)
+- Next figures shows the relation between GNMA prices,  and the 5-year [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md)
+- Using these data,  and denoting $c_{t}(5)$ the 5-year [swap rate](Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) at $t$ ,  we can also estimate a (simple) polynomial regression$$
 P_{t}=\alpha+\sum_{i=1}^{4}\beta_{i}\times c_{t}(5)^{i}+\epsilon_{t}
 $$  
 - Given the estimates,  we can easily compute $d P/d r$ and $d^{2}P/d r^{2}$ ,  obtaining then$$
 \begin{array}{l}{\mathsf{E m p i r i c a l\Delta D u r a t i o n\;=\;-}\displaystyle\frac{1}{P}\frac{d\; P}{d\; c (5)}=\frac{444.66}{99.4219}=4.4725}\\ {\mathsf{E m p i r i c a l\Delta C o n v e x i t y\;=\;}\displaystyle\frac{1}{P}\frac{d^{2}\; P}{d\; c (5)^{2}}=\frac{-14731.4}{99.4219}=-148.17}\end{array}
 $$  
 
-·Given $D$ and $C$ ,  [[Key Rates O1s Durations and Hedging|hedging]] can then be achieved using the same methodologies as before.
+·Given $D$ and $C$ ,  [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) can then be achieved using the same methodologies as before.
 
 # GNSF 6 Price and the 5-Year Swap Rate
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8d1dbb3733efd555e78d4769d3f1439b055923faf3c81d117fe668a1078fca40.jpg)
+ ![500](Attachments/500-114.jpg)
 
 # Pricing Prepayment Option on Binomial Trees
 
-Mortgages have an implicit American option. We can use [[A Real-Life Option Pricing Exercise|Binomial]] Trees to evaluate its fair value.
+Mortgages have an implicit American option. We can use [Binomial](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) Trees to evaluate its fair value.
 
- - This is the first step to compute the fair value of Mortgage Backed Securities using no-[[Arbitrage Pricing of Derivatives|arbitrage]] methods
+ - This is the first step to compute the fair value of Mortgage Backed Securities using no-[arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) methods
 
-- Example: consider the simple case with annual rather than monthly payments Suppose that interest [[Rate and Price Trees|rate tree]] is the following:
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/17e7c3a4b8ca5ebc171366ef7f11ed78b143191b59151102e8ba4ab45c309ad2.jpg)
+- Example: consider the simple case with annual rather than monthly payments Suppose that interest [rate tree](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) is the following:
+ ![500](Attachments/500-90.jpg)
 - Consider a 10,  000 mortgage with 4 years to maturity,  and mortgage rate $\overline{r}^{m}=0372$ (annually compounded).
 - We need to compute the principal amounts left after each coupon payment
  -What is the annual coupon?
@@ -3721,26 +3721,26 @@ Mortgages have an implicit American option. We can use [[A Real-Life Option Pric
 $$  
 - This yields $C=2736.7581$
 - We then obtain
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8fb7cd345c6b14ffcb701bd93b7833b8bc2848256f570c3ff38bd425eb2d59e9.jpg)
+ ![500](Attachments/500-97.jpg)
 - We now need to compute the value of the American option implicit in the mortgage
 - At every payment date,  we must compare the net present value of future mortgage payments with the principal remaining.
 -- Refinancing occurs when the NPV of future payments is above principal
 - So,  first we compute the NPV of future payments
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1b00c97890ffa00c8331245fdd810e1c65b0659303c574faf74bb21d3139ea4d.jpg)
+ ![500](Attachments/500-111.jpg)
 - The net present value of future mortgage payments is 10075.5089.
   Notice that the bank has only given them \$10000.
  - However,  the bank is selling an American call to the home-owner,  which is valued in the next tree
  - (For the sake of simplicity,  denote by $(a,          b)^{+}=\operatorname*{max}(a,          b))$ - From the tree,  we see that the value of the mortgage is fair:$\mathsf{M o r t g a g e}=10000=\mathsf{N P V}(\mathsf{F u t u r e\ C F s})$ - Prepayment Cal
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1b1b336246ae6a2a7dcb2caebf28641696cb3190918d9c66a294cd826deccd32.jpg)
+ ![500](Attachments/500-91.jpg)
 # Pricing Pass Through's on Binomial Trees
 
-We now look at how to value PT securities on a [[Rate and Price Trees|binomial tree]]
+We now look at how to value PT securities on a [binomial tree](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md)
 
 - The main difference between valuing a PT security and valuing the mortgage in the previous example is that the PT security has a lower interest rate than the coupon rate.
-- The lower coupon paid by the issuer of the PT security to investors compared to the average mortgage coupon rate (WAC) is due in part as a compensation for holding [[Default Risk and Credit Derivatives 183|default risk]] and in partas a service fee.
+- The lower coupon paid by the issuer of the PT security to investors compared to the average mortgage coupon rate (WAC) is due in part as a compensation for holding [default risk](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/Default%20Risk%20and%20Credit%20Derivatives%20183.md) and in partas a service fee.
 - The following is the same example as earlier,  but now we compute the value of a PT security with couponrate $r_{P T}=2\%$
 - In the original tree,  exercise only occurs at the nodes $(1,          d),          (2,          d d),          (3,          d d d).$ - At these nodes,  the value of the PT security simply equals the outstanding principal
-- Given these cash flows,  the computation of the value of the PT security proceeds exactly as any other [[Lecture Notes Bonds,  Preferred Stock,  and Structured Products|fixed income]] security
+- Given these cash flows,  the computation of the value of the PT security proceeds exactly as any other [fixed income](../Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md) security
 - As a sanity check,  note that if we use $r_{P T}=. 0372$ ,  we indeed obtain $V_{0}^{P T}=10000$$$
 \begin{array}{l l}{i=0}\\ {\mathsf{P r i n c i p a l}=10000}\end{array}
 $$  
@@ -3748,7 +3748,7 @@ $i=1$ Principal $=7635.263$ Interest $=10000\times r_{P T}$ Sched. $\mathsf{P r 
 $i=3$ Principal $=2638.597$ Interest $=5182.553\times r_{P T}$ Sched. $\mathsf{P r i n}=2543.956$
 $i=4$ Principal $=0$ Interest $=2638.597\times r_{P T}$ Sched. $\mathsf{P r i n}=2638.597$
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a8a2ca61db67e8eff1c104e0ad48d27b98f016b41e8b921cb7aae150fb0b4b5b.jpg)
+ ![500](Attachments/500-125.jpg)
 
 # Pricing Pass Through's on Binomial Trees
 

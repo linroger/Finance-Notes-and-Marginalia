@@ -29,8 +29,8 @@ Z (t, T) = E \left[ e^{-\rho (T-t)-\eta (q (T)-q (t))-\gamma (y (T)-y (t))} \rig
 = e^{\eta q (t)+\gamma y (t)} E \left[ e^{-\rho (T-t)} G (q (T), y (T)) \right]
 = e^{\eta q (t)+\gamma y (t)} V (q, y, \bar{\pi}, \bar{g}, t)
 $$
-When $\eta = 1$, we have the case for nominal bonds. When $\eta = 0$, we have the case of real bonds. When $\eta$ is intermediate, this can be considered a case in which [[War Economies and Hyperinflation|inflation]] affects the utility function of agents directly. A case in the literature is the one of money illusion.
-\textbf{From the [[Vasicek Short Rate Model|Feynman-Kac formula]], we have that $V$ satisfies}$$
+When $\eta = 1$, we have the case for nominal bonds. When $\eta = 0$, we have the case of real bonds. When $\eta$ is intermediate, this can be considered a case in which [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) affects the utility function of agents directly. A case in the literature is the one of money illusion.
+\textbf{From the [Feynman-Kac formula](.md), we have that $V$ satisfies}$$
 \rho V = V_t + V_q E[dq] + V_y E[dy] + V_\pi E[d\pi] + V_g E[dg] 
 + \frac{1}{2} V_{qq} E[dq^2] + \frac{1}{2} V_{yy} E[dy^2] 
 + \frac{1}{2} V_{\pi\pi} E[d\pi^2] + \frac{1}{2} V_{gg} E[dg^2] 
@@ -41,7 +41,7 @@ V (q, y, \bar{\pi}, \bar{g}, T) = e^{-\eta q (T)-\gamma y (T)}.
 $$$\textbf{We can conjecture the following}$$$
 V (q, y, \bar{\pi}, \bar{g}, t) = e^{-\eta q (t)-\gamma y (t) + A (t; T) - \eta B (t; T) \bar{\pi} - \gamma C (t; T) \bar{g}}
 $$
-Taking the [[Vasicek Short Rate Model|first derivatives]]:$$
+Taking the [first derivatives](.md):$$
 V_t = A' (t; T) V, \quad V_q = -\eta V, \quad V_qq = \eta^2 V, \quad V_y = -\gamma V, 
 \quad V_{yy} = \gamma^2 V
 $$$$

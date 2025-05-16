@@ -23,29 +23,29 @@ key_concepts:
 # Teaching Note 4-Multiperiod Binomial Trees
 
 %% Begin Waypoint %%
-- **[[Teaching Note 4-Multiperiod Binomial Trees]]**
-	- [[Financial Instruments/Lecture Notes- Financial Instruments/Teaching Note 4-Multiperiod Binomial Trees/Binomial Option Pricing]]
-	- [[Binomial Tree Steps]]
-	- [[Calculate Stock Prices at Different Nodes]]
-	- [[Options Strategies Construction]]
-	- [[Teaching Note 4-Multiperiod Binomial Trees]]
-	- [[Teaching Note 7- [[Exotic Options and Derivative Pricing By Monte Carlo Simulation]]
-	- [[Teaching Note 7- [[Lecture Note 6-Implied Volatility]]
-	- [[The Pricing of Options and Corporate Liabilities]]
+- **[Teaching Note 4-Multiperiod Binomial Trees](.md)**
+	- [Binomial Option Pricing](Binomial%20Option%20Pricing.md)
+	- [Binomial Tree Steps](Binomial%20Tree%20Steps.md)
+	- [Calculate Stock Prices at Different Nodes](Calculate%20Stock%20Prices%20at%20Different%20Nodes.md)
+	- [Options Strategies Construction](Options%20Strategies%20Construction.md)
+	- [Teaching Note 4-Multiperiod Binomial Trees](.md)
+	- [Teaching Note 7- [[Exotic Options and Derivative Pricing By Monte Carlo Simulation](Teaching%20Note%207-%20[[Exotic%20Options%20and%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md)
+	- [Teaching Note 7- [[Lecture Note 6-Implied Volatility](Teaching%20Note%207-%20[[Lecture%20Note%206-Implied%20Volatility.md)
+	- [The Pricing of Options and Corporate Liabilities](The%20Pricing%20of%20Options%20and%20Corporate%20Liabilities.md)
 
 %% End Waypoint %%
 
-**[[Teaching Note 1Forward Rates Agreement]]**
- [[Teaching Note 2-Futures Contracts]]
- **[[Teaching Note 3 SwapsFinancial Instruments]]**
- **[[Teaching Note 4-Multiperiod Binomial Trees]]**
- [[Teaching Note 5Black Scholes Formula]]
- [[Teaching Note 6-Implied Volatility]]
- [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION]]
- [[Teaching Note 8 American Options]]
- [[Teaching Notes 9Corporate Securities And Credit Derivatives]]
- [[Teaching Notes 9ACredit Default Swaps]]
- [[Teaching Notes 10Interest Rate Derivatives]]
+**[Teaching Note 1Forward Rates Agreement](Teaching%20Note%201Forward%20Rates%20Agreement)**
+ [Teaching Note 2-Futures Contracts](../Teaching%20Note%202-Futures%20Contracts.md)
+ **[Teaching Note 3 SwapsFinancial Instruments](Teaching%20Note%203%20SwapsFinancial%20Instruments)**
+ **[Teaching Note 4-Multiperiod Binomial Trees](.md)**
+ [Teaching Note 5Black Scholes Formula](Teaching%20Note%205Black%20Scholes%20Formula)
+ [Teaching Note 6-Implied Volatility](Teaching%20Note%206-Implied%20Volatility)
+ [LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION](../Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md)
+ [Teaching Note 8 American Options](Teaching%20Note%208%20American%20Options)
+ [Teaching Notes 9Corporate Securities And Credit Derivatives](Teaching%20Notes%209Corporate%20Securities%20And%20Credit%20Derivatives)
+ [Teaching Notes 9ACredit Default Swaps](Teaching%20Notes%209ACredit%20Default%20Swaps)
+ [Teaching Notes 10Interest Rate Derivatives](Teaching%20Notes%2010Interest%20Rate%20Derivatives)
 [PSET 5 Financial Instruments](PSET%205%20Financial%20Instruments.md)
 [Option Pricing With Multiperiod Binomial Tree](Option%20Pricing%20With%20Multiperiod%20Binomial%20Tree.md)
 
@@ -263,7 +263,7 @@ Conditions to approximate the expected return$\mu$and variance$\sigma^2$:
 			 - For call options,  start from the end of the tree and move backward applying the formula.
 			 -![|500](IMG-20240913171308510.png)
 **Multi-Step Trees - Probability Distribution of$S_T$**
-  - Discussion on the [[Lecture 1- Probability Distributions of Returns|probability distribution]] of stock price at maturity$S_T$in a multi-step tree.
+  - Discussion on the [probability distribution](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) of stock price at maturity$S_T$in a multi-step tree.
   - Illustration of how each node at maturity can be reached,  and the probability of reaching each node.
   - Probability calculation for each node$j$at maturity$T = nh$using binomial coefficients.
 **Multi-Step Trees - Probability Distribution of$S_T$**
@@ -275,7 +275,7 @@ Conditions to approximate the expected return$\mu$and variance$\sigma^2$:
   - Comparison with the normal density,  including mean and standard deviation calculations.
 		  -![|500](IMG-20240913171315251.png)
 **Multi-Step Trees and Black-Scholes Model** [Lecture Notes 5-Black Scholes Equation](Lecture%20Notes%205-Black%20Scholes%20Equation.md)
-	  - The [[Lecture 1- Probability Distributions of Returns|probability distribution]] of$\log(S_T)$implied by the binomial tree matches the normal distribution.
+	  - The [probability distribution](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) of$\log(S_T)$implied by the binomial tree matches the normal distribution.
 	  - Formula for option price from the binomial tree.
 	  - Approximation of$S_T$as log-normally distributed leads to the Black-Scholes formula.
 	  - Discussion on the convergence of the call option price as$n$increases.

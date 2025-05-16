@@ -23,12 +23,12 @@ key_concepts:
 
 # Valuing Interest Rate Caps and Floors Using QuantLib Python
 
-A tutorial on [[Valuing Interest Rate Caps and Floors Using QuantLib Python|valuing caps and floors]] using [[Valuing Callable Bonds Using QuantLib Python|QuantLib Python]].
+A tutorial on [valuing caps and floors](.md) using [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md).
 
 In this post,  I will walk you through a simple example of valuing caps. I want to talk about two specific cases:
 
 1. Value caps given a constant volatility
-1. Value caps given a cap [[7. Black Scholes Model|volatility surface]]
+1. Value caps given a cap [volatility surface](../../../Financial%20Engineering/7.%20Black%20Scholes%20Model.md)
 
 Caps,  as you might know,  can be valued as a sum of caplets. The value of each caplet is determined by the Black formula. In practice,  each caplet would have a different volatility. Meaning,  a caplet that is in the near term can have a different volotility profile compared to the caplet that is far away in tenor. Similarly caplet volatilities differ with the strike as well.
 ```python
@@ -40,12 +40,12 @@ ql.Settings.instance().evaluationDate = calc_date
 
 Let us start by constructing different components required in valuing the caps. The components that we would need are:
 
-1. [[Valuing Interest Rate Caps and Floors Using QuantLib Python|interest rate term structure]] for discounting
-1. [[Valuing Interest Rate Caps and Floors Using QuantLib Python|interest rate term structure]] for the [[Pricing Interest Rate Swaps|floating leg]]
+1. [interest rate term structure](.md) for discounting
+1. [interest rate term structure](.md) for the [floating leg](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md)
 1. construction of the cap
-1. the [[Arbitrage Pricing of Derivatives|pricing]] engine to value caps using the Black formula
+1. the [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) engine to value caps using the Black formula
 
-For simplicity,  we will construct only one [[Valuing Interest Rate Caps and Floors Using QuantLib Python|interest rate term structure]] here,  and assume that the discounting and the [[Pricing Interest Rate Swaps|floating leg]] is referenced by the same. Below the [[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]] is constructed from a set of zero rates.
+For simplicity,  we will construct only one [interest rate term structure](.md) here,  and assume that the discounting and the [floating leg](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) is referenced by the same. Below the [term structure of interest rates](../../../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md) is constructed from a set of zero rates.
 ```python
 dates = [ql.Date(14,  6,  2016),   ql.Date(14,  9,  2016),   
          ql.Date(14,  12,  2016),   ql.Date(14,  6,  2017),  
@@ -82,7 +82,7 @@ schedule = ql.Schedule(start_date,   end_date,   period,
                        rule,   end_of_month)
 ```
 
-Now that we have the schedule,  we construct the `USDLibor` index. Below,  you can see that I use `addFixing` method to provide a fixing date for June 10,  2016. According the schedule constructed,  the start date of the cap is June 14,  2016,  and there is a 2 business day settlement lag (meaning June 10 reference date) embedded in the `USDLibor` definition. So in order to set the rate for the accrual period,  the rate is obtained from the fixing data provided. For all future dates,  the [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#[[Short-Term Rates and the Transition from LIBOR|London Interbank Offered Rate]] (LIBOR)|LIBOR]] rates are automatically inferred using the forward rates provided by the given [[Valuing Interest Rate Caps and Floors Using QuantLib Python|interest rate term structure]].
+Now that we have the schedule,  we construct the `USDLibor` index. Below,  you can see that I use `addFixing` method to provide a fixing date for June 10,  2016. According the schedule constructed,  the start date of the cap is June 14,  2016,  and there is a 2 business day settlement lag (meaning June 10 reference date) embedded in the `USDLibor` definition. So in order to set the rate for the accrual period,  the rate is obtained from the fixing data provided. For all future dates,  the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] rates are automatically inferred using the forward rates provided by the given [interest rate term structure](.md).
 ```python
 ibor_index = ql.USDLibor(ql.Period(3,   ql.Months),   ts_handle)
 ibor_index.addFixing(ql.Date(10,  6,  2016),   0.0065560)
@@ -107,7 +107,7 @@ print cap.NPV()
 
 ## Using Volatility Surfaces
 
-In the above exercise,  we used a constant volatility value. In practice,  one needs to strip the market quoted capfloor volatilities to infer the volatility of each and every caplet. `QuantLib` provides excellent tools in order to do that. Let us assume the following dummy data represents the [[7. Black Scholes Model|volatility surface]] quoted by the market. I have the various `strikes`,  `expiries`,  and the volatility quotes in percentage format. I take the raw data and create a `Matrix` in order to construct the [[7. Black Scholes Model|volatility surface]].
+In the above exercise,  we used a constant volatility value. In practice,  one needs to strip the market quoted capfloor volatilities to infer the volatility of each and every caplet. `QuantLib` provides excellent tools in order to do that. Let us assume the following dummy data represents the [volatility surface](../../../Financial%20Engineering/7.%20Black%20Scholes%20Model.md) quoted by the market. I have the various `strikes`,  `expiries`,  and the volatility quotes in percentage format. I take the raw data and create a `Matrix` in order to construct the [volatility surface](../../../Financial%20Engineering/7.%20Black%20Scholes%20Model.md).
 ```python
 strikes = [0.01,  0.015,   0.02]
 expiries = [ql.Period(i,   ql.Years) for i in range(1,  11)] + [ql.Period(12,   ql.Years)]
@@ -131,7 +131,7 @@ settlement_days = 2
 capfloor_vol = ql.CapFloorTermVolSurface(settlement_days,   calendar,   bdc,   expiries,   strikes,   vols,   daycount)
 ```
 
-The `OptionletStripper1` class lets you to strip the individual caplet/floorlet volatilities from the capfloor volatilities. We have to 'jump' some hoops here to make it useful for [[Arbitrage Pricing of Derivatives|pricing]]. The `OptionletStripper1` class does not allow you to be consumed directly by a [[Arbitrage Pricing of Derivatives|pricing]] engine. The `StrippedOptionletAdapter` takes the stripped optionlet volatilities,  and creates a [[The Vasicek Model|term structure]] of optionlet volatilities. We then wrap that into a handle using `OptionletVolatilityStructureHandle`.
+The `OptionletStripper1` class lets you to strip the individual caplet/floorlet volatilities from the capfloor volatilities. We have to 'jump' some hoops here to make it useful for [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). The `OptionletStripper1` class does not allow you to be consumed directly by a [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) engine. The `StrippedOptionletAdapter` takes the stripped optionlet volatilities,  and creates a [term structure](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) of optionlet volatilities. We then wrap that into a handle using `OptionletVolatilityStructureHandle`.
 ```python
 optionlet_surf = ql.OptionletStripper1(capfloor_vol,   ibor_index)
 ovs_handle = ql.OptionletVolatilityStructureHandle(
@@ -139,7 +139,7 @@ ovs_handle = ql.OptionletVolatilityStructureHandle(
 )
 ```
 
-Below,  we visulaize the capfloor [[7. Black Scholes Model|volatility surface]],  and the optionlet [[7. Black Scholes Model|volatility surface]] for a fixed strike.
+Below,  we visulaize the capfloor [volatility surface](../../../Financial%20Engineering/7.%20Black%20Scholes%20Model.md),  and the optionlet [volatility surface](../../../Financial%20Engineering/7.%20Black%20Scholes%20Model.md) for a fixed strike.
 ```python
 import matplotlib.pyplot as plt
 import numpy as np
@@ -159,7 +159,7 @@ plt.legend(bbox_to_anchor=(0.5,   0.25))
 <matplotlib.legend.Legend at 0x894efd0>
 ```
 
-The `BlackCapFloorEngine` can accept the optionlet [[7. Black Scholes Model|volatility surface]] in order to price the caps or [[Caps and Floors|floors]].
+The `BlackCapFloorEngine` can accept the optionlet [volatility surface](../../../Financial%20Engineering/7.%20Black%20Scholes%20Model.md) in order to price the caps or [floors](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Caps%20and%20Floors.md).
 ```python
 engine2 = ql.BlackCapFloorEngine(ts_handle,   ovs_handle)
 cap.setPricingEngine(engine2)

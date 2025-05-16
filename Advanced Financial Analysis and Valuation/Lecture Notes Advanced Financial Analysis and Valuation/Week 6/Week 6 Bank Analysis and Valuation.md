@@ -27,9 +27,9 @@ key_concepts:
 - **Business Model:**
 	 - Highly regulated (including entry)
 	 - Covered basics & rules in pre-recording
-- **[[Week 6 Bank Analysis and Valuation|Competitive analysis]] and [[Week 6 Bank Analysis and Valuation|moats in banking]]**
+- **[Competitive analysis](.md) and [moats in banking](.md)**
 - **Value drivers for banks and economic spread analysis**
-- **[[Week 6 Assignment Review|Blackstone]] and [[PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios|Citigroup case]]**
+- **[Blackstone](Week%206%20Assignment%20Review.md) and [Citigroup case](../../Problem%20Sets/PSET%206-%20Evaluating%20Bank%20Balance%20Sheets%20and%20Loan%20Portfolios.md)**
 - **A different approach to valuation**
 	 - Flow-to-equity model
 	 - Economic-profit model
@@ -39,23 +39,23 @@ key_concepts:
 - Banks' Financial Statements Are Very Different
 	- Equivalent to top line is interest income
 		- Interest expense are essentially COGS
-- Not all assets at fair value (but closer than for non-[[Squam Lake Group Introduction|financial firms]])
+- Not all assets at fair value (but closer than for non-[financial firms](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md))
 - Separation of operating and financing items makes little sense
 	 - Banks largely have financial assets
 	 - Deposits could be viewed as raw material
 	 - Fixed assets are not so important,  except IT
-- Bank invest heavily in [[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill#[[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill|INTANGIBLE AMORTIZATION]] AND NON‐GAAP REPORTING|intangible]] assets (e.g.,  human capital)
+- Bank invest heavily in [](../Week%205/Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill.md#[[Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill|INTANGIBLE%20AMORTIZATION) AND NON‐GAAP REPORTING|intangible]] assets (e.g.,  human capital)
 - Regulation and the role of (equity) capital
 ### IMPORTANCE OF REGULATORY CAPITAL
 - Regulation Is Part Of The Business Model
-	- You need to consider [[Case Study of Northern Rock|regulatory capital requirements]] in valuing the bank
+	- You need to consider [regulatory capital requirements](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Case%20Study%20of%20Northern%20Rock.md) in valuing the bank
 	- Imagine a bank pays out all its earnings as dividends
-	- Could it grow its loan [[An Asset Allocation Primer|portfolio]]?
+	- Could it grow its loan [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)?
 - Regulatory constraints essentially impose how much equity capital a bank needs to raise or retain from its earnings to grow the business
 	 - Bank capital rules are typically stated in terms of risk-weighted assets (RWA)
 		  - You need to forecast RWA to know how much additional capital is required
 	 - Clear link to reinvestment
-	 - Pre-recording provided an [[Overview of Financial Markets|overview]] on capital regulation
+	 - Pre-recording provided an [overview](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md) on capital regulation
 		  - Will illustrate link in a valuation model below
 
 ### CYCLICALITY IN LENDING
@@ -77,7 +77,7 @@ Source: Granja,  Leuz and Rajan (JF 2022)
 
 - **Average lending distance is cyclical**
 	 - As the economy heats up,  banks' lending distances expand
-	 - In the bust,  [[Default Rates Recovery Rates and Credit Losses|default rates]] on distance loans are higher
+	 - In the bust,  [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) on distance loans are higher
 - **Distance lending is partly driven by local competition & deposit inflows**
 
 # MOATS AND COMPETITIVE ANALYSIS
@@ -86,16 +86,16 @@ Source: Granja,  Leuz and Rajan (JF 2022)
 
 ### MOAT SOURCES IN BANKING - MOATS AND SOURCES OF COMPETITIVE ADVANTAGE
 
-- **[[Arbitrage Pricing of Derivatives|Pricing]] power in [[HKS The Banking Industry|banking]] is hard to obtain**
+- **[Pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) power in [banking](../../Problem%20Sets/HKS%20The%20Banking%20Industry.md) is hard to obtain**
 	 - Undifferentiated products ("a loan is a loan")
 	 - Cost of borrowing and yields are usually set by the market
 - **Cost advantage is an important source of moat:**
 	 - Economies of scale in operating costs (including IT)
-- **Convenient branch networks or deep customer relationships can enhance [[Assets|returns]] through charging higher fees or offering lower rates on deposits**
+- **Convenient branch networks or deep customer relationships can enhance [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) through charging higher fees or offering lower rates on deposits**
 	 - Branch presence matters for collecting deposits
 	 - Many deposits are 'sticky' (but possible tech disruption)
 - **Deep customer relationships spanning multiple product lines can generate switching costs**
-	 - Economies of scope can be a source of a [[Week 6 Bank Analysis and Valuation|competitive advantage]]
+	 - Economies of scope can be a source of a [competitive advantage](.md)
 - **Relationship lending & soft information (e.g.,  in business loans)**
 
 ### ECONOMIES OF SCALE AT J.P. MORGAN
@@ -106,12 +106,12 @@ Source: Granja,  Leuz and Rajan (JF 2022)
 ### ECONOMIES OF SCOPE AT J.P. MORGAN
 
 > [!quote]
-> "Each of our four major businesses operates at good economies of scale and gets significant additional advantages from the other businesses. We believe this is one of the key reasons we have maintained good [[Gordon Bargain Stores B|financial performance]]. Below are some pretty powerful examples:
+> "Each of our four major businesses operates at good economies of scale and gets significant additional advantages from the other businesses. We believe this is one of the key reasons we have maintained good [financial performance](../../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-%20Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Gordon%20Bargain%20Stores%20B.md). Below are some pretty powerful examples:
 >
-> - Our North America [[An Asset Allocation Primer|Investment]] Bank generates 29% of its [[Lecture Notes 9- Corporate Securities And Credit Derivatives|investment banking]] revenue through Commercial Bank clients covered locally.
-> - Our Global Corporate Bank helped generate $1.3 billion in revenue for our [[Lecture Notes Bonds,  Preferred Stock,  and Structured Products|fixed income]] sales and trading operation,  increasing business to our trading desks.
-> - Our Private Bank gets new clients from both our [[An Asset Allocation Primer|Investment]] Bank and our Commercial Bank. And the Private Bank and Commercial Bank would have a hard time existing without our Chase retail branch network. In fact,  55% of Commercial Bank clients and 35% of Private Bank households visit our retail branches each quarter.
-> - Of our $1.6 trillion of assets under management,  approximately $300 billion comes from the Corporate & [[An Asset Allocation Primer|Investment]] Bank (CIB),  the Commercial Bank or the Consumer Bank.
+> - Our North America [Investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Bank generates 29% of its [investment banking](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Notes%209-%20Corporate%20Securities%20And%20Credit%20Derivatives.md) revenue through Commercial Bank clients covered locally.
+> - Our Global Corporate Bank helped generate $1.3 billion in revenue for our [fixed income](../../../Fixed%20Income%20Asset%20Pricing/Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md) sales and trading operation,  increasing business to our trading desks.
+> - Our Private Bank gets new clients from both our [Investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Bank and our Commercial Bank. And the Private Bank and Commercial Bank would have a hard time existing without our Chase retail branch network. In fact,  55% of Commercial Bank clients and 35% of Private Bank households visit our retail branches each quarter.
+> - Of our $1.6 trillion of assets under management,  approximately $300 billion comes from the Corporate & [Investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Bank (CIB),  the Commercial Bank or the Consumer Bank.
 > - Fifty-five percent of retail mortgages and 40% of Chase-branded credit cards are sold through the retail branches. In total,  we believe that the combination of our businesses accounts for $15 billion of additional revenue,  which helps drive both profits and customer satisfaction. Each of our businesses would be worse off but for the other three."
 >   - Jamie Dimon letter to shareholders (JPM 2013 annual report)
 
@@ -128,13 +128,13 @@ $$NIM = \frac{\text{Net interest  income}}{\text{Average interest bearing  asset
  ![500](33d0b2d7191a3a0b040d0f2e6e22fdd9.png)
 
 ### ECONOMIC SPREAD ANALYSIS
-- **NIM does not measure value creation,  as it does not account for [[Week 6 Assignment Review|duration mismatch]]**
-	 - A greater mismatch increases margin due to [[Table of Contents|term premium]] (i.e.,  risk)
-- **Value creation is better measured as the difference between the rate a bank receives on loans and the maturity-matched return on loans in [[Financial Markets and Institutions Lecture Notes|financial markets]]**
+- **NIM does not measure value creation,  as it does not account for [duration mismatch](Week%206%20Assignment%20Review.md)**
+	 - A greater mismatch increases margin due to [term premium](../../../Contemporary%20Financial%20Intermediation%20Notes/Table%20of%20Contents.md) (i.e.,  risk)
+- **Value creation is better measured as the difference between the rate a bank receives on loans and the maturity-matched return on loans in [financial markets](../../../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md)**
 	 - Opportunity cost (or cost of capital)
 - **Decomposition of NIM**
 	 - Matched capital charge is the income that would be required on assets and liabilities if there were no mismatch & no spread
-	 - Mismatched capital charge arises from difference in [[Key Rates O1s Durations and Hedging|duration]] of assets and liabilities (= compensation for risk!)
+	 - Mismatched capital charge arises from difference in [duration](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of assets and liabilities (= compensation for risk!)
 	 - **Economic spread is obtained after adjusting for both charges**
 - **Economic spread analysis provides insights into a bank's value creation**
 
@@ -152,18 +152,18 @@ $$NIM = \frac{\text{Net interest  income}}{\text{Average interest bearing  asset
 		  - Thus,  it is really the equity capital that determines the (net) tax penalty
 	 - **Banks incur a negative net tax effect**
 - **This implies that equity capital is costly for banks because of the tax penalty**
-	 - If you use a levered [[Week 7- Cost of Capital Review, Implied Model, Private Firms|cost of equity]],  this penalty is included in the valuation
+	 - If you use a levered [cost of equity](../Week%207/Week%207-%20Cost%20of%20Capital%20Review,%20Implied%20Model,%20Private%20Firms.md),  this penalty is included in the valuation
 
 ### KEY METRICS FOR BANKS: SUMMARY
 - **Key performance metric used for banks is ROE**
-	 - But beware of the [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] effect
+	 - But beware of the [leverage](../../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) effect
 	 - Risk shifting & under-provisioning boosts the ROE
 - **Key value drivers and individual metrics**
 	 - Net interest margin or economic spread
-	 - [[Wellman Inc the Importance of Loan Covenants|Credit quality]] and loan loss provisioning
+	 - [Credit quality](../../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Wellman%20Inc%20the%20Importance%20of%20Loan%20Covenants.md) and loan loss provisioning
 	 - Fee income (level and growth)
 	 - Operating expenses (mostly for human capital) and efficiency (technology)
-- **Capital (and [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]])**
+- **Capital (and [liquidity](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md))**
 	 - Heavily regulated
 - **Key number in valuing banks is the forecast of ROE in the long-run**
 
@@ -190,21 +190,21 @@ $$NIM = \frac{\text{Net interest  income}}{\text{Average interest bearing  asset
 ### PURPOSE OF THE CASE
 - **Part 1: Introduce you to Citigroup's financial statements**
 	 - Primary balance sheet and income statement line items
-	 - [[Week 2 Fundamentals Of Forecasting|Fundamentals]] of [[Week 6 Assignment Review|bank regulatory capital]]
+	 - [Fundamentals](../Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) of [bank regulatory capital](Week%206%20Assignment%20Review.md)
 	 - Run on bank and fair value accounting
-- **Part 2: Valuing a loan [[An Asset Allocation Primer|portfolio]]**
-	 - Evaluating the sale of Citigroup's loan [[An Asset Allocation Primer|portfolio]] to [[Week 6 Assignment Review|Blackstone]]
-	 - **What is the value of a loan ([[An Asset Allocation Primer|portfolio]])?**
-		  - [[Week 6 Assignment Review|Expected cash flows]],  default and discount rates for debt
+- **Part 2: Valuing a loan [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)**
+	 - Evaluating the sale of Citigroup's loan [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) to [Blackstone](Week%206%20Assignment%20Review.md)
+	 - **What is the value of a loan ([portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md))?**
+		  - [Expected cash flows](Week%206%20Assignment%20Review.md),  default and discount rates for debt
 		  - Computing the cost of (risky) debt
 
 # DIFFERENT APPROACH TO VALUATION
 ### WHY DO WE NEED A DIFFERENT APPROACH?
 - **Standard DCF or entity model (w/ FCF) does not make sense for banks**
 	 - Standard model focuses on assets and sets financing aside
-		  - Why or how does [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] enter the entity (DCF) model?
+		  - Why or how does [leverage](../../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) enter the entity (DCF) model?
 	 - **What is asset turnover or reinvestment rate for banks?**
-- **Could use [[Week 1 Introduction to Financial Analysis|discounted dividend model]]**
+- **Could use [discounted dividend model](../Week%201/Week%201%20Introduction%20to%20Financial%20Analysis.md)**
 	 - Used by analysts (but recall Week 1)
 	 - Captures reinvestment through retained earnings (E – Div = Retained E)
 - **Could use equity models**
@@ -215,12 +215,12 @@ $$NIM = \frac{\text{Net interest  income}}{\text{Average interest bearing  asset
 
 ### CASH FLOW-TO-EQUITY MODEL
 
-- **Equity value equals present value of [[Advanced Derivatives Pricing Methodology|future cash flows]] to equity (CFE),  discounted at the [[Week 7- Cost of Capital Review, Implied Model, Private Firms|cost of equity]],  $k_e$:**
-	 - We can derive $CFE$ as [[[[BMW Valuation|Operating Income]] vs. Net Income What's the Difference|Net Income]] ($NI$) minus increase in book equity ($ΔE$) plus (noncash) other comprehensive income ($OCI$)
+- **Equity value equals present value of [future cash flows](../../../Financial%20Engineering/Advanced%20Derivatives%20Pricing%20Methodology.md) to equity (CFE),  discounted at the [cost of equity](../Week%207/Week%207-%20Cost%20of%20Capital%20Review,%20Implied%20Model,%20Private%20Firms.md),  $k_e$:**
+	 - We can derive $CFE$ as [Operating Income]([[BMW%20Valuation) vs. Net Income What's the Difference|Net Income]] ($NI$) minus increase in book equity ($ΔE$) plus (noncash) other comprehensive income ($OCI$)
 		  - Think about it as: $CFE = NI – \text{Reinvestment in regulatory capital}$
 	 - Another way to calculate $CFE$ is to sum all cash paid to or received from shareholders,  including dividends,  share repurchases,  and new share issuances
  ![500](2597f4f51cb6585ab5b5591a4796dccd.png)
-- Discount with [[Week 7- Cost of Capital Review, Implied Model, Private Firms|cost of equity]] ($k_e$)
+- Discount with [cost of equity](../Week%207/Week%207-%20Cost%20of%20Capital%20Review,%20Implied%20Model,%20Private%20Firms.md) ($k_e$)
 
 ### EXAMPLE: CASH FLOW TO EQUITY
 
@@ -228,11 +228,11 @@ $$NIM = \frac{\text{Net interest  income}}{\text{Average interest bearing  asset
 
 ## BANK BETAS
 - **We do not use WACC for banks**
-	 - Use [[Week 7- Cost of Capital Review, Implied Model, Private Firms|cost of equity]]
-- **Estimated equity beta reflects the [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] of the bank**
-- **Can use the average levered beta for [[An Asset Allocation Primer|portfolio]] of comparable banks**
+	 - Use [cost of equity](../Week%207/Week%207-%20Cost%20of%20Capital%20Review,%20Implied%20Model,%20Private%20Firms.md)
+- **Estimated equity beta reflects the [leverage](../../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) of the bank**
+- **Can use the average levered beta for [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of comparable banks**
 	 - Reduces noise in beta estimation
-	 - Unlevering and relevering bank betas to adjust for [[Introduction to Corporate Finance|capital structure]] is less important
+	 - Unlevering and relevering bank betas to adjust for [capital structure](../../Introduction%20to%20Corporate%20Finance.md) is less important
 		  - Regulation implies banks typically have very similar capital structures
 # ECONOMIC PROFIT MODEL: EQUITY VERSION
 
@@ -252,7 +252,7 @@ $$TV_T(\text{Economic Profit}) = \frac{\text{Economic Profit}_{T+1}}{k_e - g}$$
 	  - Drop in Tier 1 regulatory capital in 2015,  but still much higher than in the past
 	  - $14 billion fine by DoJ triggered panic in markets
 	  - Rumors of possible default or state takeover
-	  - [[Chapter 16 - Black–Scholes Model|Stock price]] dropped to $13.33
+	  - [Stock price](../../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) dropped to $13.33
 - Valuation challenges:
 	  - Bank suspended paying dividends
 	  - New equity likely to be issued due to regulatory capital shortfall
@@ -262,14 +262,14 @@ $$TV_T(\text{Economic Profit}) = \frac{\text{Economic Profit}_{T+1}}{k_e - g}$$
 ### DEUTSCHE BANK: ASSUMPTIONS
 - **ROE will return to 5.85% by year 5 (25th percentile of all banks)**
 - **ROE will return to 9.44% in year 10**
-	 - Rationale: Deutsche will earn its [[Week 7- Cost of Capital Review, Implied Model, Private Firms|cost of equity]] in steady state
+	 - Rationale: Deutsche will earn its [cost of equity](../Week%207/Week%207-%20Cost%20of%20Capital%20Review,%20Implied%20Model,%20Private%20Firms.md) in steady state
 - **Risk-adjusted assets (RWA) will grow by only 1.00% per year**
 - **Tier 1 capital ratio will improve to 15.67% (set to 75th percentile of all banks)**
 	 - Assumption implies reinvestments (i.e.,  building up capital)
-- **[[Week 7- Cost of Capital Review, Implied Model, Private Firms|Cost of equity]]:**
+- **[Cost of equity](../Week%207/Week%207-%20Cost%20of%20Capital%20Review,%20Implied%20Model,%20Private%20Firms.md):**
 	 - Assume 10.20% (75th percentile of all banks)
 		  - Consistent with capital shortfall,  they should have high CoE
-	 - After year 5,  [[Week 7- Cost of Capital Review, Implied Model, Private Firms|cost of equity]] declines to 9.44% by year 10 (median of all banks)
+	 - After year 5,  [cost of equity](../Week%207/Week%207-%20Cost%20of%20Capital%20Review,%20Implied%20Model,%20Private%20Firms.md) declines to 9.44% by year 10 (median of all banks)
 		  - Consistent with increase in (equity) capital
 - **Perpetual growth rate g = 1.00%**
 
@@ -293,7 +293,7 @@ Source: Damodaran Chapter 14: Table 14.5 Deutsche Bank – Regulatory Capital an
 
  ![500](24578d9552c9c586c019776092e15c70.png)
 
-- Expected [[[[BMW Valuation|Operating Income]] vs. Net Income What's the Difference|Net Income]] in year 11: $$\text{Expected [[Operating Income vs. Net Income What's the Difference|Net Income]] in year 11} = $8, 161 \times 1.01 = \$8, 243$$
+- Expected [Operating Income]([[BMW%20Valuation) vs. Net Income What's the Difference|Net Income]] in year 11: $$\text{Expected [Net Income](../../Financial%20Ratios/Operating%20Income%20vs.%20Net%20Income%20What's%20the%20Difference.md) in year 11} = $8, 161 \times 1.01 = \$8, 243$$
 - Expected retention ratio in perpetuity: $$\text{Expected retention ratio in perpetuity} = \frac{g}{ROE} = \frac{1.00\%}{9.44\%} = 10.59\%$$
 - Terminal Value (TV) of equity: $$ \text{TV of equity} = \frac{$8, 243 \times (1 - 0.1059)}{ 0.09440.01} = $87, 317$$
 

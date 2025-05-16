@@ -24,29 +24,29 @@ key_concepts:
 
 JSON and CSV are widely used file formats for storing and exchanging data. JSON is a lightweight format that’s readable by humans and is used for transmitting data between servers and web applications,  while CSV is a plain-text format that represents tabular data with comma-separated values,  often employed for data storage in spreadsheets and databases.
 
-**[[Python Convert JSON to CSV|JSON to CSV]] conversion in Python is necessary to analyze or visualize JSON data using tabular data tools like Excel or** [**SQL databases**](https://learn.microsoft.com/en-us/sql/relational-databases/databases/databases?view=sql-server-ver16)**. Python is ideal for this task,  and by using its libraries,  you can quickly convert JSON data to a CSV file,  enabling various [[Advanced Data Analysis with Python|data analysis]] and visualization tasks.**
+**[JSON to CSV](.md) conversion in Python is necessary to analyze or visualize JSON data using tabular data tools like Excel or** [**SQL databases**](https://learn.microsoft.com/en-us/sql/relational-databases/databases/databases?view=sql-server-ver16)**. Python is ideal for this task,  and by using its libraries,  you can quickly convert JSON data to a CSV file,  enabling various [data analysis](Advanced%20Data%20Analysis%20with%20Python.md) and visualization tasks.**
 
-Python offers various libraries that simplify the process of converting [[Python Convert JSON to CSV|JSON to CSV]]. By using these libraries,  you can complete the conversion task using just a few lines of code.
+Python offers various libraries that simplify the process of converting [JSON to CSV](.md). By using these libraries,  you can complete the conversion task using just a few lines of code.
 
-In this article,  we’ll explore the process of converting [[Python Convert JSON to CSV|JSON to CSV]] using Python,  along with examples and best practices.
+In this article,  we’ll explore the process of converting [JSON to CSV](.md) using Python,  along with examples and best practices.
 
-Let’s start by exploring some powerful [[Python Convert JSON to CSV|JSON to CSV]] libraries and modules.
+Let’s start by exploring some powerful [JSON to CSV](.md) libraries and modules.
 
 ## **How to Convert JSON to CSV using Python Libraries**
 
-In this section,  we’ll discuss the Python libraries and modules that can be used to [[Python Convert JSON to CSV|convert JSON to CSV]]. We’ll primarily focus on the popular **[[Advanced Data Analysis with Python|pandas]]** library and how it can be utilized for this conversion process.
+In this section,  we’ll discuss the Python libraries and modules that can be used to [convert JSON to CSV](.md). We’ll primarily focus on the popular **[pandas](Advanced%20Data%20Analysis%20with%20Python.md)** library and how it can be utilized for this conversion process.
 
 Let’s dive in!
 
 ### **Importing Pandas and Other Modules**
 
-To begin the [[Python Convert JSON to CSV|JSON to CSV]] conversion in [Python](https://blog.enterprisedna.co/python-cheat-sheet/),  you’ll first need to import the necessary libraries,  such as **[[Advanced Data Analysis with Python|pandas]]**.
+To begin the [JSON to CSV](.md) conversion in [Python](https://blog.enterprisedna.co/python-cheat-sheet/),  you’ll first need to import the necessary libraries,  such as **[pandas](Advanced%20Data%20Analysis%20with%20Python.md)**.
 
-[[Advanced Data Analysis with Python|Pandas]] is an open-source [[[Advanced Data Analysis with Python|data analysis]] and manipulation library for Python](https://blog.enterprisedna.co/python-interview-questions-for-data-engineers/),  providing data structures and functions needed to manipulate structured data. It’s especially useful for handling various data formats,  such as JSON and CSV.
+[Pandas](Advanced%20Data%20Analysis%20with%20Python.md) is an open-source [data analysis]([Advanced%20Data%20Analysis%20with%20Python) and manipulation library for Python](https://blog.enterprisedna.co/python-interview-questions-for-data-engineers/),  providing data structures and functions needed to manipulate structured data. It’s especially useful for handling various data formats,  such as JSON and CSV.
 
 ### **How to Read JSON Data Using Pandas**
 
-Once the libraries have been imported,  the next step is to read the JSON data. You can use the **pd. Read_json ()** function to convert a JSON string or file to a [[[Advanced Data Analysis with Python|pandas]] DataFrame](https://blog.enterprisedna.co/[[Advanced Data Analysis with Python|pandas]]-percentile-calculate-percentiles-of-a-dataframe/).
+Once the libraries have been imported,  the next step is to read the JSON data. You can use the **pd. Read_json ()** function to convert a JSON string or file to a [pandas]([Advanced%20Data%20Analysis%20with%20Python) DataFrame](https://blog.enterprisedna.co/[pandas](Advanced%20Data%20Analysis%20with%20Python.md)-percentile-calculate-percentiles-of-a-dataframe/).
 
 This function has several options to customize the resulting DataFrame,  such as specifying the file encoding or indicating whether the JSON data contains records or columns.
 
@@ -56,15 +56,15 @@ Once you have the JSON data in a DataFrame,  converting it to a CSV format is qu
 
 The **df. To_csv ()** method is used for this purpose,  which allows you to either return a CSV-formatted string or write the data directly to a CSV file.
 
-In summary,  converting [[Python Convert JSON to CSV|JSON to CSV]] in Python is made easy with the [[Advanced Data Analysis with Python|pandas]] library. The process involves importing the necessary modules,  reading the JSON data into a DataFrame,  and then converting the DataFrame to a CSV file or string.
+In summary,  converting [JSON to CSV](.md) in Python is made easy with the [pandas](Advanced%20Data%20Analysis%20with%20Python.md) library. The process involves importing the necessary modules,  reading the JSON data into a DataFrame,  and then converting the DataFrame to a CSV file or string.
 
 Remember to keep the code brief and clear,  while ensuring a good understanding of the different functions and their purposes.
 
-Check out this video tutorial on YouTube that demonstrates how to explore datasets in Python using [[Advanced Data Analysis with Python|pandas]]:
+Check out this video tutorial on YouTube that demonstrates how to explore datasets in Python using [pandas](Advanced%20Data%20Analysis%20with%20Python.md):
 
-<iframe loading="lazy" title="How To Explore Datasets In [[Advanced Data Analysis with Python|Pandas]] With ProfileReport()" width="1080" height="608" src="about:blank" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://www.youtube.com/embed/SVQITfK967E?feature=oembed"></iframe>
+<iframe loading="lazy" title="How To Explore Datasets In [Pandas](Advanced%20Data%20Analysis%20with%20Python.md) With ProfileReport()" width="1080" height="608" src="about:blank" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" data-rocket-lazyload="fitvidscompatible" data-lazy-src="https://www.youtube.com/embed/SVQITfK967E?feature=oembed"></iframe>
 
-Using [[Advanced Data Analysis with Python|pandas]] can be quick and easy,  but it’s not the only tool in the Python toolbox.
+Using [pandas](Advanced%20Data%20Analysis%20with%20Python.md) can be quick and easy,  but it’s not the only tool in the Python toolbox.
 
 ## Json 2 csv Library
 
@@ -84,11 +84,11 @@ It’s a fundamental skill in today’s data-driven environments,  where JSON is
 
 ### **Using read_json Function**
 
-The **read_json** function is a powerful method for reading JSON data in Python. It allows you to easily convert JSON data into a DataFrame,  which is a tabular data structure suitable for [[Advanced Data Analysis with Python|data analysis]] and visualization. This function is available in the popular data manipulation library **[[Advanced Data Analysis with Python|pandas]]**.
+The **read_json** function is a powerful method for reading JSON data in Python. It allows you to easily convert JSON data into a DataFrame,  which is a tabular data structure suitable for [data analysis](Advanced%20Data%20Analysis%20with%20Python.md) and visualization. This function is available in the popular data manipulation library **[pandas](Advanced%20Data%20Analysis%20with%20Python.md)**.
 
 [![Data Mentor Advertisement](
 
-To use [**read_json**](https://pythonbasics.org/[[Advanced Data Analysis with Python|pandas]]-json/),  start by importing the [[Advanced Data Analysis with Python|pandas]] library:
+To use [**read_json**](https://pythonbasics.org/[pandas](Advanced%20Data%20Analysis%20with%20Python.md)-json/),  start by importing the [pandas](Advanced%20Data%20Analysis%20with%20Python.md) library:
 
 Assuming you have a JSON data file **“data. Json”** with the following content:
 
@@ -102,7 +102,7 @@ JSON data can sometimes contain nested objects or arrays,  which can make the co
 
 The **city** field contains a nested object with two values: **name** and **population**. One possible way to handle this structure is to flatten the nested dictionaries into a single-level dictionary.
 
-This can be achieved using [[Advanced Data Analysis with Python|pandas]]’ **json_normalize** function,  which takes a list of dictionaries or an array of JSON objects as input,  and [[Assets|returns]] a DataFrame with the nested objects flattened:
+This can be achieved using [pandas](Advanced%20Data%20Analysis%20with%20Python.md)’ **json_normalize** function,  which takes a list of dictionaries or an array of JSON objects as input,  and [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) a DataFrame with the nested objects flattened:
 
 This code would create a CSV file with the following content:
 
@@ -110,21 +110,21 @@ Using **read_json** and handling nested objects with **json_normalize**,  you ca
 
 ## **How to Write to CSV With Pandas**
 
-In this section,  we’ll demonstrate how to use the [[Advanced Data Analysis with Python|pandas]] library to convert a JSON file to a CSV file. We’ll cover creating a [CSV](https://docs.python.org/3/library/csv.html) file,  handling null values,  and commas.
+In this section,  we’ll demonstrate how to use the [pandas](Advanced%20Data%20Analysis%20with%20Python.md) library to convert a JSON file to a CSV file. We’ll cover creating a [CSV](https://docs.python.org/3/library/csv.html) file,  handling null values,  and commas.
 
 ### **1. How to Create a CSV File**
 
-To create a CSV file from a JSON file using [[Advanced Data Analysis with Python|pandas]],  follow these steps:
+To create a CSV file from a JSON file using [pandas](Advanced%20Data%20Analysis%20with%20Python.md),  follow these steps:
 
-1. Install and import the [[Advanced Data Analysis with Python|pandas]] library using **import [[Advanced Data Analysis with Python|pandas]] as pd**.
-1. Load the JSON data into a [[Advanced Data Analysis with Python|pandas]] DataFrame using **df = pd. Read_json (“your_json_file. Json”)**.
+1. Install and import the [pandas](Advanced%20Data%20Analysis%20with%20Python.md) library using **import [pandas](Advanced%20Data%20Analysis%20with%20Python.md) as pd**.
+1. Load the JSON data into a [pandas](Advanced%20Data%20Analysis%20with%20Python.md) DataFrame using **df = pd. Read_json (“your_json_file. Json”)**.
 1. Convert the DataFrame to a CSV file using **df. To_csv (“your_csv_file. Csv”,  index=False)**.
 
-The code snippet above shows how to read a JSON file,  store its data in a DataFrame,  and then convert it to a CSV file. By setting **index=False**,  we ensure that the index from the [[Advanced Data Analysis with Python|pandas]] DataFrame is not written to the file.
+The code snippet above shows how to read a JSON file,  store its data in a DataFrame,  and then convert it to a CSV file. By setting **index=False**,  we ensure that the index from the [pandas](Advanced%20Data%20Analysis%20with%20Python.md) DataFrame is not written to the file.
 
 ### **2. How to Handle Null Values**
 
-When dealing with JSON data,  it’s common to encounter null values. [[Advanced Data Analysis with Python|Pandas]] can handle these null values gracefully during conversion to CSV. By default,  [[Advanced Data Analysis with Python|pandas]] will replace any null value with the string “NaN” in the CSV file.
+When dealing with JSON data,  it’s common to encounter null values. [Pandas](Advanced%20Data%20Analysis%20with%20Python.md) can handle these null values gracefully during conversion to CSV. By default,  [pandas](Advanced%20Data%20Analysis%20with%20Python.md) will replace any null value with the string “NaN” in the CSV file.
 
 However,  you can specify a custom null value representation using the **na_rep** parameter:
 
@@ -132,9 +132,9 @@ In this example,  any null value encountered in the DataFrame will be represente
 
 ### **3. How to Handle Commas Within Fields**
 
-As commas are used as delimiters in CSV files,  it’s essential to handle them properly when converting [[Python Convert JSON to CSV|JSON to CSV]].
+As commas are used as delimiters in CSV files,  it’s essential to handle them properly when converting [JSON to CSV](.md).
 
-[[Advanced Data Analysis with Python|Pandas]] automatically wraps any field containing a comma within double quotes. This ensures that the comma is treated as part of the field,  rather than a delimiter.
+[Pandas](Advanced%20Data%20Analysis%20with%20Python.md) automatically wraps any field containing a comma within double quotes. This ensures that the comma is treated as part of the field,  rather than a delimiter.
 
 For example,  if your JSON data contains a field like **{“name”: “John,  Jane”}**,  it’ll be represented in the CSV file as **“John,  Jane”**.
 
@@ -142,7 +142,7 @@ When you execute this code,  it’ll create a CSV file named “output. Csv” w
 
 To summarize,  in this section,  we covered how to:
 
-- [[Python Convert JSON to CSV|Convert JSON to CSV]] using [[[Advanced Data Analysis with Python|pandas]]](https://blog.enterprisedna.co/[[Advanced Data Analysis with Python|pandas]]-drop-index/)
+- [Convert JSON to CSV](.md) using [pandas]([Advanced%20Data%20Analysis%20with%20Python)](https://blog.enterprisedna.co/[pandas](Advanced%20Data%20Analysis%20with%20Python.md)-drop-index/)
 - Handle null values during conversion
 - Handle commas within fields
 
@@ -150,7 +150,7 @@ Next,  let’s take a look at how you can use this knowledge when working with r
 
 ## **How to Use JSON to CSV Conversion When Working With Real-World Data**
 
-In this section,  we’re going to delve into the practical applications of [[Python Convert JSON to CSV|JSON to CSV]] conversion,  especially when dealing with real-world data.
+In this section,  we’re going to delve into the practical applications of [JSON to CSV](.md) conversion,  especially when dealing with real-world data.
 
 ### **Using APIs for JSON Data**
 
@@ -164,7 +164,7 @@ Converting JSON data to CSV using Python involves these steps:
 
 1. Fetch data from the API
 1. Load the JSON data to a Python [data structure](https://blog.enterprisedna.co/how-to-load-sample-datasets-in-python/) (e.g.,  a list or a dictionary)
-1. Convert this data structure into a [[Advanced Data Analysis with Python|pandas]] DataFrame
+1. Convert this data structure into a [pandas](Advanced%20Data%20Analysis%20with%20Python.md) DataFrame
 1. Export the DataFrame as a CSV file
 
 ### **Example: Converting Employee Data to CSV**
@@ -173,7 +173,7 @@ Let’s say we have employee JSON data fetched from an API with the following ke
 
 1. First,  import the necessary libraries:
 1. Fetch the employee JSON data from the API:
-1. Load the JSON data into a [[Advanced Data Analysis with Python|Pandas]] DataFrame:
+1. Load the JSON data into a [Pandas](Advanced%20Data%20Analysis%20with%20Python.md) DataFrame:
 1. Export the DataFrame to a CSV file:
 
 With these steps in place,  the script would effectively convert the JSON employee data into a CSV file containing these columns: **id**,  **name**,  **position**,  **salary**,  **start_date**.
@@ -182,14 +182,14 @@ The resulting CSV data record will be easier to read and work with when analyzin
 
 ## **Final Thoughts**
 
-In this article,  we explored the process of [converting [[Python Convert JSON to CSV|JSON to CSV]] using Python](https://blog.enterprisedna.co/how-to-convert-list-to-string-in-python/). We mainly focused on leveraging the Panda’s library to simplify the task and enhance efficiency. This conversion is particularly useful when dealing with large and complex JSON files.
+In this article,  we explored the process of [converting [JSON to CSV](.md) using Python](https://blog.enterprisedna.co/how-to-convert-list-to-string-in-python/). We mainly focused on leveraging the Panda’s library to simplify the task and enhance efficiency. This conversion is particularly useful when dealing with large and complex JSON files.
 
 The conversion process involves the following key steps:
 
-1. Importing the [[Advanced Data Analysis with Python|Pandas]] library using **import [[Advanced Data Analysis with Python|pandas]] as pd**.
+1. Importing the [Pandas](Advanced%20Data%20Analysis%20with%20Python.md) library using **import [pandas](Advanced%20Data%20Analysis%20with%20Python.md) as pd**.
 1. Loading the JSON data into a DataFrame using **pd. Read_json (json_string)**.
 1. Converting the DataFrame to a CSV file using **df. To_csv ()** method.
 
-By converting [[Python Convert JSON to CSV|JSON to CSV]],  we can easily import data into visualization tools such as [Tableau](https://blog.enterprisedna.co/power-bi-vs-tableau/),  [Power BI](https://blog.enterprisedna.co/18-incredible-power-bi-dashboard-examples/),  or [Python libraries](https://blog.enterprisedna.co/how-to-move-files-in-python/) like Matplotlib and Seaborn. This,  in turn,  allows us to create meaningful visualizations for better understanding and analysis.
+By converting [JSON to CSV](.md),  we can easily import data into visualization tools such as [Tableau](https://blog.enterprisedna.co/power-bi-vs-tableau/),  [Power BI](https://blog.enterprisedna.co/18-incredible-power-bi-dashboard-examples/),  or [Python libraries](https://blog.enterprisedna.co/how-to-move-files-in-python/) like Matplotlib and Seaborn. This,  in turn,  allows us to create meaningful visualizations for better understanding and analysis.
 
 Always ensure the accuracy of the data and the relevance of the information provided in the conversion process. Finally,  keep in mind that utilizing appropriate formatting techniques,  such as tables and bullet points,  helps in presenting the data in a more clear and understandable manner.

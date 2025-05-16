@@ -20,11 +20,11 @@ key_concepts:
 
 ### What it is: Deeper Dive
 
-The [[Equilibrium Interest Rate Models|Ornstein-Uhlenbeck]] (OU) process stands as a fundamental concept in the study of **stochastic processes**, which are mathematical models for systems evolving randomly over time. Its defining characteristic is **[[The Ornstein-Uhlenbeck (OU) Process|mean reversion]]**, a property that makes it particularly suitable for modeling real-world phenomena where values tend to fluctuate around a central equilibrium or average level. Imagine an object tethered by a spring: random forces might push it away from its resting position, but the spring constantly pulls it back. The [[The Ornstein-Uhlenbeck (OU) Process|OU process]] captures this dynamic mathematically.
+The [Ornstein-Uhlenbeck](Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Equilibrium%20Interest%20Rate%20Models.md) (OU) process stands as a fundamental concept in the study of **stochastic processes**, which are mathematical models for systems evolving randomly over time. Its defining characteristic is **[mean reversion](.md)**, a property that makes it particularly suitable for modeling real-world phenomena where values tend to fluctuate around a central equilibrium or average level. Imagine an object tethered by a spring: random forces might push it away from its resting position, but the spring constantly pulls it back. The [OU process](.md) captures this dynamic mathematically.
 
-It was initially conceived by Leonard Ornstein and George Uhlenbeck in the 1930s to provide a more realistic model for the velocity of a massive particle undergoing [[Continuous-Time Stochastic Processes|Brownian motion]], incorporating the effect of friction (drag) which prevents the velocity from increasing indefinitely. Unlike standard [[Continuous-Time Stochastic Processes|Brownian motion]] (a [[Some Discrete-Time Stochastic Processes|random walk]]), which can drift infinitely far from its starting point, the [[The Ornstein-Uhlenbeck (OU) Process|OU process]] exhibits a "memory" of its central tendency, $μ$. This inherent stability makes it invaluable in diverse fields:
+It was initially conceived by Leonard Ornstein and George Uhlenbeck in the 1930s to provide a more realistic model for the velocity of a massive particle undergoing [Brownian motion](Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md), incorporating the effect of friction (drag) which prevents the velocity from increasing indefinitely. Unlike standard [Brownian motion](Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) (a [random walk](Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Some%20Discrete-Time%20Stochastic%20Processes.md)), which can drift infinitely far from its starting point, the [OU process](.md) exhibits a "memory" of its central tendency, $μ$. This inherent stability makes it invaluable in diverse fields:
 
-- **Finance:** Modeling short-term [[Interest Rate Quotations|interest rates]] (which tend to revert to a long-run average set by [[The Economist Regime Change|monetary policy]]), [[Credit Markets Session 5|volatility smiles]], or pairs [[Quantitative Trading Strategies Lecture Notes|trading strategies]] where the spread between two related assets is expected to revert to zero.
+- **Finance:** Modeling short-term [interest rates](Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) (which tend to revert to a long-run average set by [monetary policy](Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md)), [volatility smiles](Credit%20Markets/Credit%20Markets%20Session%205.md), or pairs [trading strategies](Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) where the spread between two related assets is expected to revert to zero.
     
 - **Physics:** Beyond particle velocity, it can model systems subject to damping forces and random excitation, like a damped harmonic oscillator.
     
@@ -33,7 +33,7 @@ It was initially conceived by Leonard Ornstein and George Uhlenbeck in the 1930s
 - **Engineering:** Modeling noise in control systems or the temperature of a system subject to random heat exchange but regulated towards a set point.
     
 
-The mathematical heart of the [[The Ornstein-Uhlenbeck (OU) Process|OU process]] is its [[Implementing Heath, Jarrow & Merton (HJM) Model|Stochastic Differential Equation]] (SDE):
+The mathematical heart of the [OU process](.md) is its [Stochastic Differential Equation](Financial%20Engineering/Fixed%20Income%20Derivatives/Implementing%20Heath,%20Jarrow%20&%20Merton%20(HJM)%20Model.md) (SDE):
 ```
 dX(t) = θ(μ - X(t)) dt + σ dW(t)
 ```
@@ -42,20 +42,20 @@ Let's break down the components further:
 
 - $X(t)$: Represents the state (e.g., velocity, interest rate, temperature) of the system at a given time $t$.
     
-- $μ$: The **[[The Ornstein-Uhlenbeck (OU) Process|long-term mean]]** or equilibrium level. This is the value the process would eventually settle at if the random noise were absent. It acts as the center of gravity for the process's fluctuations.
+- $μ$: The **[long-term mean](.md)** or equilibrium level. This is the value the process would eventually settle at if the random noise were absent. It acts as the center of gravity for the process's fluctuations.
     
-- $θ$: The **rate (or speed) of [[The Ornstein-Uhlenbeck (OU) Process|mean reversion]]**. This crucial parameter ($θ > 0$) dictates how strongly the process is pulled back towards $μ$. A larger $θ$ implies a stronger pull and faster reversion; deviations from the mean are corrected more quickly. Conversely, a smaller $θ$ means the process reverts more slowly and can wander further from the mean for longer periods. The quantity $1/θ$ is often called the **characteristic time** or **relaxation time**, representing the typical timescale over which deviations decay.
+- $θ$: The **rate (or speed) of [mean reversion](.md)**. This crucial parameter ($θ > 0$) dictates how strongly the process is pulled back towards $μ$. A larger $θ$ implies a stronger pull and faster reversion; deviations from the mean are corrected more quickly. Conversely, a smaller $θ$ means the process reverts more slowly and can wander further from the mean for longer periods. The quantity $1/θ$ is often called the **characteristic time** or **relaxation time**, representing the typical timescale over which deviations decay.
     
 - $σ$: The **volatility** or diffusion coefficient ($σ > 0$). This parameter quantifies the intensity of the random "kicks" the process receives. A larger $σ$ leads to more pronounced, larger-amplitude random fluctuations around the mean.
     
-- $dW(t)$: An increment of a **[[The Ornstein-Uhlenbeck (OU) Process|Wiener process]]** (standard [[Continuous-Time Stochastic Processes|Brownian motion]]). This is the engine of randomness. Over an infinitesimal time interval $dt$, $dW(t)$ behaves like a random variable drawn from a normal distribution with mean 0 and variance $dt$. It represents the cumulative effect of many small, independent random shocks.
+- $dW(t)$: An increment of a **[Wiener process](.md)** (standard [Brownian motion](Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md)). This is the engine of randomness. Over an infinitesimal time interval $dt$, $dW(t)$ behaves like a random variable drawn from a normal distribution with mean 0 and variance $dt$. It represents the cumulative effect of many small, independent random shocks.
     
 - $dt$: An infinitesimal increment in time, representing the timescale over which changes are considered.
     
 
 The SDE elegantly combines deterministic and stochastic elements:
 
-1. **Drift Term:** $θ(μ - X(t)) dt$. This is the deterministic "pull-back" component. Its magnitude is proportional to the current deviation $(μ - X(t))$ from the mean and the reversion speed $θ$. If $X(t)$ is above $μ$, the term is negative, pushing the process down. If $X(t)$ is below $μ$, the term is positive, pushing it up. This is the mathematical embodiment of [[The Ornstein-Uhlenbeck (OU) Process|mean reversion]].
+1. **Drift Term:** $θ(μ - X(t)) dt$. This is the deterministic "pull-back" component. Its magnitude is proportional to the current deviation $(μ - X(t))$ from the mean and the reversion speed $θ$. If $X(t)$ is above $μ$, the term is negative, pushing the process down. If $X(t)$ is below $μ$, the term is positive, pushing it up. This is the mathematical embodiment of [mean reversion](.md).
     
 2. **Diffusion Term:** $σ dW(t)$. This is the stochastic "random kick" component. It introduces unpredictable fluctuations, scaled by the volatility $σ$. This term ensures the process doesn't simply decay exponentially to $μ$ but continues to explore values around it.
     
@@ -105,7 +105,7 @@ This **analytical solution** is highly informative. It shows that $X(t)$ is comp
 
 - $e^{(-θt)}X(0)$: The influence of the initial condition $X(0)$, decaying exponentially over time with a rate $θ$.
     
-- $μ(1 - e^{(-θt)})$: The growing influence of the [[The Ornstein-Uhlenbeck (OU) Process|long-term mean]] $μ$. As time progresses ($t → ∞$), this term approaches $μ$.
+- $μ(1 - e^{(-θt)})$: The growing influence of the [long-term mean](.md) $μ$. As time progresses ($t → ∞$), this term approaches $μ$.
     
 - $σ \int_{0}^{t} e^{(-θ(t-u))} dW(u)$: The accumulated effect of random noise up to time $t$. Notice the term $e^{(-θ(t-u))}$ acts as a weighting factor: more recent noise increments ($u$ close to $t$) have a larger impact than noise from the distant past ($u$ close to 0), reflecting the decaying memory of the process.
     
@@ -114,23 +114,23 @@ This **analytical solution** is highly informative. It shows that $X(t)$ is comp
 
 The analytical solution and the SDE reveal several key properties:
 
-1. **[[The Ornstein-Uhlenbeck (OU) Process|Mean Reversion]]:** As already emphasized, the drift term $θ(μ - X(t))$ inherently drives the process towards $μ$. This property is crucial for modeling phenomena that don't exhibit unbounded growth or decay but rather fluctuate around a stable average. It ensures the process has a finite long-term variance.
+1. **[Mean Reversion](.md):** As already emphasized, the drift term $θ(μ - X(t))$ inherently drives the process towards $μ$. This property is crucial for modeling phenomena that don't exhibit unbounded growth or decay but rather fluctuate around a stable average. It ensures the process has a finite long-term variance.
     
 2. **Markov Property:** The future state $X(t+Δt)$ depends only on the current state $X(t)$ and the intervening random shock $dW$, not on the path taken to reach $X(t)$. This "memoryless" property (beyond the current state) simplifies analysis and simulation, as we don't need to track the entire history of the process. It stems directly from the SDE formulation where $dX(t)$ depends only on $X(t)$ and $dW(t)$.
     
-3. **Gaussian Process:** Because $X(t)$ is constructed as a linear combination of the (potentially random, but often assumed deterministic or Gaussian) initial state $X(0)$ and the Itô integral (which represents a sum of Gaussian increments $dW$), $X(t)$ itself follows a Gaussian (Normal) distribution for any fixed $t$. Furthermore, the joint distribution of the process values at multiple time points, $(X(t₁), X(t₂), ..., X(tₙ))$, is multivariate Gaussian. This Gaussian nature is extremely convenient, allowing for analytical tractability of moments, [[A Primer on Probability Theory and Stochastic Modelling|transition probabilities]], and likelihood functions used in parameter estimation.
+3. **Gaussian Process:** Because $X(t)$ is constructed as a linear combination of the (potentially random, but often assumed deterministic or Gaussian) initial state $X(0)$ and the Itô integral (which represents a sum of Gaussian increments $dW$), $X(t)$ itself follows a Gaussian (Normal) distribution for any fixed $t$. Furthermore, the joint distribution of the process values at multiple time points, $(X(t₁), X(t₂), ..., X(tₙ))$, is multivariate Gaussian. This Gaussian nature is extremely convenient, allowing for analytical tractability of moments, [transition probabilities](A%20Primer%20on%20Probability%20Theory%20and%20Stochastic%20Modelling), and likelihood functions used in parameter estimation.
     
 4. **Moments (Conditional on a deterministic X(0)):** These describe the average behavior and spread of the process over time, starting from a known point.
     
     - Mean: $E[X(t) | X(0)] = e^{(-θt)}X(0) + μ(1 - e^{(-θt)})$
         
-        This shows the expected value starts at X(0) and exponentially transitions towards the [[The Ornstein-Uhlenbeck (OU) Process|long-term mean]] μ. The speed of this transition is governed by θ. For large θ, convergence is rapid; for small θ, it's slow.
+        This shows the expected value starts at X(0) and exponentially transitions towards the [long-term mean](.md) μ. The speed of this transition is governed by θ. For large θ, convergence is rapid; for small θ, it's slow.
         
     - Variance: $Var[X(t) | X(0)] = (σ² / (2θ)) * (1 - e^{(-2θt)})$
         
-        The variance starts at 0 (since X(0) is fixed) and increases over time, asymptotically approaching a maximum value, the stationary variance, $σ² / (2θ)$. This contrasts sharply with [[Continuous-Time Stochastic Processes|Brownian motion]], whose variance $σ²t$ grows linearly without bound. The bounded variance is a direct consequence of [[The Ornstein-Uhlenbeck (OU) Process|mean reversion]]. The rate at which the variance approaches its stationary value also depends on θ.
+        The variance starts at 0 (since X(0) is fixed) and increases over time, asymptotically approaching a maximum value, the stationary variance, $σ² / (2θ)$. This contrasts sharply with [Brownian motion](Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md), whose variance $σ²t$ grows linearly without bound. The bounded variance is a direct consequence of [mean reversion](.md). The rate at which the variance approaches its stationary value also depends on θ.
         
-5. **[[A Primer on Probability Theory and Stochastic Modelling|Stationary Distribution]]:** As $t → ∞$, the influence of the specific initial state $X(0)$ decays away ($e^{(-θt)} → 0$), and the process settles into a statistical equilibrium. The distribution of $X(t)$ converges to a **[[A Primer on Probability Theory and Stochastic Modelling|stationary distribution]]**, which is invariant over time. If the process starts with $X(0)$ drawn from this distribution, its distribution remains unchanged for all $t > 0$. This long-term equilibrium distribution is Normal (Gaussian) with:
+5. **[Stationary Distribution](A%20Primer%20on%20Probability%20Theory%20and%20Stochastic%20Modelling):** As $t → ∞$, the influence of the specific initial state $X(0)$ decays away ($e^{(-θt)} → 0$), and the process settles into a statistical equilibrium. The distribution of $X(t)$ converges to a **[stationary distribution](A%20Primer%20on%20Probability%20Theory%20and%20Stochastic%20Modelling)**, which is invariant over time. If the process starts with $X(0)$ drawn from this distribution, its distribution remains unchanged for all $t > 0$. This long-term equilibrium distribution is Normal (Gaussian) with:
     
     - Mean: $μ$
         
@@ -147,11 +147,11 @@ The analytical solution and the SDE reveal several key properties:
 
 ### Parameters Recap and Impact
 
-The three parameters $μ$, $θ$, and $σ$ fully define the univariate [[The Ornstein-Uhlenbeck (OU) Process|OU process]] and control its behavior:
+The three parameters $μ$, $θ$, and $σ$ fully define the univariate [OU process](.md) and control its behavior:
 
-- $μ$ ([[The Ornstein-Uhlenbeck (OU) Process|Long-term mean]]): Determines the central level around which the process fluctuates. Changing $μ$ shifts the entire process vertically without altering the nature of the fluctuations.
+- $μ$ ([Long-term mean](.md)): Determines the central level around which the process fluctuates. Changing $μ$ shifts the entire process vertically without altering the nature of the fluctuations.
     
-- $θ$ ([[The Ornstein-Uhlenbeck (OU) Process|Mean reversion]] speed): Controls how quickly the process [[Assets|returns]] to $μ$ after a deviation. High $θ$ results in paths that oscillate rapidly and tightly around $μ$. Low $θ$ results in paths that wander more slowly and can exhibit longer excursions away from $μ$, resembling a [[Some Discrete-Time Stochastic Processes|random walk]] over short timescales but eventually returning.
+- $θ$ ([Mean reversion](.md) speed): Controls how quickly the process [returns](Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to $μ$ after a deviation. High $θ$ results in paths that oscillate rapidly and tightly around $μ$. Low $θ$ results in paths that wander more slowly and can exhibit longer excursions away from $μ$, resembling a [random walk](Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Some%20Discrete-Time%20Stochastic%20Processes.md) over short timescales but eventually returning.
     
 - $σ$ (Volatility): Governs the amplitude of the random noise. High $σ$ produces highly jagged, noisy paths with large fluctuations. Low $σ$ results in smoother paths with smaller deviations from the mean-driven trajectory.
     
@@ -160,7 +160,7 @@ Visualizing sample paths with different parameter combinations helps build intui
 
 ### Behavior Summary
 
-An [[The Ornstein-Uhlenbeck (OU) Process|OU process]] path exhibits random fluctuations around its mean $μ$. When the process deviates far from $μ$, the deterministic drift term dominates, pulling it back strongly. When close to $μ$, the random diffusion term becomes more influential, causing local jitter. While random shocks can cause temporary overshooting of the mean, the mean-reverting tendency ensures long-term stability and bounded variance. The interplay between $θ$ and $σ$ determines the character of the fluctuations – whether they are rapid and small or slow and large.
+An [OU process](.md) path exhibits random fluctuations around its mean $μ$. When the process deviates far from $μ$, the deterministic drift term dominates, pulling it back strongly. When close to $μ$, the random diffusion term becomes more influential, causing local jitter. While random shocks can cause temporary overshooting of the mean, the mean-reverting tendency ensures long-term stability and bounded variance. The interplay between $θ$ and $σ$ determines the character of the fluctuations – whether they are rapid and small or slow and large.
 
 ### Multivariate OU Process Insights
 
@@ -169,12 +169,12 @@ $d\textbf{X}(t) = \mathbf{\Theta}(\mathbf{\mu} - \textbf{X}(t)) dt + \mathbf{\Si
 
 - $\textbf{X}(t)$, $\mathbf{\mu}$, $\textbf{W}(t)$: Now n-dimensional vectors.
     
-- $\mathbf{\Theta}$ ([[The Ornstein-Uhlenbeck (OU) Process|Mean reversion]] matrix): An $n \times n$ matrix. Its diagonal elements $\Theta_{ii}$ relate to the own mean-reversion speed of component $X_i(t)$ towards $\mu_i$. Off-diagonal elements $\Theta_{ij}$ (for $i \neq j$) represent **cross-reversion effects**: how the deviation of $X_j(t)$ from $\mu_j$ influences the drift of $X_i(t)$. For example, in an ecosystem model, a large predator population ($X_1$) above its mean might negatively impact the drift of the prey population ($X_2$). The stability of the multivariate system depends on the eigenvalues of $\mathbf{\Theta}$; typically, all eigenvalues must have positive real parts for the system to be stable and possess a [[A Primer on Probability Theory and Stochastic Modelling|stationary distribution]].
+- $\mathbf{\Theta}$ ([Mean reversion](.md) matrix): An $n \times n$ matrix. Its diagonal elements $\Theta_{ii}$ relate to the own mean-reversion speed of component $X_i(t)$ towards $\mu_i$. Off-diagonal elements $\Theta_{ij}$ (for $i \neq j$) represent **cross-reversion effects**: how the deviation of $X_j(t)$ from $\mu_j$ influences the drift of $X_i(t)$. For example, in an ecosystem model, a large predator population ($X_1$) above its mean might negatively impact the drift of the prey population ($X_2$). The stability of the multivariate system depends on the eigenvalues of $\mathbf{\Theta}$; typically, all eigenvalues must have positive real parts for the system to be stable and possess a [stationary distribution](A%20Primer%20on%20Probability%20Theory%20and%20Stochastic%20Modelling).
     
 - $\mathbf{\Sigma}$ (Diffusion matrix): An $n \times n$ matrix determining the noise structure. The matrix $\textbf{C} = \mathbf{\Sigma}\mathbf{\Sigma}^T$ is the instantaneous covariance matrix of the noise term. Diagonal elements of $\textbf{C}$ relate to the individual volatilities of each component $X_i(t)$. Off-diagonal elements represent instantaneous correlations between the noise driving different components. For instance, random shocks affecting two related stock prices might be positively correlated, which would be captured by off-diagonal terms in $\textbf{C}$ (and thus implicitly in $\mathbf{\Sigma}$).
     
 
-The multivariate [[The Ornstein-Uhlenbeck (OU) Process|OU process]] provides a flexible framework for modeling linear stochastic systems with equilibrium tendencies and correlated noise, finding applications in areas like econometrics (vector autoregressions with error correction), neuroscience (networks of neurons), and engineering (multi-input multi-output control systems).
+The multivariate [OU process](.md) provides a flexible framework for modeling linear stochastic systems with equilibrium tendencies and correlated noise, finding applications in areas like econometrics (vector autoregressions with error correction), neuroscience (networks of neurons), and engineering (multi-input multi-output control systems).
 ```python
 import micropip
 await micropip.install("numpy")
@@ -399,13 +399,13 @@ print("-" * 30)
 
 ## Conditional and Unconditional Densities: A Closer Look
 
-Understanding the evolution of stochastic processes like the [[Equilibrium Interest Rate Models|Ornstein-Uhlenbeck]] (OU) process, $X(t)$, hinges on characterizing the probability of finding the process in a particular state at a given time. Two key concepts are central to this characterization:
+Understanding the evolution of stochastic processes like the [Ornstein-Uhlenbeck](Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Equilibrium%20Interest%20Rate%20Models.md) (OU) process, $X(t)$, hinges on characterizing the probability of finding the process in a particular state at a given time. Two key concepts are central to this characterization:
 
 1. **Conditional Probability Density Function (PDF):** $p(x, t | x₀, t₀)$
     
     - This function, often called the **transition density**, quantifies the likelihood (per unit state $x$) of the process being at state $x$ precisely at time $t$, _given the knowledge_ that it started at a specific state $x₀$ at an earlier time $t₀$ (where $t > t₀$). Think of it as a probabilistic forecast: "Knowing the temperature was $x₀$ degrees at time $t₀$, what is the probability density of it being $x$ degrees at time $t$?"
         
-    - It fully describes the _dynamics_ of how the probability distribution evolves from a single point ($x₀$ at $t₀$). For Markov processes, like the [[The Ornstein-Uhlenbeck (OU) Process|OU process]], the entire future probabilistic evolution depends _only_ on this current state ($x₀, t₀$), not on the path taken to reach it. This "memoryless" property is mathematically captured by the Chapman-Kolmogorov equation, which relates transition densities over different time intervals: $p(x, t | x₀, t₀) = \int p(x, t | y, s) p(y, s | x₀, t₀) dy$ for $t₀ < s < t$.
+    - It fully describes the _dynamics_ of how the probability distribution evolves from a single point ($x₀$ at $t₀$). For Markov processes, like the [OU process](.md), the entire future probabilistic evolution depends _only_ on this current state ($x₀, t₀$), not on the path taken to reach it. This "memoryless" property is mathematically captured by the Chapman-Kolmogorov equation, which relates transition densities over different time intervals: $p(x, t | x₀, t₀) = \int p(x, t | y, s) p(y, s | x₀, t₀) dy$ for $t₀ < s < t$.
         
     - This conditional density is fundamental for tasks like simulation (predicting the next state given the current one) and parameter estimation using maximum likelihood methods (calculating the likelihood of observing a sequence of states).
         
@@ -420,7 +420,7 @@ Understanding the evolution of stochastic processes like the [[Equilibrium Inter
 
 ## Densities for the Ornstein-Uhlenbeck Process: Derivation and Interpretation
 
-To find these densities for the [[The Ornstein-Uhlenbeck (OU) Process|OU process]], we [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] its analytical solution, previously derived: $X(t) = e^{-θ(t-s)}X(s) + μ(1 - e^{-θ(t-s)}) + σ \int_{s}^{t} e^{-θ(t-u)} dW(u)$
+To find these densities for the [OU process](.md), we [leverage](Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) its analytical solution, previously derived: $X(t) = e^{-θ(t-s)}X(s) + μ(1 - e^{-θ(t-s)}) + σ \int_{s}^{t} e^{-θ(t-u)} dW(u)$
 
 Let's set $t₀ = s$ and condition on the starting state $X(s) = x₀$. Our goal is the conditional density $p(x, t | x₀, t₀)$.
 
@@ -429,13 +429,13 @@ The structure of the solution is key: $X(t)$ given $x₀$ is the sum of a determ
 - **Conditional Mean:** (The expected location at time $t$ given $x₀$ at $t₀$) $E[X(t) | X(t₀)=x₀] = E[e^{-θ(t-t₀)}x₀ + μ(1 - e^{-θ(t-t₀)}) + σ \int_{t₀}^{t} e^{-θ(t-u)} dW(u)]$
 Since the expectation of the Itô integral is zero:
 $E[X(t) | x₀, t₀] = e^{-θ(t-t₀)}x₀ + μ(1 - e^{-θ(t-t₀)})$
-_Interpretation:_ The expected future value is a weighted average of the initial state $x₀$ and the [[The Ornstein-Uhlenbeck (OU) Process|long-term mean]] $μ$. The weight $e^{-θ(t-t₀)}$ on the initial state decays exponentially as time $t$ progresses (or as the time lag $t-t₀$ increases), while the weight $(1 - e^{-θ(t-t₀)})$ on the [[The Ornstein-Uhlenbeck (OU) Process|long-term mean]] grows correspondingly. The speed of this shift in influence is determined by $θ$.
+_Interpretation:_ The expected future value is a weighted average of the initial state $x₀$ and the [long-term mean](.md) $μ$. The weight $e^{-θ(t-t₀)}$ on the initial state decays exponentially as time $t$ progresses (or as the time lag $t-t₀$ increases), while the weight $(1 - e^{-θ(t-t₀)})$ on the [long-term mean](.md) grows correspondingly. The speed of this shift in influence is determined by $θ$.
     
 - **Conditional Variance:** (The uncertainty or spread around the conditional mean) $Var[X(t) | X(t₀)=x₀] = Var[e^{-θ(t-t₀)}x₀ + μ(1 - e^{-θ(t-t₀)}) + σ \int_{t₀}^{t} e^{-θ(t-u)} dW(u)]$
 Since the first two terms are deterministic given $x₀$, the variance comes solely from the stochastic integral: $Var[X(t) | x₀, t₀] = Var[σ \int_{t₀}^{t} e^{-θ(t-u)} dW(u)]$
 Using Itô isometry ($Var[\int H dW] = E[\int H² dt]$): $Var[X(t) | x₀, t₀] = σ² E[\int_{t₀}^{t} (e^{-θ(t-u)})² du] = σ² \int_{t₀}^{t} e^{-2θ(t-u)} du$
 Evaluating the integral (as shown previously via substitution $v = t-u$): $Var[X(t) | x₀, t₀] = (σ² / (2θ)) * (1 - e^{-2θ(t-t₀)})$
-_Interpretation:_ The variance starts at 0 at $t=t₀$ (since $x₀$ is known) and increases over time, asymptotically approaching the stationary variance $σ² / (2θ)$. This reflects the accumulation of uncertainty due to the random shocks $dW(u)$, but the [[The Ornstein-Uhlenbeck (OU) Process|mean reversion]] prevents the variance from growing indefinitely. The rate of approach to the asymptotic variance is governed by $2θ$.
+_Interpretation:_ The variance starts at 0 at $t=t₀$ (since $x₀$ is known) and increases over time, asymptotically approaching the stationary variance $σ² / (2θ)$. This reflects the accumulation of uncertainty due to the random shocks $dW(u)$, but the [mean reversion](.md) prevents the variance from growing indefinitely. The rate of approach to the asymptotic variance is governed by $2θ$.
     
 
 **Conditional Density $p(x, t | x₀, t₀)$:** Knowing $X(t)$ given $(x₀, t₀)$ follows $N(Mean, Var)$, its PDF is the standard Gaussian formula: $p(x, t | x₀, t₀) = (1 / \sqrt{2π * Var}) * \exp(-(x - Mean)² / (2 * Var))$ where:
@@ -446,11 +446,11 @@ This transition density describes how a sharp probability spike at $x₀$ at tim
 
 ## Stationary Density and Mean Reverting Processes: Equilibrium and Stability
 
-- **Mean Reverting Process:** The concept of [[The Ornstein-Uhlenbeck (OU) Process|mean reversion]] is fundamental to modeling systems that exhibit stability or are subject to restoring forces. A process $X(t)$ is mean-reverting if its drift pulls it towards a long-term level $μ$. In the OU SDE $dX(t) = θ(μ - X(t)) dt + σ dW(t)$, the term $θ(μ - X(t))$ explicitly implements this: if $X(t)$ is above $μ$, the drift is negative, and vice-versa. This contrasts sharply with processes like [[Continuous-Time Stochastic Processes|Brownian motion]] ($dX = σ dW$) or [[Continuous-Time Stochastic Processes|Brownian motion]] with drift ($dX = δ dt + σ dW$), where the absence of such a restoring force allows the process variance to grow without bound. [[The Ornstein-Uhlenbeck (OU) Process|Mean reversion]] implies predictability over longer horizons (the process is likely to be near $μ$) and is characteristic of many economic variables (e.g., [[War Economies and Hyperinflation|inflation]] rates, [[Interest Rate Quotations|interest rates]] relative to a target) and physical systems (e.g., temperature under thermostatic control).
+- **Mean Reverting Process:** The concept of [mean reversion](.md) is fundamental to modeling systems that exhibit stability or are subject to restoring forces. A process $X(t)$ is mean-reverting if its drift pulls it towards a long-term level $μ$. In the OU SDE $dX(t) = θ(μ - X(t)) dt + σ dW(t)$, the term $θ(μ - X(t))$ explicitly implements this: if $X(t)$ is above $μ$, the drift is negative, and vice-versa. This contrasts sharply with processes like [Brownian motion](Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) ($dX = σ dW$) or [Brownian motion](Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) with drift ($dX = δ dt + σ dW$), where the absence of such a restoring force allows the process variance to grow without bound. [Mean reversion](.md) implies predictability over longer horizons (the process is likely to be near $μ$) and is characteristic of many economic variables (e.g., [inflation](International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) rates, [interest rates](Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) relative to a target) and physical systems (e.g., temperature under thermostatic control).
     
-- **Stationary Density $p_s(x)$:** For stable ($θ > 0$) OU processes, the system eventually "forgets" its precise initial condition and settles into a state of **statistical equilibrium**. In this state, the overall probability distribution $p(x, t)$ no longer changes with time; it becomes the **[[A Primer on Probability Theory and Stochastic Modelling|stationary distribution]]**, characterized by the **stationary density** $p_s(x)$. This happens because the tendency of the drift to pull the process towards $μ$ (concentrating the distribution) eventually balances the tendency of the diffusion term to spread the distribution out.
+- **Stationary Density $p_s(x)$:** For stable ($θ > 0$) OU processes, the system eventually "forgets" its precise initial condition and settles into a state of **statistical equilibrium**. In this state, the overall probability distribution $p(x, t)$ no longer changes with time; it becomes the **[stationary distribution](A%20Primer%20on%20Probability%20Theory%20and%20Stochastic%20Modelling)**, characterized by the **stationary density** $p_s(x)$. This happens because the tendency of the drift to pull the process towards $μ$ (concentrating the distribution) eventually balances the tendency of the diffusion term to spread the distribution out.
     
-    - The condition for stationarity is that the time derivative of the probability density is zero, $∂p/∂t = 0$. This is used in the context of the **Fokker-Planck equation**, which is a partial differential equation describing the time evolution of the probability density $p(x, t)$ for a process defined by an SDE. Setting $∂p/∂t = 0$ in the Fokker-Planck equation for the [[The Ornstein-Uhlenbeck (OU) Process|OU process]] yields an ordinary differential equation whose solution is $p_s(x)$.
+    - The condition for stationarity is that the time derivative of the probability density is zero, $∂p/∂t = 0$. This is used in the context of the **Fokker-Planck equation**, which is a partial differential equation describing the time evolution of the probability density $p(x, t)$ for a process defined by an SDE. Setting $∂p/∂t = 0$ in the Fokker-Planck equation for the [OU process](.md) yields an ordinary differential equation whose solution is $p_s(x)$.
         
     - Alternatively, as shown previously, we can find $p_s(x)$ by considering the limit of the conditional (transition) density as the time elapsed $τ = t - t₀ → ∞$. The conditional mean converges to $μ$, and the conditional variance converges to $σ² / (2θ)$.
         
@@ -461,7 +461,7 @@ This transition density describes how a sharp probability spike at $x₀$ at tim
 
 ## Analytical Derivation of a Simple Random Walk with Drift (Continuous Time)
 
-Often considered the simplest non-trivial continuous-time [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]], **[[Continuous-Time Stochastic Processes|Brownian Motion]] with Drift** models phenomena with a constant average trend ($δ$) superimposed on random fluctuations ($σ dW(t)$). Its SDE is:
+Often considered the simplest non-trivial continuous-time [stochastic process](.md), **[Brownian Motion](Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) with Drift** models phenomena with a constant average trend ($δ$) superimposed on random fluctuations ($σ dW(t)$). Its SDE is:
 $dX(t) = δ dt + σ dW(t)$
 
 Where:
@@ -472,14 +472,14 @@ Where:
     
 - $σ$: The constant volatility, scaling the magnitude of random shocks.
     
-- $dW(t)$: Increment of a standard [[The Ornstein-Uhlenbeck (OU) Process|Wiener process]] (source of randomness).
+- $dW(t)$: Increment of a standard [Wiener process](.md) (source of randomness).
     
 
 The solution is obtained by direct integration, as the coefficients $δ$ and $σ$ do not depend on $X(t)$.
 
 1. **Integrate the SDE** from time 0 to $t$: $\int_{0}^{t} dX(s) = \int_{0}^{t} δ ds + \int_{0}^{t} σ dW(s)$
     
-2. **Evaluate the integrals:** The integral of $dX$ is the net change in $X$. The integral of $δ$ is $δ$ times the interval length. The integral of $σ dW$ is $σ$ times the net change in the [[The Ornstein-Uhlenbeck (OU) Process|Wiener process]] $W(t)$.
+2. **Evaluate the integrals:** The integral of $dX$ is the net change in $X$. The integral of $δ$ is $δ$ times the interval length. The integral of $σ dW$ is $σ$ times the net change in the [Wiener process](.md) $W(t)$.
     
     - $\int_{0}^{t} dX(s) = X(t) - X(0)$
         
@@ -492,7 +492,7 @@ The solution is obtained by direct integration, as the coefficients $δ$ and $σ
 4. **Assume $W(0) = 0$** (standard definition): $X(t) = X(0) + δt + σ W(t)$
     
 
-This is the **analytical solution**. It clearly shows $X(t)$ is the initial position plus a linear deterministic trend plus scaled [[Continuous-Time Stochastic Processes|Brownian motion]].
+This is the **analytical solution**. It clearly shows $X(t)$ is the initial position plus a linear deterministic trend plus scaled [Brownian motion](Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md).
 
 **Properties and Implications:**
 
@@ -500,25 +500,25 @@ This is the **analytical solution**. It clearly shows $X(t)$ is the initial posi
     
 - **Mean:** $E[X(t)] = X(0) + δt$. The expected value follows the deterministic drift.
     
-- **Variance:** $Var[X(t)] = σ² t$ (assuming deterministic $X(0)$). The variance grows linearly with time _without bound_. This is a crucial difference from the [[The Ornstein-Uhlenbeck (OU) Process|OU process]].
+- **Variance:** $Var[X(t)] = σ² t$ (assuming deterministic $X(0)$). The variance grows linearly with time _without bound_. This is a crucial difference from the [OU process](.md).
     
-    - _Implication:_ The uncertainty about the process's position continually increases. The process can, and eventually will, wander arbitrarily far from its starting point. This makes it suitable for modeling phenomena like stock prices (in log terms, under the [[Black Scholes Derivation|geometric Brownian motion]] model) where there isn't necessarily a strong pull back to a specific level.
+    - _Implication:_ The uncertainty about the process's position continually increases. The process can, and eventually will, wander arbitrarily far from its starting point. This makes it suitable for modeling phenomena like stock prices (in log terms, under the [geometric Brownian motion](Financial%20Instruments/Black%20Scholes%20Derivation.md) model) where there isn't necessarily a strong pull back to a specific level.
         
-- **No [[A Primer on Probability Theory and Stochastic Modelling|Stationary Distribution]]:** Because the variance grows indefinitely, the distribution $p(x, t)$ never settles down; it just keeps spreading out. Therefore, [[Continuous-Time Stochastic Processes|Brownian motion]] (with or without drift, unless $σ=0$) does not possess a [[A Primer on Probability Theory and Stochastic Modelling|stationary distribution]] over the infinite real line.
+- **No [Stationary Distribution](A%20Primer%20on%20Probability%20Theory%20and%20Stochastic%20Modelling):** Because the variance grows indefinitely, the distribution $p(x, t)$ never settles down; it just keeps spreading out. Therefore, [Brownian motion](Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) (with or without drift, unless $σ=0$) does not possess a [stationary distribution](A%20Primer%20on%20Probability%20Theory%20and%20Stochastic%20Modelling) over the infinite real line.
     
 - **Not Mean-Reverting:** There is no drift term pulling the process back towards any specific level $μ$. The process follows its drift $δ$ on average but is free to diffuse arbitrarily far away due to the $σ dW(t)$ term.
     
 
-**Contrasting OU and [[Continuous-Time Stochastic Processes|Brownian Motion]] with Drift:**
+**Contrasting OU and [Brownian Motion](Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) with Drift:**
 
-|  **Feature**               |  **[[Equilibrium Interest Rate Models|Ornstein-Uhlenbeck]] (OU)**                   |  **[[Continuous-Time Stochastic Processes|Brownian Motion]] w/ Drift (BMD)**   |
+|  **Feature**               |  **[Ornstein-Uhlenbeck](Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Equilibrium%20Interest%20Rate%20Models.md) (OU)**                   |  **[Brownian Motion](Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) w/ Drift (BMD)**   |
 | -------------------------- | ---------------------------------------------- | ------------------------------------- |
 |  **SDE**                   |  $dX = θ(μ - X)dt + σ dW$                      |  $dX = δ dt + σ dW$                   |
-|  **[[The Ornstein-Uhlenbeck (OU) Process|Mean Reversion]]**        | Yes (towards $μ$ with speed $θ$)               | No                                    |
+|  **[Mean Reversion](.md)**        | Yes (towards $μ$ with speed $θ$)               | No                                    |
 |  **Drift**                 | State-dependent ($θ(μ - X)$)                   | Constant ($δ$)                        |
 |  **Mean $E[X(t)]$**        |  $X₀e^{-θt} + μ(1 - e^{-θt})$ (approaches $μ$) |  $X₀ + δt$ (linear growth/decay)      |
 |  **Variance $Var[X(t)]$**  |  $(σ²/2θ)(1 - e^{-2θt})$ (approaches $σ²/2θ$)  |  $σ²t$ (unbounded linear growth)      |
 |  **Stationary Dist.**      | Yes (Normal $N(μ, σ²/2θ)$)                     | No (unless $σ=0$)                     |
-| **Typical Use**            | [[Interest Rate Quotations|Interest rates]], volatility, temp., velocity    | (Log) Stock prices, particle position |
+| **Typical Use**            | [Interest rates](Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md), volatility, temp., velocity    | (Log) Stock prices, particle position |
 
-This comparison highlights how the inclusion of the mean-reverting drift term fundamentally changes the long-term behavior of the process, leading to bounded variance and a stable equilibrium distribution, unlike the ever-diffusing [[Some Discrete-Time Stochastic Processes|random walk]].
+This comparison highlights how the inclusion of the mean-reverting drift term fundamentally changes the long-term behavior of the process, leading to bounded variance and a stable equilibrium distribution, unlike the ever-diffusing [random walk](Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Some%20Discrete-Time%20Stochastic%20Processes.md).

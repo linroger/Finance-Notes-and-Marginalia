@@ -22,35 +22,35 @@ key_concepts:
   - Yield curve decomposition
 ---
 
-[[[[Lecture Notes Bonds,  Preferred Stock,  and Structured Products|Fixed Income]] Lecture Notes]]
+[Fixed Income]([[Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products) Lecture Notes]]
 
- [[[[Squam Lake Group Introduction|Introduction]] to [[Fixed Income Asset Pricing|Fixed Income Asset Pricing]]]]
+ [Introduction]([[Squam%20Lake%20Group%20Introduction) to [Fixed Income Asset Pricing](../Fixed%20Income%20Asset%20Pricing.md)]]
 
- [[Lecture Note 2Interest Rate [[Financial Mathematics Course|Risk Management]] And Factors]]
+ [Risk Management](Lecture%20Note%202Interest%20Rate%20[[Financial%20Mathematics%20Course) And Factors]]
 
- [[Forward Rates and [[The Vasicek Model|Term Structure]]]]
+ [Term Structure](Forward%20Rates%20and%20[[The%20Vasicek%20Model)]]
 
- [[Teaching Note 4 Interest Rate [[Chapter 9 Arbitrage and Hedging With Options|Derivatives]]]]
+ [Derivatives](Teaching%20Note%204%20Interest%20Rate%20[[Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options)]]
 
- [[Teaching Note 5 [[Lecture Notes 10- Interest Rate Derivatives|Risk Neutral Pricing]]]]
+ [Risk Neutral Pricing](Teaching%20Note%205%20[[Lecture%20Notes%2010-%20Interest%20Rate%20Derivatives)]]
 
 [Teaching Note 6 Mortgage Backed Securities](Teaching%20Note%206%20Mortgage%20Backed%20Securities.md)
 
-[Teaching Note 7 A Rundown On [[Teaching Note 7 A Rundown On Continuous Time Models|Continuous Time Models]]](Teaching%20Note%207%20A%20Rundown%20On%20Continuous%20Time%20Models.md)
+[Teaching Note 7 A Rundown On [Continuous Time Models](Teaching%20Note%207%20A%20Rundown%20On%20Continuous%20Time%20Models.md)](Teaching%20Note%207%20A%20Rundown%20On%20Continuous%20Time%20Models.md)
 
-[PSET III [[Fixed Income Asset Pricing|Fixed Income Asset Pricing]]](PSET%20III%20Fixed%20Income%20Asset%20Pricing.md)
+[PSET III [Fixed Income Asset Pricing](../Fixed%20Income%20Asset%20Pricing.md)](PSET%20III%20Fixed%20Income%20Asset%20Pricing.md)
 
 ## INTRODUCTION
-- There are numerous questions that arise when we think about the [[The Vasicek Model|term structure]]
-of [[Interest Rate Quotations|interest rates]],  such as:
-1. Why does the [[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]] tend to slope upwards?
-1. What is the risk involved in investing in [[US Markets|Treasury securities]]?
-1. Can we predict medium-to-long term yields? What about [[Assets|returns]]?
+- There are numerous questions that arise when we think about the [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md)
+of [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md),  such as:
+1. Why does the [term structure of interest rates](../../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md) tend to slope upwards?
+1. What is the risk involved in investing in [Treasury securities](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/US%20Markets.md)?
+1. Can we predict medium-to-long term yields? What about [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)?
 ## THE EXPECTATIONS HYPOTHESIS
-- The [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.4 [[The Expectation Hypothesis|Expectations hypothesis]]|[[The Expectation Hypothesis|expectations hypothesis]]]] is the hypothesis that long-term yields just reflect
-market participants' expectation of future [[Interest Rate Quotations|interest rates]]
-Long-term yield = Expected future [[Volatility and Convexity|short-term rates]]
-- To illustrate,  let today be t and consider the case in which investors have perfect foresight of the next 1-year [[Interest Rate Quotations|interest rates]]$y_ {t+1}(1)$.
+- The [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.4 [Expectations hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md)|[expectations hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md)]] is the hypothesis that long-term yields just reflect
+market participants' expectation of future [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)
+Long-term yield = Expected future [short-term rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%208/Volatility%20and%20Convexity.md)
+- To illustrate,  let today be t and consider the case in which investors have perfect foresight of the next 1-year [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)$y_ {t+1}(1)$.
 - Investors then also know that the zero coupon bond price next year will be$$Z_{t+1}(1)=e^{-y_{t+1}(1)\times1}$$
 - Because under these assumptions,  Z_ {t+1}(1) is known today,  its value today is the
 discounted value using the current 1-year yield:$$Z_{t}(2)=Z_{t}(1)\times Z_{t+1}(1)=e^{-\langle y_{t}(1)+y_{t+1}(1)\rangle}$$
@@ -58,7 +58,7 @@ discounted value using the current 1-year yield:$$Z_{t}(2)=Z_{t}(1)\times Z_{t+1
 ## THE EXPECTATIONS HYPOTHESIS (CNTD.)
 - Extending this reasoning to n future one-year yields,  then under perfect foresight
 the yield of a zero-coupon bond with n + 1 years to maturity is:$$y_{t}(n+1)=\mathsf{Average}[y_{t}(1),        y_{t+1}(1),        …,        y_{t+n}(1)]={\frac{1}{n+1}}\stackrel{n}{\underset{i=0}{\Sigma}}y_{t+i}(1)$$
-- The **[[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.4 [[The Expectation Hypothesis|Expectations hypothesis]]|[[The Expectation Hypothesis|expectations hypothesis]]]]** substitutes the perfect foresight with forecasts:$$The\ long\ term\ yield=\ forecasted\ average\ path\ of\ future\ rates$$$$y_{t}(n+1)\ =\ E_{t}\left[\frac{1}{n+1}\sum\limits_{i=0}^{n}y_{t+i}(1)\right]\tag{1}$$
+- The **[Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.4 [Expectations hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md)|[expectations hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md)]]** substitutes the perfect foresight with forecasts:$$The\ long\ term\ yield=\ forecasted\ average\ path\ of\ future\ rates$$$$y_{t}(n+1)\ =\ E_{t}\left[\frac{1}{n+1}\sum\limits_{i=0}^{n}y_{t+i}(1)\right]\tag{1}$$
 - Subtracting the current **1-year** yield,  we can also write$$y_{t}(n+1)-y_{t}(1)\ =\ E_{t}\left[\frac{1}{n+1}\sum\limits_{i=0}^{n}y_{t+i}(1)\right]-y_{t}(1)$$
 (2)
 ## PRELIMINARY HEURISTIC EVIDENCE - DOES THIS RELATION HOLDS IN THE DATA?
@@ -71,7 +71,7 @@ the yield of a zero-coupon bond with n + 1 years to maturity is:$$y_{t}(n+1)=\ma
 ## THE EXPECTATION HYPOTHpng AND FORWARD RATES
 # Forward Rates and Term Structure
 
-We observed in **Teaching Notes 1** that a [[Forward Points in Currency|forward rate]] at time$t$for an [[An Asset Allocation Primer|investment]] between$\tau_1$and$\tau_2$can be represented as:
+We observed in **Teaching Notes 1** that a [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) at time$t$for an [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) between$\tau_1$and$\tau_2$can be represented as:
 $$
 f_t(\tau_1,         \tau_2) = \frac{1}{\tau_2 - \tau_1} \ln \left( \frac{Z_t(\tau_1)}{Z_t(\tau_2)} \right) = \frac{1}{\tau_2 - \tau_1} \left( y_t(\tau_2)\tau_2 - y_t(\tau_1)\tau_1 \right) \tag{3}
 $$
@@ -83,16 +83,16 @@ $$
 	- $f_t(\tau_{n-1},         \tau_n) = \frac{1}{\Delta t} \left(y_t(\tau_n)\tau_n - y_t(\tau_{n-1})\tau_{n-1} \right)$
 - Summing over all of the forward rates,  we find$$\sum_{i=2}^{n}f_{t}(\tau_{i-1},        \tau_{i})=\frac{1}{\Delta t}\left(y_{t}(\tau_{n})\tau_{n}-y_{t}(\tau_{1})\tau_{1}\right)$$
 - Assuming τ1 = ∆t and defining ft(0,  ∆t) = yt(∆t),  we the obtain$$y_{t}(\tau_{n})=\frac{\Delta t}{\tau_{n}}\sum\limits_{i=1}^{n}f_{t}(\tau_{i-1},        \tau_{i})=\mbox{Average forward rates}\tag{4}$$
-- The expectation hypothesis then implies that for every i the [[Forward Points in Currency|forward rate]] is equal to the expected future short-term rate:$$f_{t}(\tau_{i},        \tau_{i}+\Delta t)=E_{t}[y_{t+\tau_{i}}(\Delta t)].$$
+- The expectation hypothesis then implies that for every i the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) is equal to the expected future short-term rate:$$f_{t}(\tau_{i},        \tau_{i}+\Delta t)=E_{t}[y_{t+\tau_{i}}(\Delta t)].$$
 - ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405073248911.png Again,  expected future rates are mostly lower than forward rates.
 ## TIME VARYING RISK PREMIA
-- The violation of the [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.4 [[The Expectation Hypothesis|Expectations hypothesis]]|[[The Expectation Hypothesis|expectations hypothesis]]]] (and the time variation in sprepnguggests the existence of an additional term in Equation (1):$$y_{t}(n+1)\ =\ E_{t}\left[\frac{1}{n+1}\sum\limits_{i=0}^{n}y_{t+i}(1)\right]+RP_{t}\tag{5}$$
+- The violation of the [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.4 [Expectations hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md)|[expectations hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md)]] (and the time variation in sprepnguggests the existence of an additional term in Equation (1):$$y_{t}(n+1)\ =\ E_{t}\left[\frac{1}{n+1}\sum\limits_{i=0}^{n}y_{t+i}(1)\right]+RP_{t}\tag{5}$$
 - where$RP_{t}$reflects a risk premium from holding the bond from$t$to$t+1$.
-- The time variation in$RP_t$invalidates the [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.4 [[The Expectation Hypothesis|Expectations hypothesis]]|[[The Expectation Hypothesis|expectations hypothesis]]]].
-	 - Even if the expectation of future [[Interest Rate Quotations|interest rates]] does not change,  the yield curve may change because$RP_t$changes.
+- The time variation in$RP_t$invalidates the [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.4 [Expectations hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md)|[expectations hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md)]].
+	 - Even if the expectation of future [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) does not change,  the yield curve may change because$RP_t$changes.
 	- Therefore,  movements in the yield curve do not only correspond to variations in expected future short-term yields.
 ## TERM STRUCTURE DECOMPOSITION
-- Let$y_t(n + 1$) = yield at t of a bond with *[[Hedging Strategies with Forwards|time to maturity]]* (n + 1) years from t$$Z_{t}(n+1)=e^{-y_{t}(n+1)(n+1)}\tag{6}$$
+- Let$y_t(n + 1$) = yield at t of a bond with *[time to maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md)* (n + 1) years from t$$Z_{t}(n+1)=e^{-y_{t}(n+1)(n+1)}\tag{6}$$
 - The value of this bond next year will then be$$Z_{t+1}(n)=e^{-y_{t+1}(n)\times n}$$
 - The yield next year yt+1(n) is not known. Assume it normally distributed$$y_{t+1}(n)\sim{\cal N}\left(\bar{y},        V\right))\quad\mbox{with}\quad\bar{y}=E[y_{t+1}(n)]$$
 - $Z_{t+1}(n)$is risky and so investors at$t$may require an additional discount$RP$:$$Z_{t}(n+1)=e^{-\left(y(1)+RP_{t}\right)\times1}E_{t}[Z_{t+1}(n)]\tag{7}$$
@@ -101,24 +101,24 @@ $$
 - The current long-term yield$y_t(n + 1)$depends on
 	1. The weighted average between the current short-term yield and the expected long-term yield next year.
 	1. A risk premium RP that market participants require to hold long-term zero coupon bonds with maturity n + 1 over safe bonds with maturity 1.
-	1. A [[PSET II Fixed Income Asset Pricing 1|convexity]] term due to the nonlinear relation that exists between the yield$y_{t+1}(n)$and the price$$Z_{t+1}(n) = e^{−y_{t+1}(n)×n}$$
+	1. A [convexity](../Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) term due to the nonlinear relation that exists between the yield$y_{t+1}(n)$and the price$$Z_{t+1}(n) = e^{−y_{t+1}(n)×n}$$
 ## EXPECTATION HYPOTHESIS (AGAIN)
 - Let$RP_t = \frac{n^2}{2} V_{t}$Then the expectation hypothesis holds:$$y_{t}\left(n+1\right)\,        =\,        \frac{1}{n+1}\times y_{t}\left(1\right)+\frac{n}{n+1}\times E_{t}\left[y_{t+1}\left(n\right)\right]\tag{9}$$
 - Subtract$y_{t}\left(n+1\right)\times\left(n\right)/(n+1)$on both sides,  to get$$E_{t}\left[y_{t+1}\left(n\right)\right]-y_{t}\left(n+1\right)\,        =\,        \,        \,        \,        \,        \,        \,        \,        \frac{1}{n}[y_{t}\left(n+1\right)-y_{t}\left(1\right)]\tag{10}$$
-- A steep [[The Vasicek Model|term structure]] (on the RHS) signals the market expects an increase in the yield$y_t (n + 1)$between$t$and$t + 1$(on the LHS)$$E_{t}\left[y_{t+1}\left(n\right)\right]>y_{t}\left(n+1\right)$$
+- A steep [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) (on the RHS) signals the market expects an increase in the yield$y_t (n + 1)$between$t$and$t + 1$(on the LHS)$$E_{t}\left[y_{t+1}\left(n\right)\right]>y_{t}\left(n+1\right)$$
 	- market expects a low or negative return on$(n + 1)$maturity bond.
  ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405074610622.webp)
 - Example: On t =1/31/1994 yield curve was increasing and the spread was 3.3%.
 - High spread *may* signalpng-term yield$y_t(30)$= 6.87% may increase.
 - And indeed,  it did:$t + 1 =$1/31/1995 we have$y_{t+1}(29) = 7.81\%.$
-- This implies a loss on [[An Asset Allocation Primer|investment]]:$R_{t,        t+1}=\frac{Z_{t+1}(29)}{Z_{t}(30)}-1=\frac{10.3893}{12.7048}-1=-18\%$
+- This implies a loss on [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md):$R_{t,        t+1}=\frac{Z_{t+1}(29)}{Z_{t}(30)}-1=\frac{10.3893}{12.7048}-1=-18\%$
 ## DOES THE EXPECTATION HYPOTHESIS HOLD IN THE DATA?
 - Does a high slope predict an increase in future yields? (i.e. should you go short?)
 - In an influential paper,  Campbell and Shiller (1988) run the following regressions$$\text{Changes in yield}=\alpha+\beta\times\text{Slope}_{t}+\varepsilon_{t+1}\tag{11}$$
 - That is,  from yield data we can compute a dependent "$Y$" variable$$Y_{t}=\text{Changes in yield}=y_{t+1}\left(n\right)-y_{t}\left(n+1\right);\quad t=1,        2,        …,        T$$
 - and an explanatory "X" variable$$X_{t}=\mathsf{Slope}_{t}=\frac{1}{n}\left[y_{t}\left(n+1\right)-y_{t}\left(1\right)\right];\quad t=1,        2,        …,        T$$
 - Then Campbell and Shiller (1988) run the regression$$Y_{t}=\alpha+\beta X_{t}+\varepsilon_{t+1}\tag{12}$$
-- The [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.4 [[The Expectation Hypothesis|Expectations hypothesis]]|[[The Expectation Hypothesis|expectations hypothesis]]]] has$α = 0$and$β = 1.$
+- The [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.4 [Expectations hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md)|[expectations hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md)]] has$α = 0$and$β = 1.$
 - We can see if this true in the data.
 ## CAMPBELL AND SHILLER REGRESSION
 
@@ -136,20 +136,20 @@ $$
 Notes: Regression results based on Fama Bliss discount bond data from CRSP. Sample: 1964 - 2006.
 
 - Important to note:
-- β ̸= 1 =⇒ [[The Expectation Hypothesis|Expectations Hypothesis]] is rejected
+- β ̸= 1 =⇒ [Expectations Hypothesis](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/The%20Expectation%20Hypothesis.md) is rejected
 - *β <* 0 =⇒ steep yield curve predicts a **decrease** of long-term yield.
 	- This is the opposite of the basic simple intuition about a raising yield curve.
-- [[Operating Income vs. Net Income What's the Difference|Bottom line]]: A steep yield curve predicts high [[Assets|returns]] of long-term bonds.
+- [Bottom line](../../Advanced%20Financial%20Analysis%20and%20Valuation/Financial%20Ratios/Operating%20Income%20vs.%20Net%20Income%20What's%20the%20Difference.md): A steep yield curve predicts high [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) of long-term bonds.
  ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405074821841.webp)
 - Example: On t =1/30/2004 yield curve was increasing and the spread was 4.1%.
 - In the data,  high spread forecast a decline of long-term yield$y_t(30) = 5.347\%$.
 - And indeed,  it did
 - $t + 1$= 1/31/2005 we have$y_{t+1}(29)$= 4.655\%.
-- This implies a gain on [[An Asset Allocation Primer|investment]]:$$
+- This implies a gain on [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md):$$
 R_{t,  t+1}=\frac{Z_{t+1}(29)}{Z_t(30)}-1=\frac{25.9279}{20.1046}-1=+29\%
 $$
 ## TIME VARYING RISK PREMIA
--  This result implies that the slope of the [[The Vasicek Model|term structure]] predicts$$L R P_{t}=R P_{t}-\frac{n^{2}}{2}V_{t},        \tag{13}$$
+-  This result implies that the slope of the [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) predicts$$L R P_{t}=R P_{t}-\frac{n^{2}}{2}V_{t},        \tag{13}$$
 -  *LRP*t stands for "Log Risk Premium" (see below).
 -  In fact,         we can rewrite (8) as$$E_{t}\left[y_{t+1}\left(n\right)-y_{t}\left(n+1\right)\right]=\frac{1}{n}\left[y_{t}\left(n+1\right)-y_{t}\left(1\right)\right]-LRP_{t}\tag{14}$$
 -  We know slope is not positively related to the left-hand-side (previous table)
@@ -157,7 +157,7 @@ $$
 - When slope increases so does *LRP*t,         thereby killing the positive correlation.
 -  Implication:
 	- High slope ̸⇒ market expects higher future rates.
-	- High slope ⇒ high risk premium ⇒ high [[Lecture 1- Probability Distributions of Returns|expected return]] of long-term bonds
+	- High slope ⇒ high risk premium ⇒ high [expected return](../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) of long-term bonds
 		- strong price increase ⇒ low future yield.
 ## THE PREDICTABILITY OF BOND RETURNS
 -  The Log Risk Premium $LRP_t$ can also be rewritten as:$$LRP_{t}=E_{t}\left[\log\left(\frac{Z_{t+1}\left(n\right)}{Z_{t}\left(n+1\right)}\right)-\log\left(\frac{1}{Z_{t}\left(1\right)}\right)\right]\tag{15}$$
@@ -189,7 +189,7 @@ Panel B: Log Excess Return Prediction from Forward Slope
 - When the forward spread is strongly positive,  on average investments in longterm bonds generate a higher return compared to short term bonds.
 ## COCHRANE AND PIAZZESI FACTOR
 - Cochrane and Piazzesi (2005) have shown that a specific combination of forward
-rates successfully predicts excess log [[Assets|returns]].
+rates successfully predicts excess log [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md).
 - The predicting factor is defined by$$x_{t}=\gamma_{0}+\gamma_{1}y_{t}(1)+\gamma_{3}f_{t}(2,        3)+\gamma_{5}f_{t}(4,        5)$$
 - The parameters γi are estimated in a first stage regression:
 - Define$$\overline{{{L}}}E\overline{{{R}}}_{t}=0.25\times\sum\limits_{n=2}^{5}L E R_{t}(n)$$
@@ -207,36 +207,36 @@ Panel C: Log Excess Return Prediction from Cochrane Piazzesi Factor$$\text{Panel
 4 & 1.22 & 0.19 & 0.35 \\
 5 & 1.43 & 0.24 & 0.32 \\
 \end{array}$$
--  The coefficients are strongly positive,         and the R2 higher than in Panel B,         showing that including information on the whole [[The Vasicek Model|term structure]] helps predict bond excess [[Assets|returns]].
+-  The coefficients are strongly positive,         and the R2 higher than in Panel B,         showing that including information on the whole [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) helps predict bond excess [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md).
 ## COPING WITH INFLATION RISK: TREASURY INFLATION-PROTECTED SECURITIES
 -  Treasury coupon bonds are in nominal terms,         as they pay in dollars.
--  How much you can buy with those dollars depends on [[War Economies and Hyperinflation|inflation]] before maturity.
--  Over long periods,         the [[War Economies and Hyperinflation|inflation]] can be pretty high.
--  [[Pricing an Inflation Swap|CPI index]] = weighted average of the representative good prices.
--  The change in the CPI measures the realized [[War Economies and Hyperinflation|inflation]] during the period.
+-  How much you can buy with those dollars depends on [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) before maturity.
+-  Over long periods,         the [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) can be pretty high.
+-  [CPI index](../../Financial%20Instruments/Pricing%20an%20Inflation%20Swap.md) = weighted average of the representative good prices.
+-  The change in the CPI measures the realized [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) during the period.
 ## SIMPLE EXAMPLE
 -  We have monthly income of $10,         000 and let CPI = price of consumption basket.
 -  How much we can buy at a given time $t_1$ is $C(t_1) =\$10,         000/CPI(t_1)$.
 	+ E.g. if $CPI(t_1)$ = 10 =⇒ we can buy 1000 units of consumption basket.
 - If basket only contains$10-burgers,         we can buy  $C(t_1)$  = 1000 burgers at t1.
--  Let now be t2 and let our income be the same. Because of [[War Economies and Hyperinflation|inflation]],         now  $CPI(t_2)$  =
+-  Let now be t2 and let our income be the same. Because of [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md),         now  $CPI(t_2)$  =
 	- We can now only buy  $C(t_2)$  =$10,         000/ $CPI(t_2)$  = 500 burgers: big loss in consumption even if nominal income is the same.
 ## INFLATION RISK AND THE LOSS OF PURCHASING POWER
 -  The ratio  $C(t_2)$ / $C(t_1)$  = loss in purchasing power of a dollar between t1 and t2.
 -  This ratio is given by  $C(t_2)$ / $C(t_1)$  =  $CPI(t_1)$ / $CPI(t_2)$ .
 	- In the previous example  $CPI(t_1)$ / $CPI(t_2)$  = 0.5 =⇒ we can only afford at t2 half of the goods we could buy at t1.
--  Changes in CPI are unknown =⇒ nominal securities have [[War Economies and Hyperinflation|inflation]] risk
+-  Changes in CPI are unknown =⇒ nominal securities have [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) risk
 	- Risk that the dollar payoff will afford less consumption goods than expected.
--  [[War Economies and Hyperinflation|Inflation]]-protected securities are vehicles that hedge against this [[War Economies and Hyperinflation|inflation]] risk.
+-  [Inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)-protected securities are vehicles that hedge against this [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) risk.
 ## TREASURY INFLATION PROTECTED SECURITIES (TIPS)
 -  TIPS are coupon bonds issued with maturities of 5,         10,         and 20 years.
 -  The coupon rate of TIPS is a constant fraction of the principal.
--  The principal changes over time in response to [[War Economies and Hyperinflation|inflation]].
-	- If the CPI increases,         then the [[HSBC-Auto callable Barrier Notes with Step-up Premium|principal amount]] increases proportionally.
+-  The principal changes over time in response to [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md).
+	- If the CPI increases,         then the [principal amount](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/HSBC-Auto%20callable%20Barrier%20Notes%20with%20Step-up%20Premium.md) increases proportionally.
 -  The Treasury publishes Index ratios$$\mbox{Index ratio}(t)\ =\ \max\left(\frac{\mbox{Reference CPI}(t)}{\mbox{CPI}(\mbox{issurance})}\right)$$
 Reference CPI$(t)\ =\ w(t)\ \mbox{CPI}(t-1)+(1-w(t))\ \mbox{CPI}(t-2)$
 - where $w(t)$ is a weight that depends on the quoted day of the month.
--  Next Table contains quotes of [[US Markets|Treasury securities]] on November 26,         2007.
+-  Next Table contains quotes of [Treasury securities](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/US%20Markets.md) on November 26,         2007.
 	- Given the index ratio,         the next coupon payment is
 Coupon payment$(t)=\dfrac{\text{Coupon rate}}{2}\times100\times\text{Index ratio}(t)$
 ## TREASURY SECURITIES ON NOVEMBER 26,         2007
@@ -248,24 +248,24 @@ Data Source: Bloomberg,         Inc.
 -  CPI used is instead the average between the August and September CPIs (207.917
 and 208.490,         respectively).
 - Because November 26 is 25 days after November 1,         the calculation is$${\mathsf{C P I}}(t)={\frac{5}{30}}\times207.917+{\frac{25}{30}}\times208.490=208.3945.$$
--  An investor in TIPS is still subject to a small [[War Economies and Hyperinflation|inflation]] risk during the two months
+-  An investor in TIPS is still subject to a small [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) risk during the two months
 between the CPI measure and the actual payment.
 ## REAL BONDS AND THE REAL TERM STRUCTURE OF INTEREST RATES
--  [[Swaps Types|Borrowing and lending]] do not need dollars.
+-  [Borrowing and lending](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Swaps%20Types.md) do not need dollars.
 	- You can borrow a car from a friend and return it in a week.
 	- If you forget your wallet,         you can ask your friend to buy a sandwich today with the agreement you will return the same sandwich tomorrow.
 - If your "friend" see you very hungry today,         he may ask you to return a bigger sandwich tomorrow. I.e. charge a big *real* interest rate.
 -  **Real bonds** are bonds that are denominated in units of a good instead of dollars.
--  Relevant to [[War Economies and Hyperinflation|inflation]] linked securities are bonds that are denominated in units of the consumption basket that underlies the [[Pricing an Inflation Swap|CPI index]] calculation.
--  A **real [[Discount Factors|discount factor]]** $Z^{real}(t,         T)$ defines the *exchange rate* between consumption goods at t versus consumption goods at a later date T.
+-  Relevant to [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) linked securities are bonds that are denominated in units of the consumption basket that underlies the [CPI index](../../Financial%20Instruments/Pricing%20an%20Inflation%20Swap.md) calculation.
+-  A **real [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md)** $Z^{real}(t,         T)$ defines the *exchange rate* between consumption goods at t versus consumption goods at a later date T.
 	- How "bigger" a sandwich are we willing to give back to the "friend" tomorrow to have a sandwich today?
 ## REAL RATES
 -  From real discounts $Z_{real}(t,         T)$ compute the **real rate** as usual:$$Z^{real}(t;T)=e^{-r_{real}(t;T)(T-t)}\times1\tag{19}$$
 -  implies$$r_{real}(t;T)=-\frac{\ln\left(Z^{real}(t;T)\right)}{T-t}\tag{20}$$
--  The **real [[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]]** is r*real*(t; T) for maturities T.
+-  The **real [term structure of interest rates](../../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md)** is r*real*(t; T) for maturities T.
 -  The value (in consumption goods) of a real coupon bond with maturity T and coupon rate c is$$P_{c}^{r e a l}(t;T)=\frac{c\times100}{2}\sum\limits_{i=1}^{n}Z^{r e a l}(t;T_{i})+100\times Z^{r e a l}(t;T)$$
 ## REAL BONDS AND TIPS
--  Suppose an [[An Asset Allocation Primer|investment]] bank purchases a TIPS and strips the coupons from principal,         generating a series of zero coupon bonds.
+-  Suppose an [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) bank purchases a TIPS and strips the coupons from principal,         generating a series of zero coupon bonds.
 -  These zero coupon bonds pay an amount that is tied to the CPI.
 -  Denoting by *Idx*(T) the CPI adjustment for maturity T (recall,         it depends on the CPI two months earlier),         the payoff of a zero coupon TIPS is as follows:
 Zero-coupon TIPS payoff at $T$ = $$Z_{TIPS}=\dfrac{Idx(T)}{Idx(0)} \tag{21}$$ 
@@ -286,23 +286,23 @@ Dollar value of a zero-coupon TIPS =$Z^{TIPS}(t;T)=Z^{real}(t;T)\times\frac{Idx(
 -  One limitation compared to the case of Treasuries is that we do not have available
 as many bond prices,         and therefore the bootstrapping strategy is not applicable.
 -  However,         we can use the curve fitting method using a flexible function for the
-[[Discount Factors|discount factor]],         such as the Nelson Siegel model$$r_{real}(0,        T)\ =\ \theta_{0}+(\theta_{1}+\theta_{2})\,        \frac{1-e^{-\frac{T}{\kappa_{1}}}}{\frac{T}{\kappa_{1}}}-\theta_{2}e^{-\frac{T}{\kappa_{1}}}+\theta_{3}\left(\frac{1-e^{-\frac{T}{\kappa_{2}}}}{\frac{T}{\kappa_{2}}}-e^{-\frac{T}{\kappa_{2}}}\right)\tag{24}$$
+[discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md),         such as the Nelson Siegel model$$r_{real}(0,        T)\ =\ \theta_{0}+(\theta_{1}+\theta_{2})\,        \frac{1-e^{-\frac{T}{\kappa_{1}}}}{\frac{T}{\kappa_{1}}}-\theta_{2}e^{-\frac{T}{\kappa_{1}}}+\theta_{3}\left(\frac{1-e^{-\frac{T}{\kappa_{2}}}}{\frac{T}{\kappa_{2}}}-e^{-\frac{T}{\kappa_{2}}}\right)\tag{24}$$
 - From the previous table,         for instance,         we obtain the following results
 ## REAL AND NOMINAL RATES ON NOVEMBER 26,         2007
  ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405081803258.webp)
 Data Source: Bloomberg.
- -  NEXT FIGURE SHOWS THAT THE [[The Vasicek Model|TERM STRUCTURE]] OF REAL RATES CHANGES OVER TIME. REAL RATES DURING AND AFTER THE CRISIS
+ -  NEXT FIGURE SHOWS THAT THE [TERM STRUCTURE](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) OF REAL RATES CHANGES OVER TIME. REAL RATES DURING AND AFTER THE CRISIS
  ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405081827409.webp)
 -  Negative *real* rates are not uncommon.
 - We give back our "friend" a smaller sandwich because its price skyrocketed.
 ## NOMINAL AND REAL INTEREST RATES
 -  What is the relation between real and nominal rates?
--  We now show that nominal rate = real rate + expected [[War Economies and Hyperinflation|inflation]] + [[War Economies and Hyperinflation|inflation]] risk premium− [[PSET II Fixed Income Asset Pricing 1|convexity]]
+-  We now show that nominal rate = real rate + expected [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) + [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) risk premium− [convexity](../Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md)
 -  Consider first the value today of$1 at T$$Z(0,        T)=e^{-r(0,        T)T}\times\$1$$
 - Alternatively,         we can express this in "consumption goods": $1 at T will buy C(T) = $\frac{1}{CPI(T)}$ units of consumption good.
 -  Unfortunately,         this amount is not known today,         because CPI(T) is stochastic.
 -  To compute the present value we need more assumptions.
--  Let π be the annualized [[War Economies and Hyperinflation|inflation]] rate between 0 and T$$\pi=\frac{1}{T}\ln\left(\frac{\mathsf{C P I}(T)}{\mathsf{C P I}(0)}\right)$$
+-  Let π be the annualized [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) rate between 0 and T$$\pi=\frac{1}{T}\ln\left(\frac{\mathsf{C P I}(T)}{\mathsf{C P I}(0)}\right)$$
 ## THE FISHER EQUATION UNDER PERFECT FORESIGHT
 -  Consider first *Perfect Foresight*: Assume investors know π and hence CPI(T).
 -  Then the value today of$1 at T in consumption good units is$$\mathrm{Present~value~of}\;\;\;C(T)=Z^{r e a l}(0,        T)\times C(T)=Z^{r e a l}(0,        T)\times{\frac{\S1}{\mathsf{CPI}(T)}}$$
@@ -311,7 +311,7 @@ Data Source: Bloomberg.
 -  It is therefore a *nominal* discount,         yielding the equality$$Z(0,        T)=Z^{r e a l}(0,        T)\times\frac{\mathsf{C P I}(0)}{\mathsf{C P I}(T)}$$
 -  Substitute to obtain the Fisher equation:$$r(0,        T)=r_{r e a l}(0,        T)+\pi$$
 ## INFLATION RISK PREMIUM
--  Assume now [[War Economies and Hyperinflation|inflation]] rate is not known and assume it is log-normal$$\log\left(\frac{\mathsf{CPI}(T)}{\mathsf{CPI}(0)}\right)=x\sim\mathcal{N}(\pi\ T,        \sigma\pi^{2}\ T)$$
+-  Assume now [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) rate is not known and assume it is log-normal$$\log\left(\frac{\mathsf{CPI}(T)}{\mathsf{CPI}(0)}\right)=x\sim\mathcal{N}(\pi\ T,        \sigma\pi^{2}\ T)$$
 - This implies that the amount of consumption we can buy at $T$ is stochastic:$$C(T)=\frac{\$1}{\mathsf{CPI}(T)}=\$1\times\frac{e^{-x}}{\mathsf{CPI}(0)}$$
 -  Because C(T) is now risky,         we cannot discount it to today using the real bond$$Z_{real}(0,         T) = e^{−r_{real}(0,        T)T}$$,         but we thus must add a risk premium κ.
 -  Multiplying also by CPI(0) to obtain the dollar value,         we obtain
@@ -323,7 +323,7 @@ Dollar Present value of expected $C(T)=e^{-(r_{real}(0,        T)+\kappa)T}\time
 	- Decreasing with time: Eating soon is better than eating later.
 	- Increasing in consumption: Eating more is better than eating less.
 	- Concave: =⇒ Risk aversion: An amount of consumption that is *certain* is better than a fair bet to have more or less.$$E\left[U(C)\right]<U\left(E[C]\right)$$
--  A widely used utility function is the Constant [[CCAPM with Alternative Preferences|Relative Risk Aversion]] (CRRA):$$U(C,        t)=e^{-\rho t}\frac{C^{1-\gamma}}{1-\gamma}$$$-\rho=$time-[[Utility Indices|preference]] parameter$-\gamma=-CU^{\prime\prime}(C)/U^{\prime}(C)=$[[CCAPM with Alternative Preferences|relative risk aversion]] parameter.
+-  A widely used utility function is the Constant [Relative Risk Aversion](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/CCAPM%20with%20Alternative%20Preferences.md) (CRRA):$$U(C,        t)=e^{-\rho t}\frac{C^{1-\gamma}}{1-\gamma}$$$-\rho=$time-[preference](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) parameter$-\gamma=-CU^{\prime\prime}(C)/U^{\prime}(C)=$[relative risk aversion](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/CCAPM%20with%20Alternative%20Preferences.md) parameter.
 ## OPTIMAL SAVINGS
 ## INVESTMENT CONTEXT 
 - An investor has wage $w(0)$ today and a random amount $w(T)$ at $T$. 
@@ -339,10 +339,10 @@ Dollar Present value of expected $C(T)=e^{-(r_{real}(0,        T)+\kappa)T}\time
 -  Equilibrium requires the agent to be indifferent between 1 and 2. Because quantities at T are unknown,         the indifference condition is$$U^{\prime}\left(C(0)\right)\times{\frac{\$100}{\mathsf{CPI}(0)}}=E\left[{\frac{\$100}{Z\left(0,        T\right)\mathsf{CPI}(T)}}U^{\prime}\left(C(T),        T\right)\right]$$
 -  By reshuffling,         we obtain$$Z(0,        T)=E\left[\frac{\mathsf{CPI}(0)}{\mathsf{CPI}(T)}\times\frac{U^{\prime}(C(T),        T)}{U^{\prime}(C(0))}\right]$$
 - In aggregate,         real consumption $C(t)$ depends on *real*$\mathsf{GDP}\ Y(t)$.
--  Assume that [[War Economies and Hyperinflation|inflation]] and real GDP growth have the joiny log-normal distribution$$\left.\begin{pmatrix}\log\left(\frac{\mathsf{CPl}(T)}{\mathsf{CPl}(0)}\right)\\\log\left(\frac{Y(T)}{Y(0)}\right)\end{pmatrix}=\begin{pmatrix}x\\y\end{pmatrix}\thicksim\mathcal{N}\left(\begin{pmatrix}\overline{\pi}\\\overline{g}T\end{pmatrix}\right.,        \begin{pmatrix}\sigma\pi^2T&,        &\sigma\pi\sigma_g\rho_{g,        \pi}T\\\sigma\pi\sigma_g\rho_{g,        \pi}T&,        &\sigma_g^2T\end{pmatrix}\right)$$
+-  Assume that [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and real GDP growth have the joiny log-normal distribution$$\left.\begin{pmatrix}\log\left(\frac{\mathsf{CPl}(T)}{\mathsf{CPl}(0)}\right)\\\log\left(\frac{Y(T)}{Y(0)}\right)\end{pmatrix}=\begin{pmatrix}x\\y\end{pmatrix}\thicksim\mathcal{N}\left(\begin{pmatrix}\overline{\pi}\\\overline{g}T\end{pmatrix}\right.,        \begin{pmatrix}\sigma\pi^2T&,        &\sigma\pi\sigma_g\rho_{g,        \pi}T\\\sigma\pi\sigma_g\rho_{g,        \pi}T&,        &\sigma_g^2T\end{pmatrix}\right)$$
 ## EQUILIBRIUM PRICES 
 ### CRRA UTILITY FUNCTION
-- Substitute the [[The Simple Multi-Period Ccapm|CRRA utility]] function:
+- Substitute the [CRRA utility](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/The%20Simple%20Multi-Period%20Ccapm.md) function:
   - $$U'(C,         t) = e^{-\rho t} C(t)^{-\gamma}$$
 - And use $C(t) = Y(t)$ for $t = 0,         T$ to find:
   - $$Z(0,         T) = E\left[ e^{-x} \times \frac{e^{-\rho T} Y(T)^{-\gamma}}{Y(0)^{-\gamma}} \right]$$
@@ -352,13 +352,13 @@ Dollar Present value of expected $C(T)=e^{-(r_{real}(0,        T)+\kappa)T}\time
 - Thus,         the nominal rate is:
   - $$r(0,         T) = \left( \rho + \gamma g - \frac{\gamma^2}{2} \sigma_g^2 \right) + \left( \pi - \frac{1}{2} \pi^2 \right) - \gamma \pi \sigma_g \rho_{g,        \pi}$$
     - **Real Rate $r_{real}(0,         T)$**: $\rho + \gamma g - \frac{\gamma^2}{2} \sigma_g^2$
-    - **Expected [[War Economies and Hyperinflation|Inflation]] & [[PSET II Fixed Income Asset Pricing 1|Convexity]]**: $\pi - \frac{1}{2} \pi^2$
+    - **Expected [Inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) & [Convexity](../Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md)**: $\pi - \frac{1}{2} \pi^2$
     - **Risk Premium**: $-\gamma \pi \sigma_g \rho_{g,        \pi}$
 ## THE ECONOMICS OF THE REAL RATE
 -  Following the same steps as above but using TIPS zero-coupon bonds ZTIPS(0,         T)
 instead of nominal bonds Z(0,         T) we obtain the real rate as:$$r_{r e a l}(0,        T)=\rho+\gamma\overline{{{g}}}-\frac{\gamma^{2}}{2}\sigma_{g}^{2}$$
 -  The real rate depends on:
-1. Time [[Utility Indices|preference]] $ρ$:
+1. Time [preference](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) $ρ$:
 	- High $ρ$ implies investors want to consume today rather then tomorrow. They will sell their (real) bonds which increase their yield.
 2. The expected growth rate of the economy $g$:
 	- If $g$ is high we expect to be rich at $T$ and hence consume a lot then. High $γ$ implies we want "stable consumption" over time. Hence we want to borrow to consume more today,         which increases real rates.
@@ -369,11 +369,11 @@ instead of nominal bonds Z(0,         T) we obtain the real rate as:$$r_{r e a l
 -  We found $$\text{inflation risk premium} = −γσπσ_gρ_{g,        π}$$
 -  where $$ρ_{g,        π} = \text{Correlation (Inflation,         real GDP growth)}$$
 +  Intuitively:
-	+ If $ρ_{g,        π} <0 \rho_{g\pi}$ =⇒ high [[War Economies and Hyperinflation|inflation]] occurs when real GDP is low
+	+ If $ρ_{g,        π} <0 \rho_{g\pi}$ =⇒ high [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) occurs when real GDP is low
 		+ nominal bond is devalued in recessions,         when people most need the money! 
 		+ -very risky security =⇒ high risk premium =⇒ high long-term yield
 -  Next figures show that the correlation $ρ_{g,        π}$ was negative until late 1990s. It then became closer to zero. And then became strongly positive around 2008.
--  In the meantime,         real GDP volatility σg and [[War Economies and Hyperinflation|inflation]] volatility σπ declined.
+-  In the meantime,         real GDP volatility σg and [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) volatility σπ declined.
 -  All of these variation are bound to impact the risk premium.
 ## QUARTERLY REAL GDP GROWTH AND CPI INFLATION QUARTERLY REAL GDP GROWTH AND CPI INFLATION
  ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405082451473.webp)
@@ -382,41 +382,41 @@ Data Source: Federal Reserve of St. Louis Data Source: Federal Reserve of St. Lo
  ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405233914662.webp)
 ## EXPECTED EXCESS RETURN: THE MARKET MODEL
 -  Another way to understand the risk premium of nominal bonds is to look at its
-variation with the [[Hedge Fund Strategies|stock market]]
+variation with the [stock market](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md)
 -  Under the CAPM,         for instance$$E\ [\text{ Excess Return Nominal Bond}] = β × E\ [\text{ Excess Return Market}]$$
 -  Next figure shows the time variation in the correlation between stock and bonds,        
 and the corresponding CAPM beta.
 -  Why did the CAPM beta change over time?
-- David and Veronesi (2013,         JPE): Time varying role of [[War Economies and Hyperinflation|inflation]] signals
-- Late 1970s/ early 1980s: *Fear of stagflation* (high [[War Economies and Hyperinflation|inflation]] and low growth)
-=⇒ high [[War Economies and Hyperinflation|inflation]] shocks are bad news for the economy =⇒ both nominal bonds and stock drop
-- Mid 2000s: *Fear of deflation* (low [[War Economies and Hyperinflation|inflation]] and low growth)
-=⇒ high [[War Economies and Hyperinflation|inflation]] shocks are good news for the economy =⇒ nominal bonds drop but stock rise
+- David and Veronesi (2013,         JPE): Time varying role of [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) signals
+- Late 1970s/ early 1980s: *Fear of stagflation* (high [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and low growth)
+=⇒ high [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) shocks are bad news for the economy =⇒ both nominal bonds and stock drop
+- Mid 2000s: *Fear of deflation* (low [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and low growth)
+=⇒ high [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) shocks are good news for the economy =⇒ nominal bonds drop but stock rise
 ## THE COVARIANCE BETWEEN STOCKS AND BONDS,         AND THE CAPM BOND
  ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405234100364.webp)
-Source: David and Veronesi (2016) "The Economics of the Comovement of Stocks and Bonds" in the Handbook of [[Lecture Notes Bonds,  Preferred Stock,  and Structured Products|Fixed Income]],         Pietro
+Source: David and Veronesi (2016) "The Economics of the Comovement of Stocks and Bonds" in the Handbook of [Fixed Income](../Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md),         Pietro
 ## NOMINAL AND REAL STOCK BETAS
  ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405234120813.webp)
-Source: Caroline Pflueger (2024) "Back to the 1980s or Not? The Drivers of [[War Economies and Hyperinflation|Inflation]] and Real Risks in Treasury Bonds"
-Note: This figure shows betas from regressing quarterly ten-year Treasury bond excess [[Assets|returns]] onto quarterly US equity excess [[Assets|returns]] over five-year rolling windows for the period 1979. Q4-2022.Q3. Quarterly excess [[Assets|returns]] are in excess of three-month T-bills. Prior to 1999,         I replace US Treasury [[War Economies and Hyperinflation|Inflation]] Protected (TIPS)
-[[Assets|returns]] with UK ten-year linker [[Assets|returns]]. Bond excess [[Assets|returns]] are computed from changes in yields. Zero coupon yield curves from Gurkaynak,         Sack and Wright (2006,         2008) and the [[Reflections On Modern Bank Runs a Case Study of Northern Rock|Bank of England]]. Vertical lines indicate 2001. Q2 and the start of the pandemic 2020. Q1.
+Source: Caroline Pflueger (2024) "Back to the 1980s or Not? The Drivers of [Inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and Real Risks in Treasury Bonds"
+Note: This figure shows betas from regressing quarterly ten-year Treasury bond excess [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) onto quarterly US equity excess [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) over five-year rolling windows for the period 1979. Q4-2022.Q3. Quarterly excess [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are in excess of three-month T-bills. Prior to 1999,         I replace US Treasury [Inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) Protected (TIPS)
+[returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) with UK ten-year linker [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md). Bond excess [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are computed from changes in yields. Zero coupon yield curves from Gurkaynak,         Sack and Wright (2006,         2008) and the [Bank of England](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Reflections%20On%20Modern%20Bank%20Runs%20a%20Case%20Study%20of%20Northern%20Rock.md). Vertical lines indicate 2001. Q2 and the start of the pandemic 2020. Q1.
 Simsek (2022),         Bianchi,         Lettau and Ludvigson (2022a),         Bianchi,         Ludvigson and Ma (2022c)).
 ## MORE GENERAL FORMULAS
 -  All previous formulas have "flat" term structures: r(0,         T) and rreal(0,         T) do not depend on T.
--  They can be generalized by assuming that expected [[War Economies and Hyperinflation|inflation]] πt and expected GDP growth gt are time varying.
+-  They can be generalized by assuming that expected [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) πt and expected GDP growth gt are time varying.
 -  Using the continuous time methodology,         for instance,         we may assume$$\begin{array}{r c l}{{}}&{{d\pi_{t}\;=\;(\alpha\pi-\beta\pi\pi_{t})d t+\sigma_{\pi}\;d W_{\pi}}}\\ {{}}&{{d\bar{g}_{t}\;=\;(\alpha_{g}-\beta_{g}\bar{g}_{t})d t+\sigma_{\bar{g}}\;d W_{\bar{g}}}}\end{array}$$
-- [[War Economies and Hyperinflation|Inflation]] and real GDP growth themselves are$$\begin{array}{r c l}{{}}&{{d\log(\mathsf{CPI}_{t})\;=\;\pi_{t}d t+\sigma_{\pi}\;d W_{\pi}}}\\ {{}}&{{}}&{{d\log(Y_{t})\;=\;\bar{g}_{t}d t+\sigma_{g}\;d W_{g}}}\end{array}$$
+- [Inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and real GDP growth themselves are$$\begin{array}{r c l}{{}}&{{d\log(\mathsf{CPI}_{t})\;=\;\pi_{t}d t+\sigma_{\pi}\;d W_{\pi}}}\\ {{}}&{{}}&{{d\log(Y_{t})\;=\;\bar{g}_{t}d t+\sigma_{g}\;d W_{g}}}\end{array}$$
 -  The same argument as above has$$Z(t,        T)=E_{t}\left[\frac{\mathsf{C P I}(t)}{\mathsf{C P I}(T)}e^{-\rho(T-t)}\left(\frac{Y(T)}{Y(t)}\right)^{-\gamma}\right]$$
 ## BOND PRICING FORMULAS
 -  Solving the expectation,         we obtain$$Z(t,        T)=e^{A(t,        T)-B(t,        T)\overline{{{\pi}}}_{t}-C(t,        T)\gamma\overline{{{g}}}_{t}}$$
 -  where$$B(t,        T)=\frac{1-e^{-\beta\pi(T-t)}}{\beta\pi};\ \ \ \ \ C(t,        T)=\frac{1-e^{-\beta_{g}(T-t)}}{\beta_{g}}$$
 - and $A(t,        T)$ is a complicated function of maturity $(T-t)$ which includes risk premia and other terms further discussed below.
 -  The nominal yield curve is then$$r(t,        T)=\frac{-A(t,        T)}{T-t}+\frac{B(t,        T)}{T-t}\ \pi_{t}+\frac{C(t,        T)}{T-t}\ \gamma g_{t}$$
-- A higher expected [[War Economies and Hyperinflation|inflation]] increases nominal yield,         but differentially across maturities
+- A higher expected [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) increases nominal yield,         but differentially across maturities
 - A higher expected real growth increases nominal yields,         but differentially across maturities
 ## THE FUNCTION A(T,        T)
 ## BOND PRICING WITH MULTIPLE RISKS AND CONVEXITIES
-- $A(t,         T)$ represents the [[Definitions and Immediate Consequences|pricing kernel]] for a bond from time $t$ to maturity $T$,         incorporating various risks and [[PSET II Fixed Income Asset Pricing 1|convexity]] effects:$$
+- $A(t,         T)$ represents the [pricing kernel](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Definitions%20and%20Immediate%20Consequences.md) for a bond from time $t$ to maturity $T$,         incorporating various risks and [convexity](../Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) effects:$$
   A(t,         T) = \left( -\rho + \frac{1}{2} \pi^2 + \frac{1}{2} \gamma^2 \sigma_g^2 + \gamma \rho_{g} \sigma_{\pi} \sigma_g \right) (T - t)
   + \left[ \sigma_{\pi} \rho_{\pi \pi} \sigma_{\pi} \sigma_{\pi} + \gamma \sigma_g \rho_{\pi g} \sigma_{\pi} \sigma_g - \alpha_{\pi} + \frac{1}{2} \gamma^2 \sigma_{\pi}^2 + \frac{\gamma \rho_{\pi g} \sigma_{\pi} \sigma_g}{\beta_{\pi} + \beta_g} \right] \left( \frac{1}{\beta_{\pi}} \left( (T - t) - B(t,         T) \right) \right)
   + \left[ \sigma_g \rho_{g \pi} \sigma_{\pi} \sigma_g + \gamma \sigma_g \rho_{gg} \sigma_g - \alpha_g + \frac{1}{2} \gamma^2 \sigma_g^2 + \frac{\gamma \rho_{\pi g} \sigma_{\pi} \sigma_g}{\beta_{\pi} + \beta_g} \right] \left( \gamma \left( (T - t) - C(t,         T) \right) \right)
@@ -425,11 +425,11 @@ Simsek (2022),         Bianchi,         Lettau and Ludvigson (2022a),         Bi
 
  ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240405235507207.webp)
 
-- Many risk premia are accounted for in bond [[Arbitrage Pricing of Derivatives|pricing]]:
-	  1. **[[War Economies and Hyperinflation|Inflation]] risk premium**:$\gamma \sigma_{\pi} \rho_{\pi g} \sigma_g$. If$\rho_{\pi g} < 0 \Rightarrow Z(t,         T) \uparrow \Rightarrow r(t,         T) \uparrow$
-	  1. **Expected [[War Economies and Hyperinflation|inflation]] risk premium**:$\gamma \sigma_g \rho_{\pi g} \sigma_{\pi}$. If$\rho_{g,         \pi} < 0 \Rightarrow r(t,         T) \uparrow$
+- Many risk premia are accounted for in bond [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md):
+	  1. **[Inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) risk premium**:$\gamma \sigma_{\pi} \rho_{\pi g} \sigma_g$. If$\rho_{\pi g} < 0 \Rightarrow Z(t,         T) \uparrow \Rightarrow r(t,         T) \uparrow$
+	  1. **Expected [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) risk premium**:$\gamma \sigma_g \rho_{\pi g} \sigma_{\pi}$. If$\rho_{g,         \pi} < 0 \Rightarrow r(t,         T) \uparrow$
 	  1. **Expected growth risk premium**:$\gamma \sigma_g \rho_{g g} \sigma_g$. If$\rho_{g,         g} < 0 \Rightarrow r(t,         T) \uparrow$
-- Bond [[Arbitrage Pricing of Derivatives|pricing]] also includes multiple [[PSET II Fixed Income Asset Pricing 1|convexity]] effects.
+- Bond [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) also includes multiple [convexity](../Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) effects.
 ## THE SHORT-TERM RATE AND MONETARY POLICY INTERPRETATION
 ## INTEREST RATE FORMULATION AND MONETARY POLICY
 ### OVERNIGHT RATE FORMULA
@@ -438,44 +438,44 @@ Simsek (2022),         Bianchi,         Lettau and Ludvigson (2022a),         Bi
   r_t = \rho + \gamma g_t - \frac{\gamma^2}{2} \sigma_g^2 + \pi_t - \frac{1}{2} \sigma_{\pi}^2 - \gamma \pi_t \sigma_g \rho_{\pi,         g}
   $$
   - **Real Rate$r_{real,        t}$**:$\rho + \gamma g_t - \frac{\gamma^2}{2} \sigma_g^2$
-  - **Expected [[War Economies and Hyperinflation|Inflation]] & [[PSET II Fixed Income Asset Pricing 1|Convexity]]**:$\pi_t - \frac{1}{2} \sigma_{\pi}^2$
+  - **Expected [Inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) & [Convexity](../Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md)**:$\pi_t - \frac{1}{2} \sigma_{\pi}^2$
   - **Risk Premium**:$-\gamma \pi_t \sigma_g \rho_{\pi,         g}$
 ### TAYLOR RULE
-- The Federal Reserve is believed to follow the so-called "[[Topics in Fiscal and Monetary Policies and Stabilization- Empirical Issues|Taylor rule]]" in setting its target Federal Fund rate,  which specifies:
+- The Federal Reserve is believed to follow the so-called "[Taylor rule](../../International%20Finance/Economic%20Stabilization%20Notes/Topics%20in%20Fiscal%20and%20Monetary%20Policies%20and%20Stabilization-%20Empirical%20Issues.md)" in setting its target Federal Fund rate,  which specifies:
   $$
   r_t = \alpha + \beta_1(\text{output}_t - \text{potential output}) + \beta_1(\pi_t - \text{target inflation})
   $$
-- The "forward looking" [[Topics in Fiscal and Monetary Policies and Stabilization- Empirical Issues|Taylor rule]] uses "expected [[War Economies and Hyperinflation|inflation]]" and expected output to their realized values.
-- The result above can be casted in terms of [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.6 [[A Preview of Alternative Formulations|Asset price]] reactions to [[The Economist Regime Change|monetary policy]] surprises|[[The Economist Regime Change|monetary policy]]]] actions:
+- The "forward looking" [Taylor rule](../../International%20Finance/Economic%20Stabilization%20Notes/Topics%20in%20Fiscal%20and%20Monetary%20Policies%20and%20Stabilization-%20Empirical%20Issues.md) uses "expected [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)" and expected output to their realized values.
+- The result above can be casted in terms of [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.6 [Asset price](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) reactions to [monetary policy](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) surprises|[monetary policy](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md)]] actions:
   $$
   r_t = \alpha + \gamma(g_t - \text{potential output}) + (\pi_t - \text{target inflation})
   $$
   - where$\alpha = \rho - \frac{\gamma^2}{2} \sigma_g^2 - \frac{1}{2} \sigma_{\pi}^2 - \gamma \pi_t \sigma_g \rho_{\pi,         g} + \gamma \text{potential output} + \text{target inflation}$
 ## THE DYNAMICS OF THE REAL RATE
-- From previous results and using Ito's formula,  the real rate follows a [[Vasicek Short Rate Model|Vasicek model]]$$d r_{r e a l,        t}=\beta_{g}\left(\bar{r}_{r e a l}-r_{r e a l,        t}\right)d t+\sigma_{r e a l}d W_{\bar{g}}$$
+- From previous results and using Ito's formula,  the real rate follows a [Vasicek model](Vasicek%20Short%20Rate%20Model.md)$$d r_{r e a l,        t}=\beta_{g}\left(\bar{r}_{r e a l}-r_{r e a l,        t}\right)d t+\sigma_{r e a l}d W_{\bar{g}}$$
 where$$\overline{{{r}}}_{r e a l}=\rho+\gamma\frac{\alpha_{g}}{\beta_{g}}-\frac{\gamma^{2}\sigma_{\overline{{{g}}}}^{2}}{2};\quad\sigma_{r e a l}=\gamma\sigma_{\overline{{{g}}}}$$
-- The real zero-coupon bond [[Arbitrage Pricing of Derivatives|pricing]] formula is then$$Z_{r e a l}(t,        T)=e^{\overline{{{A}}}(t,        T)-C(t,        T)r_{r e a l,        t}}$$
+- The real zero-coupon bond [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formula is then$$Z_{r e a l}(t,        T)=e^{\overline{{{A}}}(t,        T)-C(t,        T)r_{r e a l,        t}}$$
 - where$$\overline{A}(t,        T)=\left(\overline{r}_{real}^{*}-\frac{1}{2}\frac{\sigma_{real}^{2}}{\beta_{g}^{2}}\right)\left[C(t,        T)-(T-t)\right]-\frac{C(t,        T)^{2}\sigma_{real}^{2}}{4\beta_{g}}$$
 - where$\overline{r}_{real}^{*}=\overline{r}_{real}-\gamma\sigma_{g}\sigma_{real}\rho_{\rho,        real}$
 - The above result was found in
-- The [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|risk neutral]] process of the real rate is$$d r_{r e a l,        t}=\beta_{g}\left(\overline{{{r}}}_{r e a l}^{*}-r_{r e a l,        t}\right)d t+\sigma_{r e a l}d W_{g}^{*}$$
+- The [risk neutral](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) process of the real rate is$$d r_{r e a l,        t}=\beta_{g}\left(\overline{{{r}}}_{r e a l}^{*}-r_{r e a l,        t}\right)d t+\sigma_{r e a l}d W_{g}^{*}$$
 ## FITTING REAL VASICEK TO TIPS
-- We can use TIPS again to extract the real zero coupon bond prices - The procedure is the same for nominal [[The Vasicek Model|Vasicek]] (see TN 7),  except with the
+- We can use TIPS again to extract the real zero coupon bond prices - The procedure is the same for nominal [Vasicek](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) (see TN 7),  except with the
 additional difficulty that we may not know what the short-term real rate rreal,  t
 actually is.
 - One possibility is to estimate r*real,  t* as well together with other quantities.
 - For instance,  fixing σ*real* = (estimated from the time series of real rates),
 we estimate the following parameters for November 27,  2007:$$\beta_{g}^{*}=0.0166,        \;\;\;\bar{r}_{r e a l}^{*}=0.1695,        \;\;\;r_{r e a l}=0.0046$$
-- The fit is not as good as with the Extended [[Advanced Usage of QuantLib analytics library|Nelson-Siegel model]] in this case. - Next figure shows the fitted [[The Vasicek Model|term structure]] of real rates.
+- The fit is not as good as with the Extended [Nelson-Siegel model](../../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) in this case. - Next figure shows the fitted [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) of real rates.
  ![500](Lecture%20Note%203%20Understanding%20The%20Term%20Structure%20Of%20Interest%20Rates-20240406000703291.webp)
 ## CONCLUSIONS
-- The [[The Vasicek Model|term structure]] of interest rate depend on:
-1. Expectation of future [[War Economies and Hyperinflation|inflation]] 2. Expectation of future real growth 3. A whole set of risk premia
-- [[War Economies and Hyperinflation|Inflation]] risk premium
-- Expected [[War Economies and Hyperinflation|inflation]] risk premium - Expected growth risk premium
-- Multi-factor models tend to fit well the [[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]]
-- The above setting with expected [[War Economies and Hyperinflation|inflation]] and expected GDP growth can be generalized to any factors$ϕ_{1,        t},         ϕ_{2,        t}….$
-- Moreover,  [[Arbitrage Pricing of Derivatives|pricing]] formulas can be obtained using no-[[Arbitrage Pricing of Derivatives|arbitrage]] methodologies,  as in TN 7.
+- The [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) of interest rate depend on:
+1. Expectation of future [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) 2. Expectation of future real growth 3. A whole set of risk premia
+- [Inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) risk premium
+- Expected [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) risk premium - Expected growth risk premium
+- Multi-factor models tend to fit well the [term structure of interest rates](../../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md)
+- The above setting with expected [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and expected GDP growth can be generalized to any factors$ϕ_{1,        t},         ϕ_{2,        t}….$
+- Moreover,  [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formulas can be obtained using no-[arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) methodologies,  as in TN 7.
 ----
 # APPENDIX: DERIVATION OF TWO FACTOR MODEL
 
@@ -487,13 +487,13 @@ $$\begin{array}{r c l}{{d q}}&{{=}}&{{\overline{{{\pi}}}_{t}d t+\sigma_{\pi}d W_
 
 and recall$$d\overline{\pi}_{t}=\left(\alpha_{\pi}-\beta_{\pi}\pi_{t}\right)dt+\sigma_{\overline{\pi}}dW_{\overline{\pi}}$$$$d\overline{g}=\left(\alpha_{g}-\beta_{g}\pi_{t}\right)dt+\sigma_{\overline{\pi}}dW_{\overline{g}}$$
 
-From the [[Definitions and Immediate Consequences|pricing equation]] we have
+From the [pricing equation](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Definitions%20and%20Immediate%20Consequences.md) we have
 $$Z\left(t,        T\right)=E\left[e^{-\rho\left(T-t\right)-\left(q\left(T\right)-q\left(t\right)\right)-\gamma\left(y\left(T\right)-y\left(t\right)\right)}\right]$$
 
 To be slightly more general,  consider the following case.
 $$\begin{array}{l l l}{{Z\left(t,        T\right)}}&{{=}}&{{E\left[e^{-\rho\left(T-t\right)-\eta\left(q\left(T\right)-q\left(t\right)\right)-\gamma\left(y\left(T\right)-y\left(t\right)\right)}\right]}}\\ {{}}&{{=}}&{{e^{\eta q\left(t\right)+\gamma y\left(t\right)}E\left[e^{-\rho\left(T-t\right)}G\left(q\left(T\right),        y\left(T\right)\right)\right]}}\\ {{}}&{{=}}&{{e^{\eta q\left(t\right)+\gamma y\left(t\right)}V\left(q,        y,        \overline{{{\pi}}},        \overline{{{g}}},        t\right)}}\end{array}$$
 
-When$\eta = 1$we have the case for nominal bonds. When$\eta = 0$we have the case of real bonds. When$\eta$is intermediate,  this can be considered a case in which [[War Economies and Hyperinflation|inflation]] affects the utility function of agents directly. A case in the literature is the one of money illusion.
+When$\eta = 1$we have the case for nominal bonds. When$\eta = 0$we have the case of real bonds. When$\eta$is intermediate,  this can be considered a case in which [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) affects the utility function of agents directly. A case in the literature is the one of money illusion.
 
 From the Feynman Kac formula,  we have that$V$satisfies
 $$\rho V = V_t + V_q E[dq] + V_y E[dy] + V_{\pi} E[d\pi] + \frac{1}{2} V_{qq} E[dq^2] + \frac{1}{2} V_{yy} E[dy^2] + \frac{1}{2} V_{\pi\pi} E[d\pi^2] + \frac{1}{2} V_{qy} E[dq dy] + \frac{1}{2} V_{q\pi} E[dq d\pi] + \frac{1}{2} V_{y\pi} E[dy d\pi]$$
@@ -503,7 +503,7 @@ with final condition
 - $V(q,         y,         \pi,         T,         T) = e^{-\eta q(T) - y(T)}$
 We can conjecture the following
 - $V(q,         y,         r,         t,         T) = e^{-\eta q(T) - y(T)}$
-Taking the [[Vasicek Short Rate Model|first derivatives]]
+Taking the [first derivatives](Vasicek%20Short%20Rate%20Model.md)
 - $V_{\pi} = A'(t; T) - \eta B'(t; T) - C'(t; T) V$
 - $V_q = -\eta V; V_{qq} = \eta^2 V; V_{qy} = \eta V; V_{q\pi} = \eta B'(t; T) V; V_g = \gamma C'(t; T) V$
 - $V_y = -V; V_{yy} = V; V_{y\pi} = \gamma B'(t; T) V; V_{\pi\pi} = \gamma^2 C'(t,         T) V$

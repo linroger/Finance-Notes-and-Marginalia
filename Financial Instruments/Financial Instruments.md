@@ -204,7 +204,7 @@ $$c=\frac{pc_u+(1-p)c_d}{(1+r)}.$$
 
 In this expression the value of the call option is the present value of a weighted average of the call at maturity, either $c_u$ in the up state, or $c_d$ in the down state. It is tempting to interpret $p$ in this equation as a probability. It is
 
-![500](https://storage.simpletex.cn/view/fgHoIqOBAftbCMM78kC4TmVAKSq1GGfov)
+![500](Attachments/500-114.png)
 
 Figure 1: THE $\Delta$ OF A CALL OPTION IN THE BINOMIAL MODEL
 
@@ -537,7 +537,7 @@ Or $(1+\nu)^{2}=(1+\mu+\sigma)(1+\mu-\sigma)$ which is exactly as before. Thus t
 
 ### Example: u=0.75, $d=-0.25$ r=0.25, $X=100$
 
-![500](https://storage.simpletex.cn/view/fUH7qnbN24NLAVuVynt7tYKrbYxEpiV2m)
+![500](Attachments/500-117.png)
 
 Figure 1: FOUR-PERIOD BINOMIAL EXAMPLE
 
@@ -606,7 +606,7 @@ This is seen in Figure 1. In the diagram the call option is always to the right 
 
 If the same analysis is repeated for a put option it is found that $\Delta$ is negative and $B$ is positive. This means that replicating the put option involves
 
-![500](https://storage.simpletex.cn/view/f4X5qdEn8nqYtIlAagw7VHInAspIEPLf9)
+![500](Attachments/500-116.png)
 
 Figure 1: RISK-RETURN DIAGRAM: $(\sigma, \mu)$
 
@@ -622,7 +622,7 @@ $$\mu_C-r=\Omega\beta_S (\mu_M-r).$$
 
 It can be shown that $\Omega\beta_{S}$ is the covariance of the rate of return of the call with the market divided by the variance of the rate of return of the market, so that the beta of the call is $\beta_{C}=\Omega\beta_{S}$. The option beta is simply the elasticity time the beta of the underlying asset. Provided that $\beta_{S}>0$, since $\Omega>1$ for a call option, it is the case that $\beta_{C}>\beta_{S}$ and the beta for the call is higher than the beta of the underlying asset. This is illustrated in Figure 2 which shows the security market line which plots expected return $\mu$ against $\beta$. The security market line intercepts the vertical axis at $r$ the rate of return on the risk-free asset which is uncorrelated with the market return (as it is risk-less) and hence has a zero beta. Since $\Omega\geq 1$ the call option has a higher $\beta$ than the underlying asset and so lies to the right of the stock on the security market line. Put options on the other hand are anti-correlated with the stock, their value goes up as the stock goes down, so they have a negative $\beta$ and are located to the left of the risk-free asset on the security market line.
 
-![500](https://storage.simpletex.cn/view/fy8nMdnXM5lnTosq8WrlOypVTIbgNSuA0)
+![500](Attachments/500-115.png)
 
 Figure 2: SECURITY MARKET LINE: $(\beta, \mu)$
 

@@ -18,28 +18,28 @@ key_concepts:
 
 # 7.3 Pareto-optimality in complete markets  
 
-From the analysis in the previous chapter we know that any individual's [[The One-Period Ccapm|marginal rate of substitution]] is a valid [[Exercises|state-price deflator]]. With [[General Multi-Period Link Between Consumption a|time-additive expected utility]] the [[Exercises|state-price deflator]]. induced by individual $\it l$ is the random variable  
+From the analysis in the previous chapter we know that any individual's [marginal rate of substitution](../Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/The%20One-Period%20Ccapm.md) is a valid [state-price deflator](Exercises.md). With [time-additive expected utility](../Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/General%20Multi-Period%20Link%20Between%20Consumption%20a.md) the [state-price deflator](Exercises.md). induced by individual $\it l$ is the random variable  
 $$
 \zeta^{l}=e^{-\delta_{l}}\frac{u_{l}^{\prime}(c^{l})}{u_{l}^{\prime}(c_{0}^{l})},
 $$  
 
-where $c_{0}^{l}$ is the optimal time $0$ consumption and $c^{l}$ is the optimal state-dependent time. $^{1}$ consumption. In general, these state prices may not be identical for different investors so that multiple state-price vectors and deflators can be constructed in this way. However, if the market is complete, we know that the [[Exercises|state-price deflator]] is unique so we must have $\zeta^{k}=\zeta^{l}$ for any two individuals. $k$ and $\it l$ . This means that $\zeta_{\omega}^{k}=\zeta_{\omega}^{l}$ for all possible states. $\omega\in\Omega=\{1,2,\ldots,S\}$ . Assuming [[Financial Mathematics Course|complete markets]] and [[The One-Period Ccapm|time-additive utility]] we can conclude that  
+where $c_{0}^{l}$ is the optimal time $0$ consumption and $c^{l}$ is the optimal state-dependent time. $^{1}$ consumption. In general, these state prices may not be identical for different investors so that multiple state-price vectors and deflators can be constructed in this way. However, if the market is complete, we know that the [state-price deflator](Exercises.md) is unique so we must have $\zeta^{k}=\zeta^{l}$ for any two individuals. $k$ and $\it l$ . This means that $\zeta_{\omega}^{k}=\zeta_{\omega}^{l}$ for all possible states. $\omega\in\Omega=\{1,2,\ldots,S\}$ . Assuming [complete markets](../../../Financial%20Engineering/Financial%20Mathematics%20Course.md) and [time-additive utility](../Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/The%20One-Period%20Ccapm.md) we can conclude that  
 $$
 e^{-\delta_{k}}\frac{u_{k}^{\prime}\left(c_{\omega}^{k}\right)}{u_{k}^{\prime}\left(c_{0}^{k}\right)}=e^{-\delta_{l}}\frac{u_{l}^{\prime}\left(c_{\omega}^{l}\right)}{u_{l}^{\prime}\left(c_{0}^{l}\right)}
 $$  
 
-for any $\omega$ , i.e. the [[The One-Period Ccapm|marginal rate of substitution]] is the same for all individuals. From the discussion above, this will imply efficient risk-sharing and that the [[Pareto-Optimality in Complete Markets|consumption allocation]] is Pareto-optimal. This result is often called the [[Pareto-Optimality in Complete Markets|First Welfare Theorem]]:  
+for any $\omega$ , i.e. the [marginal rate of substitution](../Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/The%20One-Period%20Ccapm.md) is the same for all individuals. From the discussion above, this will imply efficient risk-sharing and that the [consumption allocation](.md) is Pareto-optimal. This result is often called the [First Welfare Theorem](.md):  
 
-Theorem 7.4 If the financial market is complete, then every equilibrium [[Pareto-Optimality in Complete Markets|consumption allocation]] is Pareto-optimal.  
+Theorem 7.4 If the financial market is complete, then every equilibrium [consumption allocation](.md) is Pareto-optimal.  
 
 Here is a formal proof:  
 
-Proof: Recall from (6.19) that in a complete market the [[Properties of State-Price Deflators|utility maximization problem]] of individual $\textit{l}$ can be written as  
+Proof: Recall from (6.19) that in a complete market the [utility maximization problem](../Chapter%204%20-%20State%20Prices/Properties%20of%20State-Price%20Deflators.md) of individual $\textit{l}$ can be written as  
 $$
 \begin{array}{r l}&{\underset{c_{0},c}{\operatorname*{max}}\mathcal{U}_{l}(c_{0},\boldsymbol{\pmb{c}})}\ &{\mathrm{~s.t.~}c_{0}+\boldsymbol{\psi}\cdot\boldsymbol{c}\leq e_{0}^{l}+\boldsymbol{\psi}\cdot\boldsymbol{e}^{l}}\ &{\mathrm{~}c_{0},\boldsymbol{c}\geq0,}\end{array}
 $$  
 
-where $\psi$ is the unique state-price vector. Let. $\{(c_{0}^{l},{\pmb c}^{l}),l=1,...,L\}$ be an equilibrium [[Pareto-Optimality in Complete Markets|consumption allocation]], but suppose we can find another [[Pareto-Optimality in Complete Markets|consumption allocation]]. $\{(\hat{c}_{0}^{l},\hat{\pmb{c}}^{l}),l=1,\dots,L\}$ which gives all individuals at least the same utility and some individuals strictly higher utility than $\{(c_{0}^{l},{\pmb c}^{l}),l=1,...,L\}$ . Since we assume strictly increasing utility and. $(c_{0}^{l},c^{l})$ maximizes individual $l$ 's utility subject to the constraint $c_{0}^{l}+\psi\cdot{\bf{c}}^{l}\leq e_{0}^{l}+\psi\cdot e^{l}$ , the inequality.  
+where $\psi$ is the unique state-price vector. Let. $\{(c_{0}^{l},{\pmb c}^{l}),l=1,...,L\}$ be an equilibrium [consumption allocation](.md), but suppose we can find another [consumption allocation](.md). $\{(\hat{c}_{0}^{l},\hat{\pmb{c}}^{l}),l=1,\dots,L\}$ which gives all individuals at least the same utility and some individuals strictly higher utility than $\{(c_{0}^{l},{\pmb c}^{l}),l=1,...,L\}$ . Since we assume strictly increasing utility and. $(c_{0}^{l},c^{l})$ maximizes individual $l$ 's utility subject to the constraint $c_{0}^{l}+\psi\cdot{\bf{c}}^{l}\leq e_{0}^{l}+\psi\cdot e^{l}$ , the inequality.  
 $$
 \hat{c}_{0}^{l}+\boldsymbol{\psi}\cdot\hat{\boldsymbol{c}}^{l}\geq e_{0}^{l}+\boldsymbol{\psi}\cdot\boldsymbol{e}^{l}
 $$  
@@ -49,9 +49,9 @@ $$
 \sum_{l=1}^{L}\left(\hat{c}_{0}^{l}+\psi\cdot\hat{c}^{l}\right)>\sum_{l=1}^{L}\left(e_{0}^{l}+\psi\cdot e^{l}\right)=\bar{e}_{0}+\psi\cdot\bar{e}.
 $$  
 
-Hence, the [[Pareto-Optimality in Complete Markets|consumption allocation]] $\{(\hat{c}_{0}^{l},\hat{\pmb{c}}^{l}),l=1,\dots,L\}$ is not feasible..  
+Hence, the [consumption allocation](.md) $\{(\hat{c}_{0}^{l},\hat{\pmb{c}}^{l}),l=1,\dots,L\}$ is not feasible..  
 
-A [[Pareto-Optimality in Complete Markets|complete market equilibrium]] provides efficient risk-sharing. From (7.11) it follows that, for any two states $\omega$ and $\omega^{\prime}$ , we have  
+A [complete market equilibrium](.md) provides efficient risk-sharing. From (7.11) it follows that, for any two states $\omega$ and $\omega^{\prime}$ , we have  
 $$
 \frac{u_{k}^{\prime}\left(c_{\omega}^{k}\right)}{u_{k}^{\prime}\left(c_{\omega^{\prime}}^{k}\right)}=\frac{u_{l}^{\prime}\left(c_{\omega}^{l}\right)}{u_{l}^{\prime}\left(c_{\omega^{\prime}}^{l}\right)}.
 $$  
@@ -61,7 +61,7 @@ $$
 \frac{u_{k}^{\prime}(c_{\omega}^{k})}{u_{k}^{\prime}(c_{\omega^{\prime}}^{k})}>\frac{u_{l}^{\prime}(c_{\omega}^{l})}{u_{l}^{\prime}(c_{\omega^{\prime}}^{l})}.
 $$  
 
-Then the two agents could engage in a trade that makes both better off. What trade? Since the. market is complete, [[Changing the Numeraire Without Changing the Me|Arrow-Debreu assets]] for all states are traded, in particular for states $\omega$ and $\omega^{\prime}$ Consider the following trade: Individual $k$ buys $\varepsilon_{\omega}$ [[Changing the Numeraire Without Changing the Me|Arrow-Debreu assets]] for state $\omega$ from individual $\textit{l}$ at a unit price of $\varphi_{\omega}$ . And individual $\textit{l}$ buys $\varepsilon_{\omega^{\prime}}$ [[Changing the Numeraire Without Changing the Me|Arrow-Debreu assets]] for state $\omega^{\prime}$ from individual $k$ at a unit price of $\varphi_{\omega^{\prime}}$ . The deal is arranged so that the net price is zero, i.e..  
+Then the two agents could engage in a trade that makes both better off. What trade? Since the. market is complete, [Arrow-Debreu assets](../Chapter%2011%20-%20Risk-adjusted%20probabilities/Changing%20the%20Numeraire%20Without%20Changing%20the%20Me.md) for all states are traded, in particular for states $\omega$ and $\omega^{\prime}$ Consider the following trade: Individual $k$ buys $\varepsilon_{\omega}$ [Arrow-Debreu assets](../Chapter%2011%20-%20Risk-adjusted%20probabilities/Changing%20the%20Numeraire%20Without%20Changing%20the%20Me.md) for state $\omega$ from individual $\textit{l}$ at a unit price of $\varphi_{\omega}$ . And individual $\textit{l}$ buys $\varepsilon_{\omega^{\prime}}$ [Arrow-Debreu assets](../Chapter%2011%20-%20Risk-adjusted%20probabilities/Changing%20the%20Numeraire%20Without%20Changing%20the%20Me.md) for state $\omega^{\prime}$ from individual $k$ at a unit price of $\varphi_{\omega^{\prime}}$ . The deal is arranged so that the net price is zero, i.e..  
 $$
 \varepsilon_{\omega}\varphi_{\omega}-\varepsilon_{\omega^{\prime}}\varphi_{\omega^{\prime}}=0\quad\Leftrightarrow\varepsilon_{\omega^{\prime}}=\varepsilon_{\omega}\frac{\varphi_{\omega^{\prime}}}{\varphi_{\omega}}.
 $$  
@@ -98,13 +98,13 @@ $$
 
 If the inequality (7.13) holds, the two individuals can surely find prices $\varphi_{\omega}$ and $\varphi_{\omega^{\prime}}$ so that both (7.14) and (7.15) are satisfied, i.e. both increase their expected utility.  
 
-If the market is incomplete, the individuals might not be able to implement this trade. In other words, we cannot be sure that (7.12) holds for states for which [[Changing the Numeraire Without Changing the Me|Arrow-Debreu assets]] are not traded, i.e. "uninsurable" states.  
+If the market is incomplete, the individuals might not be able to implement this trade. In other words, we cannot be sure that (7.12) holds for states for which [Arrow-Debreu assets](../Chapter%2011%20-%20Risk-adjusted%20probabilities/Changing%20the%20Numeraire%20Without%20Changing%20the%20Me.md) are not traded, i.e. "uninsurable" states.  
 
 Combining theorems stated above, we have the following conclusion:  
 
-Theorem 7.5 If the financial market is complete, the economy has a [[The Simple Multi-Period Ccapm|representative individual]].  
+Theorem 7.5 If the financial market is complete, the economy has a [representative individual](../Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/The%20Simple%20Multi-Period%20Ccapm.md).  
 
-If we want to study [[Fixed Income Asset Pricing|asset pricing]] in a complete market, we might as well assume that the economy has a single individual. But what is the appropriate weighting vector $\pmb{\eta}$ for the complete market? We must ensure that the first-order conditions of the [[Pareto-Optimality and Representative Individual|central planner]] are satisfied when we plug in the [[Dynamic Programming|optimal consumption]] plans of the individuals. Recall that in a complete market the [[Properties of State-Price Deflators|utility maximization problem]] of individual $\textit{l}$ can be formulated as in (6.19). The Lagrangian for this problem is  
+If we want to study [asset pricing](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md) in a complete market, we might as well assume that the economy has a single individual. But what is the appropriate weighting vector $\pmb{\eta}$ for the complete market? We must ensure that the first-order conditions of the [central planner](Pareto-Optimality%20and%20Representative%20Individual.md) are satisfied when we plug in the [optimal consumption](../Chapter%206%20-%20Individual%20optimality/Dynamic%20Programming.md) plans of the individuals. Recall that in a complete market the [utility maximization problem](../Chapter%204%20-%20State%20Prices/Properties%20of%20State-Price%20Deflators.md) of individual $\textit{l}$ can be formulated as in (6.19). The Lagrangian for this problem is  
 $$
 \mathcal{L}_{l}=\mathcal{U}_{l}(c_{0}^{l},\pmb{c}^{l})+\kappa_{l}\left(\sum_{\omega=1}^{S}\psi_{\omega}\left(e_{\omega}^{l}-c_{\omega}^{l}\right)+e_{0}^{l}-c_{0}^{l}\right).
 $$  
@@ -116,9 +116,9 @@ $$
 
 If we set $\varphi_{0}=1$ and $\eta_{l}=1/\kappa_{l}$ for each $l=1,\ldots,L$ , the Equations (7.1)-(7.4) will indeed be satisfied.  
 
-Note that the weight $\eta_{l}$ associated with individual $\textit{l}$ is the inverse of his "shadow price"' of his. budget constraint and $\eta_{l}$ will therefore depend on the initial endowment of individual. $\textit{l}$ .Redistributing the aggregate initial endowment across individuals will thus change the relative values of the weights $\eta_{l}$ and, hence, the utility function of the [[The Simple Multi-Period Ccapm|representative individual]] and equilibrium. asset prices.  
+Note that the weight $\eta_{l}$ associated with individual $\textit{l}$ is the inverse of his "shadow price"' of his. budget constraint and $\eta_{l}$ will therefore depend on the initial endowment of individual. $\textit{l}$ .Redistributing the aggregate initial endowment across individuals will thus change the relative values of the weights $\eta_{l}$ and, hence, the utility function of the [representative individual](../Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/The%20Simple%20Multi-Period%20Ccapm.md) and equilibrium. asset prices.  
 
-Let us briefly consider the special case where all individuals have time-additive expected utilities. Then the [[The Simple Multi-Period Ccapm|representative individual]] will also have [[General Multi-Period Link Between Consumption a|time-additive expected utility]], i.e.  
+Let us briefly consider the special case where all individuals have time-additive expected utilities. Then the [representative individual](../Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/The%20Simple%20Multi-Period%20Ccapm.md) will also have [time-additive expected utility](../Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/General%20Multi-Period%20Link%20Between%20Consumption%20a.md), i.e.  
 $$
 \mathcal{U}_{\eta}(c_{0},c)=u_{\eta,0}(c_{0})+\mathrm{E}\left[u_{\eta,1}(c)\right]=u_{\eta,0}(c_{0})+\sum_{\omega=1}^{S}p_{\omega}u_{\eta,1}(c_{\omega}),
 $$  
@@ -128,9 +128,9 @@ $$
 \begin{array}{l}{{\displaystyle u_{\eta,0}(c_{0})=\operatorname*{sup}\left\{\sum_{l=1}^{L}\eta_{l}u_{l}(c_{0}^{l})\left|c_{0}^{1},\ldots,c_{0}^{L}>0\mathrm{with}c_{0}^{1}+\cdot\cdot\cdot+c_{0}^{L}\leq c_{0}\right.\right\},}}\ {{\displaystyle u_{\eta,1}(c)=\operatorname*{sup}\left\{\sum_{l=1}^{L}e^{-\delta_{l}}\eta_{l}u_{l}(c^{l})\left|c^{1},\ldots,c^{L}>0\mathrm{with}c^{1}+\cdot\cdot\cdot+c^{L}\leq c\right.\right\}.}}\end{array}
 $$  
 
-Often a functional form for $u_{\eta,0}$ and $u_{\eta,1}$ is assumed directly with the property that $u_{\eta,1}(c)=$ $e^{-\delta}u_{\pmb{\eta},0}(c)~=~e^{-\delta}u(c)$ , where $\delta$ can be interpreted as the average time [[Utility Indices|preference]] rate in the economy. Then the unique [[Exercises|state-price deflator]] follows by evaluating the derivative of $u_{\eta}$ at the aggregate endowment,  
+Often a functional form for $u_{\eta,0}$ and $u_{\eta,1}$ is assumed directly with the property that $u_{\eta,1}(c)=$ $e^{-\delta}u_{\pmb{\eta},0}(c)~=~e^{-\delta}u(c)$ , where $\delta$ can be interpreted as the average time [preference](../Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) rate in the economy. Then the unique [state-price deflator](Exercises.md) follows by evaluating the derivative of $u_{\eta}$ at the aggregate endowment,  
 $$
 \zeta_{\omega}=\frac{u_{\eta,1}^{\prime}(\bar{e}_{\omega})}{u_{\eta,0}^{\prime}(\bar{e}_{0})}=e^{-\delta}\frac{u^{\prime}(\bar{e}_{\omega})}{u^{\prime}(\bar{e}_{0})}.
 $$  
 
-This will be very useful in order to link asset prices and [[Interest Rate Quotations|interest rates]] to [[Pareto-Optimality in Some Incomplete Markets|aggregate consumption]].  
+This will be very useful in order to link asset prices and [interest rates](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) to [aggregate consumption](Pareto-Optimality%20in%20Some%20Incomplete%20Markets.md).  

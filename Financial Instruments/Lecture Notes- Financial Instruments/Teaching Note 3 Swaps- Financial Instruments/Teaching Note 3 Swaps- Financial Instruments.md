@@ -22,17 +22,17 @@ key_concepts:
 ---
 
 [Teaching Note 2-Futures Contracts](Teaching%20Note%202-Futures%20Contracts.md)
-**[[Teaching Note 1Forward Rates Agreement]]**
- [[Teaching Note 2-Futures Contracts]]
- **[[Teaching Note 3 SwapsFinancial Instruments]]**
- **[[Teaching Note 4-Multiperiod Binomial Trees]]**
- [[Teaching Note 5Black Scholes Formula]]
- [[Teaching Note 6-Implied Volatility]]
- [[Teaching Note 7- [[Exotic Options]]  And Derivative Pricing By Monte Carlo Simulation]]
- [[Teaching Note 8 American Options]]
- [[Teaching Notes 9Corporate Securities And Credit Derivatives]]
- [[Teaching Notes 9ACredit Default Swaps]]
- [[Teaching Notes 10Interest Rate Derivatives]]
+**[Teaching Note 1Forward Rates Agreement](Teaching%20Note%201Forward%20Rates%20Agreement)**
+ [Teaching Note 2-Futures Contracts](../Teaching%20Note%202-Futures%20Contracts.md)
+ **[Teaching Note 3 SwapsFinancial Instruments](Teaching%20Note%203%20SwapsFinancial%20Instruments)**
+ **[Teaching Note 4-Multiperiod Binomial Trees](../Teaching%20Note%204-Multiperiod%20Binomial%20Trees/Teaching%20Note%204-Multiperiod%20Binomial%20Trees.md)**
+ [Teaching Note 5Black Scholes Formula](Teaching%20Note%205Black%20Scholes%20Formula)
+ [Teaching Note 6-Implied Volatility](Teaching%20Note%206-Implied%20Volatility)
+ [Teaching Note 7- [[Exotic Options](Teaching%20Note%207-%20[[Exotic%20Options)  And Derivative Pricing By Monte Carlo Simulation]]
+ [Teaching Note 8 American Options](Teaching%20Note%208%20American%20Options)
+ [Teaching Notes 9Corporate Securities And Credit Derivatives](Teaching%20Notes%209Corporate%20Securities%20And%20Credit%20Derivatives)
+ [Teaching Notes 9ACredit Default Swaps](Teaching%20Notes%209ACredit%20Default%20Swaps)
+ [Teaching Notes 10Interest Rate Derivatives](Teaching%20Notes%2010Interest%20Rate%20Derivatives)
 
 [PSET 3 Financial Instruments](PSET%203%20Financial%20Instruments.md)
 
@@ -40,12 +40,12 @@ key_concepts:
 [Overnight Index Swaps (OIS)](Overnight%20Index%20Swaps%20(OIS).md)
 
 %% Begin Waypoint %%
-- **[[Teaching Note 3 Swaps- Financial Instruments]]**
-	- [[Forward Rates Agreement]]
-	- [[Overnight Index Swaps (OIS)]]
-	- [[Swaps Types]]
-	- [[Teaching Note 3 Swaps- Financial Instruments]]
-	- [[The Value of the Swap Contract after Initiation]]
+- **[Teaching Note 3 Swaps- Financial Instruments](.md)**
+	- [Forward Rates Agreement](Forward%20Rates%20Agreement.md)
+	- [Overnight Index Swaps (OIS)](Overnight%20Index%20Swaps%20(OIS).md)
+	- [Swaps Types](Swaps%20Types.md)
+	- [Teaching Note 3 Swaps- Financial Instruments](.md)
+	- [The Value of the Swap Contract after Initiation](The%20Value%20of%20the%20Swap%20Contract%20after%20Initiation.md)
 
 %% End Waypoint %%
 
@@ -139,7 +139,7 @@ The number of swaps that exist in the market is very large. • The most common 
 1. Energy swaps
 	1. One party pays a fixed amount and the other party pays a floating amount linked to some energy index,  such as oil prices,  gas prices,  etc.
 1. Basis swaps
-	1. Both parties make floating payments,  but linked to different indices,  such as [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] versus Treasuries
+	1. Both parties make floating payments,  but linked to different indices,  such as [](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#London%20Interbank%20Offered%20Rate%20(LIBOR)|LIBOR) versus Treasuries
 1. Total return swaps
 	1. Both parties make floating payments,  linked to the total return of different securities.
 	1. E.g. one party may pay the total return of Apple stock and the other the total return of Microsoft stock.
@@ -209,7 +209,7 @@ The number of swaps that exist in the market is very large. The most common are:
 1. **Energy swaps**
 	- One party pays a fixed amount and the other party pays a floating amount linked to some energy index,  such as oil prices,  gas prices,  etc.
 1. **Basis swaps**
-	- Both parties make floating payments,  but linked to different indices,  such as [[A Guide to the Front End and Basis Swap Markets#London Interbank Offered Rate (LIBOR)|LIBOR]] versus Treasuries.
+	- Both parties make floating payments,  but linked to different indices,  such as [](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#London%20Interbank%20Offered%20Rate%20(LIBOR)|LIBOR) versus Treasuries.
 1. **Total return swaps**
 	- Both parties make floating payments,  linked to the total return of different securities.
 	- E.g.,  one party may pay the total return of Apple stock and the other the total return of Microsoft stock.

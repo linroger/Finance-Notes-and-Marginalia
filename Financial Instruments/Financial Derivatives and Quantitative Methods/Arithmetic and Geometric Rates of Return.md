@@ -127,19 +127,19 @@ $$d\ln S(t)=\frac{dS(t)}{S(t)}.$$
 Thus, we might think that $\frac{dS(t)}{S(t)} = \nu\,dt + \sigma\,dz$. But this would be WRONG. The correct version is:
 $$\frac{dS(t)}{S(t)}=\left(\nu+\frac{1}{2}\sigma^2\right)\,dt+\sigma\,dz.$$
 
-This is a special case of [[Determining the Stochastic Process for a Forward Contract from Ito’s Lemma|Ito's lemma]]. [[Determining the Stochastic Process for a Forward Contract from Ito’s Lemma|Ito's lemma]] shows that for any process of the form
+This is a special case of [Ito's lemma](../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md). [Ito's lemma](../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md) shows that for any process of the form
 $$dx=a (x,    t) dt+b (x,    t) dz$$
 
 Then the function $G (x,    t)$ follows the process
 $$dG=\left (\frac{\partial G}{\partial x}a (x,    t)+\frac{\partial G}{\partial t}+\frac{1}{2}\frac{\partial^2 G}{\partial x^2}b^2 (x,    t)\right) dt+\frac{\partial G}{\partial x}b (x,    t) dz.$$
 
-We'll see how to use [[Determining the Stochastic Process for a Forward Contract from Ito’s Lemma|Ito's lemma]]. We have
+We'll see how to use [Ito's lemma](../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md). We have
 $$d\:\ln S (t)=\nu\:dt+\sigma\: dz.$$
 
 Then let $\ln S (t)=x (t)$ s 0 $s (T)=G (x,    t)=e^{x}$ . Then upon differentiating
 $$\frac{\partial G}{\partial x}=e^x=S,    \quad\frac{\partial^2 G}{\partial S^2}=e^x=S,    \quad\frac{\partial G}{\partial t}=0.$$
 
-Hence,  using [[Determining the Stochastic Process for a Forward Contract from Ito’s Lemma|Ito's lemma]]
+Hence,  using [Ito's lemma](../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md)
 $$dS (t)=(\nu S (t)+0+\frac{1}{2}\sigma^{2}S (t)) dt+\sigma S (t)\:dz$$
 
 Or
@@ -148,7 +148,7 @@ $$d\: S (t)=(\nu+\frac 12\sigma^2) S (t)\:dt+\sigma S (t)\:dz$$
 Since $\mu=\nu+\frac{1}{2}\sigma^{2}$ we can write this as
 $$d\: S (t)=\mu S (t)\:dt+\sigma S (t)\: dz.$$
 
-This process is known as [[Black Scholes Derivation|geometric Brownian motion]] as it is the rate of change which is [[Continuous-Time Stochastic Processes|Brownian motion]]. Thus sometimes the above equation is written as
+This process is known as [geometric Brownian motion](../Black%20Scholes%20Derivation.md) as it is the rate of change which is [Brownian motion](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md). Thus sometimes the above equation is written as
 $$\begin{aligned}\frac{d\: S (t)}{S (t)}=\mu\:dt+\sigma\: dz.\end{aligned}$$
 
 We can also do the same calculation the other way around. Suppose that we start from the process
@@ -157,24 +157,24 @@ $$ds (t)=\mu S (t)\:dt+\sigma S (t)\: dz.$$
 Now consider the function $G (S)=\ln S$ . Differentiating we have
 $$\frac{\partial G}{\partial S}=1,    \quad\frac{\partial^2 G}{\partial S^2}=-\frac{1}{S^2},    \quad\frac{\partial G}{\partial t}=0.$$
 
-Hence substituting into [[Determining the Stochastic Process for a Forward Contract from Ito’s Lemma|Ito's lemma]] we get.
+Hence substituting into [Ito's lemma](../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md) we get.
 $$dG=d\ln S (t)=\left (\mu-\frac{1}{2}\sigma^2\right)\:dt+\sigma\: dz.$$
 
 ### The forward price
 
-As we have seen before the [[Forward Contracts and Forward Prices|forward price]] just depends on the current price of the underlying,  the interest rate,  and the [[Chapter 16 - Black–Scholes Model|time to expiration]]. With [[Interest Rate Quotations|continuous compounding]] we can write the [[Forward Contracts and Forward Prices|forward price]] equation as
+As we have seen before the [forward price](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) just depends on the current price of the underlying,  the interest rate,  and the [time to expiration](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md). With [continuous compounding](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) we can write the [forward price](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) equation as
 $$F (S (t),    t)=S (t) e^{r (T-t)}.$$
 
-This shows the [[Forward Contracts and Forward Prices|forward price]] is a [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] which depends on the price of the [[Risk Neutral Pricing of Options|underlying asset]] which itself is a [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]]. Since we have
+This shows the [forward price](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) is a [stochastic process](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) which depends on the price of the [underlying asset](Risk%20Neutral%20Pricing%20of%20Options.md) which itself is a [stochastic process](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md). Since we have
 
-That the [[Forward Contracts and Forward Prices|forward price]] is a function of a [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] we can use [[Determining the Stochastic Process for a Forward Contract from Ito’s Lemma|Ito's lemma]]. Upon differentiation we have
+That the [forward price](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) is a function of a [stochastic process](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) we can use [Ito's lemma](../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md). Upon differentiation we have
 $$\frac{\partial F}{\partial S}=e^{r (T-t)};\quad\frac{\partial F}{\partial t}=-rS (t) e^{r (T-t)};\quad\frac{\partial^2 F}{\partial S^2}=0.$$
 
-Hence substituting into [[Determining the Stochastic Process for a Forward Contract from Ito’s Lemma|Ito's lemma]]
+Hence substituting into [Ito's lemma](../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md)
 $$\begin{aligned}dF&=\left (e^{r (T-t)}\mu S (t)-rS (t) e^{r (T-t)}\right) dt+\sigma S (t) e^{r (T-t)}dz\\&=(\mu-r) S (t) e^{r (T-t)}\sigma S (t) e^{r (T-t)}dz\\&=(\mu-r) F (t) dt+\sigma F (t) dz.\end{aligned}$$
 
-This shows that the [[Forward Contracts and Forward Prices|forward price]] also follows a [[Black Scholes Derivation|geometric Brownian motion]] process with [[Lecture 1- Probability Distributions of Returns|expected return]] given by the risk premium on the underlying $\mu-r$ and volatility 0 (the same as the [[Risk Neutral Pricing of Options|underlying asset]]).
+This shows that the [forward price](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) also follows a [geometric Brownian motion](../Black%20Scholes%20Derivation.md) process with [expected return](../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) given by the risk premium on the underlying $\mu-r$ and volatility 0 (the same as the [underlying asset](Risk%20Neutral%20Pricing%20of%20Options.md)).
 
 ## Summary
 
-We have shown how [[Assets|returns]] are continuously compounded and introduced the [[Black Scholes Derivation|geometric Brownian motion]] process for stock prices. We have shown how [[Determining the Stochastic Process for a Forward Contract from Ito’s Lemma|Ito's lemma]] can be used. The next thing to do will be to show how to use the assumption of [[Black Scholes Derivation|geometric Brownian motion]] to price an option or derivative using [[Determining the Stochastic Process for a Forward Contract from Ito’s Lemma|Ito's lemma]].
+We have shown how [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are continuously compounded and introduced the [geometric Brownian motion](../Black%20Scholes%20Derivation.md) process for stock prices. We have shown how [Ito's lemma](../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md) can be used. The next thing to do will be to show how to use the assumption of [geometric Brownian motion](../Black%20Scholes%20Derivation.md) to price an option or derivative using [Ito's lemma](../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md).

@@ -20,7 +20,7 @@ key_concepts:
   - Selling the security
 ---
 
-[[Class Note 12 Part 2 Repos]]
+[Class Note 12 Part 2 Repos](Class%20Note%2012%20Part%202%20Repos.md)
 
 # Class Slides On Repurchase Agreements
 
@@ -30,7 +30,7 @@ key_concepts:
   - We can enter into the following agreement (Bilateral Repo):
 	- Today,  I sell you my security for $V - m$.
 	  - Say: $\$1 M - \$50 K = \$950 K$
-	  - We refer to $\frac{m}{V}$,  $5\%$ in this case,  as the [[Class Slides On Repurchase Agreements|margin or haircut]].
+	  - We refer to $\frac{m}{V}$,  $5\%$ in this case,  as the [margin or haircut](.md).
 	- Today,  I also agree to repurchase the security tomorrow for:
 	  - $V - m$,  i.e.,  the amount I sold it to you for,  plus
 	  - Interest on $V - m$ at a negotiated rate,  say $1\%$ per year.
@@ -50,25 +50,25 @@ key_concepts:
   - Lending a security.
   - Borrowing money (i.e.,  the \$950 K),  on which I pay interest.
 - Simultaneously,  you are:
-  - [[Class Slides On Repurchase Agreements|Borrowing a security]].
+  - [Borrowing a security](.md).
   - Lending money,  on which you earn interest.
-- If I default on my obligation to repurchase the security,  then you can try to make yourself whole by [[Class Slides On Repurchase Agreements|selling the security]]:
+- If I default on my obligation to repurchase the security,  then you can try to make yourself whole by [selling the security](.md):
   - Since the security was originally worth $5\%$ more than the loan,  it will be sufficient to make you whole unless its value dropped by more than $5\%$ during that day.
 - If you default on your obligation to sell the security back to me for the negotiated price of \$950,  026.38,  then I keep that amount:
   - Since the security was worth more than the loan amount,  I lose money in this situation unless the security's value dropped by more than $5\%$,  in which case I'm better off with the cash than the security.
 
 #### III. Understanding Repo Agreements
-- Think of a repo as [[Class Note 12 Part 2 Repos|collateralized borrowing of cash]]:
+- Think of a repo as [collateralized borrowing of cash](Class%20Note%2012%20Part%202%20Repos.md):
   - I am borrowing against the value of my security by simultaneously selling it and contracting to repurchase it tomorrow (or any other agreed-upon day).
-- You can equivalently think of it as [[Class Note 12 Part 2 Repos|collateralized borrowing]] of the security by the other side of the repo.
+- You can equivalently think of it as [collateralized borrowing](Class%20Note%2012%20Part%202%20Repos.md) of the security by the other side of the repo.
 
 ##### Key Elements of a Repo Agreement
 - The margin (5% in our example).
 - The term (1 day in our example).
 - The interest rate (1% in our example).
 
-#### IV. [[Class Note 12 Part 2 Repos|Repos]] in Securities Trading
-- [[Class Note 12 Part 2 Repos|Repos]] are fundamental to how institutions engaged in [[Chapter 3 Financial Market Utilities|securities trading]] and financing themselves.
+#### IV. [Repos](Class%20Note%2012%20Part%202%20Repos.md) in Securities Trading
+- [Repos](Class%20Note%2012%20Part%202%20Repos.md) are fundamental to how institutions engaged in [securities trading](../../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%203%20Financial%20Market%20Utilities.md) and financing themselves.
 - If I wanted to buy the security for \$1 M from someone,  say Albert,  I could do the following:
   1. Agree with Albert to buy the security for \$1 M.
   1. Arrange with Bob for a repo of this security with the terms discussed above.
@@ -125,64 +125,64 @@ key_concepts:
 - Lenders respond to the increased risk of securities by increasing margin,  adding stress to investors.
 
 ##### Bank Run Analogy
-- This situation is similar to a [[Bank Runs Deposit Insurance and Liquidity|bank run]],  but with a twist:
+- This situation is similar to a [bank run](../Class%206-%20Bank%20Runs/Bank%20Runs%20Deposit%20Insurance%20and%20Liquidity.md),  but with a twist:
   - If my lenders aren't nervous but Fred's lenders are,  and they force Fred to sell at a bad price,  that price affects my lenders' decisions.
   - This leads to a chain reaction,  reducing market prices further.
 
 #### IX. Graph: Margins Over Time
 
-Here’s a graph showing margins (i.e.,  haircuts) of different quality [[Fremont Financial Corp. (b)|mortgage-backed securities]] over time:
+Here’s a graph showing margins (i.e.,  haircuts) of different quality [mortgage-backed securities](Fremont%20Financial%20Corp.%20(b).md) over time:
 
- ![Margins Over Time](https://storage.simpletex.cn/view/fQ4Luxx6kk6ReDpqTvOVGhhvbe5f92qfv)
+ ![Margins Over Time](Attachments/Margins_Over_Time.png)
 
 - Margins are zero until the summer of 2007.
 - Then they increase significantly,  with margin on subprime eventually reaching $100\%$ (meaning no lending against subprime collateral).
 
 #### X. Repo-Haircut Index
 
- ![Repo-Haircut Index](https://storage.simpletex.cn/view/frS1KsCboZYVEawGCrMqRzanQdvI10qmR)
+ ![Repo-Haircut Index](Attachments/Repo-Haircut_Index.png)
 
-- The repo-haircut index is the [[Chapter 24 - Analysis of Black–Scholes|equally weighted average]] haircut for all nine asset classes.
-- As the need for cash increased to hold [[Fremont Financial Corp. (b)|mortgage-backed securities]],  particularly subprime,  investors had to either recapitalize,  sell their securities,  or potentially go bankrupt.
+- The repo-haircut index is the [equally weighted average](../../../Financial%20Engineering/Derivatives/Part%20V%20-%20Options%20Pricing/Chapter%2024%20-%20Analysis%20of%20Black–Scholes.md) haircut for all nine asset classes.
+- As the need for cash increased to hold [mortgage-backed securities](Fremont%20Financial%20Corp.%20(b).md),  particularly subprime,  investors had to either recapitalize,  sell their securities,  or potentially go bankrupt.
 
 #### XI. Tri-Party Repo
 - Much of the repo market is tri-party repo,  involving a third party.
-- If I want to do a repo but don’t trust Bob,  and we both trust [[The Fall of Bear Stearns|JP Morgan]],  we can do a repo with [[The Fall of Bear Stearns|JP Morgan]]:
-  - I do the same repo as before,  but with [[The Fall of Bear Stearns|JP Morgan]] instead of Bob,  at $1.25\%$.
-  - Bob does the same with [[The Fall of Bear Stearns|JP Morgan]] instead of me,  at $0.75\%$.
+- If I want to do a repo but don’t trust Bob,  and we both trust [JP Morgan](../Class%209-%20Bailouts%20and%20Bank%20Failures/The%20Fall%20of%20Bear%20Stearns.md),  we can do a repo with [JP Morgan](../Class%209-%20Bailouts%20and%20Bank%20Failures/The%20Fall%20of%20Bear%20Stearns.md):
+  - I do the same repo as before,  but with [JP Morgan](../Class%209-%20Bailouts%20and%20Bank%20Failures/The%20Fall%20of%20Bear%20Stearns.md) instead of Bob,  at $1.25\%$.
+  - Bob does the same with [JP Morgan](../Class%209-%20Bailouts%20and%20Bank%20Failures/The%20Fall%20of%20Bear%20Stearns.md) instead of me,  at $0.75\%$.
 
 #### XII. Advantages of Tri-Party Repo
 - I pay $0.25\%$ more interest for more security (less worry about counterparty default).
 - Bob gets $0.25\%$ less interest but also more security.
-- [[The Fall of Bear Stearns|JP Morgan]] makes a spread of $0.50\%$ for bearing our counterparty risk.
+- [JP Morgan](../Class%209-%20Bailouts%20and%20Bank%20Failures/The%20Fall%20of%20Bear%20Stearns.md) makes a spread of $0.50\%$ for bearing our counterparty risk.
 
 ##### Haircut Adjustments
 - Haircuts in this market do not adjust quickly.
 - If haircuts increase for a borrower,  they may get shut out of the tri-party repo market.
-- This happened to Lehman and [[The Fall of Bear Stearns|Bear Stearns]].
+- This happened to Lehman and [Bear Stearns](../Class%209-%20Bailouts%20and%20Bank%20Failures/The%20Fall%20of%20Bear%20Stearns.md).
 
 #### XIII. Graph: Differences in Haircuts
 
-  ![Differences in Haircuts](https://storage.simpletex.cn/view/fy2f6XX42bmNZU1prgKPDm58cno45PgBg)
+  ![Differences in Haircuts](Attachments/Differences_in_Haircuts.png)
 
 - The difference is calculated as repo median minus tri-party median for each asset class.
 - The dotted black line represents zero.
 
 #### XIV. Lehman Brothers' Tri-Party Book
 
-  ![Lehman Brothers' Tri-Party Book](https://storage.simpletex.cn/view/foX43GgnL7rhXqIgrsqRztyrI0W8Wtwtq)
+  ![Lehman Brothers' Tri-Party Book](Attachments/Lehman_Brothers'_Tri-Party_Book.png)
 
 #### XV. Number of Cash Investors in Lehman Brothers
 
-  ![Number of Cash Investors](https://storage.simpletex.cn/view/fwY912r6unGqfqpUgF95faESGGENypyTk)
+  ![Number of Cash Investors](Attachments/Number_of_Cash_Investors.png)
 
-- The red line corresponds to Lehman [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] filing.
+- The red line corresponds to Lehman [bankruptcy](../../../Course%20Notes/HBR%20Notes/A%20Strategic%20Perspective%20on%20Bankruptcy.md) filing.
 
 #### XVI. Structural Problems in Tri-Party Market
 - Structural issues existed in the tri-party market before 2010.
 - A "morning unwind" provided security to cash investors if the borrower was having trouble rolling over.
-- Tri-party [[Class Note 12 Part 2 Repos|repos]] are more subject to runs than bilateral [[Class Note 12 Part 2 Repos|repos]] due to this structure.
+- Tri-party [repos](Class%20Note%2012%20Part%202%20Repos.md) are more subject to runs than bilateral [repos](Class%20Note%2012%20Part%202%20Repos.md) due to this structure.
 
 #### XVII. Fed Intervention
-- [[Monetary Policy with Abundantreserves|The Fed]] introduced the [[Update On Outstanding Lending Facilities|Primary Dealer Credit Facility]] to loan money to dealers,  using securities as collateral.
-- These loans are not [[Class Note 12 Part 2 Repos|repos]] but are similar in nature,  totaling around \$20 B.
+- [The Fed](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Monetary%20Policy%20with%20Abundantreserves.md) introduced the [Primary Dealer Credit Facility](../Class%209-%20Bailouts%20and%20Bank%20Failures/Update%20On%20Outstanding%20Lending%20Facilities.md) to loan money to dealers,  using securities as collateral.
+- These loans are not [repos](Class%20Note%2012%20Part%202%20Repos.md) but are similar in nature,  totaling around \$20 B.

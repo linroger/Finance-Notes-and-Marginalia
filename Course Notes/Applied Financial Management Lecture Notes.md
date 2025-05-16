@@ -19,9 +19,9 @@ Lecture 1 Thomas S. Coleman March 20th, Draft March 19, 2023
 
 # The Power & Value of Finance  
 
-A million [pounds] in the hands of a single banker is a great power . . . But the same sum scattered in tens and ﬁfties through a whole nation is no power at all ([[The Only Game in Town Walter Bagehot|Walter Bagehot]] 1873)  
+A million [pounds] in the hands of a single banker is a great power . . . But the same sum scattered in tens and ﬁfties through a whole nation is no power at all ([Walter Bagehot](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/The%20Only%20Game%20in%20Town%20Walter%20Bagehot.md) 1873)  
 
-[[The Economist Fewer Or Even None|The Economist]]  correctly claims that ﬁnance is one of mankind’s greatest inventions:  
+[The Economist](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Fewer%20Or%20Even%20None.md)  correctly claims that ﬁnance is one of mankind’s greatest inventions:  
 
 What is mankind’s greatest invention? ... [People] are unlikely to suggest ... the ﬁnancial contract. Widely disliked and often considered grubby, it has nonetheless played an indispensable role in human development for at least 7,000 years.  
 
@@ -29,37 +29,37 @@ What is mankind’s greatest invention? ... [People] are unlikely to suggest ...
 
 Finance: re-arranging money & resources (cash ﬂows) across time & people • We see power of ﬁnance when it goes wrong: crises like 2008  
 
-Finance is about money and resources, and re-arranging cash ﬂows across time and across people. [[The Only Game in Town Walter Bagehot|Walter Bagehot]] understood the power of ﬁnance:  
+Finance is about money and resources, and re-arranging cash ﬂows across time and across people. [Walter Bagehot](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/The%20Only%20Game%20in%20Town%20Walter%20Bagehot.md) understood the power of ﬁnance:  
 
-A million [pounds] in the hands of a single banker is a great power . . . But the same sum scattered in tens and ﬁfties through a whole nation is no power at all ([ ? ], [[The Only Game in Town Walter Bagehot|Lombard Street]] 1873)  
+A million [pounds] in the hands of a single banker is a great power . . . But the same sum scattered in tens and ﬁfties through a whole nation is no power at all ([ ? ], [Lombard Street](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/The%20Only%20Game%20in%20Town%20Walter%20Bagehot.md) 1873)  
 
-and  [[The Economist Fewer Or Even None|The Economist]]  correctly claims that ﬁnance is one of mankind’s greatest inventions:  
+and  [The Economist](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Fewer%20Or%20Even%20None.md)  correctly claims that ﬁnance is one of mankind’s greatest inventions:  
 
 What is mankind’s greatest invention? Ask people this question and they are likely to pick familiar technologies such as printing or electricity. They are unlikely to suggest an innovation that is just as signiﬁcant: the ﬁnancial contract. Widely disliked and often considered grubby, it has nonetheless played an indispensable role in human development for at least 7,000 years.  
 
 ... ﬁnance ... can act as an economic time machine, helping savers transport today’s surplus income into the future, or giving borrowers access to future earnings now. ([ ? ])  
 # Two Sides of Finance: “Investments” vs “Corporate Finance” Other course – PPHA 34410 – “Corporate Finance”  
 
-• Making decisions about business today vs tomorrow • How to decide on what plant to build • Long-term & short-term corporate ﬁnancial planning • Mergers & Acquisitions, corporate control • Debt policy & dividend payout policy • [[Class Note 1- Borrower-Lender conflicts and implied agency problems|Capital budgeting]] ([[An Asset Allocation Primer|investment]]) side of the business: how to spend money This course is “Investments” – Securities & [[Financial Markets and Institutions Lecture Notes|Financial Markets]] • The tools, techniques, and instruments for re-arranging cash ﬂows • Securities: Bonds, interest rate swaps, stocks, [[Futures Not Subject to Cash-And-Carry|futures]], options • Valuing: Discounting and PV – known Cash Flows & uncertain CFs • Markets and how securities trade – E!cient Market Hypothesis • Portfolios, risk, and how risk adds (or does not add) • Financing side of the business: how to get money  
+• Making decisions about business today vs tomorrow • How to decide on what plant to build • Long-term & short-term corporate ﬁnancial planning • Mergers & Acquisitions, corporate control • Debt policy & dividend payout policy • [Capital budgeting](../Financial%20Markets%20and%20Institutions/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/Class%20Note%201-%20Borrower-Lender%20conflicts%20and%20implied%20agency%20problems.md) ([investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)) side of the business: how to spend money This course is “Investments” – Securities & [Financial Markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) • The tools, techniques, and instruments for re-arranging cash ﬂows • Securities: Bonds, interest rate swaps, stocks, [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md), options • Valuing: Discounting and PV – known Cash Flows & uncertain CFs • Markets and how securities trade – E!cient Market Hypothesis • Portfolios, risk, and how risk adds (or does not add) • Financing side of the business: how to get money  
 
 # Roadmap for Course  
 
-Wk 1:  [[Squam Lake Group Introduction|Introduction]] & Big Ideas  
+Wk 1:  [Introduction](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) & Big Ideas  
 
-• [[Applied Financial Management Lecture Notes|Investments vs Corporate Finance]] • Two Important Ideas in Finance: TVM & Uncertainty  
+• [Investments vs Corporate Finance](.md) • Two Important Ideas in Finance: TVM & Uncertainty  
 
 Wks 2-5:  Assets, Securities, Instruments  
 
-• [[Lecture Notes Bonds,  Preferred Stock,  and Structured Products|Fixed Income]] (Bonds) • Equities • Others: [[Forwards and Futures Notes|Currency]], Commodity • [[Chapter 9 Arbitrage and Hedging With Options|Derivatives]]  
+• [Fixed Income](../Fixed%20Income%20Asset%20Pricing/Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md) (Bonds) • Equities • Others: [Currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md), Commodity • [Derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md)  
 
-Wk 6-8:  Markets and [[A Brief History of Investment Thought|Portfolio Theory]]  
+Wk 6-8:  Markets and [Portfolio Theory](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2011%20-%20Individual%20Investors-A%20Survey%20of%20Modern%20Investment%20Theory/A%20Brief%20History%20of%20Investment%20Thought.md)  
 
-• Types & Class i cation of Markets • E!cient Markets & [[Liquidity Preference Market Segmentation and P|Modigliani]]-Miller • [[An Asset Allocation Primer|Portfolio]] risk (vs security risk): contribution-to-risk and beta • [[An Asset Allocation Primer|Portfolio]] risk in equilibrium: CAPM  
+• Types & Class i cation of Markets • E!cient Markets & [Modigliani](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Liquidity%20Preference%20Market%20Segmentation%20and%20P.md)-Miller • [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) risk (vs security risk): contribution-to-risk and beta • [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) risk in equilibrium: CAPM  
 
-Wk 9:  [[Chapter 9 Arbitrage and Hedging With Options|Derivatives]]  
+Wk 9:  [Derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md)  
 
-• Swaps, [[Futures Not Subject to Cash-And-Carry|Futures]], Options  
-Contents 1 Procedural & [[Squam Lake Group Introduction|Introduction]] 3 2 Big Ideas in Finance 6 2.1 TVM & Uncertainty – The Only Ideas in Finance . . . . . . . . . . . . . . . . . . 6 3 [[Applied Financial Management Lecture Notes|Silicon Valley Bank Crisis]] 8 4 What is a Bank? 9 4.1 What are Deposits? What is Money? . . . . . . . . . . . . . . . . . . . . . . . . . . 11 4.2 [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|Liquidity]], Solvency, and Inherent Instabilities in [[HKS The Banking Industry|Banking]] . . . . . . . . . . . . . . 13 5 SVB and the Past Few Years 15 5.1 First Republic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 6 Deeper into Asset-Liability ([[Key Rates O1s Durations and Hedging|Duration]]) Mismatch 19 7 In-Class Exercise (Break-Out Session) - 4yr   ${\bf6.5\%}$   Bond 20  
+• Swaps, [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md), Options  
+Contents 1 Procedural & [Introduction](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) 3 2 Big Ideas in Finance 6 2.1 TVM & Uncertainty – The Only Ideas in Finance . . . . . . . . . . . . . . . . . . 6 3 [Silicon Valley Bank Crisis](.md) 8 4 What is a Bank? 9 4.1 What are Deposits? What is Money? . . . . . . . . . . . . . . . . . . . . . . . . . . 11 4.2 [Liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md), Solvency, and Inherent Instabilities in [Banking](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) . . . . . . . . . . . . . . 13 5 SVB and the Past Few Years 15 5.1 First Republic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 6 Deeper into Asset-Liability ([Duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)) Mismatch 19 7 In-Class Exercise (Break-Out Session) - 4yr   ${\bf6.5\%}$   Bond 20  
 
 # 1 Procedural & Introduction  
 
@@ -69,7 +69,7 @@ Who Are We? Prof Coleman: Education
 
 Main Career  
 
-• Over 20 years in the ﬁnance industry, Trading [[Chapter 9 Arbitrage and Hedging With Options|derivatives]], building trading systems, running a hedge fund  
+• Over 20 years in the ﬁnance industry, Trading [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md), building trading systems, running a hedge fund  
 $\bullet$   I came back to Chicago in 2012 – it has been an unexpected pleasure and opportunity The practical experience is important – value in combining  
 
 • Deep knowledge of market practice • The theory and quantitative tools we learn here at Chicago.  
@@ -81,13 +81,13 @@ Lectures & Problem Sessions
 
 • TA Sessions – we will announce ﬁnal schedule early this week  
 
-Text – The main material are class notes, lectures – [[Slides Note 9 Bidask.not New 2020|slides]] posted  
+Text – The main material are class notes, lectures – [slides](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Slides%20Note%209%20Bidask.not%20New%202020.md) posted  
 
-• Textbook:  Principles of [[Corporate Finance Lecture Notes|Corporate Finance]]  by Brealey, Myers, Allen  
+• Textbook:  Principles of [Corporate Finance](Corporate%20Finance%20Lecture%20Notes.md)  by Brealey, Myers, Allen  
 
 • I have created a custom “ebook” – selected chapters, cheaper  
 
-• This text is “[[Corporate Finance Lecture Notes|Corporate Finance]]” but I like the chapters on stocks   $\&$   bonds better that other texts  
+• This text is “[Corporate Finance](Corporate%20Finance%20Lecture%20Notes.md)” but I like the chapters on stocks   $\&$   bonds better that other texts  
 
 Grading  
 
@@ -99,11 +99,11 @@ Grading
 
 # You can use either  Text: Full Text vs. e-book  
 
-•   BMA  – the Full Textbook Brealey, Myers, Allen textbook  Principles of [[Corporate Finance Lecture Notes|Corporate Finance]] . 13th  edition. ISBN: 9781260013900. Earlier editions also good  •   Cust  –the custom e-book that I produced with selected chapters from BMA, that you can buy at a  lower price (ISBN 9781307696639 at  https://www.mh education.com/highered/custom/product/9781307696639.html  )  
+•   BMA  – the Full Textbook Brealey, Myers, Allen textbook  Principles of [Corporate Finance](Corporate%20Finance%20Lecture%20Notes.md) . 13th  edition. ISBN: 9781260013900. Earlier editions also good  •   Cust  –the custom e-book that I produced with selected chapters from BMA, that you can buy at a  lower price (ISBN 9781307696639 at  https://www.mh education.com/highered/custom/product/9781307696639.html  )  
 
 Here is a guide to the chapters in the full textbook and the custom e-book  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0f3b99ba55c7d77a601728eaa0c440a4f9afdbc3dd3b1a84f1241b2a05001ec6.jpg)  
+ ![500](Attachments/500-856.jpg)  
 # Problems & Study Groups  
 
 Problems assigned and due roughly weekly  
@@ -124,7 +124,7 @@ You decide on how split the work
 
 I strongly recommend the HP 17BII+ (not absolutely necessary – if you know how to use another calculator)  
 
-• Improves on the classic HP 12C by doing corporate and eurobonds in addition to [[Credit Market Homework 1|US Treasuries]]. • The TVM functions are the same (only faster).  
+• Improves on the classic HP 12C by doing corporate and eurobonds in addition to [US Treasuries](../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Homework%201.md). • The TVM functions are the same (only faster).  
 
 Here are some choices:  
 
@@ -133,13 +133,13 @@ Here are some choices:
 
 # Contents  
 
-[[An Asset Allocation Primer|Investment]] & Capital – They Are Throughout Economics • Physical capital and [[An Asset Allocation Primer|investment]] • Human capital and education • Financial capital and [[An Asset Allocation Primer|investment]] –  What we will focus on Always: Investing today for future [[Assets|returns]] • The central focus for ﬁnance – transforming cash ﬂows back and forth over time, people, risk characteristics • Here – focus on details of [[An Asset Allocation Primer|investment]] and capital in a way we don’t in other parts of economics But central ideas very much the same  
+[Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) & Capital – They Are Throughout Economics • Physical capital and [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) • Human capital and education • Financial capital and [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) –  What we will focus on Always: Investing today for future [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) • The central focus for ﬁnance – transforming cash ﬂows back and forth over time, people, risk characteristics • Here – focus on details of [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and capital in a way we don’t in other parts of economics But central ideas very much the same  
 
 Ideas for Finance Course:  
 
-I. [[An Asset Allocation Primer|Investment]] & capital: theme throughout economics  
+I. [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) & capital: theme throughout economics  
 
-• Physical capital [[An Asset Allocation Primer|investment]] • Human capital and education • Financial [[An Asset Allocation Primer|investment]] – what we will focus on • Really important to understand that [[An Asset Allocation Primer|investment]]   $\&$   capital is a recurring theme throughout economics: investing today for future [[Assets|returns]]  
+• Physical capital [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) • Human capital and education • Financial [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) – what we will focus on • Really important to understand that [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)   $\&$   capital is a recurring theme throughout economics: investing today for future [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
 
 # 2.1 TVM & Uncertainty – The Only Ideas in Finance  
 
@@ -147,7 +147,7 @@ I. [[An Asset Allocation Primer|Investment]] & capital: theme throughout economi
 
 # Only Two Ideas in Finance  
 
-I. Time Value of Money (TVM) – today vs tomorrow Framework:  Micro I Indi"erence Curves / Budget Lines Concepts:  PV; FV; yield, [[PSET 7- Kohler|discount rate]], IRR, [[Interest Rate Quotations|interest rates]]; [[Real and Nominal Interest Rates and Term Struc|real vs nominal rates]] Assets/Instrument:  Everything – bonds, swaps, options, equities, business projects II. Uncertainty & Risk – certain (known) vs uncertain Cash Flows Framework:  Expected utility. Di"erent picture & mathematics Concepts:  risk premium; risk-adjusted [[PSET 7- Kohler|discount rate]]; bond credit spreads; risk-neutral valuation and options Assets/Instrument:  Corporate bonds, options, equities  
+I. Time Value of Money (TVM) – today vs tomorrow Framework:  Micro I Indi"erence Curves / Budget Lines Concepts:  PV; FV; yield, [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md), IRR, [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md); [real vs nominal rates](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20and%20Nominal%20Interest%20Rates%20and%20Term%20Struc.md) Assets/Instrument:  Everything – bonds, swaps, options, equities, business projects II. Uncertainty & Risk – certain (known) vs uncertain Cash Flows Framework:  Expected utility. Di"erent picture & mathematics Concepts:  risk premium; risk-adjusted [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md); bond credit spreads; risk-neutral valuation and options Assets/Instrument:  Corporate bonds, options, equities  
 # Understand TVM & Risk – You Understand Finance  
 
 But that’s an immense job – for a few reasons  
@@ -162,15 +162,15 @@ II. Learning the instruments – how to unravel CFs
 
 I. There are really only two central ideas we will be working with in this course: (A) Time Value of Money – today vs tomorrow  
 
-• For this we use the pictures from Micro I of Indi"erence Curves / Budget Lines • Concepts: PV, FV, yield and IRR, [[Interest Rate Quotations|interest rates]], [[Real and Nominal Interest Rates and Term Struc|real vs nominal rates]], • Assets / Instruments: Everything – bonds, swaps, options, equities.  
+• For this we use the pictures from Micro I of Indi"erence Curves / Budget Lines • Concepts: PV, FV, yield and IRR, [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md), [real vs nominal rates](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20and%20Nominal%20Interest%20Rates%20and%20Term%20Struc.md), • Assets / Instruments: Everything – bonds, swaps, options, equities.  
 
 (B) Uncertainty and risk – how to value certain vs uncertain cash ﬂows  
 
-• For this we will work with expected utility and use a di"erent picture and [[Prerequisites|mathematical foundations]] • Concepts: risk premium; risk-adjusted [[PSET 7- Kohler|discount rate]]; bond credit spreads; certaintyequivalent; risk-neutral valuation and option valuation • Assets / Instruments: Corporate bonds, options, equities • If you understood everything about these two ideas (TVM & valuing uncertain CFs) you would understand everything about ﬁnance.  
+• For this we will work with expected utility and use a di"erent picture and [mathematical foundations](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Prerequisites.md) • Concepts: risk premium; risk-adjusted [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md); bond credit spreads; certaintyequivalent; risk-neutral valuation and option valuation • Assets / Instruments: Corporate bonds, options, equities • If you understood everything about these two ideas (TVM & valuing uncertain CFs) you would understand everything about ﬁnance.  
 
 II. If you understood everything about these two ideas (TVM & valuing uncertain CFs) you would understand everything about ﬁnance.  
 
-• Unfortunately, even though there are only these two underlying ideas, understanding all about them is an immense job. For a few reasons: • The basic ideas are simple but how they apply to the real world – how we translate them from abstract ideas to concrete applications – is inﬁnitely complicated. –  Consider just bonds. There are US Treasury bonds – seem simple because they are as close to known (certain) CFs as we can get. So for some purposes we can ignore uncertainty and risk. But we have to learn how US Treasury bonds are structured (most have ﬁxed coupons, paid semi-annually, but Bills pay only at maturity). And prices – what does a quote of 99-15 mean? (\$99 + 15/32) There is a whole lot of practical issues and complication. And then there are foreign government bonds: British Gilts (also semi-annual, but some slight di"erences) and German Bunds and French OATs (annual coupons). And then we move to corporate bonds, of which there are an almost inﬁnite variety. And those have uncertainty so we have to worry about risk and default. Fixed coupon US Corporates usually (but not always) pay semi-annually but slightly di"erently from [[Credit Market Homework 1|US Treasuries]]. Floating rate bonds have a whole variety. And then US Municipal Gov’t bonds.  
+• Unfortunately, even though there are only these two underlying ideas, understanding all about them is an immense job. For a few reasons: • The basic ideas are simple but how they apply to the real world – how we translate them from abstract ideas to concrete applications – is inﬁnitely complicated. –  Consider just bonds. There are US Treasury bonds – seem simple because they are as close to known (certain) CFs as we can get. So for some purposes we can ignore uncertainty and risk. But we have to learn how US Treasury bonds are structured (most have ﬁxed coupons, paid semi-annually, but Bills pay only at maturity). And prices – what does a quote of 99-15 mean? (\$99 + 15/32) There is a whole lot of practical issues and complication. And then there are foreign government bonds: British Gilts (also semi-annual, but some slight di"erences) and German Bunds and French OATs (annual coupons). And then we move to corporate bonds, of which there are an almost inﬁnite variety. And those have uncertainty so we have to worry about risk and default. Fixed coupon US Corporates usually (but not always) pay semi-annually but slightly di"erently from [US Treasuries](../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Homework%201.md). Floating rate bonds have a whole variety. And then US Municipal Gov’t bonds.  
 –  Much of this complication is just learning the terms and conventions: ∗UST are ﬁxed coupon, semi-annual, quoted A/A  $^*$  Bunds and OATs are ﬁxed coupon, annual, quoted A/A  $^*$  US Corporates are ﬁxed coupon, semi-annual, quoted 30/360  
 
 • You need to learn the language – what do people mean when they say “semi-annual”, “A/A”, or “30/360”?  
@@ -185,7 +185,7 @@ II. If you understood everything about these two ideas (TVM & valuing uncertain 
 
 # Contents  
 
-Silicon Valley Bank – Classic Bank Crisis We are in the middle of a classic [[HKS The Banking Industry|banking]] crisis • This is absolutely wonderful – for this course but not for the world Today I am going to spend some time talking about SVB • Also two others in the news – First Republic and [[The Economist Margin Call of the Wild|Credit Suisse]] These three are very di"erent SVB • Solvency problems that led to [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] problems ([[Bank Runs Deposit Insurance and Liquidity|bank run]]) First Republic • Lost money but still looks solvent • But depositors worried, created [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] problem [[The Economist Margin Call of the Wild|Credit Suisse]] • Poorly managed for many years – just not a very good company (maybe my biased opinion)  
+Silicon Valley Bank – Classic Bank Crisis We are in the middle of a classic [banking](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) crisis • This is absolutely wonderful – for this course but not for the world Today I am going to spend some time talking about SVB • Also two others in the news – First Republic and [Credit Suisse](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md) These three are very di"erent SVB • Solvency problems that led to [liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) problems ([bank run](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-%20Bank%20Runs/Bank%20Runs%20Deposit%20Insurance%20and%20Liquidity.md)) First Republic • Lost money but still looks solvent • But depositors worried, created [liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) problem [Credit Suisse](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md) • Poorly managed for many years – just not a very good company (maybe my biased opinion)  
 # 4 What is a Bank?  
 
 # Contents  
@@ -196,12 +196,12 @@ Two main purposes or activities of a bank:
 
 I. Business like any company: raises funds and invests  
 
-• All companies raise funds by issuing equity (from shareholders) and debt (borrowing) • The company then uses those funds to run a business • Apple builds computers and smartphones. A bank makes loans, provides [[HKS The Banking Industry|banking]] services (credit cards, ATMs), and invests  
+• All companies raise funds by issuing equity (from shareholders) and debt (borrowing) • The company then uses those funds to run a business • Apple builds computers and smartphones. A bank makes loans, provides [banking](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) services (credit cards, ATMs), and invests  
 
-II. Creating money ([[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]])  
+II. Creating money ([liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md))  
 
 • Money is complicated, and later we will spend some time on money • For now, take my word that banks “create” something we use for day-to-day transactions  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53e3efe6d2c13664e6504c08c2e8240f4c9558e260e241e68d8d113d2ef5bd7a.jpg)  
+ ![500](Attachments/500-859.jpg)  
 
 We can look in a simple bank balance sheet to see the two activities.  
 
@@ -210,17 +210,17 @@ We can look in a simple bank balance sheet to see the two activities.
 
 # Contents  
 
-To Understand Deposits – Think about  Money What is money? One of the hardest questions in economics • Start with [[Forwards and Futures Notes|currency]] – pieces of paper printed by the government  
+To Understand Deposits – Think about  Money What is money? One of the hardest questions in economics • Start with [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) – pieces of paper printed by the government  
 
 • Example: Zimbabwe 20-dollar bill –  No photo of US \$ - not legal –  Zimbabwe fun – 2nd worst inﬂation ever  
 
-• Anyone my age has used [[Forwards and Futures Notes|currency]]  
+• Anyone my age has used [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)  
 
 • Worked pretty well as money for many years  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e93be24dcbd24655cf5a242ec81681d6940b4d56f094f39553221d92824cc070.jpg)  
+ ![500](Attachments/500-808.jpg)  
 
-[[Forwards and Futures Notes|Currency]]  is (or was) Pretty Good as Money  
+[Currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)  is (or was) Pretty Good as Money  
 
 A piece of paper printed by the government  
 
@@ -234,10 +234,10 @@ A piece of paper printed by the government
 
 • Pretty good as “money” for many years  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e3a8c3a76b8de45c0d7584da161b5dbcc423b038807f40c7b425d4e92481443b.jpg)  
+ ![500](Attachments/500-852.jpg)  
 # More Money –  Demand Deposits  
 
-• [[Forwards and Futures Notes|Currency]] good for face-to-face – not as good for distant and electronic transactions –  Need something that can be easily stored and transferred electronically  
+• [Currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) good for face-to-face – not as good for distant and electronic transactions –  Need something that can be easily stored and transferred electronically  
 
 • In the late 1800s, banks (at least in US) started issuing demand deposits –  A special type of security, a loan to a bank, –  Bank promises to pay back on demand and at par (  $1\S$   for every   $1\S$   loaned)  
 
@@ -265,14 +265,14 @@ Deposit loans are day-by-day
 
 • When default, ﬁrst person in line gets  $\S100$  , last gets zero  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/046bdb2d01d347687fb2dc9c7d390e8cb6eafdd6c1056dfdc3c6d29e6e29917d.jpg)  
+ ![500](Attachments/500-843.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/44971874e693e879cc4eb897e285dab801c9e352a76b967ae7aa4748a76955a6.jpg)  
+ ![500](Attachments/500-767.jpg)  
 # 4.2 Liquidity, Solvency, and Inherent Instabilities in Banking  
 
 # Contents  
 
-Use SVB to Illustrate  Solvency  and  [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|Liquidity]]  Problems Solvency : Consider SVB actual 2022 Balance Sheet vs Hypothetical “Big Loss” Assume a big loss on  Investments  
+Use SVB to Illustrate  Solvency  and  [Liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md)  Problems Solvency : Consider SVB actual 2022 Balance Sheet vs Hypothetical “Big Loss” Assume a big loss on  Investments  
 
 •  Assets down, and liabilities must match  
 
@@ -281,23 +281,23 @@ Use SVB to Illustrate  Solvency  and  [[Class Note 10 Liquidity and Class Note 1
 • Shares (equity) loses value  
 
 SVB Actual 2022 (\$bn) 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cdfba9b022f258240510c606e523884fc6746e53699056d0fce01d51eb2b68b2.jpg)  
+ ![500](Attachments/500-841.jpg)  
 
 SVB “Big Loss” (\$bn)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/977070406f7e1b2b01e73c0c89375c90e1697a5179bf764c0b385bece6daf925.jpg)  
+ ![500](Attachments/500-842.jpg)  
 
 With “Big Loss” SVB is barely solvent (almost insolvent or “in default”) • Insolvency (default) means not enough assets to pay back debtors • In this example, just barely solvent (assets just more than debts) In this case debtors are (mostly) depositors  
 
 # Solvency  versus SVB Actual 2022 (\$bn)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2a70bad6b78d1f48511944edacb29df5892e20c9f6bb331695ab7992237a3576.jpg)  
+ ![500](Attachments/500-765.jpg)  
 
 # SVB “Big Loss” (\$bn)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2b02c5b3de609109836e7387d632942aefd32126f3ffe5de5ca5967a0a1cb90e.jpg)  
+ ![500](Attachments/500-845.jpg)  
 
-Now in a very delicate position, with both  Solvency Risks  and  [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|Liquidity]] Risks Solvency Risk  
+Now in a very delicate position, with both  Solvency Risks  and  [Liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) Risks Solvency Risk  
 
 Depositors worried investments may go down more  
 
@@ -307,7 +307,7 @@ Depositors worried investments may go down more
 
 • Get out now, before things get worse  
 
-[[Asset Backed Commercial Paper Understanding the Risks|Liquidity Risk]]  
+[Liquidity Risk](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Asset%20Backed%20Commercial%20Paper%20Understanding%20the%20Risks.md)  
 
 Even if knew  for sure  assets would not go down  
 
@@ -322,7 +322,7 @@ In either case, depositors will likely withdraw and the bank will likely fail
 • Bank will not have enough liquid assets (cash) to pay depositors  
 # Fundamental Issue: Banking Inherently Unstable  
 
-• The fact that deposits can be redeemed at any time makes banks inherently unstable Here are some things which can reduce some of the risks: I.  Solvency : Be extremely transparent and up-to-date in value of assets (so everyone has conﬁdence that the balance sheet numbers are reliable) II.  Solvency : Carefully manage the [[Analysis of Fixed Income Securities|interest rate risk]] ([[Week 6 Assignment Review|duration mismatch]]) and the [[Quantitative Trading Strategies Lecture Notes|credit risk]] of assets III.  [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|Liquidity]] : Hold liquid assets (easily and quickly sold). If depositors ask for their funds, assets can be quickly sold. IV.  Deposits : Find deposits that are more “sticky” – depositors who are not likely to move their money quickly  
+• The fact that deposits can be redeemed at any time makes banks inherently unstable Here are some things which can reduce some of the risks: I.  Solvency : Be extremely transparent and up-to-date in value of assets (so everyone has conﬁdence that the balance sheet numbers are reliable) II.  Solvency : Carefully manage the [interest rate risk](../Fixed%20Income%20Asset%20Pricing/Analysis%20of%20Fixed%20Income%20Securities.md) ([duration mismatch](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%206/Week%206%20Assignment%20Review.md)) and the [credit risk](Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) of assets III.  [Liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) : Hold liquid assets (easily and quickly sold). If depositors ask for their funds, assets can be quickly sold. IV.  Deposits : Find deposits that are more “sticky” – depositors who are not likely to move their money quickly  
 # 5 SVB and the Past Few Years  
 
 # Contents  
@@ -331,51 +331,51 @@ In either case, depositors will likely withdraw and the bank will likely fail
 
 I.  Solvency : Transparent and up-to-date value of assets  
 
-II.  Solvency : Manage interest rate ([[Key Rates O1s Durations and Hedging|duration]]) risk (and [[Quantitative Trading Strategies Lecture Notes|credit risk]])  
+II.  Solvency : Manage interest rate ([duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)) risk (and [credit risk](Quantitative%20Trading%20Strategies%20Lecture%20Notes.md))  
 
-III.  [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|Liquidity]] : Hold liquid assets  
+III.  [Liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) : Hold liquid assets  
 
 IV.  Deposits : Find “sticky” deposits  
 
 SVB did more-or-less the opposite – it was hard to get the true numbers behind the published balance sheet  
 
-•  Delving a little into details about [[HKS The Banking Industry|banking]] & accounting • Most bankers like to put assets into  Held-to-Maturity  [[An Asset Allocation Primer|portfolio]] • Claim that they will hold until maturity, so can report (on balance sheet) at original cost  
+•  Delving a little into details about [banking](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) & accounting • Most bankers like to put assets into  Held-to-Maturity  [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) • Claim that they will hold until maturity, so can report (on balance sheet) at original cost  
 
 • Horrible, dangerous idea, but bankers (and regulators) do not like or trust market prices and markto-market  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7a3d8474398b155dc8e2ed0b710d76716042349691a5dd59c4a8e6f8526c161a.jpg)  
+ ![500](Attachments/500-854.jpg)  
 $\%$   of total assets, and SVB stands out as above average  
 
 SVB (apparently) did a horrible job at this  
 
-•  [[The Economist Fewer Or Even None|The Economist]]  pointed out they bought long-dated US Treasury (and mortgage) bonds as deposits grew (in 2018, 2019, 2020)  
+•  [The Economist](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Fewer%20Or%20Even%20None.md)  pointed out they bought long-dated US Treasury (and mortgage) bonds as deposits grew (in 2018, 2019, 2020)  
 
-• Bought bonds when rates were low (and prices high) • In 2021 and 2022, [[Interest Rate Quotations|interest rates]] soared, and bond prices fell • SVB apparently did not manage (hedge) that risk  
+• Bought bonds when rates were low (and prices high) • In 2021 and 2022, [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) soared, and bond prices fell • SVB apparently did not manage (hedge) that risk  
 
 • Together with HtM of problem (1), means SVB lost money but nobody could easily see (until March 8)  
 
-• They eventually had to sell all of their non-HtM [[An Asset Allocation Primer|portfolio]] (called  Available for Sale  assets) and lost  $\S1.8\mathrm{bin}$  . No doubt more losses in the HtM [[An Asset Allocation Primer|portfolio]]  
+• They eventually had to sell all of their non-HtM [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) (called  Available for Sale  assets) and lost  $\S1.8\mathrm{bin}$  . No doubt more losses in the HtM [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ca2fd4e2df31c7661a9e3c0d46cb9f70f6f974186fff2139fd68cdcab2663f07.jpg)  
+ ![500](Attachments/500-846.jpg)  
 # My Conclusion: SVB Made Mistakes, But Did Many Things Right  
 
 SVB did many things right.  
 
-• Little speculative or risky loans or investments –  Very di"erent from 2008 mortgage crises, where banks loaded up on worthless mortgages –  SVB invested in [[Credit Market Homework 1|US Treasuries]] and high-quality mortgage bonds  
+• Little speculative or risky loans or investments –  Very di"erent from 2008 mortgage crises, where banks loaded up on worthless mortgages –  SVB invested in [US Treasuries](../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Homework%201.md) and high-quality mortgage bonds  
 
 Let me be very clear: SVB made mistakes. Mistakes that led to failure  
 
-• Asset-liability ([[Key Rates O1s Durations and Hedging|duration]]) mismatch: borrowed short-term (deposits), invested long-term (bonds) –  Classic [[HKS The Banking Industry|banking]] activity, but always risky and needs to be well-managed –  SVB managed poorly  
+• Asset-liability ([duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)) mismatch: borrowed short-term (deposits), invested long-term (bonds) –  Classic [banking](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) activity, but always risky and needs to be well-managed –  SVB managed poorly  
 
 • Poor reporting and accounting  
 
-Large  Held-to-Maturity  [[An Asset Allocation Primer|portfolio]] that obscured [[Risk Neutral Pricing of Options|underlying asset]]-liability ([[Key Rates O1s Durations and Hedging|duration]]) mismatch  
+Large  Held-to-Maturity  [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) that obscured [underlying asset](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md)-liability ([duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)) mismatch  
 
-This is basic, simple, [[HKS The Banking Industry|banking]]-101 – and SVB got it wrong • Looks like SVB messed up the old-fashioned way, not through anything unethical or nefarious  
+This is basic, simple, [banking](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md)-101 – and SVB got it wrong • Looks like SVB messed up the old-fashioned way, not through anything unethical or nefarious  
 
 # Examine More Closely SVB Losses on Assets  
 
-Picture (from NYTimes) shows gains   $\&$   losses for both HtM and AfS [[An Asset Allocation Primer|portfolio]]  
+Picture (from NYTimes) shows gains   $\&$   losses for both HtM and AfS [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
 • Trying to capture true value of assets • Losses as   $\%$   of deposits – SVB up to   $9\%$  
 
@@ -389,16 +389,16 @@ When run started, massive loss of deposits.
 
 • I’ve heard \$41bn left in a day or two • Looking at balance sheet (\$173.1bn deposits) no way they could survive  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/683efcabcec39fb4fd6c1bf2ba0ca34e60d389ace230b3d14acad4cfbdb2bfb1.jpg)  
+ ![500](Attachments/500-849.jpg)  
 SVB “Big Loss” (\$bn)  
 
 SVB Actual 2022 (\$bn) 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cbea8d5d453b441842cf935ac0432934c8f8d1e7ca2388ada115f2016a13b78d.jpg)  
+ ![500](Attachments/500-844.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e6b29aa0271fda0554586a5abd9f27e3e5feaaa7a1b32525d8084d44bac1bb0a.jpg)  
+ ![500](Attachments/500-849.jpg)  
 #  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fceb5cc25c203bb01f0659a4ec8e6f018e785e1ba4163734ac1e8f613a0ec8fb.jpg)  
+ ![500](Attachments/500-886.jpg)  
 
 from https://www.nytimes.com/interactive/2023/03/18/business/why-people-are-worried-aboutbanks.html  
 # 5.1 First Republic  
@@ -407,49 +407,49 @@ from https://www.nytimes.com/interactive/2023/03/18/business/why-people-are-worr
 
 # Now Turn to First Republic Bank – Painful, But not SVB  
 
-Gains & losses for both HtM and AfS [[An Asset Allocation Primer|portfolio]] • Losses as   $\%$   of deposits – FRB up to about   $3.5\%$  • Look at the “Big Loss” below – showing 3.5% of deposits • First Republic painful, but not insolvent • My view – caught in [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] panic • Might survive, might not. But very di!erent from SVB  
+Gains & losses for both HtM and AfS [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) • Losses as   $\%$   of deposits – FRB up to about   $3.5\%$  • Look at the “Big Loss” below – showing 3.5% of deposits • First Republic painful, but not insolvent • My view – caught in [liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) panic • Might survive, might not. But very di!erent from SVB  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/97d851e5ec35536f69aa0b2051b74926f930a8bbe02e5e1ae28b6c6c980e648c.jpg)  
+ ![500](Attachments/500-848.jpg)  
 FRB “Big Loss” (\$bn)  
 
 FRB Actual 2022 (\$bn) 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ae043ccce27de6ece76549ea82a9a7f9cec5917b1598cf200264c23ad2612bd.jpg)  
+ ![500](Attachments/500-851.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/acea3afa1a0c255872426fe2bd47ac5a04afc656d8a3cf560f327c75f3d13570.jpg)  
+ ![500](Attachments/500-849.jpg)  
 # 6 Deeper into Asset-Liability (Duration) Mismatch  
 
 # Contents  
 
 # Thinking Carefully About Asset-Liability (Duration) Mismatch  
 
-Let’s use the SVB balance sheet to think about asset-liability and [[Week 6 Assignment Review|duration mismatch]] • “[[Key Rates O1s Durations and Hedging|Duration]]” or [[Forward Bond Yield|interest rate sensitivity]] is a topic we cover in the next week or two  
+Let’s use the SVB balance sheet to think about asset-liability and [duration mismatch](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%206/Week%206%20Assignment%20Review.md) • “[Duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)” or [interest rate sensitivity](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Bond%20Yield.md) is a topic we cover in the next week or two  
 • You will not be able to fully understand this discussion, but we will return to this  
 Some points re any bank balance sheet:  
 • Assets and liabilities must always match 
-• Assets generally long-dated (long [[Key Rates O1s Durations and Hedging|duration]]) 
-–  What does this mean? Discuss “[[Key Rates O1s Durations and Hedging|duration]]” next week  
+• Assets generally long-dated (long [duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)) 
+–  What does this mean? Discuss “[duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)” next week  
 • Liabilities (deposits) short-dated  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d2e3efa8ff650ed4d22e0f7d918fa5919de18212cd653420cbfe2f97a6a7229c.jpg)  
+ ![500](Attachments/500-789.jpg)  
 
-Let’s use some of our tools (BPV and [[Key Rates O1s Durations and Hedging|duration]]) for quick calculations on assets vs liabilities • BPV and [[Key Rates O1s Durations and Hedging|duration]] is what this course is about – you will learn this in the next few weeks  
+Let’s use some of our tools (BPV and [duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)) for quick calculations on assets vs liabilities • BPV and [duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) is what this course is about – you will learn this in the next few weeks  
 
-Assets : pretend all “Investments” are 8-year bonds • BPV / [[Key Rates O1s Durations and Hedging|Duration]] would be about 7.0 today Rates    $\uparrow$  about 250bp (  $1\%$   to   $3.5\%$  ) from 2020-2022  
+Assets : pretend all “Investments” are 8-year bonds • BPV / [Duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) would be about 7.0 today Rates    $\uparrow$  about 250bp (  $1\%$   to   $3.5\%$  ) from 2020-2022  
 
 • Let’s say on average, 150bp. •   $7.0~\mathrm{BPV}\,\times\,150\mathrm{bp}\,\times\,\S125.1\mathrm{ba}\Rightarrow\mathrm{loging}~\S13\mathrm{ba}$  • How to do this? I will assign problem set  
 
 Liabilities : focus on “Deposits”  
 
-• Technically, BPV / [[Key Rates O1s Durations and Hedging|Duration]] 0.0 (daily maturity) • When rates  $\uparrow$  and Assets  $\downarrow$  , deposits no change • Big problem as Equity must  $\downarrow$  to balance  
+• Technically, BPV / [Duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) 0.0 (daily maturity) • When rates  $\uparrow$  and Assets  $\downarrow$  , deposits no change • Big problem as Equity must  $\downarrow$  to balance  
 
 In reality,  some  deposits are “sticky”  
 
-• The more sticky, the higher the [[Key Rates O1s Durations and Hedging|duration]]  
+• The more sticky, the higher the [duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)  
 # 7 In-Class Exercise (Break-Out Session) - 4yr 6.5% Bond  
 
 Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e2482ca524fd4e8b8c83e70f2ca1051eeae329394232e5885641d56dcacc38e3.jpg)  
+ ![500](Attachments/500-882.jpg)  
 
 # References  
 # Derivatives – Futures & Options  
@@ -464,11 +464,11 @@ Thomas S. Coleman 17 May 2023; Draft May 17, 2023
 
 # 1 Futures  
 
-1.1 What Are [[Futures Not Subject to Cash-And-Carry|Futures]]? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 1.2 [[Futures Not Subject to Cash-And-Carry|Futures]]: Exchanges, Contract, Margining, Etc. . . . . . . . . . . . . . . . . . . . . 4  
+1.1 What Are [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 1.2 [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md): Exchanges, Contract, Margining, Etc. . . . . . . . . . . . . . . . . . . . . 4  
 
-1.3 [[Arbitrage Pricing of Derivatives|Pricing]] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 A Appendix – Supplement and Not Covered in Class – Risk-Neutral Valuation, Options, Callable Bonds 14 A.1 Option Valuation Using Risk-Neutral Discounting . . . . . . . . . . . . . . . . . . . 14 A.2 Equity Option Terms & Valuation . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 A.3 [[Lecture Note 5- Black Scholes Formula|Black Scholes Formula]] – Simple Expectation . . . . . . . . . . . . . . . . . . . . . 17 A.4 Application – Callable Bonds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18  
+1.3 [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 A Appendix – Supplement and Not Covered in Class – Risk-Neutral Valuation, Options, Callable Bonds 14 A.1 Option Valuation Using Risk-Neutral Discounting . . . . . . . . . . . . . . . . . . . 14 A.2 Equity Option Terms & Valuation . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 A.3 [Black Scholes Formula](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Note%205-%20Black%20Scholes%20Formula.md) – Simple Expectation . . . . . . . . . . . . . . . . . . . . . 17 A.4 Application – Callable Bonds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18  
 
-Remember – [[Chapter 9 Arbitrage and Hedging With Options|Derivatives]] – Not Assets, “Derived” from Assets What is “Derivative”: Payout (proﬁt / loss) derived from something  
+Remember – [Derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) – Not Assets, “Derived” from Assets What is “Derivative”: Payout (proﬁt / loss) derived from something  
 
 • Value is derived from some other asset or security • Not “assets” (generally) – don’t invest, don’t buy & own something • Often not “securities” but instead individualized contracts  
 
@@ -479,26 +479,26 @@ Remember – [[Chapter 9 Arbitrage and Hedging With Options|Derivatives]] – No
  “Security”  
 
 • a standardized and tradeable ﬁnancial instrument • originally a piece of paper documenting the details of an asset and documenting ownership. Now usually stored electronically  
-1.1 What Are [[Futures Not Subject to Cash-And-Carry|Futures]]?  
+1.1 What Are [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)?  
 
 Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/33ff395658b0963b2393d7203262a6900982ffdd63bfaa4bd69c6081d7ee2c09.jpg)  
+ ![500](Attachments/500-889.jpg)  
 
 Important components:  
 
-• [[Futures Price and the Quality Option Before E|Futures price]] today, agree today to trade at that price on the future (delivery) date  
+• [Futures price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Futures%20Price%20and%20the%20Quality%20Option%20Before%20E.md) today, agree today to trade at that price on the future (delivery) date  
 –  Daily MtM  
 
 –  Just a way to ensure that price doesn’t move too far, and that everyone has the money to pay their losses. P&L settled end of every day  
 
-• [[Fundamentals of Futures and Forwards|Futures vs Forwards]]  
+• [Futures vs Forwards](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Fundamentals%20of%20Futures%20and%20Forwards.md)  
 
-• Underlier – what we agree to trade in the future –  Examples of physical [[Futures Not Subject to Cash-And-Carry|commodities]]: a bushel of wheat, a pound of cocoa, an ounce of gold, a barrel of oil –  Examples of ﬁnancial [[Futures Not Subject to Cash-And-Carry|futures]]: bonds, stock indexes  
+• Underlier – what we agree to trade in the future –  Examples of physical [commodities](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md): a bushel of wheat, a pound of cocoa, an ounce of gold, a barrel of oil –  Examples of ﬁnancial [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md): bonds, stock indexes  
 
 • History  
 
-–  Early contracts & original impetus: agricultural [[Futures Not Subject to Cash-And-Carry|commodities]], to allow farmers and consumers (millers, slaughter-houses) to lock in prices today. CBOT listed grain contract 1864 –  Starting in 1970s and 1980s, introduced ﬁnancial [[Futures Not Subject to Cash-And-Carry|futures]]  
+–  Early contracts & original impetus: agricultural [commodities](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md), to allow farmers and consumers (millers, slaughter-houses) to lock in prices today. CBOT listed grain contract 1864 –  Starting in 1970s and 1980s, introduced ﬁnancial [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)  
 
 • Margining  
 
@@ -506,7 +506,7 @@ Important components:
 
 • Exchange  
 
-–  stands in the middle to mitigate [[Quantitative Trading Strategies Lecture Notes|credit risk]]  
+–  stands in the middle to mitigate [credit risk](Quantitative%20Trading%20Strategies%20Lecture%20Notes.md)  
 
 • Standardized contract  
 
@@ -515,27 +515,27 @@ Important components:
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9d2f19909cfc907fcb1d2400e4c655463c684c60f4a8413cfb1b384ff45bb2fb.jpg)  
+ ![500](Attachments/500-923.jpg)  
 # Movie “Trading Places” – Frozen Orange Juice  
 
-Movie  Trading Places  from 1983, starring Eddie Murphy, Dan Aykroyd, Jamie Lee Curtis • Best I’ve seen of (old-style) open-pit [[Futures Mechanics|futures trading]] Fun movie based around trading Orange Juice [[Futures Not Subject to Cash-And-Carry|futures]]  
+Movie  Trading Places  from 1983, starring Eddie Murphy, Dan Aykroyd, Jamie Lee Curtis • Best I’ve seen of (old-style) open-pit [futures trading](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Mechanics.md) Fun movie based around trading Orange Juice [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)  
 
-• The older bad guys have stolen a crop report (inside information) • They believe OJ crop will be poor, pushing prices up • Aykroyd & Murphy switched the report; they know crop will be good • Bad guys order their trader to buy [[Futures Not Subject to Cash-And-Carry|futures]], before report released • Others see what’s happening, everyone starts buying • Aykroyd & Murphy wait until price is high, then sell at high price • When good news comes out and price falls, Aykroyd & Murphy buy back at low price  
+• The older bad guys have stolen a crop report (inside information) • They believe OJ crop will be poor, pushing prices up • Aykroyd & Murphy switched the report; they know crop will be good • Bad guys order their trader to buy [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md), before report released • Others see what’s happening, everyone starts buying • Aykroyd & Murphy wait until price is high, then sell at high price • When good news comes out and price falls, Aykroyd & Murphy buy back at low price  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4aa712ea0de6d2333a59909a6d15997d441f50e316c8de3549f6f7ac014e17cf.jpg)  
+ ![500](Attachments/500-866.jpg)  
 # Movie “Trading Places” – Frozen Orange Juice  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e44bae19ff0ab2ffdff3cf5a484b25ba7caa5cd93178f23b2ae3535b29807349.jpg)  
+ ![500](Attachments/500-889.jpg)  
 
 • Start: In the NY exchange, but very much the same in Chicago. Everything used to be in physical “pits”  
 
-• 0:34: trading various [[Futures Not Subject to Cash-And-Carry|commodities]]. FCOJ screens show prices – most recent (bottom row) then prior  
+• 0:34: trading various [commodities](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md). FCOJ screens show prices – most recent (bottom row) then prior  
 
 • 0:45: brokers and runners are old-style. Now all electronic  
 
 • 0:55: “silver pit” – literally a pit with steps going up around  
 
-• 1:29: “Bond [[Futures Not Subject to Cash-And-Carry|Futures]]” on below clock shows prices from Chicago. Randolph & Mortimer standing above realistic  
+• 1:29: “Bond [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)” on below clock shows prices from Chicago. Randolph & Mortimer standing above realistic  
 
 • 1:50: Open price at 102.  
 
@@ -552,7 +552,7 @@ Movie  Trading Places  from 1983, starring Eddie Murphy, Dan Aykroyd, Jamie Lee 
 
 • 4:52: “Not a!ected the orange harvest”: everyone realizes there will be large supply in the next year, price will be low  
 
-– [[Futures Not Subject to Cash-And-Carry|Futures]] prices fall for real  
+– [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) prices fall for real  
 
 • 5:00: Louis and Valentine sit and wait for prices to fall further  
 
@@ -570,7 +570,7 @@ Movie  Trading Places  from 1983, starring Eddie Murphy, Dan Aykroyd, Jamie Lee 
 
 # Movie “Trading Places” – Frozen Orange Juice  
 
-YouTube Clip (8 min): https://www.youtube.com/watch?v=-4_fwzC4PNI Eddie Murphy Rule  – outlawed insider trading on [[Futures Not Subject to Cash-And-Carry|futures]]  
+YouTube Clip (8 min): https://www.youtube.com/watch?v=-4_fwzC4PNI Eddie Murphy Rule  – outlawed insider trading on [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)  
 
 • Passed in 2010  
 
@@ -579,14 +579,14 @@ Explanations:
 • Good: https://www.npr.org/sections/money/2013/07/19/201430727/what-actuallyhappens-at-the-end-of-trading-places  
 
 • So-so: https://im-an-economist.blogspot.com/2014/01/short-selling-explained-casestudy.html  
-Variety of [[Futures Not Subject to Cash-And-Carry|Futures]] [[Futures Not Subject to Cash-And-Carry|Commodities]] Agricultural s • Grains (corn, wheat, ...) • Softs (cotton, cocoa, co!ee, ...) • Livestock Metals • Gold, copper, palladium, ... Energy • Crude oil, Nat Gas, electricity, ... Financials Interest Rate • Libor, SOFR, [[Fed Fund Futures|Fed Funds]], ... Bonds • US 10yr, UK Gilt, German Bund, ... Stock Indexes • S&P e-mini, CAC (France), Nikkei, FTSE Foreign Exchange (FX) • \$/Yen, \$/pound, ... Exchanges and contracts throughout the world • US, UK, Europe, Japan, Latin America  
+Variety of [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) [Commodities](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) Agricultural s • Grains (corn, wheat, ...) • Softs (cotton, cocoa, co!ee, ...) • Livestock Metals • Gold, copper, palladium, ... Energy • Crude oil, Nat Gas, electricity, ... Financials Interest Rate • Libor, SOFR, [Fed Funds](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md), ... Bonds • US 10yr, UK Gilt, German Bund, ... Stock Indexes • S&P e-mini, CAC (France), Nikkei, FTSE Foreign Exchange (FX) • \$/Yen, \$/pound, ... Exchanges and contracts throughout the world • US, UK, Europe, Japan, Latin America  
 # Margining  
 
-No cash up-front for [[Forwards and Futures|forwards]] or [[Futures Not Subject to Cash-And-Carry|futures]] As price changes, proﬁt to one side, loss to other [[Futures Not Subject to Cash-And-Carry|Futures]] Daily P&L and Margining – mechanisms reduce [[Quantitative Trading Strategies Lecture Notes|credit risk]]  
+No cash up-front for [forwards](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md) or [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) As price changes, proﬁt to one side, loss to other [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) Daily P&L and Margining – mechanisms reduce [credit risk](Quantitative%20Trading%20Strategies%20Lecture%20Notes.md)  
 
 Daily P&L – Every day, we receive proﬁt or pay loss (to exchange)  
 
-• Ensures that [[Quantitative Trading Strategies Lecture Notes|credit risk]] never grows too big • Contrast with [[Forwards and Futures|forwards]] – P&L accumulates and can get big  
+• Ensures that [credit risk](Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) never grows too big • Contrast with [forwards](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md) – P&L accumulates and can get big  
 
 • Exchange makes us post margin – still ours but physically at exchange. (We earn interest on this money)  
 
@@ -605,35 +605,35 @@ Daily P&L – Every day, we receive proﬁt or pay loss (to exchange)
 Fundamental di!erence: daily MtM  
 # Delivery Mechanism  
 
-At end of contract, need to force [[Futures Not Subject to Cash-And-Carry|futures]] to match cash market Simple for wheat, deliver 5,000 bushels  
+At end of contract, need to force [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) to match cash market Simple for wheat, deliver 5,000 bushels  
 
 • “Buy”, pay cash price, receive 5,000 bushels  
 
 Cash vs Physical  
 
-• Physical: 5,000 bushels OK for farmer, inconvenient for “speculator” • Cash: exchange di!erence between agreed and ﬁnal price –  For [[Futures Not Subject to Cash-And-Carry|futures]], done increment ally every day, for forward done lump sum at end –  Stories about forgetting and having wheat show up on doorstep  
+• Physical: 5,000 bushels OK for farmer, inconvenient for “speculator” • Cash: exchange di!erence between agreed and ﬁnal price –  For [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md), done increment ally every day, for forward done lump sum at end –  Stories about forgetting and having wheat show up on doorstep  
 
 To relieve “cornering” pressures, window and various grades  
 
-• Problem if one person buys all the physical, forces cash prices up/dn • Settlement during a window (wheat, 7 business days after last trade, which is day before 15th of [[One-Month SOFR Futures|delivery month]]) • And grades of wheat (No. 2 soft red winter, no. 2 hard red winter, ...)  
+• Problem if one person buys all the physical, forces cash prices up/dn • Settlement during a window (wheat, 7 business days after last trade, which is day before 15th of [delivery month](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md)) • And grades of wheat (No. 2 soft red winter, no. 2 hard red winter, ...)  
 
 Most contracts closed prior to delivery  
 
 # Bond Futures Delivery  
 
-At end of contract, need to force [[Futures Not Subject to Cash-And-Carry|futures]] to match cash market How to do this for our Ultra 10yr Note [[Futures Not Subject to Cash-And-Carry|Futures]] TNZ8? (Dec delivery)  
+At end of contract, need to force [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) to match cash market How to do this for our Ultra 10yr Note [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) TNZ8? (Dec delivery)  
 
-• Contract spec: Grade & Quality (language from grain contracts) Original issue 10-Year U.S. Treasury notes with not less than 9 years 5 months and not more than 10 years of remaining term to maturity from ﬁrst day of [[Futures Not Subject to Cash-And-Carry|futures]] [[One-Month SOFR Futures|delivery month]]. The [[Accrued Interest|invoice price]] equals the [[Futures Not Subject to Cash-And-Carry|futures]] settlement price times a conversion factor, plus [[Intra-Year Compounding and Day-Count|accrued interest]]. The conversion factor is the price of the delivered note (  $\S1$   par value) to yield 6 percent  
+• Contract spec: Grade & Quality (language from grain contracts) Original issue 10-Year U.S. Treasury notes with not less than 9 years 5 months and not more than 10 years of remaining term to maturity from ﬁrst day of [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) [delivery month](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md). The [invoice price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Accrued%20Interest.md) equals the [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) settlement price times a conversion factor, plus [accrued interest](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md). The conversion factor is the price of the delivered note (  $\S1$   par value) to yield 6 percent  
 
 TNZ8 Price 5-oct = 124.265625. Deliverable bonds:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/269a33ee6ab1f5f4e4501df9cece43ea11f7be15e81204ba4a8bc3ebed643e47.jpg)  
+ ![500](Attachments/500-849.jpg)  
 
-List of bonds, convert quoted [[Futures Price and the Quality Option Before E|futures price]] into trading price for delivery  
+List of bonds, convert quoted [futures price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Futures%20Price%20and%20the%20Quality%20Option%20Before%20E.md) into trading price for delivery  
 
 • Seller get to choose which one to deliver  
 
-Why don’t “[[Futures Not Subject to Cash-And-Carry|Futures]]” price and cash price match?  
+Why don’t “[Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)” price and cash price match?  
 
 https://www.cmegroup.com/trading/interest-rates/us-treasury/ultra-10-year-us-treasury-note contract Specs future  
 # 1.3 Pricing  
@@ -642,7 +642,7 @@ https://www.cmegroup.com/trading/interest-rates/us-treasury/ultra-10-year-us-tre
 
 # Pricing & Daily MtM  
 
-[[Futures Price and the Quality Option Before E|Futures price]] today: for delivery in future (maybe 1 month, maybe 3) Daily MtM  
+[Futures price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Futures%20Price%20and%20the%20Quality%20Option%20Before%20E.md) today: for delivery in future (maybe 1 month, maybe 3) Daily MtM  
 
 • Every day, pay proﬁt or loss  
 
@@ -653,13 +653,13 @@ $$
 P V={\frac{F V}{1+y}}
 $$  
 
-Everybody says “Buy [[Futures Not Subject to Cash-And-Carry|Futures]]” / “Sell [[Futures Not Subject to Cash-And-Carry|Futures]]”  
+Everybody says “Buy [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)” / “Sell [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)”  
 
-• But not buying or selling anything • Agreeing today to buy or sell in the future • Technically, “going long” or “[[Short Selling|going short]]”  
+• But not buying or selling anything • Agreeing today to buy or sell in the future • Technically, “going long” or “[going short](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Short%20Selling.md)”  
 
 # Forward and Futures Pricing  
 
-Agree today to sell (or buy) at    $P_{n}$  What is relation between “spot price”    $P o$   and “[[Forward Contracts and Forward Prices|forward price]]”    $P_{n}$  ? Standard PV / FV relationship:  
+Agree today to sell (or buy) at    $P_{n}$  What is relation between “spot price”    $P o$   and “[forward price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md)”    $P_{n}$  ? Standard PV / FV relationship:  
 $$
 P_{0}=\frac{P_{n}}{(1+y)^{n}}
 $$  
@@ -672,7 +672,7 @@ Agree today to sell at    $P_{n}{=}\P100.98$
 In 1 yr, sell at   $\S100.98\$  , buy (with   $\S100.98\$  )  
 
 •    $P_{n}$   above   $\S100.98\$   you lose, •    $P_{n}$   below   $\S100.98\$   you win  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2aebde7f06d5aeda372bf490e210b32d09deeb003332293a0ba3970947a08536.jpg)  
+ ![500](Attachments/500-888.jpg)  
 # Equity Futures Pricing – Dividends  
 
 e-mini ESH9 (mar 19) on 5-oct-18: 2902.75.  
@@ -690,8 +690,8 @@ $$
 
 We can always translate    $P V\leftrightarrow F V$  But we always need to look at either PV or FV  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d72074837267b88b9df6ce669b1c5991dc4bea6dc7719d720413fe0acea2857d.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/23efbc93291c38b90f6d65d7f0bb272048e48db85b33d1bd877b129892e58fdd.jpg)  
+ ![500](Attachments/500-770.jpg)  
+ ![500](Attachments/500-882.jpg)  
 
 # A Appendix – Supplement and Not Covered in Class – RiskNeutral Valuation, Options, Callable Bonds  
 
@@ -711,7 +711,7 @@ C E=p^{*}\cdot C_{o r i g}^{l o}+(1-p^{*})\cdot C_{o r i g}^{h i}\neq p\cdot C_{
 $$  
 
 More complicated, but really useful for options  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/78110c34e256ad7d30bb634689ea48200972909c783c8600aafbfec0f4081136.jpg)  
+ ![500](Attachments/500-889.jpg)  
 
 # A.2 Equity Option Terms & Valuation  
 
@@ -753,9 +753,9 @@ May 18 \$105 call was   $\S0.80$
 
 For valuation we:  
 
-1.  Back out average [[Forward Contracts and Forward Prices|forward price]] (on May 18) from today’s price 2. Get some estimate / assumption for volatility (spread) of price distribution 3. Get our option CFs and average – in this case    $E\left[P-105\mid P>105\right]$  4. Discount back at [[Black Scholes Derivation|risk-free rate]]  
+1.  Back out average [forward price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) (on May 18) from today’s price 2. Get some estimate / assumption for volatility (spread) of price distribution 3. Get our option CFs and average – in this case    $E\left[P-105\mid P>105\right]$  4. Discount back at [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2f2c29b74f67c7cac14fb8970d28a45e2118e337644bf052d2d841f1222a1d5e.jpg)  
+ ![500](Attachments/500-853.jpg)  
 
 •  Assume volatility    $\sigma=14.5\%$  
 
@@ -766,22 +766,22 @@ For valuation we:
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/777a04e5e3adc7595629046d3766b63c00883df7f4c81bb2d39e28a4d0dcd7c7.jpg)  
+ ![500](Attachments/500-914.jpg)  
 
 # Calculation with Spread-Sheet and HP 17B app  
 
 Spread-sheet on Canvas (Saved with data for problem set)   Black fwd  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3f1ae3bd6133bbe8107879dee1a84f519058ec93f91e68364b6d075cc680e4ce.jpg)  
+ ![500](Attachments/500-869.jpg)  
 
 HP 17B App – BSCH menu (under Finance)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7407a5ee17e35f8d125b37e3b59741a17084ec6a188116dbf735ee719b830ec0.jpg)  
+ ![500](Attachments/500-853.jpg)  
 # A.4 Application – Callable Bonds  
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d7dee6b2cbaf49a1b3b9c1f2b807430c95f9630451573c7cbe087aff1d3025ac.jpg)  
+ ![500](Attachments/500-882.jpg)  
 
 From Bank of America’s perspective, the call feature is a call option: if bond price   $<100$   then no extra proﬁt (but no loss) while if P  $>$  100 BAC gets extra proﬁt, P–100  
 
@@ -811,7 +811,7 @@ But neither is right. CFs beyond Sep 2018 are uncertain – not because of defau
 
 • And we just learned how to value  Call  
 
-The relation that the callable bond is the package of non-callable less call option holds at the [[Risk Neutral Pricing of Options|expiration date]] and every date before.  
+The relation that the callable bond is the package of non-callable less call option holds at the [expiration date](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) and every date before.  
 
 So the bond price today is  
 $$
@@ -819,37 +819,37 @@ P_{c}=P_{n c}-C a l l
 $$
   ↔  
 
-Now we need to value the callable bond. But we know exactly how to do that: simply use the [[Mathematical Modeling of Derivative Pricing|Black-Scholes]] option formula  
+Now we need to value the callable bond. But we know exactly how to do that: simply use the [Black-Scholes](../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md) option formula  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cebfbadf7d66eb9f3e834620270fb3cb6017f8fe344f9f71abf488acdcd7b1b8.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5da5a01ae2803417de21f5a25ece1f0680a0b3cf0438e3ee41e89bc5e47e7e0b.jpg)  
+ ![500](Attachments/500-885.jpg)  
+ ![500](Attachments/500-885.jpg)  
 
-Note: there is no easy way to do this bond option on the HP calculator. The reason is that the HP formula takes in the spot price (price today) and calculates the [[Forward Contracts and Forward Prices|forward price]].  
+Note: there is no easy way to do this bond option on the HP calculator. The reason is that the HP formula takes in the spot price (price today) and calculates the [forward price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md).  
 
-• Forward formula (you calculate the [[Forward Contracts and Forward Prices|forward price]] and put it into the formula). This is also called the Black Forward version  
+• Forward formula (you calculate the [forward price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) and put it into the formula). This is also called the Black Forward version  
 $$
 \begin{array}{c}{{F o r w a r d\,F o r m u l a:\,C a l l=N(d_{1})\cdot S_{T}\cdot e x p(-r T)-N(d_{2})\cdot X\cdot e x p(-r T)}}\\ {{{}}}\\ {{d_{1}={\displaystyle{\frac{1}{\sigma\sqrt{T}}}}\left[l n\left({\displaystyle{\frac{S_{T}}{X}}}\right)+{\displaystyle{\frac{\sigma^{2}T}{2}}}\right]\,d_{2}=d_{1}-\sigma\sqrt{T}}}\end{array}
 $$  
 
-• Spot formula (you put in the spot price for the underlier and then it calculates the [[Forward Contracts and Forward Prices|forward price]] by forward valuing:    $S_{T}=S_{0}\cdot\exp(r T)$   or    $S_{0}=S_{T}\cdot\exp(-r T)$  
+• Spot formula (you put in the spot price for the underlier and then it calculates the [forward price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) by forward valuing:    $S_{T}=S_{0}\cdot\exp(r T)$   or    $S_{0}=S_{T}\cdot\exp(-r T)$  
 
 •  
 $$
 \begin{array}{c}{{S p o t\:F o r m u l a:\:C a l l=N(d_{1})\cdot S_{0}-N(d_{2})\cdot X\cdot e x p(-r T)}}\\ {{d_{1}=\displaystyle\frac{1}{\sigma\sqrt{T}}\left[l n\left(\frac{S_{0}}X\right)+r T+\frac{\sigma^{2}T}{2}\right]\:d_{2}=d_{1}-\sigma\sqrt{T}}}\end{array}
 $$  
 
-You can use the calculator but you have to calculate the spot (stock) price that the calculator needs to produce a [[Forward Contracts and Forward Prices|forward price]] of 96.01:    $S_{0}=S_{T}\cdot\exp(-r T)=96.01\cdot\exp(-.0485\cdot2.53)=84.923$  . This is completely di!erent from the actual spot price of the bond (\$95.80) because there are coupons that the forward pricing formula    $S_{0}=S_{T}\cdot\exp(-r T)$   does not take into account.  
+You can use the calculator but you have to calculate the spot (stock) price that the calculator needs to produce a [forward price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) of 96.01:    $S_{0}=S_{T}\cdot\exp(-r T)=96.01\cdot\exp(-.0485\cdot2.53)=84.923$  . This is completely di!erent from the actual spot price of the bond (\$95.80) because there are coupons that the forward pricing formula    $S_{0}=S_{T}\cdot\exp(-r T)$   does not take into account.  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2b25bdd50dd06d6fffe412a2c47e4827d6aa5de0f5161ec6535f6ac634314a46.jpg)  
+ ![500](Attachments/500-776.jpg)  
 # Yield-to-Maturity Too High For Callable  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/661902768b9aca9be99e9f7862a879ab3d67ca2598ac39a76361ce0e07cc227e.jpg)  
+ ![500](Attachments/500-915.jpg)  
 
 Market:  $P_{c}=95.80$  
 
 # Calculating Option-Adjusted Yield  
 
-Yield for standard bond: [[PSET 7- Kohler|discount rate]] or what we earn holding to maturity Yield for callable bond: what we earn holding to ??  
+Yield for standard bond: [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) or what we earn holding to maturity Yield for callable bond: what we earn holding to ??  
 
 • Solve for    $y$  :    $P_{c}(y)=P_{n c}(y)-C a l l(y)=P_{m a r k e t}$  • This is now an  option-adjusted  yield – accounts for uncertain CFs  
 
@@ -857,7 +857,7 @@ For callable, we earn less. Using standard ytm overstates what we earn
 
 • Try lower yields until    $P_{c}(y^{*})=P_{n c}(y^{*})-C a l l(y^{*})=P_{m a r k e t}$  • Problem set: you solve for    $y^{*}\mathrm{~-~}4.50\%$   guess not low enough  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2b9f15b8a7acc2d9eb449fb3f08dfba02adc143e9bc953be6cd4d36561c10c3f.jpg)  
+ ![500](Attachments/500-854.jpg)  
 
 For a standard bond we solve for the yield-to-maturity from the simple discounting formula  
 
@@ -871,39 +871,39 @@ For a callable bond the idea is that we solve for    $y^{*}$  that solves:
 $$
 P_{c}(y^{*})=P_{n c}(y^{*})-C a l l(y^{*})=P_{m a r k e t}
 $$  
-This is all ﬁne for a government bond where the [[PSET 7- Kohler|discount rate]] is the [[Black Scholes Derivation|risk-free rate]]. But for the BAC bond that is not the case. In fact, one reason we want to calculate the option-adjusted yield for the BAC bond is to correctly measure the risk premium – the spread between the government (risk-free) rate and the BAC yield after adjusting for the option part of the BAC bond.  
+This is all ﬁne for a government bond where the [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) is the [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md). But for the BAC bond that is not the case. In fact, one reason we want to calculate the option-adjusted yield for the BAC bond is to correctly measure the risk premium – the spread between the government (risk-free) rate and the BAC yield after adjusting for the option part of the BAC bond.  
 
-The problem is that option valuation is based on discounting at the [[Black Scholes Derivation|risk-free rate]]. We need to do the option part at the [[Black Scholes Derivation|risk-free rate]]    $r f$   and not the option-adjusted (risk premium) yield    $y^{*}$  . Basically, we should be using:  
+The problem is that option valuation is based on discounting at the [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md). We need to do the option part at the [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md)    $r f$   and not the option-adjusted (risk premium) yield    $y^{*}$  . Basically, we should be using:  
 $$
 P_{c}(y^{*})=P_{n c}(y^{*})-C a l l(r f)=P_{m a r k e t}
 $$  
 
-Conceptually this is OK – we know from the US Treasury (  $3\%$   of 15-nov-45) that the risk-free yield on 19-feb-16 is 2.61%ab. Our challenge is to calculate the [[Forward Contracts and Forward Prices|forward price]] of the BAC bond given the [[Black Scholes Derivation|risk-free rate]] of 2.61%ab. We don’t really have an  easy  way to do this. You can use the [[Chapter 3 - Forward and Futures Prices|forward pricing]] screen on Bloomberg. Alternatively you can use the BOND menu on the HP  
+Conceptually this is OK – we know from the US Treasury (  $3\%$   of 15-nov-45) that the risk-free yield on 19-feb-16 is 2.61%ab. Our challenge is to calculate the [forward price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) of the BAC bond given the [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md) of 2.61%ab. We don’t really have an  easy  way to do this. You can use the [forward pricing](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%203%20-%20Forward%20and%20Futures%20Prices.md) screen on Bloomberg. Alternatively you can use the BOND menu on the HP  
 
-• [[Arbitrage Pricing of Derivatives|Pricing]] for settle date 19-feb-16, maturity 1-sep-2018  
+• [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) for settle date 19-feb-16, maturity 1-sep-2018  
 
 • put in a “Call” equal to a guess for the forward bond price • price the bond at yield of 2.61%ab – this will now account for all the coupons between 19-feb-16 and 1-sep-18 • adjust the “Call” up and down until the “Price” is equal to the desired bond price  
 
 As an example, let’s look at:  
 
-•   $\mathrm{y}^{\ast}=4.50\%\mathrm{ab}$   which means spot price (settle 19-feb-2016, maturity 1-sep-2045) is 103.207 • The HP BOND menu for doing the [[Chapter 3 - Forward and Futures Prices|forward pricing]] (settle 19-feb-2016, maturity 1-sep-2018, call 98.038) is:  
+•   $\mathrm{y}^{\ast}=4.50\%\mathrm{ab}$   which means spot price (settle 19-feb-2016, maturity 1-sep-2045) is 103.207 • The HP BOND menu for doing the [forward pricing](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%203%20-%20Forward%20and%20Futures%20Prices.md) (settle 19-feb-2016, maturity 1-sep-2018, call 98.038) is:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/57d166b9a555c704f69844d3ef091b9b11fe51dfe55bbc406eb1fa864c41ca73.jpg)  
+ ![500](Attachments/500-877.jpg)  
 
-This produces the desired spot price (or close enough, 103.2056) so a [[Forward Contracts and Forward Prices|forward price]] of 98.038 is the spot price given by the [[Black Scholes Derivation|risk-free rate]] (from 19-feb-2016 to 1-sep-2018) of   $2.61\%\mathrm{ab}$  .  
+This produces the desired spot price (or close enough, 103.2056) so a [forward price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) of 98.038 is the spot price given by the [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md) (from 19-feb-2016 to 1-sep-2018) of   $2.61\%\mathrm{ab}$  .  
 
-Now we can calculate the [[Mathematical Modeling of Derivative Pricing|Black-Scholes]] option price, using as the “[[An Overview of the Vasicek Short Rate Model|short rate]]” the UST yield of  $2.61\%\mathrm{ab}$     $(2.58\%c c)$  .  
+Now we can calculate the [Black-Scholes](../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md) option price, using as the “[short rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md)” the UST yield of  $2.61\%\mathrm{ab}$     $(2.58\%c c)$  .  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cc52355667ee9e1f83c54dfe6d33cbac8ecfd37004318ad15a59911288f931ff.jpg)  
+ ![500](Attachments/500-873.jpg)  
 
-Option [[Arbitrage Pricing of Derivatives|Pricing]] For BAC bond using [[Black Scholes Derivation|risk-free rate]] of   $2.61\%\mathrm{ab}$   to calculate [[Forward Contracts and Forward Prices|forward price]]  
+Option [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) For BAC bond using [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md) of   $2.61\%\mathrm{ab}$   to calculate [forward price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e5389772e127160c9dc62f79a24e38abec23a7d2bff9081e05e645832dd28045.jpg)  
+ ![500](Attachments/500-876.jpg)  
 
-Option [[Arbitrage Pricing of Derivatives|Pricing]] For BAC bond using [[Black Scholes Derivation|risk-free rate]] of   $2.61\%$  ab to calculate [[Forward Contracts and Forward Prices|forward price]] If we go through this laborious process we will get an answer not too far from Bloomberg. (Note  
+Option [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) For BAC bond using [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md) of   $2.61\%$  ab to calculate [forward price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) If we go through this laborious process we will get an answer not too far from Bloomberg. (Note  
 that 4.500%ab is not too far o! – the Pc is 96.157, slightly higher than the market price of   $\S95.80$  , meaning that the yield of 4.50%ab is too low.)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f650306f5ade125de288826ce30d45e53d87d11cbcab2da636c3a8d48a2275ac.jpg)  
+ ![500](Attachments/500-922.jpg)  
 
 # Bloomberg OAS for BAC  
 
@@ -918,24 +918,24 @@ Thomas S. Coleman 15 May 2023; Draft May 17, 2023
 
 # Outline Contents  
 
-1 What are [[Chapter 9 Arbitrage and Hedging With Options|Derivatives]]? 1 2 Floating Rate Instruments (Swaps & Bonds) 4 2.1 Floating Rates – Libor & SOFR . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 2.2 Floating Rate Bond – Libor Flat . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 2.3 Risky [[Fixed Income Asset Pricing Midterm|Floating Rate Notes]] (Bonds) – Libor   $^+$   Spread . . . . . . . . . . . . . . . . 8 3 Interest Rate Swaps 9 3.1 What is a Swap? How to PV? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 3.2 Why Swaps? – Some History & Examples . . . . . . . . . . . . . . . . . . . . . . . 13 3.3 Modern Example – Chicago Swaps and Termination . . . . . . . . . . . . . . . . . 14 3.4 More Details on Swaps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21 A Appendix – Supplement and Not Covered in Class – FRN (Floating Rate Note) 23  
+1 What are [Derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md)? 1 2 Floating Rate Instruments (Swaps & Bonds) 4 2.1 Floating Rates – Libor & SOFR . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 2.2 Floating Rate Bond – Libor Flat . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 2.3 Risky [Floating Rate Notes](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing%20Midterm.md) (Bonds) – Libor   $^+$   Spread . . . . . . . . . . . . . . . . 8 3 Interest Rate Swaps 9 3.1 What is a Swap? How to PV? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 3.2 Why Swaps? – Some History & Examples . . . . . . . . . . . . . . . . . . . . . . . 13 3.3 Modern Example – Chicago Swaps and Termination . . . . . . . . . . . . . . . . . 14 3.4 More Details on Swaps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21 A Appendix – Supplement and Not Covered in Class – FRN (Floating Rate Note) 23  
 
 # 1 What are Derivatives?  
 
-[[Chapter 9 Arbitrage and Hedging With Options|Derivatives]] – Not Assets, “Derived” from Assets What is “Derivative”: Payout (proﬁt / loss) derived from something • Value is derived from some other asset or security • Not “assets” (generally) – don’t invest, don’t buy & own something • Often not “securities” but instead individualized contracts
+[Derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) – Not Assets, “Derived” from Assets What is “Derivative”: Payout (proﬁt / loss) derived from something • Value is derived from some other asset or security • Not “assets” (generally) – don’t invest, don’t buy & own something • Often not “securities” but instead individualized contracts
 
  “Asset” • a “thing” such as an equity (part-ownership of a company) or a bond (right to future payments) • something you buy, you give money and get ownership • Financial assets: equities, bonds • Non-ﬁnancial assets: car, house, computer, your human capital
 
- “Security” • a standardized and tradeable ﬁnancial instrument • originally a piece of paper documenting the details of an asset and documenting ownership. Now usually stored electronically [[Chapter 9 Arbitrage and Hedging With Options|Derivatives]] are “derived” from something else.  
+ “Security” • a standardized and tradeable ﬁnancial instrument • originally a piece of paper documenting the details of an asset and documenting ownership. Now usually stored electronically [Derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) are “derived” from something else.  
 Bonds, money markets, equities – these are all “assets” in the sense that you invest money and then own something, you have some right to future cash ﬂows. You have bought something  
 
-[[Futures Not Subject to Cash-And-Carry|Futures]] and Swaps: Two Common [[Chapter 9 Arbitrage and Hedging With Options|Derivatives]] [[Futures Not Subject to Cash-And-Carry|Futures]] – What they are  
+[Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) and Swaps: Two Common [Derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) – What they are  
 
 • Come back next class  
 
-[[Futures Not Subject to Cash-And-Carry|Futures]] – Institutional details  
+[Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) – Institutional details  
 
-• Exchanges – centralized trading. Used to be open outcry “pits” now electronic • Margining – putting money up-front to reduce & manage credit & [[Default Risk and Credit Derivatives 183|default risk]] • Securities – standardized contract deﬁned by the exchange  
+• Exchanges – centralized trading. Used to be open outcry “pits” now electronic • Margining – putting money up-front to reduce & manage credit & [default risk](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/Default%20Risk%20and%20Credit%20Derivatives%20183.md) • Securities – standardized contract deﬁned by the exchange  
 
 # Futures and Swaps: Two Common Derivatives  
 
@@ -945,14 +945,14 @@ Swaps – What they are
 
 Swaps – Valuation  
 
-• Teach you how to think about, how to PV these simple instrument • Show how thinking about CFs makes things simple • These “complicated” [[Chapter 9 Arbitrage and Hedging With Options|derivatives]] are not that di!cult after all  
+• Teach you how to think about, how to PV these simple instrument • Show how thinking about CFs makes things simple • These “complicated” [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) are not that di!cult after all  
 
 Swaps – Institutional Details  
 
-• Trade OTC (Over the Counter) • Used to be no centralized exchange • Now moving to centralized clearing – to reduce   $\&$   manage [[Quantitative Trading Strategies Lecture Notes|credit risk]] • Not a security but an individual contract between two parties  
+• Trade OTC (Over the Counter) • Used to be no centralized exchange • Now moving to centralized clearing – to reduce   $\&$   manage [credit risk](Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) • Not a security but an individual contract between two parties  
 # Goal: Show that mapping CFs makes things simple  
 
-These “complicated” [[Chapter 9 Arbitrage and Hedging With Options|derivatives]] are not that di!cult after all  
+These “complicated” [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) are not that di!cult after all  
 
 • Cannot emphasize enough value of simple (but correct) approaches that get you 95% of the way • My experience – if someone cannot give simple explanation for trade or business, signals underlying problems –  They don’t understand well enough –  They understand but don’t want you to understand – maybe to enhance their status, maybe there’s something going on  
 # 2 Floating Rate Instruments (Swaps & Bonds)  
@@ -961,7 +961,7 @@ These “complicated” [[Chapter 9 Arbitrage and Hedging With Options|derivativ
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/01ae570a03d066f2dee118cd092b96ac01741ce3fdba1b09ae25ce94928e3bcb.jpg)  
+ ![500](Attachments/500-886.jpg)  
 
 This trick of replacing the 4th year ﬂoating payment with   $\S100$   at yr 3 is really general but really powerful  
 
@@ -994,15 +994,15 @@ London Interbank O"ered Rate Floats up / dn until
 
 # 2-nov-18 LIBOR rates:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5de2d8a15967dd8a208624b805ddd9dc5490bf17080a03b2fac9b66ac7d3d583.jpg)  
+ ![500](Attachments/500-856.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/35c8529bd63900aced60a6db182c4f617f7275666138b7c2a849a780683effbb.jpg)  
+ ![500](Attachments/500-855.jpg)  
 
 # SOFR  
 
 Secured Overnight Funding Rate • Replacement for libor for US Dollar bonds   $\&$   swaps  
 
-The [[SOFR|Secured Overnight Financing Rate]] (SOFR) is a broad measure of the cost of borrowing cash overnight collateralized by [[US Markets|Treasury securities]]. (NY Fed)  
+The [Secured Overnight Financing Rate](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2010/SOFR.md) (SOFR) is a broad measure of the cost of borrowing cash overnight collateralized by [Treasury securities](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/US%20Markets.md). (NY Fed)  
 
 Libor has many problems  
 
@@ -1012,7 +1012,7 @@ Libor has many problems
 
 The Libor scandal was a series of fraudulent actions connected to Libor and also the resulting investigation and reaction – during 2008 ﬁnancial crisis  
 
-SOFR introduced in 2018, will be a di!cult [[SOFR|transition from libor]] https://apps.newyorkfed.org/markets/autorates/sofr  
+SOFR introduced in 2018, will be a di!cult [transition from libor](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2010/SOFR.md) https://apps.newyorkfed.org/markets/autorates/sofr  
 Two Instruments: SWAP (L ﬂat); BOND (L + risk prem) Think about PV with ﬂoating rates for two instruments: • Libor Flat: will be important when turn to swaps –  Swaps generally between high-grade (libor-like) companies –  risk premium    $\approx$  0bp (relative to libor) • Libor + risk prem: important when looking at risk bonds –  Say FIS ﬂoating rate bond: risk premium  ⊋ 227bp  
 
 We need to think about PV of a ﬂoating rate bond as discounting at  
@@ -1031,15 +1031,15 @@ So far, working with ﬁxed coupon bonds • Our old friend,   $4~\mathrm{yr}~6.
 
 BUT, could also think about “ﬂoating coupon” • Each year, agree to pay current 1yr rate • Still 4 yrs, but now coupon “ﬂoats”  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1c2d84022e14dc0bfb49d2cffa2a2a9c1866c3c9dfe3607951da6f2f32923147.jpg)  
+ ![500](Attachments/500-813.jpg)  
 
 Draw CF diagram and discounting exactly same • Dashed line to represent “ﬂoating” But how do we value those “unknown” CFs?  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3cdc70e951c5191aa02ff70590fc59033f72b3f89957a0b1e0ee4c4c25bf012f.jpg)  
+ ![500](Attachments/500-847.jpg)  
 What is PV of those future unknown CFs? • Simple “trick” says   $\mathrm{PV}=100$  Not really a “trick” – just deﬁnition of libor ﬂoating rate • Libor is set so that   $\mathrm{PV}(100\mathrm{+biggr})=100$  • Libor rate up-and-down (supply/demand) until PV=100 Must be   $\S100$   (yld=coup) • Trick: rate at yr 3:  $\begin{array}{l}{-\mathrm{~libr~set~so~PV}(\mathrm{yr}3)=\S100}\\ {-\mathrm{~so~put~in~}\S100\mathrm{~at~yr~}3}\end{array}$  • Now move back to yr 2, then yr 1 • Run back to today (yr 0) PV today has to be   $\S100$  discount yld=libor 100 100 floating coupons floating coupons   = libor+0   = libor+0 N=4 N=4 PV=100 PV=100 PV=100  
 # 2.3 Risky Floating Rate Notes (Bonds) – Libor + Spread Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e9c67f10171e62c7f3924ec769f8a13b824f24afc0a3ce1ac69a752736f36ec5.jpg)  
+ ![500](Attachments/500-886.jpg)  
 # 3 Interest Rate Swaps  
 
 3.1 What is a Swap? How to PV?  
@@ -1056,19 +1056,19 @@ Focus on a ﬁxed-ﬂoating swap
 
 • Concrete ness – dealer receives ﬁxed and pays ﬂoating. • Traditional swap diagram showing the direction of cash ﬂows  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c1618a8d76233dfb5be67fc92edd3816abb0e910721376c964f95fcbdeae8aa0.jpg)  
+ ![500](Attachments/500-753.jpg)  
 
 What is a Swap? – CF Diagram Traditional CF diagram useful for seeing who gets paid what.  
 
-• But useless for understanding valuation, PV I ﬁnd the following CF / time-line diagram more useful • Four years, receive 5% ﬁxed, pay ﬂoating semi-(annually) • Actual USD swaps generally semi ﬁxed, quarterly ﬂoating • [[Currency Swaps|Swap contract]] to exchange cash ﬂows Simple instrument, but question • How do we value? How do we get PV and DV01? Valuation is pretty simple, using a simple trick.  
+• But useless for understanding valuation, PV I ﬁnd the following CF / time-line diagram more useful • Four years, receive 5% ﬁxed, pay ﬂoating semi-(annually) • Actual USD swaps generally semi ﬁxed, quarterly ﬂoating • [Swap contract](../Financial%20Instruments/Review%20Session%20Notes/Currency%20Swaps.md) to exchange cash ﬂows Simple instrument, but question • How do we value? How do we get PV and DV01? Valuation is pretty simple, using a simple trick.  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e5a4df5467f3f8a38cca0ce544bc79132a903febc9c3f9149bc9e5ae529d0ecd.jpg)  
+ ![500](Attachments/500-848.jpg)  
 
 Floating coupon - initially set today then reset every half year  
 # Valuation Simple, Trick for IRS  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/718bc1da77efbcba9d04ed2e1d5cb24f52623465feec9fd19fe72b92c0b04123.jpg)  
-Read the chapter on swaps in my “[[A Practical Guide to Bonds and Swaps|Practical Guide]] to Bonds & Swaps” on Canvas  
+ ![500](Attachments/500-886.jpg)  
+Read the chapter on swaps in my “[Practical Guide](../Financial%20Engineering/A%20Practical%20Guide%20to%20Bonds%20and%20Swaps.md) to Bonds & Swaps” on Canvas  
 # In-Class Exercise for Swap Valuation  
 
 Now we know answers  
@@ -1077,7 +1077,7 @@ Now we know answers
 
 • In-class Exercise – PV of swap PV of 5yr swap to receive 5% ﬁxed semi – current rate 1.7%  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c7919d815428db97b204717ed70347c816dab2e0f00c4ae4ad23b230481a4efb.jpg)  
+ ![500](Attachments/500-858.jpg)  
 
 •   $\mathrm{PV}(\mathrm{swap})=115.75-100=\S15.75$  • BPV of swap = 5.20 \$/100bp  
 
@@ -1089,7 +1089,7 @@ You now know everything about swaps
 
 • Risk (BPV of bond)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3a498954a4b4cd257c19935ea8c31977e9fcd9f0444b1a0f7228d647e3eeb3d4.jpg)  
+ ![500](Attachments/500-857.jpg)  
 
 PV(swap rec  $5\%$  ) =      $^+$   PV(  $5\%$   fixed coupon bond)  -- 100  
 # Quoted Swap Rate = Market Yield  
@@ -1108,7 +1108,7 @@ $\mathbf{PV(swap\,\,R\,\,coup\,\,c)}=\mathrm{PV(bond\,\,with\,coupon\,\,c)}-100\
 # Quoted Swap Rate = Market Yield  
 
 From Problem Set, All-in rates 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b974f9a819b5d8729b2e59a9d0733a4b4672f78aba88f27449c1d6222c9332e5.jpg)  
+ ![500](Attachments/500-859.jpg)  
 
 10yr swap, ﬁxed coup   $3.262\%$  ,   $\mathrm{PV}=0$  
 
@@ -1119,16 +1119,16 @@ From Problem Set, All-in rates
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/850ecb0c5e92d65f255bee1db2a0e9e91fff53261eff2713364efefb6f2b46bd.jpg)  
+ ![500](Attachments/500-787.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6e3070df827dd0eea26a200208b3da43d7219a8103b982baf3e5824b606d79e8.jpg)  
+ ![500](Attachments/500-751.jpg)  
 Example of two companies with di"erent credit in ﬁxed and ﬂoating bonds markets.  
 
 We assume here that both companies issue the same bonds – say 4 yr maturity – but their credit is di"erent in the two markets  
 
 This used to happen more than it does because di"erent groups of investors have a) Di"erent preferences for ﬁxed vs ﬂoating bonds and b) Di"erent assessment of Co A vs B – those who like ﬁxed think Co B worse than A by 100bp, those who like ﬂoating think Co B worse only by 75bp  
 
-Doesn’t happen much now precisely because of swaps – they allow easy [[Arbitrage Pricing of Derivatives|arbitrage]] across these markets  
+Doesn’t happen much now precisely because of swaps – they allow easy [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) across these markets  
 
 Markets have developed since http://www.swapsinfo.org  
 
@@ -1136,12 +1136,12 @@ Markets have developed since http://www.swapsinfo.org
 
 # Contents  
 
-Modern Example – Chicago Bonds, Swaps, and Termination 2005: City of Chicago issues bonds. General Obligation (GO) 2005D Variable Rate Demand Bonds • Roughly 30 years maturity • Variable rate, meaning coupon goes up (or down) as overall [[Interest Rate Quotations|interest rates]] up • GO: payments backed by city resources, including tax revenues. –  Strong backing from the city; usually considered to be high quality Chicago, like any city or company, had to choose between  ﬁxed coupon  and  variable rate  bonds • Choice depends on large variety of factors – [[FORWARD RATES AND TERM STRUCTURE|expectations]], revenues, risks, and costs • Probably most important: Does (tax) revenue change with [[Interest Rate Quotations|interest rates]]? –  Generally  no  so paying variable rate is risky (relative to ﬁxed coupon) –  City revenues don’t change much with [[Interest Rate Quotations|interest rates]], so ﬁxed coupon more reasonable • Risks: a) ﬁxed coup, rates    $\downarrow$  PV city owes    $\uparrow$  ; b) variable rate, rates    $\uparrow$  and annual payments ↓ • Costs ﬁxed vs variable coupon – if investors prefer variable rates, require higher ﬁxed coupon Partly luck: if choose ﬁxed coupon and rates go down, lose  
+Modern Example – Chicago Bonds, Swaps, and Termination 2005: City of Chicago issues bonds. General Obligation (GO) 2005D Variable Rate Demand Bonds • Roughly 30 years maturity • Variable rate, meaning coupon goes up (or down) as overall [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) up • GO: payments backed by city resources, including tax revenues. –  Strong backing from the city; usually considered to be high quality Chicago, like any city or company, had to choose between  ﬁxed coupon  and  variable rate  bonds • Choice depends on large variety of factors – [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md), revenues, risks, and costs • Probably most important: Does (tax) revenue change with [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)? –  Generally  no  so paying variable rate is risky (relative to ﬁxed coupon) –  City revenues don’t change much with [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md), so ﬁxed coupon more reasonable • Risks: a) ﬁxed coup, rates    $\downarrow$  PV city owes    $\uparrow$  ; b) variable rate, rates    $\uparrow$  and annual payments ↓ • Costs ﬁxed vs variable coupon – if investors prefer variable rates, require higher ﬁxed coupon Partly luck: if choose ﬁxed coupon and rates go down, lose  
 # Chicago Chose 30yr Fixed Coupon – Using a Swap – Why Di!erent?  
 
 Chicago chose ﬁxed coupon, but could do that with  ﬁxed coupon bond  or  ﬂoating bond   $\scriptstyle\mathcal{+}$   swap  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cf0c5cfa8a4219243917f7dd34dcd8c2ba694be252f4c9708e583535f4211cff.jpg)  
+ ![500](Attachments/500-811.jpg)  
 
 Would pay ﬁxed coupon  
 
@@ -1151,11 +1151,11 @@ Fixed coupon set for life of bond
 
 •  If Chicago credit  $\downarrow$  coupon does not change  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c544ee9a8ce22eacdecd3395fa406619e3f64036c5366c49b3141b01237aeedd.jpg)  
+ ![500](Attachments/500-861.jpg)  
 
 The ﬂoating rate “ﬂows through”  
 
-•  Chicago e!ectively pays ﬁxed coupon   $4.1\%$  • Note: spread “Chicago” coupon and SIFMA rate (Securities Industry and [[Financial Markets and Institutions Lecture Notes|Financial Markets]] Association) – average muni ﬂoating coupon  
+•  Chicago e!ectively pays ﬁxed coupon   $4.1\%$  • Note: spread “Chicago” coupon and SIFMA rate (Securities Industry and [Financial Markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) Association) – average muni ﬂoating coupon  
 
 Floating “Chicago” coupon can change  
 
@@ -1166,7 +1166,7 @@ Floating “Chicago” coupon can change
 Also,  Credit Triggers  on swaps  
 
 •  Banks can make Chicago cancel if credit  ↑  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d8163497690d7aae05c88c187019e504c8a53cbfe34ee95142599745cab6c27d.jpg)  
+ ![500](Attachments/500-889.jpg)  
 
 The   $\S221\mathrm{{mm}}$   for cancelation of swaps was from the screen-shot of the City of Chicago listing of swaps – see App Fin M gmt 2016 b/problems/Muni Swaps temp.pdf  
 
@@ -1199,13 +1199,13 @@ When the city issues a bond it is borrowing money. It sells the bond by taking m
 
 # BOND  
 
-We are going to examine the General Obligation 2005D Variable Rate Demand Bonds, CUSIP 167486NP0 & 167486NQ8. (A CUSIP is a nine-character alphanumeric code that identiﬁes a North American ﬁnancial security (bond or stock) for the purposes of facilitating [[Chapter 3 Financial Market Utilities|clearing and settlement]] of trades. The CUSIP system is owned by the American Bankers Association, and is operated by S&P Capital IQ.)  
+We are going to examine the General Obligation 2005D Variable Rate Demand Bonds, CUSIP 167486NP0 & 167486NQ8. (A CUSIP is a nine-character alphanumeric code that identiﬁes a North American ﬁnancial security (bond or stock) for the purposes of facilitating [clearing and settlement](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%203%20Financial%20Market%20Utilities.md) of trades. The CUSIP system is owned by the American Bankers Association, and is operated by S&P Capital IQ.)  
 
 • “General Obligation” means that the payments on the bond (payments of coupon and repayment of principal) are backed by a pledge to use city resources, including tax revenues. Usually the entity (City of Chicago in this case) promises to levy a property tax to pay. In other words this bond has strong backing from the city, and this type of bond is usually considered to be high quality.  
 
 • “2005D” means that it was issued in 2005, as one of a series of bonds issued that year. I believe it was issued August 2005, with original maturity in   $2040\mathrm{~-~}35$   year maturity when originally issued. It was a variable rate or ﬂoating rate issue.  
 
-A bond may be issued with either a ﬁxed coupon (most of the bonds we have been discussing are ﬁxed-coupon) or a ﬂoating coupon. This GO 2005D VRDB (General Obligation 2005D Variable Rate Demand Bond) was a ﬂoating-rate bond. For these bonds the rate was re-set every week or every day – it was a ﬂoating rate that depended on the general level of [[Interest Rate Quotations|interest rates]] in the market and the speciﬁc credit rating of the City of Chicago.  
+A bond may be issued with either a ﬁxed coupon (most of the bonds we have been discussing are ﬁxed-coupon) or a ﬂoating coupon. This GO 2005D VRDB (General Obligation 2005D Variable Rate Demand Bond) was a ﬂoating-rate bond. For these bonds the rate was re-set every week or every day – it was a ﬂoating rate that depended on the general level of [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) in the market and the speciﬁc credit rating of the City of Chicago.  
 
 When the city sells a ﬁxed coupon bond the city is short a ﬁxed coupon bond. Now we are going to see how much the value of a ﬁxed-coupon bond would change due to the change in rates from 2005 to 2015.  
 
@@ -1236,38 +1236,38 @@ http://www.city of chicago.org/content/dam/city/depts/ﬁn/supp_info/Bonds/Swap 
 
 • Counter party BMO (Bank of Montreal)  
 
-Chicago was required to cancel the swap with BMO in May 2015. (We will discuss more in class why Chicago had to cancel the swap, but the short story is that the [[Currency Swaps|swap contract]] had provisions that the swap could be terminated, at the request of BMO, if the credit rating of the City of Chicago fell below certain levels. In March 2014 and again May 2015 Moody’s downgraded Chicago, and that triggered the termination provisions.)  
+Chicago was required to cancel the swap with BMO in May 2015. (We will discuss more in class why Chicago had to cancel the swap, but the short story is that the [swap contract](../Financial%20Instruments/Review%20Session%20Notes/Currency%20Swaps.md) had provisions that the swap could be terminated, at the request of BMO, if the credit rating of the City of Chicago fell below certain levels. In March 2014 and again May 2015 Moody’s downgraded Chicago, and that triggered the termination provisions.)  
 # What Happens When Rates Fall: Fixed vs Floating   $^+$   Swap: 20052015  
 
-Simplifying assumption: both ﬁxed coupon and [[Teaching Note 4 Interest Rate Derivatives|swap rate]]   $4.77\%$   (match 30yr [[Teaching Note 4 Interest Rate Derivatives|swap rate]] in 2005) • 31 May 2005, 10-yr = 4.42%,  30-yr = 4.77%  20-yr rate = 4.689%  (from yld_fwd6.xls)  
+Simplifying assumption: both ﬁxed coupon and [swap rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md)   $4.77\%$   (match 30yr [swap rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) in 2005) • 31 May 2005, 10-yr = 4.42%,  30-yr = 4.77%  20-yr rate = 4.689%  (from yld_fwd6.xls)  
 
 PV(30yr bond, coupon=4.77%, yld=4.77  $\%$  )  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/38ab4e02824c7988e8db42c2bf18975e4a199c19d157e65c747b29cb179e490d.jpg)  
+ ![500](Attachments/500-860.jpg)  
 
 • 29 May 2015, 10-yr = 2.20%, 30-yr = 2.62%  20-yr rate = 2.52%  (from yld_fwd6.xls)  
 
 PV(20yr bond, coupon=4.77%, yl  $1{=}2.52\%$  )  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/837e5f12feaa5827fb8ccb0252175cab57f61aa47026d5ec486553b94f89b743.jpg)  
+ ![500](Attachments/500-860.jpg)  
 
 • Change in  Fixed Coupon Bond  and  Bond   $\scriptstyle\neq$   Swap  exactly the same So far,  Fixed Bond  and    $B o n d\;+\;S w a p$   the same:  Both lose   ${\textdollar S}3{\textdollar5}.{\textdollar1}8$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6c219dd4f304aeba2c9e436e8c7012a6b25da3eb2da0278aeb5aa78fc09d9ade.jpg)  
+ ![500](Attachments/500-750.jpg)  
 
 Short Fixed Coupon Bond • PV(coup  $\scriptstyle-4.77\%$   $@$   y  $\mathrm{Id=4.77\%})=-100\mathrm{PV(coup=4.77\%~@}$   yl  $\mathrm{d}{=}2.52\%=-135.18$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/80965e330e67654460ab6243458beda415f16d57bd3d29c8b1146c7af4756433.jpg)  
+ ![500](Attachments/500-864.jpg)  
 
 Short Floating Bond  $^+$   Pay Swap • –  $\cdot100+(100-\mathrm{PV}(4.77\%\ @\ 4.77\%)=-100-100+(100-\mathrm{PV}(4.77\%\@\ 2.52\%)=-135.18$  
 
 RATES  (end-of-month, from FRED)  
 
 • 31-May-2005,  
-$-\mathrm{~10-yr}=4.42\%$   (DSWP10, discontinued),  $-\mathrm{\Gamma}30\mathrm{-yr}=4.77\%$   (DSWP30, discontinued);  $-\mathrm{\Omega}20\mathrm{-yr}=4.689\%$  . Calculated from yld_fwd6.xls, assuming ﬂat [[Forwards and Futures|forwards]], 4.42%sab 0-10yrs, 5.119%sab 10-30 yrs  
+$-\mathrm{~10-yr}=4.42\%$   (DSWP10, discontinued),  $-\mathrm{\Gamma}30\mathrm{-yr}=4.77\%$   (DSWP30, discontinued);  $-\mathrm{\Omega}20\mathrm{-yr}=4.689\%$  . Calculated from yld_fwd6.xls, assuming ﬂat [forwards](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md), 4.42%sab 0-10yrs, 5.119%sab 10-30 yrs  
 
 • 29-May-2015,  
-$-\mathrm{\Gamma}10\mathrm{-yr}=2.20\%$  ,  $-\mathrm{\Delta}30\mathrm{-yr}=2.62\%$  $-\mathrm{\Omega}20\mathrm{-yr}=2.519\%$  . Calculated from yld_fwd6.xls, assuming ﬂat [[Forwards and Futures|forwards]], 2.20%sab 0-10yrs, 2.930%sab 10-30yrs. Discount yrs 10-20 by 2.930%sab, then 0-10 by 2.20%sab.  
+$-\mathrm{\Gamma}10\mathrm{-yr}=2.20\%$  ,  $-\mathrm{\Delta}30\mathrm{-yr}=2.62\%$  $-\mathrm{\Omega}20\mathrm{-yr}=2.519\%$  . Calculated from yld_fwd6.xls, assuming ﬂat [forwards](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md), 2.20%sab 0-10yrs, 2.930%sab 10-30yrs. Discount yrs 10-20 by 2.930%sab, then 0-10 by 2.20%sab.  
 
 For reference, here are the FRED average values:  
 
@@ -1298,14 +1298,14 @@ What forced the cancellations?
 # Downgrade Provisions in swaps  
 
 • Banks (legitimately) worry when rates    $\downarrow$  and swap has negative value to Chicago • What if Chicago defaults, and does not pay? • Downgrade provisions allow banks to force termination when large downgrade – protects banks  
-Problems With Termination Two basic problems • Chicago has to come up with cash now, instead of paying over next 20 years –  Terminate swaps and issue new bond • Chicago has to issue new bond with higher coupon because [[Quantitative Trading Strategies Lecture Notes|credit risk]] higher Many said “Swaps a Mistake – Chicago lost money” • My Conclusion: Chicago lost a lot from falling rates – but would have lost roughly the same on ﬁxed coupon bond Worsening Credit – Chicago also lost from rising [[Quantitative Trading Strategies Lecture Notes|credit risk]] • Reﬁnance when [[Cds-Equivalent Bond Spread|credit spread]] is bad • With ﬁxed coupon bond, might have avoided paying higher [[Cds-Equivalent Bond Spread|credit spread]]  
+Problems With Termination Two basic problems • Chicago has to come up with cash now, instead of paying over next 20 years –  Terminate swaps and issue new bond • Chicago has to issue new bond with higher coupon because [credit risk](Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) higher Many said “Swaps a Mistake – Chicago lost money” • My Conclusion: Chicago lost a lot from falling rates – but would have lost roughly the same on ﬁxed coupon bond Worsening Credit – Chicago also lost from rising [credit risk](Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) • Reﬁnance when [credit spread](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md) is bad • With ﬁxed coupon bond, might have avoided paying higher [credit spread](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md)  
 
 # 3.4 More Details on Swaps  
 
 # Contents  
 
-[[Quantitative Trading Strategies Lecture Notes|Credit Risk]] on Swaps Argued above that R Fix on swap    $\Longleftrightarrow$  Long Bond One important aspect swap & bond are di"erent:  [[Quantitative Trading Strategies Lecture Notes|Credit Risk]] Bond: • If municipality goes into default, your whole   $\S100$   is at risk Swap: • If bank goes into default, only your PV is at risk • Initially, PV = 0 • Example above, rates up by 30bp, PV = -1.42 – no risk here • Only if rates fall will PV become positive, and then risk is   $<<\S100$  [[Quantitative Trading Strategies Lecture Notes|Credit risk]] on swaps much less than on bonds • But still [[Quantitative Trading Strategies Lecture Notes|credit risk]] • Three main ways banks manage [[Quantitative Trading Strategies Lecture Notes|credit risk]] –  Live with it (choose only high credit-quality counter parties) –  Collateral –  Down-grade triggers  
-[[Quantitative Trading Strategies Lecture Notes|Credit Risk]] on Swaps – Cont’d [[Quantitative Trading Strategies Lecture Notes|Credit risk]] on swaps much less than on bonds • But still [[Quantitative Trading Strategies Lecture Notes|credit risk]] Three main ways banks manage [[Quantitative Trading Strategies Lecture Notes|credit risk]] • Live with it –  Choose only high credit-quality counter parties • Collateral –  When PV > 0, transfer cash into a collateral account • Down-grade triggers –  When counter party down-graded (becomes more risky) have opportunity to terminate –  Very important – this is not a “penalty”, just early payment of the PV  
+[Credit Risk](Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) on Swaps Argued above that R Fix on swap    $\Longleftrightarrow$  Long Bond One important aspect swap & bond are di"erent:  [Credit Risk](Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) Bond: • If municipality goes into default, your whole   $\S100$   is at risk Swap: • If bank goes into default, only your PV is at risk • Initially, PV = 0 • Example above, rates up by 30bp, PV = -1.42 – no risk here • Only if rates fall will PV become positive, and then risk is   $<<\S100$  [Credit risk](Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) on swaps much less than on bonds • But still [credit risk](Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) • Three main ways banks manage [credit risk](Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) –  Live with it (choose only high credit-quality counter parties) –  Collateral –  Down-grade triggers  
+[Credit Risk](Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) on Swaps – Cont’d [Credit risk](Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) on swaps much less than on bonds • But still [credit risk](Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) Three main ways banks manage [credit risk](Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) • Live with it –  Choose only high credit-quality counter parties • Collateral –  When PV > 0, transfer cash into a collateral account • Down-grade triggers –  When counter party down-graded (becomes more risky) have opportunity to terminate –  Very important – this is not a “penalty”, just early payment of the PV  
 
 # Market  
 
@@ -1313,12 +1313,12 @@ Table 1 - Swap Market 1995 Activity and Year End Notional Outstanding All amount
 
 Source - ISDA 1995 Year End Summary of Market Survey Statistics  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/22c9ebad4e0310565f88d7be05d2f699223fd650f606b30aa5e01c2e62221b48.jpg)  
+ ![500](Attachments/500-882.jpg)  
 # A Appendix – Supplement and Not Covered in Class – FRN (Floating Rate Note)  
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/796c6d19e2bfe2e48e85ec18e7b0de12b6101788f40e2cd4ed85206ef582148e.jpg)  
+ ![500](Attachments/500-889.jpg)  
 # First Idea – Discount Libor+Sprd   $\leftrightsquigarrow$   Libor Flat – WRONG  
 
 Most companies (like FIS) not “high quality” • Coupon = libor + sprd  
@@ -1329,7 +1329,7 @@ What is value today for 4yr bond, libor   $^+$   sprd? First (wrong) trick – c
 
 • Left with spread to discount  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e5d122af6c9462104b5d181e44bc24fd720f4a67feeed53f17cf3d935a45fb7c.jpg)  
+ ![500](Attachments/500-853.jpg)  
 
 • But now sprd stays  
 
@@ -1342,11 +1342,11 @@ $\mathrm{PV}=100\substack{+\mathrm{PV}(0.75\xircledcirc6.6\%)}$
 
 •   $\mathrm{PV}=100\,+\,2.56$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/150f0991bf89cd8e20edbfcb8c0ef4f4c0badefb2b0c28d1b4232d8fbb36f4e3.jpg)  
+ ![500](Attachments/500-748.jpg)  
 
 PV=100  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3ec3d974aeca9073b1f48ca205a157e6a93aefc3cfc315e47f56edc61d373684.jpg)  
+ ![500](Attachments/500-850.jpg)  
 # Correct Idea – Discount Libor+Sprd   $@$   Libor+Sprd  
 
 Most companies (like FIS) not “high quality”  
@@ -1356,7 +1356,7 @@ The sprd(coupon) ﬁxed at issue The sprd(today) goes up & down every day
 
 # Risky co di"cult  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/10437a72ed6d3eb9ba891764b8d307c0bdbe963b13b79faf26ef33842d3e6868.jpg)  
+ ![500](Attachments/500-762.jpg)  
 
 Must discount libor+sprd(issue)   $\mathrm{\Large~\textcircled{\scriptsize~}}r f\mathrm{\scriptsize~+~}r p=\mathrm{\large~\textmu~}+\mathrm{\large~\left(today\right)~}$  
 
@@ -1368,7 +1368,7 @@ Must discount libor+sprd(issue)   $\mathrm{\Large~\textcircled{\scriptsize~}}r f
 
 But here’s an approximate way:  
 
-• Figure out “average” libor – ﬁxed [[Teaching Note 4 Interest Rate Derivatives|swap rate]] good approximation  
+• Figure out “average” libor – ﬁxed [swap rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) good approximation  
 
 • Treat FRN as ﬁxed bond with coupon = Swap + sprd  
 
@@ -1389,10 +1389,10 @@ PV of 4yr L+75bp:
 
 • = 94.66  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/77359ddaa76ff95bc614cf1b76d94c1f4a7f3a35dc091f5ab92c1a900e9439e7.jpg)  
+ ![500](Attachments/500-866.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/42b8486c650f5bc589dba3f9dbaca986cc0346956055e03a4fbeeb6ea30d7396.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dfc654332790e15a35424a3ff81a2f9b84a72f09e06b1d56dc8de4ca01a349a1.jpg)  
+ ![500](Attachments/500-906.jpg)  
+ ![500](Attachments/500-889.jpg)  
 
 # References  
 # Price of Risk II – Contribution,    $\beta$  , CAPM  
@@ -1408,11 +1408,11 @@ Tether – Stablecoin – Part of Crypto Universe From last year, when Tether wa
 
 # Bank  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c6ce976fd4a957bfdb175861bf3f34714342bb770833262b46d42ef2db58f9a1.jpg)  
+ ![500](Attachments/500-788.jpg)  
 
 Similarities Tether  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/537761abea73a682f2d3300619c519da47119f535a954b8da7668ce91962c29e.jpg)  
+ ![500](Attachments/500-862.jpg)  
 
 • Deposits  
 
@@ -1437,11 +1437,11 @@ Di!erences
 
 Money Market Fund  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7dc538f78e3328fdd9a69f72594446fef26f0bdc5c049a8e2ce6e952837fae2d.jpg)  
+ ![500](Attachments/500-863.jpg)  
 
 Tether  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0a7a2a2a2db0971d0280c0227c9f6a76d01814d356845f4ec3515de46d467062.jpg)  
+ ![500](Attachments/500-760.jpg)  
 
 Similarities  
 
@@ -1466,32 +1466,32 @@ Di!erences
 –  May lose value, may default  
 # What if Tether Invests in US Treasury Bonds?  
 
-Tether will invest assets in  something , rather than all   $\S100$   in cash. Two important questions: 1. How long [[Key Rates O1s Durations and Hedging|duration]]? (Go up & down with rates? [[Asset Backed Commercial Paper Understanding the Risks|Liquidity risk]].)  
+Tether will invest assets in  something , rather than all   $\S100$   in cash. Two important questions: 1. How long [duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)? (Go up & down with rates? [Liquidity risk](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Asset%20Backed%20Commercial%20Paper%20Understanding%20the%20Risks.md).)  
 
-2. What [[Wellman Inc the Importance of Loan Covenants|credit quality]]? (Default and money lost? Solvency risk.)  
+2. What [credit quality](../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Wellman%20Inc%20the%20Importance%20of%20Loan%20Covenants.md)? (Default and money lost? Solvency risk.)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0b7f16f8519d90a668a0303bff2213d6b77ffb01f28ae643765d2136300b06e7.jpg)  
+ ![500](Attachments/500-758.jpg)  
 
-Examine only [[Key Rates O1s Durations and Hedging|duration]] question (sensitivity to [[Interest Rate Quotations|interest rates]])  
+Examine only [duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) question (sensitivity to [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md))  
 
 •  Why invest in longer bonds? 3mth bills vs 10yr bonds?  
 
 •  Earn more on longer-term bonds – TBills vs TBonds  
 
-• Longer [[Key Rates O1s Durations and Hedging|duration]]  $\rightarrow$  more sensitivity if rates go up  
+• Longer [duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)  $\rightarrow$  more sensitivity if rates go up  
 
 • Invest   $\S80$   of assets in 10-yr TBonds, now worth \$76.18.  
 
 • Could not pay everyone back  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8cea4895482ec2ec506fa14249febba4cc905b0a3926fca9c71068853706a830.jpg)  
+ ![500](Attachments/500-766.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/473e0e5c08e1c825c64ed24224ccb7021a8599f5ca40aefca501b4e811d2b8e5.jpg)  
+ ![500](Attachments/500-882.jpg)  
 # Remember SVB – Exactly “Investing in UST” (long duration)  
 
 SVB invested in UST – safe (credit) but long-dated  
 
-• [[Interest Rate Quotations|Interest rates]]  $\uparrow$  in 2022, assets  ↑ Picture (from NYTimes) shows gains & losses  
+• [Interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)  $\uparrow$  in 2022, assets  ↑ Picture (from NYTimes) shows gains & losses  
 
 • Losses as   $\%$   of deposits – SVB up to 9%  
 
@@ -1503,27 +1503,27 @@ SVB invested in UST – safe (credit) but long-dated
 
 • Looking at balance sheet (\$173.1bn deposits) no way they could survive  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7f490a9f681d81373ff0493fb7ef9fe36e9ff80991e53c2c523765acc06e657e.jpg)  
+ ![500](Attachments/500-865.jpg)  
 SVB “Big Loss” (\$bn)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/50acbf863e5c0ec189bf7f5ab1f1aa80e8ac66904382d7286571abd1d9cf4f0f.jpg)  
+ ![500](Attachments/500-870.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3457d22ea629eb5be0bfa2d52f87d0b815d080509a9a94ecc81e98f7443cb47d.jpg)  
+ ![500](Attachments/500-868.jpg)  
 # 2 Risk Premium – Overall Portfolio (“Market” Portfolio)  
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5ce795af9b65806803974efbcb4f0ea925a9d5718316b9460d442001dde385b1.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eafbe920ab7254018ad788e9c5b841516a3aae1a9528018895adf4cdaf08f876.jpg)  
+ ![500](Attachments/500-891.jpg)  
+ ![500](Attachments/500-883.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/af94028539648442e042c29b1a00a1889a32b436ddee653035c5907a471a29de.jpg)  
+ ![500](Attachments/500-907.jpg)  
 
 We like return, dislike volatility Budget line is our e"cient frontier (production possibility curve) Sharpe, Separation, and Capital Market Line  
 # Useful –  Capital Market Line  – Ignore Preferences  
 
 Using our idea of the Sharpe ratio (and a riskless asset) we can ignore preferences  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/834acd2f54047e212c88e995ae77871a36ed05a07b35b51a0f71e97b8a74b9d1.jpg)  
+ ![500](Attachments/500-868.jpg)  
 
 Return / risk trade-o! set by tangency of indi!erence curves and budge line  
 
@@ -1533,18 +1533,18 @@ Return / risk trade-o! set by tangency of indi!erence curves and budge line
 
 Di!erent indi!erence curves  $\Rightarrow$  di!erent trade-o!  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/36ae6c97e8f0923392bb0ee89e0c70afaa665959e3e6bcc3ba85c9867abfc925.jpg)  
+ ![500](Attachments/500-870.jpg)  
 
 With riskless asset (and using Sharpe ratio)  
 
-• Indi!erence curves don’t matter • Choose “Market [[An Asset Allocation Primer|Portfolio]]” with highest Sharpe • People who like more risk, [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] Market [[An Asset Allocation Primer|Portfolio]]  
+• Indi!erence curves don’t matter • Choose “Market [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)” with highest Sharpe • People who like more risk, [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) Market [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
 Capital Market Line  – Separates  Preferences  vs  Technology  
 # Reminder on Using Sharpe – Idea of Leverage  
 
-Step back: what if we combine a risk-free (  $\sigma=0$  ) asset with an e"cient [[An Asset Allocation Primer|portfolio]] (return   ,  $r_{\mathrm{pert}}$  standard deviation    $\sigma_{p o r t}$  )  
+Step back: what if we combine a risk-free (  $\sigma=0$  ) asset with an e"cient [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) (return   ,  $r_{\mathrm{pert}}$  standard deviation    $\sigma_{p o r t}$  )  
 
-•  Any  of our e"cient portfolios Use [[An Asset Allocation Primer|portfolio]] 1. Get    $\begin{array}{r}{r=r_{f}+\frac{r1-r f}{\sigma1}\cdot\sigma}\end{array}$   (for any    $\sigma$  ) • Controlled by  Sharpe   $\begin{array}{r}{R a t i o=\frac{r1-r f}{\sigma1}}\end{array}$  
+•  Any  of our e"cient portfolios Use [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) 1. Get    $\begin{array}{r}{r=r_{f}+\frac{r1-r f}{\sigma1}\cdot\sigma}\end{array}$   (for any    $\sigma$  ) • Controlled by  Sharpe   $\begin{array}{r}{R a t i o=\frac{r1-r f}{\sigma1}}\end{array}$  
 
 Example:    $r_{\mathrm{f}}{=2\%,\;r_{1}}{=6\%,}$  ,    $\sigma_{1}=10\%$  .  
 
@@ -1557,45 +1557,45 @@ $$
 
 •  ε  = 15% ,  r  = 8%  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b6b7ee8be4837f137a5614e852905531167951fb1de7d579494e9d4d3f7805d7.jpg)  
+ ![500](Attachments/500-867.jpg)  
 
 # Capital Market Line – Choose Highest Sharpe Portfolio  
 
 Want large Sharpe Ratio – Sharpe  $\uparrow$  line    $\uparrow$  
 
-• Don’t use just  any  [[An Asset Allocation Primer|portfolio]], choose largest Sharpe. • Call this line the CML – just touches the frontier • Red line. Call the chosen [[An Asset Allocation Primer|portfolio]] the  market  [[An Asset Allocation Primer|portfolio]]. Only one used  
+• Don’t use just  any  [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), choose largest Sharpe. • Call this line the CML – just touches the frontier • Red line. Call the chosen [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) the  market  [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). Only one used  
 $$
 \boldsymbol{r}=\boldsymbol{r}_{f}+\frac{r\boldsymbol{m}-\boldsymbol{r}f}{\sigma\boldsymbol{m}}\cdot\sigma=\boldsymbol{r}_{f}+\boldsymbol{S}_{\boldsymbol{m}}\cdot\sigma
 $$  
 
 Sharpe Ratio important  
-$\begin{array}{r}{S h a r p e=\frac{r1-r f}{\sigma1}}\end{array}$  • Higher Sharpe  $\Rightarrow$  higher risk-adjusted return • Investors and [[Basis Trade Explainer|hedge funds]] look at Sharpe all the time  
+$\begin{array}{r}{S h a r p e=\frac{r1-r f}{\sigma1}}\end{array}$  • Higher Sharpe  $\Rightarrow$  higher risk-adjusted return • Investors and [hedge funds](../Financial%20Engineering/Basis%20Trade%20Explainer.md) look at Sharpe all the time  
 
 • S&P Sharpe  $=0.37$     $(7.3\%/20\%)$  )  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/07455e94555b4cfbe14463a00f1d39ebf59b47c3f8680c07a2465af6a0bf250a.jpg)  
+ ![500](Attachments/500-777.jpg)  
 # Capital Market Line & Separation – Really Important  
 
 Wonderful result: separate preferences (utility function) from market (the frontier)  
 
-• Choose [[An Asset Allocation Primer|portfolio]] with the highest Sharpe  
+• Choose [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) with the highest Sharpe  
 
 • Adjust our volatility depending on our preferences  
 
-The  market [[An Asset Allocation Primer|portfolio]]  is absolutely key  
+The  market [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  is absolutely key  
 $$
 C M L:\,\,\,\,r=r_{f}+\frac{r m-r f}{\sigma m}\cdot\sigma=r_{f}+S_{m}\cdot\sigma
 $$  
 
 A few things  
 
-1. Pretend “market” is [[Hedge Fund Strategies|stock market]] (S&P 500) 2. Measure RP by measuring history:    $\approx7.3\%$  
+1. Pretend “market” is [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) (S&P 500) 2. Measure RP by measuring history:    $\approx7.3\%$  
 
 3. Doesn’t help with RP for individual assets  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fc52e052d4fcbb6304cd8c4868fee67af904830e4226748d675a8a9211cbe2cd.jpg)  
+ ![500](Attachments/500-871.jpg)  
 
-We care only about overall  market  [[An Asset Allocation Primer|portfolio]]  
+We care only about overall  market  [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
 •  Market  volatility    $\sigma_{m}$   matters – but  not  vol for individual assets  
 
@@ -1603,13 +1603,13 @@ But this doesn’t really help us:
 
 • We’ve separated out preferences from market (e"cient frontier)  
 
-• We now know that only one [[An Asset Allocation Primer|portfolio]] – the [[An Asset Allocation Primer|portfolio]] with highest Sharpe – will be chosen –  There will be individual assets within that [[An Asset Allocation Primer|portfolio]], but overall there will only be one market  [[An Asset Allocation Primer|portfolio]] chosen  
+• We now know that only one [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) – the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) with highest Sharpe – will be chosen –  There will be individual assets within that [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), but overall there will only be one market  [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) chosen  
 
-• We have the [[Lecture 1- Probability Distributions of Returns|Expected Return]] and Volatility for that overall market [[An Asset Allocation Primer|portfolio]] –  From ER we get Risk Premium:   $\mathrm{ER}=\mathrm{rf}+\mathrm{RP}$   or   $\mathrm{RP}=\mathrm{ER}-\mathrm{rf}$  
+• We have the [Expected Return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) and Volatility for that overall market [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) –  From ER we get Risk Premium:   $\mathrm{ER}=\mathrm{rf}+\mathrm{RP}$   or   $\mathrm{RP}=\mathrm{ER}-\mathrm{rf}$  
 
-• This tells us  how  we get that ER (RP) & Vol. –  For now we are going to pretend that the “Market” is the [[Hedge Fund Strategies|stock market]] – the S&P 500 index –  Not correct (as we saw with bonds & stocks, can do better by combining them) but that is what textbooks generally do  
+• This tells us  how  we get that ER (RP) & Vol. –  For now we are going to pretend that the “Market” is the [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) – the S&P 500 index –  Not correct (as we saw with bonds & stocks, can do better by combining them) but that is what textbooks generally do  
 
-• We can measure this ER (RP) & Vol by looking at history of [[Hedge Fund Strategies|stock market]] –  Risk Premium \~ 7.3%, Sharpe \~ 0.37  
+• We can measure this ER (RP) & Vol by looking at history of [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) –  Risk Premium \~ 7.3%, Sharpe \~ 0.37  
 
 • But this doesn’t help answer our question of how do we get RP for individual asset  
 # Price of Risk: Where We Are, Where We Go  
@@ -1620,7 +1620,7 @@ We need to calculate  risk premium  to value uncertain cash ﬂows We can get ri
 
 •  Divers i cation: how vol at ili ties “add” –  Digression on Sharpe ratio  
 
-•  [[Exercises|Portfolio construction]]: how we build portfolios •  How we choose the “market” [[An Asset Allocation Primer|portfolio]]: Capital Market Line • Contribution   $\&\ \beta$  : how individual securities contribute to [[An Asset Allocation Primer|portfolio]] vol •    $\beta$   measures contribution to overall [[An Asset Allocation Primer|portfolio]] vol, so    $\beta$   matters  
+•  [Portfolio construction](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md): how we build portfolios •  How we choose the “market” [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md): Capital Market Line • Contribution   $\&\ \beta$  : how individual securities contribute to [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) vol •    $\beta$   measures contribution to overall [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) vol, so    $\beta$   matters  
 
 # 3 Contribution & Beta (  $\beta$  )  
 
@@ -1630,15 +1630,15 @@ We need to calculate  risk premium  to value uncertain cash ﬂows We can get ri
 
 # What is Individual Asset Risk Premium?  
 
-CML & Market [[An Asset Allocation Primer|Portfolio]] give return (so risk premium) for whole [[An Asset Allocation Primer|portfolio]], whole market [[Class Slides On Terrausd Runs 2|Market volatility]] (  $\cdot\sigma_{m}$  ) determines market return (risk premium, price of risk) But we need risk premium for an individual stock – say FIS  
+CML & Market [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) give return (so risk premium) for whole [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), whole market [Market volatility](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Class%20Slides%20On%20Terrausd%20Runs%202.md) (  $\cdot\sigma_{m}$  ) determines market return (risk premium, price of risk) But we need risk premium for an individual stock – say FIS  
 
 • Need to go from market to FIS • What determines FIS risk premium (price of risk)?  
 
-•  Cannot  be FIS volatility or FIS Sharpe Remember Bond & Stock [[An Asset Allocation Primer|portfolio]] – Bonds low vol, low Sharpe  
+•  Cannot  be FIS volatility or FIS Sharpe Remember Bond & Stock [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) – Bonds low vol, low Sharpe  
 
-• 20% bonds gave [[An Asset Allocation Primer|portfolio]] with higher Sharpe • But bonds contribute to [[An Asset Allocation Primer|portfolio]], are valuable, • Compensated by earning positive Risk Premium – earning more than risk free  
+• 20% bonds gave [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) with higher Sharpe • But bonds contribute to [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), are valuable, • Compensated by earning positive Risk Premium – earning more than risk free  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b85e635805caadecec33191b7272f1938126641a4937c739c40d505a3cf2593b.jpg)  
+ ![500](Attachments/500-908.jpg)  
 # But What is Individual Asset Risk Premium?  
 
 We need risk premium for an individual stock – FIS  
@@ -1655,18 +1655,18 @@ What to look at? Turns out to be  contribution  ( ω )
 
 • Completely di!erent graph –    $\beta$   on horizontal  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a1efcdb1a3ca5be691d623161e6f23e04316452d4700bff1b7df6f933824f741.jpg)  
+ ![500](Attachments/500-916.jpg)  
 # Contents  
 
-Individual Securities – Contribution & Beta   $(\beta)$  Market [[An Asset Allocation Primer|portfolio]], and [[Class Slides On Terrausd Runs 2|market volatility]] (  $\sigma_{m}$   or    $\sigma_{p o r t}$  ) matters – not individual volatility • If this is true, only care about    $\sigma_{p o r t}$   and not vol for individual assets,    $\sigma_{i}$  • Compensated only for how individual security contributes to    $\sigma_{p o r t}$  • We need a measure for how individual securities contribute to    $\sigma_{p o r t}$   . Look back at the formula for [[2. Forwards, Swaps, Futures, and Options|portfolio volatility]] – play magic with algebra  $\sigma_{p o r t}=\sqrt{w_{1}^{2}\cdot\sigma_{1}^{2}+2\cdot\rho\cdot w_{1}\cdot\sigma_{1}\cdot w_{2}\cdot\sigma_{2}+w_{2}^{2}\cdot\sigma_{2}^{2}}$   $\sigma_{p o r t}=\frac{\sigma_{p o r t}^{2}}{\sigma_{p o r t}^{2}}\cdot\sigma_{p o r t}=\frac{w_{1}^{2}\sigma_{1}^{2}+2\rho w_{1}w_{2}\sigma_{1}\sigma_{2}+w_{2}^{2}\sigma_{2}^{2}}{\sigma_{p o r t}^{2}}\cdot\sigma_{p o r t}$  Want to split into two parts: contribution from 1 (  $w_{1}$   only) and from 2 (  $w_{2}$   only) How? Cannot! That middle part    $2\rho w_{1}w_{2}\sigma_{1}\sigma_{2}$   has both    $w_{1}$   and    $w_{2}$  Contribution   $\&$   Beta   $(\beta)$   Decomposes Overall Volatility Factor out    $w_{1}$   and split that middle part half-half  $\sigma_{p o r t}=\left[w_{1}\frac{\left(w_{1}\sigma_{1}^{2}+\rho w_{2}\sigma_{1}\sigma_{2}\right)}{\sigma_{p o r t}^{2}}+\frac{\left(\rho w_{1}\sigma_{1}\sigma_{2}+w_{2}\sigma_{2}^{2}\right)}{\sigma_{p o r t}^{2}}w_{2}\right]\cdot\sigma_{p o r t}$  Call those parts Beta   $(\beta)$  :  $\beta_{1}=\frac{\left(w_{1}\sigma_{1}^{2}+\rho w_{2}\sigma_{1}\sigma_{2}\right)}{\sigma_{p o r t}^{2}}\qquad\beta_{2}=\frac{\left(\rho w_{1}\sigma_{1}\sigma_{2}+w_{2}\sigma_{2}^{2}\right)}{\sigma_{p o r t}^{2}}$   $\sigma_{p o r t}=[w_{1}\beta_{1}+\beta_{2}w_{2}]\cdot\sigma_{p o r t}$  We now have a nice decomposition depending on    $w_{1}$   and    $w_{2}$  : •    $w_{1}\beta_{1}$   the overall contribution •    $\beta_{1}$   contribution per unit of asset 1 •    $w_{1}$   the “quantity” of asset 1  
-# Beta (  $\beta$  ) as Contribution to [[Chapter 5 - Index Futures|Market Risk]]  
+Individual Securities – Contribution & Beta   $(\beta)$  Market [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), and [market volatility](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Class%20Slides%20On%20Terrausd%20Runs%202.md) (  $\sigma_{m}$   or    $\sigma_{p o r t}$  ) matters – not individual volatility • If this is true, only care about    $\sigma_{p o r t}$   and not vol for individual assets,    $\sigma_{i}$  • Compensated only for how individual security contributes to    $\sigma_{p o r t}$  • We need a measure for how individual securities contribute to    $\sigma_{p o r t}$   . Look back at the formula for [portfolio volatility](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) – play magic with algebra  $\sigma_{p o r t}=\sqrt{w_{1}^{2}\cdot\sigma_{1}^{2}+2\cdot\rho\cdot w_{1}\cdot\sigma_{1}\cdot w_{2}\cdot\sigma_{2}+w_{2}^{2}\cdot\sigma_{2}^{2}}$   $\sigma_{p o r t}=\frac{\sigma_{p o r t}^{2}}{\sigma_{p o r t}^{2}}\cdot\sigma_{p o r t}=\frac{w_{1}^{2}\sigma_{1}^{2}+2\rho w_{1}w_{2}\sigma_{1}\sigma_{2}+w_{2}^{2}\sigma_{2}^{2}}{\sigma_{p o r t}^{2}}\cdot\sigma_{p o r t}$  Want to split into two parts: contribution from 1 (  $w_{1}$   only) and from 2 (  $w_{2}$   only) How? Cannot! That middle part    $2\rho w_{1}w_{2}\sigma_{1}\sigma_{2}$   has both    $w_{1}$   and    $w_{2}$  Contribution   $\&$   Beta   $(\beta)$   Decomposes Overall Volatility Factor out    $w_{1}$   and split that middle part half-half  $\sigma_{p o r t}=\left[w_{1}\frac{\left(w_{1}\sigma_{1}^{2}+\rho w_{2}\sigma_{1}\sigma_{2}\right)}{\sigma_{p o r t}^{2}}+\frac{\left(\rho w_{1}\sigma_{1}\sigma_{2}+w_{2}\sigma_{2}^{2}\right)}{\sigma_{p o r t}^{2}}w_{2}\right]\cdot\sigma_{p o r t}$  Call those parts Beta   $(\beta)$  :  $\beta_{1}=\frac{\left(w_{1}\sigma_{1}^{2}+\rho w_{2}\sigma_{1}\sigma_{2}\right)}{\sigma_{p o r t}^{2}}\qquad\beta_{2}=\frac{\left(\rho w_{1}\sigma_{1}\sigma_{2}+w_{2}\sigma_{2}^{2}\right)}{\sigma_{p o r t}^{2}}$   $\sigma_{p o r t}=[w_{1}\beta_{1}+\beta_{2}w_{2}]\cdot\sigma_{p o r t}$  We now have a nice decomposition depending on    $w_{1}$   and    $w_{2}$  : •    $w_{1}\beta_{1}$   the overall contribution •    $\beta_{1}$   contribution per unit of asset 1 •    $w_{1}$   the “quantity” of asset 1  
+# Beta (  $\beta$  ) as Contribution to [Market Risk](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md)  
 
-Piece in brackets says how assets contribute to [[An Asset Allocation Primer|portfolio]] vol   $(\sigma_{p o r t})$  
+Piece in brackets says how assets contribute to [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) vol   $(\sigma_{p o r t})$  
 $$
 \sigma_{p o r t}=[w_{1}\beta_{1}+w_{2}\beta_{2}]\cdot\sigma_{p o r t}
 $$  
 
-For market [[An Asset Allocation Primer|portfolio]], how assets contribute to  market  risk  
+For market [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), how assets contribute to  market  risk  
 $\bullet$     $w_{i}$   how much we hold  
 $\bullet$     $\beta_{i}\sigma_{p o r t}$   how “risky” is asset  i  
 
@@ -1676,9 +1676,9 @@ $$
 $$  
 # Revisit Bond & Stock Portfolio – and Contribution  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bfebc18ae780d4eca04f605b063914a8dccfdc797d472c8d80f856120aa67e30.jpg)  
+ ![500](Attachments/500-885.jpg)  
 
-Some results for    $\beta\cdot\sigma_{p}$   di!er due to rounding [[An Asset Allocation Primer|Portfolio]] Avg Return: weighted mean of Bond & Stock [[Assets|returns]] •    $\mu_{p}=w_{1}\cdot\mu_{1}+w_{2}\cdot\mu_{2}$  , contribution is weight \* avg return   $\left(w_{i}\cdot\mu_{i}\right)$  [[2. Forwards, Swaps, Futures, and Options|Portfolio Volatility]] (Standard Deviation,    $\sigma_{p}$  ):  not  weighted mean  
+Some results for    $\beta\cdot\sigma_{p}$   di!er due to rounding [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Avg Return: weighted mean of Bond & Stock [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) •    $\mu_{p}=w_{1}\cdot\mu_{1}+w_{2}\cdot\mu_{2}$  , contribution is weight \* avg return   $\left(w_{i}\cdot\mu_{i}\right)$  [Portfolio Volatility](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) (Standard Deviation,    $\sigma_{p}$  ):  not  weighted mean  
 
 & $$
 \sigma_{p}=\sqrt{w_{1}^{2}\cdot\sigma_{1}^{2}+2\cdot\rho\cdot w_{1}\cdot\sigma_{1}\cdot w_{2}\cdot\sigma_{2}+w_{2}^{2}\cdot\sigma_{2}^{2}}
@@ -1687,21 +1687,21 @@ $$
 • Bond & Stock don’t contribute their weight    $w_{i}\cdot\sigma_{i}$  , but    $w_{i}\cdot\beta_{i}\cdot\sigma_{p}$  
 $\sigma_{p o r t}=w_{1}\cdot\beta_{1}\cdot\sigma_{p o r t}+\beta_{2}\cdot w_{2}\cdot\sigma_{p o r t}$  
 
-Individual volatility    $\sigma_{i}$   does ot matter  – only    $\beta_{i}\cdot\sigma_{p}$  [[An Asset Allocation Primer|Portfolio]] Avg Return: Bond & Stock Avg [[Assets|returns]]    $\mu_{i}$   matter  
+Individual volatility    $\sigma_{i}$   does ot matter  – only    $\beta_{i}\cdot\sigma_{p}$  [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Avg Return: Bond & Stock Avg [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)    $\mu_{i}$   matter  
 
 ε  $\sigma_{p o r t}\neq w_{1}\cdot\sigma_{1}+w_{2}\cdot\sigma_{2}$  
 
-[[2. Forwards, Swaps, Futures, and Options|Portfolio Volatility]] (  $\mathit{\Delta}^{O}\mathit{p}$  ): Bond   $\&$   Stock    $\beta_{i}\cdot\sigma_{p}$   matter  
+[Portfolio Volatility](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) (  $\mathit{\Delta}^{O}\mathit{p}$  ): Bond   $\&$   Stock    $\beta_{i}\cdot\sigma_{p}$   matter  
 $$
 \sigma_{p o r t}=w_{1}\cdot\beta_{1}\cdot\sigma_{p o r t}+\beta_{2}\cdot w_{2}\cdot\sigma_{p o r t}
 $$  
 
-Individual volatility    $\sigma_{i}$   does not matter  – only    $\beta_{i}\cdot\sigma_{p}$  Contribution    $\beta_{i}\cdot\sigma_{p}$   depends  on Bond & [[Option Risk|Stock volatility]]  
+Individual volatility    $\sigma_{i}$   does not matter  – only    $\beta_{i}\cdot\sigma_{p}$  Contribution    $\beta_{i}\cdot\sigma_{p}$   depends  on Bond & [Stock volatility](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Option%20Risk.md)  
 $$
 \begin{array}{r}{\beta_{1}\cdot\sigma_{p}=\frac{\left(w_{1}\sigma_{1}^{2}+\rho w_{2}\sigma_{1}\sigma_{2}\right)}{\sigma_{p o r t}}}\end{array}
 $$  
 
-But also weight, vols, correlations of all other assets • Consider  how this asset i ﬁts into [[An Asset Allocation Primer|portfolio]] Because    $\beta_{i}$   &  $\beta_{i}\cdot\sigma_{p}$   matters,  price of risk  depends on    $\beta_{i}$   and not    $\sigma_{i}$  
+But also weight, vols, correlations of all other assets • Consider  how this asset i ﬁts into [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Because    $\beta_{i}$   &  $\beta_{i}\cdot\sigma_{p}$   matters,  price of risk  depends on    $\beta_{i}$   and not    $\sigma_{i}$  
 # Beta (  $\beta$  ) as Covariance and Regression Coe!cient  
 $\beta$   is also coe"cient in regression:  
 $$
@@ -1744,9 +1744,9 @@ d\,l n\left(\sigma_{p o r t}\right)=\beta_{1}d w_{1}+\beta_{2}d w_{2}
 $$  
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/81976022aa50817c32ce8c8e7fe1e1f7e002ee153bf651c1f0e167eb46afc691.jpg)  
+ ![500](Attachments/500-923.jpg)  
 
-But in reality there are other portfolios – many possible portfolios • For every [[An Asset Allocation Primer|portfolio]], we can talk about the beta of assets in that speciﬁc [[An Asset Allocation Primer|portfolio]]  
+But in reality there are other portfolios – many possible portfolios • For every [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), we can talk about the beta of assets in that speciﬁc [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
 10yr UST:  
 
@@ -1754,7 +1754,7 @@ But in reality there are other portfolios – many possible portfolios • For e
 
 SPX (S&P 500 Index):  
 
-[[An Asset Allocation Primer|Portfolio]] risk reporting from Ch 10 of “Quantitative [[Financial Mathematics Course|Risk Management]]”  
+[Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) risk reporting from Ch 10 of “Quantitative [Risk Management](../Financial%20Engineering/Financial%20Mathematics%20Course.md)”  
 
 •   $+\S20\mathrm{mm}$   10-yr UST  
 # 4 Capital Asset Pricing Model – E!cient and Market Portfolios  
@@ -1765,8 +1765,8 @@ SPX (S&P 500 Index):
 
 Beta Measures Individual Security Price of Risk  
 
-• For any [[An Asset Allocation Primer|portfolio]], Beta decomposes the overall volatility:    $\sigma_{p o r t}=[w_{1}\beta_{1}+\beta_{2}w_{2}]\cdot\sigma_{p o r t}$  Since we care about individual assets’ contribution to [[2. Forwards, Swaps, Futures, and Options|portfolio volatility]], and since    $\beta$   measures this, seems that    $\beta$   is the natural “risk” measure – expected [[Assets|returns]] should depend on    $\beta$  • Assets with higher    $\beta$   should have higher return • More risk (higher    $\beta$  ) means higher return We expect    $E R_{i}=f\left(\beta_{i}\right)$   – meaning that expected [[Assets|returns]] depends on    $\beta_{i}$   and not    $\sigma_{i}$  • Wouldn’t it be nice if the function were linear?    $E R_{i}=a+\beta_{i}\cdot c o n s t$  
-Amazing Result: For Any  E!cient  [[An Asset Allocation Primer|Portfolio]],    $E R_{i}=\gamma+\beta_{i}\cdot(E R_{p}-\gamma)$  
+• For any [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), Beta decomposes the overall volatility:    $\sigma_{p o r t}=[w_{1}\beta_{1}+\beta_{2}w_{2}]\cdot\sigma_{p o r t}$  Since we care about individual assets’ contribution to [portfolio volatility](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md), and since    $\beta$   measures this, seems that    $\beta$   is the natural “risk” measure – expected [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) should depend on    $\beta$  • Assets with higher    $\beta$   should have higher return • More risk (higher    $\beta$  ) means higher return We expect    $E R_{i}=f\left(\beta_{i}\right)$   – meaning that expected [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) depends on    $\beta_{i}$   and not    $\sigma_{i}$  • Wouldn’t it be nice if the function were linear?    $E R_{i}=a+\beta_{i}\cdot c o n s t$  
+Amazing Result: For Any  E!cient  [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md),    $E R_{i}=\gamma+\beta_{i}\cdot(E R_{p}-\gamma)$  
 
 Individual assets don’t line up with  volatility  
 
@@ -1774,9 +1774,9 @@ Individual assets don’t line up with  volatility
 
 # But here’s the really amazing thing  
 
-• For any  E!cient  [[An Asset Allocation Primer|Portfolio]],  it is linear  
+• For any  E!cient  [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md),  it is linear  
 
-• The assets and weights in  any  [[An Asset Allocation Primer|portfolio]] on the e"cient frontier must be chosen so that    $\beta_{i}$  all adjust until    $E R_{i}=\gamma+\beta_{i}\left(E R_{p o r t}-\gamma\right)$  
+• The assets and weights in  any  [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) on the e"cient frontier must be chosen so that    $\beta_{i}$  all adjust until    $E R_{i}=\gamma+\beta_{i}\left(E R_{p o r t}-\gamma\right)$  
 
 • Remember,  $\begin{array}{r}{\beta_{1}=\frac{\left(w_{1}\sigma_{1}^{2}+\rho w_{2}\sigma_{1}\sigma_{2}\right)}{\sigma_{p o r t}^{2}}}\end{array}$  , so as we adjust weights    $w_{i}$   the    $\beta_{i}$   adjust until they all line up  
 
@@ -1786,10 +1786,10 @@ Assets 1, 2, 3 don’t line up in  Return vs Std Deviation
 
 Assets  do  line up in  Return vs    $\beta$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d903faeb49b9b1e5cd38381feec227a4734527a01adacf11e64ca6c68e0348f3.jpg)  
+ ![500](Attachments/500-909.jpg)  
 # Example: Returns Line Up With    $\beta$   for All  E!cient  Portfolios  
 
-Let’s set how assets line up with our simple Bond   $\&$   Stock [[An Asset Allocation Primer|portfolio]]  
+Let’s set how assets line up with our simple Bond   $\&$   Stock [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
 •  Important : for our 2-asset example (B+S)  all  combinations are on e"cient frontier  
 
@@ -1797,7 +1797,7 @@ Let’s set how assets line up with our simple Bond   $\&$   Stock [[An Asset Al
 
 • All assets should line up:  $E R_{i}-\gamma=\beta_{i}\cdot(E R_{p}-\gamma)$   ↓  ·  ↓  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/93d67ff5d1444ad8a64b7218b777fe0d214172082f74b0cb34fc1a59f84ec2dd.jpg)  
+ ![500](Attachments/500-886.jpg)  
 
 Focus on   $80\%$   bonds, and let’s solve for    $\gamma$   – answer is    $\gamma=-5.55$  :  
 $$
@@ -1815,13 +1815,13 @@ $$
 $$
  90)  
 
-This matches with what we actually see in the market  $80\%$   Bonds: Solve for    $\gamma$  , Assets Line Up, But Does Not Match Market Security Market Line:    $E R_{i}-\gamma=\beta_{i}\left(E R_{p o r t}-\gamma\right)$  ,    $\gamma=-5.55\%$   Does not match Market! Actual [[An Asset Allocation Primer|Portfolio]]  
+This matches with what we actually see in the market  $80\%$   Bonds: Solve for    $\gamma$  , Assets Line Up, But Does Not Match Market Security Market Line:    $E R_{i}-\gamma=\beta_{i}\left(E R_{p o r t}-\gamma\right)$  ,    $\gamma=-5.55\%$   Does not match Market! Actual [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
 •  Useful for  total market  or total wealth • Care about return vs vol (SD) for  wealth • Individual securities lie inside frontier  
 
 • Tangency requires “rf”  $\backsimeq\!-5.55$  , Sharpe=1.37  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6ac8fe6a3a13a9633df61a177d5e0286ac1c64a6400d61563b5a6195b5f208aa.jpg)  
+ ![500](Attachments/500-872.jpg)  
 
 Actual Return /    $\beta$   (Security Market Line)  
 
@@ -1829,38 +1829,38 @@ Actual Return /    $\beta$   (Security Market Line)
 
 • Securities line up along straight line  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e7f11d52b295954d2ec241b797cbde675e4392c6f36d67081bfd81806384a3b8.jpg)  
+ ![500](Attachments/500-871.jpg)  
 
 What if there is    $\beta=0$   asset? Does this work?  
 $3.90-\gamma=0\left(E R_{p o r t}-\gamma\right)$  
 
 • What if we  force    $\gamma=3.90\%\mathrm{~-~}\mathrm{dofes}$   this work?  NO  
-$N O$  : wrong Bond   $\&$   Stock [[Assets|returns]]:   $80\%$   not market equilibrium (not highest Sharpe) [[An Asset Allocation Primer|Portfolio]] – line through  $\mathrm{rf}{=}3.90$   not tangent  
+$N O$  : wrong Bond   $\&$   Stock [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md):   $80\%$   not market equilibrium (not highest Sharpe) [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) – line through  $\mathrm{rf}{=}3.90$   not tangent  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6d0eb44771ef24663c6af420adac4f8990f2a1d558ed2c9fde9e7162d3c9f26e.jpg)  
+ ![500](Attachments/500-909.jpg)  
 
-Security Market Line – does not give actual [[Assets|returns]]  
+Security Market Line – does not give actual [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/56183a2d0f78618f3ff485996071346472c244a4743b0ccd9893213d76f4afef.jpg)  $\mathbf{20}\%$   Bonds: Solve for    $\gamma$  , Assets Line Up, But Does Not Match Market Security Market Line:    $E R_{i}-\gamma=\beta_{i}\left(E R_{p o r t}-\gamma\right)$  ,    $\gamma=4.48\%$   Does not match Market! Actual [[An Asset Allocation Primer|Portfolio]] does not line up with actual risk-free  
+ ![500](Attachments/500-815.jpg)  $\mathbf{20}\%$   Bonds: Solve for    $\gamma$  , Assets Line Up, But Does Not Match Market Security Market Line:    $E R_{i}-\gamma=\beta_{i}\left(E R_{p o r t}-\gamma\right)$  ,    $\gamma=4.48\%$   Does not match Market! Actual [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) does not line up with actual risk-free  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/48ee9e9f88b02e09826adbcdc5346b87ba03fe0d58d01bb9491be6172384903d.jpg)  
+ ![500](Attachments/500-874.jpg)  
 
 Actual Return /    $\beta$   (Security Market Line)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/571af9e6d72e077eb5b0e7e9fc32a0953ed08a6ec00998ea5c9317f86c468bd0.jpg)  
+ ![500](Attachments/500-840.jpg)  
 
 What if there is    $\beta=0$   asset? Does this work?  
 $3.90-\gamma=0\left(E R_{p o r t}-\gamma\right)$  
 
 • What if we  force    $\gamma=3.90\%$   – does this work?  NO  
-$N O$  : wrong Bond   $\&$   Stock [[Assets|returns]]:   $80\%$   not market equilibrium (not highest Sharpe) [[An Asset Allocation Primer|Portfolio]] – line through  $\mathrm{rf}{=}3.90$   not tangent  
+$N O$  : wrong Bond   $\&$   Stock [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md):   $80\%$   not market equilibrium (not highest Sharpe) [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) – line through  $\mathrm{rf}{=}3.90$   not tangent  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/68c589ce75036f79023dc1ebc5f146ff687e790944ec5b35afbb5c99bdd45d28.jpg)  
+ ![500](Attachments/500-874.jpg)  
 
-Security Market Line – does not give actual [[Assets|returns]]  
+Security Market Line – does not give actual [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/034d57d284c19954013bebcb7adaadd37f04e55b3604d8694e0f21390f3b7063.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/526e9a31cfc8bb1aa604975813ee231874e1aa796c9375ce35499d63551816b5.jpg)  
+ ![500](Attachments/500-873.jpg)  
+ ![500](Attachments/500-764.jpg)  
 
 #  ${\bf38.8\%}$   Bonds: Matches the Market – Market  Equilibrium  
 
@@ -1868,15 +1868,15 @@ Security Market Line:    $E R_{i}-\gamma=\beta_{i}\left(E R_{p o r t}-\gamma\rig
 
 • Our    $\gamma$   matches the market, and all assets line up on SML with    $\gamma=r_{f}=3.90$  
 
-Market  or Equilibrium [[An Asset Allocation Primer|Portfolio]]  
+Market  or Equilibrium [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
-•  [[An Asset Allocation Primer|Portfolio]] with highest Sharpe • Bond & Stock weights adjusted until  
+•  [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) with highest Sharpe • Bond & Stock weights adjusted until  
 
 • Individual securities lie inside frontier  
 
 • Tangency with rf=3.90  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e0f2511b324031a1912ed50322c47a01b8490cd75fec8e0ef1e875ed71edb324.jpg)  
+ ![500](Attachments/500-874.jpg)  
 
 Security Market Line  
 
@@ -1884,15 +1884,15 @@ Security Market Line
 
 • Securities line up along straight line  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/87d088c1178d393f4c6e416ab4dfbb231ca198ba68d1f980c0200def44eab52c.jpg)  
+ ![500](Attachments/500-875.jpg)  
 # Contents  
 
-Three Facts about    $\beta$   – Any Portfolios, E!cient [[An Asset Allocation Primer|Portfolio]], Market [[An Asset Allocation Primer|Portfolio]]  
+Three Facts about    $\beta$   – Any Portfolios, E!cient [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), Market [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
-1. For  any  [[An Asset Allocation Primer|portfolio]],    $\beta$   decomposes [[2. Forwards, Swaps, Futures, and Options|portfolio volatility]] 2. For any  e!cient  [[An Asset Allocation Primer|portfolio]], [[Some Stylized Empirical Facts About Asset Retur|asset returns]] line up along a    $\beta$   line for  some    $\gamma$  • If force    $\gamma=r f$   then line up with incorrect [[Some Stylized Empirical Facts About Asset Retur|asset returns]] 3. For  market  [[An Asset Allocation Primer|portfolio]], [[Some Stylized Empirical Facts About Asset Retur|asset returns]] line up along  Security Market Line  with [[Black Scholes Derivation|risk-free rate]]  
+1. For  any  [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md),    $\beta$   decomposes [portfolio volatility](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) 2. For any  e!cient  [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), [asset returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Some%20Stylized%20Empirical%20Facts%20About%20Asset%20Retur.md) line up along a    $\beta$   line for  some    $\gamma$  • If force    $\gamma=r f$   then line up with incorrect [asset returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Some%20Stylized%20Empirical%20Facts%20About%20Asset%20Retur.md) 3. For  market  [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), [asset returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Some%20Stylized%20Empirical%20Facts%20About%20Asset%20Retur.md) line up along  Security Market Line  with [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a08b86c01e3bb70d6e29cbf48874024e2f7a6e3a9a017d6719705a9e5da9798a.jpg)  
-[[2. Forwards, Swaps, Futures, and Options|Capital Asset Pricing Model]]:    $E R_{i}-r_{f}=\beta_{i}\left(E R_{m k t}-E r_{f}\right)$  Result:  For market [[An Asset Allocation Primer|portfolio]]  (what we actually see in the market)  we now know:  
+ ![500](Attachments/500-886.jpg)  
+[Capital Asset Pricing Model](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md):    $E R_{i}-r_{f}=\beta_{i}\left(E R_{m k t}-E r_{f}\right)$  Result:  For market [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  (what we actually see in the market)  we now know:  
 $$
 R P_{i}=\beta_{i}R P_{m k t}
 $$  
@@ -1905,12 +1905,12 @@ What we have been looking for : ER (risk premium) for any asset
 
 • CAPM gives us Risk Premium    $R P_{i}$  
 
-• To get risk-adjusted [[PSET 7- Kohler|discount rate]]:  
+• To get risk-adjusted [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md):  
 $$
 Y_{i}^{t o d a y}=r f^{t o d a y}+R P_{i}=r f^{t o d a y}+\beta_{i}\cdot R P_{m k t}
 $$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eb100d4f0c3b5f50e34a62cccea2d699facc1acd75572af19ba8d1d34c0b9477.jpg)  
+ ![500](Attachments/500-910.jpg)  
 
 # Using CAPM to get Risk-Adjusted Discount Rate  
 
@@ -1928,7 +1928,7 @@ $$
 R P_{i}=\beta_{i}\cdot R P_{m k t}
 $$  
 
-2. Use risk premium to calculate  today’s  risk-adjusted [[PSET 7- Kohler|discount rate]]:  
+2. Use risk premium to calculate  today’s  risk-adjusted [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md):  
 $$
 Y_{i}^{t o d a y}=r f^{t o d a y}+R P_{i}=r f^{t o d a y}+\beta_{i}\cdot R P_{m k t}
 $$  
@@ -1941,20 +1941,20 @@ $$
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b756f11ec70eabd9d0b37d323e3df0bdc52879a322d6fbf2ea1b3e5d346a6745.jpg)  
+ ![500](Attachments/500-891.jpg)  
 # Summary:    $\beta$   Measures Price of Risk (RiskPrem)  
 
-1. Sharpe: choose highest Sharpe for total overall (wealth) [[An Asset Allocation Primer|portfolio]]  
+1. Sharpe: choose highest Sharpe for total overall (wealth) [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
-• Result of using [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] • Separates preferences from market – Capital Market Line (CML) • Pushes everyone to same (“market”) [[An Asset Allocation Primer|portfolio]] – CML & separation  
+• Result of using [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) • Separates preferences from market – Capital Market Line (CML) • Pushes everyone to same (“market”) [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) – CML & separation  
 
-2. E"cient [[An Asset Allocation Primer|Portfolio]] ([[Exercises|mean-variance]] optimizing)  
+2. E"cient [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) ([mean-variance](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) optimizing)  
 
 • Divers i cation – vol at ili ties don’t add • Individual assets contribute based on    $\beta_{i}$   not    $\sigma_{i}$  • All assets have    $E R_{i}-\gamma=\beta_{i}\left(E R_{p o r t}-\gamma\right)$  
 
-3. [[2. Forwards, Swaps, Futures, and Options|Risk-free asset]]   $(\sigma=0)\to\mathrm{CPM}$  
+3. [Risk-free asset](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md)   $(\sigma=0)\to\mathrm{CPM}$  
 
-• Sets    $\gamma=r_{f}\Rightarrow E R_{i}-r_{f}=\beta_{i}\left(E R_{m k t}-r_{f}\right)$  • [[2. Forwards, Swaps, Futures, and Options|Capital Asset Pricing Model]] (CAPM) & Securities Market Line (SML)  
+• Sets    $\gamma=r_{f}\Rightarrow E R_{i}-r_{f}=\beta_{i}\left(E R_{m k t}-r_{f}\right)$  • [Capital Asset Pricing Model](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) (CAPM) & Securities Market Line (SML)  
 
 Result: CAPM  
 
@@ -1969,14 +1969,14 @@ $$
 
 • Decomposes asset return into “Systematic”   $(\beta_{i}\cdot\sigma_{p o r t})$   and “Idiosyncratic”   $\cdot\sigma_{\varepsilon}$  )  
 
-• Beta averages to 1 for market (average [[Chapter 5 - Index Futures|market risk]] 1.0) –  Betas range around 1: Citi=1.45, Apple=1.06, FIS=0.79  
+• Beta averages to 1 for market (average [market risk](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md) 1.0) –  Betas range around 1: Citi=1.45, Apple=1.06, FIS=0.79  
 
 # More Facts About Beta – Correlation with Portfolio  
 $$
 \beta_{1}=\frac{c o v(a s s e t\:1,\:m k t)}{\sigma_{m k t}^{2}}=\rho_{1m}\frac{\sigma_{1}}{\sigma_{m}}
 $$  
 
-Beta depends on correlation of asset with overall [[An Asset Allocation Primer|portfolio]]  
+Beta depends on correlation of asset with overall [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
 • High    $\rho\,\&\,\beta\ \Rightarrow$  contributes to overall risk    $\Rightarrow$  should get paid for taking risk –  Standard textbooks talk about high    $\beta\ \Rightarrow$  high  systematic  risk –  You get paid for taking on systematic risk but not  idiosyncratic  risk  
 
@@ -1989,13 +1989,13 @@ $$
 $$  
 # Contribution & Beta in Risk Management  
 
-Contribution & Beta used in Quantitative [[Financial Mathematics Course|Risk Management]] Goes by various names in various books • Measure [[2. Forwards, Swaps, Futures, and Options|Portfolio Volatility]] or Value at Risk (VaR)  
+Contribution & Beta used in Quantitative [Risk Management](../Financial%20Engineering/Financial%20Mathematics%20Course.md) Goes by various names in various books • Measure [Portfolio Volatility](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) or Value at Risk (VaR)  
 
 • Contribution (or    $\beta$  ): individual asset contribution to overall risk  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/35aa01d9b3d7acc70663105dc8f7ba4339a9d75115dd8bbbbd1cf46d4902c7a4.jpg)  
+ ![500](Attachments/500-911.jpg)  
 
-I found this the most useful measure in managing a hedge fund [[An Asset Allocation Primer|portfolio]]  
+I found this the most useful measure in managing a hedge fund [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
 # Beta (  $\beta$  ) as Regression  
 
@@ -2007,9 +2007,9 @@ Beta as regression coe"cient of asset    $i$   against market:    $r_{i}=a_{i}+\
 
 # Digression on Market-Weighted Index  
 
-For everything (CAPM, Security Market Line, Capital Market Line) “market” [[An Asset Allocation Primer|portfolio]] is critical • Hold only “market” plus risk-free  
+For everything (CAPM, Security Market Line, Capital Market Line) “market” [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is critical • Hold only “market” plus risk-free  
 
-• Need to measure [[Assets|returns]] ([[Assets|returns]] & vol) for “Market”  
+• Need to measure [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) ([returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) & vol) for “Market”  
 
 • Would like to include everything: stocks, bonds, real estate.  
 
@@ -2025,17 +2025,17 @@ $$
 • Return you would earn on the whole \$18.5tn of the stocks  
 # In-Class Exercise: Market-Weighted Index  
 
-[[An Asset Allocation Primer|Portfolio]] of 3 assets  
+[Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of 3 assets  
 
 • Citi, Apple, FIS  
 
-• Total number of shares and [[Chapter 16 - Black–Scholes Model|stock price]]  
+• Total number of shares and [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md)  
 
-• [[Price-to-Sales Ratios in Stock Valuation|Market capitalization]], value of all the equity:    $M k t C a p=N u m b e r S h a r e s\cdot P r i c e$  
+• [Market capitalization](../Advanced%20Financial%20Analysis%20and%20Valuation/Financial%20Ratios/Price-to-Sales%20Ratios%20in%20Stock%20Valuation.md), value of all the equity:    $M k t C a p=N u m b e r S h a r e s\cdot P r i c e$  
 
 •    $\begin{array}{r}{W e i g h t=\frac{F i r m\;C a p}{T o t a l\;C a p}\mathrm{~-~f~}}\end{array}$  – ﬁll in MktValue and Weights  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fa6f4f310c95f3fbb373330bfe25decf8033423a7ea33afd3bc0eca6776548ef.jpg)  
+ ![500](Attachments/500-885.jpg)  
 
 • You buy  all  of each: you hold   $17.7\%$   Citi,   $79.2\%$   Apple, FIS 2.9%  
 
@@ -2045,7 +2045,7 @@ $$
 
 # Market-Weighted Index as “Market”  
 
-S&P Index (weighted average of [[Assets|returns]]) measure what you would earn owning all of the 500 companies  
+S&P Index (weighted average of [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)) measure what you would earn owning all of the 500 companies  
 $$
 r_{S\&P}=\sum_{i}w_{i}r_{i}\quad w_{i}={\frac{c o m p a n y\;v a l u e}{t o t a l\;v a l u e\,o f\;S\&P}}
 $$  
@@ -2056,7 +2056,7 @@ In other words, measures return on the “market”
 
 Market indexes, all market-weighted:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/79ff9a4a655af37756c00341c26013df1acf6b40171e2bbca3f23f6ab2b9bcaf.jpg)  
+ ![500](Attachments/500-886.jpg)  
 
 Note: Dow-Jones Industrial (most widely-quoted), is  not  market-weighted – Equally-weighted  
 # Contents  
@@ -2065,7 +2065,7 @@ Note: Dow-Jones Industrial (most widely-quoted), is  not  market-weighted – Eq
 
 1. Investors care about variability   $\&$   return  
 
-2. Overall [[An Asset Allocation Primer|portfolio]]: volatility (  $\sigma$  ) sets price of overall risk  
+2. Overall [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md): volatility (  $\sigma$  ) sets price of overall risk  
 
 •    $E R_{i}$   (  $r_{i}$  ) vs    $r_{m}$   set by    $\beta_{i}$   & CAPM:  
 $$
@@ -2082,13 +2082,13 @@ CAPM gives us the  Equity Cost of Capital
 
 Beta measures systematic component (moves with S&P500) Investors only compensated for systematic, not idiosyncratic  
 
-• Idiosyncratic is the part that disappears in the [[An Asset Allocation Primer|portfolio]] • Not paid to take on what can be diversiﬁed away Beta does  not  say how much of ﬁrm volatility is systematic vs idiosyncratic • Doesn’t say  how volatile  ﬁrm is or  how much  of overall vol is left over  
+• Idiosyncratic is the part that disappears in the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) • Not paid to take on what can be diversiﬁed away Beta does  not  say how much of ﬁrm volatility is systematic vs idiosyncratic • Doesn’t say  how volatile  ﬁrm is or  how much  of overall vol is left over  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e4478720fff1e9d618ed2c69eedb03fc6418462b0eda8ac3bdfa70926c3c1a64.jpg)  
+ ![500](Attachments/500-887.jpg)  
 
 • Citi and Apple both high  total  vol, Citi moderate  idiosyncratic  vol –  Much of the Apple vol is idiosyncratic, can be diversiﬁed away –    $\beta$   moderate  
 
-Only  systematic  (beta) vol matters for [[Arbitrage Pricing of Derivatives|pricing]] risk  
+Only  systematic  (beta) vol matters for [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) risk  
 CAPM – Comparing Across Stocks:    $r_{i}-r_{f}=\beta_{i}\left(r_{m k t}-r_{f}\right)$  
 
 Some stocks have high vol & low beta (Newmont)  
@@ -2101,7 +2101,7 @@ Some stocks have high vol & low beta (Newmont)
 
 Beta matters – gives us the ExpRet & RiskPrem  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9677162ca6dce7855f351ee82bed86a2a7913091924389c0bfa01f08ff88b5e8.jpg)  
+ ![500](Attachments/500-886.jpg)  
 
 If you have current price and an estimate of future price & earnings, you can calculate expected earnings  
 
@@ -2111,7 +2111,7 @@ WACC: Weighted Average Cost of Capital Firm choosing whether to build a new plan
 
 • Estimates future CFs • Discounts back to calculate PV • Compare PV (of future CFs) vs cost today: Net PV  
 
-Need [[PSET 7- Kohler|discount rate]]: Calculate how much investors demand  
+Need [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md): Calculate how much investors demand  
 $$
 W A C C=\frac{D}{D+E}r_{D}+\frac{E}{D+E}r_{E}
 $$  
@@ -2120,17 +2120,17 @@ Need to get    $r_{D}\mathrm{~\&~}r_{E}$
 
 •    $r_{D}$   pretty easy: calculate yield from company bond •    $^{r}E$   from CAPM:    $r_{i}=r_{f}+\beta_{i}\left(r_{m k t}-r_{f}\right)$  
 
-The table is from Brealey, Myers, Allen Table 8.2 (as of January 2012) for Beta and [[Lecture 1- Probability Distributions of Returns|Expected return]], but also ?? table for standard deviation  
+The table is from Brealey, Myers, Allen Table 8.2 (as of January 2012) for Beta and [Expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md), but also ?? table for standard deviation  
 # 4.6 Calculating Beta  
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/923db9da9eeddae302995816e7f7c99210ce10e8566f5e7569d92a7a3c832128.jpg)  
+ ![500](Attachments/500-892.jpg)  
 
 Calculating Beta Easiest way - look them up (e.g. Yahoo Finance - “Key Statistics”) or Bloomberg (DES, HRA)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b0690573e3ef8be9b9c25a74cbe2485e061f29827e81c456f56fc3e52c3c88de.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f618fff773ab3eef77897af7022736e7080b9833dcc2eaf14a446c689470da12.jpg)  
+ ![500](Attachments/500-918.jpg)  
+ ![500](Attachments/500-923.jpg)  
 
 # 4.7 CAPM – Violations & Extensions  
 
@@ -2140,14 +2140,14 @@ Calculating Beta Easiest way - look them up (e.g. Yahoo Finance - “Key Statist
 
 1. Individual behavior  
 
-• Investors are rational, [[Exercises|mean-variance]] optimizers. • Their common planning horizon is a single period. • Investors all use identical input lists, an assumption often termed homogeneous [[FORWARD RATES AND TERM STRUCTURE|expectations]]. Homogeneous [[FORWARD RATES AND TERM STRUCTURE|expectations]] are consistent with the assumption that all relevant information is publicly available. 2. [[Market Structure and Size|Market structure]] • All assets are publicly held and trade on public exchanges. • Investors can borrow or lend at a common [[Black Scholes Derivation|risk-free rate]], and they can take short positions on traded securities. • No taxes. • No transaction costs. Clearly these do not all hold • CAPM will not hold – but excellent start  
+• Investors are rational, [mean-variance](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) optimizers. • Their common planning horizon is a single period. • Investors all use identical input lists, an assumption often termed homogeneous [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md). Homogeneous [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) are consistent with the assumption that all relevant information is publicly available. 2. [Market structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2010/Market%20Structure%20and%20Size.md) • All assets are publicly held and trade on public exchanges. • Investors can borrow or lend at a common [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md), and they can take short positions on traded securities. • No taxes. • No transaction costs. Clearly these do not all hold • CAPM will not hold – but excellent start  
 # Alternative Theories  
 
-We have assumed that only the “market” [[An Asset Allocation Primer|portfolio]] matters - most importantly that we have everything in the “market”  
+We have assumed that only the “market” [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) matters - most importantly that we have everything in the “market”  
 
-Generally not true Alternative – Three [[Pricing Factors in a One-Period Framework|Factor Model]]  
+Generally not true Alternative – Three [Factor Model](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Pricing%20Factors%20in%20a%20One-Period%20Framework.md)  
 
-• Identify macroeconomic factors that could a!ect stock [[Assets|returns]] • Estimate expected risk premium on each factor (  $r_{f a c t o r1}\textrm{--}r_{\mathrm{f}},$  , etc.) • Measure sensitivity of each stock to factors ( b1, b2, etc.) Expected Risk Prem  $\begin{array}{c}{{R e t u r n=a+\beta_{1}r_{f a c t o r1}+\beta_{2}r_{f a c t o r2}+\beta_{3}r_{f a c t o r3}+\varepsilon}}\\ {{{}}}\\ {{e c t e d\,R i s k\,P r e m=r-r_{f}+\beta_{1}\left(r_{f}-r_{f a c t o r1}\right)+\beta_{2}\left(r_{f}-r_{f a c t o r2}\right)+\beta_{3}\left(r_{f}-r_{f a c t o r3}\right)}}\end{array}$  
+• Identify macroeconomic factors that could a!ect stock [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) • Estimate expected risk premium on each factor (  $r_{f a c t o r1}\textrm{--}r_{\mathrm{f}},$  , etc.) • Measure sensitivity of each stock to factors ( b1, b2, etc.) Expected Risk Prem  $\begin{array}{c}{{R e t u r n=a+\beta_{1}r_{f a c t o r1}+\beta_{2}r_{f a c t o r2}+\beta_{3}r_{f a c t o r3}+\varepsilon}}\\ {{{}}}\\ {{e c t e d\,R i s k\,P r e m=r-r_{f}+\beta_{1}\left(r_{f}-r_{f a c t o r1}\right)+\beta_{2}\left(r_{f}-r_{f a c t o r2}\right)+\beta_{3}\left(r_{f}-r_{f a c t o r3}\right)}}\end{array}$  
 
 We will, however, stick with single-factor CAPM  
 # Price of Risk I – Portfolios, Sharpe, Beta, Contribution  
@@ -2156,11 +2156,11 @@ Lecture 14
 
 Thomas S. Coleman 3 May 2023; Draft May 8, 2023  
 
-Contents 1 Uncertainty, Risk, and Risk Premium 1 2 Uncertainty, Distributions, and Portfolios 3 3 [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] and Sharpe Ratio – Risk Adjusted Return 5 3.1 Sharpe Ratio: Risk-Return Relationship and Risk-Adjusted Return . . . . . . . . . 5 3.2 Using Sharpe – Comparing Bonds vs Equities . . . . . . . . . . . . . . . . . . . . . 8 4 Combining Risky Assets in Portfolios – Divers i cation 10 4.1 Bonds & Stocks – Changing Correlation . . . . . . . . . . . . . . . . . . . . . . . . 10 4.2 Bonds & Stocks – Changing Weights – Divers i cation . . . . . . . . . . . . . . . . 13 4.3 Building Frontier – E!cient Frontier & Quadratic Optimization . . . . . . . . . . . 15 5 Overall [[Chapter 5 - Index Futures|Market Risk]] Premium 20 5.1 Remember – Get Risk Premium, Work with Distribution . . . . . . . . . . . . . . 20 5.2 Straightforward Theory – Indi"erence Curves & Budget Line . . . . . . . . . . . . 22 5.3 Digression on Historical [[Assets|Returns]], Arithmetic vs Geometric Average . . . . . . . . . 23 5.4 Equity Risk Premium From History . . . . . . . . . . . . . . . . . . . . . . . . . . 27  
+Contents 1 Uncertainty, Risk, and Risk Premium 1 2 Uncertainty, Distributions, and Portfolios 3 3 [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) and Sharpe Ratio – Risk Adjusted Return 5 3.1 Sharpe Ratio: Risk-Return Relationship and Risk-Adjusted Return . . . . . . . . . 5 3.2 Using Sharpe – Comparing Bonds vs Equities . . . . . . . . . . . . . . . . . . . . . 8 4 Combining Risky Assets in Portfolios – Divers i cation 10 4.1 Bonds & Stocks – Changing Correlation . . . . . . . . . . . . . . . . . . . . . . . . 10 4.2 Bonds & Stocks – Changing Weights – Divers i cation . . . . . . . . . . . . . . . . 13 4.3 Building Frontier – E!cient Frontier & Quadratic Optimization . . . . . . . . . . . 15 5 Overall [Market Risk](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md) Premium 20 5.1 Remember – Get Risk Premium, Work with Distribution . . . . . . . . . . . . . . 20 5.2 Straightforward Theory – Indi"erence Curves & Budget Line . . . . . . . . . . . . 22 5.3 Digression on Historical [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md), Arithmetic vs Geometric Average . . . . . . . . . 23 5.4 Equity Risk Premium From History . . . . . . . . . . . . . . . . . . . . . . . . . . 27  
 
 # 1 Uncertainty, Risk, and Risk Premium  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f51dffe679137c2ac02bad57da0c0e5e35dd5985ba4793811878bb7a5a6a3063.jpg)  
+ ![500](Attachments/500-892.jpg)  
 Our Goal: Get Risk Premium  
 
 Get Risk Premium for  Bonds ,  Overall Market ,  Individual Stocks Bonds : Complicated theory, Easy Calculations  
@@ -2169,7 +2169,7 @@ Get Risk Premium for  Bonds ,  Overall Market ,  Individual Stocks Bonds : Compl
 
 Overall Market  and  Individual Stocks : di!cult – need new theory Overall Market : Simple theory, Straightforward Calculation  
 
-• Theory: Simple Indi"erence Curves, Budget “Line” • Calculations: Use history to estimate    $\mathit{\Delta}^{\mathit{T D}}$  Individual Stocks : Complicated Theory, Calculations • Theory: How individual asset ﬁts into  overall market [[An Asset Allocation Primer|portfolio]] • Calculations: CAPM and beta (  $\beta$  ) to estimate    $\mathit{\Delta}^{\mathit{r p}}$  
+• Theory: Simple Indi"erence Curves, Budget “Line” • Calculations: Use history to estimate    $\mathit{\Delta}^{\mathit{T D}}$  Individual Stocks : Complicated Theory, Calculations • Theory: How individual asset ﬁts into  overall market [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) • Calculations: CAPM and beta (  $\beta$  ) to estimate    $\mathit{\Delta}^{\mathit{r p}}$  
 
 # What Is Uncertainty? What is Risk? What is Risk Premium? Uncertainty : the spread of cash ﬂows, the  cause  of risk  
 
@@ -2177,30 +2177,30 @@ Overall Market  and  Individual Stocks : di!cult – need new theory Overall Mar
 
 • Spread, often summarized by Standard Deviation  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/05fd58acc0c32d8541ff683d38d5dc340e292b8276611eaa1c770462f176708a.jpg)  
+ ![500](Attachments/500-911.jpg)  
 
 Risk : the  price  or value we assign to the Uncertainty • Di"erence in PV between  certain  and  uncertain  CFs Risk Premium : standard   $\&$   simple method converting uncertain CFs into PV • Looks like regular discounting:    $\begin{array}{r}{P V={\frac{E x p e c t e d\;C F}{1+r f+r p}}}\end{array}$  
 
-Tools We Need for Individual Stocks – [[A Brief History of Investment Thought|Portfolio Theory]] [[An Asset Allocation Primer|Portfolio]] : What is a [[An Asset Allocation Primer|portfolio]]?  
+Tools We Need for Individual Stocks – [Portfolio Theory](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2011%20-%20Individual%20Investors-A%20Survey%20of%20Modern%20Investment%20Theory/A%20Brief%20History%20of%20Investment%20Thought.md) [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) : What is a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)?  
 
-Combining Assets : How assets combine in a [[An Asset Allocation Primer|portfolio]]  
+Combining Assets : How assets combine in a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
-• [[Assets|Returns]] add or average • Standard Deviations (  $\sigma$  ) do not add or average • Divers i cation • E!cient Frontier  
+• [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) add or average • Standard Deviations (  $\sigma$  ) do not add or average • Divers i cation • E!cient Frontier  
 
-Beta (  $\beta$  )  and  Contribution : How an asset contributes to standard deviation (  $\sigma$  ) [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]  and  Sharpe Ratio :  
+Beta (  $\beta$  )  and  Contribution : How an asset contributes to standard deviation (  $\sigma$  ) [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)  and  Sharpe Ratio :  
 # 2 Uncertainty, Distributions, and Portfolios  
 
 # Contents  
 
-Start Working with Probability   $\&$   Distributions So far avoided working directly with uncertainty   $\&$   distributions • Always in background, determining the risk premium • We have used the market to get risk premium:    $\begin{array}{r}{P V={\frac{E x p e c t e d\;C F}{1+r f+r p}}}\end{array}$  Now: work directly with  Distribution : the uncertainty of cash ﬂows / [[Assets|returns]] • Future distribution of cash ﬂows or [[Assets|returns]] is our fundamental tool • The distribution (uncertainty) will produce  price of risk • Often summarize with  mean  and  standard deviation  – but only summaries  
+Start Working with Probability   $\&$   Distributions So far avoided working directly with uncertainty   $\&$   distributions • Always in background, determining the risk premium • We have used the market to get risk premium:    $\begin{array}{r}{P V={\frac{E x p e c t e d\;C F}{1+r f+r p}}}\end{array}$  Now: work directly with  Distribution : the uncertainty of cash ﬂows / [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) • Future distribution of cash ﬂows or [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) is our fundamental tool • The distribution (uncertainty) will produce  price of risk • Often summarize with  mean  and  standard deviation  – but only summaries  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f3fde2a1aa7444b112546eb31add0a2ff55daba275c1cdf60fb67ce133567dfd.jpg)  
+ ![500](Attachments/500-911.jpg)  
 
 # Working with Distributions: Mean and Volatility  
 
 • Horizontal: CF or return in future • Vertical: probability or likelihood –  Technically: picture is density  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1e285e51d57bf58e77f146962391ee0f82a92aaf8beecc235eb560d628b09afc.jpg)  
+ ![500](Attachments/500-877.jpg)  
 
 We (almost always) work with mean ( µ or  $X$  ) and standard deviation   $(\sigma)$  
 
@@ -2213,13 +2213,13 @@ Often work with Normal Distribution
 But we care about the whole distribution (not just    $\mu\,\&\,\sigma$  )  
 # Portfolio: Mean, Volatility, and Correlation  
 
-[[An Asset Allocation Primer|Portfolio]]:  
+[Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md):  
 
 • Take   $\S100$  , invest across two assets,  A  &    $B$  • If put \$30 in    $A$  , then call the weight or fraction    $w_{A}(=\!0.3)$  
 
 # Single Asset  A  
 
-Using period-by-period [[Assets|returns]] to calculate historical [[Assets|returns]]  
+Using period-by-period [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to calculate historical [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
 $$
 \mu_{A}=\frac{1}{n}\sum_{i=1}^{n}\tilde{R}_{i}
 $$  
@@ -2227,7 +2227,7 @@ $$
 \sigma_{A}=\sqrt{\frac{1}{n-1}\sum_{i=1}^{n}\left[\tilde{R}_{i}-\mu_{A}\right]^{2}}
 $$  
 
-Combining two (or more) assets into a [[An Asset Allocation Primer|portfolio]]  
+Combining two (or more) assets into a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
 ·  · $$
 \mu_{P}=w_{A}\cdot\mu_{A}+w_{B}\cdot\mu_{B}
@@ -2236,7 +2236,7 @@ $$
 \sigma_{P}=\sqrt{w_{A}^{2}\sigma_{A}^{2}+2w_{A}w_{B}\rho_{A B}\sigma_{A}\sigma_{B}+w_{B}^{2}\sigma_{B}^{2}}
 $$  
 
-Correlation : do [[Assets|returns]] for    $A$   and    $B$   move together? –1=always opposite, +1=always same  
+Correlation : do [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) for    $A$   and    $B$   move together? –1=always opposite, +1=always same  
 $$
 \rho=\frac{\sum_{i=1}^{n}\left(\tilde{R}_{A i}-\mu_{A}\right)\left(\tilde{R}_{B i}-\mu_{B}\right)}{\sqrt{\sum_{i=1}^{n}\left[\tilde{R}_{A i}-\mu_{A}\right]^{2}}\sqrt{\sum_{i=1}^{n}\left[\tilde{R}_{B i}-\mu_{B}\right]^{2}}}
 $$  
@@ -2244,7 +2244,7 @@ $$
 
 3.1 Sharpe Ratio: Risk-Return Relationship and Risk-Adjusted Return Contents  
 
-Using [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] to Create Any Return Discuss how we can use  [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]  to create any return we want • [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] is making a  [[An Asset Allocation Primer|portfolio]]  by combining a  risky  asset with  riskless  borrowing or lending • Risky Asset: uncertainty in CF, volatility    $\sigma$  • Riskless Asset: known CF, zero volatility • [[An Asset Allocation Primer|Portfolio]] weight    $w$   held in risky asset (  $w$  =1 means hold only risky,    $w{=}0$   means hold no risky) Example: You have   $\S100$  , and can also borrow • Example 1: use your   $\S{100}$   to buy   $\S100$   of S&P index (risky) –    $w=1$  –  Zero [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]], no borrowing • Example 2: use your   $\S{100}$   plus  borrow another   $\S100$  , to buy   $\S100\,+\,\S100$   of S&P index –    $w=2$  –    $100\%$   [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]], borrowing equal to [[An Asset Allocation Primer|investment]] (equity)  
+Using [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) to Create Any Return Discuss how we can use  [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)  to create any return we want • [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) is making a  [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  by combining a  risky  asset with  riskless  borrowing or lending • Risky Asset: uncertainty in CF, volatility    $\sigma$  • Riskless Asset: known CF, zero volatility • [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) weight    $w$   held in risky asset (  $w$  =1 means hold only risky,    $w{=}0$   means hold no risky) Example: You have   $\S100$  , and can also borrow • Example 1: use your   $\S{100}$   to buy   $\S100$   of S&P index (risky) –    $w=1$  –  Zero [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md), no borrowing • Example 2: use your   $\S{100}$   plus  borrow another   $\S100$  , to buy   $\S100\,+\,\S100$   of S&P index –    $w=2$  –    $100\%$   [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md), borrowing equal to [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) (equity)  
 
 •    $w=1$  :   $\S100$   risky,   $\S0$   riskless,  $\mu_{p}=\mu_{r f}+1\cdot(\mu_{x}-\mu_{r f})=\mu_{x},\,\mathrm{vol}\,\,1\cdot\sigma_{x}$  •    $w=2$  :   $\S200$   risky, borrow   $\S100$  ,    $\mu_{p}=\mu_{r f}+2\cdot\left(\mu_{x}-\mu_{r f}\right)=2\mu_{x}-\mu_{r f}.$  , vol    $2\cdot\sigma_{x}$  •    $w=0$  :   $\S0$   risky,   $\S100$   riskless,    $\mu_{p}=\mu_{r f}+0\cdot(\mu_{x}-\mu_{r f})=\mu_{r f}$  , vol    $0\cdot\sigma_{x}$  
 
@@ -2252,13 +2252,13 @@ Say    $\mu_{x}=5.4\%$  , vol    $\sigma_{x}=8.9\%$  , risk-free    $\mu_{r f}=3
 $\bullet$     $w=1$  :   $\S100$   risky, earn 3.9+1(5.4-3.9)=5.4%, vol    $1\sigma_{x}=8.9\%$  •    $w=2$  :   $\S200$   risky, borrow   $\S100$  , earn 3.9+2(5.4-3.9)=6.9%, vol    $2\sigma_{x}=17.8\%$   $\bullet$     $w=0$  : \$0 risky,   $\S100$   riskless, earn 3.9+0(5.4-3.9)=3.9%, vol    $0\sigma_{x}=0$  
 # How to Describe Leverage, Return, Volatility   $-$   William Sharpe’s Ratio  
 
-[[An Asset Allocation Primer|Portfolio]] Return:    $\mu_{p}=\mu_{r f}+\boldsymbol{w}\cdot\left(\mu_{x}-\mu_{r f}\right)$  [[2. Forwards, Swaps, Futures, and Options|Portfolio Volatility]]:    $\sigma_{p}=\boldsymbol{w}\cdot\sigma_{x}$  
+[Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Return:    $\mu_{p}=\mu_{r f}+\boldsymbol{w}\cdot\left(\mu_{x}-\mu_{r f}\right)$  [Portfolio Volatility](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md):    $\sigma_{p}=\boldsymbol{w}\cdot\sigma_{x}$  
 
 Is there a simple way to write this, a simple statistic that summarizes return-vs-volatility relationship?  
 
 • Yes,  Sharpe Ratio , introduced by William Sharpe  
 
-Write [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]]    $w=\sigma_{p}\big/\sigma_{w}$  , and then return is:  
+Write [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)    $w=\sigma_{p}\big/\sigma_{w}$  , and then return is:  
 $$
 \begin{array}{r}{\mu_{p}=\mu_{r f}+w\cdot(\mu_{x}-\mu_{r f});\quad\mu_{p}=\mu_{r f}+\sigma_{p}\cdot\frac{(\mu_{x}-\mu_{r f})}{\sigma_{x}}}\end{array}
 $$  
@@ -2270,7 +2270,7 @@ $$
 
 # Sharpe Ratio – Risk-Return Relation   $\&$   Risk-Adjusted Return  
 
-[[An Asset Allocation Primer|Portfolio]] Return:    $\mu_{p}=\mu_{r f}+\sigma_{p}\cdot S_{x}$  Sharpe Ratio:    $\begin{array}{r}{S_{x}=\frac{(\mu_{x}-\mu_{r f})}{\sigma_{x}}}\end{array}$  
+[Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Return:    $\mu_{p}=\mu_{r f}+\sigma_{p}\cdot S_{x}$  Sharpe Ratio:    $\begin{array}{r}{S_{x}=\frac{(\mu_{x}-\mu_{r f})}{\sigma_{x}}}\end{array}$  
 
 · $$
 \sigma_{p}=\boldsymbol{w}\cdot\sigma_{x}
@@ -2288,7 +2288,7 @@ Sharpe ratio measures  risk-adjusted return
 
 Sharpe describes Ret vs vol line  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/950ad0e6c4d7d245c0884e9295f250cd80bf9981a6d9aff8e22ba5492a01bba7.jpg)  
+ ![500](Attachments/500-879.jpg)  
 # Sharpe Ratio Example  
 
 Combine two assets:  
@@ -2306,37 +2306,37 @@ $,\mathrm{~w=1,}v o l=1^{*}8.9,\mathrm{~R=3.9+8.9^{*}0.169{=5.4}~}$   $\mathrm{w
 
 Sharpe gives slope of risk-return liine  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7ce826e11047bcf559b2c6c6621a1956ec914add958379f8fafa4cff5e436b65.jpg)  
+ ![500](Attachments/500-775.jpg)  
 
 # Debt, Equity, Assets, and Leverage  
 
-Assets  – Total of the [[An Asset Allocation Primer|portfolio]], all assets, the overall vale of the [[An Asset Allocation Primer|portfolio]] Equity  – What owners put in, original [[An Asset Allocation Primer|investment]]  
+Assets  – Total of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), all assets, the overall vale of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Equity  – What owners put in, original [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
 Debt  – Borrowings, what owners borrow Owners can choose to borrow (issue debt) – choose  Debt / Equity  ratio  
 
-• Split overall  Assets  into  Debt  (borrowings) versus  Equity  (original [[An Asset Allocation Primer|investment]])  
+• Split overall  Assets  into  Debt  (borrowings) versus  Equity  (original [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md))  
 
 # Important Concepts  
 
-Percent Debt Debt-to-Equity [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] %[[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]  $\begin{array}{r}{\%D=\frac{D}{A}=\frac{D}{D+E}}\end{array}$   $\begin{array}{r}{\frac{D}{E}=\frac{\%D}{1-\%D}}\end{array}$   $\begin{array}{r}{\frac{A s s e t s}{E}=\frac{A}{E}=\frac{1}{1-\%D}}\end{array}$  → Examples 0% 0 or   $0\%$  1 or 1-to-1 50% 1 or   $100\%$  2 or 2-to-1 80% 4 or   $400\%$  5 or 5-to-1  
-[[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] & Sharpe Formulae – Summary – Repeated [[An Asset Allocation Primer|Portfolio]] Combining “Risky” and “Riskless” assets: •  Risky  asset X, return    $\mu_{x}$  , vol    $\sigma_{x}$  •  “Riskless”  asset (borrow   $\&$   lend), return   , vol    $\sigma=0$   $\mu_{r f}$  [[An Asset Allocation Primer|Portfolio]] Return  (weights    $w,\,1-w)$  ): •  µ  $\mu_{p}=w\cdot\mu_{x}+(1-w)\cdot\mu_{r f}=\mu_{r f}+w\cdot\left(\mu_{x}-\mu_{r f}\right)$  •  V ol  $V o l=\sigma_{p}=w\cdot\sigma_{x}$  [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] : Usually think    $0<w<1$  , but allow  [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]]    $w>1$  [[An Asset Allocation Primer|Portfolio]] Return vs Vol : If want to  choose  a vol    $\sigma_{p}$  , choose    $\sigma_{p}=\boldsymbol{w}\cdot\sigma_{x}$   or    $\begin{array}{r}{w=\frac{\sigma_{p}}{\sigma_{x}}}\end{array}$  • Choose  any  vol    $\sigma_{p}=\boldsymbol{w}\cdot\sigma_{x}$   by choosing    $\begin{array}{r}{w=\frac{\sigma_{p}}{\sigma_{x}}}\end{array}$    ,    $0<w$  •  µ  $\mu_{p}=\mu_{r f}+w\cdot(\mu_{x}-\mu_{r f})=\mu_{r f}+\sigma_{p}\cdot S_{x}$  Sharpe Ratio : Deﬁne    $\begin{array}{r}{S_{x}=\frac{(\mu_{x}-\mu_{r f})}{\sigma_{x}}}\end{array}$  
+Percent Debt Debt-to-Equity [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) %[Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)  $\begin{array}{r}{\%D=\frac{D}{A}=\frac{D}{D+E}}\end{array}$   $\begin{array}{r}{\frac{D}{E}=\frac{\%D}{1-\%D}}\end{array}$   $\begin{array}{r}{\frac{A s s e t s}{E}=\frac{A}{E}=\frac{1}{1-\%D}}\end{array}$  → Examples 0% 0 or   $0\%$  1 or 1-to-1 50% 1 or   $100\%$  2 or 2-to-1 80% 4 or   $400\%$  5 or 5-to-1  
+[Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) & Sharpe Formulae – Summary – Repeated [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Combining “Risky” and “Riskless” assets: •  Risky  asset X, return    $\mu_{x}$  , vol    $\sigma_{x}$  •  “Riskless”  asset (borrow   $\&$   lend), return   , vol    $\sigma=0$   $\mu_{r f}$  [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Return  (weights    $w,\,1-w)$  ): •  µ  $\mu_{p}=w\cdot\mu_{x}+(1-w)\cdot\mu_{r f}=\mu_{r f}+w\cdot\left(\mu_{x}-\mu_{r f}\right)$  •  V ol  $V o l=\sigma_{p}=w\cdot\sigma_{x}$  [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) : Usually think    $0<w<1$  , but allow  [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)    $w>1$  [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Return vs Vol : If want to  choose  a vol    $\sigma_{p}$  , choose    $\sigma_{p}=\boldsymbol{w}\cdot\sigma_{x}$   or    $\begin{array}{r}{w=\frac{\sigma_{p}}{\sigma_{x}}}\end{array}$  • Choose  any  vol    $\sigma_{p}=\boldsymbol{w}\cdot\sigma_{x}$   by choosing    $\begin{array}{r}{w=\frac{\sigma_{p}}{\sigma_{x}}}\end{array}$    ,    $0<w$  •  µ  $\mu_{p}=\mu_{r f}+w\cdot(\mu_{x}-\mu_{r f})=\mu_{r f}+\sigma_{p}\cdot S_{x}$  Sharpe Ratio : Deﬁne    $\begin{array}{r}{S_{x}=\frac{(\mu_{x}-\mu_{r f})}{\sigma_{x}}}\end{array}$  
 
 # 3.2 Using Sharpe – Comparing Bonds vs Equities  
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/480d305819bf3681f5515e323ef8b62f5013e2013d3fd7bb6aa2998ddb906eb3.jpg)  
+ ![500](Attachments/500-892.jpg)  
 
-It would be a mistake to think that because stocks have the higher Sharpe you should only buy stocks. It is true that if you had to buy only one or the other, stocks would be the best choice. But combining the two together you can get a higher Sharpe. For example, if the correlation between them were 0, a   $50/50$   [[An Asset Allocation Primer|portfolio]] would have a return of   $8.35\%$   and volatility of   $10.95\%$  . This gives a  $\mathrm{charge}=(8.35–3.9)/10.95=0.41$  .  
+It would be a mistake to think that because stocks have the higher Sharpe you should only buy stocks. It is true that if you had to buy only one or the other, stocks would be the best choice. But combining the two together you can get a higher Sharpe. For example, if the correlation between them were 0, a   $50/50$   [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) would have a return of   $8.35\%$   and volatility of   $10.95\%$  . This gives a  $\mathrm{charge}=(8.35–3.9)/10.95=0.41$  .  
 # Sharpe Widely Used – Part-Way to Measuring Risk  
 
-Sharpe ratio and [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] idea incredibly useful and powerful  
+Sharpe ratio and [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) idea incredibly useful and powerful  
 
 • Considers risk-return trade-o"  
 
-• But not yet correct measure for “Risk” (that will be    $\beta$   (beta) or contribution to [[An Asset Allocation Primer|portfolio]] risk)  
+• But not yet correct measure for “Risk” (that will be    $\beta$   (beta) or contribution to [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) risk)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/76989fde2bc99a7829d39a2d2954b2c18a47235c5222dba1aa6eb13f9125ce61.jpg)  
+ ![500](Attachments/500-879.jpg)  
 
 Tells us that Stocks  look  more risky, but in a real sense  less  risky.  
 
@@ -2348,25 +2348,25 @@ But why invest in bonds at all?
 
 • Absolute risk (vol, standard deviation) is not the measure we need for risk  
 
-Correlation matters – how an asset contributes to [[An Asset Allocation Primer|portfolio]] vol  
+Correlation matters – how an asset contributes to [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) vol  
 # 4 Combining Risky Assets in Portfolios – Divers i cation  
 
 4.1 Bonds & Stocks – Changing Correlation  
 
 Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d5038122e6ab76e735464a2e83a333d372d63612857ad3fbaba8cabe584b7c93.jpg)  
+ ![500](Attachments/500-924.jpg)  
 # Divers i cation When Correlation Changes  
 
-From BMA Table 7.1 & p 170. Look at  [[An Asset Allocation Primer|Portfolio]] : Combination of Bond & Stock  
+From BMA Table 7.1 & p 170. Look at  [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) : Combination of Bond & Stock  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/11ed6418f248880e2700c30b6467613b86efa13044fc0040203fa45a865846f1.jpg)  
+ ![500](Attachments/500-888.jpg)  
 
-[[An Asset Allocation Primer|Portfolio]] Return: half-way between Bond & Stock  
+[Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Return: half-way between Bond & Stock  
 
 •    $E(R)=w_{1}\cdot\mu_{1}+w_{2}\cdot\mu_{2}$  • Each contributes weight   $(w\,o r\,{1\mathord{\left/{\vphantom{12}}\right.\kern-\nulldelimiterspace}2})$  )  
 
-[[2. Forwards, Swaps, Futures, and Options|Portfolio Volatility]] (Standard Deviation,    $O$  ): less than half-way  
+[Portfolio Volatility](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) (Standard Deviation,    $O$  ): less than half-way  
 
 • Except for correlation  $=1.0$  •    $\sigma=\sqrt{w_{1}^{2}\cdot\sigma_{1}^{2}+2\cdot\rho\cdot w_{1}\cdot\sigma_{1}\cdot w_{2}\cdot\sigma_{2}+w_{2}^{2}\cdot\sigma_{2}^{2}}$  !    ·  ·  ·  
 
@@ -2376,22 +2376,22 @@ As correlation    $\rho\downarrow$  volatility    $\sigma\downarrow$  divers i c
 
 • With    $\rho=0.7$   volatility down below average: less than   $14.5\%$  • With    $\rho=0.0$   volatility lower still but return same – Sharpe up • With    $\rho=-0.7$   volatility  lower  than bonds – Sharpe high  
 
-Divers i cation lowers [[An Asset Allocation Primer|portfolio]] vol – one of most important results in ﬁnance  
+Divers i cation lowers [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) vol – one of most important results in ﬁnance  
 
 # Vol at ili ties Do Not Add – Bonds   $^+$   Stocks = Lower Vol  
 
-From BMA Table 7.1 & p 170. Look at  [[An Asset Allocation Primer|Portfolio]] : Combination of Bond & Stock  
+From BMA Table 7.1 & p 170. Look at  [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) : Combination of Bond & Stock  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2533df10a014d88b55578a0ac9b0c598b396df5ddf7fc03644dd67ac6d89b51f.jpg)  
+ ![500](Attachments/500-888.jpg)  
 
-[[2. Forwards, Swaps, Futures, and Options|Portfolio Volatility]] (Standard Deviation,    $\sigma$  ): less than half-way  
+[Portfolio Volatility](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) (Standard Deviation,    $\sigma$  ): less than half-way  
 
 • Except for   $\mathrm{correlation}=1.0$  •    $\sigma=\sqrt{w_{1}^{2}\cdot\sigma_{1}^{2}+2\cdot\rho\cdot w_{1}\cdot\sigma_{1}\cdot w_{2}\cdot\sigma_{2}+w_{2}^{2}\cdot\sigma_{2}^{2}}$  !    ·  ·  ·   • They don’t contribute their weight  
 
 DIVERSIFICATION: combining assets gives better risk-return: higher Sharpe  
 # 4.2 Bonds & Stocks – Changing Weights – Divers i cation Contents  
 
-[[2. Forwards, Swaps, Futures, and Options|Portfolio Volatility]] (Standard Deviation,    $\sigma$  ):  not  linearly between  
+[Portfolio Volatility](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) (Standard Deviation,    $\sigma$  ):  not  linearly between  
 $\sigma_{p}=\sqrt{w_{1}^{2}\cdot\sigma_{1}^{2}+2\cdot\rho\cdot w_{1}\cdot\sigma_{1}\cdot w_{2}\cdot\sigma_{2}+w_{2}^{2}\cdot\sigma_{2}^{2}}$  !  
 
 • Bond & Stock don’t contribute their weight    $w_{i}$  
@@ -2413,33 +2413,33 @@ Cannot  look at stock vol (  $\dot{}\sigma_{s t o c k}$  )  alone – contributi
 • Stocks high vol (20%) but reduces vol for    $\%$   Bonds, Sharpe highest   2 / 10  
 # Important Lessons:  Divers i cation ,  Contribution ,  Frontier  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/add33997e84ffd49e0c65f5d456dd831fcebf6bc7da4c54587b0fa73bd75adfd.jpg)  
+ ![500](Attachments/500-888.jpg)  
 
-Lesson 1:  Divers i cation : [[2. Forwards, Swaps, Futures, and Options|Portfolio Volatility]] (Standard Deviation,    $\sigma$  ):  
+Lesson 1:  Divers i cation : [Portfolio Volatility](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) (Standard Deviation,    $\sigma$  ):  
 $$
 \sigma_{p}=\sqrt{w_{1}^{2}\cdot\sigma_{1}^{2}+2\cdot\rho\cdot w_{1}\cdot\sigma_{1}\cdot w_{2}\cdot\sigma_{2}+w_{2}^{2}\cdot\sigma_{2}^{2}}
 $$  
 
 Vol  not  linearly between bond   $\&$   stock vols  
 
-• Bond & Stock don’t contribute their weight    $w_{i}$  • [[An Asset Allocation Primer|Portfolio]] vol  always  less than “Avg”, unless    $\rho=+1$  •  Free Lunch : combine assets and get lower vol, higher Sharpe  
+• Bond & Stock don’t contribute their weight    $w_{i}$  • [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) vol  always  less than “Avg”, unless    $\rho=+1$  •  Free Lunch : combine assets and get lower vol, higher Sharpe  
 
 contribution matters, not vol :    $\sigma_{p o r t}=[w_{1}\beta_{1}+\beta_{2}w_{2}]\cdot\sigma_{p o r t}$  
 
-• Stocks are high vol   $(20\%$  ) but reduce [[An Asset Allocation Primer|portfolio]] vol   ${\left(10\middle/10\rightarrow\%\right/}10$   bonds) • Stock contribution   $(\beta_{s t o c k})$  ), not stock vol   $(\sigma_{s t o c k})$   matters  
+• Stocks are high vol   $(20\%$  ) but reduce [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) vol   ${\left(10\middle/10\rightarrow\%\right/}10$   bonds) • Stock contribution   $(\beta_{s t o c k})$  ), not stock vol   $(\sigma_{s t o c k})$   matters  
 
 • Need to learn about contribution   $(\beta_{s t o c k})$  
 
-Lesson 3: [[An Asset Allocation Primer|Portfolio]]  frontier curved like picture  
+Lesson 3: [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  frontier curved like picture  
 
 • Curved – at left may be return  $\uparrow\&$   vol    $\downarrow$  
 
 • General picture for combining assets  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/50fcf8cdb8e5b4b5af52b7419ef31e9708e2396bddc06f36426423b3873b1d06.jpg)  
+ ![500](Attachments/500-880.jpg)  
 # 4.3 Building Frontier – E!cient Frontier & Quadratic Optimization Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5e610ab5c8c01f704b7783f68c899ec32339bbbc19ccfaca0b2ea97523900790.jpg)  
+ ![500](Attachments/500-889.jpg)  
 # Three Assets – Start Ruling Out Some Portfolios  
 
 Consider only 1&2, 2&3 (not 1&3)  
@@ -2453,21 +2453,21 @@ $-$     $\mu_{1}$  ,   $\mu_{2}$  ,   $\mu_{3}$   are 5%, 10%, 15% –  Vol at i
 
 • Starting to build possible portfolios  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b9319bb12be25be7c2583c60c961838279b7ade2acf352e56059880515bb7754.jpg)  
+ ![500](Attachments/500-917.jpg)  
 # Three Assets – Ruling Out Some Portfolios  
 
 Now: Consider 1&2, 2&3, 1&3 • Pictures shows we rule out more & more • Rule out red, portfolios that are “ine!cient”  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/662d96acfe2984dda2f54377df7336677cba8bbd66b057b30781eee1ba7792c0.jpg)  
+ ![500](Attachments/500-881.jpg)  
 
 Starting to build possible portfolios – “E!cient Frontier”  
 
 • Here we are building 2-by-2  
 
 • We really want to take all together – Quadratic Optimization:  $\begin{array}{r}{\operatorname{Minimize}\,V a r i a n c e=\sum_{i,j}w_{i}w_{j}\sigma_{i j}\,\,\,\sigma_{i j}=\rho_{i j}\sigma_{i}\sigma_{j}}\end{array}$    " s.t. ﬁxed return    $\begin{array}{r}{E x p e c t e d\,R e t u r n=\sum_{i}w_{i}\mu_{i}=X}\end{array}$  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ea03ea282c86b2f73afd4a44a4d712f95d8987c6b83eec51176a9d565b4cef8.jpg)  
+ ![500](Attachments/500-924.jpg)  
 
-Matrix solution for quadratic optimization in Cochrane  [[Fixed Income Asset Pricing|Asset Pricing]]  p. 82. Turns out to be simple matrix manipulation. The problem is:  
+Matrix solution for quadratic optimization in Cochrane  [Asset Pricing](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md)  p. 82. Turns out to be simple matrix manipulation. The problem is:  
 $$
 \operatorname*{min}_{w}w^{\prime}\Sigma w\ \mathrm{s.t.}\ w^{\prime}E=\mu;\ w^{\prime}1=1
 $$  
@@ -2477,12 +2477,12 @@ $$
 A=E^{\prime}\Sigma^{-1}E;\;\;\;B=E^{\prime}\Sigma^{-1}1;\;\;\;C=1^{\prime}\Sigma^{-1}1
 $$  
 
-Then, for a given mean return    $\mu$  , the minimum variance [[An Asset Allocation Primer|portfolio]] has variance  
+Then, for a given mean return    $\mu$  , the minimum variance [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) has variance  
 $$
 \operatorname{var}\left(R^{p}\right)={\frac{C\mu^{2}-2B\mu+A}{A C-B^{2}}}
 $$  
 
-with [[An Asset Allocation Primer|portfolio]] weights  
+with [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) weights  
 $$
 w=\Sigma^{-1}\frac{E(C\mu-B)+1(A-B\mu)}{A C-B^{2}}
 $$  
@@ -2502,11 +2502,11 @@ Get there with Quadratic Optimization
 \begin{array}{r}{\mathrm{Minimize~}V a r i a n c e=\sum_{i,j}w_{i}w_{j}\sigma_{i j}\;\;\sigma_{i j}=\rho_{i j}\sigma_{i}\sigma_{j}}\end{array}
 $$  
 
-s.t. ﬁxed return  [[Lecture 1- Probability Distributions of Returns|Expected Return]]  $\begin{array}{r}{\imath=\sum_{i}w_{i}\mu_{i}=X}\end{array}$    (  
+s.t. ﬁxed return  [Expected Return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md)  $\begin{array}{r}{\imath=\sum_{i}w_{i}\mu_{i}=X}\end{array}$    (  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ed7bfe32a71c4d996244aa9265205687dadef9e124600ec3bdcb251e2760cc69.jpg)  
+ ![500](Attachments/500-912.jpg)  
 
-Which is “Best”? – Can Rule Out Some Which [[An Asset Allocation Primer|Portfolio]]?  
+Which is “Best”? – Can Rule Out Some Which [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)?  
 
 Cannot yet say exactly, but can rule some out  
 
@@ -2517,41 +2517,41 @@ Return  Low Risk  High Risk  High Return  High Return  Low Risk  High Risk  Low 
 
 5.1 Remember – Get Risk Premium, Work with Distribution Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f1dece9b1392a25dfd243a446edef6622dcaa7ee57790b457882ea1141e124d3.jpg)  
+ ![500](Attachments/500-924.jpg)  
 # Working with Distributions: Mean and Volatility  
 
-Must start with full distribution of CFs & [[Assets|returns]]  
+Must start with full distribution of CFs & [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
 
 • Vertical: probability or likelihood –  Technically: picture is density  
 
 We (almost always) work with mean   $(\mu\,o r\,X)$  ) and standard deviation (  $\sigma$  ) •    $\sigma$   called volatility in ﬁnancial markets. Also variance,    $\sigma^{2}$  And put in indi"erence curves for    $\mu\,\&\,\sigma$  • Tradeo" between  overall  return   $\&$   vol  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3a0b11d259e88edb716fbd1e4ca5124afd3f542d2d5a646985204c4ada2cbd12.jpg)  
+ ![500](Attachments/500-881.jpg)  
 # 5.2 Straightforward Theory – Indi"erence Curves & Budget Line Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/67d9b16b7327b1f229e8cf93ae07e1e5dee274a47f2a26409cc5c5c33ef5f00c.jpg)  
+ ![500](Attachments/500-889.jpg)  
 
-Overall vs [[Hedge Fund Strategies|Stock Market]] Overall or Total Market • Exactly that: Bonds  $^+$   Domestic Stocks  $^+$   Foreign Stocks  $^+$   Real Estate  $^+$   Human Capital Textbooks never use Total Market • Instead use Domestic [[Hedge Fund Strategies|Stock Market]] (say S&P 500 index) • Why? What we have, what we can calculate  
+Overall vs [Stock Market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) Overall or Total Market • Exactly that: Bonds  $^+$   Domestic Stocks  $^+$   Foreign Stocks  $^+$   Real Estate  $^+$   Human Capital Textbooks never use Total Market • Instead use Domestic [Stock Market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) (say S&P 500 index) • Why? What we have, what we can calculate  
 # 5.3 Digression on Historical Returns, Arithmetic vs Geometric Average Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/aad2fbd845ac7b6890e8ed4f85ad9617395c97f2c7b73298bc6b3b98221230bf.jpg)  
+ ![500](Attachments/500-926.jpg)  
 
 • Remember – we can back out risk premium for a bond, but not a stock  
 # Average Returns – Arithmetic vs Geometric  
 
-Historical [[Assets|returns]], over 100 years. BMA Table 7.1  
+Historical [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md), over 100 years. BMA Table 7.1  
 
 • Learn about  risk premium  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/13ccb9f18cfe148cae1973ea201f01f4e7d6247cd3834a27f0859c1b88d7481d.jpg)  
+ ![500](Attachments/500-913.jpg)  
 
-We use  historic  risk premium as estimate of the risk premium for the [[Hedge Fund Strategies|stock market]] • Calculate historic year-by-year [[Assets|returns]], and take the average  
+We use  historic  risk premium as estimate of the risk premium for the [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) • Calculate historic year-by-year [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md), and take the average  
 
-But averaging [[Assets|returns]] brings up some confusing issues – that I never got straight until now (and I’ve never found anybody who could explain to me)  
+But averaging [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) brings up some confusing issues – that I never got straight until now (and I’ve never found anybody who could explain to me)  
 
 # Two questions we ask when averaging historical returns  
 
-Average risk premium Distribution of [[Assets|returns]] – if we pick an “average” year, what is return?  Arithmetic Average  Usual average  
+Average risk premium Distribution of [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) – if we pick an “average” year, what is return?  Arithmetic Average  Usual average  
 
 “Average” growth during period How much growth, year-by-year, produces the growth we actually see?  Geometric Average  or continuously compounded  
 
@@ -2568,7 +2568,7 @@ Arithmetic average tells what happens in an “average” year:   $+10\%$
 
 •   $10\%$   for 3 year:   $\S1.331$  ,  not    $\Updownarrow1.287$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dac1350cafc4049e3bc12839e8a755ea16cd95ce56f1d6d04cfc0b6e5dd11bc6.jpg)  
+ ![500](Attachments/500-818.jpg)  
 
 Geometric average gives year-by-year growth – overall growth  
 
@@ -2585,16 +2585,16 @@ Geometric:  multiply  and  nth root :
 " $$
 {\mathrm{Mean}}=\textstyle\prod_{i=1}^{n}\left[(1+R_{i})\right]^{1/n}=\left[(1+R_{1})\cdot(1+R_{2})\cdot\cdot\cdot(1+R_{n})\right]^{1/n}
 $$  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1199a1fe5a2e221ba6c946f1cddfadd6f8e30bd9aa169747f3892bb808ef74fe.jpg)  
+ ![500](Attachments/500-889.jpg)  
 History for Stocks, Bonds, Bills  
 
 Additional issue for history:  
 
 • Often  monthly , converted to annual  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8dc57dcbdec988bd6bd8b259fa3ee72b834d5eb49579cb88d27e703fb1e614e0.jpg)  
+ ![500](Attachments/500-913.jpg)  
 
-Use monthly data to reduce variance (better estimate) but need annual return • [[Assets|Returns]] independent, so OK to add, but issues adding arithmetic [[Assets|returns]]  
+Use monthly data to reduce variance (better estimate) but need annual return • [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) independent, so OK to add, but issues adding arithmetic [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
 
 # Arithmetic    $\longleftrightarrow$  Geometric, Monthly    $\longleftrightarrow$  Annual  
 
@@ -2604,9 +2604,9 @@ r_{A,a n n}\approx12\cdot r_{A,m t h l y}\;\;\sigma_{a n n}\approx\sqrt{12}\cdot
 $$  
 
 Brealey, Myers, Allen Table 7.1, 1900-2011 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ce431c4caa853e735574fa04ddec4ea6895531470dd7531116f04ad4b5c22b89.jpg)  
+ ![500](Attachments/500-920.jpg)  
 
-Assuming the BMA “Annual [[Assets|Returns]]” were converted from monthly data, we can unwind back to original monthly, do a more exact monthly    $\rightarrow$  annual conversion  
+Assuming the BMA “Annual [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)” were converted from monthly data, we can unwind back to original monthly, do a more exact monthly    $\rightarrow$  annual conversion  
 
 # MORE EXACT  
 $\begin{array}{r}{1+r_{A,s i m p l e}=\exp\left(r_{c c}+\frac{1}{2}\sigma^{2}\right)}\end{array}$  , -  
@@ -2620,7 +2620,7 @@ R notebook for some calculations and simulations on converting from monthly to a
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/32fd9ce10894b2670b25af384e65bf331700c590cb2e5e93307a85b8e700e282.jpg)  
+ ![500](Attachments/500-882.jpg)  
 Backing Out Equity Risk Premium From History Theory : use indi"erence curves & budget line (frontier)  
 
 # Backing Out Equity Risk Premium From History  
@@ -2631,17 +2631,17 @@ Problem: We don’t know    $E x p\,C F$
 
 • But we do have many “experiments”:every month, invest   $\S1$   at beginning of month, see what happens at end  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3b23c737518a7b3ed5dd7f613f12d23f037854ebff323207f3900e98fe5a452b.jpg)  
+ ![500](Attachments/500-882.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6153593f7b07b7e2cbf917e820c5cd08e98377c754fd6f075675d7c031e0c0ab.jpg)  
+ ![500](Attachments/500-882.jpg)  
 # Backing Out Equity Risk Premium From History  
 
 If markets are e!cient (investors use current information to predict  Expected CF ) then we can use those monthly “experiments” to get  Expected   $C F$  
 
-•    $\textstyle P V={\frac{E x p\,C F}{(1+r f)(1+r p)}}$    or re-write    $\textstyle1+r f+r p={\frac{E x p\,C F}{P V}}$  • We don’t have  Exp   $C F$  , but we do have  Act CF • [[Assets|Returns]]:    $\begin{array}{r}{1+r e t u r n={\frac{A c t\,C F}{P V}}}\end{array}$  • Assume investors are using  Exp   $C F$   every month • Arithmetic Average over many months,  $\begin{array}{r}{\frac{E x p\,C F}{P V}=\frac{A v g[A c t\,C F]}{P V}=A v g[1+r e t u r n]}\end{array}$  • For risky (S&P):  $\begin{array}{r}{1+r f+r p=\frac{E x p\:C F}{P V}=A v g[1+r e t u r n]}\end{array}$   Do same for “risk-free”:  $\textstyle1+r f={\frac{E x p\,C F}{P V}}$  
+•    $\textstyle P V={\frac{E x p\,C F}{(1+r f)(1+r p)}}$    or re-write    $\textstyle1+r f+r p={\frac{E x p\,C F}{P V}}$  • We don’t have  Exp   $C F$  , but we do have  Act CF • [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md):    $\begin{array}{r}{1+r e t u r n={\frac{A c t\,C F}{P V}}}\end{array}$  • Assume investors are using  Exp   $C F$   every month • Arithmetic Average over many months,  $\begin{array}{r}{\frac{E x p\,C F}{P V}=\frac{A v g[A c t\,C F]}{P V}=A v g[1+r e t u r n]}\end{array}$  • For risky (S&P):  $\begin{array}{r}{1+r f+r p=\frac{E x p\:C F}{P V}=A v g[1+r e t u r n]}\end{array}$   Do same for “risk-free”:  $\textstyle1+r f={\frac{E x p\,C F}{P V}}$  
 $\bullet$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7c79ca807d214f9f47555832158f88df8e0aed8c1c5b81caac06386201065bb5.jpg)  
+ ![500](Attachments/500-882.jpg)  
 
 For backing out Risk Premium, use  Arithmetic  because we want  Expected CF  (not Geom Avg CF)  
 
@@ -2649,37 +2649,37 @@ For backing out Risk Premium, use  Arithmetic  because we want  Expected CF  (no
 
 # History for Stocks, Bonds, Bills  
 
-Financial Analysts and [[An Asset Allocation Primer|Portfolio]] Managers: Obsessed with history of prices  
+Financial Analysts and [Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Managers: Obsessed with history of prices  
 
 • US history from 1900 to 2012  
 
 • I am having you look at history for the past few years  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/74714f8e18c0b969c8ed365325c9e484b6dde4aeadbe348382f22b82a004149e.jpg)  
+ ![500](Attachments/500-889.jpg)  
 
-Picture is prices, but always look at  [[Assets|returns]] :    $\begin{array}{r}{1+R_{s i m p l e}=\frac{P_{t+1}}{P_{t}}}\end{array}$  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c6ec637e65a255c3a999f7de7b022b889903da47de1b902c7bbce7b79947d794.jpg)  
+Picture is prices, but always look at  [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) :    $\begin{array}{r}{1+R_{s i m p l e}=\frac{P_{t+1}}{P_{t}}}\end{array}$  
+ ![500](Attachments/500-889.jpg)  
 History for Stocks, Bonds, Bills  
 
-Historical [[Assets|returns]], over 100 years. BMA Table 7.1  
+Historical [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md), over 100 years. BMA Table 7.1  
 
 • Learn about  risk premium  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/49e2ba9d5ea3e10bd2dfbaa81210da8600c7f9fd683ee3e87e7879cb3fb01758.jpg)  
+ ![500](Attachments/500-882.jpg)  
 
-We use  historic  risk premium as estimate of the risk premium for the [[Hedge Fund Strategies|stock market]] • Remember – we can back out risk premium for a bond, but not a stock  
+We use  historic  risk premium as estimate of the risk premium for the [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) • Remember – we can back out risk premium for a bond, but not a stock  
 
 # Historical Equity Premium  
 
 Return for any one day (or month or year) will not give a good estimate of radj. But with enough history ...  
 
-Estimate Equity Risk Premium using historical [[Assets|returns]]  
+Estimate Equity Risk Premium using historical [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
 
 • RP = Equity return – Risk-free  
 
 Table shows history, 1900-2011  
 
-• Treasury Bills: short-term [[Black Scholes Derivation|risk-free rate]]  
+• Treasury Bills: short-term [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md)  
 
 • Government Bonds  
 
@@ -2691,7 +2691,7 @@ Equity risk premium  $=7.3\%$
 
 • Maybe   $6\%$   is better  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6e057a11c8164ada146e1c806be285098c08668b04aa29475f55e03f8352efed.jpg)  
+ ![500](Attachments/500-792.jpg)  
 
 Table is Brealey & Myers, Table 7.1  
 
@@ -2699,21 +2699,21 @@ We now have “Equity” risk premium – for the overall equity market
 
 • But considerable debate on whether   $7.3\%$   is “too high”. Some reasons:  
 
-–  Equity [[Assets|returns]] in the 20th century were much higher than expected. It’s the [[Lecture 1- Probability Distributions of Returns|expected return]], not the [[Realized Returns|realized return]], that we need. [[Empirical Factors|Fama and French]] (2000, I think) show that the expected ERP was only   $3\%$  . –  Expected [[Assets|returns]] to individual investors were much lower than to the broad-market benchmarks because there were no index funds for most of the period, taxes and fees were high, and most portfolios were un divers i ed (often single-stock) requiring a return-equivalent penalty to be applied for the greater risk of un divers i cation.  
+–  Equity [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) in the 20th century were much higher than expected. It’s the [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md), not the [realized return](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md), that we need. [Fama and French](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Empirical%20Factors.md) (2000, I think) show that the expected ERP was only   $3\%$  . –  Expected [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to individual investors were much lower than to the broad-market benchmarks because there were no index funds for most of the period, taxes and fees were high, and most portfolios were un divers i ed (often single-stock) requiring a return-equivalent penalty to be applied for the greater risk of un divers i cation.  
 Why not do the same for each individual stock? Say FIS on its own?  
 
 • Not enough history  
 
-• Individual ﬁrms, even ones with long history like GM, change over time • Using the overall [[Hedge Fund Strategies|stock market]], we get the risk (cost of uncertainty) for something that is relatively stable over long periods  
+• Individual ﬁrms, even ones with long history like GM, change over time • Using the overall [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md), we get the risk (cost of uncertainty) for something that is relatively stable over long periods  
 
 # Various Estimates – No Certainty  
 
 Brealey, Myers, Allen Table 7.1, 1900-2011  
 
 Bodie, Kane, Miller Table 5.3, 1926-2015 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ea932647c56b615710857d21ffbca661a265bc54540ec2ba0e79a45796edb3bf.jpg)  
+ ![500](Attachments/500-914.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8c26efa393009ff68a9225baa7d146ea5dbc2f18843109c8e9041ebd34e165c8.jpg)  
+ ![500](Attachments/500-882.jpg)  
 
 Some debate about size of Equity Risk Premium  
 
@@ -2729,30 +2729,30 @@ Thomas S. Coleman Harris PPHA 42510 & 42521 1 May 2023, Draft May 1, 2023
 
 First Republic lost \$100mn in customer deposits past months •  FRB customers now JP Morgan customers JP Morgan pays \$10.6bn for FRB •  Cost to FDIC is \$13bn (vs \$20bn for SVB) •  Depositors don’t lose anything •  FRB shareholders lose everything  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5733fb3b505a22e293dbcfb92e4bf8db648580abb8a3493377c56b789f7482eb.jpg)  
+ ![500](Attachments/500-921.jpg)  
 # Appears SVB Was (Almost) Insolvent  
 
-Picture (from NYTimes) shows gains  $\&$   losses for both Held to Maturity and Available for Sale [[An Asset Allocation Primer|portfolio]]  
+Picture (from NYTimes) shows gains  $\&$   losses for both Held to Maturity and Available for Sale [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e6df11f56d451aa673b1804503acec90dc0684eec826eb2f5e20f43e24dedf8f.jpg)  
+ ![500](Attachments/500-882.jpg)  
 
 •  Trying to capture true value of assets •  Losses as  $\%$   of deposits – SVB up to   $9\%$  •  Look at the “Big Loss” below – I chose   $9\%$   of deposits •  Close to true situation for SVB in 2022 – nearly insolvent •  People did not realize until March 8 When run started, massive loss of deposits. •  I’ve heard \$41bn left in a day or two •  Looking at balance sheet (\$173.1bn deposits) no way they could survive  
 
 SVB Actual 2022 (\$bn) 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/56ece481ad7ea11e69ba497c1f92fb861aac2fc2fe283f6e228b79d4ad689f4d.jpg)  
+ ![500](Attachments/500-914.jpg)  
 
 SVB “Big Loss” (\$bn) 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ab7d1889094f95aa609a19251d9fe8d38c39a66c4157c703625c3c6a5238fa03.jpg)  
+ ![500](Attachments/500-883.jpg)  
 # Solvency  versus  Liquidity  SVB Essentially Insolvent  
 
 SVB Actual 2022 (\$bn)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2f8f587fa30e2f56beffa0fe9fec3e4d2facc4eb048001336e42b834c2636e8c.jpg)  
+ ![500](Attachments/500-831.jpg)  
 
 SVB “Big Loss” (\$bn) 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6aafeb3277021f8adbde464526bff62ae89d2b1cd4556c80167951743da2fe36.jpg)  
+ ![500](Attachments/500-914.jpg)  
 
-SVB is now in a very delicate position, with both  Solvency Risks  and  [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|Liquidity]] Risks  
+SVB is now in a very delicate position, with both  Solvency Risks  and  [Liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) Risks  
 
 # Liquidity Risk  
 
@@ -2769,22 +2769,22 @@ Silicon Valley Bank was e!ectively insolvent
 •  Assets barely worth the value of ﬁxed obligations – “Deposits” & “Other”  
 # Now Turn to First Republic Bank – Painful, But not SVB  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/37b1d5956ea8878ab9e719adbd17fb730f6bd7e9002258e238c0d92af645498f.jpg)  
+ ![500](Attachments/500-915.jpg)  
 
-Gains  $\&$   losses for both HtM and AfS [[An Asset Allocation Primer|portfolio]]  
+Gains  $\&$   losses for both HtM and AfS [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
-•  Losses as  $\%$   of deposits – FRB up to about   $3.5\%$   $\bullet$   Look at the “Big Loss” below – showing  $3.5\%$   of deposits  $\bullet$   First Republic painful, but not insolvent •  My view – caught in [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] panic •  Might survive, might not. But very di!erent from SVB  
+•  Losses as  $\%$   of deposits – FRB up to about   $3.5\%$   $\bullet$   Look at the “Big Loss” below – showing  $3.5\%$   of deposits  $\bullet$   First Republic painful, but not insolvent •  My view – caught in [liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) panic •  Might survive, might not. But very di!erent from SVB  
 
 FRB Actual 2022 (\$bn) 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9001fb426ba467bddf94305c957559ef5dae54e8fb76b10bdad6e2cb87977485.jpg)  
+ ![500](Attachments/500-914.jpg)  
 
 FRB “Big Loss” (\$bn) 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7005e7ebf3b14e76164b8c6d74bb3acff3c655c1cf49050832c5e92aa3aec849.jpg)  
+ ![500](Attachments/500-884.jpg)  
 # Solvency  versus  Liquidity  FRB Solvent but Liquidity Risks  
 
 FRB Actual 2022 (\$bn)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4ff70416bbec592970a32e8c0ccbc42338eafa25961dfe68f424a8d6969735ff.jpg)  
+ ![500](Attachments/500-884.jpg)  
 
 FRB is  not  insolvent  
 
@@ -2794,7 +2794,7 @@ Depositors worried investments may go down more
 
 FRB “Big Loss” (\$bn)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/539931104ac192ddc80e1896ea6b997eb005f1d778626937bf5fb1fac0810248.jpg)  
+ ![500](Attachments/500-826.jpg)  
 
 # Liquidity Risk  
 
@@ -2802,9 +2802,9 @@ Even if knew  for sure  assets would not go down
 
 •  Assets may be  illiquid  – take a few months or year to sell o! •  Depositors may need money back sooner •  Rational to get ﬁrst in line, take money out now  
 
-First Republic Bank was  not  insolvent – but subject to [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] problems and a [[Bank Runs Deposit Insurance and Liquidity|bank run]]  
+First Republic Bank was  not  insolvent – but subject to [liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) problems and a [bank run](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-%20Bank%20Runs/Bank%20Runs%20Deposit%20Insurance%20and%20Liquidity.md)  
 
-•  [[Bank Runs Deposit Insurance and Liquidity|Bank run]] – where customers withdraw deposits because they are worried the bank will get into trouble in the [[Futures Not Subject to Cash-And-Carry|futures]]  
+•  [Bank run](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-%20Bank%20Runs/Bank%20Runs%20Deposit%20Insurance%20and%20Liquidity.md) – where customers withdraw deposits because they are worried the bank will get into trouble in the [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)  
 
 This is exactly what happened to First Republic  
 # Perfect & Imperfect Capital Markets Lecture 12 Supplement  
@@ -2815,13 +2815,13 @@ Harris PPHA 42510 Applied Financial Management
 
 26 April 2023; Draft April 16, 2023  
 # Outline  
-$\mathbf{1}$   [[Liquidity Preference Market Segmentation and P|Modigliani]] & Miller Prop 1 – [[Introduction to Corporate Finance|Capital Structure]] Irrelevance (BMA Ch 17)  
+$\mathbf{1}$   [Modigliani](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Liquidity%20Preference%20Market%20Segmentation%20and%20P.md) & Miller Prop 1 – [Capital Structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) Irrelevance (BMA Ch 17)  
 
-Perfect Capital Markets Carving up Cash Flows “Unwinding” [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] M&M Proposition 1: [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] Doesn’t Matter  
+Perfect Capital Markets Carving up Cash Flows “Unwinding” [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) M&M Proposition 1: [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) Doesn’t Matter  
 
 2  “Imperfect” Capital Markets  
 
-First View – “Perfect Markets” – M&M – Debt vs Equity Irrelevant Second View – Interest Deductible, Go To Debt Third View – [[Southland Corp. (c)|Financial Distress]] & Trade-O! Fourth View – Asymmetric Information & Debt Final Synthesis  
+First View – “Perfect Markets” – M&M – Debt vs Equity Irrelevant Second View – Interest Deductible, Go To Debt Third View – [Financial Distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md) & Trade-O! Fourth View – Asymmetric Information & Debt Final Synthesis  
 # What Are “Perfect Capital Markets”?  
 
 What do we mean by “Perfect” Capital Markets? (and “E"cient” Markets)?  
@@ -2829,25 +2829,25 @@ What do we mean by “Perfect” Capital Markets? (and “E"cient” Markets)?
 •  NOT  “good” in a normative sense – specialized or technical meaning of “theoretical ideal or starting point” •  Nor “realistic” as in how markets actually behave  
 
 Three assumptions:  
-$\mathbf{1}$   [[Financial Mathematics Course|Complete Markets]]: Investors and ﬁrms trade securities at market prices, equal to PV of future CFs  $^2$   No costs: no taxes, transactions costs, or issuance costs for trading securities  $^3$   Financing does not change CFs: a ﬁrm’s ﬁnancing decisions do not change CFs generated by projects, and ﬁnancing does not reveals new information about future CFs  
+$\mathbf{1}$   [Complete Markets](../Financial%20Engineering/Financial%20Mathematics%20Course.md): Investors and ﬁrms trade securities at market prices, equal to PV of future CFs  $^2$   No costs: no taxes, transactions costs, or issuance costs for trading securities  $^3$   Financing does not change CFs: a ﬁrm’s ﬁnancing decisions do not change CFs generated by projects, and ﬁnancing does not reveals new information about future CFs  
 # Value of “Perfect Markets”  
 
 These assumptions clearly not realistic. Why is the whole idea useful?  
 
-•  We get strong results: M&M Prop 1: [[Introduction to Corporate Finance|capital structure]] – debt vs equity – does not matter •  We then can examine  why  [[Introduction to Corporate Finance|capital structure]] matters – because of taxes? transaction costs?  
+•  We get strong results: M&M Prop 1: [capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) – debt vs equity – does not matter •  We then can examine  why  [capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) matters – because of taxes? transaction costs?  
 
 General result for economic (and ﬁnance) theory: useful for pushing us to think about  how  and  why  the world works as it does  
 
-•  We should see “[[Introduction to Corporate Finance|Capital Structure]] doesn’t matter” (M&M Prop 1) •  If it does matter, why? •  Some answers: interest taxes distort markets; bankruptcy is costly; [[Financial Intermediation as Delegated Monitoring|information asymmetry]]  
+•  We should see “[Capital Structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) doesn’t matter” (M&M Prop 1) •  If it does matter, why? •  Some answers: interest taxes distort markets; bankruptcy is costly; [information asymmetry](../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-%20Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Financial%20Intermediation%20as%20Delegated%20Monitoring.md)  
 #  Modigliani & Miller Prop 1 – Capital Structure Irrelevance (BMA Ch 17)  
 
 Perfect Capital Markets  
 
 Carving up Cash Flows  
 
-“Unwinding” [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]  
+“Unwinding” [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)  
 
-M&M Proposition 1: [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] Doesn’t Matter  
+M&M Proposition 1: [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) Doesn’t Matter  
 
 2  “Imperfect” Capital Markets  
 
@@ -2855,29 +2855,29 @@ First View – “Perfect Markets” – M&M – Debt vs Equity Irrelevant
 
 Second View – Interest Deductible, Go To Debt  
 
-Third View – [[Southland Corp. (c)|Financial Distress]] & Trade-O!  
+Third View – [Financial Distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md) & Trade-O!  
 
 Fourth View – Asymmetric Information & Debt  
 
 Final Synthesis  
 # Modigliani & Miller Proposition 1  
 
-M&M Prop 1: Value is Unchanged by [[Introduction to Corporate Finance|Capital Structure]]  
+M&M Prop 1: Value is Unchanged by [Capital Structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md)  
 
-•  Total Value of the Firm  $=\mathsf{P V}$   of CFs •  This does not depend on choice of [[Introduction to Corporate Finance|capital structure]]  
+•  Total Value of the Firm  $=\mathsf{P V}$   of CFs •  This does not depend on choice of [capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md)  
 
 We will see how this works by  
 
 •  Looking at how ﬁrm carves up CFs with debt & equity •  Changes risk of debt  $\&$   equity CFs •  Does not change risk of overall CFs •  See that investors can recombine CFs in any way they want •  Investors can produce any risk proﬁle they want, at no cost •  Investors won’t pay the ﬁrm extra to carve up CFs.  
 
-Result: [[Introduction to Corporate Finance|Capital Structure]] won’t change value (M&M Prop 1)  
+Result: [Capital Structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) won’t change value (M&M Prop 1)  
 # Capital Structure Carves CFs  
 
 # CFs carved between debt and equity holders  
 
 Start from bottom   $(\mathsf{F i r m\ C F s})$  ), go ﬁrst to Debt, then Equity  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/95897197a84ba2abb838eb13e5ef46679c23ad1ff562e502781fd10548eb2741.jpg)  
+ ![500](Attachments/500-884.jpg)  
 
 How CFs distributed make  huge  di!erence in CF risk  
 
@@ -2898,7 +2898,7 @@ Equity  – What owners or shareholders put in, what owners can lose Debt  – B
 
 # Important Concepts  
 
-Percent Debt Debt-to-Equity [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]  $\%$  [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]  $\begin{array}{r}{\%D=\frac{D}{A}=\frac{D}{D+E}}\end{array}$   $\begin{array}{r}{{\frac{D}{E}}={\frac{\%\bar{D}}{1-\%\bar{D}}}}\end{array}$   $\begin{array}{r}{\frac{A s s e t s}{E}=\frac{A}{E}=\frac{1}{1-\%D}}\end{array}$  
+Percent Debt Debt-to-Equity [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)  $\%$  [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)  $\begin{array}{r}{\%D=\frac{D}{A}=\frac{D}{D+E}}\end{array}$   $\begin{array}{r}{{\frac{D}{E}}={\frac{\%\bar{D}}{1-\%\bar{D}}}}\end{array}$   $\begin{array}{r}{\frac{A s s e t s}{E}=\frac{A}{E}=\frac{1}{1-\%D}}\end{array}$  
 
 # Examples  
 
@@ -2909,19 +2909,9 @@ Percent Debt Debt-to-Equity [[Lecture 6-Leverage, Tail Risk, Volatility Products
 
 Initial ﬁrm value \$30k. Two ﬁnancing structures:  
 
-•  All Equity (  $\it{(0\%}$   debt, D/E 0, [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] 1-to-1) •    $50\%$   Debt /   $50\%$   Equity (  $77\%$   debt, D/E ??, [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] ??-to-1)  
+•  All Equity (  $\it{(0\%}$   debt, D/E 0, [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) 1-to-1) •    $50\%$   Debt /   $50\%$   Equity (  $77\%$   debt, D/E ??, [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) ??-to-1)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d771a307427a68befd057db289db81a751e85f935670894dbef31099b8c650c7.jpg)  
-
-In-class Exercise: What is the standard deviation of  
-$\mathbf{1}$   Unlevered Equity? 2  Debt & Levered Equity (on their own)?  $^3$   Debt & Levered Equity (combined)?  
-# In-Class Exercise: Co!ee Shop – Capital Structure Changes Risk  
-
-Initial ﬁrm value \$30k. Two ﬁnancing structures:  
-
-•  All Equity (  $\it{(0\%}$   debt, D/E 0, [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] 1-to-1) •    $50\%$   Debt /   $50\%$   Equity (  $\upharpoonup50\%$   debt, D/E 1, [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] 2-to-1)  
-
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cc7800b7555d12f0cdc134c94a1669db722fe25acd72f5d4978cebcece019483.jpg)  
+ ![500](Attachments/500-923.jpg)  
 
 In-class Exercise: What is the standard deviation of  
 $\mathbf{1}$   Unlevered Equity? 2  Debt & Levered Equity (on their own)?  $^3$   Debt & Levered Equity (combined)?  
@@ -2929,9 +2919,19 @@ $\mathbf{1}$   Unlevered Equity? 2  Debt & Levered Equity (on their own)?  $^3$ 
 
 Initial ﬁrm value \$30k. Two ﬁnancing structures:  
 
-•  All Equity (  $\it{(0\%}$   debt, D/E 0, [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] 1-to-1) •    $50\%$   Debt /   $50\%$   Equity (  $\upharpoonup50\%$   debt, D/E 1, [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] 2-to-1)  
+•  All Equity (  $\it{(0\%}$   debt, D/E 0, [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) 1-to-1) •    $50\%$   Debt /   $50\%$   Equity (  $\upharpoonup50\%$   debt, D/E 1, [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) 2-to-1)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3572eff2387d4e537f31ce92cc6e68057d073bf1ad34bf2c5043080d997b9086.jpg)  
+ ![500](Attachments/500-923.jpg)  
+
+In-class Exercise: What is the standard deviation of  
+$\mathbf{1}$   Unlevered Equity? 2  Debt & Levered Equity (on their own)?  $^3$   Debt & Levered Equity (combined)?  
+# In-Class Exercise: Co!ee Shop – Capital Structure Changes Risk  
+
+Initial ﬁrm value \$30k. Two ﬁnancing structures:  
+
+•  All Equity (  $\it{(0\%}$   debt, D/E 0, [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) 1-to-1) •    $50\%$   Debt /   $50\%$   Equity (  $\upharpoonup50\%$   debt, D/E 1, [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) 2-to-1)  
+
+ ![500](Attachments/500-837.jpg)  
 
 In-class Exercise: What is the standard deviation of  
 $\mathbf{1}$   Unlevered Equity? std dev=35.4%=sqrt[((-10-15) 2+(40-15) 2)/1] 2  Debt & Levered Equity (on their own)?  $^3$   Debt & Levered Equity (combined)?  
@@ -2939,9 +2939,9 @@ $\mathbf{1}$   Unlevered Equity? std dev=35.4%=sqrt[((-10-15) 2+(40-15) 2)/1] 2 
 
 Initial ﬁrm value \$30k. Two ﬁnancing structures:  
 
-•  All Equity (  $\it{(0\%}$   debt, D/E 0, [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] 1-to-1) •    $50\%$   Debt /   $50\%$   Equity (  $\upharpoonup50\%$   debt, D/E 1, [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] 2-to-1)  
+•  All Equity (  $\it{(0\%}$   debt, D/E 0, [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) 1-to-1) •    $50\%$   Debt /   $50\%$   Equity (  $\upharpoonup50\%$   debt, D/E 1, [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) 2-to-1)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5bc62fc39f8bb39647f530ab2e3296c702b22aba6b92a6df6e75fdb87911f269.jpg)  
+ ![500](Attachments/500-837.jpg)  
 
 In-class Exercise: What is the standard deviation of  
 $\mathbf{1}$   Unlevered Equity? std   $\mathsf{d e v{=}35.4\%{=}s q r t{[}((-10{-}15){\hat{2}}{+}(40{-}15){\hat{2}})/1]}$  2  Debt & Levered Equity (on their own)?   $\supset\mathsf{s d}{=}0\%$  ; E   $\mathsf{s d}\!=\!70.7\%$   $^3$   Debt & Levered Equity (combined)?  
@@ -2949,28 +2949,28 @@ $\mathbf{1}$   Unlevered Equity? std   $\mathsf{d e v{=}35.4\%{=}s q r t{[}((-10
 
 Initial ﬁrm value \$30k. Two ﬁnancing structures:  
 
-•  All Equity (  $\it{(0\%}$   debt, D/E 0, [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] 1-to-1) •    $50\%$   Debt /   $50\%$   Equity (  $\upharpoonup50\%$   debt, D/E 1, [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] 2-to-1)  
+•  All Equity (  $\it{(0\%}$   debt, D/E 0, [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) 1-to-1) •    $50\%$   Debt /   $50\%$   Equity (  $\upharpoonup50\%$   debt, D/E 1, [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) 2-to-1)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53f835afa0418f2836ccce042a1153c1e91eb993b5a37eff3f454b3c62eb8c31.jpg)  
+ ![500](Attachments/500-837.jpg)  
 
 In-class Exercise: What is the standard deviation of  
 $\mathbf{1}$   Unlevered Equity? std  $\mathsf{d e v{=}35.4\%{=}s q r t{[}((-10{-}15){\hat{2}}{+}(40{-}15){\hat{2}})/1]}$  2  Debt & Levered Equity (on their own)?   $\textsf{D s d}{=}0\%$  ; E   $\mathsf{s d}\!=\!70.7\%$   $^3$   Debt & Levered Equity (combined)? std dev  $=\!35.4\%$  
 # Co!ee Shop – Capital Structure Changes Risk  
 
-All Equity versus  $50\%$   Debt /   $50\%$   Equity (  $50\%$   [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]])  
+All Equity versus  $50\%$   Debt /   $50\%$   Equity (  $50\%$   [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md))  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bb051dc6b8bd286f1633ce3c788f87b4692c2f774039fbaed0a5d2104372cab8.jpg)  
+ ![500](Attachments/500-923.jpg)  
 
-•  With [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]], Equity gets higher exp ret and higher std dev •  Combined Debt  $+$   Levered Equity is the same as original Unlevered Equity  
+•  With [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md), Equity gets higher exp ret and higher std dev •  Combined Debt  $+$   Levered Equity is the same as original Unlevered Equity  
 #  Modigliani & Miller Prop 1 – Capital Structure Irrelevance (BMA Ch 17)  
 
 Perfect Capital Markets  
 
 Carving up Cash Flows  
 
-“Unwinding” [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]  
+“Unwinding” [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)  
 
-M&M Proposition 1: [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] Doesn’t Matter  
+M&M Proposition 1: [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) Doesn’t Matter  
 
 2  “Imperfect” Capital Markets  
 
@@ -2978,7 +2978,7 @@ First View – “Perfect Markets” – M&M – Debt vs Equity Irrelevant
 
 Second View – Interest Deductible, Go To Debt  
 
-Third View – [[Southland Corp. (c)|Financial Distress]] & Trade-O!  
+Third View – [Financial Distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md) & Trade-O!  
 
 Fourth View – Asymmetric Information & Debt  
 
@@ -2987,21 +2987,21 @@ Final Synthesis
 
 We will play a simple game: the ﬁrm takes CFs apart, we (investors) put them back together Start from bottom (Firm CFs), split into Debt & E  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ad4bbad1837a1e51bff50962e94a5f65db79adfc7facaba9d503ca8e9858e5d9.jpg)  
+ ![500](Attachments/500-761.jpg)  
 
 With no transaction costs we can easily do this  
 # Next Step – “Do-it-Yourself Leverage”  
 
-But there is more – Investors can create any [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] (risk proﬁle) they want Example from BMA, Table 17.2 & 17.3 – Macbeth Spot Removers  
+But there is more – Investors can create any [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) (risk proﬁle) they want Example from BMA, Table 17.2 & 17.3 – Macbeth Spot Removers  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bea011de36be5c1fce26f1ee0c169b689db04395afcfc811d1e988de58e7c167.jpg)  
+ ![500](Attachments/500-755.jpg)  
 $\mathsf{E x p R e t}=12.5$  , StdDev = 6.45  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/22bf5c08fc69dfbad679c9e2e7c1dcb535c9dd540b63481b28c8edc288fa012e.jpg)  
+ ![500](Attachments/500-885.jpg)  
 
 Macbeth realizes some investors want more return (and risk), so they decide to lever  
 
-•  Argue that investors will pay more (higher [[Chapter 16 - Black–Scholes Model|stock price]])  
+•  Argue that investors will pay more (higher [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md))  
 # Firm Realizes Investors Want More Risk  
 
 Will investors pay more? Start with same price \$10/share  
@@ -3010,11 +3010,11 @@ Will investors pay more? Start with same price \$10/share
 
 Exercise: what  would  be equity return   $\&$   std dev if share price still \$10  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9de66367ac29fb775dd9699ad65b0cb68747a739b73ff0176ade1e97505115d5.jpg)  
+ ![500](Attachments/500-884.jpg)  
 
-Original   $\mathsf{E x p R e t}=12.5$  , StdDev = 6.45 “Firm [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]” ExpRet  $=$  , StdDev  $=$  
+Original   $\mathsf{E x p R e t}=12.5$  , StdDev = 6.45 “Firm [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)” ExpRet  $=$  , StdDev  $=$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/52a7d9ecaa51a9cf50b85413470c68d60a704805d2647c24ba371414f8a28c4f.jpg)  
+ ![500](Attachments/500-921.jpg)  
 Will investors pay more?  
 # Firm Realizes Investors Want More Risk  
 
@@ -3024,11 +3024,11 @@ Will investors pay more? Start with same price \$10/share
 
 Exercise: what  would  be equity return   $\&$   std dev if share price still \$10  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/92df8092b647183f9df4f78c672239d3e3958928ee66a6eae7eab8077dfe809f.jpg)  
+ ![500](Attachments/500-884.jpg)  
 
-Original   $\mathsf{E x p R e t}=12.5$  , StdDev = 6.45 “Firm [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]” ExpRet  $=15$  , StdDev  $=12.9$  
+Original   $\mathsf{E x p R e t}=12.5$  , StdDev = 6.45 “Firm [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)” ExpRet  $=15$  , StdDev  $=12.9$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b1fc98139152d6c2e1a03687c3ae6359822e628c00aea916d1258d014a7927d3.jpg)  
+ ![500](Attachments/500-890.jpg)  
 Will investors pay more?  
 # Do-it-Yourself Risk  
 
@@ -3036,28 +3036,28 @@ But will investors pay more than \$10 for levered shares? Turns out NO
 
 What if you have \$10, borrow \$10, buy 2 shares? (  $\cdot10\%$   interest)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cc75916b4636f49a5f2d434279ecbbbb1293d5a29f4eead27e9326cb3350b765.jpg)  
+ ![500](Attachments/500-885.jpg)  
 
 Original   $\mathsf{E x p R e t}=12.5$  , StdDev = 6.45
 
- “Firm [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]”   $\mathsf{E x p R e t}=15$  ,   $\mathsf{S t d D e v}=12.9$  “Investor [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]” ExpRet  $=$  , StdDev  $=$  
+ “Firm [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)”   $\mathsf{E x p R e t}=15$  ,   $\mathsf{S t d D e v}=12.9$  “Investor [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)” ExpRet  $=$  , StdDev  $=$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/196cf79d35243986ab897cd2602547a77111f2beadae669e345cd0118f15b436.jpg)  
+ ![500](Attachments/500-922.jpg)  
 # Do-it-Yourself Risk  
 
 But will investors pay more than \$10 for levered shares? Turns out NO  
 
 What if you have \$10, borrow \$10, buy 2 shares? (  $\cdot10\%$   interest)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1c1476ddc902274410eed1b46bf177c4ec3b74d7e25c3d5571087b79af6d1923.jpg)  
+ ![500](Attachments/500-884.jpg)  
 
 Original   $\mathsf{E x p R e t}=12.5$  , StdDev = 6.45
 
- “Firm [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]”   $\mathsf{E x p R e t}=15$  , StdDev = 12.9
+ “Firm [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)”   $\mathsf{E x p R e t}=15$  , StdDev = 12.9
 
- “Investor [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]” ExpRet = 15,   $\mathsf{S t d D e v}=12.9$  
+ “Investor [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)” ExpRet = 15,   $\mathsf{S t d D e v}=12.9$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1e285838041fa148fad118ed48e52e515e36670d645c31c0a08fd0d798b740e4.jpg)  
+ ![500](Attachments/500-891.jpg)  
 
 Exactly same as levered equity, but done by investor  
 
@@ -3068,9 +3068,9 @@ Perfect Capital Markets
 
 Carving up Cash Flows  
 
-“Unwinding” [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]  
+“Unwinding” [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)  
 
-M&M Proposition 1: [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] Doesn’t Matter  
+M&M Proposition 1: [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) Doesn’t Matter  
 
 2  “Imperfect” Capital Markets  
 
@@ -3078,7 +3078,7 @@ First View – “Perfect Markets” – M&M – Debt vs Equity Irrelevant
 
 Second View – Interest Deductible, Go To Debt  
 
-Third View – [[Southland Corp. (c)|Financial Distress]] & Trade-O!  
+Third View – [Financial Distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md) & Trade-O!  
 
 Fourth View – Asymmetric Information & Debt  
 
@@ -3087,10 +3087,10 @@ Final Synthesis
 
 Debt versus Equity is irrelevant  
 
-•  “Do-it-yourself [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]]” •  Investors can do or undo whatever the ﬁrm does  
+•  “Do-it-yourself [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)” •  Investors can do or undo whatever the ﬁrm does  
 
 Dependent on  
-$\mathbf{1}$   [[Financial Mathematics Course|Complete Markets]]: Investors and ﬁrms trade securities at market prices, equal to PV of future CFs 2  No costs: no taxes, transactions costs, or issuance costs for trading securities  $^3$   Financing does not change CFs: a ﬁrm’s ﬁnancing decisions do not change CFs generated by projects, and ﬁnancing does not reveals new information about future CFs  
+$\mathbf{1}$   [Complete Markets](../Financial%20Engineering/Financial%20Mathematics%20Course.md): Investors and ﬁrms trade securities at market prices, equal to PV of future CFs 2  No costs: no taxes, transactions costs, or issuance costs for trading securities  $^3$   Financing does not change CFs: a ﬁrm’s ﬁnancing decisions do not change CFs generated by projects, and ﬁnancing does not reveals new information about future CFs  
 # WACC as result of Prop 1  
 
 M&M Prop 1 says overall value of the ﬁrm does not depend on debt versus equity  
@@ -3099,7 +3099,7 @@ So now go back to simple game of carving and recombining CFs:
 
 •  The ﬁrm takes CFs apart, •  We (investors) put them back together  
 
-But “reconstituted CFs” is a [[An Asset Allocation Primer|portfolio]] of Debt  $\&$   Equity CFs And we know [[An Asset Allocation Primer|portfolio]] return is weighted average of components:  
+But “reconstituted CFs” is a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of Debt  $\&$   Equity CFs And we know [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) return is weighted average of components:  
 $$
 E R_{p o r t}=\alpha_{1}E R_{1}+\alpha_{2}E R_{2}
 $$  
@@ -3107,21 +3107,21 @@ $$
 r_{u}=r_{a s s e t s}={\frac{D}{E+D}}r_{D}+{\frac{E}{E+D}}r_{E}
 $$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9595fbdeef52352ac394b70e38523b6b4996507567e3537e1812e736e99efb85.jpg)  
+ ![500](Attachments/500-817.jpg)  
 # Expected Returns  
 
-As Debt-Equity ratio increases, [[Lecture 1- Probability Distributions of Returns|expected return]] on equity increases. Eventually, so does debt (as it becomes more risky)  
+As Debt-Equity ratio increases, [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) on equity increases. Eventually, so does debt (as it becomes more risky)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a8307d3476fcfcbf4c19ab146496718355d03d2e0b753d1c85c6e36462f70231.jpg)  
-1  [[Liquidity Preference Market Segmentation and P|Modigliani]] & Miller Prop 1 – [[Introduction to Corporate Finance|Capital Structure]] Irrelevance (BMA Ch 17)  
+ ![500](Attachments/500-889.jpg)  
+1  [Modigliani](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Liquidity%20Preference%20Market%20Segmentation%20and%20P.md) & Miller Prop 1 – [Capital Structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) Irrelevance (BMA Ch 17)  
 
 Perfect Capital Markets  
 
 Carving up Cash Flows  
 
-“Unwinding” [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]  
+“Unwinding” [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)  
 
-M&M Proposition 1: [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] Doesn’t Matter  
+M&M Proposition 1: [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) Doesn’t Matter  
 
 “Imperfect” Capital Markets  
 
@@ -3129,7 +3129,7 @@ First View – “Perfect Markets” – M&M – Debt vs Equity Irrelevant
 
 Second View – Interest Deductible, Go To Debt  
 
-Third View – [[Southland Corp. (c)|Financial Distress]] & Trade-O!  
+Third View – [Financial Distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md) & Trade-O!  
 
 Fourth View – Asymmetric Information & Debt  
 
@@ -3138,22 +3138,22 @@ Final Synthesis
 
 Under “Perfect” capital markets  
 
-•  Investors can provide “Do-it-Yourself” [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] •  Will not pay extra for leveraging (or de-leveraging)  
+•  Investors can provide “Do-it-Yourself” [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) •  Will not pay extra for leveraging (or de-leveraging)  
 
-[[Introduction to Corporate Finance|Capital Structure]] should be random – no industry patterns  
+[Capital Structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) should be random – no industry patterns  
 
-•  Some industries (inrternet like Google) borrow nothing •  Others (airlines) borrow a lot Why? Don’t throw out theory – use M&M to understand •  Example of economic theory deepening our understanding of the world •  Taxes, bankruptcy costs, [[Financial Intermediation as Delegated Monitoring|information asymmetry]]  
+•  Some industries (inrternet like Google) borrow nothing •  Others (airlines) borrow a lot Why? Don’t throw out theory – use M&M to understand •  Example of economic theory deepening our understanding of the world •  Taxes, bankruptcy costs, [information asymmetry](../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-%20Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Financial%20Intermediation%20as%20Delegated%20Monitoring.md)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f3294b5cbf694f55f1b29393cbeecfa7c330a0cd257989dde363418b807ba983.jpg)  
-1  [[Liquidity Preference Market Segmentation and P|Modigliani]] & Miller Prop 1 – [[Introduction to Corporate Finance|Capital Structure]] Irrelevance (BMA Ch 17)  
+ ![500](Attachments/500-887.jpg)  
+1  [Modigliani](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Liquidity%20Preference%20Market%20Segmentation%20and%20P.md) & Miller Prop 1 – [Capital Structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) Irrelevance (BMA Ch 17)  
 
 Perfect Capital Markets  
 
 Carving up Cash Flows  
 
-“Unwinding” [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]  
+“Unwinding” [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)  
 
-M&M Proposition 1: [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] Doesn’t Matter  
+M&M Proposition 1: [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) Doesn’t Matter  
 
 “Imperfect” Capital Markets  
 
@@ -3161,7 +3161,7 @@ First View – “Perfect Markets” – M&M – Debt vs Equity Irrelevant
 
 Second View – Interest Deductible, Go To Debt  
 
-Third View – [[Southland Corp. (c)|Financial Distress]] & Trade-O!  
+Third View – [Financial Distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md) & Trade-O!  
 
 Fourth View – Asymmetric Information & Debt  
 
@@ -3171,7 +3171,7 @@ Final Synthesis
 Debt provides real CFs – In US (and many others) interest is tax deductible.  
 
 Income with no debt versus some debt 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ffb5689ea52b542ae2f43dc4bd074a02b6e3bf42a1cf7b98aba46d8c11f4d14a.jpg)  
+ ![500](Attachments/500-812.jpg)  
 
 Simple idea: government gives cash: subsidy Recurring story: government actions (well-intention ed) distort markets M&M says “how you slice the pie doesn’t matter”  
 
@@ -3183,7 +3183,7 @@ Here it matters – gov’t subsidizes debt with extra cash
 Debt provides real CFs – In US (and many others) interest is tax deductible.  
 
 Income with no debt versus some debt 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b818985d87834bf90f82a9e23b933848d29770bca66af52223223b3f0240de40.jpg)  
+ ![500](Attachments/500-812.jpg)  
 
 Example: Interest \$8, “tax shield”  $=0.21\,^{*}\,\S8$  Call this “tax shield” because shielded from taxes Extra income ﬁrm can pay to investors instead of gov’t  
 
@@ -3194,7 +3194,7 @@ M&M Prop 1 says value of ﬁrm does not depend on debt versus equity But we know
 
 •  The ﬁrm takes CFs apart, •  We (investors) put them back together No taxes: •  Firm CFs  → Debt   $^+$   Equity •  Investors take Debt  $^+$   Equity  $\rightarrow$  Firm CFs Yes taxes, Net out tax shield PV •  Firm CFs  $\mathsf{C F s\to D e b t+E q u i t y+T a x e s}$  •  Investors take Debt  $^+$   Equity  $\rightarrow$  Firm CFs – Taxes For Debt, Gov’t gives some taxes back •  With debt, get CF of tax shield,    $T_{c}\cdot I n t$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/079ba3e8870359a230c2dd6c4f51a0390c2f15ef5c2d40f2408636daf17c1f25.jpg)  
+ ![500](Attachments/500-887.jpg)  
 # In-Class Exercise: Tax Shield as Government Subsidy – PV Tax Shield  
 
 In M&M (no taxes) there are two slices to the pizza: debt & equity  
@@ -3208,7 +3208,7 @@ Fun result: PV(tax shield) =  $\mathsf{P V}(\mathsf{t a x\ s h i e l d})=\,T_{c}
 •  Yrly   $\mathsf{C F}=T_{c}\cdot D\cdot r$  , every yr forever (annuity) •  PV Annuity =  $={C F}/{r}={T_{c}}\cdot{D}\cdot{r}/{r}={T_{c}}\cdot{D}$  
 
 Example: Johnson & Johnson (\$mn) – BMA Section 18-1, p 449 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d6ee5dc1304dea3aaf81ac692ff25dcce36b4327794e5a2920f1c5a48021b10c.jpg)  
+ ![500](Attachments/500-889.jpg)  
 # In-Class Exercise: Tax Shield as Government Subsidy – PV Tax Shield  
 
 Now let’s move \$10,000mn from Equity to Debt. In-class Exercise Market value liabilities: Borrow additional \$10,000 (increase “LT Debt”)  
@@ -3218,7 +3218,7 @@ Now let’s move \$10,000mn from Equity to Debt. In-class Exercise Market value 
 •  Add this to the original \$2,737 to get new PV Tax Shield •  Calculate MV of “Total Assets” •  MV “Total Assets”  $={\mathsf{M V}}$   “Total Liabilities”  
 
 Example: Johnson & Johnson (\$mn) – BMA Section 18-1, p 449 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b711c38c1198c6cfc2129932f1bbc78b1f66a45f3291a80f6e9d25cec218eee0.jpg)  
+ ![500](Attachments/500-920.jpg)  
 # In-Class Exercise: Tax Shield as Government Subsidy – PV Tax Shield  
 
 Now let’s move \$10,000mn from Equity to Debt. In-class Exercise Market value liabilities: Borrow additional \$10,000 (increase “LT Debt”)  
@@ -3228,7 +3228,7 @@ Now let’s move \$10,000mn from Equity to Debt. In-class Exercise Market value 
 •  Add this to the original \$2,737 to get new PV Tax Shield •  Calculate MV of “Total Assets” •  MV “Total Assets”  $={\mathsf{M V}}$   “Total Liabilities” •  MV “Total Value” up – government gives cash back •  Back out MV “Equity”  
 
 Example: Johnson & Johnson (\$mn) – BMA Section 18-1, p 449 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/47be20db70ac0ea32896fdc05c4a2375f30faef49a4159499665bb1bb337b0a8.jpg)  
+ ![500](Attachments/500-889.jpg)  
 # In-Class Exercise: Tax Shield as Government Subsidy – PV Tax Shield  
 
 Now let’s move \$10,000mn from Equity to Debt. In-class Exercise Market value liabilities: Borrow additional \$10,000 (increase “LT Debt”)  
@@ -3237,7 +3237,7 @@ Now let’s move \$10,000mn from Equity to Debt. In-class Exercise Market value 
 
 •  Add this to the original \$2,737 to get new PV Tax Shield •  Calculate MV of “Total Assets” •  MV “Total Assets”  $={\mathsf{M V}}$   “Total Liabilities” •  MV “Total Value” up – government gives cash back •  Back out MV “Equity” •  Shareholders win by \$2,100. Why? •  Get \$10,000 from issuing new bond, MV equity down by only \$7,900 Example: Johnson & Johnson (\$mn) – BMA Section 18-1, p 449  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f521f6c3ba324581e83e8bcbc4b469ef55828efb2092e0068a7365708350c466.jpg)  
+ ![500](Attachments/500-810.jpg)  
 # Value of Tax Shield  
 
 MV of debt up by \$10,000mn, but MV of equity only down \$7,900mn.  
@@ -3257,18 +3257,18 @@ Look at Costs of high debt (bankruptcy)
 
 We don’t see ﬁrms using all debt  
 
-•  Some industries (inrternet like Google) borrow nothing •  Others (airlines) borrow a lot Need to dig deeper, understand why industries vary •  Example of economic theory deepening our understanding of the world •  Taxes partial, turn to bankruptcy costs, [[Financial Intermediation as Delegated Monitoring|information asymmetry]]  
+•  Some industries (inrternet like Google) borrow nothing •  Others (airlines) borrow a lot Need to dig deeper, understand why industries vary •  Example of economic theory deepening our understanding of the world •  Taxes partial, turn to bankruptcy costs, [information asymmetry](../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-%20Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Financial%20Intermediation%20as%20Delegated%20Monitoring.md)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8875cb1e29dd480f83ca6ab94961bdead20755566c34d42be7c12a84e49541d7.jpg)  
-1  [[Liquidity Preference Market Segmentation and P|Modigliani]] & Miller Prop 1 – [[Introduction to Corporate Finance|Capital Structure]] Irrelevance (BMA Ch 17)  
+ ![500](Attachments/500-889.jpg)  
+1  [Modigliani](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Liquidity%20Preference%20Market%20Segmentation%20and%20P.md) & Miller Prop 1 – [Capital Structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) Irrelevance (BMA Ch 17)  
 
 Perfect Capital Markets  
 
 Carving up Cash Flows  
 
-“Unwinding” [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]  
+“Unwinding” [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)  
 
-M&M Proposition 1: [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] Doesn’t Matter  
+M&M Proposition 1: [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) Doesn’t Matter  
 
 “Imperfect” Capital Markets  
 
@@ -3276,14 +3276,14 @@ First View – “Perfect Markets” – M&M – Debt vs Equity Irrelevant
 
 Second View – Interest Deductible, Go To Debt  
 
-Third View – [[Southland Corp. (c)|Financial Distress]] & Trade-O!  
+Third View – [Financial Distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md) & Trade-O!  
 
 Fourth View – Asymmetric Information & Debt  
 
 Final Synthesis  
 # What Pushes Away from 100% Debt?  
 
-We don’t see really high debt ratios (in most industries) Good evidence ﬁrms don’t fully exploit tax shield Major reason - cost of debt and cost of  [[Southland Corp. (c)|Financial Distress]] BUT – this is not “Bankruptcy” alone •  Monetary costs associated with bankruptcy itself •  Games played before bankruptcy  
+We don’t see really high debt ratios (in most industries) Good evidence ﬁrms don’t fully exploit tax shield Major reason - cost of debt and cost of  [Financial Distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md) BUT – this is not “Bankruptcy” alone •  Monetary costs associated with bankruptcy itself •  Games played before bankruptcy  
 # Bankruptcy  
 
 Bankruptcy is a beautiful thing – part of the power of free markets  
@@ -3301,7 +3301,7 @@ Simple act of bankruptcy not a “cost” – don’t get confused by  loss in b
 Bankruptcy is simple and wonderful part of capitalism  
 # Financial Distress  
 
-[[Southland Corp. (c)|Financial Distress]] is more the simple Bankruptcy:  
+[Financial Distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md) is more the simple Bankruptcy:  
 
 Promises to creditors are honored with di!culty (imposing costs)  
 
@@ -3325,16 +3325,16 @@ Bankruptcy can be long, expensive process
 
 Economics teaches us to think about  Incentives Before bankruptcy, probability high, substantial costs.  
 
-•  Diverging incentives: pushes people to play “games” •  Individually optimal (for shareholders), but destroy ﬁrm value Game 1 – Risk Shifting •  Shareholders take on extra risk Other games •  Failure to contribute equity capital •  Cash in and run •  Play for time Costs of [[Southland Corp. (c)|Financial Distress]]  ↑ with level of debt Costs of Distress vary with type of asset •  Airplanes – physical asset, easy to re-sell, won’t lose value •  Trading franchise – disappears over a weekend (Lehman in 2008)  
+•  Diverging incentives: pushes people to play “games” •  Individually optimal (for shareholders), but destroy ﬁrm value Game 1 – Risk Shifting •  Shareholders take on extra risk Other games •  Failure to contribute equity capital •  Cash in and run •  Play for time Costs of [Financial Distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md)  ↑ with level of debt Costs of Distress vary with type of asset •  Airplanes – physical asset, easy to re-sell, won’t lose value •  Trading franchise – disappears over a weekend (Lehman in 2008)  
 # Risk Shifting – Equity as Call  
 
 Powerful idea: Equity is call option on ﬁrm value  
 
 •  Shareholders get proﬁts if Assets   $>$   Debt •  Shareholders walk away for free if Assets   $<$   Debt  
 
-From seminal paper by [[Credit Markets Session 5|Merton]] (1974) – [[Corporate Bonds and Loans|Corporate debt]] as put option  
+From seminal paper by [Merton](../Credit%20Markets/Credit%20Markets%20Session%205.md) (1974) – [Corporate debt](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Corporate%20Bonds%20and%20Loans.md) as put option  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d63aed9872536fa7988ab9946a6a2fd18956686e8b1e838029afb5066f45211e.jpg)  
+ ![500](Attachments/500-876.jpg)  
 
 Stock – call option “hockey stick” – Long  
 
@@ -3345,9 +3345,9 @@ Stock – call option “hockey stick” – Long
 
 Stock: Long Call; Bond: Short Put: Option value  ↑ as Volatility  ↑  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c3f67ea02a032af2c42fc5cc245f44a7918da4efc2fb6a912f80ef976803ca50.jpg)  
+ ![500](Attachments/500-876.jpg)  
 
-See this looking at: •  [[Mathematical Modeling of Derivative Pricing|Black-Scholes]] option formula – •  Assets just  $<\mathtt{B}$  : I win if  $\uparrow$  , you lose if  ↓ Shareholders want to increase volatility: Call  ↑ , Put  ↓ Example: Assets  $<\mathtt{B}$  , but interest not due for another year  
+See this looking at: •  [Black-Scholes](../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md) option formula – •  Assets just  $<\mathtt{B}$  : I win if  $\uparrow$  , you lose if  ↓ Shareholders want to increase volatility: Call  ↑ , Put  ↓ Example: Assets  $<\mathtt{B}$  , but interest not due for another year  
 
 •  Shareholders can take on negative NPV project that has slight chance of moving Assets > B •  Destroys value, but shareholders have nothing to lose  
 # Risk Shifting Example  
@@ -3356,11 +3356,11 @@ See this looking at: •  [[Mathematical Modeling of Derivative Pricing|Black-Sc
 
 •  Bonds worth   $\S25$   (  $<$   promised \$50) – need option model to get value  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e51386236b163c43db99142719213ac7697c293107feeabc4fbb2c7bccba6363.jpg)  
+ ![500](Attachments/500-886.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e44cd50270b464317469b54861b642411a497249627ab854d55c5312e879a8d0.jpg)  
+ ![500](Attachments/500-886.jpg)  
 
-Negative NPV Project:   $£_{10}$   [[An Asset Allocation Primer|investment]],   $10\%$   chance \$120,  $90\%$   lose   $\S3.56$  ;  
+Negative NPV Project:   $£_{10}$   [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md),   $10\%$   chance \$120,  $90\%$   lose   $\S3.56$  ;  
 
 •  EV = \$8.80  $\mathsf{E V}=\S8.80$  
 
@@ -3382,11 +3382,11 @@ Failure to contribute equity capital
 
 Debt  ↑  $\Rightarrow$  tax savings  ↑ , but also prob of bankruptcy  ↑ (moves up    $B$  , bankruptcy threshold)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8943cf12c0895a126d041e7324fdc351c3f016fc3a14bb8057ca9ac4babd81ea.jpg)  
+ ![500](Attachments/500-814.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/698fb59534f9d4b1d535e1770e6165f93a8794f8ca71bb0eb38eccf833378540.jpg)  
+ ![500](Attachments/500-784.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/70a3881b5a58cb8b114457133d4f172e123cd6b8d91449c2819b81eb28f90c18.jpg)  
+ ![500](Attachments/500-917.jpg)  
 
 Tradeo! between tax beneﬁts   $\&$   bankruptcy costs  Easy-to-sell assets (lower cost in bankruptcy) should have higher debt  
 
@@ -3399,15 +3399,15 @@ Explains many observations
 But not complete story – many successful ﬁrms use little debt  
 
 •  Southwest Airlines, largely equity-ﬁnanced (2009)  
-1  [[Liquidity Preference Market Segmentation and P|Modigliani]] & Miller Prop 1 – [[Introduction to Corporate Finance|Capital Structure]] Irrelevance (BMA Ch 17)  
+1  [Modigliani](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Liquidity%20Preference%20Market%20Segmentation%20and%20P.md) & Miller Prop 1 – [Capital Structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) Irrelevance (BMA Ch 17)  
 
 Perfect Capital Markets  
 
 Carving up Cash Flows  
 
-“Unwinding” [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]  
+“Unwinding” [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)  
 
-M&M Proposition 1: [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] Doesn’t Matter  
+M&M Proposition 1: [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) Doesn’t Matter  
 
 “Imperfect” Capital Markets  
 
@@ -3415,7 +3415,7 @@ First View – “Perfect Markets” – M&M – Debt vs Equity Irrelevant
 
 Second View – Interest Deductible, Go To Debt  
 
-Third View – [[Southland Corp. (c)|Financial Distress]] & Trade-O!  
+Third View – [Financial Distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md) & Trade-O!  
 
 Fourth View – Asymmetric Information & Debt  
 
@@ -3432,15 +3432,15 @@ Result:  Both ﬁrms pushed towards debt
 Firms prefer internal ﬁnance – reinvesting earnigns so don’t have to issue new equity
 
   If have to raise external ﬁnance, start with debt, then equity as last resort  
-1  [[Liquidity Preference Market Segmentation and P|Modigliani]] & Miller Prop 1 – [[Introduction to Corporate Finance|Capital Structure]] Irrelevance (BMA Ch 17)  
+1  [Modigliani](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Liquidity%20Preference%20Market%20Segmentation%20and%20P.md) & Miller Prop 1 – [Capital Structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) Irrelevance (BMA Ch 17)  
 
 Perfect Capital Markets  
 
 Carving up Cash Flows  
 
-“Unwinding” [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]  
+“Unwinding” [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)  
 
-M&M Proposition 1: [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] Doesn’t Matter  
+M&M Proposition 1: [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) Doesn’t Matter  
 
 “Imperfect” Capital Markets  
 
@@ -3448,7 +3448,7 @@ First View – “Perfect Markets” – M&M – Debt vs Equity Irrelevant
 
 Second View – Interest Deductible, Go To Debt  
 
-Third View – [[Southland Corp. (c)|Financial Distress]] & Trade-O!  
+Third View – [Financial Distress](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md) & Trade-O!  
 
 Fourth View – Asymmetric Information & Debt  
 
@@ -3465,7 +3465,7 @@ Not perfect, but we have come a long way in understanding capital markets using 
 •  M&M not “true” but incredibly useful  
 E!cient Markets Lecture 12 Thomas S. Coleman 26 April 2023; Draft May 3, 2023  
 
-Outline Contents 1 E!cient Markets and Random Walks 1 2 Random Walks and Simple Econometrics 3 2.1 Simple Econometrics Example . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 3 [[Assets|Returns]] and Normality 7 4 Idea of Price E!ciency in Finance 11 5 Five Lessons of Market E!ciency 14 6 Evidence Against Market E!ciency 17 7 [[Liquidity Preference Market Segmentation and P|Modigliani]] & Miller Prop 1 – [[Introduction to Corporate Finance|Capital Structure]] Irrelevance (BMA Ch 17) 17 7.1 Perfect Capital Markets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 7.2 Carving up Cash Flows . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19  
+Outline Contents 1 E!cient Markets and Random Walks 1 2 Random Walks and Simple Econometrics 3 2.1 Simple Econometrics Example . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 3 [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) and Normality 7 4 Idea of Price E!ciency in Finance 11 5 Five Lessons of Market E!ciency 14 6 Evidence Against Market E!ciency 17 7 [Modigliani](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Liquidity%20Preference%20Market%20Segmentation%20and%20P.md) & Miller Prop 1 – [Capital Structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) Irrelevance (BMA Ch 17) 17 7.1 Perfect Capital Markets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 7.2 Carving up Cash Flows . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19  
 
 # 1 E!cient Markets and Random Walks  
 
@@ -3492,25 +3492,25 @@ There is no (or very little) “left over” information that is not used today 
 
 • People try to make money • So use information quickly • So only new information changes price • All of today’s information in today’s price  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ac302696fdba05aa59ea301fad7f6c4a300c849f78d0cb6f3f14ae2e1809b5d2.jpg)  
+ ![500](Attachments/500-888.jpg)  
 
 This is (or was) a pretty revolutionary idea  
 
 • A big surprise, discovered by various people, at various times • Maurice Kendall in 1953, Louis Bachellier in 1900, French broker Jules Regnault in 1863  
 
 Makes sense – at least for liquid markets with lots of people and lots of money • Not so true for obscure markets – say eBay for egg coddlers  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eba61268f857e5fd9a41b1a430c051ca08f8ff3bccbf7df910d2b45f284c414b.jpg)  
+ ![500](Attachments/500-925.jpg)  
 
 # 2 Random Walks and Simple Econometrics  
 
 # Contents  
 
-Simple [[Some Discrete-Time Stochastic Processes|Random Walk]]: Easy But Often Fools Us Known : Price today    $P_{0}$  Unknown : Price tomorrow    $P_{1}$  Unknown  Change    $\varepsilon=P_{1}-P_{0}$  [[Some Discrete-Time Stochastic Processes|Random walk]] is simplest statistical model for changes    $\varepsilon$  • Flip a coin: –  heads: go up,  ω  = +1;    $P_{1}=P_{0}+1$  ; –  tails: go down,  ω  =  → 1;    $P_{1}=P_{0}-1$  Simplest statistical model for Price change (today to tomorrow) • Change completely random • Cannot forecast change  
+Simple [Random Walk](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Some%20Discrete-Time%20Stochastic%20Processes.md): Easy But Often Fools Us Known : Price today    $P_{0}$  Unknown : Price tomorrow    $P_{1}$  Unknown  Change    $\varepsilon=P_{1}-P_{0}$  [Random walk](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Some%20Discrete-Time%20Stochastic%20Processes.md) is simplest statistical model for changes    $\varepsilon$  • Flip a coin: –  heads: go up,  ω  = +1;    $P_{1}=P_{0}+1$  ; –  tails: go down,  ω  =  → 1;    $P_{1}=P_{0}-1$  Simplest statistical model for Price change (today to tomorrow) • Change completely random • Cannot forecast change  
 # Amazing: Random Walk Looks Like “Bull & Bear” Markets  
 
-[[Some Discrete-Time Stochastic Processes|Random Walk]]: ﬂip a coin: heads go   $+1$  , tails go  $-1$  
+[Random Walk](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Some%20Discrete-Time%20Stochastic%20Processes.md): ﬂip a coin: heads go   $+1$  , tails go  $-1$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0021a7b56699dccafc088a18ace685ea6f18051005af257f14592717b48b2497.jpg)  
+ ![500](Attachments/500-922.jpg)  
 Feller Volume I ﬁgure 4  
 
 • Anyone would swear there are trends – Bull markets, Bear markets  
@@ -3537,7 +3537,7 @@ $$
 P_{t}^{e q u i t y}=P_{t-1}^{e q u i t y}+\varepsilon_{t}\;\;\;\varepsilon\sim N(0,4)\quad\qquad P_{t}^{b o n d}=P_{t-1}^{b o n d}+\nu_{t}\;\;\;\nu\sim N(0,1)
 $$  
 
-then run regression  $P_{t}^{b o n d}=\alpha+\beta\cdot P_{t}^{e q u i t y}+u_{t}$   · , and repeat many times (1000 separate regressions) •  RStudio Notebook  Sim [[Some Discrete-Time Stochastic Processes|Random Walk]] 1. Rmd  &  .nb.html  on Canvas ( ﬁles )  
+then run regression  $P_{t}^{b o n d}=\alpha+\beta\cdot P_{t}^{e q u i t y}+u_{t}$   · , and repeat many times (1000 separate regressions) •  RStudio Notebook  Sim [Random Walk](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Some%20Discrete-Time%20Stochastic%20Processes.md) 1. Rmd  &  .nb.html  on Canvas ( ﬁles )  
 
 Textbooks tell us that   $5\%$   of our sample (50 regressions)   $\mathrm{t}$  -ratio  $\frac{{\hat{\beta}}-0}{S E}$    should be large (outside of ± 1 . 972 ) This regression shows wildly di!erent results: The simulation has   ${\bf85\%}$   outside the bands  
 
@@ -3546,7 +3546,7 @@ Textbooks tell us that   $5\%$   of our sample (50 regressions)   $\mathrm{t}$  
 Random walks are  not  well-behaved – never ever run levels regressions for random walks  
 
 • Originally discussed by Granger and Newbold, 1974.  Spurious regressions in econometrics . Journal of Econometrics. see also https://davegiles.blogspot.com/2015/10/illustratingspurious-regressions.html  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/be39d34f14f06740338b7e2f5994dd43c2d2bdf65a08749af3db99f169aca0f0.jpg)  
+ ![500](Attachments/500-923.jpg)  
 Spurious Correlations – Levels, Trends, and Random Walks  
 
 Note the trend – both are going down  
@@ -3572,10 +3572,10 @@ $$
 Y_{t}-Y_{t-1}=\alpha+\beta\left(X_{t}-X_{t-1}\right)+e_{t}
 $$  
 
-• Not quite true – you want to examine whether your economic time-series is (close to) a [[Some Discrete-Time Stochastic Processes|random walk]] • Unemployment rate, for example, does not look like a [[Some Discrete-Time Stochastic Processes|random walk]]. But employment (number of people) does • John Cochrane (a really good economist, now at Hoover at Stanford) has a good blog post: https://john h cochrane.blogspot.com/2015/04/unit-roots-redux.html  
+• Not quite true – you want to examine whether your economic time-series is (close to) a [random walk](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Some%20Discrete-Time%20Stochastic%20Processes.md) • Unemployment rate, for example, does not look like a [random walk](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Some%20Discrete-Time%20Stochastic%20Processes.md). But employment (number of people) does • John Cochrane (a really good economist, now at Hoover at Stanford) has a good blog post: https://john h cochrane.blogspot.com/2015/04/unit-roots-redux.html  
 # Contents  
 
-1-Slide [[Squam Lake Group Introduction|Introduction]] to Time-Series Econometrics Huge area of statistics, econometrics, economics • Many, many economic time-series are random walks, or close Some facts and terminology – Auto regressions • Many economic time-series well-described by    $X_{t}=\rho\cdot X_{t-1}+\varepsilon_{t}$  –    $\varepsilon_{t}$   random (say Normal),    $\rho$   close to 1 • When    $\rho=1$   [[Some Discrete-Time Stochastic Processes|Random Walk]] –    $\varepsilon_{t}$   is completely new information –  Unit Root – changes (  $\varepsilon_{t}$  ) random and independent –  Correlation between    $X_{t}-X_{t-1}\,\&\,X_{t+1}-X_{t}$   is zero • When    $\rho\approx1$   then new information dies, transitory –  But close to 1 is almost RW, still have problems Most Important: • Never blindly run regressions in levels • Always think about di!erences  
+1-Slide [Introduction](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to Time-Series Econometrics Huge area of statistics, econometrics, economics • Many, many economic time-series are random walks, or close Some facts and terminology – Auto regressions • Many economic time-series well-described by    $X_{t}=\rho\cdot X_{t-1}+\varepsilon_{t}$  –    $\varepsilon_{t}$   random (say Normal),    $\rho$   close to 1 • When    $\rho=1$   [Random Walk](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Some%20Discrete-Time%20Stochastic%20Processes.md) –    $\varepsilon_{t}$   is completely new information –  Unit Root – changes (  $\varepsilon_{t}$  ) random and independent –  Correlation between    $X_{t}-X_{t-1}\,\&\,X_{t+1}-X_{t}$   is zero • When    $\rho\approx1$   then new information dies, transitory –  But close to 1 is almost RW, still have problems Most Important: • Never blindly run regressions in levels • Always think about di!erences  
 
 # Investigating Random Walks   $\&$   “Spurious Correlation”  
 $$
@@ -3583,7 +3583,7 @@ $$
 $$  
 
 Completely independent, nothing to do with each other But run regression    $P_{t}^{e q i u t y}=\alpha\bar{+}\beta P_{t}^{b o n d}+e_{t}$  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a770e5ef35465192abeaf27a5636c9a8fb4a5dd7ae4856a59b247a61b1236e62.jpg)  
+ ![500](Attachments/500-892.jpg)  
 
 We want to test whether they are related – whether    $Y$   (equities) move down when    $X$   (bonds) move up  
 
@@ -3598,7 +3598,7 @@ Percent Changes For ﬁnancial markets and asset prices, always use percent chan
 
 Example of Series with non-stationary mean (growing or falling, but no stable mean)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2f2944df54b7926ca7aec310397612f27df979aa8bb8f8125547ad80b7eacaa1.jpg)  
+ ![500](Attachments/500-893.jpg)  
 
 From Yahoo Finance  
 
@@ -3615,19 +3615,19 @@ Often work with Normal Distribution
 But we care about the whole distribution (not just    $\mu\,\&\,\sigma$  )  
 # Normal Works OK, Not Perfect  
 
-IBM,   $^{40+}$   years of daily [[Assets|returns]]  
+IBM,   $^{40+}$   years of daily [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
 
 •    $\mu=0.024\%$  ,    $\sigma=1.417\%$   (log changes) • Histogram, overlaid with normal • Not too bad – Good as a start  
 
 But certainly not perfect  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a79419502cc7dff1457661a94bf618cbdaefbd69262e35149fa31bcba81088e4.jpg)  
+ ![500](Attachments/500-919.jpg)  
 
 • Scatter diagrams • Actual and Predicted (Normal)  
 
 Certainly not perfect  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/18c8bcc3cf41ee80257e654ef639896bb3ccddd6ba8c125e2c1e84a323e5d7c0.jpg)  
+ ![500](Attachments/500-834.jpg)  
 
 IBM data and program under:  
 
@@ -3658,16 +3658,16 @@ Normal does  very  badly
 
 • Many more large moves   $(4\sigma,\,5\sigma)$   than predicted Coleman • Need other distributions:    $t.$  -distribution, mixture of normals  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/72ec73e027a134ce490bf432a967b63d8b8548eb4688ca57ff67a927e9b231e1.jpg)  
+ ![500](Attachments/500-894.jpg)  
 # 4 Idea of Price E!ciency in Finance  
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1194dbc563105c3ac93042fc5712dd94d041810bae4894ac7e90e48e6814e15d.jpg)  
+ ![500](Attachments/500-797.jpg)  
 
-Louis Bachelier Ph.D. dissertation (1900) "The Theory of Speculation" Paul Cootner in his 1964 book  The Random Character of [[Hedge Fund Strategies|Stock Market]] Prices . The term was popularized by the 1973 book,  A [[Some Discrete-Time Stochastic Processes|Random Walk]] Down Wall Street , by Burton Malkiel, a Professor of Economics at Princeton University. Eugene Fama’s 1965 article "Random Walks In [[Hedge Fund Strategies|Stock Market]] Prices". The theory that stock prices move randomly was earlier proposed by Maurice Kendall in his 1953 paper,  The Analysis of Economic Time Series, Part 1: Prices .  
+Louis Bachelier Ph.D. dissertation (1900) "The Theory of Speculation" Paul Cootner in his 1964 book  The Random Character of [Stock Market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) Prices . The term was popularized by the 1973 book,  A [Random Walk](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Some%20Discrete-Time%20Stochastic%20Processes.md) Down Wall Street , by Burton Malkiel, a Professor of Economics at Princeton University. Eugene Fama’s 1965 article "Random Walks In [Stock Market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) Prices". The theory that stock prices move randomly was earlier proposed by Maurice Kendall in his 1953 paper,  The Analysis of Economic Time Series, Part 1: Prices .  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c97a58c280925fce73dd8972b45140548b5f28edb5cb2158776f3c1cf86646cb.jpg)  
+ ![500](Attachments/500-927.jpg)  
 # Believe in Markets  
 
 In general, if you see a market price you should believe it  
@@ -3676,7 +3676,7 @@ In general, if you see a market price you should believe it
 
 Think carefully about your comparative advantage – are you really smarter than everyone else? • Could be, but you are saying you are smarter than all the others E"cient Markets come down to “The Wisdom of Crowds” • The market may not always be right, but be careful betting against it  
 
-Old joke – professor & student see   $\S{100}$  , professor says “can’t be with e"cient markets” Aside on “[[Short Selling|shorting]]” – valuable – part of making markets e"cient  
+Old joke – professor & student see   $\S{100}$  , professor says “can’t be with e"cient markets” Aside on “[shorting](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Short%20Selling.md)” – valuable – part of making markets e"cient  
 
 • People putting their money on the line  
 
@@ -3690,8 +3690,8 @@ Evidence that markets are “e"cient” – build in new information quickly
 
 • Good news into prices almost immediately • After announcement – no new information (on average – some ﬁrms good, some bad) • Why drift up before?  Insider trading  – news leaks out  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f244f6f83707197846217911f87cd9dd4c63137592f65e804cb9ba86be1198f5.jpg)  
-BKM Fig 11.1, Cumulative Abnormal [[Assets|Returns]]  
+ ![500](Attachments/500-888.jpg)  
+BKM Fig 11.1, Cumulative Abnormal [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
 
 Bodie, Kane, Miller (Investments) Figure 11.1. From Arthur Keown and John Pinkerton, “Merger Announcements and Insider Trading Activity,”  Journal of Finance  36 (September 1981)  
 # Information Goes In Quickly  
@@ -3702,25 +3702,25 @@ Stocks mentioned on CNBC “Midday Call”
 
 Markets so competitive (so many investors scrambling to make money) everything happens quickly • Why longer for negative? Di"cult and expensive to short-sell stocks  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/433fa77eb53d8ffb8bea3bf422b77de93b0acb59e14c1c7bb8484a217144d90c.jpg)  
+ ![500](Attachments/500-889.jpg)  
 BKM Fig 11.2, Reaction to CNBC Reports  
 
-Bodie, Kane, Miller (Investments) Figure 11.2. [[Chapter 16 - Black–Scholes Model|Stock price]] reaction to CNBC reports. The ﬁgure shows the reaction of stock prices to on-air stock reports during the “Midday Call” segment on CNBC. The chart plots the cumulative [[Assets|returns]] beginning 15 minutes before the stock report. From J.A. Busse and T.C. Green, “Market E"ciency in Real Time,”  Journal of Financial Economics  65 (2002) p. 422  
+Bodie, Kane, Miller (Investments) Figure 11.2. [Stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) reaction to CNBC reports. The ﬁgure shows the reaction of stock prices to on-air stock reports during the “Midday Call” segment on CNBC. The chart plots the cumulative [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) beginning 15 minutes before the stock report. From J.A. Busse and T.C. Green, “Market E"ciency in Real Time,”  Journal of Financial Economics  65 (2002) p. 422  
 
 # Weak, Semi-Strong, Strong: Private Information  
 
 Three forms of Market E"ciency:  
 
-1. Weak: Past Price Information: Current prices reﬂect information in past prices (impossible to make consistent proﬁts using past  prices ) – prices follow [[Some Discrete-Time Stochastic Processes|random walk]] 2. Semi-Strong: All Public Information: Current prices reﬂect  all  public information (news reports, etc.) 3. Strong:  All  Information, Public & Private  
+1. Weak: Past Price Information: Current prices reﬂect information in past prices (impossible to make consistent proﬁts using past  prices ) – prices follow [random walk](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Some%20Discrete-Time%20Stochastic%20Processes.md) 2. Semi-Strong: All Public Information: Current prices reﬂect  all  public information (news reports, etc.) 3. Strong:  All  Information, Public & Private  
 
 I was a little skeptical of Strong Form, but here’s an extraordinary example  
 
-• “The [[Hedge Fund Strategies|stock market]] speaks: How Dr. Alchian learned to build the bomb”  Journal of [[Corporate Finance Lecture Notes|Corporate Finance]]  2014 • 1954, top-secret hydrogen bomb testing.  No  public information on what element used (was lithium) • Aremen A. Alchian used [[Hedge Fund Strategies|stock market]] prices to discover that it was lithium –  Found that [[Chapter 16 - Black–Scholes Model|stock price]] of company producing and selling lithium went up more than other companies  
+• “The [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) speaks: How Dr. Alchian learned to build the bomb”  Journal of [Corporate Finance](Corporate%20Finance%20Lecture%20Notes.md)  2014 • 1954, top-secret hydrogen bomb testing.  No  public information on what element used (was lithium) • Aremen A. Alchian used [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) prices to discover that it was lithium –  Found that [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) of company producing and selling lithium went up more than other companies  
 
 In the end – idea of market e"ciency / competitiveness – more important than exact form  
 
-“The [[Hedge Fund Strategies|stock market]] speaks: How Dr. Alchian learned to build the bomb” Joseph Michael Newhard, Journal of [[Corporate Finance Lecture Notes|Corporate Finance]]  Volume 27, August 2014, Pages 116-132  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0b9e021551dc3366ac866075e00e9b0e9c4e5ff268ec364d848dfaaed328988f.jpg)  
+“The [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) speaks: How Dr. Alchian learned to build the bomb” Joseph Michael Newhard, Journal of [Corporate Finance](Corporate%20Finance%20Lecture%20Notes.md)  Volume 27, August 2014, Pages 116-132  
+ ![500](Attachments/500-894.jpg)  
 
 # 5 Five Lessons of Market E!ciency  
 
@@ -3728,29 +3728,29 @@ In the end – idea of market e"ciency / competitiveness – more important than
 
 Five Lessons of Market E!ciency 1. Markets Have No Memory 2. Trust Market Prices 3. “Read the Entrails” 4. Do-It-Yourself Alternative  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ed2ddc37d7acb83d553fe8b61399d40c0bda5a72e856e8b5da1aabeecd8242ff.jpg)  
+ ![500](Attachments/500-926.jpg)  
 # History – Always use Returns (Changes)  
 
 When looking at history, always look at  changes , never the price • We care about uncertainty of cash ﬂows, and it is the  changes  that are uncertain and random  
 
-Use  [[Assets|returns]]    $\begin{array}{r}{\%=\frac{P_{t}-P_{t-1}}{P_{t-1}}}\end{array}$  to adjust for size of price or wealth →  
+Use  [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)    $\begin{array}{r}{\%=\frac{P_{t}-P_{t-1}}{P_{t-1}}}\end{array}$  to adjust for size of price or wealth →  
 
 • Example: S&P 2008, 2009, 2010 (end-of-year)  
 
-Prices versus [[Assets|Returns]] •  Changes  are the new & random part  
+Prices versus [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) •  Changes  are the new & random part  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f834f6b6b190849df6492c2e7eac0ab08d449f26c5a5c31876a0ec1b63f46de0.jpg)  
-[[Assets|Returns]] normalize for size  
+ ![500](Attachments/500-886.jpg)  
+[Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) normalize for size  
 
 2007: 1468.36 1967: 96.47 •   $1\ \%$   change means same change per \$1 invested  
 
 # Prices & Returns from Problem  
 
-ALWAYS look at price changes or [[Assets|returns]] – when measuring means, standard deviations • The  change  in price is the new or random part  
+ALWAYS look at price changes or [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) – when measuring means, standard deviations • The  change  in price is the new or random part  
 
-Use    $\begin{array}{r}{\%=\frac{P_{t}-P_{t-1}}{P_{t-1}}}\end{array}$  to adjust for size of [[An Asset Allocation Primer|investment]] → Quotes and Prices for UST and S&P [[Futures Not Subject to Cash-And-Carry|Futures]]  
+Use    $\begin{array}{r}{\%=\frac{P_{t}-P_{t-1}}{P_{t-1}}}\end{array}$  to adjust for size of [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) → Quotes and Prices for UST and S&P [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5f9a70211b30c498c2153a84aa1c304312bcca27110a97a1842940fda812ef94.jpg)  
+ ![500](Attachments/500-893.jpg)  
 
 # 2 – Trust Market Prices  
 
@@ -3761,7 +3761,7 @@ You may be smarter than everyone else,
 
 Use information in market prices  
 
-• We have been doing this with bonds, spread • Using market prices to back out [[PSET 7- Kohler|discount rate]] and risk premium  
+• We have been doing this with bonds, spread • Using market prices to back out [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) and risk premium  
 
 Verizon & Bank of America example – in 2010  
 
@@ -3777,7 +3777,7 @@ Another example: mortgage-backed AAA CDOs in 2005 – trading at 80bp spread ver
 
 Investors will not pay others for what they can do themselves  
 
-• Basis of [[Liquidity Preference Market Segmentation and P|Modigliani]] & Miller “[[Introduction to Corporate Finance|Capital Structure]] Irrelevance” – investors will not pay extra for arranging debt versus equity because investors can do it – buy bonds & equity  
+• Basis of [Modigliani](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Liquidity%20Preference%20Market%20Segmentation%20and%20P.md) & Miller “[Capital Structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) Irrelevance” – investors will not pay extra for arranging debt versus equity because investors can do it – buy bonds & equity  
 
 Companies often justify mergers because it provides “divers i cation” • Investors can get divers i cation more cheaply – buy equities or mutual funds  
 
@@ -3794,38 +3794,38 @@ Example – companies manage earnings, trying to make things look good
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6b883ec96a5d0186ef7a68fb7383ae1c8f8cf942dda36ca59bf01e33402ee0d9.jpg)  
+ ![500](Attachments/500-895.jpg)  
 
 # 7 Modigliani & Miller Prop 1 – Capital Structure Irrelevance (BMA Ch 17)  
 
 # Contents  
 
-Important Idea – Debt vs Equity in Firm [[Introduction to Corporate Finance|Capital Structure]] Does Not Matter Companies have part debt, part equity • FIS Assets: \$63.3bn; Debt: \$35.9bn (57%); Equity \$27.4bn (43%) [[Liquidity Preference Market Segmentation and P|Modigliani]]-Miller says total ﬁrm value does not depend on what percent debt, what percent equity Read “lecture 12b” for more detail  
-What Are “Perfect Capital Markets”? What do we mean by “Perfect” Capital Markets? (and “E"cient” Markets)? •  NOT  “good” in a normative sense – specialized or technical meaning of “theoretical ideal or starting point” • Nor “realistic” as in how markets actually behave Three assumptions: 1. [[Financial Mathematics Course|Complete Markets]]: Investors and ﬁrms trade securities at market prices, equal to PV of future CFs 2. No costs: no taxes, transactions costs, or issuance costs for trading securities 3. Financing does not change CFs: a ﬁrm’s ﬁnancing decisions do not change CFs generated by projects, and ﬁnancing does not reveals new information about future CFs  
+Important Idea – Debt vs Equity in Firm [Capital Structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) Does Not Matter Companies have part debt, part equity • FIS Assets: \$63.3bn; Debt: \$35.9bn (57%); Equity \$27.4bn (43%) [Modigliani](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Liquidity%20Preference%20Market%20Segmentation%20and%20P.md)-Miller says total ﬁrm value does not depend on what percent debt, what percent equity Read “lecture 12b” for more detail  
+What Are “Perfect Capital Markets”? What do we mean by “Perfect” Capital Markets? (and “E"cient” Markets)? •  NOT  “good” in a normative sense – specialized or technical meaning of “theoretical ideal or starting point” • Nor “realistic” as in how markets actually behave Three assumptions: 1. [Complete Markets](../Financial%20Engineering/Financial%20Mathematics%20Course.md): Investors and ﬁrms trade securities at market prices, equal to PV of future CFs 2. No costs: no taxes, transactions costs, or issuance costs for trading securities 3. Financing does not change CFs: a ﬁrm’s ﬁnancing decisions do not change CFs generated by projects, and ﬁnancing does not reveals new information about future CFs  
 
 # Value of “Perfect Markets”  
 
-These assumptions clearly not realistic. Why is the whole idea useful? • We get strong results: M&M Prop 1: [[Introduction to Corporate Finance|capital structure]] – debt vs equity – does not matter • We then can examine  why  [[Introduction to Corporate Finance|capital structure]] matters – because of taxes? transaction costs?  
+These assumptions clearly not realistic. Why is the whole idea useful? • We get strong results: M&M Prop 1: [capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) – debt vs equity – does not matter • We then can examine  why  [capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) matters – because of taxes? transaction costs?  
 
 General result for economic (and ﬁnance) theory: useful for pushing us to think about  how  and why  the world works as it does  
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/16008ca450bf9a7fdb7ab72d5a75a3ba0b55ef5b0a48b74e9c71369b36090f0c.jpg)  
+ ![500](Attachments/500-899.jpg)  
 # “Unwinding” Leverage  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9629699f24323e6dec4c8d2397a02486d2185d932d6e71b1f5c378ab4c3f6346.jpg)  
+ ![500](Attachments/500-828.jpg)  
 
 # Conclusion: M&M Proposition 1 – Leverage Irrelevant  
 
 Debt versus Equity is irrelevant  
 
-• “Do-it-yourself [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]]”  
+• “Do-it-yourself [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)”  
 
 • Investors can do or undo whatever the ﬁrm does  
 
 Dependent on  
 
-1. [[Financial Mathematics Course|Complete Markets]]: Investors and ﬁrms trade securities at market prices, equal to PV of future CFs 2. No costs: no taxes, transactions costs, or issuance costs for trading securities 3. Financing does not change CFs: a ﬁrm’s ﬁnancing decisions do not change CFs generated by projects, and ﬁnancing does not reveals new information about future CFs  
+1. [Complete Markets](../Financial%20Engineering/Financial%20Mathematics%20Course.md): Investors and ﬁrms trade securities at market prices, equal to PV of future CFs 2. No costs: no taxes, transactions costs, or issuance costs for trading securities 3. Financing does not change CFs: a ﬁrm’s ﬁnancing decisions do not change CFs generated by projects, and ﬁnancing does not reveals new information about future CFs  
 
 # References  
 # Securities Trading and How Equities are Issued  
@@ -3838,30 +3838,30 @@ Thomas S. Coleman 24 April 2023; Draft April 17, 2023
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d49066a6a5bd3a0e0b23a217e3621bde434f04b45c4d6b376f5772960c30189a.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cf2d6b486c31174df7a35fcc623cfc83982953e3b704cc60be83b3a328946cc8.jpg)  
+ ![500](Attachments/500-895.jpg)  
+ ![500](Attachments/500-785.jpg)  
 Primary Markets – Issuing  
 
-More details shortly on “Type of Market” Most securities “brokered” – managed by [[An Asset Allocation Primer|investment]] bank  
+More details shortly on “Type of Market” Most securities “brokered” – managed by [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) bank  
 
-• Auction: [[Credit Market Homework 1|US Treasuries]] always; equities rarely  
+• Auction: [US Treasuries](../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Homework%201.md) always; equities rarely  
 
 Some details:  
 
-• Equities and bonds usually issued through brokered market, with an [[An Asset Allocation Primer|investment]] bank acting as broker.  
+• Equities and bonds usually issued through brokered market, with an [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) bank acting as broker.  
 
 –  We will cover more detail about how equities are issued shortly  
 
 • US Government bonds are issued through an auction mechanism – the US Treasury provides a list of what securities are being issued, and primary dealers then give prices they would buy at, until all securities are sold  
 
-• State and local bonds, corporate bonds, foreign bonds (such as bonds issued by Brazil in the international market) are all brokered by commercial or [[An Asset Allocation Primer|investment]] banks  
+• State and local bonds, corporate bonds, foreign bonds (such as bonds issued by Brazil in the international market) are all brokered by commercial or [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) banks  
 
-Remember [[Credit Market Homework 1|US Treasuries]] Issued – Auction Col 1: Announcement Date – new issues trade When Issued (WI) Col 2: Auction Date – coupon set, trade normally  
+Remember [US Treasuries](../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Homework%201.md) Issued – Auction Col 1: Announcement Date – new issues trade When Issued (WI) Col 2: Auction Date – coupon set, trade normally  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7c402de673dc2b8cfa0bc011c00a2ab43bb9d2dec93aac435a830c5ade229afa.jpg)  
+ ![500](Attachments/500-894.jpg)  
 # Secondary Market: Markets, Investors, Securities  
 
-[[Primary Issuance and Secondary Resale Markets|Secondary Market]]: major locus or venue for investors to save and invest Structure for how securities traded – US markets spec i call y but similar world-wide  
+[Secondary Market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Primary%20Issuance%20and%20Secondary%20Resale%20Markets.md): major locus or venue for investors to save and invest Structure for how securities traded – US markets spec i call y but similar world-wide  
 
 • Types of markets: Brokered, Dealer, Auction • Investors: who they are and how they access the market  
 
@@ -3873,13 +3873,13 @@ Diagram provides framework
 
 • More detail in my “notes”  
 
-[[Primary Issuance and Secondary Resale Markets|Secondary Market]]: Markets, Investors, Securities  
+[Secondary Market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Primary%20Issuance%20and%20Secondary%20Resale%20Markets.md): Markets, Investors, Securities  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/070d14eef0cc909a664fcc3b0a09106d749d5e224cc192f06889e1838ba9681a.jpg)  
+ ![500](Attachments/500-893.jpg)  
 
 # Types of Markets  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/65c599993a841323a0a38df33fbe5f4d7cd3fdc124c616fa22b0cdf38479c97e.jpg)  
+ ![500](Attachments/500-892.jpg)  
 
 • Direct Search  
 
@@ -3896,15 +3896,15 @@ Diagram provides framework
 
 • Auction  
 
-–  Buyers and sellers get together in centralize exchange –  Used to be a physical location, now electronic –  Examples: NY Stock Exchange, CME [[Futures Not Subject to Cash-And-Carry|futures]] exchange – Movie “Trading Places” has scene of pit (auction) trading in Orange Juice [[Futures Not Subject to Cash-And-Carry|futures]]  
+–  Buyers and sellers get together in centralize exchange –  Used to be a physical location, now electronic –  Examples: NY Stock Exchange, CME [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) exchange – Movie “Trading Places” has scene of pit (auction) trading in Orange Juice [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)  
 
 # How Investors Buy and Sell  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/db92a31c3c7e4f0cd6cbdad5c28d2aa55991b2d50697e09fedff53cdbc9be074.jpg)  
+ ![500](Attachments/500-804.jpg)  
 
 Investors will buy and sell for many reasons  
 
-• Long-term [[An Asset Allocation Primer|investment]]  
+• Long-term [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
 –  Retirement –  Future spending (saving for children’s education, looking after one’s parents)  
 
@@ -3913,40 +3913,40 @@ Investors will buy and sell for many reasons
 
 –  May put it in a bank, but could also buy a bond or equity for a short period Investors almost always go through a broker, broker/dealer, or bank  
 
-• Individuals, corporations, retirement or mutual funds will almost never deal in the market directly but have a broker act on their behalf • A broker would be someone like Interactive Brokerage, Vanguard Broker Services, Fidelity,  $\mathrm{E^{*}}$  Trade, Charles Schwab –  The most basic allow you to buy and sell equities. More sophisticated will provide services in equities, bonds, FX, [[Futures Not Subject to Cash-And-Carry|futures]]. Domestic and international. • The broker will execute in the appropriate market on behalf of the investor  
+• Individuals, corporations, retirement or mutual funds will almost never deal in the market directly but have a broker act on their behalf • A broker would be someone like Interactive Brokerage, Vanguard Broker Services, Fidelity,  $\mathrm{E^{*}}$  Trade, Charles Schwab –  The most basic allow you to buy and sell equities. More sophisticated will provide services in equities, bonds, FX, [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md). Domestic and international. • The broker will execute in the appropriate market on behalf of the investor  
 
 # Equity Markets (Primary vs Secondary)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7329433d0e9abbd18c439b92c0e8fe034f88e05de5049a062da225dd6807fc54.jpg)  
+ ![500](Attachments/500-892.jpg)  
 
-[[Primary Issuance and Secondary Resale Markets|Secondary Market]]: Auction, with commission  
+[Secondary Market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Primary%20Issuance%20and%20Secondary%20Resale%20Markets.md): Auction, with commission  
 
 Distinguish between Primary (where companies issue new securities) and Secondary (where investors invest in securities already issued).  
 
 • Primary (we will discuss next section)  
 
-–  Companies issue the securities and raise the money from investors –  Almost always brokered, with an [[An Asset Allocation Primer|investment]] bank handling the details of required regulatory ﬁlings, [[Arbitrage Pricing of Derivatives|pricing]], ﬁnding investors, etc.  
+–  Companies issue the securities and raise the money from investors –  Almost always brokered, with an [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) bank handling the details of required regulatory ﬁlings, [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), ﬁnding investors, etc.  
 
-• [[Primary Issuance and Secondary Resale Markets|Secondary market]]  
+• [Secondary market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Primary%20Issuance%20and%20Secondary%20Resale%20Markets.md)  
 
-–  The original company is not involved –  Investors buy and sell the securities to invest and re-arrange their investments – to manage their [[An Asset Allocation Primer|portfolio]] –  For large public equities (Apple, IBM, Starbucks) it is auction market – buyers and sellers meet and negotiate price and quantity. e.g. NY Stock Exchange –  For small, privately issued securities it may be a brokered or dealer market  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8fdae386054e4a0593892bfde858b8a60e37904fa9cd1ecbb34c5548fc28bf54.jpg)  
+–  The original company is not involved –  Investors buy and sell the securities to invest and re-arrange their investments – to manage their [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) –  For large public equities (Apple, IBM, Starbucks) it is auction market – buyers and sellers meet and negotiate price and quantity. e.g. NY Stock Exchange –  For small, privately issued securities it may be a brokered or dealer market  
+ ![500](Attachments/500-892.jpg)  
 Bond (and FX) Markets  
 
 Dealer market, with dealer earning Bid/O!er spread (buy low bid price, sell high o!er price) rather than commission  
 
 Bond (and FX) markets virtually always dealer market  
 
-• Banks, [[An Asset Allocation Primer|investment]] banks, and confusingly often called brokers – buy and sell themselves, • Stand ready to buy from and sell to customers. –  Dealer chooses the price – will buy low (Bid Price) and sell high (O!er or Ask Price)  
+• Banks, [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) banks, and confusingly often called brokers – buy and sell themselves, • Stand ready to buy from and sell to customers. –  Dealer chooses the price – will buy low (Bid Price) and sell high (O!er or Ask Price)  
 
 # Futures Markets  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8cf5d83cae972be174f975077bda1878ead2e49faec5ea0998b428b14556b0de.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1b36cc1a66e4fe9934767fa7f42fb72e5cc84a677ad76a621f976e7fc0acd79b.jpg)  
+ ![500](Attachments/500-892.jpg)  
+ ![500](Attachments/500-895.jpg)  
 
 # 2 How Corporations Issue Equity  
 
-2.1 [[Overview of Financial Markets|Overview]] & Early Stage  
+2.1 [Overview](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md) & Early Stage  
 
 # Contents  
 
@@ -3954,14 +3954,14 @@ Ch. 15 of [Brealey et al.(2013)Brealey, Myers, and Allen] is more about equity f
 
 # Three Stages of Equity Funding  
 
-1. [[The Economist Intangible Capitalism|Venture Capital]] or Angel Investors and private funding – not publicly traded securities 2. IPO – Initial Public O!ering – the ﬁrst sale of securities to the public for a ﬁrm not publicly traded 3. SEO – Seasoned Equity O!ering – sale of securities to the public for an existing publiclytraded ﬁrm  
-Private Funding, Angel Investors, and [[The Economist Intangible Capitalism|Venture Capital]] Can be simple – raise funds from small, non-public, group – no public securities • At the simplest level this is family and friends. • Other outside investors often called Angel Investors • For a small start-up not necessary, but often good idea, to formalize with articles of incorporation and by-laws • Such formality necessary when money from outside enters. [[The Economist Intangible Capitalism|Venture Capital]]: • Equity provided by outside investors • In the form of shares that are not publicly traded  
+1. [Venture Capital](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Intangible%20Capitalism.md) or Angel Investors and private funding – not publicly traded securities 2. IPO – Initial Public O!ering – the ﬁrst sale of securities to the public for a ﬁrm not publicly traded 3. SEO – Seasoned Equity O!ering – sale of securities to the public for an existing publiclytraded ﬁrm  
+Private Funding, Angel Investors, and [Venture Capital](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Intangible%20Capitalism.md) Can be simple – raise funds from small, non-public, group – no public securities • At the simplest level this is family and friends. • Other outside investors often called Angel Investors • For a small start-up not necessary, but often good idea, to formalize with articles of incorporation and by-laws • Such formality necessary when money from outside enters. [Venture Capital](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Intangible%20Capitalism.md): • Equity provided by outside investors • In the form of shares that are not publicly traded  
 
 # Private Funding, Angel Investors, and Venture Capital  
 
 Very simple – raise funds from small, non-public, group – no public securities  
 
-• At the simplest level this is family and friends. –  The hedge fund I started in London fell into this category – the three founders put up the original equity. We got shares proportional to funds we put in. • Other outside investors are often called Angel Investors • For a small start-up it is not necessary, but it is often a very good idea, to formalize arrangements with articles of incorporation and by-laws that specify shares and how they can be traded, redeemed, etc. This saves many headaches later. It is, ironically, most important when things go really well. Fights really start when there’s lots of money to ﬁght over – if things go badly and everyone loses money it’s bad luck but there tends to be less spoils to ﬁght over. • Such formality becomes an absolute necessity when money from outside friends and family enters. [[The Economist Intangible Capitalism|Venture Capital]] is equity provided by outside investors, but in the form of shares that are not publicly traded.  
+• At the simplest level this is family and friends. –  The hedge fund I started in London fell into this category – the three founders put up the original equity. We got shares proportional to funds we put in. • Other outside investors are often called Angel Investors • For a small start-up it is not necessary, but it is often a very good idea, to formalize arrangements with articles of incorporation and by-laws that specify shares and how they can be traded, redeemed, etc. This saves many headaches later. It is, ironically, most important when things go really well. Fights really start when there’s lots of money to ﬁght over – if things go badly and everyone loses money it’s bad luck but there tends to be less spoils to ﬁght over. • Such formality becomes an absolute necessity when money from outside friends and family enters. [Venture Capital](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Intangible%20Capitalism.md) is equity provided by outside investors, but in the form of shares that are not publicly traded.  
 
 # Venture Capital Investors  
 
@@ -3979,14 +3979,14 @@ VC investors generally pay close attention
 
 VC investor shares not publicly traded, don’t have to registered with SEC  
 
-[[The Economist Intangible Capitalism|Venture Capital]] Investors  
+[Venture Capital](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Intangible%20Capitalism.md) Investors  
 
 • Term used to describe ﬁrms that provide funding to young and start-up companies. VC investors focus on companies that have a chance to grow spectacularly. VC investors are constantly looking out for the next Microsoft, Amazon, or Google. But VC not limited just to technology business.  
-• VC [[An Asset Allocation Primer|investment]] is often a second stage, after the founders have put their own money in and when they need additional equity to continue or expand.  
+• VC [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is often a second stage, after the founders have put their own money in and when they need additional equity to continue or expand.  
 
 –  With my hedge fund we had a 2nd stage investor. We started our company in 1998, then in 2001/02 we wanted to expand and we found a large hedge fund willing to invest in us. We didn’t call it VC, but it had all the characteristics we’re talking about here – selling a share of the company to a new investor who was closely involved in out ﬁrm.  
 
-• VC investors will generally pay close attention to the ﬁrm – not a hands-o! [[An Asset Allocation Primer|investment]]. Require strict and formal agreements, specifying conditions to be met, further funding parameters, etc. Generally requires a seat on the board or a say in the management.  
+• VC investors will generally pay close attention to the ﬁrm – not a hands-o! [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). Require strict and formal agreements, specifying conditions to be met, further funding parameters, etc. Generally requires a seat on the board or a say in the management.  
 
 • Shares sold to VC investors will not be publicly traded, and don’t have to registered with SEC.  
 
@@ -4000,7 +4000,7 @@ VC investor shares not publicly traded, don’t have to registered with SEC
 
 Example of “Marvin Enterprises”  
 
-• Initial [[An Asset Allocation Primer|investment]] (founders): \$100,000 for 1mn shares  
+• Initial [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) (founders): \$100,000 for 1mn shares  
 
 • 2nd stage VC ﬁrm Meriam Venture Partners \$1mn,  
 
@@ -4009,15 +4009,15 @@ Example of “Marvin Enterprises”
 Now the ﬁrm was 50/50 owned by founders and Meriam – 1mn shares each  
 
 Balance sheet after 2nd stage ﬁnancing 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c8b9c9c7dcfa407db08f3ac68413c5c5665a1006cbd6ce067e37687dda027fce.jpg)  
+ ![500](Attachments/500-922.jpg)  
 
 Selling shares to VC Investors sets value on company, and sets value of existing shares  
 
 • Example of “Marvin Enterprises”  
 
-–  Initial [[An Asset Allocation Primer|investment]] was   $\S100{,}000$   for   $\S$  1mn shares. –  2nd stage [[An Asset Allocation Primer|investment]] from VC ﬁrm Meriam Venture Partners was   $\S$  1mn, in the form of 1mn shares at \$1 each. –  Note that now the ﬁrm was 50/50 owned by founders and Meriam – 1mn shares each  
+–  Initial [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) was   $\S100{,}000$   for   $\S$  1mn shares. –  2nd stage [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) from VC ﬁrm Meriam Venture Partners was   $\S$  1mn, in the form of 1mn shares at \$1 each. –  Note that now the ﬁrm was 50/50 owned by founders and Meriam – 1mn shares each  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b0182cb08c8c55f9aa6346192b4fb6f53a8f8869ccb74fedf7f4986a24a8ab67.jpg)  
+ ![500](Attachments/500-923.jpg)  
 # Contents  
 
 # Initial Public O!erings  
@@ -4040,10 +4040,10 @@ This is where we, the public, start to get involved. It is also where regulation
 
 ∗There are some exceptions if a small number of knowledgeable or sophisticated investors (35 or less). These are called Reg D o!erings (o!ered under Regulation D). They can sometimes be traded among large ﬁnancial institutions under Rule 144A.  
 
-–  The idea behind registration is to provide disclosure and transparency. The SEC has nothing to say about whether the security o!ering is “good” in the sense of a good [[An Asset Allocation Primer|investment]], only that the o!ering discloses all relevant information.  
+–  The idea behind registration is to provide disclosure and transparency. The SEC has nothing to say about whether the security o!ering is “good” in the sense of a good [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), only that the o!ering discloses all relevant information.  
 
-–  This is an incredibly important point. The SEC makes no ruling on the quality of the [[An Asset Allocation Primer|investment]]. You can never get in trouble with the SEC for a stupid start-up idea. But the SEC insists on disclosing all relevant and material information. When you hear about someone getting in trouble with the SEC it is often on failure to disclose material information. (The SEC also goes after outright fraud, but we’ll put that to the side for the moment – assume that everyone here is basically honest and not out to pull a Mado!-type Ponzi scheme.)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8e61b55d04183f82c5a83ab8c7a951446d7c566b329b2d181ddde1dc169bd27f.jpg)  
+–  This is an incredibly important point. The SEC makes no ruling on the quality of the [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). You can never get in trouble with the SEC for a stupid start-up idea. But the SEC insists on disclosing all relevant and material information. When you hear about someone getting in trouble with the SEC it is often on failure to disclose material information. (The SEC also goes after outright fraud, but we’ll put that to the side for the moment – assume that everyone here is basically honest and not out to pull a Mado!-type Ponzi scheme.)  
+ ![500](Attachments/500-926.jpg)  
 
 Main steps in traditional IPO in US (from [Brealey et al.(2013)Brealey, Myers, and Allen] table 15.2)  
 
@@ -4058,7 +4058,7 @@ Main steps in traditional IPO in US (from [Brealey et al.(2013)Brealey, Myers, a
 
 • Most IPOs in the US are done as underwritten issues under the following process:  
 
-–  Company chooses a set of [[An Asset Allocation Primer|investment]] banks as underwriters who agree to buy the shares from the company at a pre-agreed price, and then sell them to the public. –  The underwriters agree to support the price in the market for a period of time by buying shares back from the public.  
+–  Company chooses a set of [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) banks as underwriters who agree to buy the shares from the company at a pre-agreed price, and then sell them to the public. –  The underwriters agree to support the price in the market for a period of time by buying shares back from the public.  
 
 • Once the registration statement has been submitted to the SEC (but before approval) the underwriters will go on a Road Show, talking to potential investors  
 
@@ -4094,14 +4094,14 @@ Many IPOs involve founders selling a small number of their own shares to the pub
 
 • When SEC approval is obtained, the underwriters set a price and allocate shares to investors at that price.  
 
-–  Price is usually set at a discount to where everyone thinks it will actually sell –  Strong incentive on the part of the [[An Asset Allocation Primer|investment]] banks to ensure the issues sell – both for their own reputation and so they don’t get stuck with unsold shares – remember they’ve underwritten the issue and bought the shares from the company at the pre-agreed price so the risk resides with the [[An Asset Allocation Primer|investment]] bank.  
+–  Price is usually set at a discount to where everyone thinks it will actually sell –  Strong incentive on the part of the [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) banks to ensure the issues sell – both for their own reputation and so they don’t get stuck with unsold shares – remember they’ve underwritten the issue and bought the shares from the company at the pre-agreed price so the risk resides with the [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) bank.  
 
 • They then sell shares to the public.  
 
 • Shares on IPOs almost invariably rise from their o!er price, at least initially. These prices rises can be really substantial  
-• This raises an important question – why use such a cumbersome process, that seems to ensure under [[Arbitrage Pricing of Derivatives|pricing]] and that the ﬁrm will raise less money than they could have if they had o!ered the shares to the public in an auction.  
+• This raises an important question – why use such a cumbersome process, that seems to ensure under [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and that the ﬁrm will raise less money than they could have if they had o!ered the shares to the public in an auction.  
 
-–  Google in 2004 raised \$1.4bn in an auction. –  Why don’t others? –  I don’t have a good answer. Seems to me the existing process is rife with ine"ciencies and conﬂicts-of-interest. Note that managing underwriter provides research as part of the package, but how can the research be independent when it is part of the IPO package? –  But, I want to be careful – I don’t have enough experience and knowledge about IPOs to make a deﬁnitive statement. There may be issues around asymmetric information and signaling (the issuers have information that the public cannot have, and under-[[Arbitrage Pricing of Derivatives|pricing]] may provide some signal about the quality of the issue). E"cient markets actually require people to put in time and e!ort to uncover information and set prices, and there is some evidence that the book building process is better at building information than an auction. –  Also, many IPOs involve founders selling a small number of their own shares to the public and holding onto most of their shares, so that there may be a private incentive for the founders to raise less money for the ﬁrm but have their own wealth (in terms of continued holdings of shares) increase.  
+–  Google in 2004 raised \$1.4bn in an auction. –  Why don’t others? –  I don’t have a good answer. Seems to me the existing process is rife with ine"ciencies and conﬂicts-of-interest. Note that managing underwriter provides research as part of the package, but how can the research be independent when it is part of the IPO package? –  But, I want to be careful – I don’t have enough experience and knowledge about IPOs to make a deﬁnitive statement. There may be issues around asymmetric information and signaling (the issuers have information that the public cannot have, and under-[pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) may provide some signal about the quality of the issue). E"cient markets actually require people to put in time and e!ort to uncover information and set prices, and there is some evidence that the book building process is better at building information than an auction. –  Also, many IPOs involve founders selling a small number of their own shares to the public and holding onto most of their shares, so that there may be a private incentive for the founders to raise less money for the ﬁrm but have their own wealth (in terms of continued holdings of shares) increase.  
 
 2.3Secondary O!erings – Seasoned Equity O!er or SEO  
 
@@ -4113,14 +4113,14 @@ General Cash O!ers vs Rights O!ers
 
 US: General Cash O!ers – that is sale to everyone and anyone • Essentially same as IPO – underwriter, SEC registration, underwriter roadshow and bookbuilding, ...  
 
-• Same problems with under [[Arbitrage Pricing of Derivatives|pricing]] and conﬂicts-of-interest as with IPO. • Shelf registration – important innovation – SEC’s Rule 415 Additional problem – asymmetric information, overpricing, and announcement e!ect  
+• Same problems with under [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and conﬂicts-of-interest as with IPO. • Shelf registration – important innovation – SEC’s Rule 415 Additional problem – asymmetric information, overpricing, and announcement e!ect  
 
 # Seasoned Issues – Seasoned Equity O!er or SEO  
 
 • In the US most SEOs are done as General Cash O!ers – that is sale to everyone and anyone.  
 • Process is essentially the same as for IPO – underwriter, SEC registration, underwriter roadshow and book building, underwriter buys shares from company at agreed price and sells to public.  
 
-• Same problems with under [[Arbitrage Pricing of Derivatives|pricing]] and conﬂicts-of-interest as with IPO.  
+• Same problems with under [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and conﬂicts-of-interest as with IPO.  
 
 • Shelf registration – important innovation – SEC’s Rule 415 allows a single registration that applies over a period for a range of o!erings. Allows ﬂexibility and lower cost – don’t have to register each time.  
 
@@ -4128,13 +4128,13 @@ US: General Cash O!ers – that is sale to everyone and anyone • Essentially s
 
 • The issuing ﬁrm has better information than outsiders.  
 
-• If the ﬁrm has information that future prospects are better than the market believes, the share price will be “too low” – lower than it should be if the market knew the better future prospects. In such a case the ﬁrm will not want to issue shares because they will raise less than they should, and the low price will favor new shareholders and hurt existing shareholders (the new shareholders get the shares at a bargain price) NB – Rights o!er will solve problem of disadvantaging existing shareholders (since rights given to existing shareholders, and they can sell the rights) but will not solve the asymmetric information (share under [[Arbitrage Pricing of Derivatives|pricing]]) issue.  
+• If the ﬁrm has information that future prospects are better than the market believes, the share price will be “too low” – lower than it should be if the market knew the better future prospects. In such a case the ﬁrm will not want to issue shares because they will raise less than they should, and the low price will favor new shareholders and hurt existing shareholders (the new shareholders get the shares at a bargain price) NB – Rights o!er will solve problem of disadvantaging existing shareholders (since rights given to existing shareholders, and they can sell the rights) but will not solve the asymmetric information (share under [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)) issue.  
 
 • The ﬁrm could try and inform investors – make an announcement that future prospects are good. But investors will not believe this because it is the kind of thing ﬁrms say all the time.  
 
 • If the ﬁrm has information that future prospects are worse than the market believes, the price will be “too high” – higher than it should be, and the ﬁrm will want to issue.  
 
-• [[Operating Income vs. Net Income What's the Difference|Bottom line]] – ﬁrms will issue shares when they have information (not available to or not correctly understood by outsiders) that the share price is “too high”. Investors will know this and thus any equity issue will be interpreted as a signal that prospects are worse than embedded into the current price. Result – the price will fall in response to a new equity issue.  
+• [Bottom line](../Advanced%20Financial%20Analysis%20and%20Valuation/Financial%20Ratios/Operating%20Income%20vs.%20Net%20Income%20What's%20the%20Difference.md) – ﬁrms will issue shares when they have information (not available to or not correctly understood by outsiders) that the share price is “too high”. Investors will know this and thus any equity issue will be interpreted as a signal that prospects are worse than embedded into the current price. Result – the price will fall in response to a new equity issue.  
 
 # Alternative to General Cash O!er – Rights O!er  
 
@@ -4148,12 +4148,12 @@ US: General Cash O!ers – that is sale to everyone and anyone • Essentially s
 
 • Two e!ects  
 
-–  Existing shareholders get value even if current price “too low”. Protected from the market’s under [[Arbitrage Pricing of Derivatives|pricing]] because they have the right to the new shares. This removes the problem if new issues disadvantaging (diluting) existing shareholders. –  Price for the new shares doesn’t really matter – since existing shareholders have the right to buy at that price they don’t lose if the price is set below the current price. Existing shareholders can either buy the new shares, or sell the rights – either way they are equally well o!.  
+–  Existing shareholders get value even if current price “too low”. Protected from the market’s under [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) because they have the right to the new shares. This removes the problem if new issues disadvantaging (diluting) existing shareholders. –  Price for the new shares doesn’t really matter – since existing shareholders have the right to buy at that price they don’t lose if the price is set below the current price. Existing shareholders can either buy the new shares, or sell the rights – either way they are equally well o!.  
 
 • Can calculate new share price by considering total value (original   $^+$   new cash) and dividing by new shares. Rights price is di!erence  
-–  Firm wants to raise 4.1bn (pounds). Current [[Chapter 16 - Black–Scholes Model|stock price]] is 6.23/share, 976,190 shares –  They could set various combinations of Price New and N Rights (Price New is the price per share for the new shares, and N Rights is the number of rights given to each existing share – each Right can buy one new share) as long as Pnew\*Nrights\*Nshares = total amount to raise –  For example, they actually set   $\mathrm{Pew}\,=\,2.10$   and Nrights = 2. Then   $2.10^{*}2^{*}976{,}190=$  4.1bn. Could also set   $\mathrm{Pew}=4.20$  , Nrights = 1. Then   $4.20^{*}1^{*}976{,}190=4.1\mathrm{{bin}}$  . Or Pnew  $=1.4$  , Nrights = 3, and   $1.4^{*}3^{*}976,190=4.1$  1bn –  New share price: ∗Total Value:  $\mathrm{old~+~New}=6.23\,+\,2^{*}2.10=10.43$  . ∗This is 3 shares, so each share worth 3.48.  $^*$  Rights: New Price – Price Paid = 3.48 – 2.10 = 1.38. –  Existing shareholder is equally well-o! if take up o!er or sell rights: ∗Take up: Start with 6.23, put in 4.20, and end up with 3 shares worth in total 10.43 ∗Sell rights: Start with 6.23, sell rights, end up with 1 share worth 3.48 + cash   $2^{*}1.38$  = 6.24 (o! by 1 because of rounding:   $10.43~/~3=3.476667)$  )  
+–  Firm wants to raise 4.1bn (pounds). Current [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) is 6.23/share, 976,190 shares –  They could set various combinations of Price New and N Rights (Price New is the price per share for the new shares, and N Rights is the number of rights given to each existing share – each Right can buy one new share) as long as Pnew\*Nrights\*Nshares = total amount to raise –  For example, they actually set   $\mathrm{Pew}\,=\,2.10$   and Nrights = 2. Then   $2.10^{*}2^{*}976{,}190=$  4.1bn. Could also set   $\mathrm{Pew}=4.20$  , Nrights = 1. Then   $4.20^{*}1^{*}976{,}190=4.1\mathrm{{bin}}$  . Or Pnew  $=1.4$  , Nrights = 3, and   $1.4^{*}3^{*}976,190=4.1$  1bn –  New share price: ∗Total Value:  $\mathrm{old~+~New}=6.23\,+\,2^{*}2.10=10.43$  . ∗This is 3 shares, so each share worth 3.48.  $^*$  Rights: New Price – Price Paid = 3.48 – 2.10 = 1.38. –  Existing shareholder is equally well-o! if take up o!er or sell rights: ∗Take up: Start with 6.23, put in 4.20, and end up with 3 shares worth in total 10.43 ∗Sell rights: Start with 6.23, sell rights, end up with 1 share worth 3.48 + cash   $2^{*}1.38$  = 6.24 (o! by 1 because of rounding:   $10.43~/~3=3.476667)$  )  
 
-• Want to set new price below current price, so that the rights actually have value. Issues generally underwritten: [[An Asset Allocation Primer|investment]] bank buys from ﬁrm and holds risk that shares not sold.  
+• Want to set new price below current price, so that the rights actually have value. Issues generally underwritten: [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) bank buys from ﬁrm and holds risk that shares not sold.  
 
 # 2.4 Private Placements vs Public Issues  
 
@@ -4163,19 +4163,19 @@ Private Placements vs Public Issues Firms can issue Private Placements (Reg D), 
 
 # References  
 
-[Brealey et al.(2013)Brealey, Myers, and Allen] Richard A. Brealey, Stewart C. Myers, and Franklin Allen.  Principles of [[Corporate Finance Lecture Notes|Corporate Finance]] . McGraw-Hill Education, New York, 11 edition edition, January 2013. ISBN 978-0-07-803476-3.  
+[Brealey et al.(2013)Brealey, Myers, and Allen] Richard A. Brealey, Stewart C. Myers, and Franklin Allen.  Principles of [Corporate Finance](Corporate%20Finance%20Lecture%20Notes.md) . McGraw-Hill Education, New York, 11 edition edition, January 2013. ISBN 978-0-07-803476-3.  
 # Dividends & Valuation of Equities  
 
 Lecture 10 Thomas S. Coleman 19 April 2023; Draft April 24, 2023  
 
-Outline Contents 1 Valuation of Equities – Dividends & Discounting 1 1.1 [[Chapter 16 - Black–Scholes Model|Stock Price]] = Discounted PV of [[Advanced Derivatives Pricing Methodology|Future Cash Flows]] (Dividends) . . . . . . . . . . 1 1.2 Various Dividend Discount Models . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 1.3 What are Dividends? Firm Payout . . . . . . . . . . . . . . . . . . . . . . . . . . . 7 1.4 Using Dividend Discount Models . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 1.5 Process For Dividends . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 1.6 Dividend & Buybacks Equivalent . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11  
+Outline Contents 1 Valuation of Equities – Dividends & Discounting 1 1.1 [Stock Price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) = Discounted PV of [Future Cash Flows](../Financial%20Engineering/Advanced%20Derivatives%20Pricing%20Methodology.md) (Dividends) . . . . . . . . . . 1 1.2 Various Dividend Discount Models . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 1.3 What are Dividends? Firm Payout . . . . . . . . . . . . . . . . . . . . . . . . . . . 7 1.4 Using Dividend Discount Models . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 1.5 Process For Dividends . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 1.6 Dividend & Buybacks Equivalent . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11  
 
 # 1 Valuation of Equities – Dividends & Discounting  
 
-1.1 [[Chapter 16 - Black–Scholes Model|Stock Price]] = Discounted PV of [[Advanced Derivatives Pricing Methodology|Future Cash Flows]] (Dividends)  
+1.1 [Stock Price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) = Discounted PV of [Future Cash Flows](../Financial%20Engineering/Advanced%20Derivatives%20Pricing%20Methodology.md) (Dividends)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bdf1bd8b6b1391b8c1dc2b8837af8d89034624db10ab834c223183a1967b4f59.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d6cb02680e51517da6e3964fd5b6b692c9db26073bc83f2e2e4dbd2e1cc70b41.jpg)  
+ ![500](Attachments/500-926.jpg)  
+ ![500](Attachments/500-927.jpg)  
 
 # Brealey & Myers chapter 4, BKM chapter 18  
 
@@ -4185,9 +4185,9 @@ Section 18.3: Dividend Discount Models
 
 • Role of terminal value  
 
-• Role of “[[An Asset Allocation Primer|Investment]] Opportunities”: when internal prospects (a ﬁrm’s [[An Asset Allocation Primer|investment]] opportunities) are better than outside opportunities available to investors, the ﬁrm should plow back funds (retain earnings) and [[Chapter 16 - Black–Scholes Model|stock price]] should go up when it does.  
+• Role of “[Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Opportunities”: when internal prospects (a ﬁrm’s [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunities) are better than outside opportunities available to investors, the ﬁrm should plow back funds (retain earnings) and [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) should go up when it does.  
 
-Section 18:5: [[Free Cash Flow Valuation of Companies|Free Cash Flow]] Valuation (variant on DDM) Section 18.4: P/E ratio  
+Section 18:5: [Free Cash Flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2011%20-%20Individual%20Investors-A%20Survey%20of%20Modern%20Investment%20Theory/Free%20Cash%20Flow%20Valuation%20of%20Companies.md) Valuation (variant on DDM) Section 18.4: P/E ratio  
 # Dividends & Future CFs  
 
 Value for Equities: Ultimately from future CFs  
@@ -4215,7 +4215,7 @@ What are  Dividends ?
 • Dividend  Rate :   $\S/\mathrm{yr}=\S1.31$  
 
 • Dividend  Yield  (generally more useful):   $\%=\Updownarrow$  dividend / \$price= 1.13%  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/32371aac222beaba622621bf83ee9bf378c17c8e44be2ff80b36c1c0d57359e6.jpg)  
+ ![500](Attachments/500-895.jpg)  
 
 # 1.2 Various Dividend Discount Models  
 
@@ -4235,7 +4235,7 @@ $$
 
 • Not realistic for most equities, but useful start  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2d12f55791d6d9723da88ab77ac85d7ef2f0c186ae0cf9bb3e8b0c4caaff7e8c.jpg)  
+ ![500](Attachments/500-878.jpg)  
 
 Based on summation formula (you should know):  
 $$
@@ -4257,7 +4257,7 @@ $$
 \begin{array}{c}{P V={\frac{D_{0}(1+g)}{1+y}}+{\frac{D_{0}(1+g)^{2}}{(1+y)^{2}}}+\cdot\cdot\cdot={\frac{D_{0}(1+g)}{y-g}}}\\ {={\frac{D_{1}}{y-g}}={\frac{D_{1}}{r f+r p-g}}}\end{array}
 $$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f2375c9f4e866d658fef2424c01aac69f3c69ace4bb656d169cebc377ed6a16a.jpg)  
+ ![500](Attachments/500-806.jpg)  
 
 Much more useful than “no growth” Both these formulae come from summation formula:  
 $$
@@ -4296,7 +4296,7 @@ $$
 
 3. Combine these:    $P V_{T o t a l}=P V_{1s t}+P V_{2n d}$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/87ccfd5a71ca2cc8599c89c9b067c3bd08e28a9c08d093ca0b41546619185f80.jpg)  
+ ![500](Attachments/500-888.jpg)  
 
 # Using Our Two Fundamental Ideas  
 
@@ -4309,7 +4309,7 @@ General idea:
 • Discount CFs  
 
 Find income statement, balance sheet, cash ﬂow statement at https://www.market watch.com/investing/stock/ibm/ﬁn ﬂow  
-Challenges Using DDM Ideas are simple, but huge practical problems: 1. Guessing at dividends – IBM example • Paid cash dividends of about \$5.77/share (\$5,380mn) in 2019 • Also share buyback of about \$4.65/share (\$4,340mn) • Turns out Cash Dividends    $\leftrightarrow$  Share Buyback – Completely changes the numbers 2. Guessing at growth (for dividends) 3. Guessing at [[PSET 7- Kohler|discount rate]] • Central focus of next 2 weeks • Risk and [[A Brief History of Investment Thought|Portfolio Theory]]; CAPM Many other issues discussed in textbook  
+Challenges Using DDM Ideas are simple, but huge practical problems: 1. Guessing at dividends – IBM example • Paid cash dividends of about \$5.77/share (\$5,380mn) in 2019 • Also share buyback of about \$4.65/share (\$4,340mn) • Turns out Cash Dividends    $\leftrightarrow$  Share Buyback – Completely changes the numbers 2. Guessing at growth (for dividends) 3. Guessing at [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) • Central focus of next 2 weeks • Risk and [Portfolio Theory](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2011%20-%20Individual%20Investors-A%20Survey%20of%20Modern%20Investment%20Theory/A%20Brief%20History%20of%20Investment%20Thought.md); CAPM Many other issues discussed in textbook  
 
 # 1.3 What are Dividends? Firm Payout  
 
@@ -4323,7 +4323,7 @@ Let’s look at FIS, take apart the income, expenses Revenue comes in, expenses 
 
 • Pay out to shareholders (common stock, equity holders) • Retain earnings – invest in running and growing the business (more future proﬁts)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/755534af918eff62f5a6242bb54f905da16f86ab9d836bc4607c8a618bf102ac.jpg)  
+ ![500](Attachments/500-773.jpg)  
 
 Find income statement, balance sheet, cash ﬂow statement at https://www.market watch.com/investing/stock/ﬁs/ﬁnan Some details:  
 
@@ -4331,7 +4331,7 @@ Find income statement, balance sheet, cash ﬂow statement at https://www.market
 
 • Dividends (on accrual basis) are calculated as net income less retained earnings  
 
-The [[Preview of the Book|Cash Flow]] statement also shows repurchase of Common Stock (-1.26B). This is, as discussed below, also a payout to shareholders and equivalent to a dividend payment.  
+The [Cash Flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) statement also shows repurchase of Common Stock (-1.26B). This is, as discussed below, also a payout to shareholders and equivalent to a dividend payment.  
 # Dividends – Regular Quarterly Payments  
 
 FIS paid about   $50\%$   of earnings (net income) to dividends  
@@ -4348,12 +4348,12 @@ Payout ratios: Yahoo Finance, “Statistics”
 
  • Look for “Statistics” for dividend and payout information
 
- • But do not use “Financials” “[[Preview of the Book|Cash Flow]]” - use https://www.market watch.com/investing/stocks –  Go to “Search” then search for “IBM” then “Financials”  
+ • But do not use “Financials” “[Cash Flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md)” - use https://www.market watch.com/investing/stocks –  Go to “Search” then search for “IBM” then “Financials”  
 # 1.4 Using Dividend Discount Models  
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/495d8594bca8a44378f560280b338e18467fbad4cfdc0da5b57cfd625dfcf2c4.jpg)  
+ ![500](Attachments/500-898.jpg)  
 
 Let’s go through the calculations for the “multistage growth model” applied to FIS assuming:  
 
@@ -4387,7 +4387,7 @@ Brealey Myers Allen Ch 4 Using DCF models di"cult • Textbook Chapter 4 covers 
 
 # Process for Cash Dividend  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/92b00182e035d06e07acec51374c5ea4baf93b137e5e3dd588d9c0ad70d3e43e.jpg)  
+ ![500](Attachments/500-895.jpg)  
 
 Process for cash dividend  
 Firm announces quarterly dividend on the declaration date. Generally dividends don’t change from quarter-to-quarter or year-to-year so pretty much non-event (unless there’s a change)  
@@ -4404,7 +4404,7 @@ Dividend & Buyback Equivalent Equity (common stock) gets “what’s left over�
 
 # Dividend & Buyback Equivalent  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/42b75787633ce188a20a1ad8a9bcd1cd64973e9083028279a8d1a0d26fac3d38.jpg)  
+ ![500](Attachments/500-892.jpg)  
 
 Prior to 1983 no share repurchase s.  
 
@@ -4432,7 +4432,7 @@ Dividends can provide information that a ﬁrm is proﬁtable and management is 
 Share repurchase s tend to be temporary  
 
 • In the US at least the implicit arrangement is that share repurchase s are often temporary or one-o!.  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5bf12e84b1898aec2a866038e5cd664cf30c3acc6b312197072461ea2eb0aa1c.jpg)  
+ ![500](Attachments/500-930.jpg)  
 
 Rational Demi conductor [Brealey et al.(2013)Brealey, Myers, and Allen] is chapter 16  
 
@@ -4442,11 +4442,11 @@ Rational Demi conductor [Brealey et al.(2013)Brealey, Myers, and Allen] is chapt
 
 • The share price will be di!erent in the two cases, but so will the number of shares. The value at the end will be the same in both cases.  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6d803cd25f3737751026ccc63f13408e185523912d9a906fb3179aa3dd6a6bb4.jpg)  
+ ![500](Attachments/500-924.jpg)  
 
 # References  
 
-[Brealey et al.(2013)Brealey, Myers, and Allen] Richard A. Brealey, Stewart C. Myers, and Franklin Allen.  Principles of [[Corporate Finance Lecture Notes|Corporate Finance]] . McGraw-Hill Education, New York, 11 edition edition, January 2013. ISBN 978-0-07-803476-3.  
+[Brealey et al.(2013)Brealey, Myers, and Allen] Richard A. Brealey, Stewart C. Myers, and Franklin Allen.  Principles of [Corporate Finance](Corporate%20Finance%20Lecture%20Notes.md) . McGraw-Hill Education, New York, 11 edition edition, January 2013. ISBN 978-0-07-803476-3.  
 # Introducing Equities + Se curtiz ation Lecture 9 Thomas S. Coleman 17 April 2023; Draft April 17, 2023  
 # 1 Se curit iz ation (BMA Ch 24.1)  
 
@@ -4454,9 +4454,9 @@ Rational Demi conductor [Brealey et al.(2013)Brealey, Myers, and Allen] is chapt
 
 Se curit iz ation – Pooling Assets & Cash Flows Pooling of assets and repackaging of the underlying cashﬂows Examples  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a870ac2c3059d151de924f3d8b397d80617a85dc57a71ea3b3d43b1d44df1fa9.jpg)  
+ ![500](Attachments/500-889.jpg)  
 
-• Mutual Funds, [[Basis Trade Explainer|hedge funds]], Exchange Traded Funds  
+• Mutual Funds, [hedge funds](../Financial%20Engineering/Basis%20Trade%20Explainer.md), Exchange Traded Funds  
 
 • Mortgage-backed and asset-back securities  
 
@@ -4466,11 +4466,11 @@ Se curit iz ation – Pooling Assets & Cash Flows Pooling of assets and repackag
 
 Legal Structure  
 
-• “Fund” and “Manager” separate legal entities • Mutual Funds in US – [[An Asset Allocation Primer|Investment]] Co & Advisors Acts, 1940 • [[Basis Trade Explainer|Hedge Funds]] – often o!-shore (eg Caymans) – tax & regulatory • Mortgage-backed and other [[Asset Backed Commercial Paper Understanding the Risks|asset-backed]] securities (bonds)  
+• “Fund” and “Manager” separate legal entities • Mutual Funds in US – [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Co & Advisors Acts, 1940 • [Hedge Funds](../Financial%20Engineering/Basis%20Trade%20Explainer.md) – often o!-shore (eg Caymans) – tax & regulatory • Mortgage-backed and other [asset-backed](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Asset%20Backed%20Commercial%20Paper%20Understanding%20the%20Risks.md) securities (bonds)  
 
 Reasons for Pooling  
 
-• Spreads & Diversiﬁes risk (mortgage-backed bonds) • Lowers cost (mutual funds); professional management ([[Basis Trade Explainer|hedge funds]]) • Investors: Access to assets unavailable otherwise • Sponsors/Owners: Move assets o! balance sheet (borrow)  
+• Spreads & Diversiﬁes risk (mortgage-backed bonds) • Lowers cost (mutual funds); professional management ([hedge funds](../Financial%20Engineering/Basis%20Trade%20Explainer.md)) • Investors: Access to assets unavailable otherwise • Sponsors/Owners: Move assets o! balance sheet (borrow)  
 
 Se curit iz ation  
 
@@ -4493,13 +4493,13 @@ Se curit iz ation Liabilities:
 
 • Mutual Funds  
 
-• [[Basis Trade Explainer|Hedge Funds]]  
+• [Hedge Funds](../Financial%20Engineering/Basis%20Trade%20Explainer.md)  
 
-• [[Fremont Financial Corp. (b)|Mortgage-backed securities]]  
+• [Mortgage-backed securities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Fremont%20Financial%20Corp.%20(b).md)  
 
-–  Pass-through (Agency – Fannie Mae & Freddie Mac – [[Mortgage Pass-Through Securities|pass-throughs]]). Simply pool together a group of mortgages and pass through the income – payment of income and principal. –  Tanched. Pool together a group of mortgages but sell di!erent  
+–  Pass-through (Agency – Fannie Mae & Freddie Mac – [pass-throughs](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20II%20CASH%20FLOW%20ENGINEERING/Chapter%209%20-%20Mortgage-Backed%20Securities/Mortgage%20Pass-Through%20Securities.md)). Simply pool together a group of mortgages and pass through the income – payment of income and principal. –  Tanched. Pool together a group of mortgages but sell di!erent  
 
-• Other [[Asset Backed Commercial Paper Understanding the Risks|Asset-Backed]] securities – student loans, credit card receivable s, even David Bowie’s bond (1997 – revenues from 25 albums recorded before 1990)  
+• Other [Asset-Backed](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Asset%20Backed%20Commercial%20Paper%20Understanding%20the%20Risks.md) securities – student loans, credit card receivable s, even David Bowie’s bond (1997 – revenues from 25 albums recorded before 1990)  
 
 • Common Stocks  
 
@@ -4507,7 +4507,7 @@ Se curit iz ation Liabilities:
 
 • Distinction between “equity”-type pools and “bond”-type pools  
 
-–  Equity-type: mutual funds, [[Basis Trade Explainer|hedge funds]], ETFs. For these the investors get a proportionate share of whatever proﬁts –  Bond-type: Senior tranches for tranched securities: promised CFs. Here investors are promised a CF. The pooling is valuable usually because it improves divers i cation and makes the “promise” more reliable, more certain to be paid.  
+–  Equity-type: mutual funds, [hedge funds](../Financial%20Engineering/Basis%20Trade%20Explainer.md), ETFs. For these the investors get a proportionate share of whatever proﬁts –  Bond-type: Senior tranches for tranched securities: promised CFs. Here investors are promised a CF. The pooling is valuable usually because it improves divers i cation and makes the “promise” more reliable, more certain to be paid.  
 
 # Legal Structure  
 
@@ -4515,35 +4515,35 @@ Se curit iz ation Liabilities:
 
 –  Manager may be Corporation –  Fund often a Trust or a Partnership or itself a Corporation –  The Fund hires the the manager and pays a fee plus various expenses –  The Fund will often have a Board of Directors who represent the interests of the shareholders (owners of the Fund and thus bene cia ries of the fund’s assets) –  Assets are held in custody for the fund. Custodian is hired by the Fund, legally responsible to the fund and the Board  
 
-• Mutual Funds in US –  [[An Asset Allocation Primer|Investment]] Company (fund) which holds assets and sells shares in itself – proportionate share of cash ﬂows  
-–  [[An Asset Allocation Primer|Investment]] Manager (manager) who manages the assets of the [[An Asset Allocation Primer|Investment]] Company. But a legally separate entity that cannot take the assets from the [[An Asset Allocation Primer|Investment]] Company –  [[An Asset Allocation Primer|Investment]] Co Act 1940 – sets rules and regulations for [[An Asset Allocation Primer|Investment]] Co structure and operations –  [[An Asset Allocation Primer|Investment]] Advisors Act 1940 – rules and regulations for managers  
+• Mutual Funds in US –  [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Company (fund) which holds assets and sells shares in itself – proportionate share of cash ﬂows  
+–  [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Manager (manager) who manages the assets of the [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Company. But a legally separate entity that cannot take the assets from the [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Company –  [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Co Act 1940 – sets rules and regulations for [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Co structure and operations –  [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Advisors Act 1940 – rules and regulations for managers  
 
-• [[Basis Trade Explainer|Hedge Funds]] –  Often the “Fund” is o!-shore – say Carmen islands – for tax and regulator reasons.  
+• [Hedge Funds](../Financial%20Engineering/Basis%20Trade%20Explainer.md) –  Often the “Fund” is o!-shore – say Carmen islands – for tax and regulator reasons.  
 
-• Mortgage-backed and other [[Asset Backed Commercial Paper Understanding the Risks|asset-backed]] securities (bonds)  
+• Mortgage-backed and other [asset-backed](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Asset%20Backed%20Commercial%20Paper%20Understanding%20the%20Risks.md) securities (bonds)  
 
-–  [[Collateralized Debt Obligations|Special Purpose Vehicle]] (SPV) – separate legal entity that holds the assets, sells securities that are usually more bond-like than equity-like –  Investors are lending money to the SPV with the promise to get paid back – that promise may be a good or a poor promise.  
+–  [Special Purpose Vehicle](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20II%20CASH%20FLOW%20ENGINEERING/Chapter%2010%20-%20Collateralized%20Debt%20Obligations%20and%20Basket%20Credit%20Derivatives/Collateralized%20Debt%20Obligations.md) (SPV) – separate legal entity that holds the assets, sells securities that are usually more bond-like than equity-like –  Investors are lending money to the SPV with the promise to get paid back – that promise may be a good or a poor promise.  
 
 # Reasons for se curit iz ation  
 
 • Spreads & Diversiﬁes risk  
 
-–  Big reason for mortgage-backed bonds. If you invest   $\S100\mathrm{k}$   in one mortgage then if the homeowner defaults you are out. There may be only a 5% chance but on that you lose everything. But if you invest   $\S100\mathrm{k}$   in a mortgage-backed bond with 1,000 mortgages then there’s a pretty good chance that 5% will default but then you only lose 5%, and in any case you can price that in up-front because it becomes pretty certain how much you will lose (  $5\%$   of your [[An Asset Allocation Primer|investment]]) rather than all or nothing.  
+–  Big reason for mortgage-backed bonds. If you invest   $\S100\mathrm{k}$   in one mortgage then if the homeowner defaults you are out. There may be only a 5% chance but on that you lose everything. But if you invest   $\S100\mathrm{k}$   in a mortgage-backed bond with 1,000 mortgages then there’s a pretty good chance that 5% will default but then you only lose 5%, and in any case you can price that in up-front because it becomes pretty certain how much you will lose (  $5\%$   of your [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)) rather than all or nothing.  
 
-• Lowers cost of access (mutual funds) or provides professional management expertise ([[Basis Trade Explainer|hedge funds]])  
+• Lowers cost of access (mutual funds) or provides professional management expertise ([hedge funds](../Financial%20Engineering/Basis%20Trade%20Explainer.md))  
 
 –  One of the biggest reasons for mutual funds and ETFs
 
  • Helps monitor and discipline (maybe 1720, South Sea & Mississippi)  
 
-–  This may have been a reasons for the South Sea Co and the Mississippi Co. Although they did it very poorly – in fact the South Sea managers were really fraudsters. –  But the [[Reflections On Modern Bank Runs a Case Study of Northern Rock|Bank of England]] that managed the [[Global Fixed Income Markets|government debt]], while not really pooling the government assets, played this role. –  Not something we think is necessary today for [[Global Fixed Income Markets|government debt]], at least not in developed countries. But in 1720 could have been very valuable.  
+–  This may have been a reasons for the South Sea Co and the Mississippi Co. Although they did it very poorly – in fact the South Sea managers were really fraudsters. –  But the [Bank of England](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Reflections%20On%20Modern%20Bank%20Runs%20a%20Case%20Study%20of%20Northern%20Rock.md) that managed the [government debt](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Global%20Fixed%20Income%20Markets.md), while not really pooling the government assets, played this role. –  Not something we think is necessary today for [government debt](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Global%20Fixed%20Income%20Markets.md), at least not in developed countries. But in 1720 could have been very valuable.  
 
 • Widens audience and market  
 
 –  For investors can provide access to markets not available otherwise. ∗E.g. for credit-card receivable s, investors would have a hard time investing (buying) except through se curit iz ation. ∗David Bowie’s records is another example – investors could not get invest if not se curit i zed –  For Sponsors / Owners or assets, can be a way to “move assets o! balance-sheet”  $^*$  What this really means is that it is a way to raise money, to borrow – collateralized. ∗e.g. mortgages. A bank makes mortgages, using its money to lend to homeowners. ∗It then pools those mortgages together, puts into an SPV, and sells bonds against those mortgages.  $^*$  The investors are lending to the bank, with the mortgages as collateral.  
 # Pass-Through vs Trancheing (Waterfall)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b585af5b256d8ff95ef8f6508c81ccf13970499a3e95ab10a20f1a74c2104004.jpg)  
+ ![500](Attachments/500-772.jpg)  
 
 Outline  
 
@@ -4563,23 +4563,23 @@ Probability (54%) of   $\S10$   loss – pay back either   $\S100$   or   $\S90$
 
 • Senior is ﬁrst priority, always gets   $\mathsection$  20 (  $100\%$  ) back • Equity su!ers the loss, gets either   $\S80$   (  $100\%$  ) or \$70 (87.5%) • Senior riskless, Equity more risky (lose more than   $10\%$   of original)  
 
-[[Arbitrage Pricing of Derivatives|Pricing]] (5yr,   $\S5$   coup,   $5\%$   risky,   $4\%$   risk-free yield)  
+[Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) (5yr,   $\S5$   coup,   $5\%$   risky,   $4\%$   risk-free yield)  
 
 • Underlying  must be  \$100 (  $\mathrm{PV}(\S5\ @\ 5\%)$  ) • Senior now risk-free,  must be    $\S104.45$   (PV(\$5 @ 4%) – pay   $\S20.89$   for   $20\%$  
 
 • Equity  implied    $\S98.89$   (  $\mathrm{100{=}}.\mathrm{2^{*}104.45{+}.8^{*}98.89)}$  ) – pay   $\S79.11$   for 80%  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d2cfa8c27b91ab1bd2d288c3bdc0bbaea31de9250b7a63fb740760e84bb3c5e7.jpg)  
+ ![500](Attachments/500-889.jpg)  
 
 # Pass-through versus trancheing  
 
 This detail (for example on trancheing) is not necessary for History of Financial Crises – for Applied Financial Management  
 
-• Pass-through: all investors get same cash-ﬂows - proportional to their ownership ([[An Asset Allocation Primer|investment]]) • Tranched: the cash-ﬂows are “tranched” according to some set of rules –  Assets pooled, but then cash ﬂows are “tranched” according to some rule, and di!erent classes of securities (shares in the pool) sold.  
+• Pass-through: all investors get same cash-ﬂows - proportional to their ownership ([investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)) • Tranched: the cash-ﬂows are “tranched” according to some set of rules –  Assets pooled, but then cash ﬂows are “tranched” according to some rule, and di!erent classes of securities (shares in the pool) sold.  
 • Example:  
 
 –    $\S100$   of mortgages. –  Mortgage is 5yrs, 5% coupon, pays back   $\S100$   in 5 years. Price \$100,   $\mathrm{yId}=5\%$  
-$^*$  Current [[Black Scholes Derivation|risk-free rate]] is 4%. 100bp spread (risky 5%, risk-free 4%)  
+$^*$  Current [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md) is 4%. 100bp spread (risky 5%, risk-free 4%)  
 
 –  But this mortgage is risky. 54% chance that   $10\%$   of the mortgages will default on the ﬁnal principal repayment  
 
@@ -4593,18 +4593,18 @@ $^*$  Top tranche is called the “senior” tranche –   $20\%$   of this pool
 • Example of cash ﬂow tranche or cash-ﬂow cascade or waterfall (with 20% senior, 80% equity)  
 
 Promised   $\mathrm{CF}=\S100$  , Actual   $\mathrm{CF}=\S100$  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3e8d941d07de3e66d1312e4c5a5c4899e390e4a4256805d74f6c9e92283a57ed.jpg)  
+ ![500](Attachments/500-893.jpg)  
 How do we price this? Actually very easy in this case.  
 
-• We know the price of the risky mortgages (  $\S100$  , 5% yield) and the [[Black Scholes Derivation|risk-free rate]] (  $4\%$  , for risk-free cash ﬂows)  
+• We know the price of the risky mortgages (  $\S100$  , 5% yield) and the [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md) (  $4\%$  , for risk-free cash ﬂows)  
 $$
 \begin{array}{r l}{\mathrm{~-~PV}(\mathrm{rky~mortgages})=\S100}&{}\\ {\mathrm{~-~PV}(5\%~\mathrm{coopen}\ @\ 4\%\ \mathrm{yield})=104.4518}\end{array}
 $$  
 
 • The senior tranche is now risk-free so this must be priced at   $\mathbb{S}104.4518$  . We are selling   $20\%$   of the shares at this price, so this is   $\S20.8904$   (  $\mathbb{S}104.4518^{*}0.20)$  . The balance we have to sell at  $\S79.1096$   (to make the total   $\S100$  )  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6efd3ca0a48ca3b63c27177734f3261aaa16ae9f2abb04cc319b5dd2b97c1db9.jpg)  
-Details for [[Arbitrage Pricing of Derivatives|pricing]] of “mortgage bond”  
+ ![500](Attachments/500-891.jpg)  
+Details for [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of “mortgage bond”  
 
 • 5-year, 5% annual coupon,   $\S{100}$   bullet re-payment (not amortizing like a true mortgage).  
 
@@ -4612,11 +4612,11 @@ Details for [[Arbitrage Pricing of Derivatives|pricing]] of “mortgage bond”
 
 • Price \$100, so yield (risky yield) 5%  
 
-• [[Black Scholes Derivation|Risk-free rate]]   $4\%$  , so risk-free bond PV(5yr bond, 5% coupon,  $4\%{\mathrm{~yield}})=\S104.4518$  
+• [Risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md)   $4\%$  , so risk-free bond PV(5yr bond, 5% coupon,  $4\%{\mathrm{~yield}})=\S104.4518$  
 
 • Assume that all coupons paid with certainty,   $10\%$   of principal will default with some probability (either no-default and get   $\S100$  , or yes-default at year 5 and get \$90)  
 
-• Use risk-neutral (risk-adjusted) [[Arbitrage Pricing of Derivatives|pricing]]:  
+• Use risk-neutral (risk-adjusted) [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md):  
 $$
 \begin{array}{c}{{P V(r i s k y\,5\%\,c o u o n\,@\,4\%\,r i s k-f r e e)}}\\ {{=P V(\S5\,a n n u i t y\,@4\%)+(1-\phi)\cdot P V(\S100\,@\,4\%)+\phi\cdot P V(\S90\,@\,4\%)}}\end{array}
 $$  
@@ -4630,11 +4630,11 @@ Bond is tranched 20% senior,   $80\%$   equity:
 
 # 2 Introducing Equities (BMA Ch 4 , Sharpe )  
 
-2.1 [[Squam Lake Group Introduction|Introduction]]  
+2.1 [Introduction](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md)  
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2686cb9efcbcc22e0e9423003916f3529261e50c66858ba65891e768717a732a.jpg)  
+ ![500](Attachments/500-820.jpg)  
 # Asset Class Comparison (US)  
 
 Remember the di!erent asset classes we discussed Focusing on Equity Market now – compare US Bond & Equity  
@@ -4651,7 +4651,7 @@ Bond market larger but Equity market better-known
 
 • In the news every day (Dow Jones, S&P)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b20aa5a917957833b44d6f577e76e619dc65d25d0201b1bcceb4f62b994f4d46.jpg)  
+ ![500](Attachments/500-891.jpg)  
 
 # 2.2 What is a Firm?  
 
@@ -4715,7 +4715,7 @@ i. Joint-stock companies in England during 16th and 17th centuries, created to e
 (b) Critical – assumption of proﬁt maximization – from this all things ﬂow.  
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7e5bf589f9ffb4a20f20f7004d1ed58b0f96b6e83699b663541c53b7dc898f92.jpg)  
+ ![500](Attachments/500-790.jpg)  
 
 # Common Stock or Equity  
 
@@ -4732,11 +4732,11 @@ Common stock, shares, equity, are all names for the ownership. Three important c
 3. control or ownership  
 
 • more complicated issue than residual CF. Technically shareholders own and control the company, but as a practical issue for most publicly traded companies there are so many shareholders, with ownership so widely distributed, that control is delegated to a board of directors and the managers. We’ll have much more to say about this later.  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/370596d812922ab90235185c45e5c6ebaebed609d755cd95a19c632448dffffd.jpg)  
+ ![500](Attachments/500-897.jpg)  
 
 Let’s look at Honeywell international and discuss some of the institutional characteristics of equity. Start with book value of common stockholder’s equity (table 14.2 in BMA).  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d2ed9f3049365bfe85320e4239be4810b0a5c8f50f95d4cdb81583d36811abb2.jpg)  
+ ![500](Attachments/500-924.jpg)  
 Actually, to my mind, most of this is pretty useless to anyone but lawyers and accountants  
 
 • Number of shares – From legal perspective, this provides some information. Articles of incorporation or bylaws state how many shares may be issued. Mainly a legal and documentation issue – authorized shares usually set at some high number so don’t have to go back and get a new board resolution or shareholders meeting just to issue new shares. For Honeywell, 2bn shares authorized, but only 958mn have been issued.  
@@ -4758,7 +4758,7 @@ To repeat, about the only valuable information from that table is the 735mn outs
 
 # Honeywell International – Market Value  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/59298aec66b54e4ef6303884fa3710ee773c0965bbd5de8d7e2a7cb20625f7cf.jpg)  
+ ![500](Attachments/500-894.jpg)  
 # Ownership and Voting  
 
 Equity ownership implies company ownership  
@@ -4800,7 +4800,7 @@ Ownership and Voting – equity ownership implies company ownership
 –  Many stockholders don’t vote – feel they own so few shares it doesn’t matter –  Some investors specialize in buying shares (often concentrating on single companies and buying large blocks) and pressuring companies to make changes – in other words actively exercising their ownership rights. Called activist shareholders. –  Majority vs. Cumulative Voting –  Majority – each director voted separately, and one vote per share per director –  Cumulative – still get one vote per share per director but can cumulate votes and apply all to a single director. This makes it easier for activist investors to have an impact, and thus some shareholder groups campaign for cumulative voting.  
 # Dual-class shares and minority rights  
 
-Residual cash ﬂow and [[Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation|control rights]] might not go together.  
+Residual cash ﬂow and [control rights](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%207/Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation.md) might not go together.  
 
 • Two classes of shares, identical in CF rights but di!erent voting rights. • More common in Europe than in the US, but it does happen – Google  
 
@@ -4812,7 +4812,7 @@ Minority rights – a touchy problem.
 
 Dual-class shares and minority rights  
 
-It is not necessary that residual cash ﬂow and [[Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation|control rights]] go together. Sometimes there are two classes of shares, identical in their rights to cash ﬂows but with di!erent voting rights. This tends to be more common in Europe than in the US, but it does happen – the book cites Google, whose owners created two share classes to enable them to retain control over the company when they ﬁrst issued shares to the public.  
+It is not necessary that residual cash ﬂow and [control rights](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%207/Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation.md) go together. Sometimes there are two classes of shares, identical in their rights to cash ﬂows but with di!erent voting rights. This tends to be more common in Europe than in the US, but it does happen – the book cites Google, whose owners created two share classes to enable them to retain control over the company when they ﬁrst issued shares to the public.  
 
 Minority rights – a touchy problem. Problem that majority shareholders may exercise their majority ownership rights to deprive minority shareholders of cash or rights.  
 
@@ -4832,7 +4832,7 @@ Preferred Equity
 
 –  Like debt, amount of payments set up-front, but like equity company can choose not to pay a preferred dividend still not be in default – preferred dividend not a ﬁxed promise –  But most preferred issues are cumulative preferred stock which requires any past missed preferred dividends be made up before any common dividends can be paid. –  Thus we have a tiering or cascade of cash ﬂows:  $^*$  First to debt-holders. These payments are required, not paying means default  $^*$  Second to preferred stockholders.  $^*$  Only third to common shareholders.  
 
-–  This cash ﬂow cascading is taken much further in [[Preview of the Book|structured products]] such as CDOs and CMOs. These take existing securities and slice up the cash ﬂows in various ways to change the risk / return characteristics of resulting new securities.  
+–  This cash ﬂow cascading is taken much further in [structured products](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) such as CDOs and CMOs. These take existing securities and slice up the cash ﬂows in various ways to change the risk / return characteristics of resulting new securities.  
 
 –  For various reasons company proﬁts are not sliced up so ﬁnely among various securities, but the cascading and slicing between debt, preferred, and common shows some of this.  
 
@@ -4848,7 +4848,7 @@ Notes from RPI lectures – from [Brealey et al.(2013)Brealey, Myers, and Allen]
 
 # References  
 
-[Brealey et al.(2013)Brealey, Myers, and Allen] Richard A. Brealey, Stewart C. Myers, and Franklin Allen.  Principles of [[Corporate Finance Lecture Notes|Corporate Finance]] . McGraw-Hill Education, New York, 11 edition edition, January 2013. ISBN 978-0-07-803476-3.  
+[Brealey et al.(2013)Brealey, Myers, and Allen] Richard A. Brealey, Stewart C. Myers, and Franklin Allen.  Principles of [Corporate Finance](Corporate%20Finance%20Lecture%20Notes.md) . McGraw-Hill Education, New York, 11 edition edition, January 2013. ISBN 978-0-07-803476-3.  
 # Risk Premium & Risk-Adjusted Discounting in Practice  
 
 Lecture 8 Thomas S. Coleman 12 April 2022; Draft April 17, 2023  
@@ -4869,9 +4869,9 @@ Lecture 8 Thomas S. Coleman 12 April 2022; Draft April 17, 2023
 
 # Calculating Risk Premium Seems Complicated  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c397812bdcd4427c3fa51dabd20536c54e8833d61a1b811f896d4b85c2e9f9c5.jpg)  
+ ![500](Attachments/500-768.jpg)  
 
-• Use expected utility to get the CE (single, [[Risk Aversion|certainty equivalent]] CF)  
+• Use expected utility to get the CE (single, [certainty equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md) CF)  
 $$
 u(C E)=p\cdot u(C_{l})+(1-p)\cdot u(C_{h})
 $$  
@@ -4913,15 +4913,15 @@ Settle 31-dec-15 –  Calculate FIS Yield  using  Promised   $C F$   Market give
 
 • Embedded in bond prices – market gives us risk premium  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/debafaeb83b58ce9c462cf995dff8e182d5d1fd312e1db55e866b5ee3aebc2df.jpg)  
+ ![500](Attachments/500-890.jpg)  
 
 • UST:   $2.25\%$   coupon, 15-nov-25 (31-dec-15) P=99.84375, Y=2.268%  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/715d2dfc10190ab3e045d0aa61e85ec38af815e00a7a3e457c2b47fe92ba3e86.jpg)  
+ ![500](Attachments/500-891.jpg)  
 
 • Calculate FIS: 5% coupon, 15-oct-25 (31-dec-15) P=103.626, Y=4.536%  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3031dea94fca217633cdfa20e69a6fbed011a48f0b233025ee2a5a14bb132fa3.jpg)  
+ ![500](Attachments/500-891.jpg)  
 Bond Market & FIS Example – Risk-Adjusted Yield  
 
 Market gives us risk premium – embedded in price (settle 31-dec-15)  
@@ -4932,7 +4932,7 @@ Market gives us risk premium – embedded in price (settle 31-dec-15)
 
 The UST CFs are known, the FIS only  promised  CFs, but CF diagram useful We can just calculate yield, market gives us risk premium!  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9ecbf6cc5eeed5e1087b6f8bf90340e7ac3e4d4191f0e2753d84b55faf29fa1c.jpg)  
+ ![500](Attachments/500-830.jpg)  
 
 Generally use spread:   $\mathrm{rp}=4.54\%-2.27\%=227\mathrm{bp}$  
 
@@ -4940,9 +4940,9 @@ Generally use spread:   $\mathrm{rp}=4.54\%-2.27\%=227\mathrm{bp}$
 
 Spread between UST ( risk-free ) and corporate  risk-adjusted  yields  
 
-• 31-jan-16: UST   $2.27\%$  , FIS   $4.54\%=>$   spread = 227bp • Market’s assessment of [[Quantitative Trading Strategies Lecture Notes|credit risk]] – probability of default use company information, such as in a company’s financial statements, to help estimate the  • Embeds  uncertainty  of cash ﬂows (spread of the distribution), and  price  (compensation for uncertainty)  
+• 31-jan-16: UST   $2.27\%$  , FIS   $4.54\%=>$   spread = 227bp • Market’s assessment of [credit risk](Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) – probability of default use company information, such as in a company’s financial statements, to help estimate the  • Embeds  uncertainty  of cash ﬂows (spread of the distribution), and  price  (compensation for uncertainty)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c6fa0093920afb02e4f839c3bb38251e74c32fd346b3327c82ad8533bf615c2.jpg)  
+ ![500](Attachments/500-894.jpg)  
 
 Bloomberg  
 
@@ -4965,7 +4965,7 @@ Overall (risky) yield separates into two parts:
 
 1. UST (risk-free) discounting   $\left(y_{u s t}\right)$   – overall market 2. Risk premium   $(r p)$   – speciﬁc to FIS (or whatever company)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/323b9af55b58eee08d1140bef7004efd3c8aea890d4b621422a592b8d7b517a3.jpg)  
+ ![500](Attachments/500-801.jpg)  
 
 # Alternative (less useful): Risk Premium in Dollars  
 
@@ -4973,15 +4973,15 @@ Risk Premium   $\left(1\!+\!r p\right)$   tells us value or price of uncertainty
 
 • Discount FIS at UST (risk-free) yield: what FIS  would  be if certain CFs • FIS: 5% coupon, 15-oct-25 (31-dec-15)   $\mathrm{Y{=}4.536\%}$  , P=103.626  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4c455fca477fa5e543e3fad80b292bd3f47c0220959f4d2ae4c773576a095638.jpg)  
+ ![500](Attachments/500-891.jpg)  
 $\bullet$   FIS: 5% coupon, 15-oct-25 (31-dec-15) Y=2.268%, P=123.859  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e88d51a244160ff83502bb4abd40959574672919ab2d21ce3352fec409c5ce6b.jpg)  
+ ![500](Attachments/500-891.jpg)  
 
 Di!erence –   $\S20.23$   – is   $\S$   value of uncertainty • But less useful than risk premium in yield (227bp) • 227bp applies every year, to any similar CFs  
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0f99a94c51a0fb15d65a12eb52873b0f858916f28f250b4422ef8b925077caa9.jpg)  
+ ![500](Attachments/500-932.jpg)  
 # Bankruptcy Costs  
 
 Bankruptcy does have costs, can be long & expensive process  
@@ -5006,12 +5006,12 @@ Sovereign Default
 
 Default is non-payment, Re-Scheduling changing the terms Economically the same  
 
-• Default: usually get something back • Re-Scheduling: change the terms (eg lower coupon) – e!ective default [[PSET 3 Solution-Financial Instruments|Greece]] o!cially launched a bond swap Friday [24-feb-2012], aiming to wipe 107 billion euros (\$142 billion) o" its 350-billion-euro debt bill. The debt write-down, also known as haircut, hits private investors hard. As part of the deal [debt swap] – also known as a haircut – private creditors are asked to trade in their Greek bonds for new ones o"ering lower [[Interest Rate Quotations|interest rates]] and longer maturities [pushing the €100 principal further away].  
+• Default: usually get something back • Re-Scheduling: change the terms (eg lower coupon) – e!ective default [Greece](../Financial%20Instruments/Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md) o!cially launched a bond swap Friday [24-feb-2012], aiming to wipe 107 billion euros (\$142 billion) o" its 350-billion-euro debt bill. The debt write-down, also known as haircut, hits private investors hard. As part of the deal [debt swap] – also known as a haircut – private creditors are asked to trade in their Greek bonds for new ones o"ering lower [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) and longer maturities [pushing the €100 principal further away].  
 
 History: France in early 1700s: reduced coupon on  rentes Britain: often reduced interest on Consols – but redeemable  
 
 • Rates   $3\%$  , £4 annuity worth £133. • Redeem for £100, re-issue new £3 annuity. Or just reduce to £3  
-(a) p 61. [[PSET 3 Solution-Financial Instruments|Greece]]: “As part of the deal [debt swap] – also known as a haircut – private creditors are asked to trade in their Greek bonds for new ones o!ering lower [[Interest Rate Quotations|interest rates]] and longer maturities [pushing the   $\mathrm{{6100}}$   principal further away]. Bond holders are expected to take a nominal loss of   $53.5\%$   on their holdings, which equates to a real loss of 73 to 74%.” (web, http://www.dw.com/en/greek-creditors-receive-o"cial-haircutnot i cation/a-15767530, early 2012) “[[PSET 3 Solution-Financial Instruments|Greece]] o"cially launched a bond swap Friday [24- feb-2012], aiming to wipe 107 billion euros (  $\S142$   billion) o! its 350-billion-euro debt bill. The debt write-down, also known as haircut, hits private investors hard.”  
+(a) p 61. [Greece](../Financial%20Instruments/Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md): “As part of the deal [debt swap] – also known as a haircut – private creditors are asked to trade in their Greek bonds for new ones o!ering lower [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) and longer maturities [pushing the   $\mathrm{{6100}}$   principal further away]. Bond holders are expected to take a nominal loss of   $53.5\%$   on their holdings, which equates to a real loss of 73 to 74%.” (web, http://www.dw.com/en/greek-creditors-receive-o"cial-haircutnot i cation/a-15767530, early 2012) “[Greece](../Financial%20Instruments/Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md) o"cially launched a bond swap Friday [24- feb-2012], aiming to wipe 107 billion euros (  $\S142$   billion) o! its 350-billion-euro debt bill. The debt write-down, also known as haircut, hits private investors hard.”  
 
 (b) France: reduced coupons on  rentes  – a form of re-scheduling and thus default (c) Britain: often reduced coupon on Consols  
 
@@ -5019,10 +5019,10 @@ i. But this is interesting – not a re-scheduling. ii. Consols redeemable annui
 
 # Nations Default Often – R&R Figure 6.2  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e0e84d45e27977d6c5ffaa436deba76235d9049b737f8c26bdd4e1f1b5fe0711.jpg)  
+ ![500](Attachments/500-925.jpg)  
 
 Argentina,  1816     1827    1890  [Reinhart and Rogo!(2011)] Figure 6.2. This copy from [Reinhart and Rogo!(2008)]  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1985a7210b5a48e858482ae514f11e679a121fee3852cc41c829ee76d0736b9c.jpg)  
+ ![500](Attachments/500-894.jpg)  
 
 [Reinhart and Rogo!(2011)] Figure 6.4. This copy from [Reinhart and Rogo!(2008)]  
 
@@ -5030,20 +5030,20 @@ Argentina,  1816     1827    1890  [Reinhart and Rogo!(2011)] Figure 6.2. This c
 
 El Salvador  1921  1932, 1938      • Defaults common – be cautious with debt and borrowing 1986, 1989  Honduras        1981  1840s, when, at times, nearly half the countries in the world were in default (including all  • But “Serial Default” etc. symptoms of more fundamental causes. of Latin America).  The third episode begins in the early 1870s and lasts for two decades.  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/feba1f0a457fa6d65a1617c849eb424f9c95ef95c3e8096478dd776108c158e7.jpg)  
+ ![500](Attachments/500-925.jpg)  
 
 [Reinhart and Rogo!(2011)] Figure 5.1. This copy from [Reinhart and Rogo!(2008)]  
 # 1.3 Credit Spreads – Market Measure of Default Uncertainty – Revisit Sovereign Default  
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f5c24a282333c19b9ffaf80ce0c48fa65517e6a7eea483bcd8477d8f75a2adac.jpg)  
+ ![500](Attachments/500-892.jpg)  
 
 Spread measures market’s perception (and valuation) for uncertainty Brazil: low coupon but low price    $\Rightarrow$  high yield: 195bp over UST • Always look at yield as  spread  to bond with known CFs (UST)  
 
 # 3-oct-18 from FT Remember CF Adjustment Idea  
 
-• Use expected utility to get the CE (single, [[Risk Aversion|certainty equivalent]] CF)  
+• Use expected utility to get the CE (single, [certainty equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md) CF)  
 
 • Adjust the original CFs until the average (or promised) CF from the distribution equals the CE  
 
@@ -5052,7 +5052,7 @@ $$
 P V={\frac{C E}{1+u s t}}={\frac{C F_{o r i g}^{p r o m}}{\left(1+y_{r i s k y}\right)}}={\frac{C F_{o r i g}^{p r o m}}{\left(1+u s t\right)\left(1+r p\right)}}
 $$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f464203be5149a9b29f5f5ec63e4af74caf7a0516729b98914bb296a8fd45a63.jpg)  
+ ![500](Attachments/500-892.jpg)  
 
 We get    $\mathit{\Delta}^{\mathit{r p}}$   by: Market Price    $\rightarrow$  Risk-adjusted yield    $\rightarrow$  Risk Premium  
 
@@ -5068,17 +5068,17 @@ $$
 
 • Let’s adjust Brazil CFs: 1/1.01195  per year • Promised CFs reduced year-by-year: FV is    $91.68={\frac{100}{(1.0195)^{4.5}}}$  • Discounting at UST, we get today’s PV  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8cf8bd1ebed5e8d90d8bd21808cd283ffb0fc604dafa2eb0bfbd84a5d5369b8b.jpg)  
+ ![500](Attachments/500-889.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/45083825d6ffc1c56d9c62598b9cf71c910215673e3612106c66467c53d5461c.jpg)  
+ ![500](Attachments/500-924.jpg)  
 
 # Credit Spread: Market Measure of “Default”  
 
-“[[Cds-Equivalent Bond Spread|Credit Spread]]”: yield relative to low-risk yield – UST  
+“[Credit Spread](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md)”: yield relative to low-risk yield – UST  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/251a347a88a0ef58e8bd1ceb29242e4b2a6a592c86295e2bfc075224c5070942.jpg)  
+ ![500](Attachments/500-924.jpg)  
 
-Measure relative to “certainty yield” for known   $\mathrm{CF\mathrm{~-~}U S T}$  Compensation for extra risk of default (over UST), set by market • Brazil 1/23: 5yr UST 2.94%.  $\mathrm{Speed}=4.89-2.94=1.95\%$   or 195bp Details on [[Cds-Equivalent Bond Spread|credit spread]] (risk-premium) calculation  
+Measure relative to “certainty yield” for known   $\mathrm{CF\mathrm{~-~}U S T}$  Compensation for extra risk of default (over UST), set by market • Brazil 1/23: 5yr UST 2.94%.  $\mathrm{Speed}=4.89-2.94=1.95\%$   or 195bp Details on [credit spread](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md) (risk-premium) calculation  
 $$
 1+Y_{r i s k y}=(1+u s t)(1+r p)=1+u s t+r p+u s t\cdot r p\approx1+u s t+r p\Rightarrow r p\approx Y_{r i s k y}-u s t
 $$  
@@ -5093,9 +5093,9 @@ Turkey: Higher spread, market says more chance of default
 
 Credit Spreads di!er across maturity as well as across issuers • Di!erences bigger and more important across issuers  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e9e3eac79c41561a96da30dfdbf81fb6f7bbd5f0bb29cb3d279a80744debb9ae.jpg)  
+ ![500](Attachments/500-893.jpg)  
 
-[[The Vasicek Model|Term structure]] (maturity) di!erences due to changing likelihood over time • Often see rising pattern – more and better knowledge about close-in events  
+[Term structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) (maturity) di!erences due to changing likelihood over time • Often see rising pattern – more and better knowledge about close-in events  
 
 • Could also go other way – falling risk premium –  Big events close in, then problems get better –  Don’t make mistake to think premium rises because of longer maturity: Risk premium measures  per year  compensation for uncertainty  
 
@@ -5103,64 +5103,64 @@ NB: 3-oct-18 from FT gives price and yield for Brazil   $5.63\%$   of 2/47 (as a
 
 # Credit Spread for Europe  
 
-Germany is the “safe” country Measure France, Italy, [[PSET 3 Solution-Financial Instruments|Greece]] relative to Germany (3-oct-18 from FT)  
+Germany is the “safe” country Measure France, Italy, [Greece](../Financial%20Instruments/Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md) relative to Germany (3-oct-18 from FT)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6f58a6f7e943937e4c7288134adca48413f15c37a2f8dc696e0a2f56607c6725.jpg)  
+ ![500](Attachments/500-924.jpg)  
 $\bullet$   Higher spread gives investors compensation for possible default  
-$\bullet$   Also – market tells us how much risk –  Can use to ﬁt default model –  Market behaves as if [[PSET 3 Solution-Financial Instruments|Greece]] default probability 39% in 10yrs  
+$\bullet$   Also – market tells us how much risk –  Can use to ﬁt default model –  Market behaves as if [Greece](../Financial%20Instruments/Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md) default probability 39% in 10yrs  
 
 As digression (for those interested in reading more), using risk-neutral valuation  
 
-• “Spread” is risk-premium method for valuing uncertain CFs • For some purposes, alternative method: “risk-neutral” valuation from CDS –  Build in CF dist’n: for [[PSET 3 Solution-Financial Instruments|Greece]], each period roughly 95% chance pay, 5% don’t  
+• “Spread” is risk-premium method for valuing uncertain CFs • For some purposes, alternative method: “risk-neutral” valuation from CDS –  Build in CF dist’n: for [Greece](../Financial%20Instruments/Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md), each period roughly 95% chance pay, 5% don’t  
 
 Valuation of uncertain CFs either by spread or “intensity”:  
 
-• For [[PSET 3 Solution-Financial Instruments|Greece]],  380 bp spread  ↔ 5 . 31%  intensity • Spread: for bonds, usual “promised” CFs  
+• For [Greece](../Financial%20Instruments/Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md),  380 bp spread  ↔ 5 . 31%  intensity • Spread: for bonds, usual “promised” CFs  
 
-• Intensity: for di!erent CFs like CDS – see my “[[A Practical Guide to Bonds and Swaps|Practical Guide]]” in week 4 module  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6d36c95253d29b41b6a892a4f760261937e8d2df5e483eae445f8fe95987c9fc.jpg)  
-[[Cds-Equivalent Bond Spread|Credit Spread]] for Europe Germany is the “safe” country Measure France, Italy, Spain, Belgium relative to Germany  
+• Intensity: for di!erent CFs like CDS – see my “[Practical Guide](../Financial%20Engineering/A%20Practical%20Guide%20to%20Bonds%20and%20Swaps.md)” in week 4 module  
+ ![500](Attachments/500-925.jpg)  
+[Credit Spread](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md) for Europe Germany is the “safe” country Measure France, Italy, Spain, Belgium relative to Germany  
 
 1. Digression on credit spreads  
 
 (a) Important point: default (or re-scheduling) does not mean investors are irrational or lose by investing in bonds that eventually default  
 
-i. Often investors receive a higher coupon or higher yield that compensates for the chance of default ii. Bonds, like any ﬁnancial security, are simply a game of [[FORWARD RATES AND TERM STRUCTURE|expectations]] – you pay today with some chance of getting money in the future.  
+i. Often investors receive a higher coupon or higher yield that compensates for the chance of default ii. Bonds, like any ﬁnancial security, are simply a game of [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) – you pay today with some chance of getting money in the future.  
 
 (b) Credit spreads as of 24-apr-17 (from FT)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/46cccc17d57c5b37c2d7f1ee1e9823eda64cbfa977b885171329268a40c5765b.jpg)  
+ ![500](Attachments/500-898.jpg)  
 
 (c) Credit spreads as of 3-oct-18 (from FT)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/df2b99a7cfaacd268c24c24016b366beef517678630d84bacfb3a8fbbf21ded5.jpg)  
+ ![500](Attachments/500-895.jpg)  
 
 (d) “Yield” correctly measures how much you earn – it trades of the lower price (you buy the bond cheaper) and higher coupon (you earn more each year).  
-i. Take the Brazil 12.50% of 1/31/22. Very high coupon is good (earn a lot each year) but you have to pay a lot up-front (  $\S$  111.029). Net you earn 9.49% ii. Still, this is much higher than for US go’vt bonds – similar maturity UST is the  $1.875\%$   of 03/22 with yield of 1.81%. Spread of 768bp. (e) [[Cds-Equivalent Bond Spread|Credit spread]] incorporates both the  probability  of the default and the  value  of the loss – how much investors are hurt by the loss. i. Incorporates recovery – default usually does not mean you lose all \$100  
+i. Take the Brazil 12.50% of 1/31/22. Very high coupon is good (earn a lot each year) but you have to pay a lot up-front (  $\S$  111.029). Net you earn 9.49% ii. Still, this is much higher than for US go’vt bonds – similar maturity UST is the  $1.875\%$   of 03/22 with yield of 1.81%. Spread of 768bp. (e) [Credit spread](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md) incorporates both the  probability  of the default and the  value  of the loss – how much investors are hurt by the loss. i. Incorporates recovery – default usually does not mean you lose all \$100  
 
 # Valuation with Risk-Neutral Valuation  
 
 Everything we’ve done so far has been “risk-premium” where we adjust the CF distribution by adjusting the CFs. But alternatively we can adjust the probabilities and then use the distribution itself. We might want to do this when we want to look at the CFs. We could build a model where each coupon date (more technically each instant) there are two possibilities: 1) the bond defaults and pays a “recovery value”; 2) the bond continues to the next period.  
 
-For those interested in this kind of valuation (which is used for valuing Credit Default Swaps (CDS)) look at Section V in my “[[A Practical Guide to Bonds and Swaps|Practical Guide]] to Yield Curves ...” on Canvas, or my paper at SSRN: https://papers.ssrn.com/abstract  $,=$  1555118  
+For those interested in this kind of valuation (which is used for valuing Credit Default Swaps (CDS)) look at Section V in my “[Practical Guide](../Financial%20Engineering/A%20Practical%20Guide%20to%20Bonds%20and%20Swaps.md) to Yield Curves ...” on Canvas, or my paper at SSRN: https://papers.ssrn.com/abstract  $,=$  1555118  
 
-Spreads Change as Market Valuation of [[Quantitative Trading Strategies Lecture Notes|Credit Risk]] Changes 10-year US Corporate Spreads  
+Spreads Change as Market Valuation of [Credit Risk](Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) Changes 10-year US Corporate Spreads  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c5aac7e30e6979468203d9eacca9742289decf25fb6cb96c41e3ad1102a37903.jpg)  
+ ![500](Attachments/500-893.jpg)  
 
-Changes in preferences for risk and [[FORWARD RATES AND TERM STRUCTURE|expectations]] of default  
+Changes in preferences for risk and [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) of default  
 
 # 1.4 Credit ratings (BMA 23.3 (custom Ch 8))  
 
 # Contents  
 
-1. What are credit ratings (a) Agencies (3 big: S&P, Moody’s, Fitch) (b) Ratings 2. Examples (a) Some companies and ratings 3. Bond Ratings as Proxy for [[Cds-Equivalent Bond Spread|Credit Spread]] (slide already done)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/59ede3dee39df82002e77b0ee589b3b69cdaf5da69a612274b15bec103ab14a0.jpg)  
+1. What are credit ratings (a) Agencies (3 big: S&P, Moody’s, Fitch) (b) Ratings 2. Examples (a) Some companies and ratings 3. Bond Ratings as Proxy for [Credit Spread](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md) (slide already done)  
+ ![500](Attachments/500-796.jpg)  
 
 Spreads shown in the table are for late 2015 or early 2016, taken from Bloomberg  
 # Bond Ratings & Credit Spread – Both Measure Default Risk  
 
-Remember: [[Cds-Equivalent Bond Spread|credit spread]] (risk premium) depends on  CF distribution  – uncertainty • Embeds both uncertainty (probability of default) & risk (value of default)  
+Remember: [credit spread](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md) (risk premium) depends on  CF distribution  – uncertainty • Embeds both uncertainty (probability of default) & risk (value of default)  
 
 Rating supposed to measure just probability of default Biggest di!erence: spread comes from the market  
 
@@ -5172,7 +5172,7 @@ Believe spread over rating Example : Verizon vs BAC (Bank of America) in Oct 201
 
 Example : Mortgage CDOs in 2005  
 
-• Trading CDOs ([[Credit Markets Session 5|Collateralized Debt Obligations]]) • Rated AAA, spread 30-40bp over libor; AAA corporate bonds 5-10bp • Clearly not the same, and people knew mortgage risk was higher  
+• Trading CDOs ([Collateralized Debt Obligations](../Credit%20Markets/Credit%20Markets%20Session%205.md)) • Rated AAA, spread 30-40bp over libor; AAA corporate bonds 5-10bp • Clearly not the same, and people knew mortgage risk was higher  
 
 # Complaints About Ratings – Corporate Bonds OK  
 
@@ -5209,9 +5209,9 @@ More complicated, but really useful for options
 
 # Example: Adjust CFs or Adjust Probabilities  
 
-To make concrete,  Constant [[CCAPM with Alternative Preferences|Relative Risk Aversion]]  function:    $\begin{array}{r}{u(C)=\frac{C^{1-\gamma}}{1-\gamma}}\end{array}$  ,    $\gamma=8$  →  
+To make concrete,  Constant [Relative Risk Aversion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/CCAPM%20with%20Alternative%20Preferences.md)  function:    $\begin{array}{r}{u(C)=\frac{C^{1-\gamma}}{1-\gamma}}\end{array}$  ,    $\gamma=8$  →  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5bfe574797595d0219e44391da49588b5c2f4bc1a3ad1da221ead38a837e1edf.jpg)  
+ ![500](Attachments/500-924.jpg)  
 
 Our original CFs and expected utility give CE of   $\S764.28$  Adjust distribution by one of two ways so dist’n gives CE:  
 
@@ -5222,7 +5222,7 @@ Our original CFs and expected utility give CE of   $\S764.28$  Adjust distributi
 
 Adjust CFs : When using  promised  or  expected  Cash Flows  
 
-•  Promised  CF or  Expected  CF summarize full distribution in one number • Risk premium ( rp ) adjusts Promised or Expected to [[Risk Aversion|Certainty Equivalent]] (CE)  
+•  Promised  CF or  Expected  CF summarize full distribution in one number • Risk premium ( rp ) adjusts Promised or Expected to [Certainty Equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md) (CE)  
 
 Adjust Probabilities : When using the distribution itself  
 
@@ -5230,10 +5230,10 @@ Adjust Probabilities : When using the distribution itself
 
 • Cannot use risk premium – look at only part of the distribution – only \$888.59  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/36857a193a63d755c4ee06f6fa52cdbcd600d82f7f95359612dbfd15868cd897.jpg)  
+ ![500](Attachments/500-913.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bd19d684e3f8d6c9d03998b6066cd3e07378fe4d72f2fb94a20831111d93d527.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c9bc0c17215ee73707b1dba2a74fe9b0c49a059b39627eff110df2dfe2f48863.jpg)  
+ ![500](Attachments/500-889.jpg)  
+ ![500](Attachments/500-928.jpg)  
 
 # 3 Corporate Bonds (Sharpe 14.6)  
 
@@ -5250,8 +5250,8 @@ Legal contract that lays out  Promised Payments  and  Protections Lays out vario
 
 # Indenture – Apple 2015 Bond (BKM ﬁg 14.10)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a7348e2a11cd9e06b59136c07f6a584bee8c341e01d3e1b6b34368c07ec4c6ee.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6c802ee9cc940997d63535829350c2bd7dbb0c50a175e759028cdfb982f6d8b5.jpg)  
+ ![500](Attachments/500-931.jpg)  
+ ![500](Attachments/500-895.jpg)  
 
 Types of Bonds Mortgage Bonds  
 
@@ -5273,18 +5273,18 @@ Lecture 7 Thomas S. Coleman 10 April 2023 Draft April 12, 2023
 
 # Contents  
 
-1 Uncertainty versus Risk 1 2 Problem – We Don’t Know How to PV Uncertain CFs (notes) 2 2.0.1 Section II of “[[A Practical Guide to Bonds and Swaps|Practical Guide]] to Yield Curves” (Canvas). Plus lecture notes 2 2.1 We Think We’re Smart – But Can’t PV FIS . . . . . . . . . . . . . . . . . . . . . . 2 2.2 Simple Example for Solution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 2.3 Program for Valuing Uncertain CFs . . . . . . . . . . . . . . . . . . . . . . . . . . 5 3 PV for Uncertain CFs: Utility and [[Risk Aversion|Certainty Equivalent]] 7 3.1 Deﬁning [[Risk Aversion|Certainty Equivalent]] – CF Equivalent to Utility . . . . . . . . . . . . . . 7 3.2 Risk-Adjusted Discounting: Adjust CFs . . . . . . . . . . . . . . . . . . . . . . . . 10 3.3 Return to UST & FIS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 4 Se curit iz ation 15  
+1 Uncertainty versus Risk 1 2 Problem – We Don’t Know How to PV Uncertain CFs (notes) 2 2.0.1 Section II of “[Practical Guide](../Financial%20Engineering/A%20Practical%20Guide%20to%20Bonds%20and%20Swaps.md) to Yield Curves” (Canvas). Plus lecture notes 2 2.1 We Think We’re Smart – But Can’t PV FIS . . . . . . . . . . . . . . . . . . . . . . 2 2.2 Simple Example for Solution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 2.3 Program for Valuing Uncertain CFs . . . . . . . . . . . . . . . . . . . . . . . . . . 5 3 PV for Uncertain CFs: Utility and [Certainty Equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md) 7 3.1 Deﬁning [Certainty Equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md) – CF Equivalent to Utility . . . . . . . . . . . . . . 7 3.2 Risk-Adjusted Discounting: Adjust CFs . . . . . . . . . . . . . . . . . . . . . . . . 10 3.3 Return to UST & FIS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 4 Se curit iz ation 15  
 
 # 1 Uncertainty versus Risk  
 
-Section II of “[[A Practical Guide to Bonds and Swaps|Practical Guide]] to Yield Curves, Discounting, and [[Chapter 9 Arbitrage and Hedging With Options|Derivatives]]” (Canvas); ch 2 of “[[A Practical Guide to Bonds and Swaps|Practical Guide]] to Risk Mgmt” (Amazon or CFA)  
+Section II of “[Practical Guide](../Financial%20Engineering/A%20Practical%20Guide%20to%20Bonds%20and%20Swaps.md) to Yield Curves, Discounting, and [Derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md)” (Canvas); ch 2 of “[Practical Guide](../Financial%20Engineering/A%20Practical%20Guide%20to%20Bonds%20and%20Swaps.md) to Risk Mgmt” (Amazon or CFA)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/edc05398411abb0beacaf517411818b5ae221c2590d6d5935527b2a08853761d.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0c21d26d3c0db67d3e7ad344978949571b4c410299c726070ef4966c74030a10.jpg)  
+ ![500](Attachments/500-894.jpg)  
+ ![500](Attachments/500-791.jpg)  
 
 # 2 Problem – We Don’t Know How to PV Uncertain CFs (notes)  
 
-2.0.1 Section II of “[[A Practical Guide to Bonds and Swaps|Practical Guide]] to Yield Curves” (Canvas). Plus lecture notes
+2.0.1 Section II of “[Practical Guide](../Financial%20Engineering/A%20Practical%20Guide%20to%20Bonds%20and%20Swaps.md) to Yield Curves” (Canvas). Plus lecture notes
 
  [ ? ]  
 
@@ -5294,11 +5294,11 @@ Section II of “[[A Practical Guide to Bonds and Swaps|Practical Guide]] to Yie
 
 We Think We’re Smart, But Why Di!erent Yields for UST & FIS? Turns out we don’t even how to PV our FIS bond Let’s look at UST & FIS, and calculate yields • UST:   $2.25\%$   coupon, 15-nov-25 (31-dec-15) P=99.84375, Y=2.268%  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3a235ffb5f590383d585c692476390618f9de0419a7d3b6c2620fb96dcd399bd.jpg)  
+ ![500](Attachments/500-892.jpg)  
 
 • FIS: 30/360, semi 5% coupon, 15-oct-25 (31-dec-15) P=103.626, Y=4.536%  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c157838527c1e1a19aeab06b7d72d19bd6eedd67ad3266adb5b742e5cc37d4aa.jpg)  
+ ![500](Attachments/500-892.jpg)  
 
 These UST and FIS prices (and yields) are from December 2015. Our Discounting for FIS Totally Wrong  
 • UST: 2.25% coupon, 15-nov-25 (31-dec-15) P=99.84375, Y=2.268% • FIS: 5% coupon, 15-oct-25 (31-dec-15) P=103.626, Y=4.536%  
@@ -5309,7 +5309,7 @@ This cannot be right – such huge discounting di!erences We should discount CFs
 
 Fact is, we don’t really have a clue how to PV the FIS bond!  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cd2eb3b9fb5ad91225967dcd5769aa41c128ba742814a722ca0597f650b9cc61.jpg)  
+ ![500](Attachments/500-891.jpg)  
 
 We often draw the future FIS cash ﬂows as if they were a single value but what we always put down is the “promised” CF, or maybe the expected (average) CF. That simple diagram misleads us into thinking that we understand when in fact we don’t have a clue  
 
@@ -5317,7 +5317,7 @@ We often draw the future FIS cash ﬂows as if they were a single value but what
 
 We draw FIS and UST same way – but actually very di!erent • UST: actual known future CFs – we discount to get PV:  $\textstyle{\frac{C F}{(1+y)^{n}}}$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c5e27e673cdeaa5bed9334f16e58e718b89cdcaea4db85c250006d0fef31977.jpg)  
+ ![500](Attachments/500-779.jpg)  
 
 Pictures make it look like we can discount, but we can’t (so far)  
 
@@ -5326,8 +5326,8 @@ Let’s turn to a simpliﬁed example to show us why we can’t do simple discou
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/43f6762eab315b9b5e608f79744cf8e4fe84f0c177c45d61fa8edbdae3302303.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/56dad4959585e6398d449782dc1834aab0a6126abb07af573713defc13f4a5de.jpg)  
+ ![500](Attachments/500-896.jpg)  
+ ![500](Attachments/500-895.jpg)  
 
 This example happens to be derived from an example in Brealey & Myers textbook. From my edition, p. 20 & 232  
 
@@ -5335,12 +5335,12 @@ This example happens to be derived from an example in Brealey & Myers textbook. 
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dddf5b06c2559896ef3fb46b402a541536ccb72abdc0fe40649fee666277f2fe.jpg)  
+ ![500](Attachments/500-895.jpg)  
 # Framework for Discounting Uncertain CFs  
 
 Theory issues we need to address  
 
-• What do we mean when we say “uncertain cash ﬂows”? (Answer: Cash ﬂow distribution – graph of amount versus probability) • Why can’t we just use discounting as we have for certain (known) cash ﬂows? (Answer: Multiple values, using average CFs simply does not work – Expected utility and concavity.) • What is uncertainty versus risk? (Answer: Uncertainty = distribution; risk = cost or price of uncertainty – [[Risk Aversion|Certainty Equivalent]].) • How do we adjust for uncertainty? (Answer: Adjust cash ﬂow distribution until the expected value of the adjusted CFs equals the CE.)  
+• What do we mean when we say “uncertain cash ﬂows”? (Answer: Cash ﬂow distribution – graph of amount versus probability) • Why can’t we just use discounting as we have for certain (known) cash ﬂows? (Answer: Multiple values, using average CFs simply does not work – Expected utility and concavity.) • What is uncertainty versus risk? (Answer: Uncertainty = distribution; risk = cost or price of uncertainty – [Certainty Equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md).) • How do we adjust for uncertainty? (Answer: Adjust cash ﬂow distribution until the expected value of the adjusted CFs equals the CE.)  
 
 Practical issue we need to address  
 
@@ -5350,20 +5350,20 @@ Practical issue we need to address
 
 Both methods adjust the CF distribution Risk-Adjusted Discounting – we use this most often  
 
-• Adjust CFs themselves • But looks like discounting:    $\begin{array}{r}{C F_{a d j}=\frac{C F_{o r i g}}{1+r p}}\end{array}$  then    $\begin{array}{r}{P V=\frac{C F_{a d j}}{1+y}}\end{array}$  • Used for most of our problems Risk-Neutral Discounting – use this for options • Adjust probabilities • Used for [[Chapter 9 Arbitrage and Hedging With Options|derivatives]], mainly options • “Risk-neutral valuation” is bad name – really “Risk-adjusted probabilities”  
+• Adjust CFs themselves • But looks like discounting:    $\begin{array}{r}{C F_{a d j}=\frac{C F_{o r i g}}{1+r p}}\end{array}$  then    $\begin{array}{r}{P V=\frac{C F_{a d j}}{1+y}}\end{array}$  • Used for most of our problems Risk-Neutral Discounting – use this for options • Adjust probabilities • Used for [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md), mainly options • “Risk-neutral valuation” is bad name – really “Risk-adjusted probabilities”  
 
 You won’t read this lecture in most texts, but it is the way things work  
 
 The “problem” with risk-adjusted discounting (risk premium) is that it works so well we forget that we are in fact adjusting the whole distribution, and we start thinking we are discounting the average value. But really what we are doing is  
 
-1. Adjusting the CF  distribution  until the average of this adjusted distribution equals the [[Risk Aversion|certainty equivalent]]  
+1. Adjusting the CF  distribution  until the average of this adjusted distribution equals the [certainty equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md)  
 
-• This removes the risk premium – produces the [[Risk Aversion|certainty equivalent]] • We do this b multiplicative ly adjusting the whole distribution  
+• This removes the risk premium – produces the [certainty equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md) • We do this b multiplicative ly adjusting the whole distribution  
 # 3 PV for Uncertain CFs: Utility and Certainty Equivalent  
 
-3.1 Deﬁning [[Risk Aversion|Certainty Equivalent]] – CF Equivalent to Utility Contents  
+3.1 Deﬁning [Certainty Equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md) – CF Equivalent to Utility Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ca8b37ef86d43c8af7779e1fe48c1811296bd8aa95b14ea844e9f863d84ff5ad.jpg)  
+ ![500](Attachments/500-899.jpg)  
 # Averaging Utility – Not CFs  
 
 We want  utility  or  value  of those two possibilities We have to average the  utility  not CFs (expected utility not expected CF)  
@@ -5371,11 +5371,11 @@ $$
 E U=U\left(C_{l},C_{h}\right)=p\cdot u(C_{l})+(1-p)\cdot u(C_{h})\neq u\left(p\cdot C_{l}+(1-p)\cdot C_{h}\right)
 $$  
 
-To make concrete,  Constant [[CCAPM with Alternative Preferences|Relative Risk Aversion]] :    $\begin{array}{r}{u(C)=\frac{C^{1-\gamma}}{1-\gamma}}\end{array}$  , with    $\gamma=8$  
+To make concrete,  Constant [Relative Risk Aversion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/CCAPM%20with%20Alternative%20Preferences.md) :    $\begin{array}{r}{u(C)=\frac{C^{1-\gamma}}{1-\gamma}}\end{array}$  , with    $\gamma=8$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cbf32b3cd2d9e6b36f17ed54e52cc585db819c2006be6a3d7614e0994ac48ba4.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
-But we can always ask “what single CF is equivalent to our utility?” Solve for  [[Risk Aversion|Certainty Equivalent]] :  
+But we can always ask “what single CF is equivalent to our utility?” Solve for  [Certainty Equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md) :  
 $$
 U\left(C_{C E}\right)=E U\left(C_{l},C_{h}\right)=U\left(C_{l},C_{h}\right)=p\cdot u(C_{l})+(1-p)\cdot u(C_{h})
 $$  
@@ -5383,9 +5383,9 @@ $\gamma=8$   (a reasonable number which produces reasonable risk aversion)
 
 # Certainty Equivalent – CF that Gives Correct Utility  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3fa8a94f645725e31ff5e4e9141265ae06ec86c5d03bca7b440dfcb8770945df.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
-Solve for  [[Risk Aversion|Certainty Equivalent]] :  
+Solve for  [Certainty Equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md) :  
 $$
 U\left(C_{C E}\right)=E U\left(C_{l},C_{h}\right)=U\left(C_{l},C_{h}\right)=p\cdot u(C_{l})+(1-p)\cdot u(C_{h})
 $$  
@@ -5395,11 +5395,11 @@ $$
 E U=U\left(C_{l},C_{h}\right)=p\cdot u(C_{l})+(1-p)\cdot u(C_{h})\neq u\left(p\cdot C_{l}+(1-p)\cdot C_{h}\right)
 $$  
 
-But we can always ask “what single CF is equivalent to our utility?” Call this  [[Risk Aversion|certainty equivalent]]  
+But we can always ask “what single CF is equivalent to our utility?” Call this  [certainty equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md)  
 
-To make concrete,  Constant [[CCAPM with Alternative Preferences|Relative Risk Aversion]]  function:    $\begin{array}{r}{u(C)\ =\ \frac{C^{1-\gamma}}{1-\gamma}}\end{array}$  with    $\gamma\:=\:8$   (a → reasonable number which produces reasonable risk aversion)  
+To make concrete,  Constant [Relative Risk Aversion](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/CCAPM%20with%20Alternative%20Preferences.md)  function:    $\begin{array}{r}{u(C)\ =\ \frac{C^{1-\gamma}}{1-\gamma}}\end{array}$  with    $\gamma\:=\:8$   (a → reasonable number which produces reasonable risk aversion)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/547b6f435c7a24c522b366004a20825c3be1c77083d1854706e8958ef3177eb5.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
 p  = probability of low outcome  
 $C_{l}\,=\,\mathrm{low}$   cash ﬂow (\$711.41k in our example)  $C_{h}\ ={\mathrm{high}}$   cash ﬂow (\$888.59k in our example)  
@@ -5410,9 +5410,9 @@ $$
 U\left(C_{C E}\right)=E U\left(C_{l},C_{h}\right)=U\left(C_{l},C_{h}\right)=p\cdot u(C_{l})+(1-p)\cdot u(C_{h})
 $$  
 
-Expected Utility And [[Risk Aversion|Certainty Equivalent]]  
+Expected Utility And [Certainty Equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md)  
 
-For our simple distribution (Figure  ?? ) the average of the cash ﬂows (the expected cash ﬂow) is  $\S800\mathrm{k}$  . Most people, however, would rather have   $\S800\mathrm{k}$   for sure (probability 1) rather than a 50/50 chance of high or low - most people are risk averse. Whatever the attitude towards risk, we can use [[Expected Utility Representation of Preferences|utility theory]] and represent the value in expected utility terms:  
+For our simple distribution (Figure  ?? ) the average of the cash ﬂows (the expected cash ﬂow) is  $\S800\mathrm{k}$  . Most people, however, would rather have   $\S800\mathrm{k}$   for sure (probability 1) rather than a 50/50 chance of high or low - most people are risk averse. Whatever the attitude towards risk, we can use [utility theory](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Expected%20Utility%20Representation%20of%20Preferences.md) and represent the value in expected utility terms:  
 $$
 E U=U\left(C_{l},C_{h}\right)=p\cdot u(C_{l})+(1-p)\cdot u(C_{h})
 $$  
@@ -5423,32 +5423,32 @@ $c_{l}\,=\,\mathrm{low}$   cash ﬂow (\$711.41k in our example)  $C_{h}\ ={\mat
 
 u(C)  = utility of cash ﬂow    $C$  
 
-The fundamental issue is that utility is usually not linear   $\langle u(Y)\neq Y\rangle$  ) and so the expected utility does not equal the utility of expected income:    $E U\neq u\left(p\cdot Y_{l}+(1-p)\cdot Y_{h}\right)$  . If utility were linear then we would have [[RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS|risk neutrality]] and we could just take [[FORWARD RATES AND TERM STRUCTURE|expectations]].  
+The fundamental issue is that utility is usually not linear   $\langle u(Y)\neq Y\rangle$  ) and so the expected utility does not equal the utility of expected income:    $E U\neq u\left(p\cdot Y_{l}+(1-p)\cdot Y_{h}\right)$  . If utility were linear then we would have [risk neutrality](../Credit%20Markets/RISK%20NEUTRAL%20VALUATION%20FRAMEWORK%20FOR%20CREDIT%20DEFAULT%20SWAPS.md) and we could just take [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md).  
 
-We can, however, calculate what cash ﬂow would correspond to the expected utility EU (-9.4E-22 for our sample utility function). This is the [[Risk Aversion|Certainty Equivalent]], the single cash ﬂow that is valued the same (in utility terms) as the distribution of the two cash ﬂows,   $\S711.41$   and   $\S888.59$  . We just need to solve  
+We can, however, calculate what cash ﬂow would correspond to the expected utility EU (-9.4E-22 for our sample utility function). This is the [Certainty Equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md), the single cash ﬂow that is valued the same (in utility terms) as the distribution of the two cash ﬂows,   $\S711.41$   and   $\S888.59$  . We just need to solve  
 $$
 C_{h})=U\left(C_{l},C_{h}\right)=p\cdot u(C_{l})+(1-p)\cdot u(C_{h})
 $$  
 
-In our case (with our sample [[The Simple Multi-Period Ccapm|CRRA utility]] function,    $\gamma=8$  ), this is:  
+In our case (with our sample [CRRA utility](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/The%20Simple%20Multi-Period%20Ccapm.md) function,    $\gamma=8$  ), this is:  
 $$
 -9.378E-22={\frac{C_{C E}^{1-\gamma}}{1-\gamma}}
 $$  
 
-and the [[Risk Aversion|Certainty Equivalent]] turns out to be   $\S764.28$  . This is the certain cash ﬂow with the same value as the distribution of cash ﬂows. More generally, the [[Risk Aversion|certainty equivalent]] is the solution to:  
+and the [Certainty Equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md) turns out to be   $\S764.28$  . This is the certain cash ﬂow with the same value as the distribution of cash ﬂows. More generally, the [certainty equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md) is the solution to:  
 $$
 u(C E)=p\cdot u(C_{l})+(1-p)\cdot u(C_{h})
 $$  
 
-It is no accident that the [[Risk Aversion|certainty equivalent]] from our utility example is the same as the market value, the certain value determined by the market. In a sense, this has to be the case: the market & value is the cash value adjusted for the risk of the distribution of risky cash ﬂows.  
+It is no accident that the [certainty equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md) from our utility example is the same as the market value, the certain value determined by the market. In a sense, this has to be the case: the market & value is the cash value adjusted for the risk of the distribution of risky cash ﬂows.  
 # 3.2 Risk-Adjusted Discounting: Adjust CFs  
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6320334cc4f9917318fcc252365c0025ae1c6af88d72725275fffb2288bfb1bb.jpg)  
+ ![500](Attachments/500-931.jpg)  
 # Adjusting CFs by Risk Premium – To Use Original Average  
 
-We have multiple steps: 1.  Get CE ([[Risk Aversion|certainty equivalent]]) from dist’n using utility  
+We have multiple steps: 1.  Get CE ([certainty equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md)) from dist’n using utility  
 $$
 u(C E)=p\cdot u(C_{l})+(1-p)\cdot u(C_{h})
 $$  
@@ -5493,13 +5493,13 @@ $$
 \begin{array}{r}{C E=p\cdot\frac{C F_{o r i g}^{l o}}{1+r p}+(1-p)\cdot\frac{C F_{o r i g}^{h i}}{1+r p}}\\ {=\frac{1}{1+r p}\left[p\cdot C F_{o r i g}^{l o}+(1-p)\cdot C F_{o r i g}^{h i}\right]}\\ {=\frac{C F_{o r i g}^{a v g}}{1+r p}}\end{array}
 $$  
 
-Now we have something that looks surprisingly like discounting. In fact, we can now discount back to today because the [[Risk Aversion|Certainty Equivalent]] is a known and certain cash ﬂow so we can discount with the [[Black Scholes Derivation|risk-free rate]], just as we have been doing for any known cash ﬂow:  
+Now we have something that looks surprisingly like discounting. In fact, we can now discount back to today because the [Certainty Equivalent](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md) is a known and certain cash ﬂow so we can discount with the [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md), just as we have been doing for any known cash ﬂow:  
 $$
 P V={\frac{C E}{1+r f}}={\frac{C F_{o r i g}^{a v g}}{\left(1+r f\right)\left(1+r p\right)}}={\frac{C F_{o r i g}^{a v g}}{\left(1+y_{r i s k y}\right)}}
 $$  
 
 So now we can use the average CF (or promised CF) from the distribution, which is usually easy to get, and use this single number to discount in the way we always have, but with the additional adjustment of the  $\textstyle{\frac{1}{1+r p}}$  .  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f912e17ea8adfbec63a791b1b9f2f363fc3996b46b28063b291c77ad47c3fd53.jpg)  
+ ![500](Attachments/500-795.jpg)  
 
 # 3.3 Return to UST & FIS  
 
@@ -5512,15 +5512,15 @@ Settle 31-dec-15 –  Calculate FIS Yield  using  Promised CF  Market gives us r
 
 • Embedded in bond prices – market gives us risk premium  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8f96197ebdc67c8c90fd7b902428f25b684bb2eab5d19f4e011020a20a6239a4.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
 • UST:   $2.25\%$   coupon, 15-nov-25 (31-dec-15) P=99.84375, Y=2.268%  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3716d56e0921a9ee970af40f6d4234fdf654e5e4cdba1bbfa5e209dd30c3ce61.jpg)  
+ ![500](Attachments/500-923.jpg)  
 
 • Calculate FIS: 5% coupon, 15-oct-25 (31-dec-15) P=103.626, Y=4.536%  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1c24eaaff5f1374daef318375e322bac9ee46ec4a20ab60a795e1c7280b2b9e5.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
 # Bond Market & FIS Example – Risk-Adjusted Yield  
 
@@ -5536,7 +5536,7 @@ $$
 
 The UST CFs are known, the FIS only  promised  CFs, but CF diagram useful We can just calculate yield, market gives us risk premium!  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/52be36abb00fbb727fd015cb3613049ca2271eace27168f2bb69e4f34a90de98.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
 Generally use spread:   $\mathrm{rp}=4.54\%-2.27\%=227\mathrm{bp}$  
 # Risk Premium From Market Yields  
@@ -5555,7 +5555,7 @@ Overall (risky) yield separates into two parts:
 
 1. Risk-free discounting   $(r f)$   – overall market 2. Risk premium   $(r p)$   – speciﬁc to FIS (or whatever company)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bab07beca9b738f88cc74acc099f08fda8e54deb80e314a05a23e9af5f98f111.jpg)  
+ ![500](Attachments/500-801.jpg)  
 
 # Alternative (less useful): Risk Premium in Dollars  
 
@@ -5563,10 +5563,10 @@ Risk Premium   $\left(1\!+\!r p\right)$   tells us value or price of uncertainty
 
 • Discount FIS at UST (risk-free) yield   $(2.268\%)$  ): what FIS  would  be if certain CFs • FIS: 5% coupon, 15-oct-25 (31-dec-15)   $\mathrm{Y{=}4.536\%}$  , P=103.626  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8a39b9ce369c7ce1a0445199bf00345a8a01edf4853ba212630294d2d3b5942e.jpg)  
+ ![500](Attachments/500-899.jpg)  
 $\bullet$   FIS: 5% coupon, 15-oct-25 (31-dec-15) Y=2.268%, P=123.859  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5470f2a3187969ab7cc8464d2db615b9b4d8650834b55ddfef3433dab19a196b.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
 Di!erence –   $\S$  20.23 – is   $\S$   value of uncertainty • But less useful than risk premium in yield (227bp) • 227bp applies every year, to any similar CFs  
 4 Se curit iz ation  
@@ -5575,9 +5575,9 @@ Di!erence –   $\S$  20.23 – is   $\S$   value of uncertainty • But less us
 
 Se curit iz ation – Pooling Assets & Cash Flows Pooling of assets and repackaging of the underlying cashﬂows Examples  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ced9a92ebeff57bd5e7185b2a23bb0b510553510d7d3e9bd73a66abbafdcebd1.jpg)  
+ ![500](Attachments/500-827.jpg)  
 
-• Mutual Funds, [[Basis Trade Explainer|hedge funds]], Exchange Traded Funds  
+• Mutual Funds, [hedge funds](../Financial%20Engineering/Basis%20Trade%20Explainer.md), Exchange Traded Funds  
 
 • Mortgage-backed and asset-back securities  
 
@@ -5587,11 +5587,11 @@ Se curit iz ation – Pooling Assets & Cash Flows Pooling of assets and repackag
 
 Legal Structure  
 
-• “Fund” and “Manager” separate legal entities • Mutual Funds in US – [[An Asset Allocation Primer|Investment]] Co & Advisors Acts, 1940 • [[Basis Trade Explainer|Hedge Funds]] – often o!-shore (eg Caymans) – tax & regulatory • Mortgage-backed and other [[Asset Backed Commercial Paper Understanding the Risks|asset-backed]] securities (bonds)  
+• “Fund” and “Manager” separate legal entities • Mutual Funds in US – [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Co & Advisors Acts, 1940 • [Hedge Funds](../Financial%20Engineering/Basis%20Trade%20Explainer.md) – often o!-shore (eg Caymans) – tax & regulatory • Mortgage-backed and other [asset-backed](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Asset%20Backed%20Commercial%20Paper%20Understanding%20the%20Risks.md) securities (bonds)  
 
 Reasons for Pooling  
 
-• Spreads & Diversiﬁes risk (mortgage-backed bonds) • Lowers cost (mutual funds); professional management ([[Basis Trade Explainer|hedge funds]]) • Investors: Access to assets unavailable otherwise • Sponsors/Owners: Move assets o! balance sheet (borrow)  
+• Spreads & Diversiﬁes risk (mortgage-backed bonds) • Lowers cost (mutual funds); professional management ([hedge funds](../Financial%20Engineering/Basis%20Trade%20Explainer.md)) • Investors: Access to assets unavailable otherwise • Sponsors/Owners: Move assets o! balance sheet (borrow)  
 
 Se curit iz ation  
 
@@ -5616,13 +5616,13 @@ Se curit iz ation Liabilities:
 
 • Mutual Funds  
 
-• [[Basis Trade Explainer|Hedge Funds]]  
+• [Hedge Funds](../Financial%20Engineering/Basis%20Trade%20Explainer.md)  
 
-• [[Fremont Financial Corp. (b)|Mortgage-backed securities]]  
+• [Mortgage-backed securities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Fremont%20Financial%20Corp.%20(b).md)  
 
-–  Pass-through (Agency – Fannie Mae & Freddie Mac – [[Mortgage Pass-Through Securities|pass-throughs]]). Simply pool together a group of mortgages and pass through the income – payment of income and principal. –  Tanched. Pool together a group of mortgages but sell di!erent  
+–  Pass-through (Agency – Fannie Mae & Freddie Mac – [pass-throughs](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20II%20CASH%20FLOW%20ENGINEERING/Chapter%209%20-%20Mortgage-Backed%20Securities/Mortgage%20Pass-Through%20Securities.md)). Simply pool together a group of mortgages and pass through the income – payment of income and principal. –  Tanched. Pool together a group of mortgages but sell di!erent  
 
-• Other [[Asset Backed Commercial Paper Understanding the Risks|Asset-Backed]] securities – student loans, credit card receivable s, even David Bowie’s bond (1997 – revenues from 25 albums recorded before 1990)  
+• Other [Asset-Backed](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Asset%20Backed%20Commercial%20Paper%20Understanding%20the%20Risks.md) securities – student loans, credit card receivable s, even David Bowie’s bond (1997 – revenues from 25 albums recorded before 1990)  
 
 • Common Stocks  
 
@@ -5630,7 +5630,7 @@ Se curit iz ation Liabilities:
 
 • Distinction between “equity”-type pools and “bond”-type pools  
 
-–  Equity-type: mutual funds, [[Basis Trade Explainer|hedge funds]], ETFs. For these the investors get a proportionate share of whatever proﬁts –  Bond-type: Senior tranches for tranched securities: promised CFs. Here investors are promised a CF. The pooling is valuable usually because it improves divers i cation and makes the “promise” more reliable, more certain to be paid.  
+–  Equity-type: mutual funds, [hedge funds](../Financial%20Engineering/Basis%20Trade%20Explainer.md), ETFs. For these the investors get a proportionate share of whatever proﬁts –  Bond-type: Senior tranches for tranched securities: promised CFs. Here investors are promised a CF. The pooling is valuable usually because it improves divers i cation and makes the “promise” more reliable, more certain to be paid.  
 
 # Legal Structure  
 
@@ -5638,35 +5638,35 @@ Se curit iz ation Liabilities:
 
 –  Manager may be Corporation –  Fund often a Trust or a Partnership or itself a Corporation –  The Fund hires the the manager and pays a fee plus various expenses –  The Fund will often have a Board of Directors who represent the interests of the shareholders (owners of the Fund and thus bene cia ries of the fund’s assets) –  Assets are held in custody for the fund. Custodian is hired by the Fund, legally responsible to the fund and the Board  
 
-• Mutual Funds in US –  [[An Asset Allocation Primer|Investment]] Company (fund) which holds assets and sells shares in itself – proportionate share of cash ﬂows  
-–  [[An Asset Allocation Primer|Investment]] Manager (manager) who manages the assets of the [[An Asset Allocation Primer|Investment]] Company. But a legally separate entity that cannot take the assets from the [[An Asset Allocation Primer|Investment]] Company –  [[An Asset Allocation Primer|Investment]] Co Act 1940 – sets rules and regulations for [[An Asset Allocation Primer|Investment]] Co structure and operations –  [[An Asset Allocation Primer|Investment]] Advisors Act 1940 – rules and regulations for managers  
+• Mutual Funds in US –  [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Company (fund) which holds assets and sells shares in itself – proportionate share of cash ﬂows  
+–  [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Manager (manager) who manages the assets of the [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Company. But a legally separate entity that cannot take the assets from the [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Company –  [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Co Act 1940 – sets rules and regulations for [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Co structure and operations –  [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Advisors Act 1940 – rules and regulations for managers  
 
-• [[Basis Trade Explainer|Hedge Funds]] –  Often the “Fund” is o!-shore – say Carmen islands – for tax and regulator reasons.  
+• [Hedge Funds](../Financial%20Engineering/Basis%20Trade%20Explainer.md) –  Often the “Fund” is o!-shore – say Carmen islands – for tax and regulator reasons.  
 
-• Mortgage-backed and other [[Asset Backed Commercial Paper Understanding the Risks|asset-backed]] securities (bonds)  
+• Mortgage-backed and other [asset-backed](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Asset%20Backed%20Commercial%20Paper%20Understanding%20the%20Risks.md) securities (bonds)  
 
-–  [[Collateralized Debt Obligations|Special Purpose Vehicle]] (SPV) – separate legal entity that holds the assets, sells securities that are usually more bond-like than equity-like –  Investors are lending money to the SPV with the promise to get paid back – that promise may be a good or a poor promise.  
+–  [Special Purpose Vehicle](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20II%20CASH%20FLOW%20ENGINEERING/Chapter%2010%20-%20Collateralized%20Debt%20Obligations%20and%20Basket%20Credit%20Derivatives/Collateralized%20Debt%20Obligations.md) (SPV) – separate legal entity that holds the assets, sells securities that are usually more bond-like than equity-like –  Investors are lending money to the SPV with the promise to get paid back – that promise may be a good or a poor promise.  
 
 # Reasons for se curit iz ation  
 
 • Spreads & Diversiﬁes risk  
 
-–  Big reason for mortgage-backed bonds. If you invest   $\S100\mathrm{k}$   in one mortgage then if the homeowner defaults you are out. There may be only a 5% chance but on that you lose everything. But if you invest   $\S100\mathrm{k}$   in a mortgage-backed bond with 1,000 mortgages then there’s a pretty good chance that 5% will default but then you only lose 5%, and in any case you can price that in up-front because it becomes pretty certain how much you will lose (  $5\%$   of your [[An Asset Allocation Primer|investment]]) rather than all or nothing.  
+–  Big reason for mortgage-backed bonds. If you invest   $\S100\mathrm{k}$   in one mortgage then if the homeowner defaults you are out. There may be only a 5% chance but on that you lose everything. But if you invest   $\S100\mathrm{k}$   in a mortgage-backed bond with 1,000 mortgages then there’s a pretty good chance that 5% will default but then you only lose 5%, and in any case you can price that in up-front because it becomes pretty certain how much you will lose (  $5\%$   of your [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)) rather than all or nothing.  
 
-• Lowers cost of access (mutual funds) or provides professional management expertise ([[Basis Trade Explainer|hedge funds]])  
+• Lowers cost of access (mutual funds) or provides professional management expertise ([hedge funds](../Financial%20Engineering/Basis%20Trade%20Explainer.md))  
 
 –  One of the biggest reasons for mutual funds and ETFs
 
  • Helps monitor and discipline (maybe 1720, South Sea & Mississippi)  
 
-–  This may have been a reasons for the South Sea Co and the Mississippi Co. Although they did it very poorly – in fact the South Sea managers were really fraudsters. –  But the [[Reflections On Modern Bank Runs a Case Study of Northern Rock|Bank of England]] that managed the [[Global Fixed Income Markets|government debt]], while not really pooling the government assets, played this role. –  Not something we think is necessary today for [[Global Fixed Income Markets|government debt]], at least not in developed countries. But in 1720 could have been very valuable.  
+–  This may have been a reasons for the South Sea Co and the Mississippi Co. Although they did it very poorly – in fact the South Sea managers were really fraudsters. –  But the [Bank of England](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Reflections%20On%20Modern%20Bank%20Runs%20a%20Case%20Study%20of%20Northern%20Rock.md) that managed the [government debt](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Global%20Fixed%20Income%20Markets.md), while not really pooling the government assets, played this role. –  Not something we think is necessary today for [government debt](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Global%20Fixed%20Income%20Markets.md), at least not in developed countries. But in 1720 could have been very valuable.  
 
 • Widens audience and market  
 
 –  For investors can provide access to markets not available otherwise. ∗E.g. for credit-card receivable s, investors would have a hard time investing (buying) except through se curit iz ation. ∗David Bowie’s records is another example – investors could not get invest if not se curit i zed –  For Sponsors / Owners or assets, can be a way to “move assets o! balance-sheet”  $^*$  What this really means is that it is a way to raise money, to borrow – collateralized. ∗e.g. mortgages. A bank makes mortgages, using its money to lend to homeowners. ∗It then pools those mortgages together, puts into an SPV, and sells bonds against those mortgages.  $^*$  The investors are lending to the bank, with the mortgages as collateral.  
 # Pass-Through vs Trancheing (Waterfall)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/64efc3fb6370969668938b02c02a00f7fa641f560ede18466d79650571d12d3f.jpg)  
+ ![500](Attachments/500-772.jpg)  
 
 Outline  
 
@@ -5686,23 +5686,23 @@ Probability of 10% loss – pay back either \$100 or   $\S90$
 
 • Senior is ﬁrst priority, always gets   $\mathsection$  20 (  $100\%$  ) back • Equity su!ers the loss, gets either   $\S80$   (  $100\%$  ) or \$70 (87.5%)  
 
-• Senior riskless, Equity more risky (lose more than   $10\%$   of original) [[Arbitrage Pricing of Derivatives|Pricing]] (5yr,   $\S5$   coup,   $5\%$   risky,   $4\%$   risk-free yield)  
+• Senior riskless, Equity more risky (lose more than   $10\%$   of original) [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) (5yr,   $\S5$   coup,   $5\%$   risky,   $4\%$   risk-free yield)  
 
 • Underlying  must be  \$100   $\left(\mathrm{PV}(\S5\ @\ 5\%\right),$  ) • Senior now risk-free,  must be    $\S104.45$   (PV(\$5 @ 4%) – pay   $\S20.89$   for   $20\%$  
 
 • Equity  implied    $\S98.89$   (  $\mathrm{100{=}}.\mathrm{2^{*}104.45{+}.8^{*}98.89)}$  ) – pay   $\S79.11$   for 80%  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/680cd4a2a549ac708776e38762bfa9226bed0a792115fa39d4cb79f0f3bbcabc.jpg)  
+ ![500](Attachments/500-922.jpg)  
 
 # Pass-through versus trancheing  
 
 This detail (for example on trancheing) is not necessary for History of Financial Crises – for Applied Financial Management  
 
-• Pass-through: all investors get same cash-ﬂows - proportional to their ownership ([[An Asset Allocation Primer|investment]]) • Tranched: the cash-ﬂows are “tranched” according to some set of rules –  Assets pooled, but then cash ﬂows are “tranched” according to some rule, and di!erent classes of securities (shares in the pool) sold.  
+• Pass-through: all investors get same cash-ﬂows - proportional to their ownership ([investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)) • Tranched: the cash-ﬂows are “tranched” according to some set of rules –  Assets pooled, but then cash ﬂows are “tranched” according to some rule, and di!erent classes of securities (shares in the pool) sold.  
 • Example:  
 
 –    $\S100$   of mortgages. –  Mortgage is 5yrs, 5% coupon, pays back   $\S100$   in 5 years. Price \$100,   $\mathrm{yId}=5\%$  
-$^*$  Current [[Black Scholes Derivation|risk-free rate]] is 4%. 100bp spread (risky 5%, risk-free 4%)  
+$^*$  Current [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md) is 4%. 100bp spread (risky 5%, risk-free 4%)  
 
 –  But this mortgage is risky. 54% chance that   $10\%$   of the mortgages will default on the ﬁnal principal repayment  
 
@@ -5716,20 +5716,20 @@ $^*$  Top tranche is called the “senior” tranche –   $20\%$   of this pool
 • Example of cash ﬂow tranche or cash-ﬂow cascade or waterfall (with 20% senior, 80% equity)  
 
 Promised   $\mathrm{CF}=\S100$  , Actual   $\mathrm{CF}=\S100$  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b5ebc8484344c51c202f68b87983a157621f219aca3b458cac241d9adc67067b.jpg)  
+ ![500](Attachments/500-931.jpg)  
 How do we price this? Actually very easy in this case.  
 
-• We know the price of the risky mortgages (  $\S100$  , 5% yield) and the [[Black Scholes Derivation|risk-free rate]] (  $4\%$  , for risk-free cash ﬂows)  
+• We know the price of the risky mortgages (  $\S100$  , 5% yield) and the [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md) (  $4\%$  , for risk-free cash ﬂows)  
 $$
 \begin{array}{r l}{\mathrm{~-~PV}(\mathrm{rky~mortgages})=\S100}&{}\\ {\mathrm{~-~PV}(5\%~\mathrm{coopen}\ @\ 4\%\ \mathrm{yield})=104.4518}\end{array}
 $$  
 
 • The senior tranche is now risk-free so this must be priced at   $\mathbb{S}104.4518$  . We are selling   $20\%$   of the shares at this price, so this is   $\S20.8904$   (  $\mathbb{S}104.4518^{*}0.20)$  . The balance we have to sell at  $\S79.1096$   (to make the total   $\S100$  )  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9aae3e27ecac191f8745628156cdeda15f1fbf54e72258409a8bcec80ff5c402.jpg)  
-Details for [[Arbitrage Pricing of Derivatives|pricing]] of “mortgage bond”  
+ ![500](Attachments/500-899.jpg)  
+Details for [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of “mortgage bond”  
 
-• 5-year, 5% annual coupon,   $\S{100}$   bullet re-payment (not amortizing like a true mortgage). • Chance that   $10\%$   of mortgages will fail to repay principal • Price \$100, so yield (risky yield) 5% • Risk-free rate   $4\%$  , so risk-free bond PV(5yr bond, 5% coupon,  $4\%{\mathrm{~yield}})=\S104.4518$  • Assume that all coupons paid with certainty,   $10\%$   of principal will default with some probability (either no-default and get   $\S100$  , or yes-default at year 5 and get \$90) • Use risk-neutral (risk-adjusted) [[Arbitrage Pricing of Derivatives|pricing]]:  $\begin{array}{c}{{P V(r i s k y\,5\%\,c o u o n\,@\,4\%\,r i s k-f r e e)}}\\ {{=P V(\S5\,a n n u i t y\,@4\%)+(1-\phi)\cdot P V(\S100\,@\,4\%)+\phi\cdot P V(\S90\,@\,4\%)}}\end{array}$  Implies (risk-neutral) probability of default is    $\phi=54.16\%$  • PV of tranched risky bond with recovery   $87.5\%$   (using [[Financial Mathematics Course|risk-neutral pricing]]):  $\begin{array}{r l}&{\qquad\qquad P V(t r a n c h e d\,5\%\,c o u o n\,@\,4\%\,r i s k-f r e e)}\\ &{=P V(\S5\,a n n u i t y\,@4\%)+(1-\phi)\cdot P V(\S100\,@\,4\%)+\phi\cdot P V(\S87.5\,@\,4\%)}\end{array}$   Bond is tranched   $20\%$   senior,   $80\%$   equity:  
+• 5-year, 5% annual coupon,   $\S{100}$   bullet re-payment (not amortizing like a true mortgage). • Chance that   $10\%$   of mortgages will fail to repay principal • Price \$100, so yield (risky yield) 5% • Risk-free rate   $4\%$  , so risk-free bond PV(5yr bond, 5% coupon,  $4\%{\mathrm{~yield}})=\S104.4518$  • Assume that all coupons paid with certainty,   $10\%$   of principal will default with some probability (either no-default and get   $\S100$  , or yes-default at year 5 and get \$90) • Use risk-neutral (risk-adjusted) [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md):  $\begin{array}{c}{{P V(r i s k y\,5\%\,c o u o n\,@\,4\%\,r i s k-f r e e)}}\\ {{=P V(\S5\,a n n u i t y\,@4\%)+(1-\phi)\cdot P V(\S100\,@\,4\%)+\phi\cdot P V(\S90\,@\,4\%)}}\end{array}$  Implies (risk-neutral) probability of default is    $\phi=54.16\%$  • PV of tranched risky bond with recovery   $87.5\%$   (using [risk-neutral pricing](../Financial%20Engineering/Financial%20Mathematics%20Course.md)):  $\begin{array}{r l}&{\qquad\qquad P V(t r a n c h e d\,5\%\,c o u o n\,@\,4\%\,r i s k-f r e e)}\\ &{=P V(\S5\,a n n u i t y\,@4\%)+(1-\phi)\cdot P V(\S100\,@\,4\%)+\phi\cdot P V(\S87.5\,@\,4\%)}\end{array}$   Bond is tranched   $20\%$   senior,   $80\%$   equity:  
 
 # References  
 # Term Structure of Interest Rates  
@@ -5755,7 +5755,7 @@ Thomas S. Coleman 4 April 2023; Draft April 1, 2023
  1.5 PV for New 4-yr Bond: Using Forward and Zero (Spot) Rates . . . . . . . . . . . .  
 # 1 Term Structure of Interest Rates  
 
-Lecture Notes and Section I of “[[A Practical Guide to Bonds and Swaps|Practical Guide]] to Yield Curves” (Canvas)  
+Lecture Notes and Section I of “[Practical Guide](../Financial%20Engineering/A%20Practical%20Guide%20to%20Bonds%20and%20Swaps.md) to Yield Curves” (Canvas)  
 
 1.1 Graphing “Yield Curve” – 2yr & 5yr Example  
 
@@ -5772,9 +5772,9 @@ Naïvely, “Yield Curve” connects dots
 
 Yield-to-Maturity: discount each bond at own rate But cannot be the right way: cash ﬂows overlap  
 
-•  [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|Law of One Price]] : Discount  all  CFs during yr 1 & 2 at same rate • We know rate is  $1.162\%$   for yr 1 & 2  
+•  [Law of One Price](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) : Discount  all  CFs during yr 1 & 2 at same rate • We know rate is  $1.162\%$   for yr 1 & 2  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1a07883147c9c24fbd8274af3945488f9edb1d64899bc0b0322f4495d235b1af.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 Yield for 5yr bond is complicated average of 0-2 and 2-5 yr rates  
 
@@ -5782,44 +5782,44 @@ Yield for 5yr bond is complicated average of 0-2 and 2-5 yr rates
 
 We know    $f_{0\to2}=1.162\%$   – discount coupons for yr 1 & 2 at   $1.162\%$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/93aede09376450ee07d7acaf9c223096ebc270847d0219fdbe7a25c89ad1efd2.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 Now bonds consistent – just need to solve for    $f_{2\rightarrow5}=\mathrm{??}$  
 # Graphing Yield-to-Maturity – Results  
 
-Three graphs saying the same in di!erent ways 1. Yield-to-maturity: treat each bond in its own world 2. Zero rate: rate  from today to some date  (e  $\S~0\rightarrow2y r$  ,    $0\rightarrow5y r$  ) 3. [[Forward Points in Currency|Forward rate]]: rate  between dates  (  $\mathrm{eg\2}y r\rightarrow5y r$  ) Look at some actual bonds prices & yields:  
+Three graphs saying the same in di!erent ways 1. Yield-to-maturity: treat each bond in its own world 2. Zero rate: rate  from today to some date  (e  $\S~0\rightarrow2y r$  ,    $0\rightarrow5y r$  ) 3. [Forward rate](../Clippings/Forward%20Points%20in%20Currency.md): rate  between dates  (  $\mathrm{eg\2}y r\rightarrow5y r$  ) Look at some actual bonds prices & yields:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b9556af218b53a5171f0a35802b22deaf267fbef37233f4164ec6ea754060d50.jpg)  
+ ![500](Attachments/500-825.jpg)  
 
 1. 5yr  Yield  of   $1.721\%$  : for the 5yr bond (all CFs) 2. 5yr  Zero  of   $1.731\%$  : for the CF  at yr 5 3.  2 yr  → 5 yr  Forward  of   $2.111\%$  : for CFs  between  2 & 5  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/94f777f1c205d10165f31ce640d7e912f8ae332d7caa7de857e0ea7782aa677c.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
 # 1.2 “Yield Curve” – Some Terminology & Math  
 
 Contents  
 # “Yield Curve” – Some Terminology & Math  
 
-• General terms for the graph of rates versus maturity –  “Yield Curve”, “[[6. A Brief Introduction to Stochastic Calculus|Term Structure of Interest Rates]]”, “Forward Curve”, “Zero Curve”  
+• General terms for the graph of rates versus maturity –  “Yield Curve”, “[Term Structure of Interest Rates](../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md)”, “Forward Curve”, “Zero Curve”  
 
 • Speciﬁc mathematical terms:  
 
-–  “Yield-to-Maturity”: “average” [[PSET 7- Kohler|discount rate]] for a bond –  “Zero rate” or “[[The Foreign Exchange Market Annotations|Spot rate]]”: [[PSET 7- Kohler|discount rate]] for a speciﬁc maturity –  “[[Forward Points in Currency|Forward rate]]”: [[PSET 7- Kohler|discount rate]] between two dates  
+–  “Yield-to-Maturity”: “average” [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) for a bond –  “Zero rate” or “[Spot rate](../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md)”: [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) for a speciﬁc maturity –  “[Forward rate](../Clippings/Forward%20Points%20in%20Currency.md)”: [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) between two dates  
 
 Write 2yr swap (coup  $\Updownarrow1.162/\mathrm{yr}$  ,   $\mathrm{PV}{=}\S100$  ) various ways  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c0b5953ff1ee222d6e479163601692444925116cd39e3107771b64b9db5bbfad.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 # Yield, Zero, Forward for 2-year Swap  
 
 Write 2yr swap (coup  $\Updownarrow1.162/\mathrm{yr}$  ,   $\mathrm{PV}{=}\S100$  ) various ways  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4365edaddf402bed49cab2c8da08db9f6652cd14709a262af5519fc189cb8ff6.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 ! ! ! ! !  
 
 Here they are all the same number (1.162%sab) – ﬂat curve 0-2 years  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7bffae48df10f3650a1f109a443ed90616e5052138a95beee8e1ac861d4395dd.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
 Paper on estimating forward rates: “Fitting Forward Rates to Market Data” https://papers.ssrn.com/abstract  $\mathbf{\beta},=$  994870  
 
@@ -5830,18 +5830,18 @@ Paper on estimating forward rates: “Fitting Forward Rates to Market Data” ht
 
 We can forward value the   $1.721\%$   coupon to get FV as of yr 2 Then we calculate yield for that forward bond  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/97491aba14cd10175f7fc93e0f5c01b513703f50518ea6c5a2dbf920588ed853.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 I have veriﬁed these from the spread-sheet “yld_fwd6.xls” For reference, here the last column are forward rates, cc  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/18720cdd786a5a1302b70cf34d72dd00d49a5f6899f3e52463a7471815a69904.jpg)  
+ ![500](Attachments/500-823.jpg)  
 
 # Split 5yr into Two: 0-2 & 2-5 Years  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/51f61fcdcd7e49cc9aef4dad231a966e2cdc61b3084cdf14b91e47e5e3800fe4.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d005eb46d0c473cf43d6f9aef0f74ce9b8f83f223e9ee4b10f52d5947ba03b11.jpg)  
+ ![500](Attachments/500-931.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/165a01348e889b60c7bfa703a3973f8f51bbaf78269a17504a150750372ddc67.jpg)  
+ ![500](Attachments/500-832.jpg)  
 
 NB - this is using  $2\ \mathrm{p/yr}$  The point here is that we know the  $0{>}2$   year rate from the 2-yr bond. We should use that, and then ask “what is the   ${\mathrm{2->5~yr}}$   forward?”  
 1.4 Mathematics of Forward and Zero (Spot) Rates –  Skip This Section Contents  
@@ -5892,7 +5892,7 @@ $$
 
 We can also think of the yield-to-maturity for a speciﬁc bond (say a 2-year annual-coupon bond that pays 1.162 per year)  
 
-• The yield will also be an “average” of forward rates. But terribly messy. Once again, compare the PV using yield and PV using [[Forwards and Futures|forwards]]:  
+• The yield will also be an “average” of forward rates. But terribly messy. Once again, compare the PV using yield and PV using [forwards](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md):  
 $$
 F w d:\;P V={\frac{1.162}{(1+f_{0\rightarrow1})}}+{\frac{1.162}{(1+f_{0\rightarrow1})(1+f_{1\rightarrow2})}}+{\frac{100}{(1+f_{0\rightarrow1})(1+f_{1\rightarrow2})}}
 $$  
@@ -5901,18 +5901,18 @@ $$
 Y T M:\ P V={\frac{1.162}{(1+y)}}+{\frac{1.162}{(1+y)^{2}}}+{\frac{100}{(1+y)^{2}}}
 $$  
 
-No simple formula to calculate the YTM as the “average” of [[Forwards and Futures|forwards]]:  
+No simple formula to calculate the YTM as the “average” of [forwards](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md):  
 
-1. Calculate the PV from the Fo  $\left(P V=P V\left(f_{0\rightarrow1},f_{1\rightarrow2},c o u p o n=1.162\right)\right)$  ) 2. Calculate the YTM from the  $P V\left(f_{0\rightarrow1},f_{1\rightarrow2},c o u p o n=1.162\right)$  3. YTM function of [[Forwards and Futures|forwards]] and coupon: !  (  $(y=y\,(f_{0\rightarrow1},f_{1\rightarrow2},c o u p o n=1.162)$  ! !  
+1. Calculate the PV from the Fo  $\left(P V=P V\left(f_{0\rightarrow1},f_{1\rightarrow2},c o u p o n=1.162\right)\right)$  ) 2. Calculate the YTM from the  $P V\left(f_{0\rightarrow1},f_{1\rightarrow2},c o u p o n=1.162\right)$  3. YTM function of [forwards](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md) and coupon: !  (  $(y=y\,(f_{0\rightarrow1},f_{1\rightarrow2},c o u p o n=1.162)$  ! !  
 
 YTM for each bond will be its own average  
 
 • Di!erent for each maturity and coupon  
 # Zero and Forward Rates Easier with Continuous Compounding  
-$\mathbf{df_{t}}$   [[Discount Factors|Discount Factor]] for date    $t$  , to discount a cash ﬂow at date    $t$   back to present value today (PV of   $\S1$  ).  
-${\bf f}_{c c}({\bf u})$   (Instantaneous) [[Forward Points in Currency|Forward Rate]] at date    $u$  
-$\mathbf{z_{cc}}$  (t)  Zero Rate (also called [[The Foreign Exchange Market Annotations|Spot Rate]]), or the [[PSET 7- Kohler|discount rate]] that applies for discounting back to today from a future date    $t$  .  
-$\bf{f_{t1->t2}}$   [[Forward Points in Currency|Forward Rate]] between    $t_{1}$  to    $t_{2}$  , or the [[PSET 7- Kohler|discount rate]] that applies from    $t_{1}$  to    $t_{2}$  , that is for discounting back to    $t_{1}$  from a more distant date    $t_{2}$  .  
+$\mathbf{df_{t}}$   [Discount Factor](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) for date    $t$  , to discount a cash ﬂow at date    $t$   back to present value today (PV of   $\S1$  ).  
+${\bf f}_{c c}({\bf u})$   (Instantaneous) [Forward Rate](../Clippings/Forward%20Points%20in%20Currency.md) at date    $u$  
+$\mathbf{z_{cc}}$  (t)  Zero Rate (also called [Spot Rate](../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md)), or the [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) that applies for discounting back to today from a future date    $t$  .  
+$\bf{f_{t1->t2}}$   [Forward Rate](../Clippings/Forward%20Points%20in%20Currency.md) between    $t_{1}$  to    $t_{2}$  , or the [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) that applies from    $t_{1}$  to    $t_{2}$  , that is for discounting back to    $t_{1}$  from a more distant date    $t_{2}$  .  
 $$
 P V=\sum_{t}C F_{t}d f_{t}
 $$  
@@ -5926,9 +5926,9 @@ $$
 
 # Example, 2, 5, 10yr  
 
-Example Bonds and [[Forwards and Futures Notes|Implied Forward Rates]]  
+Example Bonds and [Implied Forward Rates](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a7246ede820ab06db60790c971ab5bf031f917299a547ee99494e49c29eaa3e1.jpg)  
+ ![500](Attachments/500-794.jpg)  
 
 With the forward or zero rates, we can PV  any  CF  
 $$
@@ -5946,25 +5946,25 @@ $$
 Contents  
 Using Forward Rates: PV for Arbitrary CFs  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/283eaa89b08663624c9ff117d29ac7c7352736cd2fbd2475abf1c1296d8723f3.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 What is PV for 4yr,   $2\%$   bond? Or swap? Break into two as before 1. Bond from yr 4 back to yr 2: 2yr   $2\%$   coupon bond at   $2.111\%\mathrm{sab}$  2. “Bond” from yr 2 (FV not 100) back to yr 0: 2yr  $2\%$   “bond” (with FV not 100) at   $1.162\%$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a9067b59263cbe8437d52fb784c6fc329a8e36302fbde2abb23973c92182c1b0.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
 # 4yr,   $2\%$   bond, PV = 101.4406  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c06f8df2c920f138cbc8cf359025246b851ddb22216452530942f0eba70eac09.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4d4b40b58ec32a120725934842d0c8c169dbc9e0b84a330b379631e3c0995667.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b7fd8a919643e09b67b07ef490412bf5adcda116b7a2b9142159adf8844f73db.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
 Note a few things:  
 
 • Previous version of this slide had “yield  $\mathbf{\lambda=}1.574^{\circ}$   but this was an error by leaving FV=99.7837  
 
-• YTM for this 4yr 2% coupon bond is   $1.627\%$  . But the [[Pricing Interest Rate Swaps|par rate]] for this set of [[Forwards and Futures|forwards]] is  $1.6282\%$  . The di!erence is (of course) because the par bond is the coupon (  $\&$   yield) for a bond with PV=100.  
+• YTM for this 4yr 2% coupon bond is   $1.627\%$  . But the [par rate](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) for this set of [forwards](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md) is  $1.6282\%$  . The di!erence is (of course) because the par bond is the coupon (  $\&$   yield) for a bond with PV=100.  
 
 The formula for a par bond is  
 $$
@@ -5973,15 +5973,15 @@ $$
 
 In this case  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/93446247ecbe6e0e872a107331a829991d6f2da432f0bf6403e7383f53962f91.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/075e07ddfbf24b65b2f37e813aa169957a61a25987979c2f7d130e8b934b4163.jpg)  
+ ![500](Attachments/500-931.jpg)  
+ ![500](Attachments/500-931.jpg)  
 $$
 \begin{array}{c}{100=c\cdot P V(\S1\,a n n u i t y)+P V(\S100)}\\ {100=c\cdot3.874974+93.690678}\end{array}
 $$  
 
 and so  c  = 1 . 6282  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8d88bb48bf8f696a0e14440b08a543553bcd2e5e1d4cae03a5841cfd8354cf8d.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
 # References  
 # Bond Sensitivity: BPV, DV01, and Duration  
@@ -5990,7 +5990,7 @@ Lecture 5
 
 Thomas S. Coleman 2 April 2023; Draft April 8, 2023  
 
-Outline Contents 1 Periodic Payments & Compounding  – Duplicated from Lecture 4 1 2 Why We Use Yield Instead of Price 7 3 BPV, DV01, & [[Key Rates O1s Durations and Hedging|Duration]] 8 3.1 Converting from Yield to Price Changes . . . . . . . . . . . . . . . . . . . . . . . . 8 3.2 BPV & DV01: Bond Sensitivity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 3.3 [[Key Rates O1s Durations and Hedging|Duration]] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 3.4 BPV / DV01 for Predicted P&L and [[Key Rates O1s Durations and Hedging|Hedging]] . . . . . . . . . . . . . . . . . . . . . 13 3.5 Decomposing P&L – Pure Discounting & Spread . . . . . . . . . . . . . . . . . . . 14 4 A Digression on [[Short Selling|Shorting]] & [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] 17 4.1 [[Short Selling|Shorting]] (BKM 3.8, 3.9) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 4.2 [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23 5 Digression on HP Calculator SOLVE Menu 24  
+Outline Contents 1 Periodic Payments & Compounding  – Duplicated from Lecture 4 1 2 Why We Use Yield Instead of Price 7 3 BPV, DV01, & [Duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) 8 3.1 Converting from Yield to Price Changes . . . . . . . . . . . . . . . . . . . . . . . . 8 3.2 BPV & DV01: Bond Sensitivity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 3.3 [Duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 3.4 BPV / DV01 for Predicted P&L and [Hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) . . . . . . . . . . . . . . . . . . . . . 13 3.5 Decomposing P&L – Pure Discounting & Spread . . . . . . . . . . . . . . . . . . . 14 4 A Digression on [Shorting](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Short%20Selling.md) & [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) 17 4.1 [Shorting](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Short%20Selling.md) (BKM 3.8, 3.9) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 4.2 [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23 5 Digression on HP Calculator SOLVE Menu 24  
 
 # 1 Periodic Payments & Compounding  – Duplicated from Lecture 4  
 
@@ -6003,7 +6003,7 @@ $$
 
 TVM does this automatically, gives Yield (Interest) per yr (  $\mathrm{I\%}$  YR) • Make sure set right:   $<$  Blue  $>$     $<$  MAIN  $>$     $<$  FIN  $>$     $<$  TVM  $>$   <1 P/YR  $>$     $<$  END>  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1e985660780e56dc9858845e861e465e73b530bd8be64196c41230e2fb79e13c.jpg)  
+ ![500](Attachments/500-899.jpg)  
 # Periodic CFs (Not 1 per year)  
 
 Example: 4yr   $6.5\%$   coupon bond,   $\mathrm{P}=99.658\mathrm{~-~}6.5\%/\mathrm{yr}$  
@@ -6016,7 +6016,7 @@ $$
 99.658=\frac{3.25}{\left(1+y_{a b}\right)^{1/2}}+\frac{3.25}{\left(1+y_{a b}\right)^{1}}+\frac{3.25}{\left(1+y_{a b}\right)^{1.5}}+\cdot\cdot\cdot+\frac{3.25}{\left(1+y_{a b}\right)^{4}}+\frac{100}{\left(1+y_{a b}\right)^{4}}
 $$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/13ee61579e8ca371cf00c5dde1fc1740fb1201d3f4ecd605e79e2d5fcb81a57b.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
 # But No – Periodic CFs – Discount at Same Freq as Payment  
 
@@ -6040,15 +6040,15 @@ Why    $y_{s a b}/25$  ? Report “annual” rate
 
 • Discount at half-yr rate    $y_{s a b}/2$  , but quote “annual”    $y_{s a b}=2\cdot y_{s a b}/2$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8c5d220117bd359a16e709489ed4a5040a274cfad42de69ab2fcb520032d4037.jpg)  
+ ![500](Attachments/500-928.jpg)  
 # Periodic CFs – 4 yr Bond Example  
 
 Example: 4yr semi-annual   $6.5\%$   coupon bond,   $\mathrm{P}=99.658-3.25\%/6\mathrm{m}\mathrm{th}$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4f8c39927e474c19a275bc1f08856614914d9bf18dc0331e07578d520ae5642c.jpg)  
+ ![500](Attachments/500-932.jpg)  
 # Don’t Be Fooled : 4yr Annual  4yr Semi-Annual  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/65fb93b1c996a26546aec87a534ae39218b800633d7ee4c8c18fb1fe83bc4dca.jpg)  
+ ![500](Attachments/500-932.jpg)  
 # Complication: Compounding!  
 
 Among the most di!cult things you’ll learn – compounding is confusing You can quote the yield on various  bases :  
@@ -6097,9 +6097,9 @@ $$
 $$  
 # Compounding: In-Class Exercise 1  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cf08b3d52d1a51705b1d5f736e9eef0da2f5d781cc3aec81327f264cff3519e8.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c416683d4b28349422fd7575ad9f2906fff27a0e1b41308eebf71a8fef62a72a.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
 But    $y_{a b}\ \&\ y_{s a b}$   fundamentally di!erent  
 
@@ -6144,7 +6144,7 @@ Remember – Price vs Yield – Yield More Comparable Yield has several advantag
 
 All these bonds are more-or-less same “value” (yield 6.60%) Here we can compare three di"erent bonds – same in value   $\&$   how much we earn  
 
-• Yield means discounting: converting between present and future cash –  Flat yield-to-maturity not perfect – Generally “[[The Vasicek Model|term structure]]” upward or downward sloping –  Example: UST 2yr 2.88%, 10yr 3.23% (upward) –  Later we look at “[[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]]” and “yield curve” –  But so much better than price alone – balances price vs coupon vs maturity  
+• Yield means discounting: converting between present and future cash –  Flat yield-to-maturity not perfect – Generally “[term structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md)” upward or downward sloping –  Example: UST 2yr 2.88%, 10yr 3.23% (upward) –  Later we look at “[term structure of interest rates](../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md)” and “yield curve” –  But so much better than price alone – balances price vs coupon vs maturity  
 
 Yield is better way to think of “market price” than dollar price  
 
@@ -6152,10 +6152,10 @@ Yield is better way to think of “market price” than dollar price
 
 Yield-to-maturity isn’t perfect, because generally there will be a “term-structure” meaning that CFs with di"erent maturities are discounted at slightly di"erent  
 
-• UST yields quoted in slide: 5-oct-2018 quotes, 2yr 2.75s of 30-sep-20, 10yr 2.875s of 15-aug-28 But YTM is pretty good, and for now we will use YTM, ignoring any issues about [[The Vasicek Model|term structure]]  
+• UST yields quoted in slide: 5-oct-2018 quotes, 2yr 2.75s of 30-sep-20, 10yr 2.875s of 15-aug-28 But YTM is pretty good, and for now we will use YTM, ignoring any issues about [term structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md)  
 
-• Later in the course we will introduce “[[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]]” or “yield curve”  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9095c43c987a0d677f85750d673644c62e945f3d52fbf631e5f1e4db08123c83.jpg)  
+• Later in the course we will introduce “[term structure of interest rates](../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md)” or “yield curve”  
+ ![500](Attachments/500-932.jpg)  
 Yield good way to measure “market price” Yields for di"erent bonds similar   $\&$   move together  
 
 # 3 BPV, DV01, & Duration  
@@ -6169,7 +6169,7 @@ Problem: Yield Good as “Market Price”, But Need CFs & \$s Work with yield in
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/63b07b3c3e844c7fd10fa933f30e480399148331be6885e0b5eb56935f5a20cb.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
 # Some Notes on Deﬁnition and Measurement of BPV  
 
@@ -6235,50 +6235,50 @@ The change in bond price    $(P V(y+h)-P V(y-h))$   is di"erent for each, becaus
 
 # Duration: Length vs Sensitivity  
 
-Three Concepts – I always start with BPV & DV01 • BPV & DV01 – dollar change per change in yield – (aka [[A Guide to Duration DV01 and Yield Curve|dollar duration]])  
+Three Concepts – I always start with BPV & DV01 • BPV & DV01 – dollar change per change in yield – (aka [dollar duration](../Financial%20Engineering/A%20Guide%20to%20Duration%20DV01%20and%20Yield%20Curve.md))  
 $$
 B P V\;\&\;D V01=-{\frac{\partial P V}{\partial y}}\approx-{\frac{P V(y+h)-P V(y-h)}{2h}}
 $$  
 
-• Modiﬁed (Adjusted) [[Key Rates O1s Durations and Hedging|Duration]]  $-\mathrm{~\textperthousand~}$   change per change in yield  
+• Modiﬁed (Adjusted) [Duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)  $-\mathrm{~\textperthousand~}$   change per change in yield  
 $$
 M o d D u r=-\frac{1}{P V}\frac{\partial P V}{\partial y}=100\cdot\frac{B P V}{P V}
 $$  
 
-• [[Teaching Note 2- Interest Rate Risk Management And Factors|Macaulay Duration]] – weighted avg time until get repayed in years (MacDur ⇑ maturity)  
+• [Macaulay Duration](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors.md) – weighted avg time until get repayed in years (MacDur ⇑ maturity)  
 $$
 \begin{array}{l}{{M a c D u r=\sum t_{i}\cdot\displaystyle\frac{P V_{i}}{P V_{T}};\ t_{i}\,i s\,t i m e\,t o\,p a y m e n t\,i;\,\,\displaystyle\frac{P V_{i}}{P V_{T}}\,i s\,w e i g h t}}\\ {{M a c D u r=\left(1+\displaystyle\frac{y}{f r e q}\right)\cdot M o d D u r=100\cdot\displaystyle\frac{B P V}{P V}\cdot\left(1+\displaystyle\frac{y}{f r e q}\right)}}\end{array}
 $$  
 
-I like DV01 best – but [[Key Rates O1s Durations and Hedging|Duration]] used more  
+I like DV01 best – but [Duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) used more  
 
-• I start with BPV / DV01, build to [[Key Rates O1s Durations and Hedging|Duration]]  
+• I start with BPV / DV01, build to [Duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)  
 
-• Most texts start with [[Key Rates O1s Durations and Hedging|Duration]] – confusing because of   $\%$   sensitivity vs years  
+• Most texts start with [Duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) – confusing because of   $\%$   sensitivity vs years  
 
-Most textbooks and course start with [[Key Rates O1s Durations and Hedging|duration]] but I ﬁnd that very confusing, since “[[Key Rates O1s Durations and Hedging|duration]]” is used for both [[Teaching Note 2- Interest Rate Risk Management And Factors|Macaulay Duration]] and Modiﬁed (or Adjusted) [[Key Rates O1s Durations and Hedging|Duration]]. I ﬁnd it much easier to start with BPV / DV01 and then work towards Modiﬁed and [[Teaching Note 2- Interest Rate Risk Management And Factors|Macaulay Duration]]. See the Wikipedia entry on “Bond [[Key Rates O1s Durations and Hedging|Duration]]” ([ ? ]) which is pretty good. (One is not supposed to quote Wikipedia, but I contributed much of that entry so I am pretty happy with it.)  
+Most textbooks and course start with [duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) but I ﬁnd that very confusing, since “[duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)” is used for both [Macaulay Duration](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors.md) and Modiﬁed (or Adjusted) [Duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md). I ﬁnd it much easier to start with BPV / DV01 and then work towards Modiﬁed and [Macaulay Duration](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors.md). See the Wikipedia entry on “Bond [Duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)” ([ ? ]) which is pretty good. (One is not supposed to quote Wikipedia, but I contributed much of that entry so I am pretty happy with it.)  
 Modiﬁed and Macauley Separate Concepts  
 
-• Modiﬁed – sensitivity – % change in price • Macauley – time (as in “[[Key Rates O1s Durations and Hedging|duration]]”) in years  
+• Modiﬁed – sensitivity – % change in price • Macauley – time (as in “[duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)”) in years  
 
-I teach DV01 then Modiﬁed then Macauley • Very easy to understand    $\begin{array}{r}{B P V\;\&\;D V01=-\frac{\partial P V}{\partial y}}\end{array}$  Why Macauley [[Key Rates O1s Durations and Hedging|Duration]] at all?  
+I teach DV01 then Modiﬁed then Macauley • Very easy to understand    $\begin{array}{r}{B P V\;\&\;D V01=-\frac{\partial P V}{\partial y}}\end{array}$  Why Macauley [Duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) at all?  
 
 • History. • Quick-and-dirty guess for BPV  
 
 • “Balance beam” shorter than maturity  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3024e9f21b399ad28734699e805e221d4487ed457d5f06e586667c1ade906c47.jpg)  
-[[Teaching Note 2- Interest Rate Risk Management And Factors|Macaulay duration]] for 4yr  $6.5\%$   bond  $=$   3.65yrs  (annual coupon  $6.5\%$  , 4yrs, price 99.6582, yield  $6.6\%a b$  )  
+ ![500](Attachments/500-899.jpg)  
+[Macaulay duration](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%202-%20Interest%20Rate%20Risk%20Management%20And%20Factors.md) for 4yr  $6.5\%$   bond  $=$   3.65yrs  (annual coupon  $6.5\%$  , 4yrs, price 99.6582, yield  $6.6\%a b$  )  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/52d4cfea987bda0f411dbef5409a73fc095277dcbeaa623315a3160cf7a3ea2e.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7698b42c5a75cf9dd7606905dde8cc09d7d3fee0abba45e93c2896d59982eccf.jpg)  
+ ![500](Attachments/500-931.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
 # 3.4 BPV / DV01 for Predicted P&L and Hedging  
 
 # Contents  
 
-Price as Function of Yield: Approximate P&L Write price as function of new yield, and change in yield from old  $P\left(y_{1}\right)=P\left(y_{0}+y_{1}-y_{0}\right)=P\left(y_{0}+\Delta_{y}\right)$  Then use 1st-order [[Verification of Central Limit Theorem|Taylor series expansion]] and DV01  $P\left(y_{1}\right)=P\left(y_{0}+\Delta_{y}\right)\approx P\left(y_{0}\right)+\Delta_{y}\cdot\frac{\partial P}{\partial y}=P\left(y_{0}\right)-\Delta_{y}\cdot D V01$  Finally, look at P&L (proﬁt   $\&$   loss) – subtract out    $P\left(y_{0}\right)$  :  $P\left(y_{1}\right)-P\left(y_{0}\right)\approx-\Delta_{y}\cdot D V01$  Caveats: • Only 1st-order approximation (may need 2nd – [[PSET II Fixed Income Asset Pricing 1|convexity]]) • Doesn’t consider other “[[PSET 6- Financial Instruments|risk factors]]” –  Spread –  Time  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9a6477920e83dc1c94d7fd7917263b1cff5530def29228541949a98af3e15ba5.jpg)  
+Price as Function of Yield: Approximate P&L Write price as function of new yield, and change in yield from old  $P\left(y_{1}\right)=P\left(y_{0}+y_{1}-y_{0}\right)=P\left(y_{0}+\Delta_{y}\right)$  Then use 1st-order [Taylor series expansion](../Financial%20Engineering/Verification%20of%20Central%20Limit%20Theorem.md) and DV01  $P\left(y_{1}\right)=P\left(y_{0}+\Delta_{y}\right)\approx P\left(y_{0}\right)+\Delta_{y}\cdot\frac{\partial P}{\partial y}=P\left(y_{0}\right)-\Delta_{y}\cdot D V01$  Finally, look at P&L (proﬁt   $\&$   loss) – subtract out    $P\left(y_{0}\right)$  :  $P\left(y_{1}\right)-P\left(y_{0}\right)\approx-\Delta_{y}\cdot D V01$  Caveats: • Only 1st-order approximation (may need 2nd – [convexity](../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md)) • Doesn’t consider other “[risk factors](../Financial%20Instruments/Assignments/PSET%206-%20Financial%20Instruments.md)” –  Spread –  Time  
+ ![500](Attachments/500-932.jpg)  
 
 # 3.5 Decomposing P&L – Pure Discounting & Spread  
 
@@ -6308,20 +6308,20 @@ $$
 
 • DV01 converts from yield P&L to dollar P&L  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4be0901d38a53843b5d0be6a991e105f9a34d379159c3c2ecd7f3ebeb8b0a921.jpg)  
+ ![500](Attachments/500-900.jpg)  
 
 # Reminder – Use BOND Menu for Bonds for BPV/DV01  
 
 P  $\begin{array}{r}{\mathcal{P}\&L=P\left(y_{1}\right)-P\left(y_{0}\right)\approx-\Delta Y_{F I S}\cdot D V01=-\Delta Y_{U S T}}\end{array}$   $\Delta Y_{F I S}\cdot D V01=-\Delta Y_{U S T}\cdot D V01-\Delta Y_{s p r e a d}\cdot D V01$  1  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a150895c8b44dedcfac9bd9b71fa5e24c718e717904bddd257f366a8c24553fc.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 For BPV on FIS, use BOND menu & bump up & down:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/acca15c6c1666fa1b3eb432af0bf621060205ea7778ddc0fb84f6e252c29a3d4.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/76f6168080472afc4761c01eba265ee2a39cb7ecdb8f43899a254bfcb99632bb.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/63ecd17448c0c9d0431419fe87b1b21134ce0cf6b7cd1b6147b50e770f0a9355.jpg)  
+ ![500](Attachments/500-931.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
 # There are a few important things to remember:  
 
@@ -6345,7 +6345,7 @@ $$
 [ ? ]  
 # Can We Arrange Instrument(s) To Give This P&L?  
 
-Can we actually trade bonds ([[An Asset Allocation Primer|portfolio]]) that give us this spread P&L?  
+Can we actually trade bonds ([portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)) that give us this spread P&L?  
 
 First Idea: Buy FIS (obviously) but then Sell UST  
 
@@ -6359,26 +6359,26 @@ First Idea: Buy FIS (obviously) but then Sell UST
 
 Solution is simple: sell less of the UST  
 
-• BPV of UST is too high, so sell less • Sell   $7.86\ /\ 8.38=0.938$   or \$9.38mn • Now we have the right DV01: 9.38mn \* 8.38 / (100\*100) = 7,860 • Successfully created “[[An Asset Allocation Primer|Portfolio]]” (Long FIS, Short UST) giving spread P&L  
+• BPV of UST is too high, so sell less • Sell   $7.86\ /\ 8.38=0.938$   or \$9.38mn • Now we have the right DV01: 9.38mn \* 8.38 / (100\*100) = 7,860 • Successfully created “[Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)” (Long FIS, Short UST) giving spread P&L  
 
 Powerful Idea:  
 
 • Buying one instrument (FIS) that contains two risks (Discounting & Spread)  $\bullet$   Selling another instrument (UST) that strips out one risk (Discounting)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/24073ec18805da04bceaec5be157c40d26b6898de5e3ef81f319dfc52e1e4061.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 # 4 A Digression on Shorting & Leverage  
 
 # Contents  
 
-I ﬁnd the section of BKM on short sales and [[Short Selling|buying on margin]] ([ ? ] section 3.8, 3.9) confusing  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/da7f58f5a19f29a15172993dccd5e7aca5ab42ffcf0b2ffc57c915157df33293.jpg)  
+I ﬁnd the section of BKM on short sales and [buying on margin](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Short%20Selling.md) ([ ? ] section 3.8, 3.9) confusing  
+ ![500](Attachments/500-932.jpg)  
 
 # 4.1 Shorting (BKM 3.8, 3.9)  
 
 # Contents  
 
-Before  Selling  &  [[Short Selling|Shorting]] , How Do We  Buy  &  Go Long ? Buying a bond seems simple: pay   $\S100$   and you own the bond •    $P\uparrow$  you win,    $P\downarrow$  you lose But what if you don’t actually have \$100? •  Borrow  \$100, buy bond, so still    $P\uparrow$  you win,    $P\downarrow$  you lose But risk you won’t repay, so rate to borrow is high • Solution?  Collateralized  borrowing: you pledge the bond – give it away until you repay the loan • Still “own” the bond, so    $P\uparrow$  you win,    $P\downarrow$  you lose For US Treasury Bonds, called  Repo  (for “Repurchase”) • You Sell today, Buy back in future • Sell / Buy-Back or Repurchase (Repo) transaction  
+Before  Selling  &  [Shorting](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Short%20Selling.md) , How Do We  Buy  &  Go Long ? Buying a bond seems simple: pay   $\S100$   and you own the bond •    $P\uparrow$  you win,    $P\downarrow$  you lose But what if you don’t actually have \$100? •  Borrow  \$100, buy bond, so still    $P\uparrow$  you win,    $P\downarrow$  you lose But risk you won’t repay, so rate to borrow is high • Solution?  Collateralized  borrowing: you pledge the bond – give it away until you repay the loan • Still “own” the bond, so    $P\uparrow$  you win,    $P\downarrow$  you lose For US Treasury Bonds, called  Repo  (for “Repurchase”) • You Sell today, Buy back in future • Sell / Buy-Back or Repurchase (Repo) transaction  
 # Now “Buying Bond” is Two Transactions: Buy & Repo  
 
 BUY: Buy today at   $\mathrm{{P_{0}}}$   (give   $\S100$  ), plan sell later at high price (get \$?X?) REPO (2%): Sell today at   $\mathrm{{P_{0}}}$   (get   $\S100$  ), agree to buy back at   $\mathrm{P_{1}}(\mathrm{wire}\ \S102)$  Buy today and hope price goes way up Today: Buy & Repo all cancel  
@@ -6397,7 +6397,7 @@ Tomorrow: Cash doesn’t cancel
 
 • If ?X? is high, make money. If low, lose  
 
-Where does repo price of   $\S102$   come from? Borrow   $@2\%$  : PV [[Arbitrage Pricing of Derivatives|Pricing]] ([[Chapter 3 - Forward and Futures Prices|Forward Pricing]])  
+Where does repo price of   $\S102$   come from? Borrow   $@2\%$  : PV [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) ([Forward Pricing](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%203%20-%20Forward%20and%20Futures%20Prices.md))  
 $$
 P_{0}=\frac{P_{n}}{(1+y)^{n}}
 $$  
@@ -6405,31 +6405,31 @@ $$
 \begin{array}{c}{{P_{0}=\S100;\,y=2\%;\,n=1}}\\ {{\Rightarrow P_{n}=\S102}}\end{array}
 $$  
 
-Repo is borrowing money ([[Class Note 12 Part 2 Repos|collateralized borrowing]])  
+Repo is borrowing money ([collateralized borrowing](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Class%20Note%2012%20Part%202%20Repos.md))  
 
 • Here, borrow at   $2\%$   for 1 year  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/68d3026c72b5ae41326c4f6729a89bf2f85e3797de16b622b9be31895b5ed1ed.jpg)  
+ ![500](Attachments/500-899.jpg)  
 # Summary for Buy & Repo  
 
 Legally, repos can be structured in two ways • Repo: lending and borrowing, collateralized • Repurchase: Sell / Buy-Back (sell today, buy back at price agreed today) Either way, think about  Borrowing  or  Lending  money  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3901511645fe6c89d3016e5e20470aee2564e2dc2219f9307144e37b0b131285.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2ee96201d4ba28559a0d0e7ed585aa522845479e366901a9b792b88c8a4f45a6.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
-Repo [[Arbitrage Pricing of Derivatives|Pricing]] is simple [[Chapter 3 - Forward and Futures Prices|Forward Pricing]]  
+Repo [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) is simple [Forward Pricing](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%203%20-%20Forward%20and%20Futures%20Prices.md)  
 $$
 P_{0}=\frac{P_{n}}{(1+y)^{n}}
 $$  
 
 # Summary for Buy & Repo  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/36c519b0c5ef3fda55c17cdf03e148a45ad4e09f701ac84e50a8af07c3ae7567.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/27992141123e108146fc60355e79baf44b3047966654945f635bb886b7a393d0.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
-Repo [[Arbitrage Pricing of Derivatives|Pricing]] is simple [[Chapter 3 - Forward and Futures Prices|Forward Pricing]]  
+Repo [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) is simple [Forward Pricing](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%203%20-%20Forward%20and%20Futures%20Prices.md)  
 $$
 P_{0}=\frac{P_{n}}{(1+y)^{n}}
 $$  
@@ -6451,7 +6451,7 @@ Tomorrow: Cash doesn’t cancel
 
 • If ?X? is low, make money. If high, lose  
 
-# Where does repo price of   $\S102$   come from? Lend   $@2\%$  : PV [[Arbitrage Pricing of Derivatives|Pricing]] ([[Chapter 3 - Forward and Futures Prices|Forward Pricing]])  
+# Where does repo price of   $\S102$   come from? Lend   $@2\%$  : PV [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) ([Forward Pricing](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%203%20-%20Forward%20and%20Futures%20Prices.md))  
 $$
 P_{0}=\frac{P_{n}}{(1+y)^{n}}
 $$  
@@ -6463,7 +6463,7 @@ Reverse Repo is lending money (collateralized lending)
 
 • Here, lend at   $2\%$   for 1 year  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a5dc8a4221ef9f6cde1f101964e3df8f6590beaac9bfc0c3194950ad864f0fb6.jpg)  
+ ![500](Attachments/500-899.jpg)  
 # Summary for Buy & Repo  
 
 Legally, repos can be structured in two ways  
@@ -6472,11 +6472,11 @@ Legally, repos can be structured in two ways
 
 Either way, think about  Borrowing  or  Lending  money  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b474239f7c313fa312a00f202e0b9610b34540a384cbaacfb89356e5259868a2.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/99c6663933a96bcc7c2faa0c14470f4e35be09b484034eb2ef572dc594ca8f3a.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
-Repo [[Arbitrage Pricing of Derivatives|Pricing]] is simple [[Chapter 3 - Forward and Futures Prices|Forward Pricing]]  
+Repo [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) is simple [Forward Pricing](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%203%20-%20Forward%20and%20Futures%20Prices.md)  
 $$
 P_{0}=\frac{P_{n}}{(1+y)^{n}}
 $$  
@@ -6486,15 +6486,15 @@ $$
 
 # Shorting – Simple and Easy  
 
-In summary, [[Short Selling|shorting]] is simple and easy Need way to “sell” something today, delay purchase until tomorrow or next week or next year  
+In summary, [shorting](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Short%20Selling.md) is simple and easy Need way to “sell” something today, delay purchase until tomorrow or next week or next year  
 
 • Repo or sell / buy-back (reverse repo or buy / sell-back):  
 
 –  Sell today, agree to buy back in future –  Get bond cert i cates as collateral for lending money to someone  
 
-• Forward & [[Futures Not Subject to Cash-And-Carry|Futures]] contract: –  Agree today to sell in future  
+• Forward & [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract: –  Agree today to sell in future  
 
-[[Arbitrage Pricing of Derivatives|Pricing]] relationship exactly same for both:  
+[Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) relationship exactly same for both:  
 $$
 P_{0}=\frac{P_{n}}{(1+y)^{n}}
 $$  
@@ -6510,23 +6510,23 @@ BUY: Buy today at   $\mathrm{{P_{0}}}$   (give   $\S100$  ), plan sell later at 
 
 • You need to put   $\S5$   of your own money in  
 
-[[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]]:  
+[Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md):  
 
 • How much you have as assets versus how much you put in  
 $$
 L e v e r a g e=\frac{A s s e t s}{C a s h}=\frac{100}{5}=20\,t o\,1
 $$  
 
-[[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] increases potential for Proﬁt & Loss  
+[Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) increases potential for Proﬁt & Loss  
 
-• Your [[An Asset Allocation Primer|investment]] now only   $\S5$  
+• Your [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) now only   $\S5$  
 
 But Proﬁt or Loss is on whole   $\S100$  
 $$
 P\&L=?X?-(96.9+5*1.02)=?X?-102
 $$  
 
-• You can get big P&L for small [[An Asset Allocation Primer|investment]]  
+• You can get big P&L for small [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 # 5 Digression on HP Calculator SOLVE Menu  
 
 # Contents  
@@ -6573,7 +6573,7 @@ $$
 100-D Y\times{\frac{A D}{360}}={\frac{100}{\left(1+{Y}/{f r e q}\right)^{A D/\left(365\div f r e q\right)}}}
 $$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f115859538e0c8eb911127896185168b4b06f9dd10cc3ffdaa30ab86ee6f60ba.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
 You can then put this equation into the HP  SOLVER  menu as:  
 $$
@@ -6607,36 +6607,36 @@ Thomas S. Coleman 29 March 2023; Draft April 3, 2023
 
 # Outline Contents  
 
-1 Bonds – Details for Actual US Treasury Bonds 2 1.1 Non-Coupon Date: [[Intra-Year Compounding and Day-Count|Accrued Interest]], Clean vs Dirty Price . . . . . . . . . . . . . . 2 1.2 HP 17B  BOND  Menu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 1.3 Various Bonds & Conventions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7 1.4 Periodic Payments & Compounding . . . . . . . . . . . . . . . . . . . . . . . . . . 12 2 Real & Nominal Rates 17 2.1 Unpacking the Budget Line Part II: Real & Nominal Rates . . . . . . . . . . . . . 17 2.2 TIPS – Treasury Inﬂation Protected Securities . . . . . . . . . . . . . . . . . . . . 20 2.3 More About Real & Nominal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21 2.4 Changes 2016-2023 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24  
+1 Bonds – Details for Actual US Treasury Bonds 2 1.1 Non-Coupon Date: [Accrued Interest](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md), Clean vs Dirty Price . . . . . . . . . . . . . . 2 1.2 HP 17B  BOND  Menu . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 1.3 Various Bonds & Conventions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7 1.4 Periodic Payments & Compounding . . . . . . . . . . . . . . . . . . . . . . . . . . 12 2 Real & Nominal Rates 17 2.1 Unpacking the Budget Line Part II: Real & Nominal Rates . . . . . . . . . . . . . 17 2.2 TIPS – Treasury Inﬂation Protected Securities . . . . . . . . . . . . . . . . . . . . 20 2.3 More About Real & Nominal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21 2.4 Changes 2016-2023 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24  
 # 1 Bonds – Details for Actual US Treasury Bonds  
 
-1.1 Non-Coupon Date: [[Intra-Year Compounding and Day-Count|Accrued Interest]], Clean vs Dirty Price Contents  
+1.1 Non-Coupon Date: [Accrued Interest](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md), Clean vs Dirty Price Contents  
 
 #  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fb77ce7d7a2be52facec3a4d92496a9e94a8008215fd9e93c1d8c92d38eaaab1.jpg)  
+ ![500](Attachments/500-901.jpg)  
 # Bond PV O! Coupon Date & Sawtooth  
 
 As move closer to next coupon, PV goes up: sawtooth pattern  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f36cb250490755cd3307e32a9008ba55d87d52984e59f7bc1c8dbdd8ada60413.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
 • Underlying market value not changed – just “earning” coupon  
 
 • Obscures underlying “value” – partly reﬂects earning past coupon defined as  
 
-• If I buy after 0.2yrs, I pay “extra” because I get full coupon but hold for   $80\%$   not   $100\%$   of   period The Clean Price of the bond is defined as the PV or Dirty Price less the [[Intra-Year Compounding and Day-Count|Accrued Interest]]:  
+• If I buy after 0.2yrs, I pay “extra” because I get full coupon but hold for   $80\%$   not   $100\%$   of   period The Clean Price of the bond is defined as the PV or Dirty Price less the [Accrued Interest](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md):  
 
 # (3.5)      Dirty Price, Clean Price, Accrued Interest  
 
 Solution – split PV (“Dirty Price”) into two parts:  
 
-• “[[Intra-Year Compounding and Day-Count|Accrued Interest]]”: the fraction of the next coupon earned in past   Example 3.3 Price for a Eurobond between coupons   $-\ \S1.30=0.2^{*}\S6.5$  Continuing the example of the four year 6.5% bond, what would be the price (clean price) one month  after issue if the market yield were 6.6%?  Assume the bond were issued on 15 May 1997.  
+• “[Accrued Interest](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md)”: the fraction of the next coupon earned in past   Example 3.3 Price for a Eurobond between coupons   $-\ \S1.30=0.2^{*}\S6.5$  Continuing the example of the four year 6.5% bond, what would be the price (clean price) one month  after issue if the market yield were 6.6%?  Assume the bond were issued on 15 May 1997.  
 
 • “Clean Price”: the price after adjusting: CleanP = DirtyP – AI In this case, 0.2 of coupon period (0.2yrs) has passed  
 $\cdot\ \mathrm{cleanP}=\mathrm{DitheryP}-0.2^{*}6.5$  •   $99.64=100.94\AA-1.30$  
 
-This “[[Intra-Year Compounding and Day-Count|Accrued Interest]]” is what we’ve accrued because we’ve held the bond, and earned interest The “extra” I pay to seller because I get full coupon when paid  
+This “[Accrued Interest](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md)” is what we’ve accrued because we’ve held the bond, and earned interest The “extra” I pay to seller because I get full coupon when paid  
 
 But it’s not really part of the “market price” – what is quoted in the market  
 # 1.2 HP 17B  BOND  Menu  
@@ -6656,25 +6656,25 @@ $\bullet$   Uses DP = CP   $^+$   AI in yield calculations
 
 Full 4 years (23-mar-2018  ↑ 23-mar-2022)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f046b52f07970d088a4c8da42e0c9438308d70fd4d66c7b3a513548d7aa3fc28.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 73 days or 0.2yrs later (on 4-jun-2018):   $\mathrm{PV}=\mathrm{CP}+\mathrm{AI}=100.94$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3408701dd473361a8e4daa7d3ca982e1ddd54edc26a16291fa8b1a1fdb9366a2.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
 Clean Price – what people talk about (the market price) Dirty Price – what you actually pay  
 
 Bond Menu for UST Look at some actual bonds: 2.255 of 15-nov-2025 (back in 2015 & 2016)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9891ee416173c645d91f7ca88dc30803349fee9c7184a5063591901b93f75413.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4e90a13155a4dbf6584d99676d09646cf1d59a2485d20ce32fa26c6d10191177.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6781c6ca518201e93474a0dbd2bc87b8496126cdb38927df3aa9007dd06c13c1.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/efb3b819416adedd7af49d1c794cd720b7b099bf116922ee9410bf92d511ce15.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fcc4ab3a4d21a1eb2b8c386bcb7168aa2c8cac5e15259d461ca3e138ef3abe67.jpg)  
+ ![500](Attachments/500-932.jpg)  
+ ![500](Attachments/500-932.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dbf19e0596b857df2f9834ba1ae2a73646249b1694d009355bacf1a025cd0bf9.jpg)  
+ ![500](Attachments/500-833.jpg)  
 
 • 15-nov-15 → 15-may-  $16=182$   days –  leap-yr  
 
@@ -6684,15 +6684,15 @@ Bond Menu for UST Look at some actual bonds: 2.255 of 15-nov-2025 (back in 2015 
 
 Bond menu builds in the date calculations to calculate the fractions  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c49880c5662097fd19fb3d50e7c2c5909db02450f6fe10cfd2437fcdf15f7903.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 # In-Class Exercise 2: 2.25 of 15-nov-2025 on 6-jan-2016  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7aec02a7aa7d96a4f6ed1381b84ae18720d5c08c7cb5c683b4b21904ef679887.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 •  Yield down ( 2 . 268%  ↓ 2 . 1764 ) so price up   $(99.84375\uparrow100.6485)$  
 
-• [[Intra-Year Compounding and Day-Count|Accrued Interest]] (AI) up because time has passed ( \$0 . 284  ↔ \$0 . 321 )  
+• [Accrued Interest](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) (AI) up because time has passed ( \$0 . 284  ↔ \$0 . 321 )  
 
 Screen-shot from  WSJ  shows price 100.6484. Why di!erent?  
 
@@ -6703,7 +6703,7 @@ Screen-shot from  WSJ  shows price 100.6484. Why di!erent?
 • But in all our problems, pretend    $S e t t l e\,=\,Q u o t e$  
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/11a905154726d510a7e6e69f26315c5eac2653873e4d47edfbd4ddb103f93275.jpg)  
+ ![500](Attachments/500-786.jpg)  
 
 Calendars are Messy – Choose a “Convention” “Fraction of a year” should be simple but it’s not  
 
@@ -6712,7 +6712,7 @@ Calendars are Messy – Choose a “Convention” “Fraction of a year” shoul
 Before computers, calculating dates  very  di!cult (with computers still di!cult – I know, I’ve done it multiple times)  
 
 • Di"erent markets agreed di"erent “Conventions” • Rules for how to count days, deﬁne year-fractions, calculate AI • A little arbitrary, but ﬁne as long as everyone knows rules  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3a2d36ea958d35c74097909ac27c9319f69ecab520907debe987b31641abfaf0.jpg)  
+ ![500](Attachments/500-800.jpg)  
 
 # Dirty Price, Clean Price, and Accrued Interest  
 
@@ -6724,24 +6724,24 @@ $$
 where  
 
 PV  = Present Value (today’s value)  
-$\textbf{y}=\mathrm{yield}$   or interest rate or [[PSET 7- Kohler|discount rate]] x  = fraction of period to next coupon payment date  
+$\textbf{y}=\mathrm{yield}$   or interest rate or [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) x  = fraction of period to next coupon payment date  
 
 The next coupon of   $\S6.50$   is a fraction x of a year away (say 292 days away which would be 0.8 of a year away). We discount by this fraction of a period rather than the whole period.  
 
 The equation works perfectly ﬁne, but there is a slight problem which appears when we graph the PV as a function of maturity, shown in the ﬁgure above. For a four year bond with a   $6.5\%$  coupon and a   $6.5\%$   yield and exactly four years to go the PV is   $\S100$  . As we move into a coupon period and the maturity shortens, however, the PV rises. This is simply because we have earned or accrued part of the coupon, and the next coupon is moving closer. (With only a few days until the next coupon payment we have owned the bond for almost the whole coupon period and thus “earned” almost the whole coupon.) After the coupon is paid, of course, the PV falls back down to   $\S100$  . This saw-tooth pattern, while correct, obscures the fact that the market has not really changed and in some sense the market value of the bond has not changed; we have simply accrued part of the coupon by owning it for part of the coupon period.  
-The bond markets adjust for this e"ect by the convention of calculating [[Intra-Year Compounding and Day-Count|Accrued Interest]] (AI). This is deﬁned as  
+The bond markets adjust for this e"ect by the convention of calculating [Accrued Interest](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) (AI). This is deﬁned as  
 
 AI = Next Coupon Payment \* (Fraction of Period from Last Coupon)  
 
-The Clean Price of the bond is deﬁned as the PV or Dirty Price less the [[Intra-Year Compounding and Day-Count|Accrued Interest]]:  
+The Clean Price of the bond is deﬁned as the PV or Dirty Price less the [Accrued Interest](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md):  
 
 Clean Price = Dirty Price - AI  
 
-The Clean Price for the four year   $6.5\%$   bond is shown in ﬁgure 3.3; it is a straight line at   $\S100$  . The TVM menu on the HP17B will handle only exact coupon periods and so will not work for a bond except when it is an exact number of years to maturity. The BOND menu is specially designed for use with bonds, and has yield / price calculations and [[Intra-Year Compounding and Day-Count|accrued interest]] built in.  
+The Clean Price for the four year   $6.5\%$   bond is shown in ﬁgure 3.3; it is a straight line at   $\S100$  . The TVM menu on the HP17B will handle only exact coupon periods and so will not work for a bond except when it is an exact number of years to maturity. The BOND menu is specially designed for use with bonds, and has yield / price calculations and [accrued interest](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) built in.  
 
 NB: the better way to adjust would be to use PV(Next Coupon Payment)   $^*$   (Fraction of Period from Last Coupon)  
 
-but that would be more complicated then we need. The bond calculator takes in the clean price, calculates the [[Intra-Year Compounding and Day-Count|Accrued Interest]], and then does the yield calculation on the actual PV (dirty price). We know that we need to compare yields and not prices, and so a slight “error” in the clean price is ﬁne – the calculator actually uses the dirty price or PV.  
+but that would be more complicated then we need. The bond calculator takes in the clean price, calculates the [Accrued Interest](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md), and then does the yield calculation on the actual PV (dirty price). We know that we need to compare yields and not prices, and so a slight “error” in the clean price is ﬁne – the calculator actually uses the dirty price or PV.  
 
 We can see the slight error in the example above. The price at exactly four years is   $\S99.658$   or below par (\$100). As time marches on (with no change in value) we need to move up towards   $\S100$  . The “correct” CP shows this – it is   $\S99.73$   or slightly higher than   $\S99.658$  . The market CP is   $\S99.64\$  , slightly lower than   $\S99.658$  . But this is OK because the yield calculation (which is what we care about) uses the dirty price.  
 
@@ -6766,7 +6766,7 @@ $$
 A/A={\frac{A c t u a l\,D a y s\,S i n c e\,L a s t\,C o u p o n}{365}}*F r e q
 $$  
 
-which means you don’t have to count the number of days in the actual half-year. But this generates odd things at the end of long months – like negative [[Intra-Year Compounding and Day-Count|accrued interest]]. British Gilts used to be A/365F but now A/A. Canadian bonds are A/365F, Japanese JGBs I think are A/365F.  
+which means you don’t have to count the number of days in the actual half-year. But this generates odd things at the end of long months – like negative [accrued interest](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md). British Gilts used to be A/365F but now A/A. Canadian bonds are A/365F, Japanese JGBs I think are A/365F.  
 Actual /Actual makes perfect sense and you might think all bonds are done this way. But calculating days is rather messy (or at least was before calculators) and so 30/360 (and even A/365F) are still used. The “Bond” and “Time” menu on the HP calculator do date calculations. The “Bond” recognizes A/A and 30/360 (but not 30E/360 or A/365F). The “Time” menu recognizes A/A, 30/360, A/365F (but not 30E/360)  
 
 # Accrued Interest Conventions – Compare Like-with-Like  
@@ -6783,19 +6783,19 @@ MUST compare like-with-like (A/A vs A/A & 30/360 vs 30/360)
 
 • You pay 105.806 in both cases – same cash (Dirty Price) EXAMPLE : 6.5% bond, 342 days into year, on 28-feb-2019: Yield = 6.60%  $\bullet$  → DP=105.8086 (99.71823+6.0904)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5297eb2d37ca125c6b04018d97fec614a1e6a418bc65d0bbf7d543aa87d71794.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 •    $\rightarrow$  yld=6.584%  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/20902a7e9c7917c59701e9f4fd07071a5cea593479b7d2b6c40e16d1ce1d8590.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 EXAMPLE : 6.5% bond, 342 days into coupon, on 28-feb-2019: Yield = 6.60% • Actual / Actual convention (0.9370 yrs), DP = 105.8086  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d1dcf40c9bd9df2adbdde0cdb2eafcc74ce081e68ae8b93f113167f6eb0cbce3.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 • 30/360 convention (0.9306 yrs),   $\mathrm{CP}=105.8086-6.0486=99.7600$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b3df5f065f45373c04fbbadc5ec374caa9258dd6128e429db2b57f0d3e486ec2.jpg)  
+ ![500](Attachments/500-835.jpg)  
 
 Here the “di"erence” in yield is 1.6bp but in fact it is only due to di"erent conventions: 6.600%A/A
 
@@ -6807,10 +6807,10 @@ These di"erences are less than the di"erences in frequency basis (ab vs sab:   $
 
 EXAMPLE:   $6.5\%$   bond, 73 days into coupon, on 4-jun-2018:   $\mathrm{Yid}\,=\,6.60\%$  •  Actual / Actual convention (0.2 yrs, AI=1.300), DP = 100.9403 (99.6403+1.3000)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/62e991401d38d65731c7dcdc6d2fde2f532aa36b530483db233c93c0da61fe4c.jpg)  
+ ![500](Attachments/500-931.jpg)  
 •  30/360 convention (0.1972 yrs, AI=1.2819), CP = 100.9403 – 1.2819 = 99.6584  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/67d05d04898dfdec020d20328b968565fe4392fff3600c3d1e960be9447ad14e.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 A/A and 30/360 prices and yields slightly di"erent (use Bloomberg “True Yield”)  
 
@@ -6825,29 +6825,29 @@ $$
 
 EXAMPLE: Exact 4yr,   $6.5\%$   bond (no AI), annual vs semi:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/42b15304ff3c3733d663b522fc0a4495fa2568dbdac9ec7355c7e424f2c923e9.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 # Some Bond Co  
 
 US Treasury Bonds US Corporate Bond UK Gilts British Domestic Bo French OATs & BTA German Bunds & BOBLS Japanses JGBs  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/543bd6c8b737b8a55c14b6918065c67b6c58f85f0172f06822ddfe547daf2003.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
 You pay more for semi-annual bond – you  should , since get coupon earlier.  
 
-My “[[A Practical Guide to Bonds and Swaps|Practical Guide]] to Bonds and Swaps” (https://papers.ssrn.com/abstract  $\mathbf{\beta},=$  1554029) covers the various conventions. Many, however, have changed and are now A/A.  
+My “[Practical Guide](../Financial%20Engineering/A%20Practical%20Guide%20to%20Bonds%20and%20Swaps.md) to Bonds and Swaps” (https://papers.ssrn.com/abstract  $\mathbf{\beta},=$  1554029) covers the various conventions. Many, however, have changed and are now A/A.  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ccf095e6f6c0ec67c0c7b53d5511b7da567dbd6cbbf560668c095e14236c7fe3.jpg)  
+ ![500](Attachments/500-838.jpg)  
 Sources for conventions:  
 
-• http://treasury today.com/2001/11/[[Intra-Year Compounding and Day-Count|day-count]]-conventions  
+• http://treasury today.com/2001/11/[day-count](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md)-conventions  
 
 –  I’m not sure they are right in their deﬁnition of A/365(F) and A/365 (that they say is same as A/A). I think maybe there is some confusion between mm conventions (A/360 and A/365) and bond conventions (A/365(F) and A/A) –  They say that Eurobonds have switched from 30E/360 to A/A  
 • For Canadians: http://iiac.ca/wp-content/uploads/Canadian-Conventions-in-Fixed-Income-Markets1.1.pdf  
 
-• For German Bunds: http://help.derivative [[Arbitrage Pricing of Derivatives|pricing]].com/1296.htm  
+• For German Bunds: http://help.derivative [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md).com/1296.htm  
 
-• Wide variety: http://help.derivative [[Arbitrage Pricing of Derivatives|pricing]].com/1571.htm  
+• Wide variety: http://help.derivative [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md).com/1571.htm  
 
 # 1.4 Periodic Payments & Compounding  
 
@@ -6864,7 +6864,7 @@ $$
 
 TVM does this automatically, gives Yield (Interest) per yr (  $[\%$  YR) • Make sure set right:   $<$  Blue  $>$     $<$  MAIN  $>$     $<$  FIN  $>$     $<$  TVM  $>$   <1 P/YR  $>$     $<$  END>  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7be04fedc0554e8bfbd2dfc7c2a2186ee4a0979c9db8cf47096086a571ce4e6d.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
 Periodic CFs (Not 1 per year) Example: 4yr   $6.5\%$   coupon bond,   $\mathrm{P}=99.658\mathrm{~-~}6.5\%/\mathrm{yr}$  
 $$
@@ -6876,7 +6876,7 @@ $$
 99.658=\frac{3.25}{\left(1+y_{a b}\right)^{1/2}}+\frac{3.25}{\left(1+y_{a b}\right)^{1}}+\frac{3.25}{\left(1+y_{a b}\right)^{1.5}}+\cdot\cdot\cdot+\frac{3.25}{\left(1+y_{a b}\right)^{4}}+\frac{100}{\left(1+y_{a b}\right)^{4}}
 $$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3e990ed47a47c4f9f7a6511eb1afd20f365e39c0447023646dc690ca52f11f32.jpg)  
+ ![500](Attachments/500-816.jpg)  
 # But No – Periodic CFs – Discount at Same Freq as Payment  
 
 Example: 4yr semi-annual   $6.5\%$   coupon bond,   $\mathrm{P}=99.658\mathrm{~-~}3.25\%/6\mathrm{math}$  • Seems natural to use annual rate, discount “number of years”:  
@@ -6899,7 +6899,7 @@ Why    $y_{s a b}/2^{\circ}$  ? Report “annual” rate
 
 • Discount at half-yr rate    $y_{s a b}/2$  , but quote “annual”    $y_{s a b}=2\cdot y_{s a b}/2$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a64ad1945e616bf3fc6146764ef30244db3a5dd9e88c6ec59a979fc04a2b4ce9.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
 # Periodic CFs – 4 yr Bond Example  
 
@@ -6910,9 +6910,9 @@ $$
 
 Annual, 4yrs, 6.5%/yr:   $<$  Blue>   $<$  MAIN  $><$   $\mathrm{<FIN><T V M><1~P>}$  /YR  $>$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6a4f1cb870c9207f96bb377232f07965be7f2ce6605f630541596928dd32f54f.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c0c212027d5ff2cf72a12b9eebdd23b135a026fc6f64773956fade636a6936d4.jpg)  
+ ![500](Attachments/500-899.jpg)  
  $^{<2}\mathrm{~P~/~YRe>~}$   only  adjusts the  $\mathrm{I\%YR}$  
 
 PV=99.658  
@@ -6920,13 +6920,13 @@ PV=99.658
 
 Look the 2 bonds, same price but di!erent coupon • 4yr semi bond more valuable • Get same total CF, but get CF sooner  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c9c6d820c3f4977cbd2d3abfe464edbf2cd45644ee916aaf4217a532c38fd62a.jpg)  
-$y_{a b}=6.6\%$   – annual [[PSET 7- Kohler|discount rate]] (yield)  
+ ![500](Attachments/500-899.jpg)  
+$y_{a b}=6.6\%$   – annual [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) (yield)  
 
 Semi-annual, 4yrs,   $3.25\%/\mathrm{yr}$  : <2 P/YR  $\scriptscriptstyle>$  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e341cb6588949473ca49088ec201a68adebb264d926316b765dc9fe684ee2385.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e2469b8ab96ca27447937b6146e6f557f76bbcfb7c3df8217e5722f898fc3050.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 # Complication: Compounding!  
 
@@ -6973,10 +6973,10 @@ y_{a b}=\left(1+y_{s a b}/2\right)^{2}-1\qquad y_{s a b}=2\cdot\left(\sqrt{1+y_{
 $$  
 
 Compounding: In-Class Exercise 1 Annual, 4yrs, 6.5%/yr:   $<\!1$   P/YR  $>$  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/937d3f6dc11a0b618795311115681c06013644590863c32803bfe4b519304a87.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
 Semi-annual, 4yrs,   $3.25\%/\mathrm{yr}$  :   $^{<2}\mathrm{~P~/~YRe>~}$  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c68b5c57cf801e619ca5c0fac8380de9faed8cfecfe7b2dab603f185a565f114.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
 But    $y_{a b}\ \&\ y_{s a b}$   fundamentally di!erent • Semi-annual bond more valuable: pay same (\$99.658) but get CFs sooner  
 
@@ -7025,12 +7025,12 @@ $$
 \begin{array}{c}{{\left(1+y_{a b}\right)=\left(1+y_{s a b}/2\right)^{2}}}\\ {{y_{a b}=\left(1+y_{s a b}/2\right)^{2}-1\qquad y_{s a b}=2\cdot\left(\sqrt{1+y_{a b}}-1\right)}}\end{array}
 $$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5a1b7b1c59351f5c7929a99417e418f2ec12e5a06e87c4a7a8d0f6255902c767.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
 • ALWAYS compare like-with-like. 8% ab is  not    $8\%$   sab  
 
 • And it is non-linear: Doubling    $y_{s a b}$   slightly more than doubles    $y_{a b}$  2.1 Unpacking the Budget Line Part II: Real & Nominal Rates Contents  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3ff24ae5ea5052703c52c6300d0a29542b3d957cfa43890671d42c046aef6036.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
 # Left Hand Side Gives Real & Nominal Rates  
 $$
@@ -7094,15 +7094,15 @@ What does those negative real rates (2020-2022) mean?
 
 We mostly look at nominal CFs in this course  
 
-In [[Corporate Finance Lecture Notes|Corporate Finance]] (project ﬁnance), CBA often consider real CFs Incredibly important – Two ways to treat inﬂation, for CFs  $\&$   Discounting  
+In [Corporate Finance](Corporate%20Finance%20Lecture%20Notes.md) (project ﬁnance), CBA often consider real CFs Incredibly important – Two ways to treat inﬂation, for CFs  $\&$   Discounting  
 
-1. Real CFs (today’s dollars), real [[PSET 7- Kohler|discount rate]] 2. Inﬂation-adjusted CFs (nominal), nominal [[PSET 7- Kohler|discount rate]]  
+1. Real CFs (today’s dollars), real [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) 2. Inﬂation-adjusted CFs (nominal), nominal [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md)  
 
-[[Concluding Remarks|Real vs nominal]] cash CFs  
+[Real vs nominal](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Concluding%20Remarks.md) cash CFs  
 
 1. Real: forecast sales, costs, beneﬁts, etc. in today’s dollars (no inﬂation) 2. Nominal: CFs grow:  CF nominal  $C F\,n o m i n a l_{t}=C F\,r e a l_{t}\cdot(1+\pi)^{t}$  
 
-[[Nominal and Real State-Price Deflators|Real vs. nominal]] rates  
+[Real vs. nominal](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Nominal%20and%20Real%20State-Price%20Deflators.md) rates  
 $$
 \begin{array}{c}{{1+n o m i n a l=\left(1+r e a l\right)\cdot\left(1+e x p\,i n f l\right)}}\\ {{\left(1+y\right)=\left(1+r\right)\cdot\left(1+\pi\right)}}\end{array}
 $$  
@@ -7111,7 +7111,7 @@ I somewhat prefer (1): real CFs and real rate • Don’t have to think as hard 
 
 # Inﬂation – Keep “Real with Real”, “Nominal with Nominal”  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/78872487697d3a2e8ff78d1dff36722b9b2d02991d7cf2f0ee251293fbe3118e.jpg)  
+ ![500](Attachments/500-899.jpg)  
 
 • Nominal rate:   $8\%$  • Expected inﬂation:   $5\%$  
 $(1+y)=(1+r)\cdot(1+\pi)\Rightarrow(1.08)=(1.02857)\cdot$  (1 . 05) Real:    $\begin{array}{r}{P V=\frac{100}{1.02857}+\frac{100}{(1.02857)^{2}}=191.744}\end{array}$  
@@ -7121,18 +7121,18 @@ Nominal:  $\textstyle P V={\frac{105}{1.08}}+{\frac{110.25}{(1.08)^{2}}}=191.744
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8a64b6c1212963a145579678ba23d1bf35c139aa987b912660c917b77b3fe864.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
 Note that the yield quoted in the table is calculated from the HP 17 BOND menu. The TVM gives approximately the same answer, but the 3-decimal yield is from the bond menu:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/97afefe0ab920e51cc04d2ac9adfb1428fe4810343e8a2e95e8e49814a74e0c2.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
-TIPS (Treasury Inﬂation-Protected Security) – Real CFs How do we make “real CFs”? What do we mean by “real”? • Coupon & principal “inﬂated” by CPI ([[Pricing an Inflation Swap|Consumer Price Index]]) • Actual CF rises with inﬂation: buy same goods with higher CF  
+TIPS (Treasury Inﬂation-Protected Security) – Real CFs How do we make “real CFs”? What do we mean by “real”? • Coupon & principal “inﬂated” by CPI ([Consumer Price Index](../Financial%20Instruments/Pricing%20an%20Inflation%20Swap.md)) • Actual CF rises with inﬂation: buy same goods with higher CF  
 
 • Makes CFs “real” – inﬂation-adjusted – in this case real  $0.75\%$  • The yield (DR) (based on the 0.75 coupon) is real rate  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/50ac9379718ab78f5478832ea63892d7c7fff231e88ca12b55a282db2495b76e.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dc7391e57e3fff36f3067c3cd6f72d87819db6600248c352f6b632b92d689d4a.jpg)  
+ ![500](Attachments/500-931.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
 # 2.3 More About Real   $\&$   Nominal  
 
@@ -7140,24 +7140,24 @@ TIPS (Treasury Inﬂation-Protected Security) – Real CFs How do we make “rea
 
 Nominal & Real Rates Real Yield (promised) & Real Return (earned) important macro variables • Remember budget Line:  $\begin{array}{r}{p_{1}c_{1}+p_{1}c_{2}\frac{1}{1+r}=m_{1}+m_{2}\frac{1}{1+y}}\end{array}$  • Real rate    $r$   matters for consumption decisions – today vs tomorrow Nominal yield   $(y)$   easy to see, everyone pays attention Real yield   $(r)$   harder to see, matters more for decisions about consumption vs savings Governments have kept real yield    $r$   low since 2008  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/074588d523454d98fa8923947a346da5be700e9071694b34e3deb44798d4998d.jpg)  
+ ![500](Attachments/500-932.jpg)  
 Tuesday 27-sep-16  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a128ea7a7acf25a5f1a122eca425bd24213a4a0da13ad040107ff38efd5b345d.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1be5c1f2628bf3d92984e3662f53e292c1c988a9f7ea83ca22b1f505e5ff2017.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 # Real Returns Consistently Negative 10yrs  
 
 Calculate 1yr Real Return – Since 2008, consistently negative – I think bad news  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fe38563bf9365873c4ffc0a412e7d05c20402e23075e0c7693c64914717b5c67.jpg)  
+ ![500](Attachments/500-824.jpg)  
 
 The real return: 1yr T-Bill minus 1yr CPI inﬂation. Should be Lagged T-Bill yield less current CPI inﬂation to calculate return, so this graph is not absolutely correct From FRED, the St Louis Federal Reserve Economic Data service. Really valuable  
 
-Real [[Assets|Returns]] Consistently Negative 10yrs Calculate 1yr Real Return – Since 2008, consistently negative – I think bad news  
+Real [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) Consistently Negative 10yrs Calculate 1yr Real Return – Since 2008, consistently negative – I think bad news  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ede39f7bc0222d81ac2c8866808bc023ed5b5f7d9510e87fcd3db9035720184c.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/35f351993bf4c2e1d3b0519aaa147ff381d7e42087b89a9eb2cfb2b69d8f6aba.jpg)  
+ ![500](Attachments/500-932.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
 Example of inﬂation e!ect A few notes on this: 1. I am asking what happens when expected inﬂation up by 3 percentage points, from   $2.18\%$   to   $5.18\%$  . 2. I  assume  that real rates don’t change. It could be that real rates go down, and we will see that real rates can go negative. 3. But generally when inﬂation goes up, so do nominal rates. And nominal bonds lose big  
 
@@ -7175,18 +7175,18 @@ Came to us (SG Warburg) to protect against movements in nominal vs real yields
 
 • Customers could decide in November  
 
-• September: French Mastricht referendum, potential to upset European integration plans, change [[Forward Rate|market expectations]] (nominal vs real yields)  
+• September: French Mastricht referendum, potential to upset European integration plans, change [market expectations](../Clippings/Forward%20Rate.md) (nominal vs real yields)  
 
-Referendum pushed UK out of [[Forwards and Futures Notes|currency]] agreement (Soros made \$1bn)  
+Referendum pushed UK out of [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) agreement (Soros made \$1bn)  
 
 • I had a wild time managing option  
 
-• I learned a lot about [[Concluding Remarks|real vs nominal]] yields  
+• I learned a lot about [real vs nominal](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Concluding%20Remarks.md) yields  
 # 2.4 Changes 2016-2023  
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a948f960358b4b7da01415a34c075be9df6824e42057a172a38b99448bae212b.jpg)  
+ ![500](Attachments/500-821.jpg)  
 
 Remember from before, what we said about yields:  
 
@@ -7196,7 +7196,7 @@ Remember from before, what we said about yields:
 
 Real bonds & real yields (TIPS – prices from  Treasury Direct )  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/769eaa563456de92233d18cd65ac522667d0cae9bb2f0661b443daf2858340ef.jpg)  
+ ![500](Attachments/500-900.jpg)  
 
 With real yields, we can say more, but need to calculate  Expected Inﬂation :  
 
@@ -7204,7 +7204,7 @@ Sep-2016:
 
 Nominal & real yields, expected inﬂation  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/24e6f04799f4ed25566d45135a72ff886130915cc141b297754358a0b6d6bde8.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 Now we can say more:  
 
@@ -7219,11 +7219,11 @@ Now we can say more:
 WSJ:  https://www.wsj.com/market-data/bonds/treasuries  
 
 Treasury Direct:  https://www.treasury direct.gov/GA-FI/FedInvest/select Security Price Date For 3-apr-20, Yield using “BOND” menu and actual dates (Settle  $=3$  -apr-20, Maturity  $=15$  -feb-30,   $\mathrm{coup}=1.5\%$  , P  $=108.4375$  ,  $\mathrm{Y}{=}0.617\%$  . Di!erent only by 1bp  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/38ef434cb7580098608f9f41195f6b6414403f054099b7ae9fda9c30e775828b.jpg)  
+ ![500](Attachments/500-799.jpg)  
 
 Re-done with prices updated from Treasury Direct (di"erent time of day than above, which are from WSJ, which no longer has history). And calculating actual A/A semi-annual bond yield:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/750251bd8ced8dc1f7cbbe4561531c4b6c41bc3d7aa92d003f15d0a00a91c919.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
 # Thinking About Yield Changes:    $y$   ↔≃ Budget Line Twists  
 
@@ -7243,7 +7243,7 @@ Inﬂation:  Only    $_{m2}$  , Future CF (FV ﬁxed),  $y\uparrow$  as if    $P
 
 •   $\mathrm{scriptstyleFV=100}$  , y=4%,  $\begin{array}{r}{P V=\frac{100}{\left(1+.04\right)}=96.15}\end{array}$  •   $\mathrm{scriptstyleFV=100}$  , y=5%,  $\begin{array}{r}{P V=\frac{100}{\left(1+.05\right)}=95.24-\,P o o r e}\end{array}$  r  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fd64889253d2221cedf1ccf2e1cebbed0bcf608ce4cb75ecc644f129d9d90834.jpg)  
+ ![500](Attachments/500-931.jpg)  
 # TVM & Bonds: PV, FV, Discounting  
 
 Lecture 3 Thomas S. Coleman 27 March 2023, Draft March 31, 2023  
@@ -7258,7 +7258,7 @@ Four Ideas – All About Yield
 
 # Contents  
 
-1 How to Think About Yield: Unpacking the Budget Line 2 2 How to Calculate Yield (for Bonds) 5 2.1 Single versus Multiple CF & Bonds . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 2.2 Solving Multiple CF & Bonds – PV Calculators: TVM and BOND Menu . . . . . 7 3 How Do We Use Yield? Where Does Yield Come From? 10 3.1 TVM for Simple 4-year Bond . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 3.2 Understanding and Using Yield – Across PV, Coupon, Maturity . . . . . . . . . . 12 3.3 Where Do We Get Yield? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 3.3.1 Bonds – Markets give us Yield ([[PSET 7- Kohler|Discount Rate]], [[Lecture 1- Probability Distributions of Returns|Expected Return]]) . . . . . 15 3.3.2 Equities & Projects: Di!cult – Estimate Yield from Similar Risk . . . . . . 19 4 Yield / [[PSET 7- Kohler|Discount Rate]], [[Yield and Return|Holding Period Return]], IRR 20 4.1 Yield / [[PSET 7- Kohler|Discount Rate]] ([[Lecture 1- Probability Distributions of Returns|Expected Return]], Required Return, Interest Rate) . . . . . 20 4.2 [[Yield and Return|Holding Period Return]] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 4.3 IRR (Internal Rate of Return) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24  
+1 How to Think About Yield: Unpacking the Budget Line 2 2 How to Calculate Yield (for Bonds) 5 2.1 Single versus Multiple CF & Bonds . . . . . . . . . . . . . . . . . . . . . . . . . . . 5 2.2 Solving Multiple CF & Bonds – PV Calculators: TVM and BOND Menu . . . . . 7 3 How Do We Use Yield? Where Does Yield Come From? 10 3.1 TVM for Simple 4-year Bond . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 3.2 Understanding and Using Yield – Across PV, Coupon, Maturity . . . . . . . . . . 12 3.3 Where Do We Get Yield? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15 3.3.1 Bonds – Markets give us Yield ([Discount Rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md), [Expected Return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md)) . . . . . 15 3.3.2 Equities & Projects: Di!cult – Estimate Yield from Similar Risk . . . . . . 19 4 Yield / [Discount Rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md), [Holding Period Return](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Yield%20and%20Return.md), IRR 20 4.1 Yield / [Discount Rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) ([Expected Return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md), Required Return, Interest Rate) . . . . . 20 4.2 [Holding Period Return](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Yield%20and%20Return.md) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 4.3 IRR (Internal Rate of Return) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24  
 # 1 How to Think About Yield: Unpacking the Budget Line  
 
 Remember: The Budget Line: PV, FV, Discounting  
@@ -7272,7 +7272,7 @@ $$
 p_{1}c_{1}\cdot(1+y)+p_{2}c_{2}=m_{1}\cdot(1+y)+m_{2}
 $$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/06f1c752f2bba10c240ec064a1e3d986347ea4c48274cbb7b460ac494f2764a4.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 # Remember: Right Hand Side Gives PV, FV & Discounting  
 $$
@@ -7291,7 +7291,7 @@ I. Unpacking the budget constraint: PV, FV, nominal & real rates
 
 •  PV : So let’s start by looking at the RHS or the budget constraint:    $p_{1}c_{1}+p_{2}c_{2}/(1+$   $y)\,=\,m_{1}+m_{2}/(1+y)$  . The RHS says that the income for the budget line is the sum  $m_{1}+m_{2}/(1+y)$  . We call this the Present Value, and it is the correct measure of income when we look at any set of CFs across time – we always need to discount future amounts (future CFs) back to today by   $1/(1\!+\!y)$  .  
 
-–  This is the most important, maybe the only important thing, you will learn in this course: how to calculate and think about PVs. –  PVs matter and only PVs matter. Nothing else you learn in ﬁnance is as important as this. In fact, there really is not much else in ﬁnance except PV –  Three-quarters of this course is simply calculating    $m_{1}+m_{2}/(1+y)$  . This becomes very complicated: What are the CFs? When are the CFs? What is the rate    $y$  ? How do we quote the [[PSET 7- Kohler|discount rate]]    $y$   and how do we calculate the discounting   $1/(1\!+\!y)$  ? How do we get an appropriate rate? –  But it all comes down to PV:    $m_{1}+m_{2}/(1+y)$  .  
+–  This is the most important, maybe the only important thing, you will learn in this course: how to calculate and think about PVs. –  PVs matter and only PVs matter. Nothing else you learn in ﬁnance is as important as this. In fact, there really is not much else in ﬁnance except PV –  Three-quarters of this course is simply calculating    $m_{1}+m_{2}/(1+y)$  . This becomes very complicated: What are the CFs? When are the CFs? What is the rate    $y$  ? How do we quote the [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md)    $y$   and how do we calculate the discounting   $1/(1\!+\!y)$  ? How do we get an appropriate rate? –  But it all comes down to PV:    $m_{1}+m_{2}/(1+y)$  .  
 
 •  FV : the expression    $m_{1}+m_{2}/(1+y)$   expresses income in terms of period-1 money. But we could also write the budget line in terms of period-2 money:  
 $$
@@ -7302,7 +7302,7 @@ Now the RHS is the FV:    $m_{1}\cdot(1+y)+m_{2}$  . FV is in terms of tomorrow�
 
 II. The term (1+y) or    $\sqrt[1]{1\!+\!y}$   is the price between today and tomorrow.  
 
-• For every   $\S1$   today, we get 1+y next period. For one year, y will be something like 0.04 or   $4\%$  . • The term    $\sqrt[1]{1+y}$   is called the  [[Discount Factors|discount factor]] : it tells us how much   $\S1$   next period is worth today (it will be less than   $\S1$  , discounted) • y is called the interest rate, [[PSET 7- Kohler|discount rate]], yield, yield-to-maturity, IRR (internal rate or return), [[Lecture 1- Probability Distributions of Returns|expected return]]. These all mean slightly di"erent things.  
+• For every   $\S1$   today, we get 1+y next period. For one year, y will be something like 0.04 or   $4\%$  . • The term    $\sqrt[1]{1+y}$   is called the  [discount factor](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) : it tells us how much   $\S1$   next period is worth today (it will be less than   $\S1$  , discounted) • y is called the interest rate, [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md), yield, yield-to-maturity, IRR (internal rate or return), [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md). These all mean slightly di"erent things.  
 # Thinking About Yield Changes:    $y\uparrow\Rightarrow\mathbf{Bondget}$   Line Twists  
 
 First consider simple case: you only have Future CF or Present CF:  
@@ -7323,7 +7323,7 @@ Inﬂation:  Only    $m_{2}$  , Future CF (FV ﬁxed),  $y\uparrow$  as if    $P
 
 •   $\mathrm{scriptstyleFV=100}$  , y=5%,  $\begin{array}{r}{P V=\frac{100}{(1+.05)}=95.24-\,P o o r e r}\end{array}$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/59585802693b7724d7f19ada895790d810b91e2e55c558124b3e405f19253adb.jpg)  
+ ![500](Attachments/500-931.jpg)  
 # 2 How to Calculate Yield (for Bonds)  
 
 2.1 Single versus Multiple CF & Bonds  
@@ -7362,7 +7362,7 @@ A few things about this:
 
 • This is a “bond”: ﬁxed coupon per year,   $\S100$   at the end  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c75fd28aa33bef0111cdadb6c4899ae6271f1412fd68f033215db201f0698047.jpg)  
+ ![500](Attachments/500-899.jpg)  
 # Taking Apart and Solving PV Formula  
 
 For single future CF, things are easy:  
@@ -7379,12 +7379,12 @@ $$
 
 • Can get    $P V$   when given other four. How to get    when given    $P$  V ,  PMT , ...?  $y$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/149da0c3daa99bac3d3bab61c623e18483b2f7abf7e4e6e76815e4f02dfb6d00.jpg)  
+ ![500](Attachments/500-899.jpg)  
 # 2.2 Solving Multiple CF & Bonds – PV Calculators: TVM and BOND Menu  
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b32d67416b4dc71648131adc53c93f09326dc0fddb13b058ffdfa70411cf1fa9.jpg)  
+ ![500](Attachments/500-932.jpg)  
 # Using Computers for Yield Calculations  
 
 Trial-and-Error or  root-ﬁnding  algorithms for solving bond-type multiple CFs  
@@ -7396,28 +7396,28 @@ $$
 
 Today, calculator, or Excel. HP 17BII+: TVM (Time Value of Money) two menus, TVM & BOND:  
 
-•  Learn about partial payments   $\&$   AI ([[Intra-Year Compounding and Day-Count|Accrued Interest]]) next class TVM – Time Value of Money, built on that formula and CF diagram  
+•  Learn about partial payments   $\&$   AI ([Accrued Interest](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md)) next class TVM – Time Value of Money, built on that formula and CF diagram  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9dd664fa4e217f83ff2662ea6915200c62625d3c40a59eadbb37e83af1a41e92.jpg)  
+ ![500](Attachments/500-898.jpg)  
 $$
 \begin{array}{c}{100.00=\frac{6.5}{(1+.066)^{1}}+\frac{6.5}{(1+.066)^{2}}}\\ {+\cdot\cdot\cdot+\frac{100}{(1+.066)^{4}}}\end{array}
 $$
  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0fbcae94a8f1164ec71fbb0a16666be77d809bbe543f25986b902c053ec31f63.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 BOND – Same as TVM (periodic payments) but allows partial ﬁrst period  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7d51d4d9c2b1ed34ee2d3df296968089fe3a868f8d39f9ef995c719faaf9b1c8.jpg)  
+ ![500](Attachments/500-899.jpg)  
 # TVM & BOND: Same Answer if Same CFs  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1d18f8dced990753649578f8dc7204804737f70f5f87329677fd2c010b21d50f.jpg)  
+ ![500](Attachments/500-839.jpg)  
 # 3 How Do We Use Yield? Where Does Yield Come From?  
 
 3.1 TVM for Simple 4-year Bond  
 
 Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8c41418ee168c1fee01fdbf9aa286bde6e2f3f412e26afdf563020fffd100b73.jpg)  
+ ![500](Attachments/500-932.jpg)  
 # Using TVM for 4 yr Bond  
 
 Four year ﬁxed-coupon bond:  
@@ -7441,11 +7441,11 @@ V. FV=100
 
 # • Then set  1   $P/Y R$   and    $E N D$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2ca5851ed55bffb7b295d7b12bb5ec1c4ac530ae84095be7cc1a460c8c563aef.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1d58cdc48b603c65e26741058603a599afefab9bdad56e15c034fa35b068936b.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f8a0fe1a1b7ddeb30dc5577497371b3f20f32ca0ba03c7e32e32b14c68143761.jpg)  
+ ![500](Attachments/500-930.jpg)  
 # 3.2 Understanding and Using Yield – Across PV, Coupon, Maturity  
 
 # Contents  
@@ -7462,15 +7462,15 @@ I.    $P V\downarrow\Rightarrow$  better value (“cheaper”):    $P V\downarro
 
 III. Yield is a way to think about “value”: High    $Y$   means high  Value  (low Price) First two are simple and obvious – formula & CF diagram • Third is deep and meaningful – allows us to use yield for all kinds of comparisons  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0c1ac7598c16be124c3d38a8fca21a47ecae97aa660057d1159a6476b83100fc.jpg)  
+ ![500](Attachments/500-898.jpg)  
 
 # TVM – Low Price & High Yield – In-Class Exercise 1  
 
 Starting with bond from above, what happens when price (PV) goes down? Start with 4 year bond (from above)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ad462592550d51fdaf0f365cd72341c740d6e94965be41d489fc552c19ba13d2.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4dce86ed00802aed3c7df25b4cc51a2ad34b49188c3b542c807438988cc9e269.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 •  Remember that    $\textstyle P V={\frac{F V}{1+y}}$    , so low price means high yield  
 
@@ -7481,11 +7481,11 @@ Starting with bond from above, what happens when price (PV) goes down? Start wit
 
 Same bond to start, but now increase the coupon (keeping PV the same) Continue with 4 year   $6.5\%$   coupon bond from above  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b67f3ef7876a2dac5e1259cb2749853f90652e80c274ba3dc491f06355b654de.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 What happens with a higher coupon? (  $7\%$   up from   $6.5\%$  ) Higher coupon means higher yield (more future CF)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ce22caff0b9426850d193c4fe87365cda9cd54b589ee687eaddb2accf758c605.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 •  Also simple: same price, coupon higher  $\rightarrow$  more each year •  Here up-front is the same, but the  $7\%$   coupon bond is truly “cheaper” because the coupon is higher. •  Yield trades-o! the up-front price versus the future coupon you earn.  
 
@@ -7502,13 +7502,13 @@ $$
 
 TVM or BOND converts prices/CFs (PV&PMT)  ↘ Yield:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7c4d255ec5f9e6d83d19ff0a375034fd3ebf9df502d296bf8e9b82cf324cd344.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c451995465672473164bc2b82c69a01abe00cbbcaf3ac4070edf8d0990f251f6.jpg)  
+ ![500](Attachments/500-929.jpg)  
 $\scriptstyle{\mathsf{P V}}=99.658$  
 # In-Class Exercise 3: Yield Compares Di!erent Bonds  
 
-Yield measures trade-o" between low price today (PV) vs CFs in the [[Futures Not Subject to Cash-And-Carry|futures]] • Comparable across bonds with di"erent coupon, price, maturity Let’s compare 3 bonds (in-class exercise using TVM) I. 4yr   $6.5\%$   coupon bond,   $\mathrm{P}=99.658$  ,    $y i e l d\,=\,6.60\%$  
+Yield measures trade-o" between low price today (PV) vs CFs in the [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) • Comparable across bonds with di"erent coupon, price, maturity Let’s compare 3 bonds (in-class exercise using TVM) I. 4yr   $6.5\%$   coupon bond,   $\mathrm{P}=99.658$  ,    $y i e l d\,=\,6.60\%$  
 
 II. 4yr   $4\%$   coupon bond, P = 91.113 – does low price o"set low coupon? yield = 6.60%  – low price  does  o"set low coupon  
 
@@ -7516,11 +7516,11 @@ III. 6yr 7% coupon bond,   $\mathrm{P}=101.930$  ,  yield = 6.60%
 
 Yield trades o" price today vs size of coupon   $\&$   maturity All these bonds are more-or-less same “value” (yield 6.60%)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/216ba547a29e933d4c2b5417147f240e77c14a42dc28bb7259d765b808ab614c.jpg)  
+ ![500](Attachments/500-836.jpg)  
 
 Here we can compare three di"erent bonds – same in value   $\&$   how much we earn  
 
-• Yield means discounting: converting between present and future cash –  Flat yield-to-maturity not perfect – Generally “[[The Vasicek Model|term structure]]” upward or downward sloping –  Example: UST 2yr 2.88%, 10yr 3.23% (upward) –  Later we look at “[[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]]” and “yield curve” –  But so much better than price alone – balances price vs coupon vs maturity  
+• Yield means discounting: converting between present and future cash –  Flat yield-to-maturity not perfect – Generally “[term structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md)” upward or downward sloping –  Example: UST 2yr 2.88%, 10yr 3.23% (upward) –  Later we look at “[term structure of interest rates](../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md)” and “yield curve” –  But so much better than price alone – balances price vs coupon vs maturity  
 
 Yield is better way to think of “market price” than dollar price  
 
@@ -7532,16 +7532,16 @@ IV.  4yr 5% bond,   $\mathrm{{P}=92.00}$  . What is the yield? Could this price 
 
 •  Let’s use  TVM to ask “what is yield?”Yield for this bond is 7.38% – Would never occur in real markets  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8b0d1838dc1ed1eeeabe9907f12ad048b10ef50c750771db9c75ba0858e14499.jpg)  
+ ![500](Attachments/500-783.jpg)  
 Yield-to-maturity isn’t perfect, because generally there will be a “term-structure” meaning that CFs with di"erent maturities are discounted at slightly di"erent  
 
-• UST yields quoted in slide: 5-oct-2018 quotes, 2yr 2.75s of 30-sep-20, 10yr 2.875s of 15-aug-28 But YTM is pretty good, and for now we will use YTM, ignoring any issues about [[The Vasicek Model|term structure]]  
+• UST yields quoted in slide: 5-oct-2018 quotes, 2yr 2.75s of 30-sep-20, 10yr 2.875s of 15-aug-28 But YTM is pretty good, and for now we will use YTM, ignoring any issues about [term structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md)  
 
-• Later in the course we will introduce “[[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]]” or “yield curve”  
+• Later in the course we will introduce “[term structure of interest rates](../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md)” or “yield curve”  
 
 # 3.3 Where Do We Get Yield?  
 
-3.3.1 Bonds – Markets give us Yield ([[PSET 7- Kohler|Discount Rate]], [[Lecture 1- Probability Distributions of Returns|Expected Return]])  
+3.3.1 Bonds – Markets give us Yield ([Discount Rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md), [Expected Return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md))  
 
 # Contents  
 
@@ -7558,17 +7558,17 @@ For bond CF diagram (down today, up tomorrow) unique solution PV  $\leftrightarr
 
 •  Yield often better, adjusts for low price, high coupon, long maturity  
 
-Solving for yield gives economic [[PSET 7- Kohler|discount rate]]  
+Solving for yield gives economic [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md)  
 $$
 p_{1}c_{1}+p_{2}c_{2}/(1+y)=m_{1}+m_{2}/(1+y)
 $$  
 
-• Yield is “Price” of income today vs tomorrow • Yield is “[[PSET 7- Kohler|Discount Rate]]” – fundamental to economic   $\&$   ﬁnancial analysis  
+• Yield is “Price” of income today vs tomorrow • Yield is “[Discount Rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md)” – fundamental to economic   $\&$   ﬁnancial analysis  
 # For Bonds: CFs, Quotes,   $\&\ \mathbf{PV}\longleftrightarrow\mathbf{Yfield}$  
 
 We get yields from market prices:  P  $P\rightarrow Y$   ↑  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/676fcceb0bd79112fdf25721b1d62f5e324d38eb1bb7bdd87039c438dea627c1.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 A number of questions:  
 
@@ -7584,7 +7584,7 @@ I. What are bonds & bond CFs? Discuss brieﬂy, return later in course
 
 II. How we apply PV ideas to bonds - same ideas, same formulae as now  
 
-III. [[Concluding Remarks|Real vs nominal]] CFs & discount rates  
+III. [Real vs nominal](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Concluding%20Remarks.md) CFs & discount rates  
 
 # 10yr UST CFs  
 
@@ -7596,19 +7596,19 @@ III. [[Concluding Remarks|Real vs nominal]] CFs & discount rates
 
 CF diagram just like any bond – ﬁts with TVM  
 
-• Project valuation: NPV  $\leftarrow$  CF + RADR (risk-adjusted [[PSET 7- Kohler|discount rate]])  
+• Project valuation: NPV  $\leftarrow$  CF + RADR (risk-adjusted [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md))  
 
 • Bond: Market price + CF  ↑ yield  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ebc94f93e7739336b6eba8046772021aba9ad05a81d23c4376994c9b16305932.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3c18b624c78009abf87fd5602004e995b79e49a012bb0b5037fedb17464aa8e8.jpg)  
+ ![500](Attachments/500-822.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
 # Bonds: Market Gives us Yield (Discount Rate)  
 
-For bonds, PV formula is:  $P V={\frac{P M T}{\left(1+y_{a b}\right)}}+{\frac{P M T}{\left(1+y_{a b}\right)^{2}}}+{\frac{P M T}{\left(1+y_{a b}\right)^{3}}}+{\frac{P M T}{\left(1+y_{a b}\right)^{4}}}+{\frac{100}{\left(1+y_{a b}\right)^{4}}}$  • Bond contract tells us  PMT ,  N ,  FV  =100 • Market gives us PV We can back out the yield ([[PSET 7- Kohler|discount rate]]) Market gives this to us, for free  
+For bonds, PV formula is:  $P V={\frac{P M T}{\left(1+y_{a b}\right)}}+{\frac{P M T}{\left(1+y_{a b}\right)^{2}}}+{\frac{P M T}{\left(1+y_{a b}\right)^{3}}}+{\frac{P M T}{\left(1+y_{a b}\right)^{4}}}+{\frac{100}{\left(1+y_{a b}\right)^{4}}}$  • Bond contract tells us  PMT ,  N ,  FV  =100 • Market gives us PV We can back out the yield ([discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md)) Market gives this to us, for free  
 # Change from 2016 to 2023  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53fa0fbe6cdb66c0c122391adff61ad5a790916ead1d29313f4f4b9c678d6ac3.jpg)  
+ ![500](Attachments/500-900.jpg)  
 
 • Yield    $\uparrow\Rightarrow$  cash today will grow to more tomorrow (10 yrs in this case) OR cash tomorrow worth less today  
 
@@ -7624,16 +7624,16 @@ Treasury Direct:  https://www.treasury direct.gov/GA-FI/FedInvest/select Securit
 
 For 3-apr-20, Yield using “BOND” menu and actual dates (Settle = 3-apr-20, Maturity  $=15$  -feb-30,  $\mathrm{coup}=1.5\%$  ,   $\mathrm{P}=108.4375$  ,  $\mathrm{Y}{=}0.617\%$  . Di"erent only by 1bp  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fa7a17bbbec044c89dd091d1ec7d5be658ce6d568e1e2a957ca299b092349d2b.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
 Re-done with prices updated from Treasury Direct (di"erent time of day than above, which are from WSJ, which no longer has history). And calculating actual A/A semi-annual bond yield:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/079e7190ae2b565a82b931a81a1334c7b961a74888c37043cab8848aaa622474.jpg)  
+ ![500](Attachments/500-802.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/73b4ad0fe5ac9e60626fcb21d912f05db01fbf13ceea32b6a6b3ecca5921cc22.jpg)  
+ ![500](Attachments/500-900.jpg)  
 Inﬂation Past Five Years  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/64480a2818c1754a2a31838128e23178603602a2cf1d234b546e436c2fc47ea8.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 In 2021 & 2022, inﬂation surged  
 
@@ -7641,7 +7641,7 @@ In 2021 & 2022, inﬂation surged
 
 • Highest in 40 years  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/246b2b7d90d4570838cf192ddeb51641329ab0b82e0564277f116affd2923174.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 When inﬂation  ↓ , y ↓  
 
@@ -7657,7 +7657,7 @@ Bonds have promised CFs:
 
 • For bonds: Market Value & CF    $\rightarrow$  yield  
 
-• Given CF & PV, back out yield (market  [[PSET 7- Kohler|discount rate]] ,  required rate of return )  
+• Given CF & PV, back out yield (market  [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) ,  required rate of return )  
 
 For projects, trying to ﬁgure out PV & NPV – need Yield  
 
@@ -7667,7 +7667,7 @@ For projects, trying to ﬁgure out PV & NPV – need Yield
 
 • Given CF & risk-adjusted yield, calculate PV & NPV  
 
-But where does Yield ([[PSET 7- Kohler|Discount Rate]], Required Rate) come from?  
+But where does Yield ([Discount Rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md), Required Rate) come from?  
 
 • If CFs were promised and certain, then discount using UST rate  
 
@@ -7678,11 +7678,11 @@ But where does Yield ([[PSET 7- Kohler|Discount Rate]], Required Rate) come from
 But we don’t yet know what “risk” is  
 # 4 Yield / Discount Rate, Holding Period Return, IRR  
 
-4.1 Yield / [[PSET 7- Kohler|Discount Rate]] ([[Lecture 1- Probability Distributions of Returns|Expected Return]], Required Return, Interest Rate)  
+4.1 Yield / [Discount Rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) ([Expected Return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md), Required Return, Interest Rate)  
 
 # Contents  
 
-Market Yield (For a Bond)  Is  the [[PSET 7- Kohler|Discount Rate]] Yield ,  [[PSET 7- Kohler|Discount Rate]] ,  [[Lecture 1- Probability Distributions of Returns|Expected Return]], Required Return, Interest Rate :  
+Market Yield (For a Bond)  Is  the [Discount Rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) Yield ,  [Discount Rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) ,  [Expected Return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md), Required Return, Interest Rate :  
 
 • Multiple names for the same thing  
 
@@ -7690,21 +7690,21 @@ Market Yield (For a Bond)  Is  the [[PSET 7- Kohler|Discount Rate]] Yield ,  [[P
 
 • More-or-less di"erent names for same concept  
 
-For bonds, markets give us the Yield / [[PSET 7- Kohler|Discount Rate]]  
+For bonds, markets give us the Yield / [Discount Rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md)  
 
-• Convert price to yield, and that is (pretty-much) the correct market [[PSET 7- Kohler|discount rate]]  
+• Convert price to yield, and that is (pretty-much) the correct market [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md)  
 
 For equities, for projects (corporate projects, Cost Beneﬁt Analysis)  
 
-• Back-out [[PSET 7- Kohler|discount rate]] from other methods  
+• Back-out [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) from other methods  
 
-• [[A Brief History of Investment Thought|Portfolio theory]] and CAPM ([[2. Forwards, Swaps, Futures, and Options|Capital Asset Pricing Model]]) most fundamental tools  
+• [Portfolio theory](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2011%20-%20Individual%20Investors-A%20Survey%20of%20Modern%20Investment%20Theory/A%20Brief%20History%20of%20Investment%20Thought.md) and CAPM ([Capital Asset Pricing Model](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md)) most fundamental tools  
 
 # 4.2 Holding Period Return  
 
 # Contents  
 
-Yield (Looking Forward) vs Return (Looking Backward) Yield ,  [[PSET 7- Kohler|Discount Rate]] ,  Interest Rate : Price for translating today to tomorrow  
+Yield (Looking Forward) vs Return (Looking Backward) Yield ,  [Discount Rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) ,  Interest Rate : Price for translating today to tomorrow  
 
 • Price set today  
 
@@ -7732,13 +7732,13 @@ $$
 99.658=\frac{6.5}{\left(1+y_{a b}\right)}+\frac{6.5}{\left(1+y_{a b}\right)^{2}}+\frac{6.5}{\left(1+y_{a b}\right)^{3}}+\frac{6.5}{\left(1+y_{a b}\right)^{4}}+\frac{100}{\left(1+y_{a b}\right)^{4}}
 $$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b0c8e5a5d6bf1913d4b04974f7b9ac255edcbb5e399e5b4d4f37eec490938803.jpg)  
+ ![500](Attachments/500-782.jpg)  
 
 Yield: what you  would  earn, holding until end:   $6.60\%$  
 
 Standard TVM calculation for yield  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8b1d4d8a798d058a87c643de08d4ef3a5000193280a32a61027f6b9d315524c1.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 Yield: would price be at year 3?  
 
@@ -7746,7 +7746,7 @@ Yield: would price be at year 3?
 
 How to calculate price at yr 3? Easy – TVM with N=1, yld=6.60%  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b21cd5c1705a6e07edd44df1a0d18c71028cd5a1a2fad370c6f8490ce013eab2.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 But what if sell at yr 3, Sell at   $\S$  98?  
 
@@ -7754,7 +7754,7 @@ But what if sell at yr 3, Sell at   $\S$  98?
 
 Again, use TVM to ask for yield, if PV=–98  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/987377698009b36cdd0ee83e527b6d3915540dea4d7480d9f157a46a58a7603c.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 Hold to year 3, sell for \$98, earn what?  
 
@@ -7764,12 +7764,12 @@ Hold to year 3, sell for \$98, earn what?
 
 Again, TVM but now FV = 98 (sell at 98 at yr 3)return=6.00%: What you earn by holding for 3yr and selling at   $\S98$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5682026684628cda37527740cbdee5702cc8692eeeadda62825357d3a9b7ffe5.jpg)  
-The idea of  Promised Yield  (or yield, or interest rate, or [[PSET 7- Kohler|discount rate]]) versus  [[Yield and Return|Holding Period Return]] is always di!cult to understand and to explain.  
+ ![500](Attachments/500-780.jpg)  
+The idea of  Promised Yield  (or yield, or interest rate, or [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md)) versus  [Holding Period Return](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Yield%20and%20Return.md) is always di!cult to understand and to explain.  
 
 The basic idea is:  
 
-•  Promised Yield  looks forward, what you are promised •  [[Yield and Return|Holding Period Return]]  looks backward, what you actually earned  
+•  Promised Yield  looks forward, what you are promised •  [Holding Period Return](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Yield%20and%20Return.md)  looks backward, what you actually earned  
 
 The question is, “Why are they ever di"erent” and there are two reasons:  
 
@@ -7777,9 +7777,9 @@ I. Promises get broken: you aren’t paid what was promised. Or, more generally,
 
 • But we don’t know how to deal with broken promises or uncertain CFs (a range of values). We get to that in a couple weeks.  
 
-II. For now the more important reason is that most bonds, most assets we look at, are a package of CFs spread over time with multiple yields (prices for future CFs). Prices change over time, and if we sell part-way, our [[Yield and Return|Holding Period Return]] (what we have earned) reﬂects the change in prices.  
+II. For now the more important reason is that most bonds, most assets we look at, are a package of CFs spread over time with multiple yields (prices for future CFs). Prices change over time, and if we sell part-way, our [Holding Period Return](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Yield%20and%20Return.md) (what we have earned) reﬂects the change in prices.  
 
-• For the simple analysis with the budget line we pretended there was just today vs tomorrow (c1 vs c2) and only one yield or [[Discount Factors|discount factor]] (y or 1+y). • In real life we deal with CFs spread over time: c1, c2, c3, ... . We have one yield or [[Discount Factors|discount factor]] for each: y1, y2, y3, ... .  
+• For the simple analysis with the budget line we pretended there was just today vs tomorrow (c1 vs c2) and only one yield or [discount factor](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) (y or 1+y). • In real life we deal with CFs spread over time: c1, c2, c3, ... . We have one yield or [discount factor](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) for each: y1, y2, y3, ... .  
 
 The slide above works through an example (4-yr bond) where we sell part-way through (after 3 years).  
 
@@ -7795,7 +7795,7 @@ $$
 P r i c e=\frac{P M T}{\left(1+y\right)}+\frac{P M T}{\left(1+y\right)^{2}}+\cdot\cdot\cdot+\frac{P M T}{\left(1+y\right)^{N}}+\frac{F V}{\left(1+y\right)^{N}}
 $$  
 
-• Bonds trade in markets, Price set by Market: Bond Price    $\longleftrightarrow$  Market [[PSET 7- Kohler|Discount Rate]] (Yield)  
+• Bonds trade in markets, Price set by Market: Bond Price    $\longleftrightarrow$  Market [Discount Rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) (Yield)  
 
 • Two ways of expressing the market price –   $\S$   or   $\%$  yld  
 
@@ -7810,7 +7810,7 @@ IRR generally used for non-traded projects , a tool for asking “is project val
 
 •  High  IRR    $\rightarrow$  thinking “high return, valuable, worth doing”  
 
-• Fundamental issue:    $C F_{0}$   is  not  the price or PV set by markets, simply the initial [[An Asset Allocation Primer|investment]]  
+• Fundamental issue:    $C F_{0}$   is  not  the price or PV set by markets, simply the initial [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 
 • Sometimes IRR gives us a reasonable answer, sometimes it is misleading  
 
@@ -7843,9 +7843,9 @@ Fundamental problem: IRR gives multiple solutions
 
 IRR asks wrong question.  
 
-Instead of IRR, use  market [[PSET 7- Kohler|discount rate]]  (yields) to calculate    $N P V$   (adding up CF today and PV of future CFs)  
+Instead of IRR, use  market [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md)  (yields) to calculate    $N P V$   (adding up CF today and PV of future CFs)  
 
-• Ask “What is market value   $(N P V)$   if  [[PSET 7- Kohler|discount rate]] (yield) were    $y'$  :  $N P V=C F_{0}+{\frac{C F_{1}}{\left(1+y\right)}}+{\frac{C F_{2}}{\left(1+y\right)^{2}}}+\cdot\cdot\cdot+{\frac{C F_{N}}{\left(1+y\right)^{N}}}$   $N P V=-100+{\frac{235}{\left(1+y\right)}}+{\frac{-136}{\left(1+y\right)^{2}}}$  
+• Ask “What is market value   $(N P V)$   if  [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) (yield) were    $y'$  :  $N P V=C F_{0}+{\frac{C F_{1}}{\left(1+y\right)}}+{\frac{C F_{2}}{\left(1+y\right)^{2}}}+\cdot\cdot\cdot+{\frac{C F_{N}}{\left(1+y\right)^{N}}}$   $N P V=-100+{\frac{235}{\left(1+y\right)}}+{\frac{-136}{\left(1+y\right)^{2}}}$  
 
 For our example: If    $y=10\%$  ,    $N P V=\S1.24$  . If    $y=2\%$  ,   $N P V=-\S0.33$  
 
@@ -7861,7 +7861,7 @@ I. Bond CFs are all negative today (pay a price) and positive tomorrow (earn cou
 
 II. Even more important, markets give us the price  
 
-• Using  market prices  to uncover  market [[PSET 7- Kohler|discount rate]]  (yield)  
+• Using  market prices  to uncover  market [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md)  (yield)  
 
 Bond Yield (Yield-to-Maturity):  
 $$
@@ -7870,9 +7870,9 @@ $$
 
 • Bond Price    $\longleftrightarrow$  Yield – single solution, only one yield for each price  
 
-Bonds trade in [[Financial Markets and Institutions Lecture Notes|Financial Markets]], Price set by Market  
+Bonds trade in [Financial Markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md), Price set by Market  
 
-•  ↔ Yield is Market [[PSET 7- Kohler|Discount Rate]] ([[Lecture 1- Probability Distributions of Returns|Expected Return]], Required Return)  
+•  ↔ Yield is Market [Discount Rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) ([Expected Return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md), Required Return)  
 # Bond & Money Markets  
 
 Lecture 2  
@@ -7892,18 +7892,18 @@ Contents Contents LaTeX Warning: Empty ‘the bibliography’ environment on inp
 • Remember Name Tents  
 # 2 Introduction – According to Cecchetti & Schoen holt z “Money, Banking, and Financial Markets”  
 
-2.1 [[A Practical Guide for Actuaries and other Business Professionals.|Financial Instruments]]  
+2.1 [Financial Instruments](../Financial%20Instruments/A%20Practical%20Guide%20for%20Actuaries%20and%20other%20Business%20Professionals..md)  
 
 # Contents  
 
-Six Parts of the [[Contemporary Financial Intermediation Notes|Financial System]] I. Money II.  [[A Practical Guide for Actuaries and other Business Professionals.|Financial Instruments]] III.  [[Financial Markets and Institutions Lecture Notes|Financial Markets]] IV.  [[Financial Markets and Institutions Lecture Notes|Financial Institutions]] V. Regulatory Agencies VI. Central Banks This course focuses on 2, 3, 4 • Cecchetti & Schoen holt z has a nice [[Overview of Financial Markets|overview]] – their Ch 3 (Ch1 in ebook)  
+Six Parts of the [Financial System](../Contemporary%20Financial%20Intermediation%20Notes/Contemporary%20Financial%20Intermediation%20Notes.md) I. Money II.  [Financial Instruments](../Financial%20Instruments/A%20Practical%20Guide%20for%20Actuaries%20and%20other%20Business%20Professionals..md) III.  [Financial Markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) IV.  [Financial Institutions](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) V. Regulatory Agencies VI. Central Banks This course focuses on 2, 3, 4 • Cecchetti & Schoen holt z has a nice [overview](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md) – their Ch 3 (Ch1 in ebook)  
 
 # Financial Instruments / Securities  
 
 • A ﬁnancial instrument is the legal obligation (contract) to transfer something of value at some future date –  Usually transfers of money (versus, say, labor contract which is about labor) • Very general deﬁnition • Easier to see in examples: –  Bond: government or corporation promises to pay ﬁxed cash ﬂows at speciﬁc dates –  Stock or equity: corporation promises to pay portion of proﬁts (if there are any) Can become very complex – but underlying ideas simple: • Transfer cash today vs tomorrow (discounting)  
 # Uses of Financial Instruments  
 
-I. Means of Payment • For purchase of goods and services • Bank deposit (checking account) is a ﬁnancial instrument. Use to pay for all kinds of things. • Electronic funds transfers, use bonds or stocks to pay II. Store of value • Transfer value from today into the future III. Transfer of risk – between people or over time • Options, swaps, [[Futures Not Subject to Cash-And-Carry|futures]]. [[Risk Sharing|Insurance contracts]]  
+I. Means of Payment • For purchase of goods and services • Bank deposit (checking account) is a ﬁnancial instrument. Use to pay for all kinds of things. • Electronic funds transfers, use bonds or stocks to pay II. Store of value • Transfer value from today into the future III. Transfer of risk – between people or over time • Options, swaps, [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md). [Insurance contracts](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Risk%20Sharing.md)  
 
 # Examples: Financial Instruments We Care About  
 
@@ -7929,7 +7929,7 @@ IV. Bank demand deposits (checking account) – loan to a bank
 
 • Corporation promises to pay back, but may break promise  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cb58433df848b5d97994a7be6aa15f5c27b622e221874cb9c5e41816ee390bb8.jpg)  
+ ![500](Attachments/500-931.jpg)  
 # Good Example of “Financial Instrument”  
 
 • Promise to pay you something of value –  Usually pays “money” (dollars) – but not always – gold clause in bonds prior to 1933  
@@ -7938,7 +7938,7 @@ IV. Bank demand deposits (checking account) – loan to a bank
 
 • Can sometimes use as payment –  Government bonds OK –  Corporate bonds poor –  Why? Need to study company to decide how valuable, whether company will pay in future –  Not good as “money” – whatever that is  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c440a1a481e8ec06f57f2fdad5add1eccf30ada4a439f22d313180f55f186565.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 # Equity  
 
@@ -7952,12 +7952,12 @@ IV. Bank demand deposits (checking account) – loan to a bank
 
 • Buying and selling di!erent currencies  
 
-• Think of buying US dollars [[Forwards and Futures Notes|currency]], selling British pounds –  Buy US \$, Sell UK £ –  Sell US \$, Buy Chinese ¥ (Yuan)
+• Think of buying US dollars [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md), selling British pounds –  Buy US \$, Sell UK £ –  Sell US \$, Buy Chinese ¥ (Yuan)
 
  • As I have described, a ﬁnancial transaction
 
- • Actually, most FX transactions are instruments –  Agree to transfer [[Forwards and Futures Notes|currency]] in future – maybe 2 days, often 1 month or 6 months in the future (FX forward)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ca8ca623008881b2760b91b40aae2889b6d49f7304d663678b1b120cd579a93.jpg)  
+ • Actually, most FX transactions are instruments –  Agree to transfer [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) in future – maybe 2 days, often 1 month or 6 months in the future (FX forward)  
+ ![500](Attachments/500-932.jpg)  
 
 # 2.2 Markets  
 
@@ -7976,30 +7976,30 @@ occupation after our theoretical training, how big a part of our working life we
 
 Cecchetti & Schoen holt z p 57  
 
-• [[Primary vs. Secondary Commodities|Primary vs Secondary]]  
+• [Primary vs Secondary](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Primary%20vs.%20Secondary%20Commodities.md)  
 
 –  Primary: governments or companies sell new securities –  Secondary: we all buy and sell existing securities  
 
 • Centralized (auction) vs Over-the-Counter  
 
-–  Centralized: Such as [[Futures Not Subject to Cash-And-Carry|futures]] pits, where everyone gets together and prices set, usually by some [[Chapter 2 Securities Markets|auction process]] –  btw, I highly recommend the Eddie Murphy / Dan Akroyd 1983 movie “Trading Places” – good depiction of pit trading –  Over-the-Counter: individualized transactions between dealers and customers – US Treasury bonds  
+–  Centralized: Such as [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) pits, where everyone gets together and prices set, usually by some [auction process](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%202%20Securities%20Markets.md) –  btw, I highly recommend the Eddie Murphy / Dan Akroyd 1983 movie “Trading Places” – good depiction of pit trading –  Over-the-Counter: individualized transactions between dealers and customers – US Treasury bonds  
 
 • Underlying vs Derivative  
 
-–  Underlying: instrument based on an asset and promised CFs –  Derivative: based on some other price. Example: [[Futures Not Subject to Cash-And-Carry|futures]], option  
+–  Underlying: instrument based on an asset and promised CFs –  Derivative: based on some other price. Example: [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md), option  
 
 # Primary Markets – Issuing  
 
 Issuers raise money by Issuing Securities  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e14c85c5bf7cae36f8438971592d33f4ee01d617e6654eff24aeb9a0ad2657d8.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 More details in week 5 or 6  
 # Secondary Market: Markets, Investors, Securities  
 
-[[Primary Issuance and Secondary Resale Markets|Secondary Market]]: major locus or venue for investors to save and invest Investors Security / Asset Class  
+[Secondary Market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Primary%20Issuance%20and%20Secondary%20Resale%20Markets.md): major locus or venue for investors to save and invest Investors Security / Asset Class  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/14167f1d8afdab615313637a7311a09646319bfc36148c0b84cd729160d0c96f.jpg)  
+ ![500](Attachments/500-900.jpg)  
 
 More details in week 5 or 6  
 
@@ -8009,33 +8009,33 @@ Cecchetti & Schoen holt z pp 66-67
 
 I. Banks  
 
-• Textbook  Depository Institutions  (1),  Finance Companies  (5) • I group these together because they both take short-[[Short-Term Rates and the Transition from LIBOR|term loans]] from the public and convert to long-term. Important regulatory di!erences, but economic & ﬁnancial functions similar. Maybe also GSEs. •  Finance Companies  often thought of as “shadow [[HKS The Banking Industry|banking]]”  
+• Textbook  Depository Institutions  (1),  Finance Companies  (5) • I group these together because they both take short-[term loans](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) from the public and convert to long-term. Important regulatory di!erences, but economic & ﬁnancial functions similar. Maybe also GSEs. •  Finance Companies  often thought of as “shadow [banking](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md)”  
 
 II.  Broker Dealers or Securities Firms • Textbook  Securities Firms  (4)  
 
-III.  [[An Asset Allocation Primer|Investment]] Managers and Pensions  
+III.  [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Managers and Pensions  
 
-• Textbook  Pension Funds  (3) • [[An Asset Allocation Primer|Investment]] management terribly important, and under-represented in texts  
+• Textbook  Pension Funds  (3) • [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) management terribly important, and under-represented in texts  
 
 IV. Insurance Companies • Textbook  Insurance Companies  (2)  
 
 V. Central Banks  
 # 3 Introduction to Asset Classes & Securities  
 
-3.1 [[Overview of Financial Markets|Overview]] – Bodie, Kane, Marcus Chapter 2  
+3.1 [Overview](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md) – Bodie, Kane, Marcus Chapter 2  
 
 Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/064ca262b6f254fa6296e9ee0dc9c7d0104f45648ab9b47e95359f86bd2a9362.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d6872491624373b3ef33b319e0b5fc7ebbc6904140c5c543671d9961a16a7130.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c532a84a27bf28dbe4fb3beecf0af1f4cb0e0de5025e93b031d3d3998a5b54e0.jpg)  
+ ![500](Attachments/500-900.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7fe904fcc0cda5d53e5c99782a7a5cc3360b51a8ee6421d0c8cc8c05170078dc.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 Asset Classes – Other We won’t cover this (not enough time) but include for completeness  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1803ad4cb7a50b46452ef5c13c3640067926a39afe57bb624a7e11a06d84f0dd.jpg)  
+ ![500](Attachments/500-931.jpg)  
 # 3.2 Introduction to Fixed Income  
 
 # Contents  
@@ -8085,7 +8085,7 @@ Covenants (restrictions on behavior)
 
 # UST or FIS are simple examples  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e6473d33a7b0db5231962d761987858aa78448decbaee2edd4f9d48ae5506878.jpg)  
+ ![500](Attachments/500-931.jpg)  
 
 PV=99.658  
 # Seniority, Security, Se curit iz ation  
@@ -8108,17 +8108,17 @@ Equipment trust certiﬁcate
 
 Se curit iz ation  
 
-• [[Asset Backed Commercial Paper Understanding the Risks|Asset-backed]] (eg car loans, credit-card loans)  
+• [Asset-backed](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Asset%20Backed%20Commercial%20Paper%20Understanding%20the%20Risks.md) (eg car loans, credit-card loans)  
 
 • Mortgage-backed  
 
 # Variety of Bonds  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6e0375d0e86a1cc4acf0720fb6ba761ea4299311f7a4a48aa1a6a9dda069732a.jpg)  
+ ![500](Attachments/500-900.jpg)  
 
 Sample Terms (JC Penny)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d8493ff2e9b8abf0e97727c0b4bfb56aecced3fb30c1a6c9d1b7e3b11027b687.jpg)  
+ ![500](Attachments/500-932.jpg)  
 # 4 TVM & PV as Framework for Fixed Income  
 
 # Contents  
@@ -8152,7 +8152,7 @@ $$
 
 • Note – have not used indi!erence curves – works for everyone  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7668c7681d1547e1b4182501d5ed589cdc74b85823d2dca9fb09c76c931436fa.jpg)  
+ ![500](Attachments/500-931.jpg)  
 # Right Hand Side Gives PV, FV & Discounting  
 $$
 \begin{array}{r l}{{R H S:}}&{{P V:\:m_{1}+m_{2}/(1+y)}}\\ {{}}&{{F V:\:(1+y)\cdot m_{1}+m_{2}}}\end{array}
@@ -8182,7 +8182,7 @@ I. Unpacking the budget constraint: PV, FV, nominal & real rates
 
 •  PV : So let’s start by looking at the RHS or the budget constraint:    $p_{1}c_{1}+p_{2}c_{2}/(1+$   $y)\,=\,m_{1}+m_{2}/(1+y)$  . The RHS says that the income for the budget line is the sum  $m_{1}+m_{2}/(1+y)$  . We call this the Present Value, and it is the correct measure of income when we look at any set of CFs across time – we always need to discount future amounts (future CFs) back to today by   $1/(1\!+\!y)$  .  
 
-–  This is the most important, maybe the only important thing, you will learn in this course: how to calculate and think about PVs. –  PVs matter and only PVs matter. Nothing else you learn in ﬁnance is as important as this. In fact, there really is not much else in ﬁnance except PV –  Three-quarters of this course is simply calculating    $m_{1}+m_{2}/(1+y)$  . This becomes very complicated: What are the CFs? When are the CFs? What is the rate    $y$  ? How do we quote the [[PSET 7- Kohler|discount rate]]    $y$   and how do we calculate the discounting   $1/(1\!+\!y)$  ? How do we get an appropriate rate? –  But it all comes down to PV:    $m_{1}+m_{2}/(1+y)$  .  
+–  This is the most important, maybe the only important thing, you will learn in this course: how to calculate and think about PVs. –  PVs matter and only PVs matter. Nothing else you learn in ﬁnance is as important as this. In fact, there really is not much else in ﬁnance except PV –  Three-quarters of this course is simply calculating    $m_{1}+m_{2}/(1+y)$  . This becomes very complicated: What are the CFs? When are the CFs? What is the rate    $y$  ? How do we quote the [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md)    $y$   and how do we calculate the discounting   $1/(1\!+\!y)$  ? How do we get an appropriate rate? –  But it all comes down to PV:    $m_{1}+m_{2}/(1+y)$  .  
 
 •  FV : the expression    $m_{1}+m_{2}/(1+y)$   expresses income in terms of period-1 money. But we could also write the budget line in terms of period-2 money:  
 $$
@@ -8192,28 +8192,28 @@ Now the RHS is the FV:    $m_{1}\cdot(1+y)+m_{2}$  . FV is in terms of tomorrow�
 
 II. The term (1+y) or    $\sqrt[1]{1\!+\!y}$   is the price between today and tomorrow.  
 
-• For every   $\S1$   today, we get 1+y next period. For one year, y will be something like 0.04 or  $4\%$  . • The term    $\scriptstyle{1\mathord{\left/{\vphantom{11}}\right.\kern-\nulldelimiterspace}1+y}$   is called the  [[Discount Factors|discount factor]] : it tells us how much   $\S1$   next period is worth today (it will be less than   $\S1$  , discounted) • y is called the interest rate, [[PSET 7- Kohler|discount rate]], yield, yield-to-maturity, IRR (internal rate or return), [[Lecture 1- Probability Distributions of Returns|expected return]]. These all mean slightly di!erent things.  
+• For every   $\S1$   today, we get 1+y next period. For one year, y will be something like 0.04 or  $4\%$  . • The term    $\scriptstyle{1\mathord{\left/{\vphantom{11}}\right.\kern-\nulldelimiterspace}1+y}$   is called the  [discount factor](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) : it tells us how much   $\S1$   next period is worth today (it will be less than   $\S1$  , discounted) • y is called the interest rate, [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md), yield, yield-to-maturity, IRR (internal rate or return), [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md). These all mean slightly di!erent things.  
 
 # 5 Bond Market – Size and Variety  
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eaa0151040565e17aed9ed0b649db4ab9fe06e21ba24a666c983a8989f121cf5.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
 Bond market is for 2017, Corporates, MBS, ABS, UST, Muni, from sifma: https://www.sifma.org/resources/research/bond-chart/ Equity market is January 2018, quoted from Barrons.  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ffab1f3254a55c41ec8c607f1f233b2ce37c8033be09c017c6a4beba88205f9b.jpg)  
+ ![500](Attachments/500-932.jpg)  
 Bond Market and Sub-Sectors  
 
 SIFMA  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f916551ae3d1f6594aae1ef158419bbcd3befaec0fc099a7a13344c8cd4800b1.jpg)  
+ ![500](Attachments/500-819.jpg)  
 # 5.1 US Treasuries  
 
 # Contents  
 
 Focus on US Treasury Market to Start  
 
-[[Credit Market Homework 1|US Treasuries]] are  known  CFs – promised CFs certain to be paid For valuation, etc., focus on  only  TVM, no uncertainty Learn various tools  
+[US Treasuries](../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Homework%201.md) are  known  CFs – promised CFs certain to be paid For valuation, etc., focus on  only  TVM, no uncertainty Learn various tools  
 
 • PV, FV, discounting  
 
@@ -8237,21 +8237,21 @@ NOTES AND BONDS
 
 • Coupon paid every s6 mths (\$1.50 every 6 mths)  
 
-New [[Credit Market Homework 1|US Treasuries]] Issued Regularly Col 1: Announcement Date – new issues trade When Issued (WI) Col 2: Auction Date – coupon set, trade normally Col 3: Settle Date – cash & bonds change hands (normally T+1)  
+New [US Treasuries](../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Homework%201.md) Issued Regularly Col 1: Announcement Date – new issues trade When Issued (WI) Col 2: Auction Date – coupon set, trade normally Col 3: Settle Date – cash & bonds change hands (normally T+1)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c6e782a86a42da7c265304a1dc8375f86ee9ce9fb747abeb8994db3b9ffc6c68.jpg)  
+ ![500](Attachments/500-900.jpg)  
 
 Week of April 5, 2022 is busy:  
 
 • Bunch of bills issued  
 
 • New 3-yr note issued • 10-yr note and 30-yr bond re-opened  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ca9c64a900785215789071573cffc35dd62deb89034f36b0aa19357b752cc84a.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
 How do I know the   $8.125\%$   of 15-may-21 was probably issued in 2009?  
 
 • It is an old bond, either 2, 5, 10, or 30. • 5-year rates have not been 8.125% for the past ﬁve years, so can’t be an old 5-year • 30-year rates were about 8.125% in May 1991, so it was probably issued then • Also, 10 & 30yr bonds (maybe 5s? - I don’t think so) are issued with maturity date 15th  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6dcbd62a1f6e67b8b92f5591ed84f49a71fb81afe2c406e47f2f9a66cca64fa3.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
 What is Bid & Asked?  
 
@@ -8262,20 +8262,20 @@ Auction list from
 https://www.treasury.gov/resource-center/data-chart-center/quarterly-refunding/Documents/auctions.pdf  
 # 5.2 Other Bonds – US Agency, Other Gov’t Bonds (UK, Germany, Japan)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/246b80b580ebc990f6ff89fafcf07a38bc62535225c9498f21a9c95506de34de.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
 GSEs: Federal Home Loan Banks, Fannie Mae, Freddie Mac, Farmer Mac, Farm Credit System, the Financing Corporation, and the Resolution Funding Corporation.  
 
 From Federal Reserve Flow of Funds (z1):  
 
-• Table L.103 end-2017 [[Analysis of Fixed Income Securities|Debt Securities]] (GSE issues): \$6,716.3bn • Table L.211 end-2017: \$8,867.2bn  Total of on-budget and o!-budge  $\S$  24.4bn  Budget Agencies such as Tennessee Valley Authority, Ex-Im Bank. Considered “onbudget” \$6,716.3bn  Government Sponsored Enterprises (GSEs). Considered “o!-budget” or “o! balance sheet”  
+• Table L.103 end-2017 [Debt Securities](../Fixed%20Income%20Asset%20Pricing/Analysis%20of%20Fixed%20Income%20Securities.md) (GSE issues): \$6,716.3bn • Table L.211 end-2017: \$8,867.2bn  Total of on-budget and o!-budge  $\S$  24.4bn  Budget Agencies such as Tennessee Valley Authority, Ex-Im Bank. Considered “onbudget” \$6,716.3bn  Government Sponsored Enterprises (GSEs). Considered “o!-budget” or “o! balance sheet”  
 
 \$2,126.6bn  Mortgage-backed pools from Agencies & GSEs. Considered “o!-budget”  
 
 This compares with about \$12trn UST debt held by the public (and banks, etc). (from spread-sheet that takes apart FoF L.210 - \$14.9 marketable, \$2.2 non-marketable (  $\S$  17.1 total), but \$2.4 held by Fed and   $\S2.2$   retirement funds)  
 
 The distinction between “on-budget” (an o"cial obligation of the federal government and included in o"cial deﬁcit numbers) and “o!-budget” (not o"cially an obligation and not included in o"cial deﬁcit numbers) is pretty artiﬁcial. Everybody kind-of knew that GSE debt was backed by the US government and we saw in 2008 that that belief was correct. Fannie and Freddie Mac (the two largest GSEs, involved in mortgage ﬁnancing) were supposedly public companies but on September 7, 2008 the government took them over and explicitly guaranteed their debt.  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ba315a8f86b54e0c06c60de7fb7b7b73714934032de40b5e3a3769750b53a91e.jpg)  
+ ![500](Attachments/500-793.jpg)  
 
 For 5-oct-18, From http://www.wsj.com/mdc/public/page/2_3022-bond b nch mr k.html?mod  $=$  topnav_2_3024
 
@@ -8293,7 +8293,7 @@ The Agency bonds are between the UST and the Corporates in terms of chance of de
 
 You should earn extra when there is a chance you won’t get the CFs you have been promised, and a higher yield reﬂects the higher amount you expect to earn. We will discuss default and risk-adjusted discounting and risk-adjusted yields in detail, but for now we will just look at the quoted yields and note that the US Agency yield is higher than the UST and lower than the Intermediate Corporate.  
 
-The spread – the di!erence between yields – is the appropriate measure of [[Default Risk and Credit Derivatives 183|default risk]] as we will see in a week or two. The UST yield is the pure TVM [[PSET 7- Kohler|discount rate]], reﬂecting the pure trade-o! between today and tomorrow for known CFs. The Agency and Intermediate Corporate also have a component that reﬂects the uncertainty (the fact you might not get your CF). The higher yield or [[PSET 7- Kohler|discount rate]] is the risk-adjusted [[PSET 7- Kohler|discount rate]]. The di!erence or spread is a measure of the [[Default Risk and Credit Derivatives 183|default risk]].  
+The spread – the di!erence between yields – is the appropriate measure of [default risk](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/Default%20Risk%20and%20Credit%20Derivatives%20183.md) as we will see in a week or two. The UST yield is the pure TVM [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md), reﬂecting the pure trade-o! between today and tomorrow for known CFs. The Agency and Intermediate Corporate also have a component that reﬂects the uncertainty (the fact you might not get your CF). The higher yield or [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) is the risk-adjusted [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md). The di!erence or spread is a measure of the [default risk](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/Default%20Risk%20and%20Credit%20Derivatives%20183.md).  
 # Other Government Bonds  
 
 Every developed and many (most) developing nations have bonds Ideas are virtually all the same:  
@@ -8312,26 +8312,26 @@ List of some:
 
 • Italy BTPs  
 
-My “[[A Practical Guide to Bonds and Swaps|Practical Guide]] to Bonds and Swaps” (https://papers.ssrn.com/abstract  $,=$  1554029) covers the various conventions. Many, however, have changed and are now A/A.  
+My “[Practical Guide](../Financial%20Engineering/A%20Practical%20Guide%20to%20Bonds%20and%20Swaps.md) to Bonds and Swaps” (https://papers.ssrn.com/abstract  $,=$  1554029) covers the various conventions. Many, however, have changed and are now A/A.  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5af5928d647ed252c9c7627a22fab752e49bdea2fca5b874e28b498dd2b27c95.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
 Sources for conventions:  
 
-• http://treasury today.com/2001/11/[[Intra-Year Compounding and Day-Count|day-count]]-conventions  
+• http://treasury today.com/2001/11/[day-count](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md)-conventions  
 
 –  I’m not sure they are right in their deﬁnition of A/365(F) and A/365 (that they say is same as A/A). I think maybe there is some confusion between mm conventions (A/360 and A/365) and bond conventions (A/365(F) and A/A) –  They say that Eurobonds have switched from 30E/360 to A/A  
 
 • For Canadians: http://iiac.ca/wp-content/uploads/Canadian-Conventions-in-Fixed-Income-Markets1.1.pdf  
 
-• For German Bunds: http://help.derivative [[Arbitrage Pricing of Derivatives|pricing]].com/1296.htm • Wide variety: http://help.derivative [[Arbitrage Pricing of Derivatives|pricing]].com/1571.htm  
+• For German Bunds: http://help.derivative [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md).com/1296.htm • Wide variety: http://help.derivative [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md).com/1571.htm  
 # 6 Money Markets  
 
 # 6.1 Overview  
 
 # Contents  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a531f077c202be57b5af8f7f58fa357586b7e39db370c3a4ed1638e91eca18b8.jpg)  
+ ![500](Attachments/500-900.jpg)  
 
 # Money Markets – Short-Term Debt  
 
@@ -8343,11 +8343,11 @@ From Fed Reserve Flow of Funds (z1):
 
 • Table L.210, 2018:Q2. Total Marketable UST \$14,933.7bn, TBills \$2,157.4bn   $(14.4\%)$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/48f4829f58b1a4046e1f85b573c8b2eb949294141302ce19bfb092abfc97e302.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
 For comparison, total US bond market in 2017 \$41,020bn  
 
-These numbers are from a table in Bodie, Kane, Marcus. They give source as “ Flow of Funds Accounts ” from the Board of Governors of [[Monetary Policy with Abundantreserves|the Fed]] (the z1 report). I started tracking down and the relevant tables appear to be L.205-L.210. I couldn’t ﬁnd the split between large & small time deposits but otherwise rough match.  
+These numbers are from a table in Bodie, Kane, Marcus. They give source as “ Flow of Funds Accounts ” from the Board of Governors of [the Fed](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Monetary%20Policy%20with%20Abundantreserves.md) (the z1 report). I started tracking down and the relevant tables appear to be L.205-L.210. I couldn’t ﬁnd the split between large & small time deposits but otherwise rough match.  
 # 6.2 Types of Securities  
 
 # Contents  
@@ -8370,21 +8370,21 @@ Certiﬁcate of Deposit (CD, banks)
 
 • Add-on yield. Actual coupon = Quote \* AD/360 • Can be small (for you & me) or large (  $>$  \$100,000)  
 
-Bank Deposits – [[Characteristics of the Eurodollar Market|Eurodollar Deposits]] (banks)  
+Bank Deposits – [Eurodollar Deposits](../International%20Finance/Characteristics%20of%20the%20Eurodollar%20Market.md) (banks)  
 
 • Basically same as CD • LIBOR – London Interbank O"ered Rate: 11am (London) quote for Eurodollar deposit  
 
 #  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/929981c01274042f86b0e89675fefcea6454884d64344177c7af1a5ee9bb4259.jpg)  
+ ![500](Attachments/500-781.jpg)  
 
 The trick with money-market securities, as with any ﬁxed-income security, is to ﬁgure out the CFs. Then we can PV or do whatever we need to.  
 
 Virtually all money-market instruments (at least those with 1 year or less maturity) have a single future CF, with a diagram like the Eurodollar deposit above. A more detailed table (for US money-market instruments) follows. I know some of the quoting conventions but don’t know others.  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8ee3c23ec55f35d8eca9f6859bafa45b01cd0d77fa83e5ad1608d12e34202781.jpg)  
+ ![500](Attachments/500-932.jpg)  
 
 # Some Additional Short-Term Debt  
 
-[[Breaking the Buck|Money Market Funds]] • Individuals and corporations put money into MMF • MMF then buys other [[When Safe Proved Risky Commercial Paper During the Financial Crisis of 2007 2009|short-term debt]] (such as T-Bills or CP) • We use them like checking (deposit, bank accounts) • History: developed in response to Req-Q restrictions Checking Account (bank deposit) • Usually think of this as “money” • But better to think of lending money to a bank  
+[Money Market Funds](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-%20Bank%20Runs/Breaking%20the%20Buck.md) • Individuals and corporations put money into MMF • MMF then buys other [short-term debt](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/When%20Safe%20Proved%20Risky%20Commercial%20Paper%20During%20the%20Financial%20Crisis%20of%202007%202009.md) (such as T-Bills or CP) • We use them like checking (deposit, bank accounts) • History: developed in response to Req-Q restrictions Checking Account (bank deposit) • Usually think of this as “money” • But better to think of lending money to a bank  
 
 # References  

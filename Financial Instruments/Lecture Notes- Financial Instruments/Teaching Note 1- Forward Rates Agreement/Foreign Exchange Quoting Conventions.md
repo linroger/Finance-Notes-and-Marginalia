@@ -20,44 +20,44 @@ key_concepts:
   - Interest rate parity
 ---
 
-- [[Ch1 [[Squam Lake Group Introduction|Introduction]] to Derivative Markets]]
-- [[Chapter 6 (Hull) [[Key Rates O1s Durations and Hedging|Hedging]] Strategies with [[Forwards and Futures|Forwards]]]]
-- [[Deriving [[A Primer on Currency Derivatives|Forward Exchange Rate]] Numerical Example]]
-- [[Primary vs. [[Primary vs. Secondary Commodities|Secondary Commodities]]]]
-- [[Foreign Exchange Quoting Conventions]]
-- [[Forward Contracts on Exchange Rates]]
-- [[[[Forward and Futures Contracts|Forwards and Futures]] Notes]]
-- [[[[Key Rates O1s Durations and Hedging|Hedging]] Strategies with [[Forwards and Futures|Forwards]]]]
-- [[[[A Practical Guide for Actuaries and other Business Professionals.|Financial Instruments]]/Lecture Notes/Teaching Note 1- Forward Rates Agreement/[[Interest Rate Quotations|Interest Rates]],  Carry Trades,  and Exchange Rate Movements]]
-- [[Teaching Note 1Forward Rates Agreement]]
+- [Introduction](Ch1%20[[Squam%20Lake%20Group%20Introduction) to Derivative Markets]]
+- [Hedging](Chapter%206%20(Hull)%20[[Key%20Rates%20O1s%20Durations%20and%20Hedging) Strategies with [Forwards](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md)]]
+- [Forward Exchange Rate](Deriving%20[[A%20Primer%20on%20Currency%20Derivatives) Numerical Example]]
+- [Secondary Commodities](Primary%20vs.%20[[Primary%20vs.%20Secondary%20Commodities)]]
+- [Foreign Exchange Quoting Conventions](.md)
+- [Forward Contracts on Exchange Rates](Forward%20Contracts%20on%20Exchange%20Rates.md)
+- [Forwards and Futures]([[Forward%20and%20Futures%20Contracts) Notes]]
+- [Hedging]([[Key%20Rates%20O1s%20Durations%20and%20Hedging) Strategies with [Forwards](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md)]]
+- [Financial Instruments]([[A%20Practical%20Guide%20for%20Actuaries%20and%20other%20Business%20Professionals.)/Lecture Notes/Teaching Note 1- Forward Rates Agreement/[Interest Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md),  Carry Trades,  and Exchange Rate Movements]]
+- [Teaching Note 1Forward Rates Agreement](Teaching%20Note%201Forward%20Rates%20Agreement)
 # Foreign Exchange Quoting Conventions
-- The base [[Forwards and Futures Notes|currency]] is the first [[Forwards and Futures Notes|currency]] shown in a foreign exchange quotation. The second [[Forwards and Futures Notes|currency]] in the quotation is called the quote [[Forwards and Futures Notes|currency]],  or counter [[Forwards and Futures Notes|currency]].
-- Foreign exchange quotations are always presented as a [[Forwards and Futures Notes|currency]] pair in the following format: XXX/YYY e.g. EUR/USD. This is because,  when you exchange [[Forwards and Futures Notes|currency]],  you’re selling one [[Forwards and Futures Notes|currency]] and buying another.
-- The exchange rate represents how much quote [[Forwards and Futures Notes|currency]] you need to sell in order to buy one unit of the base [[Forwards and Futures Notes|currency]].
-[[[Forwards and Futures Notes|Currency]] Forward]([[Forwards and Futures Notes|Currency]]%20Forward.md)
+- The base [currency](Forwards%20and%20Futures%20Notes.md) is the first [currency](Forwards%20and%20Futures%20Notes.md) shown in a foreign exchange quotation. The second [currency](Forwards%20and%20Futures%20Notes.md) in the quotation is called the quote [currency](Forwards%20and%20Futures%20Notes.md),  or counter [currency](Forwards%20and%20Futures%20Notes.md).
+- Foreign exchange quotations are always presented as a [currency](Forwards%20and%20Futures%20Notes.md) pair in the following format: XXX/YYY e.g. EUR/USD. This is because,  when you exchange [currency](Forwards%20and%20Futures%20Notes.md),  you’re selling one [currency](Forwards%20and%20Futures%20Notes.md) and buying another.
+- The exchange rate represents how much quote [currency](Forwards%20and%20Futures%20Notes.md) you need to sell in order to buy one unit of the base [currency](Forwards%20and%20Futures%20Notes.md).
+[Currency]([Forwards%20and%20Futures%20Notes) Forward]([Currency](Forwards%20and%20Futures%20Notes.md)%20Forward.md)
 ### FX SPOT RATE$S_0$
-- The [[Foreign Exchange Quoting Conventions|FX spot rate]], $S_0 = FOR-DOM$,  represents the number of units of domestic [[Forwards and Futures Notes|currency]] needed to buy one unit of foreign [[Forwards and Futures Notes|currency]] at time 0.
-- A notional of$N$units of foreign [[Forwards and Futures Notes|currency]] is equal to$N*S_t$units of domestic [[Forwards and Futures Notes|currency]]
-- The domestic [[Forwards and Futures Notes|currency]] is also referred to as the numeraire [[Forwards and Futures Notes|currency]] and the foreign one as the base [[Forwards and Futures Notes|currency]]
+- The [FX spot rate](.md), $S_0 = FOR-DOM$,  represents the number of units of domestic [currency](Forwards%20and%20Futures%20Notes.md) needed to buy one unit of foreign [currency](Forwards%20and%20Futures%20Notes.md) at time 0.
+- A notional of$N$units of foreign [currency](Forwards%20and%20Futures%20Notes.md) is equal to$N*S_t$units of domestic [currency](Forwards%20and%20Futures%20Notes.md)
+- The domestic [currency](Forwards%20and%20Futures%20Notes.md) is also referred to as the numeraire [currency](Forwards%20and%20Futures%20Notes.md) and the foreign one as the base [currency](Forwards%20and%20Futures%20Notes.md)
 ### FX OUTRIGHT FORWARD RATE$F(0, T)$
-1. The [[A Primer on Currency Derivatives|forward exchange rate]] contract trades at time$t=0$at zero cost and leads to an exchange of notionals at time$T$at the pre-specified outright [[Forward Points in Currency|forward rate]]$F(0, T)$.
-1. At time$t$,  the foreign notional amount$N$is exchanged against an amount of$N*F(0, T)$domestic [[Forwards and Futures Notes|currency]] units. 
-	1. - For example,  1, 000, 000 EUR may be exchanged against 1, 390, 000 USD assuming an outright [[Forward Points in Currency|forward rate]] of 1.3900 EUR-USD. 
-1. The outright forward is related to the [[Foreign Exchange Quoting Conventions|FX spot rate]] via the spot–[[Foreign Exchange Quoting Conventions|interest rate parity]], $$F(0, T) = S \cdot e^{(r_{DOM}-r_{FOR})\tau}$$
+1. The [forward exchange rate](../../../Financial%20Engineering/A%20Primer%20on%20Currency%20Derivatives.md) contract trades at time$t=0$at zero cost and leads to an exchange of notionals at time$T$at the pre-specified outright [forward rate](../../../Clippings/Forward%20Points%20in%20Currency.md)$F(0, T)$.
+1. At time$t$,  the foreign notional amount$N$is exchanged against an amount of$N*F(0, T)$domestic [currency](Forwards%20and%20Futures%20Notes.md) units. 
+	1. - For example,  1, 000, 000 EUR may be exchanged against 1, 390, 000 USD assuming an outright [forward rate](../../../Clippings/Forward%20Points%20in%20Currency.md) of 1.3900 EUR-USD. 
+1. The outright forward is related to the [FX spot rate](.md) via the spot–[interest rate parity](.md), $$F(0, T) = S \cdot e^{(r_{DOM}-r_{FOR})\tau}$$
 
 where
 
 - $r_{FOR}$is the foreign interest rate (continuously compounded)
 - $r_{DOM}$is the domestic interest rate (continuously compounded)
-- $\tau$is the [[Hedging Strategies with Forwards|time to maturity]],  equal to$T - t$
+- $\tau$is the [time to maturity](Hedging%20Strategies%20with%20Forwards.md),  equal to$T - t$
 ## FX FORWARD VALUE
 
-- At inception,  an outright [[Forward Points in Currency|forward contract]] has a value of zero. 
-- Thereafter,  when foreign exchange rates and/or [[Interest Rate Quotations|interest rates]] change,  the value of the [[Forward Points in Currency|forward contract]] is no longer zero,  but is worth$$v_f(t, T) = e^{-r_{DOM}\tau}(F(t, T) - K) = S_t e^{-r_{FOR}\tau} - Ke^{-r_{DOM}\tau}$$
+- At inception,  an outright [forward contract](../../../Clippings/Forward%20Points%20in%20Currency.md) has a value of zero. 
+- Thereafter,  when foreign exchange rates and/or [interest rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) change,  the value of the [forward contract](../../../Clippings/Forward%20Points%20in%20Currency.md) is no longer zero,  but is worth$$v_f(t, T) = e^{-r_{DOM}\tau}(F(t, T) - K) = S_t e^{-r_{FOR}\tau} - Ke^{-r_{DOM}\tau}$$
 
 for a pre-specified exchange rate$K$. 
 
-- This is the [[Forward Points in Currency|forward contract]] value in domestic [[Forwards and Futures Notes|currency]] units,  marked to the market at time$t$. 
+- This is the [forward contract](../../../Clippings/Forward%20Points%20in%20Currency.md) value in domestic [currency](Forwards%20and%20Futures%20Notes.md) units,  marked to the market at time$t$. 
 - As stated previously,  setting$K = F(0,  T)$yields a zero-cost contract.
 
 ---

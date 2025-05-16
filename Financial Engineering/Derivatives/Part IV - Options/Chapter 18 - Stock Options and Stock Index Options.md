@@ -22,13 +22,13 @@ key_concepts:
 
 # Aims  
 
-• To examine stock options and [[Hedging Strategies with Forwards|stock index]] options.   
-• To show how you can provide a minimum (foor) value for a [[An Asset Allocation Primer|portfolio]] of stocks but also be able to capture most of the ‘upside’ if stock prices rise – this is a [[Chapter 29 - Portfolio Insurance|protective put]].   
-• To show how you can hedge a [[An Asset Allocation Primer|portfolio]] of stocks using [[Chapter 22 - BOPM: Implementation|dynamic delta hedging]].   
-• To show how several options (on the same [[Risk Neutral Pricing of Options|underlying asset]]) can be combined to give a [[Definitions and Immediate Consequences|risk-free portfolio]] – this is a [[Chapter 18 - Stock Options and Stock Index Options|ratio spread]].   
-• To demonstrate how you can make a proft from mispriced options, while [[Key Rates O1s Durations and Hedging|hedging]] any changes in [[Chapter 5 - Index Futures|market risk]].  
+• To examine stock options and [stock index](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) options.   
+• To show how you can provide a minimum (foor) value for a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of stocks but also be able to capture most of the ‘upside’ if stock prices rise – this is a [protective put](../Part%20VI%20-%20The%20Greeks/Chapter%2029%20-%20Portfolio%20Insurance.md).   
+• To show how you can hedge a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of stocks using [dynamic delta hedging](../Part%20V%20-%20Options%20Pricing/Chapter%2022%20-%20BOPM:%20Implementation.md).   
+• To show how several options (on the same [underlying asset](../../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md)) can be combined to give a [risk-free portfolio](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Definitions%20and%20Immediate%20Consequences.md) – this is a [ratio spread](.md).   
+• To demonstrate how you can make a proft from mispriced options, while [hedging](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) any changes in [market risk](../Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md).  
 
-We have seen in Chapter 17 that investors can use stock options to speculate on the direction of [[Chapter 16 - Black–Scholes Model|stock price]] changes and on changes in the volatility of stock [[Assets|returns]]. Investors can also insure or hedge a cash market position consisting of stocks held in a specifc frm (e.g. 50,000 stocks in AT&T) or in certain specifc industries (e.g. oil industry) or in a ‘market [[An Asset Allocation Primer|portfolio]]’ (e.g. S&P 500) by using various types of [[Hedging Strategies with Forwards|stock index]] options. First we discuss [[Key Rates O1s Durations and Hedging|hedging]] using options on individual stocks and then using [[Hedging Strategies with Forwards|stock index]] options.  
+We have seen in Chapter 17 that investors can use stock options to speculate on the direction of [stock price](Chapter%2016%20-%20Black–Scholes%20Model.md) changes and on changes in the volatility of stock [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md). Investors can also insure or hedge a cash market position consisting of stocks held in a specifc frm (e.g. 50,000 stocks in AT&T) or in certain specifc industries (e.g. oil industry) or in a ‘market [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)’ (e.g. S&P 500) by using various types of [stock index](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) options. First we discuss [hedging](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) using options on individual stocks and then using [stock index](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) options.  
 
 # 18.1 OPTIONS ON STOCKS  
 
@@ -36,12 +36,12 @@ If you hold a number of stocks in one particular company (e.g. AT&T) you can alt
 
 # 18.1.1 Static Hedge: Covered Call  
 
-A [[Uncertain Volatility with Static Hedge|static hedge]] assumes the initial options positions are held to maturity. Suppose an investor holds AT&T stocks. She can ofset some of the downside risk by writing (selling) a call – this is a [[Chapter 18 - Stock Options and Stock Index Options|covered call]] strategy. Downside risk is reduced slightly because the investor receives the [[Chapter 17 - Option Strategies|call premium]]:  
+A [static hedge](../../Fixed%20Income%20Derivatives/Uncertain%20Volatility%20with%20Static%20Hedge.md) assumes the initial options positions are held to maturity. Suppose an investor holds AT&T stocks. She can ofset some of the downside risk by writing (selling) a call – this is a [covered call](.md) strategy. Downside risk is reduced slightly because the investor receives the [call premium](Chapter%2017%20-%20Option%20Strategies.md):  
 $$
 \begin{array}{l l}{{\mathrm{Long\stock}}}&{{\{+1,+1\}}}\\ {{\mathrm{+Short\call}}}&{{\{\ 0,-1\}}}\\ {{\mathrm{=Covered\call\payoff}}}&{{\{+1,0\}}}\end{array}
 $$  
 
-Figure 18.1 shows the payof to a [[Chapter 18 - Stock Options and Stock Index Options|covered call]] with $C=\$3$ , $K=\$25$ and an initial [[Chapter 16 - Black–Scholes Model|stock price]] $S_{0}=\$24$ . The proft at maturity, is given by:  
+Figure 18.1 shows the payof to a [covered call](.md) with $C=\$3$ , $K=\$25$ and an initial [stock price](Chapter%2016%20-%20Black–Scholes%20Model.md) $S_{0}=\$24$ . The proft at maturity, is given by:  
 $$
 \begin{array}{c}{{\Pi=S_{T}-S_{0}-m a x(0,S_{T}-K)+C}}\\ {{{}}}\\ {{=S_{T}-S_{0}+C\quad\mathrm{for}\:S_{T}<K}}\end{array}
 $$  
@@ -55,16 +55,16 @@ $$
 For $S_{0}=\$24$ the downside risk is reduced by the amount of the call premium of $\$3$ to a breakeven of $\$21$ . However, the upside potential is considerably reduced – the maximum proft is $K-S_{0}+C=\S4$ .1  
 
 ![](1b348ce551dee89b762d4c9979e4cdaf8678827cb5ae2003efb1f2497781e795.jpg)  
-FIGURE 18.1 [[Chapter 18 - Stock Options and Stock Index Options|Covered call]]  
+FIGURE 18.1 [Covered call](.md)  
 
 # 18.1.2 Static Hedge: Protective Put  
 
-An investor can protect her long stock position but without sacrifcing all the upside potential (of holding stocks) by buying a put – this is a [[Chapter 29 - Portfolio Insurance|protective put]] (Figure 18.2) also sometimes called a ‘guaranteed bond’ – see Chapter 15.  
+An investor can protect her long stock position but without sacrifcing all the upside potential (of holding stocks) by buying a put – this is a [protective put](../Part%20VI%20-%20The%20Greeks/Chapter%2029%20-%20Portfolio%20Insurance.md) (Figure 18.2) also sometimes called a ‘guaranteed bond’ – see Chapter 15.  
 $$
 \begin{array}{l l}{{\mathrm{Long\stock}}}&{{\{+1,+1\}}}\\ {{\mathrm{~}+\mathrm{Long\put}}}&{{\{-1,\ 0\}}}\\ {{\mathrm{~}=\mathrm{Protective\put}}}&{{\{0,+1\}}}\end{array}
 $$  
 
-The payof profle for the [[Chapter 29 - Portfolio Insurance|protective put]] is the same as for a long call. (This is put–call parity again.) Suppose $S_{0}=\$24$ and the put has $K=\$25$ and $P=\$5$ . The proft from the [[Chapter 29 - Portfolio Insurance|protective put]] is:  
+The payof profle for the [protective put](../Part%20VI%20-%20The%20Greeks/Chapter%2029%20-%20Portfolio%20Insurance.md) is the same as for a long call. (This is put–call parity again.) Suppose $S_{0}=\$24$ and the put has $K=\$25$ and $P=\$5$ . The proft from the [protective put](../Part%20VI%20-%20The%20Greeks/Chapter%2029%20-%20Portfolio%20Insurance.md) is:  
 $$
 \Pi=S_{T}-S_{0}-P\mathrm{for}S_{T}\geq K
 $$  
@@ -74,19 +74,19 @@ $$
 \begin{array}{c l}{{\Pi=S_{T}-S_{0}+(K-S_{T})-P\quad\mathrm{for}S_{T}<K}}\\ {{}}&{{}}\\ {{=K-S_{0}-P=-4}}\end{array}
 $$  
 
-As can be seen in Figure 18.2 the [[Chapter 29 - Portfolio Insurance|protective put]] has a lower limit (a ‘foor’) on losses but allows most of the upside capture. The [[Chapter 29 - Portfolio Insurance|protective put]] is an insurance contract – in return for the put-premium, a minimum value for the stock is guaranteed at maturity. (Note that for an at-the-money put $K=S_{0}$ , so the ‘foor value’ would be the current value of the stock.)  
+As can be seen in Figure 18.2 the [protective put](../Part%20VI%20-%20The%20Greeks/Chapter%2029%20-%20Portfolio%20Insurance.md) has a lower limit (a ‘foor’) on losses but allows most of the upside capture. The [protective put](../Part%20VI%20-%20The%20Greeks/Chapter%2029%20-%20Portfolio%20Insurance.md) is an insurance contract – in return for the put-premium, a minimum value for the stock is guaranteed at maturity. (Note that for an at-the-money put $K=S_{0}$ , so the ‘foor value’ would be the current value of the stock.)  
 
 ![](9122d3b3848b14a1ba37c17aa13fb82724f1f566f34e3bf08a81217a786dc83b.jpg)  
-FIGURE 18.2 [[Chapter 29 - Portfolio Insurance|Protective put]]  
+FIGURE 18.2 [Protective put](../Part%20VI%20-%20The%20Greeks/Chapter%2029%20-%20Portfolio%20Insurance.md)  
 
 # 18.1.3 Delta Hedging a Stock Portfolio with Puts  
 
-The static [[Chapter 29 - Portfolio Insurance|protective put]] does not ensure that the value of the [[An Asset Allocation Primer|portfolio]] remains unchanged at all times. Instead, it ensures a minimum value $(=K)$ for the stock $^+$ put [[An Asset Allocation Primer|portfolio]], at maturity of the option contract. However, it is possible to continuously hedge a stock put [[An Asset Allocation Primer|portfolio]]. We require any change in the cash-market value of the stocks to be ofset by changes in the value of the puts. Suppose you hold $N_{s}$ stocks (of AT&T) with price $s$ , with $\$8$ -value $V_{s}=N_{s}S$ . A portfolio of $N_{s}$ stocks plus $N_{p}$ puts is worth:  
+The static [protective put](../Part%20VI%20-%20The%20Greeks/Chapter%2029%20-%20Portfolio%20Insurance.md) does not ensure that the value of the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) remains unchanged at all times. Instead, it ensures a minimum value $(=K)$ for the stock $^+$ put [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), at maturity of the option contract. However, it is possible to continuously hedge a stock put [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). We require any change in the cash-market value of the stocks to be ofset by changes in the value of the puts. Suppose you hold $N_{s}$ stocks (of AT&T) with price $s$ , with $\$8$ -value $V_{s}=N_{s}S$ . A portfolio of $N_{s}$ stocks plus $N_{p}$ puts is worth:  
 $$
 V=N_{s}S+N_{p}\phi P
 $$  
 
-where $\phi=100$ is the number of stocks underlying each put contract. A dynamically hedged [[An Asset Allocation Primer|portfolio]] has to satisfy:  
+where $\phi=100$ is the number of stocks underlying each put contract. A dynamically hedged [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) has to satisfy:  
 $$
 \partial V/\partial S=N_{s}+N_{p}\phi\Delta_{p}=0
 $$  
@@ -94,49 +94,49 @@ $$
 \Rightarrow N_{p}=-\frac{N_{s}}{\phi\Delta_{p}}=-\frac{V_{s}}{(100\:S)\Delta_{p}}
 $$  
 
-If you are long stocks $V_{s}>0$ then as $\Delta_{p}<0$ , the hedge [[An Asset Allocation Primer|portfolio]] consists of buying $N_{p}$ puts. The term $\cdot_{100\ S^{\prime}}$ is the dollar value of the 100 AT&T stocks deliverable in each put contract. Suppose the investor is long $N_{s}=800$ stocks at $S=\$10$ , so that $V_{s}=\$8,000$ and assume $\Delta_{p}=$ $-0.4$ . Then $N_{p}=20$ put contracts should be purchased to hedge against (small) changes in the [[Chapter 16 - Black–Scholes Model|stock price]]. As the option’s delta changes (because of changes in $S,r,\sigma$ , and $T$ ), the number of put option contracts to maintain the delta hedge needs rebalancing over time.  
+If you are long stocks $V_{s}>0$ then as $\Delta_{p}<0$ , the hedge [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) consists of buying $N_{p}$ puts. The term $\cdot_{100\ S^{\prime}}$ is the dollar value of the 100 AT&T stocks deliverable in each put contract. Suppose the investor is long $N_{s}=800$ stocks at $S=\$10$ , so that $V_{s}=\$8,000$ and assume $\Delta_{p}=$ $-0.4$ . Then $N_{p}=20$ put contracts should be purchased to hedge against (small) changes in the [stock price](Chapter%2016%20-%20Black–Scholes%20Model.md). As the option’s delta changes (because of changes in $S,r,\sigma$ , and $T$ ), the number of put option contracts to maintain the delta hedge needs rebalancing over time.  
 
-A dynamic hedge for a [[An Asset Allocation Primer|portfolio]] of stocks on AT&T using puts, can eliminate the market and specifc risk of the AT&T stocks. As the put-delta is only valid for small changes in the [[Chapter 16 - Black–Scholes Model|stock price]], the value of the stock $^+$ put [[An Asset Allocation Primer|portfolio]] is not hedged against large changes in stock prices ([[Residual Risk of Options Gamma Vega and Volatil|gamma risk]]) or changes in volatility ([[Residual Risk of Options Gamma Vega and Volatil|vega risk]]) – these issues are elaborated on in Chapter 28.  
+A dynamic hedge for a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of stocks on AT&T using puts, can eliminate the market and specifc risk of the AT&T stocks. As the put-delta is only valid for small changes in the [stock price](Chapter%2016%20-%20Black–Scholes%20Model.md), the value of the stock $^+$ put [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is not hedged against large changes in stock prices ([gamma risk](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Residual%20Risk%20of%20Options%20Gamma%20Vega%20and%20Volatil.md)) or changes in volatility ([vega risk](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Residual%20Risk%20of%20Options%20Gamma%20Vega%20and%20Volatil.md)) – these issues are elaborated on in Chapter 28.  
 
 # 18.1.4 Ratio Spread  
 
-If you already hold a position in options then you can create a ‘[[Chapter 27 - Delta Hedging|delta neutral]]’ (i.e. risk-free) options [[An Asset Allocation Primer|portfolio]] by combining two (or more) options (on the same [[Risk Neutral Pricing of Options|underlying asset]]). The latter possibility also gives rise to a [[Chapter 18 - Stock Options and Stock Index Options|ratio spread]] whereby traders attempt to make profts from mispriced options (on the same [[Risk Neutral Pricing of Options|underlying asset]]).  
+If you already hold a position in options then you can create a ‘[delta neutral](../Part%20VI%20-%20The%20Greeks/Chapter%2027%20-%20Delta%20Hedging.md)’ (i.e. risk-free) options [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) by combining two (or more) options (on the same [underlying asset](../../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md)). The latter possibility also gives rise to a [ratio spread](.md) whereby traders attempt to make profts from mispriced options (on the same [underlying asset](../../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md)).  
 
-The analysis below applies to both calls and puts. Two stock options (both on the same underlying) might have diferent deltas because they have diferent strike prices or maturity dates. Each option contract is for delivery of $\phi=100$ stocks. The value of a [[An Asset Allocation Primer|portfolio]] consisting of $N_{A}$ holdings of option-A and $N_{B}$ holdings in option-B (on the same underlying) if the option prices are $f_{A},f_{B}$ is:  
+The analysis below applies to both calls and puts. Two stock options (both on the same underlying) might have diferent deltas because they have diferent strike prices or maturity dates. Each option contract is for delivery of $\phi=100$ stocks. The value of a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) consisting of $N_{A}$ holdings of option-A and $N_{B}$ holdings in option-B (on the same underlying) if the option prices are $f_{A},f_{B}$ is:  
 $$
 V=(N_{A}f_{A}+N_{B}f_{B})\phi
 $$  
 
-For a zero change in value of the options [[An Asset Allocation Primer|portfolio]]:  
+For a zero change in value of the options [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md):  
 $$
 \begin{array}{c}{{\partial V/\partial S=0\Rightarrow\quad N_{A}\Delta_{A}+N_{B}\Delta_{B}=0}}\\ {{N_{A}=-(\Delta_{B}/\Delta_{A})N_{B}}}\end{array}
 $$  
 
-Suppose we already hold a naked position in $N_{B}=10$ (long) call options, with $\Delta_{B}=+0.5$ and we are worried about the risk to our options position from small changes in the [[Chapter 16 - Black–Scholes Model|stock price]]. If another call option (on the same underlying) has $\Delta_{A}=+0.25$ , then a ‘[[Chapter 27 - Delta Hedging|delta neutral]]’ [[An Asset Allocation Primer|portfolio]] requires $N_{A}=-20$ that is, short 20 calls of option-A. (But if option-A is a put option with $\Delta_{A}=-0.25$ , the delta-neutral position would involve buying $N_{A}=20$ put options-A).  
+Suppose we already hold a naked position in $N_{B}=10$ (long) call options, with $\Delta_{B}=+0.5$ and we are worried about the risk to our options position from small changes in the [stock price](Chapter%2016%20-%20Black–Scholes%20Model.md). If another call option (on the same underlying) has $\Delta_{A}=+0.25$ , then a ‘[delta neutral](../Part%20VI%20-%20The%20Greeks/Chapter%2027%20-%20Delta%20Hedging.md)’ [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) requires $N_{A}=-20$ that is, short 20 calls of option-A. (But if option-A is a put option with $\Delta_{A}=-0.25$ , the delta-neutral position would involve buying $N_{A}=20$ put options-A).  
 
 # 18.1.5 Underpriced Options  
 
-Consider a trader Ms Long, who thinks that call option-B (on Boeing stocks) with $\Delta_{B}=0.5$ is under-priced by $1\%$ because of stale [[Chapter 11 - Interest Rate Futures|price quotes]]. To take advantage of the under-[[Arbitrage Pricing of Derivatives|pricing]] Ms Long could today buy $N_{B}=10$ of options-B, hoping to close out later at a $1\%$ proft – after the mispricing is corrected.  
+Consider a trader Ms Long, who thinks that call option-B (on Boeing stocks) with $\Delta_{B}=0.5$ is under-priced by $1\%$ because of stale [price quotes](../Part%20III%20-%20Fixed%20Income%20Futures%20Contracts/Chapter%2011%20-%20Interest%20Rate%20Futures.md). To take advantage of the under-[pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) Ms Long could today buy $N_{B}=10$ of options-B, hoping to close out later at a $1\%$ proft – after the mispricing is corrected.  
 
-But if the [[Hedge Fund Strategies|stock market]] as a whole falls (i.e. S&P 500) then the price $S_{B}$ of Boeing stock will also fall, which would produce a fall in the price of call option-B (written on Boeing), and this might eliminate any proft due to Ms Long’s position in the ‘underpriced’ option-B.  
+But if the [stock market](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) as a whole falls (i.e. S&P 500) then the price $S_{B}$ of Boeing stock will also fall, which would produce a fall in the price of call option-B (written on Boeing), and this might eliminate any proft due to Ms Long’s position in the ‘underpriced’ option-B.  
 
-In Chapter 16 on [[Financial Instruments|delta hedging]] we noted that Ms Long could create a delta-neutral [[An Asset Allocation Primer|portfolio]] by short-selling $N_{s}=0.5(10)=5$ stocks of Boeing. If option-B is correctly priced then the hedge position does not change in value (for small rises or falls in $S_{B}$ ). So the delta-hedge protects the value of the (option- $^{\cdot\mathrm{B}+}$ Boeing-stocks) [[An Asset Allocation Primer|portfolio]], while the investor waits for the option-B’s mispricing to be corrected.  
+In Chapter 16 on [delta hedging](../../../Financial%20Instruments/Financial%20Instruments.md) we noted that Ms Long could create a delta-neutral [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) by short-selling $N_{s}=0.5(10)=5$ stocks of Boeing. If option-B is correctly priced then the hedge position does not change in value (for small rises or falls in $S_{B}$ ). So the delta-hedge protects the value of the (option- $^{\cdot\mathrm{B}+}$ Boeing-stocks) [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), while the investor waits for the option-B’s mispricing to be corrected.  
 
 But if, as Ms Long believes, option-B is under-priced then when the mispricing is corrected, option-B’s price will rise by $1\%$ more than implied by the hedge $\phantom{}^{'}d C_{B}=\Delta_{B}d S_{B})$ , Hence, when Ms Long closes her positions in option-B and stocks-B she earns a proft of $1\%$ , even if $S_{B}$ has fallen due to a fall in the market (S&P 500) index.  
 
-To undertake the above [[Arbitrage Pricing of Derivatives|arbitrage]] transaction requires short-selling stock-B.2 This may not be possible because of the ‘uptick rule’ (i.e. in the US you are only allowed to short-sell if the last quote was a price rise), and may be expensive to implement because of high transactions costs (e.g. $50\%$ margin on short-selling in the US plus any ‘haircuts’ demanded by the broker from whom you borrow the stocks and also the risk of a ‘short-squeeze’). However, all is not lost.  
+To undertake the above [arbitrage](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) transaction requires short-selling stock-B.2 This may not be possible because of the ‘uptick rule’ (i.e. in the US you are only allowed to short-sell if the last quote was a price rise), and may be expensive to implement because of high transactions costs (e.g. $50\%$ margin on short-selling in the US plus any ‘haircuts’ demanded by the broker from whom you borrow the stocks and also the risk of a ‘short-squeeze’). However, all is not lost.  
 
-The trader can exploit $N_{B}=10$ under-priced calls (on Boeing) by simultaneously selling $N_{A}=(\Delta_{B}/\Delta_{A})N_{B}=20$ call options-A (also on Boeing) but with diferent strikes or [[Hedging Strategies with Forwards|time to maturity]] and hence a diferent delta, $\Delta_{A}=+0.25,$ . This is a [[Chapter 18 - Stock Options and Stock Index Options|ratio spread]].  
+The trader can exploit $N_{B}=10$ under-priced calls (on Boeing) by simultaneously selling $N_{A}=(\Delta_{B}/\Delta_{A})N_{B}=20$ call options-A (also on Boeing) but with diferent strikes or [time to maturity](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) and hence a diferent delta, $\Delta_{A}=+0.25,$ . This is a [ratio spread](.md).  
 
-If option-A and option-B (both on Boeing) are correctly priced, the [[Chapter 18 - Stock Options and Stock Index Options|ratio spread]] provides a hedge (for small changes in the [[Chapter 16 - Black–Scholes Model|stock price]] of Boeing). However, given that option-B is actually under-priced by $1\%$ , the [[Chapter 18 - Stock Options and Stock Index Options|ratio spread]] makes a riskless proft of $1\%$ , when option-B eventually rises to its correct (fair) value given by Black–Scholes.3  
+If option-A and option-B (both on Boeing) are correctly priced, the [ratio spread](.md) provides a hedge (for small changes in the [stock price](Chapter%2016%20-%20Black–Scholes%20Model.md) of Boeing). However, given that option-B is actually under-priced by $1\%$ , the [ratio spread](.md) makes a riskless proft of $1\%$ , when option-B eventually rises to its correct (fair) value given by Black–Scholes.3  
 
 # 18.2 STOCK INDEX OPTIONS (SIO)  
 
-[[Hedging Strategies with Forwards|Stock index]] options (SIO) are frequently used to hedge the market (systematic) risk of a diversifed [[An Asset Allocation Primer|portfolio]] of stocks. A fund manager using index options can either obtain insurance or can dynamically hedge the [[Chapter 5 - Index Futures|market risk]] of her [[An Asset Allocation Primer|portfolio]] of stocks.  
+[Stock index](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) options (SIO) are frequently used to hedge the market (systematic) risk of a diversifed [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of stocks. A fund manager using index options can either obtain insurance or can dynamically hedge the [market risk](../Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md) of her [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of stocks.  
 
 # 18.2.1 Contract Specification  
 
-We focus on the S&P 100 (American style) and the FTSE 100 (European-style) contracts. The S&P 100 (American) index option is often referred to by its ticker symbol (OEX) and is the most actively traded option on CBOE. SIO are settled in cash. If $z$ is the dollar-value of one index point and the current [[Hedging Strategies with Forwards|stock index]] is $s$ , then the dollar-value of the S&P index is $V_{I}=z S$ . For S&P 100 index options, $z=\$100$ (Table 18.1), hence if the S&P 100 index is $S=1{,}000$ , then $V_{1}=\$100,000$ . Put slightly diferently, if the S&P 100 index changes by one point (e.g. from 1,000 to 1,001) then this implies a change in the value of the S&P index of $\$100$ .  
+We focus on the S&P 100 (American style) and the FTSE 100 (European-style) contracts. The S&P 100 (American) index option is often referred to by its ticker symbol (OEX) and is the most actively traded option on CBOE. SIO are settled in cash. If $z$ is the dollar-value of one index point and the current [stock index](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) is $s$ , then the dollar-value of the S&P index is $V_{I}=z S$ . For S&P 100 index options, $z=\$100$ (Table 18.1), hence if the S&P 100 index is $S=1{,}000$ , then $V_{1}=\$100,000$ . Put slightly diferently, if the S&P 100 index changes by one point (e.g. from 1,000 to 1,001) then this implies a change in the value of the S&P index of $\$100$ .  
 
 TABLE 18.1 S&P 100 (American-OEX) Index Option (CBOE)   
 
@@ -145,23 +145,23 @@ TABLE 18.1 S&P 100 (American-OEX) Index Option (CBOE)
 
 Source: CBOE website.  
 
-The ‘settlement price’ $S_{T}$ is the index value at the market close. If, at maturity $S_{T}=1\mathrm{,000}$ (index points) and the [[Call and Put Payoffs at Expiry|strike price]] in a put contract is $K=1{,}100$ (index points), then the holder of a long put receives:  
+The ‘settlement price’ $S_{T}$ is the index value at the market close. If, at maturity $S_{T}=1\mathrm{,000}$ (index points) and the [strike price](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) in a put contract is $K=1{,}100$ (index points), then the holder of a long put receives:  
 $$
 \mathcal{S}\mathrm{-}P a y o f f o r o n e p u t=z\left(K-S_{T}\right)=\mathfrak{H}00\left(1,100-1,000\right)=\mathfrak{H}10,000
 $$  
 
-[[Notes on Basic Options Properties|Call and put]] premia are quoted in terms of index points. Suppose a quote for the S&P 100, March-950 call is $C=38$ (index points). This implies that one call contract costs $\$3,800$ $\mathrm{\Phi}(=\$100\times38)$ , hence:  
+[Call and put](../../../Course%20Notes/HBR%20Notes/Notes%20on%20Basic%20Options%20Properties.md) premia are quoted in terms of index points. Suppose a quote for the S&P 100, March-950 call is $C=38$ (index points). This implies that one call contract costs $\$3,800$ $\mathrm{\Phi}(=\$100\times38)$ , hence:  
 $$
 I n\nu o i c e p r i c e o f o n e S\&P\mathrm{\}l00\mathrm{\}C a l l=C z
 $$  
 
 Index options are also available on the S&P 500 (a European-style option traded on CBOE), the Major Market Index (traded on AMEX) and the Value Line Index (traded on PHLX) and the NYSE-Composite (traded on NYSE). In the US there are also index options available on industry indices (e.g. oil, utilities).  
 
-For the FTSE 100 (European Style) index option (Table 18.2) the value of an index point is set at $z=£10$ . So if the FTSE 100 index is at 6,500 then the value of the index is $V_{1}=£65,000$ . Quotes for option premia are in index points. For example, the April-6500 put on the FTSE 100 (European Style) index option, quoted at $P=63$ would have an [[Accrued Interest|invoice price]] of £630 $\stackrel{\prime}{=}£10\times63\$ .  
+For the FTSE 100 (European Style) index option (Table 18.2) the value of an index point is set at $z=£10$ . So if the FTSE 100 index is at 6,500 then the value of the index is $V_{1}=£65,000$ . Quotes for option premia are in index points. For example, the April-6500 put on the FTSE 100 (European Style) index option, quoted at $P=63$ would have an [invoice price](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Accrued%20Interest.md) of £630 $\stackrel{\prime}{=}£10\times63\$ .  
 
 # 18.2.2 Static Hedge Using Stock Index Options: Protective Put  
 
-Suppose you hold a stock [[An Asset Allocation Primer|portfolio]]-A with current value $V_{A}=\mathbb{S}1\mathrm{m}$ , whose composition mirrors the S&P 100 $(\beta_{A}=1)$ and want to protect its value in 1 year’s time. You fear a price fall so you buy index puts with maturity $T=1$ year. This is a [[Chapter 29 - Portfolio Insurance|protective put]]. If the S&P 100  
+Suppose you hold a stock [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)-A with current value $V_{A}=\mathbb{S}1\mathrm{m}$ , whose composition mirrors the S&P 100 $(\beta_{A}=1)$ and want to protect its value in 1 year’s time. You fear a price fall so you buy index puts with maturity $T=1$ year. This is a [protective put](../Part%20VI%20-%20The%20Greeks/Chapter%2029%20-%20Portfolio%20Insurance.md). If the S&P 100  
 
 TABLE 18.2 FTSE 100 (European) Index Option   
 
@@ -170,44 +170,44 @@ TABLE 18.2 FTSE 100 (European) Index Option
 
 Source: ICE-Intercontinental Exchange website.  
 
-index currently stands at $S_{A}=1\mathrm{,000}$ index points, then to insure a diversifed [[An Asset Allocation Primer|portfolio]] of stocks (with $\beta_{A}=1\mathbf{\dot{\Omega}}.$ ), the number of puts required is (see Appendix 18.A):  
+index currently stands at $S_{A}=1\mathrm{,000}$ index points, then to insure a diversifed [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of stocks (with $\beta_{A}=1\mathbf{\dot{\Omega}}.$ ), the number of puts required is (see Appendix 18.A):  
 $$
 N_{p}=\frac{\S-\nu a l u e\ o f s t o c k\ p o r t f o l i o}{\S-\nu a l u e\ o f s t o c k\ i n d e x}\beta_{A}=\frac{V_{A}}{z S_{0}}\ \beta_{A}=10
 $$  
 
-To insure your stock [[An Asset Allocation Primer|portfolio]] at $T$ from all downside risk (given $\beta_{A}=1\mathrm{\i}$ ) you need to choose ATM-puts with a [[Call and Put Payoffs at Expiry|strike price]] $K=1{,}000$ . At $T_{:}$ , if you lose on your stock [[An Asset Allocation Primer|portfolio]] you want to be fully compensated by the payof from the puts. If the S&P 100 index falls $20\%$ to $S_{T}=800$ , then the value of your stock [[An Asset Allocation Primer|portfolio]] falls by $\$200,000$ . But if you exercise the puts you make a proft of 200 index points $\left(=K-{S_{T}}\right)$ per contract and with 10 contracts the dollar payof is $\$200,000$ $00\left(=10\times200\times\$100$ point . The loss on the stock portfolio over the year is exactly ofset by the payof to the puts. If the put premium paid was $P=30$ index points, the 10 put contracts cost $\$30,000$ $(=10\times\$100\times30$ points which is the cost of the insurance.  
+To insure your stock [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) at $T$ from all downside risk (given $\beta_{A}=1\mathrm{\i}$ ) you need to choose ATM-puts with a [strike price](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) $K=1{,}000$ . At $T_{:}$ , if you lose on your stock [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) you want to be fully compensated by the payof from the puts. If the S&P 100 index falls $20\%$ to $S_{T}=800$ , then the value of your stock [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) falls by $\$200,000$ . But if you exercise the puts you make a proft of 200 index points $\left(=K-{S_{T}}\right)$ per contract and with 10 contracts the dollar payof is $\$200,000$ $00\left(=10\times200\times\$100$ point . The loss on the stock portfolio over the year is exactly ofset by the payof to the puts. If the put premium paid was $P=30$ index points, the 10 put contracts cost $\$30,000$ $(=10\times\$100\times30$ points which is the cost of the insurance.  
 
-Let’s take a slightly more complex case, where $\beta_{A}=1.2$ so that $N_{p}=12$ . The key factor is the choice of [[Call and Put Payoffs at Expiry|strike price]] in the put. If the S&P 100 index currently stands at $S_{0}=1\small{,}000$ and you choose a strike of $K=900$ , this implies you are willing to accept a fall in the market index of $10\%$ . Hence, the maximum acceptable fall in the value of your stock [[An Asset Allocation Primer|portfolio]] is $12\%$ $(=1.2\times10\%)$ that is $\$120,000$ .  
+Let’s take a slightly more complex case, where $\beta_{A}=1.2$ so that $N_{p}=12$ . The key factor is the choice of [strike price](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) in the put. If the S&P 100 index currently stands at $S_{0}=1\small{,}000$ and you choose a strike of $K=900$ , this implies you are willing to accept a fall in the market index of $10\%$ . Hence, the maximum acceptable fall in the value of your stock [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is $12\%$ $(=1.2\times10\%)$ that is $\$120,000$ .  
 
-Suppose the S&P 100 index falls by $20\%$ to $S_{T}=800$ index points, so your stock [[An Asset Allocation Primer|portfolio]] falls by $24\%$ , $(=\$240,000)$ . The payof to the puts is ${\$120,0000}\left({=12\mathrm{puts}\times(K-S_{T})\times\S100}\right)$ hence, the net outcome from the [[Options Strategies Construction|protective put strategy]] is a loss of $\$120,000$ . This is exactly the loss you were willing to incur when choosing a strike of $K=900$ at the outset.  
+Suppose the S&P 100 index falls by $20\%$ to $S_{T}=800$ index points, so your stock [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) falls by $24\%$ , $(=\$240,000)$ . The payof to the puts is ${\$120,0000}\left({=12\mathrm{puts}\times(K-S_{T})\times\S100}\right)$ hence, the net outcome from the [protective put strategy](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%204-Multiperiod%20Binomial%20Trees/Options%20Strategies%20Construction.md) is a loss of $\$120,000$ . This is exactly the loss you were willing to incur when choosing a strike of $K=900$ at the outset.  
 
-If the S&P index rises (above $K$ ) you do not exercise the puts but the value of your stock [[An Asset Allocation Primer|portfolio]] has increased. In this case the ‘insurance’ provided by the put was not needed but of course insurance does not come ‘free’ – as you pay the [[Chapter 17 - Option Strategies|put premium]]. This is a static stock-put hedge because we have assumed the option contract is held to maturity. It provides a ‘foor’ for the value of the stock [[An Asset Allocation Primer|portfolio]] but also allows most of the upside potential.  
+If the S&P index rises (above $K$ ) you do not exercise the puts but the value of your stock [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) has increased. In this case the ‘insurance’ provided by the put was not needed but of course insurance does not come ‘free’ – as you pay the [put premium](Chapter%2017%20-%20Option%20Strategies.md). This is a static stock-put hedge because we have assumed the option contract is held to maturity. It provides a ‘foor’ for the value of the stock [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) but also allows most of the upside potential.  
 
 # 18.2.3 Dynamic Delta Hedge Using Stock Index Options  
 
-Assume you hold $V_{A}$ (dollars) in a diversifed stock [[An Asset Allocation Primer|portfolio]]-A with beta $\beta_{A}$ (with respect to the S&P 100 ‘market index’). The change in value of [[An Asset Allocation Primer|portfolio]]-A is $d V_{A}=V_{A}R_{A}$ . To preserve the value of our stock [[An Asset Allocation Primer|portfolio]] over a small interval of time, we use a dynamic [[The Value of the Swap Contract after Initiation|hedging strategy]] of stocks $+$ puts. It can be shown (see Appendix 18.B) that the number of index puts to delta-hedge stock [[An Asset Allocation Primer|portfolio]]-A is:  
+Assume you hold $V_{A}$ (dollars) in a diversifed stock [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)-A with beta $\beta_{A}$ (with respect to the S&P 100 ‘market index’). The change in value of [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)-A is $d V_{A}=V_{A}R_{A}$ . To preserve the value of our stock [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) over a small interval of time, we use a dynamic [hedging strategy](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/The%20Value%20of%20the%20Swap%20Contract%20after%20Initiation.md) of stocks $+$ puts. It can be shown (see Appendix 18.B) that the number of index puts to delta-hedge stock [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)-A is:  
 $$
 N_{p}=-\frac{V_{A}}{z S_{0}}\left(\frac{\beta_{A}}{\Delta_{p}}\right)=\frac{V_{A}}{z S_{0}}\left(\frac{\beta_{A}}{|\Delta_{p}|}\right)
 $$  
 
-Equation (18.11) implies that if you are long a [[An Asset Allocation Primer|portfolio]] of stocks, then to delta-hedge you go long $(\mathsf{b u y})N_{p}$ index puts. Note that the cost of setting up the [[Chapter 29 - Portfolio Insurance|protective put]] is $N_{p}(z P)$ and  
+Equation (18.11) implies that if you are long a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of stocks, then to delta-hedge you go long $(\mathsf{b u y})N_{p}$ index puts. Note that the cost of setting up the [protective put](../Part%20VI%20-%20The%20Greeks/Chapter%2029%20-%20Portfolio%20Insurance.md) is $N_{p}(z P)$ and  
 
-there will be transactions costs of rebalancing the [[An Asset Allocation Primer|portfolio]] as the delta of the option changes over time. We discuss dynamic [[Key Rates O1s Durations and Hedging|hedging]] in Chapter 27.  
+there will be transactions costs of rebalancing the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) as the delta of the option changes over time. We discuss dynamic [hedging](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) in Chapter 27.  
 
 # 18.3 SUMMARY  
 
 • Options are available on individual stocks (e.g. AT&T, Coca-Cola), broad groups of stocks (e.g. index of oil stocks) and on broad market indexes (e.g. S&P 100, S&P 500, FTSE 100, Russell 2000).   
-• A static stock-put hedge provides a minimum (foor) value for a [[An Asset Allocation Primer|portfolio]] of stocks and also allows upside gains if stock prices are high, at maturity of the option.   
-• A dynamic stock-put delta hedge ensures that any gains (losses) on the stock [[An Asset Allocation Primer|portfolio]] over a small interval of time are ofset by losses (gains) on the puts. Hence, over a small interval of time there is no change in the value of the ‘stock $^+$ put’ [[An Asset Allocation Primer|portfolio]]. A dynamic delta hedge requires frequent rebalancing.   
-• Ratio spreads allow traders to delta hedge an existing option position using ‘other’ options with diferent strikes or [[Hedging Strategies with Forwards|time to maturity]] (but on the same [[Risk Neutral Pricing of Options|underlying asset]]). If an option is mispriced, then a [[Chapter 18 - Stock Options and Stock Index Options|ratio spread]] can be used to hedge the position, while waiting for the mispricing to be corrected.  
+• A static stock-put hedge provides a minimum (foor) value for a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of stocks and also allows upside gains if stock prices are high, at maturity of the option.   
+• A dynamic stock-put delta hedge ensures that any gains (losses) on the stock [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) over a small interval of time are ofset by losses (gains) on the puts. Hence, over a small interval of time there is no change in the value of the ‘stock $^+$ put’ [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). A dynamic delta hedge requires frequent rebalancing.   
+• Ratio spreads allow traders to delta hedge an existing option position using ‘other’ options with diferent strikes or [time to maturity](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (but on the same [underlying asset](../../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md)). If an option is mispriced, then a [ratio spread](.md) can be used to hedge the position, while waiting for the mispricing to be corrected.  
 
 # APPENDIX 18.A: STATIC HEDGE: INDEX PUTS  
 
 You have $V_{A}=\$10$ in portfolio-A of stocks, with $\beta_{A}=1.2$ . If the S&P 100 stock index is currently $S_{0}=1\small{,}000$ and you choose an index put with a strike $K=900$ , this implies the acceptable maximum dollar-loss on your portfolio of stocks is $V_{A}\beta_{A}(K-S_{0})/S_{0}=\mathfrak{G}120,000$ (and hence the minimum (foor) value required is $\$880,000$ .  
 
-To calculate $N_{p}$ consider the outcome at maturity of the put. If the S&P 100 [[Hedging Strategies with Forwards|stock index]] falls to $S_{T}=800~(<K)$ (at expiration of the put option) then the actual loss on your stock [[An Asset Allocation Primer|portfolio]] is $V_{A}\beta_{A}(S_{T}-S_{0})/S_{0}=\mathbb{{\mathbb{S}}}240,000$ . The payof from $N_{p}$ index puts is $N_{p}(K-S_{T})z$ where $z=\$100$ per index point. Hence, for $S_{T}<K$ we choose the number of puts so that:  
+To calculate $N_{p}$ consider the outcome at maturity of the put. If the S&P 100 [stock index](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) falls to $S_{T}=800~(<K)$ (at expiration of the put option) then the actual loss on your stock [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is $V_{A}\beta_{A}(S_{T}-S_{0})/S_{0}=\mathbb{{\mathbb{S}}}240,000$ . The payof from $N_{p}$ index puts is $N_{p}(K-S_{T})z$ where $z=\$100$ per index point. Hence, for $S_{T}<K$ we choose the number of puts so that:  
 
-Actual loss stock [[An Asset Allocation Primer|portfolio]] $^+$ payof from puts $\b=$ Acceptable max loss stock [[An Asset Allocation Primer|portfolio]]  
+Actual loss stock [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $^+$ payof from puts $\b=$ Acceptable max loss stock [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 $$
 V_{A}\beta_{A}(S_{T}-S_{0})/S_{0}+N_{p}(K-S_{T})\S100=V_{A}\beta_{A}(K-S_{0})/S_{0}
 $$  
@@ -215,18 +215,18 @@ $$
 \Rightarrow N_{p}=\frac{\mathcal{S}-\nu a l u e\ o f s t o c k\ p o r t f o l i o}{\mathcal{S}-\nu a l u e\ o f s t o c k\ i n d e x}\beta_{A}=\frac{V_{A}}{z S_{0}}\ \beta_{A}=12
 $$  
 
-The payof from the 12 long puts is $N_{p}(K-S_{T})z=\mathbb{\S}120,000$ so that Equation (18.A.1) is satisfed. The actual loss on the stock [[An Asset Allocation Primer|portfolio]] is $\$240,000$ , the payof from the puts is $\$120,000$ which gives a net loss of $\$120,000$ , which equals your maximum acceptable loss set by your choice of strike price, $K=900$ .  
+The payof from the 12 long puts is $N_{p}(K-S_{T})z=\mathbb{\S}120,000$ so that Equation (18.A.1) is satisfed. The actual loss on the stock [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is $\$240,000$ , the payof from the puts is $\$120,000$ which gives a net loss of $\$120,000$ , which equals your maximum acceptable loss set by your choice of strike price, $K=900$ .  
 
-Equation (18.A.2) is often described as follows. The number of index units held in the stock [[An Asset Allocation Primer|portfolio]] is $V_{A}/S_{0}$ . If $\beta_{A}=1$ then the number of index units held in puts should therefore also equal $V_{A}/S_{0}$ . But as each index point is worth $z=\$100$ , and the stock portfolio beta $\beta_{A}$ may not be equal to one, then the required $N_{p}$ is given by (18.A.2).  
+Equation (18.A.2) is often described as follows. The number of index units held in the stock [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is $V_{A}/S_{0}$ . If $\beta_{A}=1$ then the number of index units held in puts should therefore also equal $V_{A}/S_{0}$ . But as each index point is worth $z=\$100$ , and the stock portfolio beta $\beta_{A}$ may not be equal to one, then the required $N_{p}$ is given by (18.A.2).  
 
 # APPENDIX 18.B: DYNAMIC DELTA HEDGE  
 
-A diversifed stock [[An Asset Allocation Primer|portfolio]] consists of $N_{i}$ diferent stocks- $i$ with prices $X_{i}$ . The value of [[An Asset Allocation Primer|portfolio]]-A consisting of $m$ -stocks is $\begin{array}{r}{V_{A}=\dot{\sum_{i=1}^{m}}N_{i}X_{i}=\sum_{i=1}^{m}V_{i}}\end{array}$ hence:  
+A diversifed stock [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) consists of $N_{i}$ diferent stocks- $i$ with prices $X_{i}$ . The value of [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)-A consisting of $m$ -stocks is $\begin{array}{r}{V_{A}=\dot{\sum_{i=1}^{m}}N_{i}X_{i}=\sum_{i=1}^{m}V_{i}}\end{array}$ hence:  
 $$
 d V_{A}=V_{A}R_{A}
 $$  
 
-where $\begin{array}{r}{R_{A}\equiv\sum_{i=1}^{m}w_{i}R_{i}}\end{array}$ is the return on [[An Asset Allocation Primer|portfolio]]-A, $R_{i}=d X_{i}/X_{i}$ is the return on stock- $i$ and $w_{i}\equiv V_{i}/V_{A}$ is pr=oportion held in each stock- $i$ . Assume, [[An Asset Allocation Primer|portfolio]]-A has a market beta $\beta_{A}$ with respect to the S&P 100 market index, $R_{m}$ . To preserve the value of the stock [[An Asset Allocation Primer|portfolio]] over a small interval of time, we use a dynamic [[The Value of the Swap Contract after Initiation|hedging strategy]] with stocks $+$ puts. The value of the hedge [[An Asset Allocation Primer|portfolio]] is $V=V_{A}+N_{p}z\ P$ , hence:  
+where $\begin{array}{r}{R_{A}\equiv\sum_{i=1}^{m}w_{i}R_{i}}\end{array}$ is the return on [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)-A, $R_{i}=d X_{i}/X_{i}$ is the return on stock- $i$ and $w_{i}\equiv V_{i}/V_{A}$ is pr=oportion held in each stock- $i$ . Assume, [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)-A has a market beta $\beta_{A}$ with respect to the S&P 100 market index, $R_{m}$ . To preserve the value of the stock [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) over a small interval of time, we use a dynamic [hedging strategy](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/The%20Value%20of%20the%20Swap%20Contract%20after%20Initiation.md) with stocks $+$ puts. The value of the hedge [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is $V=V_{A}+N_{p}z\ P$ , hence:  
 $$
 d V=V_{A}R_{A}+N_{p}z\ \Delta_{p}\ d S=V_{A}R_{A}+N_{p}\Delta_{p}(z S_{0})\ (d S/S_{0})=0
 $$  
@@ -240,37 +240,37 @@ $$
 
 # Question 1  
 
-If the initial [[Chapter 16 - Black–Scholes Model|stock price]] is $S_{0}$ and the [[Chapter 17 - Option Strategies|call premium]] is $C_{0}$ show the payof and profts at maturity for a [[Chapter 18 - Stock Options and Stock Index Options|covered call]]. Is a [[Chapter 18 - Stock Options and Stock Index Options|covered call]] strategy risk free?  
+If the initial [stock price](Chapter%2016%20-%20Black–Scholes%20Model.md) is $S_{0}$ and the [call premium](Chapter%2017%20-%20Option%20Strategies.md) is $C_{0}$ show the payof and profts at maturity for a [covered call](.md). Is a [covered call](.md) strategy risk free?  
 
 # Question 2  
 
-A [[Uses of Interest Rate Swaps|pension fund]] has to pay out a ‘lump sum’ to its pensioners in 6 months’ time.  
+A [pension fund](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Uses%20of%20Interest%20Rate%20Swaps.md) has to pay out a ‘lump sum’ to its pensioners in 6 months’ time.  
 
-Why might the [[Uses of Interest Rate Swaps|pension fund]] (which holds a diversifed [[An Asset Allocation Primer|portfolio]] of stocks), purchase index puts, with 6 months to maturity, that are currently $3\%$ out of-the-money (OTM)?  
+Why might the [pension fund](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Uses%20of%20Interest%20Rate%20Swaps.md) (which holds a diversifed [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of stocks), purchase index puts, with 6 months to maturity, that are currently $3\%$ out of-the-money (OTM)?  
 
 # Question 3  
 
-What is a [[Chapter 29 - Portfolio Insurance|protective put]]? Why is the payof (profle) to a [[Chapter 29 - Portfolio Insurance|protective put]], qualitatively like the payof to a long call?  
+What is a [protective put](../Part%20VI%20-%20The%20Greeks/Chapter%2029%20-%20Portfolio%20Insurance.md)? Why is the payof (profle) to a [protective put](../Part%20VI%20-%20The%20Greeks/Chapter%2029%20-%20Portfolio%20Insurance.md), qualitatively like the payof to a long call?  
 
 # Question 4  
 
-What is the payof profle (at expiration) and the breakeven [[Call and Put Payoffs at Expiry|strike price]] for a [[An Asset Allocation Primer|portfolio]] consisting of an equal number of long stocks and long puts? The puts have $K=164$ and $P=\$6$ . What is the proft at expiration of the puts, if $S_{T}=163?$ Assume the initial stock price is $S_{0}=162$ .  
+What is the payof profle (at expiration) and the breakeven [strike price](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) for a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) consisting of an equal number of long stocks and long puts? The puts have $K=164$ and $P=\$6$ . What is the proft at expiration of the puts, if $S_{T}=163?$ Assume the initial stock price is $S_{0}=162$ .  
 
 # Question 5  
 
-The current [[Chapter 16 - Black–Scholes Model|stock price]] is $S_{0}=100\$ . A put with a strike of $K=98$ (with 6 months to maturity) is available at a price of $P=\$4$ . In a table, show the payof and proft from a protective put for outcomes at maturity of $S_{T}\geq K$ and $S_{T}<K$ . What is the breakeven [[Chapter 16 - Black–Scholes Model|stock price]] (which gives zero proft)? Who might use a [[Chapter 29 - Portfolio Insurance|protective put]]?  
+The current [stock price](Chapter%2016%20-%20Black–Scholes%20Model.md) is $S_{0}=100\$ . A put with a strike of $K=98$ (with 6 months to maturity) is available at a price of $P=\$4$ . In a table, show the payof and proft from a protective put for outcomes at maturity of $S_{T}\geq K$ and $S_{T}<K$ . What is the breakeven [stock price](Chapter%2016%20-%20Black–Scholes%20Model.md) (which gives zero proft)? Who might use a [protective put](../Part%20VI%20-%20The%20Greeks/Chapter%2029%20-%20Portfolio%20Insurance.md)?  
 
-<html><body><table><tr><td>[[Chapter 16 - Black–Scholes Model|Stock price]] (Note: K = 98)</td><td>Payoff Long stock and long put</td><td>Profit</td></tr><tr><td>ST≥K</td><td></td><td></td></tr><tr><td>ST<K</td><td></td><td></td></tr></table></body></html>  
+<html><body><table><tr><td>[Stock price](Chapter%2016%20-%20Black–Scholes%20Model.md) (Note: K = 98)</td><td>Payoff Long stock and long put</td><td>Profit</td></tr><tr><td>ST≥K</td><td></td><td></td></tr><tr><td>ST<K</td><td></td><td></td></tr></table></body></html>  
 
 # Question 6  
 
-You hold a [[An Asset Allocation Primer|portfolio]] of $N_{s}=1\mathrm{,000}$ stocks of Coca-Cola with current price $S=\$80$ . A put option on Coca-Cola is available with $K=\$75$ , [[Chapter 17 - Option Strategies|put premium]] $P=\$10$ and a delta of $\Delta_{p}=-0.2$ . (Each put is written on $\phi=100$ stocks). How would you delta-hedge your stock position and what would happen to the value of your stock-put portfolio if stock prices rise by $\$2$ over the next day?  
+You hold a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of $N_{s}=1\mathrm{,000}$ stocks of Coca-Cola with current price $S=\$80$ . A put option on Coca-Cola is available with $K=\$75$ , [put premium](Chapter%2017%20-%20Option%20Strategies.md) $P=\$10$ and a delta of $\Delta_{p}=-0.2$ . (Each put is written on $\phi=100$ stocks). How would you delta-hedge your stock position and what would happen to the value of your stock-put portfolio if stock prices rise by $\$2$ over the next day?  
 
 # Question 7  
 
 You hold a position in $N_{p}=40$ put options (on stock-A), with market price $P=\$3$ and $\Delta_{p}=$ $-0.40$ . Assume each put option is written on $\phi=100$ stocks. You believe these puts are underpriced by $1\%$ because you think volatility will increase in the future – although all other options traders believe volatility will not change).  
 
-(a) How can you take advantage of the underpricing of the put options, while protecting yourself against the change in the [[Chapter 17 - Option Strategies|put premium]], due to unexpected changes in the [[Chapter 16 - Black–Scholes Model|stock price]]?   
-(b) If the [[Chapter 16 - Black–Scholes Model|stock price]] falls by $\$2$ over the next day and the underpricing of the put is not corrected, what is the outcome of your strategy? Explain.   
-(c) If the [[Chapter 16 - Black–Scholes Model|stock price]] falls by $\$2$ and the underpricing of the put option of $1\%$ is corrected, what is the outcome of your strategy? Explain.   
+(a) How can you take advantage of the underpricing of the put options, while protecting yourself against the change in the [put premium](Chapter%2017%20-%20Option%20Strategies.md), due to unexpected changes in the [stock price](Chapter%2016%20-%20Black–Scholes%20Model.md)?   
+(b) If the [stock price](Chapter%2016%20-%20Black–Scholes%20Model.md) falls by $\$2$ over the next day and the underpricing of the put is not corrected, what is the outcome of your strategy? Explain.   
+(c) If the [stock price](Chapter%2016%20-%20Black–Scholes%20Model.md) falls by $\$2$ and the underpricing of the put option of $1\%$ is corrected, what is the outcome of your strategy? Explain.   
 (d) What are the risks in your strategy?  

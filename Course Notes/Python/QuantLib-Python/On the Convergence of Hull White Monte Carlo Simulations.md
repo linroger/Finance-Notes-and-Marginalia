@@ -28,12 +28,12 @@ key_concepts:
 ---
 
 # On the Convergence of Hull White Monte Carlo Simulations
-I had recently written an introductory post on [simulating short rates in the [[On the Convergence of Hull White Monte Carlo Simulations|Hull-White Model]]](http://gouthamanbalaraman.com/blog/hull-white-simulation-[[Introduction to QuantLib Python|quantlib]]-python.html). This [question on the [[Introduction to QuantLib Python|QuantLib]] forum](http://quantlib0.\1.n7.nabble.com/Matching-results-between-HW-tree-and-simulation-models-td16399.html) raised some interesting questions on the convergence of the [[On the Convergence of Hull White Monte Carlo Simulations|Hull-White model]] simulations. In this post,  I discuss the convergence of Monte-Carlo simulations using the [[On the Convergence of Hull White Monte Carlo Simulations|Hull-White model]].
+I had recently written an introductory post on [simulating short rates in the [Hull-White Model](.md)](http://gouthamanbalaraman.com/blog/hull-white-simulation-[quantlib](Introduction%20to%20QuantLib%20Python.md)-python.html). This [question on the [QuantLib](Introduction%20to%20QuantLib%20Python.md) forum](http://quantlib0.\1.n7.nabble.com/Matching-results-between-HW-tree-and-simulation-models-td16399.html) raised some interesting questions on the convergence of the [Hull-White model](.md) simulations. In this post,  I discuss the convergence of Monte-Carlo simulations using the [Hull-White model](.md).
 
-The [[Hull White Term Structure Simulations with QuantLib Python|Hull-White Short Rate Model]] is defined as:
+The [Hull-White Short Rate Model](Hull%20White%20Term%20Structure%20Simulations%20with%20QuantLib%20Python.md) is defined as:
 $$ dr\_t = (\theta(t) - a r\_t)dt + \sigma dW\_t $$,
 
-where $a$ and $\sigma $ are constants,  and $\theta(t)$ is chosen in order to fit the input [[6. A Brief Introduction to Stochastic Calculus|term structure of interest rates]]. Here we use [[Introduction to QuantLib Python|QuantLib]] to show how to simulate the [[On the Convergence of Hull White Monte Carlo Simulations|Hull-White model]] and investigate some of the properties.
+where $a$ and $\sigma $ are constants,  and $\theta(t)$ is chosen in order to fit the input [term structure of interest rates](../../../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md). Here we use [QuantLib](Introduction%20to%20QuantLib%20Python.md) to show how to simulate the [Hull-White model](.md) and investigate some of the properties.
 
 The variables used in this post are described below:
 
@@ -43,8 +43,8 @@ The variables used in this post are described below:
 - `low_discrepancy` is a boolean variable that is used to chose `Sobol` low discrepancy random or not
 - `brownnian_bridge` is a boolean that choses brownian bridge for path generation
 - `num_paths` is the number of paths in the simulation
-- `a` is the constant parameter in the [[On the Convergence of Hull White Monte Carlo Simulations|Hull-White model]]
-- `sigma` is the constant parameter $\sigma$ in the [[On the Convergence of Hull White Monte Carlo Simulations|Hull-White model]] that describes volatility
+- `a` is the constant parameter in the [Hull-White model](.md)
+- `sigma` is the constant parameter $\sigma$ in the [Hull-White model](.md) that describes volatility
 ```python
 import QuantLib as ql
 import matplotlib.pyplot as plt
@@ -90,7 +90,7 @@ def generate_paths(num_paths,    timestep,    seq):
     return np.array(time),    arr
 ```
 
-The `generate_paths_zero_price` essentially is a wrapper around `generate_path_generator` and `generate_paths` taking all the required raw inputs. This function [[Assets|returns]] the average of zero prices from all the paths for different points in time. I wrote this out so that I can conveniently change all the required inputs and easily plot the results.
+The `generate_paths_zero_price` essentially is a wrapper around `generate_path_generator` and `generate_paths` taking all the required raw inputs. This function [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) the average of zero prices from all the paths for different points in time. I wrote this out so that I can conveniently change all the required inputs and easily plot the results.
 ```python
 def generate_paths_zero_price(spot_curve_handle,    a,    sigma,    timestep,    length,    
                               num_paths,    avg_grid_array,    low_discrepancy=False,    
@@ -138,13 +138,13 @@ def V(t,   T,    a,    sigma):
 
 ## Factors affecting the convergence
 
-In order to understand the convergence of Monte-Carlo for the [[On the Convergence of Hull White Monte Carlo Simulations|Hull-White model]],  let us compare the market [[Discount Factors|discount factor]],
+In order to understand the convergence of Monte-Carlo for the [Hull-White model](.md),  let us compare the market [discount factor](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md),
 $$ P^M(t,     T) = \exp\left(-\int\_t^Tf^{M} (t,    u)du\right)$$
 
 with the expectation of the discount factors from the sample of Monte-Carlo paths,
 $$P^{MC}(t,    T) = E\_t\left\{ e^{-\int\_t^T r^{MC}(u) du} \right\}$$.
 
-Here $f^{M}(t,     T)$ is the instantaneous [[Forward Points in Currency|forward rate]] implied by the market,  and $r^{MC}(s)$ is the instantaneous [[An Overview of the Vasicek Short Rate Model|short rate]] from the Monte-Carlo simulations. The error in the Monte-Carlo simulation can be defined as:
+Here $f^{M}(t,     T)$ is the instantaneous [forward rate](../../../Clippings/Forward%20Points%20in%20Currency.md) implied by the market,  and $r^{MC}(s)$ is the instantaneous [short rate](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) from the Monte-Carlo simulations. The error in the Monte-Carlo simulation can be defined as:
 $$ \epsilon(T) = P^M(0,    T) - P^{MC}(0,    T) $$
 
 As a first step,  let us look at the plots of $\epsilon(t)$ for different values of $a$ and $\sigma$.
@@ -243,11 +243,11 @@ plt.show()
  ![500](Discount_Factor_Error.png)
 The above plot illustrates that for $a=0.1$ the convergence of Monte-Carlo is poor,  and it gradually improves as $a$ increases more than $\sigma$.
 
-From the plots above,  we observe that the convergence is good if the ratio $\sigma/a < 1$,  and the convergence detiorates as the ratio $\sigma/a$ increases above unity. Now,  let us try to formalize this observation from the theoretical footing of the [[On the Convergence of Hull White Monte Carlo Simulations|Hull-White model]].
+From the plots above,  we observe that the convergence is good if the ratio $\sigma/a < 1$,  and the convergence detiorates as the ratio $\sigma/a$ increases above unity. Now,  let us try to formalize this observation from the theoretical footing of the [Hull-White model](.md).
 
 ## Distribution of Discount Factors
 
-The Monte-Carlo approach estimates the market [[Discount Factors|discount factor]] as the expectation of discount factors from each Monte-Carlo path. If distribution of discount factors has a standard deviation $\sigma\_D$,  then the error in our estimate of $P^{MC}(t,    T)$ on using $N$ paths will be of the order of: $$\epsilon(t,    T) \approx \frac{\sigma\_D}{\sqrt(N)}. $$
+The Monte-Carlo approach estimates the market [discount factor](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) as the expectation of discount factors from each Monte-Carlo path. If distribution of discount factors has a standard deviation $\sigma\_D$,  then the error in our estimate of $P^{MC}(t,    T)$ on using $N$ paths will be of the order of: $$\epsilon(t,    T) \approx \frac{\sigma\_D}{\sqrt(N)}. $$
 
 In other words,  there are two factors at play in our Monte-Carlo estimate,  the number of Monte-Carlo paths $N$ and the standard deviation of the distribution of discount factors $\sigma$. Using more Monte-Carlo paths will lead to improved convergence. But at the same time,  the $\sigma\_D$ has to be relatively small for us to get a good estimate.
 
@@ -255,7 +255,7 @@ The integral of short rates can be shown to be normally distributed (refer Brigo
 
 where,  \begin{eqnarray} B(t,  T) = \frac{1}{a} \left\[ 1 - e^{-a(T-t)}\right\] \\ V(t,  T) = \frac{\sigma^2}{a^2}\left\[ T - t + \frac{2}{a}e^{-a(T-t)} - \frac{1}{2a}e^{-2a(T-t)} - \frac{3}{2a}\right\] \end{eqnarray}
 
-Based on this result,  the [[Discount Factors|discount factor]] from the Monte-Carlo simulation of short rates
+Based on this result,  the [discount factor](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) from the Monte-Carlo simulation of short rates
 $$ P^{MC}(t,     T) = \exp\left(- \int\_t^T r(u) du | \mathcal{F}\_t \right)$$
 
 will have a log-normal distribution with a standard deviation

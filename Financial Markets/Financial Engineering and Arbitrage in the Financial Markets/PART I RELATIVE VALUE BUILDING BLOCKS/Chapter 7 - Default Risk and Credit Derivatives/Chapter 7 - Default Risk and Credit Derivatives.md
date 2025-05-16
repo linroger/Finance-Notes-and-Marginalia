@@ -1,12 +1,12 @@
 %% Begin Waypoint %%
-- **[[Chapter 7 - Default Risk and Credit Derivatives]]**
-	- [[A Constant Default Probability Model]]
-	- [[A Deterministic Credit Migration Model]]
-	- [[A Poisson Model of Single Issuer Default]]
-	- [[Chapter 7 - Default Risk and Credit Derivatives]]
-	- [[Credit Default Swaps]]
-	- [[Default Risk and Credit Derivatives 183]]
-	- [[The Default Correlation of the Reference Issuer]]
+- **[Chapter 7 - Default Risk and Credit Derivatives](.md)**
+	- [A Constant Default Probability Model](A%20Constant%20Default%20Probability%20Model.md)
+	- [A Deterministic Credit Migration Model](A%20Deterministic%20Credit%20Migration%20Model.md)
+	- [A Poisson Model of Single Issuer Default](A%20Poisson%20Model%20of%20Single%20Issuer%20Default.md)
+	- [Chapter 7 - Default Risk and Credit Derivatives](.md)
+	- [Credit Default Swaps](Credit%20Default%20Swaps.md)
+	- [Default Risk and Credit Derivatives 183](Default%20Risk%20and%20Credit%20Derivatives%20183.md)
+	- [The Default Correlation of the Reference Issuer](The%20Default%20Correlation%20of%20the%20Reference%20Issuer.md)
 
 %% End Waypoint %%
 

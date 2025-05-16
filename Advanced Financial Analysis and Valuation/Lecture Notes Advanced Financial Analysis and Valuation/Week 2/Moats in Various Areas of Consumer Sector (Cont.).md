@@ -21,35 +21,35 @@ key_concepts:
 
 [Week 2 Retail](Zhe/Week%202/Week%202%20Retail.md)
 
-[Week 2 [[Week 2 Fundamentals Of Forecasting|Fundamentals]] Of [[Week 2 Fundamentals Of Forecasting|Forecasting]]](Zhe/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md)
+[Week 2 [Fundamentals](Week%202%20Fundamentals%20Of%20Forecasting.md) Of [Forecasting](Week%202%20Fundamentals%20Of%20Forecasting.md)](Zhe/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md)
 
 [Week 2 Dollar General CaseAssignment Review](Zhe/Week%202/Week%202%20Dollar%20General%20Case-%20Assignment%20Review.md)
 
-[[[Dollar General Case Study|DOLLAR GENERAL CASE]] STUDY](DOLLAR%20GENERAL%20CASE%20STUDY.md)
+[DOLLAR GENERAL CASE]([Dollar%20General%20Case%20Study) STUDY](DOLLAR%20GENERAL%20CASE%20STUDY.md)
 
 [HBS DOLLAR GENERAL GOING PRIVATE](HBS%20DOLLAR%20GENERAL%20GOING%20PRIVATE.md)
 
 [DOLLAR TREE CASE STUDY](DOLLAR%20TREE%20CASE%20STUDY.md)
 
-[[[BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS|BROADLINES RETAILING]] DAY WITH THE DOLLAR STORE HIGHLIGHTS](BROADLINES%20RETAILING%20DAY%20WITH%20THE%20DOLLAR%20STORE%20HIGHLIGHTS.md)
+[BROADLINES RETAILING]([BROADLINES%20RETAILING%20DAY%20WITH%20THE%20DOLLAR%20STORE%20HIGHLIGHTS) DAY WITH THE DOLLAR STORE HIGHLIGHTS](BROADLINES%20RETAILING%20DAY%20WITH%20THE%20DOLLAR%20STORE%20HIGHLIGHTS.md)
 
 [PSET 2- GROUP ASSIGNMENT](PSET%202-%20GROUP%20ASSIGNMENT.md)
 
 ## Advanced Financial Analysis and Valuation of Global Firms
 
-[[Week 2 Fundamentals Of Forecasting|Fundamentals]] of [[Week 2 Fundamentals Of Forecasting|Forecasting]] (using Retail)
+[Fundamentals](Week%202%20Fundamentals%20Of%20Forecasting.md) of [Forecasting](Week%202%20Fundamentals%20Of%20Forecasting.md) (using Retail)
 
 Today
 
-- [[Moats in Various Areas of Consumer Sector (Cont.)|Retail industry analysis]]
-	 - Serves as an example for [[Porter's Five Forces|industry analysis]]
+- [Retail industry analysis](.md)
+	 - Serves as an example for [industry analysis](../../Porter's%20Five%20Forces.md)
 	 - Key to understanding the business model
 - Value drivers in retail
-- Revenue [[Week 2 Fundamentals Of Forecasting|forecasting]]
-	 - Retail is a good industry to illustrate revenue [[Week 2 Fundamentals Of Forecasting|forecasting]]
+- Revenue [forecasting](Week%202%20Fundamentals%20Of%20Forecasting.md)
+	 - Retail is a good industry to illustrate revenue [forecasting](Week%202%20Fundamentals%20Of%20Forecasting.md)
 	 - Building revenue forecasts bottom up and top down
 - Financial shenanigans in retail
-- [[Dollar General Case Study|Dollar General case]]
+- [Dollar General case](../../Problem%20Sets/Dollar%20General%20Case%20Study.md)
 
 ## VALUATION PROCESS
 
@@ -71,9 +71,9 @@ Source: Michael Porter,   *Competitive Strategy*,   1980 
 Source: Credit Suisse Many players and low market shares – competition is intense
 
 ## PRICING ANALYSIS: WHOLE FOODS
-- ANALYZING [[Arbitrage Pricing of Derivatives|PRICING]] PROVIDES INSIGHTS INTO COMPETITIVE RIVALRY COMPARING PRICES
+- ANALYZING [PRICING](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) PROVIDES INSIGHTS INTO COMPETITIVE RIVALRY COMPARING PRICES
 -  ![500](dd8e0348de8dc52add14eaa7f3d17d25.png)
-- ACROSS COMPETITORS BY PRODUCT CATEGORY COMPARING PRIVATE LABEL (WHOLE FOODS 365) TO MAIN BRAND [[Arbitrage Pricing of Derivatives|PRICING]]
+- ACROSS COMPETITORS BY PRODUCT CATEGORY COMPARING PRIVATE LABEL (WHOLE FOODS 365) TO MAIN BRAND [PRICING](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)
 ### PRICE GAP ANALYSIS: KROGER VS. WALMART COMPETITIVE STRATEGIES
 
  ![500](cffedda1962d54d82e3faae68366fd72.png)
@@ -153,12 +153,12 @@ Our largest customer,  Walmart Inc.,  represented approximately 21% of our net s
 
 PepsiCo (10‐K for FY ended Dec‐2017)
 
-We are exposed to concentration of [[Quantitative Trading Strategies Lecture Notes|credit risk]] from our major customers,  including Walmart. In 2017,  sales to Walmart (including Sam's) represented approximately 13% of our consolidated net revenue,  including concentrate sales to our independent bottlers,  which were used in finished goods sold by them to Walmart. We have not experienced credit issues with these customers.
+We are exposed to concentration of [credit risk](../../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) from our major customers,  including Walmart. In 2017,  sales to Walmart (including Sam's) represented approximately 13% of our consolidated net revenue,  including concentrate sales to our independent bottlers,  which were used in finished goods sold by them to Walmart. We have not experienced credit issues with these customers.
 
 ## SUMMARY OF RETAIL INDUSTRY ANALYSIS
 
 - Retailers face a complex and fiercely competitive environment,  low barriers to entry and clear substitutes,  in particular,  in the form of e‐commerce,  which is gaining market share
-- Fiercely competitive environment and secular changes are also evident in many [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] filings:
+- Fiercely competitive environment and secular changes are also evident in many [bankruptcy](../../../Course%20Notes/HBR%20Notes/A%20Strategic%20Perspective%20on%20Bankruptcy.md) filings:
 	 - Bed Bath and Beyond (2023)
 	 - Paper Source (2021)
 	 - Christopher & Banks (2021)
@@ -220,14 +220,14 @@ Numbers are from Industry Ratio Spreadsheet posted on Canvas (Useful M
 ## MARGINS
 
 - Close link between competitive strategy analysis and this value driver
-	 - Gross margin indicates [[Arbitrage Pricing of Derivatives|pricing]] or bargaining power
+	 - Gross margin indicates [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) or bargaining power
 	 - Gross margins depend on format,  mix,  and strategic decisions,  such as private label offerings
 	 - Composition effects are important to understand
 		  - Different brands
 		  - Brands vs. private label
 - Gross margins in retail tend to be reasonably stable
 	 - Most retailers pass cost savings on to consumers
-	 - But they tend to adjust [[Arbitrage Pricing of Derivatives|pricing]] to [[War Economies and Hyperinflation|inflation]]
+	 - But they tend to adjust [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) to [inflation](../../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)
 - Operating margins
 	 - Brings in other costs: SG&A
 	 - Payroll,  store layout and footprint efficiency
@@ -235,7 +235,7 @@ Numbers are from Industry Ratio Spreadsheet posted on Canvas (Useful M
 ## SAME STORE SALES (SSS)
 
 - Same store sales growth measures sales at locations open for at least a year and excludes sales from new stores
-	 - Also known as comparable store sales or [[Comps Definition,   How They're Used in Analysis,   and Example|Comps]]
+	 - Also known as comparable store sales or [Comps](Comps%20Definition,%20%20%20How%20They're%20Used%20in%20Analysis,%20%20%20and%20Example)
 	 - Organic growth of comparable footage
 	 - New store openings are linked to capex and asset turnover
 - Same store sales depends on traffic and ticket size
@@ -288,7 +288,7 @@ Numbers are from Industry Ratio Spreadsheet posted on Canvas (Useful M
 
 ## VISIBLE ALPHA
 
-- Backed By Leading [[An Asset Allocation Primer|Investment]] Banks
+- Backed By Leading [Investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Banks
 	 - Banks Are Contributing Content (Full Models)
 	 - In essence,  you get "valuation‐implied" consensus for specific value drivers
  ![500](8e0a8d56e71195f7f4d748a8d221a665.png)
@@ -310,9 +310,9 @@ Rivian: TAM for last‐mile delivery van
 
 - TAM estimates (as of June 2020):
 	 - S‐1 (at IPO) estimated unified communications (UC) market to have a TAM of $43bn by 2022
-		  - [[WSJ-Excerpts From the Lehman Report|J.P. Morgan]] estimates TAM of roughly 40bn
+		  - [J.P. Morgan](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/WSJ-Excerpts%20From%20the%20Lehman%20Report.md) estimates TAM of roughly 40bn
 - However,  TAM could increase with use case expansions (education,  phone)
-	 - [[Lessons From The Crisis|Morgan Stanley]] estimates TAM of $100bn+
+	 - [Morgan Stanley](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Lessons%20From%20The%20Crisis.md) estimates TAM of $100bn+
 		  - Traditional UC market + combined education and UC market
 - TAM estimates (as of November 2022):
 	 - Morningstar considered TAM to be $35 billion when Zoom issued its S‐1
@@ -323,7 +323,7 @@ Rivian: TAM for last‐mile delivery van
 
 - Many other forecasts are derived relative to sales
 	 - Costs are typically estimated as a fraction of sales
-	 - Asset turnover forecast essentially "fixes" [[An Asset Allocation Primer|investment]] relative to sales
+	 - Asset turnover forecast essentially "fixes" [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) relative to sales
 - What about fixed costs?
 	 - Does it make sense to predict margins (or COGS) relative to sales?
 	 - Let's take a quick vote
@@ -341,18 +341,18 @@ included special charges
 - Turnover forecasts are relative to revenues
 	 - What does this imply?
 	 - Is this reasonable? Let's consider UPS or Fedex (trucks,  planes,  etc.)
-- Fixed costs can matter for your capex [[Week 2 Fundamentals Of Forecasting|forecasting]] some industries or firms
+- Fixed costs can matter for your capex [forecasting](Week%202%20Fundamentals%20Of%20Forecasting.md) some industries or firms
 	 - Pulp and paper
 	 - Semiconductors
 	 - Tesla (Gigafactory)
 - Other situations when costs do not behave linearly
 	 - "Sticky" costs when firms face declines in business
 	 - Turnaround situation (costs do not expand as fast)
-	 - Scale effects in [[Week 4 Valuing Young and High‐Growth Companies|high growth companies]] (efficiency gains as they grow)
+	 - Scale effects in [high growth companies](../Week%204%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%204%20Valuing%20Young%20and%20High‐Growth%20Companies.md) (efficiency gains as they grow)
 
 ## BOTTOM UP: "UNIT ECONOMICS"
 
-- **[[BMW Valuation|Unit economics]]** help us better understand the underlying drivers of a business
+- **[Unit economics](../../BMW%20Valuation.md)** help us better understand the underlying drivers of a business
 	 - How much revenue does a single unit generate?
 	 - What are the costs to generate a single unit of business?
 - Looking at a business in an atomistic manner helps clarify its profitability (or value creation)
@@ -391,7 +391,7 @@ included special charges
 	 - Identify the "units" to focus on
 - Consider macro trends and addressable market
 	 - Build top down forecasts
-	 - As a driver of [[Macroeconomic Models of Business Cycles|aggregate demand]],  GDP is often not enough
+	 - As a driver of [aggregate demand](../../../International%20Finance/Economic%20Stabilization%20Notes/Macroeconomic%20Models%20of%20Business%20Cycles.md),  GDP is often not enough
 	 - Consider explicit links to customer demographics and spending patterns
 - Combine with bottom‐up forecasts
 	 - Consider detailed transaction/customer‐level data
@@ -401,9 +401,9 @@ included special charges
 ## FINANCIAL SHENANIGANS
 
 - How Can Managers Use Accounting And Financial Reporting To Create The Desired Picture Of Firm Performance Or Trend In Financial Numbers?
-	 - Use discretion in the [[Week 6 Bank Business Model, Regulation, and Accounting Rules|accounting rules]]
+	 - Use discretion in the [accounting rules](../Week%206/Week%206%20Bank%20Business%20Model,%20Regulation,%20and%20Accounting%20Rules.md)
 - Three types of shenanigans:
-	 - [[Week 4 Valuing Young and High‐Growth Companies|Accounting shenanigans]]
+	 - [Accounting shenanigans](../Week%204%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%204%20Valuing%20Young%20and%20High‐Growth%20Companies.md)
 	 - Cash flow shenanigans
 	 - Non‐GAAP reporting (or KPI) shenanigans
 		 - For retail: e.g.,   same‐store sales growth
@@ -433,7 +433,7 @@ regularly reported revenue growth exceeding analysts' consensus forecasts
 - ‒ E.g.,   slower sales of more expensive winter apparel due to warm weather
 	- Under Armour "pulls forward" $408 million in existing orders customers requested to be
 	shipped in future quarters (over six quarters)
-	- Reliance on "pull [[Forwards and Futures|forwards]]" increases over time as the gap between actual and projected revenue gets bigger
+	- Reliance on "pull [forwards](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md)" increases over time as the gap between actual and projected revenue gets bigger
 - Under Armour agreed to cease and desist from further violations and to pay a $9 million penalty
 
 ## VENDOR REBATES AT TESCO
@@ -473,7 +473,7 @@ sales
 	- ‒ Performance over time
 	- ‒ Performance relative to peers
 	- ‒ Performance decline for year ending Feb 2007
-- [[Week 2 Fundamentals Of Forecasting|Forecasting]] and pro‐forma adjustments
+- [Forecasting](Week%202%20Fundamentals%20Of%20Forecasting.md) and pro‐forma adjustments
 - Valuation by multiple
 	- ‒ Using pro‐forma 2007
 	- ‒ One‐year forward multiple 2008

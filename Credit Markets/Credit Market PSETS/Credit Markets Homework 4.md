@@ -51,15 +51,15 @@ As_of_date = pd. To_datetime ('2024-04-19')
 -----------------------------------------------------------
 # Problem 1: Pricing risky bonds in the hazard rate model
 ## This is building upon
-- Homework 2 "Problem 2: US Treasury yield curve [[Credit Markets Session 4|calibration]] (On-The-Runs)",
-- Homework 3 "Problem 3: [[Credit Markets Homework 3|US SOFR swap curve]] [[Credit Markets Session 4|calibration]]" and
-- Homework 3 "Problem 4: [[Credit Markets Homework 4|CDS Hazard Rate]] [[Credit Markets Session 4|calibration]]".
+- Homework 2 "Problem 2: US Treasury yield curve [calibration](../Credit%20Markets%20Session%204.md) (On-The-Runs)",
+- Homework 3 "Problem 3: [US SOFR swap curve](Credit%20Markets%20Homework%203.md) [calibration](../Credit%20Markets%20Session%204.md)" and
+- Homework 3 "Problem 4: [CDS Hazard Rate](.md) [calibration](../Credit%20Markets%20Session%204.md)".
 
 ## a. Prepare the market data
 ### Load the symbology + market data dataframes. Calibrate the following curves as of 2024-04-19
 - The "on-the-run" US Treasury curve,
-- The US [[Credit Markets Homework 3|SOFR curve]] and
-- The IBM [[Credit Markets Homework 4|CDS hazard rate]] curve (on the top of SOFR [[Advanced Usage of QuantLib analytics library|discount curve]]).
+- The US [SOFR curve](Credit%20Markets%20Homework%203.md) and
+- The IBM [CDS hazard rate](.md) curve (on the top of SOFR [discount curve](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md)).
 ```python
 # US Treasury "On-The-Run" yield curve calibration
 # Follow Homework 2 Problem 2 and populate the US Treasury On-The-Run symbology + market data frame
@@ -313,7 +313,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
 	  <th>dcc</th>
 	  <th>exchange</th>
 	  <th>country</th>
-	  <th>[[Forwards and Futures Notes|currency]]</th>
+	  <th>[currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)</th>
 	  <th>status</th>
 	</tr>
 	<tr>
@@ -476,7 +476,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
 	  <th>dcc</th>
 	  <th>exchange</th>
 	  <th>country</th>
-	  <th>[[Forwards and Futures Notes|currency]]</th>
+	  <th>[currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)</th>
 	  <th>status</th>
 	  <th>date</th>
 	  <th>bidRate</th>
@@ -779,7 +779,7 @@ Display (ibm_df. T)
 	  <td>US</td>
 	</tr>
 	<tr>
-	  <th>[[Forwards and Futures Notes|currency]]</th>
+	  <th>[currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)</th>
 	  <td>USD</td>
 	  <td>USD</td>
 	  <td>USD</td>
@@ -1134,7 +1134,7 @@ For i in range (0,            3):
 Ibm_df['modelPrice'] = ibm_model_prices
 Ibm_df['modelYield'] = ibm_model_yields
 
-display (ibm_df [['security',            'modelPrice',            'modelYield']])
+display (ibm_df ['security',            'modelPrice',            'modelYield']('security',%20%20%20%20%20%20%20%20%20%20%20%20'modelPrice',%20%20%20%20%20%20%20%20%20%20%20%20'modelYield'))
 
 ```
 
@@ -1206,7 +1206,7 @@ Ibm_df['basisPrice'] = ibm_df['modelPrice'] - ibm_df['midPrice']
 Ibm_df['basisYield'] = ibm_df['modelYield'] - ibm_df['midYield']
 
 # Display relevant metrics
-display (ibm_df [['security',            'midPrice',            'modelPrice',            'basisPrice',            'midYield',            'modelYield',            'basisYield']])
+display (ibm_df ['security',            'midPrice',            'modelPrice',            'basisPrice',            'midYield',            'modelYield',            'basisYield']('security',%20%20%20%20%20%20%20%20%20%20%20%20'midPrice',%20%20%20%20%20%20%20%20%20%20%20%20'modelPrice',%20%20%20%20%20%20%20%20%20%20%20%20'basisPrice',%20%20%20%20%20%20%20%20%20%20%20%20'midYield',%20%20%20%20%20%20%20%20%20%20%20%20'modelYield',%20%20%20%20%20%20%20%20%20%20%20%20'basisYield'))
 ```
 
 <div>
@@ -1285,10 +1285,10 @@ CDS-implied,  intrinsic bond prices are higher than bond market prices.
 
 Following factors could explain the basis dislocation for the 3 IBM bonds:
 
-1. Hazard Rate curve mismatch: the synthetic CDS credit market is underestimating the [[Quantitative Trading Strategies Lecture Notes|credit risk]] in the IBM issuer curve,  relative to the cash corporate bond market. This opens the opportunity for Bond vs CDS basis [[Arbitrage Pricing of Derivatives|arbitrage]] trades,  as discussed in Session 2.
+1. Hazard Rate curve mismatch: the synthetic CDS credit market is underestimating the [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) in the IBM issuer curve,  relative to the cash corporate bond market. This opens the opportunity for Bond vs CDS basis [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) trades,  as discussed in Session 2.
 1. Risk-free yield curve mismatch: the (synthetic) SOFR yield curve is tighter than the (cash) US Treasury curve. This is usually due to a funding differential for cash vs. Synthetic products.
 1. Temporarily dislocation: Individual bonds are temporarily dislocated from their "fair value" from the issuer curve (e.g. in a Nelson-Siegel type parametric model). This can happen due to buying vs. Selling imbalance in that particular bond.
-1. [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|Liquidity]] discounts: in general,  less liquid (e.g. off-the-run) bonds trade at a price discount to more liquid (e.g. on-the-run) bonds. This usually causes a liquidty-implied "richer" basis (wider in yield space).
+1. [Liquidity](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) discounts: in general,  less liquid (e.g. off-the-run) bonds trade at a price discount to more liquid (e.g. on-the-run) bonds. This usually causes a liquidty-implied "richer" basis (wider in yield space).
 
 -----------------------------------------------------------
 # Problem 2: Compute scenario sensitivities for risky bonds
@@ -1296,11 +1296,11 @@ Following factors could explain the basis dislocation for the 3 IBM bonds:
 
 Use the 3 IBM test bonds defined in Problem 1.
 
-Compute the scenario IR 01 and Durations using a '-1 bp' interest rate shock,  as described in Section 6. "Market Data Scenarios" in the [[Introduction to QuantLib Python|QuantLib]] Basics notebook.
+Compute the scenario IR 01 and Durations using a '-1 bp' interest rate shock,  as described in Section 6. "Market Data Scenarios" in the [QuantLib](../../Course%20Notes/Python/QuantLib-Python/Introduction%20to%20QuantLib%20Python.md) Basics notebook.
 
 Display the computed scenario IR 01 and Durations.
 
-Remember that IR 01 = Dirty_Price * [[Key Rates O1s Durations and Hedging|Duration]].
+Remember that IR 01 = Dirty_Price * [Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md).
 ```python
 # Bump interest rate by -1 bps (parallel shift)
 Interest_rate_scenario_1 bp_down = ql.SimpleQuote (-0.0001)
@@ -1336,7 +1336,7 @@ For i in range (0,            3):
 Ibm_df['scen_IR 01'] = ibm_scen_IR 01
 Ibm_df['scen_duration'] = ibm_scen_duration
 
-display (ibm_df [['security',            'scen_IR01',            'scen_duration']])
+display (ibm_df ['security',            'scen_IR01',            'scen_duration']('security',%20%20%20%20%20%20%20%20%20%20%20%20'scen_IR01',%20%20%20%20%20%20%20%20%20%20%20%20'scen_duration'))
 
 ```
 
@@ -1423,7 +1423,7 @@ For i in range (0,            3):
 Ibm_df['analytic_DV 01'] = ibm_analytic_DV 01 s
 Ibm_df['analytic_duration'] = ibm_analytic_durations
 
-display (ibm_df [['security',            'analytic_DV01',            'analytic_duration']])
+display (ibm_df ['security',            'analytic_DV01',            'analytic_duration']('security',%20%20%20%20%20%20%20%20%20%20%20%20'analytic_DV01',%20%20%20%20%20%20%20%20%20%20%20%20'analytic_duration'))
 
 ```
 
@@ -1480,7 +1480,7 @@ display (ibm_df [['security',            'analytic_DV01',            'analytic_d
 </div>
 ```python
 # Compare the analytical DV 01 s vs. The scenario IR 01 s. Are they expected to be similar?
-display (ibm_df [['security',            'scen_IR01',            'analytic_DV01']])
+display (ibm_df ['security',            'scen_IR01',            'analytic_DV01']('security',%20%20%20%20%20%20%20%20%20%20%20%20'scen_IR01',%20%20%20%20%20%20%20%20%20%20%20%20'analytic_DV01'))
 ```
 
 <div>
@@ -1545,7 +1545,7 @@ Apply a '-1 bp' (parallel shift) scenario to the IBM CDS Par Spread quotes and c
 
 Create a new scenario RiskyBondEngine,  using the scenario hazard rate curve.
 
-Reprice the risky bonds on the scenario RiskyBondEngine (using the bumped hazard rate curve) to obtain the '-1 bp' scenario CS 01 ([[Cds-Equivalent Bond Spread|credit spread]] sensitivities).
+Reprice the risky bonds on the scenario RiskyBondEngine (using the bumped hazard rate curve) to obtain the '-1 bp' scenario CS 01 ([credit spread](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md) sensitivities).
 
 Compare the scenario CS 01 s vs analytic DV 01 s. Are they expected to be similar?
 ```python
@@ -1587,7 +1587,7 @@ For i in range (0,            3):
 Ibm_df['CS 01'] = ibm_model_cs 01
 
 # Compare the scenario CS 01 s vs analytic DV 01 s. Are they expected to be similar?
-display (ibm_df [['security',            'scen_IR01',            'analytic_DV01',            'CS01']])
+display (ibm_df ['security',            'scen_IR01',            'analytic_DV01',            'CS01']('security',%20%20%20%20%20%20%20%20%20%20%20%20'scen_IR01',%20%20%20%20%20%20%20%20%20%20%20%20'analytic_DV01',%20%20%20%20%20%20%20%20%20%20%20%20'CS01'))
 
 ```
 
@@ -1648,17 +1648,17 @@ display (ibm_df [['security',            'scen_IR01',            'analytic_DV01'
 </table>
 </div>
 
-CS 01 s and DV 01 s are expected to be similar,  since a -1 bp change in the [[Cds-Equivalent Bond Spread|credit spread]] curve causes approximately a -1 bp change in the (risky) bond yield curve.
+CS 01 s and DV 01 s are expected to be similar,  since a -1 bp change in the [credit spread](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md) curve causes approximately a -1 bp change in the (risky) bond yield curve.
 
 ## d. Compute scenario REC 01 (recovery rate sensitivity) for the 3 IBM bonds
 
 Use the 3 IBM test bonds defined in Problem 1.
 
-Apply a +1% scenario bump to the IBM [[Credit Markets Session 3|recovery rate]] (bump the flat_recovery_rate parameter by 1%,  from 40% to 41%).
+Apply a +1% scenario bump to the IBM [recovery rate](../Credit%20Markets%20Session%203.md) (bump the flat_recovery_rate parameter by 1%,  from 40% to 41%).
 
-Create a new scenario RiskyBondEngine,  using the scenario new [[Credit Markets Session 3|recovery rate]].
+Create a new scenario RiskyBondEngine,  using the scenario new [recovery rate](../Credit%20Markets%20Session%203.md).
 
-Reprice the risky bonds on the scenario RiskyBondEngine (using the bumped [[Credit Markets Session 3|recovery rate]]) to obtain the +1% scenario REC 01 ([[Credit Markets Session 3|recovery rate]] sensitivity).
+Reprice the risky bonds on the scenario RiskyBondEngine (using the bumped [recovery rate](../Credit%20Markets%20Session%203.md)) to obtain the +1% scenario REC 01 ([recovery rate](../Credit%20Markets%20Session%203.md) sensitivity).
 ```python
 # Bump recovery rate by 1% up
 Flat_recovery_rate_1 pct_up = flat_recovery_rate + 0.01
@@ -1682,7 +1682,7 @@ For i in range (0,            3):
 
 # Display relevant metrics
 Ibm_df['REC 01'] = ibm_model_rec 01
-print (ibm_df [['security',            'REC01']])
+print (ibm_df ['security',            'REC01']('security',%20%20%20%20%20%20%20%20%20%20%20%20'REC01'))
 
 ```
 
@@ -1697,7 +1697,7 @@ print (ibm_df [['security',            'REC01']])
 
 We are interested in a perpetual CDS contract (infinite maturity) on a face notional of $100,  flat interest rate of 4% and coupon of 5% (quarterly payments).
 
-For simplicity,  we assuming a flat hazard rate of 1% per annum,  a [[Credit Markets Session 3|recovery rate]] of 40%,  T+0 settlement and zero accrued.
+For simplicity,  we assuming a flat hazard rate of 1% per annum,  a [recovery rate](../Credit%20Markets%20Session%203.md) of 40%,  T+0 settlement and zero accrued.
 
 Use the simple CDS valuation formulas derived in Session 3 as a template.
 
@@ -1764,7 +1764,7 @@ Print ('perpetual_cds_par_spread_approx_bps: ',            round (perpetual_cds_
 ## c. Compute the following CDS risk sensitivities:
 - IR 01 (PV sensitivity to Interest Rate change of '-1 bp')
 - HR 01 (PV sensitivity to Hazard Rate change of '-1 bp')
-- REC 01 (PV sensitivity to [[Credit Markets Session 3|Recovery Rate]] change of '+1%')
+- REC 01 (PV sensitivity to [Recovery Rate](../Credit%20Markets%20Session%203.md) change of '+1%')
 
 Using the scenario method.```python
 # CDS IR 01 
@@ -2025,9 +2025,9 @@ Plt. Set_xlabel ('Bond TTM')
 ![png](CreditMarketSolutions_279_2.png)
 ## b. Create the Nelson-Siegel curve shape (4 parameters) and compute the corresponding SSE function.
 For a given set of parameters,            write a function to compute the SSE "Sum of Squared Errors" penalty function in price space (defined as sum of squared differences between model and market prices for all Verizon fixed-rate bonds).
-For each bond,            compute the bond DV 01,            using Section "9. Analytical [[Key Rates O1s Durations and Hedging|Duration]]" in the [[Introduction to QuantLib Python|QuantLib]] Basics notebook as a template.
+For each bond,            compute the bond DV 01,            using Section "9. Analytical [Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)" in the [QuantLib](../../Course%20Notes/Python/QuantLib-Python/Introduction%20to%20QuantLib%20Python.md) Basics notebook as a template.
 
-Use 1/DV 01 as SSE weights,            as discussed in Lecture 3. You can ignore the [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] adjuster for the purpose of this exercise.```python
+Use 1/DV 01 as SSE weights,            as discussed in Lecture 3. You can ignore the [liquidity](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) adjuster for the purpose of this exercise.```python
 Def nelson_siegel (params,            maturity):
     ''' params = (theta 1,            theta 2,            theta 3,            lambda)'''        
     If (maturity == 0 or params[3] <= 0):
@@ -2154,7 +2154,7 @@ Init_bond_model_prices,            init_bond_model_yields = calculate_nelson_sie
 Vz_df['initModelPrice'] = init_bond_model_prices
 Vz_df['initModelYield'] = init_bond_model_yields
 
-display (vz_df [['security',            'midPrice',            'initModelPrice',            'calib_weight']]. head ())
+display (vz_df ['security',            'midPrice',            'initModelPrice',            'calib_weight']('security',%20%20%20%20%20%20%20%20%20%20%20%20'midPrice',%20%20%20%20%20%20%20%20%20%20%20%20'initModelPrice',%20%20%20%20%20%20%20%20%20%20%20%20'calib_weight'). head ())
 
 # Initial_sse
 Initial_sse = nelson_siegel_sse (initial_nelson_siegel_params,            calc_date,            fixed_rate_bond_objects,            bond_market_prices,            calib_weights,            tsy_yield_curve_handle,            bond_recovery_rate)
@@ -2231,9 +2231,9 @@ Print ('initial_sse =',            initial_sse)
 
 Use the US "on-the-run" Treasury yield curve (already calibrated in Problem 1) for risk-free discounting.
 
-Minimize the SSE ([[Arbitrage Pricing of Derivatives|pricing]] error) function to obtain the optimal/calibrated Nelson-Siegel parameter vector. 
+Minimize the SSE ([pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) error) function to obtain the optimal/calibrated Nelson-Siegel parameter vector. 
 
-Create the calibrated/smooth [[Advanced Usage of QuantLib analytics library|credit curve]] corresponding to the optimal model parameters.```python
+Create the calibrated/smooth [credit curve](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) corresponding to the optimal model parameters.```python
 From scipy. Optimize import minimize
 
 Def calibrate_nelson_siegel_model (initial_nelson_siegel_params,           
@@ -2289,7 +2289,7 @@ Print ('initial_sse =',            round (initial_sse,            3),           
     Initial_sse = 25.592 calib_sse = 0.21
 ## d. Compute smooth model prices,            yields and "edges"
 
-Price all Verizon bonds on the calibrated [[Advanced Usage of QuantLib analytics library|credit curve]] and compute the corresponding model yields and edges.
+Price all Verizon bonds on the calibrated [credit curve](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) and compute the corresponding model yields and edges.
 
 Add following columns to the dataframe and display the head of the results:
 
@@ -2303,8 +2303,8 @@ Vz_df['modelYield'] = bond_model_yields
 Vz_df['edgePrice'] = vz_df['modelPrice'] - vz_df['midPrice']
 Vz_df['edgeYield'] = vz_df['modelYield'] - vz_df['midYield']
 
-display (vz_df [['security',            'midPrice',           'initModelPrice',            'modelPrice',            'edgePrice']]. head ())
-display (vz_df [['security',            'midYield',           'initModelYield',            'modelYield',            'edgeYield']]. head ())
+display (vz_df ['security',            'midPrice',           'initModelPrice',            'modelPrice',            'edgePrice']('security',%20%20%20%20%20%20%20%20%20%20%20%20'midPrice',%20%20%20%20%20%20%20%20%20%20%20'initModelPrice',%20%20%20%20%20%20%20%20%20%20%20%20'modelPrice',%20%20%20%20%20%20%20%20%20%20%20%20'edgePrice'). head ())
+display (vz_df ['security',            'midYield',           'initModelYield',            'modelYield',            'edgeYield']('security',%20%20%20%20%20%20%20%20%20%20%20%20'midYield',%20%20%20%20%20%20%20%20%20%20%20'initModelYield',%20%20%20%20%20%20%20%20%20%20%20%20'modelYield',%20%20%20%20%20%20%20%20%20%20%20%20'edgeYield'). head ())
 ```
 <div>
 <style scoped>
@@ -2479,4 +2479,4 @@ Plt. Set_xlabel ('Bond Maturity')
     Text (0.5,            0,            'Bond Maturity')
 ![png](CreditMarketSolutions_291_1.png)
 ### What do you think about the quality of the model fit?
-Model fit looks good,            given that fact that we are matching closely the market prices of 40 VZ bonds with only 4 [[Advanced Usage of QuantLib analytics library|Nelson-Siegel model]] parameters.
+Model fit looks good,            given that fact that we are matching closely the market prices of 40 VZ bonds with only 4 [Nelson-Siegel model](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) parameters.

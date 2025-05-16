@@ -1,8 +1,8 @@
 %% Begin Waypoint %%
-- **[[Financial Engineering and Arbitrage in the Financial Markets]]**
-	- [[Financial Engineering and Arbitrage in the Financial Markets]]
-	- **[[PART I RELATIVE VALUE BUILDING BLOCKS]]**
-	- **[[PART II CASH FLOW ENGINEERING]]**
-	- **[[PART III THE PLAYERS]]**
+- **[Financial Engineering and Arbitrage in the Financial Markets](.md)**
+	- [Financial Engineering and Arbitrage in the Financial Markets](.md)
+	- **[PART I RELATIVE VALUE BUILDING BLOCKS](PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS.md)**
+	- **[PART II CASH FLOW ENGINEERING](PART%20II%20CASH%20FLOW%20ENGINEERING/PART%20II%20CASH%20FLOW%20ENGINEERING.md)**
+	- **[PART III THE PLAYERS](PART%20III%20THE%20PLAYERS/PART%20III%20THE%20PLAYERS.md)**
 
 %% End Waypoint %%
