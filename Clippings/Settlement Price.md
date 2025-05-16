@@ -1,11 +1,11 @@
 
 title: Settlement Price
 source: https://www.investopedia.com/terms/s/settlementprice.asp
-description: A settlement price, in the [[Chapter 9 Arbitrage and Hedging With Options|derivatives]] markets, is the price used for
-  determining profit or loss for the day, as well as [[Case Study Mf Globals Repo-To-Maturity Trades|margin requirements]].
+description: A settlement price, in the [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) markets, is the price used for
+  determining profit or loss for the day, as well as [margin requirements](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2010/Case%20Study%20Mf%20Globals%20Repo-To-Maturity%20Trades.md).
 tags:
   - closing_price
-  - [[Chapter 9 Arbitrage and Hedging With Options|derivatives]]
+  - [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md)
   - financial_markets
   - settlement_price
   - trading_day
@@ -18,7 +18,7 @@ key_concepts:
   - Determines profit or loss
   - Price at end of day
   - Used for mutual funds
-  - Used in [[Chapter 9 Arbitrage and Hedging With Options|derivatives]] contracts
+  - Used in [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) contracts
 ---
 
 
@@ -26,17 +26,17 @@ Momoimages / Getty Images
 
 ## What Is a Settlement Price?
 
-The settlement price is the price used for determining a position's daily profit or loss as well as the related [margin](https://www.investopedia.com/terms/m/margin.asp) requirements for the position. It is typically used in the mutual fund and [[[Chapter 9 Arbitrage and Hedging With Options|derivatives]]](https://www.investopedia.com/terms/d/derivative.asp) markets. The settlement price may also refer to the final price an [[Risk Neutral Pricing of Options|underlying asset]] achieves in [options contracts](https://www.investopedia.com/terms/o/optionscontract.asp) to determine whether they are in-the-money (ITM) or out-of-the-money (OTM) at expiration and what their payoffs ought to be.
+The settlement price is the price used for determining a position's daily profit or loss as well as the related [margin](https://www.investopedia.com/terms/m/margin.asp) requirements for the position. It is typically used in the mutual fund and [derivatives]([Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options)](https://www.investopedia.com/terms/d/derivative.asp) markets. The settlement price may also refer to the final price an [underlying asset](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) achieves in [options contracts](https://www.investopedia.com/terms/o/optionscontract.asp) to determine whether they are in-the-money (ITM) or out-of-the-money (OTM) at expiration and what their payoffs ought to be.
 
 ### Key Takeaways
 
-- Settlement price refers to the price at which an asset closes or which a [[Chapter 9 Arbitrage and Hedging With Options|derivatives]] contract will reference at the end of each trading day and/or upon its expiration.
+- Settlement price refers to the price at which an asset closes or which a [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) contract will reference at the end of each trading day and/or upon its expiration.
 - The settlement price will be determined on the settlement date of a particular contract.
 - There is no standard across asset classes on how settlement prices must be calculated, and there is thus great variance across exchanges for settlement prices of similar contracts.
 
 ## Understanding Settlement Prices
 
-A settlement price is used as the reference price for marking the value of open [[Chapter 9 Arbitrage and Hedging With Options|derivatives]] contracts, or for evaluating their value upon expiration. This price is obtained on the [settlement date](https://www.investopedia.com/terms/s/settlementdate.asp). It can be calculated in one of several ways and is generally set by defined procedures that differ slightly depending on the [exchange](https://www.investopedia.com/terms/e/exchange.asp) and the instrument traded.
+A settlement price is used as the reference price for marking the value of open [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) contracts, or for evaluating their value upon expiration. This price is obtained on the [settlement date](https://www.investopedia.com/terms/s/settlementdate.asp). It can be calculated in one of several ways and is generally set by defined procedures that differ slightly depending on the [exchange](https://www.investopedia.com/terms/e/exchange.asp) and the instrument traded.
 
 Settlement prices are typically based on price averages within a specific time. These prices may be calculated based on activity across an entire trading day—using the [opening](https://www.investopedia.com/terms/o/openingprice.asp) and closing prices as part of the calculation—or on activity that takes place during a specific window of time within a trading day.
 
@@ -66,7 +66,7 @@ The settlement price is typically set by determining the [weighted average](http
 \hline
 \end{array}
 $$
-<table><thead><tr><th colspan="2">CME: Settlement Times for Specific Assets</th></tr><tr><th>Asset</th><th>Settlement Time Range</th></tr></thead><tbody><tr><td>Livestock</td><td>12:59:30 CT to 13:00:00 CT</td></tr><tr><td>Dairy</td><td>13:09:30 CT to 13:10:00 CT</td></tr><tr><td>Foreign Exchange</td><td>13:59:30 CT to 14:00:00 CT</td></tr><tr><td>[[Interest Rate Quotations|Interest Rates]]</td><td>13:59:00 CT to 14:00:00 CT</td></tr><tr><td>Equities</td><td>14:59:30 CT to 15:00:00 CT</td></tr><tr><td>Gold</td><td>13:29:00 CT to 13:30:00 ET</td></tr></tbody></table>
+<table><thead><tr><th colspan="2">CME: Settlement Times for Specific Assets</th></tr><tr><th>Asset</th><th>Settlement Time Range</th></tr></thead><tbody><tr><td>Livestock</td><td>12:59:30 CT to 13:00:00 CT</td></tr><tr><td>Dairy</td><td>13:09:30 CT to 13:10:00 CT</td></tr><tr><td>Foreign Exchange</td><td>13:59:30 CT to 14:00:00 CT</td></tr><tr><td>[Interest Rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)</td><td>13:59:00 CT to 14:00:00 CT</td></tr><tr><td>Equities</td><td>14:59:30 CT to 15:00:00 CT</td></tr><tr><td>Gold</td><td>13:29:00 CT to 13:30:00 ET</td></tr></tbody></table>
 
 On the [Moscow Exchange (MOEX)](https://www.investopedia.com/what-is-moex-5219882), settlement prices for the RTS Index and MICEX Index are based on activity between 3:00 p.m. and 4:00 p.m. of the last trading day. The Russian Volatility Index uses a different time, focusing instead on activity between 2:03:15 p.m. and 6:00:00 p.m.
 
@@ -76,7 +76,7 @@ Settlement prices may also be used to compute the daily [net asset value (NAV)](
 
 ## Example of the Settlement Price
 
-If you own a [call option](https://www.investopedia.com/terms/c/calloption.asp) with a [[Call and Put Payoffs at Expiry|strike price]] of $100 and the settlement price of the underlying asset at its expiration is $120, then the owner of the call can purchase shares for $100, which could then be sold for a $20 profit since it is [in the money](https://www.investopedia.com/terms/i/inthemoney.asp). If, however, the settlement price was $90, then the option would expire worthless since it is [out of the money](https://www.investopedia.com/terms/o/outofthemoney.asp).
+If you own a [call option](https://www.investopedia.com/terms/c/calloption.asp) with a [strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) of $100 and the settlement price of the underlying asset at its expiration is $120, then the owner of the call can purchase shares for $100, which could then be sold for a $20 profit since it is [in the money](https://www.investopedia.com/terms/i/inthemoney.asp). If, however, the settlement price was $90, then the option would expire worthless since it is [out of the money](https://www.investopedia.com/terms/o/outofthemoney.asp).
 
 ## What Does Settlement Mean in Finance?
 
@@ -88,7 +88,7 @@ The settlement period for a trade depends entirely on the type of security or as
 
 ## What's the Difference Between an Opening and Closing Price?
 
-Opening and closing prices determine the price that assets trade at different times during the trading day. The [opening price](https://www.investopedia.com/terms/o/openingprice.asp) is the price at which a security trades when the [[Hedge Fund Strategies|stock market]] opens. The [closing price](https://www.investopedia.com/terms/c/closingprice.asp), on the other hand, is the price at which it trades as soon as the closing bell rings and the market closes for the day. Both reflect the prices at the opening and closing of the regular trading day.
+Opening and closing prices determine the price that assets trade at different times during the trading day. The [opening price](https://www.investopedia.com/terms/o/openingprice.asp) is the price at which a security trades when the [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) opens. The [closing price](https://www.investopedia.com/terms/c/closingprice.asp), on the other hand, is the price at which it trades as soon as the closing bell rings and the market closes for the day. Both reflect the prices at the opening and closing of the regular trading day.
 
 ## The Bottom Line
 
@@ -96,7 +96,7 @@ As an investor, there are several things you should understand about how trading
 
 Article Sources
 
-1. CME Group. "[[[Pricing and Hedging Implications of Daily Sett|Daily Settlement]] Time Details](https://cmegroupclientsite.atlassian.net/wiki/spaces/EPICSANDBOX/pages/46119151/Daily+Settlement+Time+Details)."
+1. CME Group. "[Daily Settlement]([Pricing%20and%20Hedging%20Implications%20of%20Daily%20Sett) Time Details](https://cmegroupclientsite.atlassian.net/wiki/spaces/EPICSANDBOX/pages/46119151/Daily+Settlement+Time+Details)."
 2. Moscow Exchange. "[The Settlement Price Determined by the Contract Specifications](https://www.moex.com/a2438)."
 3. U.S. Securities and Exchange Commission. "[New 'T+1' Settlement Cycle – What Investors Need To Know: Investor Bulletin.](https://www.sec.gov/oiea/investor-alerts-and-bulletins/new-t1-settlement-cycle-what-investors-need-know-investor)"
 

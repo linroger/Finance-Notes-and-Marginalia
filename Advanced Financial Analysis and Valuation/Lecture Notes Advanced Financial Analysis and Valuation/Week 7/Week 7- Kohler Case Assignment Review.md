@@ -20,18 +20,18 @@ Thomas Rauter
 
 # ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS
 ## KEY CASE FACTS
- - [[Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation|Kohler Co]].:
+ - [Kohler Co](Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation.md).:
 	- 3rd generation family-owned plumbing fixture business
 	- One of the oldest and largest privately held firms in the US with 17,500 employees and $2bn+ in sales at the timeof the case
  - Recapitalization event
-	- [[HBS Kohler A|Herbert Kohler]] recapitalized [[Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation|Kohler Co]]. in May 1998 to buy out all outside shareholders at $55,400
+	- [Herbert Kohler](../../Problem%20Sets/HBS%20Kohler%20A.md) recapitalized [Kohler Co](Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation.md). in May 1998 to buy out all outside shareholders at $55,400
 	- Over 100 owners of 811 shares sued, arguing their shares were worth $273,000, almost 5 times the price offered by the company
-	- As the trial is about to be begin in 2000, [[HBS Kohler A|Herbert Kohler]] must decide whether to settle and at what price
+	- As the trial is about to be begin in 2000, [Herbert Kohler](../../Problem%20Sets/HBS%20Kohler%20A.md) must decide whether to settle and at what price
  - Statutory valuation has to follow certain standards
-	- Valuation in legal settings is not necessarily the same as for [[Introduction to Corporate Finance|financial decisions]]
+	- Valuation in legal settings is not necessarily the same as for [financial decisions](../../Introduction%20to%20Corporate%20Finance.md)
 ## HERBERT KOHLER VS. MINORITY SHAREHOLDERS
 
- - [[HBS Kohler A|Herbert Kohler]]'s motivations for pursuing the recapitalization:
+ - [Herbert Kohler](../../Problem%20Sets/HBS%20Kohler%20A.md)'s motivations for pursuing the recapitalization:
 	- Preserve family control (but he already controls 90%)
 	- Aversion to publicity and public disclosure (as revealed by past actions)
 		 - Are these good reasons? Tradeoffs?
@@ -52,18 +52,18 @@ Thomas Rauter
 		 - Would expose proprietary information to competitors, customers, suppliers
 		 - Could subject management to short-termism and distract management focus
 		 - But public markets also provide monitoring of management
-	- For [[HBS Kohler A|Herbert Kohler]]: He gets private benefits by making company decisions that are more beneficial to him and his family rather than minority shareholders
+	- For [Herbert Kohler](../../Problem%20Sets/HBS%20Kohler%20A.md): He gets private benefits by making company decisions that are more beneficial to him and his family rather than minority shareholders
  - Cons
-	- Restricts access to financing, forcing the company to rely on retained earnings and [[Class Note 4 Class Slide 4-Restructuring Debt Outside BankruptcyRestructuring Debt Outside Bankruptcy|bank debt]] (or [[Private Equity|private equity]])
-		 - Reduced access to financing may cause the company to forgo valuable [[An Asset Allocation Primer|investment]] opportunities
-	- Not having a public stock lowers [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] for shareholders, leading to a discount
+	- Restricts access to financing, forcing the company to rely on retained earnings and [bank debt](../../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%204-%20Restructuring%20Public%20Debt/Class%20Note%204%20Class%20Slide%204-Restructuring%20Debt%20Outside%20BankruptcyRestructuring%20Debt%20Outside%20Bankruptcy.md) (or [private equity](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2014%20-%20Private%20Equity,%20Pension,%20and%20Sovereign%20Funds/Private%20Equity.md))
+		 - Reduced access to financing may cause the company to forgo valuable [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunities
+	- Not having a public stock lowers [liquidity](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) for shareholders, leading to a discount
 		 - Having a price also allows to create more powerful incentives (stock-based comp)
 
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 1
-- Analyze [[Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation|Kohler Co]].'S Business Mix From Exhibit 4
+- Analyze [Kohler Co](Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation.md).'S Business Mix From Exhibit 4
  ![500](cabcf763ba1ffa768143c8947aac57f6.png)
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 1 (CONT.)
- - Analyze [[Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation|Kohler Co]].'s business mix from Exhibit 4
+ - Analyze [Kohler Co](Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation.md).'s business mix from Exhibit 4
  ![500](4a7c21f56b17c8082da2bc4269ae57ec.png)
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 2  - BETA CALCULATION
 
@@ -82,10 +82,10 @@ $$\beta_A=\beta_E\times\left[\frac1{1+(1-T_C)^D/_E}\right]$$
 	- The cost of debt is used to discount the tax shields
 
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 3
-- [[Week 7- Cost of Capital Review, Implied Model, Private Firms|Cost Of Equity]]
+- [Cost Of Equity](Week%207-%20Cost%20of%20Capital%20Review,%20Implied%20Model,%20Private%20Firms.md)
  ![500](29bca100d7530292541629532b7cea72.png)
 
-(a) Assumes debt beta = 0 (because [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] is not high)
+(a) Assumes debt beta = 0 (because [leverage](../../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) is not high)
 
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 4
 - Cost Of Debt
@@ -113,19 +113,19 @@ $$\beta_A=\beta_E\times\left[\frac1{1+(1-T_C)^D/_E}\right]$$
  - Whose perspective is relevant?
 
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 7
- - Apply minority discountand [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] discount to arrive at [[HBS Kohler A|Herbert Kohler]]'s offer of $55,400 per share (using typical WACC)
+ - Apply minority discountand [liquidity](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) discount to arrive at [Herbert Kohler](../../Problem%20Sets/HBS%20Kohler%20A.md)'s offer of $55,400 per share (using typical WACC)
  ![500](b4dbfdd6ea5a6b4e7b2aed6693d66ecc.png)
 ## APPROXIMATING HERBERT KOHLER'S OFFER: STEP 7
  - Using total beta and adjusted WACC of 14.18% to reflect lack of diversification
  ![500](c0a1b1d6c2cd330b199f275b6febcec5.png)
- - With [[Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation|total beta approach]], a lackof [[Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation|marketability discount]] of 20% (less than on previous slide) brings value already below $55,400
+ - With [total beta approach](Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation.md), a lackof [marketability discount](Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation.md) of 20% (less than on previous slide) brings value already below $55,400
  - This calculation could be viewed as the "value to Kohler"
 	- He would argue that he is not diversified
 
 ## MULTIPLES ANALYSIS
  - Based on financials of comparable companies (Exhibit 7b), calculate:
 	- EV / Sales, EV / EBITDA, EV / CF, EV / EBIAT
- - Given [[Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation|Kohler Co]].'s distribution of business across Kitchen & Bath and Power Systems, one option is to take the average and/or median multiples of the Kitchen & Bath and Power Systems [[Comps Definition, How They're Used in Analysis, and Example|comparables]] separately
+ - Given [Kohler Co](Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation.md).'s distribution of business across Kitchen & Bath and Power Systems, one option is to take the average and/or median multiples of the Kitchen & Bath and Power Systems [comparables](../../Financial%20Ratios/Comps%20Definition,%20How%20They're%20Used%20in%20Analysis,%20and%20Example.md) separately
  - Apply multiples to Kohler LTM financials (most current numbers)
 	- We use the weighted 80% Kitchen & Bath and 20% Power Systems multiples for the equity value calculation
 	- Then use the median of the enterprise values implied by the 4 multiples (EV to Sales, EBITDA, CF, and EBIAT)
@@ -156,17 +156,17 @@ Applying a control premium (25%) to this number based on legal doctrine would ge
  - But different standard for dissenting shareholders according to corporate law
 	- Model Business Corporation Act prescribes "fair value"
  - Fair value = "The value of the shares immediately before effectuation of the corporate action to which dissenter objects, excluding any appreciation or depreciation in anticipation of the corporate action."
-- MBCA was revised in 1999 to clarify that it does not incorporate discounts for [[Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation|lack of marketability]] or lack of control (i.e., essentially the "value to Kohler")
+- MBCA was revised in 1999 to clarify that it does not incorporate discounts for [lack of marketability](Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation.md) or lack of control (i.e., essentially the "value to Kohler")
  - Trial was scheduled for April 2000 (but Wisconsin had not yet ratified the amendment)
 - There was ambiguity as to how the courts would decide
 
 ## EPILOGUE
- - On April 11, 2000, one day after the hearing started, [[Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation|Kohler Co]]. settled at a price of $135,000/share plus $5,000 to cover legal fees and $8,000 in interest expenses
- - A separate lawsuit alleging [[Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation|Kohler Co]]. breached its fiduciary duties owed to shareholders was dismissed as part of the settlement
+ - On April 11, 2000, one day after the hearing started, [Kohler Co](Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation.md). settled at a price of $135,000/share plus $5,000 to cover legal fees and $8,000 in interest expenses
+ - A separate lawsuit alleging [Kohler Co](Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation.md). breached its fiduciary duties owed to shareholders was dismissed as part of the settlement
  - In 2005, the IRS sued the estate of Frederic Kohler over estate taxes
 	- In this case, the relevant standard is FMV, so all discounts apply
 	- In 2006, a court ruled that the FMV of the shares was 48K per share
- - [[Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation|Kohler Co]]. has remained privately held by the Kohler family
+ - [Kohler Co](Week%207-%20Private,%20Family%20and%20Closely‐held%20Firms%20-Analysis%20and%20Valuation.md). has remained privately held by the Kohler family
 	- Its Executive Chairman is Herbert V. Kohler, Jr. and its President and CEO is now David Kohler (son of Herbert)
 
 ## A FEW TECHNICAL NOTES RE DISCOUNTING
@@ -176,7 +176,7 @@ Applying a control premium (25%) to this number based on legal doctrine would ge
  - Solution:
 	- Value is first estimated as of FYE and then adjusted (i.e., shifted) to estimated value on Feb 28
 	- Estimated Equity ValueFeb 28 = Estimated Equity ValueFYE x  (1+Re)59/365
-	- Important: Use the [[Week 7- Cost of Capital Review, Implied Model, Private Firms|cost of equity]] as you are shifting equity value
+	- Important: Use the [cost of equity](Week%207-%20Cost%20of%20Capital%20Review,%20Implied%20Model,%20Private%20Firms.md) as you are shifting equity value
  - Issue 2:
 	- Cash flows do not "arrive" on the last day of the fiscal year  - they usually accumulate over the entire year
  - Solution: Mid-year adjustment

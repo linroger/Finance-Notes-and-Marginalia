@@ -21,20 +21,20 @@ key_concepts:
 # Teaching Note 8-American Options
 
 ### 1. American options
-1.1 [[Teaching Note 8-American Options|No Arbitrage Bounds]]
-1.2 [[Bond Futures Options|Early Exercise]]
+1.1 [No Arbitrage Bounds](.md)
+1.2 [Early Exercise](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Bond%20Futures%20Options.md)
 
 ### 2. American Options on Binomial Trees
 2.1 Two-Step Trees
 2.2 Multi-Step Trees
-2.3 [[Lecture Note 5- Black Scholes Formula|Dynamic Replication]]
+2.3 [Dynamic Replication](Lecture%20Note%205-%20Black%20Scholes%20Formula.md)
 
 ## AMERICAN OPTIONS
 - An American Option is identical to a European Option,  but it can be exercised anytime before expiration.
 - Examples of American options:
   1. Individual stock options
   1. Some options that essentially track indexes: e.g.,  SPY (CBOE)
-  1. Some widely traded OTC interest rate options (e.g.,  American Interest Rate Swaptions,  options to enter into an [[Primer on Interest Rate Swaps|interest rate swap]])
+  1. Some widely traded OTC interest rate options (e.g.,  American Interest Rate Swaptions,  options to enter into an [interest rate swap](../../Financial%20Engineering/Primer%20on%20Interest%20Rate%20Swaps.md))
   1. American options embedded in other contracts (e.g.,  Callable and Puttable bonds; Convertible Bonds; Mortgages)
   1. Real options (e.g.,  option to invest in a new project,  option to close down a plant,  etc.)
 - In all these cases,  not only decide IF we want to exercise the option,  but also **WHEN**.
@@ -42,25 +42,25 @@ key_concepts:
 ## AMERICAN OPTIONS: NO ARBITRAGE BOUNDS
 1. **American options are at least as valuable as European options**:$$C^{A}(S,    K,    t,    T) \geq C^{E}(S,    K,    t,    T)$$
 $$ P^{A}(S,    K,    t,    T) \geq P^{E}(S,    K,    t,    T) $$
-2. **American options with longer [[Hedging Strategies with Forwards|time to maturity]] are at least as valuable as the same option with shorter [[Hedging Strategies with Forwards|time to maturity]]**. If $T_2 > T_1$: $$C^{A}(S,    K,    t,    T_2) \geq C^{A}(S,    K,    t,    T_1)$$$$P^{A}(S,    K,    t,    T_2) \geq P^{A}(S,    K,    t,    T_1) $$
+2. **American options with longer [time to maturity](Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) are at least as valuable as the same option with shorter [time to maturity](Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md)**. If $T_2 > T_1$: $$C^{A}(S,    K,    t,    T_2) \geq C^{A}(S,    K,    t,    T_1)$$$$P^{A}(S,    K,    t,    T_2) \geq P^{A}(S,    K,    t,    T_1) $$
 3. **An American option is at least as valuable as its intrinsic value**:$$C^{A}(S,    K,    t,    T) \geq \max(S - K,     0); $$$$ P^{A}(S,    K,    t,    T) \geq \max(K - S,     0)$$
 4. **An American Call option on non-dividend-paying stocks** has the following bound: $$C^{A}(S,    K,    t,    T) \geq \max(S - K \times e^{-r(T-t)},     0)$$
 
 ## AMERICAN OPTIONS: NO ARBITRAGE BOUNDS
 
-1. An American Call option on a non [[Chapter 25 - Pricing European Options|dividend paying stocks]] has$$C^{A}(S,    K,    t,    T)\geq\operatorname*{max}(S-K\times e^{-r(T-t)})$$
+1. An American Call option on a non [dividend paying stocks](../../Financial%20Engineering/Derivatives/Part%20V%20-%20Options%20Pricing/Chapter%2025%20-%20Pricing%20European%20Options.md) has$$C^{A}(S,    K,    t,    T)\geq\operatorname*{max}(S-K\times e^{-r(T-t)})$$
 - To see this,  if *S < K* × e−r(T−t) =⇒ right-hand-side = 0 and the inequality is obvious.
 - If *S > K* × e−r(T−t) and CA(S,  K,  t,  T) *< S* − K × e−r(T−t),  then (a) short stock S,  (b)
 buy the option and (c) invest K × e−r(T−t). Today we get S − CA − Ke−r(T−t) > 0.
 - At maturity T,
-- If $S_{T} > K$,  exercise the option,  obtain ST − K,  cash in K from bond [[An Asset Allocation Primer|investment]],  and pay the short −ST,  netting$0.
-- If$S_{T} < K$,  cash in K from bond [[An Asset Allocation Primer|investment]],  and pay the short −ST,  netting K−ST > 0
-- (Note that the above no [[Arbitrage Pricing of Derivatives|arbitrage]] bound also holds for European options.)
+- If $S_{T} > K$,  exercise the option,  obtain ST − K,  cash in K from bond [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md),  and pay the short −ST,  netting$0.
+- If$S_{T} < K$,  cash in K from bond [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md),  and pay the short −ST,  netting K−ST > 0
+- (Note that the above no [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) bound also holds for European options.)
 
 ## EXAMPLE: SPY OPTIONS
 
 - As an example,  consider the SPY options.
-	- The following figures plot the March 17,  2023,  [[Notes on Basic Options Properties|call and put]] options for various moneyness $K/S_0$.
+	- The following figures plot the March 17,  2023,  [call and put](../../Course%20Notes/HBR%20Notes/Notes%20on%20Basic%20Options%20Properties.md) options for various moneyness $K/S_0$.
 	- The option values are normalized by the value of the index,  so the figure plots $Call/S_0$ and $Put/S_0$.
 - The figure also plots the intrinsic value,  also normalized by the value of the index:
 For Puts: Normalized Intrinsic Value$\,    =\dfrac{\max(K-S_{0})}{S_{0}}=\max(\text{Moneyness}-1,    0)$
@@ -75,9 +75,9 @@ For Calls: Normalized Intrinsic Value$\,    =\dfrac{\max(S_{0}-K)}{S_{0}}=\max(1
 
 1. American [Options](Options.md) are always as valuable as Europeans.
 	- True in the diagram for puts,  not quite for calls
-	- Differences in the [[Rate and Price Trees|underlying securities]]: paper index versus an ETF
+	- Differences in the [underlying securities](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md): paper index versus an ETF
 	- Settlement differences: cash for SPX,  shares for SPY
-- Tradings costs (e.g. [[Bid Ask and Transaction Prices in a Specialist Market With Heterogeneously Informed Traders|bid-ask spread]]) bigger for SPY than SPX
+- Tradings costs (e.g. [bid-ask spread](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Bid%20Ask%20and%20Transaction%20Prices%20in%20a%20Specialist%20Market%20With%20Heterogeneously%20Informed%20Traders.md)) bigger for SPY than SPX
 1. The European ITM Put Option is below its intrinsic value,  but the American ITM Put Option is above.
 1. The American Put option touches the intrinsic value for high$\frac{K}{S_0}$..
 1. The American Call option appears close to being equal to the European Call option for every$\frac{K}{S_0}$.
@@ -92,7 +92,7 @@ For Calls: Normalized Intrinsic Value$\,    =\dfrac{\max(S_{0}-K)}{S_{0}}=\max(1
 But you may also lose.
 - Should you exercise now or wait until maturity?
 - If you sell the option,  you get $C(S,     K,     0,     T)$ today. If you exercise,  you get $S − K$.
-- We know that for non [[Chapter 25 - Pricing European Options|dividend paying stocks]]$$C(S,    K,    T)\geq\operatorname*{max}(0,    S-K e^{-r T})$$
+- We know that for non [dividend paying stocks](../../Financial%20Engineering/Derivatives/Part%20V%20-%20Options%20Pricing/Chapter%2025%20-%20Pricing%20European%20Options.md)$$C(S,    K,    T)\geq\operatorname*{max}(0,    S-K e^{-r T})$$
 - Since $S − Ke^{−rT} > S − K > 0$,  selling the option is better as $C(S,     K,     0,     T) > S − K$
 
 ## AMERICAN CALL OPTIONS: EARLY EXERCISE
@@ -118,7 +118,7 @@ But you may also lose.
 - S today reflects all of the possible possibilities,  including low$S_T$.
 - By waiting,  we reserve the right of **not to exercise if** $S_T < K$
 - "But if we exercise we get $S − K$ today… "
-	- Yes,  but you can get more by [[Short Selling|shorting]] the stock and buying bonds (see earlier). In fact,  this strategy pays handsomely exactly when $S_T < K$ at maturity.
+	- Yes,  but you can get more by [shorting](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Short%20Selling.md) the stock and buying bonds (see earlier). In fact,  this strategy pays handsomely exactly when $S_T < K$ at maturity.
 
 ## AMERICAN OPTIONS. PROS AND CONS OF EARLY EXERCISE
 
@@ -141,7 +141,7 @@ But you may also lose.
   - **Never exercise a call** if $D^+ < K \times (1 - e^{-rT})$.
   - **Never exercise a put** if $D^- > K \times (1 - e^{-r^{\prime}T})$.
 - To see this,  consider the call (for the put it is similar).
-- The value of a call is always higher than the value of a [[Forward Points in Currency|forward contract]] with the same [[Call and Put Payoffs at Expiry|strike price]] (the call always pays at least as much as the forward!):$$
+- The value of a call is always higher than the value of a [forward contract](../../Clippings/Forward%20Points%20in%20Currency.md) with the same [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) (the call always pays at least as much as the forward!):$$
 \begin{align}
 C(S,     K,     t,     T) &\geq S - PV(D) - K e^{-rT} \\
               &\geq S - D^{+} - K e^{-rT} \\
@@ -164,14 +164,14 @@ $$
 ## AMERICAN OPTIONS: PRICING AND OPTIMAL EXERCISE TIME
 
 - How do we price American [Options](Options.md)? How can we compute the optimal exercise time?
-- For instance,  you are long a Sep 07 put option on the S&P 100 index with [[Call and Put Payoffs at Expiry|strike price]]$K = 740.$
+- For instance,  you are long a Sep 07 put option on the S&P 100 index with [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md)$K = 740.$
 - On May 11 2007 the S&P 100 closed at 689.83. You are 7% in-the-money.
 - Question: Is it time to exercise?
 - Or keeping the option alive has still sufficient value to wait longer?
 - In order to decide whether it is optimal to exercise,  we have to compare the payoff today (if exercised) with the expected payoff in the future (if waiting).
 	- We exercise if and only if: $$K - S > \text{Discounted Expected Future Payoff if Wait}$$
 - How do we compute the discounted expected future payoff if we wait?
-- [[A Real-Life Option Pricing Exercise|Binomial]] Trees are excellent tools that allow us to perform this computation.
+- [Binomial](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) Trees are excellent tools that allow us to perform this computation.
 
 ## AMERICAN OPTION: TWO STEP TREE
 
@@ -207,9 +207,9 @@ Value of Option if Wait $=e^{-r/2}E^{*}[p_{2}^{A}|S_{1,    d}]=e^{-r/2}E^{*}[p_{
 ## AMERICAN OPTIONS. MULTI STEP TREES
 
 - The tree methodology can be easily extended to many steps. - Remember that the pair (*i,  j*) represent time i = 0,  1,  2*…,  n* and node j = 1,  2,  …,  n
-- With European style [[Chapter 9 Arbitrage and Hedging With Options|derivatives]],  we solve for prices Vi,  j using the rule$$V_{i,    j}^{E}=e^{-r\times h}\times E^{*}\left[V_{i+1}^{E}|(i,    j)\right]$$
+- With European style [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md),  we solve for prices Vi,  j using the rule$$V_{i,    j}^{E}=e^{-r\times h}\times E^{*}\left[V_{i+1}^{E}|(i,    j)\right]$$
 - where h = *T/n* is the time interval between steps.
-- With American style [[Chapter 9 Arbitrage and Hedging With Options|derivatives]],  we solve for prices$V_{i,    j}$using the rule$$V_{i,    j}^{A}=\operatorname*{max}\Big\{\ g_{i,    j}\,    \ \ e^{-r\times h}\times E^{*}\left[V_{i+1}^{A}|(i,    j)\right]\Big\}$$
+- With American style [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md),  we solve for prices$V_{i,    j}$using the rule$$V_{i,    j}^{A}=\operatorname*{max}\Big\{\ g_{i,    j}\,    \ \ e^{-r\times h}\times E^{*}\left[V_{i+1}^{A}|(i,    j)\right]\Big\}$$
 - where gi,  j is the payoff from the American derivative if exercise occurs in node (*i,  j*)
 - For instance,  for the case of put options,  we have$$p_{i,    j}^{A}=\operatorname*{max}\Big\{\ K-S_{i,    j}\,    \ \ e^{-r\times h}\times\big(q^{*}\times p_{i+1,    j}^{A}+(1-q^{*})\times p_{i+1,    j+1}^{A}\big)\Big\}$$
 
@@ -219,10 +219,10 @@ Value of Option if Wait $=e^{-r/2}E^{*}[p_{2}^{A}|S_{1,    d}]=e^{-r/2}E^{*}[p_{
 
 ## MULTI STEP TREE: DOES IT WORK?
 
-- Consider the relative [[Arbitrage Pricing of Derivatives|pricing]] of S&P 500 options (European) and S&P 100 options (American)
+- Consider the relative [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of S&P 500 options (European) and S&P 100 options (American)
 - For instance,  the 5% in the money Sep Put have (renormalized) values of$$p^{S\&P500}(1.05)=0.0491\qquad\mathrm{and}\qquad p^{S\&P100}(1.05)=0.0540$$
 - The three month interest rate is r = 0.0483 and the dividend yield around δ = 0.0191.
-- The [[A Real-Life Option Pricing Exercise|implied volatility]] that exactly prices the S&P 500 put option is σ = 0.10366
+- The [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) that exactly prices the S&P 500 put option is σ = 0.10366
 - The value of the corresponding American Option is pA = 0.0529,  a little lower than the market value.
 
 ## MULTI STEP TREE: DOES IT WORK? BINOMIAL TREE MODEL
@@ -232,33 +232,33 @@ Value of Option if Wait $=e^{-r/2}E^{*}[p_{2}^{A}|S_{1,    d}]=e^{-r/2}E^{*}[p_{
 -  ![500](https://storage.simpletex.cn/view/ffPgGtPeGrgkGlKC3pXOd7sbSkSlBTI7u)
 ## AMERICAN OPTIONS. DYNAMIC REPLICATION
 
-- Can we "dynamically replicate" an American option using a [[An Asset Allocation Primer|portfolio]] of stocks and bonds?
-- Yes! Once we solve for the [[American-Style Derivatives|optimal exercise strategy]],  we have a standard option tree. - Consider the earlier example:
+- Can we "dynamically replicate" an American option using a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of stocks and bonds?
+- Yes! Once we solve for the [optimal exercise strategy](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md),  we have a standard option tree. - Consider the earlier example:
 
  ![500](https://storage.simpletex.cn/view/fniSs76T3dR8R2gYxCr02RG9gB4BAGpeC)
 
 ## AMERICAN OPTIONS. DYNAMIC REPLICATION
 
-- Suppose you sold the option to a client. - At time i = 0 we must set up a [[An Asset Allocation Primer|portfolio]] that replicates pA
+- Suppose you sold the option to a client. - At time i = 0 we must set up a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) that replicates pA
 1. The same rule as in TN 4 applies:
 1. Compute$\Delta=(p_{1,    u}^{A}-p_{1,    d}^{A})/(S_{1,    u}-S_{1,    d})=-0.447$
 1. Compute bonds$B_{0}=e^{-r/2}\left(p_{1,    u}^{A}-\Delta S_{1,    u}\right)=54.733$
-1. The [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|replicating portfolio]] is$P_{0}=\Delta S_{0}+B_{0}=10.017=p_{0}^{A}$
-- At time i = 1 the [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|replicating portfolio]] has payoffs
+1. The [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) is$P_{0}=\Delta S_{0}+B_{0}=10.017=p_{0}^{A}$
+- At time i = 1 the [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) has payoffs
 	- In the Up Node $P_{1,    u}=\Delta S_{1,    u}+B_{0}e^{r/2}=0$
 	- In the Down Node $P_{1,    d}=\Delta S_{1,    d}+B_{0}e^{r/2}=19.114$
 - At time i = 1 we need to rebalance.
 - In the up node,  ∆ = 0,  and so we are out of the market. - In the down node,  the option holder is supposed to optimally exercise the option,  and so we
 simply hand them the payoff$$P_{1,    d}=K-S_{1,    d}=19.114$$
-- Note that the node (2,  d) is never reached under the [[American-Style Derivatives|optimal exercise strategy]].
+- Note that the node (2,  d) is never reached under the [optimal exercise strategy](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md).
 
 ## AMERICAN OPTIONS. DYNAMIC REPLICATION
 - What if the option holder does not exercise the American option in node $(1,    d)$?
-   - In this case,  we must continue with the [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|replicating portfolio]] until time $i = 2$.
-   - The new [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|replicating portfolio]] is:
+   - In this case,  we must continue with the [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) until time $i = 2$.
+   - The new [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) is:
 	  - $\Delta_{1,    d} = \frac{p_{2,    du}^A - p_{2,    dd}^A}{S_{2,    du} - S_{2,    dd}} = -1$.
 	  - $B_{1,    d} = e^{r/2}(p_2^A - \Delta_{1,    d} S_{2,    u}) = 99.005$.
-   - The value of the new [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|replicating portfolio]] in node $(1,    d)$ is $P_{1,    d}^{new} = \Delta_{1,    d} S_{1,    d} + B_{1,    d} = 18.119$.
+   - The value of the new [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) in node $(1,    d)$ is $P_{1,    d}^{new} = \Delta_{1,    d} S_{1,    d} + B_{1,    d} = 18.119$.
    - The value is lower than the value obtained earlier: $P_{1,    d} = 19.114$ from the initial replicating strategy.
    - – = ⇒The fact that the counterpart forgets to exercise the American option at node (1,  d) make us earn money:
 Profit from suboptimal exercise of option holder = $$P_{1,    d} − P^{new}_{1,    d} = 19.113 − 18.119 = 0.99$$
@@ -266,7 +266,7 @@ Profit from suboptimal exercise of option holder = $$P_{1,    d} − P^{new}_{1,
 - **American options** are harder to evaluate due to the timing decision of when to exercise (if at all).
    - The decision to exercise relies on the value of the option in case of no exercise.
    - The methodology requires a backward procedure to evaluate the option to wait.
-- **[[A Real-Life Option Pricing Exercise|Binomial]] trees** are useful due to the backward procedure,  but they are restrictive.
+- **[Binomial](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) trees** are useful due to the backward procedure,  but they are restrictive.
    - They are hard to use with multiple factors (e.g.,  if volatility is stochastic).
    - They are also challenging for path-dependent securities.
-- **New methodologies**,  such as [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Monte Carlo]] simulations,  have been introduced to handle these complexities.
+- **New methodologies**,  such as [Monte Carlo](Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) simulations,  have been introduced to handle these complexities.

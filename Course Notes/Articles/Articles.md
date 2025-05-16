@@ -20,7 +20,7 @@ key_concepts:
 # Articles
 
 %% Begin Waypoint %%
-- **[[Articles]]**
-	- [[Articles]]
+- **[Articles](.md)**
+	- [Articles](.md)
 
 %% End Waypoint %%

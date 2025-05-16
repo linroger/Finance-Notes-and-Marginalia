@@ -11,12 +11,12 @@ tags:
 7.5 Exercises 171   
 Consumption-based asset pricing 175   
 %% Begin Waypoint %%
-- **[[Chapter 7 - Market equilibrium]]**
-	- [[Chapter 7 - Market equilibrium]]
-	- [[Exercises]]
-	- [[Pareto-Optimality and Representative Individual]]
-	- [[Pareto-Optimality in Complete Markets]]
-	- [[Pareto-Optimality in Some Incomplete Markets]]
+- **[Chapter 7 - Market equilibrium](.md)**
+	- [Chapter 7 - Market equilibrium](.md)
+	- [Exercises](Exercises.md)
+	- [Pareto-Optimality and Representative Individual](Pareto-Optimality%20and%20Representative%20Individual.md)
+	- [Pareto-Optimality in Complete Markets](Pareto-Optimality%20in%20Complete%20Markets.md)
+	- [Pareto-Optimality in Some Incomplete Markets](Pareto-Optimality%20in%20Some%20Incomplete%20Markets.md)
 
 %% End Waypoint %%
 # 7.1 Introduction  

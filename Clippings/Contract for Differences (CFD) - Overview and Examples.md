@@ -14,30 +14,30 @@ aliases:
   - Contract for Differences
 key_concepts:
   - 'CFD: exchange of difference'
-  - [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] amplifies gains/losses
+  - [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) amplifies gains/losses
   - OTC trading
   - Prohibited in US for retail
   - Speculate on price movements
 ---
 
 
-A contract for differences (CFD) is a financial instrument traders use to speculate on prices without owning the [[Risk Neutral Pricing of Options|underlying asset]]. When entering into a CFD, an investor and broker agree to exchange the difference between the opening and closing value of the underlying financial product.
+A contract for differences (CFD) is a financial instrument traders use to speculate on prices without owning the [underlying asset](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md). When entering into a CFD, an investor and broker agree to exchange the difference between the opening and closing value of the underlying financial product.
 
 By focusing only on price changes rather than asset ownership, CFDs can provide a capital-efficient trading approach. While CFDs are widely available on [over-the-counter (OTC) exchanges](https://www.investopedia.com/terms/o/otc.asp) across Europe, Australia, and Asia, they're prohibited for retail traders in the U.S.
 
 ### Key Takeaways
 
 - A contract for differences (CFD) is a financial agreement where investors exchange the difference in values of an asset between when the contract opens and closes.
-- CFD investors speculate on price movements without owning the [[Risk Neutral Pricing of Options|underlying asset]], allowing for potential profits from both rising and falling markets.
-- Advantages of CFDs include lower capital requirements through [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]], global market access, no [[Short Selling|shorting]] restrictions, and flexible trading options.
-- Major disadvantages include spread costs, limited regulatory oversight, and losses that are often magnified by prodigious use of [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]].
+- CFD investors speculate on price movements without owning the [underlying asset](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md), allowing for potential profits from both rising and falling markets.
+- Advantages of CFDs include lower capital requirements through [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md), global market access, no [shorting](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Short%20Selling.md) restrictions, and flexible trading options.
+- Major disadvantages include spread costs, limited regulatory oversight, and losses that are often magnified by prodigious use of [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md).
 - CFDs are prohibited for retail investors in the U.S.
 
 ## What Is a Contract for Differences (CFD)?
 
 A is an agreement between an investor and a CFD broker to exchange the difference in the value of a financial product between the time the contract opens and closes. Investors use CFDs simply to bet on whether the price of the will rise or fall. It's an advanced trading strategy that should be used only by experienced traders.
 
-No physical goods or securities are delivered in a CFD transaction. A CFD investor never owns the [[Risk Neutral Pricing of Options|underlying asset]] but is paid based on the price change of that asset. For example, instead of buying or selling physical gold, a trader simply speculates on whether the price of gold will go up or down.
+No physical goods or securities are delivered in a CFD transaction. A CFD investor never owns the [underlying asset](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) but is paid based on the price change of that asset. For example, instead of buying or selling physical gold, a trader simply speculates on whether the price of gold will go up or down.
 
 Take the Next Step to Invest
 
@@ -45,10 +45,10 @@ Take the Next Step to Invest
 
 There are several reasons the Securities and Exchange Commission (SEC) has banned CFDs:
 
-- **[[Risk Management Lessons From Long Term Capital Management|Leverage and risk]] concerns**: CFDs typically offer high [[[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]]](https://www.investopedia.com/terms/l/[[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]].asp), which can amplify both gains and losses. U.S. regulators consider this level of [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] too risky for retail investors, as it can lead to financial losses that greatly exceed the initial capital.
-- **OTC trading**: The SEC prefers [[A Practical Guide for Actuaries and other Business Professionals.|financial instruments]] to be traded on that provide greater transparency, price discovery, and investor protection.
+- **[Leverage and risk](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Risk%20Management%20Lessons%20From%20Long%20Term%20Capital%20Management.md) concerns**: CFDs typically offer high [leverage]([Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products)](https://www.investopedia.com/terms/l/[leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md).asp), which can amplify both gains and losses. U.S. regulators consider this level of [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) too risky for retail investors, as it can lead to financial losses that greatly exceed the initial capital.
+- **OTC trading**: The SEC prefers [financial instruments](../Financial%20Instruments/A%20Practical%20Guide%20for%20Actuaries%20and%20other%20Business%20Professionals..md) to be traded on that provide greater transparency, price discovery, and investor protection.
 - **Investor protection**: The U.S. regulatory framework has historically emphasized investor protection more heavily than other jurisdictions. The SEC views CFDs as simply too complex for average retail investors.
-- **Existing alternatives**: The U.S. already has established markets for [[Futures Not Subject to Cash-And-Carry|futures]] and options, which offer similar speculative prospects but with greater regulatory oversight and exchange-based trading.
+- **Existing alternatives**: The U.S. already has established markets for [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) and options, which offer similar speculative prospects but with greater regulatory oversight and exchange-based trading.
 - **Limited recourse for investors**: Since CFD providers are often located offshore, U.S. investors might have limited legal recourse in case of disputes or broker failures.
 
 ### Tip
@@ -57,7 +57,7 @@ While the SEC has restricted the trading of CFDs in the U.S., nonresidents can t
 
 ### Countries Where You Can Trade CFDs
 
-CFDs are traded via [[A Survey of the Micro structure of Fixed-Income Markets|OTC markets]] in Australia, Belgium, Canada, Denmark, France, Germany, Hong Kong, Italy, the Netherlands, New Zealand, Norway, Singapore, South Africa, Spain, Switzerland, Thailand, and the United Kingdom.
+CFDs are traded via [OTC markets](../Fixed%20Income%20Asset%20Pricing/A%20Survey%20of%20the%20Micro%20structure%20of%20Fixed-Income%20Markets.md) in Australia, Belgium, Canada, Denmark, France, Germany, Hong Kong, Italy, the Netherlands, New Zealand, Norway, Singapore, South Africa, Spain, Switzerland, Thailand, and the United Kingdom.
 
 ## The Costs of Trading CFDs
 
@@ -80,9 +80,9 @@ For instance, major brokers like CMC Markets charge commissions that start from 
 
 ### Overnight Financing Charges
 
-When holding long positions overnight, traders typically pay financing charges. These fees represent the cost of the [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] provided by the broker—essentially, the interest on the "borrowed" capital used to control a larger position. The calculation usually follows this formula:
+When holding long positions overnight, traders typically pay financing charges. These fees represent the cost of the [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) provided by the broker—essentially, the interest on the "borrowed" capital used to control a larger position. The calculation usually follows this formula:
 
-Position Size × ([Benchmark Interest Rate](https://www.investopedia.com/terms/r/referencerate.asp) + Broker Markup) ÷ 365 = Daily [[Realized Returns|Financing Cost]]
+Position Size × ([Benchmark Interest Rate](https://www.investopedia.com/terms/r/referencerate.asp) + Broker Markup) ÷ 365 = Daily [Financing Cost](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md)
 
 Most brokers use benchmark rates such as plus a markup. For short positions, traders may receive or pay interest depending on the prevailing rates and broker policies.
 
@@ -99,7 +99,7 @@ An investor decides to trade CFDs on GlaxoSmithKline ([GSK](https://www.investop
 - **Investor's forecast**: Share price will rise to £24.80
 - **Commission rate:** 0.1% on opening and closing positions
 - **Financing charge**: SOFR + 2.5% (calculated at 7.5% annually for this example)
-- **Position [[Key Rates O1s Durations and Hedging|duration]]**: 16 days
+- **Position [duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)**: 16 days
 
 ### Opening the Position
 
@@ -111,8 +111,8 @@ An investor decides to trade CFDs on GlaxoSmithKline ([GSK](https://www.investop
 
 The investor holds the position for 16 days, incurring daily financing charges:
 
-- **Daily [[Realized Returns|financing cost]]**: (426 × £23.50 × 7.5%) ÷ 365 = £2.06 per day
-- **Total [[Realized Returns|financing cost]] over 16 days**: £2.06 × 16 = £32.92
+- **Daily [financing cost](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md)**: (426 × £23.50 × 7.5%) ÷ 365 = £2.06 per day
+- **Total [financing cost](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) over 16 days**: £2.06 × 16 = £32.92
 
 ### Closing the Position
 
@@ -136,22 +136,22 @@ The investor's calculation:
 
 This example demonstrates several important aspects of CFD trading:
 
-1. **The power of [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]]**: The investor bought exposure to more than £10,000 of shares without needing to buy them outright.
+1. **The power of [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)**: The investor bought exposure to more than £10,000 of shares without needing to buy them outright.
 2. **The costs add up**: Almost 10% of the gross profit went to commissions and financing charges.
 3. **The importance of the price movement**: The 5.5% increase in share price was essential to overcome the trading costs.
 4. **Time as a crucial factor**: Holding periods directly affect financing costs, which can significantly impact profitability.
 
 ## Risks of Trading CFDs
 
-There are significant [risks when trading CFDs](https://www.investopedia.com/articles/active-trading/110714/contract-difference-cfd-risks.asp), given the rapidity of market moves. There are [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] risks and margins that traders must maintain. If your CFD's value goes down and you can't maintain the margin requirement, your provider might close you out of your position—and you'll have to meet the loss even if the asset later reverses.
+There are significant [risks when trading CFDs](https://www.investopedia.com/articles/active-trading/110714/contract-difference-cfd-risks.asp), given the rapidity of market moves. There are [liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) risks and margins that traders must maintain. If your CFD's value goes down and you can't maintain the margin requirement, your provider might close you out of your position—and you'll have to meet the loss even if the asset later reverses.
 
-Using [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] can magnify gains but also losses. While you can use [stop losses](https://www.investopedia.com/terms/s/stop-lossorder.asp) with many CFD providers, that won't protect you from all negative price moves.
+Using [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) can magnify gains but also losses. While you can use [stop losses](https://www.investopedia.com/terms/s/stop-lossorder.asp) with many CFD providers, that won't protect you from all negative price moves.
 
 ## The Bottom Line
 
-CFDs offer sophisticated traders a capital-efficient way to speculate on price shifts across global markets without owning underlying assets. While the [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]], market accessibility, and trading flexibility make CFDs attractive to experienced investors seeking diversified exposure, these advantages come with significant risks.
+CFDs offer sophisticated traders a capital-efficient way to speculate on price shifts across global markets without owning underlying assets. While the [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md), market accessibility, and trading flexibility make CFDs attractive to experienced investors seeking diversified exposure, these advantages come with significant risks.
 
-The combination of spread costs, overnight financing charges, limited regulatory protection, and amplified losses through [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] means CFDs are best suited for knowledgeable traders with robust [[Banks' Bonds Playing Role as I|risk management strategies]] and enough capital to withstand drawdowns. Regulatory bodies worldwide have recognized these risks, with the European Securities and Markets Authority putting more protective measures in place for retail investors and the SEC prohibiting CFD trading for American retail traders entirely.  
+The combination of spread costs, overnight financing charges, limited regulatory protection, and amplified losses through [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) means CFDs are best suited for knowledgeable traders with robust [risk management strategies](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-%20Bank%20Runs/Banks'%20Bonds%20Playing%20Role%20as%20I.md) and enough capital to withstand drawdowns. Regulatory bodies worldwide have recognized these risks, with the European Securities and Markets Authority putting more protective measures in place for retail investors and the SEC prohibiting CFD trading for American retail traders entirely.  
 
 Article Sources
 

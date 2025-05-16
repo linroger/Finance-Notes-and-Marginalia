@@ -17,9 +17,9 @@ key_concepts:
 
 # 10.4 SOFR  
 
-In the transition away from LIBOR in the United States, discussed in detail in Chapter 12, regulators and others have advocated for a transition to the. [[SOFR|Secured Overnight Financing Rate]], or SOFR. Intended to represent the rate of secured, overnight borrowing, the Federal Reserve Bank of New York calculates SOFR using [[SOFR|daily repo transactions]] in the tri-party and DVP markets. However, DVP repo transactions are trimmed so as to exclude the lower-rate, presumably specials trades, which reflect the idiosyncrasies of lending on individual bond issues. In particular, the. $25\%$ of DVP repo trade volume with the lowest rates are excluded from the data used to calculate SOFR.  
+In the transition away from LIBOR in the United States, discussed in detail in Chapter 12, regulators and others have advocated for a transition to the. [Secured Overnight Financing Rate](.md), or SOFR. Intended to represent the rate of secured, overnight borrowing, the Federal Reserve Bank of New York calculates SOFR using [daily repo transactions](.md) in the tri-party and DVP markets. However, DVP repo transactions are trimmed so as to exclude the lower-rate, presumably specials trades, which reflect the idiosyncrasies of lending on individual bond issues. In particular, the. $25\%$ of DVP repo trade volume with the lowest rates are excluded from the data used to calculate SOFR.  
 
-TABLE 10.4  SOFR and Treasury [[Implied Repo Rates|Repo Rates]], as of May 14, 2021. Rates Are in Basis Points.   
+TABLE 10.4  SOFR and Treasury [Repo Rates](../Chapter%2011/Implied%20Repo%20Rates.md), as of May 14, 2021. Rates Are in Basis Points.   
 
 
 <html><body><table><tr><td>1st %ile</td><td>25th %ile</td><td>Median/ SOFR</td><td>75th %ile</td><td>99th %ile</td><td>Volume ($billions)</td></tr><tr><td>-4</td><td>-1</td><td>1</td><td>1</td><td>15</td><td>865</td></tr></table></body></html>

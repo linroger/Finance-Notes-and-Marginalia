@@ -1,12 +1,12 @@
 %% Begin Waypoint %%
-- **[[Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives]]**
-	- [[Basket Credit Derivatives]]
-	- [[Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives]]
-	- [[Collateralized Debt Obligations and Basket Cred]]
-	- [[Collateralized Debt Obligations]]
-	- [[Copulas and the Modeling of Default Correlatio]]
-	- [[Credit Derivative Indexes]]
-	- [[Synthetic CDO Tranche Pricing and Loss Analysi]]
+- **[Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives](.md)**
+	- [Basket Credit Derivatives](Basket%20Credit%20Derivatives.md)
+	- [Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives](.md)
+	- [Collateralized Debt Obligations and Basket Cred](Collateralized%20Debt%20Obligations%20and%20Basket%20Cred.md)
+	- [Collateralized Debt Obligations](Collateralized%20Debt%20Obligations.md)
+	- [Copulas and the Modeling of Default Correlatio](Copulas%20and%20the%20Modeling%20of%20Default%20Correlatio.md)
+	- [Credit Derivative Indexes](Credit%20Derivative%20Indexes.md)
+	- [Synthetic CDO Tranche Pricing and Loss Analysi](Synthetic%20CDO%20Tranche%20Pricing%20and%20Loss%20Analysi.md)
 
 %% End Waypoint %%
 

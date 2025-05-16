@@ -7,17 +7,17 @@ tags:
 ---
 # Chapter 8 - Consumption-Based Asset Pricing
 %% Begin Waypoint %%
-- **[[Chapter 8 - Consumption-Based Asset Pricing]]**
-	- [[CCAPM with Alternative Preferences]]
-	- [[Chapter 8 - Consumption-Based Asset Pricing]]
-	- [[Consumption-Based Asset Pricing with Incomplete Markets]]
-	- [[Exercises]]
-	- [[General Multi-Period Link Between Consumption a]]
-	- [[Long-Run Risks and Epstein-Zin Utility]]
-	- [[Problems with the Empirical Studies]]
-	- [[The One-Period Ccapm]]
-	- [[The Simple Multi-Period Ccapm]]
-	- [[Theory Meets Data - Asset Pricing Puzzles]]
+- **[Chapter 8 - Consumption-Based Asset Pricing](.md)**
+	- [CCAPM with Alternative Preferences](CCAPM%20with%20Alternative%20Preferences.md)
+	- [Chapter 8 - Consumption-Based Asset Pricing](.md)
+	- [Consumption-Based Asset Pricing with Incomplete Markets](Consumption-Based%20Asset%20Pricing%20with%20Incomplete%20Markets.md)
+	- [Exercises](Exercises.md)
+	- [General Multi-Period Link Between Consumption a](General%20Multi-Period%20Link%20Between%20Consumption%20a.md)
+	- [Long-Run Risks and Epstein-Zin Utility](Long-Run%20Risks%20and%20Epstein-Zin%20Utility.md)
+	- [Problems with the Empirical Studies](Problems%20with%20the%20Empirical%20Studies.md)
+	- [The One-Period Ccapm](The%20One-Period%20Ccapm.md)
+	- [The Simple Multi-Period Ccapm](The%20Simple%20Multi-Period%20Ccapm.md)
+	- [Theory Meets Data - Asset Pricing Puzzles](Theory%20Meets%20Data%20-%20Asset%20Pricing%20Puzzles.md)
 
 %% End Waypoint %%
 # Consumption-Based Asset Pricing

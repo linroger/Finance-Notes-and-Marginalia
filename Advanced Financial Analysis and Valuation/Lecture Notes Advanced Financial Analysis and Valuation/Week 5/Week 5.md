@@ -18,9 +18,9 @@ key_concepts:
 
 # Week 5
 %% Begin Waypoint %%
-- **[[Week 5]]**
-	- [[Week 5 Accounting Recap- R&D,     Intangibles,     M&A & Goodwill]]
-	- [[Week 5 Pharmaceuticals and Intangibles in Valuation]]
-	- [[Week 5]]
+- **[Week 5](.md)**
+	- [Week 5 Accounting Recap- R&D,     Intangibles,     M&A & Goodwill](Week%205%20Accounting%20Recap-%20R&D,%20%20%20%20%20Intangibles,%20%20%20%20%20M&A%20&%20Goodwill)
+	- [Week 5 Pharmaceuticals and Intangibles in Valuation](Week%205%20Pharmaceuticals%20and%20Intangibles%20in%20Valuation.md)
+	- [Week 5](.md)
 
 %% End Waypoint %%

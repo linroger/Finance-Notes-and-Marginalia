@@ -28,7 +28,7 @@ In the text example this calculation gives $\$16.918$
 
 ### THE SOLUTION WITH SHUTTING DOWN AND RESTARTING
 
-In this appendix we explain the solution of two problems: investing and operating (1) when it is possible to shut down once and restart once,  permanently,  and (2) when it is possible tc [[Appendix 17.B The Solution With Shutting Down and Restarting|shut down and restart]] an infinite number of times. The solutions here can be implemented numerically First,  we develop some notation. Let $V_{U}(S,      m,      n;*)$ represent the value of an undeveloped reserve and $V_{O}(S,      m,      n;*)$ and $V_{C}(S,      m,      n;*)$ the value of developed operating and developed closed reserves,  where it is possible to shut down m times and restart n times The 祚 denotes a dependence on the prices at which shutting and [[Appendix 17.B The Solution With Shutting Down and Restarting|restarting]] is optimal. We will be using the formulas given by equations (12.22) and (12.23) for the value of $\$1$ when $S$ reaches a barrier.
+In this appendix we explain the solution of two problems: investing and operating (1) when it is possible to shut down once and restart once,  permanently,  and (2) when it is possible tc [shut down and restart](Appendix%2017.B%20The%20Solution%20With%20Shutting%20Down%20and%20Restarting.md) an infinite number of times. The solutions here can be implemented numerically First,  we develop some notation. Let $V_{U}(S,      m,      n;*)$ represent the value of an undeveloped reserve and $V_{O}(S,      m,      n;*)$ and $V_{C}(S,      m,      n;*)$ the value of developed operating and developed closed reserves,  where it is possible to shut down m times and restart n times The 祚 denotes a dependence on the prices at which shutting and [restarting](Appendix%2017.B%20The%20Solution%20With%20Shutting%20Down%20and%20Restarting.md) is optimal. We will be using the formulas given by equations (12.22) and (12.23) for the value of $\$1$ when $S$ reaches a barrier.
 
 #### Single Shutdown and Restart
 
@@ -41,7 +41,7 @@ While operating,  prior to the shutdown at $S_{*}<S$ ,  we have
 
 (17.16)$$V_O (S,      1,      1; S_*,      S^*)=\frac{S}{\delta}-\frac{c}{r}+\left[\frac{c}{r}-k_s-\frac{S_*}{\delta}+V_C (S_*,      0,      1; S^*)\right]\left (\frac{S}{S_*}\right)^{h_2}$$
 
-We choose $S_{*}$ to maximize this expression,  taking $S^{*}$ as determined by equation (17.15) Finally,  prior to the original [[Chapter 1 Introduction to Securities Trading and Markets|investment decision]],  which occurs at $\bar{S}>S$ ,  the value of
+We choose $S_{*}$ to maximize this expression,  taking $S^{*}$ as determined by equation (17.15) Finally,  prior to the original [investment decision](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%201%20Introduction%20to%20Securities%20Trading%20and%20Markets.md),  which occurs at $\bar{S}>S$ ,  the value of
 
 The well is
 $$V_U (S,      1,      1; S_*,      S^*)=\begin{bmatrix}V_0 (\bar{S},      1,      1,      S_*,      S^*)-I\end{bmatrix}\left (\frac{S}{\bar{S}}\right)^{h_1}$$
@@ -59,4 +59,4 @@ V_{O}(S,      \infty,      \infty; S_{*},      S^{*})& =\frac{S}{\delta}-\frac{c
 Note that $V_{C}$ and $V_{0}$ are defined in terms of each other. We can substitute equation (17.17) into equation (17.18) and set $S=S_{*}$ . This gives$$V_O (S^*,      \infty,      \infty; S_*,      S^*)=\frac{S^*/\delta-c/r-k_r (S_*/S^*)^{h_1}+(c/r-S_*/\delta-k_s)\times (S^*/S_*)^{h_2}}{1-(S_*/S^*)^{h_1}\times (S^*/S_*)^{h_2}}$$
 Given starting values of $S^{*}$ and $S_{*}$ ,      we can evaluate equation (17.19),      substituting the answer into equation (17.17) to obtain an estimate of $V_{C}(S,      \infty,      \infty; S_{*},      S^{*})$ .Then we can maximize equation (17.17) with respect to $S^{*}$ and equation (17.18) with respect to $S_{*}$ . This gives us new estimates of $V_{C}(S_{*})$ and $V_{0}(S^{*})$ Iterate until convergence
 Once we have computed $S^{*},      S_{*}$ ,      and $V_{C}(S_{*})$ ,      the value of the well is$$V_{U}(S,      \infty,      \infty; S_{*},      S^{*})=\left[\frac{\overline{S}}{\delta}-\frac{c}{r}-I+V_{C}(S_{*},      \infty,      \infty; S_{*},      S^{*})\left (\frac{\overline{S}}{S_{*}}\right)^{h_{2}}\right]\left (\frac{S}{\overline{S}}\right)^{h_{1}}$$
-We maximize this with respect to $\overline{S}$ to find the [[Appendix 17.B The Solution With Shutting Down and Restarting|investment trigger]] and value of the well
+We maximize this with respect to $\overline{S}$ to find the [investment trigger](Appendix%2017.B%20The%20Solution%20With%20Shutting%20Down%20and%20Restarting.md) and value of the well

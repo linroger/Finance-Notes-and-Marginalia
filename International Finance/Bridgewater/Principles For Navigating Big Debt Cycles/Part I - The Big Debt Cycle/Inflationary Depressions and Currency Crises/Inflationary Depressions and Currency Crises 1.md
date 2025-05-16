@@ -36,144 +36,144 @@ key_concepts:
 
 ## Introduction
 - **Previous Section Recap**
-  - Discussed the archetypal [[Inflationary Depressions and Currency Crises|deflationary debt crisis]].
+  - Discussed the archetypal [deflationary debt crisis](Inflationary%20Depressions%20and%20Currency%20Crises.md).
   - Created by averaging 21 deflationary cycles.
 - **Current Focus**
-  - Examining the archetypal [[Inflationary Depressions and Currency Crises|inflationary debt crisis]].
+  - Examining the archetypal [inflationary debt crisis](Inflationary%20Depressions%20and%20Currency%20Crises.md).
   - Created by averaging 27 worst cases of inflationary cycles.
 - **Further Reading**
-  - Hyperinflation in Germany’s [[Inflationary Depressions and Currency Crises|Weimar Republic]] (Part 2).
+  - Hyperinflation in Germany’s [Weimar Republic](Inflationary%20Depressions%20and%20Currency%20Crises.md) (Part 2).
 
 ## Fundamental Concepts
-- **[[Inflationary Depressions and Currency Crises 1|Currency and Debt Functions]]**
-  - Serve as [[Inflationary Depressions and Currency Crises|mediums of exchange]].
+- **[Currency and Debt Functions](.md)**
+  - Serve as [mediums of exchange](Inflationary%20Depressions%20and%20Currency%20Crises.md).
   - Act as stores of wealth.
 - **Debt Dynamics**
   - Debt is an asset for one party and a liability for another.
-  - Represents a promise to pay in a specific [[Forwards and Futures Notes|currency]].
-- **[[War Economies and Hyperinflation|Inflation]] and [[Interest Rate Quotations|Interest Rates]]**
-  - Holders of debt assets are concerned with [[War Economies and Hyperinflation|inflation]] vs. interest rate compensation.
+  - Represents a promise to pay in a specific [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md).
+- **[Inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and [Interest Rates](../../../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)**
+  - Holders of debt assets are concerned with [inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) vs. interest rate compensation.
   - Central banks produce money and credit in their respective currencies.
 - **Debt Accumulation**
   - Central banks and market participants create increasing piles of debt.
   - Balancing these piles is crucial to avoid deflationary or inflationary depressions.
-- **[[Inflationary Depressions and Currency Crises|Policy Makers]]' Role**
+- **[Policy Makers](Inflationary%20Depressions%20and%20Currency%20Crises.md)' Role**
   - Control monetary and fiscal policies to balance opposing forces in debt crises.
-  - Central banks often print [[Forwards and Futures Notes|currency]] to relieve debt crises,  affecting [[Forwards and Futures Notes|currency]] value.
+  - Central banks often print [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) to relieve debt crises,  affecting [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) value.
 
 ## Currency Dynamics and Inflationary Depressions
-- **[[Inflationary Depressions and Currency Crises|Currency Weakness]]**
-  - If a [[Forwards and Futures Notes|currency]] depreciates faster than its interest rate,  debt holders lose money.
-  - Investors may sell weak [[Forwards and Futures Notes|currency]] assets for stronger currencies or non-[[Forwards and Futures Notes|currency]] assets like gold.
+- **[Currency Weakness](Inflationary%20Depressions%20and%20Currency%20Crises.md)**
+  - If a [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) depreciates faster than its interest rate,  debt holders lose money.
+  - Investors may sell weak [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) assets for stronger currencies or non-[currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) assets like gold.
 - **Central Bank Challenges**
-  - Raising [[Interest Rate Quotations|interest rates]] to compensate for [[Inflationary Depressions and Currency Crises|currency weakness]] is often impossible during crises.
+  - Raising [interest rates](../../../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) to compensate for [currency weakness](Inflationary%20Depressions%20and%20Currency%20Crises.md) is often impossible during crises.
   - Money outflows can lead to credit market tightening or increased money printing.
-- **Trade-offs in [[War Economies and Hyperinflation|Inflation]] and Growth**
-  - Central banks manage [[War Economies and Hyperinflation|inflation]] and growth by adjusting [[Interest Rate Quotations|interest rates]] and [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]].
-  - Demand for [[Forwards and Futures Notes|currency]]/debt affects [[War Economies and Hyperinflation|inflation]] and growth dynamics.
+- **Trade-offs in [Inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and Growth**
+  - Central banks manage [inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and growth by adjusting [interest rates](../../../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) and [liquidity](../../../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md).
+  - Demand for [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)/debt affects [inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and growth dynamics.
 - **Capital Outflows**
   - Occur in inhospitable environments (debt,  economic,  political issues).
-  - Weaken the [[Forwards and Futures Notes|currency]] further,  increasing debt costs for those borrowing in stronger currencies.
+  - Weaken the [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) further,  increasing debt costs for those borrowing in stronger currencies.
 
 ## Vulnerability to Inflationary Deleveragings
 - **Factors Increasing Vulnerability**
-  - Lack of [[How Countries Go Broke-Chapter 15 & Chapter 16|reserve currency status]].
+  - Lack of [reserve currency status](../../../How%20Countries%20Go%20Broke/How%20Countries%20Go%20Broke-Chapter%2015%20&%20Chapter%2016.md).
   - Low foreign-exchange reserves.
   - Large foreign debt.
-  - Large budget/[[Chapter 14- Capital Flows and the Current Account|current account]] deficits.
-  - Negative [[Real Interest Rates and Aggregate Production|real interest rates]].
-  - History of high [[War Economies and Hyperinflation|inflation]] and negative [[Assets|returns]].
+  - Large budget/[current account](../../../../Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md) deficits.
+  - Negative [real interest rates](../../../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20Interest%20Rates%20and%20Aggregate%20Production.md).
+  - History of high [inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and negative [returns](../../../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md).
 - **Iconic Case Study**
-  - German [[Inflationary Depressions and Currency Crises|Weimar Republic]] in the early 1920s.
-- **Reserve-[[Forwards and Futures Notes|Currency]] Countries**
+  - German [Weimar Republic](Inflationary%20Depressions%20and%20Currency%20Crises.md) in the early 1920s.
+- **Reserve-[Currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Countries**
   - Less likely to experience severe inflationary contractions.
   - Can still face inflationary depressions with excessive monetary stimulation.
 
 ## Phases of the Classic Inflationary Debt Cycle
-- **[[Overview of Financial Markets|Overview]]**
+- **[Overview](../../../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)**
   - Inflationary deleveragings follow five stages,  similar to deflationary ones but differ in key aspects.
 
 ### 1) The Early Part of the Cycle
 - **Healthy Upswing**
-  - Favorable [[Chapter 14- Capital Flows and the Current Account|capital flows]] due to [[Chapter 3-Comparative Advantage, Competitiveness, and the Terms of Trade|competitive]] [[Week 2 Fundamentals Of Forecasting|fundamentals]].
+  - Favorable [capital flows](../../../../Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md) due to [competitive](../../../../Globalization/Chapter%203-Comparative%20Advantage,%20Competitiveness,%20and%20the%20Terms%20of%20Trade.md) [fundamentals](../../../../../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md).
   - Low debt levels and healthy balance sheets stimulate growth.
 - **Capital Flows**
   - Volatile but crucial for economic health.
-  - Debt and incomes rise at comparable rates,  encouraging [[An Asset Allocation Primer|investment]].
-- **[[Forwards and Futures Notes|Currency]] Demand**
-  - Strong [[Forwards and Futures Notes|currency]] demand improves [[The Balance of Payments|balance of payments]].
-  - Central banks may intervene to manage [[Forwards and Futures Notes|currency]] appreciation.
+  - Debt and incomes rise at comparable rates,  encouraging [investment](../../../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md).
+- **[Currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Demand**
+  - Strong [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) demand improves [balance of payments](../../../../The%20Balance%20of%20Payments.md).
+  - Central banks may intervene to manage [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) appreciation.
 - **Foreign-Exchange Reserves**
-  - Accumulated to cushion [[Forwards and Futures Notes|currency]] market movements.
+  - Accumulated to cushion [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) market movements.
   - Stimulate the economy by maintaining export competitiveness.
 
 ### 2) The Bubble
 - **Emergence of the Bubble**
-  - Self-reinforcing cycle of [[Chapter 14- Capital Flows and the Current Account|capital flows]],  [[Some Stylized Empirical Facts About Asset Retur|asset returns]],  and [[US Debt Crisis and Adjustment (2007–2011)|economic conditions]].
+  - Self-reinforcing cycle of [capital flows](../../../../Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md),  [asset returns](../../../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Some%20Stylized%20Empirical%20Facts%20About%20Asset%20Retur.md),  and [economic conditions](../../../Chapters/US%20Debt%20Crisis%20and%20Adjustment%20(2007–2011).md).
   - Asset prices rise,  often financed by debt,  leading to overvaluation.
-- **[[Inflationary Depressions and Currency Crises 1|Currency and Asset Dynamics]]**
+- **[Currency and Asset Dynamics](.md)**
   - Strong exchange rates and increasing reserves boost the economy.
-  - Attractive [[Assets|returns]] encourage more inflows,  creating bubbles in debt and stock markets.
+  - Attractive [returns](../../../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) encourage more inflows,  creating bubbles in debt and stock markets.
 
 ## Conclusion
 - **Inflationary Depressions**
-  - Result from complex interactions between [[Forwards and Futures Notes|currency]] dynamics,  debt,  and economic policies.
+  - Result from complex interactions between [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) dynamics,  debt,  and economic policies.
   - Understanding these phases and vulnerabilities is crucial for managing economic stability.
 
 # Lecture Notes: Inflationary Depressions and Currency Crises
 
 ## Introduction
 - **Previous Section Recap**
-  - Discussed the archetypal [[Inflationary Depressions and Currency Crises|deflationary debt crisis]].
+  - Discussed the archetypal [deflationary debt crisis](Inflationary%20Depressions%20and%20Currency%20Crises.md).
   - Created by averaging 21 deflationary cycles.
 - **Current Focus**
-  - Examining the archetypal [[Inflationary Depressions and Currency Crises|inflationary debt crisis]].
+  - Examining the archetypal [inflationary debt crisis](Inflationary%20Depressions%20and%20Currency%20Crises.md).
   - Created by averaging 27 worst cases of inflationary cycles.
 - **Further Reading**
-  - Hyperinflation in Germany’s [[Inflationary Depressions and Currency Crises|Weimar Republic]] (Part 2).
+  - Hyperinflation in Germany’s [Weimar Republic](Inflationary%20Depressions%20and%20Currency%20Crises.md) (Part 2).
 
 ## Fundamental Concepts
-- **[[Inflationary Depressions and Currency Crises 1|Currency and Debt Functions]]**
-  - Serve as [[Inflationary Depressions and Currency Crises|mediums of exchange]].
+- **[Currency and Debt Functions](.md)**
+  - Serve as [mediums of exchange](Inflationary%20Depressions%20and%20Currency%20Crises.md).
   - Act as stores of wealth.
 - **Debt Dynamics**
   - Debt is an asset for one party and a liability for another.
-  - Represents a promise to pay in a specific [[Forwards and Futures Notes|currency]].
-- **[[War Economies and Hyperinflation|Inflation]] and [[Interest Rate Quotations|Interest Rates]]**
-  - Holders of debt assets are concerned with [[War Economies and Hyperinflation|inflation]] vs. interest rate compensation.
+  - Represents a promise to pay in a specific [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md).
+- **[Inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and [Interest Rates](../../../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)**
+  - Holders of debt assets are concerned with [inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) vs. interest rate compensation.
   - Central banks produce money and credit in their respective currencies.
 - **Debt Accumulation**
   - Central banks and market participants create increasing piles of debt.
   - Balancing these piles is crucial to avoid deflationary or inflationary depressions.
-- **[[Inflationary Depressions and Currency Crises|Policy Makers]]' Role**
+- **[Policy Makers](Inflationary%20Depressions%20and%20Currency%20Crises.md)' Role**
   - Control monetary and fiscal policies to balance opposing forces in debt crises.
-  - Central banks often print [[Forwards and Futures Notes|currency]] to relieve debt crises,  affecting [[Forwards and Futures Notes|currency]] value.
+  - Central banks often print [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) to relieve debt crises,  affecting [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) value.
 
 ## Currency Dynamics and Inflationary Depressions
-- **[[Inflationary Depressions and Currency Crises|Currency Weakness]]**
-  - If a [[Forwards and Futures Notes|currency]] depreciates faster than its interest rate,  debt holders lose money.
-  - Investors may sell weak [[Forwards and Futures Notes|currency]] assets for stronger currencies or non-[[Forwards and Futures Notes|currency]] assets like gold.
+- **[Currency Weakness](Inflationary%20Depressions%20and%20Currency%20Crises.md)**
+  - If a [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) depreciates faster than its interest rate,  debt holders lose money.
+  - Investors may sell weak [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) assets for stronger currencies or non-[currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) assets like gold.
 - **Central Bank Challenges**
-  - Raising [[Interest Rate Quotations|interest rates]] to compensate for [[Inflationary Depressions and Currency Crises|currency weakness]] is often impossible during crises.
+  - Raising [interest rates](../../../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) to compensate for [currency weakness](Inflationary%20Depressions%20and%20Currency%20Crises.md) is often impossible during crises.
   - Money outflows can lead to credit market tightening or increased money printing.
-- **Trade-offs in [[War Economies and Hyperinflation|Inflation]] and Growth**
-  - Central banks manage [[War Economies and Hyperinflation|inflation]] and growth by adjusting [[Interest Rate Quotations|interest rates]] and [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]].
-  - Demand for [[Forwards and Futures Notes|currency]]/debt affects [[War Economies and Hyperinflation|inflation]] and growth dynamics.
+- **Trade-offs in [Inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and Growth**
+  - Central banks manage [inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and growth by adjusting [interest rates](../../../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) and [liquidity](../../../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md).
+  - Demand for [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)/debt affects [inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and growth dynamics.
 - **Capital Outflows**
   - Occur in inhospitable environments (debt,  economic,  political issues).
-  - Weaken the [[Forwards and Futures Notes|currency]] further,  increasing debt costs for those borrowing in stronger currencies.
+  - Weaken the [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) further,  increasing debt costs for those borrowing in stronger currencies.
 
 ## Vulnerability to Inflationary Deleveragings
 - **Factors Increasing Vulnerability**
-  - Lack of [[How Countries Go Broke-Chapter 15 & Chapter 16|reserve currency status]].
+  - Lack of [reserve currency status](../../../How%20Countries%20Go%20Broke/How%20Countries%20Go%20Broke-Chapter%2015%20&%20Chapter%2016.md).
   - Low foreign-exchange reserves.
   - Large foreign debt.
-  - Large budget/[[Chapter 14- Capital Flows and the Current Account|current account]] deficits.
-  - Negative [[Real Interest Rates and Aggregate Production|real interest rates]].
-  - History of high [[War Economies and Hyperinflation|inflation]] and negative [[Assets|returns]].
+  - Large budget/[current account](../../../../Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md) deficits.
+  - Negative [real interest rates](../../../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20Interest%20Rates%20and%20Aggregate%20Production.md).
+  - History of high [inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and negative [returns](../../../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md).
 - **Iconic Case Study**
-  - German [[Inflationary Depressions and Currency Crises|Weimar Republic]] in the early 1920s.
-- **Reserve-[[Forwards and Futures Notes|Currency]] Countries**
+  - German [Weimar Republic](Inflationary%20Depressions%20and%20Currency%20Crises.md) in the early 1920s.
+- **Reserve-[Currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Countries**
   - Less likely to experience severe inflationary contractions.
   - Can still face inflationary depressions with excessive monetary stimulation.
 
@@ -181,44 +181,44 @@ key_concepts:
 
 ### 1) The Early Part of the Cycle
 - **Healthy Upswing**
-  - Favorable [[Chapter 14- Capital Flows and the Current Account|capital flows]] due to [[Chapter 3-Comparative Advantage, Competitiveness, and the Terms of Trade|competitive]] [[Week 2 Fundamentals Of Forecasting|fundamentals]].
+  - Favorable [capital flows](../../../../Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md) due to [competitive](../../../../Globalization/Chapter%203-Comparative%20Advantage,%20Competitiveness,%20and%20the%20Terms%20of%20Trade.md) [fundamentals](../../../../../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md).
   - Low debt levels and healthy balance sheets stimulate growth.
 - **Capital Flows**
   - Volatile but crucial for economic health.
-  - Debt and incomes rise at comparable rates,  encouraging [[An Asset Allocation Primer|investment]].
-- **[[Forwards and Futures Notes|Currency]] Demand**
-  - Strong [[Forwards and Futures Notes|currency]] demand improves [[The Balance of Payments|balance of payments]].
-  - Central banks may intervene to manage [[Forwards and Futures Notes|currency]] appreciation.
+  - Debt and incomes rise at comparable rates,  encouraging [investment](../../../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md).
+- **[Currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Demand**
+  - Strong [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) demand improves [balance of payments](../../../../The%20Balance%20of%20Payments.md).
+  - Central banks may intervene to manage [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) appreciation.
 - **Foreign-Exchange Reserves**
-  - Accumulated to cushion [[Forwards and Futures Notes|currency]] market movements.
+  - Accumulated to cushion [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) market movements.
   - Stimulate the economy by maintaining export competitiveness.
 
 ### 2) The Bubble
 - **Emergence of the Bubble**
-  - Self-reinforcing cycle of [[Chapter 14- Capital Flows and the Current Account|capital flows]],  [[Some Stylized Empirical Facts About Asset Retur|asset returns]],  and [[US Debt Crisis and Adjustment (2007–2011)|economic conditions]].
+  - Self-reinforcing cycle of [capital flows](../../../../Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md),  [asset returns](../../../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Some%20Stylized%20Empirical%20Facts%20About%20Asset%20Retur.md),  and [economic conditions](../../../Chapters/US%20Debt%20Crisis%20and%20Adjustment%20(2007–2011).md).
   - Asset prices rise,  often financed by debt,  leading to overvaluation.
-- **[[Lecture 4- [[Lecture 4- Investor Sentiment|Investor Sentiment]]|[[Lecture 4- Investor Sentiment|investor sentiment]]]]**
+- **[Investor Sentiment](Lecture%204-%20[[Lecture%204-%20Investor%20Sentiment)|[investor sentiment](../../../../../Advanced%20Investments/Lecture%204-%20Investor%20Sentiment.md)]]**
   - Investors believe the country’s assets are a fabulous treasure to own.
   - New investors rush in,  fearing they are missing out.
 - **Market Conditions**
   - Market becomes fully long,  leveraged,  and overpriced,  ripe for reversal.
-  - Foreign [[Chapter 14- Capital Flows and the Current Account|capital flows]] are high (around 10% of GDP on average).
+  - Foreign [capital flows](../../../../Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md) are high (around 10% of GDP on average).
   - Central bank accumulates foreign-exchange reserves.
   - Real FX becomes overvalued by around 15% on a PPP basis.
   - Stocks rally by over 20% for several years into their peak.
-- **[[Forwards and Futures Notes|Currency]] Positions**
-  - Entities build up structurally long [[Forwards and Futures Notes|currency]] positions due to constant rewards.
-  - Participants are motivated to be long the [[Forwards and Futures Notes|currency]] due to sustained [[An Asset Allocation Primer|investment]] waves.
+- **[Currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Positions**
+  - Entities build up structurally long [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) positions due to constant rewards.
+  - Participants are motivated to be long the [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) due to sustained [investment](../../../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) waves.
 - **Foreign and Local Business Dynamics**
-  - Foreign businesses may fund activities in their own [[Forwards and Futures Notes|currency]] but hold deposits in local [[Forwards and Futures Notes|currency]].
-  - Local businesses might borrow in weaker foreign [[Forwards and Futures Notes|currency]],  encouraged by eager foreign bankers.
-- **Economic Growth and [[An Asset Allocation Primer|Investment]]**
+  - Foreign businesses may fund activities in their own [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) but hold deposits in local [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md).
+  - Local businesses might borrow in weaker foreign [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md),  encouraged by eager foreign bankers.
+- **Economic Growth and [Investment](../../../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)**
   - Influx of foreign capital finances a consumption boom.
-  - Imports rise faster than exports,  worsening the [[Chapter 14- Capital Flows and the Current Account|current account]].
-  - High export prices increase income and incentivize [[An Asset Allocation Primer|investment]].
+  - Imports rise faster than exports,  worsening the [current account](../../../../Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md).
+  - High export prices increase income and incentivize [investment](../../../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md).
 - **Debt and Economic Activity**
   - Debt burdens rise fast,  with debt to GDP increasing at about 10% annually over three years.
-  - Foreign-[[Forwards and Futures Notes|currency]] debt rises to around 35% of total debt and 45% of GDP.
+  - Foreign-[currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) debt rises to around 35% of total debt and 45% of GDP.
   - Economic activity is strong,  with GDP gap around +4%.
 - **Bubble Dynamics**
   - Debt as a percentage of GDP rises from around 125% to about 150%.
@@ -229,25 +229,25 @@ key_concepts:
 - **Bubble Burst**
   - Occurs when flows that caused the bubble become unsustainable.
   - Sets in motion a cycle of weakening capital inflows and asset prices.
-- **[[The Balance of Payments|Balance of Payments]] Crisis**
-  - Triggered by minor events due to high optimism and [[An Asset Allocation Primer|investment]].
-  - Adverse shifts in [[Chapter 14- Capital Flows and the Current Account|capital flows]] are more important than trade balances.
+- **[Balance of Payments](../../../../The%20Balance%20of%20Payments.md) Crisis**
+  - Triggered by minor events due to high optimism and [investment](../../../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md).
+  - Adverse shifts in [capital flows](../../../../Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md) are more important than trade balances.
 - **Crisis Triggers**
-  - Income from exports drops due to high [[Forwards and Futures Notes|currency]] or falling [[Primary vs. Secondary Commodities|commodity prices]].
+  - Income from exports drops due to high [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) or falling [commodity prices](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Primary%20vs.%20Secondary%20Commodities.md).
   - Costs of imports or borrowing rise.
-  - Declines in [[Chapter 14- Capital Flows and the Current Account|capital flows]] due to economic or political concerns.
+  - Declines in [capital flows](../../../../Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md) due to economic or political concerns.
 - **Capital Outflows**
   - Domestic entities seek to move money out of the country.
-  - Weakening [[Chapter 14- Capital Flows and the Current Account|capital flows]] directly cause growth to weaken.
-- **[[The Economist Fewer Or Even None|Economic Impact]]**
+  - Weakening [capital flows](../../../../Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md) directly cause growth to weaken.
+- **[Economic Impact](../../../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Fewer%20Or%20Even%20None.md)**
   - Growth slows,  domestic capital outflows increase.
-  - Export earnings fall,  leading to [[A Preview of Alternative Formulations|asset price]] declines and bank failures.
+  - Export earnings fall,  leading to [asset price](../../../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) declines and bank failures.
 - **Policy Maker Challenges**
-  - Worry about capital outflows and [[Forwards and Futures Notes|currency]] collapse.
-  - Central banks attempt to defend [[Forwards and Futures Notes|currency]] by spending reserves or raising rates.
-- **[[Forwards and Futures Notes|Currency]] Defense Failures**
-  - Managed [[Forwards and Futures Notes|currency]] declines rarely work due to [[Forward Rate|market expectations]].
-  - Forward [[The Foreign Exchange Market Annotations|currency price]] declines ahead of the spot price.
+  - Worry about capital outflows and [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) collapse.
+  - Central banks attempt to defend [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) by spending reserves or raising rates.
+- **[Currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Defense Failures**
+  - Managed [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) declines rarely work due to [market expectations](../../../../../Clippings/Forward%20Rate.md).
+  - Forward [currency price](../../../../The%20Foreign%20Exchange%20Market%20Annotations.md) declines ahead of the spot price.
 - **Capital Controls**
   - Often a last resort but usually fail due to investor circumvention.
   - Can temporarily fix issues but not sustain them.
@@ -257,27 +257,27 @@ key_concepts:
   - Analogous to a family struggling with payments.
   - Major difference is the scale and impact on national economies.
 - **Economic Contraction**
-  - Severe economic contraction due to high [[Interest Rate Quotations|interest rates]] and [[Inflationary Depressions and Currency Crises 1|currency depreciation]].
-  - Central banks face challenges in managing [[War Economies and Hyperinflation|inflation]] and growth.
+  - Severe economic contraction due to high [interest rates](../../../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) and [currency depreciation](.md).
+  - Central banks face challenges in managing [inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and growth.
 - **Conclusion**
-  - Inflationary depressions result from complex interactions between [[Forwards and Futures Notes|currency]] dynamics,  debt,  and economic policies.
+  - Inflationary depressions result from complex interactions between [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) dynamics,  debt,  and economic policies.
   - Understanding these phases and vulnerabilities is crucial for managing economic stability.
 
 # Lecture Notes: Inflationary Depressions and Currency Crises
 
 ## Introduction
-- **Contextual [[Overview of Financial Markets|Overview]]**
+- **Contextual [Overview](../../../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)**
   - Previous discussions focused on deflationary debt crises.
   - Current focus is on inflationary debt crises,  using historical data from 27 worst cases.
 - **Purpose of Study**
   - Understand the dynamics of inflationary depressions.
-  - Explore the role of [[Forwards and Futures Notes|currency]] devaluation in economic adjustments.
+  - Explore the role of [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) devaluation in economic adjustments.
 
 ## Fundamental Concepts
 
 ### Currency and Debt Functions
 - **Medium of Exchange and Store of Wealth**
-  - [[Forwards and Futures Notes|Currency]] and debt serve as essential tools in [[The Balance of Payments|economic transactions]].
+  - [Currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) and debt serve as essential tools in [economic transactions](../../../../The%20Balance%20of%20Payments.md).
   - They facilitate trade and act as a measure of value over time.
 
 ### Debt Dynamics
@@ -287,8 +287,8 @@ key_concepts:
 
 ### Inflation and Interest Rates
 - **Impact on Debt Holders**
-  - [[War Economies and Hyperinflation|Inflation]] affects the real value of debt,  influencing interest rate [[FORWARD RATES AND TERM STRUCTURE|expectations]].
-  - Central banks manage money supply to stabilize [[Forwards and Futures Notes|currency]] value.
+  - [Inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) affects the real value of debt,  influencing interest rate [expectations](../../../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md).
+  - Central banks manage money supply to stabilize [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) value.
 
 ### Debt Accumulation
 - **Role of Central Banks**
@@ -297,40 +297,40 @@ key_concepts:
 
 ### Policy Makers' Role
 - **Monetary and Fiscal Policies**
-  - [[Inflationary Depressions and Currency Crises|Policy makers]] use these tools to balance economic forces.
-  - [[Forwards and Futures Notes|Currency]] printing can relieve debt crises but may devalue [[Forwards and Futures Notes|currency]].
+  - [Policy makers](Inflationary%20Depressions%20and%20Currency%20Crises.md) use these tools to balance economic forces.
+  - [Currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) printing can relieve debt crises but may devalue [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md).
 
 ## Currency Dynamics and Inflationary Depressions
 
 ### Currency Weakness
-- **Depreciation and [[Runs On Money Market Mutual Funds|Investor Behavior]]**
-  - Rapid [[Inflationary Depressions and Currency Crises 1|currency depreciation]] leads to losses for debt holders.
+- **Depreciation and [Investor Behavior](../../../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-%20Bank%20Runs/Runs%20On%20Money%20Market%20Mutual%20Funds.md)**
+  - Rapid [currency depreciation](.md) leads to losses for debt holders.
   - Investors may shift to stronger currencies or tangible assets like gold.
 
 ### Central Bank Challenges
 - **Interest Rate Adjustments**
-  - Raising rates to counteract [[Inflationary Depressions and Currency Crises|currency weakness]] can be difficult.
-  - Money outflows may tighten [[Credit Markets Session 1|credit markets]] or necessitate more money printing.
+  - Raising rates to counteract [currency weakness](Inflationary%20Depressions%20and%20Currency%20Crises.md) can be difficult.
+  - Money outflows may tighten [credit markets](../../../../../Credit%20Markets/Credit%20Markets%20Session%201.md) or necessitate more money printing.
 
 ### Trade-offs in Inflation and Growth
 - **Balancing Act**
-  - Central banks adjust [[Interest Rate Quotations|interest rates]] and [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] to manage [[War Economies and Hyperinflation|inflation]] and growth.
-  - [[Forwards and Futures Notes|Currency]] demand influences these dynamics.
+  - Central banks adjust [interest rates](../../../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) and [liquidity](../../../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) to manage [inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and growth.
+  - [Currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) demand influences these dynamics.
 
 ### Capital Outflows
 - **Economic and Political Factors**
   - Unfavorable conditions can lead to capital flight.
-  - This weakens the [[Forwards and Futures Notes|currency]] and increases debt costs for foreign [[Forwards and Futures Notes|currency]] borrowers.
+  - This weakens the [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) and increases debt costs for foreign [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) borrowers.
 
 ## Vulnerability to Inflationary Deleveragings
 
 ### Factors Increasing Vulnerability
 - **Economic Indicators**
-  - Lack of [[How Countries Go Broke-Chapter 15 & Chapter 16|reserve currency status]],  low reserves,  and large foreign debt increase risk.
-  - Budget deficits,  negative [[Real Interest Rates and Aggregate Production|real interest rates]],  and [[War Economies and Hyperinflation|inflation]] history are also factors.
+  - Lack of [reserve currency status](../../../How%20Countries%20Go%20Broke/How%20Countries%20Go%20Broke-Chapter%2015%20&%20Chapter%2016.md),  low reserves,  and large foreign debt increase risk.
+  - Budget deficits,  negative [real interest rates](../../../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20Interest%20Rates%20and%20Aggregate%20Production.md),  and [inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) history are also factors.
 
 ### Iconic Case Study
-- **[[Inflationary Depressions and Currency Crises|Weimar Republic]]**
+- **[Weimar Republic](Inflationary%20Depressions%20and%20Currency%20Crises.md)**
   - A historical example of severe inflationary contraction.
 
 ### Reserve-Currency Countries
@@ -341,86 +341,86 @@ key_concepts:
 
 ### 1) The Early Part of the Cycle
 - **Healthy Upswing**
-  - [[Chapter 3-Comparative Advantage, Competitiveness, and the Terms of Trade|competitive]] [[Week 2 Fundamentals Of Forecasting|fundamentals]] attract [[Chapter 14- Capital Flows and the Current Account|capital flows]].
+  - [competitive](../../../../Globalization/Chapter%203-Comparative%20Advantage,%20Competitiveness,%20and%20the%20Terms%20of%20Trade.md) [fundamentals](../../../../../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) attract [capital flows](../../../../Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md).
   - Low debt levels and strong balance sheets promote growth.
-- **Capital Flows and [[Forwards and Futures Notes|Currency]] Demand**
+- **Capital Flows and [Currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Demand**
   - Volatile but essential for economic health.
-  - Strong [[Forwards and Futures Notes|currency]] demand improves [[The Balance of Payments|balance of payments]].
+  - Strong [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) demand improves [balance of payments](../../../../The%20Balance%20of%20Payments.md).
 - **Foreign-Exchange Reserves**
-  - Accumulated to stabilize [[Forwards and Futures Notes|currency]] markets and stimulate the economy.
+  - Accumulated to stabilize [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) markets and stimulate the economy.
 
 ### 2) The Bubble
 - **Emergence and Dynamics**
-  - Self-reinforcing cycle of [[Chapter 14- Capital Flows and the Current Account|capital flows]] and [[Some Stylized Empirical Facts About Asset Retur|asset returns]].
+  - Self-reinforcing cycle of [capital flows](../../../../Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md) and [asset returns](../../../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Some%20Stylized%20Empirical%20Facts%20About%20Asset%20Retur.md).
   - Asset prices rise,  often financed by debt,  leading to overvaluation.
-- **[[Lecture 4- [[Lecture 4- Investor Sentiment|Investor Sentiment]]|[[Lecture 4- Investor Sentiment|investor sentiment]]]] and Market Conditions**
+- **[Investor Sentiment](Lecture%204-%20[[Lecture%204-%20Investor%20Sentiment)|[investor sentiment](../../../../../Advanced%20Investments/Lecture%204-%20Investor%20Sentiment.md)]] and Market Conditions**
   - High optimism leads to overbought markets.
-  - Foreign capital inflows and [[Forwards and Futures Notes|currency]] positions become unsustainable.
+  - Foreign capital inflows and [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) positions become unsustainable.
 - **Economic Growth and Debt**
   - Influx of capital finances consumption booms.
   - Rising debt burdens and deteriorating current accounts.
 
 ### 3) The Top and Currency Defense
 - **Bubble Burst and Crisis Triggers**
-  - Unsustainable [[Chapter 14- Capital Flows and the Current Account|capital flows]] lead to [[The Balance of Payments|balance of payments]] crises.
+  - Unsustainable [capital flows](../../../../Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md) lead to [balance of payments](../../../../The%20Balance%20of%20Payments.md) crises.
   - Minor events can trigger significant economic shifts.
-- **Capital Outflows and [[The Economist Fewer Or Even None|Economic Impact]]**
+- **Capital Outflows and [Economic Impact](../../../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Fewer%20Or%20Even%20None.md)**
   - Domestic capital seeks safety abroad,  weakening growth.
-  - [[Inflationary Depressions and Currency Crises|Policy makers]] struggle to defend [[Forwards and Futures Notes|currency]],  often unsuccessfully.
-- **[[Forwards and Futures Notes|Currency]] Defense Failures**
+  - [Policy makers](Inflationary%20Depressions%20and%20Currency%20Crises.md) struggle to defend [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md),  often unsuccessfully.
+- **[Currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Defense Failures**
   - Managed declines rarely succeed; capital controls often fail.
 
 ### 4) The Depression (Currency Let Go)
 - **Inflationary Deleveraging**
-  - Severe economic contraction due to high [[Interest Rate Quotations|interest rates]] and [[Inflationary Depressions and Currency Crises 1|currency depreciation]].
+  - Severe economic contraction due to high [interest rates](../../../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) and [currency depreciation](.md).
 - **Economic Contraction and Policy Challenges**
   - Growth slows,  job losses increase,  and spending declines.
-  - Central banks face challenges in managing [[War Economies and Hyperinflation|inflation]] and growth.
-- **[[Forwards and Futures Notes|Currency]] Decline and [[War Economies and Hyperinflation|Inflation]]**
-  - [[Inflationary Depressions and Currency Crises|Currency weakness]] leads to higher import prices and [[War Economies and Hyperinflation|inflation]].
+  - Central banks face challenges in managing [inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and growth.
+- **[Currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Decline and [Inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)**
+  - [Currency weakness](Inflationary%20Depressions%20and%20Currency%20Crises.md) leads to higher import prices and [inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md).
   - Persistent declines encourage capital withdrawal and speculation.
 
 ### 5) Normalization
 - **Return to Balance**
-  - Balance achieved through trade adjustments and [[Chapter 14- Capital Flows and the Current Account|capital flows]].
-  - Central banks aim to make [[Forwards and Futures Notes|currency]] holdings desirable again.
+  - Balance achieved through trade adjustments and [capital flows](../../../../Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md).
+  - Central banks aim to make [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) holdings desirable again.
 - **Policy Maker Strategies**
-  - Produce positive total [[Assets|returns]] for [[Forwards and Futures Notes|currency]] holders.
-  - Allow [[Inflationary Depressions and Currency Crises 1|currency depreciation]] to stimulate the economy.
+  - Produce positive total [returns](../../../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) for [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) holders.
+  - Allow [currency depreciation](.md) to stimulate the economy.
 - **Economic Developments**
-  - Collapse in imports improves [[Chapter 14- Capital Flows and the Current Account|current account]].
-  - Capital inflows stabilize,  and [[War Economies and Hyperinflation|inflation]] decreases over time.
+  - Collapse in imports improves [current account](../../../../Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md).
+  - Capital inflows stabilize,  and [inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) decreases over time.
 
 ## Conclusion
 - **Inflationary Depressions**
-  - Result from complex interactions between [[Forwards and Futures Notes|currency]] dynamics,  debt,  and policies.
+  - Result from complex interactions between [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) dynamics,  debt,  and policies.
   - Understanding these phases and vulnerabilities is crucial for economic stability.
 - **Well-Managed vs. Poorly Managed Adjustments**
   - Effective management involves surprise devaluations and creating a two-way market.
-  - Poor management leads to continued [[Inflationary Depressions and Currency Crises|currency weakness]] and economic pain.
+  - Poor management leads to continued [currency weakness](Inflationary%20Depressions%20and%20Currency%20Crises.md) and economic pain.
 
 # Lecture Notes: Inflationary Depressions,  Hyperinflation,  and War Economies
 
 ## Introduction
-- **Contextual [[Overview of Financial Markets|Overview]]**
+- **Contextual [Overview](../../../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)**
   - Previous discussions focused on deflationary debt crises.
   - Current focus is on inflationary debt crises,  using historical data from 27 worst cases.
 - **Purpose of Study**
   - Understand the dynamics of inflationary depressions.
-  - Explore the role of [[Forwards and Futures Notes|currency]] devaluation in economic adjustments.
+  - Explore the role of [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) devaluation in economic adjustments.
 
 ## Closing External Imbalances
 
 ### Tight Monetary Policy
 - **Domestic Demand Contraction**
-  - Tight [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.6 [[A Preview of Alternative Formulations|Asset price]] reactions to [[The Economist Regime Change|monetary policy]] surprises|[[The Economist Regime Change|monetary policy]]]] leads to reduced domestic demand.
+  - Tight [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.6 [Asset price](../../../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) reactions to [monetary policy](../../../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) surprises|[monetary policy](../../../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md)]] leads to reduced domestic demand.
   - Aligns with falling incomes to stabilize the economy.
 - **Incentives for Investors**
-  - Higher [[Interest Rate Quotations|interest rates]] are used to retain investors in the [[Forwards and Futures Notes|currency]].
-  - Compensate for the risk of [[Inflationary Depressions and Currency Crises 1|currency depreciation]].
+  - Higher [interest rates](../../../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) are used to retain investors in the [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md).
+  - Compensate for the risk of [currency depreciation](.md).
 - **Policy Maker Preferences**
-  - Favor domestic conditions with loose [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.6 [[A Preview of Alternative Formulations|Asset price]] reactions to [[The Economist Regime Change|monetary policy]] surprises|[[The Economist Regime Change|monetary policy]]]].
-  - Delay domestic pain,  potentially stoking [[War Economies and Hyperinflation|inflation]].
+  - Favor domestic conditions with loose [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.6 [Asset price](../../../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) reactions to [monetary policy](../../../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) surprises|[monetary policy](../../../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md)]].
+  - Delay domestic pain,  potentially stoking [inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md).
 - **Capital Controls**
   - Implemented to prevent capital outflows.
   - Restrictive measures may include capital controls.
@@ -431,7 +431,7 @@ key_concepts:
   - Aim to maintain higher spending levels.
 
 ### Managing Bad Debts/Defaults
-- **[[Understanding Debt Crises and Their Management|Debt Management]] Strategies**
+- **[Debt Management](../../Understanding%20Debt%20Crises%20and%20Their%20Management.md) Strategies**
   - Address over-indebted entities by providing alternative credit.
   - Allow disorderly defaults,  increasing uncertainty and capital flight.
 - **Recovery Timeline**
@@ -441,22 +441,22 @@ key_concepts:
 ## Recovery and New Economic Cycle
 
 ### Attracting Foreign Investment
-- **[[Inflationary Depressions and Currency Crises 1|Currency Depreciation]] Benefits**
-  - Lower domestic goods and labor prices attract foreign [[An Asset Allocation Primer|investment]].
+- **[Currency Depreciation](.md) Benefits**
+  - Lower domestic goods and labor prices attract foreign [investment](../../../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md).
   - Capital inflows resume,  boosting exports and growth.
 - **Financial Institution Support**
-  - Recapitalizing critical [[Financial Markets and Institutions Lecture Notes|financial institutions]] aids recovery.
-  - Supports a new cycle of productive [[An Asset Allocation Primer|investment]] and growth.
+  - Recapitalizing critical [financial institutions](../../../../../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) aids recovery.
+  - Supports a new cycle of productive [investment](../../../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and growth.
 
 ### Economic Growth and Capital Inflows
 - **Incomes and Spending**
   - Incomes and spending increase within one to two years.
   - Full recovery to average activity levels takes about three years.
-- **[[Forwards and Futures Notes|Currency]] Valuation**
+- **[Currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Valuation**
   - Real FX remains undervalued,  aiding export growth.
   - Capital inflows return gradually over four to five years.
 - **Equity Market Recovery**
-  - Equities recover in foreign [[Forwards and Futures Notes|currency]] terms over a similar timeframe.
+  - Equities recover in foreign [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) terms over a similar timeframe.
 
 ## The Spiral from Inflationary Depression to Hyperinflation
 
@@ -464,30 +464,30 @@ key_concepts:
 - **Policy Maker Actions**
   - Failure to close external imbalances leads to hyperinflation.
   - Sustained money printing to fund external spending exacerbates the issue.
-- **Historical Example: [[Inflationary Depressions and Currency Crises 1|Weimar Germany]]**
-  - External [[Notes on Currency Swaps|debt service]] burdens led to inevitable [[War Economies and Hyperinflation|inflation]] problems.
-  - [[Inflationary Depressions and Currency Crises|Policy makers]] chose money printing over spending cuts.
+- **Historical Example: [Weimar Germany](.md)**
+  - External [debt service](../../../../../Financial%20Engineering/Notes%20on%20Currency%20Swaps.md) burdens led to inevitable [inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) problems.
+  - [Policy makers](Inflationary%20Depressions%20and%20Currency%20Crises.md) chose money printing over spending cuts.
 
 ### Inflationary Spiral Dynamics
-- **[[Forwards and Futures Notes|Currency]] Decline and [[War Economies and Hyperinflation|Inflation]] Psychology**
-  - [[Inflationary Depressions and Currency Crises 1|Currency depreciation]] leads to capital flight and [[War Economies and Hyperinflation|inflation]].
+- **[Currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Decline and [Inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) Psychology**
+  - [Currency depreciation](.md) leads to capital flight and [inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md).
   - Inflationary psychology sets in,  altering economic behavior.
 - **Wage-Cost Spiral**
   - Workers demand higher wages,  leading to increased prices.
   - Wage indexing can exacerbate the cycle.
-- **[[Runs On Money Market Mutual Funds|Investor Behavior]]**
+- **[Investor Behavior](../../../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-%20Bank%20Runs/Runs%20On%20Money%20Market%20Mutual%20Funds.md)**
   - Shift from domestic investments to real and foreign assets.
-  - Savers and investors protect purchasing power by [[Short Selling|shorting]] cash.
+  - Savers and investors protect purchasing power by [shorting](../../../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Short%20Selling.md) cash.
 
 ### Consequences of Hyperinflation
 - **Economic and Social Impact**
   - Hyperinflation erodes financial wealth and causes wealth redistribution.
   - Leads to political tensions,  strikes,  and social unrest.
-- **[[An Asset Allocation Primer|Investment]] Strategies**
-  - Short the [[Forwards and Futures Notes|currency]],  move money abroad,  and invest in [[Futures Not Subject to Cash-And-Carry|commodities]].
-  - Equities become less attractive as [[War Economies and Hyperinflation|inflation]] transitions to hyperinflation.
-- **[[Forwards and Futures Notes|Currency]] Replacement**
-  - New [[Forwards and Futures Notes|currency]] with hard backing is often introduced to stabilize the economy.
+- **[Investment](../../../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Strategies**
+  - Short the [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md),  move money abroad,  and invest in [commodities](../../../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md).
+  - Equities become less attractive as [inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) transitions to hyperinflation.
+- **[Currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Replacement**
+  - New [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) with hard backing is often introduced to stabilize the economy.
 
 ## War Economies
 
@@ -499,8 +499,8 @@ key_concepts:
   - Top-down resource allocation affects profitability and borrowing.
 
 ### Historical Context
-- **[[War Economies An Overview|Economic and Geopolitical Cycles]]**
-  - [[War Economies An Overview|Economic conflicts]] often lead to military conflicts.
+- **[Economic and Geopolitical Cycles](../../../Bridgewater%20Articles/War%20Economies%20An%20Overview.md)**
+  - [Economic conflicts](../../../Bridgewater%20Articles/War%20Economies%20An%20Overview.md) often lead to military conflicts.
   - War economies have significant impacts on currencies,  debts,  and equities.
 - **Post-War Effects**
   - Dominant powers set rules in post-war periods.
@@ -513,7 +513,7 @@ key_concepts:
 
 ## Conclusion
 - **Inflationary Depressions and Hyperinflation**
-  - Result from complex interactions between [[Forwards and Futures Notes|currency]] dynamics,  debt,  and policies.
+  - Result from complex interactions between [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) dynamics,  debt,  and policies.
   - Effective management and understanding of these phases are crucial for stability.
 - **War Economies**
   - Differ significantly from peacetime economies.
@@ -522,7 +522,7 @@ key_concepts:
 # Lecture Notes: Economic Relationships,  War Economies,  and Debt Management
 
 ## Introduction
-- **[[Overview of Financial Markets|Overview]] of Economic Relationships**
+- **[Overview](../../../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md) of Economic Relationships**
   - History shows two broad types of relationships influencing economic outcomes.
   - The nature of these relationships determines the path economies take.
 
@@ -552,10 +552,10 @@ key_concepts:
 ### War Period Priorities
 - **Resource Access**
   - Essential to maintain access to financial and non-financial resources.
-  - Funding a war requires borrowing or large [[Foreign Exchange Reserves - Wikipedia|foreign exchange reserves]].
+  - Funding a war requires borrowing or large [foreign exchange reserves](../../../../China%20Foreign%20Exchange%20Reserves/Foreign%20Exchange%20Reserves%20-%20Wikipedia/Foreign%20Exchange%20Reserves%20-%20Wikipedia.md).
 - **Creditworthiness and Capital Markets**
-  - A country's ability to borrow depends on its creditworthiness and capital [[Variance Swaps|market development]].
-  - Local [[Forwards and Futures Notes|currency]] debt market soundness is crucial.
+  - A country's ability to borrow depends on its creditworthiness and capital [market development](../../../../../Financial%20Engineering/Variance%20Swaps.md).
+  - Local [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) debt market soundness is crucial.
 - **Non-Financial Resources**
   - Access to resources is vital for sustaining war efforts and domestic conditions.
 
@@ -564,10 +564,10 @@ key_concepts:
   - Post-war periods involve transitioning from war economies to normal economies.
   - Winners and losers both face debt burdens and economic adjustments.
 - **Post-War Recession**
-  - Military spending contraction leads to [[How the Eggheads Cracked|economic downturns]].
+  - Military spending contraction leads to [economic downturns](../../../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/How%20the%20Eggheads%20Cracked.md).
   - Workforce reallocation and factory retooling are necessary.
-- **Deleveraging and [[War Economies and Hyperinflation|Inflation]]**
-  - Countries work through war debts,  often experiencing [[War Economies and Hyperinflation|inflation]].
+- **Deleveraging and [Inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)**
+  - Countries work through war debts,  often experiencing [inflation](../../Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md).
   - Losers face deeper depressions and resort to money printing.
 
 ## Historical Case Studies
@@ -575,17 +575,17 @@ key_concepts:
 ### Germany and Japan Post-War
 - **Consequences of War Loss**
   - Losing a war with high debt is devastating.
-  - Germany and Japan faced severe [[US Debt Crisis and Adjustment (2007–2011)|economic conditions]] post-World War II.
+  - Germany and Japan faced severe [economic conditions](../../../Chapters/US%20Debt%20Crisis%20and%20Adjustment%20(2007–2011).md) post-World War II.
 - **Economic Shifts**
   - Charts illustrate shifts to war production and increased military spending.
   - Workforce mobilization for war efforts significantly impacts economies.
 
 ### Weimar Germany and US Great Depression
-- **[[Inflationary Depressions and Currency Crises 1|Weimar Germany]]**
+- **[Weimar Germany](.md)**
   - Illustrates post-war economic challenges for a war loser.
   - Hyperinflation and economic instability followed World War I.
-- **US [[US Debt Crisis and Adjustment 1928-1937|Great Depression]]**
-  - [[War Economies An Overview|Economic conflicts]] can lead to wars.
+- **US [Great Depression](../../../Chapters/US%20Debt%20Crisis%20and%20Adjustment%201928-1937.md)**
+  - [Economic conflicts](../../../Bridgewater%20Articles/War%20Economies%20An%20Overview.md) can lead to wars.
   - Charts of US and UK post-World War II show recovery patterns for war winners.
 
 ## Debt Management and Economic Policy
@@ -593,13 +593,13 @@ key_concepts:
 ### Managing Debt Crises
 - **Spreading Pain of Bad Debts**
   - Effective management involves spreading out the impact of debts.
-  - Debts in one's own [[Forwards and Futures Notes|currency]] are easier to manage.
+  - Debts in one's own [currency](../../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) are easier to manage.
 - **Policy Maker Challenges**
   - Lack of knowledge or authority can hinder effective crisis management.
   - Strong regulatory systems can slow decision-making during crises.
 - **Checks and Balances**
   - While protective,  they can exacerbate crises by delaying necessary actions.
-  - [[Inflationary Depressions and Currency Crises|Policy makers]] face criticism and political challenges during debt crises.
+  - [Policy makers](Inflationary%20Depressions%20and%20Currency%20Crises.md) face criticism and political challenges during debt crises.
 
 ### Long-Term Economic Perspectives
 - **Productivity vs. Debt Crises**
@@ -612,7 +612,7 @@ key_concepts:
 ## Conclusion
 - **Key Takeaways**
   - Economic relationships and war economies significantly impact global stability.
-  - Effective [[Understanding Debt Crises and Their Management|debt management]] and understanding historical patterns are essential for economic resilience.
-- **[[Concluding Remarks|Final Thoughts]]**
+  - Effective [debt management](../../Understanding%20Debt%20Crises%20and%20Their%20Management.md) and understanding historical patterns are essential for economic resilience.
+- **[Final Thoughts](../../../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Concluding%20Remarks.md)**
   - Avoiding excessive debt and losing wars is critical for national stability.
-  - [[Inflationary Depressions and Currency Crises|Policy makers]] must be knowledgeable and empowered to manage crises effectively.
+  - [Policy makers](Inflationary%20Depressions%20and%20Currency%20Crises.md) must be knowledgeable and empowered to manage crises effectively.

@@ -1,7 +1,7 @@
 ---
-linter-yaml-title-alias: Teaching Note 7  [[Exotic Options]]  and Derivative Pricing
+linter-yaml-title-alias: Teaching Note 7  [Exotic Options](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Exotic%20Options.md)  and Derivative Pricing
   by Monte Carlo Simulation
-title: Teaching Note 7- [[Exotic Options]]  And Derivative Pricing By Monte Carlo
+title: Teaching Note 7- [Exotic Options](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Exotic%20Options.md)  And Derivative Pricing By Monte Carlo
   Simulation
 tags:
   - asian_options
@@ -23,21 +23,21 @@ key_concepts:
   - Risk neutral trees
 ---
 
-# Teaching Note 7- [[Exotic Options]]  And Derivative Pricing By Monte Carlo Simulation
+# Teaching Note 7- [Exotic Options](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Exotic%20Options.md)  And Derivative Pricing By Monte Carlo Simulation
 
-[[PSET 5 Financial Instruments|John Heaton]]
+[John Heaton](../Assignments/PSET%205%20Financial%20Instruments.md)
 The University of Chicago
 Booth School of Business
 
 ### 1. Risk Neutral Trees and Monte Carlo Simulations
 1.1 One Step tree
-1.2 [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Multi-Step Tree]]
-1.3 Why [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Monte Carlo]] Simulations?
+1.2 [Multi-Step Tree](.md)
+1.3 Why [Monte Carlo](.md) Simulations?
 
 ### 2. Monte Carlo Simulations without Trees
 2.1 Lognormal Model
 2.2 Multi Factors
-2.3 [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Delta Calculation]]
+2.3 [Delta Calculation](.md)
 
 ## Risk Neutral Trees
 
@@ -55,7 +55,7 @@ Booth School of Business
 - We can simulate `RAND()` many times,  say $N `.
   - Whenever the realization `RAND()>q^{*}` we say that we went down the tree.
   - Whenever `RAND()<q^{*}`,  we say we went up the tree.
-- Compute the value of the [[Chapter 16 - Black–Scholes Model|stock price]] at time $T=1$,  $S_{1,          u}$ or $S_{1,          d}$ for each simulation.
+- Compute the value of the [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) at time $T=1$,  $S_{1,          u}$ or $S_{1,          d}$ for each simulation.
   - Let $S_{1}^{i}$ denote the realization of $S_{1}$ in simulation run $i `.
   - Compute the payoff of the security at time $T=1$ for each simulation run,  e.g. $V(S_{1}^{i})=\max(S_{1}^{i}-K,          0)$.
 - The value of the security is the average of the realizations:$$\left\{e^{-rT}V(S_{1}^{1}),           e^{-rT}V(S_{1}^{2}),           e^{-rT}V(S_{1}^{3}),           \dots,           e^{-rT}V(S_{1}^{N})\right\}=\frac{1}{N}$$
@@ -165,8 +165,8 @@ RAND 1 & Move Tree On & RAND 2 & Move Tree On & Price at T & Payoff & Discounted
 ![Image](https://storage.simpletex.cn/view/fgz938H6uxGQuiax3gRWzMqMYniqvQG5W)
 
 ## Why Monte Carlo Simulations?
-- Why do we need [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Monte Carlo]] Simulations on the tree when we have the tree itself?
-  - [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Monte Carlo]] Simulations may be useful to price [[Financial Mathematics Course|derivative securities]] with [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|path-dependent payoff]].
+- Why do we need [Monte Carlo](.md) Simulations on the tree when we have the tree itself?
+  - [Monte Carlo](.md) Simulations may be useful to price [derivative securities](../../Financial%20Engineering/Financial%20Mathematics%20Course.md) with [path-dependent payoff](.md).
   - That is,  the value at maturity depends on the path taken by the stock during the life of the security.
 - For instance,  Asian options have payoff given by:$$\mathrm{Asian~Call~Option}=\max\left(\{\mathrm{Average~of~}S_{t}\mathrm{~from~}0\mathrm{~to~T}\}-1\right)$$$$\mathrm{Asian~Put~Option}=\max\left(K-\{\mathrm{Average~of~}S_{t}\mathrm{~from~}0\mathrm{~to~T}\right)$$
 
@@ -177,11 +177,11 @@ RAND 1 & Move Tree On & RAND 2 & Move Tree On & Price at T & Payoff & Discounted
 
 - Even if $S_{2,          ud}=S_{2,          du}=100$,  the payoff when the final price is 100 depends on the path of $S$,  namely,  whether $S_{1}=S_{1,          u}=123.631$ or $S_{1}=S_{1,          d}=80.886$.
 - In this case,  we can compute the value of the security on the tree $V_{0}=\Sigma_{j=1}^{4}Q_{j}^{*}V_{2,          j}=7.45$.
-- 1000 [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Monte Carlo]] simulations yield $\widehat V_{0}=7.560$ with $s.e.=0.316$.
+- 1000 [Monte Carlo](.md) simulations yield $\widehat V_{0}=7.560$ with $s.e.=0.316$.
 
 ## Why Monte Carlo Simulations?
 
-- When we move to multi-period trees,  path-dependent options become much more difficult to price without [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Monte Carlo]] Simulations.
+- When we move to multi-period trees,  path-dependent options become much more difficult to price without [Monte Carlo](.md) Simulations.
 - The following picture shows the averages ${\overline{S}}_{t}$ over 10 paths.
   - While the original paths look like the recombining tree we started out with,  the averages look like paths on a non-recombining tree.
   - Non-recombining trees are much harder to evaluate numerically for a large number of time steps.
@@ -198,22 +198,22 @@ RAND 1 & Move Tree On & RAND 2 & Move Tree On & Price at T & Payoff & Discounted
 	- The final payoff depends on the maximum or minimum value achieved by the stock before maturity. For instance:$$g_T=\max(S_0,          \dots,          S_T)-S_T$$
 
   - **Asian Strike Options**:
-	- The [[Call and Put Payoffs at Expiry|strike price]] is equal to the average [[Chapter 16 - Black–Scholes Model|stock price]]. E.g.$$g_T=\max(S_T-\text{Average}(S_0,          \dots,          S_T),          0)$$
+	- The [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) is equal to the average [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md). E.g.$$g_T=\max(S_T-\text{Average}(S_0,          \dots,          S_T),          0)$$
 
 ## Monte Carlo Simulations without Trees
 - There is no reason to limit MC simulations to trees.
-  - The main motivation behind [[Arbitrage Pricing of Derivatives|pricing]] by MC simulations is [[Financial Mathematics Course|risk-neutral pricing]].
-	- That is,  [[Lecture Note 5- Black Scholes Formula|dynamic replication]] can be achieved.
-	- These no-[[Arbitrage Pricing of Derivatives|arbitrage]] conditions are naturally satisfied on trees,  as we have seen.
-- However,  once we decide we can use [[Financial Mathematics Course|risk-neutral pricing]],  we can simulate out of any distribution.
+  - The main motivation behind [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) by MC simulations is [risk-neutral pricing](../../Financial%20Engineering/Financial%20Mathematics%20Course.md).
+	- That is,  [dynamic replication](Lecture%20Note%205-%20Black%20Scholes%20Formula.md) can be achieved.
+	- These no-[arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) conditions are naturally satisfied on trees,  as we have seen.
+- However,  once we decide we can use [risk-neutral pricing](../../Financial%20Engineering/Financial%20Mathematics%20Course.md),  we can simulate out of any distribution.
   - In particular,  we can use the lognormal model,  as in Black and Scholes.
-  - [[Financial Mathematics Course|Risk-neutral pricing]] implies that over a small period:$$E^*\left(\frac{S_{t+h}}{S_t}\right)=e^{rh}$$
+  - [Risk-neutral pricing](../../Financial%20Engineering/Financial%20Mathematics%20Course.md) implies that over a small period:$$E^*\left(\frac{S_{t+h}}{S_t}\right)=e^{rh}$$
 
 ## Monte Carlo Simulations under Log Normality
 - One way to simulate is then to use the following algorithm:$$S_{t+h}=S_t\times e^{(r-\frac{\sigma^2}{2})h+\sigma\sqrt{h}\epsilon_t}$$
 - Where:$$\epsilon_t\sim N(0,          1)$$
 - The rules of the log-normal distribution imply:$$E^*\left(\frac{S_{t+h}}{S_t}\right)=e^{(r-\frac{\sigma^2}{2})h+\left\{E^*[\sigma\sqrt{h}\times\epsilon_t]+1/2Var[\sigma\sqrt{h}\times\epsilon_t]\right\}}=e^{rh}$$
-- Moreover,  $\sigma^{2}$ converges to the (annualized) variance of log [[Assets|returns]] $Var[\log(S_{t+h}/S_{t})]$.
+- Moreover,  $\sigma^{2}$ converges to the (annualized) variance of log [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) $Var[\log(S_{t+h}/S_{t})]$.
 
 ## Monte Carlo Simulations under Log Normality
 - For instance,  a few 10-period paths are plotted in the next figure.
@@ -224,25 +224,25 @@ RAND 1 & Move Tree On & RAND 2 & Move Tree On & Price at T & Payoff & Discounted
 ![Image](https://storage.simpletex.cn/view/foCwFC3feQ6rVcI3yLpYB9l92VAULWii2)
 
 ## Monte Carlo Simulations with Many "Factors"
-- The [[Pricing a Callable Leveraged Constant Maturity Swap Spread Note|Monte Carlo Simulation]] method to price options can be extended to price [[Financial Mathematics Course|derivative securities]] that depend on multiple factors. For instance:
-  - Time varying [[Interest Rate Quotations|interest rates]].
+- The [Monte Carlo Simulation](../Pricing%20a%20Callable%20Leveraged%20Constant%20Maturity%20Swap%20Spread%20Note.md) method to price options can be extended to price [derivative securities](../../Financial%20Engineering/Financial%20Mathematics%20Course.md) that depend on multiple factors. For instance:
+  - Time varying [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md).
   - Time varying volatility.
   - Payoffs on the relative value of different stocks,  exchange rates,  etc.
 - The methodology is the same:
   1. Simulate risk-neutral factors.
   1. Compute the cash flows of the security.
-  1. Compute the present value,  discounting at the [[Black Scholes Derivation|risk-free rate]].
+  1. Compute the present value,  discounting at the [risk-free rate](../Black%20Scholes%20Derivation.md).
   1. Average all of the simulated paths.
 
-- One difficulty is with obtaining [[The Vasicek Model|risk-neutral dynamics]] for factors:
-  - Traded factors are simple: the [[Lecture 1- Probability Distributions of Returns|expected return]] on such factors must be the [[Black Scholes Derivation|risk-free rate]].
-  - It is harder for non-traded factors (e.g.,  [[Interest Rate Quotations|interest rates]],  volatility). We attack this problem later on.
+- One difficulty is with obtaining [risk-neutral dynamics](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) for factors:
+  - Traded factors are simple: the [expected return](../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) on such factors must be the [risk-free rate](../Black%20Scholes%20Derivation.md).
+  - It is harder for non-traded factors (e.g.,  [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md),  volatility). We attack this problem later on.
 
 ## Monte Carlo Simulations with Many "Factors"
 - Consider an option that pays the maximum between the stock return on IBM and Apple within a pre-specified period.
   - That is,  if $S_{0}$ and $N_{0}$ are the current prices of the two stocks,  the payoff at maturity of the option is:$$\text{Payoff at}T=\max\left(\frac{S_T}{S_0},          \frac{N_T}{N_0}\right)$$
 - How much would you pay for this security?
-  - We can use [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Monte Carlo]] Simulations to find out.
+  - We can use [Monte Carlo](.md) Simulations to find out.
   - The risk-neutral processes of $S_{t}$ and $N_{t}$ are the same as before,  so we simulate:$$S_{t+h}=S_{t}\times e^{(r-\frac{\sigma_{S}^{2}}{2})h+\sigma_{S}\sqrt{h}\epsilon_{1,          t}}$$$$N_{t+h}=N_{t}\times e^{(r-\frac{\sigma_{N}^{2}}{2})h+\sigma_{N}\sqrt{h}\epsilon_{2,          t}}$$
 - If IBM and Apple are correlated stocks (as they are),  we need a methodology to simulate correlated shocks $\epsilon_{1,          t}$ and $\epsilon_{2,          t}$.
   - Let $\hat{\epsilon}_t$ and $\hat{\epsilon}_{t}$ be standard normal,  uncorrelated with $\epsilon_{1,          t}$. Then define:$$\epsilon_{2,          t}=\rho\epsilon_{1,          t}+\sqrt{1-\rho^{2}}\widehat{\epsilon}_{t}$$
@@ -262,7 +262,7 @@ RAND 1 & Move Tree On & RAND 2 & Move Tree On & Price at T & Payoff & Discounted
 
 ![Image](https://storage.simpletex.cn/view/fXs95uFoeCsgLQfQcaBMRoIsMk4YqFKQK)
 
-SIMULATION OF [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|RISK NEUTRAL]] PRICE PROCESS
+SIMULATION OF [RISK NEUTRAL](.md) PRICE PROCESS
 ```latex
 \begin{document}
 \begin{tabular}{|c|c|c|c|c|c|c|c|}
@@ -295,10 +295,10 @@ SIMULATION OF [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte C
 \end{document}
 ```
 
-## How can we Compute $\Delta$ with [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Monte Carlo]] Simulations?
+## How can we Compute $\Delta$ with [Monte Carlo](.md) Simulations?
 
 - Once we have computed the value of the security,  we may want to know what is its sensitivity to changes in the stock.
-- Computing $\Delta$ is not hard,  and we use [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Monte Carlo]] simulations again:$$\Delta=\frac{dV(S)}{dS}\approx\frac{V(S+h)-V(S)}{h}$$
+- Computing $\Delta$ is not hard,  and we use [Monte Carlo](.md) simulations again:$$\Delta=\frac{dV(S)}{dS}\approx\frac{V(S+h)-V(S)}{h}$$
 
 - Thus,  compute $V(S)$ and $V(S+h)$ using MC simulations.
 - Apply the above formula.
@@ -307,16 +307,16 @@ SIMULATION OF [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte C
 
 ## Conclusion
 
-- The [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Monte Carlo]] Simulations Method is one of the main tools used by practitioners to price complex securities under fairly general assumptions about the underlying stochastic processes.
+- The [Monte Carlo](.md) Simulations Method is one of the main tools used by practitioners to price complex securities under fairly general assumptions about the underlying stochastic processes.
 - Just three steps:
-  1. Simulate many paths of underlying stochastic variables under the [[Financial Instruments|risk-neutral probabilities]].
+  1. Simulate many paths of underlying stochastic variables under the [risk-neutral probabilities](../Financial%20Instruments.md).
   1. For each path,  compute the discounted simulated payoff of the security.
   1. Compute the average.
 - MCS are especially useful to value path-dependent securities,  or securities that depend on the value of multiple underlying variables:
   - Barrier options,  Asian options,  Lookback options.
-  - Options on maximum,  options on relative [[Assets|returns]] across securities.
+  - Options on maximum,  options on relative [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) across securities.
 - MCS are also very useful to value securities under general processes for underlying stochastic variables,  such as:
-  - [[Valuing European Option Using the Heston Model in QuantLib Python|Stochastic volatility]].
-  - [[Appendix 5.C Forward And Futures Prices When Interest Rates Are Random|Stochastic interest rates]].
+  - [Stochastic volatility](../../Course%20Notes/Python/QuantLib-Python/Valuing%20European%20Option%20Using%20the%20Heston%20Model%20in%20QuantLib%20Python.md).
+  - [Stochastic interest rates](../../Financial%20Engineering/Appendices/Appendix%205.C%20Forward%20And%20Futures%20Prices%20When%20Interest%20Rates%20Are%20Random.md).
   - Jumps.
 - The ever-increasing gains in computer speed make MCS methodology increasingly attractive.

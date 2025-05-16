@@ -40,52 +40,52 @@ key_concepts:
 
 ### COMMON BEHAVIORAL BIASES AND MISTAKES
 
-- Humans exhibit a large number of [[Week 2 Fundamentals Of Forecasting|biases]] in their decision making and [[Week 2 Fundamentals Of Forecasting|forecasting]]
+- Humans exhibit a large number of [biases](.md) in their decision making and [forecasting](.md)
 	   - Rely heavily on mental shortcuts
-- [[Week 2 Fundamentals Of Forecasting|Forecasting]] is central to [[Week 1 Introduction to Financial Analysis|fundamental analysis]] and valuation
-	   - Estimating the intrinsic value of a company requires longer-term [[Week 2 Fundamentals Of Forecasting|forecasting]]
-		   - Here is where [[Week 2 Fundamentals Of Forecasting|biases]] matter the most
+- [Forecasting](.md) is central to [fundamental analysis](../Week%201/Week%201%20Introduction%20to%20Financial%20Analysis.md) and valuation
+	   - Estimating the intrinsic value of a company requires longer-term [forecasting](.md)
+		   - Here is where [biases](.md) matter the most
 	   - Event-driven strategies forecast near-term EPS or events
-		   - No [[Week 1 Introduction to Financial Analysis|fundamental analysis]] necessary
-- Kahneman and Tversky highlighted two [[Week 2 Fundamentals Of Forecasting|biases]] that are particularly relevant for [[Week 2 Fundamentals Of Forecasting|forecasting]]
- - Tendency to [[Week 2 Fundamentals Of Forecasting|ignore base rates]] (i.e.,  unconditional or prior probabilities)
+		   - No [fundamental analysis](../Week%201/Week%201%20Introduction%20to%20Financial%20Analysis.md) necessary
+- Kahneman and Tversky highlighted two [biases](.md) that are particularly relevant for [forecasting](.md)
+ - Tendency to [ignore base rates](.md) (i.e.,  unconditional or prior probabilities)
 		   - Representativeness heuristic
-	   - Tendency to ignore [[The Ornstein-Uhlenbeck (OU) Process|mean reversion]]
-- Analyst forecasts exhibit these [[Week 2 Fundamentals Of Forecasting|biases]] as well
-	   - [[Week 2 Fundamentals Of Forecasting|Competition and market forces]] do not eliminate them
+	   - Tendency to ignore [mean reversion](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md)
+- Analyst forecasts exhibit these [biases](.md) as well
+	   - [Competition and market forces](.md) do not eliminate them
 
 ## COMMON BEHAVIORAL BIASES AND MISTAKES (CONT.)
 
 - We seek patterns and causal relations,  even where none exist
 - We put too much weight on information that comes to mind easily (or is recent)
-	   - [[Week 2 Fundamentals Of Forecasting|Salience and availability heuristic]]
+	   - [Salience and availability heuristic](.md)
 - We often fail to consider a sufficient range of alternatives
 	   - Overconfidence
-- [[Week 2 Fundamentals Of Forecasting|Confirmation bias]]
+- [Confirmation bias](.md)
 	   - We underappreciate opposite views and are reluctant to update our beliefs
 
 ## FORECASTING AND 'INSIDE VIEW'
 
 - Inside view forecast:
 	   - Inside view considers the specifics of a situation,  the details of the case at hand
-	   - Detailed [[Week 2 Fundamentals Of Forecasting|forecasting]] of the future based on the history of the project and by extrapolating current trends
+	   - Detailed [forecasting](.md) of the future based on the history of the project and by extrapolating current trends
 - Outside view:
 	   - Considers a larger reference class and the statistics of that class
-- The problem: Inside view is overwhelmingly preferred in intuitive [[Week 2 Fundamentals Of Forecasting|forecasting]]
+- The problem: Inside view is overwhelmingly preferred in intuitive [forecasting](.md)
 	   - It is natural to bring to bear all one knows about a firm
-	   - This is essentially what [[Week 1 Introduction to Financial Analysis|fundamental analysis]] encourages you to do
-- One of the most common [[Week 2 Fundamentals Of Forecasting|forecasting]] mistakes:
+	   - This is essentially what [fundamental analysis](../Week%201/Week%201%20Introduction%20to%20Financial%20Analysis.md) encourages you to do
+- One of the most common [forecasting](.md) mistakes:
 	   - Relying too much on the inside view
 - Representativeness heuristic means that people extrapolate from experience or a case,  which they take as representative
 
 ## MEAN REVERSION
 
-- [[The Ornstein-Uhlenbeck (OU) Process|Mean reversion]] occurs whenever chance is involved,  i.e.,  correlation in outcomes is not perfect
- - Implies that [[The Ornstein-Uhlenbeck (OU) Process|mean reversion]] tends to be stronger in more volatile industries
- - [[Level Versus Change Regressions|Serial correlation]] in outcomes is proxy for how quickly reversion should occur
-- Thus,  [[The Ornstein-Uhlenbeck (OU) Process|mean reversion]] in sales growth or profitability is not just a result of [[Week 2 Fundamentals Of Forecasting|competition and market forces]]
+- [Mean reversion](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) occurs whenever chance is involved,  i.e.,  correlation in outcomes is not perfect
+ - Implies that [mean reversion](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) tends to be stronger in more volatile industries
+ - [Serial correlation](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%206/Level%20Versus%20Change%20Regressions.md) in outcomes is proxy for how quickly reversion should occur
+- Thus,  [mean reversion](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) in sales growth or profitability is not just a result of [competition and market forces](.md)
 	   - Volatility would create it as well
-- [[The Ornstein-Uhlenbeck (OU) Process|Mean reversion]] applies to the population
+- [Mean reversion](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) applies to the population
 	   - Doesn't apply necessarily to an individual company (inside view)
 	   - But reversion to the mean should be part of your consideration
 		   - Last year's numbers might be high simply because of luck
@@ -106,10 +106,10 @@ key_concepts:
 
 ## OUTSIDE VIEW
 
-- Approaches [[Week 2 Fundamentals Of Forecasting|forecasting]] problem with a reference class
+- Approaches [forecasting](.md) problem with a reference class
 	   - Baseline statistical guidance
  - Much depends on the "quality" of the reference class (similarity)
-- Example: Outside view for [[Operating Margin|profit margin]]
+- Example: Outside view for [profit margin](../../Financial%20Ratios/Operating%20Margin.md)
 	   - Look at historical time series of the margin in the industry
 		   - Say it has rarely exceeded 20% for any company in the industry for 20 years
 		   - Well,  then you probably don't want to estimate 23% unless you have further info
@@ -127,9 +127,9 @@ favorable to our belief
 	   - "Statistical info is routinely discarded when it is incompatible to one's personal
 impression of a case." (Daniel Kahneman)
 - Try to find a larger reference class
-	   - Find a base rate for your [[Week 2 Fundamentals Of Forecasting|forecasting]] variable
+	   - Find a base rate for your [forecasting](.md) variable
 	   - In accounting & finance,  we often have data to compute base rates
-		   - ROIC,  sales growth,  earnings growth patterns for [[BMW Valuation|peer companies]]
+		   - ROIC,  sales growth,  earnings growth patterns for [peer companies](../../BMW%20Valuation.md)
 		   - Past M&A deals
 	   - See Base Rate Book on Canvas (Useful Material folder)
 - Appropriate weight on inside and outside view depends on the situation
@@ -166,15 +166,15 @@ What percentage of the universe grew sales at a CAGR of 20-25% for three years?
 
 Where Does Optimism Come From?
 
-- Forecast [[Week 2 Fundamentals Of Forecasting|biases]]
+- Forecast [biases](.md)
 	   - Overreliance on "inside view"
 		   - Analysts typically start with a particular firm in focus
-	   - Forecasts tend to be less accurate in industries with high ROA [[The Ornstein-Uhlenbeck (OU) Process|mean reversion]]
-		   - Suggests they insufficiently account for [[The Ornstein-Uhlenbeck (OU) Process|mean reversion]]
+	   - Forecasts tend to be less accurate in industries with high ROA [mean reversion](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md)
+		   - Suggests they insufficiently account for [mean reversion](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md)
 	   - Uncertainty together with motivated reasoning (i.e.,  buy recommendation)
-- Incentives and [[Wellman Inc the Importance of Loan Covenants|conflicts of interest]]
+- Incentives and [conflicts of interest](../../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Wellman%20Inc%20the%20Importance%20of%20Loan%20Covenants.md)
 	   - Trade and fee generation
- - [[Lecture Notes 9- Corporate Securities And Credit Derivatives|Investment banking]] fees
+ - [Investment banking](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Notes%209-%20Corporate%20Securities%20And%20Credit%20Derivatives.md) fees
  - Currying favor with management
  - Institutional investor relationships
  - Career incentives
@@ -207,6 +207,6 @@ Source: Data based on Chan et al 2003 Table 9
 
 Source: BGLS 2017
 
-- One-year ahead [[Assets|returns]] to stocks with the lowest LTG forecasts are substantially higher than [[Assets|returns]] to stocks with the highest LTG
+- One-year ahead [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to stocks with the lowest LTG forecasts are substantially higher than [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to stocks with the highest LTG
 - Possible explanation: Analysts (and investors) inflate the probability of (future) earnings growth for firms whose recent earnings have increased the most
 - After exceptionally high earnings growth,  analysts think a stock is a Google,  but they imagine too many Googles relative to reality (representativeness heuristic)

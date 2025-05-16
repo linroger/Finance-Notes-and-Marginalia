@@ -28,11 +28,11 @@ key_concepts:
 
 This homework relies on:
 
-- the government and [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] symbology file `bond_symbology`,
+- the government and [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) symbology file `bond_symbology`,
 - the "on-the-run" treasuries data file `govt_on_the_run` and
 - the market data file `bond_market_prices_eod`.
 
-You can find more details on [[Credit Market Homework 1|US treasury instruments]] in the FINM 37400 [[Lecture Notes Bonds,  Preferred Stock,  and Structured Products|Fixed Income]] course.
+You can find more details on [US treasury instruments](Credit%20Market%20Homework%201.md) in the FINM 37400 [Fixed Income](../../Fixed%20Income%20Asset%20Pricing/Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md) course.
 ```python
 import QuantLib as ql
 import pandas as pd
@@ -44,13 +44,13 @@ import plotly.express as px
 import plotly.graph_objects as go
 ```
 
-# Problem 1: Explore symbology for US treasuries and [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
+# Problem 1: Explore symbology for US treasuries and [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md)
 
 ## a. Load and explore US government bond symbology
 
-Load the `bond_symbology` Excel file into a dataframe. It contains symbology for both government and [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]].
+Load the `bond_symbology` Excel file into a dataframe. It contains symbology for both government and [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md).
 
-Select US Treasury bonds only (class = 'Govt',  ticker = 'T'). For each government bond issue,  calculate its initial term/time-to-maturity in years (based on issue date and maturity date),  as well as the current time-to-maturity. Assume a year has 365.25 days (alternatively,  use [[Introduction to QuantLib Python|QuantLib]] yearFraction function).
+Select US Treasury bonds only (class = 'Govt',  ticker = 'T'). For each government bond issue,  calculate its initial term/time-to-maturity in years (based on issue date and maturity date),  as well as the current time-to-maturity. Assume a year has 365.25 days (alternatively,  use [QuantLib](../../Course%20Notes/Python/QuantLib-Python/Introduction%20to%20QuantLib%20Python.md) yearFraction function).
 ```python
 import pandas as pd
 
@@ -156,7 +156,7 @@ display(govt_symbology.head())
 	  <th>rank</th>
 	  <th>amt_out</th>
 	  <th>country</th>
-	  <th>[[Forwards and Futures Notes|currency]]</th>
+	  <th>[currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)</th>
 	  <th>status</th>
 	  <th>term</th>
 	  <th>TTM</th>
@@ -301,7 +301,7 @@ govt_symbology_10y.plot(x='start_date',                    y='coupon',          
 
 ## b. Historical time series of US treasury coupons
 
-Plot the [[Credit Market Homework 1|time series of coupons]] for for US treasury notes/bonds issued in the last 10 years (indexed by issue date).
+Plot the [time series of coupons](Credit%20Market%20Homework%201.md) for for US treasury notes/bonds issued in the last 10 years (indexed by issue date).
 What can you say about the overall level of issued coupons in the last 4 years?
 ```python
 import plotly.express as px
@@ -319,7 +319,7 @@ govt_symbology_4y = govt_symbology[govt_symbology['start_date'] >= cut_off_date_
 govt_symbology_4y.plot(x='start_date',                    y='coupon',                    grid=True,                    style='-*',                    title='US Treasury coupons by issue date (last 4 years)',                    figsize=(12,                   8))
 
 # describe
-govt_symbology_4y[['start_date',                    'coupon']].describe()
+govt_symbology_4y['start_date',                    'coupon']('start_date',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'coupon').describe()
 ```
 
 <div>
@@ -402,7 +402,7 @@ Based on the summary statistics provided,  we can make following observations:
 
 ## c. Load the on-the-run US treasuries
 
-Load the `govt_on_the_run` Excel file into a dataframe. Select the current on-the-run 2 Y,  3 Y,  5 Y,  7 Y,  10 Y,  20 Y and 30 Y issues (off-the-run issues have the B & C suffix). Create a separate symbology dataframe for [[Credit Market Homework 1|on-the-run treasuries]] only,  to be used later on for the on-the-run government yield curve bootstrapping.
+Load the `govt_on_the_run` Excel file into a dataframe. Select the current on-the-run 2 Y,  3 Y,  5 Y,  7 Y,  10 Y,  20 Y and 30 Y issues (off-the-run issues have the B & C suffix). Create a separate symbology dataframe for [on-the-run treasuries](Credit%20Market%20Homework%201.md) only,  to be used later on for the on-the-run government yield curve bootstrapping.
 ```python
 # Load govt_on_the_run,                    as of 2024-04-01
 
@@ -687,7 +687,7 @@ display(govt_symbology_otr)```
 <p>6 rows × 25 columns</p>
 </div>
 
-## d. Load and explore US [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] symbology data
+## d. Load and explore US [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) symbology data
 
 Starting from the `bond_symbology` dataframe,  create a corporate bond dataframe containing
 
@@ -716,7 +716,7 @@ corp_symbology = corp_symbology[(corp_symbology['mty_typ'] == 'AT MATURITY')
                                    & (corp_symbology['cpn_type'] == 'FIXED')]
 
 # Keep selected columns only
-corp_symbology = corp_symbology[['ticker',                    'isin',                    'figi',                    'security',                    'name',                    'coupon',                    'start_date',                    'maturity',                    'term',                    'TTM']]
+corp_symbology = corp_symbology['ticker',                    'isin',                    'figi',                    'security',                    'name',                    'coupon',                    'start_date',                    'maturity',                    'term',                    'TTM']('ticker',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'isin',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'figi',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'security',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'name',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'coupon',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'start_date',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'maturity',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'term',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'TTM')
 
 # Filter for VZ issuer
 corp_symbology_vz =  corp_symbology[corp_symbology['ticker'] == 'VZ']
@@ -729,7 +729,7 @@ display(corp_symbology_vz)```
 
 ## a. Load and explore treasury market prices and yields
 
-Load the `bond_market_prices_eod` Excel file into a dataframe. It provides market data for US treasuries and [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] as of 2024-04-01.
+Load the `bond_market_prices_eod` Excel file into a dataframe. It provides market data for US treasuries and [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) as of 2024-04-01.
 
 Merge the treasuries symbology dataframe with the market data and add the following columns:
 
@@ -877,7 +877,7 @@ govt_agg = govt_symbology.merge(bond_market_prices_eod,                     on=[
 govt_agg.head()
 
 fig = px.scatter(govt_agg,                    x='TTM',                    y='midYield',                    title='US Treasury Yields by TTM')
-fig.update_layout(xaxis_title='[[Hedging Strategies with Forwards|Time to Maturity]] (Years)',                    yaxis_title='Mid Yield',                    template='plotly_white')
+fig.update_layout(xaxis_title='[Time to Maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (Years)',                    yaxis_title='Mid Yield',                    template='plotly_white')
 fig.show()```
 
       Cell In[25],                    line 1
@@ -897,12 +897,12 @@ govt_agg_otr = govt_symbology_otr.merge(bond_market_prices_eod,                 
 
 fig = px.scatter(govt_agg_otr,                    x='TTM',                    y='midYield',                    title='OTR US Treasury yields by TTM')
 Fig. Update_traces (mode='lines+markers')
-Fig. Update_layout (xaxis_title='[[Hedging Strategies with Forwards|Time to Maturity]] (Years)',                    yaxis_title='Mid Yield',                    template='plotly_white')
+Fig. Update_layout (xaxis_title='[Time to Maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (Years)',                    yaxis_title='Mid Yield',                    template='plotly_white')
 Fig.Show ()```
 
 ## c. Load and explore corporate bond market prices and yields
 
-Merge the filtered [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] symbology dataframe with the market data and add the following columns:
+Merge the filtered [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) symbology dataframe with the market data and add the following columns:
 
 | date | bidPrice | askPrice | midPrice | bidYield | askYield | midYield | term | TTM |
 |----------|-------|-------------|-----|----------|---------|---------|---------|---------|
@@ -1075,7 +1075,7 @@ Display (corp_agg.Head ())```
 
 ```python
 # Unique tickers
-corp_agg_unique_tickers = corp_agg [['ticker',                    'name']]. drop_duplicates ()
+corp_agg_unique_tickers = corp_agg ['ticker',                    'name']('ticker',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'name'). drop_duplicates ()
 
 Display (corp_agg_unique_tickers)```
 
@@ -1158,7 +1158,7 @@ What can you say about the credit issuer yields,  compared to US treasury yields
 Fig = px.Scatter (corp_agg,                    x='TTM',                    y='midYield',                    color='ticker',                    title='Corporate Bond Yields by TTM')
 Fig. Add_trace (px.Scatter (govt_agg_otr,                    x='TTM',                    y='midYield'). Data[0])
 Fig. Update_traces (mode='lines+markers')
-Fig. Update_layout (xaxis_title='[[Hedging Strategies with Forwards|Time to Maturity]] (Years)',                    yaxis_title='Mid Yield',                    template='plotly_white')
+Fig. Update_layout (xaxis_title='[Time to Maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (Years)',                    yaxis_title='Mid Yield',                    template='plotly_white')
 Fig.Show ()```
 
 # Problem 3: Underlying treasury benchmarks and credit spreads
@@ -1179,16 +1179,16 @@ Where
 
 ```python
 # Use the column 'und_bench_yield' to identify the underlying benchmark bond for each bond issue.
-corp_merged = corp_agg.Merge (bond_symbology [['isin',                    'und_bench_isin']],                    on='isin')
+corp_merged = corp_agg.Merge (bond_symbology ['isin',                    'und_bench_isin']('isin',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'und_bench_isin'),                    on='isin')
 
 # Create df containing govt_benchmark_yields
-govt_benchmark_yields = bond_market_prices_eod[bond_market_prices_eod['class'] == 'Govt'][['isin',                    'midYield']]
+govt_benchmark_yields = bond_market_prices_eod[bond_market_prices_eod['class'] == 'Govt']['isin',                    'midYield']('isin',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'midYield')
 Govt_benchmark_yields.Rename (columns={'midYield': 'und_bench_yield',                    'isin': 'und_bench_isin'},                    inplace=True)
 
 # Add benchmark bond yield
 Corp_merged = corp_merged.Merge (govt_benchmark_yields,                    on='und_bench_isin')
 Corp_merged['credit_spread'] = corp_merged['midYield'] - corp_merged['und_bench_yield']
-display (corp_merged [['ticker',                    'isin',                    'figi',                    'security',                    'und_bench_isin',                    'midYield',                    'und_bench_yield',                    'credit_spread']])```
+display (corp_merged ['ticker',                    'isin',                    'figi',                    'security',                    'und_bench_isin',                    'midYield',                    'und_bench_yield',                    'credit_spread']('ticker',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'isin',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'figi',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'security',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'und_bench_isin',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'midYield',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'und_bench_yield',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'credit_spread'))```
 
 <div>
 <style scoped>
@@ -1352,7 +1352,7 @@ Plot a graph/scatter plot of credit spread curves by TTM (one line per issuer).
 ```python
 Fig = px.Scatter (corp_merged,                    x='TTM',                    y='credit_spread',                    color='ticker',                    title='Corporate Bond Credit Spreads by TTM')
 Fig. Update_traces (mode='lines+markers') 
-Fig. Update_layout (xaxis_title='[[Hedging Strategies with Forwards|Time to Maturity]] (Years)',                    yaxis_title='[[Cds-Equivalent Bond Spread|Credit Spread]]',                    template='plotly_white')
+Fig. Update_layout (xaxis_title='[Time to Maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (Years)',                    yaxis_title='[Credit Spread](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md)',                    template='plotly_white')
 Fig.Show ()```
 
 ## c. Add g-spreads
@@ -1376,7 +1376,7 @@ Corp_merged['interp_tsy_yield'] = interp_tsy_yield_vec
 Corp_merged['g_spread'] = corp_merged['midYield'] - corp_merged['interp_tsy_yield']
 
 # Display results
-display (corp_merged [['ticker',                    'isin',                    'figi',                    'security',                    'und_bench_isin',                    'midYield',                    'und_bench_yield',                    'credit_spread',                    'interp_tsy_yield',                    'g_spread']])```
+display (corp_merged ['ticker',                    'isin',                    'figi',                    'security',                    'und_bench_isin',                    'midYield',                    'und_bench_yield',                    'credit_spread',                    'interp_tsy_yield',                    'g_spread']('ticker',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'isin',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'figi',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'security',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'und_bench_isin',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'midYield',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'und_bench_yield',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'credit_spread',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'interp_tsy_yield',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'g_spread'))```
 
 <div>
 <style scoped>
@@ -1564,7 +1564,7 @@ Plot a graph/scatter plot of g-spread curves by TTM (one line per issuer).
 ```python
 Fig = px.Scatter (corp_merged,                    x='TTM',                    y='g_spread',                    color='ticker',                    title='Corporate Bond G-Spreads by TTM')
 Fig. Update_traces (mode='lines+markers')
-Fig. Update_layout (xaxis_title='[[Hedging Strategies with Forwards|Time to Maturity]] (Years)',                    yaxis_title='G-Spread',                    template='plotly_white') 
+Fig. Update_layout (xaxis_title='[Time to Maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (Years)',                    yaxis_title='G-Spread',                    template='plotly_white') 
 Fig.Show ()```
 
 # Problem 4: Explore sections 1 to 5 in the QuantLib example notebook
@@ -1945,9 +1945,9 @@ Display (fixed_rate_bond_cashflows)```
   - d. Reprice the bond on the yield curve to validate the calibration
 
 ```python
-Import [[Introduction to QuantLib Python|QuantLib]] as ql
+Import [QuantLib](../../Course%20Notes/Python/QuantLib-Python/Introduction%20to%20QuantLib%20Python.md) as ql
 Import numpy as np
-Import [[Advanced Data Analysis with Python|pandas]] as pd```
+Import [pandas](../../Course%20Notes/Python/Advanced%20Data%20Analysis%20with%20Python.md) as pd```
 
 # 1. Objects and Handles
 ## a. Define a quote object and inspect the value
@@ -2102,9 +2102,9 @@ YearFrac = flat_yield_curve.DayCounter (). YearFraction (ref_date,              
 Print ("Reference Date =",                    ref_date)
 Print ("Test Date =",                    test_date)
 Print ("Year Fraction between Reference Date and Test Date : ",                    yearFrac)
-Print ("[[Discount Factors|Discount Factor]] for Test Date",                    test_date,                    ": ",                    flat_yield_curve.Discount (test_date))
+Print ("[Discount Factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) for Test Date",                    test_date,                    ": ",                    flat_yield_curve.Discount (test_date))
 Print ("custom DF calculation for Test Date",                    test_date,                    ": ",                    np.Exp (-flat_rate.Value () * yearFrac))
-Print ("Difference in [[Discount Factors|Discount Factor]]: ",                    flat_yield_curve.Discount (test_date) - np.Exp (-flat_rate.Value () * yearFrac))```
+Print ("Difference in [Discount Factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md): ",                    flat_yield_curve.Discount (test_date) - np.Exp (-flat_rate.Value () * yearFrac))```
 
     Reference Date = April 2 nd,                    2024
     Test Date = June 30 th,                    2025
@@ -2383,7 +2383,7 @@ Print ('NPV diff = ',                    pv_manual - used_bond_pv)```
 ```python
 Print ('Bond Notional = ',                    fixed_rate_bond.Notional ())
 Print ('Settle Date = ',                    fixed_rate_bond.SettlementDate ())
-Print ('[[Discount Factors|Discount Factor]] to Settle Date = ',                    round (flat_yield_curve_handle.Discount (fixed_rate_bond.SettlementDate ()),                    4))
+Print ('[Discount Factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) to Settle Date = ',                    round (flat_yield_curve_handle.Discount (fixed_rate_bond.SettlementDate ()),                    4))
 Print ('Bond NPV (Calc Date) = ',                    round (fixed_rate_bond.NPV (),                    4))
 Print ('Bond NPV Adjusted to Settle Date = ',                    round (fixed_rate_bond.NPV () / flat_yield_curve_handle.Discount (fixed_rate_bond.SettlementDate ()),                    4))
 Print ('Bond Dirty Price = ',                    round (fixed_rate_bond.DirtyPrice (),                    4))
@@ -2442,13 +2442,13 @@ Interest_rate_bump.SetValue (0)```
 ```python
 # Compute scenario delta/gamma sensitivities
 Dv 01 = round ((price_down_1 bp - price_base) * 1 e 4 / 100,                    4)
-[[Key Rates O1s Durations and Hedging|Duration]] = round (dv 01 / fixed_rate_bond.DirtyPrice () * 100,                    4)
+[Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) = round (dv 01 / fixed_rate_bond.DirtyPrice () * 100,                    4)
 Gamma_1 bp = (price_down_1 bp - 2*price_base + price_up_1 bp) * 1 e 8 / 100
-[[PSET II Fixed Income Asset Pricing 1|Convexity]] = round (gamma_1 bp / fixed_rate_bond.DirtyPrice () * 100,                    4)
+[Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) = round (gamma_1 bp / fixed_rate_bond.DirtyPrice () * 100,                    4)
 
 Print ("DV 01: ",                    dv 01)
-Print ("[[Key Rates O1s Durations and Hedging|Duration]]: ",                    [[Key Rates O1s Durations and Hedging|duration]])
-Print ("[[PSET II Fixed Income Asset Pricing 1|Convexity]]: ",                    [[PSET II Fixed Income Asset Pricing 1|convexity]])```
+Print ("[Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md): ",                    [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md))
+Print ("[Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md): ",                    [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md))```
 
     DV 01:  3.6283
     Duration:  3.7816
@@ -2504,18 +2504,18 @@ Flat_bond_yield = 5.5 # in pct
 Flat_bond_yield_rate = ql.InterestRate (flat_bond_yield/100,                    day_count,                    compounding,                    coupon_freq)
 
 # Calc Duration and Convexity
-Bond_duration = ql.BondFunctions.[[Key Rates O1s Durations and Hedging|Duration]] (fixed_rate_bond,                    flat_bond_yield_rate)
-Bond_convexity = ql.BondFunctions.[[PSET II Fixed Income Asset Pricing 1|Convexity]] (fixed_rate_bond,                    flat_bond_yield_rate)
+Bond_duration = ql.BondFunctions.[Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) (fixed_rate_bond,                    flat_bond_yield_rate)
+Bond_convexity = ql.BondFunctions.[Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) (fixed_rate_bond,                    flat_bond_yield_rate)
 
 # Calc z-spread for a given market price
-Bond_market_price = 95.3194     # Clean market price,                    implies zero [[Relative Value Analysis|Z-Spread]]!
-Bond_market_price = 95          # Test market price,                    implies [[Relative Value Analysis|Z-Spread]] > 0
+Bond_market_price = 95.3194     # Clean market price,                    implies zero [Z-Spread](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Relative%20Value%20Analysis.md)!
+Bond_market_price = 95          # Test market price,                    implies [Z-Spread](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Relative%20Value%20Analysis.md) > 0
 Bond_zspread = ql.BondFunctions.ZSpread (fixed_rate_bond,                    bond_market_price,                    flat_yield_curve,                    day_count,                    compounding,                    coupon_freq,                    settle_date)
 
 # Print results
-Print ('Bond [[Key Rates O1s Durations and Hedging|Duration]] =',                    round (bond_duration,                    4))
-Print ('Bond [[PSET II Fixed Income Asset Pricing 1|Convexity]] =',                    round (bond_convexity,                    4))
-Print ('Bond [[Relative Value Analysis|Z-Spread]] bps =',                    round (bond_zspread * 10000,                    4))
+Print ('Bond [Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) =',                    round (bond_duration,                    4))
+Print ('Bond [Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) =',                    round (bond_convexity,                    4))
+Print ('Bond [Z-Spread](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Relative%20Value%20Analysis.md) bps =',                    round (bond_zspread * 10000,                    4))
 ```
 
     Bond Duration = 3.6247
@@ -2542,7 +2542,7 @@ Def calc_clean_price_with_zspread (fixed_rate_bond,                    yield_cur
 # Compare the original and the z-spread computed clean prices
 Bond_zspread_price = calc_clean_price_with_zspread (fixed_rate_bond,                    flat_yield_curve_handle,                    bond_zspread)
 
-Print ('Bond [[Relative Value Analysis|Z-Spread]] bps =',                    round (bond_zspread * 10000,                    2))
+Print ('Bond [Z-Spread](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Relative%20Value%20Analysis.md) bps =',                    round (bond_zspread * 10000,                    2))
 Print ('bond_market_price =',                    bond_market_price)
 Print ('bond_zspread_price =',                    bond_zspread_price)
 Print ('bond price diff =',                    bond_zspread_price - bond_market_price)```
@@ -2595,7 +2595,7 @@ Def get_yield_curve_details_df (yield_curve,                    curve_dates=None
 
 ```python
 # Display Treasury yield curve details
-Tsy_flat_yield_curve_simple_df = get_yield_curve_details_df (tsy_flat_yield_curve)                  # using [[Credit Markets Session 4|calibration]] grid
+Tsy_flat_yield_curve_simple_df = get_yield_curve_details_df (tsy_flat_yield_curve)                  # using [calibration](../Credit%20Markets%20Session%204.md) grid
 Display (tsy_flat_yield_curve_simple_df)
 
 Grid_dates = [tsy_flat_yield_curve.ReferenceDate () + ql.Period (y,                    ql. Years) for y in list (range (0,                   30,                   2))]
@@ -2837,15 +2837,15 @@ This homework relies on:
 # Problem 1: Constructing fixed rate bonds
 
 ```python
-Import [[Introduction to QuantLib Python|QuantLib]] as ql
-Import [[Advanced Data Analysis with Python|pandas]] as pd
+Import [QuantLib](../../Course%20Notes/Python/QuantLib-Python/Introduction%20to%20QuantLib%20Python.md) as ql
+Import [pandas](../../Course%20Notes/Python/Advanced%20Data%20Analysis%20with%20Python.md) as pd
 Import datetime as dt
 
 # Use static calculation/valuation date of 2024-04-08,                    matching data available in the market prices EOD file
 Calc_date = ql.Date (8,                    4,                    2024)
 Ql.Settings.Instance (). EvaluationDate = calc_date```
 
-## a. Prepare the symbology and market data files for fixed rate government and [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
+## a. Prepare the symbology and market data files for fixed rate government and [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md)
 
 Load the `bond_symbology`,  `bond_market_prices_eod` and `govt_on_the_run` Excel files into dataframes.
 
@@ -3239,7 +3239,7 @@ Def get_ql_date (date) -> ql. Date:
 
 ```python
 Def create_schedule_from_symbology (details: dict):
-    '''Create a [[Introduction to QuantLib Python|QuantLib]] cashflow schedule from symbology details dictionary (usually one row of the symbology dataframe)
+    '''Create a [QuantLib](../../Course%20Notes/Python/QuantLib-Python/Introduction%20to%20QuantLib%20Python.md) cashflow schedule from symbology details dictionary (usually one row of the symbology dataframe)
     '''
     
     # Create maturity from details['maturity']
@@ -3251,7 +3251,7 @@ Def create_schedule_from_symbology (details: dict):
     # Create calendar for Corp and Govt asset classes
     Calendar = ql.UnitedStates (ql. UnitedStates. GovernmentBond)
     
-    # define period from details['cpn_freq'] ... Can be hard-coded to 2 = [[PSET 2 Solution-Financial Instruments|semi-annual frequency]]
+    # define period from details['cpn_freq'] ... Can be hard-coded to 2 = [semi-annual frequency](../../Financial%20Instruments/Assignments/Solutions/PSET%202%20Solution-Financial%20Instruments.md)
     Period = ql.Period (2)
     
     # business_day_convention
@@ -3350,8 +3350,8 @@ Def create_bond_from_symbology (details: dict):
     '''
     
      # Create day_count from details['dcc']
-     # For [[Credit Market Homework 1|US Treasuries]] use ql.ActualActual (ql. ActualActual. ISMA)
-     # For US [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] use ql. Thirty 360 (ql. Thirty 360. USA)
+     # For [US Treasuries](Credit%20Market%20Homework%201.md) use ql.ActualActual (ql. ActualActual. ISMA)
+     # For US [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) use ql. Thirty 360 (ql. Thirty 360. USA)
     
     If details['class'] == 'Corp':
         Day_count = ql. Thirty 360 (ql. Thirty 360. USA)
@@ -3417,7 +3417,7 @@ Pick one government and one corporate bond from symbology,  create the bond obje
 
 ```python
 Def get_bond_cashflows (bond: ql. FixedRateBond,                    calc_date=ql. Date) -> pd. DataFrame:
-    '''[[Assets|Returns]] all future cashflows as of calc_date,                    i.e. with payment dates > calc_date.
+    '''[Returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) all future cashflows as of calc_date,                    i.e. with payment dates > calc_date.
     '''    
     Day_counter = bond.DayCounter ()    
     
@@ -3638,14 +3638,14 @@ Def calibrate_yield_curve_from_frame (
         Calc_date: ql. Date,                   
         Treasury_details: pd. DataFrame,                   
         Price_quote_column: str):
-    '''Create a calibrated yield curve from a details dataframe which includes bid/ask/mid [[Chapter 11 - Interest Rate Futures|price quotes]].
+    '''Create a calibrated yield curve from a details dataframe which includes bid/ask/mid [price quotes](../../Financial%20Engineering/Derivatives/Part%20III%20-%20Fixed%20Income%20Futures%20Contracts/Chapter%2011%20-%20Interest%20Rate%20Futures.md).
     '''
     Ql.Settings.Instance (). EvaluationDate = calc_date
 
     # Sort dataframe by maturity
     Sorted_details_frame = treasury_details. Sort_values (by='maturity')    
     
-    # For [[Credit Market Homework 1|US Treasuries]] use ql.ActualActual (ql. ActualActual. ISMA)
+    # For [US Treasuries](Credit%20Market%20Homework%201.md) use ql.ActualActual (ql. ActualActual. ISMA)
     Day_count = ql.ActualActual (ql. ActualActual. ISMA)
 
     Bond_helpers = []
@@ -4043,12 +4043,12 @@ Plt. Set_xlabel ('Date')
 Plot the discount factor curve up to the 30 years point,  using a 6 months discretization grid.
 
 ```python
-Plt = tsy_yield_curve_df.Plot (x='Date',                    y=['DiscountFactor'],                    style='*-',                    grid=True,                    title=f'US Treasury OTR [[Credit Markets Session 3|discount factor curve]] as of {as_of_date.Date ()}',                    figsize=(12,                   4))
-Plt. Set_ylabel ('[[Discount Factors|Discount Factor]]')
+Plt = tsy_yield_curve_df.Plot (x='Date',                    y=['DiscountFactor'],                    style='*-',                    grid=True,                    title=f'US Treasury OTR [discount factor curve](../Credit%20Markets%20Session%203.md) as of {as_of_date.Date ()}',                    figsize=(12,                   4))
+Plt. Set_ylabel ('[Discount Factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md)')
 Plt. Set_xlabel ('Date')
 
-Plt = tsy_yield_curve_monthly_df.Plot (x='Date',                    y=['DiscountFactor'],                    style='*-',                    grid=True,                    title=f'US Treasury Yearly [[Credit Markets Session 3|discount factor curve]] as of {as_of_date.Date ()}',                    figsize=(12,                   4))
-Plt. Set_ylabel ('[[Discount Factors|Discount Factor]]')
+Plt = tsy_yield_curve_monthly_df.Plot (x='Date',                    y=['DiscountFactor'],                    style='*-',                    grid=True,                    title=f'US Treasury Yearly [discount factor curve](../Credit%20Markets%20Session%203.md) as of {as_of_date.Date ()}',                    figsize=(12,                   4))
+Plt. Set_ylabel ('[Discount Factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md)')
 Plt. Set_xlabel ('Date')```
 
     Text (0.5,                    0,                    'Date')
@@ -4088,7 +4088,7 @@ Govt_combined_otr['calc_mid_price'] = calculated_mid_prices
 Govt_combined_otr['calib_error'] = govt_combined_otr['midPrice'] - govt_combined_otr['calc_mid_price']
 
 # Compare the calculated clean mid prices to the original market mid prices.
-display (govt_combined_otr [['security',                    'isin',                    'figi',                    'midPrice',                    'calc_mid_price',                    'calib_error']])```
+display (govt_combined_otr ['security',                    'isin',                    'figi',                    'midPrice',                    'calc_mid_price',                    'calib_error']('security',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'isin',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'figi',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'midPrice',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'calc_mid_price',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'calib_error'))```
 
 <div>
 <style scoped>
@@ -4216,8 +4216,8 @@ For index,                    row in govt_combined_otr.Iterrows ():
     Bond_yield = bond_object.BondYield (row['calc_mid_price'],                    day_counter,                    compounding,                    coupon_freq,                    settle_date) * 100
     
     Flat_int_rate = ql.InterestRate (bond_yield / 100,                    day_counter,                    compounding,                    coupon_freq)
-    Bond_duration = ql.BondFunctions.[[Key Rates O1s Durations and Hedging|Duration]] (bond_object,                    flat_int_rate)
-    Bond_convexity = ql.BondFunctions.[[PSET II Fixed Income Asset Pricing 1|Convexity]] (bond_object,                    flat_int_rate)
+    Bond_duration = ql.BondFunctions.[Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) (bond_object,                    flat_int_rate)
+    Bond_convexity = ql.BondFunctions.[Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) (bond_object,                    flat_int_rate)
     Bond_dv 01 = bond_object.DirtyPrice () * bond_duration / 100
     
     Dv 01 s.Append (bond_dv 01)
@@ -4226,10 +4226,10 @@ For index,                    row in govt_combined_otr.Iterrows ():
 
 # Add new risk columns and display results    
 Govt_combined_otr['dv 01'] = dv 01 s
-Govt_combined_otr['[[Key Rates O1s Durations and Hedging|duration]]'] = calc_durations
-Govt_combined_otr['[[PSET II Fixed Income Asset Pricing 1|convexity]]'] = calc_convexities
+Govt_combined_otr['[duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)'] = calc_durations
+Govt_combined_otr['[convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md)'] = calc_convexities
 
-display (govt_combined_otr [['security',                    'isin',                    'figi',                    'calc_mid_price',                    'dv01',                    '[[Key Rates O1s Durations and Hedging|duration]]',                    '[[PSET II Fixed Income Asset Pricing 1|convexity]]']])
+display (govt_combined_otr [duration]('security',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'isin',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'figi',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'calc_mid_price',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'dv01',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'[[Key%20Rates%20O1s%20Durations%20and%20Hedging)',                    '[convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md)']])
 ```
 
 <div>
@@ -4384,7 +4384,7 @@ Govt_combined_otr['scen_dv 01'] = scen_dv 01 s
 Govt_combined_otr['scen_duration'] = scen_durations
 Govt_combined_otr['scen_convexity'] = scen_convexities
 
-display (govt_combined_otr [['security',                    'isin',                    'figi',                   'scen_dv01',                    'scen_duration',                    'scen_convexity']])
+display (govt_combined_otr ['security',                    'isin',                    'figi',                   'scen_dv01',                    'scen_duration',                    'scen_convexity']('security',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'isin',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'figi',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'scen_dv01',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'scen_duration',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'scen_convexity'))
 ```
 
 <div>
@@ -4481,11 +4481,11 @@ display (govt_combined_otr [['security',                    'isin',             
 </table>
 </div>
 
-# Problem 4: Pricing and risk metrics for [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
+# Problem 4: Pricing and risk metrics for [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md)
 
 ## a. Create the fixed-rate corporate bond objects
 
-Restrict the symbology dataframe to fixed rate [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] only and create the corporate bond objects.
+Restrict the symbology dataframe to fixed rate [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) only and create the corporate bond objects.
 
 ```python
 # Create the fixed-rate corporate bond symbology + combined dataframes
@@ -4795,7 +4795,7 @@ For index,                    row in corp_combined.Iterrows ():
 Corp_combined['calc_yield'] = calc_yields
 Corp_combined['calc_zspread'] = calc_zspreads
 
-display (corp_combined [['security',                    'isin',                    'figi',                    'midPrice',                    'calc_yield',                    'calc_zspread']])
+display (corp_combined ['security',                    'isin',                    'figi',                    'midPrice',                    'calc_yield',                    'calc_zspread']('security',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'isin',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'figi',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'midPrice',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'calc_yield',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'calc_zspread'))
 ```
 
 <div>
@@ -4929,9 +4929,9 @@ display (corp_combined [['security',                    'isin',                 
 <p>770 rows × 6 columns</p>
 </div>
 
-## c. Validate Z-Spread computation for a few fixed rate [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
+## c. Validate Z-Spread computation for a few fixed rate [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md)
 
-Pick 3 [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] (at your discretion) and use function below to re-price them using the calibrated flat z-spread. Follow the example in Section 7. "Analytical Duration,  Convexity and Z-Spread (flat yield model)".
+Pick 3 [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) (at your discretion) and use function below to re-price them using the calibrated flat z-spread. Follow the example in Section 7. "Analytical Duration,  Convexity and Z-Spread (flat yield model)".
 
 Validate that you match the original market prices,  which were used as input to the z-Spread function.
 
@@ -4957,7 +4957,7 @@ Bond_engine = ql.DiscountingBondEngine (tsy_yield_curve_mid_handle)
 Compounding = ql. Compounded
 Coupon_freq = ql. Semiannual
 
-# Pick 3 [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] (at your discretion)
+# Pick 3 [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) (at your discretion)
 Corp_combined_small = corp_combined[: 3]. Copy ()
 
 # Calculate prices with zspreads
@@ -4975,7 +4975,7 @@ For index,                    row in corp_combined_small.Iterrows ():
 Corp_combined_small['bond_zspread_price'] = bond_zspread_prices
 Corp_combined_small['price_difference'] = corp_combined_small['midPrice'] - corp_combined_small['bond_zspread_price']
 
-display (corp_combined_small [['security',                    'isin',                    'figi',                    'calc_zspread',                    'midPrice',                    'bond_zspread_price',                   'price_difference']])```
+display (corp_combined_small ['security',                    'isin',                    'figi',                    'calc_zspread',                    'midPrice',                    'bond_zspread_price',                   'price_difference']('security',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'isin',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'figi',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'calc_zspread',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'midPrice',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'bond_zspread_price',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'price_difference'))```
 
 <div>
 <style scoped>
@@ -5039,7 +5039,7 @@ display (corp_combined_small [['security',                    'isin',           
 </table>
 </div>
 
-## d. Compute Duration and Convexity for fixed rate [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] (using flat yield)
+## d. Compute Duration and Convexity for fixed rate [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) (using flat yield)
 
 Compute analytical Duration and Convexity metrics,  as described in Section 7. "Analytical Duration,  Convexity and Z-Spread (flat yield model)" in the QuantLib Basic notebook.
 
@@ -5073,8 +5073,8 @@ For index,                    row in corp_combined.Iterrows ():
     Bond_yield = bond_object.BondYield (row['midPrice'],                    day_counter,                    compounding,                    coupon_freq,                    settle_date) * 100
     
     Flat_int_rate = ql.InterestRate (bond_yield / 100,                    day_counter,                    compounding,                    coupon_freq)
-    Bond_duration = ql.BondFunctions.[[Key Rates O1s Durations and Hedging|Duration]] (bond_object,                    flat_int_rate)
-    Bond_convexity = ql.BondFunctions.[[PSET II Fixed Income Asset Pricing 1|Convexity]] (bond_object,                    flat_int_rate)        
+    Bond_duration = ql.BondFunctions.[Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) (bond_object,                    flat_int_rate)
+    Bond_convexity = ql.BondFunctions.[Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) (bond_object,                    flat_int_rate)        
     
     Calc_durations.Append (bond_duration)
     Calc_convexities.Append (bond_convexity)
@@ -5083,7 +5083,7 @@ For index,                    row in corp_combined.Iterrows ():
 Corp_combined['calc_duration'] = calc_durations
 Corp_combined['calc_convexity'] = calc_convexities
 
-display (corp_combined [['security',                    'isin',                    'figi',                    'midPrice',                    'calc_duration',                    'calc_convexity']]. head ())
+display (corp_combined ['security',                    'isin',                    'figi',                    'midPrice',                    'calc_duration',                    'calc_convexity']('security',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'isin',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'figi',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'midPrice',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'calc_duration',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'calc_convexity'). head ())
 ```
 
 <div>
@@ -5166,12 +5166,12 @@ display (corp_combined [['security',                    'isin',                 
 # Visualize duration and convexity for one ticker (for better understanding of risks) [Not part of homework]
 Corp_combined_aapl = corp_combined[corp_combined['ticker'] == 'AAPL']
 
-Plt = corp_combined_aapl.Plot (x='maturity',                    y=['calc_duration'],                    style='*-',                    grid=True,                    title=f'[[Key Rates O1s Durations and Hedging|Duration]] for AAPL bonds as of {as_of_date.Date ()}',                    figsize=(12,                   4))
-Plt. Set_ylabel ('[[Key Rates O1s Durations and Hedging|Duration]]')
+Plt = corp_combined_aapl.Plot (x='maturity',                    y=['calc_duration'],                    style='*-',                    grid=True,                    title=f'[Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) for AAPL bonds as of {as_of_date.Date ()}',                    figsize=(12,                   4))
+Plt. Set_ylabel ('[Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)')
 Plt. Set_xlabel ('Maturity date')
 
-Plt = corp_combined_aapl.Plot (x='maturity',                    y=['calc_convexity'],                    style='*-',                    grid=True,                    title=f'[[PSET II Fixed Income Asset Pricing 1|Convexity]] for AAPL bonds as of {as_of_date.Date ()}',                    figsize=(12,                   4))
-Plt. Set_ylabel ('[[PSET II Fixed Income Asset Pricing 1|Convexity]]')
+Plt = corp_combined_aapl.Plot (x='maturity',                    y=['calc_convexity'],                    style='*-',                    grid=True,                    title=f'[Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) for AAPL bonds as of {as_of_date.Date ()}',                    figsize=(12,                   4))
+Plt. Set_ylabel ('[Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md)')
 Plt. Set_xlabel ('Maturity date')
 ```
 
@@ -5233,10 +5233,10 @@ Calendar = ql.UnitedStates (ql. UnitedStates. GovernmentBond)
 # Settle_days
 Settle_days = 2
 
-# SOFR [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]] swap tenors: 1 Y,                    2 Y,                    3 Y,                    5 Y 7 Y,                    10 Y,                    20 Y and 30 Y
+# SOFR [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS) swap tenors: 1 Y,                    2 Y,                    3 Y,                    5 Y 7 Y,                    10 Y,                    20 Y and 30 Y
 SOFR_tenors = [ql.Period (y,                    ql. Years) for y in [1,                    2,                    3,                    5,                    7,                    10,                    20,                    30]]
                
-# SOFR [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]] swap rates (as of 2023-04-14)
+# SOFR [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS) swap rates (as of 2023-04-14)
 SOFR_rates = [4.81,                    4.11,                    3.73,                    3.38,                    3.32,                    3.26,                    3.20,                    3.02]
 
 SOFR_OIS_swap_helpers = []
@@ -5273,7 +5273,7 @@ Def get_yield_curve_details_df (yield_curve,                    curve_dates=None
     Return yield_curve_details_df
 # Display SOFR yield curve
 Grid_dates = [sofr_yield_curve.ReferenceDate () + ql.Period (y,                    ql. Years) for y in list (range (0,                   30,                   2))]
-Sofr_yield_curve_simple_df = get_yield_curve_details_df (sofr_yield_curve)                  # using [[Credit Markets Session 4|calibration]] grid
+Sofr_yield_curve_simple_df = get_yield_curve_details_df (sofr_yield_curve)                  # using [calibration](../Credit%20Markets%20Session%204.md) grid
 Sofr_yield_curve_details_df = get_yield_curve_details_df (sofr_yield_curve,                    grid_dates)    # using external grid
 
 Print (sofr_yield_curve_simple_df)
@@ -5310,11 +5310,11 @@ Print (sofr_yield_curve_details_df)
 ## c. Plot the calibrated SOFR Zero Rates and Discount Factors curves
 
 ```python
-Plt = sofr_yield_curve_details_df.Plot (x='Date',                    y='ZeroRate',                    grid=True,                    style='*-',                    title='[[Credit Markets Homework 3|SOFR Curve]]: Zero Rates',                    figsize=(12,                   5))
+Plt = sofr_yield_curve_details_df.Plot (x='Date',                    y='ZeroRate',                    grid=True,                    style='*-',                    title='[SOFR Curve](Credit%20Markets%20Homework%203.md): Zero Rates',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Zero Rate (%)')
 Plt. Set_xlabel ('Date')
 
-Plt = sofr_yield_curve_details_df.Plot (x='Date',                    y='DiscountFactor',                    grid=True,                    style='*-',                    title='[[Credit Markets Homework 3|SOFR Curve]]: Discount Factors',                    figsize=(12,                   5))
+Plt = sofr_yield_curve_details_df.Plot (x='Date',                    y='DiscountFactor',                    grid=True,                    style='*-',                    title='[SOFR Curve](Credit%20Markets%20Homework%203.md): Discount Factors',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Discount Factors')
 Plt. Set_xlabel ('Date')```
 
@@ -5403,12 +5403,12 @@ Print (hazard_rates_df)
 ## b. Plot the calibrated Hazard Rate and Survival Probability curves
 
 ```python
-Plt = hazard_rates_df.Plot (x='Date',                    y='HazardRate',                    grid=True,                    style='*-',                    title='IBM [[RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS|Hazard Rates]] Curve',                    figsize=(12,                   5))
+Plt = hazard_rates_df.Plot (x='Date',                    y='HazardRate',                    grid=True,                    style='*-',                    title='IBM [Hazard Rates](../RISK%20NEUTRAL%20VALUATION%20FRAMEWORK%20FOR%20CREDIT%20DEFAULT%20SWAPS.md) Curve',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Hazard Rate (%)')
 Plt. Set_xlabel ('Date')
 
-Plt = hazard_rates_df.Plot (x='Date',                    y='SurvivalProb',                    grid=True,                    style='*-',                    title='IBM [[A Poisson Model of Single Issuer Default|Survival Probability]] Curve',                    figsize=(12,                   5))
-Plt. Set_ylabel ('[[A Poisson Model of Single Issuer Default|Survival Probability]]')
+Plt = hazard_rates_df.Plot (x='Date',                    y='SurvivalProb',                    grid=True,                    style='*-',                    title='IBM [Survival Probability](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/A%20Poisson%20Model%20of%20Single%20Issuer%20Default.md) Curve',                    figsize=(12,                   5))
+Plt. Set_ylabel ('[Survival Probability](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/A%20Poisson%20Model%20of%20Single%20Issuer%20Default.md)')
 Plt. Set_xlabel ('Date')
 ```
 
@@ -5447,7 +5447,7 @@ Print ('CDS protection start date: ',                    cds_obj.ProtectionStart
 Print ('CDS fair/par spread: ',                    round (cds_obj.FairSpread ()*10000,                    3))
 Print ('CDS PV: ',                    round (cds_obj.NPV (),                    4))    
 Print ('CDS Premium Leg PV: ',                    round (cds_obj.CouponLegNPV (),                    4))
-Print ('[[The Default Correlation of the Reference Issuer|CDS Default]] Leg PV',                    round (cds_obj.DefaultLegNPV (),                    4))
+Print ('[CDS Default](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/The%20Default%20Correlation%20of%20the%20Reference%20Issuer.md) Leg PV',                    round (cds_obj.DefaultLegNPV (),                    4))
 Print ('Survival Prob. To Maturity: ',                    round (hazard_rate_curve.SurvivalProbability (cds_maturity_date),                    4))
 ```
 
@@ -5581,15 +5581,15 @@ Custom_surv_prob_curve_handle = ql.DefaultProbabilityTermStructureHandle (custom
 
 # 3. Display custom credit curve
 Custom_surv_prob_df = pd.DataFrame (data={'Date': custom_surv_prob_dates,                   
-                                          'Average [[RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS|Hazard Rates]]': custom_average_hazard_rates,                   
+                                          'Average [Hazard Rates](../RISK%20NEUTRAL%20VALUATION%20FRAMEWORK%20FOR%20CREDIT%20DEFAULT%20SWAPS.md)': custom_average_hazard_rates,                   
                                           'Survival Probs': custom_surv_prob_levels})
 
-Plt = custom_surv_prob_df.Plot (x='Date',                    y='Average [[RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS|Hazard Rates]]',                    grid=True,                    style='*-',                    title='Custom Hazard Rate Curve',                    figsize=(12,                   5))
+Plt = custom_surv_prob_df.Plot (x='Date',                    y='Average [Hazard Rates](../RISK%20NEUTRAL%20VALUATION%20FRAMEWORK%20FOR%20CREDIT%20DEFAULT%20SWAPS.md)',                    grid=True,                    style='*-',                    title='Custom Hazard Rate Curve',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Hazard Rate (%)')
 Plt. Set_xlabel ('Date')
 
-Plt = custom_surv_prob_df.Plot (x='Date',                    y='Survival Probs',                    grid=True,                    style='*-',                    title='Custom [[A Poisson Model of Single Issuer Default|Survival Probability]] Curve',                    figsize=(12,                   5))
-Plt. Set_ylabel ('[[A Poisson Model of Single Issuer Default|Survival Probability]]')
+Plt = custom_surv_prob_df.Plot (x='Date',                    y='Survival Probs',                    grid=True,                    style='*-',                    title='Custom [Survival Probability](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/A%20Poisson%20Model%20of%20Single%20Issuer%20Default.md) Curve',                    figsize=(12,                   5))
+Plt. Set_ylabel ('[Survival Probability](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/A%20Poisson%20Model%20of%20Single%20Issuer%20Default.md)')
 Plt. Set_xlabel ('Date')```
 
     Text (0.5,                    0,                    'Date')
@@ -5689,11 +5689,11 @@ Print (curve_shapes_df 2. Head ())
 
 Plt = curve_shapes_df.Plot (x='TTM',                    y=['Level',                    'Slope',                    'Curvature'],                    grid=True,                    style='-',                    title='Nelson-Siegel basis functions',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Curve Level')
-Plt. Set_xlabel ('[[Hedging Strategies with Forwards|Time to maturity]] (years)')
+Plt. Set_xlabel ('[Time to maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (years)')
 
 Plt = curve_shapes_df 2. Plot (x='TTM',                    y=['Level',                    'Slope',                    'Curvature_1',                    'Curvature_2'],                    grid=True,                    style='-',                    title='Nelson-Siegel-Svensson basis functions',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Curve Level')
-Plt. Set_xlabel ('[[Hedging Strategies with Forwards|Time to maturity]] (years)')
+Plt. Set_xlabel ('[Time to maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (years)')
 ```
 
        TTM  Level     Slope  Curvature_1  Curvature_2
@@ -5723,15 +5723,15 @@ Nelson_siegel_credit_curve.EnableExtrapolation ()
 Nelson_siegel_credit_curve_handle = ql.DefaultProbabilityTermStructureHandle (nelson_siegel_credit_curve)
 
 Nelson_siegel_surv_prob_df = pd.DataFrame (data={'Dates': nelson_siegel_surv_prob_dates,                   
-                                          'Average [[RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS|Hazard Rates]]': nelson_siegel_average_hazard_rates,                   
+                                          'Average [Hazard Rates](../RISK%20NEUTRAL%20VALUATION%20FRAMEWORK%20FOR%20CREDIT%20DEFAULT%20SWAPS.md)': nelson_siegel_average_hazard_rates,                   
                                           'Survival Probs': nelson_siegel_surv_prob_levels})
 # Print (nelson_siegel_surv_prob_df)
 
-Plt = nelson_siegel_surv_prob_df.Plot (x='Dates',                    y=['Average [[RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS|Hazard Rates]]'],                    grid=True,                    style='-',                    title='Nelson-Siegel smooth hazard rate curve',                    figsize=(12,                   5))
+Plt = nelson_siegel_surv_prob_df.Plot (x='Dates',                    y=['Average [Hazard Rates](../RISK%20NEUTRAL%20VALUATION%20FRAMEWORK%20FOR%20CREDIT%20DEFAULT%20SWAPS.md)'],                    grid=True,                    style='-',                    title='Nelson-Siegel smooth hazard rate curve',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Average hazard rate')
 Plt. Set_xlabel ('Maturity')
 
-Plt = nelson_siegel_surv_prob_df.Plot (x='Dates',                    y=['Survival Probs'],                    grid=True,                    style='-',                    title='Nelson-Siegel smooth [[A Poisson Model of Single Issuer Default|survival probability]] curve',                    figsize=(12,                   5))
+Plt = nelson_siegel_surv_prob_df.Plot (x='Dates',                    y=['Survival Probs'],                    grid=True,                    style='-',                    title='Nelson-Siegel smooth [survival probability](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/A%20Poisson%20Model%20of%20Single%20Issuer%20Default.md) curve',                    figsize=(12,                   5))
 Plt. Set_ylabel ('Survival Prob')
 Plt. Set_xlabel ('Maturity')```
 
@@ -5794,9 +5794,9 @@ This homework relies on:
 ## Use the QuantLib Basic notebook (or previous homeworks) as templates
 
 ```python
-Import [[Introduction to QuantLib Python|QuantLib]] as ql
+Import [QuantLib](../../Course%20Notes/Python/QuantLib-Python/Introduction%20to%20QuantLib%20Python.md) as ql
 Import numpy as np
-Import [[Advanced Data Analysis with Python|pandas]] as pd
+Import [pandas](../../Course%20Notes/Python/Advanced%20Data%20Analysis%20with%20Python.md) as pd
 Import datetime as dt
 
 Def get_ql_date (date) -> ql. Date:
@@ -5812,7 +5812,7 @@ Def get_ql_date (date) -> ql. Date:
         Raise ValueError (f"to_qldate,                    {type (date)},                    {date}")
     
 Def create_schedule_from_symbology (details: dict):
-    '''Create a [[Introduction to QuantLib Python|QuantLib]] cashflow schedule from symbology details dictionary (usually one row of the symbology dataframe)
+    '''Create a [QuantLib](../../Course%20Notes/Python/QuantLib-Python/Introduction%20to%20QuantLib%20Python.md) cashflow schedule from symbology details dictionary (usually one row of the symbology dataframe)
     '''
     
     # Create maturity from details['maturity']
@@ -5824,7 +5824,7 @@ Def create_schedule_from_symbology (details: dict):
     # Create calendar for Corp and Govt asset classes
     Calendar = ql.UnitedStates (ql. UnitedStates. GovernmentBond)
     
-    # define period from details['cpn_freq'] ... Can be hard-coded to 2 = [[PSET 2 Solution-Financial Instruments|semi-annual frequency]]
+    # define period from details['cpn_freq'] ... Can be hard-coded to 2 = [semi-annual frequency](../../Financial%20Instruments/Assignments/Solutions/PSET%202%20Solution-Financial%20Instruments.md)
     Period = ql.Period (2)
     
     # business_day_convention
@@ -5854,8 +5854,8 @@ Def create_bond_from_symbology (details: dict):
     '''
     
      # Create day_count from details['dcc']
-     # For [[Credit Market Homework 1|US Treasuries]] use ql.ActualActual (ql. ActualActual. ISMA)
-     # For US [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] use ql. Thirty 360 (ql. Thirty 360. USA)
+     # For [US Treasuries](Credit%20Market%20Homework%201.md) use ql.ActualActual (ql. ActualActual. ISMA)
+     # For US [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) use ql. Thirty 360 (ql. Thirty 360. USA)
     
     If details['class'] == 'Corp':
         Day_count = ql. Thirty 360 (ql. Thirty 360. USA)
@@ -5893,7 +5893,7 @@ Def create_bond_from_symbology (details: dict):
     Return fixed_rate_bond
 
 Def get_bond_cashflows (bond: ql. FixedRateBond,                    calc_date=ql. Date) -> pd. DataFrame:
-    '''[[Assets|Returns]] all future cashflows as of calc_date,                    i.e. with payment dates > calc_date.
+    '''[Returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) all future cashflows as of calc_date,                    i.e. with payment dates > calc_date.
     '''    
     Day_counter = bond.DayCounter ()    
     
@@ -5908,14 +5908,14 @@ Def calibrate_yield_curve_from_frame (
         Calc_date: ql. Date,                   
         Treasury_details: pd. DataFrame,                   
         Price_quote_column: str):
-    '''Create a calibrated yield curve from a details dataframe which includes bid/ask/mid [[Chapter 11 - Interest Rate Futures|price quotes]].
+    '''Create a calibrated yield curve from a details dataframe which includes bid/ask/mid [price quotes](../../Financial%20Engineering/Derivatives/Part%20III%20-%20Fixed%20Income%20Futures%20Contracts/Chapter%2011%20-%20Interest%20Rate%20Futures.md).
     '''
     Ql.Settings.Instance (). EvaluationDate = calc_date
 
     # Sort dataframe by maturity
     Sorted_details_frame = treasury_details. Sort_values (by='maturity')    
     
-    # For [[Credit Market Homework 1|US Treasuries]] use ql.ActualActual (ql. ActualActual. ISMA)
+    # For [US Treasuries](Credit%20Market%20Homework%201.md) use ql.ActualActual (ql. ActualActual. ISMA)
     Day_count = ql.ActualActual (ql. ActualActual. ISMA)
 
     Bond_helpers = []
@@ -5974,10 +5974,10 @@ Def calibrate_sofr_curve_from_frame (
     # settle_days
     Settle_days = 2
     
-    # For US SOFR [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#Overnight Index Swaps [[Overview of Financial Markets|Overview]]|OIS]] Swaps 
+    # For US SOFR [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Overnight Index Swaps [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|OIS]] Swaps 
     Day_count = ql. Actual 360 ()
 
-    # For US [[Advanced Usage of QuantLib analytics library|SOFR Swaps]]     
+    # For US [SOFR Swaps](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md)     
     Calendar = ql.UnitedStates (ql. UnitedStates. GovernmentBond)
     
     Sofr_helpers = []
@@ -6015,7 +6015,7 @@ Def calibrate_cds_hazard_rate_curve (calc_date,                    sofr_yield_cu
 
     Return (hazard_rate_curve)
 Def get_hazard_rates_df (hazard_rate_curve):
-    '''Return dataframe with calibrated [[RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS|hazard rates]] and survival probabilities'''
+    '''Return dataframe with calibrated [hazard rates](../RISK%20NEUTRAL%20VALUATION%20FRAMEWORK%20FOR%20CREDIT%20DEFAULT%20SWAPS.md) and survival probabilities'''
     
     CDS_day_count = ql. Actual 360 ()
     
@@ -6108,8 +6108,8 @@ Test_bond_dirty_price = test_fixed_rate_bond.DirtyPrice (test_bond_yield/100,   
 
 # Compute analytical dv 01,                    duration and convexity
 Test_bond_yield_rate = ql.InterestRate (test_bond_yield/100,                    test_fixed_rate_bond.DayCounter (),                    ql. Compounded,                    ql. Semiannual)
-Test_bond_duration = ql.BondFunctions.[[Key Rates O1s Durations and Hedging|Duration]] (test_fixed_rate_bond,                    test_bond_yield_rate)
-Test_bond_convexity = ql.BondFunctions.[[PSET II Fixed Income Asset Pricing 1|Convexity]] (test_fixed_rate_bond,                    test_bond_yield_rate)
+Test_bond_duration = ql.BondFunctions.[Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) (test_fixed_rate_bond,                    test_bond_yield_rate)
+Test_bond_convexity = ql.BondFunctions.[Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) (test_fixed_rate_bond,                    test_bond_yield_rate)
 Test_bond_dv 01 = test_bond_duration * test_bond_dirty_price / 100
 
 Print ('test_bond_clean_price: ',                    round (test_bond_clean_price,                    2))
@@ -6140,8 +6140,8 @@ $$\begin{align}
 
 We implement formula [13] into the `calc_second_order_price_change (...)` function,                    taking into account that $B (y)$ is the dirty bond price.
 ```python
-Def calc_second_order_price_change (dirty_price,                    yield_diff,                    [[Key Rates O1s Durations and Hedging|duration]],                    [[PSET II Fixed Income Asset Pricing 1|convexity]]):
-    Return dirty_price * (- yield_diff * [[Key Rates O1s Durations and Hedging|duration]] + 0.5 * yield_diff*yield_diff*[[PSET II Fixed Income Asset Pricing 1|convexity]])
+Def calc_second_order_price_change (dirty_price,                    yield_diff,                    [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md),                    [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md)):
+    Return dirty_price * (- yield_diff * [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) + 0.5 * yield_diff*yield_diff*[convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md))
 
 # Bond_yield_grid : yield grid [from 1% to 11% in steps of 0.5%]    
 Bond_yield_grid = [y for y in np.Arange (1,                    11.5,                    0.5)]
@@ -6158,7 +6158,7 @@ Bond_scenarios_df = pd.DataFrame (data={'ScenYields': bond_yield_grid,          
 Print (bond_scenarios_df.Round (1))
 
 # Plot Scenario Prices for "analytic re-pricing" vs "second-order approximations
-Plt = bond_scenarios_df.Plot (x='ScenYields',                    y=['ScenPrices',                    'ApproxPrices'],                    grid=True,                    style='-*',                    title='Scenario Prices for "analytic re-[[Arbitrage Pricing of Derivatives|pricing]]" vs "second-order approximations"',                    figsize=(12,                   4))
+Plt = bond_scenarios_df.Plot (x='ScenYields',                    y=['ScenPrices',                    'ApproxPrices'],                    grid=True,                    style='-*',                    title='Scenario Prices for "analytic re-[pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)" vs "second-order approximations"',                    figsize=(12,                   4))
 Plt.Axhline (test_bond_clean_price,                    color='red',                    linestyle='--',                    alpha=0.7)
 Plt. Set_ylabel ('Scenario Price')
 Plt. Set_xlabel ('Yield')
@@ -6282,7 +6282,7 @@ Print ('2. Perpetual bond DV 01: ')
 Display (-first_order_derivative)
 
 Perpetual_bond_duration =  sp.Simplify (- first_order_derivative / perpetual_bond_price)
-Print ('3. Perpetual bond [[Key Rates O1s Durations and Hedging|duration]]: ')
+Print ('3. Perpetual bond [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md): ')
 Display (perpetual_bond_duration)```
 
     1. Perpetual bond price (with coupon c):
@@ -6307,7 +6307,7 @@ Print ('Second order derivative: ')
 Display (second_order_derivative)
 
 Perpetual_bond_convexity =  sp.Simplify (second_order_derivative / perpetual_bond_price)
-Print ('Perpetual bond [[PSET II Fixed Income Asset Pricing 1|convexity]]: ')
+Print ('Perpetual bond [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md): ')
 Display (perpetual_bond_convexity)
 ```
 
@@ -6326,7 +6326,7 @@ $$\begin{align}
 \end{align}$$
 -----------------------------------------------------------
 # Problem 3: US SOFR swap curve calibration as of 2024-04-15
-### Follow Section "1. SOFR [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]] swap rates and SOFR discount curve calibration + validation" in the QuantLib Advanced notebook !
+### Follow Section "1. SOFR [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS) swap rates and SOFR discount curve calibration + validation" in the QuantLib Advanced notebook !
 
 ## a. Load and explore US SOFR swaps symbology and market data
 
@@ -6350,7 +6350,7 @@ Sofr_quotes_ts = sofr_market_quotes.Pivot (index="date",                    colu
 Sofr_quotes_ts. Columns = sofr_symbology. Tenor[sofr_quotes_ts. Columns]
 # Print (sofr_quotes_ts.Head ())
 
-Plt = sofr_quotes_ts.Plot (grid=True,                    style='-',                    title='[[Advanced Usage of QuantLib analytics library|SOFR Swaps]]: historical time series',                    figsize=(12,                   8))
+Plt = sofr_quotes_ts.Plot (grid=True,                    style='-',                    title='[SOFR Swaps](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md): historical time series',                    figsize=(12,                   8))
 Plt. Set_ylabel ('SOFR Rate')
 Plt. Set_xlabel ('Date')```
 <div>
@@ -6404,7 +6404,7 @@ Plt. Set_xlabel ('Date')```
       <td>USOSFR 1</td>
       <td>Curncy</td>
       <td>USOSFR 1 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 1 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 1 Y</td>
       <td>1</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -6418,7 +6418,7 @@ Plt. Set_xlabel ('Date')```
       <td>USOSFR 2</td>
       <td>Curncy</td>
       <td>USOSFR 2 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 2 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 2 Y</td>
       <td>2</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -6432,7 +6432,7 @@ Plt. Set_xlabel ('Date')```
       <td>USOSFR 3</td>
       <td>Curncy</td>
       <td>USOSFR 3 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 3 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 3 Y</td>
       <td>3</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -6446,7 +6446,7 @@ Plt. Set_xlabel ('Date')```
       <td>USOSFR 5</td>
       <td>Curncy</td>
       <td>USOSFR 5 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 5 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 5 Y</td>
       <td>5</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -6460,7 +6460,7 @@ Plt. Set_xlabel ('Date')```
       <td>USOSFR 7</td>
       <td>Curncy</td>
       <td>USOSFR 7 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 7 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 7 Y</td>
       <td>7</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -6474,7 +6474,7 @@ Plt. Set_xlabel ('Date')```
       <td>USOSFR 10</td>
       <td>Curncy</td>
       <td>USOSFR 10 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 10 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 10 Y</td>
       <td>10</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -6488,7 +6488,7 @@ Plt. Set_xlabel ('Date')```
       <td>USOSFR 20</td>
       <td>Curncy</td>
       <td>USOSFR 20 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 20 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 20 Y</td>
       <td>20</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -6502,7 +6502,7 @@ Plt. Set_xlabel ('Date')```
       <td>USOSFR 30</td>
       <td>Curncy</td>
       <td>USOSFR 30 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 30 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 30 Y</td>
       <td>30</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -6539,10 +6539,10 @@ Def calibrate_sofr_curve_from_frame (
     # settle_days
     Settle_days = 2
     
-    # For US SOFR [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#Overnight Index Swaps [[Overview of Financial Markets|Overview]]|OIS]] Swaps 
+    # For US SOFR [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Overnight Index Swaps [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|OIS]] Swaps 
     Day_count = ql. Actual 360 ()
 
-    # For US [[Advanced Usage of QuantLib analytics library|SOFR Swaps]]     
+    # For US [SOFR Swaps](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md)     
     Calendar = ql.UnitedStates (ql. UnitedStates. GovernmentBond)
     
     Sofr_helpers = []
@@ -6613,7 +6613,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 1</td>
       <td>Curncy</td>
       <td>USOSFR 1 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 1 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 1 Y</td>
       <td>1</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -6632,7 +6632,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 2</td>
       <td>Curncy</td>
       <td>USOSFR 2 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 2 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 2 Y</td>
       <td>2</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -6651,7 +6651,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 3</td>
       <td>Curncy</td>
       <td>USOSFR 3 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 3 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 3 Y</td>
       <td>3</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -6670,7 +6670,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 5</td>
       <td>Curncy</td>
       <td>USOSFR 5 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 5 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 5 Y</td>
       <td>5</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -6689,7 +6689,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 7</td>
       <td>Curncy</td>
       <td>USOSFR 7 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 7 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 7 Y</td>
       <td>7</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -6711,7 +6711,7 @@ Follow section 1 d (in the QuantLib Advanced notebook) to display the calibratio
 ```python
 # Display and plot SOFR yield curve
 Grid_dates = [sofr_yield_curve.ReferenceDate () + ql.Period (y,                    ql. Years) for y in list (range (0,                   30,                   1))]
-Sofr_yield_curve_simple_df = get_yield_curve_details_df (sofr_yield_curve)                  # using [[Credit Markets Session 4|calibration]] grid
+Sofr_yield_curve_simple_df = get_yield_curve_details_df (sofr_yield_curve)                  # using [calibration](../Credit%20Markets%20Session%204.md) grid
 Sofr_yield_curve_details_df = get_yield_curve_details_df (sofr_yield_curve,                    grid_dates)    # using external grid
 
 Display (sofr_yield_curve_simple_df)
@@ -7050,11 +7050,11 @@ Display (sofr_yield_curve_details_df)```
 Plot the SOFR zero rates and discount factor curves by maturity. Follow section 1 c in the QuantLib Advanced notebook.
 ```python
 # Plot the SOFR yield curve
-Plt = sofr_yield_curve_details_df.Plot (x='Date',                    y='ZeroRate',                    grid=True,                    style='*-',                    title=f'[[Credit Markets Homework 3|SOFR Curve]]: Zero Rates as of {calc_date. To_date ()}',                    figsize=(12,                   4))
+Plt = sofr_yield_curve_details_df.Plot (x='Date',                    y='ZeroRate',                    grid=True,                    style='*-',                    title=f'[SOFR Curve](Credit%20Markets%20Homework%203.md): Zero Rates as of {calc_date. To_date ()}',                    figsize=(12,                   4))
 Plt. Set_ylabel ('Zero Rate (%)')
 Plt. Set_xlabel ('Date')
 
-Plt = sofr_yield_curve_details_df.Plot (x='Date',                    y='DiscountFactor',                    grid=True,                    style='*-',                    title=f'[[Credit Markets Homework 3|SOFR Curve]]: Discount Factors as of {calc_date. To_date ()}',                    figsize=(12,                   4))
+Plt = sofr_yield_curve_details_df.Plot (x='Date',                    y='DiscountFactor',                    grid=True,                    style='*-',                    title=f'[SOFR Curve](Credit%20Markets%20Homework%203.md): Discount Factors as of {calc_date. To_date ()}',                    figsize=(12,                   4))
 Plt. Set_ylabel ('Discount Factors')
 Plt. Set_xlabel ('Date')```
     Text (0.5,                    0,                    'Date')
@@ -7128,7 +7128,7 @@ Def calibrate_cds_hazard_rate_curve (calc_date,                    sofr_yield_cu
 
     Return (hazard_rate_curve)
 Def get_hazard_rates_df (hazard_rate_curve):
-    '''Return dataframe with calibrated [[RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS|hazard rates]] and survival probabilities'''
+    '''Return dataframe with calibrated [hazard rates](../RISK%20NEUTRAL%20VALUATION%20FRAMEWORK%20FOR%20CREDIT%20DEFAULT%20SWAPS.md) and survival probabilities'''
     
     CDS_day_count = ql. Actual 360 ()
     
@@ -7174,12 +7174,12 @@ Print (hazard_rates_df)
 ## c. Plot the calibrated Hazard Rates and Survival Probability curves
 Follow section 2 b in the QuantLib Advanced notebook. Use the calibrated SOFR discount curve from Problem 3 b.
 ```python
-Plt = hazard_rates_df.Plot (x='Date',                    y='HazardRateBps',                    grid=True,                    style='*-',                    title=f'IBM [[RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS|Hazard Rates]] Curve as of {calc_date. To_date ()}',                    figsize=(12,                   4))
+Plt = hazard_rates_df.Plot (x='Date',                    y='HazardRateBps',                    grid=True,                    style='*-',                    title=f'IBM [Hazard Rates](../RISK%20NEUTRAL%20VALUATION%20FRAMEWORK%20FOR%20CREDIT%20DEFAULT%20SWAPS.md) Curve as of {calc_date. To_date ()}',                    figsize=(12,                   4))
 Plt. Set_ylabel ('Hazard Rate (bps)')
 Plt. Set_xlabel ('Date')
 
-Plt = hazard_rates_df.Plot (x='Date',                    y='SurvivalProb',                    grid=True,                    style='*-',                    title=f'IBM [[A Poisson Model of Single Issuer Default|Survival Probability]] Curve as of {calc_date. To_date ()}',                    figsize=(12,                   4))
-Plt. Set_ylabel ('[[A Poisson Model of Single Issuer Default|Survival Probability]]')
+Plt = hazard_rates_df.Plot (x='Date',                    y='SurvivalProb',                    grid=True,                    style='*-',                    title=f'IBM [Survival Probability](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/A%20Poisson%20Model%20of%20Single%20Issuer%20Default.md) Curve as of {calc_date. To_date ()}',                    figsize=(12,                   4))
+Plt. Set_ylabel ('[Survival Probability](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/A%20Poisson%20Model%20of%20Single%20Issuer%20Default.md)')
 Plt. Set_xlabel ('Date')
 ```
     Text (0.5,                    0,                    'Date')
@@ -7213,7 +7213,7 @@ Print ('CDS protection start date: ',                    cds_obj.ProtectionStart
 Print ('CDS fair/par spread: ',                    round (cds_obj.FairSpread ()*10000,                    3))
 Print ('CDS PV: ',                    round (cds_obj.NPV (),                    4))    
 Print ('CDS Premium Leg PV: ',                    round (cds_obj.CouponLegNPV (),                    4))
-Print ('[[The Default Correlation of the Reference Issuer|CDS Default]] Leg PV',                    round (cds_obj.DefaultLegNPV (),                    4))
+Print ('[CDS Default](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/The%20Default%20Correlation%20of%20the%20Reference%20Issuer.md) Leg PV',                    round (cds_obj.DefaultLegNPV (),                    4))
 Print ('Survival Prob. To Maturity: ',                    round (hazard_rate_curve.SurvivalProbability (cds_maturity_date),                    4))
 ```
 
@@ -7242,8 +7242,8 @@ This homework relies on multiple files (from previous weeks):
 - The "on-the-run" treasuries data file `govt_on_the_run`,                   
 - The bond market data file `bond_market_prices_eod`,                   
 - The CDS data file `cds_market_data_eod`. 
-- The SOFR [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]] Swap symbology file `sofr_swap_symbology`,                   
-- The SOFR [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]] Swap market data file `sofr_swaps_market_data_eod`.
+- The SOFR [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS) Swap symbology file `sofr_swap_symbology`,                   
+- The SOFR [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS) Swap market data file `sofr_swaps_market_data_eod`.
 ```python
 # Import tools from previous homeworks
 From credit_market_tools import *
@@ -7540,7 +7540,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 1</td>
       <td>Curncy</td>
       <td>USOSFR 1 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 1 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 1 Y</td>
       <td>1</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -7554,7 +7554,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 2</td>
       <td>Curncy</td>
       <td>USOSFR 2 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 2 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 2 Y</td>
       <td>2</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -7568,7 +7568,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 3</td>
       <td>Curncy</td>
       <td>USOSFR 3 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 3 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 3 Y</td>
       <td>3</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -7582,7 +7582,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 5</td>
       <td>Curncy</td>
       <td>USOSFR 5 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 5 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 5 Y</td>
       <td>5</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -7596,7 +7596,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 7</td>
       <td>Curncy</td>
       <td>USOSFR 7 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 7 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 7 Y</td>
       <td>7</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -7610,7 +7610,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 10</td>
       <td>Curncy</td>
       <td>USOSFR 10 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 10 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 10 Y</td>
       <td>10</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -7624,7 +7624,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 20</td>
       <td>Curncy</td>
       <td>USOSFR 20 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 20 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 20 Y</td>
       <td>20</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -7638,7 +7638,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 30</td>
       <td>Curncy</td>
       <td>USOSFR 30 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 30 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 30 Y</td>
       <td>30</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -7693,7 +7693,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 1</td>
       <td>Curncy</td>
       <td>USOSFR 1 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 1 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 1 Y</td>
       <td>1</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -7712,7 +7712,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 2</td>
       <td>Curncy</td>
       <td>USOSFR 2 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 2 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 2 Y</td>
       <td>2</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -7731,7 +7731,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 3</td>
       <td>Curncy</td>
       <td>USOSFR 3 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 3 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 3 Y</td>
       <td>3</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -7750,7 +7750,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 5</td>
       <td>Curncy</td>
       <td>USOSFR 5 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 5 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 5 Y</td>
       <td>5</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -7769,7 +7769,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 7</td>
       <td>Curncy</td>
       <td>USOSFR 7 Curncy</td>
-      <td>USD [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]]  ANN VS SOFR 7 Y</td>
+      <td>USD [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS)  ANN VS SOFR 7 Y</td>
       <td>7</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -8325,7 +8325,7 @@ For i in range (0,                    3):
 Ibm_df['modelPrice'] = ibm_model_prices
 Ibm_df['modelYield'] = ibm_model_yields
 
-display (ibm_df [['security',                    'modelPrice',                    'modelYield']])
+display (ibm_df ['security',                    'modelPrice',                    'modelYield']('security',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'modelPrice',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'modelYield'))
 ```
 <div>
 <style scoped>
@@ -8393,7 +8393,7 @@ Ibm_df['basisPrice'] = ibm_df['modelPrice'] - ibm_df['midPrice']
 Ibm_df['basisYield'] = ibm_df['modelYield'] - ibm_df['midYield']
 
 # Display relevant metrics
-display (ibm_df [['security',                    'midPrice',                    'modelPrice',                    'basisPrice',                    'midYield',                    'modelYield',                    'basisYield']])```
+display (ibm_df ['security',                    'midPrice',                    'modelPrice',                    'basisPrice',                    'midYield',                    'modelYield',                    'basisYield']('security',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'midPrice',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'modelPrice',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'basisPrice',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'midYield',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'modelYield',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'basisYield'))```
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -8506,18 +8506,18 @@ For i in range (0,                    3):
     Price_1 bp_down = fixed_rate_bond.CleanPrice ()
     Ibm_scen_prices_1 bp_down.Append (price_1 bp_down)
     
-    # Compute scenario IR 01 and [[Key Rates O1s Durations and Hedging|duration]] sensitivities
+    # Compute scenario IR 01 and [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) sensitivities
     Price_base = ibm_model_prices[i]
     Ir 01 = (price_1 bp_down - price_base) * 1 e 4 / 100
-    [[Key Rates O1s Durations and Hedging|Duration]] = ir 01 / dirty_price_base * 100
+    [Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) = ir 01 / dirty_price_base * 100
 
     Ibm_scen_IR 01. Append (ir 01)
-    Ibm_scen_duration.Append ([[Key Rates O1s Durations and Hedging|duration]])
+    Ibm_scen_duration.Append ([duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md))
 # Display relevant metrics
 Ibm_df['scen_IR 01'] = ibm_scen_IR 01
 Ibm_df['scen_duration'] = ibm_scen_duration
 
-display (ibm_df [['security',                    'scen_IR01',                    'scen_duration']])
+display (ibm_df ['security',                    'scen_IR01',                    'scen_duration']('security',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'scen_IR01',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'scen_duration'))
 ```
 <div>
 <style scoped>
@@ -8589,9 +8589,9 @@ For i in range (0,                    3):
     Fixed_rate_bond.SetPricingEngine (risky_bond_engine)    
     Dirty_price_base = fixed_rate_bond.DirtyPrice ()
     
-    # Compute analytical [[Key Rates O1s Durations and Hedging|duration]] and DV 01
+    # Compute analytical [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) and DV 01
     Bond_yield_rate = ql.InterestRate (ibm_model_yields[i]/100,                    ql.ActualActual (ql. ActualActual. ISMA),                    ql. Compounded,                    ql. Semiannual)
-    Analytic_duration = ql.BondFunctions.[[Key Rates O1s Durations and Hedging|Duration]] (fixed_rate_bond,                    bond_yield_rate)
+    Analytic_duration = ql.BondFunctions.[Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) (fixed_rate_bond,                    bond_yield_rate)
     Analytic_DV 01 = analytic_duration * dirty_price_base /100 
 
     Ibm_analytic_durations.Append (analytic_duration)
@@ -8600,7 +8600,7 @@ For i in range (0,                    3):
 Ibm_df['analytic_DV 01'] = ibm_analytic_DV 01 s
 Ibm_df['analytic_duration'] = ibm_analytic_durations
 
-display (ibm_df [['security',                    'analytic_DV01',                    'analytic_duration']])
+display (ibm_df ['security',                    'analytic_DV01',                    'analytic_duration']('security',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'analytic_DV01',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'analytic_duration'))
 ```
 <div>
 <style scoped>
@@ -8655,7 +8655,7 @@ display (ibm_df [['security',                    'analytic_DV01',               
 </div>
 ```python
 # Compare the analytical DV 01 s vs. The scenario IR 01 s. Are they expected to be similar?
-display (ibm_df [['security',                    'scen_IR01',                    'analytic_DV01']])```
+display (ibm_df ['security',                    'scen_IR01',                    'analytic_DV01']('security',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'scen_IR01',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'analytic_DV01'))```
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -8743,10 +8743,10 @@ For i in range (0,                    3):
     Fixed_rate_bond = ibm_bond_objects[i]     
     Price_base = ibm_model_prices[i]   
     
-    # set scenario [[Arbitrage Pricing of Derivatives|pricing]] engine
+    # set scenario [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) engine
     Fixed_rate_bond.SetPricingEngine (risky_bond_engine_cds_1 bp_down)
     
-    # calc [[Cds-Equivalent Bond Spread|credit spread]] scenario price
+    # calc [credit spread](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md) scenario price
     Price_cds_1 bp_down = fixed_rate_bond.CleanPrice ()
 
     # calc price diff
@@ -8757,7 +8757,7 @@ For i in range (0,                    3):
 Ibm_df['CS 01'] = ibm_model_cs 01
 
 # Compare the scenario CS 01 s vs analytic DV 01 s. Are they expected to be similar?
-display (ibm_df [['security',                    'scen_IR01',                    'analytic_DV01',                    'CS01']])
+display (ibm_df ['security',                    'scen_IR01',                    'analytic_DV01',                    'CS01']('security',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'scen_IR01',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'analytic_DV01',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'CS01'))
 ```
 <div>
 <style scoped>
@@ -8837,7 +8837,7 @@ For i in range (0,                    3):
     Fixed_rate_bond = ibm_bond_objects[i]
     Price_base = ibm_model_prices[i]    
     
-    # set scenario [[Arbitrage Pricing of Derivatives|pricing]] engine
+    # set scenario [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) engine
     Fixed_rate_bond.SetPricingEngine (risky_bond_engine_rec_1 pct_up)
     
     # calc price diff
@@ -8848,7 +8848,7 @@ For i in range (0,                    3):
 
 # Display relevant metrics
 Ibm_df['REC 01'] = ibm_model_rec 01
-print (ibm_df [['security',                    'REC01']])
+print (ibm_df ['security',                    'REC01']('security',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'REC01'))
 ```
 
                             Security     REC 01
@@ -9299,7 +9299,7 @@ Def create_bonds_and_weights (bond_details,                    tsy_yield_curve_h
         Bond_price = row['midPrice']                
         Bond_yield = fixed_rate_bond.BondYield (bond_price,                    ql. Thirty 360 (ql. Thirty 360. USA),                    ql. Compounded,                    ql. Semiannual) * 100
         Bond_yield_rate = ql.InterestRate (bond_yield/100,                    ql.ActualActual (ql. ActualActual. ISMA),                    ql. Compounded,                    ql. Semiannual)
-        Bond_duration = ql.BondFunctions.[[Key Rates O1s Durations and Hedging|Duration]] (fixed_rate_bond,                    bond_yield_rate)
+        Bond_duration = ql.BondFunctions.[Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) (fixed_rate_bond,                    bond_yield_rate)
         Bond_DV 01   = fixed_rate_bond.DirtyPrice () * bond_duration
         
         Bond_market_prices.Append (bond_price)
@@ -9323,14 +9323,14 @@ Initial_nelson_siegel_params = [0.03,                    -0.01,                 
 Print ('initial_nelson_siegel_params: ',                    initial_nelson_siegel_params)
 
 Fixed_rate_bond_objects,                    calib_weights,                    bond_market_prices,                    bond_yields,                    bond_DV 01 s,                    bond_durations = create_bonds_and_weights (vz_df,                    tsy_yield_curve_handle)
-Vz_df['[[Key Rates O1s Durations and Hedging|duration]]'] = bond_durations
+Vz_df['[duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)'] = bond_durations
 Vz_df['calib_weight'] = calib_weights
 
 Init_bond_model_prices,                    init_bond_model_yields = calculate_nelson_siegel_model_prices_and_yields (initial_nelson_siegel_params,                    calc_date,                    fixed_rate_bond_objects,                    tsy_yield_curve_handle,                    bond_recovery_rate)
 Vz_df['initModelPrice'] = init_bond_model_prices
 Vz_df['initModelYield'] = init_bond_model_yields
 
-display (vz_df [['security',                    'midPrice',                    'initModelPrice',                    'calib_weight']]. head ())
+display (vz_df ['security',                    'midPrice',                    'initModelPrice',                    'calib_weight']('security',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'midPrice',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'initModelPrice',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'calib_weight'). head ())
 
 # Initial_sse
 Initial_sse = nelson_siegel_sse (initial_nelson_siegel_params,                    calc_date,                    fixed_rate_bond_objects,                    bond_market_prices,                    calib_weights,                    tsy_yield_curve_handle,                    bond_recovery_rate)
@@ -9420,7 +9420,7 @@ Def calibrate_nelson_siegel_model (initial_nelson_siegel_params,
     # create_bonds_and_weights
     Fixed_rate_bond_objects,                    calib_weights,                    bond_market_prices,                    bond_yields,                    bond_DV 01 s,                    bond_durations = create_bonds_and_weights (bond_details,                    tsy_yield_curve_handle)
     
-    # start [[Credit Markets Session 4|calibration]]
+    # start [calibration](../Credit%20Markets%20Session%204.md)
     Param_bounds = [(1 e-3,                    0.1),                    (-0.1,                    0.1),                    (-0.1,                    0.1),                    (1 e-3,                    10)]
             
     Calib_results = minimize (nelson_siegel_sse,                   
@@ -9479,8 +9479,8 @@ Vz_df['modelYield'] = bond_model_yields
 Vz_df['edgePrice'] = vz_df['modelPrice'] - vz_df['midPrice']
 Vz_df['edgeYield'] = vz_df['modelYield'] - vz_df['midYield']
 
-display (vz_df [['security',                    'midPrice',                   'initModelPrice',                    'modelPrice',                    'edgePrice']]. head ())
-display (vz_df [['security',                    'midYield',                   'initModelYield',                    'modelYield',                    'edgeYield']]. head ())```
+display (vz_df ['security',                    'midPrice',                   'initModelPrice',                    'modelPrice',                    'edgePrice']('security',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'midPrice',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'initModelPrice',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'modelPrice',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'edgePrice'). head ())
+display (vz_df ['security',                    'midYield',                   'initModelYield',                    'modelYield',                    'edgeYield']('security',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'midYield',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'initModelYield',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'modelYield',%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20'edgeYield'). head ())```
 <div>
 <style scoped>
     .dataframe tbody tr th: only-of-type {
@@ -9630,7 +9630,7 @@ Plot the edges in yield space (Y-axis) by maturity (X-axis).
 What do you think about the quality of the model fit?
 ```python
 # Plot the model vs market prices (Y-axis) by maturity (X-axis).
-Plt = vz_df.Plot (x='maturity',                    y = ['midPrice',                    'modelPrice'],                    figsize = (12,                    6),                    title = "Market vs [[Credit Markets Session 4|Model Prices]]",                    grid=True,                    style='*')
+Plt = vz_df.Plot (x='maturity',                    y = ['midPrice',                    'modelPrice'],                    figsize = (12,                    6),                    title = "Market vs [Model Prices](../Credit%20Markets%20Session%204.md)",                    grid=True,                    style='*')
 Plt. Set_ylabel ('Bond Prices (pct)')
 Plt. Set_xlabel ('Bond Maturity')
 ```
@@ -9654,4 +9654,4 @@ Plt. Set_xlabel ('Bond Maturity')
     Text (0.5,                    0,                    'Bond Maturity')
 ![png](CreditMarketSolutions_291_1.png)
 ### What do you think about the quality of the model fit?
-Model fit looks good,                    given that fact that we are matching closely the market prices of 40 VZ bonds with only 4 [[Advanced Usage of QuantLib analytics library|Nelson-Siegel model]] parameters.
+Model fit looks good,                    given that fact that we are matching closely the market prices of 40 VZ bonds with only 4 [Nelson-Siegel model](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) parameters.

@@ -1,9 +1,9 @@
 %% Begin Waypoint %%
-- **[[Chapter 8 - Structured Finance]]**
-	- [[A Simple Classification of Structured Notes]]
-	- [[Chapter 8 - Structured Finance]]
-	- [[Interest Rate and Yield Curve-Based Structured]]
-	- [[Structured Finance 203]]
+- **[Chapter 8 - Structured Finance](.md)**
+	- [A Simple Classification of Structured Notes](A%20Simple%20Classification%20of%20Structured%20Notes.md)
+	- [Chapter 8 - Structured Finance](.md)
+	- [Interest Rate and Yield Curve-Based Structured](Interest%20Rate%20and%20Yield%20Curve-Based%20Structured.md)
+	- [Structured Finance 203](Structured%20Finance%20203.md)
 
 %% End Waypoint %%
 

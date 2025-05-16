@@ -48,7 +48,7 @@ key_concepts:
  ![500](f8bf5429c361fe9ed1663f3c37a9a0c1.png)
 
 ## IFRS ADOPTION WORLDWIDE
-- - [[Lecture Notes on International Finance|International Financial]] Reporting Standards (IFRS) has become the de‐facto global reporting language
+- - [International Financial](../../../International%20Finance/Lecture%20Notes%20on%20International%20Finance.md) Reporting Standards (IFRS) has become the de‐facto global reporting language
 	- Has eliminated many accounting differences
  - US GAAP and IFRS are the key differences to worry about
 	- Key differences between IFRS and US GAAP are likely to persist for the foreseeable future
@@ -73,7 +73,7 @@ key_concepts:
 ## CREDIT SUISSE HOLT APPROACH: OPERATING RETURNS (CFROI)
 
  ![500](a314217da104e48bc0cecf84c83fbb04.png)
-CFROI is defined as the average economic return on all of a company's [[An Asset Allocation Primer|investment]] projects in a given year. It is a multi‐year concept,  close to the IRR of the existing projects
+CFROI is defined as the average economic return on all of a company's [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) projects in a given year. It is a multi‐year concept,  close to the IRR of the existing projects
 
 ## ACCOUNTING DIFFERENCES AND VALUATION
  - Accounting differences should not matter for valuation
@@ -101,7 +101,7 @@ CFROI is defined as the average economic return on all of a company'
 ## INFORMATION QUALITY AND ACCOUNTING SHENANIGANS
  - Firms "manage" their numbers
 	- Earnings
-	- [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] or equity
+	- [Leverage](../../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) or equity
 	- Other performance metrics (e.g.,  KPIs)
  - Techniques or practices
 	- Earnings management around benchmarks and targets (e.g.,  analyst forecasts)
@@ -161,7 +161,7 @@ prepared in accordance with IFRSs **as adopted by the EU**"
  - UNEVEN IMPLEMENTATION
 	 - LOCAL ECONOMIC CONDITIONS AND POLITICAL FORCES MATTER FOR IMPLEMENTATION
 	 - EUROPEAN COMMISSION TRACKS IMPLEMENTATION
-		- "Italy has the worst record of all European Union member states when it comes to implementing the laws that underpin the EU's internal market,  according to data released by the European Commission yesterday. … The worst performers apart from Italy are Luxembourg,  [[PSET 3 Solution-Financial Instruments|Greece]],  the Czech Republic and Portugal." - (FT,  July 19,  2005) 
+		- "Italy has the worst record of all European Union member states when it comes to implementing the laws that underpin the EU's internal market,  according to data released by the European Commission yesterday. … The worst performers apart from Italy are Luxembourg,  [Greece](../../../Financial%20Instruments/Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md),  the Czech Republic and Portugal." - (FT,  July 19,  2005) 
 - UNEVEN ENFORCEMENT
 
 ## KEY TAKE‐AWAYS
@@ -242,7 +242,7 @@ But why stop there?
 ## WEWORK: "COMMUNITY ADJUSTED EBITDA"
 
  ![500](d383287c544e32b05ed4d3af1f3451a8.png)
-WeWork devised "Community Adjusted EBITDA" to measure [[[[BMW Valuation|Operating Income]] vs. Net Income What's the Difference|Net Income]] before not only interest,  taxes,  depreciation,  and amortization,  but also "building and community‐level operating expenses, " a category that includes rent and tenancy expenses,  utilities,  internet,  the salaries of building staff,  and the cost of building amenities (which WeWork described as "our largest category of expenses").
+WeWork devised "Community Adjusted EBITDA" to measure [Operating Income]([[BMW%20Valuation) vs. Net Income What's the Difference|Net Income]] before not only interest,  taxes,  depreciation,  and amortization,  but also "building and community‐level operating expenses, " a category that includes rent and tenancy expenses,  utilities,  internet,  the salaries of building staff,  and the cost of building amenities (which WeWork described as "our largest category of expenses").
 
 ## COMMON PRACTICE
  - More than 90% of S&P500 firms use non‐GAAP metrics between 2015‐2017
@@ -265,7 +265,7 @@ WeWork devised "Community Adjusted EBITDA" to measure [[[[BMW Valuation|Operatin
  - Asset write‐downs and impairments
  - M&A and divestitures
  - Depreciation and amortization
-	- Amortization of [[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill#[[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill|INTANGIBLE AMORTIZATION]] AND NON‐GAAP REPORTING|intangibles]] 
+	- Amortization of [](../Week%205/Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill.md#[[Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill|INTANGIBLE%20AMORTIZATION) AND NON‐GAAP REPORTING|intangibles]] 
  - Goodwill (especially impairments)
  - R&D
  - Compensation expenses,  in particular stock‐based compensation
@@ -302,7 +302,7 @@ Operating CF = net income + depreciation & other non‐cash charges �
  - Compare FCF and "Operating cash flow" (which is constructed like a FCF)
 
 ## WHICH VIEW DOES THE EVIDENCE SUPPORT?
- - Evidence that non‐GAAP earnings often have higher relevance for [[Week 2 Fundamentals Of Forecasting|forecasting]] than GAAP earnings
+ - Evidence that non‐GAAP earnings often have higher relevance for [forecasting](../Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) than GAAP earnings
  - Makes sense:
 	- Stripping out one‐time charges should be useful
 	- Most companies intend to inform investors,  i.e.,  help them understand their numbers
@@ -325,7 +325,7 @@ Operating CF = net income + depreciation & other non‐cash charges �
 	- If they are misleading,  other prohibitions may apply
  - SEC basically recognizes the tradeoff between:
 	- Helping investors understand the business and forecast earnings
-	- Shenanigans targeted at investors' impressions,  interpretations and [[FORWARD RATES AND TERM STRUCTURE|expectations]]
+	- Shenanigans targeted at investors' impressions,  interpretations and [expectations](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md)
 
 # DROPBOX: INVESTOR PRESENTATION HIGHLIGHTS NON‐GAAP
 
@@ -475,18 +475,18 @@ traditional UC market + combined education and UC market
  - Long‐run is what matters for firm value
 	- A couple years of high profits won't move the dial
 	- Think about moats,  but connect it with economic profit & value creation in TV
-	- [[Week 2 Fundamentals Of Forecasting|Forecasting]] the next couple years is meant to help you build an expectation for the long run NOPAT or FCF
+	- [Forecasting](../Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) the next couple years is meant to help you build an expectation for the long run NOPAT or FCF
 
 ## CORE THEMES OF THE CLASS
 
  - Multiples require comparability and are anything but simple
 	- Do not get you away from challenges in DCF
- - Valuation is a not about a "single" number,  but understanding risks,  [[Exotic Interest Rate Options|ranges]] of outcomes and interdependencies
+ - Valuation is a not about a "single" number,  but understanding risks,  [ranges](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) of outcomes and interdependencies
 - `Scenario analysis,  reverse engineering,  etc.
  - Accounting numbers and how they are generated matter a great deal
 	- Shape your views of economics and value creation
-	- Form the basis of and influence your [[FORWARD RATES AND TERM STRUCTURE|expectations]]
- - Companies engage in shenanigans to influence impressions & [[FORWARD RATES AND TERM STRUCTURE|expectations]]
+	- Form the basis of and influence your [expectations](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md)
+ - Companies engage in shenanigans to influence impressions & [expectations](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md)
 	- Legal institutions and corporate governance play a key role
  - Accounting differences arise not just across countries,  but also across companies within a country (e.g.,  non‐GAAP)
 

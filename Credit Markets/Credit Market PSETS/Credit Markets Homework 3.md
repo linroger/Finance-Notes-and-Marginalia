@@ -29,7 +29,7 @@ key_concepts:
 This homework relies on:
 
 - The SOFR Is symbology file `sofr_swap_symbology`,
-- The [[Advanced Usage of QuantLib analytics library|SOFR swaps]] market data file `sofr_swaps_market_data_eod` and
+- The [SOFR swaps](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) market data file `sofr_swaps_market_data_eod` and
 - The CDS spreads market data file `cds_market_data_eod`.
 
 -----------------------------------------------------------
@@ -97,7 +97,7 @@ Def create_bond_from_symbology (details: dict):
     
      # Create day_count from details['dcc']
      # For US Treasuries use ql.ActualActual (ql. ActualActual. ISMA)
-     # For US [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] use ql. Thirty 360 (ql. Thirty 360. USA)
+     # For US [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) use ql. Thirty 360 (ql. Thirty 360. USA)
     
     If details['class'] == 'Corp':
         Day_count = ql. Thirty 360 (ql. Thirty 360. USA)
@@ -216,7 +216,7 @@ Def calibrate_sofr_curve_from_frame (
     # settle_days
     Settle_days = 2
     
-    # For US SOFR [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]] Swaps 
+    # For US SOFR [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS) Swaps 
     Day_count = ql. Actual 360 ()
 
     # For US SOFR Swaps     
@@ -339,7 +339,7 @@ Print (test_fixed_rate_bond_cashflows_df)
 
 ## b. Compute the bond price,  DV 01,  duration and convexity (analytic method)
 
-Assume that the market yield of the bond is 6%. Compute the bond price,  DV 01,  [[An Analytical Decomposition of Forward Rates|duration and convexity]],  using the analytic method.
+Assume that the market yield of the bond is 6%. Compute the bond price,  DV 01,  [duration and convexity](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%208/An%20Analytical%20Decomposition%20of%20Forward%20Rates.md),  using the analytic method.
 ```python
 # Test_bond_yield of 6%
 Test_bond_yield = 6
@@ -371,11 +371,11 @@ Print ('test_bond_convexity: ',           round (test_bond_convexity,           
 
 Compute the scenario bond prices on the following scenario yield grid: [from 1% to 11% in steps of 0.5%]
 
-Compute the second-order scenario price approximations using [[An Analytical Decomposition of Forward Rates|duration and convexity]] sensitivities (formula 13 from Lecture 1).
+Compute the second-order scenario price approximations using [duration and convexity](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%208/An%20Analytical%20Decomposition%20of%20Forward%20Rates.md) sensitivities (formula 13 from Lecture 1).
 
-Plot the scenario prices (Y-axis) vs yieds (X-axis),  for both the "re-[[Arbitrage Pricing of Derivatives|pricing]]" and "second-order approximations" method.
+Plot the scenario prices (Y-axis) vs yieds (X-axis),  for both the "re-[pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)" and "second-order approximations" method.
 
-Here we are using formula [13] from Lecture 1,  which gives us the second-order price approximation via [[Key Rates O1s Durations and Hedging|duration]]/[[PSET II Fixed Income Asset Pricing 1|convexity]] (second order Taylor expansion in yield parameter).
+Here we are using formula [13] from Lecture 1,  which gives us the second-order price approximation via [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)/[convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) (second order Taylor expansion in yield parameter).
 $$\begin{align}
 \Delta B (y) = B\left (y+\Delta y\right)-B\left (y\right)\approx B\cdot\left[D\cdot\Delta y+\frac{1}{2}\cdot\Gamma\cdot\left (\Delta y\right)^{2}\right]
 \end{align}$$
@@ -436,9 +436,9 @@ Compute and show the scenario bond price for a bond yield of 15% (extreme event 
 
 Compute and show the second-order scenario price approximation in the extreme event scenario.
 
-How accurate is the second-order scenario price approximations (using [[An Analytical Decomposition of Forward Rates|duration and convexity]] sensitivities)?
+How accurate is the second-order scenario price approximations (using [duration and convexity](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%208/An%20Analytical%20Decomposition%20of%20Forward%20Rates.md) sensitivities)?
 
-Compute and show the analytic DV 01,           [[An Analytical Decomposition of Forward Rates|duration and convexity]] in the extreme event scenario.```python
+Compute and show the analytic DV 01,           [duration and convexity](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%208/An%20Analytical%20Decomposition%20of%20Forward%20Rates.md) in the extreme event scenario.```python
 Extreme_event_bond_yield = 15
 Extreme_event_bond_clean_price = round (test_fixed_rate_bond.CleanPrice (extreme_event_bond_yield/100,           test_fixed_rate_bond.DayCounter (),           ql. Compounded,           ql. Semiannual),           3)
 Extreme_event_second_order_approx_price = round (test_bond_clean_price + calc_second_order_price_change (test_bond_dirty_price,           (extreme_event_bond_yield - test_bond_yield) / 100,           test_bond_duration,           test_bond_convexity),           2) 
@@ -476,7 +476,7 @@ Display (bond_pv_eq)
 ```
 
     Analytic formula for bond_pv: (1 - exp (-T*y))*(c/(2*(exp (y/2) - 1)) - 1) + 1$\displaystyle \left (1 - e^{T y}\right) \left (\frac{c}{2 \left (e^{\frac{y}{2}} - 1\right)} - 1\right) + 1$
-We start with the formula for [[Arbitrage Pricing of Derivatives|pricing]] a risky fixed rate bond on a face of 100%,           derived in Lecture 1,           formulas [4] and [5].
+We start with the formula for [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) a risky fixed rate bond on a face of 100%,           derived in Lecture 1,           formulas [4] and [5].
 $$\begin{align}
 B_{0}^{T}=B (0,           c,           T,           y)=\sum_{k=1}^{2 T}\frac{c}{2}\cdot e^{-k\cdot\frac{y}{2}}+e^{-T\cdot y}
 \end{align}$$
@@ -489,7 +489,7 @@ $$\begin{align}
 
 Remember that the the semi-annual yield is given by:  $y_{sa} = 2 \cdot \left (e^{\frac{y}{2}}-1 \right)$.
 
-In the case of the fixed rate perpetual bond,           the bond maturity and cashflows extend to "infinity",           so the [[Arbitrage Pricing of Derivatives|pricing]] formula simplifies in terms of $y_{sa}$ to
+In the case of the fixed rate perpetual bond,           the bond maturity and cashflows extend to "infinity",           so the [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formula simplifies in terms of $y_{sa}$ to
 $$\begin{align}
 B_{0}^{\infty}=B (0,           c,          \infty,           y)=\sum_{k=1}^{\infty}\frac{c}{2}\cdot e^{-k\cdot\frac{y}{2}} =  \frac{c}{2 \cdot \left (e^{\frac{y}{2}}-1 \right)}=\frac{c}{y_{sa}},          
 \end{align}$$
@@ -504,7 +504,7 @@ B_{0}^{\infty}(100)=100 \iff y=2\cdot \ln \left ( 1 + \frac{c}{2} \right) \iff y
 Hence,           the perpetual bond trades "at par" if the smi-annual yield $y_{sa}$ matches the semi-annual coupon c (same result as for "regular" fixed rate bonds).
 
 ## c. Duration and DV 01 for a fixed rate perpetual bond
-Compute [[Key Rates O1s Durations and Hedging|Duration]] and DV 01 of the perpetual bond.```python
+Compute [Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) and DV 01 of the perpetual bond.```python
 # Define symbolic equations
 Perpetual_bond_price = c / (sp.Exp (y/2) - 1) / 2
 Print ('1. Perpetual bond price (with coupon c): ')
@@ -522,15 +522,15 @@ Display (perpetual_bond_duration)
 
     1. Perpetual bond price (with coupon c):$\displaystyle \frac{c}{2 \left (e^{\frac{y}{2}} - 1\right)}$
     2. Perpetual bond DV 01:$\displaystyle \frac{c e^{\frac{y}{2}}}{4 \left (e^{\frac{y}{2}} - 1\right)^{2}}$
-    3. Perpetual bond [[Key Rates O1s Durations and Hedging|duration]]:$\displaystyle \frac{e^{\frac{y}{2}}}{2 e^{\frac{y}{2}} - 2}$
-Hence,           PV 01 and [[Key Rates O1s Durations and Hedging|duration]] of a fixed rate perpetual bond are given by
+    3. Perpetual bond [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md):$\displaystyle \frac{e^{\frac{y}{2}}}{2 e^{\frac{y}{2}} - 2}$
+Hence,           PV 01 and [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of a fixed rate perpetual bond are given by
 $$\begin{align}
 PV 01 = -\frac{\partial B}{\partial y} = -\frac{\partial}{\partial y}\left[\frac{c}{2 \cdot \left ( e^{\frac{y}{2}}-1 \right) }\right]=\frac{c \cdot e^{\frac{y}{2}}}{4 \cdot \left ( e^{\frac{y}{2}} - 1 \right)^2} = \frac{c \cdot \left ( 1 + \frac{y_{sa}}{2} \right) }{y_{sa}^2}
 \end{align}$$$$\begin{align}
 D = -\frac{1}{B} \cdot \frac{\partial B}{\partial y} = \frac{e^{\frac{y}{2}}}{2 \cdot \left ( e^{\frac{y}{2}} - 1 \right)} = \frac{1 + \frac{y_{sa}}{2} }{y_{sa}}.
 \end{align}$$
 ## d. Convexity of a fixed rate perpetual bond
-Compute the [[PSET II Fixed Income Asset Pricing 1|convexity]] of the perpetual bond.```python
+Compute the [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) of the perpetual bond.```python
 Second_order_derivative = sp.Simplify (first_order_derivative.Diff (y))
 Print ('Second order derivative: ')
 Display (second_order_derivative)
@@ -542,8 +542,8 @@ Display (perpetual_bond_convexity)
 ```
 
     Second order derivative:$\displaystyle - \frac{c \left (\left (e^{\frac{y}{2}} - 1\right) e^{\frac{y}{2}} - 2 e^{y}\right)}{8 \left (e^{\frac{y}{2}} - 1\right)^{3}}$
-    Perpetual bond [[PSET II Fixed Income Asset Pricing 1|convexity]]:$\displaystyle \frac{\left (1 + e^{- \frac{y}{2}}\right) e^{y}}{4 \left (2 e^{\frac{y}{2}} + e^{y} + 1\right)}$
-Hence,           second order derivative and [[PSET II Fixed Income Asset Pricing 1|convexity]] $\Gamma$ of the fixed rate perpetual bond are given by
+    Perpetual bond [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md):$\displaystyle \frac{\left (1 + e^{- \frac{y}{2}}\right) e^{y}}{4 \left (2 e^{\frac{y}{2}} + e^{y} + 1\right)}$
+Hence,           second order derivative and [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) $\Gamma$ of the fixed rate perpetual bond are given by
 $$\begin{align}
 \frac{\partial^{2} B}{\partial y^{2}} = \frac{\partial^{2}}{\partial y^{2}}\left[\frac{\frac{c}{2}}{e^{\frac{y}{2}}-1}\right] = \frac{\partial}{\partial y}\left[\frac{c \cdot e^{\frac{y}{2}}}{4 \cdot \left ( e^{\frac{y}{2}} - 1 \right)^2} \right] = \frac{c \cdot e^{\frac{y}{2}} \cdot \left (e^{\frac{y}{2}} + 1 \right)}{8 \cdot \left ( e^{\frac{y}{2}} - 1 \right)^3}  = \frac{c \cdot \left ( 1 + \frac{y_{sa}}{2} \right) \cdot \left ( 2 + \frac{y_{sa}}{2} \right)}{y_{sa}^3}
 \end{align}$$
@@ -552,7 +552,7 @@ $$\begin{align}
 \end{align}$$
 -----------------------------------------------------------
 # Problem 3: US SOFR swap curve calibration as of 2024-04-15
-### Follow Section "1. SOFR [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]] swap rates and SOFR discount curve calibration + validation" in the QuantLib Advanced notebook !
+### Follow Section "1. SOFR [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS) swap rates and SOFR discount curve calibration + validation" in the QuantLib Advanced notebook !
 
 ## a. Load and explore US SOFR swaps symbology and market data
 
@@ -606,7 +606,7 @@ Plt. Set_xlabel ('Date')
       <th>dcc</th>
       <th>exchange</th>
       <th>country</th>
-      <th>[[Forwards and Futures Notes|currency]]</th>
+      <th>[currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)</th>
       <th>status</th>
     </tr>
     <tr>
@@ -630,7 +630,7 @@ Plt. Set_xlabel ('Date')
       <td>USOSFR 1</td>
       <td>Curncy</td>
       <td>USOSFR 1 Curncy</td>
-      <td>USD [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#Overnight Index Swaps [[Overview of Financial Markets|Overview]]|OIS]]  ANN VS SOFR 1 Y</td>
+      <td>USD [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Overnight Index Swaps [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|OIS]]  ANN VS SOFR 1 Y</td>
       <td>1</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -644,7 +644,7 @@ Plt. Set_xlabel ('Date')
       <td>USOSFR 2</td>
       <td>Curncy</td>
       <td>USOSFR 2 Curncy</td>
-      <td>USD [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#Overnight Index Swaps [[Overview of Financial Markets|Overview]]|OIS]]  ANN VS SOFR 2 Y</td>
+      <td>USD [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Overnight Index Swaps [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|OIS]]  ANN VS SOFR 2 Y</td>
       <td>2</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -658,7 +658,7 @@ Plt. Set_xlabel ('Date')
       <td>USOSFR 3</td>
       <td>Curncy</td>
       <td>USOSFR 3 Curncy</td>
-      <td>USD [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#Overnight Index Swaps [[Overview of Financial Markets|Overview]]|OIS]]  ANN VS SOFR 3 Y</td>
+      <td>USD [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Overnight Index Swaps [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|OIS]]  ANN VS SOFR 3 Y</td>
       <td>3</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -672,7 +672,7 @@ Plt. Set_xlabel ('Date')
       <td>USOSFR 5</td>
       <td>Curncy</td>
       <td>USOSFR 5 Curncy</td>
-      <td>USD [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#Overnight Index Swaps [[Overview of Financial Markets|Overview]]|OIS]]  ANN VS SOFR 5 Y</td>
+      <td>USD [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Overnight Index Swaps [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|OIS]]  ANN VS SOFR 5 Y</td>
       <td>5</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -686,7 +686,7 @@ Plt. Set_xlabel ('Date')
       <td>USOSFR 7</td>
       <td>Curncy</td>
       <td>USOSFR 7 Curncy</td>
-      <td>USD [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#Overnight Index Swaps [[Overview of Financial Markets|Overview]]|OIS]]  ANN VS SOFR 7 Y</td>
+      <td>USD [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Overnight Index Swaps [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|OIS]]  ANN VS SOFR 7 Y</td>
       <td>7</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -700,7 +700,7 @@ Plt. Set_xlabel ('Date')
       <td>USOSFR 10</td>
       <td>Curncy</td>
       <td>USOSFR 10 Curncy</td>
-      <td>USD [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#Overnight Index Swaps [[Overview of Financial Markets|Overview]]|OIS]]  ANN VS SOFR 10 Y</td>
+      <td>USD [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Overnight Index Swaps [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|OIS]]  ANN VS SOFR 10 Y</td>
       <td>10</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -714,7 +714,7 @@ Plt. Set_xlabel ('Date')
       <td>USOSFR 20</td>
       <td>Curncy</td>
       <td>USOSFR 20 Curncy</td>
-      <td>USD [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#Overnight Index Swaps [[Overview of Financial Markets|Overview]]|OIS]]  ANN VS SOFR 20 Y</td>
+      <td>USD [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Overnight Index Swaps [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|OIS]]  ANN VS SOFR 20 Y</td>
       <td>20</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -728,7 +728,7 @@ Plt. Set_xlabel ('Date')
       <td>USOSFR 30</td>
       <td>Curncy</td>
       <td>USOSFR 30 Curncy</td>
-      <td>USD [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#Overnight Index Swaps [[Overview of Financial Markets|Overview]]|OIS]]  ANN VS SOFR 30 Y</td>
+      <td>USD [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Overnight Index Swaps [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|OIS]]  ANN VS SOFR 30 Y</td>
       <td>30</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -743,13 +743,13 @@ Plt. Set_xlabel ('Date')
     Text (0.5,           0,           'Date')
 ![png](CreditMarketSolutions_216_2.png)
 ## b. Calibrate the US SOFR yield curve (via bootstrapping)
-The function below shows how to calibrate a smooth yield/[[Credit Markets Session 3|discount factor curve]] from [[Advanced Usage of QuantLib analytics library|SOFR swaps]]. 
+The function below shows how to calibrate a smooth yield/[discount factor curve](../Credit%20Markets%20Session%203.md) from [SOFR swaps](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md). 
 
 Prepare a joint symbology & market dataframe quotes as of 2024-04-15. 
 
-Calibrate the SOFR [[Credit Markets Session 3|discount factor curve]] as of 2024-04-15.
+Calibrate the SOFR [discount factor curve](../Credit%20Markets%20Session%203.md) as of 2024-04-15.
 
-Follow section 1 b in the [[Advanced Usage of QuantLib analytics library|QuantLib Advanced]] notebook.```python
+Follow section 1 b in the [QuantLib Advanced](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) notebook.```python
 Def calibrate_sofr_curve_from_frame (
         Calc_date: ql. Date,          
         Sofr_details: pd. DataFrame,          
@@ -764,7 +764,7 @@ Def calibrate_sofr_curve_from_frame (
     # settle_days
     Settle_days = 2
     
-    # For US SOFR [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]] Swaps 
+    # For US SOFR [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS) Swaps 
     Day_count = ql. Actual 360 ()
 
     # For US SOFR Swaps     
@@ -824,7 +824,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <th>dcc</th>
       <th>exchange</th>
       <th>country</th>
-      <th>[[Forwards and Futures Notes|currency]]</th>
+      <th>[currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)</th>
       <th>status</th>
       <th>date</th>
       <th>bidRate</th>
@@ -839,7 +839,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 1</td>
       <td>Curncy</td>
       <td>USOSFR 1 Curncy</td>
-      <td>USD [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#Overnight Index Swaps [[Overview of Financial Markets|Overview]]|OIS]]  ANN VS SOFR 1 Y</td>
+      <td>USD [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Overnight Index Swaps [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|OIS]]  ANN VS SOFR 1 Y</td>
       <td>1</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -858,7 +858,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 2</td>
       <td>Curncy</td>
       <td>USOSFR 2 Curncy</td>
-      <td>USD [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#Overnight Index Swaps [[Overview of Financial Markets|Overview]]|OIS]]  ANN VS SOFR 2 Y</td>
+      <td>USD [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Overnight Index Swaps [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|OIS]]  ANN VS SOFR 2 Y</td>
       <td>2</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -877,7 +877,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 3</td>
       <td>Curncy</td>
       <td>USOSFR 3 Curncy</td>
-      <td>USD [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#Overnight Index Swaps [[Overview of Financial Markets|Overview]]|OIS]]  ANN VS SOFR 3 Y</td>
+      <td>USD [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Overnight Index Swaps [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|OIS]]  ANN VS SOFR 3 Y</td>
       <td>3</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -896,7 +896,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 5</td>
       <td>Curncy</td>
       <td>USOSFR 5 Curncy</td>
-      <td>USD [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#Overnight Index Swaps [[Overview of Financial Markets|Overview]]|OIS]]  ANN VS SOFR 5 Y</td>
+      <td>USD [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Overnight Index Swaps [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|OIS]]  ANN VS SOFR 5 Y</td>
       <td>5</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -915,7 +915,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
       <td>USOSFR 7</td>
       <td>Curncy</td>
       <td>USOSFR 7 Curncy</td>
-      <td>USD [[A Guide to the Front End and [[Basis Swaps|Basis Swap]] Markets#Overnight Index Swaps [[Overview of Financial Markets|Overview]]|OIS]]  ANN VS SOFR 7 Y</td>
+      <td>USD [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Overnight Index Swaps [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|OIS]]  ANN VS SOFR 7 Y</td>
       <td>7</td>
       <td>SWAP</td>
       <td>ACT/360</td>
@@ -933,7 +933,7 @@ Sofr_yield_curve_handle = ql.YieldTermStructureHandle (sofr_yield_curve)
 </div>
 ## c. Display the calibrated SOFR discount curve dataframe
 
-Follow section 1 d (in the [[Advanced Usage of QuantLib analytics library|QuantLib Advanced]] notebook) to display the [[Credit Markets Session 4|calibration]] details dataframe.```python
+Follow section 1 d (in the [QuantLib Advanced](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) notebook) to display the [calibration](../Credit%20Markets%20Session%204.md) details dataframe.```python
 # Display and plot SOFR yield curve
 Grid_dates = [sofr_yield_curve.ReferenceDate () + ql.Period (y,           ql. Years) for y in list (range (0,          30,          1))]
 Sofr_yield_curve_simple_df = get_yield_curve_details_df (sofr_yield_curve)                  # using calibration grid
@@ -1273,7 +1273,7 @@ Display (sofr_yield_curve_details_df)
 </div>
 ## d. Plot the calibrated US SOFR Zero Interest Rates and Discount Factor curves
 
-Plot the SOFR zero rates and [[Discount Factors|discount factor]] curves by maturity. Follow section 1 c in the [[Advanced Usage of QuantLib analytics library|QuantLib Advanced]] notebook.```python
+Plot the SOFR zero rates and [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) curves by maturity. Follow section 1 c in the [QuantLib Advanced](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) notebook.```python
 # Plot the SOFR yield curve
 Plt = sofr_yield_curve_details_df.Plot (x='Date',           y='ZeroRate',           grid=True,           style='*-',           title=f'SOFR Curve: Zero Rates as of {calc_date. To_date ()}',           figsize=(12,          4))
 Plt. Set_ylabel ('Zero Rate (%)')
@@ -1316,7 +1316,7 @@ Plt. Set_xlabel ('Date')
     3 2024-01-05    IBM  Intl Business Machs Corp  SNRFOR  Technology  N.Amer   
     4 2024-01-08    IBM  Intl Business Machs Corp  SNRFOR  Technology  N.Amer   
     
-      [[Forwards and Futures Notes|Currency]] doc_clause  running_coupon  cds_assumed_recovery  par_spread_1 y   
+      [Currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) doc_clause  running_coupon  cds_assumed_recovery  par_spread_1 y   
     0      USD       XR 14            0.01                   0.4        13.6831  \
     1      USD       XR 14            0.01                   0.4        14.2256   
     2      USD       XR 14            0.01                   0.4        13.8318   
@@ -1333,7 +1333,7 @@ Plt. Set_xlabel ('Date')
 ![png](png)
 ## b. Calibrate the IBM hazard rate curve as of 2024-04-15
 
-Follow section 2 a in the [[Advanced Usage of QuantLib analytics library|QuantLib Advanced]] notebook. Use the calibrated SOFR [[Advanced Usage of QuantLib analytics library|discount curve]] from Problem 3 b.```python
+Follow section 2 a in the [QuantLib Advanced](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) notebook. Use the calibrated SOFR [discount curve](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) from Problem 3 b.```python
 Def calibrate_cds_hazard_rate_curve (calc_date,           sofr_yield_curve_handle,           cds_par_spreads_bps,           cds_recovery_rate = 0.4):
     '''Calibrate hazard rate curve from CDS Par Spreads'''
     CDS_settle_days = 2
@@ -1398,7 +1398,7 @@ Print (hazard_rates_df)
     5  2031-06-20   7.291667     166.229764      0.934828
     6  2034-06-20  10.336111     164.376354      0.889198
 ## c. Plot the calibrated Hazard Rates and Survival Probability curves
-Follow section 2 b in the [[Advanced Usage of QuantLib analytics library|QuantLib Advanced]] notebook. Use the calibrated SOFR [[Advanced Usage of QuantLib analytics library|discount curve]] from Problem 3 b.```python
+Follow section 2 b in the [QuantLib Advanced](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) notebook. Use the calibrated SOFR [discount curve](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) from Problem 3 b.```python
 Plt = hazard_rates_df.Plot (x='Date',           y='HazardRateBps',           grid=True,           style='*-',           title=f'IBM Hazard Rates Curve as of {calc_date. To_date ()}',           figsize=(12,          4))
 Plt. Set_ylabel ('Hazard Rate (bps)')
 Plt. Set_xlabel ('Date')
@@ -1411,7 +1411,7 @@ Plt. Set_xlabel ('Date')
     Text (0.5,           0,           'Date')
 ![png](air/par spread and PV of a CDS 
 
-Follow section 2 c in the [[Advanced Usage of QuantLib analytics library|QuantLib Advanced]] notebook. Construct a CDS object with 100 bps coupon and 2029-06-20 maturity. Compute the fair/par spread and PV.```python
+Follow section 2 c in the [QuantLib Advanced](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) notebook. Construct a CDS object with 100 bps coupon and 2029-06-20 maturity. Compute the fair/par spread and PV.```python
 # CDS specs
 Side = ql. Protection. Seller
 
@@ -1447,5 +1447,5 @@ Print ('Survival Prob. To Maturity: ',           round (hazard_rate_curve.Surviv
     CDS fair/par spread: 37.172
     CDS PV: 2.9014
     CDS Premium Leg PV: 4.6179
-    [[The Default Correlation of the Reference Issuer|CDS Default]] Leg PV -1.7166
+    [CDS Default](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/The%20Default%20Correlation%20of%20the%20Reference%20Issuer.md) Leg PV -1.7166
     Survival Prob. To Maturity: 0.9669# Untitled

@@ -23,13 +23,13 @@ key_concepts:
 
 # Option Model Handbook, Part III European Option Pricing With QuantLib Python
 
-Demonstrates how to price European options using [[Valuing Callable Bonds Using QuantLib Python|QuantLib Python]]. Methods using [[Option Model Handbook, Part III European Option Pricing With QuantLib Python|Black-Scholes-Merton formula]] and [[Rate and Price Trees|binomial tree]] will be discussed.
+Demonstrates how to price European options using [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md). Methods using [Black-Scholes-Merton formula](.md) and [binomial tree](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) will be discussed.
 
-*Visit here for other [[[Valuing Callable Bonds Using QuantLib Python|QuantLib Python]] examples](http://gouthamanbalaraman.com/blog/[[Introduction to QuantLib Python|quantlib]]-python-tutorials-with-examples.html). If you found these posts useful,  please take a minute by providing some [feedback.](https://docs.google.com/forms/d/e/1FAIpQLSdFdJ768HKmIyJmaVRHBUJNY5NyQl6vr0GZvSkx-bUfIloNZA/viewform)*
+*Visit here for other [QuantLib Python]([Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python) examples](http://gouthamanbalaraman.com/blog/[quantlib](Introduction%20to%20QuantLib%20Python.md)-python-tutorials-with-examples.html). If you found these posts useful,  please take a minute by providing some [feedback.](https://docs.google.com/forms/d/e/1FAIpQLSdFdJ768HKmIyJmaVRHBUJNY5NyQl6vr0GZvSkx-bUfIloNZA/viewform)*
 
-I have written about option [[Arbitrage Pricing of Derivatives|pricing]] earlier. The [[[Squam Lake Group Introduction|introduction]] to option [[Arbitrage Pricing of Derivatives|pricing]]](http://gouthamanbalaraman.com/blog/option-model-handbook-part-I-[[Squam Lake Group Introduction|introduction]]-to-option-models.html) gave an [[Overview of Financial Markets|overview]] of the theory behind option [[Arbitrage Pricing of Derivatives|pricing]]. The post on [[[Squam Lake Group Introduction|introduction]] to [[A Real-Life Option Pricing Exercise|binomial]] trees](http://gouthamanbalaraman.com/blog/option-model-handbook-part-II-[[Squam Lake Group Introduction|introduction]]-to-[[A Real-Life Option Pricing Exercise|binomial]]-trees.html) outlined the [[Option Model Handbook, Part III European Option Pricing With QuantLib Python|binomial tree method]] to price options.
+I have written about option [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) earlier. The [introduction]([Squam%20Lake%20Group%20Introduction) to option [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)](http://gouthamanbalaraman.com/blog/option-model-handbook-part-I-[introduction](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md)-to-option-models.html) gave an [overview](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md) of the theory behind option [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). The post on [introduction]([Squam%20Lake%20Group%20Introduction) to [binomial](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) trees](http://gouthamanbalaraman.com/blog/option-model-handbook-part-II-[introduction](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md)-to-[binomial](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md)-trees.html) outlined the [binomial tree method](.md) to price options.
 
-In this post,  we will use [[Introduction to QuantLib Python|QuantLib]] and the Python extension to illustrate a very simple example. Here we are going to price a European option using the [[Option Model Handbook, Part III European Option Pricing With QuantLib Python|Black-Scholes-Merton formula]]. We will price them again using the [[Rate and Price Trees|Binomial tree]] and understand the agreement between the two.
+In this post,  we will use [QuantLib](Introduction%20to%20QuantLib%20Python.md) and the Python extension to illustrate a very simple example. Here we are going to price a European option using the [Black-Scholes-Merton formula](.md). We will price them again using the [Binomial tree](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) and understand the agreement between the two.
 
 In \[1\]:
 ```latex
@@ -38,7 +38,7 @@ import matplotlib.pyplot as plt
 %matplotlib inline
 ```
 
-Let us consider a European call option for AAPL with a [[Call and Put Payoffs at Expiry|strike price]] of \\$130 maturing on 15th Jan,  2016. Let the spot price be \\$127.62. The volatility of the underlying stock is know to be 20%,  and has a dividend yield of 1.63%. Lets value this option as of 8th May,  2015.
+Let us consider a European call option for AAPL with a [strike price](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) of \\$130 maturing on 15th Jan,  2016. Let the spot price be \\$127.62. The volatility of the underlying stock is know to be 20%,  and has a dividend yield of 1.63%. Lets value this option as of 8th May,  2015.
 
 In \[2\]:
 ```latex
@@ -68,7 +68,7 @@ exercise = ql.EuropeanExercise(maturity_date)
 european_option = ql.VanillaOption(payoff,  exercise)
 ```
 
-The [[Mathematical Modeling of Derivative Pricing|Black-Scholes]]-Merto process is constructed here.
+The [Black-Scholes](../../../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md)-Merto process is constructed here.
 
 In \[4\]:
 ```latex
@@ -102,7 +102,7 @@ print "The theoretical price is ",  bs_price
 The theoretical price is  6.74927181246
 ```
 
-Lets compute the price using the [[A Real-Life Option Pricing Exercise|binomial]]-tree approach.
+Lets compute the price using the [binomial](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md)-tree approach.
 
 In \[6\]:
 ```latex
@@ -115,7 +115,7 @@ steps = range(2,  100,  1)
 prices = [binomial_price(bsm_process,  step) for step in steps]
 ```
 
-In the plot below,  we show the convergence of [[A Real-Life Option Pricing Exercise|binomial]]-tree approach by comparing its price with the BSM price.
+In the plot below,  we show the convergence of [binomial](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md)-tree approach by comparing its price with the BSM price.
 
 In \[8\]:
 ```latex
@@ -136,16 +136,16 @@ Out\[8\]:
 
 ## Conclusion
 
-This post shows how to price European Options using the theoretical and [[A Real-Life Option Pricing Exercise|binomial]]-tree methods in [[Valuing Callable Bonds Using QuantLib Python|QuantLib Python]]. You can download the [ipython notebook on European option [[Arbitrage Pricing of Derivatives|pricing]] with [[Introduction to QuantLib Python|QuantLib]]](https://gouthamanbalaraman.com/extra/notebooks/european-option-models.ipynb).
+This post shows how to price European Options using the theoretical and [binomial](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md)-tree methods in [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md). You can download the [ipython notebook on European option [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) with [QuantLib](Introduction%20to%20QuantLib%20Python.md)](https://gouthamanbalaraman.com/extra/notebooks/european-option-models.ipynb).
 
-   [[[Introduction to QuantLib Python|quantlib]]](http://gouthamanbalaraman.com/tag/[[Introduction to QuantLib Python|quantlib]].html)   [python](http://gouthamanbalaraman.com/tag/python.html)   [finance](http://gouthamanbalaraman.com/tag/finance.html)   [option models](http://gouthamanbalaraman.com/tag/option-models.html)
+   [quantlib]([Introduction%20to%20QuantLib%20Python)](http://gouthamanbalaraman.com/tag/[quantlib](Introduction%20to%20QuantLib%20Python.md).html)   [python](http://gouthamanbalaraman.com/tag/python.html)   [finance](http://gouthamanbalaraman.com/tag/finance.html)   [option models](http://gouthamanbalaraman.com/tag/option-models.html)
 
 ---
 
 **Related Post**
 
-- [[[Valuing Callable Bonds Using QuantLib Python|QuantLib Python]] Tutorials With Examples](http://gouthamanbalaraman.com/blog/[[Introduction to QuantLib Python|quantlib]]-python-tutorials-with-examples.html)
-- [Modeling Vanilla Interest Rate Swaps Using [[Valuing Callable Bonds Using QuantLib Python|QuantLib Python]]](http://gouthamanbalaraman.com/blog/interest-rate-swap-[[Introduction to QuantLib Python|quantlib]]-python.html)
-- [On the Convergence of Hull White [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Monte Carlo]] Simulations](http://gouthamanbalaraman.com/blog/hull-white-simulation-monte-carlo-convergence.html)
-- [Valuing Options on [[Financial Instruments PSET Solutions|Commodity Futures]] Using [[Valuing Callable Bonds Using QuantLib Python|QuantLib Python]]](http://gouthamanbalaraman.com/blog/value-options-commodity-[[Futures Not Subject to Cash-And-Carry|futures]]-black-formula-[[Introduction to QuantLib Python|quantlib]]-python.html)
-- [Short [[An Overview of the Vasicek Short Rate Model|Interest Rate Model]] [[Credit Markets Session 4|Calibration]] in [[Valuing Callable Bonds Using QuantLib Python|QuantLib Python]]](http://gouthamanbalaraman.com/blog/short-interest-rate-model-[[Credit Markets Session 4|calibration]]-[[Introduction to QuantLib Python|quantlib]].html)
+- [QuantLib Python]([Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python) Tutorials With Examples](http://gouthamanbalaraman.com/blog/[quantlib](Introduction%20to%20QuantLib%20Python.md)-python-tutorials-with-examples.html)
+- [Modeling Vanilla Interest Rate Swaps Using [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md)](http://gouthamanbalaraman.com/blog/interest-rate-swap-[quantlib](Introduction%20to%20QuantLib%20Python.md)-python.html)
+- [On the Convergence of Hull White [Monte Carlo](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) Simulations](http://gouthamanbalaraman.com/blog/hull-white-simulation-monte-carlo-convergence.html)
+- [Valuing Options on [Commodity Futures](../../../Financial%20Instruments/Financial%20Instruments%20PSET%20Solutions.md) Using [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md)](http://gouthamanbalaraman.com/blog/value-options-commodity-[futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)-black-formula-[quantlib](Introduction%20to%20QuantLib%20Python.md)-python.html)
+- [Short [Interest Rate Model](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) [Calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md) in [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md)](http://gouthamanbalaraman.com/blog/short-interest-rate-model-[calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md)-[quantlib](Introduction%20to%20QuantLib%20Python.md).html)

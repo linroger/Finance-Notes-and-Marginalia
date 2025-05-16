@@ -1,13 +1,13 @@
 %% Begin Waypoint %%
-- **[[Chapter 2 - Spot Markets]]**
-	- [[Bonds and Annual Bond Math]]
-	- [[Chapter 2 - Spot Markets]]
-	- [[Equity Commodity and Currency Math]]
-	- [[Hedge Funds Alpha Beta and Strategy Indexes 287]]
-	- [[Interest Rate Risk Duration and Convexity]]
-	- [[Intra-Year Compounding and Day-Count]]
-	- [[Short Selling]]
-	- [[Term Structure of Interest Rates and the Discou]]
+- **[Chapter 2 - Spot Markets](.md)**
+	- [Bonds and Annual Bond Math](Bonds%20and%20Annual%20Bond%20Math.md)
+	- [Chapter 2 - Spot Markets](.md)
+	- [Equity Commodity and Currency Math](Equity%20Commodity%20and%20Currency%20Math.md)
+	- [Hedge Funds Alpha Beta and Strategy Indexes 287](Hedge%20Funds%20Alpha%20Beta%20and%20Strategy%20Indexes%20287.md)
+	- [Interest Rate Risk Duration and Convexity](Interest%20Rate%20Risk%20Duration%20and%20Convexity.md)
+	- [Intra-Year Compounding and Day-Count](Intra-Year%20Compounding%20and%20Day-Count.md)
+	- [Short Selling](Short%20Selling.md)
+	- [Term Structure of Interest Rates and the Discou](Term%20Structure%20of%20Interest%20Rates%20and%20the%20Discou.md)
 
 %% End Waypoint %%
 

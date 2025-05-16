@@ -20,25 +20,25 @@ key_concepts:
 
 # 6.2 The one-period framework  
 
-In the [[Properties of State-Price Deflators|one-period framework]] the individual consumes at time 0 (the beginning of the period) and at time 1 (the end of the period). We denote time 0 consumption by $c_{0}$ and the state-dependent. time 1 consumption by the random variable $c$ . The individual has some [[The One-Period Framework|initial wealth]] $e_{0}\geq0$ at time 0 and may receive a non-negative state-dependent endowment (income) at time 1 represented by the random variable. $e$ . The individual picks a [[An Asset Allocation Primer|portfolio]] $\pmb{\theta}$ at time 0 with a time 0 price of $\begin{array}{r}{P^{\theta}=\theta^{\top}P=\sum_{i=1}^{I}\theta_{i}P_{i}}\end{array}$ , assuming the [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|Law of One Price]], and a time 1 random dividend of $\begin{array}{r}{D^{\theta}=\theta^{\top}D=\sum_{i=1}^{I}\theta_{i}D_{i}}\end{array}$ . The [[The One-Period Framework|budget constraints]] are therefore  
+In the [one-period framework](../Chapter%204%20-%20State%20Prices/Properties%20of%20State-Price%20Deflators.md) the individual consumes at time 0 (the beginning of the period) and at time 1 (the end of the period). We denote time 0 consumption by $c_{0}$ and the state-dependent. time 1 consumption by the random variable $c$ . The individual has some [initial wealth](.md) $e_{0}\geq0$ at time 0 and may receive a non-negative state-dependent endowment (income) at time 1 represented by the random variable. $e$ . The individual picks a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $\pmb{\theta}$ at time 0 with a time 0 price of $\begin{array}{r}{P^{\theta}=\theta^{\top}P=\sum_{i=1}^{I}\theta_{i}P_{i}}\end{array}$ , assuming the [Law of One Price](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md), and a time 1 random dividend of $\begin{array}{r}{D^{\theta}=\theta^{\top}D=\sum_{i=1}^{I}\theta_{i}D_{i}}\end{array}$ . The [budget constraints](.md) are therefore  
 $$
 \begin{array}{r c l}{{}}&{{}}&{{c_{\omega}\leq e_{\omega}+D_{\omega}^{\theta}=e_{\omega}+\displaystyle\sum_{i=1}^{I}D_{i\omega}\theta_{i},~\mathrm{for~all}~\omega\in\Omega,}}\ {{}}&{{}}&{{}}\ {{\displaystyle c_{0}\leq e_{0}-P^{\theta}=e_{0}-\displaystyle\sum_{i=1}^{I}\theta_{i}P_{i}.}}\end{array}
 $$  
 
-The individual can choose the consumption plan and the [[An Asset Allocation Primer|portfolio]]. Since we will always assume that individuals prefer more consumption to less, it is clear that the [[The One-Period Framework|budget constraints]] will hold as equalities. Therefore we can think of the individual choosing only the [[An Asset Allocation Primer|portfolio]] and then the consumption plan follows from the [[The One-Period Framework|budget constraints]] above.  
+The individual can choose the consumption plan and the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). Since we will always assume that individuals prefer more consumption to less, it is clear that the [budget constraints](.md) will hold as equalities. Therefore we can think of the individual choosing only the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and then the consumption plan follows from the [budget constraints](.md) above.  
 
-Consumption has to be non-negative both at time 0 and in all states at time 1 so we should add such constraints when looking for the optimal strategy. However, we assume throughout that the individual has infinite marginal utility at zero consumption so that the non-negativity constraints are automatically satisfied and can be ignored. We assume that the preferences are concave so that first-order conditions provide the optimal choice. When solving the problem we will also assume that the individual acts as a price taker so that prices are unaffected by her [[An Asset Allocation Primer|portfolio]] choice. We assume that prices admit no [[Arbitrage Pricing of Derivatives|arbitrage]]. If there was an [[Arbitrage Pricing of Derivatives|arbitrage]], it would be possible to obtain infinite consumption. We do not impose any constraints on the portfolios the individual may choose among.  
+Consumption has to be non-negative both at time 0 and in all states at time 1 so we should add such constraints when looking for the optimal strategy. However, we assume throughout that the individual has infinite marginal utility at zero consumption so that the non-negativity constraints are automatically satisfied and can be ignored. We assume that the preferences are concave so that first-order conditions provide the optimal choice. When solving the problem we will also assume that the individual acts as a price taker so that prices are unaffected by her [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) choice. We assume that prices admit no [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). If there was an [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), it would be possible to obtain infinite consumption. We do not impose any constraints on the portfolios the individual may choose among.  
 
-The following subsections characterize the [[Theoretical Factors|optimal consumption plan]] for various [[Utility Indices|preference]] specifications.  
+The following subsections characterize the [optimal consumption plan](../Chapter%209%20-%20Factor%20Models/Theoretical%20Factors.md) for various [preference](../Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) specifications.  
 
 # 6.2.1 Time-additive expected utility  
 
-With [[General Multi-Period Link Between Consumption a|time-additive expected utility]] there is a "single-date' utility function $u:\mathbb{R}_{+}\to\mathbb{R}$ such that the objective of the individual is.  
+With [time-additive expected utility](../Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/General%20Multi-Period%20Link%20Between%20Consumption%20a.md) there is a "single-date' utility function $u:\mathbb{R}_{+}\to\mathbb{R}$ such that the objective of the individual is.  
 $$
 \operatorname*{max}_{\theta}u(c_{0})+\mathrm{E}\left[e^{-\delta}u(c)\right],
 $$  
 
-where $\delta$ is a [[Preferences for Multi-Date Consumption Plans|subjective time preference rate]]. Substituting in the [[The One-Period Framework|budget constraints]], we get  
+where $\delta$ is a [subjective time preference rate](../Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Preferences%20for%20Multi-Date%20Consumption%20Plans.md). Substituting in the [budget constraints](.md), we get  
 $$
 \operatorname*{max}_{\theta}u\left(e_{0}-\sum_{i=1}^{I}\theta_{i}P_{i}\right)+\operatorname{E}\left[e^{-\delta}u\left(e+\sum_{i=1}^{I}\theta_{i}D_{i}\right)\right].
 $$  
@@ -53,21 +53,21 @@ $$
 P_{i}u^{\prime}(c_{0})=\mathrm{E}\left[e^{-\delta}D_{i}u^{\prime}(c)\right],
 $$  
 
-where $c_{0}$ and $c$ denotes the [[Theoretical Factors|optimal consumption plan]], i.e. the consumption plan generated by the optimal [[An Asset Allocation Primer|portfolio]] $\pmb{\theta}$ . We can rewrite the above equation as.  
+where $c_{0}$ and $c$ denotes the [optimal consumption plan](../Chapter%209%20-%20Factor%20Models/Theoretical%20Factors.md), i.e. the consumption plan generated by the optimal [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $\pmb{\theta}$ . We can rewrite the above equation as.  
 $$
 P_{i}=\mathrm{E}\left[e^{-\delta}\frac{u^{\prime}(c)}{u^{\prime}(c_{0})}D_{i}\right].
 $$  
 
-This equation links prices to the [[Theoretical Factors|optimal consumption plan]] of an individual investor.  
+This equation links prices to the [optimal consumption plan](../Chapter%209%20-%20Factor%20Models/Theoretical%20Factors.md) of an individual investor.  
 
-Comparing (6.5) and the [[Arbitrage Pricing of Derivatives|pricing]] condition in the definition of a [[Exercises|state-price deflator]] it is clear that  
+Comparing (6.5) and the [pricing](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) condition in the definition of a [state-price deflator](Exercises.md) it is clear that  
 $$
 \zeta=e^{-\delta}\frac{u^{\prime}(c)}{u^{\prime}(c_{0})}
 $$  
 
-defines a [[Exercises|state-price deflator]]. It is positive since marginal utilities are positive. This [[Exercises|state-price deflator]] is the [[The One-Period Ccapm|marginal rate of substitution]] of the individual capturing the willingness of the individual to substitute a bit of time 0 consumption for some time 1 consumption.  
+defines a [state-price deflator](Exercises.md). It is positive since marginal utilities are positive. This [state-price deflator](Exercises.md) is the [marginal rate of substitution](../Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/The%20One-Period%20Ccapm.md) of the individual capturing the willingness of the individual to substitute a bit of time 0 consumption for some time 1 consumption.  
 
-The optimality condition (6.5) can also be justified by a variational argument, which goes as follows. Assume that $(c_{0},c)$ denotes the [[Theoretical Factors|optimal consumption plan]] for the individual. Then any deviation from this plan will give the individual a lower utility. One deviation is obtained by investing in $\varepsilon>0$ additional units of asset $i$ at the beginning of the period. This leaves an initial consumption of $c_{0}-\varepsilon P_{i}$ . On the other hand, the end-of-period consumption in state $\omega$ becomes $c_{\omega}+\varepsilon D_{i\omega}$ . We know that  
+The optimality condition (6.5) can also be justified by a variational argument, which goes as follows. Assume that $(c_{0},c)$ denotes the [optimal consumption plan](../Chapter%209%20-%20Factor%20Models/Theoretical%20Factors.md) for the individual. Then any deviation from this plan will give the individual a lower utility. One deviation is obtained by investing in $\varepsilon>0$ additional units of asset $i$ at the beginning of the period. This leaves an initial consumption of $c_{0}-\varepsilon P_{i}$ . On the other hand, the end-of-period consumption in state $\omega$ becomes $c_{\omega}+\varepsilon D_{i\omega}$ . We know that  
 $$
 u(c_{0}-\varepsilon P_{i})+e^{-\delta}\operatorname{E}\left[u(c+\varepsilon D_{i})\right]\leq u(c_{0})+e^{-\delta}\operatorname{E}\left[u(c)\right].
 $$  
@@ -77,7 +77,7 @@ $$
 \frac{u(c_{0}-\varepsilon P_{i})-u(c_{0})}{\varepsilon}+e^{-\delta}\operatorname{E}\left[\frac{u(c+\varepsilon D_{i})-u(c)}{\varepsilon}\right]\leq0.
 $$  
 
-Letting $\varepsilon$ go to zero, the fractions on the left-hand side approaches [[Chapter 9 Arbitrage and Hedging With Options|derivatives]] $^{1}$ and we obtain  
+Letting $\varepsilon$ go to zero, the fractions on the left-hand side approaches [derivatives](../../Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) $^{1}$ and we obtain  
 $$
 -P_{i}u^{\prime}(c_{0})+e^{-\delta}\operatorname{E}\left[u^{\prime}(c)D_{i}\right]\leq0,
 $$  
@@ -94,12 +94,12 @@ $$
 
 Hence, the relation must hold as an equality, just as in (6.5).  
 
-Example 6.1 For the case of [[The Simple Multi-Period Ccapm|CRRA utility]], $\begin{array}{r}{u(c)=\frac{1}{1-\gamma}c^{1-\gamma}}\end{array}$ , we have $u^{\prime}(c)=c^{-\gamma}$ . Therefore the [[Theoretical Factors|optimal consumption plan]] satisfies  
+Example 6.1 For the case of [CRRA utility](../Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/The%20Simple%20Multi-Period%20Ccapm.md), $\begin{array}{r}{u(c)=\frac{1}{1-\gamma}c^{1-\gamma}}\end{array}$ , we have $u^{\prime}(c)=c^{-\gamma}$ . Therefore the [optimal consumption plan](../Chapter%209%20-%20Factor%20Models/Theoretical%20Factors.md) satisfies  
 $$
 P_{i}=\mathrm{E}\left[e^{-\delta}\left(\frac{c}{c_{0}}\right)^{-\gamma}D_{i}\right],
 $$  
 
-and the [[Exercises|state-price deflator]] derived from the individual's problem is  
+and the [state-price deflator](Exercises.md) derived from the individual's problem is  
 $$
 \zeta=e^{-\delta}\left(\frac{c}{c_{0}}\right)^{-\gamma}.
 $$  
@@ -121,13 +121,13 @@ $$
 P_{i}=\mathrm{E}\left[\frac{\frac{\partial U}{\partial c}(c_{0},c)}{\mathrm{E}\left[\frac{\partial U}{\partial c_{0}}(c_{0},c)\right]}D_{i}\right],
 $$  
 
-so that the corresponding [[Exercises|state-price deflator]] is  
+so that the corresponding [state-price deflator](Exercises.md) is  
 $$
 \zeta=\frac{\frac{\partial U}{\partial c}(c_{0},c)}{\mathrm{E}\left[\frac{\partial U}{\partial c_{0}}(c_{0},c)\right]}.
 $$  
 
-This could be supported by a variational argument as in the case of [[General Multi-Period Link Between Consumption a|time-additive expected utility]].   
-Again note that these equations hold for the [[Theoretical Factors|optimal consumption plan]]..  
+This could be supported by a variational argument as in the case of [time-additive expected utility](../Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/General%20Multi-Period%20Link%20Between%20Consumption%20a.md).   
+Again note that these equations hold for the [optimal consumption plan](../Chapter%209%20-%20Factor%20Models/Theoretical%20Factors.md)..  
 
 Example 6.2 Consider the very simple habit-style utility function  
 $$
@@ -144,16 +144,16 @@ $$
 P_{i}=\mathrm{E}\left[\frac{e^{-\delta}\left(c-\beta c_{0}\right)^{-\gamma}}{\mathrm{E}\left[c_{0}^{-\gamma}-\beta e^{-\delta}\left(c-\beta c_{0}\right)^{-\gamma}\right]}D_{i}\right],
 $$  
 
-and the associated [[Exercises|state-price deflator]] is  
+and the associated [state-price deflator](Exercises.md) is  
 $$
 \zeta=\frac{e^{-\delta}\left(c-\beta c_{0}\right)^{-\gamma}}{\mathrm{E}\left[c_{0}^{-\gamma}-\beta e^{-\delta}\left(c-\beta c_{0}\right)^{-\gamma}\right]}.
 $$  
 
-This simple example indicates that (internal) [[CCAPM with Alternative Preferences|habit formation]] leads to [[Arbitrage Pricing of Derivatives|pricing]] expressions that are considerably more complicated than [[The One-Period Ccapm|time-additive utility]]..  
+This simple example indicates that (internal) [habit formation](../Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/CCAPM%20with%20Alternative%20Preferences.md) leads to [pricing](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) expressions that are considerably more complicated than [time-additive utility](../Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/The%20One-Period%20Ccapm.md)..  
 
 # 6.2.3 A general utility index  
 
-A general [[Utility Indices|utility index]] $\mathrm{\mathcal{U}}$ is tractable for a finite state space where we can write the objective as  
+A general [utility index](../Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) $\mathrm{\mathcal{U}}$ is tractable for a finite state space where we can write the objective as  
 $$
 \operatorname*{max}_{\theta}\mathcal{U}\big(c_{0},c_{1},\ldots,c_{S}\big),
 $$  
@@ -170,17 +170,17 @@ $$
 
 # 6.2.4 A two-step procedure in a complete market  
 
-In a complete market we can separate the consumption and the [[An Asset Allocation Primer|portfolio]] decision as follows:  
+In a complete market we can separate the consumption and the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) decision as follows:  
 
-1. find the [[Theoretical Factors|optimal consumption plan]] given the [[The One-Period Framework|budget constraints]],.   
-2. find the [[An Asset Allocation Primer|portfolio]] financing the [[Theoretical Factors|optimal consumption plan]]; such a [[An Asset Allocation Primer|portfolio]] will exist when the market is complete.  
+1. find the [optimal consumption plan](../Chapter%209%20-%20Factor%20Models/Theoretical%20Factors.md) given the [budget constraints](.md),.   
+2. find the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) financing the [optimal consumption plan](../Chapter%209%20-%20Factor%20Models/Theoretical%20Factors.md); such a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) will exist when the market is complete.  
 
 Let us show this in the case of a finite state space. Suppose the market is complete and let $\psi$ denote the unique state-price vector. The individual can obtain any dividend vector $_{D}$ at the cost of $\psi\cdot D$ . Hence the individual can first solve the problem.  
 $$
 \begin{array}{r l}&{\displaystyle\operatorname*{max}_{c_{0},c,D}\mathcal{U}(c_{0},c)}\ &{\mathrm{~s.t.~}c\leq e+D,}\ &{\quad\quad\quad c_{0}\leq e_{0}-\psi\cdot D,}\ &{\quad\quad c_{0},c\geq0,}\end{array}
 $$  
 
-for the [[Theoretical Factors|optimal consumption plan]]. Here (6.16) is a vector inequality, which means that the inequality should hold element by element, i.e.  
+for the [optimal consumption plan](../Chapter%209%20-%20Factor%20Models/Theoretical%20Factors.md). Here (6.16) is a vector inequality, which means that the inequality should hold element by element, i.e.  
 $$
 c_{\omega}\leq e_{\omega}+D_{\omega},\quad\omega=1,\ldots,S.
 $$  
@@ -190,14 +190,14 @@ $$
 \psi\cdot c\leq\psi\cdot e+\psi\cdot D.
 $$  
 
-Adding this to (6.17), we see that any [[Pareto-Optimality and Representative Individual|feasible consumption plan]] $(c_{0},c)$ must satisfy  
+Adding this to (6.17), we see that any [feasible consumption plan](../Chapter%207%20-%20Market%20equilibrium/Pareto-Optimality%20and%20Representative%20Individual.md) $(c_{0},c)$ must satisfy  
 $$
 c_{0}+\psi\cdot c\leq e_{0}+\psi\cdot e.
 $$  
 
-This is natural, since the left-hand side is the present value of the consumption plan and the right-. hand side is the present value of the endowment, which is well-defined since [[Marketed Dividends and Market Completeness|market completeness]]  
+This is natural, since the left-hand side is the present value of the consumption plan and the right-. hand side is the present value of the endowment, which is well-defined since [market completeness](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Marketed%20Dividends%20and%20Market%20Completeness.md)  
 
-ensures that some [[An Asset Allocation Primer|portfolio]] will provide a dividend identical to the endowment. Conversely, suppose a consumption plan $(c_{0},c)$ satisfies (6.18). Then it will also satisfy the conditions (6.16) and (6.17) with $D=c-e$ . Thus we can find the utility maximizing consumption plan by solving  
+ensures that some [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) will provide a dividend identical to the endowment. Conversely, suppose a consumption plan $(c_{0},c)$ satisfies (6.18). Then it will also satisfy the conditions (6.16) and (6.17) with $D=c-e$ . Thus we can find the utility maximizing consumption plan by solving  
 $$
 \operatorname*{max}_{c_{0},c}\mathcal{U}(c_{0},c)
 $$  
@@ -215,20 +215,20 @@ $$
 {\frac{\partial\mathcal{U}}{\partial c_{0}}}(c_{0},c)=\nu,\quad{\frac{\partial\mathcal{U}}{\partial c}}(c_{0},c)=\nu\psi.
 $$  
 
-In particular, the [[Theoretical Factors|optimal consumption plan]] satisfies  
+In particular, the [optimal consumption plan](../Chapter%209%20-%20Factor%20Models/Theoretical%20Factors.md) satisfies  
 $$
 {\frac{{\frac{\partial{\mathcal{U}}}{\partial c}}\big(c_{0},c\big)}{{\frac{\partial{\mathcal{U}}}{\partial c_{0}}}\big(c_{0},c\big)}}=\psi.
 $$  
 
-Given the chosen consumption plan. $\mathbf{c}$ and the future income. $\textbf{\em e}$ , we can back out the [[An Asset Allocation Primer|portfolio]] by.   
-solving $\underline{{\underline{{D}}}}^{\top}\pmb{\theta}=\pmb{e}-\pmb{c}$ for $\pmb{\theta}$ . In a complete market, such a [[An Asset Allocation Primer|portfolio]] can always be found.  
+Given the chosen consumption plan. $\mathbf{c}$ and the future income. $\textbf{\em e}$ , we can back out the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) by.   
+solving $\underline{{\underline{{D}}}}^{\top}\pmb{\theta}=\pmb{e}-\pmb{c}$ for $\pmb{\theta}$ . In a complete market, such a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) can always be found.  
 
-With an infinite state space and an [[Preferences for Multi-Date Consumption Plans|expected utility representation]] $\mathcal{U}(c_{0},c)=\mathrm{E}[U(c_{0},c)]$ , we can formulate the [[Financial Mathematics Course|complete markets]] problem as  
+With an infinite state space and an [expected utility representation](../Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Preferences%20for%20Multi-Date%20Consumption%20Plans.md) $\mathcal{U}(c_{0},c)=\mathrm{E}[U(c_{0},c)]$ , we can formulate the [complete markets](../../../Financial%20Engineering/Financial%20Mathematics%20Course.md) problem as  
 $$
 \begin{array}{r l}&{\underset{c_{0},c}{\operatorname*{max}}~\mathrm{E}[U(c_{0},c)]}\ &{\mathrm{~s.t.~}c_{0}+\mathrm{E}[\zeta c]\leq e_{0}+\mathrm{E}[\zeta e]}\ &{\mathrm{~}c_{0},c\geq0,}\end{array}
 $$  
 
-where $\zeta$ is the unique [[Exercises|state-price deflator]]. The Lagrangian is  
+where $\zeta$ is the unique [state-price deflator](Exercises.md). The Lagrangian is  
 $$
 {\mathcal{L}}=\operatorname{E}[U(c_{0},c)]+\nu\left(e_{0}-c_{0}+\operatorname{E}[\zeta(e-c)]\right)=\nu\left(e_{0}-c_{0}\right)+\operatorname{E}\left[U(c_{0},c)+\nu\zeta(e-c)\right].
 $$  
@@ -248,7 +248,7 @@ $$
 \frac{\frac{\partial U}{\partial c}(c_{0},c)}{\mathrm{E}\left[\frac{\partial U}{\partial c_{0}}(c_{0},c)\right]}=\zeta.
 $$  
 
-In particular, with [[General Multi-Period Link Between Consumption a|time-additive expected utility]] $U(c_{0},c)=u(c_{0})+e^{-\delta}u(c)$ , we get  
+In particular, with [time-additive expected utility](../Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/General%20Multi-Period%20Link%20Between%20Consumption%20a.md) $U(c_{0},c)=u(c_{0})+e^{-\delta}u(c)$ , we get  
 $$
 e^{-\delta}\frac{u^{\prime}(c)}{u^{\prime}(c_{0})}=\zeta
 $$  
@@ -259,23 +259,23 @@ If the market is incomplete, the individual cannot implement any consumption pla
 
 # 6.2.5 Optimal portfolios and mean-variance analysis  
 
-We have not explicitly solved for the optimal [[An Asset Allocation Primer|portfolio]]. Although it is certainly relevant to study the [[An Asset Allocation Primer|portfolio]] decisions of individuals in more detail, it is not necessary for [[Fixed Income Asset Pricing|asset pricing]] purposes. The most popular [[Exercises|one-period model]] for [[An Asset Allocation Primer|portfolio]] choice is the [[Exercises|mean-variance]] model introduced by Markowitz (1952, 1959). If the individual has [[Exercises|mean-variance]] preferences, cf. Section 5.6, her optimal [[An Asset Allocation Primer|portfolio]] will be a [[Exercises|mean-variance]] efficient [[An Asset Allocation Primer|portfolio]] corresponding to a point on the upward-sloping branch of the [[Exercises|mean-variance frontier]]. [[2. Forwards, Swaps, Futures, and Options|Mean-variance analysis]] does not by itself say anything about exactly which [[An Asset Allocation Primer|portfolio]] a given individual should choose but if we assume a given [[Exercises|mean-variance]] utility function, the optimal [[An Asset Allocation Primer|portfolio]] can be derived. Note, however, that the conditions justifying [[Exercises|mean-variance]] [[An Asset Allocation Primer|portfolio]] choice are highly unrealistic: either [[Assets|returns]] must be normally distributed or individuals must have [[Exercises|mean-variance]] preferences. Nevertheless, the [[Exercises|mean-variance frontier]] remains an important concept in both [[An Asset Allocation Primer|portfolio]] choice and [[Fixed Income Asset Pricing|asset pricing]]. (recall Theorem 4.6). Below we will use the traditional Lagrangian approach to characterize the [[Exercises|mean-variance]] [[Mean-Variance Efficient Returns and Pricing Fac|efficient portfolios]]. In Section 9.4 we will offer an alternative "orthogonal"' characterization and use that to show the link between [[Exercises|mean-variance]] [[Assets|returns]], [[Arbitrage Pricing of Derivatives|pricing]] factors, and state-price deflators.  
+We have not explicitly solved for the optimal [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). Although it is certainly relevant to study the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) decisions of individuals in more detail, it is not necessary for [asset pricing](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md) purposes. The most popular [one-period model](Exercises.md) for [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) choice is the [mean-variance](Exercises.md) model introduced by Markowitz (1952, 1959). If the individual has [mean-variance](Exercises.md) preferences, cf. Section 5.6, her optimal [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) will be a [mean-variance](Exercises.md) efficient [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) corresponding to a point on the upward-sloping branch of the [mean-variance frontier](Exercises.md). [Mean-variance analysis](../../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) does not by itself say anything about exactly which [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) a given individual should choose but if we assume a given [mean-variance](Exercises.md) utility function, the optimal [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) can be derived. Note, however, that the conditions justifying [mean-variance](Exercises.md) [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) choice are highly unrealistic: either [returns](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) must be normally distributed or individuals must have [mean-variance](Exercises.md) preferences. Nevertheless, the [mean-variance frontier](Exercises.md) remains an important concept in both [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) choice and [asset pricing](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md). (recall Theorem 4.6). Below we will use the traditional Lagrangian approach to characterize the [mean-variance](Exercises.md) [efficient portfolios](../Chapter%209%20-%20Factor%20Models/Mean-Variance%20Efficient%20Returns%20and%20Pricing%20Fac.md). In Section 9.4 we will offer an alternative "orthogonal"' characterization and use that to show the link between [mean-variance](Exercises.md) [returns](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md), [pricing](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) factors, and state-price deflators.  
 
-We assume as before that $I$ assets are traded and let $\pmb{R}=(R_{1},\dots,R_{I})^{*}$ denote the vector of gross [[Assets|returns]] on these assets. Let ${\pmb\mu}=\operatorname{E}[{\pmb R}]$ denote the vector of expected gross [[Assets|returns]] and let. $\underline{{\underline{{\Sigma}}}}=\mathrm{Var}[{\cal R}]$ denote the $I\times I$ variance-covariance matrix of gross [[Assets|returns]]. In the characterization of [[Exercises|mean-variance]] [[Mean-Variance Efficient Returns and Pricing Fac|efficient portfolios]], we are only interested in their [[Assets|returns]] so we can represent portfolios by [[An Asset Allocation Primer|portfolio]] weight vectors, i.e. vectors. $\pi=\left(\pi_{1},\ldots,\pi_{I}\right)^{\top}$ with ${\pmb\pi}\cdot{\bf1}=1$ , where $\pi_{i}$ is the fraction of total [[An Asset Allocation Primer|portfolio]] value invested in asset $i$ . The gross return on a [[An Asset Allocation Primer|portfolio]]. $\pi$ is $\begin{array}{r}{R^{\pi}=\pi\cdot R=\sum_{i=1}^{I}\pi_{i}R_{i}}\end{array}$ , cf. (3.7). The expectation and the variance of the return on a [[An Asset Allocation Primer|portfolio]] $\pi$ are  
+We assume as before that $I$ assets are traded and let $\pmb{R}=(R_{1},\dots,R_{I})^{*}$ denote the vector of gross [returns](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) on these assets. Let ${\pmb\mu}=\operatorname{E}[{\pmb R}]$ denote the vector of expected gross [returns](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) and let. $\underline{{\underline{{\Sigma}}}}=\mathrm{Var}[{\cal R}]$ denote the $I\times I$ variance-covariance matrix of gross [returns](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md). In the characterization of [mean-variance](Exercises.md) [efficient portfolios](../Chapter%209%20-%20Factor%20Models/Mean-Variance%20Efficient%20Returns%20and%20Pricing%20Fac.md), we are only interested in their [returns](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) so we can represent portfolios by [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) weight vectors, i.e. vectors. $\pi=\left(\pi_{1},\ldots,\pi_{I}\right)^{\top}$ with ${\pmb\pi}\cdot{\bf1}=1$ , where $\pi_{i}$ is the fraction of total [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) value invested in asset $i$ . The gross return on a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). $\pi$ is $\begin{array}{r}{R^{\pi}=\pi\cdot R=\sum_{i=1}^{I}\pi_{i}R_{i}}\end{array}$ , cf. (3.7). The expectation and the variance of the return on a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $\pi$ are  
 $$
 \begin{array}{l}{\displaystyle\mathrm{E}\left[R^{\pi}\right]=\mathrm{E}\left[\sum_{i=1}^{I}\pi_{i}R_{i}\right]=\sum_{i=1}^{I}\pi_{i}\mathrm{E}[R_{i}]=\sum_{i=1}^{I}\pi_{i}\mu_{i}=\pi\cdot\boldsymbol{\mu}=\pi^{\top}\boldsymbol{\mu},}\ {\displaystyle\mathrm{Var}\left[R^{\pi}\right]=\mathrm{Var}\left[\sum_{i=1}^{I}\pi_{i}R_{i}\right]=\sum_{i=1}^{I}\sum_{j=1}^{I}\pi_{i}\pi_{j}\mathrm{Cov}[R_{i},R_{j}]=\pi^{\top}\underline{{\Sigma}}\boldsymbol{\pi}.}\end{array}
 $$  
 
-A [[An Asset Allocation Primer|portfolio]] $\pi$ is then [[Exercises|mean-variance]] efficient if there is an $m\in\mathbb{R}$ so that $\pi$ solves  
+A [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $\pi$ is then [mean-variance](Exercises.md) efficient if there is an $m\in\mathbb{R}$ so that $\pi$ solves  
 $$
 \operatorname*{min}_{\boldsymbol{\pi}}\boldsymbol{\pi}^{\top}\underline{{\boldsymbol{\Sigma}}}\boldsymbol{\pi}\quad\mathrm{s.t.}\quad\boldsymbol{\pi}^{\top}\boldsymbol{\mu}=m,\quad\boldsymbol{\pi}^{\top}{\bf1}=1,
 $$  
 
-i.e. $\pi$ has the lowest return variance among all portfolios with [[Lecture 1- Probability Distributions of Returns|expected return]] $m$  
+i.e. $\pi$ has the lowest return variance among all portfolios with [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) $m$  
 
 # Risky assets only  
 
-Assume that $\stackrel{\sum}{=}$ is positive definite, i.e. that. $\pi^{+}\underline{{\Sigma}}\pi>0$ for all $\pi$ , which means that the variance. of the return on any [[An Asset Allocation Primer|portfolio]] is positive. Any [[An Asset Allocation Primer|portfolio]] of risky assets will be risky; there is no [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] and no [[Exercises|redundant assets]]. It follows that $\geqq$ is non-singular and that the inverse. $\sum_{=}{}^{-1}$ is also positive definite. We will allow for a [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] later.  
+Assume that $\stackrel{\sum}{=}$ is positive definite, i.e. that. $\pi^{+}\underline{{\Sigma}}\pi>0$ for all $\pi$ , which means that the variance. of the return on any [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is positive. Any [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of risky assets will be risky; there is no [risk-free asset](../../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) and no [redundant assets](Exercises.md). It follows that $\geqq$ is non-singular and that the inverse. $\sum_{=}{}^{-1}$ is also positive definite. We will allow for a [risk-free asset](../../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) later.  
 
 The Lagrangian associated with the constrained minimization problem (6.21) is  
 $$
@@ -312,7 +312,7 @@ $$
 \pmb{\pi}=\pmb{\pi}(m)\equiv\frac{C m-B}{D}\underline{{\Sigma}}^{-1}\pmb{\mu}+\frac{A-B m}{D}\underline{{\Sigma}}^{-1}\mathbf{1}.
 $$  
 
-This is the [[Exercises|mean-variance]] efficient [[An Asset Allocation Primer|portfolio]] with expected gross return. $m$ . Some tedious calculations show that the variance of the return on this [[An Asset Allocation Primer|portfolio]] is equal to  
+This is the [mean-variance](Exercises.md) efficient [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) with expected gross return. $m$ . Some tedious calculations show that the variance of the return on this [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is equal to  
 $$
 \sigma^{2}(m)\equiv\pi(m)^{\top}\underline{{\Sigma}}\underline{{\pi}}(m)=\frac{C m^{2}-2B m+A}{D}.
 $$  
@@ -324,9 +324,9 @@ $$
 \frac{\sigma^{2}(m)}{1/C}-\frac{(m-B/C)^{2}}{D/C^{2}}=1,
 $$  
 
-from which it follows that the optimal combinations of standard deviation and mean form a hyperbola in the (standard deviation, mean)-diagram. This hyperbola is called the [[Exercises|mean-variance]]  
+from which it follows that the optimal combinations of standard deviation and mean form a hyperbola in the (standard deviation, mean)-diagram. This hyperbola is called the [mean-variance](Exercises.md)  
 
-frontier of risky assets. The [[Exercises|mean-variance]] [[Mean-Variance Efficient Returns and Pricing Fac|efficient portfolios]] are sometimes called frontier portfolios.  
+frontier of risky assets. The [mean-variance](Exercises.md) [efficient portfolios](../Chapter%209%20-%20Factor%20Models/Mean-Variance%20Efficient%20Returns%20and%20Pricing%20Fac.md) are sometimes called frontier portfolios.  
 
 Before we proceed let us clarify a point in the derivation above. We need to divide by $D$ so $D$ has to be non-zero. In fact,. $D>0$ . To see this, first note that since. $\stackrel{\sum}{=}$ and therefore $\sum_{=}{}^{-1}$ are positive definite, we have $A>0$ and $C>0$ . Moreover,  
 $$
@@ -335,12 +335,12 @@ $$
 
 again using that $\underline{{\underline{{\Sigma}}}}^{-1}$ is positive definite. Since $A>0$ , we must have $D>0$  
 
-The (global) minimum-variance [[An Asset Allocation Primer|portfolio]] is the [[An Asset Allocation Primer|portfolio]] that has the minimum variance among all portfolios. We can find this directly by solving the constrained minimization problem  
+The (global) minimum-variance [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) that has the minimum variance among all portfolios. We can find this directly by solving the constrained minimization problem  
 $$
 \operatorname*{min}_{\pi}\pi^{\top}\underline{{\Sigma}}\pi\quad\mathrm{~s.t.~}\quad\pi^{\top}{\bf1}=1
 $$  
 
-where there is no constraint on the expected [[An Asset Allocation Primer|portfolio]] return. Alternatively, we can minimize the variance $\sigma^{2}(m)$ in (6.24) over all $m$ .Taking the latter route, we find that the minimum variance is obtained when the mean return is. $m_{\mathrm{min}}=B/C$ and the minimum variance is given by. $\sigma_{\mathrm{min}}^{2}=\sigma^{2}(m_{\mathrm{min}})=1/C$ . From (6.23) we get that the minimum-variance [[An Asset Allocation Primer|portfolio]] is  
+where there is no constraint on the expected [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) return. Alternatively, we can minimize the variance $\sigma^{2}(m)$ in (6.24) over all $m$ .Taking the latter route, we find that the minimum variance is obtained when the mean return is. $m_{\mathrm{min}}=B/C$ and the minimum variance is given by. $\sigma_{\mathrm{min}}^{2}=\sigma^{2}(m_{\mathrm{min}})=1/C$ . From (6.23) we get that the minimum-variance [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is  
 $$
 \pmb{\pi}_{\mathrm{min}}=\frac{1}{C}\underline{{\Sigma}}^{-1}\mathbf{1}=\frac{1}{\mathbf{1}^{\top}\underline{{\Sigma}}^{-1}\mathbf{1}}\underline{{\Sigma}}^{-1}\mathbf{1}.
 $$  
@@ -350,7 +350,7 @@ $$
 \operatorname*{max}_{\boldsymbol{\pi}}\frac{\boldsymbol{\pi}^{\top}\pmb{\mu}-\alpha}{\left(\boldsymbol{\pi}^{\top}\underline{{\Sigma}}\pmb{\pi}\right)^{1/2}}\quad\mathrm{~s.t.~}\quad\boldsymbol{\pi}^{\top}\mathbf{1}=1,
 $$  
 
-where $\alpha$ is some constant. The denominator in the objective is clearly the standard deviation of the return of the [[An Asset Allocation Primer|portfolio]], while the numerator is the [[Lecture 1- Probability Distributions of Returns|expected return]] in excess of $\alpha$ . This ratio is the slope of a straight line in the (standard deviation, mean)-diagram that goes through the point $((\pi^{\top}\underline{{\underline{{\Sigma}}}}\pi)^{1/2},\pi^{\top}\mu)$ corresponding to the [[An Asset Allocation Primer|portfolio]] $\pi$ and intersects the mean-axis at $\alpha$ . Applying the constraint, the objective function can be rewritten as  
+where $\alpha$ is some constant. The denominator in the objective is clearly the standard deviation of the return of the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), while the numerator is the [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) in excess of $\alpha$ . This ratio is the slope of a straight line in the (standard deviation, mean)-diagram that goes through the point $((\pi^{\top}\underline{{\underline{{\Sigma}}}}\pi)^{1/2},\pi^{\top}\mu)$ corresponding to the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $\pi$ and intersects the mean-axis at $\alpha$ . Applying the constraint, the objective function can be rewritten as  
 $$
 f(\pi)=\frac{\pi^{\top}(\pmb{\mu}-\alpha\mathbf{1})}{\left(\pi^{\top}\underline{{\Sigma}}\pi\right)^{1/2}}=\pi^{\top}(\pmb{\mu}-\alpha\mathbf{1})\left(\pmb{\pi}^{\top}\underline{{\Sigma}}\pi\right)^{-1/2}.
 $$  
@@ -370,41 +370,41 @@ $$
 \mathbf{1}^{\top}\left(\frac{\pi^{\top}(\pmb{\mu}-\alpha\mathbf{1})}{\pi^{\top}\underline{{\Sigma}}\pi}\pi\right)=\frac{\pi^{\top}(\pmb{\mu}-\alpha\mathbf{1})}{\pi^{\top}\underline{{\Sigma}}\pi}\mathbf{1}^{\top}\pi=\frac{\pi^{\top}(\pmb{\mu}-\alpha\mathbf{1})}{\pi^{\top}\underline{{\Sigma}}\pi},
 $$  
 
-where the last equality is due to the constraint. The sum of the elements of the vector on the right-hand side of (6.28) is simply $\mathbf{1}^{\top}\underline{{\underline{{\Sigma}}}}^{-1}\left(\pmb{\mu}-\alpha\mathbf{1}\right)$ . Dividing each side of (6.28) with the sum of the elements we obtain the [[An Asset Allocation Primer|portfolio]]  
+where the last equality is due to the constraint. The sum of the elements of the vector on the right-hand side of (6.28) is simply $\mathbf{1}^{\top}\underline{{\underline{{\Sigma}}}}^{-1}\left(\pmb{\mu}-\alpha\mathbf{1}\right)$ . Dividing each side of (6.28) with the sum of the elements we obtain the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 $$
 \pi=\frac{\underline{{\underline{{\Sigma}}}}^{-1}\left(\pmb{\mu}-\alpha\mathbf{1}\right)}{\mathbf{1}^{\top}\underline{{\underline{{\Sigma}}}}^{-1}\left(\pmb{\mu}-\alpha\mathbf{1}\right)}.
 $$  
 
-In particular, by letting. $\alpha=0$ , we can see that the [[An Asset Allocation Primer|portfolio]]  
+In particular, by letting. $\alpha=0$ , we can see that the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
 $$
 \pi_{\mathrm{slope}}=\frac{1}{1^{\top}\underline{{\Sigma}}^{-1}\underline{{\mu}}^{\underline{{\Sigma}}^{-1}}}\underline{{\Sigma}}^{-1}\underline{{\mu}}=\frac{1}{B}\underline{{\Sigma}}^{-1}\underline{{\mu}}
 $$  
 
-is the [[An Asset Allocation Primer|portfolio]] that maximizes the slope of a straight line between the origin and a point on the [[Exercises|mean-variance frontier]] in the (standard deviation, mean)-diagram. Let us call. $\pi_{\mathrm{slope}}$ the maximum-slope [[An Asset Allocation Primer|portfolio]]. This [[An Asset Allocation Primer|portfolio]] has mean. $A/B$ and variance $A/B^{2}$  
+is the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) that maximizes the slope of a straight line between the origin and a point on the [mean-variance frontier](Exercises.md) in the (standard deviation, mean)-diagram. Let us call. $\pi_{\mathrm{slope}}$ the maximum-slope [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). This [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) has mean. $A/B$ and variance $A/B^{2}$  
 
-From (6.23) we see that any [[Exercises|mean-variance]] efficient [[An Asset Allocation Primer|portfolio]] can be written as a linear combination of the maximum-slope [[An Asset Allocation Primer|portfolio]] and the minimum-variance [[An Asset Allocation Primer|portfolio]]:.  
+From (6.23) we see that any [mean-variance](Exercises.md) efficient [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) can be written as a linear combination of the maximum-slope [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and the minimum-variance [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md):.  
 $$
 \pi({m})=\frac{(C{m}-B)B}{D}\pi_{\mathrm{slope}}+\frac{(A-B{m})C}{D}\pi_{\mathrm{min}}.
 $$  
 
-Note that the two multipliers of the portfolios sum to one. This is a two-fund separation result. Any [[Exercises|mean-variance]] efficient [[An Asset Allocation Primer|portfolio]] is a combination of two special portfolios or funds, namely the maximum slope [[An Asset Allocation Primer|portfolio]] and the minimum-variance [[An Asset Allocation Primer|portfolio]]. These two portfolios are said to generate the [[Exercises|mean-variance frontier]] of risky assets. In fact, it can be shown that any other two frontier portfolios generate the entire frontier.  
+Note that the two multipliers of the portfolios sum to one. This is a two-fund separation result. Any [mean-variance](Exercises.md) efficient [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is a combination of two special portfolios or funds, namely the maximum slope [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and the minimum-variance [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). These two portfolios are said to generate the [mean-variance frontier](Exercises.md) of risky assets. In fact, it can be shown that any other two frontier portfolios generate the entire frontier.  
 
-The following result is both interesting and useful. Let. $R^{\pi}$ denote the return on any mean-. variance efficient [[An Asset Allocation Primer|portfolio]] different from the minimum-variance [[An Asset Allocation Primer|portfolio]]. Then there exists a unique [[Exercises|mean-variance]] efficient [[An Asset Allocation Primer|portfolio]] with a return. $R^{z(\pmb{\pi})}$ such that $\mathrm{Cov}[R^{\pi},R^{z(\pmb{\pi})}]=0$ . The return $R^{z(\pmb{\pi})}$ is called the [[Pricing Factors in a One-Period Framework|zero-beta return]] for. $R^{\pi}$ , which is consistent with the definition of betas in the section on [[Arbitrage Pricing of Derivatives|pricing]] factors. Furthermore, one can show that.  
+The following result is both interesting and useful. Let. $R^{\pi}$ denote the return on any mean-. variance efficient [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) different from the minimum-variance [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). Then there exists a unique [mean-variance](Exercises.md) efficient [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) with a return. $R^{z(\pmb{\pi})}$ such that $\mathrm{Cov}[R^{\pi},R^{z(\pmb{\pi})}]=0$ . The return $R^{z(\pmb{\pi})}$ is called the [zero-beta return](../Chapter%209%20-%20Factor%20Models/Pricing%20Factors%20in%20a%20One-Period%20Framework.md) for. $R^{\pi}$ , which is consistent with the definition of betas in the section on [pricing](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) factors. Furthermore, one can show that.  
 $$
 \operatorname{E}[R^{z(\pi)}]={\frac{A-B\operatorname{E}[R^{\pi}]}{B-C\operatorname{E}[R^{\pi}]}}
 $$  
 
-and that the tangent to the [[Exercises|mean-variance frontier]] at the point corresponding to $R^{\pi}$ will intersect the [[Lecture 1- Probability Distributions of Returns|expected return]] axis exactly in $\operatorname{E}[R^{z(\pi)}]$ . These results are to be shown in Exercise 6.5.  
+and that the tangent to the [mean-variance frontier](Exercises.md) at the point corresponding to $R^{\pi}$ will intersect the [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) axis exactly in $\operatorname{E}[R^{z(\pi)}]$ . These results are to be shown in Exercise 6.5.  
 
 # Allowing for a risk-free asset  
 
-Now let us allow for a [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] with a gross return of. $R^{f}$ . The [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] corresponds to the point. $(0,R^{f})$ in the (standard deviation, mean)-diagram. Either the [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] is one. of the. $I$ basic assets or it can be constructed as a [[An Asset Allocation Primer|portfolio]] of the basic assets. Without loss of. generality we can assume that the [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] is the. $I^{;}$ th basic asset. The remaining $M\equiv I-1$ basic assets are risky. Let $\tilde{\pmb{R}}=\left(R_{1},\ldots,R_{M}\right)^{\top}$ denote the gross return vector of the risky assets with expectation $\tilde{\pmb{\mu}}=\mathrm{E}[\tilde{\pmb{R}}]$ and variance $\tilde{\underline{{\Sigma}}}=\mathrm{Var}[\tilde{\cal R}]$ . Now assume that $\tilde{\underline{{\boldsymbol{\Sigma}}}}$ is positive definite. We assume that the [[A Preview of Alternative Formulations|risk-free return]] is smaller than the [[Lecture 1- Probability Distributions of Returns|expected return]] on the minimum-variance [[An Asset Allocation Primer|portfolio]] of the risky assets.  
+Now let us allow for a [risk-free asset](../../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) with a gross return of. $R^{f}$ . The [risk-free asset](../../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) corresponds to the point. $(0,R^{f})$ in the (standard deviation, mean)-diagram. Either the [risk-free asset](../../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) is one. of the. $I$ basic assets or it can be constructed as a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of the basic assets. Without loss of. generality we can assume that the [risk-free asset](../../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) is the. $I^{;}$ th basic asset. The remaining $M\equiv I-1$ basic assets are risky. Let $\tilde{\pmb{R}}=\left(R_{1},\ldots,R_{M}\right)^{\top}$ denote the gross return vector of the risky assets with expectation $\tilde{\pmb{\mu}}=\mathrm{E}[\tilde{\pmb{R}}]$ and variance $\tilde{\underline{{\Sigma}}}=\mathrm{Var}[\tilde{\cal R}]$ . Now assume that $\tilde{\underline{{\boldsymbol{\Sigma}}}}$ is positive definite. We assume that the [risk-free return](../Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) is smaller than the [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) on the minimum-variance [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of the risky assets.  
 
-A [[An Asset Allocation Primer|portfolio]] of all. $I$ assets can be represented by an. $M$ -dimensional vector $\tilde{\pi}$ of the [[An Asset Allocation Primer|portfolio]] weights invested in the risky assets, while the remaining fraction $\pi_{f}\equiv1-\tilde{\pi}^{\top}{\bf1}$ is the invested in.  
+A [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of all. $I$ assets can be represented by an. $M$ -dimensional vector $\tilde{\pi}$ of the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) weights invested in the risky assets, while the remaining fraction $\pi_{f}\equiv1-\tilde{\pi}^{\top}{\bf1}$ is the invested in.  
 
-the [[2. Forwards, Swaps, Futures, and Options|risk-free asset]]. A [[An Asset Allocation Primer|portfolio]] involving only the risky assets is an $M$ -dimensional vector $\tilde{\pi}$ with $\tilde{\pmb{\pi}}^{\top}{\bf1}=1$  
+the [risk-free asset](../../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md). A [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) involving only the risky assets is an $M$ -dimensional vector $\tilde{\pi}$ with $\tilde{\pmb{\pi}}^{\top}{\bf1}=1$  
 
-Fix for a moment a [[An Asset Allocation Primer|portfolio]] $\tilde{\pi}$ of risky assets only. The gross return on this [[An Asset Allocation Primer|portfolio]] is $R^{\tilde{\pi}}=\tilde{\pi}^{\top}\tilde{R}$ . Suppose you invest a fraction $\pi_{f}$ of some amount in the [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] and the remaining fraction $1-\pi_{f}$ in this particular risky [[An Asset Allocation Primer|portfolio]]. The gross return on this combination will be  
+Fix for a moment a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $\tilde{\pi}$ of risky assets only. The gross return on this [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is $R^{\tilde{\pi}}=\tilde{\pi}^{\top}\tilde{R}$ . Suppose you invest a fraction $\pi_{f}$ of some amount in the [risk-free asset](../../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) and the remaining fraction $1-\pi_{f}$ in this particular risky [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). The gross return on this combination will be  
 $$
 R=\pi_{f}R^{f}+\left(1-\pi_{f}\right)R^{\tilde{\pi}}
 $$  
@@ -419,24 +419,24 @@ $$
 \operatorname{E}[R]=\pi_{f}R^{f}+{\frac{\operatorname{E}\left[R^{\tilde{\pi}}\right]}{\sigma\left[R^{\tilde{\pi}}\right]}}\sigma[R]
 $$  
 
-so varying $\pi_{f}$ the set of points $\{(\sigma[R],\operatorname{E}[R])\mid\pi_{f}\leq1\}$ will form an upward-sloping straight line from $(0,R^{f})$ through $(\sigma\left[R^{\tilde{\pi}}\right],\mathrm{E}\left[R^{\tilde{\pi}}\right])$ .For $\pi_{f}~>~1$ , the standard deviation of the combined [[An Asset Allocation Primer|portfolio]] is $\sigma[R]=-(1-\pi_{f})\sigma\left[R^{\tilde{\pi}}\right]$ and we get  
+so varying $\pi_{f}$ the set of points $\{(\sigma[R],\operatorname{E}[R])\mid\pi_{f}\leq1\}$ will form an upward-sloping straight line from $(0,R^{f})$ through $(\sigma\left[R^{\tilde{\pi}}\right],\mathrm{E}\left[R^{\tilde{\pi}}\right])$ .For $\pi_{f}~>~1$ , the standard deviation of the combined [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is $\sigma[R]=-(1-\pi_{f})\sigma\left[R^{\tilde{\pi}}\right]$ and we get  
 $$
 \operatorname{E}[R]=\pi_{f}R^{f}-{\frac{\operatorname{E}\left[R^{{\tilde{\pi}}}\right]}{\sigma\left[R^{{\tilde{\pi}}}\right]}}\sigma[R],
 $$  
 
 which defines a downward-sloping straight line from $(0,R^{f})$ and to the right.  
 
-Minimizing variance for a given [[Lecture 1- Probability Distributions of Returns|expected return]] we will move as far to the "north-west" or to the "south-west' as possible in the (standard deviation, mean)-diagram. Therefore the [[Exercises|mean-variance]] [[Mean-Variance Efficient Returns and Pricing Fac|efficient portfolios]] will correspond to points on a line which is tangent to the [[Exercises|mean-variance frontier]] of risky assets and goes through the point. $(0,R^{f})$ . There are two such lines, an upward-sloping. and a downward-sloping line. The point where the upward-sloping line is tangent to the frontier of risky assets corresponds to a [[An Asset Allocation Primer|portfolio]] which we refer to as the tangency [[An Asset Allocation Primer|portfolio]]. This is a [[An Asset Allocation Primer|portfolio]] of risky assets only. It is the [[An Asset Allocation Primer|portfolio]] that maximizes the Sharpe ratio over all risky portfolios. The Sharpe ratio of a [[An Asset Allocation Primer|portfolio]] is the ratio. $(\mathrm{E}[R^{\#}]-R^{f})/\sigma[R^{\#}]$ between the [[General Multi-Period Link Between Consumption a|excess expected return]] of a [[An Asset Allocation Primer|portfolio]] and the standard deviation of the return. To determine the tangency [[An Asset Allocation Primer|portfolio]] we must solve the problem.  
+Minimizing variance for a given [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) we will move as far to the "north-west" or to the "south-west' as possible in the (standard deviation, mean)-diagram. Therefore the [mean-variance](Exercises.md) [efficient portfolios](../Chapter%209%20-%20Factor%20Models/Mean-Variance%20Efficient%20Returns%20and%20Pricing%20Fac.md) will correspond to points on a line which is tangent to the [mean-variance frontier](Exercises.md) of risky assets and goes through the point. $(0,R^{f})$ . There are two such lines, an upward-sloping. and a downward-sloping line. The point where the upward-sloping line is tangent to the frontier of risky assets corresponds to a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) which we refer to as the tangency [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). This is a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of risky assets only. It is the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) that maximizes the Sharpe ratio over all risky portfolios. The Sharpe ratio of a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is the ratio. $(\mathrm{E}[R^{\#}]-R^{f})/\sigma[R^{\#}]$ between the [excess expected return](../Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/General%20Multi-Period%20Link%20Between%20Consumption%20a.md) of a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and the standard deviation of the return. To determine the tangency [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) we must solve the problem.  
 $$
 \operatorname*{max}_{\tilde{\pi}}\frac{\tilde{\pi}^{\top}\tilde{\mu}-R^{f}}{\left(\tilde{\pi}^{\top}\underline{{\tilde{\Sigma}}}\tilde{\pi}\right)^{1/2}}\quad\mathrm{~s.t.~}\quad\tilde{\pi}^{\top}{\bf1}=1.
 $$  
 
-Except for the tildes above the symbols, this problem is identical to the problem (6.27) with $\alpha=R^{f}$ which we have already solved. We can therefore conclude that the tangency [[An Asset Allocation Primer|portfolio]] is given by  
+Except for the tildes above the symbols, this problem is identical to the problem (6.27) with $\alpha=R^{f}$ which we have already solved. We can therefore conclude that the tangency [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is given by  
 $$
 \tilde{\pmb{\pi}}_{\mathrm{tan}}=\frac{\tilde{\Xi}^{-1}\left(\tilde{\pmb{\mu}}-R^{f}\mathbf{1}\right)}{\mathbf{1}^{\top}\tilde{\Xi}^{-1}\left(\tilde{\pmb{\mu}}-R^{f}\mathbf{1}\right)}.
 $$  
 
-The gross return on the tangency [[An Asset Allocation Primer|portfolio]] is  
+The gross return on the tangency [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is  
 $$
 R_{\mathrm{tan}}=\tilde{\pi}_{\mathrm{tan}}^{\top}\tilde{R}
 $$  
@@ -451,12 +451,12 @@ $$
 \begin{array}{r l}&{\frac{\mu_{\tan}}{\sigma_{\tan}}=\frac{\displaystyle\frac{\tilde{\mu}^{\top}\underline{{\tilde{\Sigma}}}^{-1}\left(\tilde{\mu}-R^{f}\mathbf{1}\right)}{\mathbf{1}^{\top}\underline{{\tilde{\Sigma}}}^{-1}\left(\tilde{\mu}-R^{f}\mathbf{1}\right)}-R^{f}}{\displaystyle\frac{\left((\tilde{\mu}-R^{f}\mathbf{1})^{\top}\underline{{\tilde{\Sigma}}}^{-1}(\tilde{\mu}-R^{f}\mathbf{1})\right)^{1/2}}{\mathbf{1}^{\top}\underline{{\tilde{\Sigma}}}^{-1}(\tilde{\mu}-R^{f}\mathbf{1})}}=\frac{\tilde{\mu}^{\top}\underline{{\tilde{\Sigma}}}^{-1}\left(\tilde{\mu}-R^{f}\mathbf{1}\right)-R^{f}\left[\mathbf{1}^{\top}\underline{{\tilde{\Sigma}}}^{-1}\left(\tilde{\mu}-R^{f}\mathbf{1}\right)\right]}{\left((\tilde{\mu}-R^{f}\mathbf{1})^{\top}\underline{{\tilde{\Sigma}}}^{-1}(\tilde{\mu}-R^{f}\mathbf{1})\right)^{1/2}}}\ &{=\frac{\left(\tilde{\mu}-R^{f}\mathbf{1}\right)^{\top}\underline{{\tilde{\Sigma}}}^{-1}(\tilde{\mu}-R^{f}\mathbf{1})}{\left((\tilde{\mu}-R^{f}\mathbf{1})^{\top}\underline{{\tilde{\Sigma}}}^{-1}(\tilde{\mu}-R^{f}\mathbf{1})\right)^{1/2}}=\left((\tilde{\mu}-R^{f}\mathbf{1})^{\top}\underline{{\tilde{\Sigma}}}^{-1}(\tilde{\mu}-R^{f}\mathbf{1})\right)^{1/2}.}\end{array}
 $$  
 
-The straight line from the point. $(0,R^{f})$ and to and through. $(\sigma_{\mathrm{tan}},\mu_{\mathrm{tan}})$ constitutes the upwardsloping part of the [[Exercises|mean-variance frontier]] of all assets. Similarly, there is a downward-sloping part. which starts out at. $(0,R^{f})$ and has a slope which equals minus the slope of the upward-sloping. frontier. Again we have two-fund separation since all investors will combine just two funds, where one fund is simply the [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] and the other is the tangency [[An Asset Allocation Primer|portfolio]] of only risky assets.. A return $R$ is [[Exercises|mean-variance]] efficient if and only if  
+The straight line from the point. $(0,R^{f})$ and to and through. $(\sigma_{\mathrm{tan}},\mu_{\mathrm{tan}})$ constitutes the upwardsloping part of the [mean-variance frontier](Exercises.md) of all assets. Similarly, there is a downward-sloping part. which starts out at. $(0,R^{f})$ and has a slope which equals minus the slope of the upward-sloping. frontier. Again we have two-fund separation since all investors will combine just two funds, where one fund is simply the [risk-free asset](../../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) and the other is the tangency [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of only risky assets.. A return $R$ is [mean-variance](Exercises.md) efficient if and only if  
 $$
 R=\alpha R^{f}+(1-\alpha)R_{\tan}
 $$  
 
-for some $\alpha$ . If $\alpha\leq1$ , you will get a point on the upward-sloping part of the frontier. If $\alpha\geq1$ , you will get a point on the downward-sloping part. Of course, when a [[A Preview of Alternative Formulations|risk-free return]] is traded, it will be the minimum-variance return. The relation between the mean $m$ and the standard deviation $\sigma$ of the portfolios on the [[2. Forwards, Swaps, Futures, and Options|efficient frontier]] will be  
+for some $\alpha$ . If $\alpha\leq1$ , you will get a point on the upward-sloping part of the frontier. If $\alpha\geq1$ , you will get a point on the downward-sloping part. Of course, when a [risk-free return](../Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) is traded, it will be the minimum-variance return. The relation between the mean $m$ and the standard deviation $\sigma$ of the portfolios on the [efficient frontier](../../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) will be  
 $$
 \sigma=|m-R^{f}|\frac{\sigma[R_{\mathrm{tan}}]}{\mathrm{E}[R_{\mathrm{tan}}]-R^{f}}.
 $$  

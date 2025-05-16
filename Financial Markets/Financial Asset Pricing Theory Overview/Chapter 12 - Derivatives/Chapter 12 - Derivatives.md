@@ -16,14 +16,14 @@ key_concepts:
   - risk management
 ---
 %% Begin Waypoint %%
-- **[[Chapter 12 - Derivatives]]**
-	- [[American-Style Derivatives]]
-	- [[Chapter 12 - Derivatives]]
-	- [[Concluding Remarks]]
-	- [[Exercises]]
-	- [[Forwards and Futures]]
-	- [[Interest Rate Swaps and Swaptions]]
-	- [[Options]]
+- **[Chapter 12 - Derivatives](.md)**
+	- [American-Style Derivatives](American-Style%20Derivatives.md)
+	- [Chapter 12 - Derivatives](.md)
+	- [Concluding Remarks](Concluding%20Remarks.md)
+	- [Exercises](Exercises.md)
+	- [Forwards and Futures](Forwards%20and%20Futures.md)
+	- [Interest Rate Swaps and Swaptions](Interest%20Rate%20Swaps%20and%20Swaptions.md)
+	- [Options](Options.md)
 
 %% End Waypoint %%
 # Chapter 12 - Derivatives

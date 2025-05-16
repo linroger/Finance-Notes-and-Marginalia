@@ -21,9 +21,9 @@ key_concepts:
 
 # Largest Events Driving Changes to Life Expectancy Through Time
 
-In my book The [[Principles Part II|Changing World Order]]: Why Nations Succeed and Fail,  I show these charts of how life expectancy has changed through time. Here,  I wanted to share some of the largest events that drove these historical moves up and down. Note that prior to 180 O,  these charts only reflect shifts in UK life expectancy,  but I am listing global event here and including events over a longer time frame
+In my book The [Changing World Order](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Principles%20Part%20II.md): Why Nations Succeed and Fail,  I show these charts of how life expectancy has changed through time. Here,  I wanted to share some of the largest events that drove these historical moves up and down. Note that prior to 180 O,  these charts only reflect shifts in UK life expectancy,  but I am listing global event here and including events over a longer time frame
 
- ![500](https://storage.simpletex.cn/view/fN9XS4c15HTALwzg46BfFepsWpW6UoaWB)
+ ![500](Attachments/500-3.png)
 
 This list is necessarily incomplete,  due to both missing data and the difficulty of determining the death toll of some events. Our goal here is to provide some color on the types and frequency of large death events through time as opposed to creating a complete catalogue
 

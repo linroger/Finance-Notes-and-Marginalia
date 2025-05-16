@@ -5,14 +5,14 @@ tags:
 ---
 # Chapter 6 - Individual optimality
 %% Begin Waypoint %%
-- **[[Chapter 6 - Individual optimality]]**
-	- [[Chapter 6 - Individual optimality]]
-	- [[Dynamic Programming]]
-	- [[Epstein-Zin Recursive Utility]]
-	- [[Exercises]]
-	- [[The Continuous-Time Framework]]
-	- [[The Discrete-Time Framework]]
-	- [[The One-Period Framework]]
+- **[Chapter 6 - Individual optimality](.md)**
+	- [Chapter 6 - Individual optimality](.md)
+	- [Dynamic Programming](Dynamic%20Programming.md)
+	- [Epstein-Zin Recursive Utility](Epstein-Zin%20Recursive%20Utility.md)
+	- [Exercises](Exercises.md)
+	- [The Continuous-Time Framework](The%20Continuous-Time%20Framework.md)
+	- [The Discrete-Time Framework](The%20Discrete-Time%20Framework.md)
+	- [The One-Period Framework](The%20One-Period%20Framework.md)
 
 %% End Waypoint %%
 # Individual optimality  

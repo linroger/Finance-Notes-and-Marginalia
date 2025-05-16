@@ -20,7 +20,7 @@ key_concepts:
 
 # Appendix 19. A Formulas for Geometric Average Options
 
-The discussion of [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Monte Carlo]] valuation of geometrically averaged Asian options enables us to understand the formulas for geometrically averaged Asian options,  described in Appendix 14. A. If we sample the [[Chapter 16 - Black–Scholes Model|stock price]] $N$ times from time O to 7 ,  with the distance betweer samples $h=T/N$ and the first sample occurring at time $h$ ,  the log of the geometric average i$$\begin{aligned}
+The discussion of [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) valuation of geometrically averaged Asian options enables us to understand the formulas for geometrically averaged Asian options,  described in Appendix 14. A. If we sample the [stock price](../Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) $N$ times from time O to 7 ,  with the distance betweer samples $h=T/N$ and the first sample occurring at time $h$ ,  the log of the geometric average i$$\begin{aligned}
 \frac{1}{N}\sum_{i=1}^{N}\ln (S_{ih})& =\frac{1}{N}\left[\sum_{i=1}^{N}\left (\ln (S_{0})+(r-\delta-0.5\sigma^{2}) ih+\sigma\sum_{j=1}^{i}Z_{j}\sqrt{h}\right)\right] \\
 &=\ln (S_{0})+(r-\delta-0.5\sigma^{2})\frac{h}{N}\sum_{i=1}^{N}i+\frac{\sigma\sqrt{h}}{N}\sum_{i=1}^{N}\sum_{j=1}^{i}Z_{j}
 \end{aligned}$$
@@ -44,7 +44,7 @@ $$G (T)=S_{0}e^{\left[(r-\delta-0.5\sigma^{2})\frac{T}{2}\frac{N+1}{N}+\sigma\sq
 Where $Z\sim\mathcal{N}(0,  1)$ . Using equation (18.13),  we have
 $$\operatorname{E}\left[G (T)\right]=S_{0}e^{\left[(r-\delta-0.5\sigma^{2})\frac{N+1}{N}+\sigma^{2}\frac{(N+1)(2 N+1)}{6 N^{2}}\right]\frac{1}{2}T}$$
 
-The [[Hedging Strategies with Forwards|prepaid forward price]] for the average is
+The [prepaid forward price](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) for the average is
 $$e^{-rT}\mathrm{E}\left[G (T)\right]=S_{0}e^{-\left[r\frac{N-1}{N}+(\delta+0.5\sigma^{2})\frac{N+1}{N}-\sigma^{2}\frac{(N+1)(2 N+1)}{6 N^{2}}\right]\frac{1}{2}T}$$
 
 Thus,  we can price an option on the geometric average by setting the dividend yield for the average,  $\delta^{*}$ ,  equal to
@@ -57,10 +57,10 @@ If we take the limit as $N\rightarrow\infty$ ,  we have
 $$\begin{aligned}&\delta^{*}=\frac{1}{2}\left (r+\delta+\frac{1}{6}\sigma^{2}\right)\\&\sigma^{*}=\sigma\sqrt{\frac{1}{3}}\end{aligned}$$
 
 ## Average Price Options
-Geometric average price options,  for which the geometric average replaces the [[Chapter 16 - Black–Scholes Model|stock price]] are priced by substituting $\delta^{*}$ and $\sigma^*$ for $\delta$ and 0 in the [[Credit Markets Session 5|Black-Scholes formula]]
+Geometric average price options,  for which the geometric average replaces the [stock price](../Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) are priced by substituting $\delta^{*}$ and $\sigma^*$ for $\delta$ and 0 in the [Black-Scholes formula](../../Credit%20Markets/Credit%20Markets%20Session%205.md)
 
 ## Average Strike Options
-With geometric average strike options,  the average replaces the [[Call and Put Payoffs at Expiry|strike price]]. Thus,  we replace the [[Black Scholes Derivation|risk-free rate]] with $\delta^{*}$ and the [[Call and Put Payoffs at Expiry|strike price]] with $S_{0}$ .However,  we also need to compute the volatility of the difference between $\ln (S_{T})$ and $\ln (A (T))$$$\sigma^{**2}=\mathrm{Var}\left[\ln (S_T)-\ln (A_T)\right]$$
+With geometric average strike options,  the average replaces the [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md). Thus,  we replace the [risk-free rate](../../Financial%20Instruments/Black%20Scholes%20Derivation.md) with $\delta^{*}$ and the [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) with $S_{0}$ .However,  we also need to compute the volatility of the difference between $\ln (S_{T})$ and $\ln (A (T))$$$\sigma^{**2}=\mathrm{Var}\left[\ln (S_T)-\ln (A_T)\right]$$
 We can write$$\ln (S_T)=\ln (S_0)+(r-\delta-0.5\sigma^2) T+\sigma\sum_{i=1}^NZ_i\sqrt{h}$$
 Using equation (19.19),  the covariance between $\ln (S_T)$ and $\ln (A_T)$ is$$\begin{aligned}
 \operatorname{E}\left[\left (\sigma{\sqrt{h}}\sum_{i=1}^{N}Z_{i}\right)\left ({\frac{\sigma{\sqrt{h}}}{N}}\sum_{i=1}^{N}\sum_{j=1}^{i}Z_{j}\right)\right]& =\frac{\sigma^{2}h}{N}\left (\sum_{i=1}^{N}Z_{i}\right)\left (\sum_{i=1}^{N}\sum_{j=1}^{i}Z_{j}\right) \\
@@ -74,4 +74,4 @@ $$\begin{aligned}\rho&=\frac{\frac{\sigma^2 h}{2}(N+1)}{\left (\sigma\sqrt{T}\ri
 Note that when $N=1$ ,  $\rho=1$ ,  and as $N\to\infty$ ,  $\rho={\sqrt{3}}/2$ Using this expression for $\rho$ ,  we have
 $$\sigma^{**2}=\sigma^{2}T+\sigma^{2}T\frac{(N+1)(2 N+1)}{6 N^{2}}-2\rho\sigma^{2}T\frac{1}{N}\sqrt{\frac{(N+1)(2 N+1)}{6}}$$
 
-Thus,  to value an average strike option we substitute $\sigma^{\text{ 83}*}$ for the volatility and $\delta^{*}$ fo the interest rate. The dividend yield on the [[Risk Neutral Pricing of Options|underlying asset]] remains the same
+Thus,  to value an average strike option we substitute $\sigma^{\text{ 83}*}$ for the volatility and $\delta^{*}$ fo the interest rate. The dividend yield on the [underlying asset](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) remains the same

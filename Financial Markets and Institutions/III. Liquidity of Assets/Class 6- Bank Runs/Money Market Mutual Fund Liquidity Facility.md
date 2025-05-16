@@ -23,7 +23,7 @@ key_concepts:
 
 ### Facility
 
-   - To provide [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] to Money Market Mutual Funds ("Funds"),  the Federal Reserve Bank of Boston ("Reserve Bank") will lend to eligible borrowers,  taking as collateral certain types of assets purchased by the borrower from Funds.
+   - To provide [liquidity](../Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) to Money Market Mutual Funds ("Funds"),  the Federal Reserve Bank of Boston ("Reserve Bank") will lend to eligible borrowers,  taking as collateral certain types of assets purchased by the borrower from Funds.
 
 ### Timing
 
@@ -51,8 +51,8 @@ key_concepts:
    - Collateral that is eligible for pledge under the Facility must be one of the following types:
 	  1. U.S. Treasuries & Fully Guaranteed Agencies;
 	  1. Securities issued by U.S. Government Sponsored Entities;
-	  1. [[Asset Backed Commercial Paper Understanding the Risks|Asset-backed]] [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]],  unsecured [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]],  or a negotiable certificate of deposit that is issued by a U.S. issuer,  and that has a short-term rating at the time purchased from the Fund or pledged to the Reserve Bank in the top rating category (e.g.,  not lower than A 1,  F 1,  or P 1,  as applicable) from at least two major nationally recognized statistical rating organizations ("NRSRO") or,  if rated by only one major NRSRO,  is rated within the top rating category by that NRSRO;
-	  1. U.S. municipal [[When Safe Proved Risky Commercial Paper During the Financial Crisis of 2007 2009|short-term debt]] (excluding variable rate demand notes) that:
+	  1. [Asset-backed](../Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Asset%20Backed%20Commercial%20Paper%20Understanding%20the%20Risks.md) [](../Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Class%20Note%2012%20-%20Commercial%20Paper.md#Class%20Note%2012%20–%20Commercial%20Paper|Commercial%20Paper),  unsecured [](../Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Class%20Note%2012%20-%20Commercial%20Paper.md#Class%20Note%2012%20–%20Commercial%20Paper|Commercial%20Paper),  or a negotiable certificate of deposit that is issued by a U.S. issuer,  and that has a short-term rating at the time purchased from the Fund or pledged to the Reserve Bank in the top rating category (e.g.,  not lower than A 1,  F 1,  or P 1,  as applicable) from at least two major nationally recognized statistical rating organizations ("NRSRO") or,  if rated by only one major NRSRO,  is rated within the top rating category by that NRSRO;
+	  1. U.S. municipal [short-term debt](../Class%207-%20CP,%20Repo,%20and%20the%20Crisis/When%20Safe%20Proved%20Risky%20Commercial%20Paper%20During%20the%20Financial%20Crisis%20of%202007%202009.md) (excluding variable rate demand notes) that:
 		 i. Has a maturity that does not exceed 12 months; and
 		 Ii. At the time purchased from the Fund or pledged to the Reserve Bank:
 			1. Is rated in the top short-term rating category (e.g.,  rated SP 1,  MIG 1,  or F 1,  as applicable) by at least two major NRSROs or if rated by only one major NRSRO,  is rated within the top rating category by that NRSRO; or
@@ -63,13 +63,13 @@ key_concepts:
 			1. Is rated in the top short-term rating category (e.g.,  rated SP 1,  VMIG 1,  or F 1,  as applicable) by at least two major NRSROs or if rated by only one major NRSRO,  is rated within the top rating category by that NRSRO; or
 			1. If not rated in a short-term rating category,  is rated in one of the top two long-term rating categories (e.g.,  AA or equivalent or above) by at least two major NRSROs or if rated by only one major NRSRO,  is rated within the top two rating categories by that NRSRO.
 
-   - In addition,  the facility may accept receivables from certain [[Class Slides On Repurchase Agreements|repurchase agreements]].
+   - In addition,  the facility may accept receivables from certain [repurchase agreements](../Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Class%20Slides%20On%20Repurchase%20Agreements.md).
 	  - The feasibility of adding these and other asset classes to the facility will be considered in the future.
 
 ### Rate
 
    - Advances made under the Facility that are secured by U.S. Treasuries & Fully Guaranteed Agencies or Securities issued by U.S. Government Sponsored Entities will be made at a rate equal to the primary credit rate in effect at the Reserve Bank that is offered to depository institutions at the time the advance is made.
-   - Advances made under the Facility that are secured by U.S. municipal [[When Safe Proved Risky Commercial Paper During the Financial Crisis of 2007 2009|short-term debt]],  including variable rate demand notes,  will be made at a rate equal to the primary credit rate in effect at the Reserve Bank that is offered to depository institutions at the time the advance is made *plus* 25 bps.
+   - Advances made under the Facility that are secured by U.S. municipal [short-term debt](../Class%207-%20CP,%20Repo,%20and%20the%20Crisis/When%20Safe%20Proved%20Risky%20Commercial%20Paper%20During%20the%20Financial%20Crisis%20of%202007%202009.md),  including variable rate demand notes,  will be made at a rate equal to the primary credit rate in effect at the Reserve Bank that is offered to depository institutions at the time the advance is made *plus* 25 bps.
    - All other advances will be made at a rate equal to the primary credit rate in effect at the Reserve Bank that is offered to depository institutions at the time the advance is made *plus* 100 bps.
 
 ### Fees
@@ -79,11 +79,11 @@ key_concepts:
 ### Collateral Valuation
 
    - The collateral valuation will either be amortized cost or fair value.
-   - For [[Asset Backed Commercial Paper Understanding the Risks|asset-backed]] [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]],  unsecured [[Class Note 12 - Commercial Paper#Class Note 12 – Commercial Paper|Commercial Paper]],  negotiable certificates of deposit,  and U.S. municipal [[When Safe Proved Risky Commercial Paper During the Financial Crisis of 2007 2009|short-term debt]],  including variable rate demand notes,  the valuation will be amortized cost.
+   - For [asset-backed](../Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Asset%20Backed%20Commercial%20Paper%20Understanding%20the%20Risks.md) [](../Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Class%20Note%2012%20-%20Commercial%20Paper.md#Class%20Note%2012%20–%20Commercial%20Paper|Commercial%20Paper),  unsecured [](../Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Class%20Note%2012%20-%20Commercial%20Paper.md#Class%20Note%2012%20–%20Commercial%20Paper|Commercial%20Paper),  negotiable certificates of deposit,  and U.S. municipal [short-term debt](../Class%207-%20CP,%20Repo,%20and%20the%20Crisis/When%20Safe%20Proved%20Risky%20Commercial%20Paper%20During%20the%20Financial%20Crisis%20of%202007%202009.md),  including variable rate demand notes,  the valuation will be amortized cost.
 
 ### Advance Size
 
-   - Each advance shall be in a [[HSBC-Auto callable Barrier Notes with Step-up Premium|principal amount]] equal to the value of the collateral pledged to secure the advance.
+   - Each advance shall be in a [principal amount](../../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/HSBC-Auto%20callable%20Barrier%20Notes%20with%20Step-up%20Premium.md) equal to the value of the collateral pledged to secure the advance.
 
 ### Credit Protection **by the Department of the Treasury**
 
@@ -95,9 +95,9 @@ key_concepts:
 
 ### Regulatory Capital Treatment
 
-   - On March 19,  2020,  the Board,  the Office of the Comptroller of the [[Forwards and Futures Notes|Currency]],  and the Federal [[Bank Runs Deposit Insurance and Liquidity|Deposit Insurance]] Corporation issued an interim final rule to allow [[HKS The Banking Industry|banking]] organizations to neutralize the effects of purchasing assets through the program on risk-based and leveraged capital ratios.
+   - On March 19,  2020,  the Board,  the Office of the Comptroller of the [Currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md),  and the Federal [Deposit Insurance](Bank%20Runs%20Deposit%20Insurance%20and%20Liquidity.md) Corporation issued an interim final rule to allow [banking](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) organizations to neutralize the effects of purchasing assets through the program on risk-based and leveraged capital ratios.
    - See [https://www.federalreserve.gov/newsevents/pressreleases/files/monetary20200319a1.pdf](https://www.federalreserve.gov/newsevents/pressreleases/files/monetary20200319a1.pdf).
 
 ### Program Termination
 
-   - No new credit extensions will be made after September 30,  2020,  unless the Facility is extended by the Board of Governors of the [[Fed Fund Futures|Federal Reserve System]].
+   - No new credit extensions will be made after September 30,  2020,  unless the Facility is extended by the Board of Governors of the [Federal Reserve System](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md).

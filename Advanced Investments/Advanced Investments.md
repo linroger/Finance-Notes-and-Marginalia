@@ -40,17 +40,17 @@ key_concepts:
 # Advanced Investments
 
 %% Begin Waypoint %%
-- **[[Advanced Investments]]**
-	- [[Advanced Investments]]
-	- [[An Asset Allocation Primer]]
-	- [[Lecture 1- Probability Distributions of Returns]]
-	- [[Lecture 2- Asset Allocation with Multiple Risky Assets]]
-	- [[Lecture 3- Dynamics of Returns]]
-	- [[Lecture 4- Investor Sentiment]]
-	- [[Lecture 5- Dynamic Portfolio Choice]]
-	- [[Lecture 6-Leverage, Tail Risk, Volatility Products]]
-	- [[Lecture 7-Risk and Return of Bonds]]
-	- [[Lecture 8- Inflation & Sovereign Default Risk]]
+- **[Advanced Investments](.md)**
+	- [Advanced Investments](.md)
+	- [An Asset Allocation Primer](An%20Asset%20Allocation%20Primer.md)
+	- [Lecture 1- Probability Distributions of Returns](Lecture%201-%20Probability%20Distributions%20of%20Returns.md)
+	- [Lecture 2- Asset Allocation with Multiple Risky Assets](Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md)
+	- [Lecture 3- Dynamics of Returns](Lecture%203-%20Dynamics%20of%20Returns.md)
+	- [Lecture 4- Investor Sentiment](Lecture%204-%20Investor%20Sentiment.md)
+	- [Lecture 5- Dynamic Portfolio Choice](Lecture%205-%20Dynamic%20Portfolio%20Choice.md)
+	- [Lecture 6-Leverage, Tail Risk, Volatility Products](Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)
+	- [Lecture 7-Risk and Return of Bonds](Lecture%207-Risk%20and%20Return%20of%20Bonds.md)
+	- [Lecture 8- Inflation & Sovereign Default Risk](Lecture%208-%20Inflation%20&%20Sovereign%20Default%20Risk.md)
 
 %% End Waypoint %%
 

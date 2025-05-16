@@ -22,7 +22,7 @@ key_concepts:
 
 Suppose there are two urns.  John has one urn and Abdul has the other. The two urns each  contain   $n$   balls. Of the total of  $2n$   balls,  $n$   are red and  $n$   are black. At each step of a random  process, one of the balls in each urn (John’s and Abdul’s) is chosen at random and John and  Abdul then exchange these two balls. So, that each urn continues to contain  $n$   balls. Let the  1 state of the system be indexed by the number ,  $r_{:}$  , of red balls in John’s urn.  
 
-Now, the [[A Primer on Probability Theory and Stochastic  Modelling|transition probabilities]] for a [[A Primer on Probability Theory and Stochastic  Modelling|Markov Chain model]] of this process is given by:  
+Now, the [transition probabilities](.md) for a [Markov Chain model](.md) of this process is given by:  
 
 If there are   $X_{i}$   red balls in John’s urn at step i,  
 $P_{r,s}=P\big(X_{i+1}=s\big|X_{i}=r\big)\qquad\mathit{f o r\,r},\,s=O,\,I,\,...,\,n.$    Then  $P_{O,I}=1$    also P  $P_{n,n+I}\,=\,1$  
@@ -30,7 +30,7 @@ $P_{r,s}=P\big(X_{i+1}=s\big|X_{i}=r\big)\qquad\mathit{f o r\,r},\,s=O,\,I,\,...
 When  $X_{i}=r$  , John’s urn contains  $r$   red and   $(n{-}1)$   black, and Abdul’s ( n -1) red and  $r$    black.  
 $P_{_{r,r+1}}=P\big({c h o o s e\,r e d\,i n\,R o d/s\,u r n}\big|X_{_{i}}=r\big).\,P\big({c h o o s e\,\,b l a c k\,i n\,A b u k a r/s\,u r n}\big|X_{_{i}}=r\big).$  =      $P_{r,r}=2{\bigg(}{\frac{r}{n}}{\bigg)}{\bigg(}1\!-\!{\frac{r}{n}}{\bigg)}\;\;\,b y\,s i m i l a r\,a r g u m e n t;\,a n d\,a l s o$     $P_{_{r,r+1}}=\left(1-{\frac{r}{n}}\right)^{2}\quad{\it o t h e r w i s e}\,P_{_{r,s}}=0$  
 
-Now that we worked out an expression for [[A Primer on Probability Theory and Stochastic  Modelling|transition probabilities]], we can write a system of  equations that must be satisfied by the [[A Primer on Probability Theory and Stochastic  Modelling|stationary distribution]] of this model.  
+Now that we worked out an expression for [transition probabilities](.md), we can write a system of  equations that must be satisfied by the [stationary distribution](.md) of this model.  
 $$
 \bar{\Pi}=\left[\Pi_{0},\Pi_{1},...,\Pi_{n}\right]
 $$  

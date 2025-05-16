@@ -8,15 +8,15 @@ key_concepts:
   - Risk-adjusted probabilities
 ---
 %% Begin Waypoint %%
-- **[[Chapter 11 - Risk-adjusted probabilities]]**
-	- [[Change of Probability Measure]]
-	- [[Changing the Numeraire Without Changing the Me]]
-	- [[Chapter 11 - Risk-adjusted probabilities]]
-	- [[Concluding Remarks]]
-	- [[Exercises]]
-	- [[Forward Risk-Adjusted Probability Measures]]
-	- [[General Risk-Adjusted Probability Measures]]
-	- [[Risk-Neutral Probabilities]]
+- **[Chapter 11 - Risk-adjusted probabilities](.md)**
+	- [Change of Probability Measure](Change%20of%20Probability%20Measure.md)
+	- [Changing the Numeraire Without Changing the Me](Changing%20the%20Numeraire%20Without%20Changing%20the%20Me.md)
+	- [Chapter 11 - Risk-adjusted probabilities](.md)
+	- [Concluding Remarks](Concluding%20Remarks.md)
+	- [Exercises](Exercises.md)
+	- [Forward Risk-Adjusted Probability Measures](Forward%20Risk-Adjusted%20Probability%20Measures.md)
+	- [General Risk-Adjusted Probability Measures](General%20Risk-Adjusted%20Probability%20Measures.md)
+	- [Risk-Neutral Probabilities](Risk-Neutral%20Probabilities.md)
 
 %% End Waypoint %%
 

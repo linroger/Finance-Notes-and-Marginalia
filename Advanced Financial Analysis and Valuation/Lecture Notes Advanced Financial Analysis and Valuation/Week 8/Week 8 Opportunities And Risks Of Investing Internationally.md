@@ -20,12 +20,12 @@ key_concepts:
 Thomas Rauter
 
 ## THIS PRE-RECORDING
- - [[Week 8 Opportunities And Risks Of Investing Internationally|Importance of international investments]]
-	‒ [[Chapter 1-[[Chapter 1-Introduction to Globalization|Introduction to Globalization]]|Globalization]] of markets
- - [[Week 8 Opportunities And Risks Of Investing Internationally|Opportunities of investing abroad]]: FDI and M&A
-	‒ [[Week 8 Opportunities And Risks Of Investing Internationally|Global M&A Trends]]
- - [[Week 8 Opportunities And Risks Of Investing Internationally|Opportunities of investing abroad]]: [[An Asset Allocation Primer|Portfolio]] Investments
-	‒ [[Week 8 Opportunities And Risks Of Investing Internationally|Diversification benefits]]
+ - [Importance of international investments](.md)
+	‒ [Introduction to Globalization](Chapter%201-[[Chapter%201-Introduction%20to%20Globalization)|Globalization]] of markets
+ - [Opportunities of investing abroad](.md): FDI and M&A
+	‒ [Global M&A Trends](.md)
+ - [Opportunities of investing abroad](.md): [Portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Investments
+	‒ [Diversification benefits](.md)
 	‒ To what extent do investors invest abroad?
  - International risks
 	‒ International risks and the cost of capital
@@ -34,43 +34,43 @@ Thomas Rauter
 
 # OPPORTUNITIES OF INVESTING ABROAD: FDI AND M&A
 ## IMPORTANCE OF INTERNATIONAL INVESTMENTS
- - [[Chapter 1-[[Chapter 1-Introduction to Globalization|Introduction to Globalization]]|Globalization]] of markets
+ - [Introduction to Globalization](Chapter%201-[[Chapter%201-Introduction%20to%20Globalization)|Globalization]] of markets
 	‒ Financial integration through liberalization of capital markets
-	‒ [[Chapter 1-Introduction to Globalization|Economic integration]] through increased trade
+	‒ [Economic integration](../../../International%20Finance/Globalization/Chapter%201-Introduction%20to%20Globalization.md) through increased trade
  - Increased integration has led to a dramatic increase in cross-border M&A, particularly with emerging markets
 	 ‒ Firms become more international in their operations
 	 ‒ Best opportunities have often been abroad
-	‒ Increasingly, [[Week 8 Opportunities And Risks Of Investing Internationally|emerging market companies]] are engaging in cross-border M&A too
+	‒ Increasingly, [emerging market companies](.md) are engaging in cross-border M&A too
  ![500](e11293d67da4513ac39bdee0062b3960.png)
 ## CROSS-BORDER M&A ACCOUNTS FOR 25-30%
 
  ![500](6f42af0cbb2e4f296474e86a1f1d92b7.png)
 
 ## EMERGING MARKET COMPANIES
- - At the start of the 90s, companies from U.S., Western Europe and Japan represented the bulk of the [[The Economist Fewer Or Even None|global economy]]
+ - At the start of the 90s, companies from U.S., Western Europe and Japan represented the bulk of the [global economy](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Fewer%20Or%20Even%20None.md)
  - This has fundamentally changed over the past 25 years
-	‒ [[Week 8 Opportunities And Risks Of Investing Internationally|Emerging market companies]] are among the largest globally
+	‒ [Emerging market companies](.md) are among the largest globally
 	‒ Weight of EMs in MSCI All Country index has increased
 	 - From 2% in 1988 to 22% in 2016 (from 24 countries)
 	‒ Increasing investor demand for these companies
  - Key issues when analyzing emerging market firms:
-	‒ [[Forwards and Futures Notes|Currency]] risks and exchange rate volatility
+	‒ [Currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) risks and exchange rate volatility
 	‒ Country and institutional risks
 	‒ Information quality, corporate governance, ownership concentration
- - Basic ingredients for valuing [[Week 8 Opportunities And Risks Of Investing Internationally|emerging market companies]] are the same
+ - Basic ingredients for valuing [emerging market companies](.md) are the same
 	‒ But many practical issues
 
 # OPPORTUNITIES OF INVESTING ABROAD
 ## WHY INVEST ABROAD?
- - Commonly cited benefits from [[Week 8 Opportunities And Risks Of Investing Internationally|investing abroad]] (as a [[An Asset Allocation Primer|portfolio]] investor)
-	‒ Higher [[Assets|returns]] than in the U.S.
-	‒ [[Week 8 Opportunities And Risks Of Investing Internationally|Diversification benefits]]
+ - Commonly cited benefits from [investing abroad](.md) (as a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) investor)
+	‒ Higher [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) than in the U.S.
+	‒ [Diversification benefits](.md)
  - Domestic multinationals have significant international exposure
-	‒ But offer inefficient diversification compared to international [[An Asset Allocation Primer|portfolio]]
- - Purely domestic [[An Asset Allocation Primer|portfolio]] can be viewed as an "active" deviation from a global benchmark
+	‒ But offer inefficient diversification compared to international [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)
+ - Purely domestic [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) can be viewed as an "active" deviation from a global benchmark
  - Domestic strategy can have significant asset-selection risks as well as industry and style tilts (relative to global benchmark), especially true for
 	 - Domestic large cap strategy
-	 - In countries with small domestic [[An Introduction to Equity Markets|equity markets]]
+	 - In countries with small domestic [equity markets](../../../Financial%20Engineering/An%20Introduction%20to%20Equity%20Markets.md)
 
 ## DIVERSIFICATION ILLUSTRATED STARTING FROM UK BENCHMARK
 
@@ -83,7 +83,7 @@ Global Equity Model (GEM2L)
 
  - Emerging markets have historically outperformed developed markets
 	‒ But they also are riskier  - see volatility in chart above
- - U.S. has offered a higher return for a given level of risk and hence was more attractive standalone [[An Asset Allocation Primer|investment]] than most foreign markets
+ - U.S. has offered a higher return for a given level of risk and hence was more attractive standalone [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) than most foreign markets
  -     ‒ This does not imply that foreign markets are not attractive in combination with U.S. stocks
 
 ## DIVERSIFICATION BENEFITS
@@ -95,17 +95,17 @@ Global Equity Model (GEM2L)
 
 Figure 2: Going Abroad Has Provided Diversification
  ![500](aa03ea8c4c0d5fb429715f53ece7498d.png)
-Even a small fraction of foreign [[An Asset Allocation Primer|investment]] in developed economies dominated a 100% US [[An Asset Allocation Primer|portfolio]]
+Even a small fraction of foreign [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in developed economies dominated a 100% US [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)
 
 ## DIVERSIFICATION BENEFITS FROM EMERGING MARKETS (EMS)
  - EMs often viewed as appealing due to lower correlations with the U.S. as compared to other developed markets (DMs)
-	‒ Additional [[Week 8 Opportunities And Risks Of Investing Internationally|diversification benefits]] relative to DMs
+	‒ Additional [diversification benefits](.md) relative to DMs
  - In 70s and 80s, EM correlations with U.S. were very low
 	‒ Still fairly low in 90s
  - In last two decades, correlations with U.S. have increased considerably
 	‒ True for both EMs and DMs
 	‒ Effect of market liberalizations, financial integration, macroeconomic coordination, and globalization
- - What does this mean for [[Week 8 Opportunities And Risks Of Investing Internationally|diversification benefits]]?
+ - What does this mean for [diversification benefits](.md)?
 
 ## CHANGES IN CORRELATIONS OVER TIME
 
@@ -117,33 +117,33 @@ Even a small fraction of foreign [[An Asset Allocation Primer|investment]] in de
 
 ## IS IT STILL WORTH IT (GIVEN INCREASE IN CORRELATIONS)?
  - Do we care about a low correlation per se?
-	‒ We would not use a lottery for diversification (even though it is uncorrelated with our [[An Asset Allocation Primer|portfolio]] return)
- - [[Week 8 Opportunities And Risks Of Investing Internationally|Diversification benefits]] are not just determined by the correlations
-	‒ They also depend on expected [[Assets|returns]] and volatility
- - It is possible that [[Week 8 Opportunities And Risks Of Investing Internationally|diversification benefits]] and the Sharpe ratio increase, despite the fact that correlations increase
-	‒ Not only correlations, but also [[Assets|returns]] and risk in EMs have changed over time
+	‒ We would not use a lottery for diversification (even though it is uncorrelated with our [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) return)
+ - [Diversification benefits](.md) are not just determined by the correlations
+	‒ They also depend on expected [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) and volatility
+ - It is possible that [diversification benefits](.md) and the Sharpe ratio increase, despite the fact that correlations increase
+	‒ Not only correlations, but also [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) and risk in EMs have changed over time
  ![500](72e49dcc3283b9b7f1691dbbbb05c9f4.png)
 ## TREND TOWARDS INVESTMENTS IN INTERNATIONAL SMALL CAPS
  - These investments are often motivated by lower correlations of small caps
  ![500](4d76ef317684ed981466826dd9bdd8ee.png)
 ## TREND TOWARDS INTERNATIONAL SMALL CAPS (CONT.)
  - Conceptually, it makes sense that multinationals and large global players in EMs offer less diversification
-	‒ But again, we also need to consider expected [[Assets|returns]] and volatility
+	‒ But again, we also need to consider expected [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) and volatility
  - While foreign small caps can be attractive from a diversification or growth perspective, they tend to have larger risks and pose challenges in terms of
 	‒ Information
 	‒ Corporate governance
-	‒ [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|Liquidity]]
+	‒ [Liquidity](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md)
  - These risks matter especially for M&A
 
 ## WHAT ABOUT CRISES?
- - [[Week 8 Opportunities And Risks Of Investing Internationally|Diversification benefits]] and optimal allocations change through time
+ - [Diversification benefits](.md) and optimal allocations change through time
 	‒ See earlier graphs
  - During financial or corona crisis, there was no place to hide (in equities)
 	‒ See next slide
- - Do we really believe that we can hedge against a major [[Squam Lake Group Letter|financial crisis]] (rocking banks in developed countries) by buying shares in China (or elsewhere)?
+ - Do we really believe that we can hedge against a major [financial crisis](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Letter.md) (rocking banks in developed countries) by buying shares in China (or elsewhere)?
 	 ‒ China is highly dependent on the U.S. consumer
-	‒ [[Financial Markets and Institutions Lecture Notes|Financial markets]] have never been more interconnected
-	‒ This risk is better addressed with [[Lecture 2- [[Lecture 2- Asset Allocation with Multiple Risky Assets|Asset Allocation]] with [[Lecture 2- Asset Allocation with Multiple Risky Assets|Multiple Risky Assets]]|[[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]]]] (across classes of assets)
+	‒ [Financial markets](../../../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) have never been more interconnected
+	‒ This risk is better addressed with [Asset Allocation](Lecture%202-%20[[Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets) with [Multiple Risky Assets](../../../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md)|[asset allocation](../../../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md)]] (across classes of assets)
  - So not really an argument against diversification
 
 ## CORRELATIONS WITH U.S. RETURNS IN THE FINANCIAL CRISIS
@@ -151,20 +151,20 @@ Even a small fraction of foreign [[An Asset Allocation Primer|investment]] in de
  ![500](63ef2bab6295c5af5492a5915d7a1787.png)
 
  - Similar results could be shown for other crises
- - Despite widespread negative [[Assets|returns]], there are substantial differences in how EMs fare during crises
+ - Despite widespread negative [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md), there are substantial differences in how EMs fare during crises
  - Crisis performance often depends on countries' legal and political institutions
 ## TO WHAT EXTENT DO WE INVEST ABROAD?
- - In sum, case for [[An Asset Allocation Primer|investment]] in EMs as part of an equity [[An Asset Allocation Primer|portfolio]] remains strong
-	‒ EMs offer substantial [[Week 8 Opportunities And Risks Of Investing Internationally|diversification benefits]]
-	‒ EMs provide interesting [[An Asset Allocation Primer|investment]] opportunities
+ - In sum, case for [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in EMs as part of an equity [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) remains strong
+	‒ EMs offer substantial [diversification benefits](.md)
+	‒ EMs provide interesting [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunities
  - Nevertheless, there is significant home bias around the world
-	‒ Traditional [[Lecture 2- [[Lecture 2- Asset Allocation with Multiple Risky Assets|Asset Allocation]] with [[Lecture 2- Asset Allocation with Multiple Risky Assets|Multiple Risky Assets]]|[[Lecture 2- Asset Allocation with Multiple Risky Assets|asset allocation]]]]: Domestic/international is still common
- - Traditional explanation: Barriers to foreign [[An Asset Allocation Primer|investment]], e.g.,
-	‒ Capital and [[Forwards and Futures Notes|currency]] controls;
+	‒ Traditional [Asset Allocation](Lecture%202-%20[[Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets) with [Multiple Risky Assets](../../../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md)|[asset allocation](../../../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md)]]: Domestic/international is still common
+ - Traditional explanation: Barriers to foreign [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), e.g.,
+	‒ Capital and [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) controls;
 	‒ Transaction and trading costs
 	‒ Different accounting standards
- - Many traditional barriers to foreign [[An Asset Allocation Primer|investment]] have decreased over time:
-	‒ Adoption of [[Week 9-Information Risks and (International) Accounting Differences, Platform Businesses|international accounting]] standards (IFRS)
+ - Many traditional barriers to foreign [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) have decreased over time:
+	‒ Adoption of [international accounting](../Week%209/Week%209-Information%20Risks%20and%20(International)%20Accounting%20Differences,%20Platform%20Businesses.md) standards (IFRS)
 	‒ Financial liberalizations in many countries
  - However, home bias has not declined much, given the decline in barriers
 	‒ Barriers and transaction costs alone cannot explain home bias
@@ -181,28 +181,28 @@ Kho et al. / Journal of Accounting Research, Vol. 47 No. 2 May 2009
 - HOME BIAS HAS NOT SUBSTANTIALLY CHANGED FROM 1994 TO 2004
 
 ## NON -TRADITIONAL REASONS FOR HOME BIAS
- - Behavioral and cultural [[Week 2 Fundamentals Of Forecasting|biases]] (e.g., familiarity)
+ - Behavioral and cultural [biases](../Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) (e.g., familiarity)
  - Concentrated ownership around the world
 	‒ Home bias is much smaller once we adjust for availability of shares (free float)
  - What countries and which foreign stocks do U.S. investors shy away from? (e.g., Leuz et al., RFS 2009)
 	‒ U.S. investors invest less in countries with poor institutions and firms where the managers and their families have high levels of control
 	‒ Result is particularly pronounced for firms with poor info flows
  - Information and governance problems can explain a good deal of home bias
-	‒ Information and governance explanations have different implications than behavioral or cultural [[Week 2 Fundamentals Of Forecasting|biases]]
+	‒ Information and governance explanations have different implications than behavioral or cultural [biases](../Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md)
 	‒ There can be good reasons why investors put less money in certain foreign markets
 
 # INTERNATIONAL RISKS
 ## INTERNATIONAL RISKS
- - [[Chapter 1-Introduction to Globalization|International investments]] have a broad range of risks
-	‒ "Classic" international risks: [[Forwards and Futures Notes|Currency]] and macroeconomic risks
+ - [International investments](../../../International%20Finance/Globalization/Chapter%201-Introduction%20to%20Globalization.md) have a broad range of risks
+	‒ "Classic" international risks: [Currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) and macroeconomic risks
  - But there are other issues to consider
 	‒ Poor outside investor and legal protection
 	 ‒ Corporate governance and expropriation by controlling insiders
 	‒ Transparency and information risks
 	‒ Corruption and political risk (e.g., expropriation by government)
  - These factors matter particularly in financial crises
-	‒ They can explain crisis [[Assets|returns]] (e.g., Asian crisis)
-	‒ [[Trading and Liquidity|Market liquidity]] and ability to trade is closely linked to transparency
+	‒ They can explain crisis [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) (e.g., Asian crisis)
+	‒ [Market liquidity](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Trading%20and%20Liquidity.md) and ability to trade is closely linked to transparency
 	‒ Transaction costs (in particular price impact)
  - Lecture will cover a number of these risks
 
@@ -210,15 +210,15 @@ Kho et al. / Journal of Accounting Research, Vol. 47 No. 2 May 2009
 ## MEASURING INTERNATIONAL AND COUNTRY RISKS
  - There are many useful sources
 	‒ Economist Intelligence Unit (EIU)
-	‒ His Economics and [[How Countries Go Broke-Chapter 15 & Chapter 16|Country Risk]]
+	‒ His Economics and [Country Risk](../../../International%20Finance/Bridgewater/How%20Countries%20Go%20Broke/How%20Countries%20Go%20Broke-Chapter%2015%20&%20Chapter%2016.md)
 	‒ Institutional Investor Country Credit Ratings (IICCR)
-	‒ International [[How Countries Go Broke-Chapter 15 & Chapter 16|Country Risk]] Guide (ICRG)
+	‒ International [Country Risk](../../../International%20Finance/Bridgewater/How%20Countries%20Go%20Broke/How%20Countries%20Go%20Broke-Chapter%2015%20&%20Chapter%2016.md) Guide (ICRG)
  - Measuring institutional quality is a major effort at the World Bank and IMF
 	‒ Worldwide Governance Indicators & Doing Business Reports
  - Measuring political risks is still an art rather than a science
  - - Scores often map into sovereign spreads
 	‒ Priced in cost of capital
- - Scores can beuseful to quantify country differences as well as the  components of [[How Countries Go Broke-Chapter 15 & Chapter 16|country risk]]
+ - Scores can beuseful to quantify country differences as well as the  components of [country risk](../../../International%20Finance/Bridgewater/How%20Countries%20Go%20Broke/How%20Countries%20Go%20Broke-Chapter%2015%20&%20Chapter%2016.md)
 
 ## INTERNATIONAL COUNTRY RISK GUIDE (ICRG): RISK CATEGORIES
 
@@ -285,7 +285,7 @@ Source: World Bank, Worldwide Governance Indicators, 2018
 	‒ $$-\mathrm{CoC=R_f^{US}+Beta^*(U.S.~Equity~Premium)+SS}$$
 ## WHAT DO PRACTITIONERS DO?
  - There are many different models and proposed approaches
-	‒ Different values for Exxon Mobile [[An Asset Allocation Primer|investment]] in Argentina (in 2005):
+	‒ Different values for Exxon Mobile [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in Argentina (in 2005):
  ![500](0555ef14899a81b739ae1ad30cf57de7.png)
  - Salomon Smith Barney survey (2002):
 "Unfortunately, the only real consensus is that there is no consensus on how to estimate the international cost of capital. Almost every academic or practitioner has a different recommendation."

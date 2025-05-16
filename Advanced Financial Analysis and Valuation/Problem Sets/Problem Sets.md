@@ -21,22 +21,22 @@ key_concepts:
 # Problem Sets
 
 %% Begin Waypoint %%
-- **[[Problem Sets]]**
-	- [[BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS]]
-	- [[DOLLAR GENERAL CASE STUDY]]
-	- [[DOLLAR TREE CASE STUDY]]
-	- [[HBS Case- Medfield Pharmaceuticals]]
-	- [[HBS Citigroup 2007-Financial Reporting And Regulatory Capital]]
-	- [[HBS DOLLAR GENERAL GOING PRIVATE]]
-	- [[HBS Kohler A]]
-	- [[HBS Westlake Case]]
-	- [[HBS-Blackstone And The Sale Of Citigroup's Loan Portfolio]]
-	- [[HKS The Banking Industry]]
-	- [[Problem Sets]]
-	- [[PSET 2- GROUP ASSIGNMENT]]
-	- [[PSET 3 Advanced Financial Analysis and Valuation]]
-	- [[PSET 5- Pharmaceuticals And Intangibles In Valuation]]
-	- [[PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios]]
-	- [[PSET 7- Kohler]]
+- **[Problem Sets](.md)**
+	- [BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS](BROADLINES%20RETAILING%20DAY%20WITH%20THE%20DOLLAR%20STORE%20HIGHLIGHTS.md)
+	- [Dollar General Case Study](Dollar%20General%20Case%20Study.md)
+	- [DOLLAR TREE CASE STUDY](DOLLAR%20TREE%20CASE%20STUDY.md)
+	- [HBS Case- Medfield Pharmaceuticals](HBS%20Case-%20Medfield%20Pharmaceuticals.md)
+	- [HBS Citigroup 2007-Financial Reporting And Regulatory Capital](HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital.md)
+	- [HBS DOLLAR GENERAL GOING PRIVATE](HBS%20DOLLAR%20GENERAL%20GOING%20PRIVATE.md)
+	- [HBS Kohler A](HBS%20Kohler%20A.md)
+	- [HBS Westlake Case](HBS%20Westlake%20Case.md)
+	- [HBS-Blackstone And The Sale Of Citigroup's Loan Portfolio](HBS-Blackstone%20And%20The%20Sale%20Of%20Citigroup's%20Loan%20Portfolio.md)
+	- [HKS The Banking Industry](HKS%20The%20Banking%20Industry.md)
+	- [Problem Sets](.md)
+	- [PSET 2- GROUP ASSIGNMENT](PSET%202-%20GROUP%20ASSIGNMENT.md)
+	- [PSET 3 Advanced Financial Analysis and Valuation](PSET%203%20Advanced%20Financial%20Analysis%20and%20Valuation.md)
+	- [PSET 5- Pharmaceuticals And Intangibles In Valuation](PSET%205-%20Pharmaceuticals%20And%20Intangibles%20In%20Valuation.md)
+	- [PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios](PSET%206-%20Evaluating%20Bank%20Balance%20Sheets%20and%20Loan%20Portfolios.md)
+	- [PSET 7- Kohler](PSET%207-%20Kohler.md)
 
 %% End Waypoint %%

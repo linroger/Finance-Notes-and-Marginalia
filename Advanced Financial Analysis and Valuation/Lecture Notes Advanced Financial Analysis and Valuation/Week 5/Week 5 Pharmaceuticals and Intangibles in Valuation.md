@@ -30,16 +30,16 @@ Here is a tagged summary of the text:
 
 **Tag 2: Valuation Exercise**
 
-* Valuing existing pipeline ([[Week 2 Fundamentals Of Forecasting|forecasting]] by product line; components)
+* Valuing existing pipeline ([forecasting](../Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) by product line; components)
 * Valuing a new strategy
-* Assessing the [[Week 2 Dollar General Case- Assignment Review|acquisition offer]]
+* Assessing the [acquisition offer](../Week%202/Week%202%20Dollar%20General%20Case-%20Assignment%20Review.md)
 * Includes an ethical or CSR dimension, such as "tricks" to extend patents
 
-**Tag 3: [[Week 5 Pharmaceuticals and Intangibles in Valuation|Goodwill and Future M&A]]**
+**Tag 3: [Goodwill and Future M&A](.md)**
 
 * Forecasts future M&A activity can impact balance sheet values (goodwill and intangibles) on the balance sheet
 * Key question: Is it necessary to forecast a realistic/accurate future balance sheet?
-* Value creation through future M&A is important, but [[Week 2 Fundamentals Of Forecasting|forecasting]] accuracy is not always possible
+* Value creation through future M&A is important, but [forecasting](../Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) accuracy is not always possible
 
 **Tag 4: Multiple Sensitivity**
 
@@ -54,7 +54,7 @@ cssclasses: academia
 aliases: [Week 5 Pharmaceuticals and Intangibles in Valuation.md,  Week 5 Pharmaceuticals and Intangibles in Valuation.md]
 tags:
 
-  - "[[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]]"
+  - "[pharmaceuticals](.md)"
   - healthcare
   - finance
   - intangible-assets
@@ -63,22 +63,22 @@ tags:
 title: Week 5 Pharmaceuticals and Intangibles in Valuation
 ---
 
-[[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]]
+[pharmaceuticals](.md)
 
 #### TODAY
-- Health care & [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]]
+- Health care & [pharmaceuticals](.md)
 	 - Moats
 	 - Value drivers
-	 - [[Week 4 Valuing Young and High‐Growth Companies|Accounting Shenanigans]]
-- Importance of [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#[[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill|INTANGIBLE AMORTIZATION]] AND NON‐GAAP REPORTING|intangible]] assets
-- Accounting treatment of [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#[[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill|INTANGIBLE AMORTIZATION]] AND NON‐GAAP REPORTING|intangible]] investments
+	 - [Accounting Shenanigans](../Week%204%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%204%20Valuing%20Young%20and%20High‐Growth%20Companies.md)
+- Importance of [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#[[Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill|INTANGIBLE%20AMORTIZATION) AND NON‐GAAP REPORTING|intangible]] assets
+- Accounting treatment of [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#[[Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill|INTANGIBLE%20AMORTIZATION) AND NON‐GAAP REPORTING|intangible]] investments
 	 - Effects of accounting treatment
 	 - Does capitalization matter? (pre‐recording)
 - Economic profit model and terminal value revisited
 - Intangibles in valuation
-	 - Adjusting for [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#[[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill|INTANGIBLE AMORTIZATION]] AND NON‐GAAP REPORTING|intangibles]] in intrinsic value models (DCF & EP)
-	 - Adjusting for [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#[[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill|INTANGIBLE AMORTIZATION]] AND NON‐GAAP REPORTING|intangibles]] in relative valuation
-- [[PSET 5- Pharmaceuticals And Intangibles In Valuation|Medfield Case]]
+	 - Adjusting for [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#[[Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill|INTANGIBLE%20AMORTIZATION) AND NON‐GAAP REPORTING|intangibles]] in intrinsic value models (DCF & EP)
+	 - Adjusting for [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#[[Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill|INTANGIBLE%20AMORTIZATION) AND NON‐GAAP REPORTING|intangibles]] in relative valuation
+- [Medfield Case](../../Problem%20Sets/PSET%205-%20Pharmaceuticals%20And%20Intangibles%20In%20Valuation.md)
 - Goodwill and M&A (vs. organic growth)
 
 ### MOAT SOURCES IN HEALTH CARE SECTOR
@@ -92,7 +92,7 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 	 - Tend To Have (Wide) Moats Based On Intangibles (I.E.,  Patents; Usually 20 Years)
 	 - But Long Research And Approval Process Implies That Effective Patent Protection is shorter than 20 years
  - Key considerations:
-	   - Diversity of drug [[An Asset Allocation Primer|portfolio]] and patent expiry
+	   - Diversity of drug [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and patent expiry
 	   - Development and pipeline of new drugs
 	   - Size of pharma company (e.g.,  funding,  ability to manage and sustain long process)
 	   - Market size (heart disease,  cancer) & substitutes – disease websites (e.g.,  cancer.gov)
@@ -100,9 +100,9 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 	 - Tend to be smaller and riskier,  more like options
 	 - Biotech risk is often idiosyncratic
 	 - Again,  size of the market is a key consideration
- - Valuation often requires decision trees or [[Week 4 Valuing Young and High‐Growth Companies|scenario analysis]]
+ - Valuation often requires decision trees or [scenario analysis](../Week%204%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%204%20Valuing%20Young%20and%20High‐Growth%20Companies.md)
 
- ![500](00348565cb785c53c4bbc082db1df9a1.png)### [[Week 5 Pharmaceuticals and Intangibles in Valuation|DRUG DEVELOPMENT PROCESS]]
+ ![500](00348565cb785c53c4bbc082db1df9a1.png)### [DRUG DEVELOPMENT PROCESS](.md)
 
 ### DRUG DEVELOPMENT PROCESS (CONT.)
 
@@ -115,7 +115,7 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 ### DIFFERENT HEALTH CARE FIRMS & BUSINESS MODELS (CONT.)
 - Medical Device Companies
 	 - Make implantable hardware for human body
-	 - Moat sources tend to be intellectual property ([[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#[[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill|INTANGIBLE AMORTIZATION]] AND NON‐GAAP REPORTING|intangibles]] ) but also physician relationships (switching costs)
+	 - Moat sources tend to be intellectual property ([](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#[[Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill|INTANGIBLE%20AMORTIZATION) AND NON‐GAAP REPORTING|intangibles]] ) but also physician relationships (switching costs)
 		   - Marketing and sales force
 		   - Training and tools for implants
  - Compared to pharma,  innovation tends to be more evolutionary rather disruptive or revolutionary
@@ -183,7 +183,7 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 - From 1998 to 2001 Citi and Enron engaged in a series of transactions to "create" operating cash inflows for Enron
 - A large share of these transactions was structured as prepay transactions
 	 - Each transaction seemingly transfers commodity risk
-	 - Jointly,  no commodity risk is transferred and Enron essentially receives a short-term loan,  but it classifies the cash inflow as operating [[Preview of the Book|cash flow]]
+	 - Jointly,  no commodity risk is transferred and Enron essentially receives a short-term loan,  but it classifies the cash inflow as operating [cash flow](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md)
 		   - Future fixed payment of $255.6 million
 		   - Upfront payment of $249.5 million
 
@@ -193,7 +193,7 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
  ![500](a33303a2ea6bca83e2ccd75601c0f3e4.png)
 
 - Shift from manufacturing to service & technology
-- Many key assets of firms are [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#[[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill|INTANGIBLE AMORTIZATION]] AND NON‐GAAP REPORTING|intangibles]] :
+- Many key assets of firms are [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#[[Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill|INTANGIBLE%20AMORTIZATION) AND NON‐GAAP REPORTING|intangibles]] :
 	 - R&D and patents
 	 - Brands and advertising
 	 - Training and human capital investments
@@ -204,7 +204,7 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 
 #### ECONOMICS OF INTANGIBLES
 
-- What makes [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#[[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill|INTANGIBLE AMORTIZATION]] AND NON‐GAAP REPORTING|intangibles]] special?
+- What makes [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#[[Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill|INTANGIBLE%20AMORTIZATION) AND NON‐GAAP REPORTING|intangibles]] special?
 	 - Non‐rival: Can be consumed by many
 	 - Non‐excludable: Hard to prevent the use by others
 - Scalability
@@ -228,13 +228,13 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 #### ACCOUNTING TREATMENT OF INTANGIBLES
 
 - Core idea behind the accounting treatment of investments:
-	 - Any expenditure that creates benefits over many years is an [[An Asset Allocation Primer|investment]] (or asset)
+	 - Any expenditure that creates benefits over many years is an [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) (or asset)
 	 - Expenditures that generate benefits only in current year are operating expenses
 	- Therefore,  capital expenditures for PP&E are investments
-- But [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#[[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill|INTANGIBLE AMORTIZATION]] AND NON‐GAAP REPORTING|intangibles]] also generate future benefits and require capital expenditures:
+- But [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#[[Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill|INTANGIBLE%20AMORTIZATION) AND NON‐GAAP REPORTING|intangibles]] also generate future benefits and require capital expenditures:
 - Accountants have treated these expenditures as operating expenses
 	 - Unless they acquired in market transaction
-	 - Acquired [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#[[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill|INTANGIBLE AMORTIZATION]] AND NON‐GAAP REPORTING|intangibles]] (e.g.,  via M&A,  etc.) are capitalized and amortized
+	 - Acquired [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#[[Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill|INTANGIBLE%20AMORTIZATION) AND NON‐GAAP REPORTING|intangibles]] (e.g.,  via M&A,  etc.) are capitalized and amortized
 - Since the TCJA,  IRS also requires amortization of R&D (5 years)
 
 #### INTANGIBLE INVESTMENTS ARE NOT JUST R&D
@@ -248,7 +248,7 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
  - Source: Dechow,  Ge,  Larson,  and Sloan (2008)
 
 #### IMPROPER CAPITALIZATION
-- Improper capitalization of costs goes straight to the [[Operating Income vs. Net Income What's the Difference|bottom line]]
+- Improper capitalization of costs goes straight to the [bottom line](../../Financial%20Ratios/Operating%20Income%20vs.%20Net%20Income%20What's%20the%20Difference.md)
 	 - Could be used to increase profits
 - American Italian Pasta Company (AIPC):
 	 - From 2002 through 2Q04,  AIPC met EPS targets due to improper capitalization
@@ -257,16 +257,16 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 	- Illustrates the concern that companies "make up" assets
 
 #### DOES THE MARKET TREAT R&D EXPENDITURES AS EXPENSES?
-- Even though many [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#[[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill|INTANGIBLE AMORTIZATION]] AND NON‐GAAP REPORTING|intangible]] investments are not capitalized,  there is info in 10‐K:
+- Even though many [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#[[Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill|INTANGIBLE%20AMORTIZATION) AND NON‐GAAP REPORTING|intangible]] investments are not capitalized,  there is info in 10‐K:
 	 - R&D expenses are disclosed:
-		   - Income statement,  [[Preview of the Book|cash flow]] statement and R&D footnote
+		   - Income statement,  [cash flow](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) statement and R&D footnote
 		   - But recall: R&D expenses can be buried in COGS and SG&A
-- Academic evidence suggests that investors understand the "[[An Asset Allocation Primer|investment]]" nature of these expenditures
-	 - Market [[Arbitrage Pricing of Derivatives|pricing]] of R&D and marketing expenses is positive (but also hampered by lack of detailed information)
+- Academic evidence suggests that investors understand the "[investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)" nature of these expenditures
+	 - Market [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of R&D and marketing expenses is positive (but also hampered by lack of detailed information)
 
 # ONCOMED ‐ AN EXAMPLE
 
-### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED)
+### ONCOMED [pharmaceuticals](.md) (OMED)
 
  ![500](c024a455c4435622cb42b8a1c46fe48e.png)
 
@@ -282,20 +282,20 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 
  ![500](72eb5aa047e7e418272ba09706f797ee.png)
 
-#### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED) – CONT
+#### ONCOMED [pharmaceuticals](.md) (OMED) – CONT
 
  ![500](321b690dcd68ce13a31f088baabaab1c.png)
 
  - Source: OncoMed Pharmaceutical Annual Reports
 
-#### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED) – CONT
+#### ONCOMED [pharmaceuticals](.md) (OMED) – CONT
 
  ![500](e54821ba0b0cf26a11ac69e766a2b411.png)
 
 - Note: They had a large A/R that Celgene owed them as a result of a safety milestone in a trial. Payment in 2016 reduced assets (A/R) and hence NOA.
  - Source: OncoMed Pharmaceutical Annual Reports
 
-#### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED): SUMMARY
+#### ONCOMED [pharmaceuticals](.md) (OMED): SUMMARY
 
 - From 2011‐2017 OncoMed has recorded revenue of $222.6M and has spent $468.9M in R&D
 	- Over same period,  accumulated increase in NOAs of just $72.6M
@@ -318,7 +318,7 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 	- In principle,  no effect on DCF or Economic Profit models
 	- Cash flows are not affected
 - So why do we care?
-	- Capitalization can influence your view of true economic profitability (and hence your [[Week 2 Fundamentals Of Forecasting|forecasting]])
+	- Capitalization can influence your view of true economic profitability (and hence your [forecasting](../Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md))
 	- Link between investments and value creation (future benefits)
 
 #### CONSEQUENCES FOR FINANCIAL ANALYSIS & VALUATION (CONT.)
@@ -327,7 +327,7 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 	- Reinvestment is buried in operating expenses
 	- Recall: Reinvestment is a function of RONIC and growth (Week 3 & 4)
 - Accounting treatment can distort RONIC in TV formula
-	- Conceptually,  you expect a higher RONIC without capitalization of [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#[[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill|INTANGIBLE AMORTIZATION]] AND NON‐GAAP REPORTING|intangible]] investments (see previous slide)
+	- Conceptually,  you expect a higher RONIC without capitalization of [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#[[Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill|INTANGIBLE%20AMORTIZATION) AND NON‐GAAP REPORTING|intangible]] investments (see previous slide)
 - Recall pre‐recording: Accounting treatment creates incomparability depending on firms' growth strategies
 
 # ECONOMIC PROFIT MODEL AND THE EFFECT OF INTANGIBLES
@@ -357,8 +357,8 @@ title: Week 5 Pharmaceuticals and Intangibles in Valuation
 - But consider how operating assets (or book value of equity) are valued:
 	- What happens if IC is incorrectly measured?
 	- Why might IC be typically too low?
-		- Self‐generated [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#[[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill|INTANGIBLE AMORTIZATION]] AND NON‐GAAP REPORTING|intangibles]] : Our topic of the week
-- If book value does not capture [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#[[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill|INTANGIBLE AMORTIZATION]] AND NON‐GAAP REPORTING|intangible]] assets:
+		- Self‐generated [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#[[Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill|INTANGIBLE%20AMORTIZATION) AND NON‐GAAP REPORTING|intangibles]] : Our topic of the week
+- If book value does not capture [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#[[Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill|INTANGIBLE%20AMORTIZATION) AND NON‐GAAP REPORTING|intangible]] assets:
 	- Accounting‐based EP is too high (as cost of capital charge given IC is too low)
 - Thus,  there are two sources of accounting‐based economic profits
 	- True economic profits & accounting measurement
@@ -399,7 +399,7 @@ Note: Sum of total profits is 117.6 in both cases and taxes are based on IRS,  n
 - EP and DCF should give the same answer!
 	- So what does EP add beyond DCF?
 - EP helps us better understand value creation and economic performance
-	- It can improve our [[Week 2 Fundamentals Of Forecasting|forecasting]] (i.e.,  understanding of the firm)
+	- It can improve our [forecasting](../Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) (i.e.,  understanding of the firm)
 	- It makes you think more critically about TV and long‐term value creation
 - EP model provides a link to market‐to‐book ratio
 	- Difference between book value and market value: PV of future EPs
@@ -412,14 +412,14 @@ Note: Sum of total profits is 117.6 in both cases and taxes are based on IRS,  n
 #### ADJUSTING FOR INTANGIBLES IN DCF (OR EP) MODELS
 - Irrespective Of The Accounting Standards,  You Could Capitalize R&D Expenses
 	- Could do the same with other operating expenses that are really investments
-	- FCF does not change,  but adjusting for [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#[[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill|INTANGIBLE AMORTIZATION]] AND NON‐GAAP REPORTING|intangibles]] likely provides more meaningful profitability and reinvestment rates
+	- FCF does not change,  but adjusting for [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#[[Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill|INTANGIBLE%20AMORTIZATION) AND NON‐GAAP REPORTING|intangibles]] likely provides more meaningful profitability and reinvestment rates
 	- Again: It is about the insights you gain into the economics of the firm and how that affects your forecasts!
 - Assumption needed: How long does it take for R&D to be converted,  on average,  into commercial product?
 	- Useful life of research asset = amortization period
 	- R&D expenses (or research assets) at a pharmaceutical company should have fairly long lives
 	- R&D expenses (or research assets) at software firms should have shorter lives
 
-#### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED) – CONT
+#### ONCOMED [pharmaceuticals](.md) (OMED) – CONT
 
 - Adjusting earnings,  reinvestment rates,  and book value:
 - Let's assume that R&D is amortized over a life of 10 years
@@ -429,41 +429,41 @@ Note: Sum of total profits is 117.6 in both cases and taxes are based on IRS,  n
 - From OMED's 424(b)4 filing (form filed prior to IPO on NASDAQ) and later SEC filings,  we collect R&D expenses from 2007-2017
 	- OMED went public in July 2013,  but was incorporated in 2004
 
-#### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED) – CONT
+#### ONCOMED [pharmaceuticals](.md) (OMED) – CONT
 
  ![500](e61dcf5663021e15a18582a054e9d511.png)
 
 - Perhaps easier to understand if you read backwards from 2017:
 	- R&D from 2007 is now fully amortized (fraction = 0; last A = 2.8; no value left)
 
-#### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED) – EBIT
+#### ONCOMED [pharmaceuticals](.md) (OMED) – EBIT
 
-- [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]] is adjusted by treating R&D as capital expenditures (like for PP&E)
+- [EBIT](../../Financial%20Ratios/Earnings%20Before%20Interest%20and%20Taxes%20(EBIT)%20Formula%20and%20Example.md) is adjusted by treating R&D as capital expenditures (like for PP&E)
 - This implies:
 	- 1) adding back all R&D expenditures
 	- 2) subtracting the periodic amortization of the research asset(s)
-- Companies with growing R&D expenditures will have a higher [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]] after the adjustment
-	- In this case,  the difference in [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]] is not huge:
+- Companies with growing R&D expenditures will have a higher [EBIT](../../Financial%20Ratios/Earnings%20Before%20Interest%20and%20Taxes%20(EBIT)%20Formula%20and%20Example.md) after the adjustment
+	- In this case,  the difference in [EBIT](../../Financial%20Ratios/Earnings%20Before%20Interest%20and%20Taxes%20(EBIT)%20Formula%20and%20Example.md) is not huge:
 	-  ![500](db7b4d11286cdc6efa032b2b7cbb8b80.png)
 ```latex
-Adjustment for [[Operating Income vs. Net Income What's the Difference|Operating Income]]       [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]]  
+Adjustment for [Operating Income](../../Financial%20Ratios/Operating%20Income%20vs.%20Net%20Income%20What's%20the%20Difference.md)       [EBIT](../../Financial%20Ratios/Earnings%20Before%20Interest%20and%20Taxes%20(EBIT)%20Formula%20and%20Example.md)  
                                       -41.0
 (+) R&D expenditures                   59.8
 (-) Amortization of research asset     53.8
                                      ------
-Adjusted [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]]                         -34.9
+Adjusted [EBIT](../../Financial%20Ratios/Earnings%20Before%20Interest%20and%20Taxes%20(EBIT)%20Formula%20and%20Example.md)                         -34.9
 ```
 
 Source: OncoMed Filings and Annual Reports
 
-#### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED) – NOA
+#### ONCOMED [pharmaceuticals](.md) (OMED) – NOA
 
  ![500](587e83eac4b73d3093c9dd5c7c3a6ab4.png)
 
 - NOA is also adjusted adding the estimated value of the research asset(s)
 	- In thisContinuing from where I left off:
 
-#### ONCOMED [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] (OMED) – NOA
+#### ONCOMED [pharmaceuticals](.md) (OMED) – NOA
 
 - NOA is also adjusted adding the estimated value of the research asset(s)
 	- In this case = $373.5m
@@ -481,24 +481,24 @@ Source: OncoMed Filings and Annual Reports
 
 #### INTANGIBLES AND RELATIVE VALUATION
 
-- Treating R&D investments as operating expenses affects EPS,  [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]] or EBITDA
+- Treating R&D investments as operating expenses affects EPS,  [EBIT](../../Financial%20Ratios/Earnings%20Before%20Interest%20and%20Taxes%20(EBIT)%20Formula%20and%20Example.md) or EBITDA
 	- Systematically affects multiples
-	- [[Chapter 16 - Black–Scholes Model|Stock price]] reflects the value of R&D
+	- [Stock price](../../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) reflects the value of R&D
 	- PE ratios or EV/EBITDA ratios are likely upwardly biased
 		- But exact effect is hard to predict
-- If all the companies in the sector operate under the same [[Week 6 Bank Business Model, Regulation, and Accounting Rules|accounting rules]] (expensing R&D),  why should we adjust for [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#[[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill|INTANGIBLE AMORTIZATION]] AND NON‐GAAP REPORTING|intangibles]] ?
+- If all the companies in the sector operate under the same [accounting rules](../Week%206/Week%206%20Bank%20Business%20Model,%20Regulation,%20and%20Accounting%20Rules.md) (expensing R&D),  why should we adjust for [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#[[Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill|INTANGIBLE%20AMORTIZATION) AND NON‐GAAP REPORTING|intangibles]] ?
 	- Life‐cycle: Effects of capitalization are generally much greater at young companies vs. mature companies
 	- Different companies pursue different strategies (e.g.,  in‐house R&D vs. acquiring patents or small companies)
-	- Different [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#[[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill|INTANGIBLE AMORTIZATION]] AND NON‐GAAP REPORTING|intangible]] investments have different useful lives (or amortization periods)
+	- Different [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#[[Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill|INTANGIBLE%20AMORTIZATION) AND NON‐GAAP REPORTING|intangible]] investments have different useful lives (or amortization periods)
 - Bottom‐line: Systematic effects in multiples that do not wash out
 
-#### [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] HAVE VERY DIFFERENT STRATEGIES
+#### [pharmaceuticals](.md) HAVE VERY DIFFERENT STRATEGIES
 
  ![500](26d48a569cbf62c87b44f549412037a4.png)
 
 Source: Annual Reports
 
-#### [[Week 5 Pharmaceuticals and Intangibles in Valuation|pharmaceuticals]] HAVE VERY DIFFERENT STRATEGIES (CONT.)
+#### [pharmaceuticals](.md) HAVE VERY DIFFERENT STRATEGIES (CONT.)
 
  ![500](7c4e9ccd9e2906de8eebb703a0fbd62a.png)
 
@@ -522,7 +522,7 @@ Source: Annual Reports,  Bloomberg
 
  ![500](43be7f528b81b5ff1da50760ccd5f9ba.png)
 
-Increasing R&D expenditures over time → higher [[Earnings Before Interest and Taxes (EBIT) Formula and Example|EBIT]] → lower adjusted multiples
+Increasing R&D expenditures over time → higher [EBIT](../../Financial%20Ratios/Earnings%20Before%20Interest%20and%20Taxes%20(EBIT)%20Formula%20and%20Example.md) → lower adjusted multiples
 
 #### ADJUSTING RELATIVE VALUATION: GILEAD
 
@@ -573,9 +573,9 @@ Source: Annual Reports,  Bloomberg
 	- Patent expiration
 	- Competition from generics
 - Valuation exercise
-	- Valuing existing pipeline ([[Week 2 Fundamentals Of Forecasting|forecasting]] by product line; components)
+	- Valuing existing pipeline ([forecasting](../Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) by product line; components)
 	- Valuing a new strategy
-	- Assessing the [[Week 2 Dollar General Case- Assignment Review|acquisition offer]]
+	- Assessing the [acquisition offer](../Week%202/Week%202%20Dollar%20General%20Case-%20Assignment%20Review.md)
 - There is also an ethical or CSR dimension (important too)
 	- "Tricks" to extend patents
 
@@ -587,10 +587,10 @@ Source: Annual Reports,  Bloomberg
 
 #### FORECASTING FUTURE M&A
 - Should You Forecast (Potential) Future M&A Activity?
-	- M&A gives rise to [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#IFRS AND US GAAP RESEARCH & DEVELOPMENT|goodwill]] and [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#[[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill|INTANGIBLE AMORTIZATION]] AND NON‐GAAP REPORTING|intangibles]] on the balance sheet
+	- M&A gives rise to [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#IFRS%20AND%20US%20GAAP%20RESEARCH%20&%20DEVELOPMENT|goodwill) and [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#[[Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill|INTANGIBLE%20AMORTIZATION) AND NON‐GAAP REPORTING|intangibles]] on the balance sheet
 - Key question: Are we trying to forecast a "realistic/accurate" future balance sheet? Is this necessary in order to get the valuation (roughly) right?
 	- Forecasted BS is a means to an end
-	- We need to capture [[An Asset Allocation Primer|investment]] (but it doesn't matter if via acquisitions)
+	- We need to capture [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) (but it doesn't matter if via acquisitions)
 - Ultimately,  we need to forecast the value created by future M&A
 - What is the value of future acquisitions?
 
@@ -615,12 +615,12 @@ Source: Koller et al. Exhibit 2.7
 ### PUTTING IT ALL TOGETHER
 
 - If future M&A is close to zero NPV,  then you can ignore it in DCF or EP model
-	- Hold existing [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#IFRS AND US GAAP RESEARCH & DEVELOPMENT|goodwill]] constant in forecasted BS
+	- Hold existing [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#IFRS%20AND%20US%20GAAP%20RESEARCH%20&%20DEVELOPMENT|goodwill) constant in forecasted BS
 - But what if the firm likely creates value through its acquisitions?
 - Your forecasted growth in sales and assets can be organic or through M&A
 	- You can be agnostic about the way in which the firm creates value
 	- The key is to get the value creation roughly right (in DCF or EP)
-- But: Past acquisitions and resulting [[Week 5 Accounting Recap- R&D,  Intangibles,  M&A & Goodwill#IFRS AND US GAAP RESEARCH & DEVELOPMENT|goodwill]] can affect your ratios (e.g.,  ROIC and turnover) and hence your forecasts
+- But: Past acquisitions and resulting [](Week%205%20Accounting%20Recap-%20R&D,%20%20Intangibles,%20%20M&A%20&%20Goodwill#IFRS%20AND%20US%20GAAP%20RESEARCH%20&%20DEVELOPMENT|goodwill) can affect your ratios (e.g.,  ROIC and turnover) and hence your forecasts
 	- Take out amortization due to past M&A (if not replaced)? (see pre‐recording)
 - Note: You cannot take the same "comfort" in relative valuation/multiples:
 	- Relative valuation or multiples are affected for sure

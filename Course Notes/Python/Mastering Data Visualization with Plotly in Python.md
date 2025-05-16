@@ -23,8 +23,8 @@ key_concepts:
 
 # Mastering Data Visualization with Plotly in Python
 
-- [[Squam Lake Group Introduction|Introduction]] to Plotly and Basic Plotting
-	- [[Overview of Financial Markets|Overview]]
+- [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to Plotly and Basic Plotting
+	- [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)
 	- Setup
 	- Basic Plotting
 		- Importing the Library
@@ -47,14 +47,14 @@ key_concepts:
 		- 3 D Scatter Plots
 		- Subplots
 		- Animated Plots
-	- Integrating Plotly with [[Advanced Data Analysis with Python|Pandas]] for [[Advanced Data Analysis with Python|Data Analysis]]
+	- Integrating Plotly with [Pandas](Advanced%20Data%20Analysis%20with%20Python.md) for [Data Analysis](Advanced%20Data%20Analysis%20with%20Python.md)
 		- Step 1: Import Libraries
 		- Step 2: Load Your Dataset
 		- Step 3: Data Preparation and Analysis
 		- Step 4: Create a Plotly Visualization
 		- Step 5: Additional Plotly Features
 		- Step 6: Save the Plot
-- [[Mastering Data Visualization with Plotly in Python|Interactive Dashboards]] with Plotly Dash
+- [Interactive Dashboards](.md) with Plotly Dash
 	- Prerequisites
 	- Example: Building a Sales Data Dashboard
 		- Step 1: Import Required Libraries
@@ -64,20 +64,20 @@ key_concepts:
 		- Step 5: Create Callback Function
 		- Step 6: Run the App
 
-[[Squam Lake Group Introduction|Introduction]] to Plotly and Basic Plotting
+[Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to Plotly and Basic Plotting
 -----------------------------------------
 
-[[Overview of Financial Markets|Overview]]
+[Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)
 --------
 
-This first part of our course is designed to introduce you to Plotly,  a powerful and flexible library for creating [[Mastering Data Analytics with Matplotlib in Python|interactive plots]] and dashboards in Python. In this section,  we’ll cover the basics of setting up Plotly and how to create simple plots.
+This first part of our course is designed to introduce you to Plotly,  a powerful and flexible library for creating [interactive plots](Mastering%20Data%20Analytics%20with%20Matplotlib%20in%20Python.md) and dashboards in Python. In this section,  we’ll cover the basics of setting up Plotly and how to create simple plots.
 
 Setup
 -----
 
 To get started with Plotly,  you will need to install the library. You can install it via pip:
 
-![Sales Now On Advertisement](https://enterprisedna.co/[[Arbitrage Pricing of Derivatives|pricing]])
+![Sales Now On Advertisement](https://enterprisedna.co/[pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md))
 ```python
 pip install plotly
 
@@ -277,7 +277,7 @@ This practical implementation shows how to create and customize a basic line plo
 Advanced Plot Types and Techniques
 ----------------------------------
 
-In this part,  we will cover three advanced plotting techniques using the [[Mastering Data Visualization with Plotly in Python|Plotly library]] in Python: 3 D Scatter Plots,  Subplots,  and Animated Plots.
+In this part,  we will cover three advanced plotting techniques using the [Plotly library](.md) in Python: 3 D Scatter Plots,  Subplots,  and Animated Plots.
 
 ### 3 D Scatter Plots
 
@@ -369,12 +369,12 @@ fig.show()
 
 These examples provide hands-on techniques for creating advanced plots using Plotly in Python. Each section focuses on a different type of plot,  showing how to implement them with real data and providing clear,  executable code.
 
-Integrating Plotly with [[Advanced Data Analysis with Python|Pandas]] for [[Advanced Data Analysis with Python|Data Analysis]]
+Integrating Plotly with [Pandas](Advanced%20Data%20Analysis%20with%20Python.md) for [Data Analysis](Advanced%20Data%20Analysis%20with%20Python.md)
 ------------------------------------------------
 
 ### Step 1: Import Libraries
 
-Ensure you import the necessary libraries to work with Plotly and [[Advanced Data Analysis with Python|Pandas]].
+Ensure you import the necessary libraries to work with Plotly and [Pandas](Advanced%20Data%20Analysis%20with%20Python.md).
 ```python
 import pandas as pd
 import plotly.express as px
@@ -383,7 +383,7 @@ import plotly.express as px
 
 ### Step 2: Load Your Dataset
 
-Use [[Advanced Data Analysis with Python|Pandas]] to read your dataset into a DataFrame.
+Use [Pandas](Advanced%20Data%20Analysis%20with%20Python.md) to read your dataset into a DataFrame.
 ```python
 df = pd.read_csv('data.csv')
 
@@ -391,7 +391,7 @@ df = pd.read_csv('data.csv')
 
 ### Step 3: Data Preparation and Analysis
 
-Perform any necessary data cleaning,  selection,  or manipulation using [[Advanced Data Analysis with Python|Pandas]] functionalities.
+Perform any necessary data cleaning,  selection,  or manipulation using [Pandas](Advanced%20Data%20Analysis%20with%20Python.md) functionalities.
 ```python
 df['date'] = pd.to_datetime(df['date'])
 df = df.sort_values('date')
@@ -442,9 +442,9 @@ fig.write_html("monthly_sales.html")
 
 ```
 
-By integrating these steps into your project,  you can seamlessly use Plotly with [[Advanced Data Analysis with Python|Pandas]] to analyze and visualize data effectively.
+By integrating these steps into your project,  you can seamlessly use Plotly with [Pandas](Advanced%20Data%20Analysis%20with%20Python.md) to analyze and visualize data effectively.
 
-[[Mastering Data Visualization with Plotly in Python|Interactive Dashboards]] with Plotly Dash
+[Interactive Dashboards](.md) with Plotly Dash
 ---------------------------------------
 
 In this section,  we will build an interactive dashboard using Plotly Dash. This will include creating multiple interactive components such as dropdowns,  graphs,  and layout management.

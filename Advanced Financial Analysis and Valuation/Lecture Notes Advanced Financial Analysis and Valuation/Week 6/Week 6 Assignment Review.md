@@ -30,18 +30,18 @@ key_concepts:
 
 Thomas Rauter
 Advanced Financial Analysis and Valuation of Global Firms
-Case: Citigroup,     [[Week 6 Assignment Review|Blackstone]],  and the Sale of a Loan [[An Asset Allocation Primer|Portfolio]]
+Case: Citigroup,     [Blackstone](.md),  and the Sale of a Loan [Portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)
 
 ## CITIGROUP AND BLACKSTONE
 - Part 1: Examine and understand Citigroup's financial statements
 	   - Primary balance sheet and income statement line items
-	   - [[Week 2 Fundamentals Of Forecasting|Fundamentals]] of bank regulatory capital
+	   - [Fundamentals](../Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) of bank regulatory capital
 	   - Run on bank and fair value accounting
 	   - Review of the bank basics (see also pre‐recording)
-- Part 2: Valuing a loan [[An Asset Allocation Primer|portfolio]]
-	   - Evaluating the sale of Citigroup's loan [[An Asset Allocation Primer|portfolio]] to [[Week 6 Assignment Review|Blackstone]]
+- Part 2: Valuing a loan [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)
+	   - Evaluating the sale of Citigroup's loan [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) to [Blackstone](.md)
 	   - Valuing debt
-		   - What  is the value of a loan ([[An Asset Allocation Primer|portfolio]])?
+		   - What  is the value of a loan ([portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md))?
 		   - Expected cash flows,     default and discount rates for debt
 		   - Computing the cost of (risky) debt
 
@@ -60,7 +60,7 @@ Case: Citigroup,     [[Week 6 Assignment Review|Blackstone]],  and the Sale�
 - Liabilities
 	   - Total deposits ($826 billion; 38% of total assets)
 	   - Short‐term borrowing and long‐term debt ($574 billion; 26%)
-	   - Very high (simple) [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]]: 18.3 (=$2,    074,    033/$113,  598)
+	   - Very high (simple) [leverage](../../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md): 18.3 (=$2,    074,    033/$113,  598)
 
 ## PRIMARY LINE ITEMS: INCOME STATEMENT
 - No "classic" revenue for banks
@@ -86,7 +86,7 @@ Recall from Recording: Delay in LLPs and net charge‐offs
 
 ## WHAT HAPPENS DURING A RUN ON THE BANK?
 - Why are banks vulnerable to runs?
-	   - Banks have a substantial [[Key Rates O1s Durations and Hedging|duration]] mismatch on their balance sheet (short term
+	   - Banks have a substantial [duration](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) mismatch on their balance sheet (short term
 liabilities and long term assets)
 - In a run customers demand their deposits back
 	   - They can because they are payable on demand
@@ -149,22 +149,22 @@ Tier1CapitalRatio=\frac{89,    226-50,    000}{1,    253,    321-100\%*50,    00
 
 ## PORTFOLIO SALE TO BLACKSTONE
 Deal structure
-- $6.11 billion loan [[An Asset Allocation Primer|portfolio]]
+- $6.11 billion loan [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)
 - $3.81 billion loan
-Citigroup [[Week 6 Assignment Review|Blackstone]]
-Collateral/[[Class Note 13 The LTCM Meltdown|Margin Calls]]
+Citigroup [Blackstone](.md)
+Collateral/[Margin Calls](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md)
 $5.07 billion 
 ($1.26 billion equity)
 
 ## DOES THIS TRANSACTION MAKE SENSE FOR CITIGROUP?
-- Why is Citigroup seeking to sell the [[An Asset Allocation Primer|portfolio]] of leveraged loans?
+- Why is Citigroup seeking to sell the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of leveraged loans?
        - No intention to hold these loans in the first place
        - Bridge loans for lucrative buyout transaction clients
        - Bridge loans have escalating financing costs but they were issued at the peak of the  credit cycle with loosening credit standards
            - Limited bank protection against downturns
        - Citigroup suffered unprecedented losses
            - Under pressure to sell assets
-- How does the deal change Citigroup's exposure to defaults in the loan [[An Asset Allocation Primer|portfolio]]? How  will it affect Citi's Tier 1 capital ratio? 
+- How does the deal change Citigroup's exposure to defaults in the loan [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)? How  will it affect Citi's Tier 1 capital ratio? 
        - Bridge loans are not intended to hold to maturity: marked‐to‐market
            - Asset value decline directly affects income,     retained earnings,     Tier 1 capital
        - Immediately take a hit on sale,     but less exposed to future increases in default risk
@@ -194,7 +194,7 @@ $5.07 billion
        - Citigroup paid dividends of 10.7 billion in 2007 (and still 7.5 billion in 2008!)
  ![500](63521b342b52d116da30126b1077207f.png)
 ## DOES THIS TRANSACTION MAKE SENSE FOR BLACKSTONE?
-- [[An Asset Allocation Primer|Portfolio]] is a large illiquid asset 
+- [Portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is a large illiquid asset 
        - Dislocations in the credit market
 - Purchase requires large amount of capital and capability to service loans
        - PE firms had large amounts of contributed capital
@@ -203,9 +203,9 @@ $5.07 billion
 - Citigroup is a distressed motivated seller
        - Needs to sell = purchase could be a bargain 
 - Who knows more about the assets?
-       - [[Week 6 Assignment Review|Blackstone]] may know loan [[An Asset Allocation Primer|portfolio]] better than other potential buyers and  potentially even Citigroup from past due diligence on equity investments 
+       - [Blackstone](.md) may know loan [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) better than other potential buyers and  potentially even Citigroup from past due diligence on equity investments 
        - Other bidders probably do not want to outbid a well‐informed bidder
-- [[Week 6 Assignment Review|Blackstone]] does not have control rights in the underlying [[An Asset Allocation Primer|portfolio]] firms
+- [Blackstone](.md) does not have control rights in the underlying [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) firms
        - Control rights would allow them to interfere with debtors
 
 # VALUING THE DEAL
@@ -219,7 +219,7 @@ Sensitivity analysis: Beta and default probability
 
 Sensitivity analysis: Recovery rates and default prob
  ![500](69ef256924b930f817878bfef13ea859.png)
-Epilogue: What happened to the loan [[An Asset Allocation Primer|portfolio]]?
+Epilogue: What happened to the loan [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)?
  ![500](c913b21e63273e071ecb5ca6222b2cc2.png)
 
 ## SENSITIVITY ANALYSIS: BETA AND DEFAULT PROBABILITY
@@ -228,15 +228,15 @@ Epilogue: What happened to the loan [[An Asset Allocation Primer|portfolio
 ## SENSITIVITY ANALYSIS: RECOVERY RATES AND DEFAULT PROB
  ![500](8c051512338f4d517238e61c99c2cd8b.png)
 
-- [[Week 6 Assignment Review|Blackstone]] and Citi entered the deal in April 2008
-- [[Week 6 Assignment Review|Blackstone]] exited completely by 2013 realizing 2x the invested (equity) capital
+- [Blackstone](.md) and Citi entered the deal in April 2008
+- [Blackstone](.md) exited completely by 2013 realizing 2x the invested (equity) capital
        - Roughly 15% p.a.
-- In retrospect,     the timing of the deal was probably not ideal for [[Week 6 Assignment Review|Blackstone]]
+- In retrospect,     the timing of the deal was probably not ideal for [Blackstone](.md)
        - Subsequently,     CDS skyrocketed,     secondary loan market prices fell and loans 
 were marked to 70 cents on the dollar at their low point (March 2009)
        - Better deals may have been available later in the crisis
            - But timing the market is hard
-- [[Week 6 Assignment Review|Blackstone]] did not face margin calls,     but they came close
+- [Blackstone](.md) did not face margin calls,     but they came close
        - Their equity stake was written down to close to zero and only recovered slowly
 
 Average bid quote for leveraged loans over crisis
@@ -258,10 +258,10 @@ or significant value drivers are unobservable
 - Net income will reflect regular operations and changes in asset values
  ![500](44eef5b9a128beb03c3a573f7f945a0a.png)
  ![500](2a91cfaa2c9ffd768a26df88e85b3caf.png)
-[Week 6 [[Week 6 Bank Analysis and Valuation|Bank Business Model]],     Regulation,     and [[Week 6 Bank Business Model, Regulation, and Accounting Rules|Accounting Rules]]](Zhe/Week%206/Week%206%20Bank%20Business%20Model,    %20Regulation,    %20and%20Accounting%20Rules.md)
+[Week 6 [Bank Business Model](Week%206%20Bank%20Analysis%20and%20Valuation.md),     Regulation,     and [Accounting Rules](Week%206%20Bank%20Business%20Model,%20Regulation,%20and%20Accounting%20Rules.md)](Zhe/Week%206/Week%206%20Bank%20Business%20Model,    %20Regulation,    %20and%20Accounting%20Rules.md)
 [Week 6 Bank Analysis and Valuation](Zhe/Week%206/Week%206%20Bank%20Analysis%20and%20Valuation.md)
-[HBS-[[Week 6 Assignment Review|Blackstone]] And The Sale Of Citigroup's Loan [[An Asset Allocation Primer|Portfolio]]](HBS-[[Week 6 Assignment Review|Blackstone]]%20And%20The%20Sale%20Of%20Citigroup's%20Loan%20Portfolio.md)
+[HBS-[Blackstone](.md) And The Sale Of Citigroup's Loan [Portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)](HBS-[Blackstone](.md)%20And%20The%20Sale%20Of%20Citigroup's%20Loan%20Portfolio.md)
 [HBS Citigroup 2007-Financial Reporting And Regulatory Capital](HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital.md)
 [PSET 6Evaluating Bank Balance Sheets and Loan Portfolios](PSET%206-%20Evaluating%20Bank%20Balance%20Sheets%20and%20Loan%20Portfolios.md)
-[HKS The [[HKS The Banking Industry|Banking]] Industry](HKS%20The%20Banking%20Industry.md)
+[HKS The [Banking](../../Problem%20Sets/HKS%20The%20Banking%20Industry.md) Industry](HKS%20The%20Banking%20Industry.md)
 [Week 6 Assignment Review](Zhe/Week%206/Week%206%20Assignment%20Review.md)

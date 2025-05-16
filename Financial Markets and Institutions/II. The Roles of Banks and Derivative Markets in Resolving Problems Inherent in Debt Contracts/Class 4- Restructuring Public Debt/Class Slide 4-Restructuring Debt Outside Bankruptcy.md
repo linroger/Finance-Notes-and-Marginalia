@@ -26,35 +26,35 @@ key_concepts:
 
 ## Bank Debt along with Public Debt
 
-- When public bondholders cannot make concessions [[Class Note 4 Class Slide 4-Restructuring Debt Outside BankruptcyRestructuring Debt Outside Bankruptcy|outside bankruptcy]],  a structure of all public debt will get into [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] court too often.
+- When public bondholders cannot make concessions [outside bankruptcy](Class%20Note%204%20Class%20Slide%204-Restructuring%20Debt%20Outside%20BankruptcyRestructuring%20Debt%20Outside%20Bankruptcy.md),  a structure of all public debt will get into [bankruptcy](../../../Course%20Notes/HBR%20Notes/A%20Strategic%20Perspective%20on%20Bankruptcy.md) court too often.
  - No public concessions due to the lack of information and the U.s. Federal trust indenture act.
- - What happens when a firm has [[Class Note 4 Class Slide 4-Restructuring Debt Outside BankruptcyRestructuring Debt Outside Bankruptcy|bank debt]] that can be renegotiated and public debt which cannot be renegotiated?
+ - What happens when a firm has [bank debt](Class%20Note%204%20Class%20Slide%204-Restructuring%20Debt%20Outside%20BankruptcyRestructuring%20Debt%20Outside%20Bankruptcy.md) that can be renegotiated and public debt which cannot be renegotiated?
 
 There are two lenders: one bank,  one public.
 
-- We now examine how the inability to renegotiate public debt outside [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] influences the [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] decision for borrowers with public and [[Class Note 4 Class Slide 4-Restructuring Debt Outside BankruptcyRestructuring Debt Outside Bankruptcy|bank debt]].
-- As is true in practice,  [[Class Note 4 Class Slide 4-Restructuring Debt Outside BankruptcyRestructuring Debt Outside Bankruptcy|bank debt]] is senior and shorter term,  public (junk) bonds are junior and longer term to maturity.
+- We now examine how the inability to renegotiate public debt outside [bankruptcy](../../../Course%20Notes/HBR%20Notes/A%20Strategic%20Perspective%20on%20Bankruptcy.md) influences the [bankruptcy](../../../Course%20Notes/HBR%20Notes/A%20Strategic%20Perspective%20on%20Bankruptcy.md) decision for borrowers with public and [bank debt](Class%20Note%204%20Class%20Slide%204-Restructuring%20Debt%20Outside%20BankruptcyRestructuring%20Debt%20Outside%20Bankruptcy.md).
+- As is true in practice,  [bank debt](Class%20Note%204%20Class%20Slide%204-Restructuring%20Debt%20Outside%20BankruptcyRestructuring%20Debt%20Outside%20Bankruptcy.md) is senior and shorter term,  public (junk) bonds are junior and longer term to maturity.
 - Later we will see why this is the structure.
 
 Only the bank can make concessions
 
 - If the public never makes a concession,  the bank decides whether to make a concession of its own to stay out of bankruptcy,  or instead to force the borrower into bankruptcy.
-- If the bank forces bankruptcy,  then it is paid from the [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] proceeds by its specified priority (it is senior).
+- If the bank forces bankruptcy,  then it is paid from the [bankruptcy](../../../Course%20Notes/HBR%20Notes/A%20Strategic%20Perspective%20on%20Bankruptcy.md) proceeds by its specified priority (it is senior).
 
 Bank can extend maturity and increase the face value of the debt
 
-- This third option (besides [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] or extending maturity with face 0.\1) is limited by negative pledge clause in the public debt.
-- The [[Class Slide 4-Restructuring Debt Outside Bankruptcy|negative pledge covenant]] prohibits issuing future debt that is senior to it.
+- This third option (besides [bankruptcy](../../../Course%20Notes/HBR%20Notes/A%20Strategic%20Perspective%20on%20Bankruptcy.md) or extending maturity with face 0.\1) is limited by negative pledge clause in the public debt.
+- The [negative pledge covenant](.md) prohibits issuing future debt that is senior to it.
 - The bank has a senior claim of B=. 3,  then the public has a claim on P=1.6. Any new claims that the borrower issues (to the bank or to other lenders) must be junior to the public.
 
 The Example
 
 - The future ("date 2") value of the firm is 2,  1,  or 0,  with probability q 2,  q 1,  and qo respectively. The current going concern value of the firm is then: $2\mathbf{q}_2+\mathbf{q}_1$ - Let $\mathbf{q}_2=0.2$ ,  q 1=0.6 and $\mathbf{q}_0=0.\1$
-- The going concern value,  VGO,  is the expected value of all [[Preview of the Book|cash flow]] if the project is not liquidated: VGO = 2 (. 2) + 0.\1(1) = 1.0.
+- The going concern value,  VGO,  is the expected value of all [cash flow](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) if the project is not liquidated: VGO = 2 (. 2) + 0.\1(1) = 1.0.
 
 Example 1:
 
-[[Class Note 4 Class Slide 4-Restructuring Debt Outside BankruptcyRestructuring Debt Outside Bankruptcy|Bank debt]] $B=0.3$ due today
+[Bank debt](Class%20Note%204%20Class%20Slide%204-Restructuring%20Debt%20Outside%20BankruptcyRestructuring%20Debt%20Outside%20Bankruptcy.md) $B=0.3$ due today
 
 public junior,  due in the future and face $P=1.6$ L=0.4
 
@@ -112,7 +112,7 @@ The bank can get at most 0.26 by extending maturity and raising the face value T
 
 Example 1:
 
-[[Class Note 4 Class Slide 4-Restructuring Debt Outside BankruptcyRestructuring Debt Outside Bankruptcy|Bank debt]] $B=0.3$ due today
+[Bank debt](Class%20Note%204%20Class%20Slide%204-Restructuring%20Debt%20Outside%20BankruptcyRestructuring%20Debt%20Outside%20Bankruptcy.md) $B=0.3$ due today
 
 public junior,  due in the future and face $P=1.6.$ L=0.4
 
@@ -166,11 +166,11 @@ The Bank Will Force Bankruptcy/ Liquidation
 Example 2: Maybe Going Concern Value will be preserved.
 
 - Example 2 a: Even more going concern value is at risk
-- Keep everything from the first example,  except make [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] even more inefficient. Let the value of the firm in [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] be L=0.2. Now the bank will not force bankruptcy.
+- Keep everything from the first example,  except make [bankruptcy](../../../Course%20Notes/HBR%20Notes/A%20Strategic%20Perspective%20on%20Bankruptcy.md) even more inefficient. Let the value of the firm in [bankruptcy](../../../Course%20Notes/HBR%20Notes/A%20Strategic%20Perspective%20on%20Bankruptcy.md) be L=0.2. Now the bank will not force bankruptcy.
 - A “public debt capacity" for bank voluntary concessions.
 	- Too much pubic debt deters bank concessions.
 
-Example 2 a: L=0.2 and [[Class Note 4 Class Slide 4-Restructuring Debt Outside BankruptcyRestructuring Debt Outside Bankruptcy|Bank debt]] $B=0.3$ due today
+Example 2 a: L=0.2 and [Bank debt](Class%20Note%204%20Class%20Slide%204-Restructuring%20Debt%20Outside%20BankruptcyRestructuring%20Debt%20Outside%20Bankruptcy.md) $B=0.3$ due today
 
  public junior,  due in the future and face $P=1.6$
 
@@ -227,11 +227,11 @@ Example 2 a: L=0.2 and [[Class Note 4 Class Slide 4-Restructuring Debt Outside B
 Example 2 b: Less public debt,  but same total amount of debt
 
 - (This puts the bank at sufficient risk)
-- Keep everything from example 1 except let the amount of [[Class Note 4 Class Slide 4-Restructuring Debt Outside BankruptcyRestructuring Debt Outside Bankruptcy|bank debt]] be B=. 5 and the amount of public debt be P=1.4. Note that $L=0.\1$ . The amount of total debt is still 1.9,  but less of it is public debt. The public makes no concessions.
+- Keep everything from example 1 except let the amount of [bank debt](Class%20Note%204%20Class%20Slide%204-Restructuring%20Debt%20Outside%20BankruptcyRestructuring%20Debt%20Outside%20Bankruptcy.md) be B=. 5 and the amount of public debt be P=1.4. Note that $L=0.\1$ . The amount of total debt is still 1.9,  but less of it is public debt. The public makes no concessions.
 
 ### Example 2 b
 
-[[Class Note 4 Class Slide 4-Restructuring Debt Outside BankruptcyRestructuring Debt Outside Bankruptcy|Bank debt]] $B=0.5$ due today
+[Bank debt](Class%20Note%204%20Class%20Slide%204-Restructuring%20Debt%20Outside%20BankruptcyRestructuring%20Debt%20Outside%20Bankruptcy.md) $B=0.5$ due today
 
  public junior,  due in the future and face $P=1.4.$ Back to $L=0.4.$
 
@@ -291,7 +291,7 @@ If no concessions from public,  bank will force inefficient bankruptcy
 
 - When only the bank can make concessions or renegotiate,  but it has a senior claim on the borrower (and cannot "dilute" or steal value from the pre-existing junior public debt),  there can be too much use of bankruptcy.
 - This then requires concessions (debt reduction and/or maturity extension) by public bondholders.
-- How can we do this? See note 6 on coercive [[Class Note 6 Restructuring Public Debt Out of [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Bankruptcy Exchange Offers]]|[[Merrill Coercive Exchange Offers|Exchange Offers]]]].
+- How can we do this? See note 6 on coercive [Bankruptcy Exchange Offers](Class%20Note%206%20Restructuring%20Public%20Debt%20Out%20of%20[[Class%20Note%206%20Restructuring%20Public%20Debt%20Out%20of%20Bankruptcy%20Exchange%20Offers)|[Exchange Offers](Merrill%20Coercive%20Exchange%20Offers.md)]].
 
 How can we get concessions from "small" holders of publicly traded bonds?
 
@@ -302,7 +302,7 @@ How can we get concessions from "small" holders of publicly traded bonds?
 
 From Class note 4:
 
-[[Class Note 4 Class Slide 4-Restructuring Debt Outside BankruptcyRestructuring Debt Outside Bankruptcy|Bank debt]] $B=0.3$ due today
+[Bank debt](Class%20Note%204%20Class%20Slide%204-Restructuring%20Debt%20Outside%20BankruptcyRestructuring%20Debt%20Outside%20Bankruptcy.md) $B=0.3$ due today
 
 junior,  due in the future and face $P=1.6.$ L=0.4
 
@@ -376,11 +376,11 @@ Reducing debt below P=1.6 is in the collective interest of all bondholders
 Can we just ask for voluntary concessions from public holders?
 
 - The way that borrowers and banks get concessions from the public is to get the public to exchange their partial holding of the bond for one that requires a smaller payment (i.e.,  either a principal,  interest or maturity concession).
-- Although the Federal Trust Indenture Act prohibits such concessions by voting,  it does not prohibit [[Class Note 6 Restructuring Public Debt Out of [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Bankruptcy Exchange Offers]]|[[Merrill Coercive Exchange Offers|Exchange Offers]]]].
+- Although the Federal Trust Indenture Act prohibits such concessions by voting,  it does not prohibit [Bankruptcy Exchange Offers](Class%20Note%206%20Restructuring%20Public%20Debt%20Out%20of%20[[Class%20Note%206%20Restructuring%20Public%20Debt%20Out%20of%20Bankruptcy%20Exchange%20Offers)|[Exchange Offers](Merrill%20Coercive%20Exchange%20Offers.md)]].
 
-There can be a "holdout" problem with such [[Class Note 6 Restructuring Public Debt Out of [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Bankruptcy Exchange Offers]]|[[Merrill Coercive Exchange Offers|Exchange Offers]]]]
+There can be a "holdout" problem with such [Bankruptcy Exchange Offers](Class%20Note%206%20Restructuring%20Public%20Debt%20Out%20of%20[[Class%20Note%206%20Restructuring%20Public%20Debt%20Out%20of%20Bankruptcy%20Exchange%20Offers)|[Exchange Offers](Merrill%20Coercive%20Exchange%20Offers.md)]]
 
-- If there are many small holders,  each may be inclined to not exchange for a smaller bond if almost all other holders will exchange,  because the risk of liquidation or [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] by the borrower could be minimal once the other holders have taken a smaller bond.
+- If there are many small holders,  each may be inclined to not exchange for a smaller bond if almost all other holders will exchange,  because the risk of liquidation or [bankruptcy](../../../Course%20Notes/HBR%20Notes/A%20Strategic%20Perspective%20on%20Bankruptcy.md) by the borrower could be minimal once the other holders have taken a smaller bond.
 - Each small holder thinks that their decision is highly unlikely to make the firm switch from not liquidating to liquidating (or vice versa).
 
 A nice way to think about small holders: "non-pivotal holders"
@@ -420,7 +420,7 @@ Goal of a successful coercive exchange offer
 - If all small non-pivotal bondholders expect the offer to succeed,  then each will prefer to tender for the new bond (instead of holding out and keeping the old bond).
 - The standard holdout problem is the reverse: if the offer is expected to succeed,  small holders will prefer to holdout.
 
-Suppose bonds are paid by [[A Glossary of Technical Terms Related to Bankruptcy in the U.s|absolute priority rule]]. (one class gets <1 o 0% means zero to more junior)
+Suppose bonds are paid by [absolute priority rule](../Class%203-%20Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/A%20Glossary%20of%20Technical%20Terms%20Related%20to%20Bankruptcy%20in%20the%20U.s.md). (one class gets <1 o 0% means zero to more junior)
 
 - Old bond has face value $P=1$ 0.\1 (from class note 4)
 - New bond has face value $\mathsf{P}^{\prime}=1.0$ in total and is senior to old.
@@ -566,7 +566,7 @@ Suppose a fraction f=0.99 of other bonds are exchanged to the new bond
 
 After Per unit holding Per unit holding of old Total value,  if $B=0.3$
 
- ![500](https://storage.simpletex.cn/view/fOtlGESXSvXHxtOgVATiwG2IH0Fo3rCpg)
+ ![500](Attachments/500-78.png)
 
 New bond has face value of P'=1 and is senior to old bond with face P=1.6 holdouts.
 
@@ -615,7 +615,7 @@ Suppose a fraction f=1 of other bonds are exchanged to the new bond
 Bringing in the new debt senior to old debt,  "primes" old debt,  Punishes holdouts.
 
 - You own 1% of the old bonds,  and you expect all of the other bonds to tender (f=0.99). If you tender,  all of the bonds are tendered,  and when there is 0.7 left after the bank in paid,  your new bond gets 1% of 0.7,  or 0.007.
-- Your [[Lecture 1- Probability Distributions of Returns|expected return]] from tendering is then (1% of)
+- Your [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) from tendering is then (1% of)
 - 0.2 P' +0.6 (0.7) = (1% of) 0.2 (1) + 0.6 (0.7) = (1% of) 0.62. This is 0.0062. This beats the 0.0032 from holding out.
 
 Kahan and Tuchman make this clear
@@ -624,17 +624,17 @@ Kahan and Tuchman make this clear
 - This decision is not influenced by the collective gain for bondholders as a whole,  because small holders are non-pivotal.
 - Corersion can be used for:
 - - "good" (exchanges offers in the collective interest of bondholders) or
-- - “evil" ([[Class Note 6 Restructuring Public Debt Out of [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers|Bankruptcy Exchange Offers]]|[[Merrill Coercive Exchange Offers|Exchange Offers]]]] not in the collective interest of bondholders).
+- - “evil" ([Bankruptcy Exchange Offers](Class%20Note%206%20Restructuring%20Public%20Debt%20Out%20of%20[[Class%20Note%206%20Restructuring%20Public%20Debt%20Out%20of%20Bankruptcy%20Exchange%20Offers)|[Exchange Offers](Merrill%20Coercive%20Exchange%20Offers.md)]] not in the collective interest of bondholders).
 
 Exit Consent Votes
 
-- An [[Class Note 5A Coercive Exchange Offers and Exit Consents|exit consent vote]] changes the [[Class [[Slides Note 9 Bidask.not New 2020|Slides]] 2 Discussion of [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Loan Covenants]] Vs. Bond Covenants|Covenants]] in old bond combined with an exchange offer where a new bond is given in exchange for the old bond if and only if one votes to change the [[Class [[Slides Note 9 Bidask.not New 2020|Slides]] 2 Discussion of [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Loan Covenants]] Vs. Bond Covenants|Covenants]] in the old.
+- An [exit consent vote](Class%20Note%205A%20Coercive%20Exchange%20Offers%20and%20Exit%20Consents.md) changes the [Slides](Class%20[[Slides%20Note%209%20Bidask.not%20New%202020) 2 Discussion of [Loan Covenants](../Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Slides%202%20Discussion%20of%20Loan%20Covenants%20Vs.%20Bond%20Covenants.md) Vs. Bond Covenants|Covenants]] in old bond combined with an exchange offer where a new bond is given in exchange for the old bond if and only if one votes to change the [Slides](Class%20[[Slides%20Note%209%20Bidask.not%20New%202020) 2 Discussion of [Loan Covenants](../Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Slides%202%20Discussion%20of%20Loan%20Covenants%20Vs.%20Bond%20Covenants.md) Vs. Bond Covenants|Covenants]] in the old.
 - As a result,  those who are exiting the old bond are the ones choosing to change its covenants. If a holder prefers the new bond given his or her belief that the vote will pass,  any reduction in the value of the old bond will not matter (because he or she will hold the new bond).
 
 Exit consent votes are almost always contingent on a minimum fraction tendering.
 
-- The [[Class Note 5A Coercive Exchange Offers and Exit Consents|exit consent vote]] that will pass if M+1 bondholders vote yes and tender their bond in exchange for a new one.
-- The deal is structured so that you may only get the new bond if you vote to change the [[Class [[Slides Note 9 Bidask.not New 2020|Slides]] 2 Discussion of [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Loan Covenants]] Vs. Bond Covenants|Covenants]] in the old bond.
+- The [exit consent vote](Class%20Note%205A%20Coercive%20Exchange%20Offers%20and%20Exit%20Consents.md) that will pass if M+1 bondholders vote yes and tender their bond in exchange for a new one.
+- The deal is structured so that you may only get the new bond if you vote to change the [Slides](Class%20[[Slides%20Note%209%20Bidask.not%20New%202020) 2 Discussion of [Loan Covenants](../Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Slides%202%20Discussion%20of%20Loan%20Covenants%20Vs.%20Bond%20Covenants.md) Vs. Bond Covenants|Covenants]] in the old bond.
 - The covenant change is designed to make old bond drop in value.
 - If fewer than M other holders tender,  you can't make it pass,  if M+1 or more tender,  it passes no matter what you do.
 - If it does not pass,  the entire offer is null and void (you keep old bond with old covenants).
@@ -643,8 +643,8 @@ Exit consent votes are almost always contingent on a minimum fraction tendering.
 
 - Value of bond as it stands= B
 - Value of new bond that you get if you tender,  vote yes and the vote passes: Bn
-- - Value of old bond if the consent vote passes (some [[Class [[Slides Note 9 Bidask.not New 2020|Slides]] 2 Discussion of [[Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants|Loan Covenants]] Vs. Bond Covenants|Covenants]] are removed): B'
-- - Payment for consent vote,  in addition to new bond = p. This is called the [[Class Note 5A Coercive Exchange Offers and Exit Consents|consent payment]].
+- - Value of old bond if the consent vote passes (some [Slides](Class%20[[Slides%20Note%209%20Bidask.not%20New%202020) 2 Discussion of [Loan Covenants](../Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Slides%202%20Discussion%20of%20Loan%20Covenants%20Vs.%20Bond%20Covenants.md) Vs. Bond Covenants|Covenants]] are removed): B'
+- - Payment for consent vote,  in addition to new bond = p. This is called the [consent payment](Class%20Note%205A%20Coercive%20Exchange%20Offers%20and%20Exit%20Consents.md).
 - - If you hold it all the issue (are pivotal): you compare Bn +p to B.
 
 If you expect the consent vote to succeed,  small non-pivotal will tender if and only if B,  +p ≥ B'.
@@ -655,7 +655,7 @@ If you expect the consent vote to succeed,  small non-pivotal will tender if and
 
 In the "Senior Priming of Junior" in note 6
 
-- For a 1% holder of the bond - p=0 (no [[Class Note 5A Coercive Exchange Offers and Exit Consents|consent payment]]) Bn=0.0062 B=0.0032
+- For a 1% holder of the bond - p=0 (no [consent payment](Class%20Note%205A%20Coercive%20Exchange%20Offers%20and%20Exit%20Consents.md)) Bn=0.0062 B=0.0032
 - - B=0.001 (1% of the 0.\1 payoff from liquidation with B=. 3 of bank senior)
 - - B,  >B: The punishment was used for "good,  " not evil.
 Tags: #debt #restructuring #bankruptcy #coercive #exchange #priority #concessions #liquidation #holdouts

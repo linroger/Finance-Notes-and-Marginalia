@@ -31,10 +31,10 @@ key_concepts:
 
 %% Begin Waypoint %%
 
-- **[[Week 3 Advanced Financial Analysis and Valuation]]**
-	- [[Week 3 Advanced Financial Analysis and Valuation]]
-	- [[Week 3 Cyclical Industries (and Advanced Forecasting)]]
-	- [[Week 3 Financial Risk Analysis]]
-	- [[Week 3]]
+- **[Week 3 Advanced Financial Analysis and Valuation](.md)**
+	- [Week 3 Advanced Financial Analysis and Valuation](.md)
+	- [Week 3 Cyclical Industries (and Advanced Forecasting)](Week%203%20Cyclical%20Industries%20(and%20Advanced%20Forecasting).md)
+	- [Week 3 Financial Risk Analysis](Week%203%20Financial%20Risk%20Analysis.md)
+	- [Week 3](Week%203.md)
 
 %% End Waypoint %%

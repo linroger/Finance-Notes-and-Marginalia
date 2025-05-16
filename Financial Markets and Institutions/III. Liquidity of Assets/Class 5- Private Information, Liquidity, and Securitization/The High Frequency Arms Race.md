@@ -18,7 +18,7 @@ key_concepts:
   - Market correlations breakdown
 ---
 
-A few [[Slides Note 9 Bidask.not New 2020|slides]] taken from: The [[The High Frequency Arms Race|High-Frequency Trading]] Arms Race: [[The High Frequency Arms Race|Frequent Batch Auctions]] as a Market Design Response Eric Budish,  Peter Cramton and John Shim Forthcoming,  Quarterly Journal of Economics Seminar [[Slides Note 9 Bidask.not New 2020|Slides]],  Sept 2015
+A few [slides](Slides%20Note%209%20Bidask.not%20New%202020.md) taken from: The [High-Frequency Trading](.md) Arms Race: [Frequent Batch Auctions](.md) as a Market Design Response Eric Budish,  Peter Cramton and John Shim Forthcoming,  Quarterly Journal of Economics Seminar [Slides](Slides%20Note%209%20Bidask.not%20New%202020.md),  Sept 2015
 
 # The High Frequency Arms Race
 
@@ -30,7 +30,7 @@ A few [[Slides Note 9 Bidask.not New 2020|slides]] taken from: The [[The High Fr
 - Joke at the time: next innovation will be to dig a tunnel,  avoiding the planet's pesky curvature.
 - Joke isn't that funny … Spread's cable is already obsolete!
 - Not tunnels,  but microwaves (rst 10ms,  then 9ms,  now 8ms).
-- Analogous races occurring throughout the [[Contemporary Financial Intermediation Notes|financial system]],  sometimes measured as minutely as microseconds or nanoseconds
+- Analogous races occurring throughout the [financial system](../../../Contemporary%20Financial%20Intermediation%20Notes/Contemporary%20Financial%20Intermediation%20Notes.md),  sometimes measured as minutely as microseconds or nanoseconds
 
 # Brief Description Of The Continuous Limit Order Book
 
@@ -40,11 +40,11 @@ A few [[Slides Note 9 Bidask.not New 2020|slides]] taken from: The [[The High Fr
 - Traders may submit limit orders to the market at any time during the trading day
 - Also may cancel or modify outstanding limit orders at any time
 - Orders and cancellations are processed by the exchange one-at-a-time in order of receipt (serial process)
-- Set of outstanding orders is known as the [[The High Frequency Arms Race|limit order book]]
+- Set of outstanding orders is known as the [limit order book](.md)
 - Trade occurs whenever a new limit order is submitted that is either (i) bid ≥ lowest ask; (ii) ask ≤ highest bid
 - New limit order is interpreted as accepting (fully or partially) one or more outstanding orders
 - Direct feed data from Chicago Mercantile Exchange (CME) and New York Stock Exchange (NYSE)
-- Gives play by play of [[The High Frequency Arms Race|limit order book]]
+- Gives play by play of [limit order book](.md)
 - Millisecond resolution time stamps
 - These are the data HFT rms subscribe to and parse in real time
 - Focus primarily on a pair of instruments that track the S&$P$ 500 index

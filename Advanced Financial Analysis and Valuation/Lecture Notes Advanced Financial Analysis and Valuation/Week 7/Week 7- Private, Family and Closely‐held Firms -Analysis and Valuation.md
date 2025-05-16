@@ -37,7 +37,7 @@ key_concepts:
 		 - Control rights
  - Control rights also matter great deal for listed firms with families or when closely‐held
 	 - Founders or family want to keep control
- - Determining the control premium (or minority discount) and [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] premium
+ - Determining the control premium (or minority discount) and [liquidity](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) premium
  - Kohler case
  - Analyzing corporate governance
 	 - Closely‐held firms and governance
@@ -81,12 +81,12 @@ key_concepts:
 ## VALUATION CHALLENGES FOR PRIVATE (AND CLOSELY‐HELD) FIRMS
  - What do we need to think about?
 	- Control (or lack thereof)
-	- Lack of marketability (or [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]])
+	- Lack of marketability (or [liquidity](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md))
 	- Under‐diversification of owners
 	- Institutional environment (as it interacts with above)
  - Put differently, how should we account for?
 	- Value of control
-	- No or little [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]]
+	- No or little [liquidity](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md)
 	- Diversification: How should we determine beta?
 	- Institutional risks (e.g., poor investor protection)
 
@@ -134,7 +134,7 @@ key_concepts:
 > [!NOTE]
 > Lack of marketability, more often than not, is the largest dollar discount factor in the valuation of a business interest, particularly a minority interest." (S. Pratt, Business Valuations and Discounts, 2001)
 
-- CONTROL PREMIUM AND [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|LIQUIDITY]] PREMIUM ARE NOT INDEPENDENT
+- CONTROL PREMIUM AND [LIQUIDITY](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) PREMIUM ARE NOT INDEPENDENT
 	- There are reasons why control stakes are illiquid
 - DISCOUNT FOR LACK OF MARKETABILITY COULD BE DIFFERENT FOR CONTROLLING AND NONCONTROLLING INTEREST
 	- WHY?
@@ -151,14 +151,14 @@ key_concepts:
 | $10.00 | Control value                                    |
 | (3.00) | Less minority discount (30% * $10)               |
 | 7.00   | Minority value if shares were marketable         |
-| (2.80) | Less [[Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation|marketability discount]] (40%* $7)            |
+| (2.80) | Less [marketability discount](.md) (40%* $7)            |
 | $4.20  | Value per share of non‐marketable minority share |
 
 ## ADJUSTMENTS TO VALUATION: SUMMARY
  - Control premium or minority discount: $$
 \text{Minority Discount}=\frac{1}{1+\text{Control Premium}}
 $$
- - [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|Liquidity]] premium or lack of marketability discount
+ - [Liquidity](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) premium or lack of marketability discount
     - Associated with limited marketability of the shares
  - Is there something else?
     - Wealth of Kohler family is tied to the company
@@ -176,7 +176,7 @@ $$
  - Illiquidity can increase the cost of capital even for publicly‐traded firms
     - Transaction costs: bid‐ask spread
     - Information asymmetry and adverse selection
-    - Asset [[Arbitrage Pricing of Derivatives|pricing]] models can include illiquidity factor (e.g., Pastor & Stambaugh, 2003)
+    - Asset [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) models can include illiquidity factor (e.g., Pastor & Stambaugh, 2003)
     - This increase is in same spirit as lack of marketability discount
 
  - If you discount the private firm value for illiquidity, do not also adjust cost of capital
@@ -229,7 +229,7 @@ Source: Aminadav & Papaioannou, Journal of Finance, 2020
      -  Controlling insiders could make decisions that are in their interest rather than all shareholders
      -  Private benefits consumption, keeping control in the family      -  Incentives for wealth transfers, tunneling and related‐party transactions
      -  Outside investors are much less informed
- - Incentives to consume private benefits depend on [[An Asset Allocation Primer|investment]] opportunities
+ - Incentives to consume private benefits depend on [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunities
     - Need to raise outside finance disciplines insiders
 
 ## CONTROL PREMIUM AND PRIVATE CONTROL BENEFITS
@@ -298,12 +298,12 @@ OWNERSHIP STRUCTURE OF FIRMS CONTROLLED BY RENONG BERHAD
      -  12‐14% in North America & Western Europe
      -  20‐25% in Asia & Latin America     
      -  >30% in Eastern Europe
-    - Governance "as important as financial performance" in [[An Asset Allocation Primer|investment]] decisions
+    - Governance "as important as financial performance" in [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) decisions
  - Institutional Shareholder Services (ISS) survey in 2006: 70% of respondents think a firm's corporate governance is either extremely or very important
  - Survey results are consistent with holding patterns of U.S. investors
     - Leuz, Lins and Warnock (RFS 2008):
 U.S. investors stay away from stocks with "problematic ownership structures", particularly in countries with weak legal systems and when information flows are poor
- - Evidence that governance is priced by markets (in valuations & even [[Assets|returns]])
+ - Evidence that governance is priced by markets (in valuations & even [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md))
 
 ## INVESTOR PROTECTION & GOVERNANCE IN EMERGING MARKETS
  ![500](056fe36879b6be38f01970a031eeab87.png)
@@ -311,7 +311,7 @@ Considering the institutional & governance scores, what would be your valuation 
 
 ## INVESTOR PROTECTION & GOVERNANCE IN EMS (CONT.)
  ![500](de95e0b2f43e1b4fc3dc8a7172b1c65c.png)
-What [[Week 7- Cost of Capital Review, Implied Model, Private Firms|cost of equity]] would you apply to Company if it were located and listed in each of the emerging markets below?
+What [cost of equity](Week%207-%20Cost%20of%20Capital%20Review,%20Implied%20Model,%20Private%20Firms.md) would you apply to Company if it were located and listed in each of the emerging markets below?
  - Survey respondents tend to incorporate higher premiums in their cost of equity
 estimates than what was implied in their valuation discounts (on previous slide)
     - "Exponential growth bias"

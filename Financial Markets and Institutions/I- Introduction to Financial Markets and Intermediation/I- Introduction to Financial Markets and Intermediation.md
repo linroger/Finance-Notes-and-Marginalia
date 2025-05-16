@@ -23,8 +23,8 @@ key_concepts:
 # I- Introduction to Financial Markets and Intermediation
 
 %% Begin Waypoint %%
-- **[[I- Introduction to Financial Markets and Intermediation]]**
-	- **[[I- Introduction to Financial Markets and Intermediation]]**
-	- [[I- Introduction to Financial Markets and Intermediation]]
+- **[I- Introduction to Financial Markets and Intermediation](.md)**
+	- **[I- Introduction to Financial Markets and Intermediation](.md)**
+	- [I- Introduction to Financial Markets and Intermediation](.md)
 
 %% End Waypoint %%

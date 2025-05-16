@@ -31,7 +31,7 @@ key_concepts:
   - Terminal value importance
 ---
 
-[[Week 4 Valuing Young and High‐Growth Companies|high growth companies]]
+[high growth companies](.md)
 
 [Week 4 ESOs and Vaulation](Zhe/Week%204/Week%204%20ESOs%20and%20Vaulation.md)
 
@@ -53,7 +53,7 @@ Today
 # Week 4 Valuing Young and High‐Growth Companies
 
 - Short history & rapid growth
-	   - Not much history of financial data to use as an input for [[Week 2 Fundamentals Of Forecasting|forecasting]]
+	   - Not much history of financial data to use as an input for [forecasting](../Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md)
 		   - Historical financial results provide little guidance on future prospects
 	   - Very difficult to determine reasonable growth rates for uncharted territory
 - Numbers are volatile (e.g.,  shifting margins)
@@ -83,9 +83,9 @@ we have less solid data and information
 - What percentage of firms grew sales at a CAGR of 20‐25% for three years?
 	   - Sales growth often declines fast
 - Double‐digit growth requires substantial investments
-- Fuzzy lines between operating expenses & capital expenditures (or [[An Asset Allocation Primer|investment]])
-		   - Building the business is an [[An Asset Allocation Primer|investment]]
-		   - We will drill deeper on this issue in Week 5 (related to [[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill#[[Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill|INTANGIBLE AMORTIZATION]] AND NON‐GAAP REPORTING|intangibles]] )
+- Fuzzy lines between operating expenses & capital expenditures (or [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md))
+		   - Building the business is an [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)
+		   - We will drill deeper on this issue in Week 5 (related to [](../Week%205/Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill.md#[[Week%205%20Accounting%20Recap-%20R&D,%20Intangibles,%20M&A%20&%20Goodwill|INTANGIBLE%20AMORTIZATION) AND NON‐GAAP REPORTING|intangibles]] )
 - It can help to compute market value‐implied rates for key forecasts
 	   - Reverse‐engineering exercise (as in the Netflix case)
 
@@ -109,7 +109,7 @@ forecasts are plausible
  ![500](99da11dd46d9fb034b6d8163670a9b26.png)
 ## COMMON VALUATION PRACTICES
 
-- Recall Week 1 (bubbles) and Week 2 (behavioral [[Week 2 Fundamentals Of Forecasting|biases]])
+- Recall Week 1 (bubbles) and Week 2 (behavioral [biases](../Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md))
 	   - Herding and "fear of missing out"
 
 ## - REPRESENTATIVENESS & OVERCONFIDENCE
@@ -117,7 +117,7 @@ forecasts are plausible
 - Using a forward base together with high multiple potentially double counts
 growth
 - True,  DCF model requires assumptions for the value drivers: revenue growth,
-margins,  (re)[[An Asset Allocation Primer|investment]] rates,  cost of capital,  etc.
+margins,  (re)[investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) rates,  cost of capital,  etc.
 	   - Using multiples does not make these assumptions go away
 	   - Moves the problem to the base of the multiple & finding comparable firms
 	   - The main difference is that DCF makes the assumptions explicit
@@ -131,7 +131,7 @@ needs to happen to support a particular value
 	   - Explicit assumptions allow analysts to create different scenarios
 - Probabilistic thinking is especially useful on young companies
 	   - Survival can be a key risk
-- For young companies,  [[Week 2 Fundamentals Of Forecasting|fundamentals]] are more important,  not less
+- For young companies,  [fundamentals](../Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) are more important,  not less
 	   - The point is not that you should forecast in great detail
 	   - But you should think about value creation,  competitive position,  unit economics
 
@@ -140,7 +140,7 @@ needs to happen to support a particular value
 
  ![500](f8d00cd96793189a6e192fdbb477e996.png)
 
-LTG definition: The long‐term growth rate represents an expected annual increase in [[Earnings Before Interest and Taxes (EBIT) Formula and Example|operating earnings]] over the company's next full [[Business Cycles- Introduction, Characteristics, and History|business cycle]]. These forecasts refer to a period of between three and five years and are expressed as a percentage. Long‐term growth rate forecasts are received directly from contributing analysts; they are not calculated by Thomson Reuters Source: Capital IQ LTG of EPS; January 2024
+LTG definition: The long‐term growth rate represents an expected annual increase in [operating earnings](../../Financial%20Ratios/Earnings%20Before%20Interest%20and%20Taxes%20(EBIT)%20Formula%20and%20Example.md) over the company's next full [business cycle](../../../International%20Finance/Economic%20Stabilization%20Notes/Business%20Cycles-%20Introduction,%20Characteristics,%20and%20History.md). These forecasts refer to a period of between three and five years and are expressed as a percentage. Long‐term growth rate forecasts are received directly from contributing analysts; they are not calculated by Thomson Reuters Source: Capital IQ LTG of EPS; January 2024
 
 ## RECALL: LTG BIAS IN ANALYST FORECASTS
 
@@ -409,7 +409,7 @@ Reporting Incentives and Pressures
 	   - Increasing accounts receivable (i.e.,  large accruals)
 		   - What are accruals again?
 	   - Thus,  ↑A/R,  sign of aggressive recogniton of revenue or channel stuffing
-	   - Also,  increasing inventory levels as a result of customer [[Assets|returns]] due to channel stuffing
+	   - Also,  increasing inventory levels as a result of customer [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) due to channel stuffing
 - Understanding the nature of the business and how it manifests in the accounting numbers is crucial
 	   - Deferred revenue signals increase in business but also service costs in future
 	   - Carefully analyze revenue recognition and accruals
@@ -428,7 +428,7 @@ Symbol shipped products to customers early (w/o their approval) to inf
 - Channel stuffing and aggressive revenue recognition led to an increase in days of receivables from 80 in June 2000 to 119 days in June 2001
 	   - To avoid investor concerns,  Symbol cosmetically moved accounts receivable to notes  receivable by turning some of the A/R into (longer‐term) promissory loans
 - Customers returned shipments
-	   - To cover up the build‐up in inventory,  Symbol created an "inventory reduction plan" that  recorded fictitious accounting entries to reduce inventory,  left product [[Assets|returns]] on docks without recording as inventory,  and sold inventory to third party but agreed to repurchase it
+	   - To cover up the build‐up in inventory,  Symbol created an "inventory reduction plan" that  recorded fictitious accounting entries to reduce inventory,  left product [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) on docks without recording as inventory,  and sold inventory to third party but agreed to repurchase it
 
 ## LYFT S‐1 FILING FOR IPO
 

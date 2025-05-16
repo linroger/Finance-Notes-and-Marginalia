@@ -1,137 +1,171 @@
 ---
-linter-yaml-title-alias: OPTION PRICING WITH MULTIPERIOD BINOMIAL TREE
-title: OPTION PRICING WITH MULTIPERIOD BINOMIAL TREE
+cssclasses:
+  - academia
+linter-yaml-title-alias: Option Pricing with Multiperiod Binomial Tree
+title: Option Pricing with Multiperiod Binomial Tree
 tags:
   - binomial_tree
   - dividend_yield
   - european_option
   - option_pricing
   - stock_price
+  - replicating_portfolio
+  - self_financing
+  - no_arbitrage
 aliases:
   - BOPM
   - Binomial Option Pricing
   - Multiperiod Binomial Model
+  - Option Tree Model
 key_concepts:
-  - European call option
-  - Multiperiod binomial tree
+  - European call option pricing
+  - Multiperiod binomial tree construction
   - Option pricing with dividends
-  - Replicating portfolio
-  - Stock price payoff tree
+  - Replicating portfolio strategy
+  - Stock price payoff tree modeling
+  - Delta hedging calculation
+  - Self-financing portfolio properties
+  - Backward induction methodology
 ---
 
-# OPTION PRICING WITH MULTIPERIOD BINOMIAL TREE
+# Option Pricing with Multiperiod Binomial Tree
 
-1. [[PSET 5 Financial Instruments|Multiperiod Binomial Tree]] 1.1. Preamble
-1. Three periods: 𝑖 ∈ {0,1,2}
-2. [[Chapter 16 - Black–Scholes Model|Stock price]] in initial period: 𝑆0
-3. [[Chapter 16 - Black–Scholes Model|Stock price]] can either rise or fall by 10% in each subsequent period 𝑖 ∈ {1,2} 4. Discrete compounding per period interest rate: 𝑟
-5. European call option has [[Call and Put Payoffs at Expiry|strike price]]: 𝐾 = 𝑆0
+## 1. Preamble
 
-## 1.2. OPTION PRICING WITH MULTIPLE PERIODS
+1. Three periods: $i \in \{0,1,2\}$
+2. Stock price in initial period: $S_0$
+3. Stock price can either rise or fall by 10% in each subsequent period $i \in \{1,2\}$ 
+4. Discrete compounding per period interest rate: $r$
+5. European call option has strike price: $K = S_0$
 
-1. **[[Overview of Financial Markets|Overview]]**: Construct a [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|replicating portfolio]] of stocks and bonds that replicates the
-payoff of the call option.
-2. [[Option Pricing With Multiperiod Binomial Tree|Stock price payoff tree]].
-	a. Period 𝑖 = 0: 𝑆0
-		i. Period 𝑖 = 1
-			1. 𝑆𝑢 = 𝑢 ∙ 𝑆0
-			2. 𝑆𝑑 = 𝑑 ∙ 𝑆0
-				1. a. Period 𝑖 = 2
-					1. i. 𝑆𝑢𝑢 = 𝑢 ∙ 𝑆𝑢
-					2. Ii. 𝑆𝑢𝑑 = 𝑑 ∙ 𝑆𝑢 = 𝑢 ∙ 𝑆𝑑 = 𝑆𝑑𝑢
-					3. Iii. 𝑆𝑑𝑑 = 𝑑 ∙ 𝑆𝑑
-3. Call option payoff tree.
-	1. a. Period 𝑖 = 0: 𝑐0 (to be determined)
-		1. i. Period 𝑖 = 1
-			1. 𝑐𝑢 (to be determined)
-			2. 𝑐𝑑 (to be determined)
-				1. a. Period 𝑖 = 2
-					1. i. 𝑐𝑢𝑢 = max{𝑆𝑢𝑢 − 𝐾, 0}
-					2. $\begin{array}{ll}\mbox{ii.}&c_{\rm rad}=\max\{S_{\rm ud}-K\}\\ \mbox{iii.}&c_{\rm dd}=\max\{S_{\rm dd}-K\}\end{array}$
-4. Work backwards from final node in the tree to determine option prices (𝑐0, 𝑐𝑢, 𝑐𝑑).
-5. Period 𝑖 = 1:
-	1. a. Node 𝑢.
-		1. b. Position in stocks ("delta").
-$$\Delta_{u}={\frac{c_{u u}-c_{u d}}{S_{u u}-S_{u d}}},$$
+## 2. Option Pricing with Multiple Periods
 
-			c. Position in bonds (note use of discrete discounting).  
-$$B_{u}=\frac{1}{1+r}\cdot(c_{u u}-\Delta_{u}\cdot S_{u u})$$
+1. **Overview**: Construct a replicating portfolio of stocks and bonds that replicates the payoff of the call option.
 
-			d. Value of [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|replicating portfolio]] in stocks and bonds.  
-$$c_{u}:=V_{u}^{R P}=\Delta_{u}\cdot S_{u}+B_{u}$$
+2. Stock price payoff tree:
+   
+   a. Period $i = 0$: $S_0$
+   
+   b. Period $i = 1$:
+      - $S_u = u \cdot S_0$
+      - $S_d = d \cdot S_0$
+   
+   c. Period $i = 2$:
+      - $S_{uu} = u \cdot S_u$
+      - $S_{ud} = d \cdot S_u = u \cdot S_d = S_{du}$
+      - $S_{dd} = d \cdot S_d$
 
-			e. Node 𝑑.  
-				i. Position in stocks ("delta").  
-$$\Delta_{d}={\frac{c_{u d}-c_{d d}}{S_{u d}-S_{d d}}}.$$
+3. Call option payoff tree:
 
-				ii. Position in bonds (note use of discrete discounting).  
-$$B_{d}=\frac{1}{1+r}\cdot(c_{u d}-\Delta_{d}\cdot S_{u d})$$
+   a. Period $i = 0$: $c_0$ (to be determined)
+   
+   b. Period $i = 1$:
+      - $c_u$ (to be determined)
+      - $c_d$ (to be determined)
+   
+   c. Period $i = 2$:
+      - $c_{uu} = \max\{S_{uu} - K, 0\}$
+      - $c_{ud} = \max\{S_{ud} - K, 0\}$
+      - $c_{dd} = \max\{S_{dd} - K, 0\}$
 
-				iii. Value of [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|replicating portfolio]] in stocks and bonds.  
-$$c_{d}:=V_{d}^{R P}=\Delta_{d}\cdot S_{d}+B_{d}$$
+4. Work backwards from final node in the tree to determine option prices ($c_0$, $c_u$, $c_d$).
 
-6. Period 𝑖 = 0.
-	i. Position in stocks ("delta").
-$$\Delta_{0}={\frac{c_{u}-c_{d}}{S_{u}-S_{d}}}$$
+5. Period $i = 1$:
+   
+   a. Node $u$:
+      - Position in stocks ("delta"):
+        $$\Delta_{u}={\frac{c_{uu}-c_{ud}}{S_{uu}-S_{ud}}},$$
 
-	ii. Position in bonds (note use of discrete discounting).  
-$$B_{0}=\frac{1}{1+r}\cdot(c_{u}-\Delta_{0}\cdot S_{u})$$
+      - Position in bonds (note use of discrete discounting):  
+        $$B_{u}=\frac{1}{1+r}\cdot(c_{uu}-\Delta_{u}\cdot S_{uu})$$
 
-	iii. Value of [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|replicating portfolio]] in stocks and bonds.  
-$$c_{0}:=V_{0}^{BP}=\Delta_{0}\cdot S_{0}+B_{0}$$
+      - Value of replicating portfolio in stocks and bonds:  
+        $$c_{u}:=V_{u}^{RP}=\Delta_{u}\cdot S_{u}+B_{u}$$
+   
+   b. Node $d$:
+      - Position in stocks ("delta"):
+        $$\Delta_{d}={\frac{c_{ud}-c_{dd}}{S_{ud}-S_{dd}}}.$$
 
-## 1.3. PORTFOLIO SELF-FINANCING
+      - Position in bonds (note use of discrete discounting):
+        $$B_{d}=\frac{1}{1+r}\cdot(c_{ud}-\Delta_{d}\cdot S_{ud})$$
 
-1. Compute value of "inherited" [[An Asset Allocation Primer|portfolio]] and cost of "current" [[An Asset Allocation Primer|portfolio]]. 2. Consider node 𝑢 at 𝑖 = 1. 3. Value of "inherited" [[An Asset Allocation Primer|portfolio]] set up at 𝑖 = 0.
-$$V_{u}^{1}=\Delta_{0}\cdot S_{u}+B_{0}\cdot(1+r)$$
+      - Value of replicating portfolio in stocks and bonds:
+        $$c_{d}:=V_{d}^{RP}=\Delta_{d}\cdot S_{d}+B_{d}$$
 
-4. Cost of "future" [[An Asset Allocation Primer|portfolio]] set up at 𝑖 = 1.
-$$V_{u}^{2}=\Delta_{u}\cdot S_{u}+B_{u}$$
+6. Period $i = 0$:
+   - Position in stocks ("delta"):
+     $$\Delta_{0}={\frac{c_{u}-c_{d}}{S_{u}-S_{d}}}$$
 
-5. **Question**: What is the value of (𝑉𝑢1 − 𝑉𝑢2)?
+   - Position in bonds (note use of discrete discounting):
+     $$B_{0}=\frac{1}{1+r}\cdot(c_{u}-\Delta_{0}\cdot S_{u})$$
 
-## 1.4. OPTION PRICING WITH DIVIDENDS
+   - Value of replicating portfolio in stocks and bonds:
+     $$c_{0}:=V_{0}^{RP}=\Delta_{0}\cdot S_{0}+B_{0}$$
 
-1. **Takeaway**: Stock prices must fall in response to dividends. 2. [[Option Pricing With Multiperiod Binomial Tree|Stock price payoff tree]] with dividend yield 𝑦 at period 𝑡 = 1
-a. Period 𝑖 = 0: 𝑆0
-i. Period 𝑖 = 1
-1. 𝑆𝑢 = (1 − 𝑦) ∙ 𝑢 ∙ 𝑆0 2. 𝑆𝑑 = (1 − 𝑦) ∙ 𝑑 ∙ 𝑆0
-a. Period 𝑖 = 2
-i. 𝑆𝑢𝑢 = 𝑢 ∙ 𝑆𝑢
-ii. 𝑆𝑢𝑑 = 𝑑 ∙ 𝑆𝑢 = 𝑢 ∙ 𝑆𝑑 = 𝑆𝑑𝑢
-iii. 𝑆𝑑𝑑 = 𝑑 ∙ 𝑆𝑑
-3. Note that the tree is recombining at period 𝑖 = 2, i.e. 𝑆𝑢𝑑 = 𝑆𝑑𝑢
-4. Follow the same steps as before to compute option prices. 5. Consider node 𝑢 at period 𝑖 = 1.
-a. Position in stocks.
-$$\Delta_{u}={\frac{c_{u u}-c_{u d}}{S_{u u}-S_{u d}}}.$$
+## 3. Portfolio Self-Financing
 
-b. Position in bonds.
-$$B_{u}=\frac{1}{1+r}\cdot(c_{u u}-\Delta_{u}\cdot S_{u u})$$
+1. Compute value of "inherited" portfolio and cost of "current" portfolio.
 
-c. Value of option.
-𝑐𝑢 ≔ 𝑉𝑢𝑅𝑃 = Δ𝑢 ∙ 𝑆𝑢 + 𝐵𝑢
+2. Consider node $u$ at $i = 1$.
 
-6. Consider node 𝑑 at period 𝑖 = 1.
-a. Position in stocks.
-$$\Delta_{d}=\frac{c_{d u}-c_{d d}}{S_{d u}-S_{d d}}.$$
+3. Value of "inherited" portfolio set up at $i = 0$:
+   $$V_{u}^{1}=\Delta_{0}\cdot S_{u}+B_{0}\cdot(1+r)$$
 
-b. Position in bonds.
-$$B_{d}=\frac{1}{1+r}\cdot(c_{d u}-\Delta_{d}\cdot S_{d u})$$
+4. Cost of "future" portfolio set up at $i = 1$:
+   $$V_{u}^{2}=\Delta_{u}\cdot S_{u}+B_{u}$$
 
-c. Value of option.
-$$c_{d}:=V_{d}^{R P}=\Delta_{d}\cdot S_{d}+B_{d}$$
+5. **Question**: What is the value of $(V_u^1 - V_u^2)$?
 
-𝑁𝐷 = 𝑑 ∙ 𝑆0,
+## 4. Option Pricing with Dividends
 
-7. Use stock prices without dividend at period 𝑖 = 1, namely 𝑆𝑢𝑁𝐷 = 𝑢 ∙ 𝑆0 and 𝑆𝑑
-when [[Arbitrage Pricing of Derivatives|pricing]] options at the initial period 𝑖 = 0.
-a. Position in stocks.
-$$\Delta_{0}=\frac{c_{u}-c_{d}}{S_{u}^{N D}-S_{d}^{S D}}$$
+1. **Takeaway**: Stock prices must fall in response to dividends.
 
-b. Position in bonds.
-$$B_{0}=\frac{1}{1+r}\cdot(c_{u}-\Delta_{0}\cdot S_{u}^{N D})$$
+2. Stock price payoff tree with dividend yield $y$ at period $t = 1$:
+   
+   a. Period $i = 0$: $S_0$
+   
+   b. Period $i = 1$:
+      - $S_u = (1 - y) \cdot u \cdot S_0$
+      - $S_d = (1 - y) \cdot d \cdot S_0$
+   
+   c. Period $i = 2$:
+      - $S_{uu} = u \cdot S_u$
+      - $S_{ud} = d \cdot S_u = u \cdot S_d = S_{du}$
+      - $S_{dd} = d \cdot S_d$
 
-c. Value of option.
-$$c_{0}=\Delta_{0}\cdot S_{0}+B_{0}$$
+3. Note that the tree is recombining at period $i = 2$, i.e. $S_{ud} = S_{du}$
 
- ![500](IMG-20240913171226939.png
+4. Follow the same steps as before to compute option prices.
+
+5. Consider node $u$ at period $i = 1$:
+   
+   a. Position in stocks:
+      $$\Delta_{u}={\frac{c_{uu}-c_{ud}}{S_{uu}-S_{ud}}}.$$
+   
+   b. Position in bonds:
+      $$B_{u}=\frac{1}{1+r}\cdot(c_{uu}-\Delta_{u}\cdot S_{uu})$$
+   
+   c. Value of option:
+      $$c_u := V_u^{RP} = \Delta_u \cdot S_u + B_u$$
+
+6. Consider node $d$ at period $i = 1$:
+   
+   a. Position in stocks:
+      $$\Delta_{d}=\frac{c_{du}-c_{dd}}{S_{du}-S_{dd}}.$$
+   
+   b. Position in bonds:
+      $$B_{d}=\frac{1}{1+r}\cdot(c_{du}-\Delta_{d}\cdot S_{du})$$
+   
+   c. Value of option:
+      $$c_{d}:=V_{d}^{RP}=\Delta_{d}\cdot S_{d}+B_{d}$$
+
+7. Use stock prices without dividend at period $i = 1$, namely $S_u^{ND} = u \cdot S_0$ and $S_d^{ND} = d \cdot S_0$, when pricing options at the initial period $i = 0$.
+   
+   a. Position in stocks:
+      $$\Delta_{0}=\frac{c_{u}-c_{d}}{S_{u}^{ND}-S_{d}^{ND}}$$
+   
+   b. Position in bonds:
+      $$B_{0}=\frac{1}{1+r}\cdot(c_{u}-\Delta_{0}\cdot S_{u}^{ND})$$
+   
+   c. Value of option:
+      $$c_{0}=\Delta_{0}\cdot S_{0}+B_{0}$$

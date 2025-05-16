@@ -25,21 +25,21 @@ $$
 
 Note that, when calculating value with an OAS spread, rates are only shifted for the purpose of discounting. Rates are not shifted for the purposes of  
 
-computing cash flows. In the [[Option-Adjusted Spread|CMT swap example]], cash flows are still computed using Equations (7.19) through (7.23).  
+computing cash flows. In the [CMT swap example](.md), cash flows are still computed using Equations (7.19) through (7.23).  
 
-Completing the valuation with an OAS of 10 basis points, use the results of (7.27) and (7.28) and a [[PSET 7- Kohler|discount rate]] of. $2\%$ plus the OAS spread of 10 basis points, or $2.10\%$ , to obtain an initial CMT swap value of,.  
+Completing the valuation with an OAS of 10 basis points, use the results of (7.27) and (7.28) and a [discount rate](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) of. $2\%$ plus the OAS spread of 10 basis points, or $2.10\%$ , to obtain an initial CMT swap value of,.  
 $$
 {\frac{.8009\times{\S}{5},717.93+.1991\times(-{\S}4,226.43)}{1+\frac{.0210}{2}}}=\mathbb{5}3,699.18
 $$  
 
-Hence, as claimed, discounting at the [[Option-Adjusted Spread|risk-neutral rates]] plus an OAS of 10 basis points in the model recovers the given market price of $\$3,699.18$ . If a security's OAS is positive, its market price is less than its model price, which means that the security trades cheap. If the OAS is negative, the security trades rich.  
+Hence, as claimed, discounting at the [risk-neutral rates](.md) plus an OAS of 10 basis points in the model recovers the given market price of $\$3,699.18$ . If a security's OAS is positive, its market price is less than its model price, which means that the security trades cheap. If the OAS is negative, the security trades rich.  
 
-Another perspective on the relative value implications of an OAS spread. is the fact that the [[Lecture 1- Probability Distributions of Returns|expected return]] of a security with an OAS, under the. [[Profit and Loss Attribution with an OAS|risk-neutral process]], is the short-term rate plus the OAS per period. Very simply, discounting a security's expected value by a particular rate per period is equivalent to that security's earning that rate per period. In the example of the CMT swap, the [[Lecture 1- Probability Distributions of Returns|expected return]] of the fairly priced swap under the. [[Profit and Loss Attribution with an OAS|risk-neutral process]] over the six months from date O to date 1 is,.  
+Another perspective on the relative value implications of an OAS spread. is the fact that the [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) of a security with an OAS, under the. [risk-neutral process](Profit%20and%20Loss%20Attribution%20with%20an%20OAS.md), is the short-term rate plus the OAS per period. Very simply, discounting a security's expected value by a particular rate per period is equivalent to that security's earning that rate per period. In the example of the CMT swap, the [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) of the fairly priced swap under the. [risk-neutral process](Profit%20and%20Loss%20Attribution%20with%20an%20OAS.md) over the six months from date O to date 1 is,.  
 $$
 \frac{.8009\times\S5,719.52-.1991\times\S4,227.29-\S3,702.11}{\S3,702.11}=1.00\%
 $$  
 
-which is six months' worth of the initial rate of $2\%$ . On the other hand, with an OAS of 10 basis points, the [[Lecture 1- Probability Distributions of Returns|expected return]] of the cheap swap is,  
+which is six months' worth of the initial rate of $2\%$ . On the other hand, with an OAS of 10 basis points, the [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) of the cheap swap is,  
 $$
 \frac{.8009\times\S5,717.93-.1991\times\S4,226.43-\S3,699.18}{\S3,699.18}=1.05\%
 $$  

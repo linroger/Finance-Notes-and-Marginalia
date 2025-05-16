@@ -21,9 +21,9 @@ key_concepts:
 ---
 
 # Valuing Treasury Futures Using QuantLib Python
-Provides an [[Squam Lake Group Introduction|introduction]] to valuation of treasury [[Futures Not Subject to Cash-And-Carry|futures]] contract in [[Valuing Callable Bonds Using QuantLib Python|QuantLib Python]].
+Provides an [introduction](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to valuation of treasury [futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract in [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md).
 
-In this post,  we will learn how to value treasury [[Futures Not Subject to Cash-And-Carry|futures]] contract using [[Introduction to QuantLib Python|QuantLib]]. The treasury [[Futures Not Subject to Cash-And-Carry|futures]] contract gives the buyer the right to buy the underlying by the time the contract expires. The underlying is usually delivered from a basket of securities. So in order to properly value the [[Futures Not Subject to Cash-And-Carry|futures]] contract,  we would need to find the deliverable. Here we start by doing a naive calculation by constructing a fictional security. We will see what is wrong about this approach. As a next step we will perform the [[The Quality Option at Expiration|cheapest to deliver]] calculation and subsequently use that deliverable to value the same contract.
+In this post,  we will learn how to value treasury [futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract using [QuantLib](Introduction%20to%20QuantLib%20Python.md). The treasury [futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract gives the buyer the right to buy the underlying by the time the contract expires. The underlying is usually delivered from a basket of securities. So in order to properly value the [futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract,  we would need to find the deliverable. Here we start by doing a naive calculation by constructing a fictional security. We will see what is wrong about this approach. As a next step we will perform the [cheapest to deliver](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/The%20Quality%20Option%20at%20Expiration.md) calculation and subsequently use that deliverable to value the same contract.
 ```latex
 import QuantLib as ql
 import math
@@ -41,7 +41,7 @@ coupon_frequency = ql.Period(ql.Semiannual)
 
 ## Build Yield Curve
 
-As a first step,  we build the treasury curve out of the [[US Markets|treasury securities]] such as T-Bills,  T-Notes and Treasury bonds.
+As a first step,  we build the treasury curve out of the [treasury securities](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/US%20Markets.md) such as T-Bills,  T-Notes and Treasury bonds.
 
 Collapse Code
 ```latex
@@ -107,9 +107,9 @@ for d in maturity_dates:
 
 ## Treasury Futures
 
-Here we want to understand how to model treasury [[Futures Not Subject to Cash-And-Carry|futures]] contract. Let us look at the TYZ5,  the treasury [[Futures Not Subject to Cash-And-Carry|futures]] on the 10 year note for delivery in December 2015. The notional deliverable is a 10-year 6% coupon note. In reality,  the seller of the [[Futures Not Subject to Cash-And-Carry|futures]] contract can deliver from a basket of securities. 
+Here we want to understand how to model treasury [futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract. Let us look at the TYZ5,  the treasury [futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) on the 10 year note for delivery in December 2015. The notional deliverable is a 10-year 6% coupon note. In reality,  the seller of the [futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract can deliver from a basket of securities. 
 
-For now,  lets assume that the deliverable is actually a 6% coupon 10-year note issued as of the calculation date. Let us construct a 10 year treasury note and value this security. The [[Futures Price and the Quality Option Before E|futures price]] for the TYZ5 is $127.0625.
+For now,  lets assume that the deliverable is actually a 6% coupon 10-year note issued as of the calculation date. Let us construct a 10 year treasury note and value this security. The [futures price](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Futures%20Price%20and%20the%20Quality%20Option%20Before%20E.md) for the TYZ5 is $127.0625.
 ```latex
 def create_tsy_security(bond_issue_date,   
                         bond_maturity_date,  
@@ -157,7 +157,7 @@ bond_engine = ql.DiscountingBondEngine(yield_curve_handle)
 deliverable.setPricingEngine(bond_engine)
 ```
 
-Lets calculate the [[Relative Value Analysis|Z-Spread]] for this deliverable. The [[Relative Value Analysis|Z-Spread]] is the static spread added to the yield curve to match the price of the security. This spread is a measure of the risk associated with the security. For a treasury security,  you would expect this to be zero. 
+Lets calculate the [Z-Spread](../../../Financial%20Engineering/Fixed%20Income%20Derivatives/Relative%20Value%20Analysis.md) for this deliverable. The [Z-Spread](../../../Financial%20Engineering/Fixed%20Income%20Derivatives/Relative%20Value%20Analysis.md) is the static spread added to the yield curve to match the price of the security. This spread is a measure of the risk associated with the security. For a treasury security,  you would expect this to be zero. 
 ```latex
 futures_price = 127.0625
 clean_price = futures_price*yield_curve.discount(delivery_date)
@@ -172,19 +172,19 @@ print "Z-Spread =%3.0fbp" % (zspread)
 Z-Spread = 71bp
 ```
 
-Here we get a spread of 71 basis points. This is unusually high for a treasury [[Futures Not Subject to Cash-And-Carry|futures]] contract. 
+Here we get a spread of 71 basis points. This is unusually high for a treasury [futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract. 
 
 ### Cheapest To Deliver
 
-Above we used a fictional 6% coupon bond as the deliverable. In reality,  the deliverable is picked from a basket of securities based on what is the [[The Quality Option at Expiration|cheapest to deliver]]. [[The Quality Option at Expiration|Cheapest to deliver]] is not the cheapest in price. The seller of the [[Futures Not Subject to Cash-And-Carry|futures]] contract,  has to buy the delivery security from the market and sell it at an adjusted [[Futures Price and the Quality Option Before E|futures price]]. The adjusted [[Futures Price and the Quality Option Before E|futures price]] is given as:
+Above we used a fictional 6% coupon bond as the deliverable. In reality,  the deliverable is picked from a basket of securities based on what is the [cheapest to deliver](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/The%20Quality%20Option%20at%20Expiration.md). [Cheapest to deliver](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/The%20Quality%20Option%20at%20Expiration.md) is not the cheapest in price. The seller of the [futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract,  has to buy the delivery security from the market and sell it at an adjusted [futures price](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Futures%20Price%20and%20the%20Quality%20Option%20Before%20E.md). The adjusted [futures price](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Futures%20Price%20and%20the%20Quality%20Option%20Before%20E.md) is given as:
 
-_Adjusted [[Futures Price and the Quality Option Before E|Futures Price]] = [[Futures Price and the Quality Option Before E|Futures Price]] x Conversion Factor_
+_Adjusted [Futures Price](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Futures%20Price%20and%20the%20Quality%20Option%20Before%20E.md) = [Futures Price](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Futures%20Price%20and%20the%20Quality%20Option%20Before%20E.md) x Conversion Factor_
 
 The gain or loss to the seller is given by the basis,
 
-_Basis = Cash Price - Adjusted [[Futures Not Subject to Cash-And-Carry|Futures]] Price_
+_Basis = Cash Price - Adjusted [Futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) Price_
 
-So the [[The Quality Option at Expiration|cheapest to deliver]] is expected to be the security with the lowest basis. The conversion factor for a security is the price of the security with a 6% yield. Let us look at a basket of securities that is underlying this [[Futures Not Subject to Cash-And-Carry|futures]] contract to understand this aspect.
+So the [cheapest to deliver](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/The%20Quality%20Option%20at%20Expiration.md) is expected to be the security with the lowest basis. The conversion factor for a security is the price of the security with a 6% yield. Let us look at a basket of securities that is underlying this [futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract to understand this aspect.
 
 Collapse Code
 ```latex
@@ -247,7 +247,7 @@ Price                          = 101.062500
 
 The basis is the loss for a notional of $100 that the seller accrues to close this contract. For a single futures contract (which has a $100000 notional),  there is a loss of $450.60.
 
-NOTE: You will need my [pull request](https://github.com/lballabio/[[Introduction to QuantLib Python|quantlib]]/pull/370) to execute the `FixedRateBondForward` class since it is not exposed in SWIG at the moment.
+NOTE: You will need my [pull request](https://github.com/lballabio/[quantlib](Introduction%20to%20QuantLib%20Python.md)/pull/370) to execute the `FixedRateBondForward` class since it is not exposed in SWIG at the moment.
 ```latex
 futures_maturity_date = ql.Date(21,  12,  2015)
 futures = ql.FixedRateBondForward(calc_date,   futures_maturity_date,   
@@ -256,7 +256,7 @@ futures = ql.FixedRateBondForward(calc_date,   futures_maturity_date,
                                   ctd_bond,   yield_curve_handle,   yield_curve_handle)
 ```
 
-The valuation of the [[Futures Not Subject to Cash-And-Carry|futures]] contract and the underlying is shown below:
+The valuation of the [futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract and the underlying is shown below:
 
 Collapse Code
 ```latex
@@ -287,8 +287,8 @@ Forward YTM                    = 1.952%
 
 ## References
 
-\[1\] [Understanding Treasury [[Futures Not Subject to Cash-And-Carry|Futures]]](https://www.cmegroup.com/education/files/understanding-treasury-[[Futures Not Subject to Cash-And-Carry|futures]].pdf),  CME Group PDF
+\[1\] [Understanding Treasury [Futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)](https://www.cmegroup.com/education/files/understanding-treasury-[futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md).pdf),  CME Group PDF
 
 ## Conclusion
 
-In this notebook,  we looked into understanding and valuing treasury [[Mathematics of the Financial Markets|futures contracts]]. We used the [[Introduction to QuantLib Python|QuantLib]] `FixedRateBondForward` class in order to model the [[Futures Not Subject to Cash-And-Carry|futures]] contract. But,  we also made a [[The Quality Option at Expiration|cheapest to deliver]] calculation to figure out the deliverable.
+In this notebook,  we looked into understanding and valuing treasury [futures contracts](../../../Financial%20Engineering/Mathematics%20of%20the%20Financial%20Markets.md). We used the [QuantLib](Introduction%20to%20QuantLib%20Python.md) `FixedRateBondForward` class in order to model the [futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract. But,  we also made a [cheapest to deliver](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/The%20Quality%20Option%20at%20Expiration.md) calculation to figure out the deliverable.

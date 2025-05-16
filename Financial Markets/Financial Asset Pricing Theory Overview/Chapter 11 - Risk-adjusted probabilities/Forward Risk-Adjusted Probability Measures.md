@@ -19,14 +19,14 @@ key_concepts:
 
 # 11.4 Forward risk-adjusted probability measures  
 
-When valuing an asset with the risk-neutral valuation approach, we have to know the risk-neutral covariance between the risk-free [[Discount Factors|discount factor]] $(R_{t,s}^{f})^{-1}$ and the asset dividend $D_{i s}$ . Except for simple cases, such covariances are hard to compute analytically. In this section we introduce an alternative probability measure where we do not need to deal with such covariances. The downside is that we have to use a separate probability measure for each payment date.  
+When valuing an asset with the risk-neutral valuation approach, we have to know the risk-neutral covariance between the risk-free [discount factor](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) $(R_{t,s}^{f})^{-1}$ and the asset dividend $D_{i s}$ . Except for simple cases, such covariances are hard to compute analytically. In this section we introduce an alternative probability measure where we do not need to deal with such covariances. The downside is that we have to use a separate probability measure for each payment date.  
 
 # 11.4.1 Definition  
 
-Let $s\in\mathcal T$ be a trading date and assume that zero-coupon bonds with a face value of 1 maturing at time $s$ are traded. As before, the price at time $t\leq s$ of such a bond is denoted by $B_{t}^{s}$ . A probability measure $\mathbb{Q}^{s}$ on $(\Omega,\mathcal{F}_{s})$ is then called a forward [[The Organization of This Book|risk-adjusted probability measure]] (or just a forward measure) for maturity $s$ if the following conditions are satisfied:  
+Let $s\in\mathcal T$ be a trading date and assume that zero-coupon bonds with a face value of 1 maturing at time $s$ are traded. As before, the price at time $t\leq s$ of such a bond is denoted by $B_{t}^{s}$ . A probability measure $\mathbb{Q}^{s}$ on $(\Omega,\mathcal{F}_{s})$ is then called a forward [risk-adjusted probability measure](../Chapter%201%20-%20Introduction%20and%20Overview/The%20Organization%20of%20This%20Book.md) (or just a forward measure) for maturity $s$ if the following conditions are satisfied:  
 
 (i) $\mathbb{P}$ and $\mathbb{Q}^{s}$ are equivalent;   
-(ii) the [[A Preview of Alternative Formulations|Radon-Nikodym derivative]] $\frac{d\mathbb{Q}^{s}}{d\mathbb{P}}$ has finite variance,e   
+(ii) the [Radon-Nikodym derivative](../Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) $\frac{d\mathbb{Q}^{s}}{d\mathbb{P}}$ has finite variance,e   
 (iii) the time $t$ price of a dividend paid at time $s\geq t$ equals the product of the zero-coupon bond price $B_{t}^{s}$ and the $\mathbb{Q}^{s}$ -expectation of the dividend.  
 
 The time $t$ price of a discrete-time dividend process $D_{i}=(D_{i s})$ is then  
@@ -36,9 +36,9 @@ $$
 
 No covariance or joint distribution is necessary, but a separate probability measure must be used for each payment date. If you trust the market valuation of bonds, you can observe. $B_{t}^{s}$ in the bond market and you only have to find the expected dividend under the appropriate forward measure. If zero-coupon bonds are not traded, implicit zero-coupon bond prices can be derived or estimated from market prices of traded coupon bonds, see e.g. Munk (2005, Ch. 2).  
 
-Apparently, forward measures were introduced by Jamshidian (1987) and Geman (1989). Some authors use the names [[Forward Risk-Adjusted Probability Measures|forward neutral measure]] or [[Options|forward martingale measure]] instead.  
+Apparently, forward measures were introduced by Jamshidian (1987) and Geman (1989). Some authors use the names [forward neutral measure](.md) or [forward martingale measure](../Chapter%2012%20-%20Derivatives/Options.md) instead.  
 
-The word forward can be explained as follows. A forward (contract) on a given asset, say asset $i$ is a binding agreement between two parties stipulating that one party has to sell a unit of the asset to the other party at a given future point in time, say time $s$ , for a price already set today. The (unique) delivery price that ensures that the present value of this contract equals zero is called the [[Forward Contracts and Forward Prices|forward price]] of asset $i$ with delivery at time. $s$ . If asset $i$ is assumed to pay no dividends before time $s$ , the [[Forward Contracts and Forward Prices|forward price]] for delivery at time $s$ can be shown to be $P_{i t}/B_{t}^{s}$ , i.e. the current price of. the asset "discounted forward in time" using the zero-coupon bond price maturing at the delivery date. The $\mathbb{Q}^{s}$ -measure is defined such that the. $\mathbb{Q}^{s}$ -expectation of the dividend equals the [[Forward Contracts and Forward Prices|forward price]] of the asset with delivery at time $s$ (in case of no intermediary dividends).  
+The word forward can be explained as follows. A forward (contract) on a given asset, say asset $i$ is a binding agreement between two parties stipulating that one party has to sell a unit of the asset to the other party at a given future point in time, say time $s$ , for a price already set today. The (unique) delivery price that ensures that the present value of this contract equals zero is called the [forward price](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) of asset $i$ with delivery at time. $s$ . If asset $i$ is assumed to pay no dividends before time $s$ , the [forward price](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) for delivery at time $s$ can be shown to be $P_{i t}/B_{t}^{s}$ , i.e. the current price of. the asset "discounted forward in time" using the zero-coupon bond price maturing at the delivery date. The $\mathbb{Q}^{s}$ -measure is defined such that the. $\mathbb{Q}^{s}$ -expectation of the dividend equals the [forward price](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) of the asset with delivery at time $s$ (in case of no intermediary dividends).  
 
 # 11.4.2 Relation to state-price deflators and risk-neutral measures  
 
@@ -47,26 +47,26 @@ $$
 B_{0}^{s}\mathrm{E}^{\mathbb{Q}^{s}}[D_{s}]=B_{0}^{s}\mathrm{E}\left[{\frac{d\mathbb{Q}^{s}}{d\mathbb{P}}}D_{s}\right].
 $$  
 
-Therefore, a forward measure for maturity $s$ is related to a [[Exercises|state-price deflator]] through  
+Therefore, a forward measure for maturity $s$ is related to a [state-price deflator](Exercises.md) through  
 $$
 B_{0}^{s}\frac{d\mathbb{Q}^{s}}{d\mathbb{P}}=\zeta_{s}\quad\Leftrightarrow\quad\frac{d\mathbb{Q}^{s}}{d\mathbb{P}}=\frac{\zeta_{s}}{B_{0}^{s}}=\frac{\zeta_{s}}{\operatorname{E}\left[\zeta_{s}\right]}.
 $$  
 
-The zero-coupon bond price and therefore the [[A Preview of Alternative Formulations|Radon-Nikodym derivative]] $\frac{d\mathbb{Q}^{s}}{d\mathbb{P}}$ only "makes sense' up to time $s$ . Results on the existence and uniqueness of $\mathbb{Q}^{s}$ follow from the corresponding conclusions about state-price deflators.  
+The zero-coupon bond price and therefore the [Radon-Nikodym derivative](../Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) $\frac{d\mathbb{Q}^{s}}{d\mathbb{P}}$ only "makes sense' up to time $s$ . Results on the existence and uniqueness of $\mathbb{Q}^{s}$ follow from the corresponding conclusions about state-price deflators.  
 
-In terms of a [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|risk-neutral probability measure]] $\mathbb{Q}$ , the time 0 value of the dividend. $D_{s}$ is $\mathrm{E}^{\mathbb{Q}}[(R_{0,s}^{f})^{-1}D_{s}]$ and therefore a forward measure for maturity. $s$ is related to a risk-neutral proba-d bility measure through the equation.  
+In terms of a [risk-neutral probability measure](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $\mathbb{Q}$ , the time 0 value of the dividend. $D_{s}$ is $\mathrm{E}^{\mathbb{Q}}[(R_{0,s}^{f})^{-1}D_{s}]$ and therefore a forward measure for maturity. $s$ is related to a risk-neutral proba-d bility measure through the equation.  
 $$
 B_{0}^{s}\frac{d\mathbb{Q}^{s}}{d\mathbb{Q}}=\left(R_{0,s}^{f}\right)^{-1}\quad\Leftrightarrow\quad\frac{d\mathbb{Q}^{s}}{d\mathbb{Q}}=(B_{0}^{s})^{-1}\left(R_{0,s}^{f}\right)^{-1}=\frac{\left(R_{0,s}^{f}\right)^{-1}}{\mathrm{E}^{\mathbb{Q}}\left[\left(R_{0,s}^{f}\right)^{-1}\right]}.
 $$  
 
-In a [[Exercises|continuous-time framework]], the last equality can be rewritten as  
+In a [continuous-time framework](Exercises.md), the last equality can be rewritten as  
 $$
 \frac{d\mathbb{Q}^{s}}{d\mathbb{Q}}=\frac{e^{-\int_{0}^{s}r_{u}^{f}d u}}{\mathrm{E}^{\mathbb{Q}}\left[e^{-\int_{0}^{s}r_{u}^{f}d u}\right]}.
 $$  
 
-If the future risk-free rates are non-random, we see that the forward measure for maturity. $s$ and the [[Pricing Forwards, Futures, Bonds, Swaps, Swaptions, Caps and Floors under No-Arbitrage and Risk-Neutral Pricing|risk-neutral probability measure]] will assign identical probabilities to all events that are decidable at time $s$ , i.e. $\mathbb{Q}^{s}=\mathbb{Q}$ on ${\mathcal{F}}_{s}$ . In a [[Exercises|one-period economy]], $\mathbb{Q}$ and $\mathbb{Q}^{1}$ are always identical.  
+If the future risk-free rates are non-random, we see that the forward measure for maturity. $s$ and the [risk-neutral probability measure](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) will assign identical probabilities to all events that are decidable at time $s$ , i.e. $\mathbb{Q}^{s}=\mathbb{Q}$ on ${\mathcal{F}}_{s}$ . In a [one-period economy](Exercises.md), $\mathbb{Q}$ and $\mathbb{Q}^{1}$ are always identical.  
 
-Assume a [[The Continuous-Time Framework|continuous-time setting]] and write the dynamics of the zero-coupon bond price maturing at time $s$ as  
+Assume a [continuous-time setting](../Chapter%206%20-%20Individual%20optimality/The%20Continuous-Time%20Framework.md) and write the dynamics of the zero-coupon bond price maturing at time $s$ as  
 $$
 d B_{t}^{s}=B_{t}^{s}\left[\left(r_{t}^{f}+(\pmb{\sigma}_{t}^{s})^{\top}\pmb{\lambda}_{t}\right)d t+(\pmb{\sigma}_{t}^{s})^{\top}d z_{t}\right].
 $$  
@@ -81,7 +81,7 @@ $$
 1=B_{s}^{s}=B_{0}^{s}\exp\left\{\int_{0}^{s}\left(r_{t}^{f}+(\sigma_{t}^{s})^{\top}\lambda_{t}+\frac{1}{2}\|\sigma_{t}^{s}\|^{2}\right)d t-\int_{0}^{s}\left(\sigma_{t}^{s}\right)^{\top}d z_{t}\right\}.
 $$  
 
-The [[A Preview of Alternative Formulations|Radon-Nikodym derivative]] of the forward measure with respect to the real-world probability measure can now be written as  
+The [Radon-Nikodym derivative](../Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) of the forward measure with respect to the real-world probability measure can now be written as  
 $$
 \frac{d\mathbb Q^{s}}{d\mathbb P}=\frac{\zeta_{s}}{B_{0}^{s}}=\exp\left\{-\frac{1}{2}\int_{0}^{s}\|\lambda_{t}-\sigma_{t}^{s}\|^{2}-\int_{0}^{s}\left(\lambda_{t}-\sigma_{t}^{s}\right)^{\top}d z_{t}\right\}.
 $$  
@@ -91,7 +91,7 @@ $$
 d z_{t}^{s}=d z_{t}+\left(\lambda_{t}-\pmb{\sigma}_{t}^{s}\right)d t
 $$  
 
-is a standard [[Continuous-Time Stochastic Processes|Brownian motion]] under the forward measure for maturity $s$ . The dynamics of any process $X=(X_{t})_{t\in[0,T]}$ is transformed via  
+is a standard [Brownian motion](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) under the forward measure for maturity $s$ . The dynamics of any process $X=(X_{t})_{t\in[0,T]}$ is transformed via  
 $$
 d X_{t}=\mu_{X t}d t+\pmb{\sigma}_{X t}^{\top}d z_{t}=\left(\mu_{X t}-\pmb{\sigma}_{X t}^{\top}\left(\pmb{\lambda}_{t}-\pmb{\sigma}_{t}^{s}\right)\right)d t+\pmb{\sigma}_{X t}^{\top}d z_{t}^{s}
 $$  
@@ -108,14 +108,14 @@ $$
 B_{0}^{2}=\mathrm{E}[\zeta_{2}]=0.862.
 $$  
 
-Now the forward probabilities of the states can be computed as $q_{\omega}^{2}=\zeta_{2}(\omega)p_{\omega}/B_{0}^{2}$ yielding the numbers in Table 11.2. Note that the forward probabilities are different from the [[Financial Instruments|risk-neutral probabilities]] computed in Table 11.1.  
+Now the forward probabilities of the states can be computed as $q_{\omega}^{2}=\zeta_{2}(\omega)p_{\omega}/B_{0}^{2}$ yielding the numbers in Table 11.2. Note that the forward probabilities are different from the [risk-neutral probabilities](../../../Financial%20Instruments/Financial%20Instruments.md) computed in Table 11.1.  
 
 Given the forward probabilities for maturity 2, it is easy to value a dividend received at time 2. The time $0$ value of the time 2 dividend illustrated in Figure 11.3 is.  
 $$
 B_{0}^{2}\mathrm{E}^{\mathbb{Q}^{2}}[D_{2}]=0.862\cdot\left(1\cdot q_{2}^{2}+2\cdot[q_{1}^{2}+q_{3}^{2}+q_{4}^{2}]+3\cdot[q_{5}^{2}+q_{6}^{2}]\right)=2.018.
 $$  
 
-The dividend received at time 1 is not valued using the forward measure for maturity 2 but with the forward measure for time 1, i.e. $\mathbb{Q}^{1}$ . The forward measure at time 1 only assigns probabilities to the decidable events at time 1, i.e. the events $\{1,2\}$ $\{3,4,5\}$ $\{6\}$ and unions of these events. Since the one-period bond is the [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] over the first period, the. $\mathbb{Q}^{1}$ -probabilities are identical to the [[Financial Instruments|risk-neutral probabilities]] of these events, which are depicted in Figure 11.2. Note that these are different from the. $\mathbb{Q}^{2}$ -probabilities of the same events, e.g. $q_{1}^{2}+q_{2}^{2}=0.3898$ while $q_{1}+q_{2}=0.3830$ The time 0 value of the time 1 dividend illustrated in Figure 11.3 is  
+The dividend received at time 1 is not valued using the forward measure for maturity 2 but with the forward measure for time 1, i.e. $\mathbb{Q}^{1}$ . The forward measure at time 1 only assigns probabilities to the decidable events at time 1, i.e. the events $\{1,2\}$ $\{3,4,5\}$ $\{6\}$ and unions of these events. Since the one-period bond is the [risk-free asset](../../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) over the first period, the. $\mathbb{Q}^{1}$ -probabilities are identical to the [risk-neutral probabilities](../../../Financial%20Instruments/Financial%20Instruments.md) of these events, which are depicted in Figure 11.2. Note that these are different from the. $\mathbb{Q}^{2}$ -probabilities of the same events, e.g. $q_{1}^{2}+q_{2}^{2}=0.3898$ while $q_{1}+q_{2}=0.3830$ The time 0 value of the time 1 dividend illustrated in Figure 11.3 is  
 $$
 B_{0}^{1}\operatorname{E}^{\mathbb{Q}^{1}}[D_{1}]=(R_{0}^{f})^{-1}\operatorname{E}^{\mathbb{Q}}[D_{1}]=2.64
 $$  

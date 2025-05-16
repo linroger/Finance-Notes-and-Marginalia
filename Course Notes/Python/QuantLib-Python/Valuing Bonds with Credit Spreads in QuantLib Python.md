@@ -22,13 +22,13 @@ key_concepts:
 
 # Valuing Bonds with Credit Spreads in QuantLib Python
 
-Provides an example of valuing bonds with credit spreads using [[Valuing Callable Bonds Using QuantLib Python|QuantLib Python]]. This post walks through an example of shifting the yield [[The Vasicek Model|term structure]].
+Provides an example of valuing bonds with credit spreads using [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md). This post walks through an example of shifting the yield [term structure](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md).
 
-*Visit here for other [[[Valuing Callable Bonds Using QuantLib Python|QuantLib Python]] examples](http://gouthamanbalaraman.com/blog/[[Introduction to QuantLib Python|quantlib]]-python-tutorials-with-examples.html). If you found these posts useful,  please take a minute by providing some [feedback.](https://docs.google.com/forms/d/e/1FAIpQLSdFdJ768HKmIyJmaVRHBUJNY5NyQl6vr0GZvSkx-bUfIloNZA/viewform)*
+*Visit here for other [QuantLib Python]([Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python) examples](http://gouthamanbalaraman.com/blog/[quantlib](Introduction%20to%20QuantLib%20Python.md)-python-tutorials-with-examples.html). If you found these posts useful,  please take a minute by providing some [feedback.](https://docs.google.com/forms/d/e/1FAIpQLSdFdJ768HKmIyJmaVRHBUJNY5NyQl6vr0GZvSkx-bUfIloNZA/viewform)*
 
-In an earlier example on [[[Arbitrage Pricing of Derivatives|pricing]] fixed rate bonds](http://gouthamanbalaraman.com/blog/[[Introduction to QuantLib Python|quantlib]]-bond-modeling.html) I demonstrated how to construct and value bonds using the given yield curve. In this example,  let us take a look at valuing bonds with credit spreads. We will show how to add credit spreads to the give yield curve using different approaches.
+In an earlier example on [pricing]([Arbitrage%20Pricing%20of%20Derivatives) fixed rate bonds](http://gouthamanbalaraman.com/blog/[quantlib](Introduction%20to%20QuantLib%20Python.md)-bond-modeling.html) I demonstrated how to construct and value bonds using the given yield curve. In this example,  let us take a look at valuing bonds with credit spreads. We will show how to add credit spreads to the give yield curve using different approaches.
 
-As usual,  let us start by importing the [[Basic Usage of QuantLib analytics library|QuantLib library]] and pick a valuation date and set the calculation instance evaluation date.
+As usual,  let us start by importing the [QuantLib library](../../../Credit%20Markets/Credit%20Market%20PSETS/Basic%20Usage%20of%20QuantLib%20analytics%20library.md) and pick a valuation date and set the calculation instance evaluation date.
 ```python
 import QuantLib as ql
 calc_date = ql.Date(26,     7,     2016)
@@ -88,7 +88,7 @@ fixed_rate_bond.NPV()
 114.18461651948999
 ```
 
-So far,  we have valued the bond under the treasury yield curve and have not incorporated the credit spreads. Let us assume that the market prices this bond with a `50BP` spread on top of the treasury yield curve. Now we can,  in this case,  directly shock the `flat_rate` used in the yield [[The Vasicek Model|term structure]]. Let us see what the value is:
+So far,  we have valued the bond under the treasury yield curve and have not incorporated the credit spreads. Let us assume that the market prices this bond with a `50BP` spread on top of the treasury yield curve. Now we can,  in this case,  directly shock the `flat_rate` used in the yield [term structure](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md). Let us see what the value is:
 ```python
 flat_rate.setValue(0.0065)
 fixed_rate_bond.NPV()
@@ -97,7 +97,7 @@ fixed_rate_bond.NPV()
 111.5097766266561
 ```
 
-Above we shocked the `flat_rate` and since the yield [[The Vasicek Model|term structure]] is an `Observer` observing the `Observable` `flat_rate`,  we could just shock the rate,  and [[Introduction to QuantLib Python|QuantLib]] behind the scenes recalculates all the `Observer`s. Though,  this approach is not always viable,  in cases such as a bootstrapped bond curve. So let us look at two different approaches that can be used. Before we do that,  we need to reset the `flat_rate` back to what it was.
+Above we shocked the `flat_rate` and since the yield [term structure](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) is an `Observer` observing the `Observable` `flat_rate`,  we could just shock the rate,  and [QuantLib](Introduction%20to%20QuantLib%20Python.md) behind the scenes recalculates all the `Observer`s. Though,  this approach is not always viable,  in cases such as a bootstrapped bond curve. So let us look at two different approaches that can be used. Before we do that,  we need to reset the `flat_rate` back to what it was.
 ```python
 flat_rate.setValue(0.0015)
 fixed_rate_bond.NPV()
@@ -125,7 +125,7 @@ fixed_rate_bond.NPV()
 111.50977662665609
 ```
 
-Once we have constructed the spread [[The Vasicek Model|term structure]],  it is rather easy to value for other spreads. All we need to do is change the `SimpleQuote` object `spread1` here.
+Once we have constructed the spread [term structure](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md),  it is rather easy to value for other spreads. All we need to do is change the `SimpleQuote` object `spread1` here.
 ```python
 spread1.setValue(0.01)
 fixed_rate_bond.NPV()
@@ -136,7 +136,7 @@ fixed_rate_bond.NPV()
 
 #### Non-Parallel Shift of the Yield Curve
 
-The above method allows only for parallel shift of the yield curve. The `SpreadedLinearZeroInterpolatedTermStructure` class allows for non parallel shock. First,  let us mimic a parallel shift using this class. For the constructor,  we need to pass the yield [[The Vasicek Model|term structure]] that we wish to shift,  and the a list of spreads and a list of the corresponding dates.
+The above method allows only for parallel shift of the yield curve. The `SpreadedLinearZeroInterpolatedTermStructure` class allows for non parallel shock. First,  let us mimic a parallel shift using this class. For the constructor,  we need to pass the yield [term structure](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) that we wish to shift,  and the a list of spreads and a list of the corresponding dates.
 ```python
 spread21 = ql.SimpleQuote(0.0050)
 spread22 = ql.SimpleQuote(0.0050)
@@ -179,16 +179,16 @@ fixed_rate_bond.NPV()
 111.25358792334083
 ```
 
-The `SpreadedLinearZeroInterpolatedTermStructure` is a very powerful class and can be used to implement key-rate [[Key Rates O1s Durations and Hedging|duration]] calculations.
+The `SpreadedLinearZeroInterpolatedTermStructure` is a very powerful class and can be used to implement key-rate [duration](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) calculations.
 
-   [[[Introduction to QuantLib Python|quantlib]]](http://gouthamanbalaraman.com/tag/[[Introduction to QuantLib Python|quantlib]].html)   [python](http://gouthamanbalaraman.com/tag/python.html)   [finance](http://gouthamanbalaraman.com/tag/finance.html)
+   [quantlib]([Introduction%20to%20QuantLib%20Python)](http://gouthamanbalaraman.com/tag/[quantlib](Introduction%20to%20QuantLib%20Python.md).html)   [python](http://gouthamanbalaraman.com/tag/python.html)   [finance](http://gouthamanbalaraman.com/tag/finance.html)
 
 ---
 
 **Related Post**
 
-- [[[Valuing Callable Bonds Using QuantLib Python|QuantLib Python]] Tutorials With Examples](http://gouthamanbalaraman.com/blog/[[Introduction to QuantLib Python|quantlib]]-python-tutorials-with-examples.html)
-- [On the Convergence of Hull White [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|Monte Carlo]] Simulations](http://gouthamanbalaraman.com/blog/hull-white-simulation-monte-carlo-convergence.html)
-- [Valuing Options on [[Financial Instruments PSET Solutions|Commodity Futures]] Using [[Valuing Callable Bonds Using QuantLib Python|QuantLib Python]]](http://gouthamanbalaraman.com/blog/value-options-commodity-[[Futures Not Subject to Cash-And-Carry|futures]]-black-formula-[[Introduction to QuantLib Python|quantlib]]-python.html)
-- [Short [[An Overview of the Vasicek Short Rate Model|Interest Rate Model]] [[Credit Markets Session 4|Calibration]] in [[Valuing Callable Bonds Using QuantLib Python|QuantLib Python]]](http://gouthamanbalaraman.com/blog/short-interest-rate-model-[[Credit Markets Session 4|calibration]]-[[Introduction to QuantLib Python|quantlib]].html)
-- [[[Valuing Callable Bonds Using QuantLib Python|QuantLib Python]] Cookbook Announcement](http://gouthamanbalaraman.com/blog/[[Introduction to QuantLib Python|quantlib]]-python-cookbook-announcement.html)
+- [QuantLib Python]([Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python) Tutorials With Examples](http://gouthamanbalaraman.com/blog/[quantlib](Introduction%20to%20QuantLib%20Python.md)-python-tutorials-with-examples.html)
+- [On the Convergence of Hull White [Monte Carlo](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) Simulations](http://gouthamanbalaraman.com/blog/hull-white-simulation-monte-carlo-convergence.html)
+- [Valuing Options on [Commodity Futures](../../../Financial%20Instruments/Financial%20Instruments%20PSET%20Solutions.md) Using [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md)](http://gouthamanbalaraman.com/blog/value-options-commodity-[futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)-black-formula-[quantlib](Introduction%20to%20QuantLib%20Python.md)-python.html)
+- [Short [Interest Rate Model](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) [Calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md) in [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md)](http://gouthamanbalaraman.com/blog/short-interest-rate-model-[calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md)-[quantlib](Introduction%20to%20QuantLib%20Python.md).html)
+- [QuantLib Python]([Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python) Cookbook Announcement](http://gouthamanbalaraman.com/blog/[quantlib](Introduction%20to%20QuantLib%20Python.md)-python-cookbook-announcement.html)

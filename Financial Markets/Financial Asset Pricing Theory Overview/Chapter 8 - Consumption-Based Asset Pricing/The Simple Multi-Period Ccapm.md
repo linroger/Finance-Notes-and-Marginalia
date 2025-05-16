@@ -18,13 +18,13 @@ key_concepts:
 
 # 8.4 The simple multi-period CCAPM  
 
-A large part of the [[Fixed Income Asset Pricing|asset pricing]] literature makes (not always explicitly stated, unfortunately) the following additional assumptions:  
+A large part of the [asset pricing](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md) literature makes (not always explicitly stated, unfortunately) the following additional assumptions:  
 
-1. the economy has a [[The Simple Multi-Period Ccapm|representative individual]] with CRRA [[The One-Period Ccapm|time-additive utility]], i.e. $u(C)=$ $\frac{1}{1-\gamma}C^{1-\gamma}$  
+1. the economy has a [representative individual](.md) with CRRA [time-additive utility](The%20One-Period%20Ccapm.md), i.e. $u(C)=$ $\frac{1}{1-\gamma}C^{1-\gamma}$  
 
-2. future [[Pareto-Optimality in Some Incomplete Markets|aggregate consumption]] is lognormally distributed.  
+2. future [aggregate consumption](../Chapter%207%20-%20Market%20equilibrium/Pareto-Optimality%20in%20Some%20Incomplete%20Markets.md) is lognormally distributed.  
 
-In the discrete-time version of the model, we can proceed as in version 2 of the [[Exercises|one-period model]]. The first assumption leads to a [[The One-Period Ccapm|marginal rate of substitution]] given by  
+In the discrete-time version of the model, we can proceed as in version 2 of the [one-period model](Exercises.md). The first assumption leads to a [marginal rate of substitution](The%20One-Period%20Ccapm.md) given by  
 $$
 {\frac{u^{\prime}(C_{t+1})}{u^{\prime}(C_{t})}}=\left({\frac{C_{t+1}}{C_{t}}}\right)^{-\gamma}=\exp\left\{-\gamma\ln\left({\frac{C_{t+1}}{C_{t}}}\right)\right\}.
 $$  
@@ -39,12 +39,12 @@ $$
 {\frac{\sigma_{t}\left(u^{\prime}(C_{t+1})/u^{\prime}(C_{t})\right)}{\operatorname{E}_{t}\left[u^{\prime}(C_{t+1})/u^{\prime}(C_{t})\right]}}={\sqrt{e^{\gamma^{2}\sigma_{C}^{2}}-1}}\approx\gamma\sigma_{C}.
 $$  
 
-According to (8.17), the gross [[A Preview of Alternative Formulations|risk-free return]] over the period from $t$ to $t+1$ is then given by  
+According to (8.17), the gross [risk-free return](../Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) over the period from $t$ to $t+1$ is then given by  
 $$
 R_{t}^{f}=e^{\delta}\left(\mathrm{E}_{t}\left[\left(C_{t+1}/C_{t}\right)^{-\gamma}\right]\right)^{-1}=\exp\left\{\delta+\gamma\bar{g}-{\frac{1}{2}}\gamma^{2}\sigma_{C}^{2}\right\}
 $$  
 
-so that the continuously compounded [[Financial Instruments|risk-free rate of return]] becomes  
+so that the continuously compounded [risk-free rate of return](../../../Financial%20Instruments/Financial%20Instruments.md) becomes  
 $$
 r_{t}^{f}\equiv\ln R_{t}^{f}=\delta+\gamma\bar{g}-\frac{1}{2}\gamma^{2}\sigma_{C}^{2}.
 $$  
@@ -54,7 +54,7 @@ $$
 \begin{array}{c}{{\displaystyle\mathrm{E}_{t}\left[R_{i,t+1}\right]-R_{t}^{f}\approx-\gamma\sigma_{C}\rho_{t}\left[R_{i,t+1},\left(\frac{C_{t+1}}{C_{t}}\right)^{-\gamma}\right]\sigma_{t}\left[R_{i,t+1}\right]}}\ {{\approx\gamma\sigma_{C}\rho_{t}\left[R_{i,t+1},\displaystyle\frac{C_{t+1}}{C_{t}}\right]\sigma_{t}\left[R_{i,t+1}\right],}}\end{array}
 $$  
 
-where the last expression follows from a first-order [[Profit and Loss Attribution with an OAS|Taylor approximation]] as in Section 8.2.2. If. we further assume that the future [[A Preview of Alternative Formulations|asset price]] and the future consumption level are simultaneously lognormally distributed, we are back in version 3 of the [[Exercises|one-period model]] so that we get.  
+where the last expression follows from a first-order [Taylor approximation](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Profit%20and%20Loss%20Attribution%20with%20an%20OAS.md) as in Section 8.2.2. If. we further assume that the future [asset price](../Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) and the future consumption level are simultaneously lognormally distributed, we are back in version 3 of the [one-period model](Exercises.md) so that we get.  
 $$
 \mathrm{E}_{t}[\ln R_{i,t+1}]-\ln R_{t}^{f}+{\frac{1}{2}}\mathrm{Var}_{t}[\ln R_{i,t+1}]=\gamma\sigma_{C}\rho_{t}\left[\ln R_{i,t+1},\ln\left({\frac{C_{t+1}}{C_{t}}}\right)\right]\sigma_{t}\left[\ln R_{i,t+1}\right]
 $$  
@@ -64,14 +64,14 @@ $$
 \ln\left(\mathrm{E}_{t}[R_{i,t+1}]\right)-\ln R_{t}^{f}=\gamma\sigma_{C}\rho_{t}\left[\ln R_{i,t+1},\ln\left(\frac{C_{t+1}}{C_{t}}\right)\right]\sigma_{t}\left[\ln R_{i,t+1}\right].
 $$  
 
-In the formulas above the mean $g$ and variance $\sigma^{2}$ of [[Long-Run Risks and Epstein-Zin Utility|consumption growth]] can vary over time, but in the stationary case where both are constant we see that the [[Exercises|risk-free interest rate]] must also be constant. Furthermore, a risky asset with a constant correlation with [[Long-Run Risks and Epstein-Zin Utility|consumption growth]] will have a [[The Simple Multi-Period Ccapm|constant Sharpe ratio]] $\left(\mathrm{E}_{t}\left[R_{i,t+1}\right]-R_{t}^{f}\right)/\sigma_{t}[R_{i,t+1}]$ . If the standard deviation of the return is constant, the expected excess rate of return will also be constant.  
+In the formulas above the mean $g$ and variance $\sigma^{2}$ of [consumption growth](Long-Run%20Risks%20and%20Epstein-Zin%20Utility.md) can vary over time, but in the stationary case where both are constant we see that the [risk-free interest rate](Exercises.md) must also be constant. Furthermore, a risky asset with a constant correlation with [consumption growth](Long-Run%20Risks%20and%20Epstein-Zin%20Utility.md) will have a [constant Sharpe ratio](.md) $\left(\mathrm{E}_{t}\left[R_{i,t+1}\right]-R_{t}^{f}\right)/\sigma_{t}[R_{i,t+1}]$ . If the standard deviation of the return is constant, the expected excess rate of return will also be constant.  
 
-In the continuous-time version of the stationary simple [[Theory Meets Data - Asset Pricing Puzzles|consumption-based model]], the second assumption means that $\mu_{C t}$ and $\sigma_{C t}$ in the consumption process (8.21) are constant, i.e. consumption follows a [[Black Scholes Derivation|geometric Brownian motion]]. It follows from (8.23) and (8.25) that the model with these assumptions generate a constant continuously compounded short-term [[Exercises|risk-free interest rate]] Of  
+In the continuous-time version of the stationary simple [consumption-based model](Theory%20Meets%20Data%20-%20Asset%20Pricing%20Puzzles.md), the second assumption means that $\mu_{C t}$ and $\sigma_{C t}$ in the consumption process (8.21) are constant, i.e. consumption follows a [geometric Brownian motion](../../../Financial%20Instruments/Black%20Scholes%20Derivation.md). It follows from (8.23) and (8.25) that the model with these assumptions generate a constant continuously compounded short-term [risk-free interest rate](Exercises.md) Of  
 $$
 r^{f}=\delta+\gamma\mu_{C}-\frac{1}{2}\gamma(1+\gamma)\|\pmb{\sigma}_{C}\|^{2}
 $$  
 
-and a [[The Simple Multi-Period Ccapm|constant Sharpe ratio]] for asset $i$ given by  
+and a [constant Sharpe ratio](.md) for asset $i$ given by  
 $$
 \frac{\mu_{i t}+\delta_{i t}-r^{f}}{\|\pmb{\sigma}_{i t}\|}=\gamma\rho_{i C}\|\pmb{\sigma}_{C}\|
 $$  

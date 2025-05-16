@@ -68,93 +68,93 @@ The net volume of [Foreign Exchange](Foreign%20Exchange%20Quoting%20Conventions.
 
 ### THE EXCHANGE RATE
 
-The exchange rate is simply the price of one [[Forwards and Futures Notes|currency]] in terms of another,  and there are two methods of  expressing it:
+The exchange rate is simply the price of one [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) in terms of another,  and there are two methods of  expressing it:
 
-1. Foreign [[Forwards and Futures Notes|currency]] units per unit of the domestic [[Forwards and Futures Notes|currency]]: taking the pound sterling as the domestic  [[Forwards and Futures Notes|currency]],  on 16 December 2020 approximately$1.35 was required to obtain one pound,      that is,      $1.35/£1;
-1. Domestic [[Forwards and Futures Notes|currency]] units per unit of foreign [[Forwards and Futures Notes|currency]]: again,  taking the pound sterling as the  domestic [[Forwards and Futures Notes|currency]],  on 16 December 2020 there was approximately £0.7407 required to purchase one  US dollar,  that is,  £0.7407/$1
+1. Foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) units per unit of the domestic [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md): taking the pound sterling as the domestic  [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md),  on 16 December 2020 approximately$1.35 was required to obtain one pound,      that is,      $1.35/£1;
+1. Domestic [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) units per unit of foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md): again,  taking the pound sterling as the  domestic [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md),  on 16 December 2020 there was approximately £0.7407 required to purchase one  US dollar,  that is,  £0.7407/$1
 	- If the first definition is employed,  a rise in the exchange rate from$1.35/£1 to,      say,     $1.50/£1 would mean  that more dollars are required to purchase one pound,  so that the pound has appreciated or,  equivalently,  the  dollar has depreciated.
 	- Conversely,  if the second definition is used,  a rise in the pounds per dollar exchange  rate from,  say,  £0.6667/$1 to £0.7407/$1 means that more pounds have to be given to obtain a dollar,  which  means that the pound has depreciated in value or,  equivalently,  the dollar has appreciated in value.
-- Thinly traded currencies tend to have the largest spread,  which  usually increases if the risks of trading in a particular [[Forwards and Futures Notes|currency]] are perceived to have risen.
-- The bid rate is the rate at which a bank will buy sterling,  while the offer rate is the rate  at which the bank will sell sterling in exchange for dollars. The difference is known as the bid–offer spread  and represents the gross [[Operating Margin|profit margin]] of the bank.
+- Thinly traded currencies tend to have the largest spread,  which  usually increases if the risks of trading in a particular [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) are perceived to have risen.
+- The bid rate is the rate at which a bank will buy sterling,  while the offer rate is the rate  at which the bank will sell sterling in exchange for dollars. The difference is known as the bid–offer spread  and represents the gross [profit margin](../Advanced%20Financial%20Analysis%20and%20Valuation/Financial%20Ratios/Operating%20Margin.md) of the bank.
 ### CHARACTERISTICS AND PARTICIPANTS OF THE FOREIGN EXCHANGE MARKET
 
-Easily the most heavily traded [[Forwards and Futures Notes|currency]] is the US dollar which is known as a **vehicle [[Forwards and Futures Notes|currency]]** – because the [[Forwards and Futures Notes|currency]] is widely used to denominate international transactions. Oil and many other important primary products such as tin,  coffee and gold all tend to be priced in dollars.
+Easily the most heavily traded [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) is the US dollar which is known as a **vehicle [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)** – because the [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) is widely used to denominate international transactions. Oil and many other important primary products such as tin,  coffee and gold all tend to be priced in dollars.
 
-The main participants in the [[Foreign Exchange Markets and Exchange Rate Determination|foreign exchange market]] can be categorized as follows:
+The main participants in the [foreign exchange market](.md) can be categorized as follows:
 
 - **Retail clients**: These are made up of businesses,  international investors,  multinational corporations and the like who need foreign exchange for the purposes of operating their businesses. Normally,  they do not directly purchase or sell foreign currencies themselves; rather they operate by placing buy/sell orders with the commercial banks.
-- **Commercial banks**: The commercial banks carry out buy/sell orders from their retail clients and buy/sell currencies on their own account (known as proprietary trading) so as to alter the structure of their assets and liabilities in different currencies. The banks deal either directly with other banks or through foreign exchange brokers. In addition to the commercial banks,  other [[Financial Markets and Institutions Lecture Notes|financial institutions]] such as merchant banks are engaged in buying and selling currencies both for proprietary purposes and on behalf of their customers in finance-related transactions.
+- **Commercial banks**: The commercial banks carry out buy/sell orders from their retail clients and buy/sell currencies on their own account (known as proprietary trading) so as to alter the structure of their assets and liabilities in different currencies. The banks deal either directly with other banks or through foreign exchange brokers. In addition to the commercial banks,  other [financial institutions](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) such as merchant banks are engaged in buying and selling currencies both for proprietary purposes and on behalf of their customers in finance-related transactions.
 - **Foreign exchange brokers**: Often banks do not trade directly with one another,  rather they offer to buy and sell currencies via foreign exchange brokers. Operating through such brokers is advantageous because,  since they collect buy and sell quotations for most currencies from many banks,  the most favourable quotation is obtained quickly and at very low cost. One disadvantage of dealing through a broker is that a small brokerage fee is payable which is not incurred in a straight bank to bank deal. Each financial centre normally has just a handful of authorized brokers through which commercial banks conduct their exchanges.
 
 #### BULLS AND BEARS IN THE FOREIGN EXCHANGE MARKET
 
-Speculators are usually classified as **bulls** or **bears** according to their view on a particular [[Forwards and Futures Notes|currency]].
+Speculators are usually classified as **bulls** or **bears** according to their view on a particular [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md).
 
-- If a speculator expects a [[Forwards and Futures Notes|currency]],  for example the pound (spot and forward),  to appreciate in the future they are said to be 'bullish' about the [[Forwards and Futures Notes|currency]]. It pays the speculator to take a [[Chapter 4 - Futures: Hedging and Speculation|long position]] on the pound,  that is,  to buy the pound spot or forward at a cheap price today in the hope that they can sell it at a higher price in the future.
-- If a speculator expects the pound (spot and forward) to depreciate in the future he or she is said to be 'bearish' about the [[Forwards and Futures Notes|currency]]. It will pay the speculator to take a short position on the [[Forwards and Futures Notes|currency]],  that is,  to sell the pound at what they consider to be a relatively high price today in the hope of buying it back at a cheaper rate sometime in the future.
-- **Central banks**: Normally the monetary authorities of a country are not indifferent to changes in the external value of their [[Forwards and Futures Notes|currency]]. Even though exchange rates of the major industrialized nations have been left to fluctuate freely since 1973,  central banks frequently intervene to buy and sell their currencies in a bid to influence the rate at which their [[Forwards and Futures Notes|currency]] is traded. Under a fixed exchange rate system the authorities are obliged to purchase their currencies when there is excess supply,  and sell the [[Forwards and Futures Notes|currency]] when there is excess demand.
+- If a speculator expects a [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md),  for example the pound (spot and forward),  to appreciate in the future they are said to be 'bullish' about the [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md). It pays the speculator to take a [long position](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%204%20-%20Futures:%20Hedging%20and%20Speculation.md) on the pound,  that is,  to buy the pound spot or forward at a cheap price today in the hope that they can sell it at a higher price in the future.
+- If a speculator expects the pound (spot and forward) to depreciate in the future he or she is said to be 'bearish' about the [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md). It will pay the speculator to take a short position on the [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md),  that is,  to sell the pound at what they consider to be a relatively high price today in the hope of buying it back at a cheaper rate sometime in the future.
+- **Central banks**: Normally the monetary authorities of a country are not indifferent to changes in the external value of their [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md). Even though exchange rates of the major industrialized nations have been left to fluctuate freely since 1973,  central banks frequently intervene to buy and sell their currencies in a bid to influence the rate at which their [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) is traded. Under a fixed exchange rate system the authorities are obliged to purchase their currencies when there is excess supply,  and sell the [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) when there is excess demand.
 
 ### ARBITRAGE IN THE FOREIGN EXCHANGE MARKET
 
-**Financial centre [[Arbitrage Pricing of Derivatives|arbitrage]]** ensures that the dollar–pound exchange rate quoted in New York will be the same as that quoted in London and other financial centres. This is because if the exchange rate is$1.36/£1 in New York but only$1.34/£1 in London,  it would be profitable for banks to buy pounds in London and simultaneously sell them in New York and make a guaranteed 2 cents for every pound bought and sold. [[The Dodd Frank Act and Its Impact|The act]] of buying pounds in London will lead to a depreciation of the dollar in London,  while selling pounds in New York will lead to an appreciation of the dollar in New York. Such a process continues until the rate quoted in the two centres coincides at,  say,  $1.35/£1.
+**Financial centre [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)** ensures that the dollar–pound exchange rate quoted in New York will be the same as that quoted in London and other financial centres. This is because if the exchange rate is$1.36/£1 in New York but only$1.34/£1 in London,  it would be profitable for banks to buy pounds in London and simultaneously sell them in New York and make a guaranteed 2 cents for every pound bought and sold. [The act](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/The%20Dodd%20Frank%20Act%20and%20Its%20Impact.md) of buying pounds in London will lead to a depreciation of the dollar in London,  while selling pounds in New York will lead to an appreciation of the dollar in New York. Such a process continues until the rate quoted in the two centres coincides at,  say,  $1.35/£1.
 
-**Cross [[The Foreign Exchange Market Annotations|currency arbitrage]]**. To illustrate what is meant by [[The Foreign Exchange Market Annotations|currency arbitrage]] let us suppose that the exchange rate of the dollar against the pound is$1.35/£1 and the exchange rate of the dollar against the euro is$1.2175/€1. [[The Foreign Exchange Market Annotations|Currency arbitrage]] implies that the exchange rate of the euro against the pound will be €1.1088/£1 ($1.35/$1.2175 = 1.1088). If this were not the case,  say there was 1.25 euros per pound,  then a UK dealer wanting dollars would do better to first obtain 1.25 euros which would then buy$1.5219 making nonsense of a$1.35/£1 quotation. The increased demand for euros would quickly appreciate its rate against the pound to the €1.1088/£1 level.
+**Cross [currency arbitrage](The%20Foreign%20Exchange%20Market%20Annotations.md)**. To illustrate what is meant by [currency arbitrage](The%20Foreign%20Exchange%20Market%20Annotations.md) let us suppose that the exchange rate of the dollar against the pound is$1.35/£1 and the exchange rate of the dollar against the euro is$1.2175/€1. [Currency arbitrage](The%20Foreign%20Exchange%20Market%20Annotations.md) implies that the exchange rate of the euro against the pound will be €1.1088/£1 ($1.35/$1.2175 = 1.1088). If this were not the case,  say there was 1.25 euros per pound,  then a UK dealer wanting dollars would do better to first obtain 1.25 euros which would then buy$1.5219 making nonsense of a$1.35/£1 quotation. The increased demand for euros would quickly appreciate its rate against the pound to the €1.1088/£1 level.
 
-Some banks are keen to buy a [[Forwards and Futures Notes|currency]] because they are short of it and others are keen to sell a [[Forwards and Futures Notes|currency]] because they have too much of it. This means that banks will quote slightly different bid–offer quotes on a [[Forwards and Futures Notes|currency]] in the interbank market.
+Some banks are keen to buy a [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) because they are short of it and others are keen to sell a [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) because they have too much of it. This means that banks will quote slightly different bid–offer quotes on a [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) in the interbank market.
 
  ![500](Pasted%20image%2020240124013116%201.png)
 
-Box 7.2 The [[[[Currency Carry Trade|Carry Trade]] 1]] does not make sense according to UIP
+Box 7.2 The [Carry Trade]([[Currency%20Carry%20Trade) 1]] does not make sense according to UIP
 
-- In a [[Currency Carry Trade|carry trade]] investors borrow money in a low interest rate [[Forwards and Futures Notes|currency]] and place it into a higher interest
-rate [[Forwards and Futures Notes|currency]] in the hope that the latter will either appreciate or not depreciate more than the interest
+- In a [carry trade](../Clippings/Currency%20Carry%20Trade.md) investors borrow money in a low interest rate [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) and place it into a higher interest
+rate [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) in the hope that the latter will either appreciate or not depreciate more than the interest
 rate differential,  enabling an excess return to be made.
-- The [[Currency Carry Trade|carry trade]] has been increasingly used in recent years by [[Basis Trade Explainer|hedge funds]],  speculators and banks despite the fact that UIP theory suggests that it will not produce excess [[Assets|returns]] in the long run. Remember,  the UIP condition predicts that over the long run the low interest rate [[Forwards and Futures Notes|currency]] will on average appreciate by the interest rate differential so as to make the [[Currency Carry Trade|carry trade]] a break-even strategy.
-- Nonetheless,  if UIP does not hold then the [[Currency Carry Trade|carry trade]] might work in the short run or even for several years (just as it can also fail at both time horizons).
-- The [[Currency Carry Trade|carry trade]] will prove unprofitable if the [[Forwards and Futures Notes|currency]] with the high interest rate depreciates by an amount greater than the interest rate differential over the relevant time horizon.
+- The [carry trade](../Clippings/Currency%20Carry%20Trade.md) has been increasingly used in recent years by [hedge funds](../Financial%20Engineering/Basis%20Trade%20Explainer.md),  speculators and banks despite the fact that UIP theory suggests that it will not produce excess [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) in the long run. Remember,  the UIP condition predicts that over the long run the low interest rate [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) will on average appreciate by the interest rate differential so as to make the [carry trade](../Clippings/Currency%20Carry%20Trade.md) a break-even strategy.
+- Nonetheless,  if UIP does not hold then the [carry trade](../Clippings/Currency%20Carry%20Trade.md) might work in the short run or even for several years (just as it can also fail at both time horizons).
+- The [carry trade](../Clippings/Currency%20Carry%20Trade.md) will prove unprofitable if the [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) with the high interest rate depreciates by an amount greater than the interest rate differential over the relevant time horizon.
 
 #### EXAMPLE
 - Imagine the yen/euro rate is 100 yen per euro and the Japanese interest rate is 1% and the euro interest rate is 5%.
 - A hedge fund might decide to borrow 10 million yen for one year knowing it will have to pay back 10,  100,  000 yen in a year’s time.
 - The hedge fund then sells the yen in the spot market to gain €100,  000 which will earn 5% in euros and so become €105,  000.
-	- So long as the euro has not depreciated to below 96.19 yen/€1 then the [[Currency Carry Trade|carry trade]] will be profitable.
+	- So long as the euro has not depreciated to below 96.19 yen/€1 then the [carry trade](../Clippings/Currency%20Carry%20Trade.md) will be profitable.
 		- For example,  if the euro actually appreciates to 110 yen/€1 then the hedge fund will make 1,  450,  000 yen profit (or €13,  181.82).
 		- Even if the exchange rate remains at 100 yen/€1 the hedge fund will be able to convert the €105,  000 and obtain 10,  500,  000 yen and so make a 400,  000 yen profit (or €4,  000).
-	- The [[Interest Rates, Carry Trades, and Exchange Rate Movements|carry trade strategy]] will break even if the euro depreciates approximately 4% to 96.19 yen/€1 when €105,  000 converts to 10,  100,  000 yen,  which is just sufficient to repay the borrowed 10,  000,  000 yen plus 100,  000 yen interest. However,  there are risks with the [[Currency Carry Trade|carry trade]].
+	- The [carry trade strategy](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Interest%20Rates,%20Carry%20Trades,%20and%20Exchange%20Rate%20Movements.md) will break even if the euro depreciates approximately 4% to 96.19 yen/€1 when €105,  000 converts to 10,  100,  000 yen,  which is just sufficient to repay the borrowed 10,  000,  000 yen plus 100,  000 yen interest. However,  there are risks with the [carry trade](../Clippings/Currency%20Carry%20Trade.md).
 		- The real danger is if the yen appreciates by substantially more than 4%.
 			- Say the yen were to appreciate sharply to 80 yen per euro by the end of the year.
 			- In this case the €105,  000 will be worth 8,  400,  000 yen leaving the hedge fund with a shortfall (loss) of 1,  700,  000 yen of the required 10,  100,  000 yen that it needs to repay,  which is the euro equivalent loss of €21,  250.
-	- According to UIP on average we can expect the Japanese yen to appreciate to 96.19 so that the expected profit from the [[Currency Carry Trade|carry trade]] is zero.
-	- The [[Currency Carry Trade|carry trade]] therefore implies that markets on average lead to a depreciation of the high interest rate [[Forwards and Futures Notes|currency]] less than would be predicted by the interest differential.
-	- During the early part of this century the [[Currency Carry Trade|carry trade]] proved to be very profitable as the yen–euro rate started at 100 yen/€1 and moved all the way to 170 yen/€1,  even though the European interest rate was above that of Japan through the period,  as depicted in Figure 7.3.
-	- However,  in July 2008 there was a very abrupt depreciation of the euro from 170 yen/€1 to 115 yen/€1 in the space of just three months,  so that anyone doing the [[Currency Carry Trade|carry trade]] at that point would have lost very substantially in a very short space of time.
+	- According to UIP on average we can expect the Japanese yen to appreciate to 96.19 so that the expected profit from the [carry trade](../Clippings/Currency%20Carry%20Trade.md) is zero.
+	- The [carry trade](../Clippings/Currency%20Carry%20Trade.md) therefore implies that markets on average lead to a depreciation of the high interest rate [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) less than would be predicted by the interest differential.
+	- During the early part of this century the [carry trade](../Clippings/Currency%20Carry%20Trade.md) proved to be very profitable as the yen–euro rate started at 100 yen/€1 and moved all the way to 170 yen/€1,  even though the European interest rate was above that of Japan through the period,  as depicted in Figure 7.3.
+	- However,  in July 2008 there was a very abrupt depreciation of the euro from 170 yen/€1 to 115 yen/€1 in the space of just three months,  so that anyone doing the [carry trade](../Clippings/Currency%20Carry%20Trade.md) at that point would have lost very substantially in a very short space of time.
 
 ### THE SPOT AND FORWARD EXCHANGE RATES
 
-**The [[Arbitrage Opportunity Accounting|spot exchange rate]]**. This is the quotation between two currencies for immediate delivery. In other words,  the current exchange rate of two currencies vis-à-vis each other. In practice,  there is normally a two-day lag between a spot purchase or sale and the actual exchange of currencies to allow for verification,  paperwork and clearing of payments.
+**The [spot exchange rate](../Financial%20Instruments/Review%20Session%20Notes/Arbitrage%20Opportunity%20Accounting.md)**. This is the quotation between two currencies for immediate delivery. In other words,  the current exchange rate of two currencies vis-à-vis each other. In practice,  there is normally a two-day lag between a spot purchase or sale and the actual exchange of currencies to allow for verification,  paperwork and clearing of payments.
 
-**The [[A Primer on Currency Derivatives|forward exchange rate]]**. In addition to the [[Arbitrage Opportunity Accounting|spot exchange rate]] it is possible for economic agents to agree today to [[Currency Swap Basics|exchange currencies]] at some specified time in the future,  most commonly for one month (30 days),  three months (90 days),  six months (180 days),  nine months (270 days) and one year (360 days). The rate of exchange at which such a purchase or sale can be made is known as the [[A Primer on Currency Derivatives|forward exchange rate]].
+**The [forward exchange rate](../Financial%20Engineering/A%20Primer%20on%20Currency%20Derivatives.md)**. In addition to the [spot exchange rate](../Financial%20Instruments/Review%20Session%20Notes/Arbitrage%20Opportunity%20Accounting.md) it is possible for economic agents to agree today to [exchange currencies](../Clippings/Currency%20Swap%20Basics.md) at some specified time in the future,  most commonly for one month (30 days),  three months (90 days),  six months (180 days),  nine months (270 days) and one year (360 days). The rate of exchange at which such a purchase or sale can be made is known as the [forward exchange rate](../Financial%20Engineering/A%20Primer%20on%20Currency%20Derivatives.md).
 
-**[[The Foreign Exchange Market Annotations|Nominal exchange rate]]**
+**[Nominal exchange rate](The%20Foreign%20Exchange%20Market%20Annotations.md)**
 
-The exchange rate that prevails at a given date is known as the [[The Foreign Exchange Market Annotations|nominal exchange rate]]; it is the amount of US dollars that will be obtained for one pound in the [[Foreign Exchange Markets and Exchange Rate Determination|foreign exchange market]],  for example,  $1.35/£1. Similarly,  if the euro quotation is €1.1088/£1,  this is again a [[The Foreign Exchange Market Annotations|nominal exchange rate]] quotation. The [[The Foreign Exchange Market Annotations|nominal exchange rate]] is merely the price of one [[Forwards and Futures Notes|currency]] in terms of another with no reference made to what this means in terms of purchasing power of goods/services.
+The exchange rate that prevails at a given date is known as the [nominal exchange rate](The%20Foreign%20Exchange%20Market%20Annotations.md); it is the amount of US dollars that will be obtained for one pound in the [foreign exchange market](.md),  for example,  $1.35/£1. Similarly,  if the euro quotation is €1.1088/£1,  this is again a [nominal exchange rate](The%20Foreign%20Exchange%20Market%20Annotations.md) quotation. The [nominal exchange rate](The%20Foreign%20Exchange%20Market%20Annotations.md) is merely the price of one [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) in terms of another with no reference made to what this means in terms of purchasing power of goods/services.
 
 **Real exchange rate**
 
-The real exchange rate is the [[The Foreign Exchange Market Annotations|nominal exchange rate]] adjusted for relative prices between the countries under consideration. It is normally expressed in index form as:
+The real exchange rate is the [nominal exchange rate](The%20Foreign%20Exchange%20Market%20Annotations.md) adjusted for relative prices between the countries under consideration. It is normally expressed in index form as:
 $$Sr = \frac{S}{P} \times \frac{P^*}{P^*}$$
 
-where $S_r$ is the index of the real exchange rate,  S is the [[The Foreign Exchange Market Annotations|nominal exchange rate]] (foreign [[Forwards and Futures Notes|currency]] units per unit of domestic [[Forwards and Futures Notes|currency]]) in index form,  P is the index of the domestic price level and $P^*$ is the index of the foreign price level.
+where $S_r$ is the index of the real exchange rate,  S is the [nominal exchange rate](The%20Foreign%20Exchange%20Market%20Annotations.md) (foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) units per unit of domestic [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)) in index form,  P is the index of the domestic price level and $P^*$ is the index of the foreign price level.
 
-The real exchange rate monitors changes in a country's price competitiveness. Real exchange rate indices unlike [[The Foreign Exchange Market Annotations|nominal exchange rate]] indices are not publishable on a daily basis because the consumer price indices used are normally only published monthly.
+The real exchange rate monitors changes in a country's price competitiveness. Real exchange rate indices unlike [nominal exchange rate](The%20Foreign%20Exchange%20Market%20Annotations.md) indices are not publishable on a daily basis because the consumer price indices used are normally only published monthly.
 
 **Effective exchange rate**
 
-Since most countries of the world do not conduct all their trade with a single foreign country,  policy-makers are not so much concerned with what is happening to their exchange rate against a single foreign [[Forwards and Futures Notes|currency]] but rather what is happening to it against a basket of foreign currencies with which the country trades. The effective exchange rate is a measure of whether or not the [[Forwards and Futures Notes|currency]] is appreciating or depreciating against a weighted basket of foreign currencies.
+Since most countries of the world do not conduct all their trade with a single foreign country,  policy-makers are not so much concerned with what is happening to their exchange rate against a single foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) but rather what is happening to it against a basket of foreign currencies with which the country trades. The effective exchange rate is a measure of whether or not the [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) is appreciating or depreciating against a weighted basket of foreign currencies.
 
 ### THE DEMAND FOR FOREIGN EXCHANGE
 
-The demand for pounds in the [[Foreign Exchange Markets and Exchange Rate Determination|foreign exchange market]] is a derived demand; that is,  the pounds are not demanded because they have an intrinsic value in themselves,  but rather because of what they can buy.
+The demand for pounds in the [foreign exchange market](.md) is a derived demand; that is,  the pounds are not demanded because they have an intrinsic value in themselves,  but rather because of what they can buy.
 
 As the pound appreciates against the dollar,  that is,  moves from$1.20/£1 towards$1.50/£1,  the price of the UK export to US importers increases,  which leads to a lower quantity of exports and with it a reduced demand for pounds. Hence,  the demand curve (D) for pounds which is depicted in Figure 1 slopes down from left to right.
 
@@ -170,7 +170,7 @@ All these factors would result in an increased demand for UK exports and hence p
 
 ### THE SUPPLY OF FOREIGN EXCHANGE
 
-The supply of pounds arises because UK residents wish to purchase US exports and therefore dollars. UK residents supply pounds in return for the dollars they wish to acquire,  which are purchased by increasing the amount of pounds supplied in the [[Foreign Exchange Markets and Exchange Rate Determination|foreign exchange market]],  and this yields an upward-sloping supply of pounds curve.
+The supply of pounds arises because UK residents wish to purchase US exports and therefore dollars. UK residents supply pounds in return for the dollars they wish to acquire,  which are purchased by increasing the amount of pounds supplied in the [foreign exchange market](.md),  and this yields an upward-sloping supply of pounds curve.
 
 ### ALTERNATIVE EXCHANGE RATE REGIMES
 
@@ -178,65 +178,65 @@ At the Bretton Woods conference of 1948 the major nations of the Western world a
 
 **Floating exchange rate regime**
 
-Under a floating exchange rate regime the authorities do not intervene to buy or sell their [[Forwards and Futures Notes|currency]] in the [[Foreign Exchange Markets and Exchange Rate Determination|foreign exchange market]]. Rather,  they allow the value of their [[Forwards and Futures Notes|currency]] to change due to fluctuations in the supply and demand of the [[Forwards and Futures Notes|currency]].
+Under a floating exchange rate regime the authorities do not intervene to buy or sell their [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) in the [foreign exchange market](.md). Rather,  they allow the value of their [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) to change due to fluctuations in the supply and demand of the [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md).
 
 **Fixed exchange rate regime**
 
 For various reasons,  governments can intervene to try and fix the exchange rate around certain levels.
 
-With **non-sterilized intervention** the buying/selling of sterling in the [[Foreign Exchange Markets and Exchange Rate Determination|foreign exchange market]] affects the UK money supply and [[Interest Rate Quotations|interest rates]].
+With **non-sterilized intervention** the buying/selling of sterling in the [foreign exchange market](.md) affects the UK money supply and [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md).
 
-Frequently,  however,  authorities will attempt to restore domestic money supply and [[Interest Rate Quotations|interest rates]] back to their levels before the [[Foreign Exchange Markets and Exchange Rate Determination|foreign exchange market]] intervention took place,  and this is known as **sterilized [[Foreign Exchange Markets and Exchange Rate Determination|foreign exchange market]] intervention**.
+Frequently,  however,  authorities will attempt to restore domestic money supply and [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) back to their levels before the [foreign exchange market](.md) intervention took place,  and this is known as **sterilized [foreign exchange market](.md) intervention**.
 
 While nonsterilized intervention is likely to be effective in moving the exchange rate in the desired direction,  there is good reason to doubt that sterilized intervention can have much of an impact.
 
-If the authorities decide to sterilize the impact of their interventions on the money supply,  through offsetting open-market operations that move the money supply and [[Interest Rate Quotations|interest rates]] back to the levels prior to the intervention,  then they will most likely have only a limited exchange rate impact since none of the [[Week 2 Fundamentals Of Forecasting|fundamentals]] change.
+If the authorities decide to sterilize the impact of their interventions on the money supply,  through offsetting open-market operations that move the money supply and [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) back to the levels prior to the intervention,  then they will most likely have only a limited exchange rate impact since none of the [fundamentals](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) change.
 
 ### THE DETERMINATION OF THE FORWARD EXCHANGE RATE
 
-The forward exchange market is where buyers and sellers agree to [[Currency Swap Basics|exchange currencies]] at some specified date in the future.
+The forward exchange market is where buyers and sellers agree to [exchange currencies](../Clippings/Currency%20Swap%20Basics.md) at some specified date in the future.
 
-**Hedgers** are agents (usually firms) that enter the forward exchange market to protect themselves against exchange rate fluctuations which entail [[PSET 3 Financial Instruments|exchange rate risk]].
+**Hedgers** are agents (usually firms) that enter the forward exchange market to protect themselves against exchange rate fluctuations which entail [exchange rate risk](../Financial%20Instruments/Assignments/PSET%203%20Financial%20Instruments.md).
 
-**Arbitrageurs** are agents (usually banks) that aim to make a riskless profit out of discrepancies between [[What Really Is the Cross-Currency Basis|interest rate differentials]] and what is known as the forward discount or forward premium.
+**Arbitrageurs** are agents (usually banks) that aim to make a riskless profit out of discrepancies between [interest rate differentials](../Financial%20Markets/Random%20Walks%20in%20Fixed%20Income%20and%20Foreign%20Exchange/Chapter%201/What%20Really%20Is%20the%20Cross-Currency%20Basis.md) and what is known as the forward discount or forward premium.
 
-The presence of arbitrageurs ensures that what is known as the **[[Financial Instruments PSET Solutions|covered interest rate parity]] (CIP)** condition holds continually:
+The presence of arbitrageurs ensures that what is known as the **[covered interest rate parity](../Financial%20Instruments/Financial%20Instruments%20PSET%20Solutions.md) (CIP)** condition holds continually:
 $$F=\frac{S}{(1+r^*)} \times (1+r)$$
 
 Where:
 
-- F is the one-year [[A Primer on Currency Derivatives|forward exchange rate]] quotation in foreign [[Forwards and Futures Notes|currency]] per unit of domestic [[Forwards and Futures Notes|currency]]
-- S is the [[Arbitrage Opportunity Accounting|spot exchange rate]] quotation in foreign [[Forwards and Futures Notes|currency]] per unit of domestic [[Forwards and Futures Notes|currency]]
+- F is the one-year [forward exchange rate](../Financial%20Engineering/A%20Primer%20on%20Currency%20Derivatives.md) quotation in foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) per unit of domestic [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)
+- S is the [spot exchange rate](../Financial%20Instruments/Review%20Session%20Notes/Arbitrage%20Opportunity%20Accounting.md) quotation in foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) per unit of domestic [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)
 - r is the one-year domestic interest rate
 - r\* is the one-year foreign interest rate
 
-**Speculators** are agents that hope to make a profit by accepting [[PSET 3 Financial Instruments|exchange rate risk]]. Speculators engage in the forward exchange market because they believe that the future [[The Foreign Exchange Market Annotations|spot rate]] corresponding to the date of the quoted [[A Primer on Currency Derivatives|forward exchange rate]] will be different to the quoted [[Forward Points in Currency|forward rate]].
+**Speculators** are agents that hope to make a profit by accepting [exchange rate risk](../Financial%20Instruments/Assignments/PSET%203%20Financial%20Instruments.md). Speculators engage in the forward exchange market because they believe that the future [spot rate](The%20Foreign%20Exchange%20Market%20Annotations.md) corresponding to the date of the quoted [forward exchange rate](../Financial%20Engineering/A%20Primer%20on%20Currency%20Derivatives.md) will be different to the quoted [forward rate](../Clippings/Forward%20Points%20in%20Currency.md).
 
-Speculators are at work in both the spot and forward exchange markets. If they decide that the current [[The Foreign Exchange Market Annotations|spot rate]] is overvalued they may sell spot so that the [[Forwards and Futures Notes|currency]] depreciates; if [[Interest Rate Quotations|interest rates]] do not change then both the spot and forward exchange rates depreciate.
+Speculators are at work in both the spot and forward exchange markets. If they decide that the current [spot rate](The%20Foreign%20Exchange%20Market%20Annotations.md) is overvalued they may sell spot so that the [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) depreciates; if [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) do not change then both the spot and forward exchange rates depreciate.
 
-Similarly,  if speculators feel that the [[Forwards and Futures Notes|currency]] is overvalued forward then they will sell forward and both the forward and spot exchange quotations will depreciate.
+Similarly,  if speculators feel that the [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) is overvalued forward then they will sell forward and both the forward and spot exchange quotations will depreciate.
 
-Hence,  [[Arbitrage Pricing of Derivatives|arbitrage]] ties the spot and forward exchange market quotations together via the CIP condition. Speculation and [[Key Rates O1s Durations and Hedging|hedging]] may be thought of as determining the level of the spot and forward exchange quotations.
+Hence,  [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) ties the spot and forward exchange market quotations together via the CIP condition. Speculation and [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) may be thought of as determining the level of the spot and forward exchange quotations.
 
 ### CONCLUSIONS
 
-The need for a [[Foreign Exchange Markets and Exchange Rate Determination|foreign exchange market]] arises because [[Chapter 2-The Principle Of Comparative Advantage|international trade]] in goods/services and financial assets almost always involves the exchange of differing national currencies.
+The need for a [foreign exchange market](.md) arises because [international trade](Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md) in goods/services and financial assets almost always involves the exchange of differing national currencies.
 
-Let's break down the example into smaller parts,  detailing each step of the trades made by the trader and the payoffs for each step. We will use the principles of [[Interest Rates, Carry Trades, and Exchange Rate Movements|Covered Interest Parity]] (CIP) to understand the relationship between spot rates,  forward rates,  and [[Interest Rate Quotations|interest rates]].
+Let's break down the example into smaller parts,  detailing each step of the trades made by the trader and the payoffs for each step. We will use the principles of [Covered Interest Parity](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Interest%20Rates,%20Carry%20Trades,%20and%20Exchange%20Rate%20Movements.md) (CIP) to understand the relationship between spot rates,  forward rates,  and [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md).
 
 ### STEP 1: INITIAL CONDITIONS
 - One-year dollar interest rate (USD): 2%
 - One-year sterling interest rate (GBP): 6%
-- [[Arbitrage Opportunity Accounting|Spot exchange rate]]:$1.35/£1
+- [Spot exchange rate](../Financial%20Instruments/Review%20Session%20Notes/Arbitrage%20Opportunity%20Accounting.md):$1.35/£1
 
 ### STEP 2: CALCULATION OF FORWARD EXCHANGE RATE USING CIP
 
-CIP states that the [[A Primer on Currency Derivatives|forward exchange rate]] should be set so that an investor is indifferent between investing in domestic [[Forwards and Futures Notes|currency]] and investing in foreign [[Forwards and Futures Notes|currency]] after covering [[PSET 3 Financial Instruments|exchange rate risk]] through a [[Forward Points in Currency|forward contract]]. The formula for the [[A Primer on Currency Derivatives|forward exchange rate]] (F) is:
+CIP states that the [forward exchange rate](../Financial%20Engineering/A%20Primer%20on%20Currency%20Derivatives.md) should be set so that an investor is indifferent between investing in domestic [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) and investing in foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) after covering [exchange rate risk](../Financial%20Instruments/Assignments/PSET%203%20Financial%20Instruments.md) through a [forward contract](../Clippings/Forward%20Points%20in%20Currency.md). The formula for the [forward exchange rate](../Financial%20Engineering/A%20Primer%20on%20Currency%20Derivatives.md) (F) is:
 $$F = S \times \left(\frac{1 + i_{\text{domestic}}}{1 + i_{\text{foreign}}} \right)$$
 
 where:
 
-- $S$is the [[Arbitrage Opportunity Accounting|spot exchange rate]]
+- $S$is the [spot exchange rate](../Financial%20Instruments/Review%20Session%20Notes/Arbitrage%20Opportunity%20Accounting.md)
 - $i_{\text{domestic}}$is the domestic interest rate
 - $i_{\text{foreign}}$is the foreign interest rate
 
@@ -246,92 +246,92 @@ $$F = 1.35 \times \left(\frac{1.02}{1.06} \right)$$
 $$F = 1.35 \times 0.9623$$
 $$F  = 1.2991$$
 
-Answer 1: The one-year [[A Primer on Currency Derivatives|forward exchange rate]] of the pound is$1.2991/£1.
+Answer 1: The one-year [forward exchange rate](../Financial%20Engineering/A%20Primer%20on%20Currency%20Derivatives.md) of the pound is$1.2991/£1.
 
 ### STEP 3: CALCULATION OF FORWARD DISCOUNT/PREMIUM
 
-The [[Forward Points in Currency|forward rate]] is less than the [[The Foreign Exchange Market Annotations|spot rate]],  which means the sterling is at a forward discount. The annual forward discount/premium can be calculated as:
+The [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) is less than the [spot rate](The%20Foreign%20Exchange%20Market%20Annotations.md),  which means the sterling is at a forward discount. The annual forward discount/premium can be calculated as:
 $$\text{Forward Discount/Premium} = \frac{F - S}{S} \times 100\%$$
 $$\text{Forward Discount/Premium} = \frac{1.2991 - 1.35}{1.35} \times 100\%$$
 $$\text{Forward Discount/Premium} = -3.77\%$$
 
-Answer 2: The one-year [[Forward Points in Currency|forward rate]] of sterling is at an annual forward discount of 3.77%.
+Answer 2: The one-year [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) of sterling is at an annual forward discount of 3.77%.
 
 ### STEP 4: ARBITRAGE OPPORTUNITY IF FORWARD RATE IS MISPRICED
 
-Let's assume the [[Forward Points in Currency|forward rate]] is incorrectly priced at$1.25/£1. A UK investor could exploit this by:
+Let's assume the [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) is incorrectly priced at$1.25/£1. A UK investor could exploit this by:
 
 1. Borrowing £100 at 6% interest.
-1. Converting £100 to USD at the [[The Foreign Exchange Market Annotations|spot rate]] of$1.35/£1,      receiving$135.
+1. Converting £100 to USD at the [spot rate](The%20Foreign%20Exchange%20Market%20Annotations.md) of$1.35/£1,      receiving$135.
 1. Investing$135 at the US interest rate of 2%,      resulting in$137.70 after one year.
-1. Entering into a [[Forward Points in Currency|forward contract]] to convert$137.70 back into GBP at the incorrect forward rate of$1.25/£1,  resulting in £110.16.
+1. Entering into a [forward contract](../Clippings/Forward%20Points%20in%20Currency.md) to convert$137.70 back into GBP at the incorrect forward rate of$1.25/£1,  resulting in £110.16.
 
-The investor would then repay the £100 borrowed plus 6% interest (£106),  leaving a [[Arbitrage|risk-free profit]] of £4.16 (£110.16 - £106).
+The investor would then repay the £100 borrowed plus 6% interest (£106),  leaving a [risk-free profit](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Arbitrage.md) of £4.16 (£110.16 - £106).
 
 ### STEP 5: MARKET CORRECTION
 
-Arbitrageurs would exploit this mispricing until the [[Forward Points in Currency|forward rate]] adjusts to the correct level where no [[Arbitrage|risk-free profit]] is possible. The correct [[Forward Points in Currency|forward rate]],  as calculated earlier,  is$1.2991/£1. At this rate,      the$137.70 converted back into GBP would exactly equal the £106 owed,  eliminating the [[Arbitrage Pricing of Derivatives|arbitrage]] opportunity.
+Arbitrageurs would exploit this mispricing until the [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) adjusts to the correct level where no [risk-free profit](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Arbitrage.md) is possible. The correct [forward rate](../Clippings/Forward%20Points%20in%20Currency.md),  as calculated earlier,  is$1.2991/£1. At this rate,      the$137.70 converted back into GBP would exactly equal the £106 owed,  eliminating the [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity.
 
 | Step | Trade | When | Payoff |
 |------|-------|------|--------|
 | 1 | Borrow £100 | Now | -£100 |
-| 2 | Convert to USD at [[The Foreign Exchange Market Annotations|spot rate]] | Now |$135 |
+| 2 | Convert to USD at [spot rate](The%20Foreign%20Exchange%20Market%20Annotations.md) | Now |$135 |
 | 3 | Invest USD at 2% interest | Now to 1 year |$137.70 |
-| 4 | Enter [[Forward Points in Currency|forward contract]] at$1.2991/£1 | Now | - |
-| 5 | Convert USD to GBP at [[Forward Points in Currency|forward rate]] | 1 year | £106 |
+| 4 | Enter [forward contract](../Clippings/Forward%20Points%20in%20Currency.md) at$1.2991/£1 | Now | - |
+| 5 | Convert USD to GBP at [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) | 1 year | £106 |
 | 6 | Repay borrowed GBP with interest | 1 year | -£106 |
-| 7 | Net Payoff | 1 year | £0 (No [[Arbitrage Pricing of Derivatives|arbitrage]] profit) |
+| 7 | Net Payoff | 1 year | £0 (No [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) profit) |
 
 ————————
 
-When the [[Forward Points in Currency|forward rate]] deviates from the rate implied by [[Interest Rates, Carry Trades, and Exchange Rate Movements|Covered Interest Parity]] (CIP),  there are two possible scenarios: the [[Forward Points in Currency|forward rate]] is either below (Scenario A) or above (Scenario B) the CIP-implied rate. We'll provide the generalized forms of the trades for each scenario.
+When the [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) deviates from the rate implied by [Covered Interest Parity](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Interest%20Rates,%20Carry%20Trades,%20and%20Exchange%20Rate%20Movements.md) (CIP),  there are two possible scenarios: the [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) is either below (Scenario A) or above (Scenario B) the CIP-implied rate. We'll provide the generalized forms of the trades for each scenario.
 
 ### SCENARIO A: FORWARD RATE BELOW CIP RATE
 
-In this scenario,  the [[Forward Points in Currency|forward rate]] (F) is less than the CIP-implied [[Forward Points in Currency|forward rate]] (F_CIP). This suggests that the foreign [[Forwards and Futures Notes|currency]] (GBP in our example) is at a forward discount,  and there is an opportunity for [[Arbitrage Pricing of Derivatives|arbitrage]] by borrowing in the foreign [[Forwards and Futures Notes|currency]],  converting to the domestic [[Forwards and Futures Notes|currency]],  investing at the domestic rate,  and selling the domestic [[Forwards and Futures Notes|currency]] forward.
+In this scenario,  the [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) (F) is less than the CIP-implied [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) (F_CIP). This suggests that the foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) (GBP in our example) is at a forward discount,  and there is an opportunity for [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) by borrowing in the foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md),  converting to the domestic [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md),  investing at the domestic rate,  and selling the domestic [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) forward.
 
 Generalized Trades:
 
 1. Borrow £X at the foreign interest rate (i_foreign).
-1. Convert £X to USD at the [[The Foreign Exchange Market Annotations|spot rate]] (S),  receiving$X \times S$.
+1. Convert £X to USD at the [spot rate](The%20Foreign%20Exchange%20Market%20Annotations.md) (S),  receiving$X \times S$.
 1. Invest$X \times S$at the domestic interest rate (i_domestic) for one year,  resulting in$X \times S \times (1 + i_domestic)$.
-1. Enter into a [[Forward Points in Currency|forward contract]] to convert the [[An Asset Allocation Primer|investment]] back into GBP at the [[Forward Points in Currency|forward rate]] (F),  resulting in$\frac{X \times S \times (1 + i_domestic)}{F}$.
+1. Enter into a [forward contract](../Clippings/Forward%20Points%20in%20Currency.md) to convert the [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) back into GBP at the [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) (F),  resulting in$\frac{X \times S \times (1 + i_domestic)}{F}$.
 
-If$\frac{X \times S \times (1 + i_domestic)}{F} > X \times (1 + i_foreign)$,  then there is an [[Arbitrage Pricing of Derivatives|arbitrage]] profit.
+If$\frac{X \times S \times (1 + i_domestic)}{F} > X \times (1 + i_foreign)$,  then there is an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) profit.
 
 Scenario A:
 
 | Step | Trade                                                        | When          | Payoff                                            |
 |------|--------------------------------------------------------------|---------------|---------------------------------------------------|
 | 1    | Borrow £X at i_foreign                                       | Now           | -£X                                               |
-| 2    | Convert to USD at [[The Foreign Exchange Market Annotations|spot rate]] S                                | Now           |$X \times S$|
+| 2    | Convert to USD at [spot rate](The%20Foreign%20Exchange%20Market%20Annotations.md) S                                | Now           |$X \times S$|
 | 3    | Invest USD at i_domestic                                     | Now to 1 year |$X \times S \times (1 + i_domestic)$|
-| 4    | Enter [[Forward Points in Currency|forward contract]] at F                                  | Now           | -                                                 |
-| 5    | Convert USD to GBP at [[Forward Points in Currency|forward rate]] F                         | 1 year        |$\frac{X \times S \times (1 + i_domestic)}{F}$|
+| 4    | Enter [forward contract](../Clippings/Forward%20Points%20in%20Currency.md) at F                                  | Now           | -                                                 |
+| 5    | Convert USD to GBP at [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) F                         | 1 year        |$\frac{X \times S \times (1 + i_domestic)}{F}$|
 | 6    | Repay borrowed GBP with interest                             | 1 year        | -$X \times (1 + i_{foreign})$|
 | 7    | Net Payoff                                                   | 1 year        |$\frac{X \times S \times (1 + i_{domestic)}}{F} - X \times (1 + i_{foreign})$|
 
 ### SCENARIO B: FORWARD RATE ABOVE CIP RATE
 
-In this scenario,  the [[Forward Points in Currency|forward rate]] (F) is greater than the CIP-implied [[Forward Points in Currency|forward rate]] (F_CIP). This suggests that the foreign [[Forwards and Futures Notes|currency]] (GBP in our example) is at a forward premium,  and there is an opportunity for [[Arbitrage Pricing of Derivatives|arbitrage]] by borrowing in the domestic [[Forwards and Futures Notes|currency]],  converting to the foreign [[Forwards and Futures Notes|currency]],  investing at the foreign rate,  and buying the domestic [[Forwards and Futures Notes|currency]] forward.
+In this scenario,  the [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) (F) is greater than the CIP-implied [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) (F_CIP). This suggests that the foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) (GBP in our example) is at a forward premium,  and there is an opportunity for [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) by borrowing in the domestic [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md),  converting to the foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md),  investing at the foreign rate,  and buying the domestic [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) forward.
 
 Generalized Trades:
 
 1. Borrow$X at the domestic interest rate (i_domestic).
 1. Convert$X to GBP at the spot rate (S),      receiving$\frac{X}{S}$.
 1. Invest$\frac{X}{S}$at the foreign interest rate (i_foreign) for one year,  resulting in$\frac{X}{S} \times (1 + i_{foreign})$.
-1. Enter into a [[Forward Points in Currency|forward contract]] to convert the [[An Asset Allocation Primer|investment]] back into USD at the [[Forward Points in Currency|forward rate]] (F),  resulting in$\frac{X}{S} \times (1 + i_{foreign}) \times F$.
+1. Enter into a [forward contract](../Clippings/Forward%20Points%20in%20Currency.md) to convert the [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) back into USD at the [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) (F),  resulting in$\frac{X}{S} \times (1 + i_{foreign}) \times F$.
 
-If$\frac{X}{S} \times (1 + i_{foreign}) \times F > X \times (1 + i_{domestic})$,  then there is an [[Arbitrage Pricing of Derivatives|arbitrage]] profit.
+If$\frac{X}{S} \times (1 + i_{foreign}) \times F > X \times (1 + i_{domestic})$,  then there is an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) profit.
 
 Scenario B:
 
 | Step | Trade                                | When          | Payoff                                                                        |
 | ---- | ------------------------------------ | ------------- | ----------------------------------------------------------------------------- |
 | 1    | Borrow$X at i_domestic               | Now           | -$X                                                                           |
-| 2    | Convert to GBP at [[The Foreign Exchange Market Annotations|spot rate]] S        | Now           | $\frac{X}{S}$                                                                 |
+| 2    | Convert to GBP at [spot rate](The%20Foreign%20Exchange%20Market%20Annotations.md) S        | Now           | $\frac{X}{S}$                                                                 |
 | 3    | Invest GBP at i_foreign              | Now to 1 year | $\frac{X}{S} \times (1 + i_{foreign})$                                        |
-| 4    | Enter [[Forward Points in Currency|forward contract]] at F          | Now           | -                                                                             |
-| 5    | Convert GBP to USD at [[Forward Points in Currency|forward rate]] F | 1 year        | $\frac{X}{S} \times (1 + i_{foreign}) \times F$                               |
+| 4    | Enter [forward contract](../Clippings/Forward%20Points%20in%20Currency.md) at F          | Now           | -                                                                             |
+| 5    | Convert GBP to USD at [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) F | 1 year        | $\frac{X}{S} \times (1 + i_{foreign}) \times F$                               |
 | 6    | Repay borrowed USD with interest     | 1 year        | -$X \times (1 + i_{domestic})$                                                |
 | 7    | Net Payoff                           | 1 year        | $\frac{X}{S} \times (1 + i_{foreign}) \times F - X \times (1 + i_{domestic})$ |

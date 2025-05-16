@@ -42,7 +42,7 @@ key_concepts:
 
 ## VALUING INTERNATIONAL INVESTMENTS
  - Basic principles are the same as for domestic projects
-	‒ DCF can be used to evaluate a (foreign) business plan, capital [[An Asset Allocation Primer|investment]], and acquisitions
+	‒ DCF can be used to evaluate a (foreign) business plan, capital [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), and acquisitions
  - The same factors affect value around the globe:
 	‒ Future cash flows
 	‒ Timing of the cash flows (and the time value of money)
@@ -62,7 +62,7 @@ key_concepts:
 # INTERNATIONAL (OR INSTITUTIONAL) RISKS
 ## INTERNATIONAL RISKS
  - International investments pose unique risks
-	‒ "Classic" international risks: [[Forwards and Futures Notes|Currency]] and macroeconomic shocks
+	‒ "Classic" international risks: [Currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) and macroeconomic shocks
  - But there are other issues to consider (recall Week 7)
 	‒ Outside investor and legal protection
 	‒ Corporate governance and expropriation by controlling insiders
@@ -87,7 +87,7 @@ key_concepts:
 
 ## TRANSPARENCY
  - Information risk
-	‒ How likely is it that you, as a foreigner, have all the relevant information to assess the value of the [[An Asset Allocation Primer|investment]]?
+	‒ How likely is it that you, as a foreigner, have all the relevant information to assess the value of the [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)?
 		 - Recall the Caterpillar/ERA example
 	‒ Transparency and reporting quality differs substantially across countries
  - Information risk is closely related to ownership structure and corporate governance (Leuz, Nanda & Wysocki, JFE 2003)
@@ -127,15 +127,15 @@ key_concepts:
 ###### KAROLYI: CRACKING THE EMERGING MARKETS ENGIMA
 
 ## HOW DO INSTITUTIONAL RISKS MATTER?
- - Matter for M&A deal or [[An Asset Allocation Primer|investment]] outcomes
-	‒ [[Assets|Returns]] in EM markets are in part compensation for higher risks
- - Investors' [[An Asset Allocation Primer|portfolio]] holdings reflect risk factors ("vote with their feet")
+ - Matter for M&A deal or [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) outcomes
+	‒ [Returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) in EM markets are in part compensation for higher risks
+ - Investors' [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) holdings reflect risk factors ("vote with their feet")
  - Institutional factors and risks are "priced" in equity markets
-	‒ Market [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]]
+	‒ Market [liquidity](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md)
 	‒ Valuations
  - While country risk has become less important over time, it is still a large factor
 	‒ Institutional factors matter more in crises, especially for EMs
-	‒ Explain differences in crisis [[Assets|returns]] across countries (e.g., Asian crisis)
+	‒ Explain differences in crisis [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) across countries (e.g., Asian crisis)
  - Cost of capital
 	‒ Hurdle rates for international investments differ
  - Bottom line: You need to consider institutional factors and risks!
@@ -145,12 +145,12 @@ key_concepts:
  ![500](59a5cdde570496e52356d71b4964966a.png)
 
 - $r_AVG$ = Average implied cost of equity for firms in this country from 1992 to 2001 based on local prices and local analyst forecasts
-- Note that these rates are the total cost of equity, not spreads over [[War Economies and Hyperinflation|inflation]] or risk‐free rates. We will come back to this below.
+- Note that these rates are the total cost of equity, not spreads over [inflation](../../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) or risk‐free rates. We will come back to this below.
 
 ## WHAT EXPLAINS THESE DIFFERENCES IN COST OF CAPITAL?
  - Differences in business risks (e.g., industry)
 	‒ Typically captured in beta
- - Differences in [[War Economies and Hyperinflation|inflation]] or risk‐free rate (country level)
+ - Differences in [inflation](../../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) or risk‐free rate (country level)
  - Differences in:
 	‒ Securities and transparency regulation
 	‒ Rule of law and legal enforcement
@@ -162,7 +162,7 @@ key_concepts:
 
 ## ARE INSTITUTIONAL RISKS DIVERSIFIABLE?
  - Some risks should be diversifiable
-	- An investor can hold a [[An Asset Allocation Primer|portfolio]] of similar companies from different countries
+	- An investor can hold a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of similar companies from different countries
 	- Hail and Leuz (2006) show that the effects of institutional differences on the cost of capital decline as countries and markets become more integrated
  - But even if some risks are diversifiable, they are not irrelevant
 	- Need to adjust expected cash flows for the possibility of adverse future events
@@ -178,22 +178,22 @@ key_concepts:
 ## GLOBAL VALUATION: STEP 1
   -  ![500](2d9fff44d5fda823ad820f09bd9fd4ad.png)
   - HYPER‐INFLATIONARY ECONOMY
-	‒ In hyper [[War Economies and Hyperinflation|inflation]] countries, nominal forecasts are dominated by [[War Economies and Hyperinflation|inflation]] rate
-	‒ Forecast real cash flows (exclude or back out [[War Economies and Hyperinflation|inflation]])
+	‒ In hyper [inflation](../../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) countries, nominal forecasts are dominated by [inflation](../../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) rate
+	‒ Forecast real cash flows (exclude or back out [inflation](../../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md))
 	‒ Discount cash flows with a real interest rate 
-  - LOW TO MODERATE [[War Economies and Hyperinflation|INFLATION]] ECONOMY
-	‒ Forecast nominal cash flows (include [[War Economies and Hyperinflation|inflation]])
+  - LOW TO MODERATE [INFLATION](../../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) ECONOMY
+	‒ Forecast nominal cash flows (include [inflation](../../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md))
 	‒ Discount cash flows with a nominal interest rate
 
 ## GLOBAL VALUATION: STEP 2
 
  ![500](4195383486cc0868def1cea6700ffc0a.png)
 
- - Financial data are typically collected in local [[Forwards and Futures Notes|currency]]
-	‒ Local [[Forwards and Futures Notes|currency]] data more relevant to local management
- - Forecasts are often easier to do in local [[Forwards and Futures Notes|currency]]
-	‒ Many information sources are in local [[Forwards and Futures Notes|currency]]
- - Even if you forecast and discount in local [[Forwards and Futures Notes|currency]], you can still convert NPV into home [[Forwards and Futures Notes|currency]] at spot exchange rate (after Step 5)
+ - Financial data are typically collected in local [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)
+	‒ Local [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) data more relevant to local management
+ - Forecasts are often easier to do in local [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)
+	‒ Many information sources are in local [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)
+ - Even if you forecast and discount in local [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md), you can still convert NPV into home [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) at spot exchange rate (after Step 5)
 
 ## WHICH CASH FLOWS SHOULD YOU USE?
  - Basic principle:
@@ -250,33 +250,33 @@ Steps:
 	‒ Deals are structured to mitigate risks
 
 ## REASONS TO ADJUST CASH FLOWS (CONT.)
- - Typical country risks to [[An Asset Allocation Primer|portfolio]] investors (which are reflected in equity market [[Assets|returns]] or sovereign spreads) may not apply to M&A or FDI
-	‒ Proposed [[An Asset Allocation Primer|investment]] may have features that are different from typical [[Hedge Fund Strategies|stock market]] [[An Asset Allocation Primer|investment]] in the country
+ - Typical country risks to [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) investors (which are reflected in equity market [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) or sovereign spreads) may not apply to M&A or FDI
+	‒ Proposed [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) may have features that are different from typical [stock market](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in the country
 		- You have control
 		- Foreign multinationals are often not expropriated because they would be a "prominent victim"
 		- In many settings (e.g., crises), foreign multinationals fare differently than local companies
  - Thus, it makes sense to think specifically about "bad" outcomes rather than simple discount rate adjustments
-	‒ Cash flow adjustments allows you to capture the specifics of your [[An Asset Allocation Primer|investment]]
+	‒ Cash flow adjustments allows you to capture the specifics of your [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)
  - Alternative: Make more tailored adjustments to the cost of capital 
 
 ## GLOBAL VALUATION: STEP 4 (OPTIONAL)
 
  ![500](7b7f1a7604abb30cd9ecde5bf15d1dc2.png)
 
- - Future cash flows can be translated into home [[Forwards and Futures Notes|currency]] using forward rates:
+ - Future cash flows can be translated into home [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) using forward rates:
 	‒ Obtain these forward rates from banks or FX traders, but they
-		- Contain [[Forwards and Futures Notes|currency]] risk premia (be careful about double counting)
+		- Contain [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) risk premia (be careful about double counting)
 		- Are typically not available for more than 18 months or a few years into future
 	‒ Compute implied or synthetic forward rates using covered interest rate parity:
 		- Use spot exchange rate and interest rates in two countries to convert
- - Alternatively, we can discount with a local [[Forwards and Futures Notes|currency]] cost of capital in Step 5
+ - Alternatively, we can discount with a local [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) cost of capital in Step 5
 
 ## GLOBAL VALUATION: STEP 5
 
  ![500](92a5dfd084685720b798b76a7b432a0c.png)
 
  - Be consistent:
-	‒ Ifyou have converted cash flows into dollars in Step 4, then you need to use dollar discount rate (with dollar [[War Economies and Hyperinflation|inflation]] expectation) in Step 5
+	‒ Ifyou have converted cash flows into dollars in Step 4, then you need to use dollar discount rate (with dollar [inflation](../../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) expectation) in Step 5
  - Avoid double counting:
 	‒ The idea is to account for systematic risks from the perspective of homecountry parent shareholders
 	‒ You needto keep track of the risks you have handled in the cash flows; only the remainder should be in the discount rate
@@ -292,7 +292,7 @@ Steps:
 	‒ What risk premium and cost of capital would you use?
 	‒ Two scenarios:
 		- Expropriation
-		- [[Forwards and Futures Notes|Currency]] crisis
+		- [Currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) crisis
 
 # INTERNATIONAL COST OF CAPITAL (WACC)
 
@@ -315,15 +315,15 @@ $$
 $$
  - Use target capital structure (based on market values)
  - Cost of debt
-	‒ If the foreign [[An Asset Allocation Primer|investment]] does not substantially change the parent's default risk and cost of debt, then simply use the cost of debt of parent company
+	‒ If the foreign [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) does not substantially change the parent's default risk and cost of debt, then simply use the cost of debt of parent company
 	‒ Otherwise, you need to adjust cost of debt to new default risk
- - Be careful about the [[Forwards and Futures Notes|currency]]:
-	‒ If you have converted cash flows into home (or domestic) [[Forwards and Futures Notes|currency]], then using parent cost of debt in home [[Forwards and Futures Notes|currency]] is fine
-	‒ Otherwise, you need to use foreign (or local) [[Forwards and Futures Notes|currency]] cost of debt to account for [[War Economies and Hyperinflation|inflation]]
+ - Be careful about the [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md):
+	‒ If you have converted cash flows into home (or domestic) [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md), then using parent cost of debt in home [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) is fine
+	‒ Otherwise, you need to use foreign (or local) [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) cost of debt to account for [inflation](../../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)
 		- Conversion with interest rate parity relation (next slide)
 
 ## CONVERTING $ COST OF CAPITAL TO LOCAL COST OF CAPITAL
- - Assuming the "covered interest rate parity" relation holds, you can compute a foreign [[Forwards and Futures Notes|currency]] cost of capital as follows:$$r_{F o r e i g n}=(1+r_{U S\S})\times\frac{(1+\text{risk-free rate}_{F o r e i g n})}{(1+\text{risk-free rate}_{U S\S})}-1$$
+ - Assuming the "covered interest rate parity" relation holds, you can compute a foreign [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) cost of capital as follows:$$r_{F o r e i g n}=(1+r_{U S\S})\times\frac{(1+\text{risk-free rate}_{F o r e i g n})}{(1+\text{risk-free rate}_{U S\S})}-1$$
  - Or, alternatively:$$r_{F o r e i g n}=(1+r_{U S S})\times\frac{(1+\exp.\,\mathrm{inflation}_{F o r e i g n})}{(1+\exp.\,\mathrm{inflation}_{U S S})}-1$$
 
 ## COST OF EQUITY CAPITAL USING THE CAPM: $R_{F}$$$
@@ -332,12 +332,12 @@ $$
 
 $$
  - What do we use as the risk‐free rate?
-	‒ Ideally, you would use a risk‐free rate that matches the "[[Key Rates O1s Durations and Hedging|duration]]" of the cash  flows from the firm that you are valuing
+	‒ Ideally, you would use a risk‐free rate that matches the "[duration](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)" of the cash  flows from the firm that you are valuing
 	‒ Common to use 10‐year (or longer) U.S. treasuries as proxy 
  - Long‐term government bonds are not risk free in all countries
-	‒ Could use U.S. treasuries, but they reflect [[War Economies and Hyperinflation|inflation]] [[FORWARD RATES AND TERM STRUCTURE|expectations]] for U.S.
-		- Need to adjust for differences in [[War Economies and Hyperinflation|inflation]] rates across currencies
-	‒ Again, remember to use same [[Forwards and Futures Notes|currency]] for cash flows and cost of capital
+	‒ Could use U.S. treasuries, but they reflect [inflation](../../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) [expectations](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) for U.S.
+		- Need to adjust for differences in [inflation](../../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) rates across currencies
+	‒ Again, remember to use same [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) for cash flows and cost of capital
 
 ## COST OF EQUITY CAPITAL USING THE CAPM: EQUITY PREMIUM$$
 
@@ -348,7 +348,7 @@ $$
  - U.S. equity premium from 1903 to 2002:
 	‒ Arithmetic average = 6.2%
 	‒ Arithmetic average is the best estimator but it compounds measurement error
-when [[Assets|returns]] are serially correlated
+when [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are serially correlated
 	‒ Adjusting for serial correlation, the arithmetic average is about 5.5%
  - Risk premia need to be computed over long horizons
 	‒ Distant past may not be representative of the future
@@ -377,14 +377,14 @@ $$
  - What is conceptually the "right" perspective for foreign investments?
 	‒ Parent company shareholders, parent firm, foreign shareholders?
  - Basic principle:
-	‒ Contribution of foreign [[An Asset Allocation Primer|investment]] to systematic risk borne by parent company (home country) shareholders
+	‒ Contribution of foreign [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) to systematic risk borne by parent company (home country) shareholders
 	‒ The principle is the same for domestic and foreign projects as well as projects in different industries
 
 ## COST OF EQUITY CAPITAL USING THE CAPM: BETA
- - Thus, beta of foreign [[An Asset Allocation Primer|investment]] has to be evaluated from perspective of parent company shareholders (or home country investors)
+ - Thus, beta of foreign [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) has to be evaluated from perspective of parent company shareholders (or home country investors)
  - Assume parent company shareholders are mostly from home country:
-	‒ Mexican manager who considers building a plant in the U.S. computes beta of the [[An Asset Allocation Primer|investment]] relative to the Mexican index
-	‒ U.S. manager who considers building a plant in Mexico computes the beta of the [[An Asset Allocation Primer|investment]] relative to the U.S. index
+	‒ Mexican manager who considers building a plant in the U.S. computes beta of the [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) relative to the Mexican index
+	‒ U.S. manager who considers building a plant in Mexico computes the beta of the [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) relative to the U.S. index
  - This assumption is not unreasonable:
 	‒ Many equity markets are not fully integrated
 	‒ Shareholders exhibit significant home bias
@@ -396,7 +396,7 @@ $$
  - Economic profit model can be used for reverse engineering to obtain an estimate for the (implied) cost of capital
 	‒ Could be used for other parameters as well (e.g., implied growth rate)
  - You have to assume that the market prices a firm on average correctly
-	‒ Then, we can use analysts' (consensus) forecasts about future earnings and growth as a proxy for the market's [[FORWARD RATES AND TERM STRUCTURE|expectations]]
+	‒ Then, we can use analysts' (consensus) forecasts about future earnings and growth as a proxy for the market's [expectations](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md)
 	‒ Back out an estimate of cost of equity capital "implied" by the market price
  - Spreadsheet on Canvasimplements four models used in the Hail and Leuz (2006) to estimate firm‐level cost of capital
 
@@ -406,7 +406,7 @@ $$
 		- Political and country risks should be reflected in country (sovereign) credit risk ratings, but some may be diversifiable
 	‒ Model for Cost of Equity: $$R_{country} = \alpha+ \beta \times ln(\text{Country Credit Risk Rating})$$
  - Ad‐hoc approach but works well in practice
-	‒ Good fit with [[Assets|returns]] and sovereign bond ratings
+	‒ Good fit with [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) and sovereign bond ratings
  - Implied cost of capital has solid theoretical basis
 	‒ Estimates of Hail/Leuz (2006) and EHV approach are highly correlated: $\approx$ 0.64
 	‒ Both models "agree" on relative risks
@@ -425,9 +425,9 @@ KEY INPUT: INSTITUTIONAL INVESTOR COUNTRY CREDIT RISK RATINGS
 	‒ Cost of equity capital = 12*(0.051537 ‐ 0.01036*Ln(IICCR))
 	‒ Ln(IICCR) is natural logarithm of country credit risk rating
  - Taking the log is important as the relation is likely to be nonlinear
-	‒ As credit ratings get low, expected [[Assets|returns]] may go up faster
+	‒ As credit ratings get low, expected [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) may go up faster
  - Model provides a dollar‐denominated cost of capital estimate
-	‒ Again, this rate can be converted to local [[Forwards and Futures Notes|currency]] cost of capital  
+	‒ Again, this rate can be converted to local [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) cost of capital  
 
  - Example:
 	‒ Assume U.S. investor or multinational investing in Peru
@@ -438,7 +438,7 @@ KEY INPUT: INSTITUTIONAL INVESTOR COUNTRY CREDIT RISK RATINGS
 
 ## ADJUSTING THE RISK PREMIUM: BASIC IDEA
 
- - Use different sources and your knowledge about the [[An Asset Allocation Primer|investment]] to assign weights for the risks that go into the average premium
+ - Use different sources and your knowledge about the [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) to assign weights for the risks that go into the average premium
 	‒ Then assess to what extent your specific project is exposed to these particular risks and adjust according to the weights
 	‒ These adjustments and approaches are "fuzzy" but as Keynes said:
 		- "It is better to be roughly right than precisely wrong"

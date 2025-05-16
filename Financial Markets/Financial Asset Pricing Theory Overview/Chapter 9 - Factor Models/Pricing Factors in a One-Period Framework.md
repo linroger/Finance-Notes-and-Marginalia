@@ -18,11 +18,11 @@ key_concepts:
 
 # 9.3 Pricing factors in a one-period framework  
 
-In Section 4.6.2 we defined a one-dimensional [[Pricing Factors in a One-Period Framework|pricing factor]] in a [[Properties of State-Price Deflators|one-period framework]] and dis-. cussed the relation between [[Arbitrage Pricing of Derivatives|pricing]] factors and state-price deflators. Below we generalize this to the case of multi-dimensional factors and give a more rigorous treatment..  
+In Section 4.6.2 we defined a one-dimensional [pricing factor](.md) in a [one-period framework](../Chapter%204%20-%20State%20Prices/Properties%20of%20State-Price%20Deflators.md) and dis-. cussed the relation between [pricing](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) factors and state-price deflators. Below we generalize this to the case of multi-dimensional factors and give a more rigorous treatment..  
 
 # 9.3.1 Definition and basic properties  
 
-We will say that a $K$ -dimensional random variable $\pmb{x}=(x_{1},\dots,x_{K})^{\top}$ is a [[Pricing Factors in a One-Period Framework|pricing factor]] for the market if there exists some $\alpha\in\mathbb R$ and some $\eta\in\mathbb{R}^{K}$ so that  
+We will say that a $K$ -dimensional random variable $\pmb{x}=(x_{1},\dots,x_{K})^{\top}$ is a [pricing factor](.md) for the market if there exists some $\alpha\in\mathbb R$ and some $\eta\in\mathbb{R}^{K}$ so that  
 $$
 \begin{array}{r}{\operatorname{E}[R_{i}]=\alpha+\beta[R_{i},\pmb{x}]^{\top}\pmb{\eta},\quad i=1,\ldots,I,}\end{array}
 $$  
@@ -32,14 +32,14 @@ $$
 \beta[R_{i},{\pmb x}]=\left(\mathrm{Var}[{\pmb x}]\right)^{-1}\mathrm{Cov}[{\pmb x},R_{i}].
 $$  
 
-Here $\mathrm{Var}[{\boldsymbol{x}}]$ is the $K\times K$ variance-covariance matrix of $_{\mathbf{\nabla}}\mathbf{\phi}_{\mathbf{\phi}}$ and $\mathrm{Cov}[\pmb{x},\pmb{R}_{i}]$ is the $K$ -vector with elements $\mathrm{Cov}[x_{k},R_{i}]$ . Saying that $_{\mathbf{\nabla}}\mathbf{\phi}_{\mathbf{\phi}}$ is a [[Pricing Factors in a One-Period Framework|pricing factor]] we implicitly require that $\mathrm{Var}[{\pmb x}]$ is nonsingular. The vector. $\pmb{\eta}$ is called a factor risk premium and $\alpha$ is called the [[Pricing Factors in a One-Period Framework|zero-beta return]]..  
+Here $\mathrm{Var}[{\boldsymbol{x}}]$ is the $K\times K$ variance-covariance matrix of $_{\mathbf{\nabla}}\mathbf{\phi}_{\mathbf{\phi}}$ and $\mathrm{Cov}[\pmb{x},\pmb{R}_{i}]$ is the $K$ -vector with elements $\mathrm{Cov}[x_{k},R_{i}]$ . Saying that $_{\mathbf{\nabla}}\mathbf{\phi}_{\mathbf{\phi}}$ is a [pricing factor](.md) we implicitly require that $\mathrm{Var}[{\pmb x}]$ is nonsingular. The vector. $\pmb{\eta}$ is called a factor risk premium and $\alpha$ is called the [zero-beta return](.md)..  
 
 We can write (9.4) more compactly as  
 $$
 \operatorname{E}[R]=\alpha\mathbf{1}+\underline{{\underline{{\beta}}}}[R,x]\eta,
 $$  
 
-where $\pmb{R}=\left(R_{1},\ldots,R_{I}\right)^{\top}$ is the return vector, $\mathbf{1}=\left(1,\ldots,1\right)^{\top}$ , and $\underline{{\underline{{\beta}}}}[R,x]$ is the $I\times K$ matrix with $\beta[R_{i},\pmb{x}]$ as the $i$ 'th row. Due to the linearity of [[FORWARD RATES AND TERM STRUCTURE|expectations]] and covariance, (9.4) will also hold for all portfolios of the. $I$ assets. Note that if a [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] is traded in the market, it will. have a zero factor-beta and, consequently,. $\alpha=R^{f}$  
+where $\pmb{R}=\left(R_{1},\ldots,R_{I}\right)^{\top}$ is the return vector, $\mathbf{1}=\left(1,\ldots,1\right)^{\top}$ , and $\underline{{\underline{{\beta}}}}[R,x]$ is the $I\times K$ matrix with $\beta[R_{i},\pmb{x}]$ as the $i$ 'th row. Due to the linearity of [expectations](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) and covariance, (9.4) will also hold for all portfolios of the. $I$ assets. Note that if a [risk-free asset](../../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) is traded in the market, it will. have a zero factor-beta and, consequently,. $\alpha=R^{f}$  
 
 The equation (9.4) involves the gross return $R_{i}$ on asset $i$ .What about the rate of return $r_{i}=R_{i}-1;$ Clearly, $\operatorname{E}[R_{i}]=1+\operatorname{E}[r_{i}]$ , and the properties of covariance give  
 $$
@@ -51,7 +51,7 @@ $$
 \operatorname{E}[r_{i}]=(\alpha-1)+\beta[r_{i},\pmb{x}]^{\top}\eta.
 $$  
 
-If a [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] exists,. $\alpha-1=R^{f}-1=r^{f}$ , the risk-free [[Assets|net rate of return]].  
+If a [risk-free asset](../../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) exists,. $\alpha-1=R^{f}-1=r^{f}$ , the risk-free [net rate of return](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md).  
 
 The relation (9.4) does not directly involve prices. But since the expected gross return is $\operatorname{E}[R_{i}]=$ $\operatorname{E}[D_{i}]/P_{i}$ , we have $P_{i}=\mathrm{E}[D_{i}]/\mathrm{E}[R_{i}]$ and hence the equivalent relation  
 $$
@@ -73,10 +73,10 @@ $$
 P_{i}=\frac{\operatorname{E}[D_{i}]-\beta[D_{i},\pmb{x}]^{\top}\pmb{\eta}}{\alpha}.
 $$  
 
-Think of the numerator as a [[Risk Aversion|certainty equivalent]] of the risky dividend. The current price is the.   
-[[Risk Aversion|certainty equivalent]] discounted by the [[Pricing Factors in a One-Period Framework|zero-beta return]], which is the [[A Preview of Alternative Formulations|risk-free return]] if this exists. The following result shows that [[Arbitrage Pricing of Derivatives|pricing]] factors are not unique.  
+Think of the numerator as a [certainty equivalent](../Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md) of the risky dividend. The current price is the.   
+[certainty equivalent](../Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Risk%20Aversion.md) discounted by the [zero-beta return](.md), which is the [risk-free return](../Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) if this exists. The following result shows that [pricing](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) factors are not unique.  
 
-Theorem 9.1 If the $K$ -dimensional random variable $_{x c}$ is a [[Pricing Factors in a One-Period Framework|pricing factor]], then any $\hat{\pmb x}$ of the form ${\hat{\pmb x}}={\pmb a}+\underline{{\underline{{A}}}}{\pmb x}$ where $\pmb{a}\in\mathbb{R}^{K}$ and $\underline{{\underline{{A}}}}$ is a non-singular $K\times K$ matrix is also a [[Pricing Factors in a One-Period Framework|pricing factor]].  
+Theorem 9.1 If the $K$ -dimensional random variable $_{x c}$ is a [pricing factor](.md), then any $\hat{\pmb x}$ of the form ${\hat{\pmb x}}={\pmb a}+\underline{{\underline{{A}}}}{\pmb x}$ where $\pmb{a}\in\mathbb{R}^{K}$ and $\underline{{\underline{{A}}}}$ is a non-singular $K\times K$ matrix is also a [pricing factor](.md).  
 
 Proof: According to (A.1), (A.2), and (1.2), we have  
 $$
@@ -98,24 +98,24 @@ $$
 \begin{array}{r}{\mathrm{E}[R_{i}]=\alpha+\beta[R_{i},\hat{\pmb x}]^{\top}\hat{\pmb\eta},\quad i=1,\dots,I,}\end{array}
 $$  
 
-which confirms that $\hat{\pmb x}$ is a [[Pricing Factors in a One-Period Framework|pricing factor]].  
+which confirms that $\hat{\pmb x}$ is a [pricing factor](.md).  
 
 Let us look at some important consequences of this theorem.  
 
-In general the $k$ 'th element of the factor beta $\beta[R_{i},\pmb{x}]$ is not equal to $\mathrm{Cov}[x_{k},R_{i}]/\mathrm{Var}[x_{k}]$ This will be the case, however, if the elements in the [[Pricing Factors in a One-Period Framework|pricing factor]] are mutually uncorrelated, i.e. $\mathrm{Cov}[x_{j},x_{k}]=0$ for $j\neq k$ . In fact, we can orthogonalize the [[Pricing Factors in a One-Period Framework|pricing factor]] so that this will be satisfied. Given any [[Pricing Factors in a One-Period Framework|pricing factor]] $_{x}$ , we can find a non-singular $K\times K$ matrix $\underline{{\underline{{V}}}}$ so that $\underline{{\underline{{V}}}}\underline{{\underline{{V}}}}^{\top}=\operatorname{Var}[{\pmb x}]$ . Defining ${\hat{x}}=\underline{{\underline{{V}}}}^{-1}x$ , we know from above that $\hat{\pmb x}$ is also a [[Pricing Factors in a One-Period Framework|pricing factor]] and the variance-covariance matrix is  
+In general the $k$ 'th element of the factor beta $\beta[R_{i},\pmb{x}]$ is not equal to $\mathrm{Cov}[x_{k},R_{i}]/\mathrm{Var}[x_{k}]$ This will be the case, however, if the elements in the [pricing factor](.md) are mutually uncorrelated, i.e. $\mathrm{Cov}[x_{j},x_{k}]=0$ for $j\neq k$ . In fact, we can orthogonalize the [pricing factor](.md) so that this will be satisfied. Given any [pricing factor](.md) $_{x}$ , we can find a non-singular $K\times K$ matrix $\underline{{\underline{{V}}}}$ so that $\underline{{\underline{{V}}}}\underline{{\underline{{V}}}}^{\top}=\operatorname{Var}[{\pmb x}]$ . Defining ${\hat{x}}=\underline{{\underline{{V}}}}^{-1}x$ , we know from above that $\hat{\pmb x}$ is also a [pricing factor](.md) and the variance-covariance matrix is  
 $$
 \operatorname{Var}[{\hat{\pmb x}}]={\underline{{\underline{{V}}}}}^{-1}\operatorname{Var}[{\pmb x}]\left({\underline{{\underline{{V}}}}}^{-1}\right)^{\top}={\underline{{\underline{{V}}}}}^{-1}{\underline{{\underline{{V}}}}}{\underline{{\underline{{V}}}}}^{\top}\left({\underline{{V}}}^{\top}\right)^{-1}={\underline{{\underline{{I}}}}},
 $$  
 
-i.e. the $K\times K$ [[Prerequisites|identity matrix]]. It is therefore no restriction to look only for uncorrelated [[Arbitrage Pricing of Derivatives|pricing]] factors.  
+i.e. the $K\times K$ [identity matrix](../Chapter%201%20-%20Introduction%20and%20Overview/Prerequisites.md). It is therefore no restriction to look only for uncorrelated [pricing](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) factors.  
 
-We can also obtain a [[Pricing Factors in a One-Period Framework|pricing factor]] with mean zero. If. $_{\mathbf{\nabla}}\mathbf{\phi}_{\mathbf{\phi}}$ is any [[Pricing Factors in a One-Period Framework|pricing factor]], just define. ${\hat{\pmb x}}={\pmb x}-\mathrm{E}[{\pmb x}]$ .Clearly, $\hat{\pmb x}$ has mean zero and, due to the previous theorem, it is also a [[Arbitrage Pricing of Derivatives|pricing]]. factor. It is therefore no restriction to look only for zero-mean [[Arbitrage Pricing of Derivatives|pricing]] factors.  
+We can also obtain a [pricing factor](.md) with mean zero. If. $_{\mathbf{\nabla}}\mathbf{\phi}_{\mathbf{\phi}}$ is any [pricing factor](.md), just define. ${\hat{\pmb x}}={\pmb x}-\mathrm{E}[{\pmb x}]$ .Clearly, $\hat{\pmb x}$ has mean zero and, due to the previous theorem, it is also a [pricing](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). factor. It is therefore no restriction to look only for zero-mean [pricing](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) factors.  
 
-Finally, note that we can replace the constant vector $\pmb{a}$ in the above theorem with a $K$ dimensional random variable $\varepsilon$ with the property that $\mathrm{Cov}[R_{i},\varepsilon]=\mathbf{0}$ for all $i$ . In particular we have that if $_{x c}$ is a [[Pricing Factors in a One-Period Framework|pricing factor]] and $\varepsilon$ is such a random variable, then $x+\varepsilon$ is also a [[Pricing Factors in a One-Period Framework|pricing factor]].  
+Finally, note that we can replace the constant vector $\pmb{a}$ in the above theorem with a $K$ dimensional random variable $\varepsilon$ with the property that $\mathrm{Cov}[R_{i},\varepsilon]=\mathbf{0}$ for all $i$ . In particular we have that if $_{x c}$ is a [pricing factor](.md) and $\varepsilon$ is such a random variable, then $x+\varepsilon$ is also a [pricing factor](.md).  
 
 # 9.3.2 Returns as pricing factors  
 
-Suppose now that the [[Pricing Factors in a One-Period Framework|pricing factor]] is a vector of [[Assets|returns]] on portfolios of the $I$ assets. Then (9.4) holds with each. $x_{k}$ replacing $R_{i}$ . We have $\operatorname{Cov}[{\pmb x},{\pmb x}]=\operatorname{Var}[{\pmb x}]$ and hence ${\underline{{\underline{{\beta}}}}}[{\pmb x},{\pmb x}]=\underline{{\underline{{I}}}}$ , the $K\times K$ [[Prerequisites|identity matrix]]. Consequently,  
+Suppose now that the [pricing factor](.md) is a vector of [returns](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) on portfolios of the $I$ assets. Then (9.4) holds with each. $x_{k}$ replacing $R_{i}$ . We have $\operatorname{Cov}[{\pmb x},{\pmb x}]=\operatorname{Var}[{\pmb x}]$ and hence ${\underline{{\underline{{\beta}}}}}[{\pmb x},{\pmb x}]=\underline{{\underline{{I}}}}$ , the $K\times K$ [identity matrix](../Chapter%201%20-%20Introduction%20and%20Overview/Prerequisites.md). Consequently,  
 $$
 \begin{array}{r}{\operatorname{E}[{\boldsymbol{x}}]=\alpha\mathbf{1}+\eta\quad\Rightarrow\quad\eta=\operatorname{E}[{\boldsymbol{x}}]-\alpha\mathbf{1},}\end{array}
 $$  
@@ -125,14 +125,14 @@ $$
 \operatorname{E}[R_{i}]=\alpha+\beta[R_{i},\pmb{x}]^{\top}\left(\operatorname{E}[\pmb{x}]-\alpha\mathbf{1}\right),\quad i=1,\ldots,I.
 $$  
 
-It is now clear that the [[The Classical One-Period Capm|classical CAPM]] has the return on the market [[An Asset Allocation Primer|portfolio]] as the single [[Pricing Factors in a One-Period Framework|pricing factor]]. More generally, we will demonstrate in Section 9.4.3 that a return works as a single [[Pricing Factors in a One-Period Framework|pricing factor]] if and only if it is the return on a [[Exercises|mean-variance]] efficient [[An Asset Allocation Primer|portfolio]] (different from the minimum-variance [[An Asset Allocation Primer|portfolio]]).  
+It is now clear that the [classical CAPM](The%20Classical%20One-Period%20Capm.md) has the return on the market [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) as the single [pricing factor](.md). More generally, we will demonstrate in Section 9.4.3 that a return works as a single [pricing factor](.md) if and only if it is the return on a [mean-variance](Exercises.md) efficient [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) (different from the minimum-variance [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)).  
 
-For the case of a one-dimensional [[Pricing Factors in a One-Period Framework|pricing factor]]. $x$ , Section 4.6.2 explained that the return. $R^{x}$ on the factor-mimicking [[An Asset Allocation Primer|portfolio]] also works as a [[Pricing Factors in a One-Period Framework|pricing factor]]. We can generalize this to a multi-dimensional [[Pricing Factors in a One-Period Framework|pricing factor]] in the following way. Given a [[Pricing Factors in a One-Period Framework|pricing factor]] $\pmb{x}=\left(x_{1},\dots,x_{K}\right)^{\top}$ orthogonalize to obtain. $\hat{\pmb x}=(\hat{x}_{1},\dots,\hat{x}_{K})^{\top}$ . For each $\hat{x}_{k}$ construct a factor-mimicking [[An Asset Allocation Primer|portfolio]] with corresponding return $R^{\ddot{x}_{k}}$ . Then the return vector $\pmb{R}^{\hat{x}}=\left(R^{\hat{x}_{1}},\ldots,R^{\hat{x}_{K}}\right)^{\top}$ will work as a [[Pricing Factors in a One-Period Framework|pricing factor]] and we have an equation like.  
+For the case of a one-dimensional [pricing factor](.md). $x$ , Section 4.6.2 explained that the return. $R^{x}$ on the factor-mimicking [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) also works as a [pricing factor](.md). We can generalize this to a multi-dimensional [pricing factor](.md) in the following way. Given a [pricing factor](.md) $\pmb{x}=\left(x_{1},\dots,x_{K}\right)^{\top}$ orthogonalize to obtain. $\hat{\pmb x}=(\hat{x}_{1},\dots,\hat{x}_{K})^{\top}$ . For each $\hat{x}_{k}$ construct a factor-mimicking [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) with corresponding return $R^{\ddot{x}_{k}}$ . Then the return vector $\pmb{R}^{\hat{x}}=\left(R^{\hat{x}_{1}},\ldots,R^{\hat{x}_{K}}\right)^{\top}$ will work as a [pricing factor](.md) and we have an equation like.  
 $$
 \mathrm{E}[R_{i}]=\alpha+\beta[R_{i},R^{\hat{x}}]\cdot\left(\mathrm{E}[R^{\hat{x}}]-\alpha\mathbf{1}\right),\quad i=1,\ldots,I.
 $$  
 
-It is therefore no restriction to assume that [[Arbitrage Pricing of Derivatives|pricing]] factors are [[Assets|returns]].  
+It is therefore no restriction to assume that [pricing](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) factors are [returns](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md).  
 
 # 9.3.3 From a state-price deflator to a pricing factor  
 
@@ -146,11 +146,11 @@ $$
 \mathrm{E}[R_{i}]=\frac{1}{\mathrm{E}[\zeta]}+\beta[R_{i},\zeta]\eta,
 $$  
 
-which shows that the [[Exercises|state-price deflator]] is a [[Pricing Factors in a One-Period Framework|pricing factor]]. Although the proof is simple, the results is important enough to deserve its own theorem:  
+which shows that the [state-price deflator](Exercises.md) is a [pricing factor](.md). Although the proof is simple, the results is important enough to deserve its own theorem:  
 
-Theorem 9.2 Any [[Exercises|state-price deflator]] $\zeta$ is a [[Pricing Factors in a One-Period Framework|pricing factor]]..  
+Theorem 9.2 Any [state-price deflator](Exercises.md) $\zeta$ is a [pricing factor](.md)..  
 
-In the above argument we did not use positivity of the [[Exercises|state-price deflator]], only the [[Definitions and Immediate Consequences|pricing equation]] (4.1) or, rather, the return version (4.3). Any random variable. $x$ that satisfies $P_{i}=\operatorname{E}[x D_{i}]$ for all assets works as a [[Pricing Factors in a One-Period Framework|pricing factor]]. In particular, this is true for the random variable $\zeta^{*}$ defined in (4.46) whether it is positive or not. We therefore have that.  
+In the above argument we did not use positivity of the [state-price deflator](Exercises.md), only the [pricing equation](../Chapter%204%20-%20State%20Prices/Definitions%20and%20Immediate%20Consequences.md) (4.1) or, rather, the return version (4.3). Any random variable. $x$ that satisfies $P_{i}=\operatorname{E}[x D_{i}]$ for all assets works as a [pricing factor](.md). In particular, this is true for the random variable $\zeta^{*}$ defined in (4.46) whether it is positive or not. We therefore have that.  
 $$
 \begin{array}{r}{\operatorname{E}[R_{i}]=\alpha^{*}+\beta[R_{i},\zeta^{*}]\eta^{*},\quad i=1,\dots,I,}\end{array}
 $$  
@@ -170,7 +170,7 @@ Theorem 9.3 If the $K$ -dimensional random variable $_{x}$ satisfies
 
 (ii) $a\in\mathbb R$ and $\pmb{b}\in\mathbb{R}^{K}$ exist so that $\zeta=a+b^{\top}x$ has the properties $\mathrm{E}[\zeta]\neq0$ and $P_{i}=\operatorname{E}[\zeta D_{i}]$ for $i=1,\dots,I$  
 
-then $_{x c}$ is a [[Pricing Factors in a One-Period Framework|pricing factor]].  
+then $_{x c}$ is a [pricing factor](.md).  
 
 Proof: Substituting $\zeta=a+b^{\top}x$ into (9.12), we get  
 $$
@@ -179,15 +179,15 @@ $$
 
 where $\alpha=1/\left(a+b^{\top}\operatorname{E}[\pmb{x}]\right)$ and $\eta=-\alpha\operatorname{Var}[x]b$  
 
-Whenever we have a [[Exercises|state-price deflator]] of the form $\zeta=a+b^{\top}x$ , we can use $_{\alpha}$ as a [[Pricing Factors in a One-Period Framework|pricing factor]].  
+Whenever we have a [state-price deflator](Exercises.md) of the form $\zeta=a+b^{\top}x$ , we can use $_{\alpha}$ as a [pricing factor](.md).  
 
 # 9.3.4 From a pricing factor to a (candidate) state-price deflator  
 
 Conversely:  
 
-Theorem 9.4 Assume the. $K$ -dimensional random variable $_{x}$ is a [[Pricing Factors in a One-Period Framework|pricing factor]] with an associated [[Pricing Factors in a One-Period Framework|zero-beta return]] $\alpha$ different from zero. Then we can find $a\in\mathbb R$ and $\pmb{b}\in\mathbb{R}^{K}$ so that $\zeta=a+b^{\top}x$ satisfies $P_{i}=\operatorname{E}[\zeta D_{i}]$ for $i=1,\dots,I$  
+Theorem 9.4 Assume the. $K$ -dimensional random variable $_{x}$ is a [pricing factor](.md) with an associated [zero-beta return](.md) $\alpha$ different from zero. Then we can find $a\in\mathbb R$ and $\pmb{b}\in\mathbb{R}^{K}$ so that $\zeta=a+b^{\top}x$ satisfies $P_{i}=\operatorname{E}[\zeta D_{i}]$ for $i=1,\dots,I$  
 
-Proof: Let $\pmb{\eta}$ denote the factor risk premium associated with the [[Pricing Factors in a One-Period Framework|pricing factor]] $_{\mathbf{\nabla}}\mathbf{\phi}_{\mathbf{\phi}}$ . Define  
+Proof: Let $\pmb{\eta}$ denote the factor risk premium associated with the [pricing factor](.md) $_{\mathbf{\nabla}}\mathbf{\phi}_{\mathbf{\phi}}$ . Define  
 $$
 \pmb{b}=-\frac{1}{\alpha}\left(\mathrm{Var}[\pmb{x}]\right)^{-1}\pmb{\eta},\quad\pmb{a}=\frac{1}{\alpha}-\pmb{b}^{\top}\mathrm{E}[\pmb{x}].
 $$  
@@ -204,18 +204,18 @@ $$
 \zeta=a+b^{\top}{\pmb x}=\frac{1}{\alpha}\left(1-{\pmb\eta}^{\top}\left(\mathrm{Var}[{\pmb x}]\right)^{-1}\left({\pmb x}-\mathrm{E}[{\pmb x}]\right)\right).
 $$  
 
-Any [[Pricing Factors in a One-Period Framework|pricing factor]] $_{x}$ gives us a candidate $\boldsymbol{a}+\boldsymbol{b}^{\intercal}\boldsymbol{x}$ for a [[Exercises|state-price deflator]] but it will only be a. true [[Exercises|state-price deflator]] if it is strictly positive. The fact that we can find a [[Pricing Factors in a One-Period Framework|pricing factor]] for a given market does not imply that the market is [[Arbitrage Pricing of Derivatives|arbitrage]]-free..  
+Any [pricing factor](.md) $_{x}$ gives us a candidate $\boldsymbol{a}+\boldsymbol{b}^{\intercal}\boldsymbol{x}$ for a [state-price deflator](Exercises.md) but it will only be a. true [state-price deflator](Exercises.md) if it is strictly positive. The fact that we can find a [pricing factor](.md) for a given market does not imply that the market is [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free..  
 
 # 9.3.5 The Arbitrage Pricing Theory  
 
-Ross (1976) introduced the [[Introduction to the Mathematics of Fixed Income Pricing|Arbitrage Pricing Theory]] as an alternative to the [[The Classical One-Period Capm|classical CAPM]]. The basic assumption is that a. $K$ -dimensional random variable $\pmb{x}=(x_{1},\dots,x_{K})^{\top}$ exists so that the return on any asset $i=1,\dots,I$ can be decomposed as  
+Ross (1976) introduced the [Arbitrage Pricing Theory](../../../Financial%20Engineering/Fixed%20Income%20Derivatives/Introduction%20to%20the%20Mathematics%20of%20Fixed%20Income%20Pricing.md) as an alternative to the [classical CAPM](The%20Classical%20One-Period%20Capm.md). The basic assumption is that a. $K$ -dimensional random variable $\pmb{x}=(x_{1},\dots,x_{K})^{\top}$ exists so that the return on any asset $i=1,\dots,I$ can be decomposed as  
 $$
 R_{i}=\operatorname{E}[R_{i}]+\beta[R_{i},{\boldsymbol{x}}]{\boldsymbol{x}}+\varepsilon_{i}=\operatorname{E}[R_{i}]+\sum_{k=1}^{K}\beta_{i k}x_{k}+\varepsilon_{i},
 $$  
 
-where $\mathrm{E}[x_{k}]=0$ $\mathrm{E}[\varepsilon_{i}]=0$ $\mathrm{Cov}[\varepsilon_{i},x_{k}]=0$ , and $\mathrm{Cov}[\varepsilon_{i},\varepsilon_{j}]=0$ for all $i$ $j\neq i$ , and $k$ .Due to the constraints on means and covariances, we have $\beta[R_{i},{\pmb x}]=(\mathrm{Var}[{\pmb x}])^{-1}\mathrm{Cov}[R_{i},{\pmb x}]$ as before. Note that one can always make a decomposition as in the equation above. Just think of regressing [[Assets|returns]] on the vector $_{x c}$ . The real content of the assumption lies in the restriction that the residuals are uncorrelated, i.e. $\mathrm{Cov}[\varepsilon_{i},\varepsilon_{j}]=0$ whenever $i\neq j$ . The vector $_{\alpha}$ is the source of all the common variations in [[Assets|returns]] across assets.  
+where $\mathrm{E}[x_{k}]=0$ $\mathrm{E}[\varepsilon_{i}]=0$ $\mathrm{Cov}[\varepsilon_{i},x_{k}]=0$ , and $\mathrm{Cov}[\varepsilon_{i},\varepsilon_{j}]=0$ for all $i$ $j\neq i$ , and $k$ .Due to the constraints on means and covariances, we have $\beta[R_{i},{\pmb x}]=(\mathrm{Var}[{\pmb x}])^{-1}\mathrm{Cov}[R_{i},{\pmb x}]$ as before. Note that one can always make a decomposition as in the equation above. Just think of regressing [returns](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) on the vector $_{x c}$ . The real content of the assumption lies in the restriction that the residuals are uncorrelated, i.e. $\mathrm{Cov}[\varepsilon_{i},\varepsilon_{j}]=0$ whenever $i\neq j$ . The vector $_{\alpha}$ is the source of all the common variations in [returns](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) across assets.  
 
-Suppose you have invested a given wealth in a [[An Asset Allocation Primer|portfolio]]. We can represent a zero net [[An Asset Allocation Primer|investment]] deviation from this [[An Asset Allocation Primer|portfolio]] by a vector $\pmb{w}=(w_{1},\dots,w_{I})^{\top}$ satisfying ${\pmb w}\cdot{\bf1}=0$ , where $w_{i}$ is the fraction of wealth additionally invested in asset $i$ . In other words, we increase the [[An Asset Allocation Primer|investment]] in some assets and decrease the [[An Asset Allocation Primer|investment]] in other assets. The additional [[An Asset Allocation Primer|portfolio]] return is  
+Suppose you have invested a given wealth in a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). We can represent a zero net [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) deviation from this [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) by a vector $\pmb{w}=(w_{1},\dots,w_{I})^{\top}$ satisfying ${\pmb w}\cdot{\bf1}=0$ , where $w_{i}$ is the fraction of wealth additionally invested in asset $i$ . In other words, we increase the [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in some assets and decrease the [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in other assets. The additional [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) return is  
 $$
 R^{w}=w^{\top}R=\sum_{i=1}^{I}w_{i}R_{i}=\sum_{i=1}^{I}w_{i}\operatorname{E}[R_{i}]+\sum_{i=1}^{I}w_{i}\beta_{i1}x_{1}+\dots+\sum_{i=1}^{I}w_{i}\beta_{i K}x_{K}+\sum_{i=1}^{I}w_{i}\varepsilon_{i}.
 $$  
@@ -229,28 +229,28 @@ $$
 R^{w}=\sum_{i=1}^{I}w_{i}\mathrm{E}[R_{i}],
 $$  
 
-i.e. the added return is risk-free. To rule out [[Arbitrage Pricing of Derivatives|arbitrage]], a risk-free zero net [[An Asset Allocation Primer|investment]] should give a zero return so we can conclude that  
+i.e. the added return is risk-free. To rule out [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), a risk-free zero net [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) should give a zero return so we can conclude that  
 $$
 R^{w}=\sum_{i=1}^{I}w_{i}\operatorname{E}[R_{i}]=0.
 $$  
 
-In [[Prerequisites|linear algebra]] terms, we have thus seen that if a vector $\mathbf{\nabla}w$ is orthogonal to. $\mathbf{1}$ and to each of the. vectors $(\beta_{1k},\ldots,\beta_{I k})^{\top}$ $k=1,\ldots,K$ , then it must also be orthogonal to the vector of expected. [[Assets|returns]] $\operatorname{E}[R]$ . It follows that. $\operatorname{E}[R]$ must be spanned by the vectors $\mathbf{1}$ $(\beta_{1k},\ldots,\beta_{I k})^{\top}$ $k=1,\ldots,K$ i.e. that constants. $\alpha,\eta_{1},\dots,\eta_{K}$ exist so that  
+In [linear algebra](../Chapter%201%20-%20Introduction%20and%20Overview/Prerequisites.md) terms, we have thus seen that if a vector $\mathbf{\nabla}w$ is orthogonal to. $\mathbf{1}$ and to each of the. vectors $(\beta_{1k},\ldots,\beta_{I k})^{\top}$ $k=1,\ldots,K$ , then it must also be orthogonal to the vector of expected. [returns](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) $\operatorname{E}[R]$ . It follows that. $\operatorname{E}[R]$ must be spanned by the vectors $\mathbf{1}$ $(\beta_{1k},\ldots,\beta_{I k})^{\top}$ $k=1,\ldots,K$ i.e. that constants. $\alpha,\eta_{1},\dots,\eta_{K}$ exist so that  
 $$
 \mathrm{E}[R_{i}]=\alpha+\beta_{i1}\eta_{1}+\cdot\cdot\cdot+\beta_{i K}\eta_{K}=\alpha+\beta[R_{i},x]\eta,\quad i=1,2,\ldots,I,
 $$  
 
-i.e. $_{x c}$ is a [[Pricing Factors in a One-Period Framework|pricing factor]].  
+i.e. $_{x c}$ is a [pricing factor](.md).  
 
-With at least $K$ sufficiently different assets, we can satisfy condition (i) above. We just need the $I\times K$ matrix ${\underline{{\underline{{\beta}}}}}[{\pmb{R}},{\pmb{x}}]$ to have rank $K$ . What about condition (ii)? The usual argument given. is that if we pick $w_{i}$ to be of the order $1/I$ and $I$ is a very large number, then $\textstyle\sum_{i=1}w_{i}\varepsilon_{i}$ will be close to zero and we can ignore it. But close to zero does not mean equal to zero and if the residual [[An Asset Allocation Primer|portfolio]] return is non-zero, the [[An Asset Allocation Primer|portfolio]] is not risk-free and the argument breaks down. Even a very small dividend or return in a particular state can have a large influence on the current price and, hence, the [[Lecture 1- Probability Distributions of Returns|expected return]]. With finitely many assets, we can only safely ignore the. residual [[An Asset Allocation Primer|portfolio]] return if the residual [[Assets|returns]] of all the individual assets are zero, i.e.. $\varepsilon_{i}=0$ for all $i=1,\dots,I$  
+With at least $K$ sufficiently different assets, we can satisfy condition (i) above. We just need the $I\times K$ matrix ${\underline{{\underline{{\beta}}}}}[{\pmb{R}},{\pmb{x}}]$ to have rank $K$ . What about condition (ii)? The usual argument given. is that if we pick $w_{i}$ to be of the order $1/I$ and $I$ is a very large number, then $\textstyle\sum_{i=1}w_{i}\varepsilon_{i}$ will be close to zero and we can ignore it. But close to zero does not mean equal to zero and if the residual [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) return is non-zero, the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is not risk-free and the argument breaks down. Even a very small dividend or return in a particular state can have a large influence on the current price and, hence, the [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md). With finitely many assets, we can only safely ignore the. residual [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) return if the residual [returns](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) of all the individual assets are zero, i.e.. $\varepsilon_{i}=0$ for all $i=1,\dots,I$  
 
-Theorem 9.5 If individual [[Some Stylized Empirical Facts About Asset Retur|asset returns]] are of the form  
+Theorem 9.5 If individual [asset returns](../Chapter%201%20-%20Introduction%20and%20Overview/Some%20Stylized%20Empirical%20Facts%20About%20Asset%20Retur.md) are of the form  
 $$
 R_{i}=\operatorname{E}[R_{i}]+\beta[R_{i},\pmb{x}]\pmb{x},\quad i=1,2,\dots,I,
 $$  
 
-and the $I\times K$ matrix ${\underline{{\underline{{\beta}}}}}[R,x]$ has rank. $K$ , then $_{x}$ is a [[Pricing Factors in a One-Period Framework|pricing factor]], i.e. $\alpha\in\mathbb R$ and $\eta\in\mathbb{R}^{K}$ exist so that  
+and the $I\times K$ matrix ${\underline{{\underline{{\beta}}}}}[R,x]$ has rank. $K$ , then $_{x}$ is a [pricing factor](.md), i.e. $\alpha\in\mathbb R$ and $\eta\in\mathbb{R}^{K}$ exist so that  
 $$
 \begin{array}{r}{\operatorname{E}[R_{i}]=\alpha+\beta[R_{i},\pmb{x}]^{\top}\pmb{\eta},\quad i=1,2,\dots,I.}\end{array}
 $$  
 
-It is, however, fairly restrictive to assume that all the variation in the [[Assets|returns]] on a large number of assets can be captured by a low number of factors.  
+It is, however, fairly restrictive to assume that all the variation in the [returns](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) on a large number of assets can be captured by a low number of factors.  

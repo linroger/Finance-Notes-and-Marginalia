@@ -24,7 +24,7 @@ key_concepts:
 ## 1. Introduction to War Economies
 - War economies differ significantly from regular economies.
   - Production,  consumption,  and accounting for goods,  services,  and financial assets undergo fundamental changes.
-  - Economic indicators such as GDP,  unemployment rates,  and [[Chapter 14- Capital Flows and the Current Account|capital flows]] are affected differently compared to peacetime.
+  - Economic indicators such as GDP,  unemployment rates,  and [capital flows](../../Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md) are affected differently compared to peacetime.
 
 ## 2. Characteristics of War Economies
 - **Increased GDP from Armament Production**
@@ -46,14 +46,14 @@ key_concepts:
 - Understanding these dynamics is essential if another war period arises.
 
 ## 4. Economic and Geopolitical Cycles
-- [[War Economies An Overview|Economic conflicts]] often lead to military conflicts,  both within and between nations.
+- [Economic conflicts](.md) often lead to military conflicts,  both within and between nations.
   - Emerging powers challenge established powers,  leading to geopolitical tensions.
 - Historians have documented these cycles,  though often from a geopolitical perspective.
   - Economic and market perspectives provide additional insights into these cycles.
 
 ## 5. Dynamics of Economic Conflicts
 - **Within Countries**
-  - [[War Economies An Overview|Economic conflicts]] arise between rich/capitalist/political right and poor/proletariat/political left.
+  - [Economic conflicts](.md) arise between rich/capitalist/political right and poor/proletariat/political left.
   - These conflicts can lead to populist,  autocratic,  nationalistic,  and militaristic leaders gaining power.
 - **Between Countries**
   - Conflicts arise among comparably strong economic and military powers.
@@ -102,13 +102,13 @@ key_concepts:
 - **Priorities in War Periods**
   - Maintain access to financial and non-financial resources.
 	- Essential for sustaining a strong war effort.
-  - Funding a war requires borrowing or large [[Foreign Exchange Reserves - Wikipedia|foreign exchange reserves]].
+  - Funding a war requires borrowing or large [foreign exchange reserves](../../China%20Foreign%20Exchange%20Reserves/Foreign%20Exchange%20Reserves%20-%20Wikipedia/Foreign%20Exchange%20Reserves%20-%20Wikipedia.md).
 	- No country can fund a war and maintain non-war spending from current income.
 - **Access to Borrowing**
-  - Depends on creditworthiness and capital [[Variance Swaps|market development]].
-  - Sound local [[Forwards and Futures Notes|currency]] debt markets are crucial.
+  - Depends on creditworthiness and capital [market development](../../../Financial%20Engineering/Variance%20Swaps.md).
+  - Sound local [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) debt markets are crucial.
 - **Access to Non-Financial Resources**
-  - Critical for sustaining war efforts and domestic [[US Debt Crisis and Adjustment (2007–2011)|economic conditions]].
+  - Critical for sustaining war efforts and domestic [economic conditions](../Chapters/US%20Debt%20Crisis%20and%20Adjustment%20(2007–2011).md).
 
 ## 3. Post-War Economic Consequences
 - **Debt and War Outcomes**
@@ -134,7 +134,7 @@ key_concepts:
 - **Charts and Data**
   - Illustrate shifts in government and military spending.
   - Show workforce changes during war periods.
-  - Highlight the [[The Economist Fewer Or Even None|economic impact]] of transitioning from war to peace.
+  - Highlight the [economic impact](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Fewer%20Or%20Even%20None.md) of transitioning from war to peace.
 
 ## Conclusion
 - Understanding the economic dynamics of war and post-war periods is crucial.
@@ -144,32 +144,32 @@ key_concepts:
 
 ## 1. Economic Conditions for War Losers
 - **Post-War Economic Depression**
-  - Losers of wars experience significantly worse [[US Debt Crisis and Adjustment (2007–2011)|economic conditions]] compared to winners.
+  - Losers of wars experience significantly worse [economic conditions](../Chapters/US%20Debt%20Crisis%20and%20Adjustment%20(2007–2011).md) compared to winners.
   - The economic depression is deeper and more prolonged.
-- **[[The Economist Regime Change|Monetary Policy]] and [[War Economies and Hyperinflation|Inflation]]**
+- **[Monetary Policy](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) and [Inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)**
   - War losers often resort to excessive money printing.
 	- This leads to a depletion of savings and reserves.
-	- [[War Economies and Hyperinflation|Inflation]] rates rise significantly,  sometimes reaching hyperinflation levels.
+	- [Inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) rates rise significantly,  sometimes reaching hyperinflation levels.
 - **Data and Statistics**
   - Reliable statistics for war losers post-World War II are often unavailable.
 	- The economic devastation rendered data collection unreliable or impossible.
 
 ## 2. Case Studies and Historical Context
-- **[[Inflationary Depressions and Currency Crises 1|Weimar Germany]] and US [[US Debt Crisis and Adjustment 1928-1937|Great Depression]]**
-  - [[Inflationary Depressions and Currency Crises 1|Weimar Germany]] provides a case study of a post-war loser.
+- **[Weimar Germany](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20I%20-%20The%20Big%20Debt%20Cycle/Inflationary%20Depressions%20and%20Currency%20Crises/Inflationary%20Depressions%20and%20Currency%20Crises%201.md) and US [Great Depression](../Chapters/US%20Debt%20Crisis%20and%20Adjustment%201928-1937.md)**
+  - [Weimar Germany](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20I%20-%20The%20Big%20Debt%20Cycle/Inflationary%20Depressions%20and%20Currency%20Crises/Inflationary%20Depressions%20and%20Currency%20Crises%201.md) provides a case study of a post-war loser.
 	- Illustrates the severe economic consequences and hyperinflation.
-  - The US [[US Debt Crisis and Adjustment 1928-1937|Great Depression]] shows how [[War Economies An Overview|economic conflicts]] can escalate into wars.
+  - The US [Great Depression](../Chapters/US%20Debt%20Crisis%20and%20Adjustment%201928-1937.md) shows how [economic conflicts](.md) can escalate into wars.
 - **Post-World War II Winners: US and UK**
-  - Charts for the US and UK post-World War II illustrate the [[US Debt Crisis and Adjustment (2007–2011)|economic conditions]] of war winners.
+  - Charts for the US and UK post-World War II illustrate the [economic conditions](../Chapters/US%20Debt%20Crisis%20and%20Adjustment%20(2007–2011).md) of war winners.
   - These countries experienced more stable economic recoveries.
 
 ## 3. Summary of Debt Crisis Management
 - **Managing Debt Crises**
   - Effective management involves spreading out the pain of bad debts.
-  - Success is more likely if debts are denominated in the nation’s own [[Forwards and Futures Notes|currency]].
+  - Success is more likely if debts are denominated in the nation’s own [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md).
 - **Risks and Policy Maker Challenges**
-  - The biggest risks arise from [[Inflationary Depressions and Currency Crises|policy makers]]' failure to act due to lack of knowledge or authority.
-  - Nations with foreign [[Forwards and Futures Notes|currency]] debts face more difficult choices and painful consequences.
+  - The biggest risks arise from [policy makers](../Chapters/Inflationary%20Depressions%20and%20Currency%20Crises.md)' failure to act due to lack of knowledge or authority.
+  - Nations with foreign [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) debts face more difficult choices and painful consequences.
 - **Policy Maker Authority and Decision-Making**
   - Authority varies across countries,  affecting crisis outcomes.
   - Strong regulatory systems can hinder necessary policy moves due to rigid rules.
@@ -180,7 +180,7 @@ key_concepts:
   - While protective,  these systems can slow decision-making during crises.
   - They can allow narrow interests to block necessary actions.
 - **Political Climate During Crises**
-  - [[Inflationary Depressions and Currency Crises|Policy makers]] face criticism from all sides.
+  - [Policy makers](../Chapters/Inflationary%20Depressions%20and%20Currency%20Crises.md) face criticism from all sides.
   - Politics becomes contentious,  with misinformation prevalent.
 - **Long-Term Economic Perspective**
   - Despite short-to-medium-term devastation,  productivity growth is more impactful in the long run.
@@ -195,7 +195,7 @@ key_concepts:
 # Detailed Case Studies
 
 ## 1. German Debt Crisis and Hyperinflation (1918–1924)
-- **[[Overview of Financial Markets|Overview]]**
+- **[Overview](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)**
   - This period is one of the most iconic inflationary depression cycles in history.
   - It followed the end of World War I and extended into the mid-1920s.
 - **Economic and Political Changes**
@@ -204,15 +204,15 @@ key_concepts:
 
 ## 2. US Debt Crisis and Adjustment (1928–1937)
 - **Economic Context**
-  - This period covers the [[US Debt Crisis and Adjustment 1928-1937|Great Depression]] and the subsequent economic adjustments.
-  - It provides insights into how [[War Economies An Overview|economic conflicts]] can lead to broader geopolitical tensions.
+  - This period covers the [Great Depression](../Chapters/US%20Debt%20Crisis%20and%20Adjustment%201928-1937.md) and the subsequent economic adjustments.
+  - It provides insights into how [economic conflicts](.md) can lead to broader geopolitical tensions.
 
 ## 3. US Debt Crisis and Adjustment (2007–2011)
 - **Modern Economic Crisis**
-  - Examines the recent [[Squam Lake Group Letter|financial crisis]] and the adjustments that followed.
+  - Examines the recent [financial crisis](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Letter.md) and the adjustments that followed.
   - Offers a contemporary perspective on managing debt crises and economic recovery.
 
-These detailed case studies provide a comprehensive understanding of how different countries have navigated economic crises,  the role of [[Inflationary Depressions and Currency Crises|policy makers]],  and the long-term implications of these events on global economic and political landscapes.
+These detailed case studies provide a comprehensive understanding of how different countries have navigated economic crises,  the role of [policy makers](../Chapters/Inflationary%20Depressions%20and%20Currency%20Crises.md),  and the long-term implications of these events on global economic and political landscapes.
 
 # German Hyperinflation: A Detailed Case Study
 
@@ -224,33 +224,33 @@ These detailed case studies provide a comprehensive understanding of how differe
 
 ## 2. Contextual Background: July 1914–November 1918
 - **World War I as a Catalyst**
-  - The war set the stage for a dramatic [[Business Cycles- Introduction, Characteristics, and History|economic cycle]] in Germany.
-  - Germany left the gold standard,  accumulated significant domestic and foreign debts,  and began [[Inflationary Depressions and Currency Crises|printing money]] to finance fiscal deficits.
-  - Experienced initial [[Inflationary Depressions and Currency Crises 1|currency depreciation]] and [[War Economies and Hyperinflation|inflation]] during the war years.
-- **[[FORWARD RATES AND TERM STRUCTURE|Expectations]] vs. Reality**
+  - The war set the stage for a dramatic [economic cycle](../../Economic%20Stabilization%20Notes/Business%20Cycles-%20Introduction,%20Characteristics,%20and%20History.md) in Germany.
+  - Germany left the gold standard,  accumulated significant domestic and foreign debts,  and began [printing money](../Chapters/Inflationary%20Depressions%20and%20Currency%20Crises.md) to finance fiscal deficits.
+  - Experienced initial [currency depreciation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20I%20-%20The%20Big%20Debt%20Cycle/Inflationary%20Depressions%20and%20Currency%20Crises/Inflationary%20Depressions%20and%20Currency%20Crises%201.md) and [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) during the war years.
+- **[Expectations](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) vs. Reality**
   - Based on the Franco-Prussian War of 1870,  Germany expected a short war,  financed by indemnities from defeated Allies.
   - The war was prolonged and expensive,  financed primarily through domestic debt.
   - Post-war,  Germany faced a massive reparation bill instead of collecting indemnities.
 - **Classic Case of War Debts**
-  - Germany's situation exemplifies a country losing a war with substantial foreign [[Forwards and Futures Notes|currency]]-denominated debt held by foreign creditors.
+  - Germany's situation exemplifies a country losing a war with substantial foreign [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)-denominated debt held by foreign creditors.
   - This scenario aligns with the dynamics described in the "Archetypal Inflationary Depression."
 
 ## 3. Economic Background and Initial Responses
-- **Gold Standard and [[Forwards and Futures Notes|Currency]] Dynamics**
+- **Gold Standard and [Currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Dynamics**
   - Germany,  like most countries,  was on the gold standard at the war's onset.
-	- All paper [[Forwards and Futures Notes|currency]] and [[Global Fixed Income Markets|government debt]] were convertible to gold at a fixed rate.
+	- All paper [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) and [government debt](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Global%20Fixed%20Income%20Markets.md) were convertible to gold at a fixed rate.
 	- By 1914,  the central bank lacked sufficient gold reserves to back the money supply at the fixed price.
 - **Public Reaction and Policy Response**
-  - As war broke out,  citizens exchanged paper money for gold,  causing a [[Class Slide 3 Financial Intermediation and Delegated Monitoring|banking system]] run.
+  - As war broke out,  citizens exchanged paper money for gold,  causing a [banking system](../../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-%20Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Class%20Slide%203%20Financial%20Intermediation%20and%20Delegated%20Monitoring.md) run.
   - The Reichsbank and Treasury paid out significant gold reserves to the public.
-  - To prevent further losses and ensure [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]],  policymakers suspended gold conversion on July 31,  1914.
+  - To prevent further losses and ensure [liquidity](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md),  policymakers suspended gold conversion on July 31,  1914.
 	- Authorized the Reichsbank to buy short-term Treasury bills and use them as collateral for money printing.
 	- By August's end,  Reichsbank notes in circulation increased by approximately 30%.
 
 ## 4. Currency as a Medium of Exchange and Store of Wealth
-- **[[Forwards and Futures Notes|Currency]] Dynamics**
-  - [[Forwards and Futures Notes|Currency]] serves as both a medium of exchange and a store of wealth.
-  - When investors hold substantial debt denominated in a [[Forwards and Futures Notes|currency]],  and the [[Forwards and Futures Notes|currency]] supply is tied to a backing (e.g.,  gold),  central bank [[Forwards and Futures Notes|currency]] production is limited.
+- **[Currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Dynamics**
+  - [Currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) serves as both a medium of exchange and a store of wealth.
+  - When investors hold substantial debt denominated in a [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md),  and the [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) supply is tied to a backing (e.g.,  gold),  central bank [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) production is limited.
 
 ## 5. Infographic: Dynamics of German Hyperinflation
 ```markdown
@@ -276,30 +276,30 @@ These detailed case studies provide a comprehensive understanding of how differe
 ```
 
 ## 6. Conclusion
-- The German hyperinflation case illustrates the complex interplay of war,  debt,  and [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.6 [[A Preview of Alternative Formulations|Asset price]] reactions to [[The Economist Regime Change|monetary policy]] surprises|[[The Economist Regime Change|monetary policy]]]].
+- The German hyperinflation case illustrates the complex interplay of war,  debt,  and [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.6 [Asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) reactions to [monetary policy](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) surprises|[monetary policy](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md)]].
 - Understanding these dynamics provides insights into the causes and consequences of inflationary depressions.
-- The case highlights the importance of managing [[Forwards and Futures Notes|currency]] supply and debt in maintaining economic stability.
+- The case highlights the importance of managing [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) supply and debt in maintaining economic stability.
 
 # Economic Dynamics of War and Inflation: A Detailed Analysis
 
 ## 1. Central Bank Dilemmas in Times of Economic Stress
-- **[[Runs On Money Market Mutual Funds|Investor Behavior]] and Central Bank Challenges**
-  - When investors convert bonds to [[Forwards and Futures Notes|currency]],  central banks face a dilemma.
+- **[Investor Behavior](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-%20Bank%20Runs/Runs%20On%20Money%20Market%20Mutual%20Funds.md) and Central Bank Challenges**
+  - When investors convert bonds to [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md),  central banks face a dilemma.
 	- They must choose between allowing debt defaults or increasing the money supply.
-	- Increasing the money supply can lead to [[Forwards and Futures Notes|currency]] debasement.
+	- Increasing the money supply can lead to [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) debasement.
 - **Conditions Leading to Central Bank Decisions**
   - Two critical conditions exacerbate central bank challenges:
-	- **Condition A**: The money supply exceeds gold reserves needed for [[Forwards and Futures Notes|currency]] conversion.
-	- **Condition B**: Investors rush to convert [[Forwards and Futures Notes|currency]] to gold,  fearing devaluation.
+	- **Condition A**: The money supply exceeds gold reserves needed for [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) conversion.
+	- **Condition B**: Investors rush to convert [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) to gold,  fearing devaluation.
   - **Central Bank Responses**
 	- Central banks typically suspend convertibility and print more money.
 	- This choice is often less painful than allowing a credit contraction.
-	- [[Inflationary Depressions and Currency Crises|Printing money]] leads to [[Inflationary Depressions and Currency Crises 1|currency depreciation]],  raising prices of goods and assets.
+	- [Printing money](../Chapters/Inflationary%20Depressions%20and%20Currency%20Crises.md) leads to [currency depreciation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20I%20-%20The%20Big%20Debt%20Cycle/Inflationary%20Depressions%20and%20Currency%20Crises/Inflationary%20Depressions%20and%20Currency%20Crises%201.md),  raising prices of goods and assets.
 
 ## 2. War-Time Economic Policies
-- **[[The Economist Regime Change|Monetary Policy]] in War**
+- **[Monetary Policy](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) in War**
   - During war,  policymakers print money to support the war effort.
-	- This prevents [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] crises and economic contractions.
+	- This prevents [liquidity](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) crises and economic contractions.
 	- Most countries in WWI suspended the gold standard to finance war efforts.
 - **German Government Spending During WWI**
   - Government spending as a share of GDP increased 2.5 times from 1914 to 1917.
@@ -308,26 +308,26 @@ These detailed case studies provide a comprehensive understanding of how differe
 
 ## 3. Financing the War: Germany's Approach
 - **Domestic Debt Issuance**
-  - In 1914,  German [[Global Fixed Income Markets|government debt]] was minimal.
-  - By 1918,  local [[Forwards and Futures Notes|currency]] debt reached 100 billion marks,  130% of GDP.
-- **Advantages of Local [[Forwards and Futures Notes|Currency]] Debt**
-  - Most debt was in local [[Forwards and Futures Notes|currency]],  reducing foreign [[Forwards and Futures Notes|currency]] exposure.
+  - In 1914,  German [government debt](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Global%20Fixed%20Income%20Markets.md) was minimal.
+  - By 1918,  local [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) debt reached 100 billion marks,  130% of GDP.
+- **Advantages of Local [Currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Debt**
+  - Most debt was in local [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md),  reducing foreign [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) exposure.
   - The Reichsbank noted the weakness of enemy nations' foreign debt reliance.
 - **Public Willingness to Finance Debt**
   - Initially,  the German public was willing to finance deficits through bond purchases.
   - War bonds were oversubscribed until mid-1916.
 
 ## 4. Inflation and Public Sentiment
-- **Impact of [[War Economies and Hyperinflation|Inflation]] on Debt**
-  - As the war continued,  [[War Economies and Hyperinflation|inflation]] accelerated,  reducing public willingness to hold debt.
-  - [[Real Interest Rates and Aggregate Production|Real interest rates]] became negative due to fixed bond rates and rising [[War Economies and Hyperinflation|inflation]].
-- **Factors Driving [[War Economies and Hyperinflation|Inflation]]**
+- **Impact of [Inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) on Debt**
+  - As the war continued,  [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) accelerated,  reducing public willingness to hold debt.
+  - [Real interest rates](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20Interest%20Rates%20and%20Aggregate%20Production.md) became negative due to fixed bond rates and rising [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md).
+- **Factors Driving [Inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)**
   - Wartime disruptions,  shortages,  and capacity constraints in key industries.
-  - [[Inflationary Depressions and Currency Crises|Currency weakness]],  with the mark depreciating 25% against the dollar by 1916.
-- **Public Perception and [[Forwards and Futures Notes|Currency]] Effectiveness**
-  - Some lenders hoped for a return to the gold standard or compensation for [[War Economies and Hyperinflation|inflation]].
-  - Others feared repayment in devalued [[Forwards and Futures Notes|currency]],  leading to reduced debt holdings.
-  - The [[Forwards and Futures Notes|currency]] remained a medium of exchange but lost its value as a wealth store.
+  - [Currency weakness](../Chapters/Inflationary%20Depressions%20and%20Currency%20Crises.md),  with the mark depreciating 25% against the dollar by 1916.
+- **Public Perception and [Currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Effectiveness**
+  - Some lenders hoped for a return to the gold standard or compensation for [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md).
+  - Others feared repayment in devalued [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md),  leading to reduced debt holdings.
+  - The [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) remained a medium of exchange but lost its value as a wealth store.
 
 ## 5. Infographic: Economic Dynamics During War
 ```markdown
@@ -353,7 +353,7 @@ These detailed case studies provide a comprehensive understanding of how differe
 ```
 
 ## 6. Conclusion
-- The economic dynamics during war highlight the complex interplay between [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.6 [[A Preview of Alternative Formulations|Asset price]] reactions to [[The Economist Regime Change|monetary policy]] surprises|[[The Economist Regime Change|monetary policy]]]],  public sentiment,  and [[War Economies and Hyperinflation|inflation]].
+- The economic dynamics during war highlight the complex interplay between [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.6 [Asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) reactions to [monetary policy](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) surprises|[monetary policy](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md)]],  public sentiment,  and [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md).
 - Understanding these factors provides insights into the challenges faced by central banks and governments in maintaining economic stability during times of conflict.
 
 # Economic Dynamics of Debt Monetization and Inflation During War
@@ -361,51 +361,51 @@ These detailed case studies provide a comprehensive understanding of how differe
 ## 1. Introduction to Debt Monetization
 - **Government Borrowing for War Expenditures**
   - The government borrowed extensively to finance its war efforts.
-  - The Reichsbank was compelled to monetize the debt due to insufficient public [[An Asset Allocation Primer|investment]].
+  - The Reichsbank was compelled to monetize the debt due to insufficient public [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md).
   - This process increased the money supply by the amount of the fiscal deficit not covered by public financing.
 
 ## 2. Inflationary Effects of Debt Monetization
 - **Self-Reinforcing Inflationary Spiral**
   - Debt monetization is inherently inflationary,  as it introduces more money into the economy without a corresponding increase in goods and services.
   - This inflationary pressure led to a cycle:
-	- Increased [[War Economies and Hyperinflation|inflation]] reduced [[Real Interest Rates and Aggregate Production|real interest rates]].
-	- Lower [[Real Interest Rates and Aggregate Production|real interest rates]] discouraged lending to the government.
+	- Increased [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) reduced [real interest rates](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20Interest%20Rates%20and%20Aggregate%20Production.md).
+	- Lower [real interest rates](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20Interest%20Rates%20and%20Aggregate%20Production.md) discouraged lending to the government.
 	- Reduced lending necessitated further debt monetization.
   - The fiscal deficit was substantial,  averaging about 40% of GDP from 1914 to 1918.
   - Consequently,  the money supply surged by nearly 300% during the war.
 - **Acceleration of Money Creation Post-1917**
-  - As public willingness to purchase [[Global Fixed Income Markets|government debt]] waned,  the central bank had to monetize a larger portion of the deficit.
+  - As public willingness to purchase [government debt](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Global%20Fixed%20Income%20Markets.md) waned,  the central bank had to monetize a larger portion of the deficit.
   - The number of marks in circulation nearly doubled between mid-1917 and mid-1918.
-  - Despite this,  the [[Forwards and Futures Notes|currency]] did not immediately depreciate significantly.
+  - Despite this,  the [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) did not immediately depreciate significantly.
 
 ## 3. Currency Dynamics and Market Expectations
 - **Initial Stability and Subsequent Decline of the Mark**
-  - The mark initially rallied due to [[FORWARD RATES AND TERM STRUCTURE|expectations]] of a German victory following Russia's withdrawal from the war.
-  - The [[Forwards and Futures Notes|currency]] only began to depreciate in the latter half of 1918 as a German defeat seemed more probable.
+  - The mark initially rallied due to [expectations](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) of a German victory following Russia's withdrawal from the war.
+  - The [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) only began to depreciate in the latter half of 1918 as a German defeat seemed more probable.
 
 ## 4. Foreign Currency Borrowing and Its Implications
-- **Shift to Foreign [[Forwards and Futures Notes|Currency]] Borrowing**
+- **Shift to Foreign [Currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Borrowing**
   - In the war's final years,  Germany began borrowing in foreign currencies as lenders lost confidence in the mark.
-  - [[The Value of the Swap Contract after Initiation|Borrowing in foreign currency]] is a negative indicator,  reflecting diminished trust in the domestic [[Forwards and Futures Notes|currency]].
-- **Hard [[Forwards and Futures Notes|Currency]] Debt Challenges**
+  - [Borrowing in foreign currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/The%20Value%20of%20the%20Swap%20Contract%20after%20Initiation.md) is a negative indicator,  reflecting diminished trust in the domestic [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md).
+- **Hard [Currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Debt Challenges**
   - By 1918,  both the Reichsbank and private firms owed approximately 2.5 billion gold marks in foreign exchange.
   - A gold mark was a unit measuring the value of a paper mark against gold,  with one gold mark equaling one paper mark in 1914.
-  - Hard [[Forwards and Futures Notes|currency]] debt,  unlike local [[Forwards and Futures Notes|currency]] debt,  cannot be inflated away.
+  - Hard [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) debt,  unlike local [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) debt,  cannot be inflated away.
   - Debtors needed to acquire gold or foreign exchange to settle these obligations.
-  - Although hard [[Forwards and Futures Notes|currency]] debt was less than 10% of the total debt,  it exceeded the Reich's entire public gold reserves.
+  - Although hard [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) debt was less than 10% of the total debt,  it exceeded the Reich's entire public gold reserves.
 
 ## 5. Strategic Considerations and Policy Maker Concerns
-- **[[FORWARD RATES AND TERM STRUCTURE|Expectations]] of Post-War [[Understanding Debt Crises and Their Management|Debt Management]]**
+- **[Expectations](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) of Post-War [Debt Management](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Understanding%20Debt%20Crises%20and%20Their%20Management.md)**
   - The hope was that a German victory would appreciate the mark,  easing debt burdens.
   - Defeated countries would be expected to cover much of Germany's debts.
 - **Risks of Defeat and Economic Collapse**
   - Policymakers acknowledged the difficulty of repaying debts without significant reparations.
   - Reichsbank President Rudolf Havenstein emphasized the need for a large war indemnity to manage debts.
-  - Economist Edgar Jaffé warned of a "monstrous catastrophe" of [[Forwards and Futures Notes|currency]] collapse if debts were paid in depreciated money.
+  - Economist Edgar Jaffé warned of a "monstrous catastrophe" of [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) collapse if debts were paid in depreciated money.
 
 ## 6. Economic Disruptions and Inflationary Pressures
 - **Breaking the Gold Peg and Economic Disruptions**
-  - The decision to break the gold peg and monetize deficits,  coupled with wartime disruptions,  led to [[Inflationary Depressions and Currency Crises 1|currency depreciation]] and [[War Economies and Hyperinflation|inflation]].
+  - The decision to break the gold peg and monetize deficits,  coupled with wartime disruptions,  led to [currency depreciation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20I%20-%20The%20Big%20Debt%20Cycle/Inflationary%20Depressions%20and%20Currency%20Crises/Inflationary%20Depressions%20and%20Currency%20Crises%201.md) and [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md).
   - By early 1918,  the mark had depreciated by about 25% against the dollar,  and prices had tripled.
 - **Typical Wartime Economic Strategy**
   - Such economic strategies were common among countries during WWI to fund their war efforts.
@@ -441,36 +441,36 @@ These detailed case studies provide a comprehensive understanding of how differe
 ```
 
 ## 8. Conclusion
-- The German experience during WWI illustrates the complex interplay between debt monetization,  [[War Economies and Hyperinflation|inflation]],  and [[Forwards and Futures Notes|currency]] dynamics.
-- Understanding these factors provides insights into the challenges faced by economies during wartime and the potential consequences of [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.6 [[A Preview of Alternative Formulations|Asset price]] reactions to [[The Economist Regime Change|monetary policy]] surprises|[[The Economist Regime Change|monetary policy]]]] decisions.
+- The German experience during WWI illustrates the complex interplay between debt monetization,  [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md),  and [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) dynamics.
+- Understanding these factors provides insights into the challenges faced by economies during wartime and the potential consequences of [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.6 [Asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) reactions to [monetary policy](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) surprises|[monetary policy](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md)]] decisions.
 
 # German Post-WWI Inflationary Depression: A Detailed Analysis
 
 ## 1. Introduction to German Inflation Post-WWI
-- **Contextual [[Overview of Financial Markets|Overview]]**
-  - German [[War Economies and Hyperinflation|inflation]] during WWI was high but not significantly higher than other war participants.
+- **Contextual [Overview](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)**
+  - German [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) during WWI was high but not significantly higher than other war participants.
   - Only a few countries experienced hyperinflation post-WWI,  which was not directly caused by the war or debt monetization.
 - **Key Factors Leading to Inflationary Depression**
   - Inflationary depressions are more common in countries with specific economic vulnerabilities:
-	- Lack of a [[How Countries Go Broke-Chapter 15 & Chapter 16|reserve currency status]].
-	- Low [[Foreign Exchange Reserves - Wikipedia|foreign exchange reserves]].
+	- Lack of a [reserve currency status](../How%20Countries%20Go%20Broke/How%20Countries%20Go%20Broke-Chapter%2015%20&%20Chapter%2016.md).
+	- Low [foreign exchange reserves](../../China%20Foreign%20Exchange%20Reserves/Foreign%20Exchange%20Reserves%20-%20Wikipedia/Foreign%20Exchange%20Reserves%20-%20Wikipedia.md).
 	- Large foreign debt stock.
-	- Large budget and/or [[Chapter 14- Capital Flows and the Current Account|current account]] deficits.
-	- Negative [[Real Interest Rates and Aggregate Production|real interest rates]].
-	- History of high [[War Economies and Hyperinflation|inflation]] and negative [[Assets|returns]] in the [[Forwards and Futures Notes|currency]].
+	- Large budget and/or [current account](../../Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md) deficits.
+	- Negative [real interest rates](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20Interest%20Rates%20and%20Aggregate%20Production.md).
+	- History of high [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and negative [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) in the [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md).
 
 ## 2. Germany's Economic Conditions Post-WWI
-- **Absence of [[How Countries Go Broke-Chapter 15 & Chapter 16|Reserve Currency Status]]**
-  - The German mark was not a reserve [[Forwards and Futures Notes|currency]],  lacking global trust as a store of wealth.
-- **[[Foreign Exchange Reserves - Wikipedia|Foreign Exchange Reserves]] and Debt**
+- **Absence of [Reserve Currency Status](../How%20Countries%20Go%20Broke/How%20Countries%20Go%20Broke-Chapter%2015%20&%20Chapter%2016.md)**
+  - The German mark was not a reserve [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md),  lacking global trust as a store of wealth.
+- **[Foreign Exchange Reserves](../../China%20Foreign%20Exchange%20Reserves/Foreign%20Exchange%20Reserves%20-%20Wikipedia/Foreign%20Exchange%20Reserves%20-%20Wikipedia.md) and Debt**
   - Insufficient reserves to cover external debts and potential reparations.
-  - Large stock of foreign debt increased vulnerability to interest rate hikes and [[Forwards and Futures Notes|currency]] value changes.
+  - Large stock of foreign debt increased vulnerability to interest rate hikes and [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) value changes.
 - **Budget and Trade Deficits**
   - Significant deficits necessitated borrowing or money printing to finance expenditures.
-- **Negative [[Real Interest Rates and Aggregate Production|Real Interest Rates]]**
-  - [[Real Interest Rates and Aggregate Production|Real interest rates]] were negative,  offering little incentive for creditors to hold German [[Forwards and Futures Notes|currency]]/debt.
-- **Historical [[War Economies and Hyperinflation|Inflation]] and [[Forwards and Futures Notes|Currency]] Trust**
-  - High [[War Economies and Hyperinflation|inflation]] and negative [[Assets|returns]] eroded trust in the mark as a store of value.
+- **Negative [Real Interest Rates](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20Interest%20Rates%20and%20Aggregate%20Production.md)**
+  - [Real interest rates](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20Interest%20Rates%20and%20Aggregate%20Production.md) were negative,  offering little incentive for creditors to hold German [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)/debt.
+- **Historical [Inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and [Currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Trust**
+  - High [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and negative [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) eroded trust in the mark as a store of value.
 
 ## 3. Impact of the Treaty of Versailles and Initial Inflation (November 1918–March 1920)
 - **Capital Flight Post-Surrender**
@@ -478,9 +478,9 @@ These detailed case studies provide a comprehensive understanding of how differe
   - Uncertainty about peace terms and liability payments fueled this exodus.
 - **Economic Consequences**
   - The mark depreciated by about 30% against the dollar.
-  - The German [[Hedge Fund Strategies|stock market]] lost nearly half its real value.
-  - [[Global Fixed Income Markets|Government debt]] in local [[Forwards and Futures Notes|currency]] rose by about 30%,  necessitating [[How Countries Go Broke-Chapter 12 to Chapter 14|central bank monetization]].
-  - Money supply increased by 50%,  driving [[War Economies and Hyperinflation|inflation]] to 30%.
+  - The German [stock market](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) lost nearly half its real value.
+  - [Government debt](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Global%20Fixed%20Income%20Markets.md) in local [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) rose by about 30%,  necessitating [central bank monetization](../How%20Countries%20Go%20Broke/How%20Countries%20Go%20Broke-Chapter%2012%20to%20Chapter%2014.md).
+  - Money supply increased by 50%,  driving [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) to 30%.
 - **Initial Optimism and Subsequent Realities**
   - Initial optimism existed that peace terms would be lenient,  with reparations limited to occupied territories and paid in goods.
   - US President Woodrow Wilson's self-determination principle led to hopes of no territorial annexations without referendums.
@@ -514,12 +514,12 @@ These detailed case studies provide a comprehensive understanding of how differe
 
 ## 5. Conclusion
 - The German post-WWI inflationary depression was driven by a combination of economic vulnerabilities and the aftermath of the Treaty of Versailles.
-- Understanding these dynamics provides insights into the causes and consequences of inflationary depressions,  highlighting the importance of economic stability and trust in [[Forwards and Futures Notes|currency]] value.
+- Understanding these dynamics provides insights into the causes and consequences of inflationary depressions,  highlighting the importance of economic stability and trust in [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) value.
 
 # German Post-WWI Economic Crisis: A Detailed Analysis
 
 ## 1. Initial Expectations and the Treaty of Versailles
-- **Pre-Treaty [[FORWARD RATES AND TERM STRUCTURE|Expectations]]**
+- **Pre-Treaty [Expectations](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md)**
   - Many Germans anticipated that post-war conditions would preserve their territory and economic capacity.
   - There was a belief that reparations would not be excessively punitive.
 - **Revelation of the Treaty Terms**
@@ -531,7 +531,7 @@ These detailed case studies provide a comprehensive understanding of how differe
 	- The German government had to honor all prewar debts to Allied creditors,  including private debts.
 - **Reparations Commission**
   - A commission was to be established in 1921 to determine the final reparations bill.
-  - Germany was to pay an interim amount equivalent to 20 billion marks in gold,  [[Futures Not Subject to Cash-And-Carry|commodities]],  ships,  securities,  and other real assets.
+  - Germany was to pay an interim amount equivalent to 20 billion marks in gold,  [commodities](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md),  ships,  securities,  and other real assets.
 - **Acceptance of Terms**
   - Germany had no choice but to accept these terms or face total occupation.
   - The treaty was signed on June 28,  1919.
@@ -540,36 +540,36 @@ These detailed case studies provide a comprehensive understanding of how differe
 - **Exchange Rate Impact**
   - The treaty's signing triggered a sharp decline in the exchange rate.
 	- The mark fell 90% against the dollar between July 1919 and January 1920.
-- **[[War Economies and Hyperinflation|Inflation]] Surge**
-  - [[War Economies and Hyperinflation|Inflation]] soared to 140% by the end of the year.
+- **[Inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) Surge**
+  - [Inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) soared to 140% by the end of the year.
   - The primary driver was capital flight,  as German citizens sought to protect their wealth.
 - **Capital Flight Dynamics**
   - Fears of high taxes and wealth confiscation led citizens to move capital out of the country.
   - The rush to convert marks into foreign currencies further weakened the mark.
-  - This dynamic is typical in countries with large foreign [[Forwards and Futures Notes|currency]]-denominated debt during a debt/[[The Balance of Payments|balance of payments]] crisis.
+  - This dynamic is typical in countries with large foreign [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)-denominated debt during a debt/[balance of payments](../../The%20Balance%20of%20Payments.md) crisis.
 
 ## 3. Debt and Currency Dynamics
 - **Impact on Debtors**
   - German debtors with external liabilities faced soaring real expenses.
-  - They rushed to pay off foreign debts,  flooding the [[Foreign Exchange Markets and Exchange Rate Determination|foreign exchange market]] and further weakening the mark.
+  - They rushed to pay off foreign debts,  flooding the [foreign exchange market](../../Foreign%20Exchange%20Markets%20and%20Exchange%20Rate%20Determination.md) and further weakening the mark.
 - **Industrialist Perspective**
   - A Hamburg industrialist noted the self-destructive nature of selling mark notes to meet obligations.
   - The mark risked becoming unusable if the trend continued.
 
 ## 4. Inflationary Depression Dynamics
 - **Cause and Effect**
-  - At this stage,  [[Inflationary Depressions and Currency Crises|currency weakness]] was driving money printing,  not the other way around.
-  - Capital flight was the primary cause of [[Inflationary Depressions and Currency Crises 1|currency depreciation]] and subsequent [[War Economies and Hyperinflation|inflation]].
+  - At this stage,  [currency weakness](../Chapters/Inflationary%20Depressions%20and%20Currency%20Crises.md) was driving money printing,  not the other way around.
+  - Capital flight was the primary cause of [currency depreciation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20I%20-%20The%20Big%20Debt%20Cycle/Inflationary%20Depressions%20and%20Currency%20Crises/Inflationary%20Depressions%20and%20Currency%20Crises%201.md) and subsequent [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md).
   - This is a classic pattern in inflationary depressions.
 - **Central Bank Dilemma**
-  - Central banks faced a choice between allowing [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] and debt markets to tighten or [[Inflationary Depressions and Currency Crises|printing money]] to fill the void.
-  - Typically,  central banks opt to print money,  causing further [[Forwards and Futures Notes|currency]] declines.
+  - Central banks faced a choice between allowing [liquidity](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) and debt markets to tighten or [printing money](../Chapters/Inflationary%20Depressions%20and%20Currency%20Crises.md) to fill the void.
+  - Typically,  central banks opt to print money,  causing further [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) declines.
 
 ## 5. Economic Implications of Currency Decline
 - **Impact on Importers and Debtors**
-  - [[Forwards and Futures Notes|Currency]] declines hurt importers and those with foreign [[Forwards and Futures Notes|currency]] debts.
+  - [Currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) declines hurt importers and those with foreign [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) debts.
 - **Stimulative Effects**
-  - Devaluations can stimulate the economy and [[Primary Issuance and Secondary Resale Markets|asset markets]] during economic weakness.
+  - Devaluations can stimulate the economy and [asset markets](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Primary%20Issuance%20and%20Secondary%20Resale%20Markets.md) during economic weakness.
   - They boost exports and profit margins by making goods cheaper on international markets.
 
 ## 6. Infographic: Economic Dynamics Post-Treaty of Versailles
@@ -605,7 +605,7 @@ These detailed case studies provide a comprehensive understanding of how differe
 
 ## 7. Conclusion
 - The harsh terms of the Treaty of Versailles and subsequent economic policies led to a severe inflationary depression in Germany.
-- Understanding these dynamics provides insights into the challenges faced by economies during periods of significant external debt and [[Forwards and Futures Notes|currency]] instability.
+- Understanding these dynamics provides insights into the challenges faced by economies during periods of significant external debt and [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) instability.
 
 # Economic Dynamics of Currency Devaluation and Inflation in Post-WWI Germany
 
@@ -614,25 +614,25 @@ These detailed case studies provide a comprehensive understanding of how differe
   - Devaluation makes imports more expensive.
 	- This supports domestic industries by encouraging consumers to buy locally produced goods.
 - **Asset Valuation and Capital Inflows**
-  - Devaluation increases the value of assets when measured in local [[Forwards and Futures Notes|currency]].
-  - It attracts foreign capital as financial assets become cheaper in global [[Forwards and Futures Notes|currency]] terms.
+  - Devaluation increases the value of assets when measured in local [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md).
+  - It attracts foreign capital as financial assets become cheaper in global [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) terms.
 
 ## 2. Economic Boost from Currency Decline (July 1919 - March 1920)
 - **Economic Indicators**
-  - The decline in the mark and negative [[Real Interest Rates and Aggregate Production|real interest rates]] boosted the German economy.
+  - The decline in the mark and negative [real interest rates](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20Interest%20Rates%20and%20Aggregate%20Production.md) boosted the German economy.
   - Equity and commodity markets experienced growth.
 - **Export Industry and Employment**
   - The export industry thrived,  leading to a decline in unemployment.
   - Real wages remained low,  improving business profitability.
   - Unemployment statistics,  though limited to trade union members,  indicated improving employment conditions.
-- **[[The Balance of Payments|Balance of Payments]] Hopes**
-  - There was hope that encouraging exports and discouraging imports would stabilize the [[The Balance of Payments|balance of payments]].
-  - A prominent German official expressed optimism that the devalued [[Forwards and Futures Notes|currency]] would improve trade relations and [[US Debt Crisis and Adjustment (2007–2011)|economic conditions]].
+- **[Balance of Payments](../../The%20Balance%20of%20Payments.md) Hopes**
+  - There was hope that encouraging exports and discouraging imports would stabilize the [balance of payments](../../The%20Balance%20of%20Payments.md).
+  - A prominent German official expressed optimism that the devalued [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) would improve trade relations and [economic conditions](../Chapters/US%20Debt%20Crisis%20and%20Adjustment%20(2007–2011).md).
 
 ## 3. Policy Responses to Economic Challenges
 - **Domestic Debt and Fiscal Deficit Management**
   - Policymakers considered strategies to address domestic debt and fiscal deficits.
-  - The "Erzberger [[Note on The Dodd-Frank Act and Its Impact|Financial Reform]]" was proposed to raise revenues through progressive taxation.
+  - The "Erzberger [Financial Reform](../../../Course%20Notes/HBR%20Notes/Note%20on%20The%20Dodd-Frank%20Act%20and%20Its%20Impact.md)" was proposed to raise revenues through progressive taxation.
 	- Aimed to transfer wealth from the "haves" to the "have-nots."
 	- Top income tax rates approached 60%,  and wealth taxes reached 65%.
 - **Erzberger Reforms Implementation**
@@ -640,19 +640,19 @@ These detailed case studies provide a comprehensive understanding of how differe
   - Prior to reforms,  government revenue primarily came from public enterprises and specific duties.
 
 ## 4. Inflation as an Economic Strategy
-- **[[Inflationary Depressions and Currency Crises|Currency Weakness]] and [[War Economies and Hyperinflation|Inflation]] Advocacy**
-  - Some policymakers advocated for [[Inflationary Depressions and Currency Crises|currency weakness]] and [[War Economies and Hyperinflation|inflation]] as alternatives to heavy taxation.
-  - Dr. Friedrich Bendixen argued that [[War Economies and Hyperinflation|inflation]] could cleanse Germany of local [[Forwards and Futures Notes|currency]] war debts.
+- **[Currency Weakness](../Chapters/Inflationary%20Depressions%20and%20Currency%20Crises.md) and [Inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) Advocacy**
+  - Some policymakers advocated for [currency weakness](../Chapters/Inflationary%20Depressions%20and%20Currency%20Crises.md) and [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) as alternatives to heavy taxation.
+  - Dr. Friedrich Bendixen argued that [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) could cleanse Germany of local [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) war debts.
 	- Suggested that transforming war loans into money would prevent economic collapse.
-- **Central Bank's Stance on [[War Economies and Hyperinflation|Inflation]]**
-  - The central bank rejected the explicit [[War Economies and Hyperinflation|inflation]] strategy but acknowledged its potential inevitability.
-  - [[War Economies and Hyperinflation|Inflation]] climbed to nearly 200%,  reducing the domestic war-debt burden significantly.
+- **Central Bank's Stance on [Inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)**
+  - The central bank rejected the explicit [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) strategy but acknowledged its potential inevitability.
+  - [Inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) climbed to nearly 200%,  reducing the domestic war-debt burden significantly.
 
 ## 5. Wealth Preservation and Monetary Policy Alternatives
 - **Wealth Preservation Efforts**
-  - Wealthy individuals scrambled to buy foreign currencies or real assets to protect their wealth from [[War Economies and Hyperinflation|inflation]].
+  - Wealthy individuals scrambled to buy foreign currencies or real assets to protect their wealth from [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md).
 - **Central Bank's Alternative Strategy**
-  - Proposed tightening [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.6 [[A Preview of Alternative Formulations|Asset price]] reactions to [[The Economist Regime Change|monetary policy]] surprises|[[The Economist Regime Change|monetary policy]]]] to engineer a deflationary recession.
+  - Proposed tightening [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.6 [Asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) reactions to [monetary policy](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) surprises|[monetary policy](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md)]] to engineer a deflationary recession.
 	- This would allow repayment closer to the true value of loaned wealth.
 	- However,  it risked crushing domestic credit creation and demand,  leading to significant unemployment.
 
@@ -681,15 +681,15 @@ These detailed case studies provide a comprehensive understanding of how differe
 ```
 
 ## 7. Conclusion
-- The post-WWI German economic landscape was shaped by [[Forwards and Futures Notes|currency]] devaluation,  [[War Economies and Hyperinflation|inflation]],  and policy responses.
+- The post-WWI German economic landscape was shaped by [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) devaluation,  [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md),  and policy responses.
 - Understanding these dynamics provides insights into the challenges and strategies employed to navigate economic instability and debt burdens.
 
 # Economic Dynamics in Post-WWI Germany: A Detailed Analysis
 
 ## 1. Introduction to Economic Dilemmas and Redistribution Policies
 - **Germany's Economic Dilemma**
-  - Germany faced a classic economic dilemma: whether to support creditors (long the [[Forwards and Futures Notes|currency]]) or debtors (short the [[Forwards and Futures Notes|currency]]).
-	- Creditors held debt denominated in the [[Forwards and Futures Notes|currency]],  while debtors owed it.
+  - Germany faced a classic economic dilemma: whether to support creditors (long the [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)) or debtors (short the [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)).
+	- Creditors held debt denominated in the [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md),  while debtors owed it.
 - **Redistribution Policies in Economic Crises**
   - Economic crises often lead to policies that redistribute wealth from "haves" to "have-nots."
 	- The intolerable conditions of the "have-nots" and their numerical superiority drive these policies.
@@ -702,20 +702,20 @@ These detailed case studies provide a comprehensive understanding of how differe
 - **Spread of Communist Ideas**
   - The 1917 Communist revolution in Russia influenced global political ideologies.
   - Communist ideas were gaining traction,  adding to the political tensions.
-- **Keynesian Perspective on [[War Economies and Hyperinflation|Inflation]] vs. Deflation**
-  - John Maynard Keynes commented on the choice between [[War Economies and Hyperinflation|inflation]] and deflation.
-	- He argued that [[War Economies and Hyperinflation|inflation]] is unjust,  but deflation is worse due to its impact on unemployment.
+- **Keynesian Perspective on [Inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) vs. Deflation**
+  - John Maynard Keynes commented on the choice between [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and deflation.
+	- He argued that [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) is unjust,  but deflation is worse due to its impact on unemployment.
 	- In an impoverished world,  provoking unemployment is more detrimental than disappointing capitalists.
 
 ## 3. Economic Reforms and Stabilization Efforts
-- **[[War Economies and Hyperinflation|Inflation]] and Economic Activity**
+- **[Inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and Economic Activity**
   - By late 1919/early 1920,  Germany had inflated away most of its domestic debt.
   - A comprehensive tax-reform package was passed to generate new revenues.
   - Economic activity began to pick up,  signaling a potential recovery.
 - **Reparations and International Relations**
   - The Allies invited Germany to propose its own reparation bill,  easing tensions.
   - Critics of harsh settlements,  like Keynes,  gained sympathy in official circles abroad.
-  - The exchange rate began to stabilize,  reflecting improved [[US Debt Crisis and Adjustment (2007–2011)|economic conditions]].
+  - The exchange rate began to stabilize,  reflecting improved [economic conditions](../Chapters/US%20Debt%20Crisis%20and%20Adjustment%20(2007–2011).md).
 
 ## 4. Political Instability and the Kapp Putsch
 - **Intense Left-Right Conflicts**
@@ -735,7 +735,7 @@ These detailed case studies provide a comprehensive understanding of how differe
 	- The mark's decline halted,  prices stabilized,  and the economy outperformed other developed nations.
 - **Global Economic Context**
   - The global backdrop was one of severe contraction due to tightening monetary policies in the US and UK.
-  - Those [[Short Selling|shorting]] the mark,  including Keynes,  incurred significant losses.
+  - Those [shorting](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Short%20Selling.md) the mark,  including Keynes,  incurred significant losses.
 
 ## 6. Infographic: Economic Dynamics and Political Climate Post-WWI
 ```markdown
@@ -764,7 +764,7 @@ These detailed case studies provide a comprehensive understanding of how differe
 ```
 
 ## 7. Conclusion
-- Post-WWI Germany navigated complex economic and political challenges,  balancing [[War Economies and Hyperinflation|inflation]],  debt reduction,  and political instability.
+- Post-WWI Germany navigated complex economic and political challenges,  balancing [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md),  debt reduction,  and political instability.
 - Understanding these dynamics provides insights into the interplay between economic policies,  political ideologies,  and international relations during periods of crisis.
 
 # Economic Dynamics in Post-WWI Germany: 1920-1921
@@ -778,13 +778,13 @@ These detailed case studies provide a comprehensive understanding of how differe
 	- 22% in the US.
 	- 11.8% in the UK.
   - **Source**: Global Financial Data
-- **Reichsbank's [[The Economist Regime Change|Monetary Policy]]**
-  - Unlike other central banks,  the Reichsbank maintained an easy [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.6 [[A Preview of Alternative Formulations|Asset price]] reactions to [[The Economist Regime Change|monetary policy]] surprises|[[The Economist Regime Change|monetary policy]]]].
-	- The [[PSET 7- Kohler|discount rate]] remained at 5% until 1922.
-	- Regular interventions were made to inject [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] when credit conditions tightened.
+- **Reichsbank's [Monetary Policy](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md)**
+  - Unlike other central banks,  the Reichsbank maintained an easy [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.6 [Asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) reactions to [monetary policy](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) surprises|[monetary policy](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md)]].
+	- The [discount rate](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) remained at 5% until 1922.
+	- Regular interventions were made to inject [liquidity](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) when credit conditions tightened.
   - **Example**: In spring 1921,  the Reichsbank accelerated its purchases of commercial bills from 3.1% to 9% of bills outstanding.
-- **[[The Economist Regime Change|Fiscal Policy]]**
-  - [[The Economist Regime Change|Fiscal policy]] remained accommodative.
+- **[Fiscal Policy](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md)**
+  - [Fiscal policy](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) remained accommodative.
 	- Real expenditures (excluding reparations) rose in 1920 and 1921.
 	- The budget deficit,  although narrowed,  remained substantial at roughly 10% of GDP.
 	- Continued financing through the issuance of floating debt.
@@ -795,26 +795,26 @@ These detailed case studies provide a comprehensive understanding of how differe
 
 ## 2. Inflationary and Deflationary Dynamics
 - **Offsetting Inflationary Pressures**
-  - Rising economic activity and reflationary policies did not result in significant [[War Economies and Hyperinflation|inflation]] between March 1920 and May 1921.
+  - Rising economic activity and reflationary policies did not result in significant [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) between March 1920 and May 1921.
   - Domestic inflationary pressures were offset by global deflationary forces.
 	- Import prices from the US and UK fell by about 50%.
-	- Rising [[Chapter 14- Capital Flows and the Current Account|capital flows]] into Germany helped stabilize the [[Forwards and Futures Notes|currency]],  allowing for slower money supply growth.
-- **[[Forwards and Futures Notes|Currency]] and [[War Economies and Hyperinflation|Inflation]] Trends**
-  - The mark rallied,  and [[War Economies and Hyperinflation|inflation]] declined.
+	- Rising [capital flows](../../Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md) into Germany helped stabilize the [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md),  allowing for slower money supply growth.
+- **[Currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) and [Inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) Trends**
+  - The mark rallied,  and [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) declined.
   - By early 1921,  prices stopped rising for the first time since 1914.
   - Optimism about the German economy increased abroad,  attracting foreign investments.
 
 ## 3. Capital Inflows and Economic Implications
 - **Speculative Capital Inflows**
-  - Germany became a hot economy for [[An Asset Allocation Primer|investment]],  with significant foreign capital inflows.
+  - Germany became a hot economy for [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md),  with significant foreign capital inflows.
   - Speculative inflows were seen as a "tremendous" bubble,  with Keynes calling it "the greatest ever known."
   - Many new buyers had no prior market experience,  a classic sign of a bubble.
 - **Foreign Ownership in German Banks**
   - By 1921,  almost a third of all deposits in the seven largest German banks were foreign-owned.
   - These inflows supported the stabilization of the mark.
 - **Central Bank's Role and Economic Dependence**
-  - Capital inflows reduced the trade-offs between growth and [[War Economies and Hyperinflation|inflation]] for the central bank.
-  - Inflows tend to lower [[War Economies and Hyperinflation|inflation]] and stimulate growth,  while outflows do the opposite.
+  - Capital inflows reduced the trade-offs between growth and [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) for the central bank.
+  - Inflows tend to lower [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and stimulate growth,  while outflows do the opposite.
   - The German economy became increasingly dependent on "hot money" to finance fiscal and external deficits.
 
 ## 4. Risks and Fragility of Economic Recovery
@@ -826,7 +826,7 @@ These detailed case studies provide a comprehensive understanding of how differe
   - A falling mark was considered essential for:
 	- Maintaining export competitiveness.
 	- Supporting employment growth.
-	- Building a savings pool of hard [[Forwards and Futures Notes|currency]] earnings.
+	- Building a savings pool of hard [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) earnings.
 
 ## 5. Infographic: Economic Dynamics in Post-WWI Germany
 ```markdown
@@ -835,7 +835,7 @@ These detailed case studies provide a comprehensive understanding of how differe
   - Rising unemployment rates
 
 - **Reichsbank's Monetary Policy**
-  - Easy [[Lecture 7-Risk and Return of Bonds#7.6 Asset price reactions to monetary policy surprises|monetary policy]]
+  - Easy [](../../../Advanced%20Investments/Lecture%207-Risk%20and%20Return%20of%20Bonds.md#7.6%20Asset%20price%20reactions%20to%20monetary%20policy%20surprises|monetary%20policy)
   - Liquidity injections
 
 - **Fiscal Policy**
@@ -879,13 +879,13 @@ These detailed case studies provide a comprehensive understanding of how differe
 	- The mark fell,  restoring competitiveness.
 	- Unemployment began to decline once again.
 - **Concerns Over Deflationary Forces**
-  - German policymakers were more concerned about deflationary forces than [[War Economies and Hyperinflation|inflation]].
-	- Rising unemployment and potential social unrest were seen as more threatening than [[War Economies and Hyperinflation|inflation]].
+  - German policymakers were more concerned about deflationary forces than [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md).
+	- Rising unemployment and potential social unrest were seen as more threatening than [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md).
   - **Reconstruction Minister's Perspective**
 	- The minister expressed a willingness to allow more money printing to prevent a crisis similar to that in England.
 	- The goal was to build a "dam against the crisis" through economic activity.
 - **Dependence on Speculative Inflows**
-  - The stabilization of the mark and [[US Debt Crisis and Adjustment (2007–2011)|economic conditions]] relied heavily on speculative inflows and a stable [[The Balance of Payments|balance of payments]].
+  - The stabilization of the mark and [economic conditions](../Chapters/US%20Debt%20Crisis%20and%20Adjustment%20(2007–2011).md) relied heavily on speculative inflows and a stable [balance of payments](../../The%20Balance%20of%20Payments.md).
 
 ## 2. The London Ultimatum (May 1921)
 - **Reparations and Threats**
@@ -899,21 +899,21 @@ These detailed case studies provide a comprehensive understanding of how differe
 - **Economic and Investor Reactions**
   - The reparations were enormous,  dashing hopes for a conciliatory agreement.
   - The payment structure was unsettling for investors and the German public.
-	- [[Notes on Currency Swaps|Debt service]] burdens were expected to increase if [[US Debt Crisis and Adjustment (2007–2011)|economic conditions]] improved.
+	- [Debt service](../../../Financial%20Engineering/Notes%20on%20Currency%20Swaps.md) burdens were expected to increase if [economic conditions](../Chapters/US%20Debt%20Crisis%20and%20Adjustment%20(2007–2011).md) improved.
   - **Comparative Context**
-	- Germany's hard [[Forwards and Futures Notes|currency]] debts dwarfed those of other economies entering major inflationary depressions.
+	- Germany's hard [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) debts dwarfed those of other economies entering major inflationary depressions.
 	- Charts showed Germany's debt as a percentage of GDP from 1914 to 1922.
 
 ## 3. Economic Consequences of the Ultimatum
-- **[[Forwards and Futures Notes|Currency]] and [[War Economies and Hyperinflation|Inflation]] Impact**
+- **[Currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) and [Inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) Impact**
   - The announcement of the reparation burden led to a sell-off of the mark.
 	- The mark declined by 75% by the end of the year.
-	- [[War Economies and Hyperinflation|Inflation]] returned,  with prices nearly doubling over the same period.
-- **[[The Balance of Payments|Balance of Payments]] Crisis**
-  - The reparation schedule created a [[The Balance of Payments|balance of payments]] crisis.
+	- [Inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) returned,  with prices nearly doubling over the same period.
+- **[Balance of Payments](../../The%20Balance%20of%20Payments.md) Crisis**
+  - The reparation schedule created a [balance of payments](../../The%20Balance%20of%20Payments.md) crisis.
 	- This crisis was akin to serious financial problems faced by individuals,  households,  and corporations in making payments.
   - **Prominent German Perspective**
-	- A participant at Versailles expressed that burdening a country with debts while depriving it of payment means would lead to [[Forwards and Futures Notes|currency]] collapse.
+	- A participant at Versailles expressed that burdening a country with debts while depriving it of payment means would lead to [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) collapse.
 	- The peace treaty's maintenance in its current form was seen as unsustainable.
 
 ## 4. Infographic: Economic Dynamics and the London Ultimatum
@@ -950,7 +950,7 @@ These detailed case studies provide a comprehensive understanding of how differe
 	 - Borrow funds or use existing savings.
   1. **Default or Seek Relief**
 	 - Negotiate with creditors for debt relief or default on obligations.
-- Unlike domestic war loans,  Germany's reparation debts were not denominated in paper marks,  preventing debt monetization through [[Forwards and Futures Notes|currency]] devaluation.
+- Unlike domestic war loans,  Germany's reparation debts were not denominated in paper marks,  preventing debt monetization through [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) devaluation.
 
 ## 2. Challenges of Cutting Government Spending
 - **Political and Social Implications**
@@ -978,7 +978,7 @@ These detailed case studies provide a comprehensive understanding of how differe
 - **Limited Savings and Lending Options**
   - Germany had virtually no savings to draw upon for debt servicing.
   - The Treaty of Versailles had seized or frozen Germany's prewar foreign holdings and canceled debts owed to Germans.
-  - Exporters with foreign [[Forwards and Futures Notes|currency]] savings were incentivized to keep earnings abroad to avoid potential government seizure.
+  - Exporters with foreign [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) savings were incentivized to keep earnings abroad to avoid potential government seizure.
   - The central bank's gold reserves were insufficient to cover even the first interest payment.
   - International appetite for extending credit to Germany was minimal due to:
 	- Developed economies burdened by their own war debts,  primarily owed to the United States.
@@ -1022,33 +1022,33 @@ These detailed case studies provide a comprehensive understanding of how differe
 ## 1. Introduction to Germany's Creditworthiness Challenges
 - **Lack of Creditworthiness**
   - The German government and most Germans were not considered creditworthy by international standards.
-  - **Example**: The head of the Reichsbank was refused a 500 million gold mark short-term loan by the [[Reflections On Modern Bank Runs a Case Study of Northern Rock|Bank of England]].
+  - **Example**: The head of the Reichsbank was refused a 500 million gold mark short-term loan by the [Bank of England](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Reflections%20On%20Modern%20Bank%20Runs%20a%20Case%20Study%20of%20Northern%20Rock.md).
 	- The British Chancellor of the Exchequer highlighted a "vicious circle":
-	  - Germany needed a foreign loan to stop [[Inflationary Depressions and Currency Crises|printing money]] and repay obligations.
+	  - Germany needed a foreign loan to stop [printing money](../Chapters/Inflationary%20Depressions%20and%20Currency%20Crises.md) and repay obligations.
 	  - However,  it couldn't secure a loan without first demonstrating the ability to meet its obligations.
 - **Constraints on Defaulting**
   - Unilateral default on debt was not an option due to the threat of invasion.
   - German leaders attempted to renegotiate payments,  but post-war bitterness,  especially from France,  hindered concessions.
 
 ## 2. Currency Management as a Lever in Balance of Payments Crisis
-- **[[Forwards and Futures Notes|Currency]] Manipulation**
-  - Unlike households,  countries can alter the amount of existing [[Forwards and Futures Notes|currency]],  affecting its value.
-  - This provides an additional tool for managing [[The Balance of Payments|balance of payments]] crises.
-- **Policy Options for [[Forwards and Futures Notes|Currency]] Defense**
-  - The Reichsbank could raise rates and tighten credit to defend the [[Forwards and Futures Notes|currency]].
-	- This would increase [[Assets|returns]] on mark-denominated assets,  attracting foreign capital and discouraging domestic capital flight.
-	- However,  it would also severely contract domestic demand,  reduce imports,  and help close the [[Chapter 14- Capital Flows and the Current Account|trade deficit]].
+- **[Currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Manipulation**
+  - Unlike households,  countries can alter the amount of existing [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md),  affecting its value.
+  - This provides an additional tool for managing [balance of payments](../../The%20Balance%20of%20Payments.md) crises.
+- **Policy Options for [Currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Defense**
+  - The Reichsbank could raise rates and tighten credit to defend the [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md).
+	- This would increase [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) on mark-denominated assets,  attracting foreign capital and discouraging domestic capital flight.
+	- However,  it would also severely contract domestic demand,  reduce imports,  and help close the [trade deficit](../../Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md).
 	- Such a contraction was deemed intolerable for the impoverished and conflict-ridden German society.
-- **Alternative Strategy: [[Inflationary Depressions and Currency Crises 1|Currency Depreciation]]**
-  - The remaining option was to allow [[Inflationary Depressions and Currency Crises 1|currency depreciation]] and print money to alleviate [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] tightening from capital flight.
+- **Alternative Strategy: [Currency Depreciation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20I%20-%20The%20Big%20Debt%20Cycle/Inflationary%20Depressions%20and%20Currency%20Crises/Inflationary%20Depressions%20and%20Currency%20Crises%201.md)**
+  - The remaining option was to allow [currency depreciation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20I%20-%20The%20Big%20Debt%20Cycle/Inflationary%20Depressions%20and%20Currency%20Crises/Inflationary%20Depressions%20and%20Currency%20Crises%201.md) and print money to alleviate [liquidity](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) tightening from capital flight.
 
 ## 3. Dynamics of Hyperinflationary Spirals
 - **Characteristics of Hyperinflation**
-  - Hyperinflation occurs when policymakers fail to close the gap between income and spending/[[Notes on Currency Swaps|debt service]].
+  - Hyperinflation occurs when policymakers fail to close the gap between income and spending/[debt service](../../../Financial%20Engineering/Notes%20on%20Currency%20Swaps.md).
   - Instead,  they sustain spending by printing excessive amounts of money over time.
-  - **[[The Balance of Payments|Balance of Payments]] Crisis**
+  - **[Balance of Payments](../../The%20Balance%20of%20Payments.md) Crisis**
 	- Targeted money printing can be beneficial if not overused,  as it prevents severe economic contraction.
-	- Excessive money printing and severe [[Forwards and Futures Notes|currency]] devaluation,  without balancing deflationary measures like austerity and [[Class Slide 4-[[Class Slide 4-Restructuring Debt Outside Bankruptcy|Restructuring Debt Outside Bankruptcy]]|[[Class Slide 4-Restructuring Debt Outside Bankruptcy|Debt Restructuring]] ]],  lead to severe inflationary depressions.
+	- Excessive money printing and severe [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) devaluation,  without balancing deflationary measures like austerity and [Restructuring Debt Outside Bankruptcy](Class%20Slide%204-[[Class%20Slide%204-Restructuring%20Debt%20Outside%20Bankruptcy)|[Debt Restructuring](../../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%204-%20Restructuring%20Public%20Debt/Class%20Slide%204-Restructuring%20Debt%20Outside%20Bankruptcy.md) ]],  lead to severe inflationary depressions.
 - **German Policy Response**
   - The reparation schedule and difficulty in using other economic levers pushed Germany to rely on money printing.
   - Policymakers recognized the inflationary impact but considered it the least detrimental option.
@@ -1057,9 +1057,9 @@ These detailed case studies provide a comprehensive understanding of how differe
 ## 4. June 1921–December 1921: The Emerging Inflationary Spiral
 - **Emergence of Inflationary Spiral**
   - The latter half of 1921 saw classic inflationary spiral dynamics.
-  - Germany's foreign debt obligations contributed to [[Forwards and Futures Notes|currency]] declines,  causing [[War Economies and Hyperinflation|inflation]] and [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] crises.
-  - The central bank responded by [[Inflationary Depressions and Currency Crises|printing money]] and buying debt to prevent commerce contraction.
-  - This triggered further capital flight,  [[War Economies and Hyperinflation|inflation]],  [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] tightening,  and more money printing,  accelerating the spiral.
+  - Germany's foreign debt obligations contributed to [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) declines,  causing [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and [liquidity](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) crises.
+  - The central bank responded by [printing money](../Chapters/Inflationary%20Depressions%20and%20Currency%20Crises.md) and buying debt to prevent commerce contraction.
+  - This triggered further capital flight,  [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md),  [liquidity](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) tightening,  and more money printing,  accelerating the spiral.
 - **Central Bank's Role and Gold Reserves**
   - The central bank depleted significant gold reserves to cover initial reparation payments.
   - The spiral was relatively contained compared to future developments,  partly due to continued foreign support for German assets.
@@ -1086,7 +1086,7 @@ These detailed case studies provide a comprehensive understanding of how differe
 
 ## 6. Conclusion
 - Germany's post-WWI economic challenges were exacerbated by its lack of creditworthiness and reliance on money printing to manage reparation payments.
-- The emerging inflationary spiral highlighted the complex interplay between foreign debt obligations,  [[Forwards and Futures Notes|currency]] management,  and domestic economic stability.
+- The emerging inflationary spiral highlighted the complex interplay between foreign debt obligations,  [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) management,  and domestic economic stability.
 - Understanding these dynamics provides insights into the causes and consequences of hyperinflationary depressions.
 
 # Economic Dynamics in Post-WWI Germany: Inflationary Pressures and Economic Responses
@@ -1094,7 +1094,7 @@ These detailed case studies provide a comprehensive understanding of how differe
 ## 1. Introduction to Inflationary Pressures and Currency Decline
 - **Reparation Payments and Capital Flight**
   - Reparation payments and local capital flight caused the German mark to decline by 75% over a specific period.
-  - [[War Economies and Hyperinflation|Inflation]] accelerated,  approaching 100% per annum.
+  - [Inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) accelerated,  approaching 100% per annum.
 - **Impact of Upper Silesia Decision**
   - The sharpest declines in the mark occurred in October 1921.
   - This followed the League of Nations' decision to cede Upper Silesia,  an important coal mining and industrial region,  to Poland.
@@ -1102,12 +1102,12 @@ These detailed case studies provide a comprehensive understanding of how differe
 
 ## 2. Consumer Behavior and Retail Dynamics
 - **Surge in Retail Purchases**
-  - Rising [[War Economies and Hyperinflation|inflation]] led to a surge in retail purchases.
+  - Rising [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) led to a surge in retail purchases.
   - This increase in demand was not indicative of economic growth but rather a flight of income and savings into real goods to preserve purchasing power.
 - **Descriptions of Retail Activity**
   - The American Council of Hamburg noted a "vast amount of retail buying."
   - The *Hamburgische Correspondent* described a "monstrous lust for goods."
-  - The situation was characterized as "general liquidation,  " with foreigners buying due to the cheap mark and Germans buying to escape [[War Economies and Hyperinflation|inflation]].
+  - The situation was characterized as "general liquidation,  " with foreigners buying due to the cheap mark and Germans buying to escape [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md).
 - **Retailer Reactions**
   - A Berlin official reported shock at the "plundering of retailers by foreigners with highly valued currencies."
   - A British observer noted that many shops declared themselves sold out,  closed during the afternoon,  and limited sales to one article per customer.
@@ -1118,22 +1118,22 @@ These detailed case studies provide a comprehensive understanding of how differe
   - The same inflationary pressures led to a massive increase in consumer-durable and real-asset purchases.
   - Auto sales reached all-time highs,  textile trade bookings were months in advance,  and cotton firms refused new orders.
   - Most industries operated at full capacity,  introducing overtime to meet demand.
-- **Flight into [[War Economies and Hyperinflation|Inflation]]-Hedge Assets**
-  - This burst of economic activity was not a sign of prosperity but a classic flight into [[War Economies and Hyperinflation|inflation]]-hedge assets.
-  - A Bavarian official noted that [[The Fall of Bear Stearns Lost Opportunities Haunt Final Days of Bear Stearns; Executives Bickeredover Raising Cash Cutting Mortgages|the fall]] of the mark caused anxiety among the propertied classes,  leading to widespread purchasing to convert paper money into tangible goods.
+- **Flight into [Inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)-Hedge Assets**
+  - This burst of economic activity was not a sign of prosperity but a classic flight into [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)-hedge assets.
+  - A Bavarian official noted that [the fall](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Fall%20of%20Bear%20Stearns%20Lost%20Opportunities%20Haunt%20Final%20Days%20of%20Bear%20Stearns;%20Executives%20Bickeredover%20Raising%20Cash%20Cutting%20Mortgages.md) of the mark caused anxiety among the propertied classes,  leading to widespread purchasing to convert paper money into tangible goods.
 
 ## 4. Monetary Policy and Borrowing Dynamics
 - **Central Bank Interest Rate Policy**
-  - The central bank kept market [[Interest Rate Quotations|interest rates]] anchored at 5% by increasing purchases when [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] tightened.
-  - With [[War Economies and Hyperinflation|inflation]] generally 10 times higher,  the real return on lending became unattractive,  and the real cost of borrowing plummeted.
-- **Surge in Borrowing and [[An Asset Allocation Primer|Investment]]**
+  - The central bank kept market [interest rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) anchored at 5% by increasing purchases when [liquidity](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) tightened.
+  - With [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) generally 10 times higher,  the real return on lending became unattractive,  and the real cost of borrowing plummeted.
+- **Surge in Borrowing and [Investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)**
   - The unattractive real lending rates led to a surge in borrowing,  making it extremely attractive.
-  - Real [[An Asset Allocation Primer|investment]] reached prewar highs,  and monthly [[Course Notes/HBR Notes/A Strategic Perspective on Bankruptcy|bankruptcy]] rates declined by 75%.
-  - However,  much of this [[An Asset Allocation Primer|investment]] was not productive,  as firms invested in capital for its intrinsic value rather than use value.
-- **Consequences of [[An Asset Allocation Primer|Investment]] Behavior**
+  - Real [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) reached prewar highs,  and monthly [bankruptcy](../../../Course%20Notes/HBR%20Notes/A%20Strategic%20Perspective%20on%20Bankruptcy.md) rates declined by 75%.
+  - However,  much of this [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) was not productive,  as firms invested in capital for its intrinsic value rather than use value.
+- **Consequences of [Investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Behavior**
   - Firms that retained wealth in debt assets,  such as bonds,  suffered devastating losses.
-  - This period was termed the "flight from the mark to the machine,  " resulting in excessive investments that performed poorly post-[[War Economies and Hyperinflation|inflation]].
-  - The [[An Asset Allocation Primer|investment]] surge accelerated [[War Economies and Hyperinflation|inflation]] and reinforced the inflationary spiral.
+  - This period was termed the "flight from the mark to the machine,  " resulting in excessive investments that performed poorly post-[inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md).
+  - The [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) surge accelerated [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and reinforced the inflationary spiral.
 
 ## 5. Labor Market Dynamics and Wage Pressures
 - **Employment and Bargaining Power**
@@ -1168,18 +1168,18 @@ These detailed case studies provide a comprehensive understanding of how differe
 ```
 
 ## 7. Conclusion
-- The post-WWI period in Germany was marked by significant inflationary pressures,  driven by reparation payments,  capital flight,  and [[Inflationary Depressions and Currency Crises 1|currency depreciation]].
-- Consumer behavior shifted towards purchasing real goods and assets as a hedge against [[War Economies and Hyperinflation|inflation]],  while [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.6 [[A Preview of Alternative Formulations|Asset price]] reactions to [[The Economist Regime Change|monetary policy]] surprises|[[The Economist Regime Change|monetary policy]]]] and borrowing dynamics further fueled the inflationary spiral.
+- The post-WWI period in Germany was marked by significant inflationary pressures,  driven by reparation payments,  capital flight,  and [currency depreciation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20I%20-%20The%20Big%20Debt%20Cycle/Inflationary%20Depressions%20and%20Currency%20Crises/Inflationary%20Depressions%20and%20Currency%20Crises%201.md).
+- Consumer behavior shifted towards purchasing real goods and assets as a hedge against [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md),  while [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.6 [Asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) reactions to [monetary policy](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) surprises|[monetary policy](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md)]] and borrowing dynamics further fueled the inflationary spiral.
 - Understanding these dynamics provides insights into the complex interplay between economic policies,  consumer behavior,  and labor market conditions during periods of hyperinflation.
 
 # Economic Dynamics in Post-WWI Germany: Inflation,  Exports,  and Speculation
 
 ## 1. Introduction to Economic Gains and Challenges
 - **Real Income Decline Despite Wage Gains**
-  - Workers experienced nominal wage increases,  but these were insufficient to match [[War Economies and Hyperinflation|inflation]].
+  - Workers experienced nominal wage increases,  but these were insufficient to match [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md).
 	- Real incomes fell by approximately 30%.
 	- This exacerbated tensions between the "haves" and the "have-nots."
-- **Export Sector Benefits from [[Forwards and Futures Notes|Currency]] Collapse**
+- **Export Sector Benefits from [Currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Collapse**
   - The export sector was the only clear beneficiary of the mark's collapse.
 	- Foreign sales increased as German goods became cheaper internationally.
   - **Limitations on Export Gains**
@@ -1187,25 +1187,25 @@ These detailed case studies provide a comprehensive understanding of how differe
 	- Declining labor costs in other developed countries,  due to global recession-induced deflation,  reduced competitiveness advantages from the depreciating mark.
 
 ## 2. Stock Market Speculation and Economic Instability
-- **Speculative Boom in the [[Hedge Fund Strategies|Stock Market]]**
-  - The second half of 1921 saw a speculative frenzy in the [[Hedge Fund Strategies|stock market]].
-	- Stock values nearly tripled in [[War Economies and Hyperinflation|inflation]]-adjusted terms.
+- **Speculative Boom in the [Stock Market](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md)**
+  - The second half of 1921 saw a speculative frenzy in the [stock market](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md).
+	- Stock values nearly tripled in [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)-adjusted terms.
 	- The Berlin stock exchange faced such high order volumes that it shut down three times a week.
 	- By November,  trading days were reduced to one per week,  and banks limited share orders.
 - **Widespread Participation in Speculation**
   - Speculation was pervasive across all social strata.
-	- Individuals from various backgrounds engaged in [[Hedge Fund Strategies|stock market]] activities.
-	- The [[Hedge Fund Strategies|stock market]] was viewed as a means to escape the depreciating mark.
+	- Individuals from various backgrounds engaged in [stock market](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) activities.
+	- The [stock market](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) was viewed as a means to escape the depreciating mark.
 - **Drivers of the Bull Market**
-  - The bull market was not driven by improving economic [[Week 2 Fundamentals Of Forecasting|fundamentals]].
+  - The bull market was not driven by improving economic [fundamentals](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md).
 	- It was a reaction to escape holding money,  with investors seeking to acquire real assets.
-	- [[Hedge Fund Strategies|Stock market]] speculation was seen as an organized flight from the mark.
+	- [Stock market](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) speculation was seen as an organized flight from the mark.
 
 ## 3. Economic and Political Threats
-- **Deteriorating [[US Debt Crisis and Adjustment (2007–2011)|Economic Conditions]]**
-  - By the end of 1921,  [[US Debt Crisis and Adjustment (2007–2011)|economic conditions]] worsened,  with [[War Economies and Hyperinflation|inflation]] nearing 100%.
+- **Deteriorating [Economic Conditions](../Chapters/US%20Debt%20Crisis%20and%20Adjustment%20(2007–2011).md)**
+  - By the end of 1921,  [economic conditions](../Chapters/US%20Debt%20Crisis%20and%20Adjustment%20(2007–2011).md) worsened,  with [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) nearing 100%.
   - The lack of confidence in the mark and rising prices threatened economic and political stability.
-- **Foreign [[An Asset Allocation Primer|Investment]] as a Stabilizing Factor**
+- **Foreign [Investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) as a Stabilizing Factor**
   - Foreigners continued to purchase marks and fund Germany's external deficit,  preventing total collapse.
 	- Despite domestic loss of confidence,  foreign investments in German assets persisted.
 
@@ -1235,7 +1235,7 @@ These detailed case studies provide a comprehensive understanding of how differe
 	- Tensions existed between desires for vengeance and limiting German power versus recognizing economic realities.
 
 ## 6. Conclusion
-- The period from late 1921 to early 1922 in Germany was marked by significant economic challenges,  including [[War Economies and Hyperinflation|inflation]],  speculation,  and external pressures.
+- The period from late 1921 to early 1922 in Germany was marked by significant economic challenges,  including [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md),  speculation,  and external pressures.
 - Understanding these dynamics provides insights into the complex interplay between domestic economic policies,  international relations,  and the socio-political landscape during periods of economic instability.
 
 # Economic Dynamics in Post-WWI Germany: Debtor-Creditor Standoff and Reparation Negotiations
@@ -1246,8 +1246,8 @@ These detailed case studies provide a comprehensive understanding of how differe
 	- Debtors (Germans) sought maximum relief from reparation payments.
 	- Creditors (Allied powers) aimed to recover as much as possible without causing German insolvency.
   - This dynamic involved a strategic game of power brinksmanship.
-- **[[WSJ-Excerpts From the Lehman Report|J.P. Morgan]],  Jr.'s Perspective**
-  - [[WSJ-Excerpts From the Lehman Report|J.P. Morgan]],  Jr. highlighted the dilemma faced by the Allies:
+- **[J.P. Morgan](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/WSJ-Excerpts%20From%20the%20Lehman%20Report.md),  Jr.'s Perspective**
+  - [J.P. Morgan](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/WSJ-Excerpts%20From%20the%20Lehman%20Report.md),  Jr. highlighted the dilemma faced by the Allies:
 	- A weak Germany would be unable to pay reparations.
 	- A strong Germany could pay but might also regain military strength.
   - The Allies needed to decide between economic weakness and potential military resurgence.
@@ -1256,7 +1256,7 @@ These detailed case studies provide a comprehensive understanding of how differe
 - **Conference in Cannes,  France (January 1922)**
   - Discussions focused on restructuring Germany's reparation payments.
   - A temporary compromise was reached:
-	- The Reparations Commission reduced the [[Notes on Currency Swaps|debt service]] bill by 75% for the year.
+	- The Reparations Commission reduced the [debt service](../../../Financial%20Engineering/Notes%20on%20Currency%20Swaps.md) bill by 75% for the year.
 	- Conditions included new taxes,  reduced spending,  and granting the Reichsbank independence.
   - **Symbolic Concessions**
 	- The agreed taxes were insufficient to close the budget deficit.
@@ -1264,24 +1264,24 @@ These detailed case studies provide a comprehensive understanding of how differe
 - **Impact on the German Economy**
   - Optimism about reparation relief halted the mark's decline.
   - By January's end,  the mark rose 30% from 1921 lows.
-  - [[War Economies and Hyperinflation|Inflation]],  though high (140% per annum),  stopped accelerating,  providing economic relief.
+  - [Inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md),  though high (140% per annum),  stopped accelerating,  providing economic relief.
 
 ## 3. Ongoing Negotiations and Economic Arguments
-- **German [[Inflationary Depressions and Currency Crises|Policy Makers]]' Stance**
-  - German officials argued that the [[The Balance of Payments|balance of payments]],  not money printing,  caused the [[Inflationary Debt Crisis Lecture Notes|inflationary crisis]].
+- **German [Policy Makers](../Chapters/Inflationary%20Depressions%20and%20Currency%20Crises.md)' Stance**
+  - German officials argued that the [balance of payments](../../The%20Balance%20of%20Payments.md),  not money printing,  caused the [inflationary crisis](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20I%20-%20The%20Big%20Debt%20Cycle/Inflationary%20Depressions%20and%20Currency%20Crises/Inflationary%20Debt%20Crisis%20Lecture%20Notes.md).
   - Foreign Minister Walter Rathenau emphasized the impossibility of making gold payments without foreign loans or export surpluses.
   - He criticized the simplistic view that stopping money printing would resolve the crisis.
 - **Mechanics of Economics and Markets**
   - The economic mechanics were fundamentally the same then as now.
-  - While domestic [[Forwards and Futures Notes|currency]] debt could be extinguished,  external debts posed significant challenges.
+  - While domestic [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) debt could be extinguished,  external debts posed significant challenges.
 
 ## 4. Currency Fluctuations and Market Sentiment
 - **Influence of Reparation Negotiations**
-  - From February to May,  [[Forwards and Futures Notes|currency]] [[FORWARD RATES AND TERM STRUCTURE|expectations]] were driven by reparation negotiation news.
-  - Positive news led to mark rallies and reduced [[War Economies and Hyperinflation|inflation]] [[FORWARD RATES AND TERM STRUCTURE|expectations]].
-  - Negative news caused the mark to fall and [[War Economies and Hyperinflation|inflation]] [[FORWARD RATES AND TERM STRUCTURE|expectations]] to rise.
+  - From February to May,  [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) [expectations](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) were driven by reparation negotiation news.
+  - Positive news led to mark rallies and reduced [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) [expectations](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md).
+  - Negative news caused the mark to fall and [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) [expectations](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) to rise.
   - The mark experienced 10-20% swings based on sentiment changes.
-- **[[Class Slides On Terrausd Runs 2|Market Volatility]]**
+- **[Market Volatility](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Class%20Slides%20On%20Terrausd%20Runs%202.md)**
   - By the end of May,  the mark was down about 40% versus the dollar due to deteriorating reparation agreement prospects.
 
 ## 5. Infographic: Economic Dynamics and Reparation Negotiations
@@ -1307,17 +1307,17 @@ These detailed case studies provide a comprehensive understanding of how differe
 ## 6. Conclusion
 - The period of reparation negotiations in early 1922 was marked by significant economic and political dynamics in Germany.
 - The debtor-creditor standoff,  temporary compromises,  and ongoing negotiations highlighted the complex interplay between international obligations and domestic economic stability.
-- Understanding these dynamics provides insights into the challenges faced by economies during periods of significant external debt and [[Forwards and Futures Notes|currency]] instability.
+- Understanding these dynamics provides insights into the challenges faced by economies during periods of significant external debt and [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) instability.
 
 # Economic Dynamics in Post-WWI Germany: The Onset of Hyperinflation
 
 ## 1. Introduction to Hyperinflation and Market Volatility
-- **[[Class Slides On Terrausd Runs 2|Market Volatility]] and Reparation Negotiations**
+- **[Market Volatility](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Class%20Slides%20On%20Terrausd%20Runs%202.md) and Reparation Negotiations**
   - The markets experienced significant volatility,  with large fluctuations in response to updates on reparation negotiations.
   - Traders faced challenges navigating through such unpredictable conditions.
 
 ## 2. June 1922–December 1922: The Beginning of Hyperinflation
-- **Collapse of Reparation Settlement [[FORWARD RATES AND TERM STRUCTURE|Expectations]]**
+- **Collapse of Reparation Settlement [Expectations](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md)**
   - In June 1922,  hopes for a reparation settlement collapsed,  leading to a sharp decline in the mark.
   - Three interconnected events contributed to this collapse:
 	1. **French Rejection of Reparation Commission Conclusions**
@@ -1325,7 +1325,7 @@ These detailed case studies provide a comprehensive understanding of how differe
 	   - France decided to determine German reparations independently and threatened to seize German assets,  particularly productive ones like the Ruhr coal mines,  if Germany defaulted.
 	   - Instead of a potential moratorium,  Germany faced the prospect of paying France whatever it deemed appropriate or risking sustained occupation of valuable territory.
 	1. **Impact on International Loan Plans**
-	   - An international committee,  led by American financier [[WSJ-Excerpts From the Lehman Report|J.P. Morgan]],  Jr.,  had been exploring the possibility of extending Germany a gold loan to rebuild its economy and ease external debt burdens.
+	   - An international committee,  led by American financier [J.P. Morgan](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/WSJ-Excerpts%20From%20the%20Lehman%20Report.md),  Jr.,  had been exploring the possibility of extending Germany a gold loan to rebuild its economy and ease external debt burdens.
 	   - This loan was contingent on progress towards a reparation moratorium,  as repayment would be unlikely without it.
 	   - Following the French declaration,  the loan committee concluded that extending credit to Germany was impossible.
 	1. **Assassination of Foreign Minister Walter Rathenau**
@@ -1336,28 +1336,28 @@ These detailed case studies provide a comprehensive understanding of how differe
 ## 3. Capital Flight and the Collapse of the Mark
 - **Foreign Capital Withdrawal**
   - Unlike earlier periods,  foreigners rushed to withdraw their capital from Germany.
-  - Approximately one-third of all deposits in German banks were foreign-owned,  and foreign speculation had been a significant support for the German economy and [[The Balance of Payments|balance of payments]].
+  - Approximately one-third of all deposits in German banks were foreign-owned,  and foreign speculation had been a significant support for the German economy and [balance of payments](../../The%20Balance%20of%20Payments.md).
   - Over the following months,  about two-thirds of these deposits vanished,  and capital inflows collapsed.
 - **Accelerated Capital Flight by Germans**
   - Simultaneously,  capital flight by Germans accelerated,  with well-to-do citizens rushing to move their wealth abroad before confiscatory taxes from the January compromise took effect.
   - The mark collapsed,  triggering the onset of hyperinflation.
 
 ## 4. Liquidity Crisis in the German Banking System
-- **Acute [[Deciphering the Liquidity and Credit Crunch 2007–2008|Liquidity Crisis]] and Bank Runs**
-  - The result was an acute [[Deciphering the Liquidity and Credit Crunch 2007–2008|liquidity crisis]] in the German [[Class Slide 3 Financial Intermediation and Delegated Monitoring|banking system]],  leading to bank runs.
+- **Acute [Liquidity Crisis](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Deciphering%20the%20Liquidity%20and%20Credit%20Crunch%202007–2008.md) and Bank Runs**
+  - The result was an acute [liquidity crisis](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Deciphering%20the%20Liquidity%20and%20Credit%20Crunch%202007–2008.md) in the German [banking system](../../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-%20Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Class%20Slide%203%20Financial%20Intermediation%20and%20Delegated%20Monitoring.md),  leading to bank runs.
   - The central bank's printing rate could not keep pace with the flight of marks abroad and rising prices.
   - By July,  banks were forced to operate on three-day work weeks and informed depositors of insufficient cash to honor deposits or make weekly wage payments for large business clients.
   - Some banks began illegally printing their own marks.
-- **Self-Reinforcing [[Deciphering the Liquidity and Credit Crunch 2007–2008|Liquidity Crisis]]**
-  - The [[Deciphering the Liquidity and Credit Crunch 2007–2008|liquidity crisis]] was self-reinforcing,  as depositors,  witnessing banks' struggles to honor liabilities,  withdrew deposits in increasing numbers,  exacerbating the crisis.
+- **Self-Reinforcing [Liquidity Crisis](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Deciphering%20the%20Liquidity%20and%20Credit%20Crunch%202007–2008.md)**
+  - The [liquidity crisis](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Deciphering%20the%20Liquidity%20and%20Credit%20Crunch%202007–2008.md) was self-reinforcing,  as depositors,  witnessing banks' struggles to honor liabilities,  withdrew deposits in increasing numbers,  exacerbating the crisis.
 
 ## 5. Central Bank's Response to the Crisis
 - **Accelerated Money Printing and Debt Monetization**
   - By August 1922,  the economy was on the brink of financial collapse.
-  - The central bank responded by rapidly accelerating the pace of mark printing and monetizing a growing share of [[Global Fixed Income Markets|government debt]].
+  - The central bank responded by rapidly accelerating the pace of mark printing and monetizing a growing share of [government debt](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Global%20Fixed%20Income%20Markets.md).
 - **Purchasing Commercial Bills and Providing Direct Credits**
   - The central bank began purchasing commercial bills en masse.
-  - As the [[Deciphering the Liquidity and Credit Crunch 2007–2008|liquidity crisis]] deepened in [[The Fall of Bear Stearns Lost Opportunities Haunt Final Days of Bear Stearns; Executives Bickeredover Raising Cash Cutting Mortgages|the fall]],  it further accelerated the provision of direct credits to the [[Class Slide 3 Financial Intermediation and Delegated Monitoring|banking system]].
+  - As the [liquidity crisis](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Deciphering%20the%20Liquidity%20and%20Credit%20Crunch%202007–2008.md) deepened in [the fall](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Fall%20of%20Bear%20Stearns%20Lost%20Opportunities%20Haunt%20Final%20Days%20of%20Bear%20Stearns;%20Executives%20Bickeredover%20Raising%20Cash%20Cutting%20Mortgages.md),  it further accelerated the provision of direct credits to the [banking system](../../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-%20Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Class%20Slide%203%20Financial%20Intermediation%20and%20Delegated%20Monitoring.md).
 
 ## 6. Infographic: Economic Dynamics and Hyperinflation Onset
 ```markdown
@@ -1380,8 +1380,8 @@ These detailed case studies provide a comprehensive understanding of how differe
 ```
 
 ## 7. Conclusion
-- The period from June to December 1922 marked the beginning of hyperinflation in Germany,  driven by the collapse of reparation settlement [[FORWARD RATES AND TERM STRUCTURE|expectations]],  capital flight,  and a severe [[Deciphering the Liquidity and Credit Crunch 2007–2008|liquidity crisis]] in the [[Class Slide 3 Financial Intermediation and Delegated Monitoring|banking system]].
-- The central bank's response,  including accelerated money printing and debt monetization,  highlighted the challenges of managing economic stability during periods of extreme [[Southland Corp. (c)|financial distress]].
+- The period from June to December 1922 marked the beginning of hyperinflation in Germany,  driven by the collapse of reparation settlement [expectations](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md),  capital flight,  and a severe [liquidity crisis](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Deciphering%20the%20Liquidity%20and%20Credit%20Crunch%202007–2008.md) in the [banking system](../../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-%20Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Class%20Slide%203%20Financial%20Intermediation%20and%20Delegated%20Monitoring.md).
+- The central bank's response,  including accelerated money printing and debt monetization,  highlighted the challenges of managing economic stability during periods of extreme [financial distress](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md).
 - Understanding these dynamics provides insights into the causes and consequences of hyperinflationary spirals and the complex interplay between international obligations,  domestic economic policies,  and political instability.
 
 # Economic Dynamics in Post-WWI Germany: Hyperinflation and Policy Responses
@@ -1389,21 +1389,21 @@ These detailed case studies provide a comprehensive understanding of how differe
 ## 1. Introduction to Hyperinflation and Monetary Policy
 - **Reichsbank's Role in Preventing Financial Collapse**
   - By the end of the year,  the Reichsbank held about one-third of all commercial bills in circulation.
-  - Credits to the [[Class Slide 3 Financial Intermediation and Delegated Monitoring|banking system]] increased by 1,  900 percent.
-  - These interventions prevented the [[Contemporary Financial Intermediation Notes|financial system]] from collapsing and led to a ten-fold increase in the money supply.
-- **Transition from [[War Economies and Hyperinflation|Inflation]] to Hyperinflation**
-  - Unlike previous [[Inflationary Depressions and Currency Crises 1|currency depreciation]] and money printing episodes,  this round sent [[War Economies and Hyperinflation|inflation]] skyrocketing.
-  - The scale of [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] injection needed to offset foreign capital pullback contributed to this shift.
+  - Credits to the [banking system](../../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-%20Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Class%20Slide%203%20Financial%20Intermediation%20and%20Delegated%20Monitoring.md) increased by 1,  900 percent.
+  - These interventions prevented the [financial system](../../../Contemporary%20Financial%20Intermediation%20Notes/Contemporary%20Financial%20Intermediation%20Notes.md) from collapsing and led to a ten-fold increase in the money supply.
+- **Transition from [Inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) to Hyperinflation**
+  - Unlike previous [currency depreciation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20I%20-%20The%20Big%20Debt%20Cycle/Inflationary%20Depressions%20and%20Currency%20Crises/Inflationary%20Depressions%20and%20Currency%20Crises%201.md) and money printing episodes,  this round sent [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) skyrocketing.
+  - The scale of [liquidity](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) injection needed to offset foreign capital pullback contributed to this shift.
   - Changing inflationary psychology also played a significant role.
-	- Initially,  [[War Economies and Hyperinflation|inflation]] was perceived as semi-managed.
+	- Initially,  [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) was perceived as semi-managed.
 	- Eventually,  it was seen as out of control.
 
 ## 2. Inflationary Psychology and Economic Behavior
 - **Classic Patterns in Inflationary Depressions**
-  - With each round of printing,  more money leaves the [[Forwards and Futures Notes|currency]] instead of going into economic activity.
-  - Domestic [[Forwards and Futures Notes|currency]] holders observe that those [[Short Selling|shorting]] cash and buying real/foreign assets fare better than those saving and investing domestically.
-  - This leads to a shift from investing printed money in productive assets to purchasing real assets (like gold) and foreign [[Forwards and Futures Notes|currency]].
-- **Foreign [[Runs On Money Market Mutual Funds|Investor Behavior]]**
+  - With each round of printing,  more money leaves the [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) instead of going into economic activity.
+  - Domestic [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) holders observe that those [shorting](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Short%20Selling.md) cash and buying real/foreign assets fare better than those saving and investing domestically.
+  - This leads to a shift from investing printed money in productive assets to purchasing real assets (like gold) and foreign [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md).
+- **Foreign [Investor Behavior](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-%20Bank%20Runs/Runs%20On%20Money%20Market%20Mutual%20Funds.md)**
   - Foreign investors no longer return due to repeated losses.
   - By August,  prices were rising over 50 percent a month,  signaling an approaching hyperinflationary spiral.
   - Policymakers recognized the situation but felt compelled to continue printing.
@@ -1411,7 +1411,7 @@ These detailed case studies provide a comprehensive understanding of how differe
 ## 3. Challenges in Stopping Hyperinflation
 - **Difficulty in Halting the Printing Press**
   - Once an inflationary depression reaches the hyperinflationary stage,  stopping printing is extremely difficult.
-  - Extreme capital flight and [[War Economies and Hyperinflation|inflation]] feed off one another,  making money scarce even as it loses value.
+  - Extreme capital flight and [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) feed off one another,  making money scarce even as it loses value.
 - **Keynes' Observations in Hamburg**
   - During the early phase of hyperinflation,  Keynes described rapidly changing shop prices and the valueless yet scarce mark.
   - Shops were reluctant to accept marks,  and banks struggled with cash shortages.
@@ -1419,13 +1419,13 @@ These detailed case studies provide a comprehensive understanding of how differe
 
 ## 4. Consequences of Stopping the Printing Press
 - **Potential Economic Collapse**
-  - Halting the printing press would result in an extreme cash shortage and total [[The Asian Liquidity Crisis|financial system collapse]].
+  - Halting the printing press would result in an extreme cash shortage and total [financial system collapse](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/The%20Asian%20Liquidity%20Crisis.md).
   - An economist noted that stopping printing would halt payments to merchants,  employees,  and workers.
   - National and economic life,  including factories,  mines,  railways,  and government functions,  would cease.
 - **Misconceptions About Hyperinflation**
   - People often think hyperinflations are caused by reckless money printing and can be stopped by turning off the printing press.
-  - In reality,  [[War Economies and Hyperinflation|inflation]] spirals push policymakers into choosing printing as the least bad option among terrible alternatives.
+  - In reality,  [inflation](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) spirals push policymakers into choosing printing as the least bad option among terrible alternatives.
 
 ## 5. Political and Economic Pressures
-- **[[Inflationary Depressions and Currency Crises 1|Weimar Germany]]'s Dilemma**
+- **[Weimar Germany](../Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20I%20-%20The%20Big%20Debt%20Cycle/Inflationary%20Depressions%20and%20Currency%20Crises/Inflationary%20Depressions%20and%20Currency%20Crises%201.md)'s Dilemma**
   - The cost of not printing included potential economic collapse and political

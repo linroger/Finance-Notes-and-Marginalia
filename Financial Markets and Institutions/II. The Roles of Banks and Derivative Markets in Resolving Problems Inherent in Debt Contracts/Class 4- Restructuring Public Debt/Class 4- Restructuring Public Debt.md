@@ -24,19 +24,19 @@ key_concepts:
 
 # Class 4Restructuring Public Debt
 %% Begin Waypoint %%
-- **[[Class 4- Restructuring Public Debt]]**
-	- [[Class 4- Restructuring Public Debt]]
-	- [[Class Note 4 Class Slide 4-Restructuring Debt Outside BankruptcyRestructuring Debt Outside Bankruptcy]]
-	- [[Class Note 05 Us Bankruptcy Rules]]
-	- [[Class Note 5A Coercive Exchange Offers and Exit Consents]]
-	- [[Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers]]
-	- [[Class Slide 4-Restructuring Debt Outside Bankruptcy]]
-	- [[Do Bondholders Lose From Junk Bond Covenant Changes]]
-	- [[Greece Faces Bond Swap Holdouts]]
-	- [[Merrill Coercive Exchange Offers]]
-	- [[Note on LBO Capital Structure Module Note]]
-	- [[Oaktree and the Restructuring of CIT Group (a)]]
-	- [[Oaktree and the Restructuring of Cit Group (b)]]
+- **[Class 4- Restructuring Public Debt](.md)**
+	- [Class 4- Restructuring Public Debt](.md)
+	- [Class Note 4 Class Slide 4-Restructuring Debt Outside BankruptcyRestructuring Debt Outside Bankruptcy](Class%20Note%204%20Class%20Slide%204-Restructuring%20Debt%20Outside%20BankruptcyRestructuring%20Debt%20Outside%20Bankruptcy.md)
+	- [Class Note 05 Us Bankruptcy Rules](Class%20Note%2005%20Us%20Bankruptcy%20Rules.md)
+	- [Class Note 5A Coercive Exchange Offers and Exit Consents](Class%20Note%205A%20Coercive%20Exchange%20Offers%20and%20Exit%20Consents.md)
+	- [Class Note 6 Restructuring Public Debt Out of Bankruptcy Exchange Offers](Class%20Note%206%20Restructuring%20Public%20Debt%20Out%20of%20Bankruptcy%20Exchange%20Offers.md)
+	- [Class Slide 4-Restructuring Debt Outside Bankruptcy](Class%20Slide%204-Restructuring%20Debt%20Outside%20Bankruptcy.md)
+	- [Do Bondholders Lose From Junk Bond Covenant Changes](Do%20Bondholders%20Lose%20From%20Junk%20Bond%20Covenant%20Changes.md)
+	- [Greece Faces Bond Swap Holdouts](Greece%20Faces%20Bond%20Swap%20Holdouts.md)
+	- [Merrill Coercive Exchange Offers](Merrill%20Coercive%20Exchange%20Offers.md)
+	- [Note On LBO Capital Structure Module Note](Note%20On%20LBO%20Capital%20Structure%20Module%20Note.md)
+	- [Oaktree and the Restructuring of CIT Group (a)](Oaktree%20and%20the%20Restructuring%20of%20CIT%20Group%20(a).md)
+	- [Oaktree and the Restructuring of Cit Group (b)](Oaktree%20and%20the%20Restructuring%20of%20Cit%20Group%20(b).md)
 
 %% End Waypoint %%
 

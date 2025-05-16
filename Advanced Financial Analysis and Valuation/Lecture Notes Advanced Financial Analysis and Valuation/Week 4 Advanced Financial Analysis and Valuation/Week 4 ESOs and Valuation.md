@@ -22,7 +22,7 @@ key_concepts:
   - Valuation of compensation tricky
 ---
 
-[[Week 4 ESOs and Valuation|employee stock options]]
+[employee stock options](.md)
 
 # Week 4 ESOs and Valuation
 
@@ -53,7 +53,7 @@ key_concepts:
    - Clearly,   such claims will impact a valuation,   but estimating how much is difficult
 	   - Exercise depends on future stock price
 - Simple (and correct) approach is not available due to contingent nature
-   - We need option [[Arbitrage Pricing of Derivatives|pricing]] approach (e.g.,   Black‐Scholes model)
+   - We need option [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) approach (e.g.,   Black‐Scholes model)
 - If stock options are used by a firm to compensate employees,   two issues need to be considered to avoid overvaluing common stock:
 	   - Cash‐equivalent cost of future stock option grants
 	   - Value of employee stock options outstanding on valuation date
@@ -64,7 +64,7 @@ firm is a heavy user of stock compensation
 
 - In 2004,   the FASB issued SFAS No. 123R,   which requires firms to treat the fair value of granted options as compensation expense,   with the expense taken over vesting period
 - To expense the cost of an option,   the firm must determine the option's value
-	   - Value typically determined using an option [[Arbitrage Pricing of Derivatives|pricing]] model (e.g.,   Black‐Scholes)
+	   - Value typically determined using an option [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) model (e.g.,   Black‐Scholes)
 	   - Should adjust model to reflect vesting requirements and the fact that ESOs are generally  not transferable 
 - Accounting for ESOs hinges on the grant date,   vesting period,   and exercise date
 	   - Grant date: Value of the grant is measured but expense is not recorded immediately
@@ -76,7 +76,7 @@ firm is a heavy user of stock compensation
 
 ## BASIC ACCOUNTING RECAP FOR STOCK COMPENSATION (CONT.)
 
-- Example: Suppose Firm A grants **10MM ESOs** with an **exercise price of $50** on 12/31/2005 when Firm A's stock price was $50. On that date,   Firm A uses an option [[Arbitrage Pricing of Derivatives|pricing]] model to determine the **fair value of these ESOs at $30 each**. The ESOs fully vest in **4 years**. All the ESOs are exercised on 12/31/2011; Firm A's stock price was $120 at that time.
+- Example: Suppose Firm A grants **10MM ESOs** with an **exercise price of $50** on 12/31/2005 when Firm A's stock price was $50. On that date,   Firm A uses an option [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) model to determine the **fair value of these ESOs at $30 each**. The ESOs fully vest in **4 years**. All the ESOs are exercised on 12/31/2011; Firm A's stock price was $120 at that time.
  ![500](45f51689e2f0ffb68c860dfa6a6a42bd.png)
 
 ## BOTH FUTURE AND PAST GRANTS ARE RELEVANT
@@ -190,7 +190,7 @@ increases,   the overhang (or option value) is significant
 
 ## RESTRICTED STOCK UNITS
 - A restricted stock unit is a promise to issue a share of stock to an employee,   usually at no cost to the employee,   upon completion of a vesting period
-	   - They have become much more popular since the [[Squam Lake Group Introduction|introduction]] of stock option expensing under FAS 123R
+	   - They have become much more popular since the [introduction](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) of stock option expensing under FAS 123R
 - The accounting for restricted stock unit is essentially the same as for ESOs
 	   - Value of the RSU is expensed over the vesting period
 	   - Firm receives income tax deduction when RSU vests (for fair value at vesting date)

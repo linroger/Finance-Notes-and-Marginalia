@@ -34,27 +34,27 @@ key_concepts:
 # Advanced Usage of QuantLib analytics library
 ## More details at: https://quantlib-python-docs.readthedocs.io/en/latest/
 
-- 1\. SOFR Is swap rates and SOFR [[Advanced Usage of QuantLib analytics library|discount curve]] [[Credit Markets Session 4|calibration]]
-  - a. [[Advanced Usage of QuantLib analytics library|SOFR curve calibration]] (via Bootstrapping)
-  - b. Display the calibrated SOFR [[Advanced Usage of QuantLib analytics library|discount curve]] dataframe
+- 1\. SOFR Is swap rates and SOFR [discount curve](.md) [calibration](../Credit%20Markets%20Session%204.md)
+  - a. [SOFR curve calibration](.md) (via Bootstrapping)
+  - b. Display the calibrated SOFR [discount curve](.md) dataframe
   - c. Plot the calibrated SOFR Zero Rates and Discount Factors curves
-  - d. Validate SOFR [[Credit Markets Session 4|calibration]] by [[Arbitrage Pricing of Derivatives|pricing]] [[Advanced Usage of QuantLib analytics library|SOFR swaps]]
-- 2\. Credit Default Swaps (CDS): [[Credit Markets Session 4|calibration]] + [[Arbitrage Pricing of Derivatives|pricing]]
-  - a. [[Credit Markets Homework 4|CDS Hazard Rate]] [[Credit Markets Session 4|calibration]]
-  - b. Plot the calibrated Hazard Rate and [[A Poisson Model of Single Issuer Default|Survival Probability]] curves
+  - d. Validate SOFR [calibration](../Credit%20Markets%20Session%204.md) by [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) [SOFR swaps](.md)
+- 2\. Credit Default Swaps (CDS): [calibration](../Credit%20Markets%20Session%204.md) + [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)
+  - a. [CDS Hazard Rate](Credit%20Markets%20Homework%204.md) [calibration](../Credit%20Markets%20Session%204.md)
+  - b. Plot the calibrated Hazard Rate and [Survival Probability](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/A%20Poisson%20Model%20of%20Single%20Issuer%20Default.md) curves
   - c. CDS valuation
-- 3\. [[Arbitrage Pricing of Derivatives|Pricing]] risky bonds in the CDS-implied [[Credit Market Session 2|Hazard Rate Model]] (with [[Credit Markets Session 5|Credit Default Risk]])
+- 3\. [Pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) risky bonds in the CDS-implied [Hazard Rate Model](../Credit%20Market%20Session%202.md) (with [Credit Default Risk](../Credit%20Markets%20Session%205.md))
   - a. Create Corporate Bond
-  - b. Price Corporate Bond on Risk-Free Yield Curve (without [[Quantitative Trading Strategies Lecture Notes|Credit Risk]])
-  - c. Compute Intrinsic Risky Bond Price on IBM CDS [[Advanced Usage of QuantLib analytics library|Credit Curve]] (with [[Quantitative Trading Strategies Lecture Notes|Credit Risk]])
-- 4\. [[Arbitrage Pricing of Derivatives|Pricing]] risky bonds in Custom [[Credit Market Session 2|Hazard Rate Model]] (with [[Credit Markets Session 5|Credit Default Risk]])
-  - a. Create and Display the Custom [[Advanced Usage of QuantLib analytics library|Credit Curve]]
-  - b. Price Risky Bond on Custom [[Advanced Usage of QuantLib analytics library|Credit Curve]] (with [[Quantitative Trading Strategies Lecture Notes|Credit Risk]])
-- 5\. Smooth parametric yield and [[Advanced Usage of QuantLib analytics library|hazard rate curves]]: Nelson-Siegel + extensions
+  - b. Price Corporate Bond on Risk-Free Yield Curve (without [Credit Risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md))
+  - c. Compute Intrinsic Risky Bond Price on IBM CDS [Credit Curve](.md) (with [Credit Risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md))
+- 4\. [Pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) risky bonds in Custom [Hazard Rate Model](../Credit%20Market%20Session%202.md) (with [Credit Default Risk](../Credit%20Markets%20Session%205.md))
+  - a. Create and Display the Custom [Credit Curve](.md)
+  - b. Price Risky Bond on Custom [Credit Curve](.md) (with [Credit Risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md))
+- 5\. Smooth parametric yield and [hazard rate curves](.md): Nelson-Siegel + extensions
   - a. Nelson Siegel basis functions
   - b. Plot Basis Functions for Nelson-Siegel + extensions
-  - c. Constructing smooth Nelson-Siegel hazard rate / [[A Poisson Model of Single Issuer Default|survival probability]] curves
-  - d. [[Arbitrage Pricing of Derivatives|Pricing]] risky bonds in [[Advanced Usage of QuantLib analytics library|Nelson-Siegel model]] (with [[Quantitative Trading Strategies Lecture Notes|Credit Risk]])
+  - c. Constructing smooth Nelson-Siegel hazard rate / [survival probability](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/A%20Poisson%20Model%20of%20Single%20Issuer%20Default.md) curves
+  - d. [Pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) risky bonds in [Nelson-Siegel model](.md) (with [Credit Risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md))
 ```python
 
 ```
@@ -63,7 +63,7 @@ key_concepts:
 
 ## a. SOFR curve calibration (via Bootstrapping)
 
-Overnight Index [[Currency Swaps|Swap contract]] is an [[Assessing the LIFFE Swapnote|interest rate swap contract]] exchanging and overnight index interest rate (e.g. [[Fed Fund Futures|Fed Funds]],  SOFR,  LIBOR) for a [[Chapter 36 - Currency Swaps|fixed interest rate]] until the contract maturity. The fixed rate is set at a rate agreed upon by both parties. The [[Pricing Interest Rate Swaps|floating leg]] portion of the swap is compounded and paid at reset dates.
+Overnight Index [Swap contract](../../Financial%20Instruments/Review%20Session%20Notes/Currency%20Swaps.md) is an [interest rate swap contract](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Assessing%20the%20LIFFE%20Swapnote.md) exchanging and overnight index interest rate (e.g. [Fed Funds](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md),  SOFR,  LIBOR) for a [fixed interest rate](../../Financial%20Engineering/Derivatives/Part%20VIII%20-%20Swaps/Chapter%2036%20-%20Currency%20Swaps.md) until the contract maturity. The fixed rate is set at a rate agreed upon by both parties. The [floating leg](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) portion of the swap is compounded and paid at reset dates.
 ```python
 # Set the static valuation date: 2023-04-14
 Calc_date = ql.Date (14,             4,             2023)
@@ -75,10 +75,10 @@ Calendar = ql.UnitedStates (ql. UnitedStates. GovernmentBond)
 # Settle_days
 Settle_days = 2
 
-# SOFR [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]] swap tenors: 1 Y,             2 Y,             3 Y,             5 Y 7 Y,             10 Y,             20 Y and 30 Y
+# SOFR [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS) swap tenors: 1 Y,             2 Y,             3 Y,             5 Y 7 Y,             10 Y,             20 Y and 30 Y
 SOFR_tenors = [ql.Period (y,             ql. Years) for y in [1,             2,             3,             5,             7,             10,             20,             30]]
                
-# SOFR [[A Guide to the Front End and Basis Swap Markets#Overnight Index Swaps Overview|OIS]] swap rates (as of 2023-04-14)
+# SOFR [](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#Overnight%20Index%20Swaps%20Overview|OIS) swap rates (as of 2023-04-14)
 SOFR_rates = [4.81,             4.11,             3.73,             3.38,             3.32,             3.26,             3.20,             3.02]
 
 SOFR_OIS_swap_helpers = []
@@ -298,7 +298,7 @@ Print ('Survival Prob. To Maturity: ',             round (hazard_rate_curve.Surv
     CDS fair/par spread: 55.502
     CDS PV: 2.0855
     CDS Premium Leg PV: 4.6868
-    [[The Default Correlation of the Reference Issuer|CDS Default]] Leg PV -2.6013
+    [CDS Default](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/The%20Default%20Correlation%20of%20the%20Reference%20Issuer.md) Leg PV -2.6013
     Survival Prob. To Maturity: 0.9512
 
 # 3. Pricing risky bonds in the CDS-implied Hazard Rate Model (with Credit Default Risk)
@@ -545,7 +545,7 @@ Plt. Set_xlabel ('Time to maturity (years)')
     2    2    1.0  0.632121     0.528482     0.087615
     3    3    1.0  0.517913     0.589566     0.123121
     4    4    1.0  0.432332     0.593994     0.153880
-    Text (0.5,             0,             '[[Hedging Strategies with Forwards|Time to maturity]] (years)')
+    Text (0.5,             0,             '[Time to maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (years)')
 ![png](CreditMarketSolutions_183_2.png)
 
 ![png](CreditMarketSolutions_183_3.png)

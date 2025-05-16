@@ -20,9 +20,9 @@ key_concepts:
 
 # Week 4 Advanced Financial Analysis and Valuation
 %% Begin Waypoint %%
-- **[[Week 4 Advanced Financial Analysis and Valuation]]**
-	- [[Week 4 Advanced Financial Analysis and Valuation]]
-	- [[Week 4 ESOs and Valuation]]
-	- [[Week 4 Valuing Young and High‐Growth Companies]]
+- **[Week 4 Advanced Financial Analysis and Valuation](.md)**
+	- [Week 4 Advanced Financial Analysis and Valuation](.md)
+	- [Week 4 ESOs and Valuation](Week%204%20ESOs%20and%20Valuation.md)
+	- [Week 4 Valuing Young and High‐Growth Companies](Week%204%20Valuing%20Young%20and%20High‐Growth%20Companies.md)
 
 %% End Waypoint %%

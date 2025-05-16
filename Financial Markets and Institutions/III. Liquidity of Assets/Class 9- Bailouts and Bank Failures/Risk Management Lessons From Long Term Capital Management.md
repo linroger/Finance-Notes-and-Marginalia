@@ -19,7 +19,7 @@ key_concepts:
   - Risk management failures
 ---
 
-# Risk Management Lessons From [[Class Note 13 The LTCM Meltdown|Long Term Capital Management]]
+# Risk Management Lessons From [Long Term Capital Management](../Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md)
 
  ![500](Preview%202024-09-30%2003.59.25.png)
 

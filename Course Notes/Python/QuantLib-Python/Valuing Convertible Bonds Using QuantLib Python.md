@@ -1,5 +1,5 @@
 ---
-category: '[[Clippings]]'
+category: '[Clippings](../../../Clippings/Clippings.md)'
 author:
 title: Valuing Convertible Bonds Using QuantLib Python
 source: http://gouthamanbalaraman.com/blog/value-convertible-bond-quantlib-python.html
@@ -25,21 +25,21 @@ key_concepts:
 
 # Valuing Convertible Bonds Using QuantLib Python
 
-Provides an [[Squam Lake Group Introduction|introduction]] to valuation of convertible bonds using [[Valuing Callable Bonds Using QuantLib Python|QuantLib Python]] with a minimal example.
+Provides an [introduction](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to valuation of convertible bonds using [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md) with a minimal example.
 ```python
 import QuantLib as ql
 ```
 
-In this blog I will work through an example of valuing convertible bonds in [[Introduction to QuantLib Python|QuantLib]]. Lets start by doing the usual setup of creating a `calculation_date` and setting it as the `evaluationDate`.
+In this blog I will work through an example of valuing convertible bonds in [QuantLib](Introduction%20to%20QuantLib%20Python.md). Lets start by doing the usual setup of creating a `calculation_date` and setting it as the `evaluationDate`.
 ```python
 calculation_date = ql.Date(9,     1,     2004)
 ql.Settings.instance().evaluationDate = calculation_date
 ```
 
-One little quirk in the [[Introduction to QuantLib Python|QuantLib]] convertible bond implementation is that there are places where the redemption amount is hard coded to `100`. So if you have conversion ratio evaluated as
+One little quirk in the [QuantLib](Introduction%20to%20QuantLib%20Python.md) convertible bond implementation is that there are places where the redemption amount is hard coded to `100`. So if you have conversion ratio evaluated as
 $$\text{Conversion Ratio}=\frac{\text{Redemption Amount}}{\text{Conversion Price}}$$
 
-you will need to scale to an appropriate value with a redemption amount of `100`. For instance,  vendors report conversion ratio with a redemption amount of 1000. The conversion ratio obtained this way should be divided by a factor of `10` to get the equivalent conversion ratio for use in the [[Introduction to QuantLib Python|QuantLib]] calculations. This is a limitation right now (as of version 1.7),  which can be fixed in the future.
+you will need to scale to an appropriate value with a redemption amount of `100`. For instance,  vendors report conversion ratio with a redemption amount of 1000. The conversion ratio obtained this way should be divided by a factor of `10` to get the equivalent conversion ratio for use in the [QuantLib](Introduction%20to%20QuantLib%20Python.md) calculations. This is a limitation right now (as of version 1.7),  which can be fixed in the future.
 
 Following is the details of the convertible bond of interest.
 ```python
@@ -77,7 +77,7 @@ risk_free_rate = 0.04
 volatility = 0.40
 ```
 
-The [[Valuing Convertible Bonds Using QuantLib Python|call and put schedule]] for this bond is created as shown below. Here for each call date,  we create a `CallabilityPrice`,  then use that to form the `Callability` object. This is appended to the `CallabilitySchedule` object to form a list of [[Notes on Basic Options Properties|call and put]] schedules.
+The [call and put schedule](.md) for this bond is created as shown below. Here for each call date,  we create a `CallabilityPrice`,  then use that to form the `Callability` object. This is appended to the `CallabilitySchedule` object to form a list of [call and put](../../HBR%20Notes/Notes%20on%20Basic%20Options%20Properties.md) schedules.
 ```python
 callability_schedule = ql.CallabilitySchedule()
 
@@ -132,7 +132,7 @@ convertible_bond = ql.ConvertibleFixedCouponBond(exercise,
                                                  redemption)
 ```
 
-Build the [[Valuing Convertible Bonds Using QuantLib Python|Black-Scholes-Merton process]] to model the equity part
+Build the [Black-Scholes-Merton process](.md) to model the equity part
 ```python
 spot_price_handle = ql.QuoteHandle(ql.SimpleQuote(spot_price))
 yield_ts_handle = ql.YieldTermStructureHandle(
@@ -151,7 +151,7 @@ bsm_process = ql.BlackScholesMertonProcess(spot_price_handle,
                                            volatility_ts_handle)
 ```
 
-Build the convertible bond [[Arbitrage Pricing of Derivatives|pricing]] engine
+Build the convertible bond [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) engine
 ```python
 time_steps = 1000
 engine = ql.BinomialConvertibleEngine(bsm_process,      "crr",      time_steps)

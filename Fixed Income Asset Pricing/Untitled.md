@@ -25,14 +25,14 @@ key_concepts:
 ## Introduction
 
 ### Research Objectives
-- Derive [[Chinese Financial System|pricing mechanisms]] for [[Chinese Financial System|inflation-indexed]] securities
-- Develop comprehensive [[Chinese Financial System|risk metric analysis]]
-- Apply [[Chinese Financial System|no-arbitrage framework]]
+- Derive [pricing mechanisms](../Chinese%20Financial%20System.md) for [inflation-indexed](../Chinese%20Financial%20System.md) securities
+- Develop comprehensive [risk metric analysis](../Chinese%20Financial%20System.md)
+- Apply [no-arbitrage framework](../Chinese%20Financial%20System.md)
 
 ### Key Methodological Approaches
 - First-principles valuation
-- [[Financial Mathematics Course|Risk-neutral pricing]]
-- [[Chinese Financial System|Stochastic modeling]]
+- [Risk-neutral pricing](../Financial%20Engineering/Financial%20Mathematics%20Course.md)
+- [Stochastic modeling](../Chinese%20Financial%20System.md)
 
 ## Fundamental Definitions
 
@@ -48,8 +48,8 @@ key_concepts:
 ## Risk Metrics
 
 ### Key Metrics
-- [[Key Rates O1s Durations and Hedging|Duration]]: $D = -\frac{1}{P} \frac{\partial P}{\partial y}$
-- [[PSET II Fixed Income Asset Pricing 1|Convexity]]: $C = \frac{1}{P} \frac{\partial^2 P}{\partial y^2}$
+- [Duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md): $D = -\frac{1}{P} \frac{\partial P}{\partial y}$
+- [Convexity](Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md): $C = \frac{1}{P} \frac{\partial^2 P}{\partial y^2}$
 - DV01: $\text{DV01} = \frac{\partial P}{\partial y} \times 0.0001$
 
 ## Stochastic Modeling
@@ -57,21 +57,21 @@ key_concepts:
 ### Inflation Dynamics$$\frac{dI(t)}{I(t)} = \mu_{I} \, dt + \sigma_{I} \, dW_{t}^{(I)}$$
 
 ### Short Rate Models
-- [[Vasicek Short Rate Model|Vasicek model]]
+- [Vasicek model](Fixed%20Income%20Lecture%20Notes/Vasicek%20Short%20Rate%20Model.md)
 - Cox-Ingersoll-Ross (CIR) model
 
 ## Key Insights
 
 ### Pricing Principles
-- No-[[Arbitrage Pricing of Derivatives|arbitrage]] valuation
+- No-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) valuation
 - Continuous discounting
-- [[War Economies and Hyperinflation|Inflation]] risk adjustment
+- [Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) risk adjustment
 
 ### Future Research
-- Enhanced stochastic [[War Economies and Hyperinflation|inflation]] modeling
-- Advanced [[Key Rates O1s Durations and Hedging|hedging]] strategies
+- Enhanced stochastic [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) modeling
+- Advanced [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) strategies
 
 ## References
 - Academic finance journals
-- Derivative [[Arbitrage Pricing of Derivatives|pricing]] literature
+- Derivative [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) literature
 - Central bank publications

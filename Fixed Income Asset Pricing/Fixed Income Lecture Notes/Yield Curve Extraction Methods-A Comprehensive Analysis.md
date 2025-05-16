@@ -20,19 +20,19 @@ key_concepts:
 ---
 
 ## Step 1: Provide an overview of the yield curve extraction methods
-The problem discusses three methods for extracting the yield curve from market data: Bootstrapping, [[Yield Curve Extraction Methods-A Comprehensive Analysis|Nelson-Siegel interpolation]], and [[Yield Curve Extraction Methods-A Comprehensive Analysis|Cash Flow Matrices]].
+The problem discusses three methods for extracting the yield curve from market data: Bootstrapping, [Nelson-Siegel interpolation](.md), and [Cash Flow Matrices](.md).
 
 ## Step 2: Describe the strengths and weaknesses of each method
-Bootstrapping provides an exact fit to observed prices but can be sensitive to [[Arbitrage Pricing of Derivatives|pricing]] errors. Nelson-Siegel offers a smooth, parsimonious representation that captures the general shape of the yield curve but may not fit all observed prices perfectly. [[Yield Curve Extraction Methods-A Comprehensive Analysis|Cash Flow Matrices]] provides a balance between fitting observed prices and producing a smooth curve.
+Bootstrapping provides an exact fit to observed prices but can be sensitive to [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) errors. Nelson-Siegel offers a smooth, parsimonious representation that captures the general shape of the yield curve but may not fit all observed prices perfectly. [Cash Flow Matrices](.md) provides a balance between fitting observed prices and producing a smooth curve.
 
 ## Step 3: Discuss the choice of method depending on application
-The choice of method depends on the specific application and characteristics of available data. For general yield curve estimation and [[Week 2 Fundamentals Of Forecasting|forecasting]], Nelson-Siegel is often preferred due to its smoothness and parsimony. For [[Arbitrage Pricing of Derivatives|pricing]] and [[Financial Mathematics Course|risk management]] applications that require a closer fit to market prices, Bootstrapping or [[Yield Curve Extraction Methods-A Comprehensive Analysis|Cash Flow Matrices]] methods may be more appropriate.
+The choice of method depends on the specific application and characteristics of available data. For general yield curve estimation and [forecasting](../../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md), Nelson-Siegel is often preferred due to its smoothness and parsimony. For [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and [risk management](../../Financial%20Engineering/Financial%20Mathematics%20Course.md) applications that require a closer fit to market prices, Bootstrapping or [Cash Flow Matrices](.md) methods may be more appropriate.
 
 ## Step 4: Provide references for the methods discussed
 The problem references three key papers on yield curve estimation: Nelson and Siegel (1987), Fama and Bliss (1987), and Svensson (1994).
 
 ## Step 5: Summarize the findings in a concise manner
-This problem provides an [[Overview of Financial Markets|overview]] of three yield curve extraction methods, their strengths and weaknesses, and discusses the choice of method depending on application. It also references key papers on the topic.
+This problem provides an [overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md) of three yield curve extraction methods, their strengths and weaknesses, and discusses the choice of method depending on application. It also references key papers on the topic.
 
 The final answer is: $\boxed{1}$
 
@@ -51,19 +51,19 @@ title: Yield Curve Extraction Methods-A Comprehensive Analysis
 
 # Yield Curve Extraction Methods-A Comprehensive Analysis
 ## TABLE OF CONTENTS
-1. [[[Squam Lake Group Introduction|Introduction]]](#[[Squam Lake Group Introduction|introduction]])
+1. [Introduction]([Squam%20Lake%20Group%20Introduction)](#[introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md))
 1. [Data Preparation](#data-preparation)
    1.1 [Bond Selection Process](#bond-selection-process)
    1.2 [Selected Bonds](#selected-bonds)
-1. [[[Yield Curve Extraction Methods-A Comprehensive Analysis|Bootstrapping Method]]](#bootstrapping-method)
+1. [Bootstrapping Method]([Yield%20Curve%20Extraction%20Methods-A%20Comprehensive%20Analysis)](#bootstrapping-method)
    1.1 [Theory and General Equations](#bootstrapping-theory)
    1.2 [Step-by-step Calculation](#bootstrapping-calculation)
    1.3 [Results and Yield Curve](#bootstrapping-results)
-1. [[[Yield Curve Extraction Methods-A Comprehensive Analysis|Nelson-Siegel Interpolation]]](#nelson-siegel-interpolation)
+1. [Nelson-Siegel Interpolation]([Yield%20Curve%20Extraction%20Methods-A%20Comprehensive%20Analysis)](#nelson-siegel-interpolation)
    1.1 [Theory and General Equations](#nelson-siegel-theory)
    1.2 [Parameter Estimation](#nelson-siegel-estimation)
    1.3 [Results and Yield Curve](#nelson-siegel-results)
-1. [[[Yield Curve Extraction Methods-A Comprehensive Analysis|Cash Flow Matrices]] Method](#cash-flow-matrices)
+1. [Cash Flow Matrices]([Yield%20Curve%20Extraction%20Methods-A%20Comprehensive%20Analysis) Method](#cash-flow-matrices)
    1.1 [Theory and General Equations](#cash-flow-matrices-theory)
    1.2 [Matrix Construction and Calculation](#cash-flow-matrices-calculation)
    1.3 [Results and Yield Curve](#cash-flow-matrices-results)
@@ -72,7 +72,7 @@ title: Yield Curve Extraction Methods-A Comprehensive Analysis
 1. [References](#references)
 ## 1. INTRODUCTION <A NAME="INTRODUCTION"></A>
 
-This report presents a detailed analysis of three methods for extracting the yield curve from Treasury bond data: bootstrapping,  [[Yield Curve Extraction Methods-A Comprehensive Analysis|Nelson-Siegel interpolation]],  and the [[Yield Curve Extraction Methods-A Comprehensive Analysis|cash flow matrices]] method. We will use a dataset of on-the-run nominal U.S. [[US Markets|Treasury securities]] quoted on January 15th,  2013. The report will focus on the mathematical steps involved in each method,  providing both general equations and numerical solutions.
+This report presents a detailed analysis of three methods for extracting the yield curve from Treasury bond data: bootstrapping,  [Nelson-Siegel interpolation](.md),  and the [cash flow matrices](.md) method. We will use a dataset of on-the-run nominal U.S. [Treasury securities](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/US%20Markets.md) quoted on January 15th,  2013. The report will focus on the mathematical steps involved in each method,  providing both general equations and numerical solutions.
 
 ## 2. DATA PREPARATION <A NAME="DATA-PREPARATION"></A>
 ### 2.1 BOND SELECTION PROCESS <A NAME="BOND-SELECTION-PROCESS"></A>
@@ -86,7 +86,7 @@ The provided dataset contains multiple bonds with the same maturity but differen
 
 After applying the selection criteria,  we obtain the following set of bonds for our analysis:
 
-| Maturity   | Coupon Rate (%) | Mid Price ($) | [[Hedging Strategies with Forwards|Time to Maturity]] (years) |
+| Maturity   | Coupon Rate (%) | Mid Price ($) | [Time to Maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (years) |
 |------------|-----------------|---------------|--------------------------|
 | 01/31/2013 | 2.875           | 100.121094    | 0.044444444              |
 | 02/28/2013 | 2.75            | 100.316406    | 0.119444444              |
@@ -115,17 +115,17 @@ After applying the selection criteria,  we obtain the following set of bonds for
 ## 3. BOOTSTRAPPING METHOD <A NAME="BOOTSTRAPPING-METHOD"></A>
 ### 3.1 THEORY AND GENERAL EQUATIONS <A NAME="BOOTSTRAPPING-THEORY"></A>
 
-The [[Yield Curve Extraction Methods-A Comprehensive Analysis|bootstrapping method]] is an iterative process that builds the yield curve from the shortest maturity to the longest. It assumes that the yield between known points can be linearly interpolated. The general equation for the price of a coupon bond is:$P = \sum_{i=1}^{n} \frac{C}{(1 + y_i)^{t_i}} + \frac{F}{(1 + y_n)^{t_n}}$
+The [bootstrapping method](.md) is an iterative process that builds the yield curve from the shortest maturity to the longest. It assumes that the yield between known points can be linearly interpolated. The general equation for the price of a coupon bond is:$P = \sum_{i=1}^{n} \frac{C}{(1 + y_i)^{t_i}} + \frac{F}{(1 + y_n)^{t_n}}$
 where:
 
 - $P$ is the bond price
 - $C$ is the coupon payment
 - $F$ is the face value
 - $y_i$ is the yield for time $t_i$
-- $t_i$ is the time to the i-th [[Preview of the Book|cash flow]]
+- $t_i$ is the time to the i-th [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md)
 - $n$ is the number of cash flows
 For zero-coupon bonds or the final payment of coupon bonds,  we can solve for the yield directly:$y_n = \left(\frac{F}{P}\right)^{\frac{1}{t_n}} - 1$
-For coupon bonds,  we use the known yields from shorter maturities to discount the [[Realized Returns|coupon payments]],  then solve for the yield of the final payment:$y_n = \left(\frac{F}{P - \sum_{i=1}^{n-1} \frac{C}{(1 + y_i)^{t_i}}}\right)^{\frac{1}{t_n}} - 1$
+For coupon bonds,  we use the known yields from shorter maturities to discount the [coupon payments](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md),  then solve for the yield of the final payment:$y_n = \left(\frac{F}{P - \sum_{i=1}^{n-1} \frac{C}{(1 + y_i)^{t_i}}}\right)^{\frac{1}{t_n}} - 1$
 ### 3.2 STEP-BY-STEP CALCULATION <A NAME="BOOTSTRAPPING-CALCULATION"></A>
 
 Let's demonstrate the bootstrapping process for the first few bonds:
@@ -148,16 +148,16 @@ After completing the bootstrapping process,  we obtain the following yield curve
 ## 4. NELSON-SIEGEL INTERPOLATION <A NAME="NELSON-SIEGEL-INTERPOLATION"></A>
 ### 4.1 THEORY AND GENERAL EQUATIONS <A NAME="NELSON-SIEGEL-THEORY"></A>
 
-The [[Advanced Usage of QuantLib analytics library|Nelson-Siegel model]] is a parametric method for modeling the yield curve. The general equation for the yield at time $t$ is:$y(t) = \beta_0 + \beta_1 \left(\frac{1 - e^{-t/\tau}}{t/\tau}\right) + \beta_2 \left(\frac{1 - e^{-t/\tau}}{t/\tau} - e^{-t/\tau}\right)$
+The [Nelson-Siegel model](../../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) is a parametric method for modeling the yield curve. The general equation for the yield at time $t$ is:$y(t) = \beta_0 + \beta_1 \left(\frac{1 - e^{-t/\tau}}{t/\tau}\right) + \beta_2 \left(\frac{1 - e^{-t/\tau}}{t/\tau} - e^{-t/\tau}\right)$
 where:
 
 - $\beta_0$ represents the long-term interest rate
-- $\beta_1$ represents the [[The Gauss Model|short-term interest rate]]
+- $\beta_1$ represents the [short-term interest rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Gauss%20Model.md)
 - $\beta_2$ represents the medium-term interest rate
 - $\tau$ is a time constant that determines the decay rate
 ### 4.2 PARAMETER ESTIMATION <A NAME="NELSON-SIEGEL-ESTIMATION"></A>
 
-To estimate the parameters $\beta_0$,  $\beta_1$,  $\beta_2$,  and $\tau$,  we use non-linear least squares optimization. We minimize the sum of squared errors between the observed yields (from bootstrapping) and the yields predicted by the [[Advanced Usage of QuantLib analytics library|Nelson-Siegel model]]:$\min_{\beta_0,     \beta_1,     \beta_2,     \tau} \sum_{i=1}^{n} [y_i - y(t_i)]^2$
+To estimate the parameters $\beta_0$,  $\beta_1$,  $\beta_2$,  and $\tau$,  we use non-linear least squares optimization. We minimize the sum of squared errors between the observed yields (from bootstrapping) and the yields predicted by the [Nelson-Siegel model](../../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md):$\min_{\beta_0,     \beta_1,     \beta_2,     \tau} \sum_{i=1}^{n} [y_i - y(t_i)]^2$
 where $y_i$ are the observed yields and $y(t_i)$ are the yields predicted by the model.
 Using a numerical optimization algorithm (e.g.,  Levenberg-Marquardt),  we obtain the following parameter estimates:$\beta_0 = 0.0321$$\beta_1 = -0.0597$$\beta_2 = 0.0276$$\tau = 1.8754$
 
@@ -170,7 +170,7 @@ Using these parameters,  we can now generate a smooth yield curve for any maturi
 ## 5. CASH FLOW MATRICES METHOD <A NAME="CASH-FLOW-MATRICES"></A>
 ### 5.1 THEORY AND GENERAL EQUATIONS <A NAME="CASH-FLOW-MATRICES-THEORY"></A>
 
-The [[Yield Curve Extraction Methods-A Comprehensive Analysis|cash flow matrices]] method uses matrix algebra to solve for the discount factors that,  when applied to the cash flows of all bonds,  reproduce their market prices. The general equation is:$P = CF \cdot d$
+The [cash flow matrices](.md) method uses matrix algebra to solve for the discount factors that,  when applied to the cash flows of all bonds,  reproduce their market prices. The general equation is:$P = CF \cdot d$
 where:
 
 - $P$ is a vector of bond prices
@@ -180,17 +180,17 @@ We solve for $d$ using:$d = (CF^T CF)^{-1} CF^T P$
 Once we have the discount factors,  we can calculate the yields using:$y_t = -\frac{\ln(d_t)}{t}$
 ### 5.2 MATRIX CONSTRUCTION AND CALCULATION <A NAME="CASH-FLOW-MATRICES-CALCULATION"></A>
 
-First,  we construct the [[Preview of the Book|cash flow]] matrix $CF$ and the price vector $P$:
-[Insert [[Preview of the Book|cash flow]] matrix and price vector]
+First,  we construct the [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) matrix $CF$ and the price vector $P$:
+[Insert [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) matrix and price vector]
 Next,  we solve for the discount factors:$d = (CF^T CF)^{-1} CF^T P$
-[Insert resulting [[Discount Factors|discount factor]] vector]
+[Insert resulting [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) vector]
 Finally,  we calculate the yields using the formula above.
 
 ### 5.3 RESULTS AND YIELD CURVE <A NAME="CASH-FLOW-MATRICES-RESULTS"></A>
 
-The resulting yield curve from the [[Yield Curve Extraction Methods-A Comprehensive Analysis|cash flow matrices]] method is:
+The resulting yield curve from the [cash flow matrices](.md) method is:
 [Insert table of maturities and corresponding yields]
-[Insert plot of the [[Yield Curve Extraction Methods-A Comprehensive Analysis|cash flow matrices]] yield curve]
+[Insert plot of the [cash flow matrices](.md) yield curve]
 
 ## 6. COMPARISON OF METHODS <A NAME="COMPARISON"></A>
 
@@ -198,18 +198,18 @@ Now that we have extracted the yield curve using three different methods,  let's
 [Insert plot showing all three yield curves on the same graph]
 Observations:
 
-1. Bootstrapping: This method provides a good fit to the observed bond prices but can be sensitive to small [[Arbitrage Pricing of Derivatives|pricing]] errors,  resulting in a potentially jagged curve.
-1. Nelson-Siegel: This method produces a smooth curve that captures the general shape of the yield curve. It may not fit all observed prices perfectly but provides a good overall representation of the [[The Vasicek Model|term structure]].
-1. [[Yield Curve Extraction Methods-A Comprehensive Analysis|Cash Flow Matrices]]: This method offers a balance between the other two,  providing a relatively smooth curve while still closely fitting the observed prices.
+1. Bootstrapping: This method provides a good fit to the observed bond prices but can be sensitive to small [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) errors,  resulting in a potentially jagged curve.
+1. Nelson-Siegel: This method produces a smooth curve that captures the general shape of the yield curve. It may not fit all observed prices perfectly but provides a good overall representation of the [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md).
+1. [Cash Flow Matrices](.md): This method offers a balance between the other two,  providing a relatively smooth curve while still closely fitting the observed prices.
 ## 7. CONCLUSION <A NAME="CONCLUSION"></A>
 
 Each method for extracting the yield curve has its strengths and weaknesses:
 
-1. Bootstrapping is simple to implement and provides an exact fit to the observed prices,  but it can be sensitive to [[Arbitrage Pricing of Derivatives|pricing]] errors and may produce unrealistic short-term rate fluctuations.
-1. [[Yield Curve Extraction Methods-A Comprehensive Analysis|Nelson-Siegel interpolation]] offers a smooth,  parsimonious representation of the yield curve that captures its general shape. However,  it may not fit all observed prices perfectly.
-1. The [[Yield Curve Extraction Methods-A Comprehensive Analysis|cash flow matrices]] method provides a balance between fitting observed prices and producing a reasonably smooth curve. It can handle complex [[Preview of the Book|cash flow]] structures but may be computationally intensive for large datasets.
-In practice,  the choice of method often depends on the specific application and the characteristics of the available data. For general yield curve estimation and [[Week 2 Fundamentals Of Forecasting|forecasting]],  the Nelson-Siegel method is often preferred due to its smoothness and parsimony. For [[Arbitrage Pricing of Derivatives|pricing]] and [[Financial Mathematics Course|risk management]] applications that require a closer fit to market prices,  the bootstrapping or [[Yield Curve Extraction Methods-A Comprehensive Analysis|cash flow matrices]] methods may be more appropriate.
+1. Bootstrapping is simple to implement and provides an exact fit to the observed prices,  but it can be sensitive to [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) errors and may produce unrealistic short-term rate fluctuations.
+1. [Nelson-Siegel interpolation](.md) offers a smooth,  parsimonious representation of the yield curve that captures its general shape. However,  it may not fit all observed prices perfectly.
+1. The [cash flow matrices](.md) method provides a balance between fitting observed prices and producing a reasonably smooth curve. It can handle complex [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) structures but may be computationally intensive for large datasets.
+In practice,  the choice of method often depends on the specific application and the characteristics of the available data. For general yield curve estimation and [forecasting](../../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md),  the Nelson-Siegel method is often preferred due to its smoothness and parsimony. For [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and [risk management](../../Financial%20Engineering/Financial%20Mathematics%20Course.md) applications that require a closer fit to market prices,  the bootstrapping or [cash flow matrices](.md) methods may be more appropriate.
 ## 8. REFERENCES <A NAME="REFERENCES"></A>
 1. Nelson,  C. R.,  & Siegel,  A. F. (1987). Parsimonious Modeling of Yield Curves. Journal of Business,  60(4),  473-489.
 1. Fama,  E. F.,  & Bliss,  R. R. (1987). The Information in Long-Maturity Forward Rates. The American Economic Review,  77(4),  680-692.
-1. Svensson,  L. E. (1994). Estimating and Interpreting Forward [[Interest Rate Quotations|Interest Rates]]: Sweden 1992-1994. National Bureau of Economic Research Working Paper Series,  No. 4871
+1. Svensson,  L. E. (1994). Estimating and Interpreting Forward [Interest Rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md): Sweden 1992-1994. National Bureau of Economic Research Working Paper Series,  No. 4871

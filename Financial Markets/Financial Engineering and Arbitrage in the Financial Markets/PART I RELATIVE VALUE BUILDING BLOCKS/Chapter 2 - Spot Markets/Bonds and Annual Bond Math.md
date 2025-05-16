@@ -34,14 +34,14 @@ Jack lends money to the ABC Company by buying a 4-year. $\$1,000$ face value zer
 
 ![](a40e9f6a293d21c6832128ed6543aab42757126308043fc1806448cf32aa02ee.jpg)  
 Figure 2.1 A 4-year zero-coupon bond  
-$5\%$ . Figure 2.1 illustrates how we can value the bond by discounting the [[Preview of the Book|cash flow]] back through time.  
+$5\%$ . Figure 2.1 illustrates how we can value the bond by discounting the [cash flow](../Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) back through time.  
 $$
 P_{0}=822.70={\frac{51,000}{(1.05)^{4}}}={\frac{1}{(1.05)}}\times{\frac{1}{(1.05)}}\times{\frac{1}{(1.05)}}\times{\frac{1}{(1.05)}}\times{\frac{1}{(1.05)}}\times{\frac{91,000}{(1.05)}}
 $$  
 
 In Figure 2.1 Jack is lending. $\$823.70$ to ABC today (the price he pays) and acquires a claim to receive $\$1,000$ in 4 years' time. Jack can resell this claim later for an amount that will depend on the interest rate at the time. The buyer will perform a backward discounting. calculation similar to that shown in the figure, but only using the remaining number of years to maturity. Only if the interest rate does not change and stays at. $5\%$ throughout the life of the. loan will the amounts shown in the dashed boxes represent the actual future prices of the bond.  
 
-Zero-coupon bonds are typically issued with face values (par values) that are round numbers like $\$1,000$ $\$5,000$ , or $\$100,000$ . They are bought at a discount from par and the interest is imputed in the difference between the price paid (usually not a round number) and the face value received at maturity or the price received at the time of the resale. The price is typically quoted as the percent of par. In our example, the price would be quoted as 82.27. Note that the percent price converted to a fraction 0.8227 represents the value today of $\$1$ received 4 years from now. The number 0.8227 is called the [[Discount Factors|discount factor]]..  
+Zero-coupon bonds are typically issued with face values (par values) that are round numbers like $\$1,000$ $\$5,000$ , or $\$100,000$ . They are bought at a discount from par and the interest is imputed in the difference between the price paid (usually not a round number) and the face value received at maturity or the price received at the time of the resale. The price is typically quoted as the percent of par. In our example, the price would be quoted as 82.27. Note that the percent price converted to a fraction 0.8227 represents the value today of $\$1$ received 4 years from now. The number 0.8227 is called the [discount factor](../../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md)..  
 
 In general, bond and loan repayment values do not have to be round numbers. Suppose Jack was willing to lend $\$1,035.46$ to ABC. How much should he expect 4 years from now if he earns $5\%2$ Figure 2.2 illustrates the answer. This time we sweep forward starting with the known amount of the loan, i.e., the purchase price of the bond.  
 
@@ -53,21 +53,21 @@ $$
 ![](b446ca79284327ba9c2c9f46ef248753365765d663d75f02e887c4f3944d5e9a.jpg)  
 Figure 2.2 A $\$1,035,46$ zero-coupon loan earning $5\%$  
 
-where $r$ is the interest rate and. $n$ is the number of years. The spot [[Discount Factors|discount factor]] (df) is defined as:  
+where $r$ is the interest rate and. $n$ is the number of years. The spot [discount factor](../../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) (df) is defined as:  
 $$
 d f_{n}={\frac{1}{(1+r)^{n}}}
 $$  
 
-The [[Discount Factors|discount factor]] will prove to be extremely important when we come to value other securities. Each security will be treated as a claim on a stream of cash flows at different times. We will find the present value of those cash flows by multiplying them by their respective discount factors and summing the products to get the total value of the security. The zerocoupon bond is the only bond that has only one [[Preview of the Book|cash flow]]. All other bonds have multiple cash flows.  
+The [discount factor](../../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) will prove to be extremely important when we come to value other securities. Each security will be treated as a claim on a stream of cash flows at different times. We will find the present value of those cash flows by multiplying them by their respective discount factors and summing the products to get the total value of the security. The zerocoupon bond is the only bond that has only one [cash flow](../Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md). All other bonds have multiple cash flows.  
 
 # 2.1.2 Coupon Bond  
 
-A coupon bond pays a periodic stream of identical cash flows (called coupon interest) and a one-time [[Preview of the Book|cash flow]] at maturity (called the par or face value). Suppose Jack buys a 4-year $6\%$ annual coupon $\$1,000$ par value bond issued by the ABC Company to earn a $5\%$ [[Continuously Compounding Interest|annual interest rate]] (yield-to-maturity) on his [[An Asset Allocation Primer|investment]]. Figure 2.3 illustrates how we can value the bond.  
+A coupon bond pays a periodic stream of identical cash flows (called coupon interest) and a one-time [cash flow](../Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) at maturity (called the par or face value). Suppose Jack buys a 4-year $6\%$ annual coupon $\$1,000$ par value bond issued by the ABC Company to earn a $5\%$ [annual interest rate](../../../../Financial%20Instruments/Review%20Session%20Notes/Continuously%20Compounding%20Interest.md) (yield-to-maturity) on his [investment](../../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). Figure 2.3 illustrates how we can value the bond.  
 $$
 P_{0}=1,035.46={\frac{1}{1.05}}\left(60+{\frac{1}{1.05}}\left(60+{\frac{1}{1.05}}\left(60+{\frac{1}{1.05}}(60+1,000\right)\right)\right)
 $$  
 
-Instead of going back in time step-by-step to discount and cumulate cash flows, we can value the coupon bond as the sum of its parts. The coupon bond is a package of four zero-coupon bonds with face values of $\$60,4560,78$ and $\$1,060$ and maturities 1, 2, 3, and 4 years, respectively. We do this by multiplying each coupon [[Preview of the Book|cash flow]] (face value of the component zero-coupon bond) by its appropriate [[Discount Factors|discount factor]]. This factorization is illustrated in Figure 2.4.  
+Instead of going back in time step-by-step to discount and cumulate cash flows, we can value the coupon bond as the sum of its parts. The coupon bond is a package of four zero-coupon bonds with face values of $\$60,4560,78$ and $\$1,060$ and maturities 1, 2, 3, and 4 years, respectively. We do this by multiplying each coupon [cash flow](../Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) (face value of the component zero-coupon bond) by its appropriate [discount factor](../../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md). This factorization is illustrated in Figure 2.4.  
 
 ![](db4beb28d94b7a26f77713930a7ea0defc6bd94efcbdd6be54a97764bb20534f.jpg)  
 Figure 2.3 A4-year $6\%$ coupon bond yielding $5\%$ : backward sweep  
@@ -95,11 +95,11 @@ $$
 
 as long as the rates are all equal.  
 
-One has to be a bit more careful, but the two methods are still identical when [[Interest Rate Quotations|interest rates]] for different periods are not the same. We deal with the more complicated case of changing [[Interest Rate Quotations|interest rates]] in Section 2.3 where we call $r_{n-1,n}$ forward zero rates and $r_{n}$ [[Term Structure of Interest Rates and the Discou|spot zero rates]]. We develop further the notion of forward rates in Chapter 3.  
+One has to be a bit more careful, but the two methods are still identical when [interest rates](../../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) for different periods are not the same. We deal with the more complicated case of changing [interest rates](../../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) in Section 2.3 where we call $r_{n-1,n}$ forward zero rates and $r_{n}$ [spot zero rates](Term%20Structure%20of%20Interest%20Rates%20and%20the%20Discou.md). We develop further the notion of forward rates in Chapter 3.  
 
 # 2.1.3 Amortizing Bond  
 
-An amortizing bond is also a multicash flow bond. Unlike the coupon bond which has an equal stream of coupon interest plus a one-time [[Preview of the Book|cash flow]] representing the return of par, the amortizing bond has a stream of equal cash flows, all of which can be thought of as partly coupon interest (on the remaining balance of the loan) and partly principal repayment. This distinction is somewhat artificial since the coupon interest of the coupon bond is generally not. the same as the interest rate earned on the amount invested in the bond. The real difference between the coupon bond and the amortizing bond is the pattern of cash flows. The amortizing.  
+An amortizing bond is also a multicash flow bond. Unlike the coupon bond which has an equal stream of coupon interest plus a one-time [cash flow](../Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) representing the return of par, the amortizing bond has a stream of equal cash flows, all of which can be thought of as partly coupon interest (on the remaining balance of the loan) and partly principal repayment. This distinction is somewhat artificial since the coupon interest of the coupon bond is generally not. the same as the interest rate earned on the amount invested in the bond. The real difference between the coupon bond and the amortizing bond is the pattern of cash flows. The amortizing.  
 
 ![](59f713d45dee8bbe976bddcb48b1fb83a08abbaffed473ad5de6e130e87de7ae.jpg)  
 Figure 2.5 A 4-year amortizing loan yielding $5\%$ : sum of the parts  
@@ -115,14 +115,14 @@ financed with a 4-year installment loan at. $5\%$ .) We value it using the sum-o
 
 # 2.1.4 Floating Rate Bond  
 
-The last type of bond, the floating rate bond, is also a multiple-[[Preview of the Book|cash flow]] bond. Similarly to. the coupon bond, it has a stream of coupon cash flows and a large balloon [[Preview of the Book|cash flow]] equal to the par value at maturity. However, the coupon cash flows are not known up front, but are set one period in advance: next coupon payment is set today, the coupon paid 2 years from today is set 1 year from today, the coupon paid 3 years from today is set 2 years from today, etc. The. idea is to reset the interest rate, as on a revolving loan, to a new "fair' rate each year, rather than holding it constant throughout of the life of the bond..  
+The last type of bond, the floating rate bond, is also a multiple-[cash flow](../Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) bond. Similarly to. the coupon bond, it has a stream of coupon cash flows and a large balloon [cash flow](../Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) equal to the par value at maturity. However, the coupon cash flows are not known up front, but are set one period in advance: next coupon payment is set today, the coupon paid 2 years from today is set 1 year from today, the coupon paid 3 years from today is set 2 years from today, etc. The. idea is to reset the interest rate, as on a revolving loan, to a new "fair' rate each year, rather than holding it constant throughout of the life of the bond..  
 
 ![](00ea206c43f976c6dc9ed8fede7472153f26e8af53ee5165c02e9b8da5614c9a.jpg)  
 Figure 2.6 A 4-year floating-rate bond: always worth par  
 
 Since the cash flows are not known in advance (we use a tilde to denote a quantity unknown today), it may appear that the floating rate bond is impossible to value. In fact, as long as the. rates set each year are flat without a margin (i.e. LIBOR plus zero), the floating rate bond is. easy to value using the backward sweep method..  
 
-We illustrate that in Figure 2.6. Suppose Jack lends to the ABC Company on a floating rate basis for 4 years. The face value of the bond is $\$1,000$ . Each year the bond's rate is set to a 1-year rate and the coupon interest is paid a year later (in arrears). At the penultimate time 3, we expect to receive 1 year later $\$1,000$ in principal plus the new coupon rate ${\tilde{x}}_{3}$ times $\$1,000$ in coupon interest. To discount from time 4 to time 3, we will multiply the cash flow $\$1,000$ $+\tilde{x}_{3}\times\S1\mathrm{,000}$ to be received at time 4 by the one-step [[Discount Factors|discount factor]] $d f_{3,4}=1/(1+\tilde{x}_{3})$ That simply produces $\$1,000$ . This illustrates that after each coupon payment the value of the floating rate bond reverts to par. The floating rate bond is indeed equivalent to a guaranteed. revolving loan without the hassle of finding a borrower and re-signing papers each year..  
+We illustrate that in Figure 2.6. Suppose Jack lends to the ABC Company on a floating rate basis for 4 years. The face value of the bond is $\$1,000$ . Each year the bond's rate is set to a 1-year rate and the coupon interest is paid a year later (in arrears). At the penultimate time 3, we expect to receive 1 year later $\$1,000$ in principal plus the new coupon rate ${\tilde{x}}_{3}$ times $\$1,000$ in coupon interest. To discount from time 4 to time 3, we will multiply the cash flow $\$1,000$ $+\tilde{x}_{3}\times\S1\mathrm{,000}$ to be received at time 4 by the one-step [discount factor](../../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) $d f_{3,4}=1/(1+\tilde{x}_{3})$ That simply produces $\$1,000$ . This illustrates that after each coupon payment the value of the floating rate bond reverts to par. The floating rate bond is indeed equivalent to a guaranteed. revolving loan without the hassle of finding a borrower and re-signing papers each year..  
 $$
 \begin{array}{c}{\displaystyle\mathrm{~\boldmath~\rho~}_{0}^{,}=1,000=\frac{1}{1+x_{0}}}\ {\displaystyle~\times\left(1,000x_{0}+\frac{1}{1+\tilde{x}_{1}}\left(1,000\tilde{x}_{1}+\frac{1}{1+\tilde{x}_{2}}\left(1,000\tilde{x}_{0}+\frac{1}{1+\tilde{x}_{3}}(1,000\tilde{x}_{3}+1,000\right)\right)\right)}\end{array}
 $$  

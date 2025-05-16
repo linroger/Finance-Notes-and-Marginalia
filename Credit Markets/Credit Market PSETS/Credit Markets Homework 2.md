@@ -37,7 +37,7 @@ Calc_date = ql.Date (8,          4,          2024)
 Ql.Settings.Instance (). EvaluationDate = calc_date
 ```
 
-## a. Prepare the symbology and market data files for fixed rate government and [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
+## a. Prepare the symbology and market data files for fixed rate government and [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md)
 
 Load the `bond_symbology`,  `bond_market_prices_eod` and `govt_on_the_run` Excel files into dataframes.
 
@@ -104,7 +104,7 @@ Display (govt_on_the_run_simple.Head ())
 	  <th>rank</th>
 	  <th>amt_out</th>
 	  <th>country</th>
-	  <th>[[Forwards and Futures Notes|currency]]</th>
+	  <th>[currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)</th>
 	  <th>status</th>
 	  <th>term</th>
 	  <th>TTM</th>
@@ -414,7 +414,7 @@ Display (govt_on_the_run_simple.Head ())
 
 ## b. Add function to construct generic fixed rate cashflow schedules from symbology data
 
-Use one row of the symbology dataframe as input to the function. Use the helper function to convert a date string to a [[Credit Markets Homework 2|QuantLib date object]].
+Use one row of the symbology dataframe as input to the function. Use the helper function to convert a date string to a [QuantLib date object](.md).
 ```python
 Def get_ql_date (date) -> ql. Date:
     """
@@ -504,7 +504,7 @@ For date in cashflow_schedule:
     Rank                     Sr Unsecured
     Amt_out                        2250.0
     Country                            US
-    [[Forwards and Futures Notes|Currency]]                          USD
+    [Currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)                          USD
     Status                           ACTV
     Term                         9.998631
     TTM                          2.839151
@@ -542,7 +542,7 @@ Def create_bond_from_symbology (details: dict):
     
      # Create day_count from details['dcc']
      # For US Treasuries use ql.ActualActual (ql. ActualActual. ISMA)
-     # For US [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] use ql. Thirty 360 (ql. Thirty 360. USA)
+     # For US [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) use ql. Thirty 360 (ql. Thirty 360. USA)
     
     If details['class'] == 'Corp':
         Day_count = ql. Thirty 360 (ql. Thirty 360. USA)
@@ -598,7 +598,7 @@ Print ('Bond face notional: ',          corp_bond_object.Notional ())
 
 ## d. Add function that returns a dataframe with (future) cash flows details for a bond object
 
-Use the "Investigate Bond Cashflows" section in the [[Introduction to QuantLib Python|Quantlib]] Basic notebook as a template.
+Use the "Investigate Bond Cashflows" section in the [Quantlib](../../Course%20Notes/Python/QuantLib-Python/Introduction%20to%20QuantLib%20Python.md) Basic notebook as a template.
 
 The results dataframe should contain following columns:
 
@@ -653,7 +653,7 @@ Govt_bond_object = create_bond_from_symbology (govt_bond_details)
     Rank                        Unsecured
     Amt_out                        9509.0
     Country                            US
-    [[Forwards and Futures Notes|Currency]]                          USD
+    [Currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)                          USD
     Status                           ACTV
     Term                        30.001369
     TTM                          0.856947
@@ -819,11 +819,11 @@ Govt_combined_otr.Plot (x='TTM',          y='midYield',          grid=True,     
 
 ## b. Calibrate the on-the-run treasury yield curve (bootstrapping)
 
-The function below shows how to calibrate a smooth yield/[[Credit Markets Session 3|discount factor curve]] from the on-the-run treasury dataframe.
+The function below shows how to calibrate a smooth yield/[discount factor curve](../Credit%20Markets%20Session%203.md) from the on-the-run treasury dataframe.
 
-Calibrate the bid,  ask and mid [[Discount Factors|discount factor]] curves as of 2024-04-08.
+Calibrate the bid,  ask and mid [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) curves as of 2024-04-08.
 
-Display the [[Credit Markets Session 4|calibration]] results for the mid curve,  using get_yield_curve_details_df ().
+Display the [calibration](../Credit%20Markets%20Session%204.md) results for the mid curve,  using get_yield_curve_details_df ().
 ```python
 Def calibrate_yield_curve_from_frame (
         Calc_date: ql. Date,         
@@ -1232,7 +1232,7 @@ Plt. Set_xlabel ('Date')
 
 ## d. Plot calibrated discount factors
 
-Plot the [[Credit Markets Session 3|discount factor curve]] up to the 30 years point,  using a 6 months discretization grid.
+Plot the [discount factor curve](../Credit%20Markets%20Session%203.md) up to the 30 years point,  using a 6 months discretization grid.
 ```python
 Plt = tsy_yield_curve_df.Plot (x='Date',          y=['DiscountFactor'],          style='*-',          grid=True,          title=f'US Treasury OTR discount factor curve as of {as_of_date.Date ()}',          figsize=(12,         4))
 Plt. Set_ylabel ('Discount Factor')
@@ -1252,7 +1252,7 @@ Plt. Set_xlabel ('Date')
 
 ## a. US Treasury pricing on the calibrated discount factor curve
 
-Follow Section 5. "Bond Present Value Calculation (no [[Quantitative Trading Strategies Lecture Notes|credit risk]])" in the [[Introduction to QuantLib Python|QuantLib]] Basic notebook to re-price the US [[Credit Market Homework 1|on-the-run treasuries]] using the calibrated [[Credit Markets Session 3|discount factor curve]].
+Follow Section 5. "Bond Present Value Calculation (no [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md))" in the [QuantLib](../../Course%20Notes/Python/QuantLib-Python/Introduction%20to%20QuantLib%20Python.md) Basic notebook to re-price the US [on-the-run treasuries](Credit%20Market%20Homework%201.md) using the calibrated [discount factor curve](../Credit%20Markets%20Session%203.md).
 
 You will need to switch the bond_engine to use the new on-the-run treasury yield curve:
 Bond_engine = ql.DiscountingBondEngine (tsy_yield_curve_mid)
@@ -1262,7 +1262,7 @@ Extend the dataframe with the following computed columns for clean mid prices:
 | calc_mid_price |
 |---------------|
 
-To validate the [[Credit Markets Session 4|calibration]],  compare the calculated clean mid prices to the original market mid prices.
+To validate the [calibration](../Credit%20Markets%20Session%204.md),  compare the calculated clean mid prices to the original market mid prices.
 ```python
 # Create risk free bond_engine using calibrated US OTR yield curve
 Tsy_yield_curve_mid_handle = ql.YieldTermStructureHandle (tsy_yield_curve_mid)
@@ -1279,7 +1279,7 @@ Govt_combined_otr['calc_mid_price'] = calculated_mid_prices
 Govt_combined_otr['calib_error'] = govt_combined_otr['midPrice'] - govt_combined_otr['calc_mid_price']
 
 # Compare the calculated clean mid prices to the original market mid prices.
-display (govt_combined_otr [['security',          'isin',          'figi',          'midPrice',          'calc_mid_price',          'calib_error']])
+display (govt_combined_otr ['security',          'isin',          'figi',          'midPrice',          'calc_mid_price',          'calib_error']('security',%20%20%20%20%20%20%20%20%20%20'isin',%20%20%20%20%20%20%20%20%20%20'figi',%20%20%20%20%20%20%20%20%20%20'midPrice',%20%20%20%20%20%20%20%20%20%20'calc_mid_price',%20%20%20%20%20%20%20%20%20%20'calib_error'))
 ```
 
 <div>
@@ -1378,13 +1378,13 @@ display (govt_combined_otr [['security',          'isin',          'figi',      
 
 ## b. Compute analytical DV 01,  Duration and Convexity for US on-the-run treasuries (using flat yield)
 
-Compute analytical DV 01,  [[An Analytical Decomposition of Forward Rates|Duration and Convexity]] metrics,  as described in Section 7. "Analytical [[Key Rates O1s Durations and Hedging|Duration]],  [[PSET II Fixed Income Asset Pricing 1|Convexity]] and [[Relative Value Analysis|Z-Spread]] (flat yield model)" in the [[Introduction to QuantLib Python|QuantLib]] Basic notebook.
+Compute analytical DV 01,  [Duration and Convexity](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%208/An%20Analytical%20Decomposition%20of%20Forward%20Rates.md) metrics,  as described in Section 7. "Analytical [Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md),  [Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) and [Z-Spread](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Relative%20Value%20Analysis.md) (flat yield model)" in the [QuantLib](../../Course%20Notes/Python/QuantLib-Python/Introduction%20to%20QuantLib%20Python.md) Basic notebook.
 
-Remember that DV 01 = Dirty_Price * [[Key Rates O1s Durations and Hedging|Duration]].
+Remember that DV 01 = Dirty_Price * [Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md).
 
 Extend the dataframe with the following calculated risk metrics:
 
-| dv 01 | [[Key Rates O1s Durations and Hedging|duration]] | [[PSET II Fixed Income Asset Pricing 1|convexity]] |
+| dv 01 | [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) | [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) |
 |-------|-------|-------------|
 ```python
 # Set yield conventions
@@ -1420,7 +1420,7 @@ Govt_combined_otr['dv 01'] = dv 01 s
 Govt_combined_otr['duration'] = calc_durations
 Govt_combined_otr['convexity'] = calc_convexities
 
-display (govt_combined_otr [['security',          'isin',          'figi',          'calc_mid_price',          'dv01',          'duration',          'convexity']])
+display (govt_combined_otr ['security',          'isin',          'figi',          'calc_mid_price',          'dv01',          'duration',          'convexity']('security',%20%20%20%20%20%20%20%20%20%20'isin',%20%20%20%20%20%20%20%20%20%20'figi',%20%20%20%20%20%20%20%20%20%20'calc_mid_price',%20%20%20%20%20%20%20%20%20%20'dv01',%20%20%20%20%20%20%20%20%20%20'duration',%20%20%20%20%20%20%20%20%20%20'convexity'))
 
 ```
 
@@ -1447,8 +1447,8 @@ display (govt_combined_otr [['security',          'isin',          'figi',      
 	  <th>figi</th>
 	  <th>calc_mid_price</th>
 	  <th>dv 01</th>
-	  <th>[[Key Rates O1s Durations and Hedging|duration]]</th>
-	  <th>[[PSET II Fixed Income Asset Pricing 1|convexity]]</th>
+	  <th>[duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)</th>
+	  <th>[convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md)</th>
 	</tr>
   </thead>
   <tbody>
@@ -1528,9 +1528,9 @@ display (govt_combined_otr [['security',          'isin',          'figi',      
 
 ## c. Compute scenario DV 01,  Duration and Convexity for US on-the-run treasuries (using calibrated yield curve)
 
-Compute the scenario DV 01,  [[An Analytical Decomposition of Forward Rates|Duration and Convexity]] metrics using +/-1 bp interest rate shocks,  as described in Section 6. "Market Data Scenarios" in the [[Introduction to QuantLib Python|QuantLib]] Basic notebook.
+Compute the scenario DV 01,  [Duration and Convexity](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%208/An%20Analytical%20Decomposition%20of%20Forward%20Rates.md) metrics using +/-1 bp interest rate shocks,  as described in Section 6. "Market Data Scenarios" in the [QuantLib](../../Course%20Notes/Python/QuantLib-Python/Introduction%20to%20QuantLib%20Python.md) Basic notebook.
 
-Remember that DV 01 = Dirty_Price * [[Key Rates O1s Durations and Hedging|Duration]].
+Remember that DV 01 = Dirty_Price * [Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md).
 
 Extend the dataframe with the following scenario sensitivities metrics:
 
@@ -1575,7 +1575,7 @@ Govt_combined_otr['scen_dv 01'] = scen_dv 01 s
 Govt_combined_otr['scen_duration'] = scen_durations
 Govt_combined_otr['scen_convexity'] = scen_convexities
 
-display (govt_combined_otr [['security',          'isin',          'figi',         'scen_dv01',          'scen_duration',          'scen_convexity']])
+display (govt_combined_otr ['security',          'isin',          'figi',         'scen_dv01',          'scen_duration',          'scen_convexity']('security',%20%20%20%20%20%20%20%20%20%20'isin',%20%20%20%20%20%20%20%20%20%20'figi',%20%20%20%20%20%20%20%20%20'scen_dv01',%20%20%20%20%20%20%20%20%20%20'scen_duration',%20%20%20%20%20%20%20%20%20%20'scen_convexity'))
 
 ```
 
@@ -1673,11 +1673,11 @@ display (govt_combined_otr [['security',          'isin',          'figi',      
 </table>
 </div>
 
-# Problem 4: Pricing and risk metrics for [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
+# Problem 4: Pricing and risk metrics for [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md)
 
 ## a. Create the fixed-rate corporate bond objects
 
-Restrict the symbology dataframe to fixed rate [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] only and create the corporate bond objects.
+Restrict the symbology dataframe to fixed rate [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) only and create the corporate bond objects.
 ```python
 # Create the fixed-rate corporate bond symbology + combined dataframes
 Corp_symbology = bond_symbology[bond_symbology['cpn_type'] == 'FIXED']
@@ -1943,7 +1943,7 @@ Display (corp_bond_cf)
 
 ## b. Compute analytical Yields and Z-Spreads
 
-Compute analytical Yields and Z-Spreads metrics,  as described in Section 7. "Analytical [[Key Rates O1s Durations and Hedging|Duration]],  [[PSET II Fixed Income Asset Pricing 1|Convexity]] and [[Relative Value Analysis|Z-Spread]] (flat yield model)" in the [[Introduction to QuantLib Python|QuantLib]] Basic notebook.
+Compute analytical Yields and Z-Spreads metrics,  as described in Section 7. "Analytical [Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md),  [Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) and [Z-Spread](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Relative%20Value%20Analysis.md) (flat yield model)" in the [QuantLib](../../Course%20Notes/Python/QuantLib-Python/Introduction%20to%20QuantLib%20Python.md) Basic notebook.
 
 Extend the dataframe with the following calculated risk metrics:
 
@@ -1986,7 +1986,7 @@ For index,          row in corp_combined.Iterrows ():
 Corp_combined['calc_yield'] = calc_yields
 Corp_combined['calc_zspread'] = calc_zspreads
 
-display (corp_combined [['security',          'isin',          'figi',          'midPrice',          'calc_yield',          'calc_zspread']])
+display (corp_combined ['security',          'isin',          'figi',          'midPrice',          'calc_yield',          'calc_zspread']('security',%20%20%20%20%20%20%20%20%20%20'isin',%20%20%20%20%20%20%20%20%20%20'figi',%20%20%20%20%20%20%20%20%20%20'midPrice',%20%20%20%20%20%20%20%20%20%20'calc_yield',%20%20%20%20%20%20%20%20%20%20'calc_zspread'))
 
 ```
 
@@ -2121,11 +2121,11 @@ display (corp_combined [['security',          'isin',          'figi',          
 <p>770 rows × 6 columns</p>
 </div>
 
-## c. Validate Z-Spread computation for a few fixed rate [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]]
+## c. Validate Z-Spread computation for a few fixed rate [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md)
 
-Pick 3 [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] (at your discretion) and use function below to re-price them using the calibrated flat [[Relative Value Analysis|z-spread]]. Follow the example in Section 7. "Analytical [[Key Rates O1s Durations and Hedging|Duration]],  [[PSET II Fixed Income Asset Pricing 1|Convexity]] and [[Relative Value Analysis|Z-Spread]] (flat yield model)".
+Pick 3 [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) (at your discretion) and use function below to re-price them using the calibrated flat [z-spread](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Relative%20Value%20Analysis.md). Follow the example in Section 7. "Analytical [Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md),  [Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) and [Z-Spread](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Relative%20Value%20Analysis.md) (flat yield model)".
 
-Validate that you match the original market prices,  which were used as input to the [[Relative Value Analysis|z-Spread]] function.
+Validate that you match the original market prices,  which were used as input to the [z-Spread](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Relative%20Value%20Analysis.md) function.
 ```python
 Def calc_clean_price_with_zspread (fixed_rate_bond,          yield_curve_handle,          zspread):
     Zspread_quote = ql.SimpleQuote (zspread)
@@ -2148,7 +2148,7 @@ Bond_engine = ql.DiscountingBondEngine (tsy_yield_curve_mid_handle)
 Compounding = ql. Compounded
 Coupon_freq = ql. Semiannual
 
-# Pick 3 [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] (at your discretion)
+# Pick 3 [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) (at your discretion)
 Corp_combined_small = corp_combined[: 3]. Copy ()
 
 # Calculate prices with zspreads
@@ -2166,7 +2166,7 @@ For index,          row in corp_combined_small.Iterrows ():
 Corp_combined_small['bond_zspread_price'] = bond_zspread_prices
 Corp_combined_small['price_difference'] = corp_combined_small['midPrice'] - corp_combined_small['bond_zspread_price']
 
-display (corp_combined_small [['security',          'isin',          'figi',          'calc_zspread',          'midPrice',          'bond_zspread_price',         'price_difference']])
+display (corp_combined_small ['security',          'isin',          'figi',          'calc_zspread',          'midPrice',          'bond_zspread_price',         'price_difference']('security',%20%20%20%20%20%20%20%20%20%20'isin',%20%20%20%20%20%20%20%20%20%20'figi',%20%20%20%20%20%20%20%20%20%20'calc_zspread',%20%20%20%20%20%20%20%20%20%20'midPrice',%20%20%20%20%20%20%20%20%20%20'bond_zspread_price',%20%20%20%20%20%20%20%20%20'price_difference'))
 ```
 
 <div>
@@ -2231,9 +2231,9 @@ display (corp_combined_small [['security',          'isin',          'figi',    
 </table>
 </div>
 
-## d. Compute Duration and Convexity for fixed rate [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] (using flat yield)
+## d. Compute Duration and Convexity for fixed rate [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) (using flat yield)
 
-Compute analytical [[An Analytical Decomposition of Forward Rates|Duration and Convexity]] metrics,  as described in Section 7. "Analytical [[Key Rates O1s Durations and Hedging|Duration]],  [[PSET II Fixed Income Asset Pricing 1|Convexity]] and [[Relative Value Analysis|Z-Spread]] (flat yield model)" in the [[Introduction to QuantLib Python|QuantLib]] Basic notebook.
+Compute analytical [Duration and Convexity](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%208/An%20Analytical%20Decomposition%20of%20Forward%20Rates.md) metrics,  as described in Section 7. "Analytical [Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md),  [Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) and [Z-Spread](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Relative%20Value%20Analysis.md) (flat yield model)" in the [QuantLib](../../Course%20Notes/Python/QuantLib-Python/Introduction%20to%20QuantLib%20Python.md) Basic notebook.
 
 Extend the dataframe with the following calculated risk metrics:
 
@@ -2274,7 +2274,7 @@ For index,          row in corp_combined.Iterrows ():
 Corp_combined['calc_duration'] = calc_durations
 Corp_combined['calc_convexity'] = calc_convexities
 
-display (corp_combined [['security',          'isin',          'figi',          'midPrice',          'calc_duration',          'calc_convexity']]. head ())
+display (corp_combined ['security',          'isin',          'figi',          'midPrice',          'calc_duration',          'calc_convexity']('security',%20%20%20%20%20%20%20%20%20%20'isin',%20%20%20%20%20%20%20%20%20%20'figi',%20%20%20%20%20%20%20%20%20%20'midPrice',%20%20%20%20%20%20%20%20%20%20'calc_duration',%20%20%20%20%20%20%20%20%20%20'calc_convexity'). head ())
 
 ```
 

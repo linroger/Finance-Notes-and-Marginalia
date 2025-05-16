@@ -20,9 +20,9 @@ key_concepts:
 
 # Appendix 17. B  the SOLUTION WITH SHUTTING DOWN and RESTARTING  
 
-In this appendix we explain the solution of two problems: investing and operating (1) when it is possible to shut down once and restart once, permanently, and (2) when it is possible to [[Appendix 17.B The Solution With Shutting Down and Restarting|shut down and restart]] an inﬁnite number of times. The solutions here can be implemented numerically.  
+In this appendix we explain the solution of two problems: investing and operating (1) when it is possible to shut down once and restart once, permanently, and (2) when it is possible to [shut down and restart](.md) an inﬁnite number of times. The solutions here can be implemented numerically.  
 
-First, we develop some notation. Let    $V_{U}(S,m,n;*)$   represent the value of an undeveloped reserve and    $V_{O}(S,m,n;*)$   and    $V_{C}(S,m,n;*)$   the value of developed operating and developed closed reserves, where it is possible to shut down  m  times and restart  n  times. The  $^*$  denotes a dependence on the prices at which shutting and [[Appendix 17.B The Solution With Shutting Down and Restarting|restarting]] is opt al. We will be using the formulas given by equations (12.22) and (12.23) for the value of \$1 when  $S$   reaches a barrier.  
+First, we develop some notation. Let    $V_{U}(S,m,n;*)$   represent the value of an undeveloped reserve and    $V_{O}(S,m,n;*)$   and    $V_{C}(S,m,n;*)$   the value of developed operating and developed closed reserves, where it is possible to shut down  m  times and restart  n  times. The  $^*$  denotes a dependence on the prices at which shutting and [restarting](.md) is opt al. We will be using the formulas given by equations (12.22) and (12.23) for the value of \$1 when  $S$   reaches a barrier.  
 
 # Single Shutdown and Restart  
 
@@ -40,7 +40,7 @@ $$
 
 We choose  $S_{*}$  to maximize this expression, taking    $S^{*}$  as determined by ion (17.15).  
 
-Finally, prior to the original [[Chapter 1 Introduction to Securities Trading and Markets|investment decision]], which occurs at    $\bar{S}>S$  ¯ , the value of the well is  
+Finally, prior to the original [investment decision](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%201%20Introduction%20to%20Securities%20Trading%20and%20Markets.md), which occurs at    $\bar{S}>S$  ¯ , the value of the well is  
 $$
 V_{U}(S,\,1,\,1;\,S_{*},\,S^{*})=\left[V_{0}(\bar{S},\,1,\,1,\,S_{*},\,S^{*})-I\right]\left({\frac{S}{\bar{S}}}\right)^{h_{1}}
 $$  
@@ -70,4 +70,4 @@ $$
 V_{U}(S,\infty,\infty;S_{*},S^{*})=\left[{\frac{\overline{{S}}}{\delta}}-{\frac{c}{r}}-I+V_{C}(S_{*},\infty,\infty;S_{*},S^{*})\left({\frac{\overline{{S}}}{S_{*}}}\right)^{h_{2}}\right]\left({\frac{S}{\overline{{S}}}}\right)^{h_{1}}
 $$  
 
-We maximize this with respect to    $\overline{{S}}$   to ﬁnd the [[Appendix 17.B The Solution With Shutting Down and Restarting|investment trigger]] and value of the well.  
+We maximize this with respect to    $\overline{{S}}$   to ﬁnd the [investment trigger](.md) and value of the well.  

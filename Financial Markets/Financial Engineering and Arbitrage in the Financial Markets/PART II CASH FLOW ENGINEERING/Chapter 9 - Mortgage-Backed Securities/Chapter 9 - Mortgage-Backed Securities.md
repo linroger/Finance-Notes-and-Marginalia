@@ -1,9 +1,9 @@
 %% Begin Waypoint %%
-- **[[Chapter 9 - Mortgage-Backed Securities]]**
-	- [[Chapter 9 - Mortgage-Backed Securities]]
-	- [[Collateralized Mortgage Obligations]]
-	- [[Mortgage Financing Basics]]
-	- [[Mortgage Pass-Through Securities]]
+- **[Chapter 9 - Mortgage-Backed Securities](.md)**
+	- [Chapter 9 - Mortgage-Backed Securities](.md)
+	- [Collateralized Mortgage Obligations](Collateralized%20Mortgage%20Obligations.md)
+	- [Mortgage Financing Basics](Mortgage%20Financing%20Basics.md)
+	- [Mortgage Pass-Through Securities](Mortgage%20Pass-Through%20Securities.md)
 
 %% End Waypoint %%
 
