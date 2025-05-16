@@ -285,7 +285,7 @@ $$
 $$
 
 where   $W\equiv\big(w(T)-w(t)\big)$    is distributed as normal   $N(0,T-t)$    under the usual  probability measure.
-As mentioned above the price of European option at time   $t$    can be found by  discounting the expected payoff of the call option (Where   $\mathrm{E}^{*}$    denotes expectation  taken under the [risk-neutral probability measure](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)). The expectation is taken  conditional on information at time  $t$    [that is, conditional on  $S(t)]$  :
+As mentioned above the price of European option at time   $t$    can be found by  discounting the expected payoff of the call option (Where   $\mathrm{E}^{*}$    denotes expectation  taken under the [risk-neutral probability measure](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)). The expectation is taken  conditional on information at time  $t$    [that is, conditional on  $S(t)]$  :
 $$
 c(t)=e^{-r(T-t)}E^{*}\big[\mathrm{max}\big(S(T)-K_{*}\!0\big)\big|S(t)\big)\big]
 $$

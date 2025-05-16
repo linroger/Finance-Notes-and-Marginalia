@@ -125,7 +125,7 @@ $$C_{0}\ =\ \Delta Z_{0}\left(2\right)+Z_{0}\left(1\right)\Pi_{1,   u}=0.00223$$
 
 ![|500](Pasted%20image%2020240426063208.png)
 
-- P is called "[replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md),  " a key concept.
+- P is called "[replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md),  " a key concept.
 - What was special about the fact that C0 was an option on zero-coupon bond?
 	- Nothing in particular!
 	- We could do the same derivation with any other security.

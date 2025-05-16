@@ -1,4 +1,4 @@
-# **Graduate-Level Statistics and Machine Learning Primer**
+# **Statistics and Machine Learning Primer**
 
 ## **Table of Contents**
 

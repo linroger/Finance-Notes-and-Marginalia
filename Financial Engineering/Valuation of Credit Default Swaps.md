@@ -325,6 +325,6 @@ A more complete exposition of the valuation model is to be published soon. In ad
 
 # 12. BIBLIOGRAPHY  
 
-[Jarrow and Turnbull](Fixed%20Income%20Derivatives/Credit%20Risk%20Models%20and%20the%20Valuation%20of%20Credit%20%20Default%20Swap%20Contracts.md) (1995), "[Pricing Derivatives](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) on Financial Securities Subject to [Credit Risk](../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md)", Journal of Finance, Vol 50 (1995), 53-85.   
+[Jarrow and Turnbull](Fixed%20Income%20Derivatives/Credit%20Risk%20Models%20and%20the%20Valuation%20of%20Credit%20%20Default%20Swap%20Contracts.md) (1995), "[Pricing Derivatives](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) on Financial Securities Subject to [Credit Risk](../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md)", Journal of Finance, Vol 50 (1995), 53-85.   
 O'Kane (2001), [Credit Derivatives](../Credit%20Markets/RISK%20NEUTRAL%20VALUATION%20FRAMEWORK%20FOR%20CREDIT%20DEFAULT%20SWAPS.md) Explained, Lehman Brothers, March 2001.   
 O'Kane and Schloegl (2001), Modelling Credit: Theory and Practice, February 2001. O'Kane and Turnbull (2003), Valuation and Risk-Management of Credit Default Swaps, Lehman Brothers, to be published spring 2003.  

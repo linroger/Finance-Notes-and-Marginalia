@@ -2783,7 +2783,7 @@ A [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for
 
 - The principal and interest repaid to investors fluctuate based on the level of the CPI,  maintaining the purchasing power of each payment.
   - The real yield of TIPS is fixed,  representing the growth in purchasing power that a hold-to-maturity investor will earn.
-  - TIPS pay interest semiannually at one-half their stated annual coupon rate,  with the [inflation-indexed](../../Chinese%20Financial%20System.md) principal accrued daily.
+  - TIPS pay interest semiannually at one-half their stated annual coupon rate,  with the [inflation-indexed](Chinese%20Financial%20System.md) principal accrued daily.
 
 ### 5.2. Real Yield and Break-Even Inflation Rate
 
@@ -2813,7 +2813,7 @@ A [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for
 
 - The principal and interest repaid to investors fluctuate based on the level of the CPI,  maintaining the purchasing power of each payment.
   - The real yield of TIPS is fixed,  representing the growth in purchasing power that a hold-to-maturity investor will earn.
-  - TIPS pay interest semiannually at one-half their stated annual coupon rate,  with the [inflation-indexed](../../Chinese%20Financial%20System.md) principal accrued daily.
+  - TIPS pay interest semiannually at one-half their stated annual coupon rate,  with the [inflation-indexed](Chinese%20Financial%20System.md) principal accrued daily.
 
 ### 1.2. Real Yield and Break-Even Inflation Rate
 
@@ -2880,7 +2880,7 @@ A [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for
 
 ## 7. Corporate Issuers and CPI Floaters
 
-- U.S. corporations,  agencies,  and municipalities have issued [inflation-indexed](../../Chinese%20Financial%20System.md) bonds,  with some structuring their bonds as CPI floaters.
+- U.S. corporations,  agencies,  and municipalities have issued [inflation-indexed](Chinese%20Financial%20System.md) bonds,  with some structuring their bonds as CPI floaters.
   - A CPI floater is a hybrid between TIPS and a conventional floating-rate note (FRN),  with its return closely linked to CPI [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md).
 
 ## 8. Taxation and Deflation Protection
@@ -2906,7 +2906,7 @@ A [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for
 
 - The principal and interest repaid to investors fluctuate based on the level of the CPI,  maintaining the purchasing power of each payment.
   - The real yield of TIPS is fixed,  representing the growth in purchasing power that a hold-to-maturity investor will earn.
-  - TIPS pay interest semiannually at one-half their stated annual coupon rate,  with the [inflation-indexed](../../Chinese%20Financial%20System.md) principal accrued daily.
+  - TIPS pay interest semiannually at one-half their stated annual coupon rate,  with the [inflation-indexed](Chinese%20Financial%20System.md) principal accrued daily.
 
 ### 1.2. Real Yield and Break-Even Inflation Rate
 
@@ -2973,7 +2973,7 @@ A [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for
 
 ## 7. Corporate Issuers and CPI Floaters
 
-- U.S. corporations,  agencies,  and municipalities have issued [inflation-indexed](../../Chinese%20Financial%20System.md) bonds,  with some structuring their bonds as CPI floaters.
+- U.S. corporations,  agencies,  and municipalities have issued [inflation-indexed](Chinese%20Financial%20System.md) bonds,  with some structuring their bonds as CPI floaters.
   - A CPI floater is a hybrid between TIPS and a conventional floating-rate note (FRN),  with its return closely linked to CPI [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md).
 
 ## 8. Taxation and Deflation Protection

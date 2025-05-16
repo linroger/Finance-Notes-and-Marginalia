@@ -359,7 +359,7 @@ Adrian, T., Crump, R. K. and Moench, E. (2008), updated 2013. [Pricing](../../Fi
 Arai, F., Makabe, Y., Okawara, Y. and Nagano, T. (2016). Recent trends in [cross-currency basis](../Chapter%203/Calculating%20Novel%20Cross-Currency%20Bases%20a.md), Bank of Japan Review, http://www.boj.or.jp/en/research/wps_rev/rev_2016/data/rev16e07.pdf.
 Bernanke, B. S., Boivin, J. and Eliasz, P. (2o05). Measuring the effects of [monetary policy](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md): A factor-augmented vector autoregressive (FAvAR) approach. The Quarterly Journal of Economics, 120(1), 387-422.
 Borio, C., McCauley, R., McGuire, P. and Sushko, V. (2016). [Covered interest parity](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Interest%20Rates,%20Carry%20Trades,%20and%20Exchange%20Rate%20Movements.md) lost: Understanding the [cross-currency basis](../Chapter%203/Calculating%20Novel%20Cross-Currency%20Bases%20a.md). BlS Quarterly Review, http://www.bis.org/publ/qtrpdf/r_qt1609e.pdf.
-Christensen, J. H. E. and Rudebusch, G. D. (2019). A new normal for [interest rates](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)? Evidence from [inflation-indexed](../../../Chinese%20Financial%20System.md) debt. Federal Reserve Bank of San Francisco, Working Paper 2017-07. https://doi.org/10.24148/wp2017-07.
+Christensen, J. H. E. and Rudebusch, G. D. (2019). A new normal for [interest rates](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)? Evidence from [inflation-indexed](Chinese%20Financial%20System.md) debt. Federal Reserve Bank of San Francisco, Working Paper 2017-07. https://doi.org/10.24148/wp2017-07.
 Chua, J. H. (1984). A closed-form formula for calculating bond [duration](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md). Financial Analysts Journal, 40(3), 76-78.
 Cohen, B. H., Hordahl, P. and Xia, D. (2018). Term premia: models and some stylised facts. BIS Quarterly Review, September 2018, 79.
 Crump, R. K., Eusepi, S. and Moench, E. (2016). The [term structure](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) of [expectations](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) and bond yields, Federal Reserve Bank of New York Staff Reports, no. 775 May 2016; revised April 2018.
@@ -440,7 +440,7 @@ maturity-matched hedge 73, 84
 [modified duration](../../../Financial%20Engineering/A%20Guide%20to%20Duration%20DV01%20and%20Yield%20Curve.md) 135, 140
 negative basis 14
 netting 22-24
-[no-arbitrage pricing](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) 3
+[no-arbitrage pricing](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) 3
 pickup 14-15, 40-41, 47-48, 66-67, 70,
 73-76, 78-79, 81-84
 [realised convexity](.md) 161, 164, 166

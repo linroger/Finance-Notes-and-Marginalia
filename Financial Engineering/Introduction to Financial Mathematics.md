@@ -128,7 +128,7 @@ key_concepts:
 106  
 
 11.1 [Equivalent Probability Measures](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2011%20-%20Risk-adjusted%20probabilities/Change%20of%20Probability%20Measure.md). 106   
-11.2 The [Fundamental Theorem](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of [Asset Pricing](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md) 107  
+11.2 The [Fundamental Theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of [Asset Pricing](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md) 107  
 
 # 12 Probability Theory: Normal Distribution and Central Limit Theorem 111  
 
@@ -3033,7 +3033,7 @@ $$
 
 # 10.2 Replication on the One-Step Binomial Tree  
 
-Up to this point in the course, our standard strategy for [pricing derivatives](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) has been [replication](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md). The outline of the [replication](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) strategy is as follows. We start with a derivative whose price at time $t$ we wish to determine. We put it in a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $A$ . We then construct a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $B$ such that $V^{A}(T)=V^{B}(T)$ with probability one at some future time $T>t$ and $V^{B}(t)$ has a simple well-understood formula. Finally, we use the [replication](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) principle to conclude that the price of the derivative at time $t$ is  
+Up to this point in the course, our standard strategy for [pricing derivatives](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) has been [replication](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md). The outline of the [replication](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) strategy is as follows. We start with a derivative whose price at time $t$ we wish to determine. We put it in a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $A$ . We then construct a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $B$ such that $V^{A}(T)=V^{B}(T)$ with probability one at some future time $T>t$ and $V^{B}(t)$ has a simple well-understood formula. Finally, we use the [replication](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) principle to conclude that the price of the derivative at time $t$ is  
 $$
 D_{t}=V^{A}(t)=V^{B}(t)=\mathrm{simple~well{\mathrm{-}}u n d e r s t o o d~f o r m u l a.}
 $$  
@@ -3042,7 +3042,7 @@ Note that [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer
 
 We used the [replication](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) strategy successfully when the derivative was a forward on various types of underlying assets and when the derivative was a [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) agreement or swap on future [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md).  
 
-For other types of [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md), like options, it is not always possible in general to find a suitable [replicating portfolio](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $B$  
+For other types of [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md), like options, it is not always possible in general to find a suitable [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $B$  
 
 However, in the one-step [binomial tree model](../Financial%20Instruments/Binomial%20Option%20Pricing%20Model.md), every derivative contract can be replicated by a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of stocks and ZCBs, so we can use the [replication](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) strategy. We now. discuss the details.  
 
@@ -3133,7 +3133,7 @@ Therefore $V^{A}(T)>0$ with probability one. So $A$ is an [arbitrage](../Financi
 
 Consider a one-step [binomial tree model](../Financial%20Instruments/Binomial%20Option%20Pricing%20Model.md) for a stock paying no income. With respect to the real-world probability measure $P$ , the probability of an up movement is $P(S_{1}=(1+$ $u)S_{0})=p$ , and the probability of a down movement is $P(S_{1}=(1+d)S_{0})=1-p$ The constant annually compounded interest rate is $r$  
 
-Result 10.4.1 ([Fundamental Theorem](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)). If there are no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) portfolios, then $d<r<u$ and  
+Result 10.4.1 ([Fundamental Theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)). If there are no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) portfolios, then $d<r<u$ and  
 $$
 V^{A}(0)=Z(0,1)\mathbb{E}^{*}(V^{A}(1)|S_{0})
 $$  
@@ -3256,7 +3256,7 @@ for $0\leq k\leq n$
 
 Remark. A derivative that pays out only at a single time $T$ is called a European-style derivative. Examples are [forwards](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md), Europeans calls, European puts, European call butterflies, and any [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) that consists of European options all maturing at the same time. American options are not examples, since they can payout at any time $t\leq T$ . By iterating the argument in the proof of 10.2.1, we can show that any European-style derivative can be replicated by a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) consisting of only stocks and ZCBs.  
 
-Result 10.5.2 ([Fundamental Theorem](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)). If there are no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) portfolios, then $d<r\Delta T<$ $u$ and  
+Result 10.5.2 ([Fundamental Theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)). If there are no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) portfolios, then $d<r\Delta T<$ $u$ and  
 $$
 V^{A}(t)=Z(t,T)\mathbb{E}^{*}(V^{A}(T)|S_{t})
 $$  
@@ -3272,7 +3272,7 @@ Remark. We omit the proof, which is similar to the proof of Result 10.4.1.
 
 Consider a [binomial tree](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) (parameters $\Delta T,r,u,d,p)$ for a stock paying no income. The [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) at time $T$ is denoted $S_{T}$  
 
-The [fundamental theorem](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) (Result 10.5.2) allows us to prove an exact formula for the price of European call options.  
+The [fundamental theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) (Result 10.5.2) allows us to prove an exact formula for the price of European call options.  
 
 Result 10.6.1 (Cox-Rubenstein Formula for European Calls). Assume there are no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) portfolios. The price at 0 of a European call with maturity $T=n\Delta T$ and strike $K$ is  
 $$
@@ -3302,7 +3302,7 @@ $$
 Z(0,T)=Z(0,n)=(1+r)^{-n}.
 $$  
 
-By the [fundamental theorem](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md),  
+By the [fundamental theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md),  
 $$
 C_{K}(0,T)=Z(0,T)\mathbb{E}^{*}(C_{K}(T,T)|S_{0})=(1+r)^{-n}\mathbb{E}^{*}(g(S_{n})|S_{0}).
 $$  
@@ -3327,7 +3327,7 @@ $$
 p^{*}={\frac{r-d}{u-d}},
 $$  
 
-is the probability of an "up" movement in the [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) with respect to the [risk-neutral probability measure](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $P^{*}$ . Therefore, by Result 10.5.1,  
+is the probability of an "up" movement in the [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) with respect to the [risk-neutral probability measure](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $P^{*}$ . Therefore, by Result 10.5.1,  
 $$
 P^{*}(S_{n}=(1+u)^{k}(1+d)^{n-k}S_{0}|S_{0})={\binom{n}{k}}p^{*k}(1-p^{*})^{n-k}\quad{\mathrm{~for~}}k=0,1,\ldots,n.
 $$  
@@ -3430,14 +3430,14 @@ Notice the definition only cares about events having probability one and probabi
 
 Result 10.4.1 and Result 10.5.2 can be viewed as special cases of  
 
-Theorem 11.2.1 (General [Fundamental Theorem](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)). There are no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) portfolios $\Leftrightarrow$ there exists a probability measure $P^{*}$ equivalent to $P$ such that  
+Theorem 11.2.1 (General [Fundamental Theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)). There are no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) portfolios $\Leftrightarrow$ there exists a probability measure $P^{*}$ equivalent to $P$ such that  
 $$
 V^{A}(t)=Z(t,T)\mathbb{E}^{*}(V^{A}(T)|\mathcal{Z}_{t})\quad\mathrm{for~all~times~}t<T\mathrm{~and~all~portfolios~}A.
 $$  
 
 Notation. $\mathcal{T}_{t}$ is an abbreviation for all random variables relevant to the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) at time $t$ .Typically, there will only be one relevant variable. For a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) that depends on a [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md), $\mathcal{I}_{t}=S_{t}=$ [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) at $t$ . For a derivative that depends on an interest rate, $\mathcal{T}_{t}=$ interest rate at $t$  
 
-The [fundamental theorem](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) can be proved in very general settings, but we will not go into details in this course. We proved the. $\Rightarrow$ half of Theorem 11.2.1 in the case of the one-step. [binomial tree](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) when we proved Result 10.4.1. Here we prove the. $\Leftarrow$ half Theorem 11.2.1.  
+The [fundamental theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) can be proved in very general settings, but we will not go into details in this course. We proved the. $\Rightarrow$ half of Theorem 11.2.1 in the case of the one-step. [binomial tree](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) when we proved Result 10.4.1. Here we prove the. $\Leftarrow$ half Theorem 11.2.1.  
 
 Proof. Assume there exists a probability measure $P^{*}$ equivalent to $P$ such that (11.2.1) holds. We will show there are no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) portfolios.  
 
@@ -3470,13 +3470,13 @@ $$
 
 This contradicts (i).  
 
-Definition 11.2.1. A probability measure $P^{*}$ equivalent to $P$ that satisfies (11.2.1) is called a [risk-neutral probability measure](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) (or an equivalent martingale probability measure).  
+Definition 11.2.1. A probability measure $P^{*}$ equivalent to $P$ that satisfies (11.2.1) is called a [risk-neutral probability measure](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) (or an equivalent martingale probability measure).  
 
-Remark 11.2.2. The probability measure. $P$ represents the [real-world probabilities](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2011%20-%20Risk-adjusted%20probabilities/Change%20of%20Probability%20Measure.md) deter-. mined from observation and data. A [risk-neutral probability measure](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $P^{*}$ represents the probabilities in an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free world.. $\triangle$  
+Remark 11.2.2. The probability measure. $P$ represents the [real-world probabilities](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2011%20-%20Risk-adjusted%20probabilities/Change%20of%20Probability%20Measure.md) deter-. mined from observation and data. A [risk-neutral probability measure](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $P^{*}$ represents the probabilities in an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free world.. $\triangle$  
 
-Theorem 11.2.3 (Restatement of The [Fundamental Theorem](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of [Asset Pricing](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md)). There are no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) portfolios if and only if there exists a [risk-neutral probability measure](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md). $\triangle$  
+Theorem 11.2.3 (Restatement of The [Fundamental Theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of [Asset Pricing](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md)). There are no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) portfolios if and only if there exists a [risk-neutral probability measure](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md). $\triangle$  
 
-Corollary 11.2.4 (Applications of the [Fundamental Theorem](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)). Let. $S_{t}$ be the price at $t$ of an arbitrary asset. If there are no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) portfolios, then there exists a [risk neutral probability](../Financial%20Instruments/Review%20Session%20Notes/Binomial%20Trees%20and%20Option%20Pricing%20MBA.md) measure $P^{*}$ and:  
+Corollary 11.2.4 (Applications of the [Fundamental Theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)). Let. $S_{t}$ be the price at $t$ of an arbitrary asset. If there are no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) portfolios, then there exists a [risk neutral probability](../Financial%20Instruments/Review%20Session%20Notes/Binomial%20Trees%20and%20Option%20Pricing%20MBA.md) measure $P^{*}$ and:  
 
 (i) If the asset pays no income, then  
 $$
@@ -3491,9 +3491,9 @@ $$
 Proof. (i): Let [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). $A$ consist only of the asset. (ii): Let [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $A$ consist only of the.   
 derivative.  
 
-The [fundamental theorem](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) to reproduce some standard results.  
+The [fundamental theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) to reproduce some standard results.  
 
-Example 11.2.5. Assume no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). Consider a forward with delivery price $K$ and maturity $T$ on a stock paying no income. The prices of the forward and stock at time $t$ are denoted $V_{K}(t,T)$ and $S_{t}$ . Let $A$ be the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) consisting of only the forward. By the [fundamental theorem](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md),  
+Example 11.2.5. Assume no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). Consider a forward with delivery price $K$ and maturity $T$ on a stock paying no income. The prices of the forward and stock at time $t$ are denoted $V_{K}(t,T)$ and $S_{t}$ . Let $A$ be the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) consisting of only the forward. By the [fundamental theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md),  
 $$
 \begin{array}{r l}&{V_{K}(t)=V^{A}(t)=Z(t,T)\mathbb{E}^{*}(V^{A}(T)|S_{t})}\ &{\qquad=Z(t,T)\mathbb{E}^{*}(S_{T}-K|S_{t})=Z(t,T)\mathbb{E}^{*}(S_{T}|S_{t})-Z(t,T)K}\end{array}
 $$  
@@ -3505,9 +3505,9 @@ $$
 
 which is the same result we got by [replication](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md).  
 
-Exercise 11.2.1. Assume no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md).  Consider a forward with delivery price $K$ and maturity $T$ on a stock paying dividends at continuous yield. $q$ with automatic reinvestment. The prices of the forward and stock at time. $t$ are denoted $V_{K}(t)$ and $S_{t}$ . Use the [fundamental theorem](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) (not [replication](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md)) to prove $V_{K}(t)=S_{t}e^{-q(T-t)}-K Z(t,T)$ . Hint: At some point you will need to show $E(S_{T}|S_{t})=S_{t}e^{-q(T-t)}/Z(t,T)$ . To do so, consider [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $B$ consisting of just the stock, find $V^{B}({\cal T})$ , and apply the [fundamental theorem](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) to. $B$  
+Exercise 11.2.1. Assume no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md).  Consider a forward with delivery price $K$ and maturity $T$ on a stock paying dividends at continuous yield. $q$ with automatic reinvestment. The prices of the forward and stock at time. $t$ are denoted $V_{K}(t)$ and $S_{t}$ . Use the [fundamental theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) (not [replication](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md)) to prove $V_{K}(t)=S_{t}e^{-q(T-t)}-K Z(t,T)$ . Hint: At some point you will need to show $E(S_{T}|S_{t})=S_{t}e^{-q(T-t)}/Z(t,T)$ . To do so, consider [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $B$ consisting of just the stock, find $V^{B}({\cal T})$ , and apply the [fundamental theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) to. $B$  
 
-Exercise 11.2.2. Assume no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). Consider a [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) agreement with maturity $T$ , fixed rate $K$ , and term length $\alpha$ . Use the [fundamental theorem](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) (not [replication](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md)), to prove that the value at time $t$ is $V_{K}(t,T)=Z(t,T)-Z(t,T+\alpha)-\alpha K Z(t,T+\alpha)$  
+Exercise 11.2.2. Assume no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). Consider a [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) agreement with maturity $T$ , fixed rate $K$ , and term length $\alpha$ . Use the [fundamental theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) (not [replication](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md)), to prove that the value at time $t$ is $V_{K}(t,T)=Z(t,T)-Z(t,T+\alpha)-\alpha K Z(t,T+\alpha)$  
 
 # Chapter 12  
 
@@ -3608,7 +3608,7 @@ $$
 
 Here $P$ is the real-world probability measure.  
 
-We assume there are no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) portfolios. So there is a [risk-neutral probability measure](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $P^{*}$ . Under the [risk-neutral probability measure](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $P^{*}$ , the probability of an up-movement is  
+We assume there are no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) portfolios. So there is a [risk-neutral probability measure](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $P^{*}$ . Under the [risk-neutral probability measure](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $P^{*}$ , the probability of an up-movement is  
 $$
 p^{*}={\frac{r\Delta T-d}{u-d}}
 $$  
@@ -3695,7 +3695,7 @@ We consider a stock paying no income whose price at time $T$ is $S_{T}$
 
 # Black-Scholes Model  
 
-1. There are no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) portfolios, and there is a [risk-neutral probability measure](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $P^{*}$   
+1. There are no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) portfolios, and there is a [risk-neutral probability measure](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $P^{*}$   
 2. There is a constant continuous interest rate $r$   
 3. The [stock price](Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) $S_{0}$ at time O is a known constant.   
 4. For any times $0\leq t_{1}<T_{1}\leq t_{2}<T_{2}$ $\ln(S_{T_{1}}/S_{t_{1}})$ and $\ln(S_{T_{2}}/S_{t_{2}})$ are independent.   
@@ -3706,9 +3706,9 @@ $$
 \ln(S_{T}/S_{t})\sim{\cal N}\left(\left(r-\frac{1}{2}\sigma^{2}\right)(T-t);\sigma^{2}(T-t)\right)
 $$  
 
-with respect to the [risk-neutral probability measure](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $P^{*}$  
+with respect to the [risk-neutral probability measure](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $P^{*}$  
 
-Recall that $P^{*}$ being a [risk-neutral probability measure](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) means that  
+Recall that $P^{*}$ being a [risk-neutral probability measure](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) means that  
 $$
 V^{A}(t)=Z(t,T)\mathbb{E}^{*}(V^{A}(T)|S_{t})
 $$  
@@ -3761,7 +3761,7 @@ $$
 g(S_{T})=(S_{T}-K)^{+}={\left\{\begin{array}{l l}{S_{T}-K}&{{\mathrm{if~}}S_{T}\geq K}\ {0}&{{\mathrm{if~}}S_{T}\leq K}\end{array}\right.}
 $$  
 
-Since $P^{*}$ is a [risk-neutral probability measure](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md), we have  
+Since $P^{*}$ is a [risk-neutral probability measure](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md), we have  
 
 CK $t,T)=Z(t,T)E^{*}(g(S_{T})|S_{t})=Z(t,T)E^{*}(g(e^{\ln S_{T}})|S_{t})=Z(t,T)E^{*}(h(\ln S_{T})|S_{t})$ where $h$ is defined by  
 $$

@@ -243,8 +243,8 @@ Value of Option if Wait $=e^{-r/2}E^{*}[p_{2}^{A}|S_{1,    d}]=e^{-r/2}E^{*}[p_{
 1. The same rule as in TN 4 applies:
 1. Compute$\Delta=(p_{1,    u}^{A}-p_{1,    d}^{A})/(S_{1,    u}-S_{1,    d})=-0.447$
 1. Compute bonds$B_{0}=e^{-r/2}\left(p_{1,    u}^{A}-\Delta S_{1,    u}\right)=54.733$
-1. The [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) is$P_{0}=\Delta S_{0}+B_{0}=10.017=p_{0}^{A}$
-- At time i = 1 the [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) has payoffs
+1. The [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) is$P_{0}=\Delta S_{0}+B_{0}=10.017=p_{0}^{A}$
+- At time i = 1 the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) has payoffs
 	- In the Up Node $P_{1,    u}=\Delta S_{1,    u}+B_{0}e^{r/2}=0$
 	- In the Down Node $P_{1,    d}=\Delta S_{1,    d}+B_{0}e^{r/2}=19.114$
 - At time i = 1 we need to rebalance.
@@ -254,11 +254,11 @@ simply hand them the payoff$$P_{1,    d}=K-S_{1,    d}=19.114$$
 
 ## AMERICAN OPTIONS. DYNAMIC REPLICATION
 - What if the option holder does not exercise the American option in node $(1,    d)$?
-   - In this case,  we must continue with the [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) until time $i = 2$.
-   - The new [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) is:
+   - In this case,  we must continue with the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) until time $i = 2$.
+   - The new [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) is:
 	  - $\Delta_{1,    d} = \frac{p_{2,    du}^A - p_{2,    dd}^A}{S_{2,    du} - S_{2,    dd}} = -1$.
 	  - $B_{1,    d} = e^{r/2}(p_2^A - \Delta_{1,    d} S_{2,    u}) = 99.005$.
-   - The value of the new [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) in node $(1,    d)$ is $P_{1,    d}^{new} = \Delta_{1,    d} S_{1,    d} + B_{1,    d} = 18.119$.
+   - The value of the new [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) in node $(1,    d)$ is $P_{1,    d}^{new} = \Delta_{1,    d} S_{1,    d} + B_{1,    d} = 18.119$.
    - The value is lower than the value obtained earlier: $P_{1,    d} = 19.114$ from the initial replicating strategy.
    - – = ⇒The fact that the counterpart forgets to exercise the American option at node (1,  d) make us earn money:
 Profit from suboptimal exercise of option holder = $$P_{1,    d} − P^{new}_{1,    d} = 19.113 − 18.119 = 0.99$$

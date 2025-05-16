@@ -27,7 +27,7 @@
 15.5.2.2 Real-world conventions. 527   
 15.5.2.3 [Floating leg](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) 527   
 15.5.2.4 Determining the fixed variance. 528   
-15.5.3 A [Replicating Portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) .. 529   
+15.5.3 A [Replicating Portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) .. 529   
 15.5.4 The Hedge . 530   
 15.6 Real-World Example of Variance Contract.. 531   
 .7 Volatility and Variance Swaps Before and After the GFC—The Role   
@@ -373,7 +373,7 @@ smile. In general, as $K$ decreases, the implied $\sigma(K)$ would increase for 
 
 # 15.4.1.2 Liquidity problems  
 
-From the preceding it follows that we need to select out-of-the-money options for the synthetic since they are more liquid. But as time passes, the moneyness of these options changes and this affects their [liquidity](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md). Those options that become in-the-money are now less liquid. Other options that were not originally included in the synthetic become more liquid. Even though the [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) was static, the illiquidity of the constituent options may become a drawback in case the position needs to be unwound.  
+From the preceding it follows that we need to select out-of-the-money options for the synthetic since they are more liquid. But as time passes, the moneyness of these options changes and this affects their [liquidity](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md). Those options that become in-the-money are now less liquid. Other options that were not originally included in the synthetic become more liquid. Even though the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) was static, the illiquidity of the constituent options may become a drawback in case the position needs to be unwound.  
 
 # 15.5 VARIANCE SWAPS  
 
@@ -514,7 +514,7 @@ This formula defines the realized variance. It is a random variable at time $t_{
 
 Determining the fixed volatility, $\boldsymbol{F}_{t_{0}}$ , will give the fair value of the [variance swap](../Variance%20Swaps.md) at time $t_{0}$ . How do we obtain the numerical value of $F_{t_{0}}$ ? We start by noting that the [variance swap](../Variance%20Swaps.md) is designed so that its fair value at time $t_{0}$ is equal to zero. Accordingly, the $F_{t_{0}}^{2}$ is that number (variance), which makes the fair value of the swap equal zero. This is a basic principle used throughout the text and it applies here as well.  
 
-We use the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of [asset pricing](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md) and try to find a proper [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free measure $\tilde{P}$ such that  
+We use the [fundamental theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of [asset pricing](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md) and try to find a proper [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free measure $\tilde{P}$ such that  
 $$
 E_{t_{0}}^{\tilde{P}}\Big[\sigma_{T_{1},T_{2}}^{2}-F_{t_{0}}^{2}\Big](T_{2}-T_{1})N=0
 $$  
@@ -545,7 +545,7 @@ Given a proper [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities
 
 # 15.5.3 A REPLICATING PORTFOLIO  
 
-The representation using the [risk-neutral measure](../Verifying%20Martingale%20Property%20with%20Q.md) can be used for [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). But how would we hedge a [variance swap](../Variance%20Swaps.md)? To create the right hedge, we need to find a [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md). We discuss this issue using an alternative setup. This alternative has the side advantage of the financial engineering interpretation of some mathematical tools being clearly displayed. The following model starts with [Black Scholes](../../Credit%20Markets/Black-Scholes%20Model.md) assumptions.  
+The representation using the [risk-neutral measure](../Verifying%20Martingale%20Property%20with%20Q.md) can be used for [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). But how would we hedge a [variance swap](../Variance%20Swaps.md)? To create the right hedge, we need to find a [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md). We discuss this issue using an alternative setup. This alternative has the side advantage of the financial engineering interpretation of some mathematical tools being clearly displayed. The following model starts with [Black Scholes](../../Credit%20Markets/Black-Scholes%20Model.md) assumptions.  
 
 The trick in [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) the [variance swap](../Variance%20Swaps.md) lies in isolating $\sigma_{T_{1},T_{2}}^{2}$ in terms of observable (traded) quantities. This can be done by obtaining a proper synthetic. Assume a diffusion process for $S_{t}$ :  
 $$

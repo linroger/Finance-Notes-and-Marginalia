@@ -54,7 +54,7 @@ $$
 
 The zero-coupon bond price and therefore the [Radon-Nikodym derivative](../Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) $\frac{d\mathbb{Q}^{s}}{d\mathbb{P}}$ only "makes sense' up to time $s$ . Results on the existence and uniqueness of $\mathbb{Q}^{s}$ follow from the corresponding conclusions about state-price deflators.  
 
-In terms of a [risk-neutral probability measure](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $\mathbb{Q}$ , the time 0 value of the dividend. $D_{s}$ is $\mathrm{E}^{\mathbb{Q}}[(R_{0,s}^{f})^{-1}D_{s}]$ and therefore a forward measure for maturity. $s$ is related to a risk-neutral proba-d bility measure through the equation.  
+In terms of a [risk-neutral probability measure](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $\mathbb{Q}$ , the time 0 value of the dividend. $D_{s}$ is $\mathrm{E}^{\mathbb{Q}}[(R_{0,s}^{f})^{-1}D_{s}]$ and therefore a forward measure for maturity. $s$ is related to a risk-neutral proba-d bility measure through the equation.  
 $$
 B_{0}^{s}\frac{d\mathbb{Q}^{s}}{d\mathbb{Q}}=\left(R_{0,s}^{f}\right)^{-1}\quad\Leftrightarrow\quad\frac{d\mathbb{Q}^{s}}{d\mathbb{Q}}=(B_{0}^{s})^{-1}\left(R_{0,s}^{f}\right)^{-1}=\frac{\left(R_{0,s}^{f}\right)^{-1}}{\mathrm{E}^{\mathbb{Q}}\left[\left(R_{0,s}^{f}\right)^{-1}\right]}.
 $$  
@@ -64,7 +64,7 @@ $$
 \frac{d\mathbb{Q}^{s}}{d\mathbb{Q}}=\frac{e^{-\int_{0}^{s}r_{u}^{f}d u}}{\mathrm{E}^{\mathbb{Q}}\left[e^{-\int_{0}^{s}r_{u}^{f}d u}\right]}.
 $$  
 
-If the future risk-free rates are non-random, we see that the forward measure for maturity. $s$ and the [risk-neutral probability measure](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) will assign identical probabilities to all events that are decidable at time $s$ , i.e. $\mathbb{Q}^{s}=\mathbb{Q}$ on ${\mathcal{F}}_{s}$ . In a [one-period economy](Exercises.md), $\mathbb{Q}$ and $\mathbb{Q}^{1}$ are always identical.  
+If the future risk-free rates are non-random, we see that the forward measure for maturity. $s$ and the [risk-neutral probability measure](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) will assign identical probabilities to all events that are decidable at time $s$ , i.e. $\mathbb{Q}^{s}=\mathbb{Q}$ on ${\mathcal{F}}_{s}$ . In a [one-period economy](Exercises.md), $\mathbb{Q}$ and $\mathbb{Q}^{1}$ are always identical.  
 
 Assume a [continuous-time setting](../Chapter%206%20-%20Individual%20optimality/The%20Continuous-Time%20Framework.md) and write the dynamics of the zero-coupon bond price maturing at time $s$ as  
 $$

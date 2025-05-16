@@ -47,7 +47,7 @@ with $b\geq0,0<\beta<1,\alpha\geq0.$ and $0\leq\rho\leq1$ . There are several fe
 
 # A1.1 DERIVING REPLICATING PORTFOLIOS  
 
-To replicate the 7.625s of 11/15/2022, Table 1.5 uses the 2.875s of 11/15/2021, the 2.125s of 05/15/2022, and the 1.625s of 11/15/2022. Number these bonds from 1 to 3, and let $F_{i}$ be the face amount of bond $i$ in the [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md). Then, the following equations express the requirement that the cash flows of the [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) equal those of the 7.625s on each of the [cash flow](../../Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) dates. For the cash flows on November 15, 2021,  
+To replicate the 7.625s of 11/15/2022, Table 1.5 uses the 2.875s of 11/15/2021, the 2.125s of 05/15/2022, and the 1.625s of 11/15/2022. Number these bonds from 1 to 3, and let $F_{i}$ be the face amount of bond $i$ in the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md). Then, the following equations express the requirement that the cash flows of the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) equal those of the 7.625s on each of the [cash flow](../../Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) dates. For the cash flows on November 15, 2021,  
 $$
 \left(100\%+{\frac{2.875\%}{2}}\right)F_{1}+{\frac{2.125\%}{2}}F_{2}+{\frac{1.625\%}{2}}F_{3}={\frac{7.625\%}{2}}
 $$  
@@ -62,16 +62,16 @@ $$
 0\times F_{1}+0\times F_{2}+\left(100\%+{\frac{1.625\%}{2}}\right)F_{3}=100\%+{\frac{7.625\%}{2}}
 $$  
 
-[Solving equations](../../../Financial%20Engineering/Inverse%20Matrices%20Solve%20Linear%20Systems.md) (A1.1), (A1.2), and (A1.3) for $F_{1},F_{2}$ and $F_{3}$ gives the [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)'s face amounts reported in Table 1.5. Note that, because one bond matures on each date, these equations can be solved one-at-a-time instead of simultaneously.  
+[Solving equations](../../../Financial%20Engineering/Inverse%20Matrices%20Solve%20Linear%20Systems.md) (A1.1), (A1.2), and (A1.3) for $F_{1},F_{2}$ and $F_{3}$ gives the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)'s face amounts reported in Table 1.5. Note that, because one bond matures on each date, these equations can be solved one-at-a-time instead of simultaneously.  
 
 Replicating portfolios are easier to describe and manipulate using matrix. algebra. To illustrate, equations (A1.1) through (A1.3) can be written as follows,  
 $$
 \begin{array}{r}{\left[1+\frac{2.875\%}{2}\frac{2.125\%}{2}\frac{1.625\%}{2}\right]\left[F_{1}\right]=\left[\begin{array}{c}{\frac{7.625\%}{2}}\ {1+\frac{2.125\%}{2}}\ {0}\end{array}\right]\left[\begin{array}{c}{1.625\%}\ {2}\end{array}\right]\left[\begin{array}{c}{1}\ {1}\ {2}\end{array}\right]=\left[\begin{array}{c}{\frac{7.625\%}{2}}\ {\frac{7.625\%}{2}}\ {1+\frac{7.625\%}{2}}\end{array}\right]}\end{array}
 $$  
 
-Note that each column of the leftmost matrix describes the cash flows of one of the bonds in the [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md); the elements of the vector to the right of the matrix gives the face amounts of each bond for which the equation has to be solved; and the rightmost vector gives the cash flows of the bond to be replicated. Equation (A1.4) can easily be solved.  
+Note that each column of the leftmost matrix describes the cash flows of one of the bonds in the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md); the elements of the vector to the right of the matrix gives the face amounts of each bond for which the equation has to be solved; and the rightmost vector gives the cash flows of the bond to be replicated. Equation (A1.4) can easily be solved.  
 
-In general, suppose that the bond to be replicated makes payments on $T$ dates. Let C be the $T\times T$ matrix of cash flows, principal plus interest, with the $T$ columns representing the $T$ bonds in the [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) and the $T$ rows the dates on which those bonds make payments. Let $\mathbf{f}$ be the $T\times1$ vector of face amounts in the [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md), and let c be the vector of cash flows, principal plus interest, of the bond to be replicated. Then, the equation to be solved is,.  
+In general, suppose that the bond to be replicated makes payments on $T$ dates. Let C be the $T\times T$ matrix of cash flows, principal plus interest, with the $T$ columns representing the $T$ bonds in the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) and the $T$ rows the dates on which those bonds make payments. Let $\mathbf{f}$ be the $T\times1$ vector of face amounts in the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md), and let c be the vector of cash flows, principal plus interest, of the bond to be replicated. Then, the equation to be solved is,.  
 $$
 \mathbf{Cf}=\mathbf{c}
 $$  
@@ -81,7 +81,7 @@ $$
 \mathbf{f}=\mathbf{C}^{-1}\mathbf{c}
 $$  
 
-The only complication in constructing replicating portfolios is to ensure that the matrix C does have an inverse. Essentially, any set of $T$ bonds will do so long as there is at least one bond in the [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) making a payment on each of the $T$ dates. All $T$ bonds maturing on the last date would work, for example, but all $T$ bonds maturing on the second-to-last date would not. In the latter case, there would be no bond in the [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) making a payment on date $T$  
+The only complication in constructing replicating portfolios is to ensure that the matrix C does have an inverse. Essentially, any set of $T$ bonds will do so long as there is at least one bond in the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) making a payment on each of the $T$ dates. All $T$ bonds maturing on the last date would work, for example, but all $T$ bonds maturing on the second-to-last date would not. In the latter case, there would be no bond in the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) making a payment on date $T$  
 
 # A1.2THE EQUIVALENCE OF DISCOUNTING AND ARBITRAGE PRICING  
 
@@ -89,11 +89,11 @@ Proposition: [Pricing](../Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)
 
 1. Derive a set of discount factors from some set of spanning bonds and price the bond in question using those discount factors..  
 
-2. Find the [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of the bond in question using that same set of spanning bonds and calculate the price of the bond as the price of this [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md).  
+2. Find the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of the bond in question using that same set of spanning bonds and calculate the price of the bond as the price of this [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md).  
 
 Proof: Continue with the notation introduced at the end of Appendix A1.1..   
 In addition, let $\mathbf{d}$ be the $T\times1$ vector of discount factors for each date and.   
-let p be the vector of prices of each bond in the [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md), which.   
+let p be the vector of prices of each bond in the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md), which.   
 is the same as the vector of prices used to compute the discount factors. Also note that a set of spanning bonds is such that the matrix C has an inverse.  
 
 Generalizing the derivation of discount factors in this chapter, discount factors can be determined from the following equation,  
@@ -1305,7 +1305,7 @@ TABLE A16.1 Example of the Calculation of a Normalized Gains Process
 
 The starting point is state 0 of date 0, after which the economy moves. to either state 0 or state 1 of date 1. Three assets will be considered, A, B, and C, with current prices $A_{0},B_{0}$ , and $C_{0}$ , and date 1, state $i$ prices of $A_{1}^{i},B_{1}^{i}$ and $C_{1}^{i}$ . Without loss of generality here, the date 1 prices include any cash flows of the securities on date 1..  
 
-In this framework, any asset can be priced by [arbitrage](../Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) relative to the other two assets. The method is just as in Chapter 7. To price asset C by [arbitrage](../Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), construct its [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md), in particular, a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) with $\alpha$ of asset A and $\beta$ of asset B such that,  
+In this framework, any asset can be priced by [arbitrage](../Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) relative to the other two assets. The method is just as in Chapter 7. To price asset C by [arbitrage](../Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), construct its [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md), in particular, a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) with $\alpha$ of asset A and $\beta$ of asset B such that,  
 $$
 \begin{array}{r}{C_{1}^{0}=\alpha A_{1}^{0}+\beta B_{1}^{0}}\ {{}}\ {C_{1}^{1}=\alpha A_{1}^{1}+\beta B_{1}^{1}}\end{array}
 $$  

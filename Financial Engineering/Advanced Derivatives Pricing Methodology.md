@@ -85,7 +85,7 @@ You just lift the market and try not getting caught for insider trading.
 
 o If you do not have insights on cash flows and still want to invest in [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md), the focus does not need to be on [forecasting](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md), but on cross-sectional consistency.  
 
--[No-arbitrage pricing](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) models can be useful.  
+-[No-arbitrage pricing](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) models can be useful.  
 
 # Derivative products  
 
@@ -93,9 +93,9 @@ Forward & [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbit
 
 Terminal Payoff: $(S_{T}-K)$ , linear in the [underlying security price](../Financial%20Instruments/Financial%20Instruments.md) $(S_{T})$  
 
-[No-arbitrage pricing](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md):  
+[No-arbitrage pricing](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md):  
 
-Buying the underlying security and carrying it over to expiry generates the same payoff as signing a forward.. The [forward price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) should be equal to the cost of the [replicating portfolio](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) (buy & carry). This [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) method does not depend on (forecasts) how the [underlying security price](../Financial%20Instruments/Financial%20Instruments.md) moves in the future or whether its current price is fair. but it does depend on the actual cost of buying and carrying (not all things can be carried through time...), i.e., the implementability of the replicating strategy. $F_{t,T}=S_{t}e^{(r-q)(T-t)}$ , with $r$ and $q$ being continuously compounded rates of carrying cost (interest, storage) and benefit (dividend, foreign interest, convenience yield).  
+Buying the underlying security and carrying it over to expiry generates the same payoff as signing a forward.. The [forward price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) should be equal to the cost of the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) (buy & carry). This [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) method does not depend on (forecasts) how the [underlying security price](../Financial%20Instruments/Financial%20Instruments.md) moves in the future or whether its current price is fair. but it does depend on the actual cost of buying and carrying (not all things can be carried through time...), i.e., the implementability of the replicating strategy. $F_{t,T}=S_{t}e^{(r-q)(T-t)}$ , with $r$ and $q$ being continuously compounded rates of carrying cost (interest, storage) and benefit (dividend, foreign interest, convenience yield).  
 
 # Derivative products  
 
@@ -104,9 +104,9 @@ Options:
 Terminal Payoff: Call $(S_{T}-K)^{+}$ , put - (K - S+)+.   
 European, American, ITM, OTM, ATMV...  
 
-[No-arbitrage pricing](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md):  
+[No-arbitrage pricing](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md):  
 
-Can we replicate the payoff of an option with the underlying security so that we can value the option as the cost of the [replicating portfolio](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)?  
+Can we replicate the payoff of an option with the underlying security so that we can value the option as the cost of the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)?  
 
 Can we use the underlying security (or something else liquid and with known prices) to completely hedge away the risk?.  
 
@@ -160,7 +160,7 @@ $$
 
 Solve for : $\Delta=(1-0)/(22-18)=1/4.\Delta={\mathsf{C h a n g e}}$ in C/Change in S, a sensitivity measure.   
 Solve for $D$ $\begin{array}{r}{D=-\frac{1}{4}18=-4.5\mathrm{(borrow)}.}\end{array}$   
-o Value of option $=$ value of [replicating portfolio](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $\begin{array}{r}{=\frac{1}{4}20-4.5\times0.9704=0.633.}\end{array}$  
+o Value of option $=$ value of [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $\begin{array}{r}{=\frac{1}{4}20-4.5\times0.9704=0.633.}\end{array}$  
 
 # Hedging  
 
@@ -178,7 +178,7 @@ Ct = $-4.3668+\Delta S_{t}=-4.3668+\textstyle{\frac{1}{4}}20=0.633.$
 
 # One principle underlying two angles  
 
-o If you can replicate, you can hedge:. Long the option contract, short the [replicating portfolio](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md).   
+o If you can replicate, you can hedge:. Long the option contract, short the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md).   
 The [replication portfolio](Derivatives/Part%20V%20-%20Options%20Pricing/Chapter%2022%20-%20BOPM:%20Implementation.md) is composed of stock and bond.   
 Since bond only generates parallel shifts in payoff and does not play any role. in offsetting/[hedging risks](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Options%20Greeks.md), it is the stock that really plays the [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) role.   
 The optimal [hedge ratio](Derivatives/Part%20VI%20-%20The%20Greeks/Chapter%2027%20-%20Delta%20Hedging.md) when [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) options using stocks is defined as the ratio of option payoff change over the stock payoff change - Delta..   

@@ -179,7 +179,7 @@ Veryliquid and therefore tracked around FOMC announcements
 
 While T-bill rates, [Fed funds](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md) rate, Eurodollar, commercial paper etc may differ because of [liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) and counter party risk, different short-term [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) should all be very similar.  
 
-If they were very different one could borrow at the lower rate and invest at the higher. This is called the "[Law of One Price](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)" (LOOP)  
+If they were very different one could borrow at the lower rate and invest at the higher. This is called the "[Law of One Price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)" (LOOP)  
 # Eurodollar Example Calculation  
 
  ![500](Attachments/500-644.jpg)  
@@ -226,7 +226,7 @@ Nominal return Realreturn = = yield [Inflation](../International%20Finance/Bridg
 
  ![500](Attachments/500-645.jpg)  
 
-Question: If you are a [pension fund](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Uses%20of%20Interest%20Rate%20Swaps.md) with [inflation-indexed](../Chinese%20Financial%20System.md) liabilities, do youprefer to receive or pay T lPS?  
+Question: If you are a [pension fund](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Uses%20of%20Interest%20Rate%20Swaps.md) with [inflation-indexed](Chinese%20Financial%20System.md) liabilities, do youprefer to receive or pay T lPS?  
 # Maturity of Outstanding TIPS 1997-2008  
 
  ![500](Attachments/500-642.jpg)  
@@ -579,7 +579,7 @@ Widespread [arbitrage opportunities](../Financial%20Markets%20and%20Institutions
 
 If [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) was possible, it would be easy to get rich  
 
-Implies"[Law Of One Price](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)": Two assets with same payoffs will have sameprice  
+Implies"[Law Of One Price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)": Two assets with same payoffs will have sameprice  
 # Arbitrage Pricing Theory (APT)  
 
 [Arbitrage Pricing Theory](../Financial%20Engineering/Fixed%20Income%20Derivatives/Introduction%20to%20the%20Mathematics%20of%20Fixed%20Income%20Pricing.md) (APT) of Ross (1976) argues that a small number of factors should explain individual stock co-movement and performance.  

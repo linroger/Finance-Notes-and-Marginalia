@@ -35,7 +35,7 @@ $$
 P^{\theta}=\sum_{i=1}^{I}\theta_{i}P_{i}=\theta\cdot P.
 $$  
 
-This is called the [Law of One Price](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md). Since we ignore transaction costs, any candidate for an. equilibrium [pricing](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) system will certainly have this property. In Section 3.4 we will discuss the link between the [Law of One Price](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) and the [absence of arbitrage](Exercises.md)..  
+This is called the [Law of One Price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md). Since we ignore transaction costs, any candidate for an. equilibrium [pricing](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) system will certainly have this property. In Section 3.4 we will discuss the link between the [Law of One Price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) and the [absence of arbitrage](Exercises.md)..  
 
 The fraction of the total [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) value invested in asset $i$ is then $\pi_{i}=\theta_{i}P_{i}/P^{\theta}$ and the vector $\pi=\left(\pi_{1},\ldots,\pi_{I}\right)^{\top}$ is called the [portfolio weight vector](.md). If we let $\mathbf{1}=\left(1,\ldots,1\right)^{\top}$ , we have ${\boldsymbol{\pi}}\cdot\mathbf{1}=$ $\textstyle\sum_{i=1}^{I}\pi_{i}=1$ . Note that $\mathrm{diag}(P)\mathbf{1}=P $ and thus $P^{\theta}=P^{\top}\pmb{\theta}=(\mathrm{diag}(P)\mathbf{1})^{\top}\pmb{\theta}=\mathbf{1}^{\top}\mathrm{diag}(P)\pmb{\theta}$ so that  
 $$
@@ -70,7 +70,7 @@ $$
 D_{T}^{\theta}=\theta_{T-1}\cdot D_{T}.
 $$  
 
-Given the [Law of One Price](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md), the initial price of the trading strategy is $P^{\pmb{\theta}}={\pmb{\theta}}_{0}\cdot{\pmb{P}}_{0}$ . We can let $D_{0}^{\theta}=-P^{\theta}$ so that the dividend process $D^{\theta}$ is defined at all $t\in\mathcal{T}$  
+Given the [Law of One Price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md), the initial price of the trading strategy is $P^{\pmb{\theta}}={\pmb{\theta}}_{0}\cdot{\pmb{P}}_{0}$ . We can let $D_{0}^{\theta}=-P^{\theta}$ so that the dividend process $D^{\theta}$ is defined at all $t\in\mathcal{T}$  
 
 For $t=1,\ldots,T$ define  
 $$

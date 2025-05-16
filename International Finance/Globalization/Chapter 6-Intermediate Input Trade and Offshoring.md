@@ -102,7 +102,7 @@ Much of the concern with [offshoring](.md) and inequality relates to the relativ
  - Industries (goods): 2. Agriculture $Q_{A}$ and Manufacturing $Q_{M}$ (both made with $H$ and $L$ )
  - Production stages: Multiple (continuum)
  - Countries: 2 (Onshore Home and Offshore Foreign∗)
-- Perfect competition,  transport costs: 0 ([Law of One Price](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md))
+- Perfect competition,  transport costs: 0 ([Law of One Price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md))
  - Constant [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to scale
  - Balanced trade (exports pay for imports)
  - Contracts perfectly enforceable

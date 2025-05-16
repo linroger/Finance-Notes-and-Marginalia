@@ -525,7 +525,7 @@ $$
 - [Spot rate](../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md), [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md), zero coupon rate  
   - Three different terms with the same meaning  
   - Rate used to discount a single [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) on a given date  
-- The [Law of One Price](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md):  
+- The [Law of One Price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md):  
   - Cash flows (of identical risk) delivered on a given date  must have the same [spot rate](../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md)    o   If untrue, there would be a risk-free [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity  
  ![500](Attachments/500-679.jpg)  
 [Term Structure of Interest Rates](../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md)  
@@ -539,7 +539,7 @@ $$
 - Calculate the  [discount factor](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) :  
 $D i s c o u n t\;F a c t o r\,=\frac{1}{(1+r_{n})^{n}},$     $e.\,g.\,,D F_{3}\,i f\,r_{3}=5\%,$     $D F_{3}=1/(1+.05)^{3}=.8638$  
 # The Law of One Price  
-- The [law of one price](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) states that, given [efficient market](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%2012%20Market%20Efficiency.md)  conditions, there are no [pure arbitrage](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Arbitrage%20Pure%20Versus%20Relative%20Value.md) opportunities  
+- The [law of one price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) states that, given [efficient market](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%2012%20Market%20Efficiency.md)  conditions, there are no [pure arbitrage](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Arbitrage%20Pure%20Versus%20Relative%20Value.md) opportunities  
   - Any set of future identical cashflows must be priced the  same – have identical present values  
   - Since real world markets do not meet [efficient market](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%2012%20Market%20Efficiency.md)  assumptions, there are some [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md)  available  
 
@@ -2635,7 +2635,7 @@ $$
 # Firms U and L  
 # Firms U and L  
 - Buying 1% of the equity in U or 1% of the [debt and equity](../Financial%20Markets%20and%20Institutions/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/Class%20Note%201-%20Borrower-Lender%20conflicts%20and%20implied%20agency%20problems.md) in L  earn identical [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
-  - By the [Law of One Price](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md), each [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) must have the  same value:  1% of the company’s profits    o   Each must also have the same [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md)  
+  - By the [Law of One Price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md), each [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) must have the  same value:  1% of the company’s profits    o   Each must also have the same [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md)  
 - Now assume you are willing to take more risk  
   - Buy 1% of the equity of L  
 # Firms U and L  

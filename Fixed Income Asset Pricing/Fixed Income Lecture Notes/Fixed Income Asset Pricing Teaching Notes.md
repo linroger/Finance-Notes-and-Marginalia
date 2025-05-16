@@ -2595,7 +2595,7 @@ $$
 ·Since [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $P_{t}$ replicates the payoff of the put option,  the value of the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) at any time must equal the value of the put option.
 
 - Why?
-- [Arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md): “Buy Cheap / Sell Dear". - For instance,  if $P_{t}$ < Put Option Premium => 1. Sell option and set up the [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) (which costs $P_{t}$ 2. Today make ( Put Option Premium $-P_{t})>0$ 3. At maturity $T$ the [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) provides the payoff,  exactly
+- [Arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md): “Buy Cheap / Sell Dear". - For instance,  if $P_{t}$ < Put Option Premium => 1. Sell option and set up the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) (which costs $P_{t}$ 2. Today make ( Put Option Premium $-P_{t})>0$ 3. At maturity $T$ the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) provides the payoff,  exactly
 In particular,  at time O,  the value of the option must be$$
 \begin{array}{r l}{\mathrm{Put~Primal~at~0,         ~}p_{0}\;=\; P_{0}=B_{0}+\Delta_{0}\times S_{0}}\\ &{}\\ {\;=\; K\times e^{-r T}\times N (-d_{2,         0})-S_{0}\times N}\end{array}
 $$  
@@ -2609,7 +2609,7 @@ $c_{0}=S_{0}\times N (d_{1,         0})-K\times e^{-r T}\times N (d_{2,         
 
 Why does the [dynamic replication strategy](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%208-American%20Options.md) work?
 
-- Suppose you sold a put option and decide to hedge using the [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $P$ - Let II be the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) short the put $(-p)$ and long the [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)$$
+- Suppose you sold a put option and decide to hedge using the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $P$ - Let II be the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) short the put $(-p)$ and long the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)$$
 \begin{array}{r l}{\Pi\;=}& {{}{-p+P}} \\ {\;=}& {{}{-p+\Delta S+B}} \end{array}
 $$  
 - What is the sensitivity of $\prod$ to small variations in stocks?$$

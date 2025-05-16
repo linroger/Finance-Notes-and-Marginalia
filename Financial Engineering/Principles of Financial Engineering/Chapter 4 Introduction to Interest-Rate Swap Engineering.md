@@ -232,7 +232,7 @@ $$
 E_{t}^{\overline{{P}}}[\Delta S_{t_{i}}]=L_{t_{i-1}}-d_{t_{i}}
 $$  
 
-This result is proved normally by using the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of [asset pricing](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md) and the implied risk-neutral probability.  
+This result is proved normally by using the [fundamental theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of [asset pricing](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md) and the implied risk-neutral probability.  
 
 Now we move on to interest-rate swaps.  
 

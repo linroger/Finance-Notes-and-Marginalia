@@ -309,7 +309,7 @@ This way of constructing a hedge for options is called [delta hedging](../../Fin
 
 # 9.4.2 ADJUSTING THE HEDGE OVER TIME  
 
-We now consider what happens to the delta-hedged position as $S_{t}$ oscillates. According to our discussion in the previous chapter, as time passes, the [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) needs to be rebalanced. This rebalancing will generate cash gains.  
+We now consider what happens to the delta-hedged position as $S_{t}$ oscillates. According to our discussion in the previous chapter, as time passes, the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) needs to be rebalanced. This rebalancing will generate cash gains.  
 
 We discuss these [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) adjustments in a highly simplified environment. Considering a sequence of simple oscillations in $S_{t}$ around an initial point $S_{t_{0}}=S^{0}$ , let  
 $$

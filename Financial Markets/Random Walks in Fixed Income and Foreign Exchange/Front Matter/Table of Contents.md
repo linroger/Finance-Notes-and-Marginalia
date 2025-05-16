@@ -38,7 +38,7 @@ Preface
 *   The Calculation Underlying the [Cross-Currency Basis Swap](.md)
 *   A Quick Note on Terminology
 *   Perhaps the Simplest Formula in [Financial Mathematics](../../../Financial%20Engineering/Financial%20Mathematics%20Course.md)
-*   How the Calculation Distorts [No-Arbitrage Pricing](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)
+*   How the Calculation Distorts [No-Arbitrage Pricing](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)
 *   On 29th December 2011
 *   So, What Actually is a '[Cross-Currency Basis Swap](.md)'?
 *   Conversion Factor

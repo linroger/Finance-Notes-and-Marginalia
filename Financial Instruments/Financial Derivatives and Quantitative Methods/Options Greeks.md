@@ -93,7 +93,7 @@ Question: What is the $\Delta$ of a [forward contract](../../Clippings/Forward%2
 
 It is important to remember that $\Delta$ changes (with $S$ and $T$ ) and therefore a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) that replicates the call will change over time and as the time to
 
-Maturity gets closer. The appropriate [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) or hedge thus changes over time. This is known as rebalancing,   and the strategy of keeping a delta-neutral [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is known as dynamic delta-[hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md).
+Maturity gets closer. The appropriate [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) or hedge thus changes over time. This is known as rebalancing,   and the strategy of keeping a delta-neutral [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is known as dynamic delta-[hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md).
 
 The $\Delta$ of a put option can easily be calculated from the [put-call parity](../../Financial%20Engineering/7.%20Black%20Scholes%20Model.md) conditions for European options:
 $$C=P+(S-Ke^{-rT}).$$

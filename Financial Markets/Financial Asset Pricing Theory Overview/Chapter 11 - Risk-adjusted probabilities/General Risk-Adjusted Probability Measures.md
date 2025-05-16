@@ -18,7 +18,7 @@ key_concepts:
 
 # 11.5 General risk-adjusted probability measures  
 
-Consider an asset with a single dividend payment of $D_{s}$ at time $s$ . Using the [risk-neutral probability measure](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $\mathbb{Q}$ the price at time $t<s$ of this asset is  
+Consider an asset with a single dividend payment of $D_{s}$ at time $s$ . Using the [risk-neutral probability measure](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) $\mathbb{Q}$ the price at time $t<s$ of this asset is  
 $$
 P_{t}=\mathrm{E}_{t}^{\mathbb{Q}}\left[\left(R_{t,s}^{f}\right)^{-1}D_{s}\right].
 $$  

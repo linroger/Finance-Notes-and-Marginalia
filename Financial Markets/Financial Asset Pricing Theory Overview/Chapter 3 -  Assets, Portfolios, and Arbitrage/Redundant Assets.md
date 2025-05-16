@@ -32,9 +32,9 @@ $$
 D_{i}(\omega)=\theta_{1}D_{1}(\omega)+\cdot\cdot\cdot+\theta_{i-1}D_{i-1}(\omega)+\theta_{i+1}D_{i+1}(\omega)+\cdot\cdot\cdot+\theta_{I}D_{I}(\omega),\quad\forall\omega\in\Omega.
 $$  
 
-Such a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is called a [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) for asset $i$  
+Such a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is called a [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) for asset $i$  
 
-If an asset $i$ is redundant, its price follows immediately from the [law of one price](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md):  
+If an asset $i$ is redundant, its price follows immediately from the [law of one price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md):  
 $$
 P_{i}=\theta_{1}P_{1}+\cdot\cdot\cdot+\theta_{i-1}P_{i-1}+\theta_{i+1}P_{i+1}+\cdot\cdot\cdot+\theta_{I}P_{I}.
 $$  

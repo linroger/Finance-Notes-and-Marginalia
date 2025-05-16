@@ -99,7 +99,7 @@ and so $x_{I}=-I9.5$ and $x_{2}=I I$
 
 # II. Proving the Fundamental Theorem of Calculus:  
 
-In Chapter 1, we stated the [fundamental theorem](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of calculus as follows:  
+In Chapter 1, we stated the [fundamental theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of calculus as follows:  
 $I f f(x)$ is a continuous function on the interval [a,b] then  
 $$
 \intop_{a}^{b}f(x)d x=F(b)-F(a).

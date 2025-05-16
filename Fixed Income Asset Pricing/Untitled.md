@@ -25,14 +25,14 @@ key_concepts:
 ## Introduction
 
 ### Research Objectives
-- Derive [pricing mechanisms](../Chinese%20Financial%20System.md) for [inflation-indexed](../Chinese%20Financial%20System.md) securities
-- Develop comprehensive [risk metric analysis](../Chinese%20Financial%20System.md)
-- Apply [no-arbitrage framework](../Chinese%20Financial%20System.md)
+- Derive [pricing mechanisms](Chinese%20Financial%20System.md) for [inflation-indexed](Chinese%20Financial%20System.md) securities
+- Develop comprehensive [risk metric analysis](Chinese%20Financial%20System.md)
+- Apply [no-arbitrage framework](Chinese%20Financial%20System.md)
 
 ### Key Methodological Approaches
 - First-principles valuation
 - [Risk-neutral pricing](../Financial%20Engineering/Financial%20Mathematics%20Course.md)
-- [Stochastic modeling](../Chinese%20Financial%20System.md)
+- [Stochastic modeling](Chinese%20Financial%20System.md)
 
 ## Fundamental Definitions
 

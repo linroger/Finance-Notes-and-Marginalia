@@ -261,7 +261,7 @@ This is really exactly the same as in the [one-period model](../../Financial%20M
 Likewise,    using the formula for replicating the call,    we have
 $$\Delta=\frac{US_0-X}{(U-D) S_0}\quad\text{and}\quad B=-\frac{D}{R}\frac{US_0-X}{(U-D)}.$$
 
-Therefore,    the value of the [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) is
+Therefore,    the value of the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) is
 $$\Delta S_0+B=\frac{US_0-X}{(U-D)}-\frac{D}{R}\frac{US_0-X}{(U-D)}$$
 
 Which can be rewritten as
@@ -271,11 +271,11 @@ $$\Delta S_{0}+B=\frac{1}{R}\left (\frac{US_{0}(R-D)}{(U-D)}-X\frac{(R-D)}{(U-D)
 
 A four-period example is illustrated in Figure 1. The example is the same as before with $u=0.75$,    $d=-0.25$,    $S=100$,    $X=100$,    and $r=0.25$ but
 
-extended over four periods. The upper diagram shows the [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) in all possible cases,    the middle diagram the call price,    and the lower diagram the [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of $\Delta$ units of the stock and borrowing a certain amount of the [risk-free asset](../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md).
+extended over four periods. The upper diagram shows the [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) in all possible cases,    the middle diagram the call price,    and the lower diagram the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of $\Delta$ units of the stock and borrowing a certain amount of the [risk-free asset](../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md).
 
-As can be seen,    the amount of stock required and the amount borrowed in order to replicate the call change over time. Thus,    the [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) is dynamic,    and it is necessary to reoptimise the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) every period. It is,    however,    true that the change in the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) required is self-financing. That is,    the proceeds from the sale of the old [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) are just that required to buy the new [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) at every node of the tree.
+As can be seen,    the amount of stock required and the amount borrowed in order to replicate the call change over time. Thus,    the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) is dynamic,    and it is necessary to reoptimise the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) every period. It is,    however,    true that the change in the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) required is self-financing. That is,    the proceeds from the sale of the old [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) are just that required to buy the new [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) at every node of the tree.
 
-Exercise: Check that the [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) is self-financing.
+Exercise: Check that the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) is self-financing.
 
 ## Arithmetic and geometric rates of return
 

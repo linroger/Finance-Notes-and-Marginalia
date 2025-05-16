@@ -29,7 +29,7 @@ key_concepts:
 	- [Binomial](Teaching%20Note%204-Multiperiod%20[[A%20Real-Life%20Option%20Pricing%20Exercise) Trees]]
 	- [Financial Instruments]([[A%20Practical%20Guide%20for%20Actuaries%20and%20other%20Business%20Professionals.)/Lecture Notes/Teaching Note 4-Multiperiod [Binomial](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) Trees/The [Pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of Options and Corporate Liabilities]]
 
-To hedge its risk from writing a European call option with an [exercise price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Options.md) of$K = 100$in a [two-period binomial model](../../Financial%20Derivatives%20and%20Quantitative%20Methods/The%20T₁%20-period%20Binomial%20Model.md),  the financial intermediary needs to create a [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) that mirrors the option's payoffs in all states of the world by the end of the periods. We will set up this [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) and determine the initial cost (price of the call option),  the delta ($\Delta$,  the number of shares of the stock to hold),  and the amount of borrowing or lending required (denoted as$B$) at each node.
+To hedge its risk from writing a European call option with an [exercise price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Options.md) of$K = 100$in a [two-period binomial model](../../Financial%20Derivatives%20and%20Quantitative%20Methods/The%20T₁%20-period%20Binomial%20Model.md),  the financial intermediary needs to create a [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) that mirrors the option's payoffs in all states of the world by the end of the periods. We will set up this [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) and determine the initial cost (price of the call option),  the delta ($\Delta$,  the number of shares of the stock to hold),  and the amount of borrowing or lending required (denoted as$B$) at each node.
 
 ## STEP 1: CALCULATE THE STOCK PRICE MOVEMENT
 
@@ -121,7 +121,7 @@ The values of$\Delta$and$B$for replicating the option's payoff at$t=1$are as fol
 - $\Delta = 0.5475$,
 - $B = -43.0942$.
 
-Now,  we know how many shares the intermediary needs to hold and how much they need to borrow or lend to create a [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) with the same payoff as the call option at$t=1$.
+Now,  we know how many shares the intermediary needs to hold and how much they need to borrow or lend to create a [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) with the same payoff as the call option at$t=1$.
 
 ## STEP 8: CALCULATE THE OPTION PRICE AT$T=0$
 
@@ -139,7 +139,7 @@ C0 = Delta_solution[0] * S_{0} + B_solution[0] * (1 + r) C0)
 
 [Quantitative Finance](../../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) Savant
 
-The price of the European call option at$t=0$in this [two-period binomial model](../../Financial%20Derivatives%20and%20Quantitative%20Methods/The%20T₁%20-period%20Binomial%20Model.md) is approximately$9.50$. This represents the initial cost of the call option,  determined by setting up a [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) that matches the option's payoffs.
+The price of the European call option at$t=0$in this [two-period binomial model](../../Financial%20Derivatives%20and%20Quantitative%20Methods/The%20T₁%20-period%20Binomial%20Model.md) is approximately$9.50$. This represents the initial cost of the call option,  determined by setting up a [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) that matches the option's payoffs.
 
 Here’s a summary of the [hedging strategy](../Teaching%20Note%203%20Swaps-%20Financial%20Instruments/The%20Value%20of%20the%20Swap%20Contract%20after%20Initiation.md):
 

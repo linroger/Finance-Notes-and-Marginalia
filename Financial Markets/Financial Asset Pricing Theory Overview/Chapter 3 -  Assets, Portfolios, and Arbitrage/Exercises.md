@@ -44,7 +44,7 @@ where $q=(R^{f}-d)/(u-d)$
 
 EXERCISE 3.2 Imagine a [one-period economy](.md) with two possible end-of-period states that are. equally likely. Two assets are traded. Asset 1 has an initial price of 1 and pays off 1 in state 1 and 2 in state 2. Asset 2 has an initial price of 3 and gives a payoff of 2 in state 1 and a payoff $k$ in state 2, where $k$ is some constant.  
 
-(a) Argue that if $k=4$ , the [Law of One Price](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) does not hold. Is the [Law of One Price](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) violated for other values of $k$   
+(a) Argue that if $k=4$ , the [Law of One Price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) does not hold. Is the [Law of One Price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) violated for other values of $k$   
 (b) For what values of $k$ is the [market complete](.md)?   
 (c) For what values of $k$ is the market free of [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)?   
 (d) Assume $k=8$ . Is it possible to obtain a [risk-free dividend](.md)? If so, what is the [risk-free rate](../../../Financial%20Instruments/Black%20Scholes%20Derivation.md)?  

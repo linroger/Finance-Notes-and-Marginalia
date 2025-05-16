@@ -267,7 +267,7 @@ Hence,  the option price is given by$\Delta S + B = 2/3 \times \$41-\$18.462 = \
 - Note that if we are interested only in the option price,  it is not necessary to solve for *and* B; that is just an intermediate step.
 - If we want to know only the option price,  we can use equation (3) directly:$$\Delta S+B=e^{-0.08}\left(\$20\times\frac{e^{0.08}-0.7317}{1.4634-0.7317}+\$0\times\frac{1.4634-e^{0.08}}{1.4634-0.7317}\right)=\$8.871$$
 
-Throughout this chapter we will continue to repo$r_{t}$and B,  since we are interested not only in the price but also in the [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md).
+Throughout this chapter we will continue to repo$r_{t}$and B,  since we are interested not only in the price but also in the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md).
 ## ARBITRAGING A MISPRICED OPTION
 - What if the observed option price differs from the theoretical price? Because we have a way to replicate the option using the stock,  it is possible to take advantage of the mispricing and fulfill the dream of every trader—namely,  to buy low and sell high.
 - The following examples illustrate that if the option price is anything other than the theoretical price,  [arbitrage](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) is possible.

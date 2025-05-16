@@ -139,7 +139,7 @@ print "The Black-Scholes-Merton model price is ",  bs_price
 The Black-Scholes-Merton model price is  6.74927181246
 ```
 
-The difference in the price between the two models is: `bs_price - h_price = 0.21840667525992163`. This difference is due to the [stochastic modeling](../../../Chinese%20Financial%20System.md) of the volatility as a CIR-process.
+The difference in the price between the two models is: `bs_price - h_price = 0.21840667525992163`. This difference is due to the [stochastic modeling](Chinese%20Financial%20System.md) of the volatility as a CIR-process.
 
 ## Conclusion
 

@@ -41,7 +41,7 @@ Its slope. Then use the slope to determine an industry and country's comparative
 
 LO 3 Explain the assumptions on labor mobility between industries and between countries. Define
 
-The [Law of One Price](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) for goods.
+The [Law of One Price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) for goods.
 
 LO 4 Determine the [relative world price](.md). Show how the [international trade](.md) line allows you to determine the pattern of specialization and trade in the Ricardian model and estimate the gains from trade.
 
@@ -373,8 +373,8 @@ C 3.2. Balanced trade means that the value of a country's exports equals the val
 Given time horizon. Does this assumption properly reflect the trade relationship between the United States and China in the short term,       or between Germany and [Greece](../../Financial%20Instruments/Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md)? Do you think balanced trade is a good assumption at short time horizons,       or at long time horizons?
 C 3.3. Constant [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to scale imply that the production cost per unit of output is constant,       no matter
 How large or small the quantity produced. Perfect competition means that any unit of the same good must sell at a price exactly equal to the unit production cost. In such a market,       does it make a difference if there two,       a dozen or thousands of producing firms?
-C 3.4. State the [Law of One Price](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md). Suppose one country imposes a tariff on its import good,       but the
-Other country does not use tariffs. Will the [Law of One Price](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) hold? Suppose one but not the other country imposes a tariff on its export good. Will the [Law of One Price](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) hold? Suppose a monopoly sells its good everywhere in the world at the same high price. Does the [Law of One Price](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) hold?
+C 3.4. State the [Law of One Price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md). Suppose one country imposes a tariff on its import good,       but the
+Other country does not use tariffs. Will the [Law of One Price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) hold? Suppose one but not the other country imposes a tariff on its export good. Will the [Law of One Price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) hold? Suppose a monopoly sells its good everywhere in the world at the same high price. Does the [Law of One Price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) hold?
 
 ## THE RICARDIAN MODEL
 

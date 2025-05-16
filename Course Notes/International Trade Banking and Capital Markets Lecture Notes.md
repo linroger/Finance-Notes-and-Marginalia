@@ -3723,7 +3723,7 @@ Is - ie = πUs -πeuR to obtain, $i_{\Phi}-\pi_{US}^e=i_{\epsilon}-\pi_{EUR}^e$ 
 That is, $r_{US}^e=r_{EUR}^e$ ,known as real [interest parity](../International%20Finance/Covered%20and%20Uncovered%20Interest%20Parity.md). If capital flows are free, then only one available real rate of $return, r^*=r_{US}^e=r_{EUR}^e$ No consideration of risk in this analysis
 
 ### Global Real and Nominal Returns
-- The long run implications of the [law of one price](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) and purchasing power parity are:$i_{\mathfrak{s} }= r_{US}^{e}+ \pi _{US}^{e}= r^{* }+ \pi _{US}^{e}$ and $i_{\mathfrak{e} }= r_{EUI}^{e}$ ie=rEui $i_{\mathrm{\epsilon}}=r_{EUR}^e+\pi_{EUR}^e$ = r* +πeur, therefore, r* the global real rate of return, plus each country's [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) rate equals its domestic interest rate
+- The long run implications of the [law of one price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) and purchasing power parity are:$i_{\mathfrak{s} }= r_{US}^{e}+ \pi _{US}^{e}= r^{* }+ \pi _{US}^{e}$ and $i_{\mathfrak{e} }= r_{EUI}^{e}$ ie=rEui $i_{\mathrm{\epsilon}}=r_{EUR}^e+\pi_{EUR}^e$ = r* +πeur, therefore, r* the global real rate of return, plus each country's [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) rate equals its domestic interest rate
 - What we see in the world differs substantially from this
   - Capital flows based on:
  Differing risk/return [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md)
@@ -3785,7 +3785,7 @@ November 8, 2022
 -  Bank regulation
 
 ## The Law of One Price
-- [Law of One Price](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) (LOOP) - exchange rates reflect identical real price for a single good globally when expressed in a common [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)
+- [Law of One Price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) (LOOP) - exchange rates reflect identical real price for a single good globally when expressed in a common [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)
   - Assumes
 - Integrated market Free competition
  - No price manipulation
@@ -3794,7 +3794,7 @@ November 8, 2022
 
 ### The Law of One Price
 - Market equilibrium implies no [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md) - integrated market
-- [Law of One Price](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) example$$q_{US/EUR}^g=\frac{E_{\$/€}P_{EUR}^g}{P_{US}^g},$$
+- [Law of One Price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) example$$q_{US/EUR}^g=\frac{E_{\$/€}P_{EUR}^g}{P_{US}^g},$$
 Where $q_{US/EUR}^g$ is the relative price of good g, $E_{\mathfrak{S}/\epsilon}P_{EUR}^g$ is European price in USD and $P_{US}^g$ is the US. Price in USD
 
 ### The Law of One Price
@@ -3820,7 +3820,7 @@ Opportunity;
   - That is, the real price of all goods (typically expressed as a basket of finished goods) is identical
 
 ## Purchasing Power Parity (PPP)
-- [Law of one price](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) applied to all goods (and services) available in two or more countries$$q_{US/EUR}=\frac{E_{\$/€}P_{EUR}}{P_{US}},$$
+- [Law of one price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) applied to all goods (and services) available in two or more countries$$q_{US/EUR}=\frac{E_{\$/€}P_{EUR}}{P_{US}},$$
 Where qus/eur is the relative price of all goods, g, in a basket, Es/ePeuR is European price in USD and Pus is the US. Price in USD
 When qus/EuR = 1 at all times,
 There is no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity for the basket - this isknown as absolutePPP

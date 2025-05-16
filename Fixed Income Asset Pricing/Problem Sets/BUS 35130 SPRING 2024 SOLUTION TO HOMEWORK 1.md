@@ -435,7 +435,7 @@ Zij (3) = e→rij (ω↑Zi+1,  j + (1 ↑ ω↑)Zi+1,  j+1)
 1. the value of a 3-year coupon bond with annual coupon equal to 3%.
  $\begin{array}{c|ccc}\text{The binomial tree is}\\ j\backslash i&0&1&2\\ \hline0&0.993472&0.977852&0.979766\\ 1&1.017165&0.999559\\ 2&1.019751\\ 3&\end{array}$ At any node $i,  j$,  we have$\mathbf{l}$ 1.
 Pij (3) = e→rij (ω↑Pi+1,  j (3) + (1 ↑ ω↑)Pi+1,  j+1(3) +)
-1. We finally compute the [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) at time i = 0. We have to find N0 in the 3-period bond and N1 in the 1-period bond to replicate the coupon bond. First,  recall the tree for a 3-period zero-coupon bond is the following
+1. We finally compute the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) at time i = 0. We have to find N0 in the 3-period bond and N1 in the 1-period bond to replicate the coupon bond. First,  recall the tree for a 3-period zero-coupon bond is the following
 ![45_image_2.png](45_image_2.png)
 We want to choose N0 and N1 so that the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) P0 = N1Z0(3)+N2Z0(1)
 is such that$$\begin{array}{l l l}{{P_{1,  u}}}&{{=}}&{{P_{1,  u}^{C}(3)+c}}\\ {{}}&{{}}&{{}}\\ {{P_{1,  d}}}&{{=}}&{{P_{1,  d}^{C}(3)+c}}\end{array}$$
@@ -446,7 +446,7 @@ where we used the fact that Z1,  u(1) = Z1,  d(1) = 1. Solving the system,  we o
 which is the same value we obtained in TN 4 (page 9,  where N2 = \#1u =
 (C1u ↑!Z1u(2))). Substitute to find
 (1) $\binom{2}{}$ (2) …$$\begin{array}{r c l}{{N_{1}}}&{{=}}&{{1.045485}}\\ {{N_{2}}}&{{=}}&{{0.044556}}\end{array}$$$$\begin{array}{c}{{(3)}}\\ {{(4)}}\end{array}$$
-Its value today is then P0 = N1Z0(3) + N2Z0(1) = 0.993472 which is the same as the value of the 3-period coupon bond. The [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) replicates,  we we have the tree i = 0 i = 1$$\boxed{\boxed{P_{0}=0.993472}}$$
+Its value today is then P0 = N1Z0(3) + N2Z0(1) = 0.993472 which is the same as the value of the 3-period coupon bond. The [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) replicates,  we we have the tree i = 0 i = 1$$\boxed{\boxed{P_{0}=0.993472}}$$
 ![46_image_1.png](46_image_1.png)
 | P1,  u = 1.007852 P1,  d = 1.047165   |
 |-----------------------------------|
@@ -607,7 +607,7 @@ We replicate the coupon-bond using the zero-coupon bond. At time 0,  we have
 !0 = ((P1u + c) → (P1d + *c))/*(Z1u(3) → Z1d(3)) = 1.045485 The position in "cash" (borrowing) is (we use "up" but we could use down as well,  given that it gives the same result)$$C_{0}=e^{-r_{0}}(-P_{1u}-c+\Delta_{0}Z_{1u}(3))=-4.323913$$
 Note that we take into account the fact that we have to pay the coupon tomorrow ("c")
 in the present value.
-The value of the [replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) today is$=\;4$.
+The value of the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) today is$=\;4$.
 "0 =!0Z0(3) → C0 = 99.34716 which is equal to the "theoretical" value of the coupon bond. So,  we sell the mispriced bond at 100,  and purchase the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) "0 for 99.34718,  and make a profit today.
 
 | The next table shows the trading strategy going forward: t=0 t=1 (start) t=1 (end)   | t=2        |                       |           |                                  |          |
