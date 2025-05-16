@@ -165,7 +165,7 @@ An [OU process](.md) path exhibits random fluctuations around its mean $μ$. Whe
 ### Multivariate OU Process Insights
 
 The generalization to $n$ dimensions allows modeling complex systems where multiple variables interact:
-$d\textbf{X}(t) = \mathbf{\Theta}(\mathbf{\mu} - \textbf{X}(t)) dt + \mathbf{\Sigma} d\textbf{W}(t)$
+$$d\textbf{X}(t) = \mathbf{\Theta}(\mathbf{\mu} - \textbf{X}(t)) dt + \mathbf{\Sigma} d\textbf{W}(t)$$
 
 - $\textbf{X}(t)$, $\mathbf{\mu}$, $\textbf{W}(t)$: Now n-dimensional vectors.
     
@@ -175,6 +175,7 @@ $d\textbf{X}(t) = \mathbf{\Theta}(\mathbf{\mu} - \textbf{X}(t)) dt + \mathbf{\Si
     
 
 The multivariate [OU process](.md) provides a flexible framework for modeling linear stochastic systems with equilibrium tendencies and correlated noise, finding applications in areas like econometrics (vector autoregressions with error correction), neuroscience (networks of neurons), and engineering (multi-input multi-output control systems).
+
 ```python
 import micropip
 await micropip.install("numpy")

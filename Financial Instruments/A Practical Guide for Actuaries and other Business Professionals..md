@@ -149,9 +149,7 @@ $$i=\frac{AV_{t+1}-AV_{t}}{AV_{t}}$$
 
 let the interest amount earned each year on an [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of $X$ be constant where the annua rate of interest is $\dot{i}$$$AV_t=X(1+ti),$$
 
-where $(1+ti)$ is a linear function
-
-[simple interest](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) has the property that interest is NOT reinvested to earn additional interest amount of Interest Earned to time $t$ is
+where $(1+ti)$ is a linear function [simple interest](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) has the property that interest is NOT reinvested to earn additional interest amount of Interest Earned to time $t$ is
 $$I=AV_t-AV_0=X(1+it)-X=X\cdot it$$
 
 ## 1.3 Compound Interest
@@ -284,7 +282,7 @@ let the constant force of interest $\delta$ now vary at each infitesimal point i
 
 - a change from time $t_{1}$ to $t_{2}$ , due to interest rate $\delta_{t}$ , where the accumulated value at time $t_{1}$ is $X$ ,can be defined as follows:
 $$\begin{aligned}
-&##### \\
+ \\
 &&& \delta_{t}=\frac{\frac{d}{dt}AV_{t}}{AV_{t}} \\
 &&&=\frac{d}{dt}ln(AV_{t}) \\
 &\int_{t_{1}}^{t_{2}}\delta_{t}\cdot dt=&& \int_{t_{1}}^{t_{2}}\frac{d}{dt}ln(AV_{t})\cdot dt \\
