@@ -37,7 +37,7 @@ If we measure purchasing power with the [consumer price index](Pricing an Inflat
 $$
   
 The [inflation](War Economies and Hyperinflation.md) rate based on the CPI does not necessarily provide the correct measurement of the loss of purchasing power of a dollar that an investor experiences. A price index is a weighted average of the prices of a huge number of individual goods and services. The weighting of these goods and services in the CPI is meant to be appropriate for a representative consumer, but in practice different consumers will have different weights of goods and services in their personal consumption baskets. There are also different official price indices, constructed for different purposes, that use different weights, such as the Personal Consumption Expenditures (PCE) price index, or the GDP deflator that is used to estimate the real gross domestic product. We won't go into the details here of how one could better measure an investor's loss of purchasing power and we'll just assume that the CPI is a good proxy to measure investors' loss of purchasing power due to [inflation](War Economies and Hyperinflation.md).
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-268.jpg?height=822&width=1180&top_left_y=302&top_left_x=429)
+ ![500](Attachments/500-934.jpg)
   
 Figure 8.1: U.S. [inflation](War Economies and Hyperinflation.md) rate based on [consumer price index](Pricing an Inflation Swap.md)
   
@@ -57,7 +57,7 @@ In the rest of this lecture, we will take the perspective of an investor who car
 >>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
   
 At long horizons, the difference between nominal and real [returns](Assets.md) can be huge. Figure 8.1 shows the history of CPI [inflation](War Economies and Hyperinflation.md) in the U.S. during the post world war II period, measured as the percentage change in CPI over 12-month intervals. Investors in the 1970s and 1980s experienced [inflation](War Economies and Hyperinflation.md) rates above $10 \%$. These [inflation](War Economies and Hyperinflation.md) rates could turn
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-269.jpg?height=936&width=1199&top_left_y=296&top_left_x=474)
+ ![500](Attachments/500-934.jpg)
   
 Figure 8.2: Final values in real and nominal terms of a 20-year long [investment](An Asset Allocation Primer.md) in a [portfolio](An Asset Allocation Primer.md) of U.S. Treasury bonds with 5-10 year maturity
 a $10 \%$ yield on a Treasury bond into a zero return in real terms. Over the subsequent decades, [inflation](War Economies and Hyperinflation.md) rates fell to much lower levels and were more stable. Only very recently, in the wake of the COVID pandemic, [inflation](War Economies and Hyperinflation.md) started rising again to levels we had not seen since the early 1980s.
@@ -238,10 +238,10 @@ Figure 8.4 illustrates the relationship of Treasury bond [returns](Assets.md) an
 >>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
   
 A few more thoughts on the question whether we should think of stocks as a real asset, and the somewhat mixed picture on this from Table (8.1). Part of the reason why the picture is mixed could be that the regression in Table (8.1) does not isolate pure [inflation](War Economies and Hyperinflation.md) risk exposure. In the historical data, bursts of unexpected [inflation](War Economies and Hyperinflation.md), or changes in expected [inflation](War Economies and Hyperinflation.md), may have coincided with other macroeconomic news, e.g., about growth, that affected investors' [expectations](FORWARD RATES AND TERM STRUCTURE.md) of real cash flows. For example, the stagflation episodes of the early 1980s may have led investors to believe that an unexpected rise in [inflation](War Economies and Hyperinflation.md) will be countered by a recession-inducing and stock-price-
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-277.jpg?height=1668&width=963&top_left_y=429&top_left_x=597)
+ ![500](Attachments/500-934.jpg)
   
 Figure 8.4: Bond and gold [returns](Assets.md) and unexpected [inflation](War Economies and Hyperinflation.md)
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-278.jpg?height=901&width=1278&top_left_y=360&top_left_x=369)
+ ![500](Attachments/500-934.jpg)
   
 Figure 8.5: Asset prices during German hyperinflation in 1923
 <<<<<<< HEAD
@@ -308,7 +308,7 @@ P_{10, t}=\left(\sum_{k=1}^{10} \frac{c^{r}}{\left(1+Y_{10, t}^{r}\right)^{k}}\r
 \end{equation*}
 $$
   
-[^39] ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-281.jpg?height=823&width=1183&top_left_y=304&top_left_x=493)
+[^39] ![500](Attachments/500-934.jpg)
   
 Figure 8.6: Real yields extracted from TIPS prices
   
@@ -322,7 +322,7 @@ Figure 8.6 shows the real yields extracted from 5- and 10-year TIPS. While real 
   
 The figure also shows that the 10-year real yield tends to be above the 5 -year real yield. This suggests that the real yield curve may be upward-sloping on average, like the nominal yield curve. Evidence from the U.K. where a longer history of real yields is available than in the U.S. indicates that the real yield curve may be flatter than the nominal yield curve. How big the wedge is between the slopes may depend on whether we are in an inflationary environment or not. If [inflation](War Economies and Hyperinflation.md) risk is high, long-term nominal bonds are risky, as our analysis showed earlier, and so it makes sense that investors would ask for an additional risk premium, in the form of additional yield, for long-term nominal bonds compared with [inflation](War Economies and Hyperinflation.md)-protected bonds that are not exposed to [inflation](War Economies and Hyperinflation.md) risk.
   
-[^40] ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-282.jpg?height=822&width=1180&top_left_y=302&top_left_x=429)
+[^40] ![500](Attachments/500-902.jpg)
   
 Figure 8.7: Breakeven [inflation](War Economies and Hyperinflation.md) rates extracted from TIPS prices
   
@@ -382,13 +382,13 @@ The figure also shows that the performance advantage of TIPS started showing up 
   
 <<<<<<< HEAD
 An investor aiming to optimize [risk and return](Lecture%207-Risk%20and%20Return%20of%20Bonds.md) in terms of the purchasing power that investments eventually provide should optimize the [portfolio](An Asset Allocation Primer.md) in terms of real [returns](Assets.md). This can still be done with the same [mean-variance](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) optimization framework that we
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-285.jpg?height=1605&width=969&top_left_y=458&top_left_x=600)
+ ![500](Attachments/500-905.jpg)
   
 Figure 8.8: TIPS and regular Treasury Bond ETF cumulative performance
 discussed in earlier lectures, but with some modifications. In the following, consider a long-term investor wants to maximize the expected utility of real wealth in $h$ periods by trading off expected real return on wealth against the variance of the real return. Let's assume the investor wants to combine a risky asset with a [risk-free asset](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) with a fixed-weight strategy like the one we analyzed in lecture 5 , but now with a focus on real [returns](Assets.md).
 =======
 An investor aiming to optimize [[Lecture 7-Risk and Return of Bonds|risk and return]] in terms of the purchasing power that investments eventually provide should optimize the [portfolio](An Asset Allocation Primer.md) in terms of real [returns](Assets.md). This can still be done with the same [[Exercises|mean-variance]] optimization framework that we
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-285.jpg?height=1605&width=969&top_left_y=458&top_left_x=600)
+ ![500](Attachments/500-905.jpg)
   
 Figure 8.8: TIPS and regular Treasury Bond ETF cumulative performance
 discussed in earlier lectures, but with some modifications. In the following, consider a long-term investor wants to maximize the expected utility of real wealth in $h$ periods by trading off expected real return on wealth against the variance of the real return. Let's assume the investor wants to combine a risky asset with a [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] with a fixed-weight strategy like the one we analyzed in lecture 5 , but now with a focus on real [returns](Assets.md).
@@ -424,7 +424,7 @@ The first adjustment concerns the [risk-free rate](Black Scholes Derivation.md) 
 =======
 The first adjustment concerns the [risk-free rate](Black Scholes Derivation.md) to be used. When the investor cares about real, not nominal [returns](Assets.md), a nominally [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] like Treasury bond is not risk-free in real terms. In the presence of [inflation](War Economies and Hyperinflation.md) risk, the real return on Treasury bonds is uncertain, even if the maturity of the bond exactly matches the optimization horizon. Instead, for the investor with a $h$-year horizon, TIPS with $h$ years of remaining maturity would be virtually risk-free and hence the real yield of these securities can then be used as the real [risk-free rate](Black Scholes Derivation.md) over this horizon. Now, as TIPS pay coupons semi-annually and hence TIPS with $h$ years of remaining to maturity are not exactly a $T$-year zero-coupon bond, which creates a slight mismatch with the optimization horizon of $h$ years. So let's assume the investor can invest in a real zero-coupon bond that offers a log real yield of $y_{h, t}^{r}$ with maturity $h$ matched to the investor's horizon. This is the [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] for this investor and $y_{h, t}^{r}$ should therefore replace $r_{f}$ in (8.25).
 >>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-287.jpg?height=938&width=1348&top_left_y=298&top_left_x=405)
+ ![500](Attachments/500-934.jpg)
   
 Figure 8.9: Treasury bill yields and [inflation](War Economies and Hyperinflation.md)
   
@@ -496,7 +496,7 @@ so exchange [[Profit and Loss Attribution with an OAS|rate changes]] should refl
   
 Now, the empirical evidence does not suggest that (8.28) is a great description of how exchange rates behave in the short run. But over longer periods, PPP helps understand exchange rate movements. ${ }^{7}$ PPP provides a good guide to exchange rate movements during hyperinflation episodes.
   
-[^41] ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-290.jpg?height=915&width=1327&top_left_y=315&top_left_x=361)
+[^41] ![500](Attachments/500-933.jpg)
   
 Figure 8.10: [Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and exchange rate to USD in Turkey
   
@@ -541,7 +541,7 @@ That people have a tendency to rely on past experiences in forming their views a
 >>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
   
 But if we look at heterogeneity in individuals' [expectations](FORWARD RATES AND TERM STRUCTURE.md), we can clearly see the experience effects at work. In a research project some years ago, my co-author Ulrike Malmendier and I showed that people's [inflation](War Economies and Hyperinflation.md) [expectations](FORWARD RATES AND TERM STRUCTURE.md) are heavily shaped by their life-time experiences of [inflation](War Economies and Hyperinflation.md). This is clearly visible as age-heterogeneity in [inflation](War Economies and Hyperinflation.md) [expectations](FORWARD RATES AND TERM STRUCTURE.md). Younger people's [expectations](FORWARD RATES AND TERM STRUCTURE.md) are influenced by more recent data while older individuals' [expectations](FORWARD RATES AND TERM STRUCTURE.md) are influenced by data from earlier years because their lifetime experiences stretch farther back into the past. The [expectations](FORWARD RATES AND TERM STRUCTURE.md) of young and old therefore differ. For example, after a surge in [inflation](War Economies and Hyperinflation.md) rates, young people's lifetime experience is quickly dominated by these high [inflation](War Economies and Hyperinflation.md) rates, leading them to forecast higher future [inflation](War Economies and Hyperinflation.md) rates. In contrast, older people average these recently high [inflation](War Economies and Hyperinflation.md) rates with a larger set of historical experiences, and so the reaction of their [expectations](FORWARD RATES AND TERM STRUCTURE.md) to this surge is more muted.
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-293.jpg?height=1012&width=1435&top_left_y=605&top_left_x=367)
+ ![500](Attachments/500-934.jpg)
   
 Figure 8.11: Differences in [inflation](War Economies and Hyperinflation.md) [expectations](FORWARD RATES AND TERM STRUCTURE.md) by age
 One-year [inflation](War Economies and Hyperinflation.md) [expectations](FORWARD RATES AND TERM STRUCTURE.md) of age groups in excess of the cross-sectional mean across age groups each period. Data from the Michigan Survey of Consumers. Until 2009Q4: Malmendier, U. and Nagel, S., 2016. Learning from [inflation](War Economies and Hyperinflation.md) experiences. Quarterly Journal of Economics, 131(1), pp.53-87; out-of-sample periods after 2009Q4 are updates post-publication. Solid lines show [inflation](War Economies and Hyperinflation.md) forecasts from an $\mathrm{AR}(1)$ model estimated on each age group's lifetime data of [inflation](War Economies and Hyperinflation.md).
@@ -589,7 +589,7 @@ Fiscal reforms that bring the budget back into balance have been key in ending m
   
 Source: Young [36, vol. 1, p. 422].
 Figure 8.13: Government budget in Germany in months after hyperinflation ended Source: Sargent, T.J., 1982. The ends of four big inflations. In [Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md): Causes and effects (pp. 41-98). University of Chicago Press.
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-298.jpg?height=988&width=1338&top_left_y=308&top_left_x=361)
+ ![500](Attachments/500-934.jpg)
   
 Figure 8.14: Treasury yields (3-month and 10-year maturity) around March 2020
 Source: He, Z., Nagel, S. and Song, Z., 2022. Treasury inconvenience yields during the covid-19 crisis. Journal of Financial Economics, 143(1), pp.57-79.
@@ -599,7 +599,7 @@ Many other hyperinflations in history, e.g., several in Latin America in the sec
 While these historic episodes may not be immediately relevant for developed markets in the current environment, some recent events during the COVID pandemic show at least a qualitative similarity with budget deficits, jittery bond markets, large-scale bond purchases by the central bank, higher [inflation](War Economies and Hyperinflation.md), and some investors looking for ways to preserve their purchasing power. The situation was far, far less dramatic, but still, perhaps some caution is warranted.
   
 The COVID pandemic lead to government programs that strongly increased government budget deficits. Somewhat surprisingly, in March 2020 the U.S. Treasury bond market seemed to have trouble digesting the high supply of Treasury bonds. During several days in March 2020, long-term Treasury bond yields rose, even though [the Fed](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Monetary%20Policy%20with%20Abundantreserves.md) lowered [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) and short-term yields came down strongly, as shown in Figure 8.14.
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-299.jpg?height=958&width=1332&top_left_y=323&top_left_x=424)
+ ![500](Attachments/500-934.jpg)
   
 Figure 8.15: Federal Reserve Treasury holdings in 2020 ($bn.)
 Source: He, Z., Nagel, S. and Song, Z., 2022. Treasury inconvenience yields during the covid-19 crisis. Journal of Financial Economics, 143(1), pp.57-79.
@@ -613,7 +613,7 @@ The [bottom line](../Advanced%20Financial%20Analysis%20and%20Valuation/Financial
 =======
 The [[Operating Income vs. Net Income What's the Difference|bottom line]] from all this is that to judge whether [inflation](War Economies and Hyperinflation.md) risk might emerge, it's important to keep an eye on fiscal conditions in addition to the central bank's conduct of [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.6 [[A Preview of Alternative Formulations|Asset price]] reactions to [[The Economist Regime Change|monetary policy]] surprises|[[The Economist Regime Change|monetary policy]]]].
 >>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-300.jpg?height=706&width=1180&top_left_y=319&top_left_x=424)
+ ![500](Attachments/500-934.jpg)
   
 Figure 8.16: Share of countries in a given year that are in external or internal default
 Source: Reinhart, C.M. and Rogoff, K.S., 2011. The forgotten history of domestic debt. The Economic Journal, 121(552), pp.319-350.
@@ -692,9 +692,9 @@ Figure 8.17a shows return standard deviations of sovereign debt of different cou
 >>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
   
 Figure 8.17b shows betas with respect to the U.S. (for U.S. dollar bonds) or U.K. (for British pound bonds) equity market indices. On the y-axis is the excess return relative to U.S. or U.K. government bonds. This analysis focuses on a more recent period since 1995 since before that time the number of dollar or pound bonds outstanding has been very small and the data sparse. The plot shows that systematic risk of the debt of serial
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-303.jpg?height=828&width=1205&top_left_y=318&top_left_x=468)
+ ![500](Attachments/500-934.jpg)
 (a) [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) and standard deviations of sovereign debt, 1815-2016
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-303.jpg?height=744&width=1071&top_left_y=1273&top_left_x=489)
+ ![500](Attachments/500-904.jpg)
 (b) [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) and betas of sovereign debt, 1995-2016
   
 Figure 8.17: Risk and average excess [returns](Assets.md) on sovereign debt
@@ -712,7 +712,7 @@ As a final remark, I want to point out that countries in Europe that have adopte
 >>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
   
 A few years after the Great [Financial Crisis](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Letter.md), the eurozone experienced a realization of such a crisis. [Greece](../Financial%20Instruments/Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md) went through a default (restructuring of debt). Other countries (Spain, Portugal, Ireland, Italy) were subject to concerns about possible default. Bond yields reflected these elevated [default probabilities](../Credit%20Markets/Credit%20Markets%20Session%203.md) as shown in Figure 8.18. Things calmed down eventually when the ECB developed programs that could be used to purchase sovereign debt of eurozone member countries. To this day, these problems are still simmering under the surface and have not been resolved.
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-305.jpg?height=860&width=1218&top_left_y=828&top_left_x=475)
+ ![500](Attachments/500-903.jpg)
   
 Figure 8.18: Sovereign bond yields of eurozone countries
 [^0]:    ${ }^{1}$ This follows from applying L'Hôpital's rule. We'll skip the derivation.

@@ -84,7 +84,7 @@ As mentioned,**goods, services, and [investment](../Advanced%20Investments/An%20
 
 **In other words,*****since the price of any good, service, or financial asset equals the total amount spent by buyers ($) divided by the total quantity sold by sellers (Q), if you know total spending (total $) and you know the total quantity sold (total Q), you will know the price and everything else you need to know.*****That is indisputably how it is, so it is indisputable that the best way to estimate the price is to estimate the total spending and divide it by the total quantity sold. And what** **is the best way to estimate these things? It is to understand the motivations of the buyers and sellers.**All buyers have their own reasons for spending the amounts of money that they are spending to get the quantity they are buying, and all sellers have their own reasons for selling the quantity they are selling to get the money they’re getting.**What I’m saying is conveyed in the** **conceptual diagram below.**
 
-![](https://media.licdn.com/dms/image/v2/D4E12AQEq0sJs7ScoCw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1736543889050?e=1749686400&v=beta&t=V8cYOJb3E72oVGu5qI0_3mowi1N-6A-vO_rEb3Q5oI8)
+![](Attachments/1736543889050.png)
 
 **While this might look and sound complicated, it’s really not. For each product, the buyers and sellers have their reasons for making those purchases and sales, and it’s pretty easy to determine who the main buyers and sellers are and what motivates them. If you can figure out major buyers' reasons for spending and you know the major sellers' reasons for selling, you can pretty accurately predict their actions, and thus the price.**
 
@@ -188,7 +188,7 @@ These cycles move markets and economies around an upward-sloping trend line of r
 
 Over a short period of time (i.e., 1-10 years) the [short-term debt](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/When%20Safe%20Proved%20Risky%20Commercial%20Paper%20During%20the%20Financial%20Crisis%20of%202007%202009.md) cycle is dominant. Over a long period of time (i.e., 10 years and beyond) the long-term [debt cycle](../International%20Finance/Bridgewater/Chapters/US%20Debt%20Crisis%20and%20Adjustment%201928-1937.md) and the upward-sloping trend line in productivity have much bigger effects. Conceptually, the way this dynamic transpires looks like this to me:
 
-![](https://media.licdn.com/dms/image/v2/D4E12AQE2HXQLYt4QZA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1736544745363?e=1749686400&v=beta&t=4_6QSVmGuT8fhp8Arhz6mrrwp4DnguwlYr4oOJm7er4)
+![](Attachments/1736544745363.png)
 
 ***What separates a sustainable [debt cycle](../International%20Finance/Bridgewater/Chapters/US%20Debt%20Crisis%20and%20Adjustment%201928-1937.md) from an unsustainable one is whether the debt creates enough income or more to pay for the [debt service](../Financial%20Engineering/Notes%20on%20Currency%20Swaps.md). If incomes fail to grow as quickly as debt and [debt service](../Financial%20Engineering/Notes%20on%20Currency%20Swaps.md), the ratio of debts to incomes will mechanically grow, which will require increased borrowing to serve debt as well as to spend.*****The cycle goes from low to high to unsustainably high debt and [debt service](../Financial%20Engineering/Notes%20on%20Currency%20Swaps.md) relative to incomes.*****A sure sign of moving toward a [debt crisis](../International%20Finance/Bridgewater/Chapters/US%20Debt%20Crisis%20and%20Adjustment%20(2007–2011).md) is when there is a large and rising amount of borrowing that is being used to pay for the [debt service](../Financial%20Engineering/Notes%20on%20Currency%20Swaps.md).***
 
@@ -289,7 +289,7 @@ The rest of this section goes through a few formulaic examples to illustrate how
 
 ***1) Future debts relative to future income.****The formula to* ***estimate this is:***
 
-![](https://media.licdn.com/dms/image/v2/D4E12AQHNxtp_vv1E2A/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1736545496642?e=1749686400&v=beta&t=5qFdyN6FF-ifaz7-q7naCgSy6xUIL0NFWdeAEix1AP0)
+![](Attachments/1736545496642.png)
 
 In words: Future debt relative to revenue is a function of 1) spending more or less than one makes in revenue, 2) the “compounding” of one’s existing debts, and 3) revenue growth. As one’s expenses grow relative to one’s revenue, one is forced to borrow more to finance the spending, which increases new borrowing (first numerator term). As [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) rise, existing debts grow faster (second numerator term). As revenues grow, incomes grow relative to debts, so the ratio of debt to revenue falls (denominator term).
 
@@ -299,7 +299,7 @@ We can also reconfigure this formula to solve for ways to keep the debt-to-incom
 
 ***2) Future [debt service](../Financial%20Engineering/Notes%20on%20Currency%20Swaps.md) relative to future income.****The formula to estimate this is:*
 
-![](https://media.licdn.com/dms/image/v2/D4E12AQE5hwn1zMUQJw/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1736545568705?e=1749686400&v=beta&t=nx7JaGYMPmBRrMfEssgNjIqo7Qpz6vqoioKwKOGMY6U)
+![](Attachments/1736545568705.png)
 
 In words: Future [debt service](../Financial%20Engineering/Notes%20on%20Currency%20Swaps.md) relative to revenue is a function of future interest costs and principal payments, relative to how much revenue grows. If revenue grows a lot, [debt service](../Financial%20Engineering/Notes%20on%20Currency%20Swaps.md) will fall relative to incomes, all else equal.
 
@@ -311,7 +311,7 @@ Principal payments are the amount of debt that is coming due each year that must
 
 The expected level of [nominal interest rates](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20and%20Nominal%20Interest%20Rates%20and%20Term%20Struc.md) relative to nominal growth rates tells us how debt and [debt service](../Financial%20Engineering/Notes%20on%20Currency%20Swaps.md) is likely to grow or shrink. Below, we show the formula for the interest rate that would keep debt levels and interest [debt service](../Financial%20Engineering/Notes%20on%20Currency%20Swaps.md) flat relative to revenue. Note that this is based on the first formula, just reconfiguring that formula to give us the required interest rate to keep debts flat relative to revenue.
 
-![](https://media.licdn.com/dms/image/v2/D4E12AQGzLmJoJ9fsMg/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1736545629509?e=1749686400&v=beta&t=KJz2Olvujs5T5yEWynYBGbVeqrLmiC5-bMC8xbcfBCk)
+![](Attachments/1736545629509.png)
 
 To walk through this in words, if the primary deficit is zero (i.e., current expenses before interest = current revenue), debts will stay flat if the interest rate is equal to the revenue growth rate. If the primary deficit is 5% of the current debt level, [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) would need to be 5% below the revenue growth rate.
 
@@ -323,7 +323,7 @@ You can probably see that, just as you can solve for the interest rate required 
 
 ***4) Debts and [debt service](../Financial%20Engineering/Notes%20on%20Currency%20Swaps.md) relative to savings (e.g., reserves):***Just as we can estimate debt burdens relative to income, we can estimate them relative to savings—simply by looking at the level and change in savings rather than the level and change in incomes. The formula to estimate this is as follows:
 
-![](https://media.licdn.com/dms/image/v2/D4E12AQF23noEhdnhYA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1736545692168?e=1749686400&v=beta&t=u_rcMy2FhmTToTgpvn89oYJZIvziMPWDfy7RojeNuwM)
+![](Attachments/1736545692168.png)
 
 These formulas are very similar to (1) and (2), so I will not fully walk through them in words. The difference is that we are looking at debts and [debt service](../Financial%20Engineering/Notes%20on%20Currency%20Swaps.md) relative to savings. If one has large debts but very large savings, it is less likely that the debt burdens are concerning, because one can pay the [debt service](../Financial%20Engineering/Notes%20on%20Currency%20Swaps.md) and pay back part of the debts using the savings. It creates a buffer.
 
@@ -349,11 +349,11 @@ If we assume that [interest rates](../Financial%20Markets/Fixed%20Income%20Secur
 
 The table below shows debt levels 10 years forward for various starting debt levels and deficits. The second table shows the change relative to the starting debt level. You can see that as the starting debt level rises, and as deficits become larger, the expected debt level at the end gets higher.
 
-![](https://media.licdn.com/dms/image/v2/D4E12AQGdovql681W9g/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1736863728407?e=1749686400&v=beta&t=EUDfTuvdNNrPXtFVTd6fT6162_sNz7nAlim7idbH9N8)
+![](Attachments/1736863728407.png)
 
 When going through these numbers, you might keep in mind that at the time of this writing, the US, Japanese, Chinese, French, German, and UK numbers are approximately as follows.
 
-![](https://media.licdn.com/dms/image/v2/D4E12AQFOk3efP_-FsQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1736546038629?e=1749686400&v=beta&t=Zj6htr0X45mG4q8kcX3KCQvbu7gBpuyq4Kprtuyyns4)
+![](Attachments/1736546038629.png)
 
 **Example 2: The Effects of [Nominal Interest Rates](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20and%20Nominal%20Interest%20Rates%20and%20Term%20Struc.md) Minus Nominal Income Growth Rates on Debt-to-Income Ratios**
 
@@ -363,7 +363,7 @@ When going through these numbers, you might keep in mind that at the time of thi
 
 The first table below shows the levels of debt to income 10 years from now based on these assumptions, and the second table shows the change in debt to income over the 10 years.**As [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) get higher than growth, debt levels grow faster. Also, as debts get higher, the impact of high [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) gets worse much faster.**
 
-![](https://media.licdn.com/dms/image/v2/D4E12AQElpdxoo1-toA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1736863685923?e=1749686400&v=beta&t=d6xyrWby_tYm03qtcXJiwkTZ08IM3zV9p5xDbDzpi0Y)
+![](Attachments/1736863685923.png)
 
 Previously, we forecast that with current debts and deficits, [US debt](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/US%20Markets.md) levels will rise from 580% to 730% of income. If we also incorporate projected [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) relative to nominal growth, we’d expect [US debt](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/US%20Markets.md) levels to rise to 679% of income (assuming taxes stay a constant share of GDP). You get the idea.
 
@@ -383,7 +383,7 @@ If [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%2
 
 **A Toy Model: [Interest Rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) Spiral Higher**
 
-![](https://media.licdn.com/dms/image/v2/D4E12AQFgaSzM4rM64g/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1736863798164?e=1749686400&v=beta&t=uWn5TuUgBOdGYMb60fFyJRlB6e_ov2v3ChiaQxL4-FI)
+![](Attachments/1736863798164.png)
 
 **A government can prevent this spiral of rising rates by reducing its debt burdens.**I laid this out in more detail in my book *Principles for Navigating [Big Debt Crises](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Principles%20Part%20II.md)*, but, to reiterate, there are four ways to reduce debt burdens for a government:
 
@@ -412,7 +412,7 @@ While these factors are measurable, they are much harder to project than the pre
 
 **The Central Bank Steps In**
 
-![](https://media.licdn.com/dms/image/v2/D4E12AQHR_HWMfWhzTQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1736863860517?e=1749686400&v=beta&t=WNutq5o97FNchqB_C6M0zmzdAqZhIzSZA-P1g6MiF9E)
+![](Attachments/1736863860517.png)
 
 **This is a rough example, but you can see the general contours of how this works for real economies. As an economy needs lower and lower [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) to keep debt burdens manageable, there is less and less private demand for the debt at those lower [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md), which requires the central bank to step in. The more the central bank steps in, the more it is forced to increase the money supply, which devalues money and makes holding debt less desirable.**
 
@@ -422,7 +422,7 @@ While these factors are measurable, they are much harder to project than the pre
 
 In the first table, the rows represent different starting debt-to-income levels for a government, and the columns represent how many bonds private players are willing to purchase at current [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md).**As a government has more of a debt problem, and as private players are willing to hold less of the debt, the money stock increases more.**The red box reflects the scenario laid out above, where the central bank buys $7.7 trillion of bonds, increasing the money stock from $5.6 trillion to $13.5 trillion.
 
-![](https://media.licdn.com/dms/image/v2/D4E12AQHUwRs8-PfEDQ/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1736546823623?e=1749686400&v=beta&t=tOU6YnR-3iUvsywPnu3SFnPeZVhKMexmVL_4ZNxUvA4)
+![](Attachments/1736546823623.png)
 
 ***Buying up bonds and increasing the money supply is stimulative and puts downward pressure on the [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)*** in two ways:
 
@@ -438,7 +438,7 @@ Also, the printed money can directly flow out of the [currency](../Financial%20I
 
 In the next table, we show a range of outcomes for how this might work. The columns again reflect different willingness to lend by private players (as you go to the right, private players are less willing to lend to the government). The rows reflect how sensitive the [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) is to the money supply. As the market sees a [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) as a worse and worse store of value, we’d expect the [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) to become more sensitive to the money supply, because other players will be less willing to hold it. For example, let’s assume that printing 1% of GDP in money led to ~1% [currency weakness](../International%20Finance/Bridgewater/Chapters/Inflationary%20Depressions%20and%20Currency%20Crises.md), then in the example above, we’d expect a ~15% [currency depreciation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20I%20-%20The%20Big%20Debt%20Cycle/Inflationary%20Depressions%20and%20Currency%20Crises/Inflationary%20Depressions%20and%20Currency%20Crises%201.md).**As the [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) becomes more sensitive to the amount of money (i.e., M0), and as the private sector becomes less willing to lend, we’d expect to see more and more [currency weakness](../International%20Finance/Bridgewater/Chapters/Inflationary%20Depressions%20and%20Currency%20Crises.md).**
 
-![](https://media.licdn.com/dms/image/v2/D4E12AQE35fPusIUzbA/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1736546900391?e=1749686400&v=beta&t=t9FeLK_vD-_x9Dc8Dm4UJcAGlsW5IxrMFByhiHSooVI)
+![](Attachments/1736546900391.png)
 
 **What level of [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) can make debt burdens affordable for a country?**
 
@@ -458,11 +458,11 @@ Let's look at these things and also look at how they would have worked in the pa
 
 As a reminder, the equation below shows the drivers of future levels of debt and [debt service](../Financial%20Engineering/Notes%20on%20Currency%20Swaps.md) relative to incomes**.**This is more fully explained at the start of this chapter.
 
-![](https://media.licdn.com/dms/image/v2/D4E12AQEcmoovjdU0ng/article-inline_image-shrink_1500_2232/article-inline_image-shrink_1500_2232/0/1736547016682?e=1749686400&v=beta&t=Kqw1auKYJC5_GaibaJknAO2UfN5vmmFKhhKZhunlyag)
+![](Attachments/1736547016682.png)
 
 **In the table below, I use this formula to estimate what [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) would stabilize debt burdens relative to incomes for the US today. We also show how each of the other available “levers” would have to change in order to stabilize debt burdens. You can see that to stabilize [government debt](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Global%20Fixed%20Income%20Markets.md) burdens, the US would either need to see nominal interest fall to about 1%, see nominal economic growth average about 6% (2.5% additional [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) above the 3.8% nominal growth projected by the CBO), or raise government revenue (i.e., raising taxes) by 11%. Of course, each one of these paths would be intolerably too large so it will take the right combination of lesser amounts of these to successfully achieve the goal. In Chapter 16, “My 3% Solution: How the US Could Stabilize Its Debt Burden,”** **I show what I believe the best combinations would be to achieve the goal of limiting debt burdens and risks in a very tolerable way.**
 
-![](https://media.licdn.com/dms/image/v2/D4E12AQGjNUQIlx8N7w/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1736547061718?e=1749686400&v=beta&t=ZhgxPdgc_LCa59yzL91pUrxdvm4YVqjMym7X-SBr-ik)
+![](Attachments/1736547061718.png)
 
 *The views expressed in this article are mine and not necessarily Bridgewater’s.*
 

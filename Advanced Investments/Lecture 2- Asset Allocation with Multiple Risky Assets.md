@@ -676,13 +676,13 @@ $$
 
 which is smaller,    by factor $1 / \sqrt{n}$,    than the standard error when we use annual [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md). The same factor applies to covariances as well,    but we are not going to show this explicitly.
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-048.jpg?height=798&width=985&top_left_y=1048&top_left_x=532)
+ ![500](Attachments/500-997.jpg)
 
 Figure 2.3: Distribution of annualized mean estimates when [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are measured at different measurement frequencies
 
 Figures 2.3 and 2.4 illustrate this with simulations. I simulate $T=10,        000$ daily [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) by drawing from a normal distribution such that the annualized [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) (assuming 250 trading days per year) have mean 0.05 and standard deviation 0.20 . I calculate the mean and standard deviation of these daily [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md). Then I aggregate the [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to annual [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) by summing the daily [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) within 250 -day windows (if I do it by
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-049.jpg?height=789&width=987&top_left_y=351&top_left_x=577)
+ ![500](Attachments/500-998.jpg)
 
 Figure 2.4: Distribution of annualized standard deviation estimates when [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are measured at different measurement frequencies
 
@@ -1030,7 +1030,7 @@ Then I move the estimation window in step 1 forward by one month to beginning of
 
 Now I have several time-series of [portfolio](An%20Asset%20Allocation%20Primer.md) excess [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md),    one for each $\phi$. I calculate the Sharpe ratio from these [portfolio](An%20Asset%20Allocation%20Primer.md) excess [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md).
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-063.jpg?height=887&width=1186&top_left_y=695&top_left_x=491)
+ ![500](Attachments/500-999.jpg)
 
 Figure 2.8: Out-of-sample Sharpe Ratios for different values of the shrinkage parameter $\phi$ and different lengths of the backward-looking estimation window
 

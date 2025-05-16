@@ -77,7 +77,7 @@ In what follows,  to reduce clutter,  I will often just write yields,  prices,  
 
 If we plot yields $y_{n,             t}$ as a function of maturity $n$ we obtain the [Risk and Return](Lecture%207-[[Lecture%207-Risk%20and%20Return%20of%20Bonds) of Bonds#7.1 Zero-coupon yield curve|zero-coupon yield curve]]. As an example,  Figure 7.1 presents two snapshots of the yield curve in April 2021
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-233.jpg?height=984&width=1199&top_left_y=294&top_left_x=474)
+ ![500](Attachments/500-939.jpg)
 
 Figure 7.1: Zero-coupon yields extracted from U.S. Treasury bond prices
 
@@ -182,7 +182,7 @@ To understand the [risk and return](Lecture 7-Risk and Return of Bonds.md) prope
 
 In fact,  the yield curve can be quite neatly summarized by three factors that capture almost all the variation in yields over time. We form the following three linear
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-236.jpg?height=990&width=1272&top_left_y=364&top_left_x=359)
+ ![500](Attachments/500-940.jpg)
 
 Figure 7.2: History of zero-coupon yields extracted from U.S. Treasury bond prices
 
@@ -236,7 +236,7 @@ The results we get from these regressions will be closely related to the results
 The results we get from these regressions will be closely related to the results we obtained with yield changes as the dependent variable,  because at daily measurement frequency,  $r_{n,             t} \approx-n \Delta y_{n,             t}$. Therefore,  the [[A Practical Estimation Method|regression coefficients]] when we have [returns](Assets.md) as dependent variable are those from earlier in Table 7.1,  but multiplied by the maturity of the bond $n$ and with flipped sign. Figure 7.3 plots the coefficients for bonds with maturities from one to 10 years.
 >>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-238.jpg?height=999&width=1359&top_left_y=1189&top_left_x=340)
+ ![500](Attachments/500-941.jpg)
 
 Figure 7.3: Coefficients in regression of daily bond [returns](Assets.md) on daily changes in level,  slope,  and curvature factors
 
@@ -257,7 +257,7 @@ Since level,  slope,  and curvature factors explain almost all movement in yield
 ### [](.md#7.4%20Expectations%20hypothesis|7.4%20Expectations%20Hypothesis)
 We can get some understanding of how bond prices are determined in market equilibrium,  and how the shape of the yield curve arises,  by considering a bond [investment](An%20Asset%20Allocation%20Primer.md) problem. Since most yield curve movements are driven by level and slope movements,  we can
 
-[^32] ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-240.jpg?height=1007&width=1465&top_left_y=315&top_left_x=295)
+[^32] ![500](Attachments/500-940.jpg)
 
 Figure 7.4: Yield curve trades
 
@@ -367,7 +367,7 @@ The [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#
 In the U.S.,  the Federal Reserve ("Fed") normally conducts [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Risk and Return]] of Bonds#7.6 [[A Preview of Alternative Formulations|Asset price]] reactions to [monetary policy](The Economist Regime Change.md) surprises|[monetary policy](The Economist Regime Change.md)]] by setting a target for the [[Topics in Fiscal and Monetary Policies and Stabilization- Empirical Issues|federal funds rate]]. The federal funds market is an interbank market in which banks lend to each other. Basically,  banks all have accounts at [[Monetary Policy with Abundantreserves|the Fed]] and they can move deposits in these accounts (called reserves) from one bank to another to settle interbank flows that arise from their daily deposit,  lending,  and trading activity. To manage their daily inand outflows due to receiving deposits from customers,  deposit withdrawals,  lending flows,  etc.,  banks want to keep a certain minimum level of reserves in their account to make sure they have enough [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]] to settle all of these flows. If a bank finds itself short of [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]],  they will be active in the federal funds market to borrow reserves from other banks; if they anticipate having a surplus of [[Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management|liquidity]],  they will be active looking to lend in the federal funds market. Loans in the federal funds market are overnight,  i.e.,  they have one-day maturity. The interest rate that clears the market (so that supply of reserves by banks willing to lend reserves equals the demand for borrowing reserves) is called [[Topics in Fiscal and Monetary Policies and Stabilization- Empirical Issues|federal funds rate]].
 >>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-243.jpg?height=945&width=1351&top_left_y=1048&top_left_x=406)
+ ![500](Attachments/500-935.jpg)
 
 Figure 7.5: Time-series of the [federal funds rate](../International%20Finance/Economic%20Stabilization%20Notes/Topics%20in%20Fiscal%20and%20Monetary%20Policies%20and%20Stabilization-%20Empirical%20Issues.md)
 
@@ -389,7 +389,7 @@ But in the GFC,  methods of [[Lecture 7-[[Lecture 7-Risk and Return of Bonds|Ris
 
 Figure 7.6 shows the reserve balances. They reached a peak of close to $3$ trillion around 2015,  and then an all-time high (so far) in 2020 due to a further round of
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-245.jpg?height=936&width=1349&top_left_y=302&top_left_x=407)
+ ![500](Attachments/500-935.jpg)
 
 Figure 7.6: Total reserves of depository institutions
 
@@ -401,7 +401,7 @@ For this reason,  [the Fed](../Financial%20Markets/Fixed%20Income%20Securities%2
 
 there is no reason why the [federal funds rate](../International%20Finance/Economic%20Stabilization%20Notes/Topics%20in%20Fiscal%20and%20Monetary%20Policies%20and%20Stabilization-%20Empirical%20Issues.md) should rise above $2/% in this case. So the federal funds rate should be equal to $2/%.
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-246.jpg?height=933&width=1331&top_left_y=444&top_left_x=359)
+ ![500](Attachments/500-937.jpg)
 
 Figure 7.7: Interest on reserve balances,  overnight repurchase agreement rate,  and effective [federal funds rate](../International%20Finance/Economic%20Stabilization%20Notes/Topics%20in%20Fiscal%20and%20Monetary%20Policies%20and%20Stabilization-%20Empirical%20Issues.md)
 
@@ -409,7 +409,7 @@ Figure 7.7 shows IORB (red line) and the effective [federal funds rate](../Inter
 
 For this reason,  [the Fed](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Monetary%20Policy%20with%20Abundantreserves.md) added another facility called the Overnight Reverse Repo Facility (ON RRP). The details of how this works don't matter for our purposes. The essence is that the facility serves as a way for federal funds market participants that do not have reserve accounts at [the Fed](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Monetary%20Policy%20with%20Abundantreserves.md) to effectively deposit funds at [the Fed](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Monetary%20Policy%20with%20Abundantreserves.md). These deposits are remunerated at the ON RRP rate which [the Fed](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Monetary%20Policy%20with%20Abundantreserves.md) sets slightly below the IORB. And the ON RRP rate then serves as a floor for the [federal funds rate](../International%20Finance/Economic%20Stabilization%20Notes/Topics%20in%20Fiscal%20and%20Monetary%20Policies%20and%20Stabilization-%20Empirical%20Issues.md) that is not leaky. As Figure 7.7 shows,  [the Fed](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Monetary%20Policy%20with%20Abundantreserves.md) was able to raise the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Federal Funds Market|[Fed Funds](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md) Rate]]  without breaching this floor by simultaneously raising the IORB and ON RRP rates in lockstep.
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-247.jpg?height=1042&width=1489&top_left_y=306&top_left_x=340)
+ ![500](Attachments/500-938.jpg)
 
 Figure 7.8: 3-month Treasury bill yields and the [federal funds rate](../International%20Finance/Economic%20Stabilization%20Notes/Topics%20in%20Fiscal%20and%20Monetary%20Policies%20and%20Stabilization-%20Empirical%20Issues.md) target
 
@@ -513,7 +513,7 @@ at the [returns](Assets.md) of other assets,  e.g.,  of a [stock index](../Finan
 at the [returns](Assets.md) of other assets,  e.g.,  of a [[Hedging Strategies with Forwards|stock index]],  in response to the same FOMC announcements. Then regress the assets' [returns](Assets.md) on the changes in one-year yields. The slope coefficient in this regression then tells us the return that an asset experiences on average if the one-year yield rises by 1 percentage point during the 30 -minute window. These slope coefficients are shown in Figure 7.9.
 >>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-251.jpg?height=733&width=879&top_left_y=590&top_left_x=642)
+ ![500](Attachments/500-935.jpg)
 
 Figure 7.9: [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) of bonds and stocks during 30 minutes around FOMC announcements
 
@@ -570,7 +570,7 @@ As an example,  Figure 7.10 shows the time-series of the interest rate implied b
 
 ## Figure 2: Predictions of a Modified Taylor Rule
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-253.jpg?height=752&width=1489&top_left_y=361&top_left_x=340)
+ ![500](Attachments/500-936.jpg)
 
 Figure 7.10: [Taylor rule](../International%20Finance/Economic%20Stabilization%20Notes/Topics%20in%20Fiscal%20and%20Monetary%20Policies%20and%20Stabilization-%20Empirical%20Issues.md)
 
@@ -654,7 +654,7 @@ But at least some of this must be luck. The decades since the start of the 1980s
 But at least some of this must be luck. The decades since the start of the 1980s have been a bond investor's dream come true. in the early 1980s,  bond yields were high because [inflation](War Economies and Hyperinflation.md) was high and short-term [interest rates](Interest Rate Quotations.md) were high. Given their experience from the 1970s,  investors at the time did not have much confidence that [inflation](War Economies and Hyperinflation.md) and [interest rates](Interest Rate Quotations.md) would come down persistently any time soon. But then [inflation](War Economies and Hyperinflation.md) fell,  [interest rates](Interest Rate Quotations.md) fell,  and after they had fallen and it seemed like they could not possibly fall further,  they fell further,  all the way to almost zero in the years after the great [[Squam Lake Group Letter|financial crisis]].
 >>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-256.jpg?height=1044&width=1351&top_left_y=1039&top_left_x=344)
+ ![500](Attachments/500-938.jpg)
 
 Figure 7.11: 5-year moving average of 10-year bond excess [returns](Assets.md)
 
@@ -748,7 +748,7 @@ As we did a few lectures ago when we discussed [stock market](Hedge Fund Strateg
 
 We now look at pseudo-OOS regressions. We recreate regressions that investors in the past could have run,  based on the data that was available at the time. I fix an initial burn-in period of 120 months as minimum data requirement before one can run a regression. In the first month where this minimum data requirement is satisfied,  I run the regression of long-term bond [portfolio](An Asset Allocation Primer.md) [returns](Assets.md) in excess of the one-year bond return on the yield curve slope,  I record the estimated coefficients,  and I compute predicted excess [returns](Assets.md) for the next quarter. I then use the predicted excess return as [portfolio](An Asset Allocation Primer.md) weight $\omega_{t}$. The share $\omega_{t}$ is invested in the long-term bond [portfolio](An Asset Allocation Primer.md) in quarter $t+1$ and the rest,  $1-\omega_{t}$ in the one-year bond. Then I move forward one quarter and repeat the procedure,  and so on.
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-260.jpg?height=906&width=1188&top_left_y=295&top_left_x=425)
+ ![500](Attachments/500-947.jpg)
 
 <<<<<<< HEAD
 Figure 7.12: Cumulative standardized excess [returns](Assets.md) of different out-of-sample [portfolio strategies](../Fixed%20Income%20Asset%20Pricing/Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md)
@@ -793,7 +793,7 @@ $$
 
 If $\mathbb{E}\left[R_{b,             t}\right]-R_{f}$ is higher than $\beta\left(\mathbb{E}\left[R_{m,             t}\right]-R_{f}\right)$,  then adding bonds to the risky asset portion of the [portfolio](An Asset Allocation Primer.md) would improve the Sharpe ratio of the overall [portfolio](An Asset Allocation Primer.md).
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-262.jpg?height=909&width=1199&top_left_y=294&top_left_x=428)
+ ![500](Attachments/500-946.jpg)
 
 Figure 7.13: Beta of 10-year zero-coupon bonds based on daily [returns](Assets.md) in three-month moving windows
 
@@ -861,7 +861,7 @@ Part of the answer is that the nature of business cycles changed over the years.
 
 ## B. FOMC transcripts (1976-2013)
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-265.jpg?height=806&width=1445&top_left_y=383&top_left_x=340)
+ ![500](Attachments/500-948.jpg)
 
 Figure 7.14: Counts of [stock market](Hedge Fund Strategies.md) mentions in FOMC meeting transcripts
 

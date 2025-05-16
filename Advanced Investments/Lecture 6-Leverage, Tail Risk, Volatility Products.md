@@ -52,7 +52,7 @@ Because the risk parity strategy has high weights in bonds, which have relativel
 
 How much leverage do we need to get it up to $15 \%$ volatility? Recall that if we take a position with weight $\omega$ in a risky asset with return $R_{t}$, we have portfolio variance $\operatorname{var}\left(R_{p,t}\right)=\omega^{2} \operatorname{var}\left(R_{t}\right)$. So, in terms of standard deviations, and with $R_{t}$ now the return of the risk parity portfolio, we are looking for an $\omega$ that delivers $15.31 =\omega \times 6.92\%$ which we can solve for $\omega=2.21$. In other words, for every $1$ of the investors' wealth, we take $2.21$ exposure to the risk parity strategy (which is constructed with weights of the asset classes in the risk parity portfolio summing up to one), funded by $1.21$ of debt. Figure 6.1 shows the weights of the leveraged risk parity strategy that the investor then ends up holding once the risk parity strategy is combined with leverage. The weights now add up to 2.21, instead of to one.
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-194.jpg?height=941&width=1201&top_left_y=630&top_left_x=424)
+ ![500](Attachments/500-955.jpg)
 
 Figure 6.1: Weights of risk parity portfolio (10 years of data to estimate standard deviations)
 
@@ -190,7 +190,7 @@ ProShares UltraPro S&P500 seeks daily investment results, before fees and expens
 
 Daily performance of UPRO vs. index during $3 Q 2023$
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-202.jpg?height=524&width=1048&top_left_y=1012&top_left_x=254)
+ ![500](Attachments/500-949.jpg)
  ![500](Keep%20It%202024-10-24%2010.39.08.png)
 Correlation ${ }^{3}=0.99$
 
@@ -249,7 +249,7 @@ $$
 
 I then compound these returns for 750 days, and I simulate many such paths.
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-204.jpg?height=1014&width=1267&top_left_y=298&top_left_x=386)
+ ![500](Attachments/500-956.jpg)
 
 Figure 6.4: Simulated compound returns over 3 years in a $3x$ leveraged strategy
 
@@ -259,7 +259,7 @@ Thus, returns are extremely skewed. Very often, the leveraged strategy loses in 
 
 We can see this more clearly in the histogram shown in Figure 6.5. The blue bars
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-205.jpg?height=833&width=1047&top_left_y=359&top_left_x=555)
+ ![500](Attachments/500-952.jpg)
 
 Figure 6.5: Histogram of simulated compound returns over 3 years in 3x leveraged and unleveraged strategy
 
@@ -312,7 +312,7 @@ The magnitude of $\left(1+R_{f}\right)^{750}$ is too small to be visible in this
 
 Note that when the index performs very poorly,  the initial 3 x [leverage](Lecture 6-Leverage, Tail Risk, Volatility Products.md) strategy can lose more than the entire amount of initial [investment](An Asset Allocation Primer.md). With 3x initial [leverage](Lecture 6-Leverage, Tail Risk, Volatility Products.md),  a - $33 \%$ loss on the index is sufficient to extinguish the entire wealth invested in the strategy. Losses bigger than this generate additional liabilities. This is an issue we will revisit shortly.
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-208.jpg?height=893&width=1117&top_left_y=296&top_left_x=466)
+ ![500](Attachments/500-950.jpg)
 
 Figure 6.6: Simulated 3-year [returns](Assets.md) of various leveraged strategies as function of 3-year index [returns](Assets.md)
 
@@ -406,7 +406,7 @@ This now gives us further insight into the risk-return properties of a constant-
 
 Now that we have seen that a constant-[leverage](Lecture 6-Leverage, Tail Risk, Volatility Products.md) strategy is effectively synthesizing an option-like payoff,  we can also turn this around and synthesize a leveraged strategy using options.
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-211.jpg?height=901&width=1115&top_left_y=777&top_left_x=516)
+ ![500](Attachments/500-956.jpg)
 
 Figure 6.7: Simulated 3-year [returns](Assets.md) of constant-[leverage](Lecture 6-Leverage, Tail Risk, Volatility Products.md) strategy and a strategy that combines [investment](An Asset Allocation Primer.md) in index with options on the index
 
@@ -525,7 +525,7 @@ In contrast,  a strategy that initially sets a certain level of [leverage](Lectu
 Recall that a European put option gives a right,  but not the obligation,  to sell the [[Risk Neutral Pricing of Options|underlying asset]] at the [[Call and Put Payoffs at Expiry|strike price]] of the put option on the [[Risk Neutral Pricing of Options|expiration date]] of the option. By purchasing the right amount of put options we can therefore put a floor under the value of our [portfolio](An Asset Allocation Primer.md).
 >>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-216.jpg?height=898&width=1117&top_left_y=299&top_left_x=466)
+ ![500](Attachments/500-959.jpg)
 
 Figure 6.8: Simulated 3-year [returns](Assets.md) of strategies with initially fixed 3:1 [leverage](Lecture 6-Leverage, Tail Risk, Volatility Products.md) and with or without put protection
 
@@ -561,7 +561,7 @@ As it turns out,  the answer is yes. The reason is that when the index is at lev
 
 but since the payout of the option is capped below at zero,  this possibility is less relevant for the value of the put option). ${ }^{3}$
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-218.jpg?height=880&width=1131&top_left_y=449&top_left_x=454)
+ ![500](Attachments/500-954.jpg)
 
 Figure 6.9: Simulated 1.5-year return on the 3 x initial [leverage](Lecture 6-Leverage, Tail Risk, Volatility Products.md) + OTM puts strategy as function of 1.5 -year index [returns](Assets.md)
 
@@ -654,7 +654,7 @@ Under these more general assumptions the VIX calculation is based on,  if invest
 [[Lecture 6-[Leverage](Lecture 6-Leverage, Tail Risk, Volatility Products.md), Tail Risk, Volatility Products#6.6 [[Key Rates O1s Durations and Hedging|Hedging]] tail risks|tail risk]] [[Key Rates O1s Durations and Hedging|hedging]] program just before the COVID crisis in early 2020. See "The Inside Story of CalPERS' Untimely Tail-Hedge Unwind,  " Institutional investor,  April 14,  2020.
 >>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-223.jpg?height=893&width=1117&top_left_y=291&top_left_x=531)
+ ![500](Attachments/500-951.jpg)
 
 Figure 6.11: VIX index and annualized realized volatility over following 30 days
 
@@ -697,7 +697,7 @@ First,  the price of VIX [futures](../Financial%20Markets/Financial%20Engineerin
 
 Second,  there can be an additional risk premium in the sense that the [futures price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Futures%20Price%20and%20the%20Quality%20Option%20Before%20E.md) is not necessarily equal to the expected future VIX level. Empirical evidence indicates that [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) prices are on average higher than the future level of VIX that will be realized on the [expiration date](../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md). ${ }^{5}$ This means that investors are willing to pay a premium for VIX [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) relative to what [risk-neutral investors](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%208/An%20Analytical%20Decomposition%20of%20Forward%20Rates.md) would be willing to pay. This further means that VIX [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) must have some insurance properties that are valuable to investors. This makes sense given what we have seen for the VIX. Just like the options underlying the VIX are expensive due to a negative volatility risk premium,  [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) on VIX are expensive due to a negative volatility risk premium. Both the VIX and VIX [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) tend to rise in price strongly in times of crisis,  hence they are valuable to investors as a hedge.
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-225.jpg?height=370&width=1567&top_left_y=1493&top_left_x=298)
+ ![500](Attachments/500-959.jpg)
 
 ## Figure 6.13: VXX ETN
 
@@ -729,7 +729,7 @@ not an exchange traded fund. So an investor in this product does not own a share
 not an exchange traded fund. So an investor in this product does not own a share of a fund that holds these [[Futures Not Subject to Cash-And-Carry|futures]]. Instead,  the note represents a debt obligation of the issuer. The holdings shown in this table represent the position to which the issuer (Barclays) promises to tie the value of the notes. For a large investor,  it is better to invest in VIX [[Futures Not Subject to Cash-And-Carry|futures]] directly rather than to rely on the promises of a financial institution in honoring the debt obligations implied by this product. But for our purposes here,  the product is an easy way to see the [returns](Assets.md) obtained from a [[Futures Not Subject to Cash-And-Carry|futures]] position.
 >>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-227.jpg?height=893&width=1118&top_left_y=296&top_left_x=517)
+ ![500](Attachments/500-958.jpg)
 
 Figure 6.14: Split-adjusted VXX ETN price
 
@@ -745,7 +745,7 @@ The 1st percentiles of the daily return distribution (second-to-last row,  in pe
 
 Let me close our discussion with a warning. Earlier I pointed out that the price of
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-228.jpg?height=898&width=1131&top_left_y=291&top_left_x=451)
+ ![500](Attachments/500-953.jpg)
 
 Figure 6.15: Split-adjusted VXX ETN price since 2014
 
@@ -755,7 +755,7 @@ Moreover,  market imperfections can induce a disconnect between the prices of VI
 
 The first is that Barclays,  the issuer of VXX had made a regulatory paperwork blunder and had issued billions more in [structured notes](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20II%20CASH%20FLOW%20ENGINEERING/Chapter%208%20-%20Structured%20Finance/Interest%20Rate%20and%20Yield%20Curve-Based%20Structured.md) (including VXX) that it had permission for. For this reason,  it stopped issuing VXX in March 2022. This is a problem
 
- ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-229.jpg?height=868&width=1115&top_left_y=298&top_left_x=516)
+ ![500](Attachments/500-957.jpg)
 
 Figure 6.16: Scatterplot of daily VXX return against daily [stock index](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) return,  January 2018 to December 2021.
 

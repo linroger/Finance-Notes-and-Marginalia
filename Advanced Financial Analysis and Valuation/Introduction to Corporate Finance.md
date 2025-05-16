@@ -1715,13 +1715,13 @@ Supppose an investor purchases $20\%$ of the shares in ALLEQUITY. What is their 
 
 Investment Strategy: Buy $\S\,   100$ million of stock in ALLEQUITY
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b22c66c09326912c411763e8c4bfc6fe3f3e5eb0203b113de27ad278edcb2227.jpg)
+![](Attachments/b22c66c09326912c411763e8c4bfc6fe3f3e5eb0203b113de27ad278edcb2227.jpg)
 
 The $20\%$ ownership in ALLEQUITY entitles the investor to $20\%$ of the profits (note in this setting,  profits are equal to cash flows as there are no taxes,  no changes in net working capital,  no $\mathsf{C A P X},  $ etc.). At the end of each year,  the investor expects to receive $\S 10$ million in dividends. Suppose the investor chooses to replicate this payoff via purchasing securities in LEVER. Modigliani and Miller show that this can be accomplished by buying both debentures and stock in LEVER. In this particular example,  the investor will invest $\S 50$ million in LEVER debentures and also acquire $20\%$ of LEVER stock.
 
 Replicating Strategy: Invest $\S 50$ million in LEVER debentures and $20\%$ of LEVER stock
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a544690afd219213648811619c7803f0e8f09ab3062fc66b8e73b2277220948f.jpg)
+![](Attachments/a544690afd219213648811619c7803f0e8f09ab3062fc66b8e73b2277220948f.jpg)
 
 The replicating strategy yields an identical payoff to the initial investment strategy. Both investment strategies return $20\%$ of total operating profits. The only difference is that in the replicating strategy,  the investor receives $\S 2.5$ million of interest and $\S 7.5$ million of expected dividends. Given this payoff is identical to the payoff of stock in ALLEQUITY,  it implies the cost of the replicating portfolio must be identical to the cost of the initial portfolio. Thus,  the investor pays $\S 50$ million for the $20\%$ of LEVER stock,  and hence the value of LEVER is:
 
@@ -1745,13 +1745,13 @@ V LEVER = \$500 million $=\P 250$ million D LEVER $\mathbf{\varepsilon}+\Updowna
 
 Investment Strategy: Invest $\S 50$ million of stock in LEVER
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/466a1bb824cbb0da11d455a95a641496be33fb5b47d1cccc0b372870799ffed0.jpg)
+![](Attachments/466a1bb824cbb0da11d455a95a641496be33fb5b47d1cccc0b372870799ffed0.jpg)
 
 The expected operating profits of LEVER are $\S 50$ million,  the total interest payments are $\S 12.5$ million,  and the expected dividends are $\S 37.5$ million. Thus,  the $20\%$ investment in LEVER stock yield an expected $\S 7.5$ million annually in dividends to the investor. This investment can be replicated via a purchase of stock in ALLEQUITY. The investor can simply borrow an amount equal to $20\%$ of the debt in LEVER and use those proceeds to supplement a $20\%$ purchase of stock in ALLEQUITY.
 
 Replicating Strategy: Borrow an amount equal to $20\%$ of the debt of LEVER and use to partially finance a $20\%$ purchase of ALLEQUITY
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8272526ceafd278e412eaeb4a8d8b2bf1915ccddc54d6d3bf15d9da1ccd818d1.jpg)
+![](Attachments/8272526ceafd278e412eaeb4a8d8b2bf1915ccddc54d6d3bf15d9da1ccd818d1.jpg)
 
 Thus,  the investor borrows $\S 50$ million and will use this $\S 50$ million,  along with non-borrowed funds,  to buy $20\%$ of ALLEQUITY. Given perfect capital markets,  the investor pays the same rate of interest,  $5\%,  $ ,  as would LEVER. At year-end,  the investor receives $\S 10$ million in dividends from her shares in ALLEQUITY and simultaneously pays $\S 2.5$ million in interest,  for a net payoff of $\S 7.5$ million. That is,  the replicating portfolio using borrowed funds to buy stock in ALLEQUITY yields an identical payoff to the purchase of stock in LEVER. It follows,  therefore,  that if the payoff is the same,  and the underlying riskiness of the asset cash flows are the same,  then the cost of the investments should be identical,  that is,  the investors pay $\S 100$ million for the $20\%$ share in ALLEQUITY stock. Thus,
 
@@ -1775,7 +1775,7 @@ To illustrate,  reconsider ALLEQUITY. The value of ALLEQUITY is $\S 500$ million
 
 Table 1
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b276beaa9095bd73921580ade4b6a23638fa942a25c3ab2517d12f780270468b.jpg)
+![](Attachments/b276beaa9095bd73921580ade4b6a23638fa942a25c3ab2517d12f780270468b.jpg)
 
 Simultaneous with the new debt issuance of $\S\,   100$ million at a $5\%$ coupon rate,  ALLEQUITY repurchase s 5 million shares at the market share price of $\S 20$ . Per Proposition I,  firm value is invariant to changes in the capital structure and thus there is no change in the share price. Since the adjustment in the capital structure doesn’t influence the left -hand side of the balance sheet,  namely the assets of the firm,  the expected operating income remains constant at $\S 50$ million. Due to the interest payment of $\S 5$ million,  the equity earnings of LEVER are $\S 45$ million versus $\S 50$ million for ALLEQUITY and expected EPS increases from $\S 2.00$ to $\S 2.25$ . Whereas,  for ALLEQUITY,  the expected return on shares is:
 
@@ -1802,7 +1802,7 @@ $$
 
 Eq. 5 a yields the same answer for the expected return to equity as in Table 1 above. Thus,  as per the original quote from Modigliani and Miller,  Proposition II shows that the expected return to equity increases linearly with leverage. And as indicated earlier,  Modigliani and Miller assumed in their proofs of Proposition I and Proposition II that debt is risk-free,  hence the linear relation between the expected return to equity and increases in the debt-to-equity ratio. Given the firm value and the share price do not change and the expected return on equity increases,  then it follows of course that the equity risk increases commensurate with the increase in the expected return. Put differently which a firm increases its leverage,  this amplifies the volatility of the return stream to the equity holders,  who in turn,  demand a higher return to hold the shares.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/138caeb90e44cc00e91a4548719704704ce2de17711bbf2e6511597a17aa2c38.jpg)
+![](Attachments/138caeb90e44cc00e91a4548719704704ce2de17711bbf2e6511597a17aa2c38.jpg)
 
 As discussed in footnote 6,  Modigliani and Miller assumed that debt was risk-free. They did so primarily to sharpen the distinction between risky equity and risk-free debt,  but it did not drive the proofs. They were challenged in a big way in that an asset pricing model such as CAPM did not exist when they formalized their proofs which is all the more impressive. As there was no robust concept of a market risk premium,  Modigliani and Miller took the clever tack of assuming the two firms had the same business risk and thus in the same risk class.
 
@@ -1810,7 +1810,7 @@ Several years after the development of the CAPM,  Rubinstein (1973) merged the C
 
 Conceptually,  when debt becomes risky,  it starts to bear systematic business risk,  that is,  the beta on corporate debt goes from zero to positive. Obviously,  firms with highly risky operations,  for example,  firms with large fixed costs in cyclical industries,  will have risky debt if their leverage ratios are sufficiently high. Thus,  as leverage causes the debt to become risky,  then debt holders will demand a higher return to compensate them for the added risk; namely they will demand a credit risk premium. Figure 2 below extends Figure 1 to include risky debt.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5e2aee5e1bde07eaebeab485eb575495e4314fe197d1a0d45da5644c9d69b3af.jpg)
+![](Attachments/5e2aee5e1bde07eaebeab485eb575495e4314fe197d1a0d45da5644c9d69b3af.jpg)
 
 For purposes of illustration only,  assume here that debt becomes risky once the proportion of debt in the capital structure exceeds $60\%$ . Thus,  as shown in Figure 2,  the expected return on debt is constant and riskfree when the proportion of debt in the firm is $60\%$ or less,  and the expected return on equity increases linearly with increasing leverage. But when the proportion of debt exceeds $60\%,  $ the required return on debt increases because the debt holders are not expected to be paid in full if a corporate default occurs. The expected return on equity continues to increase as its risk continues to increase with leverage rising because if default occurs,  the creditors receive payment before the shareholders receive their claims. But note that as the expected return on debt increases due to being subject to the overall business risk of the firm,  the equity risk begins to increase at a decreasing rate. Importantly,  while both the expected return on debt and equity are increasing,  the overall cost of capital remains fixed due to the relative proportion of the debt increasing and the relative proportion of the equity decreasing. At the limit,  that is where the firm is $100\%$ debt,  as in the case of a failure and the debt holders receive all of the future cash flows,  the expected return on debt becomes the overall cost of capital. Indeed the firm reverts to an all-equity capital structure. That is,  bankruptcy occurs,  but the formality of bankruptcy itself is not costly as all that happens is that the equity holders turn over the keys to the debt holders.
 
@@ -1851,7 +1851,7 @@ In the lecture note,  Introduction to Capital Structure,  ALLEQUITY and LEVER ha
 
 Table 1
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c69a3c2ec2cd66e2cd92a634f1e484f70590dc350b35ec50c8ec6a6d44644c8f.jpg)
+![](Attachments/c69a3c2ec2cd66e2cd92a634f1e484f70590dc350b35ec50c8ec6a6d44644c8f.jpg)
 
 Due to the deduct i bil it y of interest from taxes at the corporate level,  LEVER pays $\S 20.5$ million in corporate taxes versus $\S 25.0$ million in corporate taxes for ALLEQUITY. While LEVER has a lower net income,  due to the interest expense,  of $\S 61.5$ million versus $\S 75.0$ million of net income for ALLEQUITY,  the total income available to equity holders and debt holders combined is $\S 79.5$ million at LEVER versus $\S 75.0$ million to the equity holders at ALLEQUITY.
 
@@ -1888,7 +1888,7 @@ In this simplified Modigliani and Miller world where we have only relaxed the as
 
 Table 2
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0dac9bf86de657f5eebcb305407a587b4240f728470ce8a29b4c14702b533e9e.jpg)
+![](Attachments/0dac9bf86de657f5eebcb305407a587b4240f728470ce8a29b4c14702b533e9e.jpg)
 
 As shown in Table 2,  when ALLEQUITY announces the decision to borrow $\S 300$ million and repurchase an equivalent amount of shares,  the market value of ALLEQUITY immediately increases by the present value of the interest tax shields,  thus from $\S\,   1$ billion to $\S 1.075$ billion. The increase in equity value by the full amount of the value of the tax shields is predicated on three assumptions. First,  the stock market does not anticipate ALLEQUITY is contemplating a recapitalization and thus it is a complete surprise,  else,  the value of ALLEQUITY would have previously incorporated some expectation of a recapitalization in which case the value of ALLEQUITY would have been initially higher than $\S 1$ billion. Second,  when ALLEQUITY announces the recapitalization,  the analysis assumes there is $100\%$ certainty that management will implement the recapitalization; otherwise the value increase would be less to reflect the possibility that ALLEQUITY could fail to complete the recapitalization. Third,  it assumes that the stock market does not expect the size of the debt issue,  interest rate,  or corporate tax rate to change over time.
 
@@ -1936,7 +1936,7 @@ $$
 
 As illustrated,  the WACC declines as leverage increases. This decline in the firm’s cost of capital is not due to debt being cheaper than equity; rather it is due to the case that interest is treated as an expense and thus provides a tax shield to debt financing.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/61f1ec4612cea26b98db2be45f9c83cb3116952fbf7bf69caa192c3077031002.jpg)
+![](Attachments/61f1ec4612cea26b98db2be45f9c83cb3116952fbf7bf69caa192c3077031002.jpg)
 
 With the $11.55\%$ estimate for LEVER’s WACC,  we can compute the firm value as:
 
@@ -1986,7 +1986,7 @@ $$
 
 A useful way to illustrate the present value of financial distress is via a tree analysis as shown below in Figure 2.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ffe57dc77a145db280d791fa2d642e533bb35e42936974876027ac93b6f93815.jpg)
+![](Attachments/ffe57dc77a145db280d791fa2d642e533bb35e42936974876027ac93b6f93815.jpg)
 
 As displayed in Figure 2,  financial distress will occur in Year 1 with probability $p$ and survival will occur with probability of $_{1-p.}$ And if distress occurs,  then the firm realizes the CFD,  and the valuation tree ends at this point. If instead,  the firm survives with probability ${\mathsf{1}}{\mathrm{-}}{\mathsf{p}},  $ then the conditional probability of it realizing financial distress in Year 2 is also p. Thus,  if the annual probability of Xerox failing is $0.75\%,  $ ,  then the probability of Xerox not surviving beyond Year 2 is equal to $\rho+(1\!\cdot\!\rho)\rho=1.49\%$ as indicated earlier,  and so forth.
 
@@ -2027,7 +2027,7 @@ In perfect capital markets,  capital structure has no impact on the overall valu
 
 The U.S. tax system favors debt financing. That is,  the treatment of interest as an expense generates tax shields to the extent that a corporation employs debt in its capital structure. Consider the fictional firm,  ALLEQUITY,  renamed LEVER. The market-value balance sheet,  preand post-debt raise/share repurchase,  is shown below:
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/613487d86997fb9e067a2c736429fc6fcf97a989838c33491b65147349859fa7.jpg)
+![](Attachments/613487d86997fb9e067a2c736429fc6fcf97a989838c33491b65147349859fa7.jpg)
 
 The market value of LEVER exceeds the market value of ALLEQUITY by $\S 75$ million,  the present value of the interest tax shields. We can think of the interest tax shields as a separate project and have labeled as such on the lefthand side of LEVER’s balance sheet. Here,  management increases overall firm value by a recapitalization which involved a repurchase of shares via debt financing. And as noted in the balance sheets above,  the value of the operating assets (underlying projects) remained fixed at $\S\,   1$ billion.
 
@@ -2035,7 +2035,7 @@ There are two ways in which corporate management can think of the interest tax s
 
 The alternative method to calculate the interest tax shields is via the WACC (weighted average cost of capital). The WACC approach captures the value of the tax shields by using the after-tax cost of debt in the WACC equation. By accounting for the after-tax cost of debt,  the WACC is less than the unlevered cost of capital. The WACC also assumes that the leverage ratio for the firm stays constant as discussed in the Tradeoff Theory of Capital Structure lecture note. Using WACC,  the balance sheet of LEVER is:
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/21da0d1da538e857bacdb4f8e0d9258aad529b269bb82fb0b997f2c0574e7729.jpg)
+![](Attachments/21da0d1da538e857bacdb4f8e0d9258aad529b269bb82fb0b997f2c0574e7729.jpg)
 
 Thus,  there is an explicit interaction of the financing and investment decision. The $\S 1.064$ billion value of LEVER in the WACC method versus $\S 1.075$ billion in the APV method is due to differences in the expected amount of debt outstanding through time and due to differences in the discount rate used to value the tax shields. While it is fine to think of the WACC as the overall cost of capital for the firm,  it is not a useful metric to use for valuing a project which would either alter the capital structure of the firm or would have different risk than the overall risk of the firm.
 
@@ -2043,7 +2043,7 @@ According to Proposition II of Modigliani and Miller,  leverage increases the ri
 
 Conceptually,  we can think of the value of financial distress as an asset or project,  albeit with a negative sign. As with any project,  one computes the expected cash flows on a timeline and discounts the cash flows accordingly. Suppose that in the case of LEVER,  the present value of financial distress is equal to - $\S 25$ million. In this case,  the market-value balance sheet is:
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8a5cd91c2ccfafa836f5243e43686ed22310fad7d4c655c5ac3fac8be8704473.jpg)
+![](Attachments/8a5cd91c2ccfafa836f5243e43686ed22310fad7d4c655c5ac3fac8be8704473.jpg)
 
 As shown above,  the PVFD is included in the value of the operating assets since the expected cash flows from the operating assets are lower once the possibility of financial distress exists. As described above,  the trade-off theory of capital structure weighs the benefit of debt financing in shielding cash flows from taxes against the cost of direct and indirect financial distress.
 
@@ -2092,13 +2092,13 @@ Corporation don’t sign personal guarantees to obtain debt financing for the co
 
 Figure 1 illustrates the concept of equity as a call option on the assets of a corporation using Hewlett Packard as an example. For simplicity,  assume that all of Hewlett Packard’s debt will mature soon. The horizontal axis reflects the total enterprise value of Hewlett Packard and the vertical axis represents the equity value of Hewlett Packard at the time of the debt maturity. If the value of Hewlett Packard is $\S 12.9$ billion or less when the debt matures,  the management team will file Chapter 11 and turn the keys over to the debt holders,  leaving shareholders with zero value. And if the value of Hewlett Packard exceeds $\S 12.9$ billion,  the management team will refinance the debt,  and the shareholders will have a value equivalent to the difference between the firm value and the $\S 12.9$ billion of debt. That is,  the strike price on the assets of the corporation is equal to the $\S 12.9$ billion of the total debt. As shown,  this payoff diagram to equity looks just like the payoff diagram of a call option,  and hence the logic of shareholder equity as a call option on the assets of the firm.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d86ece3ff9b4432f31f0943856a02f88b00c953cfde99b6a643b8939347f2352.jpg)
+![](Attachments/d86ece3ff9b4432f31f0943856a02f88b00c953cfde99b6a643b8939347f2352.jpg)
 
 Hewlett Packard Asset Value
 
 From the perspective of the debt holders,  we can think of the debt holders as owning the corporation and selling a call option on the firm’s assets to the shareholders. If the value of Hewlett Packard exceeds the $\S 12.9$ billion of the total debt on the maturity date,  then the shareholders will exercise their call option on the assets of Hewlett Packard and thus require the debt holders to give up ownership of the firm. And if the value of Hewlett Packard is less than the $\S 12.9$ billion strike price,  the calls held by the shareholder expire worthless,  management declares bankruptcy,  and the debt holders take control of the assets. Figure 2 displays this payoff from the viewpoint of the Hewlett Packard debt holders.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ede656fcdc13eb4c15ed66a97e3d637d1d25a6131cdfb895b66deea236351b9c.jpg)
+![](Attachments/ede656fcdc13eb4c15ed66a97e3d637d1d25a6131cdfb895b66deea236351b9c.jpg)
 
 Hewlett Packard Asset Value
 
@@ -2119,7 +2119,7 @@ That is,  due to put-call parity,  the debtholder value is equal to the present 
 
 Their rights to put the assets of the firm back to the debt holders. In other words,  as mentioned earlier,  shareholders of corporations have limited liability and thus can turn the keys over to the debt holders without recourse. Figure 3 displays this payoff to the debt holders below:
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e3e24d789d1d831e46729df1f92a4af82e006d7519d6f92888551713e38404df.jpg)
+![](Attachments/e3e24d789d1d831e46729df1f92a4af82e006d7519d6f92888551713e38404df.jpg)
 
 Hewlett Packard Asset Value
 
@@ -2131,13 +2131,13 @@ In the Tradeoff Theory of Capital Structure lecture note,  the entire value crea
 
 LEVER MARKET-VALUE BALANCE SHEET
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/db648b97bf36065d53f004027933e3a39593ea6dc25d5416bae5f9a6a1bde659.jpg)
+![](Attachments/db648b97bf36065d53f004027933e3a39593ea6dc25d5416bae5f9a6a1bde659.jpg)
 
 Suppose LEVER considers a new project called PROJECT which requires an investment of 10 and has a $+\mathsf{N P V}$ of 5. Given the NPV is positive,  management will proceed with PROJECT and use some of its existing cash for financing. As shown below,  the entire NPV of 5 accrues to the shareholders. Likewise,  LEVER can finance PROJECT via a new debt issue or a new equity issue of 10,  and in both cases,  the NPV of 5 will still accrue to the current shareholders.
 
 LEVER MARKET-VALUE BALANCE SHEET (WITH PROJECT)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b9e5f44f0d678e6bd07c8d565c23b976e54d3881861565c7f00d2f0a14f4d6b9.jpg)
+![](Attachments/b9e5f44f0d678e6bd07c8d565c23b976e54d3881861565c7f00d2f0a14f4d6b9.jpg)
 
 Even when debt is risky,  shareholder wealth maximization is often consistent with maximizing firm value,  just that the shareholders and debt holders share the benefits or costs associated with an investment or transaction. In the example above,  if the debt is risky,  then the benefits of PROJECT ’s $+\mathsf{N P V}$ c an accrue not only to the shareholders but also to the debt holders,  though the bulk of the value increase will accrue to the shareholders since the leverage ratio of LEVER is fairly modest. When debt is risky,  debt holders can benefit from $+\mathsf{N P V}$ projects as the value creation for the firm can reduce the credit spread for the debt due to a reduction in the probability of subsequent bankruptcy.
 
@@ -2145,13 +2145,13 @@ When a firm is near financial distress or is in financial distress,  the incenti
 
 LEVER MARKET-VALUE BALANCE SHEET (IN FINANCIAL DISTRESS)
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f4b3701b285d8322f4ce8704862b5f9eabe006f40667a1d8f962b77cc83e79f0.jpg)
+![](Attachments/f4b3701b285d8322f4ce8704862b5f9eabe006f40667a1d8f962b77cc83e79f0.jpg)
 
 While LEVER’s market value of debt is 60,  the face value (or book value) of LEVER’s debt is 120 and matures in one year. Thus,  LEVER is in financial distress since the market value of its debt is trading at half the face value. Suppose that instead of one year left until maturity,  LEVER’s debt matures tomorrow. Assuming no transactions costs associating with liquidating the firm,  the debt will be worth close to 80 and the equity at zero. In both cases,  the debt is underwater,  and the market value of LEVER is the same,  but the debt and equity values are quite different in the two scenarios,  that is,  with one day to maturity versus one year to maturity. This example illustrates the logic of equity as a call option on the assets of the firm and the influence of volatility on the value of the option. Given the strike price of the option is 120,  the asset value is only 80,  and with only one day before expiration,  the option has roughly zero value. But with one year to go,  there is a higher probability of LEVER realizing positive outcomes,  and thus the equity has option value of 20. And since the debt holders are counter parties to the equity option of 20,  the market value of the debt is 20 less than the debt’s face value.
 
 To illustrate the conflict between the debt holders and the equity holders of LEVER,  assume management has two mutually exclusive investment projects,  LOW and HIGH,  shown below. Assume that the assets-inplace are low risk and will yield future payments in one year which are not very different from the current value of 50. To simplify,  assume that both the LOW and HIGH projects have two possible states of the world,  good and bad.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/39e83a9a9980ad22af6c82ab462f1b199fec2e6c733d394beb9f79a0f289fd87.jpg)
+![](Attachments/39e83a9a9980ad22af6c82ab462f1b199fec2e6c733d394beb9f79a0f289fd87.jpg)
 
 LOW requires an upfront investment of 40 and will either pay off 60 or 40 with $50\%$ probability each in one year,  coinciding with the maturity of LEVER’s debt. If we assume a cost of capital of $10\%$ for $\mathsf{L O W},  $ ,  the NPV is $+5.45$ :
 
@@ -2171,7 +2171,7 @@ Thus,  the HIGH project has negative NPV and high volatility. If the good state 
 
 Table 1 displays the payoffs to debt and equity at maturity for the debt in the above analysis. The payoffs are displayed if Project LOW is accepted,  Project HIGH is accepted,  or if management passes on both projects. We assume the assets-in-place are worth 55 when the debt matures and if management passes on both projects,  the excess cash earns a return of zero. These payoffs illustrate how shareholders benefit from risk-increasing decisions when the firm is in financial distress. In this particular example,  the only chance for shareholders to receive any distribution is for management to roll the dice.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d2321489fc1c51c9c4a01bbe5a60fa6e5d2acb48c9a31e5033e94ad77d297fc2.jpg)
+![](Attachments/d2321489fc1c51c9c4a01bbe5a60fa6e5d2acb48c9a31e5033e94ad77d297fc2.jpg)
 
 In treating debt and equity as options on a portfolio of assets,  it is logical that management,  acting on behalf of equity holders,  acts to move forward with a wealth-destroying project for the corporation,  but wealth increasing for the shareholders who wish to maximize the value of their call option,  and thus prefer the higher volatility project even it is expected to generate a loss. This issue is often referred to as the asset substitution model and was introduced in Jensen and Meckling’s (1976) seminal work discussed in the beginning of this lecture note.
 
@@ -2241,7 +2241,7 @@ For ASYMMETRY’s existing operations ,  labeled as Assets-In-Place,  there are 
 
 ASYMMETRY’s Assets -In-Place ( $\daleth=-1$ and $\mathsf{T}=0,  $
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/59cb29452b8ee64d31ac7537f5e1d7c5fd4f4f0fedf5d54563cb193bd3bdb795.jpg)
+![](Attachments/59cb29452b8ee64d31ac7537f5e1d7c5fd4f4f0fedf5d54563cb193bd3bdb795.jpg)
 
 As shown above,  the value of Assets-in-Place is 100.0 in both periods,  $\mathsf{T}=\mathsf{-1}$ and $\mathsf{T}=0$ . But in $\mathsf{T}=0,  $ ,  management has proprietary information about which state of the world will occur,  and management will inform the outside investors in $\mathsf{T}={+1}$ as to the true state of the world.
 
@@ -2275,13 +2275,13 @@ The payoffs,  as made public in $\mathsf{T}+\mathsf{\Omega},  $ ,  to the origin
 
 Payoffs to Original and New Investors if Investing in PROJECT
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/025731d6d68b7c6f239df27d1539c1b26c3ac8357a8e2eef19b058e80c14580f.jpg)
+![](Attachments/025731d6d68b7c6f239df27d1539c1b26c3ac8357a8e2eef19b058e80c14580f.jpg)
 
 As noted above,  new shareholders are willing to invest 45.0 million in ASYMMETRY and own $30\%$ of the firm as they assume management will issue shares irrespective of which state of the world. Recall that management,  however,  knows in $\mathsf{T}=0$ which state of the world the firm is in and will not reveal until $^{\textsf{T}+}$ 1. If management acts on behalf of the current shareholders,  they will compare the wealth of the original shareholders under the two states of the world based on issuing new stock versus not issuing new stock to finance PROJECT. The table below displays the payoffs to the original investors from investing versus not investing in PROJECT.
 
 Payoffs to Original Investor from Investing or Not Investing in PROJECT
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e9214489c0da1d53d8b0e0a0d022396e94e7d14bf5ad2384bf0111c691d5092b.jpg)
+![](Attachments/e9214489c0da1d53d8b0e0a0d022396e94e7d14bf5ad2384bf0111c691d5092b.jpg)
 
 The original shareholders,  specifically the only shareholders when management contemplates a decision to accept or reject PROJECT,  are better off if management bypasses the $+\mathsf{N P V}$ investment if management knows ASYMMETRY is in State 2. That is,  in period $\intercal+1$ ,  the ownership stake held by the original shareholders is worth 120.0 if management bypasses PROJECT versus 119.0 if management accepts PROJECT and raises 45.0 from the new shareholders. Thus,  management issue new shares only if they know ASYMMETRY is in State 1. New shareholders,  who are rational per the model,  recognize management will issue and invest only in State 1. Consequently,  new shareholders will assume the firm is in State 1 and thus assign a value of 80.0 to the Assets-In-Place.
 
@@ -2397,7 +2397,7 @@ ALLEQUITY decides to end its no-dividend policy and plans to pay a one-time divi
 
 Table 1
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5379a78fbf2b5f35bb7e6a327ae029525bf3091fd447380d422e961205022bb4.jpg)
+![](Attachments/5379a78fbf2b5f35bb7e6a327ae029525bf3091fd447380d422e961205022bb4.jpg)
 
 As shown in Table 1,  the equity issue will only be subscribed at $\S 19.50$ (or less,  in which case it would be over subscribed and thus pushing the price up to $\S 19.50)$ since the new shares will not be entitled to the dividend,  and therefore will be treated as ex-dividend. Given 50 million shares are outstanding,  ALLEQUITY will raise 1.28 million new shares to finance the $\S 0.50$ dividend. Note that on April 22,  the total market value of $\S\,   1$ billion does not incorporate the $\S 25$ million raise from the new equity issue as that cash is restricted,  that is,  for the cash dividend.
 
@@ -2454,13 +2454,13 @@ Historically,  firms have paid out roughly $50\%$ of their net earnings as divid
 
 # Figure 1
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/39896fa8edbb05afec534249cb19ac154a161f5a4a2dce194a0eaca338650371.jpg)
+![](Attachments/39896fa8edbb05afec534249cb19ac154a161f5a4a2dce194a0eaca338650371.jpg)
 
 Dividends tend to be quite sticky,  that is,  they mostly remain constant quarter to quarter. And as Table 2 illustrates,  dividend cuts are extremely uncommon.
 
 Table 2 Annual Dividend Changes
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e180faa8f869864043f4fda7c7346594a34576569298d2fafead92eca0bef1bb.jpg)
+![](Attachments/e180faa8f869864043f4fda7c7346594a34576569298d2fafead92eca0bef1bb.jpg)
 
 Table 2 is consistent with recent survey evidence of financial executives who answered YES to the following questions: 12
 
@@ -2486,7 +2486,7 @@ Consider REPURCHASE,  a firm with assets-in-place valued at $\S 1$ billion,  gro
 
 Table 3
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/135f046b7d6e3f0f4ebd9cb34485fb6de8afaebe626262075aac39b523df7300.jpg)
+![](Attachments/135f046b7d6e3f0f4ebd9cb34485fb6de8afaebe626262075aac39b523df7300.jpg)
 
 Suppose management wishes to distribute the excess cash to shareholders via a share repurchase program rather than increasing its dividend rate or paying a special dividend. Table 3 displays REPURCHASE’s market-value balance sheet information before and after the share repurchase. REPURCHASE buys back 2.94 million shares at the current price of $\S 25.50$ for a total repurchase amount of $\S 75$ million. Since we assume capital markets are perfect,  there is no information about the value of the assets-in-place or the value of the growth options,  and thus the repurchase announcement doesn’t signal any new information about the value of the firm. Consequently,  there is no share price impact.
 
@@ -2579,7 +2579,7 @@ Now we can address how a risk management program to hedge BIOPHARMA’s currency
 
 Table 1
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a2035e9a15a94f44afd0bb17b2b99b5dd3ca3a237af8e0f5f89fa1ef71e3dfd0.jpg)
+![](Attachments/a2035e9a15a94f44afd0bb17b2b99b5dd3ca3a237af8e0f5f89fa1ef71e3dfd0.jpg)
 
 The goal for BIOPHARMA is to hedge an amount which allows it to spend the optimal $\S 350$ million on R&D. BIOPHARMA can hedge the currency risk exposure with a currency forward contract which sets the exchange rate in advance. That is,  BIOPHARMA will attempt to lock in the expected revenues from Europe by selling EUROs at the forward exchange rate since its non-U.S. revenue payments are in EUROs.
 
@@ -2597,7 +2597,7 @@ We illustrate with a numerical example as done for BIOPHARMA. For comparison,  t
 
 Table 2
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8bb4a407819702adddad69d7d037cc1e49e04f4a961923e527c37afc367c0455.jpg)
+![](Attachments/8bb4a407819702adddad69d7d037cc1e49e04f4a961923e527c37afc367c0455.jpg)
 
 To ensure DRILLOIL will have sufficient cash flows to explore for new oil in a depressed oil market,  management will engage in a hedging program,  perhaps by selling oil futures to lock in a price today,  which should provide for the $\S 250$ million budget to finance new exploration. Thus,  DRILLOIL will only need to hedge an amount which generates a hedging P&L of $\S 50$ million from declining oil prices. As designed,  the hedging program of DRILLOIL requires relatively smaller hedges than the BIOPHARMA hedging program due to the nature of the internal self-hedging attributed to the reduced optimal investment when oil prices are low.
 
@@ -2664,7 +2664,7 @@ The cleanest evidence on whether mergers create value for shareholders comes fro
 
 Announcement-Period Abnormal [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) for Mergers 3
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/705330f2fe02d2af3283f27a6c48069d35ef26c4d6ca74a64f1e544e71fc99dd.jpg)
+![](Attachments/705330f2fe02d2af3283f27a6c48069d35ef26c4d6ca74a64f1e544e71fc99dd.jpg)
 
 Target firm shareholders are clear winners in merger transactions. Target firms realize significant increases in shareholder value,  $+16.0\%$ average abnormal return during the 1973-1998 period,  and slightly less,  $+14.6\%$ average abnormal return,  for the 1980-2005 period. In results not shown here,  the average target abnormal return increases to $25\%$ for longer windows which start about a month before the merger announcement and goes through the closing of the merger transaction. The purpose of the long window,  roughly four months,  is to reflect rumors and leaks before the merger announcement and to capture the resolution of uncertainty at the merger closing date.
 
@@ -2688,7 +2688,7 @@ Table 2 displays announcement-period [returns](../Financial%20Markets/Financial%
 
 Announcement-Period Abnormal [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) for Mergers 4
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1e9eb58db1a2ea618eb8f588a7a8a91de0a470b89ad0a9a491e6e674881f2bcd.jpg)
+![](Attachments/1e9eb58db1a2ea618eb8f588a7a8a91de0a470b89ad0a9a491e6e674881f2bcd.jpg)
 
 Target firm shareholders also do better when there is no equity financing. And financing has a significant impact on inferences about the overall value creation from mergers. The combined average abnormal [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) for stock-financed mergers are $+0.6\%,  $ thus close to zero,  and increases to $+3.6\%$ for non-stock financed mergers. To draw inferences about the value creation on the left-hand-side of the balance sheet from mergers,  the analyst will give more weight to the $+3.6\%$ estimate for the non-stock financed mergers. Moreover,  as indicated above,  these [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) reactions reflect the resolution of uncertainty; that is,  [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) already incorporate the expectation of merger announcements.
 
@@ -2704,7 +2704,7 @@ Not surprisingly,  acquirer management often criticizes the short selling around
 
 Our research documents that nearly half of the negative [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) response to fixed-exchange stock mergers is due to the short-selling pressure by merger arb it rage urs at the time of the merger announcement. In a different type of stock merger,  floating-exchange stock mergers,  the number of acquiring shares is unknown until just before the merger closing. For example,  the acquirer will offer $\S 20$ in acquirer stock and the exchange ratio is set based on the acquirer’s [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) just before the merger is consummated,  typically a few months after the merger announcement. Consequently,  arb it rage urs don’t short the acquiring stock until a p ricing period immediately before merger closing,  which determines the [hedge ratio](../Financial%20Engineering/Derivatives/Part%20VI%20-%20The%20Greeks/Chapter%2027%20-%20Delta%20Hedging.md). Interestingly,  in these stock mergers,  the acquirer’s [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) increases $0.58\%$ at the merger announcement versus declining $2.73\%$ for fixed-exchange ratio acquirers. However,  near the merger completion when the exchange ratio is provided,  the acquirer’s [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) declines $3.18\%$ for the floating-ratio acquirers. That is,  for a floating-rate stock merger,  the [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) of the acquirer increases at the announcement just like for a cash merger,  even though the [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) has full information that stock will be the form of payment. But near the end of the merger,  arb it rage urs began to short the acquirer stock once the exchange ratio is revealed. The graph below shows the cumulative average abnormal return around merger closings for floating ratio stock mergers.
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/17f4bea3010071d7b11c437917826867732c34d4a687bcc55932df45d30d8028.jpg)
+![](Attachments/17f4bea3010071d7b11c437917826867732c34d4a687bcc55932df45d30d8028.jpg)
 
 # Preand Post-Merger Profitability
 
@@ -2768,7 +2768,7 @@ Consider,  for example,  the market – value balance sheets for ALLEQUITY and L
 
 Table 2: Project Selection at ALLEQUITY vs LEVER
 
-![](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d04f32840c6bd0b92fe593566320e464d46c1b3d1b8ea13f7c5c8a063bf5b156.jpg)
+![](Attachments/d04f32840c6bd0b92fe593566320e464d46c1b3d1b8ea13f7c5c8a063bf5b156.jpg)
 
 The prediction from Jensen’s [free cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2011%20-%20Individual%20Investors-A%20Survey%20of%20Modern%20Investment%20Theory/Free%20Cash%20Flow%20Valuation%20of%20Companies.md) theory is that [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) can lead to improved managerial decision making. Academic research has generally provided considerable support for Jensen’s [free cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2011%20-%20Individual%20Investors-A%20Survey%20of%20Modern%20Investment%20Theory/Free%20Cash%20Flow%20Valuation%20of%20Companies.md) theory. For example,  the [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) responds more positively to acquisition announcements by acquirers with higher [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) than with zero or low [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md). The results are consistent with the logic that levered firms must go to the capital markets if they are to expand the firm via acquisition and thus subject to external monitoring due to the need to raise external funds. But for unlevered firms with excess cash,  the management team is not under pressure to seek outside funding and thus more immune from external forces. The results imply that agency costs are a major detractor to [shareholder wealth](../Financial%20Engineering/An%20Introduction%20to%20Equity%20Markets.md) creation and that [capital structure](.md) adapts to account for them. These results do not necessarily mean that companies should always increase [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md). Instead,  the point is that agency costs are real,  and debt is one mechanism which is used to control them,  yet debt is not used nearly as much as Jensen’s [free cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2011%20-%20Individual%20Investors-A%20Survey%20of%20Modern%20Investment%20Theory/Free%20Cash%20Flow%20Valuation%20of%20Companies.md) hypothesis might imply. This seemingly under utilization of debt suggests there are some substantive costs to too much debt as discussed in Agency Costs and [Capital Structure](.md) and in [Information Asymmetry](../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%203-%20Financial%20Intermediation%20and%20Delegated%20Loan%20Monitoring%20,%20Intro%20to%20Bankruptcy%20and%20Debt%20Restructuring/Financial%20Intermediation%20as%20Delegated%20Monitoring.md) and [Capital Structure](.md).
 
