@@ -1,3 +1,23 @@
+---
+title: Introduction
+tags:
+  - financial_engineering
+  - introduction
+  - money_market
+  - swap_market
+  - volatility_trading
+aliases:
+  - Financial Engineering Introduction
+  - Introduction to Financial Engineering
+key_concepts:
+  - Financial engineering principles
+  - Money market problems
+  - Swap contracts
+  - Taxation considerations
+  - Volatility trading
+cssclasses: academia
+---
+
 # INTRODUCTION  
 
 # 1  

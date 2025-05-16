@@ -1,3 +1,23 @@
+---
+title: Institutional Aspects of Derivative Markets
+tags:
+  - clearing_houses
+  - derivatives_markets
+  - euromarkets
+  - futures_exchanges
+  - market_conventions
+aliases:
+  - Derivative Market Infrastructure
+  - Institutional Aspects
+key_concepts:
+  - Clearing and settlement
+  - Euromarkets structure
+  - Futures vs forwards
+  - Market participants
+  - Trading conventions
+cssclasses: academia
+---
+
 # INSTITUTIONAL ASPECTS OF DERIVATIVE MARKETS  
 
 # 2  
