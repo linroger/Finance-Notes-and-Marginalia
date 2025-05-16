@@ -45,6 +45,6 @@ key_concepts:
 	- **[Teaching Note 4-Multiperiod Binomial Trees](Teaching%20Note%204-Multiperiod%20Binomial%20Trees/Teaching%20Note%204-Multiperiod%20Binomial%20Trees.md)**
 	- [Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation](Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md)
 	- [Teaching Note 8-American Options](Teaching%20Note%208-American%20Options.md)
-	- [Untitled](Untitled.md)
+	- [Untitled](Random%20Notes/Untitled.md)
 
 %% End Waypoint %%
