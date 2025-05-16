@@ -103,12 +103,12 @@ Download the [modeling bonds ipython notebook](https://gouthamanbalaraman.com/ex
 
 ---
 
- ![500](https://gouthamanbalaraman.com/images/me.png)
+ ![500](Attachments/500-177.png)
 I am Goutham Balaraman,  and I explore topics in [quantitative finance](../../Quantitative%20Trading%20Strategies%20Lecture%20Notes.md),  programming,  and data science. You can follow me [@gsbalaraman](https://twitter.com/gsbalaraman).
 
 ---
 
 **Checkout my book**
 
-[ ![500](https://gouthamanbalaraman.com/images/cookbook.png)](https://leanpub.com/quantlibpythoncookbook)
+[ ![500](Attachments/500-176.png)](https://leanpub.com/quantlibpythoncookbook)
 Updated posts from this blog and transcripts of Luigi's screencasts on YouTube is compiled into [QuantLib Python]([Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python) Cookbook](https://leanpub.com/quantlibpythoncookbook) .

@@ -51,7 +51,7 @@ $$(1+r(T))=(1+\frac{r}{n})^{nT}.$$
 
 For example consider a time period of one-year and suppose an [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of 100 that yields 120 after two years ( $T=2$ ) has a rate of return $r(2)=0.2$ If the interest rate is annualised using annual compounding ( $n=1$，T= 2)，then $r=0.09544$ ; with semi-annual compounding ( $n=2$，$T=2$）the annualised interest rate is $r=0.09327$ ;with quarterly compounding $n=4$ $T=2$）the annualised interest rate is $r=0.0922075$ etc
 
- ![500](https://storage.simpletex.cn/view/ffUKgCmdWso8v4tb3oGTFqTNKagSg7q96)
+ ![500](Attachments/500-118.png)
 
 Figure 1: DIVIDING A TIME INTERVAL $Tl$ SUB-PERIODS
 
@@ -121,7 +121,7 @@ We have assumed so far that the rate of return was known so that we were dealing
 
 To examine the form that uncertain [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) may take it is useful to think first of a very simple [stochastic process](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md). This we have already seen as the [binomial model](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%204-Multiperiod%20Binomial%20Trees/Binomial%20Option%20Pricing.md) is itself a [stochastic process](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md). As an example consider the case of tossing a fair coin where one unit is won if the coin ends up Heads and one unit is lost if the coin ends up Tails. An example of the possible payoffs for a particular sequence of Heads and Tails is illustrated in Figure 2.
 
- ![500](https://storage.simpletex.cn/view/f9zZHpUNI5vVPMghAudPcVfdyHyt83qg5)
+ ![500](Attachments/500-119.png)
 
 Figure 2: A CoIN TOsSING [STOCHASTIC PROCESS](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md)
 
@@ -144,7 +144,7 @@ The efficient markets hypothesis implies that all relevant information is rapidl
 Let $u_{t}$ denote the randomrate of return from period $t$ to $t+1$ .Then
 $$S_{t+1}=(1+u_t)S_t.$$
 
- ![500](https://storage.simpletex.cn/view/fPnzp8bayxqdOsGO0OdTnCWbEFLrK1zc5)
+ ![500](Attachments/500-120.png)
 
 Figure 3: COIN TOSSING EXAMPLE: THE VARIANCE IS PROPORTIONAL TOTIME
 
@@ -189,7 +189,7 @@ so that $\mu$ is the expected [continuously compounded rate](Arithmetic%20and%20
 
 We have seen that $\ln S_{T}$ is normally distributed with mean (expected value) of $\ln S_{0}+\nu T$ and variance of $\sigma^{2}T$ .It is useful to transform this to a variable
 
- ![500](https://storage.simpletex.cn/view/f27aoMy9u0h6n2n43RygODDQq14wOut9V)
+ ![500](Attachments/500-120.png)
 
 Figure 4: A LOGNORMAL DISTRIBUTION
 
@@ -197,7 +197,7 @@ Which has a [standard normal distribution](../../Financial%20Engineering/Verific
 $$\frac{\ln S_T-\ln S_0-\nu T}{\sigma\sqrt{T}}$$
 
 is a standard normal variable. We let $N(x)$ denote the cumulative probability that the standard normal variable is less than or equal to $JL$ .A [standard normal distribution](../../Financial%20Engineering/Verification%20of%20Central%20Limit%20Theorem.md) is drawn in Figure 5. It can be seen that $N(0)=0.5$ as the normal distribution is symmetric and half the distribution is to the left of the mean value of zero. It also follows from symmetry that if $x>0$ then $1-N(x)=N(-x)$ .We will use this property later when we look at the [Black-Scholes formula](../../Credit%20Markets/Credit%20Markets%20Session%205.md).
- ![500](https://storage.simpletex.cn/view/fImKzLbWz40TylI7fUX6pKP3qgr8SpTO9)
+ ![500](Attachments/500-122.png)
 
 Figure 5: A [STANDARD NORMAL DISTRIBUTION](../../Financial%20Engineering/Verification%20of%20Central%20Limit%20Theorem.md). $N(0)=0.5$
 

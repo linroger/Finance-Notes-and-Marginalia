@@ -82,7 +82,7 @@ The  [binomial](../Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financ
 Consider a stock currently selling for 100 and assume for this stock that    $u$   equals 1.2  $d$  and  equals 0.8. The stock’s value in the forthcoming period will be either 120 (if outcome  $u$   is realized) or 80 (if outcome    $d$   is realized). Suppose that there exists a European call trading on this particular stock during this one-time period model with an [exercise price](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Options.md) of 90. The call expires at the end of this period when the stock value is either 120 or 80 as in  Figure 9.1 . Thus, if the stock were to increase to 120, the call would be worth 30  $(c_{u}=30)$  ), since one could exercise the call by paying 90 for a stock which is worth 120. If the stock value were to decrease to 80, the value of the call would be zero   $(c_{d}=0)$   since no one would wish to exercise by paying 90 for shares that are worth only 80. Furthermore, suppose that the current riskless return rate is 0.10. Based on this information, we should be able to determine the value of the call.  
 
 Note that we have not specified probabilities of a [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) increase or decrease during the period prior to option expiration. Nor have we specified a [discount rate](../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) for the option or made inferences regarding investor risk preferences. We will value this call based on the fact that during this single time period, we can construct a riskless hedge  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9707d9b496f83da4a4dadc85df69886b04e68a22dc7bbaff1cada00aa88dbfcf.jpg)  
+ ![500](Attachments/500-158.jpg)  
 FIGURE 9.1 One-time-period [binomial model](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%204-Multiperiod%20Binomial%20Trees/Binomial%20Option%20Pricing.md).  
 
 [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) consisting of a position in a single call and offsetting positions in    $\alpha$   shares of underlying stock. This means that by purchasing a single call and by selling    $\alpha$   shares of stock, we can create a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) whose value is the same regardless of whether the underlying [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) increases or decreases. Let us first define the following terms:  
@@ -164,7 +164,7 @@ $$
 # Illustration: Two-Time-Period Hedges  
 
 Now, we will extend our illustration above from a single period to two periods, each with a riskless return rate equal to 0.10. As before, the stock currently sells for 100 and will change to either 120 or 80 in one time period   $(u=1.2,\,d=0.8)$  ). However, in the second period, the stock will change a second time by a factor of either 1.2 or 0.8, leading to  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/256c2c8f3be69310a64730494e26566de15c1273636c509141c25ecf9532e75d.jpg)  
+ ![500](Attachments/500-154.jpg)  
 FIGURE 9.2 Two-time-period [binomial model](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%204-Multiperiod%20Binomial%20Trees/Binomial%20Option%20Pricing.md).  
 
 potential values of either 144 (up then up again), 96 (up once and down once), or 64 (down twice). The lattice (tree) associated with this [stock price process](../../Credit%20Markets/Black-Scholes%20Model.md) is depicted in Figure 9.2 . Call option prices are also given for the second period. The probability of upward and downward movements are computed with the  Equation (9.14)  set as follows:  
@@ -212,7 +212,7 @@ The [binomial](../Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financi
 # Illustration: Three Time Periods  
 
 Now, we will extend our illustration above from two periods to three, each with a riskless return rate equal to 0.10. As we see in  Figure 9.3 , by the third period, potential stock values are  $\hat{1.2}^{3}\times100=172.8,$  ,  $1.2^{2}\times0.8\times{\stackrel{\smile}{100}}=115.{\stackrel{.}{2}},$  ,  $0.8^{2}\times1.2\,\overset{\cdot}{\times}\,100=\overset{\cdot}{7}6.8,$  , or  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/baedb94e5931e7cb607a54509c5fcec9715b22bf5ba1161b2418efa24b1132bc.jpg)  
+ ![500](Attachments/500-160.jpg)  
 FIGURE 9.3 Three-time-period [binomial model](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%204-Multiperiod%20Binomial%20Trees/Binomial%20Option%20Pricing.md).  
 $0.8^{3}\times100=51.2.$  . The time-zero call value in this three-period [binomial](../Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) framework is computed with  Equations (9.19) and (9.18)  as follows:  
 $$
@@ -312,7 +312,7 @@ As the number of trials    $n$   in a [binomial](../Financial%20Engineering%20an
 
 7  $t$   $S_{t}\div S_{t-1}$  The [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) relative for a given period  is defined as . Thus, the log of the [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) relative is defined as  $\ln[S_{t}\div S_{t-1}]$  .  
 TABLE 9.1 Convergence of [Binomial Model](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%204-Multiperiod%20Binomial%20Trees/Binomial%20Option%20Pricing.md) to [Black-Scholes Model](../../Financial%20Instruments/Black%20Scholes%20Derivation.md) 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3ce8ab5798a713f48e1598555f3a4b000766155a508c801f692dec9dd8be16fb.jpg)  
+ ![500](Attachments/500-159.jpg)  
 
 5.  The range of potential stock prices is continuous. This means that a stock’s price can take on any real value.
 
@@ -572,13 +572,13 @@ p_{0}=c_{0}+X\mathbf{e}^{-r(d)T}-s_{0}\mathbf{e}^{-r(d)T}
 $$  
 
 TABLE 9.2 [Currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Option Illustration 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bc4d335612e141173a2c2860a01d56e4a22029b2aaac3b1a57868750ae441987.jpg)  
+ ![500](Attachments/500-160.jpg)  
 
 TABLE 9.3 [Currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Option Values 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fbe0790e7960948e67db9ba15604844b2d5b9ec7d25b9724032025839e015657.jpg)  
+ ![500](Attachments/500-160.jpg)  
 Thus, put options with terms identical to those of the calls in  Tables 9.2 and 9.3  have the following values:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/34e3800d1ea54731e4dceeb34bfc7009578261694ed333894b4e844ed59dc8c0.jpg)  
+ ![500](Attachments/500-153.jpg)  
 
 # 9.6 HEDGING EXCHANGE EXPOSURE WITH CURRENCY OPTIONS  
 
@@ -601,7 +601,7 @@ First, we consider the put hedge strategy. We will purchase three month put opti
 
 Alternatively, the firm can employ the conversion or the [call and put](../../Course%20Notes/HBR%20Notes/Notes%20on%20Basic%20Options%20Properties.md) hedge. This strategy involves the combination of calls and puts, such that total risk can be eliminated. Consider the writing of a call with an [exercise price](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Options.md) of   $\S1.75$   expiring in three months along with the purchase of a put with the same terms. The time-zero net cash flows are summarized as follows:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7e6aa0758d06671a37c7bb8133d2ca0a9395e61860751dc1fc12fc0ee883bd2f.jpg)  
+ ![500](Attachments/500-156.jpg)  
 
 The result of this conversion is that the interest earned on the net time-zero outlay is  $\S552$  . If the three-month exchange rate is less than  $\Updownarrow1.75/\updownarrow$  , the exchange rate of  $\Updownarrow1.75/\updownarrow$   is locked in by the put. If the exchange rate exceeds  $\mathbb{S}1.75/\mathfrak{L}_{i}$  , the obligation incurred by the short position in the call is activated. Thus, the firm’s exchange rate of  $\Updownarrow1.75/\updownarrow$   is locked in no matter what the market exchange rate is. The cash flows in three months are summarized as follows:  
 
@@ -644,9 +644,9 @@ a.  What is the value of a put on this stock if it has an [exercise price](../Fi
 8.  Evaluate each of the European options in the series on ABC Company stock. Prices for each of the options are listed in the table. Determine whether each of the options in the series should be purchased or sold at the given market prices. The current market price of ABC stock is 120, the August options expire in nine days, September options in 44 days, and October options in 71 days. The stock return standard deviations prior to expiration s are projected to be 0.20 prior to August, 0.25 prior to September, and 0.20 prior to October. The Treasury bill rate is projected to be 0.06 for each of the three periods prior to expiration. Do not forget to convert the number of days given to fractions of 365-day years.  
 
 Calls 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/052ece59ccf68f28cb80520cbf9db6bbaaef85157e935e142d88ef757cf6e7a0.jpg)  
+ ![500](Attachments/500-155.jpg)  
 Puts 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2c9da72ce6d70c90334f5bac0f4b3cf9cfe87272bad0a43b96921e80d5e0e872.jpg)  
+ ![500](Attachments/500-157.jpg)  
 
 Prices for five calls and five puts are given in the left columns. Expiration dates are given in column headings and current market prices are given in the table interiors.  
 

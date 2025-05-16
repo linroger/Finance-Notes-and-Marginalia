@@ -37,11 +37,11 @@ We have appointed HSBC Securities (USA) Inc.,  an affiliate of ours,  as the age
 
 The Estimated Initial Value of the Notes on the [Pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) Date is expected to be between $\S850.00$ and $\S950.00$ per Note,  which will be less than the price to public. The market value of the Notes at any time will reflect many factors and cannot be predicted with accuracy. See “Estimated Initial Value” on page FWP-5 and “[Risk Factors](../Assignments/PSET%206-%20Financial%20Instruments.md)” beginning on page FWP-9 of this document for additional information.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3f8b1e9f0be949ffa156f9c8c3053246e3a27b2620c2bcf813c99d03262d8b7e.jpg)
+ ![500](Attachments/500-294.jpg)
 
 Indicative Terms (1)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/693734dc7ceb257038a6f5e64db2c1f9bd91a591a06cb08293bc7a7338c87789.jpg)
+ ![500](Attachments/500-298.jpg)
 
 # The Notes
 
@@ -49,21 +49,21 @@ The Notes may be suitable for investors who believe that the value of the Underl
 
 If the Official Closing Level of each Underlying is at or above its [Call Threshold](.md) on any Call Observation Date beginning on December 29,  2021,  your Notes will be automatically called and you will receive a payment equal to $100\%$ of the [Principal Amount](.md),  together with the applicable [Call Premium](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md) on the corresponding Call Payment Date. If the Notes are not called and the Final Value of the [Least Performing Underlying](.md) is greater than or equal to its Barrier Value,  you will receive a Payment at Maturity equal to $100\%$ of the [Principal Amount](.md). If the Notes are not called and the Final Value of the [Least Performing Underlying](.md) is less than its Barrier Value,  you not receive the [Call Premium](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md) and will lose $1\%$ of your principal for every $1\%$ decline of that [Least Performing Underlying](.md) from its Initial Value. In that case,  you will lose up to $100\%$ of the [Principal Amount](.md) at maturity.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e5b7bc2834f686c877665e50720a13bb5d17797aa64f36b69a3dabbc3345c2c1.jpg)
+ ![500](Attachments/500-286.jpg)
 
 # Illustration of Payment Scenarios
 
 Your payment on the Notes will depend on whether the Notes have been called,  including on the Final Valuation Date,  and whether the Final Value of the [Least Performing Underlying](.md) is greater than or equal to its Barrier Value. If your Notes are not called,  you will lose some or all of your [Principal Amount](.md) at maturity if the Final Value of the [Least Performing Underlying](.md) is less than its Barrier Value.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8c718e1e32a837d2b3c820f8f5a1d9e6d54b57eb1d1c3fb7e55adcb5ad6a22db.jpg)
+ ![500](Attachments/500-286.jpg)
 
 # Information about the Reference Asset
 
 The SPX is a capitalization-weighted index of 500 U.S. stocks. It is designed to measure performance of the broad domestic economy through changes in the aggregate market value of 500 stocks representing all major industries.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1576af4556257f76a01a3dc756b82153611195f2b0a32abbcab709139249d6e3.jpg)
+ ![500](Attachments/500-287.jpg)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e31e5ac49079de2373b9a7b1dd4ed1a69cd1a4914885e3e966ad144525a44d72.jpg)
+ ![500](Attachments/500-291.jpg)
 
 The RTY is designed to track the performance of the small capitalization segment of the United States equity market. All 2, 000 stocks are traded on the New York Stock Exchange or Nasdaq,  and the RTY consists of the smallest 2, 000 companies included in the Russell $3000^{\mathrm{\textregistered}}$ Index. The Russell $3000^{\circledast}$ Index is composed of the 3, 000 largest United States companies as determined by [market capitalization](../../Advanced%20Financial%20Analysis%20and%20Valuation/Financial%20Ratios/Price-to-Sales%20Ratios%20in%20Stock%20Valuation.md) and represents approximately $98\%$ of the United States equity market.
 
@@ -136,7 +136,7 @@ Final Value – Initial Value
 
 Call Observation Dates,  Call Payment Dates,  Call Premiums and [Call Threshold](.md):
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b56c691e3971073a113379c453959cdb6b7a1bbdceaadb04c28dfc53210e8c88.jpg)
+ ![500](Attachments/500-297.jpg)
 
 The Call Observation Dates and Call Payment Dates are subject to postponement as described under “Additional Terms of the Notes—Valuation Dates” and “Additional Terms of the Notes—Coupon Payment Dates,  Call Payment Dates and Maturity Date” in the accompanying Equity Index Underlying Supplement.
 
@@ -355,41 +355,41 @@ The following table and examples are provided for illustrative purposes only and
 
 The table and examples below illustrate how the [Call Premium](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md) and the Payment at Maturity would be calculated with respect to a $\mathbb{S}1{, }000$ [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in the Notes,  given a range of hypothetical performances of any Underlying. The hypothetical [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) on the Notes below are numbers,  expressed as percentages,  that result from comparing the Payment at Maturity per $\mathbb{S}1{, }000$ [Principal Amount](.md) to $\mathbb{S}1{, }000$ . The numbers appearing in the following table and examples may have been rounded for ease of analysis. The following table and examples assume the following:
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e04e610723704ed9c16732e20011d24ed65daa0be2ffdedf76ab9c91eb1e3c4b.jpg)
+ ![500](Attachments/500-296.jpg)
 
 \* The hypothetical Initial Value of 1, 000.00 used in the examples below has been chosen for illustrative purposes only and does not represent the actual Initial Value of any Underlying. The actual Initial Value of each Underlying will be determined on the [Pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) Date and set forth in the final [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) supplement to which this free writing prospectus relates.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6853355e4fb8149007f250b93e1ad756d6984f05822c04704c6a6f635e7fbb2b.jpg)
+ ![500](Attachments/500-300.jpg)
 
 Example 1—The Official Closing Level of each Underlying on the first Call Observation Date is greater than or equal to its [Call Threshold](.md).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e69955829282e40fc75c782e31d34214f32489f7c9ae910e4e45accbd6697300.jpg)
+ ![500](Attachments/500-293.jpg)
 
 Because the Official Closing Level of each Underlying on the first Call Observation Date is at or above its [Call Threshold](.md),  the Notes will be called and you will receive $\S1{, }075.00$ per Note,  reflecting the [Principal Amount](.md) plus the applicable [Call Premium](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md),  resulting in a $7.50\%$ return on the Notes. No extra payment will be made on account of each Underlying closing above its respective Initial Value.
 
 Example 2—The Official Closing Level of each Underlying on the Final Valuation Date is greater than or equal to its [Call Threshold](.md).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9986841f1a945e7a09b4042fa3a99b9d9bc1469ad3d5a1e4ed7132c044ef2e3e.jpg)
+ ![500](Attachments/500-295.jpg)
 
 Because the Official Closing Level of each Underlying on the Final Valuation Date is at or above its [Call Threshold](.md),  the Notes will be called and you will receive $\$ 1{, }225.00\$ per Note,  reflecting the Principal Amount plus the applicable Call Premium,  resulting in a $22.50\%$ return on the Notes. No extra payment will be made on account of each Underlying closing above its respective Initial Value.
 
 Example 3— The Notes are not called and the Final Value of the [Least Performing Underlying](.md) is greater than or equal to its Barrier Value.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dd74503089221322cc5035d26bf570a8f714efb24d4e4ddc2abb14bf88cbd65a.jpg)
+ ![500](Attachments/500-291.jpg)
 
 RTY is the [Least Performing Underlying](.md).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c5b1505bed92d551fc82f8eed3d6ae35b5fd68480d7a529978a25f8fda04287c.jpg)
+ ![500](Attachments/500-292.jpg)
 
 Because the Final Value of the [Least Performing Underlying](.md) is less its [Call Threshold](.md) but greater than or equal to the Barrier Value,  you will receive $\S1{, }000{.}00$ per Note,  reflecting the [Principal Amount](.md),  resulting in a $0.00\%$ return on the Notes,  even though the value of the [Least Performing Underlying](.md) has declined.
 
 Example 4 — The Notes are not called,  and the Final Value of the [Least Performing Underlying](.md) is less than its Barrier Value.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f2fc278f1fe03c6a30c4edc9921e1aaeb2ccb45909308b874c19e6c628f68759.jpg)
+ ![500](Attachments/500-299.jpg)
 
 RTY is the [Least Performing Underlying](.md).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6404314e768a6c6c10e643210f3ada35354d14adf12d879511a487924bb7de8a.jpg)
+ ![500](Attachments/500-288.jpg)
 
 Because the Final Value of the [Least Performing Underlying](.md) is less than its Barrier Value,  you will receive $\S420.00$ per $\mathbb{S}1{, }000$ [Principal Amount](.md),  calculated as follows:
 
@@ -409,7 +409,7 @@ For more information about the SPX,  see “The S&P $\textdollar{500^{\mathcal{B
 
 The following graph sets forth the historical performance of the SPX based on the daily historical closing values from December 21,  2010 through December 21,  2020. We obtained the closing values below from the Bloomberg Professional ® service. We have not undertaken any independent review of,  or made any due diligence inquiry with respect to,  the information obtained from the Bloomberg Professional ® service.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1502ab9943d93163ed44cd2177792b36f53a5ac33f268fa2f295075fc366e806.jpg)
+ ![500](Attachments/500-290.jpg)
 
 The historical values of the SPX should not be taken as an indication of future performance,  and no assurance can be given as to the Official Closing Level of the SPX on any Call Observation Date,  including the Final Valuation Date.
 
@@ -423,7 +423,7 @@ For more information about the RTY,  see “The Russell 2000 ® Index” beginni
 
 The following graph sets forth the historical performance of the RTY based on the daily historical closing values from December 21,  2010 through December 21,  2020. We obtained the closing values below from the Bloomberg Professional ® service. We have not undertaken any independent review of,  or made any due diligence inquiry with respect to,  the information obtained from the Bloomberg Professional ® service.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b5fb3e5a7368b4b0b359d3681ba84e4f3a727928a6be2223b07d54298501fa51.jpg)
+ ![500](Attachments/500-289.jpg)
 
 The historical values of the RTY should not be taken as an indication of future performance,  and no assurance can be given as to the Official Closing Level of the RTY on any Call Observation Date,  including the Final Valuation Date.
 

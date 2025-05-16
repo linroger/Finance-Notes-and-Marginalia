@@ -32,7 +32,7 @@ cssclasses: academia
 
 ## Swap Pricing: Discounted Cashflows
 
-![500](https://cdn-mineru.openxlab.org.cn/extract/3d1b2355-dc75-4129-9dcd-d49d557b4a1c/59cbb3bf077d183bee84082f8912543ab40beb0fd68755edaf570eb43772404e.jpg)
+![500](Attachments/500-314.jpg)
 
 ## Common Swap Structures
 
@@ -41,13 +41,13 @@ cssclasses: academia
 - Cost of a basis swap is quoted against USD LIBOR flat (e.g., USD LIBOR vs YEN LIBOR 17 bps) and is driven by demand and supply.
 - Example: ABC company has 3-year funding in JPY and is required to hedge exchange rate exposure created by this foreign currency debt.
 
-![500](https://cdn-mineru.openxlab.org.cn/extract/3d1b2355-dc75-4129-9dcd-d49d557b4a1c/f35dc8c9080181c2c3c1bea98c809b9375d4cce66f19c6c37b9ca65aa2e09b24.jpg)
+![500](Attachments/500-311.jpg)
 
 ## Fixed/Fixed Cross Currency Swap
 
-![500](https://cdn-mineru.openxlab.org.cn/extract/3d1b2355-dc75-4129-9dcd-d49d557b4a1c/e8d51269b4bda87fdcdb052e60d7f54b665079141ed29efebbbf978b599b9472.jpg)
+![500](Attachments/500-313.jpg)
 
-![500](https://cdn-mineru.openxlab.org.cn/extract/3d1b2355-dc75-4129-9dcd-d49d557b4a1c/dca05016d8b5e83b47b7a627856e9b83eab47708d543924ab873f09a4a3de064.jpg)
+![500](Attachments/500-310.jpg)
 
 ## Principal-Only Swap (POS)
 
@@ -59,36 +59,36 @@ cssclasses: academia
   - The contract to buy JPY/sell USD forward at current spot rate has a positive value to the Company.
   - As a compensation to Citibank (i.e., to make NPV = 0), the Company will need to pay a periodic coupon (either in USD or JPY) to Citibank.
 
-![500](https://cdn-mineru.openxlab.org.cn/extract/3d1b2355-dc75-4129-9dcd-d49d557b4a1c/d1405d291d249b6e5134b2badef797ed0f956933f56fb317e1b4f4fae2b0a714.jpg)
+![500](Attachments/500-315.jpg)
 
-![500](https://cdn-mineru.openxlab.org.cn/extract/3d1b2355-dc75-4129-9dcd-d49d557b4a1c/5d30cb096867177a776b8b2b83ce035cf7be1eeab66d94f66442c184ffaa73b6.jpg)
+![500](Attachments/500-311.jpg)
 
 ## Coupon-Only Swap
 
 - Consider a 3-year USD/JPY swap with only coupon exchanges.
 - There are no principal exchanges. If the USD fixed rate is known, we can solve for the JPY fixed rate.
 
-![500](https://cdn-mineru.openxlab.org.cn/extract/3d1b2355-dc75-4129-9dcd-d49d557b4a1c/4c870be77e84c1d920946860a73a6bfe4326d20abfd3c994a501df6e2b3ee0e5.jpg)
+![500](Attachments/500-305.jpg)
 
 ## Long-Dated Foreign Exchange (LTFX)
 
 - A Long-Dated Foreign Exchange (LTFX) contract is a Zero Coupon Currency & Interest Rate Swap
 - Instead of exchanging coupons, at the time of dealing, the Principal amount on one set of cashflows is set so that the NPV = 0.
 
-![500](https://cdn-mineru.openxlab.org.cn/extract/3d1b2355-dc75-4129-9dcd-d49d557b4a1c/3a3bf1801696da00a49e28434ab75f65e31e6370c6e8ad0e2b4f042cc422e146.jpg)
+![500](Attachments/500-309.jpg)
 
 ## Using Interest Rate Parity - Pricing Forward Foreign Exchange
 
-![500](https://cdn-mineru.openxlab.org.cn/extract/3d1b2355-dc75-4129-9dcd-d49d557b4a1c/7d1c546377efcd526ea660f6b9844b8acf31576afeb27ef1054c4dc57b11f700.jpg)
+![500](Attachments/500-304.jpg)
 
-![500](https://cdn-mineru.openxlab.org.cn/extract/3d1b2355-dc75-4129-9dcd-d49d557b4a1c/72bec48fa2ab3da51ac1bf17c68bdcb38539c8b6d40056da27e3d5473d4cbc46.jpg)
+![500](Attachments/500-308.jpg)
 
-![500](https://cdn-mineru.openxlab.org.cn/extract/3d1b2355-dc75-4129-9dcd-d49d557b4a1c/a8459166d58fcf01fccc212addf037162fdf9c29d8a65bcba12b20ddea8a564c.jpg)
+![500](Attachments/500-306.jpg)
 
-![500](https://cdn-mineru.openxlab.org.cn/extract/3d1b2355-dc75-4129-9dcd-d49d557b4a1c/ff9dcc5f5faaf10edcc3f66a65f9b0a44353548119281890c513c7507f48a20c.jpg)
+![500](Attachments/500-316.jpg)
 
 Rather than using zero coupon rates, each currency's discount factors may be used:
 
 **Short Cut:** Forward Rate = Spot × dfUSD/dfJPY = 105 × 0.9420 / 0.9975
 
-![500](https://cdn-mineru.openxlab.org.cn/extract/3d1b2355-dc75-4129-9dcd-d49d557b4a1c/37505301aa69af139a1a3b4e06727873b4e99db05ef83f99c0e18abeb1146899.jpg)
+![500](Attachments/500-307.jpg)

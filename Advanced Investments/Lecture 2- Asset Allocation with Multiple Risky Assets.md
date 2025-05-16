@@ -36,11 +36,19 @@ key_concepts:
 ---
 
 # Lecture 2: Asset Allocation with Multiple Risky Assets
+<<<<<<< HEAD
 We now extend our optimal [portfolio](An%20Asset%20Allocation%20Primer.md) choice framework to allow for multiple risky assets. This gets us close to the type of models that are used by asset managers of large portfolios to decide how much to allocate to different asset classes.
+=======
+We now extend our optimal [[An Asset Allocation Primer|portfolio]] choice framework to allow for multiple risky assets. This gets us close to the type of models that are used by asset managers of large portfolios to decide how much to allocate to different asset classes.
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
 We still stick to the IID [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) assumption for now.
 
+<<<<<<< HEAD
 In your intro investments course, you saw the graphical representation of the solution for the optimal [portfolio](An%20Asset%20Allocation%20Primer.md). Recall the hyperbolic shape of the mean-standard deviation frontier, the tangency [portfolio](An%20Asset%20Allocation%20Primer.md), and the capital market line that depicts all possible combinations of the [risk-free asset](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) with the tangency [portfolio](An%20Asset%20Allocation%20Primer.md). Here we are going to use matrix algebra to get explicit formulas for the tangency [portfolio](An%20Asset%20Allocation%20Primer.md) and its risk-return properties.
+=======
+In your intro investments course, you saw the graphical representation of the solution for the optimal [[An Asset Allocation Primer|portfolio]]. Recall the hyperbolic shape of the mean-standard deviation frontier, the tangency [[An Asset Allocation Primer|portfolio]], and the capital market line that depicts all possible combinations of the [[2. Forwards, Swaps, Futures, and Options|risk-free asset]] with the tangency [[An Asset Allocation Primer|portfolio]]. Here we are going to use matrix algebra to get explicit formulas for the tangency [[An Asset Allocation Primer|portfolio]] and its risk-return properties.
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
 I use bold lowercase letters for vectors and bold uppercase letters for matrices. I use $\boldsymbol{\iota}$ to denote a column vector with all elements equal to one and $\boldsymbol{I}$ for the [identity matrix](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Prerequisites.md) (which has ones on its diagonals and zeros everywhere else). Letters or symbols that are not in boldface are scalars.
 
@@ -57,7 +65,11 @@ $$
 
 $$
 
+<<<<<<< HEAD
 Very important for our [portfolio](An%20Asset%20Allocation%20Primer.md) choice analysis is the $N \times N$ covariance matrix of [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)
+=======
+Very important for our [[An Asset Allocation Primer|portfolio]] choice analysis is the $N \times N$ covariance matrix of [[Assets|returns]]
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 $$
 
 \begin{equation*}
@@ -101,7 +113,11 @@ $$
 
 $$
 
+<<<<<<< HEAD
 This last formula shows that all $N \times N$ elements of the covariance matrix play a role in determining the portfolio return variance. This is important. The [portfolio](An%20Asset%20Allocation%20Primer.md) variance depends not only on how volatile individual [asset returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Some%20Stylized%20Empirical%20Facts%20About%20Asset%20Retur.md) are,  but also on how strongly they covary,  i.e.,  whether they tend to move together or not. Here is how this looks like in the $N=2$ case,  where $\rho$ denotes the correlation of the two [asset returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Some%20Stylized%20Empirical%20Facts%20About%20Asset%20Retur.md) and $\rho \sigma_{1} \sigma_{2}$ their covariance:
+=======
+This last formula shows that all $N \times N$ elements of the covariance matrix play a role in determining the portfolio return variance. This is important. The [[An Asset Allocation Primer|portfolio]] variance depends not only on how volatile individual [[Some Stylized Empirical Facts About Asset Retur|asset returns]] are,  but also on how strongly they covary,  i.e.,  whether they tend to move together or not. Here is how this looks like in the $N=2$ case,  where $\rho$ denotes the correlation of the two [[Some Stylized Empirical Facts About Asset Retur|asset returns]] and $\rho \sigma_{1} \sigma_{2}$ their covariance:
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 $$
 
 \begin{align*}
@@ -120,7 +136,11 @@ $$
 
 $$
 
+<<<<<<< HEAD
 So if the [portfolio](An%20Asset%20Allocation%20Primer.md) has positive weight on both assets, $\omega_{1}>0$ and $\omega_{2}>0$, then, due to the middle term in this expression, the higher the correlation of the two [asset returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Some%20Stylized%20Empirical%20Facts%20About%20Asset%20Retur.md), the higher the portfolio return variance.
+=======
+So if the [[An Asset Allocation Primer|portfolio]] has positive weight on both assets, $\omega_{1}>0$ and $\omega_{2}>0$, then, due to the middle term in this expression, the higher the correlation of the two [[Some Stylized Empirical Facts About Asset Retur|asset returns]], the higher the portfolio return variance.
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
 Sometimes we are interested in the covariances of [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) of the individual assets that are in the [portfolio](An%20Asset%20Allocation%20Primer.md) with the return of the overall [portfolio](An%20Asset%20Allocation%20Primer.md). We can get this vector of covariances by post-multiplying the covariance matrix with the [portfolio weight vector](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Portfolios%20and%20Trading%20Strategies.md),
 $$
@@ -141,7 +161,11 @@ $$
 
 ## 2.2 Optimal Portfolio Choice with Multiple Risky Assets
 
+<<<<<<< HEAD
 Let's now turn to finding the optimal [portfolio](An%20Asset%20Allocation%20Primer.md) weight when we have multiple risky assets. As in the last lecture, we assume the investor has CRRA preferences and we'll use a [first-order approximation](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%204/Convexity.md) of marginal utility to simplify the problem. The following analysis is pretty much analogous to our analysis in the single risky asset case in the last lecture,  but with some [vectors and matrices](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Prerequisites.md) replacing some scalars to account for the fact that we have [multiple risky assets](.md).
+=======
+Let's now turn to finding the optimal [[An Asset Allocation Primer|portfolio]] weight when we have multiple risky assets. As in the last lecture, we assume the investor has CRRA preferences and we'll use a [[Convexity|first-order approximation]] of marginal utility to simplify the problem. The following analysis is pretty much analogous to our analysis in the single risky asset case in the last lecture,  but with some [[Prerequisites|vectors and matrices]] replacing some scalars to account for the fact that we have [[Lecture 2- Asset Allocation with Multiple Risky Assets|multiple risky assets]].
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
 If the investor starts with wealth $W_{0}$ at the beginning of a period and invests proportions $\boldsymbol{\omega}$ of this [initial wealth](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%206%20-%20Individual%20optimality/The%20One-Period%20Framework.md) into the $N$ risky assets and the rest in the [risk-free asset](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md),  then the total [investment](An%20Asset%20Allocation%20Primer.md) in risky assets accounts for a proportion $\boldsymbol{\iota}^{\prime} \boldsymbol{\omega}=\sum_{i}^{N} \omega_{i}$ of [initial wealth](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%206%20-%20Individual%20optimality/The%20One-Period%20Framework.md) and the rest,  $1-\boldsymbol{\iota}^{\prime} \boldsymbol{\omega}$ is allocated to the [risk-free asset](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md). Hence the return on the investor's wealth [portfolio](An%20Asset%20Allocation%20Primer.md) is
 $$

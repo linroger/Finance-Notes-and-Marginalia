@@ -203,11 +203,11 @@ A [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Marke
 
 2 [International Money Market](../../International%20Finance/Characteristics%20of%20the%20Eurodollar%20Market.md) (IMM) dates are the third Wednesdays of March,  June,  September and December.
 
- ![400](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1b4c6cef69bf82c65988e1c09ab5f95800b142024156e677495f921c3b97fba8.jpg)
+ ![400](Attachments/400-2.jpg)
 
 #### **Exhibit 4: [](.md#Forward%20Rate%20Agreements%20(FRAs)%20Overview|FRA) Timeline**
 
-![8eb3ff16e30f094b06c057db76878f70b435e4f1269abb0f4709a14a78f59cce.jpg](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8eb3ff16e30f094b06c057db76878f70b435e4f1269abb0f4709a14a78f59cce.jpg)
+![8eb3ff16e30f094b06c057db76878f70b435e4f1269abb0f4709a14a78f59cce.jpg](Attachments/8eb3ff16e30f094b06c057db76878f70b435e4f1269abb0f4709a14a78f59cce.jpg)
 
 A [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[Forward Rate Agreements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) (FRAs) [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|FRA]] is referenced by three dates – the fixing,  settle and maturity dates. On the fixing date the reference floating rate is observed. Once the fixing has been determined,  accrual begins and [cash settlement](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Swaptions.md) is made on the settle date . In contrast to an [interest rate swap](../../Financial%20Engineering/Primer%20on%20Interest%20Rate%20Swaps.md),  the cash payment for a [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[Forward Rate Agreements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) (FRAs) [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|FRA]] is made at the beginning of the accrual period rather than at maturity (with appropriate discounting).
 
@@ -239,7 +239,7 @@ Exhibit 5 provides concrete examples of shorthand notation for FRAs followed by 
 
 ### **Exhibit 5: Shorthand notation given a sample calendar with US& UK holidays**
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/974721207e499d3353c3a7fee05782af0648025a3670eff805e693187b41be3c.jpg)
+ ![500](Attachments/500-133.jpg)
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
@@ -314,7 +314,7 @@ Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Li
 
  ![500](_page_11_Figure_5.jpeg)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c0170457cf616242d5bf7060159a54dd999a2db93efef5ef9c896c3b016d1663.jpg)
+ ![500](Attachments/500-134.jpg)
 
 6-month [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] fell to 46 bps as of settlement. The hypothetical cash flows
 
@@ -322,7 +322,7 @@ Are shown in Exhibit . 10
 
 #### **Exhibit 10: Hypothetical trade cash flows based on a long 6 x 12 FRA**
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5ae5216afef55d4c1460c211e85d2059a36fb017dc7182db7f5692bb4ce4f8ab.jpg)
+ ![500](Attachments/500-141.jpg)
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
@@ -342,7 +342,7 @@ In the U.S. market,  the reference rate is the overnight [Basis Swap](A%20Guide%
 | [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Federal Funds Market | [Fed Funds](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md)]] Effective              | Spot (t+2) Maturity+2 A/360 |
 | Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)                                                  |                                    |                             |
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7974fd2787865b5f387bc7801e2cb793ff66ab4e845048bf00ce43afaf0c44e4.jpg)
+ ![500](Attachments/500-147.jpg)
 
 the maintenance period average level of the effective rate and [the Fed](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Monetary%20Policy%20with%20Abundantreserves.md)'s stated policy rate. The effective rate data are published on Reuters page FEDM,  Bloomberg page FEDL and Telerate 118. A potential source of confusion in Is is that the fixing is released with a one-day lag the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Federal Funds Market|[Fed Funds](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md)]] effective rate for a given business day is not released until the morning of the following business day,  generally around 7:30am. In addition to the sources cited above,  investors can subscribe to email alerts from the NYFRB at the web address: http://service.govdelivery.com/service/user.html?code=USFRBNEWYORK.
 
@@ -388,7 +388,7 @@ Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Li
 
 Exhibit 12: Example of a hypothetical one-week USD Is trade (spot starting) Trade Date Value Date End Date Payment Date Mon 04-Jan-10 Wed 06-Jan-10 Tue 12-Jan-10 Thu 14-Jan-10
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eea2e974d67f5fbe8bcf83c88b875de9656a8fe4d26d6b673d19c4ed7b5488e3.jpg)
+ ![500](Attachments/500-134.jpg)
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
@@ -424,9 +424,9 @@ More generally,  Is can be used to create term funding while raising funds in th
 
  ![500](_page_15_Figure_1.jpeg)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/156b8761889c5cc5a20e22c15abbd1bbc610855a252be4eabe06f53e643ec136.jpg)
+ ![500](Attachments/500-128.jpg)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3110585e4c97e87b20285a761eda273fd7d789ceb0d136f734c429644b0977ce.jpg)
+ ![500](Attachments/500-137.jpg)
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
@@ -436,13 +436,13 @@ Is can be used along with Treasury bill purchases or sales to express views on T
 
  ![500](_page_15_Figure_7.jpeg)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2ac33a403e9bc3e9cd05ab704cc5aa06fcba6ecb269d3233577ee5ae756044cb.jpg)
+ ![500](Attachments/500-143.jpg)
 
 Distortions in the market allow for opportunities to exploit the dislocation of the spread between the Is and the T-bill (Is equivalent) yields. For instance,  should the spread be highly negative,  an investor expecting risk aversion to fade could short a T-Bill while receiving fixed in a matched-maturity Is (Exhibit 19).
 
  ![500](_page_15_Figure_9.jpeg)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a2136146e6ea6b4c5b43cb24058d59dbbc6b551efce18d7b9badfaa99d9659ef.jpg)
+ ![500](Attachments/500-136.jpg)
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
@@ -454,19 +454,19 @@ Meeting-to-meeting Is,  which cover the period from a given FOMC meeting to the 
 
  ![500](_page_16_Figure_5.jpeg)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3e521d7af6cdf7cf73c2920b784e2e8a28cad4dc2fd6f712bfc5f6fda531ce0c.jpg)
+ ![500](Attachments/500-142.jpg)
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
 ### Using Is to hedge one leg of total return swaps
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bc7eae587a8ee2658c4bc11e8c2b46473da65583d2c6f507c71803454302c72f.jpg)
+ ![500](Attachments/500-130.jpg)
 
 A total return swap (TRS) consists of exchanging the total return on a reference asset,  such as the S&P 500 Index,  with a floating reference rate plus or minus a spread. Often the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Federal Funds Market|[Fed Funds](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md)]] effective rate is used as the floating reference. If an investor believes the market is underpricing the risk of a Fed hike before the next TRS fixing,  he can pay fixed in an Is spanning the period between TRS fixings to lock in a funding rate. Exhibit presents the mechanics of this hedge. 21
 
 ### **Exhibit 21: Hedging one leg of a total return swap with Is**
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ece80a5ad4313df2b23c669a34e3c09d43499b82898f942de15501446e548e32.jpg)
+ ![500](Attachments/500-139.jpg)
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
@@ -476,7 +476,7 @@ The spread between current 3-month [Basis Swap](A%20Guide%20to%20the%20Front%20E
 
  ![500](_page_17_Figure_4.jpeg)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5063567f80e1d09f16520c16ffe4c58068629d4a7919146e50aeeb20f8cd49d0.jpg)
+ ![500](Attachments/500-130.jpg)
 
 **Exhibit 22: LIBOR/Is spread widened in 2008 with deterioration in bank credit**
 
@@ -484,7 +484,7 @@ Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Li
 
 FRA/Is is quoted as a spread,  where the USD [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[Forward Rate Agreements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) (FRAs) [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)|FRA]] uses actual/360 with payment occurring on the settlement date and the USD Is uses actual/360 (on [fixed and floating legs](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Determining%20the%20Expression%20for%20the%20Fair%20Value%20of%20the%20Swap%20Spread.md)),  with payment occurring two New York business days after the maturity date. The timeline of a FRA/Is is shown in Exhibit 23.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/924290d2cc7da463a0ff7f13fe0195d43855b1f8bbde95525e835f5869d28422.jpg)
+ ![500](Attachments/500-146.jpg)
 
 #### **Exhibit 23: FRA/Is Timeline**
 
@@ -500,7 +500,7 @@ FRA/Is is quoted as a spread,  where the USD [Basis Swap](A%20Guide%20to%20the%2
 
 Exhibit 23: FRA/Is Timeline
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/577e0e94fafd4834a8863cdc7be2c625725d692b6b5e886137efd4991463e72d.jpg)
+ ![500](Attachments/500-134.jpg)
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
@@ -522,13 +522,13 @@ Worsening bank [credit quality](../../Financial%20Markets%20and%20Institutions/I
 
  ![500](_page_18_Figure_8.jpeg)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/52e3849c87a08eccbd16df5738b9d951bbf19f6034a36bb05d71be7475792d03.jpg)
+ ![500](Attachments/500-141.jpg)
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md),  the BLOOMBERG PROFESSIONAL™ service
 
 ### Using FRA/Is to express directional view on credit spreads
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6217efc5339939e8afa0c135a735b848bacbf86c0b172277834fa4172bcac968.jpg)
+ ![500](Attachments/500-149.jpg)
 
 FRA/Is can be used to express a directional view on credit spreads. During 2007 and 2008,  as the [banking](../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) crisis unfolded,  LIBOR/Is widened significantly and remained at elevated levels until exogenous measures by the government helped credit conditions to thaw.
 
@@ -538,13 +538,13 @@ If an investor had anticipated that LIBOR/Is would come in more quickly than the
 
 **Exhibit 26: FRA/Is to express a directional view on credit spreads**
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/80840efa1fa244111ad2e5e1842a43a35608eb49360dd0eceec8235c30a46e3e.jpg)
+ ![500](Attachments/500-144.jpg)
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
 **Exhibit 27: Hypothetical FRA/Is trade to anticipate decreasing credit spreads**
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5bb817f5b2bfdd4855002d4164ead6b06f9627a56cd8bde8eff0c8a0c603049a.jpg)
+ ![500](Attachments/500-132.jpg)
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md),  the BLOOMBERG PROFESSIONAL™ service
 
@@ -556,7 +556,7 @@ Historically,  swap spreads and the LIBOR/Is spread have moved closely together.
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b36ed6cda3bac8bf1f805c6080e785507c52f31287156481669132737d44421d.jpg)
+ ![500](Attachments/500-145.jpg)
 
 Exhibit 28: FRA/Is as a hedge for swap spreads Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
@@ -592,7 +592,7 @@ Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Li
 
  ![500](_page_21_Figure_1.jpeg)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1e5454541771e5a6c1a3049080c9ae5eab66663b9664a857c3a1af3853f942bf.jpg)
+ ![500](Attachments/500-141.jpg)
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
@@ -616,13 +616,13 @@ Is able to raise debt at 3-month [Basis Swap](A%20Guide%20to%20the%20Front%20End
 
 **Exhibit 33: [Asset Liability Management](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) using a 3 s 1 s LIBOR/[Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] [basis swap](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Basis%20Swaps.md)**
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2fbd47153d9b1fba6e217b326636e88d23a570c32dccf96f19dd276c0bdb44c1.jpg)
+ ![500](Attachments/500-138.jpg)
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
 ### Using LIBOR/[](.md#London%20Interbank%20Offered%20Rate%20(LIBOR)|LIBOR) basis to express a view on bank credit
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b0d5878d28a3887961bb08f29090d06c662821b23f3cc0290f9676a9ee746910.jpg)
+ ![500](Attachments/500-146.jpg)
 
 Exhibit 31: History of the Stub Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
@@ -632,13 +632,13 @@ On 14 November 2008,  the market expectation for 3 s 1 s was extremely low,  as 
 
 To take advantage of the low [market expectations](../../Clippings/Forward%20Rate.md) for the 3 s 1 s basis spread,
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/937c2495f4a940d8e2cf052fd6d85d2ea02253304460d942455e4974200af1c9.jpg)
+ ![500](Attachments/500-151.jpg)
 
 An investor could have established a [long position](../../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%204%20-%20Futures:%20Hedging%20and%20Speculation.md) in the 6-month 3 s 1 s basis (by receiving in 3-month [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] vs. Paying in 1-month LIBOR). As it turned out,  the market had overestimated the scope for narrowing in the 1-month/3-month [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] spread and a long 3 s 1 s basis position would have been profitable (Exhibit 35).
 
 Is able to raise debt at 3-month [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] $^+$ 80 bps for a 10-year term. In-order to match the quarterly payment of debt based on the 3-month [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] to the asset that brings in loan repayments based on 1-month LIBOR,  the financial institution could buy a 3 s 1 s LIBOR/[Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] [basis swap](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Basis%20Swaps.md) for the term of ten years. The resulting difference between the asset and the funding is locked in,  based on the spread above the 1-month [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] for the asset,  the spread over 3-month [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] for the debt and the 3 s 1 s basis for a 10-year term. Exhibit 33 shows how the asset and liability in question can be matched using the 3 s 1 s [basis swap](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Basis%20Swaps.md).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/316d7577c908a006105cdf4bf30d9f8119ea26beec1b17e061b037ae862348a3.jpg)
+ ![500](Attachments/500-149.jpg)
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
@@ -648,17 +648,17 @@ Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Li
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b8e4c8370177956e5ea7b47302e3933c238325c2d80917d4b9f219eb56d47239.jpg)
+ ![500](Attachments/500-145.jpg)
 
 ### Using 6 s 3 s basis swaps to match bank assets and liabilities
 
 In the international markets,  a significant amount of corporate funding is benchmarked to 6-month LIBOR,  i.e.,  companies raise funding by issuing debt tied to the 6-month [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] rate. At the same time,  international companies also generally hold assets linked to 3-month LIBOR. If left unhedged,  the exposure to the 6 s 3 s basis can be a source of risk (Exhibit 36). An investor who wants to minimize this [basis risk](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Lessons%20From%20The%20Crisis.md) can buy the 6 s 3 s basis as inexpensive insurance. The mechanics of how this can be achieved are laid out in Exhibit 37 below.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1772d5b46e58929d830c6466930dd075c10fc34c392df122e7428136055f0b47.jpg)
+ ![500](Attachments/500-129.jpg)
 
  ![500](_page_23_Figure_6.jpeg)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a8f4301db70ee3731d6590a5edc58b369eeba3923ee71f8f7fa8aac493c02fd2.jpg)
+ ![500](Attachments/500-146.jpg)
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
@@ -668,7 +668,7 @@ Issuers of fixed-rate debt may want to have exposure to 1-month [Basis Swap](A%2
 
 **Exhibit 38: 3 s 1 s [basis swap](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Basis%20Swaps.md) used to covert exposure from fixed to 1 m LIBOR**
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8e281c0374ddadbadfa9c7e3a52120b2777f59510b06c4006320d4c1b902294b.jpg)
+ ![500](Attachments/500-145.jpg)
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
@@ -676,7 +676,7 @@ Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Li
 
 Issuers of mortgage loans that are based on the 1-month [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] rate with monthly repayments are often faced with an asset-liability mismatch since the funding for these loans is generally based on 3-month [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] rates. The 3 s 1 s [basis swap](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Basis%20Swaps.md) enables owners of mortgage portfolios to match their assets and liabilities better. The mechanics of this asset/liability matching using a 3 s 1 s [basis swap](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Basis%20Swaps.md) are shown in Exhibit . 39
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/993cf1542d1b9d999c422ecb8f7fa12c29457349dbe6eaa7ab7c17e1583bfdef.jpg)
+ ![500](Attachments/500-146.jpg)
 
 Exhibit 38: 3 s 1 s [basis swap](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Basis%20Swaps.md) used to covert exposure from fixed to 1 m [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
@@ -686,7 +686,7 @@ Exhibit 38: 3 s 1 s [basis swap](../../Financial%20Markets/Fixed%20Income%20Secu
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6ec80ea3f26af967b72e034c2312dad60391ab401486f5a710ab8937587e7816.jpg)
+ ![500](Attachments/500-140.jpg)
 
 Page left intentionally blank
 
@@ -718,7 +718,7 @@ There is a two-day rate cut-off applied to the FF leg of the FF/[Basis Swap](A%2
 | Weight | 1 | 1 | 3 | … | 1 | 4 = 3 + 1 | 0 |
 | Average | 0.17537% |  |  |  |  |  |  |
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/738ce45f48ed432625997d04d59053610807e77865a3a7a6010fac38e41c29f8.jpg)
+ ![500](Attachments/500-143.jpg)
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
@@ -740,7 +740,7 @@ By constructing a repo/Is trade,  an investor can isolate the exposure to repo/I
 
 The demand,  and thus the supply,  for [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Federal Funds Market|[Fed Funds](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md)]] floaters has grown as investors seek to avoid LIBOR/FF spread risk in uncertain market environments. [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Federal Funds Market|[Fed Funds](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md)]] floaters are also an attractive alternative for investors who use the repo market for overnight [liquidity](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md). These investors can invest core [liquidity](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) daily in a [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Federal Funds Market|[Fed Funds](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md)]] floater instead of investing cash in the repo market,  which can sometimes be prone to limitations based on dealer balance sheets.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/38edca956a9fd39733f242bfc49e302dce6f474ad817341de16bdeee63d4ba70.jpg)
+ ![500](Attachments/500-152.jpg)
 
  ![500](_page_27_Figure_2.jpeg)
 
@@ -748,7 +748,7 @@ The demand,  and thus the supply,  for [Basis Swap](A%20Guide%20to%20the%20Front
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9c37c19a2188e23bffd2a6c2fe5f00bf3ba4c380ac60797ae4027aa6cacf891a.jpg)
+ ![500](Attachments/500-144.jpg)
 
 ### Using FF/[](.md#London%20Interbank%20Offered%20Rate%20(LIBOR)|LIBOR) basis swaps to extract 5 yr 5 yr real fed funds
 
@@ -757,7 +757,7 @@ FF/[Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Mark
  ![500](_page_27_Figure_7.jpeg)
 
 **Exhibit 44: Market-implied real [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Federal Funds Market|[Fed Funds](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md) Rate]] using FF/[Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] basis swaps**
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4a0e367dc879d8cd4c970a9cb9486ec16ee3e3649806bc1a9ebaf50efe879cc2.jpg)
+ ![500](Attachments/500-145.jpg)
 Exhibit 43: Synthetic 3 m [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] funding (2 yr FF floater $^+$ 2 yr FF/[Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] [basis swap](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Basis%20Swaps.md))
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
@@ -784,7 +784,7 @@ Assume a bank has a student loan [portfolio](../../Advanced%20Investments/An%20A
 
  ![500](_page_29_Figure_2.jpeg)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e5e3c3c98902d6a73edd4d67f347de332b5066cd7a48099fa7e92c044ab80aa5.jpg)
+ ![500](Attachments/500-146.jpg)
 
 **Exhibit 46: Matching bank assets and liabilities with a 10-year prime/[Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] [basis swap](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Basis%20Swaps.md)**
 
@@ -796,7 +796,7 @@ Issuers of floating-rate notes based on the prime rate may seek to fund in 3-mon
 
 ### **Exhibit 47: Using a prime/[](.md#London%20Interbank%20Offered%20Rate%20(LIBOR)|LIBOR) basis swap to hedge a prime floater**
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/91751f975b487039ce5a45f711126c2117a43fef6785466b6f32837c546fa881.jpg)
+ ![500](Attachments/500-146.jpg)
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
@@ -808,7 +808,7 @@ The prime rate is the only rate that directly references the [Basis Swap](A%20Gu
 
 Assume a bank has a student loan [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) with a maturity of ten years based on prime $^+$ 100 bps. Further,  assume the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is funded by [Eurodollar deposits](../../International%20Finance/Characteristics%20of%20the%20Eurodollar%20Market.md) that pay 3-month LIBOR. As seen in Exhibit 45,  the spread between the funding rate and the interest income from the loan is volatile and can be a source of risk. To hedge against the volatility in the prime/[Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] spread,  the bank can pay prime versus [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] in a swap to lock in the difference between the funding rate and the interest income (Exhibit 46 ).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/224c7093b2046865620d153da46fa3118c049568baf88a802e83401ca953bdcf.jpg)
+ ![500](Attachments/500-141.jpg)
 
 #### **Exhibit 48: Anticipating divergence of fed effective and target using a prime/[](.md#London%20Interbank%20Offered%20Rate%20(LIBOR)|LIBOR) basis swap**
 
@@ -820,13 +820,13 @@ Banks that issue credit cards often have credit card rates tied to the prime rat
 
 #### **Exhibit 49: Hedging mismatch between assets & liabilities of a credit card portfolio**
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/01d2706b23f6fc43d48023a2e4d22109f8d27ae02df3079b084d2155fb9f8236.jpg)
+ ![500](Attachments/500-141.jpg)
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
 # Prime/[](.md#Federal%20Funds%20Market|Fed%20Funds) Basis Swap Overview
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4fd5a1f4672a5de0ee6dd4d0fbf0f31df97f9ba30df01b22fe43e394d90746a4.jpg)
+ ![500](Attachments/500-144.jpg)
 
 Exhibit 48: Anticipating divergence of fed effective and target using a prime/[Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] [basis swap](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Basis%20Swaps.md) Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
@@ -834,7 +834,7 @@ A prime/[Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps)
 
 ### Using prime/[](.md#Federal%20Funds%20Market|Fed%20Funds) basis swaps to express a view on consumer credit quality
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0eaf8e91b17f0a0d594c111ee8158c66b92a448013774b4115818b1b8981d999.jpg)
+ ![500](Attachments/500-147.jpg)
 
 The prime/[Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Federal Funds Market|[Fed Funds](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md)]] basis can be viewed as a proxy for consumer [credit quality](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Wellman%20Inc%20the%20Importance%20of%20Loan%20Covenants.md),  with the prime leg tied to lending rate for banks' most creditworthy customers and the FF leg tied to a near [risk-free interest rate](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md). In practice,  the prime rate is 300 bps over the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Federal Funds Market|[Fed Funds](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md)]] target rate and changes only with the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Federal Funds Market|[Fed Funds](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md)]] target. However,  if consumer credit deteriorates significantly,  it is not unthinkable for banks to increase the spread over the [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Federal Funds Market|[Fed Funds](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md)]] target from current levels. If an investor believed this event was imminent,  he/she could express this view by receiving the prime leg and paying the FF leg,  as shown in Exhibit 50.
 
@@ -844,7 +844,7 @@ The prime/[Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swap
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/44417e5cf6d95f6007443387783186cc0e120dc2ff1a1ab8de77bdea26896bfa.jpg)
+ ![500](Attachments/500-143.jpg)
 
 ### Using prime/[](.md#Federal%20Funds%20Market|Fed%20Funds) basis swaps to express a view on divergence of fed effective from target
 
@@ -854,11 +854,11 @@ The prime/[Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swap
 
 Basic Instruments
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/148a230a4e6db73d66371e7f44b9d05cb5d5573505ab04b4c55a0d1020c6d585.jpg)
+ ![500](Attachments/500-148.jpg)
 
 Source: [Credit Suisse](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/The%20Economist%20Margin%20Call%20of%20the%20Wild.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7645b67cf16df8427a4089a991fff529bf303d23e7f17f343506ccdce8b9577f.jpg)
+ ![500](Attachments/500-150.jpg)
 
 ## Appendix: Sample Term Sheets
 

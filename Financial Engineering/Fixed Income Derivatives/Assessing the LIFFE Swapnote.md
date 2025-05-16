@@ -20,7 +20,7 @@ key_concepts:
 
 # [Assessing the LIFFE Swapnote](The%20Determinants%20of%20the%20Swap%20Spread.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bc148469d93faa1e6cf899df4d13571821a3f502d0a0ca8118a1dab4f0380f72.jpg)
+ ![500](Attachments/500-497.jpg)
 # Standardised INTEREST-RATE SWAPS:
 
 Assessing the [LIFFE Swapnote](.md)
@@ -80,12 +80,12 @@ P A Cmdty FVD  $_{<\mathrm{G}0>}$  .
 Screen FVD (see Exhibit 3) shows the market value of the [Swapnote](.md)® and its conventions such as the day count and valuation date. The [Swapnote](.md)® can be priced as a forward starting swap where the swaps effective date is set as the valuation date of the [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract. The sensitivity measures from the FVD screen can be replicated by [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) a 10-year euro-denominated bond with a [forward settlement](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Bond%20Yield.md) date of the [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) valuation date and maturity date, day count and frequency from the [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract. Note from Exhibit 3 that a   $60/0$   notional coupon is used as the bond's fixed coupon rate. In our example we have evaluated the 10-year [Swapnote](.md)®. Exhibit 4 is page 2 from the same screen, and lists the fixed coupon and forward rates at each interest fixing date. The forward rates as at
 Exhibit 2
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/52560851a49d87e021fbdba90c62adaa3b869013c8167b2411d6f2afa59bc8d3.jpg)
+ ![500](Attachments/500-498.jpg)
 [Swapnote](.md)® trading volumes Source: LIFFE. Used with permission.
 
 Bloomberg screen FVD for 10-year [Swapnote](.md) ®   contract, as at September 11, 2003 Exhibit 3
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/76c0b1bf139ee3f6648b1a63516273a1c839f8a598ee63e554568bf14272cc9f.jpg)
+ ![500](Attachments/500-495.jpg)
 
 Source: Bloomberg L.P. Used with permission.
 each fixing date are also shown. Screen FVD assesses [Swapnote](.md)® against a comparison bond. This defaults to the current 10-year German government bond, shown to be the  $3.75\%$   2013 bond. The ‘equivalent yield' shown is the notional yield to maturity of a government bond with a  $60/0$  yield priced to settle on the valuation date, and maturing exactly 10 years from the valuation date. The spread to the comparison bond is shown to be 6.59 basis points.
@@ -103,13 +103,13 @@ The underlying notional cash-flows consist of a series of fixed notional coupons
 
 We reiterate that the [Swapnote](.md)® contract is essentially a forward starting [swap contract](../../Financial%20Instruments/Review%20Session%20Notes/Currency%20Swaps.md) that cash settles on the start/effective date of the underlying swap. Thus, a swap
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bf4aada4fc70e48d0291ca8dd5a20e3e8ba7e101934f4c2c1f2392a27f955afe.jpg)
+ ![500](Attachments/500-495.jpg)
 Bloomberg screen FVD, page 2
 
 Exhibit 4 Source: Bloomberg L.P. Used with permission.
 Comparison of quoted and theoretical prices
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/360a6d6d3ab3b006708e3263f7bcf09b046171cff611b48274234c44c6854fb9.jpg)
+ ![500](Attachments/500-494.jpg)
 
 In Exhibits 5 and 6 we are comparing the [Swapnote](.md)® settlement prices with those of the [Euribor futures](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) which settle at around the same time. The main difference between these methods of evaluating the [Swapnote](.md)® is that the last method takes into account the [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) correction discussed below. Exhibit 6 illustrates [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) [Swapnote](.md)® off the [Eurodollar futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Convexity-Adjusted%20Models%20for%20LIBOR%20Forwards%20Qu.md) market using the [LIFFE Swapnote](.md)® calculator, together with a [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) correction using the Kirikos & Novak equation. We look at this issue in greater detail later.
 
@@ -125,7 +125,7 @@ $$
 $$
 
 A zero coupon bond, maturing at time   $T_{e}$  , pays  $\mathrm{US}\S1$  at time   $T$   and nothing before time   $T^{10}$  . Intuitively, Equation (2) represents the price process of a risk-free security which continuously compounds in value at the rate  $r$  . We first consider the situation with discrete trading dates
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bc62316b68f8006a70fd9041010d44ecbca3cc75546f54e0f1ac3373a38e6125.jpg)
+ ![500](Attachments/500-493.jpg)
 $$
 0\,=\,t_{_0}<t_{_1}<\,\ldots\,<t_{n}=T
 $$
@@ -166,7 +166,7 @@ $$
 for an asset valued at   $V(T)$  .
 
 Exhibit 7 illustrates the [arbitrage-free pricing](../6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md) of a fiveyear,  $6\%$   [Swapnote](.md)®. The notional cash-flows are present valued to the contract trade date, summed and financed to delivery.
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4b15831ad57bcb53b3550e15d5c36ecfe752c22720552fe0fa9543f8ca565b9c.jpg)
+ ![500](Attachments/500-496.jpg)
 
 # Forward – future spread
 
@@ -269,7 +269,7 @@ Finally we have shown how the [convexity](../../Fixed%20Income%20Asset%20Pricing
 
 Choudhry, M., “Il [liquidity](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) in government bond markets and the search for alternative benchmarks”,  Department of Management Working Paper , Birkbeck, University of London 2003 Fabozzi, F.,  Valuation of [Fixed Income Securities](../../Clippings/Bond%20Equivalent%20Yield%20(BEY)%20-%20Definition,%20Formula,%20and%20Example.md) and [Derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) , 3rd Edition, John Wiley 2003 Flavell, R.,  Swaps and other [Derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) , John Wiley 2001 Hagan, P., “[Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) conundrums: [Pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) CMS Swaps, [Caps and Floors](Interest%20Rate%20Derivatives-An%20Introduction%20to%20the%20%20Pricing%20of%20Caps%20and%20Floors.md)”  Wilmott Magazine , March 2003 pp 38-44 Hull, J.,  Options, [Futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md), and Other [Derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) , 4th Edition, FT Prentice Hall 2000 Kirikos, G., and Novak, D., “[Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) conundrums”  RISK , March 1997, pp 60-61 Remolona, E., Wooldridge, P., “The euro [interest rate swap](../Primer%20on%20Interest%20Rate%20Swaps.md) market”,  BIS Quarterly Review , March 2003 Shreve, S.,  Lectures on [Stochastic Calculus](../6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md) and Financ e  (1997), available at www-2.cs.cmu.edu/\~chal./shreve.html
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/36084035feb3434ff8d39b267b4cc117abd114bd59b76cf0553f883763df130c.jpg)
+ ![500](Attachments/500-492.jpg)
 
 Moorad Choudhry, co-founder of YieldCurve.com
 

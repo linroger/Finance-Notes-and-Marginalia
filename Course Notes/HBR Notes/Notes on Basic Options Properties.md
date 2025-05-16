@@ -73,13 +73,13 @@ key_concepts:
 
    Figure A Payoff
 
-![image3](https://ik.imagekit.io/linroger036/image3_OjsZ6i03O.png)
+![image3](Attachments/image3.jpg)
 
    > Source: Casewriters.
 
    The reverse payoff relationship is true for a put option,  as shown in Figure B. The option has a positive payoff as long as the [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) is below$100. If it hits$100 or more,  though,  the option becomes valueless to the holder,  who will choose not to exercise it since it has zero payoff.
 
-![image4](https://ik.imagekit.io/linroger036/image4_-_jyNDhiS.png)
+![image4](Attachments/image4.png)
 
    Figure B Payoff for a Put Option
 
@@ -131,7 +131,7 @@ key_concepts:
 
    Table A Impact on Option Prices (American-Style Option)
 
-![image5](https://ik.imagekit.io/linroger036/image5_14kKkD2a_c.png)
+![image5](Attachments/image5.jpg)
 
 ## PAYOFFS FOR STOCKS AND BONDS
 
@@ -139,7 +139,7 @@ key_concepts:
 
    The payoff for a risk-free bond is different. Figure D shows the profit potential of a zero-coupon bond (one that makes no interest payments to the bondholder). As the line shows,  no matter how the [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) changes,  the bondholder only receives the principal value of the bond when the bond matures (in the figure,  the assumed [principal amount](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/HSBC-Auto%20callable%20Barrier%20Notes%20with%20Step-up%20Premium.md) is$60). Since the [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) has no impact on the bond value,  the line is flat.
 
-![image7](https://ik.imagekit.io/linroger036/image7_r9Vo1XPMZ5.png)
+![image7](Attachments/image7.jpg)
 
 ## PUT-CALL PARITY
 
@@ -149,7 +149,7 @@ key_concepts:
 
    As an alternative way of explaining [put-call parity](../../Financial%20Engineering/7.%20Black%20Scholes%20Model.md),  Figure E shows the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) [replication](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) argument graphically. It combines the payoffs of a long call option,  a short put option,  and a bond to form the stock payoff. In the graphs,  the line crosses the X-axis at the [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md),  K. First,  combining a call option and a short put option gives the straight line of the stock payoff chart. However,  relative to the stock payoff,  its payoff is everywhere lower by a value of K. If we add the bond payoff,  this then brings the whole line back up by K,  making the net payoff intersect the X and Y axes at the origin (the 0/0 intersection of the two axes).
 
-![image8](https://ik.imagekit.io/linroger036/image8_GQKoZiGP2f.png)
+![image8](Attachments/image8.jpg)
 
    Figure E [Put-Call Parity](../../Financial%20Engineering/7.%20Black%20Scholes%20Model.md)
 

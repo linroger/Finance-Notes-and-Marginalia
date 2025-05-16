@@ -45,7 +45,7 @@ $$\frac{S_{t+h}-S_t}{S_t}\approx\mu h+\sigma(W_{t+h}-W_t).$$
 
 Since $\sigma(W_{t+h}-W_t)\sim N(0, \sigma^2h)$, the histogram of $(S_{t+h}-S_t)/S_t$ should resemble a normal distribution with standard deviation $\sigma\sqrt{h}$ (It is called the $h$-day volatility.) To see it is indeed the case we have plotted the histograms for $h=1, 2, 3, 5, 7$ (days) in Figures 5.2 up to
 
-![500](https://storage.simpletex.cn/view/fyXTzNfy7qe06lCWR7MXM0MvD1yNUwLa0)
+![500](Attachments/500-101.png)
 
 Figure 5.1: KOSPI 200 from 2001. 1. 2 to 2011. 5. 18.
 
@@ -906,15 +906,15 @@ C_t-P_t &= B_tE_Q\left[\frac{X-Y}{B_T}\mid\mathcal{F}_t\right] \\
 &= S_t-Ke^{-r(T-t)}.
 \end{aligned}$$
 
-![500](https://storage.simpletex.cn/view/fGBEgFH5E0epsDaAgPHDchYPBMEQ6GPbP)
+![500](Attachments/500-98.png)
 
 Figure 5.10: Payoff of $C_T$
 
-![500](https://storage.simpletex.cn/view/frhZxzszm5UKG8cuIFVGYT1Tf2hQFANyC)
+![500](Attachments/500-97.png)
 
 Figure 5.11: Payoff of $P_T$
 
-![500](https://storage.simpletex.cn/view/f9gdkFwh2kmMpgtyWGmmx35dwyeM4wLFl)
+![500](Attachments/500-99.png)
 
 Figure 5.12: Payoff of $C_T-P_T$
 
@@ -948,34 +948,34 @@ $$\left\{\begin{array}{ll}
 
 ## Appendix
 
-![500](https://storage.simpletex.cn/view/fxa3qvEsXPO7Qs8VPL9RCWV58aT5hoSgE)
+![500](Attachments/500-102.png)
 
 Figure 5.2: 1-day percentage changes of KOSPI 200.
 
-![500](https://storage.simpletex.cn/view/finYmeh5KrRk00hXNNinUnSWnAR6QrNS2)
+![500](Attachments/500-103.png)
 
 Figure 5.3: 1-day percentage changes of KOSPI 200 with Normal Distribution Approximation.
 
-![500](https://storage.simpletex.cn/view/fYYVVnMOGDLqd7DnxwTWDGNnqSoNvdfoZ)
+![500](Attachments/500-107.png)
 
 Figure 5.4: 2-day percentage changes of KOSPI 200 with Normal Distribution Approximation
 
-![500](https://storage.simpletex.cn/view/fZ5QHYCkMIiQuSXoZGAky6lgqkXArY0x1)
+![500](Attachments/500-105.png)
 
 Figure 5.5: 3-day percentage changes of KOSPI 200 with Normal Distribution Approximation
 
-![500](https://storage.simpletex.cn/view/fnd0crhyxU1d7XtfIEiPf362chZcAN3ig)
+![500](Attachments/500-108.png)
 
 Figure 5.6: 5-day percentage changes of KOSPI 200 with Normal Distribution Approximation
 
-![500](https://storage.simpletex.cn/view/fnl2xNcDvTK1NKmWA17ISKSPgUGSCM5l3)
+![500](Attachments/500-104.png)
 
 Figure 5.7: 7-day percentage changes of KOSPI 200 with Normal Distribution Approximation.
 
-![500](https://storage.simpletex.cn/view/fPkeABOgRryFG7wRNgu2g3v2LFmGdPRDk)
+![500](Attachments/500-106.png)
 
 Figure 5.8: Overlaid normal distributions.
 
-![500](https://storage.simpletex.cn/view/fL4PBqggGIezYei4q2E6hEKAHuHFiSzXG)
+![500](Attachments/500-100.png)
 
 Figure 5.9: Change of the $h$-day Volatilities

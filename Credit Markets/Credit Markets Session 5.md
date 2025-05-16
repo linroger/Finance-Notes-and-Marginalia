@@ -36,6 +36,7 @@ key_concepts:
 ---
 
 # Credit Markets Session 5
+<<<<<<< HEAD
 1. [Capital Structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md)
 	- [Structural Approach](../Financial%20Engineering/8.%20Credit%20Modeling%20and%20Credit%20Derivatives.md) to [Credit Default Risk](.md)
 2. [Black-Scholes Model](../Financial%20Instruments/Black%20Scholes%20Derivation.md)
@@ -53,11 +54,31 @@ key_concepts:
 6. Cdos
 	- [Collateralized Debt Obligations](.md)
 	- [Synthetic Cdo Pricing](.md) / [Base Correlations](.md)
+=======
+1. [[Introduction to Corporate Finance|Capital Structure]]
+	- [[8. Credit Modeling and Credit Derivatives|Structural Approach]] to [[Credit Markets Session 5|Credit Default Risk]]
+2. [[Black Scholes Derivation|Black-Scholes Model]]
+	- Recap: [[Mathematical Modeling of Derivative Pricing|Black-Scholes]]
+3. [[Credit Markets Session 5|Merton Model]]
+	- [[Credit Markets Session 5|Structural Credit]] Models
+	- Fair Value of Equity
+	- Fair Value of Risky Bonds
+	- [[Credit Markets Session 5|Volatility Smiles]]
+4. [[Credit Markets Session 5|CS Strategies]]
+	- [[Introduction to Corporate Finance|Capital Structure]] Strategies
+	- [[Key Rates O1s Durations and Hedging|Hedging]] bonds against defaults
+5. Correlated Defaults
+	- Correlated defaults
+6. Cdos
+	- [[Credit Markets Session 5|Collateralized Debt Obligations]]
+	- [[Credit Markets Session 5|Synthetic Cdo Pricing]] / [[Credit Markets Session 5|Base Correlations]]
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 7. Q&A
 
 ## Reminder: E of a Corporation Structural Approach
 
 ![500](Z.%20Clippings/Credit%20Markets%20Session%205-20240506035225976.png)
+<<<<<<< HEAD
 
 Main idea: model interaction between components of the [capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) of a corporation
 
@@ -71,14 +92,35 @@ $$\left(K_t\right)_{t\geq0}, K_t\geq0 \tag{2}$$
 $$L_t=\frac{Liabilities}{Assets}=\frac{K_t}{A_t}\tag{3}$$
 
 - [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) can be obtained from corporate balance sheet details
+=======
+
+Main idea: model interaction between components of the [[Introduction to Corporate Finance|capital structure]] of a corporation
+
+- Assets value of corporation modeled by [[The Ornstein-Uhlenbeck (OU) Process|stochastic process]] 
+$$\left(A_t\right)_{t\geq0}, A_t>0 \tag{1}$$
+- Corporate Liabilities are known and denoted by 
+$$\left(K_t\right)_{t\geq0}, K_t\geq0 \tag{2}$$
+
+## Book Value of Equity and Leverage
+- [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] $L$ of the corporate [[Introduction to Corporate Finance|capital structure]] defined as
+$$L_t=\frac{Liabilities}{Assets}=\frac{K_t}{A_t}\tag{3}$$
+
+- [[Lecture 6-Leverage, Tail Risk, Volatility Products|Leverage]] can be obtained from corporate balance sheet details
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 - "Book Value of Equity" defined as "Assets - Liabilities"
 $$BVE_t=A_t-K_t=A_t\cdot(1-L_t)\tag{4}$$
 
 - Time horizon for credit default event given by maturity of liabilities
 
+<<<<<<< HEAD
 ## Reminder: [Black-Scholes](../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md) '73 Option Pricing Formulas
 
 - [Stock price process](Black-Scholes%20Model.md) $S_t$ follows [geometric Brownian motion](../Financial%20Instruments/Black%20Scholes%20Derivation.md) with constant drift $r$ and volatility $\sigma$ (under [risk neutral](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) measure)
+=======
+## Reminder: [[Mathematical Modeling of Derivative Pricing|Black-Scholes]] '73 Option Pricing Formulas
+
+- [[Black-Scholes Model|Stock price process]] $S_t$ follows [[Black Scholes Derivation|geometric Brownian motion]] with constant drift $r$ and volatility $\sigma$ (under [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|risk neutral]] measure)
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 $$\frac{dS_t}{S_t}=r\cdot dt+\sigma\cdot dW_t, S_0>0, \tag{5}$$
 $$S_t=S_0\cdot\exp\left[\left(r-\frac12\sigma^2\right)\cdot t+\sigma\cdot W_t\right].\tag{6}$$
 
@@ -90,15 +132,24 @@ $$\log\left(\frac{S_t}{S_0}\right)\sim\mathcal{N}\left[\left(r-\frac12\sigma^2\r
 ## Equation Breakdown
 $$\text{Call} (S_0, K, T, \sigma, r) = e^{-rT} \cdot \mathbb{E}[(S_T - K)^+ | \mathcal{F}_0]$$
 
+<<<<<<< HEAD
 - **$S_0$**: The initial [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) at time $t = 0$.
 - **$K$**: The [strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) of the option, i.e., the price at which the holder of the option can buy the stock at maturity.
 - **$T$**: The [time to maturity](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) of the option (in years).
 - **$\sigma$**: The volatility of the [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md), a measure of the amount by which the [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) is expected to fluctuate per year.
 - **$r$**: The [risk-free interest rate](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md), representing the time value of money.
+=======
+- **$S_0$**: The initial [[Chapter 16 - Black–Scholes Model|stock price]] at time $t = 0$.
+- **$K$**: The [[Call and Put Payoffs at Expiry|strike price]] of the option, i.e., the price at which the holder of the option can buy the stock at maturity.
+- **$T$**: The [[Hedging Strategies with Forwards|time to maturity]] of the option (in years).
+- **$\sigma$**: The volatility of the [[Chapter 16 - Black–Scholes Model|stock price]], a measure of the amount by which the [[Chapter 16 - Black–Scholes Model|stock price]] is expected to fluctuate per year.
+- **$r$**: The [[Exercises|risk-free interest rate]], representing the time value of money.
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 - **$\mathbb{E}[(S_T - K)^+ | \mathcal{F}_0]$**: The expected value of the payoff of the call option at maturity, conditioned on the filtration $\mathcal{F}_0$, which represents the information available at time $t = 0$.
 
 ## Payoff Function
 
+<<<<<<< HEAD
 The payoff of a European call option at maturity is given by $(S_T - K)^+$, where $x^+ = \max(x, 0)$. This means that the holder of the option will exercise it and benefit from the payoff if $S_T > K$ ([stock price at maturity](../Financial%20Instruments/Review%20Session%20Notes/Binomial%20Trees%20and%20Option%20Pricing%20MBA.md) exceeds the [strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md)), and will let it expire worthless otherwise.
 
 ## Risk-Neutral Valuation
@@ -108,11 +159,26 @@ The factor $e^{-rT}$ is used to discount the expected payoff back to present val
 ## Black-Scholes Formula
 
 The expected value $\mathbb{E}[(S_T - K)^+]$ is calculated under the assumption that the [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) follows a [geometric Brownian motion](../Financial%20Instruments/Black%20Scholes%20Derivation.md) under the [risk-neutral measure](../Financial%20Engineering/Verifying%20Martingale%20Property%20with%20Q.md). This leads to the [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) at time $T$, $S_T$, being log-normally distributed with:
+=======
+The payoff of a European call option at maturity is given by $(S_T - K)^+$, where $x^+ = \max(x, 0)$. This means that the holder of the option will exercise it and benefit from the payoff if $S_T > K$ ([[Binomial Trees and Option Pricing MBA|stock price at maturity]] exceeds the [[Call and Put Payoffs at Expiry|strike price]]), and will let it expire worthless otherwise.
+
+## Risk-Neutral Valuation
+
+The factor $e^{-rT}$ is used to discount the expected payoff back to present value, under the [[Verifying Martingale Property with Q|risk-neutral measure]]. In a [[Binomial Option Pricing Model|risk-neutral world]], all investors are assumed to earn at a rate of return equal to the [[Black Scholes Derivation|risk-free rate]] $r$, regardless of the [[An Asset Allocation Primer|investment]]'s risk. Thus, the [[Lecture 1- Probability Distributions of Returns|expected return]] of holding the stock is also $r$, and the expected growth rate of the stock under this measure is adjusted accordingly.
+
+## Black-Scholes Formula
+
+The expected value $\mathbb{E}[(S_T - K)^+]$ is calculated under the assumption that the [[Chapter 16 - Black–Scholes Model|stock price]] follows a [[Black Scholes Derivation|geometric Brownian motion]] under the [[Verifying Martingale Property with Q|risk-neutral measure]]. This leads to the [[Chapter 16 - Black–Scholes Model|stock price]] at time $T$, $S_T$, being log-normally distributed with:
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 $$S_T = S_0 e^{(r - \frac{1}{2} \sigma^2)T + \sigma \sqrt{T} Z}$$
 
 where $Z$ is a standard normal random variable.
 
+<<<<<<< HEAD
 The [Black-Scholes formula](.md) for a European call option can then be expressed as:
+=======
+The [[Credit Markets Session 5|Black-Scholes formula]] for a European call option can then be expressed as:
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 $$\text{Call}(S_0, K, T, \sigma, r) = S_0 N(d_1) - e^{-rT} K N(d_2)$$
 
 where:
@@ -121,15 +187,26 @@ where:
 - **$d_1 = \frac{\log(S_0/K) + (r + \sigma^2/2)T}{\sigma \sqrt{T}}$**
 - **$d_2 = d_1 - \sigma \sqrt{T}$**
 
+<<<<<<< HEAD
 This formula results from integrating the payoff function over the probability density function of $S_T$, using the properties of the log-normal distribution and the properties of [stochastic calculus](../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md).
+=======
+This formula results from integrating the payoff function over the probability density function of $S_T$, using the properties of the log-normal distribution and the properties of [[6. A Brief Introduction to Stochastic Calculus|stochastic calculus]].
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
 - Fair value price of European Call option with maturity T and strike K given by
 $$= S_0 \cdot \Phi (d_+) - e^{-r T} \cdot K \cdot \Phi (d_-), \tag{9}$$
 $$d_\pm = \frac{\log (S_0/K) + (r \pm \frac{1}{2}\sigma^2) \cdot T}{\sigma \cdot \sqrt{T}}\tag{10}$$
+<<<<<<< HEAD
 
 - Intuition behind option [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formulas
 	- use [risk-neutral measure](../Financial%20Engineering/Verifying%20Martingale%20Property%20with%20Q.md) $d\tilde{P}$ and stock-forward measure $d\tilde{P}_* = \frac{S_T}{S_0 e^{rT}} d\tilde{P}$ (via Girsanov transform):
 
+=======
+
+- Intuition behind option [[Arbitrage Pricing of Derivatives|pricing]] formulas
+	- use [[Verifying Martingale Property with Q|risk-neutral measure]] $d\tilde{P}$ and stock-forward measure $d\tilde{P}_* = \frac{S_T}{S_0 e^{rT}} d\tilde{P}$ (via Girsanov transform):
+
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 $$\begin{align}
 \text{Call} (S_0, K, T, \sigma, r) &= e^{-rT} \cdot \mathbb{E} \left[(S_T - K)^+ \mid \mathcal{F}_0 \right] \tag{11} \\
 &= e^{-rT} \cdot \mathbb{E} \left[ (S_T - K) \cdot \mathbb{1}_{\{S_T > K\}} \mid \mathcal{F}_0 \right] \\
@@ -155,7 +232,11 @@ $$\begin{align}
 
    $$= e^{-rT} \cdot \mathbb{E} \left[\frac{S_T}{S_0} \cdot \mathbb{1}_{\{S_T > K\}} \mid \mathcal{F}_0 \right]$$
 
+<<<<<<< HEAD
 	- **Explanation**: This differentiation assumes $S_T$ is functionally dependent on $S_0$, which under the [Black-Scholes model](../Financial%20Instruments/Black%20Scholes%20Derivation.md), it is. Thus, $\frac{\partial S_T}{\partial S_0} = \frac{S_T}{S_0}$.
+=======
+	- **Explanation**: This differentiation assumes $S_T$ is functionally dependent on $S_0$, which under the [[Black Scholes Derivation|Black-Scholes model]], it is. Thus, $\frac{\partial S_T}{\partial S_0} = \frac{S_T}{S_0}$.
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
 4. **Simplifying to Risk-Neutral Probability**:
    $$= \mathbb{P}(S_T > K \mid \mathcal{F}_0)\tag{15}$$
@@ -163,6 +244,7 @@ $$\begin{align}
 5. **Final Delta Expression Using Cumulative Normal Distribution**:
    $$= \Phi(d_+)\tag{16}$$
    $$ d_1 = \frac{\log(S_0/K) + (r + \frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}$$
+<<<<<<< HEAD
 	- $\Phi$ represents the cumulative [distribution function](../Financial%20Engineering/Verification%20of%20Central%20Limit%20Theorem.md) of the [standard normal distribution](../Financial%20Engineering/Verification%20of%20Central%20Limit%20Theorem.md).
 
 ## Recovering the Market Implied Distribution of $S_T$
@@ -171,6 +253,16 @@ $$\begin{align}
 
 ## Recovering the Market Implied Distribution of $S_T$
 1. **Intuition behind option [delta hedging](../Financial%20Instruments/Financial%20Instruments.md):**
+=======
+	- $\Phi$ represents the cumulative [[Verification of Central Limit Theorem|distribution function]] of the [[Verification of Central Limit Theorem|standard normal distribution]].
+
+## Recovering the Market Implied Distribution of $S_T$
+- **Implied [[Verification of Central Limit Theorem|Distribution Function]]**:
+	- The statement about the implied distribution refers to the model-independent cumulative [[Verification of Central Limit Theorem|distribution function]] $\mathbb{P}(S_T \leq K \mid \mathcal{F}_0)$. This function can be derived by evaluating how market prices of options (both calls and puts) across various strike prices $K$ reflect the cumulative probabilities under the [[Verifying Martingale Property with Q|risk-neutral measure]]. This method involves using the Breeden-Litzenberger identity which expresses that the second derivative of option prices with respect to strike prices provides the density function under the [[Verifying Martingale Property with Q|risk-neutral measure]].
+
+## Recovering the Market Implied Distribution of $S_T$
+1. **Intuition behind option [[Financial Instruments|delta hedging]]:**
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 $$\Delta \text{Call} (S_0, K, T, \sigma, r) = \frac{\partial}{\partial S_0} \left\{ e^{-rT} \mathbb{E}[(S_T - K)^+ \mid \mathcal{F}_0] \right\}$$
 $$ = e^{-rT} \mathbb{E} \left[\frac{\partial}{\partial S_0} (S_T - K)^+ \mid \mathcal{F}_0 \right]$$
 $$= e^{-rT} \mathbb{E} \left[\frac{S_T}{S_0} \mathbf{1}_{\{S_T > K\}} \mid \mathcal{F}_0 \right] = \mathbb{P}^* [S_T > K \mid \mathcal{F}_0] = \Phi(d_+)$$
@@ -194,7 +286,11 @@ $$= A_0 \Phi(d_+) - e^{-rT} K \Phi(d_-), \quad d_{\pm} = \frac{\log(A_0/K) + (r 
 Is the market implied distribution of $S_T$ log-normal with constant volatility σ? Not really...
 
 ## Structural Credit Default Model: Merton '74 Extension
+<<<<<<< HEAD
 - At time horizon $T$, the firm has the [contractual obligation](../Clippings/Forward%20Rate.md) to liquidate the assets and repay the fixed liabilities $K_T = K$
+=======
+- At time horizon $T$, the firm has the [[Forward Rate|contractual obligation]] to liquidate the assets and repay the fixed liabilities $K_T = K$
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 - No refinancing of debt is allowed!
 - Credit default triggered if value of assets $A_T$ is below liabilities $K$ (Book Value of Equity < 0) at time horizon $T$
 - Equity investors have limited liability, so their payout at T is
@@ -207,9 +303,15 @@ Is the market implied distribution of $S_T$ log-normal with constant volatility 
 ![500](Z.%20Clippings/Credit%20Markets%20Session%205-20240506035320204.png)
 
 ## Credit Default Event
+<<<<<<< HEAD
 - Constant [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) $r$
 - Constant asset volatility $\sigma_A$
 - Asset value process $A_t$ follows a [geometric Brownian motion](../Financial%20Instruments/Black%20Scholes%20Derivation.md) with drift (under [risk neutral](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) measure)
+=======
+- Constant [[Interest Rate Quotations|interest rates]] $r$
+- Constant asset volatility $\sigma_A$
+- Asset value process $A_t$ follows a [[Black Scholes Derivation|geometric Brownian motion]] with drift (under [[Teaching Note 7-Exotic Options And Derivative Pricing By Monte Carlo Simulation|risk neutral]] measure)
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 	- $$\frac{dA_t}{A_t} = r \cdot dt + \sigma_A \cdot dW_t, A_0 > 0\tag{20}$$
 	- $$A_t = A_0 \cdot \exp \left[\left(r - \frac{1}{2} \sigma_A^2 \right) \cdot t + \sigma_A \cdot W_t \right]\tag{21}$$
 - Default time $\tau$ is discrete and given by
@@ -224,7 +326,11 @@ Is the market implied distribution of $S_T$ log-normal with constant volatility 
 
 ## Equity Fair Value
 - Fair Value of equity computed from the equity payout function
+<<<<<<< HEAD
 - ... via [Black-Scholes](../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md)-[Merton](.md) risk-neutral valuation formula
+=======
+- ... via [[Mathematical Modeling of Derivative Pricing|Black-Scholes]]-[[Credit Markets Session 5|Merton]] risk-neutral valuation formula
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
 $$\begin{aligned}
 &E_0=e^{-r\cdot T}\cdot\mathbb{E}\left[\left(A_T-K\right)^+\left|\mathcal{F}_0\right]\right. && (23) \\
@@ -245,13 +351,21 @@ B_0 &= e^{-r\cdot T}\cdot\mathbb{E}\left[\min\left(K, A_T\right)|\mathcal{F}_0\r
 &= A_0\cdot\Phi\left(-d_+\right)+e^{-r\cdot T}\cdot K\cdot\Phi\left(d_-\right).
 \end{aligned}$$
 
+<<<<<<< HEAD
 - [Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) relationship holds ([Modigliani](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Liquidity%20Preference%20Market%20Segmentation%20and%20P.md)-Miller theorem):
+=======
+- [[Arbitrage Pricing of Derivatives|Arbitrage]] relationship holds ([[Liquidity Preference Market Segmentation and P|Modigliani]]-Miller theorem):
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 	- $$A_0 = B_0 + E_0\tag{26}$$
 
 ![500](Z.%20Clippings/Credit%20Markets%20Session%205-20240506035543887.png)
 
 ## Survival and Default Probabilities for Time Horizon $T$
+<<<<<<< HEAD
 - [Survival Probability](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/A%20Poisson%20Model%20of%20Single%20Issuer%20Default.md) computed as 
+=======
+- [[A Poisson Model of Single Issuer Default|Survival Probability]] computed as 
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 $$SP(0, T)=\mathbb{P}\left[\tau>T|\mathcal{F}_0\right]\\=\mathbb{P}\left[A_T>K|\mathcal{F}_0\right]\\=\Phi\left(d_-\right).\tag{27}$$
 - Default Probability computed as
 $$DP(0, T)=1-SP(0, T)=1-\Phi\left(d_-\right)\\=\Phi\left(-d_-\right).\tag{28}$$
@@ -272,7 +386,11 @@ SP(0, T) &= \Phi(DD) \tag{32}
 - Yield of risky bond is given by
 $$y_0=-\frac{\log\left(B_0/K\right)}{T}\tag{33}$$
 $$=-\frac1T\cdot\log\left(L_0^{-1}\cdot\Phi\left(-d_+\right)+e^{-r\cdot T}\cdot\Phi\left(d_-\right)\right)$$
+<<<<<<< HEAD
 - [Credit spread](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md) of risky bond ("yield-risk free rate")
+=======
+- [[Cds-Equivalent Bond Spread|Credit spread]] of risky bond ("yield-risk free rate")
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 $$s_0=y_0-r=-\frac1T\cdot\log{(B_0/K)}-r$$
 $$=-\frac1T\cdot\log\left(e^{r\cdot T}\cdot L_0^{-1}\cdot\Phi\left(-d_+\right)+\Phi\left(d_-\right)\right)\tag{34}$$
 
@@ -289,7 +407,11 @@ $$\begin{aligned}
 ![500](Credit%20Markets%20Session%205-20240508035457245.png)
 
 ## Expected Recovery on Default Equity vs. Assets Volatilities
+<<<<<<< HEAD
 - We apply [Ito's lemma](Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito's%20Lemma) to the equity price:
+=======
+- We apply [[Determining the Stochastic Process for a Forward Contract from Ito's Lemma|Ito's lemma]] to the equity price:
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 $$\frac{dE_t}{E_t}=\frac{1}{E_t}\cdot\frac{\partial E}{\partial A}\left(A_t, K\right)\cdot dA_t+\ldots\tag{36}$$
 $$=\frac{A_t}{E_t}\cdot \text{DeltaCall}\left(A_t, K\right)\cdot\sigma_{A}\cdot dW_t+\ldots$$
 $$=\frac{A_t}{E_t}\cdot\Phi\left(d_{+}\right)\cdot\sigma_{A}\cdot dW_t+\ldots$$
@@ -304,9 +426,15 @@ $$\sigma_{E}=\frac{A_{0}}{E_{0}}\cdot\Phi\left(d_{+}\right)\cdot\sigma_{A}.\tag{
 Intuitive explanation: when asset prices change, equity price and equity volatility move in opposite directions 
 $$\frac{\partial E}{\partial A}=\text{DeltaCall}>0\tag{38}$$,
 $$\frac{\partial\sigma_{E}}{\partial A}\approx-\frac{L\cdot A}{E^{2}}\cdot \text{DeltaCall}\cdot\sigma_{A}<0\tag{39}$$
+<<<<<<< HEAD
 
 Correlation between equity price and equity vol changes is negative and dependent on company [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) parameter $L$
 
+=======
+
+Correlation between equity price and equity vol changes is negative and dependent on company [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] parameter $L$
+
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 Zero-correlation case obtain only for un-leveraged companies only (when Assets = Equity)
 
 ## Equity Option Valuation
@@ -324,12 +452,21 @@ $$=e^{-r\cdot t}\cdot\mathbb{E}\left[\left(\text{Call}\left(A_{t}, K, T-t, \sigm
 Value obtained by 1-dimensional integration of the call function vs the log-normal density of $A_{t}$.
 
 ## Implied Volatility Surfaces
+<<<<<<< HEAD
 - Classic [Black-Scholes model](../Financial%20Instruments/Black%20Scholes%20Derivation.md) assumes constant [stock price volatility](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Black-Scholes%20Model%20and%20Extensions.md) (flat across strikes and maturities)
 - [Implied Volatility](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) Surfaces observed in the market are not flat, they exhibit "vol skew" + "vol smile"
 - Equity volatilities in the [Capital Structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) model are stochastic and generate implied vol surfaces similar to ones observed in the market
 - This is due to:
 	- the equity volatility [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) effect (equity down ⇒ vol up) and
 	- the "fat tails" of the equity price distribution (caused by non-zero company [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md))
+=======
+- Classic [[Black Scholes Derivation|Black-Scholes model]] assumes constant [[Black-Scholes Model and Extensions|stock price volatility]] (flat across strikes and maturities)
+- [[A Real-Life Option Pricing Exercise|Implied Volatility]] Surfaces observed in the market are not flat, they exhibit "vol skew" + "vol smile"
+- Equity volatilities in the [[Introduction to Corporate Finance|Capital Structure]] model are stochastic and generate implied vol surfaces similar to ones observed in the market
+- This is due to:
+	- the equity volatility [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]] effect (equity down ⇒ vol up) and
+	- the "fat tails" of the equity price distribution (caused by non-zero company [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]])
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
 ## Equity Volatility Surface in Structural Credit Model
 
@@ -338,32 +475,57 @@ Value obtained by 1-dimensional integration of the call function vs the log-norm
 ## Modern Capital Structure Arbitrage Models
 
 Inputs:
+<<<<<<< HEAD
 - [Term structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) of risk-free [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)
 - Detailed assets and ([term structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) of) liabilities information from the balance sheet of a company
+=======
+- [[The Vasicek Model|Term structure]] of risk-free [[Interest Rate Quotations|interest rates]]
+- Detailed assets and ([[The Vasicek Model|term structure]] of) liabilities information from the balance sheet of a company
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 - Equity market prices
 - Equity [volatility surface](../Financial%20Engineering/7.%20Black%20Scholes%20Model.md)
 
 Outputs:
+<<<<<<< HEAD
 - Implied Asset value levels and volatilities (via [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md))
 - Model implied probabilities of default to various maturities / "Distance to Default" metrics
 - Implied prices for CDS and risky [Corporate Bonds](../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) (hazard rate curve)
+=======
+- Implied Asset value levels and volatilities (via [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]])
+- Model implied probabilities of default to various maturities / "Distance to Default" metrics
+- Implied prices for CDS and risky [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] (hazard rate curve)
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 - Implied prices for convertible bonds
 
 ## Inverse Capital Structure Arbitrage Models
 
 Inputs:
+<<<<<<< HEAD
 - [Term structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) of risk-free [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)
 - Detailed assets and ([term structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) of) liabilities information from the balance sheet of a company
+=======
+- [[The Vasicek Model|Term structure]] of risk-free [[Interest Rate Quotations|interest rates]]
+- Detailed assets and ([[The Vasicek Model|term structure]] of) liabilities information from the balance sheet of a company
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 - Equity market prices
 - Market prices for CDS and risky [Corporate Bonds](../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) (hazard rate curve)
 
 Outputs:
+<<<<<<< HEAD
 - Implied Asset value levels and volatilities (via [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md))
 - Credit Implied equity [volatility surface](../Financial%20Engineering/7.%20Black%20Scholes%20Model.md) / model implied prices for all equity options
 
 ## Capital Structure Arbitrage Strategy: Main Idea
 - Identify dislocations across the [capital structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) of a company
 - Monetize dislocations via credit vs equity vs options "[Capital Structure](../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) [Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)" trades
+=======
+- Implied Asset value levels and volatilities (via [[Lecture 6-Leverage, Tail Risk, Volatility Products|leverage]])
+- Credit Implied equity [[7. Black Scholes Model|volatility surface]] / model implied prices for all equity options
+
+## Capital Structure Arbitrage Strategy: Main Idea
+- Identify dislocations across the [[Introduction to Corporate Finance|capital structure]] of a company
+- Monetize dislocations via credit vs equity vs options "[[Introduction to Corporate Finance|Capital Structure]] [[Arbitrage Pricing of Derivatives|Arbitrage]]" trades
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 - Trade examples
 	- Risky bonds & CDS vs equity
 	- Risky bond & CDS vs equity options
@@ -391,12 +553,21 @@ Outputs:
 - Negative/Default Scenario PnL analysis
 	- bond price drops to recovery value R
 	- option price increases to k
+<<<<<<< HEAD
 - If equity and vol markets are dislocated from [credit markets](Credit%20Markets%20Session%201.md): we can construct an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), with positive PnL outcomes in both scenarios!
 
 ## Idiosyncratic vs. Systematic/Market Risks
 - Main idea: decompose the Gaussian [risk factors](../Financial%20Instruments/Assignments/PSET%206-%20Financial%20Instruments.md) $W^i$ driving the company assets $A^i$ into
 	- idiosyncratic risk $Z_i$ (specific for company $i$) and
 	- systematic/[market risk](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md) $X$ (common to all companies)
+=======
+- If equity and vol markets are dislocated from [[Credit Markets Session 1|credit markets]]: we can construct an [[Arbitrage Pricing of Derivatives|arbitrage]] [[An Asset Allocation Primer|portfolio]], with positive PnL outcomes in both scenarios!
+
+## Idiosyncratic vs. Systematic/Market Risks
+- Main idea: decompose the Gaussian [[PSET 6- Financial Instruments|risk factors]] $W^i$ driving the company assets $A^i$ into
+	- idiosyncratic risk $Z_i$ (specific for company $i$) and
+	- systematic/[[Chapter 5 - Index Futures|market risk]] $X$ (common to all companies)
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 - The portion of systematic/market factor risk in $W^i_t$ (and $A^i_t$) controlled via Gaussian correlation coefficient $\rho^i$:
 $$\text{Corr}\left(W_{T}^{i}, X\right)=\rho_{i}\in[-1, 1]\tag{42}$$
 $$W_{T}^{i}=\sqrt{T}\cdot\left(\sqrt{1-\rho_{i}^2}\cdot Z^{i}+\rho_{i}\cdot X\right)\tag{43}$$
@@ -423,7 +594,11 @@ $$= \mathbb{P} \left[Z^i < \frac{d'_i - \rho_i \cdot x}{\sqrt{1-\rho^2_i}} \righ
 ## Correlated Defaults Measuring Joint Credit Defaults
 - Conditional on $X$, default times $\tau_i$ are independent, hence
 $$\mathbb{P}\left[\tau_{i}>T, \tau_{j}>T|X=x\right]=p_{x}^{i}\cdot p_{x}^{j}\tag{54}$$
+<<<<<<< HEAD
 - Joint credit survival/[default probabilities](Credit%20Markets%20Session%203.md) ($\varphi=\Phi^{\prime}$):
+=======
+- Joint credit survival/[[Credit Markets Session 3|default probabilities]] ($\varphi=\Phi^{\prime}$):
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 $$\mathbb{P}\left[\tau_{i}>T, \tau_{j}>T\right]\tag{55}$$
 $$=\int_{-\infty}^{\infty}\mathbb{P}\left[\tau_{i}>T, \tau_{j}>T|X=x\right]\cdot\varphi\left(x\right)dx\tag{56}$$
 $$=\int_{-\infty}^{\infty}p_{x}^{i}\cdot p_{x}^{j}\cdot\varphi\left(x\right)dx\tag{57}$$
@@ -446,7 +621,11 @@ $$L_{T}=\frac{(1-R)}{n}\cdot\sum_{i=1}^{n}\mathbb{I}_{\{\tau_{i}\leq T\}}\tag{59
 - Conditional default events are independent and Bernoulli distributed
 $$\mathbb{I}_{\{\tau_{i}\leq T\}}|X=x\sim\text{Bernoulli}\left(1-p_{x}\right)\tag{60}$$
 
+<<<<<<< HEAD
 Therefore, their sum follows the [Binomial](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) distribution
+=======
+Therefore, their sum follows the [[A Real-Life Option Pricing Exercise|Binomial]] distribution
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 $$\sum_{i=1}^{n}\mathbb{1}_{\{\tau_{i}\leq T\}}|X=x\sim \text{Binomial}\left(n, 1-p_{x}\right), \tag{61}$$
 $$\mathbb{P}\left[\sum_{i=1}^{n}\mathbb{1}_{\{\tau_{i}\leq T\}}=k|X=x\right]=\binom{n}{k}\cdot\left(1-p_{x}\right)^{k}\cdot p_{x}^{n-k}\tag{62}$$
 
@@ -486,7 +665,11 @@ $$=\int_{-\infty}^{\infty}\binom{n}{k}\cdot\left(1-p_{x}\right)^{k}\cdot p_{x}^{
 	- d is the detachment point of the tranche,
 	- a and d are expressed in % of the underlying pool notional
 - Cumulative portfolio cash-flows, both coupons and losses, are assigned to tranche cash-flows via "waterfall" logic
+<<<<<<< HEAD
 - CDO [fixed leg](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) pays the contractual coupon c on the outstanding Tranche notional (adjusted for defaults)
+=======
+- CDO [[Pricing Interest Rate Swaps|fixed leg]] pays the contractual coupon c on the outstanding Tranche notional (adjusted for defaults)
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 - Tranche detachment points are adjusted for realized defaults
 
 ## Synthetic CDX IG Index Tranches
@@ -515,7 +698,11 @@ $$L_{i}=\frac{1}{n}\cdot(1-R_{i})\, , i=1..n\tag{66}$$
 $$L_{t}=\frac{1}{n}\cdot\sum_{i=1}^{n}\left(1-R_{i}\right)\mathbb{1}_{\{\tau_{i}\leq t\}}, \, L_{0}=0\tag{67}$$
 - Cumulative losses in the [a, d] tranche at time $t \in [0, T]$
 $$L_{t}^{[a, d]}=\left(L_{t}-a\right)^{+}-\left(L_{t}-d\right)^{+}=L_{t}^{[0, d]}-L_{t}^{[0, a]}\tag{68}$$
+<<<<<<< HEAD
 - Notice that $L_{t}^{[a, d]}, t \leq T$ is a discrete jump process paying the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) losses within the $[a, d]$ tranche until maturity $T$
+=======
+- Notice that $L_{t}^{[a, d]}, t \leq T$ is a discrete jump process paying the [[An Asset Allocation Primer|portfolio]] losses within the $[a, d]$ tranche until maturity $T$
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 - Maximum loss on [a, d] tranche is d − a (tranche "wipe-out")
 
 ## CDO "Waterfall" Logic for Tranche Premium Leg
@@ -528,7 +715,11 @@ $$C_{k}^{[a, d]}=c\cdot\Delta T_{k}\cdot \mathcal{N}_{T_{k}}^{[a, d]}=c\cdot\Del
 
 ## CDO [a, d] Tranche Pricing: Premium Leg
 
+<<<<<<< HEAD
 Present Value Of Premium/[Fixed Leg](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) Is Given By
+=======
+Present Value Of Premium/[[Pricing Interest Rate Swaps|Fixed Leg]] Is Given By
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 $$PV_{CDO\_PL}(0)=\mathbb{E}\left[\sum_{k=1}^{K}DF(0, T_{k})\cdot c\cdot\Delta T_{k}\cdot \mathcal{N}_{T_{k}}^{[a, d]}\right].\tag{71}$$
 $$=c\cdot\sum_{k=1}^{K}DF(0, T_{k})\cdot\Delta T_{k}\cdot\mathbb{E}\left[\mathcal{N}_{T_{k}}^{[a, d]}\right]\tag{72}$$ 
 $$=c\cdot\sum_{k=1}^{K}DF(0, T_{k})\cdot\Delta T_{k}\cdot\left(d-a-\mathbb{E}\left[L_{T_{k}}^{[a, d]}\right]\right)\tag{73}$$
@@ -547,11 +738,19 @@ $$\mathbb{E}\left[L_{T_{k-1}}^{[a, d]}\right]=\mathbb{E}\left[\left(L_{T_{k}}-a\
 - Convert the market prices for mezzanine and senior tranches into "equity equivalent" tranches (tranche linearity)
 - Calibrate the "base" tranche correlations $\rho_i$ matching the prices of "equity equivalent" tranches
 - The calibrated "base" correlations are used as market convention for quoting CDO tranches
+<<<<<<< HEAD
 - Observation: the "base" correlation model for [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) CDOs is not consistent for mezzanine and senior tranches!
 
 ## CDOs in the GFC (2008-2009) Financial Crisis
 - During the GFC (2008-2009) [financial crisis](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Letter.md), various pools underlying CDO contracts experienced realized defaults. In particular, pools consisting of mortgage and [asset backed securities](../Financial%20Engineering/Derivatives/Part%20X%20-%20Credit%20Derivatives/Chapter%2043%20-%20Securitisation,%20ABSs%20and%20CDOs.md) were severely impacted in the real estate crisis
 - Synthetic CDOs linked to CDX IG and HY (North America) indices also experienced unprecedented [default rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md)
+=======
+- Observation: the "base" correlation model for [[Arbitrage Pricing of Derivatives|pricing]] CDOs is not consistent for mezzanine and senior tranches!
+
+## CDOs in the GFC (2008-2009) Financial Crisis
+- During the GFC (2008-2009) [[Squam Lake Group Letter|financial crisis]], various pools underlying CDO contracts experienced realized defaults. In particular, pools consisting of mortgage and [[Chapter 43 - Securitisation, ABSs and CDOs|asset backed securities]] were severely impacted in the real estate crisis
+- Synthetic CDOs linked to CDX IG and HY (North America) indices also experienced unprecedented [[Default Rates Recovery Rates and Credit Losses|default rates]]
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 - In many cases, investors in senior (AA) and super-senior (AAA) tranches were partially wiped out!
 - Failures of understanding risks were amplified by the market-wide use of an inconsistent, non-realistic CDO model:
 	- Gaussian correlation models do not cover properly "fat tail" risks/"clustering" of defaults events!
@@ -588,6 +787,10 @@ $$\begin{array}{l}\text{BondPayout}=A_{T}-\text{EquityPayout}\\ =K-(K-A_{T})^{+}
 ### First Passage Time Model: Pricing Formulas
 - Fair value of equity priced as an down-and-out Call option on the assets value with strike $K$, barrier $D$ and maturity $T$
 $$E_{0}=e^{-r\cdot T}\cdot\mathbb{E}\left[(A_{T}-K)^{+}\cdot\mathbb{I}_{\{A_{T}^{*}\geq D\}}|\mathcal{F}_{0}\right]\tag{83}$$
+<<<<<<< HEAD
 - Price is known explicitly in the [Black-Scholes](../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md) framework ("down-an-out" barrier option)
+=======
+- Price is known explicitly in the [[Mathematical Modeling of Derivative Pricing|Black-Scholes]] framework ("down-an-out" barrier option)
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 - Fair value of risky bond derived from equity price 
 - Fair value of a risky bond higher in "first passage time model" vs. "classical structural model", due to additional value from the barrier option

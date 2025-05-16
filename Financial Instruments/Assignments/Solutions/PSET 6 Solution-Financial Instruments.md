@@ -25,14 +25,14 @@ key_concepts:
 From the CBOE site I extract options prices with expiration of February 21, 2024 and compute “mid" prices as an average of [bid and ask](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md). To compute the [Black-Scholes](../../../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md)-[Merton](../../../Credit%20Markets/Credit%20Markets%20Session%205.md) (BSM) [implied volatility](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) I need the maturity,  the continuously compounded risk free rate $7^{\prime}$ and the continuously compounded dividend yield $y$.Let $T=0.35$ (365 days in a year and 129 days to maturity). From the Federal Reserve website the annually compounded 3 months constant maturity rate was $r_{1}(0.25)=5.43\%$ on February 12 (some interpolation could be done here. Any reasonable extraction is fine!). Converting this to [continuous compounding](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) units gives $r(0.25)=ln\left(1+r_{1}(0.25)/4\right)\times4=5.39\%$ From Robert Shiller's dataset,  the January 2021 to June 2023 average dividend yield (annually compounded) was equal to $y_{1}=1.51\%$,  which,  converted into [continuous compounding](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) units,  gives $y=1.50\%$
 
 The BSM [implied volatility](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) is computed using solver (I use Matlab,  but Excel does exactly the same calculation but takes a bit more time unless you know how to use macros). The results are shown Figure 1 for moneyness from 08 to 1.1
-![500](https://storage.simpletex.cn/view/ffMHqDneUe4RChbbs3wR1amsNgtdhR6Fs)
+![500](Attachments/500-136.png)
 
 Figure 1: [Implied volatility](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) for June 21,  2024 S&P500 call and call options
 
 As you can see the volatility is not constant.but it is decreasing with the monevness of the option (as in the Figure from Teaching Note 6).
 
 The [PLUS security](../PSET%206-%20Financial%20Instruments.md) has one-year to maturity with embedded call options so it would be nice to have [implied volatility](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) for a one-year maturity. I use the February 2025 options (maturity of 12 months) (don't worry if you didn't do this!). [Implied volatility](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) from the June 2024 and February 2025 call options with $r(1)=4.8\%$ (from the one-year constant maturity yield) are show in Figure 2.
- ![500](https://storage.simpletex.cn/view/f4FFtsCbYoOuN2Us9Tx7prGBVrbHBbWz4)
+ ![500](Attachments/500-138.png)
 
 Figure 2: [Implied volatility](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) for June 2024 and February 2025 S&P500 call options
 
@@ -46,7 +46,7 @@ Starting with $S_{T}\leq S_{0}$,  this is just a [long position](../../../Financ
 
 Finding the payoff for the case when $S_{T}>S_{0}$ is simpler than it first appears. The trick is to plot the payoff and to analyze the chart to determine the basic securities. Figure 3 gives the PLUS payoff for different values of $S_{T}$
 
- ![500](https://storage.simpletex.cn/view/fBaxKw6vDpLqho5CNS2tfWazQ28oV0xsI)
+ ![500](Attachments/500-134.png)
 
 Figure 3: PLUS payoff decomposition
 We see that there are two points where the slope changes. The first point is $S_{0}$ while the second is where:
@@ -107,7 +107,7 @@ The [PLUS security](../PSET%206-%20Financial%20Instruments.md) is long $e^{-y}N$
 	- Changing this value implicitly changes the [strike price](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md),  $K_{1}$,  of the OTM option.
 	- The value of $C$ that sets the [PLUS security](../PSET%206-%20Financial%20Instruments.md) value to $\$10$ is $C=11.61$ implying a value of $K_{1}^{\prime}=5, 268.42$.
 	- By decreasing $C$ the upside potential of the security is decreased as shown in Figure (4).
- ![500](https://storage.simpletex.cn/view/fGMyMqmUhp9w1GvfRSbvGmQ2EwR4Hikpq)
+ ![500](Attachments/500-135.png)
 Figure 4: PLUS payoff change with $C=11.61$
 
 (2) The sensitivity of the PLUS to changes in the underlying is given by
@@ -133,10 +133,10 @@ which is less than 1. At the current level of the S&P500 the security is less ri
 Computing the value of beta for different values of S (keeping the same impliec volatilities used to compute option prices)and for different times to maturity(see Figure 5)，we see that as we approach maturity,  the beta of the PLUS increases substantially in the region between $S_{0}$ and $K_{1}$
 
 This happens because between $S_{0}$ and $K_{1}$ the [PLUS security](../PSET%206-%20Financial%20Instruments.md) is a leveraged [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) (the slope of the payoff increases in that region since the at the money option becomes in the money).In may be helpful to see how the value of the security changes when the value of the underlying changes at different points in time. This is shown in Figure 6.
- ![500](https://storage.simpletex.cn/view/fVxbI04IrEmodiRsPg8SrO1QQAOO0aALB)
+ ![500](Attachments/500-133.png)
 
 Figure 5: PLUS beta for different values of $S$ and $t$
 
- ![500](https://storage.simpletex.cn/view/feu7aq8BzE5SgvO1muvkL2ihVHwYIq8yk)
+ ![500](Attachments/500-137.png)
 
 Figure 6:PLUS value for different values of S and $t$

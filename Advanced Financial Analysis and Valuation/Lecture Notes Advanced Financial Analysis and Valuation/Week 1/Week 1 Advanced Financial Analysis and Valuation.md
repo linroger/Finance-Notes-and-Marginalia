@@ -33,8 +33,14 @@ key_concepts:
 %% Begin Waypoint %%
 
 - **Week 1 Advanced Financial Analysis and Valuation**
+<<<<<<< HEAD
   - [Week 1 Introduction to Financial Analysis](Week%201%20Introduction%20to%20Financial%20Analysis.md)
   - [Week 1 Market Efficiency](Week%201%20Market%20Efficiency.md)
   - [Week 1 Ratio Analysis + Valuation Review](Week%201%20Ratio%20Analysis%20+%20Valuation%20Review.md)
+=======
+  - [[Week 1 Introduction to Financial Analysis]]
+  - [[Week 1 Market Efficiency]]
+  - [[Week 1 Ratio Analysis + Valuation Review]]
+>>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
 %% End Waypoint %%

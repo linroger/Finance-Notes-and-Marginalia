@@ -46,7 +46,7 @@ Booth School of Business
 - Given that $u=e^{\sigma\sqrt T}=1.34986$,  the price of any derivative security with payoff $V(S_{1})$ can be computed as:$$V_0=E^*\left[e^{-rT}V(S_1)\right]=e^{-rT}\left[q^*V(S_{1,          u})+(1-q^*)V(S_{1,          d})\right]$$
 
 - For instance,  a call option has price given by
-![Image](https://storage.simpletex.cn/view/fggSV0S4U88gX3659uLg38kS5HVFXGaWy)
+![Image](Attachments/Image-2.png)
 
 ### Monte Carlo Simulations on the Risk Neutral Trees
 - An alternative way of computing the expected future payoff is to simulate up and down movements using a computer.
@@ -116,7 +116,7 @@ $$\mathrm{Confidence~Interval}=[\widehat{V}_{0}-2\times s.e.,          \widehat{
 ## Monte Carlo Simulations on the Multi-Step Risk Neutral Trees
 - The same logic applies to multi-step trees.
 - Consider a two-step tree,  with the same parameters.
-![Image](https://storage.simpletex.cn/view/fTb1ZdZap8wyaRX02WTkyGHR5nsdLh13W)
+![Image](Attachments/Image-1.png)
 - Again,  the value of any derivative security with payoff $V(S_{2})$ is given by:$$V(S)=E^*[e^{-rT}V(S_2)]$$
 
 ## Monte Carlo Simulations on the Multi-Step Risk Neutral Trees
@@ -154,15 +154,15 @@ RAND 1 & Move Tree On & RAND 2 & Move Tree On & Price at T & Payoff & Discounted
 
 ## Monte Carlo Simulations on the Multi-Step Risk Neutral Trees
 - A 10-step tree is as follows:
-![Image](https://storage.simpletex.cn/view/fcvdWTQosUb9w9KDWXD52ZpIMMzDvepz2)
+![Image](Attachments/Image-8.png)
 
 ## Monte Carlo Simulations on the Multi-Step Risk Neutral Trees
 - 10 simulated paths are given by (the price in the table refers to $N=1000$ though).
-![Image](https://storage.simpletex.cn/view/fihh5QR9OoK96wP53qOoiRH63NKQ1Bn62)
+![Image](Attachments/Image-9.png)
 
 ## Monte Carlo Simulations on the Multi-Step Risk Neutral Trees
 - The simulation paths are (they look like a tree,  with missing branches).
-![Image](https://storage.simpletex.cn/view/fgz938H6uxGQuiax3gRWzMqMYniqvQG5W)
+![Image](Attachments/Image-3.png)
 
 ## Why Monte Carlo Simulations?
 - Why do we need [Monte Carlo](.md) Simulations on the tree when we have the tree itself?
@@ -173,7 +173,7 @@ RAND 1 & Move Tree On & RAND 2 & Move Tree On & Price at T & Payoff & Discounted
 - These options are very hard to price on a tree without simulations.
 - Consider a two-step tree.
 
-![Image](https://storage.simpletex.cn/view/fmRoxEFxVUMCVdshZFukREtd6q1aRSwS7)
+![Image](Attachments/Image-4.png)
 
 - Even if $S_{2,          ud}=S_{2,          du}=100$,  the payoff when the final price is 100 depends on the path of $S$,  namely,  whether $S_{1}=S_{1,          u}=123.631$ or $S_{1}=S_{1,          d}=80.886$.
 - In this case,  we can compute the value of the security on the tree $V_{0}=\Sigma_{j=1}^{4}Q_{j}^{*}V_{2,          j}=7.45$.
@@ -186,7 +186,7 @@ RAND 1 & Move Tree On & RAND 2 & Move Tree On & Price at T & Payoff & Discounted
   - While the original paths look like the recombining tree we started out with,  the averages look like paths on a non-recombining tree.
   - Non-recombining trees are much harder to evaluate numerically for a large number of time steps.
 
-![Image](https://storage.simpletex.cn/view/fPWEB6roGwLb8SyL2mi4qVdGG2Xe1qXMS)
+![Image](Attachments/Image-6.png)
 
 ## Why Monte Carlo Simulations?
 - The number of path-dependent options is very large.
@@ -217,11 +217,11 @@ RAND 1 & Move Tree On & RAND 2 & Move Tree On & Price at T & Payoff & Discounted
 
 ## Monte Carlo Simulations under Log Normality
 - For instance,  a few 10-period paths are plotted in the next figure.
-![Image](https://storage.simpletex.cn/view/fLU801n9xLV69X4FFlWDlkWXY8FYO6gAX)
+![Image](Attachments/Image-5.png)
 
 ## Monte Carlo Simulations under Log Normality
 - MC price of put and calls under Black and Scholes assumptions (1000 simulations).
-![Image](https://storage.simpletex.cn/view/foCwFC3feQ6rVcI3yLpYB9l92VAULWii2)
+![Image](Attachments/Image-10.png)
 
 ## Monte Carlo Simulations with Many "Factors"
 - The [Monte Carlo Simulation](../Pricing%20a%20Callable%20Leveraged%20Constant%20Maturity%20Swap%20Spread%20Note.md) method to price options can be extended to price [derivative securities](../../Financial%20Engineering/Financial%20Mathematics%20Course.md) that depend on multiple factors. For instance:
@@ -258,9 +258,9 @@ RAND 1 & Move Tree On & RAND 2 & Move Tree On & Price at T & Payoff & Discounted
   - The same simulations show that the fair value of this option is $\widehat V_{0}=0.1$.
 - Note that the difference between one option and another is simply the final payoff. The methodology is identical.
 
-![Image](https://storage.simpletex.cn/view/fAQMQ6Te2h52DeX1bsDG9zt0tSXSnnt4i)
+![Image](Attachments/Image-7.png)
 
-![Image](https://storage.simpletex.cn/view/fXs95uFoeCsgLQfQcaBMRoIsMk4YqFKQK)
+![Image](Attachments/Image.png)
 
 SIMULATION OF [RISK NEUTRAL](.md) PRICE PROCESS
 ```latex

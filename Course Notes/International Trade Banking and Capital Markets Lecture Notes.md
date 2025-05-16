@@ -88,13 +88,13 @@ The government." Do you agree with this interpretation?
  - [Intermediate goods trade](../International%20Finance/Globalization/Chapter%206-Intermediate%20Input%20Trade%20and%20Offshoring.md) became significant only in past 30 years
 
 ##  Global Goods Trade Relative to Global Income 1
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cc52f15266904d28c0ccf51db2fc2e7b96cc741618d70eb1e0d43a8590f3ecf9.jpg)
+ ![500](Attachments/500-532.jpg)
  Tend to think of trade only increasing over time, but reality has been more complex
 
 #  Global Trade in Goods and Services
 Trade (% of GDP)
 World Bank national accounts data, and OECD National Accounts data files.
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6eb19e2c6f23dae97d30a9394bd81d26beba7541b030d66d5487196a0b735843.jpg)
+ ![500](Attachments/500-581.jpg)
 Source: World Bank website, accessed July 12, 2022. Https:/data. Worldbank. Org
 
 ###  World Trade Flows
@@ -171,7 +171,7 @@ Notes: See text. The transport costs counterfactual shown here includes only "ma
  - Commercial policies important
 
 #  Shipping Rates China to US West Coast
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a871586fefdc1a6e1921c559688fce7851372cfecefbef28ec0e51954a7d2daa.jpg)
+ ![500](Attachments/500-539.jpg)
 Source: "Container shipping rates are going mad again. FT Alphaville, April 8,2022. www.ft.com. Accessed August 17,2022
 Post-World War II Trade
 - Key participants learned from mistakes in Treaty of Versailles
@@ -197,13 +197,13 @@ Post-World War II Trade
  - Consulting, Financial and Legal
 
 #  2019 WTO Trade Statistics
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fdf8fec4d2fee68d94c7bddbf246a9cb5ff390cfea10bfa8e45025b0f67136c7.jpg)
+ ![500](Attachments/500-586.jpg)
 Source: WTO-UNCTAD in cooperation with ITC and UNSD
 Source: World Trade Statistical Review 2020. www.wto.org
 
 ###  Impact of Corona Virus
 Chart 3.2 World merchandise trade volume, 2015 Q 1-2021 Q 1 (Volume index 2015=100 and year-on-year percentage change
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cdbf1090c29697495955477e78a8315da2e55b9483e8792218452dac1577fe07.jpg)
+ ![500](Attachments/500-587.jpg)
 Sources: WTO Secretariat and UNCTAD.
 Source: World Trade Statistical Review 2021. www.wto.org
 
@@ -211,7 +211,7 @@ Source: World Trade Statistical Review 2021. www.wto.org
 
 ###
  - Organization of Economic Co-operation and Development countries? Established 1961
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/140cd98b807ce2f3342b903152236886076787359c36de8e29613feb863a355e.jpg)$$\begin{array}{|c|c|}
+ ![500](Attachments/500-617.jpg)$$\begin{array}{|c|c|}
 \hline
 FI 1 1 & 1-6FO migrants Iwine \\
 W & of the lines, with the ing dashed lines \\
@@ -301,10 +301,10 @@ Offshoring and Technology Impact
 - Imports relative to GDP resume growth
 - Except during recession
 Relative Wages and Employment
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c38a403cbe5222b2fbf58b8071ba7e7bd8676cbe78f700f1d88bb92f2f7e02a.jpg)
+ ![500](Attachments/500-550.jpg)
 
 ###  US Imports and Exports as a Percentage of GDP
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bb8e8d7bb5b344015e3c5274a8e33d87ab9a09fc3df88f251a07f57f1d862534.jpg)
+ ![500](Attachments/500-616.jpg)
 Relative Wages and Employment 1979-1990
 - Heckscher-Ohlin model would lead to expectation of period beginning in 1982 to lead to:
 - Decrease in relative demand for nonproduction workers
@@ -315,7 +315,7 @@ Relative Wages and Employment 1979-1990
  -  Computers
 
 ##  Relative Wages and Employment 1979-1990
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/040dd312ffce02bee9725e351b20880dbd7a23ffec14b5dbd43492a34279bb20.jpg)
+ ![500](Attachments/500-618.jpg)
 
 #  Offshoring versus Skill-based Technology Change Feenstra and Hanson (1999)
 Impact on Relative Wage of Nonproduction Labor in U.S. Manufacturing 1979-19902$$\begin{array}{|c|c|c|}
@@ -329,11 +329,11 @@ As a share of Capital Flow (New Investments) & $12\%$ & $99\%$ \\
 Source: Feenstra and Hanson (1999)
 
 ##  Percentage Change in Employment Share US
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/030bc88e1bcfc760394c9337204679fce3cb1467ca8f89883860d186d430f4da.jpg)
+ ![500](Attachments/500-618.jpg)
 Percentage Change in Employment Share US
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e40e061a99aff976d2962cd5a24ebddf4304b12b5053b6b6fd276c55e2af1e52.jpg)
+ ![500](Attachments/500-618.jpg)
 Employment Growth by Occupation Type
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dca00934c8a4e717f383eac38f0bf43ddbb70ff781a64ea7d560e83c33418fdc.jpg)
+ ![500](Attachments/500-538.jpg)
 
 ###  Is Offshoring Different?
 - In its effects on relative prices, [return on capital](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md), and labor and wages
@@ -363,7 +363,7 @@ Employment Growth by Occupation Type
 -  $P_{\mathcal{C}}$ and $P_{R,}$ internal prices for components and R&D
 
 ###  Firm R&D-Component Trade-off: Autarky
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ad150eed484deb006836ff9f7c5b6b76c7fe7a770d457155d1d4d548e3ae74f.jpg)
+ ![500](Attachments/500-620.jpg)
 
 ##  Allow Offshoring of Activities
 - Assume that compared to Home:
@@ -375,7 +375,7 @@ Employment Growth by Occupation Type
  - Through relative wage differentials or capital costs
 
 ###  Firm R&D-Component Trade-off: Trade
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a904c870e5042918a7cd8513dd9e9301b6b199494a90f2a9e545ec2075e13b4c.jpg)
+ ![500](Attachments/500-584.jpg)
 
 ###  Fm R&D-Component Trade-off: Trade
 Since,$$(\frac{P_C}{P_R})^{W1}<(\frac{P_C}{P_R})^A$$
@@ -396,7 +396,7 @@ Since,$$(\frac{P_C}{P_R})^{W1}<(\frac{P_C}{P_R})^A$$
 - Home's terms of trade decline - still better than autarky
 
 ###  Fall in Price of Components
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7cf219da1209ac351ce2c9a12a720ae1bb88d5719a568bad94e23b8048af8692.jpg)
+ ![500](Attachments/500-584.jpg)
 
 ##  Fall in Price of Components
 Assume,$$P_Cfalls\mathrm{~s.t.,}(\frac{P_C}{P_R})^{W2}<(\frac{P_C}{P_R})^{W1}$$
@@ -407,7 +407,7 @@ Assume,$$P_Cfalls\mathrm{~s.t.,}(\frac{P_C}{P_R})^{W2}<(\frac{P_C}{P_R})^{W1}$$
 - Terms of trade improve
 
 ###  Fall in Price of R&D
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/efcbda63be7b4c1187ef0d723647785ab9bc6326b0b8258705f0eb2080603f6f.jpg)
+ ![500](Attachments/500-584.jpg)
 
 ##  Fall in Price of R&D
 Assume ,$$P_Rfallss.t.,(\frac{P_C}{P_R})^{W3}>(\frac{P_C}{P_R})^{W1}$$
@@ -424,7 +424,7 @@ Assume ,$$P_Rfallss.t.,(\frac{P_C}{P_R})^{W3}>(\frac{P_C}{P_R})^{W1}$$
  - Gains are not distributed evenly
 . Business services example
 Trade Surplus in Business Services
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cfd334d130c5e277cc50e8e7441f98e79c8c5d6134229551eb7a2dca2be794d6.jpg)
+ ![500](Attachments/500-617.jpg)
 TABLE 7-1 U.S.Trade in Services, 2018 (\$ millions) This table shows U.S.exports and imports in the major categories of services trade for 2018.$$\begin{array}{|c|c|c|}
 \hline
  & Exports & Imports \\
@@ -501,7 +501,7 @@ October 25,2022
  - China/US tensions
 
 ##  Offshoring Model
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a11b6bcbd8028831c8fce2d1cbc2d81d2cc7dab00c1a712fa38444760d1b8ca1.jpg)
+ ![500](Attachments/500-585.jpg)
 
 ##  Offshoring Model Assumptions.
 - Relative wage of low-skilled workers to high-skilled workers in certain countries is lower than in others
@@ -520,7 +520,7 @@ October 25,2022
 - Countries specialize in different inputs or tasks
 
 ##  Initial Offshore Decision Cost Curve
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2616000f4f54a6a574398893c3ed7a1ce59bfaa1b46ab3f0c806c44058d27764.jpg)
+ ![500](Attachments/500-534.jpg)
 
 #  Offshoring Model.
 - Now Home desires to offshore more inputs or tasks
@@ -531,7 +531,7 @@ October 25,2022
 - Activities undertaken by Foreign increase from z' to z"
 
 ##  Post-investment Cost Curve Shift
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/32e7354742866e630eca11929ac82ebf418a17a5a52045727963428d94facc4f.jpg)
+ ![500](Attachments/500-565.jpg)
 
 ##  Effect on Employment and Wages
 - This causes the relative labor demand curve, D (z) to
@@ -545,13 +545,13 @@ October 25,2022
 
 #  Impact on Demand for Labor and Relative Wage
 Figure 6
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/71b22f6b9e10c20c417a3d04e829546c28e37b8577bdaff7480f047fc41cdeb5.jpg)
+ ![500](Attachments/500-617.jpg)
 
 ##  Relative Demand for Labor
 
 ##
  -  Initially least-skilled activities sent to Foreign
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/886b759b9ac524c7d9aa70531b1d8115ba0de7fed01366345a384a5129387f28.jpg)
+ ![500](Attachments/500-585.jpg)
 
 ##  Changes in Relative Costs
 - As in the model above:
@@ -563,7 +563,7 @@ Figure 6
 - Remaining Home activities now more skilled on average
  - Given Foreign lower non-labor costs, Home may move higher skill tasks to Foreign
 Moving Up the Value Chain
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/61f969c10d718dba43bfd3228d239d1cf7eaae4f8774def959ec6076c9125088.jpg)
+ ![500](Attachments/500-619.jpg)
 - Given Home's lower non-labor costs
  - Home moves to more complex activities, from A to B
 - Skill levels of activities increase in both countries
@@ -586,7 +586,7 @@ Moving Up the Value Chain
 - Likely that absolute demand for both high- and low-skilled workers decreases
 
 ##  Impact on Labor Markets
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7aa9e160056c327df398966ceed8d42c7aa4e25ffc5e6b992254d1cdad3c0aba.jpg)
+ ![500](Attachments/500-580.jpg)
 
 ##  Trade versus Skill-based Technology Change
 - Impact on Home, based Heckscher Ohlin model
@@ -598,13 +598,13 @@ Moving Up the Value Chain
 
 #  Trade versus Skill-based Technology Change 2.
 Figure 5-10 Increased Wage Inequality: Trade- or Skill-Biased Technological Change?
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/356a87143f03b13a29eafb3865f8ee21b644a5cf6dd21c224a691eb83c3acd5d.jpg)
+ ![500](Attachments/500-537.jpg)
 (a) Effects of trade
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d32d7ead7ac81619915508582c990ef3d1d3fcd53aabf9ea53ff6bef07de2d4f.jpg)
+ ![500](Attachments/500-584.jpg)
 (b) Effects of skill-biased technological change
 
 #  Change in Value-added for Eight Asian Nations 3
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e79a269f49c2a3f8400055edb42ca829c5af6038feb4d5e4388cf4ae98252cd3.jpg)
+ ![500](Attachments/500-594.jpg)
 FIGURE 47: Smile curve by nation, 199 s to 2 oos versus 198 s to 1995.
 Trade versus Skill-based Technology Change.
 - The impact on industrialized nations due to:
@@ -614,7 +614,7 @@ Trade versus Skill-based Technology Change.
  - Primary refers to [commodities](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)
 
 #  Global Impact on Relative Income 1998-20084
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8c135e35155d85b251007905121479a369412067bb1d18895a130ac0be545ce8.jpg)
+ ![500](Attachments/500-582.jpg)
 Percentil of global income disribution
 FIGURE 48: : The “Elephant Curve": The scond unbuding helped the global middle class and Northern elite.
 
@@ -680,19 +680,19 @@ Differentiated Goods and Competition
 
 #  Perfect Competition Equilibrium
 Figure 8.1 Market and Firm Demand in Perfect Competition
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2b69e331f42c79a3138ae39477c5950ea41427c0d59be7508378dc3604c0cf70.jpg)
+ ![500](Attachments/500-568.jpg)
 (a) In the perfectly competitive market for Grade-A large eggs, farmers supply millions of dozens of eggs at a market price of $\$2.25$ per dozen. (b) Ty, an individual supplier of dozens of eggs in the market, must sell at the price set
 By the market. Hence, he faces a perfectly elastic demand curve at the market price of \$2.25 per dozen.
 Source: Goolsbee, Levitt and Syverson. Microeconomics, $2^{\mathrm{nd}}$ Edition
 
 #  Output: Competitive versus Monopolistic Pricing
 Figure 8.3 Profit Maximization for a Perfectly. Competitive Firm Occurs Where $MR=P=MC$
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7cdb0206470dfd94e67ed5a6c7d16f49ff866f4cb3bccc32a99e38a616db01a3.jpg)
+ ![500](Attachments/500-585.jpg)
 At the initial market price $P_{1}$ ,the perfectly competitive firm is maximizing profit at $Q^*1$ ,where $P=MC.$ If price increases to $P_2$ ,the firm should increase output to $Q^*2$ .If, instead, price decreases to $P_3$ ,the firm is maximizing profit at $Q^*3$
 Source: Goolsbee, Levitt and Syverson. Microeconomics, $2^{\mathrm{nd}}$ Edition
 
 ###   Monopoly Equilibrium
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/025fccbaa5c586826e628e693f94ca9363722f2c52dccb8020cd5b92b9a46589.jpg)
+ ![500](Attachments/500-544.jpg)
 
 ##  Monopoly Equilibrium
 - To increase sales the monopolist must lower price
@@ -703,11 +703,11 @@ Source: Goolsbee, Levitt and Syverson. Microeconomics, $2^{\mathrm{nd}}$ Edition
 - To sell an additional unit at this point will reduce profits
 
 ##  Monopoly: Efficiency Losses versus Perfect Competition
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cd1d8d73423e8dc66c9dc77a83b712973cd3724e0df2004ae3008913f352952b.jpg)
+ ![500](Attachments/500-584.jpg)
 Goolsbee et al., Microeconomics, 3 e, $①$ 2020 Worth Publishers$\bullet$ Efficiency losses - monopolist price, $\mathbb{P}_{\mathrm{mi}}^*$ , greater than $\mathbb{P}_{\mathrm{c}}^{*}$ competitive market price. Quantity available, $\mathbb{Q}_{\mathrm{mi}}^*$ , less than $\mathcal{P}_{\mathrm{c}}^*$ , competitive market quantity
 
 ###  Duopoly
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/28db01c2283db9e499ed22a30bdaff19ae04fd26c192525f628acda64c3be8bf.jpg)
+ ![500](Attachments/500-586.jpg)
 
 #  Duopoly
 - Industry demand curve, D
@@ -737,15 +737,15 @@ Goolsbee et al., Microeconomics, 3 e, $①$ 2020 Worth Publishers$\bullet$ Effic
  -  If firms' cost structures vary, high cost firms will exit
 
 ##  Increasing Returns to Scale (Economies of Scale)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6c1dfc2c8e0822708f2c3d89430b17d86f05a6e03a288eb9ab3dee834c5bb767.jpg)
+ ![500](Attachments/500-529.jpg)
 
 #  Cost Curves
 Figure 7.2 Average Cost Curves
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c45e5d9e33c41081f09af872af0f3d405406cc84bef3b408c5a9f2bf99a92f8f.jpg)
+ ![500](Attachments/500-586.jpg)
 Source: Goolsbee, Levitt and Syverson. Microeconomics, $2^{\mathrm{nd}}$ Edition.
 
 ##  Short-run Monopolistic Competition in Autarky
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5e26ad3337dea38efb498dd6ac088f20b6db02e49f84e001f08eab31d13b13d1.jpg)
+ ![500](Attachments/500-618.jpg)
 Short-run Monopolistic Competition in Autarky
 - Outcome is similar to monopoly
 - All firms face demand curve do
@@ -756,7 +756,7 @@ Short-run Monopolistic Competition in Autarky
  - Drawing demand from existing firms
 
 ##   Long-run Monopolistic Competition in Autarky
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1f85e067280abad8e77e881eb5cb50c9e5d9b40fe277d7b56cd43a10ca7af9e9.jpg)
+ ![500](Attachments/500-618.jpg)
 Long-run Monopolistic Competition in Autarky
 - D is industry demand. $NA$ is number of firms in industry
 - Entry of new firms
@@ -787,7 +787,7 @@ Long-run Monopolistic Competition in Autarky
 - Otherwise, trade relative prices will be identical : Identical technologies . Identical factor endowments
 
 ###  Short-run Monopolistic Competition with Trade
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b37a28d68ab7edb4f6c4ed7ab9c8ca42050c195332dc670f5f2014ad4692104e.jpg)
+ ![500](Attachments/500-528.jpg)
 Short-run Monopolistic Competition with Trade
 - Start with long-run equilibrium without trade, point A
 - Allow trade between Home and Foreign
@@ -811,7 +811,7 @@ Short-run Monopolistic Competition with Trade
 - Reduced number of firms increases demand for each firm and reduces product options
 
 ##  Long-run Monopolistic Competition with Trade.
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/460fd29194f9e6b3df7d0612e5b68b326bb8fdb7b55ec23a11d1a642618e8503.jpg)
+ ![500](Attachments/500-530.jpg)
 Long-run Monopolistic Competition with Trade.
 - Number of firms in each country after trade is opened, NT < NA due to some firms exiting
 - Therefore D/NT > D/NA, remaining firms each sell more products
@@ -883,7 +883,7 @@ Of the Gravity Equation. This version assumes that trade will be proportional to
 To the distance between the two countries.
 
 ##  US/Canada Trade 1993
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/38dac46f7db79271fe4d01dd040b4ab5c53e7f78c7828971c5c970c13721841f.jpg)
+ ![500](Attachments/500-549.jpg)
 Application of the Gravity Model - US/Canada Trade
 - Text figure shows trade between 10 Canadian provinces and 30 US states, and among the 10 Canadian provinces
 ·The values of $B$ are 93 for US/Canada trade and 1300 for intraCanadian province trade. This implies:
@@ -914,8 +914,8 @@ Short-run FDl Impact on Wages and Rental Rates
 
 #   Short-run FDl Impact on Wages and Output
 (a) Effect on Labor Allocation and Wage
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1434972c467640c62c149678673e23c125ff34fe0fb99e8ce1defdeff6f15529.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/32b3144a869ca052e9140857264ede0aae9d0b0551e2125518bb9ad075eced1d.jpg)
+ ![500](Attachments/500-592.jpg)
+ ![500](Attachments/500-585.jpg)
 
 ##  Short-run FDl Impact on Rental Rate
 - Fewer laborers to farm land - marginal product of land falls
@@ -934,7 +934,7 @@ Short-run FDl Impact on Wages and Rental Rates
 - Real wages must increase to compensate workers for their increased productivity decreasing [return on capital](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) in the short-run
 
 ##   Short-run FDl Impact on Rental Rate
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/001195fcfb92cfb7ec0e386a7a10944894ba4aa730c3b86b53550ad70df01227.jpg)
+ ![500](Attachments/500-595.jpg)
 
 ##  Long Run Labor Allocation and Output
 - Assume Heckscher-Ohlin world, except:
@@ -944,9 +944,9 @@ Short-run FDl Impact on Wages and Rental Rates
 
 #  Labor Allocation and Output
 (a) Effect on the Allocation of Labor and Capital
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9ff101cf96288308de90aeea21cac5aec7183bf0340766714f7e48e7f1aeb563.jpg)
+ ![500](Attachments/500-618.jpg)
 (b) Effect on Industry Outputs
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9b7e77577ae64ce1c8af3d470bd049129ebb407f6d257e696a846479a0f94093.jpg)
+ ![500](Attachments/500-583.jpg)
 
 ###  Labor Allocation and Output$$Recall\frac{0_CK}{0_CL}>\frac{0_SK}{0_SL}$$
 FDI provides more capital per worker in computer industry. This increase in capital shifts origin from $0_C$ to $0_C^{\prime}$ Since constant for oth industrie, allocation of labor moves from $L$ to $L^{\prime}$ and of capital from K to K'
@@ -1009,7 +1009,7 @@ Dota from: Port A from Alwyn Young, 1995, The Tyronny of Numbers: Confronting th
 - In theory, both country of immigration and emigration benefit, as well as both the country providing and receiving FDl
 - Net benefits often small, have distributional consequences and come with risks
 Gains from Migration
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ebadfe94824f1ee13471f85b87c5596739dc6ce28ca55e47c221c5c1d200e52c.jpg)
+ ![500](Attachments/500-587.jpg)
 
 ##  Gains from Migration
 - Use specific-factors model
@@ -1121,7 +1121,7 @@ George Borjas' Assessment of Immigration Models
 - FDl increases MPL of Foreign workers; lowers MPK
  - Workers' pay rises due to increased MPL
 Gains from Foreign Direct [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/da39c86b31d9fb077526f5545d68db8daebe0e8a8300257c70df38a84ba0272e.jpg)
+ ![500](Attachments/500-558.jpg)
 
 ##  Phantom FDI 3
 - Damgaard, Elkjaer, and Johannesen argue in a forthcoming paper:
@@ -1137,7 +1137,7 @@ Gains from Foreign Direct [Investment](../Advanced%20Investments/An%20Asset%20Al
 - Links terms of trade and growth
 
 ##  Immiserizing Growth
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d2a16e813014a22ce96f507acb15de901eaec51ef2ac831786bfa9d3096836af.jpg)
+ ![500](Attachments/500-584.jpg)
 Figure 11.1
 
 ##  Immiserizing Growth
@@ -1168,7 +1168,7 @@ Figure 11.1
 - Important implications in emerging economies and wealth distribution
 
 #  Immiserizing Growth
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/396230597497d23d6cf7af2fa6ec3424caf7dc9194da57b29e1181e418866fe6.jpg)
+ ![500](Attachments/500-604.jpg)
 Figure 11.2
 Movement of Labor and Capital Between Countries I
 October 13,2022
@@ -1188,7 +1188,7 @@ October 13,2022
 - Equilibrium occurs when W is the same in both sectors
 
 #  No-trade Home Market Labor Equilibrium
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f2f11829f9203c8c365de9394301280615ccf05de3a39a2aa8c7f725d1b8690a.jpg)
+ ![500](Attachments/500-583.jpg)
 Introduce Foreign Country - Short Term Model
 - Foreign wage is W* < W
 - Assume Home allows immigration of workers from Foreign
@@ -1197,7 +1197,7 @@ Introduce Foreign Country - Short Term Model
  - Equilibrium moves from point A to B
 
 ##  Increase in Home Labor due to Immigration
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e7b27e127fbfb36d280ae5b04b9a96135f1030526c384a50a58d9467fedd0d6a.jpg)
+ ![500](Attachments/500-583.jpg)
 
 ##  Short-term Outcomes
 - Labor usage increases in both sectors
@@ -1206,13 +1206,13 @@ Introduce Foreign Country - Short Term Model
  - Short-run both industries' output rises
  - Labor increase does not affect world relative prices
 New World Immigration and Wage Convergence
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b6787a86ae2d552f8e7415a2a7006da27acfcf7030f73bea5e6581e1e5403b5e.jpg)
+ ![500](Attachments/500-590.jpg)
  Increased number of workersin New World lower MPL w
  Decereased number
  - Workersi urope rais MPL U
 
 ###  Shift in Production Possibilities Frontier
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ec3db5e8a46dd7b598df08d1a2b486e3f6e81553b8af27709b347f492711ae6c.jpg)
+ ![500](Attachments/500-585.jpg)
 
 ##  Long-run Effects of Immigration
 - Assume Heckscher-Ohlin world, except:
@@ -1221,7 +1221,7 @@ New World Immigration and Wage Convergence
 - Shoe manufacturing labor intensive; computer manufacturing capital intensive$$\frac{L_S}{K_S}>\frac{L_C}{K_C}\text{ equivalently,}\frac{K_C}{L_C}>\frac{K_S}{L_S}$$$$K_C+K_S=\overline{K}\mathrm{~and~}L_C+L_S=\overline{L}$$
 
 ###  Long-run Effects of Immigration -- Pre-immigration
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cfe2ecfd12434202077ba03fab60379b302145639c29d8b9766a2ab62928a3fa.jpg)
+ ![500](Attachments/500-616.jpg)
 
 ##  Long-run Effects of Immigration
 ·Box diagram
@@ -1231,7 +1231,7 @@ New World Immigration and Wage Convergence
 - OcA allocation to computer industry
 Les capital per worker in shoe ndustry, oe  ogk
 Long-run Effects of Immigration
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1e4c9f3387940bed14fde671f7ad403e3f898bc9e9de418cee7fa8474acd164d.jpg)
+ ![500](Attachments/500-586.jpg)
 Labor Increase at Home
 Impact on Wages, Rentals and Output
 - Real wage and rental rate determined by marginal products
@@ -1258,7 +1258,7 @@ Impact on Wages, Rentals and Output
 - Relative prices remain constant
 
 ###  Labor Increase at Home - Impact on Wages and Rentals
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a6d6021555ffb0003633cb23520b4baa6f1544d5d88b03b288c5fee62f45885f.jpg)
+ ![500](Attachments/500-583.jpg)
 
 ##  Rybczynski Theorem
 - In the long-run, an increase in one factor results in the country increasing output in the industry using that factor intensively and decreasing output of the other industry
@@ -1268,7 +1268,7 @@ Impact on Wages, Rentals and Output
 - Factor prices unchanged as economy shifts output to industry utilizing increased factor intensively
 
 ##  Rybczynski Theorem - Home Viewpoint
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eb599dc4549b4d2fa98226f7742ec2d2156a2b5392dea800318a0c14e73a833b.jpg)
+ ![500](Attachments/500-580.jpg)
 
 ##  Mariel Boat Lift - 1980
 - Brought low-skilled Cuban refugees to Miami
@@ -1286,7 +1286,7 @@ Impact on Wages, Rentals and Output
 - Real value-added in apparel industry increases after lift - remains above trend in Miami for well over a decade after the Miami boat lift
 - Real value-added by skilled workers in skill intensive industries declines after lift and remains below trend
 Value- added by Worker Type
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/836fde8812f738f9232baf601ceebe2506b5f8675fe6504ffd502826158e65b8.jpg)
+ ![500](Attachments/500-581.jpg)
 
 ##  Mariel Boat Lift Impact
 - Competing hypothesis for no relative decline in low-skill wages
@@ -1304,13 +1304,13 @@ Value- added by Worker Type
 - Competition appears greatest at lowest end of educational spectrum
 
 ##  Education of Foreign-born Workers in US (2017)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5c93979fbb8d39419e7842b3ad5613d67cd66e4c38c9729e185a8ea37b1d70dd.jpg)
+ ![500](Attachments/500-583.jpg)
 Undocumented Immigrants Entering the US
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/11e24d38cc87e7e09548d08f22bfa24d01555bfcea1037c92d62234a552eb295.jpg)
+ ![500](Attachments/500-562.jpg)
 - The number of migrants from Mexico has declined as conditions in Mexico improved and in the US declined
 
 ##  US Refugee Asylum Applications (Thousands)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fb262fe8a96d08c1fc92f5a816e6481e18e298486e2ebef8168b5e465a4ea3d9.jpg)
+ ![500](Attachments/500-583.jpg)
 - Migrants from other Central American countries have increased often migrating through Mexico
 
 #  Immigration and Wages
@@ -1424,12 +1424,12 @@ Transition economies &  &  & 0.17 & 1.19 & 2.18 & 3.60 & 3.94 & 3.15 & 3.94 \\
 \end{array}$$
 Source: Compiled from the UNCTAD's FDI Stat/WIRs; the last two columns were computed.
 - Sovereign Wealth Funds and other investors from emerging and industrializing countries have continued to grow [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) into developed economies.
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e33502b0b25b6d0da5355823e758fbfc047b2243318dbc62e20428e880bca866.jpg)
+ ![500](Attachments/500-615.jpg)
 Heckscher-Ohlin II
 October 11,2022
 
 #  Davis and Weinstein 1 (2003)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/47b67112975f964fc65667020bde96cddbe4e71e0fecc8b5fa649e3732bc5233.jpg)
+ ![500](Attachments/500-585.jpg)
 FIGURE 10. TRADE WITH No-FPE, GRAVITY DEMAND SPECIFICATION, AND ADJUSTED ROW (T 7)
 
 ##  Davis and Weinstein
@@ -1468,9 +1468,9 @@ FIGURE 10. TRADE WITH No-FPE, GRAVITY DEMAND SPECIFICATION, AND ADJUSTED ROW (T 
 - Need to break out different labor to capital ratios for export products versus non-tradable goods.
 
 #  Davis and Weinstein Technology
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ca4d238aeff2c1b8b953f82e14dd25c448eaaa73a7b3eed1d8dabc1c5671e7f4.jpg)
+ ![500](Attachments/500-585.jpg)
 FIGURE 2. TRADE WITH COMMON TECHNOLOGY (US) (T 1)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9c09a29e1049a1db2ecbcf5685fb33791dd8b31a924af96c9d9a544f74ee5e51.jpg)
+ ![500](Attachments/500-584.jpg)
 FIGURE 3. PRODUCTION WITH COMMON TECHNOLOGY (AVERAGE) (P 2)
 
 ##  Davis and Weinstein
@@ -1488,7 +1488,7 @@ FIGURE 3. PRODUCTION WITH COMMON TECHNOLOGY (AVERAGE) (P 2)
 - Adjusted Row forces technology to match endowments and outputs
 
 ##  Lerner Diagram 2
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0e1b22ef4262bab6ba168b625fff1eec450e0042d9fe199cf598cfaf8461309b.jpg)
+ ![500](Attachments/500-586.jpg)
 Figure 1.13
 
 ##  Learner Diagram
@@ -1507,8 +1507,8 @@ i.e., the value $of$ labor and capital equals revenue We can determine factor pr
 - Proves the "factor price insensitivity" lemma
 
 #  Trade Specialization 3 (2008) (Schott Figure 1)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e9f6820195ea237a0787f9e91d611025159e530cfba804b5fe3312e489eb815b.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5df005229df82f30988c60da363847c041c627a208116c51af1bfee1cb89d6f3.jpg)
+ ![500](Attachments/500-584.jpg)
+ ![500](Attachments/500-584.jpg)
 Intra-National Specialization
 Inter-National Specialization
 Figure l: Inter- and Intra-National Specialization in a Multiple Cone Equilibrium
@@ -1641,7 +1641,7 @@ Table 16: Mean OECD/China Manufacturing Unit Value Ratios
 - Equilibrium for relative wage level is determined by:$$\frac{\bar{L}}{\bar{K}}=\frac{(L_C+L_S)}{\bar{K}}=\frac{L_C}{K_C}\cdot\frac{K_C}{\bar{K}}+\frac{L_S}{K_S}\cdot\frac{K_S}{\bar{K}}$$
 Relative Supply = Relative Demand$$Subjectto:\frac{K_C}{\bar{K}}+\frac{K_S}{\bar{K}}=1$$
 Home Wage to Rental Ratio
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/441279db5399285fd2cd482da73b4cd167f9d5235d650ff2a67489a58c8b7047.jpg)
+ ![500](Attachments/500-552.jpg)
 
 ##  Home Wage to Rental Ratio
 - Economy-wide relative demand curve a weighted average of Lc/Kc and Ls/Ks, where the weights are each industry's output
@@ -1650,7 +1650,7 @@ Home Wage to Rental Ratio
  - When W/R changes, both industries want to adjust labor to capital ratio
 
 #  Impact of Computer Price Increase
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dc74a68fc3ebcc6553be4a58a8f41dc007a23002df5810f0542b3adc6049eea0.jpg)
+ ![500](Attachments/500-580.jpg)
 
 ##  Impact of Computer Price Increase
 - Trade introduced, Pc/Ps increases
@@ -1662,7 +1662,7 @@ Home Wage to Rental Ratio
 - Both industries hire more labor relative to capital
 
 ###  Relative Computer Price Increase Effect on Wage/Rental
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6b5c0d712d44a5ed63c0e470d74e62f645a83ec842b1b8238c827fa6cec2c9e6.jpg)
+ ![500](Attachments/500-584.jpg)
 
 ##  Increase in L/K
 - How can both industries increase relative labor deployed?$$\frac{\bar{L}}{\bar{K}}=\frac{(L_C+L_S)}{\bar{K}}=\frac{L_C}{K_C}\uparrow\cdot\frac{K_C}{\bar{K}}\uparrow+\frac{L_S}{K_S}\uparrow\cdot\frac{K_S}{\bar{K}}\downarrow $$
@@ -1722,7 +1722,7 @@ For$$\text{ease in P}_M,\frac{\Delta R_T}{R_T}<0<\frac{\Delta W}W<\frac{\Delta P
 - Used intensively in exports benefit
  - Used intensively in imports lose
 - US: abundant high-skilled workers; scarce low-skilled
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2a5dd2fb10034dfdbcf477a00cf7afa889d8360a404c3a081ad8d1bc9ab4cdf0.jpg)
+ ![500](Attachments/500-585.jpg)
 Heckscher-Ohlin I
 October 6,2022
 
@@ -1790,7 +1790,7 @@ October 6,2022
 - Home is Capital abundant - Foreign is labor abundant$$\frac{\bar{L}^*}{\bar{K}^*}>\frac{\bar{L}}{\bar{K}}$$
 
 ##  Labor-Capital Relative Demand versus Wage/Rental
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/092608e329e2b7ff516467d208d5668cd05d7680fba4af36e4797b5e62299e0e.jpg)
+ ![500](Attachments/500-583.jpg)
 
 #  Heckscher-Ohlin Assumptions.
 - Only final outputs freely tradeable between countries
@@ -1801,7 +1801,7 @@ October 6,2022
 - Consumer tastes are identical in both countries
 
 ###  No-trade Equilibria
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5b665199aa02037c6676783d6f4c7e926fb9767c449d5557d951a480a854bfc3.jpg)
+ ![500](Attachments/500-585.jpg)
 
 #  No-trade Equilibria
 - Take PPF shape as an assumption for now - will prove later
@@ -1813,7 +1813,7 @@ October 6,2022
 - Relative prices would be identical if endowments identical
 
 ##  Home Gains From Trade
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/538edac8e7a607d428879ce4ee44683ca9fe644956fc2e50148c6ddfecc93ece.jpg)
+ ![500](Attachments/500-584.jpg)
 
 ###  Home Gains From Trade
 - Home consumes at point on world relative price line where trade with Foreign is balanced
@@ -1823,7 +1823,7 @@ October 6,2022
 - The relative price of computers increases from:$$\left (\frac{P_C}{P_S}\right)^A\mathrm{to}\left (\frac{P_C}{P_S}\right)^W$$
 
 ##   Foreign Gains From Trade
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/47976ee57a5cf79f762440d2475b32b2411b2ebf54af3338355d6d7d4c6ed787.jpg)
+ ![500](Attachments/500-581.jpg)
 
 ###  Foreign Gains From Trade
 - Foreign consumes at point on world relative price line where trade with Home is balanced
@@ -1833,7 +1833,7 @@ October 6,2022
 - The relative price of computers decreases from:$$\left (\frac{P_C}{P_S}\right)^{A^*}\mathrm{to}\left (\frac{P_C}{P_S}\right)^W$$
 
 ##  World Equilibrium
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e6b3d8c48aff1b023b0d47dd5783e367a78f8500c877bdd058ecdc9e43038318.jpg)
+ ![500](Attachments/500-557.jpg)
 
 ##  World Equilibrium
 - Reach equilibrium when:
@@ -1911,7 +1911,7 @@ Canital/labor ( (S/person) & 56,949 & 56,737 \\
 . Statistically insignificant regarding Leontief's prediction -- missing element: factor-price equalization
 
 ##  Factor Endowments 2017 (Percentage of Global Endowment)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1731d086ab834766310d3331881ca2358386632da55a453cd223795c6326f9f1.jpg)
+ ![500](Attachments/500-616.jpg)
 
 ##  Factor Endowments 2017
 - Unadjusted for:
@@ -1924,10 +1924,10 @@ OGDP
 - Consider endowment as share of GDP - domestic absorption
 
 ##  China Effective Factor Endowments 2017 (Percentage of Global Endowment)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0079fce27b27482881b66d9130dbfb7148469e1aed1eb0a7fe9bd97591fe61a7.jpg)
+ ![500](Attachments/500-616.jpg)
 
 ##  US Effective Factor Endowments 2017 (Percentage of Global Endowment).
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b57bbd06276821cb040136edf6b473fe0499ee06ad5b084301f22ee1dadb8dc9.jpg)
+ ![500](Attachments/500-617.jpg)
 
 ##  Effective Factor Endowments 2017
 - Effective factor endowment:
@@ -1955,7 +1955,7 @@ Soybeans & $NA$ & $కర. 00$ & 55.90 & $\textsf{S 11. 00}$ & 514.90 & 59.90 & 
 \end{array}$$
 - US abundant in high quality farmland and high productivity methods
 Wages and Productivity (1990)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7dbd6d96191242f60c9cdb7b941faffc7a917d676eeb1cc40402004e312f6906.jpg)
+ ![500](Attachments/500-615.jpg)
 Specific-Factors Model
 October 4, 2022
 
@@ -1969,7 +1969,7 @@ October 4, 2022
  -  This creates winners and losers in each country
 
 ##  Output and Marginal Product of Labor
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d92a23e30fa226a9b5cee11cb92ce1f55753ecdd92eb9a2e5777890e41c106d9.jpg)
+ ![500](Attachments/500-584.jpg)
 Diminishing Marginal Productivity of Labor
 - Ricardian model assumed constant marginal productivity of labor
 - Considering immobility of specific factors, marginal productivity will decrease.
@@ -1977,7 +1977,7 @@ Diminishing Marginal Productivity of Labor
  - 100 acres of farmland worked by three versus two tractors
 
 #   Production Possibilities Frontier
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a751f3023bf3c831f3c7d3cb83d5652431261f01cbc4a2f6fc48d1149ce23ed1.jpg)
+ ![500](Attachments/500-580.jpg)
 Effect on Production Possibilities Frontier
 - Ricardian model assumed constant marginal productivity of labor
 - Under Specific-factor, PPF becomes bow shaped
@@ -1999,7 +1999,7 @@ Or the relative price of manufactured goods to agricultural goods equals the opp
 
 ###  Increase in Relative Price of Manufactures - Home
 Agriculture| output, $Q_A$
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bf830a0925f3d46af363162cb0fe1bf5b8a460361b2426e73916ee79dbb8120d.jpg)
+ ![500](Attachments/500-620.jpg)
 Increase in Relative Price of Manufactures
 - Allow for [international trade](../International%20Finance/Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md) between Home and Foreign$$\frac{P_M}{P_A}<\left (\frac{P_M}{P_A}\right)^W<\frac{P_M^*}{P_A^*}$$
 - When [international trade](../International%20Finance/Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md) opens, manufactures' prices will:
@@ -2021,13 +2021,13 @@ Labor market equilibrium occurs when labor is allocated
 At point A where the two labor demand curves meet.
 One can think of the demand for manufacturing labor representing the limiting factor for agricultural labor supply and vice versa
 Home Labor Earnings - Autarky
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/73d359f32782ae40ab1b03154994d688afd1b0767b3ff33831cc3e84173d26de.jpg)
+ ![500](Attachments/500-561.jpg)
 Increase in Price of Manufactures
 - Assume a relative price increase in manufactured goods, △Pm
 Consider the effect on real wages,
 The wage rate rises from W to W'reflecting the increase, $\Delta P_M\times MPL_M$ ,equilibrium now at $B$$$\Delta W=W^{\prime}-W<\Delta P_M\times MPL_M, Why?$$
 Increase in Price of Manufactures-- Home
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9d1c0431671a0ef3407fec326b71e6bed7fed16d38c2de1c7020038432927e3b.jpg)
+ ![500](Attachments/500-543.jpg)
 Increase in Price of Manufactures
 Dividing through by $W = P_m × MPL_m,$
 Obtain $$\frac{\Delta W}W<\frac{\Delta P_M\times MPL_M}{P_M\times MPL_M}=\frac{\Delta P_M}{P_M}\\\frac{\Delta W}W\text{ is the elasticity of wages}$$
@@ -2122,9 +2122,9 @@ General Equation for Change in Factor Prices
 #  Policy Application
 - US employment shifted from manufacturing to service sector over past 70 years
 - Shifts in other countries as well
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53ad5bc45006386d3466ee7a91e9dd3431b2f2f7308e544076dbda6b8ba1f9de.jpg)
+ ![500](Attachments/500-584.jpg)
 Real Hourly Earnings
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a2f88a887e8b3e0234e79ce3feea8d8b8614bf21f85ebb9ec8c059a89b7d6ecf.jpg)
+ ![500](Attachments/500-591.jpg)
 - Masks differences in skill levels in services sector
 
 ##  Employment Losses and Reemployment
@@ -2153,16 +2153,16 @@ Issues for Displaced Manufacturing Workers
 - Often long time before finding a positions
  - Often face lower wages
 Changes in World Manufacturing Shares 1
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/123069f9cc3b1a9c152754d834552afb17d79cdeb2da5af8450fba2bb8b4789d.jpg)
+ ![500](Attachments/500-619.jpg)
 
 ##  Changes in World Manufacturing Shares 2
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8bad02ebf390dcb49eefe1b482015b6410a976d6a8a644437d0e7385d7a73e0c.jpg)
+ ![500](Attachments/500-581.jpg)
 
 #   Changes in World Manufacturing Shares 3
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2cbe28a38751b57ded8975799ad36082fd4d4e7d959e8f3bcff36d2c16ef8bdb.jpg)
+ ![500](Attachments/500-601.jpg)
 
 #   Changes in World Manufacturing Shares 4
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c1bb2af5e4e75ef885a25c74ed8eff820a8e2ac99bb539d3517bd29407a6a53e.jpg)
+ ![500](Attachments/500-596.jpg)
 Ricardian Model
 September 29, 2022
 
@@ -2216,10 +2216,10 @@ September 29, 2022
 - MPLs constant - linear Production Possibilities Frontier (PPF)
 
 ##  Home Production Possibilities Frontier
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/01960109cf8dcfcf44b2264b417cbf06992f3a29e20e42e5b16eece69bbd0edd.jpg)
+ ![500](Attachments/500-563.jpg)
 
 ##  Home Equilibrium
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8838a0a4f44783f283150dded7da998a89c4e639499f2d38798dd0f375b35355.jpg)
+ ![500](Attachments/500-615.jpg)
 
 #  Home Equilibrium
 - Home's citizens choose highest indifference curve available
@@ -2250,9 +2250,9 @@ The relative price of two goods is inversely proportional to the relative margin
 - Wheat: MP$L_{w}^{* }$= 1 bu
  - Cloth: $\mathrm{MPL}_{\mathrm{C}}^{*}=1$ yd
 Foreign Production Possibilities Frontier
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7447d614c55d9f00f61ee0ea36965ca9ae92c2f332d9200577da62df796659d4.jpg)
+ ![500](Attachments/500-588.jpg)
 Foreign No-trade Equilibrium
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0266efa90747a03748ca9d50a9cccb1bf58d9baa0998cc46abe3412f10ceb7f6.jpg)
+ ![500](Attachments/500-585.jpg)
 Home and Foreign Comparative Advantage
 - What is Foreign's opportunity cost of cloth?
 - Of wheat?
@@ -2267,7 +2267,7 @@ Home and Foreign Comparative Advantage
 - Foreign has comparative advantage in cloth production
 
 ##  International Trade Equilibrium - Home
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2ed3201a0e0216bb18214cf2ac3340824f1d76b8f2ca61faa2e49ac21feadb4d.jpg)
+ ![500](Attachments/500-618.jpg)
 
 ##  Prices, Volumes and Wages
 - Relative price will be determined by world demand
@@ -2286,7 +2286,7 @@ Therefore wages paid in wheat farming will exceed wages in the cloth industry
 - Risk of production interruption ignored
 
 ##  International Trade Equilibrium -- Foreign
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f6323d1a394a4dc0cae99cf7f5180a650a2bfab290add89aaa25c9b36120425b.jpg)
+ ![500](Attachments/500-584.jpg)
 
 #  More on Wages
 - Trade patterns determined by comparative advantage
@@ -2311,7 +2311,7 @@ Therefore wages paid in wheat farming will exceed wages in the cloth industry
 - Greater productivity generally implies higher wages
 - Relationship varies greatly
 - Will discuss reasons why in a couple of weeks
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/71f9076f89ca4e7af1c7667f01de4b4aa39aef822822c2c27e6cac77cf45852d.jpg)
+ ![500](Attachments/500-618.jpg)
 
 ##  Determining International Prices
 - Demonstrate how the world price is determined
@@ -2323,7 +2323,7 @@ Therefore wages paid in wheat farming will exceed wages in the cloth industry
  - Why is the curve horizontal at %?
 
 ##  Home Production, Consumption and Exports
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2d72302ea45ac8c7a3326d29dc73baec04a597b68de705a7e1d7eb8c51988110.jpg)
+ ![500](Attachments/500-547.jpg)
 Home Export Supply and Foreign Import Demand
 - Wheat production and export supply is a function of Pw/Pc
 -  1/2 or lower no incentive to export
@@ -2334,10 +2334,10 @@ Home Export Supply and Foreign Import Demand
 ·If $\mathsf{P}_{\mathsf{W}}/\mathsf{P}_{\mathsf{C}}>1$ or < 1/2 implies one country is much larger causing the large country to be indifferent to trade
 
 ###  Foreign Production, Consumption and Imports
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/379f57da0f9ceac88634b05000de27f9a918308df86258b87baa4c9bcbca2076.jpg)
+ ![500](Attachments/500-613.jpg)
 
 ##  International Equilibrium
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/40faa2e6817ca39860068311cc85f251db236fefa9aa499611286171d6652bb5.jpg)
+ ![500](Attachments/500-614.jpg)
 
 ##  Terms of Trade
 - Refers to the price of a country's exports divided by the price of its imports
@@ -2363,21 +2363,21 @@ Home Export Supply and Foreign Import Demand
  - Population growth and increasing wages in developing countries has increased food demand
 
 ##  Decreasing Relative Prices
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/07cfe8369dc099fe64729f07446a9a8c6c5e2aae7be229aaaf761fd61d7f9153.jpg)
+ ![500](Attachments/500-583.jpg)
 
 ###  Increasing Relative Prices
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6d87dd219248cb1f1fc860ab88cdabc852a158e443391e6b2d493c290ca3a062.jpg)
+ ![500](Attachments/500-616.jpg)
 
 ##  Stable Relative Prices
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/28bf73e607309f67ef4b9d5632334c8d174d6db4d39fdd092af57d03000c3ec0.jpg)
+ ![500](Attachments/500-585.jpg)
 
 #  Copper Prices
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f08bdb6ea96a88c87bca60132d63b716a49fe3ccdfe87b9d7babdb1cc6bb179a.jpg)
+ ![500](Attachments/500-615.jpg)
 Source: tradingeconomics. Com. Accessed August 14, 2022
 
 #  Zinc Prices
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2649612462488a44cfce2375991e26d486467f1e694ed6eeac5e694e6f362cad.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3a92503fc18635eb010a27b21e9858fc11622c0f113e4c2dddec786c40230089.jpg)
+ ![500](Attachments/500-616.jpg)
+ ![500](Attachments/500-584.jpg)
 Source: tradingeconomics. Com. Accessed August 14, 2022
 [Introduction](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to Foreign Exchange I
 November 1, 2022
@@ -2451,10 +2451,10 @@ Efecterae sre Ee r
 where $E_i$ is the exchange rate with country i and $Trade_i$ is the volume of trade with country i. Trade is the total [global trade](.md) for the home country.
 
 ## Trade-weighted Multilateral Exchange Rate$$ChangeinEffectiverate:\\\frac{\Delta E_{Effective}}{E_{Effective}}=\sum_{i=1}^N\frac{\Delta E_i\cdot Trade_i}{E_i\cdot Trade},$$
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a7a801673b36ac860990da220f5760cf804efcd8fb625eea917b028b39853be0.jpg)
+ ![500](Attachments/500-616.jpg)
 
 ### Trade-weighted Multilateral Exchange Rate 1 (Updated, base year 2006)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4f9b1e3e1c963912c7c5d120f0ea78f68b7b313cae699e2fb138fb19bddeca2c.jpg)
+ ![500](Attachments/500-584.jpg)
 
 ## Trade-weighted Multilateral Exchange Rate 2020 - 2022
 - Dollar strengthens with onset of Coronavirus
@@ -2514,10 +2514,10 @@ OEuro
   - Legal requirements to maintain
 
 ## Foreign Currency Historical Price Movements
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/28f1b8f19906eb2e26f97c03016317d54b382121211ef64db09f18a9a9b0ffad.jpg)
+ ![500](Attachments/500-621.jpg)
 
 ## Foreign Currency Historical Price Movements
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/39538c7e44c2929192756ddeab17e8ea7ee9a4352bd1c71898720c6d83ccf342.jpg)
+ ![500](Attachments/500-615.jpg)
 
 ## Foreign Exchange Spot Transaction
 - Most frequent type - "spot" foreign exchange (Fx) trade
@@ -2530,7 +2530,7 @@ OEuro
 # Spot Foreign Exchange Transaction (June 17, 2022 for settlement June 21, 2022)
 Receive 1,000,000 at 4 PM Central European Time;
  10
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c1448c657798efe13d00b0f790539fe7a1de01d0d7a82308ce19885aefdf4def.jpg)
+ ![500](Attachments/500-584.jpg)
 - Diagram takes viewpoint of Bank New York
 - Do you see a mistake here?
 
@@ -2554,10 +2554,10 @@ Receive 1,000,000 at 4 PM Central European Time;
   - Earn risk free profit of (￥. 05 X ￥1,000,000,000)/ ￥135.90 = 367,917.59 or \$2,707.27
  - Unfortunately, you will never find this opportunity
 Foreign Exchange [No Arbitrage Condition](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Properties%20of%20State-Price%20Deflators.md)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e9a4b26f0d0efe5677f7693221512189a1ef4e97197f2eef06bc0a556f5705c3.jpg)
+ ![500](Attachments/500-584.jpg)
 Since dollars and pounds may be transferred without cost between London and Chicago, the exchange rate must be the same in both locations
 Cross-[currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) "[Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)"
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/befccd39693d67fd4439be349c7db4c6ad1aed107ebe13e741497a5ae2ecbe73.jpg)
+ ![500](Attachments/500-584.jpg)
 
 ## Cross-currency "Arbitrage"
 - You are an arbitrageur
@@ -2583,7 +2583,7 @@ Cross-[currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instr
 : Profit of \$3,434.07
 
 ## Cross-currency "Arbitrage" (Arbitrageur View)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ea60d9fbdb9e284eb6d593bc8693b8b006710e26db4f488da28e5e1414332168.jpg)
+ ![500](Attachments/500-583.jpg)
 
 ## Cross-currency "Arbitrage"
   - Dollar-Yen quoted 140.00-140.10
@@ -2608,7 +2608,7 @@ December 1,2022
 
 # Bailout Impact on Central Bank Balance Sheet
 (a) Financial Sector Bailout Operation
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c6d7d83b1d0235cac388f30cb1488222fb345f81245e21dd321d19db423da6f0.jpg)
+ ![500](Attachments/500-584.jpg)
 Bailout Impact on Central Bank Balance Sheet
 - Reserves begin at \$500 million, 50% backing ratio
 - Central bank supplies Peso 100 million to [banking](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) sector
@@ -2627,7 +2627,7 @@ Bailout Impact on Central Bank Balance Sheet
 
 # Lender of Last Resort Impact on Central Bank
 (b) [Lender of Last Resort](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/The%20Only%20Game%20in%20Town%20Walter%20Bagehot.md) Operation Central Bank Balance Sheet
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e06c363f210efedfccda18eedf38480d81a85e2a408081b86c9fd8e34a5d84f9.jpg)
+ ![500](Attachments/500-533.jpg)
 [Lender of Last Resort](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/The%20Only%20Game%20in%20Town%20Walter%20Bagehot.md) Impact on Central Bank
 - [Central bank role](../International%20Finance/Bridgewater/How%20Countries%20Go%20Broke/How%20Countries%20Go%20Broke-Chapter%206%20&%20Chapter%207.md) as [lender of last resort](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/The%20Only%20Game%20in%20Town%20Walter%20Bagehot.md)
   - Against good collateral
@@ -2649,7 +2649,7 @@ Bailout Impact on Central Bank Balance Sheet
 
 # Argentina 1993-1997
 A Approximate Evolution of Money Supply and Reserves
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7a99dd622b229c45da209c7ee89e78b0814b319f922cc29a67075e3c56dd0fb3.jpg)
+ ![500](Attachments/500-610.jpg)
 
 ## Argentina 1995-1997
 : Early 1995
@@ -2680,7 +2680,7 @@ A Approximate Evolution of Money Supply and Reserves
 
 # Central Bank Balance Sheet with Financial System
 GENERAL CENTRAL BANK BALANCE (MILLIONS OF PESOS)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fa1fe5f1bc4cbfc39f71477a4d38746c70582be8afc4e14aca47f682eb19104e.jpg)
+ ![500](Attachments/500-546.jpg)
 - Domestic assets now include loans to commercial banks
 . Additional liabilities: sterilization bonds - domestic liabilities;
  Foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) debt;
@@ -2696,7 +2696,7 @@ GENERAL CENTRAL BANK BALANCE (MILLIONS OF PESOS)
 - "Soak up" accumulated foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) received from trade
 
 ## China Sterilization
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b46428d2debd3df7c0979bdd571bd9cb7390fd78b9e9444a3cbc993f5ff68e0b.jpg)
+ ![500](Attachments/500-583.jpg)
 
 ## China Sterilization
 - 1995-2003 domestic credit grew slowly;
@@ -2710,7 +2710,7 @@ GENERAL CENTRAL BANK BALANCE (MILLIONS OF PESOS)
 
 # The 1997 East Asian Financial Crisis
 EMEs have accumulated large amounts of reserves'
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/114ef521c1424f2391242c3ab9526a2f9686c09333692ba8d94cb99026efc04d.jpg)
+ ![500](Attachments/500-577.jpg)
 1 AR = Argentina: BR = Brazil;
  CL = Chile;
  CN = China;
@@ -2739,7 +2739,7 @@ Source: IMF.
 Source: Arsia, Yavuz and Cantu, Carlos. "The size of [foreign exchange reserves](../International%20Finance/China%20Foreign%20Exchange%20Reserves/Foreign%20Exchange%20Reserves%20-%20Wikipedia/Foreign%20Exchange%20Reserves%20-%20Wikipedia.md)." BIS papers, No. 104. October 29, 2019.
 
 # The 1997 East Asian Financial Crisis
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8dff2ae3dfad78384999de3820b88da0d08f94c64cd37c239d1e62a39289eee8.jpg)
+ ![500](Attachments/500-616.jpg)
 1 Data from 2017.
 Source: IMF.
 Source: Ibid.
@@ -2801,7 +2801,7 @@ Source: Radelet and Sachs (1) and all subsequent charts.
 
 # Origins of the East Asian Financial Crisis
 Figure 3. GDP per Capita, Selected Asian Countries, 1965-96
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d80eb746eadea38dc5a591f014d624d18cfbdebfebf5ad99756a0ee8be0682fd.jpg)
+ ![500](Attachments/500-535.jpg)
 Source: GDP data for 1965-91 are from the Penn World Tables, mark 5.6. Available on the worldwide web page of the
 National Bureau of Economic Research. For 1992-96. GDP levels are constructed by applying growth rates from World Bank, Worlel Development Incdicators (available on CD-ROM) to the respective 1991 GDP levels a. Conversion to dollars uses purchasing power parity (PPP) exchange rates b. Comprises eightly-five countries.
 Source: Radelet and Sachs (1), p.19
@@ -2969,7 +2969,7 @@ Source: Radelet and Sachs 1).p.31 and 34.
 -  Private credit buildup
 
 ### Exchange Rate Crises
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/72184bdf17f7a0eb57317be09d1eb940b6233642449f7d55a4f1f9cb758f88cd.jpg)
+ ![500](Attachments/500-551.jpg)
 Exchange Rate Pegs and International Capital Markets I
 November 29, 2022
 
@@ -3003,12 +3003,12 @@ November 29, 2022
 
 # Exchange Rate Crises
 (a) Depreciation in Year after Six European Exchange Rate Crises in 19920
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bbd1d325635b8d7e6860fb44c548c4636aca0a923758061dae87c3d23e647d8e.jpg)
+ ![500](Attachments/500-545.jpg)
 (b) Depreciation in Year after Seven [Emerging Market Crises](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/The%20Credit%20Crisis-Conjectures%20About%20Causes%20And%20Remedies.md) in 1994-2002
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/573e251169d747fcf12cf6e9a5965295e890442d56daa842e6d921d3683b83ec.jpg)
+ ![500](Attachments/500-572.jpg)
 
 ##  Industrialized versus Emerging Market Devaluations
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d6e29dd586a0de9de1dc2468ac0175ea437ceca53b17dc21b3ee520d7ad28eaf.jpg)
+ ![500](Attachments/500-578.jpg)
 Industrialized versus Emerging Market Devaluations
 - Emerging markets often experience much more extreme capital movements
   - Poorer fundamental understanding by investors and lenders
@@ -3073,7 +3073,7 @@ M = PL (i) Y, therefore, R = PL (i) Y - B
 - Peg breaks if $R=0$
 
 ## Reserve Holdings
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2e25ca415c7e4383439b8a5f752b0a7a2aac4942b2ae8fe557c05866be25b023.jpg)
+ ![500](Attachments/500-536.jpg)
 
 ## Reserve Holdings
 . $M=B$ is the floating line $(\overline{0 Z})$ , where [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) must be allowed to float
@@ -3098,7 +3098,7 @@ Domestic assets (peso bonds) &  &  &  \\
 - Moves fixed line left and reduces reserve ratio to 44.4%
 - Reduces peg credibility
 Changes in Money Demand
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/89e9c9da6b8ebb3d0de5886f7cc982dbf4d68685eb69ff10a706dbca495c94f5.jpg)
+ ![500](Attachments/500-591.jpg)
 
 ## Changes in Money Demand
 - Assume $\bar{P}L (i) Y$ increases by 10%, raising i
@@ -3129,8 +3129,8 @@ $$
 -  Peso depreciated by 75%
 
 ## Pegs and Risk Premiums
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b3f5cb76678e2b83dd20dae3ed6e19582313e6f6dfb6ce2fc6179dabb248b1b7.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/006deab7c888a77389a8273a1febb0b85dab349649b86d2a69a8c3de35613059.jpg)
+ ![500](Attachments/500-585.jpg)
+ ![500](Attachments/500-583.jpg)
 
 ## Credibility and Contagion
 . Credibility
@@ -3143,7 +3143,7 @@ $$
 
 # Argentina 1993-1997
 A) Approximate Evolution of Money Supply and Reserves
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e2de245300606d1c1688d0ab375659e72e3d29b88882731151ee40096294e9ae.jpg)
+ ![500](Attachments/500-579.jpg)
 
 # Argentina 1990-19951
 : Argentina suffered from hyperinflation 1989-1990
@@ -3203,7 +3203,7 @@ Domestic ossets (peso bonds) &  &  &  \\
 \hline
 \end{array}$$
 Changes in Central Bank Asset Composition
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0664460f854659e3db3e700dde0d724695fa5e64e0ed3145b65ea9bf3bd2167d.jpg)
+ ![500](Attachments/500-584.jpg)
 Changes in Central Bank Asset Composition
 - Sterilize Peso 1 o 0 million domestic credit increase
 -  Sell $ 100 million bonds;
@@ -3233,7 +3233,7 @@ Reasons for Changes in Asset Composition
 - Protect depositors (usually government has guaranteed deposits to some level)
  - Often protect other creditors as well
  - Prevent bank “runs" Often via "[liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md)" facilities
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2f5c660bb688630a1d569498f5c2b567c337153769cbedf16acca78537b241dc.jpg)
+ ![500](Attachments/500-584.jpg)
 Foreign Exchange Rates ll: The Asset Approach in the Short Run, Part II
 November 17, 2022
 
@@ -3246,7 +3246,7 @@ November 17, 2022
 - Relates long-run money market model to purchasing power parity
 
 ### Unifying the Monetary and Asset Approaches
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e0b55400dad4cd9c0e41c2d5e8965ce06175909fc9ba88d4478e0c77d4843c2d.jpg)
+ ![500](Attachments/500-586.jpg)
 
 # Permanent Increase in US Money Supply
 - Equilibrium assumptions, both Home and Foreign:
@@ -3258,7 +3258,7 @@ November 17, 2022
 - Introduce permanent increase in US money supply
 
 ## Permanent Increase in US Money Supply
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c7fb3bc2c04774bf69a67ae49bbdabe35860179c6ee8d160b97256e1a1e9750c.jpg)
+ ![500](Attachments/500-584.jpg)
 
 ## Permanent Increase in US Money Supply
 - Prior to increase in MS, $E_{\mathfrak{\Phi}/\epsilon}^e=E_{\mathfrak{\Phi}/\epsilon}$
@@ -3292,12 +3292,12 @@ Impact of Permanent Increase in Money Supply Over Time
 # Impact of Permanent Increase in Money Supply Over Time
 (a) Home Money Supply, M
 (b) Home Real Money Balances, M/P,
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ed475638d92b89d7e9c92b4981191a97cbfbf88049437a0169e4ab799b6b9e72.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/29f5cb4f1ff3160db0ca3a8440626c562e0f85c17ae93f8b03cadc163cc2c7a4.jpg)
+ ![500](Attachments/500-591.jpg)
+ ![500](Attachments/500-568.jpg)
 (d) Home Exchange Rate, E
 (c) Home Price Level, P
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ec78f7de1accb07d547d9a8e025b1f9f0fde945c5fdb781cfa4804f89684ea68.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f49f8d78de6c3d68bd6818fe2d3176bcaf33dddc169e6fbf73ab1eacfef4038c.jpg)
+ ![500](Attachments/500-616.jpg)
+ ![500](Attachments/500-593.jpg)
 A Very Brief History of Floating Exchange Rates
  - Once Bretton Woods was abandoned
   - Exchange rates were more volatile than anticipated
@@ -3322,7 +3322,7 @@ A Very Brief History of Floating Exchange Rates
 - Leads to uncertainty
 
 ## Post-Bretton Wood Exchange Rates
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b7b9279d524073f4ad88d6551bb97cd9f3633400e9441f001731bea4ec2322b1.jpg)
+ ![500](Attachments/500-540.jpg)
 
 # Fixed Exchange Rates
 - Many countries continue to have fixed exchange rates
@@ -3356,12 +3356,12 @@ PDEN = Epkr/ePeur, so prices a fixed multiple of Eurozone$$P_{DEN}[L_{DEN}(i_{DK
 # Danish Krone versus the Euro 1
 
 ## Exchange rate of the krone vis-a-vis the euro
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e499a282de7815ea1e8cec2481c642b3b0958419e5cd81d438ec64dc6387a119.jpg)
+ ![500](Attachments/500-571.jpg)
 Note: Reversed scale. The most recent observations are from 30 June 2020.
 Danmarks Nationalbank. Source:
 
 ## Fixed Exchange Rate Theory
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7f926182364a95c9ffaa66dfac363b9a16a5cba6932d44d59a0c031ce28830b9.jpg)
+ ![500](Attachments/500-556.jpg)
 
 ## Monetary Trilemma
 - Trilemmas useful in framing policy tradeoffs
@@ -3385,7 +3385,7 @@ Danmarks Nationalbank. Source:
  - [Monetary Policy](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) Autonomy
 
 ### Monetary Trilemma
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4432ee122028b72131213945c8fe4d178c1051b6a5c1a1ae1dccd633071c002d.jpg)
+ ![500](Attachments/500-599.jpg)
 
 ## Inability to Devalue or Revalue
 - The inability of a country to devalue or revalue its [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) may lead to long term imbalances which cannot be resolved
@@ -3401,28 +3401,28 @@ Danmarks Nationalbank. Source:
 -  Northern countries benefited from joining the Eurozone through [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) rate adjustment
 -  Southern countries borrowed heavily from northern neighbors
 - It is unclear how the balances will eventually be resolved
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9a75d0a73977f3c99257b91194e70f59db0b0ef3535a7b72e11daf679d139a39.jpg)
+ ![500](Attachments/500-580.jpg)
 Source: ECB website: https://sdw.ecb.europa.eu/browse.do?node=9691112. Accessed November 14, 2022.
 
 # Change in Eurozone Debt Outstanding 2
 Percentage point change in the proportion of all outstanding public debt held by different sectors (January 2015-September 2018)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d8f597fd7b05523cbfcb55ae13de718fb60c697093e911acf3d9c1156fbfa9b1.jpg)
+ ![500](Attachments/500-583.jpg)
 Source: National Central Banks of the Eurozone
 Eurozone [Debt Risk](../International%20Finance/Bridgewater/How%20Countries%20Go%20Broke/How%20Countries%20Go%20Broke-Chapter%2015%20&%20Chapter%2016.md) Index
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/aeb74f153aa67b4bba646fea95277773964405d3d608d505ed72b8eab075a109.jpg)$(\circ)$ Barclays
+ ![500](Attachments/500-613.jpg)$(\circ)$ Barclays
 Source: Elder, Byrece. "Introducing a eurozone perpetual anxiety index." Financial Times, October 13, 2022.
 - Barclays Bank has created an index to measure financial stress in the Eurozone debt markets
 - These charts compare that index to the ECB's index
 Eurozone [Debt Risk](../International%20Finance/Bridgewater/How%20Countries%20Go%20Broke/How%20Countries%20Go%20Broke-Chapter%2015%20&%20Chapter%2016.md) Index
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/41c30892812c6ec4990a76da6e60cf586e19c43d2589082f34d7eb8e001f1708.jpg)
+ ![500](Attachments/500-613.jpg)
 Spread to Germany and volatility are averages of these indicators at the 2-and 10-year points.
 Source: Barclays Research
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/789385b29b75fa8f44b62cfeef7c817b16624fb5e021ba9d97acc2f60a9c2dcc.jpg)
+ ![500](Attachments/500-583.jpg)
 Foreign Exchange Rates ll: The Asset Approach in the Short Run, Part I
 November 15, 2022
 
 ### Inputs into Current Exchange Rates
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9a21f796bb7b6f0e9ff24643ad44dc42743841a676987d22df565c20ec38cf2c.jpg)
+ ![500](Attachments/500-555.jpg)
 - Uncovered [interest parity](../International%20Finance/Covered%20and%20Uncovered%20Interest%20Parity.md) implies an expected exchange rate
 - Will equal forward outright rate without impediments
 
@@ -3445,7 +3445,7 @@ Market equilibrium & 0.05 & 0.03 & 1.20 & 1.224 & 0.02 & 0.05 \\
 \end{array}$$
 
 ## Spot and Expected Exchange Rates
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/252696545855acb413e51dd43d1619231eb79b382895de037cac54bf4aaff8d0.jpg)
+ ![500](Attachments/500-548.jpg)
 
 ### Spot and Expected Exchange Rates
 - In equilibrium $E_{\mathfrak{\Phi}/\epsilon}^e=\$1.224$ t, is = 5% and $i_{\mathrm{f}}=3\%$$$\begin{gathered}
@@ -3460,7 +3460,7 @@ Solving~for~E_{\$/€}, obtain~E_{\$/€}=\$1.20
 
 ## Increase in Domestic Interest Rates
 Market
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/596e7ec01539a744b63202818759bf32f86e45ddc69ff8bc552ee34a879be6f7.jpg)
+ ![500](Attachments/500-614.jpg)
 
 ## Decrease in Foreign Interest Rates
 - Change assumption to decrease of 2% in Euro [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)
@@ -3468,7 +3468,7 @@ Market
 
 ### Decrease in Foreign Interest Rates
 (b) [FX Market](../International%20Finance/Foreign%20Exchange%20Markets%20and%20Exchange%20Rate%20Determination.md)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2db22119b6dbb90ea2b7a430e3110ffe2c54eaca9e61ae28bfea750779ab6828.jpg)
+ ![500](Attachments/500-584.jpg)
 Change in Market Exchange Rate [Expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md)
 - [Expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) for a fall in the exchange rate has a similar effect:
   - To rise in the domestic rate or
@@ -3485,7 +3485,7 @@ Change in Market Exchange Rate [Expectations](../Fixed%20Income%20Asset%20Pricin
 
 ### Changes in Exchange Rate Expectations
 (b) [FX Market](../International%20Finance/Foreign%20Exchange%20Markets%20and%20Exchange%20Rate%20Determination.md)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/066dab7e79e9891fa87c674b8c648b866b41055f8a70a9681a6238a929f33529.jpg)
+ ![500](Attachments/500-581.jpg)
 
 ## Short-run Money Market Equilibrium
 - Long-run model assumptions:$\circ P$ , fully flexible and brings money market to equilibrium
@@ -3500,22 +3500,22 @@ Change in Market Exchange Rate [Expectations](../Fixed%20Income%20Asset%20Pricin
 - [Interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) in each country adjust to bring money market into equilibrium$\bullet\frac{M_{US}}{\bar{P}_{US}}$ , real money demand, and quantit of money, Ms, are fixed
 
 ##  Short-run Money Market Equilibrium
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5862f6bd6bba6ff7ab96ad1906972dd83729af3867ff43b6688680b65f719fb2.jpg)
+ ![500](Attachments/500-615.jpg)
 
 ### Short-run Money Market Equilibrium
 - If initially at point 2, investors will buy financial assets, bidding up price of investments, lowering the interest rate to $i_\mathrm{\Phi}^1$ increasing real money demand to meet supply at 1
 - If initially at point 3, investors will sell financial assets, reducing the price of investments, raising the interest rate to $i_\mathrm{\Phi}^1$ , decreasing real money demand to meet supply at 1
 Exchange Rate Determinants
 Input of the model: known variables (exogenous variables)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/432d8e2b7c7ab3a11272c2c653559663398509cb83d9ab023de0b5263d3fd763.jpg)
+ ![500](Attachments/500-583.jpg)
 Output of the model: unknown variables (endogenous variables)
 - Knowing the money supply and real income in each country
   - Determine [nominal interest rates](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20and%20Nominal%20Interest%20Rates%20and%20Term%20Struc.md) in each country$$angerate, using: i_{\$}=i_{€}+\frac{E_{\$/€}^{e}-E_{\$/€}}{E_{\$/€}}$$
 And
 
 ## Impact of Change in Money Supply and Demand on Domestic Interest Rates
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3d1a571ad3c624f268dda48a6a3b97b0b4e15a7a1d2bc06c3a9669a15f1318b2.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/42f315911e19de96623c785f5a57176213c82a4ba25912e83098f808001dd913.jpg)
+ ![500](Attachments/500-615.jpg)
+ ![500](Attachments/500-616.jpg)
 ## Impact of Change in Money Supply and Demand on Domestic Interest Rates
 - Commodity view of money:
   - Amount increases and value declines (interest rate falls)
@@ -3536,7 +3536,7 @@ And
   - Fed had done less or nothing
 
 ## US Interest Rate Markets During Financial Crisis 2008-9
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/843878f88efb92bc398992a86ef7fdb0df117179dbc6a509bee0c327fbce9892.jpg)
+ ![500](Attachments/500-584.jpg)
 LIBOR-OIS Spread During [Financial Crisis](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Letter.md) 2008-9
 - LIBOR ([London Interbank Offered Rate](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md)) is, for now, the rate banks borrow funds unsecured from other banks
   - Basis for [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) most floating rate loans and [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md)
@@ -3545,11 +3545,11 @@ LIBOR-OIS Spread During [Financial Crisis](../Financial%20Markets%20and%20Instit
 - Ols - Overnight Indexed [Swap rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md)
   - [Derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) contract on the overnight interest rate
 1, 3 and 6 Month Libor versus Ois 2
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2dde9ec27f2564528a081edd1178be483096eb6642edbc99a8ae3b969970fdd1.jpg)
+ ![500](Attachments/500-586.jpg)
 ## AAA-US Treasury Six Month Spread During Financial Crisis 2008-9
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5817cbd9c5cb2e57eeb84db90d5cf774d114ecb8c644eac24151f1094c41ec33.jpg)
+ ![500](Attachments/500-584.jpg)
 Asset Approach to Exchange Rates
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3a45a216dc24854b92dc685f869b844b7df9ed0b8a44b9e1b00aa1db6e2e8c05.jpg)
+ ![500](Attachments/500-584.jpg)
 
 ### Asset Approach to Exchange Rates
 - As before, MS is Home money supply, MD Home money demand
@@ -3566,7 +3566,7 @@ Asset Approach to Exchange Rates
   - Capital controls imply no requirement for DR to equal FR
 
 ## Temporary Shock to Home Money Supply
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4bfdfcf675b393d656b5affafceee51717366e8608345390fb2ab2ddb3a2b72d.jpg)
+ ![500](Attachments/500-575.jpg)
 
 ## Temporary Shock to Home Money Supply
 - All exogenous variables remain unchanged
@@ -3577,7 +3577,7 @@ Asset Approach to Exchange Rates
 - Lower US return raises exchange rate from $E_{\Phi/\epsilon}^1$ EF/e $E_{\Phi / \epsilon }^1\textit{ to }E_{\Phi / \epsilon }^2$, representing Dollar depreciation at new equilibrium, 2'
 
 ### Temporary Shock to Foreign Money Supply
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9f7e69df73376a82ca49c57e5f42d54f3fe0783bd2ae5a7f12dad15dae06a35b.jpg)
+ ![500](Attachments/500-613.jpg)
 
 ## Temporary Shock to Foreign Money Supply
 - All exogenous variables remain unchanged
@@ -3587,7 +3587,7 @@ Asset Approach to Exchange Rates
 - Real Eurozone money supply increases, shifting FR curve downward
 - Lower Eurozone return lowers exchange rate from $E_{\Phi/\epsilon}^1\textit{to E}_{\Phi/\epsilon}^2$ representing Euro depreciation at new equilibrium, 2'
 The Euroz 0 ne Crisis 2008-2013
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b4ac4bc5e9c9800ebf4974f33836d6de2dbf5f79e95eda95f5fa5b90881c77a8.jpg)
+ ![500](Attachments/500-586.jpg)
 
 ### The Euroz 0 ne Crisis 2008-2013
 - Origin of the crisis and “resolution"
@@ -3598,7 +3598,7 @@ The Euroz 0 ne Crisis 2008-2013
  - Labor immobility
  - No exit clause
   - "Whatever it takes ... And that will be enough"
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2bff6bf0464e82542c054209c446d424fb8d331cecec14301586b4a047d08a1d.jpg)
+ ![500](Attachments/500-616.jpg)
 Foreign Exchange Rates I: Monetary Approach in the Long Run, Part Il
 November 10, 2022
 
@@ -3636,16 +3636,16 @@ November 10, 2022
 Becomes$$\frac{E_{\$/€, t}}{E_{\$/€, t}}=(\mu_{US, t}-\mu_{EUR, t})-(g_{US, t}-g_{EUR}$$$$\frac{\Delta E_{\$/€, t}}{E_{\$/€, t}}=(\mu_{US, t}+\Delta\mu_{US, t}-\mu_{EUR, t})-(g_{t}$$
 
 ### Example 2
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fdf4a41c00fd4651dae045ed719e49eb85c1d4eeaa7ba3abfb1202771dce2b54.jpg)
+ ![500](Attachments/500-602.jpg)
 
 ## Inflation Rates and Money Growth
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2cef18e8a634104a4640b9f412e0e25ab706bf0b5ca336350e83034f5507f07e.jpg)
+ ![500](Attachments/500-598.jpg)
 
 ## Exchange Rates and Money Growth
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/21546e7e6c6ce0e15d8c1104ce28d93bb940fda21f3976b1f682cbffe9a8f4ef.jpg)
+ ![500](Attachments/500-576.jpg)
 
 ### Hyperinflation
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cd05dfc9f26be8a90c5060a692202cdd110b9e21252068a15828f2c5ccdd47dd.jpg)
+ ![500](Attachments/500-566.jpg)
 
 ## Hyperinflation
 - Economists define as 50% per month - often defined in the Press as 1000% per year
@@ -3655,7 +3655,7 @@ Becomes$$\frac{E_{\$/€, t}}{E_{\$/€, t}}=(\mu_{US, t}-\mu_{EUR, t})-(g_{US, 
 -  Theft, corruption by federal government
 - Issues with drawing too many conclusions from graph above
 Hyperinflation and Demand for Real Balances
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1f0cba5f8fe675fb90db35cac91a52a901803e01e872b2cbbbaecd7fe16ef1ce.jpg)
+ ![500](Attachments/500-564.jpg)
 Hyperinflation - Money Supply and Demand
 - Staple goods in dramatically short supply
 - Government cannot print money fast enough
@@ -3680,7 +3680,7 @@ Hyperinflation - Money Supply and Demand
 Of [nominal interest rates](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20and%20Nominal%20Interest%20Rates%20and%20Term%20Struc.md) and real income.
 
 ### Demand for Money Drivers
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8913b59aadd341703fca5a58cfb301fd285e467ab4dcf96cc9219709ecbc7508.jpg)
+ ![500](Attachments/500-589.jpg)
 
 ## Money Market Equilibrium
 - Equilibrium where supply equals demand:
@@ -3730,11 +3730,11 @@ That is, $r_{US}^e=r_{EUR}^e$ ,known as real [interest parity](../International%
 - Central bank and fiscal actions
 
 # The Fisher Effect
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/290a1ad5359713488e490cd0106d5802922cc495bc93012d7568c1a748708d1e.jpg)
+ ![500](Attachments/500-586.jpg)
 Interest rate differential 1995-2005 ( $\because 0/0$ per year relative to U.s., average)
 
 ## Real Interest Rate Differentials
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a8017c96c512585039a808c109b71c58eea61bf7ea231032ece3ddc4ced1713d.jpg)
+ ![500](Attachments/500-580.jpg)
 Fundamental Equation Underlying the General Model
 - Differs from quantity theory since [liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) demand is now a function of [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)$$\frac{P_{US}}{P_{EUR}}=\frac{\frac{M_{US}}{L_{US}(i_{\$}) Y_{US}}}{\frac{M_{EUR}}{L_{EUR}(i_{€}) Y_{EUR}}}=\frac{(M_{US}/M_{E}}{(\: L_{US}(i_{\$}) Y_{US}/L_{EU}}$$
 E\$/e= (ie) YEUR)
@@ -3752,10 +3752,10 @@ E\$/e= (ie) YEUR)
  - Real money balances fall in response, price level jumps so real rate remains constant
 
 ### Change in Money Supply Growth General Model
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3730f140471e424cf88cae09692b8b70c5f376a3bed1b332947a7e185950dd22.jpg)
+ ![500](Attachments/500-580.jpg)
 
 ## Change in Money Supply Growth Quantity Model
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c5860382bfee35c9c1370d2f1d2d85603fd119e012c86792ecc2825a85b2f239.jpg)
+ ![500](Attachments/500-574.jpg)
 
 ## Monetary and Exchange Rate Regimes
 - Major central banks are driven by one or more targets or anchors 1
@@ -3854,13 +3854,13 @@ Therefore, the exchange rate implied by absolute PPP is$$E_{\$/€}=\frac{P_{US}
   - Do not reflect the current relative prices of goods
 
 ## Relationship between Inflation and Depreciation 1975-2005
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dc29802517bd60a98ab8c9d856c39af5885360d2f370ad6a5949f973188fd514.jpg)
+ ![500](Attachments/500-580.jpg)
 Relationship between [Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and Depreciation
 - The relationship between [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and depreciation is strong in the long-run
 - This is consistent with absolute purchasing power parity
   - Absolute PPP links the price level with the exchange rate
  - If prices rise at Home, the Home [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) depreciates
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d0e3d3d9fcdd95308ed834d15b0bebe760cd5be3cf6ee08e01707cb67a090a04.jpg)
+ ![500](Attachments/500-579.jpg)
 
 ## Relative PPP, Inflation and Exchange Rates
 - Look at changes in various measures:
@@ -3881,7 +3881,7 @@ Relative PPP, [Inflation](../International%20Finance/Bridgewater/Principles%20Fo
   - Relative PPP being true does not imply that Absolute PPP is true
 
 ## Relative PPP and Exchange Rates
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e59be95e27d122f8de81272ef267dfba35d13e5ba78ca142571d06d2c030f379.jpg)
+ ![500](Attachments/500-607.jpg)
 
 ## Deviations from PPP
 . Markets
@@ -3910,7 +3910,7 @@ Relative PPP, [Inflation](../International%20Finance/Bridgewater/Principles%20Fo
 
 ## Big Mac Index
  Percentage Difference verus US (Adjusted for per person GDP)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dbacf40416ee3b0284b653eb0f5b1a572db166197e32c800a555e8bd39d03e95.jpg)
+ ![500](Attachments/500-572.jpg)
 Source: www.economist.com , accessed May 7, 2022.
 
 ## Functions of Money
@@ -3922,7 +3922,7 @@ Source: www.economist.com , accessed May 7, 2022.
   - Really credit - secured lending
 
 ## Central Bank Versus Commercial Bank Money
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0ea4c21a59f14ec9b351faa420813ca029ade1d74a7992a6c730aefd2acbaf24.jpg)$\sqrt{M_{m_{1}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}n_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2-}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}}}$
+ ![500](Attachments/500-573.jpg)$\sqrt{M_{m_{1}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}n_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2-}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}}}$
 
 # Money Supply
 - Only MO controlled directly by central bank
@@ -3982,7 +3982,7 @@ November 3, 2022
   - Move the settlement date to September 21
 
 ## Forward Foreign Exchange Swap (Bank New York Perspective)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/65d2b8a2d0e4214242b626a86d54d46388e44b1b1258d4456df407de65f6822f.jpg)
+ ![500](Attachments/500-577.jpg)
 
 ## Forward Foreign Exchange Swap
 - How many dollars does Bank New York send to Bank Frankfort on September 21?
@@ -3997,7 +3997,7 @@ November 3, 2022
 -  Bid or Ask?
 
 # Forward Points
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e88aa322ee9d3dc338856a87d360c52229fcfd33534aadff5b2353f002344dbf.jpg)
+ ![500](Attachments/500-610.jpg)
 Source: barchart. Com. Accessed
 
 ### Forward Points
@@ -4027,11 +4027,11 @@ Source: barchart. Com. Accessed
 -  So Bank New York will send $1,046,641.10
 
 ### Forward Foreign Exchange Swap (Bank New York Perspective)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e6f44ca2795a70d0685f5e423bcad41771d19e33dbba72d6a9eeb517c249d624.jpg)
+ ![500](Attachments/500-604.jpg)
 
 ## Forward Outright (Bank New York Perspective)
 - Alternatively, we could have engaged in a forward outright transaction for September 21, 2022
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6b7a1d7fa1ec2be2b2d73fe84c264e611d6b3d59d393f181a07353cfd91032e2.jpg)
+ ![500](Attachments/500-531.jpg)
 - Now look at Covered and Uncovered [Interest Parity](../International%20Finance/Covered%20and%20Uncovered%20Interest%20Parity.md)
 
 ## Forward Rates and Deposits
@@ -4040,13 +4040,13 @@ Source: barchart. Com. Accessed
  - [Covered interest parity](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Interest%20Rates,%20Carry%20Trades,%20and%20Exchange%20Rate%20Movements.md)
   - [Forward rate](../Clippings/Forward%20Points%20in%20Currency.md) equals [spot rate](../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) plus interest cost (minus interest benefit) of owning one and borrowing other [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)$$F_{\$/€}=E_{\$/€}\cdot\frac{1+i_\$}{1+i_€}$$
 Forward Rates and Deposits
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b93f794fadced411d68beb1a812551dfcc49f94a345443b261b6e6c2cf7ce818.jpg)
+ ![500](Attachments/500-602.jpg)
 
 ## Forward Rates and Expectation
 - Uncovered [interest parity](../International%20Finance/Covered%20and%20Uncovered%20Interest%20Parity.md)
   - Expected exchange rate at time t equals (1 + the foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) interest rate for t) divided by the [spot exchange rate](../Financial%20Instruments/Review%20Session%20Notes/Arbitrage%20Opportunity%20Accounting.md)$$(1+i_{\$})=(1+i_{€})\cdot\frac{E_{\$/€}^e}{E_{\$/€}}$$
 Forward Rates and [Expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6398414cc8aea5e8a298385dea641c5f66513261b04af3463ce3f9101b40b431.jpg)
+ ![500](Attachments/500-580.jpg)
 
 # Forward Points Euro/US Dollar$$\begin{array}{|c|c|c|c|c|c|}
 \hline
@@ -4088,7 +4088,7 @@ Forward Points = 1.046073 - 1.0400 =. 006073
 - Why are the forward points different from those in this calculation? Did I make a mistake?
 
 # Forward Foreign Exchange Swap (Bank New York Perspective)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/91a1c8a5461276e672f8f0117585623ddc7b58c882c334575affd02a868f23df.jpg)
+ ![500](Attachments/500-610.jpg)
 21, 2022, using our formula or
 \$1,046,641 using forward points
 
@@ -4104,7 +4104,7 @@ Forward Points = 1.046073 - 1.0400 =. 006073
 # Interest Rates, Spot and Forward Exchange Rates
 Inputs of the model: Known variables. (Exogenous variables)
 Model of the spotmarket: Uncovered [interest parity](../International%20Finance/Covered%20and%20Uncovered%20Interest%20Parity.md)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d60be8a788d2d2c27e5b42ba1595029189da754f2e918f2a0572e1251b67be1c.jpg)
+ ![500](Attachments/500-577.jpg)
 Model of the [forward market](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2015/Tba%20and%20Specified%20Pools%20Markets.md): [Covered interest parity](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Interest%20Rates,%20Carry%20Trades,%20and%20Exchange%20Rate%20Movements.md)
 Outputs of the model: Unknown variables. (Endogenous variables)
 
@@ -4163,12 +4163,12 @@ Bank Foreign Exchange [Risk Management](../Financial%20Engineering/Financial%20M
 
 ### Bank Foreign Exchange Risk Management Spot Foreign Exchange Transaction
 (October 28, 2020 for settlement October 30, 2020)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bd220335fe04bd626b53d07b8d66eee27305f5bc8d58fade8d3aa0c39358ef3e.jpg)
+ ![500](Attachments/500-553.jpg)
 
 ### Bank Foreign Exchange Risk Management Post Transaction
 Spot Foreign Exchange Transaction
 (October 28, 2020 for settlement October 30, 2020)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/715e90f17d7c1dee2a434825cea874b3e43b41dd30cf93af33cf679c138eed32.jpg)
+ ![500](Attachments/500-569.jpg)
 
 ## Bank Foreign Exchange Risk Management
 - Caterpillar needs Euros to hedge revenue or expense risk or make a payment due in Euros
@@ -4183,7 +4183,7 @@ Spot Foreign Exchange Transaction
   - Implies Bank America's offer of \$1.1760 was best available
 
 ### Bank Foreign Exchange Risk Management
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9e1b6b3891d559abe231c89e81cb42927fdfb653276b90e241f0760b4f53ee5d.jpg)
+ ![500](Attachments/500-606.jpg)
 Bank Foreign Exchange [Risk Management](../Financial%20Engineering/Financial%20Mathematics%20Course.md)
 - Bank America will likely reduce or eliminate the risk taken on
 -  Will it buy or sell Euros in the interbank market?
@@ -4203,31 +4203,31 @@ Bank Foreign Exchange [Risk Management](../Financial%20Engineering/Financial%20M
 -  Short-term equilibrium regarding this trade achieved
 
 # Unused Image Links
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/746e5e34f51931675765bb0a41e5be04a6eee271af636418c99abaaa61f4f6cf.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d3be1928dbdc5eb8347d166cf8f5830c53d8dced17b4f565d05cdf78afb2fd80.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/85f82a828ab24399e960a41c02500a341c214a9b4ea57e9e6c17d75ad9a331bb.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4d8b4143058a415dea9c06a8f7fc72c53e2d4f2f11201c9fedd2286256de23e5.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b1c6ddc9a2c969c044f727357ad425a8ef3b7e29ba1aa72b9e8ce0c5611c7f8d.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cd2f3ddf8c72693ed4c2b65dfd9dbceff2641b7a715c0580887ec49a0b5a9503.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/09561226e66c84f5de57171a87370c866ff51ca8eb5cb44d0c3f1f2b8fbe7200.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a346e2022f8973c194795d37907f2499c1bea3b20b23dcb0c7d65ccbf0de1357.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3c4ee31a750cdf6a498a0c452bd6a298194d156e50b657ac42d298f3596dad23.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2d9b486f730999cd2f21f27793d15718dafd3401a7a6b79e219ced97a931bc71.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/03ef8093bf72653a33b29f77e74a1f10101db57461a46dafa61628fbd53c6b3f.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a9b78e1e7c54dd09d088c3621dffb07b7ba00cd1b6ca3b3cb61774d3db2dab74.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/27e29436d1eb986b3f002878faa7cc288d79d77684560170ca78dc5b5cc200d3.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/57d957a6581fb074a088e82fbbd8f76ce2434d0330b0385c9bfb4350d46c8ffd.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/427e5e416dd59cb4d0c0b982b2566d3b15e7646258e08ba18dddfa1c8a0ed803.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/86a66e291bbb57d4dcaf52d7ae870c6fdb2b2c77e0c30ca745fdb4057013657c.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/54fbda5673665c634c472e113aa1938018e0f8af6d1474409b710203537aaf2b.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0db65e6f8000fe026af7c37db8a3d9c2a7d7c926d6ac4f9fb8dc7a27adc1c0e5.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/415c57a14d93f62713b7437e0f9f027d13c49ae11a7e9695cef00274c879d797.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f0fc7be41672cb22ba46c89a189cc4367c6bfe4dcce208bec3f36d4ca82c4969.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/04dc808be86a6b9ca4ab38c2e7c1c77cce9859631cb21d3f4bad2393ad8c6e67.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c3d0e9b43e4d72199a614e5a5a7d6d98b7922dcc71f3e4d7d442a6299ec22d6f.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/51f9fecada61ee2d0bb1183a7ed1ac253ea3424344a7795237e924a4562451f2.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f850460c3ff141a8b39b2703d115d102fc043679408063b3ff92d59335bb4a14.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a7d53bdcb7c11dffb5da072b22fbc353d153fde5c86e5d7190923b98a1862c6c.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/36968a04091bc4831f60e97cb41c1eb71ebb5e06a3e6c30a2b6b44452c85822f.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ffaabd12196409095fb226ef1865955e1693365d5b26921f346a98173b1781fd.jpg)
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/59721af1e5f615767087af3a5ee1e28d3f07c532d49dd890a627715613c0424a.jpg)
+ ![500](Attachments/500-571.jpg)
+ ![500](Attachments/500-569.jpg)
+ ![500](Attachments/500-567.jpg)
+ ![500](Attachments/500-574.jpg)
+ ![500](Attachments/500-600.jpg)
+ ![500](Attachments/500-573.jpg)
+ ![500](Attachments/500-572.jpg)
+ ![500](Attachments/500-571.jpg)
+ ![500](Attachments/500-559.jpg)
+ ![500](Attachments/500-560.jpg)
+ ![500](Attachments/500-541.jpg)
+ ![500](Attachments/500-570.jpg)
+ ![500](Attachments/500-574.jpg)
+ ![500](Attachments/500-606.jpg)
+ ![500](Attachments/500-554.jpg)
+ ![500](Attachments/500-574.jpg)
+ ![500](Attachments/500-608.jpg)
+ ![500](Attachments/500-578.jpg)
+ ![500](Attachments/500-542.jpg)
+ ![500](Attachments/500-580.jpg)
+ ![500](Attachments/500-611.jpg)
+ ![500](Attachments/500-606.jpg)
+ ![500](Attachments/500-577.jpg)
+ ![500](Attachments/500-578.jpg)
+ ![500](Attachments/500-610.jpg)
+ ![500](Attachments/500-610.jpg)
+ ![500](Attachments/500-527.jpg)
+ ![500](Attachments/500-606.jpg)

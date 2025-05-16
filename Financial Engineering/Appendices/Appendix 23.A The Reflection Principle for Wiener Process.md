@@ -31,7 +31,7 @@ $$\Pr (X_{T}>K,      \underline{X}_{T}\leq H)$$
 
 Illustration of refection principle. Original path is ABC. Path reflected about a barrier of 70 is ABD
 
- ![500](https://storage.simpletex.cn/view/fccZYAwqiloApgLsGN23M6KRUUEMxlngK)
+ ![500](Attachments/500-175.png)
 
 The probability here is analogous to that in equation (23.6). If $X$ were the price of an asset this probability discounted at the [risk-free rate](../../Financial%20Instruments/Black%20Scholes%20Derivation.md) would be the price of a [down-and-in cash call](.md). Suppose that $X_0=80$ $H=70$ ,  and $K=100$ Consider the actual [Brownian path](.md) in
 

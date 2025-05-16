@@ -568,7 +568,7 @@ A series of payments made at equal intervals of time (annually or otherwise) -pa
 
 Payments of 1 are made at the end of every year for 77 years
 
- ![500](https://storage.simpletex.cn/view/fQOLvhAuW2GUGg1Twh67vmzoIn1KSSoqm)
+ ![500](Attachments/500-166.png)
 
 ### Annuity-Immediate Present Value Factor
 
@@ -600,7 +600,7 @@ The present value of this single payment income stream at $t=0$ is 1
 Alternatively, consider a 72 -year [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) where 1 is invested at time 0 and produces annual interest payments of $(1)\cdot i$ at the end of each year and then the 1 is refunded at $t=7$
 
 1
- ![500](https://storage.simpletex.cn/view/fTWp1wnTL4GNT1KplL58bGDdx7US9zNcc)
+ ![500](Attachments/500-155.png)
 
 The present value of this multiple payment income stream at $t=0$ is $i\cdot a_{\overline{n}}+(1)v^{n}$
 
@@ -655,7 +655,7 @@ $$\begin{aligned}
 
 Payments of 1 are made at the beginning of every year for 77 years
 
- ![500](https://storage.simpletex.cn/view/fb0uh9Q0W2NVGKtHhZ784a1NDD5HZFsZr)
+ ![500](Attachments/500-156.png)
 
 Annuity-Due Present Value Factor
 
@@ -687,7 +687,7 @@ Alternatively, consider a 72. Year [investment](../Advanced%20Investments/An%20A
 
 1
 
- ![500](https://storage.simpletex.cn/view/feDDlnl3igLOuoZqTgz711PqmX63y60hg)
+ ![500](Attachments/500-162.png)
 
 The present value of this multiple payment income stream at $t=0$ is $d\cdot\ddot{a}_{n}+(1)v^{n}$
 
@@ -746,7 +746,7 @@ $$\begin{aligned}
 
 This relationship can be visualized with a time line diagram
 
- ![500](https://storage.simpletex.cn/view/f00282KboCZQRnbuCokZe4MvfefE76cvx)
+ ![500](Attachments/500-169.png)
 
 An additional payment of 1 at time O results in $a{\frac{n-1}{n-1}}$ becoming 72. Payments that now com mence at the beginning of each year which is $\ddot{a}_{n}$
 ## Basic Relationship $6:s_{\boldsymbol{\pi}}=1+\ddot{s}_{\boldsymbol{n}-1}$
@@ -762,7 +762,7 @@ s_{n}& =1+[(1+i)+(1+i)^{2}+\cdots+(1+i)^{n-2}+(1+i)^{n-1}] \\
 
 This relationship can also the visualized with a time line diagram.
 
- ![500](https://storage.simpletex.cn/view/fmQNtQk3kGZE0rBlgHbUwWcf3iXb6g3ep)
+ ![500](Attachments/500-158.png)
 
 An additional payment of 1 at time 72. Results in $\ddot{s}{\frac{n-1}{n-1}}$ becoming 72 payments that now commerce at the end of each year which is 577
 ### 2.3 Deferred Annuities
@@ -773,7 +773,7 @@ There are three alternative dates to valuing annuities rather than at the beginn
 
  The following example will be used to illustrate the above cases. Consider a series of payments of 1 that are made at time $t=3$ to $t=9$ , inclusive
 
- ![500](https://storage.simpletex.cn/view/fXdI7LOGetIgAi2f3eFT0eHbzBiAlN6pU)
+ ![500](Attachments/500-161.png)
 
 Present Values More than One Period Before The First Payment Date At $t=2$ , there exists 7 future end-of-year payments whose present value is represented by
 $u$ 7 .If this value is discounted back to time $t=0$ , then the value of this series of payments (2 periods before the first end-of-year payment) is
@@ -789,7 +789,7 @@ The general form is
 $$_{m|}\ddot{a}_{\overline{n}|}=v^{m}\cdot\ddot{a}_{\overline{n}\mathbf{l}_{i}}.$$
 
 Another way to examine this situation is to pretend that there are 9 end-of-year payments This can be done by adding 2 more payments to the existing 7. In this case, let the 2 addi tional payments be made at $t=1$ and 2 and be denoted as 1
- ![500](https://storage.simpletex.cn/view/fTwBVBbO2erUki8of5cActymQbnKIzaBx)
+ ![500](Attachments/500-167.png)
 
 At $\mathbf{t}=0$ , there now exists 9 end-of-year payments whose present value is $u_{9}$ .This present value of 9 payments would then be reduced by the present value of the two imaginary pay ments, represented by $a\boldsymbol{T}.$ Therefore, the present value at $t=0$ is
 $$a_{\overline{9}\rceil}-a_{\overline{2}\rceil},$$
@@ -801,7 +801,7 @@ The general form is
 $$v^m\cdot a_{\overline{n}\rceil}=a_{\overline{m+n}\rceil}-a_{\overline{m}\rceil}.$$
 With the annuitydue version, one can pretend that there are 10 payments being made This can be done by adding 3 payments to the existing 7 payments. In this case, let the 3 additional payments be made at $t=0$ ， 1 and 2 and be denoted as 1
 
- ![500](https://storage.simpletex.cn/view/f3ygK1eNVtvwHNm7Hgc4zMMO5eFq6qCe1)
+ ![500](Attachments/500-160.png)
 
 At t=0 , there now exists 10 beginning-of-year payments whose present value is $\ddot{a}_{10}$ This present value of 10 payments would then be reduced by the present value of the three imag inary payments, represented by $\ddot{a}_{37}.$ Therefore, the present value at $t=0$ is
 $$\ddot{a}_{\overline{10}\rceil}-\ddot{a}_{\overline{3}\rceil},$$
@@ -821,7 +821,7 @@ Alternatively, at $t=10$ , there exists 7 past beginning-of-year payments whose 
 $$\ddot{s}_{71}\cdot(1+i)^{2}.$$
 
 Another way to examine this situation is to pretend that there are 10 end-of-year payments This can be done by adding 3 more payments to the existing 7. In this case, let the 3 addi tional payments be made at $t=10$ ,11 and 12 and be denoted as
- ![500](https://storage.simpletex.cn/view/fFDsGqIgkTgG4wgFCNz9IfzihdR1Q2agv)
+ ![500](Attachments/500-171.png)
 
 At $\mathbf{t}=12$ , there now exists 10 end-of-year payments whose present value is 5101 .This future value of 10 payments would then be reduced by the future value of the three imaginary payments, represented by 531 .Therefore, the accumulated value at $t=12$ is
 $$s_{\overline{10}}-s_{\overline{3}},$$
@@ -833,7 +833,7 @@ The general form is
 $$s_{\overline{n}}\cdot(1+i)^{m}=s_{\overline{m+n}}-s_{\overline{m}}.$$
 
 With the annuity-due version, one can pretend that there are 9 payments being made. This can be done by adding 2 payments to the existing 7 payments. In this case, let the 2 additional payments be made at $t=10$ and 1 l and bedenoted as
- ![500](https://storage.simpletex.cn/view/fznGVG0kYqV205QzUQ9Ca37RsAfqEIcTG)
+ ![500](Attachments/500-168.png)
 
 At $\mathbf{t}=12$ , there now exists 9 beginning-of-year payments whose accumulated value is $\ddot{\text{S क़}}$ This future value of 9 payments would then be reduced by the future value of the two imaginary payments, represented by $\ddot{S}\boldsymbol{\daleth}$ Therefore, the accumulated value at $t=12$ is
 $$\ddot{s}_{\overline{9}\rceil}-\ddot{s}_{\overline{2}\rceil},$$
@@ -961,7 +961,7 @@ Definition Of A Perpetuity-Immediate
 
  payments of 1 are made at the end of every year forever i.e. $n=\mathbf{x}$
 
- ![500](https://storage.simpletex.cn/view/fWLncbq3G2w2lfuuE3nw7zAic5Fts6kTb)
+ ![500](Attachments/500-157.png)
 
 Perpetuity-Immediate Present Value Factor
 
@@ -989,7 +989,7 @@ In this case, a perpetuity-immediate that is payable forever is reduced by perpe
 
 payments of 1 are made at the beginning of every year forever i.e. $Tb=00$
 
- ![500](https://storage.simpletex.cn/view/foPG090paefDV2tgpOrUFy1rl2fhqzwde)
+ ![500](Attachments/500-164.png)
 
 ### Perpetuity-Due Present Value Factor
 
@@ -1038,28 +1038,28 @@ $$a_{\overline{\infty}}\cdot\frac{i}{\delta}=\frac{1}{i}\cdot\frac{i}{\delta}=\f
 
 It helps to draw out a time line and plot the payments and withdrawals accordingl
 
- ![500](https://storage.simpletex.cn/view/f7gZt9d4Wi1LzOGQKsQ0A3PEGkygsYDTG)
+ ![500](Attachments/500-170.png)
 ### Example
 
 -a payment of 600 is due in 8 years: the alternative is to receive 100 now, 200 in 5 years and $X$ in 10 years. If $i=8\%$ ，find $\$X$ , such that the value of both options is equal.
 
- ![500](https://storage.simpletex.cn/view/fQcGoT48vY8sHoNXFqN93m8lFkhDeNOBQ)
+ ![500](Attachments/500-165.png)
 
 -compare the values at $t=0$
 
- ![500](https://storage.simpletex.cn/view/f3KdtNvY15HTLBlrDsPmdMInEUzc2aMDQ)
+ ![500](Attachments/500-159.png)
 $$\begin{aligned}
 600v_{8\%}^{8}& =100+200v_{8\%}^{5}+Xv_{8\%}^{10}  \\
 \text{X}& =\frac{600v_{8\%}^{8}-100-200v_{8\%}^{5}}{v_{8\%}^{10}}=190.08
 \end{aligned}$$
 -compare the values at $t=5$
 
- ![500](https://storage.simpletex.cn/view/fMTu53uHQK7X0rwMVLE2xq8db3og9hMMH)
+ ![500](Attachments/500-163.png)
 $$\begin{aligned}600v^{3}&=100(1+i)^{5}+200+Xv^{5}\\X&=\frac{600v^{3}-100(1+i)^{5}-200}{v^{5}}=190.08\end{aligned}$$
 
 -compare the values at $t=10$
 
- ![500](https://storage.simpletex.cn/view/fzRuUwEDwdDZ8r6U0w6Tbigx1gXZHcdBt)
+ ![500](Attachments/500-160.png)
 $$\begin{aligned}600(1+i)^2&=100(1+i)^{10}+200(1+i)^5+X\\X&=600(1+i)^2-100(1+i)^{10}-200(1+i)^5=190.08\end{aligned}$$
 
 All 3 equations gave the same answer because all 3 equations treated the value of the payments consistently at a given point of time.

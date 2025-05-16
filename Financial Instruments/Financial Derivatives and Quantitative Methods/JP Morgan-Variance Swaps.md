@@ -40,7 +40,7 @@ Variance swaps can be replicated by a [delta-hedged portfolio](.md) of vanilla o
 
 [Variance swap](../../Financial%20Engineering/Variance%20Swaps.md) cash-flows
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/519d0ed623b0d411ed456d2f6826ad767aa350d0101bc2ef8ad1edc604522f4a.jpg)
+ ![500](Attachments/500-234.jpg)
 
 Source: [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
@@ -62,11 +62,11 @@ Variance swaps are instruments which offer investors straightforward and direct 
 
 Buying a [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) is like being long volatility at the strike level; if the market delivers more than implied by the strike of the option,  you are in profit,  and if the market delivers less,  you are in loss. Similarly,  selling a [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) is like being short volatility. However variance swaps are convex in volatility : a [long position](../../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%204%20-%20Futures:%20Hedging%20and%20Speculation.md) profits more from an increase in volatility than it loses from a corresponding decrease. For this reason variance swaps normally trade above ATM volatility.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6fcf5e01c772491d48790e49797a43e8bed76e8b0e7910e4bd997bb2bc977a2c.jpg)
+ ![500](Attachments/500-236.jpg)
 
 Figure 1 : [Variance swap](../../Financial%20Engineering/Variance%20Swaps.md) payoffs are convex in volatility
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/890cee08d18d7a29c1b9fbde77ee87d77de4f4970aab474084592132718583a5.jpg)
+ ![500](Attachments/500-269.jpg)
 
 Figure 2 : Euro Stoxx 50 implied and realised variance levels
 
@@ -131,7 +131,7 @@ Peter Allen (44-20) 7325-4114 Stephen Einchcomb (44-20) 7325-9064 Nicolas Grange
  - 1.8 [Variance swap](../../Financial%20Engineering/Variance%20Swaps.md) contract specifications
  - 1.9 Example [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) term sheet
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/20ee859b53005b7dacf2ce943115dd05a9153c06957b003afb4ecc1a66adb0fa.jpg)
+ ![500](Attachments/500-257.jpg)
 
 # Part 1: Variance Swap Mechanics
 
@@ -145,7 +145,7 @@ Volatility measures the variability of [returns](../../Financial%20Markets/Finan
 
 Figure 3 shows the history of realised volatility on the Dow Jones Industrial Average over the last 100 years. Periods of higher volatility can be observed,  e.g. in the early 1930’s as a result of the [Great Depression](../../International%20Finance/Bridgewater/Chapters/US%20Debt%20Crisis%20and%20Adjustment%201928-1937.md),  and to a lesser extent around 2000 with the build-up and unwind of the dot-com bubble. Also noticeable is the effect of the 1987 crash,  mostly due to an exceptionally large single day move,  as well as numerous smaller volatility spikes.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/34a3fac05a8d529e0fef8bc5c9bac03b8074135ec6b080c0452f32fb490c1ab2.jpg)
+ ![500](Attachments/500-245.jpg)
 
 Figure 3 : Long term history of realised volatility Source: [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
@@ -154,11 +154,11 @@ The following are some of the commonly observed properties of (equity market) vo
 - Volatility tends to be anti-correlated with the underlying over short time periods (Figure 4) • Volatility can increase suddenly in ‘spikes’ • Volatility can be observed to experience different regimes (Figure 5) • Volatility tends to be mean reverting (within regimes)
 This list suggests some of the reasons why investors may wish to trade volatility: as a partial hedge against the underlying – especially for a volatility spike caused by a sudden market sell-off; as a diversifying asset class; to take a macro view e.g. for a potential change in volatility regime; or to trade a spread of volatility between related instruments.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fca86e4d8f58f40a39615c870aceffd2db5c05e115c72e281a580afbb6a73c68.jpg)
+ ![500](Attachments/500-235.jpg)
 
 Figure 4 : in the short term volatility is anti-correlated with index level Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0797861345bacb2b72cea36ff3e31946fb4cbb0d83795226b0c60ef34ff66e12.jpg)
+ ![500](Attachments/500-237.jpg)
 
 Figure 5 : 20 years of Euro Stoxx realised volatility: the index has experienced both high and low volatility regimes
 
@@ -174,19 +174,19 @@ Volatility is usually quoted as an annualised volatility and expressed as a perc
 
 Volatility can also be defined by an RMS (root-mean-squared) measure,  which is like a standard deviation but assuming a zero mean (Box 1). This simplifies calculations,  and in practice,  the difference from the traditional standard deviation is very small,  for all but the shortest-dated volatility (Figure 6,  Figure 7). The average return is the drift,  which should be near zero on a daily basis. Furthermore,  it is this RMS volatility measure which is used to define the payout of the [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) contract.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c427bef8ba26a80c135a5c9d060d2ed5771a30fdfbe40a511972d0a60b75a4c2.jpg)
+ ![500](Attachments/500-238.jpg)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5d9e15a47eec470712cc70d47b7ebd555caaee5c147a4835a4331fb5c3d49f52.jpg)
+ ![500](Attachments/500-260.jpg)
 
 Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
 Volatility conveys information about the usual size of moves in the underlying in relation to its absolute price. Typical stocks have (annualised) vol at ili ties of around $\mathbf{15.35\%}$ ,  with equity indices generally somewhat lower. Maturities considered usually range from a few days to a few years. Clearly short-dated realised volatility will be much ‘noisier’ than longer dated,  but will convey more up-to-date information. Longer dated volatility represents a smoother ‘average’ volatility but will include older data possibly outside of the current regime – e.g. 5-year Euro Stoxx volatility currently remains some $9\%$ above 1-year volatility due to the inclusion of data from the high volatility regime in 2002-2003.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7e6b4c2637f46e88b636cafd0b18640d2aae10e1663ef5cc405739e910be3a9d.jpg)
+ ![500](Attachments/500-241.jpg)
 
 Figure ${\mathfrak{h}}:$ The difference between RMS volatility and standard realised volatility can be noticeable for short-dated volatility… Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e4d3302d83631d7ad594c24a6144215bbec4159629b84380d3412aee1e6ca8d5.jpg)
+ ![500](Attachments/500-278.jpg)
 
 Figure 7 : …but the difference is negligible for longer-dated volatility
 
@@ -202,7 +202,7 @@ The strike of a [variance swap](../../Financial%20Engineering/Variance%20Swaps.m
 
 # Figure 8: P/L of a variance swap
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/96399671320271d31f004180a045d41fd7184b1f474111bbe060e99ad8eddf2d.jpg)
+ ![500](Attachments/500-262.jpg)
 
 By convention,  volatility is scaled by a factor of 100,  for example a strike of 20 represents a volatility of $20\%$ . Note that [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) strikes are quoted in terms of volatility,  not variance; but pay out based on the difference between the level of variance implied by the strike (in fact the strike squared) and the subsequent realised variance. This means the ${\mathsf{p}}/1$ of a [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) is non-linear (convex) with volatility,  although of course it is linear in terms of variance.
 
@@ -260,11 +260,11 @@ Although [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) payo
 
 Ultimately this [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) is the reason that variance swaps strikes trade above at-the-money volatility. Because of the [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md),  a [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) will always outperform a contract linear in volatility of the same strike (e.g. Figure 9). The price paid for this [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) should depend on the expected variability of the (realised) volatility. The higher the variability of volatility,  the larger the likely discrepancy between the variance strike and the realised volatility,  and hence the more beneficial the [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) becomes (Figure 9,  Figure 10). In the limiting case,  with volatility of volatility zero,  the ${\mathsf{p}}/1$ of the [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) will always be zero (volatility is constant) and hence the [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) strike and hypothetical [volatility swap](../../Financial%20Engineering/Variance%20Swaps.md) strike must coincide. See Section 2.8 for a detailed discussion of the value of the [variance swap](../../Financial%20Engineering/Variance%20Swaps.md)’s convex payoff.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a23ac0f8785cfd6e1c585231e53be6d51dbe058104ee42184c911398cc37bbb5.jpg)
+ ![500](Attachments/500-244.jpg)
 
 Figure 9 : When volatility remains close to the [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) strike,  the [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) payout is similar to a linear “[volatility swap](../../Financial%20Engineering/Variance%20Swaps.md)”… p/l for 100 K vega notional,  strike of 20
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/86cebc55351f2f824db95fed37171e895d4b2193ecfd50f0d070967639ac78f4.jpg)
+ ![500](Attachments/500-240.jpg)
 
 Figure 10 : … but for large swings in volatility,  the [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) of the [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) payout becomes important Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
@@ -291,15 +291,15 @@ Over the 20-day period realised volatility was $14.3\%$ ,  $2.2\%$ lower than th
 
 Table 2: Daily p/l and cumulative realised volatility from a 20-day short [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) struck at 16.5
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/321c0adf29eed02849686c222b9fb1ee7571eb5634691467da60d2f547ff6af6.jpg)
+ ![500](Attachments/500-259.jpg)
 
 Note how most days were low volatility and produced modest positive [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) for the short variance position. However,  a few days with relatively large moves caused significant daily losses (Table 2,  Figure 12). This pattern is common: short variance will profit modestly most of the time,  but will lose heavily on large moves.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4959d010efae1ef73725651eb7dcfdf2e1f9dcc1a8d27c2605dfb0b6be17b5d1.jpg)
+ ![500](Attachments/500-243.jpg)
 
 Figure 11 : Index performance over the lifetime of the [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) Euro Stoxx level
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c5c0cd22d1befd7f194c5946df5e089d8caaeec5e15024cf77a8e5d8354f906c.jpg)
+ ![500](Attachments/500-242.jpg)
 
 Figure 12 : Accrued volatility vs. Daily [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)
 
@@ -332,7 +332,7 @@ If,  after 3-months,  9-month L IBOR is $4\%$ ,  the [discount factor](../../Fin
 
 Box 4: [Variance swap](../../Financial%20Engineering/Variance%20Swaps.md) mark-to-market
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1e7d226fa088d103ccbe9e86272dc50ca94239fa9397d3566e164976e317c12b.jpg)
+ ![500](Attachments/500-256.jpg)
 
 Part 1: [Variance Swap Mechanics](../../Financial%20Engineering/Variance%20Swaps.md)
 
@@ -483,11 +483,11 @@ In the case of cash bids,  options are unwound immediately after the offer has b
 
 One further issue with cash bids,  is that the underlying will usually trade at close to the bid level after the offer has been accepted,  often with close to zero volatility. However,  the options are not unwound until the offer is declared unconditional. For example when Telefonica bid for O 2 on 31 October 2005,  it took until 3 January 2006 for the offer to go unconditional (Figure 14). Although outstanding options were settled at the [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) prevailing before the October bid,  they were not unwound until the beginning of January,  leading to two months of virtually zero accrued volatility on any outstanding variance swaps. In this case,  given the size of the daily move on the day of the bid $(+~25\%)$ the 3-month realised volatility from the beginning of October up until the unconditional date on January 3 rd,  was around $50\%$ ,  well in excess of levels of implied variance trading before the bid. However,  in cases where the move on the bid is smaller,  and the time up until unconditional acceptance is longer,  the low realised volatility over this period could hurt long variance swaps.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3acac06f9ebc033f604693970d344435344cb9910dc85cfb605746283e882159.jpg)
+ ![500](Attachments/500-277.jpg)
 
 Figure 13 : The apparent drop in spot and consequent spike in volatility was entirely due to the payment of a single $6.3\%$ dividend.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ff493819b62b0734c110e551ce2ab34c4bcff0e02b3229a8559a98141ecad894.jpg)
+ ![500](Attachments/500-255.jpg)
 
 Figure 14 : O 2 realised volatility collapsed following the bid. But the large 1-day move from the bid was large enough to keep realised volatility high
 
@@ -495,13 +495,13 @@ Figure 14 : O 2 realised volatility collapsed following the bid. But the large 1
 
 Sep 06 OTC [Variance Swap](../../Financial%20Engineering/Variance%20Swaps.md): FTSE Index Variance
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e1d37579b7c7c6c23ec3bc881b12a45bc8c59bf0c6b9f4bcd6eab9d5eaf8e499.jpg)
+ ![500](Attachments/500-265.jpg)
 
 1. The [Variance Swap Market](../../Financial%20Engineering/Variance%20Swaps.md)
 
 - 2.1 [Market development](../../Financial%20Engineering/Variance%20Swaps.md) • 2.2 Historical prices • 2.3 Variance swaps and option vol at ili ties • 2.4 [Pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) rules of thumb • 2.5 What drives [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) levels? • 2.6 The volatility risk premium • 2.7 Variance as a predictor of future volatility • 2.8 Is [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) fairly priced? • 2.9 Variance [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0004b1f078a7c8523222f08a4d7dbe978fb4e1c3bb7234c9bac208377fec832b.jpg)
+ ![500](Attachments/500-277.jpg)
 
 # Part 2: The Variance Swap Market
 
@@ -523,7 +523,7 @@ Variance swaps were initially developed on index underlying s. In Europe,  varia
 
 Table 3: Global [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) [liquidity](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53c771608b268a174faf824658b9278c948af9d64758ea313657aa277b08eb3a.jpg)
+ ![500](Attachments/500-246.jpg)
 
 Source: [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md) estimates,  November 2006
 
@@ -551,11 +551,11 @@ Figure 15 shows Euro Stoxx 50 implied variance levels between 2000 and 2006 for 
 
 Longer maturity [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) levels vary less,  with 3-year implied variance remaining in the 15-35 range,  and in particular reacting less to spikes. A sudden unexpected event likely to dramatically increase short-term volatility dramatically,  is perhaps less likely to cause the same level of elevated volatility over the next few years.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ac5f20cde20c6ccc957ae67bcf3b439801170c74f1616a4cb1ffe4bd0a077978.jpg)
+ ![500](Attachments/500-276.jpg)
 
 Figure 15 : Euro Stoxx implied variance levels since 2000 Implied variance Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7ccffa7c49da642fcc8b18423986446540eeba92dd79d7af00cca128dcce6da8.jpg)
+ ![500](Attachments/500-276.jpg)
 
 Figure 16 : VIX (short-dated S&P 500 variance) since 1990
 
@@ -590,17 +590,17 @@ Table 4 shows ATM volatility and [variance swap](../../Financial%20Engineering/V
 
 Table 4: ATM volatility and variance levels (as of COB 24 Oct 2006)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dc6bdac83d0ca1bf43ad0d42388be46c3173efe8d603a48bba463da7d8831217.jpg)
+ ![500](Attachments/500-264.jpg)
 
 Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
 For example note that at 3-year maturity (Figure 18) the variance strikes of Ahold and ING are similar (around 27) even though their ATM implied vol at ili ties differ by more $24\%$ vs. $27\%$ ). Whilst this is partly due to the different [forwards](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md) (ING has a dividend yield of $3.6\%$ ; Ahold doesn’t pay a dividend) the skew surface of Ahold is relatively flat,  whereas that of ING is more convex,  due to much steeper put skews. Note also that at 6-month maturity the index variance appears somewhat rich in comparison to its ATM volatility. This is caused by the index having higher put skews than the singlestocks. However,  at 3-year maturities,  the greater upside [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) of the single-stocks becomes more important and the index variance appears to be priced in line with its ATM volatility in comparison to the single stocks.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ab8364415e2b15d839e748aa3c3b3271cff3f5fdb67344d654cd7a8a1cfc8565.jpg)
+ ![500](Attachments/500-267.jpg)
 
 Figure 17 : 6 m variance swaps trade above 6 m ATM [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) 6 M implied variance
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/586d16c8ccf952df79b8222440a1970afc116770cb3a09999ff95da77e2942e3.jpg)
+ ![500](Attachments/500-255.jpg)
 
 Figure 18 : … And longer maturities trade at a higher premium 3 Y Implied variance Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
@@ -617,11 +617,11 @@ Ultimately both of these explanations come down to the fact that a long [varianc
 
 In practice,  the contribution of the skew component means that [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) strikes tend to trade at similar levels to OTM puts – usually around 95-100 strike for maturities of around 1-3 months (Figure 19),  and 90-95 strikes for maturities of about a year (Figure 20). The skew,  and [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) (in terms of the overall shape of the skew surface) become more important factors for [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) at longer dates,  where the probability of reaching more OTM strikes increases (Figure 18).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a92f7f463069cc9b03851a736680191210cb9bbac79843dbb002567ef2a65433.jpg)
+ ![500](Attachments/500-257.jpg)
 
 Figure 19 : The VSTOXX (theoretical interpolated mid variance price) generally trades just below the Euro-Stoxx 1 M $95\%$ put volatility [Implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md)/variance
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/282d3876962d05a506d19456e60153bd43d468b8a0b3fc96bde4eb0ef1fc8db8.jpg)
+ ![500](Attachments/500-256.jpg)
 
 Figure 20 : 1 Y Euro-Stoxx variance swaps trade closer to 90-strike put volatility [Implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md)/variance
 
@@ -650,11 +650,11 @@ $K_{\scriptscriptstyle V A R}\approx\sigma_{\scriptscriptstyle A T M F}\sqrt{1+3
 
 In practice,  this approximation tends to work best for short-dated index variance (up to about 1-year),  where put skews are often relatively linear and call skews relatively flat,  at least close to the money. As maturity increases and the OTM strikes have a greater effect on the [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) price,  the contribution of the skew becomes more important (Figure 21),  but the inability of the approximation to account for the skew [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) can make it less accurate. Similarly,  for singlestocks,  where the [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) can be much more significant,  even at shorter dates,  the approximation can be less successful. Where the estimate is accurate it tends to be closer to the traded bid than the offer (Figure 22).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a288bb238dc6b163fbd8125f57f6a715d2462675be4c7721a42daccd88141532.jpg)
+ ![500](Attachments/500-279.jpg)
 
 Figure 21: [Variance swap](../../Financial%20Engineering/Variance%20Swaps.md) prices are more sensitive to skew at longer maturities Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1d454d0f61564a4d6b3765df598ab861f77d34029a76250823b04a32707abf4e.jpg)
+ ![500](Attachments/500-278.jpg)
 
 Figure 22: Derman’s approximation has been relatively accurate for index variance,  but can under-estimate the [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) mid. Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
@@ -673,25 +673,25 @@ Table 5-Table 8 show vol at ili ties,  [variance swap](../../Financial%20Enginee
 
 Table 5: Dec-06 (2-month) volatility,  skew and variance
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a4566fa42ea71881242a5ddb12dd29abc370eceeac57bbc34766bb22ff5d50ae.jpg)
+ ![500](Attachments/500-276.jpg)
 
 Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md); Data from 23 October 2006.
 
 Table 7: Dec-07 (c. 1-year) volatility,  skew and variance
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1ec242e45aed30913c3564bff4f0db8fe6e4c5a4976f38754cea82cb7368e586.jpg)
+ ![500](Attachments/500-277.jpg)
 
 Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md); Data from 23 October 2006.
 
 Table 6: Mar-07 volatility (5-month),  skew and variance
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/77203531cc43e74e70b05be7ec6b11bb3bb8b88db1e9c1177cb2b1ce2a653f45.jpg)
+ ![500](Attachments/500-278.jpg)
 
 Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md); Data from 23 October 2006.
 
 Table 8: Dec-09 (c. 3-year) volatility,  skew and variance
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5d2a00ae62521a685aebb7723413cc75ef16fa034227fc01d74e5e79548a40a7.jpg)
+ ![500](Attachments/500-276.jpg)
 
 Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md); Data from 23 October 2006.
 
@@ -731,11 +731,11 @@ Since [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) levels 
 
 In common with options vol at ili ties,  one of the most important drivers of [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) levels,  at least at shorter maturities,  is historical realised volatility (e.g. see Figure 16). The correlation between strikes of 1-month variance swaps and the volatility realised over the previous month is 0.91 $\mathbf{R}^{2}=0.83$ ,  Figure 23). However,  as maturity increases,  the correlation (and beta) between [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) prices and realised volatility decreases (Figure 24). Even at short maturities,  realised volatility is not the only driver; evidenced by the fact that short-dated variance is superior to realised volatility as a predictor of future volatility (see p 37).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e083175bf76e2c367ad548363fe29e5cb28d48444eb6e80e26cc454c4d846aaa.jpg)
+ ![500](Attachments/500-250.jpg)
 
 Figure 23: Short-dated implied variance is driven by short-dated realised volatility Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md) (Euro Stoxx 50 data since August 2000)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c46fe497431c61fadeb82b87adb80fcf65e2b06ed9ec76f232bd051132c2d164.jpg)
+ ![500](Attachments/500-270.jpg)
 
 Figure 24 : Short-dated variance is most sensitive to realised volatility Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md) (Euro Stoxx 50 data since August 2000)
 
@@ -747,11 +747,11 @@ Finally,  it should be added that [variance swap](../../Financial%20Engineering/
 
 Whatever the drivers of [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) levels,  we do observe that they tend to trade above realised volatility,  most notably at the index level. Whilst this variance premium is partly due to the [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) of the [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) payout,  the remainder is the so-called volatility risk premium ,  which is the subject of the next section.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a3cc764b6429670fcda9c197fd9b5b7537e7a7ecd0dce1834fe1a4baa848a215.jpg)
+ ![500](Attachments/500-256.jpg)
 
 Figure 25 : Over short time periods,  [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) levels are inversely correlated with market level … Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c78064db270eef707e46ef5a6e57e23ad9570b5d389206936f88477e20280ded.jpg)
+ ![500](Attachments/500-257.jpg)
 
 Figure 26 : … With the relationship changing as volatility switches regimes Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
@@ -759,11 +759,11 @@ Figure 26 : … With the relationship changing as volatility switches regimes So
 
 The [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) strike represents the market’s fair price for exposure to realised variance over a specified period of time. However [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) levels tend to trade consistently above comparable realised volatility (Figure 23),  with only part of the spread attributable to the [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) of the [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) payout. Back-testing shows that long volatility positions,  at least on index underlying s,  are biased to make a loss (Figure 27). Conversely,  short index volatility positions are,  on average,  profitable. This bias is referred to as the volatility risk premium. In this section we investigate why this bias exists,  what it represents and how it changes over time.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7bf03e75ff57b3697a46361be5c09f2f69016c0487a00d7888bc0a25856c5cba.jpg)
+ ![500](Attachments/500-256.jpg)
 
 Figure 27 : Average [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) from long variance are negative… [Variance swap](../../Financial%20Engineering/Variance%20Swaps.md) p/l (vegas)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cdf69d67f3bfe1e8b5e43e36367f491b9ab56386d6c5f4a2194ca68850617a74.jpg)
+ ![500](Attachments/500-279.jpg)
 
 Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md) (p/l from 1 m Euro Stoxx variance since Aug 2000)
 
@@ -773,7 +773,7 @@ Part 2: The [Variance Swap Market](../../Financial%20Engineering/Variance%20Swap
 
 Risky,  but in the long run likely to make lucrative [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md),  providing enough capital is available to absorb the occasional inevitable losses.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/19fc89c00fcff0c049afae77943a08db50425b80732d2b7ea60eba41dc15306e.jpg)
+ ![500](Attachments/500-256.jpg)
 
 Example 12 above shows why sellers often fail to drive [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) prices below certain thresholds (e.g. around $12\%$ on the Euro Stoxx),  even when short-dated realised volatility drops to very low levels. For example,  the y-intercept on Figure 23 suggests an absolute floor of $6\%$ for implied variance in the hypothetical case that realised volatility drops to zero.
 
@@ -791,11 +791,11 @@ Given these caveats,  we characterise the risk premium as the 1-year rolling ave
 
 Part 2: The [Variance Swap Market](../../Financial%20Engineering/Variance%20Swaps.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4b930f04de1b09a2e74e965cac350c56b5b136c05c27296ae45bcaf35a78e04b.jpg)
+ ![500](Attachments/500-281.jpg)
 
 Figure ${\boldsymbol{\mathfrak{29}}}\colon$ Variance risk-premium on the Euro Stoxx 50 Volatility/ points Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/faa2e7a7e37ec2c19d5576e6beb25fa5e8dd21f2ce053545c236b104aa39b1ca.jpg)
+ ![500](Attachments/500-256.jpg)
 
 Figure 30 : Variance risk-premium on the S&P 500 Volatility points Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
@@ -810,10 +810,10 @@ As discussed in the previous section,  variance is itself a biased estimator,  a
 Given that implied variance appears to have better predictive power than prevailing realised volatility,  what extra information could the [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) and option markets be [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) in?
 
 - [Mean reversion](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) of volatility : the implied variance can take account of the current medium term “average” of volatility and the fact that volatility tends to be mean-reverting within a regime. If volatility over the last year has been say $30\%$ ,  but over the last month $10\%$ ,  1-month implied variance will likely be priced well above $10\%$ . • Knowledge of forthcoming events : vol at ili ties (especially short-dated) will tend to be marked up ahead of earnings seasons or other events likely to increase volatility. In this sense implied variance can be truly forward looking,  whereas past realised volatility is not. • Risk aversion in the market : If investors are nervous and willing to pay extra for protection,  they are perhaps also prepared to liquidate their positions quickly in a downturn and increase [market volatility](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Class%20Slides%20On%20Terrausd%20Runs%202.md). Thus an increase in implied variance could precede an increase in realised volatility if the market sells off.
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e06736df75ae035ea1352f7abc57956d682e468a6e5a0a3889d7730056dd16f5.jpg)
+ ![500](Attachments/500-272.jpg)
 Figure 31 : 1-month realised volatility is relatively well correlated with realised volatility over the next month… subsequent realised 1-month volatility Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md) (Euro Stoxx 50 data since Aug 2000)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d027543139d66d080cf0a5f20ae1db7fc733509b95f0cf37350166502d5e3602.jpg)
+ ![500](Attachments/500-248.jpg)
 
 Figure $32:\ldots$ but the correlation of 1-month implied variance with subsequent realised variance is somewhat stronger subsequent realised 1-month volatility Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md) (Euro Stoxx 50 data since Aug 2000)
 
@@ -821,11 +821,11 @@ Instead of trying to predict future 1-month realised volatility using volatility
 
 Although short-dated implied variance is a relatively good predictor of subsequent realised volatility,  the same is not true for longer maturities . Further in the future is harder to predict. Moreover,  any edge of implied over realised volatility as a predictor for future realised effectively disappears for maturities longer than 3-months (Figure 34).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4b7de6f82de571e9f514aab1cf7cc509a5d8212299b6b7937d05f2097c2b4e08.jpg)
+ ![500](Attachments/500-273.jpg)
 
 Figure $33\colon$ Correlation between implied variance and past and future realised variance
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5ea31200164d597b521fbd481372b9922f2b34e3072d795c31af79aa8d577331.jpg)
+ ![500](Attachments/500-276.jpg)
 
 Figure $\mathfrak{A}\colon$ Correlation of implied variance with subsequent realised of similar tenor decreases with maturity.
 
@@ -839,11 +839,11 @@ The convex payout means that a [variance swap](../../Financial%20Engineering/Var
 
 We can attempt to quantify the price paid for the [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) by computing the difference between the [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) strike and the ATM volatility ,  implicitly assuming that we could trade a “[volatility swap](../../Financial%20Engineering/Variance%20Swaps.md)” linear in volatility,  struck at ATM [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md). We can then compare the (linear) payoff from the [volatility swap](../../Financial%20Engineering/Variance%20Swaps.md) with the (convex) payoff of the [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) to estimate the value of [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4c9df03512d5466410a60b3438e4da1cd5ddfaee1e1a8cb28794b5c0ef743ff8.jpg)
+ ![500](Attachments/500-254.jpg)
 
 Figure $35\colon$ Measuring the value for [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) Extra vega p/l due to [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) (var swap – vol swap p/l) Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2751c0bfb12c9bf6844206e6596a122e74a22c4eaddb2794b6e95720c3d96d67.jpg)
+ ![500](Attachments/500-252.jpg)
 
 Figure $36:1$ -month implied variance has some predictive power for future realised variance Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md) (Euro Stoxx 50 data since Aug 2000)
 
@@ -857,41 +857,41 @@ We can also calculate an ‘implied’ variability of volatility by considering 
 
 Although,  this figure of $6\%$ volatility of volatility for the Euro Stoxx is a long term average (Aug 2000 – Sep 2006),  like volatility,  it changes over time. By estimating this standard error,  on a rolling 1-year basis,  we see that it has a minimum of just below $2\%$ and a maximum around $10\%$ ,  the changes roughly reflecting ambient levels of realised volatility (Figure 39). We observe a similar pattern,  but slightly lower range for the S&P (Figure 40). Notice also that over the last few years,  Euro Stoxx [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) of volatility has been more or less in line with the actual variability of volatility (variance appears fairly priced with respect to ATM volatility),  but in the US,  S&P [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) of volatility has consistently over-estimated the actual variability of volatility (variance is overpriced with respect to ATM volatility; skew/[convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) is too high)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4c6ebfe0ecfd185b0b6e8712363ea77116f937e2685187d71f4502fc381aff7d.jpg)
+ ![500](Attachments/500-281.jpg)
 
 Figure 37 : Variance swaps trade at a premium to ATM volatility Source $:$ [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md) (Euro Stoxx 50 data since Aug 2000)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a827cbd8143471e7637d9dfb7a0f413f47f5c846e45e8709e4a3816aaf59b191.jpg)
+ ![500](Attachments/500-260.jpg)
 
 Figure 39 : Euro Stoxx 50: implied and realised volatility of volatility Implied/realised volatility of volatility Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ccab58f492327585c31549089f28c35eb79357935ed8f969d5b25f260b47099d.jpg)
+ ![500](Attachments/500-282.jpg)
 
 Figure 38 : The spread between variance and ATM volatility reflects the [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) of volatility
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/46ca730cebd8a9857f8ec594ca6797e677d0cc675b93d48752fcf2655efca0f0.jpg)
+ ![500](Attachments/500-277.jpg)
 
 Figure 40 : S&P 500: implied and realised volatility of volatility Implied/realised volatility of volatility Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
 Note that there is a strong correlation between volatility and the spread between [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) levels and ATM volatility . This makes sense,  if we believe that the volatility of volatility is correlated with volatility (Figure 41,  Figure 42). That is,  large (absolute) changes in volatility are more likely when volatility is high that when volatility is low. This is not surprising: when volatility is low,  it is generally stable (give or take the odd spike); when volatility is high it tends to swing about more wildly.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bb863c14990079fde042e13123a5634d4748f1d678cac7c18904da543fe4b6c9.jpg)
+ ![500](Attachments/500-277.jpg)
 
 Figure 41 : Volatility is correlated with volatility of volatility Volatility / volatility of volatility Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md) (Euro Stoxx 50 data since 1987)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/42dea126e8bb90ade52f8d0d844bb2d24aac0df7379274c7ae07f40452e7357f.jpg)
+ ![500](Attachments/500-250.jpg)
 
 Figure 42 : Correlation of 1-year realised volatility,  with the variability of the volatility realised over each of the 12 months Stddev of monthly realised vol at ili ties over the year Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md) (Euro Stoxx 50 data since 1987)
 
 Estimates for the expected volatility of volatility are used for [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) options on variance. However in the case of variance swaps they are also of use for [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) caps. A long capped [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) can be thought of as a standard [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) plus a short call on variance,  stuck at the cap level (Figure 43). A standard cap of $2.5\mathrm{x}$ current implied variance strike is relatively far out-of-the-money ,  assuming that the volatility of volatility is not too large. This means that the value of the cap should be relatively small compared to the [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) strike and should not have a major effect on [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). However,  for a [long position](../../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%204%20-%20Futures:%20Hedging%20and%20Speculation.md),  a [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) with a cap will always be worth less than an uncapped [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) of the same strike. Therefore capped variance swaps must trade with strikes slightly below their uncapped equivalents – the difference,  in theory,  representing the current value of the call on variance.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/054c0c20407beeba0ae7ef157b77947fd98bffdb87cc0b5371293e8091f22075.jpg)
+ ![500](Attachments/500-279.jpg)
 
 Figure $43\colon$ A capped [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) is equivalent to a [covered call](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2018%20-%20Stock%20Options%20and%20Stock%20Index%20Options.md) on variance Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
 Table 9: P/L from a long [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) $@{20}$ strike
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e5b856b94a3de2598cdc53e6f35bdc519c2b1ade34fe25d13478f49421ddd1aa.jpg)
+ ![500](Attachments/500-256.jpg)
 
 Part 2: The [Variance Swap Market](../../Financial%20Engineering/Variance%20Swaps.md)
 
@@ -903,11 +903,11 @@ The variety of drivers of short and long-dated variance can lead to interesting 
 
 The [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) curve can also be thought of representing the mean-reverting nature of volatility . The short end is most sensitive to prevailing levels of realised volatility (Figure 45),  whereas the long end (5-years $+\dot{}$ ) tends to be more anchored to some long-term estimate of average volatility. However,  longer-dated volatility is also driven by structured product flows and tends to be more susceptible to supply/demand dynamics.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0712178e1791d065640586f68aa6dbb719368a7b7ad3f356c75b33a166ca2e63.jpg)
+ ![500](Attachments/500-247.jpg)
 
 Figure $44\colon$ Euro Stoxx [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) COB 23 October 2006 [Implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md)/variance Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8547053c1378244f3e843c2a3bfc1de4eb1bbcc4e45b77e6863943d0f36e2a2d.jpg)
+ ![500](Attachments/500-275.jpg)
 
 Figure 45 : Short-dated volatility is driven by short-dated realised [Implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md)/variance Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
@@ -917,7 +917,7 @@ Another important point to consider,  especially for longer maturity trades,  is
 
 These observations help to explain why investors can be reluctant to sell long-dated variance at seemingly high levels (e.g. $25\%$ for Euro Stoxx 5-years) when the relevant indices have almost never realised these levels over any 5 year period (Figure 46). For example,  in 1998 [LTCM Meltdown](Class%20Note%2013%20The%20[[Risk%20Management%20Lessons%20From%20Long%20Term%20Capital%20Management)|LTCM]] experienced crippling mark-to-market losses on short positions on long-dated volatility. As it happened,  1998-2003 was probably the worst 5-year period in the last half-century to be short realised volatility,  so this particular trade may well have lost even if it had been held to maturity.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7f1b1188899a8055d745afdd48f48ff424dcdbec33a3972a2b076e0a5bf6574c.jpg)
+ ![500](Attachments/500-284.jpg)
 
 Figure 46 : Realised index volatility has rarely exceed $25\%$ over 5 years 5-year realised volatility Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
@@ -927,11 +927,11 @@ Typical movements of term structures can be explained in part by the “root-tim
 
 Analysis of [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) movements is very important especially for [long forward](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Forward%20Rates%20Agreement.md) volatility trades. Here,  the loss due the slide from moving down a normal term-structure is traded-off against the savings in carry due to the elimination of exposure to realised volatility. Direct trades on the predicted evolution of the variance maturity curve are also possible (Section 3.9).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b07d4a4bda9f25966aae58bce235de05843ccbaaa2676741957b650ce43c2acb.jpg)
+ ![500](Attachments/500-256.jpg)
 
 Figure 47 : Variance [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) moves more at the short end… Implied variance Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md) (Euro Stoxx 50 data)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e30d0b547fb02f0435af295eed67297f096d48f9e4054a9e9687a48f256ee1a6.jpg)
+ ![500](Attachments/500-256.jpg)
 
 Figure 48 : …as demonstrated by the May 2006 volatility spike when the short end inverted and the longer end flattened [Variance swap](../../Financial%20Engineering/Variance%20Swaps.md) maturity
 
@@ -949,7 +949,7 @@ Figure 48 : …as demonstrated by the May 2006 volatility spike when the short e
  - 3.10 Skew and [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) trades
  - 3.11 Cross asset class trades
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/417d254fa042aa99ddc6216683b28d7493af23e80819968c7c43c7e7861d1bf7.jpg)
+ ![500](Attachments/500-283.jpg)
 
 # Part 3: Uses of Variance Swaps
 
@@ -1004,7 +1004,7 @@ We have back-tested the strategy of selling 1-month S&P variance on the first da
 
 Results from back-testing are very encouraging (Figure 49). Average [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are 2.3 vegas per month,  with 161 of the 196 months yielding positive [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) (Table 10). Nevertheless,  the maximum gain $(14.8\%)$ is much less than the maximum loss $(22.6\%)$ and there were four months with losses greater than $10\%$ ,  compared with only two months with gains greater than $10\%$ – indicating the negative tails of the return distribution (see e.g. Figure 28). This is also seen when comparing the standard deviation of negative [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) $(5.2\%)$ with that of the positive [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) (only $2.5\%$ ). Although positive [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) dominate,  losses are relatively infrequent but can be large and unpredictable.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/da41aff34baee3fe12d5163063c3e012cd1b673df3519d4205241a5ed8255053.jpg)
+ ![500](Attachments/500-264.jpg)
 
 Figure 49 : Performance of rolling short variance on the S&P Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
@@ -1028,11 +1028,11 @@ In this case the monthly loss will be capped at $0.5\:\mathrm{x}\: (\:20^{2}-50^
 
 In contrast if realised volatility over the next month was only $10\%$ ,  the ${\mathsf{p}}/1$ would be: $0.5\mathrm{~x~}(20^{2}–10^{2})/(2\mathrm{x}20)=0.5\mathrm{~x~}7.5=$ 3.75 ip,  the new index level would be 103.75,  and the new vega notional equal to 0.51875 index points.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/42f54af675916d8409273f689cd6df45577d29d9872ed994451fe9b0ff7b3ae4.jpg)
+ ![500](Attachments/500-255.jpg)
 
 Figure $50\colon$ Index performance from rolling short variance strategy Index performance Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md),  results from Mar 1990 – Jul 2006
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0ecc9e9c6769273a7823409bd26b225739779fadae6515d6916e7f5cf98c581d.jpg)
+ ![500](Attachments/500-255.jpg)
 
 Table 10: Performance statistics for rolling short variance strategy Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md),  results from Mar 1990 – Jul 2006
 
@@ -1048,19 +1048,19 @@ Part 3: Uses of Variance Swaps
 
 One of the notable features of the [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) of a rolling short volatility index is its similarity to [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) of a bond index (Figure 51,  Figure 52). In rolling short variance,  regular periods of positive ${\mathsf{p}}/1$ resulting from the spread between implied and realised are punctuated by large losses arising from spikes in volatility. In bond indices,  the regular ${\mathsf{p}}/1$ resulting from [coupon payments](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) and [accrued interest](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) is punctuated by capital losses caused by rising yields,  or,  in the case of credit portfolios,  defaults. In the same way as interest is the payment required for providing financial capital,  the implied - realised volatility premium can be thought of as the payment required for providing “equity-insurance” capital. It is this “equity-insurance” capital that can be considered an alternative asset class that can be invested in and the payment received is captured through a rolling short [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) strategy.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f7533859e00061032a1b7168ce302a6fbfbf96c41a303ce7aa719824fddba1d0.jpg)
+ ![500](Attachments/500-281.jpg)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b4d62624bf1aa2ef04763c7079c91aa4cf5ff29eb0058bcc71d1a1afb4835425.jpg)
+ ![500](Attachments/500-281.jpg)
 
 Figure 52 : Bond index performance – [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md) USD traded bonds Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
 Hence,  volatility (or more correctly the implied – realised spread) can be thought of as an asset class in its own right. Moreover since there is relatively low correlation between the ${\mathsf{p}}/1$ from short variance and the underlying equity market,  it can be used within a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) to diversify [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) (Figure 53,  Figure 54).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3e9d32e73922bdac1a9069d230a2af6b8d610cb39028efbaf4a80a65fbc56a8f.jpg)
+ ![500](Attachments/500-249.jpg)
 
 Figure 53 : [Efficient frontier](../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) of stock plus bond moves further out by adding short variance… Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/53dbd0ce9c69e3fa8127ef8f5a61ce6f9a350b7a183fd98a43701da48a261d1a.jpg)
+ ![500](Attachments/500-260.jpg)
 
 In Figure 53 we show the risk/return for each individual strategy – equity (long Euro Stoxx),  bonds (long Euro Governments),  short Euro Stoxx 50 variance – overlaid with an [efficient frontier](../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) for a two-asset bond/equity mix (grey line) and an [efficient frontier](../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) for all three asset classes (blue line). Because variance [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are not fully correlated to any combination of bonds and equities,  including [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) from short variance swaps helps to push out the [efficient frontier](../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md). Moreover when used in conjunction with bonds and equities,  short variance swaps generally replace bonds within an efficiently allocated [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) (Figure 54),  due to somewhat bond-like nature of short [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md).
 
@@ -1081,11 +1081,11 @@ The second type of spread trading involves taking opposing volatility positions 
 
 One of the characteristics of a low [market volatility](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Class%20Slides%20On%20Terrausd%20Runs%202.md) regime is the compression of volatility spreads across stocks and indices. This is highlighted by the contraction of cross-sectional deviation between different index realised vol at ili ties whenever overall [market volatility](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Class%20Slides%20On%20Terrausd%20Runs%202.md) becomes more subdued (Figure 55).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7779d692ddd341da2ef0b036d9ca9b0bc54afba27b673dba28ae1f34c5e356fb.jpg)
+ ![500](Attachments/500-261.jpg)
 
 Figure 55: Spreads between different indices have compressed as [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) has fallen… Source: [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5b707b4ea41d84a014779997f94e1f9095a5343a9649f2c6500dbf3eddaeb050.jpg)
+ ![500](Attachments/500-283.jpg)
 
 Figure 56: …while there has been a general trend of increasing correlation between indices
 
@@ -1099,11 +1099,11 @@ As an example of this type of trade,  we look at the behaviour of DAX volatility
 
 Another important feature of the DAX / Euro Stoxx volatility spread is that it tends to widen as volatility increases. This is a consequence of the volatility beta effect,  which sees DAX realised volatility increase (and then decrease) by more than Euro Stoxx realised volatility. We can quantify this effect by looking at the beta of a regression of DAX on Euro Stoxx 6month realised volatility,  which has been about 1.25 over the last three years and 1.05 over the last fifteen years (Figure 58).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3f4d46c60f8428abe2390f7be13ea753afc304f9125dc66f91388e000c5aaddf.jpg)
+ ![500](Attachments/500-253.jpg)
 
 Figure 57: DAX tends to realise more volatility than the Euro Stoxx … 6 M realised volatility Source: [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/05ae038d2f996a2f1ec55d463fc62f17cf1bc8cfdea133723b7042c3c3b8b0ff.jpg)
+ ![500](Attachments/500-275.jpg)
 
 Given the directional it y shown in Figure 58,  it makes sense to compare a long variance strategy on the DAX with a spread trade which is long DAX / short Euro Stoxx 50 variance. We can backtest this directly by comparing the prevailing levels of implied variance of the two indices,  and the spread between them,  with the historical realised volatility over recent years.
 
@@ -1119,11 +1119,11 @@ To compare these two alternatives fairly,  we scale the ${\mathsf{p}}/1$ of the 
 
 Part 3: Uses of Variance Swaps
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e6a5c81f0d0783f1af1548189eb6d7147de8fd14b701f0cec2eb844ceaf30bbd.jpg)
+ ![500](Attachments/500-277.jpg)
 
 Source: [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md); assuming prevailing variance levels as of 25 Sep 2006
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/34115ab2f59c3362536fdf7d1330025c6918d3c99c2b40ad06cb8f84cdda9e37.jpg)
+ ![500](Attachments/500-276.jpg)
 
 Figure 60: … but the spread trade does have a more normally distributed p/l Population of p/l scenarios
 
@@ -1147,11 +1147,11 @@ Of course sometimes a divergence in implied variances of two stocks whose varian
 
 To some extent we can screen out these type of scenarios by also considering the z-score arising from the ratios of realised vol at ili ties. If the realised volatility ratio has recently diverged from its long-term average in the same way as the ratio of implied variances,  then the change in the implied variance ratio may be justified,  and no trading opportunity exists. Thus the trick is to look for pairs with a high z-score in their [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) ratio,  which is not reflected in a corresponding high z-score for their realised volatility ratio (Figure 61,  Figure 62).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c5e8d80a6a7ef9ac6ba7dcf61c501c117e0d7a85c782f400ed87e10a073d95dd.jpg)
+ ![500](Attachments/500-259.jpg)
 
 Figure 61: Alcatel [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) increased in relation to Cap Gem… 1 Y [Implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) ratio
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2d75608cc0f0400e283b7cf125081591dbd15b742ab5c0ff842800d51f8a9d0f.jpg)
+ ![500](Attachments/500-239.jpg)
 
 Figure 62:…but this is not reflected in the ratio of realised vol at ili ties 3 M realised volatility realised volatility ratio Source: [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
@@ -1170,13 +1170,13 @@ Figure 63 and Table 11 show the results of the cross-sectional regression model 
 
 We have backtested this method by trading selected stock variances from a universe of major European names - buying variance on the 10 stocks with the cheapest looking variance according to this metric and selling variance on the 10 richest looking names. Results are good,  with around 6 vegas average ${\mathsf{p}}/1$ (pre-bid/offer) since 2003 from trading the spread between the long and short variance baskets. See European Equity [Derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) Weekly,  21 November 2005 and “Introducing [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)’s Cross-Sectional Volatility Report”,  November 2006 for further details.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1cbfc4f567fac20a62dc4691333cef46ffb191ce801bf001236aeba303d5b2eb.jpg)
+ ![500](Attachments/500-257.jpg)
 
 Figure 63: Cross-sectional model: stocks with rich volatility appear above line; those with cheap volatility below it Source: [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
 Table 11: The top 5 richest and cheapest European vol at ili ties according to the cross-sectional model (9 November 2006)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/96ba3c368d1cf024f859f8350d9119e6c0f4bc445c06493faf232643078ca1c4.jpg)
+ ![500](Attachments/500-268.jpg)
 
 Source: [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md) This method can also be used to select stocks with cheap [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md)/variance to trade against index variance in a bespoke dispersion trade. See e.g. European Equity [Derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) Weekly,  12 June 1006.
 
@@ -1206,11 +1206,11 @@ This implied correlation can be traded by selling index variance and buying sing
 
 Like volatility,  correlation usually trades at a premium to realised levels (Figure 64),  making it another attractive candidate for carry-style trades: rolling short correlation through variance dispersion performs well (Figure 65). Nevertheless,  [volatility and correlation](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/A%20Practical%20Estimation%20Method.md) are themselves correlated,  and tend to spike together in a sharp sell-off. Losses from short correlation through variance dispersion can occasionally be very large,  especially since the trade becomes short volatility following adverse moves in correlation. Similarly,  the ${\mathsf{p}}/1$ from favourable moves in correlation is diminished as the trade becomes long volatility under these conditions. This ‘volatility-scaling effect’ helps to account for the premium of variance dispersion levels compared to correlation swaps and the relatively modest performance of variance dispersion trades in the low volatility environment since 2003.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f3d6dee940b7e450be6250fe3ca35aa1fc4c7f7277ebb5d22c11a47a8e6854df.jpg)
+ ![500](Attachments/500-283.jpg)
 
 Figure 64 : Implied correlation tends to trade at a premium to realised Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/438d37dc4ce48d1ff1285bea7cb9fd2c58addd1b4ca31e4c00ce3d21be476857.jpg)
+ ![500](Attachments/500-263.jpg)
 
 Figure 65 : rolling ${\mathsf{p}}/{\mathsf{I}}$ of variance dispersion reflects the spread between implied and realised correlation,  but is diminished by low volatility Source: [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
@@ -1228,11 +1228,11 @@ One of the strengths of variance swaps is the ease of [pricing](../../Financial%
 
 The first analogy is to use forward variance to trade the future volatility of an underlying ,  in a similar way that investors use [Euribor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md),  EuroDollar or [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#Federal Funds Market|[Fed Funds](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md)]] [interest rate futures](../../Financial%20Engineering/Derivatives/Part%20III%20-%20Fixed%20Income%20Futures%20Contracts/Chapter%2012%20-%20Hedging%20with%20Interest%20Rate%20Futures.md) to trade the future direction of [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md). For example,  investors expecting a more prolonged hiking cycle from ECB will sell [Euribor futures](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) at far out maturities expecting the yield curve to steepen (Figure 66). Likewise investors expecting a pick up in volatility that is greater than that currently priced in,  can buy forward starting variance swaps to express their view (Figure 67).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1c2582bf0ad55f4f5a0d6706f4e7cacd15638861f6c9e4e867c0a230ebd0bae1.jpg)
+ ![500](Attachments/500-256.jpg)
 
 Figure ${\mathfrak{G}}{\mathfrak{G}}:$ Forward interest curve compared to history. 3-month [Euribor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5de9611843beda04e4a282590b0fa910c65b00e9b5607960952b32996f856293.jpg)
+ ![500](Attachments/500-259.jpg)
 
 Figure 67 : Forward variance compared to history 3-month volatility
 
@@ -1260,11 +1260,11 @@ Slide in both [fixed income](../../Fixed%20Income%20Asset%20Pricing/Lecture%20No
 
 The behaviour of changes in the implied variance curve can be analysed using principal component analysis (PCA). PCA decomposes moves in the volatility curve into its major components,  or factors. Figure 68 shows the two most important components of weekly changes in the Euro Stoxx volatility curve,  using 6 years of data. The first,  and most important,  factor illustrates how the dominant curve move is to increase (or decrease) much more at the short-end of the curve . This illustrates how short dated implied variance tends to move about twice as much as longer dated maturities during a shift up (or down) in the [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md),  reflecting the tendency for increases in volatility to flatten the curve and for decreases in volatility to steepen the curve (consistent with the root-time adjustment described above,  see p 42). The second component of curve moves is more of a twist component ,  with volatility decreasing (or increasing) at the very short-end of the curve and increasing (or decreasing) further out.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3e5ba2769db8d3741adc2d3ec933848a3ae21f97f7830f1fab697a1e22c78b73.jpg)
+ ![500](Attachments/500-260.jpg)
 
 Figure $68:$ Principal component decomposition of Euro Stoxx volatility curve since 2000 Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8efad06123b7118dc9fcbd0a35d448b155164472e5199cc8b66de0750c092bf8.jpg)
+ ![500](Attachments/500-258.jpg)
 
 Figure 69 : Principal component decomposition of Euro Stoxx volatility curve since 2000 … the first component has flattened through time Change in implied variance Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
@@ -1274,11 +1274,11 @@ Part 3: Uses of Variance Swaps
 
 Changes. At the same time however,  secondary twist-like moves have become relatively more important,  as shown in Figure 71. This means that curve twists have become more independent and less well correlated to the direction of volatility.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8e3f21437f18083a2fe346e261c76e324a01b08088a05ebdd4ebac2128f72941.jpg)
+ ![500](Attachments/500-258.jpg)
 
 Figure 70: Movements in variance [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) predicted by the [principal components](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%206/Principal%20Component%20Analysis.md) analysis model Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a34b68d8ea732927c80b3de9fb45bdcd2a0a83de8db0eaa1e7268bd3515ad8be.jpg)
+ ![500](Attachments/500-278.jpg)
 
 Figure 71 : Euro Stoxx principal component analysis: weight of second (twist) component has increased over the last 5 years
 
@@ -1308,21 +1308,21 @@ For those spikes which have not subsided within 2 months,  it is likely that the
 
 The short lived spikes tend to outnumber the longer-lived spikes by about 3 to 1.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1c6eac7827554bbc645323113fc3a1b0be24b948adc113cd4d1cfaab0c6d40f6.jpg)
+ ![500](Attachments/500-258.jpg)
 
 Figure 72: Volatility tends to reset higher following longer-lasting spikes
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e8de8aef965dfcdf12a09ce61e07e4c9c828e02b5718a545dc4d29da533c4a8f.jpg)
+ ![500](Attachments/500-278.jpg)
 
 Figure 73: Changes to the Euro Stoxx 50 variance [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) during the volatility spike in May/June 2006 Source: [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
 Given that we can make an assumption on the likely timing of a spike and have a reasonable idea,  from PCA,  on how it will affect the curve,  we can estimate the likely ${\mathsf{p}}/1$ from holding different maturity (spot or forward starting) variance swaps. We can then gauge which [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) offers the best cost/benefit profile given the prevailing variance [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7b0dc8fc99b4d23124a4cc1f559ec41bb12555b7bd41e323cf91791973539159.jpg)
+ ![500](Attachments/500-271.jpg)
 
 Figure 74: [Variance swap](../../Financial%20Engineering/Variance%20Swaps.md) [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) as of 20 October 2006 Implied variance Source: [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a246109e956c1b748e1964d68955fbce1049a8ef7647bd336e5a1ca217251be5.jpg)
+ ![500](Attachments/500-276.jpg)
 
 Figure 75: Expected cost of carry and slide over the next 3-months assuming realised volatility of $12\%$
 
@@ -1340,11 +1340,11 @@ Figure 76 and Figure 77 show the expected ${\mathsf{p}}/1$ of 6-months variance 
 
 The shorter maturity forward starting variance does best if the magnitude of the shift is large and happens within the next few months. If the move up happens later,  the low realised volatility before the spike increases the breakeven of this maturity . The 9-month forward starting maturity does well in most scenarios as the low slide helps mitigate the cost of holding the long volatility position.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/065ff8cc842b9d5e45955a5662d2464c4bc6e5473d6f938bc41d0c62f5c46c46.jpg)
+ ![500](Attachments/500-259.jpg)
 
 Figure 76: p/l if spike in [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) were to happen in 3months,  assuming realised volatility of $12\%$ until then Source: [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1f16594a7fcc1f91889cc286ab7b6957c88472ae98490c9016c72c8abc5d5ba5.jpg)
+ ![500](Attachments/500-279.jpg)
 
 Figure 77: p/l if spike in [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) were to happen in 4months,  assuming realised volatility of $12\%$ until then Source: [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
@@ -1362,11 +1362,11 @@ In the later case (April),  the spike occurred soon after implementation and hen
 
 However in the January example,  the spot variance performed relatively poorly,  since by the time that the volatility spike occurred,  previous low realised volatility had increased the required breakeven level,  and also the residual exposure to [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) had fallen. In contrast the forward starting variance swaps did much better,  participating more fully in the spike in [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md). Moreover the long maturity 12-month forward did almost as well as the 6-month forward,  which had the added advantage of being an almost spot instrument at the time of spike (Figure 79).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b8f5b907ee445ee06703558ab627b888153fba0a923a296f650d98643128447d.jpg)
+ ![500](Attachments/500-263.jpg)
 
 Figure 78: The p/l of various long 6-month term variance strategies starting in May Source: [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0ef1b065810261ad021550b1e541b641a4edebdbd802fd0333d0b54090c65e06.jpg)
+ ![500](Attachments/500-261.jpg)
 
 Figure 79 The p/l of various long 6-month term variance strategies starting in January
 
@@ -1376,19 +1376,19 @@ Whilst we have shown that variance swaps are useful for taking a direct view on 
 
 The first example attempts to take advantage of a flattening of volatility term structures (Figure 80). In this case,  in mid-May 2006,  the Euro Stoxx 50 1-year-2-year implied variance spread had come close to its two-year lows (Figure 81),  which in turn left 1-year variance 1-year forward close to its lows as seen in early 2005 (Figure 82). This meant that the market was implying a similar outlook for forward realised volatility in May 2006 as it had at the beginning of 2005. This appeared to be somewhat contradictory given the macro economic concerns prevailing at the time.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f86e0f5f803c1f03933fec5d0e800465e27afd2dfd1c7d8f6d06ead9379b3b2c.jpg)
+ ![500](Attachments/500-259.jpg)
 
 Figure 80 : Euro Stoxx 50 curve had flattened up to 15 th May [Variance swap](../../Financial%20Engineering/Variance%20Swaps.md) level
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4f8713d9c042cc81c0bec84a6a0c53b3ea081308cf30e3e49beb5134a0a8e2df.jpg)
+ ![500](Attachments/500-279.jpg)
 
 Figure 82 : Euro Stoxx 50: 1 year 1 year forward variance had come down relative to spot variance Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/71497e0854b0f962b74a9ffe15d85c171e986fefaa6c8ad84f9b679fbaf87be3.jpg)
+ ![500](Attachments/500-261.jpg)
 
 Figure 81 : … and particularly in the 1-2 year part of the curve
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d8a7d8ec575bae69d4c8f7e90c17a4075e6841f16baf456c0118079ce4c2ed63.jpg)
+ ![500](Attachments/500-279.jpg)
 
 Figure 83 : … especially accounting for the level of volatility
 
@@ -1406,11 +1406,11 @@ The second example aims to take advantage of a Euro Stoxx 50 [term structure](..
 
 Whilst this could have reflected anticipation on the part of investors of an increase in volatility over the following months,  this slope appeared steep compared to the overall level of [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) (Figure 85). As the level of [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) falls,  the spread between the near term [forwards](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md) and those further out usually widens. However as the May-2006 volatility spike receded this spread of [forwards](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md) stayed narrow,  reflecting an expectation on the part of investors for a near-term move up in [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e4dd735b1ed52cce9d1f4b6f1c506d9a854a58deb16fe153960b91bb91282247.jpg)
+ ![500](Attachments/500-256.jpg)
 
 Figure 84: Euro Stoxx [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) bulged compared to FTSE … Source: [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/62ef04392092b4aff00acee1657d30be951fc9891b1f35a662667742a5e05a1d.jpg)
+ ![500](Attachments/500-285.jpg)
 
 Figure 85: … meaning that near maturity Euro Stoxx [forwards](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md) look high compared to further out maturity [forwards](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md). 6-month variance 9-month forward – 3-month forward 6-month implied variance
 
@@ -1470,13 +1470,13 @@ Breakeven $=\;\mathsf{s q r t}(\; 16^{2}-2\;\mathrm{x}\; 16\;\mathrm{x}\; 547/10
 
 Table 12 shows breakeven realised volatility levels for different market levels,  for two different put overlays. The first overlay targets an upside breakeven volatility of $9\%$ ,  as per the calculations above. The second involves selling fewer puts,  which lowers the downside volatility breakeven at the expense of an increased upside breakeven – in this case $12\%$ .
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c9292fd60247adb2db8fcc0313f2dcc0a8c91f4600519d6b43570de02ed0daef.jpg)
+ ![500](Attachments/500-282.jpg)
 
 Figure ${\mathfrak{s o}}:$ Long variance and short put can better reflect the tendency of volatility to rise is a sell-off.
 
 Table 12: Volatility breakevens for long variance,  short put
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/69f053bf29a82e428ac1ecdecdd86719c79d0d71bbf18bc19a1f459b3bdaf555.jpg)
+ ![500](Attachments/500-259.jpg)
 
 This concept of [shorting](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Short%20Selling.md) puts against a long [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) position,  effectively neutral is es some of the long downside puts which are embedded within a [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) (see Part 4). Taken to its extreme,  combinations of short options can be used to remove exposure to realised volatility completely if the underlying moves above or below a certain level. This observation naturally leads to the concept of third generation [Leverage](Lecture%206-[[Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products), Tail Risk, Volatility Products#6.7 Volatility products|volatility products]] such a conditional variance swaps (see “Conditional Variance Swaps”,  April 2006 ). Since conditional variance swaps are effectively priced from only part of the [volatility skew](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Swaption%20Skew.md),  they can be used to gain more direct skew exposures. For example the popular ‘long up $. 95\%$ conditional variance,  short $105\%$ down-conditional variance’ trade locks in a premium dependent on the level of skew,  providing the underlying remains within $5\%$ either side of current spot.
 
@@ -1484,11 +1484,11 @@ This concept of [shorting](../../Financial%20Markets/Financial%20Engineering%20a
 
 Investors may wish to consider trading variance swaps against credit default swaps (CDS) to exploit any discrepancies between the equity and [credit markets](../../Credit%20Markets/Credit%20Markets%20Session%201.md). Both variance swaps and CDS give some measure of the risk associated with a particular company,  and should be to some extent correlated. This can be seen when the relationship is aggregated to the index level. Here credit and CDS indices such as Maggie and [iTraxx](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20II%20CASH%20FLOW%20ENGINEERING/Chapter%2010%20-%20Collateralized%20Debt%20Obligations%20and%20Basket%20Credit%20Derivatives/Credit%20Derivative%20Indexes.md) show a strong relationship to Euro Stoxx 50 implied variance in Europe (Figure 87) and in US the CDX HG and HY indices is well correlated to S&P variance (Figure 88).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/396fbad1795ea1fb20f2abbf47ffbb18f4f515ccae74e826dece242c60188d4e.jpg)
+ ![500](Attachments/500-281.jpg)
 
 Figure 87: Implied variance is related to credit at the index level in Europe…
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d68d3382e789a3075dd122e20445cd3ba4e866a6e9fa094902317b3f6eb57301.jpg)
+ ![500](Attachments/500-278.jpg)
 
 Figure 88: … and the same is true in the US. Source: [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
@@ -1514,11 +1514,11 @@ For example,  consider the behaviour of Fiat CDS as a function of its share pric
 
 In contrast,  because implied variance factors in some of this reduced risk,  the relation between Fiat implied variance and credit is more stationary (Figure 90). Hence,  variance swaps can be useful instruments as vehicles for expressing a view on the [capital structure](../../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) of a company. In practice,  some combination of variance and the underlying equity may be used.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/41ff8a2478800e6cbf3921bf568960206ba0a39cece6cd75e2bd3b71e37b265b.jpg)
+ ![500](Attachments/500-277.jpg)
 
 Figure 89: Fiat CDS has changed relationship with [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) … 5 Y [CDS spread](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md) Source: [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5199258be97ef7d5116a4434d19cd7e206b5421c4045a1283b1d8fe6bed2a1f9.jpg)
+ ![500](Attachments/500-279.jpg)
 
 Figure 90: … whereas Fiat CDS is more linearly related to variance 5 Y [CDS spread](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md) Source: [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
@@ -1540,7 +1540,7 @@ Peter Allen (44-20) 7325-4114 Stephen Einchcomb (44-20) 7325-9064 Nicolas Grange
  - 4.10 Effects of [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)
  - 4.11 Why not volatility swaps?
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6f7726ebf02552c6c245f16879a7dcefc7df217dd300e832b24960d7629d00a1.jpg)
+ ![500](Attachments/500-282.jpg)
 
 # Part 4: Replication and Hedging
 
@@ -1572,11 +1572,11 @@ Suppose we hold a (call) option. Then to make the position instantaneously delta
 
 By frequently re-adjusting this delta-hedge (in theory continuously,  in practice usually daily) the sensitivity to direction of the underlying can be hedged out over the lifetime of the option. Note that this is a dynamic hedge which must continuously be monitored and re-balanced. P/l will come from the accumulated action of continuously re-balancing the holding of the underlying,  in order to keep the entire [portfolio delta](../../Financial%20Engineering/Derivatives/Part%20VI%20-%20The%20Greeks/Chapter%2028%20-%20The%20Greeks.md)-neutral over time. This is referred to as the gamma ${\mathfrak{p}}/{\mathfrak{l}}$ ,  and is paid for in the option premium which is marked to market as lost theta.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/2806ed63d786c4fac73d8e9d88048f269354581836e487910823937070fa0457.jpg)
+ ![500](Attachments/500-279.jpg)
 
 Figure 91 : Deltas of 1-month maturity ATM call options Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/4ce9a0bdcd05d54d248355ae705734bba65d4cbb21ec753a36760407fd7c54a1.jpg)
+ ![500](Attachments/500-281.jpg)
 
 Figure 92 : The [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) of the option
 
@@ -1588,7 +1588,7 @@ Part 4: [Replication](Forward%20and%20Futures%20Contracts.md) and [Hedging](../.
 
 That is,  the gamma $\mathbf{p}/\mathbf{l}$ from a move in the underlying is proportional to the gamma of the option and the square of the move. Thus,  the ${\mathsf{p}}/1$ from gamma [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) will be large when gamma is high,  and moves in the underlying are large. For instance the gamma ${\mathsf{p}}/1$ from a $2\%$ move will be four times that of a $1\%$ move.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/aab22f0ca7a21c20e6ccabc587af187c2ba372c3b9c0b57685023c673497defb.jpg)
+ ![500](Attachments/500-282.jpg)
 
 Figure 93 : Gamma p/l from delta-hedged options
 
@@ -1610,7 +1610,7 @@ Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
 # Box 13: Calculating the gamma
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/947bc91e9db20fc1341ae0b40f4b74313ca9596e91bbe42fc94db7f90ff85225.jpg)
+ ![500](Attachments/500-263.jpg)
 
 Note that as spot S,  moves away from the strike $K$ ,  $N\%$ will become small and gamma will decrease very rapidly. Then,  since $N\langle d_{l}\rangle$ is independent of the monetary units of the underlying,  gamma will be inversely proportional to the value of the underlying.
 
@@ -1622,7 +1622,7 @@ Part 4: [Replication](Forward%20and%20Futures%20Contracts.md) and [Hedging](../.
 
 Box 14: Dollar delta and dollar gamma
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/3235c7577c58ba2cb4dbd2e616313911fe53875fb41637af34eadadda7ae397c.jpg)
+ ![500](Attachments/500-259.jpg)
 
 Once the dollar gamma has been computed,  the gamma ${\mathsf{p}}/1$ from a single delta-[hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) step is easy to calculate: for a return R,  the gamma $\mathbf{p}/\mathbf{l}$ is equal to $\mathbf{50}\ \mathbf{S}\Gamma\ \mathbf{x}\ \mathbf{R}^{2}$ (Box 15). For example if we hold a position which is long \$100,  000 of dollar-gamma and the underlying moves by $3\%$ ,  the ${\mathsf{p}}/1$ will be $50\mathrm{~x~}\mathbb{S}100{,  }000\mathrm{~x~}0.03^{2}=\mathbb{S}4{,  }500$ .
 
@@ -1630,11 +1630,11 @@ Once the dollar gamma has been computed,  the gamma ${\mathsf{p}}/1$ from a sing
 
 For a change in spot $\mathrm{S}=>\mathrm{S}+\mathrm{d}\mathrm{S}$ ,  the gamma ${\mathsf{p}}/1$ will be $\Gamma\,  \mathrm{dS}^{2}/2$ Since $\S\Gamma=\Gamma\mathrm{S}^{2}/100$ ,  the ${\mathsf{p}}/1$ can be written as $(100\;\S\Gamma)/\;\mathrm{S}^{2}\;\mathrm{x}\;\mathrm{d}\mathrm{S}^{2}/2=50\;\S\Gamma\;(\mathrm{d}\mathrm{S}/\mathrm{S})^{2}$ 2 Gamma ${\bf p}/{\bf l}={\bf 50\,  \,  \$ T\,  \,   R}^{2}$ where R is the return $\mathrm {{d}} \mathrm {{S/S}} $ in percentage terms
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5713e81f5389ac5b71815fa85eb9236aeb3533793e3324a08e72fba738a8021d.jpg)
+ ![500](Attachments/500-260.jpg)
 
 Figure 94 : Dollar gamma is highest close to the option strike,  and falls away rapidly away from the strike,  especially if volatility is low Dollar gamma Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/91293683c50f1259a9304d142bc5e8fd7c8110132944e79805fc9ebf540dcec4.jpg)
+ ![500](Attachments/500-281.jpg)
 
 Figure 95 : Gamma p/l for a 100-strike option with spot at different levels. The p/l is quadratic in the size of the move. Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
@@ -1700,11 +1700,11 @@ Consider first the performance of the 2500-strike option (Figure 96). This was p
 
 In contrast the 4000-strike option (Figure 97) initially had much higher gamma than the 2500-strike option and consequently lost more due to the lower realised volatility. When the volatility did occur,  this happened well away from the option strike,  and the low gamma meant that the delta-[hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) failed to capitalise on this high volatility with the deltahedged options ending up making a loss of 60 ip (about 5 vegas). This is despite the fact that the option was purchased at an [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) of $26\%$ ,  $10\%$ below that subsequently delivered.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/839d87bb9b569080496c2e74c6be4fd68caff0ee46e38ff40984853663ef7fef.jpg)
+ ![500](Attachments/500-281.jpg)
 
 Figure 96 : The 2500-strike option profited due to the high volatility and gamma close to expiry… Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/41297e3d395d016d8f355aaa6c1fd1c9fd5a1948d7284499ab7bda6fae7e6ee5.jpg)
+ ![500](Attachments/500-281.jpg)
 
 Figure 97 :…whereas the 4000-strike option made a loss,  despite being purchased at [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) $10\%$ below that later delivered
 
@@ -1714,21 +1714,21 @@ Peter Allen (44-20) 7325-4114 Stephen Einchcomb (44-20) 7325-9064 Nicolas Grange
 
 Part 4: [Replication](Forward%20and%20Futures%20Contracts.md) and [Hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) The non-constancy of exposure to realised – [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) (squared) comes from the dollar gamma changing over the life-time of the option. Thus the difference between realised and [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) will count more when (dollar) gamma is high. An at-the-money option will have high exposure to the spread between implied and realised volatility whilst the underlying remains close to its initial value (Figure 98),  whilst an OTM option will take on no significant exposure to volatility until the underlying trades at around the option strike (Figure 100).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/874f68bc4ac8ace2e91284702023afea1b5b7eb3b8c036a0679166981c36accf.jpg)
+ ![500](Attachments/500-280.jpg)
 
 Figure $98\colon$ Simulation of ${\mathsf{p}}/{\mathsf{I}}$ for [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) an ATM option: magnitude of [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) is highest if underlying remains close to the money. Simulation: option struck at 100,  [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) $\b=20\%$ ,  maturity $=100$ days,  flat skew Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d50844eb8cf50d42948463ee3611a51a41447592a7044a3f7dd05b83e024efc9.jpg)
+ ![500](Attachments/500-260.jpg)
 
 Figure 100 : Simulation of p/l for [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) an OTM (80-strike) option: magnitude of ${\mathsf{p}}/{\mathsf{I}}$ is highest when underlying is close to the strike Simulation: option struck at 80,  [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) $=\! 20\%$ ,  maturity $=100$ days,  flat skew Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
 Figure ${\mathfrak{g}}{\mathfrak{g}}:\dots$ [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are correlated with volatility but not perfectly,  exposure is locally linear for small changes in volatility.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/41f03e8367fc9c17ced7268980e694c96f1b124c3be8b07aa72c0a61ed53c9fd.jpg)
+ ![500](Attachments/500-276.jpg)
 
 Figure $101:\ldots$ however,  due to the mostly low gamma,  the exposure to volatility is poor Simulation: option struck at 100,  [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md)= $\b{:}20\%$ ,  maturity $=100$ days,  flat skew Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0c83623e868fdebbd833499c407040c30c0bc8b87df9ca3f2f14b4c430ea8fd9.jpg)
+ ![500](Attachments/500-258.jpg)
 
 Simulation: option struck at 80,  [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md)= $:\! 20\%$ ,  maturity $=100$ days,  flat skew Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
@@ -1750,21 +1750,21 @@ It is this third approach that is used to construct variance swaps,  at least in
 
 To achieve a constant dollar gamma across strikes what kind of [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is needed? One important observation is that (peak) dollar gamma increases linearly with strike (Figure 102). Naively,  it may be thought that weighting the options in the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) (across all strikes) by the inverse of the strike will achieve a constant dollar gamma. It does have the property that each option in the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) has an equal peak dollar gamma (Figure 103). However,  the dollar-gammas of the higher strike options ‘spread out’ more,  and the effect of summing these $I/K.$ -weighted options across all strikes still leads to a dollar-gamma exposure which still increases with the underlying (Figure 105). In fact,  in can be shown that this increase is linear,  and therefore weighting each option by the inverse of the strike-squared will achieve a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) with constant dollar gamma (Figure 104,  Figure 105).
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/60949c52711f5a54fe81de8c76dfa8934612bf8fb5c29bf318c3661087d8c340.jpg)
+ ![500](Attachments/500-278.jpg)
 
 Figure 102 : Peak dollar gamma of an option increases linearly with the underlying Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b186c0d93bdc74479fbc11b2cca4b54d79df82fa793fd4abf21c1ac4bac5a3ed.jpg)
+ ![500](Attachments/500-259.jpg)
 
 Figure 103 : Peak dollar gamma of options divided by strike is constant Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
 Part 4: [Replication](Forward%20and%20Futures%20Contracts.md) and [Hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ddf3ac570e447354601e803c5553f79f300fe3ff64ab38a2c1274040e0e92a6e.jpg)
+ ![500](Attachments/500-261.jpg)
 
 Figure 104 : Weighting options by the inverse of the strike-squared gives a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) with aggregate constant dollar-gamma Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7986c72c0f6381aefccfc35e34fe26d7854266bde66881a0de0e163edc4d9285.jpg)
+ ![500](Attachments/500-278.jpg)
 
 Figure 105 : Weighting options as the inverse of the strike squared gives constant dollar-gamma Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
@@ -1829,11 +1829,11 @@ Skew is commonly thought of as an important component of [variance swap](../../F
 
 For example,  suppose an underlying has 3-month ATM volatility of $20\%$ ,  a linear put skew of $5\%$ (per 10 volatility points),  with put vol at ili ties capped at $35\%$ and all OTM call vol at ili ties flat at the level of the ATM volatility (Figure 106). The theoretical 3-month variance strike can then be calculated to be 23.05 ([pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) OTM options 1 point apart between 1 and 300). Now consider a situation where the skew is a mirror image of that in Figure 106. ATM volatility is $20\%$ ,  and all OTM put vol at ili ties are flat at $20\%$ ,  but call vol at ili ties increase linearly by $5\%$ per 10 points as they become more OTM,  capped at $35\%$ (Figure 107). In this case the theoretical [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) price is virtually identical at 23.15.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/1d47f6ba70afcf63d18d6d01384ab1482169f8ae05c115114e36ebe5b4a5f9a5.jpg)
+ ![500](Attachments/500-277.jpg)
 
 Figure 106: High put skew increases the variance strike above ATM volatility… Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/625e94e2d2038808c695b142790e3bbd8c638bfdb5b45361befb473b16ad721b.jpg)
+ ![500](Attachments/500-259.jpg)
 
 Figure 107 : …but increasing the call skew has almost exactly the same effect.
 
@@ -2039,7 +2039,7 @@ $$
 
 Table 13: [Replicating portfolio](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) for a 6-month Euro Stoxx [variance swap](../../Financial%20Engineering/Variance%20Swaps.md),  variance notional €2,  500.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/44fcd0288a440321bf92ef1d8c31533682400c5ab5895bdece0f0f8eb45a34ac.jpg)
+ ![500](Attachments/500-265.jpg)
 
 # 4.9: Replication and hedging in practice
 
@@ -2078,7 +2078,7 @@ Exposure. A market-maker who is long the [variance swap](../../Financial%20Engin
 
 As described above,  a delta-hedger who is short options will act to increase volatility in the underlying – buying as it rallies,  and selling as it sells-off. However,  the action of these market makers [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) their short options will not necessarily act to increase volatility in the underlying,  as the counter parties they have sold options to may be counteracting this effect by themselves [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) their long volatility positions. However,  the important difference between these two groups of hedgers is that the [variance swap market](../../Financial%20Engineering/Variance%20Swaps.md)-makers who are short options,  must hedge only on the close to capture the close-close realised variance specified in the [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) contract. In contrast,  the hedgers who are long the options,  will generally be free to choose when to delta-hedge,  as they attempt to capture the true volatility of the underlying process.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/fa37f8a9a44bf24a5070f158f694e1e55e6a956bfe89ed00d4cae4d0e1ce2894.jpg)
+ ![500](Attachments/500-284.jpg)
 
 Figure 108: Flows in the market as a result of a market-maker buying a [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) and replicating it in the market
 
@@ -2114,7 +2114,7 @@ In fact we could dynamically trade a long [variance swap](../../Financial%20Engi
  - [Derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) on variance
  - Variance swaps on other asset classes
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/eb07c5ff169b210c56f9ee9308e7b58a2e93bf77d59c2703b382385a294d7262.jpg)
+ ![500](Attachments/500-262.jpg)
 
 # Part 5: Future developments
 
@@ -2130,7 +2130,7 @@ The volatility indices associated with the major indices (VIX for S&P 500,  VXN 
 
 Table 14: Main [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) based volatility index details
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d3b31ab6dfe679a163c8fa36ccf015938b63dc33a350198d8db81dd70119e61c.jpg)
+ ![500](Attachments/500-258.jpg)
 
 Source: [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
@@ -2184,11 +2184,11 @@ As with variance swaps,  the sign of the ${\mathsf{p}}/1$ for a conditional [var
 
 Whilst investors are free to specify the range associated with a conditional [variance swap](../../Financial%20Engineering/Variance%20Swaps.md),  the two principal types are up-and downconditional variance swaps ( up-variance and down-variance ). Up-variance accrues realised volatility only when the underlying is above a pre-specified level (i.e. no upper barrier),  while down-variance is accrued only when the underlying is below the specified barrier (i.e. no lower barrier). In the presence of a positive put-skew,  down-variance will normally price above up-variance for close to ATM barrier levels.
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c8a05e41418d19a454a22bdd11120abec9475b541dee873553f1e713b6604b8e.jpg)
+ ![500](Attachments/500-256.jpg)
 
 Figure 109 : Payout from a conditional [variance swap](../../Financial%20Engineering/Variance%20Swaps.md) $@{20}$ strike ${\mathfrak{p}}/,  $ ,  different lines for $\%$ days in the range Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md)
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cf1ce01299826c3d4e27108273a6cf80160023c9cf3f3a29172afd78b2cd6179.jpg)
+ ![500](Attachments/500-259.jpg)
 
 Figure 110 : Dec-07 conditional variance swaps levels as of Apr 06 Source : [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md),  data as of Apr 2006
 
@@ -2278,7 +2278,7 @@ The research analyst (s) denoted by an “AC” on the cover of this report cert
 
 [JPMorgan](../../Financial%20Engineering/Basis%20Trade%20Explainer.md) Equity Research Ratings Distribution,  as of September 29,  2006
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a064503ba359e7566e2b35f2eb76bb999cb435d93b7c5be6d2d655515d99d5f7.jpg)
+ ![500](Attachments/500-251.jpg)
 
 \*Percentage of [investment banking](../Lecture%20Notes-%20Financial%20Instruments/Lecture%20Notes%209-%20Corporate%20Securities%20And%20Credit%20Derivatives.md) clients in each rating category. For purposes only of NASD/NYSE ratings distribution rules,  our Overweight rating falls into a buy rating category; our Neutral rating falls into a hold rating category; and our Underweight rating falls into a sell rating category.
 

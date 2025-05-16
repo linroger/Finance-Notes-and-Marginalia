@@ -79,37 +79,37 @@ Indeed,  under (1. A) assumptions,  the expected payoff from 1 dollar change in 
 (1. D) The answer does not change. Just note that if we need 1.1964 barrels of oil to produce 1 barrel of fuel,  when the price of oil changes by 1 dollar,  the fuel price will change by 1.1964 dollars. The reason is that to produce 1 barrel of fuel,  refiners will need to buy 1.1964 barrels. They will pay an extra difference of 1 dollar per barrel of oil bought. Since they will buy 1 barrel plus 0.1964 barrels,  they will pay 1 extra dollar on the first barrel and 0.1964 extra dollars on the 0.1964 barrels. Therefore,  this would lead to the same results computed in point (1. B).
 (1. E) Just a little note here before showing the graph. The payoff diagram (in contrast with the [profit diagram](PSET%204%20Solution-Financial%20Instruments.md)) does not take into account the cost of the position. For example,  for a short position in fuel,  we do not consider $S_{0}$ but only $-S_{T}$. So at time $T$,  we will have necessarily a non-positive (i.e. $\pi(S)\leq0$ - note that I have randomly chosen to use 7 T as a synonymous of “payoff") payoff.
 The payoff diagram of the implicit short position will thus be:
- ![500](https://storage.simpletex.cn/view/fGr8oQ3oKG4nZreK1yvxyok0zt9e3CyNG)
+ ![500](Attachments/500-151.png)
 Figure 1: Payoff at $T=3$ months of the implicit short position in jet fuel
 Note that the payoff is computed on the total exposure,  which is,  under the assumption in point (1. A),  8,  994.000 barrels of jet fuel (and oil). Further,  consider that if we accept assumptions (1. A),  then the oil price and jet fuel price can be assumed to be the same.
 (1. F) The payoff diagram of the straight insurance is:
- ![500](https://storage.simpletex.cn/view/fnGXOEafa2ZQAkQhuqRIyltbhzlSiCykW)
+ ![500](Attachments/500-147.png)
 Figure 2: Payoff at $T=3$ months of the straight insurance
 And the one of the overall position,  combining the implicit short position with the straight insurance,  is:
- ![500](https://storage.simpletex.cn/view/fVHMFnAWlNA1yb7kVLwWn5G7AVQagpGGo)
+ ![500](Attachments/500-146.png)
 Figure 3: Payoff at $T=3$ months of overall position using straight insurance
 (2. A) We look for $P$ such that ${\mathcal{L}}={\mathcal{P}}$. Since $c\left(K_{c}=105\right)=2,  541$,  we find in the table that $K_{p}$,  such that $p\left(K_{p}\right)=2,  541$. This is for $K_{p}=88.61$
 (2. B) The payoff of the collar strategy is:
- ![500](https://storage.simpletex.cn/view/fVa4kQwOabQC3e2BLDdmpGGvPuNbUX8lG)
+ ![500](Attachments/500-146.png)
 Figure 4: Payoff at $T=3$ months of the collar using the $K_{1}=88.61$ puts
 And the one of the overall position,  combining the implicit short position with the collar,  is:
- ![500](https://storage.simpletex.cn/view/fUE45dC68bzCwB7tUyBffUKaPsQixNo09)
+ ![500](Attachments/500-150.png)
 Figure 5: Payoff at $T=3$ months of overall position using the $K_{1}=88.61$ puts
 (3. A) Since the collar strategy has to be zero cost,  we look for a number of put options $N^{p}$ such that$$N^p\cdot p=-N^c\cdot c$$
 Or$$N^p=-\frac{N^c\cdot c}{p}$$
 We find $N^{p(K_{2}=80)}=-32,  742$. So we have to short 32.742 put options with strike equal to $K_{2}=80$
 (3. B) We find $N^{p(K_{3}=90)}=-7,  596$. So we have to short 7,  596 put options with strike equal to $K_{3}=90$. The payoff of the collar with the $K_{2}=80$ puts is reported in the next figure.
- ![500](https://storage.simpletex.cn/view/fyW5mL123XwsCqXKWygodv0gwNKNng4dk)
+ ![500](Attachments/500-147.png)
 Figure 6: Payoff at $T=3$ months of the collar using the $K_{2}=80$ puts
 While the payoff of the collar with the $K_{3}=90$ puts is shown below.
- ![500](https://storage.simpletex.cn/view/fonmf5W9v8GpIBbfghvC8ov2K8ookXNl4)
+ ![500](Attachments/500-146.png)
 Figure 7: Payoff at $T=3$ months of the collar using the $K_{3}=90$ puts The payoffs of the two overall positions are then shown.
- ![500](https://storage.simpletex.cn/view/f2ZMcm3TcTobr2uuYtslxWy4AToKfpzQt)
+ ![500](Attachments/500-149.png)
 Figure 8: Payoff at $T=3$ months of overall position using the $K_{2}=80$ puts
- ![500](https://storage.simpletex.cn/view/fnxLE56e4v13gxAlBqUf7GpGgvF7s1fb2)
+ ![500](Attachments/500-148.png)
 Figure 9: Payoff at $T=3$ months of overall position using the $K_{3}=90$ puts
 Finally,  it is worth comparing the payoffs of the three collars in one chart.
- ![500](https://storage.simpletex.cn/view/fHYeraSe6R3nRkyeUDf5gH92gODto46SC)
+ ![500](Attachments/500-152.png)
 Figure 10: Payoff at $T=3$ of the three collars
 (3. C) Southwest Airlines payoff displayed in figure 5 has the general same pattern as a standard bull spread,  except that the payoff is always negative. The bull spread must have a positive premium,  while the premium for the net payoff displayed in figure 5 must be negative.
 (3. D) You (should… Sorry,  MUST) know the [put-call parity](../../../Financial%20Engineering/7.%20Black%20Scholes%20Model.md):$$c-p=S_0-K\cdot e^{-r\cdot T}$$

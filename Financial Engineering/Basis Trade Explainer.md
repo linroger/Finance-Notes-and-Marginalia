@@ -70,7 +70,7 @@ Why didn’t they move? Basis trades have the added effect of lubricating the Tr
 
 Today, basis trades are bigger than ever, estimated to be worth $800 billion [according to Apollo’s Torsten Slok](https://archive.is/o/DIpfw/https://www.apolloacademy.com/what-is-the-basis-trade/). You can see the rather stunning growth in this Federal Reserve chart, from 2024:
 
-![](https://archive.is/DIpfw/9007c58eba723437721ec02663d565fe0a22fa76.webp)
+![](Attachments/9007c58eba723437721ec02663d565fe0a22fa76.webp)
 
 Source: Federal Reserve
 
@@ -78,7 +78,7 @@ But basis trades aren’t the only things going on in bonds. Trump’s president
 
 Now, with the Trump administration not looking so bank-friendly and lenders rushing to de-risk, this trade is also blowing up. Swap spreads, which encapsulate the relationship between [US Treasuries](../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Homework%201.md) and interest rate swaps, have plummeted. As [discussed in this space last year](https://archive.is/o/DIpfw/https://www.bloomberg.com/news/newsletters/2024-11-11/the-deregulation-trade-reaches-the-bond-market), the spreads had started surging back in November as Trump looked more and more likely to win and traders placed what was in effect a deregulation and [duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) trade.
 
-![](https://archive.is/DIpfw/076668e170fc1a70324b296abc8e0823d49d8bf0.webp)
+![](Attachments/076668e170fc1a70324b296abc8e0823d49d8bf0.webp)
 
 Source: Bloomberg
 
@@ -96,7 +96,7 @@ This, I think, is the key difference with 2020. We know that [the Fed](../Financ
 
 So far, the deleveraging looks okay-ish. We haven’t seen rates in the repo market blow out just yet, but they are moving up. And things can change pretty fast in overnight markets. As another *[Odd Lots](.md)* favorite likes to say, lack of [liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) “[kills you quick](https://archive.is/o/DIpfw/https://www.bloomberg.com/news/articles/2019-12-20/repo-oracle-zoltan-pozsar-expects-even-more-turmoil).” And in trying to make sure 2008 never happens again, policymakers have exchanged [credit risk](../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) for [liquidity risk](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Asset%20Backed%20Commercial%20Paper%20Understanding%20the%20Risks.md).
 
-![](https://archive.is/DIpfw/b10ede80348ce999ba7b84ad079732d35c52d83e.webp)
+![](Attachments/b10ede80348ce999ba7b84ad079732d35c52d83e.webp)
 
 Source: Bloomberg
 

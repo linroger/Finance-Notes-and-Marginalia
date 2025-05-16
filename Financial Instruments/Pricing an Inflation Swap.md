@@ -97,21 +97,21 @@ If the counterparty to the IS is considered risk-free, discount factor $df(t, T)
 We consider a pay-fixed inflation swap effective 3/4/2008 and maturing on 3/4/2010. The swap was priced 3/7/2008 settling on 3/11/2007. The CPI for 12/31/2007 and 1/31/2008 were 210.036 and 211.08 respectively. Quoted IS rates for 3/7/2008 are presented in Table 1. The results are presented in Table 2.
 
 ### Table 1: IS Rate Quotes
-![Table 1: IS Rate Quotes](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/335048bb076e0a6d78c0f990b1f7714725b59b6d3793147ae74e987135d1a57e.jpg)
+![Table 1: IS Rate Quotes](Attachments/Table_1!_IS_Rate_Quotes.jpg)
 
-![Table 1: IS Rate Quotes (continued)](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c40bef2fb4f979c03295ea346a9e23622725140e2d9e0d9226fe790b53053456.jpg)
+![Table 1: IS Rate Quotes (continued)](Attachments/Table_1!_IS_Rate_Quotes_(continued).jpg)
 
 ### Table 2: LIBOR Quotes
-![Table 2: LIBOR Quotes](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/423488a8e316fa74af9540b1b712c8f875a658cd5ae94a17a797ae96b4698aa7.jpg)
+![Table 2: LIBOR Quotes](Attachments/Table_2!_LIBOR_Quotes.jpg)
 
 ### Table 3: Future Quotes
-![Table 3: Future Quotes](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/bbf06e3025565783fb139253b1e236e6bdd608da263b736843f16a8fc58648ca.jpg)
+![Table 3: Future Quotes](Attachments/Table_3!_Future_Quotes.jpg)
 
 ### Table 4: Swap Quotes
-![Table 4: Swap Quotes](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f0ae89221bed8ce4d9c1da110c06598ca0787c9ef59f9dc5e6c375398a7318e8.jpg)
+![Table 4: Swap Quotes](Attachments/Table_4!_Swap_Quotes.jpg)
 
 ### Table 5: ATM Implied Swaption Volatilities
-![Table 5: ATM Implied Swaption Volatilities](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6a716cfc8d39427493c56d770daa6506f3d3da1126041a03e391af2749bce741.jpg)
+![Table 5: ATM Implied Swaption Volatilities](Attachments/Table_5!_ATM_Implied_Swaption_Volatilities.jpg)
 
 For the corresponding interest rate volatilities, we have:
 

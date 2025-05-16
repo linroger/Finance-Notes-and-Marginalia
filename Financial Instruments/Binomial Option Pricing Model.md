@@ -38,12 +38,12 @@ This chapter is devoted to introducing the binomial tree model, also known as a 
 ## I. One-Period Binomial Tree
 
 ### Figure 4-1
-![Figure 4-1](https://cdn-mineru.openxlab.org.cn/extract/44625589-b78c-4302-9b0f-635bc859ed28/1ed8e118749ba589561939441cc1ce64dad49a0e3884831d545deeda9f673685.jpg)
+![Figure 4-1](Attachments/Figure_4-1.jpg)
 
 (i) Constructing a portfolio: long $\Delta$ shares and short 1 call.
 
 ### Figure 4-2
-![Figure 4-2](https://cdn-mineru.openxlab.org.cn/extract/44625589-b78c-4302-9b0f-635bc859ed28/65b09c49b3d09b23f9adf91bbba9e1275f2780cfe9215a61df7a30a0c8ada631.jpg)
+![Figure 4-2](Attachments/Figure_4-2.jpg)
 
 (ii) Deciding the value of $\Delta$: if $22\Delta - 1 = 18\Delta \Rightarrow$ portfolio is riskless.
 
@@ -52,7 +52,7 @@ This chapter is devoted to introducing the binomial tree model, also known as a 
 *$^*$ Note that the risk-free interest rate $r$ emerges due to the use of the no-arbitrage argument.
 
 ### Figure 4-3
-![Figure 4-3](https://cdn-mineru.openxlab.org.cn/extract/44625589-b78c-4302-9b0f-635bc859ed28/7344b770a6f5327335bd371b3cc49b7ceedc903482172fa2e3f8e2cdd6fa9bb6.jpg)
+![Figure 4-3](Attachments/Figure_4-3.jpg)
 
 $$
 \begin{array}{rl}
@@ -154,7 +154,7 @@ $$
 
 ### Deriving $u$, $d$, and $p$ in the CRR (Cox, Ross, and Rubinstein (1979)) Binomial Tree Model
 
-![Figure 4-5](https://cdn-mineru.openxlab.org.cn/extract/44625589-b78c-4302-9b0f-635bc859ed28/74b0228c187944828e0362bfb5298957620c40923e945523838d66f08b80866c.jpg)
+![Figure 4-5](Attachments/Figure_4-5.jpg)
 
 #### Problems of the CRR Model:
 
@@ -173,7 +173,7 @@ $$
 Can be solved as follows.
 
 ### Figure 4-6
-![Figure 4-6](https://cdn-mineru.openxlab.org.cn/extract/44625589-b78c-4302-9b0f-635bc859ed28/710c7cdcf62340e8f73ee216f5d6ec5ac89eec6df0d4aee3ecf16a898d227bc1.jpg)
+![Figure 4-6](Attachments/Figure_4-6.jpg)
 
 $$
 \ln S_{t+\Delta t} \sim N\left( \ln S_t + \left(r - \frac{\sigma^2}{2}\right)\Delta t,\; \sigma^2 \Delta t \right)
@@ -220,7 +220,7 @@ $$
 $$
 
 ### Figure 4-5
-![Figure 4-5](https://cdn-mineru.openxlab.org.cn/extract/44625589-b78c-4302-9b0f-635bc859ed28/74b0228c187944828e0362bfb5298957620c40923e945523838d66f08b80866c.jpg)
+![Figure 4-5](Attachments/Figure_4-5.jpg)
 
 - Advantages of this alternative binomial tree model: 
   1) There is no approximation
@@ -383,7 +383,7 @@ S_0 e^{-qT} + \text{no dividend yield}
 $$
 
 ### Figure 4-8
-![Figure 4-8](https://cdn-mineru.openxlab.org.cn/extract/44625589-b78c-4302-9b0f-635bc859ed28/3db18ad7a2a5754b4fe6a6f3dbf04522f1a7471548ce63f0d252e1e3f8825a4c.jpg)
+![Figure 4-8](Attachments/Figure_4-8.jpg)
 
 #### Analytical Formula
 
@@ -469,7 +469,7 @@ $\odot$ For the Black-Scholes formula, it is unavailable to deal with this probl
 $\odot$ For the binomial tree model, it is simple to deal with this problem (see Figure 4-8).
 
 ### Figure 4-8
-![Figure 4-8](https://cdn-mineru.openxlab.org.cn/extract/44625589-b78c-4302-9b0f-635bc859ed28/43c3dd51e959242736070ae2080540e04b75f617296316c3a8b8676b9d078337.jpg)
+![Figure 4-8](Attachments/Figure_4-8-1.jpg)
 
 ### Model 3: Known Cash Dividends $D$ at Time Point $t$
 
@@ -491,12 +491,12 @@ $$
 (This is because the distributions of $S_\tau$ ($\tau \ge t$) are the same under no dividend payment.)
 
 ### Figure 4-9
-![Figure 4-9](https://cdn-mineru.openxlab.org.cn/extract/44625589-b78c-4302-9b0f-635bc859ed28/90b81bc0f631c2f5f3c1aef6fc8a8572ae5b22ddb2ee2a0c70b94fca7cbafbb0.jpg)
+![Figure 4-9](Attachments/Figure_4-9.jpg)
 
 **Method 3**: This method can maintain the recombined feature of the binomial tree.
 
 ### Figure 4-10
-![Figure 4-10](https://cdn-mineru.openxlab.org.cn/extract/44625589-b78c-4302-9b0f-635bc859ed28/95b0c0e6521439abbf5b5151f5d3e0629ccec482a0e5161689a5b0b3e5edf29a.jpg)
+![Figure 4-10](Attachments/Figure_4-10.jpg)
 
 Define $S_0^* = S_0 - D e^{-r (t - t_0)} = S_0 - D e^{-rt}$.
 
@@ -590,7 +590,7 @@ $$
 Another way to derive $p$:
 
 ### Figure 4-11
-![Figure 4-11](https://cdn-mineru.openxlab.org.cn/extract/44625589-b78c-4302-9b0f-635bc859ed28/ad3e35ca1c4e8c4bfbea9e1b19082017b1928cb52f5be293601c1c1e03569b24.jpg)
+![Figure 4-11](Attachments/Figure_4-11.jpg)
 
 - The Black-Scholes model as well as the binomial tree model are versatile models: Treat stock index, currency, and futures like a share of stock paying a dividend yield $q$.
   - For stock index options: $q = \text{average dividend yield on the index over the option life}$
@@ -602,7 +602,7 @@ Another way to derive $p$:
 - Combinatorial method for European options: Based on the binomial tree framework, applying the combinatorial method is far faster than the backward induction procedure. In fact, it is not necessary to build the binomial tree in the combinatorial method, which is another advantage because it can save memory space for computer programming.
 
 ### Figure 4-12
-![Figure 4-12](https://cdn-mineru.openxlab.org.cn/extract/44625589-b78c-4302-9b0f-635bc859ed28/8dd35a79473dbd561f4e096f2ac7805abeca207d887a240fd1914500b1ead8b4.jpg)
+![Figure 4-12](Attachments/Figure_4-12.jpg)
 
 $$
 \text{European option value} = e^{-r T} \sum_{j=0}^{n} \binom{n}{j} p^{n-j} (1-p)^{j} \max\left(S_0 u^{n-j} d^{j} - K,\, 0\right),
@@ -632,12 +632,12 @@ $$
 $\odot$ A modified lattice model based on Amin (1993):
 
 ### Figure 4-13
-![Figure 4-13](https://cdn-mineru.openxlab.org.cn/extract/44625589-b78c-4302-9b0f-635bc859ed28/7c4946fc3ee65c3f546d68abb4eca156584b55905a6091a0bfd064417af54f2f.jpg)
+![Figure 4-13](Attachments/Figure_4-13.jpg)
 
 $\odot$ Backward induction:
 
 ### Figure 4-14
-![Figure 4-14](https://cdn-mineru.openxlab.org.cn/extract/44625589-b78c-4302-9b0f-635bc859ed28/23b0e47cb63ecd4c9f5bfe3b3caf752914360884b446d9613c86e7746c024b16.jpg)
+![Figure 4-14](Attachments/Figure_4-14.jpg)
 
 *$^*$ Define the branching probabilities as follows.
 
@@ -743,7 +743,7 @@ $$
 $\odot$ To consider the adjustment for the variance, a simple method of adjusting the grid size of the multinomial tree can achieve this goal. By defining $\sigma^* = \sigma\sqrt{1 - \lambda \Delta t}$, $u^* = e^{\alpha \Delta t + \sigma^* \sqrt{\Delta t}}$, $d^* = e^{\alpha \Delta t - \sigma^* \sqrt{\Delta t}}$, one can derive the following tree structure and the corresponding branching probabilities.
 
 ### Figure 4-15
-![Figure 4-15](https://cdn-mineru.openxlab.org.cn/extract/44625589-b78c-4302-9b0f-635bc859ed28/dd90f71b0aec6664ccae364c4d88f970499d1be23e45f234fb947dfb96fd2a56.jpg)
+![Figure 4-15](Attachments/Figure_4-15.jpg)
 
 $$
 P^*(k) =

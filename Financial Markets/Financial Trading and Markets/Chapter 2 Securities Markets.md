@@ -95,7 +95,7 @@ Options trading took place entirely over the counter until the 1973 opening of t
 
 Competition among options exchanges continues to intensify, fostered by a myriad of new technologies and the [introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) of equity option multiple listings beginning in [the fall](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Fall%20of%20Bear%20Stearns%20Lost%20Opportunities%20Haunt%20Final%20Days%20of%20Bear%20Stearns;%20Executives%20Bickeredover%20Raising%20Cash%20Cutting%20Mortgages.md) of 1999. The International Securities Exchange was launched in May 2000 as the first fully electronic exchange in the United States, adding a significant dimension of competition to the then largely floor-based markets offered by the CBOE, AMEX, and PHLX. In addition,  
 TABLE 2.2 U.S. Equity Options Exchanges (Data for Calendar Year 2020) 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ecda8570149145157e7c91beddee381d64dead94bbe7c7f33ce9c347bf44e8f1.jpg)  
+ ![500](Attachments/500-192.jpg)  
 Source: The Options Clearing Corporation (2021).  
 
 the ISE traded options with well-established markets on the other exchanges. In addition to the ISE, well-established foreign exchanges such as Eurex electronically trade contracts on U.S. equity instruments, further intensifying competitive pressures on major U.S. options exchanges. In fact, practically all European and Asian securities and [derivatives](Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) exchanges have become entirely or almost entirely electronic. This increased competition has led to a number of important results, including narrowing spreads (  $\mathit{\Omega}.8\%$   between 1999 and 2000 alone according to a Securities and Exchange Commission (SEC) study; also see  Battalio, Hatch, & Jennings, 2004 ), highly uncertain [futures](../Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) for competitors, and the development and implementation of innovative quotations and trading systems.  
@@ -132,7 +132,7 @@ An ATS might be defined as a [securities trading](Chapter%203%20Financial%20Mark
 
 A small listing of alternative trading systems is provided in  Table 2.3 . As of October 2021, the SEC listed a total of 85 Alternative Trading Systems with Form ATS on file ( Securities and Exchange Commission, 2021a ).  
 TABLE 2.3 Sampling of Alternative Trading Systems 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ccadca1c40d91e63620521021a969785c09e9f29acb015fbfbeba0304f366064.jpg)  
+ ![500](Attachments/500-191.jpg)  
 
 The most important of the ECNs dealing with equities have included  BRUT  (purchased by NASDAQ)  Instinet ,  REDIBook , and  Archipelago , with the latter two having merged in 2002. Instinet, the first of the ECNs, was founded in 1967 as Institutional Networks, became a wholly owned subsidiary of Reuters in 1987, took its shares through an IPO in 2001 and merged with Island shortly afterwards before going private again in 2005. The focus of Instinet’s activities was block trading (10,000 or more shares), seeking to provide its clients with a high level of confidentiality. Major ECNs dealing with foreign exchange include Hotspot and Currenex.  
 
@@ -148,7 +148,7 @@ What the ATS does  not  do is what distinguishes it from an exchange. However, t
 The NYSE share of NYSE-listed trade executions have been steadily dropping as electronic exchanges and ATSs have grown in importance. For example, NYSE’s share of trading in its own listed stocks declined to   $67.3\%$   by December 2006, then down further to  $22.5\%$   by December 2013 ( Baldauf & Mollner, 2020; NYSE Euronext, 2014; Weber, 2007 ). Table 2.4  provides a listing of important U.S. [equity markets](../../Financial%20Engineering/An%20Introduction%20to%20Equity%20Markets.md) along with their shares of daily volume as of January 2021. Notice towards the bottom of  Table 2.4  that FINRA and  
 
 TABLE 2.4 Equity Trading Center Volume, January 2021 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/00631bfa94c4087286c6cf09224377d2afcfcb0ec01a54fd9140f0bc2c209011.jpg)  
+ ![500](Attachments/500-192.jpg)  
 Data reflects total daily volume in exchange-listed securities for the month of January 2021. Source: Cboe, U.S. Equities Market Volume Summary (2021):  https://www.cboe.com/us/equities/market share/ .  
 TRF (Trade Reporting Facility) volume for non exchange trading in exchange listed shares totals represent over  $40\%$   of total exchange-listed volume.  
 
@@ -262,7 +262,7 @@ Most publicly traded corporate bonds are rated by well-known agencies with respe
 
 While [credit rating agencies](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Moody's%20Lessons%20From%20the%20Crisis.md) have enjoyed many decades of strong reputation and success, many have been rounded criticized for their failures leading to the 2006  2008 [U.S. housing crisis](../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital.md) and the 2010/2011 European Union (EU) [debt crisis](../../International%20Finance/Bridgewater/Chapters/US%20Debt%20Crisis%20and%20Adjustment%20(2007–2011).md). Many critics have argued that these agencies are often too slow in responding to dramatic shifts in market conditions and that traders are often much faster at responding to such shifts. For example, Enron bonds were rated triple-A by both major agencies until only a few days before the company filed for its 2001 bankruptcy protection. The agencies also seemed to miss troubles brewing at WorldCom,  
 TABLE 2.5 Standard & Poor’s and Moody’s Corporate Bond Ratings 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/82947be2cbefa40ab9137f21e81f0f4d66377166310eba6a2239e70f6e9bccea.jpg)  
+ ![500](Attachments/500-190.jpg)  
 Finer rating gradations noted with plus, minus and numerical values are omitted from this table.  
 
 Parmalat, and Delphi until just before their bankruptcy filings, as well as conditions leading to the 2006  2008 subprime crises, particularly with respect to [mortgage-backed securities](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Fremont%20Financial%20Corp.%20(b).md). In fact, several [credit rating agencies](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Moody's%20Lessons%20From%20the%20Crisis.md) maintain [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) grade ratings for Lehman Brothers as late as the morning of its September 2008 bankruptcy filing. Nevertheless, bond rating agencies do play a crucial role in the evaluation of [default risk](../Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/Default%20Risk%20and%20Credit%20Derivatives%20183.md).  
@@ -297,7 +297,7 @@ As discussed above, the oldest continuously operating stock exchange is Euronext
 
 As of 2021, the largest stock markets in terms of monetary volume are in New York (NYSE and NASDAQ), China, Europe, and the U.K. As of 2021, the NYSE listed equities exceeding   $\S26$   trillion in market value (see  Table 2.6 ), with Nasdaq gaining ground in recent years.   The United States and United Kingdom (UK) have long histories of funding business with publicly traded equity securities, whereas commercial bank funding has  
 TABLE 2.6 Major Equity Exchanges of the World 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ec0c7bbd9952566ba8821b94e6e35e18a5e88682d6cbec4668827fa799ab1e0f.jpg)  
+ ![500](Attachments/500-188.jpg)  
 [Market Capitalization](../../Advanced%20Financial%20Analysis%20and%20Valuation/Financial%20Ratios/Price-to-Sales%20Ratios%20in%20Stock%20Valuation.md) in USD Trillions, 2020/2021. Source: World Federation of Exchanges.  
 
 played larger roles in Japan and Germany. This is one of the major reasons as to why the London stock markets are larger than those elsewhere in Europe, despite the relative small size of the UK economy relative to that of Europe.  
@@ -341,7 +341,7 @@ During the Bretton Woods regime following World War   $\operatorname{II},$   cro
 The price of the Swiss franc (CHF) in terms of dollars is given in  Table 2.7  to be   $\mathbb{S}1.0217$  . The price of a U.S. dollar in terms of the UK pound is  d 0.7676. These two rates imply that the price of a Swiss franc in terms of the UK pound is   $\begin{array}{r}{\mathbb{S}1.0217\times£.7676=0.7824,}\end{array}$  , consistent with the cross rate given in  Table 2.7 .  
 
 TABLE 2.7 Cross [Currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Rates, May 17, 2017 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d8756b94b72efd857b6cf8d915957a53e99c22582414d9e683ee8872be608353.jpg)  
+ ![500](Attachments/500-189.jpg)  
 # Forward Exchange Rates and Contracts  
 
 Exchange transactions can occur in either spot or forward markets. In the spot market, the exchange of one [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) for another occurs when the agreement is made. For example, dollars may be exchanged for euros now in an agreement made now. This would be a spot market transaction. In a [forward market](../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2015/Tba%20and%20Specified%20Pools%20Markets.md) transaction, the actual exchange of one [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) for another actually occurs at a date later than that of the agreement. Thus, traders could agree now on an exchange rate for two currencies at a later date.  

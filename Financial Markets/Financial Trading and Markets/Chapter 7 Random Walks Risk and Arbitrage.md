@@ -43,7 +43,7 @@ One particular version of a continuous time-space [random walk](../Financial%20A
 1.  Changes in  $Z_{t}$   over time are independent over disjoint (non-overlapping) intervals of time; that is,  $\mathrm{COV}(Z_{s}-Z_{\tau},\,Z_{u}-Z_{v},)=0$   when  $s>\tau>u>v$  .  
 
 3  $\Omega$  Mathematicians characterize a [probability space](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md) as consisting of three types of elements: a sample space  of all potential outcomes (e.g., a particular future state of the world), a filtration  ${\mathcal F}.$  , roughly characterized as the information set or history required for valuation (e.g., the security’s price history), and an associated probability measure    $\mathbb{P}$  that maps subsets from    $\Omega$   to [0,1]. Readers are likely to encounter this sort of somewhat formal notation in some finance books (See  Knopf and Teall, 2015  for more complete explanations), but understanding these more technical mathematical definitions is not essential for the remainder of this text.  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7233cc7506105a02a17d314e36f7453cd72e6c8b42f0dc2e446553bc0d26d068.jpg)  
+ ![500](Attachments/500-181.jpg)  
 FIGURE 7.1 [Brownian motion](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md): a fractal.  
 
 2.  Changes in  $Z_{t}$   are normally distributed with   $\mathrm{E}[Z_{t}-\,Z_{\tau}]=0$   (standard [Brownian motion](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) also a martingale) and  $\dot{\mathrm{E}}[(Z_{t}-Z_{\tau})^{2}]=t-\tau$   for  $t>\tau$  . Thus,   $(Z_{t}-Z_{\tau})\sim\mathrm{N}(0,\,t{-}\tau)$  . 3.  $Z_{t}$   is a continuous function of  t . 4.  The process begins at zero,  $Z_{0}=0$  .  
@@ -89,7 +89,7 @@ $$
 
 where  $R_{t}$   represents the return realized during historical period    $t$  :    $(R_{t}=[(P_{t}-\,P_{t\mathrm{~-~}1})/P_{t\mathrm{~-~}1}])$  in this    $n$   time period framework.  Table 7.1  presents sample monthly historical price data for GM stock along with monthly [returns](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) computed from these prices. We see below that the traditional sample monthly variance estimator for this stock based on these 23 [returns](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) equals 0.012:    $\begin{array}{r}{\sigma_{H}^{2}=\dot{\sum_{t=1}^{n}{(R_{t}-\check{R}_{t})^{2}}}/(n-1)=0.012.}\end{array}$   P   012. If we were to assume that [returns](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) follow a [Brownian motion](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) process (or at least assume that stock [returns](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are uncorrelated over time), the annualized variance would be   $0.144=0.012\times12.$  . Use of the traditional sample estimator to forecast variance requires the assumption that stock return variances are constant over time, or more specifically, that historical return variance is an appropriate indicator of future return variance. While this can often be a reasonable assumption, firm risk conditions can change and it is well documented that [price volatility](../Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Black%20Models%20for%20Bond%20Price%20Options%20Capsfloors.md) does fluctuate over time (see, for example,  Officer, 1971 ). In addition, note that the sample variance estimator rather than the  
 TABLE 7.1 Traditional Sample Estimators for GM Stock, October 2000 to September 2002 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0b39d7658c1873b6417c897766a17c35d031f712606a2686c96787f1546ba1cf.jpg)  
+ ![500](Attachments/500-175.jpg)  
 
 population estimator is proposed in  Equation (7.2) . This difference becomes more significant with smaller samples.  
 
@@ -153,7 +153,7 @@ Unfortunately, the [system of equations](../../Financial%20Engineering/Fixed%20I
 Table 7.2  presents, describes, and compares basic risk measures discussed in this chapter. There is no consensus as to which measure is clearly best, although some measures  
 
 TABLE 7.2 Basic Risk Measures 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/23de29773c03460e319cc4ef70b23c137350f1c70fbc3a5bb5c228e2b86c81ec.jpg)  
+ ![500](Attachments/500-179.jpg)  
 
 7 These and other numerical procedures for estimating implied vol at ili ties are discussed in  Section 7. A.3  in the Appendix to this chapter. More discussion of the [Black-Scholes](../../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md) and other option [pricing](../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) models is available in Chapter 9.  
 perform better under some circumstances. Risk measures need to be evaluated on the basis of the availability of appropriate data and appropriateness of underlying assumptions. In addition, all of the measures that we have discussed in this chapter are incomplete in that they do not account for factors such as skewness (unequal concentrations of potential outcomes unequally distributed below and above the mean) and fat tails (kurtosis or high probabilities of extreme events). No single [risk measure](../../Financial%20Instruments/Leverage%20as%20a%20Measure%20of%20Risk.md) can serve adequately to capture all sources of security risk. Hence, the trader or securities analyst needs to use judgment in the application and interpretation of risk measures.  
@@ -211,7 +211,7 @@ Latane, H., & Rendleman, R. (1976). Standard deviations of [stock price](../../F
 3.  Suppose a [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md)    $S_{t}$   follows a [Brownian motion](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) process with an initial price of  $S_{0}=\S50$   and a variance per time period equal to  $\sigma^{2}\,{\overset{.}{=}}\,4$  . What is the probability that the [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) is less than  $\S56$   at time 3?  
 4.  Historical  percentage  stock [returns](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) for the Robinson and Boyer Companies are listed in the following chart along with percentage [returns](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) on the market [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md):  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0385af33a4f1ece195a3f3bd1e831668df22e40a66c2707ddfbfa22f2d6c9ee2.jpg)  
+ ![500](Attachments/500-174.jpg)  
 
 Calculate the following based on the preceding table:  
 
@@ -219,7 +219,7 @@ a.  mean historical [returns](../Financial%20Asset%20Pricing%20Theory%20Overview
 
 5.  The following table represents outcome numbers, probabilities, and associated [returns](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) for Stock A:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/db99766b4b7a36b258d5af90d570a235db3dc56bf820466591cd4d14277de26e.jpg)  
+ ![500](Attachments/500-172.jpg)  
 
 Thus, there are 10 possible return outcomes for Stock A. a.  What is the probability associated with outcome 9? b.  What is the standard deviation of [returns](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) associated with Stock A?  
 
@@ -228,14 +228,14 @@ Thus, there are 10 possible return outcomes for Stock A. a.  What is the probabi
 
 8.  The following table presents sample daily historical price data for a stock whose [returns](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are given in the third column.  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/7725e0c3e3abe0e02d4987e0d74cd618ce189f2137b1b860c6ad0f20137b2c08.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6338bafcca2b8dd3ca33d250e4e55249076b5fdb42936e7c17621bf7c17a23f8.jpg)  
+ ![500](Attachments/500-177.jpg)  
+ ![500](Attachments/500-181.jpg)  
 
 a.  Based on a traditional sample estimator, calculate a daily variance estimator for this stock. b.  Assume that [returns](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) follow a [Brownian motion](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) process (at least that stock [returns](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are uncorrelated over time) and that there are 30 trading days per month. What would be the monthly variance for this stock? c.  What would be the Parkinson extreme value estimated daily [returns](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) variance for this stock?  
 
 9.  The following daily prices were collected for each of three stocks over a 12-day period.  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/0329bd36911d1de591045737a67402d006597225f093de8cf01410033bcd7849.jpg)  
+ ![500](Attachments/500-176.jpg)  
 
 Based on the data given above, calculate the following:  
 
@@ -266,9 +266,9 @@ Formulas for computing [returns](../Financial%20Asset%20Pricing%20Theory%20Overv
 
 First, we will introduce a few option basics. A  stock option  is a legal contract that grants its owner the right (not obligation) to either buy or sell a given stock. There are two types of stock options: puts and calls. A  call  grants its owner to purchase stock (called underlying shares) for a specified [exercise price](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Options.md) (also known as a striking price or [exercise price](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Options.md)) on or before the [expiration date](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) of the contract. In a sense, a call is similar to a coupon that one might find in a newspaper enabling its owner to, for example, purchase a roll of paper towels for one dollar. If the coupon represents a bargain, it will be exercised and the consumer will purchase the paper towels. If the coupon is not worth exercising, it will simply be allowed to expire. The value of the coupon when exercised would be the amount by which value of the paper towels exceeds one dollar (or zero if the paper towels are worth less than one dollar). Similarly, the value of a call option at exercise equals the difference between the underlying market price of the stock and the [exercise price](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Options.md) of the call.  
 TABLE 7. A.1 Stock Prices, [Returns](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md), Risk, and Co-Movement 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/ade6bff2d42a42e7ce40996a1ecbaa379b4ec60bbcc1639214d3962adbfe9b8c.jpg)  
+ ![500](Attachments/500-178.jpg)  
 TABLE 7. A.1 (Continued) 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cbc0e250d7e21a69118613efc76db7c83684e30ee2a9649b44344f651ce9eefb.jpg)  
+ ![500](Attachments/500-178.jpg)  
 
 Suppose, for example, that there is a call option with an [exercise price](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Options.md) of   $\S90$   on one share of stock. The option expires in one year. This share of stock is expected to be worth either   $\S80$   or   $\S120$   in one year, but we do not know which at the present time. If the stock were to be worth  $\S80$   when the call expires, its owner should decline to exercise the call. It would simply not be practical to use the call to purchase stock for   $\S90$   (the [exercise price](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Options.md)) when it can be purchased in the market for   $\S80$  . The call would expire worthless in this case. If, instead, the stock were to be worth   $\S120$   when the call expires, its owner should exercise the call. Its owner would then be able to pay   $\S90$   for a share that has a market value of  $\S120_{.}$  , representing a  $\S30$   profit. In this case, the call would be worth  $\S30$   when it expires. Let    $T$   designate the options term to expiry,    $S_{T}$   the stock value at option expiry, and  $c_{T}$   be the value of the call option at expiry determined as follows:  
 $$
@@ -285,7 +285,7 @@ A put grants its owner the right to sell the underlying stock at a specified [ex
 
 To continue the above example, suppose that there is a put option with an [exercise price](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Options.md) of   $\S90$   on one share of stock. The put option expires in one year. Again, this share of stock is expected to be worth either  $\S80$   or  $\S120$   in one year, but we do not know which yet. If the stock were to be worth  $\S80$   when the put expires, its owner should exercise the put. In this case, its owner could use the put to sell stock for  $\S90$   (the [exercise price](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Options.md)) when  
 TABLE 7. A.2 Stock [Returns](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md), Risk, and Co-Movement: Formula Entries 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/5b8250fe2e4c06963d967b1db534286929a59f096818b50454d85fc3d3511964.jpg)  
+ ![500](Attachments/500-180.jpg)  
 it can be purchased in the market for  $\S80$  . The put would be worth  $\S10$   in this case. If, instead, the stock were to be worth  $\S120$   when the put expires, its owner should not exercise the put. Its owner should not accept  $\S90$   for a share that has a market value of   $\S120$  . In this case, the put would be worth nothing when it expires. Let  $p_{T}$   be the value of the put option at expiry, determined as follows:  
 $$
 p_{T}=\mathbf{M}\boldsymbol{\mathrm{A}}\boldsymbol{\mathrm{X}}[0,\;X-S_{T}]
@@ -355,7 +355,7 @@ e.  Suppose that the purchaser of a call in part a paid  $\S1.75$   for his opti
 
 2.  Evaluate calls for each of the following European stock option series:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f843834c762806532d12f8cd68afea8abc4cd22147bf8bbae53ba49cdc134ba7.jpg)  
+ ![500](Attachments/500-173.jpg)  
 
 # Appendix Exercise Solutions  
 
@@ -363,7 +363,7 @@ e.  Suppose that the purchaser of a call in part a paid  $\S1.75$   for his opti
 
 2.  The options are valued with the [Black-Scholes model](../../Financial%20Instruments/Black%20Scholes%20Derivation.md) in a step-by-step format in the following table:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b57ed2245411c7e9f0e24432926be6aa5553abef4be53da9a8fc8e301732b11d.jpg)  
+ ![500](Attachments/500-175.jpg)  
 
 # 7. A.3 ESTIMATING IMPLIED BLACK-SCHOLES VARIANCES  
 
@@ -397,9 +397,9 @@ TABLE 7. A.3 Using the Bisection Method to Estimate [Implied Volatility](../Fina
 
 a 1  5  0 : 5 b 1  5  0 : 2 σ 1  5  0 : 35 r f  5  0 : 1 S 0  5  75 X  5  80 c  5  8 : 2 T  5  0 : 5  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dd9745a9c9e965faa23367c135151b6f222e084ec17e14d670604fe1b41ac369.jpg)  
+ ![500](Attachments/500-180.jpg)  
 TABLE 7. A.4 Newton-Raphson Method and Implied Vol at ili ties 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/e068551fc0203aa856ded774e68edca3c2529d98e36a1e73e0abdf81241cde37.jpg)  
+ ![500](Attachments/500-180.jpg)  
 Initial Equation:    $S_{0}N(d_{1})-X e^{-r_{f}T}N(d_{2})$  $$
 \begin{array}{c c c}{r_{f}=0.1}&{S_{0}=75}&{X=80}\\ {}&{}&{}\\ {c_{0}=8.20}&{T=0.5}&{\sigma_{0}=0.6}\end{array}
 $$  

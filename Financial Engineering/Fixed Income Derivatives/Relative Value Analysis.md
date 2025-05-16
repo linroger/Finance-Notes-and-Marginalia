@@ -33,7 +33,7 @@ In this section we consider the Treasury spread, [asset swap](../Derivatives/Par
 # Swap spread and Treasury spread  
 
 A bond’s swap spread is a measure of the [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) of that bond, relative to the interestrate swaps market. Because the swaps market is traded by banks, this risk is effectively  the interbank market, so the [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) of the bond over-and-above bank risk is given by  its spread over swaps. This is a simple calculation to make, and is simply the yield of the  bond minus the [swap rate](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) for the appropriate maturity swap. Figure 1 shows Bloomberg  page IRSB for Pounds sterling as at 10 August 2005. This shows the GBP [swap curve](Determining%20the%20Expression%20for%20the%20Fair%20Value%20of%20the%20Swap%20Spread.md) on  the left-hand side. The right-hand side of the screen shows the swap rates’ spread over  UK gilts. It is the spread over these swap rates that would provide the simplest relative  value measure for corporate bonds denominated in GBP. If the bond has an odd maturity,  say 5.5 years, we would interpolate between the five-year and six-year swap rates.  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/92edccb5b80450892d868f15e5da1ccbe4e90020a822198acb2aadf6bd9d6a1a.jpg)  
+ ![500](Attachments/500-350.jpg)  
 
 # Figure 1 Bloomberg page IRSB for Pounds sterling, showing GBP swap rates and  swap spread over UK gilts  
 
@@ -64,7 +64,7 @@ An [asset swap](../Derivatives/Part%20VIII%20-%20Swaps/Chapter%2037%20-%20Equity
 The zero-coupon curve is used in the [asset swap](../Derivatives/Part%20VIII%20-%20Swaps/Chapter%2037%20-%20Equity%20Swaps.md) valuation. This curve is derived from the  [swap curve](Determining%20the%20Expression%20for%20the%20Fair%20Value%20of%20the%20Swap%20Spread.md), so it is the implied zero-coupon curve. The [asset swap](../Derivatives/Part%20VIII%20-%20Swaps/Chapter%2037%20-%20Equity%20Swaps.md) spread is the spread  that equates the difference between the present value of the bond’s cashflows, calculated  using the swap zero rates, and the market price of the bond. This spread is a function of  the bond’s market price and yield, its cashflows and the implied zero-coupon interest  rates.  
 
 Figure 2 shows the Bloomberg screen ASW for a GBP-denominated bond, GKN  Holdings   $7\%$   2012, as at 10 August 2005. We see that the asset-swap spread is 121.5  basis points. This is the spread over Libor that will be received if the bond is purchased in  an asset-swap package. In essence the [asset swap](../Derivatives/Part%20VIII%20-%20Swaps/Chapter%2037%20-%20Equity%20Swaps.md) spread measures a difference between  the market-price of the bond and the value of the bond when cashflows have been valued  using zero-coupon rates. The asset-swap spread can therefore be regarded as the coupon  of an annuity in the swap market that equals this difference.  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/66d10f999048a4edc84c761fbfccb077f1c97856c41c300c51c7f1c075cb0891.jpg)  
+ ![500](Attachments/500-349.jpg)  
 Figure 2 Bloomberg page ASW for GKN bond, 10 August 2005      Bloomberg L.P. All rights reserved. Reprinted with permission.  
 
 # Z-Spread  
@@ -78,8 +78,8 @@ Figure 3 is the Bloomberg screen YAS for the same bond shown in Figure 2, as at 
 
 The same screen can be used to check spread history. This is shown at Figure 4, the Zspread graph for the GKN bond for the six months prior to our calculation date.  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/8982a147828e39e5e3f2e6ab895e63a141620e47898c4792be658fa7181bde6e.jpg)  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/a2ef969a2f99daab6bc161510faf46175e24854f17a1fe26e0d7390d2efa7fc3.jpg)  
+ ![500](Attachments/500-351.jpg)  
+ ![500](Attachments/500-348.jpg)  
 Figure 4 Bloomberg page YAS for GKN bond, 10 August 2005 showing [Z-spread](.md)  history  
 
    Bloomberg L.P. All rights reserved. Reprinted with permission.  
@@ -98,7 +98,7 @@ We illustrate the  $Z$  -spread calculation at Figure 5. This is done using a hy
 
 For readers benefit we also show the Excel formula in Figure 5. This shows how the Zspread is calculated; for ease of illustration we have assumed that the calculation takes  place for value on a coupon date, so that we have precisely an even period to maturity.  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/f5350059ec049140f1cfede1030cb3e795c39302dc90f663172075b14c424515.jpg)  
+ ![500](Attachments/500-345.jpg)  
 Figure 5 Calculating the [Z-spread](.md), hypothetical  $5\%$   2008 bond issued by XYZ plc  
 # Cash-CDS basis  
 
@@ -111,9 +111,9 @@ where   $D$   is the CDS price. Where   $D\mathrm{~-~}I\,>\,0$   it is a positiv
 
 Figure 6 shows page  $\mathrm{G}<\mathrm{go}>$   on Bloomberg, set up to show the [Z-spread](.md) and CDS price  history for the GKN 2012 bond, for the period March-Spetember 2005. We can select the  “Table” option to obtain the actual values, which can then be used to plot the basis. This  is shown at Figure 7, for the period 22 August to 22 September 2005. Notice how the  basis was always negative during August-September; we see from Figure 6 that earlier in  the year the basis had briefly been positive. Changes in the basis give rise to [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)  opportunities between the cash and synthetic markets. This is discussed in greater detail  in Choudhry (2004b).  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/b226182d2e310c4c5976b45945202713d5659889c22d355f873a2e33f8b7236f.jpg)  
+ ![500](Attachments/500-347.jpg)  
 Figure 6 Bloomberg graph using screen G <go>, plot of asset-swap spread and CDS  price for GKN bond, April-September 2005      Bloomberg L.P. All rights reserved. Reprinted with permission.  
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/d091cf96114ebf35b6edbcfe6311cd864d905c10da702075ba13246f56ca8fb3.jpg)  
+ ![500](Attachments/500-346.jpg)  
 Figure 7 GKN bond, CDS basis during August-September 2005  Data source: Bloomberg L.P.  
 
 A wide range of factors drive the basis, which are described in detail in Choudhry  (2004a). The existence of a non-zero basis has implications for [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) strategy. For  instance, when the basis is negative investors may prefer to hold the cash bond, whereas  if for [liquidity](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md), supply or other reasons if the basis is positive the investor may wish to  hold the asset synthetically, by selling protection using a [credit default swap](../../Credit%20Markets/Credit%20Market%20Session%202.md). Another  approach is to [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) between the cash and synthetic markets, in the case of a negative  basis by buying the cash bond and [shorting](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Short%20Selling.md) it synthetically by buying protection in the  [CDS market](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20II%20CASH%20FLOW%20ENGINEERING/Chapter%2010%20-%20Collateralized%20Debt%20Obligations%20and%20Basket%20Credit%20Derivatives/Credit%20Derivative%20Indexes.md). Investors have a range of spreads to use when performing their relative  value analysis.  

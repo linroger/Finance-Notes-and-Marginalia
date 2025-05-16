@@ -22,7 +22,7 @@ key_concepts:
 
 As we discussed in Chapter 7, traders are very concerned with [arbitrage](../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), where [riskless arbitrage](.md) involves the simultaneous purchase and sale of identical cash flows. The most easily arbitraged [financial instruments](../../Financial%20Instruments/A%20Practical%20Guide%20for%20Actuaries%20and%20other%20Business%20Professionals..md) are often those with [guaranteed payments](.md) or with payments that are perfectly correlated with other instruments. Consider a set of riskless bonds whose [coupon payments](../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) and redemption values are guaranteed. Such riskless bonds might be replicated by portfolios of other riskless bonds if their payments are similarly guaranteed and are to be made on the same dates. For example, consider the illustration provided in  Table 8.1 , which consists of three priced riskless bonds, all making payments on the same dates until they mature. The [cash flow](../Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) structure of any one-, two-, or three-year bond (e.g., Bond D) added to the market can be replicated with some [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of bonds A, B, and  $C,$   as long as all the cash payments to investors on Bond D are on the same dates as those made by at least one (in this example, two) of the three bonds A, B, and C.   For example, assume that there now exists Bond D, a threeyear,   $20\%$   coupon bond selling in this market for  $\mathbb{S}1360$  . This bond will make payments of   $\S200$   in years 1 and 2 in addition to a   $\mathbb{S}1200$   payment in year 3. We will demonstrate  $\mathsf C$  that a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of bonds A, B, and   can be assembled to generate the same [cash flow series](.md) as Bond D.  
 TABLE 8.1 Coupon Bonds A, B, and C 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/718cc32863756619c4e0300d8b833a28a93022a96551158023d8fb3e1e103e6e.jpg)  
+ ![500](Attachments/500-166.jpg)  
 
 Thus, as we will demonstrate, Bond  $\mathrm{D}$   can be replicated by a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of our first three bonds in the following quantities:    $b_{A}=0,$  ,    $\begin{array}{r}{b_{B}=3_{3}^{1},}\end{array}$  , and    $b_{C}=-\,{\dot{2}}_{3}^{1},$  , which are determined by the following [system of equations](../../Financial%20Engineering/Fixed%20Income%20Derivatives/A%20Primer%20on%20Probability%20Theory%20and%20Stochastic%20%20Modelling.md):  
 $$
@@ -349,7 +349,7 @@ $$
 
 Thus, one can obtain spot rates    $y_{0,t}$   from the bond’s current purchase price    $P_{0}$   and expected [future cash flows](../../Financial%20Engineering/Advanced%20Derivatives%20Pricing%20Methodology.md) from [coupon payments](../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md)  $c F$   and face value  $F$  . Consider a  $\mathbb{S}1000$  face value bond making a single interest payment at an annual rate of   $5\%$   (see  Table 8.2 ). Suppose this bond is currently selling for 102 (actually meaning   $102\%$   of its face value, or  
 TABLE 8.2 Boots trapping Spot Rates 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/6e5195fc76e0b09934035cc07173d2f6186b110a26cc0c7b15f0dcd37d02d966.jpg)  
+ ![500](Attachments/500-171.jpg)  
 
 1020) and that it matures in one year when its coupon payment is made. The one-year [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) implied by this bond is determined as follows:  
 $$
@@ -383,7 +383,7 @@ $$
 \begin{array}{c}{(1+0.0449)^{3}=(1+0.0294)(1+0.052731)(1+y_{2,3})}\\ {y_{2,3}=\displaystyle\frac{(1+0.0449)^{3}}{(1+0.0294)(1+0.052731)}-1=0.052744}\end{array}
 $$  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/99f501fb52b2cbb478ab7b0ee13cf9a75efde2a1e10d6b7a4437d202efbcf1af.jpg)  
+ ![500](Attachments/500-164.jpg)  
 
 FIGURE 8.1 Mapping the yield curve.  
 The two-year [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) on a loan originating in one year, [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md)  $y_{1,3},$   is determined as follows:  
@@ -418,7 +418,7 @@ $$
 
 TABLE 8.3 Coupon Bonds E, F, and G  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/dcfabe901845b21e4f62d757eebff1c6820f6b9a72a9d2b6f2987058d223aca9.jpg)  
+ ![500](Attachments/500-168.jpg)  
 Thus, we find from solving this system for vector  $d$   that    $D_{1}=0.943377,$  ,    $D_{2}=0.85734,$  , and  $D_{3}\,{=}\,0.751316$  . Since    $D_{t}=\bar{1/}(1\,+\,\dot{y}_{0,t})^{t},$  ,  $1/D_{t}=(1\,+\,y_{0,t})^{t}\,\!,$  , and    $y_{0,t}=1/D^{1/t}\,-\,1$  . Thus, spot rates are determined as follows:  
 $$
 \begin{array}{c}{\displaystyle\frac{1}{D_{1}}-1=0.06=y_{0,1}}\\ {\displaystyle\frac{1}{D_{2}^{1/2}}-1=0.08=y_{0,2}}\\ {\displaystyle\frac{1}{D_{3}^{1/3}}-1=0.10=y_{0,3}}\end{array}
@@ -484,7 +484,7 @@ The [Vasicek](../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/C
 
  3.  The [Vasicek model](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Vasicek%20Short%20Rate%20Model.md) produces the result that all short- and long-term rate shifts over terms to maturity are perfectly correlated.  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/9b061e088f0376e15061cc2cdbe4279e9fd1f8d79a2bf8dd3d39526a151eedbb.jpg)  
+ ![500](Attachments/500-169.jpg)  
 FIGURE 8.2 Simulation of [Vasicek](../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) process:  $r_{0}=0.05,$  ,  $\sigma=0.02$   and  $\lambda=0.1$  .  
 4.  Related to the difficulty put forth just above, the [Vasicek model](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Vasicek%20Short%20Rate%20Model.md) assumes only a single underlying risk factor when, in fact, there is significant evidence that there may well be multiple factors. For example, sometimes the yield curve can “twist;” that is, long- and [short-term rates](../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%208/Volatility%20and%20Convexity.md) can move in opposite directions. Multiple [risk factors](../../Financial%20Instruments/Assignments/PSET%206-%20Financial%20Instruments.md) can often explain such “twisting.”  
 
@@ -523,7 +523,7 @@ In a world economy characterized by free trade, complete certainty and no market
 One well-known (though somewhat tongue in cheek) test of PPP is the “Big Mac standard” popularized by  [The Economist](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Fewer%20Or%20Even%20None.md) . MacDonald’s Corporation’s Big Mac hamburgers are generally regarded to be more or less identical all over the world. Given PPP, then the Big Mac should sell for the same price in each country. For example, suppose that the Big Mac cost   $\S4.60$   in a U.S. restaurant and costs  d 3.62 (GBP3.62) in the UK; Further suppose that  
 
 TABLE 8.4 Triangular [Arbitrage](../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/54d96dc70a9883fa784e3610859fe9433020fbf94aa9ff7f943ab06aa4f8787e.jpg)  
+ ![500](Attachments/500-162.jpg)  
 the dollar/pound exchange rate is  $\S1.46/\mathfrak{L}$  ; that is, GBP1 has the same value as USD1.46. At this exchange rate of  $\S1.46/\xi,$  , the British pound appeared overvalued by approximately  $15\%$   relative to the U.S. dollar. However, we need to recognize that Big Macs are not easily exported from countries where they are under priced, which might prevent absolute PPP from holding in this instance. Nor does this relationship among prices account for differences in taxes, subsidies, labor, and other production costs.  
 
 # Purchase Power Parity in Spot Markets  
@@ -580,7 +580,7 @@ Equation 8.23  is the general mathematical definition or statement of PPP. It pr
 
 Consider the following violation of PPP. The exchange rates of dollars for pounds are 1.6000 and 1.6296 in the spot and one-year forward markets, respectively. Assume that gold is selling for   $\S400$   per ounce in American spot markets and for  d 250 in British spot markets. The one-year [forward price](../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) of gold is   $\S440$   in American markets and    $£280$   in British markets. We might wish to assume that [inflation](../../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) rates in the United States and the UK are, respectively,  $10\%$   and   $12\%$  . In this case, we should be able to demonstrate an [arbitrage](../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity. Consider the following transactions in forward markets (future prices are locked in now by taking positions in forward contracts):  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/06e707f8001f8dff46eda20a4ae5cf1160f3cc253cfca6abac53d0c8488ee23d.jpg)  
+ ![500](Attachments/500-170.jpg)  
 
 Because all prices are locked in by spot and forward contracts, we are able to lock in a profit of  d 10 by engaging the above transactions. The change in exchange rates does not coincide appropriately with the countries’ relative gold price changes. You should be able to demonstrate for yourself that  Equation (8.23)  does not hold for this example. Whenever Equation (8.23)  does not hold, we should either be able to exploit an [arbitrage](../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity or identify a constraining market friction.  
 
@@ -604,12 +604,12 @@ Thus, the interest rate in the UK must be   $9.9636\%$  . If the British interes
 Here, we continue to assume that exchange rates of dollars for pounds are 1.6 and 1.6296 in the spot and one-year forward markets, respectively. Assume that [nominal interest rates](../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20and%20Nominal%20Interest%20Rates%20and%20Term%20Struc.md) are   $12.5\%$   in the United States and  $12\%$   in the United Kingdom. Again, we should be able to demonstrate an [arbitrage](../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity. Consider the following transactions in markets for interest bearing securities and forward exchange (forward prices are locked in now by contracts):  
 
 Time Zero Positions 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c42aca73a558579b7d5399d08e70836db66c80a63e7e685578da84dfe885cd52.jpg)  
+ ![500](Attachments/500-161.jpg)  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/c66c4bf35289990f7c6af2e37ff34aa8d7e7cd0c231f73ee961f802129614c09.jpg)  
+ ![500](Attachments/500-167.jpg)  
 Time One Positions  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/efc91946c6e3b3e7e887b27c335db49752fd0a85890f0680a92aeb1713cd41ed.jpg)  
+ ![500](Attachments/500-165.jpg)  
 
 Here, we are able to lock in a profit of  $\S15.74$   by engaging the above transactions. The change in exchange rates did not coincide appropriately with the countries’ relative [interest rates](../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md). You should be able to demonstrate for yourself that  Equation (8.24)  does not hold for this example. Whenever  Equation (8.24)  does not hold, we will be able to locate an [arbitrage](../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity or a friction that prevents its exploitation.  
 
@@ -704,7 +704,7 @@ Cox, J., Ingersoll, J., & Ross, S. (1985). A theory of the [term structure of in
 
 4.  A life insurance company expects to make payments of  $\S30{,}000{,}000$   in one year,  $\mathbb{S}15{,}000{,}000$   in two years,   $\S25{,}000{,}000$   in three years, and  $\S35{,}000{,}000$   in four years to satisfy claims of policyholders. These anticipated cash flows are to be matched with a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of the following  $\mathbb{S}1000$   face value bonds:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/785868a49438afb966256c769770fa2d0cf5063eaa1df31d821905f8e3b403b2.jpg)  
+ ![500](Attachments/500-167.jpg)  
 
 How many of each of the four bonds should the company purchase to exactly match its anticipated payments to policyholders?  
 
@@ -735,7 +735,7 @@ c.  Find the present values of each of the bonds in Problem 10 above after yield
 
 15.  Consider the following four bonds:  
 
- ![500](https://cdn-mineru.openxlab.org.cn/model-mineru/prod/cc37a49f2b0b35679f452e711fa857ab684331e0ddb3caa26000fa36de71af95.jpg)  
+ ![500](Attachments/500-163.jpg)  
 
 Based on the cash flows and prices associated with these bonds, determine the following:  
 

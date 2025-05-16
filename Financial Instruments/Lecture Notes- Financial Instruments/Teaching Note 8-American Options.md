@@ -69,7 +69,7 @@ For Calls: Normalized Intrinsic Value$\,    =\dfrac{\max(S_{0}-K)}{S_{0}}=\max(1
 
 ## EXAMPLE: SPY OPTIONS EXAMPLE: SPY OPTIONS - NOTE
 
-  ![SPY Options](https://storage.simpletex.cn/view/fK7NXo8YqYiiLI0nkGXrHP7fZNP4FMZ3Y)
+  ![SPY Options](Attachments/SPY_Options.png)
 
 ![|500](CleanShot%202024-02-13%20-000374@2x.png)
 
@@ -229,13 +229,13 @@ Value of Option if Wait $=e^{-r/2}E^{*}[p_{2}^{A}|S_{1,    d}]=e^{-r/2}E^{*}[p_{
 
  ![500](CleanShot%202024-10-02%20-003078@2x.png)
 
--  ![500](https://storage.simpletex.cn/view/ffPgGtPeGrgkGlKC3pXOd7sbSkSlBTI7u)
+-  ![500](Attachments/500-110.png)
 ## AMERICAN OPTIONS. DYNAMIC REPLICATION
 
 - Can we "dynamically replicate" an American option using a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of stocks and bonds?
 - Yes! Once we solve for the [optimal exercise strategy](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/American-Style%20Derivatives.md),  we have a standard option tree. - Consider the earlier example:
 
- ![500](https://storage.simpletex.cn/view/fniSs76T3dR8R2gYxCr02RG9gB4BAGpeC)
+ ![500](Attachments/500-109.png)
 
 ## AMERICAN OPTIONS. DYNAMIC REPLICATION
 

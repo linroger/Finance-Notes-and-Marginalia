@@ -51,7 +51,7 @@ key_concepts:
 	- The dividend yield on the S&P 500 is about $q = 1.69\%$.
 	- Observed options prices with maturity end of November $T = 1/12$.
 
-![Observed Options Prices](https://storage.simpletex.cn/view/f7C2SGWBkquawof22a96GfZOGS78cPoVH)
+![Observed Options Prices](Attachments/Observed_Options_Prices.png)
 
 #### Moneyness
 - Moneyness is defined as the ratio of the [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) to the current [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) $K/S$:
@@ -60,25 +60,25 @@ key_concepts:
   - $K/S > 1$:
 	- $K > S$: **Puts are ITM,  calls are OTM**.
 
-![Moneyness Diagram](https://storage.simpletex.cn/view/f2dIZB2bPG3q60uTlGBarK7W3dVrB2zZQ)
+![Moneyness Diagram](Attachments/Moneyness_Diagram.png)
 
 #### Comparison to Black-Scholes Using Historical Volatility
 - Historical volatility used: $22.2\%$.
 
-![BSM vs Observed Prices](https://storage.simpletex.cn/view/fgWbT9ZazgmcC6BnzcaSSaBKIGYGBHdvk)
+![BSM vs Observed Prices](Attachments/BSM_vs_Observed_Prices.png)
 
 ### BSM Using Historical Volatility Relative to Observed Prices
 
-![Historical Volatility Comparison](https://storage.simpletex.cn/view/fo8fmUnENF9KosLUhyZYBgGU3TTzIXOnu)
+![Historical Volatility Comparison](Attachments/Historical_Volatility_Comparison.png)
 
 ### BSM Using Historical Volatility Relative to Observed Prices
 
-![BSM Comparison](https://storage.simpletex.cn/view/fuNyX5zn4MNhTNQtBGI3KzK27sBgGNKUa)
+![BSM Comparison](Attachments/BSM_Comparison.png)
 
 #### BSM Put Prices Relative to Observed Prices
 - **[Implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md)** was set to match the "ATM" put option with strike of $3870$. This [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) was $23.1\%$.
 
-![BSM Put Prices](https://storage.simpletex.cn/view/fpQmFGYY6BbzeesbDgbnBMvCBr95KP8T7)
+![BSM Put Prices](Attachments/BSM_Put_Prices.png)
 
 ## Black and Scholes: What is Wrong?
 - **Assumption**: [Black-Scholes](../../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md) assumes log-normal [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md).
@@ -87,7 +87,7 @@ key_concepts:
   - $S_{t}$ is normally distributed.
   - **Issue**: Fat tails in [empirical distribution](../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) indicate extreme observations are more likely than implied by the normal distribution.
 - **Figure 1**: [Empirical distribution](../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) of monthly [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) versus the normal distribution.
-  ![Fat Tails](https://storage.simpletex.cn/view/fCW7gnggTIgpgwmoys9Eya0SSI0Umi7Kg)
+  ![Fat Tails](Attachments/Fat_Tails.png)
 
 - **Assumption**: The [Black-Scholes model](../Black%20Scholes%20Derivation.md) assumes that volatility of stock [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) is constant.
   - **Issue**: Volatility is stochastic—it moves unpredictably over time.
@@ -95,7 +95,7 @@ key_concepts:
 
 - **Assumption**: [Black-Scholes](../../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md) assumes continuous trading and no jumps.
   - **Issue**: Prices sometimes jump discretely.
-  ![Price Jumps](https://storage.simpletex.cn/view/fTdGfgvNuQHW4d8ZGf43A6vRup6Hxzywm)
+  ![Price Jumps](Attachments/Price_Jumps.png)
 
 ## Black and Scholes Implied Volatility
 - **Definition**: [Implied Volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) is the level of volatility $\sigma$ that,  when used in the [Black-Scholes formula](../../Credit%20Markets/Credit%20Markets%20Session%205.md),  matches the value of a traded option.
@@ -114,7 +114,7 @@ key_concepts:
 - **Relative [Pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of Options**:
   - Options with different strike prices and maturities can be compared using [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md).
 
-![Option Prices Across Strikes and Maturities](https://storage.simpletex.cn/view/fz3uGt7xSpgcdbGrWixWRNbFWgdWFM9oC)
+![Option Prices Across Strikes and Maturities](Attachments/Option_Prices_Across_Strikes_and_Maturities.png)
 
 #### VIX
 - The **VIX** uses the concept of "Volatility Swaps,  " where a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of options is created that is hedged against index-level moves,  exposing only volatility changes.
@@ -140,7 +140,7 @@ key_concepts:
 	$$\log\left(\frac{S_{t,    t+h}}{S_t}\right) = \mu \times h + S_t^{\alpha} \times \Sigma \times \epsilon_t$$
   - If $\alpha < 0$,  lower $S_{t}$ implies higher volatility,  leading to an [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) smirk.
 
-![Deterministic Volatility](https://storage.simpletex.cn/view/fw04zv9rGYaYzT0zVMvAG6YVVVR8eptSI)
+![Deterministic Volatility](Attachments/Deterministic_Volatility.png)
 
 #### Stochastic Volatility Models
 - **Assumption**: Volatility $\sigma_{t}$ changes over time.
@@ -210,7 +210,7 @@ Result: If $\omega < 0$,  then OTM put options are relatively more expensive.
 \end{document}
 
 ```		
-![Implied Tree Logic](https://storage.simpletex.cn/view/fwGGRatMlqKAhywFVsAy9CZUEPb0iO4hh)
+![Implied Tree Logic](Attachments/Implied_Tree_Logic.png)
 
 An implied tree has the same logic as [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md): Since the model is not working using the correct inputs,  we look for an alternative specification that makes it work.
 

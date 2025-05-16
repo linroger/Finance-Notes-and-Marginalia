@@ -43,16 +43,16 @@ Quantities:
 ### CDS Market
 
 From Bomfim (2022),  “Credit Default Swaps,  ” Finance and Economics Discussion Series,  Federal Reserve
- ![500](https://storage.simpletex.cn/view/fX4H4YQdPgL8omCG1AoX45Hu8zFliofn6)
+ ![500](Attachments/500-111.png)
 Source: Bank for International Settlements (2021) and author's calculations. Note:*“End Users” refers to non-dealer end users. List of abbreviations used in Figure 1: Other MN: Other [multi-name CDS](.md) (non-index product Special-purpose vehicle,  special-purpose corporation,  or special-purpose entity Spec purp: Sec prod: Securitized products [Reference Entity](.md) Ref Entity:
 
 ### Sovereign Crises
 - Italy:
- ![500](https://storage.simpletex.cn/view/faKvB1faeiEYngaoVyAbuvDMORfQgRpir)
+ ![500](Attachments/500-112.png)
 - Russia: 10-year CDS: 2.54% on 1/31/2022 to $4.04\%$ on 02/28/2022. Spike for 5-year CDS: $8.94\%$ on 2/24/2022.
 
 ### CDS Indexes
 
 A nice discussion of indexes is here.
- ![500](https://storage.simpletex.cn/view/f4pCSpyxblvmNuIQVPxuGx8KNA3gMiHGK)
+ ![500](Attachments/500-113.png)
 Source: His Markit

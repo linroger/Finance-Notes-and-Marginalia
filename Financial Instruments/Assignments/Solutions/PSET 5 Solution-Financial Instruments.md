@@ -36,11 +36,11 @@ Solution to Homework 5
 ### Part 1. Multi-period binomial tree
 1. The intermediary can set up a [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) using [delta hedging](../../Financial%20Instruments.md). At each node $(i,                        j)$，(with $i$ representing the period $i=0,                        …,                        I-1$ and $j$ representing the row $j=1,                        …\dot{i}$ for a given period) the intermediary can take a position equal to $\triangle_{i,                        j}$ stocks and $B_{i,                        j}$ bonds,  where$$\triangle_{i,                        j}=\frac{c_{i+1,                        j}-c_{i+1,                        j+1}}{S_{i+1,                        j}-S_{i+1,                        j+1}}$$$$B_{i,                        j}=\frac{1}{1+r}\cdot(c_{i+1,                        j}-\triangle_{i,                        j}\cdot S_{i+1,                        j})=\frac{1}{1+r}\cdot(c_{ i+1j+1}-\triangle_{i,                        j}\cdot S_{i+1,                        j+1})$$ …e member that by taking the positions (1) …d (2) the institution replicates a long call,  which exactly offsets the short position in the call.
 (a）We can sta rt by r epresent ing the tr ee for the st ock price,  that is shown in Fig ure (1).
- ![500](https://storage.simpletex.cn/view/fyyg666isOQVVhplkPU976LrXANnionPx)
+ ![500](Attachments/500-141.png)
 Figure 1: [Stock price tree](.md)
 Given the tree in Figure (1) we can compute option payoff at period $i=2$，a 8 represented in Figure (2)
 
- ![500](https://storage.simpletex.cn/view/ff1S4VLcHlx0cOyDGCalKPhKElGbmD8Ge)
+ ![500](Attachments/500-140.png)
 ```latex
 \usetikzlibrary{arrows.meta,                        positioning}
 \begin{document}
@@ -93,7 +93,7 @@ Risk-free Rate & $\uparrow$                    & $\downarrow$                 \\
 Table 1: Value of the [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) as a function of $S_{0}V^{RP}\left(S_{0}\right)$
 
 1. The change in value of the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is constant for values of $S_{0}$ below 100 and again constant but at a higher value for values of $S_{0}$ above 100. As a result the relationship between the option price and the current stock prices is convex. Figure (4) reports this result.
- ![500](https://storage.simpletex.cn/view/faHg9EDG1S5Anhb6rrN3i5rv3UPIxegq2)
+ ![500](Attachments/500-143.png)
 Figure 4: Relationship between [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) value and [stock price](../../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md)
 1. The relationship is convex. The "second derivative" is positive..
 (c) The [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is “self-financing". To check this consider the following. At period $i=0$,  the [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) requires buying 0.7732 stocks and to short-selling 66.9474 units of zero couponbonds paying 1 dollar at period $i=2$ (which is the same as borrowing 66.9484 dollars). At the “"up-node (1,  1) the value of such position is$$\triangle_0\cdot S_u+B_0\cdot(1+r)=0.7732+(-66.9474)\cdot(1+0.05)=14.7619$$
@@ -118,7 +118,7 @@ Figure (6) shows a summary of all relevant quantities in case of a $5\%$ dividen
  ![500](https://storage.simpl etex. Cn/view/fPf 8 Gga 1 cOes 7 99 bkFFgiq 8 HscnEGe 7 V)
 Figure 6: Summary tree in case of $5\%$ dividend yield paid at $i=1$
 (f）To compute the option price in case of a fixed dollar dividend,  we can apply the same logic as in point (1. E). The only difference tho ugh is that the tree does not recombine at period $i=2$. Figure (7) presents a ummary tree,  which shows that the option value in this case is $c_{0}=7.6591$
- ![500](https://storage.simpletex.cn/view/faqCthGF2N720UTAANTWtwkIkF3fchDpM)
+ ![500](Attachments/500-142.png)
 Figure 7: Summary tree in case of a 5 dollars constant dividend paid at $i=1$
 ------------------------------------------------------------------
 ### Part 2 - Black and Scholes (and Merton) Formula
@@ -128,7 +128,7 @@ Where$$d_1=\frac{ln\left(\frac{S_0}{K}\right)+\left(r+\frac{\sigma^2}{2}\right)\
 And$$d_2=d_1-\sigma\cdot T\sqrt{-}$$
 applying formulas (4) and (5) we get $c^{BS}=4.7594$ and $p^{BS}=0.8086$
 (2) Figure (8) shows the results. The relationship between options premium and [stock price](../../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) is convex.
- ![500](https://storage.simpletex.cn/view/fV5qNLxfifFcxyP32nR7DGx6YGBfqBNUi)
+ ![500](Attachments/500-139.png)
 Figure 8: Black and Scholes options prices for different stock prices
 (3) The results are shown in the following Table 2.
 ```latex
@@ -153,11 +153,11 @@ Figure 9: Black and Scholes options prices for different strike prices
 
 ------------ ------------------------------------------------------
 
- ![500](https://storage.simpletex.cn/view/fT6GKr24xqxbcvk57LNsVukNeMVnSGvfb)
+ ![500](Attachments/500-139.png)
 Figure 10: Black and Scholes options prices for different return volatilities
 [[[A Practical Guide for Actuaries and other Business Professionals.|Financial Instruments](../../../Attachments/PSET%205%20Solution-1.png)/Assignments/Solutions/PSET 5 Solution (attachments)/PSET 5 Solution-1.png]]
 Figure 11: Black and Scholes options prices for different maturities
- ![500](https://storage.simpletex.cn/view/ftxNzEvVKl2ual7eAEyUeSq79A7VItZQN)
+ ![500](Attachments/500-139.png)
 Figure 12: Black and Scholes options prices for different [interest rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)
 
 - (4). In order to hedge a short position in a put,  we need to set up a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) that mirrors the value of a long puT. We can do that via [delta hedging](../../Financial%20Instruments.md). Since we know that the delta for a long put is $-N\left(-d_{1}\right)=-0.2887$,  in our case we have to short 0.2887 stocks. In addition since when we wrote the put we have received the premium equal to 1.1579 the [replicating portfolio](../../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) requires to invest $B_{0}=p-\triangle_{0}\cdot S_{0}=1.1579+0.2887\cdot42=$ 13.2841 in zero coupon bonds. As a double check,  the value of the replicating portfolic is$$V_0^{RP}=B_0+\triangle_0\cdot S_0=13.2841-0.2887\cdot42=1.1579$$
