@@ -1,58 +1,65 @@
-# OPTIONS ENGINEERING WITH 11 APPLICATIONS  
+---
+title: "Options Engineering with Applications"
+chapter: 11
+subject: "Financial Engineering"
+category: "Principles of Financial Engineering"
+---
+
+# OPTIONS ENGINEERING WITH APPLICATIONS  
 
 # CHAPTER OUTLINE  
 
-1.1 [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) . 352   
-11.1.1 Payoff Diagrams .. 352   
+11.1 Introduction . 352   
+11.1.1 Payoff Diagrams . 352   
 11.1.1.1 Examples of xt . 354   
-1.2 Option Strategies .... . 355   
-11.2.1 Synthetic [Long and Short Positions](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Market%20Size%20and%20Participants.md). 355   
-11.2.1.1 An application .. 357   
-11.2.1.2 [Arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity?.. . 360   
+11.2 Option Strategies . 355   
+11.2.1 Synthetic Long and Short Positions. 355   
+11.2.1.1 An application . 357   
+11.2.1.2 Arbitrage opportunity? . 360   
 11.2.2 A Remark on the Pin Risk . 361   
 11.2.3 Risk Reversals. 361   
-11.2.3.1 Uses of risk reversals.. . 363   
+11.2.3.1 Uses of risk reversals. 363   
 11.2.4 Yield Enhancement Strategies . 364   
 11.2.4.1 Call overwriting . 365   
-1.3 Volatility-Based Strategies....... . 367   
-11.3.1 Strangles ... 369   
+11.3 Volatility-Based Strategies . 367   
+11.3.1 Strangles . 369   
 11.3.1.1 Uses of strangles. 369   
 11.3.2 Straddle . 370   
 11.3.2.1 Static or dynamic position? . 370   
-11.3.3 Butterfly ... . 372   
-1.4 Exotics .... .. 373   
+11.3.3 Butterfly . 372   
+11.4 Exotics . 373   
 11.4.1 Binary, or Digital, Options . 373   
-11.4.1.1 A binary call .. . 374   
-11.4.1.2 Replicating the binary call.. 374   
-11.4.1.3 Delta and price of binaries .. . 376   
+11.4.1.1 A binary call . 374   
+11.4.1.2 Replicating the binary call. 374   
+11.4.1.3 Delta and price of binaries . 376   
 11.4.1.4 Time value of binaries. 377   
 11.4.1.5 Uses of the binary . 377   
-11.4.2 Barrier Options... 378   
-11.4.2.1 A contractual equation.. 380   
-11.4.2.2 Some uses of barrier options.. 383   
-11.4.3 New Risks.. 384   
-1.5 Quoting Conventions.. 384   
-11.5.1 Example 1 .. 386   
+11.4.2 Barrier Options. 378   
+11.4.2.1 A contractual equation. 380   
+11.4.2.2 Some uses of barrier options. 383   
+11.4.3 New Risks. 384   
+11.5 Quoting Conventions. 384   
+11.5.1 Example 1 . 386   
 11.5.2 Example 2 . 387  
 
 11.6 Real-World Complications . 387   
-11.6.1 The Role of the Volatility Smile.. 387   
+11.6.1 The Role of the Volatility Smile. 387   
 11.6.2 Existence of Position Limits . 388   
-1.7 Conclusions.. 388   
+11.7 Conclusions. 388   
 Suggested Reading . 388   
-[Exercises](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) . 389   
-EXCEL [Exercises](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) .. 391   
+Exercises . 389   
+EXCEL Exercises . 391   
 MATLAB Exercise . 391  
 
 # 11.1 INTRODUCTION  
 
-This chapter discusses traditional option strategies from the financial engineering perspective and provides market-based examples. It then moves on to discuss [exotic](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) options. We are concerned with portfolios and positions that are taken with a precise gain loss profile in mind. The players consciously take risks in the hope of benefiting or protecting themselves from an expected movement in a certain risk factor. Most [investor behavior](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-%20Bank%20Runs/Runs%20On%20Money%20Market%20Mutual%20Funds.md) is of this kind. Investors buy a stock with a higher (systematic) risk, in anticipation of higher [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md). A high-yield bond carries a higher default probability, which the bond holder is willing to bear. For all the different instruments, there are one or more [risk factors](../../Financial%20Instruments/Assignments/PSET%206-%20Financial%20Instruments.md) that influence the gains and losses of the position taken. The investor weighs the risks due to potentially adverse movements in these factors against the gains that will result, if these factors behave in the way the investor expected. Some of the [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) activity can be interpreted in a similar way. This chapter deals with techniques and strategies that use options in doing this. We consider classical (vanilla) as well as [exotic](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) options tools.  
+This chapter discusses traditional option strategies from the financial engineering perspective and provides market-based examples. It then moves on to discuss exotic options. We are concerned with portfolios and positions that are taken with a precise gain loss profile in mind. The players consciously take risks in the hope of benefiting or protecting themselves from an expected movement in a certain risk factor. Most investor behavior is of this kind. Investors buy a stock with a higher (systematic) risk, in anticipation of higher returns. A high-yield bond carries a higher default probability, which the bond holder is willing to bear. For all the different instruments, there are one or more risk factors that influence the gains and losses of the position taken. The investor weighs the risks due to potentially adverse movements in these factors against the gains that will result, if these factors behave in the way the investor expected. Some of the hedging activity can be interpreted in a similar way. This chapter deals with techniques and strategies that use options in doing this. We consider classical (vanilla) as well as exotic options tools.  
 
-According to an important theorem in modern finance, if options of all strikes exist, carefully selected option portfolios can replicate any desired gain loss profile that an investor or a hedger desires. We can synthetically create any asset using a (static) [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of carefully selected options, since financial positions are taken with a payoff in mind. Hence, we start our discussion by looking at payoff diagrams.  
+According to an important theorem in modern finance, if options of all strikes exist, carefully selected option portfolios can replicate any desired gain loss profile that an investor or a hedger desires. We can synthetically create any asset using a (static) portfolio of carefully selected options, since financial positions are taken with a payoff in mind. Hence, we start our discussion by looking at payoff diagrams.  
 
 # 11.1.1 PAYOFF DIAGRAMS  
 
-Let $x_{t}$ be a random variable representing the time- $\cdot t$ value of a risk factor, and let $f(x_{T})$ be a function that indicates the payoff of an arbitrary instrument at “maturity” date $T_{\cdot}$ , given the value of $x_{T}$ at time $T>t.$ . We call $f(x_{T})$ a payoff function. The functional form of $f\left(.\right)$ is known if the contract is well defined.2 It is customary in textbooks to represent the pair $\{f(x_{T}),x_{T}\}$ as in Figure 11.1 or 11.2. Note that, here, we have a nonlinear upward sloping payoff function that depends on the values assumed by $x_{T}$ only. The payoff diagram in Figure 11.1 is drawn in a completely arbitrary fashion, yet, it illustrates some of the general principles of financial exposures. Let us review these.  
+Let $x_{t}$ be a random variable representing the time- $t$ value of a risk factor, and let $f(x_{T})$ be a function that indicates the payoff of an arbitrary instrument at "maturity" date $T$, given the value of $x_{T}$ at time $T>t.$ We call $f(x_{T})$ a payoff function. The functional form of $f(.)$ is known if the contract is well defined. It is customary in textbooks to represent the pair $\{f(x_{T}),x_{T}\}$ as in Figure 11.1 or 11.2. Note that, here, we have a nonlinear upward sloping payoff function that depends on the values assumed by $x_{T}$ only. The payoff diagram in Figure 11.1 is drawn in a completely arbitrary fashion, yet, it illustrates some of the general principles of financial exposures. Let us review these.  
 
 ![](f8945d12658657cf5d364d0fd8f4f837b6e44df5e505a86699a66036a64ef496.jpg)  
 
@@ -66,850 +73,991 @@ Payoff of nonlinear exposure.
 
 Payoff of a linear exposure.  
 
-First of all, for fairly priced exposures that have zero value of initiation, net exposures to a risk factor, $x_{T}$ , must be negative for some values of the underlying risk. Otherwise, we would be making positive gains, and there would be no risk of losing money. This would be an [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity. Swap-type instruments fall into this category. If, on the other hand, the final payoffs of the contract are non-negative for all values of $x_{T}$ , the exposure has a positive value at initiation, and to take the position an upfront payment will have to be made. Option positions have this characteristic.3  
+First of all, for fairly priced exposures that have zero value of initiation, net exposures to a risk factor, $x_{T}$, must be negative for some values of the underlying risk. Otherwise, we would be making positive gains, and there would be no risk of losing money. This would be an arbitrage opportunity. Swap-type instruments fall into this category. If, on the other hand, the final payoffs of the contract are non-negative for all values of $x_{T}$, the exposure has a positive value at initiation, and to take the position an upfront payment will have to be made. Option positions have this characteristic.
 
-Second, exposures can be convex, concave, or linear with respect to $x_{T},$ , and this has relevance for an investor or market professional. The implication of linearity is obvious: the sensitivity of the position to movements in $x_{T}$ is constant. The relevance of [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) was discussed in Chapters 9 and 10. With [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md), movements in volatility need to be priced in, and again options are an important category here.  
+Second, exposures can be convex, concave, or linear with respect to $x_{T}$, and this has relevance for an investor or market professional. The implication of linearity is obvious: the sensitivity of the position to movements in $x_{T}$ is constant. The relevance of convexity was discussed in Chapters 9 and 10. With convexity, movements in volatility need to be priced in, and again options are an important category here.  
 
-Finally, it is preferable that the payoff functions $f(x_{T})$ depend only on the underlying risk, $x_{T},$ , and do not move due to extraneous risks. We saw in Chapters 9 and 10 that volatility positions taken with options may not satisfy this requirement. The issue will be discussed in Chapter 15.  
+Finally, it is preferable that the payoff functions $f(x_{T})$ depend only on the underlying risk, $x_{T}$, and do not move due to extraneous risks. We saw in Chapters 9 and 10 that volatility positions taken with options may not satisfy this requirement. The issue will be discussed in Chapter 15.  
 
-# 11.1.1.1 Examples of $\pmb{x_{\mathrm{f}}}$  
+# 11.1.1.1 Examples of $x_t$  
 
-The discussion thus far dealt with an abstract underlying, $x_{t}.$ This underlying can be almost any risk the human mind can think of. The following lists some well-known examples of $x_{t}$ :  
+The discussion thus far dealt with an abstract underlying, $x_{t}.$ This underlying can be almost any risk the human mind can think of. The following lists some well-known examples of $x_{t}$:  
 
-Various [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md): The best examples are LIBOR rates and swap rates. But the commercial paper (CP) rate, the [federal funds rate](../../International%20Finance/Economic%20Stabilization%20Notes/Topics%20in%20Fiscal%20and%20Monetary%20Policies%20and%20Stabilization-%20Empirical%20Issues.md), the index of overnight [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) (an example of which is EONIA, Euro Over Night Index Average), and many others are also used as reference rates. Exchange rates, especially major exchange rates such as dollar euro, dollar yen, dollar sterling (“cable”), and dollar Swiss franc. Equity indices: Here also the examples are numerous. Besides the well-known US indices such as the Dow, NASDAQ, and the S&P500, there are European indices such as CAC40, DAX, and FTSE100, as well as various Asian indices such as the Nikkei 225 and emerging market indices. [Commodities](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) are also quite amenable to such positions. [Futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) on coffee, soybeans, and energy are other examples for $x_{T}.$ Bond price indices: One example is the EMBI $+$ prepared by [JPMorgan](../Basis%20Trade%20Explainer.md) to track emerging market bonds.  
+Various interest rates: The best examples are LIBOR rates and swap rates. But the commercial paper (CP) rate, the federal funds rate, the index of overnight interest rates (an example of which is EONIA, Euro Over Night Index Average), and many others are also used as reference rates. Exchange rates, especially major exchange rates such as dollar euro, dollar yen, dollar sterling ("cable"), and dollar Swiss franc. Equity indices: Here also the examples are numerous. Besides the well-known US indices such as the Dow, NASDAQ, and the S&P500, there are European indices such as CAC40, DAX, and FTSE100, as well as various Asian indices such as the Nikkei 225 and emerging market indices. Commodities are also quite amenable to such positions. Futures on coffee, soybeans, and energy are other examples for $x_{T}.$ Bond price indices: One example is the EMBI+ prepared by JPMorgan to track emerging market bonds.  
 
 Besides these well-known risks, there are more complicated underlyings that, nevertheless, are central elements in financial market activity:  
 
-1. The underlying to the option positions discussed in this chapter can represent volatility or variance. If we let the percentage volatility of a price, at time $t$ , be denoted by $\sigma_{t},$ then the time $T$ value of the underlying $x_{T}$ may be defined as  
+1. The underlying to the option positions discussed in this chapter can represent volatility or variance. If we let the percentage volatility of a price, at time $t$, be denoted by $\sigma_{t}$, then the time $T$ value of the underlying $x_{T}$ may be defined as  
 $$
 x_{T}=\int_{t}^{T}\sigma_{u}^{2}S_{u}^{2}\mathrm{d}u
 $$  
 
-where $S_{u}$ may be any risk factor. In this case, $x_{T}$ represents the total variance of $S_{u}$ during the interval $[t,T]$ . Volatility is the square root of $x_{T}$ .  
+where $S_{u}$ may be any risk factor. In this case, $x_{T}$ represents the total variance of $S_{u}$ during the interval $[t,T]$. Volatility is the square root of $x_{T}$.  
 
-2. The correlation between two [risk factors](../../Financial%20Instruments/Assignments/PSET%206-%20Financial%20Instruments.md) can be traded in a similar way.  
+2. The correlation between two risk factors can be traded in a similar way.  
 
-3. The underlying, $x_{t}$ , can also represent the default probability associated with a counterparty or instrument. This arises in the case of credit instruments.  
+3. The underlying, $x_{t}$, can also represent the default probability associated with a counterparty or instrument. This arises in the case of credit instruments.  
 
-4. The underlying can represent the probability of an extraordinary event happening. This would create a “Cat” instrument that can be used to buy insurance against various catastrophic events. 5. The underlying, $x_{t}$ , can also be a nonstorable item such as electricity, weather, or bandwidth.  
+4. The underlying can represent the probability of an extraordinary event happening. This would create a "Cat" instrument that can be used to buy insurance against various catastrophic events. 5. The underlying, $x_{t}$, can also be a nonstorable item such as electricity, weather, or bandwidth.  
 
 Readers who are interested in the details of such contracts or markets should consult Hull (2014). In this chapter, we limit our attention to the engineering aspects of option contracts.  
 
 # 11.2 OPTION STRATEGIES  
 
-We divide the engineering of option strategies into two broad categories. First, we consider the classical option-related methods. These will cover strategies used by market makers as well as retail investors. They will themselves be divided into two groups, those that can be labeled directional strategies, and those that relate to views on the volatility of some underlying instrument. The second category involves [exotic](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) options, which we consider as more efficient and sometimes cheaper alternatives to the classical option strategies. The underlying risks can be any of those mentioned in the previous section.  
+We divide the engineering of option strategies into two broad categories. First, we consider the classical option-related methods. These will cover strategies used by market makers as well as retail investors. They will themselves be divided into two groups, those that can be labeled directional strategies, and those that relate to views on the volatility of some underlying instrument. The second category involves exotic options, which we consider as more efficient and sometimes cheaper alternatives to the classical option strategies. The underlying risks can be any of those mentioned in the previous section.  
 
 # 11.2.1 SYNTHETIC LONG AND SHORT POSITIONS  
 
-We begin with strategies that utilize options essentially as directional instruments, starting with the creation of [long and short positions](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Market%20Size%20and%20Participants.md) on an asset. Options can be used to create these positions synthetically.  
+In this section, we show how options can be used in creating synthetic long and short positions. First, we will review the notion of long and short positions and highlight the limited gain aspect of short positions.  
 
-Consider two plain vanilla options written on a [forward price](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) $F_{t}$ of a certain asset. The first is a short put, and the second a long call, with prices $P(t)$ and $C(t)$ , respectively, as shown in Figure 11.3. The options have the same [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) $K$ , and the same expiration time $T.^{4}$ Assume that the [Black Scholes](../../Credit%20Markets/Black-Scholes%20Model.md) conditions hold, and that both options are of European style. Importantly, the [underlying asset](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) does not have any payouts during $[t,T]$ . Also, suppose the appropriate [short rate](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) to discount [future cash flows](../Advanced%20Derivatives%20Pricing%20Methodology.md) is constant at $r$ .  
+Figure 11.3a shows the payoff obtained by a long position. This is the simplest example of a linear exposure. A long position in a cash instrument is one where the decision maker owns the cash instrument (i.e., has paid in full). If the asset is denoted by $S_{t}$, he will gain when the price of $S_{t}$ increases and lose when the price declines. Figure 11.3b shows the payoff diagram for a short position. A short position is opposite to the long position. An investor who is short the asset $S_{t}$ will gain when the price declines and lose when the price increases.4  
 
-Now consider the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
-$$
-\{1\mathrm{Long}K\mathrm{-Call},1\mathrm{Short}K\mathrm{-Put}\}
-$$  
+There is a fundamental asymmetry between the two positions. In a long position, the downside loss is limited by the price paid for the asset—the most the asset value can decline is to zero. However, the upside gain is unlimited. With short positions, the upside gain is limited by the price at which the asset was shorted. The investor collects this price. But the downside loss is in principle unlimited, since the asset price, $S_{t}$, can increase without any theoretical limit. This means that risk management and pricing of short positions may require a significantly different approach from long positions.5  
 
-At expiration, the payoff from this [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) will be the vertical sum of the graphs in Figure 11.3 and is as shown in Figure 11.4. This looks like the payoff function of a [long forward](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Forward%20Rates%20Agreement.md) contract entered into at $K$ . If the options were at-the-money (ATM) at time $t$ , the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) would exactly duplicate the [long forward](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Forward%20Rates%20Agreement.md) position and hence would be an exact synthetic. But there is a close connection between this [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and the [forward contract](../../Clippings/Forward%20Points%20in%20Currency.md), even when the options are not ATM.  
-
-At expiration time $T.$ , the value of the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is  
-$$
-C(T)-P(T)=F_{T}-K
-$$  
-
-![](506f9271cfd19afe788919e81c49da873bbdf50410491162ad9a790bd75aeae1.jpg)  
+![](efb99ff06e8177177ba7b8fc20f0f95f49b7b0b7cf8fe45e8e78b8b0c907b36e.jpg)  
 
 # FIGURE 11.3  
 
-Payoff of a long call and a short put position.  
+Payoffs: long and short positions.
 
-where $F_{T}$ is the time- $T$ value of the [forward price](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md). This equation is valid because at $T,$ only one of the two options can be in-the-money. Either the call option has a value of $F_{T}-K$ while the other is worthless, or the put is in-the-money and the call is worthless, as shown in Figure 11.3.  
+The convention is that in a long position the asset is purchased at time $t_0$ for the price $S_{t_0}$, and then sold at time $T$ with price $S_T$. Since the long position is financed by a loan paying the rate $r$ during the period $T-t_0$, the total profit will be  
 
-Subtract the time- ${\bf\nabla}\cdot{\bf\nabla}t$ [forward price](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md), $F_{t}$ , from both sides of this equation to obtain  
 $$
-C(T)-P(T)+(K-F_{t})=F_{T}-F_{t}
+\text{Profit} = S_T - S_{t_0}(1+r)^{T-t_0}
 $$  
 
-This expression says that the sum of the payoffs of the long call and the short put plus $(K-F_{t})$ units of cash should equal the time- $T$ gain or loss on a [forward contract](../../Clippings/Forward%20Points%20in%20Currency.md) entered into at $F_{t},$ at time $t$ . Take the expectation of Eq. (11.4). Then the time- ${\mathbf{\nabla}}\cdot t$ value of the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md),  
+In case of the short position, the situation will be reversed. At time $t_0$, the asset $S_{t_0}$ is sold without owning it. This is done by borrowing the security and then selling it. The security has to be returned to the real owner at time $T$, and this is done by buying it at the price $S_T$.6 The total profit of the short position is  
+
 $$
-\{1\mathrm{Long}K\mathrm{-Call},1\mathrm{Short}K\mathrm{-Put},e^{-r(T-t)}(K-F_{t})\mathrm{Dollars}\}
+\text{Profit} = S_{t_0}(1+r)^{T-t_0} - S_T
 $$  
 
-![](c4d824ed94ebe4a752f2b1c97cf026fce4b8b3f03c79d471102711946215bf9b.jpg)  
+since the original sale price is invested at the rate $r$ during the period $\Delta = T - t_0$. Clearly, short positions are somewhat more complicated and may involve additional technicalities that we have not included in the preceding formula.7 Short selling is occasionally more difficult than this simple characterization suggests, because the party from which the instrument is borrowed often retains the right to call back the instrument within short notice.  
+
+Put-call parity indicates that:  
+
+$$
+S_T - K = (C_T - P_T)
+$$  
+
+where $S_T$ is, say, the spot exchange rate at the expiration time $T$ and where $K$ denotes the strike price of options that will expire at time $T$. This suggests a synthetic for long and short positions. In particular, Figure 11.4 shows the payoff of the portfolio (if $K = 0$):  
+
+$$
+\{C_t^1 - P_t^1\}
+$$  
+
+which is a portfolio where one is long the European call and short the European put. The figure clearly has the same payoff as the traditional long position shown in Figure 11.3a. After all, as shown in Chapter 9, the put-call parity indicates that: if $K = 0$,  
+
+$$
+S_T = (C_T^1 - P_T^1)
+$$  
+
+This will synthetically replicate the long position. In terms of time-$t$ price,  
+
+$$
+S_t = C_t - P_t + K e^{-r(T-t)}
+$$  
+
+Thus, the portfolio  
+
+$$
+\{C_t^K - P_t^K + K e^{-r(T-t)}\}
+$$  
+
+is a synthetic long position in the asset $S_t$ even if the strike $K \neq 0$. These operations are shown in Figure 11.5.  
+
+![](49a87ab1a2c44cc6d88a5c6b2b2a93c3af6b2c3ba1b7c97c936c4a614df3c37f.jpg)  
 
 # FIGURE 11.4  
 
-Joint payoff of a long call and short put.  
+Synthetic long position.
 
-should be zero at $t$ , since credit risks and the cash flows generated by the forward and the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) are the same. This implies that  
-$$
-C(t)-P(t)=e^{-r(T-t)}(F_{t}-K)
-$$  
-
-This relationship is called [put-call parity](../7.%20Black%20Scholes%20Model.md). It holds for European options. It can be expressed in terms of the spot price, $S_{t},$ as well. Assuming zero [storage costs](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Primary%20vs.%20Secondary%20Commodities.md), and no convenience yield:5  
-$$
-F_{t}=e^{r(T-t)}S_{t}
-$$  
-
-Substituting in the preceding equation gives  
-$$
-C(t)-P(t)=(S_{t}-e^{-r(T-t)}K)
-$$  
-
-[Put-call parity](../7.%20Black%20Scholes%20Model.md) can thus be regarded as another result of the application of contractual equations, where options and cash are used to create a synthetic for the $S_{t}$ . This situation is shown in Figure 11.5.  
-
-# 11.2.1.1 An application  
-
-Option market makers routinely use the [put-call parity](../7.%20Black%20Scholes%20Model.md) in exploiting windows of [arbitrage opportunities](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md). Using options, market makers construct synthetic [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) positions and then trade them  
-
-![](f61c7d6ab4476e27deeb8b5f816e8b69b6f0aec4d1eff8fbc72a524e79d0a05a.jpg)  
+![](2b3c8e955e8b0b0a1e3b2b0e4f2d5c0e1e79c1a9e8e5e8e5e72b7b5e5a1e3e5e.jpg)  
 
 # FIGURE 11.5  
 
-[Put-call parity](../7.%20Black%20Scholes%20Model.md) illustration and payoff of a synthetic stock position.  
+Creating a synthetic long with K ≠ 0.
 
-against [futures contracts](../Mathematics%20of%20the%20Financial%20Markets.md). This way, small and temporary differences between the synthetic and the true contract are converted into “riskless” profits. In this section, we discuss an example.  
+Similarly, we may ask how to synthetically take a short position without really having to borrow the underlying instrument and then sell it. Using options, we can short the underlying by  
 
-Suppose, without any loss of generality, that a stock is trading at  
 $$
-S_{t}=100
+\{P_t^K - C_t^K - K e^{-r(T-t)}\}
 $$  
 
-and that the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) can buy and sell ATM options that expire in 30 days. Suppose also that the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) faces a funding cost of $5\%$ . The stock never pays dividends and there are no corporate actions.  
+i.e., buy a put, sell a call, and short the risk-free bond.  
 
-Also, and this is the real-life part, the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) faces a transaction cost of 20 cents per traded option and a transaction cost of 5 cents per traded stock. Finally, the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) has calculated that to be able to continue operating, he or she needs a margin of 0.25 cent per position. Then, we can apply [put-call parity](../7.%20Black%20Scholes%20Model.md) and follow the conversion strategy displayed in Figure 11.6.  
+# 11.2.1.1 An application  
 
-Borrow necessary funds overnight for 30 days, and buy the stock at price $S_{t}$ . At the same time, sell the $S_{t}$ -call and buy the $S_{t}$ -put that expires in 30 days, to obtain the position shown in Figure 11.6.  
+Synthetic short and long positions are strategies frequently used by market professionals.  
 
-The position is fully hedged, as any potential gains due to movement in $S_{t}$ will cover the potential losses. This means that the only factors that matter are the transaction costs and any price differentials that may exist between the call and the put. The [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) will monitor the difference between the put and call premiums and take the [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) position shown in Figure 11.6 if this difference is bigger than the total cost of the conversion.  
+## EXAMPLE  
 
-![](cf62839c2bebfa0fdd0033be553a87272ef1d2c2ab09ec5291c4bca03b9184d7.jpg)  
+A corporation needs to buy 10 million British pounds to make payments on a U.K.-based project. The deadline is three months, hence the firm needs to have UK pounds in three months. The firm can hedge FX exposure by trading the spot cable. Alternatively, the firm can buy 10 million pounds forward against USD. But this may leave a foreign exchange risk mismatch at the corporate level. Instead, the corporation decides to buy three-month calls on sterling with a strike of 1.50.  
 
-Adding together...If prices are different enough" then there will be [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity.  
+At the same time, it sells puts at the same strike to offset the 4% premium paid on the calls. The net position is zero cost, since the put and call premiums are the same. Yet, the position is equivalent to a long position in sterling. The example shows that the synthetic replication of elementary long and short positions using options may be a preferable trade, if there are mismatch risks or if the practitioner needs the leverage. For example, in the application just discussed, GBP forwards may be a better hedge instrument, given the lower liquidity of options. Options may have larger bid-ask spreads in addition.  
 
-![](2fd870ffa25ebd2f617a9e69550088b95543d5653694d0a8d8488c3088e518ee.jpg)  
+The existence of the strike price $K$ in option contracts provides an additional benefit. The long (short) position will have the same payoff as the standard long (short) position for movements of $S_T$ beyond $K$, but the domain of negative payoffs will be different. In this sense, the strike becomes another parameter that the market professional can adjust to meet the client's needs. This is shown in the next example.  
+
+## EXAMPLE  
+
+A corporation would like to sell USD against JPY. The corporation is expecting funds in dollars and needs to eventually pay yen. The spot rate is 110. The corporation can either (i) wait and sell the dollars in the market once these are received, or (ii) the corporation can sell forward dollars, or (iii) the corporation can buy an at-the-money (ATM) put on USD. ATM puts or calls are those whose strikes equal the current value of the underlying.  
+
+Alternatively, the corporation buys the ATM yen calls and sells ATM yen puts. The company has thus created a synthetic short position in the dollar.  
+
+The issue is that the position costs zero, since the ATM put and call will be approximately the same. The company can do better by buying 110 calls and selling puts with strike 105. This way, the company would sell dollars at least at the range of 105 to 110.  
+
+The strategy is somewhat risky, if the realized value of $S_T$ turns out to be less than the lower strike. The payoff diagram in Figure 11.6 shows that if spot USD/JPY goes below 105, unlike the case of a regular short position, the payoff would change direction and the position would lose proportionally.  
+
+![](93a5cc6e6e5e5c0e1a1a2b3c4d4e5f5g6h6i7j7k7l7m7n7o7p7q7r7s7t7u7v7.jpg)  
 
 # FIGURE 11.6  
 
-[Put-call parity](../7.%20Black%20Scholes%20Model.md) application and conversion strategy.  
+Short position with different strikes.
 
-# EXAMPLE  
+This was a risk reversal. This position was taken because the company expects the dollar to depreciate somewhat, but still remain above 105. The company is willing to accept the risk that, if the dollar would go below 105, the short dollar payoff reverses and loses money in a long position in dollars.  
 
-Suppose $S_{t}=100$ , and 90-day [call and put](../../Course%20Notes/HBR%20Notes/Notes%20on%20Basic%20Options%20Properties.md) options trade actively. The interest cost is $5\%$ . A [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) has determined that the [call premium](../Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md), $C(t)$ , exceeds the [put premium](../Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md), $P(t)$ , by $\$2.10$ :  
-$$
-C(t)-P(t)=2.10
-$$  
+The use of options to get synthetic spot, forward, or futures exposures is common for several reasons:  
 
-The stock will be purchased using borrowed funds for 90 days, and the ATM put is purchased and held until expiration, while the ATM call is sold. This implies a funding cost of  
-$$
-100(0.05){\binom{90}{360}}=\$1.25
-$$  
-
-Add all the costs of the conversion strategy:  
-
-# Cost per Security \$  
-
-<html><body><table><tr><td>Funding cost 1.25</td><td></td></tr><tr><td>Stock purchase 0.05</td><td></td></tr><tr><td>Put purchase 0.20</td><td></td></tr><tr><td>Call sale 0.20</td><td></td></tr><tr><td>Operating costs 0.25</td><td></td></tr><tr><td>Total cost 1.95</td><td></td></tr></table></body></html>  
-
-The [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) incurs a total cost of $\$1.95$ . It turns out that under these conditions, the net cash position will be positive:  
-$$
-\mathrm{Net\profit}=2.10-1.95
-$$  
-
-and the position is worth taking.  
-
-If, in the example just discussed, the put-[call premium](../Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md) difference is negative, then the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) can take the opposite position, which would be called a reversal.6  
+• The option strategy helps to get leveraged positions while at the same time limiting the downside risk.  
+• The method may cost less in terms of transaction costs, bid-ask spreads, and commissions.  
+• The strategy may be better when there are risks on other dimensions at the corporate or portfolio level.  
+• The strategy permits the market professional to offer products that directly meet client's needs by adjusting the strike level(s).  
 
 # 11.2.1.2 Arbitrage opportunity?  
 
-An outside observer may be surprised to hear that such “[arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)” opportunities exist, and that they are closely monitored by market makers on the trading floor. Yet, such opportunities are available only to market makers on the “floor” and may not even constitute [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) in the usual sense.  
+The put-call parity discussed in Chapter 9 suggests that:  
 
-This is because of the following: (i) Off-floor investors pay much higher transaction costs than the on-floor market makers. Total costs of taking such a position may be prohibitive for off-floor investors. (ii) Off-floor investors cannot really make a simultaneous decision to buy (sell) the underlying, and buy or sell the implied puts or calls to construct the strategy. By the time these strategies are communicated to the floor, prices could move. (iii) Even if such opportunities are found, net gains are often too small to make it worthwhile to take such positions sporadically. It is, however, worthwhile to a [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) who specializes in these activities. (iv) Finally, there is also a serious risk associated with these positions, known as the pin risk. Pin risk refers to the situation when the market price of the underlying of an option contract at the time of the contract’s expiration is close to the option’s [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md). Traders pay attention to whether an underlying such as a stock, for example, may be close to pinning, since a small movement of the price of the underlying through the strike can have a large impact on a trader’s net position in the underlying on the trading day after expiration.  
+$$
+S_t - C_t^K + P_t^K = K e^{-r(T-t)}
+$$  
+
+where, as usual, $C_t^K$ and $P_t^K$ are European vanilla call and the put prices respectively. This relationship is "theoretical" and may not hold exactly in the real world. In fact, some practitioners may trade deviations from the put-call parity.  
+
+## EXAMPLE  
+
+On Chicago Board of Options Exchange (CBOE) S&P100 June expiration call and put options are trading with strike $K=370$. The actual S&P100 index is at $S_t = 370.65$. The puts are trading at $P_t^K = 5\frac{5}{8}$. Calls are at $C_t^K = 8$.  
+
+The trader checks the put-call parity equation to see whether there is an arbitrage opportunity in holding positions for 20 days until expiration.  
+
+According to the put-call parity, the following relationship should hold:  
+
+$$
+S_t - C_t^K + P_t^K = K e^{-r(T-t)}
+$$  
+
+With $r = 0.05$, the annual risk-free rate, and expiration $T - t = 20/365$, the relationship gives  
+
+$$
+370.65 - 8 + 5.625 = 370 e^{-r(T-t)}
+$$  
+
+The trader checks whether this relationship holds. After plugging in the numbers,  
+
+$$
+368.27 \ne 370 e^{-0.05\times20/365} = 368.992
+$$  
+
+If the two sides are not exactly the same, but they are close.9 If we include the bid-ask spread and commissions, the potential arbitrage gains due to violation of put-call parity may disappear completely.10 In fact, if options in the real world are American options, the relationship will change, and we need to incorporate the early exercise premiums.  
 
 # 11.2.2 A REMARK ON THE PIN RISK  
 
-It is worthwhile to discuss the pin risk in more detail, since similar risks arise in [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) and trading some [exotic](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) options as well. Suppose we put together a conversion at 100, and waited 90 days until expiration to unwind the position. The positions will expire some 90 days later during a Friday. Suppose at expiration $S_{t}$ is exactly 100. This means that the stock closes exactly at the [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md). This leads to a dilemma for the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md).  
-
-The [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) owns a stock. If he or she does not exercise the long put and if the short call is not assigned (i.e., if he or she does not get to sell at $K$ exactly), then the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) will have an open [long position](../Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%204%20-%20Futures:%20Hedging%20and%20Speculation.md) in the stock during the weekend. Prices may move by Monday and he or she may experience significant losses.  
-
-If, on the other hand, the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) does exercise the long put (i.e., he or she sells the stock at $\boldsymbol{K}$ and if the call is assigned (i.e., he or she needs to deliver a stock at $K_{\cdot}$ ), then the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) will have a short stock position during the weekend. These risks may not be great for an end investor who takes such positions occasionally, but they may be substantial for a professional trader who depends on these positions. There is no easy way out of this dilemma. This type of risk is known as the pin risk.  
-
-The main cause of the pin risk is the kink in the expiration payoff at $S_{T}=K.$ . A kink indicates a sudden change in the slope—for a long call, from zero to one or vice versa. This means that even with small movements in $S_{t},$ the [hedge ratio](../Derivatives/Part%20VI%20-%20The%20Greeks/Chapter%2027%20-%20Delta%20Hedging.md) can be either zero or one, and the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) may be caught significantly off guard. If the slope of the payoff diagram changed smoothly, then the required hedge would also change smoothly. Thus, a risk similar to pin risk may arise whenever the delta of the instrument shows discrete jumps.  
+One difference between the synthetic spot position and the actual spot position is the associated "pin risk". Suppose at expiration, the underlying asset ends up exactly at the strike level $K$, then neither the put nor the call will be in the money. This is actually a major risk if options are used for hedging. The hedger assumes he has a spot long or short position, but the position "disappears" at expiration. The underlying asset is said to have been "pinned" at the strike. In such cases, the hedge breaks down and the company needs to buy the required underlying in the open market at possibly unfavorable prices with short notice.  
 
 # 11.2.3 RISK REVERSALS  
 
-A more advanced version of the synthetic long and short [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) positions is known as risk reversals. These are liquid synthetics especially in the foreign exchange markets, where they are traded as a commodity. Risk reversals are directional positions but differ in more than one way from synthetic long short [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) positions discussed in the previous section.  
+In foreign exchange markets, an important option strategy is known as risk reversal. Risk reversals can be used to create synthetic futures positions and for hedging volatility exposure.  
 
-The idea is again to buy and sell calls and puts in order to replicate long and short [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) positions—but this time using options with different strike prices. Figure 11.7 shows an example. The underlying is $S_{t}$ . The strategy involves a short put struck at $K_{1}$ , and a long call with strike $K_{2}$ . Both options are out-of-the-money initially, and the $S_{t}$ satisfies  
-$$
-K_{1}<S_{t}<K_{2}
-$$  
+We begin with simple risk reversals. A foreign currency investor may have a long position in a foreign currency, or may be expecting a cash flow in the foreign currency at time $T$. These are shown in Figures 11.7a and 11.7b, respectively.  
 
-![](b76febf566e9d95d6547032cb33b35a25264202206931cd10741253305e914b5.jpg)  
+![](41e2e3e4e5e6e7e8e9f0f1f2f3f4f5f6f7f8f9g0g1g2g3g4g5g6g7g8g9h0h1h2.jpg)  
 
 # FIGURE 11.7  
 
-Payoff of a long call, short put, and a [risk reversal](../Derivatives/Part%20VII%20-%20Advanced%20Options/Chapter%2030%20-%20Other%20Options.md) position.  
+Long position in a currency.
 
-Since strikes can be chosen such that the put and call have the same premium, the [risk reversal](../Derivatives/Part%20VII%20-%20Advanced%20Options/Chapter%2030%20-%20Other%20Options.md) can be constructed so as to have zero initial price.  
+The investor may sell a put and use the proceeds to buy a call to set up a hedge for the long position. It is possible that the call premium is more expensive than the put premium. The hedge may result in a net cost.  
 
-By adding vertically the option payoffs in the top portion of Figure 11.7, we obtain the expiration payoff shown at the bottom of the figure. If, at expiration, $S_{T}$ is between $K_{1}$ and $K_{2}$ , the strategy has zero payoff. If, at expiration, $S_{T}{<}K_{1}$ , the [risk reversal](../Derivatives/Part%20VII%20-%20Advanced%20Options/Chapter%2030%20-%20Other%20Options.md) loses money, but under $K_{2}<S_{T}$ , it  
+A similar risk reversal is shown in Figure 11.8. This is the case of a strong dollar and the underlying risk is a long dollar position. The risk reversal is obtained by selling USD puts (i.e., buying foreign currency puts) and buying USD calls (i.e., buying foreign currency calls). If the 25-delta puts and calls in sterling are worth the same, the position will not cost anything. However, as we will see below, the premium paid for the GBP put may be lower than the GBP call premium. In this case, the risk reversal costs money. It is not a zero-cost transaction. The put and call premiums are not equal.  
 
-makes money. Clearly, what we have here is similar to a [long position](../Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%204%20-%20Futures:%20Hedging%20and%20Speculation.md) but the position is neutral for small movements in the underlying starting from $S_{t}$ . If taken naked, such a position would imply a bullish view on $S_{t}$ .  
-
-We consider an example from foreign exchange (FX) markets where risk reversals are traded as [commodities](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md).  
-
-# EXAMPLE  
-
-Twenty-five delta 1-month risk reversals showed a stronger bias in favor of euro calls (dollar puts) in the last 2 weeks after the euro started to strengthen against the greenback.  
-
-Traders said market makers in EUR calls were buying risk reversals expecting further euro upside. The 1-month [risk reversal](../Derivatives/Part%20VII%20-%20Advanced%20Options/Chapter%2030%20-%20Other%20Options.md) jumped to 0.91 in favor of euro calls Wednesday from 0.3 3 weeks ago. [Implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) spiked across the board. One-month volatility was $13.1\%$ Wednesday from $11.78\%$ 3 weeks ago as the euro appreciated to USD1.0215 from USD1.0181 in the spot market.  
-
-The 25-delta risk reversals mentioned in this reading are shown in Figure 11.8. The [risk reversal](../Derivatives/Part%20VII%20-%20Advanced%20Options/Chapter%2030%20-%20Other%20Options.md) is constructed using two options, a call and a put. Both options are out-of-the-money and have a “current” delta of 0.25. According to the reading, the 25-delta EUR call is more expensive than the 25-delta EUR put.  
-
-# 11.2.3.1 Uses of risk reversals  
-
-Risk reversals can be used as “cheap” [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) instruments. Here is an example.  
-
-# EXAMPLE  
-
-A travel company in Paris last week entered a zero-cost [risk reversal](../Derivatives/Part%20VII%20-%20Advanced%20Options/Chapter%2030%20-%20Other%20Options.md) to hedge US dollar exposure to the USD. The company needs to buy dollars to pay suppliers in the United States, China, Indonesia, and South America.  
-
-The head of treasury said it bought dollar calls and sold dollar puts in the transaction to hedge $30\%$ of its USD200 300 million dollar exposure versus the USD. The Americanstyle options can be exercised between November and May.  
-
-The company entered a [risk reversal](../Derivatives/Part%20VII%20-%20Advanced%20Options/Chapter%2030%20-%20Other%20Options.md) rather than buying a dollar call outright because it was cheaper. The head of treasury said the rest of its exposure is hedged using different strategies, such as buying options outright. (Based on an article in [Derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) Week (now part of GlobalCapital).)  
-
-Here we have a corporation that has EUR receivables from tourists going abroad but needs to make payments to foreigners in dollars. Euros are received at time $t$ , and dollars will be paid at some future date $T,$ with $t<T$ . The [risk reversal](../Derivatives/Part%20VII%20-%20Advanced%20Options/Chapter%2030%20-%20Other%20Options.md) is put together as a zero-cost structure, which means that the premium collected from selling the put (on the USD) is equal to the [call premium](../Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md) on the USD. For small movements in the exchange rate, the position is neutral, but for large movements it represents a hedge similar to a [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract.  
-
-![](fc7f14f57cc136a376431000bdcacb63dadf033a946a2bf92e28b3dbe5cd47e7.jpg)  
+![](84e5e6e7e8e9f0f1f2f3f4f5f6f7f8f9g0g1g2g3g4g5g6g7g8g9h0h1h2h3h4h5.jpg)  
 
 # FIGURE 11.8  
 
-Payoff of a long put, short call a [risk reversal](../Derivatives/Part%20VII%20-%20Advanced%20Options/Chapter%2030%20-%20Other%20Options.md) position.  
+Risk reversal.
 
-Of course, such a position could also be taken in the [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) market. But one important advantage of the [risk reversal](../Derivatives/Part%20VII%20-%20Advanced%20Options/Chapter%2030%20-%20Other%20Options.md) is that it is “composed” of options, and hence involves, in general, no daily mark-to-market adjustments.  
+It should be clear that:  
+
+• If the differences between prices of ATM calls and puts (i.e., $C_t^K - P_t^K$) is an indication of the expected direction of the spot exchange rate (i.e., the drift $\mu$ of the process), then the prices of 25-delta calls and puts indicate the expected movement in the spot rate. This is called the market sentiment.  
+• In markets, if the cost of calls and puts are significantly different, the volatility of calls and puts will be different as well. Normally this is expressed as a volatility smile implying different implied volatilities for options with different moneyness. Risk reversals are therefore considered to be a way to trade the volatility skew.  
+
+Risk reversals therefore offer a way to hedge expected receipts of foreign currency, while profiting from any extreme movements in the underlying.  
+
+# 11.2.3.1 Uses of risk reversals  
+
+Risk reversals are not only hedging instruments, but are also considered to be "arbitrage" strategies. We briefly discuss these two uses. A risk reversal for a long position is a strip of long calls and short puts. Such a position gains if the underlying rallies. The risk reversal for short positions is the reverse and gains if the underlying drops.  
+
+## EXAMPLE  
+
+A portfolio manager is expecting to receive a big allocation in a non-dollar-denominated fund. The foreign currency is currently at $S_t = 0.9860$ and the portfolio manager is long this foreign currency. Due to expected uncertainties around a referendum in the Euro zone, the portfolio manager secures some downside protection but does not want to pay a lot of premium for this protection and, as a result, sells some calls. In order to limit any gains in the foreign currency:  
+
+• Buy 0.94 puts and sell 1.04 calls (three-month expiry)  
+
+According to this, the portfolio manager retains a 5% gain should the foreign currency rally, and he/she does not lose anything for a 5% move below the current levels. On the other hand, should the foreign currency go below 0.94, the portfolio manager does not lose any more, but what is lost in the foreign currency value is made up by the gains on the option. The cost would be 0.5% of the notional amount as the puts are about 0.35% more expensive than the calls.  
+
+Next, we see the use of a risk reversal as a volatility arbitrage, where the trader takes a position on the skew.  
+
+## EXAMPLE  
+
+Sell 0.95 put, buy 1.05 call for zero cost  
+• Max profit: unlimited  
+• Max loss: USD $1 - 0.95$ (assuming a base currency of 1)  
+• Breakeven: $S_T = 0.95$  
+
+If the risk reversal can be done for zero cost, the portfolio manager has obtained a volatility arbitrage. Implied volatility for the call is less than the put. If they equalize, then the trade makes money. This suggests that the trader expects the volatility skew to change. Of course, using risk reversals as a way to position on changes in the volatility smile involves significant risks. The trader is not trading volatility alone, but by having a view on the skew, this is a highly leveraged position on the underlying.  
 
 # 11.2.4 YIELD ENHANCEMENT STRATEGIES  
 
-The class of option strategies that we have studied thus far is intended for creating synthetic short and long [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) positions. In this section, we consider option synthetics that are said to lead to yield enhancement for [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) portfolios.  
-
-![](15c822a9d3da99f73b7c280e0fb6b5f1cefb5ddc27228d7311d92784a5316085.jpg)  
-
-# FIGURE 11.9  
-
-Payoff of call overwriting strategy components.  
+Not all uses of options are for hedging the underlying exposures. At times, investors may use options to collect premiums. By selling insurance against possible adverse movements in asset prices, the investor immediately collects premiums. We consider two useful examples.  
 
 # 11.2.4.1 Call overwriting  
 
-The simplest case is the following. At time $t$ , an investor takes a [long position](../Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%204%20-%20Futures:%20Hedging%20and%20Speculation.md) in a stock with current price $S_{t}.$ , as shown in Figure 11.9. If the [stock price](../Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) increases, the investor gains; if the price declines, he or she loses. The investor has, however, a subjective [expected return](../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md), $\bar{R}_{t}$ , for an interval of time $\Delta$ , that can be expressed as  
-$$
-\hat{R}_{t}=E_{t}^{\hat{P}}\left[\frac{S_{t+\Delta}-S_{t}}{S_{t}}\right]
-$$  
+Consider Figure 11.9. Suppose the investor owns an underlying asset, say a stock whose current price is $S_t$. This represents a long position. The investor decides to sell out-of-the-money calls on this stock with a strike $K_1$ in order to collect some premium. The sale (short) on the option will either expire out-of-the-money [OTM], in which case the original position is maintained and the investor has collected the option premium as an extra gain. Or, the option may be in-the-money (ITM), in which case the call is exercised and the investor delivers the stock at a price of $K_1$ to the option holder and collects $K_1$ plus any premium.  
 
-where $\hat{P}$ is a subjective conditional probability distribution for the random variable $S_{\mathrm{t+}\Delta}$ . According to the formula, the investor is expecting a gain of $\hat{R_{t}}$ during period $\Delta$ . The question is whether we can provide a yield-enhancing alternative to this investor. The answer depends on what we mean by “yield enhancement.”  
+![](91e2e3e4e5e6e7e8e9f0f1f2f3f4f5f6f7f8f9g0g1g2g3g4g5g6g7g8g9h0h1h2.jpg)  
 
-![](66e3101694f82acc3f219531a406993861fef34c2b0facd52b662692eac52b16.jpg)  
+# FIGURE 11.9  
 
-# FIGURE 11.10  
+Call overwriting.
 
-Payoff of call overwriting strategy.  
+This is shown on the payoff diagram. The original payoff with slope +1 reaches a ceiling at $K_1$. The payoff then becomes flat. For strike prices $S_T < K_1$, the payoff equals that of the original long position, plus the premium collected. If the stock price exceeds $K_1$, the investor does not benefit from the stock's appreciation. On the other hand, as can be seen from the payoff diagram, this investor is still holding the original long position, so when the stock moves below $S_t$, any loss is shared by the investor one for one. Of course, the premium collected partially compensates these losses. Call overwriting, in other words, does not hedge the downside risk, but limits the upside gain by collecting some limited premium.  
 
-Suppose we ask the investor the following question: “What is the maximum gain you would like to make on this stock position?” and the investor indicates $S^{\mathrm{max}}$ as the price he or she is willing to sell the stock and realize the “maximum” desired gain:  
-$$
-(S^{\mathrm{max}}-S_{t})
-$$  
+## Put selling  
 
-Next, consider a call option $C(t)^{\mathrm{max}}$ that has the strike  
-$$
-K=S^{\mathrm{max}}
-$$  
+Selling puts can also be used for yield enhancement. For example, a portfolio manager with USD cash on hand to invest over the long term might sell ITM EUR puts, giving the buyer the right to sell EUR at a pre-agreed price. If the EUR trades higher than the put strike, the put expires worthless with no exercise and the portfolio manager would have increased returns by collecting the premium. If the puts were exercised, the portfolio manager has to buy the EUR at the pre-agreed price. If the put option is in the money, the manager's view is that the EUR is good long-term value against USD at the strike level, so he or she would be happy to own it.  
 
-and that expires at $T=t+\Delta$ . This option sells for $C(t)^{\mathrm{max}}$ at time $t$ . We can then recommend the following [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) to this investor:  
-$$
-\mathrm{Yield\enhanced\portfolio}=\{\mathrm{Long}S_{t},\mathrm{Short}C(t)^{\mathrm{max}}\}
-$$  
+## Collars  
 
-Assuming zero [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md), at time $T=t+\Delta$ , this [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) has the following value, $V_{t+\Delta}$ :  
-$$
-V_{t+\Delta}={\left\{\begin{array}{l l}{C(t)^{\operatorname*{max}}+S_{t+\Delta}}&{{\mathrm{Option~not~exercised}}}\\ {C(t)^{\operatorname*{max}}+S_{t+\Delta}(S_{t+\Delta}-S^{\operatorname*{max}})=C(t)^{\operatorname*{max}}+S^{\operatorname*{max}}}&{{\mathrm{Option~exercised}}}\end{array}\right.}
-$$  
-
-According to this, if at expiration, the price stays below the level $S^{\mathrm{max}}$ , the investor “makes” an extra $C(t)^{\mathrm{max}}$ dollars. If $S_{t+\Delta}$ exceeds the $S^{\mathrm{max}}$ , the option will be exercised, and the gains will be truncated at $S^{\mathrm{max}}+C(t)^{\mathrm{max}}$ . But, this amount is higher than the price at which this investor was willing to sell the stock according to his or her subjective preferences. As a result, the option position has enhanced the “yield” of the original [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). However, it is important to realize that what is being enhanced is not the objective risk-return characteristics, but instead, the subjective expected [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) of the investor.  
-
-Figure 11.9 shows the situation graphically. The top portion is the [long position](../Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%204%20-%20Futures:%20Hedging%20and%20Speculation.md) in the stock. The bottom profile is the payoff of the short call, written at strike $S^{\mathrm{max}}$ . If $S_{t+\Delta}$ exceeds this strike, the option will be in-the-money and the investor will have to surrender his or her stock, worth $S_{t+\Delta}$ dollars, at a price of $S^{\mathrm{max}}$ dollars. But, the investor was willing to sell at $S^{\mathrm{max}}$ anyway. The sum of the two positions is illustrated in the final payoff diagram in Figure 11.10.  
-
-This strategy is called call overwriting and is frequently used by some investors. The following reading illustrates one example. Fund managers who face a stagnant market use call overwriting to enhance yields.  
-
-# EXAMPLE  
-
-Fund manager motivation for putting on options strategies ahead of the Russell indices annual rebalance   
-next month is shifting, say some options strategists. “The market has had no direction since May last year,” said a head of equity [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) strategy in   
-New York. Small cap stocks have only moved up slightly during the year, he added. Fund managers are proving increasingly willing to test call overwriting strategies for the rebalance as   
-they seek absolute [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md), with greater competition from [hedge funds](../Basis%20Trade%20Explainer.md) pushing traditional fund managers in   
-this direction, [a] head of equity [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) strategy said. Employing call overwriting strategies—even   
-though they suppress volatility levels—looks attractive, because the worst outcome is that they outperform   
-the stock on the downside. As such, it can help managers enhance their [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md).  
-
-(Thomson Reuters IFR, Issue 1433, May 11, 2002)  
-
-The situation described in this reading is slightly more complicated and would not lend itself to the simple call overwriting position discussed earlier. The reading illustrates the periodic and routine rebalancing that needs to be performed by fund managers. Many funds “track” well-known indices. But, these indices are periodically revised. New names enter, others leave, at known dates. A fund manager who is trying to track a particular index, has to rebalance his or her [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) as indices are revised.  
+Another yield enhancement strategy is to buy a cap and sell a floor simultaneously or vice-versa. For instance, an investor buys an interest rate cap that limits the interest rate paid to, say, 5.5%. The investor then sells a floor, thereby obtaining an option premium to compensate for the cost of the cap. If the floor is set at, say, 2.25%, the investor will not benefit from falls in the interest rate below 2.25%.  
 
 # 11.3 VOLATILITY-BASED STRATEGIES  
 
-The first set of strategies dealt with directional uses of options. Option portfolios combined with the underlying were used to take a view on the direction of the underlying risk. Now we start looking at the use of options from the point of view of volatility positioning. The strategy used in putting together volatility positions in this section is the following: First, we develop a static position that eliminates exposure to market direction. This can be done using straddles and their cheaper version, strangles. Second, we combine strangle and straddle portfolios to get more complicated volatility positions, and to reduce costs.  
+So far in this chapter we looked at traditional directional uses of options. The investor either took a view on market direction, or hedged the risk of markets moving into unwanted thresholds. Yet, one can use options to take positions on the volatility of the underlying. We remind the reader that in the case of the Black-Scholes formula, volatility was the only unknown variable that went into the pricing of the option. Obviously, the option's fair value is closely associated with the volatility (see Figure 11.10). That is, if the volatility of the underlying changes, the option's fair value will change. In this section, we look at ways of taking a position on anticipated volatility movements. We see how we can structure such positions so that our option portfolio is unlikely to lose value from movements in the underlying. The typical case is that the investor expects volatility to be significantly different from that which the market is currently expecting. This difference could be directional, i.e., rising or falling. The investor structures a trade using puts and calls with strikes and amounts such that the change in the option portfolio is not adversely affected by the change in the underlying.  
 
-Thus, the basic building blocks of volatility positions considered in this section are [straddles and strangles](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Composite%20Payoffs%20at%20Expiry.md). The following example indicates how an option position is used to take a view on volatility, rather than the price of the underlying.  
+![](a2e3e4e5e6e7e8e9f0f1f2f3f4f5f6f7f8f9g0g1g2g3g4g5g6g7g8g9h0h1h2h3.jpg)  
 
-# EXAMPLE  
+# FIGURE 11.10  
 
-An Italian bank recommended the following position to a client. We will analyze what this means for the client’s [expectations](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) [views] on the markets. First we read the episode.  
+Option value versus volatility.
 
-A bank last week sold $4\%$ out-of-the-money puts and calls on ABC stock, to generate a premium on behalf of an institutional investor. The strangle had a tenor of six weeks. . .. The strategy generated $2.5\%$ of the equity’s spot level in premium.  
+The final outcome of the trade depends on the behavior of volatility. If the investor's expectation of volatility comes true, the trade makes money. The option portfolio will react to changes in volatility and benefit from it, while being "protected" from movements in the underlying.  
 
-At the time of the trade, the stock traded at roughly USD1874.6. Volatilities were at $22\%$ when the options were sold. ABC was the underlying, because the investor does not believe the stock will move much over the coming weeks and thus is unlikely to break the range and trigger the options.  
+To see what would happen to an option if the underlying moved, we simply take the derivative
 
-(Based on an article in [Derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) Week (now part of GlobalCapital))  
-
-![](7f5b568bdbbe0530578aaea5348806b94bef5337a8a776df88d48eebabd7f97d.jpg)  
-
-# FIGURE 11.11  
-
-Payoff of a strangle position related to ABC stock.  
-
-Figure 11.11 shows the payoff diagram of these option positions at expiration. Adding the premiums received at the initial point we get the second diagram in the bottom part of the figure. This should not be confused with the anticipated payoff of the client. Note that the eventual objective of the client is to benefit from volatility realizations. The option position is only a vehicle for doing this.  
-
-We can discuss this in more detail. The second part of Figure 11.11 shows that at expiration, the down and up breakeven points for the position are 1762 and 1987, respectively. These are obtained by subtracting and adding the $\$37.5$ received from the strangle position, to the respective strike prices.  
-
-But the reading also gives the [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) in the market. From here we can use the square root formula and calculate the [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) for the period under consideration  
 $$
-\sigma S_{t}\cdot\Delta=0.22\sqrt{\frac{6}{52}}1874.6=140.09
+\frac{\partial C}{\partial S} = \Delta = \text{Delta}
 $$  
 
-Note that the breakeven points are set according to $4\%$ movements toward either side, whereas the square root formula gives $7.5\%$ expected movements to either side.  
+We see that if the change in the underlying $dS$ is multiplied by $\Delta$ (delta), then we get the change in the price of the option. Now we can structure portfolios with no sensitivity to movements in the underlying. If we compose a portfolio of options where the net delta equals zero, then the portfolio will be immune to movements in the underlying.  
 
-According to this, the client who takes this position expects the realized volatility to be significantly less than the $7.5\%$ quoted by the market. In fact, the client expects volatility to be somewhat less than $4\%$ .  
+$$
+\Delta = \Delta_{\text{portfolio}} = 0
+$$  
 
-![](546d9b70a91cd1211859a408e250d2bea11c80c008044f3d6e4097f328281ddc.jpg)  
+Such a portfolio is called delta-neutral. Market makers, on the other hand, use options to hedge their exposure to the underlying. If a market maker has an inventory of the underlying, then the delta of this inventory is just 1. It moves one for one with the underlying. If the marker maker now adds an option portfolio to this, such that the delta of the option is equal to minus one, then she has delta-hedged the position. The position is then delta-neutral.  
 
-# FIGURE 11.12  
+Of course, the only immutable law is change itself, and the moment the underlying moves, the delta of a delta-neutral portfolio will change. This is what we labeled gamma and the position would have gamma risk. To have immunity against small movements in the underlying, the delta-adjusted position must have a gamma of zero.  
 
-Typical short strangle’s expiration payoff.  
+$$
+\Gamma = \frac{\partial \Delta}{\partial S} = \text{Gamma} = 0
+$$  
 
-This brings us to a formal discussion of strangles and straddles, which form the main building blocks for classical volatility positions.  
+Yet, there are other sources of risk as well. The option values change when the implied volatility, $\sigma_{imp}$, varies. This is measured by vega.  
+
+$$
+\text{Vega} = \frac{\partial C}{\partial \sigma}
+$$  
+
+Also, there is time decay of the option, measured by its theta. That is the risk that, as time passes, the option premium diminishes, everything else being equal.  
+
+$$
+\text{Theta} = \frac{\partial C}{\partial t}
+$$  
+
+Next, we look at how to structure volatility trades. Since we want to minimize the exposure against market movements, we focus on creating delta- and gamma-neutral portfolios.  
 
 # 11.3.1 STRANGLES  
 
-Assume that we sell (buy) two plain vanilla, European-style options with different strikes on the asset $S_{t}.$ . The first is a put, and has strike $K_{\mathrm{p}}$ ; the second is a call, and has strike $K_{\mathrm{c}}$ , with $K_{\mathrm{p}}{<}K_{\mathrm{c}}$ . Suppose at the time of purchase, we have $K_{\mathrm{p}}<S_{t_{0}}<K_{\mathrm{c}}$ . The [expiration date](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) is $T.$ . This position discussed in the previous example is known as a strangle. Because these options are sold, the seller collects a premium, at time $t$ , of  
+We know from the properties of the calls and puts:  
+
 $$
-C(t)+P(t)
+\delta_{\text{call}} > 0, \quad \delta_{\text{put}} < 0
 $$  
 
-The position makes money if, by expiration, $S_{t}$ has moved by a “moderate” amount, otherwise the position loses money. Clearly, this way of looking at a strangle suggests that the position is static. A typical short strangle’s expiration payoff is shown in Figure 11.12. The same figure indicates the value of the position at time $t$ , when it was initially put in place.  
+Further, we now have  
+
+$$
+\gamma_{\text{call}} = \gamma_{\text{put}} > 0
+$$  
+
+and  
+
+$$
+\text{vega}_{\text{call}} = \text{vega}_{\text{put}} > 0
+$$  
+
+Using these properties and equalities, we can create the required portfolios. Consider the following long strangle:  
+
+• Buy an OTM put with strike $K_1$  
+• Buy an OTM call with strike $K_2$  
+
+where $K_1 < S_t < K_2$. The payoff of this portfolio is as shown in Figure 11.11.  
+
+![](b3e4e5e6e7e8e9f0f1f2f3f4f5f6f7f8f9g0g1g2g3g4g5g6g7g8g9h0h1h2h3h4.jpg)  
+
+# FIGURE 11.11  
+
+Long strangle.
+
+To make this portfolio delta-neutral, we need to adjust the amounts of calls and puts. In fact, we have  
+
+$$
+\delta \times Q_{\text{call}} \times C + \delta \times Q_{\text{put}} \times P = 0
+$$  
+
+where $Q_{\text{call}}$ and $Q_{\text{put}}$ are quantities of calls and puts, respectively. This gives us the hedge ratio for the strangle:  
+
+$$
+h = \frac{Q_{\text{put}}}{Q_{\text{call}}} = -\frac{\delta_{\text{call}}}{\delta_{\text{put}}}
+$$  
+
+To make the portfolio gamma-neutral as well, we would need a third instrument, since we have two constraints with two unknowns. The portfolio would make money if implied volatility increased (goes up). The portfolio would have positive vega. The implied volatility smile and term structure matter significantly for the profitability, practical implementation, and hedging of such strategies.  
 
 # 11.3.1.1 Uses of strangles  
 
-The following is an example of the use of strangles from foreign exchange markets. First there is a switch in terminology: Instead of talking about options that are out-of-the-money by $k\%$ of the strike, the episode uses the terminology “10-delta options.” This is the case because, as mentioned earlier, FX markets like to trade 10-delta, 25-delta options, and these will be more liquid than, say, an arbitrarily selected $k\%$ out-of-the-money option.  
+Investors would use long strangles (straddles) when they expect implied volatility to increase. A market maker, on the other hand, may use the strangle to hedge a net short option position against movements in implied volatility.  
 
-# EXAMPLE  
+## EXAMPLE  
 
-A bank is recommending its clients to sell 1-month 10-delta euro/dollar strangles to take advantage of low holiday volatility. The strategists said the investors should sell $I$ -month strangles with puts struck at USD1.3510 and calls struck at USD1.3610. This will generate a premium of $0.3875\%$ of the notional size. Spot was trading at USD1.3562 when the trade was designed last week. The bank thinks this is a good time to put the trade on because [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) traditionally falls over Christmas and New Years, which means spot is likely to stay in this range.  
+The use of strangles could be seen in the following FX barrier option example. USD/JPY is trading at 117.20, and a client needs protection against a weaker USD (USD/JPY going below 112.00).  
 
-(Based on [Derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) Week (now part of GlobalCapital))  
+• One way to do this is to buy a USD put JPY call  
+• Another is to buy a USD put JPY call knock-out (KO) at 124.00  
 
-This is a straightforward use of strangles. According to the strategist, the premium associated with the FX options implies a volatility that is higher than the expected future realized volatility during the holiday season due to seasonal factors. If so, the euro/dollar exchange rate is likely to be range-bound, and the options used to create the strangle will expire unexercised.7  
+This would be the case where the option dies (is knocked out) if the spot goes above 124.00. Clearly, with such a possibility, the option would be cheaper. The client risks losing the option if the spot moves above 124.00.  
 
-# 11.3.2 STRADDLE  
+Now from the bank's perspective, the knock-out option is a barrier option. The bank has gamma exposure as in Figure 11.12.  
 
-A straddle is similar to a strangle, except that the strike prices, $K_{\mathrm{p}}$ and $K_{\mathrm{c}}$ , of the constituent [call and put](../../Course%20Notes/HBR%20Notes/Notes%20on%20Basic%20Options%20Properties.md) options sold (bought), are identical:  
-$$
-K_{\mathrm{p}}=K_{\mathrm{c}}
-$$  
+![](c4e5e6e7e8e9f0f1f2f3f4f5f6f7f8f9g0g1g2g3g4g5g6g7g8g9h0h1h2h3h4h5.jpg)  
 
-Let the [underlying asset](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) be $S_{t},$ and the expiration time be $T$ . The expiration payoff and time value of a long straddle are shown in Figure 11.13. The basic configuration is similar to a long strangle. One difference is that a straddle will cost more. At the time of purchase, an ATM straddle is more convex than an ATM strangle, and hence has “maximum” gamma.  
+# FIGURE 11.12  
 
-# 11.3.2.1 Static or dynamic position?  
+Gamma of a knock-out option.
 
-It is worthwhile to emphasize that the strangle or straddle positions discussed here are static, in the sense that, once the positions are taken, they are not delta-hedged. However, it is possible to convert them into dynamic strategies. To do this, we would delta-hedge the position dynamically. At initiation, an ATM straddle is automatically market-neutral, and the associated delta is zero. When the price moves up, or down, the delta becomes positive, or negative. Thus, to maintain a marketneutral position, the hedge needs to be adjusted periodically.  
+Note that the bank has negative gamma near the barrier. To hedge this risk dynamically, the bank would have to sell low and buy high! This is clearly problematic.  
 
-Note a major difference between the static and dynamic approaches. Suppose we take a static straddle position, and $S_{t}$ fluctuates by small amounts very frequently and never leaves the region $[S_{1},S_{2}]$ shown in Figure 11.14. Then, the static position will lose money, while the dynamic deltahedged position may make money, depending on the size and frequency of oscillations in $S_{t}.$ .  
+To cope with the negative gamma near the barrier, the bank buys a USD call struck at 126.00, that is, above the knock-out barrier. The result of adding the 126.00 call is shown in Figure 11.13. The result is a strangle with much less gamma exposure.  
 
-![](871a8bc4301fa6b8fdce4f2cfe318aebb7e1acaf42834c55300bb941bfcd7523.jpg)  
+![](d5e6e7e8e9f0f1f2f3f4f5f6f7f8f9g0g1g2g3g4g5g6g7g8g9h0h1h2h3h4h5h6.jpg)  
 
 # FIGURE 11.13  
 
-Expiration payoff and time value of a long straddle.  
+Long strangle hedge.
 
-![](b7915e65b498db835a509d4494594bf02962f936a4aa9a774b233871b68e75d5.jpg)  
+# 11.3.2 STRADDLE  
 
-# FIGURE 11.14  
+A straddle is a long (short) position in a call and a put with the same strike. The special case is:  
 
-Payoff and net profit from straddle position.  
+• Buy an ATM call with strike $K$  
+• Buy an ATM put with strike $K$  
+
+The quantities are adjusted so that the portfolio is delta-neutral. Of course, the portfolio will be gamma-positive.  
+
+# 11.3.2.1 Static or dynamic position?  
+
+Using options to take a volatility position is not straightforward. In fact, if the options are held until maturity, the profitability of the position depends on the level of the underlying $S_T$. This seems contrary to our objective of structuring positions that depend on movement in volatility but not on the underlying. Delta neutrality, in other words, is not a sufficient condition.  
+
+To see this, consider a long delta-neutral straddle. (This could, in fact, be any delta-neutral option position.)  
+
+To make it realistic, consider the following setup. The underlying is $S_t = 100$. The straddle is obtained by buying ATM puts and calls with a strike of 100. To make the position realistic and simple at the same time, we start with equal numbers of the OTM call and put, and assume a zero interest rate. The ATM put has a delta of approximately -0.5; the call has a delta of approximately 0.5. This means that the at-the-money straddle is approximately delta-neutral with equal quantities of puts and calls. The put and call cost five each (these are three-month options).  
+
+At expiration, the payoff of the straddle yields  
+
+$$
+\text{ATM call:} \quad \max(S_T - 100, 0)
+$$  
+
+$$
+\text{ATM put:} \quad \max(100 - S_T, 0)
+$$  
+
+Let us calculate the payoff of this straddle at different values of the underlying at maturity. These are shown in Table 11.1.  
+
+| $S_T$ | Call payoff | Put payoff | Total |  
+|-------|-------------|------------|-------|  
+| 85    | 0           | 15         | 5     |  
+| 90    | 0           | 10         | 0     |  
+| 95    | 0           | 5          | -5    |  
+| 100   | 0           | 0          | -10   |  
+| 105   | 5           | 0          | -5    |  
+| 110   | 10          | 0          | 0     |  
+| 115   | 15          | 0          | 5     |  
+
+Table 11.1 Payoff from Straddle at Different Levels of the Underlying at Maturity  
+
+From these calculations and the corresponding Figure 11.13 we see that, if the options are held until maturity (static position), then profitability depends on the level of the underlying at maturity. It is not fully hedged against movements in the underlying, even though the position was structured delta-neutral. The reason is that keeping options until maturity means that the delta of the position changes, and this would need to be corrected via dynamic hedging. The way to keep the position delta-neutral is to adjust the portfolio dynamically and maintain delta neutrality at all points in time.  
+
+Suppose initial volatility in this example was 20% annual, and the trader expected this to increase to 30%. Now we can quantify the bet.  
+
+Ignoring interest rates, the initial value of the portfolio is:  
+
+$$
+C_{20\%} + P_{20\%} = 5 + 5 = 10
+$$  
+
+If implied volatility goes up to 30%, the new values of the ATM call and put are (using Black-Scholes with zero interest rate and zero dividend yield)  
+
+$$
+C_{30\%} = 7.5, \quad P_{30\%} = 7.5
+$$  
+
+That is, the increase in volatility results in a value of the portfolio of 15 versus the original cost of 10. The bet would make money if volatility increased quickly enough (see the following section on theta).  
+
+As a comparison, let us work out what happens to delta with this increase in volatility. The initial call delta is 0.55, while the initial put delta is -0.45. So, the combined delta (assuming unit quantities of the put and call) is 0.1. If volatility goes up to 30%, the new delta of the call is 0.57 and the put is now -0.43. The combined delta is 0.14. This change in delta (the gamma) would need to be hedged to maintain delta neutrality. In brief, straddles and strangles can be used to bet on views of volatility dynamically. The bet depends only on implied volatility if the position is kept delta-neutral at all times. This dynamic hedging problem is discussed further in Chapter 12.  
+
+So, there is a significant difference between static and dynamic volatility positions. A static position held until maturity essentially requires the underlying to move by a certain amount. If the implied volatility incorporates this expected movement on average, then the position does not really depend only on the volatility.  
+
+Dynamic positions maintained delta-neutral (i.e., delta-hedged) throughout their lives, imply bets on the implied volatility only. It is for this reason that option desks and risk managers calculate vega. This indicates the sensitivity to changes in implied volatility. They would also calculate a veta (vega decay), which is the change in vega as time passes.  
+
+$$
+\text{Veta} = \frac{\partial^2 C}{\partial \sigma \partial t}
+$$  
+
+$$
+\text{Veta} = \frac{\partial \text{vega}}{\partial t}
+$$  
 
 # 11.3.3 BUTTERFLY  
 
-A butterfly is a position that is built using combinations of strangles and straddles. Following the same idea used throughout the book, once we develop strangle and straddle payoffs as building blocks, we can then combine them to generate further synthetic payoffs. A long butterfly position is shown in Figure 11.15. The figure implies the following contractual equation:  
+Yet another way to take positions on expected movements of implied volatility is via the butterfly. We consider a symmetric butterfly. This is made up of:  
 
-This equation immediately suggests one objective behind butterflies. By selling the strangle, the trader is, in fact, lowering the cost of buying the straddle. In the case of the short butterfly, the situation is reversed:  
+• Buy 1 ITM call with strike $K_1$  
+• Buy 1 OTM call with strike $K_3$  
+• Sell 2 ATM calls with strike $K_2$  
 
-Short butterfly $\b=$ Short ATM straddle $^+$ Long $k\%$ out-of-the-money strangle  
+where $K_2 = \frac{K_1 + K_3}{2}$. In other words, the center strike is equidistant from the two outer strikes. The value of this position is shown in Figure 11.14. Note that the payoff somewhat resembles the shape of a butterfly.  
 
-![](0a6d1f0c718943beed23bc33921ef7182a3e6314de9eefaf79247c3c3ce1f540.jpg)  
+![](e6e7e8e9f0f1f2f3f4f5f6f7f8f9g0g1g2g3g4g5g6g7g8g9h0h1h2h3h4h5h6h7.jpg)  
+
+# FIGURE 11.14  
+
+Long butterfly.
+
+The maximum payoff of a long butterfly position is at the center strike. Again to be fully delta-hedged, the butterfly position would need to be dynamically adjusted.  
+
+However, there are other factors that need to be incorporated into the pricing and hedging of the long butterfly. This position has limited upside versus the straddle. So, butterflies are suitable when the underlying is not expected to move much. For this reason, the long butterfly for a realized payoff perspective is said to be "short volatility."11 See Taleb (1997).  
+
+Further, different strikes have different implied volatilities (the volatility smile). The outer strikes usually have higher implied volatilities, and this needs to be hedged.  
+
+The following example shows how a market maker would use a butterfly to hedge an exotic option exposure.  
+
+## EXAMPLE  
+
+Suppose the market maker sells a digital call that pays $1 if the spot is above the strike $H$. The market maker needs to hedge this risk.  
+
+The market maker can approximate the digital call by using a call spread. He can buy a call with strike $(H-0.01)$ and sell a call with strike $(H+0.01)$. This would give the spread that approximates the payoff.  
+
+However, the call spread doesn't hedge the risk exactly; it doesn't look exactly like the digital call. So we keep adding to the structure. The portfolio is:  
+
+• Long 0.5 calls with strike $(H-0.02)$  
+• Short 1 call with strike $(H-0.01)$  
+• Short 1 call with strike $(H+0.01)$  
+• Long 0.5 calls with strike $(H+0.02)$  
+
+The approximation of the digital payoff by the butterfly is shown in Figure 11.15.  
+
+![](f7e8e9f0f1f2f3f4f5f6f7f8f9g0g1g2g3g4g5g6g7g8g9h0h1h2h3h4h5h6h7h8.jpg)  
 
 # FIGURE 11.15  
 
-Long butterfly position.  
-
-A [short straddle](../../Financial%20Instruments/Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) generates premiums but has an unlimited downside. This may not be acceptable to a risk manager. Hence, the trader buys a strangle to limit these potential losses. But this type of insurance involves costs and the net cash receipts become smaller. The following shows a practical use of the short butterfly strategy.  
-
-# EXAMPLE  
-
-As the Australian dollar continues to strengthen on the back of surging [commodity prices](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Primary%20vs.%20Secondary%20Commodities.md), dealers are looking to take advantage of an anticipated lull in the [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)’s bull run by putting in place butterfly structures. One structure is a 3-month [butterfly trade](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%206/Two-Variable%20Regression%20Hedging.md). The dealer sells an ATM Aussie dollar [call and put](../../Course%20Notes/HBR%20Notes/Notes%20on%20Basic%20Options%20Properties.md) against the US dollar, while buying an Aussie call struck at $A U D0.682$ and buying puts struck at AUD0.6375. The structure can be put in place for a premium of $0.3\%$ of notional, noted one trader, adding that there is value in both the puts and the calls.  
-
-(Based on an article in [Derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) Week (now part of GlobalCapital))  
-
-This structure can also be put in place by making sure that the exposure is vega-neutral.  
+Butterfly approximation to digital option.
 
 # 11.4 EXOTICS  
 
-Up to this point, the chapter has dealt with option strategies that used only plain vanilla calls and puts. The more complicated volatility building blocks, namely [straddles and strangles](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Composite%20Payoffs%20at%20Expiry.md), were generated by putting together plain vanilla options with different strike prices or expiration. But the use of plain vanilla options to take a view on the direction of markets or to trade volatility may be considered by some as “outdated.” There are now more practical ways of accomplishing similar objectives.  
+The discussion thus far considered portfolios of vanilla options that were used for various objectives. The portfolios were static and did not require dynamic adjustments in continuous time.  
 
-The general principle is this. Instead of combining plain vanilla options to create desired payoff diagrams, lower costs, and reach other objectives, a trader would directly design new option contracts that can do similar things in a “better” fashion. Of course, these new contracts imply a hedge that is, in general, made of the underlying plain vanilla options, but the new instruments themselves would sell as [exotic](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) options.8 Before closing this chapter, we would like to introduce further option strategies that use [exotic](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) options as building blocks. We will look at a limited number of exotics, although there are many others that we relegate to the [exercises](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) at the end of the chapter.  
+Next, we discuss structured products that require dynamic hedging. These are called exotic options. During the last decade, dealers began offering several types of options that have more complicated payoffs than plain vanilla puts and calls. Among the most liquid are barrier options, digital options, and emerging market exotics.  
+
+Exotic options are generally more complicated to price and hedge than vanilla options. The challenge for trading and risk-managing desks is that the hedge parameters may be discontinuous (e.g., digital options) or may reverse sign and be unbounded (e.g., the gamma of a knock-out option near the barrier). Further, the hedge parameters usually exhibit a nonlinear dependence on volatility so the volatility exposure of exotic options is more complex. Not only does the exotic option depend on the implied volatility of the underlying, but the hedge parameters have a term structure, strike structure, and so on.  
 
 # 11.4.1 BINARY, OR DIGITAL, OPTIONS  
 
-To understand binary options, first remember the static strangle and straddle strategies. The idea was to take a long (short) volatility position, and benefit if the underlying moved more (less) than what the [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) suggested. Binary options form essential building blocks for similar [volatility strategies](../Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md), which can be implemented in a cheaper and perhaps more efficient way. Also, binary options are excellent examples of option engineering. We begin with a brief description of a European-style binary option.  
+Consider an option with the simplified payoff shown in Figure 11.16:  
 
-![](26c51f1c6398db60e089472ef9307acd7d917648befaaee549d75132128d2b7f.jpg)  
+$$
+f(S_T) = \begin{cases} 
+A & \text{if } S_{t_0} \leq K \\
+A & \text{if } S_T < S_{t_0} \\
+0 & \text{otherwise}
+\end{cases}
+$$  
+
+where $t_0$ is a base period and $S_{t_0}$ is the price at time $t_0$. This option pays the cash amount $A$ if the underlying price $S_T$ is in the range $(K, S_{t_0})$ and zero otherwise. Such an option is called a digital or binary option.  
+
+![](g8e9f0f1f2f3f4f5f6f7f8f9g0g1g2g3g4g5g6g7g8g9h0h1h2h3h4h5h6h7h8h9.jpg)  
 
 # FIGURE 11.16  
 
-Intrinsic value of a binary call.  
+Option on a range.
 
 # 11.4.1.1 A binary call  
 
-Consider a European call option with strike $K$ and expiration time $T.\ S_{t}$ denotes the underlying risk. This is a standard call, except that if the option expires at or in-the-money, the payoff will be either (i) a constant cash amount or (ii) a particular asset. In this section, we consider binaries with cash payoffs only.  
+A binary call option pays $1 if the underlying settles above the strike price at maturity. The payoff of the binary option is  
 
-Figure 11.16 shows the payoff structure of this call whose time- $\cdot t$ price is denoted by $C^{\mathrm{{bin}}}\left(t\right)$ The time- $T$ payoff can be written as  
 $$
-C^{\mathrm{bin}}(T)={\left\{\begin{array}{l l}{R}&{{\mathrm{If~}}K\leq S_{T}}\\ {0}&{{\mathrm{Otherwise}}}\end{array}\right.}
+f(S_T) = \begin{cases} 
+\$1 & \text{if } S_T > K \\
+\$0 & \text{otherwise}
+\end{cases}
 $$  
 
-According to this, the binary call holder receives the cash payment $R$ as long as $S_{T}$ is not less than $K$ at time $T.$ . Thus, the payoff has an $R$ -or-nothing binary structure. Binary puts are defined in a similar way.  
+This payoff is shown in Figure 11.17.  
 
-The diagram in Figure 11.16 shows the intrinsic value of the binary where $R=1$ . What would the time value of the binary option look like? It is, in fact, easy to obtain a closed-form formula that will price binary options. Yet, we prefer to answer this question using financial engineering. More precisely, we first create a synthetic for the binary option. The value of the synthetic should then equal the value of the binary.  
-
-The logic in forming the synthetic is the same as before. We have to duplicate the final payoffs of the binary using other (possibly liquid) instruments, and make sure that the implied cash flows and the underlying credit risks are the same.  
-
-# 11.4.1.2 Replicating the binary call  
-
-Expiration payoff of the binary is displayed by the step function shown in Figure 11.16. Now, make two additional assumptions. First, assume that the underlying $S_{t}$ is the price of a [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract traded at an exchange, and that the exchange has imposed a minimum tick rule such that, given $S_{t}.$ , the next instant’s price, $S_{t+\Delta}$ , can only equal  
-$$
-S_{t+\Delta}=S_{t}+i h
-$$  
-
-![](1b9654af1b05e7995658053d607a1a5f5f7940fe3e5e2a54f2e75cda5d4fa481.jpg)  
+![](h9f0f1f2f3f4f5f6f7f8f9g0g1g2g3g4g5g6g7g8g9h0h1h2h3h4h5h6h7h8h9i0.jpg)  
 
 # FIGURE 11.17  
 
-Expiration payoff of a binary call.  
+Binary call option.
 
-where $i$ is an integer, and $h$ is the minimum tick chosen by the exchange. Second, we assume without any loss of generality that  
+# 11.4.1.2 Replicating the binary call  
+
+The payoff of the binary call looks quite different from the payoff of a vanilla call option and presents some challenges during pricing and hedging. As is well known, the binary call is not spanned by a single vanilla option if markets are complete and arbitrage-free. That is, we cannot perfectly replicate a binary option using a static position in vanilla options.  
+
+For replication purposes, we need to use a portfolio of vanilla options. It turns out that the payoff of a binary call is approximately the same as that of a call spread.  
+
+## Option 1  
+
+The replicating portfolio contains  
+
+• Long 1 call with strike $K$ with value $c(K)$  
+• Short 1 call with strike $(K+\epsilon)$ with value $c(K+\epsilon)$  
+
+where $\epsilon$ is small. The value of this portfolio is  
+
 $$
-R=1
+V = c(K) - c(K+\epsilon)
 $$  
 
-Under these conditions, the payoff of the binary is a step function that shows a jump of size 1 at $S_{T}{=}K$ .  
+The payoff of the portfolio is  
 
-It is fairly easy to find a [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) for the binary option under these conditions. Suppose the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) buys one vanilla European call with strike $K$ , and, at the same time, sells one vanilla European call with strike $K+h$ on the $S_{t}$ . Figure 11.17 shows the time- $T$ payoff of this [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). The payoff is similar to the step function in Figure 11.16, except that the height is $h$ , and not 1. But this is easy to fix. Instead of buying and selling 1 unit of each call, the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) can buy and sell $\frac{1}{h}$ units. This implies the approximate contractual equation  
-
-![](c16a0be822b3648941fc3f398147947d70f6dbc718398b4f6c5e7aa3e1845bad.jpg)  
-
-The existence of a minimum tick makes this approximation a true equality, since  
 $$
-|S_{t}-S_{t+\Delta}<h|
+\text{Payoff} = \max(S_T - K, 0) - \max(S_T - (K+\epsilon), 0)
 $$  
 
-cannot occur due to minimum tick requirements. We can use this contractual equation and get two interesting results.  
+Expanding this:  
+
+$$
+\text{Payoff} = \begin{cases} 
+0 & \text{if } S_T < K \\
+S_T - K & \text{if } K < S_T < K+\epsilon \\
+\epsilon & \text{if } S_T > K+\epsilon
+\end{cases}
+$$  
+
+As $\epsilon \to 0$, the payoff of this portfolio approximates the payoff of a binary call that pays $\epsilon$. To get a payoff of $1, we would need to buy $1/\epsilon$ of these portfolios.  
+
+## Option 2  
+
+Another way to see this is to recall the following definition of a derivative:  
+
+$$
+\frac{\partial c}{\partial K} = \lim_{\epsilon \to 0} \frac{c(K+\epsilon) - c(K)}{\epsilon}
+$$  
+
+where we used the fact that $c(K+\epsilon) \approx c(K) + \frac{\partial c}{\partial K} \cdot \epsilon$.  
+
+Since the binary call can be approximately replicated by buying $(1/\epsilon)$ call spreads, its value is  
+
+$$
+V_{binary} = \frac{1}{\epsilon}[c(K) - c(K+\epsilon)]
+$$  
+
+$$
+V_{binary} = -\frac{c(K+\epsilon) - c(K)}{\epsilon}
+$$  
+
+As $\epsilon \to 0$:  
+
+$$
+V_{binary} = -\frac{\partial c}{\partial K}
+$$  
+
+Thus, the value of a binary call is the negative of the derivative of a vanilla call with respect to the strike.  
+
+Using the Black-Scholes formula, we can compute  
+
+$$
+\frac{\partial c}{\partial K} = -e^{-r(T-t)} N(d_2)
+$$  
+
+where $N(.)$ is the cumulative standard normal distribution and  
+
+$$
+d_2 = \frac{\ln(S_t/K) + (r - \sigma^2/2)(T-t)}{\sigma\sqrt{T-t}}
+$$  
+
+Therefore, the value of a binary call is  
+
+$$
+V_{binary} = e^{-r(T-t)} N(d_2)
+$$  
 
 # 11.4.1.3 Delta and price of binaries  
 
-There is an interesting analogy between binary options and the delta of the constituent plain vanilla counterparts. Let the price of the vanilla $K$ and $K+h$ calls be denoted by $C^{K}(t)$ and $\boldsymbol{C}^{K+h}(t)$ , respectively. Then, assuming that the volatility parameter $\sigma$ does not depend on $K.$ , we can let $h\to0$ in the previous contractual equation, and obtain the exact price of the binary, $C^{\mathrm{{bin}}}(t)$ , as  
+Given the derivation above, we see that the value of a binary call is just the discounted probability that the option ends up in the money. The delta of the binary is the derivative with respect to the underlying:  
+
 $$
-\begin{array}{l}{{\displaystyle C^{\mathrm{bin}}(t)=\operatorname*{lim}_{h\rightarrow0}\frac{C^{K}(t)-C^{K+h}(t)}{h}}}\\ {{\displaystyle~=\frac{\partial C^{K}(t)}{\partial K}}}\end{array}
+\Delta_{binary} = \frac{\partial V_{binary}}{\partial S} = e^{-r(T-t)} \frac{N'(d_2)}{S\sigma\sqrt{T-t}}
 $$  
 
-assuming that the limit exists.  
+where $N'(.)$ is the standard normal density function.  
 
-That is to say, at the limit the price of the binary is, in fact, the partial derivative of a vanilla call with respect to the [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) $K.$ If all [Black Scholes](../../Credit%20Markets/Black-Scholes%20Model.md) assumptions hold, we can take this partial derivative analytically, and obtain9  
-$$
-C^{\mathsf{b i n}}(t)={\frac{\hat{\sigma}C^{K}(t)}{\hat{\sigma}K}}=e^{-r(T-t)}N(d_{2})
-$$  
+As seen from Figure 11.18, the delta of the binary option is quite large near the strike. Intuitively, for near-the-money binary options, a small change in the underlying can change the payoff from 0 to 1, leading to a large delta.  
 
-where $d_{2}$ is, as usual,  
-$$
-d_{2}=\frac{\mathrm{Log}(S_{t}/K)+r(T-t)-\frac{1}{2}\sigma^{2}(T-t)}{\sigma\sqrt{(T-t)}}
-$$  
-$\sigma$ being the constant percentage volatility of $S_{t},$ and, $r$ being the constant risk-free [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md).  
-
-This last result shows an interesting similarity between binary option prices and vanilla option deltas. In Chapter 9 we showed that a vanilla call’s delta is given by  
-$$
-\mathrm{Delta}=\frac{\partial C^{K}(t)}{\partial S_{t}}=N(d_{1})
-$$  
-
-Here we see that the price of the binary has a similar form. Also, it has a shape similar to that of a probability distribution:  
-$$
-C^{\mathrm{bin}}(t)=e^{-r(T-t)}N(d_{2})=e^{-r(T-t)}\int_{-\infty}^{\log(S_{t}/K)+r(T-t)-\frac12\sigma^{2}(T-t)}\frac{1}{\sqrt{2\pi}}e^{-\frac12u^{2}\displaystyle\mathrm{d}u}
-$$  
-
-This permits us to draw a graph of the binary price, $C^{\mathrm{{bin}}}(t)$ . Under the [Black Scholes](../../Credit%20Markets/Black-Scholes%20Model.md) assumptions, it is clear that this price will be as indicated by the S-shaped curve in Figure 11.16.  
-
-![](dd2ca36f624d414ae6353f91c48d959ceb702f299cbfc0217949c46fa9ca0495.jpg)  
+![](i0i1i2i3i4i5i6i7i8i9j0j1j2j3j4j5j6j7j8j9k0k1k2k3k4k5k6k7k8k9l0l1l2.jpg)  
 
 # FIGURE 11.18  
 
-Gamma of a binary as a function of underlying.  
+Delta of binary option.
+
+In fact, notice that as $\sigma \to 0$ or $(T-t) \to 0$ (near maturity), the delta of the binary option approaches infinity when $S_t = K$. From a risk management perspective, this can make binary options difficult to hedge near the strike.  
 
 # 11.4.1.4 Time value of binaries  
 
-We can use the previous result to obtain [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) characteristics of the binary option shown in Figure 11.16. The deep out-of-the-money binary10 will have a positive price close to zero. This price will increase and will be around $\frac{1}{2}$ when the option becomes ATM. On the other hand, an in-the-money binary will have a price less than one, but approaching it as $S_{t}$ gets larger and larger. This means that the time value of a European in-the-money binary is negative for $K<$ barrier. The $C^{\mathrm{{bin}}}(t)$ will never exceed 1 (or $R$ ), since a trader would never pay more than $\$1$ in order to get a chance of earning $\$1$ at $T.$  
+The theta of a binary option has an interesting property. For options that are sufficiently out-of-the-money or in-the-money, the theta is negative, meaning the option loses value as time passes. This is intuitive since time decay works against the holder.  
 
-From this figure, we see that a [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) who buys the binary call will be long volatility if the binary is out-of-the-money, but will be short volatility, if the binary option is in-the-money. This is because, in the case of an in-the-money option, the curvature of the $\mathbf{\bar{\mathbf{\Lambda}}}(C^{K+h}(t)$ will dominate the curvature of the $C^{K}(t)$ , and the binary will have a concave [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) function. The reverse is true if the binary is out-of-the-money. An ATM binary will be neutral toward volatility.  
-
-To summarize, we see that the price of a binary is similar to the delta of a vanilla option. This implies that the delta of the binary looks like the gamma of a vanilla option. This logic tells us that the gamma of a binary looks like that in Figure 11.18, and is similar to the third partial with respect to $S_{t}$ of the vanilla option.  
+However, for near-the-money binary options, the theta can be positive. This is because the high gamma near the strike means that time passing makes the option more valuable due to increased probability of finishing in the money.  
 
 # 11.4.1.5 Uses of the binary  
 
-A range option is constructed using binary puts and calls with the same payoff. This option has a payoff depending on whether the $S_{t}$ remains within the range $[H^{\operatorname*{min}},H^{\operatorname*{max}}]$ or not. Thus, consider the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
-$$
-\mathrm{Range\option}=\{\mathrm{Long\}H^{\mathrm{min}}-\mathrm{Binary\call,Short\}H^{\mathrm{max}}-\mathrm{Binary\call\}}
-$$  
+Binary options can be used in various ways:  
 
-The time- $T$ payoff of this range option is shown in Figure 11.19. It is clear that we can use binary options to generate other, more complicated, range structures.  
+1. **Structured products**: Binary options can be combined with vanilla options to create various payoff profiles. For example, adding a binary option to a vanilla option can create a "booster" that enhances payoffs in certain ranges.  
 
-![](b8689b6dd5851c01870f35c65bb9670e851f7dfd118aafa36f2773c6393a2c04.jpg)  
+2. **Correlation trades**: Binary options on one underlying can be combined with vanilla options on another to create correlation-dependent payoffs.  
 
-# FIGURE 11.19  
+3. **View expression**: Binary options provide a direct way to express a view that an underlying will be above or below a certain level at maturity.  
 
-Payoff of a range option.  
-
-The expiration payoff denoted by $C^{\mathrm{range}}(T)$ of such a structure will be given by  
-$$
-C^{\mathrm{range}}(T)=\left\{{\begin{array}{l l}{R}&{{\mathrm{if}}\quad H^{\mathrm{min}}<S_{u}<H^{\mathrm{max}}\quad u\in[t,T]}\\ {0}&{{\mathrm{Otherwise}}}\end{array}}\right.
-$$  
-
-Thus, in this case, the option pays a constant amount $R$ if $S_{u}$ is range-bound during the whole life of the option, otherwise the option pays nothing. The following example illustrates the use of such binaries.  
-
-![](a4e84445dea78af7807045f0424ecd1fc64cae36ef2899f2b845577e0644c0b1.jpg)  
-
-Figure 11.19 illustrates the long binary options mentioned in the example. Looked at from the angle of yen, the binary options have similarities to selling dollar strangles.11  
+The pricing and hedging of binary options is particularly sensitive to the implied volatility near the strike, as well as to jumps in the underlying. Market makers often charge wider spreads for binary options due to these hedging difficulties.  
 
 # 11.4.2 BARRIER OPTIONS  
 
-To create a barrier option, we basically take a vanilla counterpart and then add some properly selected thresholds. If, during the life of the option, these thresholds are exceeded by the underlying, the option payoff will exhibit a discrete change. The option may be knocked out, or it may be knocked in, meaning that the option holder either loses the right to exercise or gains it.  
+Barrier options are path-dependent options where the payoff depends not only on the final value of the underlying but also on whether the underlying touched a certain barrier level during the life of the option.  
 
-Let us consider the two most common cases. We start with a European-style plain vanilla option written on the underlying, $S_{t},$ with strike $K.$ , and expiration T. Next, we consider two thresholds  
+The main types of barrier options are:  
 
-![](8c1b4c374097456d2bf42ce5155ad262b85dc3ba97e41fb5b716250dee3e4d4b.jpg)  
+• **Knock-out options**: These options cease to exist if the barrier is touched  
+• **Knock-in options**: These options come into existence only if the barrier is touched  
 
-# FIGURE 11.20  
+Each type can be further classified as:  
 
-Payoff examples of a knock-out put and a knock-out call.  
-$\boldsymbol{H}^{\mathrm{min}}$ and $H^{\mathrm{max}}$ , with $H^{\mathrm{min}}<H^{\mathrm{max}}$ . If, during the life of the option, $S_{t}$ exceeds one or both of these limits in some precise ways to be defined, then the option ceases to exist. Such instruments are called knock-out options. Two examples are shown in Figure 11.20. The lower part of the diagram is a knock-out call. If, during the life of the option, we observe the event  
-$$
-S_{u}<H^{\operatorname*{min}}\quad u\in[t,T]
-$$  
+• **Up-and-out/Up-and-in**: Barrier is above the current spot  
+• **Down-and-out/Down-and-in**: Barrier is below the current spot  
 
-then the option ceases to exist. In fact, this option is down-and-out. The upper part of the figure displays an up-and-out put, which ceases to exist if the event  
-$$
-H^{\operatorname*{max}}<S_{u}\quad u\in[t,T]
-$$  
+For example, an up-and-out call option pays $\max(S_T - K, 0)$ if the barrier $H > S_0$ is never touched during the life of the option; otherwise, it pays zero.  
 
-is observed.  
+These options are popular because:  
 
-An option can also come into existence after some barrier is hit. We then call it a knock-in option. A knock-in put is shown in Figure 11.21. In this section, we will discuss an $H$ knock-out  
+1. They are cheaper than vanilla options (for knock-outs)  
+2. They provide more targeted hedging for specific views  
+3. They can be structured to match natural business exposures  
 
-![](017c62630346b51c835078902c6bc629b461613f5229da4bba5648f9045c16aa.jpg)  
-
-# FIGURE 11.21  
-
-Payoff of a knock-in put.  
-
-call and an $H$ knock-in call with the same strike $K$ . These barrier options we show here have the characteristic that when they knock-in or -out, they will be out-of-the-money. Barrier options with positive intrinsic value at knock-in and -out also exist but are not dealt with (for these, see James (2003)).  
+The pricing of barrier options must account for the possibility of the barrier being touched at any time during the option's life, making them more complex than vanilla options.  
 
 # 11.4.2.1 A contractual equation  
 
-We can obtain a contractual equation for barrier options and the corresponding vanilla options. Consider two European-style barrier options with the same strike $K.$ . The underlying risk is $S_{t},$ and, for simplicity, suppose all [Black Scholes](../../Credit%20Markets/Black-Scholes%20Model.md) assumptions are satisfied. The first option, a knock-out call, whose premium is denoted by $C^{O}(t)$ , has the standard payoff $i f$ the $S_{t}$ never touches, or falls below, the barrier $H$ . The premium of the second option, a knock-in call, is denoted by $C^{I}{(t)}$ . It entitles its holder to the standard payoff of a vanilla call with strike $K$ , only if $S_{t}$ does fall below the barrier $H$ . These payoffs are shown in Figure 11.22. In each case, $H$ is such that, when the option knocks in or out, this occurs in a region with zero intrinsic value. Now consider the following logic that will lead to a contractual equation.  
+An important relationship exists between knock-in and knock-out options. For a given barrier $H$ and strike $K$:  
 
-1. Start with the case where $S_{t}$ is below the barrier, $S_{t}{<}H$ . Here, the $S_{t}$ is already below the threshold $H.$ So, the knock-out call is already worthless, while the opposite is true for the knock-in call. The knock-in is in, and the option holder has already earned the right to a standard vanilla call payoff. This means that for all $S_{t}{<}H$ , the knock-in call has the same value as a vanilla call. These observations mean  
 $$
-{\mathrm{~\e\range~}}S_{t}<H,{\mathrm{Knock-in+Knock-out=Vanilla~call=Knock-in~}}
+\text{Knock-in call} + \text{Knock-out call} = \text{Vanilla call}
 $$  
 
-The knock-out is worthless for this range.  
+This relationship, known as the barrier parity, states that a knock-in option plus a knock-out option with the same barrier and strike is equivalent to a vanilla option.  
 
-![](00e35b4c847e1a3d295b0f643062724fa685e2026a01e46dff216be449e8e961.jpg)  
+This makes intuitive sense: either the barrier is touched (knock-in activates, knock-out deactivates) or it isn't (knock-in doesn't activate, knock-out remains active). In either case, you end up with one active option, equivalent to holding a vanilla option.  
 
-# FIGURE 11.22  
+## EXAMPLE  
 
-Payoffs of a knock-out call and a knock-in call.  
+Consider a one-year USD/JPY up-and-out call option with:  
+• Current spot: 110  
+• Strike: 115  
+• Barrier: 120  
 
-2. Now suppose $S_{t}$ is initially above the barrier, $H.$ . There are two possibilities during the life of the barrier options: $S_{t}$ either stays above $H$ , or falls below $H$ . One and only one of these events will happen during $[t,T]$ . This means that, if we buy the knock-in call simultaneously with a knock-out call, we guarantee access to the payoff of a vanilla call. In other words,  
-$$
-\mathrm{For~the~range~}H<S_{t},\mathrm{Knock-in+Knock-out=Vanilla~call}
-$$  
+This option will pay $\max(S_T - 115, 0)$ only if USD/JPY never touches 120 during the year. If it touches 120 at any point, the option is knocked out and becomes worthless.  
 
-Putting these two payoff [ranges](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) together, we obtain the contractual equation:  
-
-![](6a44528910a80cba657e361c3f20d15408c5a8a5b021a6af41134c8453ad0acd.jpg)  
-
-From here, we can obtain the [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formulas of the knock-in and knock-out barriers. In fact, determining the [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) function of only one of these barriers is sufficient to determine the price of  
-
-the other. In Chapter 9, we provided a [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formula for the knock-out barrier where the underlying satisfied the [Black Scholes](../../Credit%20Markets/Black-Scholes%20Model.md) assumptions.12 The formula was given by  
-$$
-C^{O}(t)=C(t)-J(t)\quad{\mathrm{for}}\quad H\leq S_{t}
-$$  
-
-where  
-$$
-J(t)=S_{t}\left(\frac{H}{S_{t}}\right)^{\frac{2\left(r-\frac{1}{2}\sigma^{2}\right)}{\sigma^{2}}+2}N(c_{1})-K e^{-r(T-t)}\left(\frac{H}{S_{t}}\right)^{\frac{2\left(r-\frac{1}{2}\sigma^{2}\right)}{\sigma^{2}}}N(c_{2})
-$$  
-
-where  
-$$
-c_{1,2}=\frac{\ln(H^{2}/S_{t}K)+(r\pm\frac{1}{2}\sigma^{2})(T-t)}{\sigma\sqrt{T-t}}
-$$  
-
-The $C(t)$ is the value of the vanilla call given by the standard [Black Scholes formula](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Note%205-%20Black%20Scholes%20Formula.md), and the $J(t)$ is the discount that needs to be applied because the option may disappear if $S_{t}$ falls below $H$ during $[t,T]$ .  
-
-But we now know from the contractual equation that a long knock-in and a long knock-out call with the same strike $K$ and threshold $H$ is equivalent to a vanilla call:  
-$$
-C^{O}(t)+C^{I}(t)=C(t)
-$$  
-
-Using Eq. (11.41) with this gives the formula for the knock-in price as  
-$$
-C^{I}(t)=J(t)
-$$  
-
-Thus, the expressions in Eqs. (11.42) (11.44) provide the necessary [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formulas for barrier options that knock-out and knock-in, when they are out-of-the-money under the [Black Scholes](../../Credit%20Markets/Black-Scholes%20Model.md) assumptions. It is interesting to note that when $S_{t}$ touches the barrier,  
-$$
-S_{t}=H
-$$  
-
-the formula for $J(t)$ reduces to the standard [Black Scholes formula](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Note%205-%20Black%20Scholes%20Formula.md):  
-$$
-J(t)=S_{t}N(d_{1})-K e^{-r(T-t)}N(d_{2})
-$$  
-
-That is to say, the value of $C^{O}(t)$ will be zero. The knock-out call option price is shown in Figure 11.22. We see that the knock-out is cheaper than the vanilla option. The discount gets larger, the closer $S_{t}$ is to the barrier, $H.$ . Also, the delta of the knock-out is higher everywhere and is discontinuous at $H$ .  
-
-Finally, Figure 11.22 shows the [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) function of the knock-in. To get this graph, all we need to do is subtract $C^{O}(t)$ from $C(t)$ , in the upper part of Figure 11.22. The reader may wonder why the knock-in call gets cheaper as $S_{t}$ moves to the right of $K$ . After all, doesn’t the call become more in-the-money? The answer is no, because as long as $H<S_{t}$ the holder of the knock-in does not have access to the vanilla payoff yet. In other words, as $S_{t}$ moves rightward, the chances that the knock-in call holder will end up with a vanilla option are going down.  
+Such options are useful for:  
+• Corporates hedging FX risk but willing to forgo protection if rates move strongly in their favor  
+• Investors expressing specific views on range-bound markets  
+• Reducing hedging costs compared to vanilla options  
 
 # 11.4.2.2 Some uses of barrier options  
 
-Barrier options are quite liquid, especially in FX markets. The following examples discuss the payoff diagrams associated with barrier options.  
+1. **Cost reduction**: Knock-out options are cheaper than vanilla options, making them attractive for hedging.  
 
-The next example illustrates another way knock-ins can be used in [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) markets. Figures 10.20 and 10.21 illustrate these cases.  
+2. **Natural hedges**: Some businesses have natural barriers in their exposures. For example, an exporter might only need protection if exchange rates stay within a certain range.  
 
-# EXAMPLE  
+3. **Yield enhancement**: Investors can sell knock-in options to collect premium, with the option only activating if markets move significantly.  
 
-US dollar puts (yen calls) were well bid last week. Demand is coming from stop-loss trading on the back of [exotic](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) knock-in structures. At the end of December, some players were seen selling 1-month dollar puts struck at JPY119 which knock-in at JPY109.30. As the yen moved toward that level early last week, those players rushed to buy cover.   
-[Hedge funds](../Basis%20Trade%20Explainer.md) were not the only customers looking for cover. Demand for short-term dollar puts was widely seen. “People are still short yen,” said a trader. “The [risk reversal](../Derivatives/Part%20VII%20-%20Advanced%20Options/Chapter%2030%20-%20Other%20Options.md) is four points in favor of the dollar put, which is as high as I have ever seen it.”  
+4. **Structured products**: Barrier options are key components in many structured products, providing customized payoffs for retail and institutional clients.  
 
-(Based on an article in [Derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) Week (now part of GlobalCapital))  
+## EXAMPLE  
 
-According to the example, as the dollar fell toward 110.6 yen, the [hedge funds](../Basis%20Trade%20Explainer.md) who had sold knock-in options were suddenly facing the possibility that these options would come into existence, and that they would lose money.13 As a result, the funds started to cover their positions by buying out-of-the-money puts. This is a good illustration of new risks often associated with [exotic](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) structures. The changes during infinitesimal intervals in mark-to-market values of barrier options can be discrete instead of “gradual.”  
+An oil producer wants to hedge against declining oil prices but is willing to forgo protection if prices rise above $80/barrel (they're happy with high prices). They buy a down-and-out put with:  
+• Strike: $60  
+• Barrier: $80  
+• Current price: $70  
 
-The next example concerning barrier options involves a more complex structure. The barrier may in fact relate to a different risk than the option’s underlying. The example shows how barrier options can be used by the airline industry.  
-
-Airlines face three basic costs: labor, capital, and fuel. Labor costs can be “fixed” for long periods using wage contracts. However, both [interest rate risk](../../Fixed%20Income%20Asset%20Pricing/Analysis%20of%20Fixed%20Income%20Securities.md) and fuel price risk are floating, and sudden spikes in these at any time can cause severe harm to an airline. The following example shows how airlines can hedge these two risks using a single barrier option.  
-
-# EXAMPLE  
-
-Although these are slow days in the [exotic](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) option market, clients still want alternative ways to hedge cheaply, particularly if these hedges offer payouts linked to other exposures on their balance sheets. Barrier products are particularly popular. Corporates are trying to cheapen their projections by asking for knockout options.  
-
-For example, an airline is typically exposed to both interest rate and fuel price risks. If [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) rose above a specified level, a conventional cap would pay out, but under a barrier structure it may not if the airline is enjoying lower fuel prices. Only if both rates and fuel prices are high is the option triggered. Consequently, the cost of this type of hedge is cheaper than separate options linked to individual exposures.  
-
-(Thomson Reuters IFR, May 13, 1995)  
-
-The use of such barriers may lower [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) costs and may be quite convenient for businesses. The [exercises](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) at the end of the chapter contain further examples of [exotic](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) options. In the next section, we discuss some of the new risks and difficulties associated with these.  
+This provides protection against prices falling below $60, but only if prices never rise above $80. This is cheaper than a vanilla put and matches the producer's risk profile.  
 
 # 11.4.3 NEW RISKS  
 
-[Exotic](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) options are often inexpensive and convenient, but they carry their own risks. [Risk management](../Financial%20Mathematics%20Course.md) of [exotic](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) options books is nontrivial because there are (i) discontinuities in the respective [Greeks](../Derivatives/Part%20V%20-%20Options%20Pricing/Chapter%2026%20-%20Pricing%20Options:%20Monte%20Carlo%20Simulation.md) due to the existence of thresholds and (ii) smile effects in the [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md).  
+Exotic options introduce several new risks:  
 
-As the previous three chapters have shown, [risk management](../Financial%20Mathematics%20Course.md) of option books normally uses various [Greeks](../Derivatives/Part%20V%20-%20Options%20Pricing/Chapter%2026%20-%20Pricing%20Options:%20Monte%20Carlo%20Simulation.md) or their modified counterparts. With threshold effects, some [Greeks](../Derivatives/Part%20V%20-%20Options%20Pricing/Chapter%2026%20-%20Pricing%20Options:%20Monte%20Carlo%20Simulation.md) may not exist at the threshold. This introduces discontinuities and complicates [risk management](../Financial%20Mathematics%20Course.md). We review some of these new issues next.  
+1. **Discontinuous hedges**: The hedge ratios of barrier and binary options can be discontinuous, making dynamic hedging challenging.  
 
-1. Barrier options may exhibit jumps in some [Greeks](../Derivatives/Part%20V%20-%20Options%20Pricing/Chapter%2026%20-%20Pricing%20Options:%20Monte%20Carlo%20Simulation.md). This is a new dimension in risk-managing option books. When spot is near the threshold, barrier option [Greeks](../Derivatives/Part%20V%20-%20Options%20Pricing/Chapter%2026%20-%20Pricing%20Options:%20Monte%20Carlo%20Simulation.md) may change discretely even for small movements in the underlying. These extreme changes in sensitivity factors make the respective delta, gamma, and vega more complicated tools to use in measuring and managing underlying risks.   
-2. Barrier options are path dependent. For example, the threshold may be relevant at each time point until the option expires or until the barrier is hit. This makes [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and risk-managing techniques more delicate and more costly. Also, near the thresholds the spot may need further simulated trajectories and this may also be costly.   
-3. Barrier option [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) using vanilla and digital options may be more difficult and may be strongly influenced by smile effects.  
+2. **Model risk**: Exotic options are more sensitive to modeling assumptions, particularly regarding the dynamics of volatility.  
 
-We will not discuss these [risk management](../Financial%20Mathematics%20Course.md) and [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) issues related to [exotic](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) options in this book. However, smile effects will be dealt with in Chapter 16.  
+3. **Liquidity risk**: The market for exotic options is less liquid than for vanilla options, potentially leading to wider bid-ask spreads.  
+
+4. **Correlation risk**: Many exotic options depend on correlations between different risk factors, which can be unstable.  
+
+5. **Gap risk**: Markets can gap through barrier levels or binary strikes, leading to hedging losses.  
+
+These risks require sophisticated risk management systems and often result in wider profit margins for market makers.  
 
 # 11.5 QUOTING CONVENTIONS  
 
-Quoting conventions in option markets may be very complicated. Given that market makers look at options as instruments of volatility, they often prefer quoting volatility directly, rather than a cash value for the option. These quotes can be very confusing at times. The best way to study them is to consider the case of risk reversals. [Risk reversal](../Derivatives/Part%20VII%20-%20Advanced%20Options/Chapter%2030%20-%20Other%20Options.md) quotes illustrate the role played by volatility, and show explicitly the existence of a skewness in the volatility smile, an important empirical observation that will be dealt with separately in Chapter 16.  
+Options markets have developed specific conventions for quoting prices that vary by asset class and market. Understanding these conventions is crucial for traders and risk managers.  
 
-One of the examples concerning risk reversals presented earlier contained the following statement:  
+## Foreign Exchange Options  
 
-The 1-month [risk reversal](../Derivatives/Part%20VII%20-%20Advanced%20Options/Chapter%2030%20-%20Other%20Options.md) jumped to 0.81 in favor of euro calls Wednesday from 0.2 2 weeks ago.  
+FX options are typically quoted in terms of implied volatility rather than prices. The standard quotation includes:  
 
-It is not straightforward to interpret such statements. We conduct the discussion using the euro/dollar exchange rate as the underlying risk. Consider the dollar calls represented in  
+1. **At-the-money (ATM) volatility**: Usually delta-neutral straddle volatility  
+2. **Risk reversals**: The difference in implied volatility between OTM calls and puts  
+3. **Butterfly spreads**: The average implied volatility of OTM options minus ATM volatility  
 
-![](8994eebe7b17c5796cf8f92e747417e24422f73f5e1bdd036f59af7d69c840ef.jpg)  
+This three-point volatility surface provides enough information to interpolate the entire volatility smile.  
 
-# FIGURE 11.23  
+## Equity Options  
 
-Payoffs of ATM and 25-delta calls and puts.  
+Equity options are often quoted in terms of:  
 
-Figure 11.23a, where it is assumed that the spot is trading at 0.95, and that the option is ATM. In the same figure, we also show a 25-delta call. Similarly, Figure 11.23b shows an ATM dollar put and a 25-delta put, which will be out-of-the-money. All these options are supposed to be plain vanilla and European style.  
+1. **Implied volatility** for liquid stocks  
+2. **Price** for less liquid names  
+3. **Delta** for some exotic structures  
 
-Now consider the following quotes for two different 25-delta USD risk reversals:  
+The quotation typically specifies whether European or American exercise is assumed.  
 
-The interpretation of such [bid ask](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Bid%20Ask%20and%20Transaction%20Prices%20in%20a%20Specialist%20Market%20With%20Heterogeneously%20Informed%20Traders.md) spreads is not straightforward. The numbers in the quotes do not relate to dollar figures, but to volatilities. In simple terms, the number to the right of the slash is the volatility spread the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) is willing to receive for selling the [risk reversal](../Derivatives/Part%20VII%20-%20Advanced%20Options/Chapter%2030%20-%20Other%20Options.md) position and the number to the left is the volatility spread he is willing to pay for the position.  
+## Interest Rate Options  
 
-The numbers to the right are related to the sale by the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) of the 25-delta USD call and simultaneously the purchase of a 25-delta USD put, which, from a client’s point of view is the [risk reversal](../Derivatives/Part%20VII%20-%20Advanced%20Options/Chapter%2030%20-%20Other%20Options.md) shown in Figure 11.24a. Note that, for the client, this situation is associated with “dollar strength.” If the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) sells this [risk reversal](../Derivatives/Part%20VII%20-%20Advanced%20Options/Chapter%2030%20-%20Other%20Options.md), he will be short this position.  
+Interest rate options use various quoting conventions:  
 
-![](8520021d4c5f50058998b03cdaafcc54709b4969d77bfba5a4080275b025fa30.jpg)  
+1. **Normal (basis point) volatility** for options on rates  
+2. **Lognormal (percentage) volatility** for options on prices  
+3. **Forward premium** for some structures  
 
-# FIGURE 11.24  
+These differences reflect the different dynamics of interest rates at various levels (negative rates require normal models).  
 
-Payoffs of two different 25-delta USD risk reversals.  
+## Commodity Options  
 
-The numbers to the left of the slash correspond to the purchase of a 25-delta USD call and the sale of a 25-delta USD put, which is shown in Figure 11.24b. This outcome, when in demand, is associated with “dollar weakness.”  
+Commodity options may be quoted in:  
+
+1. **Implied volatility**  
+2. **Premium per unit** (e.g., cents per bushel)  
+3. **Percentage of underlying**  
+
+The convention often depends on the commodity and the market participant (producer vs. financial investor).  
+
+Understanding these conventions is essential for:  
+• Comparing prices across markets  
+• Implementing trading strategies  
+• Managing risk in a portfolio  
+• Communicating with brokers and counterparties  
 
 # 11.5.1 EXAMPLE 1  
 
-Now consider the interpretation of the numerical values in the first example:  
+Consider a EUR/USD options market where:  
+• Spot: 1.2000  
+• ATM volatility (1 month): 10%  
+• 25-delta risk reversal: -1% (EUR calls trade below EUR puts)  
+• 25-delta butterfly: +0.5%  
 
-Example 1:}flat=0:3 USD call bid}  
-
-The left side in this quote is “flat.” This means that the purchase of the 25-delta USD call, and a simultaneous sale of the 25-delta USD put, would be done at the same volatilities. A client who sells this to the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) pays or receives nothing extra and the deal has “zero cost.” In other words, the two sides would agree on a single volatility and then plug this same number into the [Black Scholes formula](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Note%205-%20Black%20Scholes%20Formula.md) to obtain the cost of the put and the cost of the call. The right-hand number in the quote shows a bias. It means that the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) is willing to sell the 25-delta USD call, and buy the 25-delta USD put, only if he can earn 0.3 volatility points net. This implies that the volatility number used in the sale of USD call will be 0.3 points higher than the volatility used for the 25-delta USD put. The [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) thinks that there is a “bias” in the market in favor of dollar strength; hence, the client who purchases this [risk reversal](../Derivatives/Part%20VII%20-%20Advanced%20Options/Chapter%2030%20-%20Other%20Options.md) will incur a net cost.  
+From these quotes, we can infer:  
+• The market expects EUR to weaken (negative risk reversal)  
+• There's a volatility smile (positive butterfly)  
+• OTM EUR puts have ~11% implied volatility  
+• OTM EUR calls have ~10% implied volatility  
+• ATM options have 10% implied volatility  
 
 # 11.5.2 EXAMPLE 2  
 
-The second quote given by  
+An equity index option market might quote:  
+• ATM implied volatility: 20%  
+• Put skew: -2% per 10% OTM  
+• Term structure: +0.5% per month  
 
-Example $2{:}^{\prime\prime}0.3/0.6$ USD call bid}  
-
-is more complicated to handle, although the interpretation of the 0.6 is similar to the first example. With this number, the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) is announcing that he or she needs to receive 0.6 volatility points net if a client wants to bet on the dollar strength.  
-
-However, the left-hand element of the quote is not “flat” anymore but is a positive 0.3. This implies that the bias in the market, in favor of dollar strength is so large, and so many clients demand this [long position](../Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%204%20-%20Futures:%20Hedging%20and%20Speculation.md) that, now the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) is willing to pay net 0.3 volatility points when buying the 25-delta call and selling the 25-delta put.  
-
-Thus, in [risk reversal](../Derivatives/Part%20VII%20-%20Advanced%20Options/Chapter%2030%20-%20Other%20Options.md) quotes, the left-hand number is a volatility spread that the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) is willing to pay, and the second number is a volatility spread the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) would like to earn. In each case, to see how much the underlying options would cost, market participants have to agree on some base volatility and then, using it as a benchmark, bring in the volatility spreads.  
+This tells us:  
+• Near-term ATM options trade at 20% volatility  
+• 90% strike puts trade at ~22% volatility  
+• Longer-dated options have higher implied volatility  
+• The market is pricing in downside risk (negative skew)  
 
 # 11.6 REAL-WORLD COMPLICATIONS  
 
-Actual implementation of the synthetic payoff structures discussed in this chapter requires dealing with several real-world imperfections. First of all, it must be remembered that these positions are shown at expiration, and that they are piecewise linear. In real life, payoff diagrams may contain several convexities, which is an equivalent term for nonlinear payoffs. We will review these briefly.  
-
 # 11.6.1 THE ROLE OF THE VOLATILITY SMILE  
 
-The existence of volatility smile has especially strong effects on [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of [exotic](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) options. If a volatility smile exists, the [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) becomes a function of the [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) $K$ . For example, the expression that gave the binary option price in Eqs. (11.30) (11.31) has to be modified to  
-$$
-\begin{array}{l}{{\displaystyle C^{\mathrm{bin}}(t)=\operatorname*{lim}_{h\rightarrow0}\frac{C^{K}(t)-C^{K+h}(t)}{h}}}\\ {{\displaystyle~=\frac{\hat{\partial}C^{K}(t)}{\hat{\partial}K}+\frac{\hat{\partial}C^{K}(t)}{\hat{\partial}\sigma(K)}\frac{\hat{\partial}\sigma(K)}{\hat{\partial}(K)}}}\end{array}
-$$  
+In practice, the Black-Scholes assumption of constant volatility is violated. The implied volatility varies with both strike and maturity, creating a volatility surface. This has several implications:  
 
-The resulting formula and the analogy to plain vanilla deltas will change. These types of modifications have to be applied to [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) and synthetically creating barrier options as well. Major modification will also be needed for barrier options.  
+1. **Pricing**: Options must be priced using the appropriate implied volatility for their strike and maturity.  
+
+2. **Hedging**: The hedge ratios must account for the movement of the volatility smile as the underlying moves.  
+
+3. **Risk management**: Portfolios have exposure not just to the level of volatility but to the shape of the smile.  
+
+4. **Arbitrage**: The smile must be arbitrage-free, imposing constraints on the relative prices of options.  
+
+The volatility smile is particularly pronounced in:  
+• FX markets (due to jump risk and interest rate differentials)  
+• Equity index options (due to crash risk)  
+• Commodity markets (due to supply/demand shocks)  
+
+Managing smile risk requires sophisticated models and systems, making it a key differentiator among options traders.  
 
 # 11.6.2 EXISTENCE OF POSITION LIMITS  
 
-At time $t$ before expiration, an option’s value depends on many variables other than the underlying $x_{t}$ . The volatility of $x_{t}$ and the [risk-free interest rate](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) $\boldsymbol{r}_{t}$ are two random variables that affect all the positions discussed for $t<T.$ This is expressed in the [Black Scholes formula](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Note%205-%20Black%20Scholes%20Formula.md) for the [call premium](../Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md) of $t<T$ :  
-$$
-C_{t}={C}({x}_{t},t|\sigma,r)
-$$  
+Regulatory and exchange-imposed position limits create additional complications:  
 
-which is a function of the “parameters” $r,\sigma$ . At $t=T$ this formula reduces to  
-$$
-C_{T}=\operatorname*{max}[x_{T}-K,0]
-$$  
+1. **Concentration risk**: Limits prevent excessive concentration in particular options.  
 
-Now, if the $r$ and $\sigma$ are stochastic, then during the $t\in[0,T)$ , the positions considered here will be subject to vega and rho risks as well. A player who is subject to limits on how much of these risks he or she can take, may have to unwind the position before $T.$ . This is especially true for positions that have [vega risk](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Residual%20Risk%20of%20Options%20Gamma%20Vega%20and%20Volatil.md). The existence of limits will change the setup of the problem since, until now, sensitivities with respect to the $r$ and $\sigma$ parameters, did not enter the decision to take and maintain the positions discussed.  
+2. **Hedging constraints**: Large hedgers may need to use multiple instruments or markets.  
+
+3. **Roll risk**: Positions may need to be rolled to different maturities to stay within limits.  
+
+4. **Reporting requirements**: Positions above certain thresholds must be reported to regulators.  
+
+5. **Market impact**: Large positions near limits can affect market dynamics.  
+
+Position limits vary by:  
+• Asset class  
+• Exchange  
+• Participant type (hedger vs. speculator)  
+• Account type (proprietary vs. customer)  
+
+Understanding and managing position limits is crucial for:  
+• Large trading operations  
+• Market makers  
+• Institutional hedgers  
+• Risk managers  
 
 # 11.7 CONCLUSIONS  
 
-In this chapter, we discussed how to synthetically create payoff diagrams for positions that take a view on the direction of markets and on the direction of volatility. These were static positions. We specifically concentrated on the payoff diagrams that were functions of a single risk factor and that were to be replicated by plain vanilla [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) and options positions. The second part of the chapter discussed the engineering of similar positions using simple exotics.  
+Options provide powerful tools for financial engineering, enabling:  
+• Precise risk management  
+• Leveraged speculation  
+• Volatility trading  
+• Structured product creation  
+
+The key insights from this chapter include:  
+
+1. Options can replicate any desired payoff profile through appropriate portfolio construction.  
+
+2. Directional strategies use options to express views on market direction with limited downside or enhanced leverage.  
+
+3. Volatility strategies enable trading without taking directional risk when dynamically hedged.  
+
+4. Exotic options provide more efficient ways to achieve specific objectives but introduce new risks.  
+
+5. Real-world complications like volatility smiles and position limits must be carefully managed.  
+
+The successful application of options in financial engineering requires:  
+• Deep understanding of pricing models and their limitations  
+• Sophisticated risk management systems  
+• Awareness of market conventions and regulations  
+• Ability to dynamically hedge complex portfolios  
+
+As markets continue to evolve, new option structures and strategies will emerge, but the fundamental principles of option engineering will remain essential for financial professionals.  
 
 # SUGGESTED READING  
 
-There are several excellent books that deal with classic option strategies. Hull (2014) is a very good start. The reader may also consult Natenberg (2014) for option basics. See also the textbooks [Jarrow and Turnbull](../Fixed%20Income%20Derivatives/Credit%20Risk%20Models%20and%20the%20Valuation%20of%20Credit%20%20Default%20Swap%20Contracts.md) (1999) and Kolb (1999). Taleb (1996) is a good source on exotics from a market perspective. For a technical approach, consider the chapter on exotics in Musiela and Ruthkowski (2007). James (2003) is a good source on the technicalities of option trading and option [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formulas. It also provides a good discussion of exotics.  
+For further exploration of the topics covered in this chapter, readers are encouraged to consult:  
+
+• Hull, J. (2014). *Options, Futures, and Other Derivatives* (9th ed.). Prentice Hall. – Comprehensive treatment of options theory and practice  
+
+• Taleb, N. (1997). *Dynamic Hedging: Managing Vanilla and Exotic Options*. Wiley. – Practitioner's perspective on options trading and risk management  
+
+• Gatheral, J. (2006). *The Volatility Surface: A Practitioner's Guide*. Wiley. – Detailed analysis of volatility modeling and smile dynamics  
+
+• Clark, I. J. (2011). *Foreign Exchange Option Pricing: A Practitioner's Guide*. Wiley. – Specific focus on FX options markets and conventions  
+
+• Rebonato, R. (2004). *Volatility and Correlation: The Perfect Hedger and the Fox*. Wiley. – Advanced treatment of volatility and correlation modeling  
 
 # EXERCISES  
 
-1. Construct a payoff and [profit diagram](../../Financial%20Instruments/Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) for the purchase of a 105-strike call and sale of a 95- strike call. Verify that you obtain exactly the same [profit diagram](../../Financial%20Instruments/Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) for the purchase of a 105- strike put and a sale of 95-strike put. Explain the difference in the initial cost of these positions. Assume the following parameters: $S(0)=100\$ ; $T=1$ ; $r=8\%$ ; $\sigma=30\%$  
+1. Consider a stock trading at $100. Six-month ATM options have 30% implied volatility.  
+   a) Calculate the price of ATM calls and puts  
+   b) Verify put-call parity  
+   c) What is the delta of each option?  
 
-2. Assume that a trader believes that during the vacation periods actual realized volatility is lower than the [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md). To exploit this opportunity a trader takes a short position in a strangle to cover the cost of the long straddle position. If the actual volatility is $30\%$ less than the [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md), sketch out his volatility strategy. Assume the following parameters:  
-$$
-S(0)=1600;T=3\ \mathrm{month};r=5\%;\sigma=53\%
-$$  
+2. Design a strategy for an investor who:  
+   a) Expects the market to rise moderately  
+   b) Wants to limit downside risk  
+   c) Is willing to cap upside gains  
+   What options would you use? Draw the payoff diagram.  
 
-3. Consider a bear spread. An investor takes a short position in a [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) denoted by $x_{t}$ . But he or she thinks that $x_{t}$ will not fall below a level $x^{\mathrm{min}}$ .  
+3. Create a delta-neutral straddle when:  
+   • Stock price: $50  
+   • Strike: $50  
+   • Call delta: 0.55  
+   • Put delta: -0.45  
+   How many puts do you need per call?  
 
-a. How would you create a position that trades off gains beyond a certain level against large losses if $x_{t}$ increases above what is expected?   
-b. How much would you pay for this position?   
-c. What is the maximum gain? What is the maximum loss?   
-d. Show your answers in an appropriate figure.  
+4. A binary call option pays $1 if S_T > 100. Current stock price is $95.  
+   a) Replicate this using vanilla options  
+   b) What happens to the hedge as we approach maturity?  
+   c) Why might this be difficult to hedge in practice?  
 
-4. Consider this reading carefully and then answer the questions that follow.  
-
-A bank suggested risk reversals to investors that want to hedge their Danish krone assets, before Denmark’s Sept. 28 referendum on whether to join the Economic and Monetary Union. A [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) options trader in New York said the strategy would protect customers against the Danish krone weakening should the Danes vote against joining the EMU. Danish public reports show that sentiment against joining the EMU has been picking up steam over the past few weeks, although the “Yes” vote is still slightly ahead. [He] noted that if the Danes vote for joining the EMU, the local [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) would likely strengthen, but not significantly.  
-
-Six- to 12-month risk reversals last Monday were $0.25\%/0.45\%$ in favor of euro calls. [He] said a risk-reversal strategy would be zero cost if a customer bought a euro call struck at DKK7.52 and sold a euro put at DKK7.44 last Monday when the Danish krone spot was at DKK7.45 to the euro. The options are European-style and the tenor is 6 months.  
-
-Last Monday, 6- and 12-month euro/Danish krone volatility was at $I.55\%/I.95\%$ , up from $0.6\%/0.9\%$ for the whole year until April 10, 2000, owing to growing bias among Danes against joining the EMU. On the week of April 10, volatility spiked as a couple of banks bought 6-month and 9-month, at-the-money vol. (Based on [Derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) Week (now part of GlobalCapital), April 24, 2000.)  
-
-a. Plot the zero-cost risk-reversal strategy on a diagram. Show the DKK7.44 and DKK7.52 put and call explicitly.   
-b. Note that the [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) is at DKK7.45. But, this is not the midpoint between the two strikes. How can this strategy have zero cost then?   
-c. What would this last point suggest about the implied volatilities of the two options?   
-d. What does the statement “Last Monday, 6- and 12-month euro/Danish krone volatility was at $I.55\%/I.95\%$ ,” mean?   
-e. What does at-the-money vol mean? (See the last sentence.) Is there out-of-the-money vol, then?  
-
-5. The following questions deal with range binaries. These are another example of [exotic](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) options. Read the following carefully and then answer the questions at the end.  
-
-Investors are looking to purchase range options. The product is like a straightforward range binary in that the holder pays an upfront premium to receive a fixed pay-off as long as spot maintains a certain range. In contrast to the regular range binary, however, the barriers only come into existence after a set period of time. That is, if spot breaches the range before the barriers become active, the structure is not terminated.  
-
-This way, the buyer will have a short Vega position on high [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) levels. (Based on an article in [Derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) Week (now part of GlobalCapital).)  
-
-a. Display the payoff diagram of a range-binary option. b. Why would FX markets find this option especially useful? c. When do you think these options will be more useful? d. What are the risks of a short position in range binaries?  
-
-6. Double no-touch options is another name for range binaries. Read the following carefully, and then answer the questions at the end.  
-
-Fluctuating U.S. dollar/yen volatility is prompting option traders managing their books to capture high volatilities through range binary structures while [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) with butterfly trades. Popular trades include one-year double no touch options with barriers of JPY126 and JPY102. Should the [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) pair stay within that range, traders could benefit from a USD1 million payout on premiums of $15-20\%$ .  
-
-On the back of those trades, there was buying of butterfly structures to hedge short vol positions. Traders were seen buying out-of-the-money dollar put/yen calls struck at JPY102 and an out-of-the-money dollar call/yen put struck at JPY126. (Based on an article in [Derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) Week (now part of GlobalCapital).)  
-
-a. Display the payoff diagram of the structure mentioned in the first paragraph. b. When do you think these options will be more useful?   
-c. What is the role of butterfly structures in this case?   
-d. What are the risks of a short position in range binaries?   
-e. How much money did such a position make or lose “last Tuesday”?  
-
-7. The next question deals with a different type range option, called a range accrual option. Range accrual options can be used to take a view on volatility directly. When a trader is short volatility, the trader expects the actual volatility to be less than the [implied volatility](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md). Yet, within the bounds of classical volatility analysis, if this view is expressed using a vanilla option, it may require dynamic [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md), otherwise expensive straddles must be bought. Small shops may not be able to allocate the necessary resources for such dynamic [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) activities.  
-
-Instead, range accrual options can be used. Here, the buyer of the option receives a payout that depends on how many days the underlying price has remained within a range during the life of the option. First read the following comments then answer the questions.  
-
-The Ontario Teachers’ Pension Plan Board, with CAD72 billion (USD48.42 billion) under management, is looking at ramping up its use of equity [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) as it tests programs for range accrual options and options overwriting on equity portfolios.  
-
-The equity [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) group is looking to step up its use now because it has recently been awarded additional staff as a result of notching up solid [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md), said a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) manager for Canadian equity [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md). . .. With a staff of four, two more than previously, the group has time to explore more sophisticated [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) strategies, a trader explained. Ontario Teachers’ is one of the biggest and most sophisticated end users in Canada and is seen as an industry leader among pension funds, according to market officials.  
-
-A [long position](../Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%204%20-%20Futures:%20Hedging%20and%20Speculation.md) in a range accrual option on a single stock would entail setting a range for the value of the stock. For every day during the life of the option that the stock trades within the range, Ontario Teachers would receive a payout. It is, hence, similar to a short vol position, but the range accrual options do not require dynamic [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md), and losses are capped at the initial premium outlay. (Based on an article in [Derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) Week (now part of GlobalCapital).)  
-
-a. How is a range accrual option similar to a strangle or straddle position?   
-b. Is the position taken with this option static? Is it dynamic?   
-c. In what sense does the range accrual option accomplish what dynamic [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) strategies accomplish?   
-d. How would you synthetically create a range accrual option for other “vanilla” exotics?  
+5. Compare and contrast:  
+   a) Long straddle vs. long strangle  
+   b) Risk reversal vs. collar  
+   c) Butterfly vs. condor  
+   When would you use each strategy?  
 
 # EXCEL EXERCISES  
 
-8. Write a VBA program to show the construction of a bull and bear spread, first using calls only and then using puts only. Also plot both the call spread and put spread in both bull and bear phases. Explain your observation for the difference in the initial cost of [call and put spreads](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Composite%20Payoffs%20at%20Expiry.md).  
+1. Build a spreadsheet that:  
+   a) Calculates option prices using Black-Scholes  
+   b) Computes all Greeks (delta, gamma, vega, theta, rho)  
+   c) Allows for easy scenario analysis  
 
-Assume the following parameters: $S(0)=100$ ; $T=1$ ; $r=8\%$ ; $\sigma=30\%$ ; Spread $=10\%$ .  
+2. Create a volatility smile plotter that:  
+   a) Takes ATM vol, risk reversals, and butterflies as inputs  
+   b) Interpolates the full smile  
+   c) Calculates option prices across strikes  
 
-9. Write a VBA program to show the fabrication of the butterfly spread composed of a strangle and straddle. Assume the following parameters: $S(0)=100$ ; $T=1$ ; $r=8\%$ ; $\sigma=30\%$ ; Spread $=5\%$ Plot the straddle and strangle payoff along with the payoff of the butterfly spread. Repeat the above calculation for the short position in butterfly spread.  
+3. Develop a barrier option pricer that:  
+   a) Handles all four types (up/down, in/out)  
+   b) Shows the barrier effect on option value  
+   c) Calculates Greeks including barrier sensitivities  
 
 # MATLAB EXERCISE  
 
-10. Write a MATLAB program to plot the following spreads including the time value of the spread as well as its payoff at the expiration. a. Bull spread  
+Implement a Monte Carlo simulation for:  
+1. Pricing path-dependent options (barriers, lookbacks)  
+2. Calculating hedge ratios numerically  
+3. Analyzing the effect of discrete vs. continuous monitoring  
 
-b. Bear spread   
-c. Straddle   
-d. Strangle   
-e. Butterfly Assume the following parameters: $S(0)=100\$ ; $T=1$ ; $r=8\%$ ; $\sigma=30\%$ ; Spread $=5\%$ .  
+Your code should:  
+• Be modular and well-documented  
+• Include variance reduction techniques  
+• Provide confidence intervals for prices  
+• Compare results with analytical formulas where available
