@@ -1,3 +1,30 @@
+---
+title: Default Correlation Pricing and Trading
+tags:
+  - default-correlation
+  - credit-derivatives
+  - correlation-trading
+  - financial-engineering
+  - copulas
+  - cdo-pricing
+  - credit-risk
+  - correlation-models
+aliases:
+  - Chapter 22 Default Correlation
+  - Correlation Trading
+  - Credit Correlation Models
+key_concepts:
+  - Default correlation
+  - Correlation trading
+  - Copula models
+  - CDO tranches
+  - Base correlation
+  - Implied correlation
+  - Correlation risk
+  - Portfolio credit models
+cssclasses: academia
+---
+
 # DEFAULT CORRELATION PRICING AND TRADING  
 
 # 22  

@@ -1,3 +1,30 @@
+---
+title: Principal Protection Techniques
+tags:
+  - principal-protection
+  - cppi
+  - structured-products
+  - financial-engineering
+  - capital-guaranteed
+  - portfolio-insurance
+  - dynamic-hedging
+  - risk-management
+aliases:
+  - Chapter 23 Principal Protection
+  - CPPI Strategies
+  - Capital Protection Engineering
+key_concepts:
+  - Principal protection
+  - CPPI (Constant Proportion Portfolio Insurance)
+  - Dynamic portfolio insurance
+  - Gap risk
+  - Leverage constraints
+  - Cushion management
+  - Floor values
+  - Multiplier selection
+cssclasses: academia
+---
+
 # PRINCIPAL PROTECTION TECHNIQUES  
 
 # 23  
@@ -5,12 +32,12 @@
 # CHAPTER OUTLINE  
 
 23.1 [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) .. . 809   
-3.2 The Classical Case... 810   
+23.2 The Classical Case... 810   
 23.3 The CPPI . . 811   
-3.4 Modeling the CPPI Dynamics 813   
+23.4 Modeling the CPPI Dynamics 813   
 23.4.1 Interpretation.. 814   
 23.4.2 How to Pick λ . 815   
-3.5 An Application: CPPI and Equity Tranches . 815   
+23.5 An Application: CPPI and Equity Tranches . 815   
 23.5.1 A Numerical Example .. 816   
 23.5.1.1 The initial position . 817   
 23.5.1.2 Dynamic adjustments . 818   

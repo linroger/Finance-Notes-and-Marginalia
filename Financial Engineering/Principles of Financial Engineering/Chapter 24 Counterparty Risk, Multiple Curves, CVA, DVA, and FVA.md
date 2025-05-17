@@ -1,3 +1,31 @@
+---
+title: Counterparty Risk, Multiple Curves, CVA, DVA, and FVA
+tags:
+  - counterparty-risk
+  - cva
+  - dva
+  - fva
+  - credit-risk
+  - derivatives-valuation
+  - xva
+  - collateral-management
+  - financial-engineering
+aliases:
+  - Chapter 24 Counterparty Risk
+  - CVA DVA FVA
+  - XVA Adjustments
+key_concepts:
+  - Credit Valuation Adjustment (CVA)
+  - Debit Valuation Adjustment (DVA)
+  - Funding Valuation Adjustment (FVA)
+  - Counterparty credit risk
+  - Collateral agreements
+  - Wrong-way risk
+  - Multiple curve framework
+  - Bilateral CVA
+cssclasses: academia
+---
+
 # COUNTERPARTY RISK, MULTIPLE CURVES, CVA, DVA, AND FVA  
 
 # 24  
