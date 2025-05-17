@@ -1,14 +1,41 @@
+---
+title: Engineering of Equity Instruments and Structural Models of Default
+tags:
+  - equity-derivatives
+  - structural-models
+  - default-models
+  - financial-engineering
+  - merton-model
+  - equity-valuation
+  - credit-models
+  - convertible-bonds
+aliases:
+  - Chapter 19 Equity Engineering
+  - Structural Default Models
+  - Equity Derivatives Engineering
+key_concepts:
+  - Equity as call option
+  - Merton model
+  - Structural default models
+  - Convertible bonds
+  - Equity volatility
+  - Capital structure arbitrage
+  - Debt-equity relationships
+  - Default boundaries
+cssclasses: academia
+---
+
 # ENGINEERING OF EQUITY INSTRUMENTS AND STRUCTURAL MODELS OF DEFAULT  
 
 # 19  
 
 # CHAPTER OUTLINE  
 
-# 19.1 Introduction . 660  
+19.1 Introduction . 660  
 
 19.2 What Is Equity?. . 662   
-9.3 Equity as the Discounted Value of [Future Cash Flows](../Advanced%20Derivatives%20Pricing%20Methodology.md) . 663   
-9.4 Equity as an Option on the Assets of the Firm.. . 663   
+19.3 Equity as the Discounted Value of [Future Cash Flows](../Advanced%20Derivatives%20Pricing%20Methodology.md) . 663   
+19.4 Equity as an Option on the Assets of the Firm.. . 663   
 19.4.1 [Merton](../../Credit%20Markets/Credit%20Markets%20Session%205.md)’s Structural Model of Default.. 663   
 19.4.2 Payoffs to Bond and Equity Holders 664   
 19.4.2.1 Payments to [debt and equity](../../Financial%20Markets%20and%20Institutions/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/Class%20Note%201-%20Borrower-Lender%20conflicts%20and%20implied%20agency%20problems.md) holders under different scenarios... 666   

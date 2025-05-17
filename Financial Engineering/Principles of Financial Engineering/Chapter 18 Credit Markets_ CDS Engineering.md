@@ -1,10 +1,37 @@
+---
+title: Credit Markets - CDS Engineering
+tags:
+  - credit-derivatives
+  - cds
+  - credit-default-swaps
+  - credit-risk
+  - financial-engineering
+  - structured-credit
+  - default-risk
+  - credit-spreads
+aliases:
+  - Chapter 18 CDS Engineering
+  - Credit Default Swaps
+  - Credit Markets Engineering
+key_concepts:
+  - Credit default swaps
+  - Reference entities
+  - Credit spread
+  - Default events
+  - Recovery rates
+  - CDS valuation
+  - Synthetic CDOs
+  - Credit risk transfer
+cssclasses: academia
+---
+
 # CREDIT MARKETS: CDS ENGINEERING  
 
 # 18  
 
 # CHAPTER OUTLINE  
 
-# 18.1 Introduction . 620  
+18.1 Introduction . 620  
 
 18.2 Terminology and Definitions.. 621   
 18.2.1 Types of [Credit Derivatives](../../Credit%20Markets/RISK%20NEUTRAL%20VALUATION%20FRAMEWORK%20FOR%20CREDIT%20DEFAULT%20SWAPS.md) . 622   

@@ -1,9 +1,38 @@
-# ESSENTIALS OF STRUCTURED 20 PRODUCT ENGINEERING  
+---
+title: Essentials of Structured Product Engineering
+tags:
+  - structured-products
+  - financial-engineering
+  - exotic-options
+  - hybrid-instruments
+  - retail-products
+  - capital-protected
+  - yield-enhancement
+  - rainbow-options
+aliases:
+  - Chapter 20 Structured Products
+  - Structured Product Engineering
+  - Exotic Product Design
+key_concepts:
+  - Structured product design
+  - Capital protection
+  - Yield enhancement
+  - Touch and digital options
+  - Rainbow options
+  - Barrier options
+  - Product decomposition
+  - Risk-return profiles
+cssclasses: academia
+---
+
+# ESSENTIALS OF STRUCTURED PRODUCT ENGINEERING  
+
+# 20  
 
 # CHAPTER OUTLINE  
 
-0.1 [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) .. 696   
-0.2 Purposes of [Structured Products](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) .. 697   
+20.1 [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) .. 696   
+20.2 Purposes of [Structured Products](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) .. 697   
 20.2.1 Equity [Structured Products](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) . 698   
 20.2.2 The Tools .. 702   
 20.2.2.1 Touch and digital options . 704   

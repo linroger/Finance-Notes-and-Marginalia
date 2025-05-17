@@ -1,8 +1,37 @@
-# CAPS/FLOORS AND SWAPTIONS 17 WITH AN APPLICATION TO MORTGAGES  
+---
+title: Caps/Floors and Swaptions with an Application to Mortgages
+tags:
+  - caps
+  - floors
+  - swaptions
+  - interest-rate-derivatives
+  - mortgages
+  - prepayment-risk
+  - financial-engineering
+  - hedging-strategies
+aliases:
+  - Chapter 17 Caps Floors Swaptions
+  - Interest Rate Options
+  - Mortgage Applications
+key_concepts:
+  - Interest rate caps
+  - Interest rate floors
+  - Swaptions
+  - Mortgage market mechanics
+  - Prepayment risk
+  - Hedging mortgage portfolios
+  - Convexity risk
+  - Option-adjusted spreads
+cssclasses: academia
+---
+
+# CAPS/FLOORS AND SWAPTIONS WITH AN APPLICATION TO MORTGAGES  
+
+# 17  
 
 # CHAPTER OUTLINE  
 
-7.1 [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) .. . 591   
+17.1 [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) .. . 591   
 17.2 The Mortgage Market .. 592   
 17.2.1 The Life of a Typical Mortgage 593   
 17.2.2 [Hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) the Position . 597   

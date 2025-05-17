@@ -1,3 +1,8 @@
+---
+title: "Chapter 16: Correlation as an Asset Class and the Smile"
+subject: "Financial Engineering"
+---
+
 # CORRELATION AS AN ASSET CLASS AND THE SMILE  
 
 # 16  
