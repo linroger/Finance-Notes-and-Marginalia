@@ -190,28 +190,21 @@ The **expected value** $\mathbb{E}[X]$ measures the “central tendency” of a 
 
 ##### Key Properties:  
 - **Linearity**: For constants $a, b$ and random variables $X, Y$:  
-  $$ \mathbb{E}[aX + bY] = a\mathbb{E}[X] + b\mathbb{E}[Y] $$  
+  $$ \mathbb{E}[aX + bY] = a\mathbb{E}[X] + b\mathbb{E}[Y] $$
   *Proof (discrete example)*:  
-  $$ \mathbb{E}[aX + bY] = \sum (a x_i + b y_j) P(X=x_i, Y=y_j) = a \sum x_i P(X=x_i) + b \sum y_j P(Y=y_j) = a\mathbb{E}[X] + b\mathbb{E}[Y] $$  
-
+  $$ \mathbb{E}[aX + bY] = \sum (a x_i + b y_j) P(X=x_i, Y=y_j) = a \sum x_i P(X=x_i) + b \sum y_j P(Y=y_j) = a\mathbb{E}[X] + b\mathbb{E}[Y] $$
 - **Constant Multiple**: $\mathbb{E}[aX] = a\mathbb{E}[X]$ (set $b = 0$ in linearity).  
 - **Constant Term**: $\mathbb{E}[a] = a$ (since $P(X = a) = 1$, so $\sum a \cdot 1 = a$).  
 
 
 #### 2. Variance  
-The **variance** $\text{Var}(X)$ measures the “spread” of a random variable. It is defined as:  
-$$ \text{Var}(X) = \mathbb{E}\left[ (X - \mathbb{E}[X])^2 \right] $$  
-
-
-##### Alternative Formula:  
-$$ \text{Var}(X) = \mathbb{E}[X^2] - \left( \mathbb{E}[X] \right)^2 $$  
+The **variance** $\text{Var}(X)$ measures the “spread” of a random variable. It is defined as:  $$ \text{Var}(X) = \mathbb{E}\left[ (X - \mathbb{E}[X])^2 \right] $$  ##### Alternative Formula:  
+$$ \text{Var}(X) = \mathbb{E}[X^2] - \left( \mathbb{E}[X] \right)^2 $$
 *Derivation*:  
 Expand $(X - \mu)^2$ (where $\mu = \mathbb{E}[X]$):  
 $$ (X - \mu)^2 = X^2 - 2\mu X + \mu^2 $$  
 Take the expectation:  
-$$ \mathbb{E}\left[ (X - \mu)^2 \right] = \mathbb{E}[X^2] - 2\mu \mathbb{E}[X] + \mu^2 = \mathbb{E}[X^2] - 2\mu^2 + \mu^2 = \mathbb{E}[X^2] - \mu^2 $$  
-
-
+$$ \mathbb{E}\left[ (X - \mu)^2 \right] = \mathbb{E}[X^2] - 2\mu \mathbb{E}[X] + \mu^2 = \mathbb{E}[X^2] - 2\mu^2 + \mu^2 = \mathbb{E}[X^2] - \mu^2 $$
 ##### Key Properties:  
 - **Constant Term**: $\text{Var}(a) = 0$ (since $(a - a)^2 = 0$, so $\mathbb{E}[0] = 0$).  
 - **Constant Multiple**: $\text{Var}(aX) = a^2 \text{Var}(X)$  
@@ -281,6 +274,3 @@ This matches the MGF of $\mathcal{N}(a\mu + b, a^2 \sigma^2)$. Since MGFs unique
 - **Expected Value**: Measures central tendency; key property is linearity.  
 - **Variance**: Measures spread; key properties include scaling by $a^2$ and additivity for independent variables.  
 - **Normal Distribution**: Mean $\mu$, variance $\sigma^2$; linear transformations preserve normality.  
-
-
-Let me know if you want deeper exploration of any topic!
