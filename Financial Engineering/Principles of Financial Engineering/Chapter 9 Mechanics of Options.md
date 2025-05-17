@@ -1,3 +1,32 @@
+---
+title: Mechanics of Options
+tags:
+  - options
+  - derivatives
+  - financial-engineering
+  - call-options
+  - put-options
+  - option-valuation
+  - option-mechanics
+  - american-options
+  - european-options
+aliases:
+  - Chapter 9 Options Mechanics
+  - Options Introduction
+  - Options Trading Mechanics
+key_concepts:
+  - Option definition
+  - Call and put options
+  - Option notation
+  - European vs American options
+  - Option payoff diagrams
+  - Strike price
+  - Expiration date
+  - Option pricing basics
+  - Option strategies
+cssclasses: academia
+---
+
 # MECHANICS OF OPTIONS  
 
 # 9  

@@ -1,3 +1,32 @@
+---
+title: Cash Flow Engineering, Interest Rate Forwards and Futures
+tags:
+  - cash-flow-engineering
+  - interest-rate-forwards
+  - interest-rate-futures
+  - fixed-income
+  - libor
+  - yield-curve
+  - synthetic-assets
+  - day-count-conventions
+aliases:
+  - Chapter 3 Cash Flow Engineering
+  - Interest Rate Derivatives Engineering
+  - Synthetic Interest Rate Instruments
+key_concepts:
+  - Cash flow engineering
+  - Synthetic instruments
+  - Interest rate forwards
+  - Interest rate futures
+  - LIBOR benchmarks
+  - Fixed income conventions
+  - Day-count conventions
+  - Forward loans
+  - Contractual equations
+  - Replication strategies
+cssclasses: academia
+---
+
 # CASH FLOW ENGINEERING, INTEREST RATE FORWARDS AND FUTURES  
 
 # 3  

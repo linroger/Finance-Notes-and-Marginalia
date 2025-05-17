@@ -1,3 +1,30 @@
+---
+title: REPO Market Strategies in Financial Engineering
+tags:
+  - repo-market
+  - repurchase-agreements
+  - financial-engineering
+  - securities-financing
+  - collateral-management
+  - repo-strategies
+  - money-markets
+  - liquidity-management
+aliases:
+  - Chapter 5 REPO Strategies
+  - Repurchase Agreement Strategies
+  - REPO Market Engineering
+key_concepts:
+  - Repurchase agreements
+  - REPO market mechanics
+  - Securities financing
+  - Collateral management
+  - REPO rates
+  - Special vs general collateral
+  - Haircuts and margins
+  - REPO market strategies
+cssclasses: academia
+---
+
 # REPO MARKET STRATEGIES IN FINANCIAL ENGINEERING  
 
 # 5  

@@ -1,10 +1,35 @@
-# INTRODUCTION TO INTERESTRATE SWAP ENGINEERING  
+---
+title: Introduction to Interest-Rate Swap Engineering
+tags:
+  - interest-rate-swaps
+  - swap-engineering
+  - financial-derivatives
+  - equity-swaps
+  - basis-swaps
+  - asset-swaps
+  - swap-logic
+  - derivatives-engineering
+aliases:
+  - Chapter 4 Swap Engineering
+  - Interest Rate Swap Introduction
+  - Swap Markets Introduction
+key_concepts:
+  - Swap logic
+  - Equivalent of zero in finance
+  - Equity swaps
+  - Interest rate swaps
+  - Basis swaps
+  - Asset swaps
+  - Swap types
+  - Swap applications
+cssclasses: academia
+---
+
+# INTRODUCTION TO INTEREST-RATE SWAP ENGINEERING  
 
 # 4  
 
 # CHAPTER OUTLINE  
-
-#  
 
 4.1 The Swap Logic 108   
 4.1.1 The Equivalent of Zero in Finance.. 108   

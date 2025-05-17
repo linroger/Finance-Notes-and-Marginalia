@@ -1,8 +1,21 @@
-# CASH FLOW ENGINEERING IN FOREIGN EXCHANGE MARKETS  
+---
+id: principles_of_financial_engineering_ch6
+title: "Ch. 6 Cash Flow Engineering in Foreign Exchange Markets"
+category: financial_engineering
+subject: derivatives
+tags:
+  - forward_contracts
+  - fx_markets
+  - synthetic_instruments
+  - cash_flow_engineering
+  - currency_swaps
+status: processed
+market_context: "Written in 1997-1998 context"
+---
 
-# 6  
+# Chapter 6: Cash Flow Engineering in Foreign Exchange Markets
 
-# HAPTER OUTLINE  
+## Chapter Outline  
 
 6.1 [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) .. 176   
 6.2 [Currency Forwards](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forward%20Contracts%20on%20Exchange%20Rates.md) . 178   

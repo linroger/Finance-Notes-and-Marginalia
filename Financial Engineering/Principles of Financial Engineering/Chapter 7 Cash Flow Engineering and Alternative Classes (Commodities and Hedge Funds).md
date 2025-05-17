@@ -1,3 +1,29 @@
+---
+title: Cash Flow Engineering and Alternative Classes (Commodities and Hedge Funds)
+tags:
+  - cash-flow-engineering
+  - commodities
+  - hedge-funds
+  - alternative-investments
+  - futures-contracts
+  - commodity-futures
+  - backwardation
+  - contango
+aliases:
+  - Chapter 7 Alternative Classes
+  - Commodities and Hedge Funds Engineering
+  - Alternative Asset Classes
+key_concepts:
+  - Futures contract parameters
+  - Term structure of commodity futures
+  - Backwardation and contango
+  - Commodity futures engineering
+  - Hedge fund strategies
+  - Alternative investment vehicles
+  - Cash flow engineering applications
+cssclasses: academia
+---
+
 # CASH FLOW ENGINEERING AND ALTERNATIVE CLASSES (COMMODITIES AND HEDGE FUNDS)  
 
 # 7  

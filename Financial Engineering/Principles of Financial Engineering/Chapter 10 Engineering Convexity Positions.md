@@ -1,3 +1,30 @@
+---
+title: Engineering Convexity Positions
+tags:
+  - convexity
+  - bond-convexity
+  - options
+  - volatility-trading
+  - gamma-trading
+  - financial-engineering
+  - delta-hedging
+  - derivative-strategies
+aliases:
+  - Chapter 10 Convexity Engineering
+  - Convexity Positions
+  - Gamma Trading Strategies
+key_concepts:
+  - Bond convexity
+  - Options convexity
+  - Delta-hedged portfolios
+  - Gamma trading
+  - Volatility positions
+  - Convexity value
+  - Dynamic hedging
+  - Convexity trades
+cssclasses: academia
+---
+
 # ENGINEERING CONVEXITY POSITIONS  
 
 # 10  

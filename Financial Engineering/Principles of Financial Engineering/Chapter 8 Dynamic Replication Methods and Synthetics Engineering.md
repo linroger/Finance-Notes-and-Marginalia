@@ -1,4 +1,33 @@
-# DYNAMIC REPLICATION METHODS 8 AND SYNTHETICS ENGINEERING  
+---
+title: Dynamic Replication Methods and Synthetics Engineering
+tags:
+  - dynamic-replication
+  - synthetic-instruments
+  - financial-engineering
+  - delta-hedging
+  - options-replication
+  - static-replication
+  - black-scholes
+  - hedging-strategies
+aliases:
+  - Chapter 8 Dynamic Replication
+  - Synthetic Instruments Engineering
+  - Dynamic Hedging Methods
+key_concepts:
+  - Dynamic vs static replication
+  - Delta hedging
+  - Synthetic positions
+  - Black-Scholes framework
+  - Continuous rebalancing
+  - Path dependency
+  - Transaction costs
+  - Volatility estimation
+cssclasses: academia
+---
+
+# DYNAMIC REPLICATION METHODS AND SYNTHETICS ENGINEERING
+
+# 8
 
 # CHAPTER OUTLINE  
 
@@ -7,8 +36,8 @@
 8.3 A Review of [Static Replication](../Static%20Option%20Replication.md) ...... . 239   
 8.3.1 The Framework.. . 241   
 8.3.2 Synthetics with a Missing Asset . 242   
-8.3.2.1 A synthetic that uses $\mathsf{B}_{\mathrm{t}}$ only .. .243   
-8.3.2.2 Synthetics that use $\mathsf{B}_{\mathrm{t}}$ and B(t, ${\sf T}_{3})$ .. .244   
+8.3.2.1 A synthetic that uses $B_t$ only .. .243   
+8.3.2.2 Synthetics that use $B_t$ and $B(t, T_3)$ .. .244   
 8.4 “Ad Hoc” Synthetics.. 245   
 8.4.1 Immunization. 246   
 8.5 Principles of [Dynamic Replication](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Note%205-%20Black%20Scholes%20Formula.md).. 248   
@@ -17,7 +46,7 @@
 8.5.2.1 The method .. .250   
 8.5.3 [Binomial](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) Trees . 250   
 8.5.4 The [Replication](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) Process. 251   
-8.5.4.1 The $\mathsf{B}_{\mathrm{t}},$ B(t, $\intercal_{3})$ dynamics . .251   
+8.5.4.1 The $B_t$, $B(t, T_3)$ dynamics . .251   
 8.5.4.2 Mechanics of [replication](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md).. .254   
 8.5.4.3 Guaranteeing self-financing . .255   
 8.5.5 Two Examples 255   
