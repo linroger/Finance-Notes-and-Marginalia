@@ -25,3 +25,5 @@ svg-cache
 *.sample
 *.idea
 *?\x16.gitFinderDeleted
+*.bak
+*.backup
