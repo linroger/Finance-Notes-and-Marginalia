@@ -38,7 +38,7 @@ key_concepts:
 
 # What is Credit Default Risk?
 
-![500](e83ab197f445cef5c27a8c11ae5a3919.png)
+!500
 
 # When Does a Company Default?
 
@@ -57,7 +57,7 @@ key_concepts:
    - higher risk of default
 - Role of credit rating agencies in assessing issuer default risk
 
-![500](41f1460878fe978d3c07cc92d3d99568.png)
+!500
 
 # Instrument Types & Contractual Specs: Corporate Bonds
 
@@ -70,43 +70,43 @@ key_concepts:
 - Call/Put schedules / embedded optionality: right to exercise call/put options at pre-specified prices
 - Covenants (positive vs negative, mostly high yield)
 
-![500](8adf926c7b99b2d66bd9490420329665.png)
+!500
 
 # Instrument Types & Contractual Specs Fixed Rate IG Bond Example: Oracle
 
-![500](d77b21350f5e4d1279ecaff6b0354fda.png)
+!500
 
 # Fixed Rate Bond Cash-Flows
 
-![500](73036b9191c8c1e4cea4fb10478a5299.png)
+!500
 
 # Floating Rate Bond (SOFR Ref Index): Morgan Stanley
 
-![500](ec8418e437fcbfa6ba0afae5d9fc189a.png)
+!500
 
 # Floating Rate Bond Cash-Flows
 
-![500](545ba227fa5a360867d223eb91ab6343.png)
+!500
 
 ## Fixed Rate HY Bond Example: AMC
 
-![500](da78a73598433db6b0a4c5f587b0feab.png)
+!500
 
 ## Foreign Sovereign Bond Example: Mexico
 
-![500](1758a410a6e2b88bd3dabb13670a7303.png)
+!500
 
 # Floating Rate Loan Example (First Lien): United Airlines
 
-![500](583d1159c55fec5c5632d47c450a15e1.png)
+!500
 
 # Floating Rate Loan Cash-Flows
 
-![500](3002a15f421a7d61e0e400da0b298eb5.png)
+!500
 
 # Preferred Perpetual Example: Morgan Stanley
 
-![500](98878c8a473b74952d2ed59d7715d20e.png)
+!500
 
 # Market Participants: Mostly Institutional Players
 
@@ -136,7 +136,7 @@ key_concepts:
 
 # SIFMA: Fixed Income Outstanding and New Issues (2023) IG Bonds Liquidity
 
-![500](b9678fc69c6540872f5e5a8bab084fba.png)
+!500
 
 # Hedging and Related Instruments
 
@@ -146,7 +146,7 @@ key_concepts:
 - CDX credit indices
 - Fixed income ETFs
 
-![500](d1feb0724ae305487f40482ff7403fdb.png)
+!500
 
 # Trading
 
@@ -202,9 +202,9 @@ $$B_0=1+\frac{c-y_{sa}}{y_{sa}}\cdot\left[1-\left(1+\frac{y_{sa}}{2}\right)^{-2T
 
 # Bond Valuation Surface (0 Accrued, T+0 Settle)
 
-![500](b23dd256712e6173f4c764a0110d1921.png)
+!500
 
-![500](46c53c8593e13c304ca92ae1d091c29e.png)
+!500
 
 # Comments
 
@@ -236,9 +236,9 @@ $$B\left(t, y+\Delta y\right)-B\left(t, y\right) \approx -B_{t}\cdot D\cdot\Delt
 ## Yield Convexity: Gamma/Γ = "Weighted Sum of Squared TTMs"
 
 $$\begin{aligned}
-\frac{\partial^2B}{\partial y^2}&=\frac{\partial^2}{\partial y^2}\left[\sum_{i=1}^n c_i\cdot e^{(t-T_i)\cdot y}\right]=\sum_{i=1}^n c_i\cdot\frac{\partial^2}{\partial y^2}\left[e^{(t-T_i)\cdot y}\right] \tag{12}\\
-&=\sum_{i=1}^n c_i\cdot(T_i-t)^2\cdot e^{(t-T_i)\cdot y}=B_t\cdot\sum_{i=1}^n (T_i-t)^2\cdot w_i=B_t\cdot\Gamma\\
-&B\left(t, y+\Delta y\right)-B\left(t, y\right) \approx B_t\cdot\left[-D\cdot\Delta y+\frac{1}{2}\cdot\Gamma\cdot(\Delta y)^2\right] \tag{13}
+\frac{\partial[^2]B}{\partial y[^2]}&=\frac{\partial[^2]}{\partial y[^2]}\left[\sum_{i=1}^n c_i\cdot e^{(t-T_i)\cdot y}\right]=\sum_{i=1}^n c_i\cdot\frac{\partial[^2]}{\partial y[^2]}\left[e^{(t-T_i)\cdot y}\right] \tag{12}\\
+&=\sum_{i=1}^n c_i\cdot(T_i-t)[^2]\cdot e^{(t-T_i)\cdot y}=B_t\cdot\sum_{i=1}^n (T_i-t)[^2]\cdot w_i=B_t\cdot\Gamma\\
+&B\left(t, y+\Delta y\right)-B\left(t, y\right) \approx B_t\cdot\left[-D\cdot\Delta y+\frac{1}{2}\cdot\Gamma\cdot(\Delta y)[^2]\right] \tag{13}
 \end{aligned}$$
 
 ## Summary of Sensitivities (Yield Parametrization)
@@ -254,20 +254,20 @@ $$\frac{\partial^{2}B}{\partial y^{2}}=B_{t}\cdot\Gamma, \quad\Gamma=\sum_{i=1}^
 
 Simple bond price dynamics
 $$\begin{align}
-dB_t &= dB(t, y_t) = \frac{\partial B}{\partial t} \cdot dt + \frac{\partial B}{\partial y} \cdot dy_t + \frac{1}{2} \frac{\partial^2 B}{\partial y^2} \cdot \sigma_y^2 \cdot dt \tag{17} \\
-&= y \cdot B_t \cdot dt - B_t \cdot D \cdot dy_t + \frac{1}{2} \cdot B_t \cdot \Gamma \cdot \sigma_y^2 \cdot dt \\
-\frac{dB_t}{B_t} &= \left( y_t + \frac{1}{2} \cdot \Gamma \cdot \sigma_y^2 \right) \cdot dt - D_t \cdot dy_t \tag{18}
+dB_t &= dB(t, y_t) = \frac{\partial B}{\partial t} \cdot dt + \frac{\partial B}{\partial y} \cdot dy_t + \frac{1}{2} \frac{\partial[^2] B}{\partial y[^2]} \cdot \sigma_y[^2] \cdot dt \tag{17} \\
+&= y \cdot B_t \cdot dt - B_t \cdot D \cdot dy_t + \frac{1}{2} \cdot B_t \cdot \Gamma \cdot \sigma_y[^2] \cdot dt \\
+\frac{dB_t}{B_t} &= \left( y_t + \frac{1}{2} \cdot \Gamma \cdot \sigma_y[^2] \right) \cdot dt - D_t \cdot dy_t \tag{18}
 \end{align}$$
 
 ## Bond Price Dynamics and Drift Components 
 
 Bond Drift Components
 
-$$\mathbb{E}\left[\frac{dB_t}{B_t}\right]/dt = y_t - D \cdot \mathbb{E}\left[\frac{dy_t}{dt}\right] + \frac{1}{2} \cdot \Gamma \cdot \sigma_y^2 \tag{19}$$
+$$\mathbb{E}\left[\frac{dB_t}{B_t}\right]/dt = y_t - D \cdot \mathbb{E}\left[\frac{dy_t}{dt}\right] + \frac{1}{2} \cdot \Gamma \cdot \sigma_y[^2] \tag{19}$$
 
 $$\text{"yield"} + \text{"yield curve roll down"} + \text{"yield convexity"}$$
 
-![500](e6c0c03635bd4c405c38cd4fdd5454c5.png)
+!500
 
 # Credit Spreads and Treasury Benchmarks
 
@@ -277,7 +277,7 @@ $$\text{"yield"} + \text{"yield curve roll down"} + \text{"yield convexity"}$$
 - Credit spreads quantify the risk of credit issuer defaulting to bond maturity
 - Spread to benchmark = market convention for quoting IG bonds
 
-![500](56def999d8659b9d747c2ad62e48475b.png)
+!500
 
 ## Z-Spread Parametrization
 
@@ -299,19 +299,19 @@ $$\Theta = \frac{\partial B}{\partial t} = B_t \cdot \sum_{i=1}^{n} (r_i + s) \c
 $$CS01 = -\frac{\partial B}{\partial s} = B_t \cdot D, \quad D = \sum_{i=1}^{n} (T_i - t) \cdot \omega_i > 0 \tag{24}$$
 
 - Spread Convexity (-1bp change in spread) and Gamma $\Gamma$
-$$\frac{\partial^2 B}{\partial s^2} = B_t \cdot \Gamma, \quad \Gamma = \sum_{i=1}^{n} (T_i - t)^2 \cdot \omega_i > 0 \tag{25}$$
+$$\frac{\partial[^2] B}{\partial s[^2]} = B_t \cdot \Gamma, \quad \Gamma = \sum_{i=1}^{n} (T_i - t)[^2] \cdot \omega_i > 0 \tag{25}$$
 
 ## IR-Hedged Bond Price Dynamics
 
-$$\frac{dB_t}{B_t} = \left(s_t + \frac{1}{2} \cdot \Gamma \cdot \sigma_s^2\right) \cdot dt - D \cdot ds_t \tag{26}$$
+$$\frac{dB_t}{B_t} = \left(s_t + \frac{1}{2} \cdot \Gamma \cdot \sigma_s[^2]\right) \cdot dt - D \cdot ds_t \tag{26}$$
 
-$$\mathbb{E}\left[\frac{dB_t}{B_t}\right]/dt = s_t - D \cdot \mathbb{E}\left[\frac{ds_t}{dt}\right] + \frac{1}{2} \cdot \Gamma \cdot \sigma_s^2 \tag{27}$$
+$$\mathbb{E}\left[\frac{dB_t}{B_t}\right]/dt = s_t - D \cdot \mathbb{E}\left[\frac{ds_t}{dt}\right] + \frac{1}{2} \cdot \Gamma \cdot \sigma_s[^2] \tag{27}$$
 
 $$\text{spread} + \text{spread curve roll down} + \text{spread convexity}$$
 
-![500](14f84088ac66af7dbead4cbf637c79e6.png)
+!500
 
-![500](e0ccd72d68224fff194d1818e62fa391.png)
+!500
 
 # Summary
 

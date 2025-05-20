@@ -204,7 +204,7 @@ $$c=\frac{pc_u+(1-p)c_d}{(1+r)}.$$
 
 In this expression the value of the call option is the present value of a weighted average of the call at maturity, either $c_u$ in the up state, or $c_d$ in the down state. It is tempting to interpret $p$ in this equation as a probability. It is
 
-![500](Attachments/500-114.png)
+!500
 
 Figure 1: THE $\Delta$ OF A CALL OPTION IN THE BINOMIAL MODEL
 
@@ -260,7 +260,7 @@ $$\frac{\frac{1}{2}(95+\frac{25}{2})}{(1+\frac{1}{4})}=43.$$
 The risk neutral valuation method also gives a very simple method of calculating the value of the option at the initial node. The risk neutral probability
 
 of two up movements in the underlying stock is ${\frac{1}{2}}\times{\frac{1}{2}}={\frac{1}{4}}$. The probability of stock ending with a value of 131.25 is the probability of an up movement followed by a down movement plus the probability of a down movement followed by an up movement. Thus the risk neutral probability for this event is ${\frac{1}{2}}\times{\frac{1}{2}}+{\frac{1}{2}}\times{\frac{1}{2}}={\frac{1}{2}}$. Thus the value of the call option can also be evaluated directly as
-$$\frac{\frac{1}{4}(206.25)+\frac{1}{2}(31.25)}{(1+\frac{1}{4})^2}=43.$$
+$$\frac{\frac{1}{4}(206.25)+\frac{1}{2}(31.25)}{(1+\frac{1}{4})[^2]}=43.$$
 
 Likewise the state prices are easily calculated (by dividing the risk neutral probabilities by $(1+r)^{2}=\frac{25}{16}$) to be $q_{uu}=\frac{4}{25}$, $q_{ud}=q_{du}=\frac{8}{25}$ and $q_{dd}=\frac{4}{25}$. Thus the call value could also easily be calculated as
 $$\frac{4}{25}(206.25)+\frac{8}{25}(31.25)=43.$$
@@ -385,7 +385,7 @@ probability that we have $x$ or more than $x$ "up"-states in $n$ periods. This i
 $$B_\pi(x)=\sum_{k=x}^n\binom{n}{k}\pi^k(1-\pi)^{n-k}.$$
 
 For example, if we want to know the probability that we have two or more up states in four periods we have to calculate
-$$\begin{pmatrix}4\\2\end{pmatrix}\pi^2(1-\pi)^2+\begin{pmatrix}4\\3\end{pmatrix}\pi^3(1-\pi)^1+\begin{pmatrix}4\\4\end{pmatrix}\pi^4(1-\pi)^0=6\pi^2(1-\pi)^2+4\pi^3(1-\pi)+\pi^4.$$
+$$\begin{pmatrix}4\\2\end{pmatrix}\pi[^2](1-\pi)[^2]+\begin{pmatrix}4\\3\end{pmatrix}\pi[^3](1-\pi)[^1]+\begin{pmatrix}4\\4\end{pmatrix}\pi[^4](1-\pi)[^0]=6\pi[^2](1-\pi)[^2]+4\pi[^3](1-\pi)+\pi[^4].$$
 
 ### The distribution of the end values
 
@@ -406,22 +406,22 @@ Although complicated in form this is very routine computation that can be made i
 		<tr>
 			<td>$S_0 U^{n}D^{0}$</td>
 			<td>$n$ ups and 0 downs</td>
-			<td>$\pi^n (1-\pi)^0$</td>
+			<td>$\pi^n (1-\pi)[^0]$</td>
 		</tr>
 		<tr>
 			<td>$S_{0}U^{n-1}D^{1}$</td>
 			<td>$n-1$ ups and 1 downs</td>
-			<td>$\pi^{n-1}(1-\pi)^1$</td>
+			<td>$\pi^{n-1}(1-\pi)[^1]$</td>
 		</tr>
 		<tr>
 			<td>$S_{0}U^{n-2}D^{2}$</td>
 			<td>$n-2$ ups and 2 downs</td>
-			<td>$\pi^{n-2}(1-\pi)^2$</td>
+			<td>$\pi^{n-2}(1-\pi)[^2]$</td>
 		</tr>
 		<tr>
 			<td>$S_{0}U^{n-3}D^{3}$</td>
 			<td>$n-3$ ups and 3 downs</td>
-			<td>$\pi^{n-3}(1-\pi)^3$</td>
+			<td>$\pi^{n-3}(1-\pi)[^3]$</td>
 		</tr>
 		<tr>
 			<td>$S_{0}U^{3}D^{n-3}$</td>
@@ -431,17 +431,17 @@ Although complicated in form this is very routine computation that can be made i
 		<tr>
 			<td>$S_{0}U^{2}D^{n-2}$</td>
 			<td>2 ups and $n-2$ downs</td>
-			<td>$\pi^2(1-\pi)^{n-2}$</td>
+			<td>$\pi[^2](1-\pi)^{n-2}$</td>
 		</tr>
 		<tr>
 			<td>$S_{0}U^{1}D^{n-1}$</td>
 			<td>1 ups and $n-1$ downs</td>
-			<td>$\pi^1(1-\pi)^{n-1}$</td>
+			<td>$\pi[^1](1-\pi)^{n-1}$</td>
 		</tr>
 		<tr>
 			<td>$S_{0}U^{0}D^{n}$</td>
 			<td>0 ups and $n$ downs</td>
-			<td>$\pi^0(1-\pi)^n$</td>
+			<td>$\pi[^0](1-\pi)^n$</td>
 		</tr>
 	</tbody>
 </table>
@@ -497,12 +497,12 @@ Suppose we have an asset worth 100 and for two successive periods it increases b
 
 Now suppose that instead the asset increases in the first period by $30\%$ and in the second period by $10\%$. The average or arithmetic mean of the
 return is $20\%$. However the value of the asset is 130 at the end of first period and 143 at the end of the second period. The variability of the return has meant that the asset is worth less after two periods even though the average return is the same. We can calculate the equivalent per period return that would give the same value of 143 after two periods if there were no variance in the returns. That is the value $\nu$ that satisfies
-$$143=100 (1+\nu)^2.$$
+$$143=100 (1+\nu)[^2].$$
 
 This value is known as the geometric mean. It is another measure of the average return over the two periods. Solving this equation gives the geometric mean as $\nu=0.195826$ or 19.58% per period. Which is less than the arithmetic rate of return per period.
 
-There is a simple relationship between the arithmetic mean return, the geometric mean return and the variance of the return. Let $\mu_{1}=\mu+\sigma$ be the rate of return in the first period and let $\mu_{2}=\mu-\sigma$ be the rate of return in the second period. Here the average rate of return is $\frac{1}{2}(\mu_{1}+\mu_{2})=\mu$ and the variance of the two rates is $\sigma^{2}$. The geometric rate of return $\nu$ satisfies $(1+\nu)^2=(1+\mu_{1})(1+\mu_{2})$. Substituting and expanding this gives
-$$1+2\nu+\nu^2=(1+\mu+\sigma)(1+\mu-\sigma)=(1+\mu)^2-\sigma^2=1+2\mu+\mu^2-\sigma^2$$
+There is a simple relationship between the arithmetic mean return, the geometric mean return and the variance of the return. Let $\mu_{1}=\mu+\sigma$ be the rate of return in the first period and let $\mu_{2}=\mu-\sigma$ be the rate of return in the second period. Here the average rate of return is $\frac{1}{2}(\mu_{1}+\mu_{2})=\mu$ and the variance of the two rates is $\sigma^{2}$. The geometric rate of return $\nu$ satisfies $(1+\nu)[^2]=(1+\mu_{1})(1+\mu_{2})$. Substituting and expanding this gives
+$$1+2\nu+\nu[^2]=(1+\mu+\sigma)(1+\mu-\sigma)=(1+\mu)[^2]-\sigma[^2]=1+2\mu+\mu[^2]-\sigma[^2]$$
 
 Or
 $$\nu=\mu-\frac{1}{2}\sigma^{2}+\frac{1}{2}(\mu^{2}-\nu^{2}).$$
@@ -520,10 +520,10 @@ However the return is less than 144 in three of the four possible ending values.
 
 Consider the two-period model where the up and down factors are $1+\mu+\sigma$ and $1+\mu-\sigma$, the initial value of the asset is $S_{0}$ and both up and down
 movements are equally likely. Then the expected value after two periods is
-$$S_0\left (\frac{1}{4}(1+\mu+\sigma)^2+\frac{1}{2}(1+\mu+\sigma)(1+\mu-\sigma)+\frac{1}{4}(1+\mu-\sigma)^2\right)=S_0 (1+\mu)^2.$$
+$$S_0\left (\frac{1}{4}(1+\mu+\sigma)[^2]+\frac{1}{2}(1+\mu+\sigma)(1+\mu-\sigma)+\frac{1}{4}(1+\mu-\sigma)[^2]\right)=S_0 (1+\mu)[^2].$$
 
 The median value however is
-$$S_0 (1+\mu+\sigma)(1+\mu-\sigma)=S_0\left ((1+\mu)^2-\sigma^2\right)$$
+$$S_0 (1+\mu+\sigma)(1+\mu-\sigma)=S_0\left ((1+\mu)[^2]-\sigma[^2]\right)$$
 
 So that the median is below the mean by an amount equal to the variance. Since we have already shown that $(1+\nu)^{2}=(1+\mu)^{2}-\sigma^{2}$, the median of the end value is just $S_{0}(1+\nu)^{2}$.
 
@@ -537,7 +537,7 @@ Or $(1+\nu)^{2}=(1+\mu+\sigma)(1+\mu-\sigma)$ which is exactly as before. Thus t
 
 ### Example: u=0.75, $d=-0.25$ r=0.25, $X=100$
 
-![500](Attachments/500-117.png)
+!500
 
 Figure 1: FOUR-PERIOD BINOMIAL EXAMPLE
 
@@ -556,10 +556,10 @@ We'll use the simple example we used when discussing the one period binomial mod
 We showed that in determining the price of the option, the probability that the stock price rises of falls was irrelevant. Now however suppose that the true probability of the up state is $\pi$ = 4/5 and the probability of the down state is $(1-\pi)=1/5$. The expected rate of return on the stock is therefore $\mu_{S}=(4/5) 75+(1/5)(-25)=55\%$ and with an interest rate of $25\%$ the excess over the risk-free rate is $\mu_{S}-r=55-25=30\%$. Given that the price of the call is 30, the rate of return on the call option is (75-30)/30 or $150\%$ in the up state and $-100\%$ in the down state. Thus the expected rate of return on the call option is $\mu_{C}=100\%$ and the excess return over the risk-free rate is $\mu_{C}-r=75\%$. Thus the excess return on the call is 2.5 times the excess return on the underlying asset. We know that this extra return will only come at the cost of extra risk.
 
 The standard deviation of the rate of return on the stock is often simply referred to as the stock's volatility. The volatility of the stock is
-$$\sigma_S=\sqrt{\frac{4}{5}(75-55)^2+\frac{1}{5}(-25-55)^2}=40\%$$
+$$\sigma_S=\sqrt{\frac{4}{5}(75-55)[^2]+\frac{1}{5}(-25-55)[^2]}=40\%$$
 
 And the standard deviation of the rate of return on the call option, or the call's volatility is
-$$\sigma_C=\sqrt{\frac{4}{5}(150-100)^2+\frac{1}{5}(-100-100)^2}=100\%.$$
+$$\sigma_C=\sqrt{\frac{4}{5}(150-100)[^2]+\frac{1}{5}(-100-100)[^2]}=100\%.$$
 
 Thus the standard deviation of the call returns is again 2.5 times the standard deviation of the stock returns.
 
@@ -606,7 +606,7 @@ This is seen in Figure 1. In the diagram the call option is always to the right 
 
 If the same analysis is repeated for a put option it is found that $\Delta$ is negative and $B$ is positive. This means that replicating the put option involves
 
-![500](Attachments/500-116.png)
+!500
 
 Figure 1: RISK-RETURN DIAGRAM: $(\sigma, \mu)$
 
@@ -622,7 +622,7 @@ $$\mu_C-r=\Omega\beta_S (\mu_M-r).$$
 
 It can be shown that $\Omega\beta_{S}$ is the covariance of the rate of return of the call with the market divided by the variance of the rate of return of the market, so that the beta of the call is $\beta_{C}=\Omega\beta_{S}$. The option beta is simply the elasticity time the beta of the underlying asset. Provided that $\beta_{S}>0$, since $\Omega>1$ for a call option, it is the case that $\beta_{C}>\beta_{S}$ and the beta for the call is higher than the beta of the underlying asset. This is illustrated in Figure 2 which shows the security market line which plots expected return $\mu$ against $\beta$. The security market line intercepts the vertical axis at $r$ the rate of return on the risk-free asset which is uncorrelated with the market return (as it is risk-less) and hence has a zero beta. Since $\Omega\geq 1$ the call option has a higher $\beta$ than the underlying asset and so lies to the right of the stock on the security market line. Put options on the other hand are anti-correlated with the stock, their value goes up as the stock goes down, so they have a negative $\beta$ and are located to the left of the risk-free asset on the security market line.
 
-![500](Attachments/500-115.png)
+!500
 
 Figure 2: SECURITY MARKET LINE: $(\beta, \mu)$
 
@@ -665,7 +665,7 @@ at maturity is therefore $\max[S_{T}-100, -10]=\max[S_{T}-90, 0]-10$. This then 
 ## Rainbow Options
 
 It is possible to write options on more than one underlying asset. Such options are called rainbow options. For example a put option may specify that you have the option to deliver one from a range of different assets. Clearly if the exercise price is the same for all assets specified, and if you decide to exercise your option to sell, you will choose to deliver that asset with the lowest current price. Thus if there are two assets specified and their prices are $S^{1}$ and $S^{2}$, then the intrinsic value of the put option is
-$$\text{Intrinsic value}=\left\{\begin{array}{ll}X-\min[S^1, S^2]&\text{if }\min[S^1, S^2]\leq X\\0&\text{if }\min[S^1, S^2]>X.\end{array}\right.$$
+$$\text{Intrinsic value}=\left\{\begin{array}{ll}X-\min[S[^1], S[^2]]&\text{if }\min[S[^1], S[^2]]\leq X\\0&\text{if }\min[S[^1], S[^2]]>X.\end{array}\right.$$
 
 ## "As-you-like-it" Options
 

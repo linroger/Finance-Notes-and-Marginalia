@@ -1,5 +1,5 @@
 ---
-title: Financial Markets And Institutions
+title: Financial Markets and Institutions
 tags:
   - banking
   - debt
@@ -8,9 +8,15 @@ tags:
   - intermediation
   - liquidity
   - markets
+  - credit_risk
+  - bankruptcy
+  - capital_markets
+  - risk_management
 aliases:
   - Financial Institutions
   - Financial Markets
+  - Markets and Institutions
+  - Financial Intermediation
 key_concepts:
   - Asset management
   - Banking institutions
@@ -19,23 +25,21 @@ key_concepts:
   - Financial intermediation
   - Financial markets
   - Market liquidity
+  - Borrower-lender conflicts
+  - Agency problems
+  - Credit monitoring
+  - Debt restructuring
+  - Bank runs
+  - Asset liquidity
+cssclasses: academia
 ---
-
-
-
 
 # Financial Markets and Institutions
 
 %% Begin Waypoint %%
-- **[Financial Markets and Institutions](.md)**
-	- [Class Note 1.md .gitFinderDeleted](Class%20Note%201.md%20%0E.gitFinderDeleted)
-	- [Financial Markets and Institutions Lecture Notes](Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md)
-	- [Financial Markets and Institutions](.md)
-	- **[I- Introduction to Financial Markets and Intermediation](I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation.md)**
-	- **[II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts](II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts.md)**
-	- **[III. Liquidity of Assets](III.%20Liquidity%20of%20Assets/III.%20Liquidity%20of%20Assets.md)**
+- Financial Markets and Institutions Lecture Notes
+- **I- Introduction to Financial Markets and Intermediation**
+- **II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts**
+- **III. Liquidity of Assets**
 
 %% End Waypoint %%
-
-Tags: #finance #markets #institutions #banking #debt #derivatives #liquidity #intermediation #assets
-

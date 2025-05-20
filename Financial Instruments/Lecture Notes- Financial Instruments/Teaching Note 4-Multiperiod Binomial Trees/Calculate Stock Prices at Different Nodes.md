@@ -21,36 +21,36 @@ key_concepts:
 
 # Calculate Stock Prices at Different Nodes
 
-- **[Binomial](Teaching%20Note%204-Multiperiod%20[[A%20Real-Life%20Option%20Pricing%20Exercise) Trees]]**
-	- [Financial Instruments]([[A%20Practical%20Guide%20for%20Actuaries%20and%20other%20Business%20Professionals.)/Lecture Notes- [Financial Instruments](../../A%20Practical%20Guide%20for%20Actuaries%20and%20other%20Business%20Professionals..md)/Teaching Note 4-Multiperiod [Binomial](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) Trees/[Binomial](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) Option [Pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)]]
-	- [Binomial Tree]([[Rate%20and%20Price%20Trees) Steps]]
-	- [Calculate Stock Prices at Different Nodes](.md)
-	- [Options Strategies Construction](Options%20Strategies%20Construction.md)
-	- [Binomial](Teaching%20Note%204-Multiperiod%20[[A%20Real-Life%20Option%20Pricing%20Exercise) Trees]]
-	- [Financial Instruments]([[A%20Practical%20Guide%20for%20Actuaries%20and%20other%20Business%20Professionals.)/Lecture Notes/Teaching Note 4-Multiperiod [Binomial](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) Trees/The [Pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of Options and Corporate Liabilities]]
+- **Binomial Trees]]**
+	- Financial Instruments/Lecture Notes- Financial Instruments/Teaching Note 4-Multiperiod Binomial Trees/Binomial Option Pricing]]
+	- Binomial Tree Steps]]
+	- Calculate Stock Prices at Different Nodes
+	- Options Strategies Construction
+	- Binomial Trees]]
+	- Financial Instruments/Lecture Notes/Teaching Note 4-Multiperiod Binomial Trees/The Pricing of Options and Corporate Liabilities]]
 
-To hedge its risk from writing a European call option with an [exercise price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Options.md) of$K = 100$in a [two-period binomial model](../../Financial%20Derivatives%20and%20Quantitative%20Methods/The%20T₁%20-period%20Binomial%20Model.md),  the financial intermediary needs to create a [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) that mirrors the option's payoffs in all states of the world by the end of the periods. We will set up this [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) and determine the initial cost (price of the call option),  the delta ($\Delta$,  the number of shares of the stock to hold),  and the amount of borrowing or lending required (denoted as$B$) at each node.
+To hedge its risk from writing a European call option with an exercise price of$K = 100$in a two-period binomial model,  the financial intermediary needs to create a replicating portfolio that mirrors the option's payoffs in all states of the world by the end of the periods. We will set up this replicating portfolio and determine the initial cost (price of the call option),  the delta ($\Delta$,  the number of shares of the stock to hold),  and the amount of borrowing or lending required (denoted as$B$) at each node.
 
 ## STEP 1: CALCULATE THE STOCK PRICE MOVEMENT
 
 Given:$S_0 = 100$,$u = 1.1$,${} d = \frac{1}{u} = \frac{1}{1.1}=0.90909 {}$,${} r = 5\%$.
 
-[Stock Price](../../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) can move to:
+Stock Price can move to:
 
 - Up:$S_u = S_0 \times u = 100 \times 1.1$,
 - Down:$S_d = S_0 \times d = 100 \times \frac{1}{1.1}$
 
 ## STEP 2: CONSTRUCT THE BINOMIAL TREE
 
-Over two periods,  the [stock price](../../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) can have the following values:
+Over two periods,  the stock price can have the following values:
 
-- $S_{uu} = S_0 \cdot u^2$(up-up),
-- $S_{ud} = S_0 \cdot u \cdot d = S_0$(up-down or down-up,  which is the same because it’s a [binomial](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md)),
-- $S_{dd} = S_0 \cdot d^2$(down-down).
+- $S_{uu} = S_0 \cdot u[^2]$(up-up),
+- $S_{ud} = S_0 \cdot u \cdot d = S_0$(up-down or down-up,  which is the same because it’s a binomial),
+- $S_{dd} = S_0 \cdot d[^2]$(down-down).
 
 ## STEP 3: CALCULATE OPTION PAYOFFS AT EXPIRY
 
-For a European call option with [exercise price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Options.md)$K = 100$,  the payoffs at$t=2$are:
+For a European call option with exercise price$K = 100$,  the payoffs at$t=2$are:
 
 - $C_{uu} = \max(S_{uu} - K,    0)$,
 - $C_{ud} = \max(S_{ud} - K,    0)$,
@@ -66,7 +66,7 @@ Where$C_u$and$C_d$are the option values at the up and down states at$t=1$.
 
 ## STEP 5: SOLVE FOR Δ AND$B$AT EACH NODE
 
-We solve these equations to find$\Delta$and$B$that make the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)'s value at each node at$t=1$match the option's payoff.
+We solve these equations to find$\Delta$and$B$that make the portfolio's value at each node at$t=1$match the option's payoff.
 
 ## STEP 6: CALCULATE THE OPTION PRICE AT$T=0$
 
@@ -79,7 +79,7 @@ Let's now proceed with calculations for the specific values,  starting by calcul
 
 code_interpreter(
 
- Given values S 0 = 100 # Initial [stock price](../../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) u = 1.1 # Up factor d = 1/u # Down factor K = 100 # [Strike price](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) r = 0.05 # [Risk-free rate](../../Black%20Scholes%20Derivation.md)
+ Given values S 0 = 100 # Initial stock price u = 1.1 # Up factor d = 1/u # Down factor K = 100 # Strike price r = 0.05 # Risk-free rate
 
 # Calculate Stock Prices at Different Nodes
 
@@ -121,31 +121,31 @@ The values of$\Delta$and$B$for replicating the option's payoff at$t=1$are as fol
 - $\Delta = 0.5475$,
 - $B = -43.0942$.
 
-Now,  we know how many shares the intermediary needs to hold and how much they need to borrow or lend to create a [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) with the same payoff as the call option at$t=1$.
+Now,  we know how many shares the intermediary needs to hold and how much they need to borrow or lend to create a replicating portfolio with the same payoff as the call option at$t=1$.
 
 ## STEP 8: CALCULATE THE OPTION PRICE AT$T=0$
 
-To calculate the price of the option at$t=0$,  we now find the expected option value at each node discounted back at the [risk-free rate](../../Black%20Scholes%20Derivation.md),  since we've established the [replication](../../Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) at$t=1$. However,  since we know the$\Delta$and$B$that replicates the option's payoff from the future back to$t=0$,  we can use these values directly to find the price of the option at$t=0$. We apply the equation:
+To calculate the price of the option at$t=0$,  we now find the expected option value at each node discounted back at the risk-free rate,  since we've established the replication at$t=1$. However,  since we know the$\Delta$and$B$that replicates the option's payoff from the future back to$t=0$,  we can use these values directly to find the price of the option at$t=0$. We apply the equation:
 $$C_0 = \Delta \cdot S_0 + B \cdot (1 + r)$$
 
 Let's calculate$C_0$,  the price of the call option at$t=0$.
 
 code_interpreter(
 
-Calculate C0 using the values of Delta and B found and the initial [stock price](../../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) S_{0}
+Calculate C0 using the values of Delta and B found and the initial stock price S_{0}
 C0 = Delta_solution[0] * S_{0} + B_solution[0] * (1 + r) C0)
 
-9.50226244343888
+[^9]: 50226244343888
 
-[Quantitative Finance](../../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) Savant
+Quantitative Finance Savant
 
-The price of the European call option at$t=0$in this [two-period binomial model](../../Financial%20Derivatives%20and%20Quantitative%20Methods/The%20T₁%20-period%20Binomial%20Model.md) is approximately$9.50$. This represents the initial cost of the call option,  determined by setting up a [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) that matches the option's payoffs.
+The price of the European call option at$t=0$in this two-period binomial model is approximately$9.50$. This represents the initial cost of the call option,  determined by setting up a replicating portfolio that matches the option's payoffs.
 
-Here’s a summary of the [hedging strategy](../Teaching%20Note%203%20Swaps-%20Financial%20Instruments/The%20Value%20of%20the%20Swap%20Contract%20after%20Initiation.md):
+Here’s a summary of the hedging strategy:
 
-1. **At time$t=0$**,  to hedge the risk from writing the call,  the financial intermediary should:
+[^1]: **At time$t=0$**,  to hedge the risk from writing the call,  the financial intermediary should:
 	 - Buy$\Delta = 0.5475$shares of the stock,  and
-	 - Borrow$B = -43.0942$units of [currency](../Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) (considering the negative sign as borrowing).
-1. **At time$t=1$**,  depending on whether the [stock price](../../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) moves up or down,  adjust the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) according to the calculated values of$\Delta$and$B$specifically for that node (note that detailed adjustments for$t=1$nodes require further calculations like we did for$t=0$,  involving an expected payoff approach).
+	 - Borrow$B = -43.0942$units of currency (considering the negative sign as borrowing).
+[^1]: **At time$t=1$**,  depending on whether the stock price moves up or down,  adjust the portfolio according to the calculated values of$\Delta$and$B$specifically for that node (note that detailed adjustments for$t=1$nodes require further calculations like we did for$t=0$,  involving an expected payoff approach).
 
-By following this [hedging strategy](../Teaching%20Note%203%20Swaps-%20Financial%20Instruments/The%20Value%20of%20the%20Swap%20Contract%20after%20Initiation.md),  the financial intermediary can create a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) that replicates the payoff of the call option,  thus neutralizing the risk of having sold the option.
+By following this hedging strategy,  the financial intermediary can create a portfolio that replicates the payoff of the call option,  thus neutralizing the risk of having sold the option.

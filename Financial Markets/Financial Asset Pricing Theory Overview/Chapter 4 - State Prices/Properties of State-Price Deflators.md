@@ -19,23 +19,23 @@ key_concepts:
 
 # 4.3 Properties of state-price deflators  
 
-After defining state-price deflators, two questions arise naturally: When does a [state-price deflator](Exercises.md) exist? When is it unique? We will answer these questions in the two following subsections..  
+After defining state-price deflators, two questions arise naturally: When does a state-price deflator exist? When is it unique? We will answer these questions in the two following subsections..  
 
 # 4.3.1 Existence  
 
 Here is the answer to the existence question:  
 
-Theorem 4.1 A [state-price deflator](Exercises.md) exists if and only if prices admit no [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md).  
+Theorem 4.1 A state-price deflator exists if and only if prices admit no arbitrage.  
 
-Since we have already concluded that we should only consider no-[arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) prices, we can safely assume the existence of a [state-price deflator](Exercises.md)..  
+Since we have already concluded that we should only consider no-arbitrage prices, we can safely assume the existence of a state-price deflator..  
 
-Let us take the easy part of the proof first: if a [state-price deflator](Exercises.md) exists, prices do not admit [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). Let us just think of the [one-period framework](.md) so that the [state-price deflator](Exercises.md) is a strictly positive random variable and the price of a random dividend of $D_{i}$ is $P_{i}=\operatorname{E}[\zeta D_{i}]$ . If $D_{i}$ is nonnegative in all states, it is clear that $\zeta D_{i}$ will be non-negative in all states and, consequently, the expectation of $\zeta D_{i}$ will be non-negative. This rules out [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of type (i), cf. the definition of [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) in Section 3.4. If, furthermore, the set of states $A=\{\omega\in\Omega:D_{i}(\omega)>0\}$ has strictly positive probability, it is clear that $\zeta D_{i}$ will be strictly positive on a set of strictly positive probability and otherwise non-negative, so the expectation of $\zeta D_{i}$ must be strictly positive. This rules out type (ii) [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). The same argument applies to the [discrete-time framework](Multi-Period%20Valuation%20Models.md). In the [continuous-time setting](../Chapter%206%20-%20Individual%20optimality/The%20Continuous-Time%20Framework.md) the argument should be slightly adjusted in order to incorporate the lower bound on the value process that will rule out doubling strategies. It is not terribly difficult, but involves local martingales and super-martingales which we will not discuss here. The interested reader is referred to Duffie (2001, p. 105).  
+Let us take the easy part of the proof first: if a state-price deflator exists, prices do not admit arbitrage. Let us just think of the one-period framework so that the state-price deflator is a strictly positive random variable and the price of a random dividend of $D_{i}$ is $P_{i}=\operatorname{E}[\zeta D_{i}]$ . If $D_{i}$ is nonnegative in all states, it is clear that $\zeta D_{i}$ will be non-negative in all states and, consequently, the expectation of $\zeta D_{i}$ will be non-negative. This rules out arbitrage of type (i), cf. the definition of arbitrage in Section 3.4. If, furthermore, the set of states $A=\{\omega\in\Omega:D_{i}(\omega)>0\}$ has strictly positive probability, it is clear that $\zeta D_{i}$ will be strictly positive on a set of strictly positive probability and otherwise non-negative, so the expectation of $\zeta D_{i}$ must be strictly positive. This rules out type (ii) arbitrage. The same argument applies to the discrete-time framework. In the continuous-time setting the argument should be slightly adjusted in order to incorporate the lower bound on the value process that will rule out doubling strategies. It is not terribly difficult, but involves local martingales and super-martingales which we will not discuss here. The interested reader is referred to Duffie (2001, p. 105).  
 
-How can we show the other and more important implication that no [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) guarantees the. existence of a state-price vector or [state-price deflator](Exercises.md)? In Chapter 6 we will do that by constructing. a [state-price deflator](Exercises.md) from the solution to the [utility maximization problem](.md) of any individual. The solution will only exist in [absence of arbitrage](Exercises.md). It is possible to prove the existence of a [state-price deflator](Exercises.md) without formally introducing individuals and solving their [utility maximization](../Chapter%201%20-%20Introduction%20and%20Overview/Prerequisites.md) problems.. The alternative proof is based on the so-called [Separating Hyperplane Theorem](.md) and involves no. economics.  
+How can we show the other and more important implication that no arbitrage guarantees the. existence of a state-price vector or state-price deflator? In Chapter 6 we will do that by constructing. a state-price deflator from the solution to the utility maximization problem of any individual. The solution will only exist in absence of arbitrage. It is possible to prove the existence of a state-price deflator without formally introducing individuals and solving their utility maximization problems.. The alternative proof is based on the so-called Separating Hyperplane Theorem and involves no. economics.  
 
-In the [one-period framework](.md) with a finite state space $\Omega=\{1,2,\dots,S\}$ , the alternative argument goes as follows. A given [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). $\pmb{\theta}$ has an initial dividend of $-{\cal P}^{\theta}$ and a terminal dividend given by the $S$ dimensional vector $D^{\theta}$ . Let $M$ denote the set of all. $(S+1)$ dimensional pairs $(-P^{\theta},D^{\theta})$ that is generated by all portfolios, i.e. all $\pmb\theta\in\mathbb{R}^{I}$ . Observe that $M$ is a closed and convex subset of. $L\equiv\mathbb{R}\times\mathbb{R}^{S}$ . Let $K$ be the positive orthant of $L$ , i.e. $K\equiv\mathbb{R}_{+}\times\mathbb{R}_{+}^{S}$ , where $\mathbb{R}_{+}=[0,\infty)$ $K$ is also a closed and convex subset of. $L$ . Note that there is no [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) if and only if the only common element of $K$ and $M$ is the zero element. $(0,\mathbf{0})$  
+In the one-period framework with a finite state space $\Omega=\{1,2,\dots,S\}$ , the alternative argument goes as follows. A given portfolio. $\pmb{\theta}$ has an initial dividend of $-{\cal P}^{\theta}$ and a terminal dividend given by the $S$ dimensional vector $D^{\theta}$ . Let $M$ denote the set of all. $(S+1)$ dimensional pairs $(-P^{\theta},D^{\theta})$ that is generated by all portfolios, i.e. all $\pmb\theta\in\mathbb{R}^{I}$ . Observe that $M$ is a closed and convex subset of. $L\equiv\mathbb{R}\times\mathbb{R}^{S}$ . Let $K$ be the positive orthant of $L$ , i.e. $K\equiv\mathbb{R}_{+}\times\mathbb{R}_{+}^{S}$ , where $\mathbb{R}_{+}=0,\infty)$ $K$ is also a closed and convex subset of. $L$ . Note that there is no [arbitrage if and only if the only common element of $K$ and $M$ is the zero element. $(0,\mathbf{0})$  
 
-Assume no [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), i.e. $K\cap M=\{(0,\mathbf{0})\}$ . By the [Separating Hyperplane Theorem](.md) (see, e.g., Rockafellar 1970) there exists a non-zero linear functional $F:L\rightarrow\mathbb{R}$ with the property that $F(z)=0$ for all $z\in M$ and $F(x)>0$ for all non-zero $x\in K$ .Hence, we can find a strictly positive $\varphi_{0}$ in $\mathbb{R}$ and an $S$ -dimensional vector $\varphi$ with strictly positive elements such that $F(d_{0},d)=\varphi_{0}d_{0}+\varphi\cdot d$ for all $(d_{0},d)$ in $L$ . Since $(-P^{\theta},D^{\theta})\in M$ for any [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) $\pmb{\theta}$ , we have that  
+Assume no arbitrage, i.e. $K\cap M=\{(0,\mathbf{0})\}$ . By the Separating Hyperplane Theorem (see, e.g., Rockafellar 1970) there exists a non-zero linear functional $F:L\rightarrow\mathbb{R}$ with the property that $F(z)=0$ for all $z\in M$ and $F(x)>0$ for all non-zero $x\in K$ .Hence, we can find a strictly positive $\varphi_{0}$ in $\mathbb{R}$ and an $S$ -dimensional vector $\varphi$ with strictly positive elements such that $F(d_{0},d)=\varphi_{0}d_{0}+\varphi\cdot d$ for all $(d_{0},d)$ in $L$ . Since $(-P^{\theta},D^{\theta})\in M$ for any portfolio $\pmb{\theta}$ , we have that  
 $$
 0=F(-{\cal P}^{\theta},{\cal D}^{\theta})=-\varphi_{0}{\cal P}^{\theta}+\varphi\cdot{\cal D}^{\theta},
 $$  
@@ -47,40 +47,40 @@ $$
 
 The vector $\psi=\varphi/\varphi_{0}$ is therefore a state-price vector.  
 
-Just assuming that prices obey the [law of one price](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) would give us a vector. $\psi$ satisfying ${\pmb{\psi}}{\cdot}{\pmb{D}}_{i}={\pmb{P}}_{i}$ for all $i$ . Imposing the stronger no-[arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) condition ensures us that we can find a strictly positive vector $\psi$ with that property, i.e. a state-price vector. Dividing by state probabilities, $\zeta_{\omega}=\psi_{\omega}/p_{\omega}$ we obtain a [state-price deflator](Exercises.md).  
+Just assuming that prices obey the law of one price would give us a vector. $\psi$ satisfying ${\pmb{\psi}}{\cdot}{\pmb{D}}_{i}={\pmb{P}}_{i}$ for all $i$ . Imposing the stronger no-arbitrage condition ensures us that we can find a strictly positive vector $\psi$ with that property, i.e. a state-price vector. Dividing by state probabilities, $\zeta_{\omega}=\psi_{\omega}/p_{\omega}$ we obtain a state-price deflator.  
 
 Example 4.3 Consider again the market in Example 3.1 and ignore asset 4, which is redundant. Suppose the market prices of the three remaining assets are 1.1, 2.2, and 0.6, respectively. Can you find a state-price vector $\psi$ ? The only candidate is the solution to the equation system $\underline{{\underline{{D}}}}\boldsymbol{\psi}=P$ i.e.  
 $$
 \psi=\left(\underline{{\underline{{D}}}}\right)^{-1}P={\left(\begin{array}{l l l}{1}&{1}&{1}\ {0}&{1}&{2}\ {4}&{0}&{1}\end{array}\right)}^{-1}{\left(\begin{array}{l}{1.1}\ {2.2}\ {0.6}\end{array}\right)}={\left(\begin{array}{l}{-0.1}\ {0.2}\ {1}\end{array}\right)},
 $$  
 
-which is not strictly positive. Hence there is no state-price vector for this market. Then there must be an [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), but where? We can see that the three assets are priced such that the implicit value of an Arrow-Debreu asset for state 1 is negative. The [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of the three assets that replicates this Arrow-Debreu asset is given by  
+which is not strictly positive. Hence there is no state-price vector for this market. Then there must be an arbitrage, but where? We can see that the three assets are priced such that the implicit value of an Arrow-Debreu asset for state 1 is negative. The portfolio of the three assets that replicates this Arrow-Debreu asset is given by  
 $$
 \pmb{\theta}=\left(\underline{{\underline{{D}}}}^{\top}\right)^{-1}\pmb{e}_{1}=\left(\begin{array}{c c c}{0.2}&{1.6}&{-0.8}\ {-0.2}&{-0.6}&{0.8}\ {0.2}&{-0.4}&{0.2}\end{array}\right)\left(\begin{array}{c}{1}\ {0}\ {0}\ {0}\end{array}\right)=\left(\begin{array}{c}{0.2}\ {-0.2}\ {0.2}\end{array}\right),
 $$  
 
 which indeed has a price of. $0.2\cdot1.1-0.2\cdot2.2+0.2\cdot0.6=-0.1$ . You get 0.1 today for an asset that.   
-pays you one if state 1 is realized and nothing in other states. This is clearly an [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md).  
+pays you one if state 1 is realized and nothing in other states. This is clearly an arbitrage.  
 
 # 4.3.2 Uniqueness  
 
 Here is a general result on the uniqueness of state-price deflators:  
 
-Theorem 4.2 Assume prices admit no [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). Then there is a unique [state-price deflator](Exercises.md) if and only if the market is complete. If the market is incomplete, several state-price deflators exist.  
+Theorem 4.2 Assume prices admit no arbitrage. Then there is a unique state-price deflator if and only if the market is complete. If the market is incomplete, several state-price deflators exist.  
 
-In a [one-period framework](.md) the theorem can be explained as follows. In the [absence of arbitrage](Exercises.md), some [state-price deflator](Exercises.md) $\zeta$ exists. If $\varepsilon$ is a random variable with $\mathrm{E}[\varepsilon D_{i}]=0$ for all $i$ , then  
+In a one-period framework the theorem can be explained as follows. In the absence of arbitrage, some state-price deflator $\zeta$ exists. If $\varepsilon$ is a random variable with $\mathrm{E}[\varepsilon D_{i}]=0$ for all $i$ , then  
 $$
 \operatorname{E}[(\zeta+\varepsilon)D_{i}]=\operatorname{E}[\zeta D_{i}]+\operatorname{E}[\varepsilon D_{i}]=\operatorname{E}[\zeta D_{i}]=P_{i}.
 $$  
 
-If $\varepsilon$ is strictly positive with finite variance, then. $\zeta+\varepsilon$ will be a valid [state-price deflator](Exercises.md). When can we find such an. $\varepsilon$ ? If the market is complete, the dividends of the basic assets span all random variables so it will be impossible to find a random variable. $\varepsilon$ not identically equal to zero with. $\mathrm{E}[\varepsilon D_{i}]=0$ . Therefore $\zeta$ must be the only [state-price deflator](Exercises.md).  
+If $\varepsilon$ is strictly positive with finite variance, then. $\zeta+\varepsilon$ will be a valid state-price deflator. When can we find such an. $\varepsilon$ ? If the market is complete, the dividends of the basic assets span all random variables so it will be impossible to find a random variable. $\varepsilon$ not identically equal to zero with. $\mathrm{E}[\varepsilon D_{i}]=0$ . Therefore $\zeta$ must be the only state-price deflator.  
 
-Let us be a bit more precise. Consider, for simplicity, a [one-period framework](.md) with a finite state space and look for a state-price vector. $\psi$ , i.e. a strictly positive solution to the equation system. $\underline{{\underline{{D}}}}\boldsymbol{\psi}=P$ . If the market is complete and there are no [redundant assets](Exercises.md), the dividend matrix $\underline{{\underline{{\boldsymbol{D}}}}}$ is an $S\times S$ [non-singular matrix](../Chapter%201%20-%20Introduction%20and%20Overview/Prerequisites.md) so the only solution to the equation system is.  
+Let us be a bit more precise. Consider, for simplicity, a one-period framework with a finite state space and look for a state-price vector. $\psi$ , i.e. a strictly positive solution to the equation system. $\underline{{\underline{{D}}}}\boldsymbol{\psi}=P$ . If the market is complete and there are no redundant assets, the dividend matrix $\underline{{\underline{{\boldsymbol{D}}}}}$ is an $S\times S$ non-singular matrix so the only solution to the equation system is.  
 $$
 \psi^{*}=\underline{{\underline{{D}}}}^{-1}P.
 $$  
 
-If there are [redundant assets](Exercises.md), they will be uniquely priced by no-[arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) so it will be sufficient to look for solutions to. $\underline{{\hat{D}}}\psi=\hat{P}$ , where $\underline{{\underline{{\hat{D}}}}}$ is the dividend matrix and. $\hat{P}$ the price vector of the. [non-redundant assets](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Marketed%20Dividends%20and%20Market%20Completeness.md). In the case of a complete market the matrix. $\underline{{\underline{{\hat{D}}}}}$ is non-singular. The unique. solution to the equation system is then  
+If there are redundant assets, they will be uniquely priced by no-arbitrage so it will be sufficient to look for solutions to. $\underline{{\hat{D}}}\psi=\hat{P}$ , where $\underline{{\underline{{\hat{D}}}}}$ is the dividend matrix and. $\hat{P}$ the price vector of the. non-redundant assets. In the case of a complete market the matrix. $\underline{{\underline{{\hat{D}}}}}$ is non-singular. The unique. solution to the equation system is then  
 $$
 \boldsymbol{\psi}^{*}=\underline{{\underline{{\hat{D}}}}}^{-1}\hat{\boldsymbol{P}}.
 $$  
@@ -95,9 +95,9 @@ $$
 \underline{{\underline{{\hat{D}}}}}\boldsymbol{\psi}^{*}=\underline{{\underline{{\hat{D}}}}}\underline{{\underline{{\hat{D}}}}}^{\top}\left(\underline{{\underline{{\hat{D}}}}}\underline{{\underline{{\hat{D}}}}}^{\top}\right)^{-1}\hat{\boldsymbol{P}}=\hat{\boldsymbol{P}}.
 $$  
 
-If $\psi^{*}$ is strictly positive, we can therefore conclude that it will be a state-price vector. Note that. $\psi^{*}$ is in fact exactly equal to the dividend generated by the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). $\hat{\pmb{\theta}}^{*}=\left(\underline{{\hat{D}}}\underline{{\hat{D}}}^{\top}\right)^{-1}\hat{\pmb{P}}$ , i.e. if $\psi^{*}$ is strictly positive, it is a state-price vector in the set of [marketed dividend](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Marketed%20Dividends%20and%20Market%20Completeness.md) vectors.  
+If $\psi^{*}$ is strictly positive, we can therefore conclude that it will be a state-price vector. Note that. $\psi^{*}$ is in fact exactly equal to the dividend generated by the portfolio. $\hat{\pmb{\theta}}^{*}=\left(\underline{{\hat{D}}}\underline{{\hat{D}}}^{\top}\right)^{-1}\hat{\pmb{P}}$ , i.e. if $\psi^{*}$ is strictly positive, it is a state-price vector in the set of marketed dividend vectors.  
 
-In the special case of a complete and [arbitrage-free market](Exercises.md) the elements of $\psi^{*}$ will be strictly positive. Why? Since the market is complete, we can construct an Arrow-Debrey asset for any state. The dividend vector of the Arrow-Debreu asset for state $\omega$ is $\begin{array}{r}{\pmb{e}_{\omega}=(0,\ldots,0,1,0,\ldots,0)^{\top}}\end{array}$ where the 1 is the $\omega$ 'th element of the vector. The price of this [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is. $\pmb{\psi}^{*}\cdot\pmb{e}_{\omega}=\psi_{\omega}^{*}$ . To avoid [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), $\psi_{\omega}^{*}$ must be strictly positive. This argument works for all. $\omega=1,\ldots,S$ . Hence, $\psi^{*}$ is a state-price vector if the market is complete..  
+In the special case of a complete and arbitrage-free market the elements of $\psi^{*}$ will be strictly positive. Why? Since the market is complete, we can construct an Arrow-Debrey asset for any state. The dividend vector of the Arrow-Debreu asset for state $\omega$ is $\begin{array}{r}{\pmb{e}_{\omega}=(0,\ldots,0,1,0,\ldots,0)^{\top}}\end{array}$ where the 1 is the $\omega$ 'th element of the vector. The price of this portfolio is. $\pmb{\psi}^{*}\cdot\pmb{e}_{\omega}=\psi_{\omega}^{*}$ . To avoid arbitrage, $\psi_{\omega}^{*}$ must be strictly positive. This argument works for all. $\omega=1,\ldots,S$ . Hence, $\psi^{*}$ is a state-price vector if the market is complete..  
 
 In fact, if the market is complete,. $\psi^{*}$ is the only state-price vector. Suppose that both. $\psi^{*}$ and $\psi^{**}$ are state-price vectors. That $\psi^{*}$ is a state-price vector implies that the price of the ArrowDebreu asset for state. $\omega$ is $\pmb{\psi}^{*}\cdot\pmb{e}_{\omega}=\psi_{\omega}^{*}$ . That $\psi^{**}$ is a state-price vector implies that the price. of the Arrow-Debreau asset for state $\omega$ is $\pmb{\psi}^{**}\cdot\pmb{e}_{\omega}=\psi_{\omega}^{**}$ . Hence, we can conclude that. $\psi_{\omega}^{*}=\psi_{\omega}^{**}$ This argument works for any $\omega$ . Therefore the two vectors $\psi^{*}$ and $\psi^{**}$ are identical.  
 
@@ -106,12 +106,12 @@ $$
 \boldsymbol{\zeta}^{*}=\underline{{\hat{\boldsymbol{D}}}}^{\top}\left(\mathrm{E}\left[\hat{\boldsymbol{D}}\hat{\boldsymbol{D}}^{\top}\right]\right)^{-1}\hat{\boldsymbol{P}}.
 $$  
 
-To see the meaning of this, let us for simplicity assume that none of the basic assets are redundant so that $\zeta^{*}=\underline{{\underline{{D}}}}^{\top}\left(\operatorname{E}\left[D D^{\top}\right]\right)^{-1}P$ . Recall that $_D$ is the $I$ -dimensional random variable for which the $i$ th component is given by the random dividend of asset $i$ . Hence, $D D^{\top}$ is an $I\times I$ matrix of random variables with the $(i,j)$ 'th entry given by $D_{i}D_{j}$ , i.e. the product of the random dividend of asset $i$ and the random dividend of asset $j$ . The expectation of a matrix of random variables is equal to the matrix of [expectations](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) of the individual random variables. So $\operatorname{E}\left[D D^{+}\right]$ is also an $I\times I$ matrix. For the general case we see from the definition that $\zeta^{\ast}$ is in fact the dividend vector generated by the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
+To see the meaning of this, let us for simplicity assume that none of the basic assets are redundant so that $\zeta^{*}=\underline{{\underline{{D}}}}^{\top}\left(\operatorname{E}\left[D D^{\top}\right]\right)^{-1}P$ . Recall that $_D$ is the $I$ -dimensional random variable for which the $i$ th component is given by the random dividend of asset $i$ . Hence, $D D^{\top}$ is an $I\times I$ matrix of random variables with the $(i,j)$ 'th entry given by $D_{i}D_{j}$ , i.e. the product of the random dividend of asset $i$ and the random dividend of asset $j$ . The expectation of a matrix of random variables is equal to the matrix of expectations of the individual random variables. So $\operatorname{E}\left[D D^{+}\right]$ is also an $I\times I$ matrix. For the general case we see from the definition that $\zeta^{\ast}$ is in fact the dividend vector generated by the portfolio  
 $$
 \hat{\pmb{\theta}}^{*}=\left(\mathrm{E}\left[\hat{D}\hat{D}^{\top}\right]\right)^{-1}\hat{P}
 $$  
 
-of the [non-redundant assets](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Marketed%20Dividends%20and%20Market%20Completeness.md). We can think of $\zeta^{*}$ as a random variable $\zeta^{\ast}$ given by  
+of the non-redundant assets. We can think of $\zeta^{*}$ as a random variable $\zeta^{\ast}$ given by  
 $$
 \boldsymbol{\zeta^{*}}=\boldsymbol{\hat{D}}^{\top}\left(\mathrm{E}\left[\boldsymbol{\hat{D}}\boldsymbol{\hat{D}}^{\top}\right]\right)^{-1}\boldsymbol{\hat{P}}.
 $$  
@@ -121,9 +121,9 @@ $$
 \operatorname{E}\left[{\hat{D}}\zeta^{*}\right]=\operatorname{E}\left[{\hat{D}}{\hat{D}}^{\top}\left(\operatorname{E}\left[{\hat{D}}{\hat{D}}^{\top}\right]\right)^{-1}{\hat{P}}\right]=\operatorname{E}\left[{\hat{D}}{\hat{D}}^{\top}\right]\left(\operatorname{E}\left[{\hat{D}}{\hat{D}}^{\top}\right]\right)^{-1}{\hat{P}}={\hat{P}}.
 $$  
 
-It follows that $\zeta^{\ast}$ is a [state-price deflator](Exercises.md) if it takes only strictly positive values. It can be shown. that no other [state-price deflator](Exercises.md) can be written as the dividend of a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of traded assets. In a complete market, $\zeta^{*}$ will be a [state-price deflator](Exercises.md) and it will be unique..  
+It follows that $\zeta^{\ast}$ is a state-price deflator if it takes only strictly positive values. It can be shown. that no other state-price deflator can be written as the dividend of a portfolio of traded assets. In a complete market, $\zeta^{*}$ will be a state-price deflator and it will be unique..  
 
-Recall that there is a one-to-one relation between state-price vectors and state-price deflators. In general $\zeta^{*}$ is not the [state-price deflator](Exercises.md) associated with. $\psi^{*}$ . However, this will be so if the market. is complete. To see this, let $\mathrm{diag}(\pmb{p})$ denote the diagonal $S\times S$ matrix with the state probabilities. along the diagonal and zeros away from the diagonal. In general,. $\operatorname{E}\left[\hat{D}\hat{D}^{\top}\right]=\underline{{\hat{D}}}\mathrm{diag}(\pmb{p})\underline{{\hat{D}}}^{\top}$ and the state-price vector associated with a given [state-price deflator](Exercises.md). $\zeta$ is $\mathrm{diag}(\pmb{p})\zeta$ , cf. (4.19). With a complete market, $\underline{{\underline{{\hat{D}}}}}$ is a non-singular $S\times S$ matrix so  
+Recall that there is a one-to-one relation between state-price vectors and state-price deflators. In general $\zeta^{*}$ is not the state-price deflator associated with. $\psi^{*}$ . However, this will be so if the market. is complete. To see this, let $\mathrm{diag}(\pmb{p})$ denote the diagonal $S\times S$ matrix with the state probabilities. along the diagonal and zeros away from the diagonal. In general,. $\operatorname{E}\left[\hat{D}\hat{D}^{\top}\right]=\underline{{\hat{D}}}\mathrm{diag}(\pmb{p})\underline{{\hat{D}}}^{\top}$ and the state-price vector associated with a given state-price deflator. $\zeta$ is $\mathrm{diag}(\pmb{p})\zeta$ , cf. (4.19). With a complete market, $\underline{{\underline{{\hat{D}}}}}$ is a non-singular $S\times S$ matrix so  
 $$
 \begin{array}{c}{{\zeta^{*}=\underline{{\hat{D}}}^{\top}\left(\mathrm{E}\left[\hat{\pmb{D}}\hat{\pmb{D}}^{\top}\right]\right)^{-1}\hat{\pmb{P}}=\underline{{\hat{D}}}^{\top}\left[\underline{{\hat{D}}}\mathrm{diag}(\pmb{p})\underline{{\hat{D}}}^{\top}\right]^{-1}\hat{\pmb{P}}}}\ {{=\underline{{\hat{D}}}^{\top}\left(\underline{{\hat{D}}}^{\top}\right)^{-1}[\mathrm{diag}(\pmb{p})]^{-1}\underline{{\hat{D}}}^{-1}\hat{\pmb{P}}=[\mathrm{diag}(\pmb{p})]^{-1}\underline{{\hat{D}}}^{-1}\hat{\pmb{P}},}}\end{array}
 $$  
@@ -133,16 +133,16 @@ $$
 \mathrm{diag}(\pmb{p})\pmb{\zeta}^{*}=\underline{{\hat{D}}}^{-1}\hat{\pmb{P}}=\pmb{\psi}^{*}.
 $$  
 
-If the market is complete and [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free we have identified the unique state-price vector $\psi^{*}$ and the unique [state-price deflator](Exercises.md) $\zeta^{*}$ .But it is important to realize the following: $\psi^{*}$ and $\zeta^{*}$ are defined in terms of the prices of the basic assets. Observing the prices and state-contingent dividends of the basic assets, we can extract the [state-price deflator](Exercises.md). If you want to compute prices of the basic assets from their state-contingent dividends, $\psi^{*}$ and $\zeta^{*}$ are not useful. We need to add more structure to link the state-price vector and deflator to other variables, e.g. the consumption and [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) decisions of the individuals in the economy. This is what concrete [asset pricing models](../../../Financial%20Engineering/Financial%20Mathematics%20Course.md) have to do. Further discussions of $\zeta^{*}$ and what we can learn about state prices from observed prices or [returns](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) follow later in this chapter.  
+If the market is complete and arbitrage-free we have identified the unique state-price vector $\psi^{*}$ and the unique state-price deflator $\zeta^{*}$ .But it is important to realize the following: $\psi^{*}$ and $\zeta^{*}$ are defined in terms of the prices of the basic assets. Observing the prices and state-contingent dividends of the basic assets, we can extract the state-price deflator. If you want to compute prices of the basic assets from their state-contingent dividends, $\psi^{*}$ and $\zeta^{*}$ are not useful. We need to add more structure to link the state-price vector and deflator to other variables, e.g. the consumption and portfolio decisions of the individuals in the economy. This is what concrete asset pricing models have to do. Further discussions of $\zeta^{*}$ and what we can learn about state prices from observed prices or returns follow later in this chapter.  
 
 Example 4.4 Consider again the complete market first studied in Example 3.1. We ignore asset 4, which is in any case redundant, and let $\underline{{\underline{{\boldsymbol{D}}}}}$ be the dividend matrix and $_{P}$ the price vector of the first three assets. If we assume that $P=(0.8,0.8,1.5)^{\top}$ , we can compute the unique state-price vector $\psi^{*}$ as  
 $$
 \psi^{*}=\underline{{\underline{{D}}}}^{-1}P=\left(\begin{array}{l l l}{1}&{1}&{1}\ {0}&{1}&{2}\ {4}&{0}&{1}\end{array}\right)^{-1}\left(\begin{array}{l}{0.8}\ {0.8}\ {1.5}\end{array}\right)=\left(\begin{array}{l}{0.3}\ {0.2}\ {0.3}\end{array}\right),
 $$  
 
-which is consistent with the results of Example 4.2. The [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) generating this dividend vector is $\pmb{\theta}^{*}=(0.14,0.06,0.04)^{\top}$  
+which is consistent with the results of Example 4.2. The portfolio generating this dividend vector is $\pmb{\theta}^{*}=(0.14,0.06,0.04)^{\top}$  
 
-Since the market is complete, the unique [state-price deflator](Exercises.md) $\zeta^{*}$ is the one associated with $\psi^{*}$ From Example 4.2, we have $\zeta_{1}^{*}=0.6$ $\zeta_{2}^{*}=0.8$ $\zeta_{3}^{*}=1.2$ . The [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) generating this dividend is $\pmb{\theta}^{*}=(0.44,0.36,0.04)^{\top}$  
+Since the market is complete, the unique state-price deflator $\zeta^{*}$ is the one associated with $\psi^{*}$ From Example 4.2, we have $\zeta_{1}^{*}=0.6$ $\zeta_{2}^{*}=0.8$ $\zeta_{3}^{*}=1.2$ . The portfolio generating this dividend is $\pmb{\theta}^{*}=(0.44,0.36,0.04)^{\top}$  
 
 Suppose now that only assets. $^{1}$ and 2 were traded with the same prices as above, $P_{1}=P_{2}=0.8$ Then  
 $$
@@ -154,45 +154,45 @@ $$
 \begin{array}{r}{\psi^{*}=\underline{{\underline{{D}}}}^{\top}\left(\underline{{\underline{{D}}}}\underline{{\underline{{D}}}}^{\top}\right)^{-1}P=\left(\begin{array}{l}{\frac{4}{15}}\ {\frac{4}{15}}\ {\frac{4}{15},}\end{array}\right),}\end{array}
 $$  
 
-which is strictly positive and therefore a state-price vector. It is the dividend of the [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) that only consists of $4/15\approx0.2667$ units of asset 1. But we can find many other state-price vectors. We have to look for strictly positive solutions $(\psi_{1},\psi_{2},\psi_{3})^{\top}$ of the two equations  
+which is strictly positive and therefore a state-price vector. It is the dividend of the portfolio that only consists of $4/15\approx0.2667$ units of asset 1. But we can find many other state-price vectors. We have to look for strictly positive solutions $(\psi_{1},\psi_{2},\psi_{3})^{\top}$ of the two equations  
 $$
 \psi_{1}+\psi_{2}+\psi_{3}=0.8,\quad\psi_{2}+2\psi_{3}=0.8.
 $$  
 
-Table 4.1: Computation of [expectations](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) for $\zeta^{*}$ in Example 4.4.   
+Table 4.1: Computation of expectations for $\zeta^{*}$ in Example 4.4.   
 
 
 <html><body><table><tr><td></td><td>state 1 state2</td><td>state3</td><td></td></tr><tr><td>probabilities</td><td>0.5 0.25</td><td>0.25</td><td></td></tr><tr><td></td><td>state-contingent values</td><td></td><td>expectation</td></tr><tr><td>D²</td><td>1</td><td>1 1</td><td>1</td></tr><tr><td>D1D2</td><td>0</td><td>1 2</td><td>0.75</td></tr><tr><td>D2</td><td>0 1</td><td>4</td><td>1.25</td></tr></table></body></html>  
 
-Subtracting one equation from the other we see that we need to have. $\psi_{1}=\psi_{3}$ . Any vector of the form $\psi=(a,0.8-2a,a)^{\top}$ with $0<a<0.4$ will be a valid state-price vector. (This includes, of. course, the state-price vector in the three-asset market.) All these vectors will generate the same price on any [marketed dividend](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Marketed%20Dividends%20and%20Market%20Completeness.md) but different prices on non-marketed dividends. For example, the. value of the dividend of asset 3, which we now assume is not traded, will be. ${\boldsymbol{\psi}}\cdot\left(4,0,1\right)^{\top}=5a$ which can be anywhere in the interval $(0,2)$  
+Subtracting one equation from the other we see that we need to have. $\psi_{1}=\psi_{3}$ . Any vector of the form $\psi=(a,0.8-2a,a)^{\top}$ with $0<a<0.4$ will be a valid state-price vector. (This includes, of. course, the state-price vector in the three-asset market.) All these vectors will generate the same price on any marketed dividend but different prices on non-marketed dividends. For example, the. value of the dividend of asset 3, which we now assume is not traded, will be. ${\boldsymbol{\psi}}\cdot\left(4,0,1\right)^{\top}=5a$ which can be anywhere in the interval $(0,2)$  
 
 Let us compute $\zeta^{\ast}$ in the two-asset market. The computations needed for $\mathrm{E}[D D^{\top}]$ are given in Table 4.1. We get  
 $$
 \begin{array}{r l}&{\mathrm{E}[D D^{\top}]=\left(\begin{array}{l l}{1}&{0.75}\ {0.75}&{1.25}\end{array}\right),\quad\mathrm{\mathrm{(E}}[D D^{\top}])^{-1}=\left(\begin{array}{l l}{1.8182}&{-1.0909}\ {-1.0909}&{1.4545}\end{array}\right),}\ &{\theta^{*}=\mathrm{(E}[D D^{\top}])^{-1}P=\left(\begin{array}{l}{0.5818}\ {0.2909}\end{array}\right),\quad\zeta^{*}=\underline{{D}}^{\top}\theta^{*}=\left(\begin{array}{l}{0.5818}\ {0.8727}\ {1.1636}\end{array}\right).}\end{array}
 $$  
 
-Since $\zeta^{*}>0$ , it is a valid [state-price deflator](Exercises.md). (Note that this is not the [state-price deflator](Exercises.md) associated with the state-price vector $\psi^{*}$ computed above.) We have infinitely many state-price. deflators for this market. Given any state-price vector. $\psi=(a,0.8-2a,a)^{\top}$ for $0<a<0.4$ , the associated [state-price deflator](Exercises.md) is given by $\zeta_{\omega}=\psi_{\omega}/p_{\omega}$ , i.e.  
+Since $\zeta^{*}>0$ , it is a valid state-price deflator. (Note that this is not the state-price deflator associated with the state-price vector $\psi^{*}$ computed above.) We have infinitely many state-price. deflators for this market. Given any state-price vector. $\psi=(a,0.8-2a,a)^{\top}$ for $0<a<0.4$ , the associated state-price deflator is given by $\zeta_{\omega}=\psi_{\omega}/p_{\omega}$ , i.e.  
 $$
 \zeta=\left(\stackrel{a/0.5}{(0.8-2a)/0.25}\right)=\left(\stackrel{2a}{3.2-8a}\right).
 $$  
 
-Letting $b=2a$ , any [state-price deflator](Exercises.md) is of the form $\zeta=(b,3.2-4b,2b)$ for $0<b<0.8$  
+Letting $b=2a$ , any state-price deflator is of the form $\zeta=(b,3.2-4b,2b)$ for $0<b<0.8$  
 
-In the multi-period [discrete-time framework](Multi-Period%20Valuation%20Models.md) all the above observations and conclusions hold in each period.  
+In the multi-period discrete-time framework all the above observations and conclusions hold in each period.  
 
-Now consider the [continuous-time framework](Exercises.md) and assume that an instantaneously [risk-free asset](../../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md). is traded. We have seen above that state-price deflators are closely related to market prices of risk. Whenever we have a [market price of risk](Exercises.md). $\lambda=\left(\lambda_{t}\right)$ , i.e. a nice process satisfying.  
+Now consider the continuous-time framework and assume that an instantaneously risk-free asset. is traded. We have seen above that state-price deflators are closely related to market prices of risk. Whenever we have a market price of risk. $\lambda=\left(\lambda_{t}\right)$ , i.e. a nice process satisfying.  
 $$
 \mu_{t}+\delta_{t}-r_{t}^{f}{\bf1}=\underline{{\underline{{\sigma}}}}{}_{t}\lambda_{t},
 $$  
 
-then a [state-price deflator](Exercises.md) can be defined by $\zeta_{0}=1$ and  
+then a state-price deflator can be defined by $\zeta_{0}=1$ and  
 $$
 \begin{array}{r}{d\zeta_{t}=-\zeta_{t}\left[r_{t}^{f}d t+\lambda_{t}^{\top}d z_{t}\right],}\end{array}
 $$  
 
 or, equivalently,  
 $$
-\zeta_{t}=\exp\left\{-\int_{0}^{t}r_{s}^{f}d s-\frac12\int_{0}^{t}\|\lambda_{s}\|^{2}d s-\int_{0}^{t}\lambda_{s}^{\top}d z_{s}\right\}.
+\zeta_{t}=\exp\left\{-\int_{0}^{t}r_{s}^{f}d s-\frac12\int_{0}^{t}\ | \lambda_{s}\ | ^{2}d s-\int_{0}^{t}\lambda_{s}^{\top}d z_{s}\right\}.
 $$  
 
 The number of state-price deflators is therefore determined by the number of solutions to (4.40), which again depends on the rank of the matrix $\underline{{\underline{{\sigma}}}}t$  
@@ -202,67 +202,67 @@ $$
 \lambda_{t}^{*}=\underline{{\hat{\sigma}}}_{t}^{\top}\left(\underline{{\hat{\sigma}}}_{t}\underline{{\hat{\sigma}}}_{t}^{\top}\right)^{-1}\left(\hat{\mu}_{t}+\hat{\delta}_{t}-r_{t}^{f}\mathbf{1}\right),
 $$  
 
-where $\underline{{\underline{{\hat{\sigma}}}}}_{t}$ is the $k\times d$ matrix obtained from $\underline{{\underline{{\sigma}}}}t$ by removing rows corresponding to [redundant assets](Exercises.md),. i.e. rows that can be written as a linear combination of other rows in the matrix. Similarly, $\hat{\pmb{\mu}}_{t}$ and $\hat{\delta}_{t}$ are the $k$ -dimensional vectors that are left after deleting from and $\delta_{t}$ , respectively, the ${\pmb\mu}_{t}$ elements corresponding to the [redundant assets](Exercises.md). In the special case where $k=d$ , we have  
+where $\underline{{\underline{{\hat{\sigma}}}}}_{t}$ is the $k\times d$ matrix obtained from $\underline{{\underline{{\sigma}}}}t$ by removing rows corresponding to redundant assets,. i.e. rows that can be written as a linear combination of other rows in the matrix. Similarly, $\hat{\pmb{\mu}}_{t}$ and $\hat{\delta}_{t}$ are the $k$ -dimensional vectors that are left after deleting from and $\delta_{t}$ , respectively, the ${\pmb\mu}_{t}$ elements corresponding to the redundant assets. In the special case where $k=d$ , we have  
 $$
 \lambda_{t}^{*}=\underline{{\hat{\sigma}}}_{t}^{-1}\left(\hat{\pmb{\mu}}_{t}+\hat{\pmb{\delta}}_{t}-r_{t}^{f}{\bf1}\right).
 $$  
 
-Let $\zeta^{\ast}$ be the [state-price deflator](Exercises.md) associated with $\lambda^{*}$ , i.e.  
+Let $\zeta^{\ast}$ be the state-price deflator associated with $\lambda^{*}$ , i.e.  
 $$
-\zeta_{t}^{*}=\exp\left\{-\int_{0}^{t}r_{s}^{f}d s-\frac12\int_{0}^{t}\|\lambda_{s}^{*}\|^{2}d s-\int_{0}^{t}(\lambda_{s}^{*})^{\top}d z_{s}\right\}.
+\zeta_{t}^{*}=\exp\left\{-\int_{0}^{t}r_{s}^{f}d s-\frac12\int_{0}^{t}\ | \lambda_{s}^{*}\ | ^{2}d s-\int_{0}^{t}(\lambda_{s}^{*})^{\top}d z_{s}\right\}.
 $$  
 
-In the [one-period framework](.md) the (candidate) [state-price deflator](Exercises.md) $\zeta^{*}$ was shown to be the dividend of some [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of traded assets. What about the [continuous-time framework](Exercises.md)? Consider the selffinancing trading strategy given by the fractions of wealth $\begin{array}{r}{\pmb{\pi}_{t}^{*}=\left(\underline{{\hat{\sigma}}}_{t}\underline{{\hat{\sigma}}}_{t}^{\top}\right)^{-1}\left(\pmb{\hat{\mu}}_{t}+\hat{\delta}_{t}-r_{t}^{f}\pmb{1}\right)}\end{array}$ in the [non-redundant assets](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Marketed%20Dividends%20and%20Market%20Completeness.md) and the fraction $\mathbf{l}-(\pmb{\pi}_{t}^{*})^{\top}\mathbf{1}$ in the instantaneously [risk-free asset](../../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md). The dynamics of the value $V_{t}^{*}$ of this trading strategy is given by  
+In the one-period framework the (candidate) state-price deflator $\zeta^{*}$ was shown to be the dividend of some portfolio of traded assets. What about the continuous-time framework? Consider the selffinancing trading strategy given by the fractions of wealth $\begin{array}{r}{\pmb{\pi}_{t}^{*}=\left(\underline{{\hat{\sigma}}}_{t}\underline{{\hat{\sigma}}}_{t}^{\top}\right)^{-1}\left(\pmb{\hat{\mu}}_{t}+\hat{\delta}_{t}-r_{t}^{f}\pmb{1}\right)}\end{array}$ in the non-redundant assets and the fraction $\mathbf{l}-(\pmb{\pi}_{t}^{*})^{\top}\mathbf{1}$ in the instantaneously risk-free asset. The dynamics of the value $V_{t}^{*}$ of this trading strategy is given by  
 $$
-\begin{array}{r l}&{d V_{t}^{*}=V_{t}^{*}\left[\left(r_{t}^{f}+(\pi_{t}^{*})^{\top}\left(\hat{\mu}_{t}+\hat{\delta}_{t}-r_{t}^{f}{\mathbf1}\right)\right)d t+(\pi_{t}^{*})^{\top}\underline{{\hat{\sigma}}}_{t}d z_{t}\right]}\ &{\qquad=V_{t}^{*}\left[\left(r_{t}^{f}+\|\lambda_{t}^{*}\|^{2}\right)d t+(\lambda_{t}^{*})^{\top}d z_{t}\right].}\end{array}
+\begin{array}{r l}&{d V_{t}^{*}=V_{t}^{*}\left[\left(r_{t}^{f}+(\pi_{t}^{*})^{\top}\left(\hat{\mu}_{t}+\hat{\delta}_{t}-r_{t}^{f}{\mathbf1}\right)\right)d t+(\pi_{t}^{*})^{\top}\underline{{\hat{\sigma}}}_{t}d z_{t}\right]}\ &{\qquad=V_{t}^{*}\left[\left(r_{t}^{f}+\ | \lambda_{t}^{*}\ | ^{2}\right)d t+(\lambda_{t}^{*})^{\top}d z_{t}\right].}\end{array}
 $$  
 
-cf. (3.14). It can be shown that $\pi_{t}^{*}$ is the trading strategy with the highest expected continuously compounded growth rate, i.e. the trading strategy maximizing $\mathrm{E}[\ln{(V_{T}^{\pi}/V_{0}^{\pi})}]$ , and it is therefore referred to as the [growth-optimal trading strategy](../Chapter%2011%20-%20Risk-adjusted%20probabilities/Changing%20the%20Numeraire%20Without%20Changing%20the%20Me.md). Consequently, $\lambda_{t}^{*}$ defined in (4.49) is the relative sensitivity vector of the value of the [growth-optimal trading strategy](../Chapter%2011%20-%20Risk-adjusted%20probabilities/Changing%20the%20Numeraire%20Without%20Changing%20the%20Me.md). One can show that $\zeta_{t}^{*}=$ $V_{0}^{*}/V_{t}^{*}$ (see Exercise 4.11), so we have a [state-price deflator](Exercises.md) defined in terms of the value of a trading strategy.  
+cf. (3.14). It can be shown that $\pi_{t}^{*}$ is the trading strategy with the highest expected continuously compounded growth rate, i.e. the trading strategy maximizing $\mathrm{E}[\ln{(V_{T}^{\pi}/V_{0}^{\pi})}]$ , and it is therefore referred to as the growth-optimal trading strategy. Consequently, $\lambda_{t}^{*}$ defined in (4.49) is the relative sensitivity vector of the value of the growth-optimal trading strategy. One can show that $\zeta_{t}^{*}=$ $V_{0}^{*}/V_{t}^{*}$ (see Exercise 4.11), so we have a state-price deflator defined in terms of the value of a trading strategy.  
 
-If $\varepsilon=\left(\varepsilon_{t}\right)$ is a nice. $d$ -dimensional [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) with $\underline{{\underline{{\sigma}}}}_{t}\varepsilon_{t}=0$ for all $t$ , then $\lambda_{t}=\lambda_{t}^{*}+\varepsilon_{t}$ defines a [market price of risk](Exercises.md) since  
+If $\varepsilon=\left(\varepsilon_{t}\right)$ is a nice. $d$ -dimensional stochastic process%20Process.md) with $\underline{{\underline{{\sigma}}}}_{t}\varepsilon_{t}=0$ for all $t$ , then $\lambda_{t}=\lambda_{t}^{*}+\varepsilon_{t}$ defines a market price of risk since  
 $$
 \underline{{\underline{{\sigma}}}}_{t}\lambda_{t}=\underline{{\underline{{\sigma}}}}_{t}\left(\lambda_{t}^{*}+\varepsilon_{t}\right)=\underline{{\underline{{\sigma}}}}_{t}\lambda_{t}^{*}+\underline{{\underline{{\sigma}}}}_{t}\varepsilon_{t}=\underline{{\underline{{\sigma}}}}_{t}\lambda_{t}^{*}=\mu_{t}+\delta_{t}-r_{t}^{f}\mathbf{1}.
 $$  
 
-If the market is incomplete, it will be possible to find such an $\varepsilon_{t}$ and, hence, there will be more than one [state-price deflator](Exercises.md).  
+If the market is incomplete, it will be possible to find such an $\varepsilon_{t}$ and, hence, there will be more than one state-price deflator.  
 
-An example of an incomplete market is a market where the traded assets are only immediately affected by $j<d$ of the $d$ [exogenous shocks](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Some%20Discrete-Time%20Stochastic%20Processes.md). Decomposing the $d$ -dimensional standard [Brownian motion](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) $_{z}$ into $(Z,{\hat{Z}})$ , where $Z$ is $j$ -dimensional and $\hat{Z}$ is $(d-j)$ -dimensional, the dynamics of the traded risky assets can be written as  
+An example of an incomplete market is a market where the traded assets are only immediately affected by $j<d$ of the $d$ exogenous shocks. Decomposing the $d$ -dimensional standard Brownian motion $_{z}$ into $(Z,{\hat{Z}})$ , where $Z$ is $j$ -dimensional and $\hat{Z}$ is $(d-j)$ -dimensional, the dynamics of the traded risky assets can be written as  
 $$
 d P_{t}=\operatorname{diag}(P_{t})\left[\mu_{t}d t+{\underline{{\underline{{\sigma}}}}}_{t}d Z_{t}\right].
 $$  
 
 For example, the dynamics of. $\boldsymbol{r}_{t}^{f}$ , or may be affected by the non-traded risks. $\hat{Z}$ , representing ${\pmb\mu}_{t}$ $\underline{{\underline{{\sigma}}}}t$   
-non-hedgeable risk in [interest rates](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md), expected [returns](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md), and volatilities and correlations, respectively. Or other variables important for the investor, e.g. his labor income, may be sensitive to $\hat{Z}$ . Let us assume for simplicity that there are $j$ risky assets and the. $j\times j$ matrix $\underline{{\underline{{\sigma}}}}t$ is non-singular (i.e. there are no [redundant assets](Exercises.md)). Then we can define a unique [market price of risk](Exercises.md) associated with the traded risks by the. $j$ -dimensional vector  
+non-hedgeable risk in interest rates, expected returns, and volatilities and correlations, respectively. Or other variables important for the investor, e.g. his labor income, may be sensitive to $\hat{Z}$ . Let us assume for simplicity that there are $j$ risky assets and the. $j\times j$ matrix $\underline{{\underline{{\sigma}}}}t$ is non-singular (i.e. there are no redundant assets). Then we can define a unique market price of risk associated with the traded risks by the. $j$ -dimensional vector  
 $$
 \begin{array}{r}{\pmb{\Lambda}_{t}=\left(\underline{{\underline{{\sigma}}}}t\right)^{-1}\left(\pmb{\mu}_{t}+\delta_{t}-r_{t}\pmb{1}\right),}\end{array}
 $$  
 
-but for any well-behaved. $(d-j)$ -dimensional process $\hat{\bf A}$ , the process. $\pmb{\lambda}=(\pmb{\Lambda},\hat{\pmb{\Lambda}})$ will be a market. price of risk for all risks. Each choice of $\hat{\bf A}$ generates a valid [market price of risk](Exercises.md) process and hence a valid [state-price deflator](Exercises.md)..  
+but for any well-behaved. $(d-j)$ -dimensional process $\hat{\bf A}$ , the process. $\pmb{\lambda}=(\pmb{\Lambda},\hat{\pmb{\Lambda}})$ will be a market. price of risk for all risks. Each choice of $\hat{\bf A}$ generates a valid market price of risk process and hence a valid state-price deflator..  
 
 # 4.3.3 Convex combinations of state-price deflators  
 
-A convex combination of some objects (such as vectors, random variables, [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md), etc.) $x_{1},x_{2},\ldots,x_{L}$ is given by  
+A convex combination of some objects (such as vectors, random variables, stochastic process%20Process.md), etc.) $x_{1},x_{2},\ldots,x_{L}$ is given by  
 $$
 x=\sum_{l=1}^{L}\alpha_{l}x_{l},
 $$  
 
-where $\alpha_{1},\ldots,\alpha_{L}$ are positive constants summing up to one. The following theorem says that if you have a number of state-price deflators, any convex combination of those deflators will also be a [state-price deflator](Exercises.md). This is true both in the one-period, the discrete-time, and the [continuous-time framework](Exercises.md). In particular, it tells you that once you have two different state-price deflators you can generate infinitely many state-price deflators. The proof of the theorem is left as Exercise 4.3.  
+where $\alpha_{1},\ldots,\alpha_{L}$ are positive constants summing up to one. The following theorem says that if you have a number of state-price deflators, any convex combination of those deflators will also be a state-price deflator. This is true both in the one-period, the discrete-time, and the continuous-time framework. In particular, it tells you that once you have two different state-price deflators you can generate infinitely many state-price deflators. The proof of the theorem is left as Exercise 4.3.  
 
 Theorem 4.3 If. $\zeta_{1},\ldots,\zeta_{L}$ are state-price deflators, and.. $\alpha_{1},\ldots,\alpha_{L}>0$ with $\textstyle\sum_{l=1}^{L}\alpha_{l}=1$ , then the convex combination  
 $$
 \zeta=\sum_{l=1}^{L}\alpha_{l}\zeta_{l}
 $$  
 
-is also a [state-price deflator](Exercises.md).  
+is also a state-price deflator.  
 
 # 4.3.4 The candidate deflator. $\zeta^{*}$ and the Hansen-Jagannathan bound  
 
-The candidate deflator $\zeta^{*}$ from the [one-period framework](.md) is interesting for empirical studies so it is worthwhile to study it more closely. Let us compute the return associated with the dividend $\zeta^{*}$ This return turns out to be important in later sections. For notational simplicity suppose that no assets are redundant so that  
+The candidate deflator $\zeta^{*}$ from the one-period framework is interesting for empirical studies so it is worthwhile to study it more closely. Let us compute the return associated with the dividend $\zeta^{*}$ This return turns out to be important in later sections. For notational simplicity suppose that no assets are redundant so that  
 $$
 \begin{array}{r}{\zeta^{*}=D^{\top}\left(\operatorname{E}\left[D D^{\top}\right]\right)^{-1}P,\quad\theta^{*}=\left(\operatorname{E}\left[D D^{\top}\right]\right)^{-1}P.}\end{array}
 $$  
 
-Let us first rewrite $\zeta^{\ast}$ and $\theta^{*}$ in terms of the gross [returns](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) of the assets instead of prices and dividends. Using (3.2), we get  
+Let us first rewrite $\zeta^{\ast}$ and $\theta^{*}$ in terms of the gross returns of the assets instead of prices and dividends. Using (3.2), we get  
 $$
 \begin{array}{r l}&{\left(\operatorname{E}\left[D D^{\top}\right]\right)^{-1}=\left(\operatorname{E}\left[\operatorname{diag}(P)R R^{\top}\operatorname{diag}(P)\right]\right)^{-1}}\ &{\qquad=\left(\operatorname{diag}(P)\operatorname{E}\left[R R^{\top}\right]\operatorname{diag}(P)\right)^{-1}}\ &{\qquad=\left[\operatorname{diag}(P)\right]^{-1}\left(\operatorname{E}\left[R R^{\top}\right]\right)^{-1}\left[\operatorname{diag}(P)\right]^{-1},}\end{array}
 $$  
@@ -277,7 +277,7 @@ $$
 \begin{array}{r l}&{\zeta^{*}=D^{\top}\left(\operatorname{E}[D D^{\top}]\right)^{-1}P}\ &{\quad=D^{\top}[\operatorname{diag}(P)]^{-1}\left(\operatorname{E}[R R^{\top}]\right)^{-1}\mathbf{1}}\ &{\quad=\left([\operatorname{diag}(P)]^{-1}D\right)^{\top}\left(\operatorname{E}[R R^{\top}]\right)^{-1}\mathbf{1}}\ &{\quad=R^{\top}\left(\operatorname{E}[R R^{\top}]\right)^{-1}\mathbf{1}}\ &{\quad=\mathbf{1}^{\top}\left(\operatorname{E}[R R^{\top}]\right)^{-1}R,}\end{array}
 $$  
 
-using (3.2) and various rules from matrix algebra. The [portfolio weight vector](../Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Portfolios%20and%20Trading%20Strategies.md) is obtained by substituting $\theta^{*}$ into (3.6). Since  
+using (3.2) and various rules from matrix algebra. The portfolio weight vector is obtained by substituting $\theta^{*}$ into (3.6). Since  
 $$
 \operatorname{diag}(P)\theta^{*}=\operatorname{diag}(P)[\operatorname{diag}(P)]^{-1}\left(\operatorname{E}\left[R R^{\top}\right]\right)^{-1}\mathbf{1}=\left(\operatorname{E}\left[R R^{\top}\right]\right)^{-1}\mathbf{1},
 $$  
@@ -287,7 +287,7 @@ $$
 \pi^{*}=\frac{\left(\operatorname{E}\left[R R^{\top}\right]\right)^{-1}\mathbf{1}}{\mathbf{1}^{\top}\left(\operatorname{E}\left[R R^{\top}\right]\right)^{-1}\mathbf{1}}.
 $$  
 
-The gross return on this [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is  
+The gross return on this portfolio is  
 $$
 R^{*}=(\pi^{*})^{\top}R=\frac{\mathbf{1}^{\top}\left(\mathrm{E}\left[R R^{\top}\right]\right)^{-1}R}{\mathbf{1}^{\top}\left(\mathrm{E}\left[R R^{\top}\right]\right)^{-1}\mathbf{1}}.
 $$  
@@ -336,4 +336,4 @@ $$
 \zeta^{*}=\operatorname{E}[\zeta^{*}]+(P-\operatorname{E}[\zeta^{*}]\operatorname{E}[D])^{\top}\underline{{\Sigma}}_{D}^{-1}\left(D-\operatorname{E}[D]\right).
 $$  
 
-Note that no $\varepsilon$ is added on the right-hand side. It follows that $\zeta^{*}$ satisfies the Hansen-Jagannathan bound with equality.  
+Note that no $\varepsilon$ is added on the right-hand side. It follows that $\zeta^{*}$ satisfies the Hansen-Jagannathan bound with equality.

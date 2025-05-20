@@ -49,9 +49,9 @@ Suppose that $C(K_1) < C(K_2)$; i.e., a lower strike call had a lower premium. T
 
 What about the fact that the options are American? We then have to account for the possibility that the written option is exercised. If that happens, we can simply exercise the purchased option, earning the payoffs in the table. If it is not optimal to exercise the purchased option, we can sell it, earning even higher payoffs.
 
-![500](Attachments/500-501.jpg)  
-![500](Attachments/500-502.jpg)  
-![500](Attachments/500-503.jpg)  
+!500  
+!500  
+!500  
 
 ### The Call Premium Changes by Less Than the Change in the Strike Price
 
@@ -73,7 +73,7 @@ You may have noticed that if the options are European, we can put a tighter rest
 
 This proposition says that as the option moves more into the money, its premium increases at a faster rate. To prove it, suppose that $C(K_2) \geq \lambda C(K_1) + (1-\lambda)C(K_3)$. We can make money initially by selling the $K_2$-strike call, buying $\lambda$ $K_1$-strike calls, and buying $1-\lambda$ $K_3$-strike calls. Table 9.12 summarizes the results.
 
-![500](Attachments/500-504.jpg)  
+!500  
 
 **Time 0.** We earn net premium since the initial assumption is that $C(K_2) \geq \lambda C(K_1) + (1-\lambda)C(K_3)$.
 
@@ -94,8 +94,8 @@ This proposition says that as the option moves more into the money, its premium 
 
 Here are the counterpart propositions for puts, stated more formally:
 
-1. The put premium is increasing in the strike price: $P(K_1) \leq P(K_2)$
-2. The put premium changes by less than the change in the strike price: $P(K_2) - P(K_1) < K_2 - K_1$
-3. The put premium is a convex function of the strike price: $P(K_2) < \lambda P(K_1) + (1-\lambda)P(K_3)$
+[^1]: The put premium is increasing in the strike price: $P(K_1) \leq P(K_2)$
+[^2]: The put premium changes by less than the change in the strike price: $P(K_2) - P(K_1) < K_2 - K_1$
+[^3]: The put premium is a convex function of the strike price: $P(K_2) < \lambda P(K_1) + (1-\lambda)P(K_3)$
 
 The proofs are identical to the propositions for calls.

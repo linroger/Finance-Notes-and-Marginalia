@@ -35,34 +35,34 @@ Added standardized YAML frontmatter to all markdown files that were missing it. 
 
 ### Directories Processed
 
-1. **Principles of Financial Engineering**
+[^1]: **Principles of Financial Engineering**
    - All 24 chapters processed
    - Added frontmatter to chapters 1-24
    - Fixed LaTeX and formatting issues
 
-2. **Foundations of the Pricing of Financial Derivatives**
+[^2]: **Foundations of the Pricing of Financial Derivatives**
    - All parts and chapters processed
    - Part I-VII with all subsections
    - Fixed complex mathematical notation
 
-3. **Fixed Income Derivatives**
+[^3]: **Fixed Income Derivatives**
    - All documents in directory processed
    - Added appropriate metadata
 
-4. **Derivatives** (multi-part structure)
+[^4]: **Derivatives** (multi-part structure)
    - Part I-XII with all chapters
    - Comprehensive frontmatter added
 
-5. **Appendices**
+[^5]: **Appendices**
    - All appendix files processed
    - Maintained proper cross-references
 
 ### Notable Fixes
 
-1. **Chapter 8 - Dynamic Replication**: Fixed LaTeX symbols like `$\mathsf{B}_{\mathrm{t}}$` to `$B_t$`
-2. **Chapter 9 - Convergence**: Fixed complex equation arrays and alignment
-3. **Chapter 10 - Brownian Motion**: Corrected corrupted LaTeX expressions
-4. **Multiple files**: Fixed section numbering (e.g., 7.1 → 17.1 in Chapter 17)
+[^1]: **Chapter 8 - Dynamic Replication**: Fixed LaTeX symbols like `$\mathsf{B}_{\mathrm{t}}$` to `$B_t$`
+[^2]: **Chapter 9 - Convergence**: Fixed complex equation arrays and alignment
+[^3]: **Chapter 10 - Brownian Motion**: Corrected corrupted LaTeX expressions
+[^4]: **Multiple files**: Fixed section numbering (e.g., 7.1 → 17.1 in Chapter 17)
 
 ### Verification
 - All files now have YAML frontmatter

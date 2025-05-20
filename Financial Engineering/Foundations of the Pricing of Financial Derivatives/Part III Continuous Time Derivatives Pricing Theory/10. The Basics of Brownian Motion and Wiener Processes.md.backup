@@ -1,0 +1,392 @@
+---
+created: 2024-01-01
+modified: 2025-01-16
+tags:
+  - financial-engineering
+  - brownian-motion
+  - wiener-process
+  - stochastic-processes
+  - derivatives-pricing
+  - continuous-time
+  - black-scholes
+aliases:
+  - "Brownian Motion"
+  - "Wiener Process"
+subject: Financial Engineering
+book: Foundations of the Pricing of Financial Derivatives
+part: Part III - Continuous Time Derivatives Pricing Theory
+chapter: 10
+title: The Basics of Brownian Motion and Wiener Processes
+status: In Progress
+references:
+  - Baxter, M., & Rennie, A. (1996)
+  - Neftci, S. (2000)
+  - Malliaris, A. G., & Brock, W. A. (1982)
+---
+
+# The Basics of Brownian Motion and Wiener Processes  
+
+he prices of assets evolve in a random manner, meaning that stock prices, [interest rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md), exchange rates, and [commodity prices](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Primary%20vs.%20Secondary%20Commodities.md) are largely unpredictable. Thus, the financial landscape will be everchanging. Unpredictable, however, does not mean bizarre or meaningless. Indeed, it is important that we understand the probability process driving prices, because this helps us to develop good valuation models. Estimates of expected [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) and volatilities and their effects on asset and derivative prices are essential elements in the financial decision-making process. Although there are many excellent references on the subject of this chapter, three we highly recommend are Baxter and Rennie (1996), Neftci (2000), and Malliaris and Brock (1982).  
+
+A [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) is a sequence of observations from a probability distribution. Rolling a pair of dice multiple times is a [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md). In this case, the distribution is stable because the [possible outcomes](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Probability%20Space.md) do not change from one roll to the next. Rolling a 6-5 three times in a row, while highly unlikely, in no way changes the probability of rolling another 6-5. A changing distribution, however, would be the case if we drew a card from a deck and then drew another card without replacing the previously drawn card. Real-world asset prices probably come from changing distributions, though it is difficult to determine when a distribution has changed. Empirical analysis of past data can be useful in that context—not to predict the future, but to know when the numbers are coming out according to different bounds of probability. At this point, however, we shall focus on stochastic processes that are stable, which are sometimes called homogeneous or identically distributed.  
+
+# 10.1 BROWNIAN MOTION  
+
+In 1827, the Scottish botanist Robert Brown (1773–1858) observed the random behavior of pollen particles suspended in water. This phenomenon came to be known as [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md). About 80 years passed before Albert Einstein developed the mathematical properties of [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md). This gap in time, however, is not to suggest that no work was being done in the interim, but scientists did not always know what additional research was going on. For example, Louis Bachelier in his doctoral work on option [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) in 1900 made numerous advances of these mathematical properties several years before Einstein. It is not surprising that it was Einstein who received most of the credit, because he was certainly the most famous scientist of that era and possibly of all time. In this chapter and ensuing chapters, we shall borrow from the scientific theory of [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md).  
+
+Let us start by assuming that a series of random numbers emanates from a standard normal or bell-shaped probability distribution. Let these variables be denoted as $\varepsilon_{t+\Delta t}$ where $t+\Delta t$ denotes the point in time when the variable is observed. Because the numbers are of the standard normal type, this means they on average equal zero and have a standard deviation of 1 (at the moment, we assume $\Delta t=1$ ). Numbers like this have very limited properties, however, and in this form are not very useful for modeling asset prices, but we can take them further. Let us transform these numbers into another process identified with a $W$ because it will eventually be called a [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md). Suppose we are currently at time $t$ . This is our starting point. Now move ahead to time $t+\Delta t$ by drawing a number from the standard normal probability distribution. Call the drawn number $\varepsilon_{t+\Delta t}$ , which has an expected value of zero and its variance is 1. A very simple transformation of the standard normal variable into the W variable would be to add $\varepsilon_{t+\Delta t}$ to $W_{t}$ to get $W_{t+\Delta t}$ . Another simple transformation would be to multiply $\varepsilon_{t+\Delta t}$ by a term we call $dt$ , which is the length of time that elapses between $t$ and $t+\Delta t$ . Given that we typically measure financial variables in years, if that time interval happens to be one minute, $dt$ would be $1/(60 \times 24 \times 265)$ , or in other words, the fraction of a year that elapses between $t$ and $t+\Delta t$ .  
+
+One reason we like to multiply $\varepsilon_{t+\Delta t}$ by a time factor is that we would like our model to accommodate time intervals between $t$ and $t+\Delta t$ of different lengths. These statistical shocks that are the source of randomness might be larger if they were spread out over a longer time period; hence, we need to scale them by a function of time. In fact, to model asset prices evolving continuously, we need the interval between $t$ and $t+\Delta t$ to be as short as possible. Mathematicians use the terminology in the limit, roughly meaning that we are almost but not quite to a specific point. They also use $dt$ instead of $\Delta t$ . Here dt will approach zero in the limit but not actually get there. Unfortunately, the model $W_{t+\Delta t} = W_{t}+\varepsilon_{t+\Delta t}dt$ will become problematic when $dt$ is nearly zero, because the variance of $W_{t+\Delta t}$ will be nearly zero. That is because $dt$ is very small and to obtain the variance, we have to square it, which drives it even closer to zero. Thus, the variable $W_{t}$ will have no variance, which takes away its randomness. Because it would not vary, we cannot even call it a variable anymore.  
+
+The problem is best solved by multiplying $\varepsilon_{t+\Delta t}$ by the square root of $dt$ :  
+$$
+W_{t+1}=W_{t}+\varepsilon_{t+\Delta t}\sqrt{dt}.
+$$  
+
+Then when we square the term representing time to take the variance, we obtain $dt$ , which is not zero.  
+
+This model has many convenient properties. Suppose we are interested in predicting a future value of $W$ , say at time $t+\Delta t$ . Then the expected value of $W_{t+\Delta t}$ is $W_{t}$ because the expected random change in the process is zero. If you start off at $W_{t}$ and keep incrementing it by values that average to zero, you can expect to get nowhere. The variance of $W_{t+\Delta t}$ is $t+\Delta t=\Delta t$ , or, in other words, the variance equals how much time elapses between now, time $t$ , and the future point, time $t+\Delta t$ . This result is found intuitively by noting that the variance of each increment is $dt$ . Integrating over all the increments, we obtain $\Delta t$ . We shall do this in a more formal manner for the case in which the increment has a variance other than 1 later in this chapter.  
+
+Going forward, we seek to model a continuous process by allowing the time step, $\Delta t$ , to get smaller, essentially trending to nearly zero. Thus, the point of observation of $t$ or $t+\Delta t$ will be negligibly different. Going forward, we adopt the traditional notation where, for example, $\varepsilon_{t+\Delta t}$ is denoted simply as $\varepsilon_{t}$ . The random variable, $\varepsilon_{t}$, is observed at time $t+\Delta t$ , but generated between points in time $t$ and $t+\Delta t$ . Remember, the goal is to eventually migrate $\Delta t$ to $dt$ .  
+
+# 10.2 THE WIENER PROCESS  
+
+The process we have been working with is often called a standard [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) or just [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md). Now let us take the difference between $W_{t+\Delta t}$ and $W_{t}$ and denote it as $dW_{t}$ , which will be defined as  
+$$
+dW_{t}=\varepsilon_{t}\sqrt{dt}.
+$$  
+
+This process, the increment to the standard [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md), is called a [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md), named after the American mathematician, Norbert Wiener (1894–1964), who did important work in this area. In option [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), we are more interested in the process $dW_{t}$ than in the process $W_{t}$ . We shall transform $dW_{t}$ into something more useful for modeling asset prices at a later point.1  
+
+It is important to note that the mathematics necessary to define the expected value and variance require the mathematical technique of integration. The ordinary rules of integration, however, do not automatically apply when the terms are stochastic. Fortunately, work by the Japanese mathematician Kiyoshi Itô (1915–2008), who did most of his work at the University of Kyoto, proved that the integral, defined as a stochastic integral, does exist though with a slightly different definition. This branch of mathematics is often called Itô calculus. Consequently, many of the rules of ordinary integration apply in similar or slightly different forms. We cover this material in Chapter 11.  
+
+First, let us look at some simple characteristics of the [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md). For starters, let us take the expected value,  
+$$
+E(dW_{t})=E(\varepsilon_{t}\sqrt{dt})=\sqrt{dt}E(\varepsilon_{t})=0.
+$$  
+
+Now we take the variance,  
+$$
+\text{var}(dW_{t})=E[(\varepsilon_{t}\sqrt{dt})^{2}]-[E(\varepsilon_{t}\sqrt{dt})]^{2}=dt E(\varepsilon_{t}^{2})-0=dt.
+$$  
+
+Note that $E(\varepsilon_{t}^{2})=1$ because $\text{var}(\varepsilon_{t})=1=E(\varepsilon_{t}^{2})-E(\varepsilon_{t})^{2}$ and $E(\varepsilon_{t})=0$ .  
+
+One interesting property of the [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) is that when you square it, it becomes perfectly predictable. This point seems very enigmatic. How can you generate random numbers, square them, and find them perfectly predictable? Let us see.  
+
+Suppose we draw a standard normal random variable, $\varepsilon_{t}$ . Then we multiply it by the square root of the time interval $dt$ . We know that this transformed value is unpredictable, but we know its expected value and its variance. The expected value is obviously zero. Using the rule that the variance of a constant times a random variable is the constant squared times the variance of the random variable, we see that its variance is dt.2  
+
+If, however, we define the variable of interest as $dW_{t}^{2}$ , we get an important result. To determine $dW_{t}^{2}$ we simply draw the value of $\varepsilon_{t}$ , multiply it by the square root of $dt$ , and square the entire expression to obtain $\varepsilon_{t}^{2}dt$ . The variance of this expression is found by squaring $dt$ and multiplying by the variance of $\varepsilon_{t}^{2}$ . By definition, however, all values of $dt^{k}$ where $k>1$ are zero. In other words, the length of the time interval is so short that raising it to a power more than one makes it shorter and effectively zero. The expected value of $dW_{t}^{2}$ is the expected value of $\varepsilon_{t}^{2}dt$ , which will be dt times the expected value of $\varepsilon_{t}^{2}$ . So now we must evaluate $E(\varepsilon_{t}^{2})$ . We did that to get Equation (10.4). Thus, $E(dW_{t}^{2})=1 \times dt=$ dt. Because $dt^{2}=0$ , then var $(dW_{t}^{2})=0$ and $E(dW_{t}^{2})=dW_{t}^{2}=dt$ . In other words, any variable that has zero variance can be expressed as its expected value. We see that our intuitively unusual result is that although $dW_{t}$ is random, its square is not. So, remember this important result:  
+$$
+dW_{t}^{2}=dt.
+$$  
+
+We shall see it again.  
+
+Why do these things matter? They are the foundations of the most fundamental model used to price options. Let us look at how this process can be used to model movements in the price of an asset. For convenience, this asset could be a stock, [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md), or commodity.  
+
+# 10.3 PROPERTIES OF A MODEL OF ASSET PRICE FLUCTUATIONS  
+
+We know that [asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) fluctuations have several important characteristics. First, over the long run, asset prices typically go up, especially in the case of a stock, which is what we mostly model. They are said to "drift." This upward movement or drift represents the return from bearing risk. The [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) contains no drift, but as we show later, it is easy to make it drift either upward or even downward.  
+
+Second, asset prices are random. We know that Wiener processes are random, though we cannot use the basic [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) for assets because different assets have different volatilities. We can, however, transform the basic [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) in such a way to give it any volatility we desire.  
+
+Third, it should be more difficult to forecast asset prices further into the future than nearby. This point does not mean that asset prices are very predictable at all but that the margin of error, which is related to the variance of the future [asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md), should be greater when predicting far into the future than when predicting into the near future. Imagine, for example, that the latest closing Dow Jones Industrial Average is 24,597.38. Suppose you can choose to make a prediction of the tomorrow's closing average or the average in six months. Which are you likely to be closer to? That answer should be obvious. There is certainly more uncertainty further out because the uncertainty of each day accumulates.  
+
+The final property is that an [asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) should never be allowed to become negative. Corporate shareholders have limited liability, so the minimum value of their shares is zero.  
+
+We briefly illustrate these properties with an exchange-traded fund that seeks to track the S&P 500 index with dividends included with ticker symbol SPY. Figure 10.1 illustrates the value of $\$100$ invested in SPY both with and without dividends. We see clearly the important role of dividends. Further, over this period, SPY moved up significantly, on average, whether including dividends or not. Although there is an upward drift, stocks often experience long periods of time without any substantial appreciation exhibiting the second property of randomness. Clearly, even with an ETF tracking the S&P 500 index, dividends are a significant consideration and cannot be ignored.  
+
+Figure 10.2 illustrates the notion that longer time periods have more uncertainty based on analyzing dividend adjusted prices. Panel A presents daily [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md), Panel B presents  
+
+![](fb3277398138c0fcfb9bc1232fbc42e617b358b906a0f8ec490ec1cd039a58c3.jpg)  
+SPY Normalized Price Series  
+
+![](79beefbc6a83552d6772575a5d72fa2a57bfbd44cef11e311039512ec8bc9f7b.jpg)  
+FIGURE 10.1 20-Year History of SPY, an Exchange-Traded Fund Source: Yahoo Finance.   
+FIGURE 10.2 20-Year History of Holding Period [Returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) for Dividend Adjusted SPY   
+Panel A. Daily [Returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+
+![](fcdfa1a86ab98611336731b42d8d2223bae37d487e239a9eeb6b5b0d2dfb0119.jpg)  
+
+Panel B. Weekly [Returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) Source: Yahoo Finance.  
+
+![](5509b2e136220a6e9ff07e5bc8821aae2dcfed4ae75eb927aa524ad129aeca82.jpg)  
+
+Panel C. Monthly [Returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) Source: Yahoo Finance.  
+
+# FIGURE 10.2 Continued  
+
+weekly [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md), and Panel C presents monthly [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md). The $y$ -axis is fixed to ease observing the increased variability with longer holding period. The [great recession](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) of 2008–2009 is clearly visible in each time series.  
+
+Now our objective is to build a model that has these properties.  
+
+# 10.4 BUILDING A MODEL OF ASSET PRICE FLUCTUATIONS  
+
+The characteristics of the return on an asset can be described by the [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) and [variance of return](../../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Arithmetic%20and%20Geometric%20Rates%20of%20Return.md).3 Let $E(R)$ be the [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) on the asset and $\sigma^{2}$ be the variance of the return, with both measures standardized to a common period of time, typically a year.4 Thus, these are the annual [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) and variance. Then $\sigma$ is the standard deviation, which is the square root of the variance. If we have an effective model, a sample of historical data will produce an average return and standard deviation equal to these values.  
+
+Let $R_{t}b$ be the return on the asset, between $t$ and $t+b$ , which is its price change divided by its base price minus one, over the holding period $b$ . For example, $R_{t}$ is stated as an annual rate and $b$ , the holding period, is a fraction of a year. Thus, $R_{t}h$ is the return over the holding period. Now let us set $R_{t}b$ equal to $E(R)b+g_{t}$ , where $g_{t}$ represents the random component of the return, again generated between $t$ and $t+b$ . In other words, the return consists of the [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) plus a random component. We do not yet know what the random component, $g_{t}$ , is, but we assume it is related to the variance. Now, let us force the expected value of our model to $E(R)b$ . This requirement is easily fulfilled by letting $E(g_{t})=0$ . Thus, we must keep this constraint in mind when we look for a suitable functional form for $g_{t}$ .  
+
+Now let us make the model have the correct variance. If the variance over a year is $\sigma^{2}$ , then the variance over the holding period $b$ is $b\sigma^{2}$ . Thus, the variance of our model should be such that it equals $b\sigma^{2}$ . So far, our model has two terms, $E(R)b+g_{t}$ . The term $E(R)b$ is a constant, so it has no variance. Thus, we need to make sure that var $(g_{t})=h\sigma^{2}$ .  
+
+One model that has the appropriate variance is $g_{t}=\sigma\varepsilon_{t}\sqrt{dt}$ , which is simply $\sigma dW_{t}$ . This model is just a modified [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) with the transformation coming from multiplication by the volatility of the asset. Remember that we also have to have the expected value of $g_{t}$ equal to zero, but that requirement is upheld because we already know that $g_{t}=\sigma dW_{t}$ and $E(dW_{t})=0$ .  
+
+Now our model looks like this:  
+$$
+R_{t}=E(R)dt+\sigma\varepsilon_{t}\sqrt{dt}.
+$$  
+
+Let us check and see if this model has the other necessary properties. If $S_{t}$ is the current [asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md), then the [asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) after the period $dt$ is $S_{t+dt}=S_{t}[1+E(R)dt+\sigma\varepsilon_{t}\sqrt{dt}]$ What is the variance of this future [asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md)? Over the next increment, the variance is  
+$$
+[S_{t}+S_{t}E(R)dt+S_{t}\sigma\varepsilon_{t}\sqrt{dt}]=\text{var}(S_{t})+\text{var}[S_{t}E(R)dt]+\text{var}(S_{t}\sigma\varepsilon_{t}\sqrt{dt})=S_{t}^{2}\sigma^{2}dt.
+$$  
+
+Note that this result makes use of the fact that the constants, $S_{t},E(R)$ , and $dt$ , have zero variance.  
+
+Now consider increments to a later period $T$ . The variance is  
+$$
+\text{var}(S_{T})=\int_{t}^{T}S_{t}^{2}\sigma^{2}dj=S_{t}^{2}\sigma^{2}\int_{t}^{T}dj=S_{t}^{2}\sigma^{2}(T-t).
+$$  
+
+So, clearly the further out we look, that is, the larger $T$ is, the higher the variance is.  
+
+Finally, the model must not permit the [asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) to ever go to or below zero. Let us write the model in the following form:  
+$$
+\frac{dS_{t}}{S_{t}}=E(R)dt+\sigma\varepsilon_{t}\sqrt{dt}.
+$$  
+
+Multiplying through by $S_{t}$ makes everything on the right-hand side (RHS) be multiplied by $S_{t}$ . That is, the model can be written as  
+$$
+dS_{t}=E(R)S_{t}dt+\sigma S_{t}\varepsilon_{t}\sqrt{dt}.
+$$  
+
+The first term on the RHS is the drift term and the second is the noise term, both expressed in [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) units. Note that as the [asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) declines, both the drift term and the noise term are diminished. Thus, the smaller $S_{t}$ is, the more the price changes are diminished. It is technically possible for a sufficiently negative shock to drive the price to zero, though this requires an incredibly large negative shock, which is an improbable event. But, from Equation (10.10), it is easily seen that if the price hits zero, any further price changes are all zero. Zero is said to be an absorbing barrier. Hence, our requirement that the price cannot be negative is met. That said, we cannot completely rule out a zero price. In Chapter 12, we shall see that the process we have described here is actually an approximation of a lognormal process. Given that it is not possible to take the log of zero, a zero price is ruled out. But for now, avoiding negative prices is our goal and that goal is achieved with this model.  
+
+One final adjustment is necessary. Most of the time the annualized [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) is written as either $\alpha$ or $\mu$ . We shall choose the former and will reserve $\mu$ for another term. Thus, the model is written as  
+$$
+\frac{dS_{t}}{S_{t}}=\alpha dt+\sigma dW_{t},
+$$  
+
+where it is understood that $dW_{t}=\varepsilon_{t}\sqrt{dt}$ . We see clearly here that $S_{t}$ cannot obtain zero, otherwise the left-hand side (LHS) of this equation is undefined. A [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) of this type is called an Itô process. It is more generally stated in the form, $dS_{t}=\alpha(S,t)dt+\sigma(S,t)dW_{t}$ , where the expected value and variance are allowed to change with $s$ and $t$ .  
+
+Equation (10.11) appears to imply that the LHS is normally distributed because $dW_{t}$ is normally distributed. Recall multiplying a normally distributed variable by a constant and adding another constant does not change the distribution type, just its parameters. As we will see in Chapter 12, the LHS is in fact lognormally distributed. At this point, we simply note that this result is similar to discrete and [continuous compounding](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) covered in Chapter 3, Section 3.3.  
+
+To recap, the model allows us to replicate the behavior of the asset over a short holding period. We have taken the basic [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) process and converted it into a form that models [asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) movements. This model has many convenient and reasonable properties. We refer to the process as [geometric Brownian motion](../../../Financial%20Instruments/Black%20Scholes%20Derivation.md). It is "geometric" in the sense that proportional changes, meaning percentage changes, in the [asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) follow this [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md). [Geometric Brownian motion](../../../Financial%20Instruments/Black%20Scholes%20Derivation.md) can be formally stated as  
+$$
+dS_{t}=\alpha(S,t)S_{t}dt+\sigma S_{t}dW_{t}.
+$$  
+
+It is important to emphasize that the driver of the geometric aspect is the presence of the [underlying asset price](../../../Financial%20Instruments/Black%20Scholes%20Derivation.md) in the noise term. Thus, as the [asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) falls, the impact of the noise term also falls. Given the continuous nature of this process, the [asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) never reaches zero. We can divide both sides by $S_{t}$ and express in the traditional finance form or  
+$$
+\frac{dS_{t}}{S_{t}}=\alpha(S,t)dt+\sigma dW_{t}.
+$$  
+
+We thus implicitly assume that the asset prices follow a lognormal distribution. This is not the normal or bell-shaped curve. A lognormal distribution is skewed toward positive [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) in contrast to the normal distribution, which is symmetric. A lognormal distribution does imply, however, that the logarithm of the [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) comes from the normal or bell-shaped distribution.5 These properties are often desirable and fairly reasonable from an empirical standpoint.  
+
+An alternative process is known as arithmetic [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md), where the asset prices follow a normal distribution.6 It is "arithmetic" in the sense that absolute changes, meaning dollar changes, in the [asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) follow this [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) and thus can easily be added together. Arithmetic [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) can be formally stated as  
+$$
+dS_{t}=\alpha(S,t)dt+\sigma_{\$}dW_{t}.
+$$  
+
+It is important to emphasize that the driver of the arithmetic aspect is the absence of the [underlying asset price](../../../Financial%20Instruments/Black%20Scholes%20Derivation.md) in the noise term. Also, we introduce the subscript, $\$$ (dollars), to highlight the unit of measure is whatever the unit of measure of the asset price (assumed $\$$ here) and no longer expressed as a percentage. As discussed in later chapters, the drift term can be expressed in dollars or percentage depending on context. Thus, as the [asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) falls, the noise term is not affected. Given the continuous nature of this process, the [asset price](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) can easily reach zero as well as go negative. One benefit of arithmetic [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) is zero asset values are now possible—an unfortunate reality for many [financial instruments](../../../Financial%20Instruments/A%20Practical%20Guide%20for%20Actuaries%20and%20other%20Business%20Professionals..md).  
+
+Of course, no model will reproduce perfectly the process in which [asset returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Some%20Stylized%20Empirical%20Facts%20About%20Asset%20Retur.md) are generated. The real world can rarely be reduced to a set of mathematical equations. But as is nearly always the case, if a set of mathematical equations can reproduce the basic manner in which a real-world phenomenon occurs, it can have many uses. One of these uses is in [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) options on assets that follow the process described by the mathematical model covered here.  
+
+This model will be developed much further in Chapter 13.  
+
+# 10.5 SIMULATING BROWNIAN MOTION AND WIENER PROCESSES  
+
+To get a better understanding of the [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) and Wiener processes, let us run some simulations in Excel. Recall that the [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) process is Equation (10.11), and the [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) is Equation (10.2). Of course, in the model, time is continuous, so the time increments are close to zero. They are not, however, precisely equal to zero. Let us start by making them very short, say one hour. In a year, there are 365 days and 24 hours per day. Thus, each time increment is set at $1/(24 \times 365)=0.000114$ . Let us assume a stock with an [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) of 0.12, a volatility of 0.50, and a starting [stock price](../../Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) of 50.  
+
+The random component of the process is the [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md). The $\varepsilon_{t}$ , which is a standard normal, is converted into the [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md). First, we need to simulate a standard normal. One reasonable way to do so is to use Excel's =rand() function. This function produces a uniformly distributed random number between zero and one. A uniform distribution is a distribution of continuous random variables between two endpoints $a$ and $b$ in which each outcome is equally likely. If $a=0$ and $b=1$ , the distribution is called unit uniform, because the range of outcomes will be between 0 and 1. It is known that the expected value of the uniform distribution is $(1/2)(a+b)$, which is $1/2=(0+1)=0.5$ for the unit uniform. The variance is $(1/12)(b-a)^{2}$ . For the unit uniform, the variance is $(1/12)(1-0)^{2}=1/12$ . So, if we generate 12 unit uniform random variables and add them up, we obtain $u_{1}+u_{2}+\ldots+u_{12}$ . Taking the expectation, we obtain $E(u_{1})+E(u_{2})+\ldots+E(u_{12})=0.5+0.5+\ldots+0.5=6.$ We can then subtract 6, leaving an expected value of zero with no effect on the variance, which is easily obtained. These random drawings are independent so there is no covariance between them, and we can, therefore, simply add their variances to obtain the variance of the sum of the 12 unit uniform random variables. Thus, we have var $(u_{1})+\text{var}(u_{2})+\ldots+\text{var}(u_{12})=1/12+1/12+\ldots+1/12=1$ . Thus, the sum of the 12 unit  uniform random numbers minus 6 has expected value of zero and variance of 1, just like a standard normal. Recall that the central limit theorem tells us that the sum of a series of [independent random variables](../../Verification%20of%20Central%20Limit%20Theorem.md) from any distribution is normally distributed in the limit. We have used only 12 so the limiting condition is not likely to occur just yet, but we should be reasonably close to a normal distribution.7  
+
+Thus, the sum of 12 unit uniform random variables minus 6.0 will serve as our randomly generated value of $\varepsilon_{t}$ . The rest is simple. We use Equation (10.2) to generate the [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) value and insert that value into Equation (10.11) to obtain the stock return. We then apply the return to the current [stock price](../../Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) and obtain the next [stock price](../../Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md).  
+
+Recall that the time increment is one hour. To avoid some complications, let us assume that prices are generated every hour, every day, for a full year so there is no market closing and no holidays. This assumption would mean $24 \times 365=8,760$ prices in a year. Let us cut it down to a month, which would be $8,760/12=730$ prices. Then $dt=1/8,760$ , and we simulate 730 sequential prices or one month.  
+
+Table 10.1 shows the first five prices generated from the simulation.  
+
+Each row represents one hour. The column labeled $\varepsilon_{t}$ is the sum of 12 unit uniform random variables minus 6.0. The column labeled $dW_{t}$ is a transformation of the unit uniform to the [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md), Equation (10.2). The column labeled $R_{t}$ is from Equation (10.11). In the first row, time 0, we simply set the starting price as 50. The first increment occurs at increment 1 where the [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) value is –0.314189. The remainder of the information for time increment 1 is found as follows. First find the [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) value,  
+
+TABLE 10.1 Simulation of [Geometric Brownian Motion](../../../Financial%20Instruments/Black%20Scholes%20Derivation.md)   
+
+| Time | $\varepsilon_t$ | $dW_t$ | $R$ | $S_t$ | $dW^2$ |
+|------|----------|---------|------|--------|---------|
+| 0 |  |  |  | 50.00 |  |
+| 1 | -0.314189 | -0.003357 | -0.001665 | 49.92 | 0.000011 |
+| 2 | 1.712835 | 0.018301 | 0.009164 | 50.37 | 0.000335 |
+| 3 | 0.058170 | 0.000622 | 0.000324 | 50.39 | 0.000000 |
+| 4 | -0.697400 | -0.007451 | -0.003712 | 50.20 | 0.000056 |
+| 5 | -1.340360 | -0.014321 | -0.007147 | 49.84 | 0.000205 |
+
+$$
+dW_{t}=\varepsilon_{t}\sqrt{dt}=-0.314189\sqrt{1/8,760}=-0.003357.
+$$  
+
+Then convert this value to the stock return:  
+$$
+\frac{dS_{t}}{S_{t}}=\alpha dt+\sigma dW_{t}=0.12(1/8,760)+0.5(0.003357)=-0.001665.
+$$  
+
+Then the next [stock price](../../Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) is  
+$$
+\$50(1-0.001665)=\$49.92.
+$$  
+
+We should also compute $dW_{t}^{2}$ , because we shall show later that this value is essentially constant:  
+$$
+dW_{t}^{2}=(-0.003357)^{2}=0.000011.
+$$  
+
+Figure 10.3 shows the simulation of the normal random variable, $\varepsilon_{t}$ with each dot representing one of the randomly drawn values. Recall that we created this variable by adding 12 unit uniform random variables and subtracting 6.0. The average value is 0.010416 and the standard deviation is 0.968623. These are close to but not exactly equal to their desired values, but that result would only hold with a lot more values.  
+
+Figure 10.4 shows the simulated values of $dW_{t}$ and $dW_{t}^{2}$ . The volatile and dots is $dW_{t}$ , and the nearly straight line is $dW_{t}^{2}$ . We noted that $dW_{t}^{2}$ should be constant, but that result occurs only in the limit, meaning with an extremely short time interval. Our time interval of one hour seems short, but as you probably know, there are many stock prices that generate within an hour under normal trading. If we increasingly shorten the time interval, then the process would become more stable. See Appendix 10A for details.  
+
+Figure 10.5 is the [stock price](../../Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) simulated from the given results. It should be noted that the average return does not need to be anywhere near the [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md). Indeed, it is not, as the average return is 0.000069 per hour, which annualizes to almost $60\%$ . The volatility, however, is likely to be close to the annual specified volatility of 0.50. Here it is 0.484312.  
+
+We turn now to summarize key characteristics and important properties of the [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md). These properties will prove useful in later chapters.  
+
+![](c12212ed76145563e3be53c9a506d8cc27adee7d5cabb24ef90b76641e05db9b.jpg)  
+FIGURE 10.3 Simulation of Normal Distribution from Unit Uniform Distribution  
+
+![](a4ba80b353fcf22b24666c54f8ed7f2aa0520cc2ac64febdac94454a50fd63c9.jpg)  
+FIGURE 10.4 Simulation of $dW_{t}$ and $dW_{t}^{2}$  
+
+![](c1c095df0bc5e15a6dd81ebad57c4af619252b18a5be4a5441ab40a8e8cbfda7.jpg)  
+
+# 10.6 FORMAL STATEMENT OF WIENER PROCESS PROPERTIES  
+
+We now bring together important properties of Wiener processes. We also now assume the initial starting time is $t=0$ . Assume constants $t\geq0$ (e.g., calendar time expressed as fraction of year) and $0<b<t$ (e.g., historical point in time compared to $t$ assuming $t>0$ ). As previously discussed, the standard [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) at time $t$ or $W_{t}$ can be expressed with four key attributes:  
+
+■ Initial value of zero or $W_{t}=0$ if $t=0$ .   
+■ [Independent increments](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md). For every $t>0$ , increments $W_{t+\Delta t}-W_{t}$ are independent of any $W_{b}$ , where $\Delta t$ denotes an increment of calendar time.   
+■ Normal distribution. For any $b$ , $W_{t}-W_{b}$ is distributed normal with mean 0 and variance $t-b$ .   
+■ Continuity. For any $t$ , $W_{t}$ is continuous in $t$ .  
+
+We now briefly review selected properties of the [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) as well as introduce other properties useful for addressing tasks using Wiener processes.  
+
+# 10.6.1 Univariate Properties  
+
+As previously discussed, the standard [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) follows a normal distribution where the probability density function can be expressed as (recall we assume the initial time is 0):  
+$$
+n_{W_{t}}(x)=\frac{e^{-\frac{x^{2}}{2t}}}{\sqrt{2\pi t}}.
+$$  
+
+Note that  
+$$
+E(W_{t})=0\text{ and var}(W_{t})=t.
+$$  
+
+Recall from the definition of variance and assuming $t>0$ , we have var $(W_{t})=E(W_{t}^{2})-E(W_{t})^{2}=t-0=t$ .  
+
+# 10.6.2 Selected Time Series Properties  
+
+Again, assume constants $t>0$ (e.g., calendar time expressed as a fraction of a year) and $0<b<t$ (e.g., historical point in time compared to $t$ ). The covariance of $W_{t}$ and $W_{b}$ is  
+$$
+\text{cov}(W_{t},W_{b})=b.
+$$  
+
+Note that between 0 and $b$ , $W_{t}$ and $W_{b}$ are perfectly positively correlated so the covariance is one. Further, between $b$ and $t$ , $W_{t}$ and $W_{b}$ are uncorrelated, so the covariance is zero. Recall we assumed $t>b$ . Given [independent increments](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) as mentioned previously, we have $\text{cov}(W_{t}-W_{b}+W_{b},W_{b})=\text{cov}(W_{t}-W_{b},W_{b})+\text{cov}(W_{b},W_{b})=0+b=b$ .  
+
+For constants $c_{1}$ and $c_{2}$ , based on standard properties of covariance covered in Chapter 4, recall that  
+$$
+\text{cov}(c_{1}W_{t},c_{2}W_{b})=c_{1}c_{2}\text{cov}(W_{t},W_{b})=c_{1}c_{2}b.
+$$  
+
+Thus, the correlation between $c_{1}W_{t}$ and $c_{2}W_{b}$ is  
+$$
+\rho(c_{1}W_{t},c_{2}W_{b})\equiv\frac{\text{cov}(c_{1}W_{t},c_{2}W_{b})}{\sqrt{c_{1}^{2}\text{var}(W_{t})}\sqrt{c_{2}^{2}\text{var}(W_{b})}}=\frac{\text{cov}(W_{t},W_{b})}{\sqrt{\text{var}(W_{t})}\sqrt{\text{var}(W_{b})}}=\frac{b}{\sqrt{tb}}=\sqrt{\frac{b}{t}}.
+$$  
+
+Now consider two generic points in time $j>0$ and $k>0$ and the same [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md); however, we do not know whether $j>k,j<k$ , or $j=k$ . In this case,  
+$$
+\text{cov}(W_{j},W_{k})=\min(j,k).
+$$  
+
+If we assume $j>k$ , then based on Equation (10.17), we know cov $(W_{j},W_{k})=k$ . Similarly, if $j<k$ , we know cov $(W_{j},W_{k})=j$ . Thus, Equation (10.20) holds for all $j$ and $k$ .  
+$$
+\rho(W_{j},W_{k})=\frac{\text{cov}(W_{j},W_{k})}{\sqrt{\text{var}(W_{j})}\sqrt{\text{var}(W_{k})}}=\frac{\min(j,k)}{\sqrt{jk}}=\sqrt{\frac{\min(j,k)}{\max(j,k)}}.
+$$  
+
+Now consider the same point in time $t>0$ and two correlated Wiener processes $(W_{1,t}$ and $W_{2,t}$ ). That is, while $\varepsilon_{1,t}$ and $\varepsilon_{2,t}$ are independent, the Wiener processes are correlated. In this case, one of the Wiener processes (say $W_{2,t}$ ) can be expressed as a linear function of the other [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) $(W_{1,t})$ and an independent [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md), denoted $z_{t}$ . That is,  
+$$
+W_{2,t}=\rho W_{1,t}+(1-\rho)z_{t}.
+$$  
+
+In this case, we note  
+$$
+E(W_{2,t})=\rho E(W_{1,t})+(1-\rho)E(z_{t})=\rho \cdot 0+(1-\rho) \cdot 0=0,
+$$  
+$$
+\begin{align}
+\text{var}(W_{2,t}) &= \rho^{2}\text{var}(W_{1,t})+(1-\rho)^{2}\text{var}(z_{t})+2\text{cov}[\rho W_{1,t},(1-\rho)z_{t}]\\
+&= \rho^{2}t+(1-\rho)^{2}t+2\rho(1-\rho)\text{cov}(W_{1,t},z_{t})\\
+&= \rho^{2}t+(1-\rho)^{2}t+2\rho(1-\rho)t=t,\text{ and}\\
+\text{cov}(W_{1,t},W_{2,t}) &= \text{cov}(W_{1,t},\rho W_{1,t}+(1-\rho)z_{t})=\rho t+(1-\rho)\text{cov}(W_{1,t},z_{t})=\rho
+\end{align}
+$$  
+
+As a reminder, the last result occurs because $z_{t}$ and $W_{1,t}$ are independent. Now, we have  
+$$
+\rho(W_{1,t},W_{2,t})=\frac{\text{cov}(W_{1,t},W_{2,t})}{\sqrt{\text{var}(W_{1,t})}\sqrt{\text{var}(W_{2,t})}}=\frac{\rho t}{\sqrt{t}\sqrt{t}}=\rho.
+$$  
+
+These [Wiener process properties](../../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Arithmetic%20and%20Geometric%20Rates%20of%20Return.md) will be useful in future chapters.  
+
+# 10.7 RECAP AND PREVIEW  
+
+In this chapter, we introduced the basic [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) and [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md). We did this on a very intuitive level. We identified certain desirable characteristics and, one by one, we added features that introduced those characteristics without affecting the characteristics we had already built into the model. We ultimately obtained the [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) that is widely used to model assets. We showed several of its properties, and we generated a simulation so you could get a feel for what these numbers look like.  
+
+In Chapter 11, we introduce the two important concepts of Itô's lemma and [stochastic calculus](../../6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md), which will complete the knowledge base that we need to derive the [Black-Scholes](../../Mathematical%20Modeling%20of%20Derivative%20Pricing.md)-[Merton model](../../../Credit%20Markets/Credit%20Markets%20Session%205.md).  
+
+# APPENDIX 10A  
+
+# Simulation of the Wiener Process and the Square of the Wiener Process for Successively Smaller Time Intervals  
+
+Suppose we run a second set of simulated values of the [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) for smaller and smaller time intervals. First, let us use a daily time interval $(dt=1/365)$ , then an hourly time interval $(dt=1/(24 \times 365))$ , then a minute time interval $(dt=1/(60 \times 24 \times 365))$ , and then a second time interval $(dt=1/(60 \times 60 \times 24 \times 365))$ . We obtain the results in Table 10A.1 for $dW_{t}$ and $dW_{t}^{2}$ with values quoted to six decimal places.  
+
+Note that the average and volatility shrink for both measures when the interval is shortened. Note in particular, that the volatility of $dW_{t}^{2}$ is virtually zero. Of course, in the limit, it is zero.  
+
+TABLE 10A.1 Values of $dW_{t}$ and $dW_{t}^{2}$ for Various dt   
+
+|            |        $dW_t$        |        |        |        |       $dW^2$        |        |        |        |
+|------------|-------------|---------|---------|---------|----------|---------|---------|---------|
+|            | Daily       | Hourly  | Minute  | Second  | Daily    | Hourly  | Minute  | Second  |
+| Average    | -0.004201   | -0.000858 | -0.000111 | -0.000014 | 0.002862 | 0.000119 | 0.000002 | 0.000000 |
+| Standard Deviation | 0.053366 | 0.010893 | 0.001406 | 0.000182 | 0.004154 | 0.000173 | 0.000003 | 0.000000 |
+
+# QUESTIONS AND PROBLEMS  
+
+1 The [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) is defined as $dW_{t}=\varepsilon_{t}\sqrt{dt}$ . Find the expected value and standard deviation of the [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md).   
+2 [Geometric Brownian motion](../../../Financial%20Instruments/Black%20Scholes%20Derivation.md) can be expressed as $dS_{t}=\alpha S_{t}dt+\sigma S_{t}dW_{t}$ . Explain the behavior of changes in $S_{t}$ for different values of $S_{t}$ . In particular, explain why $S_{t}$ never obtains the value of zero.   
+3 As discussed in this chapter, an alternative framework for modeling certain [financial instruments](../../../Financial%20Instruments/A%20Practical%20Guide%20for%20Actuaries%20and%20other%20Business%20Professionals..md) is arithmetic [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) with geometric drift or $dS_{t}=\alpha S_{t}dt+\sigma_{\$}dW_{t}$ . Explain the behavior of changes in $S_{t}$ for different values of $S_{t}$ . In particular, explain why $S_{t}$ may obtain the value of zero or become negative.   
+4 The following two graphs were generated based on discretized versions of [geometric Brownian motion](../../../Financial%20Instruments/Black%20Scholes%20Derivation.md) $(dS_{t}=\alpha S_{t}dt+\sigma S_{t}dW_{t})$ and arithmetic [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) $(dS_{t}=\alpha S_{t}dt+\sigma_{\$}dW_{t})$ . Identify the graphs and defend your answer.  
+
+![](4b4aea0a7a78e8a00389a331f186d77e7072a5781e39f21c6b5b30fca24f1475.jpg)  
+
+![](64dcff44b2f32589b28562c7ab565ff0172e2aa86302391c863e6cfc7a505b22.jpg)  
+
+5 Identify four important characteristics that a model of asset prices should encompass.  
+
+6 [Contributed by Brecklyn Groce] The following table gives five simulated values of a standard normal random variable. Convert these values to the increments of a [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) and find the simulated value after five days of a stock initially priced at 80 with an annual [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) of $10\%$ and a volatility of $48\%$ under the assumption that the time increment is one day, $1/365=0.00274$ . You may wish to create a spreadsheet to work the problem.  
+
+| Day | $\varepsilon_t$ | $\Delta W_t$ | $S_t$ |
+|-----|-----------|------------|-------|
+| 0   |           |            | $80.00 |
+| 1   | 0.808889  |            |       |
+| 2   | 0.480432  |            |       |
+| 3   | 0.695581  |            |       |
+| 4   | -0.870413 |            |       |
+| 5   | 0.407389  |            |       |
+
+# NOTES  
+
+1. The terms [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md), [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md), and Itô process are often used interchangeably though there are technically some differences. Recall Robert Brown was a botanist, whereas  
+
+Wiener and Itô were mathematicians. Thus, mathematics-based authors lean toward Wiener or Itô processes, whereas physical and social scientists lean toward [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md). In our context, we use standard [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) or just [Wiener process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) to denote $W_{t}$ alone, whereas [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) denotes functions of $W_{t}$ .   
+2. Remember that $dW_{t}=\varepsilon_{t}\sqrt{dt}$ . Squaring the square root term gives $dt$ . This term is then multiplied by the variance of $\varepsilon_{t}$, which is 1.0.   
+3. Other properties like skewness might be important but we ignore them for this model.   
+4. It is common but not required to express expected [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) and variances on an annual basis. For example, banks quote CD rates for a year, though the CD may have some other maturity. The Federal Reserve may have a target [Fed Funds](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md) rate, which is stated on an annual basis, though most borrowings at that rate are overnight.   
+5. This type of process is also sometimes called a lognormal diffusion process. We explore this result in more detail in Chapter 12, Section 12.1.   
+6. Arithmetic (accent on third syllable) [Brownian motion](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) offers an alternative approach to several financial problems. We will cover these processes in detail starting in Chapter 12.   
+7. Another method is to use the Excel function =normsinv(rand()), which directly gives a standard normal random variable.  

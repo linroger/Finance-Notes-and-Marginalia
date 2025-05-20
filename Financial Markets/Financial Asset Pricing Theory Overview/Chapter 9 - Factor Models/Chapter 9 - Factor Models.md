@@ -5,15 +5,15 @@ tags:
 ---
 # Chapter 9 - Factor Models
 %% Begin Waypoint %%
-- **[Chapter 9 - Factor Models](.md)**
-	- [Chapter 9 - Factor Models](.md)
-	- [Empirical Factors](Empirical%20Factors.md)
-	- [Exercises](Exercises.md)
-	- [Mean-Variance Efficient Returns and Pricing Fac](Mean-Variance%20Efficient%20Returns%20and%20Pricing%20Fac.md)
-	- [Pricing Factors in a Multi-Period Framework](Pricing%20Factors%20in%20a%20Multi-Period%20Framework.md)
-	- [Pricing Factors in a One-Period Framework](Pricing%20Factors%20in%20a%20One-Period%20Framework.md)
-	- [The Classical One-Period Capm](The%20Classical%20One-Period%20Capm.md)
-	- [Theoretical Factors](Theoretical%20Factors.md)
+- **Chapter 9 - Factor Models**
+	- Chapter 9 - Factor Models
+	- Empirical Factors
+	- Exercises
+	- Mean-Variance Efficient Returns and Pricing Fac
+	- Pricing Factors in a Multi-Period Framework
+	- Pricing Factors in a One-Period Framework
+	- The Classical One-Period Capm
+	- Theoretical Factors
 
 %% End Waypoint %%
 # Factor models  
@@ -46,4 +46,4 @@ Many, many papers have tried to identify factor models that perform better, most
 
 It is worth emphasizing that the general theoretical results of the consumption-based asset pricing framework are not challenged by factor models. The problem with the consumption-based models is the implementation. Factor models do not invalidate the consumption-based asset pricing framework but are special cases that may be easier to apply and test. Therefore factors should generally help explain typical individuals' marginal utilities of consumption.  
 
-Section 9.2 reviews the classical one-period CAPM and how it fits into the modern consumptionbased asset pricing framework. Section 9.3 defines and studies pricing factors in the one-period setting. In particular, pricing factors are linked to state-price deflators. The relation between mean-variance efficient returns and pricing factors is the topic of Section 9.4. Multi-period pricing factors are introduced in Section 9.5 with a discussion of the distinction between conditional and unconditional pricing factors. Section 9.6 offers a brief introduction to empirical studies of factor models. Finally, Section 9.7 discusses how pricing factors can be derived theoretically. It also derives an intertemporal version of the CAPM.  
+Section 9.2 reviews the classical one-period CAPM and how it fits into the modern consumptionbased asset pricing framework. Section 9.3 defines and studies pricing factors in the one-period setting. In particular, pricing factors are linked to state-price deflators. The relation between mean-variance efficient returns and pricing factors is the topic of Section 9.4. Multi-period pricing factors are introduced in Section 9.5 with a discussion of the distinction between conditional and unconditional pricing factors. Section 9.6 offers a brief introduction to empirical studies of factor models. Finally, Section 9.7 discusses how pricing factors can be derived theoretically. It also derives an intertemporal version of the CAPM.

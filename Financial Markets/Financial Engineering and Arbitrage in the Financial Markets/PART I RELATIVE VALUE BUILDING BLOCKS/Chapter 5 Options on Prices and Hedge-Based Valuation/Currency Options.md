@@ -18,13 +18,13 @@ key_concepts:
 
 # 5.5 CURRENCY OPTIONS  
 
-Options on [currency](../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) rates work the same way as options on any [asset price](../../../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md). Because [currency](../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md).   
-rates are prices of one [currency](../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) in terms of another, they can be expressed with either [currency](../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md).   
-as the priced one and the [pricing](../../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) one. We do not express the prices of other assets in such inverted terms, for example, as the number of ABC shares per dollar. With currencies, both.   
-ways - yen per dollar and dollar per yen - are natural. Due to this [dual nature of FX rates](.md),.   
-[currency](../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) options, just like [forwards and futures](../../../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md), can be viewed in two ways..  
+Options on currency rates work the same way as options on any asset price. Because currency.   
+rates are prices of one currency in terms of another, they can be expressed with either currency.   
+as the priced one and the pricing one. We do not express the prices of other assets in such inverted terms, for example, as the number of ABC shares per dollar. With currencies, both.   
+ways - yen per dollar and dollar per yen - are natural. Due to this dual nature of FX rates,.   
+currency options, just like forwards and futures, can be viewed in two ways..  
 
-Let us consider a call option on the US dollar with a strike of 110 Japanese yen per dollar. (think of the dollar as the [underlying asset](../../../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md)) with one call covering $\$1,000$ (think of dollars as shares and each call is on 1,000 shares). If the dollar's price rises above $\yen110$ , the holder gets a payoff, otherwise not. The payoff, as with any call, is equal to the difference between the spot price of the underlying asset S (i.e. the spot FX rate in $\yen1S$ ) on the expiry date minus the strike $K$ , or nothing, times the number of units of the [underlying asset](../../../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) ([principal amount](../../../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/HSBC-Auto%20callable%20Barrier%20Notes%20with%20Step-up%20Premium.md) or size). That is, just like with any call, it is:.  
+Let us consider a call option on the US dollar with a strike of 110 Japanese yen per dollar. (think of the dollar as the underlying asset) with one call covering $\$1,000$ (think of dollars as shares and each call is on 1,000 shares). If the dollar's price rises above $\yen110$ , the holder gets a payoff, otherwise not. The payoff, as with any call, is equal to the difference between the spot price of the underlying asset S (i.e. the spot FX rate in $\yen1S$ ) on the expiry date minus the strike $K$ , or nothing, times the number of units of the underlying asset (principal amount or size). That is, just like with any call, it is:.  
 $$
 C a l l^{\frac{J P Y}{U S D}}=S i z e^{U S D}\times M a x\left(S^{\frac{J P Y}{U S D}}-K^{\frac{J P Y}{U S D}},0\right)
 $$  
@@ -45,4 +45,4 @@ per unit of yen. This times the size of the option, 110,000 units of yen, gives 
 
 # Call on Currency 1 = Put on Currency 2  
 
-with the size converted at the strike FX rate and the strike rate inverted. This rule is true for all [currency](../../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) options, standard or otherwise.  
+with the size converted at the strike FX rate and the strike rate inverted. This rule is true for all currency options, standard or otherwise.

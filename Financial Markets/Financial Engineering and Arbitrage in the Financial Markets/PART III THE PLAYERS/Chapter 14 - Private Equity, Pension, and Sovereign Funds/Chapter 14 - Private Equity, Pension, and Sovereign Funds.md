@@ -1,9 +1,9 @@
 %% Begin Waypoint %%
-- **[Chapter 14](../../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Chapter%2014.md)**
-	- [Chapter 14](../../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Chapter%2014.md)
-	- [Private Equity Pension and Sovereign Funds 329](Private%20Equity%20Pension%20and%20Sovereign%20Funds%20329)
-	- [Private Equity](Private%20Equity.md)
-	- [Risk Allocation for Pension Funds and Sovereig](Risk%20Allocation%20for%20Pension%20Funds%20and%20Sovereig.md)
+- **Chapter 14**
+	- Chapter 14
+	- Private Equity Pension and Sovereign Funds 329
+	- Private Equity
+	- Risk Allocation for Pension Funds and Sovereig
 
 %% End Waypoint %%
 
@@ -19,4 +19,4 @@
 14.2.1  Defined Benefit Pension Funds and Endowments 335   
 14.2.2 The Risk Budget Allocation Process 336   
 Acknowledgment 338  
-References 339  
+References 339

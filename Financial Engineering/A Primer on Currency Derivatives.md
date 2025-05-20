@@ -213,4 +213,4 @@ Grabbe, J.O. "The Pricing of Call and Put Options on Foreign Exchange," Journal 
 
 Grabbe, J.O. International Financial Markets. New York: Elsevier Science Publishing Co., Inc., 1991.
 
-Merton, R.C. "Theory of Rational Option Pricing," Bell Journal of Economics and Management Science, 4 (1973), pp. 141-83.  
+Merton, R.C. "Theory of Rational Option Pricing," Bell Journal of Economics and Management Science, 4 (1973), pp. 141-83.

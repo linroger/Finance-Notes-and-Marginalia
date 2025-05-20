@@ -1,9 +1,9 @@
 %% Begin Waypoint %%
-- **[Chapter 9 - Mortgage-Backed Securities](.md)**
-	- [Chapter 9 - Mortgage-Backed Securities](.md)
-	- [Collateralized Mortgage Obligations](Collateralized%20Mortgage%20Obligations.md)
-	- [Mortgage Financing Basics](Mortgage%20Financing%20Basics.md)
-	- [Mortgage Pass-Through Securities](Mortgage%20Pass-Through%20Securities.md)
+- **Chapter 9 - Mortgage-Backed Securities**
+	- Chapter 9 - Mortgage-Backed Securities
+	- Collateralized Mortgage Obligations
+	- Mortgage Financing Basics
+	- Mortgage Pass-Through Securities
 
 %% End Waypoint %%
 
@@ -17,4 +17,4 @@
 9.4.3 Interest-only (IO) and Principal-only (PO) Classes 237   
 9.5 Multiclass and Non-Vanilla CMOs. 241   
 9.5.1 A Multiclass PAC Structure with a PAC I/O and a Floater/Inverse Coupon Split 241   
-9.5.2 Non-Accelerating Senior and Accrual Tranches in Sequential CMOs 242  
+9.5.2 Non-Accelerating Senior and Accrual Tranches in Sequential CMOs 242

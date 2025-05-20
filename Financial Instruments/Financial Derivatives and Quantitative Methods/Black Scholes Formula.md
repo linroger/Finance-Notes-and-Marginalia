@@ -44,19 +44,19 @@ And the payoff at maturity to a digital put option is:
 $$p^b(T)=\begin{cases}1 & \text{if } S(T)\leq K \\ 0 & \text{if } S(T)>K \end{cases}$$
 
 We now show how to value the digital call option. The end price $S_T$ is a random variable. We have by assumption that $\ln S(T)$ is normally distributed with
-$$\operatorname{E}[\ln S(T)]=\ln S(0)+\left(\mu - \frac{1}{2}\sigma^2\right)T$$
+$$\operatorname{E}[\ln S(T)]=\ln S(0)+\left(\mu - \frac{1}{2}\sigma[^2]\right)T$$
 
 And
-$$\mathrm{Var}[\ln S(T)]=\sigma^2 T.$$
+$$\mathrm{Var}[\ln S(T)]=\sigma[^2] T.$$
 
 Thus
-$$\frac{\ln S(T) - \ln S(0) - \left(\mu - \frac{1}{2}\sigma^2\right)T}{\sigma\sqrt{T}}$$
+$$\frac{\ln S(T) - \ln S(0) - \left(\mu - \frac{1}{2}\sigma[^2]\right)T}{\sigma\sqrt{T}}$$
 
 Is a standard normal variable with expected value of zero and standard deviation of one. We want to know the probability that the call option is exercised. The call option is exercised if $S_T>K$ or equivalently if $\ln S(T)>\ln K$. Thus, the probability of exercise is given by $1 - N(x^*)$ where
-$$x^*=\frac{\ln K - \ln S(0) - \left(\mu - \frac{1}{2}\sigma^2\right)T}{\sigma\sqrt{T}}$$
+$$x^*=\frac{\ln K - \ln S(0) - \left(\mu - \frac{1}{2}\sigma[^2]\right)T}{\sigma\sqrt{T}}$$
 
 As we have seen, options can be evaluated using risk-neutral pricing, that is, as if all assets earn the same rate of return as the riskless asset. Thus, we replace $\mu$ by $r$ in the above equation to get
-$$x=\frac{\ln K-\ln S(0)-\left(r-\frac{1}{2}\sigma^2\right)T}{\sigma\sqrt{T}}.$$
+$$x=\frac{\ln K-\ln S(0)-\left(r-\frac{1}{2}\sigma[^2]\right)T}{\sigma\sqrt{T}}.$$
 
 Thus, the probability of exercise in a risk-neutral world is $1-N(x)=N(-x)$. The call option pays out one unit if it is exercised but only after $T$ periods. Thus, the expected discounted value of the digital call option is
 $$c^b(0)=e^{-rT}N(-x).$$
@@ -81,8 +81,8 @@ $$c(0)=S(0)N(d_1) - e^{-rT}KN(d_2)$$
 
 Where $N(d)$ is the cumulative probability distribution for a variable that has a standard normal distribution with a mean of zero and a standard deviation of one. It is the area under the standard normal density function from $-\infty$ to $d$ and therefore gives the probability that a random draw from the standard normal distribution will have a value less than or equal to $d$. We have therefore that $0 \leq N(d) \leq 1$ with $N(-\infty)=0$, $N(0)=\frac{1}{2}$, and $N(+\infty)=1$. The term $r$ is the continuously compounded risk-free rate of interest, and $d_1$ and $d_2$ satisfy
 $$\begin{array}{rcl}
-d_1 &=& \frac{\ln(\frac{S(0)}{K})+(r+\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}} \\\\
-d_2 &=& d_1-\sigma\sqrt{T}=\frac{\ln(\frac{S(0)}{K})+(r-\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}
+d_1 &=& \frac{\ln(\frac{S(0)}{K})+(r+\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}} \\\\
+d_2 &=& d_1-\sigma\sqrt{T}=\frac{\ln(\frac{S(0)}{K})+(r-\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}}
 \end{array}$$
 
 Here $\sigma^{2}$ is the variance of the continuously compounded rate of return on the underlying asset.
@@ -104,7 +104,7 @@ $$c(0)=e^{-rT}\begin{pmatrix}S(0)e^{rT}N(d_1)-KN(d_2)\end{pmatrix}.$$
 The formula can be interpreted as follows. If the call option is exercised at the maturity date, then the holder gets the stock worth $S(T)$ but has to pay the strike price $K$. But this exchange takes place only if the call finishes in the money. Thus $S(0)e^{rT}N(d_{1})$ represents the future value of the underlying asset conditional on the end stock value $S(T)$ being greater than the strike price $K$. The second term in the brackets $KN(d_{2})$ is the value of the known payment $K$ times the probability that the strike price will be paid $N(d_{2})$. The terms inside the brackets are discounted by the risk-free rate $r$ to bring the payments into present value terms. Thus the evaluation inside the brackets is made using the risk-neutral or martingale probabilities. The term $N(d_{2})$ represents the probability that the call finishes in the money where $d_{2}$ is also evaluated using the risk-free rate.
 
 Remember that in a risk-neutral world all assets earn the risk-free rate. We are assuming the logarithm of the stock price is normally distributed. Thus the expected continuously compounded rate of return in a risk-neutral world is equal to $r-\frac{1}{2}\sigma^{2}$ where the variance is deducted to calculate the certainty equivalent rate of return. Therefore at time $T$, $\ln S(T)$ is normally distributed with a mean value of $\ln S(0)+(r-\frac{1}{2}\sigma^{2})T$ and a standard deviation of $\sigma\sqrt{T}$. Thus
-$$\frac{\ln S(T)-(\ln S(0)+(r-\frac{1}{2}\sigma^2)T)}{\sigma\sqrt{T}}$$
+$$\frac{\ln S(T)-(\ln S(0)+(r-\frac{1}{2}\sigma[^2])T)}{\sigma\sqrt{T}}$$
 
 is a standard normal variable. The probability that $S(T)<K$ is therefore given by $N(-d_{2})$ and the probability that $S(T)>K$ is given by $1-N(-d_{2})=N(d_{2})$.
 
@@ -130,7 +130,7 @@ Consider an option that is currently at-the-money, $S(0)=K$. Then, the formula f
 $$c(0)=S(0)\begin{pmatrix}N(d_1)-e^{-rT}N(d_2)\end{pmatrix}$$
 
 Where
-$$d_1=\frac{(r+\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}; \quad d_2=d_1-\sigma\sqrt{T}.$$
+$$d_1=\frac{(r+\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}}; \quad d_2=d_1-\sigma\sqrt{T}.$$
 
 Thus, the price of an at-the-money call option is simply a fraction of the price of the underlying.
 
@@ -138,15 +138,15 @@ There is an even more convenient approximation if we take $K=S(0)e^{rT}$ that is
 $$c(0)=S(0)(N(d_1)-N(d_2))$$
 
 And
-$$d_1=\frac{\ln(\frac{S(0)}{K})+(r+\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}=\frac{\frac{1}{2}\sigma^2T}{\sigma\sqrt{T}}=\frac{1}{2}\sigma\sqrt{T}$$
+$$d_1=\frac{\ln(\frac{S(0)}{K})+(r+\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}}=\frac{\frac{1}{2}\sigma[^2]T}{\sigma\sqrt{T}}=\frac{1}{2}\sigma\sqrt{T}$$
 
 And $d_{2}=-\frac{1}{2}\sigma\sqrt{T}$. By Taylor's theorem, expanding $N(x)$ about $x=0$ gives
 $$N(x) \approx N(0)+xN'(0)+\frac{1}{2}x^{2}N''(0).$$
 
 Thus we have
 $$\begin{aligned}
-N(d_1)-N(d_2) &\approx \left(N(0)+d_1N'(0)+\frac{1}{2}d_1^2N''(0)\right)\\
-&-\left(N(0)+d_2N'(0)+\frac{1}{2}d_2^2N''(0)\right)
+N(d_1)-N(d_2) &\approx \left(N(0)+d_1N'(0)+\frac{1}{2}d_1[^2]N''(0)\right)\\
+&-\left(N(0)+d_2N'(0)+\frac{1}{2}d_2[^2]N''(0)\right)
 \end{aligned}$$
 
 Hence since $d_{1}^{2}=d_{2}^{2}$ and $d_{1}=-d_{2}=\frac{1}{2}\sigma\sqrt{T}$ we have
@@ -170,22 +170,22 @@ The latter is equivalent to $B(t)=B(0)e^{rt}$. The excess return on the stock is
 The objective is to show that $c(S(t), t)$ is well defined (there is a unique price) and describe how the call price depends on $S(t)$ and $t$
 
 Since $c(S(t), t)$ is just a function, we can apply Ito's lemma to derive
-$$dc=\left(\frac{\partial c}{\partial t}+\mu S\frac{\partial c}{\partial S}+\frac{1}{2}\sigma^2S^2\frac{\partial^2c}{\partial S^2}\right)dt+\sigma S\frac{\partial c}{\partial S}dz.$$
+$$dc=\left(\frac{\partial c}{\partial t}+\mu S\frac{\partial c}{\partial S}+\frac{1}{2}\sigma[^2]S[^2]\frac{\partial[^2]c}{\partial S[^2]}\right)dt+\sigma S\frac{\partial c}{\partial S}dz.$$
 
 We now consider a portfolio of one option and $\Delta$ units of the underlying itself. The process for this portfolio is
-$$d(c+\Delta S)=\left(\frac{\partial c}{\partial t}+\mu S\frac{\partial c}{\partial S}+\frac{1}{2}\sigma^2S^2\frac{\partial^2c}{\partial S^2}+\Delta\mu S\right)dt+\left(\frac{\partial c}{\partial S}+\Delta\right)\sigma Sdz.$$
+$$d(c+\Delta S)=\left(\frac{\partial c}{\partial t}+\mu S\frac{\partial c}{\partial S}+\frac{1}{2}\sigma[^2]S[^2]\frac{\partial[^2]c}{\partial S[^2]}+\Delta\mu S\right)dt+\left(\frac{\partial c}{\partial S}+\Delta\right)\sigma Sdz.$$
 
 Now setting $\Delta=-\partial c/\partial S$ eliminates the random $dz$ term to give
-$$d(c+\Delta S)=\left(\frac{\partial c}{\partial t}+\frac{1}{2}\sigma^2S^2\frac{\partial^2c}{\partial S^2}\right)dt.$$
+$$d(c+\Delta S)=\left(\frac{\partial c}{\partial t}+\frac{1}{2}\sigma[^2]S[^2]\frac{\partial[^2]c}{\partial S[^2]}\right)dt.$$
 
 This is our $\Delta$-hedged portfolio which has eliminated all risk. Since this portfolio is riskless, it must satisfy exactly the same equation as the money-market account, i.e.
 $$d(c+\Delta S)=r(c+\Delta S)dt$$
 
 And hence we have by equating these two terms that
-$$\left(\frac{\partial c}{\partial t}+\frac{1}{2}\sigma^2S^2\frac{\partial^2c}{\partial S^2}\right)=r\left(c-\frac{\partial c}{\partial S}S\right)$$
+$$\left(\frac{\partial c}{\partial t}+\frac{1}{2}\sigma[^2]S[^2]\frac{\partial[^2]c}{\partial S[^2]}\right)=r\left(c-\frac{\partial c}{\partial S}S\right)$$
 
 Where we've replaced $\Delta$ by $-\partial c/\partial S$. Rewriting, we have
-$$\frac{\partial c}{\partial t}+rS\frac{\partial c}{\partial S}+\frac{1}{2}\sigma^2S^2\frac{\partial^2c}{\partial S^2}-rc=0.$$
+$$\frac{\partial c}{\partial t}+rS\frac{\partial c}{\partial S}+\frac{1}{2}\sigma[^2]S[^2]\frac{\partial[^2]c}{\partial S[^2]}-rc=0.$$
 
 This is a second-order partial differential equation (PDE). It is known as the Black-Scholes-Merton Partial Differential Equation. Indeed, since we did not yet specify anything about the nature of the option, this equation will apply to any derivative security. What determines how the equation applies to a particular derivative is given by the boundary condition. For the call option, we have the boundary condition that at maturity
 $$c(S(T), T)=\max\{S(T)-K, 0\}.$$
@@ -195,8 +195,8 @@ $$c(0)=S(0)N(d_1)-e^{-rT}KN(d_2)$$
 
 Where $d_{1}$ and $d_{2}$ satisfy
 $$\begin{array}{rcl}
-d_1 &=& \frac{\ln(\frac{S(0)}{K})+(r+\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}} \\\\
-d_2 &=& d_1-\sigma\sqrt{T}=\frac{\ln(\frac{S(0)}{K})+(r-\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}.
+d_1 &=& \frac{\ln(\frac{S(0)}{K})+(r+\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}} \\\\
+d_2 &=& d_1-\sigma\sqrt{T}=\frac{\ln(\frac{S(0)}{K})+(r-\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}}.
 \end{array}$$
 
 ## A Replication Argument
@@ -217,7 +217,7 @@ d(P(S(t), t)-c(S(t), t)) &= dP-dc \\
 \end{aligned}$$
 
 Then substituting for $dS$, $dB$, and $\alpha(S, t)$ gives
-$$d(P(S(t), t)-c(S(t), t))=\left(\beta(S, t)rB-\frac{\partial c}{\partial t}-\frac{1}{2}\sigma^2S^2\frac{\partial^2c}{\partial S^2}\right)dt.$$
+$$d(P(S(t), t)-c(S(t), t))=\left(\beta(S, t)rB-\frac{\partial c}{\partial t}-\frac{1}{2}\sigma[^2]S[^2]\frac{\partial[^2]c}{\partial S[^2]}\right)dt.$$
 
 Again, the risk has been eliminated from this equation. Then, using the Black-Scholes equation gives
 $$d(P(S(t), t)-c(S(t), t))=\left(\beta(S, t)rB-r\left(c-S\frac{\partial c}{\partial S}\right)\right)dt$$
@@ -257,16 +257,16 @@ $$dS(t)=rS(t)dt+\sigma S(t)d\tilde{z}$$
 So that $S(t)$ is a geometric Brownian motion process using the new variable $\tilde{z}$. Here, the drift with the new variable is just the risk-free rate. It is as if we are in a risk-neutral world and all assets are growing at the same expected rate equal to the risk-free rate.
 
 We can then proceed as before to show that
-$$\frac{\ln S(T)-\ln S(0)-(r-\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}$$
+$$\frac{\ln S(T)-\ln S(0)-(r-\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}}$$
 
 Is a standard normal variable with mean zero and unit variance. The value of a call option can be calculated as the discounted value of the expected intrinsic value using the risk-neutral expectation. That is,
 $$c(0)=e^{-rT}\mathrm{E}_*[\max\{S(T)-K, 0\}].$$
 
 Thus, we need to calculate the expected value of $S(T)-K$ conditional on the option ending in the money, $S(T)>K$. The value of the option consists of two parts: the future value of the underlying asset conditional on $S(T)>K$ and the strike price paid times the probability the option is exercised. The probability the option is exercised is the probability $S(T)>K$. This will be given by $1-N(x)$ where
-$$x=\frac{\ln K-\ln S(0)-(r-\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}.$$
+$$x=\frac{\ln K-\ln S(0)-(r-\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}}.$$
 
 Since $1-N(x)=N(-x)$ the probability of exercise is $N(d_{2})$ where
-$$-x=d_2=\frac{\ln(S(0)/K)+(r-\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}.$$
+$$-x=d_2=\frac{\ln(S(0)/K)+(r-\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}}.$$
 
 It can also be shown by integration that the expected future value of the underlying asset conditional on $S(T)>K$ is $S(0)e^{rT}N(d_{1})$ where $d_{1}=d_{2}+\sigma\sqrt{T}$. Hence
 $$c(0)=e^{-rT}(S(0)e^{rT}N(d_1)-KN(d_2))$$

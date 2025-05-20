@@ -82,24 +82,24 @@ $$
 
 ```python
 def problem1_arbitrage_forward_rates():
-    print("\n--- Problem 1: [Arbitrage and Forward Rates](.md) ---")
+    print("\n--- Problem 1: Arbitrage and Forward Rates ---")
     # Given parameters:
-    S0 = 1.20  # current USD/EUR [spot rate](../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md)
-    r_usd = 0.05       # continuously compounded US [risk-free rate](Black%20Scholes%20Derivation.md) (annual)
-    r_eur = 0.045      # continuously compounded Euro [risk-free rate](Black%20Scholes%20Derivation.md) (annual)
+    S0 = 1.20  # current USD/EUR spot rate
+    r_usd = 0.05       # continuously compounded US risk-free rate (annual)
+    r_eur = 0.045      # continuously compounded Euro risk-free rate (annual)
     T = 1.0            # 1 year
-    market_forward = 1.15  # market 1-year [forward contract](../Clippings/Forward%20Points%20in%20Currency.md) rate
+    market_forward = 1.15  # market 1-year forward contract rate
 
-    # (1) Compute the no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) [forward rate](../Clippings/Forward%20Points%20in%20Currency.md):
+    # (1) Compute the no-arbitrage forward rate:
     F_theoretical = S0 * np.exp((r_usd - r_eur) * T)
-    print(f"Theoretical 1-year [forward rate](../Clippings/Forward%20Points%20in%20Currency.md): {F_theoretical:.5f} USD/EUR")
+    print(f"Theoretical 1-year forward rate: {F_theoretical:.5f} USD/EUR")
 
-    # (2) [Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity analysis:
-    print(f"Market [forward rate](../Clippings/Forward%20Points%20in%20Currency.md): {market_forward:.5f} USD/EUR")
+    # (2) Arbitrage opportunity analysis:
+    print(f"Market forward rate: {market_forward:.5f} USD/EUR")
 
     if market_forward < F_theoretical:
-        print("[Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) Opportunity Detected: Market forward is underpriced.")
-        # [Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) strategy:
+        print("Arbitrage Opportunity Detected: Market forward is underpriced.")
+        # Arbitrage strategy:
         # (a) Borrow 1 EUR today.
         euro_borrowed = 1.0
         # (b) Repayment in 1 year (continuously compounded at r_eur):
@@ -108,15 +108,15 @@ def problem1_arbitrage_forward_rates():
         usd_received = S0 * euro_borrowed
         # (d) Invest USD at r_usd:
         usd_at_maturity = usd_received * np.exp(r_usd * T)
-        # (e) Enter [forward contract](../Clippings/Forward%20Points%20in%20Currency.md) to buy 1 EUR at market_forward:
+        # (e) Enter forward contract to buy 1 EUR at market_forward:
         eur_received = usd_at_maturity / market_forward
         net_profit = eur_received - euro_repayment
         print(f"Euro repayment at maturity: {euro_repayment:.5f} EUR")
-        print(f"USD value at maturity after [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md): {usd_at_maturity:.5f} USD")
+        print(f"USD value at maturity after investment: {usd_at_maturity:.5f} USD")
         print(f"Euros received from forward conversion: {eur_received:.5f} EUR")
-        print(f"Net [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) profit per EUR borrowed: {net_profit:.5f} EUR")
+        print(f"Net arbitrage profit per EUR borrowed: {net_profit:.5f} EUR")
     else:
-        print("No [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity exists since market forward >= theoretical value.")
+        print("No arbitrage opportunity exists since market forward >= theoretical value.")
 ```
 
 ## 2 Forward Rates and Covered Interest Rate Parity
@@ -218,8 +218,8 @@ $$
 
 ```python
 def problem2_forward_parity():
-    print("\n--- Problem 2: Forward Rates and [Covered Interest Rate Parity](.md) ---")
-    # Read the [FX Forwards](.md) and Rates data
+    print("\n--- Problem 2: Forward Rates and Covered Interest Rate Parity ---")
+    # Read the FX Forwards and Rates data
     df_fx = pd.read_csv(io.StringIO(fx_forwards_csv))
     # Define maturities in years for 1M, 3M, 6M, 1Y (assume 1/12, 0.25, 0.5, 1.0 respectively)
     maturities = {"1M": 1/12, "3M": 0.25, "6M": 0.5, "1Y": 1.0}
@@ -241,18 +241,18 @@ def problem2_forward_parity():
             # Convert to continuously compounded:
             r_usd_cc = linear_to_continuous(r_usd_lin, tau)
             r_eur_cc = linear_to_continuous(r_eur_lin, tau)
-            # Compute theoretical [forward rate](../Clippings/Forward%20Points%20in%20Currency.md):
+            # Compute theoretical forward rate:
             F_theo = spot * np.exp((r_usd_cc - r_eur_cc) * tau)
             computed_forwards[label] = (forward_quote, F_theo)
         results.append((date, computed_forwards))
 
     # Print the comparison for each date and maturity:
-    for date, [forwards](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md) in results:
+    for date, forwards in results:
         print(f"\nDate: {date}")
-        for label, (quoted, computed) in [forwards](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md).items():
+        for label, (quoted, computed) in forwards.items():
             diff = computed - quoted
             print(f"  Maturity {label}: Quoted = {quoted:.5f}, Computed = {computed:.5f}, Difference = {diff:.5f}")
-        # Here you could add logic to flag significant deviations and describe an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) strategy.```
+        # Here you could add logic to flag significant deviations and describe an arbitrage strategy.```
 
 ## 3 Exploiting an Apparent Arbitrage Opportunity
 
@@ -356,14 +356,14 @@ $$
 
 ```python
 def problem3_exploit_arbitrage():
-    print("\n--- Problem 3: Exploiting an Apparent [Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) Opportunity ---")
-    # Read the Forward [Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) data
+    print("\n--- Problem 3: Exploiting an Apparent Arbitrage Opportunity ---")
+    # Read the Forward Arbitrage data
     df_fwd = pd.read_csv(io.StringIO(forward_arbitrage_csv))
 
     # For the trade initiated on "Wednesday, October 01, 2008"
     row_init = df_fwd[df_fwd["Date"].str.contains("October 01, 2008")].iloc[0]
-    F0 = row_init["1Y $/EURO FORWARD"]  # locked-in [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) for 1-year forward
-    print(f"Locked-in [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) on Oct 01, 2008: {F0:.5f} USD/EUR")
+    F0 = row_init["1Y $/EURO FORWARD"]  # locked-in forward rate for 1-year forward
+    print(f"Locked-in forward rate on Oct 01, 2008: {F0:.5f} USD/EUR")
 
     # Define a helper to compute the current forward value for a remaining period tau (years)
     def compute_forward_value(M_t, r_usd_lin, r_eur_lin, tau, F0):
@@ -387,9 +387,9 @@ def problem3_exploit_arbitrage():
     r_eur_lin_apr = row_apr["6M EURO LIBOR"]
     F_current_apr, V_forward_apr, V_synthetic_apr = compute_forward_value(M_t_apr, r_usd_lin_apr, r_eur_lin_apr, tau_apr, F0)
     print(f"\n--- Unwinding on April 01, 2009 (tau = {tau_apr} years) ---")
-    print(f"[Spot rate](../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) on Apr 01, 2009: {M_t_apr:.5f} USD/EUR")
-    print(f"Computed [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) for remaining period: {F_current_apr:.5f} USD/EUR")
-    print(f"Value of [short forward](Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Forward%20Rates%20Agreement.md) position: {V_forward_apr:.5f} USD/EUR (positive indicates gain)")
+    print(f"Spot rate on Apr 01, 2009: {M_t_apr:.5f} USD/EUR")
+    print(f"Computed forward rate for remaining period: {F_current_apr:.5f} USD/EUR")
+    print(f"Value of short forward position: {V_forward_apr:.5f} USD/EUR (positive indicates gain)")
     print(f"Synthetic forward value: {V_synthetic_apr:.5f} USD/EUR")
 
     # (b) Unwind on July 01, 2009 (tau = 0.25 year remains)
@@ -400,9 +400,9 @@ def problem3_exploit_arbitrage():
     r_eur_lin_jul = row_jul["6M EURO LIBOR"]
     F_current_jul, V_forward_jul, V_synthetic_jul = compute_forward_value(M_t_jul, r_usd_lin_jul, r_eur_lin_jul, tau_jul, F0)
     print(f"\n--- Unwinding on July 01, 2009 (tau = {tau_jul} years) ---")
-    print(f"[Spot rate](../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) on Jul 01, 2009: {M_t_jul:.5f} USD/EUR")
-    print(f"Computed [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) for remaining period: {F_current_jul:.5f} USD/EUR")
-    print(f"Value of [short forward](Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Forward%20Rates%20Agreement.md) position: {V_forward_jul:.5f} USD/EUR (positive indicates gain)")
+    print(f"Spot rate on Jul 01, 2009: {M_t_jul:.5f} USD/EUR")
+    print(f"Computed forward rate for remaining period: {F_current_jul:.5f} USD/EUR")
+    print(f"Value of short forward position: {V_forward_jul:.5f} USD/EUR (positive indicates gain)")
     print(f"Synthetic forward value: {V_synthetic_jul:.5f} USD/EUR")```
 
 ## 4 Commodity Futures
@@ -454,31 +454,31 @@ $$
 
 ```python
 Def problem 4_commodity_futures ():
-    Print ("\n--- Problem 4: [Commodity Futures](.md) [Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) ---")
-    # Consider an oil [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract with delivery at T.
-    # Let S 0 be the spot price, r the continuously compounded [risk-free rate](Black%20Scholes%20Derivation.md),
+    Print ("\n--- Problem 4: Commodity Futures Arbitrage ---")
+    # Consider an oil futures contract with delivery at T.
+    # Let S 0 be the spot price, r the continuously compounded risk-free rate,
     # and u the storage cost (as a percentage per year).
     S 0 = 50.0       # Example spot price (USD)
     R = 0.05        # 5% per year continuously compounded
     U = 0.02        # 2% storage cost per year
     T = 1.0         # 1 year
     F_theoretical = S 0 * np.Exp ((r + u) * T)
-    Print (f"Theoretical [futures price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Futures%20Price%20and%20the%20Quality%20Option%20Before%20E.md) (no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)): {F_theoretical:. 2 f} USD")
+    Print (f"Theoretical futures price (no-arbitrage): {F_theoretical:. 2 f} USD")
 
-    # Scenario 1: Observed [futures price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Futures%20Price%20and%20the%20Quality%20Option%20Before%20E.md) is lower than theoretical.
+    # Scenario 1: Observed futures price is lower than theoretical.
     F_observed_low = F_theoretical - 2.0  # e.g., $2 below theoretical
     If F_observed_low < F_theoretical:
         Profit_per_unit = F_theoretical - F_observed_low
-        Print (f"\nScenario 1: Observed [futures price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Futures%20Price%20and%20the%20Quality%20Option%20Before%20E.md) = {F_observed_low:. 2 f} USD (underpriced)")
-        Print (f"[Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) strategy: Borrow money, buy the commodity at spot, store it, and sell forward.")
+        Print (f"\nScenario 1: Observed futures price = {F_observed_low:. 2 f} USD (underpriced)")
+        Print (f"Arbitrage strategy: Borrow money, buy the commodity at spot, store it, and sell forward.")
         Print (f"Profit per unit = {profit_per_unit:. 2 f} USD")
 
-    # Scenario 2: Observed [futures price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Futures%20Price%20and%20the%20Quality%20Option%20Before%20E.md) is higher than theoretical.
+    # Scenario 2: Observed futures price is higher than theoretical.
     F_observed_high = F_theoretical + 2.0  # e.g., $2 above theoretical
     If F_observed_high > F_theoretical:
         Profit_per_unit = F_observed_high - F_theoretical
-        Print (f"\nScenario 2: Observed [futures price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Futures%20Price%20and%20the%20Quality%20Option%20Before%20E.md) = {F_observed_high:. 2 f} USD (overpriced)")
-        Print ("[Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) strategy: Short the commodity (or borrow it), invest the proceeds, and buy forward.")
+        Print (f"\nScenario 2: Observed futures price = {F_observed_high:. 2 f} USD (overpriced)")
+        Print ("Arbitrage strategy: Short the commodity (or borrow it), invest the proceeds, and buy forward.")
         Print (f"Profit per unit = {profit_per_unit:. 2 f} USD")```
 
 ## 5 Hedging with Futures: Southwest jet fuel hedge
@@ -660,7 +660,7 @@ $$
 
 ```python
 Def problem 5_southwest_hedge ():
-    Print ("\n--- Problem 5: [Hedging with Futures](.md) – Southwest Jet Fuel Hedge ---")
+    Print ("\n--- Problem 5: Hedging with Futures – Southwest Jet Fuel Hedge ---")
     # Fuel consumption data and hedge parameters:
     Total_fuel_gallons = 1.511 e 6    # 1,511 million gallons
     Hedge_fraction = 0.75           # 75% hedge for Q 1 2008
@@ -669,7 +669,7 @@ Def problem 5_southwest_hedge ():
     Num_contracts = hedged_gallons / contract_size
     Print (f"Total fuel consumption: {total_fuel_gallons:,. 0 f} gallons")
     Print (f"Fuel to hedge (75%): {hedged_gallons:,. 0 f} gallons")
-    Print (f"Number of [futures contracts](../Financial%20Engineering/Mathematics%20of%20the%20Financial%20Markets.md) required: {num_contracts:,. 0 f}")
+    Print (f"Number of futures contracts required: {num_contracts:,. 0 f}")
 
     # For Q 1 2008, we use the Light Crude fut. Prices (3.2)-Table 1 for FEB, MAR, APR contracts.
     Df_crude 32 = pd. Read_csv (io.StringIO (light_crude 32_csv))
@@ -679,7 +679,7 @@ Def problem 5_southwest_hedge ():
     Except Exception:
         Df_crude 32['Day'] = pd. To_datetime (df_crude 32['Day'])
 
-    # Assume the hedge was initiated on 12/31/07 using the [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) prices on that day.
+    # Assume the hedge was initiated on 12/31/07 using the futures prices on that day.
     # We then mark-to-market the position on a later date (e.g., March 22, 2008).
     # For simplicity, let’s use the first row as the initiation and the last row as the evaluation date.
     Init_row = df_crude 32. Iloc[0]
@@ -687,7 +687,7 @@ Def problem 5_southwest_hedge ():
 
     # For each contract (FEB, MAR, APR) we compute P&L per contract.
     # We assume that fuel consumption is uniform over Jan, Feb, and Mar so that the hedge is split equally.
-    Months = ['FEB. 08 [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) Prices', 'MAR. 08 [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) Prices', 'APR. 08 [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) Prices']
+    Months = 'FEB. 08 [Futures Prices', 'MAR. 08 Futures Prices', 'APR. 08 Futures Prices']
     Initial_prices = init_row[months]
     Eval_prices = eval_row[months]
     Pnl_contract = (initial_prices - eval_prices) * 1000  # contract size in barrels (assume 1000 barrels per contract)
@@ -699,17 +699,17 @@ Def problem 5_southwest_hedge ():
     # Compute the effective (implicit) jet fuel price:
     # Assume that the actual jet fuel spot price for Q 1 2008 is given by the average fuel price in the data.
     Avg_fuel_price = df_crude 32["Fuel price per gallon"]. Mean ()
-    # The gain/loss per gallon from the [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) hedge:
+    # The gain/loss per gallon from the futures hedge:
     Gain_per_gallon = total_pnl / hedged_gallons
     Implicit_price = avg_fuel_price - gain_per_gallon
     Print (f"Average jet fuel spot price in Q 1 2008: {avg_fuel_price:. 2 f} USD/gallon")
     Print (f"Effective (implicit) jet fuel price after hedge: {implicit_price:. 2 f} USD/gallon")
 
-    # Compute the correlation between changes in jet fuel prices and changes in APR. 08 [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) prices.
+    # Compute the correlation between changes in jet fuel prices and changes in APR. 08 futures prices.
     Df_crude 32['Fuel_Return'] = df_crude 32["Fuel price per gallon"]. Pct_change ()
-    Df_crude 32['APR_Return'] = df_crude 32["APR. 08 [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) Prices"]. Pct_change ()
+    Df_crude 32['APR_Return'] = df_crude 32"APR. 08 [Futures Prices"]. Pct_change ()
     Correlation = df_crude 32['Fuel_Return']. Corr (df_crude 32['APR_Return'])
-    Print (f"Correlation between [jet fuel price changes](Review%20Session%20Notes/Commodity%20Options.md) and APR. 08 [futures price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Futures%20Price%20and%20the%20Quality%20Option%20Before%20E.md) changes: {correlation:. 4 f}")
+    Print (f"Correlation between jet fuel price changes and APR. 08 futures price changes: {correlation:. 4 f}")
 
     # Now, for the period between June 30, 2008 and September 22, 2008, use Light Crude fut. Prices (3.5).
     Df_crude 35 = pd. Read_csv (io.StringIO (light_crude 35_csv))
@@ -719,8 +719,8 @@ Def problem 5_southwest_hedge ():
     Except Exception:
         Df_crude 35['Day'] = pd. To_datetime (df_crude 35['Day'])
     # For illustration, assume the hedge P&L is computed as the difference between the first and last available prices.
-    init_prices_35 = df_crude 35. Iloc[0][Futures]('AUG.08%20[[Futures%20Not%20Subject%20to%20Cash-And-Carry) Prices', 'SEP.08 [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) Prices', 'OCT.08 [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) Prices']]
-    eval_prices_35 = df_crude 35. Iloc[-1][Futures]('AUG.08%20[[Futures%20Not%20Subject%20to%20Cash-And-Carry) Prices', 'SEP.08 [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) Prices', 'OCT.08 [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) Prices']]
+    init_prices_35 = df_crude 35. Iloc[0]Futures Prices', 'SEP.08 Futures Prices', 'OCT.08 Futures Prices']]
+    eval_prices_35 = df_crude 35. Iloc[-1]Futures Prices', 'SEP.08 Futures Prices', 'OCT.08 Futures Prices']]
     Pnl_contract_35 = (init_prices_35 - eval_prices_35) * 1000 * 42  # per contract P&L (USD)
     Total_pnl_35 = pnl_contract_35.Sum () * (num_contracts / 3)
     # Also compute the average jet fuel price for this period.
@@ -731,7 +731,7 @@ Def problem 5_southwest_hedge ():
     Print (f"Average jet fuel price in that period: {avg_fuel_price_35:. 2 f} USD/gallon")
     Print (f"Effective (implicit) jet fuel price after hedge in that period: {implicit_price_35:. 2 f} USD/gallon")
 
-    # Plot the [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) and fuel prices for the two datasets.
+    # Plot the futures and fuel prices for the two datasets.
     Plt.Figure (figsize=(12, 5))
     Plt.Subplot (1, 2, 1)
     Plt.Plot (df_crude 32['Day'], df_crude 32["Fuel price per gallon"], label="Fuel Price (3.2 Data)")
@@ -742,12 +742,12 @@ Def problem 5_southwest_hedge ():
     Plt.Grid (True)
 
     Plt.Subplot (1, 2, 2)
-    Plt.Plot (df_crude 35['Day'], df_crude 35["AUG. 08 [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) Prices"], label="AUG. 08 [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)")
-    Plt.Plot (df_crude 35['Day'], df_crude 35["SEP. 08 [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) Prices"], label="SEP. 08 [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)")
-    Plt.Plot (df_crude 35['Day'], df_crude 35["OCT. 08 [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) Prices"], label="OCT. 08 [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)")
+    Plt.Plot (df_crude 35['Day'], df_crude 35"AUG. 08 [Futures Prices"], label="AUG. 08 Futures")
+    Plt.Plot (df_crude 35['Day'], df_crude 35"SEP. 08 [Futures Prices"], label="SEP. 08 Futures")
+    Plt.Plot (df_crude 35['Day'], df_crude 35"OCT. 08 [Futures Prices"], label="OCT. 08 Futures")
     Plt.Xlabel ("Date")
     Plt.Ylabel ("Price (USD/barrel)")
-    Plt.Title ("Crude Oil [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) (Mid 2008)")
+    Plt.Title ("Crude Oil Futures (Mid 2008)")
     Plt.Legend ()
     Plt.Grid (True)
 
@@ -816,7 +816,7 @@ $$
 
 ```python
 Def problem 6_amaranth ():
-    Print ("\n--- Problem 6: BONUS – [Amaranth Calendar Spread](.md) Trade ---")
+    Print ("\n--- Problem 6: BONUS – Amaranth Calendar Spread Trade ---")
     # Read the Amaranth CSV data
     Df_amaranth = pd. Read_csv (io.StringIO (amaranth_csv))
     # Clean column names (strip spaces)
@@ -839,8 +839,8 @@ Def problem 6_amaranth ():
     Df_amaranth['Total_PnL'] = df_amaranth['PnL_NOV'] + df_amaranth['PnL_APR']
     Df_amaranth['Cumulative_PnL'] = df_amaranth['Total_PnL']. Cumsum ()
 
-    Print ("\nDaily and Cumulative PnL for [Amaranth Calendar Spread](.md) Trade: ")
-    print (df_amaranth ['Day', 'Total_PnL', 'Cumulative_PnL']('Day',%20'Total_PnL',%20'Cumulative_PnL'))
+    Print ("\nDaily and Cumulative PnL for Amaranth Calendar Spread Trade: ")
+    print (df_amaranth 'Day', 'Total_PnL', 'Cumulative_PnL')
 
     # Margin calculations:
     Initial_margin_per_contract = 5400
@@ -852,14 +852,14 @@ Def problem 6_amaranth ():
     # and if negative, additional margin is required.
     Df_amaranth['Margin_Cash'] = df_amaranth['Cumulative_PnL']. Apply (lambda x: -x if x < 0 else 0)
     Print ("\nCumulative margin cash requirements over time: ")
-    print (df_amaranth ['Day', 'Margin_Cash']('Day',%20'Margin_Cash'))
+    print (df_amaranth 'Day', 'Margin_Cash')
 
     # Plot cumulative PnL
     Plt.Figure (figsize=(8, 5))
     Plt.Plot (df_amaranth['Day'], df_amaranth['Cumulative_PnL'], marker='o')
     Plt.Xlabel ("Day")
     Plt.Ylabel ("Cumulative PnL (USD)")
-    Plt.Title ("Cumulative PnL of [Amaranth Calendar Spread](.md) Trade")
+    Plt.Title ("Cumulative PnL of Amaranth Calendar Spread Trade")
     Plt.Grid (True)
     Plt.Show ()```
 
@@ -1016,29 +1016,29 @@ $$
 
 ```python
 Def problem 1_currency_swaps ():
-    Print ("===== Problem 1: [Greece](Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md) [Currency Swaps](.md) =====\n")
+    Print ("===== Problem 1: Greece Currency Swaps =====\n")
 
     # Given parameters:
-    # [Greece](Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md) issued a USD 50 billion note with semiannual 6% coupon (coupon = 6%/2 * 50 = 1.5 billion per period)
+    # Greece issued a USD 50 billion note with semiannual 6% coupon (coupon = 6%/2 * 50 = 1.5 billion per period)
     Face_US = 50.0   # in billions USD
     Coupon_US = 1.5  # in billions USD per period (semiannual)
-    T = 10           # maturity in years; there are 20 [coupon payments](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md)
-    # Market [spot exchange rate](Review%20Session%20Notes/Arbitrage%20Opportunity%20Accounting.md) on June 1, 2001 (USD/EUR): 0.8475 = 50/59, so
+    T = 10           # maturity in years; there are 20 coupon payments
+    # Market spot exchange rate on June 1, 2001 (USD/EUR): 0.8475 = 50/59, so
     Spot_USD_EUR_market = 0.8475  # dollars per euro
 
-    # (1) Compute the fair [swap rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) on the euro leg.
-    # In the swap, at initiation [Greece](Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md) pays USD 50 billion and receives EUR 59 billion.
+    # (1) Compute the fair swap rate on the euro leg.
+    # In the swap, at initiation Greece pays USD 50 billion and receives EUR 59 billion.
     # The euro notional is: 59 = 50 / (0.8475)
     Notional_EUR = 59.0  # in billions EUR (given)
 
-    # For the euro leg, [Greece](Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md) pays a fixed coupon at an unknown annual rate K (with semiannual payments)
+    # For the euro leg, Greece pays a fixed coupon at an unknown annual rate K (with semiannual payments)
     # and repays notional at T.
     # The present value of the euro leg is computed using Greek (European) zero–coupon bond prices (Z_EU).
     # Let the semiannual payment dates be t = 0.5, 1.0, …, 10.0.
     # Then the PV (in billions EUR) of the euro payments is:
     #    PV_EUR = (K/2)*notional_EUR * (sum of Z_EU (t) for t=0.5,..., 10) + notional_EUR * Z_EU (10)
     # For the swap to have zero value (at initiation), we must have PV_EUR = notional_EUR.
-    # (The idea is that the [fixed leg](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) is priced at par.)
+    # (The idea is that the fixed leg is priced at par.)
 
     # First, extract the Greek ZCB discount factors for t = 0.5, 1.0, …, 10.0.
     # (Our df_zcb DataFrame contains maturities 0, 0.5, 1, ..., 10)
@@ -1058,10 +1058,10 @@ Def problem 1_currency_swaps ():
 
     # (2) Now consider the Goldman swap.
     # Goldman’s swap has two differences:
-    #   (a) The initial [principal exchange](Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md) uses a historical average rate of 0.8148 USD/EUR rather than 0.8475.
-    #       This implies that for a USD 50 billion principal, [Greece](Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md) receives notional_EUR_GS = 50 / 0.8148.
+    #   (a) The initial principal exchange uses a historical average rate of 0.8148 USD/EUR rather than 0.8475.
+    #       This implies that for a USD 50 billion principal, Greece receives notional_EUR_GS = 50 / 0.8148.
     Notional_EUR_GS = 50.0 / 0.8148
-    Print ("\nGoldman Sachs swap [principal exchange](Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md): ")
+    Print ("\nGoldman Sachs swap principal exchange: ")
     Print ("    USD notional: USD {:. 2 f} billion".Format (face_US))
     Print ("    EUR notional (using 0.8148 USD/EUR): EUR {:. 2 f} billion".Format (notional_EUR_GS))
 
@@ -1078,33 +1078,33 @@ Def problem 1_currency_swaps ():
     Print ("\nValue of USD leg (using US ZCBs): ")
     Print ("    PV_US = {:. 3 f} billion USD".Format (PV_US))
 
-    # The euro leg has fixed [coupon payments](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) at rate 7% on a notional of notional_EUR_GS.
+    # The euro leg has fixed coupon payments at rate 7% on a notional of notional_EUR_GS.
     Coupon_EUR_GS = swap_rate_euro_GS / 2 * notional_EUR_GS  # semiannual coupon (in billions EUR)
     PV_EUR = coupon_EUR_GS * sum_Z_EU + notional_EUR_GS * Z_EU_10  # in billions EUR
-    # To compare with the USD leg, convert PV_EUR into USD using the market [spot rate](../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) 0.8475 USD/EUR.
+    # To compare with the USD leg, convert PV_EUR into USD using the market spot rate 0.8475 USD/EUR.
     PV_EUR_in_USD = PV_EUR * spot_USD_EUR_market
     Print ("\nValue of euro leg in Goldman swap (using Greek ZCBs and 7% coupon): ")
     Print ("    PV_EUR (in EUR) = {:. 3 f} billion EUR".Format (PV_EUR))
     Print ("    Converted to USD (using 0.8475 USD/EUR): {:. 3 f} billion USD".Format (PV_EUR_in_USD))
 
-    # The swap value (from [Greece](Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md)’s perspective) is the value of the USD leg (which they receive)
+    # The swap value (from Greece’s perspective) is the value of the USD leg (which they receive)
     # minus the value (in USD) of the euro leg (which they pay).
     Swap_value_GS = PV_US - PV_EUR_in_USD
-    Print ("\n (2) Value of Goldman Sachs swap from [Greece](Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md)'s perspective: ")
+    Print ("\n (2) Value of Goldman Sachs swap from Greece's perspective: ")
     Print ("    Swap value = PV_US - PV_EUR_in_USD = {:. 3 f} billion USD".Format (swap_value_GS))
 
     # Interpretation:
-    # A negative value (here, swap_value_GS is negative) indicates that [Greece](Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md) is locked into paying a leg
+    # A negative value (here, swap_value_GS is negative) indicates that Greece is locked into paying a leg
     # whose present value (when converted to USD) exceeds the value of the dollar leg.
     # Even though the fair euro coupon (from (1)) is about swap_rate_euro (≈ 5.0%), Goldman’s rate is 7.0%.
-    # Moreover, the [principal exchange](Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md) uses a more favorable rate (for the bank) than the market.
-    # [Greece](Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md) might accept Goldman’s proposal if, for example, the timing and risk–profile of the cash flows
+    # Moreover, the principal exchange uses a more favorable rate (for the bank) than the market.
+    # Greece might accept Goldman’s proposal if, for example, the timing and risk–profile of the cash flows
     # better match its needs even though the mark–to–market value is worse.
 
-    Print ("\nWhy might [Greece](Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md) accept Goldman’s proposal?")
-    print ("    Although the Goldman swap has a negative initial value (i.e. [Greece](Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md) pays a premium),")
-    print ("    it may offer [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) characteristics (e.g. matching the timing of [coupon payments](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md))")
-    Print ("    and [risk management](../Financial%20Engineering/Financial%20Mathematics%20Course.md) features that better suit [Greece](Assignments/Solutions/PSET%203%20Solution-Financial%20Instruments.md)'s domestic funding and exchange rate risks.\n")```
+    Print ("\nWhy might Greece accept Goldman’s proposal?")
+    print ("    Although the Goldman swap has a negative initial value (i.e. Greece pays a premium),")
+    print ("    it may offer cash flow characteristics (e.g. matching the timing of coupon payments)")
+    Print ("    and risk management features that better suit Greece's domestic funding and exchange rate risks.\n")```
 
 ## 2 Hedging with Options – Southwest Jet Fuel Hedging Program
 
@@ -1294,12 +1294,12 @@ Def problem 1_currency_swaps ():
 
 ```python
     Df_options["Put_per_barrel"] = df_options["Put"] / 1000.0
-    # Find the row where the absolute difference between [put premium](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md) and [call premium](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md) is minimal.
+    # Find the row where the absolute difference between put premium and call premium is minimal.
     Idx_min = (df_options["Put_per_barrel"] - call_premium_per_barrel). Abs (). Idxmin ()
     Put_strike_zero_cost = df_options. Loc[idx_min, "Strike"]
     Put_premium = df_options. Loc[idx_min, "Put_per_barrel"]
     Print (" (2. A) For a zero–cost collar (with call strike at $105): ")
-    Print ("    [Call premium](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md) (per barrel): ${:. 3 f}".Format (call_premium_per_barrel))
+    Print ("    Call premium (per barrel): ${:. 3 f}".Format (call_premium_per_barrel))
     Print ("    The put option with strike ${:. 2 f} has premium ${:. 3 f} per barrel.".Format (put_strike_zero_cost, put_premium))
     Print ("    Thus, selling the same number of puts at strike ${:. 2 f} would finance the call purchase.".Format (put_strike_zero_cost))```
 
@@ -1410,12 +1410,12 @@ Def problem 1_currency_swaps ():
     S_oil = 95  # spot price of oil on Dec 31, 2007 (in $/barrel)
     Call_105 = df_options. Loc[df_options["Strike"] == 105.00, "Call"]. Iloc[0] / 1000.0
     Put_105  = df_options. Loc[df_options["Strike"] == 105.00, "Put"]. Iloc[0] / 1000.0
-    # [Put-call parity](../Financial%20Engineering/7.%20Black%20Scholes%20Model.md): call - put = S - K * exp (-rT)  =>  exp (-rT) = (S - (call - put)) / K
+    # Put-call parity: call - put = S - K * exp (-rT)  =>  exp (-rT) = (S - (call - put)) / K
     Exp_minus_rT = (S_oil - (call_105 - put_105)) / 105.0
     R_implied = - (1/T_option) * np.Log (exp_minus_rT)
-    Print (" (3. D) Using [put-call parity](../Financial%20Engineering/7.%20Black%20Scholes%20Model.md) with strike $105: ")
+    Print (" (3. D) Using put-call parity with strike $105: ")
     Print ("    S = ${}, Call = ${:. 3 f}, Put = ${:. 3 f}, T = {} years".Format (S_oil, call_105, put_105, T_option))
-    Print ("    Implied [continuously compounded interest](Assignments/Solutions/PSET%207%20Solutions-Financial%20Instruments.md) rate: {:. 3%}".Format (r_implied))
+    Print ("    Implied continuously compounded interest rate: {:. 3%}".Format (r_implied))
     print ("    (Here we used: C - P = S - K exp (-rT) and solved for r.)\n")```
 
 **T_option = 0.25  # options expire on March 31, 2008**
@@ -1482,13 +1482,13 @@ Due at the beginning of class 5
 
 **(1) Name of the strategy**
 ```python
-    Print ("1. (1) Leeson’s strategy – selling one call and one put with the same strike and maturity – is called a [SHORT STRADDLE](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md).\n")```
+    Print ("1. (1) Leeson’s strategy – selling one call and one put with the same strike and maturity – is called a SHORT STRADDLE.\n")```
 **1. (1) Leeson’s strategy – selling one call and one put with the same strike and maturity – is called a SHORT STRADDLE.**
 
 **(2) When is a short straddle profitable?**
 ```python
-    Print ("1. (2) A [short straddle](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) is profitable if at maturity the underlying remains near the [strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md), "
-          "so that both the [call and put](../Course%20Notes/HBR%20Notes/Notes%20on%20Basic%20Options%20Properties.md) expire worthless (or with minimal intrinsic value). "
+    Print ("1. (2) A short straddle is profitable if at maturity the underlying remains near the strike price, "
+          "so that both the call and put expire worthless (or with minimal intrinsic value). "
           "The risk is that if the underlying moves significantly away from the strike (in either direction), "
           "the losses can be very large (and, in theory, unlimited on the call side).\n")```
 **1. (2) A short straddle is profitable if at maturity the underlying remains near the strike price, so that both the call and put expire worthless (or with minimal intrinsic value). The risk is that if the underlying moves significantly away from the strike (in either direction), the losses can be very large (and, in theory, unlimited on the call side).**
@@ -1496,8 +1496,8 @@ Due at the beginning of class 5
 **(3) Profit diagrams for 1 call, 1 put and the combined strategy.**
 **(For a short call, profit = premium received – max (S - K, 0)\*multiplier.**
 **For a short put, profit = premium received – max (K - S, 0)\*multiplier.**
-**For the short straddle, profit = total premium received – multiplier \* |S - K|.**
-**The break-even points occur when multiplier \* |S - K| = total_premium.)**
+**For the short straddle, profit = total premium received – multiplier \* | S - K | .**
+**The break-even points occur when multiplier \* | S - K | = total_premium.)**
 
 ```python
     BE = total_premium / multiplier  # break–even deviation in index points
@@ -1514,15 +1514,15 @@ Due at the beginning of class 5
 
     # Plot using Plotly:
     Plot_payoff_plotly (S_range, short_call_profit,
-                       Title="[Profit Diagram](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) at Maturity for 1 Short Call Option",
+                       Title="Profit Diagram at Maturity for 1 Short Call Option",
                        Xlabel="Nikkei 225 Index at Maturity",
                        Ylabel="Profit per Contract (JPY)")
     Plot_payoff_plotly (S_range, short_put_profit,
-                       Title="[Profit Diagram](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) at Maturity for 1 Short Put Option",
+                       Title="Profit Diagram at Maturity for 1 Short Put Option",
                        Xlabel="Nikkei 225 Index at Maturity",
                        Ylabel="Profit per Contract (JPY)")
     Plot_payoff_plotly (S_range, short_straddle_profit,
-                       Title="[Profit Diagram](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) at Maturity for 1 [Short Straddle](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) (Call+Put)",
+                       Title="Profit Diagram at Maturity for 1 Short Straddle (Call+Put)",
                        Xlabel="Nikkei 225 Index at Maturity",
                        Ylabel="Profit per Contract (JPY)",
                        Extra_traces=[{"x": [K - BE, K + BE],
@@ -1568,9 +1568,9 @@ Due at the beginning of class 5
 ```python
     N_options = 35500
     Overall_profit = short_straddle_profit * n_options
-    # Plot the overall [profit diagram](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md):
+    # Plot the overall profit diagram:
     Plot_payoff_plotly (S_range, overall_profit,
-                       Title="[Profit Diagram](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) at Maturity for Entire [Short Straddle](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) Position (35,500 Contracts)",
+                       Title="Profit Diagram at Maturity for Entire Short Straddle Position (35,500 Contracts)",
                        Xlabel="Nikkei 225 Index at Maturity",
                        Ylabel="Total Profit (JPY)",
                        Extra_traces=[{"x": [K - BE, K + BE],
@@ -1593,9 +1593,9 @@ Due at the beginning of class 5
 **(5) Effect of an increase in stock market volatility**
 
 ```python
-    Print ("1. (5) An increase in [market volatility](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Class%20Slides%20On%20Terrausd%20Runs%202.md) increases the likelihood that the underlying will move far away "
-          "from the strike. For a [short straddle](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md), this means higher risk (more potential loss). Thus, as volatility increases, "
-          "the value of the [short straddle](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) position decreases (i.e. its losses become larger).\n")```
+    Print ("1. (5) An increase in market volatility increases the likelihood that the underlying will move far away "
+          "from the strike. For a short straddle, this means higher risk (more potential loss). Thus, as volatility increases, "
+          "the value of the short straddle position decreases (i.e. its losses become larger).\n")```
 
 **1. (5) An increase in market volatility increases the likelihood that the underlying will move far away from the strike. For a short straddle, this means higher risk (more potential loss). Thus, as volatility increases, the value of the short straddle position decreases (i.e. its losses become larger).**
 
@@ -1608,7 +1608,7 @@ Due at the beginning of class 5
     Net_profit_per_contract = total_premium - loss_per_contract
     Total_PL = net_profit_per_contract * n_options
     Print ("1. (6) At maturity (S = 17,473): ")
-    Print ("    Loss per contract = 10,000 * |19750 - 17473| = {:. 0 f} JPY".Format (loss_per_contract))
+Print ("    Loss per contract = 10,000 * | 19750 - 17473 | = {:. 0 f} JPY".Format (loss_per_contract))
     Print ("    Net profit per contract = {:. 0 f} - {:. 0 f} = {:. 0 f} JPY".Format (total_premium, loss_per_contract, net_profit_per_contract))
     Print ("    For 35,500 contracts, total P&L = {:. 0 f} JPY\n".Format (total_PL))```
 
@@ -1617,12 +1617,12 @@ Due at the beginning of class 5
 **net_profit_per_contract = total_premium - loss_per_contract**
 **total_PL = net_profit_per_contract * n_options**
 **print ("1. (6) At maturity (S = 17,473): ")**
-**print ("    Loss per contract = 10,000 * |19750 - 17473| = {:. 0 f} JPY".Format (loss_per_contract))**
+**print ("    Loss per contract = 10,000 * | 19750 - 17473 | = {:. 0 f} JPY".Format (loss_per_contract))**
 **print ("    Net profit per contract = {:. 0 f} - {:. 0 f} = {:. 0 f} JPY".Format (total_premium, loss_per_contract, net_profit_per_contract))**
 **print ("    For 35,500 contracts, total P&L = {:. 0 f} JPY\n".Format (total_PL))**
 
 **1. (6) At maturity (S = 17,473):**
-**Loss per contract = 10,000 * |19750 - 17473| = 22,770,000 JPY**
+**Loss per contract = 10,000 * | 19750 - 17473 | = 22,770,000 JPY**
 **Net profit per contract = 19,700,000 - 22,770,000 = -3,070,000 JPY**
 **For 35,500 contracts, total P&L = -108,985,000,000 JPY**
 
@@ -1632,11 +1632,11 @@ Due at the beginning of class 5
 Def problem 1_leeson_nikkei_options ():
     Print ("==== Problem 1: Barings / Leeson Nikkei Options ====\n")
     # (1) Name of the strategy
-    Print ("1. (1) Leeson’s strategy – selling one call and one put with the same strike and maturity – is called a [SHORT STRADDLE](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md).\n")
+    Print ("1. (1) Leeson’s strategy – selling one call and one put with the same strike and maturity – is called a SHORT STRADDLE.\n")
 
-    # (2) When is a [short straddle](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) profitable?
-    Print ("1. (2) A [short straddle](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) is profitable if at maturity the underlying remains near the [strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md), "
-          "so that both the [call and put](../Course%20Notes/HBR%20Notes/Notes%20on%20Basic%20Options%20Properties.md) expire worthless (or with minimal intrinsic value). "
+    # (2) When is a short straddle profitable?
+    Print ("1. (2) A short straddle is profitable if at maturity the underlying remains near the strike price, "
+          "so that both the call and put expire worthless (or with minimal intrinsic value). "
           "The risk is that if the underlying moves significantly away from the strike (in either direction), "
           "the losses can be very large (and, in theory, unlimited on the call side).\n")
 
@@ -1653,8 +1653,8 @@ Def problem 1_leeson_nikkei_options ():
     # (3) Profit diagrams for 1 call, 1 put and the combined strategy.
     # For a short call, profit = premium received – max (S - K, 0)*multiplier.
     # For a short put, profit = premium received – max (K - S, 0)*multiplier.
-    # For the [short straddle](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md), profit = total premium received – multiplier * |S - K|.
-    # The break-even points occur when multiplier * |S - K| = total_premium.
+# For the short straddle, profit = total premium received – multiplier * | S - K | .
+# The break-even points occur when multiplier * | S - K | = total_premium.
     BE = total_premium / multiplier  # break–even deviation in index points
     Print ("1. (3) For one option contract, the break–even deviation is {:. 2 f} index points.".Format (BE))
     Print ("That is, the strategy breaks even if the Nikkei is at K ± {:. 2 f} at maturity.\n".Format (BE))
@@ -1669,15 +1669,15 @@ Def problem 1_leeson_nikkei_options ():
 
     # Plot using Plotly:
     Plot_payoff_plotly (S_range, short_call_profit,
-                       Title="[Profit Diagram](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) at Maturity for 1 Short Call Option",
+                       Title="Profit Diagram at Maturity for 1 Short Call Option",
                        Xlabel="Nikkei 225 Index at Maturity",
                        Ylabel="Profit per Contract (JPY)")
     Plot_payoff_plotly (S_range, short_put_profit,
-                       Title="[Profit Diagram](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) at Maturity for 1 Short Put Option",
+                       Title="Profit Diagram at Maturity for 1 Short Put Option",
                        Xlabel="Nikkei 225 Index at Maturity",
                        Ylabel="Profit per Contract (JPY)")
     Plot_payoff_plotly (S_range, short_straddle_profit,
-                       Title="[Profit Diagram](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) at Maturity for 1 [Short Straddle](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) (Call+Put)",
+                       Title="Profit Diagram at Maturity for 1 Short Straddle (Call+Put)",
                        Xlabel="Nikkei 225 Index at Maturity",
                        Ylabel="Profit per Contract (JPY)",
                        Extra_traces=[{"x": [K - BE, K + BE],
@@ -1688,9 +1688,9 @@ Def problem 1_leeson_nikkei_options ():
     # (4) Now scale to the entire strategy (35,500 positions)
     N_options = 35500
     Overall_profit = short_straddle_profit * n_options
-    # Plot the overall [profit diagram](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md):
+    # Plot the overall profit diagram:
     Plot_payoff_plotly (S_range, overall_profit,
-                       Title="[Profit Diagram](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) at Maturity for Entire [Short Straddle](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) Position (35,500 Contracts)",
+                       Title="Profit Diagram at Maturity for Entire Short Straddle Position (35,500 Contracts)",
                        Xlabel="Nikkei 225 Index at Maturity",
                        Ylabel="Total Profit (JPY)",
                        Extra_traces=[{"x": [K - BE, K + BE],
@@ -1698,10 +1698,10 @@ Def problem 1_leeson_nikkei_options ():
                                       "name": "Break-even Points",
                                       "mode": "markers+lines"}])
 
-    # (5) Effect of an increase in [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) volatility
-    Print ("1. (5) An increase in [market volatility](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Class%20Slides%20On%20Terrausd%20Runs%202.md) increases the likelihood that the underlying will move far away "
-          "from the strike. For a [short straddle](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md), this means higher risk (more potential loss). Thus, as volatility increases, "
-          "the value of the [short straddle](Assignments/Solutions/PSET%204%20Solution-Financial%20Instruments.md) position decreases (i.e. its losses become larger).\n")
+    # (5) Effect of an increase in stock market volatility
+    Print ("1. (5) An increase in market volatility increases the likelihood that the underlying will move far away "
+          "from the strike. For a short straddle, this means higher risk (more potential loss). Thus, as volatility increases, "
+          "the value of the short straddle position decreases (i.e. its losses become larger).\n")
 
     # (6) Final profit/loss calculation.
     # On February 24, 1995 the Nikkei reached 17,473 points.
@@ -1710,7 +1710,7 @@ Def problem 1_leeson_nikkei_options ():
     Net_profit_per_contract = total_premium - loss_per_contract
     Total_PL = net_profit_per_contract * n_options
     Print ("1. (6) At maturity (S = 17,473): ")
-    Print ("    Loss per contract = 10,000 * |19750 - 17473| = {:. 0 f} JPY".Format (loss_per_contract))
+Print ("    Loss per contract = 10,000 * | 19750 - 17473 | = {:. 0 f} JPY".Format (loss_per_contract))
     Print ("    Net profit per contract = {:. 0 f} - {:. 0 f} = {:. 0 f} JPY".Format (total_premium, loss_per_contract, net_profit_per_contract))
     Print ("    For 35,500 contracts, total P&L = {:. 0 f} JPY\n".Format (total_PL))
 ```
@@ -1878,7 +1878,7 @@ $$
 
 ```python
 Def problem 3_multiperiod_binomial ():
-    Print ("==== Problem 3: [Multiperiod Binomial Tree](Assignments/PSET%205%20Financial%20Instruments.md) ====\n")
+    Print ("==== Problem 3: Multiperiod Binomial Tree ====\n")
     # Setup:
     S 0 = 100
     U = 1.1
@@ -1890,10 +1890,10 @@ Def problem 3_multiperiod_binomial ():
     # Risk-free gross rate per period:
     R = 1 + r
 
-    # Build the two-period [binomial tree](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) for stock prices:
+    # Build the two-period binomial tree for stock prices:
     # At time 0: S 0.
     # At time 1: S 0*u, S 0*d.
-    # At time 2: S 0*u^2, S 0*u*d, S 0*d^2.
+    # At time 2: S 0*u[^2], S 0*u*d, S 0*d[^2].
     S_uu = S 0 * u**2
     S_ud = S 0 * u * d
     S_dd = S 0 * d**2
@@ -1907,20 +1907,20 @@ Def problem 3_multiperiod_binomial ():
     # At time 1, nodes:
     # Upper node value: C_u = (1/R)*[p*C_uu + (1-p)*C_ud]
     # Lower node value: C_d = (1/R)*[p*C_ud + (1-p)*C_dd]
-    # where [risk neutral probability](Review%20Session%20Notes/Binomial%20Trees%20and%20Option%20Pricing%20MBA.md) p is given by:
+    # where risk neutral probability p is given by:
     P = (R - d) / (u - d)
     C_u = (p * C_uu + (1 - p) * C_ud) / R
     C_d = (p * C_ud + (1 - p) * C_dd) / R
     # At time 0:
     C 0 = (p * C_u + (1 - p) * C_d) / R
 
-    Print ("3. (a) Two–period [binomial tree](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) call option [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md): ")
+    Print ("3. (a) Two–period binomial tree call option pricing: ")
     Print ("    Risk-neutral probability p = {:. 4 f}".Format (p))
     Print ("    Option values at time 2: C_uu = {:. 4 f}, C_ud = {:. 4 f}, C_dd = {:. 4 f}".Format (C_uu, C_ud, C_dd))
     Print ("    Option values at time 1: C_u = {:. 4 f}, C_d = {:. 4 f}".Format (C_u, C_d))
     Print ("    Option value at time 0: C 0 = {:. 4 f}".Format (C 0))
 
-    # [Replicating portfolio](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md):
+    # Replicating portfolio:
     # At time 1 upper node: delta_u = (C_uu - C_ud) / (S 0*u**2 - S 0*u*d)
     Delta_u = (C_uu - C_ud) / (S 0 * u**2 - S 0 * u * d)
     B_u = C_uu - delta_u * S 0 * u**2
@@ -1931,7 +1931,7 @@ Def problem 3_multiperiod_binomial ():
     Delta_0 = (C_u - C_d) / (S 0 * u - S 0 * d)
     B_0 = C_u - delta_0 * S 0 * u
 
-    Print ("\nReplicating [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) (dynamic [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)): ")
+    Print ("\nReplicating portfolio (dynamic hedging): ")
     Print ("    At time 0: delta = {:. 4 f}, bond = {:. 4 f}".Format (delta_0, B_0))
     Print ("    At time 1 (upper node): delta = {:. 4 f}, bond = {:. 4 f}".Format (delta_u, B_u))
     Print ("    At time 1 (lower node): delta = {:. 4 f}, bond = {:. 4 f}".Format (delta_d, B_d))
@@ -1952,8 +1952,8 @@ Def problem 3_multiperiod_binomial ():
         C_d_new = (p * C_ud_new + (1 - p) * C_dd_new) / R
         C 0_new = (p * C_u_new + (1 - p) * C_d_new) / R
         V_RP.Append (C 0_new)
-    Df_RP = pd.DataFrame ({"ΔS": deltas, "[Replicating Portfolio](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) Value": V_RP})
-    Print ("\n 3. (b) [Replicating portfolio](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) value for changes in S 0: ")
+    Df_RP = pd.DataFrame ({"ΔS": deltas, "Replicating Portfolio Value": V_RP})
+    Print ("\n 3. (b) Replicating portfolio value for changes in S 0: ")
     Display (df_RP)
 
     # Check linearity: If V_RP were linear in ΔS then doubling ΔS would double the change in V_RP.
@@ -1964,17 +1964,17 @@ Def problem 3_multiperiod_binomial ():
     Print ("\nSince the incremental changes are not constant, the relationship between V_RP and S 0 is CONVEX, "
           "with a positive second derivative.\n")
 
-    # (c) Self-financing? By construction, the [replicating portfolio](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) is self-financing.
-    Print ("3. (c) The [replicating portfolio](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) constructed via backward induction is self-financing; "
+    # (c) Self-financing? By construction, the replicating portfolio is self-financing.
+    Print ("3. (c) The replicating portfolio constructed via backward induction is self-financing; "
           "no additional capital is injected after time 0.\n")
 
-    # (d) Profit/loss on the [replicating portfolio](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md):
-    # At expiration, the [replicating portfolio](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) exactly replicates the option payoff. Thus the P/L is zero.
-    Print ("3. (d) At expiration, the [replicating portfolio](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) replicates the option payoff exactly, so the profit/loss is zero.\n")
+    # (d) Profit/loss on the replicating portfolio:
+    # At expiration, the replicating portfolio exactly replicates the option payoff. Thus the P/L is zero.
+    Print ("3. (d) At expiration, the replicating portfolio replicates the option payoff exactly, so the profit/loss is zero.\n")
 
     # (e) Price if the stock pays a 5% dividend yield in period 1.
     Y = 0.05
-    # In the up state at t=1, before dividend the [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) is S 0*u; after dividend the ex-dividend price is S 0*u*(1-y).
+    # In the up state at t=1, before dividend the stock price is S 0*u; after dividend the ex-dividend price is S 0*u*(1-y).
     S 0_u_div = S 0 * u * (1 - y)
     S 0_d_div = S 0 * d * (1 - y)
     # At time 2, the tree: up-up: S 0*u**2 (no dividend at t=2), up-down: S 0*u*d*(1-y), down-down: S 0*d**2*(1-y)
@@ -1992,7 +1992,7 @@ Def problem 3_multiperiod_binomial ():
     Print ("3. (e) Price of the call option if the stock pays a 5% dividend yield in period 1: {:. 4 f}".Format (C 0_div))
     # (f) Price if the stock pays a $5 dividend in period 1.
     D = 5
-    # In period 1, the [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) in the up state will drop by $5: S 0*u - D, and in the down state: S 0*d - D.
+    # In period 1, the stock price in the up state will drop by $5: S 0*u - D, and in the down state: S 0*d - D.
     S 0_u_dollar = S 0 * u - D
     S 0_d_dollar = S 0 * d - D
     # Then at time 2, use the same percentage moves:
@@ -2006,7 +2006,7 @@ Def problem 3_multiperiod_binomial ():
     C_d_dollar = (p * C_ud_dollar + (1 - p) * C_dd_dollar) / R
     C 0_dollar = (p * C_u_dollar + (1 - p) * C_d_dollar) / R
     Print ("3. (f) Price of the call option if the stock pays a $5 dividend in period 1: {:. 4 f}".Format (C 0_dollar))
-    Print ("    The fixed-dollar dividend reduces the [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) by a constant amount, "
+    Print ("    The fixed-dollar dividend reduces the stock price by a constant amount, "
           "which is different from the percentage decline with a dividend yield. This generally leads to a lower option price.\n")```
 
 # Financial Instruments
@@ -2052,7 +2052,7 @@ Df_risk_free = pd.DataFrame ({
     "Date": ["2024-06-20"],  # Closest available date
     "3 M_TBill_Rate": [5.07]  # Most recent 3-month T-Bill yield (annualized, in %)
 })
-Print ("Extracted [Risk-Free Rate](Black%20Scholes%20Derivation.md) (Closest to Expiration): ")
+Print ("Extracted Risk-Free Rate (Closest to Expiration): ")
 Print (df_risk_free)
 
 # ======================================
@@ -2076,7 +2076,7 @@ Df_options = pd.DataFrame ({
     "Strike": [4700, 4800, 4900, 5000, 5100],  # Strikes around S&P 500 level
     "Call_Price": [240.75, 180.45, 125.30, 80.60, 45.20],  # Call option market prices
     "Put_Price": [18.90, 32.10, 48.75, 65.40, 95.80],  # Put option market prices
-    "Maturity": ["2024-06-21"] * 5,  # Same [expiration date](Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) (June 21, 2024)
+    "Maturity": ["2024-06-21"] * 5,  # Same expiration date (June 21, 2024)
 })
 Print ("\nExtracted Option Prices: ")
 Print (df_options)
@@ -2097,8 +2097,8 @@ From scipy. Optimize import brentq
 
 # Given market data
 S 0 = 4950.67  # S&P 500 Spot Price (from Shiller data)
-R = 5.07 / 100  # [Risk-free rate](Black%20Scholes%20Derivation.md) (annualized)
-T = (21/365) * 3  # [Time to expiration](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) in years (3 months)
+R = 5.07 / 100  # Risk-free rate (annualized)
+T = (21/365) * 3  # Time to expiration in years (3 months)
 Q = 1.68 / 100  # Dividend yield (annualized)
 
 # Extracted option prices
@@ -2110,7 +2110,7 @@ Option_data = [
     {"Strike": 5100, "Call_Price": 45.20, "Put_Price": 95.80},
 ]
 Def black_scholes_call (S, K, T, r, sigma, q=0):
-    """Compute [Black-Scholes](../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md) European call option price."""
+    """Compute Black-Scholes European call option price."""
     D 1 = (np.Log (S / K) + (r - q + 0.5 * sigma**2) * T) / (sigma * np.Sqrt (T))
     D 2 = d 1 - sigma * np.Sqrt (T)
 
@@ -2118,7 +2118,7 @@ Def black_scholes_call (S, K, T, r, sigma, q=0):
     Return C
 
 Def implied_volatility_call (C_market, S, K, T, r, q=0):
-    """Compute [implied volatility](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) for a call option using numerical methods."""
+    """Compute implied volatility for a call option using numerical methods."""
     Def objective_function (sigma):
         Return black_scholes_call (S, K, T, r, sigma, q) - C_market
 
@@ -2132,7 +2132,7 @@ For option in option_data:
     Implied_vols.Append ({"Strike": option["Strike"], "Implied_Volatility": sigma_iv})
 
 # Convert to DataFrame for display
-Import [pandas](../Course%20Notes/Python/Advanced%20Data%20Analysis%20with%20Python.md) as pd
+Import pandas as pd
 Df_iv = pd.DataFrame (implied_vols)```
 
 ## 2 Valuing and analyzing a structured security
@@ -2256,17 +2256,17 @@ $$
 
 Def black_scholes_call (S, K, T, r, sigma, q):
     """
-    Computes the [Black-Scholes](../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md) price for a European Call Option.
+    Computes the Black-Scholes price for a European Call Option.
 
     Parameters:
-    S (float): Current [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md)
-    K (float): [Strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md)
-    T (float): [Time to maturity](Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (in years)
-    R (float): Continuously compounded [risk-free rate](Black%20Scholes%20Derivation.md)
-    Sigma (float): Volatility (standard deviation of log-[returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md))
+    S (float): Current stock price
+    K (float): Strike price
+    T (float): Time to maturity (in years)
+    R (float): Continuously compounded risk-free rate
+    Sigma (float): Volatility (standard deviation of log-returns)
     Q (float): Continuously compounded dividend yield
 
-    [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md):
+    Returns:
     Float: Call option price
     """
     D 1 = (np.Log (S / K) + (r - q + 0.5 * sigma**2) * T) / (sigma * np.Sqrt (T))
@@ -2283,8 +2283,8 @@ Def black_scholes_call (S, K, T, r, sigma, q):
 # Given extracted S&P 500 price, risk-free rate, and dividend yield:
 S 0 = 5000  # Current S&P 500 index level (adjust as per dataset)
 T = 0.25  # 3 months to expiration
-R = 0.0539  # 3-month [risk-free rate](Black%20Scholes%20Derivation.md) (converted to [continuous compounding](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md))
-Q = 0.0150  # Dividend yield ([continuous compounding](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md))
+R = 0.0539  # 3-month risk-free rate (converted to continuous compounding)
+Q = 0.0150  # Dividend yield (continuous compounding)
 
 # Using put prices extracted from dataset for selected strikes
 Option_data = [
@@ -2309,11 +2309,11 @@ Display (df_iv)```
 #!/usr/bin/env python 3
 # -*- coding: utf-8 -*-
 """
-Revised [Implied Volatility Calculation](Assignments/PSET%206-%20Financial%20Instruments.md) Using [Put-Call Parity](../Financial%20Engineering/7.%20Black%20Scholes%20Model.md)
+Revised Implied Volatility Calculation Using Put-Call Parity
 """
 
 Import numpy as np
-Import [pandas](../Course%20Notes/Python/Advanced%20Data%20Analysis%20with%20Python.md) as pd
+Import pandas as pd
 Import scipy. Stats as stats
 From scipy. Optimize import brentq
 
@@ -2323,17 +2323,17 @@ From scipy. Optimize import brentq
 
 Def black_scholes_call (S, K, T, r, sigma, q):
     """
-    Computes the [Black-Scholes](../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md) price for a European Call Option.
+    Computes the Black-Scholes price for a European Call Option.
 
     Parameters:
-    S (float): Current [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md)
-    K (float): [Strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md)
-    T (float): [Time to maturity](Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (in years)
-    R (float): Continuously compounded [risk-free rate](Black%20Scholes%20Derivation.md)
-    Sigma (float): Volatility (standard deviation of log-[returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md))
+    S (float): Current stock price
+    K (float): Strike price
+    T (float): Time to maturity (in years)
+    R (float): Continuously compounded risk-free rate
+    Sigma (float): Volatility (standard deviation of log-returns)
     Q (float): Continuously compounded dividend yield
 
-    [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md):
+    Returns:
     Float: Call option price
     """
     D 1 = (np.Log (S / K) + (r - q + 0.5 * sigma**2) * T) / (sigma * np.Sqrt (T))
@@ -2348,19 +2348,19 @@ Def black_scholes_call (S, K, T, r, sigma, q):
 
 Def synthetic_call_price (P, S, K, T, r, q):
     """
-    Computes the synthetic call price using [put-call parity](../Financial%20Engineering/7.%20Black%20Scholes%20Model.md):
+    Computes the synthetic call price using put-call parity:
 
     C = P + S * exp (-q * T) - K * exp (-r * T)
 
     Parameters:
     P (float): Observed put price
-    S (float): Current [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md)
-    K (float): [Strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md)
-    T (float): [Time to maturity](Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (in years)
-    R (float): Continuously compounded [risk-free rate](Black%20Scholes%20Derivation.md)
+    S (float): Current stock price
+    K (float): Strike price
+    T (float): Time to maturity (in years)
+    R (float): Continuously compounded risk-free rate
     Q (float): Continuously compounded dividend yield
 
-    [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md):
+    Returns:
     Float: Synthetic call price
     """
     Return P + S * np.Exp (-q * T) - K * np.Exp (-r * T)
@@ -2371,18 +2371,18 @@ Def synthetic_call_price (P, S, K, T, r, q):
 
 Def implied_volatility_put (P_market, S, K, T, r, q):
     """
-    Computes the [implied volatility](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) for a European put option using [put-call parity](../Financial%20Engineering/7.%20Black%20Scholes%20Model.md).
+    Computes the implied volatility for a European put option using put-call parity.
 
     Parameters:
     P_market (float): Market put option price
-    S (float): Current [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md)
-    K (float): [Strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md)
-    T (float): [Time to maturity](Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (in years)
-    R (float): [Risk-free rate](Black%20Scholes%20Derivation.md) (continuously compounded)
+    S (float): Current stock price
+    K (float): Strike price
+    T (float): Time to maturity (in years)
+    R (float): Risk-free rate (continuously compounded)
     Q (float): Dividend yield (continuously compounded)
 
-    [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md):
-    Float: [Implied volatility](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md)
+    Returns:
+    Float: Implied volatility
     """
     C_synthetic = synthetic_call_price (P_market, S, K, T, r, q)
 
@@ -2407,8 +2407,8 @@ Def implied_volatility_put (P_market, S, K, T, r, q):
 # Given extracted S&P 500 price, risk-free rate, and dividend yield:
 S 0 = 5000  # Current S&P 500 index level (adjust as per dataset)
 T = 0.25  # 3 months to expiration
-R = 0.0539  # 3-month [risk-free rate](Black%20Scholes%20Derivation.md) (converted to [continuous compounding](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md))
-Q = 0.0150  # Dividend yield ([continuous compounding](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md))
+R = 0.0539  # 3-month risk-free rate (converted to continuous compounding)
+Q = 0.0150  # Dividend yield (continuous compounding)
 
 # Using put prices extracted from dataset for selected strikes
 Option_data = [
@@ -2450,7 +2450,7 @@ Due at the beginning of class 9
 
 **(a) Pricing with r = 2% (no dividends)**
 ```python
-    Print ("**(a) [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) with r = 2% (no dividends)")
+    Print ("**(a) Pricing with r = 2% (no dividends)")
     R 1 = 0.02
     Value_call_2, stock_tree, opt_tree_call, p = american_option_tree (S 0, K, u, d, r 1, n, option_type='call')
     Value_put_2, _, opt_tree_put, _ = american_option_tree (S 0, K, u, d, r 1, n, option_type='put')
@@ -2468,7 +2468,7 @@ Due at the beginning of class 9
 
 **(b) Early Exercise?**
 ```python
-    Print ("\n**(b) [Early Exercise](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Bond%20Futures%20Options.md)?")
+    Print ("\n**(b) Early Exercise?")
     # For a non-dividend-paying stock, it is never optimal to exercise an American call early.
     # The put option, however, may be exercised early. We can check the tree:
     # We simply print the option trees.
@@ -2496,8 +2496,8 @@ Due at the beginning of class 9
     Print ("American ATM Call value (r=5%): {:. 4 f}".Format (value_call_5))
     Print ("American ATM Put value  (r=5%): {:. 4 f}".Format (value_put_5))
     Print ("\nEarly Exercise Decisions with r = 5%: ")
-    # For the call, even with higher [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md), [early exercise](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Bond%20Futures%20Options.md) is usually not optimal (no dividends).
-    # For the put, a higher interest rate increases the [discount factor](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md), so [early exercise](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Bond%20Futures%20Options.md) may be more attractive.
+    # For the call, even with higher interest rates, early exercise is usually not optimal (no dividends).
+    # For the put, a higher interest rate increases the discount factor, so early exercise may be more attractive.
     Print ("  - The American call remains unexercised before maturity.")
     Print ("  - The American put may be exercised early; by inspecting the backward induction tree one")
     Print ("    can determine the first time node where the intrinsic value exceeds the discounted continuation value.\n")```
@@ -2525,7 +2525,7 @@ Due at the beginning of class 9
 ```python
     Q = 0.05  # dividend yield
     # In the presence of a dividend yield, the stock’s expected growth is reduced.
-    # One common approach in a [binomial tree](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) is to use an adjusted risk–neutral probability:
+    # One common approach in a binomial tree is to use an adjusted risk–neutral probability:
     # p = (exp ((r - q)*dt) - d)/(u - d).
     Value_call_div, stock_tree_div, opt_tree_call_div, p_div = american_option_tree (S 0, K, u, d, r 1, n, option_type='call', dividend_yield=q)
     Value_put_div, _, opt_tree_put_div, _ = american_option_tree (S 0, K, u, d, r 1, n, option_type='put', dividend_yield=q)
@@ -2533,9 +2533,9 @@ Due at the beginning of class 9
     Print ("American ATM Put value  with 5% dividend yield (r=2%): {:. 4 f}".Format (value_put_div))
     Print ("\nDiscussion: ")
     Print ("  - With dividends, holding a call is less attractive (dividends are not received if the call is held),")
-    Print ("    so the call value decreases and [early exercise](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Bond%20Futures%20Options.md) of the call might become optimal.")
-    Print ("  - For the put, dividends generally increase its value (since dividends lower the [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md)),")
-    Print ("    so the put value increases and [early exercise](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Bond%20Futures%20Options.md) may occur earlier than in the no-dividend case.\n")```
+    Print ("    so the call value decreases and early exercise of the call might become optimal.")
+    Print ("  - For the put, dividends generally increase its value (since dividends lower the stock price),")
+    Print ("    so the put value increases and early exercise may occur earlier than in the no-dividend case.\n")```
 
 **q = 0.05  # dividend yield**
 **# In the presence of a dividend yield, the stock’s expected growth is reduced.**
@@ -2567,8 +2567,8 @@ Due at the beginning of class 9
 
 Def build_tree (S 0, u, d, n):
     """
-    Build a recombining [binomial tree](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) for stock prices.
-    [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) a 2 D list (levels 0 to n) with stock prices.
+    Build a recombining binomial tree for stock prices.
+    Returns a 2 D list (levels 0 to n) with stock prices.
     """
     Tree = []
     For i in range (n+1):
@@ -2581,29 +2581,29 @@ Def build_tree (S 0, u, d, n):
 
 Def american_option_tree (S 0, K, u, d, r, n, option_type='call', dividend_yield=0.0):
     """
-    Price an American option (call or put) using a [binomial tree](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md).
-    - S 0: initial [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md)
+    Price an American option (call or put) using a binomial tree.
+    - S 0: initial stock price
     - K: strike
     - U: up factor
     - D: down factor
-    - R: continuously compounded [risk-free rate](Black%20Scholes%20Derivation.md)
+    - R: continuously compounded risk-free rate
     - N: number of periods (each of length Δt=1 year)
     - Option_type: 'call' or 'put'
-    - Dividend_yield: [continuous dividend](Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) yield (if >0, adjust [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) evolution)
-    [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md): option value at time 0 and a tree (2 D list) of option values.
+    - Dividend_yield: continuous dividend yield (if >0, adjust stock price evolution)
+    Returns: option value at time 0 and a tree (2 D list) of option values.
     """
     Dt = 1  # period length in years
     # Risk-neutral probability: adjust for dividend yield q
     # p = (e^(r_cont*T)*S 0 - S_down) / (S_up - S_down)
     P = (math.Exp ((r - dividend_yield)*dt) - d) / (u - d)
-    # Build [stock price tree](Assignments/Solutions/PSET%205%20Solution-Financial%20Instruments.md)
+    # Build stock price tree
     Stock_tree = []
     For i in range (n+1):
         Level = []
         For j in range (i+1):
             # At each step, if dividend yield is paid continuously,
             # the effective growth factor becomes u*exp (-q*dt) for an up move.
-            # However, one common approach is to discount the [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) later.
+            # However, one common approach is to discount the stock price later.
             Price = S 0 * (u**(i - j)) * (d**j)
             Level.Append (price)
         Stock_tree.Append (level)
@@ -2637,21 +2637,21 @@ Def american_option_tree (S 0, K, u, d, r, n, option_type='call', dividend_yield
     Return option_tree[0][0], stock_tree, option_tree, p
 
 Def part 1_american_options ():
-    Print ("=== Part 1: American Options in a 3–Period [Binomial Model](Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%204-Multiperiod%20Binomial%20Trees/Binomial%20Option%20Pricing.md) ===\n")
+    Print ("=== Part 1: American Options in a 3–Period Binomial Model ===\n")
     S 0 = 100
     K = 100
     N = 3
     U = 1.1
     D = 1 / u  # ~0.90909
 
-    Print ("**(a) [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) with r = 2% (no dividends)")
+    Print ("**(a) Pricing with r = 2% (no dividends)")
     R 1 = 0.02
     Value_call_2, stock_tree, opt_tree_call, p = american_option_tree (S 0, K, u, d, r 1, n, option_type='call')
     Value_put_2, _, opt_tree_put, _ = american_option_tree (S 0, K, u, d, r 1, n, option_type='put')
     Print ("American ATM Call value (r=2%): {:. 4 f}".Format (value_call_2))
     Print ("American ATM Put value  (r=2%): {:. 4 f}".Format (value_put_2))
 
-    Print ("\n**(b) [Early Exercise](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Bond%20Futures%20Options.md)?")
+    Print ("\n**(b) Early Exercise?")
     # For a non-dividend-paying stock, it is never optimal to exercise an American call early.
     # The put option, however, may be exercised early. We can check the tree:
     # We simply print the option trees.
@@ -2659,15 +2659,15 @@ Def part 1_american_options ():
     Print (" - The American call is always valued above its intrinsic value; hence, it is not exercised early.")
     Print (" - The American put might be exercised early if its continuation value is less than its intrinsic value.\n")
 
-    Print ("**(c) [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) with r = 5% (no dividends)")
+    Print ("**(c) Pricing with r = 5% (no dividends)")
     R 2 = 0.05
     Value_call_5, stock_tree_5, opt_tree_call_5, p 5 = american_option_tree (S 0, K, u, d, r 2, n, option_type='call')
     Value_put_5, _, opt_tree_put_5, _ = american_option_tree (S 0, K, u, d, r 2, n, option_type='put')
     Print ("American ATM Call value (r=5%): {:. 4 f}".Format (value_call_5))
     Print ("American ATM Put value  (r=5%): {:. 4 f}".Format (value_put_5))
     Print ("\nEarly Exercise Decisions with r = 5%: ")
-    # For the call, even with higher [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md), [early exercise](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Bond%20Futures%20Options.md) is usually not optimal (no dividends).
-    # For the put, a higher interest rate increases the [discount factor](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md), so [early exercise](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Bond%20Futures%20Options.md) may be more attractive.
+    # For the call, even with higher interest rates, early exercise is usually not optimal (no dividends).
+    # For the put, a higher interest rate increases the discount factor, so early exercise may be more attractive.
     Print ("  - The American call remains unexercised before maturity.")
     Print ("  - The American put may be exercised early; by inspecting the backward induction tree one")
     Print ("    can determine the first time node where the intrinsic value exceeds the discounted continuation value.\n")
@@ -2675,7 +2675,7 @@ Def part 1_american_options ():
     Print ("**(d) With r = 2% and 5% Dividend Yield")
     Q = 0.05  # dividend yield
     # In the presence of a dividend yield, the stock’s expected growth is reduced.
-    # One common approach in a [binomial tree](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) is to use an adjusted risk–neutral probability:
+    # One common approach in a binomial tree is to use an adjusted risk–neutral probability:
     # p = (exp ((r - q)*dt) - d)/(u - d).
     Value_call_div, stock_tree_div, opt_tree_call_div, p_div = american_option_tree (S 0, K, u, d, r 1, n, option_type='call', dividend_yield=q)
     Value_put_div, _, opt_tree_put_div, _ = american_option_tree (S 0, K, u, d, r 1, n, option_type='put', dividend_yield=q)
@@ -2683,9 +2683,9 @@ Def part 1_american_options ():
     Print ("American ATM Put value  with 5% dividend yield (r=2%): {:. 4 f}".Format (value_put_div))
     Print ("\nDiscussion: ")
     Print ("  - With dividends, holding a call is less attractive (dividends are not received if the call is held),")
-    Print ("    so the call value decreases and [early exercise](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Bond%20Futures%20Options.md) of the call might become optimal.")
-    Print ("  - For the put, dividends generally increase its value (since dividends lower the [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md)),")
-    Print ("    so the put value increases and [early exercise](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Bond%20Futures%20Options.md) may occur earlier than in the no-dividend case.\n")
+    Print ("    so the call value decreases and early exercise of the call might become optimal.")
+    Print ("  - For the put, dividends generally increase its value (since dividends lower the stock price),")
+    Print ("    so the put value increases and early exercise may occur earlier than in the no-dividend case.\n")
 
     # (Optional) You could print the trees, but here we only report final values.```
 
@@ -2814,17 +2814,17 @@ $$
 
 Def black_scholes_call (S, K, T, r, sigma, q):
     """
-    Computes the [Black-Scholes](../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md) price for a European Call Option.
+    Computes the Black-Scholes price for a European Call Option.
 
     Parameters:
-    S (float): Current [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md)
-    K (float): [Strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md)
-    T (float): [Time to maturity](Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (in years)
-    R (float): Continuously compounded [risk-free rate](Black%20Scholes%20Derivation.md)
-    Sigma (float): Volatility (standard deviation of log-[returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md))
+    S (float): Current stock price
+    K (float): Strike price
+    T (float): Time to maturity (in years)
+    R (float): Continuously compounded risk-free rate
+    Sigma (float): Volatility (standard deviation of log-returns)
     Q (float): Continuously compounded dividend yield
 
-    [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md):
+    Returns:
     Float: Call option price
     """
     D 1 = (np.Log (S / K) + (r - q + 0.5 * sigma**2) * T) / (sigma * np.Sqrt (T))
@@ -2837,13 +2837,13 @@ Def black_scholes_call (S, K, T, r, sigma, q):
 # ---------------------------
 # Parameters for the PLUS security
 # ---------------------------
-S 0 = 1329.51              # Initial index level on [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) date
+S 0 = 1329.51              # Initial index level on pricing date
 Principal = 10.0          # Stated principal per PLUS note ($)
-[Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) = 3.0            # [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) factor (300%)
+Leverage = 3.0            # Leverage factor (300%)
 Max_pct_gain = 0.19       # Maximum gain: 19% (so maximum payment is 119% of principal)
 Max_payment = principal * 1.19  # = 11.90
 # Compute the cap level on the index at which the leveraged upside is capped.
-Cap_level = S 0 * (1 + max_pct_gain/[leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md))
+Cap_level = S 0 * (1 + max_pct_gain/leverage)
 # For our numbers:
 #   cap_level = 1329.51 * (1 + 0.19/3) ≈ 1329.51 * 1.06333 ≈ 1413.31
 
@@ -2857,12 +2857,12 @@ Cap_level = S 0 * (1 + max_pct_gain/[leverage](../Advanced%20Investments/Lecture
 #      additional payoff = principal * leverage * ((S_T - S 0)/S 0), capped at (max_payment - principal).
 # In our notation, the terminal (maturity) payoff is defined as:
 
-Def plus_payoff (S, S 0=S 0, principal=principal, [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md)=[leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md), cap_level=cap_level, max_payment=max_payment):
+Def plus_payoff (S, S 0=S 0, principal=principal, leverage=leverage, cap_level=cap_level, max_payment=max_payment):
     """Return the terminal payoff of a PLUS note given final index level S."""
     If S <= S 0:
         Return principal * (S / S 0)
     Elif S <= cap_level:
-        Return principal + principal * [leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) * ((S - S 0) / S 0)
+        Return principal + principal * leverage * ((S - S 0) / S 0)
     Else:
         Return max_payment```
 
@@ -2872,13 +2872,13 @@ Def plus_payoff (S, S 0=S 0, principal=principal, [leverage](../Advanced%20Inves
 # ============================
 
 Def plot_southwest_hedging ():
-    """Visualize Southwest Airlines' option [hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) strategies using Plotly."""
+    """Visualize Southwest Airlines' option hedging strategies using Plotly."""
 
     # Define parameters
     Total_fuel_Q 1 = 377750000  # gallons
     Options_needed_1 a = total_fuel_Q 1 / 42000  # number of options required
     K_call = 105  # call strike in $/barrel
-    K_call_gal = K_call / 42  # per gallon [strike price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md)
+    K_call_gal = K_call / 42  # per gallon strike price
 
     # Simulating jet fuel price increase per gallon
     X = np.Linspace (0, 0.10, 100)  # up to 10 cents per gallon increase
@@ -3063,7 +3063,7 @@ $$
     Print ("\n (2 a) Effect of the bailout announcement: ")
     Print ("  The computed default probability falls from {:. 2%} on 10/10/2008 to {:. 2%} on 10/14/2008."
           .format (PD 1*100, PD 2*100))
-    Print ("  This indicates that after the bailout announcement, market–implied [default risk](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/Default%20Risk%20and%20Credit%20Derivatives%20183.md) decreased.\n")```
+    Print ("  This indicates that after the bailout announcement, market–implied default risk decreased.\n")```
 
 **print ("\n (2 a) Effect of the bailout announcement: ")**
 **print ("  The computed default probability falls from {:. 2%} on 10/10/2008 to {:. 2%} on 10/14/2008.".Format (PD 1*100, PD 2*100))**
@@ -3121,7 +3121,7 @@ $$
     Print (" (2 c) Credit Spreads (approximate): ")
     Print ("  Before the announcement (10/10/2008): {:. 2 f}%".Format (spread 1*100))
     Print ("  After the announcement (10/14/2008):  {:. 2 f}%".Format (spread 2*100))
-    Print ("  (Here, a lower default probability implies a lower [credit spread](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md).)\n")```
+    Print ("  (Here, a lower default probability implies a lower credit spread.)\n")```
 
 **spread 1 = -math.Log (1-PD 1)**
 **spread 2 = -math.Log (1-PD 2)**
@@ -3139,7 +3139,7 @@ $$
 
 ```python
     Print (" (2 d) Effect of a $25 billion cash infusion on 10/10/2008 balance sheet.")
-    # Under the [Merton model](../Credit%20Markets/Credit%20Markets%20Session%205.md), equity is E = Call (V, D) and bondholders receive the remainder.
+    # Under the Merton model, equity is E = Call (V, D) and bondholders receive the remainder.
     # A cash infusion increases assets by 25, so new asset value becomes V_new = V 1 + 25.
     V_new = V 1 + 25.0
     # Recompute d 1, d 2 and default probability with the new asset value (assuming sigma_V remains unchanged).
@@ -3201,13 +3201,13 @@ sigma_E 2 = 0.1869  # Equity volatility (annualized, e.g., 18.69%)
 
 # We assume the default point D (short-term debt + 1/2 long-term debt) is:
 D = 80.0         # (assumed value in billions USD)
-T_m = 1          # [time to maturity](Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (1 year)
-R_kmv = 0.025    # [risk-free rate](Black%20Scholes%20Derivation.md) (continuously compounded) for KMV
+T_m = 1          # time to maturity (1 year)
+R_kmv = 0.025    # risk-free rate (continuously compounded) for KMV
 
 # Under the Merton model, equity is viewed as a call option on the firm's assets:
 # E = V * N (d 1) - D * exp (-rT) * N (d 2),
 # Sigma_E * E = V * N (d 1) * sigma_V,
-# With d 1 = [ln (V/D) + (r + 0.5 sigma_V^2) T] / (sigma_V*sqrt (T)) and d 2 = d 1 - sigma_V*sqrt (T).
+# With d 1 = [ln (V/D) + (r + 0.5 sigma_V[^2]) T] / (sigma_V*sqrt (T)) and d 2 = d 1 - sigma_V*sqrt (T).
 #
 # We solve for asset value V and asset volatility sigma_V given E and sigma_E.
 
@@ -3216,7 +3216,7 @@ From scipy. Stats import norm
 Def merton_equations (x, E, sigma_E, D, r, T):
     """
     X is a vector: [V, sigma_V]
-    [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) the residuals for the [Merton](../Credit%20Markets/Credit%20Markets%20Session%205.md) equations.
+    Returns the residuals for the Merton equations.
     Equation (1): E = V * N (d 1) - D * exp (-rT) * N (d 2)
     Equation (2): sigma_E * E = V * N (d 1) * sigma_V
     """
@@ -3265,7 +3265,7 @@ Def part 2_kmv ():
     Print ("\n (2 a) Effect of the bailout announcement: ")
     Print ("  The computed default probability falls from {:. 2%} on 10/10/2008 to {:. 2%} on 10/14/2008."
           .format (PD 1*100, PD 2*100))
-    Print ("  This indicates that after the bailout announcement, market–implied [default risk](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/Default%20Risk%20and%20Credit%20Derivatives%20183.md) decreased.\n")
+    Print ("  This indicates that after the bailout announcement, market–implied default risk decreased.\n")
 
     # (2 b) Now, suppose we hold sigma_V constant at the 10/10/2008 value when re-solving for V on 10/14/2008.
     # That```markdown
@@ -3322,16 +3322,16 @@ def part2_kmv():
     print("=== Part 2: Citigroup’s Default Probability via the KMV Model ===\n")
     # Use the new balance sheet info (as of 09/30/2008) for Citigroup:
     # Total Assets (V_total) = 2050.469 (billion USD)
-    # Deposits = 780.343, [Short-term debt](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/When%20Safe%20Proved%20Risky%20Commercial%20Paper%20During%20the%20Financial%20Crisis%20of%202007%202009.md) = 352.274.
+    # Deposits = 780.343, Short-term debt = 352.274.
     # Therefore, effective asset value X (book) = 2050.469 - (780.343 + 352.274) ≈ 917.852.
-    # Default point D = [Short-term debt](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/When%20Safe%20Proved%20Risky%20Commercial%20Paper%20During%20the%20Financial%20Crisis%20of%202007%202009.md) + 0.5 * (Long-term debt)
+    # Default point D = Short-term debt + 0.5 * (Long-term debt)
     #            = 352.274 + 0.5 * 396.097 ≈ 550.3225.
     X_book = 2050.469 - (780.343 + 352.274)  # ≈ 917.852
     D_default = 352.274 + 0.5 * 396.097       # ≈ 550.3225
     print("Balance Sheet (in billions USD):")
     print("  Total Assets         = 2050.469")
     print("  Deposits             = 780.343")
-    print("  [Short-term debt](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/When%20Safe%20Proved%20Risky%20Commercial%20Paper%20During%20the%20Financial%20Crisis%20of%202007%202009.md)      = 352.274")
+    print("  Short-term debt      = 352.274")
     print("  Effective Assets (X)= {:.3f}".format(X_book))
     print("  Long-term debt       = 396.097")
     print("  Default Point D      = {:.3f}".format(D_default))
@@ -3347,7 +3347,7 @@ def part2_kmv():
     T = 1.0
 
     # Since market information now implies a very low equity value relative to book residual assets,
-    # the market is [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) Citigroup’s equity as a deeply out–of–the–money call on X.
+    # the market is pricing Citigroup’s equity as a deeply out–of–the–money call on X.
     # We use initial guesses near the book values.
     X_guess = X_book   # ~917.85
     sigma_X_guess = sigma_E * (X_book/E)  # a rough scaling
@@ -3401,14 +3401,14 @@ def part2_kmv():
     print("  Intuition: If the market perceives lower risk (i.e. sigma remains low) while equity value increases,")
     print("  the default probability drops more sharply.\n")
 
-    # (c) [Credit spread](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md): A rough approximation (in continuous time) is:
+    # (c) Credit spread: A rough approximation (in continuous time) is:
     # Spread ≈ -ln(1-PD). Compute for the two cases.
     spread1 = -math.log(1-PD1)
     spread2 = -math.log(1-PD2)
     print("(2c) Approximate Credit Spreads:")
     print("  Before announcement: Spread ≈ {:.2f}%".format(spread1*100))
     print("  After announcement:  Spread ≈ {:.2f}%".format(spread2*100))
-    print("  A lower PD implies a lower [credit spread](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md).\n")
+    print("  A lower PD implies a lower credit spread.\n")
 
     # (d) Effect of a $25 billion cash infusion.
     print("(2d) Effect of a $25 billion cash infusion:")
@@ -3447,15 +3447,15 @@ Due at the beginning of class 9
 
 ```python
 def problem4_black_scholes():
-    print("==== Problem 4: Black and Scholes (and [Merton](../Credit%20Markets/Credit%20Markets%20Session%205.md)) Formula ====\n")
+    print("==== Problem 4: Black and Scholes (and Merton) Formula ====\n")
     # Given:
     S = 42
     sigma = 0.20
     r_cont = 0.10  # continuously compounded yield on 6-month T-bills
     T = 0.5       # 6 months
     K = 40
-    # (1) [Black-Scholes formula](../Credit%20Markets/Credit%20Markets%20Session%205.md):
-    # d1 = (ln(S/K) + (r + 0.5*sigma^2)*T) / (sigma*sqrt(T))
+    # (1) Black-Scholes formula:
+    # d1 = (ln(S/K) + (r + 0.5*sigma[^2])*T) / (sigma*sqrt(T))
     # d2 = d1 - sigma*sqrt(T)
     d1 = (np.log(S/K) + (r_cont + 0.5 * sigma**2) * T) / (sigma * np.sqrt(T))
     d2 = d1 - sigma * np.sqrt(T)
@@ -3463,9 +3463,9 @@ def problem4_black_scholes():
     from scipy.stats import norm
     call_bs = S * norm.cdf(d1) - K * np.exp(-r_cont * T) * norm.cdf(d2)
     put_bs = K * np.exp(-r_cont * T) * norm.cdf(-d2) - S * norm.cdf(-d1)
-    print("4.(1) [Black-Scholes](../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md) prices:")
+    print("4.(1) Black-Scholes prices:")
     def problem4_black_scholes():
-        print("==== Problem 4: Black and Scholes (and [Merton](../Credit%20Markets/Credit%20Markets%20Session%205.md)) Formula ====\n")
+        print("==== Problem 4: Black and Scholes (and Merton) Formula ====\n")
 
     # Given:
     S = 42
@@ -3474,7 +3474,7 @@ def problem4_black_scholes():
     T = 0.5        # 6 months
     K = 40
 
-    # Compute [Black-Scholes](../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md) d1 and d2:
+    # Compute Black-Scholes d1 and d2:
     d1 = (np.log(S/K) + (r_cont + 0.5 * sigma**2) * T) / (sigma * np.sqrt(T))
     d2 = d1 - sigma * np.sqrt(T)
 
@@ -3484,7 +3484,7 @@ def problem4_black_scholes():
     put_bs = K * np.exp(-r_cont * T) * norm.cdf(-d2) - S * norm.cdf(-d1)
 
     # Display formatted LaTeX equations
-    display(Latex(f"d_1 = \\frac{{\\ln(S/K) + (r+\\frac{{1}}{{2}}\\sigma^2)T}}{{\\sigma\\sqrt{{T}}}} = {d1:.4f}"))
+    display(Latex(f"d_1 = \\frac{{\\ln(S/K) + (r+\\frac{{1}}{{2}}\\sigma[^2])T}}{{\\sigma\\sqrt{{T}}}} = {d1:.4f}"))
     display(Latex(f"d_2 = d_1 - \\sigma\\sqrt{{T}} = {d2:.4f}"))
 
     print("    European call option price = {:.4f}".format(call_bs))
@@ -3503,8 +3503,8 @@ def problem4_black_scholes():
     fig = go.Figure()
     fig.add_trace(go.Scatter(x=S_values, y=call_prices, mode='lines+markers', name="Call Price"))
     fig.add_trace(go.Scatter(x=S_values, y=put_prices, mode='lines+markers', name="Put Price"))
-    fig.update_layout(title="Option Prices vs [Stock Price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md)",
-                      xaxis_title="[Stock Price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) (USD)",
+    fig.update_layout(title="Option Prices vs Stock Price",
+                      xaxis_title="Stock Price (USD)",
                       yaxis_title="Option Price (USD)",
                       legend=dict(orientation="h", yanchor="bottom", y=-0.2, xanchor="center", x=0.5),
                       template="plotly_white")
@@ -3513,33 +3513,33 @@ def problem4_black_scholes():
 
     # (3) Sensitivity table – fill in with qualitative answers.
     sensitivity = pd.DataFrame({
-        "Input": ["[Stock Price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md)", "[Strike Price](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md)", "Volatility", "Maturity", "Risk free rate"],
+        "Input": "[Stock Price", "Strike Price", "Volatility", "Maturity", "Risk free rate"],
         "Change in Call Price": ["Increase", "Decrease", "Increase", "Increase", "Increase"],
         "Change in Put Price":  ["Increase", "Increase", "Increase", "Decrease", "Decrease"]
     })
-    print("4.(3) Sensitivity of [Black-Scholes](../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md) option prices to inputs:")
+    print("4.(3) Sensitivity of Black-Scholes option prices to inputs:")
     display(sensitivity)
-    print("Intuition: For example, an increase in [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) increases the call value and put value (but put value increases because the intrinsic value of a deep–in–the–money put may change), etc.\n")
+    print("Intuition: For example, an increase in stock price increases the call value and put value (but put value increases because the intrinsic value of a deep–in–the–money put may change), etc.\n")
 
-    # (4) [Hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) an at-the-money short put.
+    # (4) Hedging an at-the-money short put.
     # For an at–the–money put, delta_put = N(d1) - 1.
     d1_atm = (np.log(S/K) + (r_cont + 0.5*sigma**2)*T)/(sigma*np.sqrt(T))
     delta_put = norm.cdf(d1_atm) - 1
     # To hedge a short put, you buy -delta_put shares (i.e. a positive number) and borrow money.
-    print("4.(4) [Hedging](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) an at–the–money short put:")
+    print("4.(4) Hedging an at–the–money short put:")
     print("    Delta of put = N(d1) - 1 = {:.4f}".format(delta_put))
     print("    Therefore, to hedge one short put, hold {:.4f} shares of the stock and adjust bond position accordingly.\n".format(-delta_put))
 
-    # (5) Build a [binomial tree](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) and show convergence.
+    # (5) Build a binomial tree and show convergence.
     steps_list = [2, 5, 10, 25, 50, 125, 250]
     prices = []
     deltas = []
     for n in steps_list:
         dt = T / n
-        # [Risk neutral probability](Review%20Session%20Notes/Binomial%20Trees%20and%20Option%20Pricing%20MBA.md):
+        # Risk neutral probability:
         R_dt = math.exp(r_cont * dt)
         p_n = (R_dt - math.exp(-sigma * np.sqrt(dt))) / (math.exp(sigma * np.sqrt(dt)) - math.exp(-sigma * np.sqrt(dt)))
-        # Build [stock price tree](Assignments/Solutions/PSET%205%20Solution-Financial%20Instruments.md)
+        # Build stock price tree
         stock_tree = np.array([S * (np.exp(sigma * np.sqrt(dt)))**j * (np.exp(-sigma * np.sqrt(dt)))**(n - j) for j in range(n+1)])
         # Option payoff at maturity:
         option_payoffs = np.maximum(stock_tree - K, 0)
@@ -3556,7 +3556,7 @@ def problem4_black_scholes():
         delta_n = (C_up - C_down) / (S_up - S_down)
         deltas.append(delta_n)
     convergence_df = pd.DataFrame({"Steps": steps_list, "Option Price": prices, "Delta": deltas})
-    print("4.(5) Convergence of [binomial tree](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) to [Black-Scholes](../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md) as number of steps increases:")
+    print("4.(5) Convergence of binomial tree to Black-Scholes as number of steps increases:")
     display(convergence_df)
 
     # Also plot convergence using Plotly:
@@ -3572,12 +3572,12 @@ def problem4_black_scholes():
                            template="plotly_white")
     fig_conv.show()
 
-    # Show the [Black-Scholes equation](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Black-Scholes%20Model%20and%20Extensions.md) in LaTeX:
+    # Show the Black-Scholes equation in LaTeX:
     display(Latex(r"""
-    \text{[Black-Scholes](../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md) Call Option Price: } C = S\;N(d_1) - K e^{-rT} N(d_2)
+    \text{Black-Scholes Call Option Price: } C = S\;N(d_1) - K e^{-rT} N(d_2)
     """))
     display(Latex(r"""
-    d_1 = \frac{\ln\left(\frac{S}{K}\right) + \left(r + \frac{\sigma^2}{2}\right)T}{\sigma \sqrt{T}}, \quad
+    d_1 = \frac{\ln\left(\frac{S}{K}\right) + \left(r + \frac{\sigma[^2]}{2}\right)T}{\sigma \sqrt{T}}, \quad
     d_2 = d_1 - \sigma \sqrt{T}.
     """))
     print()```

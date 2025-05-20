@@ -28,13 +28,13 @@ key_concepts:
 # Credit Markets
 
 %% Begin Waypoint %%
-- **[Credit Markets](.md)**
-	- [Black-Scholes Model](Black-Scholes%20Model.md)
-	- **[Credit Market PSETS](Credit%20Market%20PSETS/Credit%20Market%20PSETS.md)**
-	- [Credit Market Session 2](Credit%20Market%20Session%202.md)
-	- [Credit Markets Session 1](Credit%20Markets%20Session%201.md)
-	- [Credit Markets Session 3](Credit%20Markets%20Session%203.md)
-	- [Credit Markets Session 4](Credit%20Markets%20Session%204.md)
-	- [Credit Markets Session 5](Credit%20Markets%20Session%205.md)
-	- [RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS](RISK%20NEUTRAL%20VALUATION%20FRAMEWORK%20FOR%20CREDIT%20DEFAULT%20SWAPS.md)
+- **Credit Markets**
+	- Black-Scholes Model
+	- **Credit Market PSETS**
+	- Credit Market Session 2
+	- Credit Markets Session 1
+	- Credit Markets Session 3
+	- Credit Markets Session 4
+	- Credit Markets Session 5
+	- RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS
 %% End Waypoint %%

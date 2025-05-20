@@ -19,13 +19,13 @@ key_concepts:
 
 # Chapter 4 FX Hedging of Fixed Income - What is the Best Way?
 
-In Chapter 1 and Chapter 3, we showed that in some cases, it may be possible to hedge the FX risk of some [fixed income instruments](../../../Course%20Notes/Python/QuantLib-Python/Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md) and lock in a gain, for institutions with access to the right markets and credit ratings.' However, the science of [hedging](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) [FX risk for fixed income](.md) instruments was not designed purely to take advantage of this type of opportunity, but rather to reduce risk on the overseas [fixed income](../../../Fixed%20Income%20Asset%20Pricing/Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md) assets. In this chapter, we examine alternative ways of [hedging](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) these assets and show that it is possible to express the various alternatives in a coherent mathematical framework. We will also illustrate the risks of some popular partial hedge methods that are not all that they seem.
+In Chapter 1 and Chapter 3, we showed that in some cases, it may be possible to hedge the FX risk of some fixed income instruments and lock in a gain, for institutions with access to the right markets and credit ratings.' However, the science of hedging FX risk for fixed income instruments was not designed purely to take advantage of this type of opportunity, but rather to reduce risk on the overseas fixed income assets. In this chapter, we examine alternative ways of hedging these assets and show that it is possible to express the various alternatives in a coherent mathematical framework. We will also illustrate the risks of some popular partial hedge methods that are not all that they seem.
 
 # FX Hedge Strategies
 
 Before going into detail about the results of different hedge strategies and pickups, it is worth defining exactly what they are:
 
-The [maturity-matched pickup](.md) is equal to the [cross-currency basis](../Chapter%203/Calculating%20Novel%20Cross-Currency%20Bases%20a.md) minus the swap spread differential of the assets minus the 3s/6s basis (as the EUR [asset swap](../../../Financial%20Engineering/Derivatives/Part%20VIII%20-%20Swaps/Chapter%2037%20-%20Equity%20Swaps.md) is usually quoted versus 6m). When holding the position to maturity, one already knows the return when entering into the trade (i.e. it is a full hedge). We have defined this case as maturity-matched' but it could also be called 'cashflow matched' or 'cross [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) swap hedged' - the important thing is that it is. a complete hedge whose pickup is known and locked in from the start. The pickup from rolling hedges via a short-dated [FX swap](../../../Clippings/Currency%20Swap%20Basics.md) derives from the steepness of the foreign yield curve relative to the domestic curve, but it is not a full hedge. For example, a large increase in funding rates of the foreign [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md). over the term of the trade would generate negative [returns](../../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md). In this sense, it is related to an interest rate [carry trade](../../../Clippings/Currency%20Carry%20Trade.md). [Unhedged positions](.md) - where the investor buys a higher-yielding instrument. funded by borrowing in a lower yielding one - are fully exposed to FX swings. In effect, they are an FX [carry trade](../../../Clippings/Currency%20Carry%20Trade.md) and thus are highly volatile..
+The maturity-matched pickup is equal to the cross-currency basis minus the swap spread differential of the assets minus the 3s/6s basis (as the EUR asset swap is usually quoted versus 6m). When holding the position to maturity, one already knows the return when entering into the trade (i.e. it is a full hedge). We have defined this case as maturity-matched' but it could also be called 'cashflow matched' or 'cross currency swap hedged' - the important thing is that it is. a complete hedge whose pickup is known and locked in from the start. The pickup from rolling hedges via a short-dated FX swap derives from the steepness of the foreign yield curve relative to the domestic curve, but it is not a full hedge. For example, a large increase in funding rates of the foreign currency. over the term of the trade would generate negative returns. In this sense, it is related to an interest rate carry trade. Unhedged positions - where the investor buys a higher-yielding instrument. funded by borrowing in a lower yielding one - are fully exposed to FX swings. In effect, they are an FX carry trade and thus are highly volatile..
 
 # Maturity-Matched Hedges
 
@@ -33,25 +33,25 @@ The [maturity-matched pickup](.md) is equal to the [cross-currency basis](../Cha
 
 As a EUR-based (or JPY-based) investor, the higher yields currently available for US bonds across the tenor range are attractive. How could the EUR-based investor take advantage of this?
 
-In a financial market with no capital charges or regulatory and XVA issues, it. would not be possible to preserve any kind of yield pickup by investing in a foreign bond and then [hedging](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) the FX risk. The theoretical' [forward FX rate](../Chapter%201/What%20Really%20Is%20the%20Cross-Currency%20Basis.md) would, in the. pre-2008 crisis days, have almost exactly cancelled out the yield pickup, though there might have been some [credit spread](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md) available. But even this was small.
+In a financial market with no capital charges or regulatory and XVA issues, it. would not be possible to preserve any kind of yield pickup by investing in a foreign bond and then hedging the FX risk. The theoretical' forward FX rate would, in the. pre-2008 crisis days, have almost exactly cancelled out the yield pickup, though there might have been some credit spread available. But even this was small.
 
-Now, however, there exists in general a substantial [cross-currency basis](../Chapter%203/Calculating%20Novel%20Cross-Currency%20Bases%20a.md), meaning that the [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) relationship between FX spot and forward, and [interest rates](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md), has broken down to an extent, partly due to the demand for different currencies and partly due to regulatory activity that restricts [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) trades. The actual cross cur-. rency basis is usually expressed as a difference to the non-UsD interest rate of the [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) pair, though it could equally be expressed as a spread to the USD rate or to the FX spot or theoretical [forward rate](../../../Clippings/Forward%20Points%20in%20Currency.md). Additionally, [credit spread](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md) differentials have become far more significant since the crisis, and may provide additional pickup in different industries and tenors.
+Now, however, there exists in general a substantial cross-currency basis, meaning that the arbitrage relationship between FX spot and forward, and interest rates, has broken down to an extent, partly due to the demand for different currencies and partly due to regulatory activity that restricts arbitrage trades. The actual cross cur-. rency basis is usually expressed as a difference to the non-UsD interest rate of the currency pair, though it could equally be expressed as a spread to the USD rate or to the FX spot or theoretical forward rate. Additionally, credit spread differentials have become far more significant since the crisis, and may provide additional pickup in different industries and tenors.
 
-We would execute the hedge in the swap market, which has slightly different rates from the government bonds (though they are correlated), and we would include the [basis swap](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Basis%20Swaps.md). The (US) [basis swap](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Basis%20Swaps.md) is the extra cost of borrowing US dollars via a [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) swap compared to what it should be purely according to [interest rate differentials](../Chapter%201/What%20Really%20Is%20the%20Cross-Currency%20Basis.md).
+We would execute the hedge in the swap market, which has slightly different rates from the government bonds (though they are correlated), and we would include the basis swap. The (US) basis swap is the extra cost of borrowing US dollars via a currency swap compared to what it should be purely according to interest rate differentials.
 
-What, then, will the cost of [hedging](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) be? The mechanics of the package are thus:. the EUR-based investor exchanges EUR for USD, buys the USD bond, and puts on a maturity-matched FX hedge. Simplistically, assuming a 1-year period, and without worrying about [coupon payments](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md), we can write this as the following..
+What, then, will the cost of hedging be? The mechanics of the package are thus:. the EUR-based investor exchanges EUR for USD, buys the USD bond, and puts on a maturity-matched FX hedge. Simplistically, assuming a 1-year period, and without worrying about coupon payments, we can write this as the following..
 
-FX is the FX rate at the start of the deal $\mathrm{FR}_{1}$ is the 1-year [forward FX rate](../Chapter%201/What%20Really%20Is%20the%20Cross-Currency%20Basis.md) for the bond maturity
+FX is the FX rate at the start of the deal $\mathrm{FR}_{1}$ is the 1-year forward FX rate for the bond maturity
 $$
 \begin{array}{c}{P=\mathrm{EUR~principal~amount~at~start~of~deal}}\ {P\times F X=\mathrm{USD~principal~amount~at~start~of~deal}}\ {P\times\displaystyle\frac{F X}{F R_{1}}=\mathrm{EUR~principal~amount~at~end~of~deal}}\end{array}
 $$
 
-As stated, we are not worrying about [hedging](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) the [interest rate risk](../../../Fixed%20Income%20Asset%20Pricing/Analysis%20of%20Fixed%20Income%20Securities.md). Thus
+As stated, we are not worrying about hedging the interest rate risk. Thus
 $$
 {\mathrm{EUR~hedge~cost}}=P-P\times{\frac{F X}{F R_{1}}}
 $$
 
-But from the [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-based construction of the [forward rate](../../../Clippings/Forward%20Points%20in%20Currency.md) FR, we know that
+But from the arbitrage-based construction of the forward rate FR, we know that
 $$
 F X=F R_{1}{\frac{1+R_{1}}{1+R_{2}}}
 $$
@@ -63,12 +63,12 @@ $$
 $$
 {\mathrm{EUR~hedge~cost}}=P\left[1-{\frac{1+R_{1}}{1+R_{2}}}\right]=P\left[{\frac{R_{2}-R_{1}}{1+R_{2}}}\right]\approx P[R_{2}-R_{1}]
 $$
-${\mathrm{R}}_{2}$ is the UsD [swap rate](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md), but now we actually need to adjust it by the [basis swap](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Basis%20Swaps.md) amount. Thus
+${\mathrm{R}}_{2}$ is the UsD swap rate, but now we actually need to adjust it by the basis swap amount. Thus
 $$
 {\mathrm{EUR~hedge~cost}}\approx P[R_{2}+R_{b a s i s}-R_{1}]
 $$
 
-Because (1) and (2) are approximately equal to each other, it can be calculated either. way, depending on the data that is available. One would usually use equation (2), as the [basis swap](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Basis%20Swaps.md) is explicitly incorporated, but if one wished to use the spot and forward FX rates, then it is possible to express the quantity. $[\mathrm{R}_{2}{+}\mathrm{R}_{\mathrm{basis}}{-}\mathrm{R}_{1}]$ in terms of these FX rates as in equation (1), because the [forward FX rate](../Chapter%201/What%20Really%20Is%20the%20Cross-Currency%20Basis.md) in the market does. incorporate the basis.
+Because (1) and (2) are approximately equal to each other, it can be calculated either. way, depending on the data that is available. One would usually use equation (2), as the basis swap is explicitly incorporated, but if one wished to use the spot and forward FX rates, then it is possible to express the quantity. $[\mathrm{R}_{2}{+}\mathrm{R}_{\mathrm{basis}}{-}\mathrm{R}_{1}]$ in terms of these FX rates as in equation (1), because the forward FX rate in the market does. incorporate the basis.
 
 It's not difficult to extend this to the multi-year case. We know that for n years,
 $$
@@ -83,34 +83,34 @@ $$
 {\mathrm{EUR~annual~hedge~cost}}\approx P[R_{2}-R_{1}]\approx P\left(1-\left[{\frac{F X}{F R_{n}}}\right]\right)/n
 $$
 
-if we use a [binomial](../../Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) expansion and take only the first order. Once more, of course, we actually need to include the [basis swap](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Basis%20Swaps.md), so the actual annual cost will be $\mathrm{P}[\mathrm{R}_{2}{+}\mathrm{R}_{-}$ basis- $\left|{{\mathrm{R}}_{1}}\right|$
+if we use a binomial expansion and take only the first order. Once more, of course, we actually need to include the basis swap, so the actual annual cost will be $\mathrm{P}[\mathrm{R}_{2}{+}\mathrm{R}_{-}$ basis- $\left | {{\mathrm{R}}_{1}}\right | $
 $$
 {\mathrm{EUR~annual~hedge~cost}}\approx P[R_{2}+R_{b a s i s}-R_{1}]\approx P\left(1-\left[{\frac{F X}{F R_{n}}}\right]\right)/n
 $$
 
-So we may now calculate a hedged yield pickup, which is actually accessible to the. EUR-based investor. It is FX hedged and relatively risk-free. Note that equation (3),. where the hedge cost is expressed in terms of the FX [spot and forward rates](../../../Financial%20Engineering/Mathematics%20of%20the%20Financial%20Markets.md), is a
+So we may now calculate a hedged yield pickup, which is actually accessible to the. EUR-based investor. It is FX hedged and relatively risk-free. Note that equation (3),. where the hedge cost is expressed in terms of the FX spot and forward rates, is a
 
 novel way of calculating hedge cost. It is useful in that it is an alternative way of arriving at the answer from other data series than those usually used..
 
 # Practical Calculation of Maturity-Matched Yield Pickup
 
-From now on, we can omit the [principal amount](../../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/HSBC-Auto%20callable%20Barrier%20Notes%20with%20Step-up%20Premium.md). $P$ in expressions, as it will always. cancel on both sides of the equation and there is no loss of generality in expressing all quantities as percentages.
+From now on, we can omit the principal amount. $P$ in expressions, as it will always. cancel on both sides of the equation and there is no loss of generality in expressing all quantities as percentages.
 
 Once we have the hedge cost, we may derive the annualised yield pickup very simply, as the following:
 $$
  {\mathrm{Yield~pickup}}=[B_{2}-B_{1}]-{\mathrm{Hedge}}{\mathrm{Cost}}
 $$
 
-As previously discussed, in a perfectly [efficient market](../../Financial%20Trading%20and%20Markets/Chapter%2012%20Market%20Efficiency.md), this would be zero, but in the 'real world' it is often substantial..
+As previously discussed, in a perfectly efficient market, this would be zero, but in the 'real world' it is often substantial..
 
 In practice, we may derive this yield pickup three ways.
 
-(1) Using bond yields, swap rates and [cross-currency basis swap](../../../Contemporary%20Financial%20Intermediation%20Notes/Table%20of%20Contents.md)
+(1) Using bond yields, swap rates and cross-currency basis swap
 $$
  {\mathrm{Yield~pickup}}=[B_{2}-B_{1}]-[R_{2}+R_{b a s i s}-R_{1}]
 $$
 
-(2) Using [asset swap spreads](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Credit%20Spreads.md), 3s6s basis swaps and [cross-currency basis](../Chapter%203/Calculating%20Novel%20Cross-Currency%20Bases%20a.md) swaps
+(2) Using asset swap spreads, 3s6s basis swaps and cross-currency basis swaps
 $$
 \mathrm{Yieldpickup}=[A_{1}-A_{2}]-C_{1}+R_{b a s i s}
 $$
@@ -121,9 +121,9 @@ $$
 $$
 
 Where, for a EUR investor buying a USD government bond,
-$\mathrm{B}_{1}=\mathrm{EUR}$ bond yield$\mathrm{B}_{2}=\mathrm{USD}$ bond yield$\mathrm{R}_{1}=\mathrm{EUR}$ [swap rate](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md)$\mathrm{R}_{2}=\mathrm{USD}$ [swap rate](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md)$\mathrm{R}_{\mathrm{basis}}=\mathrm{XCCY}$ [basis swap](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Basis%20Swaps.md)$\mathrm{A}_{1}=\mathrm{EUR}$ [asset swap](../../../Financial%20Engineering/Derivatives/Part%20VIII%20-%20Swaps/Chapter%2037%20-%20Equity%20Swaps.md)$\mathrm{A}_{2}=\mathrm{USD}$ [asset swap](../../../Financial%20Engineering/Derivatives/Part%20VIII%20-%20Swaps/Chapter%2037%20-%20Equity%20Swaps.md)$\mathrm{C}_{1}=3\mathrm{s}6\mathrm{s}$ basis$\mathrm{FX=}$ spot foreign exchange rate$\mathrm{FR}_{\mathrm{n}}=$ [forward foreign exchange](../../../Financial%20Instruments/Citi-Guide%20to%20Swaps.md) rate for tenor n$\mathbf{n}=$ tenor in years
+$\mathrm{B}_{1}=\mathrm{EUR}$ bond yield$\mathrm{B}_{2}=\mathrm{USD}$ bond yield$\mathrm{R}_{1}=\mathrm{EUR}$ swap rate$\mathrm{R}_{2}=\mathrm{USD}$ swap rate$\mathrm{R}_{\mathrm{basis}}=\mathrm{XCCY}$ basis swap$\mathrm{A}_{1}=\mathrm{EUR}$ asset swap$\mathrm{A}_{2}=\mathrm{USD}$ asset swap$\mathrm{C}_{1}=3\mathrm{s}6\mathrm{s}$ basis$\mathrm{FX=}$ spot foreign exchange rate$\mathrm{FR}_{\mathrm{n}}=$ forward foreign exchange rate for tenor n$\mathbf{n}=$ tenor in years
 
-Note that the 3s6s basis (i.e. the difference between swap rates referenced to $3\mathrm{m}$ and 6m Libor) may sometimes be needed if the other [interest rates](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) differ in their coupon frequency, and that the [asset swap](../../../Financial%20Engineering/Derivatives/Part%20VIII%20-%20Swaps/Chapter%2037%20-%20Equity%20Swaps.md) spread is $\mathrm{A}_{1}-\mathrm{A}_{2}$ rather than $\mathrm{A}_{2}-\mathrm{A}_{1}$ because it is always quoted as a positive spread over the government bond. Additionally, one may. need to be careful of the sign of the [basis swap](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Basis%20Swaps.md), which is usually quoted as a spread to. the non-USD interest rate, so if the basis-adjusted EUR interest rate is lower than the actual rate, then the [basis swap](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Basis%20Swaps.md) will be a negative number..
+Note that the 3s6s basis (i.e. the difference between swap rates referenced to $3\mathrm{m}$ and 6m Libor) may sometimes be needed if the other interest rates differ in their coupon frequency, and that the asset swap spread is $\mathrm{A}_{1}-\mathrm{A}_{2}$ rather than $\mathrm{A}_{2}-\mathrm{A}_{1}$ because it is always quoted as a positive spread over the government bond. Additionally, one may. need to be careful of the sign of the basis swap, which is usually quoted as a spread to. the non-USD interest rate, so if the basis-adjusted EUR interest rate is lower than the actual rate, then the basis swap will be a negative number..
 
 Having done all of this, we see in Figure 4.1 that the three ways of calculating the yield pickup match beautifully.
 
@@ -132,9 +132,9 @@ Figure 4.1: Maturity-matched FX hedged yield pickup for 2y USD bonds vs EUR vs G
 
 # Historical Results for G10 Maturity-Matched Yield Pickup
 
-It is interesting to see how the available yield pickup has varied over time, tenor. and [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) pair. In Figures 4.2 and 4.4, we show the generic bond yields, and in Figures 4.3 and 4.5, we show the pickup for 2y bonds since 2009 - it can be seen that recently, Japan has held the most promise..
+It is interesting to see how the available yield pickup has varied over time, tenor. and currency pair. In Figures 4.2 and 4.4, we show the generic bond yields, and in Figures 4.3 and 4.5, we show the pickup for 2y bonds since 2009 - it can be seen that recently, Japan has held the most promise..
 
-It's obvious that the 'pickup' is not always positive - the point one can make is. that a negative pickup from the perspective of one [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) of a pair is a positive. one from the other [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)'s perspective. Thus, the 2017 positive pickup in Japan. was an opportunity for EUR investors; the negative pickup available in 2016 for USD vs EUR was attractive for USD investors..
+It's obvious that the 'pickup' is not always positive - the point one can make is. that a negative pickup from the perspective of one currency of a pair is a positive. one from the other currency's perspective. Thus, the 2017 positive pickup in Japan. was an opportunity for EUR investors; the negative pickup available in 2016 for USD vs EUR was attractive for USD investors..
 
 The same effect is visible to a greater extent for longer tenors. In Figure 4.6 through Figure 4.9, we plot the same data for 10y bonds.
 
@@ -174,11 +174,11 @@ It's popular to compare the annualised yield pickup between both deal types - bu
 
 for $3\mathrm{m}$ , and will be a quarter of the annualised amount. Comparing the two annualised. rates as if they were equivalent involves some absolutely heroic assumptions, as we do not know what the short-term rolling rate will be after the first roll date..
 
-But if we assume that the short-term swap rates and [cross-currency basis](../Chapter%203/Calculating%20Novel%20Cross-Currency%20Bases%20a.md) stay. the same for the life of the deal (which they have never done since the markets started trading), then the two may be compared. Certainly, the comparison is valid. for the first three months of the deal. If [interest rates](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) and bases were to develop ex-. actly as predicted by [forwards](../../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md), then the return of the maturity-matched and rolling. trade should be identical. As this is also a heroic assumption, the P&L of investors with rolling hedges is exposed to [interest rate changes](../../../International%20Finance/Bridgewater/How%20Countries%20Go%20Broke/How%20Countries%20Go%20Broke-Chapter%2012%20to%20Chapter%2014.md)..
+But if we assume that the short-term swap rates and cross-currency basis stay. the same for the life of the deal (which they have never done since the markets started trading), then the two may be compared. Certainly, the comparison is valid. for the first three months of the deal. If interest rates and bases were to develop ex-. actly as predicted by forwards, then the return of the maturity-matched and rolling. trade should be identical. As this is also a heroic assumption, the P&L of investors with rolling hedges is exposed to interest rate changes..
 
 How do we calculate the rolling pickup? We have in fact done all the work ear-. lier. There are no asset swaps available for quarterly periods, but we can still use methods (1) and (3), as described here..
 
-(1) Using bond yields, swap rates and [cross-currency basis](../Chapter%203/Calculating%20Novel%20Cross-Currency%20Bases%20a.md) swaps
+(1) Using bond yields, swap rates and cross-currency basis swaps
 $$
  {\mathrm{Yield~pickup}}=[B_{2}-B_{1}]-[R_{2}+R_{b a s i s}-R_{1}]
 $$
@@ -188,11 +188,11 @@ $$
 {\mathrm{Yield~pickup}}=[B_{2}-B_{1}]-\left(1-\left[{\frac{F X}{F R_{n}}}\right]\right)/n
 $$
 
-In these expressions, for the $3\mathrm{m}$ rolling hedge of bonds of any longer tenor, the swap rates $R$ are the $3\mathrm{m}$ [interest rates](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md), the [basis swap](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Basis%20Swaps.md) is the $3\mathrm{m}$ tenor, the FX rate is $3\mathrm{m}$ forward, and $n$ is actually $1/4$ as the hedge is for $\%$ of a year.
+In these expressions, for the $3\mathrm{m}$ rolling hedge of bonds of any longer tenor, the swap rates $R$ are the $3\mathrm{m}$ interest rates, the basis swap is the $3\mathrm{m}$ tenor, the FX rate is $3\mathrm{m}$ forward, and $n$ is actually $1/4$ as the hedge is for $\%$ of a year.
 
 # Possible Actions at 'Roll Point'
 
-Let's now consider what the investor might do once the [short hedge](../../../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%204%20-%20Futures:%20Hedging%20and%20Speculation.md) comes to an end. The FX rate and the yield curves will have changed during the course of the hedge. Thus, for a EUR-based investor who bought a USD bond at the start of the hedge, the value of the USD bond has changed in EUR terms.
+Let's now consider what the investor might do once the short hedge comes to an end. The FX rate and the yield curves will have changed during the course of the hedge. Thus, for a EUR-based investor who bought a USD bond at the start of the hedge, the value of the USD bond has changed in EUR terms.
 
 But the FX hedge will deliver a payment that will make up this difference pre-. cisely. So if the investor wishes to maintain their exposure as the same amount of EUR, they can use the FX hedge maturity to buy or sell an additional amount of the. USD bond which should result in a constant EUR exposure, and they can put in. place another rolling hedge, this time for the new amount of USD per EUR. But the new pickup available for the new rolling hedge will not be the same as the old. It may be completely different - better or worse - leaving the investor to regret or rejoice in his or her original decision to roll rather than hedge for the full maturity of the deal.
 
@@ -237,21 +237,21 @@ Now, let us look at what really happens in the case of rolling hedges. In the fo
 ![](3f807cb5fe6cd75787376e0b02e26c176c99538f2c4639393020b3d3cb3c16b2.jpg)
 Figure 4.18: Rolling FX hedged yield pickup vs EUR for 2y USD bond, in $\%$ Source: Bloomberg, Commerzbank Research
 
-It's crystal clear that the assumption that the yield pickup from one $3\mathrm{m}$ period to the next could remain constant is ridiculous. Over the life of the deal, the average pickup of course becomes smoother for the longer deal tenors, and reflects more of a slow variation in [interest rate differentials](../Chapter%201/What%20Really%20Is%20the%20Cross-Currency%20Basis.md). But once more, the idea that it can be forecast by looking at the first rolling pickup is absolutely unrealistic..
+It's crystal clear that the assumption that the yield pickup from one $3\mathrm{m}$ period to the next could remain constant is ridiculous. Over the life of the deal, the average pickup of course becomes smoother for the longer deal tenors, and reflects more of a slow variation in interest rate differentials. But once more, the idea that it can be forecast by looking at the first rolling pickup is absolutely unrealistic..
 
 ![](c2b0c5d124d629c703e20bea4dd3790836ea97d30923b5d43e304777ad8dfba7.jpg)
 Figure 4.19: Rolling FX hedged yield pickup vs EUR for 5y USD bond, in $\%$ Source: Bloomberg, Commerzbank Research
 
 # Translation Effect
 
-Finally, we can take a look at the case where the investor crosses their fingers and hopes that they can harvest the interest rate differential of the bonds without [hedging](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md). To do this, we can simply reuse equation (4), as follows:
+Finally, we can take a look at the case where the investor crosses their fingers and hopes that they can harvest the interest rate differential of the bonds without hedging. To do this, we can simply reuse equation (4), as follows:
 $$
 {\mathrm{Yield~pickup}}=[B_{2}-B_{1}]-\left(1-\left[{\frac{F X}{F R_{n}}}\right]\right)/n
 $$
 
-The beauty of our somewhat novel way of writing the yield pickup in terms of the FX rates is that if we want to understand the impact of the 'no hedge' case, we simply replace the [forward rate](../../../Clippings/Forward%20Points%20in%20Currency.md). $\mathrm{FR}_{\mathrm{n}}$ with the [spot rate](../../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) at the end of the period - we can call it $\mathrm{FX_{n}}$ It is only worth looking at the 2y case, as otherwise we have less data at the end of the period to view, but it makes the point very well indeed. We need different scales for the two [returns](../../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to be visible on the same graph - the maximum range for the hedged pickup is just over $1\%$ , but this is nearer. $30\%$ for the unhedged. case.
+The beauty of our somewhat novel way of writing the yield pickup in terms of the FX rates is that if we want to understand the impact of the 'no hedge' case, we simply replace the forward rate. $\mathrm{FR}_{\mathrm{n}}$ with the spot rate at the end of the period - we can call it $\mathrm{FX_{n}}$ It is only worth looking at the 2y case, as otherwise we have less data at the end of the period to view, but it makes the point very well indeed. We need different scales for the two returns to be visible on the same graph - the maximum range for the hedged pickup is just over $1\%$ , but this is nearer. $30\%$ for the unhedged. case.
 
-This is not surprising, looking at the dynamics of the [spot rate](../../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) in that period. But it serves to underline that there are very good reasons for all the attention given to [hedging](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) the FX risk of [fixed income instruments](../../../Course%20Notes/Python/QuantLib-Python/Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md) - not to do so exposes the investor to risk levels an order of magnitude larger (Figures 4.20 and 4.21).
+This is not surprising, looking at the dynamics of the spot rate in that period. But it serves to underline that there are very good reasons for all the attention given to hedging the FX risk of fixed income instruments - not to do so exposes the investor to risk levels an order of magnitude larger (Figures 4.20 and 4.21).
 
 Note that the last two years of the two-year return in these figures are of course unavailable.
 
@@ -259,11 +259,11 @@ Note that the last two years of the two-year return in these figures are of cour
 Figure 4.20: Maturity-matched FX hedged yield pickup vs EUR with unhedged return for 2y USD bond, in $\%$ Source: Bloomberg, Commerzbank Research
 
 ![](567793af89eb24da5536bcbec0b38230b867499ed4468099fad3a565108a6854.jpg)
-Figure 4.21: EURUSD [spot exchange rate](../../../Financial%20Instruments/Review%20Session%20Notes/Arbitrage%20Opportunity%20Accounting.md). Source: Bloomberg, Commerzbank Research
+Figure 4.21: EURUSD spot exchange rate. Source: Bloomberg, Commerzbank Research
 
 # Volatility Breakdown -- What is Driving the Performance?
 
-It is interesting to look at the contributions to the overall volatility of the various different [returns](../../Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md). We can do this empirically by looking at the data, but also our. equation (4) can be used quite elegantly to show theoretically where the dominant. volatility sources originate.
+It is interesting to look at the contributions to the overall volatility of the various different returns. We can do this empirically by looking at the data, but also our. equation (4) can be used quite elegantly to show theoretically where the dominant. volatility sources originate.
 
 We have
 $$
@@ -293,7 +293,7 @@ We have set $a$ and $b$ equal to 1 so that the contributions are clear to see. N
 
 We show both the standard deviation (s.d.), which is the traditional measure of volatility, and the variance, which is the square of the volatility. Although the standard deviation is more familiar, the contributions from the yield differential and the FX component are delivered via equation (4) where the s.d. is the root of the sum of the squares of the contributions and the covariance term, whereas the variances are additive so are perhaps easier to understand. Note that there is no 30y FX hedge data available.
 
-What is interesting in Table 4.1 is the fact that the contributions to the volatility. of the pickup from the yield differential and the FX term are very similar indeed, especially for the shorter-dated bonds. The FX term becomes more important for longer tenors, as might be expected. However, especially for the short-dated case, the covariance term is extremely important. If there was no covariance (i.e., no correlation), then the s.d. would be larger. The positive correlation of the yield differential and the FX term mean that overall, the yield pickup volatility is lower than it. might be. This is hardly surprising, as the FX term is derived from the hedge, which in an [arbitrage](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free world would reduce the pickup to zero..
+What is interesting in Table 4.1 is the fact that the contributions to the volatility. of the pickup from the yield differential and the FX term are very similar indeed, especially for the shorter-dated bonds. The FX term becomes more important for longer tenors, as might be expected. However, especially for the short-dated case, the covariance term is extremely important. If there was no covariance (i.e., no correlation), then the s.d. would be larger. The positive correlation of the yield differential and the FX term mean that overall, the yield pickup volatility is lower than it. might be. This is hardly surprising, as the FX term is derived from the hedge, which in an arbitrage-free world would reduce the pickup to zero..
 
 Table 4.1: Volatility contributions for matched maturity FX hedge, USD bonds, data since 2000, in $\%$
 
@@ -311,7 +311,7 @@ Source: Bloomberg, Commerzbank Research
 
 Next, in Table 4.2, we show the same table for the rolling hedge. Here, also, the. covariance term is important. In this case, however, the FX term is relatively more important than the yield differential. Note that the FX term is the same in all cases, as they are all hedged with the rolling 3m strategy..
 
-Finally, in Table 4.3, we show the unhedged case. Here, covariance is irrelevant, as everything is dominated by the FX volatility. This emphasises our point about the translation effect - the risks of not [hedging](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) dwarf any residual risks from an FX hedged strategy, no matter what it is.
+Finally, in Table 4.3, we show the unhedged case. Here, covariance is irrelevant, as everything is dominated by the FX volatility. This emphasises our point about the translation effect - the risks of not hedging dwarf any residual risks from an FX hedged strategy, no matter what it is.
 
 Table 4.3: Volatility contributions for unhedged case, USD bonds, data since 2000, in $\%$
 
@@ -327,11 +327,11 @@ For those who would like to replicate some of these calculations, we give a deta
 Table 4.4: Base data for calculation.
 
 
-<html><body><table><tr><td></td><td colspan="2">GovtBond</td><td colspan="2">[Swap Rate](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md)</td><td>FX [xccy basis](../../../Contemporary%20Financial%20Intermediation%20Notes/Table%20of%20Contents.md) to Euro</td></tr><tr><td></td><td>Germany</td><td>USA</td><td>Germany</td><td>USA</td><td>USA</td></tr><tr><td>Tenor</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3M</td><td></td><td></td><td>-0.318</td><td>0.953</td><td>-49.993</td></tr><tr><td>2Y</td><td>-0.731</td><td>1.1102</td><td>-0.268</td><td>1.326</td><td>-44.250</td></tr><tr><td>5Y</td><td>-0.396</td><td>1.8374</td><td>0.007</td><td>1.828</td><td>-44.500</td></tr><tr><td>10Y</td><td>0.382</td><td>2.4071</td><td>0.65</td><td>2.249</td><td>-43.125</td></tr><tr><td>30Y</td><td>1.125</td><td>3.1053</td><td>1.306</td><td>2.557</td><td>-24.250</td></tr></table></body></html>
+<html><body><table><tr><td></td><td colspan="2">GovtBond</td><td colspan="2">Swap Rate</td><td>FX xccy basis to Euro</td></tr><tr><td></td><td>Germany</td><td>USA</td><td>Germany</td><td>USA</td><td>USA</td></tr><tr><td>Tenor</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>3M</td><td></td><td></td><td>-0.318</td><td>0.953</td><td>-49.993</td></tr><tr><td>2Y</td><td>-0.731</td><td>1.1102</td><td>-0.268</td><td>1.326</td><td>-44.250</td></tr><tr><td>5Y</td><td>-0.396</td><td>1.8374</td><td>0.007</td><td>1.828</td><td>-44.500</td></tr><tr><td>10Y</td><td>0.382</td><td>2.4071</td><td>0.65</td><td>2.249</td><td>-43.125</td></tr><tr><td>30Y</td><td>1.125</td><td>3.1053</td><td>1.306</td><td>2.557</td><td>-24.250</td></tr></table></body></html>
 
 Source: Bloomberg, Commerzbank Research
 
-Note that the EUR [swap rate](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) in Table 4.4 is vs the 3m floating rate to match the US data. Using this data set, we construct a set of yield pickups in Table 4.5.
+Note that the EUR swap rate in Table 4.4 is vs the 3m floating rate to match the US data. Using this data set, we construct a set of yield pickups in Table 4.5.
 
 Table 4.5: Pickup results, 8th December 2016.
 
@@ -342,17 +342,17 @@ Source: Bloomberg, Commerzbank Research
 
 Let's go through the top line of the pickup in Table 4.5 in detail.
 
-1.84 is simply the difference between the EUR and USD government bond rates for the 2y tenor, so
+[^1]: 84 is simply the difference between the EUR and USD government bond rates for the 2y tenor, so
 $$
-1.84=1.11-(-0.73)
-$$
-
-Then to this we can add the rolling hedge cost, which is the difference between the two swap rates, plus the [cross-currency basis](../Chapter%203/Calculating%20Novel%20Cross-Currency%20Bases%20a.md):
-$$
-0.07=1.84+\left(-0.318-0.953\right)+\left(-49.99\big/100\right)
+[^1]: 84=1.11-(-0.73)
 $$
 
-Note that the [cross-currency basis swap](../../../Contemporary%20Financial%20Intermediation%20Notes/Table%20of%20Contents.md) number needs to be divided by 100, as it is quoted differently in Bloomberg.
+Then to this we can add the rolling hedge cost, which is the difference between the two swap rates, plus the cross-currency basis:
+$$
+[^0]: 07=1.84+\left(-0.318-0.953\right)+\left(-49.99\big/100\right)
+$$
+
+Note that the cross-currency basis swap number needs to be divided by 100, as it is quoted differently in Bloomberg.
 
 Or we can use the maturity-matched hedge, as follows:
 $$

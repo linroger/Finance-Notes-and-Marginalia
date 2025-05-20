@@ -1,3 +1,57 @@
+---
+cssclasses: ["academia"]
+title: Chinese Financial System
+tags:
+  - chinese_economy
+  - financial_system
+  - regulatory_framework
+  - banking_system
+  - capital_markets
+  - shadow_banking
+  - monetary_policy
+  - pboc
+  - state_owned_enterprises
+  - international_finance
+  - capital_controls
+  - rmb_internationalization
+  - digital_currency
+  - financial_regulation
+  - emerging_markets
+  - belt_and_road
+aliases:
+  - China Financial System
+  - PRC Financial System
+  - China Banking System
+  - Chinese Financial Markets
+  - China Financial Regulation
+  - China Banking Sector
+  - China Capital Markets
+key_concepts:
+  - Chinese Communist Party oversight
+  - State Council regulatory structure
+  - Central Financial Commission
+  - People's Bank of China (PBOC)
+  - National Financial Regulatory Administration
+  - China Securities Regulatory Commission
+  - State Administration of Foreign Exchange
+  - State-owned commercial banks
+  - Shadow banking system
+  - Capital controls
+  - RMB internationalization
+  - Digital yuan (e-CNY)
+  - Financial stability framework
+  - Policy banks
+  - Local government financing vehicles
+  - Belt and Road Initiative financing
+  - Foreign exchange reserves management
+  - Wealth management products
+  - Financial system risks
+  - Financial opening and reform
+linter-yaml-title-alias: Chinese Financial System
+---
+
+# Chinese Financial System
+
 ```mermaid
 flowchart TD
     %% Top-Level Political Leadership
@@ -145,100 +199,100 @@ flowchart TD
     end
 
     %% Relationships / Flows
-    PBOC -->|Monetary Policy| Banking_System
-    PBOC -->|Interest Rates| Banking_System
-    PBOC -->|Interest Rates| Capital_Markets
-    PBOC -->|Reserve Requirements| Banking_System
-    PBOC -->|Macroprudential Tools| Banking_System
-    PBOC -->|Macroprudential Tools| Shadow_Banking
-    PBOC -->|Issues| CBDC
-    PBOC -->|Open Market Operations| GovBonds
-    PBOC -->|Window Guidance| Banking_System
+    PBOC --> | Monetary Policy | Banking_System
+    PBOC --> | Interest Rates | Banking_System
+    PBOC --> | Interest Rates | Capital_Markets
+    PBOC --> | Reserve Requirements | Banking_System
+    PBOC --> | Macroprudential Tools | Banking_System
+    PBOC --> | Macroprudential Tools | Shadow_Banking
+    PBOC --> | Issues | CBDC
+    PBOC --> | Open Market Operations | GovBonds
+    PBOC --> | Window Guidance | Banking_System
 
-    NFRA -->|Regulates| Banking_System
-    NFRA -->|Supervises| Shadow_Banking
-    NFRA -->|Oversees| Digital_Finance
+    NFRA --> | Regulates | Banking_System
+    NFRA --> | Supervises | Shadow_Banking
+    NFRA --> | Oversees | Digital_Finance
 
-    CSRC -->|Regulates| Capital_Markets
-    CSRC -->|Market Oversight| SSE
-    CSRC -->|Market Oversight| SZSE
-    CSRC -->|Market Oversight| BSE
-    CSRC -.->|Coordinates with| HKEX
+    CSRC --> | Regulates | Capital_Markets
+    CSRC --> | Market Oversight | SSE
+    CSRC --> | Market Oversight | SZSE
+    CSRC --> | Market Oversight | BSE
+    CSRC -.-> | Coordinates with | HKEX
 
-    SAFE -->|Manages| FXReserves
-    SAFE -->|Oversees| ForexMarket
-    SAFE -->|Administers| QFII
-    SAFE -->|Administers| QDII
+    SAFE --> | Manages | FXReserves
+    SAFE --> | Oversees | ForexMarket
+    SAFE --> | Administers | QFII
+    SAFE --> | Administers | QDII
 
-    MOF -->|Fiscal Policy| GovBonds
-    MOF -->|Debt Issuance| CorpBonds
-    MOF -->|Debt Issuance| PolicyBankBonds
-    MOF -->|Supervises| LGBonds
-    MOF -->|Oversees| AMCs
+    MOF --> | Fiscal Policy | GovBonds
+    MOF --> | Debt Issuance | CorpBonds
+    MOF --> | Debt Issuance | PolicyBankBonds
+    MOF --> | Supervises | LGBonds
+    MOF --> | Oversees | AMCs
 
-    CHI -->|Controlling Stakes| SOCBs
-    CHI -->|Controlling Stakes| PolicyBanks
-    CHI -->|Strategic Investment| JSCBs
-    CHI -.->|Market Stabilization| SSE
+    CHI --> | Controlling Stakes | SOCBs
+    CHI --> | Controlling Stakes | PolicyBanks
+    CHI --> | Strategic Investment | JSCBs
+    CHI -.-> | Market Stabilization | SSE
 
-    CIC -->|Foreign Investment| International
-    CIC -->|Domestic Investment| Capital_Markets
+    CIC --> | Foreign Investment | International
+    CIC --> | Domestic Investment | Capital_Markets
 
-    CITIC -->|Diversified Financial Services| Banking_System
-    CITIC -->|Diversified Financial Services| Capital_Markets
+    CITIC --> | Diversified Financial Services | Banking_System
+    CITIC --> | Diversified Financial Services | Capital_Markets
 
-    SOCBs -->|Create & Distribute| WMPs
-    SOCBs -->|Lend to| SOEFinance
-    SOCBs -->|Bond Issuance| GovBonds
-    SOCBs -->|Limited Lending| RealEstate
-    SOCBs -->|Global Operations| GlobalBankBranches
+    SOCBs --> | Create & Distribute | WMPs
+    SOCBs --> | Lend to | SOEFinance
+    SOCBs --> | Bond Issuance | GovBonds
+    SOCBs --> | Limited Lending | RealEstate
+    SOCBs --> | Global Operations | GlobalBankBranches
 
-    PolicyBanks -->|Policy-Directed Lending| SOEFinance
-    PolicyBanks -->|Policy-Directed Lending| LGFVs
-    PolicyBanks -->|Policy-Directed Lending| BRI
-    PolicyBanks -->|Bond Issuance| PolicyBankBonds
+    PolicyBanks --> | Policy-Directed Lending | SOEFinance
+    PolicyBanks --> | Policy-Directed Lending | LGFVs
+    PolicyBanks --> | Policy-Directed Lending | BRI
+    PolicyBanks --> | Bond Issuance | PolicyBankBonds
 
-    JSCBs -->|Create & Distribute| WMPs
-    CCBs -->|Create & Distribute| WMPs
-    JSCBs -->|Lend to| PrivateSector
-    CCBs -->|Lend to| PrivateSector
-    JSCBs -->|Lend to| SMEs
-    CCBs -->|Lend to| SMEs
-    JSCBs -->|Higher Exposure| RealEstate
-    CCBs -->|Higher Exposure| RealEstate
+    JSCBs --> | Create & Distribute | WMPs
+    CCBs --> | Create & Distribute | WMPs
+    JSCBs --> | Lend to | PrivateSector
+    CCBs --> | Lend to | PrivateSector
+    JSCBs --> | Lend to | SMEs
+    CCBs --> | Lend to | SMEs
+    JSCBs --> | Higher Exposure | RealEstate
+    CCBs --> | Higher Exposure | RealEstate
 
-    WMPs -.->|Off-Balance Sheet Funding| Banking_System
-    WMPs -->|Channel Funds to| TrustCompanies
-    WMPs -->|Channel Funds to| LGFVs
-    WMPs -->|Channel Funds to| RealEstate
+    WMPs -.-> | Off-Balance Sheet Funding | Banking_System
+    WMPs --> | Channel Funds to | TrustCompanies
+    WMPs --> | Channel Funds to | LGFVs
+    WMPs --> | Channel Funds to | RealEstate
 
-    TrustCompanies -->|Channel Funds to| RealEstate
-    TrustCompanies -->|Channel Funds to| LGFVs
+    TrustCompanies --> | Channel Funds to | RealEstate
+    TrustCompanies --> | Channel Funds to | LGFVs
 
-    UndergroundBanking -.->|Informal Lending| SMEs
-    UndergroundBanking -.->|Informal Lending| PrivateSector
-    UndergroundBanking -.->|Circumvents| CapitalControls
+    UndergroundBanking -.-> | Informal Lending | SMEs
+    UndergroundBanking -.-> | Informal Lending | PrivateSector
+    UndergroundBanking -.-> | Circumvents | CapitalControls
 
-    DigitalPayments -->|Payment Infrastructure| Banking_System
-    DigitalPayments -->|User Data| OnlineLending
-    OnlineLending -->|Alternative Financing| SMEs
-    OnlineLending -->|Alternative Financing| PrivateSector
+    DigitalPayments --> | Payment Infrastructure | Banking_System
+    DigitalPayments --> | User Data | OnlineLending
+    OnlineLending --> | Alternative Financing | SMEs
+    OnlineLending --> | Alternative Financing | PrivateSector
 
-    LGFVs -->|Infrastructure Investment| Real_Economy
-    LGFVs -->|Borrow From| Banking_System
-    LGFVs -->|Borrow From| Shadow_Banking
-    LGFVs -->|Issue| CorpBonds
+    LGFVs --> | Infrastructure Investment | Real_Economy
+    LGFVs --> | Borrow From | Banking_System
+    LGFVs --> | Borrow From | Shadow_Banking
+    LGFVs --> | Issue | CorpBonds
 
-    LandFinance -->|Revenue Source| Local_Finance
-    LandFinance <--> |Price Dependence| RealEstate
+    LandFinance --> | Revenue Source | Local_Finance
+    LandFinance <--> | Price Dependence | RealEstate
 
-    BRI -->|Infrastructure Financing| International
-    SOCBs -->|Finance| BRI
-    PolicyBanks -->|Finance| BRI
+    BRI --> | Infrastructure Financing | International
+    SOCBs --> | Finance | BRI
+    PolicyBanks --> | Finance | BRI
 
-    FXReserves -->|Invested In| International
-    FXReserves -.->|Managed By| SAFE
-    FXReserves -.->|Managed By| CIC
+    FXReserves --> | Invested In | International
+    FXReserves -.-> | Managed By | SAFE
+    FXReserves -.-> | Managed By | CIC
 
     %% Class styling unchanged
     classDef regulatory fill:#FFECB3,stroke:#E65100,stroke-width:1px

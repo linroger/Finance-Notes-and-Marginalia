@@ -59,7 +59,7 @@ Comps not only provide investors and analysts with important information about t
 
 ## COMPS: BUSINESS VALUATION METHOD
 
-When determining the value of a business based on [comparable company analysis](.md),  an analyst will utilize a ratio based on a value metric such as [market capitalization](Price-to-Sales%20Ratios%20in%20Stock%20Valuation.md) or enterprise value (EV) compared to a performance metric,  such as sales,  EBITDA,  or earnings/earnings per share. A determination on performance can be made under the assumption that companies that are similar should trade at similar multiples.
+When determining the value of a business based on comparable company analysis,  an analyst will utilize a ratio based on a value metric such as market capitalization or enterprise value (EV) compared to a performance metric,  such as sales,  EBITDA,  or earnings/earnings per share. A determination on performance can be made under the assumption that companies that are similar should trade at similar multiples.
 
 Such comps are especially valuable when determining the fair market value (FMV) of a business. They can be used to formulate an asking or offer price in an acquisition or sale,  or in the case of a dispute between partners or during a buyout.
 

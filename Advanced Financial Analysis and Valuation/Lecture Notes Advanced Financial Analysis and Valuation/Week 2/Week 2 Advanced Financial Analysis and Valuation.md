@@ -1,33 +1,35 @@
 ---
 cssclasses:
   - academia
-title: Week 2 Advanced Financial Analysis and Valuation
+title: Week 2 - Advanced Financial Analysis and Valuation
+linter-yaml-title-alias: Week 2 - Advanced Financial Analysis and Valuation
 tags:
   - advanced_financial_analysis
-  - dcf_valuation
-  - financial_analysis
+  - retail_analysis
+  - forecasting
   - valuation
   - week_2
+  - consumer_sector
 aliases:
-  - Advanced Finance
-  - Valuation
-  - Week 2
+  - Week 2 AFAV Notes
+  - Retail Valuation Week
 key_concepts:
-  - Advanced financial analysis
-  - Discounted cash flow
-  - Financial modeling
-  - Valuation techniques
-  - Week 2 topics
+  - Fundamentals of forecasting
+  - Retail industry analysis
+  - Consumer sector moats
+  - Dollar General case study
+  - Revenue forecasting methods
+  - Unit economics in retail
+  - Financial shenanigans
 ---
 
-# Week 2 Advanced Financial Analysis and Valuation
+# Week 2 - Advanced Financial Analysis and Valuation
 
 %% Begin Waypoint %%
 
-- **[Week 2 Advanced Financial Analysis and Valuation](.md)**
-	- [Week 2 Advanced Financial Analysis and Valuation](.md)
-	- [Week 2 Dollar General Case- Assignment Review](Week%202%20Dollar%20General%20Case-%20Assignment%20Review.md)
-	- [Week 2 Fundamentals Of Forecasting](Week%202%20Fundamentals%20Of%20Forecasting.md)
-	- [Moats in Various Areas of Consumer Sector (Cont.)](Moats%20in%20Various%20Areas%20of%20Consumer%20Sector%20(Cont.).md)
+- **Week 2 Course Materials**
+	- Week 2 Dollar General Case- Assignment Review
+	- Week 2 Fundamentals Of Forecasting
+	- Moats in Various Areas of Consumer Sector (Cont.).md)
 
 %% End Waypoint %%

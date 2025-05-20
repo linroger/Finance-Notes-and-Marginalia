@@ -56,9 +56,9 @@ $\begin{aligned} &\text{EBIT}\ =\ \text{Revenue}\ -\ \text{COGS}\ -\ \text{Opera
 
 The EBIT calculation combines a company's manufacturing cost, including raw materials, and total operating expenses, including employee wages. These items are subtracted from revenue:
 
-1. Take the value for revenue or sales from the top of the income statement.
-2. Subtract the cost of goods sold from revenue or sales, which gives you gross profit.
-3. Subtract the operating expenses from the gross profit figure to achieve EBIT.
+[^1]: Take the value for revenue or sales from the top of the income statement.
+[^2]: Subtract the cost of goods sold from revenue or sales, which gives you gross profit.
+[^3]: Subtract the operating expenses from the gross profit figure to achieve EBIT.
 
 ## WHAT EBIT TELLS INVESTORS
 
@@ -76,9 +76,9 @@ Companies with a significant amount of fixed assets can depreciate the expense o
 
 Assume all data for Company X represents all figures in millions of USD. To calculate EBIT, subtract the cost of goods sold and the SG&A expense from the net sales. However, consider the other types of income that can be included in the EBIT calculation such as non-operating income and interest income:
 
-1. EBIT = NS - COGS - SG&A + NOI + II
-2. EBIT = $65,299 - $32,909 - $18,949 + $325 + $182
-3. EBIT = $13,948
+[^1]: EBIT = NS - COGS - SG&A + NOI + II
+[^2]: EBIT = $65,299 - $32,909 - $18,949 + $325 + $182
+[^3]: EBIT = $13,948
 
 Where:
 
@@ -93,9 +93,9 @@ There is also an argument for excluding interest income and other non-operating 
 
 A second way to calculate Company X's EBIT is to work from the bottom up, beginning with net earnings. We ignore non-controlling interests, as we are only concerned with the company's operations and subtract net earnings from discontinued operations for the same reason. We then add income taxes and interest expenses back in to obtain the same EBIT we did through the top-down method:
 
-1. EBIT = NE - NEDO + IT + IE
-2. EBIT = $10,604 - $577 + $3,342 + $579
-3. EBIT = $13,948
+[^1]: EBIT = NE - NEDO + IT + IE
+[^2]: EBIT = $10,604 - $577 + $3,342 + $579
+[^3]: EBIT = $13,948
 
 Where:
 

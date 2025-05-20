@@ -9,39 +9,39 @@ category: "Principles of Financial Engineering"
 
 # CHAPTER OUTLINE  
 
-13.1 Introduction . 428  
-13.2 Application 1: The Monte Carlo Approach. 429   
-13.2.1 Pricing with Monte Carlo . 430   
-13.2.1.1 Pricing a call with constant spot rate . 431   
-13.2.2 Pricing Binary FX Options. 433   
-13.2.2.1 Obtaining the risk-neutral dynamics . 433   
-13.2.2.2 Monte Carlo process. 435   
-13.2.3 Path Dependency . 436   
-13.2.4 Discretization Bias and Closed Forms. 438   
-13.2.5 Real-Life Complications . 438   
-13.3 Application 2: Calibration . 438   
-13.3.1 Calibrating a Tree . 439   
-13.3.2 Extracting a LIBOR Tree. 439   
-13.3.2.1 Pricing functions . 439   
-13.3.3 Obtaining the BDT Tree. 441   
-13.3.3.1 Specifying the dynamics . 441   
-13.3.3.2 The variance of Li . 441   
-13.3.4 Calibrating the Tree . 443   
-13.3.5 Uses of the Tree 445   
-13.3.5.1 Application: pricing a cap . 445   
-13.3.5.2 Some assumptions of the model . 447   
-13.3.5.3 Remarks . 447   
-13.3.6 Real-World Complications . 448   
-13.4 Application 3: Quantos . 448   
-13.4.1 Pricing Quantos. 448   
-13.4.2 The PDE Approach . 451   
-13.4.2.1 A PDE for quantos. 452   
-13.4.3 Quanto Forward. 453   
-13.4.4 Quanto Option. 453   
-13.4.4.1 Black-Scholes and dividends. 454   
-13.4.5 How to Hedge Quantos. 454   
-13.4.6 Real-Life Considerations . 454   
-13.5 Conclusions. 455   
+[^13]: 1 Introduction . 428
+[^13]: 2 Application 1: The Monte Carlo Approach. 429
+[^13]: 2.1 Pricing with Monte Carlo . 430
+[^13]: 2.1.1 Pricing a call with constant spot rate . 431
+[^13]: 2.2 Pricing Binary FX Options. 433
+[^13]: 2.2.1 Obtaining the risk-neutral dynamics . 433
+[^13]: 2.2.2 Monte Carlo process. 435
+[^13]: 2.3 Path Dependency . 436
+[^13]: 2.4 Discretization Bias and Closed Forms. 438
+[^13]: 2.5 Real-Life Complications . 438
+[^13]: 3 Application 2: Calibration . 438
+[^13]: 3.1 Calibrating a Tree . 439
+[^13]: 3.2 Extracting a LIBOR Tree. 439
+[^13]: 3.2.1 Pricing functions . 439
+[^13]: 3.3 Obtaining the BDT Tree. 441
+[^13]: 3.3.1 Specifying the dynamics . 441
+[^13]: 3.3.2 The variance of Li . 441
+[^13]: 3.4 Calibrating the Tree . 443
+[^13]: 3.5 Uses of the Tree 445
+[^13]: 3.5.1 Application: pricing a cap . 445
+[^13]: 3.5.2 Some assumptions of the model . 447
+[^13]: 3.5.3 Remarks . 447
+[^13]: 3.6 Real-World Complications . 448
+[^13]: 4 Application 3: Quantos . 448
+[^13]: 4.1 Pricing Quantos. 448
+[^13]: 4.2 The PDE Approach . 451
+[^13]: 4.2.1 A PDE for quantos. 452
+[^13]: 4.3 Quanto Forward. 453
+[^13]: 4.4 Quanto Option. 453
+[^13]: 4.4.1 Black-Scholes and dividends. 454
+[^13]: 4.5 How to Hedge Quantos. 454
+[^13]: 4.6 Real-Life Considerations . 454
+[^13]: 5 Conclusions. 455
 Suggested Reading . 455   
 Exercises . 455   
 EXCEL Exercises . 456   
@@ -160,9 +160,9 @@ $$
 
 To calculate the current value of the call $C(S_{t}, t)$, we need to evaluate the expectation on the right-hand side. We need to do the following:  
 
-1. Display the arbitrage-free dynamics of $S_{t}$ under the probability $\tilde{P}$.  
-2. Using the dynamics from step 1, obtain as many future paths for $S_{t}$ as needed. Since the call has European-style exercise, only the values at expiration date, $S_{T}$, are relevant and need to be calculated.  
-3. Calculate the $\max[S^{i}_{T} - K, 0]$ for each simulated path $i$ and then take the average.  
+[^1]: Display the arbitrage-free dynamics of $S_{t}$ under the probability $\tilde{P}$.
+[^2]: Using the dynamics from step 1, obtain as many future paths for $S_{t}$ as needed. Since the call has European-style exercise, only the values at expiration date, $S_{T}$, are relevant and need to be calculated.
+[^3]: Calculate the $\max[S^{i}_{T} - K, 0]$ for each simulated path $i$ and then take the average.
 
 The last step will involve the approximation formula  
 $$
@@ -388,19 +388,19 @@ $$
 where $z_{i}$ are independent draws from a standard normal distribution.  
 
 The steps are:  
-1. Generate $M$ paths of $e_{t}$ from time $t$ to $T$ using Eq. (13.46).  
-2. For each path $i$, calculate the payoff:  
+[^1]: Generate $M$ paths of $e_{t}$ from time $t$ to $T$ using Eq. (13.46).
+[^2]: For each path $i$, calculate the payoff:
    $$
    C^{i}(e_{T}, T) = \begin{cases}
    \$100 & \text{if } e^{i}_{T} > K \\
    \$0 & \text{otherwise}
    \end{cases}
    $$  
-3. Calculate the average payoff:  
+[^3]: Calculate the average payoff:
    $$
    \overline{C} = \frac{1}{M}\sum_{i=1}^{M}C^{i}(e_{T}, T)
    $$  
-4. Discount back to get the option price:  
+[^4]: Discount back to get the option price:
    $$
    C(e_{t}, t) = B_{d}(t, T)\overline{C} = e^{-r^{d}(T-t)}\overline{C}
    $$  
@@ -419,10 +419,10 @@ $$
 where $t_{i}$, $i = 1, \ldots, n$ are the averaging dates.  
 
 To price this option using Monte Carlo:  
-1. Generate paths for $e_{t}$ from time $t$ to $T$.  
-2. For each path, calculate the average rate at the specified dates.  
-3. Calculate the payoff based on this average.  
-4. Average across all paths and discount.  
+[^1]: Generate paths for $e_{t}$ from time $t$ to $T$.
+[^2]: For each path, calculate the average rate at the specified dates.
+[^3]: Calculate the payoff based on this average.
+[^4]: Average across all paths and discount.
 
 The Monte Carlo approach naturally handles this complexity, while analytical solutions for such options are rare or involve complex approximations.  
 
@@ -430,7 +430,7 @@ Another example is a barrier option, where the payoff depends on whether the und
 $$
 C(e_{T}, T) = \begin{cases}
 \max[e_{T} - K, 0] & \text{if } e_{u} < H \text{ for all } t \leq u \leq T \\
-0 & \text{otherwise}
+[^0]: & \text{otherwise}
 \end{cases}
 $$  
 
@@ -441,9 +441,9 @@ For barrier options, the Monte Carlo simulation must check at each time step whe
 # 13.2.4 DISCRETIZATION BIAS AND CLOSED FORMS  
 
 When implementing Monte Carlo methods, discretization of the continuous-time stochastic process introduces bias. The size of this bias depends on:  
-1. The time step $\Delta$  
-2. The functional form of the drift and volatility  
-3. The particular discretization scheme used  
+[^1]: The time step $\Delta$
+[^2]: The functional form of the drift and volatility
+[^3]: The particular discretization scheme used
 
 For geometric Brownian motion with constant parameters, the exact solution is known:  
 $$
@@ -458,15 +458,15 @@ For more complex processes, higher-order discretization schemes (such as the Mil
 
 In practice, several complications arise when implementing Monte Carlo methods:  
 
-1. **Variance reduction**: Basic Monte Carlo can require many simulations for accurate results. Techniques like antithetic variates, control variates, and importance sampling can significantly reduce the variance of estimates.  
+[^1]: **Variance reduction**: Basic Monte Carlo can require many simulations for accurate results. Techniques like antithetic variates, control variates, and importance sampling can significantly reduce the variance of estimates.
 
-2. **Quasi-random sequences**: Instead of pseudo-random numbers, quasi-random (low-discrepancy) sequences can provide better convergence properties.  
+[^2]: **Quasi-random sequences**: Instead of pseudo-random numbers, quasi-random (low-discrepancy) sequences can provide better convergence properties.
 
-3. **American options**: Standard Monte Carlo cannot handle early exercise directly. Methods like the Longstaff-Schwartz algorithm use regression techniques to approximate the optimal exercise boundary.  
+[^3]: **American options**: Standard Monte Carlo cannot handle early exercise directly. Methods like the Longstaff-Schwartz algorithm use regression techniques to approximate the optimal exercise boundary.
 
-4. **Multi-factor models**: With multiple sources of randomness, careful attention must be paid to correlation structures and the choice of random number generation.  
+[^4]: **Multi-factor models**: With multiple sources of randomness, careful attention must be paid to correlation structures and the choice of random number generation.
 
-5. **Computational efficiency**: For complex models or large portfolios, computational time becomes a significant constraint. Parallel computing and GPU acceleration are often employed.  
+[^5]: **Computational efficiency**: For complex models or large portfolios, computational time becomes a significant constraint. Parallel computing and GPU acceleration are often employed.
 
 # 13.3 APPLICATION 2: CALIBRATION  
 
@@ -486,8 +486,8 @@ The BDT model specifies the evolution of short rates in a binomial tree where:
 # 13.3.2 EXTRACTING A LIBOR TREE  
 
 Consider calibrating a tree to match observed LIBOR rates and caplet prices. The goal is to construct a tree such that:  
-1. The model prices of zero-coupon bonds match market prices  
-2. The model prices of caplets match market prices  
+[^1]: The model prices of zero-coupon bonds match market prices
+[^2]: The model prices of caplets match market prices
 
 # 13.3.2.1 Pricing functions  
 
@@ -539,24 +539,24 @@ This relationship allows us to calibrate the volatility function $\sigma(t)$ to 
 
 The calibration process involves:  
 
-1. **Building the tree structure**: Start with an initial guess for the median rates and volatilities at each time step.  
+[^1]: **Building the tree structure**: Start with an initial guess for the median rates and volatilities at each time step.
 
-2. **Matching zero-coupon bond prices**: Adjust the median rates so that the tree prices of zero-coupon bonds match market prices. This is done iteratively, starting from the shortest maturity.  
+[^2]: **Matching zero-coupon bond prices**: Adjust the median rates so that the tree prices of zero-coupon bonds match market prices. This is done iteratively, starting from the shortest maturity.
 
-3. **Matching caplet prices**: Adjust the volatilities at each time step so that the tree prices of caplets match market prices.  
+[^3]: **Matching caplet prices**: Adjust the volatilities at each time step so that the tree prices of caplets match market prices.
 
-4. **Iteration**: The process may require several iterations as adjustments to volatilities can affect bond prices and vice versa.  
+[^4]: **Iteration**: The process may require several iterations as adjustments to volatilities can affect bond prices and vice versa.
 
 The calibration algorithm:  
 ```
 For each time step i:
-    1. Choose initial median rate r_m(i)
-    2. Calculate bond prices using the tree
-    3. Adjust r_m(i) until model bond price matches market
-    4. Choose initial volatility σ(i)
-    5. Calculate caplet prices using the tree
-    6. Adjust σ(i) until model caplet price matches market
-    7. Check convergence, iterate if necessary
+[^1]: Choose initial median rate r_m(i)
+[^2]: Calculate bond prices using the tree
+[^3]: Adjust r_m(i) until model bond price matches market
+[^4]: Choose initial volatility σ(i)
+[^5]: Calculate caplet prices using the tree
+[^6]: Adjust σ(i) until model caplet price matches market
+[^7]: Check convergence, iterate if necessary
 ```
 
 # 13.3.5 USES OF THE TREE  
@@ -567,10 +567,10 @@ Once calibrated, the BDT tree can be used to price various interest rate derivat
 
 A cap is a series of caplets. To price a cap using the calibrated tree:  
 
-1. Start at the final nodes of the tree  
-2. Calculate the payoff at each node: $\max(\tau(L - K), 0)$  
-3. Work backward through the tree, calculating expected values  
-4. At each node: $V = e^{-r\Delta t}[pV_{u} + (1-p)V_{d}]$  
+[^1]: Start at the final nodes of the tree
+[^2]: Calculate the payoff at each node: $\max(\tau(L - K), 0)$
+[^3]: Work backward through the tree, calculating expected values
+[^4]: At each node: $V = e^{-r\Delta t}[pV_{u} + (1-p)V_{d}]$
 
 where $p$ is the risk-neutral probability, $V_{u}$ and $V_{d}$ are the values at the up and down nodes, and $\Delta t$ is the time step.  
 
@@ -598,12 +598,12 @@ Over-calibration can lead to unstable models that perform poorly for out-of-samp
 
 In practice, calibration faces several challenges:  
 
-1. **Illiquid instruments**: Market prices may not be available for all maturities  
-2. **Bid-ask spreads**: Which price to use for calibration?  
-3. **Arbitrage violations**: Market quotes may contain arbitrage opportunities  
-4. **Model limitations**: The model may not be flexible enough to match all prices  
-5. **Stability**: Small changes in inputs can lead to large changes in calibrated parameters  
-6. **Cross-sectional consistency**: Calibrating to different instrument types simultaneously  
+[^1]: **Illiquid instruments**: Market prices may not be available for all maturities
+[^2]: **Bid-ask spreads**: Which price to use for calibration?
+[^3]: **Arbitrage violations**: Market quotes may contain arbitrage opportunities
+[^4]: **Model limitations**: The model may not be flexible enough to match all prices
+[^5]: **Stability**: Small changes in inputs can lead to large changes in calibrated parameters
+[^6]: **Cross-sectional consistency**: Calibrating to different instrument types simultaneously
 
 # 13.4 APPLICATION 3: QUANTOS  
 
@@ -714,9 +714,9 @@ The option pricing formula remains the same with this adjusted forward price.
 # 13.4.5 HOW TO HEDGE QUANTOS  
 
 Hedging quanto options requires positions in:  
-1. The foreign stock (delta hedge)  
-2. Foreign currency (to hedge correlation risk)  
-3. Options on the exchange rate (vega hedge for correlation)  
+[^1]: The foreign stock (delta hedge)
+[^2]: Foreign currency (to hedge correlation risk)
+[^3]: Options on the exchange rate (vega hedge for correlation)
 
 The delta with respect to the stock is:  
 $$
@@ -734,12 +734,12 @@ This cross-risk makes quanto options more complex to hedge than standard options
 
 In practice, quanto pricing and hedging involve:  
 
-1. **Correlation estimation**: Historical correlation may not predict future correlation  
-2. **Liquidity**: Foreign stocks may have different liquidity than domestic markets  
-3. **Transaction costs**: Cross-border transactions may have higher costs  
-4. **Regulatory issues**: Capital controls or taxes may affect hedging  
-5. **Model risk**: The assumption of constant correlation is often violated  
-6. **Credit risk**: Quanto structures may involve counterparty risk  
+[^1]: **Correlation estimation**: Historical correlation may not predict future correlation
+[^2]: **Liquidity**: Foreign stocks may have different liquidity than domestic markets
+[^3]: **Transaction costs**: Cross-border transactions may have higher costs
+[^4]: **Regulatory issues**: Capital controls or taxes may affect hedging
+[^5]: **Model risk**: The assumption of constant correlation is often violated
+[^6]: **Credit risk**: Quanto structures may involve counterparty risk
 
 Quanto products are popular because they allow investors to:  
 - Take views on foreign assets without currency risk  
@@ -750,11 +750,11 @@ Quanto products are popular because they allow investors to:
 
 This chapter has demonstrated three important applications of the fundamental theorem of asset pricing:  
 
-1. **Monte Carlo methods**: A general numerical technique for calculating risk-neutral expectations, particularly useful for path-dependent and exotic options.  
+[^1]: **Monte Carlo methods**: A general numerical technique for calculating risk-neutral expectations, particularly useful for path-dependent and exotic options.
 
-2. **Calibration**: The process of fitting model parameters to match market prices, ensuring consistency with observed arbitrage-free prices.  
+[^2]: **Calibration**: The process of fitting model parameters to match market prices, ensuring consistency with observed arbitrage-free prices.
 
-3. **Quanto pricing**: An example of changing between risk-neutral measures, showing how the fundamental theorem applies to multi-currency derivatives.  
+[^3]: **Quanto pricing**: An example of changing between risk-neutral measures, showing how the fundamental theorem applies to multi-currency derivatives.
 
 These applications highlight the practical importance of the fundamental theorem in modern financial engineering. The theorem not only provides theoretical insight but also guides the development of numerical methods, model calibration procedures, and pricing frameworks for complex derivatives.  
 
@@ -785,78 +785,78 @@ For quanto products:
 
 # EXERCISES  
 
-1. Implement a Monte Carlo pricer for a European call option on a stock. Compare your results with the Black-Scholes formula for various parameter values.  
+[^1]: Implement a Monte Carlo pricer for a European call option on a stock. Compare your results with the Black-Scholes formula for various parameter values.
 
-2. Price an Asian call option using Monte Carlo simulation. How does the price compare to a European call with the same strike and maturity?  
+[^2]: Price an Asian call option using Monte Carlo simulation. How does the price compare to a European call with the same strike and maturity?
 
-3. Calibrate a two-period binomial tree to match:  
+[^3]: Calibrate a two-period binomial tree to match:
    a) Two zero-coupon bond prices  
    b) One at-the-money caplet price  
    Document your calibration procedure.  
 
-4. Derive the PDE for a quanto put option. What boundary conditions would you use?  
+[^4]: Derive the PDE for a quanto put option. What boundary conditions would you use?
 
-5. Calculate the price of a quanto forward when the correlation between the foreign stock and exchange rate is:  
+[^5]: Calculate the price of a quanto forward when the correlation between the foreign stock and exchange rate is:
    a) +0.5  
    b) 0  
    c) -0.5  
    Explain the economic intuition for the differences.  
 
-6. Implement a Monte Carlo pricer for a barrier option. How does discretization affect the accuracy of your price?  
+[^6]: Implement a Monte Carlo pricer for a barrier option. How does discretization affect the accuracy of your price?
 
-7. Show that under the domestic risk-neutral measure, the expected return on a foreign stock is $r^{d} - r^{f} + \rho\sigma_{S}\sigma_{e}$.  
+[^7]: Show that under the domestic risk-neutral measure, the expected return on a foreign stock is $r^{d} - r^{f} + \rho\sigma_{S}\sigma_{e}$.
 
-8. Design a hedging strategy for a quanto option. What instruments would you use and why?  
+[^8]: Design a hedging strategy for a quanto option. What instruments would you use and why?
 
-9. Explain why American quanto options are more difficult to price than European quanto options.  
+[^9]: Explain why American quanto options are more difficult to price than European quanto options.
 
-10. Consider a "composite" option where the payoff is $\max(e_{T}S^{f}_{T} - K, 0)$ in domestic currency. How would you price this option?  
+[^10]: Consider a "composite" option where the payoff is $\max(e_{T}S^{f}_{T} - K, 0)$ in domestic currency. How would you price this option?
 
 # EXCEL EXERCISES  
 
-1. Build a Monte Carlo simulation in Excel for:  
+[^1]: Build a Monte Carlo simulation in Excel for:
    a) Geometric Brownian motion  
    b) European option pricing  
    c) Confidence intervals for the price estimate  
 
-2. Create a spreadsheet that calibrates a binomial tree to:  
+[^2]: Create a spreadsheet that calibrates a binomial tree to:
    a) An initial yield curve  
    b) At-the-money caplet volatilities  
    Use Solver for the optimization.  
 
-3. Implement a quanto option pricer that:  
+[^3]: Implement a quanto option pricer that:
    a) Takes correlation as an input  
    b) Calculates option Greeks  
    c) Shows sensitivity to correlation  
 
-4. Build a tool that compares Monte Carlo prices with:  
+[^4]: Build a tool that compares Monte Carlo prices with:
    a) Different numbers of paths  
    b) Different time steps  
    c) Variance reduction techniques  
 
 # MATLAB EXERCISES  
 
-1. Implement an efficient Monte Carlo engine that:  
+[^1]: Implement an efficient Monte Carlo engine that:
    a) Uses vectorization for speed  
    b) Implements antithetic variates  
    c) Calculates standard errors  
 
-2. Program the BDT model calibration:  
+[^2]: Program the BDT model calibration:
    a) Use Newton-Raphson for root finding  
    b) Implement smoothness constraints  
    c) Visualize the resulting tree  
 
-3. Create a quanto pricing library that:  
+[^3]: Create a quanto pricing library that:
    a) Handles multiple underlying assets  
    b) Allows time-varying correlation  
    c) Computes hedge ratios  
 
-4. Develop a convergence study for Monte Carlo:  
+[^4]: Develop a convergence study for Monte Carlo:
    a) Plot price vs. number of paths  
    b) Analyze discretization error  
    c) Compare different random number generators  
 
-5. Implement a PDE solver for quanto options:  
+[^5]: Implement a PDE solver for quanto options:
    a) Use finite differences  
    b) Handle American exercise  
    c) Compare with Monte Carlo results

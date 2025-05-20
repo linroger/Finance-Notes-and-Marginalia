@@ -9,45 +9,45 @@ category: "Principles of Financial Engineering"
 
 # CHAPTER OUTLINE  
 
-14.1 Introduction . 460   
-14.2 A Framework for Swaps . 461   
-14.2.1 Equivalence of Cash Flows . 464   
-14.2.2 Pricing the Swap . 464   
-14.2.2.1 Interpretation of the swap rate . 466   
-14.2.3 Some Applications. 468   
-14.2.3.1 Another formula . 469   
-14.2.3.2 Marking to market . 470   
-14.3 Term Structure Modeling . 471   
-14.3.1 Determining the Forward Rates from Swaps . 471   
-14.3.2 Determining the $B(t_{0}, t_{i})$ from Forward Rates 472   
-14.3.3 Determining the Swap Rate . 472   
-14.3.4 Real-World Complications . 472   
-14.3.4.1 Remark. 473   
-14.4 Term Structure Dynamics. 473   
-14.4.1 The Framework. 474   
-14.4.2 Normalization and Forward Measure. 475   
-14.4.2.1 Risk-neutral measure is inconvenient. 475   
-14.4.2.2 The forward measure. 477   
-14.4.2.3 Arbitrage-free SDEs for forward rates . 478   
-14.4.3 Arbitrage-Free Dynamics . 479   
-14.4.3.1 Review . 481   
-14.4.4 A Monte Carlo Implementation . 482   
-14.5 Measure Change Technology . 483   
-14.5.1 The Mechanics of Measure Changes. 485   
-14.5.2 Generalization. 487   
-14.6 An Application . 488   
-14.6.1 Another Example of Measure Change 489   
-14.6.2 Pricing CMS. 493   
-14.7 In-Arrears Swaps and Convexity . 494   
-14.7.1 Valuation . 495   
-14.7.2 Special Case . 497   
-14.8 Cross-Currency Swaps. 498   
-14.8.1 Pricing . 499   
-14.8.2 Conventions . 500  
+[^14]: 1 Introduction . 460
+[^14]: 2 A Framework for Swaps . 461
+[^14]: 2.1 Equivalence of Cash Flows . 464
+[^14]: 2.2 Pricing the Swap . 464
+[^14]: 2.2.1 Interpretation of the swap rate . 466
+[^14]: 2.3 Some Applications. 468
+[^14]: 2.3.1 Another formula . 469
+[^14]: 2.3.2 Marking to market . 470
+[^14]: 3 Term Structure Modeling . 471
+[^14]: 3.1 Determining the Forward Rates from Swaps . 471
+[^14]: 3.2 Determining the $B(t_{0}, t_{i})$ from Forward Rates 472
+[^14]: 3.3 Determining the Swap Rate . 472
+[^14]: 3.4 Real-World Complications . 472
+[^14]: 3.4.1 Remark. 473
+[^14]: 4 Term Structure Dynamics. 473
+[^14]: 4.1 The Framework. 474
+[^14]: 4.2 Normalization and Forward Measure. 475
+[^14]: 4.2.1 Risk-neutral measure is inconvenient. 475
+[^14]: 4.2.2 The forward measure. 477
+[^14]: 4.2.3 Arbitrage-free SDEs for forward rates . 478
+[^14]: 4.3 Arbitrage-Free Dynamics . 479
+[^14]: 4.3.1 Review . 481
+[^14]: 4.4 A Monte Carlo Implementation . 482
+[^14]: 5 Measure Change Technology . 483
+[^14]: 5.1 The Mechanics of Measure Changes. 485
+[^14]: 5.2 Generalization. 487
+[^14]: 6 An Application . 488
+[^14]: 6.1 Another Example of Measure Change 489
+[^14]: 6.2 Pricing CMS. 493
+[^14]: 7 In-Arrears Swaps and Convexity . 494
+[^14]: 7.1 Valuation . 495
+[^14]: 7.2 Special Case . 497
+[^14]: 8 Cross-Currency Swaps. 498
+[^14]: 8.1 Pricing . 499
+[^14]: 8.2 Conventions . 500
 
-14.9 Differential (Quanto) Swaps 500   
-14.9.1 Basis Swaps. 501   
-14.10 Conclusions. 501   
+[^14]: 9 Differential (Quanto) Swaps 500
+[^14]: 9.1 Basis Swaps. 501
+[^14]: 10 Conclusions. 501
 Suggested Reading . 502   
 Exercises . 502   
 EXCEL Exercises . 503   
@@ -84,8 +84,8 @@ We work with forward fixed payer interest rate swaps and their "spot" equivalent
 
 To simplify the discussion we work with a three-period forward swap, shown in Figure 14.1. It is worth repeating the relevant parameters again, given the somewhat more technical approach the chapter will adopt.  
 
-1. The notional amount is $N$, and the tenor of the underlying LIBOR rate is $\delta$, which represents a proportion of a calendar year. As usual, if a year is denoted by 1, then $\delta$ will be 1/4 in the case of 3-month LIBOR.   
-2. The swap maturity is three periods. The swap ends at time $T=t_{4}$. The swap contract is signed at time $t_{0}$ but starts at time $t_{1}$, hence the term forward swap is used.  
+[^1]: The notional amount is $N$, and the tenor of the underlying LIBOR rate is $\delta$, which represents a proportion of a calendar year. As usual, if a year is denoted by 1, then $\delta$ will be 1/4 in the case of 3-month LIBOR.
+[^2]: The swap maturity is three periods. The swap ends at time $T=t_{4}$. The swap contract is signed at time $t_{0}$ but starts at time $t_{1}$, hence the term forward swap is used.
 
 ![](68d1ffe91229593650aa0b9f193d8e73f9ca01f0df8427f52802c386c42ee7bc.jpg)  
 
@@ -93,8 +93,8 @@ To simplify the discussion we work with a three-period forward swap, shown in Fi
 
 Payoff diagrams for three default-free pure discount bonds.  
 
-3. The dates $\{t_{1}, t_{2}, t_{3}\}$ are reset dates where the relevant LIBOR rates $L_{t_{1}}$, $L_{t_{2}}$, and $L_{t_{3}}$ will be determined. These dates are $\delta$ time units apart.   
-4. The dates $\{t_{2}, t_{3}, t_{4}\}$ are settlement dates where the LIBOR rates $L_{t_{1}}$, $L_{t_{2}}$, and $L_{t_{3}}$ are used to exchange the floating cash flows, $\delta N L_{t_{i}}$ against the fixed $\delta N s_{t_{0}}$ at each $t_{i+1}$. In this setup, the time that passes until the start of the swap, $t_{1}-t_{0}$, need not equal $\delta$. However, it may be notationally convenient to assume that it does.  
+[^3]: The dates $\{t_{1}, t_{2}, t_{3}\}$ are reset dates where the relevant LIBOR rates $L_{t_{1}}$, $L_{t_{2}}$, and $L_{t_{3}}$ will be determined. These dates are $\delta$ time units apart.
+[^4]: The dates $\{t_{2}, t_{3}, t_{4}\}$ are settlement dates where the LIBOR rates $L_{t_{1}}$, $L_{t_{2}}$, and $L_{t_{3}}$ are used to exchange the floating cash flows, $\delta N L_{t_{i}}$ against the fixed $\delta N s_{t_{0}}$ at each $t_{i+1}$. In this setup, the time that passes until the start of the swap, $t_{1}-t_{0}$, need not equal $\delta$. However, it may be notationally convenient to assume that it does.
 
 Our purpose is to provide a systematic framework in which the risk management and pricing of such swaps and the instruments that build on them can be done efficiently. That is, we discuss a technical framework that can be used for running a swap and swap derivatives book.  
 
@@ -111,7 +111,7 @@ Three payoff diagrams for FRAs.
 
 we would expect these bond prices to satisfy  
 $$
-1 > B(t_{0}, t_{1}) > B(t_{0}, t_{2}) > B(t_{0}, t_{4})
+[^1]: > B(t_{0}, t_{1}) > B(t_{0}, t_{2}) > B(t_{0}, t_{4})
 $$  
 
 assuming upward sloping yield curves.  
@@ -140,7 +140,7 @@ Clearly, the same cash flows can be obtained from the FRA portfolios shown in Fi
 
 Since the floating payments and the fixed payments at times $t_{2}$, $t_{3}$, and $t_{4}$ are equivalent to carefully chosen portfolios of FRAs and discount bonds, the swap spread can be expressed as a function of the corresponding FRA rates and discount bond prices. We work with the deterministic case first and then generalize to the case of stochastic interest rates.  
 
-If the interest rates are deterministic, then the equivalences mentioned above can be used to determine the [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free swap rate. We use the standard argument where the value of a forward swap, at the time of initiation, is zero. Then, the discounted floating payments should equal the discounted fixed payments,  
+If the interest rates are deterministic, then the equivalences mentioned above can be used to determine the arbitrage-free swap rate. We use the standard argument where the value of a forward swap, at the time of initiation, is zero. Then, the discounted floating payments should equal the discounted fixed payments,  
 $$
 B(t_{0}, t_{2})\delta s_{t_{0}} + B(t_{0}, t_{3})\delta s_{t_{0}} + B(t_{0}, t_{4})\delta s_{t_{0}}
 $$  
@@ -228,7 +228,7 @@ As expected, the forward swap rate also behaves like a martingale.
 
 Before deriving the fundamental arbitrage-free dynamics for the Forward LIBOR Model (Chapter 22), we consider two applications that are commonly used by swap traders.  
 
-[Arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) restrictions between swaps and the underlying interest rates can be exploited by spread traders. For example, if the pricing equation  
+Arbitrage restrictions between swaps and the underlying interest rates can be exploited by spread traders. For example, if the pricing equation  
 $$
 s_{t_{0}} = \frac{\sum_{i=1}^{3} B(t_{0}, t_{i+1})F_{0}^{i}}{\sum_{i=1}^{3} B(t_{0}, t_{i+1})}
 $$  
@@ -331,11 +331,11 @@ This completes the circle of relationships between swap rates, forward rates, an
 
 In practice, several complications arise:  
 
-1. **Day count conventions**: Different markets use different conventions (ACT/360, 30/360, etc.)  
-2. **Business day adjustments**: Payment dates may be adjusted for holidays  
-3. **Interpolation**: Observed swap rates may not be available for all maturities needed  
-4. **Bid-ask spreads**: Market quotes have transaction costs  
-5. **Basis spreads**: Different floating rate indices may have spreads between them  
+[^1]: **Day count conventions**: Different markets use different conventions (ACT/360, 30/360, etc.)
+[^2]: **Business day adjustments**: Payment dates may be adjusted for holidays
+[^3]: **Interpolation**: Observed swap rates may not be available for all maturities needed
+[^4]: **Bid-ask spreads**: Market quotes have transaction costs
+[^5]: **Basis spreads**: Different floating rate indices may have spreads between them
 
 # 14.3.4.1 Remark  
 
@@ -386,9 +386,9 @@ $$
 where $r_t$ is the short rate.  
 
 However, working with the risk-neutral measure for interest rate derivatives has several disadvantages:  
-1. The short rate $r_t$ is not directly observable  
-2. Complex drift adjustments are needed for forward rates  
-3. Calibration to market prices is difficult  
+[^1]: The short rate $r_t$ is not directly observable
+[^2]: Complex drift adjustments are needed for forward rates
+[^3]: Calibration to market prices is difficult
 
 # 14.4.2.2 The forward measure  
 
@@ -432,31 +432,31 @@ $$
 This is the fundamental equation of the LIBOR Market Model (LMM).  
 
 Key features:  
-1. Each forward rate has its own volatility function $\sigma_i(t)$  
-2. Correlations $\rho_{ij}$ between different forward rates  
-3. Drift terms ensure no arbitrage  
-4. Under its own forward measure, each forward rate is driftless  
+[^1]: Each forward rate has its own volatility function $\sigma_i(t)$
+[^2]: Correlations $\rho_{ij}$ between different forward rates
+[^3]: Drift terms ensure no arbitrage
+[^4]: Under its own forward measure, each forward rate is driftless
 
 # 14.4.3.1 Review  
 
 The Forward LIBOR Model has several advantages:  
-1. **Market observability**: Forward rates are directly observable  
-2. **Calibration**: Easy to calibrate to cap/floor prices  
-3. **Flexibility**: Can incorporate volatility smiles  
-4. **Consistency**: Ensures arbitrage-free dynamics  
+[^1]: **Market observability**: Forward rates are directly observable
+[^2]: **Calibration**: Easy to calibrate to cap/floor prices
+[^3]: **Flexibility**: Can incorporate volatility smiles
+[^4]: **Consistency**: Ensures arbitrage-free dynamics
 
 However, it also has limitations:  
-1. **Computational intensity**: Monte Carlo simulation is often required  
-2. **High dimensionality**: Many factors needed for realistic modeling  
-3. **Correlation specification**: Difficult to estimate correlations accurately  
+[^1]: **Computational intensity**: Monte Carlo simulation is often required
+[^2]: **High dimensionality**: Many factors needed for realistic modeling
+[^3]: **Correlation specification**: Difficult to estimate correlations accurately
 
 # 14.4.4 A MONTE CARLO IMPLEMENTATION  
 
 To price derivatives using the Forward LIBOR Model:  
 
-1. **Discretize time**: Choose time steps $\Delta t$  
-2. **Initialize**: Set initial forward rates from market data  
-3. **Simulate paths**:  
+[^1]: **Discretize time**: Choose time steps $\Delta t$
+[^2]: **Initialize**: Set initial forward rates from market data
+[^3]: **Simulate paths**:
    ```
    For each path:
      For each time step:
@@ -465,9 +465,9 @@ To price derivatives using the Forward LIBOR Model:
          Generate random shock
          Update forward rate
    ```
-4. **Calculate payoffs**: Evaluate derivative payoff on each path  
-5. **Discount**: Discount payoffs to present value  
-6. **Average**: Take average across all paths  
+[^4]: **Calculate payoffs**: Evaluate derivative payoff on each path
+[^5]: **Discount**: Discount payoffs to present value
+[^6]: **Average**: Take average across all paths
 
 The key challenge is calculating the drift terms efficiently, as they depend on all forward rates with longer maturities.  
 
@@ -508,10 +508,10 @@ where $\mu_S^{T_2} = \mu_S^{T_1} + \sigma_S \lambda_t$.
 
 The general framework for measure changes involves:  
 
-1. **Numeraire choice**: Select appropriate numeraire for the problem  
-2. **Radon-Nikodym derivative**: Calculate the change of measure  
-3. **Drift adjustment**: Apply Girsanov's theorem  
-4. **Correlation structure**: Maintain consistency across measures  
+[^1]: **Numeraire choice**: Select appropriate numeraire for the problem
+[^2]: **Radon-Nikodym derivative**: Calculate the change of measure
+[^3]: **Drift adjustment**: Apply Girsanov's theorem
+[^4]: **Correlation structure**: Maintain consistency across measures
 
 Important special cases:  
 - **Spot measure**: Numeraire is money market account  
@@ -610,7 +610,7 @@ $$
 
 where:  
 $$
-\text{CA} \approx \frac{\sigma^2 \delta T_i}{1 + \delta F(0, T_i)}
+\text{CA} \approx \frac{\sigma[^2] \delta T_i}{1 + \delta F(0, T_i)}
 $$  
 
 This adjustment compensates for the timing difference and is always positive.  
@@ -622,9 +622,9 @@ Cross-currency swaps involve exchanging cash flows in different currencies. They
 # 14.8.1 PRICING  
 
 A typical cross-currency swap involves:  
-1. Exchange of notionals at inception  
-2. Exchange of interest payments during the life  
-3. Re-exchange of notionals at maturity  
+[^1]: Exchange of notionals at inception
+[^2]: Exchange of interest payments during the life
+[^3]: Re-exchange of notionals at maturity
 
 Consider a swap receiving USD LIBOR and paying EUR LIBOR:  
 - USD leg: $L_{USD}(t) \times N_{USD}$  
@@ -645,10 +645,10 @@ $$
 # 14.8.2 CONVENTIONS  
 
 Market conventions for cross-currency swaps include:  
-1. **Notional reset**: Notionals may be reset periodically  
-2. **Basis spreads**: Additional spreads on one or both legs  
-3. **Initial exchange**: May or may not exchange notionals at start  
-4. **Final exchange**: Always exchange notionals at maturity  
+[^1]: **Notional reset**: Notionals may be reset periodically
+[^2]: **Basis spreads**: Additional spreads on one or both legs
+[^3]: **Initial exchange**: May or may not exchange notionals at start
+[^4]: **Final exchange**: Always exchange notionals at maturity
 
 # 14.9 DIFFERENTIAL (QUANTO) SWAPS  
 
@@ -691,16 +691,16 @@ Common examples:
 - LIBOR vs. Prime  
 
 The basis spread $s$ is determined by:  
-1. Credit risk differences  
-2. Liquidity differences  
-3. Supply and demand  
+[^1]: Credit risk differences
+[^2]: Liquidity differences
+[^3]: Supply and demand
 
 # 14.10 CONCLUSIONS  
 
 This chapter has developed a framework for fixed income derivatives based on:  
-1. Forward rates as fundamental building blocks  
-2. Forward measures for convenient pricing  
-3. Measure change technology for complex products  
+[^1]: Forward rates as fundamental building blocks
+[^2]: Forward measures for convenient pricing
+[^3]: Measure change technology for complex products
 
 Key insights include:  
 - Swap rates are weighted averages of forward rates  
@@ -737,50 +737,50 @@ Future developments in this area include:
 
 # EXERCISES  
 
-1. Consider a two-period swap with annual payments. If the one-year forward rate is 3% and the two-year forward rate is 3.5%, calculate the par swap rate.  
+[^1]: Consider a two-period swap with annual payments. If the one-year forward rate is 3% and the two-year forward rate is 3.5%, calculate the par swap rate.
 
-2. Show that under the forward measure $Q^T$, the forward rate $F(t, T)$ is a martingale.  
+[^2]: Show that under the forward measure $Q^T$, the forward rate $F(t, T)$ is a martingale.
 
-3. Derive the convexity adjustment for a CMS caplet that pays $\max(s_n(T) - K, 0)$ at time $T$.  
+[^3]: Derive the convexity adjustment for a CMS caplet that pays $\max(s_n(T) - K, 0)$ at time $T$.
 
-4. Calculate the value of an in-arrears swap where LIBOR is set and paid at the same time. Assume:  
+[^4]: Calculate the value of an in-arrears swap where LIBOR is set and paid at the same time. Assume:
    - Forward rate: 4%  
    - Volatility: 20%  
    - Time to payment: 1 year  
    - Day count: 0.25  
 
-5. Explain why the convexity adjustment for CMS is always positive.  
+[^5]: Explain why the convexity adjustment for CMS is always positive.
 
-6. Consider a quanto swap paying EUR LIBOR in USD. If the correlation between EUR rates and USD/EUR exchange rate is -0.3, is the quanto adjustment positive or negative? Explain.  
+[^6]: Consider a quanto swap paying EUR LIBOR in USD. If the correlation between EUR rates and USD/EUR exchange rate is -0.3, is the quanto adjustment positive or negative? Explain.
 
-7. Derive the drift adjustment when changing from the $T_1$-forward measure to the $T_2$-forward measure for a forward rate $F(t, S)$ where $T_1 < S < T_2$.  
+[^7]: Derive the drift adjustment when changing from the $T_1$-forward measure to the $T_2$-forward measure for a forward rate $F(t, S)$ where $T_1 < S < T_2$.
 
-8. A 5-year annual swap has a par rate of 4%. If the 5-year discount factor is 0.8227, calculate the annuity factor (sum of discount factors).  
+[^8]: A 5-year annual swap has a par rate of 4%. If the 5-year discount factor is 0.8227, calculate the annuity factor (sum of discount factors).
 
-9. Explain the advantages of using forward measures instead of the risk-neutral measure for pricing interest rate derivatives.  
+[^9]: Explain the advantages of using forward measures instead of the risk-neutral measure for pricing interest rate derivatives.
 
-10. Consider a cross-currency swap exchanging USD fixed for EUR floating. What risks need to be considered in pricing this swap?  
+[^10]: Consider a cross-currency swap exchanging USD fixed for EUR floating. What risks need to be considered in pricing this swap?
 
 # EXCEL EXERCISES  
 
-1. Build a spreadsheet to bootstrap forward rates from par swap rates for maturities 1-10 years.  
+[^1]: Build a spreadsheet to bootstrap forward rates from par swap rates for maturities 1-10 years.
 
-2. Implement a Monte Carlo simulation for the one-factor LIBOR Market Model:  
+[^2]: Implement a Monte Carlo simulation for the one-factor LIBOR Market Model:
    a) Simulate 5 forward rates  
    b) Price a cap on 3M LIBOR  
    c) Calculate the standard error  
 
-3. Create a convexity adjustment calculator for:  
+[^3]: Create a convexity adjustment calculator for:
    a) CMS rates  
    b) In-arrears swaps  
    Show how the adjustment varies with volatility and time.  
 
-4. Build a cross-currency swap pricer that handles:  
+[^4]: Build a cross-currency swap pricer that handles:
    a) Exchange of notionals  
    b) Interest payments in two currencies  
    c) FX risk  
 
-5. Implement a measure change calculator showing:  
+[^5]: Implement a measure change calculator showing:
    a) Radon-Nikodym derivatives  
    b) Drift adjustments  
    c) Impact on forward rates  
@@ -788,13 +788,13 @@ Future developments in this area include:
 # MATLAB EXERCISE  
 
 Implement a full LIBOR Market Model simulation:  
-1. Generate correlated forward rate paths  
-2. Price various derivatives:  
+[^1]: Generate correlated forward rate paths
+[^2]: Price various derivatives:
    - Caps and floors  
    - Swaptions  
    - CMS products  
-3. Calculate sensitivities (Greeks)  
-4. Analyze the impact of correlation assumptions  
+[^3]: Calculate sensitivities (Greeks)
+[^4]: Analyze the impact of correlation assumptions
 
 Your code should:  
 - Handle arbitrary numbers of forward rates  

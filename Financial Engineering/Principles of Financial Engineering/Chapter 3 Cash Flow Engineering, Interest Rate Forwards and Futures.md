@@ -33,93 +33,93 @@ cssclasses: academia
 
 # CHAPTER OUTLINE  
 
-3.1 [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) . 54   
+[^3]: 1 Introduction . 54
 .2 What Is a Synthetic? . 55   
-3.2.1 Cash Flows 55   
-3.2.1.1 Cash flows in different currencies .57   
-3.2.1.2 Cash flows with different market risks . 58   
-3.2.1.3 Cash flows with different credit risks . .58   
-3.2.1.4 Cash flows with different volatilities . .58   
-3.3 Engineering [Simple Interest Rate](../1.%20DeterministicCashFlows.md) [Derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) . 59   
-3.3.1 A Convergence Trade.. 60   
-3.3.2 Yield Curve . 61   
-3.4 LIBOR and Other Benchmarks .. 63   
-.5 [Fixed Income](../../Fixed%20Income%20Asset%20Pricing/Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md) Market Conventions. . 64   
-3.5.1 How to Quote Yields.. 65   
-3.5.2 [Day-Count Conventions](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Day-Count%20Conventions.md) .. 67   
-3.5.2.1 Holiday conventions .. .68   
-3.5.3 Two Examples . 69   
-3.6 A Contractual Equation . 70   
-3.6.1 Forward Loan . 71   
-3.6.2 [Replication](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) of a Forward Loan .... 72   
-3.6.2.1 Bond market [replication](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) . .73   
-3.6.2.2 [Pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) . 74   
-3.6.2.3 [Arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) ... ..74   
-3.6.2.4 Money market [replication](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) . .75   
-3.6.2.5 [Pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) . .75   
-3.6.3 Contractual Equations.... . 76   
-3.6.4 Applications. 77   
-3.6.4.1 Application 1: creating a synthetic bond. 77   
-3.6.4.2 Application 2: covering a mismatch .. .78   
-.7 [Forward Rate Agreements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) ... 79  
+[^3]: 2.1 Cash Flows 55
+[^3]: 2.1.1 Cash flows in different currencies .57
+[^3]: 2.1.2 Cash flows with different market risks . 58
+[^3]: 2.1.3 Cash flows with different credit risks . .58
+[^3]: 2.1.4 Cash flows with different volatilities . .58
+[^3]: 3 Engineering Simple Interest Rate Derivatives . 59
+[^3]: 3.1 A Convergence Trade.. 60
+[^3]: 3.2 Yield Curve . 61
+[^3]: 4 LIBOR and Other Benchmarks .. 63
+.5 Fixed Income Market Conventions. . 64   
+[^3]: 5.1 How to Quote Yields.. 65
+[^3]: 5.2 Day-Count Conventions .. 67
+[^3]: 5.2.1 Holiday conventions .. .68
+[^3]: 5.3 Two Examples . 69
+[^3]: 6 A Contractual Equation . 70
+[^3]: 6.1 Forward Loan . 71
+[^3]: 6.2 Replication of a Forward Loan .... 72
+[^3]: 6.2.1 Bond market replication . .73
+[^3]: 6.2.2 Pricing . 74
+[^3]: 6.2.3 Arbitrage ... ..74
+[^3]: 6.2.4 Money market replication . .75
+[^3]: 6.2.5 Pricing . .75
+[^3]: 6.3 Contractual Equations.... . 76
+[^3]: 6.4 Applications. 77
+[^3]: 6.4.1 Application 1: creating a synthetic bond. 77
+[^3]: 6.4.2 Application 2: covering a mismatch .. .78
+.7 Forward Rate Agreements ... 79  
 
-3.7.1 Eliminating the [Credit Risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) . 80  
+[^3]: 7.1 Eliminating the Credit Risk . 80
 
-3.7.2 Definition of the FRA . 81   
-3.7.2.1 An interpretation.. .82   
-3.7.3 FRA Contractual Equation . 82   
-3.7.3.1 Application: FRA strips . .82   
-3.8 [Fixed Income](../../Fixed%20Income%20Asset%20Pricing/Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md) Risk Measures: [Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md), [Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) and Value-at-Risk.... . 83   
-3.8.1 DV01 and PV01 84   
-3.8.1.1 [Dollar duration](../A%20Guide%20to%20Duration%20DV01%20and%20Yield%20Curve.md) DV01 . .84   
-3.8.1.2 PV01... .85   
-3.8.2 [Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) . 85   
-3.8.3 [Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) . 87   
-3.8.4 Immunization.. 87   
-3.8.5 Value-at-Risk, Expected Shortfall, Basel Capital Requirements and Funding Costs ... . 88   
-3.9 [Futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md): [Eurocurrency](../../International%20Finance/The%20Eurocurrency%20and%20Eurobond%20Markets%20Annotations.md) Contracts..... . 89   
-3.9.1 Other Parameters .. 91   
-3.9.1.1 The “TED spread” . .92   
-3.9.2 Comparing FRAs and [Eurodollar Futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Convexity-Adjusted%20Models%20for%20LIBOR%20Forwards%20Qu.md).. 93   
-3.9.2.1 [Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) differences... 93   
-3.9.3 [Hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) FRAs with [Eurocurrency](../../International%20Finance/The%20Eurocurrency%20and%20Eurobond%20Markets%20Annotations.md) [Futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) . . 93   
-3.9.3.1 Some technical points . 94   
+[^3]: 7.2 Definition of the FRA . 81
+[^3]: 7.2.1 An interpretation.. .82
+[^3]: 7.3 FRA Contractual Equation . 82
+[^3]: 7.3.1 Application: FRA strips . .82
+[^3]: 8 Fixed Income Risk Measures: Duration, Convexity and Value-at-Risk.... . 83
+[^3]: 8.1 DV01 and PV01 84
+[^3]: 8.1.1 Dollar duration DV01 . .84
+[^3]: 8.1.2 PV01... .85
+[^3]: 8.2 Duration . 85
+[^3]: 8.3 Convexity . 87
+[^3]: 8.4 Immunization.. 87
+[^3]: 8.5 Value-at-Risk, Expected Shortfall, Basel Capital Requirements and Funding Costs ... . 88
+[^3]: 9 Futures: Eurocurrency Contracts..... . 89
+[^3]: 9.1 Other Parameters .. 91
+[^3]: 9.1.1 The “TED spread” . .92
+[^3]: 9.2 Comparing FRAs and Eurodollar Futures.. 93
+[^3]: 9.2.1 Convexity differences... 93
+[^3]: 9.3 Hedging FRAs with Eurocurrency Futures . . 93
+[^3]: 9.3.1 Some technical points . 94
 .10 Real-World Complications . 95   
-3.10.1 [Bid-Ask](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Bid-Ask%20Prices%20with%20Adverse%20SelectionPrivate%20Information.md) Spreads. . 95   
-3.10.2 An Asymmetry. 96   
-3.11 Forward Rates and [Term Structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md).. 96   
-3.11.1 Bond Prices .. 96   
-3.11.2 What Forward Rates Imply.. 97   
-3.11.2.1 Remark... .97   
-3.12 Conventions... 98   
-3.13 A Digression: Strips... . 99   
+[^3]: 10.1 Bid-Ask Spreads. . 95
+[^3]: 10.2 An Asymmetry. 96
+[^3]: 11 Forward Rates and Term Structure.. 96
+[^3]: 11.1 Bond Prices .. 96
+[^3]: 11.2 What Forward Rates Imply.. 97
+[^3]: 11.2.1 Remark... .97
+[^3]: 12 Conventions... 98
+[^3]: 13 A Digression: Strips... . 99
 .14 Conclusions.. . 99   
 Suggested Reading . . 100   
 Appendix—Calculating the Yield Curve .... . 100   
 Par Yield Curve... 101   
 Zero-Coupon Yield Curve .. 101   
 Zero-Coupon Curve from Coupon Bonds. 102   
-[Exercises](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) . . 103  
+Exercises . . 103  
 
 # 3.1 INTRODUCTION  
 
-All [financial instruments](../../Financial%20Instruments/A%20Practical%20Guide%20for%20Actuaries%20and%20other%20Business%20Professionals..md) can be visualized as bundles of cash flows. They are designed so that market participants can trade cash flows that have different characteristics and different risks. This chapter uses interest rate [forwards and futures](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) to discuss how cash flows can be replicated and then repackaged to create synthetic instruments.  
+All financial instruments can be visualized as bundles of cash flows. They are designed so that market participants can trade cash flows that have different characteristics and different risks. This chapter uses interest rate forwards and futures to discuss how cash flows can be replicated and then repackaged to create synthetic instruments.  
 
-It is easiest to determine [replication](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) strategies for linear instruments. We show that this can be further developed into an analytical methodology to create synthetic equivalents of complicated instruments as well. This analytical method will be summarized by a (contractual) equation. After plugging in the right instruments, the equation will yield the synthetic for the [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) of interest. Throughout this chapter, we assume that there is no [default risk](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/Default%20Risk%20and%20Credit%20Derivatives%20183.md) and we discuss only [static replication](../Static%20Option%20Replication.md) methods. Positions are taken and kept unchanged until expiration, and require no rebalancing. [Dynamic replication](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Note%205-%20Black%20Scholes%20Formula.md) methods will be discussed in Chapter 8.  
+It is easiest to determine replication strategies for linear instruments. We show that this can be further developed into an analytical methodology to create synthetic equivalents of complicated instruments as well. This analytical method will be summarized by a (contractual) equation. After plugging in the right instruments, the equation will yield the synthetic for the cash flow of interest. Throughout this chapter, we assume that there is no default risk and we discuss only static replication methods. Positions are taken and kept unchanged until expiration, and require no rebalancing. Dynamic replication methods will be discussed in Chapter 8.  
 
-This chapter develops the financial engineering methods that use forward loans, [forward rate agreements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) (FRAs), and [Eurocurrency](../../International%20Finance/The%20Eurocurrency%20and%20Eurobond%20Markets%20Annotations.md) [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md). We first discuss these instruments and obtain contractual equations that can be manipulated usefully to produce other synthetics. The synthetics are used to provide [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formulas.  
+This chapter develops the financial engineering methods that use forward loans, forward rate agreements (FRAs), and Eurocurrency futures. We first discuss these instruments and obtain contractual equations that can be manipulated usefully to produce other synthetics. The synthetics are used to provide pricing formulas.  
 
 # 3.2 WHAT IS A SYNTHETIC?  
 
-The notion of a synthetic instrument, or [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md), is central to financial engineering. We would like to understand how to price and hedge an instrument, and learn the risks associated with it. To do this, we consider the cash flows generated by an instrument during the lifetime of its contract. Then, using other simpler, liquid instruments, we form a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) that replicates these cash flows exactly. This is called a [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) and will be a synthetic of the original instrument. The constituents of the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) will be easier to price, understand, and analyze than the original instrument.  
+The notion of a synthetic instrument, or replicating portfolio, is central to financial engineering. We would like to understand how to price and hedge an instrument, and learn the risks associated with it. To do this, we consider the cash flows generated by an instrument during the lifetime of its contract. Then, using other simpler, liquid instruments, we form a portfolio that replicates these cash flows exactly. This is called a replicating portfolio and will be a synthetic of the original instrument. The constituents of the replicating portfolio will be easier to price, understand, and analyze than the original instrument.  
 
-In this chapter, we start with synthetics that can be discussed using [forwards and futures](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) and money market products. At the end, we obtain a contractual equation that can be algebraically manipulated to obtain solutions to practical financial engineering problems.  
+In this chapter, we start with synthetics that can be discussed using forwards and futures and money market products. At the end, we obtain a contractual equation that can be algebraically manipulated to obtain solutions to practical financial engineering problems.  
 
 # 3.2.1 CASH FLOWS  
 
-We begin our discussion by defining a simple tool that plays an important role in the first part of this book. This tool is the graphical representation of a [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md).  
+We begin our discussion by defining a simple tool that plays an important role in the first part of this book. This tool is the graphical representation of a cash flow.  
 
-By a [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md), we mean a payment or receipt of cash at a specific time, in a specific [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md), with a certain [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md). For example, consider the default-free cash flows in Figures 3.1 and 3.2. Such figures are used repeatedly in later chapters, so we will discuss them in detail.  
+By a cash flow, we mean a payment or receipt of cash at a specific time, in a specific currency, with a certain credit risk. For example, consider the default-free cash flows in Figures 3.1 and 3.2. Such figures are used repeatedly in later chapters, so we will discuss them in detail.  
 
 # EXAMPLE  
 
@@ -140,17 +140,17 @@ Cash flows generated by a risky loan.
 
 We can interpret Figure 3.1 as cash flows that result when a market participant borrows USD100 at time $t_{0}$ and then pays this amount back with interest as USD105, where the interest rate applicable to period $[t_{0},t_{1}]$ is $5\%$ and where $t_{1}-t_{0}=1$ year.  
 
-Every financial transaction has at least two counterparties. It is important to realize that the top portion of Figure 3.1 shows the cash flows from the borrower’s point of view. Thus, if we look at the same instrument from the lender’s point of view, we will see an inverted image of these cash flows. The lender lends USD100 at time $t_{0}$ and then receives the principal and interest at time $t_{1}$ . The [bid-ask spread](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Bid%20Ask%20and%20Transaction%20Prices%20in%20a%20Specialist%20Market%20With%20Heterogeneously%20Informed%20Traders.md) suggests that the interest is the asking rate.  
+Every financial transaction has at least two counterparties. It is important to realize that the top portion of Figure 3.1 shows the cash flows from the borrower’s point of view. Thus, if we look at the same instrument from the lender’s point of view, we will see an inverted image of these cash flows. The lender lends USD100 at time $t_{0}$ and then receives the principal and interest at time $t_{1}$ . The bid-ask spread suggests that the interest is the asking rate.  
 
 Finally, note that the cash flows shown in Figure 3.1 do not admit any uncertainty, since, both at time $t_{0}$ and time $t_{1}$ cash flows are represented by a single rectangle with known value. If there was uncertainty about either one, we would need to take this into account in the graph by considering different states of the world. For example, if there was a default possibility on the loan repayment, then the cash flows would be represented as in Figure 3.2. If the borrower defaulted, there would be no payment at all. At time $t_{1}$ , there are two possibilities. The lender either receives USD105 or receives nothing.  
 
-Cash flows have special characteristics that can be viewed as attributes. At all points in time, there are market participants and businesses with different needs in terms of these attributes. They will [exchange cash flows](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%204%20-%20Swap%20Markets/Fundamentals%20of%20Swaps.md) in order to reach desired objectives. This is done by trading [financial contracts](../../Contemporary%20Financial%20Intermediation%20Notes/Contemporary%20Financial%20Intermediation%20Notes.md) associated with different [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) attributes. We now list the major types of cash flows with well-known attributes.  
+Cash flows have special characteristics that can be viewed as attributes. At all points in time, there are market participants and businesses with different needs in terms of these attributes. They will exchange cash flows in order to reach desired objectives. This is done by trading financial contracts associated with different cash flow attributes. We now list the major types of cash flows with well-known attributes.  
 
 # 3.2.1.1 Cash flows in different currencies  
 
-The first set of instruments devised in the markets trade cash flows that are identical in every respect except for the [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) they are expressed in.  
+The first set of instruments devised in the markets trade cash flows that are identical in every respect except for the currency they are expressed in.  
 
-In Figure 3.3, a decision maker pays USD100 at time $t_{0}$ and receives $100e_{t_{0}}$ units of Euro at the same time. This is a spot FX deal, since the transaction takes place at time $t_{0}$ . The $\boldsymbol{e}_{t_{0}}$ is the [spot exchange rate](../../Financial%20Instruments/Review%20Session%20Notes/Arbitrage%20Opportunity%20Accounting.md). It is the number of Euros paid for one USD.1  
+In Figure 3.3, a decision maker pays USD100 at time $t_{0}$ and receives $100e_{t_{0}}$ units of Euro at the same time. This is a spot FX deal, since the transaction takes place at time $t_{0}$ . The $\boldsymbol{e}_{t_{0}}$ is the spot exchange rate. It is the number of Euros paid for one USD.1  
 
 ![](921771fd32dbf134baca86f147d2b585a4ec3b32ad5557fa05e913dd9722aa94.jpg)  
 
@@ -166,17 +166,17 @@ A swap.
 
 # 3.2.1.2 Cash flows with different market risks  
 
-If cash flows with different [market risk](../Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md) characteristics are exchanged, we obtain more complicated instruments than a spot FX transaction or deposit. Figure 3.4 shows an exchange of cash flows that depend on different market risks. The market practitioner makes a payment proportional to $L_{t_{1}}$ percent of a notional amount $N$ against a receipt of $\boldsymbol{F}_{t_{0}}$ percent of the same $N$ . Here $L_{t_{1}}$ is an unknown, floating LIBOR rate at time $t_{0}$ that will be learned at time $t_{1}.~F_{t_{0}}$ , on the other hand, is set at time $\overline{{t_{0}}}$ and is a [forward interest rate](../../Clippings/Forward%20Rate.md). The cash flows are exchanged at time $t_{2}$ and involve two different types of risk. Instruments that are used to exchange such risks are often referred to as swaps. They exchange a floating risk against a fixed risk. Swaps are not limited to [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md). For example, a market participant may be willing to pay a floating (i.e., to be determined) oil price and receive a fixed oil price. One can design such swaps for all types of [commodities](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md).  
+If cash flows with different market risk characteristics are exchanged, we obtain more complicated instruments than a spot FX transaction or deposit. Figure 3.4 shows an exchange of cash flows that depend on different market risks. The market practitioner makes a payment proportional to $L_{t_{1}}$ percent of a notional amount $N$ against a receipt of $\boldsymbol{F}_{t_{0}}$ percent of the same $N$ . Here $L_{t_{1}}$ is an unknown, floating LIBOR rate at time $t_{0}$ that will be learned at time $t_{1}.~F_{t_{0}}$ , on the other hand, is set at time $\overline{{t_{0}}}$ and is a forward interest rate. The cash flows are exchanged at time $t_{2}$ and involve two different types of risk. Instruments that are used to exchange such risks are often referred to as swaps. They exchange a floating risk against a fixed risk. Swaps are not limited to interest rates. For example, a market participant may be willing to pay a floating (i.e., to be determined) oil price and receive a fixed oil price. One can design such swaps for all types of commodities.  
 
 # 3.2.1.3 Cash flows with different credit risks  
 
-The probability of default is different for each borrower. Exchanging cash flows with different [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) characteristics leads to credit instruments.  
+The probability of default is different for each borrower. Exchanging cash flows with different credit risk characteristics leads to credit instruments.  
 
-In Figure 3.5, a counterparty makes a payment that is contingent on the default of a decision maker against the guaranteed receipt of a fee. Market participants may buy and sell such cash flows with different [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) characteristics and thereby adjust their credit exposure. For example, AA-rated cash flows can be traded against BBB-rated cash flows.  
+In Figure 3.5, a counterparty makes a payment that is contingent on the default of a decision maker against the guaranteed receipt of a fee. Market participants may buy and sell such cash flows with different credit risk characteristics and thereby adjust their credit exposure. For example, AA-rated cash flows can be traded against BBB-rated cash flows.  
 
 # 3.2.1.4 Cash flows with different volatilities  
 
-There are instruments that [exchange cash flows](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%204%20-%20Swap%20Markets/Fundamentals%20of%20Swaps.md) with different volatility characteristics. Figure 3.6 shows the case of exchanging a fixed volatility at time $t_{2}$ against a realized (floating) volatility observed during the period, $[t_{1},t_{2}]$ . Such instruments are called volatility swaps.  
+There are instruments that exchange cash flows with different volatility characteristics. Figure 3.6 shows the case of exchanging a fixed volatility at time $t_{2}$ against a realized (floating) volatility observed during the period, $[t_{1},t_{2}]$ . Such instruments are called volatility swaps.  
 
 ![](153ddca1375d3d3e8b596459e2afc951b2d145cba64679a8ea9543cb0c3e2345.jpg)  
 
@@ -188,38 +188,38 @@ Example of payment contingent on default.
 
 # FIGURE 3.6  
 
-A [volatility swap](../Variance%20Swaps.md).  
+A volatility swap.  
 
 # 3.3 ENGINEERING SIMPLE INTEREST RATE DERIVATIVES  
 
-[Forwards](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md), [futures contracts](../Mathematics%20of%20the%20Financial%20Markets.md), and the underlying interbank money markets involve some of the simplest [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) exchanges. They are ideal for creating synthetic instruments for many reasons. The money market refers to a segment of the financial market which is used by participants as a means for [borrowing and lending](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Swaps%20Types.md) in the short term. Money markets are very liquid and maturities range from several days to just under a year. We can contrast the money market with the capital market for longer-term funding, which is supplied by bonds and equity.  
+Forwards, futures contracts, and the underlying interbank money markets involve some of the simplest cash flow exchanges. They are ideal for creating synthetic instruments for many reasons. The money market refers to a segment of the financial market which is used by participants as a means for borrowing and lending in the short term. Money markets are very liquid and maturities range from several days to just under a year. We can contrast the money market with the capital market for longer-term funding, which is supplied by bonds and equity.  
 
-A forward or a [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract can fix the future selling or buying price of an underlying item. This can be useful for [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md), arbitraging, and [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) purposes. They are essential in creating synthetics. Consider the following interpretation.  
+A forward or a futures contract can fix the future selling or buying price of an underlying item. This can be useful for hedging, arbitraging, and pricing purposes. They are essential in creating synthetics. Consider the following interpretation.  
 
-Foreign [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) and commodity [forwards](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md) ([futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)) are the simplest types of derivative instruments. [Forwards and futures](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) are, in general, linear permitting [static replication](../Static%20Option%20Replication.md). They are often very liquid and, in case of [currency forwards](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forward%20Contracts%20on%20Exchange%20Rates.md), have homogeneous underlying. Many technical complications are automatically eliminated by the homogeneity of a [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md).4 [Forwards and futures](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) on [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) present more difficulties, and we discuss them in this chapter. The chapter discusses financial engineering methods that use forward loans, [Eurocurrency](../../International%20Finance/The%20Eurocurrency%20and%20Eurobond%20Markets%20Annotations.md) [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md), and FRAs. The discussion prepares the ground for the next chapter on swap-based financial engineering. In fact, the FRA contracts considered here are precursors to plain vanilla swaps.  
+Foreign currency and commodity forwards (futures) are the simplest types of derivative instruments. Forwards and futures are, in general, linear permitting static replication. They are often very liquid and, in case of currency forwards, have homogeneous underlying. Many technical complications are automatically eliminated by the homogeneity of a currency.4 Forwards and futures on interest rates present more difficulties, and we discuss them in this chapter. The chapter discusses financial engineering methods that use forward loans, Eurocurrency futures, and FRAs. The discussion prepares the ground for the next chapter on swap-based financial engineering. In fact, the FRA contracts considered here are precursors to plain vanilla swaps.  
 
-Interest rate strategies, [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md), and [risk management](../Financial%20Mathematics%20Course.md) present more difficulties than FX, equity, or commodity-related instruments for at least two reasons. First of all, the payoff of an [interest rate derivative](../../Clippings/Interest%20Rate%20Derivatives.md) depends, by definition, on some interest rate(s). In order to price the instrument, one needs to apply discount factors to the future payoffs and calculate the relevant present values. But the [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) itself is an interest rate-dependent concept. If [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) are stochastic, the present value of an interest rate-dependent [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) will be a nonlinear random variable; the resulting [expectations](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) may not be as easy to calculate. There will be two sources of any future fluctuations—those due to [future cash flows](../Advanced%20Derivatives%20Pricing%20Methodology.md) themselves and those due to changes in the [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) applied to these cash flows. When dealing with equity or [commodity derivatives](../Derivatives/Part%20VII%20-%20Advanced%20Options/Chapter%2032%20-%20Energy%20and%20Weather%20Derivatives.md), such nonlinearities are either not present or have a relatively minor impact on [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). Second, every interest rate is associated with a maturity or tenor. This means that, in the case of interest rate [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) we are not dealing with a single random variable, but with vector-valued stochastic processes. The existence of such a vector-valued random variable requires new methods of [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), [risk management](../Financial%20Mathematics%20Course.md), and strategic position taking. We start our discussion with [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) and [simple interest rate](../1.%20DeterministicCashFlows.md) [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) since [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) are the foundation for [pricing derivatives](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) in other asset classes.  
+Interest rate strategies, hedging, and risk management present more difficulties than FX, equity, or commodity-related instruments for at least two reasons. First of all, the payoff of an interest rate derivative depends, by definition, on some interest rate(s). In order to price the instrument, one needs to apply discount factors to the future payoffs and calculate the relevant present values. But the discount factor itself is an interest rate-dependent concept. If interest rates are stochastic, the present value of an interest rate-dependent cash flow will be a nonlinear random variable; the resulting expectations may not be as easy to calculate. There will be two sources of any future fluctuations—those due to future cash flows themselves and those due to changes in the discount factor applied to these cash flows. When dealing with equity or commodity derivatives, such nonlinearities are either not present or have a relatively minor impact on pricing. Second, every interest rate is associated with a maturity or tenor. This means that, in the case of interest rate derivatives we are not dealing with a single random variable, but with vector-valued stochastic processes. The existence of such a vector-valued random variable requires new methods of pricing, risk management, and strategic position taking. We start our discussion with interest rates and simple interest rate derivatives since interest rates are the foundation for pricing derivatives in other asset classes.  
 
 # 3.3.1 A CONVERGENCE TRADE  
 
-Before we start discussing [replication](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) of elementary interest rate [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) we consider a real-life example.  
+Before we start discussing replication of elementary interest rate derivatives we consider a real-life example.  
 
-For a number of years before the European [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) (euro) was born, there was significant uncertainty as to which countries would be permitted to form the group of euro users. During this period, market practitioners put in place the so-called convergence plays. The reading that follows is one example.  
+For a number of years before the European currency (euro) was born, there was significant uncertainty as to which countries would be permitted to form the group of euro users. During this period, market practitioners put in place the so-called convergence plays. The reading that follows is one example.  
 
 # EXAMPLE  
 
-Last week traders took positions on convergence at the periphery of Europe. Traders sold the spread between the Italian and Spanish curves. [JP Morgan](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/The%20Fall%20of%20Bear%20Stearns.md) urged its customers to buy a   $I2\times24$ Spanish FRA and sell a $I2\times24$ Italian FRA. According to the bank, the spread, which traded at   
-133 bp would move down to below 50 bp (basis points). The logic of these trades was that if Spain entered the single [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md), then Italy would also do so.   
+Last week traders took positions on convergence at the periphery of Europe. Traders sold the spread between the Italian and Spanish curves. JP Morgan urged its customers to buy a   $I2\times24$ Spanish FRA and sell a $I2\times24$ Italian FRA. According to the bank, the spread, which traded at   
+[^133]: bp would move down to below 50 bp (basis points). The logic of these trades was that if Spain entered the single currency, then Italy would also do so.
 Recently, the Spanish curve has traded below the Italian curve. According to this logic, the Italian yield   
 curve would converge on the Spanish yield curve, and traders would gain.  
 
 (Episode based on Thomson Reuters IFR issue number 1887).  
 
-Traders buy and sell spreads in order to benefit from a likely occurrence of an event. In this episode, these spreads are sold using the FRAs, which we discuss in this chapter. If the two currencies converge, the difference between Italian and Spanish [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) will decline.5 The FRA positions will benefit. Note that market professionals call this selling the spread. As the spread goes down, they will profit—hence, in a sense they are short the spread. The example makes references to the yield curve.  
+Traders buy and sell spreads in order to benefit from a likely occurrence of an event. In this episode, these spreads are sold using the FRAs, which we discuss in this chapter. If the two currencies converge, the difference between Italian and Spanish interest rates will decline.5 The FRA positions will benefit. Note that market professionals call this selling the spread. As the spread goes down, they will profit—hence, in a sense they are short the spread. The example makes references to the yield curve.  
 
 # 3.3.2 YIELD CURVE  
 
-The yield curve is a curve that plots several [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) or yields across different maturities for a given borrower in a given [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md). The maturity can range from several days to 50 years. The contract length of the debt is typically referred to as the maturity or the term. Therefore, the yield curve is also sometimes referred to as the [term structure of interest rates](../6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md). Figure 3.7 provides a real-world example. It plots the US dollar yield curve on July 13, 2014.6 For comparison the figure also shows the yield curve on June 15, 2007, that is, before the GFC. Short-term and  
+The yield curve is a curve that plots several interest rates or yields across different maturities for a given borrower in a given currency. The maturity can range from several days to 50 years. The contract length of the debt is typically referred to as the maturity or the term. Therefore, the yield curve is also sometimes referred to as the term structure of interest rates. Figure 3.7 provides a real-world example. It plots the US dollar yield curve on July 13, 2014.6 For comparison the figure also shows the yield curve on June 15, 2007, that is, before the GFC. Short-term and  
 
 ![](c0dc90b553809849ec305ecd698778d0af7530c65b6adfae02c7f555cb94fd18.jpg)  
 Note: X-axis (Maturity) is not to scale  
@@ -228,7 +228,7 @@ Note: X-axis (Maturity) is not to scale
 
 US Treasury yield curve.  
 
-long-term yields exhibit significant variation over time and represent important [risk factors](../../Financial%20Instruments/Assignments/PSET%206-%20Financial%20Instruments.md) for [fixed income instruments](../../Course%20Notes/Python/QuantLib-Python/Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md).  
+long-term yields exhibit significant variation over time and represent important risk factors for fixed income instruments.  
 
 There are several ways of calculating the yield curve.7 One approach to the calculation of the yield curve is based on zero-coupon bonds. We discuss alternative approaches in the Appendix to this chapter. We can calculate a yield curve using zero-coupon bonds with par value 100 based on the following definition of the yield to maturity:  
 $$
@@ -237,7 +237,7 @@ $$
 
 where $B(t,T)$ is time $t$ price of default-free zero-coupon bond that pays 100 at time $T.$ . The $y_{t}^{T}$ will correspond to the $(T-t)$ -maturity zero-coupon yield.  
 
-Broadly speaking, the yield curve can be calculated from prices available in the bond market or the money market and different methods lead to different results. Of course, there is no single yield curve describing the cost of money for every market participant since [borrowing costs](../Notes%20on%20Currency%20Swaps.md) depend on the [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) in which the securities are denominated as well as the creditworthiness of the borrower. Yield curves corresponding to the bonds issued by governments in their own [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) are called government bond yield curves. Figure 3.8 shows Treasury yield curve for the United States, United Kingdom, Japan, and Germany on June 16, 2014. On that day, the spreads between yield  
+Broadly speaking, the yield curve can be calculated from prices available in the bond market or the money market and different methods lead to different results. Of course, there is no single yield curve describing the cost of money for every market participant since borrowing costs depend on the currency in which the securities are denominated as well as the creditworthiness of the borrower. Yield curves corresponding to the bonds issued by governments in their own currency are called government bond yield curves. Figure 3.8 shows Treasury yield curve for the United States, United Kingdom, Japan, and Germany on June 16, 2014. On that day, the spreads between yield  
 
 ![](1e3577fdcbb8f965d0023e5714e84ac71b3efdc99e76ec9c5f9ba9416b9b3695.jpg)  
 
@@ -245,13 +245,13 @@ Broadly speaking, the yield curve can be calculated from prices available in the
 
 Treasury yield curves for US, Japan, and Germany on 16 June 2014.  
 
-curves were as large as $200\mathrm{{bps}}$ in the case of the 10-year US and JPY treasuries. Yield curves based on money market prices may combine information on short-term LIBOR rates, [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) prices, and interest rate swaps to plot the curve.  
+curves were as large as $200\mathrm{{bps}}$ in the case of the 10-year US and JPY treasuries. Yield curves based on money market prices may combine information on short-term LIBOR rates, futures prices, and interest rate swaps to plot the curve.  
 
 # 3.4 LIBOR AND OTHER BENCHMARKS  
 
-We first need to define the concept of LIBOR rates. The existence of such reliable benchmarks is essential for engineering interest rate instruments. Banks with high credit ratings borrow money from each other at the LIBOR rates. The LIBOR yield curves are typically a little higher than government curves and are known as the LIBOR curves or the [swap curve](../Fixed%20Income%20Derivatives/Determining%20the%20Expression%20for%20the%20Fair%20Value%20of%20the%20Swap%20Spread.md). Figure 3.9 shows the USD LIBOR curve on June 13, 2014. It is apparent that on this day the LIBOR curve was above the US government bond yield curve. Later in this chapter, we discuss the construction of the yield curve from bond data, but first let’s look at the precise definition of LIBOR.  
+We first need to define the concept of LIBOR rates. The existence of such reliable benchmarks is essential for engineering interest rate instruments. Banks with high credit ratings borrow money from each other at the LIBOR rates. The LIBOR yield curves are typically a little higher than government curves and are known as the LIBOR curves or the swap curve. Figure 3.9 shows the USD LIBOR curve on June 13, 2014. It is apparent that on this day the LIBOR curve was above the US government bond yield curve. Later in this chapter, we discuss the construction of the yield curve from bond data, but first let’s look at the precise definition of LIBOR.  
 
-LIBOR is an arithmetic average interest rate that measures the cost of borrowing from the point of view of a panel of preselected contributor banks in London. It stands for [London Interbank Offered Rate](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md). It is the ask or offer price of money available only to banks. It is an unsecured rate in the sense that the borrowing bank does not post any collateral. The ICE LIBOR (formerly known as BBA LIBOR) is obtained by polling a panel of preselected banks in London.8  
+LIBOR is an arithmetic average interest rate that measures the cost of borrowing from the point of view of a panel of preselected contributor banks in London. It stands for London Interbank Offered Rate. It is the ask or offer price of money available only to banks. It is an unsecured rate in the sense that the borrowing bank does not post any collateral. The ICE LIBOR (formerly known as BBA LIBOR) is obtained by polling a panel of preselected banks in London.8  
 
 ![](214069218ebdd16e594170b757fa021ede79b6894e2e7ab241967b3dedd8b819.jpg)  
 
@@ -259,19 +259,19 @@ LIBOR is an arithmetic average interest rate that measures the cost of borrowing
 
 USD LIBOR versus Treasury curve.  
 
-LIBOR [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) are published daily at 11:00 London time for nine currencies. In 2012, a scandal engulfed LIBOR as the US Department of Justice started a criminal investigation into the manipulation of LIBOR through communication between bankers before the rates were set. The investigations led to large fines by the US [Commodity Futures](../../Financial%20Instruments/Financial%20Instruments%20PSET%20Solutions.md) Trading Commission (CFTC) and the UK [Financial Services](../../Course%20Notes/HBR%20Notes/HBR%20Case%20Study-%20Oaktree.md) Authority (FSA) in 2012 and the investigations are continuing. The manipulation scandal in addition to evidence of understating of [borrowing costs](../Notes%20on%20Currency%20Swaps.md) reported for LIBOR in 2008 has led to a revision in the LIBOR framework and a new code of conduct. To make it more likely that the submitted rates are underpinned by real trades, the number of rates has been reduced. As of July 2013, only five currencies and seven maturities are quoted every day (35 rates). This is a significant drop from the 150 different LIBOR rates (15 maturities for each of 10 currencies) which were quoted before the GFC. [Euribor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) is a similar concept determined in Brussels by polling a panel of banks in continental Europe. These two benchmarks will obviously be quite similar. London banks and Frankfurt banks face similar risks and similar costs of funding. Hence they will lend Euros at approximately the same rate. But LIBOR and [Euribor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md) may have some slight differences due to the composition of the panels used.  
+LIBOR interest rates are published daily at 11:00 London time for nine currencies. In 2012, a scandal engulfed LIBOR as the US Department of Justice started a criminal investigation into the manipulation of LIBOR through communication between bankers before the rates were set. The investigations led to large fines by the US Commodity Futures Trading Commission (CFTC) and the UK Financial Services Authority (FSA) in 2012 and the investigations are continuing. The manipulation scandal in addition to evidence of understating of borrowing costs reported for LIBOR in 2008 has led to a revision in the LIBOR framework and a new code of conduct. To make it more likely that the submitted rates are underpinned by real trades, the number of rates has been reduced. As of July 2013, only five currencies and seven maturities are quoted every day (35 rates). This is a significant drop from the 150 different LIBOR rates (15 maturities for each of 10 currencies) which were quoted before the GFC. Euribor is a similar concept determined in Brussels by polling a panel of banks in continental Europe. These two benchmarks will obviously be quite similar. London banks and Frankfurt banks face similar risks and similar costs of funding. Hence they will lend Euros at approximately the same rate. But LIBOR and Euribor may have some slight differences due to the composition of the panels used.  
 
-The overnight indexed swap (OIS) rate is an increasingly important interest rate. The index rate is the rate for overnight unsecured lending between banks, for example, the [Federal funds rate](../../International%20Finance/Economic%20Stabilization%20Notes/Topics%20in%20Fiscal%20and%20Monetary%20Policies%20and%20Stabilization-%20Empirical%20Issues.md) for US dollars, Eonia for Euros or Sonia for sterling. The LIBOR-OIS spread remained historically around 10 bps in the United States, but in 2007 and in 2011 during the GFC, the spread widened to 40 50 bps which led to a reconsideration of the LIBOR rate as a [risk-free rate](../../Financial%20Instruments/Black%20Scholes%20Derivation.md). Chapter 24 discusses the recent debate about the choice of LIBOR versus OIS as a [discount rate](../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md). Because of lower counterparty risk, the fixed rate of OIS is considered less risky than the corresponding interbank rate (LIBOR).9  
+The overnight indexed swap (OIS) rate is an increasingly important interest rate. The index rate is the rate for overnight unsecured lending between banks, for example, the Federal funds rate for US dollars, Eonia for Euros or Sonia for sterling. The LIBOR-OIS spread remained historically around 10 bps in the United States, but in 2007 and in 2011 during the GFC, the spread widened to 40 50 bps which led to a reconsideration of the LIBOR rate as a risk-free rate. Chapter 24 discusses the recent debate about the choice of LIBOR versus OIS as a discount rate. Because of lower counterparty risk, the fixed rate of OIS is considered less risky than the corresponding interbank rate (LIBOR).9  
 
-Eonia is the daily average of [overnight rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) for unsecured interbank lending in the euro-zone; in other words, the equivalent of the [federal funds rate](../../International%20Finance/Economic%20Stabilization%20Notes/Topics%20in%20Fiscal%20and%20Monetary%20Policies%20and%20Stabilization-%20Empirical%20Issues.md) in the United States. The banks contributing to Eonia are the same as the Panel Banks contributing to [Euribor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md). Important LIBOR maturities are overnight, 1 week, 1, 2, 3, 6, and 12 months. A plot of LIBOR rates against their maturities is called the LIBOR curve. [Derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) written on LIBOR are called LIBOR instruments. Using these [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) and the underlying Euromarket loans, banks create LIBOR exposure. SHIBOR (Shanghai), TIBOR (Tokyo), and HIBOR (Hong Kong) are examples of other benchmarks that are used for the same purpose. When we use the term “[interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)” in this chapter, we often mean LIBOR rates or OIS rates.  
+Eonia is the daily average of overnight rates for unsecured interbank lending in the euro-zone; in other words, the equivalent of the federal funds rate in the United States. The banks contributing to Eonia are the same as the Panel Banks contributing to Euribor. Important LIBOR maturities are overnight, 1 week, 1, 2, 3, 6, and 12 months. A plot of LIBOR rates against their maturities is called the LIBOR curve. Derivatives written on LIBOR are called LIBOR instruments. Using these derivatives and the underlying Euromarket loans, banks create LIBOR exposure. SHIBOR (Shanghai), TIBOR (Tokyo), and HIBOR (Hong Kong) are examples of other benchmarks that are used for the same purpose. When we use the term “interest rates” in this chapter, we often mean LIBOR rates or OIS rates.  
 
 # 3.5 FIXED INCOME MARKET CONVENTIONS  
 
-In the previous chapter, we saw that bond markets quote prices rather than yields. To avoid confusion in financial engineering, it is crucial to be aware of the conventions underlying [fixed income](../../Fixed%20Income%20Asset%20Pricing/Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md) trades and the instruments. In this section, we briefly review some of these market conventions.  
+In the previous chapter, we saw that bond markets quote prices rather than yields. To avoid confusion in financial engineering, it is crucial to be aware of the conventions underlying fixed income trades and the instruments. In this section, we briefly review some of these market conventions.  
 
 # 3.5.1 HOW TO QUOTE YIELDS  
 
-Markets use three different ways to quote yields. These are, respectively, the money market yield, the bond equivalent yield, and the [discount rate](../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md).10 We will discuss these using default-free pure discount bonds with maturity $T$ as an example. Let the time- $t$ price of this bond be denoted by $B(t,T)$ . The bond is default free and pays 100 at time $T.$ . Now, suppose $R$ represents the time- $t$ yield of this bond.  
+Markets use three different ways to quote yields. These are, respectively, the money market yield, the bond equivalent yield, and the discount rate.10 We will discuss these using default-free pure discount bonds with maturity $T$ as an example. Let the time- $t$ price of this bond be denoted by $B(t,T)$ . The bond is default free and pays 100 at time $T.$ . Now, suppose $R$ represents the time- $t$ yield of this bond.  
 
 It is clear that $B(t,~T)$ will be equal to the present value of 100, discounted using $R$ , but how should this present value be expressed? For example, assuming that $(T-t)$ is measured in days and that this period is less than 1 year, we can use the following definition:  
 $$
@@ -322,7 +322,7 @@ That is exactly where the notion of convention comes in. A market can adopt a co
 
 In the United States, bond markets quote the yields in terms of formula (3.2). Such values of $R$ are called bond equivalent yields.  
 
-Money markets that deal with interbank deposits and loans use the money market yield convention and utilize formula (3.3) in [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and [risk management](../Financial%20Mathematics%20Course.md).  
+Money markets that deal with interbank deposits and loans use the money market yield convention and utilize formula (3.3) in pricing and risk management.  
 
 Finally, the Commercial Paper and Treasury Bills yields are quoted in terms of formula (3.4). Such yields are called discount rates.  
 
@@ -331,61 +331,61 @@ $$
 B(t,T)=100e^{-r(T-t)}
 $$  
 
-where the $e^{x}$ is the exponential function. It turns out that markets do not like to quote continuously compounded yields. One exception is toward retail customers. Some retail bank accounts quote the continuously compounded savings rate. On the other hand, the [continuously compounded rate](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Arithmetic%20and%20Geometric%20Rates%20of%20Return.md) is often used in some theoretical models and was, until lately, the preferred concept for academics.  
+where the $e^{x}$ is the exponential function. It turns out that markets do not like to quote continuously compounded yields. One exception is toward retail customers. Some retail bank accounts quote the continuously compounded savings rate. On the other hand, the continuously compounded rate is often used in some theoretical models and was, until lately, the preferred concept for academics.  
 
-One final convention needs to be added at this point. Markets have an interest payments convention as well. For example, the offer side interest rate on major Euroloans, the LIBOR, is paid at the conclusion of the term of the loan as a single payment. We say that LIBOR is paid in-arrears. On the other hand, many bonds make periodic [coupon payments](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) that occur on dates earlier than the maturity of the relevant instrument. Most OISs have one payment if shorter than 1 year and a 12-month period for longer swaps.12  
+One final convention needs to be added at this point. Markets have an interest payments convention as well. For example, the offer side interest rate on major Euroloans, the LIBOR, is paid at the conclusion of the term of the loan as a single payment. We say that LIBOR is paid in-arrears. On the other hand, many bonds make periodic coupon payments that occur on dates earlier than the maturity of the relevant instrument. Most OISs have one payment if shorter than 1 year and a 12-month period for longer swaps.12  
 
 # 3.5.2 DAY-COUNT CONVENTIONS  
 
-The previous discussion suggests that ignoring quotation conventions can lead to costly numerical errors in [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and [risk management](../Financial%20Mathematics%20Course.md). A similar comment can be made about [day-count conventions](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Day-Count%20Conventions.md). A financial engineer will always check the relevant [day-count](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) rules in the products that he or she is working on. The reason is simple. The definition of a “year” or of a “month” may change from one market to another and the quotes that one observes will depend on this convention. The major [day-count conventions](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Day-Count%20Conventions.md) are as follows:  
+The previous discussion suggests that ignoring quotation conventions can lead to costly numerical errors in pricing and risk management. A similar comment can be made about day-count conventions. A financial engineer will always check the relevant day-count rules in the products that he or she is working on. The reason is simple. The definition of a “year” or of a “month” may change from one market to another and the quotes that one observes will depend on this convention. The major day-count conventions are as follows:  
 
-1. The 30/360 basis. Every month has 30 days regardless of the actual number of days in that particular month, and a year always has 360 days. For example, an instrument following this convention and purchased on May 1 and sold on July 13 would earn interest on  
+[^1]: The 30/360 basis. Every month has 30 days regardless of the actual number of days in that particular month, and a year always has 360 days. For example, an instrument following this convention and purchased on May 1 and sold on July 13 would earn interest on
 $$
-30+30+12=72
+[^30]: +30+12=72
 $$  
 
 days, while the actual calendar would give 73 days.  
 
 More interestingly, this instrument purchased on February 28, 2003, and sold the next day, on March 1, 2003, would earn interest for 3 days. Yet, a money market instrument such as an interbank deposit would have earned interest on only 1 day (using the actual/360 basis mentioned below).  
 
-2. The 30E/360 basis. This is similar to 30/360 except for a small difference at the end of the month, and it is used mainly in the Eurobond markets. The difference between 30/360 and 30E/360 is illustrated by the following table, which shows the number of days interest is earned starting from March 1 according to the two conventions:  
+[^2]: The 30E/360 basis. This is similar to 30/360 except for a small difference at the end of the month, and it is used mainly in the Eurobond markets. The difference between 30/360 and 30E/360 is illustrated by the following table, which shows the number of days interest is earned starting from March 1 according to the two conventions:
 
 <html><body><table><tr><td>Convention</td><td>March 1-March 30</td><td>March 1-March 31</td><td>March 1-April 1</td></tr><tr><td>30E/360</td><td>29 days</td><td>29 days</td><td>30 days</td></tr><tr><td>30/360</td><td>29 days</td><td>30 days</td><td>30 days</td></tr></table></body></html>  
 
 According to this, a Eurobond purchased on March 1 and sold on March 31 gives an extra day of interest in the case of 30/360, whereas in the case of 30E/360, one needs to hold it until the beginning of the next month to get that extra interest.  
 
-3. The actual/360 basis. If an instrument is purchased on May 1 and sold on July 13, then it is held 73 days under this convention. This convention is used by most money markets. Actual/ 360 is also sometimes written as ACT/360, where ACT is an abbreviation for actual.   
-4. The actual/365 basis. This is the case for Eurosterling money markets, for example.   
-5. Actual/actual. Many bond markets use this convention.  
+[^3]: The actual/360 basis. If an instrument is purchased on May 1 and sold on July 13, then it is held 73 days under this convention. This convention is used by most money markets. Actual/ 360 is also sometimes written as ACT/360, where ACT is an abbreviation for actual.
+[^4]: The actual/365 basis. This is the case for Eurosterling money markets, for example.
+[^5]: Actual/actual. Many bond markets use this convention.
 
-An example will show why these [day-count conventions](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Day-Count%20Conventions.md) are relevant for [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and [risk management](../Financial%20Mathematics%20Course.md). Suppose you are involved in an [interest rate swap](../Primer%20on%20Interest%20Rate%20Swaps.md). You pay LIBOR and receive fixed. The market quotes the LIBOR at 5.01, and quotes the [swap rate](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) at 6.23/6.27. Since you are receiving fixed, the relevant cash flows will come from paying 5.01 and receiving 6.23 at regular intervals. But these numbers are somewhat misleading. It turns out that LIBOR is quoted on an ACT/360 basis. That is to say, the number 5.01 assumes that there are 360 days in a year.  
+An example will show why these day-count conventions are relevant for pricing and risk management. Suppose you are involved in an interest rate swap. You pay LIBOR and receive fixed. The market quotes the LIBOR at 5.01, and quotes the swap rate at 6.23/6.27. Since you are receiving fixed, the relevant cash flows will come from paying 5.01 and receiving 6.23 at regular intervals. But these numbers are somewhat misleading. It turns out that LIBOR is quoted on an ACT/360 basis. That is to say, the number 5.01 assumes that there are 360 days in a year.  
 
-However, the swap rates may be quoted on an ACT/365 basis, and all calculations may be based on a 365-day year.13 Also the [swap rate](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) may be annual or semiannual. Thus, the two [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) where one pays 5.01 and receives 6.23 are not directly comparable.  
+However, the swap rates may be quoted on an ACT/365 basis, and all calculations may be based on a 365-day year.13 Also the swap rate may be annual or semiannual. Thus, the two interest rates where one pays 5.01 and receives 6.23 are not directly comparable.  
 
 # EXAMPLE  
 
-Swap markets are the largest among all [financial markets](../../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md), and the [swap curve](../Fixed%20Income%20Derivatives/Determining%20the%20Expression%20for%20the%20Fair%20Value%20of%20the%20Swap%20Spread.md) has become the central [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and [risk management](../Financial%20Mathematics%20Course.md) tool in finance. Hence, it is worth discussing swap market conventions briefly.  
+Swap markets are the largest among all financial markets, and the swap curve has become the central pricing and risk management tool in finance. Hence, it is worth discussing swap market conventions briefly.  
 
-USD swaps are liquid against $3\mathrm{m}$ -LIBOR and 6m-LIBOR. The [day-count](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) basis is annual, ACT/360.   
-Japanese yen (JPY) swaps are liquid against 6m-LIBOR. The [day-count](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) basis is semiannual, ACT/365.   
+USD swaps are liquid against $3\mathrm{m}$ -LIBOR and 6m-LIBOR. The day-count basis is annual, ACT/360.   
+Japanese yen (JPY) swaps are liquid against 6m-LIBOR. The day-count basis is semiannual, ACT/365.   
 British pound (GBP) swaps are semiannual, ACT/365 versus 6m-LIBOR.   
-Finally, Euro (EUR) swaps are liquid against 6m-LIBOR and against 6m-[Euribor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md). The [day-count](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) basis is annual 30/360.  
+Finally, Euro (EUR) swaps are liquid against 6m-LIBOR and against 6m-Euribor. The day-count basis is annual 30/360.  
 
-Table 3.1 summarizes the [day-count](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) and yield/discount conventions for some important markets around the world. A few comments are in order. First note that the table is a summary of three types of conventions. The first is the [day-count](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md), and this is often ACT/360. However, when the 30/360 convention is used, the 30E/360 version is more common. Second, the table tells us about the yield quotation convention. Third, we also have a list of coupon payment conventions concerning long-term bonds. Often, these involve semiannual [coupon payments](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md).14  
+Table 3.1 summarizes the day-count and yield/discount conventions for some important markets around the world. A few comments are in order. First note that the table is a summary of three types of conventions. The first is the day-count, and this is often ACT/360. However, when the 30/360 convention is used, the 30E/360 version is more common. Second, the table tells us about the yield quotation convention. Third, we also have a list of coupon payment conventions concerning long-term bonds. Often, these involve semiannual coupon payments.14  
 
-Finally, note that the table also provides a list of the major instruments used in [financial markets](../../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md). The exact definitions of these will be given gradually in the following chapters.  
+Finally, note that the table also provides a list of the major instruments used in financial markets. The exact definitions of these will be given gradually in the following chapters.  
 
 # 3.5.2.1 Holiday conventions  
 
-Financial trading occurs across borders. But holidays adopted by various countries are always somewhat different. There are special independence days, special religious holidays. Often during Christmas time, different countries adopt different holiday schedules. In writing [financial contracts](../../Contemporary%20Financial%20Intermediation%20Notes/Contemporary%20Financial%20Intermediation%20Notes.md), this simple point should also be taken into account, since we may not receive the cash we were counting on if our counterparty’s markets were closed due to a special holiday in that country.  
+Financial trading occurs across borders. But holidays adopted by various countries are always somewhat different. There are special independence days, special religious holidays. Often during Christmas time, different countries adopt different holiday schedules. In writing financial contracts, this simple point should also be taken into account, since we may not receive the cash we were counting on if our counterparty’s markets were closed due to a special holiday in that country.  
 
-Hence, all [financial contracts](../../Contemporary%20Financial%20Intermediation%20Notes/Contemporary%20Financial%20Intermediation%20Notes.md) stipulate the particular holiday schedule to be used (London, New York, and so on), and then specify the date of the [cash settlement](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Swaptions.md) if it falls on a holiday. This could be the next business day or the previous business day, or other arrangements could be made.  
+Hence, all financial contracts stipulate the particular holiday schedule to be used (London, New York, and so on), and then specify the date of the cash settlement if it falls on a holiday. This could be the next business day or the previous business day, or other arrangements could be made.  
 
-<html><body><table><tr><td colspan="3">Table 3.1 [Day-Count](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) and Yield/Discount Conventions</td></tr><tr><td></td><td>[Day-Count](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md)</td><td>Yield Cash</td></tr><tr><td colspan="3">United States</td></tr><tr><td>Depo/CD</td><td>ACT/360</td><td>Yield</td></tr><tr><td>T-Bill/CP/BA</td><td>ACT/360</td><td>Discount</td></tr><tr><td>Treasuries</td><td>ACT/ACT, semiannual</td><td>B-E yield</td></tr><tr><td>Repo</td><td>ACT/360</td><td>Yield</td></tr><tr><td colspan="3">Euromarket</td></tr><tr><td>Depo/CD/ECP</td><td>ACT/360 (ACT/365 for sterling)</td><td>Yield</td></tr><tr><td>Eurobond</td><td>30E/360</td><td>Yield</td></tr><tr><td colspan="3">United Kingdom</td></tr><tr><td>Depo/CD/Sterling CP</td><td>ACT/365</td><td>Yield</td></tr><tr><td>BA/T-bill</td><td>ACT/365</td><td>Discount</td></tr><tr><td>Gilt</td><td>ACT/365 (semiannual)</td><td>B-E yield</td></tr><tr><td>Repo</td><td>ACT/365</td><td>Yield</td></tr><tr><td colspan="3">Germany</td></tr><tr><td>Depo/CD/Sterling CP</td><td>ACT/360</td><td>Yield</td></tr><tr><td>Bund</td><td>30E/360 (annual)</td><td>B-E yield</td></tr><tr><td>Repo</td><td>ACT/360</td><td>Yield</td></tr><tr><td colspan="3">Japan</td></tr><tr><td>Depo/CD</td><td>ACT/365</td><td>Yield</td></tr><tr><td>Repo domestic</td><td>ACT/365</td><td>Yield</td></tr><tr><td>Repo international</td><td>ACT/360</td><td>Yield</td></tr></table></body></html>  
+<html><body><table><tr><td colspan="3">Table 3.1 Day-Count and Yield/Discount Conventions</td></tr><tr><td></td><td>Day-Count</td><td>Yield Cash</td></tr><tr><td colspan="3">United States</td></tr><tr><td>Depo/CD</td><td>ACT/360</td><td>Yield</td></tr><tr><td>T-Bill/CP/BA</td><td>ACT/360</td><td>Discount</td></tr><tr><td>Treasuries</td><td>ACT/ACT, semiannual</td><td>B-E yield</td></tr><tr><td>Repo</td><td>ACT/360</td><td>Yield</td></tr><tr><td colspan="3">Euromarket</td></tr><tr><td>Depo/CD/ECP</td><td>ACT/360 (ACT/365 for sterling)</td><td>Yield</td></tr><tr><td>Eurobond</td><td>30E/360</td><td>Yield</td></tr><tr><td colspan="3">United Kingdom</td></tr><tr><td>Depo/CD/Sterling CP</td><td>ACT/365</td><td>Yield</td></tr><tr><td>BA/T-bill</td><td>ACT/365</td><td>Discount</td></tr><tr><td>Gilt</td><td>ACT/365 (semiannual)</td><td>B-E yield</td></tr><tr><td>Repo</td><td>ACT/365</td><td>Yield</td></tr><tr><td colspan="3">Germany</td></tr><tr><td>Depo/CD/Sterling CP</td><td>ACT/360</td><td>Yield</td></tr><tr><td>Bund</td><td>30E/360 (annual)</td><td>B-E yield</td></tr><tr><td>Repo</td><td>ACT/360</td><td>Yield</td></tr><tr><td colspan="3">Japan</td></tr><tr><td>Depo/CD</td><td>ACT/365</td><td>Yield</td></tr><tr><td>Repo domestic</td><td>ACT/365</td><td>Yield</td></tr><tr><td>Repo international</td><td>ACT/360</td><td>Yield</td></tr></table></body></html>  
 
 # 3.5.3 TWO EXAMPLES  
 
-We consider how [day-count conventions](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Day-Count%20Conventions.md) are used in two important cases. The first example summarizes the confirmation of short-term money market instruments, namely a Eurodollar deposit. The second example discusses the confirmation summary of a Eurobond. [Eurocurrency markets](../../International%20Finance/Characteristics%20of%20the%20Eurodollar%20Market.md) and Eurobonds were introduced in Chapter 2.  
+We consider how day-count conventions are used in two important cases. The first example summarizes the confirmation of short-term money market instruments, namely a Eurodollar deposit. The second example discusses the confirmation summary of a Eurobond. Eurocurrency markets and Eurobonds were introduced in Chapter 2.  
 
 # EXAMPLE: A EURODOLLAR DEPOSIT  
 
@@ -406,40 +406,40 @@ $$
 \delta=30/360
 $$  
 
-is the [day-count](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) adjustment.  
+is the day-count adjustment.  
 
 The second example involves a Eurobond trade.  
 
 EXAMPLE: A EUROBOND   
 
 
-<html><body><table><tr><td>Trade date</td><td>European [Investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Bank, 5.0% (Annual Coupon) Tuesday,June5,2002</td></tr><tr><td>Settlement date</td><td>Monday, June 11, 2002</td></tr><tr><td>Maturity</td><td>December 28, 2006</td></tr><tr><td>Previous coupon</td><td>April 25,2001</td></tr><tr><td>Next coupon</td><td>April 25,2002</td></tr><tr><td>Days in coupon period</td><td>360</td></tr><tr><td>Accrued coupon</td><td>Calculate using money market yield</td></tr></table></body></html>  
+<html><body><table><tr><td>Trade date</td><td>European Investment Bank, 5.0% (Annual Coupon) Tuesday,June5,2002</td></tr><tr><td>Settlement date</td><td>Monday, June 11, 2002</td></tr><tr><td>Maturity</td><td>December 28, 2006</td></tr><tr><td>Previous coupon</td><td>April 25,2001</td></tr><tr><td>Next coupon</td><td>April 25,2002</td></tr><tr><td>Days in coupon period</td><td>360</td></tr><tr><td>Accrued coupon</td><td>Calculate using money market yield</td></tr></table></body></html>  
 
-We have two comments concerning this example. The instrument is a Eurobond, and Eurobonds make [coupon payments](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) annually, rather than semiannually (as is the case of Treasuries, for example). Second, the Eurobond year is 360 days. Finally, [accrued interest](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) is calculated the same way as in money markets.  
+We have two comments concerning this example. The instrument is a Eurobond, and Eurobonds make coupon payments annually, rather than semiannually (as is the case of Treasuries, for example). Second, the Eurobond year is 360 days. Finally, accrued interest is calculated the same way as in money markets.  
 
-We can now define the major instruments that will be used. The first of these are the forward loans. These are not liquid, but they make a good starting point. We then move to FRAs and to [Eurocurrency](../../International%20Finance/The%20Eurocurrency%20and%20Eurobond%20Markets%20Annotations.md) [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md).  
+We can now define the major instruments that will be used. The first of these are the forward loans. These are not liquid, but they make a good starting point. We then move to FRAs and to Eurocurrency futures.  
 
 # 3.6 A CONTRACTUAL EQUATION  
 
-Once an instrument is replicated with a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of other (liquid) assets, we can write a contractual equation and create new synthetics. In this section, we will obtain a contractual equation. In the next section, we will show several applications. This section provides a basic approach to constructing static replicating portfolios and hence is central to what will follow.  
+Once an instrument is replicated with a portfolio of other (liquid) assets, we can write a contractual equation and create new synthetics. In this section, we will obtain a contractual equation. In the next section, we will show several applications. This section provides a basic approach to constructing static replicating portfolios and hence is central to what will follow.  
 
 # 3.6.1 FORWARD LOAN  
 
-A forward loan is engineered like any [forward contract](../../Clippings/Forward%20Points%20in%20Currency.md), except that what is being bought or sold is not a [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) or commodity, but instead, a loan. At time $t_{0}$ , we write a contract that will settle at a future date $t_{1}$ . At settlement, the trader receives (delivers) a loan that matures at $t_{2}$ , $t_{1}<t_{2}$ . The contract will specify the interest rate that will apply to this loan. This interest rate is called the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) and will be denoted by $\textit{F}(t_{0},t_{1},t_{2})$ . The [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) is determined at $t_{0}.\ t_{1}$ is the start date of the future loan, and $t_{2}$ is the date at which the loan matures.  
+A forward loan is engineered like any forward contract, except that what is being bought or sold is not a currency or commodity, but instead, a loan. At time $t_{0}$ , we write a contract that will settle at a future date $t_{1}$ . At settlement, the trader receives (delivers) a loan that matures at $t_{2}$ , $t_{1}<t_{2}$ . The contract will specify the interest rate that will apply to this loan. This interest rate is called the forward rate and will be denoted by $\textit{F}(t_{0},t_{1},t_{2})$ . The forward rate is determined at $t_{0}.\ t_{1}$ is the start date of the future loan, and $t_{2}$ is the date at which the loan matures.  
 
-The situation is depicted in Figure 3.10. We write a contract at $t_{0}$ such that at a future date, $t_{1}$ , USD100 are received; the principal and interest are paid at $t_{2}$ . The interest is $F_{t_{0}}\delta$ , where $\delta$ is the [day-count](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) adjustment, ACT/360:  
+The situation is depicted in Figure 3.10. We write a contract at $t_{0}$ such that at a future date, $t_{1}$ , USD100 are received; the principal and interest are paid at $t_{2}$ . The interest is $F_{t_{0}}\delta$ , where $\delta$ is the day-count adjustment, ACT/360:  
 $$
 \boxed{\delta=\frac{t_{2}-t_{1}}{360}}
 $$  
 
-To simplify the notation, we abbreviate the $\textit{F}(t_{0},t_{1},t_{2})$ as $F_{t_{0}}$ . The [day-count](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) convention needs to be adjusted if a year is defined as having 365 days.  
+To simplify the notation, we abbreviate the $\textit{F}(t_{0},t_{1},t_{2})$ as $F_{t_{0}}$ . The day-count convention needs to be adjusted if a year is defined as having 365 days.  
 
-Forward loans permit a great deal of flexibility in balance sheet, tax, and [risk management](../Financial%20Mathematics%20Course.md). The need for forward loans arises under the following conditions:  
+Forward loans permit a great deal of flexibility in balance sheet, tax, and risk management. The need for forward loans arises under the following conditions:  
 
 A business would like to lock in the “current” low borrowing rates from money markets. A bank would like to lock in the “current” high lending rates.   
 A business may face a floating-rate liability at time $t_{1}$ . The business may want to hedge this liability by securing a future loan with a known cost.  
 
-It is straightforward to see how forward loans help to accomplish these goals. With the forward loan of Figure 3.10, the party has agreed to receive 100 dollars at $t_{1}$ and to pay them back at $t_{2}$ with interest. The key point is that the interest rate on this forward loan is fixed at time $t_{0}$ . The [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) $\textit{F}(t_{0},t_{1},t_{2})$ “locks in” an unknown future variable at time $t_{0}$ and thus eliminates the risk associated with the unknown rate. The $L_{t_{1}}$ is the [LIBOR interest rate](../../International%20Finance/Characteristics%20of%20the%20Eurodollar%20Market.md) for a $(t_{2}-t_{1})$ period loan and can be observed only at the future date $\overline{{t_{1}}}$ . Fixing $\textit{F}(t_{0},t_{1},t_{2})$ will eliminate the risk associated with $L_{t_{1}}$ .  
+It is straightforward to see how forward loans help to accomplish these goals. With the forward loan of Figure 3.10, the party has agreed to receive 100 dollars at $t_{1}$ and to pay them back at $t_{2}$ with interest. The key point is that the interest rate on this forward loan is fixed at time $t_{0}$ . The forward rate $\textit{F}(t_{0},t_{1},t_{2})$ “locks in” an unknown future variable at time $t_{0}$ and thus eliminates the risk associated with the unknown rate. The $L_{t_{1}}$ is the LIBOR interest rate for a $(t_{2}-t_{1})$ period loan and can be observed only at the future date $\overline{{t_{1}}}$ . Fixing $\textit{F}(t_{0},t_{1},t_{2})$ will eliminate the risk associated with $L_{t_{1}}$ .  
 
 The chapter discusses several examples involving the use of forward loans and their more recent counterparts, FRAs.  
 
@@ -455,7 +455,7 @@ In this section, we apply the financial engineering outlined in Chapter 1 to for
 
 We begin the engineering of a synthetic forward loan by following the same strategy described in Chapter 1. We first decompose the forward loan cash flows into separate diagrams and then try to convert these into known liquid instruments by adding and subtracting appropriate new cash flows. This is done so that, when added together, the extra cash flows cancel each other out and the original instrument is recovered. Figure 3.11 displays the following steps:  
 
-1. We begin with the [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) diagram for the forward loan shown in Figure 3.11a. We detach the two cash flows into separate diagrams. Note that at this stage, these cash flows cannot  
+[^1]: We begin with the cash flow diagram for the forward loan shown in Figure 3.11a. We detach the two cash flows into separate diagrams. Note that at this stage, these cash flows cannot
 
 ![](c16794d0b3a76fc1785594064b513e208546ed2fd56dd1da29569572d5db14f7.jpg)  
 
@@ -463,19 +463,19 @@ We begin the engineering of a synthetic forward loan by following the same strat
 
 form tradeable contracts. Nobody would want to buy 3.11c, and everybody would want to have 3.11b.  
 
-2. We need to transform these cash flows into tradeable contracts by adding compensating cash flows in each case. In Figure 3.11b, we add a negative [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md), preferably at time $t_{0}$ .15 This is shown in Figure 3.11d. Denote the size of the [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) by $-C_{t_{0}}$ .  
+[^2]: We need to transform these cash flows into tradeable contracts by adding compensating cash flows in each case. In Figure 3.11b, we add a negative cash flow, preferably at time $t_{0}$ .15 This is shown in Figure 3.11d. Denote the size of the cash flow by $-C_{t_{0}}$ .
 
-3. In Figure 3.11c, add a positive [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) at time $t_{0}$ , to obtain Figure 3.11e. The [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) has $\mathrm{size}\ +C_{t_{0}}$ .  
+[^3]: In Figure 3.11c, add a positive cash flow at time $t_{0}$ , to obtain Figure 3.11e. The cash flow has $\mathrm{size}\ +C_{t_{0}}$ .
 
-4. Make sure that the vertical addition of Figure 3.11d and e will replicate what we started with in Figure 3.11a. For this to be the case, the two newly added cash flows have to be identical in absolute value but different in sign. A vertical addition of Figure 3.11d and e will cancel any cash exchange at time $t_{0}$ , and this is exactly what is needed to duplicate Figure 3.11a.16  
+[^4]: Make sure that the vertical addition of Figure 3.11d and e will replicate what we started with in Figure 3.11a. For this to be the case, the two newly added cash flows have to be identical in absolute value but different in sign. A vertical addition of Figure 3.11d and e will cancel any cash exchange at time $t_{0}$ , and this is exactly what is needed to duplicate Figure 3.11a.16
 
-At this point, the cash flows of Figure 3.11d and e need to be interpreted as specific [financial contracts](../../Contemporary%20Financial%20Intermediation%20Notes/Contemporary%20Financial%20Intermediation%20Notes.md) so that the components of the synthetic can be identified. There are many ways to do this. Depending on the interpretation, the synthetic will be constructed using different assets.  
+At this point, the cash flows of Figure 3.11d and e need to be interpreted as specific financial contracts so that the components of the synthetic can be identified. There are many ways to do this. Depending on the interpretation, the synthetic will be constructed using different assets.  
 
 # 3.6.2.1 Bond market replication  
 
-As usual, we assume [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) away. $\mathbf{\deltaA}$ first synthetic can be obtained using bond and T-bill markets. Although this is not the way preferred by practitioners, we will see that the logic is fundamental to financial engineering. Suppose default-free pure discount bonds of specific maturities denoted by $\{B(t_{0},t_{i}),i=1,...,n\}$ trade actively.17 They have par value of 100.  
+As usual, we assume credit risk away. $\mathbf{\deltaA}$ first synthetic can be obtained using bond and T-bill markets. Although this is not the way preferred by practitioners, we will see that the logic is fundamental to financial engineering. Suppose default-free pure discount bonds of specific maturities denoted by $\{B(t_{0},t_{i}),i=1,...,n\}$ trade actively.17 They have par value of 100.  
 
-Then, within the context of a pure discount bond market, we can interpret the cash flows in Figure 3.11d as a [long position](../Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%204%20-%20Futures:%20Hedging%20and%20Speculation.md) in the $t_{1}$ -maturity discount bond. The trader is paying $\boldsymbol{C}_{t_{0}}$ at time $t_{0}$ and receiving 100 at $\overline{{t_{1}}}$ . This means that  
+Then, within the context of a pure discount bond market, we can interpret the cash flows in Figure 3.11d as a long position in the $t_{1}$ -maturity discount bond. The trader is paying $\boldsymbol{C}_{t_{0}}$ at time $t_{0}$ and receiving 100 at $\overline{{t_{1}}}$ . This means that  
 $$
 \boldsymbol{B}(t_{0},t_{1})=\boldsymbol{C}_{t_{0}}
 $$  
@@ -484,12 +484,12 @@ Hence, the value of $C_{t_{0}}$ can be determined if the bond price is known.
 
 The synthetic for the forward loan will be fully described once we put a label on the cash flows in Figure 3.11e. What do these cash flows represent? These cash flows look like an appropriate short position in a $t_{2}$ -maturity discount bond.  
 
-Does this mean we need to short one unit of the $B(t_{0},\ t_{2})^{*}$ ? The answer is no, since the time $t_{0}$ [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) in Figure 3.11e has to equal $\overline{{{C_{t_{0}}}}}^{18}$ However, we know that a $t_{2}$ -maturity bond will necessarily be cheaper than a $t_{1}.$ -maturity discount bond.  
+Does this mean we need to short one unit of the $B(t_{0},\ t_{2})^{*}$ ? The answer is no, since the time $t_{0}$ cash flow in Figure 3.11e has to equal $\overline{{{C_{t_{0}}}}}^{18}$ However, we know that a $t_{2}$ -maturity bond will necessarily be cheaper than a $t_{1}.$ -maturity discount bond.  
 $$
 B(t_{0},t_{1})<B(t_{0},t_{1})=C_{t_{0}}
 $$  
 
-Thus, [shorting](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Short%20Selling.md) one $t_{2}$ -maturity discount bond will not generate sufficient time $t_{0}$ funding for the position in Figure 3.11d. The problem can easily be resolved, however, by [shorting](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Short%20Selling.md) not one but $\lambda$ bonds such that  
+Thus, shorting one $t_{2}$ -maturity discount bond will not generate sufficient time $t_{0}$ funding for the position in Figure 3.11d. The problem can easily be resolved, however, by shorting not one but $\lambda$ bonds such that  
 $$
 \boxed{\lambda B(t_{0},t_{2})=C_{t_{0}}}
 $$  
@@ -499,41 +499,41 @@ $$
 \boxed{\lambda=\frac{B(t_{0},t_{1})}{B(t_{0},t_{2})}}
 $$  
 
-According to Eq. (3.3) $\lambda$ will be greater than one. This particular short position will generate enough cash for the [long position](../Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%204%20-%20Futures:%20Hedging%20and%20Speculation.md) in the $t_{1}$ -maturity bond. Thus, we finalized the first synthetic for the forward loan:  
+According to Eq. (3.3) $\lambda$ will be greater than one. This particular short position will generate enough cash for the long position in the $t_{1}$ -maturity bond. Thus, we finalized the first synthetic for the forward loan:  
 $$
 \left\{{\mathrm{Buy~one~}}t_{1}{\mathrm{-discount~bond,~short}}\ \frac{B(t_{0},t_{1})}{B(t_{0},t_{2})}{\mathrm{~units~of~the~}}t_{2}{\mathrm{-discount~bond}}\right\}
 $$  
 
-To double-check this result, we add Figure 3.11d and e vertically and recover the original [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) for the forward loan in Figure 3.11a.  
+To double-check this result, we add Figure 3.11d and e vertically and recover the original cash flow for the forward loan in Figure 3.11a.  
 
 # 3.6.2.2 Pricing  
 
-If markets are liquid and there are no other transaction costs, [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) activity will make sure that the cash flows from the forward loan and from the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) (synthetic) are the same. In other words, the sizes of the time $t_{2}$ cash flows in Figure 3.11a and e should be equal. This implies that  
+If markets are liquid and there are no other transaction costs, arbitrage activity will make sure that the cash flows from the forward loan and from the replicating portfolio (synthetic) are the same. In other words, the sizes of the time $t_{2}$ cash flows in Figure 3.11a and e should be equal. This implies that  
 $$
-1+F(t_{0},t_{1},t_{2})\delta=\frac{B(t_{0},t_{1})}{B(t_{0},t_{2})}
+[^1]: +F(t_{0},t_{1},t_{2})\delta=\frac{B(t_{0},t_{1})}{B(t_{0},t_{2})}
 $$  
 
-where the $\delta$ is, as usual, the [day-count](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) adjustment.  
+where the $\delta$ is, as usual, the day-count adjustment.  
 
-This [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) relationship is of fundamental importance in financial engineering. Given liquid bond prices $\{B(t_{0},\ t_{1}),\ B(t_{0},\ t_{1})\}$ , we can price the forward loan off the bond markets using this equation. More important, equality (3.23) shows that there is a crucial relationship between forward rates at different maturities and discount bond prices. But discount bond prices are discounts which can be used in obtaining the present values of [future cash flows](../Advanced%20Derivatives%20Pricing%20Methodology.md). This means that forward rates are of primary importance in [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and risk managing financial securities.  
+This arbitrage relationship is of fundamental importance in financial engineering. Given liquid bond prices $\{B(t_{0},\ t_{1}),\ B(t_{0},\ t_{1})\}$ , we can price the forward loan off the bond markets using this equation. More important, equality (3.23) shows that there is a crucial relationship between forward rates at different maturities and discount bond prices. But discount bond prices are discounts which can be used in obtaining the present values of future cash flows. This means that forward rates are of primary importance in pricing and risk managing financial securities.  
 
-Before we consider a second synthetic for the forward loan, we prefer to discuss how all this relates to the notion of [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md).  
+Before we consider a second synthetic for the forward loan, we prefer to discuss how all this relates to the notion of arbitrage.  
 
 # 3.6.2.3 Arbitrage  
 
-What happens when the equality in formula (3.23) breaks down? We analyze two cases assuming that there are no [bid-ask](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Bid-Ask%20Prices%20with%20Adverse%20SelectionPrivate%20Information.md) spreads. First, suppose market quotes at time $t_{0}$ are such that  
+What happens when the equality in formula (3.23) breaks down? We analyze two cases assuming that there are no bid-ask spreads. First, suppose market quotes at time $t_{0}$ are such that  
 $$
 (1+F_{t_{0}}\delta)>\frac{B(t_{0},t_{1})}{B(t_{0},t_{2})}
 $$  
 
-where the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) $F(t_{0},t_{1},t_{2})$ is again abbreviated as $F_{t_{0}}$ . Under these conditions, a market participant can secure a synthetic forward loan in bond markets at a cost below the return that could be obtained from lending in forward loan markets. This will guarantee positive [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) gains. This is the case since the “synthetic” funding cost, denoted by Ft ,  
+where the forward rate $F(t_{0},t_{1},t_{2})$ is again abbreviated as $F_{t_{0}}$ . Under these conditions, a market participant can secure a synthetic forward loan in bond markets at a cost below the return that could be obtained from lending in forward loan markets. This will guarantee positive arbitrage gains. This is the case since the “synthetic” funding cost, denoted by Ft ,  
 $$
 \boldsymbol{F}_{t_{0}}^{*}=\frac{\boldsymbol{B}(t_{0},t_{1})}{\delta\boldsymbol{B}(t_{0},t_{2})}-\frac{1}{\delta}
 $$  
 
-will be less than the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md), $F_{t_{0}}$ . The position will be riskless if it is held until maturity date $t_{2}$ .  
+will be less than the forward rate, $F_{t_{0}}$ . The position will be riskless if it is held until maturity date $t_{2}$ .  
 
-These [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) gains can be secured by (i) [shorting](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Short%20Selling.md) $B(t_{0},t_{1})/B(t_{0},t_{2})$ units of the $t_{2}$ -bond, which generates $B(t_{0},t_{1})$ dollars at time $t_{0}$ , then (ii) using these funds buying one $t_{1}$ -maturity bond, and (iii) at time $t_{1}$ lending, at rate $F_{t_{0}}$ , the 100 received from the maturing bond. As a result of these operations, at time $t_{2}$ , the trader would owe $(B(t_{0},t_{1})/B(t_{0},t_{2}))100$ and would receive $(1+F_{t_{0}}\delta)100$ .  
+These arbitrage gains can be secured by (i) shorting $B(t_{0},t_{1})/B(t_{0},t_{2})$ units of the $t_{2}$ -bond, which generates $B(t_{0},t_{1})$ dollars at time $t_{0}$ , then (ii) using these funds buying one $t_{1}$ -maturity bond, and (iii) at time $t_{1}$ lending, at rate $F_{t_{0}}$ , the 100 received from the maturing bond. As a result of these operations, at time $t_{2}$ , the trader would owe $(B(t_{0},t_{1})/B(t_{0},t_{2}))100$ and would receive $(1+F_{t_{0}}\delta)100$ .  
 
 The latter amount is greater, given the condition (3.24).  
 
@@ -542,11 +542,11 @@ $$
 (1+F_{t_{0}}\delta)<\frac{B(t_{0},t_{1})}{B(t_{0},t_{2})}
 $$  
 
-Then, one can take the reverse position. Buy $B(t_{0},t_{1})/B(t_{0},t_{2})$ units of the $t_{2}$ -bond at time $t_{0}$ . To fund this, short a $B(t_{0},\ t_{1})$ bond and borrow 100 forward. When time $t_{2}$ arrives, receive the $(B(t_{0},t_{1})/B(t_{0},t_{2}))100$ and pay off the forward loan. This strategy can yield [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) profits since the funding cost during $[t_{1},t_{2}]$ is lower than the return.  
+Then, one can take the reverse position. Buy $B(t_{0},t_{1})/B(t_{0},t_{2})$ units of the $t_{2}$ -bond at time $t_{0}$ . To fund this, short a $B(t_{0},\ t_{1})$ bond and borrow 100 forward. When time $t_{2}$ arrives, receive the $(B(t_{0},t_{1})/B(t_{0},t_{2}))100$ and pay off the forward loan. This strategy can yield arbitrage profits since the funding cost during $[t_{1},t_{2}]$ is lower than the return.  
 
 # 3.6.2.4 Money market replication  
 
-Now assume that all maturities of deposits up to 1 year are quoted actively in the interbank money market. Also assume there are no [arbitrage opportunities](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md). Figure 3.12 shows how an alternative synthetic can be created. The cash flows of a forward loan are replicated in Figure 3.12a. Figure 3.12c shows a Euromarket loan. $C_{t_{0}}$ is borrowed at the interbank rate $L_{t_{0}}^{2}$ .19 The time $t_{2}$ [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) in Figure 3.12c needs to be discounted using this rate. This gives  
+Now assume that all maturities of deposits up to 1 year are quoted actively in the interbank money market. Also assume there are no arbitrage opportunities. Figure 3.12 shows how an alternative synthetic can be created. The cash flows of a forward loan are replicated in Figure 3.12a. Figure 3.12c shows a Euromarket loan. $C_{t_{0}}$ is borrowed at the interbank rate $L_{t_{0}}^{2}$ .19 The time $t_{2}$ cash flow in Figure 3.12c needs to be discounted using this rate. This gives  
 $$
 C_{t_{0}}=\frac{100(1+F_{t_{0}}\delta)}{(1+L_{t_{0}}^{2}\delta^{2})}
 $$  
@@ -564,12 +564,12 @@ Adding Figure 3.12b and c vertically, we again recover the cash flows of the for
 
 # 3.6.2.5 Pricing  
 
-We can obtain another [pricing equation](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Definitions%20and%20Immediate%20Consequences.md) using the money market [replication](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md). In Figure 3.12, if the credit risks are the same, the cash flows at time $t_{2}$ would be equal, as implied by Eq. (3.27). This can be written as  
+We can obtain another pricing equation using the money market replication. In Figure 3.12, if the credit risks are the same, the cash flows at time $t_{2}$ would be equal, as implied by Eq. (3.27). This can be written as  
 $$
 (1+F_{t_{0}}\delta)100=C_{t_{0}}(1+L_{t_{0}}^{2}\delta^{2})
 $$  
 
-where $\delta=(t_{2}-t_{1})/360$ . We can substitute further from formula (3.28) to get the final [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formula:  
+where $\delta=(t_{2}-t_{1})/360$ . We can substitute further from formula (3.28) to get the final pricing formula:  
 $$
 (1+F_{t_{0}}\delta)100=\frac{100(1+L_{t_{0}}^{2}\delta^{2})}{(1+L_{t_{0}}^{1}\delta^{1})}
 $$  
@@ -578,30 +578,30 @@ $$
 
 # FIGURE 3.12  
 
-Money market [replication](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) of a forward loan.  
+Money market replication of a forward loan.  
 
 Simplifying,  
 $$
 (1+F_{t_{0}}\delta)=\frac{1+L_{t_{0}}^{2}\delta^{2}}{1+L_{t_{0}}^{1}\delta^{1}}
 $$  
 
-This formula prices the forward loan off the money markets. The formula also shows the important role played by LIBOR [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) in determining the forward rates.  
+This formula prices the forward loan off the money markets. The formula also shows the important role played by LIBOR interest rates in determining the forward rates.  
 
 # 3.6.3 CONTRACTUAL EQUATIONS  
 
-We can turn these results into analytical contractual equations. Using the bond market [replication](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md), we obtain  
+We can turn these results into analytical contractual equations. Using the bond market replication, we obtain  
 
 ![](b55e6b95d84bc8570aaf40fdc942ad5fbf8f63ff4422034da3018e2ab091a934.jpg)  
 
 The expression shown in formula (3.32) is a contractual equation. The left-hand-side contract leads to the same cash flows generated jointly by the contracts on the right-hand side. This does not necessarily mean that the monetary value of the two sides is always the same. In fact, one or more of the contracts shown on the right-hand side may not even exist in that particular economy and the markets may not even have the opportunity to put a price on them.  
 
-Essentially the equation says that the risk and [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) attributes of the two sides are the same. If there is no [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md), no transaction costs, and if the markets in all the involved instruments are liquid, we expect that [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) will make the values of the two sides of the contractual equation equal.  
+Essentially the equation says that the risk and cash flow attributes of the two sides are the same. If there is no credit risk, no transaction costs, and if the markets in all the involved instruments are liquid, we expect that arbitrage will make the values of the two sides of the contractual equation equal.  
 
 If we use the money markets to construct the synthetic, the contractual equation above becomes  
 
 ![](a8bb025ac0ca7e89782bb0b2f3743d288f8e023c28952613ea4fefb030fe1c9e.jpg)  
 
-These contractual equations can be exploited for finding solutions to some routine problems encountered in [financial markets](../../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) although they do have drawbacks. Ignoring these for the time being we give some examples.  
+These contractual equations can be exploited for finding solutions to some routine problems encountered in financial markets although they do have drawbacks. Ignoring these for the time being we give some examples.  
 
 # 3.6.4 APPLICATIONS  
 
@@ -627,7 +627,7 @@ to $t_{2}$ and then by going long $B(t_{0},t_{1})/B(t_{0},t_{2})$ units of the b
 
 # 3.6.4.2 Application 2: covering a mismatch  
 
-Consider a bank that has a maturity mismatch at time $t_{0}$ . The bank has borrowed $t_{1}$ -maturity funds from [Euromarkets](../../International%20Finance/Characteristics%20of%20the%20Eurodollar%20Market.md) and lent them at maturity $t_{2}$ . Clearly, the bank has to roll over the short-term loan that becomes due at time $t_{1}$ with a new loan covering the period $[t_{1},t_{2}]$ . This new loan carries an (unknown) interest rate $L_{t_{1}}$ and creates a mismatch risk. The contractual equation in formula (3.33) can be used to determine a hedge for this mismatch, by creating a synthetic forward loan, and, in this fashion, locking in time $t_{1}$ funding costs.  
+Consider a bank that has a maturity mismatch at time $t_{0}$ . The bank has borrowed $t_{1}$ -maturity funds from Euromarkets and lent them at maturity $t_{2}$ . Clearly, the bank has to roll over the short-term loan that becomes due at time $t_{1}$ with a new loan covering the period $[t_{1},t_{2}]$ . This new loan carries an (unknown) interest rate $L_{t_{1}}$ and creates a mismatch risk. The contractual equation in formula (3.33) can be used to determine a hedge for this mismatch, by creating a synthetic forward loan, and, in this fashion, locking in time $t_{1}$ funding costs.  
 
 In fact, we know from the contractual equation in formula (3.33) that there is a relationship between short and long maturity loans:  
 
@@ -641,23 +641,23 @@ According to this, the forward loan converts the short loan into a longer maturi
 
 # 3.7 FORWARD RATE AGREEMENTS  
 
-An interest rate FRA is an interest rate [forward contract](../../Clippings/Forward%20Points%20in%20Currency.md), an over-the-counter contract, between parties that specifies the rate of interest to be paid or received on an obligation beginning at a future start date. The next section develops a contractual agreement for an interest rate FRA. [Currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) FRAs are discussed in Chapter 6.  
+An interest rate FRA is an interest rate forward contract, an over-the-counter contract, between parties that specifies the rate of interest to be paid or received on an obligation beginning at a future start date. The next section develops a contractual agreement for an interest rate FRA. Currency FRAs are discussed in Chapter 6.  
 
-A forward loan contract implies not one but two obligations. First, 100 units of [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) will have to be received at time $t_{1}$ , and second, interest $\boldsymbol{F}_{t_{0}}$ has to be paid. One can see several drawbacks to such a contract:  
+A forward loan contract implies not one but two obligations. First, 100 units of currency will have to be received at time $t_{1}$ , and second, interest $\boldsymbol{F}_{t_{0}}$ has to be paid. One can see several drawbacks to such a contract:  
 
-1. The forward borrower may not necessarily want to receive cash at time $t_{1}$ . In most [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) and arbitraging activities, the players are trying to lock in an unknown interest rate and are not necessarily in need of “cash.” A case in point is the convergence play described in Section 3.2, where practitioners were receiving (future) Italian rates and paying (future) Spanish rates. In these strategies, the objective of the players was to take a position on Spanish and Italian [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md). None of the parties involved had any wish to end up with a loan in 1 or 2 years.  
+[^1]: The forward borrower may not necessarily want to receive cash at time $t_{1}$ . In most hedging and arbitraging activities, the players are trying to lock in an unknown interest rate and are not necessarily in need of “cash.” A case in point is the convergence play described in Section 3.2, where practitioners were receiving (future) Italian rates and paying (future) Spanish rates. In these strategies, the objective of the players was to take a position on Spanish and Italian interest rates. None of the parties involved had any wish to end up with a loan in 1 or 2 years.
 
-2. A second drawback is that forward loan contracts involve [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md). It is not a good idea to put a [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) on a balance sheet if one wanted to lock in an interest rate.2  
+[^2]: A second drawback is that forward loan contracts involve credit risk. It is not a good idea to put a credit risk on a balance sheet if one wanted to lock in an interest rate.2
 
-3. These attributes may make speculators and arbitrageurs stay away from any potential forward loan markets, and the contract may be illiquid.  
+[^3]: These attributes may make speculators and arbitrageurs stay away from any potential forward loan markets, and the contract may be illiquid.
 
-These drawbacks make the forward loan contract a less-than-perfect financial engineering instrument. A good instrument would separate the [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) and the interest rate commitment that coexist in the forward loan. It turns out that there is a nice way this can be done.  
+These drawbacks make the forward loan contract a less-than-perfect financial engineering instrument. A good instrument would separate the credit risk and the interest rate commitment that coexist in the forward loan. It turns out that there is a nice way this can be done.  
 
 # 3.7.1 ELIMINATING THE CREDIT RISK  
 
 First, note that a player using the forward loan only as a tool to lock in the future LIBOR rate $\boxed{L_{t_{1}}}$ will immediately have to relend the USD100 received at time $t_{1}$ at the going market rate $L_{t_{1}}$ . Figure 3.14a displays a forward loan committed at time $t_{0}$ . Figure 3.14b shows the corresponding spot deposit. The practitioner waits until time $t_{1}$ and then makes a deposit at the rate $L_{t_{1}}$ , which will be known at that time. This “swap” cancels an obligation to receive 100 and ends up with only the fixed rate $F_{t_{0}}$ commitment.  
 
-Thus, the joint use of a forward loan, and a spot deposit to be made in the future, is sufficient to reach the desired objective—namely, to eliminate the risk associated with the unknown LIBOR rate $L_{t_{1}}$ . These steps will lock in $\boldsymbol{F}_{t_{0}}$ . We consider the result of this strategy in Figure 3.14c. Add vertically the cash flows of the forward loan (3.14a) and the spot deposit (3.14b). Time $t_{1}$ cash flows cancel out since they are in the same [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md). Time $t_{2}$ payment and receipt of the  
+Thus, the joint use of a forward loan, and a spot deposit to be made in the future, is sufficient to reach the desired objective—namely, to eliminate the risk associated with the unknown LIBOR rate $L_{t_{1}}$ . These steps will lock in $\boldsymbol{F}_{t_{0}}$ . We consider the result of this strategy in Figure 3.14c. Add vertically the cash flows of the forward loan (3.14a) and the spot deposit (3.14b). Time $t_{1}$ cash flows cancel out since they are in the same currency. Time $t_{2}$ payment and receipt of the  
 
 ![](9297fe7e9f6bd61c2c6a307cce0eac0a17753e9f424e488730c4f165226f8ec5.jpg)  
 
@@ -665,13 +665,13 @@ Thus, the joint use of a forward loan, and a spot deposit to be made in the futu
 
 A synthetic FRA.  
 
-principal will also cancel. What is left is the respective interest payments. This means that the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) consisting of  
+principal will also cancel. What is left is the respective interest payments. This means that the portfolio consisting of  
 
 will lead, according to Figure 3.14c, to the following (net) cash flows:  
 
 <html><body><table><tr><td></td><td>Cash Paid</td><td>Cash Received</td><td>Total</td></tr><tr><td>Time t1 Time t2</td><td>-100 100(1+Ft)</td><td>+100 100(1 + L+, 8)</td><td>0 100(Lt-Ft)8</td></tr></table></body></html>  
 
-Thus, letting the principal of the forward loan be denoted by the parameter $N$ , we see that the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in expression (3.37) results in a time $t_{2}$ net [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) equaling  
+Thus, letting the principal of the forward loan be denoted by the parameter $N$ , we see that the portfolio in expression (3.37) results in a time $t_{2}$ net cash flow equaling  
 $$
 \overline{{N(L_{t_{1}}-F_{t_{0}})\delta}}
 $$  
@@ -680,7 +680,7 @@ where $\delta$ is the day’s adjustment to interest, as usual.
 
 # 3.7.2 DEFINITION OF THE FRA  
 
-This is exactly where the FRA contract comes in. If a client has the objective of locking in the future borrowing or lending costs using the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in Eq. (3.37), why not offer this to him or her in a single contract? This contract will involve only the exchange of two interest payments shown in Figure 3.14c.  
+This is exactly where the FRA contract comes in. If a client has the objective of locking in the future borrowing or lending costs using the portfolio in Eq. (3.37), why not offer this to him or her in a single contract? This contract will involve only the exchange of two interest payments shown in Figure 3.14c.  
 
 In other words, we write a contract that specifies a notional amount, $N$ , the dates $t_{1}$ and $t_{2}$ , and the “price” $F_{t_{0}}$ , with payoff $N(L_{t_{1}}-F_{t_{0}})\delta$ .22 This instrument is a paid-in-arrears FRA.23 In an FRA contract, the purchaser accepts the receipt of the following sum at time $t_{2}$ :  
 $$
@@ -704,9 +704,9 @@ $$
 \frac{(F_{t_{0}}-L_{t_{1}})\delta N}{\lvert1+L_{t_{1}}\delta}
 $$  
 
-22The $N$ represents a [notional principal](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%204%20-%20Swap%20Markets/Fundamentals%20of%20Swaps.md) since the [principal amount](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/HSBC-Auto%20callable%20Barrier%20Notes%20with%20Step-up%20Premium.md) will never be exchanged. However, it needs to be specified in order to determine the amount of interest to be exchanged.   $^{23}\mathrm{It}$ is paid-in-arrears because the unknown interest, $L_{t_{1}}$ , will be known at time $t_{1}$ , the interest payments are exchanged at time $t_{2}$ , when the forward (fictitious) loan is due.  
+[^22]: The $N$ represents a notional principal since the principal amount will never be exchanged. However, it needs to be specified in order to determine the amount of interest to be exchanged.   $^{23}\mathrm{It}$ is paid-in-arrears because the unknown interest, $L_{t_{1}}$ , will be known at time $t_{1}$ , the interest payments are exchanged at time $t_{2}$ , when the forward (fictitious) loan is due.
 
-will be paid at time $t_{1}$ , if $L_{t_{1}}<F_{t_{0}}$ . Settling at $t_{1}$ instead of $t_{2}$ has one subtle advantage for the FRA seller, which is often a bank. If during $[t_{0},t_{1}]$ the interest rate has moved in favor of the bank, time $\left(t_{1}\right$ settlement will reduce the marginal [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) associated with the payoff. The bank can then operate with a lower credit line.  
+will be paid at time $t_{1}$ , if $L_{t_{1}}<F_{t_{0}}$ . Settling at $t_{1}$ instead of $t_{2}$ has one subtle advantage for the FRA seller, which is often a bank. If during $[t_{0},t_{1}]$ the interest rate has moved in favor of the bank, time $\left(t_{1}\right$ settlement will reduce the marginal credit risk associated with the payoff. The bank can then operate with a lower credit line.  
 
 # 3.7.2.1 An interpretation  
 
@@ -718,7 +718,7 @@ We can immediately obtain a synthetic FRA using the ideas displayed in Figure 3.
 
 ![](2abc33f104120972f6099cf0c4941433e9d128fd86214d8e7e35014b979e23a9.jpg)  
 
-It is clear from the construction in Figure 3.14 that the FRA contract eliminates the [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) associated with the principals—since the two N’s will cancel out—but leaves behind the exchange of [interest rate risk](../../Fixed%20Income%20Asset%20Pricing/Analysis%20of%20Fixed%20Income%20Securities.md). In fact, we can push this construction further by “plugging in” the contractual equation for the fixed rate forward loan obtained in formula (3.33) and get  
+It is clear from the construction in Figure 3.14 that the FRA contract eliminates the credit risk associated with the principals—since the two N’s will cancel out—but leaves behind the exchange of interest rate risk. In fact, we can push this construction further by “plugging in” the contractual equation for the fixed rate forward loan obtained in formula (3.33) and get  
 
 ![](03d78fac0e561577df349b0944dd9d67b1a9a0155779f9fb688bf6fe2449bd7a.jpg)  
 
@@ -730,11 +730,11 @@ Practitioners use portfolios of FRA contracts to form FRA strips. These in turn 
 
 Suppose a market practitioner wants to replicate a 9-month fixed-rate borrowing synthetically. Then the preceding contractual equation implies that the practitioner should take a cash loan at time $t_{0}$ , pay the LIBOR rate $L_{t_{0}}$ , and buy an FRA strip made of two sequential FRA contracts, a $(3\times6)$ FRA and a $(6\times9)$ FRA. This will give a synthetic 9-month fixed-rate loan. Here the symbol $(3\times6)$ means $t_{2}$ is 6 months and $t_{1}$ is 3 months.  
 
-Before we discuss [interest rate futures](../Derivatives/Part%20III%20-%20Fixed%20Income%20Futures%20Contracts/Chapter%2012%20-%20Hedging%20with%20Interest%20Rate%20Futures.md) and compare them to interest rate [forwards](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md) we introduce some basic risk measures for [fixed income markets](../A%20Practical%20Guide%20to%20Bonds%20and%20Swaps.md). This discussion will help us to appreciate some of the difference between interest rate [forwards and futures](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md).  
+Before we discuss interest rate futures and compare them to interest rate forwards we introduce some basic risk measures for fixed income markets. This discussion will help us to appreciate some of the difference between interest rate forwards and futures.  
 
 # 3.8 FIXED INCOME RISK MEASURES: DURATION, CONVEXITY AND VALUE-AT-RISK  
 
-As we saw in the introductory chapter, volatility trading is made possible in the presence of two instruments, one whose value moves linearly as the underlying risk changes, while the other’s value moves according to a convex curve. As we will see later in this section there are also [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) differences between interest rate [forwards](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md) and [interest rate futures](../Derivatives/Part%20III%20-%20Fixed%20Income%20Futures%20Contracts/Chapter%2012%20-%20Hedging%20with%20Interest%20Rate%20Futures.md). This is due to the fact that the [pricing equation](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Definitions%20and%20Immediate%20Consequences.md) for [Eurocurrency](../../International%20Finance/The%20Eurocurrency%20and%20Eurobond%20Markets%20Annotations.md) [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) is linear whereas the market-traded FRAs have a [pricing equation](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Definitions%20and%20Immediate%20Consequences.md) that is nonlinear in the corresponding LIBOR rate.  
+As we saw in the introductory chapter, volatility trading is made possible in the presence of two instruments, one whose value moves linearly as the underlying risk changes, while the other’s value moves according to a convex curve. As we will see later in this section there are also convexity differences between interest rate forwards and interest rate futures. This is due to the fact that the pricing equation for Eurocurrency futures is linear whereas the market-traded FRAs have a pricing equation that is nonlinear in the corresponding LIBOR rate.  
 
 We will encounter several other convex instruments, including options, in later chapters but one of the simplest convex instruments is a default-free bond. A bond’s price is a nonlinear function of its yield. This is shown in Figure 3.15.24 The solid line represents the price yield relationship for a  
 
@@ -742,20 +742,20 @@ We will encounter several other convex instruments, including options, in later 
 
 # FIGURE 3.15  
 
-Price yield curve and [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) approximation.  
+Price yield curve and duration approximation.  
 
-coupon bond with 3 years to maturity, semiannual coupons and a face value of $\$100$ . The [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) function for the bond is  
+coupon bond with 3 years to maturity, semiannual coupons and a face value of $\$100$ . The pricing function for the bond is  
 $$
 B(0,T)=\frac{C}{(1+y/2)}+\frac{C}{(1+y/2)^{2}}+...+\frac{C+F}{(1+y/2)^{6}}.
 $$  
 
-In this example, the coupon rate is $1\%$ per year and the bond makes semiannual [coupon payments](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) of 50 cents. The above figure captures that an increase (decrease) in the bond yield decreases (increases) the price of the bond.  
+In this example, the coupon rate is $1\%$ per year and the bond makes semiannual coupon payments of 50 cents. The above figure captures that an increase (decrease) in the bond yield decreases (increases) the price of the bond.  
 
-Risky bonds are exposed to various [risk factors](../../Financial%20Instruments/Assignments/PSET%206-%20Financial%20Instruments.md) including [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md), but a default-free bond is only exposed to [interest rate risk](../../Fixed%20Income%20Asset%20Pricing/Analysis%20of%20Fixed%20Income%20Securities.md). In this section, we review some of the most important measures used to calculate and hedge risk in [fixed income markets](../A%20Practical%20Guide%20to%20Bonds%20and%20Swaps.md). These are DV01, [duration and convexity](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%208/An%20Analytical%20Decomposition%20of%20Forward%20Rates.md). As we will see [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) is a linear approximation to the nonlinear bond priceyield relationship, while [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) measures the curvature of the relationship. One of the underlying simplifying assumptions here will be that only one risk factor is driving changes in the [term structure of interest rates](../6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md). More complex models exist but will not be discussed here.  
+Risky bonds are exposed to various risk factors including credit risk, but a default-free bond is only exposed to interest rate risk. In this section, we review some of the most important measures used to calculate and hedge risk in fixed income markets. These are DV01, duration and convexity. As we will see duration is a linear approximation to the nonlinear bond priceyield relationship, while convexity measures the curvature of the relationship. One of the underlying simplifying assumptions here will be that only one risk factor is driving changes in the term structure of interest rates. More complex models exist but will not be discussed here.  
 
 # 3.8.1 DV01 AND PV01  
 
-The solid line in Figure 3.15 shows that the price of Bond A is $\$94.30$ when the yield to maturity is $3\%$ . If the yield was to increase from $3\%$ to $3.10\%$ , the bond price would fall from $\$94.30$ to $\$94.03$ . This implies a slope of the curve equal to $((93.03-94.30)/(3.10\%-3.00\%))=-274.687$ or $=2.74$ cents per basis point. The price sensitivity itself is not constant as yields change. For example, if yields were to fall from $2\%$ to $1.9\%$ , the bond price would rise from 97.10 to 97.38. This would imply a slope of $((97.38-97.10)/(1.9\%-2\%))=-285.286$ or 2.85 cents per basis point. We have thus calculated by how much the bond price changes when the yield changes by 1 basis point. It turns out that this sensitivity is the definition of the [dollar duration](../A%20Guide%20to%20Duration%20DV01%20and%20Yield%20Curve.md) or DV01 measure.  
+The solid line in Figure 3.15 shows that the price of Bond A is $\$94.30$ when the yield to maturity is $3\%$ . If the yield was to increase from $3\%$ to $3.10\%$ , the bond price would fall from $\$94.30$ to $\$94.03$ . This implies a slope of the curve equal to $((93.03-94.30)/(3.10\%-3.00\%))=-274.687$ or $=2.74$ cents per basis point. The price sensitivity itself is not constant as yields change. For example, if yields were to fall from $2\%$ to $1.9\%$ , the bond price would rise from 97.10 to 97.38. This would imply a slope of $((97.38-97.10)/(1.9\%-2\%))=-285.286$ or 2.85 cents per basis point. We have thus calculated by how much the bond price changes when the yield changes by 1 basis point. It turns out that this sensitivity is the definition of the dollar duration or DV01 measure.  
 
 # 3.8.1.1 Dollar duration DV01  
 
@@ -764,14 +764,14 @@ $$
 \mathrm{{DV01}}=-{\frac{{\bigcirc}\Delta B}{10,000\times\Delta y}}
 $$  
 
-Note that [dollar duration](../A%20Guide%20to%20Duration%20DV01%20and%20Yield%20Curve.md) or DV01 is the change in price in dollars, not in percentage. The negative sign is there by convention to assume that DV01 is positive for most [fixed income securities](../../Clippings/Bond%20Equivalent%20Yield%20(BEY)%20-%20Definition,%20Formula,%20and%20Example.md) if which prices fall as yields rise. As we will see in later chapters, DV01 is the equivalent of the delta, one of [the Greeks](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Options%20Greeks.md) in option [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), which measures the sensitivity of an option to changes in the underlying, for example. One of the advantages of DV01 over other measures of [interest rate risk](../../Fixed%20Income%20Asset%20Pricing/Analysis%20of%20Fixed%20Income%20Securities.md) (such as [modified duration](../A%20Guide%20to%20Duration%20DV01%20and%20Yield%20Curve.md)) is that it is useful for [fixed income instruments](../../Course%20Notes/Python/QuantLib-Python/Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md) with zero present value at inception such as interest rate swaps.  
+Note that dollar duration or DV01 is the change in price in dollars, not in percentage. The negative sign is there by convention to assume that DV01 is positive for most fixed income securities%20-%20Definition,%20Formula,%20and%20Example.md) if which prices fall as yields rise. As we will see in later chapters, DV01 is the equivalent of the delta, one of the Greeks in option pricing, which measures the sensitivity of an option to changes in the underlying, for example. One of the advantages of DV01 over other measures of interest rate risk (such as modified duration) is that it is useful for fixed income instruments with zero present value at inception such as interest rate swaps.  
 
 In the above example, we have chosen several points on the yield axis to calculate the sensitivity of bond prices to yields. We saw that the sensitivity changes with yields, but if we were to move the different points on the yield curve together we would obtain the tangent to the price yield curve at the given yield level. The slope of the tangent line at a given yield level is called the derivative of the price yield function and is denoted by $\mathrm{d}B/d y$ . In the case of the simple coupon bond that we examined above the derivative of the price yield curve is available in closed form, that is, as a simple mathematical formula:  
 $$
 \mathrm{{\bfDV01}}=-{\frac{\mathrm{\bfd}B}{\mathrm{10,000\times\mathrm{d}y}}}
 $$  
 
-For more complex instruments the derivative needs to be approximated numerically by means of simulations. Many market participants take DV01 to refer to the yield-based DV01, but there are other more general versions of DV01 which measure how a specific risk factor changes by one basis point and how this affects different parts of the [term structure of interest rates](../6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md).  
+For more complex instruments the derivative needs to be approximated numerically by means of simulations. Many market participants take DV01 to refer to the yield-based DV01, but there are other more general versions of DV01 which measure how a specific risk factor changes by one basis point and how this affects different parts of the term structure of interest rates.  
 
 # 3.8.1.2 PV01  
 
@@ -780,21 +780,21 @@ $$
 \boxed{\mathrm{PV01}=\sum_{i=1}^{n}\frac{(0.01)\delta}{\sum_{j=1}^{i}(1+L_{t_{j}}\delta)}}
 $$  
 
-In order to get the sensitivity to one basis point, the number obtained from this formula needs to be divided by 100. The concepts, PV01 and DV01, are routinely used by market practitioners for the [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of swap-related instruments and other [fixed income products](../../Financial%20Markets/Random%20Walks%20in%20Fixed%20Income%20and%20Foreign%20Exchange/Chapter%208/Forward%20Curves%20Duration%20and%20Convexity.md).2  
+In order to get the sensitivity to one basis point, the number obtained from this formula needs to be divided by 100. The concepts, PV01 and DV01, are routinely used by market practitioners for the pricing of swap-related instruments and other fixed income products.2  
 
 # 3.8.2 DURATION  
 
-There are several measures of risk in [fixed income markets](../A%20Practical%20Guide%20to%20Bonds%20and%20Swaps.md). As we saw above, DV01 measures the dollar change in the value of an asset in response to a basis point change in the yield. A related measure of [interest rate sensitivity](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Bond%20Yield.md) focuses on the percentage change in the value of an asset in response to a unit change in yields. This measure is called [modified duration](../A%20Guide%20to%20Duration%20DV01%20and%20Yield%20Curve.md) or $D$ and is defined as follows:  
+There are several measures of risk in fixed income markets. As we saw above, DV01 measures the dollar change in the value of an asset in response to a basis point change in the yield. A related measure of interest rate sensitivity focuses on the percentage change in the value of an asset in response to a unit change in yields. This measure is called modified duration or $D$ and is defined as follows:  
 $$
 \overbrace{\underbrace{D=-{\frac{1}{P}}\frac{\Delta P}{\Delta y}}}^{\left(\overline{{\Delta}}\overline{{y}}\right)}
 $$  
 
-Since for a coupon bond $B(t,T)$ an explicit formula is available for the bond yield relationship, we can calculate [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) $D$ by differentiating with respect to $y$ . For simplicity, consider a bond with annual [coupon payments](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) $C$ . The price of such bond, $B(O,T)$ , at time $t=0$ with a maturity $T$ years and a face value of $F$ is given by  
+Since for a coupon bond $B(t,T)$ an explicit formula is available for the bond yield relationship, we can calculate duration $D$ by differentiating with respect to $y$ . For simplicity, consider a bond with annual coupon payments $C$ . The price of such bond, $B(O,T)$ , at time $t=0$ with a maturity $T$ years and a face value of $F$ is given by  
 $$
 B(0,T)=\frac{C}{(1+y)}+\frac{C}{(1+y)^{2}}+...+\frac{C+F}{(1+y)^{T}}
 $$  
 
-[Modified duration](../A%20Guide%20to%20Duration%20DV01%20and%20Yield%20Curve.md) $D_{\mathrm{modified}}$ can therefore be expressed as  
+Modified duration $D_{\mathrm{modified}}$ can therefore be expressed as  
 $$
 {\cal D}_{\mathrm{Modified}}=-{\frac{1}{P}}{\frac{\mathrm{d}B}{\mathrm{d}y}}={\frac{1}{1+y}}\times{\frac{1}{P}}\left[{\frac{C}{(1+y)^{1}}}\times1+{\frac{C}{(1+y)^{2}}}\times2+\ldots+{\frac{C+F}{(1+y)^{T}}}\times T\right]
 $$  
@@ -804,11 +804,11 @@ $$
 D_{\mathrm{Modified}}={\frac{1}{1+y}}\times{\frac{1}{{\mathrm{Sum~of~PV~of~CF}}}}\sum_{t=1}^{T}t\times\mathrm{PV}(\mathrm{CF}_{t})={\frac{1}{1+y}}\times{\frac{1}{B}}\sum_{t=1}^{T}t\times\mathrm{PV}(\mathrm{CF}_{t})
 $$  
 
-The above equation nicely illustrates that [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) is linked to the average [time to maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) of the cash flows $(\mathbf{CF}_{t})$ embedded in the bond. Specifically, it is related to the weighted average where each [time to maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) is weighted by the present value of a given [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) relative to the bond price (which itself is the sum of the present value of all cash flows, of course). We can apply the above [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) formula to the 3-year bond example in Figure 3.15. What is the [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of the bond if the yield to maturity is $3\%\mathrm{?}$ If we apply Eq. (3.52) to this bond, we obtain a [modified duration](../A%20Guide%20to%20Duration%20DV01%20and%20Yield%20Curve.md) of 2.9178. This means that a one basis point increase in the yield from $3\%$ to $3.01\%$ is going to lead to an approximate decrease in the bond price of $2.9178\times0.0001$ or $0.029178\%$ . Since the price of the bond at $3\%$ is $\$94.30$ , this percentage change corresponds to a dollar change of $0.029178\%\times\S94.30$ or $\$2.74$ per basis point, which, not surprisingly, is the DV01 that we calculated at the yield level of $3\%$ . The dashed line in Figure 3.15 shows the linear [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) approximation at the yield level of $3\%$ . As we can see, for larger changes in yields, [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) is a poor approximation to the convex bond yield relationships.  
+The above equation nicely illustrates that duration is linked to the average time to maturity of the cash flows $(\mathbf{CF}_{t})$ embedded in the bond. Specifically, it is related to the weighted average where each time to maturity is weighted by the present value of a given cash flow relative to the bond price (which itself is the sum of the present value of all cash flows, of course). We can apply the above duration formula to the 3-year bond example in Figure 3.15. What is the duration of the bond if the yield to maturity is $3\%\mathrm{?}$ If we apply Eq. (3.52) to this bond, we obtain a modified duration of 2.9178. This means that a one basis point increase in the yield from $3\%$ to $3.01\%$ is going to lead to an approximate decrease in the bond price of $2.9178\times0.0001$ or $0.029178\%$ . Since the price of the bond at $3\%$ is $\$94.30$ , this percentage change corresponds to a dollar change of $0.029178\%\times\S94.30$ or $\$2.74$ per basis point, which, not surprisingly, is the DV01 that we calculated at the yield level of $3\%$ . The dashed line in Figure 3.15 shows the linear duration approximation at the yield level of $3\%$ . As we can see, for larger changes in yields, duration is a poor approximation to the convex bond yield relationships.  
 
 # EXAMPLE  
 
-Figure 3.16 presents a real-world example of risk measures for a [fixed income](../../Fixed%20Income%20Asset%20Pricing/Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md) security. It shows a screenshot from Bloomberg on June 16, 2014 for the T $2\frac12$ 05/15/24, that is the 10-year Treasury note with a $2.5\%$ fixed coupon, a $\$10$ face value and a maturity of May 5, 2024. The DV01 at the current yield level of $2.59\%$ is 865 and the [modified duration](../A%20Guide%20to%20Duration%20DV01%20and%20Yield%20Curve.md) is 8.701.  
+Figure 3.16 presents a real-world example of risk measures for a fixed income security. It shows a screenshot from Bloomberg on June 16, 2014 for the T $2\frac12$ 05/15/24, that is the 10-year Treasury note with a $2.5\%$ fixed coupon, a $\$10$ face value and a maturity of May 5, 2024. The DV01 at the current yield level of $2.59\%$ is 865 and the modified duration is 8.701.  
 
 ![](b2831480aebb8ac2ebecbd588654323550c3be39fa599b5a90c3e52599d31f48.jpg)  
 
@@ -816,44 +816,44 @@ Ten-year Treasury note with $2.5\%$ fixed coupon.
 
 # 3.8.3 CONVEXITY  
 
-As we saw in the context of the DV01 measure, the sensitivity of bond prices to yields is not constant but changes with the level of yields. This sensitivity is measured by [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) and captures the curvature of the bond yield relationship in Figure 3.15. [Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) is based on the first derivative and [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) is based on the second derivative of the price yield curve. [Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) is defined as  
+As we saw in the context of the DV01 measure, the sensitivity of bond prices to yields is not constant but changes with the level of yields. This sensitivity is measured by convexity and captures the curvature of the bond yield relationship in Figure 3.15. Duration is based on the first derivative and convexity is based on the second derivative of the price yield curve. Convexity is defined as  
 $$
 C o n\nu e x i t y=\frac{1}{B}\frac{\mathrm{d}^{2}B}{\mathrm{d}y^{2}}
 $$  
 
-In the case of a coupon bond whose price is given in Eq. (3.50) above, the formula for [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) is  
+In the case of a coupon bond whose price is given in Eq. (3.50) above, the formula for convexity is  
 $$
 C o n\nu e x i t y=\frac{1}{B\times(1+y)^{2}}\sum_{t=1}^{T}\left[\frac{\mathrm{CF}_{t}}{(1+y)^{t}}(t^{2}+t)\right]
 $$  
 
-where $\mathrm{CF}_{t}$ is the [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) paid to the bondholder at date $t.$ . [Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) is the rate of change of the slope of the price yield curve. The Treasury security in Figure 3.16 has a [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) of 0.859. [Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) is an attractive feature. This applies for buy-and-hold investors as well as volatility traders. Bonds with greater curvature gain more in price when yields fall than they lose when yields rise.  
+where $\mathrm{CF}_{t}$ is the cash flow paid to the bondholder at date $t.$ . Convexity is the rate of change of the slope of the price yield curve. The Treasury security in Figure 3.16 has a convexity of 0.859. Convexity is an attractive feature. This applies for buy-and-hold investors as well as volatility traders. Bonds with greater curvature gain more in price when yields fall than they lose when yields rise.  
 
-For noncallable bonds, [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) is positive. In other words, the slope increases and becomes less negative as yields increase. [Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) is however not always positive for [fixed income securities](../../Clippings/Bond%20Equivalent%20Yield%20(BEY)%20-%20Definition,%20Formula,%20and%20Example.md). As we will see in Chapter 17, for bonds with embedded options, such as callable bonds, for example, there is a range of yields for which [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) is negative and the curvature of the price yield relationship increases as yields rise. $\mathrm{CF}_{t}$ with $T$ years to maturity and annual coupon bonds. One of the advantages of [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) is that it can be used to improve on the [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) approximation when measuring the sensitivity of the bond yield relationship. Another important use is that it can help to measure the potential for volatility trading and [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) gains when forming portfolios of bonds and [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) them. The [exercises](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) at the end of this chapter contain an exercise on the [duration and convexity](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%208/An%20Analytical%20Decomposition%20of%20Forward%20Rates.md) of a barbell strategy that illustrates one of the uses of [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) measures for bonds.  
+For noncallable bonds, convexity is positive. In other words, the slope increases and becomes less negative as yields increase. Convexity is however not always positive for fixed income securities%20-%20Definition,%20Formula,%20and%20Example.md). As we will see in Chapter 17, for bonds with embedded options, such as callable bonds, for example, there is a range of yields for which convexity is negative and the curvature of the price yield relationship increases as yields rise. $\mathrm{CF}_{t}$ with $T$ years to maturity and annual coupon bonds. One of the advantages of convexity is that it can be used to improve on the duration approximation when measuring the sensitivity of the bond yield relationship. Another important use is that it can help to measure the potential for volatility trading and convexity gains when forming portfolios of bonds and hedging them. The exercises at the end of this chapter contain an exercise on the duration and convexity of a barbell strategy that illustrates one of the uses of convexity measures for bonds.  
 
 # 3.8.4 IMMUNIZATION  
 
-[Hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) [fixed income](../../Fixed%20Income%20Asset%20Pricing/Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md) portfolios against [interest rate risk](../../Fixed%20Income%20Asset%20Pricing/Analysis%20of%20Fixed%20Income%20Securities.md) fluctuations is called immunization. Immunization strategies can be based on [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md). The [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is the weighted average of the [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) constituents. Thus, a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of two bonds A and B has a [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) $D_{\mathrm{P}}$ :  
+Hedging fixed income portfolios against interest rate risk fluctuations is called immunization. Immunization strategies can be based on duration. The duration of a portfolio is the weighted average of the duration of the portfolio constituents. Thus, a portfolio of two bonds A and B has a duration $D_{\mathrm{P}}$ :  
 $$
 D_{\mathrm{P}}=w\times D_{\mathrm{A}}+(1-w)D_{\mathrm{B}}
 $$  
 
-The above equation can also be used to calculate the optimal weights for an immunized [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). Asset A could be a bond and asset $\mathbf{B}$ could be another bond or a bond [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md). To immunize the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) we would want to calculate the weights $w$ and $(I-w)$ that set the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) $\mathcal{D}_{\mathrm{P}}$ to zero. This implies $w=(D_{\mathrm{B}}/(D_{\mathrm{B}}-D_{\mathrm{A}}))$ . Another application is the context of  
+The above equation can also be used to calculate the optimal weights for an immunized portfolio. Asset A could be a bond and asset $\mathbf{B}$ could be another bond or a bond futures. To immunize the portfolio we would want to calculate the weights $w$ and $(I-w)$ that set the portfolio duration $\mathcal{D}_{\mathrm{P}}$ to zero. This implies $w=(D_{\mathrm{B}}/(D_{\mathrm{B}}-D_{\mathrm{A}}))$ . Another application is the context of  
 
-[Asset Liability Management](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md), as we will see in the next chapter. Pension funds have liabilities whose present value is typically calculated by dividing by a bond market rate. The assets of a [pension fund](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Uses%20of%20Interest%20Rate%20Swaps.md) can include [fixed income instruments](../../Course%20Notes/Python/QuantLib-Python/Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md) as well as other assets. One typical [risk management](../Financial%20Mathematics%20Course.md) objective of a [pension fund](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Uses%20of%20Interest%20Rate%20Swaps.md) is to immunize the balance sheet against [interest rate risk](../../Fixed%20Income%20Asset%20Pricing/Analysis%20of%20Fixed%20Income%20Securities.md). This can be achieved by making sure that the [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of the assets is equal to the [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of the liabilities. As [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) go up, for example, the present value of pension liabilities tends to fall. If the asset side is dominated by [fixed income securities](../../Clippings/Bond%20Equivalent%20Yield%20(BEY)%20-%20Definition,%20Formula,%20and%20Example.md), the value of the assets would also fall at the same time. As we will see in the next chapter, swaps can also be used to immunize a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) or balance sheet.  
+Asset Liability Management, as we will see in the next chapter. Pension funds have liabilities whose present value is typically calculated by dividing by a bond market rate. The assets of a pension fund can include fixed income instruments as well as other assets. One typical risk management objective of a pension fund is to immunize the balance sheet against interest rate risk. This can be achieved by making sure that the duration of the assets is equal to the duration of the liabilities. As interest rates go up, for example, the present value of pension liabilities tends to fall. If the asset side is dominated by fixed income securities%20-%20Definition,%20Formula,%20and%20Example.md), the value of the assets would also fall at the same time. As we will see in the next chapter, swaps can also be used to immunize a portfolio or balance sheet.  
 
 # 3.8.5 VALUE-AT-RISK, EXPECTED SHORTFALL, BASEL CAPITAL REQUIREMENTS AND FUNDING COSTS  
 
-One of the distinguishing features of our approach in this book is to assume the perspective of the [market maker](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) when considering financial engineering applications. All risk takers in banks including market makers need to fund their activities. Funding costs are driven by capital requirements that banks in different countries are subject to and these are guided by the Basel Committee on [Banking](../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) Supervision. Funding costs for [hedge funds](../Basis%20Trade%20Explainer.md) are also affected by regulation, either directly or indirectly through the prime brokerage relationship. The ability of a prime brokerage desk to finance hedge fund trades is controlled by the bank’s internal capital requirements. [Banking regulation](../../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%206/Week%206%20Bank%20Business%20Model,%20Regulation,%20and%20Accounting%20Rules.md) distinguishes banks’ lending and trading activities by separating them into [banking](../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) and trading books. One of the most widely used measures of risk for trading books since 1990s was value-atrisk (VaR).26 VaR is a [risk measure](../../Financial%20Instruments/Leverage%20as%20a%20Measure%20of%20Risk.md) of the risk of loss on a given [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of financial assets. VaR is defined as the maximum loss not exceeded with a given probability defined as the confidence level, over a given period of time. For example, if a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of bonds has a 1-day $5\%$ VaR of $\$100$ million, then there is a 0.05 probability that the portfolio will fall in value by more than $\$100$ million over a 1-day period. On October 2013, the Basel Committee on [Banking](../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) Supervision, in its review of trading book rules proposed scrapping VaR as the basis for modeling [market risk](../Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md) capital requirements. The committee recommended replacing VaR with expected shortfall, which measures the expected value of losses above a given confidence internal. The reputation of VaR was badly damaged during the GFC, since it became clear to regulators, banks and other market participants that stressed market conditions can lead to losses far in excess of the maximum amounts forecast by standard VaR applications. One of the theoretical advantages of expected shortfall is that, unlike VaR, expected shortfall is a coherent [risk measure](../../Financial%20Instruments/Leverage%20as%20a%20Measure%20of%20Risk.md). This means that VaR might theoretically discourage diversification. Although one of the stated intentions of the Basel committee is to better capture tail risk, it is important to note that the failure of VaR during the crisis is not so much due to its mathematical properties, but rather the results of how it was applied in practice, which often relied on using short historical time periods and distributional assumptions that did not allow for scenarios with extreme volatilities and asset correlations. Expected shortfall applications have their own practical challenges such as data requirements and backtesting issues. By its nature, expected shortfall requires orders of magnitude more data than VaR since it incorporates less likely scenarios. Regulation goes through waves and whichever [risk measure](../../Financial%20Instruments/Leverage%20as%20a%20Measure%20of%20Risk.md) dominates capital requirement calculations in the future, financial engineers will need to be familiar with them since these rules determine funding costs and, therefore, which trades and derivative products are profitable in practice and which are not.  
+One of the distinguishing features of our approach in this book is to assume the perspective of the market maker when considering financial engineering applications. All risk takers in banks including market makers need to fund their activities. Funding costs are driven by capital requirements that banks in different countries are subject to and these are guided by the Basel Committee on Banking Supervision. Funding costs for hedge funds are also affected by regulation, either directly or indirectly through the prime brokerage relationship. The ability of a prime brokerage desk to finance hedge fund trades is controlled by the bank’s internal capital requirements. Banking regulation distinguishes banks’ lending and trading activities by separating them into banking and trading books. One of the most widely used measures of risk for trading books since 1990s was value-atrisk (VaR).26 VaR is a risk measure of the risk of loss on a given portfolio of financial assets. VaR is defined as the maximum loss not exceeded with a given probability defined as the confidence level, over a given period of time. For example, if a portfolio of bonds has a 1-day $5\%$ VaR of $\$100$ million, then there is a 0.05 probability that the portfolio will fall in value by more than $\$100$ million over a 1-day period. On October 2013, the Basel Committee on Banking Supervision, in its review of trading book rules proposed scrapping VaR as the basis for modeling market risk capital requirements. The committee recommended replacing VaR with expected shortfall, which measures the expected value of losses above a given confidence internal. The reputation of VaR was badly damaged during the GFC, since it became clear to regulators, banks and other market participants that stressed market conditions can lead to losses far in excess of the maximum amounts forecast by standard VaR applications. One of the theoretical advantages of expected shortfall is that, unlike VaR, expected shortfall is a coherent risk measure. This means that VaR might theoretically discourage diversification. Although one of the stated intentions of the Basel committee is to better capture tail risk, it is important to note that the failure of VaR during the crisis is not so much due to its mathematical properties, but rather the results of how it was applied in practice, which often relied on using short historical time periods and distributional assumptions that did not allow for scenarios with extreme volatilities and asset correlations. Expected shortfall applications have their own practical challenges such as data requirements and backtesting issues. By its nature, expected shortfall requires orders of magnitude more data than VaR since it incorporates less likely scenarios. Regulation goes through waves and whichever risk measure dominates capital requirement calculations in the future, financial engineers will need to be familiar with them since these rules determine funding costs and, therefore, which trades and derivative products are profitable in practice and which are not.  
 
 # 3.9 FUTURES: EUROCURRENCY CONTRACTS  
 
-Forward loans do not trade in the OTC market because FRAs are much more cost-effective. [Eurocurrency](../../International%20Finance/The%20Eurocurrency%20and%20Eurobond%20Markets%20Annotations.md) [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) are another attractive alternative. In this section, we discuss [Eurocurrency](../../International%20Finance/The%20Eurocurrency%20and%20Eurobond%20Markets%20Annotations.md) [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) using the Eurodollar (ED) [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) as an example and then compare it with FRA contracts. This comparison illustrates some interesting aspects of successful contract design in finance.  
+Forward loans do not trade in the OTC market because FRAs are much more cost-effective. Eurocurrency futures are another attractive alternative. In this section, we discuss Eurocurrency futures using the Eurodollar (ED) futures as an example and then compare it with FRA contracts. This comparison illustrates some interesting aspects of successful contract design in finance.  
 
-FRA contracts involve exchanges of interest payments associated with a floating and a fixedrate loan. The [Eurodollar futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Convexity-Adjusted%20Models%20for%20LIBOR%20Forwards%20Qu.md) contracts trade future loans indirectly. The settlement will be in cash and the [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract will again result only in an exchange of interest rate payments. However, there are some differences with the FRA contracts.  
+FRA contracts involve exchanges of interest payments associated with a floating and a fixedrate loan. The Eurodollar futures contracts trade future loans indirectly. The settlement will be in cash and the futures contract will again result only in an exchange of interest rate payments. However, there are some differences with the FRA contracts.  
 
-[Eurocurrency](../../International%20Finance/The%20Eurocurrency%20and%20Eurobond%20Markets%20Annotations.md) [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) trade the forward loans (deposits) shown in Figure 3.10 as homogenized contracts. These contracts deal with loans and deposits in [Euromarkets](../../International%20Finance/Characteristics%20of%20the%20Eurodollar%20Market.md), as suggested by their name. The buyer of the [Eurodollar futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Convexity-Adjusted%20Models%20for%20LIBOR%20Forwards%20Qu.md) contract is a potential depositor of 3-month Eurodollars and will lock in a future deposit rate.  
+Eurocurrency futures trade the forward loans (deposits) shown in Figure 3.10 as homogenized contracts. These contracts deal with loans and deposits in Euromarkets, as suggested by their name. The buyer of the Eurodollar futures contract is a potential depositor of 3-month Eurodollars and will lock in a future deposit rate.  
 
-[Eurocurrency](../../International%20Finance/The%20Eurocurrency%20and%20Eurobond%20Markets%20Annotations.md) [futures contracts](../Mathematics%20of%20the%20Financial%20Markets.md) do not deliver the deposit itself. At [expiration date](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) $t_{1}$ , the contract is cash settled. Suppose we denote the price of the [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract quoted in the market by $\overline{{Q_{t_{0}}}}$ . Then the buyer of a 3-month Eurodollar contract “promises” to deposit $100(1-\tilde{F}_{t_{0}}{\frac{\mathrm{1}}{4}})$ dollars at [expiration date](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) $t_{1}$ and receive 100 in 3 months. The implied [annual interest rate](../../Financial%20Instruments/Review%20Session%20Notes/Continuously%20Compounding%20Interest.md) on this loan is then calculated by the formula  
+Eurocurrency futures contracts do not deliver the deposit itself. At expiration date $t_{1}$ , the contract is cash settled. Suppose we denote the price of the futures contract quoted in the market by $\overline{{Q_{t_{0}}}}$ . Then the buyer of a 3-month Eurodollar contract “promises” to deposit $100(1-\tilde{F}_{t_{0}}{\frac{\mathrm{1}}{4}})$ dollars at expiration date $t_{1}$ and receive 100 in 3 months. The implied annual interest rate on this loan is then calculated by the formula  
 $$
 \tilde{F}_{t_{0}}=\frac{100.00-Q_{t_{0}}}{100}
 $$  
@@ -868,7 +868,7 @@ $$
 P V(t_{0},t_{1},t_{2})=\frac{100}{(1+F_{t_{0}}\delta)}
 $$  
 
-[Futures contracts](../Mathematics%20of%20the%20Financial%20Markets.md), on the other hand, use a convention similar to discount rates to calculate the time $t_{1}$ value of the forward loan  
+Futures contracts, on the other hand, use a convention similar to discount rates to calculate the time $t_{1}$ value of the forward loan  
 $$
 \mathrm{P}\mathbf{\tilde{V}}(t_{0},t_{1},t_{2})=100(1-\tilde{F}_{t_{0}}\delta)
 $$  
@@ -878,40 +878,40 @@ $$
 \mathrm{PV}(t_{0},t_{1},t_{2})=\tilde{\mathrm{PV}}(t_{0},t_{1},t_{2})
 $$  
 
-the two forward rates on the right-hand side of formulas (3.58) and (3.59) cannot be identical. Of course, there are many other reasons for the right-hand side and left-hand side in formula (3.60) not to be the same. [Futures markets](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Contango%20And%20Backwardation%20In%20Arbitrage-Free%20Futures-Markets.md) have mark-to-market; FRA markets, in general, do not. With markto-market, gains and losses occur daily, and these daily cash flows may be correlated with the overnight funding rate. Thus, the forward rates obtained from FRA markets need to be adjusted to get the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) in the [Eurodollar futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Convexity-Adjusted%20Models%20for%20LIBOR%20Forwards%20Qu.md), and vice versa.  
+the two forward rates on the right-hand side of formulas (3.58) and (3.59) cannot be identical. Of course, there are many other reasons for the right-hand side and left-hand side in formula (3.60) not to be the same. Futures markets have mark-to-market; FRA markets, in general, do not. With markto-market, gains and losses occur daily, and these daily cash flows may be correlated with the overnight funding rate. Thus, the forward rates obtained from FRA markets need to be adjusted to get the forward rate in the Eurodollar futures, and vice versa.  
 
 # EXAMPLE  
 
-Suppose at time $t_{0}$ , [futures markets](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Contango%20And%20Backwardation%20In%20Arbitrage-Free%20Futures-Markets.md) quote a price  
+Suppose at time $t_{0}$ , futures markets quote a price  
 $$
 Q_{t0}=95.76
 $$  
 
-for a Eurodollar contract that expires on the third Wednesday of December 2020. This would mean two things. First, the implied [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) for that period is given by:  
+for a Eurodollar contract that expires on the third Wednesday of December 2020. This would mean two things. First, the implied forward rate for that period is given by:  
 $$
 F_{t_{0}}={\frac{100.00-95.76}{100}}=0.0424
 $$  
 
 Second, the contract involves a position on the delivery of  
 $$
-100\bigg(1-0.04240\frac{1}{4}\bigg)=98.94
+[^100]: \bigg(1-0.04240\frac{1}{4}\bigg)=98.94
 $$  
 
 dollars on the third Wednesday of December 2020.  
 
-At expiry, these funds will never be deposited explicitly. Instead, the contract will be cash settled. For example, if on expiration the exchange has set the delivery settlement price at $Q_{t_{1}}=96.0$ , this would imply a [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md)  
+At expiry, these funds will never be deposited explicitly. Instead, the contract will be cash settled. For example, if on expiration the exchange has set the delivery settlement price at $Q_{t_{1}}=96.0$ , this would imply a forward rate  
 $$
 F_{t_{1}}=\frac{100-96.0}{100}=0.04
 $$  
 
 and a settlement  
 $$
-100\bigg(1-0.04\frac{1}{4}\bigg)=99.00
+[^100]: \bigg(1-0.04\frac{1}{4}\bigg)=99.00
 $$  
 
 Thus, the buyer of the original contract will be compensated as if he or she is making a deposit of 98.94 and receiving a loan of 99.00. The net gain is  
 $$
-99.00-98.94=0.06{\mathrm{per}}100{\mathrm{dollars}}
+[^99]: 00-98.94=0.06{\mathrm{per}}100{\mathrm{dollars}}
 $$  
 
 This gain can be explained as follows. When the original position was taken, the (forward) rate for the future 3-month deposit was $4.24\%$ . Then at settlement this rate declined to $4.0\%$ .  
@@ -920,29 +920,29 @@ Actually, the above example is a simplification of reality as the gains would ne
 
 # 3.9.1 OTHER PARAMETERS  
 
-There are some other important parameters of [futures contracts](../Mathematics%20of%20the%20Financial%20Markets.md). Instead of discussing these in detail, we prefer to report contract descriptions directly. The following table describes this for the CME Eurodollar contract.28  
+There are some other important parameters of futures contracts. Instead of discussing these in detail, we prefer to report contract descriptions directly. The following table describes this for the CME Eurodollar contract.28  
 
-<html><body><table><tr><td>Delivery months</td><td>: March, June, September, December (for 10 years)</td></tr><tr><td>Delivery (Expiry） day</td><td>: Third Wednesday of [delivery month](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md)</td></tr><tr><td>Last trading day</td><td>: 11.00 Two business days before expiration</td></tr><tr><td>Minimum tick</td><td>: 0.0025 (for spot-month contract)</td></tr><tr><td>“Tick value”</td><td>: USD6.25 for nearest month, otherwise USD12.50</td></tr><tr><td>Settlement rule</td><td>: ICE LIBOR on the settlement date</td></tr></table></body></html>  
+<html><body><table><tr><td>Delivery months</td><td>: March, June, September, December (for 10 years)</td></tr><tr><td>Delivery (Expiry） day</td><td>: Third Wednesday of delivery month</td></tr><tr><td>Last trading day</td><td>: 11.00 Two business days before expiration</td></tr><tr><td>Minimum tick</td><td>: 0.0025 (for spot-month contract)</td></tr><tr><td>“Tick value”</td><td>: USD6.25 for nearest month, otherwise USD12.50</td></tr><tr><td>Settlement rule</td><td>: ICE LIBOR on the settlement date</td></tr></table></body></html>  
 
-The design and the conventions adopted in the Eurodollar contract may seem a bit odd to the reader, but the contract is a successful one. First of all, quoting $Q_{t_{0}}$ instead of the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) $\tilde{F}_{t_{0}}$ makes the contract similar to buying and selling a [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract on T-bills. This simplifies related [hedging and arbitrage](../Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%201%20-%20Derivative%20Securities.md) strategies. Second, as mentioned earlier, the contract is settled in cash. This way, the functions of securing a loan and locking in an interest rate are successfully separated.  
+The design and the conventions adopted in the Eurodollar contract may seem a bit odd to the reader, but the contract is a successful one. First of all, quoting $Q_{t_{0}}$ instead of the forward rate $\tilde{F}_{t_{0}}$ makes the contract similar to buying and selling a futures contract on T-bills. This simplifies related hedging and arbitrage strategies. Second, as mentioned earlier, the contract is settled in cash. This way, the functions of securing a loan and locking in an interest rate are successfully separated.  
 
 Third, the convention of using a linear formula to represent the relationship between $Q_{t_{0}}$ and $\tilde{F}_{t_{0}}$ is also a point to note. Suppose the underlying time $t_{1}$ deposit is defined by the following equation  
 $$
 D(t_{0},t_{1},t_{2})=100(1-\tilde{F}_{t_{0}}\delta)
 $$  
 
-A small variation of the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) $\tilde{F}_{t_{0}}$ will result in a constant variation in $D\left(t_{0},t_{1},t_{2}\right)$ :  
+A small variation of the forward rate $\tilde{F}_{t_{0}}$ will result in a constant variation in $D\left(t_{0},t_{1},t_{2}\right)$ :  
 $$
 \frac{\partial D(t_{0},t_{1},t_{2})}{\partial\tilde{F}_{t_{0}}}=-\delta100=-25
 $$  
 
-Thus, the sensitivity of the position with respect to the underlying [interest rate risk](../../Fixed%20Income%20Asset%20Pricing/Analysis%20of%20Fixed%20Income%20Securities.md) is constant, and the product is truly linear with respect to $\tilde{F}_{t_{0}}$ .  
+Thus, the sensitivity of the position with respect to the underlying interest rate risk is constant, and the product is truly linear with respect to $\tilde{F}_{t_{0}}$ .  
 
 # 3.9.1.1 The “TED spread”  
 
-The difference between the [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) on 3-month Treasury Bills (T-Bills) and 3-month Eurodollar (ED) [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) is called the TED spread.29 T-bill (T-Note) rates provide a measure of the US government’s short-term (medium-term) [borrowing costs](../Notes%20on%20Currency%20Swaps.md). [Eurodollar futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Convexity-Adjusted%20Models%20for%20LIBOR%20Forwards%20Qu.md) relate to shortterm private sector [borrowing costs](../Notes%20on%20Currency%20Swaps.md) while T-bills are considered risk free (for a country like the United States, but not all countries as the GFC has demonstrated). Thus the “TED spread” has [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) elements in it.30  
+The difference between the interest rates on 3-month Treasury Bills (T-Bills) and 3-month Eurodollar (ED) futures is called the TED spread.29 T-bill (T-Note) rates provide a measure of the US government’s short-term (medium-term) borrowing costs. Eurodollar futures relate to shortterm private sector borrowing costs while T-bills are considered risk free (for a country like the United States, but not all countries as the GFC has demonstrated). Thus the “TED spread” has credit risk elements in it.30  
 
-The TED spread average from 1986 to 2014 is around 62 bps.31 On October 10, 2008, the TED spread reached 458 bps as [liquidity](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) in the interbank lending market dried up and lenders’ perception of the default on interbank loans (counterparty risk) spiked. This reading eclipsed the level of 278 bps reached on October 28, 1987. Figure 3.17 plots the TED spread against the 3-month USD LIBOR and T-BILL rates from January 2, 1986 until April 17, 2014.  
+The TED spread average from 1986 to 2014 is around 62 bps.31 On October 10, 2008, the TED spread reached 458 bps as liquidity in the interbank lending market dried up and lenders’ perception of the default on interbank loans (counterparty risk) spiked. This reading eclipsed the level of 278 bps reached on October 28, 1987. Figure 3.17 plots the TED spread against the 3-month USD LIBOR and T-BILL rates from January 2, 1986 until April 17, 2014.  
 
 ![](cd84dfa22bb9d74235b8adecac134c4c0dfd1f6ce1b9a319f3c3c7789821778c.jpg)  
 
@@ -950,40 +950,40 @@ The TED spread average from 1986 to 2014 is around 62 bps.31 On October 10, 2008
 
 TED spread versus 3-month USD LIBOR and T-Bill.  
 
-Traders form strips of [Eurodollar futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Convexity-Adjusted%20Models%20for%20LIBOR%20Forwards%20Qu.md) and trade them against T-Bills of similar maturity. A similar spread can be put together using Treasury Notes (T-notes) and Eurodollars as well. Given the different ways of quoting yields, calculation of the spread involves some technical adjustments. T-Notes use bond equivalent yields whereas Eurodollars are quoted similar to [discount rate](../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) basis. The calculation of the TED spread requires putting together strips of [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) while adjusting for these differences. There are several technical points that arise along the way.  
+Traders form strips of Eurodollar futures and trade them against T-Bills of similar maturity. A similar spread can be put together using Treasury Notes (T-notes) and Eurodollars as well. Given the different ways of quoting yields, calculation of the spread involves some technical adjustments. T-Notes use bond equivalent yields whereas Eurodollars are quoted similar to discount rate basis. The calculation of the TED spread requires putting together strips of futures while adjusting for these differences. There are several technical points that arise along the way.  
 
-Once the TED spread is calculated, traders put on trades to benefit from changes in the yield curve slope and in private sector [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md). For example, traders would long the TED spread if they expected the yield spread to widen. In the opposite case, they would short the TED spread and would thus benefit from the narrowing of the yield spread. Experienced [fixed income](../../Fixed%20Income%20Asset%20Pricing/Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md) relative value traders are wary of being short the TED spread, however, due to the occasionally extreme downside.  
+Once the TED spread is calculated, traders put on trades to benefit from changes in the yield curve slope and in private sector credit risk. For example, traders would long the TED spread if they expected the yield spread to widen. In the opposite case, they would short the TED spread and would thus benefit from the narrowing of the yield spread. Experienced fixed income relative value traders are wary of being short the TED spread, however, due to the occasionally extreme downside.  
 
 # 3.9.2 COMPARING FRAs AND EURODOLLAR FUTURES  
 
-A brief comparison of FRAs with [Eurocurrency](../../International%20Finance/The%20Eurocurrency%20and%20Eurobond%20Markets%20Annotations.md) [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) may be useful. (i) Being OTC contracts, FRAs are more flexible instruments, since [Eurodollar futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Convexity-Adjusted%20Models%20for%20LIBOR%20Forwards%20Qu.md) trade in terms of preset homogeneous contracts. (ii) FRAs have the advantage of confidentiality. There is no requirement that the FRA terms be announced. The terms of a [Eurocurrency](../../International%20Finance/The%20Eurocurrency%20and%20Eurobond%20Markets%20Annotations.md) contract are known. (iii) As discussed in Chapter 2, until recently there were no [margin requirements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2010/Case%20Study%20Mf%20Globals%20Repo-To-Maturity%20Trades.md) for FRAs and the mark-to-market requirements are less strict. With FRAs, money changes hands only at the settlement date. [Eurocurrency](../../International%20Finance/The%20Eurocurrency%20and%20Eurobond%20Markets%20Annotations.md) [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) come with [margin requirements](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2010/Case%20Study%20Mf%20Globals%20Repo-To-Maturity%20Trades.md) as well as with mark-to-market requirements. (iv) FRAs have counterparty risk, whereas the [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) of [Eurocurrency](../../International%20Finance/The%20Eurocurrency%20and%20Eurobond%20Markets%20Annotations.md) [futures contracts](../Mathematics%20of%20the%20Financial%20Markets.md) is insignificant. (v) FRAs are quoted on an interest rate basis while [Eurodollar futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Convexity-Adjusted%20Models%20for%20LIBOR%20Forwards%20Qu.md) are quoted on a price basis. Thus a trader who sells an FRA will hedge this position by selling a Eurodollar contract as well. (vi) Finally, an interesting difference occurs with respect to fungibility. [Eurocurrency](../../International%20Finance/The%20Eurocurrency%20and%20Eurobond%20Markets%20Annotations.md) contracts are fungible, in the sense that contracts with the same expiration can be netted against each other even if they are entered into at different times and for different purposes. FRA contracts cannot be netted against each other even with respect to the same counterparty, unless the two sides have a specific agreement.  
+A brief comparison of FRAs with Eurocurrency futures may be useful. (i) Being OTC contracts, FRAs are more flexible instruments, since Eurodollar futures trade in terms of preset homogeneous contracts. (ii) FRAs have the advantage of confidentiality. There is no requirement that the FRA terms be announced. The terms of a Eurocurrency contract are known. (iii) As discussed in Chapter 2, until recently there were no margin requirements for FRAs and the mark-to-market requirements are less strict. With FRAs, money changes hands only at the settlement date. Eurocurrency futures come with margin requirements as well as with mark-to-market requirements. (iv) FRAs have counterparty risk, whereas the credit risk of Eurocurrency futures contracts is insignificant. (v) FRAs are quoted on an interest rate basis while Eurodollar futures are quoted on a price basis. Thus a trader who sells an FRA will hedge this position by selling a Eurodollar contract as well. (vi) Finally, an interesting difference occurs with respect to fungibility. Eurocurrency contracts are fungible, in the sense that contracts with the same expiration can be netted against each other even if they are entered into at different times and for different purposes. FRA contracts cannot be netted against each other even with respect to the same counterparty, unless the two sides have a specific agreement.  
 
 # 3.9.2.1 Convexity differences  
 
-Besides these structural differences, FRAs and [Eurocurrency](../../International%20Finance/The%20Eurocurrency%20and%20Eurobond%20Markets%20Annotations.md) [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) have different convexities. The [pricing equation](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Definitions%20and%20Immediate%20Consequences.md) for [Eurocurrency](../../International%20Finance/The%20Eurocurrency%20and%20Eurobond%20Markets%20Annotations.md) [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) is linear in $\tilde{F}_{t_{0}}$ , whereas the market-traded FRAs have a [pricing equation](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Definitions%20and%20Immediate%20Consequences.md) that is nonlinear in the corresponding LIBOR rate. We will see that this requires [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) adjustments, which is one reason why we used different symbols to denote the two forward rates.  
+Besides these structural differences, FRAs and Eurocurrency futures have different convexities. The pricing equation for Eurocurrency futures is linear in $\tilde{F}_{t_{0}}$ , whereas the market-traded FRAs have a pricing equation that is nonlinear in the corresponding LIBOR rate. We will see that this requires convexity adjustments, which is one reason why we used different symbols to denote the two forward rates.  
 
 # 3.9.3 HEDGING FRAs WITH EUROCURRENCY FUTURES  
 
-For short-dated contracts, [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) and other differences may be negligible, and we may ask the following question. Putting [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) differences aside, can we hedge an FRA position with [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md), and vice versa?  
+For short-dated contracts, convexity and other differences may be negligible, and we may ask the following question. Putting convexity differences aside, can we hedge an FRA position with futures, and vice versa?  
 
 It is best to answer this question using an example. The example also illustrates some realworld complications associated with this hedge.  
 
 # EXAMPLE  
 
-Suppose we are given the following [Eurodollar futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Convexity-Adjusted%20Models%20for%20LIBOR%20Forwards%20Qu.md) prices on June 17, 2002:  
+Suppose we are given the following Eurodollar futures prices on June 17, 2002:  
 
 September price (delivery date: September 16) 96.500 (implied rate $=3.500\AA$ December price (delivery date: December 16) 96.250 (implied rate $=3.750\mathrm{_{,}}$ ) March price (delivery date: March 17) 96.000 (implied rate $=4.000\dot{}$ )  
 
-A trader would like to sell a $(3\times6)$ FRA on June 17, with a notional amount of USD100,000,000. How can the deal be hedged using these [futures contracts](../Mathematics%20of%20the%20Financial%20Markets.md)?  
+A trader would like to sell a $(3\times6)$ FRA on June 17, with a notional amount of USD100,000,000. How can the deal be hedged using these futures contracts?  
 
-Note first that according to the value and settlement date conventions, the FRA will run for the period September 19 December 19 and will encompass 92 days. It will settle against the LIBOR fixed on September 17. The September [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract, on the other hand, will settle against the LIBOR fixed on September 16 and is quoted on a 30/360 basis. Thus, the [implied forward rates](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) will not be identical for this reason as well.  
+Note first that according to the value and settlement date conventions, the FRA will run for the period September 19 December 19 and will encompass 92 days. It will settle against the LIBOR fixed on September 17. The September futures contract, on the other hand, will settle against the LIBOR fixed on September 16 and is quoted on a 30/360 basis. Thus, the implied forward rates will not be identical for this reason as well.  
 
-Let $f$ be the FRA rate and $\epsilon$ be the differences between this rate and the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) implied by the [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract. Using formula (3.41), the FRA settlement, with notional value of 100 million USD, may be written as  
+Let $f$ be the FRA rate and $\epsilon$ be the differences between this rate and the forward rate implied by the futures contract. Using formula (3.41), the FRA settlement, with notional value of 100 million USD, may be written as  
 $$
 \frac{100m((0.035+\epsilon)-\mathrm{Libor})_{360}^{92}}{\left(1+\mathrm{Libor}\frac{92}{360}\right)}
 $$  
 
-Note that this settlement is discounted to September 19 and will be received once the relevant LIBOR rate becomes known. Ignoring mark-to-market and other effects, a [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) contract covering similar periods will settle at  
+Note that this settlement is discounted to September 19 and will be received once the relevant LIBOR rate becomes known. Ignoring mark-to-market and other effects, a futures contract covering similar periods will settle at  
 $$
 \alpha\bigg(1m(0.0350-\mathrm{Libor})\frac{90}{360}\bigg)
 $$  
@@ -994,30 +994,30 @@ The trader has to choose $\alpha$ such that the two settlement amounts are as cl
 
 # 3.9.3.1 Some technical points  
 
-The process of [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) is an approximation that may face several technical and practical difficulties. To illustrate them we look at the preceding example once again.  
+The process of hedging is an approximation that may face several technical and practical difficulties. To illustrate them we look at the preceding example once again.  
 
-1. Suppose we tried to hedge (or price) a strip of FRAs rather than having a single FRA be adjusted to contract using a strip of available [futures contracts](../Mathematics%20of%20the%20Financial%20Markets.md). Then the strip of FRAs will have to deal with increasing [notional amounts](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md). Given that [futures contracts](../Mathematics%20of%20the%20Financial%20Markets.md) have fixed [notional amounts](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md), contract numbers need to be adjusted instead.  
+[^1]: Suppose we tried to hedge (or price) a strip of FRAs rather than having a single FRA be adjusted to contract using a strip of available futures contracts. Then the strip of FRAs will have to deal with increasing notional amounts. Given that futures contracts have fixed notional amounts, contract numbers need to be adjusted instead.
 
-2. As indicated, a 3-month period in [futures markets](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Contango%20And%20Backwardation%20In%20Arbitrage-Free%20Futures-Markets.md) is 90 days, whereas FRA contracts count the actual number of days in the corresponding 3-month period.   
-3. Given the [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) differences in the [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formulas, the forward rates implied by the two contracts are not the same and, depending on LIBOR volatility, the difference may be large or small.   
-4. There may be differences of 1 or 2 days in the fixing of the LIBOR rates in the two contracts.  
+[^2]: As indicated, a 3-month period in futures markets is 90 days, whereas FRA contracts count the actual number of days in the corresponding 3-month period.
+[^3]: Given the convexity differences in the pricing formulas, the forward rates implied by the two contracts are not the same and, depending on LIBOR volatility, the difference may be large or small.
+[^4]: There may be differences of 1 or 2 days in the fixing of the LIBOR rates in the two contracts.
 
-These technical differences relate to this particular example, but they are indicative of mos [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) and [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) activity.  
+These technical differences relate to this particular example, but they are indicative of mos hedging and pricing activity.  
 
 # 3.10 REAL-WORLD COMPLICATIONS  
 
-Up to this point, the discussion ignored some real-life complications. We made the following simplifications. (i) We ignored [bid-ask](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Bid-Ask%20Prices%20with%20Adverse%20SelectionPrivate%20Information.md) spreads. (ii) [Credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md) was assumed away. (iii) We ignored the fact that the fixing date in an FRA is, in general, different from the settlement date. In fact, this is another date involved in the FRA contract. Let us now discuss these issues.  
+Up to this point, the discussion ignored some real-life complications. We made the following simplifications. (i) We ignored bid-ask spreads. (ii) Credit risk was assumed away. (iii) We ignored the fact that the fixing date in an FRA is, in general, different from the settlement date. In fact, this is another date involved in the FRA contract. Let us now discuss these issues.  
 
 # 3.10.1 BID-ASK SPREADS  
 
-We begin with [bid-ask](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Bid-Ask%20Prices%20with%20Adverse%20SelectionPrivate%20Information.md) spreads. The issue will be illustrated using a bond market construction. When we replicate a forward loan via the bond market, we buy a $B(t_{0},t_{1})$ bond and short-sell a $B$ $(t_{0},~t_{2})$ bond. Thus, we have to use ask prices for $B(t_{0},t_{1})$ and bid prices for $B(t_{0},~t_{2})$ . This means that the asking price for a [forward interest rate](../../Clippings/Forward%20Rate.md) will be  
+We begin with bid-ask spreads. The issue will be illustrated using a bond market construction. When we replicate a forward loan via the bond market, we buy a $B(t_{0},t_{1})$ bond and short-sell a $B$ $(t_{0},~t_{2})$ bond. Thus, we have to use ask prices for $B(t_{0},t_{1})$ and bid prices for $B(t_{0},~t_{2})$ . This means that the asking price for a forward interest rate will be  
 $$
-1+F_{\mathrm{t_{0}}}^{\mathrm{ask}}\delta=\frac{B(t_{0},t_{1})^{\mathrm{ask}}}{B(t_{0},t_{2})^{\mathrm{bid}}}
+[^1]: +F_{\mathrm{t_{0}}}^{\mathrm{ask}}\delta=\frac{B(t_{0},t_{1})^{\mathrm{ask}}}{B(t_{0},t_{2})^{\mathrm{bid}}}
 $$  
 
 Similarly, when the client sells an FRA, he or she has to use the bid price of the dealers and brokers. Again, going through the bond markets we can get  
 $$
-1+F_{\mathrm{t_{0}}}^{\mathrm{bid}}\delta=\frac{B(t_{0},\ t_{1})^{\mathrm{bid}}}{B(t_{0},\ t_{2})^{\mathrm{ask}}}
+[^1]: +F_{\mathrm{t_{0}}}^{\mathrm{bid}}\delta=\frac{B(t_{0},\ t_{1})^{\mathrm{bid}}}{B(t_{0},\ t_{2})^{\mathrm{ask}}}
 $$  
 
 This means that  
@@ -1025,9 +1025,9 @@ $$
 F_{\mathrm{t_{0}}}^{\mathrm{bid}}<F_{t_{0}}^{\mathrm{ask}}
 $$  
 
-The same [bid-ask spread](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Bid%20Ask%20and%20Transaction%20Prices%20in%20a%20Specialist%20Market%20With%20Heterogeneously%20Informed%20Traders.md) can also be created from the money market synthetic using the [bid-ask](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Bid-Ask%20Prices%20with%20Adverse%20SelectionPrivate%20Information.md) spreads in the money markets  
+The same bid-ask spread can also be created from the money market synthetic using the bid-ask spreads in the money markets  
 $$
-1+F_{\mathrm{t_{0}}}^{\mathrm{ask}}\delta=\frac{1+L_{t_{0}}^{1\mathrm{bid}}\delta^{1}}{1+L_{t_{0}}^{2\mathrm{ask}}\delta^{2}}
+[^1]: +F_{\mathrm{t_{0}}}^{\mathrm{ask}}\delta=\frac{1+L_{t_{0}}^{1\mathrm{bid}}\delta^{1}}{1+L_{t_{0}}^{2\mathrm{ask}}\delta^{2}}
 $$  
 
 Clearly, we again have  
@@ -1035,19 +1035,19 @@ $$
 F_{t_{0}}^{\mathrm{bid}}<F_{t_{0}}^{\mathrm{ask}}
 $$  
 
-Thus, [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) will normally yield two-way prices.  
+Thus, pricing will normally yield two-way prices.  
 
-In market practice, FRA [bid-ask](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Bid-Ask%20Prices%20with%20Adverse%20SelectionPrivate%20Information.md) spreads are not obtained in the manner shown here. The [bidask](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Slides%20Note%209%20Bidask.not%20New%202020.md) quotes on the FRA rate are calculated by first obtaining a rate from the corresponding LIBORs and then adding a spread to both sides of it. Many practitioners also use the more liquid [Eurocurrency](../../International%20Finance/The%20Eurocurrency%20and%20Eurobond%20Markets%20Annotations.md) [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) to “make” markets.  
+In market practice, FRA bid-ask spreads are not obtained in the manner shown here. The bidask quotes on the FRA rate are calculated by first obtaining a rate from the corresponding LIBORs and then adding a spread to both sides of it. Many practitioners also use the more liquid Eurocurrency futures to “make” markets.  
 
 # 3.10.2 AN ASYMMETRY  
 
-There is another aspect to using FRAs for [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) purposes. The net return and net cost from an interest rate position will be asymmetric since, whether you buy (pay fixed) or sell (receive fixed), an FRA always settles against LIBOR. But LIBOR is an offer (asking) rate, and this introduces an asymmetry.  
+There is another aspect to using FRAs for hedging purposes. The net return and net cost from an interest rate position will be asymmetric since, whether you buy (pay fixed) or sell (receive fixed), an FRA always settles against LIBOR. But LIBOR is an offer (asking) rate, and this introduces an asymmetry.  
 
-We begin with a [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of floating [borrowing costs](../Notes%20on%20Currency%20Swaps.md). When a company hedges a floating borrowing cost, both [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) from the cash and the hedge will be LIBOR based. This means that:  
+We begin with a hedging of floating borrowing costs. When a company hedges a floating borrowing cost, both interest rates from the cash and the hedge will be LIBOR based. This means that:  
 
-The company pays LIBOR $^+$ margin to the bank that it borrows funds from. The company pays the fixed FRA rate to the FRA counterparty for [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) this floating cost against which the company receives LIBOR from the FRA counterparty.  
+The company pays LIBOR $^+$ margin to the bank that it borrows funds from. The company pays the fixed FRA rate to the FRA counterparty for hedging this floating cost against which the company receives LIBOR from the FRA counterparty.  
 
-Adding all receipts and payments, the net borrowing cost becomes FRA ra $t e+m$ argin. Now consider what happens when a company hedges, say, a 3-month floating receipt. The releant rate for the cash position is Libid, the bid rate for placing funds with the [Euromarkets](../../International%20Finance/Characteristics%20of%20the%20Eurodollar%20Market.md).  
+Adding all receipts and payments, the net borrowing cost becomes FRA ra $t e+m$ argin. Now consider what happens when a company hedges, say, a 3-month floating receipt. The releant rate for the cash position is Libid, the bid rate for placing funds with the Euromarkets.  
 
 But an FRA always settles always against LIBOR. So the picture will change to:  
 
@@ -1058,34 +1058,34 @@ Thus, the net return to the company will become FRA-(LIBOR-Libid).
 
 # 3.11 FORWARD RATES AND TERM STRUCTURE  
 
-A detailed framework for [fixed income](../../Fixed%20Income%20Asset%20Pricing/Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md) engineering will be discussed in Chapter 14. However, some preliminary modeling of the [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) is in order. This will clarify the notation and some of the essential concepts.  
+A detailed framework for fixed income engineering will be discussed in Chapter 14. However, some preliminary modeling of the term structure is in order. This will clarify the notation and some of the essential concepts.  
 
 # 3.11.1 BOND PRICES  
 
 Let $\{B(t_{0},t_{i}),i=1,2...,n\}$ represent the bond price family, where each $B(t_{0},t_{i})$ is the price of a default-free zero-coupon bond that matures and pays $\$1$ at time $t_{i\cdot}$ . These $\{B(t_{0},\ t_{i})\}$ can also be viewed as a vector of discounts that can be used to value default-free cash flows.  
 
-For example, given a complicated default-free asset, $A_{t_{0}}$ , that pays [deterministic cash flows](../1.%20DeterministicCashFlows.md) $\{C_{t_{i}}\}$ occurring at arbitrary times, $t_{i},i=1,...,k.$ , we can obtain the value of the asset easily if we assume the following bond price process:  
+For example, given a complicated default-free asset, $A_{t_{0}}$ , that pays deterministic cash flows $\{C_{t_{i}}\}$ occurring at arbitrary times, $t_{i},i=1,...,k.$ , we can obtain the value of the asset easily if we assume the following bond price process:  
 $$
 A_{t_{0}}=\sum_{i}C_{t_{i}}B(t_{0},t_{i})
 $$  
 
-That is to say, we just multiply the $t_{\iota}$ ith [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) with the current value of one unit of [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) that belongs to $t_{i},$ , and then sum over $i$ .  
+That is to say, we just multiply the $t_{\iota}$ ith cash flow with the current value of one unit of currency that belongs to $t_{i},$ , and then sum over $i$ .  
 
-This idea has an immediate application in the [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of a coupon bond. Given a coupon bond with a nominal value of $\$1$ that pays a coupon rate of $c\%$ at times $t_{i}.$ , the value of the bond can easily be obtained using the preceding formula, where the last [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) will include the principal as well.  
+This idea has an immediate application in the pricing of a coupon bond. Given a coupon bond with a nominal value of $\$1$ that pays a coupon rate of $c\%$ at times $t_{i}.$ , the value of the bond can easily be obtained using the preceding formula, where the last cash flow will include the principal as well.  
 
 # 3.11.2 WHAT FORWARD RATES IMPLY  
 
-In this chapter, we obtained the important [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) equality  
+In this chapter, we obtained the important arbitrage equality  
 $$
-1+F(t_{0},t_{1},t_{2})\delta=\frac{B(t_{0},t_{1})}{B(t_{0},t_{2})}
+[^1]: +F(t_{0},t_{1},t_{2})\delta=\frac{B(t_{0},t_{1})}{B(t_{0},t_{2})}
 $$  
 
-where $\textit{F}(t_{0},\ t_{1},\ t_{2})$ is written in the expanded form to avoid potential confusion.32 It implies a [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) that applies to a loan starting at $t_{1}$ and ending at $t_{2}$ . Writing this [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) relationship for all the bonds in the family $\{B(t_{0},t_{i})\}$ , we see that  
+where $\textit{F}(t_{0},\ t_{1},\ t_{2})$ is written in the expanded form to avoid potential confusion.32 It implies a forward rate that applies to a loan starting at $t_{1}$ and ending at $t_{2}$ . Writing this arbitrage relationship for all the bonds in the family $\{B(t_{0},t_{i})\}$ , we see that  
 $$
 \begin{array}{c}{{1+F(t_{0},t_{0},t_{1})\delta=\displaystyle\frac{B(t_{0},t_{0})}{B(t_{0},t_{1})}}}\\ {{}}\\ {{1+F(t_{0},t_{1},t_{2})\delta=\displaystyle\frac{B(t_{0},t_{1})}{B(t_{0},t_{2})}}}\end{array}
 $$  
 $$
-1+F(t_{0},t_{n-1},t_{n})\delta=\frac{B(t_{0},t_{n-1})}{B(t_{0},t_{n})}
+[^1]: +F(t_{0},t_{n-1},t_{n})\delta=\frac{B(t_{0},t_{n-1})}{B(t_{0},t_{n})}
 $$  
 
 Successively substituting the numerator on the right-hand side using the previous equality and noting that for the first bond we have $B(t_{0},t_{0})=1$ , we obtain  
@@ -1093,7 +1093,7 @@ $$
 B(t_{0},t_{n})=\frac{1}{(1+F(t_{0},t_{0},t_{1})\delta)...(1+F(t_{0},t_{n-1},t_{n})\delta)}
 $$  
 
-We have obtained an important result. The bond price family $\{B(t_{0},t_{i})\}$ can be expressed using the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) family,  
+We have obtained an important result. The bond price family $\{B(t_{0},t_{i})\}$ can be expressed using the forward rate family,  
 $$
 \{F(t_{0},t_{0},t_{1}),...,F(t_{0},t_{n-1},t_{n})\}
 $$  
@@ -1102,7 +1102,7 @@ Therefore, if all bond prices are given we can determine the forward rates.
 
 # 3.11.2.1 Remark  
 
-Note that the “first” [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) $F(t_{0},t_{0},t_{1})$ is contracted at time $t_{0}$ and applies to a loan that starts at time $t_{0}$ . Hence, it is also the $t_{0}$ [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md):  
+Note that the “first” forward rate $F(t_{0},t_{0},t_{1})$ is contracted at time $t_{0}$ and applies to a loan that starts at time $t_{0}$ . Hence, it is also the $t_{0}$ spot rate:  
 $$
 (1+F(t_{0},t_{0},t_{1})\delta)=(1+L_{t_{0}}\delta)=\frac{1}{B(t_{0},t_{1})}
 $$  
@@ -1112,11 +1112,11 @@ $$
 B(t_{0},t_{1})=\frac{1}{(1+L_{t_{0}}\delta)}
 $$  
 
-The bond price family $B(t_{0},\ t_{i})$ is the relevant discounts factors that market practitioners use in obtaining the present values of default-free cash flows. We see that modeling $F_{t_{0}}^{'}\mathrm{{s}}$ will be quite helpful in describing the modeling of the yield curve or, for that matter, the [discount curve](../../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md).  
+The bond price family $B(t_{0},\ t_{i})$ is the relevant discounts factors that market practitioners use in obtaining the present values of default-free cash flows. We see that modeling $F_{t_{0}}^{'}\mathrm{{s}}$ will be quite helpful in describing the modeling of the yield curve or, for that matter, the discount curve.  
 
 # 3.12 CONVENTIONS  
 
-FRAs are quoted as two-way prices in [bid-ask](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Bid-Ask%20Prices%20with%20Adverse%20SelectionPrivate%20Information.md) format, similar to Eurodeposit rates. A typical market contributor will quote a 3-month and a 6-month series.  
+FRAs are quoted as two-way prices in bid-ask format, similar to Eurodeposit rates. A typical market contributor will quote a 3-month and a 6-month series.  
 
 # EXAMPLE  
 
@@ -1124,7 +1124,7 @@ The 3-month series will look like this:
 
 <html><body><table><tr><td>1×4 4.87</td><td>4.91</td></tr><tr><td>2X5</td><td>4.89 4.94</td></tr><tr><td>3X6 4.90 4.95</td><td></td></tr><tr><td>etc.</td><td></td></tr></table></body></html>  
 
-The first row implies that the [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) are for a 3-month period that will start in 1 month. The second row gives the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) for a loan that begins in 2 months for a period of 3 months and so on.  
+The first row implies that the interest rates are for a 3-month period that will start in 1 month. The second row gives the forward rate for a loan that begins in 2 months for a period of 3 months and so on.  
 
 The 6-month series will look like this:  
 
@@ -1145,33 +1145,33 @@ Another convention is the use of LIBOR rate as a reference rate for both the sel
 
 Before finishing this chapter we discuss an instrument that is the closest real-life equivalent to the default-free pure discount bonds $B(t_{0},t_{i})$ . This instrument is called strips. US strips have been available since 1985 and UK strips since 1997.  
 
-Consider a long-term straight Treasury bond, a German bund, or a British gilt and suppose there are no implicit options. These bonds make [coupon payments](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) during their life at regular intervals. Their [day-count](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) and coupon payment intervals are somewhat different, but in essence they are standard long-term debt obligations. In particular, they are not the zero-coupon bonds that we have been discussing in this chapter.  
+Consider a long-term straight Treasury bond, a German bund, or a British gilt and suppose there are no implicit options. These bonds make coupon payments during their life at regular intervals. Their day-count and coupon payment intervals are somewhat different, but in essence they are standard long-term debt obligations. In particular, they are not the zero-coupon bonds that we have been discussing in this chapter.  
 
 Strips are obtained from coupon bonds. The market practitioner buys a long-term coupon bond and then “strips” each coupon interest payment and the principal and trades them separately. Such bonds will be equivalent to zero-coupon bonds except that, if needed, one can put them back together and reconstruct the original coupon bond.  
 
-The institution overseeing the government bond market, the [Bank of England](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Reflections%20On%20Modern%20Bank%20Runs%20a%20Case%20Study%20of%20Northern%20Rock.md) in the United Kingdom or the Treasury in the United States, arranges the necessary infrastructure to make stripping possible and also designates the strippable securities.33 Note that only some particular dealers are usually allowed to strip and to reconstruct the underlying bonds. These dealers put in a request to strip a bond that they already have in their account and then they sell the pieces separately.34 As an example, a 10-year gilt is strippable into 20 coupons plus the principal. There will be 21 zerocoupon bonds with maturities 6, 12, 18, 24 (and so on) months.  
+The institution overseeing the government bond market, the Bank of England in the United Kingdom or the Treasury in the United States, arranges the necessary infrastructure to make stripping possible and also designates the strippable securities.33 Note that only some particular dealers are usually allowed to strip and to reconstruct the underlying bonds. These dealers put in a request to strip a bond that they already have in their account and then they sell the pieces separately.34 As an example, a 10-year gilt is strippable into 20 coupons plus the principal. There will be 21 zerocoupon bonds with maturities 6, 12, 18, 24 (and so on) months.  
 
 # 3.14 CONCLUSIONS  
 
-This chapter has developed two main ideas. First, we considered the engineering aspects of [simple interest rate](../1.%20DeterministicCashFlows.md) [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) such as forward loans and FRAs. Second, we developed our first contractual equation. This equation was manipulated to obtain synthetic loans, synthetic deposits, and synthetic FRAs. A careful use of such contractual equations may provide useful techniques that are normally learned only after working in [financial markets](../../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md). We introduced the [term structure of interest rates](../6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md) and introduced the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) (LIBOR) processes. The chapter continued to build on the simple graphical financial engineering methods that are based on [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) manipulations.  
+This chapter has developed two main ideas. First, we considered the engineering aspects of simple interest rate derivatives such as forward loans and FRAs. Second, we developed our first contractual equation. This equation was manipulated to obtain synthetic loans, synthetic deposits, and synthetic FRAs. A careful use of such contractual equations may provide useful techniques that are normally learned only after working in financial markets. We introduced the term structure of interest rates and introduced the forward rate (LIBOR) processes. The chapter continued to build on the simple graphical financial engineering methods that are based on cash flow manipulations.  
 
-Before concluding, we would like to emphasize some characteristics of forward contracts that can be found in other swap-type [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) as well. It is these characteristics that make these contracts very useful instruments for market practitioners.  
+Before concluding, we would like to emphasize some characteristics of forward contracts that can be found in other swap-type derivatives as well. It is these characteristics that make these contracts very useful instruments for market practitioners.  
 
 First, at the time of initiation, the forward (future) contract did not require any initial cash payments. This is a convenient property if our business is trading contracts continuously during the day. We basically don’t have to worry about “funding” issues.  
 
-Second, because forward (future) contracts have zero initial value, the position taker does not have anything to put on the balance sheet. The trader did not “buy” or “sell” something tangible. With a forward ([futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)) contract, the trader has simply taken a position. So these instruments are off-[balance sheet items](../../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%206/Week%206%20Assignment%20Review.md).  
+Second, because forward (future) contracts have zero initial value, the position taker does not have anything to put on the balance sheet. The trader did not “buy” or “sell” something tangible. With a forward (futures) contract, the trader has simply taken a position. So these instruments are off-balance sheet items.  
 
-Third, forward contracts involve an exchange at a future date. This means that if one of the counterparties “defaults” before that date, the damage will be limited, since no [principal amount](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/HSBC-Auto%20callable%20Barrier%20Notes%20with%20Step-up%20Premium.md) was extended. What is at risk is simply any capital gains that may have been earned.  
+Third, forward contracts involve an exchange at a future date. This means that if one of the counterparties “defaults” before that date, the damage will be limited, since no principal amount was extended. What is at risk is simply any capital gains that may have been earned.  
 
 # SUGGESTED READING  
 
-[Futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) and forward markets have now been established for a wide range of [financial contracts](../../Contemporary%20Financial%20Intermediation%20Notes/Contemporary%20Financial%20Intermediation%20Notes.md), [commodities](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md), and services. This chapter dealt only with basic engineering aspects of interest rate [forwards and futures](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) contracts, and a comprehensive discussion was avoided. It may be best to go over a survey of existing [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) and forward contracts. We recommend two good introductory sources. The first is the Foreign Exchange and Money Markets, an introductory survey prepared by Reuters and published by Wiley. Hull (2014), Das (1994), and Wilmott (2006) are among the best sources for a detailed analysis of forward and [futures contracts](../Mathematics%20of%20the%20Financial%20Markets.md). There are many more [fixed income instruments](../../Course%20Notes/Python/QuantLib-Python/Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md) involving more complicated parameters than those discussed here. Some of these will certainly be examined in later chapters. But reading some market-oriented books that deal with technical aspects of these instruments may be helpful at this point. Two such books are Serrat and Tuckman (2011) and Questa (1999). McNeil et al. (2005) provide a review of quantitative [risk management](../Financial%20Mathematics%20Course.md) and VaR.  
+Futures and forward markets have now been established for a wide range of financial contracts, commodities, and services. This chapter dealt only with basic engineering aspects of interest rate forwards and futures contracts, and a comprehensive discussion was avoided. It may be best to go over a survey of existing futures and forward contracts. We recommend two good introductory sources. The first is the Foreign Exchange and Money Markets, an introductory survey prepared by Reuters and published by Wiley. Hull (2014), Das (1994), and Wilmott (2006) are among the best sources for a detailed analysis of forward and futures contracts. There are many more fixed income instruments involving more complicated parameters than those discussed here. Some of these will certainly be examined in later chapters. But reading some market-oriented books that deal with technical aspects of these instruments may be helpful at this point. Two such books are Serrat and Tuckman (2011) and Questa (1999). McNeil et al. (2005) provide a review of quantitative risk management and VaR.  
 
 # APPENDIX—CALCULATING THE YIELD CURVE  
 
 How do we calculate the (government) yield curve?35 The traditional way of calculating yield curves starts with liquid bond prices and then obtains the discounts and related yields. Thus, the method first calculates the implied zero-coupon prices, and then the corresponding yields and forward rates from observed coupon bond prices.  
 
-We will briefly review this approach to yield curve calculation. It may still be useful in markets where liquid interest rate [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) do not trade. First, we need to summarize the concepts.  
+We will briefly review this approach to yield curve calculation. It may still be useful in markets where liquid interest rate derivatives do not trade. First, we need to summarize the concepts.  
 
 # PAR YIELD CURVE  
 
@@ -1179,7 +1179,7 @@ Consider a straight coupon bond with coupon rate $c$ exactly equaling the yield 
 
 We can write the present value of a three-period par bond, paying interest annually, as  
 $$
-100=\frac{100c}{\left(1+y\right)}+\frac{100c}{\left(1+y\right)^{2}}+\frac{100(1+c)}{\left(1+y\right)^{2}}
+[^100]: =\frac{100c}{\left(1+y\right)}+\frac{100c}{\left(1+y\right)^{2}}+\frac{100(1+c)}{\left(1+y\right)^{2}}
 $$  
 
 where the par yield implies that $c=y$ .  
@@ -1204,8 +1204,8 @@ $$
 \begin{array}{c}{B(0,1)=96.00}\\ {B(0,2)=91.00}\\ {B(0,3)=87.00}\end{array}
 $$  
 
-1. What are the zero-coupon yields?   
-2. What are the par yields for the same maturities? To calculate the zero-coupon yields, we use the following formula:  
+[^1]: What are the zero-coupon yields?
+[^2]: What are the par yields for the same maturities? To calculate the zero-coupon yields, we use the following formula:
 $$
 B(t,T)=\frac{100}{(1+y_{t}^{T})^{T-t}}
 $$  
@@ -1225,7 +1225,7 @@ $$
 P(t_{0},T)=\sum_{i=0}^{n}\tilde{y}B(t_{0},t_{i})+B(t_{0},T)=100
 $$  
 
-The $\tilde{y}$ that satisfies this equation will be the par yield for maturity $T.$ . The idea here is that, when discounted by the correct [discount rate](../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md), the sum of the cash flows generated by a par bond should equal 100; i.e., we must have $\begin{array}{r}{P(t_{0},T)=100.}\end{array}$ Only one $\tilde{y}$ will make this possible for every $T_{\mathbf{\delta}}$ .  
+The $\tilde{y}$ that satisfies this equation will be the par yield for maturity $T.$ . The idea here is that, when discounted by the correct discount rate, the sum of the cash flows generated by a par bond should equal 100; i.e., we must have $\begin{array}{r}{P(t_{0},T)=100.}\end{array}$ Only one $\tilde{y}$ will make this possible for every $T_{\mathbf{\delta}}$ .  
 
 Calculating the par yields, we obtain  
 $$
@@ -1236,10 +1236,10 @@ As these numbers show, the par yields and the zero-coupon yields are slightly di
 
 # ZERO-COUPON CURVE FROM COUPON BONDS  
 
-Traditional methods of calculating the yield curve involve obtaining a zero-coupon yield curve from arbitrary coupon bond prices. This procedure is somewhat outdated now, but it may still be useful in economies with newly developing [financial markets](../../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md). Also, the method is a good illustration of how synthetic asset creation can be used in yield curve construction. It is important to remember that all these calculations refer to default-free bonds.  
+Traditional methods of calculating the yield curve involve obtaining a zero-coupon yield curve from arbitrary coupon bond prices. This procedure is somewhat outdated now, but it may still be useful in economies with newly developing financial markets. Also, the method is a good illustration of how synthetic asset creation can be used in yield curve construction. It is important to remember that all these calculations refer to default-free bonds.  
 
-Consider a 2-year coupon bond. The default-free bond carries an annual coupon of $c$ percent and has a current price of $P$ $\textit{P}(t,t+2)$ . The value at maturity is 100. Suppose we know the level of the current [annual interest rate](../../Financial%20Instruments/Review%20Session%20Notes/Continuously%20Compounding%20Interest.md) $\boldsymbol{r}_{t}$ .36 Then the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
-$\left\{\frac{100c}{\left(1+r_{t}\right)}\right.$ units of time $t$ borrowing; and buying two-period coupon bond; $P(t,t+2)\Bigg\}$ will yield the [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) equivalent to $1+c$ units of a two-period discount bond. Thus, we have  
+Consider a 2-year coupon bond. The default-free bond carries an annual coupon of $c$ percent and has a current price of $P$ $\textit{P}(t,t+2)$ . The value at maturity is 100. Suppose we know the level of the current annual interest rate $\boldsymbol{r}_{t}$ .36 Then the portfolio  
+$\left\{\frac{100c}{\left(1+r_{t}\right)}\right.$ units of time $t$ borrowing; and buying two-period coupon bond; $P(t,t+2)\Bigg\}$ will yield the cash flow equivalent to $1+c$ units of a two-period discount bond. Thus, we have  
 $$
 P(t,t+2)-\frac{100c}{1+r_{t}}=(100(1+c))/(1+y_{t}^{2})^{2}
 $$  
@@ -1248,11 +1248,11 @@ If the coupon bond price $P(t,\ t+2)$ and the 1-year interest rate $\boldsymbol{
 
 # EXERCISES  
 
-1. You have a 4-year coupon bond that pays semiannual interest. The coupon rate is $8\%$ and the par value is 100. a. Can you construct a synthetic equivalent of this bond? Be explicit and show your cash flows. b. Price this coupon bond assuming the following [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) (represented by bid/ask prices at annual frequency) and by using a linear interpolation to discount semi-annual cashflows: $B_{1}=0.90/0.91,\quad B_{2}=0.87/0.88,\quad B_{3}=0.82/0.83,\quad B_{4}=0.80/0.81$  
+[^1]: You have a 4-year coupon bond that pays semiannual interest. The coupon rate is $8\%$ and the par value is 100. a. Can you construct a synthetic equivalent of this bond? Be explicit and show your cash flows. b. Price this coupon bond assuming the following term structure (represented by bid/ask prices at annual frequency) and by using a linear interpolation to discount semi-annual cashflows: $B_{1}=0.90/0.91,\quad B_{2}=0.87/0.88,\quad B_{3}=0.82/0.83,\quad B_{4}=0.80/0.81$
 
 c. What is the $1\times2$ FRA rate?  
 
-2. You have purchased 1 Eurodollar contract at a price of $Q_{0}=94.13$ , with an initial margin of $5\%$ . You keep the contract for 5 days and then sell it by taking the opposite position. In the meantime, you observe the following settlement prices:  
+[^2]: You have purchased 1 Eurodollar contract at a price of $Q_{0}=94.13$ , with an initial margin of $5\%$ . You keep the contract for 5 days and then sell it by taking the opposite position. In the meantime, you observe the following settlement prices:
 $$
 \{Q_{1}=94.23,Q_{2}=94.03,Q_{3}=93.93,Q_{4}=93.43,Q_{5}=93.53\}
 $$  
@@ -1262,47 +1262,47 @@ a. Calculate the string of mark-to-market losses or gains.
 b. Suppose the spot interest rate during this 5-day period was unchanged at $6.9\%$ . What is the total interest gained or paid on the clearing firm account?   
 c. What are the total gains and losses at settlement?  
 
-3. The treasurer of a small bank has borrowed funds for 3 months at an interest rate of $6.73\%$ and has lent funds for 6 months at $7.87\%$ . The total amount is USD38 million.  
+[^3]: The treasurer of a small bank has borrowed funds for 3 months at an interest rate of $6.73\%$ and has lent funds for 6 months at $7.87\%$ . The total amount is USD38 million.
 
 To cover his exposure created by the mismatch of maturities, the dealer needs to borrow another USD38 million for months, in 3 months’ time, and hedge the position now with an FRA. The market has the following quotes from three dealers:  
 
 <html><body><table><tr><td>BANKA</td><td>3X6</td><td>6.92-83</td></tr><tr><td>BANKB</td><td>3X6</td><td>6.87-78</td></tr><tr><td>BANK C</td><td>3X6</td><td>6.89-80</td></tr></table></body></html>  
 
-a. What is (are) the exposure(s) of this treasurer? Represent the result on [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) diagrams. b. Calculate this treasurer’s break-even [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) of interest, assuming no other costs. c. What is the best FRA rate offered to this treasurer?  
+a. What is (are) the exposure(s) of this treasurer? Represent the result on cash flow diagrams. b. Calculate this treasurer’s break-even forward rate of interest, assuming no other costs. c. What is the best FRA rate offered to this treasurer?  
 
 d. Calculate the settlement amount that would be received (paid) by the treasurer if, on the settlement date, the LIBOR fixing was $6.09\%$ .  
 
-4. A corporation will receive USD7 million in 3 months’ time for a period of 3 months. The current 3-month [interest rate quotes](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) are $5.67-5.61\$ . The [Eurodollar futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Convexity-Adjusted%20Models%20for%20LIBOR%20Forwards%20Qu.md) price is 94.90. Suppose in 3 months the interest rate becomes $5.25\%$ for 3-month Eurodeposits and the [Eurodollar futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Convexity-Adjusted%20Models%20for%20LIBOR%20Forwards%20Qu.md) price is 94.56. a. How many ticks has the [futures price](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Futures%20Price%20and%20the%20Quality%20Option%20Before%20E.md) moved? b. How many [futures contracts](../Mathematics%20of%20the%20Financial%20Markets.md) should this investor buy or sell if she wants to lock in the current rates? c. What is the profit (loss) for an investor who bought the contract at 94.90?  
+[^4]: A corporation will receive USD7 million in 3 months’ time for a period of 3 months. The current 3-month interest rate quotes are $5.67-5.61\$ . The Eurodollar futures price is 94.90. Suppose in 3 months the interest rate becomes $5.25\%$ for 3-month Eurodeposits and the Eurodollar futures price is 94.56. a. How many ticks has the futures price moved? b. How many futures contracts should this investor buy or sell if she wants to lock in the current rates? c. What is the profit (loss) for an investor who bought the contract at 94.90?
 
-5. Suppose practitioners learn that the ICE Benchmark Administration (IBA) will change the panel of banks used to calculate the yen LIBOR. One or more of the “weaker” banks will be replaced by “stronger” banks at a future date. IBA replaced the British Banker’s Association (BBA) in 1 February 2014.  
+[^5]: Suppose practitioners learn that the ICE Benchmark Administration (IBA) will change the panel of banks used to calculate the yen LIBOR. One or more of the “weaker” banks will be replaced by “stronger” banks at a future date. IBA replaced the British Banker’s Association (BBA) in 1 February 2014.
 
 The issue here is not whether yen LIBOR will go down, as a result of the panel now being “stronger.” In fact, due to market movements, even with stronger banks in the panel, the yen LIBOR may in the end go up significantly. Rather, what is being anticipated is that the yen LIBOR should decrease in London relative to other yen fixings, such as Tibor. Thus, to benefit from such a BBA move, the market practitioner must form a position where the risks originating from market movements are eliminated and the “only” relevant variable remains the decision by the BBA.  
 
 a. How would a trader benefit from such a change without taking on too much risk?  
 
-b. Using [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) diagrams, show how this can be done.  
+b. Using cash flow diagrams, show how this can be done.  
 
 c. In fact, show which spread FRA position can be taken. Make sure that the position is (mostly) neutral toward market movements and can be created, the only significant variable being the decision by the IBA.  
 
-(From Thomson Reuters IFR, issue 1267) Traders lost money last week following the British Bankers’ Association (BBA) decision to remove one Japanese bank net from the yen LIBOR fixing panel. The market had been [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) in no significant changes to the panel just the day before the changes were announced.  
+(From Thomson Reuters IFR, issue 1267) Traders lost money last week following the British Bankers’ Association (BBA) decision to remove one Japanese bank net from the yen LIBOR fixing panel. The market had been pricing in no significant changes to the panel just the day before the changes were announced.  
 
-Prior to the review, a number of dealers were reported to have been short the LIBOR/ Tibor spread by around 17 bp, through a twos into fives [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) agreement (FRA) spread contract. This was in essence a bet that the Japanese presence on the LIBOR fixing panel would be maintained.  
+Prior to the review, a number of dealers were reported to have been short the LIBOR/ Tibor spread by around 17 bp, through a twos into fives forward rate agreement (FRA) spread contract. This was in essence a bet that the Japanese presence on the LIBOR fixing panel would be maintained.  
 
-When the results of the review were announced on Wednesday January 20, the spread moved out by around 5 bp to around 22 bp—leaving the dealers with mark-to-market losses. Some were also caught out by a sharp movement in the one-year yen/dollar LIBOR [basis swap](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Basis%20Swaps.md), which moved in from minus 26 bp to minus 14 bp.  
+When the results of the review were announced on Wednesday January 20, the spread moved out by around 5 bp to around 22 bp—leaving the dealers with mark-to-market losses. Some were also caught out by a sharp movement in the one-year yen/dollar LIBOR basis swap, which moved in from minus 26 bp to minus 14 bp.  
 
-The problems for the dealers were caused by BBA’s decision to alter the nature of the fixing panel, which essentially resulted in one Japanese bank being removed to be replaced by a foreign bank. Bank of China, [Citibank](../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HBS%20Citigroup%202007-Financial%20Reporting%20And%20Regulatory%20Capital.md), Tokai Bank and Sakura were taken out, while Deutsche Bank, Norinchukin Bank, Rabobank and WestLB were added.  
+The problems for the dealers were caused by BBA’s decision to alter the nature of the fixing panel, which essentially resulted in one Japanese bank being removed to be replaced by a foreign bank. Bank of China, Citibank, Tokai Bank and Sakura were taken out, while Deutsche Bank, Norinchukin Bank, Rabobank and WestLB were added.  
 
-The move immediately increased the overall [credit quality](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Wellman%20Inc%20the%20Importance%20of%20Loan%20Covenants.md) of the grouping of banks responsible for the fixing rate. This caused the yen LIBOR fix—the average cost of panel banks raising funds in the yen money market—to fall by 8 bp in a single day. Dealers said that one Japanese bank was equivalent to a 5 bp lower yen LIBOR rate and that the removal of the Bank of China was equivalent to a 1 bp or 2 bp reduction.  
+The move immediately increased the overall credit quality of the grouping of banks responsible for the fixing rate. This caused the yen LIBOR fix—the average cost of panel banks raising funds in the yen money market—to fall by 8 bp in a single day. Dealers said that one Japanese bank was equivalent to a 5 bp lower yen LIBOR rate and that the removal of the Bank of China was equivalent to a 1 bp or 2 bp reduction.  
 
 Away from the immediate trading losses, market reaction to the panel change was mixed. The move was welcomed by some, who claimed that the previous panel was unrepresentative of the yen cash business being done.  
 
 “Most of the cash is traded in London by foreign banks. It doesn’t make sense to have half Japanese banks on the panel,” said one yen swaps dealer. He added that because of the presence of a number of Japanese banks on the panel, yen LIBOR rates were being pushed above where most of the active yen cash participants could fund themselves in the market. Others, however, disagreed. “It’s a domestic [Japanese] market at the end of the day. The BBA could now lose credibility in Japan,” said one US bank money markets trader. BBA officials said the selections were made by the BBA’s FX and Money Markets Advisory Panel, following private nominations and discussions with the BBA LIBOR Steering Group. They said the aim of the advisory panel was to ensure that the contributor panels broadly reflected the “balance of activity in the interbank deposit market.”  
 
-6. You are given the following information:  
+[^6]: You are given the following information:
 
 <html><body><table><tr><td>3-m LIBOR</td><td>3.2%</td><td>92 days</td></tr><tr><td>3 X6FRA</td><td>3.3%-3.4%</td><td>90 days</td></tr><tr><td>6X9FRA</td><td>3.6%-3.7%</td><td>90 days</td></tr><tr><td>9 X12FRA</td><td>3.8%-3.9%</td><td>90 days</td></tr></table></body></html>  
 
-a. Show how to construct a synthetic 9-month loan with fixed rate beginning with a 3-month loan. Plot the [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) diagram. b. What is the fixed 9-month borrowing cost? 7. Consider the following instruments and the corresponding quotes. a. Rank these instruments in increasing order of their yields.  
+a. Show how to construct a synthetic 9-month loan with fixed rate beginning with a 3-month loan. Plot the cash flow diagram. b. What is the fixed 9-month borrowing cost? 7. Consider the following instruments and the corresponding quotes. a. Rank these instruments in increasing order of their yields.  
 
 <html><body><table><tr><td>Instrument</td><td>Quote</td></tr><tr><td>30-day US T-bill</td><td>5.5</td></tr><tr><td>30-day UK T-bill</td><td>5.4</td></tr><tr><td>30-day ECP</td><td>5.2</td></tr><tr><td>30-day interbank deposit USD</td><td>5.5</td></tr><tr><td>30-day US CP</td><td>5.6</td></tr></table></body></html>  
 
@@ -1312,20 +1312,20 @@ b. You purchase an ECP (Euro) with the following characteristics
 
 What payment do you have to make?  
 
-8. Determine the dollar settlement of the $3\times6$ FRA for the amount $\$300,000$ assuming (a) the settlement occurs on the date of loan initiation and (b) if settlement occurs on the date of loan repayment. Use the following data to carry out the calculations. [Interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) are expressed as stated annual [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md).  
+[^8]: Determine the dollar settlement of the $3\times6$ FRA for the amount $\$300,000$ assuming (a) the settlement occurs on the date of loan initiation and (b) if settlement occurs on the date of loan repayment. Use the following data to carry out the calculations. Interest rates are expressed as stated annual interest rates.
 $3\times6$ FRA rate $F_{t_{0}}=4.38\%$ and 3-m LIBOR rate $L_{t_{3}}=4.02\%$  
 
-9. Assume the [Eurodollar futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Convexity-Adjusted%20Models%20for%20LIBOR%20Forwards%20Qu.md) price at time $t_{0}$ is 93.83 and the contract expires in 3 months time a. Calculate the 3-month [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) implied by this price. b. Calculate the repayment amount for bonds with maturities of 3, 6, 9 and 12 months if the investor bought $\$5$ million future contracts.  
+[^9]: Assume the Eurodollar futures price at time $t_{0}$ is 93.83 and the contract expires in 3 months time a. Calculate the 3-month forward rate implied by this price. b. Calculate the repayment amount for bonds with maturities of 3, 6, 9 and 12 months if the investor bought $\$5$ million future contracts.
 
-0. Using the following bond price data calculate the $3\times6,6\times9,3\times9$ and $6\times12$ FRA rates.  
+[^0]: Using the following bond price data calculate the $3\times6,6\times9,3\times9$ and $6\times12$ FRA rates.
 $$
 B(t_{0},t_{1})=98.79,\quad B(t_{0},t_{2})=97.21,\quad B(t_{0},t_{3})=95.84,\quad B(t_{0},t_{4})=93.82
 $$  
 
-11. Barbell example.  
+[^11]: Barbell example.
 
-On June 16, 2014, a fund manager is considering the purchase of $\$1$ million face amount of US Treasury $1\textstyle{\frac{1}{2}}\mathbf{s}$ with a maturity date of May 31, 2019 at a cost of 990,468.75. The manager examines the bond further and, using his Bloomberg terminal, notices that the bond has a yield of $1.701\%$ and a [modified duration](../A%20Guide%20to%20Duration%20DV01%20and%20Yield%20Curve.md) of 4.748. Before deciding to buy the bond the manager considers the information in the following table about two other bonds:  
+On June 16, 2014, a fund manager is considering the purchase of $\$1$ million face amount of US Treasury $1\textstyle{\frac{1}{2}}\mathbf{s}$ with a maturity date of May 31, 2019 at a cost of 990,468.75. The manager examines the bond further and, using his Bloomberg terminal, notices that the bond has a yield of $1.701\%$ and a modified duration of 4.748. Before deciding to buy the bond the manager considers the information in the following table about two other bonds:  
 
-<html><body><table><tr><td colspan="6">Data on Three US Treasury Bonds as of June 16, 2014</td></tr><tr><td>Coupon</td><td>Maturity</td><td>Price</td><td>Yield</td><td>[Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)</td><td>[Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md)</td></tr><tr><td>#</td><td>May 31,2016</td><td>99.8398438</td><td>0.457%</td><td>1.943</td><td>0.048</td></tr><tr><td>1</td><td>May 31,2019</td><td>99.046875</td><td>1.701%</td><td>4.748</td><td>0.254</td></tr><tr><td>#</td><td>May 15,2024</td><td>99.140625</td><td>2.598%</td><td>8.701</td><td>0.859</td></tr></table></body></html>  
+<html><body><table><tr><td colspan="6">Data on Three US Treasury Bonds as of June 16, 2014</td></tr><tr><td>Coupon</td><td>Maturity</td><td>Price</td><td>Yield</td><td>Duration</td><td>Convexity</td></tr><tr><td>#</td><td>May 31,2016</td><td>99.8398438</td><td>0.457%</td><td>1.943</td><td>0.048</td></tr><tr><td>1</td><td>May 31,2019</td><td>99.046875</td><td>1.701%</td><td>4.748</td><td>0.254</td></tr><tr><td>#</td><td>May 15,2024</td><td>99.140625</td><td>2.598%</td><td>8.701</td><td>0.859</td></tr></table></body></html>  
 
-The three bonds in the table have maturities of approximately 2, 5, and 10 years. The fund manager could purchase the 112 bond or alternatively a barbell [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) consisting of the $0\%$ and the $2\%$ bonds. In a barbell [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), part of the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is made up of long-term bonds and the other part comprises very short-term bonds. The term “barbell” is based on the notion that the strategy resembles a barbell, heavily weighted at both ends and with nothing in between. Construct such a barbell [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and evaluate the alternative barbell strategy compared to the $1\%$ bond [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). Such barbell [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) should be constructed to cost the same and have the same [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) as the bullet [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). Your evaluation should consider the yield and the [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) of the $1\%$ bond relative to the barbell strategy.  
+The three bonds in the table have maturities of approximately 2, 5, and 10 years. The fund manager could purchase the 112 bond or alternatively a barbell portfolio consisting of the $0\%$ and the $2\%$ bonds. In a barbell portfolio, part of the portfolio is made up of long-term bonds and the other part comprises very short-term bonds. The term “barbell” is based on the notion that the strategy resembles a barbell, heavily weighted at both ends and with nothing in between. Construct such a barbell portfolio and evaluate the alternative barbell strategy compared to the $1\%$ bond investment. Such barbell portfolio should be constructed to cost the same and have the same duration as the bullet investment. Your evaluation should consider the yield and the convexity of the $1\%$ bond relative to the barbell strategy.

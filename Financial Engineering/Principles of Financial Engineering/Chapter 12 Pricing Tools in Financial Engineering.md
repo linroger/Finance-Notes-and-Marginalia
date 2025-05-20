@@ -9,37 +9,37 @@ category: "Principles of Financial Engineering"
 
 # CHAPTER OUTLINE  
 
-12.1 Introduction . 394  
-12.2 Summary of Pricing Approaches. 395  
-12.3 The Framework . 396  
-12.3.1 States of the World . 396   
-12.3.2 The Payoff Matrix . 398   
-12.3.3 The Fundamental Theorem. 398   
-12.3.4 Definition of an Arbitrage Opportunity . 399   
-12.3.5 Interpreting the $Q^{j}$: State Prices. 399   
-12.3.5.1 Remarks . 401  
-12.4 An Application . 401  
-12.4.1 Obtaining the $\omega^{j}$ 402   
-12.4.2 Elementary Contracts and Options 405   
-12.4.3 Elementary Contracts and Replication . 406  
-12.5 Implications of the Fundamental Theorem. 408  
-12.5.1 Result 1: Risk-Adjusted Probabilities 408   
-12.5.1.1 Risk-neutral probabilities 409   
-12.5.1.2 Other probabilities . 409   
-12.5.1.3 A remark. 411   
-12.5.1.4 Swap measure. 412   
-12.5.2 Result 2: Martingale Property 412   
-12.5.2.1 Martingales under $\tilde{P}$ . 412   
-12.5.2.2 Martingales under other probabilities 413   
-12.5.3 Result 3: Expected Returns. 413   
-12.5.3.1 Martingales and risk premia. 414  
-12.6 Arbitrage-Free Dynamics. 415  
-12.6.1 Arbitrage-Free SDEs 415   
-12.6.2 Tree Models . 416   
-12.6.2.1 Case 1 . 417   
-12.6.2.2 Case 2 . 419  
-12.7 Which Pricing Method to Choose?. 419  
-12.8 Conclusions. 420  
+[^12]: 1 Introduction . 394
+[^12]: 2 Summary of Pricing Approaches. 395
+[^12]: 3 The Framework . 396
+[^12]: 3.1 States of the World . 396
+[^12]: 3.2 The Payoff Matrix . 398
+[^12]: 3.3 The Fundamental Theorem. 398
+[^12]: 3.4 Definition of an Arbitrage Opportunity . 399
+[^12]: 3.5 Interpreting the $Q^{j}$: State Prices. 399
+[^12]: 3.5.1 Remarks . 401
+[^12]: 4 An Application . 401
+[^12]: 4.1 Obtaining the $\omega^{j}$ 402
+[^12]: 4.2 Elementary Contracts and Options 405
+[^12]: 4.3 Elementary Contracts and Replication . 406
+[^12]: 5 Implications of the Fundamental Theorem. 408
+[^12]: 5.1 Result 1: Risk-Adjusted Probabilities 408
+[^12]: 5.1.1 Risk-neutral probabilities 409
+[^12]: 5.1.2 Other probabilities . 409
+[^12]: 5.1.3 A remark. 411
+[^12]: 5.1.4 Swap measure. 412
+[^12]: 5.2 Result 2: Martingale Property 412
+[^12]: 5.2.1 Martingales under $\tilde{P}$ . 412
+[^12]: 5.2.2 Martingales under other probabilities 413
+[^12]: 5.3 Result 3: Expected Returns. 413
+[^12]: 5.3.1 Martingales and risk premia. 414
+[^12]: 6 Arbitrage-Free Dynamics. 415
+[^12]: 6.1 Arbitrage-Free SDEs 415
+[^12]: 6.2 Tree Models . 416
+[^12]: 6.2.1 Case 1 . 417
+[^12]: 6.2.2 Case 2 . 419
+[^12]: 7 Which Pricing Method to Choose?. 419
+[^12]: 8 Conclusions. 420
 Suggested Reading . 420   
 Appendix 12.1: Simple Economics of the Fundamental Theorem . 420   
 Exercises . 422   
@@ -90,12 +90,12 @@ $$
 
 Suppose, at a future date $T$, with $t_{n}=T$, there are only $n=4$ states of the world. We consider the task of defining these states.  
 
-1. Set the value of some grid parameter $\Delta S$ to assign neighboring values of $S_{T}$ into a single state. For example, let  
+[^1]: Set the value of some grid parameter $\Delta S$ to assign neighboring values of $S_{T}$ into a single state. For example, let
 $$
 \Delta S=2
 $$  
 
-2. Next define the relevant intervals:  
+[^2]: Next define the relevant intervals:
 The first state of the world is the event  
 $$
 \omega^{1}=\{95<S_{T}<97\}
@@ -114,13 +114,13 @@ $$
 \omega^{4}=\{103<S_{T}<107\}
 $$  
 
-3. These are the states of the world. Note that the $\omega^{j}$ are non-intersecting and "fill" the range considered. As $\Delta S \to 0$, the states become more numerous and eventually converge to the uncountable case. In practice, $S_{T}$ has a "minimum tick," i.e., a smallest amount by which it can change, and the $\omega^{j}$ can be selected accordingly.  
+[^3]: These are the states of the world. Note that the $\omega^{j}$ are non-intersecting and "fill" the range considered. As $\Delta S \to 0$, the states become more numerous and eventually converge to the uncountable case. In practice, $S_{T}$ has a "minimum tick," i.e., a smallest amount by which it can change, and the $\omega^{j}$ can be selected accordingly.
 
-This discussion has two immediate implications. First, the notion of a state is in fact quite convenient. We partition all possible values of an asset price into a small number of states, and then use these to define various other concepts. Second, we obtained a simple framework where asset prices, or [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md), at time $T$ are described by how much they are worth in the $n$ different states of the world. During the following discussion, financial payoffs will be state-dependent. An investor will receive different payments in different states of the world. We now provide another example.  
+This discussion has two immediate implications. First, the notion of a state is in fact quite convenient. We partition all possible values of an asset price into a small number of states, and then use these to define various other concepts. Second, we obtained a simple framework where asset prices, or returns, at time $T$ are described by how much they are worth in the $n$ different states of the world. During the following discussion, financial payoffs will be state-dependent. An investor will receive different payments in different states of the world. We now provide another example.  
 
 ## EXAMPLE  
 
-Suppose a professional [investor](Economic%20Development%20in%20Asia%20and%20the%20Middle%20East.md) buys an FX option that expires at a future date $T = t_{10}$. The option is written on the euro/dollar exchange rate, $e_{t}$, which is quoted as the number of dollars per one euro. At time $t_{0}$, $e_{0}=0.900$. The professional [investor](Economic%20Development%20in%20Asia%20and%20the%20Middle%20East.md) buys a European style call that will give him or her the right to buy 1 million euros at the strike exchange rate $e^{*}=0.920$ if the option expires in-the-money. Let $C_{t}$ denote the price of this option.  
+Suppose a professional investor buys an FX option that expires at a future date $T = t_{10}$. The option is written on the euro/dollar exchange rate, $e_{t}$, which is quoted as the number of dollars per one euro. At time $t_{0}$, $e_{0}=0.900$. The professional investor buys a European style call that will give him or her the right to buy 1 million euros at the strike exchange rate $e^{*}=0.920$ if the option expires in-the-money. Let $C_{t}$ denote the price of this option.  
 
 We divide all possible values of $e_{T}$ into three states. The first state of the world will lead to "low" values of $e_{T}$. We define it as  
 $$
@@ -157,9 +157,9 @@ $$
 That is to say, given the described states of the world, the option has the payoffs  
 $$
 C_{T} = \begin{cases}
-0 & \text{if } \omega^{1} \text{ is realized} \\
-1,000,000[e_{T}-0.920] & \text{if } \omega^{2} \text{ is realized} \\
-1,000,000[e_{T}-0.920] & \text{if } \omega^{3} \text{ is realized}
+[^0]: & \text{if } \omega^{1} \text{ is realized} \\
+[^1]: ,000,000[e_{T}-0.920] & \text{if } \omega^{2} \text{ is realized} \\
+[^1]: ,000,000[e_{T}-0.920] & \text{if } \omega^{3} \text{ is realized}
 \end{cases}
 $$  
 
@@ -193,13 +193,13 @@ $$
 S_{kT}^{1} < S_{kT}^{2} < \cdots < S_{kT}^{n}
 $$  
 
-assuming that the states are ranked from "worst" to "best" market performance. We call this matrix the [payoff matrix](../../Financial%20Instruments/Quant%20Finance%20Interviews/Quant%20Finance%20Interview%20Questions.md) or the table of [asset returns](../Financial%20Mathematics%20Course.md). In mathematical treatments of [asset pricing](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md), the matrix $D$ is also referred to as the dividend matrix because in a stock market setting, the $S_{kT}^{j}$ will represent the price and the accompanying dividends to be earned at time $T$. If the risk-free asset is selected to be a $T$-maturity pure discount bond with face value \$1, then the matrix in Equation (12.4) will have its first row equal to 1 in all states.  
+assuming that the states are ranked from "worst" to "best" market performance. We call this matrix the payoff matrix or the table of asset returns. In mathematical treatments of asset pricing, the matrix $D$ is also referred to as the dividend matrix because in a stock market setting, the $S_{kT}^{j}$ will represent the price and the accompanying dividends to be earned at time $T$. If the risk-free asset is selected to be a $T$-maturity pure discount bond with face value \$1, then the matrix in Equation (12.4) will have its first row equal to 1 in all states.  
 
 # 12.3.3 THE FUNDAMENTAL THEOREM  
 
-In this section, we state the first fundamental theorem of [asset pricing](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md). Let the pricing functions (see below) for time $t_{0}$ and time $T$ be denoted by the vectors $[\psi^{1}, \psi^{2}, \ldots, \psi^{n}]$ and $[\psi_{T}^{1}, \psi_{T}^{2}, \ldots, \psi_{T}^{n}]$, respectively. The [fundamental theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) says  
+In this section, we state the first fundamental theorem of asset pricing. Let the pricing functions (see below) for time $t_{0}$ and time $T$ be denoted by the vectors $[\psi^{1}, \psi^{2}, \ldots, \psi^{n}]$ and $[\psi_{T}^{1}, \psi_{T}^{2}, \ldots, \psi_{T}^{n}]$, respectively. The fundamental theorem says  
 
-If the [financial markets](../../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) under consideration do not permit any [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunities, then there exists positive constants $\{\psi^{j}\}$, $j = 1, \ldots, n$, such that the price of each asset can be expressed as  
+If the financial markets under consideration do not permit any arbitrage opportunities, then there exists positive constants $\{\psi^{j}\}$, $j = 1, \ldots, n$, such that the price of each asset can be expressed as  
 
 $$
 S_{kt_{0}} = \sum_{j=1}^{n} \psi^{j} S_{kT}^{j}
@@ -217,18 +217,18 @@ $$
 
 An immediate corollary follows as a result:  
 
-If and only if no [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) possibilities exist, there will be positive constants $\{Q^{j}\}$, $j = 1, \ldots, n$, such that the normalized price of each asset at time $t_{0}$ is given by the weighted sum  
+If and only if no arbitrage possibilities exist, there will be positive constants $\{Q^{j}\}$, $j = 1, \ldots, n$, such that the normalized price of each asset at time $t_{0}$ is given by the weighted sum  
 $$
 S_{kt_{0}} = B_{0,T} \sum_{j=1}^{n} Q^{j} S_{kT}^{j}
 $$  
 
 where $B_{0,T}$ is the time-$t_{0}$ price of a T-maturity pure discount bond.  
 
-The weights $\{Q^{j}\}$ sum to one. We call $Q^{j}$ the state prices because, according to this representation, prices of all assets will be linear combinations of these same weights. State prices summarize all the information needed to price securities linearly as long as [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunities do not exist.  
+The weights $\{Q^{j}\}$ sum to one. We call $Q^{j}$ the state prices because, according to this representation, prices of all assets will be linear combinations of these same weights. State prices summarize all the information needed to price securities linearly as long as arbitrage opportunities do not exist.  
 
 # 12.3.4 DEFINITION OF AN ARBITRAGE OPPORTUNITY  
 
-A portfolio $\theta = \{\theta^{1}, \ldots, \theta^{m}\}$ is said to offer a Type 1 [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity if it does not require any initial investment and has positive value in the future with positive probability. That is,  
+A portfolio $\theta = \{\theta^{1}, \ldots, \theta^{m}\}$ is said to offer a Type 1 arbitrage opportunity if it does not require any initial investment and has positive value in the future with positive probability. That is,  
 $$
 \sum_{k=1}^{m} \theta^{k} S_{kt_{0}} = 0
 $$  
@@ -238,7 +238,7 @@ $$
 $$  
 with strict inequality for at least one $j$.  
 
-Similarly, a portfolio $\theta = \{\theta^{1}, \ldots, \theta^{m}\}$ is said to offer a Type 2 [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity if it requires a negative initial investment (i.e., it has positive initial income) and has a zero or positive value in the future with certainty. That is,  
+Similarly, a portfolio $\theta = \{\theta^{1}, \ldots, \theta^{m}\}$ is said to offer a Type 2 arbitrage opportunity if it requires a negative initial investment (i.e., it has positive initial income) and has a zero or positive value in the future with certainty. That is,  
 $$
 \sum_{k=1}^{m} \theta^{k} S_{kt_{0}} < 0
 $$  
@@ -249,11 +249,11 @@ $$
 
 # 12.3.5 INTERPRETING THE $Q^{j}$: STATE PRICES  
 
-The state prices $\{Q^{j}\}$ obviously play an important role. According to the fundamental theorem, these (positive) weights are sufficient to price all assets in a linear fashion. An immediate question is: Do the $Q^{j}$ represent some sort of probabilities? If so, whose probabilities are they? Also, where do they come from? In the following discussion, we clarify these questions. We begin with the second [fundamental theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md):  
+The state prices $\{Q^{j}\}$ obviously play an important role. According to the fundamental theorem, these (positive) weights are sufficient to price all assets in a linear fashion. An immediate question is: Do the $Q^{j}$ represent some sort of probabilities? If so, whose probabilities are they? Also, where do they come from? In the following discussion, we clarify these questions. We begin with the second fundamental theorem:  
 
-[Arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunities are completely eliminated if and only if there exists a unique set of positive state prices $\{Q^{j}, j = 1, \ldots, n\}$.  
+Arbitrage opportunities are completely eliminated if and only if there exists a unique set of positive state prices $\{Q^{j}, j = 1, \ldots, n\}$.  
 
-Note that the $\{Q^{j}\}$ will be unique if the markets are [complete](../../Stochastic%20Calculus%20for%20Finance%20and%20Economics/Teaching%20Notes/The%20Binomial%20Asset%20Pricing%20Model.md). When markets are [complete](../../Stochastic%20Calculus%20for%20Finance%20and%20Economics/Teaching%20Notes/The%20Binomial%20Asset%20Pricing%20Model.md), the number of states $n$ equals the number of "independent" assets in the market, so the payoff matrix $D$ is of full rank.  
+Note that the $\{Q^{j}\}$ will be unique if the markets are complete. When markets are complete, the number of states $n$ equals the number of "independent" assets in the market, so the payoff matrix $D$ is of full rank.  
 
 ## EXAMPLE  
 
@@ -262,7 +262,7 @@ $$
 \{\omega^{1}, \omega^{2}, \omega^{3}\}
 $$  
 
-We can now calculate the set of state prices. If no-[arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) possibilities exist, then there are positive constants $Q^{1}$, $Q^{2}$, and $Q^{3}$ such that  
+We can now calculate the set of state prices. If no-arbitrage possibilities exist, then there are positive constants $Q^{1}$, $Q^{2}$, and $Q^{3}$ such that  
 $$
 S_{1}(t_{0}) = B_{0,T}[Q^{1}(1) + Q^{2}(1) + Q^{3}(1)]
 $$  
@@ -283,10 +283,10 @@ i.e., the $Q^{j}$ sum to one.
 
 The second and third equations become  
 $$
-7.85 = 0.95[Q^{1}(10) + Q^{2}(10) + Q^{3}(10)]
+[^7]: 85 = 0.95[Q^{1}(10) + Q^{2}(10) + Q^{3}(10)]
 $$  
 $$
-10.15 = 0.95[Q^{1}(20) + Q^{2}(11) + Q^{3}(16)]
+[^10]: 15 = 0.95[Q^{1}(20) + Q^{2}(11) + Q^{3}(16)]
 $$  
 
 From the second equation:  
@@ -298,13 +298,13 @@ But we know from the first equation that the $Q$'s must sum to 1, not 0.826. Thi
 
 Actually, looking more carefully at the structure, we have a system of three equations with three unknowns. The correct setup is:  
 $$
-0.95 = 0.95[Q^{1} + Q^{2} + Q^{3}]
+[^0]: 95 = 0.95[Q^{1} + Q^{2} + Q^{3}]
 $$  
 $$
-7.85 = 0.95[10Q^{1} + 10Q^{2} + 10Q^{3}]
+[^7]: 85 = 0.95[10Q^{1} + 10Q^{2} + 10Q^{3}]
 $$  
 $$
-10.15 = 0.95[20Q^{1} + 11Q^{2} + 16Q^{3}]
+[^10]: 15 = 0.95[20Q^{1} + 11Q^{2} + 16Q^{3}]
 $$  
 
 From the first equation: $Q^{1} + Q^{2} + Q^{3} = 1$  
@@ -314,13 +314,13 @@ This gives us a contradiction. The issue appears to be that asset 2 pays the sam
 
 Now the equations become:  
 $$
-0.95 = 0.95[Q^{1} + Q^{2} + Q^{3}]
+[^0]: 95 = 0.95[Q^{1} + Q^{2} + Q^{3}]
 $$  
 $$
-7.85 = 0.95[10Q^{1} + 8Q^{2} + 7Q^{3}]
+[^7]: 85 = 0.95[10Q^{1} + 8Q^{2} + 7Q^{3}]
 $$  
 $$
-10.15 = 0.95[20Q^{1} + 11Q^{2} + 16Q^{3}]
+[^10]: 15 = 0.95[20Q^{1} + 11Q^{2} + 16Q^{3}]
 $$  
 
 From the first equation: $Q^{1} + Q^{2} + Q^{3} = 1$  
@@ -342,13 +342,13 @@ These state prices can be interpreted as "risk-adjusted probabilities" - they in
 
 Several important points should be emphasized:  
 
-1. The state prices $Q^{j}$ are not true probabilities in the usual sense. They are risk-adjusted probabilities that account for both time preference and risk aversion.  
+[^1]: The state prices $Q^{j}$ are not true probabilities in the usual sense. They are risk-adjusted probabilities that account for both time preference and risk aversion.
 
-2. The uniqueness of state prices depends on market completeness. In incomplete markets, there may be multiple sets of state prices consistent with no-[arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md).  
+[^2]: The uniqueness of state prices depends on market completeness. In incomplete markets, there may be multiple sets of state prices consistent with no-arbitrage.
 
-3. State prices can be extracted from market prices of traded securities, making them observable rather than purely theoretical constructs.  
+[^3]: State prices can be extracted from market prices of traded securities, making them observable rather than purely theoretical constructs.
 
-4. The relationship between state prices and actual probabilities involves risk premia, which reflect market participants' attitudes toward risk.  
+[^4]: The relationship between state prices and actual probabilities involves risk premia, which reflect market participants' attitudes toward risk.
 
 # 12.4 AN APPLICATION  
 
@@ -383,13 +383,13 @@ This demonstrates how state prices provide a straightforward method for pricing 
 
 In practice, defining states of the world requires careful consideration of market dynamics and the specific assets being priced. There are several approaches:  
 
-1. **Historical Analysis**: Use past data to identify distinct market regimes or scenarios.  
+[^1]: **Historical Analysis**: Use past data to identify distinct market regimes or scenarios.
 
-2. **Economic Scenarios**: Define states based on macroeconomic conditions (recession, normal growth, boom).  
+[^2]: **Economic Scenarios**: Define states based on macroeconomic conditions (recession, normal growth, boom).
 
-3. **Volatility Regimes**: Classify states by market volatility levels (low, medium, high).  
+[^3]: **Volatility Regimes**: Classify states by market volatility levels (low, medium, high).
 
-4. **Model-Based**: Use stochastic models to generate state definitions.  
+[^4]: **Model-Based**: Use stochastic models to generate state definitions.
 
 The choice of states affects the resulting state prices and asset valuations, making this a critical step in implementation.  
 
@@ -418,7 +418,7 @@ This provides another interpretation of the fundamental theorem: all securities 
 
 # 12.4.3 ELEMENTARY CONTRACTS AND REPLICATION  
 
-The connection between elementary securities and [replication](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) strategies is fundamental to [derivative pricing](../Advanced%20Derivatives%20Pricing%20Methodology.md).  
+The connection between elementary securities and replication strategies is fundamental to derivative pricing.  
 
 ## EXAMPLE  
 
@@ -426,22 +426,22 @@ To replicate a European put option with strike $K=100$ on our stock:
 
 Put payoffs: {20, 0, 0} in states {1, 2, 3}  
 
-[Replication](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md):  
+Replication:  
 - Buy 20 units of elementary security 1  
 - Buy 0 units of elementary security 2  
 - Buy 0 units of elementary security 3  
 
 Cost: $20 \times B_{0,T} \times Q^{1} = 20 \times 0.95 \times 0.2 = 3.8$  
 
-This [replication](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) approach extends to more complex derivatives and provides the foundation for dynamic [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) strategies in continuous-time models.  
+This replication approach extends to more complex derivatives and provides the foundation for dynamic hedging strategies in continuous-time models.  
 
 # 12.5 IMPLICATIONS OF THE FUNDAMENTAL THEOREM  
 
-The [fundamental theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) has several important implications for financial engineering and [asset pricing](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md).  
+The fundamental theorem has several important implications for financial engineering and asset pricing.  
 
 # 12.5.1 RESULT 1: RISK-ADJUSTED PROBABILITIES  
 
-The state prices $Q^{j}$ can be interpreted as risk-adjusted probabilities. This interpretation leads to the risk-neutral [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formula:  
+The state prices $Q^{j}$ can be interpreted as risk-adjusted probabilities. This interpretation leads to the risk-neutral pricing formula:  
 
 $$
 S_{kt_{0}} = E^Q[B_{0,T} \cdot S_{kT}]
@@ -456,7 +456,7 @@ Risk-neutral probabilities are the state prices normalized to sum to one. They r
 Under risk-neutral probabilities:  
 - All assets have the same expected return (the risk-free rate)  
 - Risk premia are zero  
-- [Pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formulas simplify to discounted expected values  
+- Pricing formulas simplify to discounted expected values  
 
 ## EXAMPLE  
 
@@ -476,9 +476,9 @@ $$
 
 Besides risk-neutral probabilities, other equivalent probability measures are useful in specific contexts:  
 
-1. **Forward Measure**: Used for [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) interest rate derivatives  
-2. **T-forward Measure**: Simplifies [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of options on [futures](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)  
-3. **Swap Measure**: Used in swap [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and [swaption valuation](../Arbitrage-Free%20Valuation%20Framework.md)  
+[^1]: **Forward Measure**: Used for pricing interest rate derivatives
+[^2]: **T-forward Measure**: Simplifies pricing of options on futures
+[^3]: **Swap Measure**: Used in swap pricing and swaption valuation
 
 Each measure choice corresponds to a different numeraire, and the fundamental theorem guarantees consistency across all measures.  
 
@@ -494,10 +494,10 @@ where $\lambda_{s}$ is the market price of risk and $W_{s}$ is a Brownian motion
 
 # 12.5.1.4 Swap measure  
 
-The swap measure is particularly useful for [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) [interest rate derivatives](../../Advanced%20Derivatives%20and%20Applications/Interest%20Rate%20Derivatives%20and%20Models.md). Under the swap measure:  
-- The numeraire is the [value of](../Empirical%20Methods%20in%20Market%20Efficiency%20and%20Asset%20Pricing.md) a [swap](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Interest-Rate%20Swaps.md) annuity  
-- [Forward swap rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Floating%20Rate%20Note%20and%20Swap%20Carry.md) are martingales  
-- Swaption [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formulas simplify  
+The swap measure is particularly useful for pricing interest rate derivatives. Under the swap measure:  
+- The numeraire is the value of a swap annuity  
+- Forward swap rates are martingales  
+- Swaption pricing formulas simplify  
 
 # 12.5.2 RESULT 2: MARTINGALE PROPERTY  
 
@@ -507,7 +507,7 @@ $$
 S_{kt} = E^Q_{t}[B_{t,T} \cdot S_{kT}]
 $$  
 
-This property is fundamental to [derivative pricing](../Advanced%20Derivatives%20Pricing%20Methodology.md) and [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md).  
+This property is fundamental to derivative pricing and hedging.  
 
 # 12.5.2.1 Martingales under $\tilde{P}$  
 
@@ -522,7 +522,7 @@ $$
 Under different equivalent measures, different quantities become martingales:  
 - Under $Q$: Discounted prices $S_{t}/B_{t}$  
 - Under T-forward measure: Forward prices $F_{t,T}$  
-- Under swap measure: [Forward swap rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Floating%20Rate%20Note%20and%20Swap%20Carry.md)  
+- Under swap measure: Forward swap rates  
 
 # 12.5.3 RESULT 3: EXPECTED RETURNS  
 
@@ -532,25 +532,25 @@ $$
 E^Q\left[\frac{S_{kT}}{S_{kt}}\right] = e^{r(T-t)}
 $$  
 
-This result simplifies [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) calculations significantly.  
+This result simplifies pricing calculations significantly.  
 
 # 12.5.3.1 Martingales and risk premia  
 
-The difference between real-world and risk-neutral expected [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) is the risk premium:  
+The difference between real-world and risk-neutral expected returns is the risk premium:  
 
 $$
 E^P\left[\frac{S_{kT}}{S_{kt}}\right] - E^Q\left[\frac{S_{kT}}{S_{kt}}\right] = \text{Risk Premium}
 $$  
 
-This relationship links [asset pricing](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md) theory to [portfolio management](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%2011%20Mean-Variance%20Portfolio%20Theory.md) and [risk management](../Financial%20Mathematics%20Course.md).  
+This relationship links asset pricing theory to portfolio management and risk management.  
 
 # 12.6 ARBITRAGE-FREE DYNAMICS  
 
-The [fundamental theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) constrains the [dynamics of](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%2014-%20Interest%20Rate%20Options%20and%20Applications/Stochastic%20Volatility%20Revisited.md) asset prices to ensure no [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md).  
+The fundamental theorem constrains the dynamics of asset prices to ensure no arbitrage.  
 
 # 12.6.1 ARBITRAGE-FREE SDEs  
 
-In continuous time, [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free dynamics for asset prices follow:  
+In continuous time, arbitrage-free dynamics for asset prices follow:  
 
 $$
 \frac{dS_{t}}{S_{t}} = r dt + \sigma dW^{Q}_{t}
@@ -561,11 +561,11 @@ under the risk-neutral measure, where:
 - $\sigma$ is the volatility  
 - $W^{Q}_{t}$ is a Brownian motion under $Q$  
 
-For more complex models (stochastic volatility, jumps), the drift adjustment ensures the [discounted price](../Arbitrage-Free%20Valuation%20Framework.md) remains a martingale.  
+For more complex models (stochastic volatility, jumps), the drift adjustment ensures the discounted price remains a martingale.  
 
 # 12.6.2 TREE MODELS  
 
-Discrete-time models like binomial trees provide intuitive implementations of [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md).  
+Discrete-time models like binomial trees provide intuitive implementations of arbitrage-free pricing.  
 
 ## EXAMPLE  
 
@@ -574,19 +574,19 @@ In a one-period binomial model:
 - Up state: $S_{u} = S_{0} \cdot u$  
 - Down state: $S_{d} = S_{0} \cdot d$  
 
-No-[arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) requires: $d < 1+r < u$  
+No-arbitrage requires: $d < 1+r < u$  
 
 Risk-neutral probabilities:  
 $$
 q = \frac{(1+r) - d}{u - d}
 $$  
 $$
-1-q = \frac{u - (1+r)}{u - d}
+[^1]: -q = \frac{u - (1+r)}{u - d}
 $$  
 
 # 12.6.2.1 Case 1  
 
-Consider a two-period binomial tree for option [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md):  
+Consider a two-period binomial tree for option pricing:  
 
 Starting from $S_{0}=100$, with $u=1.2$, $d=0.8$, $r=0.05$:  
 - After 1 period: $S_{u}=120$ or $S_{d}=80$  
@@ -601,78 +601,78 @@ For a call with strike $K=100$:
 # 12.6.2.2 Case 2  
 
 Multi-period trees extend this framework:  
-1. Build the price tree using $u$ and $d$  
-2. Calculate risk-neutral probabilities  
-3. Find terminal payoffs  
-4. Work backward using risk-neutral [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)  
+[^1]: Build the price tree using $u$ and $d$
+[^2]: Calculate risk-neutral probabilities
+[^3]: Find terminal payoffs
+[^4]: Work backward using risk-neutral pricing
 
 This approach handles American options, path-dependent options, and complex payoffs.  
 
 # 12.7 WHICH PRICING METHOD TO CHOOSE?  
 
-Different [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) methods suit different situations:  
+Different pricing methods suit different situations:  
 
-1. **Closed-form solutions** (Black-Scholes): When available, fastest and most accurate  
+[^1]: **Closed-form solutions** (Black-Scholes): When available, fastest and most accurate
 
-2. **Trees**: Good for American options and simple path-dependence  
+[^2]: **Trees**: Good for American options and simple path-dependence
 
-3. **Monte Carlo**: Best for complex path-dependence and high dimensions  
+[^3]: **Monte Carlo**: Best for complex path-dependence and high dimensions
 
-4. **Finite differences**: Efficient for American options and certain exotics  
+[^4]: **Finite differences**: Efficient for American options and certain exotics
 
-5. **Fourier methods**: Powerful for models with known characteristic functions  
+[^5]: **Fourier methods**: Powerful for models with known characteristic functions
 
 The choice depends on:  
-- [Instrument complexity](../../Financial%20Instruments/Financial%20Instruments.md)  
+- Instrument complexity  
 - Required accuracy  
 - Computational resources  
 - Model assumptions  
 
 # 12.8 CONCLUSIONS  
 
-The [fundamental theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of [asset pricing](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md) provides a unifying framework for [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) in [financial markets](../../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md). Key insights include:  
+The fundamental theorem of asset pricing provides a unifying framework for pricing and hedging in financial markets. Key insights include:  
 
-1. No-[arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) implies the existence of state prices  
-2. State prices lead to risk-neutral probabilities  
-3. Risk-neutral [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) simplifies calculations  
-4. Martingale properties facilitate [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)  
-5. Multiple [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) methods implement these principles  
+[^1]: No-arbitrage implies the existence of state prices
+[^2]: State prices lead to risk-neutral probabilities
+[^3]: Risk-neutral pricing simplifies calculations
+[^4]: Martingale properties facilitate hedging
+[^5]: Multiple pricing methods implement these principles
 
 These tools form the foundation of modern mathematical finance and continue to evolve with market innovations.  
 
 # SUGGESTED READING  
 
-• Duffie, D. (2001). *Dynamic Asset Pricing Theory* (3rd ed.). Princeton University Press. - Rigorous treatment of continuous-time [asset pricing](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md)  
+• Duffie, D. (2001). *Dynamic Asset Pricing Theory* (3rd ed.). Princeton University Press. - Rigorous treatment of continuous-time asset pricing  
 
-• Harrison, J. M., & Kreps, D. M. (1979). "Martingales and arbitrage in multiperiod securities markets." *Journal of Economic Theory*, 20(3), 381-408. - Seminal paper on martingale [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)  
+• Harrison, J. M., & Kreps, D. M. (1979). "Martingales and arbitrage in multiperiod securities markets." *Journal of Economic Theory*, 20(3), 381-408. - Seminal paper on martingale pricing  
 
 • Harrison, J. M., & Pliska, S. R. (1981). "Martingales and stochastic integrals in the theory of continuous trading." *Stochastic Processes and their Applications*, 11(3), 215-260. - Extension to continuous time  
 
 • Shreve, S. E. (2004). *Stochastic Calculus for Finance II: Continuous-Time Models*. Springer. - Accessible introduction to continuous-time finance  
 
-• Delbaen, F., & Schachermayer, W. (1994). "A general version of the fundamental theorem of asset pricing." *Mathematische Annalen*, 300(1), 463-520. - Most general version of the [fundamental theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)  
+• Delbaen, F., & Schachermayer, W. (1994). "A general version of the fundamental theorem of asset pricing." *Mathematische Annalen*, 300(1), 463-520. - Most general version of the fundamental theorem  
 
 # APPENDIX 12.1: SIMPLE ECONOMICS OF THE FUNDAMENTAL THEOREM  
 
-The [fundamental theorem](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) can be understood through simple economic arguments.  
+The fundamental theorem can be understood through simple economic arguments.  
 
 Consider an economy with:  
 - One consumption good  
 - Multiple states of nature  
-- [Risk-averse investors](../Financial%20Modeling%20and%20Derivatives%20Pricing.md)  
-- No [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunities  
+- Risk-averse investors  
+- No arbitrage opportunities  
 
 In equilibrium:  
-1. Marginal rates of substitution across states determine state prices  
-2. State prices reflect both time preference and risk aversion  
-3. Assets are priced by their state-contingent payoffs  
-4. No-[arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) ensures consistency across all assets  
+[^1]: Marginal rates of substitution across states determine state prices
+[^2]: State prices reflect both time preference and risk aversion
+[^3]: Assets are priced by their state-contingent payoffs
+[^4]: No-arbitrage ensures consistency across all assets
 
 The mathematical formulation captures these economic intuitions precisely.  
 
 # EXERCISES  
 
-1. Consider a two-period economy with three states in the final period. The payoff matrix for three assets is:  
+[^1]: Consider a two-period economy with three states in the final period. The payoff matrix for three assets is:
    ```
    Asset 1: [1, 1, 1]  
    Asset 2: [0.9, 1.0, 1.1]  
@@ -680,32 +680,32 @@ The mathematical formulation captures these economic intuitions precisely.
    ```
    Current prices are [0.95, 0.97, 1.01]. Find the state prices.  
 
-2. Using the state prices from Exercise 1, price a call option on Asset 3 with strike 1.0.  
+[^2]: Using the state prices from Exercise 1, price a call option on Asset 3 with strike 1.0.
 
-3. Prove that if state prices exist and are positive, no [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunities exist.  
+[^3]: Prove that if state prices exist and are positive, no arbitrage opportunities exist.
 
-4. In a binomial model with $S_{0}=50$, $u=1.3$, $d=0.7$, and $r=0.1$:  
+[^4]: In a binomial model with $S_{0}=50$, $u=1.3$, $d=0.7$, and $r=0.1$:
    a) Calculate risk-neutral probabilities  
    b) Price a European call with $K=50$  
    c) Price a European put with $K=50$  
    d) Verify put-call parity  
 
-5. Consider a three-period binomial tree. Explain how to price:  
+[^5]: Consider a three-period binomial tree. Explain how to price:
    a) A European option  
    b) An American option  
    c) A barrier option  
 
-6. Derive the relationship between real-world and risk-neutral probabilities in a one-period model.  
+[^6]: Derive the relationship between real-world and risk-neutral probabilities in a one-period model.
 
-7. Show that under the T-forward measure, the forward price is a martingale.  
+[^7]: Show that under the T-forward measure, the forward price is a martingale.
 
-8. Explain why different numeraire choices lead to different martingale measures.  
+[^8]: Explain why different numeraire choices lead to different martingale measures.
 
-9. In a Black-Scholes world, derive the [partial differential equation](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%2033-%20Options%20Trading%20Strategies/Pricing%20Schemes.md) for option prices using:  
-   a) Risk-neutral [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)  
-   b) [Replication](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Forward%20and%20Futures%20Contracts.md) arguments  
+[^9]: In a Black-Scholes world, derive the partial differential equation for option prices using:
+   a) Risk-neutral pricing  
+   b) Replication arguments  
 
-10. Compare the computational efficiency of different [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) methods for:  
+[^10]: Compare the computational efficiency of different pricing methods for:
     a) European options  
     b) American options  
     c) Asian options  
@@ -713,22 +713,22 @@ The mathematical formulation captures these economic intuitions precisely.
 
 # EXCEL EXERCISES  
 
-1. Implement a spreadsheet to:  
+[^1]: Implement a spreadsheet to:
    a) Extract state prices from market data  
    b) Price new securities using state prices  
-   c) Check for [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunities  
+   c) Check for arbitrage opportunities  
 
-2. Build a binomial tree pricer that:  
+[^2]: Build a binomial tree pricer that:
    a) Handles multiple periods  
    b) Prices European and American options  
    c) Calculates Greeks  
 
-3. Create a Monte Carlo simulator that:  
-   a) Generates [risk-neutral paths](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Option%20Greeks.md)  
+[^3]: Create a Monte Carlo simulator that:
+   a) Generates risk-neutral paths  
    b) Prices path-dependent options  
    c) Provides confidence intervals  
 
-4. Develop a tool to:  
+[^4]: Develop a tool to:
    a) Convert between different probability measures  
    b) Calculate risk premia  
-   c) Analyze [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) errors
+   c) Analyze pricing errors

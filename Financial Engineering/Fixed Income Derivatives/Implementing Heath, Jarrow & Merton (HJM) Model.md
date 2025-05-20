@@ -16,16 +16,16 @@ key_concepts:
   - Zero coupon bond
 ---
 
-# [](../6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md#3%20Some%20Specific%20Models|Implementing%20Heath,%20Jarrow%20&%20Merton%20(HJM)%20Model)
+# [](../6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md#3%20Some%20Specific%20Models | Implementing%20Heath,%20Jarrow%20&%20Merton%20(HJM)%20Model)
 # 1.1 HJM model by Monte Carlo Simulation.
 
-The [Heath-Jarrow-Morton](.md) framework refers to a class of models that are derived by directly  modelling the dynamics of instantaneous forward-rates. The central insight of this framework  is to recognize that there is an explicit relationship between the [drift and volatility](../../Credit%20Markets/Black-Scholes%20Model.md) parameters  of the forward-rate dynamics in a no-[arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) world.
+The Heath-Jarrow-Morton framework refers to a class of models that are derived by directly  modelling the dynamics of instantaneous forward-rates. The central insight of this framework  is to recognize that there is an explicit relationship between the drift and volatility parameters  of the forward-rate dynamics in a no-arbitrage world.
 
-The familiar short-rate models can be derived in the [HJM framework](.md) but in general, however,  HJM models are non-Markovian. As a result, it is not possible to use the PDE-based  computational approach for [pricing derivatives](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md). Instead, discrete-time HJM models and MonteCarlo methods are often used in practice.
+The familiar short-rate models can be derived in the HJM framework but in general, however,  HJM models are non-Markovian. As a result, it is not possible to use the PDE-based  computational approach for pricing derivatives. Instead, discrete-time HJM models and MonteCarlo methods are often used in practice.
 
-Instead of modelling the short-end of the curve and then building the forward curve for the  longer end of the curve, HJM employ a model for the whole [forward rate curve](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Forward-Bucketo1s.md).
+Instead of modelling the short-end of the curve and then building the forward curve for the  longer end of the curve, HJM employ a model for the whole forward rate curve.
 
-Let  $F(t;T)$  denote the [forward rate curve](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Forward-Bucketo1s.md) for time t. Therefore the price of a zero coupon bond  at time  $t$    and maturing at time  $\mathrm{T}$   and which pay   $\S1$  , can be written as:
+Let  $F(t;T)$  denote the forward rate curve for time t. Therefore the price of a zero coupon bond  at time  $t$    and maturing at time  $\mathrm{T}$   and which pay   $\S1$  , can be written as:
 $$
 Z(t;T)=e^{\int_{t}^{T}F(t;s)d s.}
 $$
@@ -45,40 +45,40 @@ $$
 \begin{array}{r}{d Z(t;T)=\frac{\partial}{\partial T}\Big(\frac{1}{2}\sigma^{2}(t,T)-u(t,T)\Big)\,d t-\frac{\partial}{\partial T}\sigma(t,T)d X.}\end{array}
 $$
 
-We can use the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) to derive the [stochastic differential equation](.md) for the [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md).
+We can use the forward rate to derive the stochastic differential equation for the spot rate.
 $$
 \boldsymbol{r}(t)=\boldsymbol{F}(t;t)
 $$
 
-Assume today is   $\mathbf{t}^{*}$   and the whole forward curve is known today,   $F(t;T)$  , the [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) for  anytime t in the future can then be written as:
+Assume today is   $\mathbf{t}^{*}$   and the whole forward curve is known today,   $F(t;T)$  , the spot rate for  anytime t in the future can then be written as:
 $$
 \begin{array}{r}{r(t)=F(t;T)=F(t^{*},t)+\int_{t^{*}}^{t}d F(s;t).}\end{array}
 $$
 
-From (1.4) for the [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) process for F, we have
+From (1.4) for the forward rate process for F, we have
 $$
 \begin{array}{r}{r(t)=F(t^{*},t)+\int_{t^{*}}^{t}\left(\sigma(s,t)\frac{\partial\sigma(s,t)}{\partial t}-\frac{\partial u(s,t)}{\partial t}\right)d s-\int_{t_{*}}^{t}\frac{\partial\sigma(s,t)}{\partial t}d X(s).}\end{array}
 $$
 
-The [stochastic differential equation](.md) for r is found after differentiating (1.6) with respect to time  t.$$
+The stochastic differential equation for r is found after differentiating (1.6) with respect to time  t.$$
 \begin{array}{r l}&{d r=\left(\frac{\partial F(t\ast,t)}{\partial t}-\frac{\partial u(s,t)}{\partial t}+\int_{t\ast}^{t}\left(\sigma(s,t)\frac{\partial^{2}(s,t)}{\partial t^{2}}+\left(\frac{\partial\sigma(s,t)}{\partial t}\right)^{2}-\frac{\partial^{2}u(s,t)}{\partial t^{2}}\right)d s\quad\right)}\\ &{}\\ &{-\int_{t\ast}^{t}\frac{\partial^{2}\sigma(s,t)}{\partial t^{2}}d X(s))d t-\frac{\partial\sigma(s,t)}{\partial s}d X}\end{array}
 $$
 
-The last term is highly path-dependent as both the random and the volatility component depend  on historical observations of these parameters. Because of the dependency of historical values,  this makes the above model a non Markov for derivative [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), one need to be in [risk neutral](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md)  world. To move to the [risk-neutral world](../../Financial%20Instruments/Binomial%20Option%20Pricing%20Model.md), we start with a hedged [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md).
+The last term is highly path-dependent as both the random and the volatility component depend  on historical observations of these parameters. Because of the dependency of historical values,  this makes the above model a non Markov for derivative pricing, one need to be in risk neutral  world. To move to the risk-neutral world, we start with a hedged portfolio.
 
-Suppose we can hedge a bond with another bond with maturity T. The hedged [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is then  :
+Suppose we can hedge a bond with another bond with maturity T. The hedged portfolio is then  :
 $$
 \Pi=Z(t;T_{1})-\Delta Z(t;T_{2})
 $$
 
-The change of the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is given by
+The change of the portfolio is given by
 
 If
 $$
 \begin{array}{r l}&{\Pi=Z(t;T_{1})-\Delta Z(t;T_{2})}\\ &{\quad=Z(t;T_{1})(u(t,T_{1})d t+\sigma(t,T_{1})d X)-\Delta Z(t;T_{2})(u(t,T_{2})d t+\sigma(t,T_{2})d X)}\\ &{}\\ &{\Delta=\frac{Z(t;T_{1})\sigma(t,T_{1})}{Z(t;T_{2})\sigma(t,T_{2})}}\end{array}
 $$
 
-The [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is hedged and is therefore risk-free. Let the return equal to the [risk-free rate](../../Financial%20Instruments/Black%20Scholes%20Derivation.md) r(t)  and rearranging we find that
+The portfolio is hedged and is therefore risk-free. Let the return equal to the risk-free rate r(t)  and rearranging we find that
 $$
 \begin{array}{r}{\frac{\mathsf{u}(t;T_{1})-r(t)}{\sigma(t;T_{1})}=\frac{\mathsf{u}(t;T_{2})-r(t)}{\sigma(t;T_{2})}\qquad\mathrm{and}\qquad u(t,T)=r(t)+\lambda(\mathsf{t})\sigma(\mathsf{t},\mathsf{T}).}\end{array}
 $$
@@ -90,7 +90,7 @@ $$
 d Z(t;T)=r(t)Z(t,T)d t+\sigma(t,T)Z(t;T)d X.
 $$
 
-The SDE for the risk-neutral [forward rate curve](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Forward-Bucketo1s.md) is written as:
+The SDE for the risk-neutral forward rate curve is written as:
 $$
 d F(t;T)=m(t,T)d t-v(t,T)d X.
 $$
@@ -104,7 +104,7 @@ And the drift of the forward is given by    $\begin{array}{r}{m(t,T)^{2}=v(t,T)\
 \begin{array}{r}{d F(t;T)=v(t,T)\left(\int_{t}^{T}v(t,s)d s.\right)+v(t,T)d X.}\end{array}
 $$
 
-This is a single [factor model](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Pricing%20Factors%20in%20a%20One-Period%20Framework.md) which can be problematic if one is [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) derivative with various  maturities. For example, spread option which pays the difference between rates at two different  maturities. The above HJM model can be generalized for as   $\mathbf{N}$  -dimensional stochastic  differential equation
+This is a single factor model which can be problematic if one is pricing derivative with various  maturities. For example, spread option which pays the difference between rates at two different  maturities. The above HJM model can be generalized for as   $\mathbf{N}$  -dimensional stochastic  differential equation
 $$
 \begin{array}{r}{d F(t;T)=m(t,T)d t-\sum_{i=1}^{N}v_{i}\left(t,T\right)d X_{i}}\end{array}
 $$
@@ -120,14 +120,14 @@ To implement multi-factor HJM model, one needs to account for correlation in the
 
 # 1.2 Principal Component Analysis
 
-Principal Component Analysis (PCA) is a way to analyse the yield curve. It makes use of  historical time series data and implied co variances to find factors that explain the variance in  the [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md). Each additional factor is found so that they cumulatively maximize the  contribution to the variance. Based on these factors, volatility functions are obtained to explain  the underlying volatility of an [interest rate model](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md). For example, when implementing the HJM  model there are two main elements used in the model construction process-one is the definition  of volatility function for the model, the other involves a practical way of obtaining prices from  the model.
+Principal Component Analysis (PCA) is a way to analyse the yield curve. It makes use of  historical time series data and implied co variances to find factors that explain the variance in  the term structure. Each additional factor is found so that they cumulatively maximize the  contribution to the variance. Based on these factors, volatility functions are obtained to explain  the underlying volatility of an interest rate model. For example, when implementing the HJM  model there are two main elements used in the model construction process-one is the definition  of volatility function for the model, the other involves a practical way of obtaining prices from  the model.
 
 PCA can also be explained as a technique for finding common movements in the rates, for  finding the eigenvalues and ei gen vectors of the matrix. This tells us that large part of the  movement of the forward curve is due to parallel shift. The next most important movement  would be twisting of the curve, followed by a bending.
 # Data
 
-To implement the HJM model we use historical yield curve data from [Bank of England](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Reflections%20On%20Modern%20Bank%20Runs%20a%20Case%20Study%20of%20Northern%20Rock.md) from  January   $4^{\mathrm{th}}~2005$   to May   $31^{\mathrm{st}}\,2011$  . The data is semi-annually spaced starting from 6 month  maturity to 25 years maturity. For example, the data are the yield implied from zero coupon  bonds from 6 month maturity to 25 years. In addition, these data are nominal yield data which  has already been stripped and are downloaded from [Bank of England](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/Reflections%20On%20Modern%20Bank%20Runs%20a%20Case%20Study%20of%20Northern%20Rock.md) website.
+To implement the HJM model we use historical yield curve data from Bank of England from  January   $4^{\mathrm{th}}~2005$   to May   $31^{\mathrm{st}}\,2011$  . The data is semi-annually spaced starting from 6 month  maturity to 25 years maturity. For example, the data are the yield implied from zero coupon  bonds from 6 month maturity to 25 years. In addition, these data are nominal yield data which  has already been stripped and are downloaded from Bank of England website.
 
- ![500](Attachments/500-401.jpg)
+ !500
 Figure 1.1  Data Source: See spreadsheet attached. Fwd curve tap.
 
 # 1.3 Covariance Matrix
@@ -162,14 +162,14 @@ We highlight the largest eigenvalues and the corresponding ei gen vectors which 
 
 Table 1.1
 
- ![500](Attachments/500-396.jpg)
+ !500
 
 # 0.003931095
 
-The largest eigenvalue at the maturity point of 1.5 has a value of 0.002647853 and a variance  of  $67\%$  . This means that   $67\%$   of total variations are explained by the first principal component  which has the highest eigenvalue.   $84.9\%$   of the total variation is explained by the sum of the  first two [principal components](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%206/Principal%20Component%20Analysis.md) and finally,   $93\%$   of the total variations are explained by the all  three [principal components](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%206/Principal%20Component%20Analysis.md). The figure below shows the term-structure of ei gen vectors  corresponding to the largest eigenvalues ([principal components](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%206/Principal%20Component%20Analysis.md)).
- ![500](Attachments/500-400.jpg)
+The largest eigenvalue at the maturity point of 1.5 has a value of 0.002647853 and a variance  of  $67\%$  . This means that   $67\%$   of total variations are explained by the first principal component  which has the highest eigenvalue.   $84.9\%$   of the total variation is explained by the sum of the  first two principal components and finally,   $93\%$   of the total variations are explained by the all  three principal components. The figure below shows the term-structure of ei gen vectors  corresponding to the largest eigenvalues (principal components).
+ !500
 
-The figure above shows how the yield curve responds to different shocks. For example, as  stated before the first principal component is due to parallel shift in the yield curve while, the  second and the third [principal components](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%206/Principal%20Component%20Analysis.md) are due to twist and bending of the curve  respectively.
+The figure above shows how the yield curve responds to different shocks. For example, as  stated before the first principal component is due to parallel shift in the yield curve while, the  second and the third principal components are due to twist and bending of the curve  respectively.
 
 # 1.5 Risk-Neutral Drift
 
@@ -178,7 +178,7 @@ $$
 \bar{v}(\tau j)=\sqrt{\lambda_{i}}(v_{i})j
 $$
 
-To compute first the drift, we take the largest eigenvalues given in table 1.1. We take the square  root of these and multiply these result with an array of data corresponding to the three principal  components. The result is a volatility matrix corresponding to all three [principal components](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%206/Principal%20Component%20Analysis.md)  for all maturities (see the volatility matrix tab).
+To compute first the drift, we take the largest eigenvalues given in table 1.1. We take the square  root of these and multiply these result with an array of data corresponding to the three principal  components. The result is a volatility matrix corresponding to all three principal components  for all maturities (see the volatility matrix tab).
 
 The next step is to find the risk-neutral drift  $\mathbf{m(t)}$   by integrating the volatility function
 $$
@@ -189,8 +189,8 @@ $$
 We then fit a function of the volatility so that we can do the integration. The first volatility is a  flat line (parallel shift). We also fit polynomial function of the second and the third volatility  function. Once we have these functions, we then do the integration. (See figure 1.3 below for  the  $2^{\mathrm{nd}}$   volatility function). See also the attached spreadsheet, v1, v2 and v3 tabs.
 
 Table 1.2 (Volatility matrix)
- ![500](Attachments/500-399.jpg)
- ![500](Attachments/500-402.jpg)
+ !500
+ !500
 
 In spreadsheet, under the “sim forward rates” tab, we show the calculated risk-neutral function   $\mathbf{M}(\mathbf{t})$   with fitted values.
 
@@ -205,10 +205,10 @@ $$
 \begin{array}{l}{{F(t,T)=F(t,t)+\,m(t)d t+(v o l_{1}*W_{1}+v o l_{2}*W_{2}+v o l_{3}*W_{3})*\sqrt{d t}}}\\ {{\qquad\qquad+\,\left(\displaystyle\frac{F(t)-F(t-1}{d t}\right)d t}}\end{array}
 $$
 
-Where  $\mathrm{F(t,t)}$   is the current rate,  $\mathbf{M}(\mathbf{t})$   is the drift, vols are the vol at ili ties for the first, second and  third factors. The  $\mathbf{W}$   is the [Brownian motion](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) generated via the excel function Rand.  We then get the simulated entire HJM forward curve which we can use to price bonds or  [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) for any maturity points.
+Where  $\mathrm{F(t,t)}$   is the current rate,  $\mathbf{M}(\mathbf{t})$   is the drift, vols are the vol at ili ties for the first, second and  third factors. The  $\mathbf{W}$   is the Brownian motion generated via the excel function Rand.  We then get the simulated entire HJM forward curve which we can use to price bonds or  derivatives for any maturity points.
 
 One issue we may notice in the simulated forward curve is that the rates we get at the longer  end of the maturity seems to be negative.  We may simply take the absolute value of the result  alternatively, re-investigate or check any potential errors in the data (this may be difficult if  one is working with large data set as in this case).
- ![500](Attachments/500-395.jpg)
+ !500
 Figure 1.4
 
 # 1.7 Pricing Zero Coupon Bond
@@ -229,7 +229,7 @@ $$
 
 We now use the MC method to compute the zero coupon bond.
 
-From our previous calculation we do have the risk-neutral drift for all maturity points. We do  also have all the volatility factors for each maturity points. In addition, we do have also the  initial yield curve data. The next step is to integrate the [forward rate curve](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Forward-Bucketo1s.md) for specific maturity  point and repeat these  $\mathbf{N}$   times to come up with final ZCB price using the formula
+From our previous calculation we do have the risk-neutral drift for all maturity points. We do  also have all the volatility factors for each maturity points. In addition, we do have also the  initial yield curve data. The next step is to integrate the forward rate curve for specific maturity  point and repeat these  $\mathbf{N}$   times to come up with final ZCB price using the formula
 $$
 \exp(-\sum r(t)d t)
 $$
@@ -242,14 +242,14 @@ $$
 (see VBA code module6 to see the function used). We can also either use the simulated forward  curve or use HJM function to calculate the forward curve quickly.
 The final result can be seen in the spreadsheet under the tab “Zero cp n Price”.  Enter the  parameters and also number of simulations and the price of the bond is calculated. Reaching  the number of simulations to 1000, excel is extremely slow. The chart below shows the  simulated zero coupon bond price.
 
- ![500](Attachments/500-397.jpg)
+ !500
 Figure 1.5
 
 # Interest Rate Options (Cap/Floor)
 
 # 1.8 Discount Factors
 
-Since the underlying forward rates under HJM follow some [stochastic process](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md),  we need to use unique discounting factors for each simulation. For example, for  each simulation, the pay-off made at expiry T should be discounted by
+Since the underlying forward rates under HJM follow some stochastic process%20Process.md),  we need to use unique discounting factors for each simulation. For example, for  each simulation, the pay-off made at expiry T should be discounted by
 $$
 \textstyle\exp(\int_{0}^{T}r(s)d s
 $$
@@ -259,19 +259,19 @@ $$
 \begin{array}{r l}{\mathrm{Cap:}}&{{}\,M a x(L-K,0)}\\ {\mathrm{Flow:}}&{{}\,M a x(K-L,\ 0)}\end{array}
 $$
 
-We then take the above payoff and scale these by a unique [discount factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) for each simulation.  In the attached spreadsheet, you will be able to see the discounted cap and floor prices for each  simulation
+We then take the above payoff and scale these by a unique discount factor for each simulation.  In the attached spreadsheet, you will be able to see the discounted cap and floor prices for each  simulation
 
 Table. 1.3
- ![500](Attachments/500-398.jpg)
+ !500
 Change the number of simulation input and press the gray button to see different iterations of  the Cap and Floor price computations. The figure below shows the CAP price convergence as  the number of simulations is increased from low number up to 1000 simulations. At lower  simulations prices seem to fluctuates but stabilize later afer 200 simulations. So increasing the  number of simulations from 400 to 1000 does not have any significant change in the prices but  also reduces the computation speed.
 
 Figure 1.6
 
 # Cap price covergence
 
- ![500](Attachments/500-394.jpg)
+ !500
 # References
 
-M. Avellaneda, A. Levy, A. Paras,  “[Pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) [derivative securities](../Financial%20Mathematics%20Course.md) in markets with uncertain  vol at ili ties” , Journal of   Applied Finance, Vol 1, 1995
+M. Avellaneda, A. Levy, A. Paras,  “Pricing and hedging derivative securities in markets with uncertain  vol at ili ties” , Journal of   Applied Finance, Vol 1, 1995
 
-Paul Wilmott,  P.Wilmott on [Quantitative Finance](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md)”,  $2^{n d}$   Edition, Volume 3, Wiley.     CQF  Lecture 2010/2011 – Heath, Jarrow and [Merton Model](../../Credit%20Markets/Credit%20Markets%20Session%205.md)     CQF Lecture 2010/ 2011 - Advanced Volatility Modelling in [Complete Markets](../Financial%20Mathematics%20Course.md)     P. Wilmott, A. Oztukel, “
+Paul Wilmott,  P.Wilmott on Quantitative Finance”,  $2^{n d}$   Edition, Volume 3, Wiley.     CQF  Lecture 2010/2011 – Heath, Jarrow and Merton Model     CQF Lecture 2010/ 2011 - Advanced Volatility Modelling in Complete Markets     P. Wilmott, A. Oztukel, “

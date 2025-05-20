@@ -67,7 +67,7 @@ key_concepts:
 
 per Canadian dollar. The one-year forward exchange rate is 1.03 US dollars per Canadian dollar. The market must be expecting that over the next year the US dollar will depreciate relative to the Canadian dollar.
 
-![|500](IMG-20240913171226876.png)
+! | 500
 
 > [!ANSWER]
 > False: The forward exchange rate is determined by the current exchange rate and the interest rate differential between the US and Canada. Further the forward rate reflects both expectations and risk premia.
@@ -76,7 +76,7 @@ per Canadian dollar. The one-year forward exchange rate is 1.03 US dollars per C
 
 Suppose that stock XYZ, whose current price is $50, can either increase by $U = 1.1$ or decrease by $D = \frac{1}{1.1}$ each year over the next 2 years. The continuously-compounded interest rate is 1% per year.
 
-![|500](IMG-20240913171230388.png)
+! | 500
 
 ### (a) (10 Points) What is the No-Arbitrage Price of a European Put Option with Strike Price of $48 and Maturity of 2 Years
 

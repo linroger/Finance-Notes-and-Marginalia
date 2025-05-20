@@ -97,21 +97,21 @@ If the counterparty to the IS is considered risk-free, discount factor $df(t, T)
 We consider a pay-fixed inflation swap effective 3/4/2008 and maturing on 3/4/2010. The swap was priced 3/7/2008 settling on 3/11/2007. The CPI for 12/31/2007 and 1/31/2008 were 210.036 and 211.08 respectively. Quoted IS rates for 3/7/2008 are presented in Table 1. The results are presented in Table 2.
 
 ### Table 1: IS Rate Quotes
-![Table 1: IS Rate Quotes](Attachments/Table_1!_IS_Rate_Quotes.jpg)
+!Table 1: IS Rate Quotes
 
-![Table 1: IS Rate Quotes (continued)](Attachments/Table_1!_IS_Rate_Quotes_(continued).jpg)
+!Table 1: IS Rate Quotes (continued).jpg)
 
 ### Table 2: LIBOR Quotes
-![Table 2: LIBOR Quotes](Attachments/Table_2!_LIBOR_Quotes.jpg)
+!Table 2: LIBOR Quotes
 
 ### Table 3: Future Quotes
-![Table 3: Future Quotes](Attachments/Table_3!_Future_Quotes.jpg)
+!Table 3: Future Quotes
 
 ### Table 4: Swap Quotes
-![Table 4: Swap Quotes](Attachments/Table_4!_Swap_Quotes.jpg)
+!Table 4: Swap Quotes
 
 ### Table 5: ATM Implied Swaption Volatilities
-![Table 5: ATM Implied Swaption Volatilities](Attachments/Table_5!_ATM_Implied_Swaption_Volatilities.jpg)
+!Table 5: ATM Implied Swaption Volatilities
 
 For the corresponding interest rate volatilities, we have:
 
@@ -149,5 +149,5 @@ Substituting the numbers from Example 1 into (A.1) - (A.4), we obtain $c = 1.22$
 
 ## References
 
-1. FINCAD Financial Corporation. Support and Reference, 2007. [http://fincad.com/default.asp?id=17300&s=Support&n=References](http://fincad.com/default.asp?id=17300&s=Support&n=References).
-2. P. Miron and P. Swannell. *Pricing and Hedging Swaps*. Euromoney Books, 1991.
+[^1]: FINCAD Financial Corporation. Support and Reference, 2007. http://fincad.com/default.asp?id=17300&s=Support&n=References.
+[^2]: P. Miron and P. Swannell. *Pricing and Hedging Swaps*. Euromoney Books, 1991.

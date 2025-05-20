@@ -9,43 +9,43 @@ category: "Principles of Financial Engineering"
 
 # CHAPTER OUTLINE  
 
-11.1 Introduction . 352   
-11.1.1 Payoff Diagrams . 352   
-11.1.1.1 Examples of xt . 354   
-11.2 Option Strategies . 355   
-11.2.1 Synthetic Long and Short Positions. 355   
-11.2.1.1 An application . 357   
-11.2.1.2 Arbitrage opportunity? . 360   
-11.2.2 A Remark on the Pin Risk . 361   
-11.2.3 Risk Reversals. 361   
-11.2.3.1 Uses of risk reversals. 363   
-11.2.4 Yield Enhancement Strategies . 364   
-11.2.4.1 Call overwriting . 365   
-11.3 Volatility-Based Strategies . 367   
-11.3.1 Strangles . 369   
-11.3.1.1 Uses of strangles. 369   
-11.3.2 Straddle . 370   
-11.3.2.1 Static or dynamic position? . 370   
-11.3.3 Butterfly . 372   
-11.4 Exotics . 373   
-11.4.1 Binary, or Digital, Options . 373   
-11.4.1.1 A binary call . 374   
-11.4.1.2 Replicating the binary call. 374   
-11.4.1.3 Delta and price of binaries . 376   
-11.4.1.4 Time value of binaries. 377   
-11.4.1.5 Uses of the binary . 377   
-11.4.2 Barrier Options. 378   
-11.4.2.1 A contractual equation. 380   
-11.4.2.2 Some uses of barrier options. 383   
-11.4.3 New Risks. 384   
-11.5 Quoting Conventions. 384   
-11.5.1 Example 1 . 386   
-11.5.2 Example 2 . 387  
+[^11]: 1 Introduction . 352
+[^11]: 1.1 Payoff Diagrams . 352
+[^11]: 1.1.1 Examples of xt . 354
+[^11]: 2 Option Strategies . 355
+[^11]: 2.1 Synthetic Long and Short Positions. 355
+[^11]: 2.1.1 An application . 357
+[^11]: 2.1.2 Arbitrage opportunity? . 360
+[^11]: 2.2 A Remark on the Pin Risk . 361
+[^11]: 2.3 Risk Reversals. 361
+[^11]: 2.3.1 Uses of risk reversals. 363
+[^11]: 2.4 Yield Enhancement Strategies . 364
+[^11]: 2.4.1 Call overwriting . 365
+[^11]: 3 Volatility-Based Strategies . 367
+[^11]: 3.1 Strangles . 369
+[^11]: 3.1.1 Uses of strangles. 369
+[^11]: 3.2 Straddle . 370
+[^11]: 3.2.1 Static or dynamic position? . 370
+[^11]: 3.3 Butterfly . 372
+[^11]: 4 Exotics . 373
+[^11]: 4.1 Binary, or Digital, Options . 373
+[^11]: 4.1.1 A binary call . 374
+[^11]: 4.1.2 Replicating the binary call. 374
+[^11]: 4.1.3 Delta and price of binaries . 376
+[^11]: 4.1.4 Time value of binaries. 377
+[^11]: 4.1.5 Uses of the binary . 377
+[^11]: 4.2 Barrier Options. 378
+[^11]: 4.2.1 A contractual equation. 380
+[^11]: 4.2.2 Some uses of barrier options. 383
+[^11]: 4.3 New Risks. 384
+[^11]: 5 Quoting Conventions. 384
+[^11]: 5.1 Example 1 . 386
+[^11]: 5.2 Example 2 . 387
 
-11.6 Real-World Complications . 387   
-11.6.1 The Role of the Volatility Smile. 387   
-11.6.2 Existence of Position Limits . 388   
-11.7 Conclusions. 388   
+[^11]: 6 Real-World Complications . 387
+[^11]: 6.1 The Role of the Volatility Smile. 387
+[^11]: 6.2 Existence of Position Limits . 388
+[^11]: 7 Conclusions. 388
 Suggested Reading . 388   
 Exercises . 389   
 EXCEL Exercises . 391   
@@ -87,18 +87,18 @@ Various interest rates: The best examples are LIBOR rates and swap rates. But th
 
 Besides these well-known risks, there are more complicated underlyings that, nevertheless, are central elements in financial market activity:  
 
-1. The underlying to the option positions discussed in this chapter can represent volatility or variance. If we let the percentage volatility of a price, at time $t$, be denoted by $\sigma_{t}$, then the time $T$ value of the underlying $x_{T}$ may be defined as  
+[^1]: The underlying to the option positions discussed in this chapter can represent volatility or variance. If we let the percentage volatility of a price, at time $t$, be denoted by $\sigma_{t}$, then the time $T$ value of the underlying $x_{T}$ may be defined as
 $$
 x_{T}=\int_{t}^{T}\sigma_{u}^{2}S_{u}^{2}\mathrm{d}u
 $$  
 
 where $S_{u}$ may be any risk factor. In this case, $x_{T}$ represents the total variance of $S_{u}$ during the interval $[t,T]$. Volatility is the square root of $x_{T}$.  
 
-2. The correlation between two risk factors can be traded in a similar way.  
+[^2]: The correlation between two risk factors can be traded in a similar way.
 
-3. The underlying, $x_{t}$, can also represent the default probability associated with a counterparty or instrument. This arises in the case of credit instruments.  
+[^3]: The underlying, $x_{t}$, can also represent the default probability associated with a counterparty or instrument. This arises in the case of credit instruments.
 
-4. The underlying can represent the probability of an extraordinary event happening. This would create a "Cat" instrument that can be used to buy insurance against various catastrophic events. 5. The underlying, $x_{t}$, can also be a nonstorable item such as electricity, weather, or bandwidth.  
+[^4]: The underlying can represent the probability of an extraordinary event happening. This would create a "Cat" instrument that can be used to buy insurance against various catastrophic events. 5. The underlying, $x_{t}$, can also be a nonstorable item such as electricity, weather, or bandwidth.
 
 Readers who are interested in the details of such contracts or markets should consult Hull (2014). In this chapter, we limit our attention to the engineering aspects of option contracts.  
 
@@ -143,13 +143,13 @@ $$
 where $S_T$ is, say, the spot exchange rate at the expiration time $T$ and where $K$ denotes the strike price of options that will expire at time $T$. This suggests a synthetic for long and short positions. In particular, Figure 11.4 shows the payoff of the portfolio (if $K = 0$):  
 
 $$
-\{C_t^1 - P_t^1\}
+\{C_t[^1] - P_t[^1]\}
 $$  
 
 which is a portfolio where one is long the European call and short the European put. The figure clearly has the same payoff as the traditional long position shown in Figure 11.3a. After all, as shown in Chapter 9, the put-call parity indicates that: if $K = 0$,  
 
 $$
-S_T = (C_T^1 - P_T^1)
+S_T = (C_T[^1] - P_T[^1])
 $$  
 
 This will synthetically replicate the long position. In terms of time-$t$ price,  
@@ -248,13 +248,13 @@ $$
 With $r = 0.05$, the annual risk-free rate, and expiration $T - t = 20/365$, the relationship gives  
 
 $$
-370.65 - 8 + 5.625 = 370 e^{-r(T-t)}
+[^370]: 65 - 8 + 5.625 = 370 e^{-r(T-t)}
 $$  
 
 The trader checks whether this relationship holds. After plugging in the numbers,  
 
 $$
-368.27 \ne 370 e^{-0.05\times20/365} = 368.992
+[^368]: 27 \ne 370 e^{-0.05\times20/365} = 368.992
 $$  
 
 If the two sides are not exactly the same, but they are close.9 If we include the bid-ask spread and commissions, the potential arbitrage gains due to violation of put-call parity may disappear completely.10 In fact, if options in the real world are American options, the relationship will change, and we need to incorporate the early exercise premiums.  
@@ -492,15 +492,15 @@ $$
 
 Let us calculate the payoff of this straddle at different values of the underlying at maturity. These are shown in Table 11.1.  
 
-| $S_T$ | Call payoff | Put payoff | Total |  
-|-------|-------------|------------|-------|  
-| 85    | 0           | 15         | 5     |  
-| 90    | 0           | 10         | 0     |  
-| 95    | 0           | 5          | -5    |  
-| 100   | 0           | 0          | -10   |  
-| 105   | 5           | 0          | -5    |  
-| 110   | 10          | 0          | 0     |  
-| 115   | 15          | 0          | 5     |  
+ | $S_T$ | Call payoff | Put payoff | Total | 
+ | ------- | ------------- | ------------ | ------- | 
+ | 85 | 0 | 15 | 5 | 
+ | 90 | 0 | 10 | 0 | 
+ | 95 | 0 | 5 | -5 | 
+ | 100 | 0 | 0 | -10 | 
+ | 105 | 5 | 0 | -5 | 
+ | 110 | 10 | 0 | 0 | 
+ | 115 | 15 | 0 | 5 | 
 
 Table 11.1 Payoff from Straddle at Different Levels of the Underlying at Maturity  
 
@@ -529,7 +529,7 @@ So, there is a significant difference between static and dynamic volatility posi
 Dynamic positions maintained delta-neutral (i.e., delta-hedged) throughout their lives, imply bets on the implied volatility only. It is for this reason that option desks and risk managers calculate vega. This indicates the sensitivity to changes in implied volatility. They would also calculate a veta (vega decay), which is the change in vega as time passes.  
 
 $$
-\text{Veta} = \frac{\partial^2 C}{\partial \sigma \partial t}
+\text{Veta} = \frac{\partial[^2] C}{\partial \sigma \partial t}
 $$  
 
 $$
@@ -597,7 +597,7 @@ $$
 f(S_T) = \begin{cases} 
 A & \text{if } S_{t_0} \leq K \\
 A & \text{if } S_T < S_{t_0} \\
-0 & \text{otherwise}
+[^0]: & \text{otherwise}
 \end{cases}
 $$  
 
@@ -657,7 +657,7 @@ Expanding this:
 
 $$
 \text{Payoff} = \begin{cases} 
-0 & \text{if } S_T < K \\
+[^0]: & \text{if } S_T < K \\
 S_T - K & \text{if } K < S_T < K+\epsilon \\
 \epsilon & \text{if } S_T > K+\epsilon
 \end{cases}
@@ -702,7 +702,7 @@ $$
 where $N(.)$ is the cumulative standard normal distribution and  
 
 $$
-d_2 = \frac{\ln(S_t/K) + (r - \sigma^2/2)(T-t)}{\sigma\sqrt{T-t}}
+d_2 = \frac{\ln(S_t/K) + (r - \sigma[^2]/2)(T-t)}{\sigma\sqrt{T-t}}
 $$  
 
 Therefore, the value of a binary call is  
@@ -741,11 +741,11 @@ However, for near-the-money binary options, the theta can be positive. This is b
 
 Binary options can be used in various ways:  
 
-1. **Structured products**: Binary options can be combined with vanilla options to create various payoff profiles. For example, adding a binary option to a vanilla option can create a "booster" that enhances payoffs in certain ranges.  
+[^1]: **Structured products**: Binary options can be combined with vanilla options to create various payoff profiles. For example, adding a binary option to a vanilla option can create a "booster" that enhances payoffs in certain ranges.
 
-2. **Correlation trades**: Binary options on one underlying can be combined with vanilla options on another to create correlation-dependent payoffs.  
+[^2]: **Correlation trades**: Binary options on one underlying can be combined with vanilla options on another to create correlation-dependent payoffs.
 
-3. **View expression**: Binary options provide a direct way to express a view that an underlying will be above or below a certain level at maturity.  
+[^3]: **View expression**: Binary options provide a direct way to express a view that an underlying will be above or below a certain level at maturity.
 
 The pricing and hedging of binary options is particularly sensitive to the implied volatility near the strike, as well as to jumps in the underlying. Market makers often charge wider spreads for binary options due to these hedging difficulties.  
 
@@ -767,9 +767,9 @@ For example, an up-and-out call option pays $\max(S_T - K, 0)$ if the barrier $H
 
 These options are popular because:  
 
-1. They are cheaper than vanilla options (for knock-outs)  
-2. They provide more targeted hedging for specific views  
-3. They can be structured to match natural business exposures  
+[^1]: They are cheaper than vanilla options (for knock-outs)
+[^2]: They provide more targeted hedging for specific views
+[^3]: They can be structured to match natural business exposures
 
 The pricing of barrier options must account for the possibility of the barrier being touched at any time during the option's life, making them more complex than vanilla options.  
 
@@ -801,13 +801,13 @@ Such options are useful for:
 
 # 11.4.2.2 Some uses of barrier options  
 
-1. **Cost reduction**: Knock-out options are cheaper than vanilla options, making them attractive for hedging.  
+[^1]: **Cost reduction**: Knock-out options are cheaper than vanilla options, making them attractive for hedging.
 
-2. **Natural hedges**: Some businesses have natural barriers in their exposures. For example, an exporter might only need protection if exchange rates stay within a certain range.  
+[^2]: **Natural hedges**: Some businesses have natural barriers in their exposures. For example, an exporter might only need protection if exchange rates stay within a certain range.
 
-3. **Yield enhancement**: Investors can sell knock-in options to collect premium, with the option only activating if markets move significantly.  
+[^3]: **Yield enhancement**: Investors can sell knock-in options to collect premium, with the option only activating if markets move significantly.
 
-4. **Structured products**: Barrier options are key components in many structured products, providing customized payoffs for retail and institutional clients.  
+[^4]: **Structured products**: Barrier options are key components in many structured products, providing customized payoffs for retail and institutional clients.
 
 ## EXAMPLE  
 
@@ -822,15 +822,15 @@ This provides protection against prices falling below $60, but only if prices ne
 
 Exotic options introduce several new risks:  
 
-1. **Discontinuous hedges**: The hedge ratios of barrier and binary options can be discontinuous, making dynamic hedging challenging.  
+[^1]: **Discontinuous hedges**: The hedge ratios of barrier and binary options can be discontinuous, making dynamic hedging challenging.
 
-2. **Model risk**: Exotic options are more sensitive to modeling assumptions, particularly regarding the dynamics of volatility.  
+[^2]: **Model risk**: Exotic options are more sensitive to modeling assumptions, particularly regarding the dynamics of volatility.
 
-3. **Liquidity risk**: The market for exotic options is less liquid than for vanilla options, potentially leading to wider bid-ask spreads.  
+[^3]: **Liquidity risk**: The market for exotic options is less liquid than for vanilla options, potentially leading to wider bid-ask spreads.
 
-4. **Correlation risk**: Many exotic options depend on correlations between different risk factors, which can be unstable.  
+[^4]: **Correlation risk**: Many exotic options depend on correlations between different risk factors, which can be unstable.
 
-5. **Gap risk**: Markets can gap through barrier levels or binary strikes, leading to hedging losses.  
+[^5]: **Gap risk**: Markets can gap through barrier levels or binary strikes, leading to hedging losses.
 
 These risks require sophisticated risk management systems and often result in wider profit margins for market makers.  
 
@@ -842,9 +842,9 @@ Options markets have developed specific conventions for quoting prices that vary
 
 FX options are typically quoted in terms of implied volatility rather than prices. The standard quotation includes:  
 
-1. **At-the-money (ATM) volatility**: Usually delta-neutral straddle volatility  
-2. **Risk reversals**: The difference in implied volatility between OTM calls and puts  
-3. **Butterfly spreads**: The average implied volatility of OTM options minus ATM volatility  
+[^1]: **At-the-money (ATM) volatility**: Usually delta-neutral straddle volatility
+[^2]: **Risk reversals**: The difference in implied volatility between OTM calls and puts
+[^3]: **Butterfly spreads**: The average implied volatility of OTM options minus ATM volatility
 
 This three-point volatility surface provides enough information to interpolate the entire volatility smile.  
 
@@ -852,9 +852,9 @@ This three-point volatility surface provides enough information to interpolate t
 
 Equity options are often quoted in terms of:  
 
-1. **Implied volatility** for liquid stocks  
-2. **Price** for less liquid names  
-3. **Delta** for some exotic structures  
+[^1]: **Implied volatility** for liquid stocks
+[^2]: **Price** for less liquid names
+[^3]: **Delta** for some exotic structures
 
 The quotation typically specifies whether European or American exercise is assumed.  
 
@@ -862,9 +862,9 @@ The quotation typically specifies whether European or American exercise is assum
 
 Interest rate options use various quoting conventions:  
 
-1. **Normal (basis point) volatility** for options on rates  
-2. **Lognormal (percentage) volatility** for options on prices  
-3. **Forward premium** for some structures  
+[^1]: **Normal (basis point) volatility** for options on rates
+[^2]: **Lognormal (percentage) volatility** for options on prices
+[^3]: **Forward premium** for some structures
 
 These differences reflect the different dynamics of interest rates at various levels (negative rates require normal models).  
 
@@ -872,9 +872,9 @@ These differences reflect the different dynamics of interest rates at various le
 
 Commodity options may be quoted in:  
 
-1. **Implied volatility**  
-2. **Premium per unit** (e.g., cents per bushel)  
-3. **Percentage of underlying**  
+[^1]: **Implied volatility**
+[^2]: **Premium per unit** (e.g., cents per bushel)
+[^3]: **Percentage of underlying**
 
 The convention often depends on the commodity and the market participant (producer vs. financial investor).  
 
@@ -918,13 +918,13 @@ This tells us:
 
 In practice, the Black-Scholes assumption of constant volatility is violated. The implied volatility varies with both strike and maturity, creating a volatility surface. This has several implications:  
 
-1. **Pricing**: Options must be priced using the appropriate implied volatility for their strike and maturity.  
+[^1]: **Pricing**: Options must be priced using the appropriate implied volatility for their strike and maturity.
 
-2. **Hedging**: The hedge ratios must account for the movement of the volatility smile as the underlying moves.  
+[^2]: **Hedging**: The hedge ratios must account for the movement of the volatility smile as the underlying moves.
 
-3. **Risk management**: Portfolios have exposure not just to the level of volatility but to the shape of the smile.  
+[^3]: **Risk management**: Portfolios have exposure not just to the level of volatility but to the shape of the smile.
 
-4. **Arbitrage**: The smile must be arbitrage-free, imposing constraints on the relative prices of options.  
+[^4]: **Arbitrage**: The smile must be arbitrage-free, imposing constraints on the relative prices of options.
 
 The volatility smile is particularly pronounced in:  
 • FX markets (due to jump risk and interest rate differentials)  
@@ -937,15 +937,15 @@ Managing smile risk requires sophisticated models and systems, making it a key d
 
 Regulatory and exchange-imposed position limits create additional complications:  
 
-1. **Concentration risk**: Limits prevent excessive concentration in particular options.  
+[^1]: **Concentration risk**: Limits prevent excessive concentration in particular options.
 
-2. **Hedging constraints**: Large hedgers may need to use multiple instruments or markets.  
+[^2]: **Hedging constraints**: Large hedgers may need to use multiple instruments or markets.
 
-3. **Roll risk**: Positions may need to be rolled to different maturities to stay within limits.  
+[^3]: **Roll risk**: Positions may need to be rolled to different maturities to stay within limits.
 
-4. **Reporting requirements**: Positions above certain thresholds must be reported to regulators.  
+[^4]: **Reporting requirements**: Positions above certain thresholds must be reported to regulators.
 
-5. **Market impact**: Large positions near limits can affect market dynamics.  
+[^5]: **Market impact**: Large positions near limits can affect market dynamics.
 
 Position limits vary by:  
 • Asset class  
@@ -969,15 +969,15 @@ Options provide powerful tools for financial engineering, enabling:
 
 The key insights from this chapter include:  
 
-1. Options can replicate any desired payoff profile through appropriate portfolio construction.  
+[^1]: Options can replicate any desired payoff profile through appropriate portfolio construction.
 
-2. Directional strategies use options to express views on market direction with limited downside or enhanced leverage.  
+[^2]: Directional strategies use options to express views on market direction with limited downside or enhanced leverage.
 
-3. Volatility strategies enable trading without taking directional risk when dynamically hedged.  
+[^3]: Volatility strategies enable trading without taking directional risk when dynamically hedged.
 
-4. Exotic options provide more efficient ways to achieve specific objectives but introduce new risks.  
+[^4]: Exotic options provide more efficient ways to achieve specific objectives but introduce new risks.
 
-5. Real-world complications like volatility smiles and position limits must be carefully managed.  
+[^5]: Real-world complications like volatility smiles and position limits must be carefully managed.
 
 The successful application of options in financial engineering requires:  
 • Deep understanding of pricing models and their limitations  
@@ -1003,30 +1003,30 @@ For further exploration of the topics covered in this chapter, readers are encou
 
 # EXERCISES  
 
-1. Consider a stock trading at $100. Six-month ATM options have 30% implied volatility.  
+[^1]: Consider a stock trading at $100. Six-month ATM options have 30% implied volatility.
    a) Calculate the price of ATM calls and puts  
    b) Verify put-call parity  
    c) What is the delta of each option?  
 
-2. Design a strategy for an investor who:  
+[^2]: Design a strategy for an investor who:
    a) Expects the market to rise moderately  
    b) Wants to limit downside risk  
    c) Is willing to cap upside gains  
    What options would you use? Draw the payoff diagram.  
 
-3. Create a delta-neutral straddle when:  
+[^3]: Create a delta-neutral straddle when:
    • Stock price: $50  
    • Strike: $50  
    • Call delta: 0.55  
    • Put delta: -0.45  
    How many puts do you need per call?  
 
-4. A binary call option pays $1 if S_T > 100. Current stock price is $95.  
+[^4]: A binary call option pays $1 if S_T > 100. Current stock price is $95.
    a) Replicate this using vanilla options  
    b) What happens to the hedge as we approach maturity?  
    c) Why might this be difficult to hedge in practice?  
 
-5. Compare and contrast:  
+[^5]: Compare and contrast:
    a) Long straddle vs. long strangle  
    b) Risk reversal vs. collar  
    c) Butterfly vs. condor  
@@ -1034,17 +1034,17 @@ For further exploration of the topics covered in this chapter, readers are encou
 
 # EXCEL EXERCISES  
 
-1. Build a spreadsheet that:  
+[^1]: Build a spreadsheet that:
    a) Calculates option prices using Black-Scholes  
    b) Computes all Greeks (delta, gamma, vega, theta, rho)  
    c) Allows for easy scenario analysis  
 
-2. Create a volatility smile plotter that:  
+[^2]: Create a volatility smile plotter that:
    a) Takes ATM vol, risk reversals, and butterflies as inputs  
    b) Interpolates the full smile  
    c) Calculates option prices across strikes  
 
-3. Develop a barrier option pricer that:  
+[^3]: Develop a barrier option pricer that:
    a) Handles all four types (up/down, in/out)  
    b) Shows the barrier effect on option value  
    c) Calculates Greeks including barrier sensitivities  
@@ -1052,9 +1052,9 @@ For further exploration of the topics covered in this chapter, readers are encou
 # MATLAB EXERCISE  
 
 Implement a Monte Carlo simulation for:  
-1. Pricing path-dependent options (barriers, lookbacks)  
-2. Calculating hedge ratios numerically  
-3. Analyzing the effect of discrete vs. continuous monitoring  
+[^1]: Pricing path-dependent options (barriers, lookbacks)
+[^2]: Calculating hedge ratios numerically
+[^3]: Analyzing the effect of discrete vs. continuous monitoring
 
 Your code should:  
 • Be modular and well-documented  

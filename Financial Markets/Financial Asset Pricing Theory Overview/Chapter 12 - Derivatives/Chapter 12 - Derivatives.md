@@ -16,14 +16,14 @@ key_concepts:
   - risk management
 ---
 %% Begin Waypoint %%
-- **[Chapter 12 - Derivatives](.md)**
-	- [American-Style Derivatives](American-Style%20Derivatives.md)
-	- [Chapter 12 - Derivatives](.md)
-	- [Concluding Remarks](Concluding%20Remarks.md)
-	- [Exercises](Exercises.md)
-	- [Forwards and Futures](Forwards%20and%20Futures.md)
-	- [Interest Rate Swaps and Swaptions](Interest%20Rate%20Swaps%20and%20Swaptions.md)
-	- [Options](Options.md)
+- **Chapter 12 - Derivatives**
+	- American-Style Derivatives
+	- Chapter 12 - Derivatives
+	- Concluding Remarks
+	- Exercises
+	- Forwards and Futures
+	- Interest Rate Swaps and Swaptions
+	- Options
 
 %% End Waypoint %%
 # Chapter 12 - Derivatives
@@ -80,4 +80,4 @@ Table 12.2: Amounts outstanding (billions of US dollars) on OTC single-currency 
 
 Throughout the chapter we assume that prices are arbitrage-free and that a bank account and zero-coupon bonds of relevant maturities are traded so that we can define and work with the riskneutral probability measures and forward measures introduced in Chapter 11. We will denote the continuously compounded risk-free short-term interest rate by. $r_{t}$ instead of $\boldsymbol{r}_{t}^{f}$  
 
-Section 12.2 deals with forwards and futures, Section 12.3 with options, and Section 12.4 with. Swaps and swaptions. Some features of American-style derivatives are discussed in Section 12.5.  
+Section 12.2 deals with forwards and futures, Section 12.3 with options, and Section 12.4 with. Swaps and swaptions. Some features of American-style derivatives are discussed in Section 12.5.

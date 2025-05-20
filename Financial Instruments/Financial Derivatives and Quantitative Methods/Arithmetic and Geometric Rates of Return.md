@@ -32,12 +32,12 @@ key_concepts:
 We now consider $\mu$ and $\nu$ again. Suppose we have an asset worth 100 and for two successive periods it increases by $20\%$. Then the value at the end of the first period is 120 and the value at the end of the second period is 144.
 
 Now suppose that instead the asset increases in the first period by $30\%$ and in the second period by $10\%$. The average or arithmetic mean of the return is $20\%$. However, the value of the asset is 130 at the end of the first period and 143 at the end of the second period. The variability of the return has meant that the asset is worth less after two periods even though the average return is the same. We can calculate the equivalent per period return that would give the same value of 143 after two periods if there were no variance in the returns. That is the value $\nu$ that satisfies
-$$143=100 (1+\nu)^2.$$
+$$143=100 (1+\nu)[^2].$$
 
 This value is known as the geometric mean. It is another measure of the average return over the two periods. Solving this equation gives the geometric mean as $\nu=0.195826$ or $19.58\%$ per period which is less than the arithmetic rate of return per period.
 
 There is a simple relationship between the arithmetic mean return, the geometric mean return, and the variance of the return. Let $\mu_{1}=\mu+\sigma$ be the rate of return in the first period and let $\mu_{2}=\mu-\sigma$ be the rate of return in the second period. Here the average rate of return is $\frac{1}{2}(\mu_{1}+\mu_{2})=\mu$ and the variance of the two rates is $\sigma^{2}$. The geometric rate of return $\nu$ satisfies $(1+\nu)^{2}=(1+\mu_{1})(1+\mu_{2})$. Substituting and expanding this gives:
-$$1+2\nu+\nu^2=(1+\mu+\sigma)(1+\mu-\sigma)=(1+\mu)^2-\sigma^2=1+2\mu+\mu^2-\sigma^2$$
+$$1+2\nu+\nu[^2]=(1+\mu+\sigma)(1+\mu-\sigma)=(1+\mu)[^2]-\sigma[^2]=1+2\mu+\mu[^2]-\sigma[^2]$$
 
 Or
 $$\nu=\mu-\frac{1}{2}\sigma^{2}+\frac{1}{2}(\mu^{2}-\nu^{2}).$$
@@ -46,10 +46,10 @@ Since rates of return are typically less than one, the square of the return is e
 $$\mathrm{geometric~mean}\approx\mathrm{arithmetic~mean}-\frac{1}{2}\mathrm{variance}.$$
 
 This approximation will be better the smaller the interest rates and the smaller the variance. In the example, $\mu=0.2$ and $\sigma=0.1$, so $\frac{1}{2}\sigma^{2}=0.005$ and $\mu-\frac{1}{2}\sigma^{2}=0.1950$, which is close to the actual geometric mean of 0.1958. Thus, the difference between $\mu$ and $\nu$ is that $\nu$ is the geometric rate of return, and $\mu$ is the arithmetic rate of return. It is quite usual to use the arithmetic rate and therefore to write that the expected value of the logarithm of the stock price satisfies:
-$$\operatorname{E}[\ln S_T]=\ln S_0+\left (\mu-\frac{1}{2}\sigma^2\right) T$$
+$$\operatorname{E}[\ln S_T]=\ln S_0+\left (\mu-\frac{1}{2}\sigma[^2]\right) T$$
 
 And
-$$\mathrm{Var}[\ln S_T]=\sigma^2 T.$$
+$$\mathrm{Var}[\ln S_T]=\sigma[^2] T.$$
 
 ### Continuously Compounded Rate of Return
 
@@ -125,56 +125,56 @@ We have written the process in terms of $\ln S(t)$ rather than $S(t)$ itself. Th
 $$d\ln S(t)=\frac{dS(t)}{S(t)}.$$
 
 Thus, we might think that $\frac{dS(t)}{S(t)} = \nu\,dt + \sigma\,dz$. But this would be WRONG. The correct version is:
-$$\frac{dS(t)}{S(t)}=\left(\nu+\frac{1}{2}\sigma^2\right)\,dt+\sigma\,dz.$$
+$$\frac{dS(t)}{S(t)}=\left(\nu+\frac{1}{2}\sigma[^2]\right)\,dt+\sigma\,dz.$$
 
-This is a special case of [Ito's lemma](../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md). [Ito's lemma](../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md) shows that for any process of the form
+This is a special case of Ito's lemma. Ito's lemma shows that for any process of the form
 $$dx=a (x,    t) dt+b (x,    t) dz$$
 
 Then the function $G (x,    t)$ follows the process
-$$dG=\left (\frac{\partial G}{\partial x}a (x,    t)+\frac{\partial G}{\partial t}+\frac{1}{2}\frac{\partial^2 G}{\partial x^2}b^2 (x,    t)\right) dt+\frac{\partial G}{\partial x}b (x,    t) dz.$$
+$$dG=\left (\frac{\partial G}{\partial x}a (x,    t)+\frac{\partial G}{\partial t}+\frac{1}{2}\frac{\partial[^2] G}{\partial x[^2]}b[^2] (x,    t)\right) dt+\frac{\partial G}{\partial x}b (x,    t) dz.$$
 
-We'll see how to use [Ito's lemma](../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md). We have
+We'll see how to use Ito's lemma. We have
 $$d\:\ln S (t)=\nu\:dt+\sigma\: dz.$$
 
 Then let $\ln S (t)=x (t)$ s 0 $s (T)=G (x,    t)=e^{x}$ . Then upon differentiating
-$$\frac{\partial G}{\partial x}=e^x=S,    \quad\frac{\partial^2 G}{\partial S^2}=e^x=S,    \quad\frac{\partial G}{\partial t}=0.$$
+$$\frac{\partial G}{\partial x}=e^x=S,    \quad\frac{\partial[^2] G}{\partial S[^2]}=e^x=S,    \quad\frac{\partial G}{\partial t}=0.$$
 
-Hence,  using [Ito's lemma](../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md)
+Hence,  using Ito's lemma
 $$dS (t)=(\nu S (t)+0+\frac{1}{2}\sigma^{2}S (t)) dt+\sigma S (t)\:dz$$
 
 Or
-$$d\: S (t)=(\nu+\frac 12\sigma^2) S (t)\:dt+\sigma S (t)\:dz$$
+$$d\: S (t)=(\nu+\frac 12\sigma[^2]) S (t)\:dt+\sigma S (t)\:dz$$
 
 Since $\mu=\nu+\frac{1}{2}\sigma^{2}$ we can write this as
 $$d\: S (t)=\mu S (t)\:dt+\sigma S (t)\: dz.$$
 
-This process is known as [geometric Brownian motion](../Black%20Scholes%20Derivation.md) as it is the rate of change which is [Brownian motion](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md). Thus sometimes the above equation is written as
+This process is known as geometric Brownian motion as it is the rate of change which is Brownian motion. Thus sometimes the above equation is written as
 $$\begin{aligned}\frac{d\: S (t)}{S (t)}=\mu\:dt+\sigma\: dz.\end{aligned}$$
 
 We can also do the same calculation the other way around. Suppose that we start from the process
 $$ds (t)=\mu S (t)\:dt+\sigma S (t)\: dz.$$
 
 Now consider the function $G (S)=\ln S$ . Differentiating we have
-$$\frac{\partial G}{\partial S}=1,    \quad\frac{\partial^2 G}{\partial S^2}=-\frac{1}{S^2},    \quad\frac{\partial G}{\partial t}=0.$$
+$$\frac{\partial G}{\partial S}=1,    \quad\frac{\partial[^2] G}{\partial S[^2]}=-\frac{1}{S[^2]},    \quad\frac{\partial G}{\partial t}=0.$$
 
-Hence substituting into [Ito's lemma](../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md) we get.
-$$dG=d\ln S (t)=\left (\mu-\frac{1}{2}\sigma^2\right)\:dt+\sigma\: dz.$$
+Hence substituting into Ito's lemma we get.
+$$dG=d\ln S (t)=\left (\mu-\frac{1}{2}\sigma[^2]\right)\:dt+\sigma\: dz.$$
 
 ### The forward price
 
-As we have seen before the [forward price](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) just depends on the current price of the underlying,  the interest rate,  and the [time to expiration](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md). With [continuous compounding](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) we can write the [forward price](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) equation as
+As we have seen before the forward price just depends on the current price of the underlying,  the interest rate,  and the time to expiration. With continuous compounding we can write the forward price equation as
 $$F (S (t),    t)=S (t) e^{r (T-t)}.$$
 
-This shows the [forward price](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) is a [stochastic process](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) which depends on the price of the [underlying asset](Risk%20Neutral%20Pricing%20of%20Options.md) which itself is a [stochastic process](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md). Since we have
+This shows the forward price is a stochastic process%20Process.md) which depends on the price of the underlying asset which itself is a stochastic process%20Process.md). Since we have
 
-That the [forward price](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) is a function of a [stochastic process](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) we can use [Ito's lemma](../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md). Upon differentiation we have
-$$\frac{\partial F}{\partial S}=e^{r (T-t)};\quad\frac{\partial F}{\partial t}=-rS (t) e^{r (T-t)};\quad\frac{\partial^2 F}{\partial S^2}=0.$$
+That the forward price is a function of a stochastic process%20Process.md) we can use Ito's lemma. Upon differentiation we have
+$$\frac{\partial F}{\partial S}=e^{r (T-t)};\quad\frac{\partial F}{\partial t}=-rS (t) e^{r (T-t)};\quad\frac{\partial[^2] F}{\partial S[^2]}=0.$$
 
-Hence substituting into [Ito's lemma](../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md)
+Hence substituting into Ito's lemma
 $$\begin{aligned}dF&=\left (e^{r (T-t)}\mu S (t)-rS (t) e^{r (T-t)}\right) dt+\sigma S (t) e^{r (T-t)}dz\\&=(\mu-r) S (t) e^{r (T-t)}\sigma S (t) e^{r (T-t)}dz\\&=(\mu-r) F (t) dt+\sigma F (t) dz.\end{aligned}$$
 
-This shows that the [forward price](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) also follows a [geometric Brownian motion](../Black%20Scholes%20Derivation.md) process with [expected return](../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) given by the risk premium on the underlying $\mu-r$ and volatility 0 (the same as the [underlying asset](Risk%20Neutral%20Pricing%20of%20Options.md)).
+This shows that the forward price also follows a geometric Brownian motion process with expected return given by the risk premium on the underlying $\mu-r$ and volatility 0 (the same as the underlying asset).
 
 ## Summary
 
-We have shown how [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are continuously compounded and introduced the [geometric Brownian motion](../Black%20Scholes%20Derivation.md) process for stock prices. We have shown how [Ito's lemma](../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md) can be used. The next thing to do will be to show how to use the assumption of [geometric Brownian motion](../Black%20Scholes%20Derivation.md) to price an option or derivative using [Ito's lemma](../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md).
+We have shown how returns are continuously compounded and introduced the geometric Brownian motion process for stock prices. We have shown how Ito's lemma can be used. The next thing to do will be to show how to use the assumption of geometric Brownian motion to price an option or derivative using Ito's lemma.

@@ -87,7 +87,7 @@ bond_symbology
 
 # Load govt_on_the_run, as of 2024-04-08
 # Keep OTR treasuries only
-govt_on_the_run_simple = govt_on_the_run[~govt_on_the_run['ticker'].str.contains('B|C')]
+govt_on_the_run_simple = govt_on_the_run[~govt_on_the_run['ticker'].str.contains('B | C')]
 display(govt_on_the_run_simple.head())
 ```
 
@@ -301,8 +301,8 @@ Use the "Investigate Bond Cashflows" section in the Quantlib Basic notebook as a
 
 The results dataframe should contain following columns:
 
-| CashFlowDate | CashFlowAmount | CashFlowYearFrac |
-|----------|-------|-------------|
+ | CashFlowDate | CashFlowAmount | CashFlowYearFrac | 
+ | ---------- | ------- | ------------- | 
 
 Pick one government and one corporate bond from symbology, create the bond objects and display the future cashflows.
 
@@ -329,8 +329,8 @@ Restrict the symbology + market data dataframe to "on-the-run"/OTR US treasury n
 
 Extend the treasuries symbology dataframe with the following market data columns (code from Homework 1):
 
-| date | bidPrice | askPrice | midPrice | bidYield | askYield | midYield | term | TTM |
-|----------|-------|-------------|-----|----------|---------|---------|---------|---------|
+ | date | bidPrice | askPrice | midPrice | bidYield | askYield | midYield | term | TTM | 
+ | ---------- | ------- | ------------- | ----- | ---------- | --------- | --------- | --------- | --------- | 
 
 Plot a graph/scatter plot of on-the-run treasury mid yields by TTM.
 
@@ -361,8 +361,8 @@ bond_engine = ql.DiscountingBondEngine(tsy_yield_curve_mid)
 
 Extend the dataframe with the following computed columns for clean mid prices:
 
-| calc_mid_price |
-|---------------|
+ | calc_mid_price | 
+ | --------------- | 
 
 To validate the calibration, compare the calculated clean mid prices to the original market mid prices.
 
@@ -374,8 +374,8 @@ Remember that DV01 = Dirty_Price * Duration.
 
 Extend the dataframe with the following calculated risk metrics:
 
-| dv01 | duration | convexity |
-|-------|-------|-------------|
+ | dv01 | duration | convexity | 
+ | ------- | ------- | ------------- | 
 
 ## c. Compute Scenario DV01, Duration and Convexity for US On-The-Run Treasuries (Using Calibrated Yield Curve)
 
@@ -385,8 +385,8 @@ Remember that DV01 = Dirty_Price * Duration.
 
 Extend the dataframe with the following scenario sensitivities metrics:
 
-| scen_dv01 | scen_duration | scen_convexity |
-|-------|-------|-------------|
+ | scen_dv01 | scen_duration | scen_convexity | 
+ | ------- | ------- | ------------- | 
 
 # Problem 4: Pricing and Risk Metrics for Corporate Bonds
 
@@ -400,8 +400,8 @@ Compute analytical Yields and Z-Spreads metrics, as described in Section 7. "Ana
 
 Extend the dataframe with the following calculated risk metrics:
 
-| calc_yield | calc_zspread |
-|-------|-------------|
+ | calc_yield | calc_zspread | 
+ | ------- | ------------- | 
 
 ## c. Validate Z-Spread Computation for a Few Fixed Rate Corporate Bonds
 
@@ -415,7 +415,7 @@ Compute analytical Duration and Convexity metrics, as described in Section 7. "A
 
 Extend the dataframe with the following calculated risk metrics:
 
-| calc_duration | calc_convexity |
-|-------|-------------|
+ | calc_duration | calc_convexity | 
+ | ------- | ------------- | 
 
 Display the head of the dataframe.

@@ -32,17 +32,17 @@ key_concepts:
 
 ## 1. Preamble
 
-1. Three periods: $i \in \{0,1,2\}$
-2. Stock price in initial period: $S_0$
-3. Stock price can either rise or fall by 10% in each subsequent period $i \in \{1,2\}$ 
-4. Discrete compounding per period interest rate: $r$
-5. European call option has strike price: $K = S_0$
+[^1]: Three periods: $i \in \{0,1,2\}$
+[^2]: Stock price in initial period: $S_0$
+[^3]: Stock price can either rise or fall by 10% in each subsequent period $i \in \{1,2\}$
+[^4]: Discrete compounding per period interest rate: $r$
+[^5]: European call option has strike price: $K = S_0$
 
 ## 2. Option Pricing with Multiple Periods
 
-1. **Overview**: Construct a replicating portfolio of stocks and bonds that replicates the payoff of the call option.
+[^1]: **Overview**: Construct a replicating portfolio of stocks and bonds that replicates the payoff of the call option.
 
-2. Stock price payoff tree:
+[^2]: Stock price payoff tree:
    
    a. Period $i = 0$: $S_0$
    
@@ -55,7 +55,7 @@ key_concepts:
       - $S_{ud} = d \cdot S_u = u \cdot S_d = S_{du}$
       - $S_{dd} = d \cdot S_d$
 
-3. Call option payoff tree:
+[^3]: Call option payoff tree:
 
    a. Period $i = 0$: $c_0$ (to be determined)
    
@@ -68,9 +68,9 @@ key_concepts:
       - $c_{ud} = \max\{S_{ud} - K, 0\}$
       - $c_{dd} = \max\{S_{dd} - K, 0\}$
 
-4. Work backwards from final node in the tree to determine option prices ($c_0$, $c_u$, $c_d$).
+[^4]: Work backwards from final node in the tree to determine option prices ($c_0$, $c_u$, $c_d$).
 
-5. Period $i = 1$:
+[^5]: Period $i = 1$:
    
    a. Node $u$:
       - Position in stocks ("delta"):
@@ -92,7 +92,7 @@ key_concepts:
       - Value of replicating portfolio in stocks and bonds:
         $$c_{d}:=V_{d}^{RP}=\Delta_{d}\cdot S_{d}+B_{d}$$
 
-6. Period $i = 0$:
+[^6]: Period $i = 0$:
    - Position in stocks ("delta"):
      $$\Delta_{0}={\frac{c_{u}-c_{d}}{S_{u}-S_{d}}}$$
 
@@ -104,23 +104,23 @@ key_concepts:
 
 ## 3. Portfolio Self-Financing
 
-1. Compute value of "inherited" portfolio and cost of "current" portfolio.
+[^1]: Compute value of "inherited" portfolio and cost of "current" portfolio.
 
-2. Consider node $u$ at $i = 1$.
+[^2]: Consider node $u$ at $i = 1$.
 
-3. Value of "inherited" portfolio set up at $i = 0$:
+[^3]: Value of "inherited" portfolio set up at $i = 0$:
    $$V_{u}^{1}=\Delta_{0}\cdot S_{u}+B_{0}\cdot(1+r)$$
 
-4. Cost of "future" portfolio set up at $i = 1$:
+[^4]: Cost of "future" portfolio set up at $i = 1$:
    $$V_{u}^{2}=\Delta_{u}\cdot S_{u}+B_{u}$$
 
-5. **Question**: What is the value of $(V_u^1 - V_u^2)$?
+[^5]: **Question**: What is the value of $(V_u[^1] - V_u[^2])$?
 
 ## 4. Option Pricing with Dividends
 
-1. **Takeaway**: Stock prices must fall in response to dividends.
+[^1]: **Takeaway**: Stock prices must fall in response to dividends.
 
-2. Stock price payoff tree with dividend yield $y$ at period $t = 1$:
+[^2]: Stock price payoff tree with dividend yield $y$ at period $t = 1$:
    
    a. Period $i = 0$: $S_0$
    
@@ -133,11 +133,11 @@ key_concepts:
       - $S_{ud} = d \cdot S_u = u \cdot S_d = S_{du}$
       - $S_{dd} = d \cdot S_d$
 
-3. Note that the tree is recombining at period $i = 2$, i.e. $S_{ud} = S_{du}$
+[^3]: Note that the tree is recombining at period $i = 2$, i.e. $S_{ud} = S_{du}$
 
-4. Follow the same steps as before to compute option prices.
+[^4]: Follow the same steps as before to compute option prices.
 
-5. Consider node $u$ at period $i = 1$:
+[^5]: Consider node $u$ at period $i = 1$:
    
    a. Position in stocks:
       $$\Delta_{u}={\frac{c_{uu}-c_{ud}}{S_{uu}-S_{ud}}}.$$
@@ -148,7 +148,7 @@ key_concepts:
    c. Value of option:
       $$c_u := V_u^{RP} = \Delta_u \cdot S_u + B_u$$
 
-6. Consider node $d$ at period $i = 1$:
+[^6]: Consider node $d$ at period $i = 1$:
    
    a. Position in stocks:
       $$\Delta_{d}=\frac{c_{du}-c_{dd}}{S_{du}-S_{dd}}.$$
@@ -159,7 +159,7 @@ key_concepts:
    c. Value of option:
       $$c_{d}:=V_{d}^{RP}=\Delta_{d}\cdot S_{d}+B_{d}$$
 
-7. Use stock prices without dividend at period $i = 1$, namely $S_u^{ND} = u \cdot S_0$ and $S_d^{ND} = d \cdot S_0$, when pricing options at the initial period $i = 0$.
+[^7]: Use stock prices without dividend at period $i = 1$, namely $S_u^{ND} = u \cdot S_0$ and $S_d^{ND} = d \cdot S_0$, when pricing options at the initial period $i = 0$.
    
    a. Position in stocks:
       $$\Delta_{0}=\frac{c_{u}-c_{d}}{S_{u}^{ND}-S_{d}^{ND}}$$

@@ -23,13 +23,13 @@ key_concepts:
 
 # Modeling Vanilla Interest Rate Swaps Using QuantLib Python
 
-Provides a basic [introduction](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to valuing interest rate swaps using [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md).
+Provides a basic introduction to valuing interest rate swaps using QuantLib Python.
 
-_Visit here for other [QuantLib Python]([Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python) examples](http://gouthamanbalaraman.com/blog/[quantlib](Introduction%20to%20QuantLib%20Python.md)-python-tutorials-with-examples.html). If you found these posts useful,  please take a minute by providing some  [feedback.](https://docs.google.com/forms/d/e/1FAIpQLSdFdJ768HKmIyJmaVRHBUJNY5NyQl6vr0GZvSkx-bUfIloNZA/viewform)_
+_Visit here for other QuantLib Python examples](http://gouthamanbalaraman.com/blog/quantlib-python-tutorials-with-examples.html). If you found these posts useful,  please take a minute by providing some  feedback._
 
-An [Interest Rate Swap](../../../Financial%20Engineering/Primer%20on%20Interest%20Rate%20Swaps.md) is a financial derivative instrument in which two parties agree to exchange interest rate cash flows based on a notional amount from a fixed rate to a floating rate or from one floating rate to another floating rate. 
+An Interest Rate Swap is a financial derivative instrument in which two parties agree to exchange interest rate cash flows based on a notional amount from a fixed rate to a floating rate or from one floating rate to another floating rate. 
 
-Here we will consider an example of a plain vanilla USD swap with 10 million notional and 10 year maturity. Let the [fixed leg](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) pay 2.5% coupon semiannually,  and the [floating leg](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) pay [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] 3m quarterly. 
+Here we will consider an example of a plain vanilla USD swap with 10 million notional and 10 year maturity. Let the fixed leg pay 2.5% coupon semiannually,  and the floating leg pay Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] 3m quarterly.
 
 ## Sample Code
 ```python
@@ -38,9 +38,9 @@ calculation_date = ql.Date(20,  10,  2015)
 ql.Settings.instance().evaluationDate = calculation_date
 ```
 
-Here we construct the yield curve objects. For simplicity,  we will use flat curves for discounting and [Basis Swap](A%20Guide%20to%20the%20Front%20End%20and%20[[Basis%20Swaps) Markets#[London Interbank Offered Rate](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) (LIBOR)|LIBOR]] 3M. This will help us focus on the Swap construction part. Please refer to [curve construction example](http://gouthamanbalaraman.com/blog/[quantlib](Introduction%20to%20QuantLib%20Python.md)-term-structure-bootstrap-yield-curve.html) for some details.
+Here we construct the yield curve objects. For simplicity,  we will use flat curves for discounting and Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] 3M. This will help us focus on the Swap construction part. Please refer to curve construction example-term-structure-bootstrap-yield-curve.html) for some details.
 ```python
-# construct discount curve and [](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#London%20Interbank%20Offered%20Rate%20(LIBOR)|LIBOR) curve
+# construct discount curve and [](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/A%20Guide%20to%20the%20Front%20End%20and%20Basis%20Swap%20Markets.md#London%20Interbank%20Offered%20Rate%20(LIBOR) | LIBOR) curve
 risk_free_rate = 0.01
 libor_rate = 0.02
 day_count = ql.Actual365Fixed()
@@ -96,7 +96,7 @@ ir_swap.setPricingEngine(swap_engine)
 
 ## Result Analysis
 
-The cashflows for the fixed and [floating leg](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) can be extracted from the `ir_swap` object. The [fixed leg](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) cashflows are shown below:
+The cashflows for the fixed and floating leg can be extracted from the `ir_swap` object. The fixed leg cashflows are shown below:
 ```python
 for i,  cf in enumerate(ir_swap.leg(0)):
     print "%2d    %-18s  %10.2f"%(i+1,  cf.date(),  cf.amount())
@@ -144,7 +144,7 @@ for i,  cf in enumerate(ir_swap.leg(0)):
 40    October 27th,   2025    60098.65
 ```
 
-The [floating leg](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) cashflows are shown below:
+The floating leg cashflows are shown below:
 ```python
 for i,  cf in enumerate(ir_swap.leg(1)):
     print "%2d    %-18s  %10.2f"%(i+1,  cf.date(),  cf.amount())

@@ -23,31 +23,31 @@ key_concepts:
 # Teaching Note 4-Multiperiod Binomial Trees
 
 %% Begin Waypoint %%
-- **[Teaching Note 4-Multiperiod Binomial Trees](.md)**
-	- [Binomial Option Pricing](Binomial%20Option%20Pricing.md)
-	- [Binomial Tree Steps](Binomial%20Tree%20Steps.md)
-	- [Calculate Stock Prices at Different Nodes](Calculate%20Stock%20Prices%20at%20Different%20Nodes.md)
-	- [Options Strategies Construction](Options%20Strategies%20Construction.md)
-	- [Teaching Note 4-Multiperiod Binomial Trees](.md)
-	- [Teaching Note 7- [[Exotic Options and Derivative Pricing By Monte Carlo Simulation](Teaching%20Note%207-%20[[Exotic%20Options%20and%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md)
-	- [Teaching Note 7- [[Lecture Note 6-Implied Volatility](Teaching%20Note%207-%20[[Lecture%20Note%206-Implied%20Volatility.md)
-	- [The Pricing of Options and Corporate Liabilities](The%20Pricing%20of%20Options%20and%20Corporate%20Liabilities.md)
+- **Teaching Note 4-Multiperiod Binomial Trees**
+	- Binomial Option Pricing
+	- Binomial Tree Steps
+	- Calculate Stock Prices at Different Nodes
+	- Options Strategies Construction
+	- Teaching Note 4-Multiperiod Binomial Trees
+	- Teaching Note 7- Exotic Options and Derivative Pricing By Monte Carlo Simulation
+	- Teaching Note 7- Lecture Note 6-Implied Volatility
+	- The Pricing of Options and Corporate Liabilities
 
 %% End Waypoint %%
 
-**[Teaching Note 1Forward Rates Agreement](Teaching%20Note%201Forward%20Rates%20Agreement)**
- [Teaching Note 2-Futures Contracts](../Teaching%20Note%202-Futures%20Contracts.md)
- **[Teaching Note 3 SwapsFinancial Instruments](Teaching%20Note%203%20SwapsFinancial%20Instruments)**
- **[Teaching Note 4-Multiperiod Binomial Trees](.md)**
- [Teaching Note 5Black Scholes Formula](Teaching%20Note%205Black%20Scholes%20Formula)
- [Teaching Note 6-Implied Volatility](Teaching%20Note%206-Implied%20Volatility)
- [LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION](../Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md)
- [Teaching Note 8 American Options](Teaching%20Note%208%20American%20Options)
- [Teaching Notes 9Corporate Securities And Credit Derivatives](Teaching%20Notes%209Corporate%20Securities%20And%20Credit%20Derivatives)
- [Teaching Notes 9ACredit Default Swaps](Teaching%20Notes%209ACredit%20Default%20Swaps)
- [Teaching Notes 10Interest Rate Derivatives](Teaching%20Notes%2010Interest%20Rate%20Derivatives)
-[PSET 5 Financial Instruments](PSET%205%20Financial%20Instruments.md)
-[Option Pricing With Multiperiod Binomial Tree](Option%20Pricing%20With%20Multiperiod%20Binomial%20Tree.md)
+**Teaching Note 1Forward Rates Agreement**
+ Teaching Note 2-Futures Contracts
+ **Teaching Note 3 SwapsFinancial Instruments**
+ **Teaching Note 4-Multiperiod Binomial Trees**
+ Teaching Note 5Black Scholes Formula
+ Teaching Note 6-Implied Volatility
+ LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE CARLO SIMULATION
+ Teaching Note 8 American Options
+ Teaching Notes 9Corporate Securities And Credit Derivatives
+ Teaching Notes 9ACredit Default Swaps
+ Teaching Notes 10Interest Rate Derivatives
+PSET 5 Financial Instruments
+Option Pricing With Multiperiod Binomial Tree
 
 # LECTURE 4 BINOMIAL TREE
 - **1. Binomial Trees**
@@ -74,7 +74,7 @@ key_concepts:
 
 .
 		  - Stock tree is given by
-		  -![|300](IMG-20240913171226954.png)
+-! | 300
 **Expected Return and Volatility on Binomial Trees**
 		  - Expected (Gross) Return:
 			 -$$E_0\left[\frac{S_1}{S_0}\right] = q \times \left[\frac{S_{1;u}}{S_0}\right] + (1 - q) \times \left[\frac{S_{1;d}}{S_0}\right] = 1.19$$
@@ -88,7 +88,7 @@ key_concepts:
 				- In the Up Node:$c_{1;u} = \max(S_{1;u} - K,  0) = \max(70 - 50,  0) = 20$
 				- In the Down Node:$c_{1;d} = \max(S_{1;d} - K,  0) = \max(35 - 50,  0) = 0$
 			 - Determining the value of the call option at$T = 0$(denoted as$c_0$).
-			 -![|400](IMG-20240913171235433.png)
+-! | 400
 **Replicating Portfolio**
 		  - Assuming a continuously compounded interest rate$r = 0.11$.
 		  - Construction of a portfolio of stocks and bonds:
@@ -115,13 +115,13 @@ key_concepts:
 **Example - Call Option**
 		  - Example of call option pricing on a binomial tree.
 		  - Calculating$\Delta$for the portfolio:
-		  -![400](IMG-20240913171240842.png)
+		  -!400
 			 -$$\delta = \frac{c_{1;u} - c_{1;d}}{S_{1;u} - S_{1;d}} = \frac{20 - 0}{70 - 35} = 0.5714$$
 		  - Portfolio long the call and short$\delta$stocks valued at time$i = 1$:$$\Phi_{1;u} = c_{1;u} - \delta \times S_{1;u} = 20 - 0.5714 \times 70 = -20$$$$\Phi_{1;d} = c_{1;d} - \delta \times S_{1;d} = 0 - 0.5714 \times 35 = -$20$$
 
 		  - Bond position$B_0 = e^{-0.11} \times (-20) = -17.9167$(negative indicates borrowing).
 
-![|300](IMG-20240913171244321.svg)
+! | 300
 
 **Summing Up and Put Option Example**
   - Process for pricing any derivative security on the tree.
@@ -159,9 +159,9 @@ key_concepts:
 **Risk Neutral Pricing: A Recipe**
  Steps to price derivative securities:
 
- 1. Assume everyone is risk neutral.
- 1. Compute probabilities consistent with risk neutralities.
- 1. Price any derivative security using the formula:$$\text{Price of Derivative Security} = E'_0[e^{-rT} \times \text{Payoff at } T]$$
+[^1]: Assume everyone is risk neutral.
+[^1]: Compute probabilities consistent with risk neutralities.
+[^1]: Price any derivative security using the formula:$$\text{Price of Derivative Security} = E'_0[e^{-rT} \times \text{Payoff at } T]$$
 
 	  - This methodology is applicable even outside of the binomial tree model,  as an implication of no arbitrage.
 **Risk Neutral Pricing: Examples**
@@ -174,16 +174,16 @@ Return on stocks,  if everyone is risk neutral,  is the risk-free rate:$S_0 = e^
 
 	 - Thus, $$F_{0;T} = E'_0[S_T] = S_0 \times e^{rT}$$
 
-**Risk Neutral Pricing - [Swaps](Swaps.md)**
-		  - [Swaps](Swaps.md) involve counterparties agreeing to exchange cash flows at multiple times$T_1,  T_2,  …,  T_n$.
+**Risk Neutral Pricing - Swaps**
+		  - Swaps involve counterparties agreeing to exchange cash flows at multiple times$T_1,  T_2,  …,  T_n$.
 			 - Cash Flow at$T_i = (S_{T_i} - K)$.
-		  - Swap value at time zero:$V_{\text{swap}}^0$can be computed using risk neutral pricing.
+		  - Swap value at time zero:$V_{\text{swap}}[^0]$can be computed using risk neutral pricing.
 
-			 -$$V_{\text{swap}}^0 = \sum_{i=1}^{n} e^{-rT_i} \times E'_0[S_{T_i} - K]$$
+			 -$$V_{\text{swap}}[^0] = \sum_{i=1}^{n} e^{-rT_i} \times E'_0[S_{T_i} - K]$$
 
-Using$F_{0;T_i} = E'_0[S_{T_i}]$,  the swap value is$V_{\text{swap}}^0 = \sum_{i=1}^{n} e^{-rT_i} \times [F_{0;T_i} - K]$.
+Using$F_{0;T_i} = E'_0[S_{T_i}]$,  the swap value is$V_{\text{swap}}[^0] = \sum_{i=1}^{n} e^{-rT_i} \times [F_{0;T_i} - K]$.
 
-			 - To find Swap Price$K$such that$V_{\text{swap}}^0 = 0$,  solve for$$K = \sum_{i=1}^{n} w_i F_{0;T_i}$$where$$w_i = \frac{e^{-rT_i}}{\sum_{j=1}^{n} e^{-rT_j}}$$
+			 - To find Swap Price$K$such that$V_{\text{swap}}[^0] = 0$,  solve for$$K = \sum_{i=1}^{n} w_i F_{0;T_i}$$where$$w_i = \frac{e^{-rT_i}}{\sum_{j=1}^{n} e^{-rT_j}}$$
 
 .
 **Risk Neutral Pricing and Discount Rates**
@@ -212,13 +212,13 @@ Using$F_{0;T_i} = E'_0[S_{T_i}]$,  the swap value is$V_{\text{swap}}^0 = \sum_{i
 		  - Introducing a more complex example with a two-step binomial tree.
 		  - Objective: Price an option with maturity$T = 2$and strike price$K = 50$.
 		  - Tree structure with various stock prices at$i = 0,  1,  2$.
-		  -![|300](IMG-20240913171248361.png)
+-! | 300
 
 **Methodology 1 - Dynamic Replication**
-![600](IMG-20240913171254264.svg)
+!600
 
 **Methodology 2 - Risk Neutral Pricing**
- ![500](IMG-20240913171259467.svg)
+ !500
 
 **Risk Neutral Pricing**
   - Concludes that risk neutral pricing simplifies computations considerably.
@@ -239,10 +239,10 @@ Using$F_{0;T_i} = E'_0[S_{T_i}]$,  the swap value is$V_{\text{swap}}^0 = \sum_{i
 **Multi-Step Trees**
  Description of a stock process in a multi-step tree:
 		 -$S_{i+1} = S_i \times u$with probability$q$,  or$S_i \times d$with probability$1 - q$.
-Conditions to approximate the expected return$\mu$and variance$\sigma^2$:
+Conditions to approximate the expected return$\mu$and variance$\sigma[^2]$:
 
- 1. Expected Return:$$E[S_{i+1}/S_i] = e^{\mu h}$$implying$$q \times u + (1 - q) \times d = e^{\mu$h}$$
- 1. Variance:$E[(S_{i+1}/S_i / e^{\mu h})^2] = \sigma^2 \times h$leading to a specific relation for$u,  d, $and$q$.
+[^1]: Expected Return:$$E[S_{i+1}/S_i] = e^{\mu h}$$implying$$q \times u + (1 - q) \times d = e^{\mu$h}$$
+[^1]: Variance:$E[(S_{i+1}/S_i / e^{\mu h})[^2]] = \sigma[^2] \times h$leading to a specific relation for$u,  d, $and$q$.
 	  - Assumption of symmetry: Percentage increase in stock$u$equals the inverse of the percentage decrease$1/d$.
 **Multi-Step Trees**
   - Solution to the three equations for$u,  d, $and$q$:
@@ -254,28 +254,28 @@ Conditions to approximate the expected return$\mu$and variance$\sigma^2$:
   - Movement in the tree:
 	 - An 'up' movement in$S$between$i$and$i + 1$corresponds to the same index$j$.
 	 - A 'down' movement in$S$corresponds to an increase in the index$j$.
-			 -![|500](IMG-20240913171304253.png)
+-! | 500
 **Multi-Step Trees - Derivative Pricing**
 - Methodology for pricing a derivative security on a multi-step binomial tree using risk neutral pricing.
 - Steps include:
-	 1. Computing the risk neutral probability$q'$.
-	 1. Moving backward on the tree with$V_{i, j} = e^{-rh} \times E^*[V_{I+1, j}]$.
+[^1]: Computing the risk neutral probability$q'$.
+[^1]: Moving backward on the tree with$V_{i, j} = e^{-rh} \times E^*[V_{I+1, j}]$.
 			 - For call options,  start from the end of the tree and move backward applying the formula.
-			 -![|500](IMG-20240913171308510.png)
+-! | 500
 **Multi-Step Trees - Probability Distribution of$S_T$**
-  - Discussion on the [probability distribution](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) of stock price at maturity$S_T$in a multi-step tree.
+  - Discussion on the probability distribution of stock price at maturity$S_T$in a multi-step tree.
   - Illustration of how each node at maturity can be reached,  and the probability of reaching each node.
   - Probability calculation for each node$j$at maturity$T = nh$using binomial coefficients.
 **Multi-Step Trees - Probability Distribution of$S_T$**
   - As the number of steps$n$in the binomial tree increases to infinity,  the distribution of the stock price$S_T$at maturity converges to a log-normal distribution.
   - A figure is referenced showing the probabilities of$S_T$for$n = 250$and$T = 1$.
-		  -![|500](IMG-20240913171312134.png)
+-! | 500
 **Multi-Step Trees - Probability Distribution of$S_T$**
   - Probability density with respect to$\log(S_T)$.
   - Comparison with the normal density,  including mean and standard deviation calculations.
-		  -![|500](IMG-20240913171315251.png)
-**Multi-Step Trees and Black-Scholes Model** [Lecture Notes 5-Black Scholes Equation](Lecture%20Notes%205-Black%20Scholes%20Equation.md)
-	  - The [probability distribution](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) of$\log(S_T)$implied by the binomial tree matches the normal distribution.
+-! | 500
+**Multi-Step Trees and Black-Scholes Model** Lecture Notes 5-Black Scholes Equation
+	  - The probability distribution of$\log(S_T)$implied by the binomial tree matches the normal distribution.
 	  - Formula for option price from the binomial tree.
 	  - Approximation of$S_T$as log-normally distributed leads to the Black-Scholes formula.
 	  - Discussion on the convergence of the call option price as$n$increases.

@@ -1,5 +1,7 @@
 ---
 title: Credit Market PSETS
+cssclasses: 
+  - academia
 tags:
   - credit_markets
   - credit_risk
@@ -8,40 +10,33 @@ tags:
   - valuation
   - homework
   - quantlib
+  - problem_sets
+  - bond_pricing
+  - cds_pricing
 aliases:
   - Credit Market Problem Sets
   - Credit PSETS
   - Credit Assignments
 key_concepts:
-  - Credit market instruments
-  - Credit risk valuation
-  - Market dynamics
-  - Problem sets
-  - QuantLib analytics
-  - Credit homework
+  - QuantLib analytics library usage
+  - Bond pricing and yield calculations
+  - Z-spread computation
+  - Duration and convexity analysis
+  - CDS valuation
+  - Risk-neutral pricing framework
+  - Term structure modeling
+  - Credit spread dynamics
 ---
 
 # Credit Market PSETS
 
 %% Begin Waypoint %%
-<<<<<<< HEAD
-- **[Credit Market PSETS](.md)**
-	- [Advanced Usage of QuantLib analytics library](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md)
-	- [Basic Usage of QuantLib analytics library](Basic%20Usage%20of%20QuantLib%20analytics%20library.md)
-	- [Credit Market Homework 1](Credit%20Market%20Homework%201.md)
-	- [Credit Markets Homework 2](Credit%20Markets%20Homework%202.md)
-	- [Credit Markets Homework 3](Credit%20Markets%20Homework%203.md)
-	- [Credit Markets Homework 4](Credit%20Markets%20Homework%204.md)
-	- [Credit Market Solutions](Credit%20Market%20Solutions.md)
-=======
-- **[[Credit Market PSETS]]**
-	- [[Advanced Usage of QuantLib analytics library]]
-	- [[Basic Usage of QuantLib analytics library]]
-	- [[Credit Market Homework 1]]
-	- [[Credit Markets Homework 2]]
-	- [[Credit Markets Homework 3]]
-	- [[Credit Markets Homework 4]]
-	- [[Credit Market Solutions]]
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
-
+- **Credit Market PSETS**
+	- Advanced Usage of QuantLib analytics library]]
+	- Basic Usage of QuantLib analytics library]]
+	- Credit Market Homework 1]]
+	- Credit Markets Homework 2]]
+	- Credit Markets Homework 3]]
+	- Credit Markets Homework 4]]
+	- Credit Market Solutions]]
 %% End Waypoint %%

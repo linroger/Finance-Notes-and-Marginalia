@@ -93,9 +93,9 @@ B.Swap market overview 1. Economic rational and benefits a) Credit arbitrage, AL
 C. Simple valuation 1.NPV equals fixed bond less float bond 2. Focus on PV'ing multiple cash flows, but point out this uses single yield (YTM)   
 D. Risk and hedging.  
 
-1. Hedging is fundamental to running a book. Pricing is easy. Must live with trade after execution - must hedge.  
+[^1]: Hedging is fundamental to running a book. Pricing is easy. Must live with trade after execution - must hedge.
 
-2. Practical hedging - three "stages"' in hedging  
+[^2]: Practical hedging - three "stages"' in hedging
 
 a) Hedge outright risk ("parallel' risk) by trading a single Treasury (1) Subject to curve twist risk and swap spread risk   
 b) Hedge curve risk by "barbell"' with Treasuries (1) Still subject to swap spread risk.   
@@ -107,7 +107,7 @@ c) Hedge swap spread risk by replacing Treasuries with OTR swaps
 
 At any time the EXIT key will take you back to the previous menu, and GOLD (shift) MAIN will return to the main menu.  
 
-1(a) - Set the number of displayed decimals (Chapter 1)  
+[^1]: (a) - Set the number of displayed decimals (Chapter 1)
 
 Turn on the machine and press DSP. A menu with the following options is displayed:  
 
@@ -117,13 +117,13 @@ Note that changing the number of decimal places displayed does not affect what i
 
 Press the GOLD (shift) key and hold down SHOw (above the . ) for as long as you wish.  
 
-1 (b) - Choose the number separator (Chapter 1)  
+[^1]: (b) - Choose the number separator (Chapter 1)
 
 Press DSP again and choose the number separator you wish to use:  
 
 Press . to set the period as the decimal point and the comma as the digit separator (e.g. 100,o00.00) Press , to set the comma as the decimal point and the period as the digit separator (Continental notation, e.g. 100.000,00)  
 
-1 (c) - Set Algebraic vs. RPN mode (Appendix D)  
+[^1]: (c) - Set Algebraic vs. RPN mode (Appendix D)
 
 Press the GOLD (shift) followed by MODES (above DSP). The following menu appears  
 
@@ -136,7 +136,7 @@ Press BEEP a few times to cycle through the options. BEEPER ON means that you wi
 PRNT and DBL refer to the power source and double-spacing for a printer connected to the calculator.   
 Not relevant here.  
 
-1(d) - Set the time and date (Chapter 10)  
+[^1]: (d) - Set the time and date (Chapter 10)
 
 Select TIME from the main menu (GOLD MAIN then TIME) and the display will show the day, date, and time as set in the calculator   
 Press SET and adjust the time display configuration as required. M/D toggles between   
@@ -150,11 +150,11 @@ Return to the main menu (GOLD MAIN).
 
 The following exercises show how to do basic arithmetical calculations using RPN logic. The important point to remember is that ENTER (the $=$ key or the INPUT key) separates numbers that you key in, and the arithmetical operators complete the calculation. For those who have used (or are using) an HP12C these operations will come naturally.  
 
-2(a)  
+[^2]: (a)
 
 <html><body><table><tr><td>Calculate:</td><td>Press Display</td></tr><tr><td>12+4 12ENTER4+</td><td>16.00</td></tr><tr><td>12-4</td><td>12ENTER4- 8.00</td></tr><tr><td>12x4</td><td>12ENTER4x 48.00</td></tr><tr><td>12÷4</td><td>12ENTER4÷ 3.00</td></tr><tr><td>122 12 GOLD x²</td><td>144.00</td></tr><tr><td>√12 12GOLD√x</td><td>3.46</td></tr></table></body></html>  
 
-2(b)  
+[^2]: (b)
 
 <html><body><table><tr><td>Calculate</td><td>Press</td><td>Display</td></tr><tr><td>124</td><td>12 ENTER 4 GOLD yx</td><td>20,736.0</td></tr><tr><td>3√12</td><td>12 ENTER 3 GOLD 1/x GOLD y*</td><td>2.29</td></tr><tr><td>27%of200</td><td>200ENTER27%</td><td>54.00</td></tr><tr><td>200less27%</td><td>200ENTER27%-</td><td>146.00</td></tr></table></body></html>  
 
@@ -163,10 +163,10 @@ The following exercises show how to do basic arithmetical calculations using RPN
 The advantage of RPN becomes apparent when you have to do chains of calculations involving more than. one operation. The RPN memory stack in the HP 17B stores intermediate results until you need them, and then inserts them into the calculation.  
 
 Key Display Description   
-12 ENTER $4+$ 16.00 Intermediate result   
-7 x 112.00 Pressing the function key (x) multiples the intermediate result (16) by the new entry (7).  
+[^12]: ENTER $4+$ 16.00 Intermediate result
+[^7]: x 112.00 Pressing the function key (x) multiples the intermediate result (16) by the new entry (7).
 
-3(b)  
+[^3]: (b)
 
 Calculate Key Answer   $(750\times12)\div360$ 750 ENTER $12\mathrm{~x~}360$ 25.00   $360\div(750\times12)$ 360 ENTER 750 ENTER $12\times\div$ 0.04   $[(456-75)\div19.2]\times(68\div1.9)4561$ ENTER $75-19.2\div68$ ENTER $1.9\div\mathbf{X}$ 710.20   $(3+4)\div(5+6)$ 3 ENTER $4+5$ ENTER $6+\div$ 0.636   $\sqrt{[(9\times12)\times(4-2)^{3}]}$ 9 ENTER $12\times4$ ENTER 2 -3 GOLD y\* x GOLD V 29.39  
 
@@ -174,7 +174,7 @@ Calculate Key Answer   $(750\times12)\div360$ 750 ENTER $12\mathrm{~x~}360$ 25.0
 
 The sustained popularity of the HP 17B (and HP 12C) is due to these TVM functions. This exercise introduces the TVM menu, which calculates a future or present value from a series of cash flows, given an interest or discount rate. Alternatively, it calculates the internal rate of return implied in a regular series of cash flows.  
 
-4 (a) - Configure the TVM Calculations  
+[^4]: (a) - Configure the TVM Calculations
 
 From the main menu:  
 
@@ -192,7 +192,7 @@ Press EXIT to return to the first level TVM menu.
 
 Press GOLD CLEARDATA (above the INPUT key) to clear the stacks.  
 
-4 (b) - Future value of six year deposit  
+[^4]: (b) - Future value of six year deposit
 
 You deposit $\$100,000$ for six years at a fixed interest rate of $7.27\%$ (semi-annually compounded annual rate). Interest is compounded semi-annually and no further payments or withdrawals are made. What is the future value (principal plus interest) at the end of the six years?.  
 
@@ -201,22 +201,22 @@ Note that it is essential in TVM calculations to establish the direction of cash
 # Description  
 
 Key   
-100,000 +/- PV   
-12 N   
-7.27 I%YR   
-0 PMT   
+[^100]: ,000 +/- PV
+[^12]: N
+[^7]: 27 I%YR
+[^0]: PMT
 FV   
 Display   $\mathrm{PV}{=}\cdot100\mathrm{,}000$   $\Nu=12$   $\mathrm{I}\%\mathrm{YR}=7.27$   $\mathrm{PMT}=0$   $\mathrm{FV}{=}153{,}489.06$  
 
 Stores the sum deposited Stores the period as 12 half-years (6 years) Stores the semi-annually compounded rate Sets the periodic payments to 0 The future value at maturity  
 
-4 (c) - Present value of 15 year zero bond  
+[^4]: (c) - Present value of 15 year zero bond
 
 A zero coupon Eurobond has a denomination of $\$10,000$ and there are 15 years to maturity. Similar bonds are yielding $10\%$ (yield quoted semi-annually compounded). What is the present value today?  
 
 <html><body><table><tr><td>Key</td><td>Display</td><td>Description</td></tr><tr><td>SHIFTCLEARDATA</td><td></td><td>ClearsstackandTVMvariables</td></tr><tr><td>30 N</td><td>N=30</td><td>Stores the period as 30 half-years (15 years)</td></tr><tr><td>10,000FV</td><td>FV=10,000</td><td>Stores the par value of the bond in FV</td></tr><tr><td>10I%YR</td><td>I%YR=10</td><td>Stores the semi-annually compounded rate</td></tr><tr><td>OPMT</td><td>PMT=0</td><td>Setspayments to zero</td></tr><tr><td>PV</td><td>PV=-2,313.77</td><td>The present value (a negative cash flow)</td></tr></table></body></html>  
 
-4 (d) - Buying a car  
+[^4]: (d) - Buying a car
 
 You are buying a new car costing $\$30,000$ with a 3 year loan at. $8.5\%$ annual interest, compounded semiannually. Your down payment is. $\$7,000$ .What are your semi-annual payments?  
 
@@ -245,18 +245,18 @@ SHIFT MAIN FIN BOND
 SHIFT CLEARDATA   
 TYPE   
 A/A SEMI EXIT   
-10.131997 SETT   
-8.152007 MAT   
-6.125 CPN%   
-100 CALL   
+[^10]: 131997 SETT
+[^8]: 152007 MAT
+[^6]: 125 CPN%
+[^100]: CALL
 MORE 6.5 YLD%   
 PRICE   
 ACCRU   
 +   
 Display   
-30/360 ANNUAL   
-30/360 ANNAUL   
-30/360 ANNUAL   
+[^30]: /360 ANNUAL
+[^30]: /360 ANNAUL
+[^30]: /360 ANNUAL
 A/A SEMIANNUAL   
 SETT=10/13/1997 MON   
 MAT=08/15/2007 WED   
@@ -265,7 +265,7 @@ CALL=100.00
 YLD%=6.5   
 PRICE=97.2946   
 ACCRU=0.9820   
-98.2766 Description   
+[^98]: 2766 Description
 Displays current settings (may be different) Clears stack   
 Current type settings   
 Set for UST conventions.   
@@ -291,11 +291,11 @@ A $6\%$ Eurobond maturing on February 1, 2012 is purchased on May 15, 1997 to yi
 Key   
 SHIFT CLEARDATA   
 TYPE   
-360 ANN EXIT   
-5.151997 SETT   
-2.012012 MAT   
-6 CPN%   
-100 CALL   
+[^360]: ANN EXIT
+[^5]: 151997 SETT
+[^2]: 012012 MAT
+[^6]: CPN%
+[^100]: CALL
 MORE 5.7 YLD%   
 PRICE  
 
@@ -309,7 +309,7 @@ The bond in question 5(d) is callable on February 1, 2002 at 102.75. What is the
 
 Key   
 MORE 8.012002 SETT   
-102.75 CALL   
+[^102]: 75 CALL
 Display   
 SETT=08/01/2002 THU   
 CALL $\mid$ 102.75  
@@ -332,8 +332,8 @@ Bank A is quoting a monthly compounded annual borrowing rate of $6.7\%$ .What is
 
 Key   
 PER   
-12 P   
-6.7 NOM%   
+[^12]: P
+[^6]: 7 NOM%
 EFF%   
 Display   
 COMPOUNDING P TIMES/YR   $\mathrm{P}{=}12$   $\mathrm{NOM}\%=6.70$   $\mathrm{EFF}\%=6.91$   
@@ -348,8 +348,8 @@ Returns effective (annual) rate
 A Eurobond has a coupon of. $10.25\%$ .What would be the equivalent semi-annual coupon?  
 
 Key   
-2 P   
-10.25 EFF%   
+[^2]: P
+[^10]: 25 EFF%
 NOM% Display   $\mathrm{P}\mathrm{=}2$   $\mathrm{EFF}\%=10.25$ $\mathrm{NOM}\%=10.00$   
 Description   
 Stores compounding periods as 2/yr   
@@ -415,14 +415,14 @@ How many actual days are there between June 26, 1993 and August 2, 1998? How doe
 # Description  
 
 Key   
-6.261997 DATE1   
-8.021998 DATE2   
+[^6]: 261997 DATE1
+[^8]: 021998 DATE2
 DAYS   
-365D   
-360D Display   
+[^365]: D
+[^360]: D Display
 DATE1 $_{,=}$ 06/26/1997 THU DATE2 $\leftrightharpoons$ 08/02/1998 SUN ACTUAL D... $\l=402.0$   
-365 DAYS $=$ 402.0   
-360 DAYS $=$ 396.0 Stores first date.   
+[^365]: DAYS $=$ 402.0
+[^360]: DAYS $=$ 396.0 Stores first date.
 Stores second date   
 Actual number of days.   
 Number of days assuming 365 days per year Number of days assuming 360 days per year  
@@ -764,9 +764,9 @@ For the 5s, the calculation of the price, BPV and convexity are:
 
 Key Description   
 FIN BOND TYPE A/A SEMI EXIT Gets to the BOND menu   
-1.151998 SETT 12.312002 SETT $5.625\mathrm{CPN}\%$ 100 CALL MORE   $5.313\mathrm{YLD\%}$ PRICE STO2 Calculates price of 101.341'   $5.213\mathrm{YLD\%}$ PRICE STO1 Price 10bp lower   $5.413\mathrm{YLD\%}$ PRICE STO 3 Price 10bp higher   
+[^1]: 151998 SETT 12.312002 SETT $5.625\mathrm{CPN}\%$ 100 CALL MORE   $5.313\mathrm{YLD\%}$ PRICE STO2 Calculates price of 101.341'   $5.213\mathrm{YLD\%}$ PRICE STO1 Price 10bp lower   $5.413\mathrm{YLD\%}$ PRICE STO 3 Price 10bp higher
 RCL1 RCL $3~-~0.2~\div$ Calculates the BPV of 4.344   
-RCL1 RCL $^3+$ RCL2 2 x - 0.01 : Convexity of 0.222  
+RCL1 RCL $[^3]+$ RCL2 2 x - 0.01 : Convexity of 0.222  
 
 The prices, BPVs, convexities, and required positions of the three bonds are:  
 
@@ -782,7 +782,7 @@ If all yields rise or fall by 10bp, the new prices and the P&L are:
 For either a rise or fall in yields, the portfolio benefits; i.e. whether the market rallies or trades off, the portfolio makes money. The portfolio makes money because the portfolio has positive convexity, although.   
 it is not a lot of money because the convexity of bonds is not very high. The portfolio has positive.   
 convexity because longer bonds have much higher convexity than shorter bonds, and the convexity of the.   
-30s dominates the convexity of the whole portfolio.  
+[^30]: s dominates the convexity of the whole portfolio.
 
 In the financial markets there is never anything free, and the positive convexity of this portfolio has some off-setting cost in terms of risk (yields may not move in a parallel manner) or other costs (for example cost of repo).  
 
@@ -825,12 +825,12 @@ Use (3.A1)
 where  
 $\mathrm{y}=$ (semi-annually compounded, or semi-annual bond) yield   $\mathtt{c}=$ stated coupon   $\mathrm{n=}$ number of coupon payments yet to be made   $\mathbf{X}=$ (# of days until payment) / 365   $\mathbf{A}=$ accrued interest $= \mathtt{c} \cdot$ (# of days since last payment) / 365  
 
-30/360 semi-annual (e.g. most US Corporates)  
+[^30]: /360 semi-annual (e.g. most US Corporates)
 
 where  
 $\mathrm{y}=$ (semi-annually compounded, or semi-annual bond) yield   $\mathtt{c}=$ stated coupon   $\mathrm{n=}$ number of coupon payments yet to be made   $\mathbf{X}=$ (# of 30/360 days until payment) / 360   $\mathbf{A}=$ accrued interest $= \mathtt{c} \cdot$ (# of 30/360 days since last payment) / 360  
 
-30E/360 annual (most Eurobonds)  
+[^30]: E/360 annual (most Eurobonds)
 
 where  
 $\mathrm{y}=$ (annually compounded, or annual bond) yield   $\mathtt{c}=$ stated coupon   $\mathrm{n=}$ number of coupon payments yet to be made   $\mathbf{X}=$ (# of 30E/360 days until payment) / 360   $\mathbf{A}=$ accrued interest $= \mathtt{c} \cdot$ (# of 30E/360 days since last payment) / 360  
@@ -845,7 +845,7 @@ $$
 $$  
 
 The most common convention is to take $\mathrm{x}=1+15/182.5$ , although sometimes $\mathbf{x}=\mathrm{DAYS}/182.5$ (i.e.   
-199/182.5) is used.  
+[^199]: /182.5) is used.
 
 ![](17869fb4b5c43d60f04a1112b3a4038aa6fbb8bbeee7dee9b65cb7ce19e717c5.jpg)  
 Figure 3.4 - Gilts and XD Calculations  
@@ -879,7 +879,7 @@ Accrued intere would be:
 
 ACTUAL/ACTUAL 10 \* 243 / 366 = 6.63934   
 ACTUAL/365 Fixed 10 \* 243 / 365 = 6.65753   
-30E/360 10 \* 238 / 360 = 6.61111  
+[^30]: E/360 10 \* 238 / 360 = 6.61111
 
 The dates of coupon payment will be (rolling from weekends to the next business day):  
 
@@ -1062,7 +1062,7 @@ Take the current 10 year U.S. Treasury, the 8's of 15-May-2001. Say they were tr
 
 yld price  
 
-8.27 98.2463 BPV = 6.420 8.37 97.6071 Clean Modified Duration CMD $=$ 6.534 8.17 98.8910 Dirty Modified Duration DMD $=~6.280$ AI = 3.9783 Macaulay's Duration. DUR $=~6.540$  
+[^8]: 27 98.2463 BPV = 6.420 8.37 97.6071 Clean Modified Duration CMD $=$ 6.534 8.17 98.8910 Dirty Modified Duration DMD $=~6.280$ AI = 3.9783 Macaulay's Duration. DUR $=~6.540$
 
 Say that the whole yield curve moved up in a parallel manner by 7BP. What would be the change in value of $\$1,000,000$ notional of the bond?  
 
@@ -1209,7 +1209,7 @@ spreads quoted over the 10 year yield. This makes less sense and most dealers, i
 Figure 4.6 - Sample Swaps Page   
 
 
-<html><body><table><tr><td>MTY</td><td>PRICE</td><td>YIELD</td><td>YLMID</td><td>SPRD</td><td>SA 30/360</td><td>ANN A/360</td><td>WI YIELDS</td><td></td></tr><tr><td></td><td>2Y|100.056-06</td><td></td><td>6.146-142</td><td>6.144</td><td>21/17</td><td>6.354-6.314</td><td>6.365-6.324</td><td>6.173-165</td></tr><tr><td>3Y</td><td>99-02+-032</td><td>6.345-336</td><td></td><td>6.340</td><td>23/19</td><td>6.570-6.530</td><td>6.585-6.545</td><td></td></tr><tr><td>4Y</td><td></td><td></td><td>6.441</td><td>28/24</td><td>6.721-6.681</td><td></td><td>6.739-6.698</td><td></td></tr><tr><td>5Y</td><td>100.106-11+</td><td>6.542-537</td><td>6.539</td><td>29/25</td><td></td><td>6.830-6.790</td><td>6.850-6.809</td><td>6.540-6.535</td></tr><tr><td>6Y</td><td></td><td></td><td></td><td>6.585</td><td>33/29</td><td>6.916-6.876</td><td>6.937-6.897</td><td></td></tr><tr><td>7Y</td><td>￥￥</td><td>INTERPOLATED</td><td>**</td><td>6.631</td><td>35/31</td><td>6.982-6.942</td><td>7.005-6.964</td><td>VS 3M LIBOR</td></tr><tr><td>8Y</td><td>YIELD</td><td></td><td>**</td><td>6.678</td><td>36/32</td><td>7.038-6.998</td><td>7.062-7.021</td><td>[5.53000 ]</td></tr><tr><td>9Y</td><td></td><td></td><td></td><td>6.724</td><td>37/33</td><td>7.094-7.054</td><td>7.119-7.079</td><td></td></tr><tr><td>10Y</td><td>TAK 101.20</td><td>TAK</td><td>6.770</td><td>6.770</td><td>38/34</td><td>7.150-.7110</td><td>7.177-7.136</td><td></td></tr><tr><td>11Y</td><td></td><td></td><td></td><td>6.770</td><td>41/37</td><td>7.180-7.140</td><td>7.207-7.166</td><td></td></tr><tr><td>12Y</td><td></td><td>SPREAD TO</td><td></td><td>6.770</td><td>44/40</td><td>7.210-7.170</td><td>7.238-7.197</td><td></td></tr><tr><td>13Y</td><td></td><td>10-YEAR NOTE</td><td></td><td>6.770</td><td>47/43</td><td>7.240-7.200</td><td>7.269-7.228</td><td>INDEX</td></tr><tr><td>14Y</td><td></td><td></td><td></td><td>6.770</td><td>50/46</td><td>7.270-7.230</td><td>7.299-7.258</td><td>PG 19900</td></tr><tr><td>15Y</td><td>￥￥</td><td>INTERPOLATED</td><td>**</td><td>6.820</td><td>49/45</td><td>7.310-7.270</td><td>7.340-7.299</td><td>PHONE #S</td></tr><tr><td>20Y</td><td>YIELD</td><td></td><td></td><td>6.870</td><td>50/46</td><td>7.370-7.330</td><td>7.401-7.361</td><td>PG 19907</td></tr><tr><td>30Y</td><td>97.07 -08</td><td></td><td>6.972-970</td><td>6.970</td><td>42/38</td><td>7.391-7.351</td><td>7.422-7.382</td><td></td></tr></table></body></html>  
+<html><body><table><tr><td>MTY</td><td>PRICE</td><td>YIELD</td><td>YLMID</td><td>SPRD</td><td>SA 30/360</td><td>ANN A/360</td><td>WI YIELDS</td><td></td></tr><tr><td></td><td>2Y | 100.056-06</td><td></td><td>6.146-142</td><td>6.144</td><td>21/17</td><td>6.354-6.314</td><td>6.365-6.324</td><td>6.173-165</td></tr><tr><td>3Y</td><td>99-02+-032</td><td>6.345-336</td><td></td><td>6.340</td><td>23/19</td><td>6.570-6.530</td><td>6.585-6.545</td><td></td></tr><tr><td>4Y</td><td></td><td></td><td>6.441</td><td>28/24</td><td>6.721-6.681</td><td></td><td>6.739-6.698</td><td></td></tr><tr><td>5Y</td><td>100.106-11+</td><td>6.542-537</td><td>6.539</td><td>29/25</td><td></td><td>6.830-6.790</td><td>6.850-6.809</td><td>6.540-6.535</td></tr><tr><td>6Y</td><td></td><td></td><td></td><td>6.585</td><td>33/29</td><td>6.916-6.876</td><td>6.937-6.897</td><td></td></tr><tr><td>7Y</td><td>￥￥</td><td>INTERPOLATED</td><td>**</td><td>6.631</td><td>35/31</td><td>6.982-6.942</td><td>7.005-6.964</td><td>VS 3M LIBOR</td></tr><tr><td>8Y</td><td>YIELD</td><td></td><td>**</td><td>6.678</td><td>36/32</td><td>7.038-6.998</td><td>7.062-7.021</td><td>[5.53000 ]</td></tr><tr><td>9Y</td><td></td><td></td><td></td><td>6.724</td><td>37/33</td><td>7.094-7.054</td><td>7.119-7.079</td><td></td></tr><tr><td>10Y</td><td>TAK 101.20</td><td>TAK</td><td>6.770</td><td>6.770</td><td>38/34</td><td>7.150-.7110</td><td>7.177-7.136</td><td></td></tr><tr><td>11Y</td><td></td><td></td><td></td><td>6.770</td><td>41/37</td><td>7.180-7.140</td><td>7.207-7.166</td><td></td></tr><tr><td>12Y</td><td></td><td>SPREAD TO</td><td></td><td>6.770</td><td>44/40</td><td>7.210-7.170</td><td>7.238-7.197</td><td></td></tr><tr><td>13Y</td><td></td><td>10-YEAR NOTE</td><td></td><td>6.770</td><td>47/43</td><td>7.240-7.200</td><td>7.269-7.228</td><td>INDEX</td></tr><tr><td>14Y</td><td></td><td></td><td></td><td>6.770</td><td>50/46</td><td>7.270-7.230</td><td>7.299-7.258</td><td>PG 19900</td></tr><tr><td>15Y</td><td>￥￥</td><td>INTERPOLATED</td><td>**</td><td>6.820</td><td>49/45</td><td>7.310-7.270</td><td>7.340-7.299</td><td>PHONE #S</td></tr><tr><td>20Y</td><td>YIELD</td><td></td><td></td><td>6.870</td><td>50/46</td><td>7.370-7.330</td><td>7.401-7.361</td><td>PG 19907</td></tr><tr><td>30Y</td><td>97.07 -08</td><td></td><td>6.972-970</td><td>6.970</td><td>42/38</td><td>7.391-7.351</td><td>7.422-7.382</td><td></td></tr></table></body></html>
 
 Figure 4.7 - Conventional Quotation Basis for More Active Swaps Markets   
 
@@ -1292,9 +1292,9 @@ A useful trick is that the risk of a par swap (an at-the-money or NPV zero swap 
 
 The BPV or DV01 gives us the total or overall risk of the swap, if all yields move together. In the real. world all yields never move together. Short and long yields will not all move by the same amount, and Treasury yields and swap yields will not always move together (i.e. swap spreads may move). In hedging a. swap portfolio against interest rate risk one can think of three types of risk and three "stages" in hedging:.  
 
-1. Hedge outright or parallel risk (risk to a parallel shift in the yield curve) by trading a single Treasury bond. The portfolio is still subject to yield curve twist risk and swap spread risk.   
-2.Hedge the yield curve (twist) risk by trading a barbell' of Treasuries. The portfolio is still subject to swap spread risk.   
-3.Hedge swap spread risk by replacing the Treasuries with on-the-run swaps.  
+[^1]: Hedge outright or parallel risk (risk to a parallel shift in the yield curve) by trading a single Treasury bond. The portfolio is still subject to yield curve twist risk and swap spread risk.
+[^2]: Hedge the yield curve (twist) risk by trading a barbell' of Treasuries. The portfolio is still subject to swap spread risk.
+[^3]: Hedge swap spread risk by replacing the Treasuries with on-the-run swaps.
 
 The hedging of a swap or swap portfolio is presented in these three stages for two reasons. First, it helps to highlight the different types of risk to which a swap or portfolio is subject. Second, and more important, a swaps trader will often hedge in these stages because of liquidity and transactions costs. Hedging in a single nearby Treasury is easy, cheap, and quick. It also hedges much of the risk of the swap. After this is accomplished the more detailed hedging can be undertaken with a little more leisure, seeking out good prices to layer on the additional hedges.  
 
@@ -1331,4 +1331,4 @@ The mid-market 15 year swap is $7.29\%$ with a BPV of 9.03, giving a total risk 
 Galen Burghardt and Bill Hoskins, (1995a), "A Question of Bias,' Risk, vol. 8, no. 3, pp 63-70, March 1995.   
 Galen Burghardt and Bill Hoskins, (1995b, c), "The Convexity Bias in Eurodollar Futures: Part1, Part 2," Derivatives Quarterly, Spring 1995, Summer 1995.   
 Thomas S. Coleman, Lawrence Fisher, and Roger G. Ibbotson, (1993), Historical U.S. Treasury Yield Curves 1993 Edition, Ibbotson Associates, Chicago, 1993.   
-Paul Doust, (1995), "Relative Pricing Techniques in the Swaps and Options Markets," Journal of Financial Engineering, March 1995  
+Paul Doust, (1995), "Relative Pricing Techniques in the Swaps and Options Markets," Journal of Financial Engineering, March 1995

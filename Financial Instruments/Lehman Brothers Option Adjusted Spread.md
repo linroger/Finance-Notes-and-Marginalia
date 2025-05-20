@@ -163,19 +163,19 @@ where Market Price is the observed price of the callable bond, the first terms o
 
 We value the option using a model that has been implemented in a recombining tree (lattice) for the short rate. The short rate is the continuously compounded interest rate earned over one period in the lattice. This is called a short rate model and is shown in Fig. 3.1.
 
-![Figure 3.1. Example of a short-rate model](e07774d7cf6862ed4405bea393c662a1e4135f7983c05af9c6956153a4b41863.jpg)
+!Figure 3.1. Example of a short-rate model
 
 To value a security in this type of model we determine the security's cash flow in each state (i.e., node) and discount backwards in the tree. For example, if we value the bullet bond with the cash flow shown in Figure 3.2 (think of this as the stripped bond underlying the call option we want to value), we get the values shown in Figure 3.3.
 
-![Figure 3.2. Cash flow of a bullet bond](1d9152af14c4e5b252664f29cdff95d51b9830821b18269093efb1c60b47577a.jpg)
+!Figure 3.2. Cash flow of a bullet bond
 
-![Figure 3.3. Values of a bullet bond](d0c59879f2733ace991ae77c3a07c69d788317c0dd320dfb927e83ec3f48d12b.jpg)
+!Figure 3.3. Values of a bullet bond
 
 The value of a security in a given state is the expected value of the security in the next period (including cash flow/coupon) discounted with the short rate in the state. This procedure is also used to price a call option on the bullet bond. Suppose the exercise price of the call option is 100. The option is then worthless at time 2 (end of 2nd period) and in the 6% rate state at time 1. In the 4% rate state at time 1, the option should be exercised because it is worthless at time 2 and worth $100.8829-100=0.8892$ if exercised. At time 0 the option is worth $\exp(-5\%)\cdot0.5\cdot0.8829=0.4199$ if it is not exercised and has a negative value if it is exercised. This means that the option should not be exercised at time 0 and is worth 0.4199.
 
 As explained above, when we value the call option we need to make sure that the underlying bond is priced correctly. For example, if the value of the bond is 98.8 and not 99.8 as in Figure 3.3, we need to adjust the interest rates in the tree with the OAS of the bond. This adjustment is done, as illustrated in Figure 3.4, by increasing the continuously compounded short rate in all states by the OAS.
 
-![Figure 3.4. The short rate model with OAS](9f67a724e032ec01510d1d5381bc407d2b66870b881a08b6090ec356af3ce182.jpg)
+!Figure 3.4. The short rate model with OAS
 
 If we choose an $\text{OAS}=50\text{bp}$ we get a bullet bond price of 98.7997. With this OAS the call option is worth only 0.1797. This means that if the callable bond (the bullet bond minus the call option) was trading at $98.80–0.18=98.62$, the callable bond would have a 50bp OAS.
 
@@ -249,13 +249,13 @@ The volatility parameters $\sigma(t)$, $t\geq0$, determine the volatility of $\d
 
 To better understand the effects of the shift, consider the following example. Suppose the short rate starts at 5% and has a one-period simple volatility of 20%. If we model this in a binomial tree we get the results illustrated in Figure 4.1.
 
-![Figure 4.1. Binomial tree for lognormal model](ef089ba31010284e64ec2dca2c53af7eac81575dad54477add91ae1d5e187e61.jpg)
+!Figure 4.1. Binomial tree for lognormal model
 
 After one period, the short rate either goes up to $1.2\cdot5\%=6\%$ or down to $0.8\cdot5\%=4\%$. In the second period, if the rate increased in the first period, it either increases to $1.2\cdot6\%=7.2\%$ or decreases to $0.8\cdot6\%=4.8\%$ whereas if the rate decreased the first period, it either increases to $1.2\cdot4\%=4.8\%$ or decreases to $0.8\cdot4\%=3.2\%$. In the second period, the volatility in the up state is $20\%=7.2\%/6\%-1=-(4.8\%/6\%-1)$. In the down state, the volatility is also $20\%=4.8\%/4\%-1=1-3.2\%/4\%$.
 
 Now consider the model with a 45% shift (Figure 4.2). Suppose we use a volatility parameter of 2%. This means that after one period the short rate either increases to $1.02\cdot(5\%+45\%)-45\%=6\%$ or decreases to $0.98\cdot(5\%+45\%)-45\%=4\%$. We see that this is the same 20% volatility that we got in Figure 4.1 without a shift. In the second period, if the rate increases to 6%, it either continues up to $1.02\cdot(6\%+45\%)-45\%=7.02\%$ or falls to $0.98\cdot(6\%+45\%)-45\%=4.98\%$. This implies a volatility of $17\%=7.02\%/6\%-1=-(4.98\%/6\%-1)$ which is below the 20% in the non-shifted model. On the other hand, if the rate decreases in the first period, it will either rise to $1.02\cdot(4\%+45\%)-45\%=4.98\%$ or decrease to $0.98\cdot(4\%+45\%)-45\%=3.02\%$ in the second period. So if the rate decreases in the first period, the volatility over the second period is $24.5\%=4.98\%/4\%-1=-(3.02\%/4\%-1)$ which is higher than the 17% volatility faced if the rate increases in the first period.
 
-![Figure 4.2. Binomial tree for shifted lognormal model](e76bace4fe485bad4a9fe7db42b98128ea2ea7678a395cb782c99b015c3665a4.jpg)
+!Figure 4.2. Binomial tree for shifted lognormal model
 
 ### Comments about our model choices
 
@@ -265,8 +265,8 @@ In a one-factor model, changes in interest rates of all maturities are perfectly
 
 There are two main reasons why we have decided to use a one-factor/one-state variable model (at least for the time being):
 
-1. Simplicity: the model is much easier to explain and implement (and thus replicate).
-2. The impact of explicitly modelling default is greater than the impact of improving the interest rate modelling (especially for higher spread issuers). We model default by adding the hazard rate (the instantaneous probability of default) as a stochastic factor. This is more easily done for a one-state variable interest rate model.
+[^1]: Simplicity: the model is much easier to explain and implement (and thus replicate).
+[^2]: The impact of explicitly modelling default is greater than the impact of improving the interest rate modelling (especially for higher spread issuers). We model default by adding the hazard rate (the instantaneous probability of default) as a stochastic factor. This is more easily done for a one-state variable interest rate model.
 
 Another important modelling decision is our calibration procedure. As explained above, we perform 14 different calibrations, each using swaptions with the same underlying swap maturity date. This is because calculating an OAS is a pricing exercise, and when pricing it is important that the model is calibrated to the swaptions most similar to the option we are pricing. The option embedded in a callable bond is usually an American call option on a bullet bond which (when forgetting about default risk) is closest to an American option on a swap with the same maturity date as the bond. With our calibration choice we are calibrating to the set of European swaptions most relevant for this American swaption. In contrast, a global calibration to the entire matrix of swaption prices is unlikely to match the prices of these most relevant swaptions.
 
@@ -280,7 +280,7 @@ In this section we show differences in the volatility calibration for the BK and
 
 Figure 5.1 shows the fitted zero-coupon LIBOR curves on the two dates. The differences between the two dates are very clear.
 
-![Figure 5.1. Zero-coupon USD LIBOR interest rates](07f3056eb6b1bc7c92625450409ca01823659c0e5316b9039a0dc0a452bc6218.jpg)
+!Figure 5.1. Zero-coupon USD LIBOR interest rates
 
 Figure 5.2 shows implied Black volatilities for a subset of the ATM swaptions to which we calibrate the volatility parameters. Notice that the volatilities for short-term swaptions on short-term swaps (e.g., for 3-month into 1-year) are much higher on June 28, 2004 than on January 23, 2006 whereas the volatilities for long-term swaptions on long-term swaps are lower.
 
@@ -299,9 +299,9 @@ Figure 5.2 shows implied Black volatilities for a subset of the ATM swaptions to
 
 Figures 5.3 and 5.4 show a subset of the calibrated volatility parameters for the two dates using the two different models. In Figure 5.3 we see that on June 28, 2004 the BK volatility parameter curve for the shortest bond maturity (3Y) is the highest, whereas the curve for the longest bond maturity (30Y) is the lowest, and we see that this relationship has switched on January 23, 2006. This observation can also be made for the shifted BK model in Figure 5.4. The volatility parameter curves have very similar shapes in the two models and both capture the market information about the volatility changes seen in Figure 5.2. We find it interesting that the relative change in the calibrated volatility parameters between the two dates is smaller in the 40% shifted model.
 
-![Figure 5.3. Calibrated volatility parameters for BK model](bc2e61df4c12b5910445971fdcd3575d4c23924729ab6e1770aec5d657b2a232.jpg)
+!Figure 5.3. Calibrated volatility parameters for BK model
 
-![Figure 5.4. Calibrated volatility parameters for shifted BK model](ae88fe1d36c233adaad8c99889288f5e4379fad05c99fa1a68a89c49a336718d.jpg)
+!Figure 5.4. Calibrated volatility parameters for shifted BK model
 
 ### Effect of volatility skew parameter (shift) on OAS
 
@@ -311,12 +311,12 @@ At the aggregate level there is very little change in OAS. However, for individu
 
 The two main observations regarding the effect of the model change on the OAS of an individual bond are:
 
-1. Bonds where the call option is in the money tend to have higher OAS in the shifted model.
-2. Bonds where the call option is far out of the money tend to have lower OAS in the shifted model.
+[^1]: Bonds where the call option is in the money tend to have higher OAS in the shifted model.
+[^2]: Bonds where the call option is far out of the money tend to have lower OAS in the shifted model.
 
 The extent to which the option is in or out of the money affects the difference in the OAS in the two models. In the shifted model, high (rate) strike swaptions will have lower Black volatility, whereas the low (rate) strike swaptions will have a higher Black volatility (Figure 5.5). Since a high rate strike swaption corresponds to an option on a high-coupon bond, in-the-money call options will tend to have a higher OAS in the shifted BK model. This is because a lower Black volatility means a lower option value which gives rise to a lower value of the stripped bond (to keep the value of the callable bond constant, see equation (3.2)). A lower value of the stripped bond means a higher OAS. Similarly, an out-of-the-money call option will tend to have a lower OAS in the shifted model.
 
-![Figure 5.5. Implied Black volatilities for a 5-year into 5-year receiver swaption](fc1b8f15d9d5e7bcbf529cc5d35da7804f817423c1c5356f1649f85948e2137c.jpg)
+!Figure 5.5. Implied Black volatilities for a 5-year into 5-year receiver swaption
 
 ## 6. Adjusting for Default Risk
 

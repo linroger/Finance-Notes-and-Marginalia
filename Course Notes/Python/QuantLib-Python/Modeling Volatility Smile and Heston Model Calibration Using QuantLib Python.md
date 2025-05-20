@@ -21,11 +21,11 @@ key_concepts:
 # Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python
 ## Strikes Market Value Model Value Relative Error (%)
 
-Provides an [introduction](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to constructing [implied volatility surface](.md) consistent with the smile observed in the market and calibrating [Heston model](Valuing%20European%20Option%20Using%20the%20Heston%20Model%20in%20QuantLib%20Python.md) using [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md).
+Provides an introduction to constructing implied volatility surface consistent with the smile observed in the market and calibrating Heston model using QuantLib Python.
 
-_Visit here for other [QuantLib Python]([Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python) examples](http://gouthamanbalaraman.com/blog/[quantlib](Introduction%20to%20QuantLib%20Python.md)-python-tutorials-with-examples.html). If you found these posts useful,  please take a minute by providing some [feedback.](https://docs.google.com/forms/d/e/1FAIpQLSdFdJ768HKmIyJmaVRHBUJNY5NyQl6vr0GZvSkx-bUfIloNZA/viewform)_
+_Visit here for other QuantLib Python examples](http://gouthamanbalaraman.com/blog/quantlib-python-tutorials-with-examples.html). If you found these posts useful,  please take a minute by providing some feedback._
 
-European options on an equity underlying such as an index (S&P 500) or a stock (AMZN) trade for different combinations of strikes and maturities. It turns out that the [Black-Scholes](../../../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md) [implied volatility](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) for these options with different maturities and strikes is not the same. The fact that the [implied volatility varies](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Swaption%20Skew.md) with strike is often referred in the market as having a _smile_.
+European options on an equity underlying such as an index (S&P 500) or a stock (AMZN) trade for different combinations of strikes and maturities. It turns out that the Black-Scholes implied volatility for these options with different maturities and strikes is not the same. The fact that the implied volatility varies with strike is often referred in the market as having a _smile_.
 
 In \[1\]:
 ```python
@@ -56,7 +56,7 @@ dividend\_ts \= ql.YieldTermStructureHandle(
 
 ```
 
-Following is a sample matrix of volatility quote by exipiry and strike. The volatilities are log-normal volatilities and can be interpolated to construct the [implied volatility surface](.md).
+Following is a sample matrix of volatility quote by exipiry and strike. The volatilities are log-normal volatilities and can be interpolated to construct the implied volatility surface.
 
 In \[3\]:
 ```python
@@ -97,7 +97,7 @@ data \= \[
 
 ```
 
-[Implied Volatility Surface](.md)
+Implied Volatility Surface
 --------------------------
 
 Each row in ``` data ``` is a different exipiration time,  and each column corresponds to various strikes as given in ``` strikes ```. We load all this data into the ``` QuantLib ``` ``` Matrix ``` object. This can then be used seamlessly in the various surface construction routines. The variable ``` implied_vols ``` holds the above data in a ``` Matrix ``` format. One unusual bit of info that one needs to pay attention to is the ordering of the rows and columns in the ``` Matrix ``` object. The implied volatilities in the ``` QuantLib ``` context needs to have strikes along the row dimension and expiries in the column dimension. This is transpose of the way the data was constructed above. All of this detail is taken care by swapping the $i$ and $j$ variables below. Pay attention to the line:
@@ -113,7 +113,7 @@ for i in range(implied_vols.rows()):
         implied_vols[i][j] = data[j][i]
 ```
 
-Now the Black [volatility surface](../../../Financial%20Engineering/7.%20Black%20Scholes%20Model.md) can be constructed using the ```BlackVarianceSurface ``` method.
+Now the Black volatility surface can be constructed using the ```BlackVarianceSurface ``` method.
 ```python
 black_var_surface = ql.BlackVarianceSurface(
     calculation_date,   calendar,   
@@ -155,7 +155,7 @@ legend = ax.legend(loc="upper right")
 
 ```
 
-The whole [volatility surface](../../../Financial%20Engineering/7.%20Black%20Scholes%20Model.md) can also be visualised as shown below.
+The whole volatility surface can also be visualised as shown below.
 ```python
 plot_years = np.arange(0,  2,  0.1)
 plot_strikes = np.arange(535,  750,  1)
@@ -172,7 +172,7 @@ surf = ax.plot_surface(X,  Y,  Z,  rstride=1,  cstride=1,  cmap=cm.coolwarm,
 fig.colorbar(surf,  shrink=0.5,  aspect=5)
 ```
 
-One can also construct a local [volatility surface](../../../Financial%20Engineering/7.%20Black%20Scholes%20Model.md) (_a la_ Dupire) using the ```LocalVolSurface```. There are some issues with this as shown below.
+One can also construct a local volatility surface (_a la_ Dupire) using the ```LocalVolSurface```. There are some issues with this as shown below.
 ```python
 local_vol_surface = ql.LocalVolSurface(
     ql.BlackVolTermStructureHandle(black_var_surface),  
@@ -196,9 +196,9 @@ surf = ax.plot_surface(X,  Y,  Z,  rstride=1,  cstride=1,  cmap=cm.coolwarm,
 fig.colorbar(surf,  shrink=0.5,  aspect=5)
 ```
 
-The correct [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of local [volatility surface](../../../Financial%20Engineering/7.%20Black%20Scholes%20Model.md) requires an [arbitrage](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) free [implied volatility surface](.md). If the input [implied volatility surface](.md) is not [arbitrage](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) free,  this can lead to negative [transition probabilities](../../../Financial%20Engineering/Fixed%20Income%20Derivatives/A%20Primer%20on%20Probability%20Theory%20and%20Stochastic%20%20Modelling.md) and/or negative local volatilities and can give rise to mispricing. Refer to Fengler's arbtirage free smoothing [1] which [QuantLib](Introduction%20to%20QuantLib%20Python.md) currently lacks.
+The correct pricing of local volatility surface requires an arbitrage free implied volatility surface. If the input implied volatility surface is not arbitrage free,  this can lead to negative transition probabilities and/or negative local volatilities and can give rise to mispricing. Refer to Fengler's arbtirage free smoothing [1] which QuantLib currently lacks.
 
-When you use an arbitrary smoothing,  you will notice that the local [volatility surface](../../../Financial%20Engineering/7.%20Black%20Scholes%20Model.md) leads to undesired negative volatilities.
+When you use an arbitrary smoothing,  you will notice that the local volatility surface leads to undesired negative volatilities.
 ```python
 black_var_surface.setInterpolation("bicubic")
 local_vol_surface = ql.LocalVolSurface(
@@ -239,17 +239,17 @@ C:\\Users\\gbalaram\\Documents\\Code\\env\\Lib\\site-packages\\QuantLib\\QuantLi
    7470 
    7471     def enableExtrapolation(self):
 
-RuntimeError: negative local vol^2 at strike 655 and time 0.75; the black vol surface is not smooth enough
+RuntimeError: negative local vol[^2] at strike 655 and time 0.75; the black vol surface is not smooth enough
 ```
 
-[Heston Model Calibration](.md)
+Heston Model Calibration
 ------------------------
 
-[Heston model](Valuing%20European%20Option%20Using%20the%20Heston%20Model%20in%20QuantLib%20Python.md) is defined by the following stochastic differential equations.$$\begin{eqnarray} dS(t,    S) = \mu S dt + \sqrt{v} S dW_1 \\ dv(t,    S) = \kappa (\theta - v) dt + \sigma \sqrt{v} dW_2 \\ dW_1 dW_2 = \rho dt \end{eqnarray}$$
+Heston model is defined by the following stochastic differential equations.$$\begin{eqnarray} dS(t,    S) = \mu S dt + \sqrt{v} S dW_1 \\ dv(t,    S) = \kappa (\theta - v) dt + \sigma \sqrt{v} dW_2 \\ dW_1 dW_2 = \rho dt \end{eqnarray}$$
 
-Here the asset is modeled as a [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) that depends on volatility $v$ which is a mean reverting [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) with a constant volatility of volatility $\\sigma$. The two stochastic processes have a correlation $\rho$.
+Here the asset is modeled as a stochastic process%20Process.md) that depends on volatility $v$ which is a mean reverting stochastic process%20Process.md) with a constant volatility of volatility $\\sigma$. The two stochastic processes have a correlation $\rho$.
 
-Let us look at how we can calibrate the [Heston model](Valuing%20European%20Option%20Using%20the%20Heston%20Model%20in%20QuantLib%20Python.md) to some market quotes. As an example,  let's say we are interested in trading options with 1 year maturity. So we will calibrate the [Heston model](Valuing%20European%20Option%20Using%20the%20Heston%20Model%20in%20QuantLib%20Python.md) to fit to [market volatility quotes](.md) with one year maturity. Before we do that,  we need to construct the [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) engine that the [calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md) routines would need. In order to do that,  we start by constructing the [Heston model](Valuing%20European%20Option%20Using%20the%20Heston%20Model%20in%20QuantLib%20Python.md) with some dummy starting parameters as shown below.
+Let us look at how we can calibrate the Heston model to some market quotes. As an example,  let's say we are interested in trading options with 1 year maturity. So we will calibrate the Heston model to fit to market volatility quotes with one year maturity. Before we do that,  we need to construct the pricing engine that the calibration routines would need. In order to do that,  we start by constructing the Heston model with some dummy starting parameters as shown below.
 ```python
 # dummy parameters
 v0 = 0.01; kappa = 0.2; theta = 0.02; rho = -0.75; sigma = 0.5;
@@ -263,7 +263,7 @@ engine = ql.AnalyticHestonEngine(model)
 
 ```
 
-Now that we have the [Heston model](Valuing%20European%20Option%20Using%20the%20Heston%20Model%20in%20QuantLib%20Python.md) and a [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) engine,  let us pick the quotes with all strikes and 1 year maturity in order to calibrate the [Heston model](Valuing%20European%20Option%20Using%20the%20Heston%20Model%20in%20QuantLib%20Python.md). We build the [Heston model](Valuing%20European%20Option%20Using%20the%20Heston%20Model%20in%20QuantLib%20Python.md) helper which will be fed into the [calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md) routines.
+Now that we have the Heston model and a pricing engine,  let us pick the quotes with all strikes and 1 year maturity in order to calibrate the Heston model. We build the Heston model helper which will be fed into the calibration routines.
 ```python
 heston_helpers = []
 black_var_surface.setInterpolation("bicubic")
@@ -295,7 +295,7 @@ print "theta = %f,   kappa = %f,   sigma = %f,   rho = %f,   v0 = %f" % (theta, 
 theta = 0.135147,   kappa = 1.878471,   sigma = 0.002035,   rho = -1.000000,   v0 = 0.043485
 ```
 
-Let us look at the quality of [calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md) by [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) the options used in the [calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md) using the model and lets get an estimate of the relative error.
+Let us look at the quality of calibration by pricing the options used in the calibration using the model and lets get an estimate of the relative error.
 ```python
 
 avg \= 0.0
@@ -335,20 +335,20 @@ Average Abs Error (%) : 2.440```
 References
 ----------
 
-\[1\] Mathias R. Fengler,  _Arbitrage Free Smoothing of [Implied Volatility](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) Surface_,  [https://core.ac.uk/download/files/153/6978470.pdf](https://core.ac.uk/download/files/153/6978470.pdf)
+\[1\] Mathias R. Fengler,  _Arbitrage Free Smoothing of Implied Volatility Surface_,  https://core.ac.uk/download/files/153/6978470.pdf
 
-Click here to download the [ipython notebook](/extra/notebooks/heston_model_calibration_smile.ipynb).
+Click here to download the ipython notebook.
 
-   [quantlib]([Introduction%20to%20QuantLib%20Python)](http://gouthamanbalaraman.com/tag/[quantlib](Introduction%20to%20QuantLib%20Python.md).html)   [python](http://gouthamanbalaraman.com/tag/python.html)   [finance](http://gouthamanbalaraman.com/tag/finance.html)  
+   quantlib](http://gouthamanbalaraman.com/tag/quantlib.html)   python   finance  
 
 * * *
 
 **Related Post**
 
-- [QuantLib Python]([Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python) Tutorials With Examples](http://gouthamanbalaraman.com/blog/[quantlib](Introduction%20to%20QuantLib%20Python.md)-python-tutorials-with-examples.html)
-- [On the Convergence of Hull White [Monte Carlo](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) Simulations](http://gouthamanbalaraman.com/blog/hull-white-simulation-monte-carlo-convergence.html)
-- [Valuing Options on [Commodity Futures](../../../Financial%20Instruments/Financial%20Instruments%20PSET%20Solutions.md) Using [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md)](http://gouthamanbalaraman.com/blog/value-options-commodity-[futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)-black-formula-[quantlib](Introduction%20to%20QuantLib%20Python.md)-python.html)
-- [Short [Interest Rate Model](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) [Calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md) in [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md)](http://gouthamanbalaraman.com/blog/short-interest-rate-model-[calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md)-[quantlib](Introduction%20to%20QuantLib%20Python.md).html)
-- [QuantLib Python]([Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python) Cookbook Announcement](http://gouthamanbalaraman.com/blog/[quantlib](Introduction%20to%20QuantLib%20Python.md)-python-cookbook-announcement.html)
+- QuantLib Python Tutorials With Examples](http://gouthamanbalaraman.com/blog/quantlib-python-tutorials-with-examples.html)
+- On the Convergence of Hull White [Monte Carlo Simulations](http://gouthamanbalaraman.com/blog/hull-white-simulation-monte-carlo-convergence.html)
+- Valuing Options on [Commodity Futures Using QuantLib Python](http://gouthamanbalaraman.com/blog/value-options-commodity-futures-black-formula-quantlib-python.html)
+- Short [Interest Rate Model Calibration in QuantLib Python](http://gouthamanbalaraman.com/blog/short-interest-rate-model-calibration-quantlib.html)
+- QuantLib Python Cookbook Announcement](http://gouthamanbalaraman.com/blog/quantlib-python-cookbook-announcement.html)
 
 * * *

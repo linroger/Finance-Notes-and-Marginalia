@@ -21,51 +21,51 @@ key_concepts:
 
 # 12.7 Exercises  
 
-EXERCISE 12.1 Consider a coupon bond with payment dates $T_{1}<T_{2}<\cdots<T_{n}$ . For each $i=1,2,\dots,n$ , let $Y_{i}$ be the sure payment at time $T_{i}$ . For some $t<T<T_{i}$ , let $\Phi_{t}^{T,T_{i}}$ denote the [futures price](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Futures%20Price%20and%20the%20Quality%20Option%20Before%20E.md) at time $t$ for delivery at time $T$ of the zero-coupon bond maturing at time. $T_{i}$ with a unit payment. Show that [futures price](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Futures%20Price%20and%20the%20Quality%20Option%20Before%20E.md) at time. $t$ for delivery at time $T$ of the coupon bond satisfies  
+EXERCISE 12.1 Consider a coupon bond with payment dates $T_{1}<T_{2}<\cdots<T_{n}$ . For each $i=1,2,\dots,n$ , let $Y_{i}$ be the sure payment at time $T_{i}$ . For some $t<T<T_{i}$ , let $\Phi_{t}^{T,T_{i}}$ denote the futures price at time $t$ for delivery at time $T$ of the zero-coupon bond maturing at time. $T_{i}$ with a unit payment. Show that futures price at time. $t$ for delivery at time $T$ of the coupon bond satisfies  
 $$
 \Phi_{t}^{T,\mathrm{cpn}}=\sum_{T_{i}>T}Y_{i}\Phi_{t}^{T,T_{i}}.
 $$  
 
-EXERCISE 12.2 Show by differentiation that the [Black-Scholes](../../../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md)-[Merton](../../../Credit%20Markets/Credit%20Markets%20Session%205.md) call option price satisfies (12.22) and (12.23).  
+EXERCISE 12.2 Show by differentiation that the Black-Scholes-Merton call option price satisfies (12.22) and (12.23).  
 
-EXERCISE 12.3  Show that the [no-arbitrage price](.md) of a European call option on a non-dividend paying stock must satisfy  
+EXERCISE 12.3  Show that the no-arbitrage price of a European call option on a non-dividend paying stock must satisfy  
 $$
 \operatorname*{max}\left(0,S_{t}-K B_{t}^{T}\right)\leq C_{t}\leq S_{t}.
 $$  
 
-Show that the [no-arbitrage price](.md) of a European call on a zero-coupon bond will satisfy  
+Show that the no-arbitrage price of a European call on a zero-coupon bond will satisfy  
 $$
 \operatorname*{max}\left(0,B_{t}^{S}-K B_{t}^{T}\right)\le C_{t}^{K,T,S}\le B_{t}^{S}(1-K)
 $$  
 
-provided that all [interest rates](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) are non-negative.  
+provided that all interest rates are non-negative.  
 
-EXERCISE 12.4 We will adapt the [Black-Scholes](../../../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md)-[Merton model](../../../Credit%20Markets/Credit%20Markets%20Session%205.md) and option [pricing](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formula to three cases in which the [underlying asset](../../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) provides [dividend payments](.md) before the expiration of the option at time $T$  
+EXERCISE 12.4 We will adapt the Black-Scholes-Merton model and option pricing formula to three cases in which the underlying asset provides dividend payments before the expiration of the option at time $T$  
 
-I. Discrete dividends known in absolute terms. Suppose that the [underlying asset](../../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) pays dividends at. $n$ points in time before time $T$ , namely $t_{1}<t_{2}<\cdots<t_{n}$ .All the dividends are known already. Let. $D_{j}$ denote the dividend at time $t_{j}$ . The time $t$ value of all the remaining dividends is then  
+I. Discrete dividends known in absolute terms. Suppose that the underlying asset pays dividends at. $n$ points in time before time $T$ , namely $t_{1}<t_{2}<\cdots<t_{n}$ .All the dividends are known already. Let. $D_{j}$ denote the dividend at time $t_{j}$ . The time $t$ value of all the remaining dividends is then  
 $$
 D_{t}^{*}=\sum_{t_{j}>t}D_{j}e^{-r(t_{j}-t)},
 $$  
 
 where $r$ is the constant interest rate. Define $S_{t}^{*}=S_{t}-D_{t}^{*}$ . Note that $S_{T}^{*}=S_{T}$  
 
-(a) Show that $S_{t}^{*}$ is the necessary [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) at time $t$ to end up with one unit of the [underlying asset](../../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) at time $T$  
+(a) Show that $S_{t}^{*}$ is the necessary investment at time $t$ to end up with one unit of the underlying asset at time $T$  
 
 (b) Assuming that $S_{t}^{*}$ has constant volatility $\sigma$ , so that  
 $$
 d S_{t}^{*}=S_{t}^{*}\left(\mu(\cdot)d t+\sigma d z_{t}\right)
 $$  
 
-for some drift term $\mu(\cdot)$ , derive a [Black-Scholes](../../../Financial%20Engineering/Mathematical%20Modeling%20of%20Derivative%20Pricing.md)-[Merton](../../../Credit%20Markets/Credit%20Markets%20Session%205.md)-type equation for a European call option on this asset. State the option price in terms of. $S_{t}$ (and the remaining dividends). Compare with the standard [Black-Scholes-Merton formula](../../../Course%20Notes/Python/QuantLib-Python/Option%20Model%20Handbook,%20Part%20III%20European%20Option%20Pricing%20With%20QuantLib%20Python.md)--in particular, check whether $\sigma$ is equal to the volatility of $S_{t}$ under the assumptions on $S^{*}$  
+for some drift term $\mu(\cdot)$ , derive a Black-Scholes-Merton-type equation for a European call option on this asset. State the option price in terms of. $S_{t}$ (and the remaining dividends). Compare with the standard Black-Scholes-Merton formula--in particular, check whether $\sigma$ is equal to the volatility of $S_{t}$ under the assumptions on $S^{*}$  
 
-II. Discrete dividends known as a percentage of the price of the [underlying asset](../../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md). Again assume that dividends are paid at $t_{1}<t_{2}<\cdots<t_{n}$ , but now assume that the dividend at time $t_{j}$ is known to be. $D_{j}=\delta_{j}S_{t_{j}-}$ , where. $\delta_{j}$ is a known constant and $S_{t_{j}-}$ is the price just before the dividend is paid out. The ex-dividend price is then $S_{t_{j}}=(1-\delta_{j})S_{t_{j}-}$ . Define the process $S^{*}$ by  
+II. Discrete dividends known as a percentage of the price of the underlying asset. Again assume that dividends are paid at $t_{1}<t_{2}<\cdots<t_{n}$ , but now assume that the dividend at time $t_{j}$ is known to be. $D_{j}=\delta_{j}S_{t_{j}-}$ , where. $\delta_{j}$ is a known constant and $S_{t_{j}-}$ is the price just before the dividend is paid out. The ex-dividend price is then $S_{t_{j}}=(1-\delta_{j})S_{t_{j}-}$ . Define the process $S^{*}$ by  
 $$
 S_{t}^{*}=S_{t}\prod_{{t_{j}>t}}(1-\delta_{j}),\quad t<t_{n},
 $$  
 
 and $S_{t}^{*}=S_{t}$ for $t\geq t_{n}$ . Answer the questions (a) and (b) above using this definition of $S^{*}$  
 
-III. [Continuous dividend](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) payments at a known rate. Now suppose that the [underlying asset](../../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) pays dividends continuously at a constant and known relative rate $\delta$ . This means that over any very short time interval $[t,t+\Delta t]$ , the total dollar dividends is $\int_{t}^{t+\Delta t}\delta S_{u}d u$ or approximately $\partial S_{t+\Delta t}\Delta t$ . Define  
+III. Continuous dividend payments at a known rate. Now suppose that the underlying asset pays dividends continuously at a constant and known relative rate $\delta$ . This means that over any very short time interval $[t,t+\Delta t]$ , the total dollar dividends is $\int_{t}^{t+\Delta t}\delta S_{u}d u$ or approximately $\partial S_{t+\Delta t}\Delta t$ . Define  
 $$
 S_{t}^{*}=S_{t}e^{-\delta(T-t)}.
 $$  
@@ -79,7 +79,7 @@ $$
 V_{t}=S_{2t}\operatorname{E}_{t}^{\mathbb{Q}_{2}}\left[\operatorname*{max}\left(\frac{S_{1T}}{S_{2T}}-1,0\right)\right],
 $$  
 
-where $\mathbb{Q}_{2}$ is the [risk-adjusted probability measure](../Chapter%201%20-%20Introduction%20and%20Overview/The%20Organization%20of%20This%20Book.md) associated with asset 2.  
+where $\mathbb{Q}_{2}$ is the risk-adjusted probability measure associated with asset 2.  
 
 Suppose that $S_{1}$ and $S_{2}$ are both geometric Brownian motions so that we may write their joint dynamics as  
 $$
@@ -100,10 +100,10 @@ $$
 
 This formula was first given by Margrabe (1978).  
 
-(d) Give [pricing](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formulas (in terms of $S_{1t}$ and $S_{2t}$ ) for an option with payoff. $\operatorname*{max}(S_{1T},S_{2T})$ and an option with payoff. $\operatorname*{min}(S_{1T},S_{2T})$   
-(e) What happens to the [pricing](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formula (12.66) if asset 2 is a zero-coupon bond maturing at time $T$ with a payment of $K$ ? And if, furthermore, [interest rates](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) are constant, what then?  
+(d) Give pricing formulas (in terms of $S_{1t}$ and $S_{2t}$ ) for an option with payoff. $\operatorname*{max}(S_{1T},S_{2T})$ and an option with payoff. $\operatorname*{min}(S_{1T},S_{2T})$   
+(e) What happens to the pricing formula (12.66) if asset 2 is a zero-coupon bond maturing at time $T$ with a payment of $K$ ? And if, furthermore, interest rates are constant, what then?  
 
-EXERCISE 12.6 Let $F_{t}^{T,S}$ and $\Phi_{t}^{T,S}$ denote the [forward price](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) and [futures price](../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Futures%20Price%20and%20the%20Quality%20Option%20Before%20E.md) at time $t$ respectively, for delivery at time $T>t$ of a zero-coupon bond maturing at time $S>T$ . Under the. assumptions of the [Vasicek model](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Vasicek%20Short%20Rate%20Model.md) introduced in Section 10.5.1, show that  
+EXERCISE 12.6 Let $F_{t}^{T,S}$ and $\Phi_{t}^{T,S}$ denote the forward price and futures price at time $t$ respectively, for delivery at time $T>t$ of a zero-coupon bond maturing at time $S>T$ . Under the. assumptions of the Vasicek model introduced in Section 10.5.1, show that  
 $$
 \begin{array}{r l}&{{\cal F}_{t}^{T,S}=\exp\{-[a(S-t)-a(T-t)]-[b(S-t)-b(T-t)]r_{t}\},}\ &{\quad\Phi_{t}^{T,S}=\exp\{-\tilde{a}(T-t,S-T)-[b(S-t)-b(T-t)]r_{t}\},}\end{array}
 $$  
@@ -115,63 +115,63 @@ $$
 
 and $\hat{r}=\bar{r}-\sigma_{r}\lambda/\kappa$  
 
-EXERCISE 12.7 Let $\tilde{l}_{T_{0}}^{\delta}(k)$ be the equilibrium [swap rate](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) for a swap with payment dates $T_{1},T_{2},\ldots,T_{k}$ , where $T_{i}=T_{0}+i\delta$ as usual. Suppose that $l_{T_{0}}^{\delta}(1),\ldots,l_{T_{0}}^{\delta}(n)$ are known. Find a recursive procedure for deriving the associated discount factors $B_{T_{0}}^{T_{1}},B_{T_{0}}^{T_{2}},\ldots,B_{T_{0}}^{T_{n}}$  
+EXERCISE 12.7 Let $\tilde{l}_{T_{0}}^{\delta}(k)$ be the equilibrium swap rate for a swap with payment dates $T_{1},T_{2},\ldots,T_{k}$ , where $T_{i}=T_{0}+i\delta$ as usual. Suppose that $l_{T_{0}}^{\delta}(1),\ldots,l_{T_{0}}^{\delta}(n)$ are known. Find a recursive procedure for deriving the associated discount factors $B_{T_{0}}^{T_{1}},B_{T_{0}}^{T_{2}},\ldots,B_{T_{0}}^{T_{n}}$  
 
-EXERCISE 12.8 Show the parity (12.64). Show that a [payer swaption](../../../Financial%20Engineering/Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2039%20-%20Swaptions,%20Forward%20Swaps,%20and%20MBS.md) and a receiver swaption. (with identical terms) will have identical prices, if the exercise rate of the contracts is equal to the [forward swap](../../../Financial%20Engineering/Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2039%20-%20Swaptions,%20Forward%20Swaps,%20and%20MBS.md) rate L4,To.  
+EXERCISE 12.8 Show the parity (12.64). Show that a payer swaption and a receiver swaption. (with identical terms) will have identical prices, if the exercise rate of the contracts is equal to the forward swap rate L4,To.  
 
-EXERCISE 12.9 Consider a swap with starting date $T_{0}$ and a fixed rate $K$ . For $t\leq T_{0}$ , show that $V_{t}^{\mathrm{fl}}/V_{t}^{\mathrm{fix}}=\tilde{L}_{t}^{\delta,T_{0}}/K$ , where $\tilde{L}_{t}^{\delta,T_{0}}$ is the [forward swap](../../../Financial%20Engineering/Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2039%20-%20Swaptions,%20Forward%20Swaps,%20and%20MBS.md) rate.  
+EXERCISE 12.9 Consider a swap with starting date $T_{0}$ and a fixed rate $K$ . For $t\leq T_{0}$ , show that $V_{t}^{\mathrm{fl}}/V_{t}^{\mathrm{fix}}=\tilde{L}_{t}^{\delta,T_{0}}/K$ , where $\tilde{L}_{t}^{\delta,T_{0}}$ is the forward swap rate.  
 
 # Appendix A  
 
 # A review of basic probability concepts  
 
-Any [asset pricing](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md) model must handle uncertainty. Therefore we need to apply some concepts and results from probability theory. We will be a bit more formal than many textbooks on statistics for business and economics. This section is meant to give a short [introduction](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md). We will discuss further issues in later chapters when we need them in our [asset pricing models](../../../Financial%20Engineering/Financial%20Mathematics%20Course.md).  
+Any asset pricing model must handle uncertainty. Therefore we need to apply some concepts and results from probability theory. We will be a bit more formal than many textbooks on statistics for business and economics. This section is meant to give a short introduction. We will discuss further issues in later chapters when we need them in our asset pricing models.  
 
-The basic mathematical object for studies of uncertain events is a [probability space](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md), which is a triple $(\Omega,{\mathcal{F}},\mathbb{P})$ consisting of a state space. $\Omega$ , a [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md) $\mathcal{F}$ , and a probability measure. $\mathbb{P}$ Any study of uncertain events must explicitly or implicitly specify the [probability space](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md). Let us discuss each of the three elements of a [probability space](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md) in turn.  
+The basic mathematical object for studies of uncertain events is a probability space, which is a triple $(\Omega,{\mathcal{F}},\mathbb{P})$ consisting of a state space. $\Omega$ , a sigma-algebra $\mathcal{F}$ , and a probability measure. $\mathbb{P}$ Any study of uncertain events must explicitly or implicitly specify the probability space. Let us discuss each of the three elements of a probability space in turn.  
 
-The state space $\Omega$ is the set of possible states or outcomes of the uncertain object. Only one. of these states will be realized. For example, if one studies the outcome of a throw of a die (the number of "eyes" on the upside), the state space is. $\Omega=\{1,2,3,4,5,6\}$ . An event is a set of possible. outcomes, i.e. a subset of the state space. In the example with the die, some events are. $\{1,2,3\}$ $\{4,5\}$ $\{1,3,5\}$ $\{6\}$ , and $\{1,2,3,4,5,6\}$ . This is an example where a finite state space is natural.. For other uncertain objects it is natural to take an infinite state space. If we only want to study. the dividend of a given stock at a given point in time, an appropriate state space is $\mathbb{R}_{+}\equiv\left\lbrack0,\infty\right\rbrack$ since the dividend may in principle be any non-negative real number. In our [asset pricing models](../../../Financial%20Engineering/Financial%20Mathematics%20Course.md). we want to study the entire economy over a certain time span so the state space has to list all the possible realizations of dividends of all assets and incomes of all individuals. Of course, this requires a large state space. Note that some authors use the term sample space instead of state space.  
+The state space $\Omega$ is the set of possible states or outcomes of the uncertain object. Only one. of these states will be realized. For example, if one studies the outcome of a throw of a die (the number of "eyes" on the upside), the state space is. $\Omega=\{1,2,3,4,5,6\}$ . An event is a set of possible. outcomes, i.e. a subset of the state space. In the example with the die, some events are. $\{1,2,3\}$ $\{4,5\}$ $\{1,3,5\}$ $\{6\}$ , and $\{1,2,3,4,5,6\}$ . This is an example where a finite state space is natural.. For other uncertain objects it is natural to take an infinite state space. If we only want to study. the dividend of a given stock at a given point in time, an appropriate state space is $\mathbb{R}_{+}\equiv\left\lbrack0,\infty\right\rbrack$ since the dividend may in principle be any non-negative real number. In our asset pricing models. we want to study the entire economy over a certain time span so the state space has to list all the possible realizations of dividends of all assets and incomes of all individuals. Of course, this requires a large state space. Note that some authors use the term sample space instead of state space.  
 
-The second component of a [probability space](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md), $\mathcal{F}$ , is the set of events to which a probability can be assigned, i.e. the set of "probabilizable"' or "measurable" events. Hence, $\mathcal{F}$ is a set of subsets of the state space! It is required that  
+The second component of a probability space, $\mathcal{F}$ , is the set of events to which a probability can be assigned, i.e. the set of "probabilizable"' or "measurable" events. Hence, $\mathcal{F}$ is a set of subsets of the state space! It is required that  
 
 (i) the entire state space can be assigned a probability, i.e. $\Omega\in{\mathcal{F}}$   
 (ii) if some event $F\subseteq\Omega$ can be assigned a probability, so can its complement $F^{c}\equiv\Omega\setminus F$ , i.e. $F\in\mathcal{F}\Rightarrow F^{c}\in\mathcal{F}$ ; and  
 
 (iii) given a sequence of probabilizable events, the union is also probabilizable, i.e. $F_{1},F_{2},\cdots\in$ $\mathcal{F}\Rightarrow\cup_{i=1}^{\infty}F_{i}\in\mathcal{F}$  
 
-A set $\mathcal{F}$ with these properties is called a [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md), a sigma-field, or a tribe. We will stick to the term [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md).  
+A set $\mathcal{F}$ with these properties is called a sigma-algebra, a sigma-field, or a tribe. We will stick to the term sigma-algebra.  
 
 An alternative way to represent the probabilizable events is by a partition $\mathbf{F}$ of $\Omega$ . By a partition $\mathbf{F}$ of $\Omega$ we mean a collection $A_{1},\ldots,A_{k}$ of disjoint subsets of $\Omega$ , i.e. $A_{i}\cap A_{j}=\varnothing$ for $i\neq j$ , so that the union of these subsets equals the entire set. $\Omega$ , i.e. $\Omega=A_{1}\cup\ldots\cup A_{k}$ . With a finite state space $\Omega=\{\omega_{1},\omega_{2},\dots,\omega_{S}\}$ the natural partition is  
 $$
 \mathbf F=\Big\{\{\omega_{1}\},\{\omega_{2}\},\cdot\cdot\cdot,\{\omega_{S}\}\Big\},
 $$  
 
-which intuitively means that we will learn exactly which state is realized. Given a partition $\mathbf{F}$ we can define an associated [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md) $\mathcal{F}$ as the set of all unions of (countably many) sets in $\mathbf{F}$ including the "empty union', i.e. the empty set $\varnothing$ .Again, if. $\Omega=\{\omega_{1},\omega_{2},...,\omega_{S}\}$ and $\mathbf{F}=\left\{\{\omega_{1}\},\{\omega_{2}\},\ldots,\{\omega_{S}\}\right\}$ , the corresponding [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md) is the set of all subsets of $\Omega$ . On the other hand we can also go from a [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md) $\mathcal{F}$ to a partition $\mathbf{F}$ . Just remove all sets in $\mathcal{F}$ that are unions of the sets in $\mathcal{F}$ . Again this includes the empty set $\varnothing$ since that is is an "empty union' of the other sets in $\mathcal{F}$ . If the state space is infinite, the equivalence between a partition and. a [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md) may break down, and the [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md) formulation is the preferred one; see for example the discussion in Bjork (2004, App. B).  
+which intuitively means that we will learn exactly which state is realized. Given a partition $\mathbf{F}$ we can define an associated sigma-algebra $\mathcal{F}$ as the set of all unions of (countably many) sets in $\mathbf{F}$ including the "empty union', i.e. the empty set $\varnothing$ .Again, if. $\Omega=\{\omega_{1},\omega_{2},...,\omega_{S}\}$ and $\mathbf{F}=\left\{\{\omega_{1}\},\{\omega_{2}\},\ldots,\{\omega_{S}\}\right\}$ , the corresponding sigma-algebra is the set of all subsets of $\Omega$ . On the other hand we can also go from a sigma-algebra $\mathcal{F}$ to a partition $\mathbf{F}$ . Just remove all sets in $\mathcal{F}$ that are unions of the sets in $\mathcal{F}$ . Again this includes the empty set $\varnothing$ since that is is an "empty union' of the other sets in $\mathcal{F}$ . If the state space is infinite, the equivalence between a partition and. a sigma-algebra may break down, and the sigma-algebra formulation is the preferred one; see for example the discussion in Bjork (2004, App. B).  
 
-We can think of the [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md) $\mathcal{F}$ or the associated partition $\mathbf{F}$ as representing full information about the realization of the state. In some cases it can be relevant also to model some limited information about the realized state. Many models in financial economics are designed to capture uncertainty about many different variables or objects, for example the dividends on a large number of stocks. It may be relevant to formalize what can be learned about the true state by just observing the dividends of one particular stock. In other models some individuals are assumed to know more about some uncertain objects than other individuals. Less-than-full information can be represented formally by a [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md) $\mathcal{G}$ on $\Omega$ , which is coarser than $\mathcal{F}$ in the sense that any set in $\mathcal{G}$ is also in $\mathcal{F}$ . In terms of partitions, a partition $\mathbf{G}$ of $\Omega$ represent less information than $\mathbf{F}$ if any set in $\mathbf{G}$ is the union of sets in $\mathbf{F}$ . In the example with the throw of a die, full information is represented by the partition  
+We can think of the sigma-algebra $\mathcal{F}$ or the associated partition $\mathbf{F}$ as representing full information about the realization of the state. In some cases it can be relevant also to model some limited information about the realized state. Many models in financial economics are designed to capture uncertainty about many different variables or objects, for example the dividends on a large number of stocks. It may be relevant to formalize what can be learned about the true state by just observing the dividends of one particular stock. In other models some individuals are assumed to know more about some uncertain objects than other individuals. Less-than-full information can be represented formally by a sigma-algebra $\mathcal{G}$ on $\Omega$ , which is coarser than $\mathcal{F}$ in the sense that any set in $\mathcal{G}$ is also in $\mathcal{F}$ . In terms of partitions, a partition $\mathbf{G}$ of $\Omega$ represent less information than $\mathbf{F}$ if any set in $\mathbf{G}$ is the union of sets in $\mathbf{F}$ . In the example with the throw of a die, full information is represented by the partition  
 $$
 \mathbf{F}=\left\{\{1\},\{2\},\{3\},\{4\},\{5\},\{6\}\right\}
 $$  
 
-or the associated [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md). An example of less-than-perfect information is represented by the partition  
+or the associated sigma-algebra. An example of less-than-perfect information is represented by the partition  
 $$
 \mathbf{G}=\left\{\{1,3,5\},\{2,4,6\}\right\}
 $$  
 
-or the associated [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md)  
+or the associated sigma-algebra  
 $$
 \mathcal{G}=\Big\{\emptyset,\{1,3,5\},\{2,4,6\},\Omega\Big\}.
 $$  
 
-With $\mathbf{G}$ , you will only know whether the die will show an odd or an even number of eyes on the upside. As mentioned above the link between partitions and sigma-algebras is more delicate in infinite state spaces and so is the notion of information. Dubra and Echenique (2004) gives an example in an economic setting where one partition represents more information than another partition but the [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md) associated with the second partition seems to represent more information than the [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md) associated with the first!.  
+With $\mathbf{G}$ , you will only know whether the die will show an odd or an even number of eyes on the upside. As mentioned above the link between partitions and sigma-algebras is more delicate in infinite state spaces and so is the notion of information. Dubra and Echenique (2004) gives an example in an economic setting where one partition represents more information than another partition but the sigma-algebra associated with the second partition seems to represent more information than the sigma-algebra associated with the first!.  
 
-The final component of a [probability space](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md) is a probability measure $\mathbb{P}$ , which formally is a. function from the [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md) $\mathcal{F}$ into the interval [0, 1]. To each event $F\in{\mathcal{F}}$ , the probability. measure assigns a number. $\mathbb{P}(F)$ in the interval [0, 1]. This number is called the. $\mathbb{P}$ -probability (or) simply the probability) of. $F$ . A probability measure must satisfy the following conditions:.  
+The final component of a probability space is a probability measure $\mathbb{P}$ , which formally is a. function from the sigma-algebra $\mathcal{F}$ into the interval [0, 1]. To each event $F\in{\mathcal{F}}$ , the probability. measure assigns a number. $\mathbb{P}(F)$ in the interval [0, 1]. This number is called the. $\mathbb{P}$ -probability (or) simply the probability) of. $F$ . A probability measure must satisfy the following conditions:.  
 
 (i) $\mathbb{P}(\Omega)=1$ and $\mathbb{P}(\varnothing)=0$   
 (ii) the probability of the state being in the union of disjoint sets is equal to the sum of the probabilities for each of the sets, i.e. given $F_{1},F_{2},\cdots\in\mathcal{F}$ with $F_{i}\cap F_{j}=\emptyset$ for all $i\neq j$ , we have $\begin{array}{r}{\mathbb{P}(\cup_{i=1}^{\infty}F_{i})=\sum_{i=1}^{\infty}\mathbb{P}(F_{i})}\end{array}$  
 
 If the state space $\Omega$ is finite, say $\Omega=\{\omega_{1},\omega_{2},\dots,\omega_{S}\}$ , and each $\left\{\omega_{i}\right\}$ is probabilizable, a probability measure $\mathbb{P}$ is fully specified by the individual state probabilities $\mathbb{P}(\omega_{i})$ $i=1,2,\dots,S$  
 
-Many different probability measures can be defined on the same [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md), $\mathcal{F}$ , of events. In the example of the die, a probability measure $\mathbb{P}$ corresponding to the idea that the die is "fair' is defined by  
+Many different probability measures can be defined on the same sigma-algebra, $\mathcal{F}$ , of events. In the example of the die, a probability measure $\mathbb{P}$ corresponding to the idea that the die is "fair' is defined by  
 $$
 \mathbb{P}(\{1\})=\mathbb{P}(\{2\})=\cdots=\mathbb{P}(\{6\})=1/6.
 $$  
@@ -183,25 +183,25 @@ $$
 
 which may be appropriate if the die is believed to be "unfair."  
 
-Two probability measures. $\mathbb{P}$ and $\mathbb{Q}$ defined on the same state space and [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md). $(\Omega,{\mathcal{F}})$ are called equivalent if the two measures assign probability zero to exactly the same events, i.e. if $\mathbb{P}(A)=0\Leftrightarrow\mathbb{Q}(A)=0$ . The two probability measures in the die example are equivalent. In the stochastic models of [financial markets](../../../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) switching between [equivalent probability measures](../Chapter%2011%20-%20Risk-adjusted%20probabilities/Change%20of%20Probability%20Measure.md) turns out to be useful.  
+Two probability measures. $\mathbb{P}$ and $\mathbb{Q}$ defined on the same state space and sigma-algebra. $(\Omega,{\mathcal{F}})$ are called equivalent if the two measures assign probability zero to exactly the same events, i.e. if $\mathbb{P}(A)=0\Leftrightarrow\mathbb{Q}(A)=0$ . The two probability measures in the die example are equivalent. In the stochastic models of financial markets switching between equivalent probability measures turns out to be useful.  
 
-A random variable is a function. $X$ from the state space $\Omega$ into the real numbers $\mathbb{R}$ . To each possible outcome $\omega\in\Omega$ the function assigns a real number. $X(\omega)$ . A random variable is thus the formal way to represent a state-dependent quantity. To be meaningful, the function. $X$ must be $\mathcal{F}$ -measurable. This means that for any interval. $I\in\mathbb R$ , the set $\{\omega\in\Omega|X(\omega)\in I\}$ belongs to $\mathcal{F}$ , i.e. we can assign a probability to the event that the random variable takes on a value in the interval $I$ A random variable is thus defined relative to a [probability space](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md). $\left(\Omega,\mathcal{F},\mathbb{P}\right)$  
+A random variable is a function. $X$ from the state space $\Omega$ into the real numbers $\mathbb{R}$ . To each possible outcome $\omega\in\Omega$ the function assigns a real number. $X(\omega)$ . A random variable is thus the formal way to represent a state-dependent quantity. To be meaningful, the function. $X$ must be $\mathcal{F}$ -measurable. This means that for any interval. $I\in\mathbb R$ , the set $\{\omega\in\Omega | X(\omega)\in I\}$ belongs to $\mathcal{F}$ , i.e. we can assign a probability to the event that the random variable takes on a value in the interval $I$ A random variable is thus defined relative to a probability space. $\left(\Omega,\mathcal{F},\mathbb{P}\right)$
 
-Any random variable is associated with a probability distribution. We can represent the distribution by the cumulative [distribution function](../../../Financial%20Engineering/Verification%20of%20Central%20Limit%20Theorem.md) $F_{X}:\mathbb{R}\to\mathbb{R}$ defined for any $x\in\mathbb R$ by  
+Any random variable is associated with a probability distribution. We can represent the distribution by the cumulative distribution function $F_{X}:\mathbb{R}\to\mathbb{R}$ defined for any $x\in\mathbb R$ by  
 $$
-F_{X}(x)=\mathbb{P}\left(X\leq x\right)\equiv\mathbb{P}\left(\left\{\omega\in\Omega|X(\omega)\leq x\right\}\right).
+F_{X}(x)=\mathbb{P}\left(X\leq x\right)\equiv\mathbb{P}\left(\left\{\omega\in\Omega | X(\omega)\leq x\right\}\right).
 $$  
 
-If the random variable can only take on finitely many different values $x_{1},x_{2},\dots,x_{m}\in\mathbb{R}$ , it is said to be a discrete-valued or simply a discrete random variable, and we can represent the probability distribution by the numbers $\begin{array}{r}{f_{X}(x_{i})\equiv\mathbb{P}(X=x_{i})\equiv\mathbb{P}\left(\left\{\omega\in\Omega|X(\omega)=x_{i}\right\}\right.}\end{array}$ ).Note that this is surely the case if the state space $\Omega$ itself is finite. A random variable $X$ is said to be a continuous-valued or simply continuous random variable if it can take on a continuum of.  
+If the random variable can only take on finitely many different values $x_{1},x_{2},\dots,x_{m}\in\mathbb{R}$ , it is said to be a discrete-valued or simply a discrete random variable, and we can represent the probability distribution by the numbers $\begin{array}{r}{f_{X}(x_{i})\equiv\mathbb{P}(X=x_{i})\equiv\mathbb{P}\left(\left\{\omega\in\Omega | X(\omega)=x_{i}\right\}\right.}\end{array}$ ).Note that this is surely the case if the state space $\Omega$ itself is finite. A random variable $X$ is said to be a continuous-valued or simply continuous random variable if it can take on a continuum of.
 
 possible values and a function $f_{X}:\mathbb{R}\to\mathbb{R}$ exists such that  
 $$
 F_{X}(x)=\int_{-\infty}^{x}f_{X}(y)d y.
 $$  
 
-The function. $f_{X}$ is then called the probability density function of. $X$ .It is also possible to construct random variables that are neither discrete or continuous but they will not be important for our purposes. In any case we can represent the probability distribution more abstractly by a. distribution measure $\mu_{X}$ , which is a probability measure on the real numbers. $\mathbb{R}$ equipped with the so-called Borel-algebra $\mathcal{B}$ . The Borel-algebra can be defined as the smallest [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md) that. includes all intervals. The Borel-algebra includes all subsets of $\mathbb{R}$ "you can think of" but there are. in fact some very obscure subsets of. $\mathbb{R}$ which are not in the Borel-algebra. Fortunately, this will. be unimportant for our purposes. The distribution measure is defined for any. $B\in{\mathcal{B}}$ by  
+The function. $f_{X}$ is then called the probability density function of. $X$ .It is also possible to construct random variables that are neither discrete or continuous but they will not be important for our purposes. In any case we can represent the probability distribution more abstractly by a. distribution measure $\mu_{X}$ , which is a probability measure on the real numbers. $\mathbb{R}$ equipped with the so-called Borel-algebra $\mathcal{B}$ . The Borel-algebra can be defined as the smallest sigma-algebra that. includes all intervals. The Borel-algebra includes all subsets of $\mathbb{R}$ "you can think of" but there are. in fact some very obscure subsets of. $\mathbb{R}$ which are not in the Borel-algebra. Fortunately, this will. be unimportant for our purposes. The distribution measure is defined for any. $B\in{\mathcal{B}}$ by  
 $$
-\begin{array}{r}{\mu_{X}(B)=\mathbb{P}\left(X\in B\right)\equiv\mathbb{P}\left(\left\{\omega\in\Omega|X(\omega)\in B\right\}\right).}\end{array}
+\begin{array}{r}{\mu_{X}(B)=\mathbb{P}\left(X\in B\right)\equiv\mathbb{P}\left(\left\{\omega\in\Omega | X(\omega)\in B\right\}\right).}\end{array}
 $$  
 
 It is often useful to summarize the probability distribution of a random variable in a few informative numbers. The most frequently used are the expected value (or mean) and the variance. For a discrete random variable $X$ that can take on the values. $x_{1},\ldots,x_{m}\in\mathbb{R}$ the expected value $\operatorname{E}[X]$ is defined by  
@@ -250,7 +250,7 @@ $$
 {\mathbb{P}}\left(Y=-10\right)={\mathbb{P}}\left(\omega\in\{1,3,5\}\right)=\frac{1}{2},\quad{\mathbb{P}}\left(Y=10\right)={\mathbb{P}}\left(\omega\in\{2,4,6\}\right)=\frac{1}{2}
 $$  
 
-or by the cumulative [distribution function](../../../Financial%20Engineering/Verification%20of%20Central%20Limit%20Theorem.md)  
+or by the cumulative distribution function  
 $$
 F_{Y}(x)\equiv\mathbb{P}\left(Y(\omega)\leq x\right)=\left\{\begin{array}{l l}{0,}&{\mathrm{for~}x<-10,}\ {\frac{1}{2},}&{\mathrm{for~}-10\leq x<10,}\ {1,}&{\mathrm{for~}x\geq10.}\end{array}\right.
 $$  
@@ -260,16 +260,16 @@ $$
 \mathbf{F}_{Y}=\left\{\{1,3,5\},\{2,4,6\}\right\}
 $$  
 
-or the associated [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md)  
+or the associated sigma-algebra  
 $$
 \mathcal{F}_{Y}=\Big\{\emptyset,\{1,3,5\},\{2,4,6\},\Omega\Big\}.
 $$  
 
-More generally, we can define the [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md) associated with a random variable $X:\Omega\to\mathbb{R}$ to be the smallest [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md) on $\Omega$ with respect to which. $X$ is a measurable function. This [sigma-algebra](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Information.md) will be denoted. $\mathcal{F}_{X}$ . Just think of this as the information generated by. $X$  
+More generally, we can define the sigma-algebra associated with a random variable $X:\Omega\to\mathbb{R}$ to be the smallest sigma-algebra on $\Omega$ with respect to which. $X$ is a measurable function. This sigma-algebra will be denoted. $\mathcal{F}_{X}$ . Just think of this as the information generated by. $X$  
 
-We have defined a random variable to be a function from $\Omega$ to $\mathbb{R}$ . Given two random variables $X_{1}$ and $X_{2}$ on the same [probability space](../Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Uncertainty%20Information%20and%20Stochastic%20Processes.md), we can form the vector $\left({X}_{1},{X}_{2}\right)^{\top}$ , which is then a (measurable) function from $\Omega$ to $\mathbb{R}^{2}$ said to be a two-dimensional random variable. For example, $X_{1}$ could represent the uncertain dividend of one asset and $X_{2}$ the uncertain dividend of another asset. Similarly we can define random variables of any other (integer) dimension. This will often be notationally convenient.  
+We have defined a random variable to be a function from $\Omega$ to $\mathbb{R}$ . Given two random variables $X_{1}$ and $X_{2}$ on the same probability space, we can form the vector $\left({X}_{1},{X}_{2}\right)^{\top}$ , which is then a (measurable) function from $\Omega$ to $\mathbb{R}^{2}$ said to be a two-dimensional random variable. For example, $X_{1}$ could represent the uncertain dividend of one asset and $X_{2}$ the uncertain dividend of another asset. Similarly we can define random variables of any other (integer) dimension. This will often be notationally convenient.  
 
-For a two-dimensional random variable. $\left(X_{1},X_{2}\right)^{\top}$ the joint or simultaneous cumulative [distribution function](../../../Financial%20Engineering/Verification%20of%20Central%20Limit%20Theorem.md) is the function $F_{(X_{1},X_{2})}:\mathbb{R}^{2}\rightarrow\mathbb{R}$ defined by  
+For a two-dimensional random variable. $\left(X_{1},X_{2}\right)^{\top}$ the joint or simultaneous cumulative distribution function is the function $F_{(X_{1},X_{2})}:\mathbb{R}^{2}\rightarrow\mathbb{R}$ defined by  
 $$
 F_{(X_{1},X_{2})}\left(x_{1},x_{2}\right)=\mathbb{P}\left(X_{1}\leq x_{1},X_{2}\leq x_{2}\right)\equiv\mathbb{P}\left(\left\{\omega\in\Omega\vert X_{1}(\omega)\leq x_{1}{\mathrm{~and~}}X_{2}(\omega)\leq x_{2}\right\}\right).
 $$  
@@ -335,7 +335,7 @@ $$
 \mathrm{Cov}[{\pmb a}+\underline{{\underline{{A}}}}{\pmb X},{\pmb Y}]=\underline{{\underline{{A}}}}\mathrm{Cov}[{\pmb X},{\pmb Y}].
 $$  
 
-Conditional [expectations](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md)...  
+Conditional expectations...  
 
 # Appendix B  
 
@@ -436,4 +436,4 @@ $$
 {\begin{array}{r l}&{\operatorname{Prob}\left(Y>K\right)=\operatorname{Prob}\left(X>\ln K\right)}\ &{\qquad=\operatorname{Prob}\left({\frac{X-m}{s}}>{\frac{\ln K-m}{s}}\right)}\ &{\qquad=\operatorname{Prob}\left({\frac{X-m}{s}}<-{\frac{\ln K-m}{s}}\right)}\ &{\qquad=N\left(-{\frac{\ln K-m}{s}}\right)}\ &{\qquad=N\left({\frac{m-\ln K}{s}}\right).}\end{array}}
 $$  
 
-The claim now follows immediately.  
+The claim now follows immediately.

@@ -34,16 +34,16 @@ key_concepts:
 
 # Advanced Data Analysis with Python
 
-- Lesson 1: [Advanced Data Structures](.md) and Algorithms in Python
-	- [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md)
+- Lesson 1: Advanced Data Structures and Algorithms in Python
+	- Introduction
 		- Objectives
-	- Importance of [Advanced Data Structures](.md) and Algorithms
-	- Types of [Advanced Data Structures](.md)
+	- Importance of Advanced Data Structures and Algorithms
+	- Types of Advanced Data Structures
 		- 1\. Hash Tables
 		- 2\. Heaps
 		- 3\. Tries (Prefix Trees)")
 		- 4\. Graphs
-	- Implementing [Advanced Data Structures](.md) in Python
+	- Implementing Advanced Data Structures in Python
 		- Hash Table (Python Implementation)")
 		- Min-Heap (Python Implementation)")
 		- Trie (Python Implementation)")
@@ -55,8 +55,8 @@ key_concepts:
 		- Graph Algorithms
 	- Real-world Applications
 	- Conclusion
-	- Lesson 2: [Efficient Data Manipulation](.md) with [Pandas](.md)
-		- [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to [Pandas](.md)
+	- Lesson 2: Efficient Data Manipulation with Pandas
+		- Introduction to Pandas
 		- Data Loading
 		- Data Inspection
 		- Data Cleaning
@@ -67,7 +67,7 @@ key_concepts:
 - Lesson 3: Handling and Analyzing Time Series Data
 	- Key Concepts
 		- 1\. Definition of Time Series Data
-		- 2\. Importance of [Time Series Analysis](.md)
+		- 2\. Importance of Time Series Analysis
 		- 3\. Components of Time Series Data
 	- Analyzing Time Series Data
 		- 1\. Data Exploration
@@ -75,15 +75,15 @@ key_concepts:
 		- 3\. Stationarity
 		- 4\. Differencing
 		- 5\. Autoregressive Models
-	- Real-life Example: [Forecasting Stock Prices](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md)
+	- Real-life Example: Forecasting Stock Prices
 		- 1\. Data Collection
 		- 2\. Data Preprocessing
 		- 3\. Model Training
 		- 4\. Evaluation
-		- 5\. [Forecasting](../../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md)
+		- 5\. Forecasting
 	- Conclusion
-- Lesson 4: [Exploratory Data Analysis](.md) with Seaborn and Matplotlib
-	- [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to [Exploratory Data Analysis](.md)
+- Lesson 4: Exploratory Data Analysis with Seaborn and Matplotlib
+	- Introduction to Exploratory Data Analysis
 	- Why Seaborn and Matplotlib?
 	- Key Concepts in EDA Using Seaborn and Matplotlib
 		- Univariate Analysis
@@ -102,7 +102,7 @@ key_concepts:
 	- Conclusion
 - Lesson 5: Data Cleaning and Preprocessing Techniques
 	- Importance of Data Cleaning and Preprocessing
-	- Common [Data Cleaning Techniques](.md)
+	- Common Data Cleaning Techniques
 		- 1\. Handling Missing Values
 		- 2\. Removing Duplicates
 		- 3\. Outlier Detection and Treatment
@@ -112,10 +112,10 @@ key_concepts:
 		- 2\. Encoding Categorical Variables
 		- 3\. Dimensionality Reduction
 	- Summary
-- Lesson 6: [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to [Big Data Analysis](.md) with [PySpark](.md)
-	- What is [PySpark](.md)?
-	- Key Components of [PySpark](.md)
-	- [PySpark](.md) Workflow
+- Lesson 6: Introduction to Big Data Analysis with PySpark
+	- What is PySpark?
+	- Key Components of PySpark
+	- PySpark Workflow
 		- 1\. Initializing a SparkSession
 		- 2\. Loading Data
 		- 3\. Data Exploration
@@ -129,11 +129,11 @@ key_concepts:
 		- 4\. Find Top 10 Products by Sales
 		- 5\. Customer Segmentation
 	- Conclusion
-- Lesson 7: [Advanced SQL Queries](.md) with Python’s [SQLAlchemy](.md)
-	- [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md)
+- Lesson 7: Advanced SQL Queries with Python’s SQLAlchemy
+	- Introduction
 	- Objectives
-	- Understanding [SQLAlchemy](.md)
-		- What is [SQLAlchemy](.md)?
+	- Understanding SQLAlchemy
+		- What is SQLAlchemy?
 		- ORM vs. Core
 	- Setting Up and Connecting to a Database
 	- Complex SQL Queries
@@ -147,11 +147,11 @@ key_concepts:
 		- Many-to-Many
 	- Conclusion
 - Lesson 8: Data Wrangling with Python: Techniques and Best Practices
-	- [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md)
+	- Introduction
 	- Objectives
 	- What is Data Wrangling?
 	- Importance of Data Wrangling
-	- Common [Data Wrangling Tasks](.md) in Python
+	- Common Data Wrangling Tasks in Python
 		- 1\. Dealing with Missing Values
 		- 2\. Detecting and Handling Outliers
 		- 3\. Merging and Joining DataFrames
@@ -166,31 +166,31 @@ key_concepts:
 		- 6\. Automate Repetitive Tasks
 	- Conclusion
 - Lesson 9: Interactive Data Visualizations with Plotly and Dash
-	- [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md)
+	- Introduction
 	- Plotly: Basics and Functionality
-		- [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md) of Plotly
+		- Overview of Plotly
 		- Key Features
 		- Real-life Example: Plotting Temperature Data
 	- Dash: Creating Dashboard Applications
-		- [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md) of Dash
+		- Overview of Dash
 		- Key Features
 		- Real-life Example: Building an Interactive Dashboard
 	- Summary
-- Lesson 10: [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to Machine Learning with Scikit-Learn
+- Lesson 10: Introduction to Machine Learning with Scikit-Learn
 	- What is Machine Learning?
 	- Key Concepts
 		- 1\. Data
 		- 2\. Model
 		- 3\. Training and Testing
 		- 4\. Supervised vs. Unsupervised Learning
-	- Scikit-Learn: An [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)
+	- Scikit-Learn: An Overview
 	- Steps to Implement Machine Learning with Scikit-Learn
 		- 1\. Data Preparation
 		- 2\. Model Selection
 		- 3\. Model Training
 		- 4\. Model Evaluation
 		- 5\. Model Tuning
-	- Example: Predicting [House Prices](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%206%20Mortgage%20Backed%20Securities.md)
+	- Example: Predicting House Prices
 		- a. Loading Libraries
 		- b. Data Preparation
 		- c. Model Selection & Training
@@ -198,7 +198,7 @@ key_concepts:
 		- e. Model Tuning
 	- Summary
 - Lesson 11: Building and Evaluating Predictive Models
-	- [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md)
+	- Introduction
 	- Understanding Predictive Models
 		- Key Steps in Building Predictive Models
 	- Model Evaluation Metrics
@@ -215,23 +215,23 @@ key_concepts:
 		- 8\. Model Tuning
 		- 9\. Model Deployment
 	- Conclusion
-- Lesson 12: Text [Data Analysis](.md) and Natural Language Processing
-	- [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to Text [Data Analysis](.md)
-		- Key Steps in Text [Data Analysis](.md)
+- Lesson 12: Text Data Analysis and Natural Language Processing
+	- Introduction to Text Data Analysis
+		- Key Steps in Text Data Analysis
 	- Text Data Preprocessing
 		- Example of Text Preprocessing
-	- [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to Natural Language Processing (NLP)")
+	- Introduction to Natural Language Processing (NLP)")
 		- Key Areas of NLP
 		- Common NLP Tasks
-	- Tools and Libraries for Text [Data Analysis](.md) and NLP
+	- Tools and Libraries for Text Data Analysis and NLP
 	- Real-Life Examples
-		- Example 1: [Sentiment Analysis](../../Advanced%20Investments/Lecture%204-%20Investor%20Sentiment.md) on Customer Reviews
+		- Example 1: Sentiment Analysis on Customer Reviews
 		- Example 2: Text Classification in Email Filtering
 		- Example 3: Named Entity Recognition in News Articles
 	- Conclusion
 - Lesson 13: Advanced Statistical Methods and Hypothesis Testing
-	- [Table of Contents](../../Contemporary%20Financial%20Intermediation%20Notes/Table%20of%20Contents.md)
-	- 1\. [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to Advanced Statistical Methods
+	- Table of Contents
+	- 1\. Introduction to Advanced Statistical Methods
 	- 2\. Hypothesis Testing Basics
 		- Steps in Hypothesis Testing:
 	- 3\. Types of Hypothesis Tests
@@ -244,22 +244,22 @@ key_concepts:
 		- Minimizing Errors
 	- 6\. Advanced Concepts: Power of a Test and Effect Size
 	- 7\. Real-Life Examples of Hypothesis Testing
-- Lesson 14: Automating [Data Analysis](.md) Workflows with Python
-	- [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md)
+- Lesson 14: Automating Data Analysis Workflows with Python
+	- Introduction
 	- Key Concepts
 		- Workflow Automation
 		- Benefits of Automation
-	- Elements of a [Data Analysis](.md) Workflow
+	- Elements of a Data Analysis Workflow
 		- Data Extraction
 		- Data Cleaning and Transformation
-		- [Data Analysis](.md)
-		- [Data Visualization](Mastering%20Data%20Analytics%20with%20Matplotlib%20in%20Python.md)
+		- Data Analysis
+		- Data Visualization
 	- Creating an Automated Workflow
 		- Scheduling and Orchestrating Tasks
 		- Automated Scripts
 	- Conclusion
 	- Lesson 15: Effective Data Reporting with Jupyter Notebooks
-		- [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md)
+		- Introduction
 		- Importance of Effective Data Reporting
 		- Structuring Your Jupyter Notebook
 		- Enhancing Readability
@@ -269,15 +269,15 @@ key_concepts:
 			- Inline Visualizations
 		- Example: Structuring a Simple Report
 		- Conclusion
-- Lesson 16: Case Studies: Real-world [Data Analysis](.md) Projects
-	- [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md)
+- Lesson 16: Case Studies: Real-world Data Analysis Projects
+	- Introduction
 	- Learning Objectives
 	- Case Study 1: Customer Churn Analysis
 		- Problem Definition
 		- Data Collection
 		- Data Cleaning
 		- Analysis
-			- [Exploratory Data Analysis](.md) (EDA)")
+			- Exploratory Data Analysis (EDA)")
 			- Predictive Modeling
 		- Interpretation
 		- Example Insights
@@ -290,31 +290,31 @@ key_concepts:
 			- Model Building
 		- Interpretation
 		- Example Insights
-	- Case Study 3: [Sentiment Analysis](../../Advanced%20Investments/Lecture%204-%20Investor%20Sentiment.md) for Product Reviews
+	- Case Study 3: Sentiment Analysis for Product Reviews
 		- Problem Definition
 		- Data Collection
 		- Data Cleaning
 		- Analysis
 			- EDA
-			- [Sentiment Analysis](../../Advanced%20Investments/Lecture%204-%20Investor%20Sentiment.md)
+			- Sentiment Analysis
 		- Interpretation
 		- Example Insights
 	- Conclusion
 	- Further Reading
 
-Lesson 1: [Advanced Data Structures](.md) and Algorithms in Python
+Lesson 1: Advanced Data Structures and Algorithms in Python
 -----------------------------------------------------------
 
-[Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md)
+Introduction
 ------------
 
-Welcome to the first lesson of our course: “Elevate your [data analysis](.md) skills to the next level with advanced techniques and Python libraries.” This lesson will extend your understanding of data structures and algorithms,  which are fundamental aspects of programming and [data analysis](.md). By mastering these advanced techniques,  you can efficiently handle complex data and perform high-level computations proficiently in Python.
+Welcome to the first lesson of our course: “Elevate your data analysis skills to the next level with advanced techniques and Python libraries.” This lesson will extend your understanding of data structures and algorithms,  which are fundamental aspects of programming and data analysis. By mastering these advanced techniques,  you can efficiently handle complex data and perform high-level computations proficiently in Python.
 
 ### Objectives
 
-Understand the importance of [advanced data structures](.md) and algorithms.
+Understand the importance of advanced data structures and algorithms.
 
-Explore different types of [advanced data structures](.md).
+Explore different types of advanced data structures.
 
 Learn how to implement and use these data structures in Python.
 
@@ -322,12 +322,12 @@ Analyze various algorithms associated with these data structures.
 
 Understand the real-world applications of these concepts.
 
-Importance of [Advanced Data Structures](.md) and Algorithms
+Importance of Advanced Data Structures and Algorithms
 -----------------------------------------------------
 
-Data structures and algorithms form the backbone of [data analysis](.md),  influencing the efficiency and performance of programs handling large volumes of data. With [advanced data structures](.md),  you can:
+Data structures and algorithms form the backbone of data analysis,  influencing the efficiency and performance of programs handling large volumes of data. With advanced data structures,  you can:
 
-![Sales Now On Advertisement](https://enterprisedna.co/[pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md))
+!Sales Now On Advertisement)
 
 Optimize memory usage.
 
@@ -337,7 +337,7 @@ Perform complex operations quickly and efficiently.
 
 Algorithms,  on the other hand,  allow for organized and systematic processing of data to derive meaningful insights effectively.
 
-Types of [Advanced Data Structures](.md)
+Types of Advanced Data Structures
 ---------------------------------
 
 ### 1\. Hash Tables
@@ -364,7 +364,7 @@ Graphs consist of vertices (nodes) connected by edges. They are used to represen
 
 **Real-life Example**: Social networks,  where vertices represent users and edges represent connections.
 
-Implementing [Advanced Data Structures](.md) in Python
+Implementing Advanced Data Structures in Python
 -----------------------------------------------
 
 ### Hash Table (Python Implementation)
@@ -513,18 +513,18 @@ Real-world Applications
 Conclusion
 ----------
 
-In this lesson,  we’ve covered [advanced data structures](.md) like hash tables,  heaps,  tries,  and graphs,  along with their implementations and associated algorithms in Python. These data structures are instrumental in solving complex [data analysis](.md) problems efficiently. Understanding and mastering these concepts will elevate your [data analysis](.md) skills and improve your ability to handle large datasets and high-performance computations.
+In this lesson,  we’ve covered advanced data structures like hash tables,  heaps,  tries,  and graphs,  along with their implementations and associated algorithms in Python. These data structures are instrumental in solving complex data analysis problems efficiently. Understanding and mastering these concepts will elevate your data analysis skills and improve your ability to handle large datasets and high-performance computations.
 
-In the next lesson,  we will dive deeper into the practical applications of these data structures and learn to [leverage](../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) Python libraries to implement more advanced algorithms. Stay tuned!
+In the next lesson,  we will dive deeper into the practical applications of these data structures and learn to leverage Python libraries to implement more advanced algorithms. Stay tuned!
 
-Lesson 2: [Efficient Data Manipulation](.md) with [Pandas](.md)
+Lesson 2: Efficient Data Manipulation with Pandas
 -------------------------------------------------
 
-Welcome to the second lesson of our course “Elevate your [data analysis](.md) skills to the next level with advanced techniques and Python libraries.” In this lesson,  we will explore [efficient data manipulation](.md) using the [Pandas](.md) library. Understanding and mastering these techniques will significantly improve your ability to preprocess and analyze data effectively.
+Welcome to the second lesson of our course “Elevate your data analysis skills to the next level with advanced techniques and Python libraries.” In this lesson,  we will explore efficient data manipulation using the Pandas library. Understanding and mastering these techniques will significantly improve your ability to preprocess and analyze data effectively.
 
 ### Introduction to Pandas
 
-[Pandas](.md) is a powerful Python library designed for [data analysis](.md) and manipulation. It offers data structures and functions needed to work on structured data seamlessly. The primary data structures in [Pandas](.md) are:
+Pandas is a powerful Python library designed for data analysis and manipulation. It offers data structures and functions needed to work on structured data seamlessly. The primary data structures in Pandas are:
 
 **Series**: A one-dimensional labeled array capable of holding any data type.
 
@@ -532,7 +532,7 @@ Welcome to the second lesson of our course “Elevate your [data analysis](.md) 
 
 ### Data Loading
 
-Before manipulating data,  it is essential to load it efficiently. [Pandas](.md) provides functions like `read_csv()`,  `read_excel()`,  `read_sql()`,  and more,  which allow us to import data from various sources into DataFrames.
+Before manipulating data,  it is essential to load it efficiently. Pandas provides functions like `read_csv()`,  `read_excel()`,  `read_sql()`,  and more,  which allow us to import data from various sources into DataFrames.
 ```python
 import pandas as pd
 
@@ -545,9 +545,9 @@ data = pd.read_csv("path/to/your/file.csv")
 
 To understand the structure and summary of the data,  use the following methods:
 
-**`head()`**: [Returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) the first n rows.
+**`head()`**: Returns the first n rows.
 
-**`tail()`**: [Returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) the last n rows.
+**`tail()`**: Returns the last n rows.
 
 **`info()`**: Provides a concise summary of the DataFrame.
 
@@ -583,7 +583,7 @@ data.drop_duplicates(inplace=True)
 
 ### Data Transformation
 
-Transforming data involves various operations that improve [data analysis](.md),  such as:
+Transforming data involves various operations that improve data analysis,  such as:
 
 **Filtering** records using boolean indexing.
 
@@ -606,7 +606,7 @@ grouped_data = data.groupby('group_column').agg({'agg_column': 'sum'})
 
 ### Data Merging
 
-Combining datasets is a crucial step when working with multiple sources or combining data from different observations. [Pandas](.md) offers:
+Combining datasets is a crucial step when working with multiple sources or combining data from different observations. Pandas offers:
 
 **`merge()`**: Similar to SQL join operations.
 
@@ -630,7 +630,7 @@ Handling large datasets requires efficient practices to ensure performance is no
 
 **Memory optimization**: Downcast data types to reduce memory usage.
 
-**Vectorized operations**: Utilize [Pandas](.md)’ built-in functions over Python loops.
+**Vectorized operations**: Utilize Pandas’ built-in functions over Python loops.
 ```python
 # Processing a large CSV file in chunks
 chunk_size = 10000
@@ -645,16 +645,16 @@ data['int_column'] = pd.to_numeric(data['int_column'],       downcast='integer')
 
 ### Conclusion
 
-Understanding and implementing [efficient data manipulation](.md) techniques in [Pandas](.md) will significantly enhance your [data analysis](.md) capabilities. By mastering these operations,  you’ll be able to handle complex datasets more effectively and extract valuable insights with ease.
+Understanding and implementing efficient data manipulation techniques in Pandas will significantly enhance your data analysis capabilities. By mastering these operations,  you’ll be able to handle complex datasets more effectively and extract valuable insights with ease.
 
-In the next lesson,  we will explore advanced [data visualization](Mastering%20Data%20Analytics%20with%20Matplotlib%20in%20Python.md) techniques using the Matplotlib and Seaborn libraries. Stay tuned!
+In the next lesson,  we will explore advanced data visualization techniques using the Matplotlib and Seaborn libraries. Stay tuned!
 
 Lesson 3: Handling and Analyzing Time Series Data
 -------------------------------------------------
 
 This lesson will guide you through the essential concepts,  methods,  and practical aspects involved in handling and analyzing time series data. Time series data is a series of data points indexed in time order. Understanding how to work with this data is critical for many fields such as finance,  economics,  environmental science,  and more.
 
-![Data Mentor Advertisement](https://mentor.enterprisedna.co/)
+!Data Mentor Advertisement
 
 Key Concepts
 ------------
@@ -665,7 +665,7 @@ Time series data is a sequence of data points collected at successive points in 
 
 ### 2\. Importance of Time Series Analysis
 
-[Time series analysis](.md) is used to understand the underlying patterns,  trends,  and seasonality in the data. It helps in making predictions,  detecting anomalies,  and identifying [Forecasting](Week%203%20Cyclical%20Industries%20(and%20Advanced%20[[Week%202%20Fundamentals%20Of%20Forecasting))|cyclical]] patterns.
+Time series analysis is used to understand the underlying patterns,  trends,  and seasonality in the data. It helps in making predictions,  detecting anomalies,  and identifying Forecasting) | cyclical]] patterns.
 
 ### 3\. Components of Time Series Data
 
@@ -721,12 +721,12 @@ diff = time_series_data.diff().dropna()
 
 Autoregressive models use previous time points to predict future ones. Common models include ARIMA (AutoRegressive Integrated Moving Average) which combines differencing with autoregression and moving average.
 
-Real-life Example: [Forecasting Stock Prices](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md)
+Real-life Example: Forecasting Stock Prices
 -------------------------------------------
 
 ### 1\. Data Collection
 
-Collect historical [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) data for analysis. This can be obtained from finance APIs or CSV files.
+Collect historical stock price data for analysis. This can be obtained from finance APIs or CSV files.
 
 ### 2\. Data Preprocessing
 
@@ -734,7 +734,7 @@ Handle missing values,  perform transformations if necessary,  and ensure the da
 
 ### 3\. Model Training
 
-Train a time series [forecasting](../../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) model like ARIMA on the historical data.
+Train a time series forecasting model like ARIMA on the historical data.
 
 ### 4\. Evaluation
 
@@ -750,7 +750,7 @@ print(model_fit.summary())
 
 ### 5\. Forecasting
 
-Use the trained model to make future [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) predictions.
+Use the trained model to make future stock price predictions.
 ```python
 forecast = model_fit.forecast(steps=10)
 print(forecast)
@@ -760,19 +760,19 @@ print(forecast)
 Conclusion
 ----------
 
-[Time series analysis](.md) is a powerful tool for understanding and predicting temporal data. By mastering these concepts and techniques,  you can derive meaningful insights,  make accurate predictions,  and become proficient in handling time series data. Reach out to your datasets,  visualize the patterns,  decompose the series,  ensure stationarity,  and apply appropriate models to forecast future values accurately.
+Time series analysis is a powerful tool for understanding and predicting temporal data. By mastering these concepts and techniques,  you can derive meaningful insights,  make accurate predictions,  and become proficient in handling time series data. Reach out to your datasets,  visualize the patterns,  decompose the series,  ensure stationarity,  and apply appropriate models to forecast future values accurately.
 
-Continue your learning journey and explore advanced topics like Seasonal Decomposition of Time Series (STL),  GARCH models for volatility,  or deep learning methods for time series [forecasting](../../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md).
+Continue your learning journey and explore advanced topics like Seasonal Decomposition of Time Series (STL),  GARCH models for volatility,  or deep learning methods for time series forecasting.
 
-Lesson 4: [Exploratory Data Analysis](.md) with Seaborn and Matplotlib
+Lesson 4: Exploratory Data Analysis with Seaborn and Matplotlib
 ---------------------------------------------------------------
 
-Welcome to the fourth lesson in our course _“Elevate Your [Data Analysis](.md) Skills to the Next Level with Advanced Techniques and Python Libraries”_. In this lesson,  we will dive deep into [Exploratory Data Analysis](.md) (EDA) using Seaborn and Matplotlib,  two powerful visualization libraries. EDA is an essential step in understanding the nuances and patterns within your dataset before moving on to more complex analyses or models. Let’s get started!
+Welcome to the fourth lesson in our course _“Elevate Your Data Analysis Skills to the Next Level with Advanced Techniques and Python Libraries”_. In this lesson,  we will dive deep into Exploratory Data Analysis (EDA) using Seaborn and Matplotlib,  two powerful visualization libraries. EDA is an essential step in understanding the nuances and patterns within your dataset before moving on to more complex analyses or models. Let’s get started!
 
-[Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to [Exploratory Data Analysis](.md)
+Introduction to Exploratory Data Analysis
 -----------------------------------------
 
-[Exploratory Data Analysis](.md) (EDA) involves summarizing the main characteristics of a dataset,  often with visual methods. This step helps in:
+Exploratory Data Analysis (EDA) involves summarizing the main characteristics of a dataset,  often with visual methods. This step helps in:
 
 Understanding the distribution of your data.
 
@@ -784,12 +784,12 @@ Assessing the quality of your data.
 
 While there are various tools to perform EDA,  Seaborn and Matplotlib provide a rich set of functionalities that make visualization both effective and efficient.
 
-![EDNA AI Advertisement](https://app.enterprisedna.co/app/bot)
+!EDNA AI Advertisement
 
 Why Seaborn and Matplotlib?
 ---------------------------
 
-**Matplotlib**: A versatile and foundational library in Python for creating static,  animated,  and [interactive visualizations](.md). It forms the basis for many other visualization libraries.
+**Matplotlib**: A versatile and foundational library in Python for creating static,  animated,  and interactive visualizations. It forms the basis for many other visualization libraries.
 
 **Seaborn**: Built on top of Matplotlib,  it simplifies many aspects of creating aesthetically pleasing and informative statistical plots.
 
@@ -912,19 +912,19 @@ plt.show()
 Conclusion
 ----------
 
-In this lesson,  we thoroughly covered the essentials of [Exploratory Data Analysis](.md) using Seaborn and Matplotlib. By leveraging these powerful libraries,  you can gain valuable insights into your data,  identify underlying patterns,  and prepare it for further analysis or modeling. As you continue to practice these techniques,  you’ll become more proficient at uncovering the stories hidden within your data.
+In this lesson,  we thoroughly covered the essentials of Exploratory Data Analysis using Seaborn and Matplotlib. By leveraging these powerful libraries,  you can gain valuable insights into your data,  identify underlying patterns,  and prepare it for further analysis or modeling. As you continue to practice these techniques,  you’ll become more proficient at uncovering the stories hidden within your data.
 
 Stay tuned for the next lesson,  where we will build on these foundations with more advanced topics and techniques. Happy analyzing!
 
 Lesson 5: Data Cleaning and Preprocessing Techniques
 ----------------------------------------------------
 
-Welcome to Lesson 5 of your [data analysis](.md) course: “Data Cleaning and Preprocessing Techniques.” In this lesson,  we will focus on understanding the significance of data cleaning and preprocessing and exploring techniques that can be employed to ensure your data is ready for analysis. Quality data is essential for deriving meaningful insights,  and this lesson will equip you with the knowledge to prepare your datasets effectively.
+Welcome to Lesson 5 of your data analysis course: “Data Cleaning and Preprocessing Techniques.” In this lesson,  we will focus on understanding the significance of data cleaning and preprocessing and exploring techniques that can be employed to ensure your data is ready for analysis. Quality data is essential for deriving meaningful insights,  and this lesson will equip you with the knowledge to prepare your datasets effectively.
 
 Importance of Data Cleaning and Preprocessing
 ---------------------------------------------
 
-**Data cleaning and preprocessing** is a critical first step in any [data analysis](.md) project. Real-world data is often messy,  incomplete,  and inconsistent,  which can lead to inaccurate analyses and misleading results. The main objectives of data cleaning and preprocessing include:
+**Data cleaning and preprocessing** is a critical first step in any data analysis project. Real-world data is often messy,  incomplete,  and inconsistent,  which can lead to inaccurate analyses and misleading results. The main objectives of data cleaning and preprocessing include:
 
 **Removing or correcting errors**: Identifying and fixing errors in the data,  such as incorrect entries or outliers.
 
@@ -934,7 +934,7 @@ Importance of Data Cleaning and Preprocessing
 
 **Enhancing data quality**: Adding value to the data by deriving new features or combining multiple data sources.
 
-Common [Data Cleaning Techniques](.md)
+Common Data Cleaning Techniques
 -------------------------------
 
 ### 1\. Handling Missing Values
@@ -1030,30 +1030,30 @@ Encoded_data = pd. Get_dummies (data,       columns=['categorical_column'])
 
 Reducing the number of features while retaining essential information can simplify the analysis and improve performance.
 
-**Principal Component Analysis (PCA)**: A technique to reduce dimensionality by transforming features into uncorrelated [principal components](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%206/Principal%20Component%20Analysis.md).
+**Principal Component Analysis (PCA)**: A technique to reduce dimensionality by transforming features into uncorrelated principal components.
 
 **Feature selection**: Choosing relevant features based on statistical tests or model-based methods.
 
 Summary
 -------
 
-Data cleaning and preprocessing are foundational steps in any [data analysis](.md) workflow. They ensure that the data is accurate,  complete,  and ready for analysis. By mastering the techniques covered in this lesson,  you will be well-equipped to handle messy data and unlock the full potential of your analyses. As we move forward in this course,  these skills will prove invaluable in tackling more advanced [data analysis](.md) tasks.
+Data cleaning and preprocessing are foundational steps in any data analysis workflow. They ensure that the data is accurate,  complete,  and ready for analysis. By mastering the techniques covered in this lesson,  you will be well-equipped to handle messy data and unlock the full potential of your analyses. As we move forward in this course,  these skills will prove invaluable in tackling more advanced data analysis tasks.
 
 * * *
 
-That concludes Lesson 5. In the next lesson,  we will continue building on these concepts and explore more advanced methods and techniques for [data analysis](.md). Stay tuned!
+That concludes Lesson 5. In the next lesson,  we will continue building on these concepts and explore more advanced methods and techniques for data analysis. Stay tuned!
 
-Lesson 6: [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to [Big Data Analysis](.md) with [PySpark](.md)
+Lesson 6: Introduction to Big Data Analysis with PySpark
 --------------------------------------------------------
 
-Welcome to Lesson 6 of the course “Elevate your [data analysis](.md) skills to the next level with advanced techniques and Python libraries.” In this lesson,  we will explore the essentials of [big data analysis](.md) using [PySpark](.md). The goal is to introduce you to [PySpark](.md),  a powerful library for processing large datasets efficiently within the Python ecosystem.
+Welcome to Lesson 6 of the course “Elevate your data analysis skills to the next level with advanced techniques and Python libraries.” In this lesson,  we will explore the essentials of big data analysis using PySpark. The goal is to introduce you to PySpark,  a powerful library for processing large datasets efficiently within the Python ecosystem.
 
-What is [PySpark](.md)?
+What is PySpark?
 ----------------
 
-[PySpark](.md) is the Python API for Apache Spark,  an open-source,  distributed computing system that provides an interface for programming entire clusters with implicit data parallelism and fault tolerance. [PySpark](.md) enables performing [big data analysis](.md) and machine learning on large datasets by leveraging the distributed computing power of Spark.
+PySpark is the Python API for Apache Spark,  an open-source,  distributed computing system that provides an interface for programming entire clusters with implicit data parallelism and fault tolerance. PySpark enables performing big data analysis and machine learning on large datasets by leveraging the distributed computing power of Spark.
 
-Key Components of [PySpark](.md)
+Key Components of PySpark
 -------------------------
 
 **Resilient Distributed Dataset (RDD):**
@@ -1062,7 +1062,7 @@ RDD is the fundamental data structure of Spark. It is an immutable,  distributed
 
 **DataFrame:**
 
-Similar to a table in a database or a dataframe in [pandas](.md),  the Spark DataFrame is a distributed collection of data organized into named columns. It gives a higher-level abstraction of RDD with optimized execution plans.
+Similar to a table in a database or a dataframe in pandas,  the Spark DataFrame is a distributed collection of data organized into named columns. It gives a higher-level abstraction of RDD with optimized execution plans.
 
 **SparkSQL:**
 
@@ -1072,12 +1072,12 @@ Spark SQL provides a Spark module for structured data processing. It allows quer
 
 It is Spark’s scalable machine learning library that provides a set of high-level APIs for various machine learning algorithms.
 
-[PySpark](.md) Workflow
+PySpark Workflow
 ----------------
 
 ### 1\. Initializing a SparkSession
 
-Before you can work with Spark,  you need to create a `SparkSession`. The `SparkSession` is the entry point to programming with [PySpark](.md).
+Before you can work with Spark,  you need to create a `SparkSession`. The `SparkSession` is the entry point to programming with PySpark.
 ```python
 From pyspark. Sql import SparkSession
 
@@ -1131,7 +1131,7 @@ Grouped_df = df.GroupBy ("column 1"). Agg ({"column 2": "mean",       "column 3"
 
 ### 6\. Joining DataFrames
 
-Joining multiple DataFrames is a common task in [data analysis](.md):
+Joining multiple DataFrames is a common task in data analysis:
 ```python
 # Assuming df 1 and df 2 are two DataFrames with a common column 'id'
 Joined_df = df 1. Join (df 2,       df 1. Id == df 2. Id,       "inner")
@@ -1141,7 +1141,7 @@ Joined_df = df 1. Join (df 2,       df 1. Id == df 2. Id,       "inner")
 Practical Example: Analyzing E-commerce Data
 --------------------------------------------
 
-Consider an e-commerce dataset containing customer transactions. Below is a typical workflow for analyzing such data with [PySpark](.md):
+Consider an e-commerce dataset containing customer transactions. Below is a typical workflow for analyzing such data with PySpark:
 
 ### 1\. Load the Data
 ```python
@@ -1191,47 +1191,47 @@ Customer_spending.OrderBy ("total_spent",       ascending=False). Show (10)
 Conclusion
 ----------
 
-In this lesson,  we discussed the essentials of [big data analysis](.md) using [PySpark](.md),  covering its key components and workflow. [PySpark](.md) provides a powerful and flexible framework for processing large datasets efficiently within a distributed computing environment. By mastering [PySpark](.md),  you can elevate your [data analysis](.md) skills to handle big data challenges effectively.
+In this lesson,  we discussed the essentials of big data analysis using PySpark,  covering its key components and workflow. PySpark provides a powerful and flexible framework for processing large datasets efficiently within a distributed computing environment. By mastering PySpark,  you can elevate your data analysis skills to handle big data challenges effectively.
 
-In the next lesson,  we will build on this foundation and explore advanced [PySpark](.md) functionalities and applications in machine learning. Stay tuned!
+In the next lesson,  we will build on this foundation and explore advanced PySpark functionalities and applications in machine learning. Stay tuned!
 
-Lesson 7: [Advanced SQL Queries](.md) with Python’s [SQLAlchemy](.md)
+Lesson 7: Advanced SQL Queries with Python’s SQLAlchemy
 -------------------------------------------------------
 
-[Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md)
+Introduction
 ------------
 
-Welcome to the seventh lesson of the course “Elevate Your [Data Analysis](.md) Skills to the Next Level with Advanced Techniques and Python Libraries.” In this lesson,  we will explore the powerful capabilities of [SQLAlchemy](.md),  an SQL toolkit and Object-Relational Mapping (ORM) library for Python. [SQLAlchemy](.md) provides a full suite of tools for building and executing SQL queries within Python,  streamlining the transition between SQL and Python while enabling advanced query techniques.
+Welcome to the seventh lesson of the course “Elevate Your Data Analysis Skills to the Next Level with Advanced Techniques and Python Libraries.” In this lesson,  we will explore the powerful capabilities of SQLAlchemy,  an SQL toolkit and Object-Relational Mapping (ORM) library for Python. SQLAlchemy provides a full suite of tools for building and executing SQL queries within Python,  streamlining the transition between SQL and Python while enabling advanced query techniques.
 
 Objectives
 ----------
 
 By the end of this lesson,  you should:
 
-- Understand the [fundamentals](../../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) of [SQLAlchemy](.md).
-- Be capable of setting up and connecting to a database using [SQLAlchemy](.md).
-- Use [SQLAlchemy](.md) for complex SQL queries including joins,  subqueries,  and aggregate functions.
-- Learn how to handle transactions and execute raw SQL using [SQLAlchemy](.md).
+- Understand the fundamentals of SQLAlchemy.
+- Be capable of setting up and connecting to a database using SQLAlchemy.
+- Use SQLAlchemy for complex SQL queries including joins,  subqueries,  and aggregate functions.
+- Learn how to handle transactions and execute raw SQL using SQLAlchemy.
 - Grasp advanced concepts such as relationships and ORM.
 
-Understanding [SQLAlchemy](.md)
+Understanding SQLAlchemy
 ------------------------
 
 ### What is SQLAlchemy?
 
-[SQLAlchemy](.md) is a powerful library that facilitates SQL query generation and database manipulation. It allows you to work with databases in a Pythonic way by mapping Python classes to database tables. This enables developers to focus on application logic rather than SQL syntax.
+SQLAlchemy is a powerful library that facilitates SQL query generation and database manipulation. It allows you to work with databases in a Pythonic way by mapping Python classes to database tables. This enables developers to focus on application logic rather than SQL syntax.
 
 ### ORM vs. Core
 
-- **[SQLAlchemy](.md) Core:** Low-level API for direct SQL expression and execution.
-- **[SQLAlchemy](.md) ORM:** High-level API for managing database records as Python objects.
+- **SQLAlchemy Core:** Low-level API for direct SQL expression and execution.
+- **SQLAlchemy ORM:** High-level API for managing database records as Python objects.
 
 Setting Up and Connecting to a Database
 ---------------------------------------
 
-After importing and setting up [SQLAlchemy](.md),  you establish a connection with a database using an engine. Here’s a conceptual walkthrough:
+After importing and setting up SQLAlchemy,  you establish a connection with a database using an engine. Here’s a conceptual walkthrough:
 
-1. **Create an Engine:**
+[^1]: **Create an Engine:**
 
 	```python
 
@@ -1240,7 +1240,7 @@ From sqlalchemy import create_engine
 Engine = create_engine ('sqlite:///example. Db')
 
 ```python
-2.  **Create a Session:**
+[^2]: **Create a Session:**
     ```
 From sqlalchemy. Orm import sessionmaker
 Session = sessionmaker (bind=engine)
@@ -1248,7 +1248,7 @@ Session = Session ()
 
 ```
 
-1. **Define Models:**
+[^1]: **Define Models:**
 
 	```python
 
@@ -1269,7 +1269,7 @@ Class User (Base):
 	Age = Column (Integer)
 
 ```python
-4.  **Create Tables:**
+[^4]: **Create Tables:**
     ```
 Base. Metadata. Create_all (engine)
 
@@ -1280,7 +1280,7 @@ Complex SQL Queries
 
 ### Joins
 
-Joins combine rows from two or more tables. [SQLAlchemy](.md) makes this straightforward:
+Joins combine rows from two or more tables. SQLAlchemy makes this straightforward:
 ```python
 From sqlalchemy. Orm import aliased
 
@@ -1302,7 +1302,7 @@ Results = query.All ()
 
 ### Aggregate Functions
 
-[SQLAlchemy](.md) supports aggregate functions like `COUNT`,  `SUM`,  `AVG`:
+SQLAlchemy supports aggregate functions like `COUNT`,  `SUM`,  `AVG`:
 ```python
 From sqlalchemy import func
 
@@ -1315,7 +1315,7 @@ Count,       average_age = result
 Transactions
 ------------
 
-Handling transactions is essential for ensuring data integrity. [SQLAlchemy](.md) provides transaction management:
+Handling transactions is essential for ensuring data integrity. SQLAlchemy provides transaction management:
 ```python
 Session = Session ()
 Try:
@@ -1385,21 +1385,21 @@ Class Address (Base):
 Conclusion
 ----------
 
-In this lesson,  we explored the advanced capabilities of [SQLAlchemy](.md),  which bridges the gap between Python and SQL,  enabling complex queries and transactions while maintaining a high level of abstraction and functionality. Equipped with these skills,  you can efficiently perform sophisticated data analyses and manipulations within your Python applications.
+In this lesson,  we explored the advanced capabilities of SQLAlchemy,  which bridges the gap between Python and SQL,  enabling complex queries and transactions while maintaining a high level of abstraction and functionality. Equipped with these skills,  you can efficiently perform sophisticated data analyses and manipulations within your Python applications.
 
 Lesson 8: Data Wrangling with Python: Techniques and Best Practices
 -------------------------------------------------------------------
 
-[Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md)
+Introduction
 ------------
 
-Data wrangling,  also known as data munging,  is the process of transforming and mapping raw data into a more valuable or suitable format for analysis. This is an essential step in [data analysis](.md),  data science,  and machine learning. Without clean and well-structured data,  advanced analysis and model building can be inefficient and error-prone.
+Data wrangling,  also known as data munging,  is the process of transforming and mapping raw data into a more valuable or suitable format for analysis. This is an essential step in data analysis,  data science,  and machine learning. Without clean and well-structured data,  advanced analysis and model building can be inefficient and error-prone.
 
 Objectives
 ----------
 
 - Understand what data wrangling is and why it is important.
-- Learn about common [data wrangling tasks](.md) in Python.
+- Learn about common data wrangling tasks in Python.
 - Explore best practices for data wrangling.
 
 What is Data Wrangling?
@@ -1416,7 +1416,7 @@ Importance of Data Wrangling
 
 Effective data wrangling ensures that you can trust your data,  which is essential for your analysis to produce accurate and useful results. Properly wrangled data can lead to better insights,  more efficient analysis,  and more accurate machine learning models.
 
-Common [Data Wrangling Tasks](.md) in Python
+Common Data Wrangling Tasks in Python
 -------------------------------------
 
 ### 1\. Dealing with Missing Values
@@ -1429,7 +1429,7 @@ Handling missing values ensures the integrity of the dataset:
 
 ### 2\. Detecting and Handling Outliers
 
-Outliers can skew [data analysis](.md):
+Outliers can skew data analysis:
 
 - **Identify Outliers**: Use statistical methods like the Z-score or the IQR range.
 - **Handle Outliers**: Consider removing,  transforming,  or investigating further to understand their cause.
@@ -1468,7 +1468,7 @@ Consistent and descriptive names for variables,  columns,  and objects make your
 
 ### 3\. Chain Functions
 
-To make code more concise and readable,  chain [pandas](.md) methods together using method chaining.
+To make code more concise and readable,  chain pandas methods together using method chaining.
 
 ### 4\. Document Your Code
 
@@ -1485,15 +1485,15 @@ Use functions and automation to handle repetitive tasks,  which can save time an
 Conclusion
 ----------
 
-Data wrangling is a critical and often time-consuming part of the [data analysis](.md) process,  but it is essential for ensuring the quality and usability of your data. By understanding and applying effective data wrangling techniques and best practices,  you pave the way for accurate and meaningful analyses. This lesson aimed to provide you with a comprehensive understanding of data wrangling in Python,  ensuring you can confidently transform your raw data into a clean and structured format ready for further analysis.
+Data wrangling is a critical and often time-consuming part of the data analysis process,  but it is essential for ensuring the quality and usability of your data. By understanding and applying effective data wrangling techniques and best practices,  you pave the way for accurate and meaningful analyses. This lesson aimed to provide you with a comprehensive understanding of data wrangling in Python,  ensuring you can confidently transform your raw data into a clean and structured format ready for further analysis.
 
 Lesson 9: Interactive Data Visualizations with Plotly and Dash
 --------------------------------------------------------------
 
-[Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md)
+Introduction
 ------------
 
-Welcome to Lesson 9 of our course: “Elevate your [data analysis](.md) skills to the next level with advanced techniques and Python libraries”. In this lesson,  we will cover the creation of interactive data visualizations using Plotly and Dash. [Interactive visualizations](.md) can provide deeper insights and allow users to better explore the data.
+Welcome to Lesson 9 of our course: “Elevate your data analysis skills to the next level with advanced techniques and Python libraries”. In this lesson,  we will cover the creation of interactive data visualizations using Plotly and Dash. Interactive visualizations can provide deeper insights and allow users to better explore the data.
 
 Plotly is a graphing library that makes interactive,  publication-quality graphs online. Dash,  an open-source framework created by Plotly,  enables the building of interactive web applications with Python. In this lesson,  we’ll understand how these tools can be leveraged to create rich and meaningful visualizations.
 
@@ -1601,19 +1601,19 @@ If __name__ == '__main__':
 
 In this example:
 
-1. **App Layout**: `html. Div` containers hold the components – a graph and a slider.
-1. **Slider Component**: Provides months as options. The value of the slider will be used to filter data.
-1. **Callback Function**: `update_graph` dynamically updates the bar chart based on the selected slider value.
+[^1]: **App Layout**: `html. Div` containers hold the components – a graph and a slider.
+[^1]: **Slider Component**: Provides months as options. The value of the slider will be used to filter data.
+[^1]: **Callback Function**: `update_graph` dynamically updates the bar chart based on the selected slider value.
 
 Summary
 -------
 
-In this lesson,  we explored how to create [interactive visualizations](.md) using Plotly and build web applications with Dash. [Interactive visualizations](.md) allow for enhanced data exploration and can lead to deeper insights. Combining Plotly’s powerful graphing capabilities with Dash’s application framework enables the construction of comprehensive and responsive [data visualization](Mastering%20Data%20Analytics%20with%20Matplotlib%20in%20Python.md) tools.
+In this lesson,  we explored how to create interactive visualizations using Plotly and build web applications with Dash. Interactive visualizations allow for enhanced data exploration and can lead to deeper insights. Combining Plotly’s powerful graphing capabilities with Dash’s application framework enables the construction of comprehensive and responsive data visualization tools.
 
-Lesson 10: [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to Machine Learning with Scikit-Learn
+Lesson 10: Introduction to Machine Learning with Scikit-Learn
 -------------------------------------------------------------
 
-Welcome to Lesson 10 of the course “Elevate your [Data Analysis](.md) Skills to the Next Level with Advanced Techniques and Python Libraries.” In this lesson,  we will delve deep into the world of machine learning using the powerful Python library,  Scikit-Learn. This module will serve as a comprehensive [introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to machine learning,  covering the essential concepts,  terminologies,  and practical implementations to kickstart your journey in this fascinating field.
+Welcome to Lesson 10 of the course “Elevate your Data Analysis Skills to the Next Level with Advanced Techniques and Python Libraries.” In this lesson,  we will delve deep into the world of machine learning using the powerful Python library,  Scikit-Learn. This module will serve as a comprehensive introduction to machine learning,  covering the essential concepts,  terminologies,  and practical implementations to kickstart your journey in this fascinating field.
 
 What is Machine Learning?
 -------------------------
@@ -1646,10 +1646,10 @@ To evaluate a model’s performance:
 - **Supervised Learning**: Algorithms are trained using labeled data. Examples include classification and regression.
 - **Unsupervised Learning**: Algorithms identify patterns in data without labels. Examples include clustering and dimensionality reduction.
 
-Scikit-Learn: An [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)
+Scikit-Learn: An Overview
 -------------------------
 
-Scikit-Learn is a robust,  open-source Python library for machine learning. It provides simple and efficient tools for data mining and [data analysis](.md) and is built on top of NumPy,  SciPy,  and Matplotlib.
+Scikit-Learn is a robust,  open-source Python library for machine learning. It provides simple and efficient tools for data mining and data analysis and is built on top of NumPy,  SciPy,  and Matplotlib.
 
 Steps to Implement Machine Learning with Scikit-Learn
 -----------------------------------------------------
@@ -1674,10 +1674,10 @@ Assess the model’s performance on test data using metrics like accuracy,  prec
 
 Improve the model performance by tuning hyperparameters using techniques like Grid Search Cross-Validation.
 
-Example: Predicting [House Prices](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%206%20Mortgage%20Backed%20Securities.md)
+Example: Predicting House Prices
 --------------------------------
 
-Let’s consider a real-life example of predicting [house prices](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%206%20Mortgage%20Backed%20Securities.md) using linear regression.
+Let’s consider a real-life example of predicting house prices using linear regression.
 
 ### a. Loading Libraries
 ```python
@@ -1693,7 +1693,7 @@ From sklearn. Metrics import mean_squared_error,       r 2_score
 
 Suppose `data` is a DataFrame containing features like ‘Size’,  ‘Location’,  and ‘Price’.
 ```python
-X = data ['Size',       'Location']('Size',%20%20%20%20%20%20%20'Location')
+X = data 'Size',       'Location'
 Y = data['Price']
 X_train,       X_test,       y_train,       y_test = train_test_split (X,       y,       test_size=0.2,       random_state=42)
 
@@ -1729,37 +1729,37 @@ Print (grid_search. Best_params_)
 Summary
 -------
 
-In this lesson,  we’ve covered the basics of machine learning,  including crucial concepts like supervised vs. Unsupervised learning,  the importance of data preparation,  model selection,  and model evaluation. We also provided a practical implementation example using Scikit-Learn to predict [house prices](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%206%20Mortgage%20Backed%20Securities.md). By mastering Scikit-Learn,  you can build precise models,  make informed data-driven decisions,  and elevate your [data analysis](.md) skills to the next level.
+In this lesson,  we’ve covered the basics of machine learning,  including crucial concepts like supervised vs. Unsupervised learning,  the importance of data preparation,  model selection,  and model evaluation. We also provided a practical implementation example using Scikit-Learn to predict house prices. By mastering Scikit-Learn,  you can build precise models,  make informed data-driven decisions,  and elevate your data analysis skills to the next level.
 
 Great job completing this lesson! Continue practicing these core concepts,  and you’ll become proficient in applying machine-learning techniques to solve real-world problems.
 
 Lesson 11: Building and Evaluating Predictive Models
 ----------------------------------------------------
 
-[Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md)
+Introduction
 ------------
 
-In this lesson,  we will explore the essential concepts and practical steps involved in building and evaluating predictive models. Predictive modeling is a critical component of data science,  helping organizations to make data-driven decisions by [forecasting](../../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) future trends and identifying potential outcomes based on historical data. We will cover the foundational aspects,  from initial model selection to fine-tuning and evaluation,  ensuring a thorough understanding of the process.
+In this lesson,  we will explore the essential concepts and practical steps involved in building and evaluating predictive models. Predictive modeling is a critical component of data science,  helping organizations to make data-driven decisions by forecasting future trends and identifying potential outcomes based on historical data. We will cover the foundational aspects,  from initial model selection to fine-tuning and evaluation,  ensuring a thorough understanding of the process.
 
 Understanding Predictive Models
 -------------------------------
 
 Predictive models utilize statistical techniques and machine learning algorithms to predict future events or values. These models can be broadly classified into two main types:
 
-1. **[Regression Models](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%206/Level%20Versus%20Change%20Regressions.md)**: Used when the output is a continuous variable (e.g.,  predicting [house prices](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%206%20Mortgage%20Backed%20Securities.md)).
-1. **Classification Models**: Used when the output is a categorical variable (e.g.,  predicting if an email is spam or not).
+[^1]: **Regression Models**: Used when the output is a continuous variable (e.g.,  predicting house prices).
+[^1]: **Classification Models**: Used when the output is a categorical variable (e.g.,  predicting if an email is spam or not).
 
 ### Key Steps in Building Predictive Models
 
-1. **Define the Problem**: Clearly state the problem you want to solve. Understand the business context and objectives.
-1. **Collect Data**: Gather relevant data that will be used to train your model. Ensure it’s representative of the problem you’re trying to solve.
-1. **Data Preprocessing**: Clean and preprocess the data,  handling missing values,  encoding categorical variables,  and normalizing/standardizing features as necessary.
-1. **Feature Engineering**: Generate new features or select important ones that can improve the model’s performance.
-1. **Model Selection**: Choose appropriate algorithms for your problem. Common choices include linear regression,  decision trees,  support vector machines (SVM),  and neural networks.
-1. **Train the Model**: Split the data into training and validation sets. Train your model on the training set.
-1. **Model Evaluation**: Evaluate the model’s performance on the validation set using appropriate metrics.
-1. **Model Tuning**: Optimize your model by tuning hyperparameters to improve performance.
-1. **Model Deployment**: Deploy the final model into a production environment where it can make predictions on new data.
+[^1]: **Define the Problem**: Clearly state the problem you want to solve. Understand the business context and objectives.
+[^1]: **Collect Data**: Gather relevant data that will be used to train your model. Ensure it’s representative of the problem you’re trying to solve.
+[^1]: **Data Preprocessing**: Clean and preprocess the data,  handling missing values,  encoding categorical variables,  and normalizing/standardizing features as necessary.
+[^1]: **Feature Engineering**: Generate new features or select important ones that can improve the model’s performance.
+[^1]: **Model Selection**: Choose appropriate algorithms for your problem. Common choices include linear regression,  decision trees,  support vector machines (SVM),  and neural networks.
+[^1]: **Train the Model**: Split the data into training and validation sets. Train your model on the training set.
+[^1]: **Model Evaluation**: Evaluate the model’s performance on the validation set using appropriate metrics.
+[^1]: **Model Tuning**: Optimize your model by tuning hyperparameters to improve performance.
+[^1]: **Model Deployment**: Deploy the final model into a production environment where it can make predictions on new data.
 
 Model Evaluation Metrics
 ------------------------
@@ -1768,18 +1768,18 @@ Evaluating the performance of your predictive model is critical to ensuring it w
 
 ### Regression Metrics
 
-1. **Mean Absolute Error (MAE)**: Measures the average magnitude of the errors in a set of predictions,  without considering their direction.
-1. **Mean Squared Error (MSE)**: Measures the average of the squared differences between predicted and actual values. Penalizes larger errors more than MAE.
-1. **Root Mean Squared Error (RMSE)**: The square root of the average squared differences between predicted and actual values. It has the same units as the predicted values,  making it more interpretable.
-1. **R-squared (R²)**: Represents the proportion of the variance in the dependent variable that is predictable from the independent variables. Values range from 0 to 1,  where 1 indicates perfect prediction.
+[^1]: **Mean Absolute Error (MAE)**: Measures the average magnitude of the errors in a set of predictions,  without considering their direction.
+[^1]: **Mean Squared Error (MSE)**: Measures the average of the squared differences between predicted and actual values. Penalizes larger errors more than MAE.
+[^1]: **Root Mean Squared Error (RMSE)**: The square root of the average squared differences between predicted and actual values. It has the same units as the predicted values,  making it more interpretable.
+[^1]: **R-squared (R²)**: Represents the proportion of the variance in the dependent variable that is predictable from the independent variables. Values range from 0 to 1,  where 1 indicates perfect prediction.
 
 ### Classification Metrics
 
-1. **Accuracy**: The ratio of correctly predicted instances to the total instances. Best for balanced datasets.
-1. **Precision**: The ratio of true positive predictions to the total predicted positives. Indicates the accuracy of positive predictions.
-1. **Recall** (Sensitivity): The ratio of true positive predictions to all actual positives. Indicates how well the model captures positive instances.
-1. **F 1 Score**: The harmonic mean of precision and recall. Best used when you seek a balance between precision and recall.
-1. **ROC-AUC (Receiver Operating Characteristic – Area Under the Curve)**: Measures the ability of the model to distinguish between classes. An AUC of 0.5 indicates no discrimination,  while an AUC of 1 indicates perfect discrimination.
+[^1]: **Accuracy**: The ratio of correctly predicted instances to the total instances. Best for balanced datasets.
+[^1]: **Precision**: The ratio of true positive predictions to the total predicted positives. Indicates the accuracy of positive predictions.
+[^1]: **Recall** (Sensitivity): The ratio of true positive predictions to all actual positives. Indicates how well the model captures positive instances.
+[^1]: **F 1 Score**: The harmonic mean of precision and recall. Best used when you seek a balance between precision and recall.
+[^1]: **ROC-AUC (Receiver Operating Characteristic – Area Under the Curve)**: Measures the ability of the model to distinguish between classes. An AUC of 0.5 indicates no discrimination,  while an AUC of 1 indicates perfect discrimination.
 
 Practical Application: Predicting Customer Churn
 ------------------------------------------------
@@ -1798,7 +1798,7 @@ We gather data on customer demographics,  service usage,  and past cancellations
 
 - Handle missing values: Impute or remove missing entries.
 - Encode categorical variables: Convert categorical features into numerical representations.
-- Normalize features: Scale features to ensure they have similar [ranges](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md).
+- Normalize features: Scale features to ensure they have similar ranges.
 
 ### 4\. Feature Engineering
 
@@ -1831,33 +1831,33 @@ Building and evaluating predictive models is a systematic process that involves 
 
 In the next lesson,  we will dive into advanced topics in predictive modeling,  including ensemble methods and deep learning techniques. Happy modeling!
 
-Lesson 12: Text [Data Analysis](.md) and Natural Language Processing
+Lesson 12: Text Data Analysis and Natural Language Processing
 -------------------------------------------------------------
 
-Welcome to Lesson 12! In this lesson,  we will explore Text [Data Analysis](.md) and Natural Language Processing (NLP). These techniques are crucial for analyzing and deriving insights from text data. This lesson will cover the [fundamentals](../../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) of text [data analysis](.md),  the basics of NLP,  and some common tasks and tools used in the field.
+Welcome to Lesson 12! In this lesson,  we will explore Text Data Analysis and Natural Language Processing (NLP). These techniques are crucial for analyzing and deriving insights from text data. This lesson will cover the fundamentals of text data analysis,  the basics of NLP,  and some common tasks and tools used in the field.
 
-[Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to Text [Data Analysis](.md)
+Introduction to Text Data Analysis
 ----------------------------------
 
-Text [data analysis](.md) refers to the process of deriving meaningful information from text. Unlike structured data,  text data is unstructured and requires specific methods to process and analyze. Text data can come from various sources such as emails,  social media posts,  customer reviews,  and more.
+Text data analysis refers to the process of deriving meaningful information from text. Unlike structured data,  text data is unstructured and requires specific methods to process and analyze. Text data can come from various sources such as emails,  social media posts,  customer reviews,  and more.
 
 ### Key Steps in Text Data Analysis
 
-1. **Text Collection**: Gather text data from various sources.
-1. **Text Preprocessing**: Clean and prepare text data for analysis.
-1. **Feature Extraction**: Convert text into numerical features.
-1. **Text Analysis**: Apply analytical methods to extract insights.
+[^1]: **Text Collection**: Gather text data from various sources.
+[^1]: **Text Preprocessing**: Clean and prepare text data for analysis.
+[^1]: **Feature Extraction**: Convert text into numerical features.
+[^1]: **Text Analysis**: Apply analytical methods to extract insights.
 
 Text Data Preprocessing
 -----------------------
 
 Text preprocessing is a critical step in text analysis. It involves transforming raw text into a clean,  standardized format suitable for analysis. Common preprocessing steps include:
 
-1. **Tokenization**: Splitting text into individual words or tokens.
-1. **Lowercasing**: Converting all text to lowercase to ensure uniformity.
-1. **Removing Punctuation**: Eliminating punctuation marks from the text.
-1. **Removing Stop Words**: Removing common words (e.g.,  “a”,  “the”,  “and”) that do not carry significant meaning.
-1. **Stemming and Lemmatization**: Reducing words to their base or root form.
+[^1]: **Tokenization**: Splitting text into individual words or tokens.
+[^1]: **Lowercasing**: Converting all text to lowercase to ensure uniformity.
+[^1]: **Removing Punctuation**: Eliminating punctuation marks from the text.
+[^1]: **Removing Stop Words**: Removing common words (e.g.,  “a”,  “the”,  “and”) that do not carry significant meaning.
+[^1]: **Stemming and Lemmatization**: Reducing words to their base or root form.
 
 ### Example of Text Preprocessing
 
@@ -1870,41 +1870,41 @@ Given the sentence: “Natural Language Processing is fascinating!”
 - **Stemming**: `['natur',       'languag',       'process',       'fascin']`
 - **Lemmatization**: `['natural',       'language',       'process',       'fascinate']`
 
-[Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to Natural Language Processing (NLP)
+Introduction to Natural Language Processing (NLP)
 -------------------------------------------------
 
 NLP is a field that focuses on the interaction between computers and human language. It involves the use of computational techniques to process and analyze text data.
 
 ### Key Areas of NLP
 
-1. **Syntax Analysis**: Examines the grammatical structure of sentences.
-1. **Semantics Analysis**: Understands the meaning of words and sentences.
-1. **Pragmatics Analysis**: Understands the context and purpose of text.
+[^1]: **Syntax Analysis**: Examines the grammatical structure of sentences.
+[^1]: **Semantics Analysis**: Understands the meaning of words and sentences.
+[^1]: **Pragmatics Analysis**: Understands the context and purpose of text.
 
 ### Common NLP Tasks
 
-1. **Text Classification**: Categorizing text into predefined classes (e.g.,  spam detection).
-1. **[Sentiment Analysis](../../Advanced%20Investments/Lecture%204-%20Investor%20Sentiment.md)**: Determining the sentiment expressed in text (e.g.,  positive,  negative).
-1. **Named Entity Recognition (NER)**: Identifying entities like names,  dates,  and locations in text.
-1. **Topic Modeling**: Discovering topics within a collection of documents.
-1. **Machine Translation**: Translating text from one language to another.
+[^1]: **Text Classification**: Categorizing text into predefined classes (e.g.,  spam detection).
+[^1]: **Sentiment Analysis**: Determining the sentiment expressed in text (e.g.,  positive,  negative).
+[^1]: **Named Entity Recognition (NER)**: Identifying entities like names,  dates,  and locations in text.
+[^1]: **Topic Modeling**: Discovering topics within a collection of documents.
+[^1]: **Machine Translation**: Translating text from one language to another.
 
-Tools and Libraries for Text [Data Analysis](.md) and NLP
+Tools and Libraries for Text Data Analysis and NLP
 --------------------------------------------------
 
 Numerous libraries and tools are available to perform text analysis and NLP tasks. Some of the most popular Python libraries are:
 
-1. **NLTK (Natural Language Toolkit)**: Provides tools for text processing and NLP tasks.
-1. **spaCy**: An advanced library designed for industrial-grade natural language processing.
-1. **Gensim**: Excellent for topic modeling and document similarity analysis.
-1. **TextBlob**: Simplified text processing for common NLP tasks like [sentiment analysis](../../Advanced%20Investments/Lecture%204-%20Investor%20Sentiment.md).
+[^1]: **NLTK (Natural Language Toolkit)**: Provides tools for text processing and NLP tasks.
+[^1]: **spaCy**: An advanced library designed for industrial-grade natural language processing.
+[^1]: **Gensim**: Excellent for topic modeling and document similarity analysis.
+[^1]: **TextBlob**: Simplified text processing for common NLP tasks like sentiment analysis.
 
 Real-Life Examples
 ------------------
 
 ### Example 1: Sentiment Analysis on Customer Reviews
 
-[Sentiment analysis](../../Advanced%20Investments/Lecture%204-%20Investor%20Sentiment.md) can help businesses understand customer opinions and improve their products and services. By analyzing customer reviews,  companies can identify common complaints or areas of satisfaction.
+Sentiment analysis can help businesses understand customer opinions and improve their products and services. By analyzing customer reviews,  companies can identify common complaints or areas of satisfaction.
 
 ### Example 2: Text Classification in Email Filtering
 
@@ -1917,66 +1917,66 @@ Named entity recognition can be used to identify key entities such as people,  o
 Conclusion
 ----------
 
-Text [Data Analysis](.md) and NLP are powerful techniques for extracting meaningful insights from text data. By preprocessing text,  extracting features,  and applying various NLP tasks,  we can analyze and understand text data effectively. Leveraging tools like NLTK,  spaCy,  Gensim,  and TextBlob can greatly enhance our text analysis capabilities.
+Text Data Analysis and NLP are powerful techniques for extracting meaningful insights from text data. By preprocessing text,  extracting features,  and applying various NLP tasks,  we can analyze and understand text data effectively. Leveraging tools like NLTK,  spaCy,  Gensim,  and TextBlob can greatly enhance our text analysis capabilities.
 
-In the next lesson,  we will continue to explore more advanced [data analysis](.md) techniques. Until then,  practice the concepts and tools discussed in this lesson to deepen your understanding of text [data analysis](.md) and NLP!
+In the next lesson,  we will continue to explore more advanced data analysis techniques. Until then,  practice the concepts and tools discussed in this lesson to deepen your understanding of text data analysis and NLP!
 
 Lesson 13: Advanced Statistical Methods and Hypothesis Testing
 --------------------------------------------------------------
 
-Welcome to Lesson 13 of your course,  “Elevate your [data analysis](.md) skills to the next level with advanced techniques and Python libraries.” In this lesson,  we will cover advanced statistical methods and hypothesis testing.
+Welcome to Lesson 13 of your course,  “Elevate your data analysis skills to the next level with advanced techniques and Python libraries.” In this lesson,  we will cover advanced statistical methods and hypothesis testing.
 
-[Table of Contents](../../Contemporary%20Financial%20Intermediation%20Notes/Table%20of%20Contents.md)
+Table of Contents
 -----------------
 
-1. [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to Advanced Statistical Methods
-1. Hypothesis Testing Basics
-1. Types of Hypothesis Tests
-1. Understanding p-values and Significance Levels
-1. Type I and Type II Errors
-1. Advanced Concepts: Power of a Test and Effect Size
-1. Real-Life Examples of Hypothesis Testing
+[^1]: Introduction to Advanced Statistical Methods
+[^1]: Hypothesis Testing Basics
+[^1]: Types of Hypothesis Tests
+[^1]: Understanding p-values and Significance Levels
+[^1]: Type I and Type II Errors
+[^1]: Advanced Concepts: Power of a Test and Effect Size
+[^1]: Real-Life Examples of Hypothesis Testing
 
-1\. [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to Advanced Statistical Methods
+[^1]: \. Introduction to Advanced Statistical Methods
 ------------------------------------------------
 
-In [data analysis](.md),  advanced statistical methods go beyond basic descriptive statistics. These methods allow you to make inferences about a population based on sample data,  understand relationships between variables,  and predict future trends. Common advanced statistical methods include:
+In data analysis,  advanced statistical methods go beyond basic descriptive statistics. These methods allow you to make inferences about a population based on sample data,  understand relationships between variables,  and predict future trends. Common advanced statistical methods include:
 
 - **Regression Analysis**: Understanding the relationship between dependent and independent variables.
 - **ANOVA (Analysis of Variance)**: Comparing means among different groups.
 - **Chi-Square Tests**: Assessing relationships between categorical variables.
-- **[Time Series Analysis](.md)**: Analyzing time-ordered data points.
+- **Time Series Analysis**: Analyzing time-ordered data points.
 
 We will focus on hypothesis testing,  a core aspect of statistical inference.
 
-2\. Hypothesis Testing Basics
+[^2]: \. Hypothesis Testing Basics
 -----------------------------
 
 Hypothesis testing is a method to make decisions using data. It involves proposing a hypothesis and using statistical techniques to determine whether it should be accepted or rejected.
 
 ### Steps in Hypothesis Testing
 
-1. **Formulate Hypotheses**:
+[^1]: **Formulate Hypotheses**:
 
 	- Null Hypothesis (H 0): A statement of no effect or no difference.
 	- Alternative Hypothesis (H 1 or Ha): A statement that contradicts the null hypothesis.
-1. **Choose Significance Level (?)**:
+[^1]: **Choose Significance Level (?)**:
 
 	- Common choices: 0.05,  0.01,  0.10.
-1. **Select the Appropriate Test**:
+[^1]: **Select the Appropriate Test**:
 
 	- Depending on the data type and study design (e.g.,  t-test,  chi-square test,  ANOVA).
-1. **Calculate the Test Statistic**:
+[^1]: **Calculate the Test Statistic**:
 
 	- Based on sample data.
-1. **Determine the p-value**:
+[^1]: **Determine the p-value**:
 
 	- The probability of observing the test results under the null hypothesis.
-1. **Make a Decision**:
+[^1]: **Make a Decision**:
 
 	- Reject H 0 if the p-value is less than ?; otherwise,  do not reject H 0.
 
-3\. Types of Hypothesis Tests
+[^3]: \. Types of Hypothesis Tests
 -----------------------------
 
 ### T-Tests
@@ -1999,7 +1999,7 @@ Used to compare means among three or more groups.
 - **Mann-Whitney U Test**: Non-parametric equivalent to the two-sample t-test.
 - **Wilcoxon Signed-Rank Test**: Non-parametric counterpart to the paired t-test.
 
-4\. Understanding p-values and Significance Levels
+[^4]: \. Understanding p-values and Significance Levels
 --------------------------------------------------
 
 **p-value**: The probability of obtaining test results at least as extreme as the observed results,  assuming the null hypothesis is true.
@@ -2009,7 +2009,7 @@ Used to compare means among three or more groups.
 
 **Significance Level (?)**: A threshold to determine whether the p-value is low enough to reject H 0. Common choices for ? Are 0.05,  0.01,  and 0.10.
 
-5\. Type I and Type II Errors
+[^5]: \. Type I and Type II Errors
 -----------------------------
 
 - **Type I Error (?)**: Rejecting the null hypothesis when it is true (False Positive).
@@ -2020,7 +2020,7 @@ Used to compare means among three or more groups.
 - **Type I**: Reduce ? (significance level).
 - **Type II**: Increase sample size or effect size.
 
-6\. Advanced Concepts: Power of a Test and Effect Size
+[^6]: \. Advanced Concepts: Power of a Test and Effect Size
 ------------------------------------------------------
 
 **Power of a Test**: The probability that it correctly rejects a false null hypothesis (1 – ?). Power increases with:
@@ -2033,29 +2033,29 @@ Used to compare means among three or more groups.
 
 - Examples include Cohen’s d for t-tests and ?² (eta squared) for ANOVA.
 
-7\. Real-Life Examples of Hypothesis Testing
+[^7]: \. Real-Life Examples of Hypothesis Testing
 --------------------------------------------
 
-1. **Medical Studies**:
+[^1]: **Medical Studies**:
 	- Determining if a new drug is more effective than the current standard treatment using a t-test or ANOVA.
-1. **Marketing**:
+[^1]: **Marketing**:
 	- Assessing whether a new advertising campaign improves sales compared to a previous one using a two-sample t-test.
-1. **Quality Control**:
+[^1]: **Quality Control**:
 	- Checking if the defect rate in a manufacturing process differs from the industry standard using a chi-square test.
 
 In conclusion,  mastering advanced statistical methods and hypothesis testing is essential for making data-driven decisions. By understanding the principles and applications of these techniques,  you can derive meaningful insights and contribute significantly to your field.
 
 * * *
 
-This content outlines the core concepts and methods associated with advanced statistical analysis and hypothesis testing,  providing a comprehensive guide to enhance your [data analysis](.md) skills.
+This content outlines the core concepts and methods associated with advanced statistical analysis and hypothesis testing,  providing a comprehensive guide to enhance your data analysis skills.
 
-Lesson 14: Automating [Data Analysis](.md) Workflows with Python
+Lesson 14: Automating Data Analysis Workflows with Python
 ---------------------------------------------------------
 
-[Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md)
+Introduction
 ------------
 
-In this lesson,  we will explore strategies and techniques to automate [data analysis](.md) workflows with Python. Efficient automation in [data analysis](.md) saves time,  reduces manual errors,  and enables consistent and reproducible results. We will [leverage](../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) common libraries and tools to create an automated pipeline that handles data extraction,  transformation,  analysis,  and visualization.
+In this lesson,  we will explore strategies and techniques to automate data analysis workflows with Python. Efficient automation in data analysis saves time,  reduces manual errors,  and enables consistent and reproducible results. We will leverage common libraries and tools to create an automated pipeline that handles data extraction,  transformation,  analysis,  and visualization.
 
 Key Concepts
 ------------
@@ -2071,7 +2071,7 @@ Key Concepts
 - **Reproducibility**: Ensures that the analysis can be consistently repeated under the same parameters.
 - **Scalability**: Makes it easier to scale up operations when more data becomes available.
 
-Elements of a [Data Analysis](.md) Workflow
+Elements of a Data Analysis Workflow
 ------------------------------------
 
 ### Data Extraction
@@ -2090,7 +2090,7 @@ After extraction,  data often needs cleaning and transformation to be useful. Th
 
 ### Data Analysis
 
-[Data analysis](.md) involves applying statistical methods,  clustering,  [time series analysis](.md),  or other techniques to extract meaningful insights.
+Data analysis involves applying statistical methods,  clustering,  time series analysis,  or other techniques to extract meaningful insights.
 
 ### Data Visualization
 
@@ -2105,7 +2105,7 @@ Creating an Automated Workflow
 
 ### Automated Scripts
 
-Automated scripts written in Python [leverage](../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) libraries including `pandas`,  `numpy`,  `requests`,  `csv`,  etc.
+Automated scripts written in Python leverage libraries including `pandas`,  `numpy`,  `requests`,  `csv`,  etc.
 
 The following example demonstrates a basic automated workflow:
 ```python
@@ -2166,32 +2166,32 @@ This example script performs automatic data extraction,  cleaning,  transformati
 Conclusion
 ----------
 
-Automating [data analysis](.md) workflows with Python can vastly improve efficiency and reliability in handling large volumes of data. By mastering these techniques,  data analysts can focus more on interpreting results and making strategic decisions,  rather than on repetitive tasks.
+Automating data analysis workflows with Python can vastly improve efficiency and reliability in handling large volumes of data. By mastering these techniques,  data analysts can focus more on interpreting results and making strategic decisions,  rather than on repetitive tasks.
 
 Lesson 15: Effective Data Reporting with Jupyter Notebooks
 ----------------------------------------------------------
 
 ### Introduction
 
-Welcome to Lesson 15 of our course,  “Elevate your [data analysis](.md) skills to the next level with advanced techniques and Python libraries.” In this lesson,  you’ll learn how to effectively communicate your [data analysis](.md) results using Jupyter Notebooks. We’ll cover how to structure your reports,  enhance their readability,  and [leverage](../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) Jupyter Notebook features to make your reports both insightful and engaging.
+Welcome to Lesson 15 of our course,  “Elevate your data analysis skills to the next level with advanced techniques and Python libraries.” In this lesson,  you’ll learn how to effectively communicate your data analysis results using Jupyter Notebooks. We’ll cover how to structure your reports,  enhance their readability,  and leverage Jupyter Notebook features to make your reports both insightful and engaging.
 
 ### Importance of Effective Data Reporting
 
-Data reporting is a crucial skill for data analysts as it bridges the gap between [data analysis](.md) and decision-making. A well-crafted report not only presents the results of your analysis but also tells a compelling story that is easy for stakeholders to understand and act upon.
+Data reporting is a crucial skill for data analysts as it bridges the gap between data analysis and decision-making. A well-crafted report not only presents the results of your analysis but also tells a compelling story that is easy for stakeholders to understand and act upon.
 
 ### Structuring Your Jupyter Notebook
 
 A well-structured Jupyter Notebook should follow a logical flow that guides the reader through your analysis. Here is a recommended structure:
 
-1. **Title and Author Information**: Start with a clear title and author information.
-1. **[Table of Contents](../../Contemporary%20Financial%20Intermediation%20Notes/Table%20of%20Contents.md)**: Include a [Table of Contents](../../Contemporary%20Financial%20Intermediation%20Notes/Table%20of%20Contents.md) for easy navigation.
-1. **[Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md)**: Provide context and objectives of the analysis.
-1. **Data Description**: Describe the dataset you are using,  including its source and important variables.
-1. **[Exploratory Data Analysis](.md) (EDA)**: Showcase initial findings with descriptive statistics and visualizations.
-1. **Data Cleaning and Preprocessing**: Document any cleaning and preprocessing steps,  explaining your rationale.
-1. **Analysis and Results**: Present your main analysis and results,  using a combination of text,  code cells,  and visualizations.
-1. **Conclusions**: Summarize the key findings and their implications.
-1. **References**: List any references or external resources used.
+[^1]: **Title and Author Information**: Start with a clear title and author information.
+[^1]: **Table of Contents**: Include a Table of Contents for easy navigation.
+[^1]: **Introduction**: Provide context and objectives of the analysis.
+[^1]: **Data Description**: Describe the dataset you are using,  including its source and important variables.
+[^1]: **Exploratory Data Analysis (EDA)**: Showcase initial findings with descriptive statistics and visualizations.
+[^1]: **Data Cleaning and Preprocessing**: Document any cleaning and preprocessing steps,  explaining your rationale.
+[^1]: **Analysis and Results**: Present your main analysis and results,  using a combination of text,  code cells,  and visualizations.
+[^1]: **Conclusions**: Summarize the key findings and their implications.
+[^1]: **References**: List any references or external resources used.
 
 ### Enhancing Readability
 
@@ -2208,7 +2208,7 @@ Jupyter Notebooks offer several features that can enhance your data reporting:
 
 #### Interactive Widgets
 
-Widgets like sliders,  dropdowns,  and [interactive plots](Mastering%20Data%20Analytics%20with%20Matplotlib%20in%20Python.md) can make your notebook more engaging. For example,  `ipywidgets` is a powerful library for adding interactivity.
+Widgets like sliders,  dropdowns,  and interactive plots can make your notebook more engaging. For example,  `ipywidgets` is a powerful library for adding interactivity.
 
 #### Magic Commands
 
@@ -2226,13 +2226,13 @@ Author: Jane Doe
 
 ## Table of Contents
 
-1. Introduction
-2. Data Description
-3. Exploratory Data Analysis
-4. Data Cleaning and Preprocessing
-5. Analysis and Results
-6. Conclusions
-7. References
+[^1]: Introduction
+[^2]: Data Description
+[^3]: Exploratory Data Analysis
+[^4]: Data Cleaning and Preprocessing
+[^5]: Analysis and Results
+[^6]: Conclusions
+[^7]: References
 
 ## 1. Introduction
 
@@ -2276,20 +2276,20 @@ In this lesson,  we’ve explored how to create effective data reports using Jup
 
 This concludes Lesson 15. In our next lesson,  we’ll delve into Advanced Visualization Techniques with Python and Matplotlib. Stay tuned!
 
-Lesson 16: Case Studies: Real-world [Data Analysis](.md) Projects
+Lesson 16: Case Studies: Real-world Data Analysis Projects
 ----------------------------------------------------------
 
-[Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md)
+Introduction
 ------------
 
-Welcome to Lesson 16 of “Elevate your [data analysis](.md) skills to the next level with advanced techniques and Python libraries.” This lesson will focus on real-world case studies that illustrate the application of advanced [data analysis](.md) techniques using Python. By studying these cases,  you’ll gain insights into the entire workflow of [data analysis](.md) projects,  including problem definition,  data collection,  data cleaning,  analysis,  and interpretation of results.
+Welcome to Lesson 16 of “Elevate your data analysis skills to the next level with advanced techniques and Python libraries.” This lesson will focus on real-world case studies that illustrate the application of advanced data analysis techniques using Python. By studying these cases,  you’ll gain insights into the entire workflow of data analysis projects,  including problem definition,  data collection,  data cleaning,  analysis,  and interpretation of results.
 
 Learning Objectives
 -------------------
 
-1. Understand how to approach real-world [data analysis](.md) problems.
-1. Learn about specific analytical techniques and tools used in practice.
-1. Gain experience in interpreting and presenting analysis results.
+[^1]: Understand how to approach real-world data analysis problems.
+[^1]: Learn about specific analytical techniques and tools used in practice.
+[^1]: Gain experience in interpreting and presenting analysis results.
 
 Case Study 1: Customer Churn Analysis
 -------------------------------------
@@ -2392,7 +2392,7 @@ Apply anomaly detection or classification techniques:
 - Time-based patterns (e.g.,  frauds occurring at specific times).
 - User behaviors that deviate from the norm.
 
-Case Study 3: [Sentiment Analysis](../../Advanced%20Investments/Lecture%204-%20Investor%20Sentiment.md) for Product Reviews
+Case Study 3: Sentiment Analysis for Product Reviews
 ----------------------------------------------------
 
 ### Problem Definition
@@ -2442,13 +2442,13 @@ Techniques include:
 Conclusion
 ----------
 
-These case studies provide a framework to approach real-world [data analysis](.md) projects comprehensively. From problem definition to interpretation of results,  the entire workflow demonstrates the application of advanced [data analysis](.md) techniques in Python. By studying these examples,  you should be able to tackle similar problems in your own work,  apply the appropriate analytical methods,  and derive actionable insights.
+These case studies provide a framework to approach real-world data analysis projects comprehensively. From problem definition to interpretation of results,  the entire workflow demonstrates the application of advanced data analysis techniques in Python. By studying these examples,  you should be able to tackle similar problems in your own work,  apply the appropriate analytical methods,  and derive actionable insights.
 
 Further Reading
 ---------------
 
-1. “[Python for Data](.md) Analysis” by Wes McKinney
-1. “Machine Learning Yearning” by Andrew Ng
-1. “Data Science for Business” by Foster Provost and Tom Fawcett
+[^1]: “Python for Data Analysis” by Wes McKinney
+[^1]: “Machine Learning Yearning” by Andrew Ng
+[^1]: “Data Science for Business” by Foster Provost and Tom Fawcett
 
-Keep practicing with real-world projects to continue improving your [data analysis](.md) skills.
+Keep practicing with real-world projects to continue improving your data analysis skills.

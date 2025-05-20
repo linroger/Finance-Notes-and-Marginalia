@@ -1,28 +1,31 @@
 ---
-title: Week 4 Advanced Financial Analysis and Valuation
+cssclasses:
+  - academia
+title: Week 4 - Advanced Financial Analysis and Valuation
+linter-yaml-title-alias: Week 4 - Advanced Financial Analysis and Valuation
 tags:
   - advanced_financial_analysis
-  - dcf_valuation
-  - financial_analysis
+  - employee_stock_options
+  - high_growth_companies
   - valuation
   - week_4
 aliases:
-  - Advanced Finance
-  - Valuation
-  - Week 4
+  - Week 4 AFAV
+  - ESOs and Growth Companies
 key_concepts:
-  - Advanced financial analysis
-  - Discounted cash flow
-  - Equity valuation methods
-  - Financial modeling techniques
-  - Valuation methodologies
+  - Employee stock options valuation
+  - Executive compensation analysis
+  - High-growth company valuation
+  - Young company modeling
+  - Option dilution effects
+  - Growth company challenges
 ---
 
-# Week 4 Advanced Financial Analysis and Valuation
+# Week 4 - Advanced Financial Analysis and Valuation
+
 %% Begin Waypoint %%
-- **[Week 4 Advanced Financial Analysis and Valuation](.md)**
-	- [Week 4 Advanced Financial Analysis and Valuation](.md)
-	- [Week 4 ESOs and Valuation](Week%204%20ESOs%20and%20Valuation.md)
-	- [Week 4 Valuing Young and High‐Growth Companies](Week%204%20Valuing%20Young%20and%20High‐Growth%20Companies.md)
+- **Week 4 Materials**
+	- Week 4 ESOs and Valuation
+	- Week 4 Valuing Young and High‐Growth Companies
 
 %% End Waypoint %%

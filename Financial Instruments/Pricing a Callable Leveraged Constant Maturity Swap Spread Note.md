@@ -75,9 +75,9 @@ B_{\text{float}}(t_{i}) &= \operatorname{max}\left\{0, \left[r(t_{i}, T_{\text{l
 
 The holder of a note described by the equations above effectively owns three separate instruments:
 
-1. An interest-only fixed coupon note maturing at $t_{n_{r_{0}}}$,
-2. A long cap on the swap spread $r(t_{i}, T_{\text{long}}) - r(t_{i}, T_{\text{short}})$ struck at zero and expiring at $t_{N-1}$,
-3. A short Bermudan call on the note itself struck at $C$, exercisable on any of the call dates and expiring at $t_{N-1}$.
+[^1]: An interest-only fixed coupon note maturing at $t_{n_{r_{0}}}$,
+[^2]: A long cap on the swap spread $r(t_{i}, T_{\text{long}}) - r(t_{i}, T_{\text{short}})$ struck at zero and expiring at $t_{N-1}$,
+[^3]: A short Bermudan call on the note itself struck at $C$, exercisable on any of the call dates and expiring at $t_{N-1}$.
 
 As a practical matter, we set the call dates to coincide with rate reset dates, i.e., $t_{c} \in \{ t_{n_{r_{0}}}, \dots, t_{n_{r_{J}}} \}$. The first instrument can be priced using the current discount curve. A combination of the second and third instruments can only be priced using a simulation technique (Monte Carlo) due to the complexity of the options and the correlation between the two underlying rates—the constituents of the spread.
 
@@ -85,14 +85,14 @@ As a practical matter, we set the call dates to coincide with rate reset dates, 
 
 The algorithm proceeds as follows:
 
-1. **Construct a discount curve** (e.g., as described in [7]);
-2. **Simulate the term structure of $r(t_{i}, T_{\text{long}})$, $i = \overline{n_{r_{0}}, N-1}$**, using the forward rate extracted from the discount curve as the expected rate and assuming a lognormal rate distribution described in [1];
-3. **Construct an implied rate volatility surface** using at-the-money implied swaption volatilities as a proxy;
-4. **Compute correlation coefficients** $\rho_{i}$ from the volatility surface constructed above;
-5. **Simulate the term structure of $r(t_{i}, T_{\text{short}})$, $i = \overline{n_{r_{0}}, N-1}$**, using the forward rate implied by the discount curve and the correlation coefficients;
-6. **Starting at maturity and going back to the first call date**, activate call provisions on any call date when the expected present value of future cash flows on that date exceeds the redemption price;
-7. **Aggregate present values (PV) of all stochastic cash flows** over scenarios to obtain the expected PV of the variable portion of the note;
-8. **Add the PV of all deterministic cash flows** (i.e., those occurring prior to the first reset date) to obtain the total PV of the note.
+[^1]: **Construct a discount curve** (e.g., as described in [7]);
+[^2]: **Simulate the term structure of $r(t_{i}, T_{\text{long}})$, $i = \overline{n_{r_{0}}, N-1}$**, using the forward rate extracted from the discount curve as the expected rate and assuming a lognormal rate distribution described in [1];
+[^3]: **Construct an implied rate volatility surface** using at-the-money implied swaption volatilities as a proxy;
+[^4]: **Compute correlation coefficients** $\rho_{i}$ from the volatility surface constructed above;
+[^5]: **Simulate the term structure of $r(t_{i}, T_{\text{short}})$, $i = \overline{n_{r_{0}}, N-1}$**, using the forward rate implied by the discount curve and the correlation coefficients;
+[^6]: **Starting at maturity and going back to the first call date**, activate call provisions on any call date when the expected present value of future cash flows on that date exceeds the redemption price;
+[^7]: **Aggregate present values (PV) of all stochastic cash flows** over scenarios to obtain the expected PV of the variable portion of the note;
+[^8]: **Add the PV of all deterministic cash flows** (i.e., those occurring prior to the first reset date) to obtain the total PV of the note.
 
 We will now explain each step of the algorithm in more detail.
 
@@ -100,9 +100,9 @@ We will now explain each step of the algorithm in more detail.
 
 The discount curve is constructed from:
 
-1. Short-term rates (LIBOR) starting from the valuation date up until the first Eurodollar (ED) futures expiry date;
-2. ED futures starting with the front contract expiration date up until the 2-year swap expiration date;
-3. Quoted par swap rates from 2 to 50 years,
+[^1]: Short-term rates (LIBOR) starting from the valuation date up until the first Eurodollar (ED) futures expiry date;
+[^2]: ED futures starting with the front contract expiration date up until the 2-year swap expiration date;
+[^3]: Quoted par swap rates from 2 to 50 years,
 
 using the FINCAD function `aaSwap crv3` as described in [2] with the following conventions:
 - Standard compounding,
@@ -168,7 +168,7 @@ Adding the result of this equation to the PV of the variable note portion comput
 We consider a note with a 10% annual coupon paid quarterly during the first year and a variable coupon based on 50 times the spread between the 30-year and 10-year USD swap rates thereafter, reset and paid quarterly. The note pays nothing if the spread is negative, is not capped, and can be called at the issuer's discretion on any reset date after Year 1. Swap quotes follow the standard market convention for USD. The results for 20,000 Monte Carlo simulations are given in Table 1. The interest rate quotes are presented in Tables 2–4. ATM swaption volatilities are presented in Table 5.
 
 ### Table 1: Note Pricing
-![Table 1: Note Pricing](Attachments/Table_1!_Note_Pricing.jpg)
+!Table 1: Note Pricing
 
 ## Appendix A: Transformation of Variables
 
@@ -196,16 +196,16 @@ $$\operatorname{corr}(Y_{1}, Y_{2}) = \frac{\operatorname{cov}(Y_{1}, Y_{2})}{\s
 Since $\sigma_{X_{1}} = \sigma_{X_{2}} = 1$.
 
 ### Table 2: LIBOR Quotes
-![Table 2: LIBOR Quotes](Attachments/Table_2!_LIBOR_Quotes.jpg)
+!Table 2: LIBOR Quotes
 
 ### Table 3: Future Quotes
-![Table 3: Future Quotes](Attachments/Table_3!_Future_Quotes.jpg)
+!Table 3: Future Quotes
 
 ### Table 4: Swap Quotes
-![Table 4: Swap Quotes](Attachments/Table_4!_Swap_Quotes.jpg)
+!Table 4: Swap Quotes
 
 ### Table 5: ATM Implied Swaption Volatilities
-![Table 5: ATM Implied Swaption Volatilities](Attachments/Table_5!_ATM_Implied_Swaption_Volatilities.jpg)
+!Table 5: ATM Implied Swaption Volatilities
 
 For the corresponding interest rate volatilities, we have [4]:
 
@@ -217,10 +217,10 @@ $$\rho_{t; \tau, T} = \frac{\sigma_{t+\tau, t+T}^{2} - \alpha^{2} \sigma_{t, T_{
 
 ## References
 
-1. F. Black. The pricing of commodity contracts. *Journal of Financial Economics*, 3:167–179, 1976.
-2. FINCAD Financial Corporation. *Support and Reference*, 2007. [http://fincad.com/default.asp?id=17300&s=Support&n=References](http://fincad.com/default.asp?id=17300&s=Support&n=References).
-3. F. Fabozzi. *The Handbook of Fixed Income Securities*. McGraw-Hill, 7th edition, 2005.
-4. W. Feller. *An Introduction to Probability Theory and Its Applications*, Volume 1. John Wiley & Sons, 3rd edition, 1968.
-5. P. Glasserman. *Monte Carlo Methods in Financial Engineering* (Stochastic Modelling and Applied Probability). Springer-Verlag, New York, 2004.
-6. M. Matsumoto and T. Nishimura. Mersenne Twister: A 623-dimensionally equidistributed uniform pseudorandom number generator. *ACM Transactions on Modeling and Computer Simulation*, 8(1):3–30, January 1998. [http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/ARTICLES/mt.pdf](http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/ARTICLES/mt.pdf).
-7. P. Miron and P. Swannell. *Pricing and Hedging Swaps*. Euromoney Books, 1991.
+[^1]: F. Black. The pricing of commodity contracts. *Journal of Financial Economics*, 3:167–179, 1976.
+[^2]: FINCAD Financial Corporation. *Support and Reference*, 2007. http://fincad.com/default.asp?id=17300&s=Support&n=References.
+[^3]: F. Fabozzi. *The Handbook of Fixed Income Securities*. McGraw-Hill, 7th edition, 2005.
+[^4]: W. Feller. *An Introduction to Probability Theory and Its Applications*, Volume 1. John Wiley & Sons, 3rd edition, 1968.
+[^5]: P. Glasserman. *Monte Carlo Methods in Financial Engineering* (Stochastic Modelling and Applied Probability). Springer-Verlag, New York, 2004.
+[^6]: M. Matsumoto and T. Nishimura. Mersenne Twister: A 623-dimensionally equidistributed uniform pseudorandom number generator. *ACM Transactions on Modeling and Computer Simulation*, 8(1):3–30, January 1998. http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/ARTICLES/mt.pdf.
+[^7]: P. Miron and P. Swannell. *Pricing and Hedging Swaps*. Euromoney Books, 1991.

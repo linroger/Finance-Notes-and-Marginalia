@@ -52,11 +52,11 @@ In classical financial theory, **geometric Brownian motion (GBM)** is widely use
 
 To address these shortcomings, we construct an integrated model that augments GBM with additional processes for volatility and jumps, and includes a dynamic specification for the drift. Our contributions are: 
 
-1. A **regime-switching volatility structure** where volatility follows a GARCH process and shifts between "low" and "high" volatility regimes based on threshold events
-2. A **GARCH(1,1)** (or extended GARCH(2,1)) component to capture volatility clustering and mean-reversion in volatility
-3. An **ARIMA(1,1,0)** process in the mean equation to allow the drift to evolve over time (capturing momentum or mean reversion in returns)
-4. An **ARCH-type process for the drift term**, introducing conditional heteroskedasticity in the mean (e.g., allowing higher uncertainty in drift during turbulent periods)
-5. An **exponential jump diffusion** component to model sudden jumps, particularly emphasizing downward jumps (crashes) and heavy right-tail behavior (rare large gains), thereby capturing the asymmetric leptokurtosis observed in returns
+[^1]: A **regime-switching volatility structure** where volatility follows a GARCH process and shifts between "low" and "high" volatility regimes based on threshold events
+[^2]: A **GARCH(1,1)** (or extended GARCH(2,1)) component to capture volatility clustering and mean-reversion in volatility
+[^3]: An **ARIMA(1,1,0)** process in the mean equation to allow the drift to evolve over time (capturing momentum or mean reversion in returns)
+[^4]: An **ARCH-type process for the drift term**, introducing conditional heteroskedasticity in the mean (e.g., allowing higher uncertainty in drift during turbulent periods)
+[^5]: An **exponential jump diffusion** component to model sudden jumps, particularly emphasizing downward jumps (crashes) and heavy right-tail behavior (rare large gains), thereby capturing the asymmetric leptokurtosis observed in returns
 
 We formulate a **continuous-time SDE** that encapsulates all these features in one framework. Finally, we demonstrate how the model can be calibrated to real data and present a Python implementation. Visualizations (using Plotly) illustrate each component's effect and the overall dynamics, confirming that the model reproduces key stylized facts of financial markets.
 
@@ -70,7 +70,7 @@ As a starting point, we consider the standard geometric Brownian motion model fo
 
 $$dS_t = \mu S_t dt + \sigma S_t dW_t \tag{1}$$
 
-where $W_t$ is a standard Wiener process (Brownian motion), $\mu$ is the constant drift (expected return) and $\sigma$ is the constant volatility. Equivalently, $\frac{dS_t}{S_t} = \mu dt + \sigma dW_t$. The solution to (1) implies $S_t$ is log-normally distributed: $\ln S_t \sim \mathcal{N}(\ln S_0 + (\mu - \frac{1}{2}\sigma^2)t; \sigma^2 t)$. GBM matches some basic aspects of markets (positivity of prices, a degree of path "roughness", and independence of returns from price level). However, as discussed, it fails to capture **volatility dynamics** and **jumps** observed empirically. Specifically, GBM assumes $\sigma$ constant and the sample path of $S_t$ is continuous – no jumps. To improve realism, we next introduce a stochastic volatility process with regime shifts.
+where $W_t$ is a standard Wiener process (Brownian motion), $\mu$ is the constant drift (expected return) and $\sigma$ is the constant volatility. Equivalently, $\frac{dS_t}{S_t} = \mu dt + \sigma dW_t$. The solution to (1) implies $S_t$ is log-normally distributed: $\ln S_t \sim \mathcal{N}(\ln S_0 + (\mu - \frac{1}{2}\sigma[^2])t; \sigma[^2] t)$. GBM matches some basic aspects of markets (positivity of prices, a degree of path "roughness", and independence of returns from price level). However, as discussed, it fails to capture **volatility dynamics** and **jumps** observed empirically. Specifically, GBM assumes $\sigma$ constant and the sample path of $S_t$ is continuous – no jumps. To improve realism, we next introduce a stochastic volatility process with regime shifts.
 
 ### 2.2 Dynamic Volatility with Regime Switching and GARCH(1,1)
 
@@ -78,20 +78,20 @@ Empirical evidence strongly indicates that volatility is time-varying and exhibi
 
 In our framework, we let the **conditional variance** $h_t$ of returns follow a GARCH process. For example, a GARCH(1,1) is given in discrete time (assuming daily steps for illustration) by:
 
-$$h_{t} = \omega + \alpha\epsilon_{t-1}^2 + \beta h_{t-1} \tag{2}$$
+$$h_{t} = \omega + \alpha\epsilon_{t-1}[^2] + \beta h_{t-1} \tag{2}$$
 
-where $\epsilon_{t-1}$ is the return innovation (residual) at $t-1$ (with $\epsilon_{t-1}^2$ representing last period's squared shock), and $h_{t-1}$ is last period's variance. The parameters satisfy $\omega>0$, $\alpha,\beta \ge 0$ and typically $\alpha+\beta<1$ to ensure mean reversion of volatility to a long-run level $\omega/(1-\alpha-\beta)$. GARCH(1,1) implies that if $\epsilon_{t-1}^2$ was large (a big shock), then $h_t$ will be elevated – a new volatile regime – but gradually $h_t$ will decay toward the long-run average as long as no further large shocks occur (this is the mean-reverting property). Thus, **low-volatility periods** (small $\epsilon^2$) yield low $h_t$—the price process in those times behaves approximately like a lognormal with low $\sigma^2 \approx h_t$. **High-volatility periods**, once triggered by large shocks, tend to persist (since $\beta$ is typically near 0.9 in financial data) but eventually $h_t$ declines back (volatility mean-reversion). This aligns with the idea that in turbulent market regimes, volatility spikes but does not remain at extremely high levels indefinitely.
+where $\epsilon_{t-1}$ is the return innovation (residual) at $t-1$ (with $\epsilon_{t-1}[^2]$ representing last period's squared shock), and $h_{t-1}$ is last period's variance. The parameters satisfy $\omega>0$, $\alpha,\beta \ge 0$ and typically $\alpha+\beta<1$ to ensure mean reversion of volatility to a long-run level $\omega/(1-\alpha-\beta)$. GARCH(1,1) implies that if $\epsilon_{t-1}[^2]$ was large (a big shock), then $h_t$ will be elevated – a new volatile regime – but gradually $h_t$ will decay toward the long-run average as long as no further large shocks occur (this is the mean-reverting property). Thus, **low-volatility periods** (small $\epsilon[^2]$) yield low $h_t$—the price process in those times behaves approximately like a lognormal with low $\sigma[^2] \approx h_t$. **High-volatility periods**, once triggered by large shocks, tend to persist (since $\beta$ is typically near 0.9 in financial data) but eventually $h_t$ declines back (volatility mean-reversion). This aligns with the idea that in turbulent market regimes, volatility spikes but does not remain at extremely high levels indefinitely.
 
 While GARCH is effective, it assumes a single set of parameters governing volatility dynamics across all states of the world. Financial markets, however, often exhibit **regime-switching** behavior, where the volatility dynamics themselves might change in crises versus calm periods. We incorporate a simple **regime-switching volatility structure** by allowing the GARCH parameters (or equivalently, the volatility level) to shift when volatility crosses certain thresholds. Specifically, we define two regimes: a _low-volatility regime_ and a _high-volatility regime_. When the estimated variance $h_t$ remains below a threshold $H$, the process is in the low-volatility regime; if $h_t$ exceeds $H$, the process shifts to the high-volatility regime. In practice, this can be implemented as a **threshold GARCH model**, where equation (2) has different parameter values $(\omega,\alpha,\beta)$ depending on the regime. Formally, we can write:
 
 $$h_{t} = \begin{cases}
-\omega^{(L)} + \alpha^{(L)}\epsilon_{t-1}^2 + \beta^{(L)}h_{t-1}, & \text{if } h_{t-1} < H \\
-\omega^{(H)} + \alpha^{(H)}\epsilon_{t-1}^2 + \beta^{(H)}h_{t-1}, & \text{if } h_{t-1} \ge H
+\omega^{(L)} + \alpha^{(L)}\epsilon_{t-1}[^2] + \beta^{(L)}h_{t-1}, & \text{if } h_{t-1} < H \\
+\omega^{(H)} + \alpha^{(H)}\epsilon_{t-1}[^2] + \beta^{(H)}h_{t-1}, & \text{if } h_{t-1} \ge H
 \end{cases} \tag{3}$$
 
 where superscripts $(L)$ and $(H)$ denote low- and high-vol regimes. This model allows, for example, the high-volatility regime to have a stronger mean-reversion (perhaps a larger $\beta^{(H)}$ but also a larger $\omega^{(H)}$ to represent a higher baseline volatility). Such threshold models have been studied to accommodate regime-switching in volatility while still using a GARCH process within each regime. We can also conceive the regimes as driven by an unobserved state (e.g. a two-state Markov chain, as in Hamilton's regime-switching models), but in our design the threshold rule based on $h_t$ provides an intuitive, observable criterion for regime changes.
 
-In continuous time, one may model stochastic volatility via a separate SDE (e.g. the Heston model with a mean-reverting square volatility). Our approach here remains semi-discrete: we leverage GARCH for its empirical fit on discrete returns, and will translate its implications into the continuous-time SDE for $S_t$. Conceptually, at any instant, the **instantaneous variance** $\sigma_t^2$ of $dS_t$ will correspond to the current $h_t$ from the GARCH model. Thus, $\sigma_t = \sqrt{h_t}$ becomes time-dependent and stochastic. Moreover, the "regime" can be understood as switching the level of $\sigma_t$ (and possibly the drift $\mu_t$ as well) once $\sigma_t$ breaches a threshold. This yields a piecewise stochastic volatility: most of the time $\sigma_t$ fluctuates around a lower level, but when a large shock pushes $\sigma_t$ past $H$, the volatility can surge to a higher level and then decay over time.
+In continuous time, one may model stochastic volatility via a separate SDE (e.g. the Heston model with a mean-reverting square volatility). Our approach here remains semi-discrete: we leverage GARCH for its empirical fit on discrete returns, and will translate its implications into the continuous-time SDE for $S_t$. Conceptually, at any instant, the **instantaneous variance** $\sigma_t[^2]$ of $dS_t$ will correspond to the current $h_t$ from the GARCH model. Thus, $\sigma_t = \sqrt{h_t}$ becomes time-dependent and stochastic. Moreover, the "regime" can be understood as switching the level of $\sigma_t$ (and possibly the drift $\mu_t$ as well) once $\sigma_t$ breaches a threshold. This yields a piecewise stochastic volatility: most of the time $\sigma_t$ fluctuates around a lower level, but when a large shock pushes $\sigma_t$ past $H$, the volatility can surge to a higher level and then decay over time.
 
 **Remark:** Volatility clustering and mean reversion are automatically handled by the GARCH(1,1) structure: the persistence ($\alpha+\beta$ close to 1) generates clusters, and the $<1$ sum ensures eventual reversion. The regime-switch extension (3) adds flexibility to capture abrupt changes in volatility dynamics, as observed in crises. In implementation, one could also use an **EGARCH or GJR-GARCH** to capture asymmetry (leverage effect), but for brevity we stick to symmetric GARCH and will introduce asymmetry via the jump component.
 
@@ -166,7 +166,7 @@ To summarize the model specification, we list the components and equations in a 
   • **ARCH-in-Mean:** $\mu_t = \mu_0 + \lambda h_t + \text{(maybe other terms like $\phi_1$ previous return)}$. For implementation, we can combine this by updating the expected value of $\Delta \ln S_t$ each step using last step's return and variance.
 
 • _Volatility:_
-  • **Regime-Switch GARCH(1,1):** $h_{t} = \omega^{(r_{t-1})} + \alpha^{(r_{t-1})}\epsilon_{t-1}^2 + \beta^{(r_{t-1})}h_{t-1}$, where $r_{t-1} \in \{L,H\}$ depending on whether $h_{t-1}$ crossed threshold $H$. This provides $\sigma_t = \sqrt{h_t}$.
+  • **Regime-Switch GARCH(1,1):** $h_{t} = \omega^{(r_{t-1})} + \alpha^{(r_{t-1})}\epsilon_{t-1}[^2] + \beta^{(r_{t-1})}h_{t-1}$, where $r_{t-1} \in \{L,H\}$ depending on whether $h_{t-1}$ crossed threshold $H$. This provides $\sigma_t = \sqrt{h_t}$.
   • In continuous limit, one might approximate $dh_t = \kappa(r_t)\big(v(r_t) - h_t\big) dt + \xi(r_t) dZ_t$ (Ornstein-Uhlenbeck type) within each regime $r_t$, but this is an optional continuous approximation. Our implementation will use the discrete form.
 
 • _Jump Process:_
@@ -174,13 +174,13 @@ To summarize the model specification, we list the components and equations in a 
 
 These ingredients together ensure:
 
-1. In normal periods (no jumps, stable $h_t$), $S_t$ evolves like a slightly mean-reverting random walk with low volatility.
+[^1]: In normal periods (no jumps, stable $h_t$), $S_t$ evolves like a slightly mean-reverting random walk with low volatility.
 
-2. If volatility spikes (due to large $\epsilon^2$ in GARCH), $h_t$ enters a high-vol regime, increasing $\sigma_t$ and possibly $\mu_t$ (if $\lambda>0$ in (5)), leading to larger fluctuations and potentially a different drift (which could reflect, e.g., a crisis risk premium).
+[^2]: If volatility spikes (due to large $\epsilon[^2]$ in GARCH), $h_t$ enters a high-vol regime, increasing $\sigma_t$ and possibly $\mu_t$ (if $\lambda>0$ in (5)), leading to larger fluctuations and potentially a different drift (which could reflect, e.g., a crisis risk premium).
 
-3. Occasionally, jumps hit: $S_t$ drops suddenly by a factor (for a negative jump) or rises for a positive jump. This jump is on top of the diffusive move and causes a discontinuity.
+[^3]: Occasionally, jumps hit: $S_t$ drops suddenly by a factor (for a negative jump) or rises for a positive jump. This jump is on top of the diffusive move and causes a discontinuity.
 
-4. After a jump (especially a large negative one), volatility might be very high (since $\epsilon_t$ was huge), putting the model in a high-vol regime. Over subsequent time, $h_t$ will decay (volatility mean reverts), and if no further large shocks occur, eventually the model returns to a calm regime.
+[^4]: After a jump (especially a large negative one), volatility might be very high (since $\epsilon_t$ was huge), putting the model in a high-vol regime. Over subsequent time, $h_t$ will decay (volatility mean reverts), and if no further large shocks occur, eventually the model returns to a calm regime.
 
 This behavior matches intuition: a market crash (jump down) causes volatility to skyrocket; in the aftermath, volatility gradually subsides and drift may adjust if, say, central banks intervene (reflected in $\mu_t$ changes). Our model can thus qualitatively reproduce such scenarios.
 
@@ -190,11 +190,11 @@ It is important to note that the combined model is **highly nonlinear** and inte
 
 The integrated SDE (7) is an example of a **regime-switching jump-diffusion**. Existence and uniqueness of solutions to such SDEs can be established under standard conditions (Lipschitz continuity in $S$ for the drift and diffusion terms, which are satisfied here piecewise, and jumps that are well-defined). The presence of jumps means $S_t$ is not a semimartingale of pure diffusion type, but a special semimartingale including a jump component. The solution for $S_t$ from $t=0$ to $t=T$ can be formally written as:
 
-$$S_T = S_0 \exp\bigg(\int_0^T (\mu_s - \tfrac{1}{2}\sigma_s^2) \, ds + \int_0^T \sigma_s \, dW_s\bigg) \prod_{i: t_i \le T} Y_{t_i}$$
+$$S_T = S_0 \exp\bigg(\int_0^T (\mu_s - \tfrac{1}{2}\sigma_s[^2]) \, ds + \int_0^T \sigma_s \, dW_s\bigg) \prod_{i: t_i \le T} Y_{t_i}$$
 
 where ${t_i}$ are jump times in $[0,T]$. This formula is analogous to Merton's jump diffusion solution but with time-varying $\mu_s, \sigma_s$. The conditional characteristic function of $\ln S_T$ given the path of $\mu_s, \sigma_s$ and number of jumps can be derived, but in general closed-form option pricing is intractable due to the path dependence in $\sigma_s$. For risk management (e.g., VaR calculations), one would likely resort to Monte Carlo simulation of this model.
 
-The model also inherently produces **leverage effects** (asymmetric volatility-response to returns) because a negative jump or negative large diffusion shock will raise $h_t$ significantly (since $\epsilon_t^2$ feeds GARCH), implying higher volatility after a price drop. This is consistent with the observed phenomenon that volatility tends to spike after market drops (the so-called "leverage effect"). Although we did not explicitly include an asymmetric term in GARCH (like GJR or EGARCH), the jump component effectively induces asymmetry: large negative $\epsilon_t$ (often due to a jump) has a quadratic effect on $h_{t+1}$ but also tends to coincide with a price drop, creating an implicit negative correlation between return and future volatility.
+The model also inherently produces **leverage effects** (asymmetric volatility-response to returns) because a negative jump or negative large diffusion shock will raise $h_t$ significantly (since $\epsilon_t[^2]$ feeds GARCH), implying higher volatility after a price drop. This is consistent with the observed phenomenon that volatility tends to spike after market drops (the so-called "leverage effect"). Although we did not explicitly include an asymmetric term in GARCH (like GJR or EGARCH), the jump component effectively induces asymmetry: large negative $\epsilon_t$ (often due to a jump) has a quadratic effect on $h_{t+1}$ but also tends to coincide with a price drop, creating an implicit negative correlation between return and future volatility.
 
 In summary, the integrated model is qualitatively able to match the _asymmetric leptokurtic distribution_ of returns (skewed left with heavy tails) and the _volatility clustering with occasional regime shifts_ that are hallmarks of financial time series. In the next section, we discuss how to calibrate this model's parameters to actual market data.
 
@@ -212,7 +212,7 @@ Calibrating the full model involves estimating: $\phi_1$ (AR term in mean), $\om
 
 **Step 1: ARIMA mean and single-regime GARCH fit.** We can start by fitting a simpler ARMA+GARCH model to the returns, ignoring jumps and regime-switching initially. Using maximum likelihood estimation (MLE), we fit an AR(1)-GARCH(1,1) model to the return series. This gives initial estimates for $\phi_1$ and for $(\omega,\alpha,\beta)$ that describe average volatility dynamics. Many software packages (e.g. statsmodels or arch in Python) can be used. The log-likelihood for AR(1)-GARCH(1,1) under (say) conditional normal errors is:
 
-$$\mathcal{L} = -\frac{1}{2}\sum_t \Big[\ln(2\pi h_t) + \frac{\epsilon_t^2}{h_t}\Big]$$
+$$\mathcal{L} = -\frac{1}{2}\sum_t \Big[\ln(2\pi h_t) + \frac{\epsilon_t[^2]}{h_t}\Big]$$
 
 where $\epsilon_t = \Delta Y_t - \phi_1 \Delta Y_{t-1}$ and $h_t$ follows (2). Optimization of $\mathcal{L}$ yields $\hat{\phi}_1, \hat{\omega}, \hat{\alpha}, \hat{\beta}$.
 
@@ -220,7 +220,7 @@ where $\epsilon_t = \Delta Y_t - \phi_1 \Delta Y_{t-1}$ and $h_t$ follows (2). O
 
 **Step 3: Regime-specific GARCH re-fit.** We then re-estimate GARCH parameters for each regime. One way is to fit GARCH(1,1) separately on the subsets of data identified as low-vol and high-vol regimes. However, since regime membership is endogenous (depending on $h_t$ itself), a more consistent approach is to estimate a **threshold GARCH model** by MLE, treating $H$ as known from step 2. This will produce $(\omega^{(L)},\alpha^{(L)},\beta^{(L)})$ and $(\omega^{(H)},\alpha^{(H)},\beta^{(H)})$. Research by **Wu (2010)** confirms that threshold GARCH can be estimated reliably and provides a good fit when volatility regimes are present. We ensure the stationarity condition $\alpha^{(r)}+\beta^{(r)}<1$ holds in each regime for stability.
 
-**Step 4: Jump detection and estimation.** Once we have a volatility model, we filter the return series to detect jumps. On days where the actual return $\Delta Y_t$ is far in excess of what the conditional variance $h_t$ would suggest (for example, $|\Delta Y_t| > 4\sqrt{h_t}$, which is a 4-sigma event under the diffusion), we suspect a jump. We can use statistical tests or filters (such as comparing the likelihood of a point as a normal outlier vs as a jump) to identify jump days. The estimated jump intensity $\hat{\lambda}$ is (number of jumps detected)/(total time). The jump sizes ${J}$ can be estimated as the portion of return not explained by diffusion on those days (e.g. if a day's return is $-10\%$ but volatility was $2\%$, clearly a jump of about $-10\%$ occurred). We then fit an exponential or double-exponential distribution to these jump sizes. Using maximum likelihood for the exponential distribution of negative jump magnitudes will give $\hat{\eta}_2$ (for downward jumps). If there are also positive jumps detected, we fit $\hat{\eta}_1$ and $\hat{p}$ to those. Often equity indices have a strong downside jump prevalence, so $\hat{p}$ might be small.
+**Step 4: Jump detection and estimation.** Once we have a volatility model, we filter the return series to detect jumps. On days where the actual return $\Delta Y_t$ is far in excess of what the conditional variance $h_t$ would suggest (for example, $ | \Delta Y_t | > 4\sqrt{h_t}$, which is a 4-sigma event under the diffusion), we suspect a jump. We can use statistical tests or filters (such as comparing the likelihood of a point as a normal outlier vs as a jump) to identify jump days. The estimated jump intensity $\hat{\lambda}$ is (number of jumps detected)/(total time). The jump sizes ${J}$ can be estimated as the portion of return not explained by diffusion on those days (e.g. if a day's return is $-10\%$ but volatility was $2\%$, clearly a jump of about $-10\%$ occurred). We then fit an exponential or double-exponential distribution to these jump sizes. Using maximum likelihood for the exponential distribution of negative jump magnitudes will give $\hat{\eta}_2$ (for downward jumps). If there are also positive jumps detected, we fit $\hat{\eta}_1$ and $\hat{p}$ to those. Often equity indices have a strong downside jump prevalence, so $\hat{p}$ might be small.
 
 Alternatively, one can estimate jumps jointly with volatility by fitting a heavy-tailed distribution to residuals. For instance, instead of normal errors, use a mixture distribution (diffusion + jumps) and maximize likelihood. This is more complex but doable with an EM algorithm: the E-step assigns probability of each observation being a jump vs normal, the M-step estimates parameters. This holistic approach can produce all parameters together. However, it's computationally intensive. Our staged approach, while not fully efficient, is more transparent.
 
@@ -230,24 +230,24 @@ Alternatively, one can estimate jumps jointly with volatility by fitting a heavy
 
 For example, Table 1 (below) might show the results from a calibration to S&P 500 data (note: numbers here are illustrative):
 
-|**Parameter**|**Value (Estimate)**|**Description**|
-|---|---|---|
-|$\phi_1$|$0.10$|AR(1) coefficient for returns (mean reversion)|
-|$\omega^{(L)}$|$5.0\times 10^{-6}$|GARCH base var (low-regime)|
-|$\alpha^{(L)}$|$0.10$|GARCH shock coef (low-regime)|
-|$\beta^{(L)}$|$0.85$|GARCH persistence (low-regime)|
-|$\omega^{(H)}$|$2.0\times 10^{-5}$|GARCH base var (high-regime)|
-|$\alpha^{(H)}$|$0.08$|GARCH shock coef (high-regime)|
-|$\beta^{(H)}$|$0.90$|GARCH persistence (high-regime)|
-|Threshold $H$ (daily var)|$(0.02)^2$ (i.e. 2% vol)|Regime switch threshold on $h_t$|
-|$\lambda_{\text{jump}}$|$0.2~\text{yr}^{-1}$|Jump intensity (approx 1 jump/5 years)|
-|$p$ (jump up probability)|$0.25$|Probability of upward jump|
-|$\eta_1$ (up jump decay)|$40$|Decay rate for upward jumps (mean ~2.5%)|
-|$\eta_2$ (down jump decay)|$20$|Decay rate for downward jumps (mean ~5%)|
-|$\mu_0$ (drift base)|$5\%~\text{yr}^{-1}$|Long-run drift (approx 0.02% per day)|
-|$\lambda$ (drift-vol coef)|$0.0$|(Not significant, set to 0)|
+ | **Parameter** | **Value (Estimate)** | **Description** | 
+ | --- | --- | --- | 
+ | $\phi_1$ | $0.10$ | AR(1) coefficient for returns (mean reversion) | 
+ | $\omega^{(L)}$ | $5.0\times 10^{-6}$ | GARCH base var (low-regime) | 
+ | $\alpha^{(L)}$ | $0.10$ | GARCH shock coef (low-regime) | 
+ | $\beta^{(L)}$ | $0.85$ | GARCH persistence (low-regime) | 
+ | $\omega^{(H)}$ | $2.0\times 10^{-5}$ | GARCH base var (high-regime) | 
+ | $\alpha^{(H)}$ | $0.08$ | GARCH shock coef (high-regime) | 
+ | $\beta^{(H)}$ | $0.90$ | GARCH persistence (high-regime) | 
+ | Threshold $H$ (daily var) | $(0.02)[^2]$ (i.e. 2% vol) | Regime switch threshold on $h_t$ | 
+ | $\lambda_{\text{jump}}$ | $0.2~\text{yr}^{-1}$ | Jump intensity (approx 1 jump/5 years) | 
+ | $p$ (jump up probability) | $0.25$ | Probability of upward jump | 
+ | $\eta_1$ (up jump decay) | $40$ | Decay rate for upward jumps (mean ~2.5%) | 
+ | $\eta_2$ (down jump decay) | $20$ | Decay rate for downward jumps (mean ~5%) | 
+ | $\mu_0$ (drift base) | $5\%~\text{yr}^{-1}$ | Long-run drift (approx 0.02% per day) | 
+ | $\lambda$ (drift-vol coef) | $0.0$ | (Not significant, set to 0) | 
 
-_Table 1: Example calibrated parameters for the model._ (Here we assumed an annualized perspective: e.g. 252 trading days = 1 year, so daily $\omega$ values shown are tiny, etc. The threshold $H$ of variance $(0.02)^2$ means if conditional daily volatility >2%, we consider it high regime. In this example, $\lambda$ in the mean was not significant and set to 0, indicating no clear risk premium effect was found.)
+_Table 1: Example calibrated parameters for the model._ (Here we assumed an annualized perspective: e.g. 252 trading days = 1 year, so daily $\omega$ values shown are tiny, etc. The threshold $H$ of variance $(0.02)[^2]$ means if conditional daily volatility >2%, we consider it high regime. In this example, $\lambda$ in the mean was not significant and set to 0, indicating no clear risk premium effect was found.)
 
 The above values suggest that in the low-volatility regime, volatility is moderately persistent ($\beta^{(L)}=0.85$) and shocks have some effect ($\alpha^{(L)}=0.10$). In the high-vol regime, volatility is even more persistent ($\beta^{(H)}=0.90$) but shocks slightly less relative ($\alpha^{(H)}=0.08$), with a higher baseline $\omega^{(H)}$ to sustain an elevated variance level. The jump intensity $\lambda_{\text{jump}}=0.2$ means on average one jump every 5 years, but when one occurs it's usually a drop (75% chance) with an average size of about $1/\eta_2 = 5\%$ downward (which is in addition to diffusive moves), whereas upward jumps (25% chance) average $1/\eta_1 = 2.5\%$ upward. These numbers qualitatively align with major crash events being rare. The AR(1) term $\phi_1=0.10$ indicates a mild momentum: a 1% return today would on average be followed by a 0.1% increase tomorrow relative to baseline.
 
@@ -273,13 +273,13 @@ To illustrate the model's dynamics, we implement a simulation in Python. We simu
 
 ### 4.1 Simulation Algorithm:
 
-1. **Initialization:** Set initial price $S_0$ (say 100), set initial $h_0$ to the long-run variance (from $\omega/(1-\alpha-\beta)$ for low regime), set initial $\mu_0$ to the base drift.
+[^1]: **Initialization:** Set initial price $S_0$ (say 100), set initial $h_0$ to the long-run variance (from $\omega/(1-\alpha-\beta)$ for low regime), set initial $\mu_0$ to the base drift.
 
-2. **Iterate for t=1 to N:**
+[^2]: **Iterate for t=1 to N:**
 
     a. Determine regime $r_{t-1}$ by checking $h_{t-1}$ vs $H$.
 
-    b. Update variance: $h_t = \omega^{(r_{t-1})} + \alpha^{(r_{t-1})}\epsilon_{t-1}^2 + \beta^{(r_{t-1})}h_{t-1}$ (with $\epsilon_{t-1}$ known from previous return).
+    b. Update variance: $h_t = \omega^{(r_{t-1})} + \alpha^{(r_{t-1})}\epsilon_{t-1}[^2] + \beta^{(r_{t-1})}h_{t-1}$ (with $\epsilon_{t-1}$ known from previous return).
 
     c. Update drift: $\mu_t = \mu_0 + \lambda h_t + \phi_1 \epsilon_{t-1}$ (here $\epsilon_{t-1} = \Delta \ln S_{t-1}$). Note: $\epsilon_{t-1}$ is the last return, so AR(1) part $\phi_1 \epsilon_{t-1}$ adds to drift.
 
@@ -289,7 +289,7 @@ To illustrate the model's dynamics, we implement a simulation in Python. We simu
 
     f. Combine: If a jump occurred, $\Delta \ln S_t = \epsilon_{\text{diff}} + J$; if no jump, $\Delta \ln S_t = \epsilon_{\text{diff}}$. Update price: $S_t = S_{t-1} \exp(\Delta \ln S_t)$ (or $S_{t-1} * Y * \exp(\mu_t \Delta t + \sqrt{h_t \Delta t}Z)$ in jump case, which is equivalent).
 
-3. Collect outputs: series of $S_t$, $h_t$, $\mu_t$, and note jump times.
+[^3]: Collect outputs: series of $S_t$, $h_t$, $\mu_t$, and note jump times.
 
 After simulation, we have a time series for price and the underlying latent variables. We then use **Plotly** (a Python graphing library) to create interactive plots. Although here we will describe static figures, one could interactively visualize how volatility evolves or how jump events impact the price.
 
@@ -303,7 +303,7 @@ We produce several plots to elucidate the model:
 
 • _Figure 3:_ **Distribution of Returns** – We can plot a histogram of simulated daily returns (log returns) and overlay it with a normal distribution for comparison. The histogram should have a sharper peak and fatter tails than the normal curve. Also, more mass on the left tail (negative returns) due to the jump asymmetry. If we compute sample skewness and kurtosis from the simulation, they should show significant negative skew and excess kurtosis, consistent with empirical values. This validates the jump component's effect.
 
-• _Figure 4:_ **ACF of Squared Returns** – Autocorrelation function of $\epsilon_t^2$. We expect to see a slow decay in the ACF of squared returns, indicating volatility clustering. The GARCH component should reproduce this: the ACF might be high at lag 1 and gradually declining over 20-30 lags, similar to real data. This demonstrates that the model's volatility memory matches real markets.
+• _Figure 4:_ **ACF of Squared Returns** – Autocorrelation function of $\epsilon_t[^2]$. We expect to see a slow decay in the ACF of squared returns, indicating volatility clustering. The GARCH component should reproduce this: the ACF might be high at lag 1 and gradually declining over 20-30 lags, similar to real data. This demonstrates that the model's volatility memory matches real markets.
 
 ### 4.3 Results Discussion
 
@@ -315,7 +315,7 @@ The simulation results confirm that each part of the model contributes to realis
 
 • **Heteroskedastic Drift (ARCH-in-Mean):** In our parameter set $\lambda=0$, so drift did not depend on $h_t$. If we had $\lambda>0$, we would observe higher average returns during high-vol periods. This is subtle to see in one path, but could be measured by averaging the returns in regimes. It would be a nice verification if, say, average return in the high-vol regime is higher than in low-vol regime in the simulation, reflecting a risk premium. Since we set $\lambda=0$, our model doesn't produce that effect here.
 
-• **Jump Diffusion:** The jumps are clearly visible as outliers in returns. If we count the occurrences, they should roughly equal the expected count given $\lambda_{\text{jump}}$. The size distribution of jumps in simulation (if we collect all jump magnitudes) should match the input exponential distribution. For instance, histogram of negative jumps on log-scale should be approximately linear (exponential tail). The jump component primarily affects the tail of the return distribution and the highest volatility spikes (since when a jump occurs, $h_t$ jumps up as well due to $\epsilon_t^2$ being huge). We might observe that on jump days, volatility goes to the high regime and takes a while to come down—mimicking how a market crash leads to persistently higher volatility (e.g., volatility index VIX staying high post-crash).
+• **Jump Diffusion:** The jumps are clearly visible as outliers in returns. If we count the occurrences, they should roughly equal the expected count given $\lambda_{\text{jump}}$. The size distribution of jumps in simulation (if we collect all jump magnitudes) should match the input exponential distribution. For instance, histogram of negative jumps on log-scale should be approximately linear (exponential tail). The jump component primarily affects the tail of the return distribution and the highest volatility spikes (since when a jump occurs, $h_t$ jumps up as well due to $\epsilon_t[^2]$ being huge). We might observe that on jump days, volatility goes to the high regime and takes a while to come down—mimicking how a market crash leads to persistently higher volatility (e.g., volatility index VIX staying high post-crash).
 
 • **Overall Fit:** By visual inspection, the simulated series looks qualitatively similar to historical market data: it has quiet periods and stormy periods, rare crashes, volatility clustering, and non-zero autocorrelation in squared returns. The distribution of simulated returns can be compared to historical returns through statistics and appears to capture the heavy tail (e.g., say historical S&P 500 daily returns have kurtosis ~10, skew ~ -1; our simulation might produce similar numbers). Thus, the model is _validated_ in the sense that it reproduces known patterns.
 

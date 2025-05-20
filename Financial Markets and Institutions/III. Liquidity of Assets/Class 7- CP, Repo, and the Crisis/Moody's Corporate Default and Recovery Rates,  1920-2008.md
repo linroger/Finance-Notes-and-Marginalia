@@ -20,7 +20,7 @@ key_concepts:
   - Speculative-grade default rate
 ---
 
-[Default and Recovery Rates](Moody's%20Corporate%20[[Moody's%20Corporate%20Default%20and%20Recovery%20Rates,%20%201920-2008),   1920-2008|Corporate Defaults]]
+Default and Recovery Rates,   1920-2008 | Corporate Defaults]]
 
 # Moody's Corporate Default and Recovery Rates,  1920-2008
 
@@ -30,7 +30,7 @@ This report comprises Moody's twenty-second annual default study in which we upd
 
  101 Moody's-rated corporate issuers defaulted on a total of $\$238.6$ billion of bonds and $\$42.6$ billion of loans in 2008. Including issuers who were not rated as of January 1,     2008,     104 corporate issuers defaulted on $\$239.8$ billion of bonds and $\$42.8$ billion of loans.
 
-The financial industry was the most troubled sector in 2008 as measured by default volume. In that sector,  the [bankruptcy](../../../Course%20Notes/HBR%20Notes/A%20Strategic%20Perspective%20on%20Bankruptcy.md) of Lehman Brothers Holdings,  Inc. In September was the largest default in history $\textcircled{8}120.2$ billion debt)
+The financial industry was the most troubled sector in 2008 as measured by default volume. In that sector,  the bankruptcy of Lehman Brothers Holdings,  Inc. In September was the largest default in history $\textcircled{8}120.2$ billion debt)
 
 Across regions,  84 of the 101 defaulters in 2008 were North American issuers (74 in theU. S and 10 in Canada) with defaulted debt volumes totaling $\$226.2$ billion. In Europe,     12 Moody's-rated corporate issuers defaulted on $\$53.4$ billion of debt. The remaining defaulters were LatinAmerican and Asian issuers.
 
@@ -94,31 +94,31 @@ Across regions,  84 of the 101 defaulters in 2008 were North American issuers (7
 	</tbody>
 </table>
 
- Moody's global [speculative-grade default rate](.md) ended 2008 at $4.1\%$ more than quadrupling 2007's year-end level of $0.9\%$ .The default rate for all Moody's-rated corporate issuers rose to $1.9\%$ at the end of 2008 from $0.3\%$ at year-end 2007
+ Moody's global speculative-grade default rate ended 2008 at $4.1\%$ more than quadrupling 2007's year-end level of $0.9\%$ .The default rate for all Moody's-rated corporate issuers rose to $1.9\%$ at the end of 2008 from $0.3\%$ at year-end 2007
 
  Measured on a dollar volume basis,  Moody's global speculative-grade bond default rate ended 2008 at $5.8\%$ ,  up from 2007's year-end level of $0.6\%$ . Among all Moody's-rated issuers,  the volume-weighted default rate increased from $0.1\%$ in 2007 to $2.2\%$ in 2008
 
- Moody's global [speculative-grade default rate](.md) [forecasting](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) model predicts that the [speculative-grade default rate](.md) will jump sharply to $16.4\%$ in the fourth quarter of 2009,  a level that,  if it materializes,  would exceed the peaks reached in 1991 and 2001
+ Moody's global speculative-grade default rate forecasting model predicts that the speculative-grade default rate will jump sharply to $16.4\%$ in the fourth quarter of 2009,  a level that,  if it materializes,  would exceed the peaks reached in 1991 and 2001
 
 ------------------------------------------------------------------
 
 ## Corporate Default and Recovery Rates,  1920-2008
 
-Rating downgrades in 2008 surpassed rating upgrades for the first time since 2003. The upgrade-todowngrade ratio fell significantly from 2.0 in 2007 to 0.3 in 2008. Measured using post-default trading prices,  the average [recovery rate](../../../Credit%20Markets/Credit%20Markets%20Session%203.md) for senior unsecured bonds dropped from $53.3\%$ in 2007 to $33.8\%$ in 2008.
+Rating downgrades in 2008 surpassed rating upgrades for the first time since 2003. The upgrade-todowngrade ratio fell significantly from 2.0 in 2007 to 0.3 in 2008. Measured using post-default trading prices,  the average recovery rate for senior unsecured bonds dropped from $53.3\%$ in 2007 to $33.8\%$ in 2008.
 
- ![500](Attachments/500-23.png)
+ !500
 
 ------------------------------------------------------------------
 
 ## Introduction
 
-Moody's credit ratings facilitate the efficient functioning of capital markets by providing independent opinions on the creditworthiness of debt obligations issued by corporate issuers around the world. One of the primary purposes of Moody's [corporate default study](Moodys%20Recovery%20Rates%202009.md) is to communicate the historical performance of Moody's ratings as predictors of default and loss severity for corporate issuers. In addition to providing useful data for investors and regulators,  Moody’s default studies also contribute to the transparency of the rating process and directly address the meaning of Moodys long-term debt ratings scale.
+Moody's credit ratings facilitate the efficient functioning of capital markets by providing independent opinions on the creditworthiness of debt obligations issued by corporate issuers around the world. One of the primary purposes of Moody's corporate default study is to communicate the historical performance of Moody's ratings as predictors of default and loss severity for corporate issuers. In addition to providing useful data for investors and regulators,  Moody’s default studies also contribute to the transparency of the rating process and directly address the meaning of Moodys long-term debt ratings scale.
 
-In the following three sections,  we first summarize [corporate default experience](.md) and credit trends in 2008 and discuss Moody’s forecast for speculative-grade [Default and Recovery Rates](Moody's%20Corporate%20[[Moody's%20Corporate%20Default%20and%20Recovery%20Rates,%20%201920-2008),   1920-2008|corporate defaults]] and recovery rates in 2009. This is followec by a review of [rating accuracy metrics](.md). We then present [historical statistics](.md) on [Default and Recovery Rates](Moody's%20Corporate%20[[Moody's%20Corporate%20Default%20and%20Recovery%20Rates,%20%201920-2008),   1920-2008|corporate defaults]],  ratings transitions,  ratings performance metrics,  and recovery rates. This year's default study contains several revisions to the historical data relative to previous years' reports,  which are described in detail in a separate section at the end of the study. Finally,  this report includes several detailed sections describing the methodologies used to generate the statistics as well as a guide to their reading and interpretation.
+In the following three sections,  we first summarize corporate default experience and credit trends in 2008 and discuss Moody’s forecast for speculative-grade Default and Recovery Rates,   1920-2008 | corporate defaults]] and recovery rates in 2009. This is followec by a review of rating accuracy metrics. We then present historical statistics on Default and Recovery Rates,   1920-2008 | corporate defaults]],  ratings transitions,  ratings performance metrics,  and recovery rates. This year's default study contains several revisions to the historical data relative to previous years' reports,  which are described in detail in a separate section at the end of the study. Finally,  this report includes several detailed sections describing the methodologies used to generate the statistics as well as a guide to their reading and interpretation.
 
 # 2008 - Financial Crisis Leads to Record Default Volumes
 
-The [global financial crisis](../../../Financial%20Engineering/8.%20Credit%20Modeling%20and%20Credit%20Derivatives.md) reached a fevered pitch in 2008 with the failure of a number of large [financial institutions](../../Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md),  including the largest defaulter in history - the [bankruptcy](../../../Course%20Notes/HBR%20Notes/A%20Strategic%20Perspective%20on%20Bankruptcy.md) of Lehman Brothers Holdings Inc. Combined with defaults by other large [financial institutions](../../Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md),  including Washington Mutual and three large Icelandic banks,  dollar default volumes easily set record highs. However,  the damage was not limited to [financial institutions](../../Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) as the [financial crisis](../Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Letter.md) pushed the US and other developed economies into recession,  and severely limited non-financial issuers' ability to access the debt markets. In fact,  the high-yield debt markets were essentially closed for much of 2008 and high yield spreads reachedrecord levels of roughly 2,  000 basis points in the fourth quarter. As a result,  defaults by non-financial issuers climbed sharply as the year proceeded with many distressed issuers unable to refinance maturing debt or obtain forbearance from covenant violations.
+The global financial crisis reached a fevered pitch in 2008 with the failure of a number of large financial institutions,  including the largest defaulter in history - the bankruptcy of Lehman Brothers Holdings Inc. Combined with defaults by other large financial institutions,  including Washington Mutual and three large Icelandic banks,  dollar default volumes easily set record highs. However,  the damage was not limited to financial institutions as the financial crisis pushed the US and other developed economies into recession,  and severely limited non-financial issuers' ability to access the debt markets. In fact,  the high-yield debt markets were essentially closed for much of 2008 and high yield spreads reachedrecord levels of roughly 2,  000 basis points in the fourth quarter. As a result,  defaults by non-financial issuers climbed sharply as the year proceeded with many distressed issuers unable to refinance maturing debt or obtain forbearance from covenant violations.
 
 World-wide,  101 Moody's-rated corporate issuers defaulted on a total of $\$281.2$ billion of debt in 2008. Default counts and volumes both surged from 2007 when only 18 companies defaulted on $\$6.7$ billion of debt. From a geographic standpoint,     84 of the 101 defaulters were based in North America while 12 were based in Europe. On a volume basis,     defaulted debt totaled $\$226.2$ billion in North America and $\$53.4$ billion in Europe. Exhibit 1 presents annual default counts and defaulted debt volumes for the period 1970 to 2008. The chart shows that default volume in 2008 easily reached a record high,  while the number of defaulted issuers was the highest since 2002. Exhibit 21 on page 19 lists the top ten defaults among Moody's-rated issuers for the period 1920-2008,  six of which were by 2008 defaulters.
 
@@ -128,11 +128,11 @@ World-wide,  101 Moody's-rated corporate issuers defaulted on a total of $\$281.
 
 Exhibit 1
 
- ![500](Attachments/500-22.png)
+ !500
 
-Among the 101 defaulters in 2008,  more than half were byissuers in the broad Capital or Consumer Industries sectors'. Within these two sectors,  defaults were highest in the Hotel,  Gaming,  & Leisure (15 defaulters) and Construction & Building (6 defaulters) industries. Measured by default volume,  however,  the FIRE 2 and [Banking](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) sectors easily topped the non-financial sectors as they accounted for almost $80\%$ of the total default volume in 2008. The failures of Lehman Brothers,  Washington Mutual,  GMAC and three Icelandic banks were the largest defaulting [financial institutions](../../Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) in terms of dollar volume. The largest non-financial defaulter was Tribune Company with almost $\$13$ billion in volume.
+Among the 101 defaulters in 2008,  more than half were byissuers in the broad Capital or Consumer Industries sectors'. Within these two sectors,  defaults were highest in the Hotel,  Gaming,  & Leisure (15 defaulters) and Construction & Building (6 defaulters) industries. Measured by default volume,  however,  the FIRE 2 and Banking sectors easily topped the non-financial sectors as they accounted for almost $80\%$ of the total default volume in 2008. The failures of Lehman Brothers,  Washington Mutual,  GMAC and three Icelandic banks were the largest defaulting financial institutions in terms of dollar volume. The largest non-financial defaulter was Tribune Company with almost $\$13$ billion in volume.
 
-A unique characteristic of initial default events in 2008 was the high incidence of [distressed exchanges](Moodys%20Recovery%20Rates%202009.md). With debt markets essentially closed for high yield issuers,  and the scarcity of [DiP financing](../../../Course%20Notes/HBR%20Notes/Notes%20on%20Debtor-in-Possession%20DIP%20Financing.md) making [bankruptcy](../../../Course%20Notes/HBR%20Notes/A%20Strategic%20Perspective%20on%20Bankruptcy.md) a less attractive option,  distressed issuers with unsustainable capital structures or [liquidity](../Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) problems had few options other than to offer debt exchanges,  effectively implementing out-of-court restructurings that constitute [events of default](../../II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Slides%202%20Discussion%20of%20Loan%20Covenants%20Vs.%20Bond%20Covenants.md) under Moody's definition of default. Of the 101 defaulters in 2008,  $23\%$ ,  Or 23,  were [distressed exchanges](Moodys%20Recovery%20Rates%202009.md),  which is more than double the historical average of $10\%$ of total initial default events. Exhibit 2 breaks down the 101 defaults in 2008 by initial default type and broad industry.
+A unique characteristic of initial default events in 2008 was the high incidence of distressed exchanges. With debt markets essentially closed for high yield issuers,  and the scarcity of DiP financing making bankruptcy a less attractive option,  distressed issuers with unsustainable capital structures or liquidity problems had few options other than to offer debt exchanges,  effectively implementing out-of-court restructurings that constitute events of default under Moody's definition of default. Of the 101 defaulters in 2008,  $23\%$ ,  Or 23,  were distressed exchanges,  which is more than double the historical average of $10\%$ of total initial default events. Exhibit 2 breaks down the 101 defaults in 2008 by initial default type and broad industry.
 
 ------------------------------------------------------------------
 
@@ -151,7 +151,7 @@ Exhibit 2
 			<th>Percent Of Dollar Volume</th>
 		</tr>
 		<tr>
-			<td>[Banking](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md)</td>
+			<td>Banking</td>
 			<td>$8.9\%$</td>
 			<td>$25.4\%$</td>
 			<td>Bankruptcy</td>
@@ -241,23 +241,23 @@ Exhibit 2
 	</tbody>
 </table>
 
-As a result of rapidly increasing defaults in 20 o 8,  the trailing twelve-month issuer-weighted default rate for all Moody's-rated issuers jumped from $0.3\%$ in 2007 to $1.9\%$ in 2008,  marking its first up-tick since 2001. Among speculative-grade issuers,  the default rate rose to $4.1\%$ in 2008,  more than a fourfold increase from its closing level of $0.9\%$ at the end of 2007. To put this in historical perspective,  since 1983,  Moodys annual default rate for speculative-grade corporate issuers has averaged $4.4\%$ ,  with the annual peak in 2001 at $10.1\%$ and the trough in 2007 at $0.9\%$ . Before 1983,  the [speculative-grade default rate](.md) reached a record peak of $15.4\%$ during the [Great Depression](../../../International%20Finance/Bridgewater/Chapters/US%20Debt%20Crisis%20and%20Adjustment%201928-1937.md) (see Exhibit 3). Measured on a dollar volume basis,  Moody's speculative-grade corporate bond default rate jumped from $0.6\%$ in 2007 to $5.8\%$ in 2008. And the volume-weighted default rate for all Moody's-rated issuers increased to $2.2\%$ in 2008 from $0.1\%$ in 2007.
+As a result of rapidly increasing defaults in 20 o 8,  the trailing twelve-month issuer-weighted default rate for all Moody's-rated issuers jumped from $0.3\%$ in 2007 to $1.9\%$ in 2008,  marking its first up-tick since 2001. Among speculative-grade issuers,  the default rate rose to $4.1\%$ in 2008,  more than a fourfold increase from its closing level of $0.9\%$ at the end of 2007. To put this in historical perspective,  since 1983,  Moodys annual default rate for speculative-grade corporate issuers has averaged $4.4\%$ ,  with the annual peak in 2001 at $10.1\%$ and the trough in 2007 at $0.9\%$ . Before 1983,  the speculative-grade default rate reached a record peak of $15.4\%$ during the Great Depression (see Exhibit 3). Measured on a dollar volume basis,  Moody's speculative-grade corporate bond default rate jumped from $0.6\%$ in 2007 to $5.8\%$ in 2008. And the volume-weighted default rate for all Moody's-rated issuers increased to $2.2\%$ in 2008 from $0.1\%$ in 2007.
 
 Exhibit 3
 
- ![500](Attachments/500-20.png)
+ !500
 
 ------------------------------------------------------------------
 
 ## Corporate Default and Recovery Rates,  1920-2008
 
-Consistent with rapidly weakening [credit quality](../../II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Wellman%20Inc%20the%20Importance%20of%20Loan%20Covenants.md) and increasing numbers of defaults,  the upgrade-to downgrade ratio for corporate issuers fell sharply in 2008. Specifically,  there were 992 downgrades and 268 upgrades in 2008,  sending the upgrade-to-downgrade ratio to 0.3 compared with 2.0 in $2007^3$ .Exhibit 4 shows the annual upgrade-to-downgrade ratio for Moody's-rated corporate issuers between 1970 and 2008,  indicating that the 2008 decline in the ratio was thelargest in the past 39 years. Since 1970,  the upgrade-todowngrade ratiohas averaged at 0.8
+Consistent with rapidly weakening credit quality and increasing numbers of defaults,  the upgrade-to downgrade ratio for corporate issuers fell sharply in 2008. Specifically,  there were 992 downgrades and 268 upgrades in 2008,  sending the upgrade-to-downgrade ratio to 0.3 compared with 2.0 in $2007[^3]$ .Exhibit 4 shows the annual upgrade-to-downgrade ratio for Moody's-rated corporate issuers between 1970 and 2008,  indicating that the 2008 decline in the ratio was thelargest in the past 39 years. Since 1970,  the upgrade-todowngrade ratiohas averaged at 0.8
 
 Exhibit 4
 
- ![500](Attachments/500-28.png)
+ !500
 
-Historically,  as shown by Moody's research,  [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) and recovery rates are negatively correlated. In 2008,  this negative correlation reared its head again as rising [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) coincided with declining recovery rates. As shown in Exhibit 5,  and as measured by post-30 day trading prices,  average recovery rates for bonds and loans in all lien positions dropped in 2008 from 2007. For example,  in 2008,  senior unsecured bondsrecovered an average of $33.8\%$ on an issuer-weighted basis,  well below 2007's $53.3\%$ .Measured on a value-weighted basis,  the decline was even more pronounced as the average senior unsecured bond [recovery rate](../../../Credit%20Markets/Credit%20Markets%20Session%203.md) fell to $26.2\%$ in 2008,  from alevel of $56.9\%$ a year earlier. And relative to historical averages,  recovery. Rates ofalldebts,  with the exception of senior secured bonds,  werebelow average in 2008 when measured on an issuer-weighted basis
+Historically,  as shown by Moody's research,  default rates and recovery rates are negatively correlated. In 2008,  this negative correlation reared its head again as rising default rates coincided with declining recovery rates. As shown in Exhibit 5,  and as measured by post-30 day trading prices,  average recovery rates for bonds and loans in all lien positions dropped in 2008 from 2007. For example,  in 2008,  senior unsecured bondsrecovered an average of $33.8\%$ on an issuer-weighted basis,  well below 2007's $53.3\%$ .Measured on a value-weighted basis,  the decline was even more pronounced as the average senior unsecured bond recovery rate fell to $26.2\%$ in 2008,  from alevel of $56.9\%$ a year earlier. And relative to historical averages,  recovery. Rates ofalldebts,  with the exception of senior secured bonds,  werebelow average in 2008 when measured on an issuer-weighted basis
 
 ------------------------------------------------------------------
 
@@ -404,11 +404,11 @@ Exhibit 5
 1. Based on 30-day post-default market prices.
 1. 2008's average senior unsecured loan recoveries are based on three observations. 3. Only includes defaults on preferred stock that are associated or followed by a broader debt default. Average recovery rates for preferred stock only covers the period of 1983-2008.
 
-Value-weighted recovery rates were noticeably lower than issuer-weighted recovery rates in 2008 as larger defaulters experienced lower recovery rates relative to those of smaller defaulters. And,  as shown in Exhibit 6 the recovery rates for large [financial institutions](../../Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) in 2008 were especially low with Lehman Brothers recovering $9\%$ on its senior unsecured bonds and the three Icelandic banks recoveringless than $5\%$ on their senior unsecured bonds. Washington Mutual Bank and Washington Mutual,  however,  recovered an average of $42\%$ and the GMAC's [Primer](A%20[[An%20Asset%20Allocation%20Primer) on [Distressed Investing](../../II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/HomeMax%20Case%20Study%20Solution.md)|distressed debt]] exchange led the pack with a relatively high [recovery rate](../../../Credit%20Markets/Credit%20Markets%20Session%203.md) at about $70\%$
+Value-weighted recovery rates were noticeably lower than issuer-weighted recovery rates in 2008 as larger defaulters experienced lower recovery rates relative to those of smaller defaulters. And,  as shown in Exhibit 6 the recovery rates for large financial institutions in 2008 were especially low with Lehman Brothers recovering $9\%$ on its senior unsecured bonds and the three Icelandic banks recoveringless than $5\%$ on their senior unsecured bonds. Washington Mutual Bank and Washington Mutual,  however,  recovered an average of $42\%$ and the GMAC's Primer on Distressed Investing | distressed debt]] exchange led the pack with a relatively high recovery rate at about $70\%$
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
 Exhibit 6
 
@@ -517,7 +517,7 @@ Exhibit 6
 			<td>$0.0\%$</td>
 		</tr>
 		<tr>
-			<td>GMAC [International Finance](../../../Course%20Notes/International%20Trade%20Banking%20and%20Capital%20Markets%20Lecture%20Notes.md) B.V.</td>
+			<td>GMAC International Finance B.V.</td>
 			<td>Netherlands</td>
 			<td>51</td>
 			<td>$85.5\%$</td>
@@ -532,7 +532,7 @@ Exhibit 6
 </table>
 1. Based on 30-day post-default market prices
 
-Recovery rates in 2008 would have been even lower had it not been for the record level of [distressed exchanges](Moodys%20Recovery%20Rates%202009.md),  which typically yield relatively high recovery rates. As shown in Exhibit 7 for 2008 defaulters,  debt holders at all lien positions experienced higher recoveries on [distressed exchanges](Moodys%20Recovery%20Rates%202009.md) relative to other types of defaults. For example,  senior unsecured bond holders experienced an average $50.8\%$ [recovery rate](../../../Credit%20Markets/Credit%20Markets%20Session%203.md) from [distressed exchanges](Moodys%20Recovery%20Rates%202009.md),  more than double the average recovery rates of $20.8\%$ and $24.4\%$ for payment defaults and bankruptcies,  respectively.
+Recovery rates in 2008 would have been even lower had it not been for the record level of distressed exchanges,  which typically yield relatively high recovery rates. As shown in Exhibit 7 for 2008 defaulters,  debt holders at all lien positions experienced higher recoveries on distressed exchanges relative to other types of defaults. For example,  senior unsecured bond holders experienced an average $50.8\%$ recovery rate from distressed exchanges,  more than double the average recovery rates of $20.8\%$ and $24.4\%$ for payment defaults and bankruptcies,  respectively.
 
 Exhibit 7
 
@@ -644,7 +644,7 @@ Exhibit 7
 
 The recovery data discussed above is based on debt trading prices 30 days after the default date. An alternative recovery measure is based on ultimate recoveries,  or the value creditors realize at the resolution of a default event. For example,  for issuers filing for bankruptcy,  the ultimate recoveries are the present values of the cash and/or securities that creditors actuallyreceive when these issuers exit bankruptcy,  typically 1-2 years following their initial default dates.
 
-In Exhibit 8,  we present data on ultimate recovery rates for North American companies in Moody's Ultimate Recovery Database. Last year,  Moody's added 20 firms that either emerged from [bankruptcy](../../../Course%20Notes/HBR%20Notes/A%20Strategic%20Perspective%20on%20Bankruptcy.md) or resolved their default events in 2008. The average “firm-wide”[recovery rate](../../../Credit%20Markets/Credit%20Markets%20Session%203.md) for these 20 firms was $63.0\%$ ,  below 2007's $68.7\%$ level,  but still well above the long-term average of $53.4\%$ since 1987. As shown inExhibit 8,  the individual debts at these 20 firms,  in most cases,  enjoyed higherrecoveries in 2008 compared tohistorical averages. However,  among the 10 of the 20 companies that defaulted in 2008 and also had their default events resolved in the same year,  debt holders of all priorities,  except senior unsecured bonds,  experienced weaker recovery rates compared to their 1987-2008 historical averages. Since there is a substantial time lag between anissuer's default date and when its ultimaterecovery isknown,  these data are consistent with there also being a lag in the observed [Forecasting](Week%203%20Cyclical%20Industries%20(and%20Advanced%20[[Week%202%20Fundamentals%20Of%20Forecasting))|cyclicality]] of ultimate recovery rates and [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md).
+In Exhibit 8,  we present data on ultimate recovery rates for North American companies in Moody's Ultimate Recovery Database. Last year,  Moody's added 20 firms that either emerged from bankruptcy or resolved their default events in 2008. The average “firm-wide”recovery rate for these 20 firms was $63.0\%$ ,  below 2007's $68.7\%$ level,  but still well above the long-term average of $53.4\%$ since 1987. As shown inExhibit 8,  the individual debts at these 20 firms,  in most cases,  enjoyed higherrecoveries in 2008 compared tohistorical averages. However,  among the 10 of the 20 companies that defaulted in 2008 and also had their default events resolved in the same year,  debt holders of all priorities,  except senior unsecured bonds,  experienced weaker recovery rates compared to their 1987-2008 historical averages. Since there is a substantial time lag between anissuer's default date and when its ultimaterecovery isknown,  these data are consistent with there also being a lag in the observed Forecasting) | cyclicality]] of ultimate recovery rates and default rates.
 
 Exhibit 8
 
@@ -705,7 +705,7 @@ Exhibit 8
 			<td>$23.0\%$</td>
 			<td>$62.9\%$</td>
 			<td>$29.7\%$</td>
-			<td>$9.3\%^2$</td>
+			<td>$9.3\%[^2]$</td>
 			<td>$55.4\%$</td>
 			<td>$29.7\%$</td>
 		</tr>
@@ -733,7 +733,7 @@ Exhibit 8
 
 During 2008. 2. There were only two sr. Sub bond defaults in 2008.
 
- As highlighted above,  Moody's and other academic researchers have found that annual [corporate default rates](Moodys%20Recovery%20Rates%202009.md) are negatively correlated with annual average recovery rates as measured bypost-default trading prices. There is also a similar negative relationshipusing ultimate data. As shown inpanel Ain Exhibit 9,  a linear regression of annual average senior unsecured bond recovery rates on annual speculative-grade [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) yields an R-square value of 0.5. In panel B using firm-wide ultimate recoveries,  a similar negative correlation isalso observedwith anR-square of 0.4
+ As highlighted above,  Moody's and other academic researchers have found that annual corporate default rates are negatively correlated with annual average recovery rates as measured bypost-default trading prices. There is also a similar negative relationshipusing ultimate data. As shown inpanel Ain Exhibit 9,  a linear regression of annual average senior unsecured bond recovery rates on annual speculative-grade default rates yields an R-square value of 0.5. In panel B using firm-wide ultimate recoveries,  a similar negative correlation isalso observedwith anR-square of 0.4
 
 ------------------------------------------------------------------
 
@@ -741,15 +741,15 @@ During 2008. 2. There were only two sr. Sub bond defaults in 2008.
 
 ### Exhibit 9
 
-Correlation between [Default and Recovery Rates](.md)
+Correlation between Default and Recovery Rates
 
- ![500](Attachments/500-30.png)
+ !500
 
-Moody’s credit ratings are opinions of relative expected credit losses upon default,  which are functions of both the probability of default and severity of default (LGD). Exhibit 10 shows annual [credit loss](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) rates from 1982 to 2008 for Moody's-rated corporate issuers. In 2008,  the rising default rate,  coupled with a higher loss severity rate,  led to an increase in the credit lossrate among Moody’s-rated issuers to $1.2\%$ ,  compared to $0.2\%$ in 2007. The average annual [credit loss](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) rate since 1982 is $0.9\%$ (see underlying data in Exhibit 29)
+Moody’s credit ratings are opinions of relative expected credit losses upon default,  which are functions of both the probability of default and severity of default (LGD). Exhibit 10 shows annual credit loss rates from 1982 to 2008 for Moody's-rated corporate issuers. In 2008,  the rising default rate,  coupled with a higher loss severity rate,  led to an increase in the credit lossrate among Moody’s-rated issuers to $1.2\%$ ,  compared to $0.2\%$ in 2007. The average annual credit loss rate since 1982 is $0.9\%$ (see underlying data in Exhibit 29)
 
 Exhibit 10
 
- ![500](Attachments/500-29.png)
+ !500
 
 ------------------------------------------------------------------
 
@@ -757,43 +757,43 @@ Exhibit 10
 
 ### Default Rate Forecasts
 
-The ongoing [banking](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) crisis and global economic downtum makeit almost certain that [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) will continue to climb sharply during 20 o 9. The only outstanding questions are to what levels they will rise and how quickly. Because the impact of the current economic downturn on [corporate debt](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Corporate%20Bonds%20and%20Loans.md) issuers is likely to be more severe than for the two most recent credit cycles of the early 1990 s and 2000 s,  Moody's expects that the [speculative-grade default rate](.md) willexceed the peaks of $11.9\%$ and $10.4\%$ reached in those cycles,  respectively. Indeed,  the [speculative-grade default rate](.md) could exceed the $15.4\%$ record level set in 1933 when the speculative-grade market was solely a fallen angel market comprised exclusively of downgraded. [Investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)-grade issuers.
+The ongoing banking crisis and global economic downtum makeit almost certain that default rates will continue to climb sharply during 20 o 9. The only outstanding questions are to what levels they will rise and how quickly. Because the impact of the current economic downturn on corporate debt issuers is likely to be more severe than for the two most recent credit cycles of the early 1990 s and 2000 s,  Moody's expects that the speculative-grade default rate willexceed the peaks of $11.9\%$ and $10.4\%$ reached in those cycles,  respectively. Indeed,  the speculative-grade default rate could exceed the $15.4\%$ record level set in 1933 when the speculative-grade market was solely a fallen angel market comprised exclusively of downgraded. Investment-grade issuers.
 
-Moody's formal [forecasting](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) model,  the Credit Transition Model $(CTM)^{8}$ ,  indicates that the global issuerweighted [speculative-grade default rate](.md) willhit a peak of $16.4\%$ in November. If this forecast materializes,  the [speculative-grade default rate](.md) will almost quadruple from a level of. $4.1\%$ at the endof 2008. In terms of the absolute numbers of the defaulters,  the model forecastimplies roughly 300 defaulters in 2009
+Moody's formal forecasting model,  the Credit Transition Model $(CTM)^{8}$ ,  indicates that the global issuerweighted speculative-grade default rate willhit a peak of $16.4\%$ in November. If this forecast materializes,  the speculative-grade default rate will almost quadruple from a level of. $4.1\%$ at the endof 2008. In terms of the absolute numbers of the defaulters,  the model forecastimplies roughly 300 defaulters in 2009
 
-Exhibit 11 shows the model's baseline forecasts through 2009,  as well as the optimistic and pessimistic forecast scenarios. The baseline forecast assumes that the unemployment rate will increase to. $9.0\%$ in the U.S. and $8.2\%$ in Europe by year end. We note,  however,  that the high level of uncertainty surrounding the likely severity and length of the current global economic downturn imply similarlyhigh uncertainty around the point estimates of model-based forecasts of [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md). Moreover,  some of the model's main drivers,  including the current record lowratings mix of Moody's issuers and record high levels of high yield bond spreads,  are in [ranges](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Exotic%20Interest%20Rate%20Options.md) not seen in the historical data used to parameterize the model,  implying heightened model risk.
+Exhibit 11 shows the model's baseline forecasts through 2009,  as well as the optimistic and pessimistic forecast scenarios. The baseline forecast assumes that the unemployment rate will increase to. $9.0\%$ in the U.S. and $8.2\%$ in Europe by year end. We note,  however,  that the high level of uncertainty surrounding the likely severity and length of the current global economic downturn imply similarlyhigh uncertainty around the point estimates of model-based forecasts of default rates. Moreover,  some of the model's main drivers,  including the current record lowratings mix of Moody's issuers and record high levels of high yield bond spreads,  are in ranges not seen in the historical data used to parameterize the model,  implying heightened model risk.
 
 Exhibit 11
 
- ![500](Attachments/500-27.png)
+ !500
 
-The high level of the high yield bond spread,  which is a primary driver underlying the model's forecasts for rising [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) in 2009,  beganincreasing in the second half of 2007 andreached a peak of approximatel 2,  000 basis points in the fourth quarter of 2008. Coincident with this increase in the high yield spread Moody’s Distressed Issuer index,  which shows the percentage of speculative-grade issuers with debts trading at spreads toTreasuries greater than 1. Oo 0 basis points,  also climbed sharply and now stands at $52.6\%$ of speculative-grade issuers. Exhibit 12 shows the historical correlation between speculative-grade [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md),
+The high level of the high yield bond spread,  which is a primary driver underlying the model's forecasts for rising default rates in 2009,  beganincreasing in the second half of 2007 andreached a peak of approximatel 2,  000 basis points in the fourth quarter of 2008. Coincident with this increase in the high yield spread Moody’s Distressed Issuer index,  which shows the percentage of speculative-grade issuers with debts trading at spreads toTreasuries greater than 1. Oo 0 basis points,  also climbed sharply and now stands at $52.6\%$ of speculative-grade issuers. Exhibit 12 shows the historical correlation between speculative-grade default rates,
 
 ------------------------------------------------------------------
 
 # Corporate Default and Recovery Rates,  1920-2008
 
-high yield spreads,  and Moody’s Distressed Issuer index. The historical data suggest that movements in the high-yield spread often coincide with changes in thelevel of the [speculative-grade default rate](.md). During the last two credit cycles of 1990-91 and 2001-02,  high yield bond spreads peaked at roughly 1,  000 basis points,  and were associated with peak speculative-grade [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) of roughly $10-12\%$ . If this historical relationship were to hold up in this cycle,  the recent peak of 2,  oo 0 basis points in the high yield spread suggests that speculative-grade [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) could approach $20\%$
+high yield spreads,  and Moody’s Distressed Issuer index. The historical data suggest that movements in the high-yield spread often coincide with changes in thelevel of the speculative-grade default rate. During the last two credit cycles of 1990-91 and 2001-02,  high yield bond spreads peaked at roughly 1,  000 basis points,  and were associated with peak speculative-grade default rates of roughly $10-12\%$ . If this historical relationship were to hold up in this cycle,  the recent peak of 2,  oo 0 basis points in the high yield spread suggests that speculative-grade default rates could approach $20\%$
 
 Exhibit 12
 
- ![500](Attachments/500-31.png)
+ !500
 
-The currenthigh default rate forecast also stems from deteriorating [credit quality](../../II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Wellman%20Inc%20the%20Importance%20of%20Loan%20Covenants.md) andincreasing refunding risk for corporate issuers. As shown in Exhibit 13,  at the beginning of 2009,  the share of Caa-C issuers accounted for almost $25\%$ of Moody's speculative-grade issuers,  the highest level recorded since 1983. Moreover,  . Roughly $60\%$ of issuers currently rated Caa 1 or below either have negative outlooks or are on watch for possible downgrades. In the current environment,  lowly rated issuers are particularly vulnerable to default if they need to refinance maturing debt or obtain forbearance from covenant violations..
+The currenthigh default rate forecast also stems from deteriorating credit quality andincreasing refunding risk for corporate issuers. As shown in Exhibit 13,  at the beginning of 2009,  the share of Caa-C issuers accounted for almost $25\%$ of Moody's speculative-grade issuers,  the highest level recorded since 1983. Moreover,  . Roughly $60\%$ of issuers currently rated Caa 1 or below either have negative outlooks or are on watch for possible downgrades. In the current environment,  lowly rated issuers are particularly vulnerable to default if they need to refinance maturing debt or obtain forbearance from covenant violations..
 
 Exhibit 13
 
- ![500](Attachments/500-32.png)
+ !500
 
 ------------------------------------------------------------------
 
 ## Corporate Default and Recovery Rates,  1920-2008
 
-In addition to deteriorating [credit quality](../../II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Wellman%20Inc%20the%20Importance%20of%20Loan%20Covenants.md),  refunding risks are projected to increase over the next several years as more than one-half of current U.S. speculative-grade issuers have debts maturing in the next three years. As shown in Exhibit 14,  measured by dollar volume,  a total of $\$190$ billion in debt is coming due over the next three years,     which more than doubles the refunding needs of $\$86$ billion between 2008 and $2010^9$ .This increase in issuers' refunding needs stems from maturing debt that was originated during the refinancing boom years of 2004-2007. Among Caa-C issuers,  almost one-half have at least some debt maturing from 2009 to 2011.
+In addition to deteriorating credit quality,  refunding risks are projected to increase over the next several years as more than one-half of current U.S. speculative-grade issuers have debts maturing in the next three years. As shown in Exhibit 14,  measured by dollar volume,  a total of $\$190$ billion in debt is coming due over the next three years,     which more than doubles the refunding needs of $\$86$ billion between 2008 and $2010[^9]$ .This increase in issuers' refunding needs stems from maturing debt that was originated during the refinancing boom years of 2004-2007. Among Caa-C issuers,  almost one-half have at least some debt maturing from 2009 to 2011.
 
 Exhibit 14
 
- ![500](Attachments/500-21.png)
+ !500
 
 Across geographical regions,  the speculative default rate is expected to climb to $15.8\%$ in the U.S. by year-end 2009,  while the European default rate is expected to rise more sharply to $19.6\%$ .Driving this differential is the currently weaker ratings mix among European speculative-grade issuers relative to U.S. issuers.
 
@@ -921,7 +921,7 @@ Exhibit 15
 			<td>Forest Products&Paper</td>
 			<td>$10.4\%$</td>
 			<td>$11.3\%$</td>
-			<td>[Banking](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md)</td>
+			<td>Banking</td>
 			<td>$0.4\%$</td>
 			<td>$1.6\%$</td>
 		</tr>
@@ -960,13 +960,13 @@ Exhibit 15
 	</tbody>
 </table>
 
-1. There is only one European issuer in the Consumer Service industry
+[^1]: There is only one European issuer in the Consumer Service industry
 
-Besides [forecasting](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md),  the CTM can also forecast probabilities of upgrade and downgrade rates for all or any sub-group of Moody's-rated issuers. The CTM is currently [forecasting](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) that rating downgrades will continue to outnumber rating upgrades in 2009. The upgrade-to-downgrade ratio is anticipated to decline. Further to 0.2 in 2009 from 0.3 in 2008. Among [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)-grade companies,  $5.8\%$ of issuers are expected to have their ratings downgraded toBa 1 orbelow in the coming twelve months. On the otherhand,  only $1.6\%$ of speculative-grade issuers are expected to become rising stars in 2009.
+Besides forecasting default rates,  the CTM can also forecast probabilities of upgrade and downgrade rates for all or any sub-group of Moody's-rated issuers. The CTM is currently forecasting that rating downgrades will continue to outnumber rating upgrades in 2009. The upgrade-to-downgrade ratio is anticipated to decline. Further to 0.2 in 2009 from 0.3 in 2008. Among investment-grade companies,  $5.8\%$ of issuers are expected to have their ratings downgraded toBa 1 orbelow in the coming twelve months. On the otherhand,  only $1.6\%$ of speculative-grade issuers are expected to become rising stars in 2009.
 
 # Recovery Outlook
 
-As recovery rates are negatively correlated with [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md),  Moody's expectsrecovery rates to decline in 2009 as [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) continue to increase. Moreover,  recoveries are likely to be below historical averages as aresult of strong loan issuance inrecent years. The increasing share of loans in issuers'liability structures implies less protection for loan investors because it entails a corresponding reduction in the share of total debt junior to the loans—which servesas a first-loss cushion for theloansin the event of default. For unsecured bond holders,  the increasing loan shares imply more debt senior to the bonds and,  therefore,  lower recovery rates on those bonds. Based on Moody's current LGD assessments,  the average expectedrecovery rate across all U.S.first lien loans is $68\%$ ,  which compares with ahistorical average of $87\%$ from Moody's ultimate recovery database. For senior unsecured bonds,  the average expected [recovery rate](../../../Credit%20Markets/Credit%20Markets%20Session%203.md) is $33\%$ which is also lower than historical average of $40\%$ (see Exhibit 16). In light of the current economic slowdown,  we also present the LGD outlook under regularand stress-downturn scenarios where firm-wide recovery rates average $45\%$ and $35\%$ respectively. In the previous two credit cycles of 1991 and 2001,  firm-wide recovery rates averaged roughly $45\%$ . However,  the current downturn,  and its impact on firm-wide recovery rates,  could certainly be more severe than those associated with the previous two credit cycles.
+As recovery rates are negatively correlated with default rates,  Moody's expectsrecovery rates to decline in 2009 as default rates continue to increase. Moreover,  recoveries are likely to be below historical averages as aresult of strong loan issuance inrecent years. The increasing share of loans in issuers'liability structures implies less protection for loan investors because it entails a corresponding reduction in the share of total debt junior to the loans—which servesas a first-loss cushion for theloansin the event of default. For unsecured bond holders,  the increasing loan shares imply more debt senior to the bonds and,  therefore,  lower recovery rates on those bonds. Based on Moody's current LGD assessments,  the average expectedrecovery rate across all U.S.first lien loans is $68\%$ ,  which compares with ahistorical average of $87\%$ from Moody's ultimate recovery database. For senior unsecured bonds,  the average expected recovery rate is $33\%$ which is also lower than historical average of $40\%$ (see Exhibit 16). In light of the current economic slowdown,  we also present the LGD outlook under regularand stress-downturn scenarios where firm-wide recovery rates average $45\%$ and $35\%$ respectively. In the previous two credit cycles of 1991 and 2001,  firm-wide recovery rates averaged roughly $45\%$ . However,  the current downturn,  and its impact on firm-wide recovery rates,  could certainly be more severe than those associated with the previous two credit cycles.
 
 ------------------------------------------------------------------
 
@@ -974,7 +974,7 @@ As recovery rates are negatively correlated with [default rates](../../../Financ
 
 Exhibit 16
 
- ![500](Attachments/500-24.png)
+ !500
 
 # Rating Accuracy Metrics
 
@@ -982,25 +982,25 @@ Moody’s ratings have historically proven to be effective predictors of default
 
 Exhibit 17
 
- ![500](Attachments/500-26.png)
+ !500
 
-As a valuable tool tomeasure [credit risk](../../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md),  ratings are expected to differentiate strong credits from weaker ones. In other words,  an effective rating system should not only assignlowratings to issuers that ultimately default but also assign high ratings to those that are remote to default. Ametric designed to measure this aspect of ratings performance is the [cumulative accuracy profile](Moodys%20Recovery%20Rates%202009.md) (CAP) plot as shown in Exhibit 18. A rating system that possessed no predictive information about [default risk](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/Default%20Risk%20and%20Credit%20Derivatives%20183.md) would lie on the $45^0$ line; the further the CAP curve
+As a valuable tool tomeasure credit risk,  ratings are expected to differentiate strong credits from weaker ones. In other words,  an effective rating system should not only assignlowratings to issuers that ultimately default but also assign high ratings to those that are remote to default. Ametric designed to measure this aspect of ratings performance is the cumulative accuracy profile (CAP) plot as shown in Exhibit 18. A rating system that possessed no predictive information about default risk would lie on the $45[^0]$ line; the further the CAP curve
 
 ------------------------------------------------------------------
 
 ## Corporate Default and Recovery Rates,  1920-2008
 
-Bows toward the northwest comer,  the betterit is at identifying defaults in the riskiest rating categories. Exhibi 18 shows that the CAP curvefor 2008 liesbelow the one for the 1983-2008 period,  which indicates a worse performance in 2008 relative to the historical average. The drop inrating performance in 2008 is largely the result of several [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)-grade defaults in the [banking](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) and financial sectors,  including Lehman Brothers,  Washington Mutual and three Icelandic banks.
+Bows toward the northwest comer,  the betterit is at identifying defaults in the riskiest rating categories. Exhibi 18 shows that the CAP curvefor 2008 liesbelow the one for the 1983-2008 period,  which indicates a worse performance in 2008 relative to the historical average. The drop inrating performance in 2008 is largely the result of several investment-grade defaults in the banking and financial sectors,  including Lehman Brothers,  Washington Mutual and three Icelandic banks.
 
 Exhibit 18
 
- ![500](Attachments/500-25.png)
+ !500
 
-Another way to measure rating performance is the accuracy ratio,  which is derived from the CAP curve. The accuracy ratio (AR) is the ratio of the area between the CAP curve and the $45^{\circ}$ line,  to the maximum possible area above the $45^0$ line. AR values range from minus one to positive one and a higher AR indicates better. Rating accuracy. Exhibit 19 shows both oneand five-year horizon accuracy ratios for the period of 1983-2008. The graph suggests that the one-year accuracy ratiois positively correlated with the credit cycle: when defaults increase,  the accuracy ratio falls. At the five-year horizon this correlation is much less evident. In the short run,  the stability objective of Moody's rating system dampens rating changes; at longer time horizons,  the stability objective is less of a constraint,  and accuracy increases.
+Another way to measure rating performance is the accuracy ratio,  which is derived from the CAP curve. The accuracy ratio (AR) is the ratio of the area between the CAP curve and the $45^{\circ}$ line,  to the maximum possible area above the $45[^0]$ line. AR values range from minus one to positive one and a higher AR indicates better. Rating accuracy. Exhibit 19 shows both oneand five-year horizon accuracy ratios for the period of 1983-2008. The graph suggests that the one-year accuracy ratiois positively correlated with the credit cycle: when defaults increase,  the accuracy ratio falls. At the five-year horizon this correlation is much less evident. In the short run,  the stability objective of Moody's rating system dampens rating changes; at longer time horizons,  the stability objective is less of a constraint,  and accuracy increases.
 
 Exhibit 19
 
- ![500](Attachments/500-33.png)
+ !500
 
 ------------------------------------------------------------------
 
@@ -1293,7 +1293,7 @@ Exhibit 20
 			<td>Yes</td>
 		</tr>
 		<tr>
-			<td>$\|\|$ SAAN ance R V</td>
+<td>$\ | \ | $ SAAN ance R V</td>
 			<td>siallu Natharlande</td>
 			<td>TH</td>
 			<td>410,  00. 851</td>
@@ -1683,7 +1683,7 @@ Bond
 			<td>Chapter 11</td>
 			<td> </td>
 			<td>$\$227$</td>
-			<td>$No^4$</td>
+			<td>$No[^4]$</td>
 		</tr>
 		<tr>
 			<td>Primus Telecom Mr 10 ations Group. Inc</td>
@@ -1691,7 +1691,7 @@ Bond
 			<td>Distressed exchanqe</td>
 			<td>$S 48$</td>
 			<td> </td>
-			<td>$No^3$</td>
+			<td>$No[^3]$</td>
 		</tr>
 		<tr>
 			<td>Primus Telecommunications Holding,  Inc.</td>
@@ -1723,7 +1723,7 @@ Bond
 			<td>Bankruptcy</td>
 			<td> </td>
 			<td> </td>
-			<td>$NO^4$</td>
+			<td>$NO[^4]$</td>
 		</tr>
 		<tr>
 			<td> </td>
@@ -1866,7 +1866,7 @@ Bond
 			<td>HU 10 Lates M</td>
 			<td> </td>
 			<td>41,  000 SRO</td>
-			<td>$\varphi|,  \varrho uu$</td>
+<td>$\varphi | ,  \varrho uu$</td>
 			<td>TES $v$</td>
 		</tr>
 		<tr>
@@ -1882,7 +1882,7 @@ Bond
 			<td> </td>
 			<td> </td>
 			<td>PL.</td>
-			<td>$\varphi|U$,  lJu 1</td>
+<td>$\varphi | U$,  lJu 1</td>
 			<td>165</td>
 		</tr>
 		<tr>
@@ -2008,8 +2008,8 @@ Bond
 	</tbody>
 </table>
 
-1. In millions of USD. Guaranteed debts are only added to the issuers but not to the guarantors in order to avoid double counting
-1. Only issuers included in the January 1 cohort are included in Moody's [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) 3. Primus Telecom Group and American Color Graphic initially defaulted in 2007. They are not counted as 2008 defaulters. However,  some of their debts did not default until 2008 and these debts are included in 2008's default totals. 4. The ratings for PRC and Quebecor World (USA) were withdrawn before January 1 st,  2008 while Harrah's Entertainment's initial rating was assigned in February 2008
+[^1]: In millions of USD. Guaranteed debts are only added to the issuers but not to the guarantors in order to avoid double counting
+[^1]: Only issuers included in the January 1 cohort are included in Moody's default rates 3. Primus Telecom Group and American Color Graphic initially defaulted in 2007. They are not counted as 2008 defaulters. However,  some of their debts did not default until 2008 and these debts are included in 2008's default totals. 4. The ratings for PRC and Quebecor World (USA) were withdrawn before January 1 st,  2008 while Harrah's Entertainment's initial rating was assigned in February 2008
 
 ------------------------------------------------------------------
 
@@ -2051,21 +2051,21 @@ Largest Moody's-Rated Defaults,  1920-2008
 			<td>Kaupthing Bank Hf</td>
 			<td>$\$20,  063$</td>
 			<td>2008</td>
-			<td>[Banking](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md)</td>
+			<td>Banking</td>
 			<td>lceland</td>
 		</tr>
 		<tr>
 			<td>Washington Mutual,  Inc.</td>
 			<td>$\$19,  346$</td>
 			<td>2008</td>
-			<td>[Banking](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md)</td>
+			<td>Banking</td>
 			<td>United States</td>
 		</tr>
 		<tr>
 			<td>Glitnir Banki Hf</td>
 			<td>$\$18,  773$</td>
 			<td>2008</td>
-			<td>[Banking](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md)</td>
+			<td>Banking</td>
 			<td>lceland</td>
 		</tr>
 		<tr>
@@ -2572,7 +2572,7 @@ Annual Moody's-Rated Global Corporate Issuer Default Counts,  192 o-2 o 08
 		</tr>
 	</tbody>
 </table>
-1. Includesbond and loan issuers rated asof January 1 of eachyear
+[^1]: Includesbond and loan issuers rated asof January 1 of eachyear
 
 ------------------------------------------------------------------
 
@@ -2584,7 +2584,7 @@ Annual Rated Global Corporate Bond and Loan Default Volumes,  1970-20081
 	<tbody>
 		<tr>
 			<th rowspan="2">Cohort</th>
-			<th colspan="3">[Investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Grade</th>
+			<th colspan="3">Investment Grade</th>
 			<th colspan="3">Speculative Grade</th>
 			<th colspan="3">All Ratings</th>
 		</tr>
@@ -2894,10 +2894,10 @@ Annual Rated Global Corporate Bond and Loan Default Volumes,  1970-20081
 			<td>$\varphi 1,  300$</td>
 			<td>10,  190 1 1</td>
 			<td> </td>
-			<td>$\varphi|0,  190$</td>
+<td>$\varphi | 0,  190$</td>
 			<td>1,  102</td>
 			<td>$\Phi U$</td>
-			<td>|./ H</td>
+<td> | ./ H</td>
 		</tr>
 		<tr>
 			<td>1990</td>
@@ -2939,13 +2939,13 @@ Annual Rated Global Corporate Bond and Loan Default Volumes,  1970-20081
 			<td>1991</td>
 			<td>$\varphi 1,  340$</td>
 			<td>$\Phi U$</td>
-			<td>$\varphi|,  y 40$</td>
+<td>$\varphi | ,  y 40$</td>
 			<td>14,  924 DO</td>
 			<td>3050</td>
-			<td>$\varphi|5,  \angle/4$</td>
+<td>$\varphi | 5,  \angle/4$</td>
 			<td>${\mathbf{\varphi}}10,  \angle/\angle$</td>
 			<td>500</td>
-			<td>$\varphi|b,  b$</td>
+<td>$\varphi | b,  b$</td>
 		</tr>
 		<tr>
 			<td>1992</td>
@@ -3177,11 +3177,11 @@ Annual Rated Global Corporate Bond and Loan Default Volumes,  1970-20081
 		</tr>
 	</tbody>
 </table>
-1. Millions USD; includes bond and loan issuers rated as of January 1 of each year
+[^1]: Millions USD; includes bond and loan issuers rated as of January 1 of each year
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
 ### Exhibit 24
 
@@ -3192,7 +3192,7 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 		<tr>
 			<th rowspan="2">Year</th>
 			<th colspan="5">Issuer Counts</th>
-			<th colspan="5">Dollar Volumes$^2$</th>
+			<th colspan="5">Dollar Volumes$[^2]$</th>
 		</tr>
 		<tr>
 			<th>Africa & Middle East</th>
@@ -3507,8 +3507,8 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 		</tr>
 	</tbody>
 </table>
-1. Includes bond and loan issuers rated as of January 1 of each year
-1. Millions of USD
+[^1]: Includes bond and loan issuers rated as of January 1 of each year
+[^1]: Millions of USD
 
 ------------------------------------------------------------------
 
@@ -3516,7 +3516,7 @@ Annual Issuer Default Counts and Volume Totals by Geographical Region,  1986-200
 
 Exhibit 25
 
- 2 oo 8 Defaulted Corporate Bond and Loan Recoveries 1
+[^2]: oo 8 Defaulted Corporate Bond and Loan Recoveries 1
 
 <table>
 	<tbody>
@@ -3548,7 +3548,7 @@ Exhibit 25
 		</tr>
 		<tr>
 			<td>Abitibi-Consolidated Company of Canada</td>
-			<td>[Distressed exchanges](Moodys%20Recovery%20Rates%202009.md)</td>
+			<td>Distressed exchanges</td>
 			<td> </td>
 			<td> </td>
 			<td> </td>
@@ -3779,7 +3779,7 @@ Exhibit 25
 		</tr>
 		<tr>
 			<td>French Lick Resorts&Casino,  LLC</td>
-			<td>[Distressed exchanges](Moodys%20Recovery%20Rates%202009.md)</td>
+			<td>Distressed exchanges</td>
 			<td> </td>
 			<td> </td>
 			<td> </td>
@@ -3899,7 +3899,7 @@ Exhibit 25
 			<td> </td>
 		</tr>
 		<tr>
-			<td>LUUIS $\mathbf{v}|\mathbf{C}\mathbf{e}\mathbf{S},  \mathbf{T}|\mathbf{C}.$</td>
+<td>LUUIS $\mathbf{v} | \mathbf{C}\mathbf{e}\mathbf{S},  \mathbf{T} | \mathbf{C}.$</td>
 			<td>BITE OEIAUIL 1</td>
 			<td>$0\angle. 6 U 70$</td>
 			<td>bl. 1076</td>
@@ -4145,9 +4145,9 @@ Exhibit 25
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
- 2008 Defaulted Corporate Bond and Loan Recoveries
+[^2008]: Defaulted Corporate Bond and Loan Recoveries
 
 <table>
 	<tbody>
@@ -4752,11 +4752,11 @@ Corporate [Default and Recovery Rates](.md),  1920-2008
 	</tbody>
 </table>
 
-1. Based on 30-day post default
+[^1]: Based on 30-day post default
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
 Exhibit 26
 
@@ -5048,12 +5048,12 @@ Exhibit 26
 	</tbody>
 </table>
 
-1. Issuer-weighted,  based on 30-day post-default market prices.
-1. Second-lien loans excluded
+[^1]: Issuer-weighted,  based on 30-day post-default market prices.
+[^1]: Second-lien loans excluded
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
 Exhibit 27
 
@@ -5072,7 +5072,7 @@ Average Sr. Unsecured Bond Recovery Rates by Year Prior to Default,  1982-20081
 		<tr>
 			<td>Aaa</td>
 			<td>$n.a.$</td>
-			<td>$3.33\%^2$</td>
+			<td>$3.33\%[^2]$</td>
 			<td>$n.a.$</td>
 			<td>$97.00\%$</td>
 			<td>85.55%</td>
@@ -5126,7 +5126,7 @@ Average Sr. Unsecured Bond Recovery Rates by Year Prior to Default,  1982-20081
 			<td>$41.94\%$</td>
 		</tr>
 		<tr>
-			<td>[Investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)-Grade</td>
+			<td>Investment-Grade</td>
 			<td>$42.05\%$</td>
 			<td>$44.23\%$</td>
 			<td>$44.24\%$</td>
@@ -5151,12 +5151,12 @@ Average Sr. Unsecured Bond Recovery Rates by Year Prior to Default,  1982-20081
 		</tr>
 	</tbody>
 </table>
-1. Issuer-weighted,  based on 30-day post default market prices.
-1. Based on three Icelandic bank defaults.
+[^1]: Issuer-weighted,  based on 30-day post default market prices.
+[^1]: Based on three Icelandic bank defaults.
 
 ## Exhibit 28
 
-Average Cumulative [Credit Loss](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) Rates by Letter Rating,  1982-20081
+Average Cumulative Credit Loss Rates by Letter Rating,  1982-20081
 
 <table>
 	<tbody>
@@ -5225,7 +5225,7 @@ Average Cumulative [Credit Loss](../../../Financial%20Markets/Fixed%20Income%20S
 			<td>26.70%</td>
 		</tr>
 		<tr>
-			<td>[Investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Grade</td>
+			<td>Investment Grade</td>
 			<td>$0.04\%$</td>
 			<td>$0.13\%$</td>
 			<td>$0.24\%$</td>
@@ -5250,15 +5250,15 @@ Average Cumulative [Credit Loss](../../../Financial%20Markets/Fixed%20Income%20S
 		</tr>
 	</tbody>
 </table>
-1. Based on average [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) and senior unsecured bond recoveries measured on issuer-weighted basis.
+[^1]: Based on average default rates and senior unsecured bond recoveries measured on issuer-weighted basis.
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
 Exhibit 29
 
-Average Annual [Credit Loss](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) Rates by Letter Rating,  1982-20081
+Average Annual Credit Loss Rates by Letter Rating,  1982-20081
 
 <table>
 	<tbody>
@@ -5667,15 +5667,15 @@ Average Annual [Credit Loss](../../../Financial%20Markets/Fixed%20Income%20Secur
 		</tr>
 	</tbody>
 </table>
-1. Data in percent and based on issuer-weighted average [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) and issuer-weighted average senior unsecured bond recovery rates.
+[^1]: Data in percent and based on issuer-weighted average default rates and issuer-weighted average senior unsecured bond recovery rates.
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
 ### Exhibit 30
 
-2 o 08 One-Year Letter Rating Migration Ratesi
+[^2]: o 08 One-Year Letter Rating Migration Ratesi
 
 <table>
 	<tbody>
@@ -6173,15 +6173,15 @@ Exhibit 33
 		</tr>
 	</tbody>
 </table>
-1. Data in percent. Average migration rates in Exhibit 31-33 are calculated using monthly cohort frequency.
+[^1]: Data in percent. Average migration rates in Exhibit 31-33 are calculated using monthly cohort frequency.
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
 Exhibit 34
 
-2 oo 8 One-Year Alphanumeric Rating Migration Rates 1
+[^2]: oo 8 One-Year Alphanumeric Rating Migration Rates 1
 
 <table>
 	<tbody>
@@ -7246,13 +7246,13 @@ Average One-Year Alphanumeric Rating Migration Rates,  1983-20081
 		</tr>
 	</tbody>
 </table>
-1. Data in percent. Average migrafion rafes in Exhibir 35 are ca/cufated using monthly cohort frequency
+[^1]: Data in percent. Average migrafion rafes in Exhibir 35 are ca/cufated using monthly cohort frequency
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
-Exhibit 36 Annual Issuer-Weighted [Corporate Default Rates](Moodys%20Recovery%20Rates%202009.md) by Letter Rating,  1920-20081
+Exhibit 36 Annual Issuer-Weighted Corporate Default Rates by Letter Rating,  1920-20081
 
 <table>
 	<tbody>
@@ -7721,7 +7721,7 @@ Exhibit 36 Annual Issuer-Weighted [Corporate Default Rates](Moodys%20Recovery%20
 			<td>U.UUU</td>
 			<td>U.UUU</td>
 			<td>U0.\1</td>
-			<td>$|.|U|$ </td>
+<td>$ | . | U | $ </td>
 			<td>$U.b 31$</td>
 			<td>$by/$ M</td>
 			<td>$y0.\1 U$</td>
@@ -7735,7 +7735,7 @@ Exhibit 36 Annual Issuer-Weighted [Corporate Default Rates](Moodys%20Recovery%20
 			<td>$\angle./83$</td>
 			<td>2.299</td>
 			<td>$\angle 3.01.$</td>
-			<td>$U.Z|Z$</td>
+<td>$U.Z | Z$</td>
 			<td>3.5/1</td>
 			<td>1.036</td>
 		</tr>
@@ -8401,7 +8401,7 @@ Exhibit 36 Annual Issuer-Weighted [Corporate Default Rates](Moodys%20Recovery%20
 			<td>$U.u$ T</td>
 			<td>0.381</td>
 			<td>0.832</td>
-			<td>||. 489</td>
+<td> |  | . 489</td>
 			<td>U.UU</td>
 			<td>2.34 b</td>
 			<td>U0.\1.</td>
@@ -8591,15 +8591,15 @@ Exhibit 36 Annual Issuer-Weighted [Corporate Default Rates](Moodys%20Recovery%20
 	</tbody>
 </table>
 
-0.01.5798.424
+[^0]: 01.5798.424
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
 Exhibit 37
 
-Annual Issuer-Weighted [Corporate Default Rates](Moodys%20Recovery%20Rates%202009.md) by Alphanumeric Rating,  1983-2008
+Annual Issuer-Weighted Corporate Default Rates by Alphanumeric Rating,  1983-2008
 
 <table>
 	<tbody>
@@ -9059,12 +9059,12 @@ Annual Issuer-Weighted [Corporate Default Rates](Moodys%20Recovery%20Rates%20200
 			<td>312</td>
 			<td>U.UUU H</td>
 			<td>$\angle\angle DE$</td>
-			<td>$|. LLU$</td>
+<td>$ | . LLU$</td>
 			<td>$1\angle D$</td>
 			<td>U0.\1</td>
 			<td>4.000</td>
 			<td>4.000</td>
-			<td>|. 0 1</td>
+<td> | . 0 1</td>
 			<td>20.007</td>
 			<td>10.00.</td>
 			<td>V.U.UO</td>
@@ -9489,14 +9489,14 @@ Annual Issuer-Weighted [Corporate Default Rates](Moodys%20Recovery%20Rates%20200
 		</tr>
 	</tbody>
 </table>
-1. Data inpercent. Includes bond and loan issuersrated as of January 1 of eachyear.
-1. Moody's introduced alphanumerically modified Caa ratings in 1997. Caa letter ratings are mapped to Caa 2 prior to 1997.
+[^1]: Data inpercent. Includes bond and loan issuersrated as of January 1 of eachyear.
+[^1]: Moody's introduced alphanumerically modified Caa ratings in 1997. Caa letter ratings are mapped to Caa 2 prior to 1997.
 
 ------------------------------------------------------------------
 
 ### Exhibit 38
 
-Average Cumulative Issuer-Weighted Global [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md),  1920-20081
+Average Cumulative Issuer-Weighted Global Default Rates,  1920-20081
 
 <table>
 	<tbody>
@@ -9793,11 +9793,11 @@ Average Cumulative Issuer-Weighted Global [Default Rates](../../../Financial%20M
 		</tr>
 	</tbody>
 </table>
-1. Data in percent. Average cumulative [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) are calculated using monthly cohort frequency.
+[^1]: Data in percent. Average cumulative default rates are calculated using monthly cohort frequency.
 
 ### Exhibit 39
 
-Average Cumulative Issuer-Weighted Global [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md),  1970-20081
+Average Cumulative Issuer-Weighted Global Default Rates,  1970-20081
 
 <table>
 	<tbody>
@@ -10094,15 +10094,15 @@ Average Cumulative Issuer-Weighted Global [Default Rates](../../../Financial%20M
 		</tr>
 	</tbody>
 </table>
-1. Data in percent. Average cumulative [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) are calculated using monthly cohort frequency
+[^1]: Data in percent. Average cumulative default rates are calculated using monthly cohort frequency
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
 ### Exhibit 40
 
-Average Cumulative Issuer-Weighted Global [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md),  1983-20081
+Average Cumulative Issuer-Weighted Global Default Rates,  1983-20081
 
 <table>
 	<tbody>
@@ -10425,13 +10425,13 @@ Average Cumulative Issuer-Weighted Global [Default Rates](../../../Financial%20M
 		</tr>
 	</tbody>
 </table>
-1. Data in percent. Average cumulative [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) are calculated using monthly cohort frequency.
+[^1]: Data in percent. Average cumulative default rates are calculated using monthly cohort frequency.
 
 ------------------------------------------------------------------
 
 ### Exhibit 41
 
-Average Cumulative Issuer-Weighted Global [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) by Alphanumeric Rating,  1983-2008
+Average Cumulative Issuer-Weighted Global Default Rates by Alphanumeric Rating,  1983-2008
 
 <table>
 	<tbody>
@@ -10670,7 +10670,7 @@ Average Cumulative Issuer-Weighted Global [Default Rates](../../../Financial%20M
 			<td>62.344</td>
 		</tr>
 		<tr>
-			<td>$Caa 2^2$</td>
+			<td>$Caa 2[^2]$</td>
 			<td>16.388</td>
 			<td>25.807</td>
 			<td>32.990</td>
@@ -10709,7 +10709,7 @@ Average Cumulative Issuer-Weighted Global [Default Rates](../../../Financial%20M
 			<td>74.990</td>
 		</tr>
 		<tr>
-			<td>[Investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)-Grade</td>
+			<td>Investment-Grade</td>
 			<td>0.072</td>
 			<td>0.229</td>
 			<td>0.436</td>
@@ -10987,7 +10987,7 @@ Average Cumulative Issuer-Weighted Global [Default Rates](../../../Financial%20M
 			<td> </td>
 		</tr>
 		<tr>
-			<td>$Caa 2^2$</td>
+			<td>$Caa 2[^2]$</td>
 			<td>65.577</td>
 			<td>65.577</td>
 			<td>68.127</td>
@@ -11026,7 +11026,7 @@ Average Cumulative Issuer-Weighted Global [Default Rates](../../../Financial%20M
 			<td> </td>
 		</tr>
 		<tr>
-			<td>[Investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)-Grade</td>
+			<td>Investment-Grade</td>
 			<td>2.230</td>
 			<td>2.470</td>
 			<td>2.766</td>
@@ -11066,16 +11066,16 @@ Average Cumulative Issuer-Weighted Global [Default Rates](../../../Financial%20M
 		</tr>
 	</tbody>
 </table>
-1. Data in percent. Average cumulative [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) are calculated using monthly cohort frequency
-1. Moody's introduced alphanumerically modified Caa ratings in 1997. Caa letter ratings are mapped to Caa 2 prior to 1997
+[^1]: Data in percent. Average cumulative default rates are calculated using monthly cohort frequency
+[^1]: Moody's introduced alphanumerically modified Caa ratings in 1997. Caa letter ratings are mapped to Caa 2 prior to 1997
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
 Exhibit 42
 
-Average Cumulative Issuer-Weighted Global [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) by Alphanumeric Rating,  1998-2008
+Average Cumulative Issuer-Weighted Global Default Rates by Alphanumeric Rating,  1998-2008
 
 <table>
 	<tbody>
@@ -11353,7 +11353,7 @@ Average Cumulative Issuer-Weighted Global [Default Rates](../../../Financial%20M
 			<td> </td>
 		</tr>
 		<tr>
-			<td>[Investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)-Grade</td>
+			<td>Investment-Grade</td>
 			<td>0.103</td>
 			<td>0.287</td>
 			<td>0.503</td>
@@ -11393,11 +11393,11 @@ Average Cumulative Issuer-Weighted Global [Default Rates](../../../Financial%20M
 		</tr>
 	</tbody>
 </table>
-1. Data in percent. Average cumulative [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) are calculated using monthly cohort frequency.
+[^1]: Data in percent. Average cumulative default rates are calculated using monthly cohort frequency.
 
 Exhibit 43
 
- Average Cumulative Issuer-Weighted [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) by Broad Industry Group,  1970-20081
+ Average Cumulative Issuer-Weighted Default Rates by Broad Industry Group,  1970-20081
 
 <table>
 	<tbody>
@@ -11415,7 +11415,7 @@ Exhibit 43
 			<th>Year 10</th>
 		</tr>
 		<tr>
-			<td>[Banking](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md)</td>
+			<td>Banking</td>
 			<td>0.332</td>
 			<td>0.714</td>
 			<td>1.112</td>
@@ -11559,7 +11559,7 @@ Exhibit 43
 		</tr>
 	</tbody>
 </table>
-1. Percent of allrated issuers in each industry group.
+[^1]: Percent of allrated issuers in each industry group.
 
 ------------------------------------------------------------------
 
@@ -11567,13 +11567,13 @@ Exhibit 43
 
 Exhibit 44
 
-Annual [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) by Broad Industry Groups,  1970-20081
+Annual Default Rates by Broad Industry Groups,  1970-20081
 
 <table>
 	<tbody>
 		<tr>
 			<th>Year</th>
-			<th>[Banking](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md)</th>
+			<th>Banking</th>
 			<th>Capital Industries</th>
 			<th>Consumer Industries</th>
 			<th>Energy 8 Environment</th>
@@ -11971,7 +11971,7 @@ Annual [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%
 			<td>$1.\angle 90$</td>
 			<td>$0.48 y$</td>
 			<td>5.21/</td>
-			<td>$y0.\1|y$</td>
+<td>$y0.\1 | y$</td>
 			<td>0.000</td>
 			<td>1.610</td>
 			<td>8.911</td>
@@ -12231,15 +12231,15 @@ Annual [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%
 		</tr>
 	</tbody>
 </table>
-1. Percent of allrated issuers in each industry group.
+[^1]: Percent of allrated issuers in each industry group.
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
 Exhibit 45
 
-Annual Volume-Weighted [Corporate Default Rates](Moodys%20Recovery%20Rates%202009.md) by Letter Rating,  1994-20081
+Annual Volume-Weighted Corporate Default Rates by Letter Rating,  1994-20081
 
 <table>
 	<tbody>
@@ -12518,7 +12518,7 @@ Annual Volume-Weighted [Corporate Default Rates](Moodys%20Recovery%20Rates%20200
 		</tr>
 	</tbody>
 </table>
-1. Data in percent. Includes bond and loan issuers rated as of January 1 of each year.
+[^1]: Data in percent. Includes bond and loan issuers rated as of January 1 of each year.
 
 Exhibit 46
 
@@ -12591,7 +12591,7 @@ Average Volume-Weighted Corporate Default. Rates by Letter Rating,  1994-20081
 			<td>39.561</td>
 		</tr>
 		<tr>
-			<td>[Investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)-Grade</td>
+			<td>Investment-Grade</td>
 			<td>0.255</td>
 			<td>0.546</td>
 			<td>0.780</td>
@@ -12617,15 +12617,15 @@ Average Volume-Weighted Corporate Default. Rates by Letter Rating,  1994-20081
 	</tbody>
 </table>
 
-1. Data in percent. Cumulative [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) are calculated using monthly cohort frequency
+[^1]: Data in percent. Cumulative default rates are calculated using monthly cohort frequency
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
 Exhibit 47
 
-Cumulative Issuer-Weighted [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) by Annual Cohort,  1970-20081 Cohort formed 1/1/1970
+Cumulative Issuer-Weighted Default Rates by Annual Cohort,  1970-20081 Cohort formed 1/1/1970
 
 <table>
 	<tbody>
@@ -13429,9 +13429,9 @@ Cohort formed 1/1/1972
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
-Cumulative Issuer-Weighted [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) by Annual Cohort,  1970-2 o 08 (continued)
+Cumulative Issuer-Weighted Default Rates by Annual Cohort,  1970-2 o 08 (continued)
 
 Cohort formed 1/1/1973
 
@@ -14248,9 +14248,9 @@ Cohort formed 1/1/1975
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
-Cumulative Issuer-Weighted [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) by Annual Cohort,  1970-2 o 08 (continued)
+Cumulative Issuer-Weighted Default Rates by Annual Cohort,  1970-2 o 08 (continued)
 
 Cohort formed 1/1/1976
 
@@ -15067,9 +15067,9 @@ Cohort formed 1/1/1978
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
-Cumulative Issuer-Weighted [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) by Annual Cohort,  1970-2 o 08 (continued)
+Cumulative Issuer-Weighted Default Rates by Annual Cohort,  1970-2 o 08 (continued)
 
 Cohort formed 1/1/1979
 
@@ -15875,9 +15875,9 @@ Cohort formed 1/1/1981
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
-Cumulative Issuer-Weighted [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) by Annual Cohort,  1970-2 o 08 (continued)
+Cumulative Issuer-Weighted Default Rates by Annual Cohort,  1970-2 o 08 (continued)
 
 Cohort formed 1/1/1982
 
@@ -16672,9 +16672,9 @@ Cohort formed 1/1/1984
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
-Cumulative Issuer-Weighted [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) by Annual Cohort,  1970-2 o 08 (continued)
+Cumulative Issuer-Weighted Default Rates by Annual Cohort,  1970-2 o 08 (continued)
 
 Cohort formed 1/1/1985
 
@@ -17480,9 +17480,9 @@ Cohort formed 1/1/1987
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
-Cumulative Issuer-Weighted [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) by Annual Cohort,  1970-2 o 08 (continued)
+Cumulative Issuer-Weighted Default Rates by Annual Cohort,  1970-2 o 08 (continued)
 
 Cohort formed 1/1/1988
 
@@ -18288,9 +18288,9 @@ Cohort formed 1/1/1990
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
-Cumulative Issuer-Weighted [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) by Annual Cohort,  1970-2008 (continued)
+Cumulative Issuer-Weighted Default Rates by Annual Cohort,  1970-2008 (continued)
 
 Cohort formed 1/1/1991
 
@@ -19085,9 +19085,9 @@ Cohort formed 1/1/1993
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
-Cumulative Issuer-Weighted [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) by Annual Cohort. 1970-2 oo 8 (continued)
+Cumulative Issuer-Weighted Default Rates by Annual Cohort. 1970-2 oo 8 (continued)
 
 Cohort formed 1/1/1994
 
@@ -19761,9 +19761,9 @@ Cohort formed 1/1/1996
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
-Cumulative Issuer-Weighted [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) by Annual Cohort,  1970-2 o 08 (continued)
+Cumulative Issuer-Weighted Default Rates by Annual Cohort,  1970-2 o 08 (continued)
 
 Cohort formed 1/1/1997
 
@@ -20382,9 +20382,9 @@ Cohort formed 1/1/1999
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
- Cumulative Issuer-Weighted [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) by Annual Cohort. 1970-2 oo 8 (continued)
+ Cumulative Issuer-Weighted Default Rates by Annual Cohort. 1970-2 oo 8 (continued)
 
 Cohort formed 1/1/2000
 
@@ -20838,9 +20838,9 @@ Cohort formed 1/1/2002
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
-Cumulative Issuer-Weighted [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) by Annual Cohort,  1970-2008 (continued)
+Cumulative Issuer-Weighted Default Rates by Annual Cohort,  1970-2008 (continued)
 
 Cohort formed 1/1/2003
 
@@ -21184,9 +21184,9 @@ Cohort formed 1/1/2005
 
 ------------------------------------------------------------------
 
-Corporate [Default and Recovery Rates](.md),  1920-2008
+Corporate Default and Recovery Rates,  1920-2008
 
-Cumulative Issuer-Weighted [Default Rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) by Annual Cohort,  1970-2 oo 8 (continued)
+Cumulative Issuer-Weighted Default Rates by Annual Cohort,  1970-2 oo 8 (continued)
 
 Cohort formed 1/1/2006
 
@@ -21429,7 +21429,7 @@ Cohort formed 1/1/2008
 	</tbody>
 </table>
 
-1. Data in percent
+[^1]: Data in percent
 
 ------------------------------------------------------------------
 
@@ -21437,16 +21437,16 @@ Cohort formed 1/1/2008
 
 In this section we briefly describe theinterpretation of some of the Exhibits contained in thisreport Methodological details are discussed in separate sections below.
 
-Exhibit 11 presents Moody's [speculative-grade default rate](.md) forecast for 2009. The model generated point forecasts for each month are shown,  as well as forecasted optimistic and pessmistic bounds. The pessimistic and optimistic bounds represent positive and negative economic scenarios for the U.S. unemployment rate and highyield spread.
+Exhibit 11 presents Moody's speculative-grade default rate forecast for 2009. The model generated point forecasts for each month are shown,  as well as forecasted optimistic and pessmistic bounds. The pessimistic and optimistic bounds represent positive and negative economic scenarios for the U.S. unemployment rate and highyield spread.
 
 Exhibit 17 was derived bymapping Moody'sratings to a linear scale,  then taking the average and median values of the numerically mapped ratings
 
-Exhibit 27 shows average senior unsecured recovery rates by letter rating and year prior to default. Each cell in the table indicates the average [recovery rate](../../../Credit%20Markets/Credit%20Markets%20Session%203.md) on senior unsecured bonds with a specific rating within T years of default. For example,  the $35.4\%$ two-year B [recovery rate](../../../Credit%20Markets/Credit%20Markets%20Session%203.md) reported in Exhibit 27 indicates that the average [recovery rate](../../../Credit%20Markets/Credit%20Markets%20Session%203.md) on B rated issues that default at some time within a two-year period,  not mean [recovery rate](../../../Credit%20Markets/Credit%20Markets%20Session%203.md) for issuers rated B exactly two years before default. 11 Together with issuer-weighted average cumulative default. Rates,  these multi-period recovery estimates are use to calculate cumulative expected [credit loss](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) rates,  as presented in Exhibit 28
+Exhibit 27 shows average senior unsecured recovery rates by letter rating and year prior to default. Each cell in the table indicates the average recovery rate on senior unsecured bonds with a specific rating within T years of default. For example,  the $35.4\%$ two-year B recovery rate reported in Exhibit 27 indicates that the average recovery rate on B rated issues that default at some time within a two-year period,  not mean recovery rate for issuers rated B exactly two years before default. 11 Together with issuer-weighted average cumulative default. Rates,  these multi-period recovery estimates are use to calculate cumulative expected credit loss rates,  as presented in Exhibit 28
 
- Exhibits 38 through 42 show issuer-weighted historical average [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) by rating category over various [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) horizons. These data were generated by averaging the multi-year [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) of cohorts formed at monthly intervals. In addition to being statements of historical fact,  these data are also useful proxies for expected [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md). For example,  over a five-year period a [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of B-rated issuers defaulted at a $24.5\%$ average rate between 1983 and 2008 (see Exhibit 40). For an investor with a five-year exposure to a B-rated debt obligation or counterparty,  this estimate also happens to be the best estimate of the expected risk of default for a B-rated exposure based on the available historical data,  particularly over long [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) horizons
+ Exhibits 38 through 42 show issuer-weighted historical average default rates by rating category over various investment horizons. These data were generated by averaging the multi-year default rates of cohorts formed at monthly intervals. In addition to being statements of historical fact,  these data are also useful proxies for expected default rates. For example,  over a five-year period a portfolio of B-rated issuers defaulted at a $24.5\%$ average rate between 1983 and 2008 (see Exhibit 40). For an investor with a five-year exposure to a B-rated debt obligation or counterparty,  this estimate also happens to be the best estimate of the expected risk of default for a B-rated exposure based on the available historical data,  particularly over long investment horizons
 
-Exhibit 46 shows average cumulative volume-weighted [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) by rating category. Whereas issuer-basec. [Default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) weight each issuer equally,  these data weight each issuer by the total volume of defaulted debt; larger defaults receive relatively more weight. Average [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) based on debt volume affected are less suitable estimates of expected [default risk](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%207%20-%20Default%20Risk%20and%20Credit%20Derivatives/Default%20Risk%20and%20Credit%20Derivatives%20183.md). One reason is that issuer default volumes vary considerably over time. On average,  a leveraged corporate issuer defaults on approximately $\$300$ million of bonds. However that total can be very high (e.g. $\$30$ billion for WorldCom). Issuer-based [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) receive particular. Emphasis in the rating process because the expected likelihood of default of a debt issuer holding a given rating is expected be the sameregardlessof differencesin the nominalsizes of the exposures
+Exhibit 46 shows average cumulative volume-weighted default rates by rating category. Whereas issuer-basec. Default rates weight each issuer equally,  these data weight each issuer by the total volume of defaulted debt; larger defaults receive relatively more weight. Average default rates based on debt volume affected are less suitable estimates of expected default risk. One reason is that issuer default volumes vary considerably over time. On average,  a leveraged corporate issuer defaults on approximately $\$300$ million of bonds. However that total can be very high (e.g. $\$30$ billion for WorldCom). Issuer-based default rates receive particular. Emphasis in the rating process because the expected likelihood of default of a debt issuer holding a given rating is expected be the sameregardlessof differencesin the nominalsizes of the exposures
 
-Exhibit 47 shows the cumulative issuer-weighted historical [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) of cohorts formed at annual intervals between theyears 1970 and 2008 (January 1 of each year). These data are a subset of the data used to calculate the issuer-weighted averages shown in Exhibits 38 through 40 (which,  again,  are based on cohorts formed at monthly time intervals). The [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) in Exhibit 47 maybe useful for [scenario analysis](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%204%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%204%20Valuing%20Young%20and%20High‐Growth%20Companies.md). For example,  if one believed that future [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) for a given pool of issuers will behave as they did in,  say,  1997,  then one can use the January 1,  1997 cohort cumulative [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md) as proxies for expected [default rates](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md).
+Exhibit 47 shows the cumulative issuer-weighted historical default rates of cohorts formed at annual intervals between theyears 1970 and 2008 (January 1 of each year). These data are a subset of the data used to calculate the issuer-weighted averages shown in Exhibits 38 through 40 (which,  again,  are based on cohorts formed at monthly time intervals). The default rates in Exhibit 47 maybe useful for scenario analysis. For example,  if one believed that future default rates for a given pool of issuers will behave as they did in,  say,  1997,  then one can use the January 1,  1997 cohort cumulative default rates as proxies for expected default rates.
 
 (More pages,  please download the Markdown source code file to view)

@@ -22,17 +22,17 @@ key_concepts:
 
 ### Introduction
 
-Once we have understood the one-period [binomial model](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%204-Multiperiod%20Binomial%20Trees/Binomial%20Option%20Pricing.md),  it is very easy to extend the model to two or more periods so that [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) with maturity in two or more periods can be examined. We will later show that using the [binomial model](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%204-Multiperiod%20Binomial%20Trees/Binomial%20Option%20Pricing.md) can produce a very good approximation when it is extended to a sufficiently great number of periods. In these notes,  we consider how to extend the [binomial model](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%204-Multiperiod%20Binomial%20Trees/Binomial%20Option%20Pricing.md) to more than two periods. This is relatively straightforward but requires the use of the [binomial coefficients](.md).
+Once we have understood the one-period binomial model,  it is very easy to extend the model to two or more periods so that derivatives with maturity in two or more periods can be examined. We will later show that using the binomial model can produce a very good approximation when it is extended to a sufficiently great number of periods. In these notes,  we consider how to extend the binomial model to more than two periods. This is relatively straightforward but requires the use of the binomial coefficients.
 
 Reading: Hull Chapter 11.
 
 ### The Two-Period Model
 
-The [binomial model](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%204-Multiperiod%20Binomial%20Trees/Binomial%20Option%20Pricing.md) is extended by adding new branches of the tree after each node. Proceeding in the same way as with the [one-period model](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) after each node,  the price of the [underlying asset](Risk%20Neutral%20Pricing%20of%20Options.md) either increases by a factor of $u$ or decreases by a factor $d$. 1 Thus,  whether the value of the underlying after two periods is either $(1+u)^{2}S$ if the stock has gone up in two successive periods,  $(1+d)^{2}S$ if the stock has gone down in two successive periods,  $(1+u)(1+d) S$ if the stock first went up and then went down,  or $(1+d)(1+u) S$ if the stock went down and then went up in the second period. Since $(1+u)(1+d)=$ $(1+d)(1+u)$,  the value of the stock is the same whether it first went up and then down or down and then up. Thus,  the two branches of the tree recombine after two periods,  and there are only three possible values for the
+The binomial model is extended by adding new branches of the tree after each node. Proceeding in the same way as with the one-period model after each node,  the price of the underlying asset either increases by a factor of $u$ or decreases by a factor $d$. 1 Thus,  whether the value of the underlying after two periods is either $(1+u)^{2}S$ if the stock has gone up in two successive periods,  $(1+d)^{2}S$ if the stock has gone down in two successive periods,  $(1+u)(1+d) S$ if the stock first went up and then went down,  or $(1+d)(1+u) S$ if the stock went down and then went up in the second period. Since $(1+u)(1+d)=$ $(1+d)(1+u)$,  the value of the stock is the same whether it first went up and then down or down and then up. Thus,  the two branches of the tree recombine after two periods,  and there are only three possible values for the
 
-Value of the underlying after two periods. (After $7 L$ periods,  there will be $n-1$ possible ending values for the [underlying asset](Risk%20Neutral%20Pricing%20of%20Options.md) in such a recombinant tree).
+Value of the underlying after two periods. (After $7 L$ periods,  there will be $n-1$ possible ending values for the underlying asset in such a recombinant tree).
 
-The objective is to find the value of the option or derivative at the initial node of the tree. Let's consider an example with $u=0.75$,  $d$ = -0.25,  $S=100$,  $X=100$,  and $r=0.25$ and extend it to two periods. The ending values for the [underlying asset](Risk%20Neutral%20Pricing%20of%20Options.md) are 306.25,  131.25,  and 56.25. To value the call option at the initial node,  we first value the call at the final nodes and then work backward. The value of the call at the final nodes is simply 206.25,  31.25,  and 0 ,  that is,  the stock value minus the [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md). The value at the intermediate node then can be computed using the methods of [delta hedging](../Financial%20Instruments.md),  synthetic options,  or risk-neutral valuation used in the section on the [one-period model](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md). The method of risk-neutral valuation is simple because the risk-neutral probability is the same for each period as it depends only on $u$,  $d$,  and 7 that are unchanging. Taking this risk-neutral valuation method,  the value following the first up move is
+The objective is to find the value of the option or derivative at the initial node of the tree. Let's consider an example with $u=0.75$,  $d$ = -0.25,  $S=100$,  $X=100$,  and $r=0.25$ and extend it to two periods. The ending values for the underlying asset are 306.25,  131.25,  and 56.25. To value the call option at the initial node,  we first value the call at the final nodes and then work backward. The value of the call at the final nodes is simply 206.25,  31.25,  and 0 ,  that is,  the stock value minus the strike price. The value at the intermediate node then can be computed using the methods of delta hedging,  synthetic options,  or risk-neutral valuation used in the section on the one-period model. The method of risk-neutral valuation is simple because the risk-neutral probability is the same for each period as it depends only on $u$,  $d$,  and 7 that are unchanging. Taking this risk-neutral valuation method,  the value following the first up move is
 $$\frac{\frac{1}{2}(206.25+31.25)}{(1+\frac{1}{4})}=95$$
 
 And the value of the call option following a down movement in the stock is
@@ -45,7 +45,7 @@ $$\frac{\frac{1}{2}(95+\frac{25}{2})}{(1+\frac{1}{4})}=43.$$
 
 The risk-neutral valuation method also gives a very simple method of calculating the value of the option at the initial node. The risk-neutral probabiliof
 
-The probability of the stock is ${\frac{1}{2}}\times{\frac{1}{2}}={\frac{1}{4}}$ . The probability of the stock ending with a value of 131.25 is the risk-neutral probability of an up movement followed by a down movement plus the probability of a down movement followed by an up movement. Thus the risk-neutral probability for this event is ${\frac{1}{2}}\times{\frac{1}{2}}+{\frac{1}{2}}\times{\frac{1}{2}}={\frac{1}{2}}$ . Thus the value of the call option can also be evaluated directly as$(1+r)^{2}=\frac{25}{16}$)+\frac{4}{25}(31.25)}=q_{du}=\frac{8}{25})^2}=43.$$ .
+The probability of the stock is ${\frac{1}{2}}\times{\frac{1}{2}}={\frac{1}{4}}$ . The probability of the stock ending with a value of 131.25 is the risk-neutral probability of an up movement followed by a down movement plus the probability of a down movement followed by an up movement. Thus the risk-neutral probability for this event is ${\frac{1}{2}}\times{\frac{1}{2}}+{\frac{1}{2}}\times{\frac{1}{2}}={\frac{1}{2}}$ . Thus the value of the call option can also be evaluated directly as$(1+r)^{2}=\frac{25}{16}$)+\frac{4}{25}(31.25)}=q_{du}=\frac{8}{25})[^2]}=43.$$ .
 
 Likewise,  the state prices are easily calculated (by dividing the risk-neutral probabilities by $(1+r)^{2}=\frac{25}{16}$ ) to be $q_{uu}=\frac{4}{25}$：$q_{ud}=q_{du}=\frac{8}{25}$ and $q_{dd}=\frac{4}{25}$ . Thus the call value could also easily be calculated as
 
@@ -171,7 +171,7 @@ $$B_\pi (x)=\sum_{k=x}^n\binom{n}{k}a^k (1-a)^{n-k}.$$
 
 For example,  if we want to know the probability that we have two or more up states in four periods,  we have to calculate
 
-$$\begin{pmatrix}4\\2\end{pmatrix}\pi^2 (1-\pi)^2+\begin{pmatrix}4\\3\end{pmatrix}\pi^3 (1-\pi)^1+\begin{pmatrix}4\\4\end{pmatrix}\pi^4 (1-\pi)^0=6\pi^2 (1-\pi)^2+4\pi^3 (1-\pi)+\pi^4.$$
+$$\begin{pmatrix}4\\2\end{pmatrix}\pi[^2] (1-\pi)[^2]+\begin{pmatrix}4\\3\end{pmatrix}\pi[^3] (1-\pi)[^1]+\begin{pmatrix}4\\4\end{pmatrix}\pi[^4] (1-\pi)[^0]=6\pi[^2] (1-\pi)[^2]+4\pi[^3] (1-\pi)+\pi[^4].$$
 
 ### The distribution of the end values
 
@@ -193,7 +193,7 @@ Although complicated in form,  this is a very routine computation that can be ma
 		<tr>
 			<td>$S_0 U^{n}D^{0}$ $n$</td>
 			<td>$n$ ups and 0 downs</td>
-			<td>$\pi^n (1 - p)^0$</td>
+			<td>$\pi^n (1 - p)[^0]$</td>
 		</tr>
 		<tr>
 			<td>$S_{0}U^{n-1}$ ${}^{1}D^{1}$ $r 2$</td>
@@ -241,13 +241,13 @@ Using risk-neutral valuation,  the price of the call which matures in $T$ period
 
 Where $\frac{1}{R^n}\left (\sum_{k=0}^n\binom{n}{k}\rho= (R-D)^{n-k}\max[S_0 U^kD^{n-k}-X,  0]\right)$$
 
-Thus,  given the [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) $\rho=(R-D)/(U-D)$,  the [time to maturity](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) $7 t$,  and the [risk-free interest rate](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) Thus,  are the call value. Let $JL$ denote the time to be taken for the terminal value $7 t$,  and the [risk-free interest rate](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) $ 7$,  it is possible to be greater than the call value.
+Thus,  given the strike price $\rho=(R-D)/(U-D)$,  the time to maturity $7 t$,  and the risk-free interest rate Thus,  are the call value. Let $JL$ denote the time to be taken for the terminal value $7 t$,  and the risk-free interest rate $ 7$,  it is possible to be greater than the call value.
 
-Then,  the minimum number of up branches that need to be taken for the terminal value $S_{0}U^{x}D^{n-x}$ to be greater than the [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) $X$. Then,  the above formula can be rewritten as
+Then,  the minimum number of up branches that need to be taken for the terminal value $S_{0}U^{x}D^{n-x}$ to be greater than the strike price $X$. Then,  the above formula can be rewritten as
 $$c_0=S_0\sum_{k=x}^n\begin{pmatrix}n\\k\end{pmatrix}\rho^k (1-\rho)^{n-k}\frac{U^k}{R^k}\frac{D^{n-k}}{R^{n-k}}-\frac{X}{R^n}\sum_{k=0}^n\begin{pmatrix}n\\k\end{pmatrix}\rho^k (1-\rho)^{n-k}.$$
 
-Remember that $B_{\pi}(x)$ denotes the probability that the [binomial](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) random variable with parameter 71 has at least $2 L$ up-states after $Tl$ periods. Letting
-$iL$ be the number of “up-states"such that the end value of the stock is at least the [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) $X$,  the call option price can be written more simply as
+Remember that $B_{\pi}(x)$ denotes the probability that the binomial random variable with parameter 71 has at least $2 L$ up-states after $Tl$ periods. Letting
+$iL$ be the number of “up-states"such that the end value of the stock is at least the strike price $X$,  the call option price can be written more simply as
 $$c_0=S_0 B_s (x)-\frac{X}{R^n}B_\rho (x)$$
 
 Where $s=\rho U/R$. This follows since
@@ -256,12 +256,12 @@ $$\begin{aligned}
 &=\frac{(U-D) R-(R-D) U}{(U-D) R}=\frac{D}{R}\frac{(U-R)}{(U-D)}=\frac{D}{R}\rho.
 \end{aligned}$$
 
-This is really exactly the same as in the [one-period model](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md). To see,    suppose for simplicity that the call has a positive value in the up state so $x=1$ and $n=1$. Then we have seen that the value of the call in the [one-period model](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) is$$c_0=\frac{1}{R}\rho (US_0-X)=S_0\rho\frac{U}{R}-\frac{X}{R}\rho=sS_0-\rho\frac{X}{R}.$$
+This is really exactly the same as in the one-period model. To see,    suppose for simplicity that the call has a positive value in the up state so $x=1$ and $n=1$. Then we have seen that the value of the call in the one-period model is$$c_0=\frac{1}{R}\rho (US_0-X)=S_0\rho\frac{U}{R}-\frac{X}{R}\rho=sS_0-\rho\frac{X}{R}.$$
 
 Likewise,    using the formula for replicating the call,    we have
 $$\Delta=\frac{US_0-X}{(U-D) S_0}\quad\text{and}\quad B=-\frac{D}{R}\frac{US_0-X}{(U-D)}.$$
 
-Therefore,    the value of the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) is
+Therefore,    the value of the replicating portfolio is
 $$\Delta S_0+B=\frac{US_0-X}{(U-D)}-\frac{D}{R}\frac{US_0-X}{(U-D)}$$
 
 Which can be rewritten as
@@ -271,11 +271,11 @@ $$\Delta S_{0}+B=\frac{1}{R}\left (\frac{US_{0}(R-D)}{(U-D)}-X\frac{(R-D)}{(U-D)
 
 A four-period example is illustrated in Figure 1. The example is the same as before with $u=0.75$,    $d=-0.25$,    $S=100$,    $X=100$,    and $r=0.25$ but
 
-extended over four periods. The upper diagram shows the [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) in all possible cases,    the middle diagram the call price,    and the lower diagram the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of $\Delta$ units of the stock and borrowing a certain amount of the [risk-free asset](../../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md).
+extended over four periods. The upper diagram shows the stock price in all possible cases,    the middle diagram the call price,    and the lower diagram the replicating portfolio of $\Delta$ units of the stock and borrowing a certain amount of the risk-free asset.
 
-As can be seen,    the amount of stock required and the amount borrowed in order to replicate the call change over time. Thus,    the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) is dynamic,    and it is necessary to reoptimise the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) every period. It is,    however,    true that the change in the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) required is self-financing. That is,    the proceeds from the sale of the old [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) are just that required to buy the new [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) at every node of the tree.
+As can be seen,    the amount of stock required and the amount borrowed in order to replicate the call change over time. Thus,    the replicating portfolio is dynamic,    and it is necessary to reoptimise the portfolio every period. It is,    however,    true that the change in the portfolio required is self-financing. That is,    the proceeds from the sale of the old portfolio are just that required to buy the new portfolio at every node of the tree.
 
-Exercise: Check that the [replicating portfolio](Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) is self-financing.
+Exercise: Check that the replicating portfolio is self-financing.
 
 ## Arithmetic and geometric rates of return
 
@@ -285,13 +285,13 @@ Suppose we have an asset worth 100 and for two successive periods it increases b
 
 Now suppose that instead the asset increases in the first period by $30\%$ and in the second period by $10\%$. The average or arithmetic mean of the
 
-Return is $20\%$. However,    the value of the asset is 130 at the end of the first period and 143 at the end of the second period. The variability of the return has meant that the asset is worth less after two periods even though the average return is the same. We can calculate the equivalent per-period return that would give the same value of 143 after two periods if there were no variance in the [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md). That is the value $V$ that satisfies
-$$143=100 (1+\nu)^2.$$
+Return is $20\%$. However,    the value of the asset is 130 at the end of the first period and 143 at the end of the second period. The variability of the return has meant that the asset is worth less after two periods even though the average return is the same. We can calculate the equivalent per-period return that would give the same value of 143 after two periods if there were no variance in the returns. That is the value $V$ that satisfies
+$$143=100 (1+\nu)[^2].$$
 
 This value is known as the geometric mean. It is another measure of the average return over the two periods. Solving this equation gives the geometric mean as $\nu=0.195826$ or 19.58% per period? Which is less than the arithmetic rate of return per period.
 
-There is a simple relationship between the [arithmetic mean return](Arithmetic%20and%20Geometric%20Rates%20of%20Return.md),    the [geometric mean return](Arithmetic%20and%20Geometric%20Rates%20of%20Return.md),    and the variance of the return. Let $\mu_{1}=\mu+\sigma$ be the rate of return in the first period and let $\mu_{2}=\mu-\sigma$ be the rate of return in the second period. Here,    the average rate of return is $=\frac{1}{2}(\mu_{1}+\mu_{2})=\mu$ and the variance of the two rates is $\sigma^{2}$. The geometric rate of return $\mu$ satisfies $(1+\nu)^{2}=(1+\mu_{1})(1+\mu_{2})$. Substituting and expanding this gives
-$$1+2\nu+\nu^2=(1+\mu+\sigma)(1+\mu-\sigma)=(1+\mu)^2-\sigma^2=1+2\mu+\mu^2-\sigma^2$$
+There is a simple relationship between the arithmetic mean return,    the geometric mean return,    and the variance of the return. Let $\mu_{1}=\mu+\sigma$ be the rate of return in the first period and let $\mu_{2}=\mu-\sigma$ be the rate of return in the second period. Here,    the average rate of return is $=\frac{1}{2}(\mu_{1}+\mu_{2})=\mu$ and the variance of the two rates is $\sigma^{2}$. The geometric rate of return $\mu$ satisfies $(1+\nu)^{2}=(1+\mu_{1})(1+\mu_{2})$. Substituting and expanding this gives
+$$1+2\nu+\nu[^2]=(1+\mu+\sigma)(1+\mu-\sigma)=(1+\mu)[^2]-\sigma[^2]=1+2\mu+\mu[^2]-\sigma[^2]$$
 
 Or
 $$\nu=\mu-\frac{1}{2}\sigma^{2}+\frac{1}{2}(\mu^{2}-\nu^{2}).$$
@@ -299,11 +299,11 @@ $$\nu=\mu-\frac{1}{2}\sigma^{2}+\frac{1}{2}(\mu^{2}-\nu^{2}).$$
 Since rates of return are typically less than one,    the square of the return is even smaller and hence the difference between two squared percentage terms is smaller still. Hence we have the approximation $\nu\approx\mu-\frac{1}{2}\sigma^{2}$ or
 $$\mathrm{geometric~mean}\approx\mathrm{arithmetic~mean}-\frac{1}{2}\mathrm{variance}.$$
 
-This approximation will be better the smaller the [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) are and the smaller the variance is. In the example $\mu=0.2$ and $\sigma=0.1$ so $\frac{1}{2}\sigma^{2}=0.005$ and $\mu-\frac{1}{2}\sigma^{2}=0.1950$ which is close to the actual geometric mean of 0.1958.
+This approximation will be better the smaller the interest rates are and the smaller the variance is. In the example $\mu=0.2$ and $\sigma=0.1$ so $\frac{1}{2}\sigma^{2}=0.005$ and $\mu-\frac{1}{2}\sigma^{2}=0.1950$ which is close to the actual geometric mean of 0.1958.
 
 ## Expecting less than the expected
 
-We can see the same difference between arithmetic and geometric rates of return in our [binomial model](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%204-Multiperiod%20Binomial%20Trees/Binomial%20Option%20Pricing.md) to show that the end values for the [underlying asset](Risk%20Neutral%20Pricing%20of%20Options.md) will be asymmetrically distributed. Consider a [binomial model](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%204-Multiperiod%20Binomial%20Trees/Binomial%20Option%20Pricing.md) where the $up$ and down factors are $U=1.3$ and $D=1.1$. Thus the asset either increases by $30\%$ or by $10\%$. Suppose that each is equally likely so that the average return is $20\%$. Let the initial value of the asset be 100. Then after one period the ending values are 130 or 110 each with probability $\frac{1}{2}$ . This is a symmetric distribution centered around the average value of 120. After two periods the ending value is either 169 if there are two successive ups,    143 if there is either one up and one down or one down and one up,    or 121 if there are two downs. The probability of these three outcomes,    169,    143 and 121 are $\frac{1}{4}$,    $\frac{1}{2}$ and $\frac{1}{4}$ respectively. Thus the expected value after two periods is
+We can see the same difference between arithmetic and geometric rates of return in our binomial model to show that the end values for the underlying asset will be asymmetrically distributed. Consider a binomial model where the $up$ and down factors are $U=1.3$ and $D=1.1$. Thus the asset either increases by $30\%$ or by $10\%$. Suppose that each is equally likely so that the average return is $20\%$. Let the initial value of the asset be 100. Then after one period the ending values are 130 or 110 each with probability $\frac{1}{2}$ . This is a symmetric distribution centered around the average value of 120. After two periods the ending value is either 169 if there are two successive ups,    143 if there is either one up and one down or one down and one up,    or 121 if there are two downs. The probability of these three outcomes,    169,    143 and 121 are $\frac{1}{4}$,    $\frac{1}{2}$ and $\frac{1}{4}$ respectively. Thus the expected value after two periods is
 $$\frac{1}{4}\times 69+\frac{1}{2}\times 143+\frac{1}{4}\times 121=144.$$
 
 However the return is less than 144 in three of the four possible ending values. Thus after two periods the distribution of the end values is asymmetric with most of the distribution below the average value. We say that the distribution of the ending values is skewed to the right. The most likely out,    the mode,    is 143 and it is also in this case equal to the median as the ending value is equally likely to be above or below 143.
@@ -311,22 +311,22 @@ However the return is less than 144 in three of the four possible ending values.
 Consider the two-period model where the up and down factors are $1+\mu+\sigma$ and $1+\mu-\sigma$. The initial value of the asset is $S_0$ and both up and down
 
 movements are equally likely. Then the expected value after two periods is
-$$S_0\left (\frac{1}{4}(1+\mu+\sigma)^2+\frac{1}{2}(1+\mu+\sigma)(1+\mu-\sigma)+\frac{1}{4}(1+\mu-\sigma)^2\right)=S_0 (1+\mu)^2.$$
+$$S_0\left (\frac{1}{4}(1+\mu+\sigma)[^2]+\frac{1}{2}(1+\mu+\sigma)(1+\mu-\sigma)+\frac{1}{4}(1+\mu-\sigma)[^2]\right)=S_0 (1+\mu)[^2].$$
 
 The median value,    however,    is
-$$S_0 (1+\mu+\sigma)(1+\mu-\sigma)=S_0\left ((1+\mu)^2-\sigma^2\right)$$
+$$S_0 (1+\mu+\sigma)(1+\mu-\sigma)=S_0\left ((1+\mu)[^2]-\sigma[^2]\right)$$
 
 So that the median is below the mean by an amount equal to the variance. Since we have already shown that $(1+\nu)^{2}=(1+\mu)^{2}-\sigma^{2}$,    the median of the end value is just $S_{0}(1+\nu)^{2}$.
 
-The [binomial model](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%204-Multiperiod%20Binomial%20Trees/Binomial%20Option%20Pricing.md) is easily extended from two to 77 periods. We have in each period the return changes by the factor $U$ or $D$. Thus ,    the [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) in each period are identically and independently distributed. Let $U=1+\mu+\sigma$ and $D=1+\mu-\sigma$ as before and suppose that the probability of either return is equally likely. Then the median return (if $Tl$ is large and even) is
+The binomial model is easily extended from two to 77 periods. We have in each period the return changes by the factor $U$ or $D$. Thus ,    the returns in each period are identically and independently distributed. Let $U=1+\mu+\sigma$ and $D=1+\mu-\sigma$ as before and suppose that the probability of either return is equally likely. Then the median return (if $Tl$ is large and even) is
 $$S_0\left ((1+\mu+\sigma)^{\frac{n}{2}}\right)\left ((1+\mu-\sigma)^{\frac{n}{2}}\right)=((1+\mu+\sigma)(1+\mu-\sigma))^{\frac{n}{2}}$$
 
-As there will be roughly an equal number of up [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) and down [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md),    the geometric return that produces the same outcome after $Tl$ periods is $(1+g)^{n}$. Thus ,   $$(1+\nu)^n=((1+\mu+\sigma)(1+\mu-\sigma))^\frac{n}{2}$$
+As there will be roughly an equal number of up returns and down returns,    the geometric return that produces the same outcome after $Tl$ periods is $(1+g)^{n}$. Thus ,   $$(1+\nu)^n=((1+\mu+\sigma)(1+\mu-\sigma))^\frac{n}{2}$$
 
-Or $(1+\nu)^{2}=(1+\mu+\sigma)(1+\mu-\sigma)$,    which is exactly as before. Thus,    the same approximation $\nu\approx\mu-\frac{1}{2}\sigma^{2}$ applies in the $7 t.$ -period model as well. Since the geometric return gives the median value for the [underlying asset](Risk%20Neutral%20Pricing%20of%20Options.md),    and the arithmetic mean gives the average value,    the median is always below the average. Thus,    one should always expect to have less than the average value more than half the time.
+Or $(1+\nu)^{2}=(1+\mu+\sigma)(1+\mu-\sigma)$,    which is exactly as before. Thus,    the same approximation $\nu\approx\mu-\frac{1}{2}\sigma^{2}$ applies in the $7 t.$ -period model as well. Since the geometric return gives the median value for the underlying asset,    and the arithmetic mean gives the average value,    the median is always below the average. Thus,    one should always expect to have less than the average value more than half the time.
 
 Example:u=0.75,    $d=-0.25$,    $r=0.25$,    $x=100$
 
- ![500](./images/fnaAhnGefU3qDKBgLiUkRuOTfKUeeicVz.png)
+ !500
 
-Figure 1: FOUR-PERIOD [BINOMIAL](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) EXAMPLE
+Figure 1: FOUR-PERIOD BINOMIAL EXAMPLE

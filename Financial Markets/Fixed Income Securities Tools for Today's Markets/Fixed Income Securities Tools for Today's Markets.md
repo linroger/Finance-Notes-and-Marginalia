@@ -1,155 +1,155 @@
 %% Begin Waypoint %%
-- **[Fixed Income Securities Tools for Today's Markets](.md)**
-	- **[Chapter 1](Chapter%201/Chapter%201.md)**
-		- [Accrued Interest](Chapter%201/Accrued%20Interest.md)
-		- [Arbitrage and the Law of One Price](Chapter%201/Arbitrage%20and%20the%20Law%20of%20One%20Price.md)
-		- [Chapter 1](Chapter%201/Chapter%201.md)
-		- [Day-Count Conventions](Chapter%201/Day-Count%20Conventions.md)
-		- [Discount Factors](Chapter%201/Discount%20Factors.md)
-		- [Government Coupon Bonds](Chapter%201/Government%20Coupon%20Bonds.md)
-		- [The Law of One Price](Chapter%201/The%20Law%20of%20One%20Price.md)
-	- **[Chapter 2](Chapter%202/Chapter%202.md)**
-		- [Chapter 2](Chapter%202/Chapter%202.md)
-		- [Forward Rates](Chapter%202/Forward%20Rates.md)
-		- [Interest Rate Quotations](Chapter%202/Interest%20Rate%20Quotations.md)
-		- [Interest Rate Swaps](Chapter%202/Interest%20Rate%20Swaps.md)
-		- [Pricing Interest Rate Swaps](Chapter%202/Pricing%20Interest%20Rate%20Swaps.md)
-		- [Spot Rates](Chapter%202/Spot%20Rates.md)
-	- **[Chapter 3](Chapter%203/Chapter%203.md)**
-		- [Chapter 3](Chapter%203/Chapter%203.md)
-		- [Pl Attribution](Chapter%203/Pl%20Attribution.md)
-		- [Realized Returns](Chapter%203/Realized%20Returns.md)
-		- [Spreads](Chapter%203/Spreads.md)
-		- [Yield and Relative Value](Chapter%203/Yield%20and%20Relative%20Value.md)
-		- [Yield and Return](Chapter%203/Yield%20and%20Return.md)
-		- [Yield to Maturity](Chapter%203/Yield%20to%20Maturity.md)
-	- **[Chapter 4](Chapter%204/Chapter%204.md)**
-		- [Chapter 4](Chapter%204/Chapter%204.md)
-		- [Convexity](Chapter%204/Convexity.md)
-		- [Duration](Chapter%204/Duration.md)
-		- [DV01](Chapter%204/DV01.md)
-		- [Hedging a Century Bond Part I](Chapter%204/Hedging%20a%20Century%20Bond%20Part%20I.md)
-		- [Hedging a Century Bond Part Ii](Chapter%204/Hedging%20a%20Century%20Bond%20Part%20Ii.md)
-		- [Price-Rate Curves](Chapter%204/Price-Rate%20Curves.md)
-		- [The Barbell Versus the Bullet](Chapter%204/The%20Barbell%20Versus%20the%20Bullet.md)
-	- **[Chapter 5](Chapter%205/Chapter%205.md)**
-		- [Chapter 5](Chapter%205/Chapter%205.md)
-		- [Forward-Bucketo1s](Chapter%205/Forward-Bucketo1s.md)
-		- [Key Rates Motivation](Chapter%205/Key%20Rates%20Motivation.md)
-		- [Key Rates O1s Durations and Hedging](Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)
-		- [Key Rates Overview](Chapter%205/Key%20Rates%20Overview.md)
-		- [Key Rates Shifts](Chapter%205/Key%20Rates%20Shifts.md)
-		- [Multi-Factor Exposures and Portfolio Volatility](Chapter%205/Multi-Factor%20Exposures%20and%20Portfolio%20Volatility.md)
-		- [Partial O1s and PV01](Chapter%205/Partial%20O1s%20and%20PV01.md)
-	- **[Chapter 6](Chapter%206/Chapter%206.md)**
-		- [Chapter 6](Chapter%206/Chapter%206.md)
-		- [Level Versus Change Regressions](Chapter%206/Level%20Versus%20Change%20Regressions.md)
-		- [Principal Component Analysis](Chapter%206/Principal%20Component%20Analysis.md)
-		- [Reverse Regressions](Chapter%206/Reverse%20Regressions.md)
-		- [Single-Variable Regression Hedging](Chapter%206/Single-Variable%20Regression%20Hedging.md)
-		- [Two-Variable Regression Hedging](Chapter%206/Two-Variable%20Regression%20Hedging.md)
-	- **[Chapter 7](Chapter%207/Chapter%207.md)**
-		- [Arbitrage Pricing of Derivatives](Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)
-		- [Chapter 7](Chapter%207/Chapter%207.md)
-		- [Fixed Income Versus Equity Derivatives](Chapter%207/Fixed%20Income%20Versus%20Equity%20Derivatives.md)
-		- [Option-Adjusted Spread](Chapter%207/Option-Adjusted%20Spread.md)
-		- [Profit and Loss Attribution with an OAS](Chapter%207/Profit%20and%20Loss%20Attribution%20with%20an%20OAS.md)
-		- [Rate and Price Trees](Chapter%207/Rate%20and%20Price%20Trees.md)
-		- [Reducing the Time Step](Chapter%207/Reducing%20the%20Time%20Step.md)
-		- [Risk-Neutral Pricing](Chapter%207/Risk-Neutral%20Pricing.md)
-	- **[Chapter 8](Chapter%208/Chapter%208.md)**
-		- [An Analytical Decomposition of Forward Rates](Chapter%208/An%20Analytical%20Decomposition%20of%20Forward%20Rates.md)
-		- [Chapter 8](Chapter%208/Chapter%208.md)
-		- [Expectations](Chapter%208/Expectations.md)
-		- [Volatility and Convexity](Chapter%208/Volatility%20and%20Convexity.md)
-	- **[Chapter 9](Chapter%209/Chapter%209.md)**
-		- [A Practical Estimation Method](Chapter%209/A%20Practical%20Estimation%20Method.md)
-		- [Chapter 9](Chapter%209/Chapter%209.md)
-		- [Relative Value and Macro-Style Trading with the](Chapter%209/Relative%20Value%20and%20Macro-Style%20Trading%20with%20the.md)
-		- [The Gauss Model](Chapter%209/The%20Gauss%20Model.md)
-		- [The Vasicek Model](Chapter%209/The%20Vasicek%20Model.md)
-	- **[Chapter 10](Chapter%2010/Chapter%2010.md)**
-		- [Case Study Mf Globals Repo-To-Maturity Trades](Chapter%2010/Case%20Study%20Mf%20Globals%20Repo-To-Maturity%20Trades.md)
-		- [Chapter 10](Chapter%2010/Chapter%2010.md)
-		- [Gc and Special Repo Rates](Chapter%2010/Gc%20and%20Special%20Repo%20Rates.md)
-		- [Liquidity Management and Currentregulatory Iss](Chapter%2010/Liquidity%20Management%20and%20Currentregulatory%20Iss.md)
-		- [Market Structure and Size](Chapter%2010/Market%20Structure%20and%20Size.md)
-		- [Repurchase Agreements](Chapter%2010/Repurchase%20Agreements.md)
-		- [SOFR](Chapter%2010/SOFR.md)
-		- [Uses of Repurchase Agreements](Chapter%2010/Uses%20of%20Repurchase%20Agreements.md)
-	- **[Chapter 11](Chapter%2011/Chapter%2011.md)**
-		- [Case Study Basis Trades in March 2020](Chapter%2011/Case%20Study%20Basis%20Trades%20in%20March%202020.md)
-		- [Chapter 11](Chapter%2011/Chapter%2011.md)
-		- [Cost of Delivery and the Final Settlement Pric](Chapter%2011/Cost%20of%20Delivery%20and%20the%20Final%20Settlement%20Pric.md)
-		- [Forward Bond Yield](Chapter%2011/Forward%20Bond%20Yield.md)
-		- [Forward Contracts and Forward Prices](Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md)
-		- [Futures Price and the Quality Option Before E](Chapter%2011/Futures%20Price%20and%20the%20Quality%20Option%20Before%20E.md)
-		- [Gross and Net Basis and Basis Trades](Chapter%2011/Gross%20and%20Net%20Basis%20and%20Basis%20Trades.md)
-		- [Implied Repo Rates](Chapter%2011/Implied%20Repo%20Rates.md)
-		- [Mechanics of Us Treasury Note and Bond Futures](Chapter%2011/Mechanics%20of%20Us%20Treasury%20Note%20and%20Bond%20Futures.md)
-		- [Motivations for a Delivery Basket and Conversi](Chapter%2011/Motivations%20for%20a%20Delivery%20Basket%20and%20Conversi.md)
-		- [Pricing and Hedging Implications of Daily Sett](Chapter%2011/Pricing%20and%20Hedging%20Implications%20of%20Daily%20Sett.md)
-		- [The Quality Option at Expiration](Chapter%2011/The%20Quality%20Option%20at%20Expiration.md)
-	- **[Chapter 12](Chapter%2012/Chapter%2012.md)**
-		- [Chapter 12](Chapter%2012/Chapter%2012.md)
-		- [EURIBOR Forward Rate Agreements and Futures](Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md)
-		- [Fed Fund Futures](Chapter%2012/Fed%20Fund%20Futures.md)
-		- [One-Month SOFR Futures](Chapter%2012/One-Month%20SOFR%20Futures.md)
-		- [Short-Term Rates and the Transition from LIBOR](Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md)
-		- [The Futures-Forward Difference](Chapter%2012/The%20Futures-Forward%20Difference.md)
-		- [Three-Month SOFR Futures](Chapter%2012/Three-Month%20SOFR%20Futures.md)
-	- **[Chapter 13](Chapter%2013/Chapter%2013.md)**
-		- [Basis Swaps](Chapter%2013/Basis%20Swaps.md)
-		- [Chapter 13](Chapter%2013/Chapter%2013.md)
-		- [Clearing and Central Counterparties](Chapter%2013/Clearing%20and%20Central%20Counterparties.md)
-		- [Counterparty Credit Risk](Chapter%2013/Counterparty%20Credit%20Risk.md)
-		- [Irs Cash Flows and Analytics](Chapter%2013/Irs%20Cash%20Flows%20and%20Analytics.md)
-		- [Market Size and Participants](Chapter%2013/Market%20Size%20and%20Participants.md)
-		- [Uses of Interest Rate Swaps](Chapter%2013/Uses%20of%20Interest%20Rate%20Swaps.md)
-	- **[Chapter 14](Chapter%2014/Chapter%2014.md)**
-		- [Case Study the London Whale](Chapter%2014/Case%20Study%20the%20London%20Whale.md)
-		- [CDS Settlement Auctions](Chapter%2014/CDS%20Settlement%20Auctions.md)
-		- [CDS Upfront Amounts](Chapter%2014/CDS%20Upfront%20Amounts.md)
-		- [Cds-Bond Basis](Chapter%2014/Cds-Bond%20Basis.md)
-		- [Cds-Equivalent Bond Spread](Chapter%2014/Cds-Equivalent%20Bond%20Spread.md)
-		- [Chapter 14](Chapter%2014/Chapter%2014.md)
-		- [Corporate Bonds and Loans](Chapter%2014/Corporate%20Bonds%20and%20Loans.md)
-		- [Credit Default Swaps](Chapter%2014/Credit%20Default%20Swaps.md)
-		- [Credit Risk Premium](Chapter%2014/Credit%20Risk%20Premium.md)
-		- [Credit Spreads](Chapter%2014/Credit%20Spreads.md)
-		- [Default Rates Recovery Rates and Credit Losses](Chapter%2014/Default%20Rates%20Recovery%20Rates%20and%20Credit%20Losses.md)
-		- [Hazard-Adjusted Duration and Dvo1](Chapter%2014/Hazard-Adjusted%20Duration%20and%20Dvo1.md)
-		- [Opportunistic CDS Strategies](Chapter%2014/Opportunistic%20CDS%20Strategies.md)
-		- [Spread Duration and Dvo1](Chapter%2014/Spread%20Duration%20and%20Dvo1.md)
-	- **[Chapter 15](Chapter%2015/Chapter%2015.md)**
-		- [Adjustable-Rate Mortgages](Chapter%2015/Adjustable-Rate%20Mortgages.md)
-		- [Chapter 15](Chapter%2015/Chapter%2015.md)
-		- [Credit Risk Transfer Securities](Chapter%2015/Credit%20Risk%20Transfer%20Securities.md)
-		- [Dollar Rolls](Chapter%2015/Dollar%20Rolls.md)
-		- [Fixed-Rate Mortgage Loans](Chapter%2015/Fixed-Rate%20Mortgage%20Loans.md)
-		- [Mortgage Pools](Chapter%2015/Mortgage%20Pools.md)
-		- [Mortgage Pricing Spreads and Duration](Chapter%2015/Mortgage%20Pricing%20Spreads%20and%20Duration.md)
-		- [Other MBS](Chapter%2015/Other%20MBS.md)
-		- [Prepayment Modeling](Chapter%2015/Prepayment%20Modeling.md)
-		- [Risk Factors and Hedging Agency MBS](Chapter%2015/Risk%20Factors%20and%20Hedging%20Agency%20MBS.md)
-		- [Tba and Specified Pools Markets](Chapter%2015/Tba%20and%20Specified%20Pools%20Markets.md)
-		- [The Mortgage Market in the United States](Chapter%2015/The%20Mortgage%20Market%20in%20the%20United%20States.md)
-	- **[Chapter 16](Chapter%2016/Chapter%2016.md)**
-		- [Bond Futures Options](Chapter%2016/Bond%20Futures%20Options.md)
-		- [Caps and Floors](Chapter%2016/Caps%20and%20Floors.md)
-		- [Chapter 16](Chapter%2016/Chapter%2016.md)
-		- [Embedded Bond Call Options](Chapter%2016/Embedded%20Bond%20Call%20Options.md)
-		- [EURIBOR Futures Options](Chapter%2016/EURIBOR%20Futures%20Options.md)
-		- [Swaption Skew](Chapter%2016/Swaption%20Skew.md)
-		- [Swaptions](Chapter%2016/Swaptions.md)
-	- [Fixed Income Securities Tools for Today's Markets](.md)
-	- **[Front Matter](Front%20Matter/Front%20Matter.md)**
-		- [Front Matter](Front%20Matter/Front%20Matter.md)
-		- [Global Fixed Income Markets](Front%20Matter/Global%20Fixed%20Income%20Markets.md)
-		- [Monetary Policy with Abundantreserves](Front%20Matter/Monetary%20Policy%20with%20Abundantreserves.md)
-		- [Negative Rates and Qe in Europe and Japan](Front%20Matter/Negative%20Rates%20and%20Qe%20in%20Europe%20and%20Japan.md)
-		- [Trading and Liquidity](Front%20Matter/Trading%20and%20Liquidity.md)
-		- [US Market Participants](Front%20Matter/US%20Market%20Participants.md)
-		- [US Markets](Front%20Matter/US%20Markets.md)
+- **Fixed Income Securities Tools for Today's Markets**
+	- **Chapter 1**
+		- Accrued Interest
+		- Arbitrage and the Law of One Price
+		- Chapter 1
+		- Day-Count Conventions
+		- Discount Factors
+		- Government Coupon Bonds
+		- The Law of One Price
+	- **Chapter 2**
+		- Chapter 2
+		- Forward Rates
+		- Interest Rate Quotations
+		- Interest Rate Swaps
+		- Pricing Interest Rate Swaps
+		- Spot Rates
+	- **Chapter 3**
+		- Chapter 3
+		- Pl Attribution
+		- Realized Returns
+		- Spreads
+		- Yield and Relative Value
+		- Yield and Return
+		- Yield to Maturity
+	- **Chapter 4**
+		- Chapter 4
+		- Convexity
+		- Duration
+		- DV01
+		- Hedging a Century Bond Part I
+		- Hedging a Century Bond Part Ii
+		- Price-Rate Curves
+		- The Barbell Versus the Bullet
+	- **Chapter 5**
+		- Chapter 5
+		- Forward-Bucketo1s
+		- Key Rates Motivation
+		- Key Rates O1s Durations and Hedging
+		- Key Rates Overview
+		- Key Rates Shifts
+		- Multi-Factor Exposures and Portfolio Volatility
+		- Partial O1s and PV01
+	- **Chapter 6**
+		- Chapter 6
+		- Level Versus Change Regressions
+		- Principal Component Analysis
+		- Reverse Regressions
+		- Single-Variable Regression Hedging
+		- Two-Variable Regression Hedging
+	- **Chapter 7**
+		- Arbitrage Pricing of Derivatives
+		- Chapter 7
+		- Fixed Income Versus Equity Derivatives
+		- Option-Adjusted Spread
+		- Profit and Loss Attribution with an OAS
+		- Rate and Price Trees
+		- Reducing the Time Step
+		- Risk-Neutral Pricing
+	- **Chapter 8**
+		- An Analytical Decomposition of Forward Rates
+		- Chapter 8
+		- Expectations
+		- Volatility and Convexity
+	- **Chapter 9**
+		- A Practical Estimation Method
+		- Chapter 9
+		- Relative Value and Macro-Style Trading with the
+		- The Gauss Model
+		- The Vasicek Model
+	- **Chapter 10**
+		- Case Study Mf Globals Repo-To-Maturity Trades
+		- Chapter 10
+		- Gc and Special Repo Rates
+		- Liquidity Management and Currentregulatory Iss
+		- Market Structure and Size
+		- Repurchase Agreements
+		- SOFR
+		- Uses of Repurchase Agreements
+	- **Chapter 11**
+		- Case Study Basis Trades in March 2020
+		- Chapter 11
+		- Cost of Delivery and the Final Settlement Pric
+		- Forward Bond Yield
+		- Forward Contracts and Forward Prices
+		- Futures Price and the Quality Option Before E
+		- Gross and Net Basis and Basis Trades
+		- Implied Repo Rates
+		- Mechanics of Us Treasury Note and Bond Futures
+		- Motivations for a Delivery Basket and Conversi
+		- Pricing and Hedging Implications of Daily Sett
+		- The Quality Option at Expiration
+	- **Chapter 12**
+		- Chapter 12
+		- EURIBOR Forward Rate Agreements and Futures
+		- Fed Fund Futures
+		- One-Month SOFR Futures
+		- Short-Term Rates and the Transition from LIBOR
+		- The Futures-Forward Difference
+		- Three-Month SOFR Futures
+	- **Chapter 13**
+		- Basis Swaps
+		- Chapter 13
+		- Clearing and Central Counterparties
+		- Counterparty Credit Risk
+		- Irs Cash Flows and Analytics
+		- Market Size and Participants
+		- Uses of Interest Rate Swaps
+	- **Chapter 14**
+		- Case Study the London Whale
+		- CDS Settlement Auctions
+		- CDS Upfront Amounts
+		- Cds-Bond Basis
+		- Cds-Equivalent Bond Spread
+		- Chapter 14
+		- Corporate Bonds and Loans
+		- Credit Default Swaps
+		- Credit Risk Premium
+		- Credit Spreads
+		- Default Rates Recovery Rates and Credit Losses
+		- Hazard-Adjusted Duration and Dvo1
+		- Opportunistic CDS Strategies
+		- Spread Duration and Dvo1
+	- **Chapter 15**
+		- Adjustable-Rate Mortgages
+		- Chapter 15
+		- Credit Risk Transfer Securities
+		- Dollar Rolls
+		- Fixed-Rate Mortgage Loans
+		- Mortgage Pools
+		- Mortgage Pricing Spreads and Duration
+		- Other MBS
+		- Prepayment Modeling
+		- Risk Factors and Hedging Agency MBS
+		- Tba and Specified Pools Markets
+		- The Mortgage Market in the United States
+	- **Chapter 16**
+		- Bond Futures Options
+		- Caps and Floors
+		- Chapter 16
+		- Embedded Bond Call Options
+		- EURIBOR Futures Options
+		- Swaption Skew
+		- Swaptions
+	- Fixed Income Securities Tools for Today's Markets
+	- **Front Matter**
+		- Front Matter
+		- Global Fixed Income Markets
+		- Monetary Policy with Abundantreserves
+		- Negative Rates and Qe in Europe and Japan
+		- Trading and Liquidity
+		- US Market Participants
+		- US Markets
 
 %% End Waypoint %%

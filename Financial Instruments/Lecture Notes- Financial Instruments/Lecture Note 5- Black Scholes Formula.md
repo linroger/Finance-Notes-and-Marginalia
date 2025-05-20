@@ -54,7 +54,7 @@ $$E[R_{t}]=\mu\times h;\;\;E[R_{t}^{2}]=\sigma^{2}\times h$$
    $$P_{0}=B_{0}+\Delta_{0}S_{0}$$
    - (it can be shown P0 > 0).
 
-2. From now on, *rebalance* the portfolio, to make sure that at every t, the portfolio has a position in stocks given by
+[^2]: From now on, *rebalance* the portfolio, to make sure that at every t, the portfolio has a position in stocks given by
    $$∆t = −N(−d_{1, t})$$
    - E.g. if $S_{t}$ ↓ ⇒ $∆t$ ↓ ⇒ short more stocks and put proceeds into bonds ⇒ $B_{t}$ ↑.
    - Or if $S_{t}$ ↑ ⇒ $∆t ↑$ ⇒ buy back stocks by liquidating some bonds ⇒ $B_{t}$ ↓.
@@ -69,7 +69,7 @@ $$E[R_{t}]=\mu\times h;\;\;E[R_{t}^{2}]=\sigma^{2}\times h$$
 - Initial value of the portfolio:
   $$P_0 = B_0 + ∆_0S_0 = 41.89 − 36.32 = 5.57$$
 - One day later (h = 1/252 = 1 day) the stock is $S_h = 99$ =⇒ $∆h = −N(−d_{1, h})$ = −0.3821
-- Need to short more, and thus sell $|∆_h − ∆_0| = | −0.3821 − (−0.3632)| = 0.0189$ shares.
+- Need to short more, and thus sell $ | ∆_h − ∆_0 | = | −0.3821 − (−0.3632) | = 0.0189$ shares.
 - Obtain cash = $0.0189 × 99 = 1.879$, and put it in bonds:
   New Bond Position = $$B_h = B_0 × e^{r×h} + 1.879 = 41.89 + 1.879 = 43.777$$
   New Portfolio Position = $$P_h = B_h + ∆_h × S_h = 43.777 − 0.3821 × 99 = 5.941$$
@@ -83,21 +83,21 @@ $$E[R_{t}]=\mu\times h;\;\;E[R_{t}^{2}]=\sigma^{2}\times h$$
 
 ## OPTION PREMIUM BY DYNAMIC REPLICATION
 
-![Dynamic Replication Chart 1](Obsidian%202024-10-04%2016.37.30.png)
+!Dynamic Replication Chart 1
 
-![Dynamic Replication Chart 2](Obsidian%202024-10-04%2016.37.53.png)
+!Dynamic Replication Chart 2
 
-![Dynamic Replication Chart 3](9f437bafc6f0d76f8ad3f0af6ad25e9b6688c490ee3fc154ba46b7b54eb57e4b.png)
+!Dynamic Replication Chart 3
 
-![Dynamic Replication Chart 4](807e472a44c55673e8cae3f79ee1bf6ecc02b8d50f83f414ffbc94ffc6d0fe35.png)
+!Dynamic Replication Chart 4
 
 ## BLACK AND SCHOLES FORMULA
 - Since portfolio Pt replicates the payoff of the put option, the value of the portfolio at any time must equal the value of the put option.
 - Why? - Arbitrage: "Buy Cheap / Sell Dear".
 - For instance, if Pt < Put Option Premium =⇒
-  1. Sell option and set up the replicating portfolio (which costs $P_t$)
-  2. Today make $(Put Option Premium − P_t) > 0$.
-  3. At maturity T the replicating portfolio provides the payoff, exactly.
+[^1]: Sell option and set up the replicating portfolio (which costs $P_t$)
+[^2]: Today make $(Put Option Premium − P_t) > 0$.
+[^3]: At maturity T the replicating portfolio provides the payoff, exactly.
 - In particular, at time 0, the value of the option must be
   Put Premium at 0, $p_{0} = P_{0} = B_{0} + \Delta_{0} \times S_{0}$
   $$= K \times e^{-rT} \times N(-d_{2, 0}) - S_{0} \times N(-d_{1, 0})$$
@@ -121,7 +121,7 @@ $$E[R_{t}]=\mu\times h;\;\;E[R_{t}^{2}]=\sigma^{2}\times h$$
 ## DELTA HEDGING AND DYNAMIC REPLICATION
 - The next figure shows the dynamic replication at work in a graph:
 
-![Delta Hedging Graph](Obsidian%202024-10-04%2016.38.00.png)
+!Delta Hedging Graph
 
 ## BLACK AND SCHOLES FORMULA
 - Example: Consider an at-the-money option.
@@ -183,23 +183,23 @@ $$E[R_{t}]=\mu\times h;\;\;E[R_{t}^{2}]=\sigma^{2}\times h$$
 - Sometimes yes: e.g. Jan - Dec 2000
   - Replication of S&P500 option with T = 1 year. σ = standard deviation of returns in 1999.
   
-![Replication in 2000](a0a066b36c5ace6a32d6593d8b113d31.png)
+!Replication in 2000
 
 ## DOES THE DYNAMIC REPLICATION STRATEGY WORK IN REALITY?
 - Sometimes no: e.g. Jan - Dec 1987
 
-![Replication in 1987](310cd3852c2b02cfa09c96b2ce307c53.png)
+!Replication in 1987
 
 - We will return on the empirical performance of Black and Scholes model in the next TNs.
 
 ## BLACK AND SCHOLES PRICING FORMULA
 - Like futures, simple modifications to the option specification can still be treated within the Black and Scholes framework.
 
-1. OPTIONS WITH *KNOWN* DIVIDEND
+[^1]: OPTIONS WITH *KNOWN* DIVIDEND
    - Define $S^∗ = S - PV(D)$ where $PV(D)$ = Present Value of Dividends before expiration.
    - Use Black and Scholes formula with $S^∗$ instead of $S$.
 
-2. OPTIONS WITH *KNOWN* DIVIDEND YIELD Q
+[^2]: OPTIONS WITH *KNOWN* DIVIDEND YIELD Q
    - Define $S^∗ = S \times e^{-q \times T}$ and use Black and Scholes formula as usual.
    $$\begin{array}{l l}
    {{c = S e^{-q T}N(d_{1}) - K e^{-r T}N(d_{2});}} & {{p = K e^{-r T}N(-d_{2}) - S e^{-q T}N(-d_{1});}} \\
@@ -207,10 +207,10 @@ $$E[R_{t}]=\mu\times h;\;\;E[R_{t}^{2}]=\sigma^{2}\times h$$
    {{d_{1} = \frac{\ln(S/K)+(r-q+\sigma^{2}/2)T}{\sigma\sqrt{T}};}} & {{d_{2} = d_{1} - \sigma\sqrt{T}}}
    \end{array}$$
 
-3. OPTIONS ON CURRENCIES
+[^3]: OPTIONS ON CURRENCIES
    - When you buy foreign currency, you would invest in foreign Treasuries. Thus, $r_{foreign}$ is a dividend yield. Apply previous formula with $q = r_{foreign}$.
 
-4. FUTURES OPTIONS
+[^4]: FUTURES OPTIONS
    - Entering into a futures position does not cost anything. Thus, compared to the dynamic replication with stocks, a trader would *save* the riskless rate.
    - The option pricing formula is then Black and Scholes formula in which the futures price $F$ is used instead of $S$, but the "dividend yield" equals the risk free rate $q = r$.
    - Substituting this in the previous formula:
@@ -221,26 +221,26 @@ $$E[R_{t}]=\mu\times h;\;\;E[R_{t}^{2}]=\sigma^{2}\times h$$
 - Risk managers and traders need to control the sensitivity of options to changes in the underlying.
 - Terminology:
 
-1. **Delta**: Sensitivity of option to changes in underlying
+[^1]: **Delta**: Sensitivity of option to changes in underlying
    $$\Delta = \frac{d\;\mathrm{Option\;Price}}{d\;S} = \left\{\begin{array}{l l}
    {{N(d_{1})}} & {{\mathrm{~for\;Calls}}} \\
    {{-N(-d_{1})}} & {{\mathrm{~for\;Puts}}}
    \end{array}\right.$$
 
-2. **Gamma**: Sensitivity of Delta ∆ to changes in the underlying. For both calls and puts:
+[^2]: **Gamma**: Sensitivity of Delta ∆ to changes in the underlying. For both calls and puts:
    $$\Gamma = \frac{d\,\Delta}{d\,S} = \frac{N^{\prime}(d_{1})}{S\sigma\sqrt{T}} \quad\mathrm{~with~} N^{\prime}(x) = \frac{e^{-x^{2}/2}}{\sqrt{2\pi}}$$
    - =⇒ $\Gamma$ = curvature of option price with respect to stock S;
 
 ## RISKS IN OPTIONS AND THE GREEKS
 
-![Greeks Chart 1](0b083e8311dca709f00de5289d7e9936.png)
+!Greeks Chart 1
 
-![Greeks Chart 2](92ffd2566d50d6c0218ae50e0bd182ba.png)
+!Greeks Chart 2
 
-3. **THETA**: SENSITIVITY OF OPTION TO PASSAGE OF TIME T
+[^3]: **THETA**: SENSITIVITY OF OPTION TO PASSAGE OF TIME T
    $$\Theta = \frac{d\text{ Option Price}}{d\,t} = \text{Long formula}$$
 
-![Theta Chart](23e937f63b7eaacf68f8e4fd36e33850.png)
+!Theta Chart
 
 - Why for a put option Θ > 0 for low $S$ and Θ < 0 for high S?
 - For $S$ high, payoff is zero, but put price is positive.
@@ -256,12 +256,12 @@ $$E[R_{t}]=\mu\times h;\;\;E[R_{t}^{2}]=\sigma^{2}\times h$$
       - Intuition: for calls, we will pay K, whose present value today is smaller than K, pushing up the price of the call.
   - If the stock pays (a lot of) dividends, then Θ > 0 for high S, as the option holder misses the dividend payouts during the life of the option (compared to a stock holder).
 
-![Vega Chart](44e2c18c4c0158811c7968e5b0c8b6bc.png)
+!Vega Chart
 
 - In Black and Scholes model, the volatility σ and the interest rate r are constant.
 - However, it is interesting how does a change in σ and r change the value of the option.
 
-4. **Rho**: Change in option price due to a change in interest rate r
+[^4]: **Rho**: Change in option price due to a change in interest rate r
    $$\mathrm{Rho} = \frac{d~\mathrm{Option~Price}}{d~r} = \left\{\begin{array}{l l}
    {{K T e^{-r T}N(d_{2}) > 0}} & {{\mathrm{~for~Calls}}} \\
    {{-K T e^{-r T}N(-d_{2}) < 0}} & {{\mathrm{~for~Puts}}}
@@ -269,10 +269,10 @@ $$E[R_{t}]=\mu\times h;\;\;E[R_{t}^{2}]=\sigma^{2}\times h$$
    - Intuition: it all depends on whether the option holder will pay K (call) or receive K (put).
    The PV of K declines as r increases, yielding the result.
 
-5. **VEGA**: CHANGE IN OPTION PRICE DUE TO A CHANGE IN VOLATILITY Σ
+[^5]: **VEGA**: CHANGE IN OPTION PRICE DUE TO A CHANGE IN VOLATILITY Σ
    $$\text{Vega} = \frac{d\text{ Option Price}}{d\,\sigma} = S\sqrt{T}N^{\prime}(d_1) > 0$$
 
-![Capital Protected Note](49bb935ac04b3456b51a6767b5f39c3b.png)
+!Capital Protected Note
 
 - Assume today is Feb 22, 2008 and you sold the following Capital Protected Note:
   - Maturity: February 20, 2015
@@ -285,11 +285,11 @@ $$E[R_{t}]=\mu\times h;\;\;E[R_{t}^{2}]=\sigma^{2}\times h$$
 
 ## THE CAPITAL PROTECTED NOTE'S PAYOFF
 
-![Capital Protected Note Payoff](bbbbf486ab7cc6cdfc53831bfd3fd43b.png)
+!Capital Protected Note Payoff
 
 - The Capital Protected Note's payoff can be decomposed into
-  1. A zero coupon bond with principal $10 and maturity T = 7.
-  2. 1.16 at-the-money call options on the (normalized) S&P 500 with maturity T = 7.
+[^1]: A zero coupon bond with principal $10 and maturity T = 7.
+[^2]: 1.16 at-the-money call options on the (normalized) S&P 500 with maturity T = 7.
 - The reference index is normalized so that $S_0$ = β × S&P500 = $10.
 - On Feb 28, 2008, we had S&P 500 = 1353.1. =⇒ β = 10/1353.1.
 - Other data on Feb 28, 2008, are as follows
@@ -307,8 +307,8 @@ $$E[R_{t}]=\mu\times h;\;\;E[R_{t}^{2}]=\sigma^{2}\times h$$
 ## DELTA HEDGING AT TIME 0
 - How can we hedge the short CPN?
 - Theoretically, we just need a position in the replicating portfolio:
-  1. Buy a zero coupon bond today for $7.9764 (to hedge the "bond" component)
-  2. Purchase 1.16 units of the replicating portfolio for the (embedded) call option.
+[^1]: Buy a zero coupon bond today for $7.9764 (to hedge the "bond" component)
+[^2]: Purchase 1.16 units of the replicating portfolio for the (embedded) call option.
 - The replicating portfolio *for each call* is as follows:
   - Given the call ∆ = e^{−δT}N(d1) = 0.5747, we have:
     Position in (normalized) S&P500 = 0.5747;
@@ -329,9 +329,9 @@ $$E[R_{t}]=\mu\times h;\;\;E[R_{t}^{2}]=\sigma^{2}\times h$$
 
 ## DELTA-GAMMA HEDGING
 - There are some issues with delta-hedging
-  1. For any small variation in stock price we need to rebalance the portfolio
+[^1]: For any small variation in stock price we need to rebalance the portfolio
      - =⇒ with transaction costs this is expensive.
-  2. Large variations in the stock price imply the hedge does not work too well.
+[^2]: Large variations in the stock price imply the hedge does not work too well.
 - We can alleviate somewhat these problems by "Delta-Gamma" hedging:
   - In addition to stocks, we need a position in a security with positive Gamma, such as a
     short-term traded option.
@@ -339,9 +339,9 @@ $$E[R_{t}]=\mu\times h;\;\;E[R_{t}^{2}]=\sigma^{2}\times h$$
     $$\Pi = -Call(S, T) + N \times S + N^{c} \times Call(S, T_{1})$$
   - We want to hedge both the sensitivity of Π to changes in the stock ($\frac{d\Pi}{dS} = 0$) and the change in
     such sensitivity to changes in the stock, that is, the convexity
-    $$\frac{d \left(\frac{d\Pi}{d S}\right)}{d S} = \frac{d^2\Pi}{d S^2} = 0$$
+    $$\frac{d \left(\frac{d\Pi}{d S}\right)}{d S} = \frac{d[^2]\Pi}{d S[^2]} = 0$$
 
-![Delta-Gamma Hedging Chart](76ace2442a76b1bc7c92625450409ca01823659c0e5316b9039a0dc0a452bc6218.png)
+!Delta-Gamma Hedging Chart
 
 ## DELTA-GAMMA HEDGING
 - The Delta-Gamma hedge then requires:
@@ -366,7 +366,7 @@ $$E[R_{t}]=\mu\times h;\;\;E[R_{t}^{2}]=\sigma^{2}\times h$$
 - Next figure plots the CPN for various stock prices, along with the Delta hedge portfolio and the
   Delta-Gamma hedge portfolio.
 
-![Delta-Gamma Hedging CPN](8b5b1043a76ea7cdeed7def54d1512e3.png)
+!Delta-Gamma Hedging CPN
 
 ## DELTA-GAMMA HEDGING: THE CAPITAL PROTECTED NOTE
 - The Delta-Gamma hedging strategy allows for larger swings in the stock price before calling for
@@ -404,7 +404,7 @@ $$E[R_{t}]=\mu\times h;\;\;E[R_{t}^{2}]=\sigma^{2}\times h$$
 - Developing the return equation and using also the notation w = β, we obtain
   $$(R_C - R_B) = \beta \times (R_S - R_B)$$
 
-![Options Beta](fce45ee4408b6c513f8ca493d2af75cc.png)
+!Options Beta
 
 - Given such large β, the excess return on a call option is much larger than the one on the stock.
 - A call option is effectively a Leveraged Investment
@@ -412,11 +412,11 @@ $$E[R_{t}]=\mu\times h;\;\;E[R_{t}^{2}]=\sigma^{2}\times h$$
   - =⇒ Expected Excess Return is very high: $E [R_C − R_B] = β × E [R_S − R_B]$
 - Note that β depends on S, so it is not constant.
 - Clearly, the risk is also very high. What is the variance of call option returns?
-- It is $β^2 \times$ variance of stock returns: $\sigma_{c}^2 = \beta^2 \times \sigma_{s}^2$
+- It is $β[^2] \times$ variance of stock returns: $\sigma_{c}[^2] = \beta[^2] \times \sigma_{s}[^2]$
 
-![Returns Chart 1](a0a60ba734ac5dd7a94901bf9c0c2f88.png)
-![Returns Chart 2](991e9c50231370c4a65f763a5f035534.png)
-![Returns Chart 3](3cddb2484285391085c6963ee376570f.png)
+!Returns Chart 1
+!Returns Chart 2
+!Returns Chart 3
 
 - The volatility of the call option, computed as the 22-day standard deviation of returns, is much higher than the one of the SP500 index.
 

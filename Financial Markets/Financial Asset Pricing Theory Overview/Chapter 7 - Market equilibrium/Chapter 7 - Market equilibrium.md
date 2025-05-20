@@ -11,12 +11,12 @@ tags:
 7.5 Exercises 171   
 Consumption-based asset pricing 175   
 %% Begin Waypoint %%
-- **[Chapter 7 - Market equilibrium](.md)**
-	- [Chapter 7 - Market equilibrium](.md)
-	- [Exercises](Exercises.md)
-	- [Pareto-Optimality and Representative Individual](Pareto-Optimality%20and%20Representative%20Individual.md)
-	- [Pareto-Optimality in Complete Markets](Pareto-Optimality%20in%20Complete%20Markets.md)
-	- [Pareto-Optimality in Some Incomplete Markets](Pareto-Optimality%20in%20Some%20Incomplete%20Markets.md)
+- **Chapter 7 - Market equilibrium**
+	- Chapter 7 - Market equilibrium
+	- Exercises
+	- Pareto-Optimality and Representative Individual
+	- Pareto-Optimality in Complete Markets
+	- Pareto-Optimality in Some Incomplete Markets
 
 %% End Waypoint %%
 # 7.1 Introduction  
@@ -37,4 +37,4 @@ In the market clearing condition we have assumed that the traded assets are in a
 
 We will assume throughout that individuals have homogeneous beliefs, i.e. that they agree that probabilities of future events are measured by the probability measure. $\mathbb{P}$  
 
-Outline of the chapter...  
+Outline of the chapter...

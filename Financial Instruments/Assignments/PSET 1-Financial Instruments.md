@@ -35,55 +35,55 @@ Due at the beginning of class week 2.
 
 ### Exchange Rate Data
 
-| Date | $/EURO SPOT | $/EURO FORWARD 1M | $/EURO FORWARD 3M | $/EURO FORWARD 6M | $/EURO FORWARD 1Y |
-| ---- | ----------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| Monday, October 3, 2005 | 1.19235 | 1.19425 | 1.19812 | 1.20462 | 1.21789 |
-| Monday, October 2, 2006 | 1.27385 | 1.27619 | 1.28007 | 1.28505 | 1.29298 |
-| Monday, October 1, 2007 | 1.42325 | 1.42448 | 1.42562 | 1.42667 | 1.42805 |
-| Wednesday, October 1, 2008 | 1.4021 | 1.40422 | 1.4047 | 1.40302 | 1.39603 |
-| Thursday, October 1, 2009 | 1.4533 | 1.45341 | 1.45325 | 1.45307 | 1.45302 |
+ | Date | $/EURO SPOT | $/EURO FORWARD 1M | $/EURO FORWARD 3M | $/EURO FORWARD 6M | $/EURO FORWARD 1Y | 
+ | ---- | ----------- | ----------------- | ----------------- | ----------------- | ----------------- | 
+ | Monday, October 3, 2005 | 1.19235 | 1.19425 | 1.19812 | 1.20462 | 1.21789 | 
+ | Monday, October 2, 2006 | 1.27385 | 1.27619 | 1.28007 | 1.28505 | 1.29298 | 
+ | Monday, October 1, 2007 | 1.42325 | 1.42448 | 1.42562 | 1.42667 | 1.42805 | 
+ | Wednesday, October 1, 2008 | 1.4021 | 1.40422 | 1.4047 | 1.40302 | 1.39603 | 
+ | Thursday, October 1, 2009 | 1.4533 | 1.45341 | 1.45325 | 1.45307 | 1.45302 | 
 
 ### Interest Rate Data
 
 #### US LIBOR 
 
-| Date | 1M | 3M | 6M | 1Y |
-| ---- | -- | -- | -- | -- |
-| October 3, 2005 | 3.88 | 4.08 | 4.27 | 4.48 |
-| October 2, 2006 | 5.32 | 5.37 | 5.38 | 5.32 |
-| October 1, 2007 | 5.12 | 5.23 | 5.15 | 4.94 |
-| October 1, 2008 | 4.00 | 4.15 | 4.04 | 4.04 |
-| October 1, 2009 | 0.25 | 0.28 | 0.62 | 1.24 |
+ | Date | 1M | 3M | 6M | 1Y | 
+ | ---- | -- | -- | -- | -- | 
+ | October 3, 2005 | 3.88 | 4.08 | 4.27 | 4.48 | 
+ | October 2, 2006 | 5.32 | 5.37 | 5.38 | 5.32 | 
+ | October 1, 2007 | 5.12 | 5.23 | 5.15 | 4.94 | 
+ | October 1, 2008 | 4.00 | 4.15 | 4.04 | 4.04 | 
+ | October 1, 2009 | 0.25 | 0.28 | 0.62 | 1.24 | 
 
 #### EURO LIBOR
 
-| Date | 1M | 3M | 6M | 1Y |
-| ---- | -- | -- | -- | -- |
-| October 3, 2005 | 2.12 | 2.18 | 2.21 | 2.33 |
-| October 2, 2006 | 3.29 | 3.42 | 3.58 | 3.74 |
-| October 1, 2007 | 4.39 | 4.79 | 4.76 | 4.72 |
-| October 1, 2008 | 5.07 | 5.29 | 5.39 | 5.50 |
-| October 1, 2009 | 0.39 | 0.70 | 1.00 | 1.23 |
+ | Date | 1M | 3M | 6M | 1Y | 
+ | ---- | -- | -- | -- | -- | 
+ | October 3, 2005 | 2.12 | 2.18 | 2.21 | 2.33 | 
+ | October 2, 2006 | 3.29 | 3.42 | 3.58 | 3.74 | 
+ | October 1, 2007 | 4.39 | 4.79 | 4.76 | 4.72 | 
+ | October 1, 2008 | 5.07 | 5.29 | 5.39 | 5.50 | 
+ | October 1, 2009 | 0.39 | 0.70 | 1.00 | 1.23 | 
 
 #### US LIBOR (continuously compounded rates)
 
-| Date | 1M | 3M | 6M | 1Y |
-| ---- | -- | -- | -- | -- |
-| October 3, 2005 | 3.87 | 4.06 | 4.22 | 4.39 |
-| October 2, 2006 | 5.31 | 5.33 | 5.31 | 5.18 |
-| October 1, 2007 | 5.11 | 5.20 | 5.08 | 4.82 |
-| October 1, 2008 | 4.00 | 4.13 | 4.00 | 3.96 |
-| October 1, 2009 | 0.25 | 0.28 | 0.62 | 1.23 |
+ | Date | 1M | 3M | 6M | 1Y | 
+ | ---- | -- | -- | -- | -- | 
+ | October 3, 2005 | 3.87 | 4.06 | 4.22 | 4.39 | 
+ | October 2, 2006 | 5.31 | 5.33 | 5.31 | 5.18 | 
+ | October 1, 2007 | 5.11 | 5.20 | 5.08 | 4.82 | 
+ | October 1, 2008 | 4.00 | 4.13 | 4.00 | 3.96 | 
+ | October 1, 2009 | 0.25 | 0.28 | 0.62 | 1.23 | 
 
 #### EURO LIBOR (continuously compounded rates)
 
-| Date | 1M | 3M | 6M | 1Y |
-| ---- | -- | -- | -- | -- |
-| October 3, 2005 | 2.12 | 2.17 | 2.20 | 2.31 |
-| October 2, 2006 | 3.29 | 3.41 | 3.55 | 3.68 |
-| October 1, 2007 | 4.38 | 4.76 | 4.70 | 4.61 |
-| October 1, 2008 | 5.06 | 5.25 | 5.32 | 5.35 |
-| October 1, 2009 | 0.39 | 0.70 | 1.00 | 1.22 |
+ | Date | 1M | 3M | 6M | 1Y | 
+ | ---- | -- | -- | -- | -- | 
+ | October 3, 2005 | 2.12 | 2.17 | 2.20 | 2.31 | 
+ | October 2, 2006 | 3.29 | 3.41 | 3.55 | 3.68 | 
+ | October 1, 2007 | 4.38 | 4.76 | 4.70 | 4.61 | 
+ | October 1, 2008 | 5.06 | 5.25 | 5.32 | 5.35 | 
+ | October 1, 2009 | 0.39 | 0.70 | 1.00 | 1.22 | 
 
 Consider a one-year forward contract for converting between dollars and Euros. The current exchange rate is $1.20 for each Euro. The one-year risk-free rate in dollars is 5% in continuously compounded units while the one-year risk-free rate in Euros is 4.5%.
 
@@ -109,23 +109,23 @@ $$F_{0,T}=1.20 \times e^{(0.05-0.045) \times 1}= \$1.20602 \text{ per euro}$$
 
 ### Forward Rates Implied by No Arbitrage
 
-| Date | 1M (0.0833 years) | 3M (0.25 years) | 6M (0.5 years) | 1Y (1 year) |
-| ---- | ----------------- | --------------- | -------------- | ----------- |
-| Monday, October 3, 2005 | 1.1941 | 1.1980 | 1.2045 | 1.2174 |
-| Monday, October 2, 2006 | 1.2760 | 1.2800 | 1.2851 | 1.2932 |
-| Monday, October 1, 2007 | 1.4241 | 1.4248 | 1.4260 | 1.4262 |
-| Wednesday, October 1, 2008 | 1.4009 | 1.3982 | 1.3929 | 1.3827 |
-| Thursday, October 1, 2009 | 1.4531 | 1.4518 | 1.4505 | 1.4535 |
+ | Date | 1M (0.0833 years) | 3M (0.25 years) | 6M (0.5 years) | 1Y (1 year) | 
+ | ---- | ----------------- | --------------- | -------------- | ----------- | 
+ | Monday, October 3, 2005 | 1.1941 | 1.1980 | 1.2045 | 1.2174 | 
+ | Monday, October 2, 2006 | 1.2760 | 1.2800 | 1.2851 | 1.2932 | 
+ | Monday, October 1, 2007 | 1.4241 | 1.4248 | 1.4260 | 1.4262 | 
+ | Wednesday, October 1, 2008 | 1.4009 | 1.3982 | 1.3929 | 1.3827 | 
+ | Thursday, October 1, 2009 | 1.4531 | 1.4518 | 1.4505 | 1.4535 | 
 
 ### Difference Between Quoted and No-Arbitrage Forward Rates
 
-| Date | 1M | 3M | 6M | 1Y |
-| ---- | -- | -- | -- | -- |
-| Monday, October 3, 2005 | 0.0002 | 0.0001 | 0.0002 | 0.0005 |
-| Monday, October 2, 2006 | 0.0002 | 0.0001 | 0.0000 | -0.0002 |
-| Monday, October 1, 2007 | 0.0004 | 0.0008 | 0.0007 | 0.0018 |
-| Wednesday, October 1, 2008 | 0.0034 | 0.0065 | 0.0102 | 0.0134 |
-| Thursday, October 1, 2009 | 0.0003 | 0.0015 | 0.0025 | -0.0004 |
+ | Date | 1M | 3M | 6M | 1Y | 
+ | ---- | -- | -- | -- | -- | 
+ | Monday, October 3, 2005 | 0.0002 | 0.0001 | 0.0002 | 0.0005 | 
+ | Monday, October 2, 2006 | 0.0002 | 0.0001 | 0.0000 | -0.0002 | 
+ | Monday, October 1, 2007 | 0.0004 | 0.0008 | 0.0007 | 0.0018 | 
+ | Wednesday, October 1, 2008 | 0.0034 | 0.0065 | 0.0102 | 0.0134 | 
+ | Thursday, October 1, 2009 | 0.0003 | 0.0015 | 0.0025 | -0.0004 | 
 
 > [!ANSWER]
 > The traded value of the forward is $1.15, which is below the no-arbitrage value of $1.2060, so there is an arbitrage opportunity to be exploited. We would like to "buy low" and "sell high." In other words, we would like to enter into the forward contract to buy Euros at $1.15 and *synthetically* sell them forward using the bond markets in the countries and the current exchange rate.
@@ -159,25 +159,25 @@ Please, do the following:
 
 ### US and EURO LIBOR Continuously Compounded Rates
 
-|          | US LIBOR                          |        |        |        | EURO LIBOR                       |        |        |        |
-|----------|-----------------------------------|--------|--------|--------|----------------------------------|--------|--------|--------|
-| Date     | 1M                                | 3M     | 6M     | 1Y     | 1M                               | 3M     | 6M     | 1Y     |
-|----------|-----------------------------------|--------|--------|--------|----------------------------------|--------|--------|--------|
-| 03-Oct-05| 3.87%                             | 4.06%  | 4.22%  | 4.39%  | 2.12%                            | 2.17%  | 2.20%  | 2.31%  |
-| 02-Oct-06| 5.31%                             | 5.33%  | 5.31%  | 5.18%  | 3.29%                            | 3.41%  | 3.55%  | 3.68%  |
-| 01-Oct-07| 5.11%                             | 5.20%  | 5.08%  | 4.82%  | 4.38%                            | 4.76%  | 4.70%  | 4.61%  |
-| 01-Oct-08| 4.00%                             | 4.13%  | 4.00%  | 3.96%  | 5.06%                            | 5.25%  | 5.32%  | 5.35%  |
-| 01-Oct-09| 0.25%                             | 0.28%  | 0.62%  | 1.23%  | 0.39%                            | 0.70%  | 1.00%  | 1.22%  |
+| US LIBOR |  |  |  | EURO LIBOR |  |  |
+ | ---------- | ----------------------------------- | -------- | -------- | -------- | ---------------------------------- | -------- | -------- | -------- | 
+ | Date | 1M | 3M | 6M | 1Y | 1M | 3M | 6M | 1Y | 
+ | ---------- | ----------------------------------- | -------- | -------- | -------- | ---------------------------------- | -------- | -------- | -------- | 
+ | 03-Oct-05 | 3.87% | 4.06% | 4.22% | 4.39% | 2.12% | 2.17% | 2.20% | 2.31% | 
+ | 02-Oct-06 | 5.31% | 5.33% | 5.31% | 5.18% | 3.29% | 3.41% | 3.55% | 3.68% | 
+ | 01-Oct-07 | 5.11% | 5.20% | 5.08% | 4.82% | 4.38% | 4.76% | 4.70% | 4.61% | 
+ | 01-Oct-08 | 4.00% | 4.13% | 4.00% | 3.96% | 5.06% | 5.25% | 5.32% | 5.35% | 
+ | 01-Oct-09 | 0.25% | 0.28% | 0.62% | 1.23% | 0.39% | 0.70% | 1.00% | 1.22% | 
 
 ### Computed Forward Exchange Rates
 
-| Date       | 1M     | 3M     | 6M     | 1Y     |
-|------------|--------|--------|--------|--------|
-| 03-Oct-05  | 1.1941 | 1.1980 | 1.2045 | 1.2174 |
-| 02-Oct-06  | 1.2760 | 1.2800 | 1.2851 | 1.2932 |
-| 01-Oct-07  | 1.4241 | 1.4248 | 1.4260 | 1.4262 |
-| 01-Oct-08  | 1.4009 | 1.3982 | 1.3929 | 1.3827 |
-| 01-Oct-09  | 1.4531 | 1.4518 | 1.4505 | 1.4535 |
+ | Date | 1M | 3M | 6M | 1Y | 
+ | ------------ | -------- | -------- | -------- | -------- | 
+ | 03-Oct-05 | 1.1941 | 1.1980 | 1.2045 | 1.2174 | 
+ | 02-Oct-06 | 1.2760 | 1.2800 | 1.2851 | 1.2932 | 
+ | 01-Oct-07 | 1.4241 | 1.4248 | 1.4260 | 1.4262 | 
+ | 01-Oct-08 | 1.4009 | 1.3982 | 1.3929 | 1.3827 | 
+ | 01-Oct-09 | 1.4531 | 1.4518 | 1.4505 | 1.4535 | 
 > [!ANSWER]
 > As above, according to no-arbitrage, the Forward Exchange rate is given by:
 > 
@@ -228,13 +228,13 @@ Please, do the following:
 > 
 > **Table: Difference between quoted and computed Forward Exchange rates**
 > 
-> | Date       | 1M     | 3M     | 6M     | 1Y     |
-> |------------|--------|--------|--------|--------|
-> | 03-Oct-05  | 0.0002 | 0.0001 | 0.0002 | 0.0005 |
-> | 02-Oct-06  | 0.0002 | 0.0001 | 0.0000 | -0.0002|
-> | 01-Oct-07  | 0.0004 | 0.0008 | 0.0007 | 0.0018 |
-> | 01-Oct-08  | 0.0034 | 0.0065 | 0.0102 | 0.0134 |
-> | 01-Oct-09  | 0.0003 | 0.0015 | 0.0025 | -0.0004|
+> | Date | 1M | 3M | 6M | 1Y | 
+> | ------------ | -------- | -------- | -------- | -------- | 
+> | 03-Oct-05 | 0.0002 | 0.0001 | 0.0002 | 0.0005 | 
+> | 02-Oct-06 | 0.0002 | 0.0001 | 0.0000 | -0.0002 | 
+> | 01-Oct-07 | 0.0004 | 0.0008 | 0.0007 | 0.0018 | 
+> | 01-Oct-08 | 0.0034 | 0.0065 | 0.0102 | 0.0134 | 
+> | 01-Oct-09 | 0.0003 | 0.0015 | 0.0025 | -0.0004 | 
 >>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
 > [!ANSWER]
@@ -251,36 +251,36 @@ Please, do the following:
 > 
 > **Table: Difference between quoted and computed Forward Exchange rates**
 > 
-> | Date       | 1M     | 3M     | 6M     | 1Y     |
-> |------------|--------|--------|--------|--------|
-> | 03-Oct-05  | 0.0002 | 0.0001 | 0.0002 | 0.0005 |
-> | 02-Oct-06  | 0.0002 | 0.0001 | 0.0000 | -0.0002|
-> | 01-Oct-07  | 0.0004 | 0.0008 | 0.0007 | 0.0018 |
-> | 01-Oct-08  | 0.0034 | 0.0065 | 0.0102 | 0.0134 |
-> | 01-Oct-09  | 0.0003 | 0.0015 | 0.0025 | -0.0004|
+> | Date | 1M | 3M | 6M | 1Y | 
+> | ------------ | -------- | -------- | -------- | -------- | 
+> | 03-Oct-05 | 0.0002 | 0.0001 | 0.0002 | 0.0005 | 
+> | 02-Oct-06 | 0.0002 | 0.0001 | 0.0000 | -0.0002 | 
+> | 01-Oct-07 | 0.0004 | 0.0008 | 0.0007 | 0.0018 | 
+> | 01-Oct-08 | 0.0034 | 0.0065 | 0.0102 | 0.0134 | 
+> | 01-Oct-09 | 0.0003 | 0.0015 | 0.0025 | -0.0004 | 
 
-(3) If not,  pick one particular date in which the parity is violated,  and describe the [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) strategy you would undertake.
+(3) If not,  pick one particular date in which the parity is violated,  and describe the arbitrage strategy you would undertake.
 
 > [!ANSWER]
 > 1. As we have seen that the biggest discrepancy occurs for October 1 st 2008.
-> Let's focus on that date and consider the 1 year [Forward Exchange rate](../../Financial%20Engineering/A%20Primer%20on%20Currency%20Derivatives.md). As mentioned above the difference $F^{quoted} − F^{computed}>0$,  that is equivalent to $F^{quoted} > F^{computed}$.
-> - The rule of thumb for [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) is to buy cheap and sell dear.
+> Let's focus on that date and consider the 1 year Forward Exchange rate. As mentioned above the difference $F^{quoted} − F^{computed}>0$,  that is equivalent to $F^{quoted} > F^{computed}$.
+> - The rule of thumb for arbitrage is to buy cheap and sell dear.
 > 	- This means "buy computed" and "sell quoted."
-> - The computed [Forward Exchange rate](../../Financial%20Engineering/A%20Primer%20on%20Currency%20Derivatives.md) is a *synthetic* price that we pay if we set-up a strategy that replicates the payoff of a [forward contract](../../Clippings/Forward%20Points%20in%20Currency.md),  while the quoted [Forward Exchange rate](../../Financial%20Engineering/A%20Primer%20on%20Currency%20Derivatives.md) is what we obtain when entering into a forward position (just sign a contract,  much easier than setting up a replicating strategy).
-> - We already know that we enter into a [short forward contract](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forward%20Contracts%20on%20Exchange%20Rates.md) to sell 1 euro for dollars (this is the "sell quoted" - we are selling euros and buying dollars; remember that with exchange rates we are long / short the Foreign [currency](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)).
-> - On the other side we have to set up a strategy that replicates the payoff of a [long forward](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Forward%20Rates%20Agreement.md) position to buy 1 euro for dollars.
+> - The computed Forward Exchange rate is a *synthetic* price that we pay if we set-up a strategy that replicates the payoff of a forward contract,  while the quoted Forward Exchange rate is what we obtain when entering into a forward position (just sign a contract,  much easier than setting up a replicating strategy).
+> - We already know that we enter into a short forward contract to sell 1 euro for dollars (this is the "sell quoted" - we are selling euros and buying dollars; remember that with exchange rates we are long / short the Foreign currency).
+> - On the other side we have to set up a strategy that replicates the payoff of a long forward position to buy 1 euro for dollars.
 > Let's start by matching the payoffs at maturity.
-> 	- A [long forward](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Forward%20Rates%20Agreement.md) contract,  at maturity,  entails:
+> 	- A long forward contract,  at maturity,  entails:
 > 		- An outflow (we pay) of dollars
 > 		- An inflow (we receive) of euros To pay dollars tomorrow we simply borrow something in US.
 > - To receive euros tomorrow we have to invest something in Europe today. How much? Here we have to remember our goal.
-> 	- We are matching the cash flows of a [forward contract](../../Clippings/Forward%20Points%20in%20Currency.md),  and a [forward contract](../../Clippings/Forward%20Points%20in%20Currency.md) does not require any [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) when we enter into it.
-> 	- As our strategy so far requires borrowing in dollars and investing in euros today,  to get a [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) equal to 0 we have to match the amount we borrow with the amount we invest,  or in other words we have to invest in Europe the full amount borrowed in US.
+> 	- We are matching the cash flows of a forward contract,  and a forward contract does not require any cash flow when we enter into it.
+> 	- As our strategy so far requires borrowing in dollars and investing in euros today,  to get a cash flow equal to 0 we have to match the amount we borrow with the amount we invest,  or in other words we have to invest in Europe the full amount borrowed in US.
 > 		- To do this we just need to exchange the dollars for euros today.
-> 	- The last thing we need to understand is how much to borrow in dollars today. As the [forward exchange rate](../../Financial%20Engineering/A%20Primer%20on%20Currency%20Derivatives.md) tells us "how many dollar we have to pay in exchange for 1 euro at maturity",  following our logic of matching the cash flows of a [forward contract](../../Clippings/Forward%20Points%20in%20Currency.md) we want to borrow today (in dollars) a sum that will give us 1 euro tomorrow: that's the very definition of present value.
+> 	- The last thing we need to understand is how much to borrow in dollars today. As the forward exchange rate tells us "how many dollar we have to pay in exchange for 1 euro at maturity",  following our logic of matching the cash flows of a forward contract we want to borrow today (in dollars) a sum that will give us 1 euro tomorrow: that's the very definition of present value.
 > [!ANSWER]
 > - Summing up,  the "buy computed" strategy requires (please note that the amounts in the first and third rows are in different currencies so they cannot be summed):
-> - Table 4: Summary of the synthetic [long forward](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Forward%20Rates%20Agreement.md) position$$
+> - Table 4: Summary of the synthetic long forward position$$
 > \begin{array}{lccc}
 > \hline
 > \text{Today } t = 0 & & \text{In formulas} \\
@@ -310,14 +310,14 @@ Please, do the following:
 > \end{array}
 > $$
 > - Applying the above formulas to our case the strategy becomes:
-> 	- Short a [forward contract](../../Clippings/Forward%20Points%20in%20Currency.md) to sell 1 euro for 1.3960 dollars in one year
+> 	- Short a forward contract to sell 1 euro for 1.3960 dollars in one year
 > 	- Borrow$e^{−0.0535} · 1.4021 = 0.9479 · 1.4021 = 1.3290$dollars today (October 1st 2008)
 > 	- Exchange 1.3290 dollars for euros obtaining 0.9479 euros
 > 	- Invest 0.9479 euros at$r_{EUR} = 5.35$%
 > - At maturity we will have
-> 	- Pay 1 euro (from [short forward](../Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/Forward%20Rates%20Agreement.md) position)
+> 	- Pay 1 euro (from short forward position)
 > 	- Receive 1.3960 dollars
 > 	- Receive 1 euro (from long synthetic forward position)
 > 	- Pay $1.3290 · e^{0.0396} = 1.3827$ dollars
-> - The net [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) will be a positive amount equal $1.396 − 1.3827 = 0.0134$
+> - The net cash flow will be a positive amount equal $1.396 − 1.3827 = 0.0134$
 > dollars per euro traded. If we apply the same strategy on$100 m,     the arbitrage is supposed to generate a positive cash flow at maturity equal to $1.337 m.
