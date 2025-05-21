@@ -19,7 +19,6 @@ tags:
   - vix_futures
   - option_hedging
 aliases:
-  - Lecture 6
   - Leverage
   - Risk Parity
   - Tail Risk Management
@@ -577,7 +576,7 @@ Second,  there can be an additional risk premium in the sense that the futures p
 
 We can look at some exchange-traded products as an easy way to track the returns from a strategy that rolls over long positions in near-term VIX futures. Figure 6.13 shows the holdings of one popular product with the ticker VXX on August 22,  2022. ${ }^{6}$
 
-[[^28]]By weighting long positions in two futures with expirations a bit less and a bit more than one month ahead,  the product tries to approximate a position in (non-existing) futures with exactly one month to expiration. This means we can use the return series of VXX to track the return on such a strategy of maintaining a VIX futures position with approximately one month to expiration.
+By weighting long positions in two futures with expirations a bit less and a bit more than one month ahead,  the product tries to approximate a position in (non-existing) futures with exactly one month to expiration. This means we can use the return series of VXX to track the return on such a strategy of maintaining a VIX futures position with approximately one month to expiration.
 
 ![500](Keep%20It%202024-10-24%2010.39.08.png)
 ![500](Dropover%202024-10-24%2010.37.37.png)
