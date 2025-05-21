@@ -714,7 +714,7 @@ $$
 
 $$
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-048.jpg?height=798&width=985&top_left_y=1048&top_left_x=532)
 
 Figure 2.5: Optimal allocation of risky asset portfolio based on estimated return moments
 
@@ -734,7 +734,7 @@ Subtracting one percentage point from the mean returns of the three bond categor
 
 Another useful sensitivity check can help us understand the conditions that lead to short positions in international stocks in the optimized portfolio. Looking back at Table 2.1 and focusing on the stock asset classes,    we see that the three stocks asset classes - domestic,    international,    and value stocks-have high correlations above 0.60. At the same time,    the mean excess returns are quite different,    with value stocks having about four percentage points higher mean excess returns than international stocks,    and domestic stocks somewhere inbetween. From a portfolio optimization viewpoint,    this looks like an opportunity to construct a position that earns high expected return with little risk: go long value stocks and short international stocks. This position earns the spread in mean returns between the two asset classes. At the same time,    due to the high correlation,    much of the unexpected movements in returns cancel out. High correlation means that the returns tend to move together in the same direction; so then going long in one asset and short the other means that the returns offset to a large extent,    leaving very little residual risk relative to the size of the spread in mean returns that the position earns.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-049.jpg?height=789&width=987&top_left_y=351&top_left_x=577)
 
 (b) Mean excess return of international stocks raised to be the same as domestic stocks
 
@@ -746,7 +746,7 @@ We can see this mechanism at work when we change the mean return inputs. I set t
 
 Another way of checking sensitivity is to examine how the optimal weights change if we use inputs from different time periods. For this exercise,    I estimate mean excess returns and the covariance matrix over 10-year periods. I start at the beginning of 1990 and use data from 1980 to 1989 to calculate the optimal weights. Then I move the data window forward by one month and recalculate the weights; then I repeat until the end 10 -year data window reaches the end of the data set at the end of 2022.
 
- !500
+ ![500](CleanShot%202024-10-24%20-003106@2x.png)
 
 Figure 2.7: Weights of estimated mean-variance efficient portfolio without shrinkage (10 years of data to estimate means and covariances)
 
@@ -1012,7 +1012,7 @@ Then I move the estimation window in step 1 forward by one month to beginning of
 
 Now I have several time-series of portfolio excess returns,    one for each $\phi$. I calculate the Sharpe ratio from these portfolio excess returns.
 
- !500
+ ![500](CleanShot%202024-10-24%20-003108@2x.png)
 
 Figure 2.8: Out-of-sample Sharpe Ratios for different values of the shrinkage parameter $\phi$ and different lengths of the backward-looking estimation window
 
@@ -1109,7 +1109,7 @@ class accounts for the same share of total portfolio risk. ${ }^{2}$ This is wha
 
 Now,    conceptually,    it's not clear why equal risk budgets for each asset class would be desirable. In contrast,    our shrinkage approach gives a clear motivation: if we strongly distrust mean return and correlation estimates due to estimation error,    then meanvariance optimization implies a risk parity strategy.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-048.jpg?height=798&width=985&top_left_y=1048&top_left_x=532)
 
 Figure 2.9: Weights of risk parity portfolio (10 years of data to estimate standard deviations)
 
@@ -1148,7 +1148,7 @@ $$
 
 where $N$ is the number of asset classes. This portfolio formation strategy is called,    sensibly,    a $1 / N$ strategy. It uses no inputs about expected returns and risks whatsoever.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-049.jpg?height=789&width=987&top_left_y=351&top_left_x=577)
 
 Figure 2.10: Out-of-sample Sharpe Ratios of different portfolio strategies (10 years of data to estimate return moments)
 
