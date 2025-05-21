@@ -68,11 +68,13 @@ The empirical counterpart to a [[Lecture 1- Probability Distributions of Returns
 Let's focus on the stock market index as a whole as one risky asset (or the return on an exchange-traded fund that invests in essentially all U.S. stocks). I denote the return on the stock market index with $R$. To look at empirical distribution of returns,  I use monthly returns data from 1927 to 2022 on a value-weighted index of the entire U.S. stock market from the Center for Research in Security Prices (CRSP) here at the University of Chicago. In a value-weighed index,  each stock's weight in the index in month $t$ is the stocks' market capitalization at the end of month $t-1$ ( $=$ price $\times$ number shares outstanding) as a fraction of aggregate market capitalization of all U.S. stocks at the end of month $t-1$.
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-005.jpg?height=790&width=969&top_left_y=348&top_left_x=600)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-005.jpg?height=790&width=969&top_left_y=348&top_left_x=600)
 Figure 1.1 plots a histogram of monthly returns and overlaid on it a curve that shows a normal Probability Distributions of Returns | probability distribution]] function with mean and variance set equal to the empirical historical mean and variance of the return series. As we can see,  broadly speaking,  the fit is not bad. The bell curve shape of the normal distribution also appears in the histogram of the observed historical returns. Most monthly returns are within a few percent of zero,  monthly returns outside the ${} \pm 15\\%$ range are very rare.
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-005.jpg?height=790&width=969&top_left_y=348&top_left_x=600)
 
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-007.jpg?height=831&width=1050&top_left_y=704&top_left_x=554)
 Figure 1.1: Empirical distribution of monthly U.S. stock market returns 1927-2022 with normal distribution fit
 
 That said,  if we look more closely,  this figure already shows some empirical features of real-world stock returns that a normal distribution cannot capture properly and that we will have to investigate a bit more in the coming weeks. While monthly returns outside the ${} \pm 15 \\%$ range are very rare,  they do happen occasionally. Yet according to the normal distribution,  the probability of this happening should be extremely close to zero.
@@ -120,9 +122,11 @@ i.e.,  we take all the deviations from the mean return,  square them,  and then 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-007.jpg?height=831&width=1050&top_left_y=704&top_left_x=554)
 
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-009.jpg?height=833&width=1047&top_left_y=513&top_left_x=558)
 Figure 1.2: Return distributions with different variances and same expected return
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-007.jpg?height=831&width=1050&top_left_y=704&top_left_x=554)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-011.jpg?height=1784&width=993&top_left_y=382&top_left_x=577)
 Figure 1.2 shows three Probability Distributions of Returns | probability distribution]]s. All with the same expected value ${} \mathbb{E}[R]=0.5 \\%$ (which is about a typical average monthly return on a broad stock market index),  and three different variances. Using variance to measure risk,  asset A is the preferred asset,  as it has the lowest variance.
 
 There are cases where we know that variance is a perfect measure of risk. This is when the distribution of returns is fully described by mean and variance. This is the case for the normal distribution.
@@ -156,6 +160,7 @@ Note that for a symmetric distribution,  such as a normal distribution,  semi-va
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-009.jpg?height=833&width=1047&top_left_y=513&top_left_x=558)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-013.jpg?height=893&width=1099&top_left_y=356&top_left_x=532)
 Figure 1.3: Return distributions with same variances and same expected return
 
 An example of non-symmetric (or skewed) distributions is shown in Figure 1.3. Both [[Lecture 1- Probability Distributions of Returns|probability distribution]]s of returns of assets (A) and (B) in this figure have the same mean $\mathbb{E}[R]=0.5 \%$ and the same variance $\operatorname{var}(R)=0.0025$. So if we judge risk just based on variance,  we would be indifferent between asset (A) and (B).
@@ -198,6 +203,7 @@ But this would be an odd choice. Any risk averse person,  no matter how weak the
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-011.jpg?height=1784&width=993&top_left_y=382&top_left_x=577)
 
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-015.jpg?height=728&width=900&top_left_y=365&top_left_x=626)
 Figure 1.4: Evaluating upside risk
 
 Now focus on the second stage gamble. We invest \$1.50 and get payoffs with an expected value of $\frac{1}{2} \$ 2.00+\frac{1}{2} \$ 1.00=\$1.50$,  i.e.,  an expected return of $0 \%$. Thus,  we get no compensation for the risk that we are taking in this second stage of the gamble. Any risk averse person would prefer to avoid this second stage gamble if an alternative gamble is available that delivers the same expected payoff,  but for sure,  without uncertainty. How can we avoid this second stage gamble? Easy. Take gamble $A$ instead of gamble $B$. Therefore,  any risk averse person would prefer asset $A$ over asset $B$.
@@ -217,6 +223,7 @@ Another indication that normality is not a bad approximation here,  the semi-var
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-013.jpg?height=893&width=1099&top_left_y=356&top_left_x=532)
 
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-015.jpg?height=733&width=919&top_left_y=1319&top_left_x=603)
 Figure 1.5: Estimated Value-at-Risk based on empirical distribution of monthly U.S. stock market returns 1927-2022
 
 An obvious shortcoming of the VaR measure is that it does not take into account how big the losses are that exceed the VaR. It only tells us about the probability that we will see losses bigger than the VaR,  but not the magnitude.
@@ -248,10 +255,12 @@ That the stock market is exposed to such crash risk is useful to keep in mind. M
 (b) Zooming in to the tails
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-009.jpg?height=833&width=1047&top_left_y=513&top_left_x=558)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-016.jpg?height=665&width=1093&top_left_y=334&top_left_x=467)
 Figure 1.6: Fat tails in daily U.S. stock market returns with best fitting normal distribution,  1927-2022
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-016.jpg?height=665&width=1093&top_left_y=334&top_left_x=467)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-018.jpg?height=985&width=1180&top_left_y=296&top_left_x=429)
 Figure 1.7: S&P500 Index around October 19,  1987 (Black Monday)
 
 or whether financial engineering should be used to obtain insurance against big losses (we'll get to this later in the course).
@@ -290,6 +299,7 @@ Second, portfolio choices based on maximizing $\mathbb{E}[U(W)]$ with this funct
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-018.jpg?height=985&width=1180&top_left_y=296&top_left_x=429)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-019.jpg?height=814&width=1131&top_left_y=317&top_left_x=519)
 Figure 1.8: Power utility and marginal utility
 
 then an investor with $1 \mathrm{~m}$ of wealth and the same $\gamma$ would also put half of it into risky assets and half into the risk-free asset. Thus,  a power-utility investor's exposure to risky bets,  measured as the proportion of wealth invested in risky assets,  does not change with the wealth level. Another way of saying this is that relative risk aversion is constant. We therefore refer to power utility also as constant relative risk aversion (CRRA) preferences.
@@ -298,11 +308,13 @@ CRRA may not be entirely empirically realistic,  but it's quite reasonable. Cert
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-019.jpg?height=814&width=1131&top_left_y=317&top_left_x=519)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-022.jpg?height=974&width=1201&top_left_y=299&top_left_x=424)
 Figure 1.9: Equity share conditional on stock market participation for households of different wealth levels (Survey of Consumer Finances 2022)
 
 it is much more reasonable than a utility function that implies that the dollar amount of risky asset investments rather than the proportion is constant with respect to wealth (this would happen with utility functions of the constant absolute risk aversion kind).
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-011.jpg?height=1784&width=993&top_left_y=382&top_left_x=577)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-024.jpg?height=980&width=1186&top_left_y=296&top_left_x=426)
 Figure 1.9 shows some data on this from the 2022 version of the Survey of Consumer Finances conducted by the Federal Reserve Board. I grouped all survey respondents into 20 groups based on their total level of financial assets (stocks,  bonds,  including retirement accounts,  bank deposits,  etc.). The x-axis shows the average log wealth of respondents in each group,  i.e.,  the wealthiest households are in the right-most group. The y-axis shows the average equity share,  i.e.,  the proportion of financial assets invested in stocks (directly held and via mutual funds,  including retirement accounts). I use only data from survey respondents who have at least some investment in stocks. ${ }^{3}$
 
 There is a slight increase of the equity share going from the poorest to the richest households. But the increase from about $40 \%$ to $60 \%$ is small considering that the wealth differences between the different bins are huge. Households in the lowest bin have,  on average,  4K in wealth; households in the highest group have $90m on average.
@@ -379,11 +391,13 @@ $$
 which is exactly the first-order condition (1.19) for this special case. The equation says that the expected marginal benefit must be equal to the expected marginal cost at the optimum.
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-013.jpg?height=893&width=1099&top_left_y=356&top_left_x=532)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-026.jpg?height=947&width=1199&top_left_y=291&top_left_x=425)
 Figure 1.10 illustrates this with a power utility example $(\gamma=5)$. The blue line shows the marginal benefit $U^{\prime}\left(W_{H}\right) \times 0.20$. As we increase the risky asset share,  we are shifting more wealth to the good state in which the risky asset has a high return. But the benefit,  in terms of the marginal increase in utility from doing this,  declines as we shift more and more to the risky asset toward the right in the plot. This is a consequence of risk aversion and the associated concavity of utility. The yellow line shows the marginal cost. As we shift more into the risky asset,  and as we are getting poorer in the state in which the risky asset has losses,  the marginal cost of wealth reductions in the bad state are getting bigger. This is again a consequence of risk aversion and the associated concavity of utility. The red line shows the combined consequence in terms of expected marginal benefits and costs. We reach the optimum,  where expected marginal benefits and costs exactly balance,  at a risky asset share slightly below $50 \%$.
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-022.jpg?height=974&width=1201&top_left_y=299&top_left_x=424)
 
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-030.jpg?height=987&width=1201&top_left_y=290&top_left_x=424)
 Figure 1.10: Two-state example: Marginal benefit and cost of higher risky asset share (power utility with $\gamma=5$ )
 
 

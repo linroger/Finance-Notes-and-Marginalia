@@ -97,6 +97,7 @@ If we plot yields $y_{n,             t} $ as a function of maturity $n $ we obta
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-233.jpg?height=984&width=1199&top_left_y=294&top_left_x=474)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-233.jpg?height=984&width=1199&top_left_y=294&top_left_x=474)
 Figure 7.1: Zero-coupon yields extracted from U.S. Treasury bond prices
 
 and June 2023. ${ }^{2} $ We see that the yield curve can change shape. It was upward sloping in April 2021,  with long-term bonds having higher yields than short-term bonds,  and it was downward sloping in June 2023. Much of what we do in this lecture is to figure out what we can learn from the shape of the yield curve. There is a lot of information about future economic growth,  inflation and monetary policy baked into the yield curve.
@@ -199,6 +200,7 @@ In fact,  the yield curve can be quite neatly summarized by three factors that c
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-236.jpg?height=990&width=1272&top_left_y=364&top_left_x=359)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-236.jpg?height=990&width=1272&top_left_y=364&top_left_x=359)
 Figure 7.2: History of zero-coupon yields extracted from U.S. Treasury bond prices
 
 combinations of yields:
@@ -252,6 +254,7 @@ The results we get from these regressions will be closely related to the results
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-238.jpg?height=999&width=1359&top_left_y=1189&top_left_x=340)
 
+![500](CleanShot%202024-10-24%20-003126@2x.png)
 Figure 7.3: Coefficients in regression of daily bond returns on daily changes in level,  slope,  and curvature factors
 
 As the figure shows,  long-term bond returns have a much more negative $b_{n} $ coefficient. This means that they are more sensitive to movements in the level of the yield curve. For example,  they are much more negatively affected when the level of the yield curve shifts up. This is natural: If the discount rate moves up at all horizons (as it is a level shift),  then this affects an asset that pays a cash flow in the distant future more than an asset that pays a cash flow in the near-term.
@@ -268,6 +271,7 @@ We can get some understanding of how bond prices are determined in market equili
 
 [[^32]] ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-240.jpg?height=1007&width=1465&top_left_y=315&top_left_x=295)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-238.jpg?height=999&width=1359&top_left_y=1189&top_left_x=340)
 Figure 7.4: Yield curve trades
 
 simplify things by assuming there are just two types of bonds: a short term bond,  let's say with one period to maturity,  and a long-term bond,  let's say with two periods to maturity. Investors have a choice whether to invest in one or the other,  or a combination of them.
@@ -372,9 +376,11 @@ In the U.S.,  the Federal Reserve ("Fed") normally conducts monetary policy by s
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-243.jpg?height=945&width=1351&top_left_y=1048&top_left_x=406)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-240.jpg?height=1007&width=1465&top_left_y=315&top_left_x=295)
 Figure 7.5: Time-series of the federal funds rate
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-233.jpg?height=984&width=1199&top_left_y=294&top_left_x=474)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-243.jpg?height=945&width=1351&top_left_y=1048&top_left_x=406)
 Figure 7.5 shows the time-series of the daily federal funds rate. Absence of arbitrage then enforces that other short-term (or money-market) interest rates,  such as overnight repo rates,  offshore dollar borrowing and lending rates,  high-grade Commercial Paper rates,  stay close to the federal funds rate.
 
 How can the Federal Reserve influence the level of the federal funds rate? For several decades prior to the Global Financial Crisis (GFC) in 2008-09,  the Fed did this via openmarket operations in which the Fed would purchases Treasury bills from banks or sell them to banks. If the Fed buys T-bills from a bank,  then to pay for these T-bills,  it simply credits the bank's reserve account at the Fed with more reserves (which is sometimes described as creating money,  in the form of reserves,  out of "thin air"). As a consequence,  new reserves are created out of thin air. If the Fed sells T-bills,  the same thing happens in reverse and reserves are destroyed. By creating or destroying reserves in this way,  the Fed can therefore control the supply of reserves held by banks in aggregate. By lowering the supply of reserves,  the Fed can make banks more "desperate" for getting enough reserves to satisfy their liquidity needs. As a consequence,  they will try to borrow more,  and are willing to do so at higher rates. Hence,  the Fed Funds Rate rises. By raising supply,  the Fed can make banks flush with liquidity,  with little need to borrow in the federal funds market,  and hence the federal funds rate falls. Using this mechanism,  the Fed could get the federal funds rate to stay close to the federal funds rate target set by the Federal Open Market Committee (FOMC),  the monetary-policy committee at the Fed (which meets about every six weeks).
@@ -384,10 +390,12 @@ Moving the federal funds rate usually required adjustments to the level of reser
 But in the GFC,  methods of monetary policy implementation changed. As Figure 7.5 shows,  the federal funds rate basically hit zero during this time and stayed there for years. Further economic stimulus through lowering the federal funds rate was not possible. The Fed therefore looked for alternative approaches that could affect long-term bond yields (that had not yet hit zero). While in normal open market operations the Fed would only transact in T-bills (which have short maturities up to a year),  in the GFC the Fed started a program called quantitative easing in which the Fed purchased longer-dated Treasury bonds and also mortgage-backed securities in order bring down long-term bond yields. While normal market operations would be done in tiny quantities,  and the total supply of reserves that banks held was small,  quantitative easing was done in massive quantities which lead to a huge expansion in the reserve balances that banks held at the Fed.
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-236.jpg?height=990&width=1272&top_left_y=364&top_left_x=359)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-245.jpg?height=936&width=1349&top_left_y=302&top_left_x=407)
 Figure 7.6 shows the reserve balances. They reached a peak of close to $3 $ trillion around 2015,  and then an all-time high (so far) in 2020 due to a further round of quantitative easing during the COVID pandemic.
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-245.jpg?height=936&width=1349&top_left_y=302&top_left_x=407)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-246.jpg?height=933&width=1331&top_left_y=444&top_left_x=359)
 Figure 7.6: Total reserves of depository institutions
 
 
@@ -400,15 +408,18 @@ there is no reason why the federal funds rate should rise above $2\% $ in this c
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-246.jpg?height=933&width=1331&top_left_y=444&top_left_x=359)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-247.jpg?height=1042&width=1489&top_left_y=306&top_left_x=340)
 Figure 7.7: Interest on reserve balances,  overnight repurchase agreement rate,  and effective federal funds rate
 
 ![500](CleanShot%202024-10-24%20-003126@2x.png)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-251.jpg?height=733&width=879&top_left_y=590&top_left_x=642)
 Figure 7.7 shows IORB (red line) and the effective federal funds rate (green line) during the recent rate-hiking cycle that started in early 2022. Surprisingly,  the federal funds rate is always a bit below the IORB. How is this possible? The reason is that there are some institutions (such as money-market mutual funds and government-sponsored enterprises such as the mortgage giants Fannie Mae and Freddie Mac) that participate in the federal funds market,  but do not have access to deposits at the Fed that earn IORB. As a consequence,  the floor that IORB puts on the federal funds rate is leaky.
 
 For this reason,  the Fed added another facility called the Overnight Reverse Repo Facility (ON RRP). The details of how this works don't matter for our purposes. The essence is that the facility serves as a way for federal funds market participants that do not have reserve accounts at the Fed to effectively deposit funds at the Fed. These deposits are remunerated at the ON RRP rate which the Fed sets slightly below the IORB. And the ON RRP rate then serves as a floor for the federal funds rate that is not leaky. As Figure 7.7 shows,  the Fed was able to raise the Fed Funds Rate without breaching this floor by simultaneously raising the IORB and ON RRP rates in lockstep.
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-247.jpg?height=1042&width=1489&top_left_y=306&top_left_x=340)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-253.jpg?height=752&width=1489&top_left_y=361&top_left_x=340)
 Figure 7.8: 3-month Treasury bill yields and the federal funds rate target
 
 So now that we understand the mechanics of how the Fed influences short-term interest rates,  we can turn back to the question of how and when expectations of future short-term interest rates change (which should then in turn change the prices of longterm bonds). Figure 7.8 shows an example that nicely visualizes the important role of expectations about future monetary policy decisions for yields of three-month T-bills and two-year Treasury securities. During the period shown in the plot,  the Fed raised the federal funds rate target several times in steps ranging from 25 bp to 75 bp .
@@ -468,6 +479,7 @@ One could try to tease out this effect of monetary policy on asset prices by loo
 To truly isolate the effect of monetary policy on asset markets,  we can look at very short time windows around the public announcements following FOMC meetings. Since 1994,  the Federal Reserve issues a press release after each FOMC meeting that states the FOMC's target for the federal funds rate and outlines the FOMC's view of the macroeconomic situation (from which market participants often draw conclusions about what the FOMC may decide to do in future meetings). When the announced federal funds rate deviates from what investors expected prior to the announcements,  asset prices respond almost instantaneously. Within a short window of a few minutes around the announcement,  it is very likely that the announcement of the monetary policy decision is the main piece of news that moved asset prices. Other distortionary factors are unlikely to be of comparable importance during this very short time window.
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-238.jpg?height=999&width=1359&top_left_y=1189&top_left_x=340)
+![300](Keep%20It%202024-10-24%2010.47.46.png)
 Figure 7.9 shows the average asset price reactions within 30 minutes around the FOMC announcements (starting 10 minutes before and ending 20 minutes after the press release). Which way the reaction goes and how strong it is of course depends on what was decided in the meeting relative to what the market expected before the announcement: Sometimes monetary policy turns out to be tighter (higher rates) than the market expected,  sometimes is is easier (lower rates),  sometimes the market perfectly anticipated the FOMC's decision so that asset prices do not react at all; sometimes the market is very surprised and asset prices move violently.
 
 To account for all this,  one can first measure the magnitude of the surprise by looking at the change in yield of a one-year bond for each FOMC announcement. Then look
@@ -478,6 +490,7 @@ at the returns of other assets,  e.g.,  of a stock index,  in response to the sa
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-251.jpg?height=733&width=879&top_left_y=590&top_left_x=642)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-256.jpg?height=1044&width=1351&top_left_y=1039&top_left_x=344)
 Figure 7.9: Returns of bonds and stocks during 30 minutes around FOMC announcements
 
 Bond returns are calculated from yield changes implied by Treasury futures and converted into returns by multiplying with approximate duration. Returns are expressed as a multiple of the change in the 1-year Treasury yield during the 30-minute announcement window. Source: Bauer,  M.D. and Swanson,  E.T.,  2022. A reassessment of monetary policy surprises and high-frequency identification,  working paper,  National Bureau of Economic Research.
@@ -514,6 +527,7 @@ As an example,  Figure 7.10 shows the time-series of the interest rate implied b
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-253.jpg?height=752&width=1489&top_left_y=361&top_left_x=340)
 
+![300](Keep%20It%202024-10-24%2010.48.12.png)
 Figure 7.10: Taylor rule
 
 Source: Ben Bernanke,
@@ -571,9 +585,11 @@ But at least some of this must be luck. The decades since the start of the 1980s
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-256.jpg?height=1044&width=1351&top_left_y=1039&top_left_x=344)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-260.jpg?height=906&width=1188&top_left_y=295&top_left_x=425)
 Figure 7.11: 5-year moving average of 10-year bond excess returns
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-240.jpg?height=1007&width=1465&top_left_y=315&top_left_x=295)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-262.jpg?height=909&width=1199&top_left_y=294&top_left_x=428)
 Figure 7.11 illustrates the consequences of this unanticipated fall in interest rates for the return of long-term bonds. The figure shows five-year moving averages of annualized monthly returns of 10-year bonds in excess of 1-year bond returns. Until the mid-1980s,  these five-year moving average excess returns were negative,  as bond investors suffered from rising interest rates. But then,  during the decades that followed,  none of the five-year moving averages was ever negative. This was surely luck for long-term bond investors. Even if long-term bonds earn a higher risk premium than short-term bonds,  we would expect that sometimes long-term bonds underperform short-term bonds for an extended period of time. But during these usual decades since the early 1980s,  bonds benefited again and again from further falls in interest rates. Almost surely nobody could have seen this coming in the early 1980s. For this reason,  the high Sharpe ratios of bonds that we see in Table 7.2 must have a substantial luck component that we should not expect to show up again in the coming years.
 
 This also suggests some skepticism about the historically good performance of risk-parity strategies. This historical performance seems unlikely to be repeated in the future.
@@ -645,6 +661,7 @@ We now look at pseudo-OOS regressions. We recreate regressions that investors in
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-260.jpg?height=906&width=1188&top_left_y=295&top_left_x=425)
 
+![300](Keep%20It%202024-10-24%2010.47.27.png)
 Figure 7.12: Cumulative standardized excess returns of different out-of-sample portfolio strategies
 
 Once I have the full time-series of portfolio returns,  I cumulate them and then by divide by the full-sample standard deviation (recall that this turns the cumulated returns into a cumulated "realized Sharpe ratio"). The blue line in Figure (7.12) shows the result.
@@ -677,6 +694,7 @@ If $\mathbb{E}\left[R_{b,             t}\right]-R_{f} $ is higher than $\beta\le
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-262.jpg?height=909&width=1199&top_left_y=294&top_left_x=428)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-265.jpg?height=806&width=1445&top_left_y=383&top_left_x=340)
 Figure 7.13: Beta of 10-year zero-coupon bonds based on daily returns in three-month moving windows
 
 Therefore,  whether bonds are an attractive addition to the portfolio depends on the bond-stock beta. As it turns out,  this beta has undergone dramatic changes over the years. Figure 7.13 illustrates this. I take daily returns of the CRSP value-weighted stock market index and daily returns of 10-year zero coupon bonds (i.e.,  returns based on synthetic zero-coupon bond prices extracted from coupon-paying U.S. Treasury bond prices). Then I estimate the beta within three-month windows,  starting at the beginning,  with the first three months of available data. Once I have the first estimates,  I move the window forward by one day and repeat the estimation. Then I move it forward one more day,  and so on. The blue line in the figure shows the resulting time series of beta estimates. I then repeat the same procedure using the daily returns on 2-year zero coupon bonds. The resulting time series of betas is shown by the red line.

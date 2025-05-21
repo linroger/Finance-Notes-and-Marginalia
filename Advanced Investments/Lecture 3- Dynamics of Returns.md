@@ -72,6 +72,7 @@ Now,  the conditional distribution differs from the unconditional distribution o
 For example,  a crude statistical model of the conditional distribution of stock market returns would be to assert that that future returns may be drawn from two different distributions: one that applies when the market went up in the previous month,  the other one when it fell.
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-073.jpg?height=790&width=969&top_left_y=353&top_left_x=600)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-073.jpg?height=790&width=969&top_left_y=353&top_left_x=600)
 Figure 3.1 plots histograms of the two distributions: one depicts the distribution of stock market returns following a gain in the previous month; the other one depicts the distribution of stock market returns following a loss in the previous month. Interestingly,  the distributions do seem to be different! Note how the distribution following a loss is more spread out and less concentrated in the middle. This means that when the stock market has fallen in the previous month then,  historically,  it was followed by a more volatile month in which returns were likely to be either very high or very low.
 
 Just as we can characterize unconditional probability distributions in terms of unconditional moments,  we can describe conditional distributions in terms of conditional moments. If $x_{t}$ is a variable that represents our conditioning information (in Figure $3.1 x_{t}$ would be an indicator for whether $R_{t}<0$ or $R_{t} \geq 0$ ),  then we can describe the distribution of $R_{t+1}$ conditional on $x_{t}$ with its conditional moments such as,  e.g.,  the conditional expected return,  $\mathbb{E}\left[R_{t+1} \mid x_{t}\right]$,  and the conditional variance $\operatorname{var}\left(R_{t+1} \mid x_{t}\right)$.
@@ -85,6 +86,7 @@ $$
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-073.jpg?height=790&width=969&top_left_y=353&top_left_x=600)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-076.jpg?height=1060&width=1330&top_left_y=359&top_left_x=346)
 Figure 3.1: Distribution of monthly stock market returns 1927-2021 conditional on gain or loss in previous month
 
 for some constants $a,      b>0$. If we had instead $b<0$,  this would be a model for reversals where high past returns predict low future returns. We can use regressions to estimate such models of conditional expected returns.
@@ -178,12 +180,14 @@ Now that we have log returns in our toolbox,  we can also get a more realistic i
 At short horizons,  this issue is negligible because typical return magnitudes are so small. But it matters more over longer horizons. This is why now that we are paying more attention to long-run dynamics,  we need to address this issue.
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-076.jpg?height=1060&width=1330&top_left_y=359&top_left_x=346)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-077.jpg?height=955&width=1199&top_left_y=284&top_left_x=474)
 Figure 3.2 illustrates this. It shows the empirical distribution of stock market returns from 1927-2022. The top panel shows the distribution of monthly returns,  the middle panel annual returns,  and the bottom panel 10-year returns. We see that for monthly returns the fact that returns are bounded below at $-100/% does not really matter. It's just extremely unlikely that a monthly return would ever get even close to a loss of this magnitude. As a consequence,  the distribution of monthly returns looks quite symmetric. The magnitudes of upside moves tend to be similar to the magnitudes of downside moves.
 
 In contrast,  for 10-year returns,  the picture is different. Looking at the upside in the bottom panel of Figure 3.2,  we can see 10-year periods with realized returns of 400/% or more. On the downside,  of course,  there are no downside moves of similar magnitude. The biggest losses over 10-year periods in this data set are returns of around -50/%. As a consequence,  the empirical distribution of 10 -year returns is strongly asymmetric. It basically has to be as the upside is unbounded but the downside is limited to -100 %.
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-076.jpg?height=1060&width=1330&top_left_y=359&top_left_x=346)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-078.jpg?height=779&width=971&top_left_y=353&top_left_x=531)
 Figure 3.2: Empirical stock market return distributions when returns are measured over different horizons,  1927-2022
 
 In contrast,  it is an economically sensible approximation for many types of assets,  although of course not always literally true,  that $\log$ returns,  $r=\log (1+R)$,  are normally distributed.
@@ -192,11 +196,13 @@ If log returns are normally distributed,  this means that simple returns plus on
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-077.jpg?height=955&width=1199&top_left_y=284&top_left_x=474)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-089.jpg?height=616&width=1109&top_left_y=321&top_left_x=519)
 Figure 3.3: Probability distribution of $R$ when $r=\log (1+R)$ is normally distributed
 
 and variance.
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-077.jpg?height=955&width=1199&top_left_y=284&top_left_x=474)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-092.jpg?height=1671&width=963&top_left_y=425&top_left_x=538)
 Figure 3.3 presents an example where $r$ is normally distributed and hence $1+R$ has a log-normal distribution (the plot shows the distribution of $R$,  not $1+R$ ). Note the lower bound at -1 and also the right-skewness (greater upside) of $R$ compared with $r$.
 
 Going in the reverse direction,  if log-normality is approximately a good description of the return distribution,  then,  if we apply the $\log$ transformation,  $r=\log (1+R)$,  to empirically observed returns $R$,  we should be getting a distribution that looks closer to a normal distribution than the distribution of $R$ does.
@@ -207,6 +213,7 @@ At short horizons,  though,  normal distribution can often be a good approximati
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-078.jpg?height=779&width=971&top_left_y=353&top_left_x=531)
 
+![400](CleanShot%202024-10-24%20-003109@2x.png)
 Figure 3.4: Empirical distribution of 10-year log returns on a stock market index,  19272022
 $1+x$ for very small $x$.
 
@@ -635,10 +642,12 @@ Moreover,  even if smart-money investors are correct in their judgment that the 
 One well-known example is the famous value investor Julian Robertson of Tiger Management during the technology stock bubble during the late 1990s. Tech stock prices were going through the roof in 1999,  before crashing sharply in March 2000. In mid-1999,  tech stocks seemed extremely overvalued. Julian Robertson decided to exit long positions in tech stocks and to bet against further price rises of tech stocks. Unfortunately for him,  prices kept rising at a fast pace. His funds started to suffer outflows. In October 1999,  Tiger Management increased the redemption period for investors from 3 to 6 months in to curb outflows. But nevertheless,  in the last quarter of 1999,  their funds lost about $25/% of its assets through withdrawals. In March 2000,  Robertson threw in the towel and announced the liquidation of his funds,  just a few days before the start of the technology stock crash.
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-078.jpg?height=779&width=971&top_left_y=353&top_left_x=531)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-094.jpg?height=1681&width=963&top_left_y=420&top_left_x=540)
 Figure 3.5 shows the monthly flows of the Jaguar fund,  one of the funds managed by Tiger Management,  and compares with the the flows of the Quantum fund,  managed by George Soros. Soros took a very different approach. He tried to "ride the bubble" until the end,  with long positions in tech stocks until March 2000. At the start of the crash,  he quickly reduced these positions. His performance in late 1999 and early 2000 therefore was much better than Julian Robertson's. As the figure shows,  this made a dramatic difference to the timing of flows. The Jaguar fund had strong outflows in the second half of 1999 before being closed down in the first quarter of 2000. The Quantum fund also suffered outflows once its long positions got hit by the crash in March 2000. But due to the prior inflows as well as the large gains it had achieved on its long positions,  the Quantum fund was able to weather those outflows. After the Quantum fund exited tech stock positions quickly in the wake of the crash,  outflows stopped a couple of months
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-089.jpg?height=616&width=1109&top_left_y=321&top_left_x=519)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-095.jpg?height=781&width=965&top_left_y=352&top_left_x=599)
 Figure 3.5: Fund flows of Jaguar fund and Quantum fund
 
 Source: Brunnermeier,  M. and Nagel,  S.,  2004. Hedge funds and the technology bubble. Journal of Finance,  59(5),  pp0.\1-2040. The peak of technology stock prices was in mid-March 2000.
@@ -734,12 +743,14 @@ I pick parameters that make the series have properties close to the actual stock
 A key question we should look into is how the persistence of sentiment affects the nature of mispricing and the return predictability that follows from it. For this reason,  I will show results for several different values of $\phi$ in (3.39). For each value of $\phi$,  I look for a value of the sentiment shocks $\sigma_{s}$ that makes the standard deviation of $s_{t}$ equal to 0.20 . In other words,  I want to see the effects of changing persistence of sentiment without changing the typical magnitudes of sentiment-induced misvaluation.
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-089.jpg?height=616&width=1109&top_left_y=321&top_left_x=519)
+![300](CleanShot%202024-10-24%20-003110@2x.png)
 Figure 3.6 shows simulated price paths of $F_{t}$ and $P_{t}$ for total length of 400 quarters and for two different values of $\phi: \phi=0.15$ in the top panel and $\phi=0.95$ in the bottom panel. In both cases,  there is a substantial degree of misvaluation due to the time-varying Investor Sentiment | investor sentiment]],  often exceeding $+30/% or $-30/% of the fundamental value. But which value of $\phi$ we pick makes a big difference for how fast misvaluation corrects. In the top panel,  if Investor Sentiment | investor sentiment]] is not very persistent,  mispricing corrects very quickly and so we get relatively high-frequency variation of the price around fundamental value. In contrast,  with $\phi=0.95$ in the bottom panel,  Investor Sentiment | investor sentiment]] is highly persistent and we get long-lasting cycles of misvaluation.
 
 Which of the two cases would make it easier for a smart investor to profit from misvaluation? Clearly the first case. In this case,  if the investor recognizes at a certain point in time that there is big misvaluation,  then,  because sentiment has low persistence,  it's very likely that this misvaluation will correct soon. A bet against misvaluation is therefore likely to pay off soon. In contrast,  in the high-persistence case in the bottom panel,  an investor could correctly diagnose that there is,  say,  undervaluation (such as around quarter 245 in the plot) but then it can take another 5 to 10 years until the
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-092.jpg?height=1671&width=963&top_left_y=425&top_left_x=538)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-098.jpg?height=911&width=1201&top_left_y=298&top_left_x=424)
 Figure 3.6: Simulated paths of prices and fundamental value for different values of $\phi$
 
 misvaluation finally gets corrected and the bet against the mispricing eventually pays off.
@@ -766,10 +777,12 @@ To see what such a regression delivers on average (or said differently,  in expe
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-094.jpg?height=1681&width=963&top_left_y=420&top_left_x=540)
 
+![300](CleanShot%202024-10-24%20-003111@2x.png)
 Figure 3.7: One period ahead $\log$ returns,  $r_{t+1}$ and $\log$ sentiment,  $s_{t}$
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-095.jpg?height=781&width=965&top_left_y=352&top_left_x=599)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-101.jpg?height=925&width=1202&top_left_y=291&top_left_x=472)
 Figure 3.8: Distribution of estimated slope coefficient in return-prediction regression (each simulation run has 400 quarters of data)
 
 the 1,  000 simulations. I also calculate the average $R^{2}$,  which shows how much of the variance of $r_{t+1}$ is explained by the predictable component $b s_{t}$.
@@ -822,6 +835,7 @@ Panel B of Table 4.2 shows the result: The slope coefficient is much bigger than
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-098.jpg?height=911&width=1201&top_left_y=298&top_left_x=424)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-102.jpg?height=915&width=1199&top_left_y=296&top_left_x=428)
 Figure 3.9: Conventional and repurchase-adjusted log price-dividend ratio
 
 Finally,  we may want to separate variation in returns that comes from variation over time in the risk-free rate from variation that comes from variation in the conditional equity premium that can be earned by an investor. For this reason,  Panel C puts the quarterly simple stock index return in excess of the return on a U.S. Treasury Bill investment (one-month T-bill,  rolled over within quarters to get a quarterly return) as the dependent variable of the regression. As it turns out,  this does not make much difference compared with Panel B.
@@ -859,6 +873,7 @@ Economics Nobel laureate Robert Shiller at Yale created the cyclically-adjusted 
 
 [[^9]] ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-101.jpg?height=925&width=1202&top_left_y=291&top_left_x=472)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-104.jpg?height=904&width=1201&top_left_y=285&top_left_x=424)
 Figure 3.10: Repurchase-adjusted log price-dividend ratio and log price-earnings ratio
 
 tion of stock repurchases for dividends in recent decades (which we tried to address by repurchase-adjusting dividends in our analysis above).
@@ -869,6 +884,7 @@ As Figure 3.10 shows,  this happened during the Great Recession in 2008/09 and, 
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-102.jpg?height=915&width=1199&top_left_y=296&top_left_x=428)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-106.jpg?height=898&width=1199&top_left_y=288&top_left_x=425)
 Figure 3.11: Repurchase-adjusted log price-dividend ratio and log of cyclically adjusted price-earnings ratio
 
 Shiller noticed that using a ten-year moving average of earnings instead of annual earnings gets around this problem. Because this average of earnings over the past ten years smoothes out business cycle fluctuations in earnings,  the price/earnings ratio with this ten-year moving average in the denominator is called the cyclically-adjusted price/earnings ratio.
@@ -876,6 +892,7 @@ Shiller noticed that using a ten-year moving average of earnings instead of annu
 Moreover,  Shiller's calculation uses real (i.e.,  inflation/War%20Economies%20and%20Hyperinflation.md)-adjusted) earnings and prices in this calculation. He divides the real stock price by the ten-year moving average of real earnings. This is an important detail especially in times when inflation/War%20Economies%20and%20Hyperinflation.md) is high. If the calculation was instead done with nominal earnings and prices,  then high inflation/War%20Economies%20and%20Hyperinflation.md) would distort the valuation ratio. When inflation/War%20Economies%20and%20Hyperinflation.md) is high,  comparing current nominal stock price levels to nominal earnings from several years ago would compare apples and oranges because nominal earnings a few years ago are expressed in units of dollars that had much higher purchasing power than current dollars. Nominal earnings from a few years ago would therefore not be a good measure of future nominal earnings potential.
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-092.jpg?height=1671&width=963&top_left_y=425&top_left_x=538)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-107.jpg?height=911&width=1189&top_left_y=298&top_left_x=487)
 Figure 3.11 show the time-series of the log of CAPE in comparison with the repurchaseadjusted $\mathrm{P} / \mathrm{D}$ ratio. The two series are quite highly correlated.
 
 ### 3.8.2 Fed model
@@ -919,6 +936,7 @@ $$
 
 [[^10]] ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-104.jpg?height=904&width=1201&top_left_y=285&top_left_x=424)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-108.jpg?height=784&width=1012&top_left_y=351&top_left_x=491)
 Figure 3.12: Fed model: Repurchase-adjusted log price-dividend ratio minus 10-year yield
 
 where $\pi$ is the inflation/War%20Economies%20and%20Hyperinflation.md) rate,  $G_{r}$ is the real growth rate,  and $Y_{r}$ is the real bond yield. Plugging this into (3.43),  we get
@@ -965,6 +983,7 @@ For comparison,  the red line in the figure shows the predicted excess return if
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-106.jpg?height=898&width=1199&top_left_y=288&top_left_x=425)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-112.jpg?height=922&width=1201&top_left_y=287&top_left_x=424)
 Figure 3.13: Predicted excess returns from recursively expanding window estimation
 
 forecast will be a useful benchmark for evaluating how much OOS-useful information about future excess returns there is in the price-dividend ratio.
@@ -975,6 +994,7 @@ To interpret this cumulative standardized return,  we need a benchmark for compa
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-107.jpg?height=911&width=1189&top_left_y=298&top_left_x=487)
 
+![300](Microsoft%20Word%202024-10-24%2010.27.39.png)
 Figure 3.14: Cumulative standardized excess returns of different out-of-sample portfolio strategies
 
 sample from 1927 to 2022,  it does not seem to have been of much use for investors who had to make out-of-sample forecasts based only on data that was observable to them.
@@ -985,6 +1005,7 @@ But perhaps the way we have constructed the excess return forecasts in this pseu
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-108.jpg?height=784&width=1012&top_left_y=351&top_left_x=491)
 
+![300](Microsoft%20Word%202024-10-24%2010.27.48.png)
 Figure 3.15: Distribution of the difference in cumulative standardized excess returns of predictive regression minus trailing mean strategy in sentiment model simulations
 
 I won't try to figure out the optimal degree of shrinkage here. Instead,  I'll try something very simple. I take the predictive regression coefficient estimates every period and I shrink them halfway towards the trailing mean. Put differently,  my forecast now is a weighted average of the predictive regression forecast and the trailing mean with weight $50/%. The red line shows the result. This simple shrinkage strategy does better than all the others!
@@ -992,6 +1013,7 @@ I won't try to figure out the optimal degree of shrinkage here. Instead,  I'll t
 Even so,  it's quite clear that OOS forecasting of excess returns on a stock market investment is not easy. Some observers conclude from this that the market must be macro efficient,  i.e.,  that there is little mispricing at the aggregate stock market level. While this could be true,  it does not follow necessarily from the fact that returns are hard to forecast OOS. Stock market excess returns would also be difficult to forecast in a world in which there is substantial mispricing,  with large deviations in stock prices from their fundamental values at the aggregate market level,  if this mispricing is very persistent. If mispricing is not followed by quick price corrections,  the mispricing does not represent a great investment opportunity even for the smartest investors.
 
 ![400](CleanShot%202024-10-24%20-003109@2x.png)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-115.jpg?height=915&width=1189&top_left_y=296&top_left_x=487)
 Figure 3.15 illustrates this based on simulated data from the sentiment model that we looked at earlier. Each simulation run produces returns and price-dividend ratio samples
 
 of similar length as the ones I used in Figure 3.14. I then run the pseudo-OOS forecasting exercise from Figure 3.14 on the simulated data and I record the differences between the cumulated standardized excess returns of the predictive regression strategy and a trailing mean strategy. The histogram of these differences shows that the predictive regression wins on average,  but there is a huge amount of variation around it. About a third of the time,  the trailing mean forecast wins! And this is in a simulated model where we know for sure that there is big time-varying mispricing in the stock market.

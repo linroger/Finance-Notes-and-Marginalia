@@ -672,8 +672,10 @@ $$
 
 Then we rebalance the An Asset Allocation Primer | portfolio]] back to the optimal portfolio share $\omega$. And repeat the procedure for every day in the simulation.
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-172.jpg?height=595&width=771&top_left_y=296&top_left_x=539)
 Figure 5.1a shows the resulting paths of $\log$ wealth for the different values of $\gamma$ for the first 10,  000 days (with 250 Trading and Liquidity | trading]] days per year this amounts to 40 calendar years). The log wealth achieved by growth-optimal portfolio is shown by the solid red line. From this plot it looks like the growth-optimal portfolio started outgrowing all others by the end of the 10,  000 day period. Is this the point from where it remains ahead of all the other portfolios forever?
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-172.jpg?height=624&width=768&top_left_y=992&top_left_x=543)
 Figure 5.1b shows that the answer is no. This figure shows wealth for the first 100,  000 Trading and Liquidity | trading]] days in the simulation (400 years). While the growth-optimal portfolio
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-172.jpg?height=595&width=771&top_left_y=296&top_left_x=539)
@@ -691,14 +693,17 @@ Figure 5.1b shows that the answer is no. This figure shows wealth for the first 
 (C)Stefan Nagel 2024
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-172.jpg?height=595&width=771&top_left_y=296&top_left_x=539)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-172.jpg?height=613&width=768&top_left_y=1710&top_left_x=543)
 Figure 5.1: Log wealth evolution for Chapter 3 -  Assets, Portfolios, and Arbitrage | portfolios]] of different riskiness. Growth-optimal portfolio has $\gamma=1$.
 
 stayed ahead of the others most of the time until around day 40,  000,  it subsequently falls substantially behind the more conservative Chapter 3 -  Assets, Portfolios, and Arbitrage | portfolios]] with $\gamma>1$ that have a lower share allocated to equities. In the simulation,  this happens to be a prolonged period of poor stock market performance,  and hence portfolios with more conservative allocation do better. Only after about 100,  000 days,  at the very end of the chart,  the growth-optimal portfolio gets ahead of the others again.
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-174.jpg?height=640&width=795&top_left_y=474&top_left_x=622)
 Figure 5.1c shows that up to 1 million Trading and Liquidity | trading]] days ( 4,  000 years) the growth-optimal portfolio stays ahead of the others. Does this mean that we have found the point where it outperforms the others forever? Not clear. That it is ahead for so long is not a mathematical proof that we have found the point in time from which onwards it dominates forever. But even if it did,  what relevance does this have for a practical Lecture 5- Dynamic Portfolio Choice | portfolio choice]] problem that it outperformed all the others,  finally,  after 400 years? And in other circumstances,  if the path of random shocks that generated the stock index returns is different,  it could take more longer,  say 1,  000 years? Or 10,  000?
 
 To get to an analysis that is more relevant for a typical real-world long-term investor,  let's see what happens with a fixed horizon. Consider an investor with a fixed horizon who cares about wealth after 10,  000 days (approx. 40 years),  which is roughly in the ballpark of the typical horizon of a young retirement investor or a Uses of Interest Rate Swaps | pension fund]]. We can use these simulations to evaluate the distribution of wealth that results from different values of $\gamma$ in our Lecture 5- Dynamic Portfolio Choice | portfolio choice]] rule. We always start with 1$ of wealth and then simulate 1,   000 return series with length of 10,   000 and the evolution of wealth that results from applying a portfolio rule for a given $\gamma$.
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-174.jpg?height=668&width=790&top_left_y=1273&top_left_x=624)
 Figure 5.2a shows the result. We can see that the growth-optimal An Asset Allocation Primer | portfolio]] with $\gamma=1$ does not clearly dominate other portfolios. It has less downside risk than the portfolio with $\gamma=0.5$. The latter portfolio is so risky that it frequently leads to large losses that bring the wealth at the end of our evaluation period close to zero. However,  as Figure 5.2 b shows,  which zooms in on the right tail of the distribution that is cut off in Figure 5.2 a ,  the riskiness of the $\gamma=0.5$ portfolio also brings substantially higher chances than the growth-optimal portfolio of an extremely large wealth gain. And it delivers a higher return on average,  as shown in the table below: on average,  wealth grows by $4695 \%$ with $\gamma=0.5$ and only $1001 \%$ with the growth-optimal portfolio strategy.
 
 Table 5.5: Simulations of An Asset Allocation Primer | portfolio]] risk and return over 40-year horizon
@@ -719,6 +724,7 @@ Which of these An Asset Allocation Primer | portfolio]] allocation policies,  an
 (b) Right tail of the distribution
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-172.jpg?height=624&width=768&top_left_y=992&top_left_x=543)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-180.jpg?height=524&width=527&top_left_y=540&top_left_x=1189)
 Figure 5.2: Simulated distribution of wealth after 40 years for Chapter 3 -  Assets, Portfolios, and Arbitrage | portfolios]] of different riskiness. Growth-optimal portfolio has $\gamma=1$.
 
 they generate,  are more attractive to an investor depends on the Overview of Financial Markets | investors]] risk preferences. The growth-optimal portfolio is not a universally preferable portfolio. Whether an investor prefers the growth-optimal portfolio,  or a more conservative portfolio with lower risky asset exposure,  or a riskier portfolio,  depends on risk preferences. An expected utility maximizing investor would choose it only if they have relative risk aversion equal to 1 . If they have higher risk aversion,  they prefer a less risky,  lower expected return strategy. If they have lower risk aversion,  they prefer a strategy with higher risk and higher expected return than the growth-optimal strategy.
@@ -924,6 +930,7 @@ Public Employees' Retirement Fund (PERF) As of September 30,  2021
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-180.jpg?height=524&width=527&top_left_y=540&top_left_x=1189)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-184.jpg?height=949&width=1201&top_left_y=290&top_left_x=424)
 Figure 5.3: CalPERS Lecture 2- Lecture 2- Asset Allocation with Multiple Risky Assets | Asset Allocation]] with Multiple Risky Assets | asset allocation]] September 2021
 
 To see the contrast to a passive strategy,  recall our discussion in Lecture 2 of the absence of Trading and Liquidity | trading]] needs when an investor holds the market portfolio,  or,  more generally,  when an investor replicates a value-weighted index. As a reminder,  let's quickly revisit this using the example of a value-weighted stock index. With $N$ stocks,  a price $p_{i,    t}$ of stock $i$ at time $t$,  and shares outstanding for each stock of $s_{i}$ (assumed constant),  the weight of each stock in the index at $t$ is
@@ -1024,6 +1031,7 @@ As the figure shows,  the adaptive An Asset Allocation Primer | portfolio]] has 
 
 [[^24]] ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-184.jpg?height=949&width=1201&top_left_y=290&top_left_x=424)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-188.jpg?height=920&width=1186&top_left_y=819&top_left_x=426)
 Figure 5.4: Equity share with adaptive Lecture 2- Lecture 2- Asset Allocation with Multiple Risky Assets | Asset Allocation]] with Multiple Risky Assets | asset allocation]] policy
 
 COVID pandemic in Slides Note 9 Bidask.not New 2020 | 2020]],  and below-average allocations following stock market downturns such as during the depth of the financial crisis in 2008-09.

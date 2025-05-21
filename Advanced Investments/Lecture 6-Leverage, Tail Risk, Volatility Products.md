@@ -55,6 +55,7 @@ How much leverage do we need to get it up to $15\%$ volatility? Recall that if w
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-194.jpg?height=941&width=1201&top_left_y=630&top_left_x=424)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-194.jpg?height=941&width=1201&top_left_y=630&top_left_x=424)
 Figure 6.1: Weights of risk parity portfolio (10 years of data to estimate standard deviations)
 
 The weights of the risk parity portfolio are all positive. In this case, the ratio of assets held by the portfolio as long positions ($2.21$) divided by the wealth invested by the investor ($1$) measures the leverage of the portfolio:
@@ -179,6 +180,7 @@ Beta $^{4}=3.01$
 The scatter graph charts the daily NAV-to-NAV results of the fund against its underlying index return on a daily basis.
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-194.jpg?height=941&width=1201&top_left_y=630&top_left_x=424)
+![500](app://2d50da59b996e9c682dfb2698e680a3d659c/Users/rogerlin/Wealth%20of%20Nations/Attachments/Paste%202024-10-24%2010.37.00.png?1729791521765)
 Figure 6.3: Levered exchange-traded product UPRO
 
 Let's deepen the puzzle further. Suppose the index return is IID,  and denoted by $R_{m,       t}$ with $\mathbb{E}\left[R_{m,       t}\right]=\mu$. For simplicity,  suppose that $R_{F}=0$ so that the one-period return of a leveraged position in the index,  with leverage ratio $\omega>1$,  is $R_{t}=\omega R_{m,       t}$. Now consider first the expected two-period compound return on the index
@@ -235,9 +237,11 @@ I then compound these returns for 750 days,  and I simulate many such paths.
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-204.jpg?height=1014&width=1267&top_left_y=298&top_left_x=386)
 
+![300](Keep%20It%202024-10-24%2010.39.33.png)
 Figure 6.4: Simulated compound returns over 3 years in a $3 x$ leveraged strategy
 
 ![500](app://2d50da59b996e9c682dfb2698e680a3d659c/Users/rogerlin/Wealth%20of%20Nations/Attachments/Paste%202024-10-24%2010.37.00.png?1729791521765)
+![300](Keep%20It%202024-10-24%2010.39.27.png)
 Figure 6.4 shows 100 such paths. A closer look at the figure shows that a large number of these paths end at 3 -year returns lower than zero. On these paths,  the wealth destruction story seems to play out. But note that there are some paths on which the wealth gain is enormous. On the path with the maximum wealth gain among these 100 paths,  the 3 x leveraged strategy earns more than $2,      000 \%$ over the 3 -year period. Also,  because the strategy is rebalancing back to 3 x leverage every period,  wealth never falls to zero. Whenever there is a loss,  leverage goes up above 3 x (as the equity in our position falls),  but we rebalance back to 3 x ,  which reduces the risk of a big loss that could wipe out all wealth. In contrast,  a strategy that takes $3 x$ leverage in the beginning and then does not rebalance every period faces a high risk that a sequence of bad returns completely wipe out all wealth.
 
 Thus,  returns are extremely skewed. Very often,  the leveraged strategy loses in the long-term,  but in some cases it earns a spectacular return. And in some cases,  it suffers huge losses,  but losses that are still smaller than the losses one would get from a levered strategy without rebalancing.
@@ -246,6 +250,7 @@ We can see this more clearly in the histogram shown in Figure 6.5. The blue bars
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-205.jpg?height=833&width=1047&top_left_y=359&top_left_x=555)
 
+![300](CleanShot%202024-10-24%20-003114@2x.png)
 Figure 6.5: Histogram of simulated compound returns over 3 years in 3 x leveraged and unleveraged strategy
 
 show the histogram of 3 x levered 3 -year returns from 1,  000 simulations. It shows that in the majority of simulation runs,  the 3 -year return is negative,  but there is also a very long right-tail of rare,  but extremely large positive returns. In comparison,  the orange bars show the histogram of the index returns without leverage. For index returns the vast majority of 3-year returns are positive,  and the right tail of positive returns is much less pronounced.
@@ -292,6 +297,7 @@ Note that when the index performs very poorly,  the initial 3 x leverage strateg
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-208.jpg?height=893&width=1117&top_left_y=296&top_left_x=466)
 
+![500](Keep%20It%202024-10-24%2010.39.19.png)
 Figure 6.6: Simulated 3-year returns of various leveraged strategies as function of 3-year index returns
 
 In contrast,  as the scatter plot of red circles shows,  the constant-leverage strategy's loss is bounded by $-100 \%$. This is due to the frequent rebalancing. Every time the index declines and the leveraged strategy experiences a daily loss-which would lead to rising leverage in the absence of rebalancing - the strategy sells some index investment to reduce leverage back to the target leverage of $\omega=3$. This quick de-risking following losses ensures that the strategy never experiences a loss big enough to wipe out all wealth invested in it.
@@ -370,9 +376,11 @@ Now that we have seen that a constant-leverage strategy is effectively synthesiz
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-211.jpg?height=901&width=1115&top_left_y=777&top_left_x=516)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-202.jpg?height=524&width=1048&top_left_y=1012&top_left_x=254)
 Figure 6.7: Simulated 3-year returns of constant-leverage strategy and a strategy that combines investment in index with options on the index
 
 ![300](Keep%20It%202024-10-24%2010.39.33.png)
+![500](Keep%20It%202024-10-24%2010.39.08.png)
 Figure 6.7 provides an example of how this can be done. It shows the 3-year returns from a strategy that invests in the index combined with buying and selling call options. To understand the construction of this strategy,  it's easiest here to think of the index investment as purchase of one share of an index ETF. Let $S_{0}$ be the price of one ETF share at the start of the 3-year period. For simplicity,  let's also assume that one option has one share of the ETF as underlying asset. The options are European. The combined position involves,  at the start of the 3-year period
 - purchase of one share of the index ETF
 - purchase of 5 call options with strike price $K=S_{0}$ (hence these are at-the-money (ATM) options) and 3-year maturity
@@ -448,9 +456,11 @@ Recall that a European put option gives a right,  but not the obligation,  to se
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-216.jpg?height=898&width=1117&top_left_y=299&top_left_x=466)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-204.jpg?height=1014&width=1267&top_left_y=298&top_left_x=386)
 Figure 6.8: Simulated 3-year returns of strategies with initially fixed 3:1 leverage and with or without put protection
 
 ![300](Keep%20It%202024-10-24%2010.39.27.png)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-205.jpg?height=833&width=1047&top_left_y=359&top_left_x=555)
 Figure 6.8 shows a scatter plot of simulated 3-year returns of a strategy with initial 3 x leverage and no rebalancing (blue circles) against the 3-year market index returns,  as earlier in Figure 6.6. For this strategy,  doing the same calculation as in (6.13),  with a $25 \%$ margin requirement,  a decline of $-11.1 \%$ in the risky asset position would be enough trigger a margin call.
 
 This is quite a small tolerance for losses. Why is it so small? In our earlier calculation with 2:1 leverage,  we could sustain a $-33.3 \%$ decline in the risky asset value without a margin call and here with $3: 1$ leverage it is only $-11.1 \%$ ? The reason is that $3: 1$ leverage is already quite close to the maximum leverage of $4: 1$ that is possible with a margin constraint of $25 \%$. With $4: 1$ leverage,  any loss,  no matter how small,  would trigger a margin call. Obviously,  no investor in their right mind would try to take $4: 1$ leverage if the margin requirement is $25 \%$.
@@ -475,9 +485,11 @@ but since the payout of the option is capped below at zero,  this possibility is
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-218.jpg?height=880&width=1131&top_left_y=449&top_left_x=454)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-208.jpg?height=893&width=1117&top_left_y=296&top_left_x=466)
 Figure 6.9: Simulated 1.5-year return on the 3 x initial leverage + OTM puts strategy as function of 1.5 -year index returns
 
 ![300](CleanShot%202024-10-24%20-003114@2x.png)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-211.jpg?height=901&width=1115&top_left_y=777&top_left_x=516)
 Figure 6.9 illustrates this. It shows the returns after 1.5 years (i.e.,  1.5 years before the options expire) on the put-protected strategy as a function of the index return over the same period. As one can see,  the losses on the put-protected strategy are limited to around $-40 \%$ at the very extreme end of index declines on the left-hand side,  slightly bigger losses than after 3 years in Figure 6.6 (the reason why the losses are slightly bigger is explained in the last footnote). In the more likely ranges of moderate declines of the index,  the return on the put-protected strategy are higher than after 3 years in Figure 6.6. This is,  as we discussed,  a consequence that the put options after 1.5
 
 [[^26]]have considerable additional value from the possibility that the index could possibly decline a lot in the remaining life-time of the options between year 1.5 and year 3 . So,  to summarize,  long-term put options are also effective at providing protection in the interim,  before expiration.
@@ -491,10 +503,12 @@ Protection can be improved if we combine short-term put options with regular reb
 An alternative to hedging tail risk with options is to look for assets that tend to perform well during times when tail risk materializes on the assets that we want to hedge. If we add such assets to the portfolio,  it can provide some offsetting gains in times when other assets in the portfolio perform very poorly. Unlike with put options,  this is not guaranteed. It's just likely,  in a statistical sense,  judging by historical experience.
 
 ![500](Keep%20It%202024-10-24%2010.39.19.png)
+![500](Paste%202024-10-24%2010.43.16.png)
 Figure 6.10 presents some examples. The first block of rows at the top shows the performance of two U.S. and two international stock market indices in three episodes in the past 25 years when stock markets dropped by large percentages (burst of the technology bubble,  financial crisis,  COVID crisis). Many investors have large stock market exposures in their portfolio,  so assets that do well when stock markets drop a lot would be potentially suitable tail-risk hedges.
 
 Figure 4: Tail Hedge Performance in Crises
  ![500](Dropover%202024-10-24%2010.37.20.png)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-216.jpg?height=898&width=1117&top_left_y=299&top_left_x=466)
 Figure 6.10: Payoff of Tail Risk Hedging Strategies during Severe Market Downturns Source: CAIA Association,  "Tail Risk Hedging,  ",  August 25,  2021.
 
 The remaining rows show assets that are often considered as candidate tail-risk hedges: U.S Treasury bonds,  buying credit protection via credit-default swaps (CDS) (which pays out well if many companies default on their debts),  various exchange rates,  commodities,  and a few assets in the bottom group that we will discus in more detail. To be a suitable tail-risk hedge,  we would want to see that the asset reliably performs well when stocks do extremely poorly.
@@ -528,9 +542,11 @@ tail risk hedging program just before the COVID crisis in early 2020. See "The I
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-223.jpg?height=893&width=1117&top_left_y=291&top_left_x=531)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-218.jpg?height=880&width=1131&top_left_y=449&top_left_x=454)
 Figure 6.11: VIX index and annualized realized volatility over following 30 days
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-202.jpg?height=524&width=1048&top_left_y=1012&top_left_x=254)
+![500](Dropover%202024-10-24%2010.37.20.png)
 Figure 6.11 shows the data on this. The blue line shows the time series of daily observations on the VIX. Very clearly visible are the massive spikes in the VIX during the onset of the financial crisis in fall of 2008 and during the COVID crisis in early 2020. Consistent with the strong time-variation in the level of the VIX,  the realized volatility (calculated from daily returns over 30-day windows,  then annualized) shown by the red line also shows huge time-variation that is highly correlated with the VIX. Volatility is clearly not constant. And after burst of volatility such as in 2008 and 2020,  it takes quite a while for volatility to revert back to the mean.
 
 Interestingly,  the VIX is almost always higher than the level of realized volatility during the subsequent days. This means that investors price a volatility risk premium into the put and call options that comprise the VIX index. To understand the source of the risk premium,  consider an investor who holds a long position in the weighted combination of these options that replicates the VIX. If in the next instant,  after the investor established this position,  option market participants' expectations of future volatility go up,  the investor's position would gain. Therefore,  the investor's position provides insurance against unexpected rises in volatility. Apparently,  investors are willing to pay a premium for insurance against such a risk of rising volatility. A risk-neutral investor would only pay a price for options that would make the VIX equal to expected future volatility,  but real-world risk averse investors are willing to pay a higher price for these
@@ -542,6 +558,7 @@ The convention is to say that this volatility risk premium is negative because i
 Now that we understand VIX,  let's turn to VIX futures,  whose tail-risk hedging properties were shown in Figure 6.10. VIX futures are like a forward contract on VIX. If we enter a long position in VIX futures on day $t$ at futures price $F_{t}$ and the futures expire on day $T>t$ (where $T$ could,  for example,  be in the middle of next month,  or in one of the following months) and the level of the VIX index on the futures expiration date is $V I X_{T}$,  then we get a payoff $V I X_{T}-F_{T}$.
  ![500](Dropover%202024-10-24%2010.37.37.png)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-223.jpg?height=893&width=1117&top_left_y=291&top_left_x=531)
 Figure 6.12: CBOE VIX Futures Prices on August 25,  2022
 
 For example,  consider the VIX futures prices from August 25,  2022 shown in Figure 6.12. The price for futures expiring on October $10 / 19 / 2022$ was $25.50$. And so the payoff on October 19,  2022 of a long position entered on August 22,  2022 would be the level of the VIX on October 19 minus $25.50$ ( $\times 1000$ since each futures contract is for a notional value of 1000 times the index). If there were no margin requirements,  no money would change hands at all at the initiation of the contract on August 25. But
@@ -563,11 +580,13 @@ We can look at some exchange-traded products as an easy way to track the returns
 [[^28]]By weighting long positions in two futures with expirations a bit less and a bit more than one month ahead,  the product tries to approximate a position in (non-existing) futures with exactly one month to expiration. This means we can use the return series of VXX to track the return on such a strategy of maintaining a VIX futures position with approximately one month to expiration.
 
 ![500](Keep%20It%202024-10-24%2010.39.08.png)
+![500](Dropover%202024-10-24%2010.37.37.png)
 Figure 6.14 shows a time series of the price of VXX. More precisely,  it's the splitadjusted price of VXX. During the time period shown in this plot,  VXX has undergone 1:4 reverse splits where 4 shares were converted into 1. Without adjusting for these splits,  it would look like VXX maintained its value over the entire period,  when in fact its value almost completely evaporated. To show in more detailed what happened in the later part of this period,  Figure 6.15 focuses just on the 2014 to 2021 subperiod.
 
 Looking at both figures,  we see two key properties that are consistent with the notion that this product provides investors with insurance against tail events: The price rises strongly during crisis episodes when the stock market crashes like in March 2020 where the VXX price rose by several hundred percent (effectively,  insurance pays out),  but in absence of such crashes,  the price falls,  leading the holder to experience losses (effectively,  the insurance premium that must be paid for the insurance).
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-204.jpg?height=1014&width=1267&top_left_y=298&top_left_x=386)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-225.jpg?height=370&width=1567&top_left_y=1493&top_left_x=298)
 Figure 6.16 shows these hedging properties in a scatterplot of daily VXX return against daily CRSP value-weighted stock index return. In addition to the scatterplot,  the figure also shows a curve that smoothes the scatter observations locally in order to visualize the underlying nonlinear relationship between the two variables. It shows that there is a particularly strong negative relationship between stock index returns and VXX returns in the domain of losses on the stock index.
 
 Table 6.2: Annualized risk-return properties of a strategy that combines stock index with VXX
@@ -578,6 +597,7 @@ not an exchange traded fund. So an investor in this product does not own a share
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-227.jpg?height=893&width=1118&top_left_y=296&top_left_x=517)
 
+![400](Dropover%202024-10-24%2010.37.52.png)
 Figure 6.14: Split-adjusted VXX ETN price
 
 Adding VXX to a stock portfolio should therefore substantially reduce the downside risk of the portfolio. How would this have played out in the period that my VXX return data sample spans,  February 2009 to December 2021? Table 6.2 shows the mean returns,  standard deviations,  and Sharpe ratio (all annualized) from a strategy that invests $100 \%$ in the CRSP value-weighted stock index and one that rebalances every day to $90 \%$ in the stock index and 10% in VXX. Not surprisingly,  the combined strategy has substantially lower standard deviation of returns. The mean returns are lower,  too,  consistent with the fact that investing in VXX means paying an insurance premium. In fact,  the mean returns are sufficiently low so that the Sharpe ratio of the combined strategy of 0.75 is somewhat lower than the Sharpe ratio of the stock index of 0.87 . (Even so,  a sufficiently risk averse investor might prefer the combined strategy).
@@ -588,6 +608,7 @@ Let me close our discussion with a warning. Earlier I pointed out that the price
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-228.jpg?height=898&width=1131&top_left_y=291&top_left_x=451)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-227.jpg?height=893&width=1118&top_left_y=296&top_left_x=517)
 Figure 6.15: Split-adjusted VXX ETN price since 2014
 
 VIX futures depends on the investors' expectations of VIX at the futures' expiration in the future. Therefore,  VIX futures prices will not move one-for-one with VIX. In some cases,  although this will be very rare,  it could even happen that VIX rises,  e.g.,  before an event that involves lots of uncertainty,  like an election,  but at the same time expectations of VIX in the future falls. To see why,  recall that the current VIX index will reflect expectations about volatility over the next 30 days,  so if we approach an uncertainty event,  the VIX will start capturing it once it's less than 30 days away. However,  VIX futures capture expectations of future VIX,  and as we get closer to the uncertainty event,  VIX futures may no longer capture the uncertainty associated with this event because it is too near term. So as we approach the uncertainty event,  VIX and VIX futures could even move in opposite direction.
@@ -598,6 +619,7 @@ The first is that Barclays,  the issuer of VXX had made a regulatory paperwork b
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-229.jpg?height=868&width=1115&top_left_y=298&top_left_x=516)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-228.jpg?height=898&width=1131&top_left_y=291&top_left_x=451)
 Figure 6.16: Scatterplot of daily VXX return against daily stock index return,  January 2018 to December 2021.
 
 Another problem with volatility-linked products occurred in February 2018 in an episode that came to be known as 'Volmageddon'. This concerned not VXX,  but inverse VIX products that are constructed to move inverse to VIX futures,  e.g. with returns always -1x the VIX futures return. On February 5,  2018 the VIX rose by $102 \%$ in a single day,  leading some inverse VIX products to fall by $97 \%$. To stay hedged,  the issuers of these products had to purchase VIX futures following the strong upward movements in the VIX which may have further exacerbated the rise VIX futures and VIX. The next day,  Credit Suisse,  the issuer of one popular product with ticker XIV announced that they would trigger a provision in the contract of XIV that allowed them to redeem the notes for a final payment in the event that the price of XIV should fall more than $80 \%$ in a day. This attracted criticism because of the possibility that the price impact of the rebalancing of Credit Suisse's hedge position may have contributed to the rise in VIX futures prices that lead to the large losses on XIV. In any case,  this episode illustrates that problems can arise when the futures markets underlying these products is not liquid enough to absorb large rebalancing flows without price distortions.

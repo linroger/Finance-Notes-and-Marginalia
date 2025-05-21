@@ -525,6 +525,7 @@ The market portfolio is a very special portfolio. Aside from new issues of stock
 
  ![500](CleanShot%202024-10-24%20-003106@2x.png)
 
+![500](CleanShot%202024-10-24%20-003106@2x.png)
 Figure 2.1: Turnover rate of Vanguard Total Stock Market Index Fund (VITNX)
 
 Because trading needs are so minimal,    holding the market portfolio,    or more generally a value-weighted portfolio,    is very cheap in terms of trading cost. As an example,    Figure (2.1) shows some portfolio statistics for the Vanguard Total Stock Market Index Fund. This is a fund that aims to replicate the performance of the entire market portfolio of U.S. stocks as represented by the CRSP value-weighted index. As the figure shows,    the turnover rate of this fund is less than $5/% per year. This means that only $5/% of the portfolio's total value is traded each year. Most of this is accounted for by dividends,    proceeds from mergers that must be reinvested,    and investment in initial or seasoned public offerings that come to the market. But other than this,    there is basically no need to trade.
@@ -659,6 +660,7 @@ which is smaller,    by factor $1 / \sqrt{n}$,    than the standard error when w
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-048.jpg?height=798&width=985&top_left_y=1048&top_left_x=532)
 
 
+![500](CleanShot%202024-10-24%20-003108@2x.png)
 Figure 2.3: Distribution of annualized mean estimates when returns are measured at different measurement frequencies
 
 Figures 2.3 and 2.4 illustrate this with simulations. I simulate $T=10,        000$ daily returns by drawing from a normal distribution such that the annualized returns (assuming 250 trading days per year) have mean 0.05 and standard deviation 0.20 . I calculate the mean and standard deviation of these daily returns. Then I aggregate the returns to annual returns by summing the daily returns within 250 -day windows (if I do it by
@@ -666,6 +668,7 @@ Figures 2.3 and 2.4 illustrate this with simulations. I simulate $T=10,        0
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-049.jpg?height=789&width=987&top_left_y=351&top_left_x=577)
 
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-048.jpg?height=798&width=985&top_left_y=1048&top_left_x=532)
 Figure 2.4: Distribution of annualized standard deviation estimates when returns are measured at different measurement frequencies
 
 properly compounding the daily returns,    the results are very similar). I calculate the mean and standard deviation of these annual returns. Then I repeat this 1,    000 times each with a new random draw of a daily return series of length $T=10,        000$.
@@ -716,9 +719,11 @@ $$
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-048.jpg?height=798&width=985&top_left_y=1048&top_left_x=532)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-049.jpg?height=789&width=987&top_left_y=351&top_left_x=577)
 Figure 2.5: Optimal allocation of risky asset portfolio based on estimated return moments
 
 ![500](CleanShot%202024-10-24%20-003106@2x.png)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-052.jpg?height=1012&width=1201&top_left_y=594&top_left_x=424)
 Figure 2.5 presents the result. The bars in this figure show the elements of the portfolio weight vector $\hat{\boldsymbol{\omega}}^{*}$. This result may be somewhat surprising. The portfolio is mostly a combination of long positions in government bonds (U.S. Treasury and international) and domestic value stocks,    as well as a short position in international stocks. Other asset classes only play a minor role.
 
 These results are quite sensitive to the inputs,    though. So our work is not done yet.
@@ -740,6 +745,7 @@ Another useful sensitivity check can help us understand the conditions that lead
 (b) Mean excess return of international stocks raised to be the same as domestic stocks
 
 ![500](CleanShot%202024-10-24%20-003108@2x.png)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-054.jpg?height=1410&width=966&top_left_y=290&top_left_x=536)
 Figure 2.6: Sensitivity analysis
 
 
@@ -750,9 +756,11 @@ Another way of checking sensitivity is to examine how the optimal weights change
 
  ![500](CleanShot%202024-10-24%20-003106@2x.png)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-055.jpg?height=941&width=1185&top_left_y=1058&top_left_x=486)
 Figure 2.7: Weights of estimated mean-variance efficient portfolio without shrinkage (10 years of data to estimate means and covariances)
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-048.jpg?height=798&width=985&top_left_y=1048&top_left_x=532)
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-063.jpg?height=887&width=1186&top_left_y=695&top_left_x=491)
 Figure 2.7 shows the results. In the latest decade,    the weights are somewhat stable and not too extreme. But in the first decade,    they take extreme values: In the early years we see weights of more than $400/% in Corporate Bonds and a roughly similarly sized
 
 short position in Treasury bonds. This is effectively an extremely highly levered bet on corporate credit. Based on 10-year lagged data on returns,    and taking these data as the true expected excess returns and covariances,    this looked like an attractive position back then.
@@ -1017,6 +1025,7 @@ Now I have several time-series of portfolio excess returns,    one for each $\ph
 
  ![500](CleanShot%202024-10-24%20-003108@2x.png)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-066.jpg?height=926&width=1201&top_left_y=762&top_left_x=424)
 Figure 2.8: Out-of-sample Sharpe Ratios for different values of the shrinkage parameter $\phi$ and different lengths of the backward-looking estimation window
 
 I then redo the whole procedure with a different estimation window sizes of 10 years and 5 years in addition to the 20-year window. Figure 2.8 shows the results. For each of the estimation window lengths,    it shows how the Sharpe ratio of the portfolio changes with $\phi$. There are a few things to note.
@@ -1114,6 +1123,7 @@ Now,    conceptually,    it's not clear why equal risk budgets for each asset cl
 
  ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-048.jpg?height=798&width=985&top_left_y=1048&top_left_x=532)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-068.jpg?height=955&width=1201&top_left_y=1035&top_left_x=424)
 Figure 2.9: Weights of risk parity portfolio (10 years of data to estimate standard deviations)
 
 ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-049.jpg?height=789&width=987&top_left_y=351&top_left_x=577)
