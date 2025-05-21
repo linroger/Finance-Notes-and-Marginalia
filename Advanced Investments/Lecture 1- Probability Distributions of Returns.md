@@ -599,15 +599,14 @@ When returns are not IID,  things are more complicated. But we'll get to this la
 
 Table 1.1: Annualized risk and return estimates for various asset classes 1980-2021
 
-
-$$\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
-\hline
-~ & Stocks & I-Stocks & Value & Small & T-Bonds & I-Bonds & C-Bonds & REITS & Gold \\ \hline
-$\hat{\mu} - r_f$ & 0.079 & 0.060 & 0.102 & 0.091 & 0.030 & 0.041 & 0.037 & 0.074 & 0.007 \\ \hline
-$\hat{\sigma}$ & 0.157 & 0.172 & 0.177 & 0.209 & 0.064 & 0.087 & 0.068 & 0.170 & 0.175 \\ \hline
-SR & 0.503 & 0.348 & 0.580 & 0.434 & 0.467 & 0.470 & 0.536 & 0.437 & 0.038 \\ \hline
-s.e. $\left(\hat{\mu}\right)$ & 0.024 & 0.026 & 0.027 & 0.032 & 0.010 & 0.013 & 0.010 & 0.026 & 0.027 \\ \hline
-\end{tabular}
+$$
+\begin{array}{c|ccccccccc}
+ & \text{Stocks} & \text{I-Stocks} & \text{Value} & \text{Small} & \text{T-Bonds} & \text{I-Bonds} & \text{C-Bonds} & \text{REITS} & \text{Gold} \\ \hline
+\hat{\mu} - r_f & 0.079 & 0.060 & 0.102 & 0.091 & 0.030 & 0.041 & 0.037 & 0.074 & 0.007 \\
+\hat{\sigma} & 0.157 & 0.172 & 0.177 & 0.209 & 0.064 & 0.087 & 0.068 & 0.170 & 0.175 \\
+\text{SR} & 0.503 & 0.348 & 0.580 & 0.434 & 0.467 & 0.470 & 0.536 & 0.437 & 0.038 \\
+\text{s.e. } \left(\hat{\mu}\right) & 0.024 & 0.026 & 0.027 & 0.032 & 0.010 & 0.013 & 0.010 & 0.026 & 0.027
+\end{array}
 $$
 
 Table 1.1 shows annualized estimates of mean returns in excess of the average T-bill return and risk measures for various asset classes over the period 1980-2022. Stocks:
@@ -637,9 +636,5 @@ Once we have picked the asset,  we can then lever up or down to achieve the opti
 
 \end{equation*}
 
-$$
-<<<<<<< HEAD
-Of course,  combining risky asset classes may be much better than picking a single one. For this,  we need to take into account the correlation of an asset returns. We'll get to this important point in the next session.
-=======
-Of course,  combining risky asset classes may be much better than picking a single one. For this,  we need to take into account the correlation of an Some Stylized Empirical Facts About Asset Retur | asset returns]]. We'll get to this important point in the next session.
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
+$$Of course,  combining risky asset classes may be much better than picking a single one. For this,  we need to take into account the correlation of an asset returns. We'll get to this important point in the next session.
+

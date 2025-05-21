@@ -36,19 +36,11 @@ key_concepts:
 ---
 
 # Lecture 2: Asset Allocation with Multiple Risky Assets
-<<<<<<< HEAD
+
 We now extend our optimal portfolio choice framework to allow for multiple risky assets. This gets us close to the type of models that are used by asset managers of large portfolios to decide how much to allocate to different asset classes.
-=======
-We now extend our optimal An Asset Allocation Primer | portfolio]] choice framework to allow for multiple risky assets. This gets us close to the type of models that are used by asset managers of large portfolios to decide how much to allocate to different asset classes.
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
 We still stick to the IID returns assumption for now.
-
-<<<<<<< HEAD
 In your intro investments course, you saw the graphical representation of the solution for the optimal portfolio. Recall the hyperbolic shape of the mean-standard deviation frontier, the tangency portfolio, and the capital market line that depicts all possible combinations of the risk-free asset with the tangency portfolio. Here we are going to use matrix algebra to get explicit formulas for the tangency portfolio and its risk-return properties.
-=======
-In your intro investments course, you saw the graphical representation of the solution for the optimal An Asset Allocation Primer | portfolio]]. Recall the hyperbolic shape of the mean-standard deviation frontier, the tangency An Asset Allocation Primer | portfolio]], and the capital market line that depicts all possible combinations of the 2. Forwards, Swaps, Futures, and Options | risk-free asset]] with the tangency An Asset Allocation Primer | portfolio]]. Here we are going to use matrix algebra to get explicit formulas for the tangency An Asset Allocation Primer | portfolio]] and its risk-return properties.
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
 I use bold lowercase letters for vectors and bold uppercase letters for matrices. I use $\boldsymbol{\iota}$ to denote a column vector with all elements equal to one and $\boldsymbol{I}$ for the identity matrix (which has ones on its diagonals and zeros everywhere else). Letters or symbols that are not in boldface are scalars.
 
@@ -65,11 +57,8 @@ $$
 
 $$
 
-<<<<<<< HEAD
 Very important for our portfolio choice analysis is the $N \times N$ covariance matrix of returns
-=======
-Very important for our An Asset Allocation Primer | portfolio]] choice analysis is the $N \times N$ covariance matrix of Assets | returns]]
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
+
 $$
 
 \begin{equation*}
