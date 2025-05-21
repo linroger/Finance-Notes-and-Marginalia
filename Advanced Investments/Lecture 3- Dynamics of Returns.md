@@ -82,7 +82,7 @@ $$
 
 $$
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-073.jpg?height=790&width=969&top_left_y=353&top_left_x=600)
 
 Figure 3.1: Distribution of monthly stock market returns 1927-2021 conditional on gain or loss in previous month
 
@@ -180,7 +180,7 @@ Figure 3.2 illustrates this. It shows the empirical distribution of stock market
 
 In contrast,  for 10-year returns,  the picture is different. Looking at the upside in the bottom panel of Figure 3.2,  we can see 10-year periods with realized returns of 400/% or more. On the downside,  of course,  there are no downside moves of similar magnitude. The biggest losses over 10-year periods in this data set are returns of around -50/%. As a consequence,  the empirical distribution of 10 -year returns is strongly asymmetric. It basically has to be as the upside is unbounded but the downside is limited to -100 %.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-076.jpg?height=1060&width=1330&top_left_y=359&top_left_x=346)
 
 Figure 3.2: Empirical stock market return distributions when returns are measured over different horizons,  1927-2022
 
@@ -188,7 +188,7 @@ In contrast,  it is an economically sensible approximation for many types of ass
 
 If log returns are normally distributed,  this means that simple returns plus one,  $1+R=\exp (r)$,  are log-normally distributed. Since $\exp (r)-1$ is bounded below by -1 when $r$ is normally distributed,  the log-normal distribution is consistent exactly with the theoretical lower bound on stock returns of $-100/%. So,    using the log-normal distribution for $1+R$,  we can have a distribution of one plus simple returns that is realistically right-skewed and bounded below at zero,  but is still fully described by mean
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-077.jpg?height=955&width=1199&top_left_y=284&top_left_x=474)
 
 Figure 3.3: Probability distribution of $R$ when $r=\log (1+R)$ is normally distributed
 
@@ -202,7 +202,7 @@ We can see the effect of the log transformation if we redo the bottom plot from 
 
 At short horizons,  though,  normal distribution can often be a good approximation to the log-normal distribution. The reason is that for small variance,  the log-normal distribution becomes close to symmetric. One way to see this is to note that $\exp (x) \approx$
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-078.jpg?height=779&width=971&top_left_y=353&top_left_x=531)
 
 Figure 3.4: Empirical distribution of 10-year log returns on a stock market index,  19272022
 $1+x$ for very small $x$.
@@ -633,7 +633,7 @@ One well-known example is the famous value investor Julian Robertson of Tiger Ma
 
 Figure 3.5 shows the monthly flows of the Jaguar fund,  one of the funds managed by Tiger Management,  and compares with the the flows of the Quantum fund,  managed by George Soros. Soros took a very different approach. He tried to "ride the bubble" until the end,  with long positions in tech stocks until March 2000. At the start of the crash,  he quickly reduced these positions. His performance in late 1999 and early 2000 therefore was much better than Julian Robertson's. As the figure shows,  this made a dramatic difference to the timing of flows. The Jaguar fund had strong outflows in the second half of 1999 before being closed down in the first quarter of 2000. The Quantum fund also suffered outflows once its long positions got hit by the crash in March 2000. But due to the prior inflows as well as the large gains it had achieved on its long positions,  the Quantum fund was able to weather those outflows. After the Quantum fund exited tech stock positions quickly in the wake of the crash,  outflows stopped a couple of months
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-089.jpg?height=616&width=1109&top_left_y=321&top_left_x=519)
 
 Figure 3.5: Fund flows of Jaguar fund and Quantum fund
 
@@ -733,7 +733,7 @@ Figure 3.6 shows simulated price paths of $F_{t}$ and $P_{t}$ for total length o
 
 Which of the two cases would make it easier for a smart investor to profit from misvaluation? Clearly the first case. In this case,  if the investor recognizes at a certain point in time that there is big misvaluation,  then,  because sentiment has low persistence,  it's very likely that this misvaluation will correct soon. A bet against misvaluation is therefore likely to pay off soon. In contrast,  in the high-persistence case in the bottom panel,  an investor could correctly diagnose that there is,  say,  undervaluation (such as around quarter 245 in the plot) but then it can take another 5 to 10 years until the
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-092.jpg?height=1671&width=963&top_left_y=425&top_left_x=538)
 
 Figure 3.6: Simulated paths of prices and fundamental value for different values of $\phi$
 
@@ -755,15 +755,15 @@ $$
 Basically,  we are fitting a straight line with slope $b$ and intercept $a$ through the scatter plots we just looked at. Once we have an estimate of the regression coefficients $a,      b$-let's label them $\hat{a},      \hat{b}$-we can form an estimate of the conditional expected next-quarter log return as $\hat{a}+\hat{b} s_{t}$.
 
 Table 3.1: Predictive regressions of one-quarter-ahead log returns on the log sentiment level $s_{t}$
-!400
+![400](CleanShot%202024-10-24%20-003109@2x.png)
 
 To see what such a regression delivers on average (or said differently,  in expectation),  I now generate 1,  000 simulated series of returns and sentiment,  each with length 400 quarters. I run the regression above on each of these simulated 400-quarter series. So for each simulated series,  I get one set of estimates $\hat{a},      \hat{b}$. Table 3.1 shows average $\hat{b}$ across
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-094.jpg?height=1681&width=963&top_left_y=420&top_left_x=540)
 
 Figure 3.7: One period ahead $\log$ returns,  $r_{t+1}$ and $\log$ sentiment,  $s_{t}$
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-095.jpg?height=781&width=965&top_left_y=352&top_left_x=599)
 
 Figure 3.8: Distribution of estimated slope coefficient in return-prediction regression (each simulation run has 400 quarters of data)
 
@@ -796,7 +796,7 @@ As Panel A shows,  the results are quite weak. The sign of the coefficient is as
 
 Table 3.2: Predictive regressions of one-quarter-ahead returns on the lagged log pricedividend ratio,  1927-2022
 
-!300
+![300](CleanShot%202024-10-24%20-003110@2x.png)
 
 thresholds for statistical significance at a $5/% confidence level (this threshold is at -1.96). And the $R^{2}$ of $0.6/% tells us that the $\log \mathrm{P} / \mathrm{D}$ ratio explains very little of the variation of future returns.
 
@@ -815,7 +815,7 @@ If $\operatorname{var}_{t}\left(r_{t+1}\right)$ was constant,  then the differen
 
 Panel B of Table 4.2 shows the result: The slope coefficient is much bigger than in Panel A,  the $t$-statistic is now -2.428 ,  which is statistically significantly different from zero at a $5/% level,    and the $R^{2}$ is now $1.3/%.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-098.jpg?height=911&width=1201&top_left_y=298&top_left_x=424)
 
 Figure 3.9: Conventional and repurchase-adjusted log price-dividend ratio
 
@@ -836,7 +836,7 @@ In the present-value identity model that we worked with in this lecture,  repurc
 The blue line in Figure 3.9 adds repurchases to dividends when computing the log price-dividend ratio. As the figure shows,  this completely eliminates the unusual level shift in the $\log \mathrm{P} / \mathrm{D}$ ratio.
 
 Table 3.3: Predictive regressions of one-quarter-ahead returns on the lagged repurchaseadjusted $\log$ price-dividend ratio,  1927-2022
-!300
+![300](CleanShot%202024-10-24%20-003111@2x.png)
 
 Table 3.3 shows that the repurchase-adjustment also improves the ability of the log price-dividend ratio to predict returns: In all three panels for the different types of returns,  the $t$-statistics are of greater magnitude and the $R^{2}$ are higher than in Table 4.2 .
 
@@ -852,7 +852,7 @@ Investment practitioners frequently use a number of alternative measures along w
 
 Economics Nobel laureate Robert Shiller at Yale created the cyclically-adjusted priceearnings ratio (CAPE). ${ }^{3}$ It uses aggregate earnings of firms instead of their dividends. The hope is that earnings may be a better proxy for fundamental value than dividends,  which may be distorted as a measure of fundamental value by certain quirks in firms' payout policy,  such as their tendency to smooth dividends over time,  or firms' substitu-
 
-[[^9]] !500
+[[^9]] ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-101.jpg?height=925&width=1202&top_left_y=291&top_left_x=472)
 
 Figure 3.10: Repurchase-adjusted log price-dividend ratio and log price-earnings ratio
 
@@ -862,7 +862,7 @@ However,  just using current-year earnings as the denominator in a price-earning
 
 As Figure 3.10 shows,  this happened during the Great Recession in 2008/09 and,  to a lesser extent in the recession in 2001. The figure also shows the repurchase-adjusted $\log P / D$ ratio for comparison. Earnings fell so much that the log price-to-earnings ratio actually went up very sharply in 2008/09,  despite the huge drop in stock prices that took place back then! This very different from how the $\log P / D$ ratio behaved. This upward spike completely destroyed the ability of the $P / E$ ratio to serve as a Forecasting) | cyclical]] valuation measure around this time.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-102.jpg?height=915&width=1199&top_left_y=296&top_left_x=428)
 
 Figure 3.11: Repurchase-adjusted log price-dividend ratio and log of cyclically adjusted price-earnings ratio
 
@@ -911,7 +911,7 @@ G=G_{r}+\pi,      \quad Y=Y_{r}+\pi \tag{3.44}
 
 $$
 
-[[^10]] !500
+[[^10]] ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-104.jpg?height=904&width=1201&top_left_y=285&top_left_x=424)
 
 Figure 3.12: Fed model: Repurchase-adjusted log price-dividend ratio minus 10-year yield
 
@@ -957,7 +957,7 @@ The blue line in Figure 3.13 shows the time-series of predicted excess return $\
 
 For comparison,  the red line in the figure shows the predicted excess return if one restricts the regression to have just an intercept. In this case,  there is no predictor variable and the predicted excess return at time $t$ is just he historical mean excess return in the data up to time $t$. I label this the "trailing mean." This trailing mean
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-106.jpg?height=898&width=1199&top_left_y=288&top_left_x=425)
 
 Figure 3.13: Predicted excess returns from recursively expanding window estimation
 
@@ -967,7 +967,7 @@ To evaluate the realized return of the market timing strategy in (3.46),  I firs
 
 To interpret this cumulative standardized return,  we need a benchmark for comparison. I use the trading strategy that uses the trailing mean instead of the price-dividend ratio regression prediction as the portfolio weight. Returns are again standardized and cumulated. The solid black line shows the result. The result is striking (and disappointing for anyone hoping to find an easy way to time the stock market using the price-dividend ratio): By 2022,  the strategy using the trailing mean as forecast is just as good in terms of its cumulative performance as the strategy that used information from the price-dividend ratio in a predictive regression. Thus,  despite the forecasting power that the price-dividend ratio seems to have in in-sample regressions run over the full
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-107.jpg?height=911&width=1189&top_left_y=298&top_left_x=487)
 
 Figure 3.14: Cumulative standardized excess returns of different out-of-sample portfolio strategies
 
@@ -977,7 +977,7 @@ Another interesting benchmark is a strategy that keeps a constant weight in stoc
 
 But perhaps the way we have constructed the excess return forecasts in this pseudoOOS forecasting exercise did not use the information in the price-dividend ratio to its full extent. Recall what we discussed in earlier lectures about estimation error and shrinkage. The estimates of the coefficients of the predictive regression come with substantial statistical uncertainty. They could be quite far from their true values due to estimation error. At the same time,  we know that excess return predictability cannot be huge,  otherwise market timing would be too easy. It can't be easy in a world where smart investors are hunting for opportunities to earn profits. These two circumstances together mean that a good forecast should not really use the regression coefficient estimates directly to construct excess return forecasts,  but first shrink them towards zero.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-108.jpg?height=784&width=1012&top_left_y=351&top_left_x=491)
 
 Figure 3.15: Distribution of the difference in cumulative standardized excess returns of predictive regression minus trailing mean strategy in sentiment model simulations
 
@@ -1085,14 +1085,14 @@ As the figure shows,  there is a lot of variation over time in the level of vola
 
 The first thing we should check is whether our earlier market-timing strategy based on the $\log P / D$ ratio,  which tried to exploit variation in $\mathbb{E}_{t}\left[R_{t+1}\right]-R_{f,      t}$,  inadvertently also timed volatility,  and perhaps in the wrong direction. We can check this by regressing
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-112.jpg?height=922&width=1201&top_left_y=287&top_left_x=424)
 
 Figure 3.16: Annualized quarterly standard deviations of daily stock market index returns
 
 the quarterly volatility observations on the repurchase-adjusted $\log P / D$ ratio at the end of the previous quarter. Table 3.4 shows the result.
 
 Table 3.4: Predicting standard deviations with the lagged repurchase-adjusted $\log P / D$ ratio,  1927-2022
-!300
+![300](Microsoft%20Word%202024-10-24%2010.27.39.png)
 
 | a | b | $R^{2}$ | 
  | ------------- | --------- | ---------- | ------- | 
@@ -1106,7 +1106,7 @@ conventional significance levels.
 Now let's turn to predicting volatility with lagged values of volatility. Looking back at Figure 3.16,  one can see just by eyeballing the chart that volatility is much more predictable than returns. Volatility is strongly positively autocorrelated and hence strongly predictable. When volatility is high in quarter $t$,  it is very likely that volatility is also going to be quite high in quarter $t+1$. The stock market history in this figure shows that there have been multiple cycles of high and low volatility that lasted several years. In terms of predictability,  this makes volatility very different from returns. While returns are hard to predict and the $R^{2}$ in any predictive regression for returns necessarily has to be low (at best perhaps a few percent in quarterly data for a good prediction model),  volatility can be predicted quite well.
 
 Table 3.5: Predicting excess returns and standard deviations with lagged standard deviations,  1927-2022
-!300
+![300](Microsoft%20Word%202024-10-24%2010.27.48.png)
 
 | a | b | $R^{2}$ | 
  | ---------------------------------------------------- | --------- | ---------- | ------- | 
@@ -1140,7 +1140,7 @@ Thus,  this investor's portfolio share would be proportional to $1 / \sigma_{t}^
 
 However,  we do not observe conditional volatility directly. Instead,  we are going to work with lagged volatility $\hat{\sigma}_{t}$ that was realized in quarter $t$. Volatility is,  as the regressions above showed,  very persistent,  but lagged volatility translates less than one-for-one into expected next-period volatility. Moreover,  the regressions above showed that conditional expected excess returns are actually at least somewhat positively related to lagged volatility,  and not exactly constant. So we should temper the aggressiveness of volatility timing a little bit. I try to address both of these issues with a very simple tweak: Rather than setting the portfolio weight $\omega_{t}$ equal to the reciprocal of $\hat{\sigma}_{t}^{2}$,  I set it
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-115.jpg?height=915&width=1189&top_left_y=296&top_left_x=487)
 
 Figure 3.17: Cumulative standardized excess returns of the volatility-timing strategy
 

@@ -51,7 +51,7 @@ $$
 $$
 
 The inflation rate based on the CPI does not necessarily provide the correct measurement of the loss of purchasing power of a dollar that an investor experiences. A price index is a weighted average of the prices of a huge number of individual goods and services. The weighting of these goods and services in the CPI is meant to be appropriate for a representative consumer, but in practice different consumers will have different weights of goods and services in their personal consumption baskets. There are also different official price indices, constructed for different purposes, that use different weights, such as the Personal Consumption Expenditures (PCE) price index, or the GDP deflator that is used to estimate the real gross domestic product. We won't go into the details here of how one could better measure an investor's loss of purchasing power and we'll just assume that the CPI is a good proxy to measure investors' loss of purchasing power due to inflation.
-
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-268.jpg?height=822&width=1180&top_left_y=302&top_left_x=429)
 Figure 8.1: U.S. inflation rate based on consumer price index
 
 Consider an asset with nominal return $R_{t}$. Then the real return of an asset, after adjusting for the loss of purchasing power, is

@@ -53,7 +53,7 @@ Because the risk parity strategy has high weights in bonds, which have relativel
 
 How much leverage do we need to get it up to $15\%$ volatility? Recall that if we take a position with weight $\omega$ in a risky asset with return $R_{t}$, we have portfolio variance $\operatorname{var}\left(R_{p, t}\right)=\omega^{2} \operatorname{var}\left(R_{t}\right)$. So, in terms of standard deviations, and with $R_{t}$ now the return of the risk parity portfolio, we are looking for an $\omega$ that delivers $15.31 =\omega \times 6.92\%$ which we can solve for $\omega=2.21$. In other words, for every $1$ of the investors' wealth, we take $2.21$ exposure to the risk parity strategy (which is constructed with weights of the asset classes in the risk parity portfolio summing up to one), funded by $1.21$ of debt. Figure 6.1 shows the weights of the leveraged risk parity strategy that the investor then ends up holding once the risk parity strategy is combined with leverage. The weights now add up to 2.21, instead of to one.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-194.jpg?height=941&width=1201&top_left_y=630&top_left_x=424)
 
 Figure 6.1: Weights of risk parity portfolio (10 years of data to estimate standard deviations)
 
@@ -91,7 +91,7 @@ Before we look at risk and return consequences, it's useful to first look in mor
 
 ## 6.1.1 Margin loans and repo
 
-!500
+![500](app://2d50da59b996e9c682dfb2698e680a3d659c/Users/rogerlin/Wealth%20of%20Nations/Attachments/Paste%202024-10-24%2010.37.00.png?1729791521765)
 
 Suppose you want to buy $2$ m of stocks, but financed with borrowed money, to the extent possible. The most direct way of doing this is to obtain a margin loan from a broker. The broker takes the assets in the account, including the stocks bought with the margin loan, as collateral.
 
@@ -102,7 +102,7 @@ After the leveraged position is initiated,  the broker will require a maintenanc
 If you do not respond promptly to the margin call (typically until the next business day) and deposit additional funds,  the lender will take the collateral and liquidate it. Thus,  the collateral gets replenished with additional funds daily. From the broker's viewpoint,  the loan is therefore very safe. The broker is only exposed to the risk of loss if a price move between the last collateral replenishment until the time of liquidation is so big that it burns through all the maintenance margin. For this reason,  for professional investors like hedge funds,  the interest rates on margin loans are very close to the risk-free rate.
 
 Suppose you enter this leveraged position in stocks ( $2 \mathrm{~m}$ in stocks,  financed with margin loan of $1 \mathrm{~m}$,  with initial margin $50 \%$ ) for one year. During this one year period,  the stock portfolio earns a random return of $R$. At the end of the year you sell the stock portfolio and pay back the margin loan. The interest rate on the margin loan is the risk-free rate,  which happens to be $5 \%$. The cash flows from your leveraged position are then as shown in the table below (with one simplification: the table only shows the cash flow for the initial margin. It does not show the cash flows that arise if the asset price changes during the margin loan's lifetime and maintenance margin requirements trigger margin calls).
-!300
+![300](Keep%20It%202024-10-24%2010.39.33.png)
 
 For bonds,  but sometimes for stocks,  too,  it is very common to structure collateralized borrowing in the form of sale and repurchase agreement (repo). Legally,  the
 
@@ -129,7 +129,7 @@ The investor pays back margin loan $2 \mathrm{~m} \times\left(1+R_{f}\right)$
 Note that what the investor receives at $t=1$ net is $2 m\left(R-r_{f}\right)$. By absence of arbitrage,  since the cash flows to the investor in the first period in the margin loan case are the same as those in the swap case,  and the risk of cash flows in the second period are the same (risky return $R$ minus a fixed number) the cash flows to the investor in the second period also have to be the same - otherwise there would be an arbitrage opportunity between margin loans and swap markets. Hence,  $R_{\text {swap }}=R_{f}$ must hold. ${ }^{1}$
 
 In addition,  a typical swap contract would also require the investor to post margin. In the table below,  I calculate the net cash flows to the investor if the risk-free rate is $R_{f}=0.05$ and the required initial margin is $50 \%$ of the notional amount of the swap.
-!300
+![300](Keep%20It%202024-10-24%2010.39.27.png)
 
 Comparing the cash flows of the TRS with the margin loan above,  we see that they are exactly the same. Hence,  a TRS achieves the same purpose as a margin loan. But some of the terms could be different. For example,  TRS could have lower margin requirements than a margin loan.
 
@@ -139,12 +139,12 @@ In this one period case,  the TRS is equivalent to another type of derivative,  
 
 ### 6.1.3 Margin requirements
 Table 6.2 shows typical margin requirements (ranges that include initial and maintenance margins) for margin loans for various types of assets and for derivatives contracts. The table also shows the maximum leverage ratio that an investor can achieve given these margin requirements.
-!300
+![300](CleanShot%202024-10-24%20-003114@2x.png)
 margin requirements by security type.
 
 The table lists the margin requirements and their implied level of leverage in various security markets. The data are obtained by collating information from prime brokers and derivatives exchanges as of March 2010.
 
-!500
+![500](Keep%20It%202024-10-24%2010.39.19.png)
 
 Source: Ang,  A.,  Gorovyy,  S. and Van Inwegen,  G.B.,  2011. Hedge fund leverage. Journal of Financial Economics,  102(1),  pp0.\1-126.
 
@@ -170,8 +170,8 @@ ProShares UltraPro S&P500 seeks daily investment results,  before fees and expen
 
 Daily performance of UPRO vs. index during $3 Q 2023$
 
- !500
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-202.jpg?height=524&width=1048&top_left_y=1012&top_left_x=254)
+ ![500](Keep%20It%202024-10-24%2010.39.08.png)
 Correlation ${ }^{3}=0.99$
 
 Beta $^{4}=3.01$
@@ -232,7 +232,7 @@ $$
 
 I then compound these returns for 750 days,  and I simulate many such paths.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-204.jpg?height=1014&width=1267&top_left_y=298&top_left_x=386)
 
 Figure 6.4: Simulated compound returns over 3 years in a $3 x$ leveraged strategy
 
@@ -242,7 +242,7 @@ Thus,  returns are extremely skewed. Very often,  the leveraged strategy loses i
 
 We can see this more clearly in the histogram shown in Figure 6.5. The blue bars
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-205.jpg?height=833&width=1047&top_left_y=359&top_left_x=555)
 
 Figure 6.5: Histogram of simulated compound returns over 3 years in 3 x leveraged and unleveraged strategy
 
@@ -288,7 +288,7 @@ The magnitude of $\left(1+R_{f}\right)^{750}$ is too small to be visible in this
 
 Note that when the index performs very poorly,  the initial 3 x leverage strategy can lose more than the entire amount of initial investment. With 3x initial leverage,  a - $33 \%$ loss on the index is sufficient to extinguish the entire wealth invested in the strategy. Losses bigger than this generate additional liabilities. This is an issue we will revisit shortly.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-208.jpg?height=893&width=1117&top_left_y=296&top_left_x=466)
 
 Figure 6.6: Simulated 3-year returns of various leveraged strategies as function of 3-year index returns
 
@@ -366,7 +366,7 @@ This now gives us further insight into the risk-return properties of a constant-
 
 Now that we have seen that a constant-leverage strategy is effectively synthesizing an option-like payoff,  we can also turn this around and synthesize a leveraged strategy using options.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-211.jpg?height=901&width=1115&top_left_y=777&top_left_x=516)
 
 Figure 6.7: Simulated 3-year returns of constant-leverage strategy and a strategy that combines investment in index with options on the index
 
@@ -420,7 +420,7 @@ so if $V$ initially twice as high as $D$,  a loss greater than $-33.3 \%$ on the
 With a strategy that rebalances to constant 2:1 leverage at high frequency,  things look a bit different. In the idealized case of continuous rebalancing at infinitesimally small time intervals,  the strategy would always maintain a $2: 1$ leverage ratio. This means that it would always maintain a ratio of equity to risky asset position of $50 \%$,  while the margin requirement calls for $25 \%$. So it would always stay comfortably above the margin requirement. Hence no margin calls and no equity infusion or liquidation.
 
 Table 6.1: Rebalancing to constant leverage and margin requirements
- !500
+ ![500](Paste%202024-10-24%2010.43.16.png)
 
 In practice,  investors can't rebalance continuously,  but only at discrete time intervals (e.g.,  daily). But with high probability,  this can still work out to avoid margin calls if the rebalancing frequency is high enough. Table 6.1 presents an example. The first column shows the initially entered position. At that point,  as shown in the last row,  the investors' equity is double the amount of required margin. The second column shows what happens if the initial risky asset position suffers a loss of $-5 \%$ before the first rebalancing point. Before rebalancing,  equity has now fallen by more ( $-10 \%$ ) than the required margin falls ( $-5 \%$ ),  hence the buffer between the investors' equity and the required margin has shrunk. As shown in the last row,  the ratio of equity to required margin fell from 2 to 1.89 . The last column shows the situation after rebalancing. To get back to 2:1 leverage,  the investor sells 0.1 worth of the risky asset and uses it to pay back part of the margin loan. Now the ratio of equity to required margin is back up to 2 .
 
@@ -443,7 +443,7 @@ In contrast,  a strategy that initially sets a certain level of leverage but the
 
 Recall that a European put option gives a right,  but not the obligation,  to sell the underlying asset at the strike price of the put option on the expiration date of the option. By purchasing the right amount of put options we can therefore put a floor under the value of our portfolio.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-216.jpg?height=898&width=1117&top_left_y=299&top_left_x=466)
 
 Figure 6.8: Simulated 3-year returns of strategies with initially fixed 3:1 leverage and with or without put protection
 
@@ -469,7 +469,7 @@ As it turns out,  the answer is yes. The reason is that when the index is at lev
 
 but since the payout of the option is capped below at zero,  this possibility is less relevant for the value of the put option). ${ }^{3}$
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-218.jpg?height=880&width=1131&top_left_y=449&top_left_x=454)
 
 Figure 6.9: Simulated 1.5-year return on the 3 x initial leverage + OTM puts strategy as function of 1.5 -year index returns
 
@@ -488,7 +488,7 @@ An alternative to hedging tail risk with options is to look for assets that tend
 Figure 6.10 presents some examples. The first block of rows at the top shows the performance of two U.S. and two international stock market indices in three episodes in the past 25 years when stock markets dropped by large percentages (burst of the technology bubble,  financial crisis,  COVID crisis). Many investors have large stock market exposures in their portfolio,  so assets that do well when stock markets drop a lot would be potentially suitable tail-risk hedges.
 
 Figure 4: Tail Hedge Performance in Crises
- !500
+ ![500](Dropover%202024-10-24%2010.37.20.png)
 Figure 6.10: Payoff of Tail Risk Hedging Strategies during Severe Market Downturns Source: CAIA Association,  "Tail Risk Hedging,  ",  August 25,  2021.
 
 The remaining rows show assets that are often considered as candidate tail-risk hedges: U.S Treasury bonds,  buying credit protection via credit-default swaps (CDS) (which pays out well if many companies default on their debts),  various exchange rates,  commodities,  and a few assets in the bottom group that we will discus in more detail. To be a suitable tail-risk hedge,  we would want to see that the asset reliably performs well when stocks do extremely poorly.
@@ -520,7 +520,7 @@ Under these more general assumptions the VIX calculation is based on,  if invest
 
 tail risk hedging program just before the COVID crisis in early 2020. See "The Inside Story of CalPERS' Untimely Tail-Hedge Unwind,  " Institutional investor,  April 14,  2020.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-223.jpg?height=893&width=1117&top_left_y=291&top_left_x=531)
 
 Figure 6.11: VIX index and annualized realized volatility over following 30 days
 
@@ -533,7 +533,7 @@ options that makes the VIX exceed expected future volatility.
 The convention is to say that this volatility risk premium is negative because it makes assets with returns that are positively correlated with unexpected changes in volatility (e.g.,  the options underlying VIX) command a higher price and to have lower future returns. (In contrast,  based on this signing convention,  the equity risk premium is positive because it makes assets that are positively correlated with unexpected stock market returns,  e.g.,  positive-beta stocks,  command a lower price and to have higher future returns.)
 
 Now that we understand VIX,  let's turn to VIX futures,  whose tail-risk hedging properties were shown in Figure 6.10. VIX futures are like a forward contract on VIX. If we enter a long position in VIX futures on day $t$ at futures price $F_{t}$ and the futures expire on day $T>t$ (where $T$ could,  for example,  be in the middle of next month,  or in one of the following months) and the level of the VIX index on the futures expiration date is $V I X_{T}$,  then we get a payoff $V I X_{T}-F_{T}$.
- !500
+ ![500](Dropover%202024-10-24%2010.37.37.png)
 
 Figure 6.12: CBOE VIX Futures Prices on August 25,  2022
 
@@ -547,7 +547,7 @@ First,  the price of VIX futures is not necessarily closely tied to the current,
 
 Second,  there can be an additional risk premium in the sense that the futures price is not necessarily equal to the expected future VIX level. Empirical evidence indicates that futures prices are on average higher than the future level of VIX that will be realized on the expiration date. ${ }^{5}$ This means that investors are willing to pay a premium for VIX futures relative to what risk-neutral investors would be willing to pay. This further means that VIX futures must have some insurance properties that are valuable to investors. This makes sense given what we have seen for the VIX. Just like the options underlying the VIX are expensive due to a negative volatility risk premium,  futures on VIX are expensive due to a negative volatility risk premium. Both the VIX and VIX futures tend to rise in price strongly in times of crisis,  hence they are valuable to investors as a hedge.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-225.jpg?height=370&width=1567&top_left_y=1493&top_left_x=298)
 
 ## Figure 6.13: VXX ETN
 
@@ -563,11 +563,11 @@ Figure 6.16 shows these hedging properties in a scatterplot of daily VXX return 
 
 Table 6.2: Annualized risk-return properties of a strategy that combines stock index with VXX
 
-!400
+![400](Dropover%202024-10-24%2010.37.52.png)
 
 not an exchange traded fund. So an investor in this product does not own a share of a fund that holds these futures. Instead,  the note represents a debt obligation of the issuer. The holdings shown in this table represent the position to which the issuer (Barclays) promises to tie the value of the notes. For a large investor,  it is better to invest in VIX futures directly rather than to rely on the promises of a financial institution in honoring the debt obligations implied by this product. But for our purposes here,  the product is an easy way to see the returns obtained from a futures position.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-227.jpg?height=893&width=1118&top_left_y=296&top_left_x=517)
 
 Figure 6.14: Split-adjusted VXX ETN price
 
@@ -577,7 +577,7 @@ The 1st percentiles of the daily return distribution (second-to-last row,  in pe
 
 Let me close our discussion with a warning. Earlier I pointed out that the price of
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-228.jpg?height=898&width=1131&top_left_y=291&top_left_x=451)
 
 Figure 6.15: Split-adjusted VXX ETN price since 2014
 
@@ -587,7 +587,7 @@ Moreover,  market imperfections can induce a disconnect between the prices of VI
 
 The first is that Barclays,  the issuer of VXX had made a regulatory paperwork blunder and had issued billions more in structured notes (including VXX) that it had permission for. For this reason,  it stopped issuing VXX in March 2022. This is a problem for the pricing mechanism. Normally,  if there is a lot of demand for VXX that pushes the price above the value it should have,  based on the futures position that VXX is meant to track,  Barclays would issue more shares of VXX to keep the price where it should be. Barclays' halt of issuance means that this mechanism was no longer operational and,  as a consequence,  the price of VXX was substantially elevated above its correct value (apparently due to uninformed investor demand). For example,  on August 15,  2022 it traded $33 \%$ above its correct value.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-229.jpg?height=868&width=1115&top_left_y=298&top_left_x=516)
 
 Figure 6.16: Scatterplot of daily VXX return against daily stock index return,  January 2018 to December 2021.
 

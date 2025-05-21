@@ -137,7 +137,7 @@ In the second story,  it's exactly the opposite. In this case,  there shouldn't 
 
 To shed light on the source of sentiment,  we now look at expectations data. What do participants in the market expect regarding future cash flows and future returns,  and how do these expectations relate to valuation ratios such as the price-dividend ratio?
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-120.jpg?height=888&width=1267&top_left_y=296&top_left_x=386)
 
 Figure 4.1: Repurchase-adjusted $\log P / D$ and I/B/E/S analyst aggregate long-term real earnings-per-share growth forecasts (annualized)
 
@@ -163,7 +163,7 @@ Figure 4.2 presents some evidence on this question. The $x$-axis in these plots 
 
 The takeaway from the plots is quite clear. There is no clear positive relationship
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-122.jpg?height=1649&width=960&top_left_y=409&top_left_x=539)
 
 Figure 4.2: Relationship between analyst forecasts of long-term real earnings growth and subsequently realized real earnings growth and excess returns (both annualized)
 
@@ -182,7 +182,7 @@ with absolute value bigger than 1.96 suggests that the negative relation between
 
 To summarize,  over these roughly 40 years,  analyst forecasts of long-term earnings growth explain price-dividend ratio movements well,  but these growth expectations have largely proven to be wrong in the long run,  which led to price corrections. To the extent that analyst forecasts are a good proxy for investor expectations of future earnings,  this
 
-[[^11]] !500
+[[^11]] ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-124.jpg?height=893&width=1272&top_left_y=296&top_left_x=383)
 
 Figure 4.3: One year expected excess returns from surveys of different groups of market participants
 
@@ -247,15 +247,15 @@ Figure 4.5 compares the payout growth series to the $\log P / D$ series. It is a
 
 If the experienced payout growth series is a proxy for Investor Sentiment | investor sentiment]],  then it should forecast stock market returns in excess of the risk-free rate. Figure 4.6 shows
 
-[[^13]] !500
+[[^13]] ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-128.jpg?height=860&width=1201&top_left_y=340&top_left_x=424)
 
 Figure 4.4: Experienced real payout growth and I/B/E/S analyst aggregate long-term real earnings-per-share growth forecasts (annualized)
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-128.jpg?height=871&width=1194&top_left_y=1359&top_left_x=430)
 
 Figure 4.5: Experienced real payout growth and repurchase-adjusted $\log P / D$
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-129.jpg?height=874&width=1202&top_left_y=292&top_left_x=472)
 
 Figure 4.6: Experienced real payout growth and subsequent 5-year log excess returns
 
@@ -285,7 +285,7 @@ A different approach to understanding investor sentiment focuses on who is buyin
 
 Of course,  a finding of a positive correlation between retail investor demand for stocks and valuation levels would not prove causation. For example,  it could be that high valuation levels attract retail investor demand for stocks so that causality runs in the
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-131.jpg?height=871&width=1117&top_left_y=296&top_left_x=531)
 
 Figure 4.7: Assets of U.S. mutual funds and ETFs
 
@@ -309,7 +309,7 @@ Figure 4.8 b shows that at a higher frequency,  monthly flows (not cumulated) co
 
 The strong positive connection between fund flows and lagged 12-month returns is a hint that retail investor fund flows are not driven by superior information. In historical data,  there is no evidence that lagged 12-month predict future stock market excess
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-133.jpg?height=1733&width=1134&top_left_y=397&top_left_x=517)
 
 Figure 4.8: Equity mutual fund and ETF flows (% of total stock market capitalization)
 
@@ -346,7 +346,7 @@ Figure 4.9 shows results from a study that looked at how flows depend on relativ
 
 The positive relationship is particularly strong for ETF (blue line in the chart). One one hand,  this makes sense. ETFs are designed for investors who want to be able to enter and exit a fund without incurring a lot of transaction costs. On the other hand,  unlike for active MF,  it's clear that this positive relationship between lagged performance and flows cannot be explained by investors seeking to allocate to the most skilled portfolio managers. These ETFs follow passive indexing strategies or mechanical rebalancing rules. There is no role for skilled,  discretionary active management in these ETFs. So it must be that recently high returns induce investors to believe that assets mechanically chosen by the ETF are attractive assets to invest in. In other words,
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-136.jpg?height=781&width=1522&top_left_y=325&top_left_x=258)
 
 Figure 4.9: Monthly percentage inflow of active mutual funds (AMF),  index mutual funds (IMF),  and ETFs as function of return in prior month
 
@@ -356,7 +356,7 @@ the positive performance-flow relationship we see in this figure captures a posi
 
 So how do the ETFs that receive high flows perform in the following months? Figure 4.10 shows that flows are negatively related to future performance in the cross-section of ETFs. In the study that this figure is taken from,  the authors sort all ETFs each month into 10 groups based on the prior month's flow. Then they calculate value-weighted returns (i.e.,  returns weighted by end of prior month total market capitalization of each ETF) during the following 12 months. They then form a long-short portfolio that takes a long position in ETFs in the lowest-flow group and a short position in the ETFs in the highest-flow group. Figure 4.10 shows the cumulative return of this long-short portfolio in the 12 months following portfolio formation. Over the first five months after portfolio formation,  the portfolio accumulates positive returns. The error bars in the figure show two-standard-error ranges and so these positive portfolio returns are different from zero at conventional levels of statistical significance. This means that ETFs with recent strong inflows perform poorly in the future while ETFs with recent strong outflows perform well in the future,  i.e.,  a negative relationship between flows and future performance.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-137.jpg?height=849&width=1318&top_left_y=340&top_left_x=425)
 
 Figure 4.10: Returns to a portfolio long in ETFs with low lagged flow and short in ETFs with high lagged flow
 
@@ -394,7 +394,7 @@ After prompting the GPT with a large number of archived article headlines from v
 
 Figure 4.12 shows an aggregate measure of economic sentiment that averages over the economic expectations measures for individual macroeconomic indicators every month (blue line). It also shows the cyclically-adjusted price-to-earnings ratio that we looked at in the last lecture. There is clearly a strong positive correlation between the two series. This is quite remarkable since the construction of the economic sentiment measure did not use any direct information about the price level of the stock market. Even so,  the sentiment measure matches quite well the depressed value of the stock market relative to earnings in the late 1970s,  the boom in the late 1990s,  and the drop during the financial crisis in 2007/08,  for example.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-139.jpg?height=481&width=1532&top_left_y=323&top_left_x=313)
 
 Figure 4.12: Economic sentiment measure extracted from archived New York Times articles and comparison with the cyclically-adjusted price-to-earnings ratio
 
@@ -408,13 +408,13 @@ Occasionally assets trade at prices that seem far removed from any notion of fun
 
 The notion of sentiment we have considered so far - expectations about cash flows,  and,  possibly,  time-varying risk aversion and risk perceptions - may not help much to explain why valuations of these stocks reached stratospheric levels. We now consider the possibility that investors may be willing to pay a high price for an asset today even if they are not convinced,  based on their own beliefs,  that cash flow expectations can justify this high price. Instead,  investors' motivation for paying a high price in these situations may be that they expect that they can resell the asset to an investor in the future who is willing to pay an even higher price. We will explore how we can modify our valuation models to capture such cases.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-140.jpg?height=521&width=1326&top_left_y=626&top_left_x=345)
 
 (a) GameStop
 
 Market Summary > AMC Entertainment Holdings Inc
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-140.jpg?height=857&width=1353&top_left_y=1363&top_left_x=337)
 
 Figure 4.13: Prices of meme stocks
 
@@ -514,7 +514,7 @@ Figure 4.14 shows that this is what happened when the stock price of GameStop to
 
 GameStop is an extreme case,  but similar dynamics may be at work at other times in other assets. Links between speculative trading based on short-term capital gain expectations and trading volume appear in historical accounts of asset price bubbles throughout the centuries. ${ }^{11}$ The New York Stock Exchange set a trading volume records
 
-[[^17]] !500
+[[^17]] ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-144.jpg?height=890&width=1270&top_left_y=295&top_left_x=384)
 
 Figure 4.14: GameStop trading volume
 
@@ -528,7 +528,7 @@ Presence of return extrapolators: If some investors become more optimistic about
 
 [[^18]]Prices and Turnover for Internet and Non-Internet Stocks,  1997-2002
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-145.jpg?height=746&width=1153&top_left_y=378&top_left_x=494)
 
 Figure 4.15: Prices and trading volume during the dot-com bubble in the 1990s
 
@@ -540,7 +540,7 @@ Entry of new investors: If recent high returns,  or media attention to an asset,
 
 Short sellers throw in the towel: Price rises generate losses for short sellers betting against an asset's price rise,  which can in turn generate liquidity problems for these short sellers. These problems may force them to liquidate their short positions. Figure 4.16 shows that this happened in dramatic fashion in the case of GameStop. Before January 2021,  short interest (i.e.,  how many shares were shorted by short sellers) was very high,  close to $100 \%$ of shares outstanding. But when the price exploded in January 2021,  short interest collapsed as short sellers closed their positions by buying back shares. This further exacerbated the price rise,  because to close a short position,  they have to buy back the shares that they sold short earlier. ${ }^{13}$
 
-[[^19]] !500
+[[^19]] ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-146.jpg?height=809&width=1359&top_left_y=341&top_left_x=318)
 
 Figure 4.16: GameStop short interest
 
@@ -636,7 +636,7 @@ Since we think of the convenience benefits $d_{t+j}$ in (4.17) as real benefits,
 
 Figure 4.17 presents some evidence that this mechanism for valuation changes seems highly relevant. The figure shows an index of real gold prices. I took an import price index of gold prices and converted it to real prices by dividing by the Consumer Price Index (CPI). In addition,  the chart shows a series of real interest rates. The real interest rates are extracted from the prices of Treasury Inflation/War%20Economies%20and%20Hyperinflation.md)-Protected Securities (TIPS). They represent long-term real interest rates over a 10-year horizon. We will talk in much more detail about how TIPS work in a few weeks. For now,  just note that one can extract long-term real interest rates (or real "yields") from prices of these securities. According to the logic of the present-value relation in (4.17),  real interest rates should be inversely related to the value of gold: higher real interest rates should coincide with lower gold prices. For this reason,  to facilitate a graphical comparison,  I convert the real yield series as $1 /(1+$ real yield $)$.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-150.jpg?height=876&width=1261&top_left_y=299&top_left_x=386)
 
 Figure 4.17: Gold price and $1 /(1+$ real yield $)$ of TIPS
 
@@ -648,7 +648,7 @@ Figure 4.18 shows similar dynamics at work in the price of bitcoin in recent yea
 
 So while the wild price movements of cryptocurrencies seem difficult to understand,  at least some of the factors driving the price movements can be traced to some standard
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-151.jpg?height=876&width=1261&top_left_y=310&top_left_x=454)
 
 Figure 4.18: Bitcoin price and $1 /(1+$ real yields $)$ of TIPS
 

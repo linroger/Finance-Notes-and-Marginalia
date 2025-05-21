@@ -676,15 +676,15 @@ Figure 5.1a shows the resulting paths of $\log$ wealth for the different values 
 
 Figure 5.1b shows that the answer is no. This figure shows wealth for the first 100,  000 Trading and Liquidity | trading]] days in the simulation (400 years). While the growth-optimal portfolio
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-172.jpg?height=595&width=771&top_left_y=296&top_left_x=539)
 
 (a) Simulated up to 10,  000 days ( $\approx 40$ years)
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-172.jpg?height=624&width=768&top_left_y=992&top_left_x=543)
 
 (b) Simulated up to 100,  000 days ( $\approx 400$ years)
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-172.jpg?height=613&width=768&top_left_y=1710&top_left_x=543)
 
 (c) Simulated up to $1,   000,   000$ days ( $\approx 4,   000$ years) 170
 
@@ -709,11 +709,11 @@ Table 5.5: Simulations of An Asset Allocation Primer | portfolio]] risk and retu
 
 Which of these An Asset Allocation Primer | portfolio]] allocation policies,  and the Lecture 1- Probability Distributions of Returns | probability distribution]] of wealth
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-174.jpg?height=640&width=795&top_left_y=474&top_left_x=622)
 
 (a) Distribution excluding right tail
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-174.jpg?height=668&width=790&top_left_y=1273&top_left_x=624)
 
 (b) Right tail of the distribution
 
@@ -920,7 +920,7 @@ Public Employees' Retirement Fund (PERF) As of September 30,  2021
  | Liquidity ${ }^{4}$ | $ 7.8 | $1.6 \%$ | $1.0 \%$ | $0.6 \%$ | $-6 \%$ to $+3 \%$ | 
  | Total PERF | $ 479.8 | 100.0\% | 100.0\% |  |
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-180.jpg?height=524&width=527&top_left_y=540&top_left_x=1189)
 
 Figure 5.3: CalPERS Lecture 2- Lecture 2- Asset Allocation with Multiple Risky Assets | Asset Allocation]] with Multiple Risky Assets | asset allocation]] September 2021
 
@@ -1020,7 +1020,7 @@ I use the data on aggregate stock and Financial Markets and Institutions | debt]
 
 As the figure shows,  the adaptive An Asset Allocation Primer | portfolio]] has above-average allocations to equity following stock market booms such as in the late 1990s,  or in the years prior to the
 
-[[^24]] !500
+[[^24]] ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-184.jpg?height=949&width=1201&top_left_y=290&top_left_x=424)
 
 Figure 5.4: Equity share with adaptive Lecture 2- Lecture 2- Asset Allocation with Multiple Risky Assets | Asset Allocation]] with Multiple Risky Assets | asset allocation]] policy
 
@@ -1122,7 +1122,7 @@ The optimal fixed weight strategy (5.49)
 
 An alternative fixed-weight strategy that sets the weight to the long-run average of the myopic market-timing strategy weights
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-188.jpg?height=920&width=1186&top_left_y=819&top_left_x=426)
 
 Figure 5.5: Equity share of market-timing An Asset Allocation Primer | portfolio]] (first 100 observations from simulation,  $\phi=0.95$ )
 

@@ -95,7 +95,7 @@ In what follows,  to reduce clutter,  I will often just write yields,  prices,  
 
 If we plot yields $y_{n,             t} $ as a function of maturity $n $ we obtain the zero-coupon yield curve. As an example,  Figure 7.1 presents two snapshots of the yield curve in April 2021
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-233.jpg?height=984&width=1199&top_left_y=294&top_left_x=474)
 
 Figure 7.1: Zero-coupon yields extracted from U.S. Treasury bond prices
 
@@ -197,7 +197,7 @@ To understand the risk and return properties of bonds,  we need to first figure 
 
 In fact,  the yield curve can be quite neatly summarized by three factors that capture almost all the variation in yields over time. We form the following three linear
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-236.jpg?height=990&width=1272&top_left_y=364&top_left_x=359)
 
 Figure 7.2: History of zero-coupon yields extracted from U.S. Treasury bond prices
 
@@ -233,7 +233,7 @@ capture how strongly the yield of a bond with time-to-maturity $n $ is exposed t
 
 Table 7.1: Explanatory power of level,  slope,  and curvature factors for daily bond yield changes
 
- !500
+ ![500](CleanShot%202024-10-24%20-003126@2x.png)
 Table 7.1 shows the results from running these regressions with daily yield changes and data from the last 50 years. The first block of rows shows the intercept and slope coefficient estimates and the $R^{2} $ from the regressions on all three factors. There are three things to note. First,  the slope coefficient of the level factor is extremely close to 1.0 for bonds at all maturities. This means that when the level of the yield curve shifts,  all bonds tend to move in lockstep by the same magnitude (plus possibly some movement that may be uncorrelated with the level). Second,  short maturity bonds have negative coefficients on the slope factor while long-term bonds have positive coefficients,  which should make intuitive sense: When the slope steepens,  short-term yields decline relative to long-term yields. Third,  the $R^{2} $ is extremely close to $100\% $. This means that the three factors explain almost all the day-to-day variation in yields on these 10 maturities. So for all practical purposes,  we can focus our thinking regarding the drivers of bond yields on interpreting just these three factors. Moreover,  the risks of a bond portfolio then must be driven almost entirely by these three factors. So if we want to assess the riskiness of a bond portfolio,  we can focus our attention on the portfolio's exposure to these three factors. ${ }^{3} $
 
 The rows below show the $R^{2} $ (coefficient estimates omitted) for specifications where I only use level and slope or slope only. The contribution of the curvature factor turns out to be very small. Just level and slope alone explain $96\% $ or more of the variation
@@ -250,7 +250,7 @@ $$
 
 The results we get from these regressions will be closely related to the results we obtained with yield changes as the dependent variable,  because at daily measurement frequency,  $r_{n,             t} \approx-n \Delta y_{n,             t} $. Therefore,  the regression coefficients when we have returns as dependent variable are those from earlier in Table 7.1,  but multiplied by the maturity of the bond $n $ and with flipped sign. Figure 7.3 plots the coefficients for bonds with maturities from one to 10 years.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-238.jpg?height=999&width=1359&top_left_y=1189&top_left_x=340)
 
 Figure 7.3: Coefficients in regression of daily bond returns on daily changes in level,  slope,  and curvature factors
 
@@ -266,7 +266,7 @@ Since level,  slope,  and curvature factors explain almost all movement in yield
 
 We can get some understanding of how bond prices are determined in market equilibrium,  and how the shape of the yield curve arises,  by considering a bond investment problem. Since most yield curve movements are driven by level and slope movements,  we can
 
-[[^32]] !500
+[[^32]] ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-240.jpg?height=1007&width=1465&top_left_y=315&top_left_x=295)
 
 Figure 7.4: Yield curve trades
 
@@ -370,7 +370,7 @@ The expectations hypothesis tells us that long-term bond yields move because exp
 
 In the U.S.,  the Federal Reserve ("Fed") normally conducts monetary policy by setting a target for the federal funds rate. The federal funds market is an interbank market in which banks lend to each other. Basically,  banks all have accounts at the Fed and they can move deposits in these accounts (called reserves) from one bank to another to settle interbank flows that arise from their daily deposit,  lending,  and trading activity. To manage their daily inand outflows due to receiving deposits from customers,  deposit withdrawals,  lending flows,  etc.,  banks want to keep a certain minimum level of reserves in their account to make sure they have enough liquidity to settle all of these flows. If a bank finds itself short of liquidity,  they will be active in the federal funds market to borrow reserves from other banks; if they anticipate having a surplus of liquidity,  they will be active looking to lend in the federal funds market. Loans in the federal funds market are overnight,  i.e.,  they have one-day maturity. The interest rate that clears the market (so that supply of reserves by banks willing to lend reserves equals the demand for borrowing reserves) is called federal funds rate.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-243.jpg?height=945&width=1351&top_left_y=1048&top_left_x=406)
 
 Figure 7.5: Time-series of the federal funds rate
 
@@ -384,7 +384,7 @@ But in the GFC,  methods of monetary policy implementation changed. As Figure 7.
 
 Figure 7.6 shows the reserve balances. They reached a peak of close to $3 $ trillion around 2015,  and then an all-time high (so far) in 2020 due to a further round of quantitative easing during the COVID pandemic.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-245.jpg?height=936&width=1349&top_left_y=302&top_left_x=407)
 
 Figure 7.6: Total reserves of depository institutions
 
@@ -396,7 +396,7 @@ For this reason,  the Fed needed a new tool: Interest on reserve balances (IORB)
 
 there is no reason why the federal funds rate should rise above $2\% $ in this case. So the federal funds rate should be equal to $2\% $.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-246.jpg?height=933&width=1331&top_left_y=444&top_left_x=359)
 
 Figure 7.7: Interest on reserve balances,  overnight repurchase agreement rate,  and effective federal funds rate
 
@@ -404,7 +404,7 @@ Figure 7.7 shows IORB (red line) and the effective federal funds rate (green lin
 
 For this reason,  the Fed added another facility called the Overnight Reverse Repo Facility (ON RRP). The details of how this works don't matter for our purposes. The essence is that the facility serves as a way for federal funds market participants that do not have reserve accounts at the Fed to effectively deposit funds at the Fed. These deposits are remunerated at the ON RRP rate which the Fed sets slightly below the IORB. And the ON RRP rate then serves as a floor for the federal funds rate that is not leaky. As Figure 7.7 shows,  the Fed was able to raise the Fed Funds Rate without breaching this floor by simultaneously raising the IORB and ON RRP rates in lockstep.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-247.jpg?height=1042&width=1489&top_left_y=306&top_left_x=340)
 
 Figure 7.8: 3-month Treasury bill yields and the federal funds rate target
 
@@ -472,7 +472,7 @@ bond yields,  but not necessarily the only one. For example,  bond risk premia c
 
 at the returns of other assets,  e.g.,  of a stock index,  in response to the same FOMC announcements. Then regress the assets' returns on the changes in one-year yields. The slope coefficient in this regression then tells us the return that an asset experiences on average if the one-year yield rises by 1 percentage point during the 30 -minute window. These slope coefficients are shown in Figure 7.9.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-251.jpg?height=733&width=879&top_left_y=590&top_left_x=642)
 
 Figure 7.9: Returns of bonds and stocks during 30 minutes around FOMC announcements
 
@@ -508,7 +508,7 @@ As an example,  Figure 7.10 shows the time-series of the interest rate implied b
 
 ## Figure 2: Predictions of a Modified Taylor Rule
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-253.jpg?height=752&width=1489&top_left_y=361&top_left_x=340)
 
 Figure 7.10: Taylor rule
 
@@ -553,7 +553,7 @@ So if long-term bonds have more volatile returns,  does this mean that long-term
 In our analysis of bond returns,  we have so far focused on log returns,  due to the convenience of working with logs. But investors' care about simple,  not log returns. So in the data,  we will look at simple returns in excess of short-term bond returns. However,  the differences are quite small. For example,  if $R_{n,             t+1} $ is log-normal,  $\mathbb{E}\left[r_{n,             t+1}\right] $ $=0.02 $ and $\operatorname{var}\left(r_{n,             t+1}\right)=0.05^{2} $ (which is empirically realistic,  as we will see shortly),  then $\mathbb{E}\left[R_{n,             t+1}\right] \approx \exp \left(0.02+0.05^{2} / 2\right)-1 \approx 0.0215 $.
 
 Table 7.2: Risk and return of U.S. Treasury bonds,  annualized estimates
-!300
+![300](Keep%20It%202024-10-24%2010.47.46.png)
 
 Table 7.2 takes a first look at this by showing the annualized average returns of portfolios of U.S. Treasury bonds of various maturities in excess of the average 1-year bond return,  along with the standard deviation of these returns and the Sharpe ratio. The estimates are based on data spanning five decades from 1971 to 2023.
 
@@ -565,7 +565,7 @@ As we discussed in lecture 2,  risk parity strategies,  which weight asset class
 
 But at least some of this must be luck. The decades since the start of the 1980s have been a bond investor's dream come true. in the early 1980s,  bond yields were high because inflation was high and short-term interest rates were high. Given their experience from the 1970s,  investors at the time did not have much confidence that inflation and interest rates would come down persistently any time soon. But then inflation fell,  interest rates fell,  and after they had fallen and it seemed like they could not possibly fall further,  they fell further,  all the way to almost zero in the years after the great financial crisis.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-256.jpg?height=1044&width=1351&top_left_y=1039&top_left_x=344)
 
 Figure 7.11: 5-year moving average of 10-year bond excess returns
 
@@ -610,7 +610,7 @@ $$
 with monthly data from 1971 to 2023.
 
 Table 7.3: Predicting monthly bond excess returns with the 10yr-1yr yield spread
-!300
+![300](Keep%20It%202024-10-24%2010.48.12.png)
 
 Table 7.3 presents the results. The first block of rows shows that the yield curve slope is a statistically significant predictor of excess returns on this bond portfolio. The $R^{2} $ is $1\% $,  which is not huge,  but for monthly return prediction, this is substantial. (Running the regression with returns over the next year instead of over the next month as dependent variable yields an $R^{2} $ of about $10\% $ ). So this would suggest a substantial violation of the expectations hypothesis. This regression result suggests that when the yield curve slope is strongly upward sloping,  long-term bonds tend to earn high returns in the following month relative to short-term bonds.
 
@@ -638,7 +638,7 @@ As we did a few lectures ago when we discussed stock market excess return foreca
 
 We now look at pseudo-OOS regressions. We recreate regressions that investors in the past could have run,  based on the data that was available at the time. I fix an initial burn-in period of 120 months as minimum data requirement before one can run a regression. In the first month where this minimum data requirement is satisfied,  I run the regression of long-term bond portfolio returns in excess of the one-year bond return on the yield curve slope,  I record the estimated coefficients,  and I compute predicted excess returns for the next quarter. I then use the predicted excess return as portfolio weight $\omega_{t} $. The share $\omega_{t} $ is invested in the long-term bond portfolio in quarter $t+1 $ and the rest,  $1-\omega_{t} $ in the one-year bond. Then I move forward one quarter and repeat the procedure,  and so on.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-260.jpg?height=906&width=1188&top_left_y=295&top_left_x=425)
 
 Figure 7.12: Cumulative standardized excess returns of different out-of-sample portfolio strategies
 
@@ -670,7 +670,7 @@ $$
 
 If $\mathbb{E}\left[R_{b,             t}\right]-R_{f} $ is higher than $\beta\left(\mathbb{E}\left[R_{m,             t}\right]-R_{f}\right) $,  then adding bonds to the risky asset portion of the portfolio would improve the Sharpe ratio of the overall portfolio.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-262.jpg?height=909&width=1199&top_left_y=294&top_left_x=428)
 
 Figure 7.13: Beta of 10-year zero-coupon bonds based on daily returns in three-month moving windows
 
@@ -691,7 +691,7 @@ From an investment viewpoint,  a crucial question is whether expected excess ret
 But one take-away from our earlier discussion of bond excess returns predictability was that bond excess returns are difficult to predict. The yield curve slope may have some predictive power,  but the evidence on this looked quite fragile and weak. So we could take an approach were we regard the conditional expected excess returns of long-term bonds as constant (since we can't predict its time-variation) and try to exploit the changing systematic riskiness of long-term bonds (that we can capture quite reliably: it's quite persistent,  so if we estimate it to be high today,  based on data from the past three months or so,  it's also likely to be high going forward over the next quarter or next year).
 
 Table 7.4: Annualized risk and return properties of a bond-stock beta timing strategy
-!300
+![300](Keep%20It%202024-10-24%2010.47.27.png)
 
 In Table 7.4 I show a quick back-of-the-envelope approach to this. I consider a portfolio that combines the CRSP value-weighted stock market index and 10-year bonds. To try to exploit the time-variation in the systematic risk of long-term bonds,  I use a timing strategy that varies the weight on bonds as a function of the beta of 10-year bonds:
 
@@ -717,7 +717,7 @@ Part of the answer is that the nature of business cycles changed over the years.
 
 ## B. FOMC transcripts (1976-2013)
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-265.jpg?height=806&width=1445&top_left_y=383&top_left_x=340)
 
 Figure 7.14: Counts of stock market mentions in FOMC meeting transcripts
 
