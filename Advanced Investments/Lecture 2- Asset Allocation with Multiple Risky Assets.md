@@ -56,7 +56,6 @@ $$
 \end{equation*}
 
 $$
-
 Very important for our portfolio choice analysis is the $N \times N$ covariance matrix of returns
 
 $$
@@ -102,11 +101,8 @@ $$
 
 $$
 
-<<<<<<< HEAD
 This last formula shows that all $N \times N$ elements of the covariance matrix play a role in determining the portfolio return variance. This is important. The portfolio variance depends not only on how volatile individual asset returns are,  but also on how strongly they covary,  i.e.,  whether they tend to move together or not. Here is how this looks like in the $N=2$ case,  where $\rho$ denotes the correlation of the two asset returns and $\rho \sigma_{1} \sigma_{2}$ their covariance:
-=======
-This last formula shows that all $N \times N$ elements of the covariance matrix play a role in determining the portfolio return variance. This is important. The An Asset Allocation Primer | portfolio]] variance depends not only on how volatile individual Some Stylized Empirical Facts About Asset Retur | asset returns]] are,  but also on how strongly they covary,  i.e.,  whether they tend to move together or not. Here is how this looks like in the $N=2$ case,  where $\rho$ denotes the correlation of the two Some Stylized Empirical Facts About Asset Retur | asset returns]] and $\rho \sigma_{1} \sigma_{2}$ their covariance:
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
+
 $$
 
 \begin{align*}
@@ -125,11 +121,8 @@ $$
 
 $$
 
-<<<<<<< HEAD
+
 So if the portfolio has positive weight on both assets, $\omega_{1}>0$ and $\omega_{2}>0$, then, due to the middle term in this expression, the higher the correlation of the two asset returns, the higher the portfolio return variance.
-=======
-So if the An Asset Allocation Primer | portfolio]] has positive weight on both assets, $\omega_{1}>0$ and $\omega_{2}>0$, then, due to the middle term in this expression, the higher the correlation of the two Some Stylized Empirical Facts About Asset Retur | asset returns]], the higher the portfolio return variance.
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
 Sometimes we are interested in the covariances of returns of the individual assets that are in the portfolio with the return of the overall portfolio. We can get this vector of covariances by post-multiplying the covariance matrix with the portfolio weight vector,
 $$
@@ -150,11 +143,7 @@ $$
 
 ## 2.2 Optimal Portfolio Choice with Multiple Risky Assets
 
-<<<<<<< HEAD
 Let's now turn to finding the optimal portfolio weight when we have multiple risky assets. As in the last lecture, we assume the investor has CRRA preferences and we'll use a first-order approximation of marginal utility to simplify the problem. The following analysis is pretty much analogous to our analysis in the single risky asset case in the last lecture,  but with some vectors and matrices replacing some scalars to account for the fact that we have multiple risky assets.
-=======
-Let's now turn to finding the optimal An Asset Allocation Primer | portfolio]] weight when we have multiple risky assets. As in the last lecture, we assume the investor has CRRA preferences and we'll use a Convexity | first-order approximation]] of marginal utility to simplify the problem. The following analysis is pretty much analogous to our analysis in the single risky asset case in the last lecture,  but with some Prerequisites | vectors and matrices]] replacing some scalars to account for the fact that we have Lecture 2- Asset Allocation with Multiple Risky Assets | multiple risky assets]].
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
 If the investor starts with wealth $W_{0}$ at the beginning of a period and invests proportions $\boldsymbol{\omega}$ of this initial wealth into the $N$ risky assets and the rest in the risk-free asset,  then the total investment in risky assets accounts for a proportion $\boldsymbol{\iota}^{\prime} \boldsymbol{\omega}=\sum_{i}^{N} \omega_{i}$ of initial wealth and the rest,  $1-\boldsymbol{\iota}^{\prime} \boldsymbol{\omega}$ is allocated to the risk-free asset. Hence the return on the investor's wealth portfolio is
 $$
@@ -534,7 +523,7 @@ If we take a position different from the market portfolio,    there must be,    
 
 The market portfolio is a very special portfolio. Aside from new issues of stocks,    delistings,    and needs to reinvest dividends,    holding the market portfolio does not require any trading. For example,    if we hold the market portfolio and the price of asset $i$ goes up from yesterday to today more than the market overall,    its weight in our portfolio goes up. However,    its weight goes up exactly the same in the market portfolio. Hence,    we don't have to trade to keep holding the market portfolio. This is why index funds typically follow value-weighted indices where asset weights depend on stocks' market capitalization relative to the aggregate market capitalization of all stocks in the index,    just like in the market portfolio.
 
- !500
+ ![500](CleanShot%202024-10-24%20-003106@2x.png)
 
 Figure 2.1: Turnover rate of Vanguard Total Stock Market Index Fund (VITNX)
 
@@ -570,7 +559,9 @@ $$
 
 Table 2.1: Annualized mean,    standard deviations,    and correlations for various asset classes 1980-2022
 
- !500
+
+ ![500](CleanShot%202024-10-24%20-003108@2x.png)
+
 Table 2.1 shows an example from the same data of several asset classes that we already looked at last lecture. I broke the covariances into standard deviations (shown in the second row) and correlations (matrix below the second row). The underlying data are monthly returns,    but I annualized the mean returns and standard deviations by multiplying with 12 and $\sqrt{12}$,    respectively.
 
 Note that we are now considering Treasury bonds,    and also the other bond asset classes,    as risky assets. In Lecture 1,    we did a crude calculation of the average investor's risky asset share where we lumped Treasury bonds and other bonds into a broad riskfree asset class. Here we are now taking a more refined approach where only short-term Treasury bills are viewed as risk-free while bonds with maturities beyond one year are viewed as risky. And,    indeed,    the table above shows that the return standard deviations of the bond asset classes are substantial.
@@ -665,13 +656,15 @@ $$
 
 which is smaller,    by factor $1 / \sqrt{n}$,    than the standard error when we use annual returns. The same factor applies to covariances as well,    but we are not going to show this explicitly.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-048.jpg?height=798&width=985&top_left_y=1048&top_left_x=532)
+
 
 Figure 2.3: Distribution of annualized mean estimates when returns are measured at different measurement frequencies
 
 Figures 2.3 and 2.4 illustrate this with simulations. I simulate $T=10,        000$ daily returns by drawing from a normal distribution such that the annualized returns (assuming 250 trading days per year) have mean 0.05 and standard deviation 0.20 . I calculate the mean and standard deviation of these daily returns. Then I aggregate the returns to annual returns by summing the daily returns within 250 -day windows (if I do it by
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-049.jpg?height=789&width=987&top_left_y=351&top_left_x=577)
+
 
 Figure 2.4: Distribution of annualized standard deviation estimates when returns are measured at different measurement frequencies
 
