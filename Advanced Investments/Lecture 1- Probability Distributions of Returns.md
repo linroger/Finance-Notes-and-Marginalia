@@ -63,17 +63,26 @@ R_{t} \sim \mathcal{N}\left(\mu,        \sigma^{2}\right) \tag{1.1}
 \end{equation*}
 $$
 
-<<<<<<< HEAD
-The empirical counterpart to a probability distribution is the empirical distribution,  which is basically a histogram,  scaled so that the area covered by all bars adds up to one,  just like a probability distribution function integrates to one. The size of the area of each bar in the histogram then tells us how often empirical observations of returns have fallen into various ranges. If we have used a sufficiently large sample of returns to construct the histogram,  the histogram should get close to the true Probability of Returns
-=======
-The empirical counterpart to a probability distribution is the empirical distribution,  which is basically a histogram,  scaled so that the area covered by all bars adds up to one,  just like a probability distribution function integrates to one. The size of the area of each bar in the histogram then tells us how often empirical observations of Assets | returns]] have fallen into various Exotic Interest Rate Options | ranges]]. If we have used a sufficiently large sample of Assets | returns]] to construct the histogram,  the histogram should get close to the true Lecture 1- Probability Distributions of Returns | Probability of Returns]]
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
+A fundamental property of most asset returns is that future returns are uncertain. Throughout this course,  we use [[Lecture 1- Probability Distributions of Returns|probability distribution]]s to represent this uncertainty. The [[Lecture 1- Probability Distributions of Returns|probability distribution]] tells us how likely it is that an asset delivers returns falling into various ranges.
+
+We often summarize the [[Lecture 1- Probability Distributions of Returns|probability distribution]] in terms of moments. The first (central) moment of $R_{t}$ is the expected return,  $\mathbb{E}\left[R_{t}\right]$; the second (central) moment of the portfolio return is the variance,  $\operatorname{var}\left(R_{t}\right)$; the third (central) moment is skewness,  etc. Some simple [[Lecture 1- Probability Distributions of Returns|probability distribution]]s can be summarized by a few moments. For example,  if we know the mean and variance of a normally distributed random variable,  we have completely described the distribution. If the distribution of single period (e.g.,  day,  month,  or year) returns $R_{t}$ is a normal distribution with mean $\mu$ and variance $\sigma^{2}$,  we write
+
+$$
+\begin{equation*}
+
+R_{t} \sim \mathcal{N}\left(\mu, \sigma^{2}\right) \tag{1.1}
+
+\end{equation*}
+$$
+
+The empirical counterpart to a [[Lecture 1- Probability Distributions of Returns|probability distribution]] is the empirical distribution,  which is basically a histogram,  scaled so that the area covered by all bars adds up to one,  just like a [[Lecture 1- Probability Distributions of Returns|probability distribution]] function integrates to one. The size of the area of each bar in the histogram then tells us how often empirical observations of returns have fallen into various ranges. If we have used a sufficiently large sample of returns to construct the histogram,  the histogram should get close to the true [[Lecture 1- Probability Distributions of Returns|probability distribution]] of returns.
 
 Let's focus on the stock market index as a whole as one risky asset (or the return on an exchange-traded fund that invests in essentially all U.S. stocks). I denote the return on the stock market index with $R$. To look at empirical distribution of returns,  I use monthly returns data from 1927 to 2022 on a value-weighted index of the entire U.S. stock market from the Center for Research in Security Prices (CRSP) here at the University of Chicago. In a value-weighed index,  each stock's weight in the index in month $t$ is the stocks' market capitalization at the end of month $t-1$ ( $=$ price $\times$ number shares outstanding) as a fraction of aggregate market capitalization of all U.S. stocks at the end of month $t-1$.
 
 Figure 1.1 plots a histogram of monthly returns and overlaid on it a curve that shows a normal Probability Distributions of Returns | probability distribution]] function with mean and variance set equal to the empirical historical mean and variance of the return series. As we can see,  broadly speaking,  the fit is not bad. The bell curve shape of the normal distribution also appears in the histogram of the observed historical returns. Most monthly returns are within a few percent of zero,  monthly returns outside the ${} \pm 15\\%$ range are very rare.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-005.jpg?height=790&width=969&top_left_y=348&top_left_x=600)
+
 
 Figure 1.1: Empirical distribution of monthly U.S. stock market returns 1927-2022 with normal distribution fit
 
@@ -119,7 +128,8 @@ $$
 
 i.e.,  we take all the deviations from the mean return,  square them,  and then average them across all time periods from $t=1$ to $T$.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-007.jpg?height=831&width=1050&top_left_y=704&top_left_x=554)
+
 
 Figure 1.2: Return distributions with different variances and same expected return
 
@@ -154,17 +164,15 @@ where $\left.\mathbb{1}_{\{R<\mathbb{E}[R]\}}\right]$ is an indicator function t
 
 Note that for a symmetric distribution,  such as a normal distribution,  semi-variance is always equal to one-half the variance. So semi-variance really only measures something different from the variance if the distributions are not symmetric.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-009.jpg?height=833&width=1047&top_left_y=513&top_left_x=558)
 
 Figure 1.3: Return distributions with same variances and same expected return
 
-An example of non-symmetric (or skewed) distributions is shown in Figure 1.3. Both Probability Distributions of Returns | probability distribution]]s of returns of assets (A) and (B) in this figure have the same mean $\mathbb{E}[R]=0.5 \%$ and the same variance $\operatorname{var}(R)=0.0025$. So if we judge risk just based on variance,  we would be indifferent between asset (A) and (B).
+An example of non-symmetric (or skewed) distributions is shown in Figure 1.3. Both [[Lecture 1- Probability Distributions of Returns|probability distribution]]s of returns of assets (A) and (B) in this figure have the same mean $\mathbb{E}[R]=0.5 \%$ and the same variance $\operatorname{var}(R)=0.0025$. So if we judge risk just based on variance,  we would be indifferent between asset (A) and (B).
 
-<<<<<<< HEAD
-In contrast,  semi-variances differ. Asset (A) has $ \operatorname{var}(R)^{-}=0.0015$,  while asset (B) has $\operatorname{var}(R)^{-}=0.0009$. So based on semi-variance,  and forced to choose one asset,  one would choose asset (B). The returns of asset (B) have a longer left tail,  i.e.,  higher probability of big losses,  which tends to increase semi-variance,  but also overall a smaller probability that returns fall below the mean. Unlike for (A),  less than ${} 50 \\%$ of the probability mass,  i.e.,  less than ${} 50 \\%$ of the area under the Probability of Returns function,  is accounted for by returns lower than the expected return of ${} 0.5 \\%$. This second feature dominates and leads to a lower semi-variance than for asset (A).
-=======
-In contrast,  semi-variances differ. Asset (A) has $ \operatorname{var}(R)^{-}=0.0015$,  while asset (B) has $\operatorname{var}(R)^{-}=0.0009$. So based on semi-variance,  and forced to choose one asset,  one would choose asset (B). The Assets | returns]] of asset (B) have a longer left tail,  i.e.,  higher probability of big losses,  which tends to increase semi-variance,  but also overall a smaller probability that Assets | returns]] fall below the mean. Unlike for (A),  less than ${} 50 \\%$ of the probability mass,  i.e.,  less than ${} 50 \\%$ of the area under the Lecture 1- Probability Distributions of Returns | Probability of Returns]] function,  is accounted for by Assets | returns]] lower than the Lecture 1- Probability Distributions of Returns | expected return]] of ${} 0.5 \\%$. This second feature dominates and leads to a lower semi-variance than for asset (A).
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
+In contrast,  semi-variances differ. Asset (A) has $ \operatorname{var}(R)^{-}=0.0015$,  while asset (B) has $\operatorname{var}(R)^{-}=0.0009$. So based on semi-variance,  and forced to choose one asset,  one would choose asset (B). The returns of asset (B) have a longer left tail,  i.e.,  higher probability of big losses,  which tends to increase semi-variance,  but also overall a smaller probability that returns fall below the mean. Unlike for (A),  less than ${} 50 \\%$ of the probability mass,  i.e.,  less than ${} 50 \\%$ of the area under the [[Lecture 1- Probability Distributions of Returns|probability distribution]] function,  is accounted for by returns lower than the expected return of ${} 0.5 \\%$. This second feature dominates and leads to a lower semi-variance than for asset (A).
+
+That asset (B) is better for a risk averse investor is not obvious at all. For example,  an investor who does not worry too much about small losses but is very averse to big losses might prefer asset (A).
 
 That asset (B) is better for a risk averse investor is not obvious at all. For example,  an investor who does not worry too much about small losses but is very averse to big losses might prefer asset (A).
 
@@ -197,7 +205,8 @@ This should be intuitive from the payoff diagram: Both assets's payoffs have the
 
 But this would be an odd choice. Any risk averse person,  no matter how weak their risk aversion is,  as long as they have slight risk aversion,  would prefer asset $A$. We can see this by thinking of asset $B$ as a compound gamble $C$. The payoff diagram 1.4 c depicts this compound gamble. First,  we take the gamble associated with asset $A$. Then,  if we reached the upper node,  where we receive 1.50 we immediately reinvest these proceeds in an additional gamble with price of \$1.50 and payoffs \$2.00 or \$1.00,  with equal probability,  that are delivered immediately after entering the gamble. Thus,  the final payoffs are then the same as in gamble $B$.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-011.jpg?height=1784&width=993&top_left_y=382&top_left_x=577)
+
 
 Figure 1.4: Evaluating upside risk
 
@@ -215,7 +224,8 @@ For comparison,  I also added lines that show the mean and the mean minus 2.326 
 
 Another indication that normality is not a bad approximation here,  the semi-variance is almost identical to the one-half the variance of these returns (and hence $\sqrt{2}$ times the square root of the semi-variance is almost identical to the standard deviation). So I did not plot a semi-variance measure.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-013.jpg?height=893&width=1099&top_left_y=356&top_left_x=532)
+
 
 Figure 1.5: Estimated Value-at-Risk based on empirical distribution of monthly U.S. stock market returns 1927-2022
 
@@ -239,17 +249,17 @@ If daily stock returns were normally distributed,  a drop by $20 \%$ in a single
 
 That the stock market is exposed to such crash risk is useful to keep in mind. Many standard quantitative models built into asset allocation software rely heavily on variances and covariances as measures of risk and hence they do not fully account for the presence of this crash risk (because it's mathematically difficult to do so). For this reason,  it may make sense to use simulation methods to check the extent to which the return on a target portfolio is exposed to crash risk and whether this level of crash risk is acceptable,
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-015.jpg?height=728&width=900&top_left_y=365&top_left_x=626)
 
 (a) Empirical distribution of daily stock returns
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-015.jpg?height=733&width=919&top_left_y=1319&top_left_x=603)
 
 (b) Zooming in to the tails
 
 Figure 1.6: Fat tails in daily U.S. stock market returns with best fitting normal distribution,  1927-2022
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-016.jpg?height=665&width=1093&top_left_y=334&top_left_x=467)
 
 Figure 1.7: S&P500 Index around October 19,  1987 (Black Monday)
 
@@ -287,15 +297,15 @@ Power utility has several desirable properties. First, marginal utility declines
 
 Second, portfolio choices based on maximizing $\mathbb{E}[U(W)]$ with this function scale plausibly with wealth. If an investor with power utility has \$1,000 in wealth and finds it optimal, say, to put half of it into risky assets and half into a risk-free asset, ...
 
-[[^0]] !500
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-018.jpg?height=985&width=1180&top_left_y=296&top_left_x=429)
 
 Figure 1.8: Power utility and marginal utility
 
-then an investor with $1 \mathrm{~m}$ of wealth and the same $\gamma$ would also put half of it into risky assets and half into the risk-free asset. Thus,  a power-utility investor's exposure to risky bets,  measured as the proportion of wealth invested in risky assets,  does not change with the wealth level. Another way of saying this is that relative risk aversion is constant. We therefore refer to power utility also as constant relative risk aversion (CRRA) preferences. ${ }^{2}$
+then an investor with $1 \mathrm{~m}$ of wealth and the same $\gamma$ would also put half of it into risky assets and half into the risk-free asset. Thus,  a power-utility investor's exposure to risky bets,  measured as the proportion of wealth invested in risky assets,  does not change with the wealth level. Another way of saying this is that relative risk aversion is constant. We therefore refer to power utility also as constant relative risk aversion (CRRA) preferences.
 
 CRRA may not be entirely empirically realistic,  but it's quite reasonable. Certainly
 
-[[^1]] !500
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-019.jpg?height=814&width=1131&top_left_y=317&top_left_x=519)
 
 Figure 1.9: Equity share conditional on stock market participation for households of different wealth levels (Survey of Consumer Finances 2022)
 
@@ -306,9 +316,6 @@ Figure 1.9 shows some data on this from the 2022 version of the Survey of Consum
 There is a slight increase of the equity share going from the poorest to the richest households. But the increase from about $40 \%$ to $60 \%$ is small considering that the wealth differences between the different bins are huge. Households in the lowest bin have,  on average,  4K in wealth; households in the highest group have $90m on average.
 
 Moreover,  if we want to use a utility function to capture the risk attitude of an institutional investor such as a pension fund or an endowment,  there is little reason to think that an institution with a bigger portfolio would necessarily want to devote more or less of its portfolio to risky assets. Hence,  CRRA preferences seem like a useful starting point for modeling the risk attitudes of institutions.
-=======
-Moreover,  if we want to use a utility function to capture the risk attitude of an institutional investor such as a Uses of Interest Rate Swaps | pension fund]] or an endowment,  there is little reason to think that an institution with a bigger An Asset Allocation Primer | portfolio]] would necessarily want to devote more or less of its An Asset Allocation Primer | portfolio]] to risky assets. Hence,  Lecture 2- Asset Allocation with Multiple Risky Assets | CRRA preferences]] seem like a useful starting point for modeling the Risk Aversion | risk attitudes]] of institutions.
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
 ## 1.4 Optimal Portfolio Choice
 
