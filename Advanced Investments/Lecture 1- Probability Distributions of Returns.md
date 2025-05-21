@@ -63,18 +63,6 @@ R_{t} \sim \mathcal{N}\left(\mu,        \sigma^{2}\right) \tag{1.1}
 \end{equation*}
 $$
 
-A fundamental property of most asset returns is that future returns are uncertain. Throughout this course,  we use [[Lecture 1- Probability Distributions of Returns|probability distribution]]s to represent this uncertainty. The [[Lecture 1- Probability Distributions of Returns|probability distribution]] tells us how likely it is that an asset delivers returns falling into various ranges.
-
-We often summarize the [[Lecture 1- Probability Distributions of Returns|probability distribution]] in terms of moments. The first (central) moment of $R_{t}$ is the expected return,  $\mathbb{E}\left[R_{t}\right]$; the second (central) moment of the portfolio return is the variance,  $\operatorname{var}\left(R_{t}\right)$; the third (central) moment is skewness,  etc. Some simple [[Lecture 1- Probability Distributions of Returns|probability distribution]]s can be summarized by a few moments. For example,  if we know the mean and variance of a normally distributed random variable,  we have completely described the distribution. If the distribution of single period (e.g.,  day,  month,  or year) returns $R_{t}$ is a normal distribution with mean $\mu$ and variance $\sigma^{2}$,  we write
-
-$$
-\begin{equation*}
-
-R_{t} \sim \mathcal{N}\left(\mu, \sigma^{2}\right) \tag{1.1}
-
-\end{equation*}
-$$
-
 The empirical counterpart to a [[Lecture 1- Probability Distributions of Returns|probability distribution]] is the empirical distribution,  which is basically a histogram,  scaled so that the area covered by all bars adds up to one,  just like a [[Lecture 1- Probability Distributions of Returns|probability distribution]] function integrates to one. The size of the area of each bar in the histogram then tells us how often empirical observations of returns have fallen into various ranges. If we have used a sufficiently large sample of returns to construct the histogram,  the histogram should get close to the true [[Lecture 1- Probability Distributions of Returns|probability distribution]] of returns.
 
 Let's focus on the stock market index as a whole as one risky asset (or the return on an exchange-traded fund that invests in essentially all U.S. stocks). I denote the return on the stock market index with $R$. To look at empirical distribution of returns,  I use monthly returns data from 1927 to 2022 on a value-weighted index of the entire U.S. stock market from the Center for Research in Security Prices (CRSP) here at the University of Chicago. In a value-weighed index,  each stock's weight in the index in month $t$ is the stocks' market capitalization at the end of month $t-1$ ( $=$ price $\times$ number shares outstanding) as a fraction of aggregate market capitalization of all U.S. stocks at the end of month $t-1$.
@@ -386,13 +374,14 @@ One additional consideration here is the probability with which the good or bad 
 $$
 which is exactly the first-order condition (1.19) for this special case. The equation says that the expected marginal benefit must be equal to the expected marginal cost at the optimum.
 
-Figure 1.10 illustrates this with a power utility example $(\gamma=5)$. The blue line shows the marginal benefit $U^{\prime}\left(W_{H}\right) \times 0.20$. As we increase the risky asset share,  we are shifting more wealth to the good state in which the risky asset has a high return. But the benefit,  in terms of the marginal increase in utility from doing this,  declines as we shift more and more to the risky asset toward the right in the plot. This is a consequence of
+Figure 1.10 illustrates this with a power utility example $(\gamma=5)$. The blue line shows the marginal benefit $U^{\prime}\left(W_{H}\right) \times 0.20$. As we increase the risky asset share,  we are shifting more wealth to the good state in which the risky asset has a high return. But the benefit,  in terms of the marginal increase in utility from doing this,  declines as we shift more and more to the risky asset toward the right in the plot. This is a consequence of risk aversion and the associated concavity of utility. The yellow line shows the marginal cost. As we shift more into the risky asset,  and as we are getting poorer in the state in which the risky asset has losses,  the marginal cost of wealth reductions in the bad state are getting bigger. This is again a consequence of risk aversion and the associated concavity of utility. The red line shows the combined consequence in terms of expected marginal benefits and costs. We reach the optimum,  where expected marginal benefits and costs exactly balance,  at a risky asset share slightly below $50 \%$.
 
-[[^3]] !500
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-022.jpg?height=974&width=1201&top_left_y=299&top_left_x=424)
+
 
 Figure 1.10: Two-state example: Marginal benefit and cost of higher risky asset share (power utility with $\gamma=5$ )
 
-risk aversion and the associated concavity of utility. The yellow line shows the marginal cost. As we shift more into the risky asset,  and as we are getting poorer in the state in which the risky asset has losses,  the marginal cost of wealth reductions in the bad state are getting bigger. This is again a consequence of risk aversion and the associated concavity of utility. The red line shows the combined consequence in terms of expected marginal benefits and costs. We reach the optimum,  where expected marginal benefits and costs exactly balance,  at a risky asset share slightly below $50 \%$.
+
 
 If the risky asset's return in the good state was higher,  then the marginal benefit would be higher and the optimum where marginal cost and benefit balance in expectation would be at a higher risky asset share. The same would be true if the loss of the risky asset in the bad state was smaller.
 
@@ -438,7 +427,7 @@ and hence$$
 \end{equation*}
 
 $$
-[[^4]] !500
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-024.jpg?height=980&width=1186&top_left_y=296&top_left_x=426)
 
 Figure 1.11: Actual marginal utility and first-order approximation (power utility with $\gamma=5,        W_{0}=1 ; \omega=0.5$ ). Risky asset return on $x$-axis shown in excess of $\mathbb{E}[R]$
 
@@ -480,7 +469,7 @@ So to explain the average investor's Asset Allocation with Multiple Risky Assets
 $$
 At an annual horizon,  a plausible value for $\mathbb{E}\left[R-R_{f}\right]$,  based on historical data,  is $5 \%$; a plausible value for $\operatorname{var}(R)$ is 0.03 . Plugging in these values,  we can solve for $\gamma \approx 2.92$.
 
- !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-026.jpg?height=947&width=1199&top_left_y=291&top_left_x=425)
 
 Figure 1.12: Equity share as a fraction of total debt and equity securities held by U.S. domestic investors
 
@@ -573,7 +562,7 @@ and we have no other knowledge about the location of $\mu$ than what we saw in t
 $$
 This means that our knowledge about the location of $\mu$ is now summarized by $\hat{\mu}$ and normal distribution around $\hat{\mu}$ with standard deviation equal to the standard error s.e. $(\hat{\mu}) .^{7}$ The higher the standard error,  the more uncertain we are about the location of $\mu$. There is a $95 \%$ chance that the true $\mu$ lies within $\hat{\mu} \pm 1.96 \times$ s.e. $(\hat{\mu})$,  or approximately,  $\hat{\mu} \pm 2 \times$ s.e. $(\hat{\mu})$.
 
-[[^5]] !500
+ ![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-030.jpg?height=987&width=1201&top_left_y=290&top_left_x=424)
 
 Figure 1.13: Uncertainty about expected return with $\hat{\mu}=0.05$ and s.e. $(\hat{\mu})=0.02$
 
@@ -610,12 +599,16 @@ When returns are not IID,  things are more complicated. But we'll get to this la
 
 Table 1.1: Annualized risk and return estimates for various asset classes 1980-2021
 
-| Stocks | I-Stocks | Value | Small | T-Bonds | I-Bonds | C-Bonds | REITS | Gold | 
- | ------------------ | ------ | -------- | ----- | ----- | ------- | ------- | ------- | ----- | ----- | 
- | $\hat{m u}-r_{f}$ | 0.079 | 0.060 | 0.102 | 0.091 | 0.030 | 0.041 | 0.037 | 0.074 | 0.007 | 
- | $\hat{\sigma}$ | 0.157 | 0.172 | 0.177 | 0.209 | 0.064 | 0.087 | 0.068 | 0.170 | 0.175 | 
- | SR | 0.503 | 0.348 | 0.580 | 0.434 | 0.467 | 0.470 | 0.536 | 0.437 | 0.038 | 
- | s.e. $(\hat{\mu})$ | 0.024 | 0.026 | 0.027 | 0.032 | 0.010 | 0.013 | 0.010 | 0.026 | 0.027 |
+
+$$\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+~ & Stocks & I-Stocks & Value & Small & T-Bonds & I-Bonds & C-Bonds & REITS & Gold \\ \hline
+$\hat{\mu} - r_f$ & 0.079 & 0.060 & 0.102 & 0.091 & 0.030 & 0.041 & 0.037 & 0.074 & 0.007 \\ \hline
+$\hat{\sigma}$ & 0.157 & 0.172 & 0.177 & 0.209 & 0.064 & 0.087 & 0.068 & 0.170 & 0.175 \\ \hline
+SR & 0.503 & 0.348 & 0.580 & 0.434 & 0.467 & 0.470 & 0.536 & 0.437 & 0.038 \\ \hline
+s.e. $\left(\hat{\mu}\right)$ & 0.024 & 0.026 & 0.027 & 0.032 & 0.010 & 0.013 & 0.010 & 0.026 & 0.027 \\ \hline
+\end{tabular}
+$$
 
 Table 1.1 shows annualized estimates of mean returns in excess of the average T-bill return and risk measures for various asset classes over the period 1980-2022. Stocks:
 
