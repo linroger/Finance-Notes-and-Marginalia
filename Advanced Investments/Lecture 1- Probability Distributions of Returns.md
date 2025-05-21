@@ -305,7 +305,6 @@ Figure 1.9 shows some data on this from the 2022 version of the Survey of Consum
 
 There is a slight increase of the equity share going from the poorest to the richest households. But the increase from about $40 \%$ to $60 \%$ is small considering that the wealth differences between the different bins are huge. Households in the lowest bin have,  on average,  4K in wealth; households in the highest group have $90m on average.
 
-<<<<<<< HEAD
 Moreover,  if we want to use a utility function to capture the risk attitude of an institutional investor such as a pension fund or an endowment,  there is little reason to think that an institution with a bigger portfolio would necessarily want to devote more or less of its portfolio to risky assets. Hence,  CRRA preferences seem like a useful starting point for modeling the risk attitudes of institutions.
 =======
 Moreover,  if we want to use a utility function to capture the risk attitude of an institutional investor such as a Uses of Interest Rate Swaps | pension fund]] or an endowment,  there is little reason to think that an institution with a bigger An Asset Allocation Primer | portfolio]] would necessarily want to devote more or less of its An Asset Allocation Primer | portfolio]] to risky assets. Hence,  Lecture 2- Asset Allocation with Multiple Risky Assets | CRRA preferences]] seem like a useful starting point for modeling the Risk Aversion | risk attitudes]] of institutions.
