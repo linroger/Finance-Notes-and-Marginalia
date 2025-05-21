@@ -718,6 +718,7 @@ $$
 
 Figure 2.5: Optimal allocation of risky asset portfolio based on estimated return moments
 
+![500](CleanShot%202024-10-24%20-003106@2x.png)
 Figure 2.5 presents the result. The bars in this figure show the elements of the portfolio weight vector $\hat{\boldsymbol{\omega}}^{*}$. This result may be somewhat surprising. The portfolio is mostly a combination of long positions in government bonds (U.S. Treasury and international) and domestic value stocks,    as well as a short position in international stocks. Other asset classes only play a minor role.
 
 These results are quite sensitive to the inputs,    though. So our work is not done yet.
@@ -738,6 +739,7 @@ Another useful sensitivity check can help us understand the conditions that lead
 
 (b) Mean excess return of international stocks raised to be the same as domestic stocks
 
+![500](CleanShot%202024-10-24%20-003108@2x.png)
 Figure 2.6: Sensitivity analysis
 
 
@@ -750,6 +752,7 @@ Another way of checking sensitivity is to examine how the optimal weights change
 
 Figure 2.7: Weights of estimated mean-variance efficient portfolio without shrinkage (10 years of data to estimate means and covariances)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-048.jpg?height=798&width=985&top_left_y=1048&top_left_x=532)
 Figure 2.7 shows the results. In the latest decade,    the weights are somewhat stable and not too extreme. But in the first decade,    they take extreme values: In the early years we see weights of more than $400/% in Corporate Bonds and a roughly similarly sized
 
 short position in Treasury bonds. This is effectively an extremely highly levered bet on corporate credit. Based on 10-year lagged data on returns,    and taking these data as the true expected excess returns and covariances,    this looked like an attractive position back then.
@@ -1113,6 +1116,7 @@ Now,    conceptually,    it's not clear why equal risk budgets for each asset cl
 
 Figure 2.9: Weights of risk parity portfolio (10 years of data to estimate standard deviations)
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-049.jpg?height=789&width=987&top_left_y=351&top_left_x=577)
 Figure 2.9 shows how risk parity portfolio weights looked like if we implemented this approach in the past few decades,    using 10 years of backward looking data to estimate the
 
 [[^7]]asset class return standard deviations. Notice the different scale of the y-axis compared with Figure 2.7.
@@ -1121,6 +1125,7 @@ Also,    note that I am plotting the risky portfolio weights in (2.18) that are 
 
 In several ways,    these portfolio weights have desirable attributes. There are no huge outliers asking for huge amounts of leverage (portfolio weights in excess of 1.0) or short positions (portfolio weights $<0$ ) that portfolio managers are often reluctant to take. As we saw in Figure 2.7,    this can be very different for optimal weights without shrinkage when a relatively short estimation window of 10 years is used to estimate the inputs for the optimal portfolio weight formula (that make the calculation of the optimal weights far more cumbersome). One way to fix this problem (for a manager who is reluctant to take on leverage and short positions) is to impose additional constraints on the meanvariance optimization problem. But the risk parity strategy delivers moderate weights without having to impose such constraints.
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-052.jpg?height=1012&width=1201&top_left_y=594&top_left_x=424)
 Figure 2.9 also highlights one property that has generated criticism of the risk parity approach: its heavy loading on bonds. As the figure shows,    the three bond asset classes,    U.S. Treasury bonds,    international bonds,    and Corporate Bonds account for a large share of the total portfolio. The concern is that the strategy has benefitted from the secular decline in interest rates (which lead to high returns for holders of long-term bonds) that took place during the past decades. The performance of a strategy with a high bond exposure in the future may look much less appealing.
 
 Another problem that is useful to keep in mind concerns the initial menu of asset classes. The mean-variance optimization approach that takes into account correlations is not as sensitive to the selection of the asset class menu than the risky parity approach. For example,    if we add another asset class to the menu that is very similar in terms of mean return and highly correlated with an asset class that we already have in the menu,    the mean-variance optimal portfolio will tend to reduce the share of the one we already have in the menu and give some of this share to the new asset class,    leaving other asset classes largely unaffected.

@@ -66,14 +66,17 @@ In the rest of this lecture, we will take the perspective of an investor who car
 
 At long horizons, the difference between nominal and real returns can be huge. Figure 8.1 shows the history of CPI inflation in the U.S. during the post world war II period, measured as the percentage change in CPI over 12-month intervals. Investors in the 1970s and 1980s experienced inflation rates above $10\%$. These inflation rates could turn
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-268.jpg?height=822&width=1180&top_left_y=302&top_left_x=429)
 Figure 8.2: Final values in real and nominal terms of a 20-year long investment in a portfolio of U.S. Treasury bonds with 5-10 year maturity
 
 a $10\%$ yield on a Treasury bond into a zero return in real terms. Over the subsequent decades, inflation rates fell to much lower levels and were more stable. Only very recently, in the wake of the COVID pandemic, inflation started rising again to levels we had not seen since the early 1980s.
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-269.jpg?height=936&width=1199&top_left_y=296&top_left_x=474)
 Figure 8.2 illustrates the consequences that inflation had for the experiences of longterm bond investors during the past decades. In this figure, I consider an investor who invests 1$ to purchase a portfolio of 5-10 year U.S. Treasury bonds and rebalances this portfolio every month so that it stays within the 5-10 year maturity band. The investor does this rebalancing for 20 years and I then look at the final value of the portfolio after 20 years in nominal terms and in real terms. The bonds in this portfolio are regular U.S. Treasury bonds that have principal and coupons fixed in nominal terms (we'll discuss a different kind that offers inflation-adjusted payoffs later in this lecture).
 
 The blue line in the figure shows the nominal final value. For example, the point on the blue line for 1975 says that an investor who held this bond portfolio from 1956 to 1975 turned the initial 1$ into around 2.1$. The real line shows the real value, after removing the effects of inflation. The point for 1975 on the red line therefore says that in terms of purchasing power, the investor who started in 1956 just achieved a preservation of the purchasing power of his investment, but not more than this: the real return was zero.
 
+![500](Keep%20It%202024-10-24%2010.52.05.png)
 Figure 8.3: Top-10 hyperinflations in world history
 Source: Hanke, S.H. and Krus, N., 2013. World hyperinflations. In: Routledge handbook of major events in economic history (pp. 384-394). Routledge.
 
@@ -83,6 +86,7 @@ Investors who started in the mid-1970s and held the portfolio until 1995 had an 
 
 The inflation rates above 10% per year experienced by the U.S. in the 1970s and 1980s were a substantial drag on real returns for investors holding securities with nominally fixed payoffs. Investors in other developed countries experienced similar rates of inflation around the same time. In Germany inflation peaked at $8\%$; in the U.K. the peak was at $25\%$. However, these inflation rates pale against the inflation rates that some countries throughout history have experienced during episodes of hyperinflation.
 
+![400](Keep%20It%202024-10-24%2010.52.14.png)
 Figure 8.5 lists the most extreme hyperinflations in world history as ranked by the maximum monthly inflation rate. The record was set in Hungary shortly after the end of the second world war. Around the peak of inflation, prices tripled in a single day. Around the peak of the hyperinflation in Germany in 1922/23, it took about four days for prices to double. In each of these cases, owners of assets with nominally fixed payoffs found their wealth completely wiped out. Borrowers with nominally fixed liabilities saw their debts effectively erased in real terms.
 
 In present-day developed markets, hyperinflation seems like an extremely remote possibility. But for a cautious long-term investor with a multi-decade horizon, even such extremely low-probability risks perhaps should not be ignored entirely.
@@ -149,13 +153,13 @@ V_{B, t} & =\frac{\mathbb{E}_{t}\left[D_{B, t+1}^{r}\right]}{\left(1+R^{r}\right
 \end{align*}
 $$
 
-while the real value
+while the real value is immune to inflation risk. An unexpected sudden increase in the level of the $CPI_{t}$, i.e., unexpected inflation, has no effect on the real value of this real asset because any increase in the CPI is matched one-for-one by the same percentage increase in the expected nominal cash flow. A rise in expected inflation leaves the real value of this real asset unchanged because an increase in expected inflation is compensated by an increase in expected nominal cash flow.
 
 $$
 V_{B, t}^{r}=\frac{\mathbb{E}_{t}\left[D_{B, t+1}^{r}\right]}{1+R^{r}} \tag{8.10}
 $$
 
-is immune to inflation risk. An unexpected sudden increase in the level of the $CPI_{t}$, i.e., unexpected inflation, has no effect on the real value of this real asset because any increase in the CPI is matched one-for-one by the same percentage increase in the expected nominal cash flow. A rise in expected inflation leaves the real value of this real asset unchanged because an increase in expected inflation is compensated by an increase in expected nominal cash flow.
+
 
 ## 8.3 Inflation risk and hedging
 
@@ -220,12 +224,15 @@ For the stock market index in Panel B the picture is more mixed. On the one hand
 
 Panel C shows the results for gold. Gold has a positive exposure to both inflation risk factors. The $t$-statistics are both smaller than the usual threshold of 1.96, but the one on the expected inflation variable is very close and indicates significance at least at a $10\%$ level. So there are some hints that gold not only provides real returns protected from inflation risk, but in addition, its real returns may have positive exposure to inflation risk factors, so that real returns are actually higher when inflation surges and lower when inflation declines. This may reflect that investors are willing to pay an extra insurance premium for real assets, or equivalently, tolerate a relatively low expected return, as a price of enjoying inflation protection when inflation surges.
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-277.jpg?height=1668&width=963&top_left_y=429&top_left_x=597)
 Figure 8.4 illustrates the relationship of Treasury bond returns and gold returns to unexpected inflation in a bit more detail. The $x$-axis of these scatterplot shows the unexpected inflation realization $U E_{t: t+12}$ and the $y$-axis shows the real return. Interestingly, the relationships seem to be somewhat nonlinear, with bond returns particularly sensitive to unexpectedly low inflation and gold returns particularly sensitive to unexpectedly high inflation. When inflation surprised investors on the low side during the past 50 years, bonds earned big returns; when inflation surprised on the upside, gold prices rocketed. (For the stock market index, a similar scatterplot just shows a cloud without any clear relationship, so I did not add this plot.)
 
 A few more thoughts on the question whether we should think of stocks as a real asset, and the somewhat mixed picture on this from Table (8.1). Part of the reason why the picture is mixed could be that the regression in Table (8.1) does not isolate pure inflation risk exposure. In the historical data, bursts of unexpected inflation, or changes in expected inflation, may have coincided with other macroeconomic news, e.g., about growth, that affected investors' expectations of real cash flows. For example, the stagflation episodes of the early 1980s may have led investors to believe that an unexpected rise in inflation will be countered by a recession-inducing and stock-price-
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-278.jpg?height=901&width=1278&top_left_y=360&top_left_x=369)
 Figure 8.4: Bond and gold returns and unexpected inflation
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-281.jpg?height=823&width=1183&top_left_y=304&top_left_x=493)
 Figure 8.5: Asset prices during German hyperinflation in 1923
 Source: Braggion, F., von Meyerinck, F. and Schaub, N., 2022. Inflation and Individual Investors' Behavior: Evidence from the German Hyperinflation. University of St. Gallen, School of Finance Research Paper.
 
@@ -233,6 +240,7 @@ depressing hike in interest rates by the Federal Reserve. This may have contribu
 
 One way of doing so is to look at episodes where the inflation shock was just so big that alternative confounding factors are just far too small in comparison to distort the picture. For example, we can ask how well stocks performed during episodes of hyperinflation. Did stock prices rise roughly in line with the CPI as one would expect for a real asset or did a stock market investor experience a substantial loss in purchasing power?
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-282.jpg?height=822&width=1180&top_left_y=302&top_left_x=429)
 Figure 8.5 presents evidence from the German hyperinflation during the 1920s. The authors of this study hand-collected data on stock prices of several hundred stocks listed on the Berlin stock exchange. The time series shown in the chart cover the period from start of 1920 until September 1923 during which the CPI in Germany (red solid line) rose by a bit less than 10 million times. As the figure shows, stock prices (blue solid line) rose largely in lockstep by the same factor. In contrast, nominal long-term bonds (4.5% Deutsche Reichsschatzanweisung) of course did not rise at all and hence owners of these bonds basically experienced a total loss in real terms.
 
 The last two months until the peak and end of inflation in November 1923 are missing in the authors' data (during these two months prices increased by a factor of 1000), but other studies have data that suggests that the stocks in Germany maintained much of their real value during these two months and the following currency reform.[^4]
@@ -271,14 +279,17 @@ $$
 P_{10, t}=\left(\sum_{k=1}^{10} \frac{c^{r}}{\left(1+Y_{10, t}^{r}\right)^{k}}\right)+\frac{1}{\left(1+Y_{10, t}^{r}\right)^{10}} \tag{8.18}
 $$
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-285.jpg?height=1605&width=969&top_left_y=458&top_left_x=600)
 Figure 8.6: Real yields extracted from TIPS prices
 
 So by observing TIPS prices, we can directly observe real yields! Given $P_{10, t}$, we can extract the real yield $Y_{10, t}^{r}$. We can also do this for other maturities and get a real yield curve.
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-287.jpg?height=938&width=1348&top_left_y=298&top_left_x=405)
 Figure 8.6 shows the real yields extracted from 5- and 10-year TIPS. While real yields were between 1 and 2 percent prior to the Great Financial Crisis (GFC) in 2008/09, real yields after the GFC spent extended periods of time in negative territory. It is unusual for nominal yields to be negative since investors could also hold money as zero-interest cash instead of bonds.[^6] But there is nothing necessarily unusual about real yields turning negative if the inflation rate is above zero. A zero-interest deposit account or holding paper money would also have a negative real return in this case.
 
 The figure also shows that the 10-year real yield tends to be above the 5-year real yield. This suggests that the real yield curve may be upward-sloping on average, like the nominal yield curve. Evidence from the U.K. where a longer history of real yields is available than in the U.S. indicates that the real yield curve may be flatter than the nominal yield curve. How big the wedge is between the slopes may depend on whether we are in an inflationary environment or not. If inflation risk is high, long-term nominal bonds are risky, as our analysis showed earlier, and so it makes sense that investors would ask for an additional risk premium, in the form of additional yield, for long-term nominal bonds compared with inflation-protected bonds that are not exposed to inflation risk.
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-290.jpg?height=915&width=1327&top_left_y=315&top_left_x=361)
 Figure 8.7: Breakeven inflation rates extracted from TIPS prices
 
 The spike of real yields in Figure 8.6 in the fall of 2008 highlights a potential problem with TIPS. TIPS are not as liquid as regular Treasury bonds. In the fall of 2008, some big investors liquidated large positions in TIPS that lead to depressed prices of TIPS and the spike in real yields that we see in the figure. This was a time when the economy entered a deep recession and the Fed had rapidly lowered short-term interest rates. It would be very unusual for real interest rates to go up in such an environment. But these real yields from TIPS at the time were distorted due to the price pressure of these liquidations in an illiquid market.
@@ -327,6 +338,7 @@ The figure also shows that the performance advantage of TIPS started showing up 
 
 An investor aiming to optimize risk and return in terms of the purchasing power that investments eventually provide should optimize the portfolio in terms of real returns. This can still be done with the same mean-variance optimization framework that we
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-293.jpg?height=1012&width=1435&top_left_y=605&top_left_x=367)
 Figure 8.8: TIPS and regular Treasury Bond ETF cumulative performance
 
 discussed in earlier lectures, but with some modifications. In the following, consider a long-term investor wants to maximize the expected utility of real wealth in $h$ periods by trading off expected real return on wealth against the variance of the real return. Let's assume the investor wants to combine a risky asset with a risk-free asset with a fixed-weight strategy like the one we analyzed in lecture 5, but now with a focus on real returns.
@@ -355,6 +367,7 @@ where $r_{f}$ was a nominal risk-free rate and $\operatorname{var}\left(r_{t: t+
 
 The first adjustment concerns the risk-free rate to be used. When the investor cares about real, not nominal returns, a nominally risk-free asset like Treasury bond is not risk-free in real terms. In the presence of inflation risk, the real return on Treasury bonds is uncertain, even if the maturity of the bond exactly matches the optimization horizon. Instead, for the investor with a $h$-year horizon, TIPS with $h$ years of remaining maturity would be virtually risk-free and hence the real yield of these securities can then be used as the real risk-free rate over this horizon. Now, as TIPS pay coupons semi-annually and hence TIPS with $h$ years of remaining to maturity are not exactly a $T$-year zero-coupon bond, which creates a slight mismatch with the optimization horizon of $h$ years. So let's assume the investor can invest in a real zero-coupon bond that offers a log real yield of $y_{h, t}^{r}$ with maturity $h$ matched to the investor's horizon. This is the risk-free asset for this investor and $y_{h, t}^{r}$ should therefore replace $r_{f}$ in (8.25).
 
+![500](Keep%20It%202024-10-24%2010.52.29.png)
 Figure 8.9: Treasury bill yields and inflation
 
 There is a potential alternative to using TIPS yields: A strategy of rolling over an investment in short-term T-bills (say, 3-month T-bills) over a longer horizon is not as low risk in real terms as a TIPS investment, but it actually gets quite close. As we discussed in the last lecture, the Federal Reserve tends to raise short-term interest rates if it sees inflation rise. As a consequence, when inflation rises, an investment in a 3-month T-bill will initially suffer a loss of real value when inflation rises after the T-bill was purchased, but already in the next quarter, the yields on T-bills may have gone up to compensate for the higher inflation rate. As a consequence, the real loss of wealth remains small. Figure 8.9 shows the strong comovement of 3-month T-bill yields and inflation in most of the previous decades. The most recent years since the onset of the COVID pandemic have been somewhat of an exception: Here the Federal Reserve was unusually slow in responding to the rise in inflation with raising short-term interest rates. To the extent one accepts the rolling-over-T-bills strategy as safe in real terms, one can use the average historical real return of this strategy as a proxy for $y_{h, t}^{r}$.
@@ -397,6 +410,7 @@ so exchange rate changes should reflect differentials in inflation rates. (Equat
 
 Now, the empirical evidence does not suggest that (8.28) is a great description of how exchange rates behave in the short run. But over longer periods, PPP helps understand exchange rate movements.[^7] PPP provides a good guide to exchange rate movements during hyperinflation episodes.
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-298.jpg?height=988&width=1338&top_left_y=308&top_left_x=361)
 Figure 8.10: Inflation and exchange rate to USD in Turkey
 
 A recent example is the hyperinflation that started in Turkey in 2022. Figure 8.10 plots the consumer price index in Turkey since 2017. Prices more than quadrupled during the seven years shown in the plot, a rise by about $350\%$, which means the local purchasing power of the Turkish lira fell by about $78\%$. The same plot also shows the exchange rate, expressed in units of Turkish lira per 1$. As the purchasing power of the lira fell, the exchange rate depreciated strongly from around $1 / 4=0.25$ dollars per lira down to $1 / 27=0.037$ dollars per lira, which is a lira depreciation of about $85\%$, which is roughly in the same ballpark as the loss of purchasing power of the lira, and hence roughly in line with (8.28).
@@ -425,9 +439,11 @@ That people have a tendency to rely on past experiences in forming their views a
 
 But if we look at heterogeneity in individuals' expectations, we can clearly see the experience effects at work. In a research project some years ago, my co-author Ulrike Malmendier and I showed that people's inflation expectations are heavily shaped by their life-time experiences of inflation. This is clearly visible as age-heterogeneity in inflation expectations. Younger people's expectations are influenced by more recent data while older individuals' expectations are influenced by data from earlier years because their lifetime experiences stretch farther back into the past. The expectations of young and old therefore differ. For example, after a surge in inflation rates, young people's lifetime experience is quickly dominated by these high inflation rates, leading them to forecast higher future inflation rates. In contrast, older people average these recently high inflation rates with a larger set of historical experiences, and so the reaction of their expectations to this surge is more muted.
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-299.jpg?height=958&width=1332&top_left_y=323&top_left_x=424)
 Figure 8.11: Differences in inflation expectations by age
 One-year inflation expectations of age groups in excess of the cross-sectional mean across age groups each period. Data from the Michigan Survey of Consumers. Until 2009Q4: Malmendier, U. and Nagel, S., 2016. Learning from inflation experiences. Quarterly Journal of Economics, 131(1), pp.53-87; out-of-sample periods after 2009Q4 are updates post-publication. Solid lines show inflation forecasts from an $\mathrm{AR}(1)$ model estimated on each age group's lifetime data of inflation.
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-300.jpg?height=706&width=1180&top_left_y=319&top_left_x=424)
 Figure 8.11 presents the evidence for these sorts of life-time experience effects in the Michigan Survey of Consumers, a monthly survey that has been conducted for many decades. The small circles show the average inflation expectation every quarter of people in three age groups: young (age $<40$) in blue, middle-aged $(40 \leq age \leq 60)$ in red, older people (age $>60$) in black. To focus purely on cross-sectional differences at each point in time between these age groups, the figure shows the inflation expectations relative to the overall cross-sectional mean of everyone's inflation expectation at that point in time. In other words, when a group shows up with a value above zero in this plot, it means that this group has above-average inflation expectations in this period; if it shows up below zero, it has below-average inflation expectations in this period.
 
 Examining the plot, we see that as inflation rates were rising throughout the 1970s until the early 1980s, a gap opens up between young and old. By 1981, around the time inflation peaked, younger individuals expected about 3 percentage points higher inflation over the next year than older individuals. Over the following decades, this gap closed and eventually reverted. In the noughties, the gap turned negative. In the noughties, older individuals had higher inflation expectations than younger individuals, consistent with the memory of the high inflation in the 1970s that is absent in younger individuals' life-time experience.
@@ -437,6 +453,7 @@ The solid lines in the figure show the inflation prediction that comes out of a 
 From a central banker's viewpoint, the fact that we see these experience-dependent differences between young and old means that experiences exert a force that is not so easy to overcome just with words and announcements. Moreover, the unanchoring of inflation expectations that central bankers are typically worried about is likely to happen more quickly for younger individuals.[^8] On the other hand, once expectations of the general population have become unanchored, it will be particularly difficult to re-anchor those of older individuals because a few quarters of low inflation will do little to alter their extensive set of historical experiences.
 
 Source: Young [36, vol. 2, p. 393].
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-303.jpg?height=828&width=1205&top_left_y=318&top_left_x=468)
 Figure 8.12: Government budget in Germany in years leading up to 1923 hyperinflation Source: Sargent, T.J., 1982. The ends of four big inflations. In Inflation/War Economies and Hyperinflation.md: Causes and effects (pp. 41-98). University of Chicago Press.
 
 It's good news for the Federal Reserve that a big unanchoring of inflation expectations has not happened yet following the recent surge of inflation in 2022. The breakeven inflation rates in Figure 8.7 shows that the bond market prices in somewhat higher expected inflation, but this is still far from the expected inflation rates of around $10\%$ that were registered the last time inflation surged in the early 1980s.
@@ -475,8 +492,10 @@ Table G5 Ordinary Revenues and Expenditures of the German Federal Government (fr
  | 1925 January-March | 1,582.0 | 1,516.0 | 
 
 Source: Young [36, vol. 1, p. 422].
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-303.jpg?height=744&width=1071&top_left_y=1273&top_left_x=489)
 Figure 8.13: Government budget in Germany in months after hyperinflation ended Source: Sargent, T.J., 1982. The ends of four big inflations. In Inflation/War Economies and Hyperinflation.md: Causes and effects (pp. 41-98). University of Chicago Press.
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-305.jpg?height=860&width=1218&top_left_y=828&top_left_x=475)
 Figure 8.14: Treasury yields (3-month and 10-year maturity) around March 2020
 Source: He, Z., Nagel, S. and Song, Z., 2022. Treasury inconvenience yields during the covid-19 crisis. Journal of Financial Economics, 143(1), pp.57-79.
 

@@ -690,6 +690,7 @@ Figure 5.1b shows that the answer is no. This figure shows wealth for the first 
 
 (C)Stefan Nagel 2024
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-172.jpg?height=595&width=771&top_left_y=296&top_left_x=539)
 Figure 5.1: Log wealth evolution for Chapter 3 -  Assets, Portfolios, and Arbitrage | portfolios]] of different riskiness. Growth-optimal portfolio has $\gamma=1$.
 
 stayed ahead of the others most of the time until around day 40,  000,  it subsequently falls substantially behind the more conservative Chapter 3 -  Assets, Portfolios, and Arbitrage | portfolios]] with $\gamma>1$ that have a lower share allocated to equities. In the simulation,  this happens to be a prolonged period of poor stock market performance,  and hence portfolios with more conservative allocation do better. Only after about 100,  000 days,  at the very end of the chart,  the growth-optimal portfolio gets ahead of the others again.
@@ -717,6 +718,7 @@ Which of these An Asset Allocation Primer | portfolio]] allocation policies,  an
 
 (b) Right tail of the distribution
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-172.jpg?height=624&width=768&top_left_y=992&top_left_x=543)
 Figure 5.2: Simulated distribution of wealth after 40 years for Chapter 3 -  Assets, Portfolios, and Arbitrage | portfolios]] of different riskiness. Growth-optimal portfolio has $\gamma=1$.
 
 they generate,  are more attractive to an investor depends on the Overview of Financial Markets | investors]] risk preferences. The growth-optimal portfolio is not a universally preferable portfolio. Whether an investor prefers the growth-optimal portfolio,  or a more conservative portfolio with lower risky asset exposure,  or a riskier portfolio,  depends on risk preferences. An expected utility maximizing investor would choose it only if they have relative risk aversion equal to 1 . If they have higher risk aversion,  they prefer a less risky,  lower expected return strategy. If they have lower risk aversion,  they prefer a strategy with higher risk and higher expected return than the growth-optimal strategy.
@@ -1126,6 +1128,7 @@ An alternative fixed-weight strategy that sets the weight to the long-run averag
 
 Figure 5.5: Equity share of market-timing An Asset Allocation Primer | portfolio]] (first 100 observations from simulation,  $\phi=0.95$ )
 
+![500](https://cdn.mathpix.com/cropped/2024_10_19_48a1c4654e845915c45cg-172.jpg?height=613&width=768&top_left_y=1710&top_left_x=543)
 Figure 5.5 illustrates how the weights of these strategies look like with a cut of 100 quarters from one On the Convergence of Hull White Monte Carlo Simulations | simulation]] run with $\phi=0.95$. With $\gamma=5$,  the myopic market-timing strategy invests on average about $56 \%$ of the portfolio in the stock market. This is the fixed weight for the third strategy in the list above. The myopic market-timing strategy has weights that vary around this level from around zero to occasionally above one. Periods when the weight is low are periods when the conditional expected excess return on the stock market is low; periods when the weight is high are periods when the conditional expected excess return is high. When the weight is below zero,  this means
 
 that the strategy takes a short position in the Hedge Fund Strategies | stock market]]; when it's above one,  the strategy takes a leveraged position in the stock market financed by borrowing at the risk-free rate.
