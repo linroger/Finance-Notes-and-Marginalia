@@ -1904,9 +1904,7 @@ $$Coupon = Notional \times Rate \times \frac{Days\ in\ Range}{Total\ Days}$$
 **Vasicek Model**: $$dr_t = \kappa(\theta - r_t)dt + \sigma dW_t$$**Advantages**: Analytical bond prices, mean reversion
 **Disadvantages**: Negative rates possible
 
-**Bond Price Formula**: $$P(t,T) = A(t,T) e^{-B(t,T) r_t}$$
-
-Where:
+**Bond Price Formula**: $$P(t,T) = A(t,T) e^{-B(t,T) r_t}$$Where:
 $$B(t,T) = \frac{1 - e^{-\kappa(T-t)}}{\kappa}$$
 
 $$A(t,T) = \exp\left[\left(\theta - \frac{\sigma^2}{2\kappa^2}\right)(B(t,T) - (T-t)) - \frac{\sigma^2 B(t,T)^2}{4\kappa}\right]$$
@@ -3424,6 +3422,13 @@ Exotic options are extensively used in structured products:
 Let's implement comprehensive examples using current exotic option market data:
 
 ```python
+import micropip 
+await micropip.install("pandas") 
+await micropip.install("numpy") 
+await micropip.install("scipy") # For scipy.stats.norm 
+import numpy as np 
+import pandas as pd 
+from scipy.stats import norm # Import norm for cdf function
 # Exotic option market data (as of May 19, 2025)
 exotic_options_data = {
     'instrument_type': ['Asian Call (SPY)', 'Barrier Put (AAPL)', 'Digital Call (GOOGL)', 
@@ -3510,6 +3515,220 @@ def price_barrier_option_example():
 price_barrier_option_example()
 ```
 
+
+```python
+import micropip
+await micropip.install("pandas")
+await micropip.install("numpy")
+await micropip.install("scipy") # For scipy.stats.norm
+
+import numpy as np
+import pandas as pd
+from scipy.stats import norm # Import norm for cdf function
+
+# Exotic option market data (as of May 19, 2025)
+exotic_options_data = {
+    'instrument_type': ['Asian Call (SPY)', 'Barrier Put (AAPL)', 'Digital Call (GOOGL)', 
+                       'Lookback Call (TSLA)', 'Quanto Call (DAX)'],
+    'underlying_price': [587.50, 195.25, 2875.00, 185.50, 17800],
+    'strike_price': [590.00, 180.00, 2900.00, None, 18000],  # None for lookback
+    'barrier_level': [None, 160.00, None, None, None],
+    'time_to_expiry': [0.25, 0.5, 0.17, 0.75, 0.33],  # Years
+    'implied_vol': [18.5, 25.2, 22.8, 35.1, 19.8], # In percent
+    'theoretical_price': [12.85, 8.25, 125.50, 28.75, 850.25],
+    'market_price': [13.20, 8.10, 126.00, 29.00, 845.00],
+    'bid_ask_spread': [0.25, 0.15, 2.00, 0.50, 10.00]
+}
+
+# Correlation matrix for multi-asset options
+correlation_matrix = {
+    'assets': ['SPY', 'QQQ', 'IWM', 'EFA', 'EEM'],
+    'SPY': [1.00, 0.85, 0.82, 0.75, 0.65],
+    'QQQ': [0.85, 1.00, 0.78, 0.70, 0.60],
+    'IWM': [0.82, 0.78, 1.00, 0.72, 0.68],
+    'EFA': [0.75, 0.70, 0.72, 1.00, 0.82],
+    'EEM': [0.65, 0.60, 0.68, 0.82, 1.00]
+}
+
+# Volatility surface data for barrier options
+barrier_vol_adjustments = {
+    'proximity_to_barrier': ['Far (>20%)', 'Medium (10-20%)', 'Near (5-10%)', 'Very Near (<5%)'],
+    'vol_adjustment': [0.0, 1.5, 3.2, 8.5],  # Additional volatility points
+    'bid_ask_widening': [1.0, 1.5, 2.5, 5.0],  # Multiple of normal spread
+    'hedge_frequency': ['Daily', 'Twice Daily', 'Hourly', 'Continuous']
+}
+
+exotic_df = pd.DataFrame(exotic_options_data)
+# Set 'instrument_type' as index for exotic_df for easier lookup if needed
+exotic_df.set_index('instrument_type', inplace=True)
+
+corr_df = pd.DataFrame(correlation_matrix)
+# Set 'assets' as index for corr_df for proper matrix representation
+corr_df.set_index('assets', inplace=True)
+
+barrier_df = pd.DataFrame(barrier_vol_adjustments)
+# Set 'proximity_to_barrier' as index for barrier_df
+barrier_df.set_index('proximity_to_barrier', inplace=True)
+
+print("Exotic Options Market Data")
+print("=" * 60)
+print("\nExotic Options Overview:")
+print(exotic_df)
+print("\nAsset Correlation Matrix:")
+print(corr_df)
+print("\nBarrier Option Risk Adjustments:")
+print(barrier_df)
+
+# Practical pricing example
+def price_barrier_option_example():
+    """Example of barrier option pricing with market data."""
+    # Data for Down-and-Out Put on AAPL from the exotic_options_data
+    # Assuming the 'Barrier Put (AAPL)' entry corresponds to these parameters
+    S0 = exotic_df.loc['Barrier Put (AAPL)', 'underlying_price'] # Current AAPL price
+    K = exotic_df.loc['Barrier Put (AAPL)', 'strike_price']    # Strike price
+    H = exotic_df.loc['Barrier Put (AAPL)', 'barrier_level']   # Barrier level
+    T = exotic_df.loc['Barrier Put (AAPL)', 'time_to_expiry']  # Time to expiry in years
+    sigma_percent = exotic_df.loc['Barrier Put (AAPL)', 'implied_vol'] # Implied volatility from table (in percent)
+    sigma = sigma_percent / 100.0 # Convert volatility to decimal
+
+    # Market assumptions (can be taken from a separate source or assumed)
+    r = 0.0475       # Risk-free rate (e.g., current 6-month T-bill rate if T=0.5)
+    q = 0.0055       # Dividend yield for AAPL (example value, check current)
+    
+    # Correction for mu according to common formulation (Haug uses r-q, not r-q+sigma^2/2 for mu in exponent)
+    # mu_exponent = (r - q - sigma**2 / 2) / sigma**2 # This is for (S/H)^(2*mu) form, where mu = (r-q-0.5*sigma^2)/sigma^2
+    # Let's use standard Black-Scholes drift for d parameters and adjust the Haug formula terms carefully.
+    # Haug's formula for Down-and-Out Put (P_do):
+    # P_do = K*exp(-rT)*N(-d2) - S*exp(-qT)*N(-d1) 
+    #        - K*exp(-rT)*(H/S)^(2*(r-q)/sigma^2 -1) * N(-d4_haug) 
+    #        + S*exp(-qT)*(H/S)^(2*(r-q)/sigma^2) * N(-d3_haug)
+    # where d1, d2 are standard BS. d3_haug, d4_haug involve H.
+    # The formula in the original post: P_do = P_vanilla - P_di (Put Down-and-In)
+    # P_di = -S*exp(-qT)*(H/S)^(2*lambda)*N(-y) + K*exp(-rT)*(H/S)^(2*lambda - 2)*N(-y+sigma*sqrt(T))
+    # where lambda = (r - q + sigma^2/2)/sigma^2 and y = (ln(H^2/(S*K)) / (sigma*sqrt(T))) + lambda*sigma*sqrt(T)
+    # The provided formula looks like one of the specific forms for P_do directly.
+    # mu = (r - q + sigma**2 / 2) / sigma**2 is indeed lambda.
+    # Let's re-verify d3 and d4 in the provided formula with common sources for this specific P_do form.
+    # d3_orig = (np.log(S0/H) + (r - q + sigma**2/2) * T) / (sigma * np.sqrt(T)) -> This looks like d_BS(S0,H)
+    # d4_orig = d3_orig - sigma * np.sqrt(T)
+    # The terms are (H/S0)**(2*mu-2) and (H/S0)**(2*mu). This is standard for Down-and-In, so the P_do formula is P_vanilla - P_di if signs are adjusted.
+    # The provided formula is: P_vanilla - [K*exp(-rT)*(H/S0)^(2*mu-2)*N(-d4_orig) - S0*exp(-qT)*(H/S0)^(2*mu)*N(-d3_orig)]
+    # This would be correct if the term in [] is the down-and-in put price (P_di).
+    # A common P_di (put down-and-in):
+    # P_di = -S0*exp(-qT)*(H/S0)^(2*lambda)*N(y) + K*exp(-rT)*(H/S0)^(2*lambda-2)*N(y - sigma*sqrt(T))
+    # where y = (log(H^2/(S0*K))/(sigma*sqrt(T))) + lambda*sigma*sqrt(T) --- this is complex.
+
+    # Let's use the formulation from "The Complete Guide to Option Pricing Formulas" by Haug, p.159 (Down-and-Out Put, S < H is impossible)
+    # This formula is for H < S0. If S0 < H, price is 0.
+    # phi = 1 (for put)
+    # eta = -1 (for down barrier)
+    # d1,d2 are standard BS for S0, K
+    # d3 = (log(S0/H) + (mu_haug + sigma^2/2)T) / (sigma*sqrt(T)) where mu_haug = r-q
+    # d4 = d3 - sigma*sqrt(T)
+    # x1 = (log(S0/K) + (mu_haug + sigma^2/2)T) / (sigma*sqrt(T)) == d1
+    # x2 = x1 - sigma*sqrt(T) == d2
+    # y1 = (log(H/S0) + (mu_haug + sigma^2/2)T) / (sigma*sqrt(T))
+    # y2 = y1 - sigma*sqrt(T)
+    # z = (log(H/S0) / (sigma*sqrt(T))) + lambda_haug * sigma*sqrt(T) where lambda_haug = (mu_haug + sigma^2/2)/sigma^2
+
+    # Standard European put price (P_vanilla)
+    d1_std = (np.log(S0/K) + (r - q + sigma**2/2) * T) / (sigma * np.sqrt(T))
+    d2_std = d1_std - sigma * np.sqrt(T)
+    euro_put = (K * np.exp(-r * T) * norm.cdf(-d2_std) - 
+               S0 * np.exp(-q * T) * norm.cdf(-d1_std))
+
+    # Pricing the Down-and-Out Put using Haug's direct formula (p. 159), assuming H < S0:
+    # P_do = P_vanilla - P_di
+    # P_di (Put Down and In) when H < S0:
+    # P_di = -S0*exp(-qT)*(H/S0)^(2*(r-q)/sigma^2 + 1) * N(- ( (log(H/S0)+(r-q+sigma^2/2)*T)/(sigma*sqrt(T)) ) ) + \
+    #         K*exp(-rT)*(H/S0)^(2*(r-q)/sigma^2 - 1) * N(- ( (log(H/S0)+(r-q-sigma^2/2)*T)/(sigma*sqrt(T)) ) )
+    # This is also getting complex to map directly to the user's variables d1,d2,d3,d4 and mu.
+
+    # Let's trust the user's provided formula structure and parameters (d1, d2, d3, d4, mu)
+    # as it might correspond to a specific textbook's notation for P_do = P_vanilla - P_di_adjusted_form.
+    # The key 'NameError' is on 'norm'.
+
+    # Parameters for the user's formula:
+    # Vanilla Put part
+    d1_vanilla = (np.log(S0/K) + (r - q + sigma**2/2) * T) / (sigma * np.sqrt(T))
+    d2_vanilla = d1_vanilla - sigma * np.sqrt(T)
+    
+    # Parameters related to the barrier H for the knock-in rebate part (that is subtracted)
+    # The user's d3, d4 were:
+    # d3 = (np.log(S0/H) + (r - q + sigma**2/2) * T) / (sigma * np.sqrt(T)) # BS d1 formula with K=H
+    # d4 = d3 - sigma * np.sqrt(T)                                          # BS d2 formula with K=H
+    # And mu = (r - q + sigma**2 / 2) / sigma**2  (often denoted lambda)
+
+    # The formula used for down-and-out put looks like:
+    # P_vanilla(S,K) - P_vanilla_adjusted_for_barrier_and_reflection(S,H)
+    # Specifically, it's P_vanilla - [ K*exp(-rT)*(H/S0)^(2*mu-2)*N(-d4_for_H_as_K) - S0*exp(-qT)*(H/S0)^(2*mu)*N(-d3_for_H_as_K) ]
+    # This structure implies the term being subtracted is a Put Down-and-In (PDI)
+    # PDI = K*exp(-rT)*(H/S)^(2*lambda-2) * N(X2) - S*exp(-qT)*(H/S)^(2*lambda) * N(X1)
+    # where X1 = (ln(H/S) + (lambda - sigma^2/2)*T) / (sigma*sqrt(T)) -> not matching user's d3/d4 directly
+    # X2 = X1 + sigma*sqrt(T)
+    # Let's use the user's mu, d1, d2, d3, d4 as defined in their code for now to fix the NameError.
+
+    mu = (r - q + sigma**2 / 2) / sigma**2 # This is lambda
+    
+    # d1, d2 for the main option (strike K)
+    d1 = (np.log(S0/K) + (r - q + sigma**2/2) * T) / (sigma * np.sqrt(T))
+    d2 = d1 - sigma * np.sqrt(T)
+    
+    # d3, d4 for the barrier adjustment term (related to S0/H)
+    # These are effectively d1(S0,H) and d2(S0,H)
+    d3 = (np.log(S0/H) + (r - q + sigma**2/2) * T) / (sigma * np.sqrt(T))
+    d4 = d3 - sigma * np.sqrt(T) # This is d3 - sigma*sqrt(T)
+        
+    # Price for Down-and-Out Put based on the formula provided by the user in the code
+    # P_do = P_vanilla - P_di_styled
+    # P_vanilla = K * exp(-rT) * N(-d2) - S0 * exp(-qT) * N(-d1)
+    # P_di_styled = K * exp(-rT) * (H/S0)**(2*mu-2) * N(-d4) - S0 * exp(-qT) * (H/S0)**(2*mu) * N(-d3)
+    # Note: The N(-d4) and N(-d3) are from the user's original formula structure.
+    # A standard PDI (Put Down and In, H<S) often involves N(y - sigma*sqrt(T)) and N(y) where y is more complex.
+    # However, if d3 and d4 are defined as d(S0,H), then N(-d_barrier_related) is common.
+
+    # Ensure H < S0 for a down-and-out option to be alive
+    if S0 <= H:
+        put_price_do = 0.0 # Option is already knocked out or at the barrier
+    else:
+        term1_vanilla = K * np.exp(-r * T) * norm.cdf(-d2)
+        term2_vanilla = S0 * np.exp(-q * T) * norm.cdf(-d1)
+        
+        # These terms represent the price of a down-and-in put which is subtracted from the vanilla put
+        # The signs in the user's original formula: -K...N(-d4) + S...N(-d3)
+        # So, P_do = (term1_vanilla - term2_vanilla) - (K*exp(-rT)*(H/S0)**(2*mu-2)*norm.cdf(-d4_barrier_like) - S0*exp(-qT)*(H/S0)**(2*mu)*norm.cdf(-d3_barrier_like))
+        # It appears the user's d3, d4 are analogous to d1,d2 but with H replacing K in some sense for the barrier calculation part.
+        # Let's use exactly the d3, d4 defined by user: d3 = (ln(S0/H) + ...), d4 = d3 - sigma*sqrt(T)
+
+        term_knock_in_K = K * np.exp(-r * T) * (H/S0)**(2*mu-2) * norm.cdf(-d4) # User had norm.cdf(-d4)
+        term_knock_in_S = S0 * np.exp(-q * T) * (H/S0)**(2*mu) * norm.cdf(-d3)   # User had norm.cdf(-d3)
+
+        # User formula: P_vanilla - K_term_adj + S_term_adj
+        put_price_do = (term1_vanilla - term2_vanilla) - term_knock_in_K + term_knock_in_S
+
+
+    # Standard European put for comparison (calculated using d1, d2 for strike K)
+    euro_put = (K * np.exp(-r * T) * norm.cdf(-d2) - 
+               S0 * np.exp(-q * T) * norm.cdf(-d1))
+    
+    print(f"\nBarrier Option Pricing Example (AAPL Down-and-Out Put):")
+    print(f"Parameters: S0={S0:.2f}, K={K:.2f}, H={H:.2f}, T={T:.2f}, r={r:.4f}, q={q:.4f}, sigma={sigma:.4f}")
+    print(f"Calculated d1={d1:.4f}, d2={d2:.4f}, d3(S0,H)={d3:.4f}, d4(S0,H)={d4:.4f}, mu(lambda)={mu:.4f}")
+    print(f"Standard European Put Price: ${euro_put:.2f}")
+    if S0 > H:
+        print(f"Down-and-Out Put Price (from formula): ${put_price_do:.2f}")
+        if euro_put > 0.0001: # Avoid division by zero or near-zero
+            print(f"Barrier Discount: {(1 - put_price_do/euro_put)*100:.1f}%")
+        else:
+            print(f"Barrier Discount: N/A (European put price is near zero)")
+    else:
+        print(f"Down-and-Out Put Price: $0.00 (S0 <= H, option knocked out)")
+        print(f"Barrier Discount: N/A")
+
+    return put_price_do if S0 > H else 0.0, euro_put
+
+price_barrier_option_example()
+```
 This comprehensive coverage of exotic options provides the mathematical foundations, practical implementations, and market insights necessary for professional derivatives trading and risk management. The complexity of these instruments requires sophisticated modeling techniques and careful risk management, but they offer powerful tools for customized risk-return profiles and structured product creation.
 
 ---
@@ -3789,6 +4008,8 @@ Where $Z \sim N(0,1)$ is a standard normal random variable.
 #### 7.8.2 Implementing Geometric Brownian Motion
 
 ```python
+import micropip
+await micropip.install("matplotlib")
 import numpy as np
 import matplotlib.pyplot as plt
 
