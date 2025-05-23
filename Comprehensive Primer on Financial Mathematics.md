@@ -763,53 +763,47 @@ data:
     text: ['-$795.26', '$1,000.00']
     textposition: 'outside'
     textfont:
-      size: 10 # Slightly smaller font for the text on bars for better fit
+      size: 10
     marker:
       color: ['red', 'green']
     name: 'Cash Flows'
     hovertext: ['Initial Investment (Purchase)', 'Face Value (Maturity)']
     hoverinfo: 'x+y+text+name'
-    width: [0.6, 0.6] # Makes bars a bit narrower than default
+    width: [0.6, 0.6]
 layout:
   title:
     text: 'Zero-Coupon Bond Cash Flow Visualization'
-    # x: 0.5 # Ensure title is centered
-    # y: 0.95 # Adjust vertical position if needed
   xaxis:
     title:
       text: 'Year'
-      standoff: 20 # Increased standoff for more space between title and ticks
+      standoff: 20
     tickmode: 'array'
-    tickvals: [0, 5]
-    zeroline: true       # Show the horizontal line at y=0
+    tickvals: [0, 1, 2, 3, 4, 5]  # Updated: Ticks for each year
+    zeroline: true                 # Horizontal line at y=0
     zerolinewidth: 2
-    zerolinecolor: 'Black' # Style for the horizontal line at y=0
+    zerolinecolor: 'Black'
   yaxis:
     title:
       text: 'Cash Flow Amount ($)'
       standoff: 10
-    # Explicitly set the y-axis range to give text more breathing room,
-    # especially for the negative bar's outside text.
-    range: [-950, 1150] 
-    zeroline: true       # Show the vertical line at x=0
-    zerolinewidth: 1     # Thinner line for vertical zeroline at x=0
-    zerolinecolor: 'DarkGray' # Style for the vertical line at x=0 (less prominent than image)
-    # Control the main y-axis line itself if needed
-    # showline: true
-    # linecolor: 'LightGray'
-    # linewidth: 1
+    range: [-950, 1150]
+    zeroline: false                # Updated: Removed vertical line at x=0
+    # If you wanted the vertical zeroline back, you'd set it to true and configure color/width:
+    # zeroline: true
+    # zerolinewidth: 1
+    # zerolinecolor: 'DarkGray'
   legend:
     orientation: "h"
     yanchor: "bottom"
-    y: -0.30 # Adjusted y position for legend due to increased standoff/margins
+    y: -0.30 
     xanchor: "center"
     x: 0.5
-  margin: # Add margins to provide padding around the plot area
-    l: 60  # Left margin
-    r: 30  # Right margin
-    b: 100 # Bottom margin (to accommodate x-axis title, standoff, and legend)
-    t: 80  # Top margin (for title and text on positive bar)
-    pad: 5 # Padding between plot area and axes/titles
+  margin:
+    l: 60
+    r: 30
+    b: 100
+    t: 80
+    pad: 5
 config:
   displaylogo: false
   responsive: true
@@ -1060,10 +1054,10 @@ Where $S(t)$ is survival probability and $\lambda(t)$ is hazard rate.
 Municipal bond interest is typically exempt from federal income tax and may be exempt from state and local taxes.
 
 **Tax-Equivalent Yield**:
-$$Tax\ Equivalent\ Yield = \frac{Municipal\ Yield}{1 - Tax\ Rate}$$
+$$\text{Tax\ Equivalent\ Yield} = \frac{\text{Municipal\ Yield}}{1 - \text{Tax\ Rate}}$$
 
 For an investor in the 37% tax bracket:
-$$Tax\ Equivalent\ Yield = \frac{3.5\%}{1 - 0.37} = 5.56\%$$
+$$\text{Tax\ Equivalent\ Yield} = \frac{3.5\%}{1 - 0.37} = 5.56\%$$
 
 ### 3.5 Callable and Putable Bonds
 
@@ -1112,7 +1106,7 @@ Convertible bonds can be exchanged for a predetermined number of shares of the i
 
 **Key Parameters**:
 - **Conversion Ratio**: Number of shares per bond
-- **Conversion Price**: Effective price per share ($\frac{Face\ Value}{Conversion\ Ratio}$)
+- **Conversion Price**: Effective price per share ($\frac{\text{Face\ Value}}{\text{Conversion\ Ratio}}$)
 - **Conversion Premium**: Amount above conversion value
 
 #### 3.6.2 Valuation Components
@@ -1228,10 +1222,18 @@ Cash flows are distributed in order of seniority:
 Pass-through securities distribute principal and interest payments from the underlying mortgage pool proportionally to all bondholders.
 
 **Weighted Average Coupon (WAC)**:
-$$WAC = \frac{\sum_{i=1}^n Mortgage\ Balance_i \times Coupon\ Rate_i}{\sum_{i=1}^n Mortgage\ Balance_i}$$
+```latex
+$$ \text{WAC} = \frac{\sum_{i=1}^n \text{Mortgage Balance}_i \times \text{Coupon Rate}_i}{\sum_{i=1}^n \text{Mortgage Balance}_i} $$
+```
+Rendered:
+$$\text{WAC} = \frac{\sum_{i=1}^n \text{Mortgage Balance}_i \times \text{Coupon Rate}_i}{\sum_{i=1}^n \text{Mortgage Balance}_i}$$
 
 **Weighted Average Maturity (WAM)**:
-$$WAM = \frac{\sum_{i=1}^n Mortgage\ Balance_i \times Remaining\ Term_i}{\sum_{i=1}^n Mortgage\ Balance_i}$$
+```latex
+$$ \text{WAM} = \frac{\sum_{i=1}^n \text{Mortgage Balance}_i \times \text{Remaining Term}_i}{\sum_{i=1}^n \text{Mortgage Balance}_i} $$
+```
+Rendered:
+$$\text{WAM} = \frac{\sum_{i=1}^n \text{Mortgage Balance}_i \times \text{Remaining Term}_i}{\sum_{i=1}^n \text{Mortgage Balance}_i}$$
 
 #### 3.9.2 Prepayment Modeling
 
@@ -1243,7 +1245,11 @@ Mortgages can be prepaid, creating uncertainty in cash flows.
 - Remains at 6% CPR thereafter
 
 **Single Monthly Mortality (SMM)**:
-$$SMM = 1 - (1 - CPR)^{1/12}$$
+```latex
+$$ \text{SMM} = 1 - (1 - \text{CPR})^{1/12} $$
+```
+Rendered:
+$$\text{SMM} = 1 - (1 - \text{CPR})^{1/12}$$
 
 **Prepayment Factors**:
 - **Interest Rate Environment**: Lower rates increase prepayments
@@ -1266,6 +1272,75 @@ CMOs redirect cash flows from mortgage pools to create bonds with different char
 **Z-Tranches (Accrual Bonds)**:
 - Receive no cash until earlier tranches are retired
 - Interest accrues and compounds
+
+---
+
+#### 3.9.4 Illustrative MBS Pass-Through Cash Flow Diagram 💸
+
+Below is an example of how you could visualize the cash flows for an illustrative Mortgage-Backed Pass-Through security using the Obsidian Plotly plugin. This is a simplified example showing an initial investment and subsequent periodic (e.g., annualized) cash inflows representing principal and interest. Actual MBS cash flows are typically monthly and more complex due to amortization and prepayments.
+
+Place the following YAML code inside a `plotly` block in Obsidian:
+
+```plotly
+data:
+  - type: 'bar'
+    # x represents time periods (e.g., Year 0 for purchase, Years 1-5 for cash inflows)
+    x: [0, 1, 2, 3, 4, 5]
+    # y represents cash flow amounts: negative for initial investment, positive for inflows
+    y: [-1000, 150, 160, 170, 180, 550]
+    text: ['-$1,000.00', '+$150.00', '+$160.00', '+$170.00', '+$180.00', '+$550.00'] # Text on bars
+    textposition: 'outside'
+    textfont:
+      size: 10
+    marker:
+      # First bar red (outflow), subsequent bars green (inflows)
+      color: ['red', 'green', 'green', 'green', 'green', 'green']
+    name: 'MBS Cash Flows'
+    hovertext:
+      - 'Purchase of MBS'
+      - 'Year 1 P&I'
+      - 'Year 2 P&I (incl. some prepayments)'
+      - 'Year 3 P&I (incl. more prepayments)'
+      - 'Year 4 P&I'
+      - 'Year 5 P&I + Remaining Principal'
+    hoverinfo: 'x+y+text+name'
+    width: [0.6, 0.6, 0.6, 0.6, 0.6, 0.6] # Bar width
+layout:
+  title:
+    text: 'Illustrative MBS Pass-Through Cash Flow Visualization'
+  xaxis:
+    title:
+      text: 'Year'
+      standoff: 20
+    tickmode: 'array'
+    # Show ticks for each year, including intermediate years
+    tickvals: [0, 1, 2, 3, 4, 5]
+    zeroline: true           # Horizontal line at y=0
+    zerolinewidth: 2
+    zerolinecolor: 'Black'
+  yaxis:
+    title:
+      text: 'Cash Flow Amount ($)'
+      standoff: 10
+    # Adjusted range for better text visibility
+    range: [-1200, 750]
+    zeroline: false          # No vertical line at x=0 for a cleaner look here
+  legend:
+    orientation: "h"
+    yanchor: "bottom"
+    y: -0.30
+    xanchor: "center"
+    x: 0.5
+  margin:
+    l: 60
+    r: 30
+    b: 100 # Bottom margin for x-axis title, ticks, and legend
+    t: 80  # Top margin for title and text on positive bars
+    pad: 5
+config:
+  displaylogo: false
+  responsive: true
+```
 
 ### 3.10 International Bonds
 
