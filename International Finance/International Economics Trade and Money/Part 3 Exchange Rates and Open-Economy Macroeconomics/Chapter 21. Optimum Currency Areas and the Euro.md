@@ -10,7 +10,7 @@ The European experience raises a host of important questions. How and why did Eu
 
 This chapter focuses on Europe’s experience of monetary unification to illustrate the economic benefits and costs of fixed exchange rate agreements and more comprehensive currency unification schemes. As we see in Europe’s experience, the effects of joining a fixed exchange rate agreement are complex and depend crucially on microeconomic and macroeconomic factors. Our discussion of Europe will throw light not only on the forces promoting or obstructing greater unification of national economies but also on the forces that make a country think twice before giving up completely its control over monetary policy.  
 
-![](images/0ccdfc5810b2ea8cc9797c3689d11f3b9df0f91bef0b037cc63e687cb700a757.jpg)  
+![](0ccdfc5810b2ea8cc9797c3689d11f3b9df0f91bef0b037cc63e687cb700a757.jpg)  
 FIGURE 21-1  
 
 # Members of the Euro Zone as of January 1, 2021  
@@ -55,7 +55,7 @@ Not only did betting and financial markets, pundits, and economists alike mostly
 
 Perhaps this development should not have been quite so shocking. Britain’s relationship with the Continental European trade bloc has been ambivalent since its initial incarnation as the European Coal and Steel Community in 1952. For example, Britain did not join the euro, choosing instead to retain its own currency, a development that left the country feeling increasingly marginalized within the EU. Less than 30 months after its initial embrace of Europe in January 1973, the United Kingdom held a first referendum on leaving, with voters opting to remain by a two-to-one margin. Leaving decades later in 2020, after nearly five decades of deep integration between the British and Continental economies, would prove much more costly. Nonetheless, that is what British voters chose to do.  
 
-![](images/f2a29dc4d3685e63207810f6ccc971a3e98f57fc9553be1b269ed7b9f247dcdd.jpg)  
+![](f2a29dc4d3685e63207810f6ccc971a3e98f57fc9553be1b269ed7b9f247dcdd.jpg)  
 Source: Global Financial Data.  
 
 Why did British voters decide to leave? The reasons are complex, but a number of factors stand out. First and foremost was the desire to limit immigration from Eastern Europe and the benefits, such as medical care, the U.K. government must provide to immigrants under EU law. In the year ending March 2015, net migration into Britain was 330,000 (though not all migrants came from other EU countries). Many voters were angry owing to beliefs that immigrants were taking local jobs and crowding social services, although there is little evidence to back up such fears. (Indeed, regions that voted for Brexit tended to have far fewer immigrants than those voting to remain.) Another factor was the panoply of regulations from EU headquarters in Brussels, felt by many to be intrusive, overly detailed, and unnecessary to promote intra-EU trade. The very effective slogan of the campaign for the “Leave” position was “Take Back Control.”3  
@@ -102,7 +102,7 @@ German central bank. Devaluation was still possible, but only subject to EMS res
 
 Added support for the credibility theory comes from the behavior of inflation/War%20Economies%20and%20Hyperinflation.md) rates relative to Germany’s, shown in Figure 21-2 for six of the other original EMS  
 
-![](images/6905e6c308bd9d39c4e64d8c47cfa9be4954e826bdfee9a37cfb70b5f05584e4.jpg)  
+![](6905e6c308bd9d39c4e64d8c47cfa9be4954e826bdfee9a37cfb70b5f05584e4.jpg)  
 FIGURE 21-2  
 
 # Inflation Convergence for Six Original EMS Members, 1978–2019  
@@ -199,7 +199,7 @@ joining a fixed exchange rate area rises as the country’s
 economic integration with the   
 area rises.  
 
-![](images/8e3b70f20b2204a85e1fdebb5e5cc1e66c6612fcb7645fb3a41f9b9356ddbfb8.jpg)  
+![](8e3b70f20b2204a85e1fdebb5e5cc1e66c6612fcb7645fb3a41f9b9356ddbfb8.jpg)  
 
 Earlier in this chapter, we learned that a country may wish to peg its exchange rate to an area of price stability to import the anti-inflationary resolve of the area’s monetary authorities. When the economy of the pegging country is well integrated with that of the low-inflation/War%20Economies%20and%20Hyperinflation.md) area, however, low domestic inflation/War%20Economies%20and%20Hyperinflation.md) is easier to achieve. The reason is that close economic integration leads to international price convergence and therefore lessens the scope for independent variation in the pegging country’s price level. This argument provides another reason why high economic integration with a fixed exchange rate area enhances a country’s gain from membership.  
 
@@ -237,7 +237,7 @@ Let’s see why Norway should peg to the euro if its degree of economic integrat
 
 The downward-sloping LL schedule shows that a country’s economic stability loss from joining a fixed exchange rate area falls as the country’s economic integration with the area rises.  
 
-![](images/1bb1fb3521ea1f855674fd6c22309172a7a5753d427a8641729234cc06bd7606.jpg)  
+![](1bb1fb3521ea1f855674fd6c22309172a7a5753d427a8641729234cc06bd7606.jpg)  
 
 joining country and the exchange rate area  
 
@@ -247,7 +247,7 @@ joining country and the exchange rate area
 
 The intersection of GG and $L L$ at point 1 determines a critical level of economic integration, $\theta_{1},$ between a fixed exchange rate area and a country considering whether to join. At any level of integration above $\theta_{1},$ the decision to join yields positive net economic benefits to the joining country.  
 
-![](images/39eebdcb60350bf3f47a6d4d6827e2065b7a993d46a782740431d2e9a1e0dcca.jpg)  
+![](39eebdcb60350bf3f47a6d4d6827e2065b7a993d46a782740431d2e9a1e0dcca.jpg)  
 
 Degree of economic integration between the joining country and the exchange rate area  
 
@@ -261,7 +261,7 @@ The $G G\mathrm{-}L L$ framework has important implications about how changes in
 
 A rise in the size and frequency of country-specific disturbances to the joining country’s product markets shifts the $L L$ schedule upward from $L L^{1}$ to $L L^{2}$ because for a given level of economic integration with the fixed exchange rate area, the country’s economic stability loss from pegging its exchange rate rises. The shift in $L L$ raises the critical level of economic integration at which the exchange rate area is joined to $\theta_{2}$ .  
 
-![](images/f46da55f8f728506f5d631680a5f7a4d040edef9c27b8ff819fdecd8e0fad1f6.jpg)  
+![](f46da55f8f728506f5d631680a5f7a4d040edef9c27b8ff819fdecd8e0fad1f6.jpg)  
 
 Degree of economic integration between the joining country and the exchange rate area  
 
@@ -295,7 +295,7 @@ As the financial trilemma suggests, one way to maintain fixed exchange rates, wh
 
 The critical question for judging the economic success of EMU is whether Europe itself makes up an optimum currency area. A nation’s gains and losses from pegging its currency to an exchange rate area are hard to measure numerically, but by combining our theory with information on actual economic performance, we can evaluate the claim that Europe, most of which is likely to adopt or peg to the euro, is an optimum currency area.  
 
-![](images/a1841a1596ccb04c55976cb0ac19853a12532da245c45c644bfda1308dab9a7a.jpg)  
+![](a1841a1596ccb04c55976cb0ac19853a12532da245c45c644bfda1308dab9a7a.jpg)  
 
 # THE EXTENT OF INTRA-EUROPEAN TRADE  
 
@@ -315,7 +315,7 @@ The main barriers to labor mobility within Europe are no longer due to border co
 
 Even within European countries, labor mobility appears limited, partly because of government regulations. For example, the requirement in some countries that workers establish residence before receiving unemployment benefits makes it harder for unemployed workers to seek jobs in regions that are far from their current homes. Table 21-2 presents evidence on the frequency of regional labor movement in three of the largest EU countries, as compared with that in the United States. These data must be interpreted with caution because of their vintage and because the definition  
 
-![](images/f72d1a1a62f637b85966fecc2eef20cf00000bbcbee8283309535ed2b9022e8d.jpg)  
+![](f72d1a1a62f637b85966fecc2eef20cf00000bbcbee8283309535ed2b9022e8d.jpg)  
 FIGURE 21-7  
 
 # Unemployment Rates in Selected EU Countries  
@@ -354,7 +354,7 @@ With exchange-rate risk now eliminated between euro area countries, government b
 
 <html><body><table><tr><td>TABLE 21-3</td><td colspan="2">AssetsofSomelndividualBanks as a Ratio to National Output, End-2011</td></tr><tr><td>Bank Erste Group Bank</td><td>Home country Austria</td><td>Bank assets 0.68</td></tr><tr><td>Dexia BNP Paribas Deutsche Bank Bank of Ireland UniCredit ING Group Banco Commercial Portugues Banco Santander</td><td>Belgium France Germany Ireland Italy Netherlands Portugal Spain</td><td>1.10 0.97 0.82 0.95 0.59 2.12 0.57 1.19</td></tr><tr><td colspan="3">Source: GDP data from International Monetary Fund, World Economic Outlook database.Data on bank assets from Viral V. Acharya and Sascha Steffen, “The ‘Greatest' Carry Trade Ever? Understanding Eurozone Bank Risks,” Discussion Paper 9432, Centre for Economic Policy Research, April 2013.</td></tr></table></body></html>  
 
-![](images/a4bfc2cb82425493bb103369d370d01aa423781cf1afe8b9fda32504f068e85c.jpg)  
+![](a4bfc2cb82425493bb103369d370d01aa423781cf1afe8b9fda32504f068e85c.jpg)  
 National bond rate less German bond rate (percent per year)   
 FIGURE 21-8  
 
@@ -366,7 +366,7 @@ Source: Federal Reserve Economic Data (FRED), 10-year government bond yields.
 
 With higher spending, however, also came higher inflation/War%20Economies%20and%20Hyperinflation.md) relative to the German level. As a result, countries on the euro zone periphery—Ireland, Portugal, Spain, Italy, and Greece—all saw their currencies appreciate in real terms, not only relative to Germany, but relative to all of their trading partners, both within and outside EMU. Figure 21-9, which reports European Commission indexes of real appreciation with respect to GDP deflators, shows how all of these countries lost competitiveness after the early 2000s, most notably the two countries with the most extreme housing booms, Ireland and Spain. With higher inflation/War%20Economies%20and%20Hyperinflation.md) than Germany’s, but essentially equal bond rates, these countries had lower real interest rates during the mid-2000s, a factor that spurred spending and inflation/War%20Economies%20and%20Hyperinflation.md) even further (see Figure 21-10 for real interest rates).25 As a result, while Germany had  
 
-![](images/5661e5b2a3d580147960d97e98e2cf1a97832f93dae8b4f2d31d451e2c937954.jpg)  
+![](5661e5b2a3d580147960d97e98e2cf1a97832f93dae8b4f2d31d451e2c937954.jpg)  
 FIGURE 21-9  
 
 # Real Appreciation in Peripheral Euro Zone Countries  
@@ -381,7 +381,7 @@ In these circumstances, countries with conventional fixed exchange rates might w
 
 The Spark  The 2007–2009 crisis certainly caused headaches in the euro zone. Some banks were in trouble due to their exposure to U.S. real estate markets. Also troublesome  
 
-![](images/20397d69b31b5579e77a88124a175c759b8c66359ae1c269065cf2fa6a49f547.jpg)  
+![](20397d69b31b5579e77a88124a175c759b8c66359ae1c269065cf2fa6a49f547.jpg)  
 National real interest rate less German rate (percent per year)   
 FIGURE 21-10  
 
@@ -397,7 +397,7 @@ were exposures to European housing markets, which began to fall following the U.
 
 The crisis began when a new Greek government was elected in October 2009. Very quickly, the new government announced some bad news: The Greek fiscal deficit stood at  
 
-![](images/27150fd2def8bf45c3d642effa75a73a5fb53c2594045ff073bafc46fc65bfd5.jpg)  
+![](27150fd2def8bf45c3d642effa75a73a5fb53c2594045ff073bafc46fc65bfd5.jpg)  
 
 [^12]: 7 percent of GDP, more than double the numbers announced by the previous government. Apparently the previous government had been misreporting its economic statistics for years, and the public debt actually amounted to more than 100 percent of GDP.
 
@@ -429,7 +429,7 @@ Even after its initial rescue package, Greece proved unable to put its public de
 
 In March 2012, Greece finally did restructure its government debt, imposing big losses on private bond holders. However, the country’s overall debt fell only slightly (Figure 21-11). By then, much of the debt was held officially (notably by the ECB). In June 2012, euro area finance ministers extended to Spain an ESM loan potentially as big as €100 billion to cover recapitalization of its ailing banks. Despite these developments, Greece and Spain remained in turmoil.  
 
-![](images/77d65e53c4527df882071550720bd755ab79e9436e94150432e9f9c1bd27297c.jpg)  
+![](77d65e53c4527df882071550720bd755ab79e9436e94150432e9f9c1bd27297c.jpg)  
 General government gross debt (percent of GDP)   
 FIGURE 21-11  
 

@@ -31,7 +31,7 @@ So far in this book we have discussed two types of trade gain. Chapters 3 throug
 
 Residents of different countries can trade goods and services for other goods and services, goods and services for assets (that is, for future goods and services), and assets for other assets. All three types of exchange lead to gains from trade.  
 
-![](images/5ae8f3fd766afdc4572245d6d75c3ba9efd349fa89dbb0152addd4f20e14695d.jpg)  
+![](5ae8f3fd766afdc4572245d6d75c3ba9efd349fa89dbb0152addd4f20e14695d.jpg)  
 
 A second set of trade gains results from intertemporal trade, which is the exchange of goods and services for claims to future goods and services, that is, for assets (Chapters 6 and 19). When a developing country borrows abroad (that is, sells a bond to foreigners) so that it can import materials for a domestic investment project, it is engaging in intertemporal trade—trade that would not be possible without an international capital market. The diagonal arrows in Figure 20-1 indicate trades of goods and services for assets. If Home has a current account deficit with Foreign, for example, it is a net exporter of assets to Foreign and a net importer of goods and services from Foreign.  
 
@@ -165,7 +165,7 @@ In most countries, an extensive “safety net” has been set up to reduce the r
 
 How successful have safeguards such as these been? Figure 20-2 shows the frequency of ongoing national banking crises—systemic crises that have affected large portions of countries’ banking systems—between 1976 and 2017.11 Banking crises in the poorer developing and emerging market economies are shown in the solid peaks, while crises in industrial economies including the United States are shown in the hatched peaks. Obviously, such systemic crises have not been rare events! As we will discuss in Chapter 22, through much of recent history poorer countries have regulated their banks much less effectively than richer countries, implying a much greater frequency of financial instability in the developing world. However, that changed in 2007–2009 as many more prosperous economies’ banks required extensive government support in order to survive. The 2007–2009 crisis thus revealed serious gaps in the banking safety net, gaps that we will soon analyze.  
 
-![](images/5f355cbe38dfa8cf66bd9c51a24de721e6f9112772eba8d9351faac6efdc3267.jpg)  
+![](5f355cbe38dfa8cf66bd9c51a24de721e6f9112772eba8d9351faac6efdc3267.jpg)  
 FIGURE 20-2   
 Frequency of Systemic Banking Crises by Country Income Level, 1976–2017  
 
@@ -266,7 +266,7 @@ As subprime borrowers increasingly missed their payments during 2007, lenders be
 
 During the week of August 9, 2007, central banks provided markets with the most extensive liquidity support since the September 11, 2001, terrorist attacks. On August 9, a major French bank, BNP Paribas, disclosed that three of its investment funds faced potential trouble due to subprime-related investments. Credit markets went into panic, with interbank interest rates rising above central bank target rates around the world. Banks feared that other banks would go under and be unable to repay, and fearing an inability to obtain interbank funding themselves, they all hoarded cash. The European Central Bank stepped in as lender of last resort to the European interbank market, and the Fed followed suit in the United States, announcing that it would accept mortgage-backed securities.md) as collateral for loans to banks. Stock markets fell everywhere. The U.S. economy slipped into recession late in 2007, pushed by the disappearance of credit and a collapsing housing market.md).  
 
-![](images/908425f0505d90ca4ce8cf3138c42b450de82cf5b3810b7d4ef6baf1e147d2b0.jpg)  
+![](908425f0505d90ca4ce8cf3138c42b450de82cf5b3810b7d4ef6baf1e147d2b0.jpg)  
 
 More trouble lay ahead. In March 2008, institutional lenders refused to roll over their short-term credits to the fifth largest investment bank, Bear Stearns, which had extensive subprime-related investments. Even though Bear Stearns was not a bank, it effectively suffered a run by its lenders. In a hastily organized rescue, the Fed bought $\$30$ billion of Bear’s “toxic” assets in order to persuade the bank J.P.  Morgan Chase to buy Bear at a fire-sale price. The Fed was criticized for not wiping out Bear’s shareholders (to deter moral hazard) and for putting taxpayer money at risk.  
 
@@ -294,7 +294,7 @@ The Fed’s swap lines, initially extended to the ECB and the Swiss National Ban
 
 But the dollar shortage became much more severe after the Lehman collapse in September 2008. The Fed extended the swaps to a wider set of central banks, including four in emerging countries (Brazil, Mexico, Korea, and Singapore), and made the swap lines unlimited for several industrial-country central banks (including the ECB and SNB), thus fully outsourcing its LLR  
 
-![](images/329ff2660e2cd7eb745bb0bdfeb7e943c02a1e69fb0781ce87259a9c40e56abe.jpg)  
+![](329ff2660e2cd7eb745bb0bdfeb7e943c02a1e69fb0781ce87259a9c40e56abe.jpg)  
 
 # Cross-Border Bank Positions in Dollars and Euros, 1999–2019  
 
@@ -348,7 +348,7 @@ An alternative way of evaluating the performance of the world capital market was
 
 For many countries, however, differences between national saving and domestic investment rates (that is, current account balances) have not been large since World War II: Countries with high saving rates over long periods also have usually had high investment rates, as Figure 20-3 illustrates. Feldstein and Horioka concluded from this evidence that cross-border capital mobility is low, in the sense that most of any sustained increase in national saving will lead to increased capital accumulation at home. The  
 
-![](images/dc9b40084911a60abc343e969499203459e9c6af06e3848fb973a482d1932d64.jpg)  
+![](dc9b40084911a60abc343e969499203459e9c6af06e3848fb973a482d1932d64.jpg)  
 FIGURE 20-3  
 
 # Saving and Investment Rates for 24 Countries, 1990–2019 Averages  
@@ -373,7 +373,7 @@ A different set of factors could be contributing, however, and these factors als
 
 A leading hypothesis is that the reluctance to arbitrage CIP deviations fully is due to financial regulations put in place after the 2007–2009 financial crisis. We offer two examples. A 2016 U.S. reform of prime money market mutual funds, which generally hold assets that are riskier than U.S. government securities, made it clear that deposits could fluctuate in value and might not be available on demand. The resulting migration of deposits to safer borrowers made it more expensive for prime funds to arbitrage CIP differentials. As for large creditworthy banks, the Basel III leverage ratio likely played a key role. CIP arbitrage involves an exceedingly low probability of loss in normal times, but under Basel III, even a CIP trade requires a bank to put aside capital if it is to meet the leverage ratio. The bank will thus require some positive return on the trade  
 
-![](images/d7adf381e20e29365c40cd35d1c4cccb72b09fa249b37686ea80e34c17f77878.jpg)  
+![](d7adf381e20e29365c40cd35d1c4cccb72b09fa249b37686ea80e34c17f77878.jpg)  
 FIGURE 20-4  
 
 # Comparing Onshore and Offshore Interest Rates for the Dollar  

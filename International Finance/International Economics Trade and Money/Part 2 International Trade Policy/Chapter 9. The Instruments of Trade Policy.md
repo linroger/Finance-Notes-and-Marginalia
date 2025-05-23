@@ -28,7 +28,7 @@ Trade will arise in such a market if prices are different in the absence of trad
 
 To determine the world price and the quantity traded, it is helpful to define two new curves: the Home import demand curve and the Foreign export supply curve, which are derived from the underlying domestic supply and demand curves. Home import demand is the excess  
 
-![](images/40042c57a7121fa8852b6f4411462bd0457cdcb69383d16f1b7c5969753d181e.jpg)  
+![](40042c57a7121fa8852b6f4411462bd0457cdcb69383d16f1b7c5969753d181e.jpg)  
 FIGURE 9-1   
 Deriving Home’s Import Demand Curve  
 
@@ -46,7 +46,7 @@ Home demand - Home supply $\mathbf{\Sigma}=$ Foreign supply - Foreign demand. By
 
 Home demand $+$ Foreign demand $\mathbf{\Sigma}=$ Home supply $^+$ Foreign supply or, in other words,  
 
-![](images/382b9a8a146ed35d9f7821c23bceea8708bb58aae3ebfff8973a7343f2fff334.jpg)  
+![](382b9a8a146ed35d9f7821c23bceea8708bb58aae3ebfff8973a7343f2fff334.jpg)  
 FIGURE 9-2  
 
 # Deriving Foreign’s Export Supply Curve  
@@ -59,7 +59,7 @@ As the price of the good rises, Foreign producers supply more while Foreign cons
 
 The equilibrium world price is where Home import demand (MD curve) equals Foreign export supply (XS curve).  
 
-![](images/ac1e40c911f182d8af6ee556098bfe7a99c0380c9e3a220317782a58fa579d7a.jpg)  
+![](ac1e40c911f182d8af6ee556098bfe7a99c0380c9e3a220317782a58fa579d7a.jpg)  
 
 # Effects of a Tariff  
 
@@ -67,7 +67,7 @@ From the point of view of someone shipping goods, a tariff is just like a cost o
 
 Figure 9-4 illustrates the effects of a specific tariff of $t$ per unit of wheat (shown as $t$ in the figure). In the absence of a tariff, the price of wheat would be equalized at $P_{W}$ in both Home and Foreign, as seen at point 1 in the middle panel, which illustrates the world market. With the tariff in place, however, shippers are not willing to move wheat from Foreign to Home unless the Home price exceeds the Foreign price by at least $t$ .  
 
-![](images/df577eff1a553da5b7ceaadd4b85b80291402d84ee6602b01ca819627420deb5.jpg)  
+![](df577eff1a553da5b7ceaadd4b85b80291402d84ee6602b01ca819627420deb5.jpg)  
 FIGURE 9-4  
 
 # Effects of a Tariff  
@@ -92,7 +92,7 @@ A tariff on an imported good raises the price received by domestic producers of 
 
 When a country is small, a tariff it imposes cannot lower the foreign price of the good it imports. As a result, the price of the import rises from $P W$ to $P W+t$ and the quantity of imports demanded falls from $D_{1}-S_{1}$ to $D_{2}\ -\ S_{2}$ .  
 
-![](images/8147886de89df43eb446bb5f8453dc5739cf06e20cac2892e4eb841145fd9f86.jpg)  
+![](8147886de89df43eb446bb5f8453dc5739cf06e20cac2892e4eb841145fd9f86.jpg)  
 
 policy in practice, it is important to ask how much protection a tariff or other trade policy actually provides. The answer is usually expressed as a percentage of the price that would prevail under free trade. An import quota on sugar could, for example, raise the price received by U.S. sugar producers by 35 percent.  
 
@@ -130,14 +130,14 @@ Generalizing from this example, if $P$ is the price of a good and $\boldsymbol{\
 
 Consumer surplus on each unit sold is the difference between the actual price and what consumers would have been willing to pay.  
 
-![](images/8c016dcae719ae5dd78cd1b31939767d4fdc586cc652e7b8e734b29602a93efe.jpg)  
+![](8c016dcae719ae5dd78cd1b31939767d4fdc586cc652e7b8e734b29602a93efe.jpg)  
 FIGURE 9-7  
 
 # Geometry of Consumer Surplus  
 
 Consumer surplus is equal to the area under the demand curve and above the price.  
 
-![](images/c9ff538a1fac030acf5e092c8e413270080c69aa61d5472c5251d399e3b8b1a7.jpg)  
+![](c9ff538a1fac030acf5e092c8e413270080c69aa61d5472c5251d399e3b8b1a7.jpg)  
 $\boldsymbol{\mathcal{Q}}$ from the area under the demand curve up to $\boldsymbol{Q}$ (Figure 9-7). If the price is $P^{1}$ , the quantity demanded is $D^{1}$ and the consumer surplus is measured by the areas labeled $a$ plus $b.$ If the price rises to $P^{2}$ , the quantity demanded falls to $D^{2}$ and consumer surplus falls by $b$ to equal just $a$ .  
 
 Producer surplus is an analogous concept. A producer willing to sell a good for $\$2$ but receiving a price of \$5 gains a producer surplus of $\$3$ . The same procedure used to derive consumer surplus from the demand curve can be used to derive producer surplus  
@@ -148,7 +148,7 @@ Geometry of Producer Surplus
 
 Producer surplus is equal to the area above the supply curve and below the price.  
 
-![](images/618d9a8febeafa7dae16d1ca3fd092f988c22c1d545104e973b258cb34b503ba.jpg)  
+![](618d9a8febeafa7dae16d1ca3fd092f988c22c1d545104e973b258cb34b503ba.jpg)  
 
 from the supply curve. If $P$ is the price and $\boldsymbol{\mathcal{Q}}$ the quantity supplied at that price, then producer surplus is $P$ times $\boldsymbol{Q}$ minus the area under the supply curve up to $\boldsymbol{\mathcal{Q}}$ (Figure 9-8). If the price is $P^{1}$ , the quantity supplied will be $S^{1}$ , and producer surplus is measured by area $c.$ . If the price rises to $\dot{P^{2}}$ , the quantity supplied rises to $S^{2}$ , and producer surplus rises to equal $c$ plus the additional area $d.$ .  
 
@@ -168,7 +168,7 @@ Domestic consumers also face a higher price, which makes them worse off. As we s
 
 The costs and benefits to different groups can be represented as sums of the five areas a, $b,c,d,$ and e.  
 
-![](images/10f17f8d632c3db2c96943e1b42aee27779658f6441413711e06207732f24c2f.jpg)  
+![](10f17f8d632c3db2c96943e1b42aee27779658f6441413711e06207732f24c2f.jpg)  
 
 There is a third player here as well: the government. The government gains by collecting tariff revenue. This is equal to the tariff rate $t$ times the volume of imports $Q_{T}={\bf\bar{\Psi}}D^{2}-S^{2} $ . Since $t=P_{T}-\bar{P}_{T}^{*},$ the government’s revenue is equal to the sum of the two areas $c$ and $e$ .  
 
@@ -191,7 +191,7 @@ The net welfare effects of a tariff are summarized in Figure 9-10. The negative 
 
 The colored triangles represent efficiency losses, while the rectangle represents a terms of trade gain.  
 
-![](images/0c8a9e463ac0f55aeac520365e6c3f9aa0467f5ea5efd5345b63624cc631b842.jpg)  
+![](0c8a9e463ac0f55aeac520365e6c3f9aa0467f5ea5efd5345b63624cc631b842.jpg)  
 
 # Winners and Losers of the Trump Trade War  
 
@@ -199,7 +199,7 @@ In Chapter 4, we discussed the political economy considerations behind the Trump
 
 Figure 9-11 shows the timeline of the average tariffs imposed by the Trump administration in 2018–2019. Some tariffs on specific goods (solar panels, washing machines, steel, and aluminum) were imposed on a large set of exporting countries; while some tariffs were targeted at specific countries (mostly China but also the European Union later on) and covered many different goods. By 2019, over 66 percent of Chinese exports to the United States were hit by the tariffs shown in Figure 9-11. The tariffs imposed on the European Union were on a much more limited set of goods as retaliation for a different trade dispute. (See the separate box later on in this chapter on the Boeing-Airbus dispute.)  
 
-![](images/ff8d11edb7ed8ad8ecf3e272b36b8032b6b1cc814d59e5fa8a95eed6c5926be0.jpg)  
+![](ff8d11edb7ed8ad8ecf3e272b36b8032b6b1cc814d59e5fa8a95eed6c5926be0.jpg)  
 FIGURE 9-11  
 
 # Average Tariffs on U.S. Imports  
@@ -212,7 +212,7 @@ Several different studies have examined how those tariff increases have affected
 
 Figure 9-12 shows how the annual cost of those higher import prices increased in line with the tariffs for U.S. households. After the last round of  
 
-![](images/2135341740d00fe00413c2836149857ef8bd990edcabbe8b7f437dd5287e6b06.jpg)  
+![](2135341740d00fe00413c2836149857ef8bd990edcabbe8b7f437dd5287e6b06.jpg)  
 FIGURE 9-12   
 Annual Cost of Higher U.S. Import Prices by Household Income  
 
@@ -228,7 +228,7 @@ And as we discussed back in Chapter 4, the new tariffs imposed by the United Sta
 
 In contrast to the case for an importing country setting a tariff, the welfare impacts for the exporting country are entirely absorbed by the producers for the targeted goods: Consumers are not affected, and the government does not collect any tariff revenue. In the case of those retaliatory tariffs, U.S. farmers  
 
-![](images/6749d6533f094039be923023ace47cd6ec3e85b0a7b161803fae5c8b7ba74a4c.jpg)  
+![](6749d6533f094039be923023ace47cd6ec3e85b0a7b161803fae5c8b7ba74a4c.jpg)  
 FIGURE 9-13  
 
 # Average Retaliatory Tariffs on U.S. Exports  
@@ -267,7 +267,7 @@ The effects of an export subsidy on prices are exactly the reverse of those of a
 
 An export subsidy raises prices in the exporting country while lowering them in the importing country.  
 
-![](images/53e2261e393f5287b983a7a4038cff44af1a3a1089e55117bb42f39fee483c05.jpg)  
+![](53e2261e393f5287b983a7a4038cff44af1a3a1089e55117bb42f39fee483c05.jpg)  
 
 # THE UNFRIENDLY SKIES: SETTLING THE LONGEST RUNNING TRADE DISPUTE  
 
@@ -279,7 +279,7 @@ In 2021, the United States and the European Union finally agreed to
 
 end their 17-year trade dispute regarding the production subsidies received by Boeing and Airbus (the world’s two largest passenger airplane manufacturers). In 2004, the United States filed a case with the WTO complaining that European-owned Airbus had received favorable loan agreements for the development of their new A380 and A350 jumbo jets. The European Union immediately filed a counterclaim that Boeing received tax rebates and favorable contracting terms from the U.S. government. Both governments claimed that the assistance received by the airplane manufacturers amounted to actionable export subsidies—given the global nature of the market for passenger jets and the intense competition between those two firms. Eventually, after 14 years of legal wrangling and multiple rounds of appeals, the WTO ruled in favor of both cases, allowing both the United States and the European Union to impose countervailing duties.  
 
-![](images/4281eba227feb92c01337ec3647e41c7d4e470809ddbe63e1e7b16541a75c394.jpg)  
+![](4281eba227feb92c01337ec3647e41c7d4e470809ddbe63e1e7b16541a75c394.jpg)  
 
 In 2019, the United States imposed tariffs on European wines and specialty food items. The European Union retaliated with tariffs on U.S. whiskey, nuts, and tobacco. After several additional retaliatory tariff rounds and a change in U.S. administrations, the Biden administration and the European Union agreed in 2021 to remove the tariffs and address the favorable financial treatments received by both airline manufacturers.  
 
@@ -497,7 +497,7 @@ The threat of import competition forces the monopolist to behave like a perfectl
 
 Figure 9A-1 shows free trade in a market where a domestic monopolist faces competition from imports. $D$ is the domestic demand curve: demand for the product by domestic residents. $P_{W}$ is the world price of the good; imports are available in unlimited quantities at that price. The domestic industry is assumed to consist of only a single firm, whose marginal cost curve is $M C.$ .  
 
-![](images/028bafb59f9074b7cfe972e6608a68ca156c876f87b3a3107498770da6117b80.jpg)  
+![](028bafb59f9074b7cfe972e6608a68ca156c876f87b3a3107498770da6117b80.jpg)  
 
 If there were no trade in this market, the domestic firm would behave as an ordinary profit-maximizing monopolist. Corresponding to $D$ is a marginal revenue curve $M R$ , and the firm would choose the monopoly profit-maximizing level of output $Q_{M}$ and price $P_{M}$ .  
 
@@ -515,7 +515,7 @@ The effect of a tariff is to raise the maximum price the domestic industry can c
 
 The tariff allows the monopolist to raise its price, but the price is still limited by the threat of imports.  
 
-![](images/435cf35eab9ca96c64de01f83861e43b2feedbd062d105ae2f167567e2d857f8.jpg)  
+![](435cf35eab9ca96c64de01f83861e43b2feedbd062d105ae2f167567e2d857f8.jpg)  
 
 # The Model with an Import Quota  
 
@@ -537,7 +537,7 @@ The reason for this difference is that an import quota creates more monopoly pow
 
 The monopolist is now free to raise prices, knowing that the domestic price of imports will rise too.  
 
-![](images/834c0d8b56e57cf50a5aa33f1376b8f545eba068f62c6fab99d5f7df745892d1.jpg)  
+![](834c0d8b56e57cf50a5aa33f1376b8f545eba068f62c6fab99d5f7df745892d1.jpg)  
 
 # FIGURE 9A-4  
 
@@ -545,6 +545,6 @@ The monopolist is now free to raise prices, knowing that the domestic price of i
 
 A quota leads to lower domestic output and a higher price than a tariff that yields the same level of imports.  
 
-![](images/a29a3f9aff952deef07ad31c32768350af241682b89c19ce938e26223222396a.jpg)  
+![](a29a3f9aff952deef07ad31c32768350af241682b89c19ce938e26223222396a.jpg)  
 
 This comparison seems to say that if governments are concerned about domestic monopoly power, they should prefer tariffs to quotas as instruments of trade policy. In fact, however, protection has increasingly drifted away from tariffs toward nontariff barriers, including import quotas. To explain this, we need to look at considerations other than economic efficiency that motivate governments.

@@ -117,7 +117,7 @@ Foreign exchange deals sometimes specify a future transaction date—one that ma
 
 Forward and spot exchange rates, while not necessarily equal, do move closely together, as illustrated for monthly data on dollar/pound rates in Figure 14-1. The last section of this chapter, which discusses how forward exchange rates are determined, throws light on this close relationship between movements in spot and forward rates.  
 
-![](images/927c7416f08a928f502b342c402cfb630e1dc4866649af5170db58534bd1c8aa.jpg)  
+![](927c7416f08a928f502b342c402cfb630e1dc4866649af5170db58534bd1c8aa.jpg)  
 FIGURE 14-1  
 
 # Dollar/Pound Spot and Forward Exchange Rates, 1983–2020  
@@ -193,7 +193,7 @@ The interest rates offered by a dollar and a euro deposit tell us how their doll
 
 To see how to approach this type of calculation, let’s look at the following situation: Suppose that today’s exchange rate (quoted in American terms) is $\$10$ per euro but that you expect the rate to be $\$1.165$ per euro in a year (perhaps because you expect unfavorable developments in the U.S. economy). Suppose also that the dollar interest rate is 10 percent per year while the euro interest rate is 5 percent per year. This means  
 
-![](images/f81db6dac69db1cdccbcf5ca98cd9cf3b44ab424c8cc9025d7cbedc198b53886.jpg)  
+![](f81db6dac69db1cdccbcf5ca98cd9cf3b44ab424c8cc9025d7cbedc198b53886.jpg)  
 FIGURE 14-2  
 
 # Interest Rates on Dollar and Yen Deposits, 1978–2020  
@@ -311,7 +311,7 @@ Figure 14-3 shows the calculations in Table 14-4 in a graphic form that will be 
 
 Given that $E_{\mathbb{S}/\in}^{\mathrm{e}}=1.05$ and $R_{\in}=0.05.$ , an appreciation of the dollar against the euro raises the expected return on euro deposits, measured in terms of dollars.  
 
-![](images/30afff63185d91295050144f1400347b6a2498812c6828285857520459004059.jpg)  
+![](30afff63185d91295050144f1400347b6a2498812c6828285857520459004059.jpg)  
 FIGURE 14-3 The Relation between the Current Dollar/Euro Exchange Rate and the Expected Dollar Return on Euro Deposits  
 
 measures today’s dollar/euro exchange rate and the horizontal axis measures the expected dollar return on euro deposits. For fixed values of the expected future dollar/ euro exchange rate and the euro interest rate, the relation between today’s dollar/euro exchange rate and the expected dollar return on euro deposits defines a downwardsloping schedule.  
@@ -326,7 +326,7 @@ Figure 14-4 illustrates how the equilibrium dollar/euro exchange rate is determi
 
 Equilibrium in the foreign exchange market is at point 1, where the expected dollar returns on dollar and euro deposits are equal.  
 
-![](images/bd635ff7846e84d8cd102263d86b9840fad48c1a58ce51ec6b40f20af111c600.jpg)  
+![](bd635ff7846e84d8cd102263d86b9840fad48c1a58ce51ec6b40f20af111c600.jpg)  
 FIGURE 14-4  
 
 The equilibrium dollar/euro rate is the one indicated by the intersection of the two schedules at point $1,E_{\mathbb{S}/\in}^{1}$ . At this exchange rate, the returns on dollar and euro deposits are equal, so that the interest parity condition (14-2),  
@@ -364,7 +364,7 @@ At the initial exchange rate $E_{\mathbb{S}/\in}^{1}$ , the expected depreciatio
 
 A rise in the interest rate offered by dollar deposits from $R_{\mathbb{S}}^{1}$ to $R_{\mathbb{S}}^{2}$ causes the dollar to appreciate from $E_{\Phi/\in}^{1}$ (point 1) to $E_{\mathbb{S}/\in}^{2}$ (point 2).  
 
-![](images/500abdc008ee3689166dd2ffdca76eb0aa0e33f799b88c0ef80ca3a0b124af22.jpg)  
+![](500abdc008ee3689166dd2ffdca76eb0aa0e33f799b88c0ef80ca3a0b124af22.jpg)  
 
 # FIGURE 14-6  
 
@@ -372,7 +372,7 @@ A rise in the interest rate offered by dollar deposits from $R_{\mathbb{S}}^{1}$
 
 A rise in the interest rate paid by euro deposits causes the dollar to ­depreciate from $E_{\Phi/\in}^{1}$ (point 1) to $E_{\Phi/\in}^{2}$ (point 2). (This figure also describes the effect of a rise in the expected future $\$123,456$ exchange rate.)  
 
-![](images/4b1c88806b08c661ceb7e51a1516201a7a4683173571f44d3076a43d59480719.jpg)  
+![](4b1c88806b08c661ceb7e51a1516201a7a4683173571f44d3076a43d59480719.jpg)  
 
 on dollar deposits. The dollar/euro exchange rate rises (from $E_{\mathbb{S}/\in}^{1}$ to $E_{\mathbb{S}/\in}^{2})$ to eliminate the excess supply of dollar assets at point 1. As before, the dollar’s depreciation against the euro eliminates the excess supply of dollar assets by lowering the expected dollar rate of return on euro deposits. A rise in European interest rates therefore leads to a depreciation of the dollar against the euro or, looked at from the European perspective, an appreciation of the euro against the dollar.  
 
@@ -392,7 +392,7 @@ We conclude that, all else equal, a rise in the expected future exchange rate ca
 
 # CASE STUDY  
 
-![](images/dc0494935d4d7d2d09e32d1342714a3a4193897c1bba2165409b5b9b75708438.jpg)  
+![](dc0494935d4d7d2d09e32d1342714a3a4193897c1bba2165409b5b9b75708438.jpg)  
 
 # What Explains the Carry Trade?  
 
@@ -404,7 +404,7 @@ The honest answer is that while interest parity does not hold exactly in ­pract
 
 One important hazard of the carry trade is that investment currencies (the high-interest currencies that carry traders target) may experience abrupt crashes. Figure 14-7 illustrates this feature of foreign exchange markets, comparing the cumulative return to investing $\yen100$ in yen bonds and in Australian dollar bonds over different investment horizons, with the initial investment being made in the first quarter of 2006. As you can see, the yen investment yields next to nothing, whereas Australian dollars pay off handsomely at almost every horizon, not only because of a high interest rate but because the yen tended to fall against the ­Australian dollar through the summer of 2008. But in 2008, the Australian dollar crashed against the yen, falling in price from $\yen100$ to only $\yen65$ between July and December. Anyone who got into the business after mid-2009, however, consistently did better in Australian dollars. And anyone savvy enough to unwind the strategy in June 2008 could have made nearly a 40 percent return in about two and a half years rather than taking a sizable loss over three. The carry trade is obviously a very risky business.  
 
-![](images/d94ef326605a55aaa9b9469f01e7bb8c6403c66fdfe6568c49626add92a2b18e.jpg)  
+![](d94ef326605a55aaa9b9469f01e7bb8c6403c66fdfe6568c49626add92a2b18e.jpg)  
 FIGURE 14-7  
 
 # Cumulative Total Investment Return in Australian Dollars Compared with Japanese Yen, 2006–2020  
@@ -461,7 +461,7 @@ Deviations can occur also because of fears that banks will fail, making them una
 
 Surprisingly, however, CIP did not reestablish itself after the 2007–2008 crisis passed, as Figure 14-8 also shows, even though banks and other market participants became financially stronger. In general, the deviations in Figure 14-8 tend to be negative, implying that it would be profitable to arbitrage by borrowing dollars, selling them for foreign currencies, and then investing the proceeds in foreign money markets while selling the  
 
-![](images/41200e69ff2d7e9b5c58fd93eb0958f17e03a06095c268048c4e3dfc6f608db1.jpg)  
+![](41200e69ff2d7e9b5c58fd93eb0958f17e03a06095c268048c4e3dfc6f608db1.jpg)  
 FIGURE 14-8  
 
 # U.S. Dollar Three-Month Interest Rate Less Covered Rate on Three-Month ­Foreign Bank Deposits  

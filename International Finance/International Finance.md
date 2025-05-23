@@ -1,10 +1,10 @@
 ---
-cssclasses: ["academia"]
+cssclasses:
+  - academia
 title: International Finance
 tags:
   - currency_risk
   - exchange_rates
-  - finance
   - international_finance
   - international_investments
   - balance_of_payments
@@ -16,7 +16,6 @@ tags:
   - currency_hedging
   - international_trade
 aliases:
-  - IF
   - Intl Finance
   - International Financial Markets
   - Global Finance

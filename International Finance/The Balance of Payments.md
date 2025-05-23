@@ -16,9 +16,7 @@ tags:
   - macroeconomics
   - open_economy
 aliases:
-  - BOP
   - Balance of Payments
-  - BoP
   - Balance of Payments Accounting
 key_concepts:
   - Balance of payments accounting system

@@ -65,7 +65,7 @@ As you can see, in the 1960s the United States and other advanced economies made
 
 To understand global economic growth, we must look increasingly to the world’s poorer economies. Moreover, what happens to those countries’ economies will have important consequences for richer countries. What features and policies have determined their performance?  
 
-![](images/42d0a1aeba96850265c0bc55f2f26df640b26adbbf0d63087bea57c07bc82d45.jpg)  
+![](42d0a1aeba96850265c0bc55f2f26df640b26adbbf0d63087bea57c07bc82d45.jpg)  
 
 # FIGURE 22-1  
 
@@ -101,7 +101,7 @@ Several factors contributed to the commodity price run-up between 1999 and 2011,
 
 [^1]: Growth in emerging economies. During the first decade of the 21st century, China’s economy grew rapidly and by 2011 was responsible for around half of global demand for a number of natural resources, particularly industrial metals. Hundreds of millions of its citizens transitioned from the rural economy to industrial occupations, fueling resource-intensive manufacturing and construction. One much-cited fact indicating the pace of China’s urbanization is that the country used more cement between 2011 and 2013 than the United States did over all of the 20th century! Other emerging markets—for example, Brazil, Russia, and India—also contributed to the high demand
 
-![](images/a3a61f4930964e6310d7a00fb8c30edc6ddaa0d60ef8e33300f6bdbd88d08107.jpg)  
+![](a3a61f4930964e6310d7a00fb8c30edc6ddaa0d60ef8e33300f6bdbd88d08107.jpg)  
 
 # Commodity Price Index  
 
@@ -121,7 +121,7 @@ At first glance, the data do not bear out the Prebisch-Singer hypothesis—certa
 
 For a large sample of developing and industrial countries, Figure 22-2 shows the strong positive relationship between annual real per capita output and an inverse index of corruption—ranging from 1 (most corrupt) to 10 (cleanest)—published by the organization Transparency International.5 Several factors underlie this strong positive relationship. Government regulations that promote corruption also harm economic prosperity. Statistical studies have found that corruption itself tends to have net negative effects on economic efficiency and growth.6 Finally, poorer countries lack the  
 
-![](images/f41f2aa2a0f03fb9db6014b348b144fc41bf1431257310120a3b61feedeac91a.jpg)  
+![](f41f2aa2a0f03fb9db6014b348b144fc41bf1431257310120a3b61feedeac91a.jpg)  
 FIGURE 22-2 Corruption and Per Capita Output  
 
 Corruption tends to rise as real per capita output falls.  
@@ -295,7 +295,7 @@ We touched on the growth of international reserves in Chapter 18. As we observed
 
 For a number of developing countries, the levels of reserves are so high as to exceed their total short-term foreign currency debts to foreigners. These large reserve holdings therefore provide a high degree of protection against a sudden stop of capital inflows. Indeed, they helped the developing countries weather the industrial-country credit crunch of 2007–2009 (recall Chapter 20).  
 
-![](images/d78a7a6cf3a4499e3e62d5587979fb8049ae3a4a94135484b10d607c7cec33d0.jpg)  
+![](d78a7a6cf3a4499e3e62d5587979fb8049ae3a4a94135484b10d607c7cec33d0.jpg)  
 
 # International Reserves Held by Developing Countries  
 
@@ -323,7 +323,7 @@ the 1960s and the 1990s demonstrated that it is possible for a country to move r
 
 One way to answer this question may be to look at the distinctive attributes of what the World Bank, in its 1993 study titled The East Asian Miracle, dubs the children received basic schooling in Hong Kong, Singapore, and South Korea, and even desperately poor Indonesia had a 70 percent enrollment rate.  
 
-![](images/89d2f8eb8e7abe0b1c1afad379203db85c138baca51ab12b40d73fd9806bf844.jpg)  
+![](89d2f8eb8e7abe0b1c1afad379203db85c138baca51ab12b40d73fd9806bf844.jpg)  
 
 By 1987, rates of enrollment in secondary school in East Asia were well above those in Latin American nations such as Brazil.  
 
@@ -423,7 +423,7 @@ Booms in global asset prices and capital flows lift emerging economies, whereas 
 
 Silvia Miranda-Agrippino of the Bank of England and Hélène Rey of the London Business School have constructed an index of the global financial cycle derived from global equity, bond, and commodity prices. The figure plots their index, $G F C y$ , against the aggregate real GDP growth rate of middle- and lower-income countries since 1980. (That aggregate includes the emerging market economies.) The positive correlation is striking and supports the idea that global asset-price developments are a major driver of events in poorer countries.  
 
-![](images/a0dd38e19566d3fc2369f9bd815f559607c861d8517e480d19cee7dff6b30be7.jpg)  
+![](a0dd38e19566d3fc2369f9bd815f559607c861d8517e480d19cee7dff6b30be7.jpg)  
 
 # Global Financial Cycles and Movements in the Developing World’s GDP  
 
@@ -439,7 +439,7 @@ We have seen that many emerging market economies intervene to manage their excha
 
 When we divide country–year observations between more and less flexible regimes, we see in the figure that currencies of countries with more flexible rates depreciate when negative growth surprises  
 
-![](images/fb83f0a9a6119ec2db486963a1b66ba3b8ad2c63a95bd711ed7549335354100a.jpg)  
+![](fb83f0a9a6119ec2db486963a1b66ba3b8ad2c63a95bd711ed7549335354100a.jpg)  
 GDP Growth Shocks and Real Effective Exchange Rate Changes  
 
 Under more flexible exchange rate regimes but not under less flexible regimes, real exchange rates depreciate in the face of negative growth surprises.  
@@ -482,7 +482,7 @@ Just before the low-income country borrowing boomlet of the 1990s got underway, 
 
 Interestingly, the limited postwar flow of capital from rich to poor countries was predicted in the early 1950s by Columbia University economist Ragnar Nurkse. The 19th century saw a boom in European overseas investment, during which  
 
-![](images/4e0fbe4f12aac925534ce544a2aa356400c5e02cf84f34a00fdb01b08ff58dec.jpg)  
+![](4e0fbe4f12aac925534ce544a2aa356400c5e02cf84f34a00fdb01b08ff58dec.jpg)  
 Current Account Balances of Major Country Groups, 1980–2019   
 Source: International Monetary Fund, World Economic Outlook and External Wealth of Nations databases Note that regional imbalances generally do not sum to zero due to errors and omissions. Thanks to Gian Maria Milesi-Ferretti for assistance with these data.  
 

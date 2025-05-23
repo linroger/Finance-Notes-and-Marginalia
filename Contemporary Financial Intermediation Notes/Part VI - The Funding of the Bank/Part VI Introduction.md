@@ -452,7 +452,7 @@ These observations also highlight the moral hazard inherent in deposit insurance
 
 In Figure 12.1  the curve AB is the total expected return on the bank’s assets, net of bankruptcy costs.29 This curve peaks at $\upsigma^{*}$ . The expected return to depositors, as represented by the straight line CD, remains constant because we assume that deposits are completely insured. The total expected return to depositors and the FDIC is equal to the deposit yield plus the deposit insurance premium minus the expected bankruptcy costs. This total expected return, represented by the curve BF, is constant for $\sigma<\upsigma_{\mathrm{f}}$ (some threshold variability) because the probability of bankruptcy is zero in this range. Then, as the probability of bankruptcy rises, the total expected return to the FDIC and the depositors declines. Since the depositors are completely protected and the deposit insurance premium is insensitive to $\upsigma$ it is the expected return to the FDIC that falls very rapidly as $\upsigma$ arises. Consequently, even though the total expected return on the bank’s assets is falling as $\upsigma$ increases beyond $\upsigma^{*}$ , the expected return to the bank’s shareholders is increasing in this range. In fact, the shareholders’ expected return peaks at $\upsigma_{\mathrm{m}}>\upsigma^{*}$ .  
 
-![](images/9a277e6c6e77de7e9339f61eec074cc6e88b6eb399c99696742c99dccc14ffc0.jpg)  
+![](9a277e6c6e77de7e9339f61eec074cc6e88b6eb399c99696742c99dccc14ffc0.jpg)  
 FIGURE 12.1 The Relationship Between Expected Return and Risk.  
 
 The optimal level of risk (as represented by $\upsigma$ ) depends on the decision maker’s objective. If the objective is to minimize the liability of the deposit insurer, then the optimal risk choice is $\sigma=\sigma_{\mathrm{f}}.$ If the objective is to maximize the bank’s total expected return on assets, then the optimal risk choice is $\sigma=\sigma^{*}$ . But if decisions are made to maximize the wealth of shareholders, the optimal risk choice is $\upsigma=\upsigma_{\mathrm{m}}$ Thus, if the “socially desired” risk choice is $\upsigma^{*}$ , the bank will take more risk than the social optimum by choosing $\upsigma_{\mathrm{m}}$ This is the moral hazard of deposit insurance.  
@@ -513,7 +513,7 @@ The option pricing approach indicates factors that must be considered in setting
 
 <html><body><table><tr><td colspan="3">r ofInsuredDeposits IABLE12.5 CostofDepositInsurand</td></tr><tr><td>Cost of Deposit of Insurance (g)</td><td>Deposit-to-Asset Value Ratio</td><td>Variance (t)</td></tr><tr><td>0.00055</td><td>0.85</td><td>0.00600</td></tr><tr><td>0.00040</td><td>0.85</td><td>0.00550</td></tr><tr><td>0.00028</td><td>0.85</td><td>0.00500</td></tr><tr><td>0.00018</td><td>0.85</td><td>0.00450</td></tr><tr><td>0.00011</td><td>0.85</td><td>0.00400</td></tr><tr><td>0.00326</td><td>0.90</td><td>0.00600</td></tr><tr><td>0.00274</td><td>0.90</td><td>0.00550</td></tr><tr><td>0.00223</td><td>0.90</td><td>0.00500</td></tr><tr><td>0.00176</td><td>0.90</td><td>0.00450</td></tr><tr><td>0.00132</td><td>0.90</td><td>0.00400</td></tr><tr><td>0.00093</td><td>0.90</td><td>0.00350</td></tr><tr><td>0.00060</td><td>0.90</td><td>0.00300</td></tr><tr><td>0.00015</td><td>0.90</td><td>0.00200</td></tr><tr><td>0.01209</td><td>0.95</td><td>0.00600</td></tr><tr><td>0.01102</td><td>0.95</td><td>0.00550</td></tr><tr><td>0.00992</td><td>0.95</td><td>0.00500</td></tr><tr><td>0.00880</td><td>0.95</td><td>0.00450</td></tr><tr><td>0.00765</td><td>0.95</td><td>0.00400</td></tr><tr><td>0.00647</td><td>0.95</td><td>0.00350</td></tr><tr><td>0.00528</td><td>0.95</td><td>0.00300</td></tr><tr><td>0.00287</td><td>0.95</td><td>0.00200</td></tr><tr><td>0.00172</td><td>0.95</td><td>0.00150</td></tr><tr><td>0.00072</td><td>0.95</td><td>0.00100</td></tr><tr><td>0.00033</td><td>0.95</td><td>0.00075</td></tr><tr><td>0.03089</td><td>1.00</td><td>0.00600</td></tr><tr><td>0.02958</td><td>1.00</td><td>0.00550</td></tr><tr><td>0.02820</td><td>1.00</td><td>0.00500</td></tr><tr><td>0.02676</td><td>1.00</td><td>0.00450</td></tr><tr><td>0.02523</td><td>1.00</td><td>0.00400</td></tr><tr><td>0.02360</td><td>1.00</td><td>0.00350</td></tr><tr><td>0.02185</td><td>1.00</td><td>0.00300</td></tr><tr><td>0.01784</td><td>1.00</td><td>0.00200</td></tr><tr><td>0.01545</td><td>1.00</td><td>0.00150</td></tr><tr><td>0.01262 0.01093</td><td>1.00</td><td>0.00100</td></tr><tr><td>0.00892</td><td>1.00</td><td>0.00075</td></tr><tr><td>0.00631</td><td>1.00 1.00</td><td>0.00050</td></tr><tr><td>0.00564</td><td>1.00</td><td>0.00025 0.00020</td></tr><tr><td>0.00489</td><td>1.00</td><td>0.00015</td></tr><tr><td>0.00399</td><td></td><td></td></tr><tr><td></td><td>1.00</td><td>0.00010</td></tr><tr><td>0.00282</td><td>1.00</td><td>0.00005</td></tr><tr><td>0.00126 Source: Merton, (1977).</td><td>1.00</td><td>0.00001</td></tr></table></body></html>  
 
-![](images/0f67744bd2d9d5e7cc114c856446aa898bd266ff4dbc55a0f4ade36aae9cceab.jpg)  
+![](0f67744bd2d9d5e7cc114c856446aa898bd266ff4dbc55a0f4ade36aae9cceab.jpg)  
 FIGURE 12.2 Capital Ratio for Federal Credit Unions. (Source: National Credit Union Administration).  
 
 # Empirical Evidence on Moral Hazard  
@@ -530,24 +530,24 @@ A similar pattern can be seen by examining the behavior of bank capital ratios o
 
 [^2]: The Relationship Between Market Power in Banking and Moral Hazard: As mentioned earlier, a major puzzle is why the deposit insurance system in the United States worked so well for so many years despite the risk-taking incentives provided by federal deposit insurance and why problems surfaced only recently. One explanation is that a bank’s risk-taking propensity depends on the value of its charter. The higher the charter value – the capitalized value of its future cash flows – the weaker is the bank’s incentive to take risk. This is because higher risk implies a higher likelihood of insolvency, in which case the insurer takes possession of the bank, and the charter is lost. Thus, the higher the value of this charter, the greater is the bankruptcy cost for the bank. In the past, various anticompetitive restrictions gave banks market power that enhanced the value of charters. The loss to the bank from losing its charter in the event of bankruptcy provided a counterbalance to the incentive for excessive risk-taking due to fixed-rate deposit insurance.33 The deregulation that took place in the 1980s increased banking competition but lowered the value of bank charters. Greater risk-taking was predictable.
 
-![](images/dad9d9ee0fa8f2572223928340e711ce8d3aca421b954da224c4c3b61d4832ca.jpg)  
+![](dad9d9ee0fa8f2572223928340e711ce8d3aca421b954da224c4c3b61d4832ca.jpg)  
 FIGURE 12.3 Book Equity Ratios for U.S. Banks. (Source: Flannery and Rangan (2008) Y-9C Reports, and Acharya, Mehran, Schuerman and Thakor (2012)).  
 
-![](images/9d41c9ce44422cc586d931f5db432a488bc53417e30426c2e0190d6250a2f85c.jpg)  
+![](9d41c9ce44422cc586d931f5db432a488bc53417e30426c2e0190d6250a2f85c.jpg)  
 FIGURE 12.4 Capital-to-Asset Ratios, Market and Book Values. (Source: Keeley (1990)).  
 
 Evidence supports this theoretical prediction. Figure  12.4 is a graph of the time series behavior of the average capital/total assets ratio of the 25 largest bank holding companies in the United States from 1952 to 1986. The decline in this ratio is significant.  
 
 A direct test of the relationship between risk-taking and charter value would need to have some measure of the capitalized value of future rents, or market power. One such measure is “Tobin’s $q$ ” which is approximated as the ratio of the market value of assets (market value of common equity plus the book value of liabilities) to the book value of assets. The higher the $q$ ratio, the larger is the charter value, relative to the book value of its assets. Since bank risk-taking is also not directly observable, a proxy is needed. A reasonable proxy is the interest cost on large uninsured CDs. The holders of such CDs should be sensitive to the bank’s riskiness and demand higher interest rates from riskier banks. The evidence is quite compelling. Each $1\%$ increase in the $q$ ratio results in a 16–18 basis point reduction in the average CD cost. Moreover, this relationship is statistically significant. Thus, bank risk-taking appears to have increased substantially in the 1980s owing to deregulation that diminished bank charter values.  
 
-![](images/7db636ede5ede715b0408b178d3112974e1c08ca64d66ef30e33d8a59430e7a2.jpg)  
+![](7db636ede5ede715b0408b178d3112974e1c08ca64d66ef30e33d8a59430e7a2.jpg)  
 FIGURE 12.5 Capitalization of the 25 Largest Bank Holding Companies During 1962–2012. This figure shows the weighted average capitalization of the 25 largest bank holding companies from 1962 to 2012. Capital ratios are expressed in book values (shareholder equity/total assets) and market values (market value of equity/market value of assets). (Source: Compustat and own calculations).  
 
 To provide a comparison with more recent data, we have provided in Figure 12.5 the capital ratios in book and market value terms for the 25 largest bank holding companies from 1959 to 2012. The effect of the capital regulation that began with the Basel I Accord is evident, as capital ratios exhibit an upward drift beginning in the late 1980s, but note the divergent experience that we documented in Chapter 2 34  
 
 In Figure  12.6  we show the number of bank failures during 1992–2011. As is evident, the number of failures decreased dramatically during the early 1990s and has stayed relatively low as banks have operated with healthy capital ratios. Then there was an increase in bank failures during the financial crisis.  
 
-![](images/d5300c499d3f23d046c9143091c99c7bcbb74db7b5bca4647aae74993ef29fc4.jpg)  
+![](d5300c499d3f23d046c9143091c99c7bcbb74db7b5bca4647aae74993ef29fc4.jpg)  
 FIGURE 12.6 Annual Failures of FDIC Insured Commercial Banks and Savings Institutions (including Savings Banks and Savings Associations). (Source: FDIC Historical Statistics on Banking).  
 
 # THE GREAT DEPOSIT INSURANCE DEBACLE  
@@ -566,7 +566,7 @@ The point is that their incentives were altered. Their decision rule was still t
 
 For some years, S&L regulators tried to ignore problems in the thrift industry. Hoping that problems would improve, regulators permitted insolvent institutions to continue to operate. Our analysis of credit risk in Chapters 7 and 8 highlighted the important incentive effects of capital on a borrower’s risk-taking propensity. The same is true of depository institutions; their propensity to take risk is greater when capital is lower. When capital is negative, excessive risk-taking is easy to predict. Indeed, the Federal Home Loan Bank Board (FHLBB) was quite aware that the thrift industry was in deep trouble in 1981, but chose not to close all the insolvent institutions.35  
 
-![](images/782a1297bd17af03e490f3cf939eb2b335dfab7d92ef99eeafac665efaa45d29.jpg)  
+![](782a1297bd17af03e490f3cf939eb2b335dfab7d92ef99eeafac665efaa45d29.jpg)  
 FIGURE 12.7 Schematic of Effects Responsible for Problems in Banking and Thrift Industries.  
 
 This inaction was part of a broader regulatory malaise. The main findings of a 2-month USA Today-Gannett News Service investigation are listed below.36  
@@ -621,7 +621,7 @@ Funding in the shadow-banking sector has actually grown much faster than bank de
 
 Shadow banks raise their financing by using tradable instruments like commercial paper and “repos.” A “repo” is a repurchase agreement whereby an institution borrows short-term using traded securities as collateral, having the collateral returned to it when the loan is repaid. The collateral used in these transactions comes from the creation of asset-backed securities created by the securitization of loans, leases, and mortgages. Savers hold money-market mutual fund (MMF) balances, instead of deposits with banks.  
 
-![](images/42a82d93a728dd339d465e3637f7093378faf12fbbc88e9bf4e04993a24838b6.jpg)  
+![](42a82d93a728dd339d465e3637f7093378faf12fbbc88e9bf4e04993a24838b6.jpg)  
 FIGURE 12.8 Shadow-Bank Funding and Traditional Bank Deposit Funding from 1988 to 2012. (Source: FDIC’s Historical Statistics on Banking, and Bouwman (2014)).  
 
 # The Funding Process: How it Works  
@@ -652,7 +652,7 @@ But all that changed in the 1970s and 1980s. As interest-rate volatility increas
 
 The 2007–2009 financial crisis offered new challenges, particularly the fragility of funding structures in the shadowbanking sector. Chapter 14 covers this in depth.  
 
-![](images/c852f9789b03a7e0595372f0634b37ff03e8db15ae24cdb1f7759a811187c6cb.jpg)  
+![](c852f9789b03a7e0595372f0634b37ff03e8db15ae24cdb1f7759a811187c6cb.jpg)  
 FIGURE 12.9 The Shadow Credit Intermediation Process.(Source: Pozsar et al. (2010)).  
 
 # REVIEW QUESTIONS  

@@ -48,7 +48,7 @@ More recently, however, concerns about the status of U.S. high-technology indust
 
 U.S. trade balance in R&D-intensive products (\$ million)  
 
-![](images/59b533117df6f49fa83330dca2b846a431fcc7c0768619823495f64dfd0f0ab6.jpg)  
+![](59b533117df6f49fa83330dca2b846a431fcc7c0768619823495f64dfd0f0ab6.jpg)  
 
 # FIGURE 12-1  
 
@@ -58,7 +58,7 @@ Since 2005, the United States has developed a large trade deficit in R&D-intensi
 
 Source: National Science Foundation, Science and Engineering Indicators 2020.  
 
-![](images/1e5ff407e8cd320b7987e231cd23788f00b3816d734f5dbcfa7d65cdb0967f41.jpg)  
+![](1e5ff407e8cd320b7987e231cd23788f00b3816d734f5dbcfa7d65cdb0967f41.jpg)  
 
 # FIGURE 12-2  
 
@@ -82,7 +82,7 @@ The Brander-Spencer Analysis: An Example  The Brander-Spencer analysis can be 
 
 Table 12-1 illustrates how the profits earned by the two firms might depend on their decisions. (The setup is similar to the one we used to examine the interaction of different countries’ trade policies in Chapter 10.) Each row corresponds to a particular decision by Boeing; each column corresponds to a decision by Airbus. In each box are two entries: The entry on the lower left represents the profits of Boeing, while that on the upper right represents the profits of Airbus.  
 
-![](images/00712cdfdba6213610c91cb62f3fefd2c83d521e2a396ac2a49b189b26f76a65.jpg)  
+![](00712cdfdba6213610c91cb62f3fefd2c83d521e2a396ac2a49b189b26f76a65.jpg)  
 
 As set up, the table reflects the following assumption: Either firm alone could earn profits making superjumbo aircraft, but if both firms try to produce them, both will incur losses. Which firm will actually get the profits? This depends on who gets there first. Suppose Boeing is able to get a small head start and commits itself to produce superjumbo aircraft before Airbus can get going. Airbus will find that it has no incentive to enter. The outcome will be in the upper right of the table, with Boeing earning profits.  
 
@@ -96,7 +96,7 @@ Problems with the Brander-Spencer Analysis  This hypothetical example might se
 
 In fact, this strategic justification for trade policy, while it has attracted much interest, has also received much criticism. Critics argue that making practical use of the theory would require more information than is likely to be available, that such policies would risk foreign retaliation, and that in any case, the domestic politics of trade and industrial policy would prevent the use of such subtle analytical tools.  
 
-![](images/5be456098462a4f8e83fb929eaa9788153c402eb2f82be4f8c34661e510dad24.jpg)  
+![](5be456098462a4f8e83fb929eaa9788153c402eb2f82be4f8c34661e510dad24.jpg)  
 
 The problem of insufficient information has two aspects. The first is that even when looking at an industry in isolation, it may be difficult to fill in the entries in a table like Table 12-1 with any confidence. And if the government gets it wrong, a subsidy policy may turn out to be a costly misjudgment. Suppose, for example, that Boeing has some underlying advantage—maybe a better technology—so that even if Airbus enters, Boeing will still find it profitable to produce. Airbus, however, cannot produce profitably if Boeing enters.  
 
@@ -270,7 +270,7 @@ The idea is that as a country’s income per capita rises due to economic growth
 
 Empirical evidence suggests that as ­economies grow, they initially do increasing environmental damage—but they become more ­environmentally friendly once they become sufficiently rich. China, where the environment is deteriorating as the economy expands, is in effect moving from A to B. Richer countries may be moving from C to $\mathsf{D},$ using some of their growth to improve the environment.  
 
-![](images/44a74e65c93d2e5eb41bee156d23c1a82410b03f665496076b983f21d6e59ed8.jpg)  
+![](44a74e65c93d2e5eb41bee156d23c1a82410b03f665496076b983f21d6e59ed8.jpg)  
 
 surged in recent decades, is in effect moving from point A to point B: As the country burns more coal in its power plants and produces more goods in its factories, it emits more sulfur dioxide into the air and dumps more effluent into its rivers.  
 
@@ -284,7 +284,7 @@ This argument would run as follows: The biggest single beneficiary of globalizat
 
 China’s boom has been associated with a huge increase in its emissions of carbon dioxide. Figure 12-4 shows carbon dioxide emissions of the United States, Europe, and China from 1980 to 2011. In 1980, China was a minor factor in global warming; by 2008, it was, by a substantial margin, the world’s leading emitter of greenhouse gases. It’s important to realize, though, that the problem here isn’t globalization per se—it’s China’s economic success, which has to some extent come as a result of globalization.  
 
-![](images/8dc82258edc2071499ec0cf7861d586747a90d33653b8fbfdc98ebc81ac9661b.jpg)  
+![](8dc82258edc2071499ec0cf7861d586747a90d33653b8fbfdc98ebc81ac9661b.jpg)  
 
 # FIGURE 12-4  
 

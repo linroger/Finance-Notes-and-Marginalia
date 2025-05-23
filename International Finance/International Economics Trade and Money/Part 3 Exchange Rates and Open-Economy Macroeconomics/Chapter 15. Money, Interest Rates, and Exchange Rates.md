@@ -123,7 +123,7 @@ For a given level of real GNP, changes in the interest rate cause movements alon
 
 The downward-sloping real money demand schedule shows that for a given real income level Y, real money demand rises as the interest rate falls.  
 
-![](images/01d1cb6a45c5cae4772591c4a4a9807c623b808739b155379d9e60389c8adffb.jpg)  
+![](01d1cb6a45c5cae4772591c4a4a9807c623b808739b155379d9e60389c8adffb.jpg)  
 
 # FIGURE 15-2  
 
@@ -131,7 +131,7 @@ The downward-sloping real money demand schedule shows that for a given real inco
 
 An increase in real income from $Y^{1}$ to $Y^{2}$ raises the demand for real money balances at every level of the interest rate and causes the whole demand schedule to shift upward.  
 
-![](images/1c1214d0d8c0562894db50c205b9deb8437044d10e5192beece57d4e3c70592d.jpg)  
+![](1c1214d0d8c0562894db50c205b9deb8437044d10e5192beece57d4e3c70592d.jpg)  
 
 # The Equilibrium Interest Rate: The Interaction of Money Supply and Demand  
 
@@ -155,7 +155,7 @@ Given the price level, $P$ , and the level of output, $Y_{\ast}$ , the equilibri
 
 In Figure 15-3, the aggregate real money demand schedule intersects the real money supply schedule at point 1 to give an equilibrium interest rate of $R^{1}$ . The money supply schedule is vertical at $M^{s}/P$ because $M^{s}$ is set by the central bank while $P$ is taken as given.  
 
-![](images/ae8e1c9bbfcf836cc6fc738694738d9b9bd9bedb3f70c026bb1eeaceafc40df7.jpg)  
+![](ae8e1c9bbfcf836cc6fc738694738d9b9bd9bedb3f70c026bb1eeaceafc40df7.jpg)  
 FIGURE 15-3 Determination of the Equilibrium Interest Rate  
 
 With $P$ and Y given and a real money supply of $M^{S}/P,$ money market equilibrium is at point 1. At this point, aggregate real money demand and the real money supply are equal and the equilibrium interest rate is $R^{1}$ .  
@@ -174,7 +174,7 @@ The effect of increasing the money supply at a given price level is illustrated 
 
 The process through which the interest rate falls is by now familiar. After $M^{s}$ is increased by the central bank, there is initially an excess real supply of money at the old equilibrium interest rate, $R^{1}$ , which previously balanced the market. Since people are holding more money than they desire, they use their surplus funds to bid for assets that pay interest. The economy as a whole cannot reduce its money holdings, so interest rates are driven down as unwilling money holders compete to lend their excess cash balances. At point 2 in Figure 15-4, the interest rate has fallen sufficiently to induce an increase in real money demand equal to the increase in the real money supply.  
 
-![](images/fc9bd670e458cb358f0e404da0967166e719f54eece1ac79097c551d8c09caa3.jpg)  
+![](fc9bd670e458cb358f0e404da0967166e719f54eece1ac79097c551d8c09caa3.jpg)  
 FIGURE 15-4 Effect of an Increase in the Money Supply on the Interest Rate  
 
 For a given price level, $P,$ and real income level, $Y,$ an increase in the money supply from $M^{1}$ to $M^{2}$ reduces the interest rate from $R^{1}$ (point 1) to $R^{2}$ (point 2).  
@@ -189,7 +189,7 @@ Figure 15-5 shows the effect on the interest rate of a rise in the level of outp
 
 We conclude that an increase in real output raises the interest rate, while a fall in real output lowers the interest rate, given the price level and the money supply.  
 
-![](images/7524e11e83a75a8796874473538ba4744c0c0fa833e5b50877cf7841f2ff563f.jpg)  
+![](7524e11e83a75a8796874473538ba4744c0c0fa833e5b50877cf7841f2ff563f.jpg)  
 FIGURE 15-5 Effect on the Interest Rate of a Rise in Real Income  
 
 Given the real money supply, $M^{S}/P(=Q^{1})$ ), a rise in real income from $Y^{1}$ to $Y^{2}$ raises the interest rate from $R^{1}$ (point 1) to $R^{2}$ (point 2).  
@@ -204,7 +204,7 @@ In this section, we continue to take the price level (along with real output) as
 
 To analyze the relationship between money and the exchange rate in the short run in Figure 15-6, we combine two diagrams we have already studied separately. Let’s assume once again we are looking at the dollar/euro exchange rate, that is, the price of euros in terms of dollars.  
 
-![](images/a8aafc2622c09ac14bf8787b765dbfcb24e002a06d667f2b45ad3ca60ba16fb6.jpg)  
+![](a8aafc2622c09ac14bf8787b765dbfcb24e002a06d667f2b45ad3ca60ba16fb6.jpg)  
 FIGURE 15-6   
 Simultaneous Equilibrium in the U.S. Money Market and the Foreign Exchange Market  
 
@@ -222,7 +222,7 @@ Figure 15-6 emphasizes the link between the U.S. money market (bottom) and the f
 
 Figure 15-7 illustrates these linkages. The U.S. and European central banks, the Federal Reserve System and the European Central Bank (ECB), respectively, determine  
 
-![](images/a9850b302ff136f89226412e4f168bdf9f6466286f6ef48d4bc9edc782070c5a.jpg)  
+![](a9850b302ff136f89226412e4f168bdf9f6466286f6ef48d4bc9edc782070c5a.jpg)  
 FIGURE 15-7  
 
 # Money Market/Exchange Rate Linkages  
@@ -249,7 +249,7 @@ The mechanism at work, which runs from the European interest rate to the exchang
 
 Here we use a different approach to show how changes in Europe’s money supply affect the dollar/euro exchange rate. In Chapter 14, we learned that a fall in the euro interest rate, $R_{\in}$ , shifts the downward-sloping schedule in the upper part of Figure 15-6 to the left. The reason is that for any level of the exchange rate, a fall in $R_{\in}$ lowers the expected rate of return on euro deposits. Since a rise in the European money supply $M_{\mathrm{E}}^{s}$ lowers $R_{\in}$ , we can see the effect on the exchange rate by shifting the expected euro return schedule in the top part of Figure 15-6 to the left.  
 
-![](images/af25dd172ecfd79d636cacedbd97b92b92070ac7e0e1a0dd349344468542a826.jpg)  
+![](af25dd172ecfd79d636cacedbd97b92b92070ac7e0e1a0dd349344468542a826.jpg)  
 FIGURE 15-8  
 
 # Effect on the Dollar/Euro Exchange Rate and Dollar Interest Rate of an Increase in the U.S. Money Supply  
@@ -258,7 +258,7 @@ Given $P_{\mathrm{US}}$ and $Y_{\mathrm{US}}$ when the money supply rises from $
 
 The result of an increase in the European money supply is shown in Figure 15-9. Initially, the U.S. money market is in equilibrium at point 1 and the foreign exchange market is in equilibrium at point $1^{\prime}$ , with an exchange rate $E_{\Phi/\in}^{1}$ . An increase in Europe’s money supply lowers $R_{\in}$ and therefore shifts to the left the schedule linking the expected return on euro deposits to the exchange rate. Foreign exchange market  
 
-![](images/c42ace5c9e1767faebf02f67b4cb11bc59fa553b2def1f57c3bdbab4ca51b12d.jpg)  
+![](c42ace5c9e1767faebf02f67b4cb11bc59fa553b2def1f57c3bdbab4ca51b12d.jpg)  
 FIGURE 15-9  
 
 # Effect of an Increase in the European Money Supply on the Dollar/Euro Exchange Rate  
@@ -323,7 +323,7 @@ The main lesson to be drawn from Figure 15-10 is that the data confirm the stron
 
 Figure 15-11 presents another illustration of the link between money-supply growth and inflation/War%20Economies%20and%20Hyperinflation.md), the case of Venezuela, which experienced exceptionally high levels of both in the later 2010s. So far in the 21st century, Venezuela’s inflationary experience is comparable only to that of Zimbabwe, which we discuss in greater detail later, and it was similarly driven by the government’s need to print money to cover its budgetary needs in the face of economic distress.  
 
-![](images/c7510e38caba7f2f49339e5c6942bf74689d3e1c8248dbdb7b6757c0a5a2c591.jpg)  
+![](c7510e38caba7f2f49339e5c6942bf74689d3e1c8248dbdb7b6757c0a5a2c591.jpg)  
 FIGURE 15-10  
 
 # Average Money Growth and Inflation in Western Hemisphere Developing Countries, by Year, 1980–2014  
@@ -336,7 +336,7 @@ Source: World Bank development indicators database and own calculations. Regiona
 
 The domestic currency price of foreign currency is one of the many prices in the economy that rise in the long run after a permanent increase in the money supply. If you think again about the effects of a currency reform, you will see how the exchange rate moves in the long run. Suppose the U.S. government replaced every pair of “old” dollars with one “new” dollar. Then, if the dollar/euro exchange rate had been 1.20 old dollars per euro before the reform, it would change to $0.60\ n e w$ dollars per euro immediately after the reform. In much the same way, a halving of the U.S. money supply would eventually lead the dollar to appreciate from an exchange rate of 1.20 dollars/ euro to one of 0.60 dollars/euro. Since the dollar prices of all U.S. goods and services would also decrease by half, this 50 percent appreciation of the dollar leaves the relative prices of all U.S. and foreign goods and services unchanged.  
 
-![](images/8a3b514456e682acc0b59910da716506cf49c18f114723bfac43ba5a3981c56c.jpg)  
+![](8a3b514456e682acc0b59910da716506cf49c18f114723bfac43ba5a3981c56c.jpg)  
 FIGURE 15-11  
 
 # Money Supply Growth and Inflation in Venezuela, 2001–2018  
@@ -361,7 +361,7 @@ This assumption would not be reasonable, however, for all countries at all times
 
 Changes in exchange rate and price level ratios in U.S./Japan (percent change per month)  
 
-![](images/5f5d1a3c853f877d8df5c543e29d987e193fda529da18d4108d8b5715ad1bd2a.jpg)  
+![](5f5d1a3c853f877d8df5c543e29d987e193fda529da18d4108d8b5715ad1bd2a.jpg)  
 
 # FIGURE 15-12  
 
@@ -385,7 +385,7 @@ been more than 30 recorded episodes of hyperinflation: an explosive and seemingl
 
 All hyperinflations have been driven by massive money-supply growth, starting with the French revolutionary government’s issuance of a paper currency, called assignats, to pay for its spending needs.  
 
-![](images/4091a4c474c5fdd50dffc87db8cd25aa9a84e1e00e542ad5f3fab91ce3a863a4.jpg)  
+![](4091a4c474c5fdd50dffc87db8cd25aa9a84e1e00e542ad5f3fab91ce3a863a4.jpg)  
 
 Monthly Inflation/War%20Economies%20and%20Hyperinflation.md) in Zimbabwe, 2007–2008  
 
@@ -411,7 +411,7 @@ We now apply our analysis of inflation/War%20Economies%20and%20Hyperinflation.md
 
 Figure 15-13a assumes the U.S. price level is initially given at $P_{\mathrm{US}}^{1}$ . An increase in the nominal money supply from $M_{\mathrm{US}}^{1}$ to $M_{\mathrm{US}}^{2}$ therefore raises the real money supply from $M_{\mathrm{US}}^{1}/P_{\mathrm{US}}^{1}$ to $M_{\mathrm{US}}^{2}/P_{\mathrm{US}}^{1}$ in the short run, lowering the interest rate from $R_{\S}^{1}$ (point 1) to $R_{\mathbb{S}}^{2}$ (point 2). So far, our analysis proceeds exactly as it did earlier in this chapter.  
 
-![](images/76527abc2bde1c035977524f255a52598bbde9dea4c9f937b6399c738489338b.jpg)  
+![](76527abc2bde1c035977524f255a52598bbde9dea4c9f937b6399c738489338b.jpg)  
 FIGURE 15-13  
 
 # Short-Run and Long-Run Effects of an Increase in the U.S. Money Supply (Given Real Output, Y)  
@@ -432,7 +432,7 @@ In its initial depreciation after a money supply rise, the exchange rate jumps f
 
 The economic explanation of overshooting comes from the interest parity condition. The explanation is easiest to grasp if we assume that before the money supply  
 
-![](images/7746e9f8a0ddab7ce47a29f941c1d0659eac27ee9d9c2bf7ff776d88f5f5b6ad.jpg)  
+![](7746e9f8a0ddab7ce47a29f941c1d0659eac27ee9d9c2bf7ff776d88f5f5b6ad.jpg)  
 FIGURE 15-14  
 
 # Time Paths of U.S. Economic Variables after a Permanent Increase in the U.S. Money Supply  

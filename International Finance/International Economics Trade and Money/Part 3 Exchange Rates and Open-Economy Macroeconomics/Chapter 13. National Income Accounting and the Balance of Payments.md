@@ -39,7 +39,7 @@ America’s gross national product for the first quarter of 2020 can be broken d
 
 Source: U.S. Department of ­Commerce, Bureau of Economic Analysis. The ­figure shows 2020:QI GNP and its ­components at an annual rate, ­seasonally adjusted.  
 
-![](images/8c9fbf5721349694455e34e9b046600a9203678cf968967b9ed4f6a290b17af1.jpg)  
+![](8c9fbf5721349694455e34e9b046600a9203678cf968967b9ed4f6a290b17af1.jpg)  
 
 Why is it useful to divide GNP into consumption, investment, government purchases, and the current account? One major reason is that we cannot hope to understand the cause of a particular recession or boom without knowing how the main categories of spending have changed. And without such an understanding, we cannot recommend a sound policy response. In addition, the national income accounts provide information essential for studying why some countries are rich—that is, have a high level of GNP relative to population size—while some are poor.  
 
@@ -148,7 +148,7 @@ As an example, consider again the imaginary economy of Agraria described in Tabl
 
 Figure 13-2 gives a vivid illustration of how a string of current account deficits can add up to a large foreign debt. The figure plots the U.S. current account balance since the late 1970s along with a measure of the nation’s stock of net foreign wealth, its net international investment position (or $I I P$ ), the difference between its claims on foreigners and its liabilities to them. As you can see, the United States had accumulated a positive stock of foreign wealth by the early 1980s, after which a sustained current account deficit of proportions unprecedented in the 20th century opened up. In 1989, the country became a net debtor to foreigners for the first time since World War I. That foreign debt has continued to grow, and at the start of 2020, it stood at about 50 percent of GNP.  
 
-![](images/4f19a06c20ee2259986e582ec5d9d7103f481294d63b64882207409579d42b57.jpg)  
+![](4f19a06c20ee2259986e582ec5d9d7103f481294d63b64882207409579d42b57.jpg)  
 The U.S. Current Account and Net International Investment Position, 1976–2019  
 
 # FIGURE 13-2  
@@ -224,7 +224,7 @@ Not only have tax authorities become better at enforcing compliance, however, th
 
 One possible culprit is growing international trade in services. For example, a big law firm is likely to report its service exports fairly accurately, but the purchases by many of its smaller customers may escape detection. In a detailed review of the question in 2011, however, The Economist magazine pointed out that errors in measuring merchandise trade have also risen dramatically, and it is less clear that these would create a systematic bias toward an apparent global surplus.10 The mystery remains a mystery. In 2019, it was worth $\$290$ billion, or about a third of a percent of world output.  
 
-![](images/1f793c5403a85acf8b5c75d54bb35d4b1d9a4560116ff95663b7acf2707ba257.jpg)  
+![](1f793c5403a85acf8b5c75d54bb35d4b1d9a4560116ff95663b7acf2707ba257.jpg)  
 
 # The Global Current Account Discrepancy since 1980  
 
@@ -329,7 +329,7 @@ What explains this remarkable spurt of growth? Was there a sudden upsurge in Ire
 
 Ireland has a statutory tax on corporate profits of 12.5 percent, and in practice some companies incorporated there may pay even lower rates. In comparison, the U.S. corporate tax rate (not including state taxes) has been 21 percent since its last reduction in December 2017. This discrepancy sets up an incentive for large multinationals, notably in fields such as high tech and pharma, to relocate their intellectual property (IP) assets to subsidiaries in Ireland (and other low-tax  
 
-![](images/ec8142cdadd1d28385bdaae25670395b86cbb41c6a993f898741e5498c57227b.jpg)  
+![](ec8142cdadd1d28385bdaae25670395b86cbb41c6a993f898741e5498c57227b.jpg)  
 
 # Real GDP Growth in Ireland since 1999  
 
@@ -393,7 +393,7 @@ r: Revised; n.a.: Not available: . . .: Not applicable; (\*) Value between zero 
 Note: Details may not add to totals because of rounding.   
 Source: U.S. Bureau of Economic Analysis, June 30, 2020.  
 
-![](images/c5b495f88b15183ef7172152bdf8976cf55565205067c0999351078cabbe5cfc.jpg)  
+![](c5b495f88b15183ef7172152bdf8976cf55565205067c0999351078cabbe5cfc.jpg)  
 FIGURE 13-3  
 
 # Gross Foreign Assets and Liabilities, 1976–2019  

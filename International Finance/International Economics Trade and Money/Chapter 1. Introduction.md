@@ -52,7 +52,7 @@ economic crisis that began in 2008; they fell again in 2020, during the COVID-19
 These declines are reminders of the close links between world trade and the overall state of 
 the world economy.
 
-![Figure 1-1](images/2c98ce5fae6a66c2384f6989020258c1683daf0e4a6042ea8620bf92efcb7e05.jpg)
+![Figure 1-1](2c98ce5fae6a66c2384f6989020258c1683daf0e4a6042ea8620bf92efcb7e05.jpg)
 
 **Figure 1-1:** Exports and Imports as a Percentage of U.S. National Income
 (Shaded areas indicate U.S. recessions.)
@@ -69,7 +69,7 @@ more crucial to other nations. Figure 1-2 shows the average of imports and expor
 of GDP for a sample of countries. The United States, by virtue of its size and the diversity 
 of its resources, relies less on international trade than almost any other country.
 
-![Figure 1-2](images/5ba9354c06db4306ea2a357745a92362e4b20ec604299a91335bd10e4cc0d154.jpg)
+![Figure 1-2](5ba9354c06db4306ea2a357745a92362e4b20ec604299a91335bd10e4cc0d154.jpg)
 
 **Figure 1-2:** Average of Exports and Imports as Percentages of National Income in 2018
 

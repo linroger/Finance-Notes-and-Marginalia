@@ -122,7 +122,7 @@ What level of the current account balance does this imply, though? The country�
 
 The accompanying figure shows New Zealand data on net exports and the current account (lefthand vertical axis) and the $I I P$ (right-hand vertical axis), all expressed as percentages of GDP. In recent history, as you can see, New Zealand has had a negative current account balance every year, yet its $I I P$ -to-GDP ratio has averaged about $-70$ percent of GDP since 1992 (and has been above that average and generally rising—that is, becoming less negative—since 2011). How has this been possible? Because the average growth  
 
-![](images/e4cdefa4c6ced340a24643c950ac5680715c5701878658d5e3e8b282dcf08d2e.jpg)  
+![](e4cdefa4c6ced340a24643c950ac5680715c5701878658d5e3e8b282dcf08d2e.jpg)  
 
 # New Zealand’s Net Exports, Current Account, and Net International Investment Position, 1992–2019  
 
@@ -169,7 +169,7 @@ Figure 19-1 shows the preceding three desirable properties of an international m
 
 The vertices of the triangle show three features that policy makers in open economies would prefer their monetary system to achieve. Unfortunately, at most two can coexist. Each of the three policy regime labels along the triangle’s edges (floating exchange rate, fixed exchange rate, financial controls) is consistent with the two goals that it lies between in the diagram.  
 
-![](images/1f0c4823ffc60b0bd821ee5a024cbd1b752da15d7486efdf9eb299eb26f28e73.jpg)  
+![](1f0c4823ffc60b0bd821ee5a024cbd1b752da15d7486efdf9eb299eb26f28e73.jpg)  
 
 Of course, the trilemma does not imply that intermediate regimes are impossible, only that they will require the policy maker to trade off between different objectives. For example, more aggressive monetary intervention to manage the exchange rate can reduce exchange rate volatility, but only at the cost of reducing the ability of monetary policy to pursue targets other than the exchange rate. Similarly, a partial opening of the financial account will allow some cross-border borrowing and lending. At the same time, however, fixing the exchange rate in the face of domestic interest rate changes will require larger volumes of intervention, and potentially larger drains on foreign exchange reserves, than would be needed if cross-border financial transactions were entirely prohibited. The central bank’s ability to guarantee exchange rate stability (by avoiding devaluations and crises) will therefore decline. Many middleincome countries (China is an example) limit exchange rate flexibility but at the same time bolster their domestic monetary control through restrictions on international payments and financial markets—and for a given degree of exchange stability, looser restrictions mean less monetary control.  
 
@@ -227,7 +227,7 @@ The importance of internal policy objectives increased after World War II as a r
 
 # The Political Economy of Exchange Rate Regimes: Conflict over America’s Monetary Standard during the 1890s  
 
-![](images/7535061752ce4d639f51944ebd91b795febf4f8b16903c744de75ae32cf5adb7.jpg)  
+![](7535061752ce4d639f51944ebd91b795febf4f8b16903c744de75ae32cf5adb7.jpg)  
 
 As we learned in Chapter 18, the United States had a bimetallic monetary standard until the Civil War, with both silver and gold in circulation. Once war broke out, the country moved to a paper currency (called the “greenback”) and a floating exchange rate, but in 1879 a pure gold standard (and a fixed exchange rate against other gold-standard currencies such as the British pound sterling) was adopted.  
 
@@ -267,7 +267,7 @@ Uncertainty about government policies led to sharp reserve movements for countri
 
 # CASE STUDY  
 
-![](images/2ff8d00296e8327b8d0565ed631e262369b151de8ed3576ceabee0a628671556.jpg)  
+![](2ff8d00296e8327b8d0565ed631e262369b151de8ed3576ceabee0a628671556.jpg)  
 
 # The International Gold Standard and the Great Depression  
 
@@ -335,7 +335,7 @@ The diagram shows what different levels of the exchange rate, $E,$ and overall d
 
 Our diagrammatic framework actually is applicable whether the exchange rate is fixed, as under the Bretton Woods system, or flexible. Figure 19-2 shows how a country’s position with respect to its internal and external goals depends on the level of its exchange rate, $E$ , and the level of domestic spending; and that position is not necessarily restricted by the exchange rate regime. Throughout, $E$ is the domestic currency price of the foreign currency (the dollar under Bretton Woods). The analysis applies to the short run because the home and foreign price levels $P$ and $P^{*}$ , respectively) are assumed to be fixed.  
 
-![](images/94e0296c51f3bab9ed4108af05a48629eb1d3cd1b3d1ee101ea5480a70338de0.jpg)  
+![](94e0296c51f3bab9ed4108af05a48629eb1d3cd1b3d1ee101ea5480a70338de0.jpg)  
 
 # Maintaining Internal Balance  
 
@@ -377,7 +377,7 @@ As a result of the exchange rate’s inflexibility during the Bretton Woods peri
 
 Unless the currency is devalued and the level of domestic spending rises, internal and external balance (point 1) cannot be reached. Acting alone, a change in fiscal policy, for example, enables the economy to attain either internal balance (point 3) or external balance (point 4), but only at the cost of increasing the economy’s distance from the goal that is sacrificed.  
 
-![](images/fec9438d0632ad11312e7722923f426bb5c53270c4fea9811f739bca9886198c.jpg)  
+![](fec9438d0632ad11312e7722923f426bb5c53270c4fea9811f739bca9886198c.jpg)  
 FIGURE 19-3  
 
 In practice, countries did sometimes use changes in their exchange rates to move closer to internal and external balance, although the changes were typically accompanied by balance of payments crises. Many countries also tightened controls on financial account transactions to sever the links between domestic and foreign interest rates and make monetary policy more effective (in line with the trilemma). In this they were only partly successful, as the events leading to the breakdown of the system were to prove.  
@@ -420,7 +420,7 @@ You can see how the two schedules shift by asking what would happen if the nomin
 
 After $P^{*}$ rises, point 1 is in zone 1 (overemployment and an excessive surplus). Revaluation (a fall in $E)$ restores balance immediately by moving the policy setting to point 2.  
 
-![](images/2d37c8033b1c47f4a4e3051fff6ffc114b3b5af82e21896633f583fa54cb29b9.jpg)  
+![](2d37c8033b1c47f4a4e3051fff6ffc114b3b5af82e21896633f583fa54cb29b9.jpg)  
 
 If the economy starts out at point 1, a rise in $P^{*}$ given the fixed exchange rate and the domestic price level therefore strands the economy in zone 1 with overemployment and an undesirably high surplus in its current account. The factor that causes this outcome is a real currency depreciation that shifts world demand toward the home country ( $E P^{*}/P$ rises because $P^{*}$ rises).  
 
@@ -479,7 +479,7 @@ The effect of the same export demand disturbance under a fixed exchange rate is 
 
 The response to a fall in export demand (seen in the shift from $D D^{1}$ to $D D^{2}.$ ) differs under floating and fixed exchange rates. (a) With a floating rate, output falls only to $Y^{2}$ as the currency’s depreciation (from $E^{1}$ to $E^{2}.$ ) shifts demand back toward domestic goods. (b) With the exchange rate fixed at $E^{1}$ , output falls all the way to $Y^{3}$ as the central bank reduces the money supply (reflected in the shift from $A A^{1}$ to $A A^{2}$ ).  
 
-![](images/8cd01bffb70b689b939085b156b09439ed0d9dca8e7b819fe06db8c2ca83543b.jpg)  
+![](8cd01bffb70b689b939085b156b09439ed0d9dca8e7b819fe06db8c2ca83543b.jpg)  
 
 Figure 19-5 shows that output actually falls more under a fixed rate than under a floating rate, dropping all the way to $Y^{3}$ rather than $Y^{2}$ . In other words, the movement of the floating exchange rate stabilizes the economy by reducing the shock’s effect on employment relative to its effect under a fixed rate. Currency depreciation in the floating-rate case makes domestic goods and services cheaper when the demand for them falls, partly offsetting the initial reduction in demand. In addition to reducing the departure from internal balance caused by the fall in export demand, the depreciation reduces the increased current account deficit that occurs under fixed rates by making domestic products more competitive in international markets.  
 
@@ -499,7 +499,7 @@ How well did these predictions fare after 1973? We shall show that while some pr
 
 # The First Years of Floating Rates, 1973–1990  
 
-![](images/7d4abec29552ac1368bfb3bdc87b9c38392e5ccc0324c1c93d193135e52f05a4.jpg)  
+![](7d4abec29552ac1368bfb3bdc87b9c38392e5ccc0324c1c93d193135e52f05a4.jpg)  
 
 A review of the macro­ economic history of the world economy since 1973 offers key data for judging the successes and shortcomings of the modern international monetary system. We begin with a summary of the first turbulent years of floating exchange rates.  
 
@@ -528,7 +528,7 @@ The fall of the shah of Iran in 1979 sparked a second round of oil price increas
 
 November 1980 saw the election of President Ronald Reagan, who had campaigned on an anti-inflation/War%20Economies%20and%20Hyperinflation.md) platform. In light of the election result and Volcker’s monetary slowdown, the dollar’s value soared (see Figure 19-6). U.S. interest rates had also risen sharply late in 1979; by 1981, short-term interest rates in the United States were nearly double their 1978 levels.  
 
-![](images/a45d4d759916af758b493c887bbf79218cac67de58a2c6b0d33de67c8a0fa13d.jpg)  
+![](a45d4d759916af758b493c887bbf79218cac67de58a2c6b0d33de67c8a0fa13d.jpg)  
 FIGURE 19-6  
 
 # Nominal and Real Effective Dollar Exchange Rate Indexes, 1975–2019  
@@ -596,7 +596,7 @@ On the demand side, the dramatic explosion of the U.S. current account deficit w
 
 The puzzling feature of the data is that, as the U.S. deficit widened—reflecting an increase in American demand for the world’s saving—the U.S. real long-term interest rate fell, continuing a process that had begun around 2000 when the dotcom crash reduced investment demand and market expectations of future economic growth (see Figure 19-8). Lower real interest rates helped drive American home prices higher, encouraging people to borrow against home equity and spend more out of national income. It would seem more natural, instead, for real interest rates to have risen, encouraging U.S. saving and discouraging U.S. investment. How could the opposite, a fall in real interest rates, have happened? Why, moreover, was this phenomenon also seen in other countries, as shown in Figure 19-8? The answer must lie in a change in saving and investment behavior outside the United States.  
 
-![](images/228983bf34cf66994a32fcde7795d1c6437534f136fbeff20cce22e4091b94d3.jpg)  
+![](228983bf34cf66994a32fcde7795d1c6437534f136fbeff20cce22e4091b94d3.jpg)  
 FIGURE 19-7  
 
 # Global External Imbalances, 1999–2019  
@@ -607,7 +607,7 @@ Source: International Monetary Fund, World Economic Outlook database, October 20
 
 Figure 19-7 shows that over the 2000s, the current account surpluses of several countries outside the United States rose (notably China but also Japan and newly industrialized countries such as Singapore and Taiwan). Oil exporters’ surpluses (not explicitly shown in the figure) also increased. Economists still debate the causes of these surpluses, but a number of likely factors stand out. One of these was the emergence of China as a major player in the world economy, especially after it joined the World Trade Organization in December 2001. Growth in the private Chinese economy starting in the late 1970s led to very rapid economic expansion  
 
-![](images/b28b826e796daa73b7314f6174c672ee45849d00574fe869880ab64f741cc748.jpg)  
+![](b28b826e796daa73b7314f6174c672ee45849d00574fe869880ab64f741cc748.jpg)  
 FIGURE 19-8  
 
 # Long-Term Real Interest Rates for the United States, Germany, Japan, and the United Kingdom, 1999–2020  
@@ -642,7 +642,7 @@ While national public health responses differed and in some cases clashed, many 
 
 As of this writing, the time frame for global recovery from the crisis remained uncertain, with the pace of economic recovery closely tied to the  
 
-![](images/9c409a50bf8d8c3323a1ef364b823bf6db87b8e9fa7f42682d8d3ff4060b7dda.jpg)  
+![](9c409a50bf8d8c3323a1ef364b823bf6db87b8e9fa7f42682d8d3ff4060b7dda.jpg)  
 FIGURE 19-9 Immediate Output and Fiscal Consequences of the Global Pandemic Crisis  
 
 Global output levels declined sharply because of the pandemic lockdown, while governments responded with fiscal measures even more aggressive than those during the earlier global financial crisis. Panel (a) shows indexes of the level of GDP. Panel (b) shows aggregate global public debt and deficits.  
@@ -694,7 +694,7 @@ Why have they done so? Here are a few of the dangers of deflation, dangers that 
 [^1]: Debt deflation. The economist Irving Fisher of Yale University, who also gave his name to the Fisher effect (Chapter 16), wrote about this problem during the Great Depression, but it remains quite relevant today because many households, businesses, and governments remain highly indebted after the series of financial crises that started in 2007. When prices fall, the real values of debts rise, making it harder for debtors to repay them. This change redistributes wealth from high-spending debtors to high-saving creditors, reducing overall aggregate demand, but it also raises the chances that debtors will default on their earlier borrowing. As a result, it becomes harder to escape the tepid economic growth that is likely the initial cause of the deflation, and deflationary forces may be reinforced, causing a downward spiral. Decreased economic resilience. As we have seen, workers and firms may be reluctant to cut wages and prices in the face of economic changes, leading to unemployment. When there is some moderate inflation/War%20Economies%20and%20Hyperinflation.md), however, necessary price changes can be accommodated more easily. For example, when energy prices rise sharply, businesses might need to cut labor costs in order to stay in business. If prices are rising at 2 percent and wages rise only 1 percent, then real labor costs will fall; but if prices are not rising at all, workers would have to accept a 1 percent wage cut. In the latter case, resistance to nominal wage cuts would likely result in unemployment.
 [^3]: More frequent liquidity traps. Low inflation/War%20Economies%20and%20Hyperinflation.md) and deflation mean that, other things equal, nominal interest rates will tend to be lower—the Fisher effect we discussed in Chapter 16. But if nominal interest rates are lower, it becomes more likely that the central bank will find itself in a liquidity trap
 
-![](images/970d65a0b0dc17967bdc62dbbda79a58ba29a0a7043a40ebb275aa2ed84e2471.jpg)  
+![](970d65a0b0dc17967bdc62dbbda79a58ba29a0a7043a40ebb275aa2ed84e2471.jpg)  
 
 # Recent Inflation Rates in Some Advanced Economies  
 
@@ -724,7 +724,7 @@ Because central banks continued to hold dollar reserves and intervene, the inter
 
 Economist Ronald McKinnon of Stanford University has argued that the current floating-rate system is similar in some ways to the asymmetric reserve currency system  
 
-![](images/07cc99e42a41aa8e138b931ba6c3b3c658904d2351bc0894acb30fc65e3fa632.jpg)  
+![](07cc99e42a41aa8e138b931ba6c3b3c658904d2351bc0894acb30fc65e3fa632.jpg)  
 Percent change in foreign currency price of U.S. dollar, 1973–2019   
 FIGURE 19-10  
 
@@ -868,7 +868,7 @@ Hypothetical Effects of Different Monetary Policy Combinations on Inflation/War%
 
 Monetary policy choices in one country affect the outcomes of monetary policy choices made abroad.  
 
-![](images/eac91e97054af958973a838e9910fd23716872d9f6e9626e1c96b66bc6576c34.jpg)  
+![](eac91e97054af958973a838e9910fd23716872d9f6e9626e1c96b66bc6576c34.jpg)  
 
 and Foreign of different policy choices by the two countries. Each row corresponds to a particular monetary policy decision by Home and each column to a decision by Foreign. The boxes contain entries giving changes in Home and Foreign annual inflation/War%20Economies%20and%20Hyperinflation.md) rates ( $\Delta\pi$ and $\Delta\pi^{*}$ ) and unemployment rates ( $\Delta U$ and $\Delta U^{*}$ ). Within each box, lower left entries are Home outcomes and upper right entries are Foreign outcomes.  
 
@@ -884,7 +884,7 @@ How do Home and Foreign behave faced with the payoffs in this matrix? Assume eac
 
 Each entry equals the reduction in inflation/War%20Economies%20and%20Hyperinflation.md) per unit rise in the unemployment rate (calculated as $-\Delta\pi/\Delta U)$ . If each country “goes it alone,” they both choose very restrictive policies. Somewhat restrictive policies, if adopted by both countries, lead to an outcome better for both.  
 
-![](images/3d62a2b2e97634c1ff59c362d066c7d799973f32959d8a18e327aa2f7397f752.jpg)  
+![](3d62a2b2e97634c1ff59c362d066c7d799973f32959d8a18e327aa2f7397f752.jpg)  
 
 Foreign finds itself in a symmetric position. It, too, is better off with a very restrictive policy regardless of what Home does. The result is that both countries will choose very restrictive monetary policies, and each will get a payoff of $\frac{5}{6}$ .  
 

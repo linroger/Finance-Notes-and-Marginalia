@@ -106,7 +106,7 @@ Figure 17-1 shows the relation between aggregate demand and real income $Y$ for 
 
 Aggregate demand is a ­function of the real exchange rate $(E P^{*}/P)$ , disposable income $(Y-T)$ , investment demand $(I),$ and government spending (G). If all other factors remain unchanged, a rise in output (real income), $Y,$ increases aggregate demand. Because the increase in aggregate demand is less than the increase in output, the slope of the aggregate demand function is less than 1 (as indicated by its position within the 45-degree angle).  
 
-![](images/07970df610d5e54efa64970aeadfc8279efa2f988fe065ba5f7bbc7b801b2109.jpg)  
+![](07970df610d5e54efa64970aeadfc8279efa2f988fe065ba5f7bbc7b801b2109.jpg)  
 
 # How Output Is Determined in the Short Run  
 
@@ -129,7 +129,7 @@ At point 3, there is an excess supply of domestic output, and firms find themsel
 
 In the short run, ­output settles at Y 1 (point 1), where aggregate demand, $D^{1}$ , equals aggregate output, $Y^{1}$ .  
 
-![](images/8314f8e35de3584e8650bf3b818c95ac49f2431acf210ab01d90d6bc3e5e9555.jpg)  
+![](8314f8e35de3584e8650bf3b818c95ac49f2431acf210ab01d90d6bc3e5e9555.jpg)  
 
 # Output Market Equilibrium in the Short Run: The DD Schedule  
 
@@ -145,7 +145,7 @@ Figure 17-3 illustrates the relationship between the exchange rate and output im
 
 A rise in the exchange rate from $E^{1}$ to $E^{2}$ (a currency depreciation) raises aggregate demand to Aggregate demand $\left(E^{2}\right)$ and output to $Y^{2}$ , all else equal.  
 
-![](images/96b5de2f8d42970c30c71fb5110b4cc687fa56b618870eb1d232392a21f20b41.jpg)  
+![](96b5de2f8d42970c30c71fb5110b4cc687fa56b618870eb1d232392a21f20b41.jpg)  
 
 The fall in the relative price of domestic output shifts the aggregate demand schedule upward because at each level of domestic output, the demand for domestic products is higher. For example, foreign and American consumers of autos alike shift their demands toward American models when the dollar depreciates. Output expands from $Y^{1}$ to $Y^{2}$ as firms find themselves faced with excess demand at initial production levels.  
 
@@ -159,7 +159,7 @@ If we assume $P$ and $P^{*}$ are fixed in the short run, a depreciation of the d
 
 The $D D$ schedule (shown in the lower panel) slopes upward because a rise in the exchange rate from $E^{1}$ to $E^{2},$ , all else equal, causes output to rise from $Y^{1}$ to $Y^{2}$ .  
 
-![](images/021b92e37c6aebbcb8a68f14d9ee2a5798fe2f23edbe26a33580a249fb9be374.jpg)  
+![](021b92e37c6aebbcb8a68f14d9ee2a5798fe2f23edbe26a33580a249fb9be374.jpg)  
 Figure 17-4 shows how to derive the $_{D D}$ schedule, which relates $E$ and $Y$ when $P$ and $P^{*}$ are fixed. The upper part of the figure reproduces the result of Figure 17-3. (A depreciation of the domestic currency shifts the aggregate demand function upward, causing output to rise.) The $D D$ schedule in the lower part graphs the resulting relationship between the exchange rate and output (given that $P$ and $P^{*}$ are held constant). Point 1 on the $_{D D}$ schedule gives the output level, $Y^{1}$ , at which aggregate demand equals aggregate supply when the exchange rate is $E^{1}$ . A depreciation of the currency to $E^{2}$ leads to the higher output level $Y^{2}$ according to the figure’s upper part, and this information allows us to locate point 2 on $D D$ .  
 
 # Factors That Shift the DD Schedule  
@@ -170,7 +170,7 @@ To understand the effects of shifts in each of these factors, we must study how 
 
 [^1]: A change in $G$ Figure 17-5 shows the effect on $D D$ of a rise in government purchases from $G^{1}$ to $G^{2}$ , given a constant exchange rate of $E^{0}$ . An example would be the increase in U.S. military and security expenditures following the September 11, 2001, attacks. As shown in the upper part of the figure, the exchange rate $E^{0}$ leads to an equilibrium output level $Y^{1}$ at the initial level of government demand, so point 1 is one point on $D D^{1}$ .
 
-![](images/685279a9c98b5980bfd515aec53f2bdb59c4bc39d2dd70fe3e690fd9f77d9d92.jpg)  
+![](685279a9c98b5980bfd515aec53f2bdb59c4bc39d2dd70fe3e690fd9f77d9d92.jpg)  
 FIGURE 17-5 Government Demand and the Position of the DD Schedule  
 
 A rise in government demand from $C^{1}$ to $C^{2}$ raises output at every level of the exchange rate. The change therefore shifts $D D$ to the right.  
@@ -215,7 +215,7 @@ We now use the diagrammatic tools developed in Chapter 15 to study the changes
 
 A rise in output from $Y^{1}$ to $Y^{2}$ raises aggregate real money demand from $L(R,Y^{1})$ to $L(R,Y^{2})$ , shifting out the entire money demand schedule in the lower part of ­Figure 17-6. This shift, in turn, raises the equilibrium domestic interest rate to $R^{\bar{2}}\left(\operatorname{point}2\right)$ . With $E^{e}$ and $R^{*}$ fixed, the domestic currency must appreciate from $E^{1}$ to $E^{2}$ to bring the foreign exchange market back into equilibrium at point $2^{\prime}$ . The domestic currency appreciates  
 
-![](images/63bbcc9c49b98b5ec78f01037934cc62068d34ac149fe4047014b961982d0bb4.jpg)  
+![](63bbcc9c49b98b5ec78f01037934cc62068d34ac149fe4047014b961982d0bb4.jpg)  
 FIGURE 17-6  
 
 # Output and the Exchange Rate in Asset Market Equilibrium  
@@ -238,7 +238,7 @@ Five factors cause the $_{A A}$ schedule to shift: changes in the domestic money
 
 The asset market equilibrium schedule (AA) slopes downward because a rise in output from $\gamma^{1}$ to $Y^{2},$ , all else equal, causes a rise in the home interest rate and a domestic currency appreciation from E1 to $E^{2}$ .  
 
-![](images/c59c181caa027009fa4eef8c3bfe7f2771561dd65f688be0cc0ba9cc7648b1b6.jpg)  
+![](c59c181caa027009fa4eef8c3bfe7f2771561dd65f688be0cc0ba9cc7648b1b6.jpg)  
 
 [^2]: A change in $P.$ An increase in $P$ reduces the real money supply and drives the interest rate upward. Other things (including $Y$ ) equal, this rise in the interest rate causes $E$ to fall. The effect of a rise in $P$ is therefore a downward shift of $A A$ . A fall in $P$ results in an upward shift of $A A$ .
 [^3]: A change in $E^{e}$ . Suppose participants in the foreign exchange market suddenly revise their expectations about the exchange rate’s future value so that $E^{e}$ rises. Such a change shifts the curve in the top part of Figure 17-6 (which measures the expected domestic currency return on foreign currency deposits) to the right. The rise in $E^{e}$ therefore causes the domestic currency to depreciate, other things equal. Because the exchange rate producing equilibrium in the foreign exchange market is higher after a rise in $E^{e}$ , given output, $A A$ shifts upward when a rise in the expected future exchange rate occurs. It shifts downward when the expected future exchange rate falls.
@@ -259,7 +259,7 @@ To convince yourself that the economy will indeed settle at point 1, imagine the
 
 The short-run equilibrium of the economy occurs at point 1, where the output market (whose equilibrium points are summarized by the $D D$ curve) and the asset market (whose equilibrium points are summarized by the $A A$ curve) simultaneously clear.  
 
-![](images/2f509577f9c082524ff5cf3c0ac5d8bb26d064f328b70b7e23b0d3615a9b8a64.jpg)  
+![](2f509577f9c082524ff5cf3c0ac5d8bb26d064f328b70b7e23b0d3615a9b8a64.jpg)  
 
 # FIGURE 17-9  
 
@@ -267,7 +267,7 @@ The short-run equilibrium of the economy occurs at point 1, where the output mar
 
 Because asset markets adjust very quickly, the exchange rate jumps immediately from point 2 to point 3 on AA. The economy then moves to point 1 along $A A$ as output rises to meet aggregate demand.  
 
-![](images/9cb8ba17ae562f43eafea59338602660a24d9f55519f84888c5a8e330b4d4c93.jpg)  
+![](9cb8ba17ae562f43eafea59338602660a24d9f55519f84888c5a8e330b4d4c93.jpg)  
 
 so high relative to $_{A A}$ , the rate at which $E$ is expected to fall in the future is also high relative to the rate that would maintain interest parity. The high expected future appreciation rate of the domestic currency implies that the expected domestic currency return on foreign deposits is below that on domestic deposits, so there is an excess demand for the domestic currency in the foreign exchange market. The high level of $E$ at point 2 also makes domestic goods cheap for foreign buyers (given the goods’ domestic currency prices), causing an excess demand for output at that point.  
 
@@ -299,13 +299,13 @@ As we saw earlier, expansionary fiscal policy can take the form of an increase i
 
 By shifting $A A^{1}$ upward, a temporary increase in the money supply causes a currency depreciation and a rise in output.  
 
-![](images/5c4c33f7f683a0f25e00fc2c492d4dbacfe8edcacb8fc5712dc4dcbb4092bf34.jpg)  
+![](5c4c33f7f683a0f25e00fc2c492d4dbacfe8edcacb8fc5712dc4dcbb4092bf34.jpg)  
 
 # FIGURE 17-11 Effects of a Temporary Fiscal Expansion  
 
 By shifting $D D^{1}$ to the right, a temporary fiscal expansion causes a currency appreciation and a rise in output.  
 
-![](images/250979c06abde283aa6f39eb0bfd5d065987ec46550e5683bfd343804eddcf2d.jpg)  
+![](250979c06abde283aa6f39eb0bfd5d065987ec46550e5683bfd343804eddcf2d.jpg)  
 
 Figure 17-11 shows how expansionary fiscal policy affects the economy in the short run. Initially the economy is at point 1, with an exchange rate $E^{1}$ and output $Y^{1}$ . ­Suppose the government decides to spend $\$30$ billion to develop a new space shuttle. This one-time increase in government purchases moves the economy to point 2, causing the currency to appreciate to $E^{2}$ and output to expand to $Y^{2}$ . The economy would respond in a similar way to a temporary cut in taxes.  
 
@@ -323,7 +323,7 @@ Figure 17-12 illustrates this use of macroeconomic policy. Suppose the economy�
 
 A temporary fall in world demand shifts $D D^{1}$ to $D D^{2}.$ , reducing output from $\gamma^{f}$ to $Y^{2}$ and causing the currency to depreciate from $E^{1}$ to $E^{2}$ (point 2). Temporary fiscal expansion can restore full employment (point 1) by shifting the $D D$ schedule back to its original position. Temporary monetary expansion can restore full employment (point 3) by shifting $A A^{1}$ to $A A^{2}$ . The two policies differ in their exchange rate effects: The fiscal policy restores the currency to its previous value $\left(E^{1}\right)$ , whereas the monetary policy causes the currency to depreciate further, to $E^{3}$ .  
 
-![](images/72b49cb98a39566b3347b63882237af8820a4f1592c5339067aedb4f738f744d.jpg)  
+![](72b49cb98a39566b3347b63882237af8820a4f1592c5339067aedb4f738f744d.jpg)  
 
 new short-run equilibrium, the currency has depreciated to $E^{2}$ and output, at $Y^{2}$ , is below its full-employment level: The economy is in a recession. Because the shift in preferences is assumed to be temporary, it does not affect $E^{e}$ , so there is no change in the position of $A A^{1}$ .  
 
@@ -339,7 +339,7 @@ Expansionary macroeconomic policies can again restore full employment. A tempora
 
 After a temporary money demand increase (shown by the shift from $A A^{1}$ to $A A^{2})$ , either an increase in the money supply or temporary fiscal expansion can be used to maintain full employment. The two policies have different exchange rate effects: The monetary policy restores the exchange rate back to $E^{1}$ , whereas the fiscal policy leads to greater appreciation $\left(E^{3}\right)$ .  
 
-![](images/b3599d55c3ab66addd98d19d237d7bf1e6160f209cff61ddf83e8aa41c3e6a70.jpg)  
+![](b3599d55c3ab66addd98d19d237d7bf1e6160f209cff61ddf83e8aa41c3e6a70.jpg)  
 
 # Inflation Bias and Other Problems of Policy Formulation  
 
@@ -368,7 +368,7 @@ Figure 17-14 shows the short-run effects of a permanent increase in the money su
 
 A permanent increase in the money supply, which shifts $A A^{1}$ to $A A^{2}$ and moves the economy from point 1 to point 2, has stronger effects on the exchange rate and output than an equal temporary increase, which moves the economy only to point 3.  
 
-![](images/ad3747be56b6061df4aaa49b8f1825c1508d3674d6347a0d3c7a609208f93b55.jpg)  
+![](ad3747be56b6061df4aaa49b8f1825c1508d3674d6347a0d3c7a609208f93b55.jpg)  
 
 rate: A permanent increase in $M^{s}$ must ultimately lead to a proportional rise in $E$ . Therefore, the permanent rise in $M^{s}$ causes $E^{e}$ , the expected future exchange rate, to rise proportionally.  
 
@@ -386,7 +386,7 @@ Figure 17-15 will help you visualize the adjustment back to full employment. ­W
 
 After a permanent money supply increase, a steadily increasing price level shifts the $D D$ and $\mathbf{\nabla}A A$ schedules to the left until a new longrun equilibrium (point 3) is reached.  
 
-![](images/e9e9a4d412f85283a2180bb25a543815aa9918630dd872bc23ad6a2c0d4510d8.jpg)  
+![](e9e9a4d412f85283a2180bb25a543815aa9918630dd872bc23ad6a2c0d4510d8.jpg)  
 
 A rising domestic price level therefore causes $D D^{1}$ to shift to the left over time. Because a rising price level steadily reduces the real money supply over time, $A A^{2}$ also travels to the left as prices rise.  
 
@@ -412,7 +412,7 @@ Figure 17-16 is drawn to show a case in which fiscal expansion, contrary to what
 
 Because a permanent fiscal expansion changes exchange rate expectations, it shifts $A A^{1}$ leftward as it shifts $D D^{1}$ to the right. The effect on output (point 2) is nil if the economy starts in long-run equilibrium. A comparable temporary fiscal expansion, in contrast, would leave the economy at point 3.  
 
-![](images/e044d7aa71e2a0f67ab9c80f2f7d2d3b04408dd90a11ff188cf685d60fc51b71.jpg)  
+![](e044d7aa71e2a0f67ab9c80f2f7d2d3b04408dd90a11ff188cf685d60fc51b71.jpg)  
 
 establishes this point requires five steps; by taking the time to understand them, you will solidify your understanding of the ground we have covered so far:  
 
@@ -442,7 +442,7 @@ We can now examine the current account effects of macroeconomic policies. As sho
 
 Along the curve $\chi\chi,$ the current account is constant at the level $C A=X$ . Monetary expansion moves the economy to point 2 and thus raises the current account balance. Temporary fiscal expansion moves the economy to point 3, while permanent fiscal expansion moves it to point 4; in either case, the current account balance falls.  
 
-![](images/4fe70542a7a0355590787df7e5245b72e6f480d21644d357a6d40ae2fa997549.jpg)  
+![](4fe70542a7a0355590787df7e5245b72e6f480d21644d357a6d40ae2fa997549.jpg)  
 
 Consider next a temporary fiscal expansion. This action shifts $D D$ to the right and moves the economy to point 3 in the figure. Because the currency appreciates and income rises, there is a deterioration in the current account. A permanent fiscal expansion has the additional effect of shifting $A A$ leftward, producing an equilibrium at point 4. Like point 3, point 4 is below $X X$ , so once again the current account worsens, and by more than in the temporary case. Expansionary fiscal policy reduces the current account balance.  
 
@@ -464,7 +464,7 @@ The result of these lags in adjustment is the gradually improving current accoun
 
 The J-curve describes the time lag with which a real currency depreciation improves the current account.  
 
-![](images/4cf3014fb312517cf830c9b6ab1a34fa0d9f4741705b0377773beca6b356e2d7.jpg)  
+![](4cf3014fb312517cf830c9b6ab1a34fa0d9f4741705b0377773beca6b356e2d7.jpg)  
 
 Empirical evidence indicates for most industrial countries a J-curve lasting more than six months but less than a year. Thus, point 3 in the figure is typically reached within a year of the real depreciation, and the current account continues to improve afterward.13  
 
@@ -488,7 +488,7 @@ Backward and forward linkages can have important implications for the effects of
 
 Without this rise in the bicycle’s euro price, the 10 percent euro depreciation would lower its dollar price by 10 percent. With this rise in the euro price, though, the fall in the dollar price is only 10 percent - 5 percent $=5$ percent, that is, the fall in the dollar price of the euro less the rise in the euro price of the bicycle. The presence of backward linkages thus mutes the effect of currency depreciation on export prices—and thereby on net exports—of a given exchange rate change.  
 
-![](images/0ede2c5e1eb56a41b6cdb7d5df3766a3e8e0d9ba3d1f6999e36e6abffcd13511.jpg)  
+![](0ede2c5e1eb56a41b6cdb7d5df3766a3e8e0d9ba3d1f6999e36e6abffcd13511.jpg)  
 FIGURE 17-19   
 Import Content of Exports for Selected Countries and the European Union, 2005–2016 Imported value added can account for a significant fraction of the value of exports.  
 
@@ -560,7 +560,7 @@ Our earlier assumption that the expected future exchange rate is fixed is a key 
 
 At point 1, output is below its full employment level. Because exchange rate expectations $E^{\mathrm{e}}$ are fixed, however, a monetary expansion will merely shift $\mathbf{\nabla}A A$ to the right, leaving the initial equilibrium point the same. The horizontal stretch of $A A$ gives rise to the liquidity trap.  
 
-![](images/f5430b6e3a29659e3f1ba29e1c0647c7ec223b6a37e69522907df70a839297d5.jpg)  
+![](f5430b6e3a29659e3f1ba29e1c0647c7ec223b6a37e69522907df70a839297d5.jpg)  
 
 supply. In that case, the $A A$ schedule will shift up as well as to the right, output will therefore expand, and the currency will depreciate. Observers of Japan’s experience have argued, however, that BOJ officials were so fearful of depreciation and inflation/War%20Economies%20and%20Hyperinflation.md) (as were many central bankers during the early 1930s) that markets did not believe the officials would be willing to depreciate the currency permanently. Instead, markets suspected an intention to restore an appreciated exchange rate later on and treated any monetary expansion as temporary. Only in the first half of 2013 did the Japanese government finally announce a credible intention to expand the money supply enough, and keep interest rates at zero long enough, to attain a 2 percent rate of annual inflation/War%20Economies%20and%20Hyperinflation.md). At that point the yen depreciated sharply.18  
 
@@ -671,7 +671,7 @@ Figure 17A1-1 reminds you of how consumption and saving were determined in Chap
 
 A one-period increase in output raises saving.  
 
-![](images/e67e2e518a0725584d037e9acaa51cbed45b26b5ab1ea728aea9c2da95ebebed.jpg)  
+![](e67e2e518a0725584d037e9acaa51cbed45b26b5ab1ea728aea9c2da95ebebed.jpg)  
 
 We have assumed zero saving at point 1 to show most clearly the effect of a rise in current output, which we turn to next. Suppose present output rises while future output doesn’t, moving the income endowment to point $2^{\prime}$ , which lies horizontally to the right of point 1. You can see that the consumer will wish to spread the increase in consumption this allows her over her entire lifetime. She can do this by saving some of the present income rise, $\mathcal{Q}_{P}^{2}-\mathcal{Q}_{P}^{1}$ , and moving up to the left along her budget line from her endowment point $2^{\prime}$ to point 2.  
 
@@ -809,11 +809,11 @@ The slope of the $L M$ (or money market equilibrium) curve is much easier to der
 
 Equilibrium is at point 1, where the output and asset markets simultaneously clear.  
 
-![](images/bdd1149824a59d08a67e1d3aa831f5661c46fb958aa767633618a776fc954459.jpg)  
+![](bdd1149824a59d08a67e1d3aa831f5661c46fb958aa767633618a776fc954459.jpg)  
 
 The $I S–L M$ model can be used to analyze the effects of monetary and fiscal policies. A temporary increase in the money supply, for example, shifts $L M$ to the right, lowering the interest rate and expanding output. A permanent increase in the money supply, however, shifts $L M$ to the right but also shifts IS to the right, since in an open economy that schedule depends on $E^{e}$ , which now rises. The right-hand side of Figure 17A3-2  
 
-![](images/07a97f2a9f5a81ee57da5b687bc49d54f2b331c1148f934789ad5931089826c1.jpg)  
+![](07a97f2a9f5a81ee57da5b687bc49d54f2b331c1148f934789ad5931089826c1.jpg)  
 
 # FIGURE 17A3-2  
 
@@ -827,5 +827,5 @@ The left-hand side of Figure 17A3-2 shows how the monetary changes affect the ex
 
 Fiscal policy is analyzed in Figure 17A3-3, which assumes a long-run equilibrium starting point. A temporary increase in government spending, for example, shifts $I S^{1}$ to the right but has no effect on $L M.$ . The new short-run equilibrium at point 2 shows a rise in output and a rise in the nominal interest rate, while the foreign exchange market equilibrium at point $2^{\prime}$ indicates a temporary currency appreciation. A permanent increase in government spending causes a fall in the long-run equilibrium exchange rate and thus a fall in $E^{e}$ . The $I S$ curve therefore does not shift out as much as in the case of a temporary policy. In fact, it does not shift at all: As in the DD-AA model, a permanent fiscal expansion has no effect on output or the home interest rate. The reason why permanent fiscal policy moves are weaker than transitory ones can be seen in the ­figure’s left-hand side (point $3^{\prime}$ ). The accompanying change in exchange rate expectations generates a sharper currency appreciation and thus, through the response of net exports, a complete “crowding out” effect on aggregate demand.24  
 
-![](images/c15570990967c64bbf8a435b127f685f15aeae0d66e8ca862b8cb1eeb378b9e1.jpg)  
+![](c15570990967c64bbf8a435b127f685f15aeae0d66e8ca862b8cb1eeb378b9e1.jpg)  
 FIGURE 17A3-3 Effects of Permanent and Temporary Fiscal Expansions in the IS-LM Model Temporary fiscal expansion has a positive effect on output while permanent fiscal expansion has none.

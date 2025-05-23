@@ -33,7 +33,7 @@ The efficiency case for free trade is simply the reverse of the cost-benefit ana
 
 A trade restriction, such as a tariff, leads to production and consumption distortions.  
 
-![](images/57a9364b6782af1f9fb6d0caf50703db05e940e1490c09ae77bd0d7e15229a0d.jpg)  
+![](57a9364b6782af1f9fb6d0caf50703db05e940e1490c09ae77bd0d7e15229a0d.jpg)  
 
 <html><body><table><tr><td>TABLE10-1</td><td>Benefits of a Move to WorldwideFree Trade (percent of GDP)</td></tr><tr><td>United States European Union Japan</td><td>0.57 0.61 0.85</td></tr><tr><td colspan="2">Developing countries 1.4 World 0.93 Source:Willam Cline, Trade Policy and Global Poverty (Washington, D.C.: Institute for International</td></tr><tr><td colspan="2">Economics, 2004), p.180.</td></tr></table></body></html>  
 
@@ -97,7 +97,7 @@ What policy would the terms of trade argument dictate for export sectors? Since 
 
 For a large country, there is an optimum tariff $t_{o}$ at which the marginal gain from improved terms of trade just equals the marginal efficiency loss from production and consumption distortion.  
 
-![](images/01dfcfa7e9df2bd32798d8ea25c687e6c82b53ca6ff70a4c92be0f43a6aa1f2f.jpg)  
+![](01dfcfa7e9df2bd32798d8ea25c687e6c82b53ca6ff70a4c92be0f43a6aa1f2f.jpg)  
 
 national welfare, the optimal policy in export sectors must be a negative subsidy, that is, a $t a x$ on exports that raises the price of exports to foreigners. Like the optimum tariff, the optimum export tax is always positive but less than the prohibitive tax that would eliminate exports completely.  
 
@@ -123,7 +123,7 @@ Figure 10-3 illustrates the domestic market failure argument against free trade.
 
 If production of a good yields extra social benefits [measured in panel $(b)$ by area c] not captured as producer surplus, a tariff can increase welfare.  
 
-![](images/567c78b58744207141ef9da24843f893e09a87274e30b8927a8945942ecd2369.jpg)  
+![](567c78b58744207141ef9da24843f893e09a87274e30b8927a8945942ecd2369.jpg)  
 
 The increase in production yields a social benefit that may be measured by the area under the marginal social benefit curve from $S^{1}$ to $S^{2}$ , indicated by $c$ . In fact, by an argument similar to that in the terms of trade case, we can show that if the tariff is small enough, the area $c$ must always exceed the area $a+b$ and that there is some welfaremaximizing tariff that yields a level of social welfare higher than that of free trade.  
 
@@ -171,7 +171,7 @@ What policies will the two parties then promise to follow? The answer is that th
 
 Voters are lined up in order of the tariff rate they prefer. If one party proposes a high tariff of $t_{A},$ the other party can win over most of the voters by offering a somewhat lower tariff, $t_{B}$ . This political competition drives both parties to propose tariffs close to $t_{M},$ the tariff preferred by the median voter.  
 
-![](images/a5f7fb0ce626861586a32fc88bfb216fb4635aa79455f99b4b5d6b389a14183b.jpg)  
+![](a5f7fb0ce626861586a32fc88bfb216fb4635aa79455f99b4b5d6b389a14183b.jpg)  
 
 propose the slightly lower rate, $t_{B}.$ , and its program would be preferred by almost all voters who want a lower tariff, that is, by a majority. In other words, it would always be in the political interest of a party to undercut any tariff proposal that is higher than what the median voter wants.  
 
@@ -251,7 +251,7 @@ At least part of the answer is that the great postwar liberalization of trade wa
 
 There are at least two reasons why it is easier to lower tariffs as part of a mutual agreement than to do so as a unilateral policy. First, a mutual agreement helps mobilize support for freer trade. Second, negotiated agreements on trade can help governments avoid getting caught in destructive trade wars.  
 
-![](images/1a53e4a6425bb05540f3cb76006725ef9aadc67d53afd9a8e63f60a4cfd8c236.jpg)  
+![](1a53e4a6425bb05540f3cb76006725ef9aadc67d53afd9a8e63f60a4cfd8c236.jpg)  
 FIGURE 10-5   
 Average Tariff Rates on Total Imports (France, U.K., U.S.)  
 
@@ -267,7 +267,7 @@ The second assumption built into Table 10-3 is that even though each government 
 
 To those who have studied game theory, this situation is known as a Prisoner’s Dilemma. Each government, making the best decision for itself, will choose to protect. These choices lead to the outcome in the lower right box of the table. Yet both governments are better off if neither protects: The upper left box of the table yields a payoff that is higher for both countries. By acting unilaterally in what appear to be their best interests, the governments fail to achieve the best outcome possible. If the countries act unilaterally to protect, there is a trade war that leaves both worse off. Trade wars are not as serious as shooting wars, but avoiding them is similar to the problem of avoiding armed conflict or arms races.  
 
-![](images/d6f5a9bcee9b4033b776f8ac770d371726a840f68e88597eee3d24f0d6a785df.jpg)  
+![](d6f5a9bcee9b4033b776f8ac770d371726a840f68e88597eee3d24f0d6a785df.jpg)  
 
 Obviously, Japan and the United States need to establish an agreement (such as a treaty) to refrain from protection. Each government will be better off if it limits its own freedom of action, provided the other country limits its freedom of action as well. A treaty can make everyone better off.  
 
@@ -628,7 +628,7 @@ $$
 
 In a linear model, we can calculate the exact effect of a tariff on prices.  
 
-![](images/5d6ecf6e24279ccfcbacf38872b10c4f5968e504de674553d5be3a745080a85f.jpg)  
+![](5d6ecf6e24279ccfcbacf38872b10c4f5968e504de674553d5be3a745080a85f.jpg)  
 
 # The Tariff and Domestic Welfare  
 
@@ -648,7 +648,7 @@ $$
 
 The net benefit of a tariff is equal to the area of the rectangle minus the area of the two triangles.  
 
-![](images/b6882f5badaffd5b468a86a22a03200061f3e800a573079a38ba44c12421ca96.jpg)  
+![](b6882f5badaffd5b468a86a22a03200061f3e800a573079a38ba44c12421ca96.jpg)  
 
 The gain from a lower world price is the area of the rectangle in Figure 10A-2, the fall in the price multiplied by the level of imports after the tariff:  
 $$

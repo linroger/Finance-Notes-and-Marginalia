@@ -103,7 +103,7 @@ In the absence of international trade, the unusual slope of the supply curve in 
 
 When there are external economies of scale, the average cost of producing a good falls as the quantity produced rises. Given competition among many producers, the downward-sloping average cost curve AC can be interpreted as a forward-falling supply curve. As in ordinary supply-and-demand analysis, market equilibrium is at point 1, where the supply curve intersects the demand curve, $D$ . The equilibrium level of output is $\begin{array}{r}{Q_{1},}\end{array}$ , the equilibrium price $P_{1}$ .  
 
-![](images/5f6adbc62382620069de620ad37fbf46d5c7a90a294cb9979ca0238b7f480b42.jpg)  
+![](5f6adbc62382620069de620ad37fbf46d5c7a90a294cb9979ca0238b7f480b42.jpg)  
 
 # External Economies and International Trade  
 
@@ -115,7 +115,7 @@ Imagine, for a moment, we live in a world in which it is impossible to trade but
 
 In that case, equilibrium in the world button industry would look like the situation shown in Figure 7-2.3 In both China and the United States, equilibrium prices and output would be at the point where the domestic supply curve intersects the domestic  
 
-![](images/61acf935875584820bbe76177f87587796a41052822176a4c44ec8a856e1d9a5.jpg)  
+![](61acf935875584820bbe76177f87587796a41052822176a4c44ec8a856e1d9a5.jpg)  
 FIGURE 7-2  
 
 # External Economies before Trade  
@@ -128,7 +128,7 @@ In the absence of trade, the price of buttons in China, $P_{\mathrm{CHINA}},$ is
 
 When trade is opened, China ends up producing buttons for the world market, which consists both of its own domestic market and of the U.S. market. Output rises from $Q_{1}$ to $\scriptstyle Q_{2},$ leading to a fall in the price of buttons from $P_{1}$ to $P_{2},$ which is lower than the price of buttons in either country before trade.  
 
-![](images/85217e92917d85fabb80e12450ad9f100628313a59da81f7efccd27205abacbe.jpg)  
+![](85217e92917d85fabb80e12450ad9f100628313a59da81f7efccd27205abacbe.jpg)  
 
 demand curve. In the case shown in Figure 7-2, Chinese button prices in the absence of trade would be lower than U.S. button prices.  
 
@@ -168,7 +168,7 @@ We assume the Vietnamese cost curve lies below the Chinese curve because, say, V
 
 The average cost curve for Vietnam, ACVIETNAM, lies below the average cost curve for China, $A C_{\mathrm{CHINA}}$ . Thus Vietnam could potentially supply the world market more cheaply than China. If the Chinese industry gets established first, however, it may be able to sell buttons at the price $P_{1\prime}$ which is below the cost $C_{0}$ that an individual Vietnamese firm would face if it began production on its own. So a pattern of specialization established by historical accident may persist even when new producers could potentially have lower costs.  
 
-![](images/027a4c2bb3b4bf71b306f29dc801f7bde3429b8afdd4b39d2d7dfa8d91dd9dbc.jpg)  
+![](027a4c2bb3b4bf71b306f29dc801f7bde3429b8afdd4b39d2d7dfa8d91dd9dbc.jpg)  
 
 established at point 1 in Figure 7-4, with Chinese production of $Q_{1}$ units per year and a price of $P_{1}$ . Now introduce the possibility of Vietnamese production. If Vietnam could take over the world market, the equilibrium would move to point 2. However, if there is no initial Vietnamese production ( $Q=0,$ ), any individual Vietnamese firm considering manufacture of buttons will face a cost of production of $C_{0}$ . As we have drawn it, this cost is above the price at which the established Chinese industry can produce buttons. So although the Vietnamese industry could potentially make buttons more cheaply than China’s industry, China’s head start enables it to hold on to the industry.  
 
@@ -198,7 +198,7 @@ At a broad level, China’s role as a huge exporter of labor-intensive products 
 
 When there are external economies, trade can potentially leave a country worse off than it would be in the absence of trade. In this example, Thailand imports watches from Switzerland, which is able to supply the world market $(D_{\mathrm{{WORLD}}})$ at a price $(P_{1})$ low enough to block entry by Thai producers, who must initially produce the watches at cost $C_{0}$ . Yet if Thailand were to block all trade in watches, it would be able to supply its domestic market $(D_{\mathsf{T H A l}})$ at the lower price, $P_{2}$ .  
 
-![](images/9122cfdb253acd582e94044fe93f22e943a15d9489a81d56871e5fdb0fb43041.jpg)  
+![](9122cfdb253acd582e94044fe93f22e943a15d9489a81d56871e5fdb0fb43041.jpg)  
 
 We have presented a situation in which the price of a good that Thailand imports would actually be lower if there were no trade and the country were forced to produce the good for itself. Clearly in this situation, trade leaves the country worse off than it would be in the absence of trade.  
 
@@ -216,7 +216,7 @@ Notice that external economies arising from the accumulation of knowledge differ
 
 The learning curve shows that unit cost is lower the greater the cumulative output of a country’s industry to date. A country that has extensive experience in an industry (L) may have a lower unit cost than a country with little or no experience, even if that second country’s learning curve $(L^{*})$ is lower— for example, because of lower wages.  
 
-![](images/1d85cde3bee12d4851f222030997aa29e4877747cc9e26a586f3f4bba05271ed.jpg)  
+![](1d85cde3bee12d4851f222030997aa29e4877747cc9e26a586f3f4bba05271ed.jpg)  
 
 the effect on costs of the experience gained through production. When costs fall with cumulative production over time rather than with the current rate of production, this is referred to as a case of dynamic increasing returns.  
 

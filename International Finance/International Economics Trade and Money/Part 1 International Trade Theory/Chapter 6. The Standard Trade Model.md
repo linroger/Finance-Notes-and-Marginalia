@@ -107,7 +107,7 @@ $Q_C$ is the quantity of cloth produced and $Q_F$ is the quantity of food produc
 An economy whose production possibility frontier is TT will produce at $\mathcal{Q}$, 
 which is on the highest possible isovalue line.
 
-![](images/1e53ffb977897d7c38ba4d3b5e6810124e8387ca09bbd97d1e1eeb5f866dc849.jpg)
+![](1e53ffb977897d7c38ba4d3b5e6810124e8387ca09bbd97d1e1eeb5f866dc849.jpg)
 
 We can indicate the market value of output by drawing a number of isovalue lines—that 
 is, lines along which the value of output is constant. Each of these lines is defined 
@@ -140,7 +140,7 @@ $$
 where $D_C$ and $D_F$ are the consumption of cloth and food, respectively. The equation 
 above says that production and consumption must lie on the same isovalue line.
 
-![](images/47903db503b2879c252c36849c49cf3a18dfe30b3ec649a107a5e1f74993c75b.jpg)
+![](47903db503b2879c252c36849c49cf3a18dfe30b3ec649a107a5e1f74993c75b.jpg)
 FIGURE 6-2
 
 # How an Increase in the Relative Price of Cloth Affects Relative Supply
@@ -182,7 +182,7 @@ line is tangent to the highest possible indifference curve. The economy produces
 cloth than it consumes and therefore exports cloth; correspondingly, it consumes more 
 food than it produces and therefore imports food.
 
-![](images/b5dd377c9ebb1370a3370517be792b09489aa7b5f5d502c1ef3cf35ac7c86dc0.jpg)
+![](b5dd377c9ebb1370a3370517be792b09489aa7b5f5d502c1ef3cf35ac7c86dc0.jpg)
 
 As you can see in Figure 6-3, the economy will choose to consume at the point on the 
 isovalue line that yields the highest possible welfare. This point is where the 
@@ -213,7 +213,7 @@ Panel (b) in Figure 6-4 shows the relative supply and demand curves associated w
 production possibilities frontier and the indifference curves.3 The graph shows how the 
 increase in the relative price of cloth induces an increase in the relative production
 
-![](images/a8572615c0735f64b9dd15e787d5b63933dff3ff8a9ac701c835a5213ede8206.jpg)
+![](a8572615c0735f64b9dd15e787d5b63933dff3ff8a9ac701c835a5213ede8206.jpg)
 FIGURE 6-4 Effects of a Rise in the Relative Price of Cloth and Gains from Trade
 
 In panel (a), the slope of the isovalue lines is equal to minus the relative price of 
@@ -292,7 +292,7 @@ the world must lie in between the relative supply curves for both countries.5 Re
 demand for the world also aggregates the demands for cloth and food across the two 
 countries: $(D_C + D_C^*)/(D_F + D_F^*)$. Since there are no differences in
 
-![](images/d0090ee2ce88ee240594c1d3f958e0b117ad77dbd90157012efc5a6114a15d6b.jpg)
+![](d0090ee2ce88ee240594c1d3f958e0b117ad77dbd90157012efc5a6114a15d6b.jpg)
 FIGURE 6-5 Equilibrium Relative Price with Trade and Associated Trade Flow
 
 Panel (a) shows the relative supply of cloth in Home (RS), in Foreign $(RS^*)$, and for 
@@ -357,7 +357,7 @@ frontier shifts out more in one direction than in the other. Panel (a) of Figure
 illustrates growth biased toward cloth (shift from $TT^1$ to $TT^2$), while panel (b) 
 shows growth biased toward food (shift from $TT^1$ to $TT^3$).
 
-![](images/83288a086d3a7ab9a78b4034e3b0413280407ff15779eb68d1ede5bb1907fd3b.jpg)
+![](83288a086d3a7ab9a78b4034e3b0413280407ff15779eb68d1ede5bb1907fd3b.jpg)
 
 # FIGURE 6-6
 
@@ -429,7 +429,7 @@ Using this principle, we are now in a position to resolve our questions about th
 international effects of growth. Is growth in the rest of the world good or bad for our 
 country? Does the fact that our country is part of a trading world economy increase
 
-![](images/613011c11137b3be1900d41b978715e5339038d2928b3b92ccaefd7828ee56be.jpg)
+![](613011c11137b3be1900d41b978715e5339038d2928b3b92ccaefd7828ee56be.jpg)
 FIGURE 6-7
 
 # Growth and World Relative Supply
@@ -524,7 +524,7 @@ The European Union terms of trade in 2018 was essentially at the same level that
 in 1995. Thus, there is no evidence that the European Union has suffered any kind of 
 sustained loss from a long-term deterioration in its terms of trade.
 
-![](images/c2636096d18807310ab169e58c3ff1fff3971c9b87ddc9a0758c175614984fc2.jpg)
+![](c2636096d18807310ab169e58c3ff1fff3971c9b87ddc9a0758c175614984fc2.jpg)
 FIGURE 6-8
 
 Source: Evolution of the Terms of trade European Union, India, Turkey 1995–2018, OECD 
@@ -629,7 +629,7 @@ An import tariff on food imposed by Home both reduces the relative supply of clo
 the world as a whole. As a result, the relative price of cloth must rise from 
 $(P_C/P_F)^1$ to $(P_C/P_F)^2$.
 
-![](images/edc3e41ac7be9170657c977e3b262f5de174bb06f43b7d21afbf09c67eef7b9c.jpg)
+![](edc3e41ac7be9170657c977e3b262f5de174bb06f43b7d21afbf09c67eef7b9c.jpg)
 
 # Effects of an Export Subsidy
 
@@ -674,7 +674,7 @@ the tariff on food. Relative supply of cloth for the world rises, while relative
 for the world falls. Home's terms of trade decline as the relative price of cloth falls 
 from $(P_C/P_F)^1$ to $(P_C/P_F)^2$.
 
-![](images/9ff78ab08219d052efa3cdc2506a2dac1c46f411b3c6ffef162c791abe4c44b8.jpg)
+![](9ff78ab08219d052efa3cdc2506a2dac1c46f411b3c6ffef162c791abe4c44b8.jpg)
 
 Are foreign tariffs always bad for a country and foreign export subsidies always 
 beneficial? Not necessarily. Our model is of a two-country world, where the other 
@@ -760,7 +760,7 @@ borrowing and lending, we would expect the relative price of future consumption
 A country can trade current consumption for future consumption in the same way that it 
 can produce more of one good by producing less of another.
 
-![](images/895a72506aeaaeafab4512c95faf83018e516af3182eaf465fdef0445f4c3c2b.jpg)
+![](895a72506aeaaeafab4512c95faf83018e516af3182eaf465fdef0445f4c3c2b.jpg)
 
 to be higher in Home than in Foreign, and thus if we open the possibility of trade over 
 time, we would expect Home to export current consumption and import future consumption.
@@ -805,7 +805,7 @@ demand for future consumption, which is also the relative demand for the world. 
 equilibrium interest rate $1/(1+r^1)$ is determined by the intersection of world 
 relative supply and demand.
 
-![](images/ab6c3eb278fe28e81b23f43625436bb2bd169c116d9723d697de898280449c5a.jpg)
+![](ab6c3eb278fe28e81b23f43625436bb2bd169c116d9723d697de898280449c5a.jpg)
 
 preferences for cloth and food could be represented by a relative demand curve relating 
 relative consumption to the relative prices of those goods. Similarly, a consumer will 
@@ -1050,7 +1050,7 @@ an amount $Q_F$ of future consumption when the first-period investment pays off.
 (Notice the parallel with Figure 6-1 where production levels of cloth and food are 
 chosen for a single period in order to maximize the value of production.)
 
-![](images/ba98aa732e25b2374ef031d944198d9a34ee2dc86bb5bd161e88c4d65bfe1dab.jpg)
+![](ba98aa732e25b2374ef031d944198d9a34ee2dc86bb5bd161e88c4d65bfe1dab.jpg)
 
 At the chosen production point $\mathcal{Q}$, the extra future consumption that would 
 result from investing an additional unit of current consumption just equals $(1+r)$. It 
@@ -1091,7 +1091,7 @@ intertemporal budget constraint. The economy exports $Q_C - D_C$ units of curren
 consumption and imports $D_F - Q_F = (1+r) \times (Q_C - D_C)$ units of future 
 consumption.
 
-![](images/28d4b5804dce042c07399402cf8706b2b879ccbcd52b76972eee25fc69adf672.jpg)
+![](28d4b5804dce042c07399402cf8706b2b879ccbcd52b76972eee25fc69adf672.jpg)
 
 intertemporally balanced. (Once again, note the parallel with Figure 6-3, where the 
 economy exports cloth in return for imports of food.)
@@ -1117,5 +1117,5 @@ Foreign produces at point $Q^*$ and consumes at point $D^*$, importing $D_C^* - 
 units of current consumption and exporting $Q_F^* - D_F^* = (1+r) \times (D_C^* - 
 Q_C^*)$ units of future consumption.
 
-![](images/fb9984faef7cbcab7b2cda64db3e426c7ca97666128badd287bd01b42561085a.jpg)
+![](fb9984faef7cbcab7b2cda64db3e426c7ca97666128badd287bd01b42561085a.jpg)
 FIGURE 6A-3

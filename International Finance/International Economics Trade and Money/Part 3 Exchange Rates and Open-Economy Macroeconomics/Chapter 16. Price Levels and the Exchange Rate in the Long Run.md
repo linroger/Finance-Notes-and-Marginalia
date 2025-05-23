@@ -181,7 +181,7 @@ You can see from Figure 16-1a that the level of the money supply does not actual
 
 How can we visualize the reaction of the foreign exchange market at time $t_{0}\mathbf{\dot{\Omega}}$ ? The dollar interest rate rises not because of a change in current levels of money supply or demand, but solely because people expect more rapid future money supply growth and dollar depreciation. As investors respond by moving into foreign deposits, which  
 
-![](images/11919f06ff6839ec71b9569483f36ffe7ee65f1b063f907dde70527f6c0dcd99.jpg)  
+![](11919f06ff6839ec71b9569483f36ffe7ee65f1b063f907dde70527f6c0dcd99.jpg)  
 FIGURE 16-1  
 
 # Long-Run Time Paths of U.S. Economic Variables after a Permanent Increase in the Growth Rate of the U.S. Money Supply  
@@ -208,7 +208,7 @@ Figure 16-2 illustrates relative PPP’s weakness by plotting both the yen/dolla
 
 Relative PPP predicts that $E_{y/\mathbb{S}}$ and $P_{\mathrm{{J}}}/P_{\mathrm{{US}}}$ will move in proportion, but clearly they do not. In the early 1980s, there was a steep appreciation of the dollar against the yen even though, with Japan’s price level consistently falling relative to that in the United States, relative PPP suggests that the dollar should have depreciated instead. The same inflation/War%20Economies%20and%20Hyperinflation.md) trends continued after the mid-1980s, but the yen then appreciated by far more than the amount that PPP would have predicted, before returning to the PPP trend around 2000. Only over fairly long periods is relative PPP approximately satisfied. In view of the lengthy departures from PPP in between, however, that theory appears to be of limited use even as a long-run explanation.  
 
-![](images/01f2b2a2f3ab8ecbafff3465a7be8e3645bd481e8d40231cdfab5b220a19dec5.jpg)  
+![](01f2b2a2f3ab8ecbafff3465a7be8e3645bd481e8d40231cdfab5b220a19dec5.jpg)  
 FIGURE 16-2   
 The Yen/Dollar Exchange Rate and Relative Japan–U.S. Price Levels, 1980–2019  
 
@@ -302,7 +302,7 @@ Using the new 2011 PPP data, the updated $\$1.90$ poverty line can be converted 
 
 Apart from comparing GDPs and poverty levels on a global level by the IMF and the World Bank, ICP data is used for several other purposes by international organizations. For example, the United Nations Development Program (UNDP) uses this data to calculate the human development index and formulate gender empowerment  
 
-![](images/8f7d2ea85ba8d508d685e3ad0959271ecee230c89f6ba7dff8b85933bb977c13.jpg)  
+![](8f7d2ea85ba8d508d685e3ad0959271ecee230c89f6ba7dff8b85933bb977c13.jpg)  
 
 PPP-Based and Exchange Rate-Based GDP Regional Shares (World $\mathbf{\mu}=\mathbf{\sigma}_{100})$ ), ICP 2011  
 
@@ -348,7 +348,7 @@ The previous section’s discussion of the role of nontraded goods in the determ
 
 One reason for the lower relative price of nontradables in poor countries was suggested by Bela Balassa and Paul Samuelson.14 The Balassa-Samuelson theory assumes the labor forces of poor countries are less productive than those of rich countries in the tradables sector but international productivity differences in nontradables are negligible. If the prices of traded goods are roughly equal in all countries, however, lower labor productivity in the tradables industries of poor countries implies lower wages than abroad, lower production costs in nontradables, and therefore a lower price of nontradables. Rich countries with higher labor productivity in the tradables sector will tend to have higher nontradables prices and higher price levels. Productivity statistics give some empirical support to the Balassa-Samuelson differential productivity postulate. And it is plausible that international productivity differences are sharper in traded than in nontraded goods. Whether a country is rich or poor, a barber can give only so many haircuts  
 
-![](images/e5451ff6a7d9553bfa928fdb71768361ee994c8868eaf140db1b9e4b7b819d2b.jpg)  
+![](e5451ff6a7d9553bfa928fdb71768361ee994c8868eaf140db1b9e4b7b819d2b.jpg)  
 Price level relative to United States $(\mathsf{U}.\mathsf{S}.=100)$   
 FIGURE 16-3  
 
@@ -434,7 +434,7 @@ The equilibrium real exchange rate is determined by the intersection of two sche
 
 The long-run ­equilibrium real exchange rate equates world relative demand to the full-employment level of relative supply.  
 
-![](images/794641dabfb5a3efd22bf864b4f923d6257a74c563b2cd05d59e64bbe1c543aa.jpg)  
+![](794641dabfb5a3efd22bf864b4f923d6257a74c563b2cd05d59e64bbe1c543aa.jpg)  
 
 The diagram easily illustrates how changes in world markets affect the real exchange rate. Suppose world gasoline prices fall, making American sport-utility vehicles more desirable for people everywhere. This change would be a rise in world relative demand for American goods and would shift $R D$ to the right, causing $q_{\mathbb{S}/\in}$ to fall (a real dollar appreciation against the euro). Suppose the United States improves its health-care system, reducing illness throughout the American workforce. If workers are able to produce more goods and services in an hour as a result, the rise in U.S. productivity shifts $R S$ to the right, causing $q_{\mathbb{S}/\in}$ to rise (a real dollar depreciation against the euro).  
 
@@ -628,7 +628,7 @@ This equation shows that the fall in the U.S. real money supply, from $M_{\mathr
 
 The 45-degree line in the upper-left quadrant of Figure 16A-1 allows you to translate the exchange rate change given in the lower-left quadrant to the vertical axis of the upper-right quadrant’s diagram. The upper-right quadrant contains our usual portrayal of equilibrium in the foreign exchange market.  
 
-![](images/fbea1ad7a52903ee53f355e02730f39e88594813692a7cf88ab6d3ec5ae261de.jpg)  
+![](fbea1ad7a52903ee53f355e02730f39e88594813692a7cf88ab6d3ec5ae261de.jpg)  
 
 # FIGURE 16A-1  
 

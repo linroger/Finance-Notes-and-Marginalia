@@ -39,7 +39,7 @@ Marginal Revenue and Price  For our analysis of the monopolistic competition m
 
 A monopolistic firm chooses an output at which marginal revenue, the increase in revenue from selling an additional unit, equals marginal cost, the cost of producing an additional unit. This profit-maximizing output is shown as $Q_{M}; $ the price at which this output is demanded is $P_{M}$ . The marginal revenue curve $M R$ lies below the demand curve $D$ because, for a monopoly, marginal revenue is always less than the price. The monopoly’s profits are equal to the area of the shaded rectangle, the difference between price and average cost times the amount of output sold.  
 
-![](images/99791dcbe425396a0c6b8e5f3cb14bd06789ca99677b1c32581342ad95c1f610.jpg)  
+![](99791dcbe425396a0c6b8e5f3cb14bd06789ca99677b1c32581342ad95c1f610.jpg)  
 
 price depends on two things. First, it depends on how much output the firm is already selling: A firm not selling very many units will not lose much by cutting the price it receives on those units. Second, the gap between price and marginal revenue depends on the slope of the demand curve, which tells us how much the monopolist has to cut his price to sell one more unit of output. If the curve is very flat, then the monopolist can sell an additional unit with only a small price cut. As a result, he will not have to lower the price by very much on the units he would otherwise have sold, so marginal revenue will be close to the price per unit. On the other hand, if the demand curve is very steep, selling an additional unit will require a large price cut, implying that marginal revenue will be much less than the price.  
 
@@ -78,7 +78,7 @@ $$
 
 This figure illustrates the average and marginal costs corresponding to the total cost function $C=5+x.$ . Marginal cost is always $1;$ average cost declines as output rises.  
 
-![](images/c2e2b04879779373fe7d724164a97b28de6284499ae211af7dff0d86bc8ff93e.jpg)  
+![](c2e2b04879779373fe7d724164a97b28de6284499ae211af7dff0d86bc8ff93e.jpg)  
 
 As we have discussed, this average cost is always greater than the marginal cost $c$ and declines with output produced $\boldsymbol{\mathcal{Q}}$ .  
 
@@ -123,7 +123,7 @@ $$
 Q=[(S/n)+S\times b\times\overline{{P}}]-S\times b\times P,
 $$  
 
-![](images/63a38e5b8098a41d12c6cdbce4914ac2a906890060038d8e078fa078579e2ac4.jpg)  
+![](63a38e5b8098a41d12c6cdbce4914ac2a906890060038d8e078fa078579e2ac4.jpg)  
 FIGURE 8-3 Equilibrium in a Monopolistically Competitive Market  
 
 The number of firms in a monopolistically competitive market, and the prices they charge, are determined by two relationships. On one side, the more firms there are, the more intensely they compete, and hence the lower is the industry price. This relationship is represented by $P P$ . On the other side, the more firms there are, the less each firm sells and therefore the higher is the industry’s average cost. This relationship is represented by CC. If price exceeds average cost (that is, if the $P P$ curve is above the CC curve), the industry will be making profits and additional firms will enter the industry; if price is less than average cost, the industry will be incurring losses and firms will leave the industry. The equilibrium price and number of firms occurs when price equals average cost, at the intersection of $P P$ and $C C$ .  
@@ -190,7 +190,7 @@ Figure 8-4 uses this information to show the effect of an increase in the size o
 
 Clearly, consumers would prefer to be part of a large market rather than a small one. At point 2, a greater variety of products is available at a lower price than at point 1.  
 
-![](images/748f81ee80bf8b89d9700b07223173176e10e692a5e0411e841a5c7fecb00763.jpg)  
+![](748f81ee80bf8b89d9700b07223173176e10e692a5e0411e841a5c7fecb00763.jpg)  
 FIGURE 8-4  
 
 # Effects of a Larger Market  
@@ -237,7 +237,7 @@ $$
 P=88,750=c+1/(b\times n)=55,000+1/[(1/30,000)\times8]=55,000+53,750,
 $$  
 
-![](images/a15eb1f51552923dfc64784c4d9a704763d8722a9b775e056617ea14afaa9609.jpg)  
+![](a15eb1f51552923dfc64784c4d9a704763d8722a9b775e056617ea14afaa9609.jpg)  
 FIGURE 8-5 Equilibrium in the Automobile Market  
 
 (a) The Home market: With a market size of 900,000 automobiles, Home’s equilibrium, determined by the intersection of the $P P$ and $C C$ curves, occurs with six firms and an industry price of $\$10,000$ per auto. (b) The Foreign market: With a market size of 1.6 million automobiles, Foreign’s equilibrium occurs with eight firms and an industry price of $\$8,750$ per auto. (c) The combined market: Integrating the two markets creates a market for 2.5 million autos. This market supports 10 firms, and the price of an auto is only $\$8,000$ .  
@@ -313,7 +313,7 @@ Figure 8-6 illustrates the performance differences between firms 1 and 2 when $c
 
 The shaded areas represent operating profits for both firms, equal to revenue $P_{i}\times Q_{i}$ minus operating costs $c_{i}\times Q_{i}$ (for both firms, $i=1$ and $i=2$ ). Here, we have assumed the fixed cost $F$ (assumed to be the same for all firms) cannot be recovered and does (a) Demand and cost curves for firms 1 and 2. Firm 1 has a lower marginal cost than firm $2\colon c_{1}<c_{2}$ . Both firms face the same demand curve and marginal revenue curve. Relative to firm 2, firm 1 sets a lower price and produces more output. The shaded areas represent operating profits for both firms (before the fixed cost is deducted). Firm 1 earns higher operating profits than firm 2. (b) Operating profits as a function of a firm’s marginal cost $C_{j}.$ . Operating profits decrease as the marginal cost increases. Any firm with marginal cost above $c^{*}$ cannot operate profitably and shuts down.  
 
-![](images/82469a37131eb84e92e32beb717dd571c9041e3709ef126a39d47a481024f44f.jpg)  
+![](82469a37131eb84e92e32beb717dd571c9041e3709ef126a39d47a481024f44f.jpg)  
 FIGURE 8-6 Performance Differences across Firms  
 
 not enter into operating profits (that is, it is a sunk cost). Since operating profits can be rewritten as the product of the markup times the number of output units sold, $(P_{i}-c_{i})\times Q_{i},$ , we can determine that firm 1 will earn higher profits than firm 2 (recall that firm 1 sets a higher markup and produces more output than firm 2). We can thus summarize all the relevant performance differences based on marginal cost differences across firms. Compared to a firm with a higher marginal cost, a firm with a lower marginal cost will (1) set a lower price but at a higher markup over marginal cost; (2) produce more output; and (3) earn higher profits.15  
@@ -332,7 +332,7 @@ We can also analytically characterize the effects of increased competition and m
 
 Panel (b) of Figure 8-7 shows the consequences of this demand change for the operating profits of firms with different cost levels $c_{i}.$ . The decrease in demand for the smaller firms translates into a new, lower-cost cutoff, $c^{*\prime}$ : Some firms with the high cost levels above $c^{*\prime}$ cannot survive the decrease in demand and are forced to exit. On the other hand, the flatter demand curve is advantageous to some firms with low cost levels: They can adapt to the increased competition by lowering their markup (and hence their price) and gain some additional market share.17 This translates into increased profits for some of the best-performing firms with the lowest cost levels $c_{i}$ 18 .  
 
-![](images/e2a01ce4bbb6975e54eebee87801af2407651bc803679f2330b67faf9e01fd49.jpg)  
+![](e2a01ce4bbb6975e54eebee87801af2407651bc803679f2330b67faf9e01fd49.jpg)  
 FIGURE 8-7 Winners and Losers from Economic Integration  
 
 (a) The demand curve for all firms changes from $D$ to $D^{\prime}$ . It is flatter, and has a lower vertical intercept. (b) Effects of the shift in demand on the operating profits of firms with different marginal cost $C_{j}$ . Firms with marginal cost between the old cutoff, $c^{*},$ , and the new one, $c^{*\prime}$ , are forced to exit. Some firms with the lowest marginal cost levels gain from integration and their profits increase.  
@@ -359,7 +359,7 @@ What are the effects of the trade cost on the firms’ decisions regarding the e
 
 We just saw how the modeling of trade costs added two important predictions to our model of monopolistic competition and trade: Those costs explain why only a subset of firms export, and they also explain why this subset of firms will consist of relatively larger and more productive firms (those firms with lower marginal cost). Empirical analyses of firms’ export decisions from numerous countries have provided overwhelming support for this prediction that exporting firms are bigger and more productive than firms in the same industry that do not export. In the United States in a typical manufacturing industry, an exporting firm is on average more than twice as large as a firm that does not export. The average exporting firm also produces 21 percent more value added (output minus intermediate inputs) per worker than the average nonexporting firm. Similar differences across exporters and non-exporters are also observed in European countries.21  
 
-![](images/4dbf07942f13cfd83d8b2fa91414d5827073d1a5aa727e295592b08eae555443.jpg)  
+![](4dbf07942f13cfd83d8b2fa91414d5827073d1a5aa727e295592b08eae555443.jpg)  
 FIGURE 8-8  
 
 # Export Decisions with Trade Costs  
@@ -408,7 +408,7 @@ When a multinational engages in vertical FDI, it will then ship intermediate goo
 
 In contrast to vertical FDI, horizontal FDI is dominated by flows between developed countries; that is, both the multinational parent and the affiliates are located in developed countries. The main reason for this type of FDI is to locate production near a firm’s large customer bases. Hence, trade and transport costs play a much more important role than production cost differences for these FDI decisions. Consider the example of Toyota, which is the world’s largest motor vehicle producer (at least, at the time of writing, though Volkswagen is a close second). At the start of the 1980s, Toyota produced almost all of its cars and trucks in Japan and exported them throughout the world, but mostly to North America and Europe. High trade costs to those markets (in large part due to trade restrictions; see Chapter 9) and rising demand levels there induced Toyota to slowly expand its production overseas. By 2009, Toyota produced over half of its vehicles in assembly plants abroad. Toyota has replicated the production process for its most popular car model, the Corolla, in assembly plants in Brazil, Canada, China, India, Japan, Pakistan, South Africa, Taiwan, Thailand, Turkey, the United States, the United Kingdom, Vietnam, and Venezuela: This is horizontal FDI in action.  
 
-![](images/71cf62ad8141863d835245fde05636e8aa06b079ce6dc81e602877245b23cb5a.jpg)  
+![](71cf62ad8141863d835245fde05636e8aa06b079ce6dc81e602877245b23cb5a.jpg)  
 FIGURE 8-9  
 
 # Inflows of Foreign Direct Investment, 1970–2019 (Percent of World GDP)  
@@ -427,7 +427,7 @@ Figure 8-10 shows the list of the top 25 countries whose firms engage in FDI out
 
 FDI flows are not the only way to measure the presence of multinationals in the world economy. Other measures are based on economic activities such as sales, value  
 
-![](images/87b521e73d284fae958f123cbeaf06a96b8a0cf18c5d43bba3b5a0d2470c22f9.jpg)  
+![](87b521e73d284fae958f123cbeaf06a96b8a0cf18c5d43bba3b5a0d2470c22f9.jpg)  
 FIGURE 8-10  
 
 # Outward Foreign Direct Investment for Top 25 Countries, Yearly Average for 2017–2019 (billions of dollars)  
@@ -444,7 +444,7 @@ However striking, this comparison is misleading and overstates the influence of 
 
 Figure 8-11 shows how the magnitude of worldwide FDI flows has evolved over the last 30 years. We first examine patterns for the world, where FDI flows must be balanced: Hence world inflows are equal to world outflows. We see that there was a massive increase in multinational activity in the mid- to late-1990s, when worldwide FDI flows more than quintupled and then again in the early 2000s. We also see that the growth rate of FDI is very uneven, with huge peaks and troughs. Significant world financial and currency events during this period, not all of which having affected adversely FDI flows, include the asset price bubble in Japan (1986–2003), the ERM crisis of the early 1990s (that led to the Black Wednesday of 16th September, 1992, when the United Kingdom was forced to withdraw the pound sterling from the ERM), the early 1990s world recession, the savings and loan crisis of the 1990s in the United States, the Finnish and ­Swedish banking crises of the 1990s, the 1994 speculative peso crisis in Mexico, the 1997 Asian financial crisis, the 1998 Russian financial crisis, the economic crisis in Argentina (1998–2002), the dot-com crisis and the late 2000s world financial crisis. Among the above, the early 1990s ERM crisis and the worldwide recession, the Argentinian crisis and the financial collapse in 2000 (the burst of the dotcom bubble) and the most recent financial crisis in 2007–2009 seem to have induced slowdowns or huge crashes in worldwide FDI flows.  Global FDI flows rose modestly in 2019 at $\$1.54$ trillion, following the sizable decline registered in 2017 and again in 2018, when they plummeted to below-average levels.  
 
-![](images/f0a88dbc16e8b30bd02779046ca069b31e005a365bbc06e56aacf9de85cacf11.jpg)  
+![](f0a88dbc16e8b30bd02779046ca069b31e005a365bbc06e56aacf9de85cacf11.jpg)  
 FIGURE 8-11 Global FDI inflows, 1990–2018  
 
 Source: United Nations Conference on Trade and Development, World Investment Report, 2015.  
@@ -457,7 +457,7 @@ Other measures of the presence of multinational firms in the world economy are b
 
 As of June 2020, the crisis caused by the COVID-19 pandemic is expected to have an immediate impact on FDI amount: the physical closure of places of business to contain the spread of the virus causes immediate delays in the implementation of investment projects. Progress on several greenfield projects and many mergers and acquisitions is also temporarily suspended.  
 
-![](images/0923bad00e8b54cd7ae3758c2fb2edf4d7fa8ab4d40033a9953b00b4a7da0bd9.jpg)  
+![](0923bad00e8b54cd7ae3758c2fb2edf4d7fa8ab4d40033a9953b00b4a7da0bd9.jpg)  
 FIGURE 8-12 FDI Outflows, Top 20 Home Economies, 2018 and 2019 (Billions of Dollars)  
 
 Source: United Nations Conference on Trade and Development, World Investment Report, 2020.  
@@ -512,7 +512,7 @@ the time of writing) iPhone 11 Pro Max from Apple, this transaction is recorded 
 
 However, the rise in intermediate good trade (see also the following Case Study) makes these aggregate statistics very misleading. Take the iPhone example. Less than $\$10$ of the $\$490$ total cost represents assembly and testing costs ­(performed in China). The remaining cost ­represents the iPhone’s component costs, which are overwhelmingly produced outside of China (the battery for the iPhone is now produced in China, but that adds just another $\$10$ of Chinese valued added). The manufacturing of these ­components is spread throughout Asia (Korea, Japan, and Taiwan are the largest suppliers), Europe, and the Americas. This last region includes 75 sites in the United States that ­contribute to the production of iPhone ­components and employ $257{,}000\ \mathrm{U}.\mathrm{S}$ . workers.34 For example, the glass screens are produced in ­Kentucky and the Face ID chips in Texas. And many of the component producers outside the United States employ U.S. researchers and engineers. For example, the  
 
-![](images/e9606b467b79c3e93bb1a39ec32a8458f27291c0efefce90eacc0cd0ad3a2163.jpg)  
+![](e9606b467b79c3e93bb1a39ec32a8458f27291c0efefce90eacc0cd0ad3a2163.jpg)  
 
 Korean company Samsung—one of the largest suppliers of iPhone components (by value)— operates research facilities in Texas and California that employ several thousand workers.  
 

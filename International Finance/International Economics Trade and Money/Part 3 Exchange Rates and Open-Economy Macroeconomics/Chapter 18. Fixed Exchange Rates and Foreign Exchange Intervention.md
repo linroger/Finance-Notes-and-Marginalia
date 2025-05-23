@@ -151,7 +151,7 @@ If the central bank were to take no action, the new money market equilibrium wou
 
 To hold the exchange rate fixed at $E^{0}$ when output rises from $Y^{1}$ to $Y^{2}$ , the central bank must purchase foreign assets and thereby raise the money supply from $M^{1}$ to $M^{2}$ .  
 
-![](images/5bcbb80b11f19281c9263daacbfbee2406d0c193bfb2256eabe235cd4e57e111.jpg)  
+![](5bcbb80b11f19281c9263daacbfbee2406d0c193bfb2256eabe235cd4e57e111.jpg)  
 
 The central bank cannot allow this appreciation of the domestic currency to occur if it is fixing the exchange rate, so it will buy foreign assets. As we have seen, the increase in the central bank’s foreign assets is accompanied by an expansion of the domestic money supply. The central bank will continue to purchase foreign assets until the domestic money supply has expanded to $M^{2}$ . At the resulting money market equilibrium (point 2 in the figure), the domestic interest rate again equals $R^{*}$ . Given this domestic interest rate, the foreign exchange market equilibrium remains at point $1^{\prime}$ , with the equilibrium exchange rate still equal to $E^{0}$ .  
 
@@ -175,7 +175,7 @@ Under a floating exchange rate, the increase in the central bank’s domestic as
 
 Initial equilibrium is shown at point 1, where the output and asset markets simultaneously clear at a fixed exchange rate of $E^{0}$ and an output level of $Y^{1}$ . Hoping to increase output to $Y^{2}$ , the central bank decides to increase the money supply by buying domestic assets and shifting $A A^{1}$ to $A A^{2}$ . Because the central bank must maintain ${\cal E}^{0},$ , however, it has to sell foreign assets for domestic currency, an action that decreases the money supply immediately and returns $A A^{2}$ back to $A A^{1}$ . The economy’s equilibrium therefore remains at point 1, with output unchanged at $Y^{1}$ .  
 
-![](images/874d5f0538f2be4905644fd24caf796c3502bfe61acf06ab278db7a44de0213d.jpg)  
+![](874d5f0538f2be4905644fd24caf796c3502bfe61acf06ab278db7a44de0213d.jpg)  
 
 to its original level, so that the asset market schedule is again $A A^{1}$ , is the exchange rate no longer under pressure. The attempt to increase the money supply under a fixed exchange rate thus leaves the economy at its initial equilibrium (point 1). Under a fixed exchange rate, central bank monetary policy tools are powerless to affect the economy’s money supply or its output.  
 
@@ -197,7 +197,7 @@ Unlike monetary policy, fiscal policy can affect output under a fixed exchange r
 
 Fiscal expansion (shown by the shift from $D D^{1}$ to $D D^{2}.$ ) and the intervention that accompanies it (the shift from $A A^{1}$ to $A A^{2}$ ) move the economy from point 1 to point 3.  
 
-![](images/97b0a1509d1a115323f04a0e3e00866b60fb2909e77cfb829d7d3576033f7101.jpg)  
+![](97b0a1509d1a115323f04a0e3e00866b60fb2909e77cfb829d7d3576033f7101.jpg)  
 
 accompanying increase in the money supply explains why fiscal policy is more potent under a fixed rate than under a floating rate.  
 
@@ -213,7 +213,7 @@ Figure 18-4 shows how a devaluation affects the economy. A rise in the level of 
 
 When a currency is devalued from $E^{0}$ to $E^{1}$ , the economy’s equilibrium moves from point 1 to point 2 as both output and the money supply expand.  
 
-![](images/cae08a52d25a82a48c681d591048097df2e2eeb7c0ab125f8d947bd038cdc3b6.jpg)  
+![](cae08a52d25a82a48c681d591048097df2e2eeb7c0ab125f8d947bd038cdc3b6.jpg)  
 
 accompanying the output increase. This excess money demand would push the home interest rate above the world interest rate if the central bank did not intervene in the foreign exchange market. To maintain the exchange rate at its new fixed level, $E^{1}$ , the central bank must therefore buy foreign assets and expand the money supply until the asset market curve reaches $A A^{2}$ and passes through point 2. Devaluation therefore causes a rise in output, a rise in official reserves, and an expansion of the money supply.8  
 
@@ -243,7 +243,7 @@ Figure 18-5 shows the asset markets in equilibrium at points 1 (the money market
 
 To hold the exchange rate fixed at ${\boldsymbol{E}}^{0}$ after the market decides it will be devalued to $E^{1}$ , the central bank must use its reserves to finance a private financial outflow that shrinks the money supply and raises the home interest rate.  
 
-![](images/725c15536f34fc129e63ff54ade5bfcbb4eb5e07434dbe12a3562b7f5b8b2301.jpg)  
+![](725c15536f34fc129e63ff54ade5bfcbb4eb5e07434dbe12a3562b7f5b8b2301.jpg)  
 
 initial equilibrium. Suppose a sudden deterioration in the current account, for example, leads the foreign exchange market to expect the government to devalue in the future and adopt a new fixed exchange rate, $E^{1}$ , that is higher than the current rate, $E^{0}$ . The figure’s upper part shows this change in expectations as a rightward shift in the curve that measures the expected domestic currency return on foreign currency deposits. Since the current exchange rate still is $E^{0}$ , equilibrium in the foreign exchange market (point $2^{\prime}$ ) requires a rise in the domestic interest rate to $R^{*}+(\bar{E^{1}}-E^{0})/\bar{E}^{0}$ , which now equals the expected domestic currency return on foreign currency assets.  
 
@@ -287,7 +287,7 @@ But renewed pressure came when the euro zone entered its own financial crisis la
 
 At that point, the SNB took radical action: In September 2011, it pledged to defend a minimal euro price of CHF 1.2 per euro. It would allow the Swiss franc to depreciate up from that floor, but not to appreciate below it. To accomplish this, the SNB had to buy all the euros the market wished to sell it at a rate of CHF 1.2 per euro.  
 
-![](images/6adb6159c6b31a59eba47f5ad4443dc328ec8a16a85a48bc8a09ca6ca69c6de7.jpg)  
+![](6adb6159c6b31a59eba47f5ad4443dc328ec8a16a85a48bc8a09ca6ca69c6de7.jpg)  
 FIGURE 18-6  
 
 # The Swiss Franc’s Exchange Rate against the Euro and Swiss Foreign Exchange Reserves, 2006–2016  
@@ -348,7 +348,7 @@ Figure 18-7 modifies our earlier picture of asset market equilibrium by adding i
 
 A sterilized purchase of foreign assets leaves the money supply unchanged but raises the riskadjusted return that domestic currency deposits must offer in equilibrium. As a result, the return curve in the upper panel shifts up and to the right. Other things equal, this depreciates the domestic currency from $E^{1}$ to $E^{2}$ .  
 
-![](images/0c7fa1cf4ba95b5e473759869b48024f753f4363fee333300b5edfd891889ff9.jpg)  
+![](0c7fa1cf4ba95b5e473759869b48024f753f4363fee333300b5edfd891889ff9.jpg)  
 
 to depend on the exchange rate.) Equilibrium in the foreign exchange market is at point $1^{\prime}$ , which corresponds to a domestic government debt of $B$ and central bank domestic asset holdings of $A^{1}$ . At that point, the domestic interest rate equals the riskadjusted domestic currency return on foreign deposits [as in equation (18-2)].  
 
@@ -465,7 +465,7 @@ Many economists argued in the 1960s that countries with more flexible exchange r
 
 Figure 18-8 shows, however, that nothing of the sort happened. For industrial countries, the growth rate of international reserves has remained positive since  
 
-![](images/5b75a133068ea744f748e0ba22ec327f2221fa6b666e96ec1473b4224efb550e.jpg)  
+![](5b75a133068ea744f748e0ba22ec327f2221fa6b666e96ec1473b4224efb550e.jpg)  
 FIGURE 18-8  
 
 # Growth Rates of International Reserves  
@@ -484,7 +484,7 @@ Countries can and do choose to hold international reserves in currencies other t
 
 Figure 18-9 shows the importance of four major currencies in countries’ international reserve holdings. During the first decade of the euro’s existence, from its birth in 1999 until 2009, its share in global reserves rose from 18 to 28 percent. Subsequently, however, the euro zone crisis that started in late 2009 (to be discussed in Chapter 21) sapped confidence in the euro as a reserve currency, and its share in global reserves fell back to 20 percent. The dollar’s share has declined from 71 to 64 percent since 1999. Britain’s pound sterling was the world’s leading reserve currency up until the 1920s. That currency, however, now makes up only about 5 percent of global reserves, while the Japanese yen’s share, about three times that of sterling during the mid-1990s, is now slightly lower, at 4 percent.  
 
-![](images/184efa4fb30931207cf3546deed014d8b788d41afec1dc091d6d13c28ef26749.jpg)  
+![](184efa4fb30931207cf3546deed014d8b788d41afec1dc091d6d13c28ef26749.jpg)  
 FIGURE 18-9  
 
 # Currency Composition of Global Reserve Holdings  
@@ -626,7 +626,7 @@ The bond supply curve is vertical at $B-A^{1}$ because the net supply of bonds t
 
 An increase in the supply of domestic currency bonds that the private sector must hold raises the risk premium on domestic currency assets.  
 
-![](images/10b5dc0cdb566a439fd247e9b991bd50f22ee7069046aa1893bef18e5e1fc3b9.jpg)  
+![](10b5dc0cdb566a439fd247e9b991bd50f22ee7069046aa1893bef18e5e1fc3b9.jpg)  
 
 Figure 18A1-1 also shows the effect of a central bank sale of domestic assets that lowers its domestic asset holdings to $A^{2}<A^{1}$ . This sale raises the net supply of domestic currency bonds to $B-\ A^{2}$ and shifts the supply curve to the right. The new equilibrium occurs at point 2, at a risk premium of $\bar{\rho}^{2}>\rho^{1}$ . Similarly, an increase in the domestic currency government debt, $B$ , would raise the risk premium.  
 
@@ -665,7 +665,7 @@ Imagine now that reserves first hit zero at a time such as $T^{\prime}$ , which 
 
 The market stages a speculative attack and buys the remaining foreign reserve stock $\boldsymbol{F}_{T}^{*}$ at time $T,$ which is when the shadow floating exchange rate $E_{t}^{S}$ just equals the precollapse fixed exchange rate $E^{0}$ .  
 
-![](images/e0c1a5bc7681daab56af8bd92c6078b03ca5ddf7951ca70bb825a18886aabf5e.jpg)  
+![](e0c1a5bc7681daab56af8bd92c6078b03ca5ddf7951ca70bb825a18886aabf5e.jpg)  
 
 when foreign reserves are zero, so if reserves first hit zero at time $T^{\prime}$ , the authorities abandon $E^{0}$ forever and the exchange rate jumps immediately to the higher level $E_{T^{\prime}}^{S}$ . There is something wrong with this “equilibrium,” however: Each market participant knows that the home currency will depreciate very sharply at time $T^{\prime}$ and will try to profit by buying foreign reserves from the central bank, at the lower price $E^{0}$ , just an instant before $T^{\prime}$ . Thus the central bank will lose all of its reserves before $T^{\prime}$ , contrary to our assumption that reserves first hit zero at $T^{\prime}$ . So we have not really been looking at an equilibrium after all.  
 
