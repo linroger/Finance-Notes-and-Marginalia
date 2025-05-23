@@ -265,7 +265,7 @@ class ZeroCouponBond:
 import micropip
 await micropip.install("pandas")
 await micropip.install("numpy")
-await micropip.install("pyarrow") # Add this line to install PyArrow
+
 
 import numpy as np
 import pandas as pd
@@ -497,6 +497,223 @@ for _, row in treasury_df.iterrows():
 bonds_df = pd.DataFrame(bonds)
 print("Zero-Coupon Bond Analytics")
 print(bonds_df.round(4))
+```
+
+
+```python
+import micropip
+await micropip.install("pandas")
+await micropip.install("numpy")
+# We are removing 'await micropip.install("pyarrow")' for now due to installation issues in this environment.
+# You may still see a DeprecationWarning from pandas, which can be ignored for current functionality.
+
+import numpy as np
+import pandas as pd
+from typing import Union, List
+from dataclasses import dataclass
+
+@dataclass
+class ZeroCouponBond:
+    """
+    Zero-coupon bond with comprehensive pricing and risk analytics.
+
+    Attributes:
+        face_value: Principal amount paid at maturity
+        maturity: Time to maturity in years
+        yield_rate: Yield to maturity (continuously compounded)
+    """
+    face_value: float
+    maturity: float
+    yield_rate: float
+
+    def price(self) -> float:
+        """Calculate present value using continuous compounding."""
+        # Ensure maturity and yield_rate are not negative for sensible pricing
+        if self.maturity < 0:
+            # Or handle as appropriate, e.g., return NaN or raise specific error
+            print(f"Warning: Negative maturity ({self.maturity}) encountered for price calculation. Result may be nonsensical.")
+        # A negative yield_rate is mathematically possible (e.g. Swiss bonds)
+        return self.face_value * np.exp(-self.yield_rate * self.maturity)
+
+    def price_discrete(self, frequency: int = 1) -> float:
+        """Calculate present value using discrete compounding."""
+        if frequency <= 0:
+            raise ValueError("Frequency must be positive for discrete compounding.")
+        if self.maturity < 0:
+            print(f"Warning: Negative maturity ({self.maturity}) encountered for discrete price calculation. Result may be nonsensical.")
+
+        # Avoid division by zero or issues if yield_rate/frequency = -1
+        base = 1 + self.yield_rate / frequency
+        if base <= 0 and (frequency * self.maturity) % 1 != 0 : # fractional power of non-positive number
+             print(f"Warning: Base for discrete compounding (1+y/f = {base}) is non-positive, and exponent is fractional. Result may be complex or NaN.")
+             return np.nan # Or handle as appropriate
+
+        return self.face_value / (base ** (frequency * self.maturity))
+
+    def duration(self) -> float:
+        """Modified duration (price sensitivity to yield changes)."""
+        # For a zero-coupon bond under continuous compounding, modified duration equals maturity.
+        # If maturity is negative, duration would be negative, which is unusual but mathematically follows.
+        return self.maturity
+
+    def convexity(self) -> float:
+        """Convexity (second-order price sensitivity)."""
+        # For a zero-coupon bond under continuous compounding.
+        # If maturity is negative, maturity^2 is positive.
+        return self.maturity ** 2
+
+    def dv01(self) -> float:
+        """Dollar value of 01 (price change for 1bp yield change)."""
+        # DV01 = - (dP/dy) * 0.0001
+        # For continuous compounding, dP/dy = -M * P
+        # So, DV01 = M * P * 0.0001 = Price * Duration * 0.0001
+        # If maturity (duration) is negative, DV01 would be negative.
+        current_price = self.price()
+        # If price is NaN (e.g., due to bad inputs), DV01 should also reflect that.
+        if np.isnan(current_price):
+            return np.nan
+        return current_price * self.duration() * 0.0001
+
+    def yield_from_price(self, price: float) -> float:
+        """Calculate yield to maturity from market price (continuously compounded)."""
+        if price <= 0:
+            # Log of non-positive number is undefined.
+            print(f"Warning: Non-positive price ({price}) provided to yield_from_price. Returning NaN.")
+            return np.nan
+        if self.face_value <= 0:
+            print(f"Warning: Non-positive face_value ({self.face_value}) in yield_from_price. Returning NaN.")
+            return np.nan
+        if self.maturity == 0:
+            # If maturity is 0, price should ideally be face_value.
+            # If price is not face_value, yield is undefined or infinite.
+            # If price == face_value, any yield is technically valid (0 * y = 0).
+            # Conventionally, might return 0 or NaN.
+            print(f"Warning: Zero maturity provided to yield_from_price. Returning NaN as yield is ill-defined.")
+            return np.nan
+        if self.maturity < 0:
+            print(f"Warning: Negative maturity ({self.maturity}) in yield_from_price. Yield interpretation might be unusual.")
+            # The formula still works: -ln(P/F) / (-M) = ln(P/F) / M
+
+        # P = F * exp(-yM) => P/F = exp(-yM) => ln(P/F) = -yM => y = -ln(P/F) / M
+        # Ensure P/F is positive for np.log
+        ratio = price / self.face_value
+        if ratio <= 0:
+            print(f"Warning: Price/FaceValue ratio ({ratio}) is non-positive in yield_from_price. Returning NaN.")
+            return np.nan
+
+        return -np.log(ratio) / self.maturity
+
+    def forward_rate(self, start_time: float, end_time: float) -> float:
+        """
+        Calculate the theoretical forward rate between start_time and end_time.
+        This assumes self.yield_rate is the spot rate for self.maturity and that
+        the yield curve is flat at self.yield_rate for all maturities up to self.maturity,
+        or that self.yield_rate is the relevant spot rate for calculations.
+        """
+        if not (0 <= start_time < end_time):
+            raise ValueError("Invalid time parameters for forward_rate: must have 0 <= start_time < end_time.")
+
+        # For a flat yield curve where the spot rate R(t) = self.yield_rate for all t,
+        # the forward rate F(T1, T2) = (R(T2)*T2 - R(T1)*T1) / (T2 - T1)
+        # becomes (self.yield_rate * T2 - self.yield_rate * T1) / (T2 - T1)
+        # = self.yield_rate * (T2 - T1) / (T2 - T1) = self.yield_rate.
+        return self.yield_rate
+
+def get_treasury_data():
+    """Fetch current Treasury rates for zero-coupon bond examples."""
+    # Treasury rates as of May 23, 2025 (simulated for example)
+    # Source: Simulated data for illustrative purposes
+    treasury_data = {
+        'maturity': [0.25, 0.5, 1.0, 2.0, 3.0, 5.0, 7.0, 10.0, 20.0, 30.0], # Years
+        'yield': [5.25, 5.15, 4.95, 4.85, 4.75, 4.65, 4.70, 4.75, 4.90, 4.95]  # Annualized YTM in percent
+    }
+    # Log the source and date of the data
+    print("Fetching Treasury data (Simulated as of May 23, 2025)")
+    return pd.DataFrame(treasury_data)
+
+# Example calculations
+# Ensure all pandas operations are clearly explained
+print("\nStep 1: Fetching and displaying initial Treasury data.")
+treasury_df = get_treasury_data()
+print("Initial Treasury Data:")
+print(treasury_df) # Using print instead of display
+
+# Create zero-coupon bonds for each maturity
+print("\nStep 2: Processing each Treasury instrument to calculate bond analytics.")
+bonds_data_list = [] # Changed variable name for clarity
+for index, row in treasury_df.iterrows():
+    # For each row in the treasury_df, create a ZeroCouponBond instance
+    # The face_value is assumed to be $1000 for these examples.
+    # The maturity is taken from the 'maturity' column of the DataFrame.
+    # The yield_rate is taken from the 'yield' column and converted from percent to decimal.
+    print(f"\nProcessing bond with maturity: {row['maturity']} years, yield: {row['yield']}%")
+    bond = ZeroCouponBond(
+        face_value=1000,      # Standard assumption for examples
+        maturity=row['maturity'],
+        yield_rate=row['yield'] / 100  # Convert percentage to decimal
+    )
+
+    # Calculate analytics for this bond
+    calculated_price = bond.price()
+    calculated_duration = bond.duration()
+    calculated_convexity = bond.convexity()
+    calculated_dv01 = bond.dv01()
+
+    print(f"  - Calculated Price: ${calculated_price:.4f}")
+    print(f"  - Calculated Duration: {calculated_duration:.4f} years")
+    print(f"  - Calculated Convexity: {calculated_convexity:.4f}")
+    print(f"  - Calculated DV01: ${calculated_dv01:.4f}")
+
+    # Append the results as a dictionary to the list
+    bonds_data_list.append({
+        'Maturity (Years)': row['maturity'],
+        'Yield (%)': row['yield'],
+        'Price ($)': calculated_price,
+        'Duration': calculated_duration,
+        'Convexity': calculated_convexity,
+        'DV01 ($)': calculated_dv01
+    })
+
+# Convert the list of dictionaries into a pandas DataFrame for better display
+print("\nStep 3: Consolidating calculated bond analytics into a DataFrame.")
+bonds_df = pd.DataFrame(bonds_data_list)
+
+# Display the final DataFrame with bond analytics
+# The .round(4) method is used to round all numerical values to 4 decimal places for cleaner output.
+print("\nZero-Coupon Bond Analytics (Calculated from Treasury Data):")
+print(bonds_df.round(4)) # Using print instead of display for compatibility
+
+# Further example: Calculate yield from a given price for the 10-year bond
+print("\nStep 4: Example - Calculate yield from a given market price for the 10-year bond.")
+if not bonds_df[bonds_df['Maturity (Years)'] == 10.0].empty:
+    ten_year_bond_details = bonds_df[bonds_df['Maturity (Years)'] == 10.0].iloc[0]
+    ten_year_yield_from_treasury = ten_year_bond_details['Yield (%)'] / 100.0
+
+    # Create a ZeroCouponBond instance for the 10-year bond
+    # We use its actual maturity and face value, but we will vary the price.
+    ten_year_zcb = ZeroCouponBond(face_value=1000, maturity=10.0, yield_rate=ten_year_yield_from_treasury)
+
+    # Assume a market price slightly different from its theoretical price
+    market_price_example = ten_year_zcb.price() * 0.98 # e.g., 2% cheaper than theoretical
+    print(f"  - Assuming a market price of ${market_price_example:.2f} for the 10-year bond (Face Value $1000).")
+
+    calculated_yield = ten_year_zcb.yield_from_price(price=market_price_example)
+    if not np.isnan(calculated_yield):
+        print(f"  - Calculated YTM from this market price: {calculated_yield * 100:.4f}%")
+    else:
+        print(f"  - Could not calculate YTM from the market price ${market_price_example:.2f}.")
+
+    # Example of discrete pricing for the 10-year bond
+    price_annual_discrete = ten_year_zcb.price_discrete(frequency=1)
+    price_semiannual_discrete = ten_year_zcb.price_discrete(frequency=2)
+    print(f"  - Price (10-yr bond, {ten_year_bond_details['Yield (%)']:.2f}% YTM, Annual Discrete Compounding): ${price_annual_discrete:.2f}")
+    print(f"  - Price (10-yr bond, {ten_year_bond_details['Yield (%)']:.2f}% YTM, Semi-Annual Discrete Compounding): ${price_semiannual_discrete:.2f}")
+
+else:
+    print("  - 10-year bond not found in the dataset for yield calculation example.")
+
+print("\nScript execution complete.")
+
 ```
 
 ### 2.9 Replicating Portfolio Analysis
