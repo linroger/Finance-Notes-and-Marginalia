@@ -753,6 +753,68 @@ gantt
     Principal Payment     :milestone, m2, 5, 5
 ```
 
+
+
+```plotly
+data:
+  - type: 'bar'
+    x: [0, 5]
+    y: [-795.26, 1000.00]
+    text: ['-$795.26', '$1,000.00']
+    textposition: 'outside'
+    textfont:
+      size: 10 # Slightly smaller font for the text on bars for better fit
+    marker:
+      color: ['red', 'green']
+    name: 'Cash Flows'
+    hovertext: ['Initial Investment (Purchase)', 'Face Value (Maturity)']
+    hoverinfo: 'x+y+text+name'
+    width: [0.6, 0.6] # Makes bars a bit narrower than default
+layout:
+  title:
+    text: 'Zero-Coupon Bond Cash Flow Visualization'
+    # x: 0.5 # Ensure title is centered
+    # y: 0.95 # Adjust vertical position if needed
+  xaxis:
+    title:
+      text: 'Year'
+      standoff: 20 # Increased standoff for more space between title and ticks
+    tickmode: 'array'
+    tickvals: [0, 5]
+    zeroline: true       # Show the horizontal line at y=0
+    zerolinewidth: 2
+    zerolinecolor: 'Black' # Style for the horizontal line at y=0
+  yaxis:
+    title:
+      text: 'Cash Flow Amount ($)'
+      standoff: 10
+    # Explicitly set the y-axis range to give text more breathing room,
+    # especially for the negative bar's outside text.
+    range: [-950, 1150] 
+    zeroline: true       # Show the vertical line at x=0
+    zerolinewidth: 1     # Thinner line for vertical zeroline at x=0
+    zerolinecolor: 'DarkGray' # Style for the vertical line at x=0 (less prominent than image)
+    # Control the main y-axis line itself if needed
+    # showline: true
+    # linecolor: 'LightGray'
+    # linewidth: 1
+  legend:
+    orientation: "h"
+    yanchor: "bottom"
+    y: -0.30 # Adjusted y position for legend due to increased standoff/margins
+    xanchor: "center"
+    x: 0.5
+  margin: # Add margins to provide padding around the plot area
+    l: 60  # Left margin
+    r: 30  # Right margin
+    b: 100 # Bottom margin (to accommodate x-axis title, standoff, and legend)
+    t: 80  # Top margin (for title and text on positive bar)
+    pad: 5 # Padding between plot area and axes/titles
+config:
+  displaylogo: false
+  responsive: true
+```
+
 For a 5-year, $1,000 face value zero-coupon bond with 4.65% yield:
 - **Time 0**: Pay $795.26 (present value)
 - **Time 5**: Receive $1,000 (face value)
