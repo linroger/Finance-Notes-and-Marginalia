@@ -1165,15 +1165,14 @@ $$P = \sum_{i=1}^n \frac{E[Coupon_i]}{(1+r_i)^{t_i}} + \frac{Principal}{(1+r_n)^
 #### 3.7.3 Caps and Floors
 
 Many FRNs include embedded caps (maximum rate) and floors (minimum rate).
-
 **Capped FRN**:
-$$Coupon_t = min(Reference\ Rate_t + Spread, Cap\ Rate)$$
+$$ \text{Coupon}_t = \min(\text{Reference Rate}_t + \text{Spread}, \text{Cap Rate}) $$
 
 **Floored FRN**:
-$$Coupon_t = max(Reference\ Rate_t + Spread, Floor\ Rate)$$
+$$ \text{Coupon}_t = \max(\text{Reference Rate}_t + \text{Spread}, \text{Floor Rate}) $$
 
 **Collared FRN**:
-$$Coupon_t = max(Floor, min(Cap, Reference\ Rate_t + Spread))$$
+$$ \text{Coupon}_t = \max(\text{Floor Rate}, \min(\text{Cap Rate}, \text{Reference Rate}_t + \text{Spread})) $$
 
 ### 3.8 Asset-Backed Securities (ABS)
 
@@ -1222,17 +1221,9 @@ Cash flows are distributed in order of seniority:
 Pass-through securities distribute principal and interest payments from the underlying mortgage pool proportionally to all bondholders.
 
 **Weighted Average Coupon (WAC)**:
-```latex
-$$ \text{WAC} = \frac{\sum_{i=1}^n \text{Mortgage Balance}_i \times \text{Coupon Rate}_i}{\sum_{i=1}^n \text{Mortgage Balance}_i} $$
-```
-Rendered:
 $$\text{WAC} = \frac{\sum_{i=1}^n \text{Mortgage Balance}_i \times \text{Coupon Rate}_i}{\sum_{i=1}^n \text{Mortgage Balance}_i}$$
 
 **Weighted Average Maturity (WAM)**:
-```latex
-$$ \text{WAM} = \frac{\sum_{i=1}^n \text{Mortgage Balance}_i \times \text{Remaining Term}_i}{\sum_{i=1}^n \text{Mortgage Balance}_i} $$
-```
-Rendered:
 $$\text{WAM} = \frac{\sum_{i=1}^n \text{Mortgage Balance}_i \times \text{Remaining Term}_i}{\sum_{i=1}^n \text{Mortgage Balance}_i}$$
 
 #### 3.9.2 Prepayment Modeling
@@ -1245,10 +1236,6 @@ Mortgages can be prepaid, creating uncertainty in cash flows.
 - Remains at 6% CPR thereafter
 
 **Single Monthly Mortality (SMM)**:
-```latex
-$$ \text{SMM} = 1 - (1 - \text{CPR})^{1/12} $$
-```
-Rendered:
 $$\text{SMM} = 1 - (1 - \text{CPR})^{1/12}$$
 
 **Prepayment Factors**:
@@ -1277,9 +1264,91 @@ CMOs redirect cash flows from mortgage pools to create bonds with different char
 
 #### 3.9.4 Illustrative MBS Pass-Through Cash Flow Diagram 💸
 
+```plotly
+data:
+  # Initial Investment (Outflow)
+  - type: 'bar'
+    x: [0] # Month 0
+    y: [-100] # Illustrative investment amount
+    text: ['-$100.00']
+    textposition: 'outside'
+    textfont: {size: 10}
+    marker: {color: 'red'}
+    name: 'Investment'
+    hovertext: ['Purchase of MBS Share']
+    hoverinfo: 'x+y+text+name'
+    width: 0.5
+
+  # Scheduled Interest (Inflow Component)
+  - type: 'bar'
+    x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12] # Months 1-12
+    y: [5.0, 4.9, 4.8, 4.6, 4.5, 4.3, 3.8, 3.3, 2.8, 2.3, 1.8, 1.3] # Illustrative scheduled interest
+    name: 'Scheduled Interest'
+    marker: {color: 'dodgerblue'}
+    hoverinfo: 'x+y+name' # y refers to this segment's value
+
+  # Scheduled Principal (Inflow Component)
+  - type: 'bar'
+    x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12] # Months 1-12
+    y: [10.0, 10.1, 10.2, 10.4, 10.5, 10.7, 11.2, 11.7, 12.2, 12.7, 13.2, 13.7] # Illustrative scheduled principal
+    name: 'Scheduled Principal'
+    marker: {color: 'mediumseagreen'}
+    hoverinfo: 'x+y+name'
+
+  # Prepayments (Inflow Component)
+  - type: 'bar'
+    x: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12] # Months 1-12
+    y: [2.0, 2.0, 5.0, 5.0, 8.0, 15.0, 15.0, 12.0, 10.0, 8.0, 6.0, 20.0] # Illustrative prepayments
+    name: 'Prepayments'
+    marker: {color: 'sandybrown'}
+    hoverinfo: 'x+y+name'
+    # text on stacked segments can be tricky; hoverinfo is usually clearer
+    # If you want text for each segment:
+    # text: [2.0, 2.0, 5.0, 5.0, 8.0, 15.0, 15.0, 12.0, 10.0, 8.0, 6.0, 20.0] 
+    # texttemplate: '%{y}' # or just text, if values are strings
+    # textposition: 'inside' # or 'auto'
+    # textfont: {size: 8, color: 'white'}
+
+
+layout:
+  title:
+    text: 'Illustrative Monthly MBS Cash Flows (Amortization & Prepayment)'
+  barmode: 'stack' # Key for stacking Scheduled Interest, Principal, and Prepayments
+  xaxis:
+    title:
+      text: 'Month'
+      standoff: 20
+    tickmode: 'array'
+    tickvals: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    zeroline: true
+    zerolinewidth: 2
+    zerolinecolor: 'Black' # Horizontal line at y=0
+  yaxis:
+    title:
+      text: 'Cash Flow Amount ($)'
+      standoff: 10
+    range: [-120, 45] # Adjusted for investment outflow and max monthly inflow
+    zeroline: false # No vertical line at x=0 for cleaner stacked chart
+  legend:
+    orientation: "h"
+    yanchor: "bottom"
+    y: -0.35 # Adjusted for potentially more x-axis labels
+    xanchor: "center"
+    x: 0.5
+    traceorder: 'normal' # To match data order (Interest, Sched. Principal, Prepayments)
+  margin:
+    l: 60
+    r: 30
+    b: 110 # Increased bottom margin for more x-axis labels and legend
+    t: 80
+    pad: 5
+config:
+  displaylogo: false
+  responsive: true
+```
+
 Below is an example of how you could visualize the cash flows for an illustrative Mortgage-Backed Pass-Through security using the Obsidian Plotly plugin. This is a simplified example showing an initial investment and subsequent periodic (e.g., annualized) cash inflows representing principal and interest. Actual MBS cash flows are typically monthly and more complex due to amortization and prepayments.
 
-Place the following YAML code inside a `plotly` block in Obsidian:
 
 ```plotly
 data:
@@ -1520,7 +1589,7 @@ print(international_df)
 #### 3.14.2 Carry Trades
 
 **Positive Carry**: When coupon income exceeds financing cost
-$$Carry = Coupon\ Income - Financing\ Cost$$
+$$\text{Carry} = \text{Coupon\ Income} - \text{Financing\ Cost}$$
 
 **Rolling Down the Curve**: Benefiting from yield curve shape as bond approaches maturity
 
@@ -1832,14 +1901,10 @@ $$Coupon = Notional \times Rate \times \frac{Days\ in\ Range}{Total\ Days}$$
 
 #### 4.6.1 Short Rate Models
 
-**Vasicek Model**:
-$$dr_t = \kappa(\theta - r_t)dt + \sigma dW_t$$
-
-**Advantages**: Analytical bond prices, mean reversion
+**Vasicek Model**: $$dr_t = \kappa(\theta - r_t)dt + \sigma dW_t$$**Advantages**: Analytical bond prices, mean reversion
 **Disadvantages**: Negative rates possible
 
-**Bond Price Formula**:
-$$P(t,T) = A(t,T) e^{-B(t,T) r_t}$$
+**Bond Price Formula**: $$P(t,T) = A(t,T) e^{-B(t,T) r_t}$$
 
 Where:
 $$B(t,T) = \frac{1 - e^{-\kappa(T-t)}}{\kappa}$$
