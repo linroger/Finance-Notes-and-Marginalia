@@ -1,6 +1,7 @@
 ---
-title: Chapter 14Capital Flows and the Current Account
-cssclasses: academia
+title: Chapter 14-Capital Flows and the Current Account
+cssclasses:
+  - academia
 tags:
   - capital_flows
   - international_trade
@@ -8,7 +9,6 @@ tags:
   - trade_balance
   - trade_surplus
 aliases:
-  - Chapter 14
   - Net Exports
   - Trade Deficit
 key_concepts:
