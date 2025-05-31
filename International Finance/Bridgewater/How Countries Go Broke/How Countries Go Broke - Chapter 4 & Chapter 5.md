@@ -19,14 +19,6 @@ key_concepts:
   - Hard vs. fiat money
 ---
 
-*This post was originally published on January 22, 2025. Since that time, the content has been updated both in the free PDF available at* *economicprinciples.org* *and for the print book, How Countries Go Broke, available* *here*-Economic-Ray-Dalio/dp/1501124064?maas=maas_adg_6BE5147C84819B6C7B86AEDBD87680CD_afap_abs&ref_=aa_maas&tag=maas) *and at other booksellers.*
-
----
-
-The following is an excerpt from an early draft from my new book, How Countries Go Broke, which is available for pre-order here-Economic-Ray-Dalio/dp/1501124064/ref=sr_1_1?crid=XOCA3ZTYL6CU&dib=eyJ2IjoiMSJ9.YkMKxgt74urg8QSxlqNskvA_5CZe4P9TQCOpI05f8bn_OQkSrZnTOG2Wceus81A550iLhZeXNUEZyQ6r20IS7BW4sxiTsDS6XNSaR6U0CvLqRcjz1AbTpJYqLKD_jkJUQQJOMyB7aq31Yj5LSzp9D_LOZ8YCRZI65eRxTKdrMnh9E5a3NgStVkR1VFvkInIvnaItAtMxzjgNI7qrkg_Ik4Aihgf9Ttt2yszAm3GSkJg.hgOF8vURIysjRYA9XDbyMZIoHfOXAIMWeGCIpa9XmGY&dib_tag=se&keywords=how+countries+go+broke&qid=1736773669&sprefix=how+countries+go+bro%2Caps%2C441&sr=8-1).
-
-View the previous installation of this study here.
-How Countries Go Broke - Chapter 4 & Chapter 5 Notes]]
 ## Part 2: The Archetypical Sequence Leading to Central Governments and Central Banks Going Broke
 
 *The same basic sequence of events that has led central governments and central banks to go broke has happened repeatedly throughout history and it isn’t well understood. The purpose of this part is to describe it so that it is well understood. In this part, I provide a template of the typical case and the most important reasons for the two major types of cases: 1) those in which the debt is denominated in currencies that the country’s central bank can print, and 2) those in which the debt is denominated in currencies that the central bank can’t print. After I make that clear, in the next part I will review how the current Big Cycle, starting in 1944 and continuing until now, transpired relative to the archetypical, timeless and universal template described here.*
