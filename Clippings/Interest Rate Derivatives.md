@@ -22,8 +22,6 @@ key_concepts:
 ---
 
 
-Investopedia / Michela Buttignol
-
 ## What Is an Interest Rate Derivative?
 
 An interest rate derivative is a financial instrument with a value that is linked to the movements of an interest rate or rates. These may include futures, options, or swaps contracts. Interest rate derivatives are often used as hedges by institutional investors, banks, companies, and individuals to protect themselves against changes in market interest rates, but they can also be used to increase or refine the holder's risk profile or to speculate on rate moves.

@@ -34,15 +34,15 @@ There are many descriptions for trade in components, half-finished products, and
 
 **Offshoring and outsourcing.** A common, and precise, term to describe the global integration of production is **offshoring**. Offshoring is the procurement of intermediate inputs from abroad. Offshoring thus characterizes a production stage by its location: outside a country's borders, not within. Intermediate production steps can be located offshore (abroad) or onshore (at home).
 
-Unfortunately, the same phenomenon is sometimes also called *outsourcing*. But in microeconomics and industrial organization the term outsourcing has been reserved for a long time to mean something completely different. The conventional notion of outsourcing relates to the make-or-buy Table 6.1: Offshoring and Outsourcing
+Unfortunately, the same phenomenon is sometimes also called *outsourcing*. But in microeconomics and industrial organization the term outsourcing has been reserved for a long time to mean something completely different. The conventional notion of outsourcing relates to the make-or-buy decision that a firm makes for the production of its output. If a production stage is not kept in-house (within the firm) but is sent to another firm to perform, then it is said to be outsourced.Table 6.1: Offshoring and Outsourcing 
 
-|                               | Make-or-Buy (Outsourcing) Decision   |                                       |  |  |
-|-------------------------------|--------------------------------------|---------------------------------------|--|--|
-| Offshoring Decision           | Production<br>within firm boundaries | Production<br>outside firm boundaries |  |  |
-| Location within home borders  | In-house onshore production          | Arm's length onshore production       |  |  |
-| Location outside home borders | In-house offshoring                  | Arm's length offshoring               |  |  |
+|                               | Make-or-Buy (Outsourcing) Decision   |                                       |
+| ----------------------------- | ------------------------------------ | ------------------------------------- |
+| Offshoring Decision           | Production<br>within firm boundaries | Production<br>outside firm boundaries |
+| Location within home borders  | In-house onshore production          | Arm's length onshore production       |
+| Location outside home borders | In-house offshoring                  | Arm's length offshoring               |
 
-decision that a firm makes for the production of its output. If a production stage is not kept in-house (within the firm) but is sent to another firm to perform, then it is said to be outsourced.
+
 
 Firms have four options when it comes to the make-or-buy decision. Table 6.1 depicts them. First, there is basic **in-house onshore production**, whereby a firm makes all of its parts itself in its home country. Second, there is **arm's length onshore production**, whereby a firm procures components from suppliers in its home country .
 
