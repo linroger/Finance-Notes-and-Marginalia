@@ -1843,7 +1843,11 @@ graph LR
 
 The following table details individual asset returns across various historical cases:
 
+```latex
+\begin{document}
 \begin{tabular}{|l|c|c|c|c|c|} \hline \textbf{Case} & \textbf{Gold} & \textbf{Commodities} & \textbf{Equities} & \textbf{Bonds} & \textbf{Gold vs Bonds} \ & \textbf{(Local FX)} & \textbf{(Local FX)} & & & \textbf{(Vol-Matched)} \ \hline \textbf{Average Return} & 81% & 55% & 34% & -5% & 94% \ \textbf{Median Return} & 66% & 49% & 3% & -2% & 71% \ \hline Japan: World War II & 282% & 203% & 100% & -53% & 335% \ Germany: Weimar & 245% & 241% & 754% & -99% & 501% \ USA: 1971 Devaluation & 185% & 162% & -44% & -6% & 191% \ Italy: World War II & 173% & 156% & 92% & -28% & 201% \ USA: Great Depression & 149% & 70% & 33% & 19% & 130% \ \hline \end{tabular}
+\end{document}
+```
 
 _Table shows returns from devaluation through currency stabilization. Returns are indicative given data quality issues in crisis periods._
 
