@@ -1723,12 +1723,9 @@ graph TD
 Though central banks can print money indefinitely, this power becomes a curse rather than a blessing. Large-scale money printing to fund operations devalues the currency and generates inflationary recessions or depressions. The central bank finds itself trapped between competing imperatives: maintaining policy loose enough to support a fragile economy and weak government finances while keeping it tight enough to prevent capital flight.
 
 This impossible balancing act manifests in several ways:
-
-### a) Central Banks Accumulate Massive Losses and Negative Net Worth
-
-After purchasing enormous quantities of bonds, central banks face devastating losses when interest rates rise. Bond prices plummet while funding costs soar as short-term rates exceed the yields on their long-duration portfolios. These losses often grow so large that central banks' net worth turns deeply negative.
-
-This represents another red flag in the progression toward crisis. Today, several central banks operate with negative equity, seemingly without immediate consequence. At moderate levels, such technical insolvency poses few operational problems. However, as losses mount from moderate to massive, the cash flow implications become undeniable.
+	a. Central Banks Accumulate Massive Losses and Negative Net Worth
+		- After purchasing enormous quantities of bonds, central banks face devastating losses when interest rates rise. Bond prices plummet while funding costs soar as short-term rates exceed the yields on their long-duration portfolios. These losses often grow so large that central banks' net worth turns deeply negative.
+		- This represents another red flag in the progression toward crisis. Today, several central banks operate with negative equity, seemingly without immediate consequence. At moderate levels, such technical insolvency poses few operational problems. However, as losses mount from moderate to massive, the cash flow implications become undeniable.
 
 > [!info] Why Central Bank Losses Matter While central banks can operate with negative equity, massive losses matter because:
 > 
@@ -1754,7 +1751,7 @@ The following table documents historical cases where cash flow losses became so 
 
 These cases share common characteristics: Large losses relative to smaller balance sheets created enormous liability costs versus minimal asset yields. Governments chose monetization over recapitalization, and the printed money fled the currency as savers, already burned by previous devaluations, faced continued negative real rates. The losses contributed to massive currency collapses in every instance.
 
-### b) The Central Bank Must Print Money Despite Currency Pressure
+b.  The Central Bank Must Print Money Despite Currency Pressure
 
 Confronted with these circumstances, central banks ultimately must print money to monetize both their own losses and those of other critical institutions. This occurs through direct asset purchases or indirect guarantees and backstops. Central banks typically absorb losses on assets bought at uneconomical prices through defaults, inflation, and rising rates—transferring balance sheet damage from governments to central banks and ultimately to currency holders.
 
@@ -1916,7 +1913,7 @@ The charts below reveal tax rate evolution across historical cases. Both top mar
 
 Higher taxes invariably accompany capital controls as governments attempt to prevent wealth from fleeing in response to confiscatory policies. The table below demonstrates just how common this pattern has been throughout history:
 
-\begin{tabular}{|l|c|c|c|c|c|c|} \hline \textbf{Country} & \textbf{1900} & \textbf{1920} & \textbf{1940} & \textbf{1960} & \textbf{1980} & \textbf{2000} \ \hline UK & Yes & Yes & Yes & Yes & & \ USA & Yes & Yes & & & & \ China & & & Yes & Yes & Yes & \ Germany & Yes & Yes & Yes & Yes & & \ France & Yes & & & Yes & & \ Russia & Yes & Yes & Yes & Yes & Yes & Yes \ Austria-Hungary & Yes & & & & & \ Italy & & Yes & & & & \ Netherlands & & & & Yes & & \ Japan & & Yes & & Yes & & \ \hline \end{tabular}
+$$\begin{tabular}{|l|c|c|c|c|c|c|} \hline \textbf{Country} & \textbf{1900} & \textbf{1920} & \textbf{1940} & \textbf{1960} & \textbf{1980} & \textbf{2000} \ \hline UK & Yes & Yes & Yes & Yes & & \ USA & Yes & Yes & & & & \ China & & & Yes & Yes & Yes & \ Germany & Yes & Yes & Yes & Yes & & \ France & Yes & & & Yes & & \ Russia & Yes & Yes & Yes & Yes & Yes & Yes \ Austria-Hungary & Yes & & & & & \ Italy & & Yes & & & & \ Netherlands & & & & Yes & & \ Japan & & Yes & & Yes & & \ \hline \end{tabular}$$
 
 ## Stage 9: From Ashes to Equilibrium—The Deleveraging Creates Space for Recovery
 
@@ -2029,3 +2026,4 @@ When these conditions align, it creates one of history's best opportunities to o
 ![](https://cdn-mineru.openxlab.org.cn/extract/68b05bf6-0171-4bbd-aaac-dab7b8a958c9/f5e976b7b3b0358f5f6990a082d9f1203ad675fda0bcef8bd8712c0194ca7537.jpg)
 
 This represents the typical conclusion of the Big Debt Cycle. Having examined these dynamics in detail, let's now step back to observe how this cycle has unfolded over the past 80 years at the macro level.
+
