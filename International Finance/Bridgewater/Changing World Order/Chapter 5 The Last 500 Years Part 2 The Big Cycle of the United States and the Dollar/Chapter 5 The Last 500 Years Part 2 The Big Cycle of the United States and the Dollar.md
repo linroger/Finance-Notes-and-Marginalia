@@ -262,7 +262,6 @@ In Part 2 of this chapter, we will explore the new world order starting with the
  | 1655-1660 | Dutch-Swedish War | SWE | NLD | Yes | Yes | -** | -** | Moderate | 
  | 1651-1654 | First Anglo-Dutch War | GBR | USA, NLD | Yes | Yes | -** | -** | Moderate | 
  | 1645-1669 | Cretan War | ITA | OTT | Yes | Yes | -** | -** | Severe | 
-
  | 1618-1648 | Thirty Years' War | NLD | ESP | Yes | No | -** | -** | Moderate | 
  | ----------- | --------------------------- | ----- | ----- | ----- | ---- | ----- | ----- | ---------- | 
  | 1602-1654 | Dutch-Port. Colonial Wars | NLD | POR | Yes | No | -** | -** | Severe | 
