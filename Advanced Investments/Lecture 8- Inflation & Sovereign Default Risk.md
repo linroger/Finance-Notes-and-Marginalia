@@ -201,27 +201,27 @@ The two slope coefficients $\beta_{\pi}$ and $\beta_{\mathbb{E} \pi}$ capture ex
 
 **Panel A: Long-term bonds**
 
-|                            | Coeff. | $t$-stat |
-| -------------------------- | ------ | -------- |
-| $\beta_{\pi}$ (UE)         | -2.39  | -11.93   |
-| $\beta_{E\pi}$ ($\Delta$E) | -5.29  | -3.11    |
-| $R^2$                      | 0.49   |          |
+|                            | Coeff. | t-stat |
+| -------------------------- | ------ | ------ |
+| $\beta_{\pi}$ (UE)         | -2.39  | -11.93 |
+| $\beta_{E\pi}$ ($\Delta$E) | -5.29  | -3.11  |
+| $R^2$                      | 0.49   |        |
 
 **Panel B: Stocks**
 
-|                            | Coeff. | $t$-stat |
-| -------------------------- | ------ | -------- |
-| $\beta_{\pi}$ (UE)         | -2.33  | -0.62    |
-| $\beta_{E\pi}$ ($\Delta$E) | -0.34  | -0.26    |
-| $R^2$                      | 0.02   |          |
+|                            | Coeff. | t-stat |
+| -------------------------- | ------ | ------ |
+| $\beta_{\pi}$ (UE)         | -2.33  | -0.62  |
+| $\beta_{E\pi}$ ($\Delta$E) | -0.34  | -0.26  |
+| $R^2$                      | 0.02   |        |
 
 **Panel C: Gold**
 
-|                            | Coeff. | $t$-stat |
-| -------------------------- | ------ | -------- |
-| $\beta_{\pi}$ (UE)         | 1.81   | 0.52     |
-| $\beta_{E\pi}$ ($\Delta$E) | 6.13   | 1.74     |
-| $R^2$                      | 0.08   |          |
+|                            | Coeff. | t-stat |
+| -------------------------- | ------ | ------ |
+| $\beta_{\pi}$ (UE)         | 1.81   | 0.52   |
+| $\beta_{E\pi}$ ($\Delta$E) | 6.13   | 1.74   |
+| $R^2$                      | 0.08   |        |
 Table (8.1) shows the results from these regressions for three asset classes: U.S. Treasury bonds with maturities between 5 to 10 years, the CRSP value-weighted stock market index, and gold. The data is from 1971 to 2023. The results in the table show stark differences across asset classes.
 
 Real returns of long-term bonds have strong exposure to inflation risks. A one percentage point higher unexpected inflation is associated with 2.39 percentage points lower real return during the same period. A one percentage point rise in one-year inflation expectations is associated with 2.29 percentage points lower long-term bond returns! A rise in inflation expectations is terrible news for nominal long-term bond holders. The $R^{2}$ of this regression of $49\%$ also highlights that unexpected inflation shocks and changes in inflation expectations together explain a large share of variation in long-term bond returns. These were the key macro factors for long-term bond returns over the past five decades.
