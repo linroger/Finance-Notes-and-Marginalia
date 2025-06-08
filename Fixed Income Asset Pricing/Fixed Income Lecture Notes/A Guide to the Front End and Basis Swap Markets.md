@@ -16,84 +16,110 @@ tags:
   - "#ois"
   - "#prime_basis_swaps"
 ---
- | Introduction | 5 |
- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ | --- | 
- | The Basics | 7 |
- | London Interbank Offered Rate (LIBOR) | 7 |
- | Federal Funds Market | 9 |
- | Basis Swap Markets#Forward Rate Agreements (FRAs) Overview | Forward Rate Agreements]] (FRAs) | 11 |
- | Overview | 11 |
- | FRAs used to hedge floating-rate notes | 14 |
- | FRAs used to express a view on falling Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] Rates | 15 | 
- | Overnight Index Swaps | 17 |
- | Overview | 17 |
- | Using Is to restructure bank liabilities | 18 |
- | Using Is to hedge repo funding rates | 19 |
- | Using Is to take directional views on T-Bill/Is spreads | 20 |
- | Using Is to anticipate the outcome of FOMC meetings | 21 |
- | Using Is to hedge one leg of total return swaps | 21 |
- | FRA-OIS Spread | 23 |
- | Overview | 23 |
- | Using FRA/Is as a hedge for general bank credit quality | 24 |
- | Using FRA/Is to express directional view on credit spreads | 24 |
- | Using FRA/Is to hedge swap spreads generically | 25 |
- | LIBOR/Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] Basis Swaps | 27 | 
- | Overview | 27 |
- | LIBOR/Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] basis as a hedge for interest rate uncertainty | 28 | 
- | Using LIBOR/Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] basis to express a view on bank credit | 29 | 
- | Using 6 s 3 s basis swaps to match bank assets and liabilities | 30 |
- | Using 3 s 1 s basis swaps to convert issuance exposure from fixed to |  |
- | 1-month Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] | 30 | 
- | Using 3 s 1 s basis swaps to match assets and liabilities of |  |
- | mortgage portfolios | 31 |
+# **Interest Rate Derivatives Table of Contents**
 
- | Fed Funds/Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] Basis Swap | 33 | 
-
- | --- | --- | 
-
- | Overview | 33 | 
-
- | Using FF/Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] basis swaps to convert a swap spread trade to a |
-
- | repo/Is trade | 34 | 
-
- | Using FF/Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] basis swaps to hedge Basis Swap Markets#Federal Funds Market | Fed Funds]] floaters | 34 | 
-
- | Using FF/Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] basis swaps to extract 5 yr 5 yr real Basis Swap Markets#Federal Funds Market | Fed Funds]] | 35 | 
-
- | Prime/Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] Basis Swap | 37 | 
-
- | Overview | 37 | 
-
- | Using prime/Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] basis swaps for asset liability matching | 37 | 
-
- | Using prime/Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] basis swaps to hedge prime floaters | 38 | 
-
- | Using prime/Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] basis swaps to express a view on Basis Swap Markets#Federal Funds Market | Fed Funds]] |
-
- | effective diverging from target | 38 | 
-
- | Using prime/Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] basis swaps to hedge a credit card portfolio | 39 | 
-
- | Prime/Basis Swap Markets#Federal Funds Market | Fed Funds]] Basis Swap | 41 | 
-
- | Overview | 41 | 
-
- | Using prime/Basis Swap Markets#Federal Funds Market | Fed Funds]] basis swaps to express a view on consumer |
-
- | credit quality | 41 | 
-
- | Using prime/Basis Swap Markets#Federal Funds Market | Fed Funds]] basis swaps to express a view on divergence |
-
- | of fed effective from target | 41 | 
-
- | Summary & Comparison | 43 | 
-
- | Basic Instruments | 43 | 
-
- | Basic Swaps | 44 | 
-
- | Appendix: Sample Term Sheets | 45 | 
+- Introduction
+- The Basics
+    - London Interbank Offered Rate (LIBOR)
+    - Federal Funds Market
+- Basis Swap Markets
+    
+    - Forward Rate Agreements (FRAs) Overview
+        
+        - Overview
+            
+        - FRAs used to hedge floating-rate notes
+            
+        - FRAs used to express a view on falling LIBOR Rates
+            
+        
+    - Overnight Index Swaps (OIS)
+        
+        - Overview
+            
+        - Using OIS to restructure bank liabilities
+            
+        - Using OIS to hedge repo funding rates
+            
+        - Using OIS to take directional views on T-Bill/OIS spreads
+            
+        - Using OIS to anticipate the outcome of FOMC meetings
+            
+        - Using OIS to hedge one leg of total return swaps
+            
+        
+    - FRA-OIS Spread
+        
+        - Overview
+            
+        - Using FRA/OIS as a hedge for general bank credit quality
+            
+        - Using FRA/OIS to express directional view on credit spreads
+            
+        - Using FRA/OIS to hedge swap spreads generically
+            
+        
+    
+- LIBOR Basis Swaps
+    
+    - Overview
+        
+    - LIBOR basis as a hedge for interest rate uncertainty
+        
+    - Using LIBOR basis to express a view on bank credit
+        
+    - Using 6s3s basis swaps to match bank assets and liabilities
+        
+    - Using 3s1s basis swaps to convert issuance exposure from fixed to floating
+        
+    - 1-month LIBOR
+        
+    - Using 3s1s basis swaps to match assets and liabilities of mortgage portfolios
+        
+    
+- Fed Funds/LIBOR Basis Swaps
+    
+    - Overview
+        
+    - Using FF/LIBOR basis swaps to convert a swap spread trade to a repo/OIS trade
+        
+    - Using FF/LIBOR basis swaps to hedge Fed Funds floaters
+        
+    - Using FF/LIBOR basis swaps to extract 5yr/5yr real Fed Funds rates
+        
+    
+- Prime/LIBOR Basis Swaps
+    
+    - Overview
+        
+    - Using prime/LIBOR basis swaps for asset liability matching
+        
+    - Using prime/LIBOR basis swaps to hedge prime floaters
+        
+    - Using prime/LIBOR basis swaps to express a view on Fed Funds effective diverging from target
+        
+    - Using prime/LIBOR basis swaps to hedge a credit card portfolio
+        
+    
+- Prime/Fed Funds Basis Swaps
+    
+    - Overview
+        
+    - Using prime/Fed Funds basis swaps to express a view on consumer credit quality
+        
+    - Using prime/Fed Funds basis swaps to express a view on divergence of Fed effective from target
+        
+    
+- Summary & Comparison
+    
+    - Basic Instruments
+        
+    - Basic Swaps
+        
+    
+- Appendix
+    
+    - Sample Term Sheets
 
 # A Guide to the Front End and Basis Swap Markets
 
@@ -119,19 +145,19 @@ Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]]
 
 In the early 1980 s,  in order to ensure continued growth in the trading of numerous new instruments such as interest rate swaps and currency options,  there arose the pressing need to establish a uniform benchmark index against which these instruments could be referenced. That search for a uniform benchmark culminated in the Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] indices. Today,  Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] serves as the foundation for the bulk of front-end trading and is quoted for a number of tenors and currencies. Basis Swap Markets#London Interbank Offered Rate (LIBOR) | LIBOR]] is not a traded rate,  but rather the outcome of a poll of bank rates submitted to the British Banker's Association (BBA) at 11 am GMT each London business day. The official fixings are calculated by the BBA in conjunction with Reuters and are released to the Telerate/Reuters page 3750 and on Bloomberg to BBAL.
 
- | Exhibit 2 | LIBOR Panels |  |
- | --------- | --------------- | ---------------------- | ---------------------------- | 
- | Currency | LIBOR | Tenors | Number of Contributing Banks | 
- | AUD | S/N (spot/next) | 1 W,  2 W,  1 M - 12 M | 8 | 
- | CAD | O/N (overnight) | 1 W,  2 W,  1 M - 12 M | 12 | 
- | CHF | S/N | 1 W,  2 W,  1 M - 12 M | 12 | 
- | EUR | O/N | 1 W,  2 W,  1 M - 12 M | 16 | 
- | GBP | O/N | 1 W,  2 W,  1 M - 12 M | 16 | 
- | JPY | S/N | 1 W,  2 W,  1 M - 12 M | 16 | 
- | USD | O/N | 1 W,  2 W,  1 M - 12 M | 16 | 
- | DKK | S/N | 1 W,  2 W,  1 M - 12 M | 8 | 
- | NZD | S/N | 1 W,  2 W,  1 M - 12 M | 8 | 
- | SEK | S/N | 1 W,  2 W,  1 M - 12 M | 8 | 
+| Exhibit 2 | LIBOR Panels    |                  |                              |
+| --------- | --------------- | ---------------- | ---------------------------- |
+| Currency  | LIBOR Type      | Tenors           | Number of Contributing Banks |
+| AUD       | S/N (spot/next) | 1W, 2W, 1M – 12M | 8                            |
+| CAD       | O/N (overnight) | 1W, 2W, 1M – 12M | 12                           |
+| CHF       | S/N             | 1W, 2W, 1M – 12M | 12                           |
+| EUR       | O/N             | 1W, 2W, 1M – 12M | 16                           |
+| GBP       | O/N             | 1W, 2W, 1M – 12M | 16                           |
+| JPY       | S/N             | 1W, 2W, 1M – 12M | 16                           |
+| USD       | O/N             | 1W, 2W, 1M – 12M | 16                           |
+| DKK       | S/N             | 1W, 2W, 1M – 12M | 8                            |
+| NZD       | S/N             | 1W, 2W, 1M – 12M | 8                            |
+| SEK       | S/N             | 1W, 2W, 1M – 12M | 8                            |
 
 Source: British Banker's Association
 
