@@ -209,11 +209,11 @@ The two slope coefficients $\beta_{\pi}$ and $\beta_{\mathbb{E} \pi}$ capture ex
 
 **Panel B: Stocks**
 
-|                        | Coeff.  | $t$-stat |
-|------------------------|---------|----------|
-| $\beta_{\pi}$ (UE)           | -2.33   |  -0.62   |
-| $\beta_{E\pi}$ ($\Delta$E)   | -0.34   |  -0.26   |
-| $R^2$                        |  0.02   |          |
+|                            | Coeff. | $t$-stat |
+| -------------------------- | ------ | -------- |
+| $\beta_{\pi}$ (UE)         | -2.33  | -0.62    |
+| $\beta_{E\pi}$ ($\Delta$E) | -0.34  | -0.26    |
+| $R^2$                      | 0.02   |          |
 
 **Panel C: Gold**
 
