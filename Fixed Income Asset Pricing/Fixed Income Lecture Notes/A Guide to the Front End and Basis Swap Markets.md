@@ -1,20 +1,20 @@
 ---
 title: A Guide to the Front End and Basis Swap Markets
-aliases: []
+aliases: 
 cssclasses:
   - academia
 tags:
-  - '#basis_swap_markets'
-  - '#fed_funds_basis_swaps'
-  - '#federal_funds'
-  - '#fra_ois_spread'
-  - '#fras'
-  - '#front_end_markets'
-  - '#interest_rate_derivatives'
-  - '#libor'
-  - '#libor_basis_swaps'
-  - '#ois'
-  - '#prime_basis_swaps'
+  - "#basis_swap_markets"
+  - "#fed_funds_basis_swaps"
+  - "#federal_funds"
+  - "#fra_ois_spread"
+  - "#fras"
+  - "#front_end_markets"
+  - "#interest_rate_derivatives"
+  - "#libor"
+  - "#libor_basis_swaps"
+  - "#ois"
+  - "#prime_basis_swaps"
 ---
  | Introduction | 5 |
  | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ | --- | 
