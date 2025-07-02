@@ -222,4 +222,39 @@ $$
 
 
 
+$$
+\begin{align*}
+\text{Sales} \\
+- \text{Cost of Goods Sold (COGS)} \\
+- \text{Selling, General, and Administrative Expenses (SGA)} \\
+- \text{Depreciation and Amortization} \\
+= \text{Earnings Before Interest and Taxes (EBIT)} \\
+- \text{Interest Expense} \\
+= \text{Earnings Before Taxes (EBT)} \\
+- \text{Taxes} \\
+= \text{Net Income Before Extraordinary Items}
+\end{align*}
+$$
 
+$$
+\begin{align*}
+\text{Free Cash Flows to Firm (Top Down Approach)} \\
+= \text{Earnings Before Interest and Taxes (EBIT)} \\
+- \text{Taxes on EBIT (say 39\%)} \\
+= \text{Net Operating Profits After Taxes (NOPAT)} \\
++ \text{Depreciation and Amortization + Other Non-Cash Expenses} \\
+- \text{Capital Expenditures (including acquisitions)} \\
+- \text{Change in Working Capital (Change in current operating assets - change in current operating liabilities)} \\
+= \text{Free Cash Flow to Firm}
+\end{align*}
+$$$$
+\begin{align*}
+\text{Free Cash Flows to Firm (Bottom Up Approach)} \\
++ \text{Net Income Before Extraordinary Items} \\
++ \text{After-Tax Interest Expense} \\
+= \text{Net Operating Profit After Taxes (NOPAT)} \\
++ \text{Depreciation and Amortization + Other Non-Cash Expenses} \\
+- \text{Capital Expenditures (including acquisitions)} \\
+- \text{Change in Working Capital (Change in current operating assets - change in current operating liabilities)} \\
+= \text{Free Cash Flow to Firm}
+\end{align*}$$
