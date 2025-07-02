@@ -147,3 +147,79 @@ $$\
 &\quad\quad\quad\quad\quad=\,\underline{\textbf{Net Income Before Extraordinary Items}}
 \end{aligned}
 $$
+
+$$
+\begin{aligned}[l]
+\text{Sales}\\
+\quad -\,\text{Cost of Goods Sold (COGS)}\\
+\quad -\,\text{Selling, General, and Administrative Expenses (SG&A)}\\
+\quad -\,\text{Depreciation and Amortization}\\
+\underline{=\,\text{Earnings Before Interest and Taxes (EBIT)}}\\
+\quad -\,\text{Interest Expense}\\
+\underline{=\,\text{Earnings Before Taxes (EBT)}}\\
+\quad -\,\text{Taxes}\\
+\underline{=\,\text{Net Income Before Extraordinary Items}}
+\end{aligned}
+$$
+
+
+$$
+\begin{aligned}[l]
+\underline{=\,\text{Earnings Before Interest and Taxes (EBIT)}}\\
+\quad -\,\text{Taxes on EBIT (e.g.\ 39\%)}\\
+\underline{=\,\text{Net Operating Profit After Taxes (NOPAT)}}\\
+\quad +\,\text{Depreciation and Amortization + Other Non-Cash Expenses}\\
+\quad -\,\text{Capital Expenditures (including acquisitions)}\\
+\quad -\,\text{Change in Working Capital}
+\bigl(\Delta\text{Current Operating Assets}\;-\;\Delta\text{Current Operating Liabilities}\bigr)\\
+\underline{=\,\text{Free Cash Flow to Firm}}
+\end{aligned}
+$$
+
+
+$$
+\begin{aligned}[l]
++\,\text{Net Income Before Extraordinary Items}\\
++\,\text{After-Tax Interest Expense}\\
+\underline{=\,\text{Net Operating Profit After Taxes (NOPAT)}}\\
+\quad +\,\text{Depreciation and Amortization + Other Non-Cash Expenses}\\
+\quad -\,\text{Capital Expenditures (including acquisitions)}\\
+\quad -\,\text{Change in Working Capital}
+\bigl(\Delta\text{Current Operating Assets}\;-\;\Delta\text{Current Operating Liabilities}\bigr)\\
+\underline{=\,\text{Free Cash Flow to Firm}}
+\end{aligned}
+$$
+
+
+
+
+$$
+\begin{aligned}[l]
+\text{Sales}\\
+\quad -\,\text{Cost of Goods Sold (COGS)}\\
+\quad -\,\text{Selling, General, and Administrative Expenses (SG&A)}\\
+\quad -\,\text{Depreciation and Amortization}\\
+\underline{=\,\text{Earnings Before Interest and Taxes (EBIT)}}\\
+\quad -\,\text{Interest Expense}\\
+\underline{=\,\text{Earnings Before Taxes (EBT)}}\\
+\quad -\,\text{Taxes}\\
+\underline{=\,\text{Net Income Before Extraordinary Items}}
+\end{aligned}
+$$
+
+$$
+\begin{aligned}[l]
+\underline{=\,\text{Earnings Before Interest and Taxes (EBIT)}}\\
+\quad -\,\text{Taxes on EBIT (e.g.\ 39\%)}\\
+\underline{=\,\text{Net Operating Profit After Taxes (NOPAT)}}\\
+\quad +\,\text{Depreciation and Amortization + Other Non‐Cash Expenses}\\
+\quad -\,\text{Capital Expenditures (including acquisitions)}\\
+\quad -\,\text{Change in Working Capital}
+\bigl(\Delta\text{Current Operating Assets}-\Delta\text{Current Operating Liabilities}\bigr)\\
+\underline{=\,\text{Free Cash Flow to Firm}}
+\end{aligned}
+$$
+
+
+
+
