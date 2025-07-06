@@ -43,9 +43,4 @@ This section concludes with a brief mention of three topical public policy issue
 
 A second policy issue pertains to CCP margin. Margin, along with other risk management practices of a CCP, are designed to make it extremely. unlikely that any counterparty loses money from counterparty risk. Part. of this outcome, however, is due to the ability of CCPs to set IM and also to raise required IM when market volatility or financial stress increases. In this sense then, reducing counterparty risk increases liquidity risk. Many. are concerned with how increasing IM might exacerbate financial stress, known as margin procyclicality, but there are no easy solutions. Raising. margin in a crisis is an important risk management tool at a CCP but might make it challenging for members and other market participants both to meet their increasing obligations to the CCP and to continue meeting their. non-derivatives obligations.  
 
-The third policy issue relates to CCP governance. Before clearing was required, market participants could consider clearing as one of several  
-
-choices and could decide to clear or not to clear. With required clearing.   
-and the concentration of clearing in very few CCPs, market participants,.   
-including members, have much less leverage with respect to CCP risk.   
-management and other practices. The resolution of this issue is also far from straightforward.
+The third policy issue relates to CCP governance. Before clearing was required, market participants could consider clearing as one of several  choices and could decide to clear or not to clear. With required clearing. and the concentration of clearing in very few CCPs, market participants,. including members, have much less leverage with respect to CCP risk. management and other practices. The resolution of this issue is also far from straightforward.
