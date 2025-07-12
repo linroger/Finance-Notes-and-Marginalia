@@ -1,17 +1,3 @@
----
-cssclasses:
-  - academia
-aliases: {{"come up with a few aliases in title case based on the title and content of this document, wrap each alias in double quotes"|title|list}}
-source:
-  - https://www.linkedin.com/pulse/most-important-principle-keep-mind-when-thinking-large-ray-dalio-nozze/?trackingId=VsRkfFuN0MmwqVibgLvinA%3D%3D
-description:
-  - 
-tags: {{"come up with 3 to 5 descriptive tags based on the contents of this article"|snake|list}}
-title: (24) The Most Important Principle to Keep in Mind When Thinking About Large Government Debts and Deficits  | LinkedIn
----
-
-
-![Logo](https://www.linkedin.com/pulse/most-important-principle-keep-mind-when-thinking-large-ray-dalio-nozze/assets/logoCricle.png) 
 
 It is:
 
