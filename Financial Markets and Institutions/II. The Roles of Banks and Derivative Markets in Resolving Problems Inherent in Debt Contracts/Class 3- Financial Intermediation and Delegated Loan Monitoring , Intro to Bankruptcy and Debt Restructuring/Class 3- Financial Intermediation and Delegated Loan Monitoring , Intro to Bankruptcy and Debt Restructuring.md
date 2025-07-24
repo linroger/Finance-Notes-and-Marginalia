@@ -1,11 +1,9 @@
 ---
 cssclasses:
   - academia
-title: "Class 3: Financial Intermediation and Delegated Loan Monitoring, Intro to Bankruptcy and Debt Restructuring"
+title: Financial Intermediation and Delegated Loan Monitoring, Intro to Bankruptcy and Debt Restructuring
 tags:
   - bankruptcy
-  - class_3
-  - class_6
   - debt_restructuring
   - delegated_loan_monitoring
   - financial_intermediation
