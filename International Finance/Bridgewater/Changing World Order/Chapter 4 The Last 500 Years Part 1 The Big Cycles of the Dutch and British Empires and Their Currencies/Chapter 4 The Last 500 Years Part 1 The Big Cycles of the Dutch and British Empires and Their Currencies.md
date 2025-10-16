@@ -329,11 +329,7 @@ In addition to these wider efforts, the UK's status as the head of the Sterling 
 
 <sup>67</sup> For further description of these and other coordinated policies, see Catherine Schenk, "The Retirement of Sterling as a Reserve Currency
 
-After 1945: Lessons for the US Dollar?" 68 John Singleton & Catherine Schenk, "The Shift from Sterling to the Dollar, 1965–76: Evidence from Australia and New Zealand," 1162 69 For more detail on the dynamics of the Sterling Area, see Catherine Schenk, *Britain and the Sterling Area*, 1994
-
-© 2020 Bridgewater Associates, LP 77
-
-by prominent British policy makers as "a sort of British Dien Bien Phu."70 **When the pound came under extreme selling pressure again in 1967 (following rising rates in the developed world, recessions in major UK export markets, and heightened conflict in the Middle East),**<sup>71</sup> **British policy makers decided to devalue sterling by 14% against the dollar.**
+After 1945: Lessons for the US Dollar?" 68 John Singleton & Catherine Schenk, "The Shift from Sterling to the Dollar, 1965–76: Evidence from Australia and New Zealand," 1162 69 For more detail on the dynamics of the Sterling Area, see Catherine Schenk, *Britain and the Sterling Area*, 1994 by prominent British policy makers as "a sort of British Dien Bien Phu."70 **When the pound came under extreme selling pressure again in 1967 (following rising rates in the developed world, recessions in major UK export markets, and heightened conflict in the Middle East),**<sup>71</sup> **British policy makers decided to devalue sterling by 14% against the dollar.**
 
 70 As quoted by Schenk, *Decline of Sterling,* 156 71 Schenk, *Decline of Sterling,*<sup>174</sup>
 

@@ -72,21 +72,13 @@ Thomas S. Coleman Close Mountain Advisors LLC
 
 15 January 2011  
 
-<<<<<<< HEAD
 Duration and DV01 (dollar duration) measure price sensitivity and provide the basic risk measure for bonds, swaps, and other fixed income instruments. When valuing instruments off a yield curve, duration and DV01 naturally extend to a vector of partial DV01s or durations (key rate durations) and these are widely used in the finance industry. But partial DV01s or durations can be measured with respect to different rates: forwards, par rates, zero yields, or others. This paper reviews the concepts of partial DV01 and duration and then discusses a simple method for transforming partial DV01s between different rate bases and provides examples. The benefit of this transformation method is that it only requires calculating the risk of a small set of alternate instruments and does not require re-calculating the original portfolio risk. (This paper is also available in an interactive version with enhanced digital content - see references.)  
 
-Keywords: DV01, Duration, Key Rate Duration, Interest Rate Risk, Yield Curve Risk, Dollar Duration, Modified Duration, Partial DV01  
-=======
-Duration and Dv01 (dollar duration) measure price sensitivity and provide the basic risk measure for bonds, swaps, and other fixed income instruments. When valuing. instruments off a yield curve, duration and Dv01 naturally extend to a vector of partial. DV01s or durations (key rate durations) and these are widely used in the finance. industry. But partial Dv01s or durations can be measured with respect to different. rates: forwards, par rates, zero yields, or others. This paper reviews the concepts of partial Dv01 and duration and then discusses a simple method for transforming partial DVO1s between different rate bases and provides examples. The benefit of this transformation method is that it only requires calculating the risk of a small set of. alternate instrument and does not require re-calculating the original portfolio risk.. (This paper is also available in an interactive version with enhanced digital content - see. references.)  
-
-Keywords: Dvo1, Duration, Key Rate Duration, Interest Rate Risk, Yield Curve Risk,   
-Dollar Duration, Modified Duration, Partial DV01   
->>>>>>> 2e346c030bacda517086e02b86e48ba98c22a543
+Keywords: DV01, Duration, Key Rate Duration, Interest Rate Risk, Yield Curve Risk, Dollar Duration, Modified Duration, Partial DV01
 JEL Classifications: G10, G12, E43  
 
 # Introduction  
 
-<<<<<<< HEAD
 Duration and DV01 provide the basic measures for evaluating the risk or sensitivity of fixed income instruments and are both used throughout the financial industry. The DV01 (dollar value of an 01) is just the derivative of price with respect to yield:
 
 $$\text{Price} = PV(y) \quad \text{DV01} = -\frac{dPV}{dy}$$  
@@ -95,27 +87,7 @@ Modified or adjusted duration, the derivative in percentage instead of dollar te
 
 $$\text{Modified or Adjusted Duration} = -\frac{1}{PV}\frac{dPV}{dy} = 100 \cdot \frac{\text{DV01}}{PV}$$  
 
-One can use either DV01 or modified duration and the choice between them is largely a matter of convenience, taste, and custom. DV01, also called dollar duration, PV01 (present value of an 01), or BPV (basis point value), measures the derivative in price terms: the dollar price change per change in yield. Modified duration measures the derivative in percent terms: the percent price change per change in yield. I will work mostly with DV01 throughout this paper but the ideas can be applied equally well to modified duration.  
-=======
-Duration and Dv01 provide the basic measures for evaluating the risk or sensitivity of fixed income instruments and are both used throughout the financial industry. The Dv01 (dollar value of an 01) is just the derivative of price with respect to yield:.  
-$$
-P r i c e=P V(\mathrm{y})D V O I=-\frac{d P V}{d\mathrm{y}}
-$$  
-
-Modified or adjusted duration, the derivative in percentage instead of dollar terms, is just the Dv01 expressed in different units:  
-$$
-{\mathrm{Modified~or~}}{\mathrm{Adjusted~Duration}}=-{\frac{1}{P V}}{\frac{d{\cal P}V}{d~y}}=100\cdot{\frac{D V O I}{{\cal P}V}} 
-$$  
-
-One can use either Dv01 or modified duration and the choice between them is largely a matter of convenience, taste, and custom. Dv01, also called dollar duration, PV01 (present value of an O1), or BPV (basis point value), measures the derivative in price terms: the dollar price change per change in yield. Modified duration measures the derivative in percent terms: the. percent price change per change in yield. I will work mostly with Dv01 throughout this paper but the ideas can be applied. equally well to modified duration.  
-
-In many practical applications a bond or other fixed-income security will be valued off a yield curve, and we can then extend the Dv01 or duration to partial Dv01s or durations - the partial derivatives with respect to yields for different parts of the cur ve:  
-$$
-\mathrm{{Partial~}}D V O I\mathrm{{s}}=\left(\begin{array}{c c c}{{\frac{\partial P V}{\partial y_{1}}}}&{{\dots}}&{{\frac{\partial P V}{\partial y_{k}}}}\end{array}\right)
-$$  
-
-Calculating and using partial Dv01s based on a curve is a natural extension of the basic yield Dv01, just as partial derivatives are a natural extension of the univariate derivative. Partial Dv01s of one form or another are used throughout the financial industry (see Ho 1992 and Reitano 1991 for early discussions). Unlike for the basic Dv01, however, when working with a full. yield curve there is no single unique yield. Partial Dv01s can be calculated with respect to any of a large set of possible yields. The values for the partial Dv01s will depend on the set of rates used. Partial Dv01s w.r.t. alternate yields all measure the same. thing - risk to parts of the curve - but do so from different perspectives. As a result, we often need to transform between partial Dv01s w.r.t. alternate yields.  
->>>>>>> 2e346c030bacda517086e02b86e48ba98c22a543
+One can use either DV01 or modified duration and the choice between them is largely a matter of convenience, taste, and custom. DV01, also called dollar duration, PV01 (present value of an 01), or BPV (basis point value), measures the derivative in price terms: the dollar price change per change in yield. Modified duration measures the derivative in percent terms: the percent price change per change in yield. I will work mostly with DV01 throughout this paper but the ideas can be applied equally well to modified duration.
 
 In many practical applications a bond or other fixed-income security will be valued off a yield curve, and we can then extend the DV01 or duration to partial DV01s or durations - the partial derivatives with respect to yields for different parts of the curve:
 

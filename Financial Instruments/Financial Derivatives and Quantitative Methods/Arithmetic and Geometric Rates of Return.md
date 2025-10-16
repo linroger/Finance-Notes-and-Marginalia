@@ -32,12 +32,12 @@ key_concepts:
 We now consider $\mu$ and $\nu$ again. Suppose we have an asset worth 100 and for two successive periods it increases by $20\%$. Then the value at the end of the first period is 120 and the value at the end of the second period is 144.
 
 Now suppose that instead the asset increases in the first period by $30\%$ and in the second period by $10\%$. The average or arithmetic mean of the return is $20\%$. However, the value of the asset is 130 at the end of the first period and 143 at the end of the second period. The variability of the return has meant that the asset is worth less after two periods even though the average return is the same. We can calculate the equivalent per period return that would give the same value of 143 after two periods if there were no variance in the returns. That is the value $\nu$ that satisfies
-$$143=100 (1+\nu)[^2].$$
+$$143=100 (1+\nu)^2.$$
 
 This value is known as the geometric mean. It is another measure of the average return over the two periods. Solving this equation gives the geometric mean as $\nu=0.195826$ or $19.58\%$ per period which is less than the arithmetic rate of return per period.
 
 There is a simple relationship between the arithmetic mean return, the geometric mean return, and the variance of the return. Let $\mu_{1}=\mu+\sigma$ be the rate of return in the first period and let $\mu_{2}=\mu-\sigma$ be the rate of return in the second period. Here the average rate of return is $\frac{1}{2}(\mu_{1}+\mu_{2})=\mu$ and the variance of the two rates is $\sigma^{2}$. The geometric rate of return $\nu$ satisfies $(1+\nu)^{2}=(1+\mu_{1})(1+\mu_{2})$. Substituting and expanding this gives:
-$$1+2\nu+\nu[^2]=(1+\mu+\sigma)(1+\mu-\sigma)=(1+\mu)[^2]-\sigma[^2]=1+2\mu+\mu[^2]-\sigma[^2]$$
+$$1+2\nu+\nu^2=(1+\mu+\sigma)(1+\mu-\sigma)=(1+\mu)^2-\sigma^2=1+2\mu+\mu^2-\sigma^2$$
 
 Or
 $$\nu=\mu-\frac{1}{2}\sigma^{2}+\frac{1}{2}(\mu^{2}-\nu^{2}).$$
@@ -46,7 +46,7 @@ Since rates of return are typically less than one, the square of the return is e
 $$\mathrm{geometric~mean}\approx\mathrm{arithmetic~mean}-\frac{1}{2}\mathrm{variance}.$$
 
 This approximation will be better the smaller the interest rates and the smaller the variance. In the example, $\mu=0.2$ and $\sigma=0.1$, so $\frac{1}{2}\sigma^{2}=0.005$ and $\mu-\frac{1}{2}\sigma^{2}=0.1950$, which is close to the actual geometric mean of 0.1958. Thus, the difference between $\mu$ and $\nu$ is that $\nu$ is the geometric rate of return, and $\mu$ is the arithmetic rate of return. It is quite usual to use the arithmetic rate and therefore to write that the expected value of the logarithm of the stock price satisfies:
-$$\operatorname{E}[\ln S_T]=\ln S_0+\left (\mu-\frac{1}{2}\sigma[^2]\right) T$$
+$$\operatorname{E}[\ln S_T]=\ln S_0+\left (\mu-\frac{1}{2}\sigma^2\right) T$$
 
 And
 $$\mathrm{Var}[\ln S_T]=\sigma[^2] T.$$

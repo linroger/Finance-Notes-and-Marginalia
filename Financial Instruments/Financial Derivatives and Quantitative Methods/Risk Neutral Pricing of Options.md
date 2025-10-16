@@ -26,10 +26,7 @@ key_concepts:
 ---
 
  
-Risk Neutral Pricing of Options | Risk Neutral Pricing]]
-
 # Risk Neutral Pricing of Options
-# Options
 
 These notes describe the payoffs to European and American put and call options—the so-called plain vanilla options. We consider the payoffs to these options for holders and writers and describe both the time value and intrinsic value of an option. We explain why options are traded and examine some of the properties of put and call option prices. We shall show that longer-dated options typically have higher prices and that call prices are higher when the strike price is lower,  and that put prices are higher when the strike price is higher.
 

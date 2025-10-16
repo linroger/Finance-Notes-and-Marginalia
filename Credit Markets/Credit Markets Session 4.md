@@ -27,16 +27,11 @@ key_concepts:
 
 # Credit Markets Session 4
 ## Calibration and Model Prices
-<<<<<<< HEAD
-1. Recap: Parametric IR Models
-=======
-1. Recap: Credit Markets Session 4 | Parametric IR Models]]
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
+1. Recap: [[Parametric IR Models]]
 	- Smooth yield curve models
 	- The Nelson-Siegel model for smooth yield curves
 	- The Nelson-Siegel-Svensson extension
-<<<<<<< HEAD
-2. Parametric Credit Models
+2. Parametric [[Credit Models]]
 	- What problem are we trying to solve?
 	- Smooth Hazard Rate models
 3. Calibration and Model Prices
@@ -44,10 +39,6 @@ key_concepts:
 	- Model edges and alpha signals
 	- Interpreting model results
 4. Quant Credit Trading
-=======
-2. Parametric An Introduction to Credit Risk Modelling | Credit Models]]
-	- What problem are we trying to solve?
-	- Smooth Hazard Rate models
 3. Credit Markets Session 4 | Calibration]] and Credit Markets Session 4 | Model Prices]]
 - Credit Markets Session 4 | Calibration]] results in hazard rate space
 	- Model edges and alpha signals
@@ -66,15 +57,9 @@ key_concepts:
 
 ## Motivation for "Smooth" US Treasury Curve
 
-<<<<<<< HEAD
 Observation: ~380 US cash treasury instruments (bills, notes and bonds) actively traded in the market, quoted at different prices/yields, based on coupon, maturity and liquidity profile (~380 dimensional problem)
 
 Question: can we compute model prices for all US Treasuries using one sparse parametric model (dimensionality reduction)?
-=======
-Observation: ~380 US cash treasury instruments (bills, notes and bonds) actively traded in the market, quoted at different prices/yields, based on coupon, maturity and Class Note 10 Liquidity and Class Note 10 Liquidity and Liquidity Managementliquidity management | liquidity]] profile (~380 dimensional problem)
-
-Question: can we compute Credit Markets Session 4 | model prices]] for all Credit Market Homework 1 | US Treasuries]] using one sparse parametric model (dimensionality reduction)?
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
 Main idea: find a "smooth"/parametric spot/zero rates curve that best fits the market
 

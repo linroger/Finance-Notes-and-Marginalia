@@ -45,7 +45,7 @@ key_concepts:
 
 ## THE OUTSTANDING AMOUNT U.S. DEBT
 
- !500
+*[Chart: Outstanding Amount of U.S. Debt - Data visualization showing debt levels over time]*
 
 (Source: SIFMA and FRED at Federal Reserve of St. Louis.)
 

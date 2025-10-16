@@ -23,11 +23,7 @@ key_concepts:
 
 # Exotic Options
 
-## Exotic Options
-
-Exotic Options]]
-
-These notes describe the payoffs to some of the so-called erotic options. There are a variety of different types of exotic options. Some of these options are path-dependent,  so that the value of the option depends on the previous values of the underlying as well as the current price of the underlying.
+These notes describe the payoffs to some of the so-called exotic options. There are a variety of different types of exotic options. Some of these options are path-dependent,  so that the value of the option depends on the previous values of the underlying as well as the current price of the underlying.
 
 Keywords: Digital options,  Barrier options,  Path-dependent options,  Lookback options,  Asian options.
 

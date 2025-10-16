@@ -9,11 +9,7 @@ tags:
   - options_valuation
 aliases:
   - Interest Rate Sensitivity
-<<<<<<< HEAD
-  - ÔøΩ - Greek Letter
-=======
-  - ¡ - Greek Letter
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
+  - œÅ - Greek Letter
 key_concepts:
   - Rho option greek measurement
   - Interest rate sensitivity of options
@@ -29,11 +25,7 @@ key_concepts:
 
 ## Definition and Overview
 
-<<<<<<< HEAD
-Rho (ÔøΩ) is one of the "Greeks" used in options pricing and risk management. It measures the sensitivity of an option's price to changes in the risk-free interest rate. Specifically, rho represents the expected change in an option's price for a 1 percentage point (100 basis points) change in interest rates.
-=======
-Rho (¡) is one of the "Greeks" used in options pricing and risk management. It measures the sensitivity of an option's price to changes in the risk-free interest rate. Specifically, rho represents the expected change in an option's price for a 1 percentage point (100 basis points) change in interest rates.
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
+Rho (œÅ) is one of the "Greeks" used in options pricing and risk management. It measures the sensitivity of an option's price to changes in the risk-free interest rate. Specifically, rho represents the expected change in an option's price for a 1 percentage point (100 basis points) change in interest rates.
 
 $\rho = \frac{\partial V}{\partial r}$
 

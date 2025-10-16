@@ -49,11 +49,7 @@ $$
 
 $$
 
-<<<<<<< HEAD
 The inputs of this optimal allocation formula could potentially vary over time. Perhaps there are times when expected excess returns are high and times when they are low? Perhaps there are times when volatility is high and other times when volatility is low? If such time-variation in expected returns or risk exists,  can it be exploited in a markettiming strategy? Later, in lecture 5, we will look more detail into optimal asset allocation in a multi-period setting when risk and expected return are time-varying. But for now,  let's just think about potentially applying this formula period-by-period,  with a oneperiod investment horizon. To do this,  we need to a statistical model that gives us expectations of next-period returns and/or forecasts of next-period volatility.
-=======
-The inputs of this optimal allocation formula could potentially vary over time. Perhaps there are times when expected excess Assets | returns]] are high and times when they are low? Perhaps there are times when volatility is high and other times when volatility is low? If such time-variation in expected Assets | returns]] or risk exists,  can it be exploited in a markettiming strategy? Later, in lecture 5, we will look more detail into optimal Lecture 2- Asset Allocation with Multiple Risky Assets | asset allocation]] in a multi-period setting when risk and expected return are time-varying. But for now,  let's just think about potentially applying this formula period-by-period,  with a oneperiod An Asset Allocation Primer | investment]] horizon. To do this,  we need to a statistical model that gives us FORWARD RATES AND TERM STRUCTURE | expectations]] of next-period Assets | returns]] and/or forecasts of next-period volatility.
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
 With this motivation in mind,  we will now look the data to answer questions such as: Are stock market index returns predictable? If yes,  does such predictability allow market timing? What sort of variables can be useful predictors of returns? Is volatility predictable?
 
@@ -520,11 +516,7 @@ $$
 
 which is exactly what it should be: The log return investors can expect to earn is the required rate of expected log return that they priced into the stock market valuation.
 
-<<<<<<< HEAD
 ## 3.4 A valuation model with investor sentiment
-=======
-## 3.4 A valuation model with Lecture 4- Investor Sentiment | investor sentiment]]
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 
 Let's use this framework to understand how time-varying Investor Sentiment | investor sentiment]] could affect prices,  how we could measure sentiment,  and how we could potentially exploit it in our Asset Allocation with Multiple Risky Assets | asset allocation]] strategy. For the purpose of this exercise,  suppose that equation (3.26) represents how rational investors - who are not subject to sentiment fluctuationswould value the aggregate stock market. This means that these rational investors expect constant growth of dividends $g$ and they would require an expected return of $\theta$ to hold the outstanding value of all stocks. Let's call the $v_{t}$ in (3.26) the (log) fundamental value.
 

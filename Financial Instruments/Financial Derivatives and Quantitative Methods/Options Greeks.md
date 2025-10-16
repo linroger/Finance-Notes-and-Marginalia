@@ -34,13 +34,13 @@ Keywords: Delta,  Gamma,  Rho,  Vega,  Theta,  Hedging,  Volatility smiles
 
 ### The Greeks
 
-We have from the Black-Scholes formula that the price of a call option depends on the price of the underlying asset,  S,  the strike priceK,  the time to maturity,  T ,  the interest rate,  r,  and the volatility,  σ. Write this as a function $C=C (S,   K,   T,   r,   σ)$. Then using a first-order approximation,  we have
+We have from the Black-Scholes formula that the price of a call option depends on the price of the underlying asset, $S$, the strike price $K$, the time to maturity, $T$, the interest rate, $r$, and the volatility, $σ$. Write this as a function $C=C (S,   K,   T,   r,   σ)$. Then using a first-order approximation,  we have
 $$\begin{aligned}
 C (S+\delta S,   K,   T+\delta T,   r+\delta r,   \sigma+\delta\sigma)& =C (S,   K,   T,   r,   \sigma) \\
 &+\delta S\frac{\partial C}{\partial S}+\delta T\frac{\partial C}{\partial T}+\delta r\frac{\partial C}{\partial r}+\delta\sigma\frac{\partial C}{\partial\sigma}.
 \end{aligned}$$
 
-This shows the effect of varying each of the parameters,  $S,   T ， T_{0}$ by small amounts $\delta S$ $\delta T$ ， $\delta r$ and δσ,   but withK fixed. The same will be true for any option or portfolio of options. Thus,  if $Π=C (S,   T,   r,   σ)$ is the value of the option or portfolio of options,  then the value of the portfolio after a small change in the parameters is given by 3
+This shows the effect of varying each of the parameters, $S$, $T$, $r$ by small amounts $\delta S$, $\delta T$, $\delta r$ and $\delta\sigma$, but with $K$ fixed. The same will be true for any option or portfolio of options. Thus,  if $Π=C (S,   T,   r,   σ)$ is the value of the option or portfolio of options,  then the value of the portfolio after a small change in the parameters is given by 3
 $$\begin{aligned}
 \Pi (S+\delta S,   K,   T+\delta T,   r+\delta r,   \sigma+\delta\sigma)& =\Pi (S,   K,   T,   r,   \sigma) \\
 &+\delta S\frac{\partial\Pi}{\partial S}+\delta T\frac{\partial\Pi}{\partial T}+\delta r\frac{\partial\Pi}{\partial r}+\delta\sigma\frac{\partial\Pi}{\partial\sigma}.
@@ -73,7 +73,7 @@ This gives a convenient method for finding $\Delta$ from the Black-Scholes formu
 $$C (S,   K,   T,   r,   \sigma)=SN (d_1)-e^{-rT}KN (d_2)$$
 
 Where
-$$\begin{array}{rcl}d_1&=&\frac{\ln (\frac{S}{K})+(r+\frac{1}{2}\sigma[^2]) T}{\sigma\sqrt{T}}\\\\d_2&=&d_1-\sigma\sqrt{T}=\frac{\ln (\frac{S}{K})+(r-\frac{1}{2}\sigma[^2]) T}{\sigma\sqrt{T}}\end{array}$$
+$$\begin{array}{rcl}d_1&=&\frac{\ln (\frac{S}{K})+(r+\frac{1}{2}\sigma^2) T}{\sigma\sqrt{T}}\\\\d_2&=&d_1-\sigma\sqrt{T}=\frac{\ln (\frac{S}{K})+(r-\frac{1}{2}\sigma^2) T}{\sigma\sqrt{T}}\end{array}$$
 
 We wish to find $\partial C/\partial S$,   where we have to remember that both $d_{1}$ and $d_{2}$ depend on $S$. To find $\Delta$,   we first note that the call price has the property:
 
@@ -142,10 +142,10 @@ $$\Gamma_P=\Gamma_C$$
 So that the Gamma of a put and an equivalent call are the same.
 
 We can see the relationship between $\Delta$ ， $\Theta$ and $\Gamma$ from the Black-ScholesMerton Partial Differential Equation. This states that the price $C^{r}$ of any option or portfolio of options satisfies.
-$$C=\frac{1}{r}\left\{\left (\frac{\partial C}{\partial T}+rS\frac{\partial C}{\partial S}+\frac{1}{2}\sigma[^2] S[^2]\frac{\partial[^2] C}{\partial S}\right)\right\}$$
+$$C=\frac{1}{r}\left\{\left (\frac{\partial C}{\partial T}+rS\frac{\partial C}{\partial S}+\frac{1}{2}\sigma^2 S^2\frac{\partial^2 C}{\partial S^2}\right)\right\}$$
 
 Which can be re-written as
-$$C=\frac{1}{r}\left\{\left ((-\Theta+rS\Delta+\frac{1}{2}\sigma[^2]\Gamma\right)\right\}.$$
+$$C=\frac{1}{r}\left\{\left ((-\Theta+rS\Delta+\frac{1}{2}\sigma^2\Gamma\right)\right\}.$$
 
 This equation can be used for calculating one of $\Theta$ ， $\Gamma$ and $\Delta$ if the other two are known. Also it follows directly from this equation that any portfolio which is delta-neutral and gamma-neutral is also theta-neutral
 

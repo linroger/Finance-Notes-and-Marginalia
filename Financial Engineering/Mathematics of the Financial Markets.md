@@ -26,15 +26,3 @@ key_concepts:
   - Yield Curve
 ---
 
-<<<<<<< HEAD
----
-tags:
-  - '#credit_derivatives'
-  - '#derivatives'
-  - '#financial_instruments'
-  - '#financial_markets'
-  - '#market_performance'
-  - '#option_pricing'
-  - '#risk_management'
-  - '#stochastic_calculus'
-  - '#volatility'

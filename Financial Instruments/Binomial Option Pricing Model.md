@@ -129,15 +129,15 @@ $$
 $$
 
 $$
-\therefore \ln S_T \sim N\left( \ln S_0 + \left( \mu - \frac{\sigma[^2]}{2} \right) T,\; \sigma[^2] T \right)
+\therefore \ln S_T \sim N\left( \ln S_0 + \left( \mu - \frac{\sigma^2}{2} \right) T,\; \sigma^2 T \right)
 $$
 
 $$
-\Rightarrow E[S_T] = S_0 e^{\mu T}, \quad \mathrm{var}(S_T) = S_0[^2] e^{2\mu T} \left( e^{\sigma[^2] T} - 1 \right).
+\Rightarrow E[S_T] = S_0 e^{\mu T}, \quad \mathrm{var}(S_T) = S_0^2 e^{2\mu T} \left( e^{\sigma^2 T} - 1 \right).
 $$
 
 $$
-\therefore \ln S_{t+\Delta t} \sim N\left( \ln S_t + \left( \mu - \frac{\sigma[^2]}{2} \right) \Delta t,\; \sigma[^2] \Delta t \right)
+\therefore \ln S_{t+\Delta t} \sim N\left( \ln S_t + \left( \mu - \frac{\sigma^2}{2} \right) \Delta t,\; \sigma^2 \Delta t \right)
 $$
 
 $$
@@ -145,10 +145,10 @@ $$
 $$
 
 $$
-\Rightarrow \mathrm{var}(S_{t+\Delta t}) = S_t[^2] e^{2\mu \Delta t} \left( e^{\sigma[^2] \Delta t} - 1 \right) \approx S_t[^2] \sigma[^2] \Delta t
+\Rightarrow \mathrm{var}(S_{t+\Delta t}) = S_t^2 e^{2\mu \Delta t} \left( e^{\sigma^2 \Delta t} - 1 \right) \approx S_t^2 \sigma^2 \Delta t
 $$
 
-(because $e^x \approx 1 + x$ when $x \to 0$), ignoring the terms with $\Delta t[^2]$.
+(because $e^x \approx 1 + x$ when $x \to 0$), ignoring the terms with $\Delta t^2$.
 
 (In the next paragraph, we will use this property to derive the parameters $u$, $d$, and $p$ in the CRR binomial tree framework.)
 
@@ -166,8 +166,8 @@ $$
 By considering the logarithmic stock price space and the constraint of $p=1/2$, then
 
 $$
-u = e^{\left(r - \frac{\sigma[^2]}{2}\right)\Delta t + \sigma \sqrt{\Delta t}}, \quad
-d = e^{\left(r - \frac{\sigma[^2]}{2}\right)\Delta t - \sigma \sqrt{\Delta t}},
+u = e^{\left(r - \frac{\sigma^2}{2}\right)\Delta t + \sigma \sqrt{\Delta t}}, \quad
+d = e^{\left(r - \frac{\sigma^2}{2}\right)\Delta t - \sigma \sqrt{\Delta t}},
 $$
 
 Can be solved as follows.
@@ -176,11 +176,11 @@ Can be solved as follows.
 !Figure 4-6
 
 $$
-\ln S_{t+\Delta t} \sim N\left( \ln S_t + \left(r - \frac{\sigma[^2]}{2}\right)\Delta t,\; \sigma[^2] \Delta t \right)
+\ln S_{t+\Delta t} \sim N\left( \ln S_t + \left(r - \frac{\sigma^2}{2}\right)\Delta t,\; \sigma^2 \Delta t \right)
 $$
 
 $$
-\therefore E[\ln S_{t+\Delta t}] = \ln S_t + \left(r - \frac{\sigma[^2]}{2}\right)\Delta t,\quad \mathrm{var}(\ln S_{t+\Delta t}) = \sigma[^2] \Delta t
+\therefore E[\ln S_{t+\Delta t}] = \ln S_t + \left(r - \frac{\sigma^2}{2}\right)\Delta t,\quad \mathrm{var}(\ln S_{t+\Delta t}) = \sigma^2 \Delta t
 $$
 
 Matching mean and variance of $\ln S_{t+\Delta t}$:
@@ -189,8 +189,8 @@ $$
 \Rightarrow
 \left\{
 \begin{array}{ll}
-p (\ln S_t + \ln u) + (1-p) (\ln S_t + \ln d) = \ln S_t + \left(r - \frac{\sigma[^2]}{2}\right)\Delta t, \\
-p (\ln S_t + \ln u)[^2] + (1-p) (\ln S_t + \ln d)[^2] - \left( \ln S_t + \left(r - \frac{\sigma[^2]}{2}\right)\Delta t \right)[^2] = \sigma[^2] \Delta t
+p (\ln S_t + \ln u) + (1-p) (\ln S_t + \ln d) = \ln S_t + \left(r - \frac{\sigma^2}{2}\right)\Delta t, \\
+p (\ln S_t + \ln u)^2 + (1-p) (\ln S_t + \ln d)^2 - \left( \ln S_t + \left(r - \frac{\sigma^2}{2}\right)\Delta t \right)^2 = \sigma^2 \Delta t
 \end{array}
 \right.
 $$
@@ -198,7 +198,7 @@ $$
 In this model, $p$ is fixed to be 0.5, and only $u$ and $d$ are left as unknowns. By further derivations, one obtains
 
 $$
-\ln u = 2 \left(r - \frac{\sigma[^2]}{2}\right)\Delta t - \ln d.
+\ln u = 2 \left(r - \frac{\sigma^2}{2}\right)\Delta t - \ln d.
 $$
 
 $\Rightarrow$ Replacing $\ln u$ with $2\mu - D$ in Eq. (2) yields
@@ -411,7 +411,7 @@ $$
 For any derivative $f$ on $S$, by Itô's lemma:
 
 $$
-df = \left( \frac{\partial f}{\partial t} + \frac{\partial f}{\partial S} (\mu - q) S + \frac{1}{2} \frac{\partial[^2] f}{\partial S[^2]} \sigma[^2] S[^2] \right) dt + \frac{\partial f}{\partial S} \sigma S dZ.
+df = \left( \frac{\partial f}{\partial t} + \frac{\partial f}{\partial S} (\mu - q) S + \frac{1}{2} \frac{\partial^2 f}{\partial S^2} \sigma^2 S^2 \right) dt + \frac{\partial f}{\partial S} \sigma S dZ.
 $$
 
 Construct a portfolio $\pi$:
@@ -421,7 +421,7 @@ $$
 $$
 
 $$
-= \left( -\frac{\partial f}{\partial t} - \frac{1}{2} \frac{\partial[^2] f}{\partial S[^2]} \sigma[^2] S[^2] + \frac{\partial f}{\partial S} S q \right) dt.
+= \left( -\frac{\partial f}{\partial t} - \frac{1}{2} \frac{\partial^2 f}{\partial S^2} \sigma^2 S^2 + \frac{\partial f}{\partial S} S q \right) dt.
 $$
 
 Due to the no-arbitrage argument,
@@ -431,11 +431,11 @@ d\pi = r \pi dt
 $$
 
 $$
-\Rightarrow \left( -\frac{\partial f}{\partial t} - \frac{1}{2} \frac{\partial[^2] f}{\partial S[^2]} \sigma[^2] S[^2] + \frac{\partial f}{\partial S} S q \right) dt = r (-f + \frac{\partial f}{\partial S} S) dt
+\Rightarrow \left( -\frac{\partial f}{\partial t} - \frac{1}{2} \frac{\partial^2 f}{\partial S^2} \sigma^2 S^2 + \frac{\partial f}{\partial S} S q \right) dt = r (-f + \frac{\partial f}{\partial S} S) dt
 $$
 
 $$
-\Rightarrow \frac{\partial f}{\partial t} + (r - q) S \frac{\partial f}{\partial S} + \frac{1}{2} \sigma[^2] S[^2] \frac{\partial[^2] f}{\partial S[^2]} = r f.
+\Rightarrow \frac{\partial f}{\partial t} + (r - q) S \frac{\partial f}{\partial S} + \frac{1}{2} \sigma^2 S^2 \frac{\partial^2 f}{\partial S^2} = r f.
 $$
 
 You can check that the formulas shown at the top of this page are the solutions to the above PDE given the boundary conditions being $\max (S_T - K, 0)$ and $\max (K - S_T, 0)$ for the call and put options, respectively.
@@ -527,7 +527,7 @@ $$
 Where
 
 $$
-d_1 = \frac{\ln (S_0/K) + (r - r_f + \frac{\sigma[^2]}{2}) T}{\sigma \sqrt{T}},
+d_1 = \frac{\ln (S_0/K) + (r - r_f + \frac{\sigma^2}{2}) T}{\sigma \sqrt{T}},
 \quad
 d_2 = d_1 - \sigma \sqrt{T}.
 $$
@@ -549,17 +549,17 @@ $$
 Let $c (F, t)$ be the call on futures, and according to Itô's lemma,
 
 $$
-d c = \left( \frac{\partial c}{\partial t} + \frac{\partial c}{\partial F} \mu F + \frac{1}{2} \frac{\partial[^2] c}{\partial F[^2]} \sigma[^2] F[^2] \right) dt + \frac{\partial c}{\partial F} \sigma F dZ.
+d c = \left( \frac{\partial c}{\partial t} + \frac{\partial c}{\partial F} \mu F + \frac{1}{2} \frac{\partial^2 c}{\partial F^2} \sigma^2 F^2 \right) dt + \frac{\partial c}{\partial F} \sigma F dZ.
 $$
 
 Construct portfolio $\pi = -c + \left ( \frac{\partial c}{\partial F} \right) F$ (noting the initial value of futures is 0),
 
 $$
-d\pi = -d c + \frac{\partial c}{\partial F} d F = -\left( \frac{\partial c}{\partial t} + \frac{1}{2} \frac{\partial[^2] c}{\partial F[^2]} \sigma[^2] F[^2] \right) dt = r \pi dt = r (-c) dt
+d\pi = -d c + \frac{\partial c}{\partial F} d F = -\left( \frac{\partial c}{\partial t} + \frac{1}{2} \frac{\partial^2 c}{\partial F^2} \sigma^2 F^2 \right) dt = r \pi dt = r (-c) dt
 $$
 
 $$
-\Rightarrow \frac{\partial c}{\partial t} + \frac{1}{2} \sigma[^2] F[^2] \frac{\partial[^2] c}{\partial F[^2]} = r c.
+\Rightarrow \frac{\partial c}{\partial t} + \frac{1}{2} \sigma^2 F^2 \frac{\partial^2 c}{\partial F^2} = r c.
 $$
 
 (Comparing with the PDE for stock options, there is no such term $\frac{\partial c}{\partial F} (r - q) F$.)
@@ -573,7 +573,7 @@ $$
 Where
 
 $$
-d_1 = \frac{\ln(F_0/K) + \frac{\sigma[^2]}{2} T}{\sigma \sqrt{T}},
+d_1 = \frac{\ln(F_0/K) + \frac{\sigma^2}{2} T}{\sigma \sqrt{T}},
 \quad
 d_2 = d_1 - \sigma \sqrt{T}.
 $$
@@ -610,7 +610,7 @@ $$
 
 Where $\binom{n}{j}$, also denoted as $C_j^n$, is the combination of $j$ from $n$, $u = e^{\sigma \sqrt{\Delta t}}$, $d = e^{-\sigma \sqrt{\Delta t}}$, and $p = \frac{e^{(r - q) \Delta t} - d}{u - d}$.
 
-*$^*$ For the binomial tree model, its complexity is $O(n[^2])$, whereas for the above combinatorial method, the complexity is $O(n)$. The difference in required computational time is substantial for a large number of $n$, e.g., $n > 5000$.
+*$^*$ For the binomial tree model, its complexity is $O(n^2)$, whereas for the above combinatorial method, the complexity is $O(n)$. The difference in required computational time is substantial for a large number of $n$, e.g., $n > 5000$.
 
 ## Appendix A. Binomial Tree Model for Jump-Diffusion Processes
 

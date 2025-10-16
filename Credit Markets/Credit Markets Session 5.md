@@ -36,7 +36,6 @@ key_concepts:
 ---
 
 # Credit Markets Session 5
-<<<<<<< HEAD
 1. Capital Structure
 	- Structural Approach to Credit Default Risk
 2. Black-Scholes Model

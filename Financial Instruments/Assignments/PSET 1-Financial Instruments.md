@@ -211,9 +211,6 @@ Please, do the following:
 > 
 > Applying formula 4, we can compute the continuously compounded US and EURO LIBOR rates. The results are shown in the table above. Using these rates, we apply formula 2 to compute Forward Exchange rates.
 (2) Do your forward exchange rates match (approximately) the quoted ones?
-<<<<<<< HEAD
-=======
-
 > [!ANSWER]
 > We compute the difference between the quoted and the computed Forward Exchange rates, which are reported in the table below.
 > 
@@ -234,30 +231,7 @@ Please, do the following:
 > | 02-Oct-06 | 0.0002 | 0.0001 | 0.0000 | -0.0002 | 
 > | 01-Oct-07 | 0.0004 | 0.0008 | 0.0007 | 0.0018 | 
 > | 01-Oct-08 | 0.0034 | 0.0065 | 0.0102 | 0.0134 | 
-> | 01-Oct-09 | 0.0003 | 0.0015 | 0.0025 | -0.0004 | 
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
-
-> [!ANSWER]
-> We compute the difference between the quoted and the computed Forward Exchange rates, which are reported in the table below.
-> 
-> If we exclude October 1st 2008, the difference is smaller than 0.001 in most of the cases.
-> 
-> For October 1st 2008 (15 days after Lehman failure), the difference is larger. To understand why this is so, think about how we determined formula 2 for the Forward Exchange rate:
-> 
-> - Our assumption was that we could set up a strategy which perfectly matches the cash flows of a short forward position in euros for dollars.
-> - The strategy requires borrowing in euros, exchanging euros into dollars and investing the money at the dollar interest rate.
-> - If market participants are worried about third party solvency, borrowing may be much more difficult, especially for longer maturities.
-> - If borrowing is more difficult, then arbitrageurs may have a hard time correcting market inefficiencies, and the result is quoted prices misaligned with the theoretical ones.
-> 
-> **Table: Difference between quoted and computed Forward Exchange rates**
-> 
-> | Date | 1M | 3M | 6M | 1Y | 
-> | ------------ | -------- | -------- | -------- | -------- | 
-> | 03-Oct-05 | 0.0002 | 0.0001 | 0.0002 | 0.0005 | 
-> | 02-Oct-06 | 0.0002 | 0.0001 | 0.0000 | -0.0002 | 
-> | 01-Oct-07 | 0.0004 | 0.0008 | 0.0007 | 0.0018 | 
-> | 01-Oct-08 | 0.0034 | 0.0065 | 0.0102 | 0.0134 | 
-> | 01-Oct-09 | 0.0003 | 0.0015 | 0.0025 | -0.0004 | 
+> | 01-Oct-09 | 0.0003 | 0.0015 | 0.0025 | -0.0004 |
 
 (3) If not,  pick one particular date in which the parity is violated,  and describe the arbitrage strategy you would undertake.
 

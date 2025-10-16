@@ -33,10 +33,10 @@ We'll use the simple example we used when discussing the one-period binomial mod
 We showed that in determining the price of the option,  the probability that the stock price rises or falls was irrelevant. Now,  however,  suppose that the true probability of the up state is $\pi$ = 4/5 and the probability of the down state is $(1-\pi)=1/5$. The expected rate of return on the stock is therefore $\mu_{S}=(4/5) 75+(1/5)(-25)=55\%$ and with an interest rate of $25\%$ the excess over the risk-free rate is $\mu_{S}-r=55-25=30\%$. Given that the price of the call is 30,  the rate of return on the call option is (75-30)/30 or $150\%$ in the up state and $-100\%$ in the down state. Thus,  the expected rate of return on the call option is $\mu_{C}=100\%$ and the excess return over the risk-free rate is $\mu_{C}-r=75\%$. Thus,  the excess return on the call is 2.5 times the excess return on the underlying asset. We know that this extra return will only come at the cost of extra risk.
 
 The standard deviation of the rate of return on the stock is often simply referred to as the stock's volatility. The volatility of the stock is
-$$\sigma_S=\sqrt{\frac{4}{5}(75-55)[^2]+\frac{1}{5}(-25-55)[^2]}=40\%$$
+$$\sigma_S=\sqrt{\frac{4}{5}(75-55)^2+\frac{1}{5}(-25-55)^2}=40\%$$
 
 And the standard deviation of the rate of return on the call option,  or the call's volatility is
-$$\sigma_C=\sqrt{\frac{4}{5}(150-100)[^2]+\frac{1}{5}(-100-100)[^2]}=100\%.$$
+$$\sigma_C=\sqrt{\frac{4}{5}(150-100)^2+\frac{1}{5}(-100-100)^2}=100\%.$$
 
 Thus the standard deviation of the call returns is again 2.5 times the standard deviation of the stock returns.
 

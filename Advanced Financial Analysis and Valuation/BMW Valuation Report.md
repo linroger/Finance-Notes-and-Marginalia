@@ -46,9 +46,9 @@ Based on a discounted cash flow (DCF) analysis and a comparative company analysi
 
 **Business Highlights**
 
-**- Automotive Segment:** In 2023, BMW achieved record sales of 2.55 million vehicles, including significant growth in all-electric vehicle sales, which increased by 74.1% to 375,716 units. The segment's revenues rose to €132,277 million, with an EBIT%20Formula%20and%20Example.md) margin of 9.8%.
+**- Automotive Segment:** In 2023, BMW achieved record sales of 2.55 million vehicles, including significant growth in all-electric vehicle sales, which increased by 74.1% to 375,716 units. The segment's revenues rose to €132,277 million, with an EBIT margin of 9.8%.
 
-**- Motorcycles Segment:** BMW Motorrad set a new sales record with 209,066 units, marking a 3.0% increase. The segment's EBIT%20Formula%20and%20Example.md) margin remained stable at 8.1%, with strong growth in Europe and the Americas.
+**- Motorcycles Segment:** BMW Motorrad set a new sales record with 209,066 units, marking a 3.0% increase. The segment's EBIT margin remained stable at 8.1%, with strong growth in Europe and the Americas.
 
 **- Financial Services Segment:** Despite a 7.6% decline in profit before tax to €2,962 million due to higher refinancing costs, the segment maintained a low credit loss ratio and saw a 3.4% increase in new credit financing and leasing agreements.
 

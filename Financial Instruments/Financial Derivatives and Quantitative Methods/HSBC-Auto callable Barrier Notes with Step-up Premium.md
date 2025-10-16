@@ -37,11 +37,11 @@ We have appointed HSBC Securities (USA) Inc.,  an affiliate of ours,  as the age
 
 The Estimated Initial Value of the Notes on the Pricing Date is expected to be between $\S850.00$ and $\S950.00$ per Note,  which will be less than the price to public. The market value of the Notes at any time will reflect many factors and cannot be predicted with accuracy. See “Estimated Initial Value” on page FWP-5 and “Risk Factors” beginning on page FWP-9 of this document for additional information.
 
- !500
+*[Table: HSBC Auto Callable Barrier Notes Key Terms]*
 
 Indicative Terms (1)
 
- !500
+*[Table: Detailed Terms and Conditions]*
 
 # The Notes
 
