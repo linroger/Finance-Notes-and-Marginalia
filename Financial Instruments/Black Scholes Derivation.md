@@ -61,11 +61,11 @@ The goal is to choose $\Delta$ such that the portfolio is risk-neutral, meaning 
 
 Using a Taylor series expansion, we approximate the change in the call option price $C$ over a small time interval $dt$:
 
-$$dC = \frac{\partial C}{\partial S} dS + \frac{\partial C}{\partial t} dt + \frac{1}{2}\frac{\partial^2 C}{\partial S^2}(dS)^2$$
+$$dC = \frac{\partial C}{\partial S} dS + \frac{\partial C}{\partial t} dt + \frac{1}{2}\frac{\partial[^2] C}{\partial S[^2]}(dS)[^2]$$
 
-Substituting the expression for $dS$ and noting that $(dS)^2 = \sigma^2 S^2 dt$ (using Ito's lemma):
+Substituting the expression for $dS$ and noting that $(dS)[^2] = \sigma[^2] S[^2] dt$ (using Ito's lemma):
 
-$$dC = \frac{\partial C}{\partial S} (\mu S dt + \sigma S dW) + \frac{\partial C}{\partial t} dt + \frac{1}{2}\frac{\partial^2 C}{\partial S^2}\sigma^2 S^2 dt$$
+$$dC = \frac{\partial C}{\partial S} (\mu S dt + \sigma S dW) + \frac{\partial C}{\partial t} dt + \frac{1}{2}\frac{\partial[^2] C}{\partial S[^2]}\sigma[^2] S[^2] dt$$
 
 The change in the portfolio value $d\Pi$ is:
 
@@ -73,17 +73,17 @@ $$d\Pi = dC - \Delta dS$$
 
 Substituting $dC$ and $dS$:
 
-$$d\Pi = \left(\frac{\partial C}{\partial S} (\mu S dt + \sigma S dW) + \frac{\partial C}{\partial t} dt + \frac{1}{2}\frac{\partial^2 C}{\partial S^2}\sigma^2 S^2 dt\right) - \Delta (\mu S dt + \sigma S dW)$$
+$$d\Pi = \left(\frac{\partial C}{\partial S} (\mu S dt + \sigma S dW) + \frac{\partial C}{\partial t} dt + \frac{1}{2}\frac{\partial[^2] C}{\partial S[^2]}\sigma[^2] S[^2] dt\right) - \Delta (\mu S dt + \sigma S dW)$$
 
 ## Step 5: Eliminate Random Component
 
 To make the portfolio risk-neutral, we set $\Delta = \frac{\partial C}{\partial S}$. This eliminates the random component $dW$:
 
-$$d\Pi = \left(\frac{\partial C}{\partial S} (\mu S dt) + \frac{\partial C}{\partial t} dt + \frac{1}{2}\frac{\partial^2 C}{\partial S^2}\sigma^2 S^2 dt\right) - \frac{\partial C}{\partial S} (\mu S dt)$$
+$$d\Pi = \left(\frac{\partial C}{\partial S} (\mu S dt) + \frac{\partial C}{\partial t} dt + \frac{1}{2}\frac{\partial[^2] C}{\partial S[^2]}\sigma[^2] S[^2] dt\right) - \frac{\partial C}{\partial S} (\mu S dt)$$
 
 Simplifying:
 
-$$d\Pi = \frac{\partial C}{\partial t} dt + \frac{1}{2}\frac{\partial^2 C}{\partial S^2}\sigma^2 S^2 dt$$
+$$d\Pi = \frac{\partial C}{\partial t} dt + \frac{1}{2}\frac{\partial[^2] C}{\partial S[^2]}\sigma[^2] S[^2] dt$$
 
 ## Step 6: Equate Portfolio Return to Risk-Free Rate
 
@@ -93,17 +93,17 @@ $$d\Pi = r \Pi dt$$
 
 Substituting $\Pi = C - \Delta S$ and $\Delta = \frac{\partial C}{\partial S}$:
 
-$$\frac{\partial C}{\partial t} dt + \frac{1}{2}\frac{\partial^2 C}{\partial S^2}\sigma^2 S^2 dt = r \left(C - \frac{\partial C}{\partial S}S\right) dt$$
+$$\frac{\partial C}{\partial t} dt + \frac{1}{2}\frac{\partial[^2] C}{\partial S[^2]}\sigma[^2] S[^2] dt = r \left(C - \frac{\partial C}{\partial S}S\right) dt$$
 
 Dividing both sides by $dt$:
 
-$$\frac{\partial C}{\partial t} + \frac{1}{2}\frac{\partial^2 C}{\partial S^2}\sigma^2 S^2 = r \left(C - \frac{\partial C}{\partial S}S\right)$$
+$$\frac{\partial C}{\partial t} + \frac{1}{2}\frac{\partial[^2] C}{\partial S[^2]}\sigma[^2] S[^2] = r \left(C - \frac{\partial C}{\partial S}S\right)$$
 
 ## Step 7: Finalize the Black-Scholes PDE
 
 Rearranging the terms, we arrive at the Black-Scholes partial differential equation:
 
-$$\frac{\partial C}{\partial t} + \frac{1}{2} \sigma^2 S^2 \frac{\partial^2 C}{\partial S^2} + rS \frac{\partial C}{\partial S} - rC = 0$$
+$$\frac{\partial C}{\partial t} + \frac{1}{2} \sigma[^2] S[^2] \frac{\partial[^2] C}{\partial S[^2]} + rS \frac{\partial C}{\partial S} - rC = 0$$
 
 This PDE describes how the price of a European call option changes with respect to time and the underlying asset price, considering the effects of volatility, risk-free rate, and time decay.
 
@@ -124,7 +124,7 @@ The solution to the Black-Scholes PDE is:
 $$C(S, t) = SN(d_1) - Ke^{-r(T-t)}N(d_2)$$
 
 Where:
-- $d_1 = \frac{\ln\left(\frac{S}{K}\right) + \left(r + \frac{1}{2}\sigma^2\right)(T-t)}{\sigma\sqrt{T-t}}$
+- $d_1 = \frac{\ln\left(\frac{S}{K}\right) + \left(r + \frac{1}{2}\sigma[^2]\right)(T-t)}{\sigma\sqrt{T-t}}$
 - $d_2 = d_1 - \sigma\sqrt{T-t}$
 - $N(\cdot)$ is the cumulative distribution function of the standard normal distribution.
 

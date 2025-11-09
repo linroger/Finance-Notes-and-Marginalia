@@ -33,10 +33,10 @@ key_concepts:
 
 There are four model parameters that collectively determine the forward rate for a currency security.
 
-1. Home/Foreign Exchange rate: $M$
-2. Interest rate in home country: $r_\$$
-3. Interest rate in foreign country: $r_\text{€}$
-4. Maturity: $T$
+[^1]: Home/Foreign Exchange rate: $M$
+[^2]: Interest rate in home country: $r_\$$
+[^3]: Interest rate in foreign country: $r_\text{€}$
+[^4]: Maturity: $T$
 
 The interest rates $(r_\$, r_\text{€})$ are continuously compounded. The exchange rate $M$ denotes the number of units of the Home currency required to purchase one unit of the Foreign currency. For example, if $M = 1.2$, then 1.2 units of the Home currency (e.g., USD) are required to purchase one unit of the Foreign currency (e.g., EUR).
 

@@ -27,28 +27,28 @@ key_concepts:
 
 # Credit Markets Session 3
 
-1. CDS pricing in the Hazard Rate Model
+[^1]: CDS pricing in the Hazard Rate Model
    - CDS cash-flows
    - CDS pricing
    - Hazard Rates
    - ISDA CDS Hazard Rate model
    - Simple CDS pricing formulas
-2. Bond pricing in the Hazard Rate Model
+[^2]: Bond pricing in the Hazard Rate Model
    - Generic bond pricing
    - Simple bond pricing formulas
    - Yield/spread model vs hazard rate model
-3. Calibration, Model Prices & Edges
+[^3]: Calibration, Model Prices & Edges
    - Calibration of the Hazard Rate Model
    - Prices and Edges
-4. Q&A
+[^4]: Q&A
 
 ## Reminder: CDS Cash-Flows Diagram
 
-![500](02e885a66702d7f24bcf990b5c66ca08.png)
+!500
 
 ## CDS Cumulative Cash-Flows (Premium and Default Legs)
 
-![500](590457ab2abdc6df18add125abb4adb4.png)
+!500
 
 ## Risk Neutral Valuation Framework
 
@@ -60,15 +60,15 @@ $$CF(t), \quad t\geq0 \tag{1}$$
 $$B(t)=e^{\int_{0}^{t}r_{s}ds}, \, t\geq0$$
 
 - Present value obtained as
-$$PV(t)=B(t)\cdot\mathbb{E}\left[\int_{t}^{\infty}B(s)^{-1}\cdot dCF(s)|\mathcal{F}_{t}\right]$$
+$$PV(t)=B(t)\cdot\mathbb{E}\left[\int_{t}^{\infty}B(s)^{-1}\cdot dCF(s) | \mathcal{F}_{t}\right]$$
 
 ## Simple Case: Deterministic Interest Rates
 
 - We consider the simple case of deterministic interest rates. The "time value of money" at time t for time s is captured in the calibrated discount factor curve:
-$$DF(t, s)=B(t)\cdot\mathbb{E}\left[B(s)^{-1}|\mathcal{F}_{t}\right]=e^{-\int_{t}^{s}r_{u}du}, \ 0\leq t\leq s \tag{3}$$
+$$DF(t, s)=B(t)\cdot\mathbb{E}\left[B(s)^{-1} | \mathcal{F}_{t}\right]=e^{-\int_{t}^{s}r_{u}du}, \ 0\leq t\leq s \tag{3}$$
 
 - The risk free valuation formula simplifies to
-$$PV(t)=\mathbb{E}\left[\int_{t}^{\infty}DF(t, s)\cdot dCF(s)|\mathcal{F}_{t}\right] \tag{4}$$
+$$PV(t)=\mathbb{E}\left[\int_{t}^{\infty}DF(t, s)\cdot dCF(s) | \mathcal{F}_{t}\right] \tag{4}$$
 
 - Same formula holds when security cash-flows and interest rates are independent
 
@@ -84,8 +84,8 @@ $$c_{i}\cdot\mathbb{I}_{\{s\geq T_{i}\}}\cdot\mathbb{I}_{\{\tau>T_{i}\}} \tag{6}
 - We assume DF(t, s) is the deterministic risk-free discount factor (as of time t, for time s). The DF(t, .) curve can be calibrated from market quotes via bootstrapping.
 - Reminder: $\tau \in [0, \infty)$ is the random/stochastic issuer default time
 - Market implied issuer survival & default probabilities:
-$$SP(t, s):=\mathbb{P}(\tau>s|\tau>t), \ \ 0\leq t\leq s \tag{7}$$
-$$DP(t, s):=\mathbb{P}(\tau\leq s|\tau>t)=1-SP(t, s) \tag{8}$$
+$$SP(t, s):=\mathbb{P}(\tau>s | \tau>t), \ \ 0\leq t\leq s \tag{7}$$
+$$DP(t, s):=\mathbb{P}(\tau\leq s | \tau>t)=1-SP(t, s) \tag{8}$$
 
 ## Risk Neutral Valuation of CDS Premium/Fixed Leg
 
@@ -109,8 +109,8 @@ $$DL(s):=(1-R)\cdot\mathbb{I}_{\{\tau\leq s\}} \tag{15}$$
 ## Valuation of CDS Default/Loss Leg (Using Fubini)
 
 $$\begin{aligned}
-PV_{CDS\_DL}(t) &= \mathbb{E}\left[\int_{t}^{T}(1-R)\cdot DF(t, s)\cdot d\mathbb{I}_{\{\tau\leq s\}}|\tau>t\right] \\
-&= \int_{t}^{T}(1-R)\cdot DF(t, s)\cdot d\mathbb{P}(\tau\leq s|\tau>t) \\
+PV_{CDS\_DL}(t) &= \mathbb{E}\left[\int_{t}^{T}(1-R)\cdot DF(t, s)\cdot d\mathbb{I}_{\{\tau\leq s\}} | \tau>t\right] \\
+&= \int_{t}^{T}(1-R)\cdot DF(t, s)\cdot d\mathbb{P}(\tau\leq s | \tau>t) \\
 &= (1-R)\cdot\int_{t}^{T}DF(t, s)\cdot dDP(t, s) \tag{20}
 \end{aligned}$$
 
@@ -146,7 +146,7 @@ $$h(t, s)=-\frac{\partial}{\partial s}\ln[SP(t, s)]=-\frac{1}{SP(t, s)}\cdot\fra
 Hazard rates $h(t, s)$ quantify conditional probabilities of default "around" specific times $s$ in the future:
 
 $$\begin{aligned}
-\mathbb{P}(s<\tau<s+\epsilon|\tau>s, \tau>t) &= \frac{\mathbb{P}(s<\tau<s+\epsilon|\tau>t)}{\mathbb{P}(\tau>s|\tau>t)} \\
+\mathbb{P}(s<\tau<s+\epsilon | \tau>s, \tau>t) &= \frac{\mathbb{P}(s<\tau<s+\epsilon | \tau>t)}{\mathbb{P}(\tau>s | \tau>t)} \\
 &= \frac{SP(t, s)-SP(t, s+\epsilon)}{SP(t, s)} \\
 &= 1-\exp\left[-\int_{s}^{s+\epsilon}h(t, u)du\right] \\
 &\simeq h(t, s)\cdot\epsilon, \ \ 0\leq t\leq s
@@ -238,7 +238,7 @@ PV_{CDS}(c, r, h, R, T) &= \sum_{k=1}^{4T} \frac{c}{4} \cdot e^{-k \cdot (r+h)/4
 
 ## CDS Valuation Surface (5% Flat Interest Rates, 5% Coupon) 
 
-![500](ff4daa49d51e35f704363ecc48e1f397.png)
+!500
 
 ## ISDA CDS "Curve Shape" Model
 
@@ -250,7 +250,7 @@ PV_{CDS}(c, r, h, R, T) &= \sum_{k=1}^{4T} \frac{c}{4} \cdot e^{-k \cdot (r+h)/4
   - Curve calibrated to 3M LIBOR until Oct 2022 
   - Curve calibrated to 3M SOFR after Oct 2022
 
-![500](bcf4324ce737732237aa9cd687528bcf.png)
+!500
 
 ## Bond Pricing in the Hazard Rate Model 
 
@@ -281,7 +281,7 @@ PV_{Bond}(c, r, h, R) &= \sum_{k=1}^{2T} \frac{c}{2} \cdot e^{-k \cdot (r+h)/2} 
 
 ## Bond Valuation Surface Using Hazard Rate Model 
 
-![500](b090a10c674e9619ed30797c6a98325e.png)
+!500
 
 ## Yield/Spread Model vs Hazard Rate Model
 
@@ -323,7 +323,7 @@ $$s=(1-R) \cdot h \tag{62}$$
 
 ## Credit Curve Shapes: VZ vs US Treasury Yields
 
-![500](63cb053f2afd6bf0d66b64295ea9749b.png)
+!500
 
 ## Calibration of the Hazard Rate Model
 
@@ -356,7 +356,7 @@ $$s=(1-R) \cdot h \tag{62}$$
 
 ## Bond vs CDS Basis Example: VZ Curve 
 
-![500](7152aea3e4bab8153540da4ee622c989.png)
+!500
 
 ## Q&A
 

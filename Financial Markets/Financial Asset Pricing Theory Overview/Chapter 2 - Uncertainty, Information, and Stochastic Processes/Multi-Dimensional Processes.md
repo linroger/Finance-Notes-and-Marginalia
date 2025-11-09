@@ -29,9 +29,9 @@ key_concepts:
 
 # 2.7 Multi-dimensional processes  
 
-So far we have only considered one-dimensional processes, i.e. processes with a value space which is $\mathbb{R}$ or a subset of $\mathbb{R}$ . In most [asset pricing models](../../../Financial%20Engineering/Financial%20Mathematics%20Course.md) we need to keep track of several processes, e.g. dividend and price processes for different assets, and we will often be interested in [covariances and correlations](.md) between different processes.  
+So far we have only considered one-dimensional processes, i.e. processes with a value space which is $\mathbb{R}$ or a subset of $\mathbb{R}$ . In most asset pricing models we need to keep track of several processes, e.g. dividend and price processes for different assets, and we will often be interested in covariances and correlations between different processes.  
 
-If the [exogenous shocks](Some%20Discrete-Time%20Stochastic%20Processes.md) in the model are one-dimensional, then increments over the smallest. time interval considered in the model will be perfectly correlated. In a discrete-time model where the [exogenous shocks](Some%20Discrete-Time%20Stochastic%20Processes.md). $\varepsilon_{1},\ldots,\varepsilon_{T}$ are one-dimensional, changes in any two processes between two. subsequent points in time, say. $t$ and $t+1$ , will be perfectly correlated. For example, suppose. $X$ and $Y$ are two general processes defined by  
+If the exogenous shocks in the model are one-dimensional, then increments over the smallest. time interval considered in the model will be perfectly correlated. In a discrete-time model where the exogenous shocks. $\varepsilon_{1},\ldots,\varepsilon_{T}$ are one-dimensional, changes in any two processes between two. subsequent points in time, say. $t$ and $t+1$ , will be perfectly correlated. For example, suppose. $X$ and $Y$ are two general processes defined by  
 $$
 \Delta X_{t+1}=\mu_{X t}+\sigma_{X t}\varepsilon_{t+1},\qquad\Delta Y_{t+1}=\mu_{Y t}+\sigma_{Y t}\varepsilon_{t+1}
 $$  
@@ -43,19 +43,19 @@ $$
 
 Increments in two processes over more than one sub-period are generally not perfectly correlated even with a one-dimensional shock..  
 
-In a continuous-time model where the exogenous shock processe $z=(z_{t})_{t\in[0,T]}$ is one-dimensional, the instantaneous increments of any two processes will be perfectly correlated. For example, if we consider the two [Ito processes](.md) $X$ and $Y$ defined by  
+In a continuous-time model where the exogenous shock processe $z=(z_{t})_{t\in[0,T]}$ is one-dimensional, the instantaneous increments of any two processes will be perfectly correlated. For example, if we consider the two Ito processes $X$ and $Y$ defined by  
 $$
 \mathrm{~\boldmath~\sigma~}=\mu_{X t}d t+\sigma_{X t}d z_{t},\quad\mathrm{~\boldmath~}d Y_{t}=\mu_{Y t}d t+\sigma_{Y t}d z_{t},
 $$  
 
-then $\operatorname{Cov}_{t}[d X_{t},d Y_{t}]=\sigma_{X t}\sigma_{Y t}d t$ so that the [instantaneous correlation](.md) becomes  
+then $\operatorname{Cov}_{t}[d X_{t},d Y_{t}]=\sigma_{X t}\sigma_{Y t}d t$ so that the instantaneous correlation becomes  
 $$
 \operatorname{Corr}_{t}[d X_{t},d Y_{t}]={\frac{\operatorname{Cov}_{t}[d X_{t},d Y_{t}]}{{\sqrt{\operatorname{Var}_{t}[d X_{t}]\operatorname{Var}_{t}[d Y_{t}]}}}}={\frac{\sigma_{X t}\sigma_{Y t}d t}{{\sqrt{\sigma_{X t}^{2}d t\sigma_{Y t}^{2}d t}}}}=1.
 $$  
 
 Increments over any non-infinitesimal time interval are generally not perfectly correlated, i.e. for any $h>0$ a correlation like $\operatorname{Corr}_{t}[X_{t+h}-X_{t},Y_{t+h}-Y_{t}]$ is typically different from one but close to. one for small $h$  
 
-To obtain non-perfectly correlated changes over the shortest time period considered by the. model we need an exogenous shock of a dimension higher than one, i.e. a shock vector. One can. without loss of generality assume that the different components of this shock vector are mutually. independent and generate non-perfect correlations between the relevant processes by varying the. sensitivities of those processes towards the different [exogenous shocks](Some%20Discrete-Time%20Stochastic%20Processes.md). We will first consider the case of two processes and later generalize.  
+To obtain non-perfectly correlated changes over the shortest time period considered by the. model we need an exogenous shock of a dimension higher than one, i.e. a shock vector. One can. without loss of generality assume that the different components of this shock vector are mutually. independent and generate non-perfect correlations between the relevant processes by varying the. sensitivities of those processes towards the different exogenous shocks. We will first consider the case of two processes and later generalize.  
 
 # 2.7.1 Two-dimensional processes  
 
@@ -96,37 +96,37 @@ $$
 
 and therefore the squared correlation is generally smaller than one. The correlation will equal $^{-1}$ or $+1$ only if $\sigma_{X1t}=\sigma_{Y1t}=0$ or $\sigma_{X2t}=\sigma_{Y2t}=0$ so that we are effectively back to the single shock case.  
 
-Similarly, in the [continuous-time setting](../Chapter%206%20-%20Individual%20optimality/The%20Continuous-Time%20Framework.md) we add a standard [Brownian motion](Continuous-Time%20Stochastic%20Processes.md) so that  
+Similarly, in the continuous-time setting we add a standard Brownian motion so that  
 $$
 d X_{t}=\mu_{X t}d t+\sigma_{X1t}d z_{1t}+\sigma_{X2t}d z_{2t},\qquadd Y_{t}=\mu_{Y t}d t+\sigma_{Y1t}d z_{1t}+\sigma_{Y2t}d z_{2t},
 $$  
 
-where $z_{1}=\left(z_{1t}\right)$ and $z_{2}=\left(z_{2t}\right)$ are independent standard Brownian motions. This generates an instantaneous covariance of $\operatorname{Cov}_{t}[d X_{t},d Y_{t}]=\left(\sigma_{X1t}\sigma_{Y1t}+\sigma_{X2t}\sigma_{Y2t}\right)d t$ , instantaneous variances of $\mathrm{Var}_{t}[d X_{t}]=\left(\sigma_{X1t}^{2}+\sigma_{X2t}^{2}\right)d t$ and $\mathrm{Var}_{t}[d Y_{t}]=\left(\sigma_{Y1t}^{2}+\sigma_{Y2t}^{2}\right)d t$ and thus an [instantaneous correlation](.md) of  
+where $z_{1}=\left(z_{1t}\right)$ and $z_{2}=\left(z_{2t}\right)$ are independent standard Brownian motions. This generates an instantaneous covariance of $\operatorname{Cov}_{t}[d X_{t},d Y_{t}]=\left(\sigma_{X1t}\sigma_{Y1t}+\sigma_{X2t}\sigma_{Y2t}\right)d t$ , instantaneous variances of $\mathrm{Var}_{t}[d X_{t}]=\left(\sigma_{X1t}^{2}+\sigma_{X2t}^{2}\right)d t$ and $\mathrm{Var}_{t}[d Y_{t}]=\left(\sigma_{Y1t}^{2}+\sigma_{Y2t}^{2}\right)d t$ and thus an instantaneous correlation of  
 $$
 \mathrm{Corr}_{t}[d X_{t},d Y_{t}]=\frac{\sigma_{X1t}\sigma_{Y1t}+\sigma_{X2t}\sigma_{Y2t}}{\sqrt{\left(\sigma_{X1t}^{2}+\sigma_{X2t}^{2}\right)\left(\sigma_{Y1t}^{2}+\sigma_{Y2t}^{2}\right)}},
 $$  
 
 which again can be anywhere in the interval $[-1,+1]$  
 
-The shock coefficients $\sigma_{X1t}$ $\sigma_{X2t}$ $\sigma_{Y1t}$ , and $\sigma_{Y2t}$ are determining the two instantaneous variances and the [instantaneous correlation](.md). But many combinations of the four shock coefficients will give rise to the same variances and correlation. We have one degree of freedom in fixing the shock coefficients. For example, we can put $\sigma_{X2t}\equiv0$ , which has the nice implication that it will simplify various expressions and interpretations. If we thus write the dynamics of $X$ and $Y$ as  
+The shock coefficients $\sigma_{X1t}$ $\sigma_{X2t}$ $\sigma_{Y1t}$ , and $\sigma_{Y2t}$ are determining the two instantaneous variances and the instantaneous correlation. But many combinations of the four shock coefficients will give rise to the same variances and correlation. We have one degree of freedom in fixing the shock coefficients. For example, we can put $\sigma_{X2t}\equiv0$ , which has the nice implication that it will simplify various expressions and interpretations. If we thus write the dynamics of $X$ and $Y$ as  
 $$
 d X_{t}=\mu_{X t}d t+\sigma_{X t}d z_{1t},\qquadd Y_{t}=\mu_{Y t}d t+\sigma_{Y t}\left[\rho_{t}d z_{1t}+\sqrt{1-\rho_{t}^{2}}d z_{2t}\right],
 $$  
-$\sigma_{X t}^{2}$ and $\sigma_{Y t}^{2}$ are the variance rates of $X_{t}$ and $Y_{t}$ , respectively, while the covariance is. $\mathrm{Cov}_{t}[d X_{t},d Y_{t}]=$ $\rho_{t}\sigma_{X t}\sigma_{Y t}$ . If $\sigma_{X t}$ and $\sigma_{Y t}$ are both positive, then. $\rho_{t}$ will be the [instantaneous correlation](.md) between the two processes. $X$ and $Y$  
+$\sigma_{X t}^{2}$ and $\sigma_{Y t}^{2}$ are the variance rates of $X_{t}$ and $Y_{t}$ , respectively, while the covariance is. $\mathrm{Cov}_{t}[d X_{t},d Y_{t}]=$ $\rho_{t}\sigma_{X t}\sigma_{Y t}$ . If $\sigma_{X t}$ and $\sigma_{Y t}$ are both positive, then. $\rho_{t}$ will be the instantaneous correlation between the two processes. $X$ and $Y$  
 
-In many [continuous-time models](../../../Financial%20Engineering/Financial%20Mathematics%20Course.md), one [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) is defined in terms of a function of two other, not necessarily perfectly correlated, stochastic processes. For that purpose we need the following two-dimensional version of [Ito's Lemma](../../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md).  
+In many continuous-time models, one stochastic process%20Process.md) is defined in terms of a function of two other, not necessarily perfectly correlated, stochastic processes. For that purpose we need the following two-dimensional version of Ito's Lemma.  
 
 Theorem 2.6 Suppose $X=\left(X_{t}\right)$ and $Y=\left(Y_{t}\right)$ are two stochastic processes with dynamics  
 $$
 \begin{array}{r l r}{\tau_{X2t}d z_{2t},}&{{}}&{d Y_{t}=\mu_{Y t}d t+\sigma_{Y1t}d z_{1t}+\sigma_{Y2t}d z_{2}}\end{array}
 $$  
 
-where $z_{1}=(z_{1t}$ and $z_{2}~=~(z_{2t})$ are independent standard Brownian motions. Let $g(X,Y,t)$ be $a$ real-valued function for which all the [derivatives](../../Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) gt, ox, $\textstyle{\frac{\partial g}{\partial t}},{\frac{\partial g}{\partial X}},{\frac{\partial g}{\partial Y}},{\frac{\partial^{2}g}{\partial X^{2}}},{\frac{\partial^{2}g}{\partial Y^{2}}}$ , and! $\frac{\partial^{2}g}{\partial X\partial Y}$ erist and are continuous. Then the process $W=\left(W_{t}\right)$ defined by $W_{t}=g(X_{t},Y_{t},t)$ is an Ito process with  
+where $z_{1}=(z_{1t}$ and $z_{2}~=~(z_{2t})$ are independent standard Brownian motions. Let $g(X,Y,t)$ be $a$ real-valued function for which all the derivatives gt, ox, $\textstyle{\frac{\partial g}{\partial t}},{\frac{\partial g}{\partial X}},{\frac{\partial g}{\partial Y}},{\frac{\partial^{2}g}{\partial X^{2}}},{\frac{\partial^{2}g}{\partial Y^{2}}}$ , and! $\frac{\partial^{2}g}{\partial X\partial Y}$ erist and are continuous. Then the process $W=\left(W_{t}\right)$ defined by $W_{t}=g(X_{t},Y_{t},t)$ is an Ito process with  
 $$
 \begin{array}{l}{{d W_{t}=\displaystyle\left(\frac{\partial g}{\partial t}+\frac{\partial g}{\partial X}\mu_{X t}+\frac{\partial g}{\partial Y}\mu_{Y t}+\frac{1}{2}\frac{\partial^{2}g}{\partial X^{2}}\left(\sigma_{X1t}^{2}+\sigma_{X2t}^{2}\right)+\frac{1}{2}\frac{\partial^{2}g}{\partial Y^{2}}\left(\sigma_{Y1t}^{2}+\sigma_{Y2t}^{2}\right)}}\ {{\mathrm{}+\frac{\partial^{2}g}{\partial X\partial Y}\left(\sigma_{X1t}\sigma_{Y1t}+\sigma_{X2t}\sigma_{Y2t}\right)\displaystyle\right)d t}}\ {{\mathrm{}+\displaystyle\left(\frac{\partial g}{\partial X}\sigma_{X1t}+\frac{\partial g}{\partial Y}\sigma_{Y1t}\right)d z_{1t}+\left(\frac{\partial g}{\partial X}\sigma_{X2t}+\frac{\partial g}{\partial Y}\sigma_{Y2t}\right)d z_{2t},}}\end{array}
 $$  
 
-where the dependence of all the partial [derivatives](../../Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) on $\left({X}_{t},Y_{t},t\right)$ has been notationally suppressed.  
+where the dependence of all the partial derivatives on $\left({X}_{t},Y_{t},t\right)$ has been notationally suppressed.  
 
 Alternatively, the result can be written more compactly as  
 $$
@@ -135,7 +135,7 @@ $$
 
 where it is understood that $(d t)^{2}=d t\cdot d z_{1t}=d t\cdot d z_{2t}=d z_{1t}\cdot d z_{2t}=0$  
 
-Example 2.1 Suppose that the dynamics of $X$ and $Y$ are given by (2.16) and $W_{t}=X_{t}Y_{t}$ .In order to find the dynamics of $W$ , we apply the above version of [Ito's Lemma](../../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md) with the function $g(X,Y)=X Y$ . The relevant partial [derivatives](../../Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) are  
+Example 2.1 Suppose that the dynamics of $X$ and $Y$ are given by (2.16) and $W_{t}=X_{t}Y_{t}$ .In order to find the dynamics of $W$ , we apply the above version of Ito's Lemma with the function $g(X,Y)=X Y$ . The relevant partial derivatives are  
 $$
 {\frac{\partial g}{\partial t}}=0,\quad{\frac{\partial g}{\partial X}}=Y,\quad{\frac{\partial g}{\partial Y}}=X,\quad{\frac{\partial^{2}g}{\partial X^{2}}}=0,\quad{\frac{\partial^{2}g}{\partial Y^{2}}}=0,\quad{\frac{\partial^{2}g}{\partial X\partial Y}}=1.
 $$  
@@ -155,9 +155,9 @@ $$
 d W_{t}=W_{t}\left[\left(m_{X t}+m_{Y t}+v_{X1t}v_{Y1t}+v_{X2t}v_{Y2t}\right)d t+\left(v_{X1t}+v_{Y1t}\right)d z_{1t}+\left(v_{X2t}+v_{Y2t}\right)d z_{2t}\right].
 $$  
 
-For the special case, where both $X$ and $Y$ are [geometric Brownian motion](../../../Financial%20Instruments/Black%20Scholes%20Derivation.md) so that $m_{x}$ $m_{Y}$ $v_{X1}$ $v_{X2}$ $v_{Y1}$ , and $v_{Y2}$ are all constants, it follows that $W_{t}=X_{t}Y_{t}$ is also a [geometric Brownian motion](../../../Financial%20Instruments/Black%20Scholes%20Derivation.md).  
+For the special case, where both $X$ and $Y$ are geometric Brownian motion so that $m_{x}$ $m_{Y}$ $v_{X1}$ $v_{X2}$ $v_{Y1}$ , and $v_{Y2}$ are all constants, it follows that $W_{t}=X_{t}Y_{t}$ is also a geometric Brownian motion.  
 
-Example 2.2Define $W_{t}=X_{t}/Y_{t}$ . In this case we need to apply [Ito's Lemma](../../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md) with the function $g(X,Y)=X/Y$ which has [derivatives](../../Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md)  
+Example 2.2Define $W_{t}=X_{t}/Y_{t}$ . In this case we need to apply Ito's Lemma with the function $g(X,Y)=X/Y$ which has derivatives  
 $$
 {\frac{\partial g}{\partial t}}=0,\quad{\frac{\partial g}{\partial X}}={\frac{1}{Y}},\quad{\frac{\partial g}{\partial Y}}=-{\frac{X}{Y^{2}}},\quad{\frac{\partial^{2}g}{\partial X^{2}}}=0,\quad{\frac{\partial^{2}g}{\partial Y^{2}}}=2{\frac{X}{Y^{3}}},\quad{\frac{\partial^{2}g}{\partial X\partial Y}}=-{\frac{1}{Y^{2}}}.
 $$  
@@ -173,13 +173,13 @@ $$
 $$  
 
 Note that for the special case, where both $X$ and $Y$ are geometric Brownian motions,. $W=X/Y$   
-is also a [geometric Brownian motion](../../../Financial%20Instruments/Black%20Scholes%20Derivation.md)..  
+is also a geometric Brownian motion..  
 
-We can apply the two-dimensional version of [Ito's Lemma](../../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md) to prove the following useful result relating expected discounted values and the drift rate..  
+We can apply the two-dimensional version of Ito's Lemma to prove the following useful result relating expected discounted values and the drift rate..  
 
 Theorem 2.7 Under suitable regularity conditions, the relative drift rate of an Ito process $X=$ $X_{t}$ ) is given by the process. $m=\left(m_{t}\right)$ if and only if $\begin{array}{r}{X_{t}=\operatorname{E}_{t}[X_{T}\exp\{-\int_{t}^{T}m_{s}d s\}]}\end{array}$  
 
-Proof: Suppose first that the relative drift rate is given by. $m$ so that $d X_{t}=X_{t}[m_{t}d t+v_{t}d z_{t}]$ Let us use [Ito's Lemma](../../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md) to identify the dynamics of the process. $\begin{array}{r}{W_{t}=X_{t}\exp\{-\int_{0}^{t}m_{s}d s\}}\end{array}$ or $W_{t}~=~X_{t}Y_{t}$ , where $\begin{array}{r}{Y_{t}~=~\exp\{-\int_{0}^{t}m_{s}d s\}}\end{array}$ .Note that $d Y_{t}~=~-Y_{t}m_{t}d t$ so that $Y$ is a locally deterministic [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md). From Example 2.1, the dynamics of $W$ becomes  
+Proof: Suppose first that the relative drift rate is given by. $m$ so that $d X_{t}=X_{t}[m_{t}d t+v_{t}d z_{t}]$ Let us use Ito's Lemma to identify the dynamics of the process. $\begin{array}{r}{W_{t}=X_{t}\exp\{-\int_{0}^{t}m_{s}d s\}}\end{array}$ or $W_{t}~=~X_{t}Y_{t}$ , where $\begin{array}{r}{Y_{t}~=~\exp\{-\int_{0}^{t}m_{s}d s\}}\end{array}$ .Note that $d Y_{t}~=~-Y_{t}m_{t}d t$ so that $Y$ is a locally deterministic stochastic process%20Process.md). From Example 2.1, the dynamics of $W$ becomes  
 $$
 d W_{t}=W_{t}\left[\left(m_{t}-m_{t}+0\right)d t+v_{t}d z_{t}\right]=W_{t}v_{t}d z_{t}.
 $$  
@@ -195,11 +195,11 @@ i.e. the relative drift rate equals $m_{t}$
 
 # 2.7.2 $K$ -dimensional processes  
 
-Simultaneously modeling the dynamics of a lot of economic quantities requires the use of a lot of shocks to those quantities. For that purpose we will work with vectors of shocks. In particular for continuous-time modeling, we will represent shocks to the economy by a vector standard [Brownian motion](Continuous-Time%20Stochastic%20Processes.md). We define this below and state [Ito's Lemma](../../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md) for processes of a general dimension.  
+Simultaneously modeling the dynamics of a lot of economic quantities requires the use of a lot of shocks to those quantities. For that purpose we will work with vectors of shocks. In particular for continuous-time modeling, we will represent shocks to the economy by a vector standard Brownian motion. We define this below and state Ito's Lemma for processes of a general dimension.  
 
-A $K$ -dimensional standard [Brownian motion](Continuous-Time%20Stochastic%20Processes.md) ${\boldsymbol{z}}=(z_{1},\dots,z_{K})^{\top}$ is a [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md). where the individual components. $z_{i}$ are mutually independent one-dimensional standard Brownian motions. If we let $\mathbf{0}=(0,\ldots,0)^{\top}$ denote the zero vector in. $\mathbb{R}^{K}$ and let. $\underline{{\underline{{I}}}}$ denote the [identity matrix](../Chapter%201%20-%20Introduction%20and%20Overview/Prerequisites.md) of dimension $K\times K$ (the matrix with ones in the diagonal and zeros in all other entries), then we can write the defining properties of a $K$ -dimensional [Brownian motion](Continuous-Time%20Stochastic%20Processes.md). $_{z}$ as follows:  
+A $K$ -dimensional standard Brownian motion ${\boldsymbol{z}}=(z_{1},\dots,z_{K})^{\top}$ is a stochastic process%20Process.md). where the individual components. $z_{i}$ are mutually independent one-dimensional standard Brownian motions. If we let $\mathbf{0}=(0,\ldots,0)^{\top}$ denote the zero vector in. $\mathbb{R}^{K}$ and let. $\underline{{\underline{{I}}}}$ denote the identity matrix of dimension $K\times K$ (the matrix with ones in the diagonal and zeros in all other entries), then we can write the defining properties of a $K$ -dimensional Brownian motion. $_{z}$ as follows:  
 
-(i) $z_{\mathrm{0}}=\mathbf{0}$ (ii) for all $t,t^{\prime}\geq0$ with $t<t^{\prime}$ .. $z_{t^{\prime}}-z_{t}\sim N(\mathbf{0},(t^{\prime}-t)\underline{{\underline{{I}}}})$ [normally distributed increments], (ii) for all $0\leq t_{0}<t_{1}<\dots<t_{n}$ , the random variables $z_{t_{1}}-z_{t_{0}},\dots,z_{t_{n}}-z_{t_{n-1}}$ are mutually independent [independent increments]([Continuous-Time%20Stochastic%20Processes)], (iv) $_{z}$ has continuous sample paths in $\mathbb{R}^{K}$  
+(i) $z_{\mathrm{0}}=\mathbf{0}$ (ii) for all $t,t^{\prime}\geq0$ with $t<t^{\prime}$ .. $z_{t^{\prime}}-z_{t}\sim N(\mathbf{0},(t^{\prime}-t)\underline{{\underline{{I}}}})$ [normally distributed increments], (ii) for all $0\leq t_{0}<t_{1}<\dots<t_{n}$ , the random variables $z_{t_{1}}-z_{t_{0}},\dots,z_{t_{n}}-z_{t_{n-1}}$ are mutually independent independent increments], (iv) $_{z}$ has continuous sample paths in $\mathbb{R}^{K}$  
 
 Here, $N(\mathbf{\boldsymbol{a}},\underline{{\boldsymbol{b}}})$ denotes a $K$ -dimensional normal distribution with mean vector $\pmb{a}$ and variancecovariance matrix $\boldsymbol{\underline{{\underline{{b}}}}}$ . As for standard Brownian motions, we can also define multi-dimensional. generalized Brownian motions, which simply are vectors of independent one-dimensional generalized Brownian motions.  
 
@@ -209,7 +209,7 @@ d X_{t}=\mu(X_{t},t)d t+\underline{{\underline{{\sigma}}}}(X_{t},t)d z_{t},
 $$  
 
 where is a function from $\mathbb{R}^{K}\times\mathbb{R}_{+}$ into $\mathbb{R}^{K}$ , and is a function from $\mathbb{R}^{K}\times\mathbb{R}_{+}$ into the space $\pmb{\mu}$ $\underline{{\underline{{\sigma}}}}$   
-of $K\times K$ -matrices. As before, $_{z}$ is a $K$ -dimensional standard [Brownian motion](Continuous-Time%20Stochastic%20Processes.md). The evolution of.   
+of $K\times K$ -matrices. As before, $_{z}$ is a $K$ -dimensional standard Brownian motion. The evolution of.   
 the multi-dimensional diffusion can also be written componentwise as  
 $$
 \begin{array}{l}{\displaystyle d X_{i t}=\mu_{i}({\pmb X}_{t},t)d t+\pmb{\sigma}_{i}({\pmb X}_{t},t)^{\top}d z_{t}}\ {\displaystyle=\mu_{i}({\pmb X}_{t},t)d t+\sum_{k=1}^{K}\sigma_{i k}({\pmb X}_{t},t)d z_{k t},\quad i=1,\dots,K,}\end{array}
@@ -227,12 +227,12 @@ $$
 
 where we have applied the usual rules for covariances and the independence of the components of $_{z}$ . In particular, the variance of the change in the. $i$ 'th component process of an infinitesimal. period is given by  
 $$
-\operatorname{Var}_{t}[d X_{i t}]=\operatorname{Cov}_{t}[d X_{i t},d X_{i t}]=\sum_{k=1}^{K}\sigma_{i k}(X_{t},t)^{2}d t=\|\sigma_{i}(X_{t},t)\|^{2}d t,\quad i=1,\dots,K.
+\operatorname{Var}_{t}[d X_{i t}]=\operatorname{Cov}_{t}[d X_{i t},d X_{i t}]=\sum_{k=1}^{K}\sigma_{i k}(X_{t},t)^{2}d t=\ | \sigma_{i}(X_{t},t)\ | ^{2}d t,\quad i=1,\dots,K.
 $$  
 
-The volatility of the $i$ th component is given by $\|\pmb{\sigma}_{i}(\pmb{X}_{t},t)\|$ . The variance-covariance matrix of changes of $X_{t}$ over the next instant is $\underline{{\Sigma}}(X_{t},t)d t=\underline{{\underline{{\sigma}}}}(X_{t},t)\underline{{\underline{{\sigma}}}}(X_{t},t)^{\top}d t$ . The correlation between instantaneous increments in two component processes is  
+The volatility of the $i$ th component is given by $\ | \pmb{\sigma}_{i}(\pmb{X}_{t},t)\ | $ . The variance-covariance matrix of changes of $X_{t}$ over the next instant is $\underline{{\Sigma}}(X_{t},t)d t=\underline{{\underline{{\sigma}}}}(X_{t},t)\underline{{\underline{{\sigma}}}}(X_{t},t)^{\top}d t$ . The correlation between instantaneous increments in two component processes is
 $$
-\mathrm{Corr}_{t}[d X_{i t},d X_{j t}]=\frac{\sigma_{i}(X_{t},t)^{\top}\sigma_{j}(X_{t},t)d t}{\sqrt{\|\sigma_{i}(X_{t},t)\|^{2}d t\|\sigma_{j}(X_{t},t)\|^{2}d t}}=\frac{\sigma_{i}(X_{t},t)^{\top}\sigma_{j}(X_{t},t)}{\|\sigma_{i}(X_{t},t)\|\|\sigma_{j}(X_{t},t)\|},
+\mathrm{Corr}_{t}[d X_{i t},d X_{j t}]=\frac{\sigma_{i}(X_{t},t)^{\top}\sigma_{j}(X_{t},t)d t}{\sqrt{\ | \sigma_{i}(X_{t},t)\ | ^{2}d t\ | \sigma_{j}(X_{t},t)\ | ^{2}d t}}=\frac{\sigma_{i}(X_{t},t)^{\top}\sigma_{j}(X_{t},t)}{\ | \sigma_{i}(X_{t},t)\ | \ | \sigma_{j}(X_{t},t)\ | },
 $$  
 
 which can be any number in $[-1,1]$ depending on the elements of $\sigma_{i}$ and $\sigma_{j}$  
@@ -242,9 +242,9 @@ $$
 d X_{t}=\mu_{t}d t+\underline{{\underline{{\sigma}}}}_{t}d z_{t},
 $$  
 
-where ${\pmb\mu}=({\pmb\mu}_{t})$ is a $K$ -dimensional [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) and $\underline{{\underline{{\sigma}}}}=\left(\underline{{\underline{{\sigma}}}}_{t}\right)$ is a [stochastic process](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) with values in the space of $K\times K$ --matrices.  
+where ${\pmb\mu}=({\pmb\mu}_{t})$ is a $K$ -dimensional stochastic process%20Process.md) and $\underline{{\underline{{\sigma}}}}=\left(\underline{{\underline{{\sigma}}}}_{t}\right)$ is a stochastic process%20Process.md) with values in the space of $K\times K$ --matrices.  
 
-Next, we state a multi-dimensional version of [Ito's Lemma](../../../Financial%20Engineering/Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md), where a one-dimensional process is defined as a function of time and a multi-dimensional process.  
+Next, we state a multi-dimensional version of Ito's Lemma, where a one-dimensional process is defined as a function of time and a multi-dimensional process.  
 
 Theorem 2.8 Let $\pmb{X}=(\pmb{X}_{t})_{t\geq0}$ be an Ito process in $\mathbb{R}^{K}$ with dynamics $d X_{t}=\mu_{t}d t+\underline{{\underline{{\sigma}}}}_{t}d z_{t}$ or, equivalently,  
 $$
@@ -277,12 +277,12 @@ $$
 
 and tr denotes the trace of a quadratic matrix, i.e. the sum of the diagonal elements. For example $\textstyle\operatorname{tr}({\underline{{\underline{{A}}}}})=\sum_{i=1}^{K}A_{i i}$  
 
-The probabilistic properties of a $K$ -dimensional diffusion process is completely specified by the drift function $\pmb{\mu}$ and the variance-covariance function $\stackrel{\Sigma}{=}$ . The values of the variance-covariance function are symmetric and positive-definite matrices. Above we had $\Sigma=\underline{{\underline{{\sigma}}}}\underline{{\underline{{\sigma}}}}^{\top}$ for a general $(K\times K)$ -matrix $\underline{{\underline{{\sigma}}}}$ . But from [linear algebra](../Chapter%201%20-%20Introduction%20and%20Overview/Prerequisites.md) it is well-known that a symmetric and positive-definite matrix can be written as $\hat{\underline{{\underline{{\sigma}}}}}\hat{\underline{{\underline{{\sigma}}}}}^{\top}$ for a lower-triangular matrix $\hat{\underline{{\underline{{\sigma}}}}}$ , i.e. a matrix with $\hat{\sigma}_{i k}=0$ for $k>i$ This is the so-called Cholesky decomposition. Hence, we may write the dynamics as  
+The probabilistic properties of a $K$ -dimensional diffusion process is completely specified by the drift function $\pmb{\mu}$ and the variance-covariance function $\stackrel{\Sigma}{=}$ . The values of the variance-covariance function are symmetric and positive-definite matrices. Above we had $\Sigma=\underline{{\underline{{\sigma}}}}\underline{{\underline{{\sigma}}}}^{\top}$ for a general $(K\times K)$ -matrix $\underline{{\underline{{\sigma}}}}$ . But from linear algebra it is well-known that a symmetric and positive-definite matrix can be written as $\hat{\underline{{\underline{{\sigma}}}}}\hat{\underline{{\underline{{\sigma}}}}}^{\top}$ for a lower-triangular matrix $\hat{\underline{{\underline{{\sigma}}}}}$ , i.e. a matrix with $\hat{\sigma}_{i k}=0$ for $k>i$ This is the so-called Cholesky decomposition. Hence, we may write the dynamics as  
 $$
 \begin{array}{r l}&{d X_{1t}=\mu_{1}(X_{t},t)d t+\hat{\sigma}_{11}(X_{t},t)d z_{1t}}\ &{d X_{2t}=\mu_{2}(X_{t},t)d t+\hat{\sigma}_{21}(X_{t},t)d z_{1t}+\hat{\sigma}_{22}(X_{t},t)d z_{2t}}\ &{\phantom{\hat{e}}\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad\quad}\ &{d X_{K t}=\mu_{K}(X_{t},t)d t+\hat{\sigma}_{K1}(X_{t},t)d z_{1t}+\hat{\sigma}_{K2}(X_{t},t)d z_{2t}+\cdot\cdot\cdot+\hat{\sigma}_{K K}(X_{t},t)d z_{K t}}\end{array}
 $$  
 
-We can think of building up the model by starting with. $X_{1}$ . The shocks to $X_{1}$ are represented by. the standard [Brownian motion](Continuous-Time%20Stochastic%20Processes.md) $z_{1}$ and its coefficient $\hat{\sigma}_{11}$ is the volatility of $X_{1}$ . Then we extend the model to include $X_{2}$ . Unless the infinitesimal changes to $X_{1}$ and $X_{2}$ are always perfectly correlated we need to introduce another standard [Brownian motion](Continuous-Time%20Stochastic%20Processes.md),. $z_{2}$ . The coefficient. $\hat{\sigma}_{21}$ is fixed to match the covariance between changes to $X_{1}$ and $X_{2}$ and then $\hat{\sigma}_{22}$ can be chosen so that $\sqrt{\hat{\sigma}_{21}^{2}+\hat{\sigma}_{22}^{2}}$ equals the volatility of $X_{2}$ . The model may be extended to include additional processes in the same manner.  
+We can think of building up the model by starting with. $X_{1}$ . The shocks to $X_{1}$ are represented by. the standard Brownian motion $z_{1}$ and its coefficient $\hat{\sigma}_{11}$ is the volatility of $X_{1}$ . Then we extend the model to include $X_{2}$ . Unless the infinitesimal changes to $X_{1}$ and $X_{2}$ are always perfectly correlated we need to introduce another standard Brownian motion,. $z_{2}$ . The coefficient. $\hat{\sigma}_{21}$ is fixed to match the covariance between changes to $X_{1}$ and $X_{2}$ and then $\hat{\sigma}_{22}$ can be chosen so that $\sqrt{\hat{\sigma}_{21}^{2}+\hat{\sigma}_{22}^{2}}$ equals the volatility of $X_{2}$ . The model may be extended to include additional processes in the same manner.  
 
 Some authors prefer to write the dynamics in an alternative way with a single standard Brownian  
 
@@ -294,4 +294,4 @@ $$
 Clearly, the coefficient $V_{i}(X_{t},t)$ is then the volatility of $X_{i}$ . To capture an instantaneous non-zero correlation between the different components the standard Brownian motions $\hat{z}_{1},\dots,\hat{z}_{K}$ have to be mutually correlated. Let $\rho_{i j}$ be the correlation between $\hat{z}_{i}$ and $\hat{z}_{j}$ . If (2.31) and (2.30) are meant to represent the same dynamics, we must have  
 $$
 \begin{array}{r l}&{V_{i}=\sqrt{\hat{\sigma}_{i1}^{2}+\cdot\cdot\cdot+\hat{\sigma}_{i i}^{2}},\quad i=1,\dots,K,}\ &{\rho_{i i}=1;\quad\rho_{i j}=\frac{\sum_{k=1}^{i}\hat{\sigma}_{i k}\hat{\sigma}_{j k}}{V_{i}V_{j}},\rho_{j i}=\rho_{i j},\quad i<j.}\end{array}
-$$  
+$$

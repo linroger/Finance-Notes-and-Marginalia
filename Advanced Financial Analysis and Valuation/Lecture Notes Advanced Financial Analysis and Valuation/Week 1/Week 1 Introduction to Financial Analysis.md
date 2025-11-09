@@ -44,7 +44,7 @@ key_concepts:
 
 ## Core Issues in Valuation
 
- ![500](27a8dd885d876f0e0de1859e530bb71a.png)
+ !500
 
 ### The Basis of Valuation: Discounted Dividend Model
 
@@ -62,7 +62,7 @@ key_concepts:
 - We then convert these forecasts into free cash flows
 ‒ This is essentially the DCF model
 - Using the cash flows with the markets leads to an entity model where you first determine the value of the entire entity (or enterprise)
--  ![500](3ae4fc585a8ea52c2a08d6a815215553.png)
+-  !500
 
 ## What Are the Core Challenges in Valuation?
 
@@ -124,7 +124,7 @@ From 10K: ExampleCo rents equipment to customers. For the fiscal year 2013, Exam
 
 The effect of this change resulted in a reduction of product costs, as reported in operating expenses. The change resulted in a corresponding increase to the balance of our rental equipment inventory. For the fiscal year 2013, the change resulted in a benefit to Net Income of $15 million or $0.10 in basic earnings per share.
 
- ![500](9c51031c984f0f8377c4b2c4881981f5.png)
+ !500
 
 ## Understanding the Business Model is Key
 
@@ -144,13 +144,13 @@ RNOA = Return on Net Operating Assets ≈ ROIC
 
 - But note that RNOA/ROIC is of similar magnitude across industries
 	- Firms differ in how they create value
- ![500](84142850beacda61f5eddba71b4772f7.png)
+ !500
 
 ## Profit Margin vs. Asset Turnover
 
 AVERAGE INDUSTRY NOA TURNOVER AND PM 2011‐2016
 
- ![500](b09ef50a2a9345aa8bdc2a9814b48206.png)
+ !500
 
 You can find this graph and the underlying industry data on Canvas (see Useful Material folder)
 
@@ -158,9 +158,9 @@ You can find this graph and the underlying industry data on Canvas (see Useful M
 
 ## Value Drivers and Key Performance Indicators (KPIs)
 
- ![500](5e2970890124cc0b8a46a3fc8dbdf56e.png)
+ !500
 
- ![500](8d012b97a32484f22c2b938f2592c20e.png)
+ !500
 
 ### Basic Idea of Value Driver Model
 
@@ -187,11 +187,11 @@ Revenues Operating margin
 	- Investment rate (or asset turnover)
 - You can bring in other businessmodel specific drivers
 	- Connect them to three main drivers
- ![500](0afcc6662687105cc7d22e71f6b49048.png)
+ !500
 
 ## Example of Simple Value Driver Model
 
- ![500](ae9b588a4867fda8b108ae849841a10a.png)
+ !500
 
 - Sales growth estimates (yoy): 1.2%, 2%, 2%, 2.2%
 - Margin and NOA turnover: constant
@@ -218,7 +218,7 @@ Revenues Operating margin
 
 ## Summary: Valuation Sequence
 
- ![500](b66ed4a07d1539c3765b9d0e5739b914.png)
+ !500
 
 Take the narrative apart and bring it into the valuation. By the time you are done, each part of the narrative should have a place in your numbers and each number should be backed up by a portion of the story.
 
@@ -240,7 +240,7 @@ Listen to people who know the business better than you do and use their suggesti
 
 ## Three-Stage Model
 
- ![500](179594c17207e4de6adfebccfb4314fc.png)
+ !500
 
 ROIC
 
@@ -256,7 +256,7 @@ Time segment
 
 ## Near-Term Flows as % of Value for Two Examples
 
- ![500](20d491c0d6834af7b6ccaaafef179075.png)
+ !500
 
 ## Near-Term Cash Flows vs. Terminal Value
 
@@ -306,7 +306,7 @@ Competitive advantage and economic moats:
 
 ## Competition and Returns (or Economic Profits)
 
- ![500](13fff9fd8913b3a88e2e3f11928a60f8.png)
+ !500
 
 - High returns attract competitors
 	- Competitors settle for lower returns that are still attractive
@@ -314,7 +314,7 @@ Competitive advantage and economic moats:
 
 ## Moats and the Decay in the Spread
 
- ![500](be627923a86ffea8c0b5fbc72b81d8ab.png)
+ !500
 
 - Economic profit declines on average
 	- But not necessarily for all companies (at the same rate)
@@ -322,25 +322,25 @@ Competitive advantage and economic moats:
 
 ## Decay in Industry Profitability: High vs. Low Competition
 
- ![500](032876422cd7496a4ab774611b89f69d.png)
+ !500
 
 Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of competition based on 10‐K filings." Journal of Accounting Research 51, no. 2 (2013): 399‐436.
 
 ## Mean Reversion in Sales Growth
 
- ![500](6f63cfe83aa4fb5c9a02a89b95694f53.png)
+ !500
 
 ### Mean Reversion in ROIC
 
- ![500](0572aec04d796c3eee3da09f4da26710.png)
+ !500
 
 ### Mean Reversion in Operating Margin
 
- ![500](032504146326b04d04b4919189d8910f.png)
+ !500
 
 ### Mean Reversion in Asset Turnover
 
- ![500](b2288f50a013ee439cf2d7162ee9672c.png)
+ !500
 
 ## Multiples Review and Key Challenges
 
@@ -388,11 +388,11 @@ Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of competitio
 
 ## Example: PE Ratios and Non-Recurring Items
 - COMPARING PE RATIOS IN THE NEWSPAPER INDUSTRY
- ![500](a0c2147f305ca4f0466715c1ad3f39ca.png)
+ !500
 
 ## Example: PE Ratios After Adjustments
 
- ![500](5d4ff12696b5c1ba7dde7cb74e1b7313.png)
+ !500
 
 ## Which Multiple Should We Use?
 - Koller et al. recommend EBITA or NOPAT multiple (see Ch. 18)
@@ -409,7 +409,7 @@ Source: Li, Feng, Russell Lundholm, and Michael Minnis. "A measure of competitio
 ## Illustrating the Impact of Capital Structure
 - EV/EBITA is not affected by leverage but PE is
 - Note that you cannot even sign the effect of leverage on the PE ratio
- ![500](576380c2a724442915b3e26f26ac9004.png)
+ !500
 
 ## Multiples: Summary
 - Relatively quick and "easy"

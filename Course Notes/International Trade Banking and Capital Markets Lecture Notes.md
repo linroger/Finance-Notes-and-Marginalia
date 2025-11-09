@@ -16,18 +16,18 @@ key_concepts:
   - Trade policy instruments
 ---
 
-[International Trade](../International%20Finance/Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md) [Banking](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) and Capital Markets: [Introduction](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) and [Global Trade Overview](.md)
+International Trade Banking and Capital Markets: Introduction and Global Trade Overview
 
 ###  International Trade and Globalization
 - What is globalization?
 - Why was it viewed as so successful for 50 years?
 - Why is it now viewed as flawed?
-- How will [international trade](../International%20Finance/Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md) and migration change in the coming years?
+- How will international trade and migration change in the coming years?
 
 ### Banking and International Capital Markets
 - How are currencies bought and sold?
 - How do central banks manage their exchange rates?
- - Why does [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) capital flow across borders?
+ - Why does investment capital flow across borders?
  - What are the implications of governments' actions for international capital markets?
 
 ##  Trade Terms
@@ -42,7 +42,7 @@ key_concepts:
 ##  Trade Terms
 - Bilateral Trade - trade between two countries
 - Multilateral Trade - trade between a country and rest of world
-- [Trade policy instruments](.md)
+- Trade policy instruments
 - Tariffs - taxes on imported products
 - Quotas - limits set on amount of a product imported from a country - sometimes "voluntary"
  - Sanctions - bans importation of products from a country - e.g., Russian products banned after Ukraine invasion
@@ -60,7 +60,7 @@ key_concepts:
 - If you've taken introductory macroeconomics, you've seen this equation:$$Y=C+I+G+EX-IM$$, where
 - $Y$ = GDP,
 - $C$ = Consumption,
-- $I$ = [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md),
+- $I$ = Investment,
 - $G$ = Government Spending,
 - $EX$ = Exports and
 - $IM$ = Imports$EX - IM$ is known as the trade balance,
@@ -70,12 +70,12 @@ key_concepts:
 ###  Determining the Trade Balance
 - Rearrange the identity above, and solve for EX - IM
 First subtract taxes from both sides of the equation:
-from each side subtract consumption and [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), to obtain $$(Y-T-C)-I=G-T+EX-IM$$,$Y-T$ represents disposable income and$S_p=Y-T-C$ is private savings, substituting $S_p$ in and moving $G-T$ to the left hand side, we obtain$$(S_p-I)+(T-G)=EX-IM$$
+from each side subtract consumption and investment, to obtain $$(Y-T-C)-I=G-T+EX-IM$$,$Y-T$ represents disposable income and$S_p=Y-T-C$ is private savings, substituting $S_p$ in and moving $G-T$ to the left hand side, we obtain$$(S_p-I)+(T-G)=EX-IM$$
 
 ##  Interpreting the Trade Balance
-. $(S_p-I)$ represents the difference between private savings and [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)
-. $(T-G)$ equals taxes minus government spending or public [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)
-- If both $(S_p-I)$ and $(T-G)$ are less than zero, then $EX - IM<0$ , so there must be a [trade deficit](../International%20Finance/Globalization/Chapter%2014-%20Capital%20Flows%20and%20the%20Current%20Account.md)
+. $(S_p-I)$ represents the difference between private savings and investment
+. $(T-G)$ equals taxes minus government spending or public investment
+- If both $(S_p-I)$ and $(T-G)$ are less than zero, then $EX - IM<0$ , so there must be a trade deficit
  - Text notes: "... Trade balance of the economy is determined by the macroeconomic saving behavior of the households and
 The government." Do you agree with this interpretation?
 
@@ -85,16 +85,16 @@ The government." Do you agree with this interpretation?
  - The barriers to trade
 - Trade is thousands of years old, but:
 - Has only constituted a meaningful part of national and global income in past 150 years
- - [Intermediate goods trade](../International%20Finance/Globalization/Chapter%206-Intermediate%20Input%20Trade%20and%20Offshoring.md) became significant only in past 30 years
+ - Intermediate goods trade became significant only in past 30 years
 
 ##  Global Goods Trade Relative to Global Income 1
- ![500](Attachments/500-532.jpg)
+ !500
  Tend to think of trade only increasing over time, but reality has been more complex
 
 #  Global Trade in Goods and Services
 Trade (% of GDP)
 World Bank national accounts data, and OECD National Accounts data files.
- ![500](Attachments/500-581.jpg)
+ !500
 Source: World Bank website, accessed July 12, 2022. Https:/data. Worldbank. Org
 
 ###  World Trade Flows
@@ -105,7 +105,7 @@ Source: World Bank website, accessed July 12, 2022. Https:/data. Worldbank. Org
 - Why do trade flows increase over time relative to global income?
 -   A) Reductions in transportation costs
     - B) Reductions in tariffs
-     - C) "Common" [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)
+     - C) "Common" currency
      - D) Convergence of income among countries
 
 ###  Global Goods Trade Relative to Global Income
@@ -135,13 +135,13 @@ Source: World Bank website, accessed July 12, 2022. Https:/data. Worldbank. Org
 
 - Findings:
 - Model explains most of rise and fall in world trade
-- Substantial portion explained by "common [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)"
+- Substantial portion explained by "common currency"
 - Rise and fall of the gold standard
 - Tariffs small role early -important during interwar period
 - Transport costs - fall and rise - important in rise and decline of trade
 - Income convergence - unimportant after 1870
 
-TABLE III EXPLAINING THE RISE ANDFALL OF WORLD TRADE, 1870-1939$$\begin{array}{|c|c|c|c|c|c|c|}
+TABLE III EXPLAINING THE RISE ANDFALL OF WORLD TRADE, 1870-1939$$\begin{array}{ | c | c | c | c | c | c | c | }
 \hline
  &  & 1870 & 1900 & 1913 & 1929 & 1938 \\
 $( a) \textit{Actual}$ $1le$ 1 & els &  &  &  &  &  \\
@@ -167,11 +167,11 @@ Notes: See text. The transport costs counterfactual shown here includes only "ma
 
 - Lessons for today:
 - Transportation frictions not always decreasing
- - [Currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) frictions matter substantially
+ - Currency frictions matter substantially
  - Commercial policies important
 
 #  Shipping Rates China to US West Coast
- ![500](Attachments/500-539.jpg)
+ !500
 Source: "Container shipping rates are going mad again. FT Alphaville, April 8,2022. www.ft.com. Accessed August 17,2022
 Post-World War II Trade
 - Key participants learned from mistakes in Treaty of Versailles
@@ -179,7 +179,7 @@ Post-World War II Trade
 - Bretton Woods Agreement (1944)
  - Ended in 19730 Shipping containers (1956)
  -  Information and Communication Technology (1980 to present)
- -  Ended with [Financial Crisis](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Letter.md)
+ -  Ended with Financial Crisis
 
 #  Global Goods and Services Trade Today
 - Total Goods and Services Exports 2021: $27.926 trillion
@@ -197,13 +197,13 @@ Post-World War II Trade
  - Consulting, Financial and Legal
 
 #  2019 WTO Trade Statistics
- ![500](Attachments/500-586.jpg)
+ !500
 Source: WTO-UNCTAD in cooperation with ITC and UNSD
 Source: World Trade Statistical Review 2020. www.wto.org
 
 ###  Impact of Corona Virus
 Chart 3.2 World merchandise trade volume, 2015 Q 1-2021 Q 1 (Volume index 2015=100 and year-on-year percentage change
- ![500](Attachments/500-587.jpg)
+ !500
 Sources: WTO Secretariat and UNCTAD.
 Source: World Trade Statistical Review 2021. www.wto.org
 
@@ -211,7 +211,7 @@ Source: World Trade Statistical Review 2021. www.wto.org
 
 ###
  - Organization of Economic Co-operation and Development countries? Established 1961
- ![500](Attachments/500-617.jpg)$$\begin{array}{|c|c|}
+!500$$\begin{array}{ | c | c | }
 \hline
 FI 1 1 & 1-6FO migrants Iwine \\
 W & of the lines, with the ing dashed lines \\
@@ -241,14 +241,14 @@ $D$ & miqrotion dato rom:OECD ono \\
  Horizontal
 - Adding complete business in another country
 - Believe business model appeals to potential customers
-. [Risk management](../Financial%20Engineering/Financial%20Mathematics%20Course.md)
+. Risk management
 
 ##  Models of International Trade
 - Principal Models
 - Ricardian - Technology
 - Specific Factors - Capital resources immobile
 - Heckscher-Ohlin -- Capital resources mobile (offshoring)
-- Gravity - Frictional costs (transportation, tariffs and [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) stability)
+- Gravity - Frictional costs (transportation, tariffs and currency stability)
 
 ##  Limitations of Models
 . Simplified assumptions:
@@ -301,10 +301,10 @@ Offshoring and Technology Impact
 - Imports relative to GDP resume growth
 - Except during recession
 Relative Wages and Employment
- ![500](Attachments/500-550.jpg)
+ !500
 
 ###  US Imports and Exports as a Percentage of GDP
- ![500](Attachments/500-616.jpg)
+ !500
 Relative Wages and Employment 1979-1990
 - Heckscher-Ohlin model would lead to expectation of period beginning in 1982 to lead to:
 - Decrease in relative demand for nonproduction workers
@@ -315,10 +315,10 @@ Relative Wages and Employment 1979-1990
  -  Computers
 
 ##  Relative Wages and Employment 1979-1990
- ![500](Attachments/500-618.jpg)
+ !500
 
 #  Offshoring versus Skill-based Technology Change Feenstra and Hanson (1999)
-Impact on Relative Wage of Nonproduction Labor in U.S. Manufacturing 1979-19902$$\begin{array}{|c|c|c|}
+Impact on Relative Wage of Nonproduction Labor in U.S. Manufacturing 1979-19902$$\begin{array}{ | c | c | c | }
 \hline
 Measurement of high-tech equipment: & Percentage of Total Increase Explained by Each Factor \\
 Offshoring & High Technology Equipment \\
@@ -329,14 +329,14 @@ As a share of Capital Flow (New Investments) & $12\%$ & $99\%$ \\
 Source: Feenstra and Hanson (1999)
 
 ##  Percentage Change in Employment Share US
- ![500](Attachments/500-618.jpg)
+ !500
 Percentage Change in Employment Share US
- ![500](Attachments/500-618.jpg)
+ !500
 Employment Growth by Occupation Type
- ![500](Attachments/500-538.jpg)
+ !500
 
 ###  Is Offshoring Different?
-- In its effects on relative prices, [return on capital](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md), and labor and wages
+- In its effects on relative prices, return on capital, and labor and wages
  - When compared to final goods trade and immigration
 
 #  Is Offshoring Different?
@@ -363,7 +363,7 @@ Employment Growth by Occupation Type
 -  $P_{\mathcal{C}}$ and $P_{R,}$ internal prices for components and R&D
 
 ###  Firm R&D-Component Trade-off: Autarky
- ![500](Attachments/500-620.jpg)
+ !500
 
 ##  Allow Offshoring of Activities
 - Assume that compared to Home:
@@ -375,7 +375,7 @@ Employment Growth by Occupation Type
  - Through relative wage differentials or capital costs
 
 ###  Firm R&D-Component Trade-off: Trade
- ![500](Attachments/500-584.jpg)
+ !500
 
 ###  Fm R&D-Component Trade-off: Trade
 Since,$$(\frac{P_C}{P_R})^{W1}<(\frac{P_C}{P_R})^A$$
@@ -396,7 +396,7 @@ Since,$$(\frac{P_C}{P_R})^{W1}<(\frac{P_C}{P_R})^A$$
 - Home's terms of trade decline - still better than autarky
 
 ###  Fall in Price of Components
- ![500](Attachments/500-584.jpg)
+ !500
 
 ##  Fall in Price of Components
 Assume,$$P_Cfalls\mathrm{~s.t.,}(\frac{P_C}{P_R})^{W2}<(\frac{P_C}{P_R})^{W1}$$
@@ -407,7 +407,7 @@ Assume,$$P_Cfalls\mathrm{~s.t.,}(\frac{P_C}{P_R})^{W2}<(\frac{P_C}{P_R})^{W1}$$
 - Terms of trade improve
 
 ###  Fall in Price of R&D
- ![500](Attachments/500-584.jpg)
+ !500
 
 ##  Fall in Price of R&D
 Assume ,$$P_Rfallss.t.,(\frac{P_C}{P_R})^{W3}>(\frac{P_C}{P_R})^{W1}$$
@@ -424,8 +424,8 @@ Assume ,$$P_Rfallss.t.,(\frac{P_C}{P_R})^{W3}>(\frac{P_C}{P_R})^{W1}$$
  - Gains are not distributed evenly
 . Business services example
 Trade Surplus in Business Services
- ![500](Attachments/500-617.jpg)
-TABLE 7-1 U.S.Trade in Services, 2018 (\$ millions) This table shows U.S.exports and imports in the major categories of services trade for 2018.$$\begin{array}{|c|c|c|}
+ !500
+TABLE 7-1 U.S.Trade in Services, 2018 (\$ millions) This table shows U.S.exports and imports in the major categories of services trade for 2018.$$\begin{array}{ | c | c | c | }
 \hline
  & Exports & Imports \\
 Telecommunications, computer, and information services & 543,196 & 534,618 \\
@@ -501,7 +501,7 @@ October 25,2022
  - China/US tensions
 
 ##  Offshoring Model
- ![500](Attachments/500-585.jpg)
+ !500
 
 ##  Offshoring Model Assumptions.
 - Relative wage of low-skilled workers to high-skilled workers in certain countries is lower than in others
@@ -520,18 +520,18 @@ October 25,2022
 - Countries specialize in different inputs or tasks
 
 ##  Initial Offshore Decision Cost Curve
- ![500](Attachments/500-534.jpg)
+ !500
 
 #  Offshoring Model.
 - Now Home desires to offshore more inputs or tasks
-- New [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) flows into Foreign
+- New investment flows into Foreign
 - Alternatively, technology progresses relatively quickly in Foreign
 - Either or both create lower Foreign rental rate
-- [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) or technological progress shift c/c* up
+- Investment or technological progress shift c/c* up
 - Activities undertaken by Foreign increase from z' to z"
 
 ##  Post-investment Cost Curve Shift
- ![500](Attachments/500-565.jpg)
+ !500
 
 ##  Effect on Employment and Wages
 - This causes the relative labor demand curve, D (z) to
@@ -545,13 +545,13 @@ October 25,2022
 
 #  Impact on Demand for Labor and Relative Wage
 Figure 6
- ![500](Attachments/500-617.jpg)
+ !500
 
 ##  Relative Demand for Labor
 
 ##
  -  Initially least-skilled activities sent to Foreign
- ![500](Attachments/500-585.jpg)
+ !500
 
 ##  Changes in Relative Costs
 - As in the model above:
@@ -563,7 +563,7 @@ Figure 6
 - Remaining Home activities now more skilled on average
  - Given Foreign lower non-labor costs, Home may move higher skill tasks to Foreign
 Moving Up the Value Chain
- ![500](Attachments/500-619.jpg)
+ !500
 - Given Home's lower non-labor costs
  - Home moves to more complex activities, from A to B
 - Skill levels of activities increase in both countries
@@ -586,7 +586,7 @@ Moving Up the Value Chain
 - Likely that absolute demand for both high- and low-skilled workers decreases
 
 ##  Impact on Labor Markets
- ![500](Attachments/500-580.jpg)
+ !500
 
 ##  Trade versus Skill-based Technology Change
 - Impact on Home, based Heckscher Ohlin model
@@ -598,23 +598,23 @@ Moving Up the Value Chain
 
 #  Trade versus Skill-based Technology Change 2.
 Figure 5-10 Increased Wage Inequality: Trade- or Skill-Biased Technological Change?
- ![500](Attachments/500-537.jpg)
+ !500
 (a) Effects of trade
- ![500](Attachments/500-584.jpg)
+ !500
 (b) Effects of skill-biased technological change
 
 #  Change in Value-added for Eight Asian Nations 3
- ![500](Attachments/500-594.jpg)
+ !500
 FIGURE 47: Smile curve by nation, 199 s to 2 oos versus 198 s to 1995.
 Trade versus Skill-based Technology Change.
 - The impact on industrialized nations due to:
 - Increasing segmentation of production tasks
  - "Servicification" of manufacturing.
  - Japan saw largest decline in manufacturing value-added
- - Primary refers to [commodities](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)
+ - Primary refers to commodities
 
 #  Global Impact on Relative Income 1998-20084
- ![500](Attachments/500-582.jpg)
+ !500
 Percentil of global income disribution
 FIGURE 48: : The “Elephant Curve": The scond unbuding helped the global middle class and Northern elite.
 
@@ -649,9 +649,9 @@ October 20,2022
 
 ##  Economies of Scale
 - One simplifying assumption of trade models so far:
-- Constant [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to scale
-- There are increasing [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to scale in many businesses
-- Two types of increasing [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to scale
+- Constant returns to scale
+- There are increasing returns to scale in many businesses
+- Two types of increasing returns to scale
 - External: depends on size of industry, not size of individual firm
  - Internal: depends on size of each firm, economies of scale are within a firm's own production function
 
@@ -661,14 +661,14 @@ October 20,2022
  - Example: injection molding
 - Internal economies of scale dependent on:
 - Unit costs which are a function of firm size
-- Examples: automotive; computer chip manufacture; retail [banking](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md); search and social networking software
+- Examples: automotive; computer chip manufacture; retail banking; search and social networking software
 Differentiated Goods and Competition
 - If goods are undifferentiated may lead to true monopoly
 - Many goods and services are differentiated
 - Leads to form of imperfect competition known as Monopolistic Competition
 . Monopolistic Competition
 - Several firms produce differentiated versions of same product
-- Industry has increasing [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to scale
+- Industry has increasing returns to scale
 
 ###  Remember from Microeconomics
 - Perfect (Pure) Competition
@@ -680,19 +680,19 @@ Differentiated Goods and Competition
 
 #  Perfect Competition Equilibrium
 Figure 8.1 Market and Firm Demand in Perfect Competition
- ![500](Attachments/500-568.jpg)
+ !500
 (a) In the perfectly competitive market for Grade-A large eggs, farmers supply millions of dozens of eggs at a market price of $\$2.25$ per dozen. (b) Ty, an individual supplier of dozens of eggs in the market, must sell at the price set
 By the market. Hence, he faces a perfectly elastic demand curve at the market price of \$2.25 per dozen.
 Source: Goolsbee, Levitt and Syverson. Microeconomics, $2^{\mathrm{nd}}$ Edition
 
 #  Output: Competitive versus Monopolistic Pricing
 Figure 8.3 Profit Maximization for a Perfectly. Competitive Firm Occurs Where $MR=P=MC$
- ![500](Attachments/500-585.jpg)
+ !500
 At the initial market price $P_{1}$ ,the perfectly competitive firm is maximizing profit at $Q^*1$ ,where $P=MC.$ If price increases to $P_2$ ,the firm should increase output to $Q^*2$ .If, instead, price decreases to $P_3$ ,the firm is maximizing profit at $Q^*3$
 Source: Goolsbee, Levitt and Syverson. Microeconomics, $2^{\mathrm{nd}}$ Edition
 
 ###   Monopoly Equilibrium
- ![500](Attachments/500-544.jpg)
+ !500
 
 ##  Monopoly Equilibrium
 - To increase sales the monopolist must lower price
@@ -703,11 +703,11 @@ Source: Goolsbee, Levitt and Syverson. Microeconomics, $2^{\mathrm{nd}}$ Edition
 - To sell an additional unit at this point will reduce profits
 
 ##  Monopoly: Efficiency Losses versus Perfect Competition
- ![500](Attachments/500-584.jpg)
+ !500
 Goolsbee et al., Microeconomics, 3 e, $①$ 2020 Worth Publishers$\bullet$ Efficiency losses - monopolist price, $\mathbb{P}_{\mathrm{mi}}^*$ , greater than $\mathbb{P}_{\mathrm{c}}^{*}$ competitive market price. Quantity available, $\mathbb{Q}_{\mathrm{mi}}^*$ , less than $\mathcal{P}_{\mathrm{c}}^*$ , competitive market quantity
 
 ###  Duopoly
- ![500](Attachments/500-586.jpg)
+ !500
 
 #  Duopoly
 - Industry demand curve, D
@@ -715,7 +715,7 @@ Goolsbee et al., Microeconomics, 3 e, $①$ 2020 Worth Publishers$\bullet$ Effic
 - Split market evenly
  -  Demand Curve for each firm is D/2
  -  Sales equal Q 2, % of Q 1
-- Add [product differentiation](../Advanced%20Financial%20Analysis%20and%20Valuation/Porter's%20Five%20Forces.md)
+- Add product differentiation
 - One firm lowers price to P 2
 - Captures more than % of market, but not all, sells Q 4 units
 
@@ -731,21 +731,21 @@ Goolsbee et al., Microeconomics, 3 e, $①$ 2020 Worth Publishers$\bullet$ Effic
  Assumptions
 - Goods produced by all firms are similar but differentiated from other firms
 - Several firms compete in the industry
-- Technology used by firms provides increasing [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to scale (economies of scale)
+- Technology used by firms provides increasing returns to scale (economies of scale)
 - Firms enter and exit freely
 - Long-run industry profits fall to zero
  -  If firms' cost structures vary, high cost firms will exit
 
 ##  Increasing Returns to Scale (Economies of Scale)
- ![500](Attachments/500-529.jpg)
+ !500
 
 #  Cost Curves
 Figure 7.2 Average Cost Curves
- ![500](Attachments/500-586.jpg)
+ !500
 Source: Goolsbee, Levitt and Syverson. Microeconomics, $2^{\mathrm{nd}}$ Edition.
 
 ##  Short-run Monopolistic Competition in Autarky
- ![500](Attachments/500-618.jpg)
+ !500
 Short-run Monopolistic Competition in Autarky
 - Outcome is similar to monopoly
 - All firms face demand curve do
@@ -756,12 +756,12 @@ Short-run Monopolistic Competition in Autarky
  - Drawing demand from existing firms
 
 ##   Long-run Monopolistic Competition in Autarky
- ![500](Attachments/500-618.jpg)
+ !500
 Long-run Monopolistic Competition in Autarky
 - D is industry demand. $NA$ is number of firms in industry
 - Entry of new firms
 - Increasing number of product variations (near substitutes)
-- Increasing consumer [price sensitivity](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%204/Duration.md)
+- Increasing consumer price sensitivity
  - Demand becomes increasingly elastic
 - New firms enter until the monopoly profit becomes zero
 -  Similar to perfect competition, but fewer firms due to internal economies of scale
@@ -783,11 +783,11 @@ Long-run Monopolistic Competition in Autarky
  - Number of firms, factor endowments and technology
  - Cost curves
  - Tastes
-- Increasing [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to scale provide reason for [international trade](../International%20Finance/Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md)
+- Increasing returns to scale provide reason for international trade
 - Otherwise, trade relative prices will be identical : Identical technologies . Identical factor endowments
 
 ###  Short-run Monopolistic Competition with Trade
- ![500](Attachments/500-528.jpg)
+ !500
 Short-run Monopolistic Competition with Trade
 - Start with long-run equilibrium without trade, point A
 - Allow trade between Home and Foreign
@@ -811,7 +811,7 @@ Short-run Monopolistic Competition with Trade
 - Reduced number of firms increases demand for each firm and reduces product options
 
 ##  Long-run Monopolistic Competition with Trade.
- ![500](Attachments/500-530.jpg)
+ !500
 Long-run Monopolistic Competition with Trade.
 - Number of firms in each country after trade is opened, NT < NA due to some firms exiting
 - Therefore D/NT > D/NA, remaining firms each sell more products
@@ -824,9 +824,9 @@ Long-run Monopolistic Competition with Trade.
 Comparison of Long-run versus Short-run Equilibrium.
 - Global number of products sold 2 NT > NA
 - D 3 more elastic than d 1
-- Large number of imported products increases consumer [price sensitivity](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%204/Duration.md)
+- Large number of imported products increases consumer price sensitivity
  -  At C remaining firms charge lower price than in autarky, $\mathbb{P}^{\mathrm{W}}<\mathbb{P}^{\mathrm{A}}$ and produce larger quantity, $\mathbb{Q}_3>\mathbb{Q}_1$
-- Consumers gain from lower prices reflecting increasing [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to scale and increased product variety
+- Consumers gain from lower prices reflecting increasing returns to scale and increased product variety
 - Adjustment Costs: workers in closed firms must find alternative employment and substantial capital destruction
 
 ###  Intra-industry Trade
@@ -835,7 +835,7 @@ Comparison of Long-run versus Short-run Equilibrium.
 - Example: Automobiles
 OKnown as Intra-industry Trade
 Minimum of imports and exports Index of Intra - industry trade = (imports + exports)
-US Intra-industry Trade (2018)$$\begin{array}{|c|c|c|c|}
+US Intra-industry Trade (2018)$$\begin{array}{ | c | c | c | c | }
 \hline
 Product & Value of Imports(S millions) & Value of Exports(S mitlions) & Index of Intra- Industry Trade (96) \\
 Natural gas & 56,546 & 54,551 & 8296 \\
@@ -865,9 +865,9 @@ Data frnm: I S Internationol Tende Commissinn loternctive Tariffand Trnde DatoWe
 GDP; is the gross domestic product of country i and dist is the distance between two countries to the nth power. B represents a summary of all other factors.
 
 ##  Application of the Gravity Model
-- $B$ includes tariffs, transportation costs, differences in tastes and the effects of border, [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) and income differences
+- $B$ includes tariffs, transportation costs, differences in tastes and the effects of border, currency and income differences
 - A version of this model was used in the Estevadeoral, Frantz and Taylor article presented in the first lecture to look at the reasons for the growth and decline in trade from 1870 to 1939
-- Estevadeoral et al. Found significant "common [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)" effects in addition to transport costs and lesser effects from tariffs and income convergence
+- Estevadeoral et al. Found significant "common currency" effects in addition to transport costs and lesser effects from tariffs and income convergence
 Monopolistic Competition and the Gravity Model
 - Using the monopolistic competition model, assume:
 - Each country produces a differentiated product
@@ -883,7 +883,7 @@ Of the Gravity Equation. This version assumes that trade will be proportional to
 To the distance between the two countries.
 
 ##  US/Canada Trade 1993
- ![500](Attachments/500-549.jpg)
+ !500
 Application of the Gravity Model - US/Canada Trade
 - Text figure shows trade between 10 Canadian provinces and 30 US states, and among the 10 Canadian provinces
 ·The values of $B$ are 93 for US/Canada trade and 1300 for intraCanadian province trade. This implies:
@@ -914,27 +914,27 @@ Short-run FDl Impact on Wages and Rental Rates
 
 #   Short-run FDl Impact on Wages and Output
 (a) Effect on Labor Allocation and Wage
- ![500](Attachments/500-592.jpg)
- ![500](Attachments/500-585.jpg)
+ !500
+ !500
 
 ##  Short-run FDl Impact on Rental Rate
 - Fewer laborers to farm land - marginal product of land falls
  - Decreases return on land:$$R_T=P_A\cdot MPT_A$$
-- Indeterminant [return on capital](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) using:$$R_K=P_M\cdot MPK_M$$
+- Indeterminant return on capital using:$$R_K=P_M\cdot MPK_M$$
 - Offsetting effects
-- Incoming capital reduces marginal [return on capital](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md)
- - Attracts labor increasing marginal [return on capital](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md)
+- Incoming capital reduces marginal return on capital
+ - Attracts labor increasing marginal return on capital
 
 ##  Short-run FDl Impact on Rental Rate
 - To resolve effect on $R_{K}$ , examine revenue less wages
-- If wages increase, [return on capital](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) must decrease ·All else equal
+- If wages increase, return on capital must decrease ·All else equal
 - Wages remain constant only if:
 - Lm/Km constant
  -  $\mathbb{R}_{\mathrm{K}}$ constant as well
-- Real wages must increase to compensate workers for their increased productivity decreasing [return on capital](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) in the short-run
+- Real wages must increase to compensate workers for their increased productivity decreasing return on capital in the short-run
 
 ##   Short-run FDl Impact on Rental Rate
- ![500](Attachments/500-595.jpg)
+ !500
 
 ##  Long Run Labor Allocation and Output
 - Assume Heckscher-Ohlin world, except:
@@ -944,21 +944,21 @@ Short-run FDl Impact on Wages and Rental Rates
 
 #  Labor Allocation and Output
 (a) Effect on the Allocation of Labor and Capital
- ![500](Attachments/500-618.jpg)
+ !500
 (b) Effect on Industry Outputs
- ![500](Attachments/500-583.jpg)
+ !500
 
 ###  Labor Allocation and Output$$Recall\frac{0_CK}{0_CL}>\frac{0_SK}{0_SL}$$
 FDI provides more capital per worker in computer industry. This increase in capital shifts origin from $0_C$ to $0_C^{\prime}$ Since constant for oth industrie, allocation of labor moves from $L$ to $L^{\prime}$ and of capital from K to K'
 
 ##  Labor Allocation and Output
-- An increase in foreign direct [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), $\Delta K$ , leads to additional domestic capital allocation equal to $K^{\prime}-K$ and to labor allocation equal to $L^{\prime}-L$
+- An increase in foreign direct investment, $\Delta K$ , leads to additional domestic capital allocation equal to $K^{\prime}-K$ and to labor allocation equal to $L^{\prime}-L$
 - Each industry maintains its original, optimal labor to capital ratio
 - Effect on output is in accordance with Rybczynski's theorem
 - Capital-intensive industry increases output
 - Labor-intensive industry decreases output
 
-#  Rental Rates and Wages in Singapore (1970-1990)$$\begin{array}{|c|c|c|c|}
+#  Rental Rates and Wages in Singapore (1970-1990)$$\begin{array}{ | c | c | c | c | }
 \hline
  & Real Rental & Real Wages & Implied Productivity \\
 Part A: Using Production Function & and Marginal Products &  &  \\
@@ -988,7 +988,7 @@ Dota from: Port A from Alwyn Young, 1995, The Tyronny of Numbers: Confronting th
 
 ##  Rental Rates and Wages in Singapore
 - Part B: calculate rental rate on capital equipment
-- Compute [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) on capital (rental rate)$P_K\cdot (i+d)$ , where $P_K$ is price of equipment, i is the interestrate and $d$ is the real depreciation, the real rental rate is,$$\frac RP=\frac{P_K}P\cdot (i+d)$$
+- Compute expected return on capital (rental rate)$P_K\cdot (i+d)$ , where $P_K$ is price of equipment, i is the interestrate and $d$ is the real depreciation, the real rental rate is,$$\frac RP=\frac{P_K}P\cdot (i+d)$$
 - Capital will not remain in a low return business
 - This method shows no evidence of declining rental rates
 
@@ -1009,7 +1009,7 @@ Dota from: Port A from Alwyn Young, 1995, The Tyronny of Numbers: Confronting th
 - In theory, both country of immigration and emigration benefit, as well as both the country providing and receiving FDl
 - Net benefits often small, have distributional consequences and come with risks
 Gains from Migration
- ![500](Attachments/500-587.jpg)
+ !500
 
 ##  Gains from Migration
 - Use specific-factors model
@@ -1038,7 +1038,7 @@ Increase in GDP
 - Distribution often a political issue
  -  Point B - equilibrium with full employment
  - Reached only in the long run
-Worker Remittances (2017)$$\begin{array}{|c|c|c|}
+Worker Remittances (2017)$$\begin{array}{ | c | c | c | }
 \hline
 Country & Remittances Received (S billions) & Net Aid Received ( S billions) \\
 Albania & 1.5 & 0.2 \\
@@ -1064,7 +1064,7 @@ Data from: World Development Indicators, The World Bank.
  -  Borjas study: Capital $+2\%$ ; labor -1.9% of GDP
 - Other studies show larger gains
 - Based on assumptions regarding enlarging EU or allowing free labor movement within NAFTA (now USMCA) zone
-Gains from Migration$$\begin{array}{|c|c|c|}
+Gains from Migration$$\begin{array}{ | c | c | c | }
 \hline
  & Percent of Home Labor & Increase in GDP (% \\
 PartA: Calculation of Home Gains &  &  \\
@@ -1104,10 +1104,10 @@ George Borjas' Assessment of Immigration Models
 
 ##  Gains from Foreign Direct Investment
 - Use specific-factors model
-- Pre-Foreign Direct [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)
+- Pre-Foreign Direct Investment
 ·Home $\overline{K}$ capital - Foreign K*capital
  -  Foreign has less capital than Home
- - Allow foreign direct [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) from Home to Foreign
+ - Allow foreign direct investment from Home to Foreign
 - Home rental rate increases from R to R'
  - Foreign rental rate declines from R*to R'
  -  Equilibrium at B
@@ -1120,8 +1120,8 @@ George Borjas' Assessment of Immigration Models
 - Gains for Foreign
 - FDl increases MPL of Foreign workers; lowers MPK
  - Workers' pay rises due to increased MPL
-Gains from Foreign Direct [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)
- ![500](Attachments/500-558.jpg)
+Gains from Foreign Direct Investment
+ !500
 
 ##  Phantom FDI 3
 - Damgaard, Elkjaer, and Johannesen argue in a forthcoming paper:
@@ -1131,13 +1131,13 @@ Gains from Foreign Direct [Investment](../Advanced%20Investments/An%20Asset%20Al
 - Distorts GDP statistics - Ireland's 26% growth in 2015
 
 ##  Immiserizing Growth 4
-- Having discussed benefits of [international trade](../International%20Finance/Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md), immigration and [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)
+- Having discussed benefits of international trade, immigration and investment
 - Once important caveat: Immiserizing Growth
 - Economic growth that reduces a country's welfare
 - Links terms of trade and growth
 
 ##  Immiserizing Growth
- ![500](Attachments/500-584.jpg)
+ !500
 Figure 11.1
 
 ##  Immiserizing Growth
@@ -1168,7 +1168,7 @@ Figure 11.1
 - Important implications in emerging economies and wealth distribution
 
 #  Immiserizing Growth
- ![500](Attachments/500-604.jpg)
+ !500
 Figure 11.2
 Movement of Labor and Capital Between Countries I
 October 13,2022
@@ -1177,7 +1177,7 @@ October 13,2022
 - Impact on wages
 - Begin with Specific Factors model - short-run consequences
  - Subsequently Heckscher-Ohlin model - long-run consequences
- -  Turn to Foreign Direct [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) (FDI)
+ -  Turn to Foreign Direct Investment (FDI)
  - Capital movement across countries
  - Gains and losses due to migration and FDl
 
@@ -1188,7 +1188,7 @@ October 13,2022
 - Equilibrium occurs when W is the same in both sectors
 
 #  No-trade Home Market Labor Equilibrium
- ![500](Attachments/500-583.jpg)
+ !500
 Introduce Foreign Country - Short Term Model
 - Foreign wage is W* < W
 - Assume Home allows immigration of workers from Foreign
@@ -1197,7 +1197,7 @@ Introduce Foreign Country - Short Term Model
  - Equilibrium moves from point A to B
 
 ##  Increase in Home Labor due to Immigration
- ![500](Attachments/500-583.jpg)
+ !500
 
 ##  Short-term Outcomes
 - Labor usage increases in both sectors
@@ -1206,13 +1206,13 @@ Introduce Foreign Country - Short Term Model
  - Short-run both industries' output rises
  - Labor increase does not affect world relative prices
 New World Immigration and Wage Convergence
- ![500](Attachments/500-590.jpg)
+ !500
  Increased number of workersin New World lower MPL w
  Decereased number
  - Workersi urope rais MPL U
 
 ###  Shift in Production Possibilities Frontier
- ![500](Attachments/500-585.jpg)
+ !500
 
 ##  Long-run Effects of Immigration
 - Assume Heckscher-Ohlin world, except:
@@ -1221,7 +1221,7 @@ New World Immigration and Wage Convergence
 - Shoe manufacturing labor intensive; computer manufacturing capital intensive$$\frac{L_S}{K_S}>\frac{L_C}{K_C}\text{ equivalently,}\frac{K_C}{L_C}>\frac{K_S}{L_S}$$$$K_C+K_S=\overline{K}\mathrm{~and~}L_C+L_S=\overline{L}$$
 
 ###  Long-run Effects of Immigration -- Pre-immigration
- ![500](Attachments/500-616.jpg)
+ !500
 
 ##  Long-run Effects of Immigration
 ·Box diagram
@@ -1231,7 +1231,7 @@ New World Immigration and Wage Convergence
 - OcA allocation to computer industry
 Les capital per worker in shoe ndustry, oe  ogk
 Long-run Effects of Immigration
- ![500](Attachments/500-586.jpg)
+ !500
 Labor Increase at Home
 Impact on Wages, Rentals and Output
 - Real wage and rental rate determined by marginal products
@@ -1258,7 +1258,7 @@ Impact on Wages, Rentals and Output
 - Relative prices remain constant
 
 ###  Labor Increase at Home - Impact on Wages and Rentals
- ![500](Attachments/500-583.jpg)
+ !500
 
 ##  Rybczynski Theorem
 - In the long-run, an increase in one factor results in the country increasing output in the industry using that factor intensively and decreasing output of the other industry
@@ -1268,7 +1268,7 @@ Impact on Wages, Rentals and Output
 - Factor prices unchanged as economy shifts output to industry utilizing increased factor intensively
 
 ##  Rybczynski Theorem - Home Viewpoint
- ![500](Attachments/500-580.jpg)
+ !500
 
 ##  Mariel Boat Lift - 1980
 - Brought low-skilled Cuban refugees to Miami
@@ -1286,7 +1286,7 @@ Impact on Wages, Rentals and Output
 - Real value-added in apparel industry increases after lift - remains above trend in Miami for well over a decade after the Miami boat lift
 - Real value-added by skilled workers in skill intensive industries declines after lift and remains below trend
 Value- added by Worker Type
- ![500](Attachments/500-581.jpg)
+ !500
 
 ##  Mariel Boat Lift Impact
 - Competing hypothesis for no relative decline in low-skill wages
@@ -1304,17 +1304,17 @@ Value- added by Worker Type
 - Competition appears greatest at lowest end of educational spectrum
 
 ##  Education of Foreign-born Workers in US (2017)
- ![500](Attachments/500-583.jpg)
+ !500
 Undocumented Immigrants Entering the US
- ![500](Attachments/500-562.jpg)
+ !500
 - The number of migrants from Mexico has declined as conditions in Mexico improved and in the US declined
 
 ##  US Refugee Asylum Applications (Thousands)
- ![500](Attachments/500-583.jpg)
+ !500
 - Migrants from other Central American countries have increased often migrating through Mexico
 
 #  Immigration and Wages
-PERCENTAGE CHANGE IN THE WAGE OF WORKERS WITH EDUCATIONAL LEVEL$$\begin{array}{|c|c|c|c|c|c|}
+PERCENTAGE CHANGE IN THE WAGE OF WORKERS WITH EDUCATIONAL LEVEL$$\begin{array}{ | c | c | c | c | c | c | }
 \hline
  & Less Than 12 Years & High School Graduates & Some College & College Graduates & Overall Average \\
 Part A: Effect & of Immigration on & i All U.S. Workers &  &  &  \\
@@ -1361,7 +1361,7 @@ Impact of Immigration and Wages on Output
 - Traditionally from high-wage to low-wage countries
 
 #  FDI Outflows from Sovereign Wealth Funds
-Table 1 Top 20 largest SWFs in the world economy. Positions in 2007 and 2017.$$\begin{array}{|c|c|c|c|c|c|c|c|}
+Table 1 Top 20 largest SWFs in the world economy. Positions in 2007 and 2017.$$\begin{array}{ | c | c | c | c | c | c | c | c | }
 \hline
 Position in & in Position in Fund 2007 & Home country Norway & Origin & Establishment & nt Assets Under Management in & Assets Under Management in $2017\left (\mathrm{USS}\mathrm{~billion}\right)$ 922.11 \\
 Position in 2017 & Origin & Establishment & nt Assets Under Management in 2007 (USS billion) \\
@@ -1406,7 +1406,7 @@ Source: Compiled/merged from WIR (2008) and SWFI (as of March 2017: accessed 20 
 Source: K. S. Reddy. "Pot the ball? Sovereign wealth funds' outward FDl in times of global financial market turbulence: A yield institutions-based view. Central Bank Review. Volume 19, Issue 4, December 2019, Pages 129-139
 
 #  FDI Outflows from Sovereign Wealth Funds
-Table 2 FDI by SWFs (cumulative flows): Host region share$$\begin{array}{|c|c|c|c|c|c|c|c|c|c|}
+Table 2 FDI by SWFs (cumulative flows): Host region share$$\begin{array}{ | c | c | c | c | c | c | c | c | c | c | }
 \hline
 Region/country & 2005 $(USSbn)$ & 2006 $(USSbn)$ & 2007 $(USSbn)$ & 2008 $(USSbn)$ & 2009 $(USSbn)$ & 2010 $(USSbn)$ & 2011 $(USSbn)$ & (%) Share & Post-crisis effect (2011-2006) $(USSbn)$ \\
 World & 11.19 & 19.01 & 39.67 & 63.09 & 93.48 & 106.53 & 125.15 &  & 106.15 \\
@@ -1423,13 +1423,13 @@ Transition economies &  &  & 0.17 & 1.19 & 2.18 & 3.60 & 3.94 & 3.15 & 3.94 \\
 \hline
 \end{array}$$
 Source: Compiled from the UNCTAD's FDI Stat/WIRs; the last two columns were computed.
-- Sovereign Wealth Funds and other investors from emerging and industrializing countries have continued to grow [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) into developed economies.
- ![500](Attachments/500-615.jpg)
+- Sovereign Wealth Funds and other investors from emerging and industrializing countries have continued to grow investment into developed economies.
+ !500
 Heckscher-Ohlin II
 October 11,2022
 
 #  Davis and Weinstein 1 (2003)
- ![500](Attachments/500-585.jpg)
+ !500
 FIGURE 10. TRADE WITH No-FPE, GRAVITY DEMAND SPECIFICATION, AND ADJUSTED ROW (T 7)
 
 ##  Davis and Weinstein
@@ -1468,9 +1468,9 @@ FIGURE 10. TRADE WITH No-FPE, GRAVITY DEMAND SPECIFICATION, AND ADJUSTED ROW (T 
 - Need to break out different labor to capital ratios for export products versus non-tradable goods.
 
 #  Davis and Weinstein Technology
- ![500](Attachments/500-585.jpg)
+ !500
 FIGURE 2. TRADE WITH COMMON TECHNOLOGY (US) (T 1)
- ![500](Attachments/500-584.jpg)
+ !500
 FIGURE 3. PRODUCTION WITH COMMON TECHNOLOGY (AVERAGE) (P 2)
 
 ##  Davis and Weinstein
@@ -1488,13 +1488,13 @@ FIGURE 3. PRODUCTION WITH COMMON TECHNOLOGY (AVERAGE) (P 2)
 - Adjusted Row forces technology to match endowments and outputs
 
 ##  Lerner Diagram 2
- ![500](Attachments/500-586.jpg)
+ !500
 Figure 1.13
 
 ##  Learner Diagram
 - Lerner diagrams define the range of industries in which a country may be competitive
 - This dependent on the relative endowments of capital and labor
-- Assume perfect competition, constant [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to scale
+- Assume perfect competition, constant returns to scale
 - Revenue = Cost
 - Choose an isoquant, s.t., each industry revenue = 1
  - Therefore $p_iy_i=1$
@@ -1507,8 +1507,8 @@ i.e., the value $of$ labor and capital equals revenue We can determine factor pr
 - Proves the "factor price insensitivity" lemma
 
 #  Trade Specialization 3 (2008) (Schott Figure 1)
- ![500](Attachments/500-584.jpg)
- ![500](Attachments/500-584.jpg)
+ !500
+ !500
 Intra-National Specialization
 Inter-National Specialization
 Figure l: Inter- and Intra-National Specialization in a Multiple Cone Equilibrium
@@ -1530,7 +1530,7 @@ Trade between Developed and Developing Countries
 - Produces increasingly technologically and capital-intensive products
  - Competes with OECD nations, despite relative labor abundance
 
-#  Schott, Table 34$$\begin{array}{|c|c|c|}
+#  Schott, Table 34$$\begin{array}{ | c | c | c | }
 \hline
 Province. Region or Municipality & PCGDP s mill) & Illiteracy (96) \\
 Eipality & 3,725 & 8.7 \\
@@ -1571,13 +1571,13 @@ Notes: Source: China Statistical Yearbook (2 ooo):quoted
 From OECD (2001). PCGDP figures are converted from CNY toUSDusing the officlal exchange rate of 8.27\$/CNY.
 
 ##  China's Export Mix and Pricing
-- Examines China's export mix and [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) relative to other regions
+- Examines China's export mix and pricing relative to other regions
 - Regarding mix, Schott finds the following:
 - Exports similar to OECD countries
 - Mix substantially more OECD-like than similarly endowed countries
  - These similarities increase over time
 
-#  China's Export Mix and Pricing$$\begin{array}{|c|c|c|c|c|c|c|c|c|}
+#  China's Export Mix and Pricing$$\begin{array}{ | c | c | c | c | c | c | c | c | c | }
 \hline
 SITC 1 Industry & China & Asia & Latin America & OECD \\
 1972 & 2001 & 1972 & 2001 & 1972 & 2001 & 1972 & 2001 \\
@@ -1595,7 +1595,7 @@ Overall M Manufacturind 1 &
 \end{array}$$
 Notes: Cells display the market share of each region's or country's exports to the U.S. Asia.
 Results exclude China..
-Table 6: U.S. Import Value Market Share by Region and Year$$\begin{array}{|c|c|c|c|c|c|c|c|c|}
+Table 6: U.S. Import Value Market Share by Region and Year$$\begin{array}{ | c | c | c | c | c | c | c | c | c | }
 \hline
 SITC 1 Industry & China & Asia & Latin America & OECD \\
 1972 & 2001 & 1972 & 2001 & 1972 & 2001 & 1972 & 2001 \\
@@ -1613,7 +1613,7 @@ Table 8: Product Penetration by Region and Year
 #  China's Export Mix and Pricing
 This chart is the base 2 logarithm of OECD countries versus China in terms of the unit value of products sold for export
 - 1991 - OECD chemicals price 2.01 X Chinese; 2001 - 2.58 X
-- 1991 - OECD machinery price 9.2 X Chinese; 2001 - 9.7 X$$\begin{array}{|c|c|c|c|c|c|c|c|c|c|c|c|}
+- 1991 - OECD machinery price 9.2 X Chinese; 2001 - 9.7 X$$\begin{array}{ | c | c | c | c | c | c | c | c | c | c | c | c | }
 \hline
 Industry & 1991 & 1992 & 1993 & 1994 & 1995 & 1996 & 1997 & 1998 & 1999 & 2000 & 2001 \\
 Chemicals 5 & 1.01 & 1.13 & 1.19 & 1.18 & 1.10 & 1.14 & 1.15 & 1.28 & 1.28 & 1.29 & 1.37 \\
@@ -1641,7 +1641,7 @@ Table 16: Mean OECD/China Manufacturing Unit Value Ratios
 - Equilibrium for relative wage level is determined by:$$\frac{\bar{L}}{\bar{K}}=\frac{(L_C+L_S)}{\bar{K}}=\frac{L_C}{K_C}\cdot\frac{K_C}{\bar{K}}+\frac{L_S}{K_S}\cdot\frac{K_S}{\bar{K}}$$
 Relative Supply = Relative Demand$$Subjectto:\frac{K_C}{\bar{K}}+\frac{K_S}{\bar{K}}=1$$
 Home Wage to Rental Ratio
- ![500](Attachments/500-552.jpg)
+ !500
 
 ##  Home Wage to Rental Ratio
 - Economy-wide relative demand curve a weighted average of Lc/Kc and Ls/Ks, where the weights are each industry's output
@@ -1650,7 +1650,7 @@ Home Wage to Rental Ratio
  - When W/R changes, both industries want to adjust labor to capital ratio
 
 #  Impact of Computer Price Increase
- ![500](Attachments/500-580.jpg)
+ !500
 
 ##  Impact of Computer Price Increase
 - Trade introduced, Pc/Ps increases
@@ -1662,7 +1662,7 @@ Home Wage to Rental Ratio
 - Both industries hire more labor relative to capital
 
 ###  Relative Computer Price Increase Effect on Wage/Rental
- ![500](Attachments/500-584.jpg)
+ !500
 
 ##  Increase in L/K
 - How can both industries increase relative labor deployed?$$\frac{\bar{L}}{\bar{K}}=\frac{(L_C+L_S)}{\bar{K}}=\frac{L_C}{K_C}\uparrow\cdot\frac{K_C}{\bar{K}}\uparrow+\frac{L_S}{K_S}\uparrow\cdot\frac{K_S}{\bar{K}}\downarrow $$
@@ -1676,7 +1676,7 @@ Increase in L/K: Real Wage and Rental Rate Impact
 - Marginal Product of Capital increases: more labor per unit $of$ capital,$$R=P_C\cdot MP\dot{K_C}$$
 And $R=P_S\cdot MPK_S$
 Theref ore with. $R$ equalized once capital has moved,$$MPK_C=\frac R{P_C}\uparrow\: and\:MPK_S=\frac R{P_S}\uparrow $$
-- Real [return on capital](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) increases in both industries
+- Real return on capital increases in both industries
 Increase in L/K: Real Wage and Rental Rate Impact
 - Relative price increase increases return of intensively used factor - Capital in this example
 - Conversely, Marginal Product of Labor declines$$W=P_C\cdot MPL_C\mathrm{~and~}W=P_S\cdot MPL_S,$$
@@ -1722,7 +1722,7 @@ For$$\text{ease in P}_M,\frac{\Delta R_T}{R_T}<0<\frac{\Delta W}W<\frac{\Delta P
 - Used intensively in exports benefit
  - Used intensively in imports lose
 - US: abundant high-skilled workers; scarce low-skilled
- ![500](Attachments/500-585.jpg)
+ !500
 Heckscher-Ohlin I
 October 6,2022
 
@@ -1738,14 +1738,14 @@ October 6,2022
 - Comparative advantage influenced by
 - Relative abundance of factors
  - Technology choice
-- Comparative advantage in these drives [international trade](../International%20Finance/Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md)
+- Comparative advantage in these drives international trade
 - Intensity of factor use
 - Focus on Labor versus Capital
  - Control rate of MPL decline
 
 ##  History of Heckscher-Ohlin Theorem
 - Theory developed between 1919 and 1924
-- End of long period of substantial [international trade](../International%20Finance/Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md) growth
+- End of long period of substantial international trade growth
 . Dramatic improvements in transportation, "mobilizing" capital goods
  - Capability to move large machines within country/internationally
 - Evened out technology differences between countries
@@ -1790,7 +1790,7 @@ October 6,2022
 - Home is Capital abundant - Foreign is labor abundant$$\frac{\bar{L}^*}{\bar{K}^*}>\frac{\bar{L}}{\bar{K}}$$
 
 ##  Labor-Capital Relative Demand versus Wage/Rental
- ![500](Attachments/500-583.jpg)
+ !500
 
 #  Heckscher-Ohlin Assumptions.
 - Only final outputs freely tradeable between countries
@@ -1801,7 +1801,7 @@ October 6,2022
 - Consumer tastes are identical in both countries
 
 ###  No-trade Equilibria
- ![500](Attachments/500-585.jpg)
+ !500
 
 #  No-trade Equilibria
 - Take PPF shape as an assumption for now - will prove later
@@ -1813,7 +1813,7 @@ October 6,2022
 - Relative prices would be identical if endowments identical
 
 ##  Home Gains From Trade
- ![500](Attachments/500-584.jpg)
+ !500
 
 ###  Home Gains From Trade
 - Home consumes at point on world relative price line where trade with Foreign is balanced
@@ -1823,7 +1823,7 @@ October 6,2022
 - The relative price of computers increases from:$$\left (\frac{P_C}{P_S}\right)^A\mathrm{to}\left (\frac{P_C}{P_S}\right)^W$$
 
 ##   Foreign Gains From Trade
- ![500](Attachments/500-581.jpg)
+ !500
 
 ###  Foreign Gains From Trade
 - Foreign consumes at point on world relative price line where trade with Home is balanced
@@ -1833,7 +1833,7 @@ October 6,2022
 - The relative price of computers decreases from:$$\left (\frac{P_C}{P_S}\right)^{A^*}\mathrm{to}\left (\frac{P_C}{P_S}\right)^W$$
 
 ##  World Equilibrium
- ![500](Attachments/500-557.jpg)
+ !500
 
 ##  World Equilibrium
 - Reach equilibrium when:
@@ -1863,7 +1863,7 @@ Real-world Analysis - Heckscher-Ohlin Assumptions
 - US exported products with a significant labor component
  - Capital to labor ratio lower for US exports than US imports in 1947 - assumed foreign firms used US technology
  - Contradicted predictions of the Heckscher-Ohlin model
-Leontief's Findings 1$$\begin{array}{|c|c|c|}
+Leontief's Findings 1$$\begin{array}{ | c | c | c | }
 \hline
  & Exports & Imports \\
 Capital (5 millions) & 2.55 & 3.1 \\
@@ -1892,7 +1892,7 @@ Leamer (1980) Reformulation of Leontief Test 2
 
 ##  Leamer (1980) Reformulation of Leontief Test 3
 - Leamer demonstrated that HoV implied, if country i were capital abundant, for example, the production capital/labor ratio exceeded that for consumption:$$\frac{K^i}{L^i}>\frac{K^i-F_k^i}{L^i-F_l^i},$$
-Where $F_k^i$ and $F_l^i$ are the factor contents of trade$$\begin{array}{|c|c|c|}
+Where $F_k^i$ and $F_l^i$ are the factor contents of trade$$\begin{array}{ | c | c | c | }
 \hline
  & Economy-wide Production & Domestic Consumptior \\
 Capital (SBillions) & 5327 & 5305 \\
@@ -1911,7 +1911,7 @@ Canital/labor ( (S/person) & 56,949 & 56,737 \\
 . Statistically insignificant regarding Leontief's prediction -- missing element: factor-price equalization
 
 ##  Factor Endowments 2017 (Percentage of Global Endowment)
- ![500](Attachments/500-616.jpg)
+ !500
 
 ##  Factor Endowments 2017
 - Unadjusted for:
@@ -1924,10 +1924,10 @@ OGDP
 - Consider endowment as share of GDP - domestic absorption
 
 ##  China Effective Factor Endowments 2017 (Percentage of Global Endowment)
- ![500](Attachments/500-616.jpg)
+ !500
 
 ##  US Effective Factor Endowments 2017 (Percentage of Global Endowment).
- ![500](Attachments/500-617.jpg)
+ !500
 
 ##  Effective Factor Endowments 2017
 - Effective factor endowment:
@@ -1938,7 +1938,7 @@ OGDP
 - Many more adjustments required to fit real world
 
 ##  US Food and Agricultural Trade
-U.S. FOOD TRADE (BILLIONS U.S.\$)$$\begin{array}{|c|c|c|c|c|c|c|c|}
+U.S. FOOD TRADE (BILLIONS U.S.\$)$$\begin{array}{ | c | c | c | c | c | c | c | c | }
 \hline
  & 2000 & 2003 & 2006 & 2009 & 2012 & 2015 & 2017 \\
 Exports & 47.9 & 55.0 & 66.0 & 93.9 & 133.0 & 127.7 & 132.7 \\
@@ -1946,7 +1946,7 @@ Imports & 46.5 & 56.5 & 76.1 & 82.9 & 111.1 & 128.8 & 138.8 \\
 Net exports & 1.4 & -1.2 & -10.1 & 11.0 & 21.9 & -1.0 & -6.1 \\
 \hline
 \end{array}$$
-Data from: U.S. food trade data, Bureau of Economic Analysis..$$\begin{array}{|c|c|c|c|c|c|c|c|}
+Data from: U.S. food trade data, Bureau of Economic Analysis..$$\begin{array}{ | c | c | c | c | c | c | c | c | }
 \hline
 Commodity & 2000 & 2003 & 2006 & 2009 & 2012 & 2015 & 2017 \\
 Corn & $NA$ & 52.50 & 52.50 & 54.00 & 57.50 & 53.75 & $53.4 C$ \\
@@ -1955,21 +1955,21 @@ Soybeans & $NA$ & $కర. 00$ & 55.90 & $\textsf{S 11. 00}$ & 514.90 & 59.90 & 
 \end{array}$$
 - US abundant in high quality farmland and high productivity methods
 Wages and Productivity (1990)
- ![500](Attachments/500-615.jpg)
+ !500
 Specific-Factors Model
 October 4, 2022
 
 ##  Specific-Factors Model
 - Under Ricardian model all workers gained from trade
 - Earnings of other factors were not considered
-- Specific (fixed) factors model examines productivity and [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) of specific-factors in addition to labor
+- Specific (fixed) factors model examines productivity and returns of specific-factors in addition to labor
 - Specific-factors not allowed to move from sector to sector
 - Labor still fully mobile between sectors in each country
-- We will see this implies diminishing marginal [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) of labor as production in one sector increases
+- We will see this implies diminishing marginal returns of labor as production in one sector increases
  -  This creates winners and losers in each country
 
 ##  Output and Marginal Product of Labor
- ![500](Attachments/500-584.jpg)
+ !500
 Diminishing Marginal Productivity of Labor
 - Ricardian model assumed constant marginal productivity of labor
 - Considering immobility of specific factors, marginal productivity will decrease.
@@ -1977,7 +1977,7 @@ Diminishing Marginal Productivity of Labor
  - 100 acres of farmland worked by three versus two tractors
 
 #   Production Possibilities Frontier
- ![500](Attachments/500-580.jpg)
+ !500
 Effect on Production Possibilities Frontier
 - Ricardian model assumed constant marginal productivity of labor
 - Under Specific-factor, PPF becomes bow shaped
@@ -1998,11 +1998,11 @@ Or the relative price of manufactured goods to agricultural goods equals the opp
 - Home's comparative advantage in manufacturing. Foreign's in agriculture
 
 ###  Increase in Relative Price of Manufactures - Home
-Agriculture| output, $Q_A$
- ![500](Attachments/500-620.jpg)
+Agriculture | output, $Q_A$
+ !500
 Increase in Relative Price of Manufactures
-- Allow for [international trade](../International%20Finance/Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md) between Home and Foreign$$\frac{P_M}{P_A}<\left (\frac{P_M}{P_A}\right)^W<\frac{P_M^*}{P_A^*}$$
-- When [international trade](../International%20Finance/Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md) opens, manufactures' prices will:
+- Allow for international trade between Home and Foreign$$\frac{P_M}{P_A}<\left (\frac{P_M}{P_A}\right)^W<\frac{P_M^*}{P_A^*}$$
+- When international trade opens, manufactures' prices will:
 - Increase relative to agricultural prices for Home
 - Decrease relative to agricultural prices for Foreign
 - Relative prices converge to the world price line
@@ -2021,13 +2021,13 @@ Labor market equilibrium occurs when labor is allocated
 At point A where the two labor demand curves meet.
 One can think of the demand for manufacturing labor representing the limiting factor for agricultural labor supply and vice versa
 Home Labor Earnings - Autarky
- ![500](Attachments/500-561.jpg)
+ !500
 Increase in Price of Manufactures
 - Assume a relative price increase in manufactured goods, △Pm
 Consider the effect on real wages,
 The wage rate rises from W to W'reflecting the increase, $\Delta P_M\times MPL_M$ ,equilibrium now at $B$$$\Delta W=W^{\prime}-W<\Delta P_M\times MPL_M, Why?$$
 Increase in Price of Manufactures-- Home
- ![500](Attachments/500-543.jpg)
+ !500
 Increase in Price of Manufactures
 Dividing through by $W = P_m × MPL_m,$
 Obtain $$\frac{\Delta W}W<\frac{\Delta P_M\times MPL_M}{P_M\times MPL_M}=\frac{\Delta P_M}{P_M}\\\frac{\Delta W}W\text{ is the elasticity of wages}$$
@@ -2044,7 +2044,7 @@ Real wages have fallen in terms of manufactured goods. The price of agricultural
 ###  Earnings of Capital and Land
 - Calculate revenues and deduct payments to labor:
 Payments to ca $oital\textit{ owners}= P_{M}\times Q_{M}- W\times L_{M}$ Payments to land $owners=P_A\times Q_A-W\times L_A$
-- [Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) on capital and land are:
+- Returns on capital and land are:
 Payments$$\frac{to\textit{ capital owners}}K=\frac{P_M\times Q_M-W\times L_N}K$$
 Rk=$$\frac{\text{nts to land owners}}T=\frac{P_A\times Q_A-W\times L_A}T$$
 Rr =
@@ -2054,7 +2054,7 @@ Rr =
 - Either method may be used depending on available data
 - $\mathbb{R}_{\mathrm{K}}$ and Rt are rental rates on capital and land respectively
 - Rental is periodic return, does not matter whether capital or land is actually rented or owned
-- If owned think of as [return on investment](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2014%20-%20Private%20Equity,%20Pension,%20and%20Sovereign%20Funds/Private%20Equity.md)
+- If owned think of as return on investment
 
 ##  Changes in Return on Capital and Land
 - Change in return as relative prices change
@@ -2109,7 +2109,7 @@ Rr =
  - Capital Payments
 
 #  Work It Out Example (p 89)
-- Change in [return on capital](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) = $△R_k/R_k$
+- Change in return on capital = $△R_k/R_k$
 	-  ${} (0\% * 150 - 10\% * 100)/50 = - 20\%$
 - Change in return on land = △Rt/RT
 - $(20\% * 150 - 10\% * 50)/100 = + 25\%$
@@ -2122,14 +2122,14 @@ General Equation for Change in Factor Prices
 #  Policy Application
 - US employment shifted from manufacturing to service sector over past 70 years
 - Shifts in other countries as well
- ![500](Attachments/500-584.jpg)
+ !500
 Real Hourly Earnings
- ![500](Attachments/500-591.jpg)
+ !500
 - Masks differences in skill levels in services sector
 
 ##  Employment Losses and Reemployment
 - Employment losses due to technology and trade
-- Difficult to retrain and reemploy many manufacturing workers$$\begin{array}{|c|c|c|c|c|}
+- Difficult to retrain and reemploy many manufacturing workers$$\begin{array}{ | c | c | c | c | c | }
 \hline
 Industry & Total Displaced Workers (thousands) Jan 2015- Dec 2017 & Workers Reemployed by Jan 2018 & of the Workers Reemployed: \\
 Earn Less inNew Job & Earn S Same or More in New Job \\
@@ -2153,21 +2153,21 @@ Issues for Displaced Manufacturing Workers
 - Often long time before finding a positions
  - Often face lower wages
 Changes in World Manufacturing Shares 1
- ![500](Attachments/500-619.jpg)
+ !500
 
 ##  Changes in World Manufacturing Shares 2
- ![500](Attachments/500-581.jpg)
+ !500
 
 #   Changes in World Manufacturing Shares 3
- ![500](Attachments/500-601.jpg)
+ !500
 
 #   Changes in World Manufacturing Shares 4
- ![500](Attachments/500-596.jpg)
+ !500
 Ricardian Model
 September 29, 2022
 
 ###  Ricardian Model
-- Developed by [David Ricardo](../International%20Finance/Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md) in early 1800's
+- Developed by David Ricardo in early 1800's
 - Despite the date - it's all about technology
 - Comparative Advantage
  - Absolute Advantage
@@ -2201,7 +2201,7 @@ September 29, 2022
 #  Assumptions
 - Land and capital requirements ignored
 - Marginal Productivity of Labor (MPL) constant
- - Constant [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to scale
+ - Constant returns to scale
  - Laborers equally skilled and available to either industry
  - Two industries, perfect competition
  - Wheat farming
@@ -2216,15 +2216,15 @@ September 29, 2022
 - MPLs constant - linear Production Possibilities Frontier (PPF)
 
 ##  Home Production Possibilities Frontier
- ![500](Attachments/500-563.jpg)
+ !500
 
 ##  Home Equilibrium
- ![500](Attachments/500-615.jpg)
+ !500
 
 #  Home Equilibrium
 - Home's citizens choose highest indifference curve available
 - In autarky, Home's PPF represents income level - budget constrainte
- - [Marginal rate of substitution](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/The%20One-Period%20Ccapm.md) equal marginal rate of transformation
+ - Marginal rate of substitution equal marginal rate of transformation
 - All laborers may choose which industry to work in:
 - What does this say about the wage rate?
 - What is the value of a unit of work to company?
@@ -2250,9 +2250,9 @@ The relative price of two goods is inversely proportional to the relative margin
 - Wheat: MP$L_{w}^{* }$= 1 bu
  - Cloth: $\mathrm{MPL}_{\mathrm{C}}^{*}=1$ yd
 Foreign Production Possibilities Frontier
- ![500](Attachments/500-588.jpg)
+ !500
 Foreign No-trade Equilibrium
- ![500](Attachments/500-585.jpg)
+ !500
 Home and Foreign Comparative Advantage
 - What is Foreign's opportunity cost of cloth?
 - Of wheat?
@@ -2267,7 +2267,7 @@ Home and Foreign Comparative Advantage
 - Foreign has comparative advantage in cloth production
 
 ##  International Trade Equilibrium - Home
- ![500](Attachments/500-618.jpg)
+ !500
 
 ##  Prices, Volumes and Wages
 - Relative price will be determined by world demand
@@ -2286,14 +2286,14 @@ Therefore wages paid in wheat farming will exceed wages in the cloth industry
 - Risk of production interruption ignored
 
 ##  International Trade Equilibrium -- Foreign
- ![500](Attachments/500-584.jpg)
+ !500
 
 #  More on Wages
 - Trade patterns determined by comparative advantage
  - Wages determined by absolute advantage
  - Determine wages at Home and Foreign
  -  Nominal versus real
- - Nominal in [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) terms
+ - Nominal in currency terms
  - Real "how much can I buy?"
 
 ##  More onWages
@@ -2311,7 +2311,7 @@ Therefore wages paid in wheat farming will exceed wages in the cloth industry
 - Greater productivity generally implies higher wages
 - Relationship varies greatly
 - Will discuss reasons why in a couple of weeks
- ![500](Attachments/500-618.jpg)
+ !500
 
 ##  Determining International Prices
 - Demonstrate how the world price is determined
@@ -2323,7 +2323,7 @@ Therefore wages paid in wheat farming will exceed wages in the cloth industry
  - Why is the curve horizontal at %?
 
 ##  Home Production, Consumption and Exports
- ![500](Attachments/500-547.jpg)
+ !500
 Home Export Supply and Foreign Import Demand
 - Wheat production and export supply is a function of Pw/Pc
 -  1/2 or lower no incentive to export
@@ -2334,10 +2334,10 @@ Home Export Supply and Foreign Import Demand
 ·If $\mathsf{P}_{\mathsf{W}}/\mathsf{P}_{\mathsf{C}}>1$ or < 1/2 implies one country is much larger causing the large country to be indifferent to trade
 
 ###  Foreign Production, Consumption and Imports
- ![500](Attachments/500-613.jpg)
+ !500
 
 ##  International Equilibrium
- ![500](Attachments/500-614.jpg)
+ !500
 
 ##  Terms of Trade
 - Refers to the price of a country's exports divided by the price of its imports
@@ -2347,7 +2347,7 @@ Home Export Supply and Foreign Import Demand
 - Why might this be incorrect?
 
 #  Prebisch-Singer Hypothesis
-- Price of [primary commodities](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Primary%20vs.%20Secondary%20Commodities.md) relative to manufactured goods would decline over time
+- Price of primary commodities relative to manufactured goods would decline over time
 -  Generally exported from developing countries
 - Expect terms of trade to decline over time
 - Reasoning:
@@ -2359,65 +2359,65 @@ Home Export Supply and Foreign Import Demand
 - Real-world data do not show it to be a good generalization
  - Technological improvements lead to rapidly decreasing prices for manufactured goods
  - Terms of trade for industrialized countries declines
- - Cartels, or limited locations for production, restrict supplies of some [commodities](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)
+ - Cartels, or limited locations for production, restrict supplies of some commodities
  - Population growth and increasing wages in developing countries has increased food demand
 
 ##  Decreasing Relative Prices
- ![500](Attachments/500-583.jpg)
+ !500
 
 ###  Increasing Relative Prices
- ![500](Attachments/500-616.jpg)
+ !500
 
 ##  Stable Relative Prices
- ![500](Attachments/500-585.jpg)
+ !500
 
 #  Copper Prices
- ![500](Attachments/500-615.jpg)
+ !500
 Source: tradingeconomics. Com. Accessed August 14, 2022
 
 #  Zinc Prices
- ![500](Attachments/500-616.jpg)
- ![500](Attachments/500-584.jpg)
+ !500
+ !500
 Source: tradingeconomics. Com. Accessed August 14, 2022
-[Introduction](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to Foreign Exchange I
+Introduction to Foreign Exchange I
 November 1, 2022
 
 ## Foreign Exchange
-- Foreign exchange is the buying of one [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) in exchange for selling another
+- Foreign exchange is the buying of one currency in exchange for selling another
  - We do not normally think about purchase and sale transactions in these terms
   - No different than buying a car and selling your cash (or taking out an auto loan) to pay for it
 -  We give up the opportunity to invest that cash or have to pay interest to borrow it
 
 ## Currency Quotations
 - Currencies may be quoted in terms of:
-  - Number of units of home [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) per unit of foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)
+  - Number of units of home currency per unit of foreign currency
 - Known as "Direct" or "American" terms
-  - Number of units of foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) per unit of home [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)
+  - Number of units of foreign currency per unit of home currency
 - Known as "Indirect" or "European" terms
-- Base [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) is spoken first, e.g. "Euro-Dollar" while the [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) pair is quoted in dollars per euro
+- Base currency is spoken first, e.g. "Euro-Dollar" while the currency pair is quoted in dollars per euro
 
 ## Currency Quotations
- American terms quotation originated in Us [futures markets](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Contango%20And%20Backwardation%20In%20Arbitrage-Free%20Futures-Markets.md)
+ American terms quotation originated in Us futures markets
 -  Currencies quoted in terms of USD per Yen, e.g., one Yen equals \$. 007380
 -  Easier to calculate profits and losses by standardizing quoting in terms of US dollars
 - American terms also called "Direct" terms
 
 ### Currency Quotations
 ·"European terms" originated in interbank trading of currencies
-  - Currencies generally quoted in foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) terms - one US dollar equals ￥135.50
--  Smaller units [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) quoted
+  - Currencies generally quoted in foreign currency terms - one US dollar equals ￥135.50
+-  Smaller units currency quoted
 -  Fewer numbers to right of the decimal point
 - European terms also called "indirect" terms
   - Would ask for a price in "Dollar-Yen"
-[Currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Appreciation and Depreciation
-- When a [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)'s price versus another declines
-  - [Currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) is said to depreciate
+Currency Appreciation and Depreciation
+- When a currency's price versus another declines
+  - Currency is said to depreciate
   - Example: the USD rate moves from ￥135.50 to ￥136.00 the Yen has depreciated by ￥0.50
   - Conversely, the UsD has appreciated an equal amount
-  - In terms of their home [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md), a country whose [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) has depreciated relative to another country:
+  - In terms of their home currency, a country whose currency has depreciated relative to another country:
 - Pays more for imports
  - Earns more for exports
-[Currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Appreciation and Depreciation$$\begin{array}{|c|c|c|c|c|c|c|c|c|c|c|}
+Currency Appreciation and Depreciation$$\begin{array}{ | c | c | c | c | c | c | c | c | c | c | c | }
 \hline
 Select Currency Exhange Rates \\
 Country (Currency) & Currency Symbol & June 14,2022 & November 15, 2019 & Percentage Change \\
@@ -2436,7 +2436,7 @@ United States (dollar) & 5 &  & 1.0414 & 1.1989 &  & 1.1045 & 1.2900 & 1 & $5.7\
 - Percentage change is versus one \$, , or f
 ·Since 2019:
   - Which currencies have appreciated/depreciated?
-[Currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Appreciation and Depreciation
+Currency Appreciation and Depreciation
 - Bit of a trick question
   - Currencies appreciate or depreciate against one another
  Example
@@ -2448,40 +2448,40 @@ Trade-weighted Multilateral Exchange Rates
   - Places bilateral exchange rates in perspective
   - Used in policy discussions and decisions
 Efecterae sre Ee r
-where $E_i$ is the exchange rate with country i and $Trade_i$ is the volume of trade with country i. Trade is the total [global trade](.md) for the home country.
+where $E_i$ is the exchange rate with country i and $Trade_i$ is the volume of trade with country i. Trade is the total global trade for the home country.
 
 ## Trade-weighted Multilateral Exchange Rate$$ChangeinEffectiverate:\\\frac{\Delta E_{Effective}}{E_{Effective}}=\sum_{i=1}^N\frac{\Delta E_i\cdot Trade_i}{E_i\cdot Trade},$$
- ![500](Attachments/500-616.jpg)
+ !500
 
 ### Trade-weighted Multilateral Exchange Rate 1 (Updated, base year 2006)
- ![500](Attachments/500-584.jpg)
+ !500
 
 ## Trade-weighted Multilateral Exchange Rate 2020 - 2022
 - Dollar strengthens with onset of Coronavirus
 - Weakens as global recover appears imminent
 ·Strengthens late 2021
   - US rates rise relative to other countries
- - [Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) becomes a concern
+ - Inflation/War%20Economies%20and%20Hyperinflation.md) becomes a concern
   - Supply chain issues persist
  - Global recovery less imminent
 
 ## Fixed and Floating Exchange Rates
 - Two types of Exchange Rate Regimes
-  - Fixed (or pegged) - exchange rate is tied to another [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)
+  - Fixed (or pegged) - exchange rate is tied to another currency
 - Example: Dollar - Yuan
-  - Floating - exchange rate fluctuates based on demand for a one [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) relative to another
+  - Floating - exchange rate fluctuates based on demand for a one currency relative to another
  - Example: Euro - Dollar
 
 ## Currency Regimes
 - Two types:
   - Fixed:
-- Against another [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)
-- Typically, major floating [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)
+- Against another currency
+- Typically, major floating currency
 ·Various degrees of "hardness" of fixing
 - Will discuss in detail in coming weeks
  - Predominated global foreign exchange rates from 1870's t 0 1970's
   - Floating
-- [Currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) trades continuously at market rates
+- Currency trades continuously at market rates
 - May be managed
 
 ## Currency Regimes
@@ -2491,37 +2491,37 @@ where $E_i$ is the exchange rate with country i and $Trade_i$ is the volume of t
   - US Dollar against most industrialized countries
  Considered freely-floating.
  - Trades trillions of dollars per day against other currencies Still maintains "exorbitant privilege"
- - [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of many [commodities](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)
+ - Pricing of many commodities
  - Many currencies' “peg"
   - Danish krone versus Euro
 - Denmark part of European Union
- - Not a member of the Euro [Currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) group
+ - Not a member of the Euro Currency group
 
 ## Currency Regimes
 - Emerging markets currencies
   - Fixed or managed (dirty) float
-- May lead to [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) crisis ·Southeast Asia 1997 . Argentina
+- May lead to currency crisis ·Southeast Asia 1997 . Argentina
   - Crawling peg
 - Aim for steady, managed, depreciation
-  - “"Dollarization" - unilateral adoption of another [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)
+  - “"Dollarization" - unilateral adoption of another currency
 
 ## Currency Regimes
-- [Currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) (monetary) union
+- Currency (monetary) union
 OEuro
   - CFA and CFP - former French colonies in Africa and AsiaPacific region
-- [Currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Board
--  [Currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) is backed by 100% foreign reserves
+- Currency Board
+-  Currency is backed by 100% foreign reserves
   - Legal requirements to maintain
 
 ## Foreign Currency Historical Price Movements
- ![500](Attachments/500-621.jpg)
+ !500
 
 ## Foreign Currency Historical Price Movements
- ![500](Attachments/500-615.jpg)
+ !500
 
 ## Foreign Exchange Spot Transaction
 - Most frequent type - "spot" foreign exchange (Fx) trade
-- Entails buying one [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) and sell another for settlement two business days hence
+- Entails buying one currency and sell another for settlement two business days hence
   - Example: need to pay for 1,000,000.00 of goods from a supplier in Euros two business days from today
 -  \$2,000,0 o 0 in your bank account with Bank New York
 - Enter into spot FX transaction June 17, 2022 (Friday)
@@ -2530,15 +2530,15 @@ OEuro
 # Spot Foreign Exchange Transaction (June 17, 2022 for settlement June 21, 2022)
 Receive 1,000,000 at 4 PM Central European Time;
  10
- ![500](Attachments/500-584.jpg)
+ !500
 - Diagram takes viewpoint of Bank New York
 - Do you see a mistake here?
 
 ### How Are Prices Made?
-. [Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)
-  - Text uses the term "[riskless arbitrage](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%208%20Arbitrage%20and%20Hedging%20With%20Fixed%20Income%20Instruments%20and%20Currencies.md)" - redundant
-  - [Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) is the buying and selling of a financial instrument (or good) at different prices simultaneously, providing a riskless profit
-. Markets eliminate [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md)
+. Arbitrage
+  - Text uses the term "riskless arbitrage" - redundant
+  - Arbitrage is the buying and selling of a financial instrument (or good) at different prices simultaneously, providing a riskless profit
+. Markets eliminate arbitrage opportunities
   - Now only available for fractions of a second, if at all
 
 ## Foreign Exchange "Arbitrage"
@@ -2553,11 +2553,11 @@ Receive 1,000,000 at 4 PM Central European Time;
   - Buy Yen at ￥135.85 and sell Yen at ￥135.90
   - Earn risk free profit of (￥. 05 X ￥1,000,000,000)/ ￥135.90 = 367,917.59 or \$2,707.27
  - Unfortunately, you will never find this opportunity
-Foreign Exchange [No Arbitrage Condition](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Properties%20of%20State-Price%20Deflators.md)
- ![500](Attachments/500-584.jpg)
+Foreign Exchange No Arbitrage Condition
+ !500
 Since dollars and pounds may be transferred without cost between London and Chicago, the exchange rate must be the same in both locations
-Cross-[currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) "[Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)"
- ![500](Attachments/500-584.jpg)
+Cross-currency "Arbitrage"
+ !500
 
 ## Cross-currency "Arbitrage"
 - You are an arbitrageur
@@ -2583,7 +2583,7 @@ Cross-[currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instr
 : Profit of \$3,434.07
 
 ## Cross-currency "Arbitrage" (Arbitrageur View)
- ![500](Attachments/500-583.jpg)
+ !500
 
 ## Cross-currency "Arbitrage"
   - Dollar-Yen quoted 140.00-140.10
@@ -2603,39 +2603,39 @@ Cross-[currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instr
 ## Cross-currency "Arbitrage"
 - A reasonable price would be ￥145.61 at ￥145.67 for 10,000,000.00
  - Would this price indicate that you are a buyer or seller of Yen? ·Why?
-Exchange Rate Pegs and International Capital Markets ll and East Asian [Financial Crisis](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Letter.md)
+Exchange Rate Pegs and International Capital Markets ll and East Asian Financial Crisis
 December 1,2022
 
 # Bailout Impact on Central Bank Balance Sheet
 (a) Financial Sector Bailout Operation
- ![500](Attachments/500-584.jpg)
+ !500
 Bailout Impact on Central Bank Balance Sheet
 - Reserves begin at \$500 million, 50% backing ratio
-- Central bank supplies Peso 100 million to [banking](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) sector
-- Maintain constant money supply - no increase in demand for [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)
+- Central bank supplies Peso 100 million to banking sector
+- Maintain constant money supply - no increase in demand for currency
   - Domestic holdings increase to Peso 6 o 0 million
   - Requires reduction in reserves of \$100 million
 -  Backing ratio declines to 40%
 
 ## Illiquidity and Bank Runs
 - A second type of crisis occurs when
-  - Depositors demand [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) (Pesos) instead of holding bank deposits
+  - Depositors demand currency (Pesos) instead of holding bank deposits
 -  Increases the demand for money in the economy
 - Bank assets are largely illiquid - cannot be quickly sold
   - Hold only a fraction of cash which depositors have placed
--  Leads to possibility of a “[bank run](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-%20Bank%20Runs/Bank%20Runs%20Deposit%20Insurance%20and%20Liquidity.md)"
+-  Leads to possibility of a “bank run"
 
 # Lender of Last Resort Impact on Central Bank
-(b) [Lender of Last Resort](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/The%20Only%20Game%20in%20Town%20Walter%20Bagehot.md) Operation Central Bank Balance Sheet
- ![500](Attachments/500-533.jpg)
-[Lender of Last Resort](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/The%20Only%20Game%20in%20Town%20Walter%20Bagehot.md) Impact on Central Bank
-- [Central bank role](../International%20Finance/Bridgewater/How%20Countries%20Go%20Broke/How%20Countries%20Go%20Broke-Chapter%206%20&%20Chapter%207.md) as [lender of last resort](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/The%20Only%20Game%20in%20Town%20Walter%20Bagehot.md)
+(b) Lender of Last Resort Operation Central Bank Balance Sheet
+ !500
+Lender of Last Resort Impact on Central Bank
+- Central bank role as lender of last resort
   - Against good collateral
   - May be prevented by need to maintain peg
 - Initial monetary base Peso 10 o 0 million
   - Reserves: $500 million 50% backing ratio
   - Increase M 0 to $600 million
- - Providing Peso 1 o 0 million [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) to bank depositors
+ - Providing Peso 1 o 0 million currency to bank depositors
  - Decrease backing ratio to 45.5% (500/1100)
 
 ### Lender of Last Resort versus Bailouts
@@ -2649,15 +2649,15 @@ Bailout Impact on Central Bank Balance Sheet
 
 # Argentina 1993-1997
 A Approximate Evolution of Money Supply and Reserves
- ![500](Attachments/500-610.jpg)
+ !500
 
 ## Argentina 1995-1997
 : Early 1995
-  - [Banking](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) crisis: bad loans and lower financial asset prices
+  - Banking crisis: bad loans and lower financial asset prices
   - Bank runs: illiquidity and insolvency
   - Central bank lends broadly to banks
   - Domestic credit increases by Peso 5 billion
-  - Central bank also provides dollar [liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) allowing capital flight
+  - Central bank also provides dollar liquidity allowing capital flight
 
 ## Argentina 1995-1997
 ·May 1995
@@ -2680,23 +2680,23 @@ A Approximate Evolution of Money Supply and Reserves
 
 # Central Bank Balance Sheet with Financial System
 GENERAL CENTRAL BANK BALANCE (MILLIONS OF PESOS)
- ![500](Attachments/500-546.jpg)
+ !500
 - Domestic assets now include loans to commercial banks
 . Additional liabilities: sterilization bonds - domestic liabilities;
- Foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) debt;
+ Foreign currency debt;
  Reserve liabilities to commercial banks
 
 ### Sterilization Bonds
-·Home [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) liabilities issued to domestic investors
+·Home currency liabilities issued to domestic investors
   - Central bank issues domestic debt - does not add to domestic money supply
   - Money supply is now net foreign plus net domestic assets
   - Sterilization bond issuance reduces risks of:
  Increased domestic credit
- - [Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) pressure [Currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) appreciation
-- "Soak up" accumulated foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) received from trade
+ - Inflation/War%20Economies%20and%20Hyperinflation.md) pressure Currency appreciation
+- "Soak up" accumulated foreign currency received from trade
 
 ## China Sterilization
- ![500](Attachments/500-583.jpg)
+ !500
 
 ## China Sterilization
 - 1995-2003 domestic credit grew slowly;
@@ -2710,7 +2710,7 @@ GENERAL CENTRAL BANK BALANCE (MILLIONS OF PESOS)
 
 # The 1997 East Asian Financial Crisis
 EMEs have accumulated large amounts of reserves'
- ![500](Attachments/500-577.jpg)
+ !500
 1 AR = Argentina: BR = Brazil;
  CL = Chile;
  CN = China;
@@ -2736,25 +2736,25 @@ ID = Indonesia;
  ZA = South Africa.
  Only the EMEs listed in the right-hand panel.
 Source: IMF.
-Source: Arsia, Yavuz and Cantu, Carlos. "The size of [foreign exchange reserves](../International%20Finance/China%20Foreign%20Exchange%20Reserves/Foreign%20Exchange%20Reserves%20-%20Wikipedia/Foreign%20Exchange%20Reserves%20-%20Wikipedia.md)." BIS papers, No. 104. October 29, 2019.
+Source: Arsia, Yavuz and Cantu, Carlos. "The size of foreign exchange reserves." BIS papers, No. 104. October 29, 2019.
 
 # The 1997 East Asian Financial Crisis
- ![500](Attachments/500-616.jpg)
+ !500
 1 Data from 2017.
 Source: IMF.
 Source: Ibid.
 
 ## The 1997 East Asian Financial Crisis
-- The causes of the 1997 East Asian [Financial Crisis](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Letter.md)
-  - [International trade](../International%20Finance/Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md)
--  [Banking](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) and foreign exchange
+- The causes of the 1997 East Asian Financial Crisis
+  - International trade
+-  Banking and foreign exchange
 -  Capital markets
-- Combined with poor policy decisions, led to a [financial crisis](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Letter.md)
+- Combined with poor policy decisions, led to a financial crisis
 - Goal - provide a lens into various decisions leading up to the crisis in order to develop better policies
 
 ## The 1997 East Asian Financial Crisis
-- Look at [lessons learned](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Lessons%20From%20The%20Crisis.md) and their applicability to subsequent financial crises and current areas of concern
--  Similarities to the [global financial crisis](../Financial%20Engineering/8.%20Credit%20Modeling%20and%20Credit%20Derivatives.md), but also many differences
+- Look at lessons learned and their applicability to subsequent financial crises and current areas of concern
+-  Similarities to the global financial crisis, but also many differences
 -  Applicability to current concerns about certain Euro member countries
 -  Comparison to current concerns regarding China
 - US and European financial systems touted as models that would avert financial crises;
@@ -2772,7 +2772,7 @@ Source: Ibid.
 
 # Origins of the East Asian Financial Crisis
 Table 1. External Financing of Five Asian Countries, 1994-98
-Billions of dollars$$\begin{array}{|c|c|c|c|c|c|}
+Billions of dollars$$\begin{array}{ | c | c | c | c | c | c | }
 \hline
 Item & 1994 & 1995 & 1996 & $1997^\mathrm{b}$ & $1998^c$ \\
 Current account balance & -24.6 & -41.3 & -54.9 & -26.0 & 17.6 \\
@@ -2791,7 +2791,7 @@ Resident lending and other (net)' & -17.5 & -25.9 & -19.6 & -11.9 & -5.7 \\
 Reserves change. Excluding golde & -5.4 & -13.7 & -18.3 & 22.7 & -27.1 \\
 \hline
 \end{array}$$
-Source: Institute of [International Finance](.md), Capital Flows to Emerging Market Economies, January 29.1998
+Source: Institute of International Finance, Capital Flows to Emerging Market Economies, January 29.1998
 a. Table entries are sums over data for Korea, Indonesia, Malaysia, Thailand, and the Philippines.
 b. Estimate.
 c. Forecast.
@@ -2801,13 +2801,13 @@ Source: Radelet and Sachs (1) and all subsequent charts.
 
 # Origins of the East Asian Financial Crisis
 Figure 3. GDP per Capita, Selected Asian Countries, 1965-96
- ![500](Attachments/500-535.jpg)
+ !500
 Source: GDP data for 1965-91 are from the Penn World Tables, mark 5.6. Available on the worldwide web page of the
 National Bureau of Economic Research. For 1992-96. GDP levels are constructed by applying growth rates from World Bank, Worlel Development Incdicators (available on CD-ROM) to the respective 1991 GDP levels a. Conversion to dollars uses purchasing power parity (PPP) exchange rates b. Comprises eightly-five countries.
 Source: Radelet and Sachs (1), p.19
 
 # Origins of the East Asian Financial Crisis
-Table 3. [Short-Term Debt](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/When%20Safe%20Proved%20Risky%20Commercial%20Paper%20During%20the%20Financial%20Crisis%20of%202007%202009.md) and Reserves, Selected Developing Countries, 1994 and 1997 Millions of dollars$$\begin{array}{|c|c|c|c|c|c|c|}
+Table 3. Short-Term Debt and Reserves, Selected Developing Countries, 1994 and 1997 Millions of dollars$$\begin{array}{ | c | c | c | c | c | c | c | }
 \hline
 Country & June 1994 & June 1997 \\
 Short-lerm debr & Reserves & $Ratio: debt-to-reserves$ & Short-term debt 1 & Reserves & $Ratio: debt-to-reserves$ \\
@@ -2836,7 +2836,7 @@ Zimbabwe & 704 & 534 & 1.319 & 731 & 447 & 1.635 \\
 
 # Origins of the East Asian Financial Crisis
 Table 4. Human Development Indicators, Selected Developing Countries, 1970 and 1995
-Units as indicated$$\begin{array}{|c|c|c|c|c|c|c|}
+Units as indicated$$\begin{array}{ | c | c | c | c | c | c | c | }
 \hline
 Indicator & Indonesia & Korea & Malaysia & Philippines & Thailand & Other developing countries \\
 Life expee & ${\mathrm{ctancv}}^{\mathrm{b}}$ &  &  &  &  &  \\
@@ -2859,7 +2859,7 @@ and for income. 20 countries in both 1970 and 1990. b.Life expectancy at birth
 c.Percent of population fifteen years and older d.Mean of poorest fifth. 1985 dollars, converted at PPP exchange rates e.1976 for Indonesia, 1965 for Korea and the Philippines, and 1969 for Thailand. f.1988 for Korea and the Philippines, 1989 for Malaysia, and 1992 for Thailand.
 
 # Origins of the East Asian Financial Crisis
-Table 5. Debt to Foreign Banks and [Foreign Exchange Reserves](../International%20Finance/China%20Foreign%20Exchange%20Reserves/Foreign%20Exchange%20Reserves%20-%20Wikipedia/Foreign%20Exchange%20Reserves%20-%20Wikipedia.md), Selected Crisis Countries, 1995-97 Billions of dollars$$\begin{array}{|c|c|c|c|c|c|c|c|}
+Table 5. Debt to Foreign Banks and Foreign Exchange Reserves, Selected Crisis Countries, 1995-97 Billions of dollars$$\begin{array}{ | c | c | c | c | c | c | c | c | }
 \hline
 Year and country & Debt by sector & Short-term debt & Reserves & Ratio: short-term debt-to-reserves \\
 Total & Banks & Public & Nonbank private \\
@@ -2894,7 +2894,7 @@ Source: Authors’ calculations. Data on debt are from Bank for International Se
  And on reserves, fror IMF, Inrernational Financial Statistics, various issues
 
 # Origins of the East Asian Financial Crisis
-Table 6. Export and Import Growth RatesSelected Countries 1995-96 Percent$$\begin{array}{|c|c|c|c|c|c|c|}
+Table 6. Export and Import Growth RatesSelected Countries 1995-96 Percent$$\begin{array}{ | c | c | c | c | c | c | c | }
 \hline
 Country & Value growth & Volumegrowth & Unit value change \\
 1995 & 1996 & 1995 & 1996 & 1995 & 1996 \\
@@ -2930,7 +2930,7 @@ Source: Authors’ calculations. Data on values are from IMF, Internarional Fina
 volumes, from Bank for International Settlements (1997). a. Table uses dollar values of exports and imports.
 
 # Origins of the East Asian Financial Crisis
-Table 7. Export Growth and Export Shares, Selected Countries 1990-96$$\begin{array}{|c|c|c|c|c|c|c|c|}
+Table 7. Export Growth and Export Shares, Selected Countries 1990-96$$\begin{array}{ | c | c | c | c | c | c | c | c | }
 \hline
 Ltem and &  &  &  &  &  &  &  \\
 Year & China & Indonesia & Korea & Malaysia & Philippines & Thailand & Mexico \\
@@ -2952,7 +2952,7 @@ Share $n$ & $in$ exports & $total^\mathrm{b}$ &  &  &  &  &  \\
 1996 & 27.8 & 9.1 & 23.8 & 14.4 & 3.7 & 10.2 & 10.9 \\
 \hline
 \end{array}$$
-Source: IMF, [International Financial](../International%20Finance/Lecture%20Notes%20on%20International%20Finance.md) Statistics, various issues
+Source: IMF, International Financial Statistics, various issues
 a. Numbers refer to nominal exports valued in U.S. dollars.
 b.Exports of a given country as a percentage of total exports from all seven countries.
 Source: Radelet and Sachs 1).p.31 and 34.
@@ -2965,28 +2965,28 @@ Source: Radelet and Sachs 1).p.31 and 34.
 ## Radelet and Sachs Model
 - Based on various potential sources for crisis, the authors develop a probit model to assess which may be most relevant
 - Two factors turn out to be statistically significant
-  - [Short-term debt](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/When%20Safe%20Proved%20Risky%20Commercial%20Paper%20During%20the%20Financial%20Crisis%20of%202007%202009.md) to foreign reserves
+  - Short-term debt to foreign reserves
 -  Private credit buildup
 
 ### Exchange Rate Crises
- ![500](Attachments/500-551.jpg)
+ !500
 Exchange Rate Pegs and International Capital Markets I
 November 29, 2022
 
 # Fixed Exchange Rate Pegs
-- Despite the advantages of floating rate regimes, many countries adopt fixed exchange rates. Must allow convertibility into the other [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) or no real value
--  "Peg" [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) to one or more major floating currencies
+- Despite the advantages of floating rate regimes, many countries adopt fixed exchange rates. Must allow convertibility into the other currency or no real value
+-  "Peg" currency to one or more major floating currencies
   - Two key success criteria:
-- Degree of [economic integration](../International%20Finance/Globalization/Chapter%201-Introduction%20to%20Globalization.md)
+- Degree of economic integration
  - Likely symmetry in economic shocks
-- Greater [economic integration](../International%20Finance/Globalization/Chapter%201-Introduction%20to%20Globalization.md) and symmetry of shocks implies lower costs and increased benefits from fixing
+- Greater economic integration and symmetry of shocks implies lower costs and increased benefits from fixing
 
 # Fixed Exchange Rate Pegs
 . Additional Advantages
   - Fiscal Discipline
 - Unable to monetize debt
  - Increasing foreign debt issuance difficult
-  - Reduces risk of [Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) Tax
+  - Reduces risk of Inflation/War%20Economies%20and%20Hyperinflation.md) Tax
  - Form of seigniorage
 - Historically, these advantages do not turn out to be valuable
 -  Political issues often trump;
@@ -3003,12 +3003,12 @@ November 29, 2022
 
 # Exchange Rate Crises
 (a) Depreciation in Year after Six European Exchange Rate Crises in 19920
- ![500](Attachments/500-545.jpg)
-(b) Depreciation in Year after Seven [Emerging Market Crises](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%207-%20CP,%20Repo,%20and%20the%20Crisis/The%20Credit%20Crisis-Conjectures%20About%20Causes%20And%20Remedies.md) in 1994-2002
- ![500](Attachments/500-572.jpg)
+ !500
+(b) Depreciation in Year after Seven Emerging Market Crises in 1994-2002
+ !500
 
 ##  Industrialized versus Emerging Market Devaluations
- ![500](Attachments/500-578.jpg)
+ !500
 Industrialized versus Emerging Market Devaluations
 - Emerging markets often experience much more extreme capital movements
   - Poorer fundamental understanding by investors and lenders
@@ -3018,7 +3018,7 @@ Industrialized versus Emerging Market Devaluations
   - Usually involves labor competitiveness
 
 ### Concomitant Crises
- [Banking](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md)
+ Banking
 -  Banks allowed to borrow from foreign lenders
 -  Inability to convert and obtain required currencies
 -  Depositor runs
@@ -3029,12 +3029,12 @@ Industrialized versus Emerging Market Devaluations
 ## Fixed Exchange Rate Mechanics
 . Assumptions
 -  Small, open economy (Home);
- [Currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md): Peso
+ Currency: Peso
   - Central bank with two assets:
 - Domestic, peso denominated bonds
  - Foreign, dollar denominated bonds
- - Intervenes in [FX market](../International%20Finance/Foreign%20Exchange%20Markets%20and%20Exchange%20Rate%20Determination.md), buying and selling reserves to maintain $\bar{E}=1$
- - If reserves fall to zero, [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) must float
+ - Intervenes in FX market, buying and selling reserves to maintain $\bar{E}=1$
+ - If reserves fall to zero, currency must float
   - Peg is credible if $i=i^*$
 
 ## Fixed Exchange Rate Mechanics
@@ -3049,7 +3049,7 @@ Industrialized versus Emerging Market Devaluations
  - $M/P=L (i) Y$
 
 ### Central Bank Balance Sheet
-- No private sector [financial system](../Contemporary%20Financial%20Intermediation%20Notes/Contemporary%20Financial%20Intermediation%20Notes.md)
+- No private sector financial system
  - Money supply: M
  - Domestic Credit (Assets): B
 -  Holdings of peso bonds
@@ -3059,7 +3059,7 @@ Industrialized versus Emerging Market Devaluations
 
 ## Central Bank Balance Sheet
 - The following equalities must hold:$$M=B+R\mathrm{~and~}\Delta M=\Delta B+\Delta R$$
-SIMPLIFIED CENTRAL BANK BALANCE SHEET (MILLIONS OF PESOS)$$\begin{array}{|c|c|c|c|}
+SIMPLIFIED CENTRAL BANK BALANCE SHEET (MILLIONS OF PESOS)$$\begin{array}{ | c | c | c | c | }
 \hline
 Assets Reserves R &  & Liabilities \\
 500 & Money supply M & 1,000 \\
@@ -3073,12 +3073,12 @@ M = PL (i) Y, therefore, R = PL (i) Y - B
 - Peg breaks if $R=0$
 
 ## Reserve Holdings
- ![500](Attachments/500-536.jpg)
+ !500
 
 ## Reserve Holdings
-. $M=B$ is the floating line $(\overline{0 Z})$ , where [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) must be allowed to float
+. $M=B$ is the floating line $(\overline{0 Z})$ , where currency must be allowed to float
 - The backing ratio is $R/M.$ , the percentage of reserves to total money supply
-  - XZ is the fixed line, where the [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) remains credible
+  - XZ is the fixed line, where the currency remains credible
 OThedistance of $R$ from $Z$ represents the amount of reserves and therefore the credibility of the peg
   - R/M is critical because it measures the sensitivity of the reserve level relative to the size of the economy
 
@@ -3086,7 +3086,7 @@ OThedistance of $R$ from $Z$ represents the amount of reserves and therefore the
 ·Assume $\bar{P}L (i) Y$ falls by 10%, lowering i
 -  Maintaining $\bar{E}$ requires maintaining i
   - Home must sell $1 o 0 million in foreign assets
-SIMPLIFIED CENTRAL BANK BALANCE SHEET AFTER MONEY DEMAND FALLS (MILLIONS OF PESOS)$$\begin{array}{|c|c|c|c|}
+SIMPLIFIED CENTRAL BANK BALANCE SHEET AFTER MONEY DEMAND FALLS (MILLIONS OF PESOS)$$\begin{array}{ | c | c | c | c | }
 \hline
 Assets Reserves R &  & Liabilities \\
 400 & Money supply M & 900 \\
@@ -3098,7 +3098,7 @@ Domestic assets (peso bonds) &  &  &  \\
 - Moves fixed line left and reduces reserve ratio to 44.4%
 - Reduces peg credibility
 Changes in Money Demand
- ![500](Attachments/500-591.jpg)
+ !500
 
 ## Changes in Money Demand
 - Assume $\bar{P}L (i) Y$ increases by 10%, raising i
@@ -3120,7 +3120,7 @@ $$$$
 $$
 
 ## Currency Pegs and Risk Premiums
-- [Currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) premium compensates investors for risk that peg might not hold
+- Currency premium compensates investors for risk that peg might not hold
 - Country premium compensates investors for risks of government default or disallowing settlement obligations
   - Settlement - conversion of the peso into dollars
 : Argentina 2001-2002
@@ -3129,8 +3129,8 @@ $$
 -  Peso depreciated by 75%
 
 ## Pegs and Risk Premiums
- ![500](Attachments/500-585.jpg)
- ![500](Attachments/500-583.jpg)
+ !500
+ !500
 
 ## Credibility and Contagion
 . Credibility
@@ -3143,28 +3143,28 @@ $$
 
 # Argentina 1993-1997
 A) Approximate Evolution of Money Supply and Reserves
- ![500](Attachments/500-579.jpg)
+ !500
 
 # Argentina 1990-19951
 : Argentina suffered from hyperinflation 1989-1990
   - Prices tripled monthly
   - New president hires Harvard educated economist
  - Replaces Austral with Peso
- - Backs Peso with [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) board-like structure
+ - Backs Peso with currency board-like structure
 - Initially, domestic credit constant at Peso 4 billion
 
 ## Argentina 1990-1995
 ·1992
-  - [Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) falls to US levels
+  - Inflation/War%20Economies%20and%20Hyperinflation.md) falls to US levels
   - Federal government ran GDP surplus
 	- Real GDP grew 6\% plus from 1991 to 1997
-  - [Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) ran 10% from 1991 to 1994
+  - Inflation/War%20Economies%20and%20Hyperinflation.md) ran 10% from 1991 to 1994
 -  Real exchange rate becoming overvalued by 1994
 - Central bank added reserves from 1993-1995
 
 ## Argentina 1990-1995
 - Argentina increases reserves prior to Mexican "Tequila Crisis"
--  Mexican [financial crisis](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Letter.md) begins December 1994
+-  Mexican financial crisis begins December 1994
   - Contagion risk spreads to Argentina
  - Domestic rates rise
  - Money demand falls
@@ -3175,7 +3175,7 @@ A) Approximate Evolution of Money Supply and Reserves
 - 1995 Demand for dollars increased;
  Pesos decreased
   - Managed well by central bank
-- However, increased country and [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) risk pushed i to levels which
+- However, increased country and currency risk pushed i to levels which
   - Damaged domestic economy
   - Caused foreign lending to dry up
 - Central bank steps in to support commercial banks
@@ -3193,7 +3193,7 @@ Changes in Central Bank Asset Composition
   - Eliminates effects on money supply of foreign or domestic purchase or sale of assets
   - Alters available reserves
 - Net transaction: +100 Domestic Bonds;
- -100 Foreign Assets SIMPLIFIED CENTRAL BANK BALANCE SHEET AFTER EXPANSION OF DOMESTIC CREDIT (MILLIONS OF PESOS)$$\begin{array}{|c|c|c|c|}
+-100 Foreign Assets SIMPLIFIED CENTRAL BANK BALANCE SHEET AFTER EXPANSION OF DOMESTIC CREDIT (MILLIONS OF PESOS)$$\begin{array}{ | c | c | c | c | }
 \hline
 Assets & Liabilities \\
 Assets Reserves R & 400 & Money supply M & 1,000 \\
@@ -3203,7 +3203,7 @@ Domestic ossets (peso bonds) &  &  &  \\
 \hline
 \end{array}$$
 Changes in Central Bank Asset Composition
- ![500](Attachments/500-584.jpg)
+ !500
 Changes in Central Bank Asset Composition
 - Sterilize Peso 1 o 0 million domestic credit increase
 -  Sell $ 100 million bonds;
@@ -3213,7 +3213,7 @@ Changes in Central Bank Asset Composition
 -  Sell Peso 100 million bonds;
  Buy $ 100 million
 -  Backing ratio rises from 50% to 60%
-- [Currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) board regime cannot engage in sterilization
+- Currency board regime cannot engage in sterilization
 
 ## Reasons for Changes in Asset Composition
 - Text notes effects are small
@@ -3221,8 +3221,8 @@ Changes in Central Bank Asset Composition
  - Bank of Japan
  - US
  - ECB
-  - [Lender of last resort](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/The%20Only%20Game%20in%20Town%20Walter%20Bagehot.md) may be critical
-- Now add a commercial [banking](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) sector to the economy
+  - Lender of last resort may be critical
+- Now add a commercial banking sector to the economy
   - For-profit, regulated, deposit taking entities
 Reasons for Changes in Asset Composition
 - Insolvency and Bailouts
@@ -3232,72 +3232,72 @@ Reasons for Changes in Asset Composition
   - Countries often bailout banks
 - Protect depositors (usually government has guaranteed deposits to some level)
  - Often protect other creditors as well
- - Prevent bank “runs" Often via "[liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md)" facilities
- ![500](Attachments/500-584.jpg)
+ - Prevent bank “runs" Often via "liquidity" facilities
+ !500
 Foreign Exchange Rates ll: The Asset Approach in the Short Run, Part II
 November 17, 2022
 
 ## Unifying the Monetary and Asset Approaches
 - Basic equations of asset approach:$$\bar{P}_{US}=\frac{M_{US}}{[L_{US}(i_{\$}) Y_{US}]}$$$$\bar{P}_{EUR}=\frac{M_{EUR}}{[L_{EUR}(i_{€}) Y_{EUR}]}$$$$i_{\$}=i_{€}+\frac{E_{\$/€}^e-E_{\$/€}}{E_{\$/€}}$$
-- Relates short-run money market equilibrium to uncovered [interest parity](../International%20Finance/Covered%20and%20Uncovered%20Interest%20Parity.md)
+- Relates short-run money market equilibrium to uncovered interest parity
 
 ## Unifying the Monetary and Asset Approaches
 - Basic equations of monetary approach:$$P_{US}^e=\frac{M_{US}^e}{\begin{bmatrix}L_{US}(i_{\$}^e) Y_{US}^e\end{bmatrix}}$$$$P_{EUR}^e=\frac{M_{EUR}^e}{\left[L_{EUR}(i_{€}^e) Y_{EUR}^e\right]}$$$$E_{\$/€}^e=P_{US}^e/P_{EUR}^e$$
 - Relates long-run money market model to purchasing power parity
 
 ### Unifying the Monetary and Asset Approaches
- ![500](Attachments/500-586.jpg)
+ !500
 
 # Permanent Increase in US Money Supply
 - Equilibrium assumptions, both Home and Foreign:
   - No capital controls
   - Fixed real income and fixed money supply
-  - Zero rate of [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md), implying
+  - Zero rate of inflation/War%20Economies%20and%20Hyperinflation.md), implying
  Zero rate of depreciation/appreciation
-  - Identical [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) due to uncovered [interest parity](../International%20Finance/Covered%20and%20Uncovered%20Interest%20Parity.md)
+  - Identical interest rates due to uncovered interest parity
 - Introduce permanent increase in US money supply
 
 ## Permanent Increase in US Money Supply
- ![500](Attachments/500-584.jpg)
+ !500
 
 ## Permanent Increase in US Money Supply
 - Prior to increase in MS, $E_{\mathfrak{\Phi}/\epsilon}^e=E_{\mathfrak{\Phi}/\epsilon}$
-- Work backwards from new $E_{\mathfrak{\Phi}/\epsilon}^e=E_{\mathfrak{\Phi}/\epsilon}^4>E_{\mathfrak{\Phi}/\epsilon}^1$
+- Work backwards from new $E_{\mathfrak{\Phi}/\epsilon}^e=E_{\mathfrak{\Phi}/\epsilon}[^4]>E_{\mathfrak{\Phi}/\epsilon}[^1]$
 - Begin with:
-  - Increase from Mus $M_{US}^1$ $M_{US}^1\textit{ to M}_{US}^2$ M 2 s $M_{US}^2$
-- Eventually, [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) rate increases in same proportion as money supply, resulting in depreciation of Us$ from$$E_{\$/€}^1 toE_{\$/€}^4$$$$:\frac{E_{\$/€}^{4}}{E_{\$/€}^{1}}=\frac{P_{US}^{2}}{P_{US}^{1}}=\frac{M_{US}^{2}}{M_{US}^{1}}>1$$
+  - Increase from Mus $M_{US}[^1]$ $M_{US}[^1]\textit{ to M}_{US}[^2]$ M 2 s $M_{US}[^2]$
+- Eventually, inflation/War%20Economies%20and%20Hyperinflation.md) rate increases in same proportion as money supply, resulting in depreciation of Us$ from$$E_{\$/€}[^1] toE_{\$/€}[^4]$$$$:\frac{E_{\$/€}^{4}}{E_{\$/€}^{1}}=\frac{P_{US}^{2}}{P_{US}^{1}}=\frac{M_{US}^{2}}{M_{US}^{1}}>1$$
 - New equilibrium where:
 
 ## Permanent Increase in US Money Supply Short-run
-- Money supply increases from $M_{US}^1$ to $M_{US}^2$ $P_{US}$ remains at $P_{US}^1$
- - Real money supply MS, moves from MS 1 to MS 2 reducing the interest rate from $i_\mathrm{\Phi}^1$ to $i_\mathrm{\Phi}^2$
+- Money supply increases from $M_{US}[^1]$ to $M_{US}[^2]$ $P_{US}$ remains at $P_{US}[^1]$
+ - Real money supply MS, moves from MS 1 to MS 2 reducing the interest rate from $i_\mathrm{\Phi}[^1]$ to $i_\mathrm{\Phi}[^2]$
 - Since change in MS permanent, the FR curve shifts rightward
-  - Unlike temporary increase where remain on FRi and exchange rate equilibrium at $E_{\Phi/\epsilon}^3$
-  - [Expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) shift FR curve from $FR_1$ to FR 2 and exchange rate equilibium at $E_{\Phi/\epsilon}^2$
+  - Unlike temporary increase where remain on FRi and exchange rate equilibrium at $E_{\Phi/\epsilon}[^3]$
+  - Expectations shift FR curve from $FR_1$ to FR 2 and exchange rate equilibium at $E_{\Phi/\epsilon}[^2]$
 
 ## Permanent Increase in US Money Supply Short-run
-- Market participants expect $E_{\mathfrak{\Phi}/\mathfrak{\epsilon}}^4$ in the long-run
+- Market participants expect $E_{\mathfrak{\Phi}/\mathfrak{\epsilon}}[^4]$ in the long-run
 - US\$ expected to depreciate, Euro deposits more attractive
-  - Buy at Euros at $E_{\Phi/\epsilon}^2$ , offset $i_\mathrm{\epsilon}-i_{US}^2$ with Euro depreciation from $E_{\Phi/\epsilon}^2$ E/E $E_{\Phi/\epsilon}^2$ to $E_\mathrm{\$/\epsilon}^4$ Es/E $E_{\Phi/\epsilon}^4$
-  - Sell at Euros at $E_{\Phi/\epsilon}^2$ , offset $-i_\mathrm{\epsilon}+i_{US}^2$ with USS appreciation from E/e $E_{\Phi/\epsilon}^2$ $E_{\Phi/\epsilon}^2$ to $E_\mathrm{\$/\epsilon}^4$ Es/E $E_{\Phi/\epsilon}^4$
+  - Buy at Euros at $E_{\Phi/\epsilon}[^2]$ , offset $i_\mathrm{\epsilon}-i_{US}[^2]$ with Euro depreciation from $E_{\Phi/\epsilon}[^2]$ E/E $E_{\Phi/\epsilon}[^2]$ to $E_\mathrm{\$/\epsilon}[^4]$ Es/E $E_{\Phi/\epsilon}[^4]$
+  - Sell at Euros at $E_{\Phi/\epsilon}[^2]$ , offset $-i_\mathrm{\epsilon}+i_{US}[^2]$ with USS appreciation from E/e $E_{\Phi/\epsilon}[^2]$ $E_{\Phi/\epsilon}[^2]$ to $E_\mathrm{\$/\epsilon}[^4]$ Es/E $E_{\Phi/\epsilon}[^4]$
 - Overshooting should not be thought of as irrational
 Impact of Permanent Increase in Money Supply Over Time
 - (a) Nominal money supply increases from Mus to M 2 s
-- (b) Since prices are fixed in the short-run:$\circ i_\mathrm{\Phi}^1$
--  is $\circ i_\mathrm{\Phi}^1$ to $i_\mathrm{\Phi}^2$ $i_\mathrm{\Phi}^2$ immediately then moves back to $i_\mathrm{\Phi}^1$ as prices adjust
-  - Real money balances move from $M_{US}^2/P_{US}^1$ and then return to $M_{US}^2/P_{US}^2$ as prices adjust
-- (c) Price level slowly increases, returning real money balances to $M_{US}^2/P_{US}^2$
-- (d) Exchange rate rises to $E_{\Phi/\epsilon}^2 (E_{\Phi/\epsilon}^3)$ and then setles at $E_{\Phi/\epsilon}^4$
+- (b) Since prices are fixed in the short-run:$\circ i_\mathrm{\Phi}[^1]$
+-  is $\circ i_\mathrm{\Phi}[^1]$ to $i_\mathrm{\Phi}[^2]$ $i_\mathrm{\Phi}[^2]$ immediately then moves back to $i_\mathrm{\Phi}[^1]$ as prices adjust
+  - Real money balances move from $M_{US}[^2]/P_{US}[^1]$ and then return to $M_{US}[^2]/P_{US}[^2]$ as prices adjust
+- (c) Price level slowly increases, returning real money balances to $M_{US}[^2]/P_{US}[^2]$
+- (d) Exchange rate rises to $E_{\Phi/\epsilon}[^2] (E_{\Phi/\epsilon}[^3])$ and then setles at $E_{\Phi/\epsilon}[^4]$
 
 # Impact of Permanent Increase in Money Supply Over Time
 (a) Home Money Supply, M
 (b) Home Real Money Balances, M/P,
- ![500](Attachments/500-591.jpg)
- ![500](Attachments/500-568.jpg)
+ !500
+ !500
 (d) Home Exchange Rate, E
 (c) Home Price Level, P
- ![500](Attachments/500-616.jpg)
- ![500](Attachments/500-593.jpg)
+ !500
+ !500
 A Very Brief History of Floating Exchange Rates
  - Once Bretton Woods was abandoned
   - Exchange rates were more volatile than anticipated
@@ -3317,12 +3317,12 @@ A Very Brief History of Floating Exchange Rates
 - Other factors:
   - May be unclear whether action is one time or permanent
   - Constant flow of other economic information:
-- Country making [monetary policy](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) change
- - Countries against which the [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) trades
+- Country making monetary policy change
+ - Countries against which the currency trades
 - Leads to uncertainty
 
 ## Post-Bretton Wood Exchange Rates
- ![500](Attachments/500-540.jpg)
+ !500
 
 # Fixed Exchange Rates
 - Many countries continue to have fixed exchange rates
@@ -3334,10 +3334,10 @@ A Very Brief History of Floating Exchange Rates
 
 ## Fixed Exchange Rates
 - Example: Denmark and the Eurozone
-- Denmark's [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md), the Krone, pegged at 7.46038 DKr/E
+- Denmark's currency, the Krone, pegged at 7.46038 DKr/E
 - Trading band of ± 2.25%
  - Imposes both short- and long-run policy constraints$$i_{DKr}=i_{€}+\frac{E_{DKr/€}^e-E_{DKr/€}}{E_{\$DKr/€}}=i_{€}$$
-- No control over [monetary policy](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md)
+- No control over monetary policy
 
 ### Denmark and the Eurozone
 - Money supply also fixed relative to prices and output$$\bar{P}_{DEN}[L_{DEN}(i_{DKr}) Y_{DEN}]=\bar{P}_{DEN}[L_{DEN}(i_{\oplus}) Y$$
@@ -3356,12 +3356,12 @@ PDEN = Epkr/ePeur, so prices a fixed multiple of Eurozone$$P_{DEN}[L_{DEN}(i_{DK
 # Danish Krone versus the Euro 1
 
 ## Exchange rate of the krone vis-a-vis the euro
- ![500](Attachments/500-571.jpg)
+ !500
 Note: Reversed scale. The most recent observations are from 30 June 2020.
 Danmarks Nationalbank. Source:
 
 ## Fixed Exchange Rate Theory
- ![500](Attachments/500-556.jpg)
+ !500
 
 ## Monetary Trilemma
 - Trilemmas useful in framing policy tradeoffs
@@ -3370,25 +3370,25 @@ Danmarks Nationalbank. Source:
 - Monetary Trilemma - Policy Goals
   - Fixed Exchange Rate
 -  Capital Mobility
--  [Monetary Policy](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) Autonomy
+-  Monetary Policy Autonomy
 
 ## Monetary Trilemma
 - Monetary Trilemma - Policy Choices
-  - No [Monetary Policy](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) Autonomy
+  - No Monetary Policy Autonomy
  - Fixed Exchange Rate
  - Capital Mobility
   - Capital Controls
 - Fixed Exchange Rate
- - [Monetary Policy](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) Autonomy
+ - Monetary Policy Autonomy
   - Floating Exchange Rate
  Capital Mobility
- - [Monetary Policy](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) Autonomy
+ - Monetary Policy Autonomy
 
 ### Monetary Trilemma
- ![500](Attachments/500-599.jpg)
+ !500
 
 ## Inability to Devalue or Revalue
-- The inability of a country to devalue or revalue its [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) may lead to long term imbalances which cannot be resolved
+- The inability of a country to devalue or revalue its currency may lead to long term imbalances which cannot be resolved
   - This in turn leads to structural imbalances between countries which share a common exchange rate
   - Historically, key problem
 - Fixing currencies against gold prior to and after Wwl
@@ -3398,39 +3398,39 @@ Danmarks Nationalbank. Source:
 ## Inability toDevalue or Revalue
 - Chart below shows imbalances between Germany and Italy
 -  Similar chart regardless of which northern and southern countries are compared
--  Northern countries benefited from joining the Eurozone through [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) rate adjustment
+-  Northern countries benefited from joining the Eurozone through currency rate adjustment
 -  Southern countries borrowed heavily from northern neighbors
 - It is unclear how the balances will eventually be resolved
- ![500](Attachments/500-580.jpg)
+ !500
 Source: ECB website: https://sdw.ecb.europa.eu/browse.do?node=9691112. Accessed November 14, 2022.
 
 # Change in Eurozone Debt Outstanding 2
 Percentage point change in the proportion of all outstanding public debt held by different sectors (January 2015-September 2018)
- ![500](Attachments/500-583.jpg)
+ !500
 Source: National Central Banks of the Eurozone
-Eurozone [Debt Risk](../International%20Finance/Bridgewater/How%20Countries%20Go%20Broke/How%20Countries%20Go%20Broke-Chapter%2015%20&%20Chapter%2016.md) Index
- ![500](Attachments/500-613.jpg)$(\circ)$ Barclays
+Eurozone Debt Risk Index
+ !500$(\circ)$ Barclays
 Source: Elder, Byrece. "Introducing a eurozone perpetual anxiety index." Financial Times, October 13, 2022.
 - Barclays Bank has created an index to measure financial stress in the Eurozone debt markets
 - These charts compare that index to the ECB's index
-Eurozone [Debt Risk](../International%20Finance/Bridgewater/How%20Countries%20Go%20Broke/How%20Countries%20Go%20Broke-Chapter%2015%20&%20Chapter%2016.md) Index
- ![500](Attachments/500-613.jpg)
+Eurozone Debt Risk Index
+ !500
 Spread to Germany and volatility are averages of these indicators at the 2-and 10-year points.
 Source: Barclays Research
- ![500](Attachments/500-583.jpg)
+ !500
 Foreign Exchange Rates ll: The Asset Approach in the Short Run, Part I
 November 15, 2022
 
 ### Inputs into Current Exchange Rates
- ![500](Attachments/500-555.jpg)
-- Uncovered [interest parity](../International%20Finance/Covered%20and%20Uncovered%20Interest%20Parity.md) implies an expected exchange rate
+ !500
+- Uncovered interest parity implies an expected exchange rate
 - Will equal forward outright rate without impediments
 
 ## Uncovered Interest Parity
 - UiP equation defines asset approach to exchange rates
-  - Investors utilize to set [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md)$$i_{\$}=i_{€}+\frac{E_{\$/€}^e-E_{\$/€}}{E_{\$/€}}$$
+  - Investors utilize to set expectations$$i_{\$}=i_{€}+\frac{E_{\$/€}^e-E_{\$/€}}{E_{\$/€}}$$
 - Assume that long-run monetary approach predicts expected exchange rate
-Uncovered [Interest Parity](../International%20Finance/Covered%20and%20Uncovered%20Interest%20Parity.md)$$\begin{array}{|c|c|c|c|c|c|}
+Uncovered Interest Parity$$\begin{array}{ | c | c | c | c | c | c | }
 \hline
  & (1) & (2) & (3) & (4) & (5) & (6)= (2)+(5) \\
  & (1) Interest Rate on Dollar Deposits (annual) & (2) Interest Rate on Euro Deposits (annual) & (3) Spot Exchange Rate $(today)$ & (4) Expected Future Exchange Rate (in 1 year) & (5) Expected Euro Appreciation against Dollar (in 1 year) & (6)= (2)+(5) Expected Dollar Return on Euro Deposits (annual) \\
@@ -3445,7 +3445,7 @@ Market equilibrium & 0.05 & 0.03 & 1.20 & 1.224 & 0.02 & 0.05 \\
 \end{array}$$
 
 ## Spot and Expected Exchange Rates
- ![500](Attachments/500-548.jpg)
+ !500
 
 ### Spot and Expected Exchange Rates
 - In equilibrium $E_{\mathfrak{\Phi}/\epsilon}^e=\$1.224$ t, is = 5% and $i_{\mathrm{f}}=3\%$$$\begin{gathered}
@@ -3455,41 +3455,41 @@ Solving~for~E_{\$/€}, obtain~E_{\$/€}=\$1.20
 \end{gathered}$$
 
 ## Increase in Domestic Interest Rates
-- Now assume an increase of 2% in Us Domestic [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)
-- Using our formula and assuming [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) have not changed:$$weobtain. 07=. 03+\frac{(\$1.224-E_{\$/€})}{E_{\$/€}},\\solvingforE_{\$/€}, obtainE_{\$/€}=\$1.177$$
+- Now assume an increase of 2% in Us Domestic interest rates
+- Using our formula and assuming expectations have not changed:$$weobtain. 07=. 03+\frac{(\$1.224-E_{\$/€})}{E_{\$/€}},\\solvingforE_{\$/€}, obtainE_{\$/€}=\$1.177$$
 
 ## Increase in Domestic Interest Rates
 Market
- ![500](Attachments/500-614.jpg)
+ !500
 
 ## Decrease in Foreign Interest Rates
-- Change assumption to decrease of 2% in Euro [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)
-- Using our formula and assuming [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) have not changed:$$weobtain. 05=. 01+\frac{(\$1.224-E_{\$/€})}{E_{\$/€}},\\solvingforE_{\$/€}, obtainE_{\$/€}=\$1.177$$
+- Change assumption to decrease of 2% in Euro interest rates
+- Using our formula and assuming expectations have not changed:$$weobtain. 05=. 01+\frac{(\$1.224-E_{\$/€})}{E_{\$/€}},\\solvingforE_{\$/€}, obtainE_{\$/€}=\$1.177$$
 
 ### Decrease in Foreign Interest Rates
-(b) [FX Market](../International%20Finance/Foreign%20Exchange%20Markets%20and%20Exchange%20Rate%20Determination.md)
- ![500](Attachments/500-584.jpg)
-Change in Market Exchange Rate [Expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md)
-- [Expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) for a fall in the exchange rate has a similar effect:
+(b) FX Market
+ !500
+Change in Market Exchange Rate Expectations
+- Expectations for a fall in the exchange rate has a similar effect:
   - To rise in the domestic rate or
 -  Fall in the foreign rate
-- Typically changes in [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) result from:
-  - Changes in expected interest or [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) rates
+- Typically changes in expectations result from:
+  - Changes in expected interest or inflation/War%20Economies%20and%20Hyperinflation.md) rates
 -  Increased risk
  - Governmental change
  - Capital flight
 
 ### Change in Market Exchange Rate Expectations
 - Change assumption to decrease in $E_{\Phi/\epsilon}^e$ from 1.224 to 1.20
-- Using our formula and assuming [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) unchanged:$$weobtain. 05=. 03+\frac{(\$1.20-E_{\$/€})}{E_{\$/€}},\\solvingforE_{\$/€}, obtainE_{\$/€}=\$1.176$$
+- Using our formula and assuming interest rates unchanged:$$weobtain. 05=. 03+\frac{(\$1.20-E_{\$/€})}{E_{\$/€}},\\solvingforE_{\$/€}, obtainE_{\$/€}=\$1.176$$
 
 ### Changes in Exchange Rate Expectations
-(b) [FX Market](../International%20Finance/Foreign%20Exchange%20Markets%20and%20Exchange%20Rate%20Determination.md)
- ![500](Attachments/500-581.jpg)
+(b) FX Market
+ !500
 
 ## Short-run Money Market Equilibrium
 - Long-run model assumptions:$\circ P$ , fully flexible and brings money market to equilibrium
--  Nominal interest rate, i, equals the world real interest rate, $r^{*}$ plus domestic [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md), T
+-  Nominal interest rate, i, equals the world real interest rate, $r^{*}$ plus domestic inflation/War%20Economies%20and%20Hyperinflation.md), T
 . Short-run assumptions:.
   - Price level is sticky;
  $P=\bar{P}-$ fixed
@@ -3497,25 +3497,25 @@ Change in Market Exchange Rate [Expectations](../Fixed%20Income%20Asset%20Pricin
 
 ## Short-run Money Market Equilibrium Model
 - Same variables as long-run model - now prices fixed$$\frac{M_{US}}{\bar{P}_{US}}=L (i_{\$})\cdot Y_{US}$$$$\frac{M_{EUR}}{\bar{P}_{EUR}}=L (i_{€})\cdot Y_{EUR}$$
-- [Interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) in each country adjust to bring money market into equilibrium$\bullet\frac{M_{US}}{\bar{P}_{US}}$ , real money demand, and quantit of money, Ms, are fixed
+- Interest rates in each country adjust to bring money market into equilibrium$\bullet\frac{M_{US}}{\bar{P}_{US}}$ , real money demand, and quantit of money, Ms, are fixed
 
 ##  Short-run Money Market Equilibrium
- ![500](Attachments/500-615.jpg)
+ !500
 
 ### Short-run Money Market Equilibrium
-- If initially at point 2, investors will buy financial assets, bidding up price of investments, lowering the interest rate to $i_\mathrm{\Phi}^1$ increasing real money demand to meet supply at 1
-- If initially at point 3, investors will sell financial assets, reducing the price of investments, raising the interest rate to $i_\mathrm{\Phi}^1$ , decreasing real money demand to meet supply at 1
+- If initially at point 2, investors will buy financial assets, bidding up price of investments, lowering the interest rate to $i_\mathrm{\Phi}[^1]$ increasing real money demand to meet supply at 1
+- If initially at point 3, investors will sell financial assets, reducing the price of investments, raising the interest rate to $i_\mathrm{\Phi}[^1]$ , decreasing real money demand to meet supply at 1
 Exchange Rate Determinants
 Input of the model: known variables (exogenous variables)
- ![500](Attachments/500-583.jpg)
+ !500
 Output of the model: unknown variables (endogenous variables)
 - Knowing the money supply and real income in each country
-  - Determine [nominal interest rates](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20and%20Nominal%20Interest%20Rates%20and%20Term%20Struc.md) in each country$$angerate, using: i_{\$}=i_{€}+\frac{E_{\$/€}^{e}-E_{\$/€}}{E_{\$/€}}$$
+  - Determine nominal interest rates in each country$$angerate, using: i_{\$}=i_{€}+\frac{E_{\$/€}^{e}-E_{\$/€}}{E_{\$/€}}$$
 And
 
 ## Impact of Change in Money Supply and Demand on Domestic Interest Rates
- ![500](Attachments/500-615.jpg)
- ![500](Attachments/500-616.jpg)
+ !500
+ !500
 ## Impact of Change in Money Supply and Demand on Domestic Interest Rates
 - Commodity view of money:
   - Amount increases and value declines (interest rate falls)
@@ -3524,81 +3524,81 @@ And
   - Amount decreases and value increases (interest rate rises)
 - Decrease in supply
  - Increase in demand
-- Central bank [rate changes](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Profit%20and%20Loss%20Attribution%20with%20an%20OAS.md) have same effect - US [Discount Rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md)
+- Central bank rate changes have same effect - US Discount Rate
 
 ## 2008-2009 Financial Crisis
 - Real world complications:
--  [Credit risk](Quantitative%20Trading%20Strategies%20Lecture%20Notes.md)
--  [Leverage](../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) and forced liquidations
+-  Credit risk
+-  Leverage and forced liquidations
 . Impaired "Transmission mechanism"
-- [Discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) "risk free"
+- Discount rate "risk free"
 - Absence of counterfactual case
   - Fed had done less or nothing
 
 ## US Interest Rate Markets During Financial Crisis 2008-9
- ![500](Attachments/500-584.jpg)
-LIBOR-OIS Spread During [Financial Crisis](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Letter.md) 2008-9
-- LIBOR ([London Interbank Offered Rate](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md)) is, for now, the rate banks borrow funds unsecured from other banks
-  - Basis for [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) most floating rate loans and [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md)
+ !500
+LIBOR-OIS Spread During Financial Crisis 2008-9
+- LIBOR (London Interbank Offered Rate) is, for now, the rate banks borrow funds unsecured from other banks
+  - Basis for pricing most floating rate loans and derivatives
  - $200 trillion in contracts utilizing 1
   - Scandal ridden since mid 2010's
-- Ols - Overnight Indexed [Swap rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md)
-  - [Derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) contract on the overnight interest rate
+- Ols - Overnight Indexed Swap rate
+  - Derivatives contract on the overnight interest rate
 1, 3 and 6 Month Libor versus Ois 2
- ![500](Attachments/500-586.jpg)
+ !500
 ## AAA-US Treasury Six Month Spread During Financial Crisis 2008-9
- ![500](Attachments/500-584.jpg)
+ !500
 Asset Approach to Exchange Rates
- ![500](Attachments/500-584.jpg)
+ !500
 
 ### Asset Approach to Exchange Rates
 - As before, MS is Home money supply, MD Home money demand
-- Home market in equilibrium at point 1, where $i_\mathrm{\phi}=i_\mathrm{\Phi}^1$
+- Home market in equilibrium at point 1, where $i_\mathrm{\phi}=i_\mathrm{\Phi}[^1]$
 - FR (Foreign Return) is the expected dollar rate of return as a function of the exchange rate
 
 ##. Wher $i_\mathrm{f}$ and $E_{\mathfrak{\Phi}/\mathfrak{\epsilon}}^e$ are eo geneou
 
 ### Asset Approach to Exchange Rates
-- DR (Dollar Return) is the rate on US deposits, $i_\mathrm{\Phi}^1$
-- Exchange rate equilibrium is at $E_{\mathfrak{\Phi}/\epsilon}=E_{\mathfrak{\Phi}/\epsilon}^1$
-  - [Expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) in US Dollars equals return on US deposits
+- DR (Dollar Return) is the rate on US deposits, $i_\mathrm{\Phi}[^1]$
+- Exchange rate equilibrium is at $E_{\mathfrak{\Phi}/\epsilon}=E_{\mathfrak{\Phi}/\epsilon}[^1]$
+  - Expected return in US Dollars equals return on US deposits
 - Assumes full capital mobility
   - Capital controls imply no requirement for DR to equal FR
 
 ## Temporary Shock to Home Money Supply
- ![500](Attachments/500-575.jpg)
+ !500
 
 ## Temporary Shock to Home Money Supply
 - All exogenous variables remain unchanged
 - Initially Home market equilibrium at point 1
   - Temporary increase in Home money supply, MS 1 to MS 2
   - Prices remain fixed at $\bar{P}_{US}^{1}$
-- Real money supply increases to $MS_2/\bar{P}_{US}^1$ and equilibrium moves to point 2 at $i_\mathrm{\Phi}^2$
-- Lower US return raises exchange rate from $E_{\Phi/\epsilon}^1$ EF/e $E_{\Phi / \epsilon }^1\textit{ to }E_{\Phi / \epsilon }^2$, representing Dollar depreciation at new equilibrium, 2'
+- Real money supply increases to $MS_2/\bar{P}_{US}[^1]$ and equilibrium moves to point 2 at $i_\mathrm{\Phi}[^2]$
+- Lower US return raises exchange rate from $E_{\Phi/\epsilon}[^1]$ EF/e $E_{\Phi / \epsilon }[^1]\textit{ to }E_{\Phi / \epsilon }[^2]$, representing Dollar depreciation at new equilibrium, 2'
 
 ### Temporary Shock to Foreign Money Supply
- ![500](Attachments/500-613.jpg)
+ !500
 
 ## Temporary Shock to Foreign Money Supply
 - All exogenous variables remain unchanged
 - Initially Home market equilibrium at point 1 and remains there
   - Temporary increase in Eurozone money supply
-  - Eurozone prices remain fixed at $\bar{P}_{EU}^1$
+  - Eurozone prices remain fixed at $\bar{P}_{EU}[^1]$
 - Real Eurozone money supply increases, shifting FR curve downward
-- Lower Eurozone return lowers exchange rate from $E_{\Phi/\epsilon}^1\textit{to E}_{\Phi/\epsilon}^2$ representing Euro depreciation at new equilibrium, 2'
+- Lower Eurozone return lowers exchange rate from $E_{\Phi/\epsilon}[^1]\textit{to E}_{\Phi/\epsilon}[^2]$ representing Euro depreciation at new equilibrium, 2'
 The Euroz 0 ne Crisis 2008-2013
- ![500](Attachments/500-586.jpg)
+ !500
 
 ### The Euroz 0 ne Crisis 2008-2013
 - Origin of the crisis and “resolution"
   - Policy Context
-- [Lender of last resort](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/The%20Only%20Game%20in%20Town%20Walter%20Bagehot.md)
- - Lack of fiscal and [banking](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/HKS%20The%20Banking%20Industry.md) union
+- Lender of last resort
+ - Lack of fiscal and banking union
  - Sovereign debt ownership by Eurozone banks
  - Labor immobility
  - No exit clause
   - "Whatever it takes ... And that will be enough"
- ![500](Attachments/500-616.jpg)
+ !500
 Foreign Exchange Rates I: Monetary Approach in the Long Run, Part Il
 November 10, 2022
 
@@ -3610,7 +3610,7 @@ November 10, 2022
 - These models do poorly as predictors of exchange rate movements over short and medium term intervals
   - So why do we care about them?
 - Guide central bank policies
-  - Most central banks have an [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) mandate
+  - Most central banks have an inflation/War%20Economies%20and%20Hyperinflation.md) mandate
  - May be coupled with an employment mandate
 -  Focus on real growth
 -  Viewed as guide to long-term decision making
@@ -3636,26 +3636,26 @@ November 10, 2022
 Becomes$$\frac{E_{\$/€, t}}{E_{\$/€, t}}=(\mu_{US, t}-\mu_{EUR, t})-(g_{US, t}-g_{EUR}$$$$\frac{\Delta E_{\$/€, t}}{E_{\$/€, t}}=(\mu_{US, t}+\Delta\mu_{US, t}-\mu_{EUR, t})-(g_{t}$$
 
 ### Example 2
- ![500](Attachments/500-602.jpg)
+ !500
 
 ## Inflation Rates and Money Growth
- ![500](Attachments/500-598.jpg)
+ !500
 
 ## Exchange Rates and Money Growth
- ![500](Attachments/500-576.jpg)
+ !500
 
 ### Hyperinflation
- ![500](Attachments/500-566.jpg)
+ !500
 
 ## Hyperinflation
 - Economists define as 50% per month - often defined in the Press as 1000% per year
 - Typically caused by policies such as:
   - Extreme austerity
-  - [Borrowing in foreign currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%203%20Swaps-%20Financial%20Instruments/The%20Value%20of%20the%20Swap%20Contract%20after%20Initiation.md) - supporting projects of little value
+  - Borrowing in foreign currency - supporting projects of little value
 -  Theft, corruption by federal government
 - Issues with drawing too many conclusions from graph above
 Hyperinflation and Demand for Real Balances
- ![500](Attachments/500-564.jpg)
+ !500
 Hyperinflation - Money Supply and Demand
 - Staple goods in dramatically short supply
 - Government cannot print money fast enough
@@ -3667,7 +3667,7 @@ Hyperinflation - Money Supply and Demand
 ## Quantity Theory of Money
 ·Two ideas
   - Value to holding money:
-- Transactions [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunities
+- Transactions Investment opportunities
   - Costs to holding money:
 - Interest, $i_{\Phi}$ , missed (assuming > 0)
  - Imoney usually viewed as zero
@@ -3676,70 +3676,70 @@ Hyperinflation - Money Supply and Demand
 ## Demand for Money Drivers
 - Ceteris paribus,
   - An increase in nominal production increases the value and number of transactions and therefore money demand
-  - An increase in [nominal interest rates](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20and%20Nominal%20Interest%20Rates%20and%20Term%20Struc.md) will decrease the demand for money$M^d=L (i)\cdot PY$ ,now $L$ is a decreasing function of [nominal interest rates](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20and%20Nominal%20Interest%20Rates%20and%20Term%20Struc.md). Realt $money\textit{ demand, }\frac {M^d}P= L ( i) \cdot Y$ is $a$ fun ction
-Of [nominal interest rates](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20and%20Nominal%20Interest%20Rates%20and%20Term%20Struc.md) and real income.
+  - An increase in nominal interest rates will decrease the demand for money$M^d=L (i)\cdot PY$ ,now $L$ is a decreasing function of nominal interest rates. Realt $money\textit{ demand, }\frac {M^d}P= L ( i) \cdot Y$ is $a$ fun ction
+Of nominal interest rates and real income.
 
 ### Demand for Money Drivers
- ![500](Attachments/500-589.jpg)
+ !500
 
 ## Money Market Equilibrium
 - Equilibrium where supply equals demand:
 M = Li) Y, where M is the nominal money supply
 - Under the quantity theory $L$ was a constant
-  - No impact from [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)
-  - In general model, [nominal interest rates](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20and%20Nominal%20Interest%20Rates%20and%20Term%20Struc.md) a key variable
+  - No impact from interest rates
+  - In general model, nominal interest rates a key variable
 - Central bank targeting of rates and money supply
-[Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md), Foreign Exchange and [Interest Rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)
-- Long run relationship among [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md), foreign exchange and [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)
+Inflation/War%20Economies%20and%20Hyperinflation.md), Foreign Exchange and Interest Rates
+- Long run relationship among inflation/War%20Economies%20and%20Hyperinflation.md), foreign exchange and interest rates
   - PPP links purchasing power (relative price levels) and exchange rates
-  - Uncovered [interest parity](../International%20Finance/Covered%20and%20Uncovered%20Interest%20Parity.md) links exchange rates and [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)
+  - Uncovered interest parity links exchange rates and interest rates
 ·From relative PPP:$$\frac{\Delta E^e{}_{\$/€, t}}{E_{\$/€, t}}=\pi_{US}^e-\pi_{EUR}^e$$
-[Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md), Foreign Exchange and [Interest Rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)
+Inflation/War%20Economies%20and%20Hyperinflation.md), Foreign Exchange and Interest Rates
 - Change with insertion of superscript e:
   - Implies market participants
-- Develop [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) based on Keynes' general theory
- - Look at economic indicators to determine expected rate of [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)
+- Develop expectations based on Keynes' general theory
+ - Look at economic indicators to determine expected rate of inflation/War%20Economies%20and%20Hyperinflation.md)
   - These determine expected change in exchange rates
 - Next look at interest rate markets
-[Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md), Foreign Exchange and [Interest Rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)
-- Uncovered [interest parity](../International%20Finance/Covered%20and%20Uncovered%20Interest%20Parity.md) states:$$\frac{\Delta E^e_{\$/€, t}}{E_{\$/€, t}}=i_{\$}-i_{€}$$
-- States that market participants expect that the differential in [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) will be offset by a change in the exchange rate
+Inflation/War%20Economies%20and%20Hyperinflation.md), Foreign Exchange and Interest Rates
+- Uncovered interest parity states:$$\frac{\Delta E^e_{\$/€, t}}{E_{\$/€, t}}=i_{\$}-i_{€}$$
+- States that market participants expect that the differential in interest rates will be offset by a change in the exchange rate
 - The above implies:$$i_{\$}-i_{€}=\pi_{US}^e-\pi_{EUR}^e$$
 - Known as the Fisher Effect
 
 ### The Fisher Effect
 - Implies that, all else equal:
-  - A rise or fall in the [expected inflation rate](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20and%20Nominal%20Interest%20Rates%20and%20Term%20Struc.md) in a country leads to an equal rise or fall in [nominal interest rates](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20and%20Nominal%20Interest%20Rates%20and%20Term%20Struc.md)
+  - A rise or fall in the expected inflation rate in a country leads to an equal rise or fall in nominal interest rates
   - Example:
-- [Expected inflation rate](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20and%20Nominal%20Interest%20Rates%20and%20Term%20Struc.md) in US is $2\%$ annually
- - [Expected inflation rate](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20and%20Nominal%20Interest%20Rates%20and%20Term%20Struc.md) in Eurozone is -1% annually
+- Expected inflation rate in US is $2\%$ annually
+ - Expected inflation rate in Eurozone is -1% annually
  - Differential $\pi_{US}^e-\pi_{EUR}^e=3\%$
  - Therefore the differential $i_{\mathfrak{\Phi}}-i_{\mathfrak{\epsilon}}=3\%$
 
 ## Real Interest Parity
 - Calculate real interest rate in each country by rearranging:
-Is - ie = πUs -πeuR to obtain, $i_{\Phi}-\pi_{US}^e=i_{\epsilon}-\pi_{EUR}^e$ giving the result that [real interest rates](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20Interest%20Rates%20and%20Aggregate%20Production.md) in each country must be the same
+Is - ie = πUs -πeuR to obtain, $i_{\Phi}-\pi_{US}^e=i_{\epsilon}-\pi_{EUR}^e$ giving the result that real interest rates in each country must be the same
 - Implies there are no real return arbitrages available
-That is, $r_{US}^e=r_{EUR}^e$ ,known as real [interest parity](../International%20Finance/Covered%20and%20Uncovered%20Interest%20Parity.md). If capital flows are free, then only one available real rate of $return, r^*=r_{US}^e=r_{EUR}^e$ No consideration of risk in this analysis
+That is, $r_{US}^e=r_{EUR}^e$ ,known as real interest parity. If capital flows are free, then only one available real rate of $return, r^*=r_{US}^e=r_{EUR}^e$ No consideration of risk in this analysis
 
 ### Global Real and Nominal Returns
-- The long run implications of the [law of one price](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) and purchasing power parity are:$i_{\mathfrak{s} }= r_{US}^{e}+ \pi _{US}^{e}= r^{* }+ \pi _{US}^{e}$ and $i_{\mathfrak{e} }= r_{EUI}^{e}$ ie=rEui $i_{\mathrm{\epsilon}}=r_{EUR}^e+\pi_{EUR}^e$ = r* +πeur, therefore, r* the global real rate of return, plus each country's [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) rate equals its domestic interest rate
+- The long run implications of the law of one price and purchasing power parity are:$i_{\mathfrak{s} }= r_{US}^{e}+ \pi _{US}^{e}= r^{* }+ \pi _{US}^{e}$ and $i_{\mathfrak{e} }= r_{EUI}^{e}$ ie=rEui $i_{\mathrm{\epsilon}}=r_{EUR}^e+\pi_{EUR}^e$ = r* +πeur, therefore, r* the global real rate of return, plus each country's inflation/War%20Economies%20and%20Hyperinflation.md) rate equals its domestic interest rate
 - What we see in the world differs substantially from this
   - Capital flows based on:
- Differing risk/return [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md)
+ Differing risk/return expectations
 - Central bank and fiscal actions
 
 # The Fisher Effect
- ![500](Attachments/500-586.jpg)
+ !500
 Interest rate differential 1995-2005 ( $\because 0/0$ per year relative to U.s., average)
 
 ## Real Interest Rate Differentials
- ![500](Attachments/500-580.jpg)
+ !500
 Fundamental Equation Underlying the General Model
-- Differs from quantity theory since [liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) demand is now a function of [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)$$\frac{P_{US}}{P_{EUR}}=\frac{\frac{M_{US}}{L_{US}(i_{\$}) Y_{US}}}{\frac{M_{EUR}}{L_{EUR}(i_{€}) Y_{EUR}}}=\frac{(M_{US}/M_{E}}{(\: L_{US}(i_{\$}) Y_{US}/L_{EU}}$$
+- Differs from quantity theory since liquidity demand is now a function of interest rates$$\frac{P_{US}}{P_{EUR}}=\frac{\frac{M_{US}}{L_{US}(i_{\$}) Y_{US}}}{\frac{M_{EUR}}{L_{EUR}(i_{€}) Y_{EUR}}}=\frac{(M_{US}/M_{E}}{(\: L_{US}(i_{\$}) Y_{US}/L_{EU}}$$
 E\$/e= (ie) YEUR)
-- General model remains valid when [nominal interest rates](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Real%20and%20Nominal%20Interest%20Rates%20and%20Term%20Struc.md) change
-- Quantity theory valid only if [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) unchanged over the long run
+- General model remains valid when nominal interest rates change
+- Quantity theory valid only if interest rates unchanged over the long run
 
 ### Interest Forecasts with General Model
 - The US Federal Reserve announces :
@@ -3748,19 +3748,19 @@ E\$/e= (ie) YEUR)
  - Euro money supply and price levels constant
  - PPP implies that E and P change in same proportion, dollar depreciates 10% - same as Monetary model
   - Money supply growth rate now $\mu_{US}+\Delta\mu_{US}$ versus μus
-- Fisher effect - US raises [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) by $\Delta\mu_{US}=\Delta i_{\Phi}$
+- Fisher effect - US raises interest rates by $\Delta\mu_{US}=\Delta i_{\Phi}$
  - Real money balances fall in response, price level jumps so real rate remains constant
 
 ### Change in Money Supply Growth General Model
- ![500](Attachments/500-580.jpg)
+ !500
 
 ## Change in Money Supply Growth Quantity Model
- ![500](Attachments/500-574.jpg)
+ !500
 
 ## Monetary and Exchange Rate Regimes
 - Major central banks are driven by one or more targets or anchors 1
-  - [Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) Rate - principally "free" floating major currencies$$\pi_H^e=i_H-r^*$$
-  - Money Supply - often means to achieve [inflation target](../International%20Finance/Economic%20Stabilization%20Notes/Topics%20in%20Fiscal%20and%20Monetary%20Policies%20and%20Stabilization-%20Empirical%20Issues.md)$$\pi_H=\mu_H-g_H$$
+  - Inflation/War%20Economies%20and%20Hyperinflation.md) Rate - principally "free" floating major currencies$$\pi_H^e=i_H-r^*$$
+  - Money Supply - often means to achieve inflation target$$\pi_H=\mu_H-g_H$$
   - Exchange Rate - fixed, crawling or target regimes$$\pi_H=\frac{\Delta E_{H/F}}{E_{H/F}}+\pi_F$$
 Monetary and Exchange Rate Regimes
 - Exchange Rate - fixed, crawling or target regimes $\pi_H=\pi_F$ $\pi_H>\pi_F$$$\begin{aligned}
@@ -3780,21 +3780,21 @@ November 8, 2022
   - Provides good long-run framework (several years)
 -  No value in short-term analysis of exchange rates
 - Leads to understanding of central bank policies
-  - [Monetary policy](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md)
+  - Monetary policy
 -  Exchange rate regimes
 -  Bank regulation
 
 ## The Law of One Price
-- [Law of One Price](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) (LOOP) - exchange rates reflect identical real price for a single good globally when expressed in a common [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)
+- Law of One Price (LOOP) - exchange rates reflect identical real price for a single good globally when expressed in a common currency
   - Assumes
 - Integrated market Free competition
  - No price manipulation
 - LooP is a broader concept than implied by the text
-  - Any [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) providing identical outcomes must have the same price at a point in time
+  - Any investment providing identical outcomes must have the same price at a point in time
 
 ### The Law of One Price
-- Market equilibrium implies no [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md) - integrated market
-- [Law of One Price](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) example$$q_{US/EUR}^g=\frac{E_{\$/€}P_{EUR}^g}{P_{US}^g},$$
+- Market equilibrium implies no arbitrage opportunities - integrated market
+- Law of One Price example$$q_{US/EUR}^g=\frac{E_{\$/€}P_{EUR}^g}{P_{US}^g},$$
 Where $q_{US/EUR}^g$ is the relative price of good g, $E_{\mathfrak{S}/\epsilon}P_{EUR}^g$ is European price in USD and $P_{US}^g$ is the US. Price in USD
 
 ### The Law of One Price
@@ -3820,10 +3820,10 @@ Opportunity;
   - That is, the real price of all goods (typically expressed as a basket of finished goods) is identical
 
 ## Purchasing Power Parity (PPP)
-- [Law of one price](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) applied to all goods (and services) available in two or more countries$$q_{US/EUR}=\frac{E_{\$/€}P_{EUR}}{P_{US}},$$
+- Law of one price applied to all goods (and services) available in two or more countries$$q_{US/EUR}=\frac{E_{\$/€}P_{EUR}}{P_{US}},$$
 Where qus/eur is the relative price of all goods, g, in a basket, Es/ePeuR is European price in USD and Pus is the US. Price in USD
 When qus/EuR = 1 at all times,
-There is no [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity for the basket - this isknown as absolutePPP
+There is no arbitrage opportunity for the basket - this isknown as absolutePPP
 
 # The Real Exchange Rate
 - Nominal versus real variables
@@ -3834,7 +3834,7 @@ QuS/EUR =s/ePEuR where qus/euR the number
 -
 US baskets required to purchase one Eurozone basket
 Absolute PPP and Real Exchange Rates
-  - A change in the [nominal exchange rate](../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) or
+  - A change in the nominal exchange rate or
 - Real exchange rate appreciation or depreciation due to either:
 -  A change in relative price of the goods basket
 - Absolute PPP states: real exchange rate is equal to 1 q us > 1, European goods relatively expensive, EUR USD said to be weak or undervalued;
@@ -3854,17 +3854,17 @@ Therefore, the exchange rate implied by absolute PPP is$$E_{\$/€}=\frac{P_{US}
   - Do not reflect the current relative prices of goods
 
 ## Relationship between Inflation and Depreciation 1975-2005
- ![500](Attachments/500-580.jpg)
-Relationship between [Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and Depreciation
-- The relationship between [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and depreciation is strong in the long-run
+ !500
+Relationship between Inflation/War%20Economies%20and%20Hyperinflation.md) and Depreciation
+- The relationship between inflation/War%20Economies%20and%20Hyperinflation.md) and depreciation is strong in the long-run
 - This is consistent with absolute purchasing power parity
   - Absolute PPP links the price level with the exchange rate
- - If prices rise at Home, the Home [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) depreciates
- ![500](Attachments/500-579.jpg)
+ - If prices rise at Home, the Home currency depreciates
+ !500
 
 ## Relative PPP, Inflation and Exchange Rates
 - Look at changes in various measures:
-  - Rate of [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)
+  - Rate of inflation/War%20Economies%20and%20Hyperinflation.md)
   - RelativePPP
   - Real versus nominal exchange rates
 - Now examine the rate of change of the exchange rate versus the rate of depreciation or appreciation:$$\frac{\Delta E_{\$/€, t}}{E_{\$/€, t}}=\frac{(E_{\$/€, t+1}-E_{\$/€, t})}{E_{\$/€, t}}$$
@@ -3873,20 +3873,20 @@ Relationship between [Inflation](../International%20Finance/Bridgewater/Principl
 - For small changes in Absolute PPP, changes in exchange rates represent changes in price levels:
 From$$\text{a above,}\frac{\Delta (P_{US}/P_{EUR})}{P_{US}/P_{EUR}}=\frac{\Delta P_{US, t}}{P_{US, t}}-\frac{\Delta P_{EUR, t}}{P_{EUR, t}}$$$$=\pi_{US, t}-\pi_{EUR, t}$$
 Relative$$\text{ve PPP states: }\frac{\Delta E_{\$/€, t}}{E_{\$/€, t}}=\pi_{US, t}-\pi_{EUR, t}$$
-- Implication is that rate of depreciation or appreciation must equal the [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) rate differential between two countries
-Relative PPP, [Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and Exchange Rates
-- Relative PPP states the relationship between changes in [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) rates and exchange rates
+- Implication is that rate of depreciation or appreciation must equal the inflation/War%20Economies%20and%20Hyperinflation.md) rate differential between two countries
+Relative PPP, Inflation/War%20Economies%20and%20Hyperinflation.md) and Exchange Rates
+- Relative PPP states the relationship between changes in inflation/War%20Economies%20and%20Hyperinflation.md) rates and exchange rates
 - This relationship is derived from the Absolute PPP relationship
   - If Absolute PPP is true, then relative PPP is true
   - Relative PPP being true does not imply that Absolute PPP is true
 
 ## Relative PPP and Exchange Rates
- ![500](Attachments/500-607.jpg)
+ !500
 
 ## Deviations from PPP
 . Markets
   - Capital Flows
-  - [Expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md)
+  - Expectations
 . Transaction Costs
   - Transportation
 -  Tariffs, subsidies, other restrictions
@@ -3899,7 +3899,7 @@ Relative PPP, [Inflation](../International%20Finance/Bridgewater/Principles%20Fo
 - Price Stickiness
 -  Most prices do not change instantaneously
   - Wages - do not adjust immediately
-- Source of central banks' [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) targeting goals
+- Source of central banks' inflation/War%20Economies%20and%20Hyperinflation.md) targeting goals
 
 ## The Big Mac Index
 - Dumping - a company (or a country) export products at a price below:
@@ -3910,7 +3910,7 @@ Relative PPP, [Inflation](../International%20Finance/Bridgewater/Principles%20Fo
 
 ## Big Mac Index
  Percentage Difference verus US (Adjusted for per person GDP)
- ![500](Attachments/500-572.jpg)
+ !500
 Source: www.economist.com , accessed May 7, 2022.
 
 ## Functions of Money
@@ -3922,7 +3922,7 @@ Source: www.economist.com , accessed May 7, 2022.
   - Really credit - secured lending
 
 ## Central Bank Versus Commercial Bank Money
- ![500](Attachments/500-573.jpg)$\sqrt{M_{m_{1}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}n_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2-}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}}}$
+ !500$\sqrt{M_{m_{1}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}n_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2-}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}m_{2}}}$
 
 # Money Supply
 - Only MO controlled directly by central bank
@@ -3937,8 +3937,8 @@ Source: www.economist.com , accessed May 7, 2022.
 ### Money Demand
 - Nominal money demand is a function of
   - Nominal Income
-  - [Liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) [Preference](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md)$$M^d=\bar{L}\cdot PY,$$
-Where $M^d$ is the nominal demand for money, L is the [liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) [preference](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md) and PY is the price level times real income. Real money demand is$$\frac{M^d}P=\bar{L}\cdot Y$$
+  - Liquidity Preference$$M^d=\bar{L}\cdot PY,$$
+Where $M^d$ is the nominal demand for money, L is the liquidity preference and PY is the price level times real income. Real money demand is$$\frac{M^d}P=\bar{L}\cdot Y$$
 Equilibrium and Monetary Models of Prices
 Equilibrium occurs when $M=\bar{L}\cdot PY$ where M is the money supply. Equivalently, $\frac MP=\bar{L}\cdot Y$ iseguibrtum iara termis
 - Pursuant to Friedman, price levels are a function of M and $M^d$
@@ -3948,31 +3948,31 @@ Rearranging the above, can express price levels in the US and Eurozone as follow
 ### Monetary Model of the Exchange Rate
 - Using the above, we can express the exchange rate as follows:$$=P_{US}/P_{EUR}=\frac{\frac{M_{US}}{\bar{L}_{US}Y_{US}}}{\frac{M_{EUR}}{\bar{L}_{EUR}Y_{EUR}}}=\frac{(M_{US}/M_{EU}}{(\bar{L}_{US}Y_{US}/\bar{L}_{EUI}}$$
 Es$/e = RYEUR)
-- Growth in the money supply beyond the rate of growth of the economy causes either depreciation or [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) or both
-Money Supply Growth, [Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and Depreciation
+- Growth in the money supply beyond the rate of growth of the economy causes either depreciation or inflation/War%20Economies%20and%20Hyperinflation.md) or both
+Money Supply Growth, Inflation/War%20Economies%20and%20Hyperinflation.md) and Depreciation
 - Our simple model implies the following:
 And$$Define\mu_{US, t}=(M_{US, t+1}-M_{US, t})/M_{US, t}$$
 Constant,$$US, t=(Y_{US, t+1}-Y_{US, t})/Y_{US, t}, since\:\bar{L}\: is\: c\\the\: growth\: rate\: of\: P_{US}=\frac{M_{US}}{\bar{L}_{US}Y_{US}}\\\pi_{US, t}=\mu_{US, t}-g_{US, t},\: similarly\: for\: the\\\pi_{EUR, t}=\mu_{EUR, t}-g_{EUR, t}$$
 Must equal Eurozone,
-- We can now find the formula for the expected rate of [currency depreciation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20I%20-%20The%20Big%20Debt%20Cycle/Inflationary%20Depressions%20and%20Currency%20Crises/Inflationary%20Depressions%20and%20Currency%20Crises%201.md)/appreciation
+- We can now find the formula for the expected rate of currency depreciation/appreciation
 Nominal Rate of Depreciation in the Exchange Rate
 Returning
 $$\text{ng to relative PPP,}\frac{\Delta E_{\$/€, t}}{E_{\$/€, t}}=\pi_{US, t}-\pi_{E}\\=(\mu_{US, t}-g_{US, t})-(\mu_{EUR, t}-g_{EUR, t})$$$$\frac{\Delta E_{\$/€, t}}{E_{\$/€, t}}=\begin{pmatrix}\mu_{US, t}-\mu_{EUR, t}\end{pmatrix}-(g_{US, t}-g_{EUR}$$
-i.e., the difference between money supply growth rates and the difference between real output growth rates equals the [future rate](../Clippings/Forward%20Rate.md) of depreciation/appreciation
-Money Supply Growth, [Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and Depreciation . Example:
-  - Given the following [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) for one year forward:$$\begin{gathered}
+i.e., the difference between money supply growth rates and the difference between real output growth rates equals the future rate of depreciation/appreciation
+Money Supply Growth, Inflation/War%20Economies%20and%20Hyperinflation.md) and Depreciation . Example:
+  - Given the following expectations for one year forward:$$\begin{gathered}
 \bullet\:\mu_{US, t}=7.0\% \\
 \bullet\:\mu_{EUR, t}=8.0\% \\
 \bullet\: g_{US, t}=2.0\% \\
  \bullet\: g_{EUR, t}=1.0\%
 \end{gathered}$$
-OThe current [spot rate](../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) is: E\$/e, t = \$1.0550/Euro
+OThe current spot rate is: E\$/e, t = \$1.0550/Euro
   - What is the expected Euro-Dollar exchange rate in one year?
-Money Supply Growth, [Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and Depreciation
+Money Supply Growth, Inflation/War%20Economies%20and%20Hyperinflation.md) and Depreciation
 - Using our formula$$\frac{\Delta E_{\$/€, t}}{E_{\$/€, t}}=\begin{pmatrix}\mu_{US, t}-\mu_{EUR, t}\end{pmatrix}-(g_{US, t}-g_{EUR}$$$$\frac{\Delta E_{\$/€, t}}{E_{\$/€, t}}=(7.0\%-8.0\%)-(2.0\%-1.0\%$$$$\frac{\Delta E_{\$/€, t}}{E_{\$/€, t}}=-1.0\%-1.0\%=-2\%,$$
 And 1.0550*-. 02= -. 0211.
 Therefore the expected exchange rate is $1.0339
-[Introduction](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to Foreign Exchange Il
+Introduction to Foreign Exchange Il
 November 3, 2022
 
 ## Forward Foreign Exchange Swap
@@ -3982,7 +3982,7 @@ November 3, 2022
   - Move the settlement date to September 21
 
 ## Forward Foreign Exchange Swap (Bank New York Perspective)
- ![500](Attachments/500-577.jpg)
+ !500
 
 ## Forward Foreign Exchange Swap
 - How many dollars does Bank New York send to Bank Frankfort on September 21?
@@ -3997,12 +3997,12 @@ November 3, 2022
 -  Bid or Ask?
 
 # Forward Points
- ![500](Attachments/500-610.jpg)
+ !500
 Source: barchart. Com. Accessed
 
 ### Forward Points
 - Add or Subtract:
-  - [Interest Rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md):
+  - Interest Rates:
 - US three month: 2.10%
  - Eurozone three month: -0.182%
   - If earn interest differential, pay the points
@@ -4014,41 +4014,41 @@ Source: barchart. Com. Accessed
 - Bid or Offer?
   - You are the customer, the bank is providing you a service
 - So you have pay the more expensive price
-  - [Market maker](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%209%20Bid%20and%20Ask%20Prices%20With%20Private%20Information.md) (bank)
+  - Market maker (bank)
 - Earns the Ask price if gives up the interest rate differential
  - Pays the Bid price if earning the interest rate differential
 
 ### Forward Points
 - US rates are higher than Eurozone rates
-  - Bank New York earns 2.10% - (-0.182%) for the period from the spot date to the [forward settlement](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Bond%20Yield.md) date
+  - Bank New York earns 2.10% - (-0.182%) for the period from the spot date to the forward settlement date
   - Therefore it must pay the points to Bank Frankfort the points (and the customer must pay Bank New York)
 -  We add the points
 - We must pay the Ask (higher) points: 66.411
 -  So Bank New York will send $1,046,641.10
 
 ### Forward Foreign Exchange Swap (Bank New York Perspective)
- ![500](Attachments/500-604.jpg)
+ !500
 
 ## Forward Outright (Bank New York Perspective)
 - Alternatively, we could have engaged in a forward outright transaction for September 21, 2022
- ![500](Attachments/500-531.jpg)
-- Now look at Covered and Uncovered [Interest Parity](../International%20Finance/Covered%20and%20Uncovered%20Interest%20Parity.md)
+ !500
+- Now look at Covered and Uncovered Interest Parity
 
 ## Forward Rates and Deposits
 
 ###
- - [Covered interest parity](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Interest%20Rates,%20Carry%20Trades,%20and%20Exchange%20Rate%20Movements.md)
-  - [Forward rate](../Clippings/Forward%20Points%20in%20Currency.md) equals [spot rate](../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) plus interest cost (minus interest benefit) of owning one and borrowing other [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md)$$F_{\$/€}=E_{\$/€}\cdot\frac{1+i_\$}{1+i_€}$$
+ - Covered interest parity
+  - Forward rate equals spot rate plus interest cost (minus interest benefit) of owning one and borrowing other currency$$F_{\$/€}=E_{\$/€}\cdot\frac{1+i_\$}{1+i_€}$$
 Forward Rates and Deposits
- ![500](Attachments/500-602.jpg)
+ !500
 
 ## Forward Rates and Expectation
-- Uncovered [interest parity](../International%20Finance/Covered%20and%20Uncovered%20Interest%20Parity.md)
-  - Expected exchange rate at time t equals (1 + the foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) interest rate for t) divided by the [spot exchange rate](../Financial%20Instruments/Review%20Session%20Notes/Arbitrage%20Opportunity%20Accounting.md)$$(1+i_{\$})=(1+i_{€})\cdot\frac{E_{\$/€}^e}{E_{\$/€}}$$
-Forward Rates and [Expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md)
- ![500](Attachments/500-580.jpg)
+- Uncovered interest parity
+  - Expected exchange rate at time t equals (1 + the foreign currency interest rate for t) divided by the spot exchange rate$$(1+i_{\$})=(1+i_{€})\cdot\frac{E_{\$/€}^e}{E_{\$/€}}$$
+Forward Rates and Expectations
+ !500
 
-# Forward Points Euro/US Dollar$$\begin{array}{|c|c|c|c|c|c|}
+# Forward Points Euro/US Dollar$$\begin{array}{ | c | c | c | c | c | c | }
 \hline
 FORWARD RATES for Thu, Jun 16 & th, 2022 &  & Alerts & 0 Watch 5 11 &  \\
 Forward Rates &  &  &  &  &  \\
@@ -4074,42 +4074,42 @@ EURVUSD 1-Year Forward & Screenshot 100 & 271.50000 & 270.88000 & $12:29ET$ &  \
 \hline
 \end{array}$$
 Source: barchart. Com. Accessed June 16.2022
-Forward Outright and [Covered Interest Parity](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Interest%20Rates,%20Carry%20Trades,%20and%20Exchange%20Rate%20Movements.md)
+Forward Outright and Covered Interest Parity
  - Example:
 1.0400
 -  Spot EUR/USD rate:
 -  Three Month Forward Points: 65.866 - 66.411
 -  Three Month LIBOR: 2.10%
--  Three Month [Euribor](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/EURIBOR%20Forward%20Rate%20Agreements%20and%20Futures.md): -0.182% 92
+-  Three Month Euribor: -0.182% 92
 -  Number of Days: 360
 -  Days in Year:
-Steps to Calculate [Covered Interest Parity](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Interest%20Rates,%20Carry%20Trades,%20and%20Exchange%20Rate%20Movements.md)$$F_{\$/€}=E_{\$/€}\cdot\frac{1+i_\$\cdot\frac{Number~of~Days}{Days~in~Year}}{1+i_€\cdot\frac{Number~of~Days}{Days~in~Year}}$$$$=\$1.0400\cdot\frac{1+. 0210\cdot\frac{92}{360}}{1+-. 00182\cdot\frac{92}{360}}=\$1.04$$
+Steps to Calculate Covered Interest Parity$$F_{\$/€}=E_{\$/€}\cdot\frac{1+i_\$\cdot\frac{Number~of~Days}{Days~in~Year}}{1+i_€\cdot\frac{Number~of~Days}{Days~in~Year}}$$$$=\$1.0400\cdot\frac{1+. 0210\cdot\frac{92}{360}}{1+-. 00182\cdot\frac{92}{360}}=\$1.04$$
 Forward Points = 1.046073 - 1.0400 =. 006073
 - Why are the forward points different from those in this calculation? Did I make a mistake?
 
 # Forward Foreign Exchange Swap (Bank New York Perspective)
- ![500](Attachments/500-610.jpg)
+ !500
 21, 2022, using our formula or
 \$1,046,641 using forward points
 
 ## Forward Foreign Exchange Swap
 - The difference results from timing
   - Forward points are dynamic throughout the day
-- [Interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) are changing constantly in both countries
-  - Published [interest rate quotes](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) are provided at a fixed point in time
+- Interest rates are changing constantly in both countries
+  - Published interest rate quotes are provided at a fixed point in time
  - “Fixing" rates
 - Since recent LIBOR fixing scandal
-  - [Interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) to be based on actual secured transactions
+  - Interest rates to be based on actual secured transactions
 
 # Interest Rates, Spot and Forward Exchange Rates
 Inputs of the model: Known variables. (Exogenous variables)
-Model of the spotmarket: Uncovered [interest parity](../International%20Finance/Covered%20and%20Uncovered%20Interest%20Parity.md)
- ![500](Attachments/500-577.jpg)
-Model of the [forward market](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2015/Tba%20and%20Specified%20Pools%20Markets.md): [Covered interest parity](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Interest%20Rates,%20Carry%20Trades,%20and%20Exchange%20Rate%20Movements.md)
+Model of the spotmarket: Uncovered interest parity
+ !500
+Model of the forward market: Covered interest parity
 Outputs of the model: Unknown variables. (Endogenous variables)
 
 ## Foreign Exchange Market Participants
-- The [foreign exchange market](../International%20Finance/Foreign%20Exchange%20Markets%20and%20Exchange%20Rate%20Determination.md) is dominated by trading amongst market participants
+- The foreign exchange market is dominated by trading amongst market participants
 - Commercial Banks
 -  Approximately 95% of all foreign exchange trading is "interbank"
   - Corporations
@@ -4118,29 +4118,29 @@ Outputs of the model: Unknown variables. (Endogenous variables)
 
 ## Foreign Exchange Market Participants
 - Nonbank financials
-  - [Hedge funds](../Financial%20Engineering/Basis%20Trade%20Explainer.md)
+  - Hedge funds
 - Position takers ·Market makers
-  - [Institutional investors](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%204%20Institutional%20Trading.md).
+  - Institutional investors.
 - Central Banks
 
 ## Government Actions
 - Capital Controls
-  - Constraints on [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) convertibility
+  - Constraints on currency convertibility
   - Flight capital
   - Official Market rate
 - Black (Parallel) Markets often exist
 - Central Bank (Ministry of Finance) Intervention
-  - Buys or sells domestic [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) against foreign currencies
-- Limited to foreign [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) and gold reserves
+  - Buys or sells domestic currency against foreign currencies
+- Limited to foreign currency and gold reserves
 
 # Foreign Exchange Markets
-- Market participants constantly make prices in [currency](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) pairs
+- Market participants constantly make prices in currency pairs
 -  Large customers solicit multiple prices for each trade
 -  Market makers solicit prices from each other
 - Over \$6 trillion per day in trades
-. Effectively no [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md) allowed
+. Effectively no arbitrage opportunities allowed
   - Price making extremely efficient
--  Multi-million dollar [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) to participate
+-  Multi-million dollar investment to participate
 
 ## Bank Foreign Exchange Risk Management
 - Caterpillar Inc. Wants to buy 100 million in a spot foreign exchange trade with Bank America
@@ -4149,7 +4149,7 @@ Outputs of the model: Unknown variables. (Endogenous variables)
   - What price does Caterpillar pay?
   - What is Bank America's position in Euros?
 -  What do you think Bank America does next?
-Bank Foreign Exchange [Risk Management](../Financial%20Engineering/Financial%20Mathematics%20Course.md)
+Bank Foreign Exchange Risk Management
 - Caterpillar must do one of four things:
   - "Take" the offer (which is what we know it intends to do, but Bank America does not)
 - “Hit" the bid (sell 100 million)
@@ -4163,16 +4163,16 @@ Bank Foreign Exchange [Risk Management](../Financial%20Engineering/Financial%20M
 
 ### Bank Foreign Exchange Risk Management Spot Foreign Exchange Transaction
 (October 28, 2020 for settlement October 30, 2020)
- ![500](Attachments/500-553.jpg)
+ !500
 
 ### Bank Foreign Exchange Risk Management Post Transaction
 Spot Foreign Exchange Transaction
 (October 28, 2020 for settlement October 30, 2020)
- ![500](Attachments/500-569.jpg)
+ !500
 
 ## Bank Foreign Exchange Risk Management
 - Caterpillar needs Euros to hedge revenue or expense risk or make a payment due in Euros
-  - May come back later to Bank America to roll Euros forward to another date through a [forward swap](../Financial%20Engineering/Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2039%20-%20Swaptions,%20Forward%20Swaps,%20and%20MBS.md)
+  - May come back later to Bank America to roll Euros forward to another date through a forward swap
 - Bank America will have position limits:
   - Maximum amount of Euros it may be long or short versus other currencies
 -  Maximum value at risk in Euros and all other currencies
@@ -4183,8 +4183,8 @@ Spot Foreign Exchange Transaction
   - Implies Bank America's offer of \$1.1760 was best available
 
 ### Bank Foreign Exchange Risk Management
- ![500](Attachments/500-606.jpg)
-Bank Foreign Exchange [Risk Management](../Financial%20Engineering/Financial%20Mathematics%20Course.md)
+ !500
+Bank Foreign Exchange Risk Management
 - Bank America will likely reduce or eliminate the risk taken on
 -  Will it buy or sell Euros in the interbank market?
  - Some banks it goes to may have also just quoted Caterpillar
@@ -4194,40 +4194,40 @@ Bank Foreign Exchange [Risk Management](../Financial%20Engineering/Financial%20M
 -  Bank C: $1.1757/1.1762
 -  Bank D: $1.1768/1.1778
 -  Bank E: $1.1760/1.1770
-Bank Foreign Exchange [Risk Management](../Financial%20Engineering/Financial%20Mathematics%20Course.md)
+Bank Foreign Exchange Risk Management
 - What should Bank America do?
 - It depends
   - Bank America's overall position in various currencies
   - Numerous other trades may cascade through the market
-- Until all [financial institutions](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) end up with desired positions
+- Until all financial institutions end up with desired positions
 -  Short-term equilibrium regarding this trade achieved
 
 # Unused Image Links
- ![500](Attachments/500-571.jpg)
- ![500](Attachments/500-569.jpg)
- ![500](Attachments/500-567.jpg)
- ![500](Attachments/500-574.jpg)
- ![500](Attachments/500-600.jpg)
- ![500](Attachments/500-573.jpg)
- ![500](Attachments/500-572.jpg)
- ![500](Attachments/500-571.jpg)
- ![500](Attachments/500-559.jpg)
- ![500](Attachments/500-560.jpg)
- ![500](Attachments/500-541.jpg)
- ![500](Attachments/500-570.jpg)
- ![500](Attachments/500-574.jpg)
- ![500](Attachments/500-606.jpg)
- ![500](Attachments/500-554.jpg)
- ![500](Attachments/500-574.jpg)
- ![500](Attachments/500-608.jpg)
- ![500](Attachments/500-578.jpg)
- ![500](Attachments/500-542.jpg)
- ![500](Attachments/500-580.jpg)
- ![500](Attachments/500-611.jpg)
- ![500](Attachments/500-606.jpg)
- ![500](Attachments/500-577.jpg)
- ![500](Attachments/500-578.jpg)
- ![500](Attachments/500-610.jpg)
- ![500](Attachments/500-610.jpg)
- ![500](Attachments/500-527.jpg)
- ![500](Attachments/500-606.jpg)
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500
+ !500

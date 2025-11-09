@@ -33,15 +33,15 @@ key_concepts:
 # Financial Ratios
 
 %% Begin Waypoint %%
-- **[Financial Ratios](.md)**
-	- [Comps DefiComps Definition, How They're Used in Analysis, and Example.md .gitFinderDeleted](Comps%20DefiComps%20Definition,%20How%20They're%20Used%20in%20Analysis,%20and%20Example.md%20%0E.gitFinderDeleted)
-	- [Comps Definition, How They're Used in Analysis, and Example](Comps%20Definition,%20How%20They're%20Used%20in%20Analysis,%20and%20Example.md)
-	- [Earnings Before Interest and Taxes (EBIT) Formula and Example](Earnings%20Before%20Interest%20and%20Taxes%20(EBIT)%20Formula%20and%20Example.md)
-	- [Financial Ratios](.md)
-	- [Fixed Asset Turnover Ratio](Fixed%20Asset%20Turnover%20Ratio.md)
-	- [Leverage Ratio](Leverage%20Ratio.md)
-	- [Operating Income vs. Net Income What's the Difference](Operating%20Income%20vs.%20Net%20Income%20What's%20the%20Difference.md)
-	- [Operating Margin](Operating%20Margin.md)
-	- [Price-to-Sales Ratios in Stock Valuation](Price-to-Sales%20Ratios%20in%20Stock%20Valuation.md)
+- **Financial Ratios**
+	- Comps DefiComps Definition, How They're Used in Analysis, and Example.md .gitFinderDeleted
+	- Comps Definition, How They're Used in Analysis, and Example
+	- Earnings Before Interest and Taxes (EBIT) Formula and Example%20Formula%20and%20Example.md)
+	- Financial Ratios
+	- Fixed Asset Turnover Ratio
+	- Leverage Ratio
+	- Operating Income vs. Net Income What's the Difference
+	- Operating Margin
+	- Price-to-Sales Ratios in Stock Valuation
 
 %% End Waypoint %%

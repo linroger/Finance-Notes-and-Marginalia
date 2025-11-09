@@ -1,31 +1,43 @@
 ---
-linter-yaml-title-alias: Temporary Guarantee Program For Money Funds
-title: Temporary Guarantee Program For Money Funds
+cssclasses:
+  - academia
+title: "Temporary Guarantee Program for Money Funds"
+linter-yaml-title-alias: "Temporary Guarantee Program for Money Funds"
 tags:
   - fund_liquidation
   - guarantee_event
   - mmf
   - temporary_guarantee_program
   - us_treasury
+  - 2008_financial_crisis
+  - emergency_program
+  - market_stability
+  - government_intervention
 aliases:
   - Guarantee Program
   - Temp MMF Guarantee
   - Temporary Guarantee Program
+  - "Treasury MMF Guarantee 2008"
 key_concepts:
   - Board findings
   - Fund liquidation required
   - Guarantee event triggers
   - Guarantee payment process
   - MMF stable NAV
+  - Treasury guarantee coverage
+  - Participation requirements
+  - Coverage limitations
+  - Extension provisions
+  - Crisis response measures
 ---
 
-# Temp MMF Guarantee 2008
+# Temporary Guarantee Program for Money Funds
 
-FROM THE [INVESTMENT](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) MANAGEMENT PRACTICE GROUP
+FROM THE INVESTMENT MANAGEMENT PRACTICE GROUP
 
 ## Executive Summary
 
-The following is an Executive Summary of certain of the relevant provisions of the U.S. Treasury Department's [Temporary Guarantee Program](.md) for [Primer](A%20[[An%20Asset%20Allocation%20Primer) on Money Market Mutual Funds|[Money Market Funds](Breaking%20the%20Buck.md)]]. For more information please contact the Paul Hastings Attorneys below.
+The following is an Executive Summary of certain of the relevant provisions of the U.S. Treasury Department's Temporary Guarantee Program for Primer on Money Market Mutual Funds | Money Market Funds]]. For more information please contact the Paul Hastings Attorneys below.
 
 ## Key Points
 
@@ -45,7 +57,7 @@ Guarantee Events and Guarantee Amount - A Guarantee Event is the first day after
 
 ## Requirements Upon A Guarantee Event
 
-- The Treasury must be informed of the occurrence of the Guarantee Event by midnight of the business day following the Guarantee Event. The Board must initiate action within 5 business days of the Guarantee Event to liquidate the Fund. The Treasury must receive written assurance that there is no legal impediment to the disbursement of the Guarantee Amount to the appropriate shareholders. The [Investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Adviser must execute an acknowledgement and Undertaking. Payment of the Guarantee Amount will be made on the first business day after submission of the required Payment Request Notice. Payment is made to the Fund and must be held in a separate interest bearing account,  segregated from Fund assets,  pending disbursement to shareholders. The Guarantee Amount is NOT deemed to be Fund assets. Interest earned on the Guarantee Amount pending distribution shall be remitted to the Treasury.
+- The Treasury must be informed of the occurrence of the Guarantee Event by midnight of the business day following the Guarantee Event. The Board must initiate action within 5 business days of the Guarantee Event to liquidate the Fund. The Treasury must receive written assurance that there is no legal impediment to the disbursement of the Guarantee Amount to the appropriate shareholders. The Investment Adviser must execute an acknowledgement and Undertaking. Payment of the Guarantee Amount will be made on the first business day after submission of the required Payment Request Notice. Payment is made to the Fund and must be held in a separate interest bearing account,  segregated from Fund assets,  pending disbursement to shareholders. The Guarantee Amount is NOT deemed to be Fund assets. Interest earned on the Guarantee Amount pending distribution shall be remitted to the Treasury.
 
 Ramification of Exercise of the Guarantee:
 
@@ -53,7 +65,7 @@ Ramification of Exercise of the Guarantee:
 
 ## Board Findings
 
-- Before entering into the Guarantee Agreement,  the Board must make the following finding: "The Board has determined that it is in the best interests of the Fund and its shareholders to maintain a stable net asset value or share price and,  in light of that finding,  the Fund's investments and other affairs are to be managed in a manner that is designed to reduce the likelihood that a Guarantee Event will occur or,  if such an event does occur,  to reduce the amount of the Guarantee Payment that may be payable under the Guarantee Agreement (including,  as necessary,  giving consideration to obtaining and drawing upon credit support for the Fund's [portfolio](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) securities or other accommodations or undertakings designed to maintain the Fund's stable net asset value or share price)".
+- Before entering into the Guarantee Agreement,  the Board must make the following finding: "The Board has determined that it is in the best interests of the Fund and its shareholders to maintain a stable net asset value or share price and,  in light of that finding,  the Fund's investments and other affairs are to be managed in a manner that is designed to reduce the likelihood that a Guarantee Event will occur or,  if such an event does occur,  to reduce the amount of the Guarantee Payment that may be payable under the Guarantee Agreement (including,  as necessary,  giving consideration to obtaining and drawing upon credit support for the Fund's portfolio securities or other accommodations or undertakings designed to maintain the Fund's stable net asset value or share price)".
 - Before entering into the Guarantee Agreement,  the Board (including a majority of the independent directors) must also make the following finding:
 "The Board has determined that entering into the Guarantee Agreement and the Fund's fulfillment of its obligations under the Guarantee Agreement is in the best interests of the Fund and its shareholders".
 
@@ -94,7 +106,7 @@ If the Program is extended,  only Funds participating in the Program at inceptio
 The Guarantee Agreement also contains additional provisions relating to:
 
 - The Fund's receipt of payments after receipt of the Guarantee Amount (such amounts to be forwarded to the Treasury),
-- Assignment of rights (Fund assigns to the Treasury all rights to claims,  demands,  lawsuits and judgments with respect to its business or ownership of its assets,  including any rights against the [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) adviser),
+- Assignment of rights (Fund assigns to the Treasury all rights to claims,  demands,  lawsuits and judgments with respect to its business or ownership of its assets,  including any rights against the investment adviser),
 - Indemnification (the Adviser agrees to indemnify the Treasury and the SEC for claims arising out of any breach of a representation or warranty they made to the Adviser as to itself or the Fund in the Guarantee Agreements or accompanying certificates or any breach of a covenant or obligation of the Adviser in the Guarantee Agreement or certificates),
 - Valuation of securities delivered to shareholders upon liquidation in-kind (market quotations,  or fair value if market quotations are not available),
 - Omnibus Accounts (the Fund and the Adviser shall use their best efforts to assure that Guarantee Payments are disbursed to the appropriate beneficial owners. The Fund will provide the Treasury and the SEC,  upon request,  with a written plan to this effect),  and

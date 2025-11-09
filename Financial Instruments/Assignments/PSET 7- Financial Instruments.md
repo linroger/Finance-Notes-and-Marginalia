@@ -51,12 +51,12 @@ Assume that the stock pays no dividends, and the continuously compounded interes
 > [!ANSWER]
 > The price of the American call at t=0 is $10.1457358
 > 
-> ![American call option tree](/Users/rogerlin/Reserve/VoyageLemma/Attachments/92cebeb95864bc4a296361c40c2c2e6f.png)
+> !American call option tree
 
 > [!ANSWER]
 > The price of the American put is $4.654588$
 > 
-> ![American put option tree](/Users/rogerlin/Reserve/VoyageLemma/Attachments/ec83b9f05d0ec6266517f834840946f0.png)
+> !American put option tree
 
 - (b) Are the American options computed in point (a) exercised before maturity? Discuss the intuition.
 
@@ -70,23 +70,23 @@ Assume that the stock pays no dividends, and the continuously compounded interes
 > [!ANSWER]
 > The value of the American call under 5% continuously compounded interest rate is $15.424132$. The value of the American put is $1.7824366$. Once again, the call is not exercised early. The put however, is still exercised early at T=2.
 > 
-> ![American call with 5% interest rate](/Users/rogerlin/Reserve/VoyageLemma/Attachments/7fec7bdb24c17f02a6b7187d6968379c.png)
+> !American call with 5% interest rate
 > 
-> ![American put with 5% interest rate](/Users/rogerlin/Reserve/VoyageLemma/Attachments/15e0c2b3aa6e65d382d5f7b039fd160f.png)
+> !American put with 5% interest rate
 
 (d) In case (a)-(b), with interest rate still at r = 2%, suppose that the firm now pays a 5% proportional dividend per year. How does your answer to point(c) change? Discuss.
 
 > [!ANSWER]
 > Value of American Call with Dividends is $5.70483$
 > 
-> ![American call with dividends](/Users/rogerlin/Reserve/VoyageLemma/Attachments/f9ef49fd213f16fa6496f725291e2007.png)
+> !American call with dividends
 
 > [!ANSWER]
 > Value of American Put with Dividends is $11.0599$
 > 
-> ![American put with dividends](/Users/rogerlin/Reserve/VoyageLemma/Attachments/0475e63afdbf889c5d28d2ef1607dd82.png)
+> !American put with dividends
 >
-> ![Binomial tree with dividends](/Users/rogerlin/Reserve/VoyageLemma/Attachments/c9b86e20df71de92d351c1682a0dc27c.png)
+> !Binomial tree with dividends
 
 ## 2 PART 2: CITIGROUP'S DEFAULT PROBABILITY DURING THE CREDIT CRISIS
 
@@ -98,32 +98,32 @@ It is Feb 2010, and you have been hired by the US Government to evaluate the eff
 
 Proceed as follows:
 
-| | Citigroup |
-|--------------------------|---------|
-| Deposits | 780.343 |
-| Short term | 352.274 |
-| Long term | 396.097 |
-| Other | 395.693 |
-| Total liabilities | 1924.407 |
-| Total equity | 126.062 |
-| Total assets | 2050.469 |
-| Mkt Cap on 2/13/2009 | 19.02 |
-| Stock Price on 2/13/2009 | 3.49 |
+| Citigroup | 
+ | -------------------------- | --------- | 
+ | Deposits | 780.343 | 
+ | Short term | 352.274 | 
+ | Long term | 396.097 | 
+ | Other | 395.693 | 
+ | Total liabilities | 1924.407 | 
+ | Total equity | 126.062 | 
+ | Total assets | 2050.469 | 
+ | Mkt Cap on 2/13/2009 | 19.02 | 
+ | Stock Price on 2/13/2009 | 3.49 | 
 
-| Date | Stock Price | Market Cap | Return | 22 day volatility |
-|----------|------------|-----------|---------|-------------------|
-| 10/14/08 | 18.35 | 100.0049 | 0.1675 | 1.894658 |
-| 10/13/08 | 15.52 | 84.58178 | 0.110241 | 1.803801 |
-| 10/10/08 | 13.9 | 75.75301 | 0.087142 | 1.755075 |
+ | Date | Stock Price | Market Cap | Return | 22 day volatility | 
+ | ---------- | ------------ | ----------- | --------- | ------------------- | 
+ | 10/14/08 | 18.35 | 100.0049 | 0.1675 | 1.894658 | 
+ | 10/13/08 | 15.52 | 84.58178 | 0.110241 | 1.803801 | 
+ | 10/10/08 | 13.9 | 75.75301 | 0.087142 | 1.755075 | 
 
-| Date | Stock Price | Market Cap | Return | 22 day volatility |
-|----------|------------|-----------|--------|-------------------|
-| 10/14/08 | 18.35 | 100.0049 | 0.1675 | 1.894658 |
+ | Date | Stock Price | Market Cap | Return | 22 day volatility | 
+ | ---------- | ------------ | ----------- | -------- | ------------------- | 
+ | 10/14/08 | 18.35 | 100.0049 | 0.1675 | 1.894658 | 
 
-| Date | Market yield on U.S. Treasury securities at 1-year constant maturity, quoted on investment basis |
-|----------|--------------------------------------------------------------------------------------------------|
-| 10/10/08 | 0.0108 |
-| 10/14/08 | 0.0122 |
+ | Date | Market yield on U.S. Treasury securities at 1-year constant maturity, quoted on investment basis | 
+ | ---------- | -------------------------------------------------------------------------------------------------- | 
+ | 10/10/08 | 0.0108 | 
+ | 10/14/08 | 0.0122 | 
 
 - Compute the number of shares (you will need them to compute the market capitalization in the next point.)
 
@@ -133,14 +133,14 @@ Proceed as follows:
 - Compute the value of assets and volatility of assets to match the market cap and equity volatility at the two dates above. The assets and volatility of assets will be different across dates. Please, note the tips at the end.
 - Compute probability of default with one year to maturity. Note that KMV identifies the "Default Point" as short term debt + 1/2 long term debt.
 
-![Merton Model](/Users/rogerlin/Reserve/VoyageLemma/Attachments/f38b8d64617760fde019fdc8e395e583.jpeg)
+!Merton Model
 
 After you do the calculations above, answer the following:
 
 (a) What was the effect of the bailout announcement on the probability of default? Discuss.
 
 - The announcement slightly increased the probability of default from 9.122% on 10/10 to 10.132% on 10/14. This seems to be counterintuitive, since we typically expect the announcement of a bailout to significantly bring down the expected probability of default.
-- ![Default probability comparison](/Users/rogerlin/Reserve/VoyageLemma/Attachments/7fe8097bf9c95a2919f0af227b856007.png)
+- !Default probability comparison
 
 (b) How does your answer to point (a) changes if you keep the volatility of assets σ constant to the value estimated on 10/10/2008 when you recompute the asset value at time 10/14/2008? (it is a simple change in the solver: only change assets but not volatility) Provide an intuition for the difference with (a).
 
@@ -149,12 +149,12 @@ After you do the calculations above, answer the following:
 (c) What was the credit spread before and after the announcement (choose what you think is most reasonable of your answers in (a) or (b), if you find any difference).
 
 - The credit spread before the announcement (on 10/10) was 0.02898 and the credit spread after the announcement (on 10/14) is 0.03982
-- ![Credit spread comparison](/Users/rogerlin/Reserve/VoyageLemma/Attachments/3fdac17bd64dfe392b2f8595a83ade7f.png)
+- !Credit spread comparison
 
 (d) The Paulson's Plan promised Citigroup a cash infusion of 25 billion from the US Treasury. Consider your calculated asset and equity values on 10/10/2008, and assume Citi suddenly gets the 25 bil cash infusion. What is the transfer to bond holders, if any? Discuss.
 
 - The debt value increases from $321.72876$ billion before the bailout to $324.85172$ billion after the bailout. This difference of about $3$ billion is the transfer to bondholders from the bailout package.
-- ![Transfer to bondholders](/Users/rogerlin/Reserve/VoyageLemma/Attachments/d68acb98496df7b7c8a89aac79b2d836.png)
+- !Transfer to bondholders
 
 ## TIPS
 
@@ -162,11 +162,11 @@ This exercise is complicated by the existence of multiple type of securities. Cl
 
 - To compute the value of equity, the residual claim after all of the debt, other liabilities, and deposits have been paid, you may assume:
 
-1. All deposits and short-term debt is super short-term, and in fact it will be paid instantly. This implies that for equity calculation purposes, $V - D - S$ is the relevant variable, where $V$ is the total value of the firm, $D$ is the total amount of deposits, and $S$ is the total amount of short-term debt.
+[^1]: All deposits and short-term debt is super short-term, and in fact it will be paid instantly. This implies that for equity calculation purposes, $V - D - S$ is the relevant variable, where $V$ is the total value of the firm, $D$ is the total amount of deposits, and $S$ is the total amount of short-term debt.
 
-2. Even after all short-term debt $S$ and deposits $D$ are paid out, you can still use Black and Scholes on the residual $V - D - S$ to compute the value of equity. Note that you still have long term debt $L$ and other liabilities $O$ to repay at $T$.
+[^2]: Even after all short-term debt $S$ and deposits $D$ are paid out, you can still use Black and Scholes on the residual $V - D - S$ to compute the value of equity. Note that you still have long term debt $L$ and other liabilities $O$ to repay at $T$.
 
-3. Assume that the value of assets $V$ has percentage volatility $\sigma$ both before and after you pay short-term debt and deposits. This implies that the volatility of equity today (before paying out everything) is
+[^3]: Assume that the value of assets $V$ has percentage volatility $\sigma$ both before and after you pay short-term debt and deposits. This implies that the volatility of equity today (before paying out everything) is
 
 $${\mathrm{Volatility~of~Equity}} = N(d_{1}) \times {\frac{V}{E}} \times \sigma$$
 

@@ -23,7 +23,7 @@ key_concepts:
 
 ### EXPLANATION OF THE IMPLIED FORWARD RATE CALCULATION
 
-The calculation of the implied two-year [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) one year forward (denoted as $f_{1,3}$) involves equating the holding-period [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) of two different bonds: a three-year zero-coupon bond and a one-year zero-coupon bond. The key idea is that the value of the two-year [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) after one year determines the holding-period return of what is today a three-year zero-coupon bond.
+The calculation of the implied two-year spot rate one year forward (denoted as $f_{1,3}$) involves equating the holding-period returns of two different bonds: a three-year zero-coupon bond and a one-year zero-coupon bond. The key idea is that the value of the two-year spot rate after one year determines the holding-period return of what is today a three-year zero-coupon bond.
 
 #### EQUATION (5): HOLDING-PERIOD RETURNS EQUIVALENCE
 
@@ -34,10 +34,10 @@ $$
 
 Let's break down this equation and define all the variables:
 
-- $s_3$: The current three-year [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md).
-- $s_1$: The current one-year [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md).
-- $f_{1,3}$: The implied [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) for the period from year 1 to year 3 (i.e., the two-year [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) one year forward).
-- $Dur_2$: The [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of the two-year bond (after one year, this is the relevant [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) for the three-year zero-coupon bond).
+- $s_3$: The current three-year spot rate.
+- $s_1$: The current one-year spot rate.
+- $f_{1,3}$: The implied forward rate for the period from year 1 to year 3 (i.e., the two-year spot rate one year forward).
+- $Dur_2$: The duration of the two-year bond (after one year, this is the relevant duration for the three-year zero-coupon bond).
 #### INTERPRETATION OF EQUATION (5)
 - The left-hand side of Equation (5) represents the approximate holding-period return of the three-year zero-coupon bond, given a selling rate $f_{1,3}$.
 - The right-hand side represents the holding-period return of the one-year zero-coupon bond.
@@ -45,24 +45,24 @@ Let's break down this equation and define all the variables:
 
 Rearranging Equation (5) to solve for $f_{1,3}$:
 
-1. **Starting with the original equation:**
+[^1]: **Starting with the original equation:**
 	$$
     s_3 - Dur_2 \cdot (f_{1,3} - s_3) = s_1
     $$
-2. **Isolating $f_{1,3} - s_3$:**
+[^2]: **Isolating $f_{1,3} - s_3$:**
 	$$
     -Dur_2 \cdot (f_{1,3} - s_3) = s_1 - s_3
     $$
-3. **Dividing both sides by $-Dur_2$:**
+[^3]: **Dividing both sides by $-Dur_2$:**
 	$$
     f_{1,3} - s_3 = \frac{s_3 - s_1}{Dur_2}
     $$
 
-This equation shows that the break-even yield change for the three-year zero-coupon bond is equal to the yield spread divided by the bond's [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) at the horizon.
+This equation shows that the break-even yield change for the three-year zero-coupon bond is equal to the yield spread divided by the bond's duration at the horizon.
 
 ### OBSERVATION ON YIELD SPREAD AND CARRY
 
-A large yield spread $s_3 - s_1$ means that a purchase of a three-year zero financed by the sale of a one-year zero has a large positive "carry." This carry provides a cushion against rising rates because the trade profits from falling rates and suffers from rising rates. The trade will only lose money if the two-year [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) rises above $f_{1,3}$ in one year.
+A large yield spread $s_3 - s_1$ means that a purchase of a three-year zero financed by the sale of a one-year zero has a large positive "carry." This carry provides a cushion against rising rates because the trade profits from falling rates and suffers from rising rates. The trade will only lose money if the two-year spot rate rises above $f_{1,3}$ in one year.
 
 ### BREAK-EVEN YIELD CHANGE
 
@@ -70,47 +70,47 @@ The break-even yield change $f_{1,3} - s_3$ shows how much the three-year zero's
 
 ### EQUATION (6): IMPLIED CHANGE IN THE TWO-YEAR SPOT RATE
 
-The combined effect of the yield advantage and the roll-down component leads to the question: **How much should the constant-maturity two-year [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) change in the next year to make the three-year zero and the one-year zero earn the same return?** This is given by:
+The combined effect of the yield advantage and the roll-down component leads to the question: **How much should the constant-maturity two-year spot rate change in the next year to make the three-year zero and the one-year zero earn the same return?** This is given by:
 $$
 \Delta\mathrm{f}_2 = (f_{1,3} - s_3) + (s_3 - s_2) = f_{1,3} - s_2 \tag{6}
 $$
 
 Where:
 
-- $\Delta f_2$: The implied, or break-even, change in the two-year [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) over the next year.
-- $s_2$: The current two-year [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md).
+- $\Delta f_2$: The implied, or break-even, change in the two-year spot rate over the next year.
+- $s_2$: The current two-year spot rate.
 ### EXPLANATION OF YIELD SPREAD AND CARRY
 #### WHAT IS "CARRY"?
 
-In finance, **carry** refers to the cost or benefit of holding an [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) or a financial position over a period of time. For bonds, carry can be understood as the yield or return obtained from holding the bond.
+In finance, **carry** refers to the cost or benefit of holding an investment or a financial position over a period of time. For bonds, carry can be understood as the yield or return obtained from holding the bond.
 For example:
 
-- **Positive Carry** Occurs when the yield on the [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is greater than the cost of financing the [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md).
-- **Negative Carry** Occurs when the cost of financing the [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is greater than the yield obtained from the [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md).
+- **Positive Carry** Occurs when the yield on the investment is greater than the cost of financing the investment.
+- **Negative Carry** Occurs when the cost of financing the investment is greater than the yield obtained from the investment.
 #### YIELD SPREAD
 
-The **yield spread** is the difference between the yields of two different bonds or [debt instruments](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Corporate%20Bonds%20and%20Loans.md). It is a measure of the difference in return between two bonds, often used to assess the relative value or attractiveness of one bond over another.
+The **yield spread** is the difference between the yields of two different bonds or debt instruments. It is a measure of the difference in return between two bonds, often used to assess the relative value or attractiveness of one bond over another.
 
 #### LARGE YIELD SPREAD AND POSITIVE CARRY
 
 When the yield spread between a three-year zero-coupon bond and a one-year zero-coupon bond is large, it implies that the three-year bond has a significantly higher yield compared to the one-year bond. This situation is conducive to **positive carry** when you finance the purchase of the three-year bond by selling the one-year bond.
 
-1. **High Yield on the Three-Year Bond**:
+[^1]: **High Yield on the Three-Year Bond**:
 		 - The three-year zero-coupon bond offers a higher yield ($s_3$) compared to the one-year zero-coupon bond ($s_1$).
 
-2. **Financing the Position**:
+[^2]: **Financing the Position**:
 		 - To finance the purchase of the three-year bond, you sell a one-year bond. Essentially, you are borrowing at the one-year yield ($s_1$) and investing in the three-year yield ($s_3$).
 
-3. **Positive Carry**:
+[^3]: **Positive Carry**:
 		 - The **carry** in this context is the difference between the yield on the three-year bond and the cost of financing through the one-year bond.
-		 - When the yield spread ($s_3 - s_1$) is large, this difference is positive, indicating that the yield from holding the three-year bond is greater than the [financing cost](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) from selling the one-year bond.
-		 - This **positive carry** means you earn more from the [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in the three-year bond than what you pay to finance it through the one-year bond.
+		 - When the yield spread ($s_3 - s_1$) is large, this difference is positive, indicating that the yield from holding the three-year bond is greater than the financing cost from selling the one-year bond.
+		 - This **positive carry** means you earn more from the investment in the three-year bond than what you pay to finance it through the one-year bond.
 #### WHY THIS MUST BE SO
 
-The concept of carry relies on the relationship between the yield on the [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and the cost of financing it:
+The concept of carry relies on the relationship between the yield on the investment and the cost of financing it:
 
-- **Positive Carry** If the [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) yield ($s_3$) exceeds the [financing cost](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) ($s_1$), the position generates a net positive return. The larger the yield spread, the greater this positive return or carry.
-- **[Risk Management](../../Financial%20Engineering/Financial%20Mathematics%20Course.md)** Investors often seek positive carry positions as they can provide [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) even if market conditions remain stable. The positive carry offers a cushion against adverse movements in yields.
+- **Positive Carry** If the investment yield ($s_3$) exceeds the financing cost ($s_1$), the position generates a net positive return. The larger the yield spread, the greater this positive return or carry.
+- **Risk Management** Investors often seek positive carry positions as they can provide returns even if market conditions remain stable. The positive carry offers a cushion against adverse movements in yields.
 ### BREAKEVEN YIELD CHANGE FOR THE THREE-YEAR ZERO-COUPON BOND
 #### CONCEPT OF BREAKEVEN YIELD CHANGE
 
@@ -118,53 +118,53 @@ The **breakeven yield change** for a bond is the amount by which the yield on th
 
 #### DERIVATION FROM EQUATION (5)
 
-The breakeven yield change can be derived from the [holding-period returns equivalence](.md) equation:
+The breakeven yield change can be derived from the holding-period returns equivalence equation:
 $$
 s_3 - Dur_2 \cdot (f_{1,3} - s_3) = s_1 \tag{5}
 $$
 
 Let's break this down:
 
-- $s_3$: Current three-year [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md).
-- $s_1$: Current one-year [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md).
-- $f_{1,3}$: Implied [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) for the period from year 1 to year 3 (two-year [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) one year forward).
-- $Dur_2$: [Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of the two-year bond (after one year, this is the relevant [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) for the three-year zero-coupon bond).
+- $s_3$: Current three-year spot rate.
+- $s_1$: Current one-year spot rate.
+- $f_{1,3}$: Implied forward rate for the period from year 1 to year 3 (two-year spot rate one year forward).
+- $Dur_2$: Duration of the two-year bond (after one year, this is the relevant duration for the three-year zero-coupon bond).
 #### REARRANGING EQUATION (5)
 
 To find the breakeven yield change, we need to isolate $f_{1,3} - s_3$:
 
-1. **Starting with the original equation:**
+[^1]: **Starting with the original equation:**
    $$
    s_3 - Dur_2 \cdot (f_{1,3} - s_3) = s_1
    $$
-2. **Isolating $f_{1,3} - s_3$:**
+[^2]: **Isolating $f_{1,3} - s_3$:**
    $$
    -Dur_2 \cdot (f_{1,3} - s_3) = s_1 - s_3
    $$
-3. **Dividing both sides by $-Dur_2$:**
+[^3]: **Dividing both sides by $-Dur_2$:**
    $$
    f_{1,3} - s_3 = \frac{s_3 - s_1}{Dur_2}
    $$
 
-This equation tells us that the **breakeven yield change** for the three-year zero-coupon bond is the yield spread divided by the bond's [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) at the horizon.
+This equation tells us that the **breakeven yield change** for the three-year zero-coupon bond is the yield spread divided by the bond's duration at the horizon.
 
 #### INTERPRETATION OF THE BREAKEVEN YIELD CHANGE
-1. **Yield Spread** The numerator $s_3 - s_1$ represents the yield spread between the three-year and the one-year bonds.
-2. **[Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)** The denominator $Dur_2$ represents the [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) of the bond, which measures its sensitivity to changes in yield.
+[^1]: **Yield Spread** The numerator $s_3 - s_1$ represents the yield spread between the three-year and the one-year bonds.
+[^2]: **Duration** The denominator $Dur_2$ represents the duration of the bond, which measures its sensitivity to changes in yield.
 The breakeven yield change, therefore, quantifies the yield change that would offset the carry advantage of the three-year zero-coupon bond. If the yield on the three-year bond changes by this amount, the bond's price change would precisely offset the yield advantage provided by the carry.
 #### WHY IT MATTERS
 
-The breakeven yield change is crucial for understanding the risk and potential return of holding a longer-[duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) bond. If the actual yield change is less than the breakeven yield change, the bondholder benefits from a positive carry. If the actual yield change exceeds the breakeven yield change, the bondholder faces a loss that outweighs the carry advantage.
+The breakeven yield change is crucial for understanding the risk and potential return of holding a longer-duration bond. If the actual yield change is less than the breakeven yield change, the bondholder benefits from a positive carry. If the actual yield change exceeds the breakeven yield change, the bondholder faces a loss that outweighs the carry advantage.
 
-![500](Understanding%20the%20Yield%20Curve%20Notes-20240606051910146.png)
-![500](Untitled%204-20240606050433558.png)
+!500
+!500
 
 ### SUMMARY
-- The calculation aims to find the implied [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) $f_{1,3}$ by equating the holding-period [returns](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) of a three-year and a one-year zero-coupon bond.
+- The calculation aims to find the implied forward rate $f_{1,3}$ by equating the holding-period returns of a three-year and a one-year zero-coupon bond.
 - The break-even yield change for the three-year zero is $f_{1,3} - s_3 = \frac{s_3 - s_1}{Dur_2}$.
-- The combined effect of yield spread and roll-down effect leads to the implied change in the two-year [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) $\Delta f_2 = f_{1,3} - s_2$.
-- A large yield spread between the three-year zero-coupon bond and the one-year zero-coupon bond results in a large positive carry when you finance the purchase of the three-year bond by selling the one-year bond. This must be so because the yield obtained from the [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) exceeds the cost of financing it, generating a net positive return. Carry, in this context, is the yield advantage you gain from holding the longer-[duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) bond over the shorter-[duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) bond.
+- The combined effect of yield spread and roll-down effect leads to the implied change in the two-year spot rate $\Delta f_2 = f_{1,3} - s_2$.
+- A large yield spread between the three-year zero-coupon bond and the one-year zero-coupon bond results in a large positive carry when you finance the purchase of the three-year bond by selling the one-year bond. This must be so because the yield obtained from the investment exceeds the cost of financing it, generating a net positive return. Carry, in this context, is the yield advantage you gain from holding the longer-duration bond over the shorter-duration bond.
 - The breakeven yield change for a three-year zero-coupon bond indicates the amount by which the bond's yield can rise before the carry advantage is offset.
-- It is derived from the [holding-period returns equivalence](.md) equation.
-- The breakeven yield change is calculated as the yield spread divided by the bond's [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md).
-- It is a key measure for assessing the risk and potential return of holding the bond, helping investors understand the yield movement threshold that impacts their [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md).
+- It is derived from the holding-period returns equivalence equation.
+- The breakeven yield change is calculated as the yield spread divided by the bond's duration.
+- It is a key measure for assessing the risk and potential return of holding the bond, helping investors understand the yield movement threshold that impacts their investment.

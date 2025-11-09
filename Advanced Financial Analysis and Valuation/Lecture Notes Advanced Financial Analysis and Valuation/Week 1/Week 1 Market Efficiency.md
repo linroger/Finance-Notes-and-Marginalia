@@ -85,9 +85,9 @@ key_concepts:
 
 ## IGM Economic Experts Panel
 
- ![500](6d029c0b93c5e1306e0bd89a357b2460.png)
+ !500
 
- ![500](96ef0ef703925d27785c463e18e11bc4.png)
+ !500
 
 Baxter International (NYSE: BAX) is a bioscience and medical products firm headquartered in Deerfield, IL
 
@@ -97,15 +97,15 @@ From: Cohen et al. Journal of Finance 2020
 
 ## Example Illustrating the Forces: Lazy Prices
 
- ![500](38f7fbd76d3b5b33dc9424816043b819.png)
+ !500
 
 ## How Did the Market React?
 
- ![500](d9670a3207a5153a7bf01f0a24809b04.png)
+ !500
 
 ### Baxter 10-K in 2008 and 2009 in Comparison
 
- ![500](18d7ddbdc7844f507d1bd64cb800d572.png)
+ !500
 
 Note that the 10-K released in Feb 2010 is the one for fiscal 2009
 
@@ -187,7 +187,7 @@ Note that the 10-K released in Feb 2010 is the one for fiscal 2009
 
 ## Rise of Alternative Data
 
- ![500](46f5e9fc7f2f53a14ec51e18d7eddaaa.png)
+ !500
 
 - In search of a true info advantage
     - Location, credit card, social media data, etc.

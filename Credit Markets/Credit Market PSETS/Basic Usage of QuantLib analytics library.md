@@ -22,38 +22,38 @@ key_concepts:
 ## More details at: https://quantlib-python-docs.readthedocs.io/en/latest/
 
 - 1\. Objects and Handles
-  - a. Define a [quote object](.md) and inspect the value
-  - b. Define quoteHandle as a handle/smart pointer to the [quote object](.md)
-  - c. Calendars and [day-count conventions](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Day-Count%20Conventions.md)
-- 2\. [Cashflow Schedules](Credit%20Markets%20Homework%202.md)
+  - a. Define a quote object and inspect the value
+  - b. Define quoteHandle as a handle/smart pointer to the quote object
+  - c. Calendars and day-count conventions
+- 2\. Cashflow Schedules
   - a. Construct semi-annual cashflow schedule object,  for fixed-rate bonds
   - b. Inspect the semi-annual cashflow schedule
   - c. Construct quarterly cashflow schedule object,  for floating-rate bonds
   - d. Inspect the quarterly cashflow schedule
-- 3\. [Discount Curve](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) / Yield Curve [Term Structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md)
+- 3\. Discount Curve / Yield Curve Term Structure
   - a. Constructing a Flat Yield Curve
-  - b. Inspect the [discount curve](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md)
+  - b. Inspect the discount curve
 - 4\. Fixed and Floating Rate Bonds
   - a. Constructing a fixed rate bond object
   - b. Investigate the fixed-rate bond cash-flows
   - c. Constructing a floating rate bond object: linked to SOFR index
-- 5\. Bond Present Value Calculation (no [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md))
-  - a. Direct function call using risk-free bond [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) engine
+- 5\. Bond Present Value Calculation (no credit risk)
+  - a. Direct function call using risk-free bond pricing engine
   - b. Manual Calculation to validate PV (for fixed and floating-rate bonds)
   - c. Bond Clean vs Dirty Prices (adjusted to settle date)
 - 6\. Market Data Scenarios
-  - a. Apply +/-1 bp parallel shift scenarios in [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) curve and compute scenario prices
-  - b. Compute scenario DV 01,  [duration and convexity](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%208/An%20Analytical%20Decomposition%20of%20Forward%20Rates.md)
+  - a. Apply +/-1 bp parallel shift scenarios in interest rates curve and compute scenario prices
+  - b. Compute scenario DV 01,  duration and convexity
   - c. Yield to Price conversions
   - d. Price to Yield conversions
-- 7\. Analytical [Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md),  [Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) and [Z-Spread](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Relative%20Value%20Analysis.md) (flat yield model)
-  - a. Compute bond [duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md),  [convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) and [Z-Spread](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Relative%20Value%20Analysis.md)
-  - b. Validate [Z-Spread](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Relative%20Value%20Analysis.md)
-- 8\. Treasury Yield Curve [Calibration](../Credit%20Markets%20Session%204.md) (via Bootstrapping)
-  - a. Calibrate treasury flat yield curve (simple case of one [calibration](../Credit%20Markets%20Session%204.md) instrument)
-  - b. Display the calibrated Treasury [discount curve](Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) dataframe
+- 7\. Analytical Duration,  Convexity and Z-Spread (flat yield model)
+  - a. Compute bond duration,  convexity and Z-Spread
+  - b. Validate Z-Spread
+- 8\. Treasury Yield Curve Calibration (via Bootstrapping)
+  - a. Calibrate treasury flat yield curve (simple case of one calibration instrument)
+  - b. Display the calibrated Treasury discount curve dataframe
   - c. Plot the calibrated Treasury Zero Rates and Discount Factors curves
-  - d. Reprice the bond on the yield curve to validate the [calibration](../Credit%20Markets%20Session%204.md)
+  - d. Reprice the bond on the yield curve to validate the calibration
 ```python
 Import QuantLib as ql
 Import numpy as np
@@ -70,8 +70,8 @@ Quote.SetValue (. 02)
 Print (quote.Value ())
 ```
 
-    0.01
-    0.02
+[^0]: 01
+[^0]: 02
 
 ## b. Define quoteHandle as a handle/smart pointer to the quote object
 ```python
@@ -79,7 +79,7 @@ QuoteHandle = ql.QuoteHandle (quote)
 QuoteHandle.Value ()
 ```
 
-    0.02
+[^0]: 02
 
 ### When the quote object is changed,  the quoteHandle changes value as well
 ```python
@@ -87,7 +87,7 @@ Quote.SetValue (. 03)
 QuoteHandle.Value ()
 ```
 
-    0.03
+[^0]: 03
 
 ## c. Calendars and day-count conventions
 ```python
@@ -152,7 +152,7 @@ Print ("End Date: ",         fixed_rate_schedule.EndDate ())
 
     All dates:  [Date (2,        4,        2024),         Date (2,        10,        2024),         Date (2,        4,        2025),         Date (2,        10,        2025),         Date (2,        4,        2026),         Date (2,        10,        2026),         Date (2,        4,        2027),         Date (2,        10,        2027),         Date (2,        4,        2028)]
     Length:  9
-    The 3 rd coupon date:  [<[QuantLib](../../Course%20Notes/Python/QuantLib-Python/Introduction%20to%20QuantLib%20Python.md).[QuantLib](../../Course%20Notes/Python/QuantLib-Python/Introduction%20to%20QuantLib%20Python.md).Schedule; proxy of <Swig Object of type 'Schedule *' at 0x17891c9c0> >]
+    The 3 rd coupon date:  <[QuantLib.QuantLib.Schedule; proxy of <Swig Object of type 'Schedule *' at 0x17891c9c0> >]
     Start Date:  April 2 nd,         2024
     End Date:  April 2 nd,         2028
 
@@ -236,9 +236,9 @@ Print ("Difference in Discount Factor: ",         flat_yield_curve.Discount (tes
     Reference Date = April 2 nd,         2024
     Test Date = June 30 th,         2025
     Year Fraction between Reference Date and Test Date :  1.261111111111111
-    [Discount Factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) for Test Date June 30 th,         2025 :  0.9388913116117773
+    Discount Factor for Test Date June 30 th,         2025 :  0.9388913116117773
     Custom DF calculation for Test Date June 30 th,         2025 :  0.9388913116117772
-    Difference in [Discount Factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md): 1.1102230246251565 e-16
+    Difference in Discount Factor: 1.1102230246251565 e-16
 
 # 4. Fixed and Floating Rate Bonds
 ## a. Constructing a fixed rate bond object
@@ -290,15 +290,15 @@ Display (cf_frame_fixed)
 ```
 
             CashFlowDate  CashFlowAmount
-    0  October 2 nd,         2024             2.0
-    1    April 2 nd,         2025             2.0
-    2  October 2 nd,         2025             2.0
-    3    April 2 nd,         2026             2.0
-    4  October 2 nd,         2026             2.0
-    5    April 2 nd,         2027             2.0
-    6  October 2 nd,         2027             2.0
-    7    April 2 nd,         2028             2.0
-    8    April 2 nd,         2028           100.0
+[^0]: October 2 nd,         2024             2.0
+[^1]: April 2 nd,         2025             2.0
+[^2]: October 2 nd,         2025             2.0
+[^3]: April 2 nd,         2026             2.0
+[^4]: October 2 nd,         2026             2.0
+[^5]: April 2 nd,         2027             2.0
+[^6]: October 2 nd,         2027             2.0
+[^7]: April 2 nd,         2028             2.0
+[^8]: April 2 nd,         2028           100.0
 
 ## c. Constructing a floating rate bond object: linked to SOFR index
 ```python
@@ -334,23 +334,23 @@ Print (cf_frame_float)
 ```
 
              CashFlowDate  CashFlowAmount
-    0      July 2 nd,         2024        1.335104
-    1   October 2 nd,         2024        1.349865
-    2   January 2 nd,         2025        1.349865
-    3     April 2 nd,         2025        1.320345
-    4      July 2 nd,         2025        1.335104
-    5   October 2 nd,         2025        1.349865
-    6   January 2 nd,         2026        1.349865
-    7     April 2 nd,         2026        1.320345
-    8      July 2 nd,         2026        1.335104
-    9   October 2 nd,         2026        1.349865
-    10  January 2 nd,         2027        1.350044
-    11    April 2 nd,         2027        1.320520
-    12     July 2 nd,         2027        1.335104
-    13  October 2 nd,         2027        1.350044
-    14  January 2 nd,         2028        1.350044
-    15    April 2 nd,         2028        1.335370
-    16    April 2 nd,         2028      100.000000
+[^0]: July 2 nd,         2024        1.335104
+[^1]: October 2 nd,         2024        1.349865
+[^2]: January 2 nd,         2025        1.349865
+[^3]: April 2 nd,         2025        1.320345
+[^4]: July 2 nd,         2025        1.335104
+[^5]: October 2 nd,         2025        1.349865
+[^6]: January 2 nd,         2026        1.349865
+[^7]: April 2 nd,         2026        1.320345
+[^8]: July 2 nd,         2026        1.335104
+[^9]: October 2 nd,         2026        1.349865
+[^10]: January 2 nd,         2027        1.350044
+[^11]: April 2 nd,         2027        1.320520
+[^12]: July 2 nd,         2027        1.335104
+[^13]: October 2 nd,         2027        1.350044
+[^14]: January 2 nd,         2028        1.350044
+[^15]: April 2 nd,         2028        1.335370
+[^16]: April 2 nd,         2028      100.000000
 
 # 5. Bond Present Value Calculation (no credit risk)
 ## a. Direct function call using risk-free bond pricing engine
@@ -520,7 +520,7 @@ Print ('Bond Accrued = ',         round (fixed_rate_bond.AccruedAmount (),      
 
     Bond Notional =  100.0
     Settle Date =  April 3 rd,         2024
-    [Discount Factor](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) to Settle Date =  0.9999
+    Discount Factor to Settle Date =  0.9999
     Bond NPV (Calc Date) =  95.9332
     Bond NPV Adjusted to Settle Date =  95.9465
     Bond Dirty Price =  95.9465
@@ -578,8 +578,8 @@ Print ("Convexity: ",         convexity)
 ```
 
     DV 01:  3.6283
-    [Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md):  3.7816
-    [Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md):  14.9262
+    Duration:  3.7816
+    Convexity:  14.9262
 
 ## c. Yield to Price conversions
 ```python
@@ -645,9 +645,9 @@ Print ('Bond Z-Spread bps =',         round (bond_zspread * 10000,         4))
 
 ```
 
-    Bond [Duration](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) = 3.6247
-    Bond [Convexity](../../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/PSET%20II%20Fixed%20Income%20Asset%20Pricing%201.md) = 15.4882
-    Bond [Z-Spread](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Relative%20Value%20Analysis.md) bps = 26.5978
+    Bond Duration = 3.6247
+    Bond Convexity = 15.4882
+    Bond Z-Spread bps = 26.5978
 
 ## b. Validate Z-Spread
 ```python
@@ -674,7 +674,7 @@ Print ('bond_zspread_price =',         bond_zspread_price)
 Print ('bond price diff =',         bond_zspread_price - bond_market_price)
 ```
 
-    Bond [Z-Spread](../../Financial%20Engineering/Fixed%20Income%20Derivatives/Relative%20Value%20Analysis.md) bps = 26.6
+    Bond Z-Spread bps = 26.6
     Bond_market_price = 95
     Bond_zspread_price = 94.99999999999486
     Bond price diff = -5.144329406903125 e-12
@@ -919,9 +919,9 @@ Plt. Set_xlabel ('Date')
 ```
 
     Text (0.5,         0,         'Date')
-![png](CreditMarketSolutions_101_1.png)
+!png
 
-![png](CreditMarketSolutions_101_2.png)
+!png
 
 ## d. Reprice the bond on the yield curve to validate the calibration
 ```python

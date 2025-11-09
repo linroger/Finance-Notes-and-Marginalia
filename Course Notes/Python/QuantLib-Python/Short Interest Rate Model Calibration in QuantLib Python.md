@@ -23,13 +23,13 @@ key_concepts:
 
 # Short Interest Rate Model Calibration in QuantLib Python
 
-Provides examples of short [interest rate model](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) [calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md) to swaption volatilities in [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md)
+Provides examples of short interest rate model calibration to swaption volatilities in QuantLib Python
 
-*Visit here for other [QuantLib Python]([Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python) examples](http://gouthamanbalaraman.com/blog/[quantlib](Introduction%20to%20QuantLib%20Python.md)-python-tutorials-with-examples.html). If you found these posts useful,  please take a minute by providing some [feedback.](https://docs.google.com/forms/d/e/1FAIpQLSdFdJ768HKmIyJmaVRHBUJNY5NyQl6vr0GZvSkx-bUfIloNZA/viewform)*
+*Visit here for other QuantLib Python examples](http://gouthamanbalaraman.com/blog/quantlib-python-tutorials-with-examples.html). If you found these posts useful,  please take a minute by providing some feedback.*
 
-I have talked about [Hull-White model](On%20the%20Convergence%20of%20Hull%20White%20Monte%20Carlo%20Simulations.md) in my earlier blog posts. The focus of those posts was to see how to use the model classes. The model parameters were assumed to be given. However in practice,  the model parameters need to calibrated from market data. Typically instruments such as swaptions,  caps or [floors](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Caps%20and%20Floors.md) and their market prices / volatilities are taken as inputs. Then the model parameters are fit in such a way that the [model prices](../../../Credit%20Markets/Credit%20Markets%20Session%204.md) these options close enough. The goodness of fit depends,  apart from the choice of the numerical methods,  on the type of model itself. This is because models such as Hull-White 1 factor cannot fit some of the humped volatility term structures observed in the market. Never the less,  Hull-White is usually a good starting point to understand [calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md) process.
+I have talked about Hull-White model in my earlier blog posts. The focus of those posts was to see how to use the model classes. The model parameters were assumed to be given. However in practice,  the model parameters need to calibrated from market data. Typically instruments such as swaptions,  caps or floors and their market prices / volatilities are taken as inputs. Then the model parameters are fit in such a way that the model prices these options close enough. The goodness of fit depends,  apart from the choice of the numerical methods,  on the type of model itself. This is because models such as Hull-White 1 factor cannot fit some of the humped volatility term structures observed in the market. Never the less,  Hull-White is usually a good starting point to understand calibration process.
 
-Here we will discuss [Hull-White model](On%20the%20Convergence%20of%20Hull%20White%20Monte%20Carlo%20Simulations.md) in detail. Then we will also show how the same procedure can be applied to calibrate other [short rate](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) models.
+Here we will discuss Hull-White model in detail. Then we will also show how the same procedure can be applied to calibrate other short rate models.
 
 In \[1\]:
 ```latex
@@ -40,12 +40,12 @@ import math
 
 ## Hull-White 1 Factor Model
 
-[Hull-White model](On%20the%20Convergence%20of%20Hull%20White%20Monte%20Carlo%20Simulations.md) was one of the first practical exogenous models that attempted to fit to the market interest rate term structures. The model is described as:
+Hull-White model was one of the first practical exogenous models that attempted to fit to the market interest rate term structures. The model is described as:
 $$
 d r_{t} = \left(\right. \theta \left(\right. t \left.\right) - a r_{t} \left.\right) d t + \sigma d W_{t}
 $$
 
-where $a$ is the [mean reversion](../../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) constant,  $\sigma$ is the volatility parameter. The parameter $\theta \left(\right. t \left.\right)$ is chosen in order to fit the input [term structure of interest rates](../../../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md).
+where $a$ is the mean reversion%20Process.md) constant,  $\sigma$ is the volatility parameter. The parameter $\theta \left(\right. t \left.\right)$ is chosen in order to fit the input term structure of interest rates.
 
 What is the "right" value for parameters $a$ and $\sigma$? This is the question that we address by calibrating to market instruments.
 
@@ -75,7 +75,7 @@ data = [CalibrationData(1,  5,  0.1148),
 
 ### Calibrating Reversion and Volaitility
 
-Here we use the `JamshidianSwaptionEngine` to value the swaptions as part of [calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md). The `JamshidianSwaptionEngine` requires one-factor affine models as input. For other interest rate models,  we need a [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) engine that is more suited to those models.
+Here we use the `JamshidianSwaptionEngine` to value the swaptions as part of calibration. The `JamshidianSwaptionEngine` requires one-factor affine models as input. For other interest rate models,  we need a pricing engine that is more suited to those models.
 
 In \[5\]:
 ```latex
@@ -141,7 +141,7 @@ Cumulative Error :         0.11614
 
 ### Calibrating Volatility With Fixed Reversion
 
-Some times we need to calibrate with one parameter held fixed. This can be done in the [QuantLib](Introduction%20to%20QuantLib%20Python.md) libraries. However,  this ability is not exposed in the SWIG wrappers as of version 1.6. I have created a [github issue](https://github.com/lballabio/[quantlib](Introduction%20to%20QuantLib%20Python.md)/issues/336) and provided a patch to address this issue. You will need this patch to execute the following cells. Below,  the model is calibrated with a fixed reversion value of 5%.
+Some times we need to calibrate with one parameter held fixed. This can be done in the QuantLib libraries. However,  this ability is not exposed in the SWIG wrappers as of version 1.6. I have created a github issue/issues/336) and provided a patch to address this issue. You will need this patch to execute the following cells. Below,  the model is calibrated with a fixed reversion value of 5%.
 
 In \[8\]:
 ```latex
@@ -179,12 +179,12 @@ Cumulative Error :         0.11615
 
 ## Black Karasinski Model
 
-The [Black Karasinski model](.md) is described as:
+The Black Karasinski model is described as:
 $$
 d ln ⁡ \left(\right. r_{t} \left.\right) = \left(\right. \left(\theta\right)_{t} - a ln ⁡ \left(\right. r_{t} \left.\right) \left.\right) d t + \sigma d W_{t}
 $$
 
-In order to calibrate,  we use the `TreeSwaptionEngine` which will work with all [short rate](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) models. The [calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md) is shown below.
+In order to calibrate,  we use the `TreeSwaptionEngine` which will work with all short rate models. The calibration is shown below.
 
 In \[10\]:
 ```latex
@@ -222,7 +222,7 @@ Cumulative Error :         0.12163
 
 ## G2++ Model
 
-As a final example,  let us look at a [calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md) example of the 2-factor G2++ model.
+As a final example,  let us look at a calibration example of the 2-factor G2++ model.
 $$$
 d r_{t} = \varphi \left(\right. t \left.\right) + x_{t} + y_{t}
 $$
@@ -233,7 +233,7 @@ $$ d y_{t}  =  - b y_{t} d t + \eta d W_{t}^{2} $$
 $$ d W_{t}^{1} d W_{t}^{2}   =  \rho d t
 $$
 
-Once again,  we use the `TreeSwaptionEngine` to value the swaptions in the [calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md) step.
+Once again,  we use the `TreeSwaptionEngine` to value the swaptions in the calibration step.
 
 In \[12\]:
 ```
@@ -275,16 +275,6 @@ Cumulative Error :         0.12265
 
 In this post,  we saw some simple examples of calibrating the model to the swaption volatilities.
 
-Click here to download the [ipython notebook](http://gouthamanbalaraman.com/extra/notebooks/interest_rate_model_calibration.ipynb)
+Click here to download the ipython notebook
 
-   [quantlib]([Introduction%20to%20QuantLib%20Python)](http://gouthamanbalaraman.com/tag/[quantlib](Introduction%20to%20QuantLib%20Python.md).html)   [python](http://gouthamanbalaraman.com/tag/python.html)   [finance](http://gouthamanbalaraman.com/tag/finance.html)
-
----
-
-**Related Post**
-
-- [QuantLib Python]([Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python) Tutorials With Examples](http://gouthamanbalaraman.com/blog/[quantlib](Introduction%20to%20QuantLib%20Python.md)-python-tutorials-with-examples.html)
-- [On the Convergence of Hull White [Monte Carlo](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) Simulations](http://gouthamanbalaraman.com/blog/hull-white-simulation-monte-carlo-convergence.html)
-- [Valuing Options on [Commodity Futures](../../../Financial%20Instruments/Financial%20Instruments%20PSET%20Solutions.md) Using [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md)](http://gouthamanbalaraman.com/blog/value-options-commodity-[futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)-black-formula-[quantlib](Introduction%20to%20QuantLib%20Python.md)-python.html)
-- [QuantLib Python]([Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python) Cookbook Announcement](http://gouthamanbalaraman.com/blog/[quantlib](Introduction%20to%20QuantLib%20Python.md)-python-cookbook-announcement.html)
-- [Valuing Bonds with Credit Spreads in [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md)](http://gouthamanbalaraman.com/blog/bonds-with-spreads-[quantlib](Introduction%20to%20QuantLib%20Python.md)-python.html)
+   quantlib](http://gouthamanbalaraman.com/tag/quantlib.html)   python   finance

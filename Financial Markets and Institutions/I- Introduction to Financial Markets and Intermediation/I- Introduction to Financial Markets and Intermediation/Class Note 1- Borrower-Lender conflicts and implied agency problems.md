@@ -1,96 +1,117 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Class Note 1 Borrower-Lender conflicts and implied agency
-  problems
-title: Class Note 1Borrower-Lender conflicts and implied agency problems
+cssclasses: academia
+linter-yaml-title-alias: Class Note 1 - Borrower-Lender Conflicts and Implied Agency Problems
+title: Class Note 1 - Borrower-Lender Conflicts and Implied Agency Problems
 tags:
   - agency_problems
   - asset_substitution
   - borrower_lender_conflicts
   - capital_structure
   - debt_holders
+  - leverage_effects
+  - capital_budgeting
+  - debt_covenants
+  - financial_incentives
 aliases:
   - Capital Budgeting
   - Class Note 1
   - Debt and Equity
   - Incentive Conflicts
+  - Borrower-Lender Agency Problems
 key_concepts:
   - Capital budgeting decisions
-  - Covenant changes
-  - Debt holder ownership
-  - Equity owner ownership
-  - Leverage and Incentives
+  - Covenant changes and enforcement
+  - Debt holder ownership claims
+  - Equity owner ownership claims
+  - Leverage and incentives
   - Owner-managed firms
+  - Asset substitution theory
+  - Perverse incentive effects
+  - Debt capacity calculation
+  - Trust Indenture Act
 ---
 
-# Class Note 1Borrower-Lender conflicts and implied agency problems
+# Class Note 1 - Borrower-Lender Conflicts and Implied Agency Problems
 
-The amount of [leverage](../../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) has an impact on the incentives of someone who maximizes the value of the residual equity claim. This“[asset substitution theory](../../Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md)”is a popular theory of [capital structure](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md),  but it is not too plausible for large firms. It makes the most sense for [owner-managed firms](.md),  where the manager is the stockholder. If the owner and manager differ,  one needs to examine the manager's incentive contract to learn his/her incentives. We will see later that the owner's and manager's incentives are naturally aligned for nearly insolvent firms and for some [financial institutions](../../Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) that have government [deposit insurance](../../III.%20Liquidity%20of%20Assets/Class%206-%20Bank%20Runs/Bank%20Runs%20Deposit%20Insurance%20and%20Liquidity.md).
+The amount of leverage has an impact on the incentives of someone who maximizes the value of the residual equity claim. This "asset substitution theory" is a popular theory of capital structure, but it is not too plausible for large firms. It makes the most sense for owner-managed firms, where the manager is the stockholder. If the owner and manager differ, one needs to examine the manager's incentive contract to learn his/her incentives. We will see later that the owner's and manager's incentives are naturally aligned for nearly insolvent firms and for some financial institutions that have government deposit insurance.
 
-The example illustrates how divided ownership of different parts of the [cash flow distribution](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20II%20CASH%20FLOW%20ENGINEERING/Chapter%209%20-%20Mortgage-Backed%20Securities/Mortgage%20Pass-Through%20Securities.md). distorts [capital budgeting decisions](.md).
+The example illustrates how divided ownership of different parts of the cash flow distribution distorts capital budgeting decisions.
 
-Debt holders own the lower tail of the distribution of firm value,  and equity owners the upper tail. This is the cause of the conflict of interest because some decisions hurt the lower tail and help the upper tail (and can help or hurt the overall value of the firm).
+Debt holders own the lower tail of the distribution of firm value, and equity owners the upper tail. This is the cause of the conflict of interest because some decisions hurt the lower tail and help the upper tail (and can help or hurt the overall value of the firm).
 
-### 1. No debt
+## 1. No Debt
 
-Two projects,  the riskier one also has a lower [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md). Each has only two [possible outcomes](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Probability%20Space.md),  one if a depression (D),  one if prosperity P). The probability of each outcome is 1/2 Each project requires the an initial outlay of $\$800$
+Two projects, the riskier one also has a lower expected return. Each has only two possible outcomes, one if a depression (D), one if prosperity (P). The probability of each outcome is 1/2. Each project requires an initial outlay of $800.
 
-We could get fancy and use the states model to take account of the positive"beta"of each project (each pays off more in prosperity). Project 2 has a higher beta,  implying that it should require a higher [discount rate](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) than project 1. It is sufficient for our purposes to use the expected [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to see the incentive problem with debt.
+We could get fancy and use the states model to take account of the positive "beta" of each project (each pays off more in prosperity). Project 2 has a higher beta, implying that it should require a higher discount rate than project 1. It is sufficient for our purposes to use the expected returns to see the incentive problem with debt.
 
-Clearly,  project 1 is the best [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). An owner-managed firm with no debt would select it,  . since all require the same initial outlay.
+Clearly, project 1 is the best investment. An owner-managed firm with no debt would select it, since all require the same initial outlay.
 
- 1. What about a firm with debt with face $s=600$ in place?
-	- The fixed payment of $\$600$ is a sunk cost.If thefirm is going to default,          thenit doesnot care"how big" the default is.It wants tomake more when not in default. Cash flows to equity when debt of $\$600$ is in place
+## 2. What About a Firm With Debt With Face $600 in Place?
 
-	```latex
+The fixed payment of $600 is a sunk cost. If the firm is going to default, then it does not care "how big" the default is. It wants to make more when not in default.
+
+### Cash Flows to Equity When Debt of $600 is in Place
 
 \begin{document}
-
-\begin{tabular}{|c|c|c|c|}
-
+\begin{tabular}{ | c | c | c | c | }
 \hline
-
-Project & Cash Flow if D & Cash Flow if P (Debt = 600) & Expected Value \\ \hline
-
-1 & 0 & 1500 - 600 = 900 & 450 \\ \hline
-
-2 & 0 & 1551 - 600 = 951 & 475.5 \\ \hline
-
+Project & Cash Flow if D & Cash Flow if P (Debt = 600) & Expected Value \\
+\hline
+1 & 0 & 1500 - 600 = 900 & 450 \\
+\hline
+2 & 0 & 1551 - 600 = 951 & 475.5 \\
+\hline
 \end{tabular}
-
 \end{document}
 
-```latex
-The levered firm would select project number 2,           despite its lower net present value,           because it has a higher present value conditional on not leading to bankruptcy. The equity owner owns the upper tail,          and is only concerned with the [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) he owns. Note that no matter how the equity owner values the cash flows if P,          he prefers project 2 since both have identical cash flows if D and project 2 has higher payments if P.
-This does not mean that firms"want" to go bankrupt. Instead,           it is a statement about debt capacity. If the [Leverage]([[Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products) Ratio|[leverage](../../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) ratio]] gets too high,           then these [perverse incentive effects](../../Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) of debt increase. This can lead the firm to tilt its decisions toward excessively risky projects,          with a lower net present value. Potential bondholders can put themselves into the owner's shoes,           and take this into account when deciding what interest rate to charge on the bond. The lender can predict what the borrower will do,           but there is a problem because the lender cannot directly observe the project choice. What is the debt capacity of the firm? What is the highest face value,           F,           that the borrower prefers project 1?
-The borrower's equity payoff from Project 1 and 2 with debt of face F is:```latex
+The levered firm would select project number 2, despite its lower net present value, because it has a higher present value conditional on not leading to bankruptcy. The equity owner owns the upper tail, and is only concerned with the returns he owns. Note that no matter how the equity owner values the cash flows if P, he prefers project 2 since both have identical cash flows if D and project 2 has higher payments if P.
+
+This does not mean that firms "want" to go bankrupt. Instead, it is a statement about debt capacity. If the leverage ratio gets too high, then these perverse incentive effects of debt increase. This can lead the firm to tilt its decisions toward excessively risky projects, with a lower net present value. Potential bondholders can put themselves into the owner's shoes, and take this into account when deciding what interest rate to charge on the bond. The lender can predict what the borrower will do, but there is a problem because the lender cannot directly observe the project choice.
+
+What is the debt capacity of the firm? What is the highest face value, F, that the borrower prefers project 1?
+
+The borrower's equity payoff from Project 1 and 2 with debt of face F is:
+
 \begin{document}
-\renewcommand{\arraystretch}{1.5} % Adjust the height for better spacing
-\begin{tabular}{|c|c|c|}
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{ | c | c | c | }
 \hline
-\textbf{Project} & \textbf{Condition} & \textbf{Equity Payoff} \\ \hline
-\textbf{Project 1 (Face F)} & \(F \leq 500\)  & \(\frac{1}{2}(1500 - F) + \frac{1}{2}(500 - F) = 1000 - F\) \\ \cline{2-3}
-                            & \(500 < F \leq 1500\) & \(\frac{1}{2}(1500 - F)\) \\ \cline{2-3}
-                            & \(F > 1500\)    & 0 \\ \hline
-\textbf{Project 2 (Face F)} & \(F < 1551\)    & \(\frac{1}{2}(1551 - F)\) \\ \cline{2-3}
-                            & \(F > 1551\)    & 0 \\ \hline
+\textbf{Project} & \textbf{Condition} & \textbf{Equity Payoff} \\
+\hline
+\textbf{Project 1 (Face F)} & $(F \leq 500)$ & $\frac{1}{2}(1500 - F) + \frac{1}{2}(500 - F) = 1000 - F$ \\
+\cline{2-3}
+& $(500 < F \leq 1500)$ & $\frac{1}{2}(1500 - F)$ \\
+\cline{2-3}
+& $(F > 1500)$ & 0 \\
+\hline
+\textbf{Project 2 (Face F)} & $(F < 1551)$ & $\frac{1}{2}(1551 - F)$ \\
+\cline{2-3}
+& $(F > 1551)$ & 0 \\
+\hline
 \end{tabular}
 \end{document}
-```
 
- The debt capacity must be less than 500,  because if the firm will certainly default in Depression,  all that matters is what it is worth in Prosperity.
+The debt capacity must be less than 500, because if the firm will certainly default in Depression, all that matters is what it is worth in Prosperity.
 
-- For $F<500$,  Project 1 is preferred for all F that satisfy $\geq$ 21000 - F $\geq$ 1/2(1551 -F),  which solves out to $F\leq 449$.
-- As a result,  449 is the debt capacity in face value.
-- Suppose lenders require an [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) of $r$ for investing in any security of the firm. If the firm issued debt with face value 448 debt,  it would choose Project 1,  and then the debt could raise up to $\frac{448}{1+r}$ Prj lender if it does not help himself.)If the firm issued debt with face $F>449$,  it would lead to project an increase $\frac{1/2\mathrm{F}\:+\:1/2(0)}{1+\mathrm{r}}$.
-- Risky debt (debt with a positive probability of bankruptcy) distorts [capital budgeting decisions](.md). It provides incentives to make tradeoffs between cash in [bankruptcy](../../../Course%20Notes/HBR%20Notes/A%20Strategic%20Perspective%20on%20Bankruptcy.md) and not in [bankruptcy](../../../Course%20Notes/HBR%20Notes/A%20Strategic%20Perspective%20on%20Bankruptcy.md) that differ from the ones that maximize the value of the firm.
-- The potential bondholders will require a high enough interest rate to give themselves a competitive rate of return,  for example,  $10\%$. Thus,  any reductions in the value of the [capital budgeting](.md) program of the firm will come out of the owner's pockets. If the firm selected too high a [leverage](../../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) ration,  it would be giving itself a perverse incentive contract. It would not do this in the first place if it had alternatives. Thus,  we might not expect a firm to choose a [capital structure](../../../Advanced%20Financial%20Analysis%20and%20Valuation/Introduction%20to%20Corporate%20Finance.md) with as much debt as our example if it faced an unobservable choice between these projects.
-- This leaves us with some unanswered questions: A. How can these bad effects of debt be reduced? B. How do bank asset services help reduce these bad effects? C. If debt is so bad,  why is it so common,  especially for smaller firms? Why not use another financial contract?
-Beginning with question a,  we examine problems with bond covenants,  contractual provisions in bond or loan indentures. See the Wruck paper in the packet for a description of typical covenants.
-- Just prohibiting an action in a bond covenant does not prevent it from happening. The lender needs to know about the violation before it happens or soon thereafter. In addition,  the lender must have some bargaining power over the borrower in order to stop a "crime in progress.”
-- Enforcement requires effort and monitoring of the borrower. Without substantial monitoring,  the contract cannot depend on anything except the grossest public information.
-- If not all contingencies are spelled out,  contracts must be renegotiated over time. This too requires the lender to have lots of information about the borrower's situation.
-- If the lender is not one individual but many small bondholders,  the [Slides](Class%20[[Slides%20Note%209%20Bidask.not%20New%202020) 2 Discussion of [Loan Covenants](../../II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Slides%202%20Discussion%20of%20Loan%20Covenants%20Vs.%20Bond%20Covenants.md) Vs. Bond Covenants|Covenants]] can be difficult to enforce. There can be either duplication of effort if each lender monitors the situation carefully or more likely,  a"free rider" problem,  where none of the small bondholders find it worthwhile to bother to monitor. Without monitoring,  [Slides](Class%20[[Slides%20Note%209%20Bidask.not%20New%202020) 2 Discussion of [Loan Covenants](../../II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Slides%202%20Discussion%20of%20Loan%20Covenants%20Vs.%20Bond%20Covenants.md) Vs. Bond Covenants|Covenants]] will not be renegotiated or contain much detail. If there is no monitoring,  [Slides](Class%20[[Slides%20Note%209%20Bidask.not%20New%202020) 2 Discussion of [Loan Covenants](../../II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Slides%202%20Discussion%20of%20Loan%20Covenants%20Vs.%20Bond%20Covenants.md) Vs. Bond Covenants|Covenants]] will be written contingent only on the grossest public information.
-- This gives an advantage to having a single lender,  rather than many lenders. We will see that this is a part of the argument why asset services of banks and other intermediaries are important.
-- The [US Federal Trust Indenture Act](../../II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Discussion%20of%20Loan%20Covenants%20vs.%20Bond%20Covenants.md) prohibits majority voting to restructure [debt contracts](Lecture%20Note%201-%20Debt%20Pricing.md) that reduce principal or interest or extend the debt maturity. A $100% vote is required to change these "key covenants." Thus,           even if public bondholders had the information,           they probably could not use it. Changes to other [Covenants](../../II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Slides%202%20Discussion%20of%20Loan%20Covenants%20Vs.%20Bond%20Covenants.md) in bonds require a 2/3 vote in dollar value,           and $50% measured in the fraction of bondholders (not weighted by dollar value).
+- For $F < 500$, Project 1 is preferred for all F that satisfy $1000 - F \geq \frac{1}{2}(1551 - F)$, which solves out to $F \leq 449$.
+- As a result, 449 is the debt capacity in face value.
+- Suppose lenders require an expected return of $r$ for investing in any security of the firm. If the firm issued debt with face value 448 debt, it would choose Project 1, and then the debt could raise up to $\frac{448}{1+r}$. (Project 1 is also selected for face 449, because the borrower will not hurt the lender if it does not help himself.) If the firm issued debt with face $F > 449$, it would lead to project 2 and raise $\frac{1/2 \cdot F + 1/2(0)}{1+r}$.
+- Risky debt (debt with a positive probability of bankruptcy) distorts capital budgeting decisions. It provides incentives to make tradeoffs between cash in bankruptcy and not in bankruptcy that differ from the ones that maximize the value of the firm.
+- The potential bondholders will require a high enough interest rate to give themselves a competitive rate of return, for example, $r$. Thus, any reductions in the value of the capital budgeting program of the firm will come out of the owner's pockets. If the firm selected too high a leverage ratio, it would be giving itself a perverse incentive contract. It would not do this in the first place if it had alternatives. Thus, we might not expect a firm to choose a capital structure with as much debt as our example if it faced an unobservable choice between these projects.
+
+## Unanswered Questions
+
+This leaves us with some unanswered questions:
+- A. How can these bad effects of debt be reduced?
+- B. How do bank asset services help reduce these bad effects?
+- C. If debt is so bad, why is it so common, especially for smaller firms? Why not use another financial contract?
+
+Beginning with question A, we examine problems with bond covenants, contractual provisions in bond or loan indentures. See the Wruck paper in the packet for a description of typical covenants.
+
+- Just prohibiting an action in a bond covenant does not prevent it from happening. The lender needs to know about the violation before it happens or soon thereafter. In addition, the lender must have some bargaining power over the borrower in order to stop a "crime in progress."
+- Enforcement requires effort and monitoring of the borrower. Without substantial monitoring, the contract cannot depend on anything except the grossest public information.
+- If not all contingencies are spelled out, contracts must be renegotiated over time. This too requires the lender to have lots of information about the borrower's situation.
+- If the lender is not one individual but many small bondholders, the covenants can be difficult to enforce. There can be either duplication of effort if each lender monitors the situation carefully or more likely, a "free rider" problem, where none of the small bondholders find it worthwhile to bother to monitor. Without monitoring, covenants will not be renegotiated or contain much detail. If there is no monitoring, covenants will be written contingent only on the grossest public information.
+- This gives an advantage to having a single lender, rather than many lenders. We will see that this is a part of the argument why asset services of banks and other intermediaries are important.
+- The US Federal Trust Indenture Act prohibits majority voting to restructure debt contracts that reduce principal or interest or extend the debt maturity. A 100% vote is required to change these "key covenants." Thus, even if public bondholders had the information, they probably could not use it. Changes to other covenants in bonds require a 2/3 vote in dollar value, and 50% measured in the fraction of bondholders (not weighted by dollar value).

@@ -21,56 +21,56 @@ key_concepts:
 Revision:9/26/2023  
 # Roadmap  
 
-Class outline/organization Review questions [Financial Markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) and the Macro economy  
+Class outline/organization Review questions Financial Markets and the Macro economy  
 # CLASS OUTLINE/ORGANIZATION  
 # Course Objective  
 
-[Financial markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) play an important role in public policy  
+Financial markets play an important role in public policy  
 
 Examples?  
 
 This class will cover the standard tools of an introductory investments class  
 
-These are great tools for understanding [risk and return](../Advanced%20Investments/Lecture%207-Risk%20and%20Return%20of%20Bonds.md), whether you are contemplating a career at a Treasury department or in muni c ipa finance, at a central bank, at a [pension fund](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Uses%20of%20Interest%20Rate%20Swaps.md), or in finance industry Understanding investments is also important for personal finance decisions Stats is important,not just in this class but also in the professionalworld whenever you need to think about [risk and return](../Advanced%20Investments/Lecture%207-Risk%20and%20Return%20of%20Bonds.md)  
+These are great tools for understanding risk and return, whether you are contemplating a career at a Treasury department or in muni c ipa finance, at a central bank, at a pension fund, or in finance industry Understanding investments is also important for personal finance decisions Stats is important,not just in this class but also in the professionalworld whenever you need to think about risk and return  
 # Course Objective  
 
 By the end of this class you should have the foundations to  
 
-Make informed [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) decisions either on your own behalf or a [pension fund](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Uses%20of%20Interest%20Rate%20Swaps.md),foundation,etc.. Understand how to [assess risk and return](.md) of bonds,stocks,andother securities Interpret macroeconomic information incorporated in [financial markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md)  
+Make informed investment decisions either on your own behalf or a pension fund,foundation,etc.. Understand how to assess risk and return of bonds,stocks,andother securities Interpret macroeconomic information incorporated in financial markets  
 
 This course has significant overlap with BUS 3500 ("Investments") and PPHA 42510 ("Applied Financial Management"), but focuses more on hands-on Excel applications  
 # Applied Focus  
 
-You will be expected to find and access real-world [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) materials and use these as your sources  
+You will be expected to find and access real-world investment materials and use these as your sources  
 
 You will learn to find and download real-time financial data  
 
-Use [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) theory to analyze the data an inform relevant public policy questions  
+Use investment theory to analyze the data an inform relevant public policy questions  
 
-Student market updates on Wednesdays based on [JP Morgan](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/The%20Fall%20of%20Bear%20Stearns.md) Weekly Market Recap  
+Student market updates on Wednesdays based on JP Morgan Weekly Market Recap  
 # Public Policy Focus  
 
-How is [the Fed](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Monetary%20Policy%20with%20Abundantreserves.md) reflected in [financial markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md)?  
+How is the Fed reflected in financial markets?  
 
-How should a national sovereign wealth fund, such as the Norges Bank [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Management, allocate its investments between bonds and stocks?  
+How should a national sovereign wealth fund, such as the Norges Bank Investment Management, allocate its investments between bonds and stocks?  
 
-How should a public [pension fund](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Uses%20of%20Interest%20Rate%20Swaps.md) invest in stocks, bonds, and alternatives?  
+How should a public pension fund invest in stocks, bonds, and alternatives?  
 # Course Format  
 
-You are responsible for [slides](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Slides%20Note%209%20Bidask.not%20New%202020.md), and Excel [exercises](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) posted on Canvas  
+You are responsible for slides, and Excel exercises posted on Canvas  
 
 Attendance and in-class participation will be factored into your participation grade I plan to post basic course recordings on Canvas with subtitles,but this is not a substitute for coming to class! In-class polls will be used to help you engage with the class and count for a small part of your participation grade  Sign up for online office hours!  
 
 OAsk and answer questions via Ed Discussions  
 
-TA sessions wi be on Fridays 10:3 am roughly 2/23 Pflueger([UChicago](../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Solutions.md) -Harris) 8/43  
+TA sessions wi be on Fridays 10:3 am roughly 2/23 Pflueger(UChicago -Harris) 8/43  
 # Group Assignments Using Excel  
 
-Classes and group homework structured around Excel [exercises](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md)  
+Classes and group homework structured around Excel exercises  
 
 Access data and financial reports Manipulate and summarize data Analyze data using financial theory  
 
-Homework and class Excel [exercises](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) are also your practice exam questions  
+Homework and class Excel exercises are also your practice exam questions  
 
 Exams may use Excel screenshots ：Exams may ask to perform similar,butsimpler,computations by hand ;Exams will also ask you to apply concepts to a new context  
 
@@ -81,18 +81,18 @@ I expect you be familiar with Excel/google spreadsheets and to acquire new Excel
 
 Bodie, Kane, Marcus "Investments" (my page references are for 13th Edition,other editions alsofine)  
 
-Harvard Business School cases ("Cook County [Pension Fund](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Uses%20of%20Interest%20Rate%20Swaps.md)", about \$9)  
+Harvard Business School cases ("Cook County Pension Fund", about \$9)  
 
 I will not simply teach to the textbook. Not all topics in book will be covered.  
 
 Applied materials (real-time data sets, actual government and corporate reports) are messy and more challenging  
 
-You are responsible for the material in the class [slides](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Slides%20Note%209%20Bidask.not%20New%202020.md), assignments, and spreadsheets.  
+You are responsible for the material in the class slides, assignments, and spreadsheets.  
 # Recipe for Success  
 
 Come to class and ask questions - often your classmates will have the same question and will be grateful!  
 
-Review [slides](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Slides%20Note%209%20Bidask.not%20New%202020.md), Excel [exercises](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md), and market updates prior to class Start assignments well in advance · Review any questions after class, ideally with a friend  
+Review slides, Excel exercises, and market updates prior to class Start assignments well in advance · Review any questions after class, ideally with a friend  
 
 The best answers don't just get the numbers right, but also have insightful answers to the qualitative questions  
 
@@ -103,7 +103,7 @@ Exams (Midterm and Final) 60% Assignments 20% Class participation 20%
 # REVIEW QUESTIONS  
 # Stats Review Question  
 
-Say we have estimated an [OLS regression](../Fixed%20Income%20Asset%20Pricing/Problem%20Sets/BUS%2035130%20SPRING%202024%20SOLUTION%20TO%20HOMEWORK%201.md):  
+Say we have estimated an OLS regression:  
 $$
 X_{t}\;\;=\;\;a+b Y_{t}+\varepsilon_{t}.
 $$  
@@ -114,22 +114,22 @@ A 95% percent B 90% percent  $\mathsf{C}$   both of the above D none of the abov
 # Stats Review - Textbook  
 
 Source: BKM, Chapter 8 
- ![500](Attachments/500-655.jpg)  
+ !500  
 # Learning Goals  
-$\scriptscriptstyle\odot$  Markets and [the Fed](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Monetary%20Policy%20with%20Abundantreserves.md), FOMC statements [Overview](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md) bonds, stocks, money markets, and [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) nfl ation compensation in government bond markets  
+$\scriptscriptstyle\odot$  Markets and the Fed, FOMC statements Overview bonds, stocks, money markets, and derivatives nfl ation compensation in government bond markets  
 # Eurodollar Rates around FOMC Announcements  
 
- ![500](Attachments/500-641.jpg)  
+ !500  
 # Stock Market Responds to Fed Surprises  
 
- ![500](Attachments/500-627.jpg)  
+ !500  
 
 Pflueger and Rinaldi (2022), updated from Bernanke and Kuttner (2005)  
 
-Evidence that Fed moves economy? Risk premia? Over-reaction? Autumn 2023 Revision:9/26/2023 Pflueger([UChicago](../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Solutions.md)-Harris) 18/43  
+Evidence that Fed moves economy? Risk premia? Over-reaction? Autumn 2023 Revision:9/26/2023 Pflueger(UChicago-Harris) 18/43  
 # Perceived Fed Response to Economy from Surveys  
 
- ![500](Attachments/500-649.jpg)  
+ !500  
 Figures 1, Bauer, Pflueger, and Sunderam (2023)  
 # FOMC Statements  
 
@@ -138,12 +138,12 @@ Taper tantrum' June 19, 2013 Press conference (start at 9:00), June 19, 2013 "Li
 
 What is money? What are government bond markets? What are stocks?
 
- : What are [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md)?
+ : What are derivatives?
 
-  Which [financial instruments](../Financial%20Instruments/A%20Practical%20Guide%20for%20Actuaries%20and%20other%20Business%20Professionals..md) protect against [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)? Reading: Chapter 2 of BKM, Chapter 14 (pp 431-432)  
+  Which financial instruments protect against inflation/War%20Economies%20and%20Hyperinflation.md)? Reading: Chapter 2 of BKM, Chapter 14 (pp 431-432)  
 # Money  
 
-Early currencies were backed by [commodities](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) (e.g. gold)  
+Early currencies were backed by commodities (e.g. gold)  
 
 More recent“fiat”" currencies have no intrinsic value  
 
@@ -152,23 +152,23 @@ Fiat currencies only derive value because you know that everyone accepts them as
 Governments can avoid unwanted shocks to the supply of money and adjust the money supply to manage macroeconomic fluctuations  
 # Money Market (Chapter 2.1)  
 
-Very [short-term debt securities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%206-%20Bank%20Runs/Breaking%20the%20Buck.md) Highly liquid and easily bought and sold US government uses Treasury bills toborrow Payout1o0 dollars at a specified date in thefuture Sell at auction at a priceless than 100 ● Issued with 4 weeks, 3 months, 6 months, and 12 months to maturity  
+Very short-term debt securities Highly liquid and easily bought and sold US government uses Treasury bills toborrow Payout1o0 dollars at a specified date in thefuture Sell at auction at a priceless than 100 ● Issued with 4 weeks, 3 months, 6 months, and 12 months to maturity  
 
 If issued by a company, this is called “commercial paper"  
 # Federal Funds Rate  
 
 Just as you have deposits at a bank, many banks in the US have deposits at the Federal Reserve bank ("Fed")  
 
-Banks need to maintain a minimum balance with [the Fed](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Monetary%20Policy%20with%20Abundantreserves.md), that increases with their amount of customer deposits  
+Banks need to maintain a minimum balance with the Fed, that increases with their amount of customer deposits  
 
 The rate at which banks lend to each other over night is the "Federal Fundsrate"  
 
-The Federal Reserve conducts [monetary policy](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Articles/The%20Economist%20Regime%20Change.md) by changing [the Fed](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Monetary%20Policy%20with%20Abundantreserves.md) Fundsrate  
+The Federal Reserve conducts monetary policy by changing the Fed Fundsrate  
 
-Until 2008,theFederal Reserve used“OpenMarket Operations", effectively buying and selling [Fed Funds](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md) to drive the rate towards the desired target Now, the Federal Reserve pays interest on [Fed Funds](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md)  
+Until 2008,theFederal Reserve used“OpenMarket Operations", effectively buying and selling Fed Funds to drive the rate towards the desired target Now, the Federal Reserve pays interest on Fed Funds  
 # Bonds  
 
-Federal government also uses Treasury notes and bonds to borrow. ● Notes and bonds are just like T-bills, but they have longer maturities. They also pay interest. Noteshave maturities between2 and 10 years.Bondshave maturities up to 30 years. US Treasury bonds typically pay a fixed coupon twice a year. Corporations also issuebonds,that get traded in secondary markets. Banks borrow from each other at the London [Interbank Borrowing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Short-Term%20Rates%20and%20the%20Transition%20from%20LIBOR.md) Rate(LIBOR)rate.  
+Federal government also uses Treasury notes and bonds to borrow. ● Notes and bonds are just like T-bills, but they have longer maturities. They also pay interest. Noteshave maturities between2 and 10 years.Bondshave maturities up to 30 years. US Treasury bonds typically pay a fixed coupon twice a year. Corporations also issuebonds,that get traded in secondary markets. Banks borrow from each other at the London Interbank Borrowing Rate(LIBOR)rate.  
 # Euro dollars  
 
 Euro dollars aredollar-denominated deposits at foreign banks or foreign branches of American banks.  
@@ -177,59 +177,59 @@ Euro dollars are dollar-denominated deposits at foreign banks or foreign branche
 
 Veryliquid and therefore tracked around FOMC announcements  
 
-While T-bill rates, [Fed funds](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Fed%20Fund%20Futures.md) rate, Eurodollar, commercial paper etc may differ because of [liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) and counter party risk, different short-term [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) should all be very similar.  
+While T-bill rates, Fed funds rate, Eurodollar, commercial paper etc may differ because of liquidity and counter party risk, different short-term interest rates should all be very similar.  
 
-If they were very different one could borrow at the lower rate and invest at the higher. This is called the "[Law of One Price](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)" (LOOP)  
+If they were very different one could borrow at the lower rate and invest at the higher. This is called the "Law of One Price" (LOOP)  
 # Eurodollar Example Calculation  
 
- ![500](Attachments/500-644.jpg)  
+ !500  
 # Equity Securities  
 
 Stocks (or equities or equity securities) represent ownership shares in a corporation
 
  ● In contrast to bonds or money market instruments, they do not promise a fixed payment
 
- · Stock owners receive dividends, that go up and down depending on the firm's profitability Common stocks entitle their owners to one vote at the corporate annual meeting (e.g. executive compensation) · Stocks are fairly liquid, though not as liquid as US Treasury T-bills They are traded daily on [stock exchanges](../Financial%20Engineering/An%20Introduction%20to%20Equity%20Markets.md), such as the NYSE Nasdaq, London Stock Exchange etc.  
+ · Stock owners receive dividends, that go up and down depending on the firm's profitability Common stocks entitle their owners to one vote at the corporate annual meeting (e.g. executive compensation) · Stocks are fairly liquid, though not as liquid as US Treasury T-bills They are traded daily on stock exchanges, such as the NYSE Nasdaq, London Stock Exchange etc.  
 # Market Indexes (Chapter 2 of BKM)  
 
-Dow Jones index covers 30 blue chip corporations and has been reported since 1896. Price-weighted average, i.e. it assigns higher weight to stocks with a higher price. · S&P 500 covers approximately the 500 largest U.S. corporations. It will drop some of the top 5 o 0 companies and add others to maintain even industry representation. ● Value-weighted average, i.e. companies with greater market value receive higher weight Both are price indexes, i.e. they reflect changes in stock prices but not dividends, which also contribute to [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+Dow Jones index covers 30 blue chip corporations and has been reported since 1896. Price-weighted average, i.e. it assigns higher weight to stocks with a higher price. · S&P 500 covers approximately the 500 largest U.S. corporations. It will drop some of the top 5 o 0 companies and add others to maintain even industry representation. ● Value-weighted average, i.e. companies with greater market value receive higher weight Both are price indexes, i.e. they reflect changes in stock prices but not dividends, which also contribute to returns  
 # Dow Jones Industrials Index  
 
- ![500](Attachments/500-654.jpg)  
-Source: BKM.Table 2.4 Pflueger ([UChicago](../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Solutions.md) - Harris)  
+ !500  
+Source: BKM.Table 2.4 Pflueger (UChicago - Harris)  
 # Data Question  
 
-How much did the US [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) change on “taper tantrum" date June 19, 2013 (in %)? How much did emerging market stocks change on June 19, 2013? How much did developed market stocks change on June 29, 2013?  
+How much did the US stock market change on “taper tantrum" date June 19, 2013 (in %)? How much did emerging market stocks change on June 19, 2013? How much did developed market stocks change on June 29, 2013?  
 
-Hint: Use data from the MSCl Indexes , use gross [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to include dividends  
+Hint: Use data from the MSCl Indexes , use gross returns to include dividends  
 # Derivatives  
 
-[Derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) are contracts between two parties  
+Derivatives are contracts between two parties  
 
-[Derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) arebased on the prices of other financial market instruments, such as bond or stock prices  
+Derivatives arebased on the prices of other financial market instruments, such as bond or stock prices  
 
-Example: A call option that pays out if the Apple [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) reaches \$250on11/1/2019.  
+Example: A call option that pays out if the Apple stock price reaches \$250on11/1/2019.  
 # Treasury Inflation-Protected Securities (TIPS) (Chapter 14)  
 
 The US Federal government also borrows using TIPS  
 
-Payments on TIPS are tied to the [Consumer Price Index](../Financial%20Instruments/Pricing%20an%20Inflation%20Swap.md) (CPl). Both principal and [coupon payments](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md) increase with the C PI  
+Payments on TIPS are tied to the Consumer Price Index (CPl). Both principal and coupon payments increase with the C PI  
 
-Therefore, the interest rate on these bonds is a real [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md)  
+Therefore, the interest rate on these bonds is a real risk-free rate  
 
-Break even [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) is defined as the difference between a nominal Treasury and TiPS rate with the same [time to maturity](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md)  
+Break even inflation/War%20Economies%20and%20Hyperinflation.md) is defined as the difference between a nominal Treasury and TiPS rate with the same time to maturity  
 
-It is the [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) rate that would make an investor break even (i.e. earn the same return) on both bonds ex post.  
+It is the inflation/War%20Economies%20and%20Hyperinflation.md) rate that would make an investor break even (i.e. earn the same return) on both bonds ex post.  
 
-Nominal return Realreturn = = yield [Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)  
+Nominal return Realreturn = = yield Inflation/War%20Economies%20and%20Hyperinflation.md)  
 # TIPS Cash Flows  
 
- ![500](Attachments/500-645.jpg)  
+ !500  
 
-Question: If you are a [pension fund](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Uses%20of%20Interest%20Rate%20Swaps.md) with [inflation-indexed](../Chinese%20Financial%20System.md) liabilities, do youprefer to receive or pay T lPS?  
+Question: If you are a pension fund with inflation-indexed liabilities, do youprefer to receive or pay T lPS?  
 # Maturity of Outstanding TIPS 1997-2008  
 
- ![500](Attachments/500-642.jpg)  
+ !500  
 
 # 10-year TiPS most common and data most reliable  
 # Constant-Maturity Bond Yields  
@@ -241,43 +241,43 @@ But there may not be any Treasury bond with exactly 10 years remaining to maturi
 Two approaches: ① The Federal Reserve official statistical release uses the most recently issued10-yearnote Fit a smooth function to yields of notes and bonds with different maturities (also fromFed researchers) Gurkaynak, Sack, and Wright (2006)  
 # Inflation Swaps Similar, but Require No Up-Front Payment  
 
- ![500](Attachments/500-640.jpg)  
+ !500  
 Exhibit 1: Example swap payments  
 # Inflation Expectations at Different Horizons  
 
- ![500](Attachments/500-642.jpg)  
+ !500  
 
 # Source: Cieslak and Pflueger (2023),Figure 3  
 # Inflation Compensation from Inflation Swaps  
 
- ![500](Attachments/500-654.jpg)  
+ !500  
 
 Source: Cieslak and Pflueger (2023),Figure 4  
 # Bonds, Stocks, and Inflation  
 
- ![500](Attachments/500-636.jpg)  
+ !500  
 
 Source:Cieslak and Pflueger(2023),Figure 1A,CAPE=cyclically adjusted price earnings ratio of stocks from RobertS hiller  
 # "Good" Inflation and ‘Bad" Inflation  
 
- ![500](Attachments/500-642.jpg)  
+ !500  
 Source:Cieslak and Pflueger(2023),Figure 1B  
 
-“Good" [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) occurs in economic expansion, “bad" [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) during a recession or stagflation
+“Good" inflation/War%20Economies%20and%20Hyperinflation.md) occurs in economic expansion, “bad" inflation/War%20Economies%20and%20Hyperinflation.md) during a recession or stagflation
 
- · Switch from “bad" [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) to"good' [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) around 2000 Autumn 2023 Revision:9/26/2023  
+ · Switch from “bad" inflation/War%20Economies%20and%20Hyperinflation.md) to"good' inflation/War%20Economies%20and%20Hyperinflation.md) around 2000 Autumn 2023 Revision:9/26/2023  
 # Data Question  
 
-What is the current value of 10-year breakeven [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md)? When was the last time it was previously at this level?  
+What is the current value of 10-year breakeven inflation/War%20Economies%20and%20Hyperinflation.md)? When was the last time it was previously at this level?  
 
 Hint:Use data from the St. Louis Fred  
 # Summary Learning Objectives for "Financial Markets and the Macro economy  
 
-Understand major [financial instruments](../Financial%20Instruments/A%20Practical%20Guide%20for%20Actuaries%20and%20other%20Business%20Professionals..md): money market, stocks bonds  
+Understand major financial instruments: money market, stocks bonds  
 
 Interpret how bonds and stocks move around FOMC announcements  
 
-Estimate [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) compensation from [financial markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md)  
+Estimate inflation/War%20Economies%20and%20Hyperinflation.md) compensation from financial markets  
 # 07 Option Pricing and Applications  
 
 # Prof. Carolin Pflueger  
@@ -295,13 +295,13 @@ The VIX is a measure of market participants' expected volatility based on option
 
 Even if you never trade options directly, their properties are important for understanding applications  
 
-Index-linked certificate of deposit (CD) [Corporate debt](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Corporate%20Bonds%20and%20Loans.md) has option-like features Government guarantees are effectively options written by government  
+Index-linked certificate of deposit (CD) Corporate debt has option-like features Government guarantees are effectively options written by government  
 # Learning Goals  
 
-Put and call options (BKM, Chapter 20) 2-State option tree (BKM, Chapter 21) [Black-Scholes formula](../Credit%20Markets/Credit%20Markets%20Session%205.md) for option prices (BKM, Chapter 21) [Corporate debt](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Corporate%20Bonds%20and%20Loans.md) and government guarantees  
+Put and call options (BKM, Chapter 20) 2-State option tree (BKM, Chapter 21) Black-Scholes formula for option prices (BKM, Chapter 21) Corporate debt and government guarantees  
 # Call Options  
 
-· A call option gives the holder the right (but not the obligation) to purchase a security at the [exercise price](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Options.md) X at a given dateT in the future(the exercise date)  
+· A call option gives the holder the right (but not the obligation) to purchase a security at the exercise price X at a given dateT in the future(the exercise date)  
 
 The payoff of the call option at expiration equals  
 $$
@@ -309,7 +309,7 @@ $$
 $$  
 
 Option property: Payoff cannot go negative  
- ![500](Attachments/500-637.jpg)  
+ !500  
 
 # BKM Figure 20.2  
 # Put Options  
@@ -322,7 +322,7 @@ $$
 $$  
 
 Writing (naked) far out-of-the-money puts is a risky strategy, that generates steady fees income most of the time but can lead to large losses in market downturn (October 1987 crash)  
- ![500](Attachments/500-651.jpg)  
+ !500  
 
 # BKM Figure 20.4  
 # Put-Call Parity  
@@ -333,20 +333,20 @@ payoff on call - payoff on put = ST -X
 
 Obtain identical payoff by purchasing one unit of stock and borrowing  $X/(1+r_{f})^{T}$  T-bills at time O  
 
-No-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md): Strategies with the same payoff must have same initial price  
+No-arbitrage: Strategies with the same payoff must have same initial price  
 $$
 \mathsf{C a l l}(X)-\mathsf{P u t}(X)=S_{0}-X/(1+r_{f})^{T}
 $$  
 # Learning Goals  
 
-Put and call options (BKM, Chapter 20)  2-State option tree (BKM, Chapter 21) [Black-Scholes formula](../Credit%20Markets/Credit%20Markets%20Session%205.md) for option prices (BKM, Chapter 21) Valuing government guarantees  
+Put and call options (BKM, Chapter 20)  2-State option tree (BKM, Chapter 21) Black-Scholes formula for option prices (BKM, Chapter 21) Valuing government guarantees  
 # Two-State Option Pricing  
 
 : Assume stock can only take two values at expiration  
 
-Current [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md): So = \$100. Price will either increase to \$120 or fallto\$90  Call option with exercise price \$110 Interest rate equals 10%  
+Current stock price: So = \$100. Price will either increase to \$120 or fallto\$90  Call option with exercise price \$110 Interest rate equals 10%  
 
- ![500](Attachments/500-622.jpg)  
+ !500  
 # Replicating Portfolio  
 
 Buy one stock, and borrow \$81.82 at 10% interest rate  
@@ -355,27 +355,27 @@ Cost of establishing position is \$100 - \$81.82 = \$18.18
 
 If stock goes down to \$90, portfolio worth after one year is  $90-81.82\times1.10=0$  
 
-If stock goes up to \$120, portfolio payoff is 120 - 81.82 × 1.10 = 30 Portfolio payoff equals  $3\times$   option payoff in every possible state By no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md), call option price must satisfy  
+If stock goes up to \$120, portfolio payoff is 120 - 81.82 × 1.10 = 30 Portfolio payoff equals  $3\times$   option payoff in every possible state By no-arbitrage, call option price must satisfy  
 
 3_C=\$18.18 HedgeRatio  
 
-Argument does not depend on risk-aversion, only no-[arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)!  
+Argument does not depend on risk-aversion, only no-arbitrage!  
 # Generalized Option Trees  
 
- ![500](Attachments/500-623.jpg)  
+ !500  
 
-What is the price of a call option with [exercise price](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Options.md) \$110?  
+What is the price of a call option with exercise price \$110?  
 
 · Solve backwards! We can figure out the option price at each time 1 nodes,just as before  
 
-One we have solved for the possible option prices at time 1, find [hedge ratio](../Financial%20Engineering/Derivatives/Part%20VI%20-%20The%20Greeks/Chapter%2027%20-%20Delta%20Hedging.md) from time 0 to 1  
+One we have solved for the possible option prices at time 1, find hedge ratio from time 0 to 1  
 # Learning Goals  
 
 Put and call options (BKM, Chapter 20)  
 
 2-State option tree (BKM, Chapter 21)  
 
-[Black-Scholes formula](../Credit%20Markets/Credit%20Markets%20Session%205.md) for option prices (BKM, Chapter 21)  
+Black-Scholes formula for option prices (BKM, Chapter 21)  
 
 Valuing government guarantees  
 # Beyond Binomial Trees  
@@ -384,29 +384,29 @@ In reality, stock prices can of course take more than two or three or fourvalues
 
 Dividing intervals more and more finely, log  $S_{t}$  follows approximately a normal distribution  
 
-In this case, there exists a formula rather than just a computer algorithm to determine the price of (European) [call and put](HBR%20Notes/Notes%20on%20Basic%20Options%20Properties.md) options  
+In this case, there exists a formula rather than just a computer algorithm to determine the price of (European) call and put options  
 
 Key assumptions:  
 
-●Volatility of stock prices changesis constant over the life ofthe option [Risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md) is constant No dividends  
+●Volatility of stock prices changesis constant over the life ofthe option Risk-free rate is constant No dividends  
 # Black-Scholes Formula for Call Option  
 $$
 \begin{array}{r c l}{C_{0}}&{=}&{S_{0}N(d_{1})-X e^{-r T}N(d_{2}),}\\ {d_{1}}&{=}&{\frac{\mathsf{l n}\,\left(S_{0}/X\right)\,+\,\left(r+\sigma^{2}/2\right)\,T}{\sigma\sqrt{T}},}\\ {d_{2}}&{=}&{d_{1}-\sigma\sqrt{T}}\end{array}
 $$  
 
-Co = current call option value ●So=current stockprice N(d)= cumulative normal distribution,probability that normal random variable≤d X = [exercise price](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Options.md) r = [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md)
+Co = current call option value ●So=current stockprice N(d)= cumulative normal distribution,probability that normal random variable≤d X = exercise price r = risk-free rate
 
- :T = [time to expiration](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) in years
+ :T = time to expiration in years
 
- ：o=annual i zed standard deviation of stock [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+ ：o=annual i zed standard deviation of stock returns  
 # Determinants of call option price  
 
-Increases with the [stock price](../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) So Decreases with the [exercise price](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Options.md) X Increases with volatility o Increases with time to expiryT Increases with risk-freerater  
+Increases with the stock price So Decreases with the exercise price X Increases with volatility o Increases with time to expiryT Increases with risk-freerater  
 # Black-Scholes Formula for Put Option  
 
-From [put-call parity](../Financial%20Engineering/7.%20Black%20Scholes%20Model.md):  
+From put-call parity:  
 $$
-\begin{array}{r c l}{{\cal{P}}}&{{=}}&{{C+X e^{-r T}-S_{0},}}\\ {{}}&{{=}}&{{X e^{-r T}\left[1-N(d_{2})\right]-S_{0}[1-N(d_{1})}}\end{array}
+\begin{array}{r c l}{{\cal{P}}}&{{=}}&{{C+X e^{-r T}-S_{0},}}\\ {{}}&{{=}}&{{X e^{-r T}\left[1-N(d_{2})\right]-S_{0}1-N(d_{1})}}\end{array}
 $$  
 # Learning Goals  
 
@@ -414,7 +414,7 @@ Put and call options (BKM, Chapter 20)
 
 2-State option tree (BKM, Chapter 21)  
 
-[Black-Scholes formula](../Credit%20Markets/Credit%20Markets%20Session%205.md) for option prices (BKM, Chapter 21)  
+[Black-Scholes formula for option prices (BKM, Chapter 21)  
 
 Government guarantees  
 # Government Guarantees  
@@ -428,9 +428,9 @@ Hypothetical toll road with expected annual revenue
 
 Options give holder the right but not the obligation to buy (cal option) or sell (put option) a stock at a given price  
 
-Options can be priced using [binomial](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) trees  
+Options can be priced using binomial trees  
 
-In certain simplified conditions, they can be priced using the [Black-Scholes formula](../Credit%20Markets/Credit%20Markets%20Session%205.md) Option-[pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) matters even if you never trade an option: Index-linked CD, [corporate debt](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Corporate%20Bonds%20and%20Loans.md), government (credit) guarantees  
+In certain simplified conditions, they can be priced using the Black-Scholes formula Option-pricing matters even if you never trade an option: Index-linked CD, corporate debt, government (credit) guarantees  
 # 06 Factor Models and Performance Evaluation  
 
 # Prof. Carolin Pflueger  
@@ -449,62 +449,62 @@ Accessible to small and large individual investors.
 How to detect a well-performing fund, taking into account risk profile and fund type?  
 # Learning Goals  
 
-Mutual funds [overview](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md) (BKM, Chapter 4)  $\circledcirc$   Performance metrics (BKM, Chapter 24) The Fama-French 3-[factor model](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Pricing%20Factors%20in%20a%20One-Period%20Framework.md) (BKM, Chapter 10)  
+Mutual funds overview (BKM, Chapter 4)  $\circledcirc$   Performance metrics (BKM, Chapter 24) The Fama-French 3-factor model (BKM, Chapter 10)  
 # Fund Fees Summary  
 
 # Figure 10.  
 
 Asset-weighted expense ratios of active and passive investments  
 
- ![500](Attachments/500-654.jpg)  
+ !500  
 
 Sources: The Vanguard Group, Inc. calculations, using data from Morningstar, Inc  
 # Low-Cost Exchange-Traded Funds are Growing  
 
- ![500](Attachments/500-651.jpg)  
+ !500  
 Figure4.2GrowthofU.S.ET Fs overtime  
 
-Source:2 o 18 [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Company FactBook,[Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Company Institute.  
+Source:2 o 18 Investment Company FactBook,Investment Company Institute.  
 # Assets under Management of Investments Industry  
 
- ![500](Attachments/500-653.jpg)  
+ !500  
 
-Figure 4.3 [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) company assets under management (\$ billion) Source: 2021 [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Company Fact Book, [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Company Institute.  
+Figure 4.3 Investment company assets under management (\$ billion) Source: 2021 Investment Company Fact Book, Investment Company Institute.  
 # Learning Goals  
 
-Mutual funds [overview](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md) (BKM, Chapter 4)  
+Mutual funds overview (BKM, Chapter 4)  
 
-Performance metrics in single-[factor model](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Pricing%20Factors%20in%20a%20One-Period%20Framework.md) (BKM, Chapter 24)  
+Performance metrics in single-factor model (BKM, Chapter 24)  
 
-The Fama-French 3-[factor model](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Pricing%20Factors%20in%20a%20One-Period%20Framework.md) (BKM, Chapter 10)  
+The Fama-French 3-factor model (BKM, Chapter 10)  
 # Evaluating Mutual Fund Performance  
 
 How would you pick a mutual fund for your investments?  
 
-Use information from past [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md).  
+Use information from past returns.  
 
-Looking at total past [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) ignores risk  
+Looking at total past returns ignores risk  
 
 We will adjust for risk.  
 
-Good past [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) can also be due to a good market rather than super i our skill,  
+Good past returns can also be due to a good market rather than super i our skill,  
 
-We will evaluate [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) relative to benchmarks.  
+We will evaluate returns relative to benchmarks.  
 
 The risk-return trade-off of mutual funds can be summarized through performance metrics  
 # Bloomberg Performance Measures  
 
- ![500](Attachments/500-646.jpg)  
+ !500  
 # Decomposing Fund Returns  
 
 #  $r_{i,t}-r_{f,t-1}=\alpha_{i}+\beta_{i}^{m}\times\left(r_{m,t}-r_{f,t-1}\right)+\alpha_{i}$  Ei,t  
 
-ri.t: return on an asset/[investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)/[portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) Orf.t-1: return on the [risk-free asset](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md)  $r_{I,t}-r_{f,t-1}$  :excess return on the asset/[investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)/[portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  $r_{m,t}-r_{f,t-1}$  excess return on the market  $\beta_{i}^{m}\times\big(r_{m,t}-r_{f,t-1}\big);$  variation in excess [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) explained by the market Ei.t: part of excess return not explained by the market  
+ri.t: return on an asset/investment/portfolio Orf.t-1: return on the risk-free asset  $r_{I,t}-r_{f,t-1}$  :excess return on the asset/investment/portfolio  $r_{m,t}-r_{f,t-1}$  excess return on the market  $\beta_{i}^{m}\times\big(r_{m,t}-r_{f,t-1}\big);$  variation in excess returns explained by the market Ei.t: part of excess return not explained by the market  
 # Decomposing Fund Risks  
 
- ![500](Attachments/500-653.jpg)  
+ !500  
 
-Total fund risk is the sum of [market risk](../Financial%20Engineering/Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%205%20-%20Index%20Futures.md) and idiosyncratic risk (also called residual variance or tracking error)  
+Total fund risk is the sum of market risk and idiosyncratic risk (also called residual variance or tracking error)  
 # Estimating Components of Risk  
 $$
 \boldsymbol{r}_{i,t}-\boldsymbol{r}_{f,t}=\boldsymbol{a}_{i}+\boldsymbol{b}_{i}^{m}\times\left(\boldsymbol{r}_{m,t}-\boldsymbol{r}_{f,t}\right)+\boldsymbol{e}_{i,t}
@@ -542,69 +542,69 @@ $$
 $$  
 # Performance Measure Depends on Investor's Sophistication  
 
-[Mean-variance](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) investor maximizes the Sharpe ratio of the complete [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of risky assets.  
+Mean-variance investor maximizes the Sharpe ratio of the complete portfolio of risky assets.  
 
 Performance measures correspond to three types of investors.  
 
-●Investor considering to place all assets with fund:Sharpe ratio Well-diversified investor with a fixed and given complementary [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md):Trey nor ratio. Investor who cangolong and short index funds tracking the benchmarks:Information ratio.  
+●Investor considering to place all assets with fund:Sharpe ratio Well-diversified investor with a fixed and given complementary portfolio:Trey nor ratio. Investor who cangolong and short index funds tracking the benchmarks:Information ratio.  
 
 All performance measures closely related to fund's CAPM α.  
 # Fund performance declines with expense ratio  
 
 "Annual excess return'" denotes CAPM α  
 
- ![500](Attachments/500-635.jpg)  
-igure13. Relationship between expense ratio and excess [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) for S&P 5 oo Index funds Source:Vanguard:The case for index-fund investing for Canadian investors  
+ !500  
+igure13. Relationship between expense ratio and excess returns for S&P 5 oo Index funds Source:Vanguard:The case for index-fund investing for Canadian investors  
 # Learning Goals  
 
-Mutual funds [overview](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md) (BKM, Chapter 4) Performance metrics in single-[factor model](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Pricing%20Factors%20in%20a%20One-Period%20Framework.md) (BKM, Chapter 24) The Fama-French 3-[factor model](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Pricing%20Factors%20in%20a%20One-Period%20Framework.md) (BKM, Chapter 10)  
+Mutual funds overview (BKM, Chapter 4) Performance metrics in single-factor model (BKM, Chapter 24) The Fama-French 3-factor model (BKM, Chapter 10)  
 # Multi-Factor Analysis  
 
-·In practice, no single factor accounts for all correlations between stock [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md).  
+·In practice, no single factor accounts for all correlations between stock returns.  
 
 Many sources of common variation.  
 
-Industry effects ·Leveraged firms move with [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) ·Small firms move together Any CAP M assumption that does not hold in practice:labor income, future [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunities,..  
+Industry effects ·Leveraged firms move with interest rates ·Small firms move together Any CAP M assumption that does not hold in practice:labor income, future investment opportunities,..  
 
 It matters for performance analysis if investors may already have access to a large range of indexes  
 
 A fund is only attractive to investors if it can outperform the existing fund universe. Estimate α relative to multiple benchmark stock portfolios.  
 # No-Arbitrage Assumption  
 
-[Arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity:  
+Arbitrage opportunity:  
 
-Definition: Riskless profit without making net [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
+Definition: Riskless profit without making net investment  
 
-Widespread [arbitrage opportunities](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%208-%20Markets,%20Meltdowns,%20and%20Arbitrage/Class%20Note%2013%20The%20LTCM%20Meltdown.md) would represent the grossest form or market irrationality  
+Widespread arbitrage opportunities would represent the grossest form or market irrationality  
 
-If [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) was possible, it would be easy to get rich  
+If arbitrage was possible, it would be easy to get rich  
 
-Implies"[Law Of One Price](../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md)": Two assets with same payoffs will have sameprice  
+Implies"Law Of One Price": Two assets with same payoffs will have sameprice  
 # Arbitrage Pricing Theory (APT)  
 
-[Arbitrage Pricing Theory](../Financial%20Engineering/Fixed%20Income%20Derivatives/Introduction%20to%20the%20Mathematics%20of%20Fixed%20Income%20Pricing.md) (APT) of Ross (1976) argues that a small number of factors should explain individual stock co-movement and performance.  
+Arbitrage Pricing Theory (APT) of Ross (1976) argues that a small number of factors should explain individual stock co-movement and performance.  
 
 Intuitively, a few assets may be mispriced.  
 
-But if too many assets were mispriced, there would be an [arbitrage](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) opportunity by grouping them together into a [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md).  
+But if too many assets were mispriced, there would be an arbitrage opportunity by grouping them together into a portfolio.  
 
-The [mean-variance](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) optimal frontier can be constructed from K factor portfolios,where  $K$  issmall.  
+The mean-variance optimal frontier can be constructed from K factor portfolios,where  $K$  issmall.  
 
-Fund loadings onto factors determine [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md).  
+Fund loadings onto factors determine expected return.  
 
 CAPM is a special case with the market return as single factor  
 # Multi-Factor APT Predictions  
 
-In a multi-[factor model](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Pricing%20Factors%20in%20a%20One-Period%20Framework.md), expected [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are determined by  
+In a multi-factor model, expected returns are determined by  
 $$
 E[r_{i}-r_{f}]=\sum_{k=1}^{K}\beta_{i}^{k}\times R P_{k}
 $$  
 
-Thereare  $K$  factors,  $k=1,...,K$  Examplesof factors aremarket [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md), [interest rates](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md), GNP growth, rate of [inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md), .  
+Thereare  $K$  factors,  $k=1,...,K$  Examplesof factors aremarket portfolio, interest rates, GNP growth, rate of inflation/War%20Economies%20and%20Hyperinflation.md), .  
 $R P_{k}$  is the risk premium of factor k:  $E[r_{k}-r_{f}]$   $\beta_{i}^{k}$  is the factor loading of asseti onfactor k  
 # The Fama-French Factors  
 
-[Fama and French](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Empirical%20Factors.md) (1992) proposed factors based on stock portfolios.  
+Fama and French (1992) proposed factors based on stock portfolios.  
 
 ;To date the most influential factors in industry and academia. Morningstar Matrix for Ariel Appreciation Fund  
 
@@ -617,43 +617,43 @@ HML (high minus low) factor based on value (high book-to-market) firms.
 SMB (small minus big) factor based on small firms.  
 # Size and B/M Portfolios  
 
-Use CAP M to evaluate [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) on size andbook-to-market portfolios.  
+Use CAP M to evaluate returns on size andbook-to-market portfolios.  
 
 Download data from Ken French's website  
 
-Use monthly [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) from 1926/07-2011/06 period  
+Use monthly returns from 1926/07-2011/06 period  
 
 Firms are sorted into 10 equal-sized bins every year by their market equity capitalization (size) and book-to-market equity ratios (B/M)  
 
-Data shows return on [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of firms in eachof the1obins.  
+Data shows return on portfolio of firms in eachof the1obins.  
 
 Rebalance portfolios once a year when firms are re-sorted.  
 # How do these portfolios perform?  
 
-What excess [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) do they have? What CAPM βs do they have? WhatCAPMas do theyhave?  
+What excess returns do they have? What CAPM βs do they have? WhatCAPMas do theyhave?  
 # Size Decile Portfolios: Excess Returns  
 
- ![500](Attachments/500-641.jpg)  
+ !500  
 # Size Decile Portfolios: CAPM βs  
 
- ![500](Attachments/500-650.jpg)  
+ !500  
 # Size Decile Portfolios: CAPM as  
 
- ![500](Attachments/500-634.jpg)  
+ !500  
 # B/M Decile Portfolios: Excess Returns  
 
- ![500](Attachments/500-653.jpg)  
+ !500  
 # B/M Decile Portfolios: CAPM βs  
 
- ![500](Attachments/500-633.jpg)  
+ !500  
 # B/M Decile Portfolios: CAPM as  
 
- ![500](Attachments/500-624.jpg)  
+ !500  
 # Takeaways: Size and Value Porfolios  
 
-Excess [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) decrease in size and increase in book-to-market equity ratio.  
+Excess portfolio returns decrease in size and increase in book-to-market equity ratio.  
 
-CAPM βs do not explain this heterogeneity in [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) across firms.  
+CAPM βs do not explain this heterogeneity in returns across firms.  
 
 CAPM αs are decreasing in size and increasing in book-to-market equity ratio.  
 # SMB and HML Portfolios  
@@ -672,9 +672,9 @@ HML(High Minus Low)is the average return on the twovalue portfolios minus the av
 
 E[r  $\begin{array}{r}{\phantom{}_{i,t}-r_{f,t}]=\beta_{i}^{m}\times E[r_{m,t}-r_{f,t}]+\beta_{i}^{s}\times E[S}\end{array}$   $\times\,E[r_{m,t}-r_{f,t}]+\beta_{i}^{s}\times E[S M B_{t}]+\beta_{i}^{h}\times E$  [HMLt]  
 
-Special case of a multi-[factor model](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Pricing%20Factors%20in%20a%20One-Period%20Framework.md).  
+Special case of a multi-factor model.  
 
-Factors are market,size,andvalue [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md).  
+Factors are market,size,andvalue returns.  
 
 Portfolios of small companies tend to have high β  
 
@@ -683,13 +683,13 @@ Portfolios of value companies tend to have high βh
 
 ri,t —rf,t = αi  $+\,\beta_{i}^{m}\times\left(r_{m,t}-r_{f,t}\right)+\beta_{i}^{s}\times S M B_{t}+\beta_{i}^{h}\times$  HMLt+8i,t  
 
-Evaluate CAAPX using Fama-French 3-[factor model](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Pricing%20Factors%20in%20a%20One-Period%20Framework.md)  
+Evaluate CAAPX using Fama-French 3-factor model  
 
 Test whether CAAPX provides out performance after accounting for style'. Large and liquid HML and SMB index funds widely available to investors.  
 
 Additional fund only attractive to investors if beats this benchmark  
 
-Effectively standard risk adjustment in mutual fund performance Pflueger([UChicago](../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Market%20Solutions.md)-Harris) 06 Factor Models Autumn2023 33/34  
+Effectively standard risk adjustment in mutual fund performance Pflueger(UChicago-Harris) 06 Factor Models Autumn2023 33/34  
 # Summary Learning Objectives of "Factor Models"  
 
 Compute and interpret risk-adjusted performance measures. Predictions of multi-factor models Understand properties of size and book-to-market portfolios. Apply multi-factor models to evaluate fund performance adjusting for style'.  
@@ -706,7 +706,7 @@ Autumn 2023
 
 But how should different stocks behave in comparison with one another?  
 
-Key prediction: [Expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) on financial asset depends on how it co moves with the market,orbeta  
+Key prediction: Expected return on financial asset depends on how it co moves with the market,orbeta  
 
 ：Examples:  
 
@@ -717,14 +717,14 @@ Budgetary cost of Federal government mortgage guarantees Congressional Budget Of
 Reading: BKM Chapter 9  
 # Learning Goals  
 
-Assumptions of the [Capital Asset Pricing Model](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) Predictions for expected [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) on individual securities Application: Estimating the CAPM  
+Assumptions of the Capital Asset Pricing Model Predictions for expected returns on individual securities Application: Estimating the CAPM  
 # CAPM Assumptions  
 
-The [Capital Asset Pricing Model](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) (CAPM) relies on two groups of assumptions  
+The Capital Asset Pricing Model (CAPM) relies on two groups of assumptions  
 
 All investors optimize their portfolios a la Markowitz  
 
-[Financial markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) are well-functioning:All assets are traded and investors can borrow and lend at the risk-freerate  
+Financial markets are well-functioning:All assets are traded and investors can borrow and lend at the risk-freerate  
 
 Of course, all of these assumptions are not true in the real world.  
 
@@ -733,34 +733,34 @@ Of course, all of these assumptions are not true in the real world.
 
 Individual behavior  
 
-1 Investors are rational, [mean-variance](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) optimizers. 2 Their common planning horizon is a single period. 3 Investors all use identical input lists, an assumption often termed homogeneous [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md).Homogeneous [expectations](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md) are consistent with the assumption that all relevant information is publicly available.  
+1 Investors are rational, mean-variance optimizers. 2 Their common planning horizon is a single period. 3 Investors all use identical input lists, an assumption often termed homogeneous expectations.Homogeneous expectations are consistent with the assumption that all relevant information is publicly available.  
 
-[Market structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2010/Market%20Structure%20and%20Size.md)  
+Market structure  
 
 0All assets are publicly held and trade on public exchanges 2 Investors can borrow orlen data common risk-freerate,andtheycan take short positions on traded securities. 3 Notaxes. 4 No transaction costs.  
 # CAPM Equilibrium Intuition  
 
-All investors agree on [efficient frontier](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) of risky assets  
+All investors agree on efficient frontier of risky assets  
 
-Because all investors face the same [risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md)(Assumption 2. b) they draw the same tangent CAL and arrive at the same risky tang en cy [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
+Because all investors face the same risk-free rate(Assumption 2. b) they draw the same tangent CAL and arrive at the same risky tang en cy portfolio  
 
 By the mutual fund theorem,all investors hence hold the same mix of risky assets  
 
 Equilibrium insight: Portfolios must add up  
 
-Becauseall investors hold the same risky weights,we can conclude that everyone holds a risky [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) proportional to the market [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md). CAL= Capital Market Line  
+Becauseall investors hold the same risky weights,we can conclude that everyone holds a risky portfolio proportional to the market portfolio. CAL= Capital Market Line  
 # Capital Market Line  
 
- ![500](Attachments/500-642.jpg)  
+ !500  
 
 Source:BKM Figure 9.1  
 
 Takeaway: You can't do better than investing in the market.  
 # Learning Goals  
 
-Assumptions of the [Capital Asset Pricing Model](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md)  
+Assumptions of the Capital Asset Pricing Model  
 
-Predictions for expected [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) on individual securities  
+Predictions for expected returns on individual securities  
 
 Application: Estimating the CAPM  
 # Expected Return-Beta Relationship  
@@ -769,12 +769,12 @@ In equilibrium,GE must be priced so that investors are in different whether to b
 
 GE should therefore offer the samerisk-return trade-off as the market itself  
 
-·How much does GE contribute to risk premium on market? If the weight on GEin the market [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is  $w_{G E}$  ,thisis  
+·How much does GE contribute to risk premium on market? If the weight on GEin the market portfolio is  $w_{G E}$  ,thisis  
 $$
 w_{G E}\mathbb{E}\left(r_{G E}-r^{f}\right)
 $$  
 
-How much does GE contribute to the risk of the overall market [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)?This depends on co variance  
+How much does GE contribute to the risk of the overall market portfolio?This depends on co variance  
 $$
 w_{G E}C o v\left(r_{G E},r_{M}\right)
 $$  
@@ -790,7 +790,7 @@ This leads to the most famous relationship of the CAPM
 Here, i can now be any asset, such as GE, Apple,.  
 # Formal Argument  
 
-Know that tangency [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) maximizes overall Sharpe ratio and tangency [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) equals market.  
+Know that tangency portfolio maximizes overall Sharpe ratio and tangency portfolio equals market.  
 
 ● Consider increasing the allocation to GE by a small amount w. We musthave  $\frac{d S h a r p e}{d\omega}\bar{=}0$  or else we could increase our Sharpe ratio. This is not possible because market=tangency.  
 $$
@@ -803,56 +803,56 @@ $$
 \begin{array}{r l r}{\mathbb{E}\left(\boldsymbol{r}_{i}-\boldsymbol{r}^{f}\right)}&{{}=}&{\beta_{i}\mathbb{E}\left(\boldsymbol{r}_{M}-\boldsymbol{r}^{f}\right)}\end{array}
 $$  
 
-[Expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) on any asset increases with its comovement with the market.  
+Expected return on any asset increases with its comovement with the market.  
 
 Note that the total volatility of asset i does not enter.  
 
 : In a well-functioning market, investors receive return only if they are willing to bear risk  
 # The Security Market Line (SML)  
 
- ![500](Attachments/500-626.jpg)  
+ !500  
 
 BKM Figure 9.2  
 
-The SML plots the risk-return trade-off for individual assets. By contrast the CML plots the risk premium of [efficient portfolios](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Mean-Variance%20Efficient%20Returns%20and%20Pricing%20Fac.md).  
+The SML plots the risk-return trade-off for individual assets. By contrast the CML plots the risk premium of efficient portfolios.  
 # Evaluating Mutual Fund Performance  
 
- ![500](Attachments/500-628.jpg)  
+ !500  
 
 BKM Figure 9.3  
 
-In this world, only fund managers with positive alpha add to overal [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) per torm ance.  
+In this world, only fund managers with positive alpha add to overal investment per torm ance.  
 # Learning Goals  
 
-Assumptions of the [Capital Asset Pricing Model](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md)  
+Assumptions of the Capital Asset Pricing Model  
 
-Predictions for expected [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) on individual securities  
+Predictions for expected returns on individual securities  
 
 Application: Estimating the CAPM  
 # How to estimate alpha and beta?  
 $$
 r_{i,t}-r_{f,t-1}=\alpha_{i}+\beta_{i}^{m}\times\left(r_{m,t}-r_{f,t-1}\right)+\alpha_{i}
 $$  
-$r_{I,t}$  :return on an asset/[investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)/[portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) rf.t-1:[risk-free rate](../Financial%20Instruments/Black%20Scholes%20Derivation.md)  $r_{I,t}-r_{f,t-1}$  : excess return on the asset/[investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)/[portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  $r_{m,t}-r_{f,t-1}$  ：excess return on the market  $\beta_{i}^{m}\times\big(r_{m,t}-r_{f,t}\big);$  variation in excess [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) explained by themarket &i,t: part of excess return not explained by the market This is sometimes called the “single [factor model](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Pricing%20Factors%20in%20a%20One-Period%20Framework.md)  
+$r_{I,t}$  :return on an asset/investment/portfolio rf.t-1:risk-free rate  $r_{I,t}-r_{f,t-1}$  : excess return on the asset/investment/portfolio  $r_{m,t}-r_{f,t-1}$  ：excess return on the market  $\beta_{i}^{m}\times\big(r_{m,t}-r_{f,t}\big);$  variation in excess returns explained by themarket &i,t: part of excess return not explained by the market This is sometimes called the “single factor model  
 # Empirical Predictions of the Capital Asset Pricing Model (CAPM)  
 $$
 \boldsymbol{\dot{\mathrm{\rho}}}_{i,t}-\boldsymbol{r}_{f,t-1}=\boldsymbol{\alpha}_{i}+\boldsymbol{\beta}_{i}^{m}\times\left(\boldsymbol{r}_{m,t}-\boldsymbol{r}_{f,t-1}\right)+\varepsilon
 $$  
 
-Assumethat  $r_{m,t}$  is the return on the market [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md).  
+Assumethat  $r_{m,t}$  is the return on the market portfolio.  
 
 What does the CAPM predict?  
 
 A:  $\alpha_{i}=0$  B:βm=0 C: Ei,t = 0 D: All of the above  
 # Summary Learning Objectives for “"Capital Asset Pricing Model'  
 
-The [Capital Asset Pricing Model](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md)(CAPM)assumes that all investors trade off [risk and return](../Advanced%20Investments/Lecture%207-Risk%20and%20Return%20of%20Bonds.md), and every asset must be held by someone  
+The Capital Asset Pricing Model(CAPM)assumes that all investors trade off risk and return, and every asset must be held by someone  
 
-It predicts that the [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) on a stock/mutual fund/nontraded financial asset is proportional to its beta with the market  
+It predicts that the expected return on a stock/mutual fund/nontraded financial asset is proportional to its beta with the market  
 
 Under priced assets have positive alpha, while overpriced assets have negative alpha  
 
-We can estimate alpha and beta from a simple regression of historical [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) onto the market  
+We can estimate alpha and beta from a simple regression of historical returns onto the market  
 # Portfolio Choice  
 
 # Prof. Carolin Pflueger  
@@ -864,56 +864,56 @@ University of Chicago-Harris School of Public Policy
 
 How should you split your investments between different stocks, bonds, real estate etc.?  
 
-[Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) allocation is one of the most important [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) decisions for pension funds and individual investors  
+Portfolio allocation is one of the most important investment decisions for pension funds and individual investors  
 
-We will derive [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) rules for the two main steps in top-down [asset allocation](../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md):  
+We will derive portfolio rules for the two main steps in top-down asset allocation:  
 
-Decide on how much to invest in each asset class (e.g. stocks vs. bonds?) Decide on [asset allocation](../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md) within each class (e.g- which [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of Stocks?)  
+Decide on how much to invest in each asset class (e.g. stocks vs. bonds?) Decide on asset allocation within each class (e.g- which portfolio of Stocks?)  
 
-● Main framework: [Mean-variance analysis](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) (Markowitz) Reading:B KM Chapters 6 and 7  
+● Main framework: Mean-variance analysis (Markowitz) Reading:B KM Chapters 6 and 7  
 # Example Asset Allocation: Cook County Pension Fund  
 
- ![500](Attachments/500-637.jpg)  
-Cook County [Asset Allocation](../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md) As of December 31,2018  
+ !500  
+Cook County Asset Allocation As of December 31,2018  
 
-Cook County [Pension Fund](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Uses%20of%20Interest%20Rate%20Swaps.md),accessed10/18/2020  
+Cook County Pension Fund,accessed10/18/2020  
 
-Question: Why allocate funds to [fixed income](../Fixed%20Income%20Asset%20Pricing/Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md)?  
+Question: Why allocate funds to fixed income?  
 # Learning Goals  
 
-Risk aversion and [mean-variance analysis](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) Optimal risky asset share with one risky and one safe asset
+Risk aversion and mean-variance analysis Optimal risky asset share with one risky and one safe asset
 
-  $\mathbf{\Theta}$   Optimal [asset allocation](../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md) with two risky assets  
+  $\mathbf{\Theta}$   Optimal asset allocation with two risky assets  
 
-Application: [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunity set for stocks and long-term bonds  
+Application: Investment opportunity set for stocks and long-term bonds  
 $\textdollar{\Theta}$  Mutual fund theorem  
 # What is risk aversion?  
 
-·It captures your personal [preference](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md).Different for every person. Key parameter: Risk-aversion Y  The higher is y the more you dislike risk Do you prefer a higher [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) with more risk?  Backcountry skiing in steep terrain is more fun, but also has greater risk  
+·It captures your personal preference.Different for every person. Key parameter: Risk-aversion Y  The higher is y the more you dislike risk Do you prefer a higher expected return with more risk?  Backcountry skiing in steep terrain is more fun, but also has greater risk  
 # What is risk aversion?  
 
-It captures your personal [preference](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md).Different for every person.  
+It captures your personal preference.Different for every person.  
 
 Key parameter: Risk-aversion  
 
 The higher is y the more you dislike risk  
 
-Do you prefer a higher [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) with more risk? ● Backcountry sking in steep terrain is more fun, but also has greater risk
+Do you prefer a higher expected return with more risk? ● Backcountry sking in steep terrain is more fun, but also has greater risk
 
-  Or do you prefer a lower [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) in exchange for less risk? In-bounds skiing ongreens and blues  
+  Or do you prefer a lower expected return in exchange for less risk? In-bounds skiing ongreens and blues  
 # Risk-Loving (low )  
 
- ![500](Attachments/500-642.jpg)  
+ !500  
 
 Source:https://coast backcountry.com/2005/02/26/fissile-peak-northwest-face/ accessed 10/23/2019  
 # Risk-Averse (high y)  
 
- ![500](Attachments/500-647.jpg)  
+ !500  
 
 https://www.whistler.com/blog/post/2017/01/17/whistler-green-ski-runs/ accessed 10/23/2019  
 # Risk Aversion and Investments  
 
-Which [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunity do you prefer? You invest 1o0 \$ today and can choose between strategies A or B. In a year, you receive the following  
+Which investment opportunity do you prefer? You invest 1o0 \$ today and can choose between strategies A or B. In a year, you receive the following  
 
 A 110 0 Probability 100% 0%  
 
@@ -924,9 +924,9 @@ Which one do you prefer?
 Which strategy will a risk-averse (high v) investor prefer? Which one a risk-loving investor (low y)?  
 # Risk Aversion and Utility Values  
 
-We will assume that each investor assigns a welfare, or utility, score to each [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
+We will assume that each investor assigns a welfare, or utility, score to each portfolio  
 
-Utility increases with [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md)  
+Utility increases with expected return  
 
 Utility decreases with expected risk  
 
@@ -935,41 +935,41 @@ $$
 U\;\;=\;\;E(r)-\frac{1}{2}\gamma\sigma^{2}
 $$  
 
-The [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in question is the investor's overall or complete portfolic  
+The portfolio in question is the investor's overall or complete portfolic  
 # Concept Check 6.1 (BKM Chapter 6)  
 
-A [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) has an expected rate of return of 15% and a standard deviation of 30%.T-bills offer a safe rate of return of 7%  
+A portfolio has an expected rate of return of 15% and a standard deviation of 30%.T-bills offer a safe rate of return of 7%  
 
-Would an investor with risk-aversion parameter  $\gamma\!=\!4$  prefer to invest in T-bills or the risky [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)?  
+Would an investor with risk-aversion parameter  $\gamma\!=\!4$  prefer to invest in T-bills or the risky portfolio?  
 # Learning Goals  
 
-Risk aversion and [mean-variance analysis](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) Optimal risky asset share with one risky andonesafe asset
+Risk aversion and mean-variance analysis Optimal risky asset share with one risky andonesafe asset
 
-  $\mathbf{\Theta}$  Optimal [asset allocation](../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md) with two risky assets  
+  $\mathbf{\Theta}$  Optimal asset allocation with two risky assets  
 
-Application: [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunity set for stocks and long-term bonds  
+Application: Investment opportunity set for stocks and long-term bonds  
 $\textdollar{\Theta}$  Mutual fund theorem  
 # Portfolios of One Risky Asset and Risk-Free Asset  
 
 Risky rate of return rp, expected risky rate of return   $\mathbb{E}(r_{P})$  ,standard deviation Op  
 
-Risk-freerate ofreturns  $r_{f}$  ,with standard deviation zero Invest proportion y into risky [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and 1 - y into [risk-free asset](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) The return on the complete [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is  
+Risk-freerate ofreturns  $r_{f}$  ,with standard deviation zero Invest proportion y into risky portfolio and 1 - y into risk-free asset The return on the complete portfolio is  
 $$
 \begin{array}{r c l}{r_{C}}&{=}&{y r_{P}+(1-y)r_{f}}\end{array}
 $$  
 # Portfolios of One Risky Asset and Risk-Free Asset  
 
-[Expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) on [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
+Expected return on portfolio  
 $$
 \begin{array}{r l r}{\mathbb{E}\left(r_{C}\right)}&{=}&{y\mathbb{E}\left(r_{P}\right)+\left(1-y\right)r_{f}}\\ &{=}&{r_{f}+y\left[\mathbb{E}\left(r_{P}\right)-r_{f}\right]}\end{array}
 $$  
 
-Variance of [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) return:  
+Variance of portfolio return:  
 $$
 \begin{array}{r c l}{{V a r\left(y r_{P}+\left(1-y\right)r_{f}\right)}}&{{=}}&{{V a r\left(y\times r_{P}\right)}}\\ {{}}&{{=}}&{{y^{2}\,V a r\left(r_{P}\right)=y}}\end{array}
 $$  
 
-Standard deviation of complete [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)?  
+Standard deviation of complete portfolio?  
 
 Which risky asset share, y, is optimal?  
 # Finding the optimal risky asset share  
@@ -992,43 +992,43 @@ $$
 
 The CAL plots the available mean-standard deviation return combinations  
 
- ![500](Attachments/500-650.jpg)  
+ !500  
 
 Source:BKM Figure 6.3  
 
 _E(rp)-rf Slope of CAL=Sharpe ratio of risky asset= Op  
 
-If the risky asset is a broad [stock index](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md), this is also called the Capital Markets Line (CML)  
+If the risky asset is a broad stock index, this is also called the Capital Markets Line (CML)  
 # Choose feasible allocation on highest indifference curve  
 
- ![500](Attachments/500-640.jpg)  
+ !500  
 
 Source:BKM Figure 6.7  
 
-Visually, the optimal [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) represents the point, C, at which the indifference curve is tangent to the CAL.  
+Visually, the optimal portfolio represents the point, C, at which the indifference curve is tangent to the CAL.  
 # Learning Goals  
 
-Risk aversion and [mean-variance analysis](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) Optimal risky asset share with one risky and one safe asset 3 Optimal [asset allocation](../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md) with two risky assets  
+Risk aversion and mean-variance analysis Optimal risky asset share with one risky and one safe asset 3 Optimal asset allocation with two risky assets  
 
-Application: [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunity set for stocks and long-term bonds  
+Application: Investment opportunity set for stocks and long-term bonds  
 $\textdollar{\Theta}$   Mutual fund theorem  
 # Benefits of Diversification  
 
- ![500](Attachments/500-634.jpg)  
+ !500  
 
 Source:BKMFigure7.2  
 
-Takeaway: It is beneficial to hold more than one stock. You can significantly reduce your overall [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) risk by holding an equally-weighted port to lio ot≥20stocks  
+Takeaway: It is beneficial to hold more than one stock. You can significantly reduce your overall portfolio risk by holding an equally-weighted port to lio ot≥20stocks  
 # Optimal Weights withTwo Risky Assets  
 
-[Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) share wp in bond fund and share  $w_{E}=1-w_{D}$  in equity fund (both of which are risky)  
+Portfolio share wp in bond fund and share  $w_{E}=1-w_{D}$  in equity fund (both of which are risky)  
 
-Rate of return on [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) equals  
+Rate of return on portfolio equals  
 $$
 \begin{array}{r c l}{r_{P}}&{=}&{w_{D}r_{D}+w_{E}r_{E}}\end{array}
 $$  
 
-Expected rate of return on [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is weighted average:  
+Expected rate of return on portfolio is weighted average:  
 $$
 \begin{array}{r l r}{{\mathbb{E}}\left(r_{P}\right)}&{=}&{w_{D}{\mathbb{E}}\left(r_{D}\right)+w_{E}{\mathbb{E}}\left(r_{E}\right)}\end{array}
 $$  
@@ -1038,7 +1038,7 @@ $$
 \begin{array}{r l}{=}&{{}w_{D}^{2}\sigma_{D}^{2}+w_{E}^{2}\sigma_{E}^{2}+2w_{D}w_{E}C o v\left(r_{D},r_{E}\right)}\\ {=}&{{}w_{D}^{2}\sigma_{D}^{2}+w_{E}^{2}\sigma_{E}^{2}+2w_{D}w_{E}\sigma_{D}\sigma_{E}C o r r\left(m_{D},m_{E}\right)}\end{array}
 $$  
 
-The set of combinations for   $\mathbb{E}\left(r_{P}\right)$  and  $\sigma_{P}$   available to investors is the [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunity set  
+The set of combinations for   $\mathbb{E}\left(r_{P}\right)$  and  $\sigma_{P}$   available to investors is the investment opportunity set  
 # Optimal Investment Proportions  
 
 Substitute expressions for expectation and variance into utility  
@@ -1048,83 +1048,83 @@ $$
 
 Take the derivative with respect to  $w_{D}$   and setting it to zero  $\begin{array}{r}{\frac{d U}{d w_{D}}=0}\end{array}$  
 
-This gives optimal [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) shares:  
+This gives optimal portfolio shares:  
 $$
 \begin{array}{r c l}{\mathbf{\Omega}_{D}^{*}}&{=}&{\displaystyle\frac{\mathbb{E}\left(r_{D}\right)-\mathbb{E}\left(r_{E}\right)+\gamma\left(\sigma_{E}^{2}-C o v\left(r_{D}\right.}\\ {\displaystyle\gamma\left(\sigma_{D}^{2}+\sigma_{E}^{2}-2C o v\left(r_{D},r_{E}\right)\right)}\\ {\mathbf{\Omega}_{E}^{*}}&{=}&{\displaystyle\mathbf{1}-\mathbf{w}_{D}^{*}}\end{array}
 $$  
 # Learning Goals  
 
-Risk aversion and [mean-variance analysis](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) Optimal risky asset share with one risky and one safe asset Optimal [asset allocation](../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md) with two risky assets  
+Risk aversion and mean-variance analysis Optimal risky asset share with one risky and one safe asset Optimal asset allocation with two risky assets  
 
-Application: [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunity set for stocks and long-term bonds  
+Application: Investment opportunity set for stocks and long-term bonds  
 
 Mutual fund theorem  
 # Correlation of Bonds and Stocks has Changed  
 
- ![500](Attachments/500-642.jpg)  
+ !500  
 
 # Source: Campbell, Pflueger, and Viceira (2020)  
 
-Takeaway: Bonds changed from positive correlation with stocks (i.e. increasing overall [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) variance) to negatively correlated with stocks (i.e. decreasing overall [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) variance, hedges), recentchanges  
+Takeaway: Bonds changed from positive correlation with stocks (i.e. increasing overall portfolio variance) to negatively correlated with stocks (i.e. decreasing overall portfolio variance, hedges), recentchanges  
 # Bond-Stock Correlation Drives Portfolio Volatility  
 
-Figure5:Volatility of an equity-bond [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) with an X percent equity allocation(x-axis)across correlations  
+Figure5:Volatility of an equity-bond portfolio with an X percent equity allocation(x-axis)across correlations  
 
- ![500](Attachments/500-636.jpg)  
+ !500  
 Source:Leibowitz and B ova(2012),NBIM  
 # Task: Compute Investment Opportunity Set with Stocks andBonds  
 
-·Assume the following numbers for 5-year Treasury bonds and stocks Average risk-freerate  $=5\%$  ●Average bond excess [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) = 2% ● Std. bond excess [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) = 5% ●Avg. stock excess [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) = 6% ●Std.stock excess [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  $=16\%$  Correlation bonds-stocks  $=0$  ·For an equity [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) share of 0,10%,20%,...,100%, compute 1 The bond share 2 The variance of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) excess return 3 The standard deviation of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) excess return 4 The average [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) excess return and the average [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) return  $\textdollar{\Theta}$  The Sharpe ratio Make a plot showing each [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)'s return standard deviation on the x-axis and the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)'s average excess return on the y-axis : Question: Which of the ten portfolios has the highest Sharpe ratio?  
+·Assume the following numbers for 5-year Treasury bonds and stocks Average risk-freerate  $=5\%$  ●Average bond excess returns = 2% ● Std. bond excess returns = 5% ●Avg. stock excess returns = 6% ●Std.stock excess returns  $=16\%$  Correlation bonds-stocks  $=0$  ·For an equity portfolio share of 0,10%,20%,...,100%, compute 1 The bond share 2 The variance of the portfolio excess return 3 The standard deviation of the portfolio excess return 4 The average portfolio excess return and the average portfolio return  $\textdollar{\Theta}$  The Sharpe ratio Make a plot showing each portfolio's return standard deviation on the x-axis and the portfolio's average excess return on the y-axis : Question: Which of the ten portfolios has the highest Sharpe ratio?  
 # Learning Goals  
 
-DRisk aversion and [mean-variance analysis](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) Optimal risky asset share with one risky and one safe asset
+DRisk aversion and mean-variance analysis Optimal risky asset share with one risky and one safe asset
 
-  $\mathbf{\Theta}$   Optimal [asset allocation](../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md) with two risky assets  
+  $\mathbf{\Theta}$   Optimal asset allocation with two risky assets  
 
-Application:[Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunity set for stocks and long-term bonds  
+Application:Investment opportunity set for stocks and long-term bonds  
 $\textdollar{\Theta}$  Mutual fund theorem  
 # Asset Allocation with Two Risky Assets and a Risk-Free Asset  
 
- ![500](Attachments/500-630.jpg)  
+ !500  
 
 Source:BKM Figure7.6  
 
 ·Portfolios A and B have different capital allocation lines (CAL) Slope of CAL is Sharpe ratio of portfolic  
 # But we can do better..  
 
- ![500](Attachments/500-625.jpg)  
+ !500  
 
 Source:BKM Figure 7.7  
 
 # Choose tangency portfolio  $P$  , which has highest possible Sharpe Ratio  
 # Optimal Portfolio  
 
-Optimal [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is a combination of the [risk-free asset](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) and the tang en cy [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) P  
+Optimal portfolio is a combination of the risk-free asset and the tang en cy portfolio P  
 
-Tangency [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  $P$  has weights wp and we in bonds and stocks that generate the highest possible Sharpe ratic  
+Tangency portfolio  $P$  has weights wp and we in bonds and stocks that generate the highest possible Sharpe ratic  
 
-An investor with risk aversion Y will optimally invest a share  $\begin{array}{r}{y=\frac{\mathbb{E}(r_{P})-r_{f}}{\gamma\sigma_{P}^{2}}}\end{array}$  in the tangency [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and a share 1- in the risk-freeasset  
+An investor with risk aversion Y will optimally invest a share  $\begin{array}{r}{y=\frac{\mathbb{E}(r_{P})-r_{f}}{\gamma\sigma_{P}^{2}}}\end{array}$  in the tangency portfolio and a share 1- in the risk-freeasset  
 # Multiple Risky Assets  
 
- ![500](Attachments/500-631.jpg)  
+ !500  
 
 Source:BKM Figure7.10  
 
-[Efficient frontier](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) describes portfolios with highest mean at any given standard deviation ●Each individual stock/bond is typically below the [efficient frontier](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) Any [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) on the [efficient frontier](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) is a linear combination of the global minimum variance [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and the tangency [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) It is again optimal to hold a combination of the tangency [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) andtherisk-freeasset  
+Efficient frontier describes portfolios with highest mean at any given standard deviation ●Each individual stock/bond is typically below the efficient frontier Any portfolio on the efficient frontier is a linear combination of the global minimum variance portfolio and the tangency portfolio It is again optimal to hold a combination of the tangency portfolio andtherisk-freeasset  
 # Optimal Capital Allocation Line  
 
- ![500](Attachments/500-629.jpg)  
+ !500  
 
 Source:BKM Figure 7.11  
 
-Mutual Fund Theorem:All investors hold the same [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of risky assets (i.e. mutual fund). Only the allocation between the risky portfolic andtherisk-free asset is different across investors.  
+Mutual Fund Theorem:All investors hold the same portfolio of risky assets (i.e. mutual fund). Only the allocation between the risky portfolic andtherisk-free asset is different across investors.  
 # Summary Learning Objectives for "Portfolio Choice'  
 
-Understand [mean-variance analysis](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) and risk aversion Risky asset share with one risky asset  
+Understand mean-variance analysis and risk aversion Risky asset share with one risky asset  
 
 Allocation within risky assets (i.e. stock picking) does not depend on individual risk a version  
 
-Optimal [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) allocation depends on correlation between stocks andbonds  
+Optimal portfolio allocation depends on correlation between stocks andbonds  
 # Portfolio Choice  
 
 # Prof. Carolin Pflueger  
@@ -1136,56 +1136,56 @@ University of Chicago-Harris School of Public Policy
 
 How should you split your investments between different stocks, bonds, real estate etc.?  
 
-[Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) allocation is one of the most important [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) decisions for pension funds and individual investors  
+Portfolio allocation is one of the most important investment decisions for pension funds and individual investors  
 
-We will derive [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) rules for the two main steps in top-down [asset allocation](../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md):  
+We will derive portfolio rules for the two main steps in top-down asset allocation:  
 
-Decide on how much to invest in each asset class (e.g. stocks vs. bonds?) Decide on [asset allocation](../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md) within each class (e.g- which [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of Stocks?)  
+Decide on how much to invest in each asset class (e.g. stocks vs. bonds?) Decide on asset allocation within each class (e.g- which portfolio of Stocks?)  
 
-● Main framework: [Mean-variance analysis](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) (Markowitz) Reading:B KM Chapters 6 and 7  
+● Main framework: Mean-variance analysis (Markowitz) Reading:B KM Chapters 6 and 7  
 # Example Asset Allocation: Cook County Pension Fund  
 
- ![500](Attachments/500-642.jpg)  
-Cook County [Asset Allocation](../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md) As of December 31,2018  
+ !500  
+Cook County Asset Allocation As of December 31,2018  
 
-Cook County [Pension Fund](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Uses%20of%20Interest%20Rate%20Swaps.md),accessed10/18/2020  
+Cook County Pension Fund,accessed10/18/2020  
 
-Question: Why allocate funds to [fixed income](../Fixed%20Income%20Asset%20Pricing/Lecture%20Notes%20Bonds,%20%20Preferred%20Stock,%20%20and%20Structured%20Products.md)?  
+Question: Why allocate funds to fixed income?  
 # Learning Goals  
 
-Risk aversion and [mean-variance analysis](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) Optimal risky asset share with one risky and one safe asset
+Risk aversion and mean-variance analysis Optimal risky asset share with one risky and one safe asset
 
-  $\mathbf{\Theta}$   Optimal [asset allocation](../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md) with two risky assets  
+  $\mathbf{\Theta}$   Optimal asset allocation with two risky assets  
 
-Application: [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunity set for stocks and long-term bonds  
+Application: Investment opportunity set for stocks and long-term bonds  
 $\textdollar{\Theta}$  Mutual fund theorem  
 # What is risk aversion?  
 
-·It captures your personal [preference](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md).Different for every person. Key parameter: Risk-aversion Y  The higher is y the more you dislike risk Do you prefer a higher [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) with more risk?  Backcountry skiing in steep terrain is more fun, but also has greater risk  
+·It captures your personal preference.Different for every person. Key parameter: Risk-aversion Y  The higher is y the more you dislike risk Do you prefer a higher expected return with more risk?  Backcountry skiing in steep terrain is more fun, but also has greater risk  
 # What is risk aversion?  
 
-It captures your personal [preference](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%205%20-%20Modeling%20the%20Preferences%20of%20Individuals/Utility%20Indices.md).Different for every person.  
+It captures your personal preference.Different for every person.  
 
 Key parameter: Risk-aversion  
 
 The higher is y the more you dislike risk  
 
-Do you prefer a higher [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) with more risk? ● Backcountry sking in steep terrain is more fun, but also has greater risk
+Do you prefer a higher expected return with more risk? ● Backcountry sking in steep terrain is more fun, but also has greater risk
 
-  Or do you prefer a lower [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) in exchange for less risk? In-bounds skiing ongreens and blues  
+  Or do you prefer a lower expected return in exchange for less risk? In-bounds skiing ongreens and blues  
 # Risk-Loving (low )  
 
- ![500](Attachments/500-642.jpg)  
+ !500  
 
 Source:https://coast backcountry.com/2005/02/26/fissile-peak-northwest-face/ accessed 10/23/2019  
 # Risk-Averse (high y)  
 
- ![500](Attachments/500-647.jpg)  
+ !500  
 
 https://www.whistler.com/blog/post/2017/01/17/whistler-green-ski-runs/ accessed 10/23/2019  
 # Risk Aversion and Investments  
 
-Which [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunity do you prefer? You invest 1o0 \$ today and can choose between strategies A or B. In a year, you receive the following  
+Which investment opportunity do you prefer? You invest 1o0 \$ today and can choose between strategies A or B. In a year, you receive the following  
 
 A 110 0 Probability 100% 0%  
 
@@ -1196,9 +1196,9 @@ Which one do you prefer?
 Which strategy will a risk-averse (high v) investor prefer? Which one a risk-loving investor (low y)?  
 # Risk Aversion and Utility Values  
 
-We will assume that each investor assigns a welfare, or utility, score to each [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
+We will assume that each investor assigns a welfare, or utility, score to each portfolio  
 
-Utility increases with [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md)  
+Utility increases with expected return  
 
 Utility decreases with expected risk  
 
@@ -1207,41 +1207,41 @@ $$
 U\;\;=\;\;E(r)-\frac{1}{2}\gamma\sigma^{2}
 $$  
 
-The [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in question is the investor's overall or complete portfolic  
+The portfolio in question is the investor's overall or complete portfolic  
 # Concept Check 6.1 (BKM Chapter 6)  
 
-A [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) has an expected rate of return of 15% and a standard deviation of 30%.T-bills offer a safe rate of return of 7%  
+A portfolio has an expected rate of return of 15% and a standard deviation of 30%.T-bills offer a safe rate of return of 7%  
 
-Would an investor with risk-aversion parameter  $\gamma\!=\!4$  prefer to invest in T-bills or the risky [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)?  
+Would an investor with risk-aversion parameter  $\gamma\!=\!4$  prefer to invest in T-bills or the risky portfolio?  
 # Learning Goals  
 
-Risk aversion and [mean-variance analysis](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) Optimal risky asset share with one risky andonesafe asset
+Risk aversion and mean-variance analysis Optimal risky asset share with one risky andonesafe asset
 
-  $\mathbf{\Theta}$  Optimal [asset allocation](../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md) with two risky assets  
+  $\mathbf{\Theta}$  Optimal asset allocation with two risky assets  
 
-Application: [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunity set for stocks and long-term bonds  
+Application: Investment opportunity set for stocks and long-term bonds  
 $\textdollar{\Theta}$  Mutual fund theorem  
 # Portfolios of One Risky Asset and Risk-Free Asset  
 
 Risky rate of return rp, expected risky rate of return   $\mathbb{E}(r_{P})$  ,standard deviation Op  
 
-Risk-freerate ofreturns  $r_{f}$  ,with standard deviation zero Invest proportion y into risky [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and 1 - y into [risk-free asset](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) The return on the complete [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is  
+Risk-freerate ofreturns  $r_{f}$  ,with standard deviation zero Invest proportion y into risky portfolio and 1 - y into risk-free asset The return on the complete portfolio is  
 $$
 \begin{array}{r c l}{r_{C}}&{=}&{y r_{P}+(1-y)r_{f}}\end{array}
 $$  
 # Portfolios of One Risky Asset and Risk-Free Asset  
 
-[Expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) on [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  
+Expected return on portfolio  
 $$
 \begin{array}{r l r}{\mathbb{E}\left(r_{C}\right)}&{=}&{y\mathbb{E}\left(r_{P}\right)+\left(1-y\right)r_{f}}\\ &{=}&{r_{f}+y\left[\mathbb{E}\left(r_{P}\right)-r_{f}\right]}\end{array}
 $$  
 
-Variance of [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) return:  
+Variance of portfolio return:  
 $$
 \begin{array}{r c l}{{V a r\left(y r_{P}+\left(1-y\right)r_{f}\right)}}&{{=}}&{{V a r\left(y\times r_{P}\right)}}\\ {{}}&{{=}}&{{y^{2}\,V a r\left(r_{P}\right)=y}}\end{array}
 $$  
 
-Standard deviation of complete [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)?  
+Standard deviation of complete portfolio?  
 
 Which risky asset share, y, is optimal?  
 # Finding the optimal risky asset share  
@@ -1264,43 +1264,43 @@ $$
 
 The CAL plots the available mean-standard deviation return combinations  
 
- ![500](Attachments/500-650.jpg)  
+ !500  
 
 Source:BKM Figure 6.3  
 
 _E(rp)-rf Slope of CAL=Sharpe ratio of risky asset= Op  
 
-If the risky asset is a broad [stock index](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md), this is also called the Capital Markets Line (CML)  
+If the risky asset is a broad stock index, this is also called the Capital Markets Line (CML)  
 # Choose feasible allocation on highest indifference curve  
 
- ![500](Attachments/500-640.jpg)  
+ !500  
 
 Source:BKM Figure 6.7  
 
-Visually, the optimal [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) represents the point, C, at which the indifference curve is tangent to the CAL.  
+Visually, the optimal portfolio represents the point, C, at which the indifference curve is tangent to the CAL.  
 # Learning Goals  
 
-Risk aversion and [mean-variance analysis](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) Optimal risky asset share with one risky and one safe asset 3 Optimal [asset allocation](../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md) with two risky assets  
+Risk aversion and mean-variance analysis Optimal risky asset share with one risky and one safe asset 3 Optimal asset allocation with two risky assets  
 
-Application: [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunity set for stocks and long-term bonds  
+Application: Investment opportunity set for stocks and long-term bonds  
 $\textdollar{\Theta}$   Mutual fund theorem  
 # Benefits of Diversification  
 
- ![500](Attachments/500-634.jpg)  
+ !500  
 
 Source:BKMFigure7.2  
 
-Takeaway: It is beneficial to hold more than one stock. You can significantly reduce your overall [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) risk by holding an equally-weighted port to lio ot≥20stocks  
+Takeaway: It is beneficial to hold more than one stock. You can significantly reduce your overall portfolio risk by holding an equally-weighted port to lio ot≥20stocks  
 # Optimal Weights withTwo Risky Assets  
 
-[Portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) share wp in bond fund and share  $w_{E}=1-w_{D}$  in equity fund (both of which are risky)  
+Portfolio share wp in bond fund and share  $w_{E}=1-w_{D}$  in equity fund (both of which are risky)  
 
-Rate of return on [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) equals  
+Rate of return on portfolio equals  
 $$
 \begin{array}{r c l}{r_{P}}&{=}&{w_{D}r_{D}+w_{E}r_{E}}\end{array}
 $$  
 
-Expected rate of return on [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is weighted average:  
+Expected rate of return on portfolio is weighted average:  
 $$
 \begin{array}{r l r}{{\mathbb{E}}\left(r_{P}\right)}&{=}&{w_{D}{\mathbb{E}}\left(r_{D}\right)+w_{E}{\mathbb{E}}\left(r_{E}\right)}\end{array}
 $$  
@@ -1310,7 +1310,7 @@ $$
 \begin{array}{r l}{=}&{{}w_{D}^{2}\sigma_{D}^{2}+w_{E}^{2}\sigma_{E}^{2}+2w_{D}w_{E}C o v\left(r_{D},r_{E}\right)}\\ {=}&{{}w_{D}^{2}\sigma_{D}^{2}+w_{E}^{2}\sigma_{E}^{2}+2w_{D}w_{E}\sigma_{D}\sigma_{E}C o r r\left(m_{D},m_{E}\right)}\end{array}
 $$  
 
-The set of combinations for   $\mathbb{E}\left(r_{P}\right)$  and  $\sigma_{P}$   available to investors is the [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunity set  
+The set of combinations for   $\mathbb{E}\left(r_{P}\right)$  and  $\sigma_{P}$   available to investors is the investment opportunity set  
 # Optimal Investment Proportions  
 
 Substitute expressions for expectation and variance into utility  
@@ -1320,83 +1320,83 @@ $$
 
 Take the derivative with respect to  $w_{D}$   and setting it to zero  $\begin{array}{r}{\frac{d U}{d w_{D}}=0}\end{array}$  
 
-This gives optimal [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) shares:  
+This gives optimal portfolio shares:  
 $$
 \begin{array}{r c l}{\mathbf{\Omega}_{D}^{*}}&{=}&{\displaystyle\frac{\mathbb{E}\left(r_{D}\right)-\mathbb{E}\left(r_{E}\right)+\gamma\left(\sigma_{E}^{2}-C o v\left(r_{D}\right.}\\ {\displaystyle\gamma\left(\sigma_{D}^{2}+\sigma_{E}^{2}-2C o v\left(r_{D},r_{E}\right)\right)}\\ {\mathbf{\Omega}_{E}^{*}}&{=}&{\displaystyle\mathbf{1}-\mathbf{w}_{D}^{*}}\end{array}
 $$  
 # Learning Goals  
 
-Risk aversion and [mean-variance analysis](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) Optimal risky asset share with one risky and one safe asset Optimal [asset allocation](../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md) with two risky assets  
+Risk aversion and mean-variance analysis Optimal risky asset share with one risky and one safe asset Optimal asset allocation with two risky assets  
 
-Application: [Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunity set for stocks and long-term bonds  
+Application: Investment opportunity set for stocks and long-term bonds  
 
 Mutual fund theorem  
 # Correlation of Bonds and Stocks has Changed  
 
- ![500](Attachments/500-642.jpg)  
+ !500  
 
 # Source: Campbell, Pflueger, and Viceira (2020)  
 
-Takeaway: Bonds changed from positive correlation with stocks (i.e. increasing overall [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) variance) to negatively correlated with stocks (i.e. decreasing overall [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) variance, hedges), recentchanges  
+Takeaway: Bonds changed from positive correlation with stocks (i.e. increasing overall portfolio variance) to negatively correlated with stocks (i.e. decreasing overall portfolio variance, hedges), recentchanges  
 # Bond-Stock Correlation Drives Portfolio Volatility  
 
-Figure5:Volatility of an equity-bond [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) with an X percent equity allocation(x-axis)across correlations  
+Figure5:Volatility of an equity-bond portfolio with an X percent equity allocation(x-axis)across correlations  
 
- ![500](Attachments/500-636.jpg)  
+ !500  
 Source:Leibowitz and B ova(2012),NBIM  
 # Task: Compute Investment Opportunity Set with Stocks andBonds  
 
-·Assume the following numbers for 5-year Treasury bonds and stocks Average risk-freerate  $=5\%$  ●Average bond excess [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) = 2% ● Std. bond excess [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) = 5% ●Avg. stock excess [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) = 6% ●Std.stock excess [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  $=16\%$  Correlation bonds-stocks  $=0$  ·For an equity [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) share of 0,10%,20%,...,100%, compute 1 The bond share 2 The variance of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) excess return 3 The standard deviation of the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) excess return 4 The average [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) excess return and the average [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) return  $\textdollar{\Theta}$  The Sharpe ratio Make a plot showing each [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)'s return standard deviation on the x-axis and the [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)'s average excess return on the y-axis : Question: Which of the ten portfolios has the highest Sharpe ratio?  
+·Assume the following numbers for 5-year Treasury bonds and stocks Average risk-freerate  $=5\%$  ●Average bond excess returns = 2% ● Std. bond excess returns = 5% ●Avg. stock excess returns = 6% ●Std.stock excess returns  $=16\%$  Correlation bonds-stocks  $=0$  ·For an equity portfolio share of 0,10%,20%,...,100%, compute 1 The bond share 2 The variance of the portfolio excess return 3 The standard deviation of the portfolio excess return 4 The average portfolio excess return and the average portfolio return  $\textdollar{\Theta}$  The Sharpe ratio Make a plot showing each portfolio's return standard deviation on the x-axis and the portfolio's average excess return on the y-axis : Question: Which of the ten portfolios has the highest Sharpe ratio?  
 # Learning Goals  
 
-DRisk aversion and [mean-variance analysis](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) Optimal risky asset share with one risky and one safe asset
+DRisk aversion and mean-variance analysis Optimal risky asset share with one risky and one safe asset
 
-  $\mathbf{\Theta}$   Optimal [asset allocation](../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md) with two risky assets  
+  $\mathbf{\Theta}$   Optimal asset allocation with two risky assets  
 
-Application:[Investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) opportunity set for stocks and long-term bonds  
+Application:Investment opportunity set for stocks and long-term bonds  
 $\textdollar{\Theta}$  Mutual fund theorem  
 # Asset Allocation with Two Risky Assets and a Risk-Free Asset  
 
- ![500](Attachments/500-630.jpg)  
+ !500  
 
 Source:BKM Figure7.6  
 
 ·Portfolios A and B have different capital allocation lines (CAL) Slope of CAL is Sharpe ratio of portfolic  
 # But we can do better..  
 
- ![500](Attachments/500-625.jpg)  
+ !500  
 
 Source:BKM Figure 7.7  
 
 # Choose tangency portfolio  $P$  , which has highest possible Sharpe Ratio  
 # Optimal Portfolio  
 
-Optimal [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) is a combination of the [risk-free asset](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) and the tang en cy [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) P  
+Optimal portfolio is a combination of the risk-free asset and the tang en cy portfolio P  
 
-Tangency [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)  $P$  has weights wp and we in bonds and stocks that generate the highest possible Sharpe ratic  
+Tangency portfolio  $P$  has weights wp and we in bonds and stocks that generate the highest possible Sharpe ratic  
 
-An investor with risk aversion Y will optimally invest a share  $\begin{array}{r}{y=\frac{\mathbb{E}(r_{P})-r_{f}}{\gamma\sigma_{P}^{2}}}\end{array}$  in the tangency [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and a share 1- in the risk-freeasset  
+An investor with risk aversion Y will optimally invest a share  $\begin{array}{r}{y=\frac{\mathbb{E}(r_{P})-r_{f}}{\gamma\sigma_{P}^{2}}}\end{array}$  in the tangency portfolio and a share 1- in the risk-freeasset  
 # Multiple Risky Assets  
 
- ![500](Attachments/500-631.jpg)  
+ !500  
 
 Source:BKM Figure7.10  
 
-[Efficient frontier](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) describes portfolios with highest mean at any given standard deviation ●Each individual stock/bond is typically below the [efficient frontier](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) Any [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) on the [efficient frontier](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) is a linear combination of the global minimum variance [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) and the tangency [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) It is again optimal to hold a combination of the tangency [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) andtherisk-freeasset  
+Efficient frontier describes portfolios with highest mean at any given standard deviation ●Each individual stock/bond is typically below the efficient frontier Any portfolio on the efficient frontier is a linear combination of the global minimum variance portfolio and the tangency portfolio It is again optimal to hold a combination of the tangency portfolio andtherisk-freeasset  
 # Optimal Capital Allocation Line  
 
- ![500](Attachments/500-629.jpg)  
+ !500  
 
 Source:BKM Figure 7.11  
 
-Mutual Fund Theorem:All investors hold the same [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) of risky assets (i.e. mutual fund). Only the allocation between the risky portfolic andtherisk-free asset is different across investors.  
+Mutual Fund Theorem:All investors hold the same portfolio of risky assets (i.e. mutual fund). Only the allocation between the risky portfolic andtherisk-free asset is different across investors.  
 # Summary Learning Objectives for "Portfolio Choice'  
 
-Understand [mean-variance analysis](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) and risk aversion Risky asset share with one risky asset  
+Understand mean-variance analysis and risk aversion Risky asset share with one risky asset  
 
 Allocation within risky assets (i.e. stock picking) does not depend on individual risk a version  
 
-Optimal [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) allocation depends on correlation between stocks andbonds  
+Optimal portfolio allocation depends on correlation between stocks andbonds  
 # The Efficient Markets Hypothesis and Return Dynamics  
 
 # Prof. Carolin Pflueger  
@@ -1404,23 +1404,23 @@ Optimal [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.m
 University of Chicago-Harris School of Public Policy Autumn 2023  
 # Overview: Efficient Markets Hypothesis and Stock Return Predictability  
 
-Predictability of [asset returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%201%20-%20Introduction%20and%20Overview/Some%20Stylized%20Empirical%20Facts%20About%20Asset%20Retur.md) is one of the oldest and fundamental questions in empirical finance  
+Predictability of asset returns is one of the oldest and fundamental questions in empirical finance  
 
-Why predict the aggregate [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md)? Decide when to get in and out of stocks!  
+Why predict the aggregate stock market? Decide when to get in and out of stocks!  
 
-Optimal [asset allocation](../Advanced%20Investments/Lecture%202-%20Asset%20Allocation%20with%20Multiple%20Risky%20Assets.md) for long-term investors (pension funds endowments etc.)  
+Optimal asset allocation for long-term investors (pension funds endowments etc.)  
 # Learning Goals  
 
 Efficient markets hypothesis  
 
-Predicting [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) index using past [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+Predicting stock market index using past returns  
 
-Implications for long-term [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) allocation  
+Implications for long-term portfolio allocation  
 
-[Dividend discount model](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%201/Week%201%20Ratio%20Analysis%20+%20Valuation%20Review.md) and predicting stocks from dividend yield  
+Dividend discount model and predicting stocks from dividend yield  
 # Gamblers in the 17th Century  
 
- ![500](Attachments/500-643.jpg)  
+ !500  
 
 Musee du Louvre/A.Dequier -M.Bard  
 # Market Efficiency  
@@ -1429,37 +1429,37 @@ Fama (1970): “Prices fully reflect all available information"
 
 Malkiel (1992, New Palgrave Dictionary of Money and Finance):“A capital market is said to be efficient i fitfully and correctly reveals all available information in determining security prices. (..)It is impossible to make economic profitsby trading on thebasis of (information)."  
 
-Inpractice,[market efficiency](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%2012%20Market%20Efficiency.md) is often interpreted that it is impossible to forecast [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md). Otherwise, we could make [trading profits](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%201%20Introduction%20to%20Securities%20Trading%20and%20Markets.md).  
+Inpractice,market efficiency is often interpreted that it is impossible to forecast returns. Otherwise, we could make trading profits.  
 # Market Efficiency  
 
 Fama (1970): “Prices fully reflect all available information"  
 
 Malkiel (1992, New Palgrave Dictionary of Money and Finance):“A capital market is said to be efficient if it fully and correctly reveals all available information in determining security prices. (..)It is impossible tomake economic profits by trading on thebasisof (information)."  
 
-Inpractice,[market efficiency](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%2012%20Market%20Efficiency.md) is often interpreted that it is impossible to forecast [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md).Otherwise,we could make [trading profits](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%201%20Introduction%20to%20Securities%20Trading%20and%20Markets.md)  
+Inpractice,market efficiency is often interpreted that it is impossible to forecast returns.Otherwise,we could make trading profits  
 
-Stricly speaking,this prediction only follows from [market efficiency](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%2012%20Market%20Efficiency.md) if investors's required compensation for risk does not vary over time.  
+Stricly speaking,this prediction only follows from market efficiency if investors's required compensation for risk does not vary over time.  
 # Market Efficiency  
 
 Fama (1970): “Prices fully reflect all available information"  
 
 Malkiel(1992, New Palgrave Dictionary of Money and Finance):“A capital market is said to be efficient if it fully and correctly reveals all available information in determining security prices. (..)It is impossible tomake economic profits by trading on the basisof (information)."  
 
-Inpractice,[market efficiency](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%2012%20Market%20Efficiency.md) is often interpreted that it is impossible to forecast [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md).Otherwise, we could make [trading profits](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%201%20Introduction%20to%20Securities%20Trading%20and%20Markets.md)  
+Inpractice,market efficiency is often interpreted that it is impossible to forecast returns.Otherwise, we could make trading profits  
 
-Stricly speaking, this prediction only follows from [market efficiency](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%2012%20Market%20Efficiency.md) if investors's required compensation for risk does not vary over time.  
+Stricly speaking, this prediction only follows from market efficiency if investors's required compensation for risk does not vary over time.  
 
 We will test whether this istrue inthe data  
 # Famous Quotes on Market Efficiency  
 
 Michael Jensen (1978): "There is no other proposition in economics which has more solid evidence supporting it than the Efficient Markets Hypothesis".  
 
-RobertS hiller(1984):"[Returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) on speculative assets are nearly un forecast able; this fact is the basis of the most important argument in the oral tradition against a role for mass psychology in speculative markets. One form of this argument claims that because real [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are nearly un forecast able,the real price of stocks is close to the intrinsic value, that is, the present value with constant [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) of optimally forecasted future real dividends. This argument... is one of the most remarkable errors in the history of economic thought".  
+RobertS hiller(1984):"Returns on speculative assets are nearly un forecast able; this fact is the basis of the most important argument in the oral tradition against a role for mass psychology in speculative markets. One form of this argument claims that because real returns are nearly un forecast able,the real price of stocks is close to the intrinsic value, that is, the present value with constant discount rate of optimally forecasted future real dividends. This argument... is one of the most remarkable errors in the history of economic thought".  
 # Three Types of Market Efficiency  
 
-Which information is incorporated into prices and hence be unable to forecast future [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)?  
+Which information is incorporated into prices and hence be unable to forecast future returns?  
 
-Weakform efficiency.Past [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md). ● Semi-strong form efficiency. Past publicly available information, e.g., stock splits, dividends, earnings. Strong form efficiency. Past information, even if only available to insiders. Empirically, it may be possible to attain abnormal [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) using only private information. ·But this is also illegal.  
+Weakform efficiency.Past returns. ● Semi-strong form efficiency. Past publicly available information, e.g., stock splits, dividends, earnings. Strong form efficiency. Past information, even if only available to insiders. Empirically, it may be possible to attain abnormal returns using only private information. ·But this is also illegal.  
 # Why Should Market Efficiency Hold?  
 
 Idea is based on competition  
@@ -1468,107 +1468,107 @@ If prices did not reflect all available information, someone could trade onthis
 
 Investors would bid up price until it reflects information  
 
-[Financial markets](../Financial%20Markets%20and%20Institutions/Financial%20Markets%20and%20Institutions%20Lecture%20Notes.md) are competitive, full of smart investors. Don't underestimate your competition!  
+Financial markets are competitive, full of smart investors. Don't underestimate your competition!  
 # Evidence from Takeovers Supports EMH  
 
- ![500](Attachments/500-654.jpg)  
+ !500  
 BKM Figure 11.1  
 # Evidence from CNBC Reports Supports EMH  
 
- ![500](Attachments/500-642.jpg)  
+ !500  
 BKM Figure 11.2  
 # Learning Goals  
 
 Efficient markets hypothesis  
 
-Predicting [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) index using past [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+Predicting stock market index using past returns  
 
-Implications for long-term [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) allocation  
+Implications for long-term portfolio allocation  
 
-[Dividend discount model](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%201/Week%201%20Ratio%20Analysis%20+%20Valuation%20Review.md) and predicting stocks from dividend yield  
+Dividend discount model and predicting stocks from dividend yield  
 # Forecasting Stock Returns with Past Returns  
 
-To see whether past stock [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) forecast future stock [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) estimate regression(AR(1)Model)  
+To see whether past stock returns forecast future stock returns estimate regression(AR(1)Model)  
 $$
 \begin{array}{r c l}{r_{t+1}}&{=}&{a+\rho\,r_{t}+\varepsilon_{t+1}}\\ &{=}&{\mu\big(1-\rho\big)+\rho\,r_{t}+\varepsilon_{t+1}}\end{array}
 $$  
 
-p:first-order auto correlation-this is the main coefficient of interest μ: long-run mean of market [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) where  $a=\mu(1-\rho)$  
+p:first-order auto correlation-this is the main coefficient of interest μ: long-run mean of market returns where  $a=\mu(1-\rho)$  
 # Forecasting Stock Returns with Past Returns  
 
-To see whether past stock [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) forecast future stock [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) estimate regression(AR(1)Model)  
+To see whether past stock returns forecast future stock returns estimate regression(AR(1)Model)  
 $$
 \begin{array}{r c l}{r_{t+1}}&{=}&{a+\rho\,r_{t}+\varepsilon_{t+1}}\\ &{=}&{\mu\big(1-\rho\big)+\rho\,r_{t}+\varepsilon_{t+1}}\end{array}
 $$  
 
-p: first-order auto correlation - this is the main coefficient of interest  $\mu$  : long-run mean of market [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) where   $a=\mu(1-\rho)$  
+p: first-order auto correlation - this is the main coefficient of interest  $\mu$  : long-run mean of market returns where   $a=\mu(1-\rho)$  
 
-When  $\rho=0$  , we call the [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) ‘id'=independent and identically distributed  
+When  $\rho=0$  , we call the returns ‘id'=independent and identically distributed  
 
-：Consistent with [market efficiency](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%2012%20Market%20Efficiency.md)  Implies no predictability in [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+：Consistent with market efficiency  Implies no predictability in returns  
 # Illustration: Positive Auto correlation  
 
- ![500](Attachments/500-639.jpg)  
+ !500  
 
-If  $\rho>0$  , positive [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) tend to be followed by positive [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+If  $\rho>0$  , positive returns tend to be followed by positive returns  
 # ll lust ration: Positive Auto correlation  
 
- ![500](Attachments/500-632.jpg)  
+ !500  
 
-OIf  $\rho>0$  ,positive [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) tend tobe followed by positive [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) ● If market not perfectly efficient, time t price does not fully increase to the new [efficient market](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%2012%20Market%20Efficiency.md) price  
+OIf  $\rho>0$  ,positive returns tend tobe followed by positive returns ● If market not perfectly efficient, time t price does not fully increase to the new efficient market price  
 # ll lust ration: Positive Auto correlation  
 
- ![500](Attachments/500-632.jpg)  
+ !500  
 
-f  $\rho>0$  , positive [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) tend to be followed by positive [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+f  $\rho>0$  , positive returns tend to be followed by positive returns  
 
-·If market not perfectly efficient, time t price does not fully increase to the new [efficient market](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%2012%20Market%20Efficiency.md) price Prices increases in period  $t+1$  to further close the gap to the new [efficient market](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%2012%20Market%20Efficiency.md) price  
+·If market not perfectly efficient, time t price does not fully increase to the new efficient market price Prices increases in period  $t+1$  to further close the gap to the new efficient market price  
 # Trading Strategies: Positive Auto correlation  
 
-If [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are positively auto correlated (2-12 month [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md))  
+If returns are positively auto correlated (2-12 month returns)  
 
-● Momentum/Continuation trading rules are profitable (on average) Buy when price have been going up Market [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) under react to news .Interview with Cliff As ness  
+● Momentum/Continuation trading rules are profitable (on average) Buy when price have been going up Market returns under react to news .Interview with Cliff As ness  
 # Trading Strategies: Negative Auto correlation  
 
-If [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are negatively auto correlated (3-5 year [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md))  
+If returns are negatively auto correlated (3-5 year returns)  
 
-Contrarian/Reversal trading rules are profitable (on average) Market [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) overreact tonews  
+Contrarian/Reversal trading rules are profitable (on average) Market returns overreact tonews  
 # Forecasting Returns  
 
-Conditional expectation E  $\left[r_{t+1}|r_{t}\right]$  is expectation of  $r_{t+1}$   after having observed  $r_{t}$  
+Conditional expectation E  $\left[r_{t+1} | r_{t}\right]$  is expectation of  $r_{t+1}$   after having observed  $r_{t}$
 # Forecasting Returns  
 
-Conditional expectation E  $\left[r_{t+1}|r_{t}\right]$  is expectation of  $r_{t+1}$   after having observed  $r_{t}$  
+Conditional expectation E  $\left[r_{t+1} | r_{t}\right]$  is expectation of  $r_{t+1}$   after having observed  $r_{t}$
 $$
-\boldsymbol{\bullet}\ \mathsf{E}[r_{t+1}|r_{t}]=(1-\rho)\boldsymbol{\mu}+\rho\,r_{t}
+\boldsymbol{\bullet}\ \mathsf{E}[r_{t+1} | r_{t}]=(1-\rho)\boldsymbol{\mu}+\rho\,r_{t}
 $$  
 
-Expect next period's return to be a weighted average of the long-run mean  $\mu$   and the current [realized return](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md)  $r_{t}$  
+Expect next period's return to be a weighted average of the long-run mean  $\mu$   and the current realized return  $r_{t}$  
 # Forecasting Returns  
 
-Conditional expectation E  $\left[r_{t+1}|r_{t}\right]$  is expectation of  $r_{t+1}$   after having observed  $r_{t}$  
+Conditional expectation E  $\left[r_{t+1} | r_{t}\right]$  is expectation of  $r_{t+1}$   after having observed  $r_{t}$
 $$
-,\,\,\mathsf{E}[r_{t+1}|r_{t}]=(1-\rho)\mu+\rho r_{t}
+,\,\,\mathsf{E}[r_{t+1} | r_{t}]=(1-\rho)\mu+\rho r_{t}
 $$  
 
-Expect next period's return to be a weighted average of the long-rur mean  $\mu$   and the current [realized return](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md)  $r_{t}$  
+Expect next period's return to be a weighted average of the long-rur mean  $\mu$   and the current realized return  $r_{t}$  
 
 Expected next month stock return depends on whether the market recently went up or down!  
 # Forecasting Returns  
 
-Conditional expectation E  $\left[r_{t+1}|r_{t}\right]$  is expectation of  $r_{t+1}$   after having observed  $r_{t}$  
+Conditional expectation E  $\left[r_{t+1} | r_{t}\right]$  is expectation of  $r_{t+1}$   after having observed  $r_{t}$
 $$
-,\,\,\mathsf{E}[r_{t+1}|r_{t}]=(1-\rho)\mu+\rho r_{t}
+,\,\,\mathsf{E}[r_{t+1} | r_{t}]=(1-\rho)\mu+\rho r_{t}
 $$  
 
-Expect next period's return to be a weighted average of the long-run mean  $\mu$   and the current [realized return](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md)  $r_{t}$  
+Expect next period's return to be a weighted average of the long-run mean  $\mu$   and the current realized return  $r_{t}$  
 
 Expected next month stock return depends on whether the market recently went up or down!  
 
-If  $\rho>0$  , an above-average return forecasts above-average [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) If  $\rho<0$  , an above-average return forecasts below-average [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+If  $\rho>0$  , an above-average return forecasts above-average returns If  $\rho<0$  , an above-average return forecasts below-average returns  
 # Interpreting the Auto correlation Coefficient  
 
- ![500](Attachments/500-637.jpg)  
+ !500  
 $$
 \bullet\,\,\,r_{t+1}-\mu=\rho\big(r_{t}-\mu\big)+\varepsilon_{t+1}
 $$  
@@ -1589,7 +1589,7 @@ $$
 r_{t+1}=\mathsf{a}+\rho\,r_{t}+\varepsilon_{t+1}
 $$  
 
-p equals correlation of [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) with previous period [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) —> estimate inExcel=correlO  
+p equals correlation of returns with previous period returns —> estimate inExcel=correlO  
 $$
 \rho=\frac{C o v(r_{t},r_{t+1})}{V a r(r_{t})}
 $$  
@@ -1602,7 +1602,7 @@ $$
 r_{t+1}=\mathsf{a}+\rho\,r_{t}+\varepsilon_{t+1}
 $$  
 
-p equals correlation of [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) with previous period [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) ——> estimate in Excel=correlO  
+p equals correlation of returns with previous period returns ——> estimate in Excel=correlO  
 $$
 \rho=\frac{C o v(r_{t},r_{t+1})}{V a r(r_{t})}
 $$  
@@ -1614,26 +1614,26 @@ $$
 
 Efficient markets hypothesis  
 
-Predicting [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) index using past [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+Predicting stock market index using past returns  
 
-Implications for long-term [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) allocation  
+Implications for long-term portfolio allocation  
 
-[Dividend discount model](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%201/Week%201%20Ratio%20Analysis%20+%20Valuation%20Review.md) and predicting stocks from dividend yield  
+Dividend discount model and predicting stocks from dividend yield  
 # Optimal Asset Allocation for Long-Term Investors  
 
-Investor choosing between [risk-free asset](../Financial%20Engineering/2.%20Forwards,%20Swaps,%20Futures,%20and%20Options.md) andstocks  
+Investor choosing between risk-free asset andstocks  
 
-E.g. [pension fund](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2013/Uses%20of%20Interest%20Rate%20Swaps.md) invests into 20% T-bills and 80% stocks  
+E.g. pension fund invests into 20% T-bills and 80% stocks  
 
 Common formula for the risky asset (stock) share is (Chapter 6.5 of BKM)  
 $$
 w_{T}\;\;=\;\;\frac{1}{\gamma}\frac{\mu_{T}}{\sigma_{T}^{2}}
 $$  
 
-ur=average stock [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) expected overT year horizon  $\sigma_{T}=$  standard deviation of stock [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) over  $T$  year horizon  $\nsucc$  risk aversion coefficient of [mean-variance](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) investor (more on that in the next chapter of the class,  
+ur=average stock returns expected overT year horizon  $\sigma_{T}=$  standard deviation of stock returns over  $T$  year horizon  $\nsucc$  risk aversion coefficient of mean-variance investor (more on that in the next chapter of the class,  
 # Definition: Log Return  
 
-For computing [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) over time, it is sometimes useful to work with logreturns  
+For computing returns over time, it is sometimes useful to work with logreturns  
 $$
 r_{t+1}~~=~~\log\left(1+R_{t+1}\right)
 $$  
@@ -1674,7 +1674,7 @@ $$
 Long-term investors should hold a higher risky asset share if auto correlation is negative("ride out the ups anddowns of the market")  
 # Consistent with Standard Target Date Funds  
 
- ![500](Attachments/500-641.jpg)  
+ !500  
 FIGURE5. Glide path for Vanguard target-datefunds  
 
 Vanguard's Approach to Target Date Funds (2022)  
@@ -1682,31 +1682,31 @@ Vanguard's Approach to Target Date Funds (2022)
 
 Efficient markets hypothesis  
 
-Predicting [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) index using past [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+Predicting stock market index using past returns  
 
-Implications for long-term [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) allocation  
+Implications for long-term portfolio allocation  
 
-[Dividend discount model](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%201/Week%201%20Ratio%20Analysis%20+%20Valuation%20Review.md) and predicting stocks from dividend yield  
+Dividend discount model and predicting stocks from dividend yield  
 # Linking Dividend-Price Ratio to Stock Returns  
 
-So far, we have used only lagged [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) to predict future stock [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md). There are good reasons to think that the dividend-price ratio (or dividend yield  $\frac{D_{t}}{P_{t}}$  predicts stock [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+So far, we have used only lagged returns to predict future stock returns. There are good reasons to think that the dividend-price ratio (or dividend yield  $\frac{D_{t}}{P_{t}}$  predicts stock returns  
 # Dividend Discount Model of  
 
-Consider the [Dividend Discount Model](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%201/Week%201%20Ratio%20Analysis%20+%20Valuation%20Review.md)(Gordon Growth Model) with constant expected [dividend growth](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Equity%20Commodity%20and%20Currency%20Math.md) G and constant [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md)  $R$  (Chapter18.3,BKM)  
+Consider the Dividend Discount Model(Gordon Growth Model) with constant expected dividend growth G and constant expected return  $R$  (Chapter18.3,BKM)  
 
 Dividends grow at constant rate G and investors require constant return  $R$  ,used for discounting  
 
-Price=Present Value of Expected [Future Cash Flows](../Financial%20Engineering/Advanced%20Derivatives%20Pricing%20Methodology.md)  
+Price=Present Value of Expected Future Cash Flows  
 $$
 \begin{array}{r c l}{P_{t}}&{=}&{\displaystyle\sum_{i=0}^{\infty}\mathsf{E}_{t}D_{t+1}\frac{(1+G)^{i}}{(1+R)^{i+1}}}\\ &{=}&{\displaystyle\frac{\mathsf{E}_{t}[D_{t+1}]}{R-G}}\\ &{=}&{\displaystyle\frac{(1+G)D_{t}}{R-G}}\end{array}
 $$  
 # Example 18.2 (BKM)  
 
-Preferred stock that pays a fixed dividend can be valued using constant growth [dividend discount model](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%201/Week%201%20Ratio%20Analysis%20+%20Valuation%20Review.md)  
+Preferred stock that pays a fixed dividend can be valued using constant growth dividend discount model  
 
 The constant growth rate is simply zero  
 
-Value a preferred stock paying a fixed dividend of \$2 per share when the [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) is 8%  
+Value a preferred stock paying a fixed dividend of \$2 per share when the discount rate is 8%  
 # Dividend Yield  
 
 This can be rewritten in terms of the dividend yield  
@@ -1717,41 +1717,41 @@ $$
 This implies that dividend yields are high if ·R is high ●G is low  
 # Historical U.S. Dividend-Price Ratio  
 
- ![500](Attachments/500-653.jpg)  
+ !500  
 USS&PDividend-PriceRatio  
 # Why are Dividend Yields Time-Varying?  
 
-Back to the [Dividend Discount Model](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%201/Week%201%20Ratio%20Analysis%20+%20Valuation%20Review.md) intuition  
+Back to the Dividend Discount Model intuition  
 
 The only way for the dividend yield to change is if ·Rchanges ·G changes  
 
-Investors and researchers have had very little success predicting [dividend growth](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Equity%20Commodity%20and%20Currency%20Math.md),especially at long horizons  
+Investors and researchers have had very little success predicting dividend growth,especially at long horizons  
 
-t follows that  $D Y_{t}$  must provide information about changes in R Equity [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are predictable using dividend yields  
+t follows that  $D Y_{t}$  must provide information about changes in R Equity returns are predictable using dividend yields  
 # Predictability Regression  
 
-The ability of dividend yields to predict expected [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) can be incorporated into a formal regression model  
+The ability of dividend yields to predict expected returns can be incorporated into a formal regression model  
 $$
 r_{t+1}=\alpha+\beta D Y_{t}+\varepsilon_{t+1}
 $$  
 # Application [Predictability.xls]  
 
-Using monthly US stock [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+Using monthly US stock returns  
 
 Calculate  
 
-Time-series of dividend yields Estimate the relationship between dividend yields and [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+Time-series of dividend yields Estimate the relationship between dividend yields and returns  
 
-Question:Does dividend yield predict stock [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) better over longer or shorter horizons?  
+Question:Does dividend yield predict stock returns better over longer or shorter horizons?  
 # Summary Learning Objectives for "Return Dynamics'  
 
-[Forecasting](../Advanced%20Financial%20Analysis%20and%20Valuation/Lecture%20Notes%20Advanced%20Financial%20Analysis%20and%20Valuation/Week%202/Week%202%20Fundamentals%20Of%20Forecasting.md) [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) from past [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+Forecasting returns from past returns  
 
 Estimating and interpreting return auto correlations  
 
-Implications for long-term [portfolio](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) choice and trading  
+Implications for long-term portfolio choice and trading  
 
-Predicting [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) from financial variables, in particular the dividend-priceratio  
+Predicting returns from financial variables, in particular the dividend-priceratio  
 # Returns, Yields, and the Historical Record  
 
 # Prof. Carolin Pflueger  
@@ -1787,14 +1787,14 @@ What is a typical return on stocks? What is a typical return on bonds? The weekl
 
 What should we expect to earn in an average year  
 
-Need some math to think about [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) and yields, then examine historical record  
+Need some math to think about returns and yields, then examine historical record  
 # Learning Goals  
 
-Compute [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) over different horizons Understand typical [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) on bonds and stocks
+Compute returns over different horizons Understand typical returns on bonds and stocks
 
   $\mathbf{\Theta}$  Computing bond yields from prices
 
-  $\textdollar{\odot}$  Use [duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) to approximate bond [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+  $\textdollar{\odot}$  Use duration to approximate bond returns  
 # Computing Returns  
 # Holding-Period Returns  
 
@@ -1805,20 +1805,20 @@ Alternative notation:  $R_{t+1}$  if the length of the holding period is specifi
 Example:t=September 2019，t+1=September 2020 Reading: BKM Chapter 5 “Risk, Return, and the Historical  
 # Holding-Period Return  
 
- ![500](Attachments/500-636.jpg)  
+ !500  
 
 Pt =beginning price Pt+1 = endprice Dt+1=cash dividend  This assumes that the dividend is paid at the end of the holding period  
 # Holding-Period Return  
 
- ![500](Attachments/500-649.jpg)  
+ !500  
 
-Pt =beginning price Pt+1 = end price  Dt+1 = cash dividend This assumes that the dividend is paid at the end of the holding period Example:  $\rho_{t+1}=110,\;P_{t}=100,\;D_{t+1}=4$  What is the [holding period return](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Yield%20and%20Return.md)?  
+Pt =beginning price Pt+1 = end price  Dt+1 = cash dividend This assumes that the dividend is paid at the end of the holding period Example:  $\rho_{t+1}=110,\;P_{t}=100,\;D_{t+1}=4$  What is the holding period return?  
 # Excess Returns  
 
-If you knew that the [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) offers the same return on average as the bond market, but with a greater standard deviation, would you invest in it?  
+If you knew that the stock market offers the same return on average as the bond market, but with a greater standard deviation, would you invest in it?  
 # Excess Returns  
 
-· If you knew that the [stock market](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md) offers the same return on average as the bond market, but with a greater standard deviation, would you investin it?  
+· If you knew that the stock market offers the same return on average as the bond market, but with a greater standard deviation, would you investin it?  
 
 Excess return is the return on a risky asset above and beyond what could have been earned on the"safe"asset  
 $$
@@ -1832,19 +1832,19 @@ The average excess return is also called the"risk premium’
 ·A perfectly safe asset does not exist,however in practice we usually use the rate of return on aT-bill to measure the safe rate of return from time to time t+1,  $R_{t+1}^{r f}$  
 # Returns over Different Time Horizons  
 
-· You invest one dollar at time t and earn [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)   $R_{t+1}$   $R_{t+12}$  in months 1, 2, ..., 12  
+· You invest one dollar at time t and earn returns   $R_{t+1}$   $R_{t+12}$  in months 1, 2, ..., 12  
 
 At the end of the year you have (1  ${}+R_{t+1}\big)\times\big(1+R_{t+2}\big)\times....\times\big(1+R_{t+12}\big)$  
 # Returns over Different Time Horizons  
 
-. You invest one dollar at time t and earn [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  $R_{t+1}$   $R_{t+12}$  in months 1, 2, .., 12  
+. You invest one dollar at time t and earn returns  $R_{t+1}$   $R_{t+12}$  in months 1, 2, .., 12  
 
 At the end of the year you have (1  ${}+R_{t+1}\big)\times\big(1+R_{t+2}\big)\times....\times\big(1+R_{t+12}\big)$  
 
 What is the return that you have earned over the full year?  
 # Returns over Different Time Horizons  
 
-· You invest one dollar at time t and earn [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)   $R_{t+1}$   $R_{t+12}$  in months 1, 2, ...., 12  
+· You invest one dollar at time t and earn returns   $R_{t+1}$   $R_{t+12}$  in months 1, 2, ...., 12  
 
 At the end of the year you have (1  ${}+R_{t+1}\big)\times\big(1+R_{t+2}\big)\times....\times\big(1+R_{t+12}\big)$  
 
@@ -1855,12 +1855,12 @@ Suppose you want to know what is the typical return earned on the S&P 500 over o
 
 In that case, you may want to regard each year as an equally likely 'scenario'  
 
-·If we have T annual [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  $R_{t}$  ,the [expected return](../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) is then estimated by the average of the sample rates of return  
+·If we have T annual returns  $R_{t}$  ,the expected return is then estimated by the average of the sample rates of return  
 $$
 E\left(R_{t}\right)\ \ =\ \ {\frac{1}{T}}\sum_{t=1}^{T}R_{t}
 $$  
 
-The standard deviation of [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) is a measure of risk and is esimatedas  
+The standard deviation of returns is a measure of risk and is esimatedas  
 $$
 \sigma\left(R\right)\,\,\,=\,\,\,\sqrt{\frac{1}{T}\sum_{t=1}^{T}\left(R_{t}-E\left(R_{t}\right)\right)^{2}}
 $$  
@@ -1878,17 +1878,17 @@ $$
 \begin{array}{l l l}{g}&{=}&{\left(\left(1+R_{1}\right)\times\ldots\times\left(1+R_{T}\right)\right)^{1/T}-1}\end{array}
 $$  
 
-Geometric and arithmetic average will be close if [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are small, but can be very different for large [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md)  
+Geometric and arithmetic average will be close if returns are small, but can be very different for large returns  
 
 Example: $R_{t}=100\%$ ， $R_{t+1}=-100\%$  
 # Effective Annual Returns (BKM, p.121)  
 
-The [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in a 25-year bond grows by its maturity by a factor of4.2918 The effective annualrate(EAR)is the annual rate of return that would compound to the same value as the actual [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) What is the EAR?  
+The investment in a 25-year bond grows by its maturity by a factor of4.2918 The effective annualrate(EAR)is the annual rate of return that would compound to the same value as the actual investment What is the EAR?  
 # Comparing Returns with Different Holding Periods  
 
-Not surprisingly, [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) over longer holding periods will be larger than [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) over shorter holding periods  
+Not surprisingly, returns over longer holding periods will be larger than returns over shorter holding periods  
 
-It is commonto express [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) in annual i zed units,i.e.theannual rate at which the [investment](../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) would have to grow to generate the actually experience holding-period return  
+It is commonto express returns in annual i zed units,i.e.theannual rate at which the investment would have to grow to generate the actually experience holding-period return  
 
 Example 1:If  $R_{t}$  is a monthly return, the annualized effective return (EAR) is  
 $$
@@ -1902,22 +1902,22 @@ $$
 # Historical returns on bonds and stocks  
 # Annual Returns of Major Asset Classes 1926-2015  
 
- ![500](Attachments/500-640.jpg)  
+ !500  
 
 Bodie-Kane-Marcus Table 5.3  
 # Frequency Distribution T-Bills  
 
- ![500](Attachments/500-642.jpg)  
+ !500  
 # Frequency Distribution Treasury Bonds  
 
- ![500](Attachments/500-641.jpg)  
+ !500  
 # Frequency Distribution Stocks  
 
- ![500](Attachments/500-653.jpg)  
+ !500  
 C:U.S.Equity Market Index  
 # Historical Bond and Stock Prices  
 
- ![500](Attachments/500-642.jpg)  
+ !500  
 Source:RobertS hiller'swebsite  
 # Bond Yields and Prices  
 # Present Value  
@@ -1932,7 +1932,7 @@ Let's say the return you require to hold this asset each period is r
 
 The price is then given by the present value  
 $$
-\begin{array}{r c l}{\mathcal{P}_{t}}&{=}&{E\left[\displaystyle\frac{D_{t+1}}{1+r}+\frac{D_{t+2}}{\left(1+r\right)^{2}}+\frac{D_{t+3}}{\left(1+r\right)^{3}}+\right.}\end{array}
+\begin{array}{r c l}{\mathcal{P}_{t}}&{=}&{E\left\displaystyle\frac{D_{t+1}}{1+r}+\frac{D_{t+2}}{\left(1+r\right)^{2}}+\frac{D_{t+3}}{\left(1+r\right)^{3}}+\right.}\end{array}
 $$  
 # Bond Prices and Yields  
 
@@ -1948,14 +1948,14 @@ But what is a bond yield?
 
 In its simplest form, bond yields move inversely with prices  
 
-For simplicity, consider a zero-coupon bond (i.e. a bond that pays no coupon)trading at time  $t$  and with [time to maturity](../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) n The bond pays1\$ at time  $t+\eta$  The yield to maturity  $Y_{n t}$  is defined by  
+For simplicity, consider a zero-coupon bond (i.e. a bond that pays no coupon)trading at time  $t$  and with [time to maturity n The bond pays1\$ at time  $t+\eta$  The yield to maturity  $Y_{n t}$  is defined by  
 $$
 P_{n t}\;\;=\;\;\frac{1}{(1+Y_{n t})^{n}}
 $$  
 
 The yield is the annualized return if the bond is held to maturity  
 
-The yield is also the [discount rate](../Advanced%20Financial%20Analysis%20and%20Valuation/Problem%20Sets/PSET%207-%20Kohler.md) that equates the price to the present value of the final payoff.  
+The yield is also the discount rate that equates the price to the present value of the final payoff.  
 # The Yield Curve  
 
 The yield curve compares the yields of bonds paying out at different points in the future  
@@ -1970,8 +1970,8 @@ A negative term spread (or "inverted yield curve") is often thought to be apredi
 Reading: Bodie-Kane-Marcus Chapters 14 and 15  
 # Yield Curve  
 
- ![500](Attachments/500-641.jpg)  
-[Term Structure of Interest Rates](../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md) Source: St. Louis Fred  
+ !500  
+Term Structure of Interest Rates Source: St. Louis Fred  
 # Bond Duration  
 # Coupon Bonds  
 
@@ -1990,7 +1990,7 @@ $$
 D_{c n t}=\frac{\sum_{i=1}^{n}\frac{i C}{(1+Y_{c n t})^{i}}+\frac{n}{(1+Y_{c n t})^{n}}}{P_{c n t}}.
 $$  
 
-Properties of Macaulay's [duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md):  
+Properties of Macaulay's duration:  
 
 Always less than maturity. Equals maturity for zero coupon bond. For positive C, declining in yield.  
 
@@ -2000,24 +2000,24 @@ $$
 $$  
 # Example: Ceasar's Entertainment CZR 5.625 06/01/2015 Corp  
 
- ![500](Attachments/500-652.jpg)  
+ !500  
 
 Source: Bloomberg  
 # Macaulay's Bond Duration CZR 5.625 06/01/2015 Corp  
 
- ![500](Attachments/500-641.jpg)  
+ !500  
 # Use Duration to Approximate Bond Returns  
 
-[Duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) tells you how much the bond price changes when yields change  
+Duration tells you how much the bond price changes when yields change  
 
 Compute approximate return on coupon bond  
 $$
 {\frac{\Delta P}{P}}\approx-D\times\Delta y.
 $$  
 
-Tobe more precise you canuse“[modified duration](../Financial%20Engineering/A%20Guide%20to%20Duration%20DV01%20and%20Yield%20Curve.md)”(seeBKM, equation(16.3)),but for rule-of-thumb calculations simple [duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md) often gets you quite far  
+Tobe more precise you canuse“modified duration”(seeBKM, equation(16.3)),but for rule-of-thumb calculations simple duration often gets you quite far  
 
 Example:TheFed raises rates from  $0\%$  to 0.25%.You hold a bond that has 8 years to maturity, pays a coupon of  $2\%$  once per year, and sells at par (i.e. the coupon is equal to the yield). What is the approximate percentage change in your position value as a result of thispolicy?  
 # Summary Learning Objectives for “Returns, Yields, and the Historical Record'  
 
-· Compute [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) including and excluding dividends Cum u late [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) over different return horizons Understand common properties of historical [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) Approximate bond [returns](../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) from [duration](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md)  
+· Compute returns including and excluding dividends Cum u late returns over different return horizons Understand common properties of historical returns Approximate bond returns from duration

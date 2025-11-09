@@ -1,11 +1,12 @@
 ---
-title: Appendix 9. B Algebraic Proofs of Strike-Price Relations
+title: "Appendix 9.B Algebraic Proofs of Strike-Price Relations"
+cssclasses: academia
 tags:
-  - algebraic_proofs
-  - american_options
-  - call_premium
-  - european_options
-  - strike_price
+  - algebraic-proofs
+  - american-options
+  - call-premium
+  - european-options
+  - strike-price
 aliases:
   - Call Option Premium
   - Option Pricing Proofs
@@ -18,57 +19,83 @@ key_concepts:
   - strike price changes
 ---
 
-# Appendix 9. B Algebraic Proofs of Strike-Price Relations
+# Appendix 9.B Algebraic Proofs of Strike-Price Relations
 
-In Chapter 9 we demonstrated severalpropositions about how option prices change when the [strike price changes](.md). To prove these propositions we will consider strike prices $K_{1},    K_{2}$ and $K_{3}$ ,  where $K_{1}<K_{2}<K_{3}$. Define $\lambda$ so that$$\lambda=\frac{K_3-K_2}{K_3-K_1}$$ or$$K_2=\lambda K_1+(1-\lambda)K_3$$
-Since we are considering options that differ only with respect to the [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md). We can write $C(K)$ and $P(K)$ to denote the option premium for a particular strike. $K$
+In Chapter 9 we demonstrated several propositions about how option prices change when the strike price changes. To prove these propositions we will consider strike prices $K_1$, $K_2$ and $K_3$, where $K_1 < K_2 < K_3$. Define $\lambda$ so that:
+
+$$\lambda=\frac{K_3-K_2}{K_3-K_1}$$ 
+
+or
+
+$$K_2=\lambda K_1+(1-\lambda)K_3$$
+
+Since we are considering options that differ only with respect to the strike price, we can write $C(K)$ and $P(K)$ to denote the option premium for a particular strike $K$.
 
 ### The Call Premium Decreases as the Strike Price Increases
-Suppose that $C(K_{\mathrm{l}})<$ $C(K_{2})$ ; i.e.,  a lower strike call had a lower premium. To effect [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md),  we would buy the low-strike call and sell the high-strike call (this is a bull spread). Table 9.10 shows the result. We will consider each entry in the “Total”row separately Time 0. We earn net premium from selling the more expensive option. The [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) is positive.
 
-###### Expiration or Exercise,  $S_{T}<K_{1}$
-- Neither option is exercised,  so the [cash flow](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) is zero.
+Suppose that $C(K_1) < C(K_2)$; i.e., a lower strike call had a lower premium. To effect arbitrage, we would buy the low-strike call and sell the high-strike call (this is a bull spread). Table 9.10 shows the result. We will consider each entry in the "Total" row separately.
 
-###### Expiration or Exercise,  $\kappa_{1}\leq S_{T}\leq\kappa_{2}$
-- We exercise the option we bought,  earning $S_{T}-K_{\mathrm{l}}$
+**Time 0.** We earn net premium from selling the more expensive option. The cash flow is positive.
 
-###### Expiration or Exercise,  $S_{T}>K_{2}$
-- We exercise the option we bought,  earning $S_{T}-$ $K_{1}$ ,  and the option we sold is exercised,  costing us $K_{2}-S_{T}$ .
-- The net is $K_{2}-K_{1}$ which is positive.
+###### Expiration or Exercise, $S_T < K_1$
+- Neither option is exercised, so the cash flow is zero.
 
-What about the fact that the options are American? We then have to account for the possibility that the written option is exercised. If that happens,  we can simply exercise the purchased option,  earning the payoffs in the table. If it is not optimal to exercise the purchased option,  we can sell it,  earning even higher payoffs
- ![500](Attachments/500-501.jpg)  
+###### Expiration or Exercise, $K_1 \leq S_T \leq K_2$
+- We exercise the option we bought, earning $S_T - K_1$
 
- ![500](Attachments/500-502.jpg)  
- ![500](Attachments/500-503.jpg)  
+###### Expiration or Exercise, $S_T > K_2$
+- We exercise the option we bought, earning $S_T - K_1$, and the option we sold is exercised, costing us $K_2 - S_T$.
+- The net is $K_2 - K_1$ which is positive.
+
+What about the fact that the options are American? We then have to account for the possibility that the written option is exercised. If that happens, we can simply exercise the purchased option, earning the payoffs in the table. If it is not optimal to exercise the purchased option, we can sell it, earning even higher payoffs.
+
+!500  
+!500  
+!500  
 
 ### The Call Premium Changes by Less Than the Change in the Strike Price
-Suppose that $C(K_{1})-C(K_{2})\geq K_{2}-K_{1}$ We can make money initially by selling the $K_{1}$ strike call buying the $K_{2}$ -strike call,  and lending $K_{2}-K_{\mathrm{l}}$ Table 9.11 summarizes the results
 
-Time 0. We earn net premium since the initial assumption is that $C(K_{\mathrm{l}})-C(K_{2})\geq$ $K_{2}-K_{1}$ Expiration or Exercise,  $S_{T}<K_{1}$ . Neither option is exercised,  so we keep the future value of the difference between the strikes. Expiration or Exercise,  $K_{1}\leq S_{T}\leq K_{2}$ . The written option is exercised,  so we have to sell the stock for $K_{1}$ . However,  the net loss is less than the difference between the strike prices Expiration or Exercise,  $S_{T}>K_{2}$ .We keep the interest on the difference between the strike prices
+Suppose that $C(K_1) - C(K_2) \geq K_2 - K_1$. We can make money initially by selling the $K_1$ strike call, buying the $K_2$-strike call, and lending $K_2 - K_1$. Table 9.11 summarizes the results.
 
-What adjustments do we have to make if the options are American? If the written $K_{\mathrm{l}}$ option is exercised,  we can duplicate the payoffs in the table by throwing our option away (if $K_{1}\leq S_{T}\leq K_{2})$ or exercising it (if $S_{T}\geq K_{2}$ ). Since it never makes sense to discard an unexpired option,  and since exercise may not be optimal,  we can do at least as well as the payoff in the table if the options are American. You may have noticed that if the options are European,  we can put a tighter restriction on the difference incall premiums—namely,  $C(K_{1})-C(K_{2})<PV(K_{2}-K_{1})$ We would show this by lending $PV(K_{2}-K_{1})$ instead of $K_{2}-K_{1}$ . This strategy does not work if the options are American,  since we do not know how long it will be before the options are exercised,  and,  hence,  we do not know what time to use in computing the present value.
+**Time 0.** We earn net premium since the initial assumption is that $C(K_1) - C(K_2) \geq K_2 - K_1$.
+
+**Expiration or Exercise, $S_T < K_1$.** Neither option is exercised, so we keep the future value of the difference between the strikes.
+
+**Expiration or Exercise, $K_1 \leq S_T \leq K_2$.** The written option is exercised, so we have to sell the stock for $K_1$. However, the net loss is less than the difference between the strike prices.
+
+**Expiration or Exercise, $S_T > K_2$.** We keep the interest on the difference between the strike prices.
+
+What adjustments do we have to make if the options are American? If the written $K_1$ option is exercised, we can duplicate the payoffs in the table by throwing our option away (if $K_1 \leq S_T \leq K_2$) or exercising it (if $S_T \geq K_2$). Since it never makes sense to discard an unexpired option, and since exercise may not be optimal, we can do at least as well as the payoff in the table if the options are American. 
+
+You may have noticed that if the options are European, we can put a tighter restriction on the difference in call premiums—namely, $C(K_1) - C(K_2) < \text{PV}(K_2 - K_1)$. We would show this by lending $\text{PV}(K_2 - K_1)$ instead of $K_2 - K_1$. This strategy does not work if the options are American, since we do not know how long it will be before the options are exercised, and, hence, we do not know what time to use in computing the present value.
 
 ### The Call Premium Is a Convex Function of the Strike Price
-This proposition says that as the option moves more into the money,  its premium increases at a faster rate. To prove it,  suppose that $C(K_{2})\geq\lambda C(K_{1})+(1-\lambda)C(K_{3})$ We can make money initially by selling the $K_{2}$ -strike call,  buying $\lambda$ $K_{\mathrm{l}}$ -strike calls,  and buying $1-\lambda$ $K_{3}$ -strike calls. Table 9.12 summarizes the results.
- ![500](Attachments/500-504.jpg)  
 
-Time 0. We earn net premium since the initial assumption is that $C(K_{2})\geq\lambda C(K_{\mathrm{l}})+$ $(1-\lambda)C(K_{3})$
+This proposition says that as the option moves more into the money, its premium increases at a faster rate. To prove it, suppose that $C(K_2) \geq \lambda C(K_1) + (1-\lambda)C(K_3)$. We can make money initially by selling the $K_2$-strike call, buying $\lambda$ $K_1$-strike calls, and buying $1-\lambda$ $K_3$-strike calls. Table 9.12 summarizes the results.
 
-###### Expiration or Exercise,  $S_T<K_1$
+!500  
+
+**Time 0.** We earn net premium since the initial assumption is that $C(K_2) \geq \lambda C(K_1) + (1-\lambda)C(K_3)$.
+
+###### Expiration or Exercise, $S_T < K_1$
 - No options are exercised
 
-###### Expiration or Exercise,  $K_{1}\leq S_{T}\leq K_{2}$
-- The purchased $K_{\mathrm{l}}$ calls are exercised.
-###### Expiration or Exercise,  $K_{2}<S_{T}\leq K_{3}$
-- We exercise our 入 $K_{1}$ calls,  and the written $K_{2}$ call is exercised against us.
-- Recall that $K_{2}=\lambda K_{1}+(1-\lambda)K_{3}$ ; substituting this expression for $K_{2}$ explains how we obtain the total in this column.
-###### Expiration or Exercise,  $S_{T}>K_{3}$
+###### Expiration or Exercise, $K_1 \leq S_T \leq K_2$
+- The purchased $K_1$ calls are exercised.
+
+###### Expiration or Exercise, $K_2 < S_T \leq K_3$
+- We exercise our $\lambda$ $K_1$ calls, and the written $K_2$ call is exercised against us.
+- Recall that $K_2 = \lambda K_1 + (1-\lambda)K_3$; substituting this expression for $K_2$ explains how we obtain the total in this column.
+
+###### Expiration or Exercise, $S_T > K_3$
 - All options are exercised and the payoffs cancel.
 
 ## Puts
-Here are the counterpart propositions for puts,  stated more formally
 
-1. The [put premium](../Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md) is increasing in the [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md): $P(K_{1})\leq P(K_{2})$ 2. The [put premium](../Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md) changes by less than the change in the [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md): $P(K_{2})-$ $P(K_{1})<K_{2}-K_{1}$ 3. The [put premium](../Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md) is a convex function of the [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md): $P(K_{2})<\lambda P(K_{1})+($ l- $\lambda)P(K_{3})$ .
+Here are the counterpart propositions for puts, stated more formally:
+
+[^1]: The put premium is increasing in the strike price: $P(K_1) \leq P(K_2)$
+[^2]: The put premium changes by less than the change in the strike price: $P(K_2) - P(K_1) < K_2 - K_1$
+[^3]: The put premium is a convex function of the strike price: $P(K_2) < \lambda P(K_1) + (1-\lambda)P(K_3)$
 
 The proofs are identical to the propositions for calls.

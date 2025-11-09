@@ -24,13 +24,13 @@ key_concepts:
 
 # An Introduction to Interest Rate Term Structure in QuantLib Python
 
-This post will walk through the basics of bootstrapping yield curve in [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md).
+This post will walk through the basics of bootstrapping yield curve in QuantLib Python.
 
-*Visit here for other [QuantLib Python]([Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python) examples](http://gouthamanbalaraman.com/blog/[quantlib](Introduction%20to%20QuantLib%20Python.md)-python-tutorials-with-examples.html). If you found these posts useful,  please take a minute by providing some [feedback.](https://docs.google.com/forms/d/e/1FAIpQLSdFdJ768HKmIyJmaVRHBUJNY5NyQl6vr0GZvSkx-bUfIloNZA/viewform)*
+*Visit here for other QuantLib Python examples](http://gouthamanbalaraman.com/blog/quantlib-python-tutorials-with-examples.html). If you found these posts useful,  please take a minute by providing some feedback.*
 
-[Term structure](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) is pivotal to [pricing securities](.md). One would need a YieldTermStructure object created in [QuantLib](Introduction%20to%20QuantLib%20Python.md) to use with [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) engines. In an earlier post on [modeling bonds using [QuantLib](Introduction%20to%20QuantLib%20Python.md)](https://gouthamanbalaraman.com/blog/[quantlib](Introduction%20to%20QuantLib%20Python.md)-bond-modeling.html) we discussed how to use spot rates directly with bond [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) engine. Here in this post we will show how to bootstrap yield curve using [QuantLib](Introduction%20to%20QuantLib%20Python.md).
+Term structure is pivotal to pricing securities. One would need a YieldTermStructure object created in QuantLib to use with pricing engines. In an earlier post on modeling bonds using [QuantLib](https://gouthamanbalaraman.com/blog/quantlib-bond-modeling.html) we discussed how to use spot rates directly with bond pricing engine. Here in this post we will show how to bootstrap yield curve using QuantLib.
 
-As usual lets import [QuantLib](Introduction%20to%20QuantLib%20Python.md) and do some initialization.
+As usual lets import QuantLib and do some initialization.
 ```python
 import QuantLib as ql
 
@@ -80,7 +80,7 @@ coupon_frequency = ql.Period(ql.Semiannual)
 settlement_days = 0
 ```
 
-The basic idea of bootstrapping using [QuantLib](Introduction%20to%20QuantLib%20Python.md) is to use the deposit rates and bond rates to create individual helpers. Then use the combination of the two helpers to construct the yield curve.
+The basic idea of bootstrapping using QuantLib is to use the deposit rates and bond rates to create individual helpers. Then use the combination of the two helpers to construct the yield curve.
 ```python
 # create deposit rate helpers from depo_rates
 depo_helpers = [ql.DepositRateHelper(ql.QuoteHandle(ql.SimpleQuote(r/100.0)),     
@@ -148,42 +148,30 @@ for d in yieldcurve.dates():
 
 The bootstrap curve looks as shown below:
 
-| Maturity | Spots |
-| --- | --- |
-| 0.0 | 0.0 |
-| 0.5 | 5.25 |
-| 1.0 | 5.426 |
-| 1.5 | 5.761 |
-| 2.0 | 6.02 |
-| 2.5 | 6.283 |
-| 3.0 | 6.55 |
-| 3.5 | 6.822 |
-| 4.0 | 6.87 |
-| 4.5 | 7.095 |
-| 5.0 | 7.205 |
-| 5.5 | 7.257 |
-| 6.0 | 7.31 |
-| 6.5 | 7.429 |
-| 7.0 | 7.485 |
-| 7.5 | 7.543 |
-| 8.0 | 7.671 |
-| 8.5 | 7.802 |
-| 9.0 | 7.791 |
-| 9.5 | 7.929 |
-| 10.0 | 8.072 |
+ | Maturity | Spots | 
+ | --- | --- | 
+ | 0.0 | 0.0 | 
+ | 0.5 | 5.25 | 
+ | 1.0 | 5.426 | 
+ | 1.5 | 5.761 | 
+ | 2.0 | 6.02 | 
+ | 2.5 | 6.283 | 
+ | 3.0 | 6.55 | 
+ | 3.5 | 6.822 | 
+ | 4.0 | 6.87 | 
+ | 4.5 | 7.095 | 
+ | 5.0 | 7.205 | 
+ | 5.5 | 7.257 | 
+ | 6.0 | 7.31 | 
+ | 6.5 | 7.429 | 
+ | 7.0 | 7.485 | 
+ | 7.5 | 7.543 | 
+ | 8.0 | 7.671 | 
+ | 8.5 | 7.802 | 
+ | 9.0 | 7.791 | 
+ | 9.5 | 7.929 | 
+ | 10.0 | 8.072 | 
 
-Once we have the spots,  the zero coupon curve can be directly constructed the next time as show in the [bond [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) example](https://gouthamanbalaraman.com/[quantlib](Introduction%20to%20QuantLib%20Python.md)-bond-modeling.html). The yieldcurve.dates() and yieldcuve.zeroRate(…) methods would provide for the necessary rates as shown above.
+Once we have the spots,  the zero coupon curve can be directly constructed the next time as show in the bond [pricing example](https://gouthamanbalaraman.com/quantlib-bond-modeling.html). The yieldcurve.dates() and yieldcuve.zeroRate(…) methods would provide for the necessary rates as shown above.
 
-   [python](http://gouthamanbalaraman.com/tag/python.html)   [finance](http://gouthamanbalaraman.com/tag/finance.html)   [quantlib]([Introduction%20to%20QuantLib%20Python)](http://gouthamanbalaraman.com/tag/[quantlib](Introduction%20to%20QuantLib%20Python.md).html)
-
----
-
-**Related Post**
-
-- [QuantLib Python]([Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python) Tutorials With Examples](http://gouthamanbalaraman.com/blog/[quantlib](Introduction%20to%20QuantLib%20Python.md)-python-tutorials-with-examples.html)
-- [Modeling Vanilla Interest Rate Swaps Using [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md)](http://gouthamanbalaraman.com/blog/interest-rate-swap-[quantlib](Introduction%20to%20QuantLib%20Python.md)-python.html)
-- [Valuing Options on [Commodity Futures](../../../Financial%20Instruments/Financial%20Instruments%20PSET%20Solutions.md) Using [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md)](http://gouthamanbalaraman.com/blog/value-options-commodity-[futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)-black-formula-[quantlib](Introduction%20to%20QuantLib%20Python.md)-python.html)
-- [Short [Interest Rate Model](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) [Calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md) in [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md)](http://gouthamanbalaraman.com/blog/short-interest-rate-model-[calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md)-[quantlib](Introduction%20to%20QuantLib%20Python.md).html)
-- [Announcing qtk for [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md)](http://gouthamanbalaraman.com/blog/announcing-qtk-[quantlib](Introduction%20to%20QuantLib%20Python.md)-python.html)
-
----
+   python   finance   quantlib](http://gouthamanbalaraman.com/tag/quantlib.html)

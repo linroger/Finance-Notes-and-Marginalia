@@ -23,9 +23,9 @@ key_concepts:
 ---
 
 # Heston Model Calibration Using QuantLib Python and Scipy Optimize
-In this post we do a deep dive on [calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md) of [Heston model](Valuing%20European%20Option%20Using%20the%20Heston%20Model%20in%20QuantLib%20Python.md) using [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md) and Scipy's Optimize package.
+In this post we do a deep dive on calibration of Heston model using QuantLib Python and Scipy's Optimize package.
 
-I have discussed parameter [calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md) in a couple of my earlier posts. In this post I want to show how you can use [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md) and Scipy to do parameter [calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md). In order to run this,  you will need to build the [QuantLib](Introduction%20to%20QuantLib%20Python.md) github master and the latest SWIG code with [my pull request](https://github.com/lballabio/[QuantLib](Introduction%20to%20QuantLib%20Python.md)-SWIG/pull/26). Alternately,  this should get merged into version 1.9 and you should be able to use it when it is released. This pull request adds some of the moethods of the `CalibratedModel` such as `calibrationError` that we will use in calibrating models using Scipy. [QuantLib](Introduction%20to%20QuantLib%20Python.md)'s strength is all financial models. Scipy's strength is all the solvers and numerical methods. So here,  I will show you how you can make the best of both worlds. We will start as usual by importing the modules.
+I have discussed parameter calibration in a couple of my earlier posts. In this post I want to show how you can use QuantLib Python and Scipy to do parameter calibration. In order to run this,  you will need to build the QuantLib github master and the latest SWIG code with my pull request-SWIG/pull/26). Alternately,  this should get merged into version 1.9 and you should be able to use it when it is released. This pull request adds some of the moethods of the `CalibratedModel` such as `calibrationError` that we will use in calibrating models using Scipy. QuantLib's strength is all financial models. Scipy's strength is all the solvers and numerical methods. So here,  I will show you how you can make the best of both worlds. We will start as usual by importing the modules.
 ```python
 import QuantLib as ql
 from math import pow,   sqrt
@@ -88,7 +88,7 @@ data = [
 [0.34891,   0.34154,   0.33539,   0.3297,   0.33742,   0.33337,   0.32881,   0.32492]]
 ```
 
-I have abstracted some of the repetitive methods into python functions. The function `setup_helpers` will construct the [Heston model](Valuing%20European%20Option%20Using%20the%20Heston%20Model%20in%20QuantLib%20Python.md) helpers and [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) an array of these objects. The `cost_function_generator` is a method to set the cost function and will be used by the Scipy modules. The `calibration_report` lets us evaluate the quality of the fit. The `setup_model` method initializes the `HestonModel` and the `AnalyticHestonEngine` prior to [calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md).
+I have abstracted some of the repetitive methods into python functions. The function `setup_helpers` will construct the Heston model helpers and returns an array of these objects. The `cost_function_generator` is a method to set the cost function and will be used by the Scipy modules. The `calibration_report` lets us evaluate the quality of the fit. The `setup_model` method initializes the `HestonModel` and the `AnalyticHestonEngine` prior to calibration.
 ```python
 def setup_helpers(engine,   expiration_dates,   strikes,   
                   data,   ref_date,   spot,   yield_ts,   
@@ -156,9 +156,9 @@ summary= []
 
 ### Comparing Different Calibration Methods
 
-Solvers such as Levenberg-Marquardt find local minimas and are very sensitive to the initial conditions. Depending on the starting conditions for your solver,  you could end up with a good set of parameters with good convergence or not so good set of parameters. We will look at two initial conditions for different solvers and see how the [local minima solvers](.md) perform. We will compare this with [differential evolution](.md) that looks for global minima.
+Solvers such as Levenberg-Marquardt find local minimas and are very sensitive to the initial conditions. Depending on the starting conditions for your solver,  you could end up with a good set of parameters with good convergence or not so good set of parameters. We will look at two initial conditions for different solvers and see how the local minima solvers perform. We will compare this with differential evolution that looks for global minima.
 
-We will setup the [Heston model](Valuing%20European%20Option%20Using%20the%20Heston%20Model%20in%20QuantLib%20Python.md) with two different initial conditions:
+We will setup the Heston model with two different initial conditions:
 ```python
 - theta,   kappa,   sigma,   rho,   v0 = (0.02,   0.2,   0.5,   0.1,   0.01)
 - theta,   kappa,   sigma,   rho,   v0 = (0.07,   0.5,   0.1,   0.1,   0.1)
@@ -168,7 +168,7 @@ We will setup the [Heston model](Valuing%20European%20Option%20Using%20the%20Hes
 
 ##### Using QuantLib Levenberg-Marquardt Solver
 
-As a first step,  let's look at [QuantLib](Introduction%20to%20QuantLib%20Python.md)'s [Levenberg-Marquardt solver](.md). The initial condition considered is `theta,   kappa,   sigma,   rho,   v0 = (0.02,  0.2,  0.5,  0.1,  0.01)`
+As a first step,  let's look at QuantLib's Levenberg-Marquardt solver. The initial condition considered is `theta,   kappa,   sigma,   rho,   v0 = (0.02,  0.2,  0.5,  0.1,  0.01)`
 ```python
 model1,   engine1 = setup_model(
     yield_ts,   dividend_ts,   spot,   
@@ -264,7 +264,7 @@ CPU times: user 4.68 s,   sys: 12 ms,   total: 4.69 s
 Wall time: 4.65 s
 ```
 
-The solution for this particular case seems to be fairly robust. Both solvers ([QuantLib](Introduction%20to%20QuantLib%20Python.md) and Scipy) seem to have landed on more or less the same solution for this particular initial condition. Let's see how Scipy does for the second initial condition considered above - `theta,   kappa,   sigma,   rho,   v0 = (0.07,  0.5,  0.1,  0.1,  0.1)`
+The solution for this particular case seems to be fairly robust. Both solvers (QuantLib and Scipy) seem to have landed on more or less the same solution for this particular initial condition. Let's see how Scipy does for the second initial condition considered above - `theta,   kappa,   sigma,   rho,   v0 = (0.07,  0.5,  0.1,  0.1,  0.1)`
 ```python
 model2,   engine2 = setup_model(
     yield_ts,   dividend_ts,   spot,  
@@ -359,7 +359,7 @@ Wall time: 28.1 s
 
 ##### Using Differential Evolution
 
-The above methods are more suited to finding local minimas. One method that makes an attempt at searching for global minima is the [differential evolution](.md). Both [QuantLib](Introduction%20to%20QuantLib%20Python.md) and Scipy have implementations of this method. Scipy however has a lot more bells and whistles to tune and calibrate the methodology. Let's take a look at the Scipy's `differential_evolution` methodology.
+The above methods are more suited to finding local minimas. One method that makes an attempt at searching for global minima is the differential evolution. Both QuantLib and Scipy have implementations of this method. Scipy however has a lot more bells and whistles to tune and calibrate the methodology. Let's take a look at the Scipy's `differential_evolution` methodology.
 ```python
 from scipy.optimize import differential_evolution
 ```
@@ -507,9 +507,9 @@ Wall time: 1min 49s
 
 #### Summary
 
-Here is a summary of all the results with the [calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md) error overall,  and the respective parameters. All the local minima methods give parameters that are very different based on the initial condition that we start with. This is different in contrary with the global minimization methods that all end up in more or less the same proximity of each other.
+Here is a summary of all the results with the calibration error overall,  and the respective parameters. All the local minima methods give parameters that are very different based on the initial condition that we start with. This is different in contrary with the global minimization methods that all end up in more or less the same proximity of each other.
 
-The global solvers such as [Differential Evolution](.md) and Basin Hopping are capable of finding the global minima and it is sometimes a question of computation resources. Here,  I have lower "iterations" set for these routines for faster solving. Even with such a short threshold,  we get fairly good solution set. I think it is premature to compare the effectiveness of different global solvers just based on the results here. The [scipy optimize](http://docs.scipy.org/doc/scipy/reference/optimize.html) package has detailed documentation with various tuning parameters. I haven't exploited the nuances much,  and is left as an exercise for the reader.
+The global solvers such as Differential Evolution and Basin Hopping are capable of finding the global minima and it is sometimes a question of computation resources. Here,  I have lower "iterations" set for these routines for faster solving. Even with such a short threshold,  we get fairly good solution set. I think it is premature to compare the effectiveness of different global solvers just based on the results here. The scipy optimize package has detailed documentation with various tuning parameters. I haven't exploited the nuances much,  and is left as an exercise for the reader.
 
 Hope you find this useful!
 ```python
@@ -520,29 +520,29 @@ DataFrame(
     index=['']*len(summary))
 ```
 ```python
-|Name|Avg Abs Error|Theta|Kappa|Sigma|Rho|V0|
-|---|---|---|---|---|---|---|
-||QL LM1|3.015268|0.125748|7.915000e+00|1.887854|-0.364942|0.055397|
-||QL LM2|11.007433|0.084523|1.625740e-08|0.132289|-0.514278|0.099928|
-||Scipy LM1|3.015253|0.125747|7.915687e+00|1.887934|-0.364944|0.055394|
-||Scipy LM2|7.019500|0.048184|-5.489029e-01|0.197958|-0.999547|0.090571|
-||Scipy LS1|3.015251|0.125747|7.915814e+00|1.887949|-0.364944|0.055394|
-||Scipy LS2|5.096414|3.136774|4.896844e-06|-0.000245|-0.000010|1.597904|
-||Scipy DE1|2.859113|0.123221|5.012199e+00|0.950309|-0.570340|0.078440|
-||Scipy DE2|2.876087|0.122251|4.996804e+00|0.849266|-0.637706|0.079484|
-||Scipy BH1|2.850972|0.123455|5.074067e+00|0.995095|-0.562106|0.079009|
-||Scipy BH2|2.863356|0.123403|4.791319e+00|0.904397|-0.593711|0.079215|
+ | Name | Avg Abs Error | Theta | Kappa | Sigma | Rho | V0 | 
+ | --- | --- | --- | --- | --- | --- | --- | 
+| QL LM1 | 3.015268 | 0.125748 | 7.915000e+00 | 1.887854 | -0.364942 | 0.055397 | 
+| QL LM2 | 11.007433 | 0.084523 | 1.625740e-08 | 0.132289 | -0.514278 | 0.099928 | 
+| Scipy LM1 | 3.015253 | 0.125747 | 7.915687e+00 | 1.887934 | -0.364944 | 0.055394 | 
+| Scipy LM2 | 7.019500 | 0.048184 | -5.489029e-01 | 0.197958 | -0.999547 | 0.090571 | 
+| Scipy LS1 | 3.015251 | 0.125747 | 7.915814e+00 | 1.887949 | -0.364944 | 0.055394 | 
+| Scipy LS2 | 5.096414 | 3.136774 | 4.896844e-06 | -0.000245 | -0.000010 | 1.597904 | 
+| Scipy DE1 | 2.859113 | 0.123221 | 5.012199e+00 | 0.950309 | -0.570340 | 0.078440 | 
+| Scipy DE2 | 2.876087 | 0.122251 | 4.996804e+00 | 0.849266 | -0.637706 | 0.079484 | 
+| Scipy BH1 | 2.850972 | 0.123455 | 5.074067e+00 | 0.995095 | -0.562106 | 0.079009 | 
+| Scipy BH2 | 2.863356 | 0.123403 | 4.791319e+00 | 0.904397 | -0.593711 | 0.079215 | 
 ```
 
-| Name      | Avg Abs Error | Theta    | Kappa         | Sigma     | Rho       | V0       |
-| --------- | ------------- | -------- | ------------- | --------- | --------- | -------- |
-| QL LM1    | 3.015268      | 0.125748 | 7.915000e+00  | 1.887854  | -0.364942 | 0.055397 |
-| QL LM2    | 11.007433     | 0.084523 | 1.625740e-08  | 0.132289  | -0.514278 | 0.099928 |
-| Scipy LM1 | 3.015253      | 0.125747 | 7.915687e+00  | 1.887934  | -0.364944 | 0.055394 |
-| Scipy LM2 | 7.019500      | 0.048184 | -5.489029e-01 | 0.197958  | -0.999547 | 0.090571 |
-| Scipy LS1 | 3.015251      | 0.125747 | 7.915814e+00  | 1.887949  | -0.364944 | 0.055394 |
-| Scipy LS2 | 5.096414      | 3.136774 | 4.896844e-06  | -0.000245 | -0.000010 | 1.597904 |
-| Scipy DE1 | 2.859113      | 0.123221 | 5.012199e+00  | 0.950309  | -0.570340 | 0.078440 |
-| Scipy DE2 | 2.876087      | 0.122251 | 4.996804e+00  | 0.849266  | -0.637706 | 0.079484 |
-| Scipy BH1 | 2.850972      | 0.123455 | 5.074067e+00  | 0.995095  | -0.562106 | 0.079009 |
-| Scipy BH2 | 2.863356      | 0.123403 | 4.791319e+00  | 0.904397  | -0.593711 | 0.079215 |
+ | Name | Avg Abs Error | Theta | Kappa | Sigma | Rho | V0 | 
+ | --------- | ------------- | -------- | ------------- | --------- | --------- | -------- | 
+ | QL LM1 | 3.015268 | 0.125748 | 7.915000e+00 | 1.887854 | -0.364942 | 0.055397 | 
+ | QL LM2 | 11.007433 | 0.084523 | 1.625740e-08 | 0.132289 | -0.514278 | 0.099928 | 
+ | Scipy LM1 | 3.015253 | 0.125747 | 7.915687e+00 | 1.887934 | -0.364944 | 0.055394 | 
+ | Scipy LM2 | 7.019500 | 0.048184 | -5.489029e-01 | 0.197958 | -0.999547 | 0.090571 | 
+ | Scipy LS1 | 3.015251 | 0.125747 | 7.915814e+00 | 1.887949 | -0.364944 | 0.055394 | 
+ | Scipy LS2 | 5.096414 | 3.136774 | 4.896844e-06 | -0.000245 | -0.000010 | 1.597904 | 
+ | Scipy DE1 | 2.859113 | 0.123221 | 5.012199e+00 | 0.950309 | -0.570340 | 0.078440 | 
+ | Scipy DE2 | 2.876087 | 0.122251 | 4.996804e+00 | 0.849266 | -0.637706 | 0.079484 | 
+ | Scipy BH1 | 2.850972 | 0.123455 | 5.074067e+00 | 0.995095 | -0.562106 | 0.079009 | 
+ | Scipy BH2 | 2.863356 | 0.123403 | 4.791319e+00 | 0.904397 | -0.593711 | 0.079215 |

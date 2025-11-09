@@ -21,21 +21,21 @@ key_concepts:
   - value of Is
 ---
 
-**[Teaching Note 3 SwapsFinancial Instruments](Teaching%20Note%203%20SwapsFinancial%20Instruments)**
-	- [Forward Rates Agreement](Forward%20Rates%20Agreement.md)
-	- [Overnight Index Swaps (OIS)](.md)
-	- [Swaps Types](Swaps%20Types.md)
-	- [Teaching Note 3 SwapsFinancial Instruments](Teaching%20Note%203%20SwapsFinancial%20Instruments)
-	- [Swap Contract](The%20Value%20of%20the%20[[Currency%20Swaps) after Initiation]]
+**Teaching Note 3 SwapsFinancial Instruments**
+	- Forward Rates Agreement
+	- Overnight Index Swaps (OIS)
+	- Swaps Types
+	- Teaching Note 3 SwapsFinancial Instruments
+	- Swap Contract after Initiation]]
 
 # Overnight Index Swaps (Is)
 ## FUNDAMENTALS OF Is
-- In an Is,  two counterparties agree to exchange [fixed for floating payments](.md),  where the floating payment is tied to the cumulative return from an overnight rate.
-	- [Federal funds rate](../../../International%20Finance/Economic%20Stabilization%20Notes/Topics%20in%20Fiscal%20and%20Monetary%20Policies%20and%20Stabilization-%20Empirical%20Issues.md),  SOFR in US.
+- In an Is,  two counterparties agree to exchange fixed for floating payments,  where the floating payment is tied to the cumulative return from an overnight rate.
+	- Federal funds rate,  SOFR in US.
 	- Europe: short-term rate (€STR),  (formerly Euro OverNight Index Average (EONIA) rate).
 ## FLOATING RATE PAYMENT CALCULATION
 
-- Given a notional$N$,  the [floating rate payment](.md) at time$T_i$is:$$CF(T_i) = N \left[\left(\prod_{j=1}^{n_i} (1 + r_{t_j}\delta) \right) - 1 \right]$$
+- Given a notional$N$,  the floating rate payment at time$T_i$is:$$CF(T_i) = N \left[\left(\prod_{j=1}^{n_i} (1 + r_{t_j}\delta) \right) - 1 \right]$$
 - Where$\delta$is the daily interval,  $r_t$is the reference (annualized) overnight rate,  and$n_i$is the number of days between reset periods.
 - The day count convention is normally Actual/360.
 ### IN THE CONTINUOUS TIME LIMIT
@@ -47,16 +47,16 @@ key_concepts:
 
 ## VALUE OF IS
 
-- The value of Is is the difference between the [floating leg](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) and the [fixed leg](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md):$$V^{OIS}_t = V^{Floating}_t - V^{Fixed}_t$$
-- ## [Floating Leg](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md)
-- At reset dates,  and assuming the payment of a principal at maturity of the swap,  the value of the [floating leg](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) is par.
+- The value of Is is the difference between the floating leg and the fixed leg:$$V^{OIS}_t = V^{Floating}_t - V^{Fixed}_t$$
+- ## Floating Leg
+- At reset dates,  and assuming the payment of a principal at maturity of the swap,  the value of the floating leg is par.
 - Indeed,  investing the notional$N$in the overnight index daily gives at$T_i$:$$N \prod_{j=1}^{n_i} (1 + r_{t_j}\delta) = CF(T_i) + N$$
-- We can replicate the floating payments,  plus a residual of notional at maturity$T_n$,  with an [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md)$N$at time 0.
+- We can replicate the floating payments,  plus a residual of notional at maturity$T_n$,  with an investment$N$at time 0.
 - It follows:$$V^{Floating}_{0} = N$$
 
 ## FIXED LEG
 
-- Given a proper [discount function](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2010%20-%20The%20Economics%20of%20the%20Term%20Structure%20of%20Interest%20Rates/Basic%20Interest%20Rate%20Concepts%20and%20Relations.md)$Z^{OIS}(0,    T_i)$,  we obtain:$$V^{Fixed}_{0} = N c \Delta \sum_{i=1}^{n} Z^{OIS}(0,    T_i) + N Z^{OIS}(0,    T_n)$$
+- Given a proper discount function$Z^{OIS}(0,    T_i)$,  we obtain:$$V^{Fixed}_{0} = N c \Delta \sum_{i=1}^{n} Z^{OIS}(0,    T_i) + N Z^{OIS}(0,    T_n)$$
 
 ## VALUATION AT INCEPTION
 - The value of the contract at inception is zero,  $V^{OIS}_0 = 0$.
@@ -64,7 +64,7 @@ key_concepts:
 
 ## SWAP RATE CALCULATION
 
-- This equation implies that the [swap rate](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md)$c$can be computed from:$$1 = c \Delta \sum_{i=1}^{n} Z^{OIS}(0,    T_i) + Z^{OIS}(0,    T_n)$$- Which gives the coupon rate$c$for a swap with maturity$T_n$:$$c(T_n) = \frac{1 - Z^{OIS}(0,    T_n)}{\Delta \sum_{i=1}^{n} Z^{OIS}(0,    T_i)}$$
+- This equation implies that the swap rate$c$can be computed from:$$1 = c \Delta \sum_{i=1}^{n} Z^{OIS}(0,    T_i) + Z^{OIS}(0,    T_n)$$- Which gives the coupon rate$c$for a swap with maturity$T_n$:$$c(T_n) = \frac{1 - Z^{OIS}(0,    T_n)}{\Delta \sum_{i=1}^{n} Z^{OIS}(0,    T_i)}$$
 - We emphasize that the coupon rate$c$is for a swap with maturity$T_n$.
 ## IS COUPON RATES AND ZERO-COUPON CURVE
 

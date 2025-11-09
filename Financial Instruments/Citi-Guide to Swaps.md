@@ -32,7 +32,7 @@ cssclasses: academia
 
 ## Swap Pricing: Discounted Cashflows
 
-![500](Attachments/500-314.jpg)
+!500
 
 ## Common Swap Structures
 
@@ -41,13 +41,13 @@ cssclasses: academia
 - Cost of a basis swap is quoted against USD LIBOR flat (e.g., USD LIBOR vs YEN LIBOR 17 bps) and is driven by demand and supply.
 - Example: ABC company has 3-year funding in JPY and is required to hedge exchange rate exposure created by this foreign currency debt.
 
-![500](Attachments/500-311.jpg)
+!500
 
 ## Fixed/Fixed Cross Currency Swap
 
-![500](Attachments/500-313.jpg)
+!500
 
-![500](Attachments/500-310.jpg)
+!500
 
 ## Principal-Only Swap (POS)
 
@@ -59,36 +59,36 @@ cssclasses: academia
   - The contract to buy JPY/sell USD forward at current spot rate has a positive value to the Company.
   - As a compensation to Citibank (i.e., to make NPV = 0), the Company will need to pay a periodic coupon (either in USD or JPY) to Citibank.
 
-![500](Attachments/500-315.jpg)
+!500
 
-![500](Attachments/500-311.jpg)
+!500
 
 ## Coupon-Only Swap
 
 - Consider a 3-year USD/JPY swap with only coupon exchanges.
 - There are no principal exchanges. If the USD fixed rate is known, we can solve for the JPY fixed rate.
 
-![500](Attachments/500-305.jpg)
+!500
 
 ## Long-Dated Foreign Exchange (LTFX)
 
 - A Long-Dated Foreign Exchange (LTFX) contract is a Zero Coupon Currency & Interest Rate Swap
 - Instead of exchanging coupons, at the time of dealing, the Principal amount on one set of cashflows is set so that the NPV = 0.
 
-![500](Attachments/500-309.jpg)
+!500
 
 ## Using Interest Rate Parity - Pricing Forward Foreign Exchange
 
-![500](Attachments/500-304.jpg)
+!500
 
-![500](Attachments/500-308.jpg)
+!500
 
-![500](Attachments/500-306.jpg)
+!500
 
-![500](Attachments/500-316.jpg)
+!500
 
 Rather than using zero coupon rates, each currency's discount factors may be used:
 
 **Short Cut:** Forward Rate = Spot × dfUSD/dfJPY = 105 × 0.9420 / 0.9975
 
-![500](Attachments/500-307.jpg)
+!500

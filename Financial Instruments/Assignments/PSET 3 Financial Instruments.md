@@ -46,29 +46,29 @@ The Greek Finance Minister contacts VeroTende Investment Bank to ask about how t
 
 Table 1 reports the prices of European and American Government zero coupon bonds on June 1st 2001.
 
-| Maturity | Greek ZCB | US ZCB |
-|----------|-----------|--------|
-| 0.0      | 1.0000    | 1.0000 |
-| 0.5      | 0.9786    | 0.9822 |
-| 1.0      | 0.9588    | 0.9647 |
-| 1.5      | 0.9388    | 0.9431 |
-| 2.0      | 0.9191    | 0.9192 |
-| 2.5      | 0.8989    | 0.8973 |
-| 3.0      | 0.8788    | 0.8749 |
-| 3.5      | 0.8583    | 0.8520 |
-| 4.0      | 0.8379    | 0.8287 |
-| 4.5      | 0.8177    | 0.8051 |
-| 5.0      | 0.7977    | 0.7812 |
-| 5.5      | 0.7780    | 0.7603 |
-| 6.0      | 0.7583    | 0.7397 |
-| 6.5      | 0.7370    | 0.7194 |
-| 7.0      | 0.7155    | 0.6993 |
-| 7.5      | 0.6953    | 0.6795 |
-| 8.0      | 0.6751    | 0.6600 |
-| 8.5      | 0.6559    | 0.6407 |
-| 9.0      | 0.6369    | 0.6218 |
-| 9.5      | 0.6208    | 0.6032 |
-| 10.0     | 0.6050    | 0.5848 |
+ | Maturity | Greek ZCB | US ZCB | 
+ | ---------- | ----------- | -------- | 
+ | 0.0 | 1.0000 | 1.0000 | 
+ | 0.5 | 0.9786 | 0.9822 | 
+ | 1.0 | 0.9588 | 0.9647 | 
+ | 1.5 | 0.9388 | 0.9431 | 
+ | 2.0 | 0.9191 | 0.9192 | 
+ | 2.5 | 0.8989 | 0.8973 | 
+ | 3.0 | 0.8788 | 0.8749 | 
+ | 3.5 | 0.8583 | 0.8520 | 
+ | 4.0 | 0.8379 | 0.8287 | 
+ | 4.5 | 0.8177 | 0.8051 | 
+ | 5.0 | 0.7977 | 0.7812 | 
+ | 5.5 | 0.7780 | 0.7603 | 
+ | 6.0 | 0.7583 | 0.7397 | 
+ | 6.5 | 0.7370 | 0.7194 | 
+ | 7.0 | 0.7155 | 0.6993 | 
+ | 7.5 | 0.6953 | 0.6795 | 
+ | 8.0 | 0.6751 | 0.6600 | 
+ | 8.5 | 0.6559 | 0.6407 | 
+ | 9.0 | 0.6369 | 0.6218 | 
+ | 9.5 | 0.6208 | 0.6032 | 
+ | 10.0 | 0.6050 | 0.5848 | 
 
 **Table 1. Greek and US ZCB prices on June 1st 2001**
 
@@ -144,36 +144,36 @@ $$B_0^\$=\sum_{t=0.5}^T\frac{c}{2}\cdot N^\$\cdot Z^\$(0, t)+N^\$\cdot Z^\$(0, T
 > $$=\frac{0.06}{2}\cdot50\cdot15.5573+50\cdot0.5848=52.5778$$
 > Plugging it into equation (2) we get K = 0.0566 or 5.66%.
 
-| Time | ZEU | ZUS | Dollar CF | Euro CF | PV Dollar CF | PV Euro CF |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 0 | 1 | 1 | -$50,000,000,000.00 | € 59,000,000,000.00 | -$50,000,000,000.00 | € 59,000,000,000.00 |
-| 0.5 | 0.9786 | 0.9822 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,467,900,000.00 | € 1,738,494,000.00 |
-| 1 | 0.9588 | 0.9647 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,438,200,000.00 | € 1,707,519,000.00 |
-| 1.5 | 0.9388 | 0.9431 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,408,200,000.00 | € 1,669,287,000.00 |
-| 2 | 0.9191 | 0.9192 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,378,650,000.00 | € 1,626,984,000.00 |
-| 2.5 | 0.8989 | 0.8973 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,348,350,000.00 | € 1,588,221,000.00 |
-| 3 | 0.8788 | 0.8749 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,318,200,000.00 | € 1,548,573,000.00 |
-| 3.5 | 0.8583 | 0.852 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,287,450,000.00 | € 1,508,040,000.00 |
-| 4 | 0.8379 | 0.8287 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,256,850,000.00 | € 1,466,799,000.00 |
-| 4.5 | 0.8177 | 0.8051 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,226,550,000.00 | € 1,425,027,000.00 |
-| 5 | 0.7977 | 0.7812 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,196,550,000.00 | € 1,382,724,000.00 |
-| 5.5 | 0.778 | 0.7603 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,167,000,000.00 | € 1,345,731,000.00 |
-| 6 | 0.7583 | 0.7397 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,137,450,000.00 | € 1,309,269,000.00 |
-| 6.5 | 0.737 | 0.7194 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,105,500,000.00 | € 1,273,338,000.00 |
-| 7 | 0.7155 | 0.6993 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,073,250,000.00 | € 1,237,761,000.00 |
-| 7.5 | 0.6953 | 0.6795 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,042,950,000.00 | € 1,202,715,000.00 |
-| 8 | 0.6751 | 0.66 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,012,650,000.00 | € 1,168,200,000.00 |
-| 8.5 | 0.6559 | 0.6407 | $1,500,000,000.00 | € 1,770,000,000.00 | $983,850,000.00 | € 1,134,039,000.00 |
-| 9 | 0.6369 | 0.6218 | $1,500,000,000.00 | € 1,770,000,000.00 | $955,350,000.00 | € 1,100,586,000.00 |
-| 9.5 | 0.6208 | 0.6032 | $1,500,000,000.00 | € 1,770,000,000.00 | $931,200,000.00 | € 1,067,664,000.00 |
-| 10 | 0.605 | 0.5848 | $51,500,000,000.00 | € 60,770,000,000.00 | $31,157,500,000.00 | € 35,538,296,000.00 |
+ | Time | ZEU | ZUS | Dollar CF | Euro CF | PV Dollar CF | PV Euro CF | 
+ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+ | 0 | 1 | 1 | -$50,000,000,000.00 | € 59,000,000,000.00 | -$50,000,000,000.00 | € 59,000,000,000.00 | 
+ | 0.5 | 0.9786 | 0.9822 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,467,900,000.00 | € 1,738,494,000.00 | 
+ | 1 | 0.9588 | 0.9647 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,438,200,000.00 | € 1,707,519,000.00 | 
+ | 1.5 | 0.9388 | 0.9431 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,408,200,000.00 | € 1,669,287,000.00 | 
+ | 2 | 0.9191 | 0.9192 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,378,650,000.00 | € 1,626,984,000.00 | 
+ | 2.5 | 0.8989 | 0.8973 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,348,350,000.00 | € 1,588,221,000.00 | 
+ | 3 | 0.8788 | 0.8749 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,318,200,000.00 | € 1,548,573,000.00 | 
+ | 3.5 | 0.8583 | 0.852 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,287,450,000.00 | € 1,508,040,000.00 | 
+ | 4 | 0.8379 | 0.8287 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,256,850,000.00 | € 1,466,799,000.00 | 
+ | 4.5 | 0.8177 | 0.8051 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,226,550,000.00 | € 1,425,027,000.00 | 
+ | 5 | 0.7977 | 0.7812 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,196,550,000.00 | € 1,382,724,000.00 | 
+ | 5.5 | 0.778 | 0.7603 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,167,000,000.00 | € 1,345,731,000.00 | 
+ | 6 | 0.7583 | 0.7397 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,137,450,000.00 | € 1,309,269,000.00 | 
+ | 6.5 | 0.737 | 0.7194 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,105,500,000.00 | € 1,273,338,000.00 | 
+ | 7 | 0.7155 | 0.6993 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,073,250,000.00 | € 1,237,761,000.00 | 
+ | 7.5 | 0.6953 | 0.6795 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,042,950,000.00 | € 1,202,715,000.00 | 
+ | 8 | 0.6751 | 0.66 | $1,500,000,000.00 | € 1,770,000,000.00 | $1,012,650,000.00 | € 1,168,200,000.00 | 
+ | 8.5 | 0.6559 | 0.6407 | $1,500,000,000.00 | € 1,770,000,000.00 | $983,850,000.00 | € 1,134,039,000.00 | 
+ | 9 | 0.6369 | 0.6218 | $1,500,000,000.00 | € 1,770,000,000.00 | $955,350,000.00 | € 1,100,586,000.00 | 
+ | 9.5 | 0.6208 | 0.6032 | $1,500,000,000.00 | € 1,770,000,000.00 | $931,200,000.00 | € 1,067,664,000.00 | 
+ | 10 | 0.605 | 0.5848 | $51,500,000,000.00 | € 60,770,000,000.00 | $31,157,500,000.00 | € 35,538,296,000.00 | 
 
-| | |
-|---|---|
-| Value of Dollar Denominated Bond | $53,893,600,000.00 |
-| Value of Euro Denominated Bond | € 62,039,267,000.00 |
-| Dollar Value of Euro Denominated Bond -> | $52,575,650,000.00 |
-| Swap Rate | 0.975545334 |
+|  | 
+ | --- | --- | 
+ | Value of Dollar Denominated Bond | $53,893,600,000.00 | 
+ | Value of Euro Denominated Bond | € 62,039,267,000.00 | 
+ | Dollar Value of Euro Denominated Bond -> | $52,575,650,000.00 | 
+ | Swap Rate | 0.975545334 | 
 
 $$V_t^{swap}=M_t\times B^e(t, T)-K\times B^\$(t, T)$$
 $$0=$52,575,650,000.00-K*$53,893,600,000.00$$
@@ -186,36 +186,36 @@ Some rumors say that Goldman Sachs has set up a currency swap with structured as
 - a. For the exchange of principal at time t = 0 the exchange rate utilized is not the market spot rate (i.e. 0.8475 USD / EUR), but rather the historical average of the spot exchange rate between March 12th 2001 and June 1st 2001, that is 0.8148 USD / EUR;
 - b) The rate quoted for the payments in euro is 7.00%
 
-| Time | ZEU | ZUS | Dollar CF | Euro CF | PV Dollar CF | PV Euro CF |
-|------|-----|-----|-----------|---------|--------------|------------|
-| 0 | 1 | 1 | -$50,000,000,000.00 | € 59,000,000,000.00 | -$50,000,000,000.00 | € 59,000,000,000.00 |
-| 0.5 | 0.9786 | 0.9822 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,467,900,000.00 | € 2,028,243,000.00 |
-| 1 | 0.9588 | 0.9647 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,438,200,000.00 | € 1,992,105,500.00 |
-| 1.5 | 0.9388 | 0.9431 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,408,200,000.00 | € 1,947,501,500.00 |
-| 2 | 0.9191 | 0.9192 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,378,650,000.00 | € 1,898,148,000.00 |
-| 2.5 | 0.8989 | 0.8973 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,348,350,000.00 | € 1,852,924,500.00 |
-| 3 | 0.8788 | 0.8749 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,318,200,000.00 | € 1,806,668,500.00 |
-| 3.5 | 0.8583 | 0.852 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,287,450,000.00 | € 1,759,380,000.00 |
-| 4 | 0.8379 | 0.8287 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,256,850,000.00 | € 1,711,265,500.00 |
-| 4.5 | 0.8177 | 0.8051 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,226,550,000.00 | € 1,662,531,500.00 |
-| 5 | 0.7977 | 0.7812 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,196,550,000.00 | € 1,613,178,000.00 |
-| 5.5 | 0.778 | 0.7603 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,167,000,000.00 | € 1,570,019,500.00 |
-| 6 | 0.7583 | 0.7397 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,137,450,000.00 | € 1,527,480,500.00 |
-| 6.5 | 0.737 | 0.7194 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,105,500,000.00 | € 1,485,561,000.00 |
-| 7 | 0.7155 | 0.6993 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,073,250,000.00 | € 1,444,054,500.00 |
-| 7.5 | 0.6953 | 0.6795 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,042,950,000.00 | € 1,403,167,500.00 |
-| 8 | 0.6751 | 0.66 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,012,650,000.00 | € 1,362,900,000.00 |
-| 8.5 | 0.6559 | 0.6407 | $1,500,000,000.00 | € 2,065,000,000.00 | $983,850,000.00 | € 1,323,045,500.00 |
-| 9 | 0.6369 | 0.6218 | $1,500,000,000.00 | € 2,065,000,000.00 | $955,350,000.00 | € 1,284,017,000.00 |
-| 9.5 | 0.6208 | 0.6032 | $1,500,000,000.00 | € 2,065,000,000.00 | $931,200,000.00 | € 1,245,608,000.00 |
-| 10 | 0.605 | 0.5848 | $51,500,000,000.00 | € 61,065,000,000.00 | $31,157,500,000.00 | € 35,710,812,000.00 |
+ | Time | ZEU | ZUS | Dollar CF | Euro CF | PV Dollar CF | PV Euro CF | 
+ | ------ | ----- | ----- | ----------- | --------- | -------------- | ------------ | 
+ | 0 | 1 | 1 | -$50,000,000,000.00 | € 59,000,000,000.00 | -$50,000,000,000.00 | € 59,000,000,000.00 | 
+ | 0.5 | 0.9786 | 0.9822 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,467,900,000.00 | € 2,028,243,000.00 | 
+ | 1 | 0.9588 | 0.9647 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,438,200,000.00 | € 1,992,105,500.00 | 
+ | 1.5 | 0.9388 | 0.9431 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,408,200,000.00 | € 1,947,501,500.00 | 
+ | 2 | 0.9191 | 0.9192 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,378,650,000.00 | € 1,898,148,000.00 | 
+ | 2.5 | 0.8989 | 0.8973 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,348,350,000.00 | € 1,852,924,500.00 | 
+ | 3 | 0.8788 | 0.8749 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,318,200,000.00 | € 1,806,668,500.00 | 
+ | 3.5 | 0.8583 | 0.852 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,287,450,000.00 | € 1,759,380,000.00 | 
+ | 4 | 0.8379 | 0.8287 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,256,850,000.00 | € 1,711,265,500.00 | 
+ | 4.5 | 0.8177 | 0.8051 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,226,550,000.00 | € 1,662,531,500.00 | 
+ | 5 | 0.7977 | 0.7812 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,196,550,000.00 | € 1,613,178,000.00 | 
+ | 5.5 | 0.778 | 0.7603 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,167,000,000.00 | € 1,570,019,500.00 | 
+ | 6 | 0.7583 | 0.7397 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,137,450,000.00 | € 1,527,480,500.00 | 
+ | 6.5 | 0.737 | 0.7194 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,105,500,000.00 | € 1,485,561,000.00 | 
+ | 7 | 0.7155 | 0.6993 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,073,250,000.00 | € 1,444,054,500.00 | 
+ | 7.5 | 0.6953 | 0.6795 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,042,950,000.00 | € 1,403,167,500.00 | 
+ | 8 | 0.6751 | 0.66 | $1,500,000,000.00 | € 2,065,000,000.00 | $1,012,650,000.00 | € 1,362,900,000.00 | 
+ | 8.5 | 0.6559 | 0.6407 | $1,500,000,000.00 | € 2,065,000,000.00 | $983,850,000.00 | € 1,323,045,500.00 | 
+ | 9 | 0.6369 | 0.6218 | $1,500,000,000.00 | € 2,065,000,000.00 | $955,350,000.00 | € 1,284,017,000.00 | 
+ | 9.5 | 0.6208 | 0.6032 | $1,500,000,000.00 | € 2,065,000,000.00 | $931,200,000.00 | € 1,245,608,000.00 | 
+ | 10 | 0.605 | 0.5848 | $51,500,000,000.00 | € 61,065,000,000.00 | $31,157,500,000.00 | € 35,710,812,000.00 | 
 
-| | |
-|---|---|
-| Value of Dollar Denominated Bond | $53,893,600,000.00 |
-| Value of Euro Denominated Bond | € 66,628,611,500.00 |
-| Dollar Value of Euro Denominated Bond -> | $54,288,992,650.20 |
-| Swap Rate | 1.007336542 |
+|  | 
+ | --- | --- | 
+ | Value of Dollar Denominated Bond | $53,893,600,000.00 | 
+ | Value of Euro Denominated Bond | € 66,628,611,500.00 | 
+ | Dollar Value of Euro Denominated Bond -> | $54,288,992,650.20 | 
+ | Swap Rate | 1.007336542 | 
 
 (2) Compute the value of the Goldman swap. Why do you think Greece has decided to accept Goldman proposal rather than the one suggested by VeroTende Bank? In answering the question give particular thought to the cash flows of the swap and their timing.
 
@@ -226,11 +226,11 @@ Some rumors say that Goldman Sachs has set up a currency swap with structured as
 >
 > To compute this we need to use the current exchange rate, as the fictitious rate $M^{GS}$ was just used to determine the cash flow. We get (in billion of dollars)
 >
-> $$V_0^{EoP_0, S}=N^e\cdot M_0-N^3=61.3648\cdot0.8475-50=2.0040$$
+> $$V_0^{EoP_0, S}=N^e\cdot M_0-N[^3]=61.3648\cdot0.8475-50=2.0040$$
 >
 > Alternatively if we wanted to compute the value of the exchange of principal in EUR we would have simply done
 >
-> $$V_0^{EoP_0, e}=N^e-\frac{N^8}{M_0}=61.3648-\frac{50}{0.08475}=2.3648$$
+> $$V_0^{EoP_0, e}=N^e-\frac{N[^8]}{M_0}=61.3648-\frac{50}{0.08475}=2.3648$$
 >
 > So Greece will receive a positive cash inflow at $t=0$ under Goldman conditions.
 > The value of the currency swap will be
@@ -255,31 +255,31 @@ Some rumors say that Goldman Sachs has set up a currency swap with structured as
 
 Consider again the hedging strategy of Southwest Airlines (see Homework 2). We are back on December 31st 2007. Instead of using commodity futures, the CFO is considering buying insurance on oil prices using options. Table 2 reports the prices, on December 31st 2007, of a set of European call and put options on crude oil. All options expire on March 31st 2008 and can only be exercised at maturity. Each options' underlying is one lot of 1,000 crude oil barrels, which equals 42,000 gallons of crude oil.
 
-| Call options | | Put options | |
-|-------------|---|------------|---|
-| Strike Price | Option Price | Strike Price | Option Price |
-| 60 | 35,674 | 60 | 3 |
-| 65 | 30,744 | 65 | 17 |
-| 70 | 25,859 | 70 | 76 |
-| 75 | 21,098 | 75 | 259 |
-| 80 | 16,593 | 80 | 698 |
-| 85 | 12,513 | 85 | 1,562 |
-| 88.61 | 9,923 | 88.61 | 2,541 |
-| 90 | 9,016 | 90 | 3,009 |
-| 95 | 6,195 | 95 | 5,132 |
-| 100 | 4,060 | 100 | 7,941 |
-| 105 | 2,541 | 105 | 11,366 |
-| 110 | 1,522 | 110 | 15,292 |
-| 115 | 875 | 115 | 19,589 |
-| 120 | 485 | 120 | 24,142 |
-| 125 | 259 | 125 | 28,861 |
-| 130 | 135 | 130 | 33,680 |
+ | Call options |  | Put options |
+ | ------------- | --- | ------------ | --- | 
+ | Strike Price | Option Price | Strike Price | Option Price | 
+ | 60 | 35,674 | 60 | 3 | 
+ | 65 | 30,744 | 65 | 17 | 
+ | 70 | 25,859 | 70 | 76 | 
+ | 75 | 21,098 | 75 | 259 | 
+ | 80 | 16,593 | 80 | 698 | 
+ | 85 | 12,513 | 85 | 1,562 | 
+ | 88.61 | 9,923 | 88.61 | 2,541 | 
+ | 90 | 9,016 | 90 | 3,009 | 
+ | 95 | 6,195 | 95 | 5,132 | 
+ | 100 | 4,060 | 100 | 7,941 | 
+ | 105 | 2,541 | 105 | 11,366 | 
+ | 110 | 1,522 | 110 | 15,292 | 
+ | 115 | 875 | 115 | 19,589 | 
+ | 120 | 485 | 120 | 24,142 | 
+ | 125 | 259 | 125 | 28,861 | 
+ | 130 | 135 | 130 | 33,680 | 
 
 **Table 2. Crude oil options prices on December 31, 2007, USD per lot**
 
 Given the data in Table 2:
 
-1. Assume that the CFO decides to buy the $105 strike call options on oil (we can refer to this strategy as a **straight insurance**).
+[^1]: Assume that the CFO decides to buy the $105 strike call options on oil (we can refer to this strategy as a **straight insurance**).
 
 (a) How many options should be bought? In computing the number of options, make the (somewhat unreasonable) assumption that 1 barrel of oil is sufficient to produce 1 barrel of jet fuel, that a $1 price change of crude oil per barrel barrel, always causes a $1 price change of jet fuel per barrel, that is the same as a $\frac{1}{42}=0.02381$ price change of jet fuel per gallon and that all fuel is consumed on March 31st 2008.
 
@@ -331,7 +331,7 @@ Given the data in Table 2:
 
 (e) Under no hedging, Southwest position is _de facto_ a short position on jet fuel between December 31st 2007 and March 31st 2008. Indeed if fuel price goes up Southwest is loosing money as it has to spend more to buy the same amount of fuel; conversely if jet fuel price falls, Southwest experiences a gain as it can buy the same quantity of fuel at a lower price. With this in mind, draw the payoff diagram, at maturity, of the implicit short position that Southwest has on jet fuel.
 
-![500](22fbf52af579c7888de2c.png)
+!500
 
 > [!ANSWER]
 > (1.e) Just a little note here before showing the graph. The payoff diagram (in contrast with the profit diagram) does not take into account the cost of the position. For example, for a short position in fuel, we do not consider S0 but only −ST. So at time T, we will have necessarily a non positive (i.e. π(S) ≤ 0 - note that I have randomly chosen to use π as a synonymous of "payoff") payoff.
@@ -340,22 +340,22 @@ Given the data in Table 2:
 >
 > Note that the payoff is computed on the total exposure, which is, under the assumption in point (1.a), 8,994,000 barrels of jet fuel (and oil). Further, consider that if we accept assumptions (1.a), then the oil price and jet fuel price can be assumed to be the same.
 >
-> ![500](2373e22ab534410d2cacfbd8e29676b4.png)
+> !500
 
 (f) Now draw the payoff diagram, at maturity, of the **straight insurance** strategy determined in (1.a) and, in another chart, the diagram of the overall position of Southwest, that is the implicit short position in jet fuel plus the **straight insurance**; please label the axes of the diagram, specify the units of measure and show some values on each axis. Compare the costs and benefits of the **straight insurance** with the costs and benefits of hedging with futures.
 
-![500](2baf67b653ef3159edac758f08b2931f.png)
+!500
 
 > [!ANSWER]
 > (1.f) The payoff diagram of the straight insurance is: 
 >
-> ![500](921429ef02602abd9cbea9add66ad2c6.png)
+> !500
 >
 > And the one of the overall position, combining the implicit short position with the straight insurance, is: 
 >
-> ![500](7119b15cd978dff405cdf1534e4ccbca.png)
+> !500
 
-2. Assume that the CFO is a Booth alumni, and reasons that one drawback of the straight insurance is that it costs money upfront. Instead he decides to set up a **collar**, that is, sell some out-of-the-money put options to finance the purchase of out-of-the-money calls. The goal of this collar is that it must **cost nothing** (or near to nothing) to the firm at initiation. In other words, the total amount from the puts must compensate for the calls.
+[^2]: Assume that the CFO is a Booth alumni, and reasons that one drawback of the straight insurance is that it costs money upfront. Instead he decides to set up a **collar**, that is, sell some out-of-the-money put options to finance the purchase of out-of-the-money calls. The goal of this collar is that it must **cost nothing** (or near to nothing) to the firm at initiation. In other words, the total amount from the puts must compensate for the calls.
 
 (a) Keeping the same strike for the insurance (call) as in point (1.a) above, find the strike of the put option that the CFO must sell to achieve the **zero-cost collar strategy**. To determine the total number of options (calls and puts), you make the same assumptions as in point (1.a) above.
 
@@ -364,18 +364,18 @@ Given the data in Table 2:
 
 (b) Draw the payoff diagram, at maturity, of the **collar** strategy determined in (2.a) and, in another chart, the diagram of the overall position of Southwest: the implicit short position in jet fuel plus the **collar**; please label the axes of the diagram, specify the units of measure and show some values on each axis. Compare the costs and benefits of the **collar** with the costs and benefits of both the straight insurance and the hedging with futures.
 
-![500](bfc119fc0c2267adcef98358eabfedc3.png)
+!500
 
 > [!ANSWER]
 > (2. B) The payoff of the collar strategy is: 
 >
-> ![500](dc8721b42f306b86f95a6d066dbd128d.png)
+> !500
 >
 > and the one of the overall position, combining the implicit short position with the collar, is: 
 >
-> ![500](54aa611314fd62dc1f968f99e483ff49.png)
+> !500
 
-3. Assume now that the CFO is a Booth student who is taking the Financial Instruments course and is very excited about the variety of different options strategies. Instead of selling just one put option to finance the purchase of the call option (used for insurance) as in point 2, the CFO wants to experiment different quantities of put options, still maintaining the constraint that the cost of the strategy must be zero.
+[^3]: Assume now that the CFO is a Booth student who is taking the Financial Instruments course and is very excited about the variety of different options strategies. Instead of selling just one put option to finance the purchase of the call option (used for insurance) as in point 2, the CFO wants to experiment different quantities of put options, still maintaining the constraint that the cost of the strategy must be zero.
 
 (a) If the CFO chooses the $80 strike put options, how many options does he have to sell to set up the collar?
 
@@ -390,26 +390,26 @@ Given the data in Table 2:
 
 Draw the payoff diagrams, at maturity, of these two new strategies as well as of the overall Southwest position in each case. Please label the axes of the diagrams, specify the units of measure and show some values on each axis. Compare the costs and benefits of the two strategies with the costs and benefits of both the straight insurance and the first collar determined in point
 
-![500](d838931709b0d991efc4da0d5bc74977.png)
+!500
 
 > [!ANSWER]
 > (3.b) We find Np(K3=90) = −7,596. So we have to short 7,596 put options with strike equal to K3 = 90. The payoff of the collar with the K2 = 80 puts is reported in the next figure. 
 >
-> ![500](caf6abb34fe52e308aea0a51266e86ad.png)
+> !500
 >
 > While the payoff of the collar with the K3 = 90 puts is shown below. 
 >
-> ![500](dbb91e14e07f3848b5c73c0ce0d273db.png)
+> !500
 >
-> ![500](a63132683515b6a931f8785ad6c81c36.png)
+> !500
 >
 > The payoffs of the two overall positions are then shown. 
 >
-> ![500](70c9356ec6e31915dbdbc6449028c3b9.png)
+> !500
 >
 > Finally it is worth to compare the payoffs of the three collars in one chart… 
 >
-> ![500](b53d23e67d2e0c11a6544165b9f891d1.png)
+> !500
 
 (2.a).
 
@@ -441,7 +441,3 @@ Draw the payoff diagrams, at maturity, of these two new strategies as well as of
 > $$r=-\frac{ln\left(\frac{S_{0}-c+p}{K}\right)}{T}\tag{5}$$
 >
 > If we apply formula (5) to any pair of options provided we get (with some small rounding errors due to option prices approximation) that r = 4.5%.
-
----
-
-This exercise is motivated by a real deal between Goldman Sachs and Greece. However, **all** of the details in this exercise are fictitious, as details of the deal are not known. For initial reference, please visit https://www.goldmansachs.com/media-relations/in-the-news/archive/greece.html

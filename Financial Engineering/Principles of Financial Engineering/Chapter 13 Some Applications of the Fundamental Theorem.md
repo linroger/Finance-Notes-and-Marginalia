@@ -1,1066 +1,862 @@
-# SOME APPLICATIONS OF THE 13 FUNDAMENTAL THEOREM  
+---
+title: "Some Applications of the Fundamental Theorem"
+chapter: 13
+subject: "Financial Engineering"
+category: "Principles of Financial Engineering"
+---
+
+# SOME APPLICATIONS OF THE FUNDAMENTAL THEOREM  
 
 # CHAPTER OUTLINE  
 
-# 13.1 Introduction .. 428  
-
-13.2 Application 1: The [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) Approach... 429   
-13.2.1 [Pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) with [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) ... 430   
-13.2.1.1 [Pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) a call with constant [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) . 431   
-13.2.2 [Pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) Binary FX Options... 433   
-13.2.2.1 Obtaining the [risk-neutral dynamics](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) . 433   
-13.2.2.2 [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) process.. 435   
-13.2.3 Path Dependency .. 436   
-13.2.4 Discretization Bias and Closed Forms... 438   
-13.2.5 Real-Life Complications . 438   
-.3 Application 2: [Calibration](../../Credit%20Markets/Credit%20Markets%20Session%204.md) .... . 438   
-13.3.1 Calibrating a Tree .. 439   
-13.3.2 Extracting a LIBOR Tree. 439   
-13.3.2.1 [Pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) functions . 439   
-13.3.3 Obtaining the BDT Tree. 441   
-13.3.3.1 Specifying the dynamics . 441   
-13.3.3.2 The variance of Li . 441   
-13.3.4 Calibrating the Tree .. 443   
-13.3.5 Uses of the Tree 445   
-13.3.5.1 Application: [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) a cap . 445   
-13.3.5.2 Some assumptions of the model .. 447   
-13.3.5.3 Remarks .. 447   
-13.3.6 Real-World Complications .. 448   
-13.4 Application 3: Quantos .. 448   
-13.4.1 [Pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) Quantos... 448   
-13.4.2 The PDE Approach . 451   
-13.4.2.1 A PDE for quantos. 452   
-13.4.3 Quanto Forward.. 453   
-13.4.4 Quanto Option.. 453   
-13.4.4.1 [Black Scholes](../../Credit%20Markets/Black-Scholes%20Model.md) and dividends.. 454   
-13.4.5 How to Hedge Quantos.. 454   
-13.4.6 Real-Life Considerations . 454   
-13.5 Conclusions. 455   
-Suggested Reading .. . 455   
-[Exercises](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) . 455   
-EXCEL [Exercises](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) . 456   
-MATLAB [Exercises](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md). 457  
+[^13]: 1 Introduction . 428
+[^13]: 2 Application 1: The Monte Carlo Approach. 429
+[^13]: 2.1 Pricing with Monte Carlo . 430
+[^13]: 2.1.1 Pricing a call with constant spot rate . 431
+[^13]: 2.2 Pricing Binary FX Options. 433
+[^13]: 2.2.1 Obtaining the risk-neutral dynamics . 433
+[^13]: 2.2.2 Monte Carlo process. 435
+[^13]: 2.3 Path Dependency . 436
+[^13]: 2.4 Discretization Bias and Closed Forms. 438
+[^13]: 2.5 Real-Life Complications . 438
+[^13]: 3 Application 2: Calibration . 438
+[^13]: 3.1 Calibrating a Tree . 439
+[^13]: 3.2 Extracting a LIBOR Tree. 439
+[^13]: 3.2.1 Pricing functions . 439
+[^13]: 3.3 Obtaining the BDT Tree. 441
+[^13]: 3.3.1 Specifying the dynamics . 441
+[^13]: 3.3.2 The variance of Li . 441
+[^13]: 3.4 Calibrating the Tree . 443
+[^13]: 3.5 Uses of the Tree 445
+[^13]: 3.5.1 Application: pricing a cap . 445
+[^13]: 3.5.2 Some assumptions of the model . 447
+[^13]: 3.5.3 Remarks . 447
+[^13]: 3.6 Real-World Complications . 448
+[^13]: 4 Application 3: Quantos . 448
+[^13]: 4.1 Pricing Quantos. 448
+[^13]: 4.2 The PDE Approach . 451
+[^13]: 4.2.1 A PDE for quantos. 452
+[^13]: 4.3 Quanto Forward. 453
+[^13]: 4.4 Quanto Option. 453
+[^13]: 4.4.1 Black-Scholes and dividends. 454
+[^13]: 4.5 How to Hedge Quantos. 454
+[^13]: 4.6 Real-Life Considerations . 454
+[^13]: 5 Conclusions. 455
+Suggested Reading . 455   
+Exercises . 455   
+EXCEL Exercises . 456   
+MATLAB Exercises. 457  
 
 # 13.1 INTRODUCTION  
 
-The theorem discussed in the previous chapter establishes important no-[arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) conditions that permit [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) and [risk management](../Financial%20Mathematics%20Course.md) using Martingale methods. According to these conditions, given unique [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free state prices, we can obtain a synthetic probability measure, $\tilde{P}$ , under which all asset prices normalized by a particular $Z_{t}$ become Martingales. Letting $C(S_{t},t)$ represent a security whose price depends on an underlying risk $S_{t}.$ , we can write,  
+The theorem discussed in the previous chapter establishes important no-arbitrage conditions that permit pricing and risk management using Martingale methods. According to these conditions, given unique arbitrage-free state prices, we can obtain a synthetic probability measure, $\tilde{P}$, under which all asset prices normalized by a particular $Z_{t}$ become Martingales. Letting $C(S_{t}, t)$ represent a security whose price depends on an underlying risk $S_{t}$, we can write,  
 $$
-\frac{C(S_{t},t)}{Z_{t}}=E_{t}^{\tilde{P}}\left[\frac{C(S_{T},T)}{Z_{T}}\right]
+\frac{C(S_{t}, t)}{Z_{t}} = E_{t}^{\tilde{P}}\left[\frac{C(S_{T}, T)}{Z_{T}}\right]
 $$  
 
 As long as positive state prices exist, many such probabilities can be found and each will be associated with a particular normalization. The choice of the right working probability then becomes a matter of convenience and data availability.  
 
-The equality in Eq. (13.1) can be evaluated numerically using various methods. The arbitragefree price $S_{t}$ can be calculated by evaluating the expectation and then multiplying by $Z_{t}.$ . But to evaluate the expectation, we would need the probability $\tilde{P}$ , hence, this must be obtained first. A further desirable characteristic is that the future value, $Z_{T}$ , be constant, as it would be in the case of a default-free bond that matures at time $T.$ Hence, $T$ maturity bonds are good candidates for normalization.  
+The equality in Eq. (13.1) can be evaluated numerically using various methods. The arbitrage-free price $S_{t}$ can be calculated by evaluating the expectation and then multiplying by $Z_{t}$. But to evaluate the expectation, we would need the probability $\tilde{P}$, hence, this must be obtained first. A further desirable characteristic is that the future value, $Z_{T}$, be constant, as it would be in the case of a default-free bond that matures at time $T$. Hence, $T$ maturity bonds are good candidates for normalization.  
 
-In this chapter, we show three applications of the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md). The first application is the [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) procedure which can be interpreted as a general method to calculate the expectation in Eq. (13.1). This method can be applied straightforwardly when instruments under consideration are of European type. The procedure uses the tools supplied by the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) together with the law of large numbers.1  
+In this chapter, we show three applications of the fundamental theorem. The first application is the Monte Carlo procedure which can be interpreted as a general method to calculate the expectation in Eq. (13.1). This method can be applied straightforwardly when instruments under consideration are of European type. The procedure uses the tools supplied by the fundamental theorem together with the law of large numbers.  
 
-The second application of the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) involves [calibration](../../Credit%20Markets/Credit%20Markets%20Session%204.md). [Calibration](../../Credit%20Markets/Credit%20Markets%20Session%204.md) is the selection of model parameters using observed [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free prices from liquid markets. The chapter discusses simple examples of how to calibrate stochastic differential equations and tree models to market data using the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md). This is done within the context of the Black Derman Toy (BDT) model.  
+The second application of the fundamental theorem involves calibration. Calibration is the selection of model parameters using observed arbitrage-free prices from liquid markets. The chapter discusses simple examples of how to calibrate stochastic differential equations and tree models to market data using the fundamental theorem. This is done within the context of the Black Derman Toy (BDT) model.  
 
-The third application of the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) introduced in Chapter 12 is more conceptual in nature. We use quanto assets to show how the theorem can be exploited in modeling. Quanto assets provide an excellent vehicle for this, since their [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) involves switches between domestic and foreign risk-neutral measures. Techniques for switching between measures are an integral part of financial engineering and will be discussed further in the next chapter. The application to quantos provides the first step.  
+The third application of the fundamental theorem introduced in Chapter 12 is more conceptual in nature. We use quanto assets to show how the theorem can be exploited in modeling. Quanto assets provide an excellent vehicle for this, since their pricing involves switches between domestic and foreign risk-neutral measures. Techniques for switching between measures are an integral part of financial engineering and will be discussed further in the next chapter. The application to quantos provides the first step.  
 
-Before we discuss these issues, a note of caution is in order. The discussion in this chapter should be regarded as an [overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md) that presents examples for when to use the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md), instead of being a source of how to implement such numerical techniques. Calculations using [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) or [calibration](../../Credit%20Markets/Credit%20Markets%20Session%204.md) are complex numerical procedures, and a straightforward application may not give satisfactory results. Interested readers can consult the sources provided at the end of the chapter.  
+Before we discuss these issues, a note of caution is in order. The discussion in this chapter should be regarded as an overview that presents examples for when to use the fundamental theorem, instead of being a source of how to implement such numerical techniques. Calculations using Monte Carlo or calibration are complex numerical procedures, and a straightforward application may not give satisfactory results. Interested readers can consult the sources provided at the end of the chapter.  
 
 # 13.2 APPLICATION 1: THE MONTE CARLO APPROACH  
 
-Consider again the expectation involving a function $C\left(S_{t},t\right)$ of the underlying risk $S_{t}$ under a working Martingale measure, $\bar{\tilde{P}}$ :  
+Consider again the expectation involving a function $C(S_{t}, t)$ of the underlying risk $S_{t}$ under a working Martingale measure, $\tilde{P}$:  
 $$
-\frac{C(S_{t},t)}{Z_{t}}=E_{t}^{\tilde{P}}\left[\frac{C(S_{T},T)}{Z_{T}}\right]
+\frac{C(S_{t}, t)}{Z_{t}} = E_{t}^{\tilde{P}}\left[\frac{C(S_{T}, T)}{Z_{T}}\right]
 $$  
 
-where $S_{t}$ and $Z_{t}$ are two [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free asset prices at time t. $Z_{t}$ is used as the normalizing asset and is instrumental in defining $\tilde{P}.~C(S_{t},t)$ may represent a European option premium or any other derivative that depends on $S_{t}$ with expiration $T$ .  
+where $S_{t}$ and $Z_{t}$ are two arbitrage-free asset prices at time $t$. $Z_{t}$ is used as the normalizing asset and is instrumental in defining $\tilde{P}$. $C(S_{t}, t)$ may represent a European option premium or any other derivative that depends on $S_{t}$ with expiration $T$.  
 
-This equation can be used as a vehicle to calculate a numerical value for $C(S_{t},\ t)$ , if we are given the probability measure $\tilde{P}$ and if we know $Z_{t}$ . There are two ways of doing this. First, we can try to solve analytically for the expectation and obtain the resulting $C(S_{t},\ t)$ as a closed-form formula. When the current value of the normalizing asset, $Z_{t}$ , is known, this would amount to taking the integral:  
+This equation can be used as a vehicle to calculate a numerical value for $C(S_{t}, t)$, if we are given the probability measure $\tilde{P}$ and if we know $Z_{t}$. There are two ways of doing this. First, we can try to solve analytically for the expectation and obtain the resulting $C(S_{t}, t)$ as a closed-form formula. When the current value of the normalizing asset, $Z_{t}$, is known, this would amount to taking the integral:  
 $$
-C(S_{t},t)=Z_{t}\left[\int_{-\infty}^{\infty}\int_{-\infty}^{\infty}\frac{C(S_{T},T)}{Z_{T}}\tilde{f}(S_{T},Z_{T})\mathrm{d}S_{T}\mathrm{d}Z_{T}\right]
+C(S_{t}, t) = Z_{t}\left[\int_{-\infty}^{\infty}\int_{-\infty}^{\infty}\frac{C(S_{T}, T)}{Z_{T}}\tilde{f}(S_{T}, Z_{T})\mathrm{d}S_{T}\mathrm{d}Z_{T}\right]
 $$  
 
-where $\tilde{f}(.)$ is the joint conditional probability density function of $S_{T},Z_{T}$ in terms of the $\tilde{P}$ probability.2 $Z_{T}$ on the right-hand side is considered to be random and possibly correlated with $S_{T}$ As a result, the probability $\tilde{P}$ would apply to both random variables, $S_{T}$ and $Z_{T}$ .  
+where $\tilde{f}(.)$ is the joint conditional probability density function of $S_{T}, Z_{T}$ in terms of the $\tilde{P}$ probability. $Z_{T}$ on the right-hand side is considered to be random and possibly correlated with $S_{T}$. As a result, the probability $\tilde{P}$ would apply to both random variables, $S_{T}$ and $Z_{T}$.  
 
-With judicious choices of $Z_{t}$ , we can however make $Z_{T}$ a constant. For example, if we choose $Z_{t}$ as the default-free discount bond that matures at time $T_{\mathbf{\delta}}$ ,  
+With judicious choices of $Z_{t}$, we can however make $Z_{T}$ a constant. For example, if we choose $Z_{t}$ as the default-free discount bond that matures at time $T$,  
 $$
-Z_{T}=1
+Z_{T} = 1
 $$  
 
-It is clear that such normalization greatly simplifies the [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) exercise, since $\tilde{f}(.)$ is then a univariate conditional density.  
+It is clear that such normalization greatly simplifies the pricing exercise, since $\tilde{f}(.)$ is then a univariate conditional density.  
 
-But, even with this there is a problem with the analytical method. Often, there are no closedform solutions for the integrals, and a nice formula tying $S_{t}$ to $Z_{t}$ and other parameters of the [distribution function](../Verification%20of%20Central%20Limit%20Theorem.md) $\Tilde{P}$ may not exist. The value of the integral can still be calculated, although not through a closed-form formula. It has to be evaluated numerically.  
+But, even with this there is a problem with the analytical method. Often, there are no closed-form solutions for the integrals, and a nice formula tying $S_{t}$ to $Z_{t}$ and other parameters of the distribution function $\tilde{P}$ may not exist. The value of the integral can still be calculated, although not through a closed-form formula. It has to be evaluated numerically.  
 
-One way of doing this is the [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) method.3 This section briefly summarizes the procedure. We begin with a simple example. Suppose a random variable, $^4X$ , with a known normal distribution denoted by $P$ , is given:5  
+One way of doing this is the Monte Carlo method. This section briefly summarizes the procedure. We begin with a simple example. Suppose a random variable, $X$, with a known normal distribution denoted by $P$, is given:  
 $$
-X\sim N(\mu,\sigma)
+X \sim N(\mu, \sigma)
 $$  
 
-Suppose we have a known function $g(X)$ of $X$ . How would we calculate the expectation $E^{P}$ $[g(X)]$ , knowing that $E^{P}[g(X)]<\infty^{\prime}$ ? One way, of course, is by using the analytical approach mentioned earlier. Take the integral  
+Suppose we have a known function $g(X)$ of $X$. How would we calculate the expectation $E^{P}[g(X)]$, knowing that $E^{P}[g(X)] < \infty$? One way, of course, is by using the analytical approach mentioned earlier. Take the integral  
 $$
-E^{P}[g(X)]=\int_{-\infty}^{\infty}g(x)\biggl(\frac{1}{\sqrt{2\pi\sigma^{2}}}e^{-(1/2\sigma^{2})(x-\mu)^{2}}\biggr)\mathrm{d}x
+E^{P}[g(X)] = \int_{-\infty}^{\infty}g(x)\left(\frac{1}{\sqrt{2\pi\sigma^{2}}}e^{-(1/2\sigma^{2})(x-\mu)^{2}}\right)\mathrm{d}x
 $$  
 
 if a closed-form solution exists.  
 
-But there is a second, easier way. We can invoke the law of large numbers and realize that given a large sample of realizations of $X$ , denoted by $x_{i},$ the sample mean of any function of the $x_{i}$ , say $g(x_{i})$ , will be close to the true expected value $E^{P}\left[g(X)\right]$ . So, the task of calculating an arbitrarily good approximation of $\boldsymbol{E}^{P}\left[g(\boldsymbol{X})\right]$ reduces to drawing a very large sample of $x_{i}$ from the right distribution. Using random number generators, and the known [distribution function](../Verification%20of%20Central%20Limit%20Theorem.md) of $X$ , we can obtain $N$ replicas of $x_{i}$ . These would be generated independently, and the law of large numbers would apply:  
+But there is a second, easier way. We can invoke the law of large numbers and realize that given a large sample of realizations of $X$, denoted by $x_{i}$, the sample mean of any function of the $x_{i}$, say $g(x_{i})$, will be close to the true expected value $E^{P}[g(X)]$. So, the task of calculating an arbitrarily good approximation of $E^{P}[g(X)]$ reduces to drawing a very large sample of $x_{i}$ from the right distribution. Using random number generators, and the known distribution function of $X$, we can obtain $N$ replicas of $x_{i}$. These would be generated independently, and the law of large numbers would apply:  
+
 $$
-{\frac{1}{N}}\sum_{i=1}^{N}g(x_{i})\to E^{p}[g(X)]
+\lim_{N \to \infty} \frac{1}{N}\sum_{i=1}^{N}g(x_{i}) = E^{P}[g(X)]
 $$  
 
-The condition $\boldsymbol{E}^{P}\left[\boldsymbol{g}(\boldsymbol{X})\right]<\infty$ is sufficient for this convergence to hold. We now put this discussion in the context of [asset pricing](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md).  
+a.s. (almost surely).  
+
+This means that for finite $N$,  
+$$
+\overline{g(x)} = \frac{1}{N}\sum_{i=1}^{N}g(x_{i})
+$$  
+
+would be an approximation to the true expectation. In fact, one can calculate the (finite sample) moments of $\overline{g(x)}$ and determine the error bounds. Thus, with a properly selected probability (e.g., risk-neutral measure) and with a judiciously chosen normalizing asset, the expectation in Eq. (13.2) can be calculated using the same approach.  
+
+The term "Monte Carlo" comes from the fact that the procedure generates random paths that are similar to games of chance in gambling. This suggests that the Monte Carlo method is a viable technique for calculating expectations when the latter do not permit closed-form solutions, especially when only an approximation is sought. The method is general and can be applied to calculating any expectation under all types of probability distributions. But still, to apply this general framework to asset pricing, a knowledge of the probability $\tilde{P}$ is necessary. At various steps of the Monte Carlo procedure used in practice, utilization of the probability measure $\tilde{P}$ introduced by the fundamental theorem is often implicit.  
+
+We have seen the fundamental theorem tells us that the $\tilde{P}$ exists and has some desirable properties. However, the theorem does not pin down a unique $\tilde{P}$, depending on the chosen normalization. Also, depending on the asset under consideration, there may actually be several convenient probabilities that can be used. Thus, the application of Monte Carlo to pricing requires a good understanding of the fundamental theorem, risk-neutral measures, and the relation of $\tilde{P}$ to observed data.  
 
 # 13.2.1 PRICING WITH MONTE CARLO  
 
-With the [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) method, an expectation is evaluated by first generating a sequence of replicas of the random variable of interest from a prespecified model, and then calculating the sample mean. The application of this method to [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) equations is immediate. In fact, the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) provides the risk-neutral probability, $\tilde{P}$ , such that for any [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free [asset price](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) $S_{t},$  
+Now, consider the general case of pricing financial assets. According to the fundamental theorem of asset pricing, we can write  
 $$
-\frac{S_{t}}{B_{t}}=E_{t}^{\tilde{P}}\left[\frac{S_{T}}{B_{T}}\right]
+\frac{C(S_{t}, t)}{B(t, T)} = E_{t}^{\tilde{P}}\left[C(S_{T}, T)\right]
 $$  
 
-Here, the normalizing variable denoted earlier by $Z_{t}$ is taken to be a savings account and is now denoted by $B_{t}$ . This asset is defined as  
+Here, $B(t, T)$ is the value at time $t$ of a risk-free discount bond that matures at time $T$. Thus, we have  
 $$
-B_{t}=e^{\int_{0}^{t}r_{u}\mathrm{d}u}
+Z_{t} = B(t, T)
 $$  
-$r_{u}$ being the continuously compounded instantaneous [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md). It represents the time $t$ value of an [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) that was one dollar at time $t=0$ . The integral in the exponent means that $r_{u}$ is not constant during $u\in[t,~T]$ . If $\boldsymbol{r}_{t}$ is a random variable, then we will need joint conditional distribution functions in order to select replicas of $S_{T}$ and $B_{T}$ . We have to postulate a model that describes the joint dynamics of $S_{T},B_{T}$ and that ties the information at time $t$ to the random numbers generated for time $T.$ . We begin with a simple case where $\boldsymbol{r}_{t}$ is constant at $r$ .  
+$$
+Z_{T} = 1
+$$  
+
+$S_{t}$ is the price of the underlying instrument and $C(S_{t}, t)$ is any derivative written on it. For example, $C(S_{t}, t)$ can be a plain vanilla call, in which case,  
+$$
+C(S_{T}, T) = \max[S_{T} - K, 0]
+$$  
+
+But the method is much more general. We can value various types of exotic options as well. The only restriction is that the option should not have any early exercise clauses. Such American-style options need to be priced using backward induction methods since at any point in time, there is a need to check whether it is optimal to exercise the option or not. With Monte Carlo, we generate future paths for the underlying risk, and this can be done only in a "forward" fashion. During this process, there is no way to check if early exercise is optimal. But the Monte Carlo approach can be used with exotic options that have a path-dependent structure, if they are of European type. Finally, once an expectation is to be calculated, the method is general; the underlying probability can be continuous or discrete, univariate or multivariate.  
+
+We will discuss the use of Monte Carlo with a simple example.  
 
 # 13.2.1.1 Pricing a call with constant spot rate  
 
-Consider the calculation of the price of a European call option with strike $K$ and expiration $T$ written on $S_{t}$ , in a world where all [Black Scholes](../../Credit%20Markets/Black-Scholes%20Model.md) assumptions are satisfied. Using $B_{t}$ in Eq. (13.9) as the normalizing asset, Eq. (13.8) becomes  
+We consider a plain vanilla European call option $C(S_{t}, t)$, written on the stock $S_{t}$. The call has strike $K$ and expiration $T$. At expiration, the value of the call will be  
 $$
-{\frac{C(t)}{e^{r t}}}=E_{t}^{\tilde{P}}\left[{\frac{C T}{e^{r T}}}\right]
+C(S_{T}, T) = \max[S_{T} - K, 0]
 $$  
 
-where $C(t)$ denotes the [call premium](../Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md) that depends on $S_{t}~t,~K,~r.$ , and $\sigma$ . After simplifying and rearranging  
+and, according to the fundamental theorem  
 $$
-C(t)=e^{-r(T-t)}E_{t}^{\tilde{P}}[C(T)]
+C(S_{t}, t) = B(t, T)E_{t}^{\tilde{P}}[\max[S_{T} - K, 0]]
 $$  
 
-where  
-$$
-C(T)=\operatorname*{max}[S_{T}-K,0]
-$$  
-
-The [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) method can easily be applied to the right-hand side of Eq. ( to obtain $C(t)$ .  
-
-Using the savings account normalization, we can write down the discretized [risk-neutral dynamics](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) for $S_{t}$ for discrete intervals of size $0<\Delta$ :  
-$$
-S_{t+\Delta}=(1+r\Delta)S_{t}+\sigma S_{t}(\Delta W_{t})
-$$  
-
-where it is assumed that the percentage volatility $\sigma$ is constant and that the disturbance term, $\Delta W_{t}$ , is a normally distributed random variable with mean zero and variance $\Delta$ :  
-$$
-\Delta W_{t}\sim N(0,\Delta)
-$$  
-
-The $r$ enters the SDE due to the use of the [risk-neutral measure](../Verifying%20Martingale%20Property%20with%20Q.md) $\tilde{P}$ . We can easily calculate replicas of $S_{T}$ using these dynamics:  
-
-1. Select the size of $\Delta$ , and then use a proper pseudo-random number generator, to generate the random variable $\Delta W_{t}$ from a normal distribution.   
-2. Use the current value $S_{t}$ , the parameter values $r,\sigma$ , and the dynamics in Eq. (13.13) to obtain the $N$ terminal values $S_{T}^{j},j=\bar{1},2,...,N.$ . Here $j$ will denote a random path generated by the [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) exercise.  
-
-3. Substitute these into the payoff function,  
-$$
-C(T)^{j}=\operatorname*{max}[S_{T}^{j}-K,0]
-$$  
-
-and obtain $N$ replicas of $C(T)^{j}$ .  
-
-4. Finally, calculate the sample mean and discount it properly to get $C(t)$ :  
-$$
-C(t)=e^{-r(T-t)}\frac{1}{N}{\sum_{j=1}^{N}}C(T)^{j}
-$$  
-
-This procedure gives the [arbitrage-free price](../Determining%20the%20Stochastic%20Process%20for%20a%20Forward%20Contract%20from%20Ito’s%20Lemma.md) of the call option. We now consider a simple example.  
-
-# EXAMPLE  
-
-Consider [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) the following European vanilla call written on $S_{t}$ , the EUR/USD exchange rate, which follows the discretized (approximate) SDE:  
-$$
-S_{t_{i}}^{j}=S_{t_{i-1}}^{j}+(r-r^{f})S_{t_{i-1}}^{j}\Delta+\sigma S_{t_{i-1}}^{j}\sqrt{\Delta}\in_{i}^{j}
-$$  
-
-where the drift is the differential between the domestic and foreign [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md).  
-
-We are given the following data on a call with strike $K=1.0950$ :  
-$$
-r=2\%r^{f}=3\%t_{0}=0,T=5{\mathrm{days}}=1.09\sigma=0.10
-$$  
-
-A financial engineer decides to select $N=3$ trajectories to price this call. The discrete interval is selected as $\Delta=1$ day.  
-
-The software Mathematica provides the following standard normal random numbers:  
-$$
-\{0.763,0.669,0.477,0.287,1.81,-0.425\}
-$$$$
-\begin{array}{c}{{10.10,0.00>,0.+1/\ ,0.20>,1.01,-0.42>\mathrm{{J}}}}\\ {{\ }}\\ {{\{1.178,-0.109,-0.310,-2.130,-0.013,0.421141\}}}\\ {{\ }}\\ {{\{-0.922,0.474,-0.556,0.400,-0.890,-2.736\}}}\end{array}
-$$  
-
-Using these in the discretized SDE,  
-$$
-S_{i}^{j}=\left(1+(0.02-0.03)\frac{1}{365}\right)S_{i-1}^{j}+0.10S_{i-1}^{j}\sqrt{\frac{1}{365}}\in_{i}^{j}
-$$  
-
-we get the trajectories:  
-
-<html><body><table><tr><td>Path</td><td>Day 1</td><td>Day 2</td><td>Day 3</td><td>Day 4</td><td>Day 5</td></tr><tr><td>1</td><td>1.0937</td><td>1.0965</td><td>1.0981</td><td>1.1085</td><td>1.1060</td></tr><tr><td>2</td><td>1.0893</td><td>1.0875</td><td>1.0754</td><td>1.0753</td><td>1.0776</td></tr><tr><td>3</td><td>1.0927</td><td>1.08946</td><td>1.0917</td><td>1.086</td><td>1.0710</td></tr></table></body></html>  
-
-For the case of a plain vanilla euro call, with strike $K=1.095$ , only the first trajectory ends in-the-money, so that  
-$$
-C(T)^{1}=0.011,\quad C(T)^{2}=0,\quad C(T)^{3}=0
-$$  
-
-Using [continuous compounding](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) the [call premium](../Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md) becomes  
-$$
-C(t)=\mathrm{Exp}\bigg(-0.02\frac{5}{365}\bigg)\frac{1}{3}[0.011+0+0]
-$$  
-$$
-C(t)=0.0037
-$$  
-
-Obviously, the parameters of this model are selected to illustrate the application of the [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) procedure, and no real-life application would price securities with such a small number of trajectories. However, one important wrinkle has to be noted. The drift of this SDE was given by $(r-r^{f})S_{t}\Delta$ and not by $r S_{t}\Delta$ , which was the case of [stock price dynamics](../Verifying%20Martingale%20Property%20with%20Q.md). This modification will be dealt with below. Foreign currencies pay foreign [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) and the [risk-free interest rate](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) differentials should be used. We discuss this in more detail in the following section.  
-
-# 13.2.2 PRICING BINARY FX OPTIONS  
-
-This section applies the [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) technique to [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) digital or binary options in foreign exchange markets. We consider the following elementary instrument:  
-
-If the price of a foreign [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md), denoted by $S_{t}$ , exceeds the level $K$ at expiration, the option holder will receive the payoff $R$ denoted in domestic [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md). Otherwise the option holder receives nothing. The option is of European style and has [expiration date](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) $T.$ . The option will be sold for $C(t)$ .  
-
-We would like to price this binary FX option using [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md). However, because the underlying is an exchange rate, some additional structure needs to be imposed on the environment and we discuss this first. This is a good example of the use of the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md). It also provides a good occasion to introduce some elementary aspects of option [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) in FX markets.  
-
-# 13.2.2.1 Obtaining the risk-neutral dynamics  
-
-In the case of vanilla options written on stock prices, we assumed that the underlying stock pays no dividends and that the [stock price](../Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) follows a geometric continuous time process such as  
-$$
-\mathrm{d}S_{t}=\mu S_{t}\mathrm{d}t+\sigma S_{t}\mathrm{d}W_{t}
-$$  
-
-with $\mu$ being an unknown drift coefficient representing the market’s expected percentage appreciation of the stock and $\sigma$ being a constant percentage volatility parameter whose value has to be obtained. $W_{t},$ finally, represents a [Wiener process](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md).  
-
-Invoking the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of [asset pricing](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md), we then replaced the unknown drift term $\mu$ by the [risk-free interest rate](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Exercises.md) $r$ assumed to be constant. In the case of options written on foreign exchange rates, some of these assumptions need to be modified. We can preserve the overall geometric structure of the $S_{t}$ process, but we have to change the assumption concerning dividends. A foreign [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) is, by definition, some interbank deposit and will earn foreign (overnight) interest. According to the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md), we can replace the real-world drift $\mu$ by the interest rate differential, $r_{t}-r_{t}^{f}$ , where $r_{t}^{f}$ is the foreign instantaneous [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) and $\boldsymbol{r}_{t}$ is, as usual, the domestic rate. Thus, if spot rates are constant,  
-$$
-r_{t}=r,r_{t}^{f}=r^{f}\quad\forall t
-$$  
-
-This gives the [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free dynamics:6  
-$$
-\mathrm{d}S_{t}=(r-r^{f})S_{t}\mathrm{d}t+\sigma S_{t}W_{t}\quad t\in[0,\infty)
-$$  
-
-The rationale behind using the interest rate differential, instead of the [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) $r$ , as the riskneutral drift is a direct consequence of the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) when the asset considered is a foreign [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md). Since this chapter is devoted to applications of the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md), we prefer to discuss this briefly.  
-
-Using the notation presented in Chapter 12, we take $S_{t}$ as being the number of dollars paid for one unit of foreign [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md). The [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of [asset pricing](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md) introduced in Chapter 12 implies that we can use the state prices $\{Q^{i}\}$ for states $i=1,...,n$ , and write  
-$$
-S_{t}=\sum_{i=1}^{n}(1+r^{f}\Delta)S_{T}^{i}Q^{i}
-$$  
-
-According to this, one unit of foreign [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) will be worth $S_{T}^{i}$ dollars in state $i$ of time $T.$ , and it will also earn $\boldsymbol{r}^{f}$ per annum in interest during the period $\Delta=T-t.$ . Normalizing with the domestic savings account, this becomes  
-$$
-S_{t}=\sum_{i=1}^{n}\frac{(1+r^{f}\Delta)}{(1+r\Delta)}S_{T}^{i}(1+r\Delta)Q^{i}
-$$  
-
-We now choose the [risk-neutral probabilities](../../Financial%20Instruments/Financial%20Instruments.md) as  
-$$
-\tilde{p}_{i}=(1+r\Delta)Q^{i}
-$$  
-
-and rearrange Eq. (13.30) to obtain the expected gross return of $S_{t}$ during $\Delta$  
-$$
-\frac{(1+r\Delta)}{(1+r^{f}\Delta)}=E_{t}^{\tilde{P}}\left[\frac{S_{T}}{S_{t}}\right]
-$$  
-
-Here, the left-hand side can be approximated as7  
-$$
-(1+r\Delta-r^{f}\Delta)
-$$  
-
-which means that $S_{t}$ is expected to change at an annual rate of $(r-r^{f})$ under the risk-neutral probability $\tilde{P}$ . This justifies the continuous time risk-neutral drift of the dynamics:  
-$$
-\mathrm{d}S_{t}=(r-r^{f})S_{t}\mathrm{d}t+\sigma S_{t}\mathrm{d}W_{t}
-$$  
-
-Now that the dynamics are specified, the next step is selecting the [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) trajectories.  
-
-# 13.2.2.2 Monte Carlo process  
-
-Suppose we would like to price our digital option in such a framework. How could we do this using the [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) approach? Given that the [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free dynamics for $S_{t}$ are obtained, we can simply apply the steps outlined earlier.  
-
-In particular, we need to generate random paths starting from the known current value for $S_{t}$ . This can be done in two ways. We can first solve the SDE in Eq. (13.34) and then select random replicas from the resulting closed-form formula, if any. The second way is to discretize the dynamics in Eq. (13.34), and proceed as discussed in the previous section. Suppose we decided to proceed by first choosing a discrete interval $\Delta$ , and then discretizing the dynamics:8  
-$$
-{S_{t+\Delta}}={S_{t}}+({r-{r^{f}}}){S_{t}}\Delta+\sigma{S_{t}}\Delta{W_{t}}
-$$  
-
-The next step would be to use a random number generator to obtain $N$ sequences of standard normal random variables $\{\in_{i}^{j},i=1,...,k,j=1,...,\bar{N}\}$ and then calculate the $N$ simulated trajectories using the discretized SDE:  
-$$
-S_{t_{i}}^{j}=S_{t_{i-1}}^{j}+(r-r^{f})S_{t_{i-1}}^{j}\Delta+\sigma S_{t_{i-1}}^{j}\sqrt{\Delta}\in_{i}^{j}
-$$  
-
-where the superscript $j$ denotes the jth simulated trajectory and where $\Delta=t_{i}-t_{i-1}$  
-
-Once the paths $\left\{S_{t_{i}}^{j}\right\}$ are obtained, the [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free value of the digital call option premium $C$ $\mathbf{\rho}(t)$ that pays $R$ at expiration can be found by using the equality  
-$$
-C(t)=\mathrm{Re}^{-r(T-t)}E_{t}^{\tilde{P}}\left[I_{\{S_{T}>K\}}\right]
-$$  
-
-where the symbol $I_{\{S_{T}>K\}}$ is the indicator function that determines whether at time $T.$ , the $S_{T}$ exceeds $K$ or not:  
-$$
-I_{\{S_{T}>K\}}=\left\{\begin{array}{c l}{{1}}&{{\mathrm{IF}S_{T}>K}}\\ {{0}}&{{\mathrm{Otherwise}}}\end{array}\right.
-$$  
-
-This means that $I_{\{S_{T}>K\}}$ equals 1 if the option expires in-the-money; otherwise it is 0. According to the expected payoff in Eq. (13.37), the [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free $C(t)$ depends on the value of $E_{t}^{\tilde{P}}\big[I_{\{S_{T}>K\}}\big]$ . The latter can be written as  
-$$
-E_{t}^{\tilde{P}}\big[I_{\{S_{T}>K\}}\big]=\mathrm{Prob}(S_{T}>K)
-$$  
-
-Thus  
-$$
-C(t)=\mathrm{Re}^{-r(T-t)}\operatorname{Prob}(S_{T}>K)
-$$  
-
-This equation is easy to interpret. The value of the digital option is equal to the risk-neutral probability that $S_{T}$ will exceed $K$ times the present value of the constant payoff $R$ .9  
-
-Under these conditions, the role played by the [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) method is simple. We generate $N$ paths for the exchange rate starting from the current observation $S_{t},$ and then calculate the proportion of paths that would end up above the level $K.$ . Once this tally is made, denoting this number by $m$ , the [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free value of the option will be  
-$$
-\begin{array}{c}{{\displaystyle C(t)=e^{-r(T-t)}R~\mathrm{(Prob(}S_{T}>K))}}\\ {{\displaystyle\cong e^{-r(T-t)}R\Big(\frac{\mathfrak m}{\mathrm{N}}\Big)}}\end{array}
-$$  
-
-Thus, in this case the [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) method is used to calculate a special expected value, which is the risk-neutral probability of the event $\{S_{T}>K\}$ . The following section discusses two examples.  
-
-# 13.2.3 PATH DEPENDENCY  
-
-In the examples discussed thus far, we used the [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) method to generate trajectories for an underlying risk $S_{t}$ , yet considered only the time $T$ values of these trajectories in calculating the desired quantity $C(S_{t},\ t)$ . The other elements of the trajectory were not directly used in [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md).  
-
-This changes if the asset under consideration makes interim payouts or is subject to some other restrictions as in the case of barrier options. When $C\left(S_{t},t\right)$ denotes the price of a barrier call option with barrier $H$ , the option may knock in or out depending on the event $S_{u}<H$ during the period $u\in[t,~T]$ . Consider the case of a down-and-out call. In [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) this instrument, once a [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) trajectory is obtained, the whole trajectory needs to be used to determine if the condition $S_{u}<H$ is satisfied by $S_{u}^{j}$ during the entire trajectory. This is one example of the class of assets that are path dependent and hence require direct use of entire [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) trajectories.  
-
-We now provide two more examples of the application of the [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) procedure. In the first case, the procedure is applied to a vanilla digital option, and in the second example, we show what happens when the option is a down-and-out call.  
-
-# EXAMPLE  
-
-Consider [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) a digital option written on $S_{t}$ , the EUR/USD exchange rate with the same structure as in the first example. The digital euro call has strike $K=1.091$ and pays $\$100$ if it expires in-the-money. The parameters are the same as before:  
-$$
-r=2\mathcal{U},\quad r^{f}=3\mathcal{V},\quad t_{0}=0,\quad t=5\mathrm{days},\quad S_{t_{0}}=1.09,\quad\sigma=0.10
-$$  
-
-The paths for $S_{t}$ are given by  
-
-<html><body><table><tr><td>Path</td><td>Day 1</td><td>Day 2</td><td>Day 3</td><td> Day 4</td><td>Day 5</td></tr><tr><td>1</td><td>1.0937</td><td>1.0965</td><td>1.0981</td><td>1.1085</td><td>1.1060</td></tr><tr><td>2</td><td>1.0893</td><td>1.0875</td><td>1.0780</td><td>1.0850</td><td>1.092</td></tr><tr><td>3</td><td>1.0927</td><td>1.08946</td><td>1.0917</td><td>1.086</td><td>1.0710</td></tr></table></body></html>  
-
-The digital call expires in-the-money if $1.091<S_{T}^{j}$ . There are two incidences of this event in the previous case, and the estimated risk-neutral probability that the option expires in-themoney is 2/3. The option value is calculated as  
-$$
-C(t)=\mathrm{Exp}\left(-0.02{\frac{5}{365}}\right){\frac{2}{3}}[100]
-$$  
-$$
-C(t)=\mathbb{\S}66.6
-$$  
-
-Now, consider what happens if we add a knock-out barrier $H=1.08$ . The digital call knocks out if $S_{t}$ falls below this barrier before expiration.  
-
-# EXAMPLE  
-
-All parameters are the same as in the first example, and the paths are given by  
-
-<html><body><table><tr><td>Path</td><td>Day 1</td><td>Day 2</td><td>Day 3</td><td> Day 4</td><td> Day 5</td></tr><tr><td>1</td><td>1.0937</td><td>1.0965</td><td>1.0981</td><td>1.1085</td><td>1.1060</td></tr><tr><td>2</td><td>1.0893</td><td>1.0875</td><td>1.0780</td><td>1.0850</td><td>1.092</td></tr><tr><td>3</td><td>1.0927</td><td>1.08946</td><td>1.0917</td><td>1.086</td><td>1.0710</td></tr></table></body></html>  
-
-The digital knock-out call requires that $1.091<S_{T}^{j}$ and that the trajectory never falls below 1.08. Thus, there is only one incidence of this in this case and the value of the option is calculated as  
-$$
-C(t)=\exp\left(-0.02{\frac{5}{365}}\right){\frac{1}{3}}[100]
-$$  
-$$
-C(t)=\$33.3
-$$  
-
-Hence, the digital option is cheaper. Also, note that in the case of vanilla call, only the terminal values were used to calculate the option value, whereas in the case of the knock-out call, the entire trajectory was needed to check the condition $H<S_{t}$ .  
-
-# 13.2.4 DISCRETIZATION BIAS AND CLOSED FORMS  
-
-The examples on the [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) used discrete approximations of SDEs. Assuming that the [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free dynamics of an [asset price](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/A%20Preview%20of%20Alternative%20Formulations.md) $S_{t}$ can be described by a geometric SDE,  
-$$
-\mathrm{d}S_{t}=r S_{t}\mathrm{d}t+\sigma S_{t}\mathrm{d}W_{t}\quad t\in[0,\infty)
-$$  
-
-we selected an appropriate time interval $\Delta$ , and ignoring [continuous compounding](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md), discretized the SDE  
-$$
-S_{t+\Delta}=(1+r\Delta)S_{t}+\sigma S_{t}(\Delta W_{t})
-$$  
-
-Equation (13.49) is only an approximation of the true continuous time dynamics given by Eq. (13.48).  
-
-For some special SDEs, we can sample the exact $S_{t}$ . In such special cases, the [stochastic differential equation](../Fixed%20Income%20Derivatives/Implementing%20Heath,%20Jarrow%20&%20Merton%20(HJM)%20Model.md) for $S_{t}$ can be “solved” for a closed form. The geometric process shown in Eq. (13.48) is one such case. We can directly obtain the value of $S_{T}$ using the closed-form formula:  
-$$
-S_{T}=S_{t_{0}}e^{r(T-t_{0})-(1/2)\sigma^{2}(T-t_{0})+\sigma\left(W_{T}-W_{t_{0}}\right)}
-$$  
-
-The term $\left(W_{T}-W_{t_{0}}\right)$ will be normally distributed with mean zero and variance $T-t_{0}$ . Hence, by drawing replicas of this random variable, we can obtain exact replicas for $S_{T}$ at any $T_{:}$ , $t_{0}<T$ It turns out that even in the case of a mean-reverting model, such closed-form formulas are available and lend themselves to [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). However, in general, we may have to use discretized SDEs that may contain a discretization bias.10  
-
-# 13.2.5 REAL-LIFE COMPLICATIONS  
-
-Obviously, [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) becomes a complex approach once we go beyond simple examples. Difficulties arise, yet significant improvements can be made in regard to (i) how to select random numbers with computers, (ii) how to trick the system, such that the greatest accuracy can be obtained in the shortest time, and (iii) how to reduce the variance of the calculated prices with a given number of random selections. For these questions, other sources should be considered; we will not discuss them given our focus on financial engineering.11  
-
-# 13.3 APPLICATION 2: CALIBRATION  
+To calculate the current value of the call $C(S_{t}, t)$, we need to evaluate the expectation on the right-hand side. We need to do the following:  
 
-Calibrating a model means selecting the model parameters such that the observed [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free benchmark prices are duplicated by the use of this model. In this section we give two examples for this procedure. Since we already discussed several examples of how the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) can be applied to SDEs, in this section we concentrate instead on tree models. As the last section has shown, [calibration](../../Credit%20Markets/Credit%20Markets%20Session%204.md) can be done using [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) and the SDEs as well.  
+[^1]: Display the arbitrage-free dynamics of $S_{t}$ under the probability $\tilde{P}$.
+[^2]: Using the dynamics from step 1, obtain as many future paths for $S_{t}$ as needed. Since the call has European-style exercise, only the values at expiration date, $S_{T}$, are relevant and need to be calculated.
+[^3]: Calculate the $\max[S^{i}_{T} - K, 0]$ for each simulated path $i$ and then take the average.
 
-# 13.3.1 CALIBRATING A TREE  
-
-The BDT model is a good example for procedures that extract information from market prices. The model calibrates future trajectories of the [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) $\boldsymbol{r}_{t}$ . The BDT model illustrates the way arbitragefree dynamics can be extracted from liquid and [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free asset prices.12  
-
-The basic idea of the BDT model is that of any other [calibration](../../Credit%20Markets/Credit%20Markets%20Session%204.md) methodology. Let it be implicit [binomial](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) trees, estimation of state prices implicit in asset prices, or estimation of [risk-neutral probabilities](../../Financial%20Instruments/Financial%20Instruments.md). The model assumes that we are given a number of benchmark [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free zero-coupon bond prices and a number of relevant volatility quotes in these markets. These volatility quotes can come from liquid [caps and floors](../Fixed%20Income%20Derivatives/Interest%20Rate%20Derivatives-An%20Introduction%20to%20the%20%20Pricing%20of%20Caps%20and%20Floors.md) or from swaptions that are discussed in Chapters 16 and 17, respectively. The procedure evolves in three steps. First, [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free benchmark securities’ prices and the relevant volatilities are obtained. Second, from these data the [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free dynamics of the relevant variable are extracted. Finally, other interest-sensitive securities are priced using these [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free dynamics.  
-
-This section illustrates the procedure using a three-period [binomial tree](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md). To simplify the notation and concentrate on understanding the main ideas, this section assumes that the time intervals $\Delta$ in the tree equal 1 year, and that the [day-count](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%202%20-%20Spot%20Markets/Intra-Year%20Compounding%20and%20Day-Count.md) parameter $\delta$ in a LIBOR setting equals 1 as well. The reader can easily generalize this simple example.  
-
-# 13.3.2 EXTRACTING A LIBOR TREE  
-
-Suppose we have [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free prices of three default-free benchmark zero-coupon bonds $\{B(t_{0},t_{1})$ , $B(t_{0},\ t_{2}),\ B(t_{0},\ t_{3})\}$ . Also suppose we observe reliable volatility quotes $\sigma_{i}\ i=0$ , 1, 2 for the LIBOR rates $L_{t_{0}},L_{t_{1}},L_{t_{2}}$ .  
-
-First note that $\sigma_{0}$ is by definition equal to 0, because time $t_{0}$ variables have already been observed at time $t_{0}$ . Next, assume that we have the following data:  
-$$
-\begin{array}{c}{{\sigma_{1}=15\%}}\\ {{\sigma_{2}=20\%}}\\ {{B(t_{0},t_{1})=0.95}}\\ {{B(t_{0},t_{2})=0.87}}\\ {{B(t_{0},t_{3})=0.79}}\end{array}
-$$  
-
-From these data, we extract information concerning the future [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free behavior of the LIBOR rates $L_{t_{i}}$ . We first need some [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) functions that tie the [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free bond prices to the dynamics of the LIBOR rates. These [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) functions are readily available from the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md).  
-
-# 13.3.2.1 Pricing functions  
-
-Consider the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) written for times $t_{0}$ and $t_{3}$ . Suppose there are $k$ states of the world at time $t_{3}$ and consider the matrix equation discussed in Chapter 11:  
-$$
-S_{k x1}=D_{k x k}Q_{k x1}
-$$  
-
-Here, $s$ is a $(k x1)$ vector of [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free asset prices at time $t_{0},D$ is the payoff matrix at time $t_{3}$ , and $\boldsymbol{Q}$ is the $(k x1)$ vector of positive state prices at time $t_{3}$ .  
-
-Suppose the first asset is a 1-year LIBOR-based deposit and the second asset is the bond $B(t_{0},$ $t_{3})$ , which matures and pays 1 dollar at $t_{3}$ . Then, the first two rows of the matrix equation in Eq. (13.56) will be as follows:  
+The last step will involve the approximation formula  
 $$
-\begin{array}{r l}{\binom{1}{B(t_{0},t_{3})}=}&{\left(\begin{array}{l l l l}{\left[\left(1+L_{t_{0}}\right)\left(1+L_{t_{1}}\right)\left(1+L_{t_{2}}\right)\right]^{1}}&{\cdots}&{\left[\left(1+L_{t_{0}}\right)\left(1+L_{t_{1}}\right)\left(1+L_{t_{2}}\right)\right]^{k}}\end{array}\right)}\\ &{\times\left(\begin{array}{l}{Q^{1}}\\ {\cdots}\\ {\cdots}\\ {Q^{k}}\end{array}\right)}\end{array}
+E_{t}^{\tilde{P}}[\max[S_{T} - K, 0]] \cong \frac{1}{n}\sum_{i=1}^{n}\max[S^{i}_{T} - K, 0]
 $$  
 
-where $\left[\left(1+L_{t_{0}}\right)\left(1+L_{t_{1}}\right)\left(1+L_{t_{2}}\right)\right]^{i}$ represents the return to the savings account [investment](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in the ith state of time $t_{3}$ . We can write the second row as  
-$$
-B(t_{0},t_{3})=\sum_{i=1}^{k}Q^{i}
-$$  
+We now provide details for each of these steps.  
 
-Normalizing by the savings account, this becomes  
-$$
-B(t_{0},t_{3})=\sum_{i=1}^{k}\frac{\left[\left(1+L_{t_{0}}\right)\left(1+L_{t_{1}}\right)\left(1+L_{t_{2}}\right)\right]^{i}}{\left[\left(1+L_{t_{0}}\right)\left(1+L_{t_{1}}\right)\left(1+L_{t_{2}}\right)\right]^{i}}Q^{i}
-$$  
+Step 1 requires displaying $S_{t}$ dynamics under the risk-neutral probability $\tilde{P}$.  
 
-Relabeling the [risk-neutral probabilities](../../Financial%20Instruments/Financial%20Instruments.md)  
-$$
-\tilde{p}_{i}=\left[\left(1+L_{t_{0}}\right)\left(1+L_{t_{1}}\right)\left(1+L_{t_{2}}\right)\right]^{i}Q^{i}
-$$  
+When we discussed the fundamental theorem, we saw that when we normalize asset prices with a $T$-maturity pure discount bond price, the asset prices become martingales under $\tilde{P}$. In a sense, the $\tilde{P}$ selected this way is a risk-neutral probability.  
 
-gives  
+We have from the fundamental theorem  
 $$
-B(t_{0},t_{3})=\sum_{i=1}^{k}\frac{1}{\left[\left(1+L_{t_{0}}\right)\left(1+L_{t_{1}}\right)\left(1+L_{t_{2}}\right)\right]^{i}}\tilde{p}_{i}
+\frac{S_{t}}{B(t, T)} = E_{t}^{\tilde{P}}\left[\frac{S_{u}}{B(u, T)}\right]
 $$  
 
-Thus, we obtain the [pricing equation](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Definitions%20and%20Immediate%20Consequences.md) for the $t_{3}$ maturity bond as:  
+where $t < u$. But the price of bond $B(t, T)$ is given by  
 $$
-B(t_{0},t_{3})=E_{t_{0}}^{\tilde{P}}\left[\frac{1}{\left(1+L_{t_{0}}\right)\left(1+L_{t_{1}}\right)\left(1+L_{t_{2}}\right)}\right]
+B(t, T) = e^{-r(T-t)}
 $$  
 
-Proceeding in a similar way, we can obtain the [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) equations for the two remaining bonds:  
+where $r$ is the constant spot rate. Then we get from Eq. (13.13)  
 $$
-\begin{array}{c}{{\displaystyle B(t_{0},t_{1})=E_{t_{0}}^{\tilde{P}}\Bigg[\frac1{\big(1+L_{t_{0}}\big)}\Bigg]}}\\ {{\displaystyle B(t_{0},t_{2})=E_{t_{0}}^{\tilde{P}}\Bigg[\frac1{\big(1+L_{t_{0}}\big)\big(1+L_{t_{1}}\big)}\Bigg]}}\end{array}
+S_{t} = e^{-r(u-t)}E_{t}^{\tilde{P}}[S_{u}]
 $$  
 
-The first equation is trivially true, since $L_{t_{0}}$ is known at time $t_{0}$ .  
-
-# 13.3.3 OBTAINING THE BDT TREE  
-
-In this particular example, we have three benchmark prices and two volatilities. This gives five equations:  
-$$
-B(t_{0},t_{1})=E_{t_{0}}^{\tilde{P}}\left[\frac{1}{\left(1+L_{t_{0}}\right)}\right]
-$$  
-$$
-B(t_{0},t_{2})=E_{t_{0}}^{\tilde{P}}\left[\frac{1}{\left(1+L_{t_{0}}\right)\left(1+L_{t_{1}}\right)}\right]
-$$  
-$$
-B(t_{0},t_{3})=E_{t_{0}}^{\tilde{P}}\left[\frac{1}{\left(1+L_{t_{0}}\right)\left(1+L_{t_{1}}\right)\left(1+L_{t_{2}}\right)}\right]
-$$  
-$$
-\mathrm{Vol}\left(L_{t_{1}}\right)=\sigma_{1}
-$$  
+This can be rewritten, after rearranging, as  
 $$
-\mathrm{Vol}\left(L_{t_{2}}\right)=\sigma_{2}
+E_{t}^{\tilde{P}}[S_{u}] = S_{t}e^{r(u-t)}
 $$  
 
-Once we specify a model for the dynamics of $L_{t_{i}}$ , we can solve these equations to obtain the [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free paths for $L_{t_{i}}$ .  
+The last equation says that the expected return on the stock equals the risk-free rate under the probability $\tilde{P}$. With the normalization by a default-free bond, the risk-neutral probability makes the expected returns of all assets equal to the risk-free rate.  
 
-# 13.3.3.1 Specifying the dynamics  
-
-We now obtain this [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free dynamics. Following the tradition in tree models, we simplify the notation and use the index $i=0,1,2,3$ to denote “time,” and the letters $u$ and $d$ to represent the up and down states at each node. First note that we have five equations and, hence, we can at most, get five pieces of independent information from these equations. In other words, the specified dynamic must have at most five unknowns in it. Consider the following three-period [binomial tree](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md):  
+But, this still does not provide the dynamics of $S_{t}$. We need this to generate Monte Carlo paths. Arbitrage-free dynamics are given by the stochastic differential equation (SDE):  
 $$
-L_{0}\bigsqcup_{L_{1}^{d}\bigsqcup_{1}^{d}L_{2}^{d u}}^{L_{1}^{u}\bigsqcup^{d}L_{2}^{u}}
+\mathrm{d}S_{t} = rS_{t}\mathrm{d}t + \sigma S_{t}\mathrm{d}W^{\tilde{P}}_{t}
 $$  
-
-The dynamic has seven unknowns, namely $\{L_{0},L_{1}^{u},L_{1}^{d},L_{2}^{u d},L_{2}^{d u},L_{2}^{d d},L_{2}^{u u}\}$ . That is two more than the number of equations we have. At least two unknowns must be eliminated by imposing additional restrictions on the model. These will come from the specification of variances, as we will now see.  
 
-# 13.3.3.2 The variance of Li  
+where $\mathrm{d}W^{\tilde{P}}_{t}$ is an infinitesimal increment in a Wiener process defined using the probability measure $\tilde{P}$.  
 
-The [spot LIBOR rate](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Yield%20Curve%20Construction%20with%20Interest%20Rate%20Fut.md) $L_{i},i=0,1,2$ has a [binomial](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) specification. This means that at any node, the [spot rate](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) can take one of only two possible values. Thus, the percentage variance of $L_{i}.$ , conditional on state $j$ at “time” $i$ , is given by13  
+We now have access to the arbitrage-free dynamics of the underlying defined with the probability $\tilde{P}$. In step 2, we generate the paths of $S_{t}$ using the risk-neutral dynamics. The equation  
 $$
-V a r(L_{i}|j)=E\tilde{P}[\ln(L_{i})-\ln(\overline{{L}}_{i})^{2}|j]
+\mathrm{d}S_{t} = rS_{t}\mathrm{d}t + \sigma S_{t}\mathrm{d}W^{\tilde{P}}_{t}
 $$  
 
-where  
+can be written  
 $$
-\ln\ \overline{{L}}_{i}=E\tilde{P}[\ln(L_{i})|j]
+\frac{\mathrm{d}S_{t}}{S_{t}} = r\mathrm{d}t + \sigma\mathrm{d}W^{\tilde{P}}_{t}
 $$  
 
-is the conditional expected value of $L_{i}.$ .  
-
-We now make two additional assumptions. The first assumption is for notational purposes only. We let $j=u$ , and hence assume that we are in an “up” state. The outcome for $j=d$ will be similar.  
-
-Second, we let  
+To generate paths, we need to discretize this SDE. In discrete time, over finite intervals $\Delta$, we obtain the approximation  
 $$
-\begin{array}{r c l}{\displaystyle p_{i}^{u}=\frac{1}{2}}&{\forall i}&{}\\ {\displaystyle p_{i}^{d}=\frac{1}{2}}&{\forall i}&{}\end{array}
+\Delta S_{t_{i}} = rS_{t_{i-1}}\Delta + \sigma S_{t_{i-1}}\sqrt{\Delta}z_{i}
 $$  
 
-That is to say, we assume that the up-and-down [risk-neutral probabilities](../../Financial%20Instruments/Financial%20Instruments.md) are constant over the life of the tree and that they are equal. We will see that this assumption, which at first may look fairly strong, is actually not a restriction. Using these assumptions and the [binomial](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) nature of the LIBOR rate, we can immediately calculate the following:14  
-$$
-\begin{array}{c}{{E\tilde{P}[\ln(L_{i})\mid j=u]=p^{u}\mathrm{ln}(L_{i}^{u u})+(1-p^{u})\mathrm{ln}(L_{i}^{u d})}}\\ {{{}}}\\ {{{}={\displaystyle{\frac{1}{2}}\left[\mathrm{ln}(L_{i}^{u u})+\mathrm{ln}(L_{i}^{u d})\right]}}}\end{array}
-$$  
+where $z_{i}$ is a random variable drawn from a standard normal distribution with mean zero and variance one. Hence $z_{i}$ has the same distribution as a normally distributed $\frac{\Delta W_{t}}{\sqrt{\Delta}}$. Also, by discretizing the SDE we always incur some level of error. This error is known as discretization bias or error. Finally, the Monte Carlo approach involves statistical error as well, although this can be decreased by increasing the number of simulated trajectories.  
 
-Replacing this in Eq. (13.71) gives  
-$$
-V a r(L_{i}\mid j=u)=E\tilde{P}\left[\left(\ln(L_{i})-\frac{1}{2}\left[\ln(L_{i}^{u u})+\ln(L_{i}^{u d})\right]\right)^{2}|j=u\right]
-$$  
+Further, if volatility is a function of time or of the value of $S$, these can be approximated by replacing $\sigma$ by $\sigma(t_{i}, S_{t_{i}})$. However, note that in such a case, where the volatility parameter becomes a function of the underlying itself, the discretization bias is much greater.  
 
-Simplifying and regrouping, we obtain  
+According to Eq. (13.20), once we draw a series of normally distributed random numbers $\{z_{j}\}$, we can obtain "paths" for $S_{t_j}$ for times $t_{j} = t + j\Delta$, where $j = 1, \ldots, n$. In particular,  
 $$
-V a r(L_{i}\mid j=u)=\left(\frac{1}{2}\left[-\ln(L_{i}^{u u})+\ln(L_{i}^{u d})\right]\right)^{2}
+S_{t_{j+1}} = S_{t_{j}} + rS_{t_{j}}\Delta + \sigma S_{t_{j}}\sqrt{\Delta}z_{j+1}
 $$  
 
-This means that the volatility at time $i$ , in state $u$ , is given by  
-$$
-\sigma_{i}^{u}=\frac{1}{2}\ln\left[\frac{L_{i}^{u u}}{L_{i}^{u d}}\right]
-$$  
+At the initial point $t_{0} = t$, the value $S_{t}$ is known. Using random number generators, we can draw a random value for $z_{1}$ and then use Eq. (13.21) to calculate $S_{t_{1}}$. Using $S_{t_{1}}$ and a new random number $z_{2}$, we can obtain $S_{t_{2}}$ from the same equation. Continuing this way until time $T$, we get a path $S_{t_{j}}$, $j = 1, \ldots, n$. Note that to value the particular European call, only the value of $S_{T}$ is needed, since early exercise is not allowed.  
 
-The result for the down state will be similar:  
+Repeating this procedure many times, we obtain paths, $\{S^{i}_{t_{j}}, i = 1, \ldots, M\}$ as shown in Figure 13.1. Given the $M$ values at maturity $S^{i}_{T}$, we can obtain the Monte Carlo approximation to the expectation in Eq. (13.9),  
 $$
-\sigma_{i}^{d}=\frac{1}{2}\ln\bigg[\frac{L_{i}^{d u}}{L_{i}^{d d}}\bigg]
+E_{t}^{\tilde{P}}[\max[S_{T} - K, 0]] \approx \frac{1}{M}\sum_{i=1}^{M}\max[S^{i}_{T} - K, 0]
 $$  
-
-These volatility estimates are functions of the possible values that the LIBOR rate can take during the subsequent period. Hence, given the market quotes on LIBOR volatilities, these formulas can be solved backward to obtain $L_{i}^{u u},L_{i}^{u d}$ . We will do this next.  
 
-# 13.3.4 CALIBRATING THE TREE  
-
-The elements of the tree can now be calibrated to the observed prices. Using the assumptions concerning (i) the [binomial](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/A%20Real-Life%20Option%20Pricing%20Exercise.md) nature for the process $L_{i}.$ , (ii) that $p^{u}={p^{d}}=1/2$ , and (iii) that the tree is recombining, we get the following five equations:  
-$$
-B(t_{0},t_{1})=\frac{1}{(1+L_{0})}
-$$  
-$$
-B(t_{0},t_{2})=\frac{1}{2}\frac{1}{(1+L_{0})(1+L_{1}^{u})}+\frac{1}{2}\frac{1}{(1+L_{0})(1+L_{1}^{d})}
-$$  
-$$
-\begin{array}{r l}{B(t_{0},t_{3})=}&{\displaystyle\frac{1}{4}\left[\frac{1}{(1+L_{0})(1+L_{1}^{u})(1+L_{2}^{u u})}\right]+\frac{1}{4}\left[\frac{1}{(1+L_{0})(1+L_{1}^{u})(1+L_{2}^{u d})}\right]}\\ &{\displaystyle+\frac{1}{4}\left[\frac{1}{(1+L_{0})(1+L_{1}^{d})(1+L_{2}^{d u})}\right]+\frac{1}{4}\left[\frac{1}{(1+L_{0})(1+L_{1}^{d})(1+L_{2}^{d d})}\right]}\end{array}
-$$  
+Multiplying with the current value of the bond, we get  
 $$
-\begin{array}{c}{{\frac{1}{2}\mathrm{ln}\left[\frac{L_{1}^{u}}{L_{1}^{d}}\right]=0.15}}\\ {{{}}}\\ {{\frac{1}{2}\mathrm{ln}\left[\frac{L_{2}^{u u}}{L_{2}^{u d}}\right]=0.20}}\end{array}
+C(S_{t}, t) \approx B(t, T)\frac{1}{M}\sum_{i=1}^{M}\max[S^{i}_{T} - K, 0]
 $$  
 
-Of these equations, the first and second are straightforward. We just applied the risk-neutral measures to price the benchmark bonds. When weighted by these probabilities, the values of future payoffs discounted by the LIBOR rates become Martingales and hence, equal the current price of the appropriate bond, see Figure 13.1.  
+As $M$ increases, the approximation error goes to zero.  
 
-![](554737f4522529b0b9f319ab272024378ede67d89fdc1d25861ee485383bc818.jpg)  
+![](5e6c7d8e9f0a1b2c3d4e5f6789abcdef0123456789abcdef0123456789abcdef.jpg)  
 
 # FIGURE 13.1  
 
-LIBOR rates and present value of future payoffs.  
+Simulated paths.
 
-The third equation represents the [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) function for the bond that matures at time $t=3$ . It is interesting to see what it does. According to the tree used here, there are four possible paths the LIBOR rate can take during $t=0$ , 1, 2. These are  
+# 13.2.2 PRICING BINARY FX OPTIONS  
+
+Suppose now the security whose price we want to calculate is a binary or digital foreign currency option written on $e_{t}$, the USD/EUR exchange rate. The current date is $t$ and the expiry is $T$. Suppose the European binary call option has payoff  
+
 $$
-\begin{array}{r l}&{\{L_{0},L_{1}^{u},L_{2}^{u u}\}}\\ &{\{L_{0},L_{1}^{u},L_{2}^{u d}\}}\\ &{\{L_{0},L_{1}^{d},L_{2}^{d u}\}}\\ &{\{L_{0},L_{1}^{d},L_{2}^{d d}\}}\end{array}
+C(e_{T}, T) = \begin{cases}
+$100 & \text{if } e_{T} > K \\
+$0 & \text{otherwise}
+\end{cases}
 $$  
 
-Due to the way probabilities, $p^{u}$ and $p^{d}$ , are picked in this model, each path is equally likely to occur. This gives the third equation.  
-
-The last two equations are simply the volatilities at each node. We see that as the volatilities depend only on the time index $i$ ,  
+The strike is $K$ and the payoff is in USD. According to the fundamental theorem, we can express the current value of the binary call option as  
 $$
-\begin{array}{c}{{\displaystyle{\frac{1}{2}}\mathrm{ln}\bigg[\frac{L_{2}^{u u}}{L_{2}^{u d}}\bigg]=0.20}}\\ {{\displaystyle{\frac{1}{2}}\mathrm{ln}\bigg[\frac{L_{2}^{d u}}{L_{2}^{d d}}\bigg]=0.20}}\end{array}
+C(e_{t}, t) = E_{t}^{\tilde{P}}\left[\frac{C(e_{T}, T)}{Z_{T}/Z_{t}}\right]
 $$  
 
-which means that  
+where $\tilde{P}$ is a martingale measure that corresponds to a normalization by $Z_{t}$.  
+
+# 13.2.2.1 Obtaining the risk-neutral dynamics  
+
+In this particular case, we need a probability associated with USD-denominated risk because the payoff is in USD. Hence, let $Z_{t}$ be the price of a USD-denominated risk-free discount bond  
 $$
-L_{2}^{u u}L_{2}^{d d}=L_{2}^{u d}L_{2}^{d u}
+Z_{t} = B_{d}(t, T) = e^{-r^{d}(T-t)}
 $$  
 
-This adds another equation to the five listed earlier and makes the number of unknowns equal to the number of equations. Under the further assumption that the tree is recombining, we have  
+where $r^{d}$ is the (constant) domestic spot rate. This means $Z_{T} = 1$, and the equation becomes  
 $$
-L_{2}^{u u}L_{2}^{d d}=(L_{2}^{u d})^{2}
+C(e_{t}, t) = B_{d}(t, T)E_{t}^{\tilde{P}}[C(e_{T}, T)]
 $$  
 
-Now Eqs. $(13.81)-(13.85)$ and (13.92) (13.93) can be solved for the seven unknowns $\{L_{0},L_{1}^{u},L_{1}^{d},L_{2}^{u u},L_{2}^{d u},L_{2}^{u d},L_{2}^{d d}\}$ .  
-
-The simplest way to solve these equations is to start from $i=0$ and work forward, since the system is recursive. It is trivial to obtain $L_{0}$ from the first equation. The second and fourth equations give $L_{1}^{u},L_{1}^{d}$ , and the remaining three equations give the last three unknowns. There is one caveat. The [system of equations](../Fixed%20Income%20Derivatives/A%20Primer%20on%20Probability%20Theory%20and%20Stochastic%20%20Modelling.md) $(13.81){-}(13.85)$ is not linear. Hence, a nonlinear hill-climbing solution procedure must be used to determine the unknowns.  
-
-# EXAMPLE  
-
-The situation is shown in the figure below. There are three periods. Hence, we have three discounts given by the corresponding zero-coupon bond prices and three volatilities. The first volatility is zero, since we do know the value of $L_{0}$ .  
-
-The system in Eqs. (13.81) (13.85) can be solved recursively. First, we solve for $L_{0}$ , then for $L_{1}^{u}$ and $L_{1}^{d}$ , and last for the time $t=2$ LIBOR rates. The nonlinear equations solved using Mathematica yield the following results:  
+where $\tilde{P}$ is the probability measure that makes USD-denominated assets have an expected return equal to the domestic risk-free rate. Determining the risk-adjusted dynamics for the exchange rate $e_{t}$ is more complex than obtaining those for the simple stock price $S_{t}$. There are at least two ways we can proceed. First, we can use the risk-neutral dynamics immediately. We can conjecture, in analogy with Eq. (13.19), that the exchange rate should have the risk-neutral dynamics given by the SDE:  
 $$
-\begin{array}{r l}&{L_{0}=5.26\%\gtrsim\lfloor\frac{L_{1}^{u}}{1}=6.39\%\lesssim\lfloor\frac{u\i}{12}=L_{2}^{d u}=9.7\%}\\ &{\qquad\quad\vdash L_{1}^{d}=4.73\%\lesssim\lfloor\frac{u\ i}{12}=5.3\%=5.3\%}\end{array}
+\mathrm{d}e_{t} = re_{t}\mathrm{d}t + \sigma e_{t}\mathrm{d}W^{\tilde{P}}_{t}
 $$  
 
-We now discuss how BDT trees that give [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free paths for LIBOR rates or other spot rates can be used.  
+But this is only a conjecture, and we need to check if it is consistent with no-arbitrage conditions. To see this, we note that the foreign savings account dynamics are given by  
+$$
+\mathrm{d}A^{f}_{t} = r^{f}A^{f}_{t}\mathrm{d}t
+$$  
+
+Normalize this with the $B_{d}(t, T)$. The fundamental theorem says  
+$$
+\frac{e_{t}A^{f}_{t}}{B_{d}(t, T)} = E_{t}^{\tilde{P}}\left[\frac{e_{T}A^{f}_{T}}{1}\right]
+$$  
+
+With constant interest rates this leads to  
+$$
+e_{t}A^{f}_{t}e^{r^{d}(T-t)} = E_{t}^{\tilde{P}}[e_{T}A^{f}_{T}]
+$$  
+
+Now divide both sides by $A^{f}_{t}$ and rearrange to get  
+$$
+e_{t}e^{(r^{d}-r^{f})(T-t)} = E_{t}^{\tilde{P}}[e_{T}]
+$$  
+
+since $A^{f}_{T}/A^{f}_{t} = e^{r^{f}(T-t)}$. This gives  
+$$
+E_{t}^{\tilde{P}}[e_{T}] = e_{t}e^{(r^{d}-r^{f})(T-t)}
+$$  
+
+This last equation is important. It tells us that if we select normalizing USD-denominated bonds, then the expected rate of appreciation of the USD/EUR exchange rate, calculated with the $\tilde{P}$, will equal the interest rate differential.  
+
+This will not be satisfied by the conjectured SDE in Eq. (13.28). Using the dynamics in this equation, the conditional expectation of $e_{T}$ will be  
+$$
+E_{t}^{\tilde{P}}[e_{T}] = e_{t}e^{r^{d}(T-t)}
+$$  
+
+which is not the same as Eq. (13.33) when $r^{f} \neq 0$.  
+
+What is the problem? The normalization by $B_{d}(t, T)$ led to a probability under which all USD-denominated assets will have an expected return equal to the US risk-free rate. But, the exchange rate is not USD-denominated. It is the ratio of USD over EUR and does not have a "dimension."  
+
+What is the solution? Convert the exchange rate $e_{t}$ artificially into a USD-denominated asset. In fact, the entity  
+$$
+\hat{e}_{t} = e_{t}A^{f}_{t}
+$$  
+
+is the value in USD of one EUR invested in the foreign (EUR) savings account, and is measured in USD. Under the $\tilde{P}$, the expected return of this asset should equal $r^{d}$. Now, we have  
+$$
+E_{t}^{\tilde{P}}[\hat{e}_{u}] = \hat{e}_{t}e^{r^{d}(u-t)}
+$$  
+
+But the relationship between $\hat{e}_{t}$ and $e_{t}$ can be used to get  
+$$
+E_{t}^{\tilde{P}}[e_{u}] = e_{t}\frac{A^{f}_{u}}{A^{f}_{t}}e^{r^{d}(u-t)}
+$$  
+
+With constant EUR interest rates, we get Eq. (13.33) again.  
+
+The SDE for $\hat{e}_{t}$ is given by  
+$$
+\mathrm{d}\hat{e}_{t} = r^{d}\hat{e}_{t}\mathrm{d}t + \sigma \hat{e}_{t}\mathrm{d}W^{\tilde{P}}_{t}
+$$  
+
+where we assume that the volatility of $\hat{e}_{t}$ is the same as the volatility of $e_{t}$. We now apply Ito's Lemma. In particular, $\hat{e}_{t} = e_{t}A^{f}_{t}$ represents  
+$$
+\hat{e}_{t} = f(e_{t}, A^{f}_{t})
+$$  
+
+Using Ito's Lemma, we get  
+$$
+\mathrm{d}\hat{e}_{t} = e_{t}\mathrm{d}A^{f}_{t} + A^{f}_{t}\mathrm{d}e_{t}
+$$  
+
+Substituting the dynamics of $A^{f}_{t}$ and the unknown dynamics of $e_{t}$:  
+$$
+\mathrm{d}e_{t} = \mu e_{t}\mathrm{d}t + \sigma e_{t}\mathrm{d}W^{\tilde{P}}_{t}
+$$  
+
+where the unknown drift is denoted by $\mu$. Substituting and using the fact that $\hat{e}_{t} = e_{t}A^{f}_{t}$:  
+$$
+\mathrm{d}\hat{e}_{t} = (r^{f} + \mu)\hat{e}_{t}\mathrm{d}t + \sigma \hat{e}_{t}\mathrm{d}W^{\tilde{P}}_{t}
+$$  
+
+But we know that $\hat{e}_{t}$ should have the expected return $r^{d}$ under $\tilde{P}$. Comparing with Eq. (13.38):  
+$$
+r^{f} + \mu = r^{d}
+$$  
+
+which gives  
+$$
+\mu = r^{d} - r^{f}
+$$  
+
+Therefore, the risk-neutral dynamics of $e_{t}$ are  
+$$
+\mathrm{d}e_{t} = (r^{d} - r^{f})e_{t}\mathrm{d}t + \sigma e_{t}\mathrm{d}W^{\tilde{P}}_{t}
+$$  
+
+This is the result we need for the Monte Carlo approach applied to foreign exchange options.  
+
+# 13.2.2.2 Monte Carlo process  
+
+Given the dynamics in Eq. (13.45), we can use Monte Carlo simulations to price the binary option. The discretized dynamics are  
+$$
+\Delta e_{t_{i}} = (r^{d} - r^{f})e_{t_{i-1}}\Delta + \sigma e_{t_{i-1}}\sqrt{\Delta}z_{i}
+$$  
+
+where $z_{i}$ are independent draws from a standard normal distribution.  
+
+The steps are:  
+[^1]: Generate $M$ paths of $e_{t}$ from time $t$ to $T$ using Eq. (13.46).
+[^2]: For each path $i$, calculate the payoff:
+   $$
+   C^{i}(e_{T}, T) = \begin{cases}
+   \$100 & \text{if } e^{i}_{T} > K \\
+   \$0 & \text{otherwise}
+   \end{cases}
+   $$  
+[^3]: Calculate the average payoff:
+   $$
+   \overline{C} = \frac{1}{M}\sum_{i=1}^{M}C^{i}(e_{T}, T)
+   $$  
+[^4]: Discount back to get the option price:
+   $$
+   C(e_{t}, t) = B_{d}(t, T)\overline{C} = e^{-r^{d}(T-t)}\overline{C}
+   $$  
+
+This completes the Monte Carlo pricing of the binary FX option.  
+
+# 13.2.3 PATH DEPENDENCY  
+
+One of the main advantages of Monte Carlo methods is their ability to handle path-dependent options. Unlike the binomial tree or closed-form solutions, Monte Carlo can easily accommodate complex payoff structures that depend on the entire path of the underlying asset.  
+
+Consider an Asian option whose payoff depends on the average exchange rate over the option's life:  
+$$
+C(e_{T}, T) = \max\left[\frac{1}{n}\sum_{i=1}^{n}e_{t_{i}} - K, 0\right]
+$$  
+
+where $t_{i}$, $i = 1, \ldots, n$ are the averaging dates.  
+
+To price this option using Monte Carlo:  
+[^1]: Generate paths for $e_{t}$ from time $t$ to $T$.
+[^2]: For each path, calculate the average rate at the specified dates.
+[^3]: Calculate the payoff based on this average.
+[^4]: Average across all paths and discount.
+
+The Monte Carlo approach naturally handles this complexity, while analytical solutions for such options are rare or involve complex approximations.  
+
+Another example is a barrier option, where the payoff depends on whether the underlying crosses a certain level during the option's life:  
+$$
+C(e_{T}, T) = \begin{cases}
+\max[e_{T} - K, 0] & \text{if } e_{u} < H \text{ for all } t \leq u \leq T \\
+[^0]: & \text{otherwise}
+\end{cases}
+$$  
+
+where $H$ is the barrier level.  
+
+For barrier options, the Monte Carlo simulation must check at each time step whether the barrier has been breached. With continuous barriers, care must be taken about the discretization, as the discrete approximation might miss barrier crossings that would occur in continuous time.  
+
+# 13.2.4 DISCRETIZATION BIAS AND CLOSED FORMS  
+
+When implementing Monte Carlo methods, discretization of the continuous-time stochastic process introduces bias. The size of this bias depends on:  
+[^1]: The time step $\Delta$
+[^2]: The functional form of the drift and volatility
+[^3]: The particular discretization scheme used
+
+For geometric Brownian motion with constant parameters, the exact solution is known:  
+$$
+S_{T} = S_{t}\exp\left[\left(r - \frac{\sigma^{2}}{2}\right)(T-t) + \sigma\sqrt{T-t}z\right]
+$$  
+
+where $z \sim N(0,1)$. When such closed-form solutions exist, they should be used instead of discretization to eliminate bias.  
+
+For more complex processes, higher-order discretization schemes (such as the Milstein scheme) can reduce bias compared to the simple Euler scheme we've been using.  
+
+# 13.2.5 REAL-LIFE COMPLICATIONS  
+
+In practice, several complications arise when implementing Monte Carlo methods:  
+
+[^1]: **Variance reduction**: Basic Monte Carlo can require many simulations for accurate results. Techniques like antithetic variates, control variates, and importance sampling can significantly reduce the variance of estimates.
+
+[^2]: **Quasi-random sequences**: Instead of pseudo-random numbers, quasi-random (low-discrepancy) sequences can provide better convergence properties.
+
+[^3]: **American options**: Standard Monte Carlo cannot handle early exercise directly. Methods like the Longstaff-Schwartz algorithm use regression techniques to approximate the optimal exercise boundary.
+
+[^4]: **Multi-factor models**: With multiple sources of randomness, careful attention must be paid to correlation structures and the choice of random number generation.
+
+[^5]: **Computational efficiency**: For complex models or large portfolios, computational time becomes a significant constraint. Parallel computing and GPU acceleration are often employed.
+
+# 13.3 APPLICATION 2: CALIBRATION  
+
+Calibration is the process of determining model parameters such that the model prices match observed market prices for liquid instruments. This is a crucial step in derivatives pricing and risk management, as it ensures the model is consistent with current market conditions.  
+
+The fundamental theorem provides the theoretical foundation for calibration. Since market prices should be arbitrage-free, they can be expressed as expectations under some risk-neutral measure. The calibration process finds the parameters of this measure that best match observed prices.  
+
+# 13.3.1 CALIBRATING A TREE  
+
+Tree models provide a discrete approximation to continuous processes and are particularly useful for American options and other path-dependent derivatives. The Black-Derman-Toy (BDT) model is a popular example that we'll use to illustrate calibration.  
+
+The BDT model specifies the evolution of short rates in a binomial tree where:  
+- Interest rates are lognormally distributed  
+- The model is calibrated to match the initial term structure  
+- Volatility can be time-dependent  
+
+# 13.3.2 EXTRACTING A LIBOR TREE  
+
+Consider calibrating a tree to match observed LIBOR rates and caplet prices. The goal is to construct a tree such that:  
+[^1]: The model prices of zero-coupon bonds match market prices
+[^2]: The model prices of caplets match market prices
+
+# 13.3.2.1 Pricing functions  
+
+Let $P(t, T)$ denote the price at time $t$ of a zero-coupon bond maturing at time $T$. In a tree model:  
+$$
+P(t, T) = E_{t}^{Q}\left[\exp\left(-\int_{t}^{T}r_{s}\mathrm{d}s\right)\right]
+$$  
+
+where $r_{s}$ is the short rate and $Q$ is the risk-neutral measure.  
+
+For a caplet with strike $K$ and maturity $T$:  
+$$
+\text{Caplet}(t, T) = P(t, T+\tau)E_{t}^{Q_{T+\tau}}[\tau(L_{T} - K)^{+}]
+$$  
+
+where $L_{T}$ is the LIBOR rate, $\tau$ is the tenor, and $Q_{T+\tau}$ is the $(T+\tau)$-forward measure.  
+
+# 13.3.3 OBTAINING THE BDT TREE  
+
+The BDT model assumes that the short rate follows a lognormal process in the risk-neutral measure:  
+$$
+\mathrm{d}\ln r_{t} = \theta(t)\mathrm{d}t + \sigma(t)\mathrm{d}W_{t}
+$$  
+
+where $\theta(t)$ is chosen to match the initial term structure and $\sigma(t)$ is the volatility function.  
+
+# 13.3.3.1 Specifying the dynamics  
+
+In the binomial tree, at each node the short rate can move up or down:  
+$$
+r_{u} = r_{m}u
+$$  
+$$
+r_{d} = r_{m}d
+$$  
+
+where $u$ and $d$ are the up and down factors, and $r_{m}$ is the median rate at that time step.  
+
+# 13.3.3.2 The variance of $L_i$  
+
+The variance of the LIBOR rate at each node is related to the volatility of the short rate through:  
+$$
+\text{Var}[\ln L_{i}] = \int_{t_{i}}^{t_{i+1}}\sigma^{2}(s)\mathrm{d}s
+$$  
+
+This relationship allows us to calibrate the volatility function $\sigma(t)$ to match market caplet prices.  
+
+# 13.3.4 CALIBRATING THE TREE  
+
+The calibration process involves:  
+
+[^1]: **Building the tree structure**: Start with an initial guess for the median rates and volatilities at each time step.
+
+[^2]: **Matching zero-coupon bond prices**: Adjust the median rates so that the tree prices of zero-coupon bonds match market prices. This is done iteratively, starting from the shortest maturity.
+
+[^3]: **Matching caplet prices**: Adjust the volatilities at each time step so that the tree prices of caplets match market prices.
+
+[^4]: **Iteration**: The process may require several iterations as adjustments to volatilities can affect bond prices and vice versa.
+
+The calibration algorithm:  
+```
+For each time step i:
+[^1]: Choose initial median rate r_m(i)
+[^2]: Calculate bond prices using the tree
+[^3]: Adjust r_m(i) until model bond price matches market
+[^4]: Choose initial volatility σ(i)
+[^5]: Calculate caplet prices using the tree
+[^6]: Adjust σ(i) until model caplet price matches market
+[^7]: Check convergence, iterate if necessary
+```
 
 # 13.3.5 USES OF THE TREE  
 
-[Arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free trees have many uses. (i) We can price baskets of options written on the LIBOR rates $L_{i}$ . These are called [caps and floors](../Fixed%20Income%20Derivatives/Interest%20Rate%20Derivatives-An%20Introduction%20to%20the%20%20Pricing%20of%20Caps%20and%20Floors.md) and are very liquid. (ii) We can use the tree to price swaps and related [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md). (iii) Finally, we can use the tree to price forward caps, [floors](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Caps%20and%20Floors.md), and swaps. We discuss one example below.  
+Once calibrated, the BDT tree can be used to price various interest rate derivatives:  
 
 # 13.3.5.1 Application: pricing a cap  
 
-A caplet is an option written on a particular LIBOR rate $L_{t_{i}}$ . A cap rate, $L_{K},$ is selected as a [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md), and the buyer of the caplet is compensated if the LIBOR rate moves above $L_{K}$ , see Figures 13.2 and 13.3. The [expiration date](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) is $t_{i},$ , and the settlement date is $t_{i+1}$ . A caplet then “caps” the interest cost of the buyer. A sequence of consecutive caplets written on $L_{t_{i}},L_{t_{i+1}},...,L_{t_{i+\tau}}$ forms a $\intercal$ period cap. Similarly, a sequence of consecutive floorlets forms a floor. An interest rate floor is a derivative contract in which the buyer receives payments at the end of each period in which the interest rate is below the agreed [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md).  
+A cap is a series of caplets. To price a cap using the calibrated tree:  
 
-Suppose we have the following caplet to price:  
+[^1]: Start at the final nodes of the tree
+[^2]: Calculate the payoff at each node: $\max(\tau(L - K), 0)$
+[^3]: Work backward through the tree, calculating expected values
+[^4]: At each node: $V = e^{-r\Delta t}[pV_{u} + (1-p)V_{d}]$
 
-• The $t_{i}$ are such that $t_{i}-t_{i-1}=12$ months. At time $t_{2}$ , the LIBOR rate $L_{t_{2}}$ will be observed. A notional amount $N$ is selected at time $t_{0}$ . Let it be given by  
-$$
-N=\mathbb{S}1\mathrm{million}
-$$  
-
-![](5f9c8c133d608cae2a74a9ddef7b961fd7544d2613548f3b9df0b96d441e71a5.jpg)  
-
-# FIGURE 13.2  
-
-Caplet payoff.  
-
-![](1db08b4257684998b5fdec3732f39746c567729a1f3ec14d76ee0141be0e7d5e.jpg)  
-
-# FIGURE 13.3  
-
-Floorlet payoff.  
-
-• If the LIBOR rate $L_{t_{2}}$ is in excess of the cap rate $L_{K}=6.5\%$ , the client will receive payoff:  
-$$
-C(t_{3})=\frac{N\big(L_{t_{2}}-L_{K}\big)}{100}
-$$  
-
-at time $t_{3}$ . Otherwise the client is paid nothing.  
-
-For this “insurance,” the client pays a premium equal to $C(t_{0})$ .  
-
-The question is how to determine an [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free value of the caplet premium $C(t_{0})$ . The [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) says that the expected value of the [expiration date](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md) payoff, discounted by the [risk-free rate](../../Financial%20Instruments/Black%20Scholes%20Derivation.md), will equal $C(t_{0})$ if we evaluate the expectation using the risk-neutral probability. That is to say, remembering that we have $\delta=1$ ,  
-$$
-C(t_{0})=E_{t_{0}}^{\tilde{P}}\left[\frac{C(t_{3})}{\left(1+L_{t_{0}}\right)\left(1+L_{t_{1}}\right)\left(1+L_{t_{2}}\right)}\right]
-$$  
-
-with expiration payoff  
-$$
-C(t_{3})=N\operatorname*{max}\left[\frac{\left(L_{t_{2}}-L_{K}\right)}{100},0\right]
-$$  
-
-The [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of the caplet is done with the BDT tree determined previously. In the example, the tree had four possible trajectories, each occuring with probability 1/4. Using these we can calculate the caplet price.  
-
-According to the BDT tree, the caplet ends in-the-money in three of the four trajectories. Calculating the possible payoffs in each case and then dividing by the discount factors, we get the numerical equivalent of the expectation in Eq. (13.98).  
-$$
-C_{0}=0.25\left[\begin{array}{l}{{{\frac{53000}{(1.0526)(1.0639)(1.118)}}+{\frac{144400}{(1.0526)(1.0473)(1.0793)}}}}\\ {{}}\\ {{+{\frac{14400}{(1.0526)(1.0639)(1.0793)}}}}\end{array}\right]
-$$  
-$$
-=\$16,587
-$$  
-
-We should emphasize that under these circumstances the discount factors are random variables. They cannot be taken out of the expectation operator. Also, the center node, which is recombining and, hence, leads to the same value for $L_{2}^{u d}$ and $L_{2}^{d u}$ , still requires different discount factors since the average interest rate is different across the two middle trajectories.  
+where $p$ is the risk-neutral probability, $V_{u}$ and $V_{d}$ are the values at the up and down nodes, and $\Delta t$ is the time step.  
 
 # 13.3.5.2 Some assumptions of the model  
 
-It may be worthwhile to summarize some of the assumptions that were used in the previous discussion.  
+The BDT model makes several assumptions:  
+- Lognormal distribution of rates (rates cannot go negative)  
+- Time-homogeneous volatility structure  
+- Perfect correlation between different maturity rates  
+- No jumps in interest rates  
 
-The BDT approach is an example of a [one-factor model](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Profit%20and%20Loss%20Attribution%20with%20an%20OAS.md), since the [short rate](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md), here represented by the LIBOR rate $L_{i},$ is assumed to be the only variable determining bond prices. This means that bond prices are perfectly correlated.   
-The distribution of [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) is lognormal in the limit.   
-We made several simplifying assumptions concerning the framework. There were neither taxes, nor any trading costs.  
-
-Needless to say, the procedure also rests on the premise that the original data are [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free.  
+These assumptions may not hold in practice, leading to model risk.  
 
 # 13.3.5.3 Remarks  
 
-The BDT approach may be considered simplistic. Yet, until the advent of the Forward LIBOR Model that we will introduce in the next chapter, market professionals preferred to stay with the BDT approach given the more sophisticated alternatives. A simple model may not fit reality exactly, but may have three important advantages.  
+Calibration quality depends on:  
+- The number of calibration instruments  
+- The accuracy of market prices  
+- The numerical methods used  
+- The model's ability to capture market dynamics  
 
-1. If the model depends on few parameters, then few parameters have to be determined and the chance of error is less.   
-2. If the model is simple, a trader or risk manager will accumulate some personal experience in how to adjust for weaknesses of the model.   
-3. Simple models whose weaknesses are well known and well tried may be better than more sophisticated models with no track record.  
-
-We will see that another model with known weaknesses, namely the [Black Scholes](../../Credit%20Markets/Black-Scholes%20Model.md) model, is preferred by traders for similar reasons.  
+Over-calibration can lead to unstable models that perform poorly for out-of-sample pricing.  
 
 # 13.3.6 REAL-WORLD COMPLICATIONS  
 
-The BDT model as used in the previous example is, of course, based on symbolic parameters, such as two states, readily available pure discount bond prices, and so on. And as mentioned earlier, it rests on several restrictive assumptions.  
+In practice, calibration faces several challenges:  
 
-In a real-world application, the following additions to the example discussed above need to be made. (i) [Day-count conventions](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Day-Count%20Conventions.md) need to be checked and corrected for, (ii) settlement may be done at time $t=2$ , then further discounting may be needed from $t=3$ to $t=2$ , and (iii) in market applications, caps consisting of several caplets instead of a single caplet are priced.  
+[^1]: **Illiquid instruments**: Market prices may not be available for all maturities
+[^2]: **Bid-ask spreads**: Which price to use for calibration?
+[^3]: **Arbitrage violations**: Market quotes may contain arbitrage opportunities
+[^4]: **Model limitations**: The model may not be flexible enough to match all prices
+[^5]: **Stability**: Small changes in inputs can lead to large changes in calibrated parameters
+[^6]: **Cross-sectional consistency**: Calibrating to different instrument types simultaneously
 
 # 13.4 APPLICATION 3: QUANTOS  
 
-The first two examples of the application of the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) shown thus far were essentially numerical. The [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of quanto contracts constitutes another application of the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md). This requires a conceptual discussion. It is a good example of how the techniques introduced in Chapter 12 can be used in modeling. The section is also intended to complete the discussion of the financial engineering aspects of quantoed assets that we started in Chapter 10.  
-
-A quantoed foreign asset makes future payoffs in the domestic [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) at a known exchange rate. An exchange rate, $x_{t},$ is chosen at initiation, to settle the contract at time T. For example, using quantos, a dollar-based investor could benefit from the potential upside of a foreign [stock market](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20III%20THE%20PLAYERS/Chapter%2012%20-%20Hedge%20Fund%20Strategies/Hedge%20Fund%20Strategies.md), while eliminating the implicit [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) exposure to exchange rate movements.  
+Quantos (quantity-adjusted options) are derivatives where the payoff is in a different currency than the underlying asset, but without foreign exchange risk. They provide an excellent example of how to switch between different risk-neutral measures.  
 
 # 13.4.1 PRICING QUANTOS  
 
-The following application of the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) starts with [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) a quanto forward. Let $S_{t}^{*}$ be a foreign stock denominated in the foreign [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md). Let $x_{t}$ be the exchange rate defined as the number of domestic [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md), per 1 unit of foreign [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md). The [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) can be used with the domestic [risk-neutral measure](../Verifying%20Martingale%20Property%20with%20Q.md) $\tilde{P}$ to obtain the time $t_{0}$ value of the [forward contract](../../Clippings/Forward%20Points%20in%20Currency.md):  
-$$
-V(t_{0})=e^{-r(T-t_{0})}E_{t_{0}}^{\tilde{P}}x_{t_{0}}\big[S_{T}^{*}-F_{t_{0}}\big]
-$$  
-$F_{t_{0}}$ is the time $T$ forward value of the foreign stock. It is measured in foreign [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md). Setting the $V(t_{0})$ equal to zero gives the forward value $F_{t_{0}}$ :  
-$$
-F_{t_{0}}=E_{t_{0}}^{\tilde{P}}[S_{T}^{*}]
-$$  
+Consider a quanto call option on a foreign stock $S^{f}_{t}$ with the following features:  
+- The underlying stock price is in foreign currency (e.g., EUR)  
+- The strike price $K$ is in foreign currency  
+- The payoff is in domestic currency (e.g., USD) at a fixed exchange rate  
 
-Thus, in order to calculate $F_{t_{0}}$ we need to evaluate the expectation of the foreign [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) denominated $S_{T}^{*}$ under the domestic [risk-neutral measure](../Verifying%20Martingale%20Property%20with%20Q.md) $\tilde{P}$ :  
+The payoff at maturity is:  
 $$
-E_{t_{0}}^{\tilde{P}}[S_{T}^{*}].
+C_{T} = \max(S^{f}_{T} - K, 0) \text{ USD}
 $$  
 
-The fact that the state prices, $\boldsymbol{Q}^{i}$ , in the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) are denominated in the domestic [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md), whereas $S_{t}^{*}$ is denominated in the foreign [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md), makes this a nontrivial exercise.  
+Note that the payoff is the foreign currency amount converted at a rate of 1:1, not at the prevailing exchange rate.  
 
-But, if used judiciously, the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) can still be exploited for obtaining the expectation in Eq. (13.101). To maintain continuity, we use the simple framework developed in Chapter 12. In particular, we assume that there are only two periods, $t_{0}$ and $T_{\cdot}$ , with $n$ states of the world at time $T.$ . The notation remains the same.  
+To price this option, we need to find the appropriate risk-neutral measure. The challenge is that the underlying is denominated in EUR, but the payoff is in USD.  
 
-Consider the matrix equation of the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) for three assets. The first is the domestic savings account $B_{t}$ which starts at 1 dollar and earns the domestic annual rate $r.$ The second is a foreign savings account, $B_{t}^{*}$ which starts with 1 unit of the foreign [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) and earns the foreign interest rate $r^{*}$ . These [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) are assumed to be constant. The foreign [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) has dollar value $x_{t0}$ at time $t_{0}$ . Finally, we have the foreign stock, $S_{t_{0}}^{*}$ .  
-
-Putting these into the matrix equation implied by the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) we get  
+Using the fundamental theorem:  
 $$
-\left(\begin{array}{c}{{1}}\\ {{x_{t_{0}}}}\\ {{x_{t_{0}}S_{t_{0}}^{*}}}\end{array}\right)=\left(\begin{array}{c c c}{{1+r(T-t_{0})}}&{{\ldots}}&{{1+r(T-t_{0})}}\\ {{x_{T}^{1}[1+r^{*}(T-t_{0})]}}&{{\ldots}}&{{x_{T}^{n}[1+r^{*}(T-t_{0})]}}\\ {{x_{T}^{1}S_{T}^{*1}}}&{{\ldots}}&{{x_{T}^{n}S_{T}^{*n}}}\end{array}\right)\left(\begin{array}{c}{{Q^{1}}}\\ {{\ldots}}\\ {{\ldots}}\\ {{\ldots}}\\ {{Q^{k}}}\end{array}\right)
+C_{t} = B_{d}(t,T)E_{t}^{Q^{d}}[\max(S^{f}_{T} - K, 0)]
 $$  
 
-Here, $x_{T}^{i}$ and $S_{T}^{*i}$ have $i$ superscripts because their time $T$ value depends on the state that is realized at that time. This system involves domestic state prices, and therefore the value of the foreign stock $S_{t_{0}}^{*}$ is converted into domestic [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) by multiplying with $x_{t_{0}}.\ Q^{i},i=1,\ ...,n$ are the state prices assumed to be known and positive.  
+where $Q^{d}$ is the domestic risk-neutral measure.  
 
-We start with two results that are obtained by the following methods shown in Chapter 12. Define the domestic [risk-neutral measure](../Verifying%20Martingale%20Property%20with%20Q.md) $\tilde{P}$ as  
+However, $S^{f}_{t}$ follows its natural dynamics under the foreign risk-neutral measure $Q^{f}$, not under $Q^{d}$. We need to change measures.  
+
+The Radon-Nikodym derivative for changing from $Q^{f}$ to $Q^{d}$ is:  
 $$
-\tilde{p}_{i}=(1+r(T-t_{0}))Q^{i}
+\frac{\mathrm{d}Q^{d}}{\mathrm{d}Q^{f}} = \frac{e_{T}B_{f}(0,T)}{e_{0}B_{d}(0,T)}
 $$  
 
-Then, from the third row of Eq. (13.102) we obtain the equality,  
+where $e_{t}$ is the exchange rate (domestic per foreign).  
+
+Under $Q^{f}$, the stock follows:  
 $$
-x_{t_{0}}S_{t_{0}}^{*}=\frac{1}{1+r(T-t_{0})}{\sum_{i=1}^{n}}x_{T}^{i}S_{T}^{*i}{\tilde{p}}_{i}
+\mathrm{d}S^{f}_{t} = r^{f}S^{f}_{t}\mathrm{d}t + \sigma^{f}S^{f}_{t}\mathrm{d}W^{f}_{t}
 $$  
 
-This means that  
+After the measure change to $Q^{d}$:  
 $$
-x_{t_{0}}S_{t_{0}}^{*}=\frac{1}{1+r(T-t_{0})}E_{t_{0}}^{\tilde{P}}\big[x_{T}S_{T}^{*}\big]
+\mathrm{d}S^{f}_{t} = (r^{f} - \rho\sigma^{f}\sigma_{e})S^{f}_{t}\mathrm{d}t + \sigma^{f}S^{f}_{t}\mathrm{d}W^{d}_{t}
 $$  
 
-Using the second row of the system in Eq. (13.102), we obtain a similar equality for the exchange rate. After switching from $\boldsymbol{Q}^{i}$ to the [risk-neutral probabilities](../../Financial%20Instruments/Financial%20Instruments.md) $\tilde{P}$ ,  
-$$
-x_{t_{0}}=\frac{1+r^{*}(T-t_{0})}{1+r(T-t_{0})}E_{t_{0}}^{\tilde{P}}[x_{T}]
-$$  
-
-We use Eqs. (13.105) and (13.106) in calculating the desired quantity, $E_{t_{0}}^{\tilde{P}}[S_{T}^{*}]$ . We know from elementary statistics that  
-$$
-\mathrm{Cov}(S_{T}^{*},x_{T})=E_{t_{0}}^{\tilde{P}}[S_{T}^{*}x_{T}]-E_{t_{0}}^{\tilde{P}}[S_{T}^{*}]E_{t_{0}}^{\tilde{P}}[x_{T}]
-$$  
-
-Rearranging, we can write:  
-$$
-E_{t_{0}}^{\tilde{P}}\big[S_{T}^{*}\big]=\frac{E_{t_{0}}^{\tilde{P}}[S_{T}^{*}x_{T}]-\operatorname{Cov}(S_{T}^{*},x_{T})}{E_{t_{0}}^{\tilde{P}}[x_{T}]}
-$$  
-
-We substitute in the numerator from Eq. (13.105) and in the denominator from Eq. (13.106) to obtain  
-$$
-E_{t_{0}}^{\tilde{P}}\big[S_{T}^{*}\big]=\frac{[1+r(T-t_{0})]x_{t_{0}}S_{t_{0}}^{*}-\mathrm{Cov}(S_{T}^{*},x_{T})}{x_{t_{0}}[(1+r(T-t_{0}))/(1+r*(T-t_{0}))]}
-$$  
-
-We prefer to write this in a different form using the correlation coefficient denoted by $\rho$ , and the percentage annual volatilities of $x_{t}$ and $S_{t}^{*}$ denoted by $\sigma_{x},\sigma_{s},$ respectively. Let  
-$$
-\operatorname{Cov}(S_{T}^{*},x_{T})=\rho\sigma_{x}\sigma_{s}(x_{t_{0}}S_{t_{0}}^{*})(T-t_{0})
-$$  
-
-The expression in Eq. (13.109) becomes  
-$$
-E_{t_{0}}^{\tilde{P}}\big[S_{T}^{*}\big]=\frac{1+r^{*}(T-t_{0})}{1+r(T-t_{0})}[1+(r-\rho\sigma_{x}\sigma_{s})(T-t_{0})]S_{t_{0}}^{*}
-$$  
-
-We can approximate this as15  
-$$
-E_{t_{0}}^{\tilde{P}}[S_{T}^{*}]\cong[1+(r^{*}-\rho\sigma_{x}\sigma_{s})(T-t_{0})]S_{t_{0}}^{*}
-$$  
-
-This gives the foreign [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) denominated price of the quanto forward in the domestic [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md):  
-$$
-F_{t_{0}}\cong[1+(r^{*}-\rho\sigma_{x}\sigma_{s})(T-t_{0})]S_{t_{0}}^{*}
-$$  
-
-The present value of this in domestic [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) will be the spot value of the quanto:  
-$$
-V_{t_{0}}=x_{t_{0}}\frac{1}{1+r(T-t_{0})}[1+(r^{*}-\rho\sigma_{x}\sigma_{s})(T-t_{0})]S_{t_{0}}^{*}
-$$  
-
-We can also write this relationship by reinterpreting the [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) as continuously compounded rates:  
-$$
-V_{t_{0}}=e^{-r(T-t_{0})}e^{(r^{*}-\rho\sigma_{x}\sigma_{s})(T-t_{0})}x_{t_{0}}S_{t_{0}}^{*}
-$$  
-
-According to this expression, the value of the quanto feature depends on the sign of the correlation between exchange rate movements and the value of the foreign stock. If this correlation is positive, then the quanto feature is negatively priced. If the correlation is negative, the quanto feature has positive value.16 If the correlation is zero, the quanto feature has zero value.  
-$$
-{\frac{1}{1+z}}=1-z
-$$  
-
-for small z. In the approximation, we ignore all terms of order $\left(T-t_{0}\right)^{2}$ and higher.   
-16Suppose the correlation is positive. Then, when foreign stock’s value goes up, in general, the foreign [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) will also go up. The quanto eliminates this opportunity from the point of view of a stockholder, and hence, has a negative value and the quantoed asset is cheaper.  
+where $\rho$ is the correlation between the stock and exchange rate, and $\sigma_{e}$ is the exchange rate volatility.  
 
 # 13.4.2 THE PDE APPROACH  
 
-Our next example shows how the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) can be used to obtain partial differential equations (PDE) for quanto instruments. The treatment will be in continuous time and is essentially heuristic. Consider the same two-[currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) environment. The domestic and foreign savings deposits are denoted by $B_{t}$ and $B_{t}^{*}$ , respectively. The corresponding continuously compounded rates are assumed to be constant, for simplicity, at $r$ and $r^{*}$ . This means that the savings account values increase incrementally according to the following (ordinary) differential equations:  
+An alternative approach uses partial differential equations. Consider a quanto derivative with value $V(S^{f}, e, t)$ depending on both the foreign stock price and the exchange rate.  
+
+The hedging portfolio consists of:  
+- The quanto derivative  
+- $\Delta_{S}$ units of the foreign stock  
+- $\Delta_{e}$ units of foreign currency  
+
+The no-arbitrage condition leads to the PDE:  
 $$
-\begin{array}{c}{\mathrm{d}B_{t}=r B_{t}\mathrm{d}t\quad t\in[0,\infty)}\\ {\mathrm{d}B_{t}^{*}=r^{*}B_{t}^{*}\mathrm{d}t\quad t\in[0,\infty)}\end{array}
+\frac{\partial V}{\partial t} + r^{f}S^{f}\frac{\partial V}{\partial S^{f}} + (r^{d} - r^{f})e\frac{\partial V}{\partial e} + \frac{1}{2}\sigma_{S}^{2}(S^{f})^{2}\frac{\partial^{2}V}{\partial (S^{f})^{2}} + \frac{1}{2}\sigma_{e}^{2}e^{2}\frac{\partial^{2}V}{\partial e^{2}} + \rho\sigma_{S}\sigma_{e}S^{f}e\frac{\partial^{2}V}{\partial S^{f}\partial e} = r^{d}V
 $$  
-
-Let $x_{t}$ be the exchange rate expressed as the domestic [currency price](../../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) of 1 unit of foreign [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md). $x_{t}$ satisfies the SDE:  
-$$
-\mathrm{d}x_{t}=\upmu_{x}x_{t}\mathrm{d}t+\sigma_{x}x_{t}\mathrm{d}W_{1t}\quad t\in[0,\infty)
-$$  
-
-under the appropriate Martingale measure.  
-
-First we obtain the [exchange rate dynamics](../../International%20Finance/Bridgewater/Exchange%20Rates%20and%20the%20Foreign%20Exchange%20Market-%20An%20Asset%20Approach.md) under the $B_{t}$ normalization. Note that $B_{t}^{*}$ is a traded asset and its price in domestic [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) is $x_{t}B_{t}^{*}$ . According to the results obtained in Chapter 12, with $B_{t}$ normalization, and the corresponding [risk-neutral measure](../Verifying%20Martingale%20Property%20with%20Q.md) $\tilde{P}$ , the ratio  
-$$
-\frac{x_{t}B_{t}^{*}}{B_{t}}
-$$  
-
-should behave as a Martingale. This means that the drift of the implied dynamics should be zero. Taking total [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md),17  
-$$
-E_{t}^{\tilde{P}}\left[\mathrm{d}\frac{x_{t}B_{t}^{*}}{B_{t}}\right]=E_{t}^{\tilde{P}}\left[\frac{B_{t}^{*}}{B_{t}}\mathrm{d}x_{t}+\frac{x_{t}}{B_{t}}\mathrm{d}B_{t}^{*}-\frac{x_{t}B_{t}^{*}}{B_{t}^{2}}\mathrm{d}B_{t}\right]=0
-$$  
-
-Replacing from Eqs. (13.116), (13.117), and (13.118), we obtain18  
-$$
-\frac{B_{t}^{*}}{B_{t}}\upmu_{x}x_{t}\mathrm{d}t+\frac{x_{t}}{B_{t}}r^{*}B_{t}^{*}\mathrm{d}t-\frac{x_{t}B_{t}^{*}}{B_{t}^{2}}r B_{t}\mathrm{d}t=\frac{x_{t}B_{t}^{*}}{B_{t}}\left[\upmu_{x}+r^{*}-r\right]\mathrm{d}t
-$$  
-
-In order for this drift to be zero, we must have, under $\tilde{P}$ , at all times:  
-$$
-\mu_{x}+r^{*}-r=0
-$$  
-
-Replacing this drift in Eq. (13.118) gives the [exchange rate dynamics](../../International%20Finance/Bridgewater/Exchange%20Rates%20and%20the%20Foreign%20Exchange%20Market-%20An%20Asset%20Approach.md) under the $\tilde{P}$ :  
-$$
-\mathrm{d}x_{t}=(r-r^{*})x_{t}\mathrm{d}t+\sigma_{x}x_{t}\mathrm{d}W_{1t}\quad t\in[0,\infty)
-$$  
-
-Next, consider the $\tilde{P}$ dynamics of the foreign stock $S_{t}^{*}$ .  
-$$
-\mathrm{d}S_{t}^{*}=\upmu_{s}S_{t}^{*}\mathrm{d}t+\sigma_{x}S_{t}^{*}\mathrm{d}W_{2t}\quad t\in[0,\infty)
-$$  
-
-Under the $B_{t}$ normalization, the domestic [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) value of the foreign stock should behave as a Martingale. Applying Ito’s Lemma:  
-$$
-E_{t}^{\tilde{P}}\left[\mathrm{d}\frac{x_{t}S_{t}^{*}}{B_{t}}\right]=E_{t}^{\tilde{P}}\left[\frac{S_{t}^{*}}{B_{t}}\mathrm{d}x_{t}+\frac{x_{t}}{B_{t}}\mathrm{d}S_{t}^{*}-\frac{x_{t}S_{t}^{*}}{B_{t}^{2}}\mathrm{d}B_{t}+\frac{\mathrm{d}x_{t}\mathrm{d}S_{t}^{*}}{B_{t}}\right]=0
-$$  
-
-Replacing the differentials and simplifying, we obtain  
-$$
-\begin{array}{l}{\displaystyle\frac{S_{t}^{*}}{B_{t}}(r-r^{*})\boldsymbol{x}_{t}+\frac{x_{t}}{B_{t}}\upmu_{s}S_{t}^{*}-\frac{x_{t}S_{t}^{*}}{B_{t}^{2}}r B_{t}+\frac{\rho\sigma_{x}\sigma_{s}x_{t}S_{t}^{*}}{B_{t}}}\\ {=\frac{x_{t}S_{t}^{*}}{B_{t}}\left[(r-r^{*})+\upmu_{s}-r+\rho\sigma_{x}\sigma_{s}\right]=0}\end{array}
-$$  
-
-In order for this drift to be zero we must have, under $\tilde{P}$ , at all times:  
-$$
-\upmu_{S}={r}^{*}-\rho\sigma_{x}\sigma_{s}
-$$  
-
-This gives the [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free [stock price dynamics](../Verifying%20Martingale%20Property%20with%20Q.md):  
-$$
-\mathrm{d}S_{t}^{*}=(r^{*}-\rho\sigma_{x}\sigma_{s})S_{t}^{*}\mathrm{d}t+\sigma_{x}S_{t}^{*}\mathrm{d}W_{2t}\quad t\in[0,\infty)
-$$  
-
-These dynamics imply that:  
-$$
-E_{t}^{\tilde{P}}[S_{T}^{*}]=e^{(r^{*}-\rho\sigma_{x}\sigma_{s})(T-t)}S_{t}^{*}
-$$  
-
-as derived in the previous section. Here the [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) $r$ and $r^{*}$ should be interpreted as continuously compounded rates. In the previous section, they were actuarial rates for the period $T-t_{0}$ .  
 
 # 13.4.2.1 A PDE for quantos  
 
-Finally, using these results we can obtain a PDE for an arbitrary quanto asset written on a risk associated with a foreign economy. Let this foreign [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) denominated asset be denoted by $S_{t}^{*}$ . Let $V_{t}$ denote the time $t$ value of the quanto,  
+For a quanto option where the payoff doesn't depend on the exchange rate, we can simplify. Let $V = V(S^{f}, t)$. The PDE becomes:  
 $$
-V(t)=x_{t}V(S_{t}^{*},\ t)
-$$  
-$V(.)$ , being a [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) function of the asset, needs to be determined. $x_{t}$ is the initial exchange rate written in the quanto contract and, hence, $V(t)$ is expressed in domestic [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) terms. Under $B_{t}$ normalization, $V(t)$ should behave as a Martingale. Applying Ito’s Lemma we obtain:19  
-$$
-E_{t}^{\tilde{P}}\bigg[\mathrm{d}\frac{V(t)}{B_{t}}\bigg]=E_{t}^{\tilde{P}}\bigg[\frac{V_{t}}{B_{t}}\mathrm{d}t+\frac{V_{s}}{B_{t}}\mathrm{d}S_{t}^{*}-\frac{V}{B_{t}^{2}}\mathrm{d}B_{t}+\frac{1}{2}\frac{V_{s s}\sigma_{s}^{2}(S_{t}^{*})^{2}}{B_{t}}\mathrm{d}t\bigg]=0
+\frac{\partial V}{\partial t} + (r^{d} - \rho\sigma_{S}\sigma_{e})S^{f}\frac{\partial V}{\partial S^{f}} + \frac{1}{2}\sigma_{S}^{2}(S^{f})^{2}\frac{\partial^{2}V}{\partial (S^{f})^{2}} = r^{d}V
 $$  
 
-Replacing the stochastic differentials and simplifying yields the implied PDE,  
-$$
-V_{t}+(r^{*}-\rho\sigma_{x}\sigma_{s})S_{t}^{*}V_{s}+\frac{1}{2}V_{S S}\sigma_{s}^{2}(S_{t}^{*})^{2}-r V=0
-$$  
-
-with the terminal condition:  
-$$
-V(T)=x_{t}V(S_{T}^{*},T)
-$$  
-
-We apply this PDE to two special cases.  
+This is the Black-Scholes PDE with:  
+- Risk-free rate: $r^{d}$  
+- Dividend yield: $q = r^{f} - r^{d} + \rho\sigma_{S}\sigma_{e}$  
 
 # 13.4.3 QUANTO FORWARD  
 
-Suppose we know that a quanto forward has the value,  
+The quanto forward price is:  
 $$
-V(t)=q(t)S_{t}^{*}
+F_{t,T} = S^{f}_{t}\exp[(r^{d} - r^{f} + \rho\sigma_{S}\sigma_{e})(T-t)]
 $$  
 
-but that the time-dependent function $q(t)$ is unknown. The PDE derived in the previous section can be used to solve for $q(t)$ . Differentiating Eq. (13.134), we get the partial [derivatives](../../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md):  
-$$
-V_{t}=\frac{\partial q(t)}{\partial t}S_{t}^{*}=\dot{q}S_{t}^{*}
-$$  
-$$
-V_{s}=q(t)
-$$  
-$$
-V_{s s}=0
-$$  
-
-We replace these in the PDE for the quanto,  
-$$
-\dot{q}S_{t}^{*}+(r^{*}-\rho\sigma_{x}\sigma_{s})q(t)S_{t}^{*}-r q(t)S_{t}^{*}=0
-$$  
-
-with the terminal condition,  
-$$
-V(T)=x_{t}S_{T}^{*}
-$$  
-
-Eliminating the common $S_{t}^{*}$ terms, this ordinary differential equation can be solved for $q(t)$ :  
-$$
-q(t)=x_{t}e^{(r^{*}-\rho\sigma_{x}\sigma_{s})(T-t)}
-$$  
-
-This is the same result as obtained earlier.  
+This differs from the standard forward price by the correlation term $\rho\sigma_{S}\sigma_{e}$.  
 
 # 13.4.4 QUANTO OPTION  
 
-Suppose the payoff $V(T)$ of a quanto asset relates to the payoff of a European call on a foreign stock $S_{t}^{*}$ :  
+Using the modified Black-Scholes formula, the quanto call option price is:  
 $$
-V_{T}=x_{t}\operatorname*{max}[S_{T}^{*}-K^{*},0]
+C_{t} = e^{-r^{d}(T-t)}[F_{t,T}N(d_{1}) - KN(d_{2})]
 $$  
 
-Here $K^{*}$ is a foreign [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) denominated [strike price](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%205%20Options%20on%20Prices%20and%20Hedge-Based%20Valuation/Call%20and%20Put%20Payoffs%20at%20Expiry.md) and $T$ is the [expiration date](../../Financial%20Instruments/Financial%20Derivatives%20and%20Quantitative%20Methods/Risk%20Neutral%20Pricing%20of%20Options.md). Then the PDE derived in Eq. (13.132) can be solved using the equivalence with the [Black Scholes formula](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Note%205-%20Black%20Scholes%20Formula.md) to obtain the [pricing equation](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%204%20-%20State%20Prices/Definitions%20and%20Immediate%20Consequences.md) for a European quanto call:  
+where:  
 $$
-C(t)=x_{t}\left[S_{t}^{*}e^{(r^{*}-r-\rho\sigma_{x}\sigma_{s})(T-t)}N(b_{1})-K^{*}e^{-r(T-t)}N(b_{2})\right]
-$$  
-
-where  
-$$
-b_{1}=\frac{(\ln S_{t}^{*}/K^{*})+(r^{*}-\rho\sigma_{x}\sigma_{s}+0.5\sigma_{s}^{2})(T-t)}{\sigma_{s}\sqrt{T-t}}
+d_{1} = \frac{\ln(F_{t,T}/K) + \frac{1}{2}\sigma_{S}^{2}(T-t)}{\sigma_{S}\sqrt{T-t}}
 $$  
 $$
-b_{2}=b_{1}-\sigma_{s}{\sqrt{T-t}}
+d_{2} = d_{1} - \sigma_{S}\sqrt{T-t}
 $$  
 
-The value of the call will be measured in domestic [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md).  
+# 13.4.4.1 Black-Scholes and dividends  
 
-# 13.4.4.1 Black Scholes and dividends  
-
-We now explain how to trick the PDE in Eq. (13.132) in order to arrive at the [Black Scholes](../../Credit%20Markets/Black-Scholes%20Model.md) type formula for the simple quantoed equity option shown above. To do this, we need the equivalent of the [Black Scholes formula](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Note%205-%20Black%20Scholes%20Formula.md) in the case of a constant rate of dividends paid by the underlying stock during the life of the option.  
-
-Standard derivations in the [Black Scholes](../../Credit%20Markets/Black-Scholes%20Model.md) world will give the European [call premium](../Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md) on a stock, $S_{t}.$ that pays dividends at a constant rate $\boldsymbol{Q}$ as,  
+If the foreign stock pays dividends at rate $q^{f}$, the quanto forward price becomes:  
 $$
-C(t)=e^{-Q(T-t)}S_{t}N(\tilde{d}_{1})-K e^{-(r)(T-t)}N(\tilde{d}_{2})
+F_{t,T} = S^{f}_{t}\exp[(r^{d} - r^{f} - q^{f} + \rho\sigma_{S}\sigma_{e})(T-t)]
 $$  
 
-with  
-$$
-\tilde{d}_{1}=\frac{(\ln S_{t}/K)+(r-Q+0.5\sigma_{s}^{2})(T-t)}{\sigma_{s}\sqrt{T-t}}
-$$  
-$$
-\tilde{d}_{s}=\tilde{d}_{1}-\sigma_{s}\sqrt{T-t}
-$$  
-
-where $S_{t}$ is the dividend paying stock.  
-
-Now, note that we can write the PDE in Eq. (13.138) as  
-$$
-V_{t}+(r-Q)S_{t}^{*}V_{s}+\frac{1}{2}V_{s s}\sigma_{s}^{2}(S_{t}^{*})^{2}-r V=0
-$$  
-
-where $\boldsymbol{Q}$ is treated as a dividend yield, and is given by  
-$$
-Q=r-r^{*}+\rho\sigma_{x}\sigma_{s}
-$$  
-
-We can then use this $\boldsymbol{Q}$ in the standard [Black Scholes formula](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Lecture%20Note%205-%20Black%20Scholes%20Formula.md) with a known dividend yield to get the quantoed [call premium](../Derivatives/Part%20IV%20-%20Options/Chapter%2017%20-%20Option%20Strategies.md).  
+The option pricing formula remains the same with this adjusted forward price.  
 
 # 13.4.5 HOW TO HEDGE QUANTOS  
 
-Quanto contracts require dynamic [hedging](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%205/Key%20Rates%20O1s%20Durations%20and%20Hedging.md). The dealer would form a [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) made of the underlying foreign asset, the foreign [currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) (or, better, an [FX-forward](../Derivatives/Part%20I%20-%20Forwards%20and%20Futures/Chapter%207%20-%20Currency%20Forwards%20and%20Futures.md)), and the domestic lending and borrowing. The weights of this [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) would be adjusted dynamically, so that the [portfolio](../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) replicates the changes in value of the quanto contract. The trading gains (losses) realized from these hedge adjustments form the basis for the quanto premium or discount.  
+Hedging quanto options requires positions in:  
+[^1]: The foreign stock (delta hedge)
+[^2]: Foreign currency (to hedge correlation risk)
+[^3]: Options on the exchange rate (vega hedge for correlation)
+
+The delta with respect to the stock is:  
+$$
+\Delta_{S} = e^{-r^{d}(T-t)}N(d_{1})
+$$  
+
+The sensitivity to correlation (cross-gamma) is:  
+$$
+\frac{\partial^{2}C}{\partial S^{f}\partial e} = e^{-r^{d}(T-t)}\sigma_{e}(T-t)N(d_{1})
+$$  
+
+This cross-risk makes quanto options more complex to hedge than standard options.  
 
 # 13.4.6 REAL-LIFE CONSIDERATIONS  
 
-The discussion of quantoed assets in this section has been in a simple, abstract, and unrealistic world. We used the following assumptions, among others: (i) the underlying processes were assumed to be lognormal, so that the implied SDEs were geometric. (ii) The correlation coefficient and the volatility parameters were assumed to be constant during the life of the option. (iii) Similarly, [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) were assumed to be constant, although the corresponding exchange rate was stochastic.  
+In practice, quanto pricing and hedging involve:  
 
-These assumptions are not satisfied in most real-world applications. Especially important for quantos, the correlation coefficients between exchange rates and various [risk factors](../../Financial%20Instruments/Assignments/PSET%206-%20Financial%20Instruments.md) are known to be quite unstable. The models discussed in this section therefore need to be regarded as a conceptual application of the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md). They do not provide an algorithm for [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) real-world quantos.  
+[^1]: **Correlation estimation**: Historical correlation may not predict future correlation
+[^2]: **Liquidity**: Foreign stocks may have different liquidity than domestic markets
+[^3]: **Transaction costs**: Cross-border transactions may have higher costs
+[^4]: **Regulatory issues**: Capital controls or taxes may affect hedging
+[^5]: **Model risk**: The assumption of constant correlation is often violated
+[^6]: **Credit risk**: Quanto structures may involve counterparty risk
+
+Quanto products are popular because they allow investors to:  
+- Take views on foreign assets without currency risk  
+- Access foreign markets with domestic currency settlement  
+- Create structured products with simplified currency exposure  
 
 # 13.5 CONCLUSIONS  
 
-This chapter dealt with three applications of the [fundamental theorem](../../Pricing%20Forwards,%20Futures,%20Bonds,%20Swaps,%20Swaptions,%20Caps%20and%20Floors%20under%20No-Arbitrage%20and%20Risk-Neutral%20Pricing.md) of [asset pricing](../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Asset%20Pricing.md). In general, a financial engineer needs to use such approaches when [static replication](../Static%20Option%20Replication.md) of the assets is not possible. Mark-to-market requirements or construction of new products often requires calculating [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free prices internally without having recourse to synthetics that can be put together using liquid prices observed in the markets. The methods outlined in this chapter show some standard ways of doing this.  
+This chapter has demonstrated three important applications of the fundamental theorem of asset pricing:  
+
+[^1]: **Monte Carlo methods**: A general numerical technique for calculating risk-neutral expectations, particularly useful for path-dependent and exotic options.
+
+[^2]: **Calibration**: The process of fitting model parameters to match market prices, ensuring consistency with observed arbitrage-free prices.
+
+[^3]: **Quanto pricing**: An example of changing between risk-neutral measures, showing how the fundamental theorem applies to multi-currency derivatives.
+
+These applications highlight the practical importance of the fundamental theorem in modern financial engineering. The theorem not only provides theoretical insight but also guides the development of numerical methods, model calibration procedures, and pricing frameworks for complex derivatives.  
+
+Key takeaways include:  
+- The choice of numeraire affects the risk-neutral dynamics  
+- Measure changes are essential for multi-currency products  
+- Calibration ensures models are consistent with market prices  
+- Numerical methods like Monte Carlo make the theory practical  
+
+Understanding these applications is crucial for financial engineers working with derivatives pricing, risk management, and product development.  
 
 # SUGGESTED READING  
 
-There are several sources the reader may consult to learn more on the methods introduced in this chapter via some simple examples. One of our preferred sources is Clewlow and Strickland (1998), which provides some generic codes for computer applications as well. A recent book that deals with the topic of [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) in finance is Jackel (2002). The series of articles referenced in Avellaneda et al. (2001) provides an in-depth discussion of [calibration](../../Credit%20Markets/Credit%20Markets%20Session%204.md) issues. Finally, the original Black et al. (1990) model is always an illuminating reading on the BDT model. For quanto assets, and related discussion, consider Hull (2014). Wilmott (2006) is very useful for learning further application of the techniques presented here.  
+For Monte Carlo methods:  
+• Glasserman, P. (2004). *Monte Carlo Methods in Financial Engineering*. Springer. - Comprehensive treatment of Monte Carlo techniques in finance  
+
+• Jäckel, P. (2002). *Monte Carlo Methods in Finance*. Wiley. - Practical guide to implementing Monte Carlo simulations  
+
+For calibration:  
+• Brigo, D., & Mercurio, F. (2006). *Interest Rate Models - Theory and Practice*. Springer. - Detailed coverage of interest rate model calibration  
+
+• Rebonato, R. (2004). *Volatility and Correlation*. Wiley. - Advanced treatment of model calibration in practice  
+
+For quanto products:  
+• Wystup, U. (2006). *FX Options and Structured Products*. Wiley. - Comprehensive guide to FX derivatives including quantos  
+
+• Hull, J. (2018). *Options, Futures, and Other Derivatives*. Pearson. - Standard reference with sections on quanto products  
 
 # EXERCISES  
 
-1. (Black Derman Toy model.) You observe the following default-free discount bond prices $B$ $(t,T_{\mathrm{i}})$ , where time is measured in years:  
-$$
-B(0,1)=95,B(0,2)=93,B(0,3)=91,B(0,4)=89
-$$  
+[^1]: Implement a Monte Carlo pricer for a European call option on a stock. Compare your results with the Black-Scholes formula for various parameter values.
 
-These prices are assumed to be [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free. In addition, you are given the following cap-floor volatilities:  
-$$
-\sigma(0,1)=0.20,\sigma(0,2)=0.25,\sigma(0,3)=0.20,\sigma(0,4)=0.18
-$$  
+[^2]: Price an Asian call option using Monte Carlo simulation. How does the price compare to a European call with the same strike and maturity?
 
-where $\sigma(t,T_{i})$ is the (constant) volatility of the LIBOR rate $L_{T_{i}}$ that will be observed at $T_{i}$ with tenor of 1 year.  
+[^3]: Calibrate a two-period binomial tree to match:
+   a) Two zero-coupon bond prices  
+   b) One at-the-money caplet price  
+   Document your calibration procedure.  
 
-a. Using the Black Derman Toy model, calibrate a [binomial tree](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Rate%20and%20Price%20Trees.md) to these data.   
-b. Suppose you are given a bond call option with the following characteristics. The underlying, $B(2,4)$ , is a two-period bond, expiration $T=2$ , strike $K_{B}=93$ . You know that the BDT tree is a good approximation to [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free LIBOR dynamics. What is the [forward price](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) of $B$ (2, 4)?   
-c. Calculate the [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free value of this call option using the BDT approach.  
+[^4]: Derive the PDE for a quanto put option. What boundary conditions would you use?
 
-2. (Exchange rates and LIBOR rates.) You know that the euro/dollar exchange rate $\boldsymbol{e}_{t}$ follows the real-world dynamics:  
-$$
-\mathrm{d}e_{t}=\mu\mathrm{d}t+0.15e_{t}\mathrm{d}W_{t}
-$$  
+[^5]: Calculate the price of a quanto forward when the correlation between the foreign stock and exchange rate is:
+   a) +0.5  
+   b) 0  
+   c) -0.5  
+   Explain the economic intuition for the differences.  
 
-The current value of the exchange rate is $e_{o}=1.1015$ . You also know that the price of a 1-year USD discount bond is given by  
-$$
-B(t,t+1)^{\mathrm{US}}=98.93\
-$$  
+[^6]: Implement a Monte Carlo pricer for a barrier option. How does discretization affect the accuracy of your price?
 
-while the corresponding euro-denominated bond is priced as  
-$$
-B(t,t+1)^{\mathrm{EU}}=98.73
-$$  
+[^7]: Show that under the domestic risk-neutral measure, the expected return on a foreign stock is $r^{d} - r^{f} + \rho\sigma_{S}\sigma_{e}$.
 
-Both of these prices are [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free and there is no [credit risk](../../Course%20Notes/Quantitative%20Trading%20Strategies%20Lecture%20Notes.md).  
+[^8]: Design a hedging strategy for a quanto option. What instruments would you use and why?
 
-a. What are the 1-year LIBOR rates in these two currencies at time $t?$ b. What are the [continuously compounded interest](../../Financial%20Instruments/Assignments/Solutions/PSET%207%20Solutions-Financial%20Instruments.md) rates $r_{t}^{\mathrm{US}},r_{t}^{\mathrm{EUR}.}$ ? c. Obtain the [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free dynamics of the $\boldsymbol{e}_{t}$ . In particular, state clearly whether we need to use continuously compounded rates or LIBOR rates to do this. d. Is there a continuous time dynamic that can be written using the LIBOR rates?  
+[^9]: Explain why American quanto options are more difficult to price than European quanto options.
 
-3. (European option.) Consider again the data given in the previous question.  
-
-a. Use $\Delta=1$ year to discretize the system.   
-b. Generate five sets of standard normal random numbers with five random numbers in each set. How do you know that these five trajectories are [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free?   
-c. Calculate the value of the following option using these trajectories. The strike is 0.95, the expiration is 3 years, and the European style applies.  
-
-4. (European FX option.) Suppose you know that the current value of the peso dollar exchange rate is 3.75 pesos per dollar. The yearly volatility of the Mexican peso is $20\%$ .  
-
-The Mexican interest rate is $8\%$ , whereas the US rate is $3\%$ . You will price a dollar option written on the Mexican peso. The option is of European style and has a maturity of 270 days. All processes under consideration are known to be geometric.  
-
-a. Price this option using a standard [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) model. You will select the number of series, the size of the approximating time intervals, and other parameters of the [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) exercise.   
-b. Now assume that Mexico’s [foreign currency reserves](../../International%20Finance/China%20Foreign%20Exchange%20Reserves/China%20Reserve%20Requirements,%20GFC.md) follow a geometric SDE with a volatility of $10\%$ and a drift coefficient of $5\%$ a year. The current value of reserves is USD7 billion. If reserves fall below USD6 billion, there will be a one-shot devaluation of $100\%$ . Is this information important for [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) the option? Explain.   
-c. Use importance sampling to reprice the option. Your [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) is supposed to incorporate the risk of devaluation.  
+[^10]: Consider a "composite" option where the payoff is $\max(e_{T}S^{f}_{T} - K, 0)$ in domestic currency. How would you price this option?
 
 # EXCEL EXERCISES  
 
-5. (European Option.)  
+[^1]: Build a Monte Carlo simulation in Excel for:
+   a) Geometric Brownian motion  
+   b) European option pricing  
+   c) Confidence intervals for the price estimate  
 
-Write a VBA program to simulate $M=100$ stock prices using a [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) technique to calculate the prices of European [Call and Put](../../Course%20Notes/HBR%20Notes/Notes%20on%20Basic%20Options%20Properties.md) options based on the following data: $S(O)=100\$ ; $K=105$ ; $T=1$ ; $r=8\%$ ; $\sigma=50\%$  
+[^2]: Create a spreadsheet that calibrates a binomial tree to:
+   a) An initial yield curve  
+   b) At-the-money caplet volatilities  
+   Use Solver for the optimization.  
 
-Gradually increase the value of $M$ and report the observed resulting price of the options.  
+[^3]: Implement a quanto option pricer that:
+   a) Takes correlation as an input  
+   b) Calculates option Greeks  
+   c) Shows sensitivity to correlation  
 
-6. (Digital [Currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Options.) Write a VBA program to simulate $M=100$ stock prices using a [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) technique to calculate the prices of digital [call and put](../../Course%20Notes/HBR%20Notes/Notes%20on%20Basic%20Options%20Properties.md) options FX options as discussed in the text. Use the following parameters: $S(0)=\S1.54$ ; $K=\$1.58$ ; $T=1$ ; $r=8\%$ ; $r_{f}=6\%$ ; $\sigma=30\%$ ; payoff $R=\$10$ Gradually increase the value of $M$ and report the observed price of the options.  
-
-7. (Barrier Option.) Write a VBA program to simulate $M=100$ stock prices using a [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) technique to calculate the price of Barrier down-and-out and down-and-in call options based on the following data: $S(O)=100\$ ; $K=110$ ; $T=1$ ; $r=8\%$ ; $\sigma=50\%$ ; $H=90$ Gradually increase the value of $M$ and report the observed price of the options.  
+[^4]: Build a tool that compares Monte Carlo prices with:
+   a) Different numbers of paths  
+   b) Different time steps  
+   c) Variance reduction techniques  
 
 # MATLAB EXERCISES  
 
-8. (European Options.) Write a MATLAB program to document the efficiency of a [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) approach to the estimation of European [Call and Put](../../Course%20Notes/HBR%20Notes/Notes%20on%20Basic%20Options%20Properties.md) option prices based on the following data:  
-$S(O)=100\$ ; $K=105$ ; $T=1$ ; $r=8\%$ ; $\sigma=30\%$   
-Plot a graph of estimated prices as a function of the number of [stock price](../Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) simulations.  
+[^1]: Implement an efficient Monte Carlo engine that:
+   a) Uses vectorization for speed  
+   b) Implements antithetic variates  
+   c) Calculates standard errors  
 
-9. (Barrier Option.) Write a MATLAB program to document the efficiency of a [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) approach to the estimation of the price of Down-and-Out and Down-and-In Call options based on the following data: • $S(0)=100$ ; $K=110$ ; $T=1$ ; $r=8\%$ ; $\sigma=30\%$ ; $H=90$ • Plot a graph of estimated prices as a function of the number of [stock price](../Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) simulations.  
+[^2]: Program the BDT model calibration:
+   a) Use Newton-Raphson for root finding  
+   b) Implement smoothness constraints  
+   c) Visualize the resulting tree  
 
-10. (Digital [Currency](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md) Option.) Write a MATLAB program to observe the efficiency of [Monte Carlo](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md) technique to estimate the price of Digital [Call and Put](../../Course%20Notes/HBR%20Notes/Notes%20on%20Basic%20Options%20Properties.md) price with the following data: $S(0)=\S1.54$ ; $K=\$1.58$ ; $T=1$ ; $r=8\%$ ; $r_{f}=6\%$ ; $\sigma=30\%$ ; $R=\$10$ Plot the graph of estimated price v/s the no. of [stock price](../Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) simulation.  
+[^3]: Create a quanto pricing library that:
+   a) Handles multiple underlying assets  
+   b) Allows time-varying correlation  
+   c) Computes hedge ratios  
 
-11. (BDT [Model Calibration](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Arbitrage-Free%20Interest%20Rate%20Models.md).) Write a MATLAB program to calibrate the BDT model based on the following data on bond prices and implied volatilities $B(t_{0},t_{1})=0.95$ ; $B(t_{0},t_{2})=0.93$ ; $B(t_{0},t_{3})=0.91$ ; $B(t_{0},t_{4})=0.89$ $\sigma(0,1)=20\%$ ; $\sigma(0,2)=25\%$ ; $\sigma(0,3)=20\%$ ; $\sigma(0,4)=18\%$ Draw the LIBOR tree based on the output results.  
+[^4]: Develop a convergence study for Monte Carlo:
+   a) Plot price vs. number of paths  
+   b) Analyze discretization error  
+   c) Compare different random number generators  
 
-This page intentionally left blank  
+[^5]: Implement a PDE solver for quanto options:
+   a) Use finite differences  
+   b) Handle American exercise  
+   c) Compare with Monte Carlo results

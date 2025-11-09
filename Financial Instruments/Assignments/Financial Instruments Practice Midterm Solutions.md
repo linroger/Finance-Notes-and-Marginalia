@@ -63,7 +63,7 @@ Suppose you are *long* a call option that gives you the option to buy, in two ye
 
 > [!ANSWER]
 > Solution: The stock price dynamics are given by:
-> ![|500](IMG-20240913171226888.png)
+> ! | 500
 > 
 > To do the hedging and pricing we need all of the Delta's and bond positions. These are:
 > 
@@ -109,10 +109,10 @@ A few years ago your company issued a bond denominated in Euros. The bond has a 
 
 The current exchange rate is 1.3 dollars per Euro (USD/EUR). The current LIBOR rates (in continuously compounded units) are:
 
-| Maturity   | USD   | Euro   |
-|------------|-------|--------|
-| 6 months   | 2%    | 2%     |
-| 1 year     | 2.5%  | 3%     |
+ | Maturity | USD | Euro | 
+ | ------------ | ------- | -------- | 
+ | 6 months | 2% | 2% | 
+ | 1 year | 2.5% | 3% | 
 
 ### (a) (10 points) 
 You would like to hedge your exposure to the Euro using forward contracts. How many and what maturities of forward contracts would you use? What would be the forward prices of these contracts?
@@ -131,10 +131,10 @@ You would like to hedge your exposure to the Euro using forward contracts. How m
 ### (b) (10 points) 
 Suppose the day after you signed your forward contract in part (a) above, the spot exchange rate between dollars and Euros is 1.29 dollars per Euro (USD/EUR). Yields (c.c.) in the LIBOR market are now:
 
-| Maturity              | USD   | Euro   |
-|-----------------------|-------|--------|
-| 6 months (less a day) | 2%    | 2%     |
-| 1 year (less a day)   | 2.5%  | 3.1%   |
+ | Maturity | USD | Euro | 
+ | ----------------------- | ------- | -------- | 
+ | 6 months (less a day) | 2% | 2% | 
+ | 1 year (less a day) | 2.5% | 3.1% | 
 
 What would be the market values of the forward contracts you signed in part (a)? (Assume that there are 360 days in a year.)
 
@@ -198,7 +198,7 @@ Under these assumptions, what should be the value of your portfolio? What is the
 > [!ANSWER]
 > Solution: Black-Scholes quantities:
 >
-> $$d_1=\frac{\ln(1200/1000)+(0.01+0.3^2/2)\times2}{0.3\times\sqrt{2}}=0.69$$
+> $$d_1=\frac{\ln(1200/1000)+(0.01+0.3[^2]/2)\times2}{0.3\times\sqrt{2}}=0.69$$
 >
 > $$d_2=0.69-0.3\times\sqrt{2}=0.26$$
 >
@@ -261,7 +261,7 @@ IT IS POSSIBLE TO CALCULATE THE SWAP RATE $S$ OF A SWAP ON ANY UNDERLYING FACTOR
 ### (c) (5 points)
 THE CURRENT EXCHANGE RATE BETWEEN THE UNITED STATES AND CANADA IS 1.02 US DOLLARS per Canadian dollar. The one-year forward exchange rate is 1.03 US dollars per Canadian dollar. The market must be expecting that over the next year the US dollar will depreciate relative to the Canadian dollar.
 
-![|500](IMG-20240913171226876.png)
+! | 500
 
 > [!ANSWER]
 > False: The forward exchange rate is determined by the current exchange rate and the interest rate differential between the US and Canada. Further the forward rate reflects both expectations and risk premia.
@@ -270,7 +270,7 @@ THE CURRENT EXCHANGE RATE BETWEEN THE UNITED STATES AND CANADA IS 1.02 US DOLLAR
 
 SUPPOSE THAT STOCK XYZ, WHOSE CURRENT PRICE IS $50, CAN EITHER INCREASE BY $U = 1.1$ OR DECREASE BY ${} D = \frac{1}{1.1} {}$ EACH YEAR OVER THE NEXT 2 YEARS. THE CONTINUOUSLY-COMPOUNDED INTEREST RATE IS 1% PER YEAR
 
-![|500](IMG-20240913171230388.png)
+! | 500
 
 ### (a) (10 points) 
 WHAT IS THE NO-ARBITRAGE PRICE OF A EUROPEAN PUT OPTION WITH STRIKE PRICE OF $48 AND MATURITY OF 2 YEARS

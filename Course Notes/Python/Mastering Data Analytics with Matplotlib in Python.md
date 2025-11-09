@@ -22,8 +22,8 @@ key_concepts:
 ---
 
 # Mastering Data Analytics with Matplotlib in Python
-- [Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to [Data Visualization](.md)
-	- [Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)
+- Introduction to Data Visualization
+	- Overview
 	- Setup Instructions
 		- Install Matplotlib
 		- Import Necessary Libraries
@@ -35,7 +35,7 @@ key_concepts:
 		- Adding Legends
 		- Changing Plot Styles
 	- Conclusion
-- A Comprehensive Guide to Utilizing the [Matplotlib Library](.md) for [Data Visualization](.md) and Analysis in Python
+- A Comprehensive Guide to Utilizing the Matplotlib Library for Data Visualization and Analysis in Python
 	- Part 2: Setting Up Your Python Environment
 		- Creating a Virtual Environment
 		- Installing Matplotlib and Dependencies
@@ -66,7 +66,7 @@ key_concepts:
 			- 3\. Scatter Plot
 		- Summary
 - Customizing Plots with Matplotlib
-	- Example [Plot Customization](.md)
+	- Example Plot Customization
 	- Explanation
 		- Basic Plot
 		- Customizing Plot Elements
@@ -91,7 +91,7 @@ key_concepts:
 	- 1\. Subplots and Grids
 	- 2\. Custom Colormaps
 	- 3\. 3 D Plotting
-	- 4\. [Interactive Plots](.md) with Widgets
+	- 4\. Interactive Plots with Widgets
 	- 5\. Annotations
 - Part #9 : Creating Subplots and Layouts in Matplotlib
 	- Creating Subplots
@@ -113,7 +113,7 @@ key_concepts:
 	- Adding Legends
 		- Example
 		- Explanation
-	- Integrating Matplotlib with [Pandas](Advanced%20Data%20Analysis%20with%20Python.md)
+	- Integrating Matplotlib with Pandas
 		- Objective
 		- Practical Implementation
 			- Step 1: Import Required Libraries
@@ -130,7 +130,7 @@ key_concepts:
 	- 13.2 Making Plots Interactive with matplotlib. Widgets
 		- 13.2.1 Adding a Slider
 		- 13.2.2 Using Buttons
-	- 13.3 [Interactive Plots](.md) with matplotlib. Animation
+	- 13.3 Interactive Plots with matplotlib. Animation
 		- 13.3.1 Basic Animation
 		- 13.3.2 Saving Animations
 	- Conclusion
@@ -145,9 +145,9 @@ key_concepts:
 - Real-world Case Studies
 	- Case Study 1: Analyzing Stock Prices
 	- Case Study 2: Visualizing Geographic Data
-	- Case Study 3: [Time Series Analysis](Advanced%20Data%20Analysis%20with%20Python.md) of Weather Data
-- Building a Complete [Data Visualization](.md) Dashboard
-	- Part 16: A comprehensive guide to utilizing the [Matplotlib library](.md) for [data visualization](.md) and analysis in Python
+	- Case Study 3: Time Series Analysis of Weather Data
+- Building a Complete Data Visualization Dashboard
+	- Part 16: A comprehensive guide to utilizing the Matplotlib library for data visualization and analysis in Python
 		- Objective
 		- Implementation
 			- 1\. Import Necessary Libraries
@@ -157,13 +157,13 @@ key_concepts:
 			- 5\. Add Interactivity (Optional)")
 			- Conclusion
 
-[Introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) to [Data Visualization](.md)
+Introduction to Data Visualization
 ----------------------------------
 
-[Overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md)
+Overview
 --------
 
-[Data visualization](.md) is an essential part of [data analysis](Advanced%20Data%20Analysis%20with%20Python.md) because it allows us to see patterns,  trends,  and insights in a visual form. In this guide,  we will explore how to use the [Matplotlib library](.md) in Python to create various types of visualizations.
+Data visualization is an essential part of data analysis because it allows us to see patterns,  trends,  and insights in a visual form. In this guide,  we will explore how to use the Matplotlib library in Python to create various types of visualizations.
 
 Setup Instructions
 ------------------
@@ -307,11 +307,11 @@ plt.show()
 Conclusion
 ----------
 
-In this introductory unit,  we have covered the basics of setting up Matplotlib for [data visualization](.md) in Python. We have demonstrated how to create line plots,  scatter plots,  and bar charts,  and showed how to customize your visualizations by adding legends and using different plot styles.
+In this introductory unit,  we have covered the basics of setting up Matplotlib for data visualization in Python. We have demonstrated how to create line plots,  scatter plots,  and bar charts,  and showed how to customize your visualizations by adding legends and using different plot styles.
 
-By practicing these basic visualizations,  you can build a solid foundation for more advanced [data visualization](.md) techniques in subsequent units of this guide.
+By practicing these basic visualizations,  you can build a solid foundation for more advanced data visualization techniques in subsequent units of this guide.
 
-A Comprehensive Guide to Utilizing the [Matplotlib Library](.md) for [Data Visualization](.md) and Analysis in Python
+A Comprehensive Guide to Utilizing the Matplotlib Library for Data Visualization and Analysis in Python
 -------------------------------------------------------------------------------------------------------
 
 Part 2: Setting Up Your Python Environment
@@ -358,7 +358,7 @@ pip install matplotlib
 ```
 
 **Install additional dependencies:**
-Depending on your [data analysis](Advanced%20Data%20Analysis%20with%20Python.md) needs,  you might need other libraries like NumPy and [Pandas](Advanced%20Data%20Analysis%20with%20Python.md).
+Depending on your data analysis needs,  you might need other libraries like NumPy and Pandas.
 ```python
 pip install numpy pandas
 
@@ -429,7 +429,7 @@ my_matplotlib_project/
 
 Include the dependencies in a `requirements.txt` file for easy install.
 
-![Data Mentor Advertisement](https://mentor.enterprisedna.co/)
+!Data Mentor Advertisement
 ```python
 numpy
 pandas
@@ -439,7 +439,7 @@ matplotlib
 
 ### Additional Setup for Jupyter Notebooks
 
-For interactive [data analysis](Advanced%20Data%20Analysis%20with%20Python.md),  you might want to use Jupyter notebooks.
+For interactive data analysis,  you might want to use Jupyter notebooks.
 
 **Install Jupyter Notebook:**
 ```python
@@ -455,7 +455,7 @@ jupyter notebook
 
 ### Final Notes
 
-Once setup is complete,  you can proceed with creating detailed [data visualization](.md) and analysis using Matplotlib,  leveraging the initial setup to structure and manage your project efficiently.
+Once setup is complete,  you can proceed with creating detailed data visualization and analysis using Matplotlib,  leveraging the initial setup to structure and manage your project efficiently.
 
 ### Example `README.md`
 
@@ -467,9 +467,9 @@ This project contains an implementation of data visualization and analysis using
 
 ## Project Setup
 
-1. Create and activate a virtual environment.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Run your scripts or Jupyter notebooks to visualize and analyze data.
+[^1]: Create and activate a virtual environment.
+[^2]: Install the required dependencies using `pip install -r requirements.txt`.
+[^3]: Run your scripts or Jupyter notebooks to visualize and analyze data.
 
 ## Structure
 
@@ -480,12 +480,12 @@ This project contains an implementation of data visualization and analysis using
 
 ```
 
-By following these instructions,  you will have a fully set-up Python environment tailored for [data visualization](.md) and analysis using Matplotlib.
+By following these instructions,  you will have a fully set-up Python environment tailored for data visualization and analysis using Matplotlib.
 
 Getting Started with Matplotlib
 -------------------------------
 
-Matplotlib is a widely-used library in Python for creating static,  animated,  and [interactive visualizations](Advanced%20Data%20Analysis%20with%20Python.md). Below is a step-by-step guide with practical implementations to get you started with Matplotlib for [data visualization](.md).
+Matplotlib is a widely-used library in Python for creating static,  animated,  and interactive visualizations. Below is a step-by-step guide with practical implementations to get you started with Matplotlib for data visualization.
 
 Basic Plotting
 --------------
@@ -681,17 +681,17 @@ plt.savefig('plot.png')
 Conclusion
 ----------
 
-This guide has provided you with the basics of Matplotlib,  illustrating how to create different types of plots,  customize them,  and save them to file. This should get you well on your way to utilizing Matplotlib for your [data visualization](.md) needs.
+This guide has provided you with the basics of Matplotlib,  illustrating how to create different types of plots,  customize them,  and save them to file. This should get you well on your way to utilizing Matplotlib for your data visualization needs.
 
 ### Section 4: Basic Plotting with Matplotlib
 
-This section covers basic plotting techniques using the [Matplotlib library](.md) in Python. We will cover three fundamental types of plots: line plots,  bar plots,  and scatter plots.
+This section covers basic plotting techniques using the Matplotlib library in Python. We will cover three fundamental types of plots: line plots,  bar plots,  and scatter plots.
 
 #### 1\. Line Plot
 
 A line plot is useful for visualizing data points connected by straight lines. Here,  we will plot a simple line graph displaying a linear relationship between two variables.
 
-![EDNA AI Advertisement](https://app.enterprisedna.co/app/bot)
+!EDNA AI Advertisement
 ```python
 import matplotlib.pyplot as plt
 
@@ -700,7 +700,7 @@ x = [0,     1,     2,     3,     4,     5]
 y = [0,     1,     4,     9,     16,     25]
 
 # Create a line plot
-plt.plot(x,     y,     label='y = x^2',     color='blue',     marker='o')
+plt.plot(x,     y,     label='y = x[^2]',     color='blue',     marker='o')
 
 # Add titles and labels
 plt.title("Line Plot Example")
@@ -776,9 +776,9 @@ You can use these techniques to start visualizing your data. These fundamental p
 Customizing Plots with Matplotlib
 ---------------------------------
 
-In this section,  we will focus on customizing plots using the [Matplotlib library](.md) in Python. Customizations can include setting titles,  labels,  legends,  colors,  line styles,  and more. This section assumes you are already familiar with the basics of plotting using Matplotlib.
+In this section,  we will focus on customizing plots using the Matplotlib library in Python. Customizations can include setting titles,  labels,  legends,  colors,  line styles,  and more. This section assumes you are already familiar with the basics of plotting using Matplotlib.
 
-Example [Plot Customization](.md)
+Example Plot Customization
 --------------------------
 
 We will start with a simple line plot and show how to customize it:
@@ -1083,7 +1083,7 @@ import matplotlib.pyplot as plt
 
 #### 2\. Load Data
 
-Assuming you have a CSV file named `data.csv`,  you can load it using [Pandas](Advanced%20Data%20Analysis%20with%20Python.md):
+Assuming you have a CSV file named `data.csv`,  you can load it using Pandas:
 ```python
 # Load the CSV data into a DataFrame
 df = pd.read_csv('data.csv')
@@ -1173,9 +1173,9 @@ This implementation handles data preparation for visualization using Matplotlib.
 Advanced Plotting Techniques
 ----------------------------
 
-This section covers advanced plotting techniques with the [Matplotlib library](.md) to enhance your [data visualization](.md) capabilities in Python. By the end of this section,  you will be able to create complex visualizations that convey deeper insights from your data.
+This section covers advanced plotting techniques with the Matplotlib library to enhance your data visualization capabilities in Python. By the end of this section,  you will be able to create complex visualizations that convey deeper insights from your data.
 
-1\. Subplots and Grids
+[^1]: \. Subplots and Grids
 ----------------------
 
 Creating multiple plots in a single figure using subplots and grids.
@@ -1208,7 +1208,7 @@ plt.show()
 
 ```
 
-2\. Custom Colormaps
+[^2]: \. Custom Colormaps
 --------------------
 
 Using custom colormaps for enhanced visual effects.
@@ -1232,7 +1232,7 @@ plt.show()
 
 ```
 
-3\. 3 D Plotting
+[^3]: \. 3 D Plotting
 ---------------
 
 Creating 3 D plots to visualize multidimensional data.
@@ -1258,10 +1258,10 @@ plt.show()
 
 ```
 
-4\. [Interactive Plots](.md) with Widgets
+[^4]: \. Interactive Plots with Widgets
 ----------------------------------
 
-Creating [interactive plots](.md) using Matplotlib widgets for dynamic datasets.
+Creating interactive plots using Matplotlib widgets for dynamic datasets.
 ```python
 import matplotlib.pyplot as plt
 from matplotlib.widgets import Slider
@@ -1294,7 +1294,7 @@ plt.show()
 
 ```
 
-5\. Annotations
+[^5]: \. Annotations
 ---------------
 
 Adding annotations to explain important parts of your plots.
@@ -1319,7 +1319,7 @@ plt.show()
 Part #9 : Creating Subplots and Layouts in Matplotlib
 ----------------------------------------------------
 
-This section focuses on the creation of subplots and customized layouts using the [Matplotlib library](.md) in Python. Subplots allow multiple plots to be displayed in a single figure for comparative analysis.
+This section focuses on the creation of subplots and customized layouts using the Matplotlib library in Python. Subplots allow multiple plots to be displayed in a single figure for comparative analysis.
 
 Creating Subplots
 -----------------
@@ -1426,12 +1426,12 @@ plt.show()
 Conclusion
 ----------
 
-The above implementations show how to create and customize subplots and layouts in Matplotlib,  providing a basis for advanced visualization techniques needed for real-world [data analysis](Advanced%20Data%20Analysis%20with%20Python.md). Experiment with these methods to best suit your analysis needs.
+The above implementations show how to create and customize subplots and layouts in Matplotlib,  providing a basis for advanced visualization techniques needed for real-world data analysis. Experiment with these methods to best suit your analysis needs.
 
 Styling Plots with Custom Themes
 --------------------------------
 
-In this section,  we will learn how to style your plots with custom themes using the [Matplotlib library](.md) in Python. Custom themes can make your plots more visually appealing and easier to understand by applying consistent styling across all your visualizations.
+In this section,  we will learn how to style your plots with custom themes using the Matplotlib library in Python. Custom themes can make your plots more visually appealing and easier to understand by applying consistent styling across all your visualizations.
 
 Creating a Custom Theme
 -----------------------
@@ -1497,7 +1497,7 @@ axes.spines.right: False
 
 ```
 
-1. Use the custom style sheet in your code:
+[^1]: Use the custom style sheet in your code:
 ```python
 import matplotlib.pyplot as plt
 import numpy as np
@@ -1549,7 +1549,7 @@ By using custom themes,  you can easily apply consistent styling across all your
 Annotating and Labeling Plots
 -----------------------------
 
-In this section,  we will cover how to add annotations and labels to your plots using the [Matplotlib library](.md) in Python. This is essential for making your plots informative and easier to understand.
+In this section,  we will cover how to add annotations and labels to your plots using the Matplotlib library in Python. This is essential for making your plots informative and easier to understand.
 
 Annotating Plots with Text and Arrows
 -------------------------------------
@@ -1652,16 +1652,16 @@ plt.show()
 
 Ensure that each plotted line or marker has a `label` that will appear in the legend.
 
-By mastering these annotation and labeling techniques,  you can create more informative and visually appealing plots. This will make your [data visualization](.md) much more effective and easier to interpret.
+By mastering these annotation and labeling techniques,  you can create more informative and visually appealing plots. This will make your data visualization much more effective and easier to interpret.
 
 Continue practicing with your own datasets to get comfortable with these functionalities.
 
-Integrating Matplotlib with [Pandas](Advanced%20Data%20Analysis%20with%20Python.md)
+Integrating Matplotlib with Pandas
 ----------------------------------
 
 ### Objective
 
-This section covers integrating Matplotlib with [Pandas](Advanced%20Data%20Analysis%20with%20Python.md) to create visualizations directly from DataFrames in a seamless manner. This leverages [Pandas](Advanced%20Data%20Analysis%20with%20Python.md)’ ease of data manipulation and Matplotlib’s robust plotting capabilities.
+This section covers integrating Matplotlib with Pandas to create visualizations directly from DataFrames in a seamless manner. This leverages Pandas’ ease of data manipulation and Matplotlib’s robust plotting capabilities.
 
 ### Practical Implementation
 
@@ -1693,7 +1693,7 @@ df = pd.DataFrame(data)
 
 #### Step 3: Generate Plots from DataFrame
 
-You can use built-in [Pandas](Advanced%20Data%20Analysis%20with%20Python.md) plotting capabilities that are internally integrated with Matplotlib.
+You can use built-in Pandas plotting capabilities that are internally integrated with Matplotlib.
 
 ##### Line Plot
 ```python
@@ -1723,7 +1723,7 @@ plt.show()
 
 #### Step 4: Customizing the Plots Using Matplotlib
 
-Even though you use [Pandas](Advanced%20Data%20Analysis%20with%20Python.md) for plotting,  you can still customize your charts with Matplotlib.
+Even though you use Pandas for plotting,  you can still customize your charts with Matplotlib.
 ```python
 ax = df.plot(kind='line',     x='A',     y=['B',     'C'],     title='Custom Line Plot Example',     color=['red',     'blue'])
 ax.set_xlabel('A values')
@@ -1747,14 +1747,14 @@ Plt.Show ()
 
 #### Conclusion
 
-This section walked you through the steps required to integrate Matplotlib with [Pandas](Advanced%20Data%20Analysis%20with%20Python.md) for creating standardized and custom visualizations directly from DataFrames. Now you can [leverage](../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) both libraries’ functionalities to efficiently analyze and present your data.
+This section walked you through the steps required to integrate Matplotlib with Pandas for creating standardized and custom visualizations directly from DataFrames. Now you can leverage both libraries’ functionalities to efficiently analyze and present your data.
 
 Part 13: Interactivity and Dynamic Plots with Matplotlib
 --------------------------------------------------------
 
-In this unit,  we explore how to add interactivity to your plots with Matplotlib. This section assumes you have prior knowledge of basic and advanced plotting techniques,  customizing plots,  and integrating Matplotlib with [Pandas](Advanced%20Data%20Analysis%20with%20Python.md).
+In this unit,  we explore how to add interactivity to your plots with Matplotlib. This section assumes you have prior knowledge of basic and advanced plotting techniques,  customizing plots,  and integrating Matplotlib with Pandas.
 
-13.1 Installing Necessary Libraries
+[^13]: 1 Installing Necessary Libraries
 -----------------------------------
 
 Make sure to have all necessary packages installed. Ensure `matplotlib` and `mpl_toolkits` are available for your environment.
@@ -1764,7 +1764,7 @@ Make sure to have all necessary packages installed. Ensure `matplotlib` and `mpl
 
 ```
 
-13.2 Making Plots Interactive with `matplotlib. Widgets`
+[^13]: 2 Making Plots Interactive with `matplotlib. Widgets`
 -------------------------------------------------------
 
 ### 13.2.1 Adding a Slider
@@ -1823,7 +1823,7 @@ Plt.Show ()
 
 ```
 
-13.3 [Interactive Plots](.md) with `matplotlib. Animation`
+[^13]: 3 Interactive Plots with `matplotlib. Animation`
 --------------------------------------------------
 
 ### 13.3.1 Basic Animation
@@ -1877,7 +1877,7 @@ Brew install ffmpeg
 Conclusion
 ----------
 
-You can now add interactivity to your plots using Matplotlib’s widgets and animations. This allows for dynamic [data visualization](.md),  making your plots more engaging and insightful.
+You can now add interactivity to your plots using Matplotlib’s widgets and animations. This allows for dynamic data visualization,  making your plots more engaging and insightful.
 
 Section 14: Saving and Exporting Plots
 --------------------------------------
@@ -1979,18 +1979,18 @@ With these examples,  you should be able to save and export Matplotlib plots in 
 Real-world Case Studies
 -----------------------
 
-This section will cover practical implementations of Matplotlib using real-world data. We’ll go through three case studies: analyzing stock prices,  visualizing geographic data,  and illustrating a [time series analysis](Advanced%20Data%20Analysis%20with%20Python.md) of weather data.
+This section will cover practical implementations of Matplotlib using real-world data. We’ll go through three case studies: analyzing stock prices,  visualizing geographic data,  and illustrating a time series analysis of weather data.
 
 Case Study 1: Analyzing Stock Prices
 ------------------------------------
 
-**Scenario:** We are tasked with analyzing the [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) data of a particular company to identify trends and patterns.
+**Scenario:** We are tasked with analyzing the stock price data of a particular company to identify trends and patterns.
 
 **Steps:**
 
-1. Load the [stock price](../../Financial%20Engineering/Derivatives/Part%20IV%20-%20Options/Chapter%2016%20-%20Black–Scholes%20Model.md) data using [Pandas](Advanced%20Data%20Analysis%20with%20Python.md).
-1. Plot the closing prices over time.
-1. Add a trend line to visualize price movement over time.
+[^1]: Load the stock price data using Pandas.
+[^1]: Plot the closing prices over time.
+[^1]: Add a trend line to visualize price movement over time.
 
 **Implementation:**
 ```python
@@ -2030,9 +2030,9 @@ Case Study 2: Visualizing Geographic Data
 
 **Steps:**
 
-1. Load the earthquake data containing latitude,  longitude,  and magnitude.
-1. Use scatter plots to represent the earthquake locations on a map.
-1. Color the points based on the magnitude to show severity.
+[^1]: Load the earthquake data containing latitude,  longitude,  and magnitude.
+[^1]: Use scatter plots to represent the earthquake locations on a map.
+[^1]: Color the points based on the magnitude to show severity.
 
 **Implementation:**
 ```python
@@ -2055,16 +2055,16 @@ Plt.Show ()
 
 ```
 
-Case Study 3: [Time Series Analysis](Advanced%20Data%20Analysis%20with%20Python.md) of Weather Data
+Case Study 3: Time Series Analysis of Weather Data
 --------------------------------------------------
 
 **Scenario:** We are analyzing weather data to observe temperature trends over the years.
 
 **Steps:**
 
-1. Load weather data with temperature recordings.
-1. Plot the temperature readings over time.
-1. Use moving averages to smooth the data and identify overall trends.
+[^1]: Load weather data with temperature recordings.
+[^1]: Plot the temperature readings over time.
+[^1]: Use moving averages to smooth the data and identify overall trends.
 
 **Implementation:**
 ```python
@@ -2092,17 +2092,17 @@ Plt.Show ()
 
 ```
 
-These case studies show how Matplotlib can be effectively used in real-world scenarios for [data visualization](.md) and analysis. Each implementation demonstrates the potential for extracting insights from various types of data through visualization techniques.
+These case studies show how Matplotlib can be effectively used in real-world scenarios for data visualization and analysis. Each implementation demonstrates the potential for extracting insights from various types of data through visualization techniques.
 
-Building a Complete [Data Visualization](.md) Dashboard
+Building a Complete Data Visualization Dashboard
 ------------------------------------------------
 
-Part 16: A comprehensive guide to utilizing the [Matplotlib library](.md) for [data visualization](.md) and analysis in Python
+Part 16: A comprehensive guide to utilizing the Matplotlib library for data visualization and analysis in Python
 ----------------------------------------------------------------------------------------------------------------
 
 ### Objective
 
-In this part,  we will build a complete [data visualization](.md) dashboard using Matplotlib and various Python libraries. We’ll cover integrating data,  creating multiple visualizations,  arranging them in a coherent dashboard layout,  and adding interactive elements.
+In this part,  we will build a complete data visualization dashboard using Matplotlib and various Python libraries. We’ll cover integrating data,  creating multiple visualizations,  arranging them in a coherent dashboard layout,  and adding interactive elements.
 
 ### Implementation
 
@@ -2128,7 +2128,7 @@ Data = sns. Load_dataset ('iris')
 
 We’ll create a variety of plots to be part of the dashboard.
 
-1. **Scatter Plot**
+[^1]: **Scatter Plot**
 ```python
 Def scatter_plot (ax):
     Sns.Scatterplot (data=data,     x='sepal_length',     y='sepal_width',     hue='species',     ax=ax)
@@ -2136,7 +2136,7 @@ Def scatter_plot (ax):
 
 ```
 
-1. **Histogram**
+[^1]: **Histogram**
 ```python
 Def histogram (ax):
     Sns.Histplot (data['sepal_length'],     kde=True,     ax=ax)
@@ -2144,7 +2144,7 @@ Def histogram (ax):
 
 ```
 
-1. **Box Plot**
+[^1]: **Box Plot**
 ```python
 Def box_plot (ax):
     Sns.Boxplot (x='species',     y='petal_length',     data=data,     ax=ax)
@@ -2152,7 +2152,7 @@ Def box_plot (ax):
 
 ```
 
-1. **Heatmap**
+[^1]: **Heatmap**
 ```python
 Def correlation_heatmap (ax):
     Corr = data.Corr ()
@@ -2202,4 +2202,4 @@ In this segment,  we integrated multiple plots into a cohesive dashboard using M
 
 Feel free to adjust titles,  fonts,  scales,  and themes as per your customization requirements. The interactive component is optional but can greatly enhance the user experience.
 
-This concludes the guide on building a complete [data visualization](.md) dashboard with Matplotlib. Implement these steps in your project,  and you’ll have a functional and visually appealing dashboard.
+This concludes the guide on building a complete data visualization dashboard with Matplotlib. Implement these steps in your project,  and you’ll have a functional and visually appealing dashboard.

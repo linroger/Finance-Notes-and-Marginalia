@@ -1,40 +1,34 @@
 ---
 cssclasses:
   - academia
-title: Week 3 Advanced Financial Analysis and Valuation
+title: Week 3 - Advanced Financial Analysis and Valuation
+linter-yaml-title-alias: Week 3 - Advanced Financial Analysis and Valuation
 tags:
   - advanced_financial_analysis
-  - cash_flows
-  - dcf_valuation
-  - discount_rate
-  - enterprise_value
-  - financial_analysis
-  - financial_modeling
-  - project_valuation
-  - valuation
+  - cyclical_industries
+  - financial_risk_analysis
+  - credit_risk
+  - industry_cycles
   - week_3
 aliases:
-  - Advanced Valuation
-  - Financial Analysis
-  - Valuation
-  - Week 3
-  - Week Three
+  - Week 3 AFAV Navigation
+  - W3 Course Materials
 key_concepts:
-  - Advanced financial analysis
-  - Discounted cash flow
-  - Enterprise value
-  - Financial modeling
-  - Project valuation
+  - Cyclical industry analysis
+  - Advanced forecasting methods
+  - Financial risk assessment
+  - Credit risk modeling
+  - Industry cycle impacts
+  - Dow Chemical case study
 ---
 
-# Week 3 Advanced Financial Analysis and Valuation
+# Week 3 - Advanced Financial Analysis and Valuation
 
 %% Begin Waypoint %%
 
-- **[Week 3 Advanced Financial Analysis and Valuation](.md)**
-	- [Week 3 Advanced Financial Analysis and Valuation](.md)
-	- [Week 3 Cyclical Industries (and Advanced Forecasting)](Week%203%20Cyclical%20Industries%20(and%20Advanced%20Forecasting).md)
-	- [Week 3 Financial Risk Analysis](Week%203%20Financial%20Risk%20Analysis.md)
-	- [Week 3](Week%203.md)
+- **Week 3 Course Content**
+	- Week 3 Cyclical Industries (and Advanced Forecasting).md)
+	- Week 3 Financial Risk Analysis
+	- Week 3
 
 %% End Waypoint %%

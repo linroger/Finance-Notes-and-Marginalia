@@ -22,9 +22,9 @@ key_concepts:
 
 # Modeling Fixed Rate Bonds in QuantLib Python
 
-This post will walk through an example of modeling fixed rate bonds using [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md).
+This post will walk through an example of modeling fixed rate bonds using QuantLib Python.
 
-*Visit here for other [QuantLib Python]([Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python) examples](http://gouthamanbalaraman.com/blog/[quantlib](Introduction%20to%20QuantLib%20Python.md)-python-tutorials-with-examples.html). If you found these posts useful,  please take a minute by providing some [feedback.](https://docs.google.com/forms/d/e/1FAIpQLSdFdJ768HKmIyJmaVRHBUJNY5NyQl6vr0GZvSkx-bUfIloNZA/viewform)*
+*Visit here for other QuantLib Python examples](http://gouthamanbalaraman.com/blog/quantlib-python-tutorials-with-examples.html). If you found these posts useful,  please take a minute by providing some feedback.*
 
 Let's consider a hypothetical bond with a par value of 100,  that pays 6% coupon semi-annually issued on January 15th,  2015 and set to mature on January 15th,  2016. The bond will pay a coupon on July 15th,  2015 and January 15th,  2016. The par amount of 100 will also be paid on the January 15th,  2016.
 
@@ -34,7 +34,7 @@ To make things simpler,  lets assume that we know the spot rates of the treasury
 105.27653992490681
 ```
 
-Lets calculate the same thing using [QuantLib](Introduction%20to%20QuantLib%20Python.md).
+Lets calculate the same thing using QuantLib.
 ```latex
 >>> import QuantLib as ql
 >>> todaysDate = ql.Date(15,  1,  2015)
@@ -51,7 +51,7 @@ Lets calculate the same thing using [QuantLib](Introduction%20to%20QuantLib%20Py
 >>> spotCurveHandle = ql.YieldTermStructureHandle(spotCurve)
 ```
 
-So far we have created the [term structure](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) and the variables are rather self explanatory. Now lets construct the fixed rate bond.
+So far we have created the term structure and the variables are rather self explanatory. Now lets construct the fixed rate bond.
 ```latex
 >>> issueDate = ql.Date(15,  1,  2015)
 >>> maturityDate = ql.Date(15,  1,  2016)
@@ -87,28 +87,21 @@ So far we have created the [term structure](../../../Financial%20Markets/Fixed%2
 
 Voila!
 
-Download the [modeling bonds ipython notebook](https://gouthamanbalaraman.com/extra/notebooks/modeling-bonds.ipynb).
+Download the modeling bonds ipython notebook.
 
-   [python](http://gouthamanbalaraman.com/tag/python.html)   [finance](http://gouthamanbalaraman.com/tag/finance.html)   [quantlib]([Introduction%20to%20QuantLib%20Python)](http://gouthamanbalaraman.com/tag/[quantlib](Introduction%20to%20QuantLib%20Python.md).html)
+   python   finance   quantlib](http://gouthamanbalaraman.com/tag/quantlib.html)
 
 ---
 
 **Related Post**
 
-- [QuantLib Python]([Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python) Tutorials With Examples](http://gouthamanbalaraman.com/blog/[quantlib](Introduction%20to%20QuantLib%20Python.md)-python-tutorials-with-examples.html)
-- [Modeling Vanilla Interest Rate Swaps Using [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md)](http://gouthamanbalaraman.com/blog/interest-rate-swap-[quantlib](Introduction%20to%20QuantLib%20Python.md)-python.html)
-- [Valuing Options on [Commodity Futures](../../../Financial%20Instruments/Financial%20Instruments%20PSET%20Solutions.md) Using [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md)](http://gouthamanbalaraman.com/blog/value-options-commodity-[futures](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md)-black-formula-[quantlib](Introduction%20to%20QuantLib%20Python.md)-python.html)
-- [Short [Interest Rate Model](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) [Calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md) in [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md)](http://gouthamanbalaraman.com/blog/short-interest-rate-model-[calibration](../../../Credit%20Markets/Credit%20Markets%20Session%204.md)-[quantlib](Introduction%20to%20QuantLib%20Python.md).html)
-- [Announcing qtk for [QuantLib Python](Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python.md)](http://gouthamanbalaraman.com/blog/announcing-qtk-[quantlib](Introduction%20to%20QuantLib%20Python.md)-python.html)
+- QuantLib Python Tutorials With Examples](http://gouthamanbalaraman.com/blog/quantlib-python-tutorials-with-examples.html)
+- Modeling Vanilla Interest Rate Swaps Using [QuantLib Python](http://gouthamanbalaraman.com/blog/interest-rate-swap-quantlib-python.html)
+- Valuing Options on [Commodity Futures Using QuantLib Python](http://gouthamanbalaraman.com/blog/value-options-commodity-futures-black-formula-quantlib-python.html)
+- Short [Interest Rate Model Calibration in QuantLib Python](http://gouthamanbalaraman.com/blog/short-interest-rate-model-calibration-quantlib.html)
+- Announcing qtk for [QuantLib Python](http://gouthamanbalaraman.com/blog/announcing-qtk-quantlib-python.html)
 
 ---
 
- ![500](Attachments/500-177.png)
-I am Goutham Balaraman,  and I explore topics in [quantitative finance](../../Quantitative%20Trading%20Strategies%20Lecture%20Notes.md),  programming,  and data science. You can follow me [@gsbalaraman](https://twitter.com/gsbalaraman).
-
----
-
-**Checkout my book**
-
-[ ![500](Attachments/500-176.png)](https://leanpub.com/quantlibpythoncookbook)
-Updated posts from this blog and transcripts of Luigi's screencasts on YouTube is compiled into [QuantLib Python]([Valuing%20Callable%20Bonds%20Using%20QuantLib%20Python) Cookbook](https://leanpub.com/quantlibpythoncookbook) .
+ !500
+I am Goutham Balaraman,  and I explore topics in quantitative finance,  programming,  and data science. You can follow me @gsbalaraman.

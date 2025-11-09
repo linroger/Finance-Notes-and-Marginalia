@@ -4,7 +4,7 @@
 
 P rdevsicoriubs ncghtahpetecrasuhsaevseanadnsefwfercetsdotfhientqeruneastional“ tWrahdye daondntahtieofnusnctrtiaodnei?n”gboyf a trading world economy. While this question is interesting in itself, its answer is even more interesting if it also helps answer the question “What should a nation’s trade policy be?” For example, the grittiest part of the Brexit, Britain’s withdrawal from the European Union (EU) negotiations is over trade. Its tariff, quota, and subsidy rules are fixed by its EU membership. Thus, the EU, Britain, and certain third countries are faced with a dilemma of possibilities of trade. Outside the customs union of the EU, Britain would face tariffs and non-tariff barriers, which could add between 2 and 15 percent to the cost of exports, depending on the product.  
 
-This chapter examines the policies that governments adopt toward [international trade](../../Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md), policies that involve a number of different actions. These actions include taxes on some international transactions, subsidies for other transactions, legal limits on the value or volume of particular imports, and many other measures. The chapter thus provides a framework for understanding the effects of the most important instruments of trade policy.  
+This chapter examines the policies that governments adopt toward international trade, policies that involve a number of different actions. These actions include taxes on some international transactions, subsidies for other transactions, legal limits on the value or volume of particular imports, and many other measures. The chapter thus provides a framework for understanding the effects of the most important instruments of trade policy.  
 
 # LEARNING GOALS  
 
@@ -16,19 +16,19 @@ After reading this chapter, you will be able to:
 
 A tariff, the simplest of trade policies, is a tax levied when a good is imported. Specific tariffs are levied as a fixed charge for each unit of goods imported (for example, $\$3$ per barrel of oil). Ad valorem tariffs are taxes that are levied as a fraction of the value of the imported goods. In either case, the effect of the tariff is to raise the cost of shipping goods to a country.  
 
-Tariffs are the oldest form of trade policy and have traditionally been used as a source of government income. Until the [introduction](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) of the income tax, for instance, the U.S. government raised most of its revenue from tariffs. Their true purpose, however, has usually been twofold: to provide revenue and to protect particular domestic sectors. In the early 19th century, for example, the United Kingdom used tariffs (the famous Corn Laws that led [David Ricardo](../../Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md) to develop his theory of comparative advantage; see Chapter 3) to protect its agriculture from import competition. In the late 19th century, both Germany and the United States protected their new industrial sectors by imposing tariffs on imports of manufactured goods. In the late 19th century, protection was a trade policy instrument used in Europe’s development. In Europe, tariffs had a positive impact on a country’s growth, specifically on infant industry grounds. For example, Sweden, Italy, and France adopted rather severe agricultural protection policies. Germany adopted protectionist policies in both agriculture and manufacturing and experienced strong growth of its infant industries with set higher tariffs. Also, countries of the New World, such as Canada, Australia, and the United States also chose to protect its manufacturing and infant industries from European competition. The importance of tariffs has declined in modern times because modern governments usually prefer to protect domestic industries through a variety of nontariff barriers, such as import quotas (limitations on the quantity of imports) and export restraints (limitations on the quantity of exports—usually imposed by the exporting country at the importing country’s request) and direct subsidies to producers. Nonetheless, tariffs are still used by virtually all nations. And the Trump administration’s trade war started in 2018 (see Chapter 4 and the case study in this chapter) shows how quickly those tariff declines can be reversed. Thus, an understanding of the effects of a tariff remains vital, both because they are still used and often threatened and because the effects of other trade policies are often evaluated against the benchmark effects of a tariff.  
+Tariffs are the oldest form of trade policy and have traditionally been used as a source of government income. Until the introduction of the income tax, for instance, the U.S. government raised most of its revenue from tariffs. Their true purpose, however, has usually been twofold: to provide revenue and to protect particular domestic sectors. In the early 19th century, for example, the United Kingdom used tariffs (the famous Corn Laws that led David Ricardo to develop his theory of comparative advantage; see Chapter 3) to protect its agriculture from import competition. In the late 19th century, both Germany and the United States protected their new industrial sectors by imposing tariffs on imports of manufactured goods. In the late 19th century, protection was a trade policy instrument used in Europe’s development. In Europe, tariffs had a positive impact on a country’s growth, specifically on infant industry grounds. For example, Sweden, Italy, and France adopted rather severe agricultural protection policies. Germany adopted protectionist policies in both agriculture and manufacturing and experienced strong growth of its infant industries with set higher tariffs. Also, countries of the New World, such as Canada, Australia, and the United States also chose to protect its manufacturing and infant industries from European competition. The importance of tariffs has declined in modern times because modern governments usually prefer to protect domestic industries through a variety of nontariff barriers, such as import quotas (limitations on the quantity of imports) and export restraints (limitations on the quantity of exports—usually imposed by the exporting country at the importing country’s request) and direct subsidies to producers. Nonetheless, tariffs are still used by virtually all nations. And the Trump administration’s trade war started in 2018 (see Chapter 4 and the case study in this chapter) shows how quickly those tariff declines can be reversed. Thus, an understanding of the effects of a tariff remains vital, both because they are still used and often threatened and because the effects of other trade policies are often evaluated against the benchmark effects of a tariff.  
 
 In developing the theory of trade in Chapters 3 through 8, we adopted a general equilibrium perspective. That is, we were keenly aware that events in one part of the economy have repercussions elsewhere. However, in many (though not all) cases, trade policies toward one sector can be reasonably well understood without going into detail about those policies’ repercussions on the rest of the economy. For the most part, then, trade policy can be examined in a partial equilibrium framework. When the effects on the economy as a whole become crucial, we will refer back to general equilibrium analysis.  
 
 # Supply, Demand, and Trade in a Single Industry  
 
-Let’s suppose there are two countries, Home and Foreign, both of which consume and produce wheat, which can be costlessly transported between the countries. In each country, wheat is a simple competitive industry in which the supply and demand curves are functions of the market price. Normally, Home supply and demand will depend on the price in terms of Home [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md), and Foreign supply and demand will depend on the price in terms of Foreign [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md). However, we assume the exchange rate between the currencies is not affected by whatever trade policy is undertaken in this market. Thus, we quote prices in both markets in terms of Home [currency](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Forwards%20and%20Futures%20Notes.md).  
+Let’s suppose there are two countries, Home and Foreign, both of which consume and produce wheat, which can be costlessly transported between the countries. In each country, wheat is a simple competitive industry in which the supply and demand curves are functions of the market price. Normally, Home supply and demand will depend on the price in terms of Home currency, and Foreign supply and demand will depend on the price in terms of Foreign currency. However, we assume the exchange rate between the currencies is not affected by whatever trade policy is undertaken in this market. Thus, we quote prices in both markets in terms of Home currency.  
 
 Trade will arise in such a market if prices are different in the absence of trade. Suppose that in the absence of trade, the price of wheat is higher in Home than it is in Foreign. Now let’s allow foreign trade. Since the price of wheat in Home exceeds the price in Foreign, shippers begin to move wheat from Foreign to Home. The export of wheat raises its price in Foreign and lowers its price in Home until the difference in prices has been eliminated.  
 
 To determine the world price and the quantity traded, it is helpful to define two new curves: the Home import demand curve and the Foreign export supply curve, which are derived from the underlying domestic supply and demand curves. Home import demand is the excess  
 
-![](images/40042c57a7121fa8852b6f4411462bd0457cdcb69383d16f1b7c5969753d181e.jpg)  
+![](40042c57a7121fa8852b6f4411462bd0457cdcb69383d16f1b7c5969753d181e.jpg)  
 FIGURE 9-1   
 Deriving Home’s Import Demand Curve  
 
@@ -46,7 +46,7 @@ Home demand - Home supply $\mathbf{\Sigma}=$ Foreign supply - Foreign demand. By
 
 Home demand $+$ Foreign demand $\mathbf{\Sigma}=$ Home supply $^+$ Foreign supply or, in other words,  
 
-![](images/382b9a8a146ed35d9f7821c23bceea8708bb58aae3ebfff8973a7343f2fff334.jpg)  
+![](382b9a8a146ed35d9f7821c23bceea8708bb58aae3ebfff8973a7343f2fff334.jpg)  
 FIGURE 9-2  
 
 # Deriving Foreign’s Export Supply Curve  
@@ -59,7 +59,7 @@ As the price of the good rises, Foreign producers supply more while Foreign cons
 
 The equilibrium world price is where Home import demand (MD curve) equals Foreign export supply (XS curve).  
 
-![](images/ac1e40c911f182d8af6ee556098bfe7a99c0380c9e3a220317782a58fa579d7a.jpg)  
+![](ac1e40c911f182d8af6ee556098bfe7a99c0380c9e3a220317782a58fa579d7a.jpg)  
 
 # Effects of a Tariff  
 
@@ -67,7 +67,7 @@ From the point of view of someone shipping goods, a tariff is just like a cost o
 
 Figure 9-4 illustrates the effects of a specific tariff of $t$ per unit of wheat (shown as $t$ in the figure). In the absence of a tariff, the price of wheat would be equalized at $P_{W}$ in both Home and Foreign, as seen at point 1 in the middle panel, which illustrates the world market. With the tariff in place, however, shippers are not willing to move wheat from Foreign to Home unless the Home price exceeds the Foreign price by at least $t$ .  
 
-![](images/df577eff1a553da5b7ceaadd4b85b80291402d84ee6602b01ca819627420deb5.jpg)  
+![](df577eff1a553da5b7ceaadd4b85b80291402d84ee6602b01ca819627420deb5.jpg)  
 FIGURE 9-4  
 
 # Effects of a Tariff  
@@ -92,7 +92,7 @@ A tariff on an imported good raises the price received by domestic producers of 
 
 When a country is small, a tariff it imposes cannot lower the foreign price of the good it imports. As a result, the price of the import rises from $P W$ to $P W+t$ and the quantity of imports demanded falls from $D_{1}-S_{1}$ to $D_{2}\ -\ S_{2}$ .  
 
-![](images/8147886de89df43eb446bb5f8453dc5739cf06e20cac2892e4eb841145fd9f86.jpg)  
+![](8147886de89df43eb446bb5f8453dc5739cf06e20cac2892e4eb841145fd9f86.jpg)  
 
 policy in practice, it is important to ask how much protection a tariff or other trade policy actually provides. The answer is usually expressed as a percentage of the price that would prevail under free trade. An import quota on sugar could, for example, raise the price received by U.S. sugar producers by 35 percent.  
 
@@ -130,14 +130,14 @@ Generalizing from this example, if $P$ is the price of a good and $\boldsymbol{\
 
 Consumer surplus on each unit sold is the difference between the actual price and what consumers would have been willing to pay.  
 
-![](images/8c016dcae719ae5dd78cd1b31939767d4fdc586cc652e7b8e734b29602a93efe.jpg)  
+![](8c016dcae719ae5dd78cd1b31939767d4fdc586cc652e7b8e734b29602a93efe.jpg)  
 FIGURE 9-7  
 
 # Geometry of Consumer Surplus  
 
 Consumer surplus is equal to the area under the demand curve and above the price.  
 
-![](images/c9ff538a1fac030acf5e092c8e413270080c69aa61d5472c5251d399e3b8b1a7.jpg)  
+![](c9ff538a1fac030acf5e092c8e413270080c69aa61d5472c5251d399e3b8b1a7.jpg)  
 $\boldsymbol{\mathcal{Q}}$ from the area under the demand curve up to $\boldsymbol{Q}$ (Figure 9-7). If the price is $P^{1}$ , the quantity demanded is $D^{1}$ and the consumer surplus is measured by the areas labeled $a$ plus $b.$ If the price rises to $P^{2}$ , the quantity demanded falls to $D^{2}$ and consumer surplus falls by $b$ to equal just $a$ .  
 
 Producer surplus is an analogous concept. A producer willing to sell a good for $\$2$ but receiving a price of \$5 gains a producer surplus of $\$3$ . The same procedure used to derive consumer surplus from the demand curve can be used to derive producer surplus  
@@ -148,7 +148,7 @@ Geometry of Producer Surplus
 
 Producer surplus is equal to the area above the supply curve and below the price.  
 
-![](images/618d9a8febeafa7dae16d1ca3fd092f988c22c1d545104e973b258cb34b503ba.jpg)  
+![](618d9a8febeafa7dae16d1ca3fd092f988c22c1d545104e973b258cb34b503ba.jpg)  
 
 from the supply curve. If $P$ is the price and $\boldsymbol{\mathcal{Q}}$ the quantity supplied at that price, then producer surplus is $P$ times $\boldsymbol{Q}$ minus the area under the supply curve up to $\boldsymbol{\mathcal{Q}}$ (Figure 9-8). If the price is $P^{1}$ , the quantity supplied will be $S^{1}$ , and producer surplus is measured by area $c.$ . If the price rises to $\dot{P^{2}}$ , the quantity supplied rises to $S^{2}$ , and producer surplus rises to equal $c$ plus the additional area $d.$ .  
 
@@ -168,7 +168,7 @@ Domestic consumers also face a higher price, which makes them worse off. As we s
 
 The costs and benefits to different groups can be represented as sums of the five areas a, $b,c,d,$ and e.  
 
-![](images/10f17f8d632c3db2c96943e1b42aee27779658f6441413711e06207732f24c2f.jpg)  
+![](10f17f8d632c3db2c96943e1b42aee27779658f6441413711e06207732f24c2f.jpg)  
 
 There is a third player here as well: the government. The government gains by collecting tariff revenue. This is equal to the tariff rate $t$ times the volume of imports $Q_{T}={\bf\bar{\Psi}}D^{2}-S^{2} $ . Since $t=P_{T}-\bar{P}_{T}^{*},$ the government’s revenue is equal to the sum of the two areas $c$ and $e$ .  
 
@@ -191,7 +191,7 @@ The net welfare effects of a tariff are summarized in Figure 9-10. The negative 
 
 The colored triangles represent efficiency losses, while the rectangle represents a terms of trade gain.  
 
-![](images/0c8a9e463ac0f55aeac520365e6c3f9aa0467f5ea5efd5345b63624cc631b842.jpg)  
+![](0c8a9e463ac0f55aeac520365e6c3f9aa0467f5ea5efd5345b63624cc631b842.jpg)  
 
 # Winners and Losers of the Trump Trade War  
 
@@ -199,7 +199,7 @@ In Chapter 4, we discussed the political economy considerations behind the Trump
 
 Figure 9-11 shows the timeline of the average tariffs imposed by the Trump administration in 2018–2019. Some tariffs on specific goods (solar panels, washing machines, steel, and aluminum) were imposed on a large set of exporting countries; while some tariffs were targeted at specific countries (mostly China but also the European Union later on) and covered many different goods. By 2019, over 66 percent of Chinese exports to the United States were hit by the tariffs shown in Figure 9-11. The tariffs imposed on the European Union were on a much more limited set of goods as retaliation for a different trade dispute. (See the separate box later on in this chapter on the Boeing-Airbus dispute.)  
 
-![](images/ff8d11edb7ed8ad8ecf3e272b36b8032b6b1cc814d59e5fa8a95eed6c5926be0.jpg)  
+![](ff8d11edb7ed8ad8ecf3e272b36b8032b6b1cc814d59e5fa8a95eed6c5926be0.jpg)  
 FIGURE 9-11  
 
 # Average Tariffs on U.S. Imports  
@@ -212,7 +212,7 @@ Several different studies have examined how those tariff increases have affected
 
 Figure 9-12 shows how the annual cost of those higher import prices increased in line with the tariffs for U.S. households. After the last round of  
 
-![](images/2135341740d00fe00413c2836149857ef8bd990edcabbe8b7f437dd5287e6b06.jpg)  
+![](2135341740d00fe00413c2836149857ef8bd990edcabbe8b7f437dd5287e6b06.jpg)  
 FIGURE 9-12   
 Annual Cost of Higher U.S. Import Prices by Household Income  
 
@@ -220,7 +220,7 @@ The higher prices for imported goods due to the new tariffs represented a substa
 
 Source: Kirill Borusyak and Xavier Jaravel, “The Distributional Effects of Trade: Theory and Evidence from the United States,” SSRN Scholarly Paper, October 6, 2018.  
 
-tariff increases in 2019, the average annual cost for a U.S. household was above $\$300$ . However, this does not reflect the full cost of the tariffs for U.S. consumers. Some of the imported goods are bought by the U.S. government and lead to higher costs for government services. Some of the imported goods represent capital [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) purchases by U.S. firms. Ultimately, those also lead to higher costs for the goods produced with that capital. And lastly, the tariffs also lead to higher prices for U.S. produced goods that compete with the imported goods hit by the tariff.  
+tariff increases in 2019, the average annual cost for a U.S. household was above $\$300$ . However, this does not reflect the full cost of the tariffs for U.S. consumers. Some of the imported goods are bought by the U.S. government and lead to higher costs for government services. Some of the imported goods represent capital investment purchases by U.S. firms. Ultimately, those also lead to higher costs for the goods produced with that capital. And lastly, the tariffs also lead to higher prices for U.S. produced goods that compete with the imported goods hit by the tariff.  
 
 Incorporating those additional costs nearly triples the average annual cost per U.S. household to $\$891$ . This is where the losses from the trade war are concentrated, along with the firms who use the affected goods as intermediate inputs. In the aggregate, this consumer surplus loss, represented by the areas $a+b+c+d$ in Figure 9-9, totals $\$123,45$ billion per year for the U.S. economy.3 As highlighted in the figure, some of that loss for consumers is offset by gains for some U.S. producers from the higher prices. Those are the firms producing steel, aluminum, solar panels, and washing machines—as well as others producing products that competed directly with Chinese imports. They benefit from the higher prices driven by the increased protection: They are the winners from the trade war. The associated increase in their producer surplus, area a, was estimated at $\$31.8$ billion per year. And lastly, some of the higher prices paid by U.S. consumers were collected by the U.S. government as tariff revenue. This revenue, area $c+e,$ amounted to $\$65.9$ billion. As we previously mentioned, area e—which would represent a terms of trade gain for the U.S. economy—was nil. Thus, the higher U.S. tariffs from the Trump trade war generated an overall efficiency loss, area $b+d,$ , equal to $\$123,456,7$ billion per year for the U.S. economy.  
 
@@ -228,7 +228,7 @@ And as we discussed back in Chapter 4, the new tariffs imposed by the United Sta
 
 In contrast to the case for an importing country setting a tariff, the welfare impacts for the exporting country are entirely absorbed by the producers for the targeted goods: Consumers are not affected, and the government does not collect any tariff revenue. In the case of those retaliatory tariffs, U.S. farmers  
 
-![](images/6749d6533f094039be923023ace47cd6ec3e85b0a7b161803fae5c8b7ba74a4c.jpg)  
+![](6749d6533f094039be923023ace47cd6ec3e85b0a7b161803fae5c8b7ba74a4c.jpg)  
 FIGURE 9-13  
 
 # Average Retaliatory Tariffs on U.S. Exports  
@@ -241,7 +241,7 @@ and ranchers were especially hard hit. Following their imposition starting in 20
 
 producer surplus at the expense of a loss in consumer surplus. However, there are many other indirect costs of tariffs. In an indefinite economic environment, it is usually quite challenging to spot whether the cause of import decline is due to improved efficiency of companies in the sector, or due to some “covered” government incentives.5 Nevertheless, imposed tariffs by one country in most cases would be followed by retaliation of another. If country A imposes a tariff, exporting producers of country B are hurt and the country loses out due to the tariff burden. Thus, country B may retaliate with a tariff of its own and form a broader violation of the free trade’s philosophies. As a result of this tariff war, both countries are more likely to end up worse off by the reduced volume trade.  
 
-In June 2013, a “solar dispute” occurred between the world’s biggest economies and the world’s biggest trading partners, the European Union (EU) and China. The EU is China’s biggest international ­trading partner, and China is the EU’s second biggest partner, after U.S.. The trade dispute between Beijing and Brussels was one of the biggest in history. The European Commission, after a ninemonth investigation, started a formal complaint from a group of more than 20 European producers, imposed provisional tariffs on solar panels imported from China, and accused subsidized exporters of flooding the EU at prices below production cost. China became the largest producer of solar panels due to a rise in the world’s economy, influencing [global trade](../../../Course%20Notes/International%20Trade%20Banking%20and%20Capital%20Markets%20Lecture%20Notes.md) by lowering prices in the manufacturing sector. Nearly 80 percent of the produced solar panels in China are exported to the EU market. However, according to EU trade commissioner Karel de Gucht, under a fair price the Chinese solar panels would be 88 percent higher than the current price. The inflow of Chinese solar panels became a big issue for local producers and competitors. There were opposing opinions between EU member states, because there were uncertainties about the impact of the tariff on the sector and the fact that the EU solar industry supports 265,000 jobs across Europe.  
+In June 2013, a “solar dispute” occurred between the world’s biggest economies and the world’s biggest trading partners, the European Union (EU) and China. The EU is China’s biggest international ­trading partner, and China is the EU’s second biggest partner, after U.S.. The trade dispute between Beijing and Brussels was one of the biggest in history. The European Commission, after a ninemonth investigation, started a formal complaint from a group of more than 20 European producers, imposed provisional tariffs on solar panels imported from China, and accused subsidized exporters of flooding the EU at prices below production cost. China became the largest producer of solar panels due to a rise in the world’s economy, influencing global trade by lowering prices in the manufacturing sector. Nearly 80 percent of the produced solar panels in China are exported to the EU market. However, according to EU trade commissioner Karel de Gucht, under a fair price the Chinese solar panels would be 88 percent higher than the current price. The inflow of Chinese solar panels became a big issue for local producers and competitors. There were opposing opinions between EU member states, because there were uncertainties about the impact of the tariff on the sector and the fact that the EU solar industry supports 265,000 jobs across Europe.  
 
 Nevertheless, a tariff of 11.8 percent was set to be applied to Chinese solar imports to Europe from June 6, 2013, and was set to rise to an average of 47.6 percent within two months, imposing these duties for up to five years. Although the tariff was set to be applied to imports of solar panels, which value was €21 billion a year, this would have created a negative effect on the entire trading relationship worth about €480 billion and would have undermined the confidence of Chinese companies doing business in Europe.  
 
@@ -253,7 +253,7 @@ In July 2013, per the settlement on the solar panel dispute both parties reached
 
 # Other Instruments of Trade Policy  
 
-Tariffs are the simplest trade policies, but in the modern world, most government intervention in [international trade](../../Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md) takes other forms, such as export subsidies, import quotas, voluntary export restraints, and local content requirements. Fortunately, once we have understood tariffs, it is not too difficult to understand these other trade instruments.  
+Tariffs are the simplest trade policies, but in the modern world, most government intervention in international trade takes other forms, such as export subsidies, import quotas, voluntary export restraints, and local content requirements. Fortunately, once we have understood tariffs, it is not too difficult to understand these other trade instruments.  
 
 # Export Subsidies: Theory  
 
@@ -267,7 +267,7 @@ The effects of an export subsidy on prices are exactly the reverse of those of a
 
 An export subsidy raises prices in the exporting country while lowering them in the importing country.  
 
-![](images/53e2261e393f5287b983a7a4038cff44af1a3a1089e55117bb42f39fee483c05.jpg)  
+![](53e2261e393f5287b983a7a4038cff44af1a3a1089e55117bb42f39fee483c05.jpg)  
 
 # THE UNFRIENDLY SKIES: SETTLING THE LONGEST RUNNING TRADE DISPUTE  
 
@@ -279,7 +279,7 @@ In 2021, the United States and the European Union finally agreed to
 
 end their 17-year trade dispute regarding the production subsidies received by Boeing and Airbus (the world’s two largest passenger airplane manufacturers). In 2004, the United States filed a case with the WTO complaining that European-owned Airbus had received favorable loan agreements for the development of their new A380 and A350 jumbo jets. The European Union immediately filed a counterclaim that Boeing received tax rebates and favorable contracting terms from the U.S. government. Both governments claimed that the assistance received by the airplane manufacturers amounted to actionable export subsidies—given the global nature of the market for passenger jets and the intense competition between those two firms. Eventually, after 14 years of legal wrangling and multiple rounds of appeals, the WTO ruled in favor of both cases, allowing both the United States and the European Union to impose countervailing duties.  
 
-![](images/4281eba227feb92c01337ec3647e41c7d4e470809ddbe63e1e7b16541a75c394.jpg)  
+![](4281eba227feb92c01337ec3647e41c7d4e470809ddbe63e1e7b16541a75c394.jpg)  
 
 In 2019, the United States imposed tariffs on European wines and specialty food items. The European Union retaliated with tariffs on U.S. whiskey, nuts, and tobacco. After several additional retaliatory tariff rounds and a change in U.S. administrations, the Biden administration and the European Union agreed in 2021 to remove the tariffs and address the favorable financial treatments received by both airline manufacturers.  
 
@@ -293,7 +293,7 @@ The difference between a quota and a tariff is that with a quota, the government
 
 # Tariff-Rate Quota Origin and its Application in Practice with Oilseeds  
 
-In [international trade](../../Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md), oilseed products are one of the most highly traded agricultural products (others include grains and meat), making this trade one of crucial importance for many countries, either through production or utilization. Oilseeds are crops that have high oil content such as soybeans, rapeseed, sunflower, flax, and cottonseed. In 2001, about 80 percent of the world imports of oilseeds consisted of 11 percent soybeans, 9 percent rapeseed, and other types of oilseeds. Tariff quotas for these goods are more often applied than those for the traditionally protected products like dairy or sugar.  
+In international trade, oilseed products are one of the most highly traded agricultural products (others include grains and meat), making this trade one of crucial importance for many countries, either through production or utilization. Oilseeds are crops that have high oil content such as soybeans, rapeseed, sunflower, flax, and cottonseed. In 2001, about 80 percent of the world imports of oilseeds consisted of 11 percent soybeans, 9 percent rapeseed, and other types of oilseeds. Tariff quotas for these goods are more often applied than those for the traditionally protected products like dairy or sugar.  
 
 In practice, in 1990s world trade in oilseeds generally was characterized by “low to moderate” applied tariffs and bound tariff rates. The bound tariff rate, which is the maximum allowable rate under a country’s WTO commitments, in most cases is quite high, particularly in developing countries. For instance, the highest tariffs were imposed by Colombia (and Venezuela) with a 15 percent duty to its imports of soybeans in 2001, but it had a bound tariff rate of 97 percent under the WTO commitment. India had a 40 percent applied tariff, but imposed a 100 percent bound tariff rate. In general, tariff rates on oilseed products (for example, vegetable oils and oilseed meal) were much higher than those on whole oilseeds. This situation is called tariff escalation and its practice was designed for two main reasons: to protect both domestic oilseed crushing industry and vegetable oil refineries, and to discourage the development of processing activities in the countries of its origin.  
 
@@ -301,7 +301,7 @@ In Japan, for example, with limited domestic oilseed production, there was no ta
 
 Uruguay’s Round Agreement on Agriculture (URAA) had greatly influenced the process of trade barriers reduction and the major achievement was cut in tariff levels on agricultural products, lowering the volume of and expenditures on subsidized export and reducing domestic programs for agriculture. Participating developed countries in URAA were required to reduce existing tariffs on agricultural products on an average of 36 percent. Whereas developing countries had committed to smaller average tariff reductions of 24 percent and longer transition period compared to developed countries. Another important requirement was to convert existing nontariff agricultural trade barriers to tariffs, establishing a tariff-rate quota (TRQ).  
 
-The idea by TRQ was to impose a lower tariff rate to imports below a certain quantitative limit and higher tariffs to imports above that initial limit. As of URAA tariffs were to be reduced from the base levels to a bound level. According to URAA, the size of quota was aimed to be equal or greater than actual import levels during a recent period and required that out-of-quota bound tariff rates be reduced from the based tariff rates. In 1997 40 percent of 1,366 TRQs were supposed to increase their quotas, indicating easier market access.12 Of these TRQs, 124 (which is 9 percent) were applied to oilseeds and products. The 21 member states of the WTO notified having at least one TRQ on oilseeds or oilseed products. For instance, Iceland had 22 TRQs—Colombia, 20; Venezuela, 19; South Africa, 8; Guatemala, 7; and Thailand and Morocco had 6.13 The URAA fixed an upper bound on tariff levels for agricultural [commodities](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md), however these limits were often quite high, varying by country.  
+The idea by TRQ was to impose a lower tariff rate to imports below a certain quantitative limit and higher tariffs to imports above that initial limit. As of URAA tariffs were to be reduced from the base levels to a bound level. According to URAA, the size of quota was aimed to be equal or greater than actual import levels during a recent period and required that out-of-quota bound tariff rates be reduced from the based tariff rates. In 1997 40 percent of 1,366 TRQs were supposed to increase their quotas, indicating easier market access.12 Of these TRQs, 124 (which is 9 percent) were applied to oilseeds and products. The 21 member states of the WTO notified having at least one TRQ on oilseeds or oilseed products. For instance, Iceland had 22 TRQs—Colombia, 20; Venezuela, 19; South Africa, 8; Guatemala, 7; and Thailand and Morocco had 6.13 The URAA fixed an upper bound on tariff levels for agricultural commodities, however these limits were often quite high, varying by country.  
 
 # FIGURE 9-15 World Oilseed Tariff Rates in cents per kg  
 
@@ -309,7 +309,7 @@ Source: Oil Crops Situation and Outlook Yearbook, May 2007, Economic Research Se
 
 <html><body><table><tr><td></td><td>Base</td><td>Bound Tariff Rate (Rate of Over Quota</td><td>Applied Tariff</td></tr><tr><td>Country</td><td>Tariff Rate</td><td>Tariff)</td><td>(TRQ)</td></tr><tr><td>USA Mexico</td><td>0.7 25</td><td>0.45 22.5</td><td>0.53 15</td></tr><tr><td>Columbia,</td><td>108</td><td>97</td><td>15</td></tr><tr><td>Venezuela</td><td></td><td></td><td></td></tr><tr><td>Poland India</td><td>10 100</td><td>5 100</td><td>3 40</td></tr><tr><td>Malaysia</td><td>13</td><td>10</td><td>0</td></tr><tr><td></td><td></td><td></td><td></td></tr></table></body></html>  
 
-The establishment of TRQ aimed to bring more transparency of non-tariff barriers to trade and though was a major achievement, the level of trade creation resulting from these TRQs were quite modest. For TRQ quotas to be more effective and for the trade to be more liberalized, reduced tariffs (or elimination) on imports above the quota or increasing the quota level would be far better options for overall trade. The modest result was mostly linked to high over-quotas tariff rates, which was a barrier to trade in oilseeds and products. Overall tariff-rate quota became a more often used form of domestic market protection and in a way a gradual alternative to [international trade](../../Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md) liberalization form.  
+The establishment of TRQ aimed to bring more transparency of non-tariff barriers to trade and though was a major achievement, the level of trade creation resulting from these TRQs were quite modest. For TRQ quotas to be more effective and for the trade to be more liberalized, reduced tariffs (or elimination) on imports above the quota or increasing the quota level would be far better options for overall trade. The modest result was mostly linked to high over-quotas tariff rates, which was a barrier to trade in oilseeds and products. Overall tariff-rate quota became a more often used form of domestic market protection and in a way a gradual alternative to international trade liberalization form.  
 
 # PERSPECTIVE ON EU OILSEED MARKET  
 
@@ -349,7 +349,7 @@ As we describe in the following box, governments also face local content require
 
 # HEALTHCARE PROTECTION WITH LOCAL CONTENT REQUIREMENTS  
 
-ocal content requirements (LCR) are attracting more and more attention as a non-tariff form of protectionism providing domestic producers additional benefits over the foreign competitors. In fact, both developed and developing countries have turned their interest towards this policy. While LCR has been around for a long period of time, in recent years a substantial increase has been witnessed in the use of these restrictions, especially after the [financial crisis](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Letter.md) of 2008. Using LCR, various governments have put in efforts to improve domestic employment and industrial performance.  
+ocal content requirements (LCR) are attracting more and more attention as a non-tariff form of protectionism providing domestic producers additional benefits over the foreign competitors. In fact, both developed and developing countries have turned their interest towards this policy. While LCR has been around for a long period of time, in recent years a substantial increase has been witnessed in the use of these restrictions, especially after the financial crisis of 2008. Using LCR, various governments have put in efforts to improve domestic employment and industrial performance.  
 
 For example, the healthcare sector in Brazil is divided into three groups: medical services and hospitals, medical devices, and pharmaceuticals. While hospitals and other providers of medical services in Brazil cannot be owned by foreign companies, foreign companies are actively engaged in other healthcare sector groups: imported medical devices make around 60 percent and pharmaceuticals, 24 percent of Brazilian market. In 2011, the Brazilian pharmaceutical market was around $\$30$ billion, while the medical devices sector was more than 10 times bigger and made roughly $\$4$ billion. The Brazilian Ministry of Health controls the market of healthcare products and services through a licensing system. In order to sell either pharmaceutical or healthcare products, a producer (regardless the origin of the goods) must receive approval of the products registration as well as obtain a license.  
 
@@ -359,9 +359,9 @@ The idea of these requirements is to set a population’s sanitary control of pr
 
 Governments influence trade in many other ways. We list some of them briefly.  
 
-1.	 Export credit subsidies. This is like an export subsidy except that it takes the form of a subsidized loan to the buyer. The United States, like most other countries, has a government institution, the Export-Import Bank, devoted to providing at least slightly subsidized loans to aid exports.   
-2.	 National procurement. Purchases by the government or strongly regulated firms can be directed toward domestically produced goods even when these goods are more expensive than imports. In many countries, the major firms operating in sectors such as telecommunication, power generation and distribution, transportation, and mining are either partially or fully owned by the government. Those firms often face pressure to source from domestic suppliers.   
-3.	 Red-tape barriers. Sometimes a government wants to restrict imports without doing so formally. Fortunately or unfortunately, it is easy to twist normal health, safety, and customs procedures in order to place substantial obstacles in the way of trade. The classic example is the French decree in 1982 that all Japanese videocassette recorders had to pass through the tiny customs house at Poitiers (an inland city nowhere near a major port)—effectively limiting the actual imports to a handful.  
+[^1]: Export credit subsidies. This is like an export subsidy except that it takes the form of a subsidized loan to the buyer. The United States, like most other countries, has a government institution, the Export-Import Bank, devoted to providing at least slightly subsidized loans to aid exports.
+[^2]: National procurement. Purchases by the government or strongly regulated firms can be directed toward domestically produced goods even when these goods are more expensive than imports. In many countries, the major firms operating in sectors such as telecommunication, power generation and distribution, transportation, and mining are either partially or fully owned by the government. Those firms often face pressure to source from domestic suppliers.
+[^3]: Red-tape barriers. Sometimes a government wants to restrict imports without doing so formally. Fortunately or unfortunately, it is easy to twist normal health, safety, and customs procedures in order to place substantial obstacles in the way of trade. The classic example is the French decree in 1982 that all Japanese videocassette recorders had to pass through the tiny customs house at Poitiers (an inland city nowhere near a major port)—effectively limiting the actual imports to a handful.
 
 # The Effects of Trade Policy: A Summary  
 
@@ -369,15 +369,15 @@ The effects of the major instruments of trade policy are usefully summarized by 
 
 <html><body><table><tr><td>TABLE 9-1</td><td colspan="4">Effects of Alternative TradePolicies</td></tr><tr><td>Policy</td><td> Tariff</td><td>Export Subsidy</td><td>Import Quota</td><td>Voluntary Export Restraint</td></tr><tr><td>Producer surplus Consumer surplus</td><td>Increases</td><td>Increases Falls</td><td>Increases Falls</td><td>Increases Falls</td></tr><tr><td>Government revenue</td><td>Falls Increases</td><td>Falls (government</td><td>No change (rents to license</td><td>No change (rents to foreigners)</td></tr><tr><td>Overall national</td><td>Ambiguous</td><td>spending rises) Falls</td><td>holders) Ambiguous</td><td>Falls</td></tr><tr><td>welfare</td><td>(falls for small country)</td><td></td><td>(falls for small country)</td><td></td></tr></table></body></html>  
 
-This table certainly does not look like an advertisement for interventionist trade policy. All four trade policies benefit producers and hurt consumers. The effects of the policies on [economic welfare](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) are at best ambiguous; two of the policies definitely hurt the nation as a whole, while tariffs and import quotas are potentially beneficial only for large countries that can drive down world prices.  
+This table certainly does not look like an advertisement for interventionist trade policy. All four trade policies benefit producers and hurt consumers. The effects of the policies on economic welfare are at best ambiguous; two of the policies definitely hurt the nation as a whole, while tariffs and import quotas are potentially beneficial only for large countries that can drive down world prices.  
 
 Why, then, do governments so often act to limit imports or promote exports? We turn to this question in Chapter 10.  
 
-1.	 In contrast to our earlier analysis, which stressed the general equilibrium interaction of markets, for analysis of trade policy it is usually sufficient to use a partial equilibrium approach.   
-2.	 A tariff drives a wedge between foreign and domestic prices, raising the domestic price but by less than the tariff rate. An important and relevant special case, however, is that of a “small” country that cannot have any substantial influence on foreign prices. In the small-country case, a tariff is fully reflected in domestic prices.   
-3.	 The costs and benefits of a tariff or other trade policy may be measured using the concepts of consumer surplus and producer surplus. Using these concepts, we can show that the domestic producers of a good gain because a tariff raises the price they receive; the domestic consumers lose, for the same reason. There is also a gain in government revenue.   
-4.	 If we add together the gains and losses from a tariff, we find that the net effect on national welfare can be separated into two parts: On one hand is an efficiency loss, which results from the distortion in the incentives facing domestic producers and consumers. On the other hand is a terms of trade gain, reflecting the tendency of a tariff to drive down foreign export prices. In the case of a small country that cannot affect foreign prices, the second effect is zero, so that there is an unambiguous loss.   
-5.	 The analysis of a tariff can be readily adapted to analyze other trade policy measures, such as export subsidies, import quotas, and voluntary export restraints. An export subsidy causes efficiency losses similar to those of a tariff but compounds these losses by causing a deterioration of the terms of trade. Import quotas and voluntary export restraints differ from tariffs in that the government gets no revenue. Instead, what would have been government revenue accrues as rents to the recipients of import licenses (in the case of a quota) and to foreigners (in the case of a voluntary export restraint).   
+[^1]: In contrast to our earlier analysis, which stressed the general equilibrium interaction of markets, for analysis of trade policy it is usually sufficient to use a partial equilibrium approach.
+[^2]: A tariff drives a wedge between foreign and domestic prices, raising the domestic price but by less than the tariff rate. An important and relevant special case, however, is that of a “small” country that cannot have any substantial influence on foreign prices. In the small-country case, a tariff is fully reflected in domestic prices.
+[^3]: The costs and benefits of a tariff or other trade policy may be measured using the concepts of consumer surplus and producer surplus. Using these concepts, we can show that the domestic producers of a good gain because a tariff raises the price they receive; the domestic consumers lose, for the same reason. There is also a gain in government revenue.
+[^4]: If we add together the gains and losses from a tariff, we find that the net effect on national welfare can be separated into two parts: On one hand is an efficiency loss, which results from the distortion in the incentives facing domestic producers and consumers. On the other hand is a terms of trade gain, reflecting the tendency of a tariff to drive down foreign export prices. In the case of a small country that cannot affect foreign prices, the second effect is zero, so that there is an unambiguous loss.
+[^5]: The analysis of a tariff can be readily adapted to analyze other trade policy measures, such as export subsidies, import quotas, and voluntary export restraints. An export subsidy causes efficiency losses similar to those of a tariff but compounds these losses by causing a deterioration of the terms of trade. Import quotas and voluntary export restraints differ from tariffs in that the government gets no revenue. Instead, what would have been government revenue accrues as rents to the recipients of import licenses (in the case of a quota) and to foreigners (in the case of a voluntary export restraint).
 ad valorem tariff, p. 242   
 consumer surplus, p. 248   
 consumption distortion loss, p. 252   
@@ -401,7 +401,7 @@ tariff equivalent, p. 261
 terms of trade gain, p. 252   
 voluntary export restraint (VER), p. 264  
 
-1.	 Home’s demand curve for books is  
+[^1]: Home’s demand curve for books is
 $$
 D=50-10P. 
 $$  
@@ -413,7 +413,7 @@ $$
 
 Derive and graph Home’s import demand schedule. What would the price of books be in the absence of trade?  
 
-2.	 Now add Foreign, which has a demand curve  
+[^2]: Now add Foreign, which has a demand curve
 $$
 D^{*}=60-10P
 $$  
@@ -426,13 +426,13 @@ $$
 a.	 Derive and graph Foreign’s export supply curve and find the price of books that would prevail in Foreign in the absence of trade.   
 b.	 Now allow Foreign and Home to trade with each other, at zero transportation cost. Find and graph the equilibrium under free trade. What is the world price? What is the volume of trade?  
 
-3.	 Home imposes a specific tariff of 1.5 on books imports.  
+[^3]: Home imposes a specific tariff of 1.5 on books imports.
 
 a.	 Determine and graph the effects of the tariff on the following: (1) the price of books in each country; (2) the quantity of books supplied and demanded in each country; (3) the volume of trade.   
 b.	 Determine the effect of the tariff on the welfare of each of the following groups: (1) Home import-competing producers; (2) Home consumers; (3) the Home government.   
 c.	 Show graphically and calculate the terms of trade gain, the efficiency loss and the total effect on welfare of the tariff.  
 
-4.	 Suppose Foreign had been a much smaller country with domestic demand.  
+[^4]: Suppose Foreign had been a much smaller country with domestic demand.
 $$
 D^{*}=8-2P,S^{*}=4+2P.
 $$  
@@ -441,17 +441,17 @@ $$
 
 Recalculate the free trade equilibrium and the effects of a 1.5 specific tariff by Home. Relate the difference in results to the discussion of the small-country case in the text.  
 
-5.	 What would be the effective rate of protection on bicycles in China if China places a 50 percent tariff on bicycles, which have a world price of $\$200$ , and no tariff on bike components, which together have a world price of $\$100?$   
-6.	 For a company that produces candy canes, sugar is 70 percent of its ingredient costs. The United States limits the imports of sugar to protect cane farmers, which has led to an increase in the price of sugar by about 25 percent relative to what it would be otherwise. Suppose your country, however, allows free trade in candy canes, which are made with sugar that accounts for approximately 65 percent of its cost. What is the effective rate of protection on the process of turning sugar into candy canes?   
-7.	 Return to the example of Problem 2. Starting from free trade, assume that Foreign offers exporters a subsidy of 1.5 per unit. Calculate the effects on the price in each country and on welfare, both of individual groups and of the economy as a whole in both countries.  
+[^5]: What would be the effective rate of protection on bicycles in China if China places a 50 percent tariff on bicycles, which have a world price of $\$200$ , and no tariff on bike components, which together have a world price of $\$100?$
+[^6]: For a company that produces candy canes, sugar is 70 percent of its ingredient costs. The United States limits the imports of sugar to protect cane farmers, which has led to an increase in the price of sugar by about 25 percent relative to what it would be otherwise. Suppose your country, however, allows free trade in candy canes, which are made with sugar that accounts for approximately 65 percent of its cost. What is the effective rate of protection on the process of turning sugar into candy canes?
+[^7]: Return to the example of Problem 2. Starting from free trade, assume that Foreign offers exporters a subsidy of 1.5 per unit. Calculate the effects on the price in each country and on welfare, both of individual groups and of the economy as a whole in both countries.
 
-8.	 Use your knowledge about trade policy to evaluate each of the following statements:  
+[^8]: Use your knowledge about trade policy to evaluate each of the following statements:
 
 a.	 “Tariffs on imported goods will increase domestic price, leading to high unemployment.”   
 b.	 “High tariffs and quotas can result in trade wars between nations.”   
 c.	 “Smartphone manufacturing jobs are heading back to the U.S. because wages started to rise in China. As a result, we should implement tariffs on smartphones equal to the difference between the U.S. and China’s wage rates.”  
 
-9.	 The nation of Cologne is “large,” but unable to affect world prices. It imports chocolate at the price of $\$20$ per box. The demand curve is:  
+[^9]: The nation of Cologne is “large,” but unable to affect world prices. It imports chocolate at the price of $\$20$ per box. The demand curve is:
 $$
 D=700-10P. 
 $$  
@@ -467,23 +467,23 @@ a.	 The increase in the domestic price.
 b.	 The quota rents.   
 c.	 The consumption distortion loss.   
 d.	 The production distortion loss.   
-10.	 If tariffs are already in place as a trade policy, why might a country choose to apply nontariff barriers also as another way to control the amount of trade that they conduct with other countries?   
-11.	 Suppose workers involved in manufacturing are paid less than all other workers in the economy. What would be the effect on the real income distribution within the economy if there were a substantial tariff levied on manufactured goods?   
-Jagdish Bhagwati. “On the Equivalence of Tariffs and Quotas,” in Robert E. Baldwin et al., eds. Trade, Growth, and the [Balance of Payments](../../The%20Balance%20of%20Payments.md). Chicago: Rand McNally, 1965. The classic comparison of tariffs and quotas under monopoly.   
-W. M. Corden. The Theory of Protection. Oxford: Clarendon Press, 1971. A general survey of the [effects of tariffs](../../Bridgewater/Bridgewater%20Articles/The%20Effects%20of%20Tariffs%20How%20the%20Machine%20Works.md), quotas, and other trade policies.   
+[^10]: If tariffs are already in place as a trade policy, why might a country choose to apply nontariff barriers also as another way to control the amount of trade that they conduct with other countries?
+[^11]: Suppose workers involved in manufacturing are paid less than all other workers in the economy. What would be the effect on the real income distribution within the economy if there were a substantial tariff levied on manufactured goods?
+Jagdish Bhagwati. “On the Equivalence of Tariffs and Quotas,” in Robert E. Baldwin et al., eds. Trade, Growth, and the Balance of Payments. Chicago: Rand McNally, 1965. The classic comparison of tariffs and quotas under monopoly.   
+W. M. Corden. The Theory of Protection. Oxford: Clarendon Press, 1971. A general survey of the effects of tariffs, quotas, and other trade policies.   
 Robert W. Crandall. Regulating the Automobile. Washington, D.C.: Brookings Institution, 1986. Contains an analysis of the most famous of all voluntary export restraints.   
 Robert C. Feenstra. “How Costly Is Protectionism?” Journal of Economic Perspectives 6 (1992), pp. 159–178. A survey article summarizing the empirical work measuring the costs associated with protectionist policies.   
 Gary Clyde Hufbauer and Kimberly Ann Elliot. Measuring the Costs of Protection in the United States. Washington, D.C.: Institute for International Economics, 1994. An assessment of U.S. trade policies in 21 different sectors.   
 Kala Krishna. “Trade Restrictions as Facilitating Practices.” Journal of International Economics 26 (May 1989), pp. 251–270. A pioneering analysis of the effects of import quotas when both foreign and domestic producers have monopoly power, showing that the usual result is an increase in the profits of both groups—at consumers’ expense.   
 Patrick Messerlin. Measuring the Costs of Protection in Europe: European Commercial Policy in the 2000s. Washington, D.C.: Institute for International Economics, 2001. A survey of European trade policies and their effects, similar to Hufbauer and Elliot’s work for the United States.   
-D. Rousslang and A. Suomela. “Calculating the Consumer and Net Welfare Costs of Import Relief.” U.S. [International Trade](../../Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md) Commission Staff Research Study 15. Washington, D.C.: [International Trade](../../Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md) Commission, 1985. An exposition of the framework used in this chapter, with a description of how the framework is applied in practice to real industries.   
-U.S. [International Trade](../../Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md) Commission. The Economic Effects of Significant U.S. Import Restraints. Washington, D.C., 2009. A regularly updated economic analysis of the effects of protection on the U.S. economy.  
+D. Rousslang and A. Suomela. “Calculating the Consumer and Net Welfare Costs of Import Relief.” U.S. International Trade Commission Staff Research Study 15. Washington, D.C.: International Trade Commission, 1985. An exposition of the framework used in this chapter, with a description of how the framework is applied in practice to real industries.   
+U.S. International Trade Commission. The Economic Effects of Significant U.S. Import Restraints. Washington, D.C., 2009. A regularly updated economic analysis of the effects of protection on the U.S. economy.  
 
 # Tariffs and Import Quotas in the Presence of Monopoly  
 
-The trade policy analysis in this chapter assumed that markets are perfectly competitive, so that all firms take prices as given. As we argued in Chapter 8, however, many markets for internationally traded goods are imperfectly competitive. The effects of [international trade](../../Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md) policies can be affected by the nature of the competition in a market.  
+The trade policy analysis in this chapter assumed that markets are perfectly competitive, so that all firms take prices as given. As we argued in Chapter 8, however, many markets for internationally traded goods are imperfectly competitive. The effects of international trade policies can be affected by the nature of the competition in a market.  
 
-When we analyze the effects of trade policy in imperfectly competitive markets, a new consideration appears: [International trade](../../Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md) limits monopoly power, and policies that limit trade may therefore increase monopoly power. Even if a firm is the only producer of a good in a country, it will have little ability to raise prices if there are many foreign suppliers and free trade. If imports are limited by a quota, however, the same firm will be free to raise prices without fear of competition.  
+When we analyze the effects of trade policy in imperfectly competitive markets, a new consideration appears: International trade limits monopoly power, and policies that limit trade may therefore increase monopoly power. Even if a firm is the only producer of a good in a country, it will have little ability to raise prices if there are many foreign suppliers and free trade. If imports are limited by a quota, however, the same firm will be free to raise prices without fear of competition.  
 
 The link between trade policy and monopoly power may be understood by examining a model in which a country imports a good and its import-competing production is controlled by only one firm. The country is small on world markets, so the price of the import is unaffected by its trade policy. For this model, we examine and compare the effects of free trade, a tariff, and an import quota.  
 
@@ -497,11 +497,11 @@ The threat of import competition forces the monopolist to behave like a perfectl
 
 Figure 9A-1 shows free trade in a market where a domestic monopolist faces competition from imports. $D$ is the domestic demand curve: demand for the product by domestic residents. $P_{W}$ is the world price of the good; imports are available in unlimited quantities at that price. The domestic industry is assumed to consist of only a single firm, whose marginal cost curve is $M C.$ .  
 
-![](images/028bafb59f9074b7cfe972e6608a68ca156c876f87b3a3107498770da6117b80.jpg)  
+![](028bafb59f9074b7cfe972e6608a68ca156c876f87b3a3107498770da6117b80.jpg)  
 
 If there were no trade in this market, the domestic firm would behave as an ordinary profit-maximizing monopolist. Corresponding to $D$ is a marginal revenue curve $M R$ , and the firm would choose the monopoly profit-maximizing level of output $Q_{M}$ and price $P_{M}$ .  
 
-With free trade, however, this monopoly behavior is not possible. If the firm tried to charge $P_{M}$ , or indeed any price above $P_{W}$ , nobody would buy its product because cheaper imports would be available. Thus [international trade](../../Globalization/Chapter%202-The%20Principle%20Of%20Comparative%20Advantage.md) puts a lid on the monopolist’s price at $P_{W}$ .  
+With free trade, however, this monopoly behavior is not possible. If the firm tried to charge $P_{M}$ , or indeed any price above $P_{W}$ , nobody would buy its product because cheaper imports would be available. Thus international trade puts a lid on the monopolist’s price at $P_{W}$ .  
 
 Given this limit on its price, the best the monopolist can do is produce up to the point where marginal cost is equal to the world price, at $Q_{f}.$ At the price $P_{W},$ domestic consumers will demand $D_{f}$ units of the good, so imports will be $D_{f}-Q_{f}.$ This outcome, however, is exactly what would have happened if the domestic industry had been perfectly competitive. With free trade, then, the fact that the domestic industry is a monopoly does not make any difference in the outcome.  
 
@@ -515,7 +515,7 @@ The effect of a tariff is to raise the maximum price the domestic industry can c
 
 The tariff allows the monopolist to raise its price, but the price is still limited by the threat of imports.  
 
-![](images/435cf35eab9ca96c64de01f83861e43b2feedbd062d105ae2f167567e2d857f8.jpg)  
+![](435cf35eab9ca96c64de01f83861e43b2feedbd062d105ae2f167567e2d857f8.jpg)  
 
 # The Model with an Import Quota  
 
@@ -537,7 +537,7 @@ The reason for this difference is that an import quota creates more monopoly pow
 
 The monopolist is now free to raise prices, knowing that the domestic price of imports will rise too.  
 
-![](images/834c0d8b56e57cf50a5aa33f1376b8f545eba068f62c6fab99d5f7df745892d1.jpg)  
+![](834c0d8b56e57cf50a5aa33f1376b8f545eba068f62c6fab99d5f7df745892d1.jpg)  
 
 # FIGURE 9A-4  
 
@@ -545,6 +545,6 @@ The monopolist is now free to raise prices, knowing that the domestic price of i
 
 A quota leads to lower domestic output and a higher price than a tariff that yields the same level of imports.  
 
-![](images/a29a3f9aff952deef07ad31c32768350af241682b89c19ce938e26223222396a.jpg)  
+![](a29a3f9aff952deef07ad31c32768350af241682b89c19ce938e26223222396a.jpg)  
 
-This comparison seems to say that if governments are concerned about domestic monopoly power, they should prefer tariffs to quotas as instruments of trade policy. In fact, however, protection has increasingly drifted away from tariffs toward nontariff barriers, including import quotas. To explain this, we need to look at considerations other than economic efficiency that motivate governments.  
+This comparison seems to say that if governments are concerned about domestic monopoly power, they should prefer tariffs to quotas as instruments of trade policy. In fact, however, protection has increasingly drifted away from tariffs toward nontariff barriers, including import quotas. To explain this, we need to look at considerations other than economic efficiency that motivate governments.

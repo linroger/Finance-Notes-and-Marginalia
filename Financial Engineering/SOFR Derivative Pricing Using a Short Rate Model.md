@@ -22,19 +22,19 @@ key_concepts:
 
 # Abstract  
 
-In 2017 the Alternative Reference Rate Committee (ARRC) recommended the [Secured Overnight Financing Rate](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2010/SOFR.md) (SOFR) as the replacement for UsD LIBOR as the reference rate for use in [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) and [financial contracts](../Contemporary%20Financial%20Intermediation%20Notes/Contemporary%20Financial%20Intermediation%20Notes.md). Since then SOFR-linked [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) started to develop and their liquidities have also improved gradually. Compared to LIBOR [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md), [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) [SOFR derivatives](.md) poses additional challenges, for example, complexity due to rate averaging and [convexity adjustment](Derivatives/Part%20II%20-%20Fixed%20Income%20Cash%20Markets/Chapter%2010%20-%20Bonds:%20Duration%20and%20Convexity.md) due to timing mismatch. In this paper we propose Gaussian [affine term structure models](.md) as a natural choice to address these challenges. Because of the advantages of affine models and [Gaussian models](.md) we derive [analytic pricing formula](.md) for forward SOFR term rates as well as future SOFR term rates, which can then be used to price most linear SOFR products. Furthermore, since the [short rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) is normally distributed, [closed-form solutions](Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2040%20-%20Pricing%20Fixed%20Income%20Options:%20Black’s%20Model%20and%20MCS.md) based on [Black-Scholes](Mathematical%20Modeling%20of%20Derivative%20Pricing.md) or Bachelier formula are also derived for European SOFR options, including SOFR swaptions, SOFR cap/floor and options on [SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md). Although American options cannot be priced analytically, efficient numerical methods are developed by combining lattice and analytic formula.  
+In 2017 the Alternative Reference Rate Committee (ARRC) recommended the Secured Overnight Financing Rate (SOFR) as the replacement for UsD LIBOR as the reference rate for use in derivatives and financial contracts. Since then SOFR-linked derivatives started to develop and their liquidities have also improved gradually. Compared to LIBOR derivatives, pricing SOFR derivatives poses additional challenges, for example, complexity due to rate averaging and convexity adjustment due to timing mismatch. In this paper we propose Gaussian affine term structure models as a natural choice to address these challenges. Because of the advantages of affine models and Gaussian models we derive analytic pricing formula for forward SOFR term rates as well as future SOFR term rates, which can then be used to price most linear SOFR products. Furthermore, since the short rate is normally distributed, closed-form solutions based on Black-Scholes or Bachelier formula are also derived for European SOFR options, including SOFR swaptions, SOFR cap/floor and options on SOFR futures. Although American options cannot be priced analytically, efficient numerical methods are developed by combining lattice and analytic formula.  
 
 # Key words:  
 
-SOFR, Averaging, Affine, Hull-White, Swaption, Option, [Futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md), Callable Floater, [Convexity Adjustment](Derivatives/Part%20II%20-%20Fixed%20Income%20Cash%20Markets/Chapter%2010%20-%20Bonds:%20Duration%20and%20Convexity.md)  
+SOFR, Averaging, Affine, Hull-White, Swaption, Option, Futures, Callable Floater, Convexity Adjustment  
 
 # 1. Introduction  
 
-The [Secured Overnight Financing Rate](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2010/SOFR.md) (SOFR) is the cost of borrowing overnight collateralized by [Treasury securities](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/US%20Markets.md), i.e. [overnight Treasury repo rate](.md). The SOFR is published by the New York Federal Reserve Bank publishes the SOFR on a daily basis. Unlike Libor, SOFR is an actual transaction rate. It is calculated as the volume-weighted median rate of all eligible transactions. SOFR typically trades close to overnight LIBOR, but with higher volatility due to its methodology and wide dispersion in bilateral repo data.  
+The Secured Overnight Financing Rate (SOFR) is the cost of borrowing overnight collateralized by Treasury securities, i.e. overnight Treasury repo rate. The SOFR is published by the New York Federal Reserve Bank publishes the SOFR on a daily basis. Unlike Libor, SOFR is an actual transaction rate. It is calculated as the volume-weighted median rate of all eligible transactions. SOFR typically trades close to overnight LIBOR, but with higher volatility due to its methodology and wide dispersion in bilateral repo data.  
 
-As the SOFR is expected to replace Libor as the index of choice sometimes in 2021, the SOFR linked derivative market started to develop in the past few years, and its [liquidity](../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Class%20Note%2010%20Liquidity%20and%20Class%20Note%2010%20Liquidity%20and%20Liquidity%20Managementliquidity%20management.md) greatly improved.  
+As the SOFR is expected to replace Libor as the index of choice sometimes in 2021, the SOFR linked derivative market started to develop in the past few years, and its liquidity greatly improved.  
 
-[SOFR derivatives](.md) tend to use an averaged overnight rate over a given period, which is often either [simple interest](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) (Arithmetic Average) or [compound interest](../Financial%20Instruments/Review%20Session%20Notes/Continuously%20Compounding%20Interest.md) (Geometric Average) (ARCc, 2021)  
+SOFR derivatives tend to use an averaged overnight rate over a given period, which is often either simple interest (Arithmetic Average) or compound interest (Geometric Average) (ARCc, 2021)  
 $$
 R_{G}=\left[\prod_{i=1}^{d_{b}}\left(1+\frac{r_{i}\times n_{i}}{N}\right)-1\right]\times\frac{N}{d_{c}}
 $$  
@@ -62,21 +62,21 @@ $$
 R_{A}=\left[\sum_{i=1}^{d_{b}}{\frac{r_{i}\times n_{i}}{N}}\right]\times{\frac{N}{d_{c}}}\approx\left(\int_{t}^{T}r_{u}d u\right){\frac{1}{T-t}}={\frac{\ln{\frac{1}{D(t,T)}}}{T-t}}
 $$  
 
-which is similar to continuous compounded [forward rate](../Clippings/Forward%20Points%20in%20Currency.md).  
+which is similar to continuous compounded forward rate.  
 
-Although [compound interest](../Financial%20Instruments/Review%20Session%20Notes/Continuously%20Compounding%20Interest.md) is the more economically correct convention, [simple interest](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) is easier to calculate in practice and most existing system can accommodate it. On the other hand, [simple interest](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md). makes [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) much more complicated because of the extra [convexity adjustment](Derivatives/Part%20II%20-%20Fixed%20Income%20Cash%20Markets/Chapter%2010%20-%20Bonds:%20Duration%20and%20Convexity.md) that requires a. [stochastic interest rate model](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md).  
+Although compound interest is the more economically correct convention, simple interest is easier to calculate in practice and most existing system can accommodate it. On the other hand, simple interest. makes pricing much more complicated because of the extra convexity adjustment that requires a. stochastic interest rate model.  
 
 Moreover, the fixing of the floating rate of a SOFR derivative can be either in-advance or in-arrears. An. in-advance structure would reference an average of SOFR observed before the beginning of the current interest period, while an in-arrears structure would reference an average of SOFR over the current  
 
 interest period. An average of SOFR in-arrears will reflect what actually happens over the period, but loan borrowers usually prefer to know their payments ahead of time, i.e. in-advance fixing..  
 
-In the case of average SOFR fixing, extra time is also necessary in order to wait for the daily SOFR to be published and the average SOFR rate to be calculated and posted (c.g. ARcC, 2021). This results in. additional [convexity adjustment](Derivatives/Part%20II%20-%20Fixed%20Income%20Cash%20Markets/Chapter%2010%20-%20Bonds:%20Duration%20and%20Convexity.md) because of timing lags.  
+In the case of average SOFR fixing, extra time is also necessary in order to wait for the daily SOFR to be published and the average SOFR rate to be calculated and posted (c.g. ARcC, 2021). This results in. additional convexity adjustment because of timing lags.  
 
-Thus, all of these, including averaging and timing lags, add to the complexity of [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) [SOFR derivatives](.md). In order to deal with them a [short rate model](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) seems a natural choice. In the following we will discuss [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) methods for various [SOFR derivatives](.md) using a [short rate model](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md). The rest of the paper is organized. as follows: section 2 defines forward SOFR term rates and describes how to build a [SOFR curve](../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Markets%20Homework%203.md) usinge. [SOFR swaps](../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md); section 3 applies a Gaussian mean-reverting model to model the dynamics of continuous. SOFR rate and derives forward and [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) SOFR term rates; section 4 derives analytic [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formulas. for various [SOFR derivatives](.md) based on the [SOFR curve](../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Markets%20Homework%203.md) and SOFR [short rate model](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md); and section 5 concludes the paper.  
+Thus, all of these, including averaging and timing lags, add to the complexity of pricing SOFR derivatives. In order to deal with them a short rate model seems a natural choice. In the following we will discuss pricing methods for various SOFR derivatives using a short rate model. The rest of the paper is organized. as follows: section 2 defines forward SOFR term rates and describes how to build a SOFR curve usinge. SOFR swaps; section 3 applies a Gaussian mean-reverting model to model the dynamics of continuous. SOFR rate and derives forward and futures SOFR term rates; section 4 derives analytic pricing formulas. for various SOFR derivatives based on the SOFR curve and SOFR short rate model; and section 5 concludes the paper.  
 
 # 2. Forward SOFR Term Rate and SOFR Curve  
 
-2.1 Forward SOFR Term Rate  
+[^2]: 1 Forward SOFR Term Rate
 
 While the overnight treasury repo market underlying SOFR is extraordinarily deep, term repo markets are much thinner, and thus it would not be possible to build a robust forward-looking term rate off the term Treasury repo market.  
 
@@ -105,44 +105,44 @@ $$
 f_{R_{G}}(t)=E^{T_{i}}[R_{G}]=\frac{1}{\delta}\frac{V(t)}{P(t,T_{i})}=\frac{1}{\delta}\Bigg(\frac{P(t,T_{i-1})}{P(t,T_{i})}-1\Bigg)
 $$  
 
-which can be calculated from a [discount curve](../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) $\{\mathsf{P}(\mathtt{t},\top)\}$  
+which can be calculated from a discount curve $\{\mathsf{P}(\mathtt{t},\top)\}$  
 
 Similarly, we can define the forward-looking SOFR term rate for the arithmetic average of SOFR rate as the expected rate under the ${\sf T}_{\mathrm{i}}$ forward measure  
 $$
 f_{R_{A}}(t)=E^{T_{i}}[R_{A}]=\frac{1}{T_{i}-T_{i-1}}\int_{T_{i-1}}^{T_{i}}E^{T_{i}}[r_{u}]d u
 $$  
 
-which cannot be calculated directly from a [discount curve](../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) without an [interest rate model](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md).  
+which cannot be calculated directly from a discount curve without an interest rate model.  
 
 Thus, in order to calculate forward SOFR term rates at least a SOFR forward curve is required.  
 
 # 2.2 Build Forward SOFR Curve  
 
-Similar to any other yield curves, a [SOFR curve](../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Markets%20Homework%203.md) can be built by matching the market quotes of SOFR-. linked instruments. However, during the LIBOR era and after the LIBOR era, the choice of instrument is different.  
+Similar to any other yield curves, a SOFR curve can be built by matching the market quotes of SOFR-. linked instruments. However, during the LIBOR era and after the LIBOR era, the choice of instrument is different.  
 
-Before the LIBOR completely retires, the SOFR market is not deep enough and a [SOFR curve](../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Markets%20Homework%203.md) can be built using [SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) and SOFR-LIBOR basis swaps.  
+Before the LIBOR completely retires, the SOFR market is not deep enough and a SOFR curve can be built using SOFR futures and SOFR-LIBOR basis swaps.  
 
-After the LIBOR retires, a [SOFR curve](../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Markets%20Homework%203.md) can be built using 3M [SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) (short-end) up to 20 months and [SOFR swaps](../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) (long-end) from 2 years on..  
+After the LIBOR retires, a SOFR curve can be built using 3M SOFR futures (short-end) up to 20 months and SOFR swaps (long-end) from 2 years on..  
 
-Since a SOFR [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) is related to the corresponding [SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) rate  
+Since a SOFR forward rate is related to the corresponding SOFR futures rate  
 $$
 \begin{array}{c}{{f_{R}(t)=E^{T}[R]=\displaystyle\frac{1}{\delta}\bigg(\frac{P(t,T_{0})}{P(t,T)}-1\bigg)=E[R]+C o n v e x i t y A d j u s t m e n t}}\ {{=F_{R}(t)+C o n v e x i t y A d j u s t m e n t}}\end{array}
 $$  
 
-SOFR discount factors can be calibrated using [SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) rates together with [convexity adjustment](Derivatives/Part%20II%20-%20Fixed%20Income%20Cash%20Markets/Chapter%2010%20-%20Bonds:%20Duration%20and%20Convexity.md).  
+SOFR discount factors can be calibrated using SOFR futures rates together with convexity adjustment.  
 
-SOFR [fixed vs floating](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%204%20-%20Swap%20Markets/Fundamentals%20of%20Swaps.md) swaps are valued in a similar way to LIBOR vanilla swaps and thus can be used to calibrate long term rates. The valuation of [SOFR swaps](../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) will be discussed in detail later.  
+SOFR fixed vs floating swaps are valued in a similar way to LIBOR vanilla swaps and thus can be used to calibrate long term rates. The valuation of SOFR swaps will be discussed in detail later.  
 
 # 3. SOFR Short Rate Model  
 
-Corresponding to SOFR rate, instantaneous [short rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) models, including both [spot rate](../International%20Finance/The%20Foreign%20Exchange%20Market%20Annotations.md) and [forward rate](../Clippings/Forward%20Points%20in%20Currency.md), seem to be a natural choice for modeling interest rate dynamics..  
+Corresponding to SOFR rate, instantaneous short rate models, including both spot rate and forward rate, seem to be a natural choice for modeling interest rate dynamics..  
 
-Assume the [short rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) follows a mean-reverting Gaussian process, i.e. [Hull-White model](../Course%20Notes/Python/QuantLib-Python/On%20the%20Convergence%20of%20Hull%20White%20Monte%20Carlo%20Simulations.md), (c.g. Brigo and Mercurio, 2001)  
+Assume the short rate follows a mean-reverting Gaussian process, i.e. Hull-White model, (c.g. Brigo and Mercurio, 2001)  
 $$
 \begin{array}{c}{r(t)=\varphi(t)+x(t)}\ {\quad}\ {d x_{t}=-k x_{t}d t+\sigma(t)d W}\end{array}
 $$  
 
-whose model parameters can be first calibrated to swaption volatilities. Moreover, the drift parameter, $\varphi({\sf t}).$ , is tuned to match the [SOFR curve](../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Markets%20Homework%203.md) [term structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) before it is used to price SOFR instruments, i.e.  
+whose model parameters can be first calibrated to swaption volatilities. Moreover, the drift parameter, $\varphi({\sf t}).$ , is tuned to match the SOFR curve term structure before it is used to price SOFR instruments, i.e.  
 $$
 e x p\left(-\int_{0}^{T}\varphi(t)d t\right)E\left[e x p\left(-\int_{0}^{T}x(t)d t\right)\right]=P(t,T)
 $$  
@@ -154,12 +154,12 @@ $$
 
 whose strong solution is given by  
 $$
-x(\tau)=E^{T_{i}}[x(\tau)|\mathcal{F}_{t}]+\exp{(-k\tau)}\int_{t}^{\tau}\exp{(k u)}\sigma(u)d W_{u}^{r,T_{i}}
+x(\tau)=E^{T_{i}}[x(\tau) | \mathcal{F}_{t}]+\exp{(-k\tau)}\int_{t}^{\tau}\exp{(k u)}\sigma(u)d W_{u}^{r,T_{i}}
 $$  
 
 with  
 $$
-\langle{\boldsymbol\tau})|{\mathcal{F}_{t}}\right]=e x p\left(-\int_{t}^{\tau}\kappa(u)d u\right)\boldsymbol{x}(t)-e x p\left(-\int_{t}^{\tau}\kappa(u)d u\right)\int_{t}^{\tau}{e x p\left(\int_{t}^{u}\kappa(v)d v\right)}\boldsymbol{B}(u,T_{i})d u,
+\langle{\boldsymbol\tau}) | {\mathcal{F}_{t}}\right]=e x p\left(-\int_{t}^{\tau}\kappa(u)d u\right)\boldsymbol{x}(t)-e x p\left(-\int_{t}^{\tau}\kappa(u)d u\right)\int_{t}^{\tau}{e x p\left(\int_{t}^{u}\kappa(v)d v\right)}\boldsymbol{B}(u,T_{i})d u,
 $$  
 
 where  
@@ -174,14 +174,14 @@ $$
 
 and  
 $$
-)=E^{T_{i}}[R_{A}]={\frac{1}{T_{i}-T_{i-1}}}\int_{T_{i-1}}^{T_{i}}E^{T_{i}}[r_{u}]d u={\frac{1}{T_{i}-T_{i-1}}}\left(\int_{T_{i-1}}^{T_{i}}\varphi(u)d u+\int_{T_{i-1}}^{T_{i}}E^{T_{i}}[x(u)|{\mathcal{F}}_{t}]d u\right).
+)=E^{T_{i}}[R_{A}]={\frac{1}{T_{i}-T_{i-1}}}\int_{T_{i-1}}^{T_{i}}E^{T_{i}}[r_{u}]d u={\frac{1}{T_{i}-T_{i-1}}}\left(\int_{T_{i-1}}^{T_{i}}\varphi(u)d u+\int_{T_{i-1}}^{T_{i}}E^{T_{i}}[x(u) | {\mathcal{F}}_{t}]d u\right).
 $$  
 
 respectively.  
 
 In a special case where $k$ is constant, we have  
 $$
-\begin{array}{r l r}{\lefteqn{\int_{T_{i-1}}^{T_{i}}E^{T_{i}}[x(\tau)|\mathcal{F}_{t}]d\tau}}\ &{}&{=x(t)\frac{e x p(-k(T_{i-1}-t))-e x p(-k(T_{i}-t))}{k}}\ &{}&{\displaystyle-\int_{T_{i-1}}^{T_{i}}e x p(-k\tau)d\tau\int_{t}^{\tau}\frac{\exp{(k u)}-e x p\left(-k(T_{i}-2u)\right)}{k}\sigma(u)^{2}d u}\end{array}
+\begin{array}{r l r}{\lefteqn{\int_{T_{i-1}}^{T_{i}}E^{T_{i}}[x(\tau) | \mathcal{F}_{t}]d\tau}}\ &{}&{=x(t)\frac{e x p(-k(T_{i-1}-t))-e x p(-k(T_{i}-t))}{k}}\ &{}&{\displaystyle-\int_{T_{i-1}}^{T_{i}}e x p(-k\tau)d\tau\int_{t}^{\tau}\frac{\exp{(k u)}-e x p\left(-k(T_{i}-2u)\right)}{k}\sigma(u)^{2}d u}\end{array}
 $$  
 
 where  
@@ -191,7 +191,7 @@ $$
 
 and  
 $$
-\mathtt{\Psi}_{}^{\mathtt{Y}_{i}}[x(\tau)|\mathcal{F}_{t}]=e x p(-k(\tau-t))x(t)-e x p(-k\tau)\int_{t}^{\tau}\frac{\exp{(k u)}-e x p\big(-k(T_{i}-2u)\big)}{k}\sigma(u)
+\mathtt{\Psi}_{}^{\mathtt{Y}_{i}}[x(\tau) | \mathcal{F}_{t}]=e x p(-k(\tau-t))x(t)-e x p(-k\tau)\int_{t}^{\tau}\frac{\exp{(k u)}-e x p\big(-k(T_{i}-2u)\big)}{k}\sigma(u)
 $$  
 
 In a more general case where neither $\mathsf{k}$ nor $\upsigma$ is constant, we can calculate the 2-dimensional integratior by first change the order of integration and then numerically integrating by splitting into sub-intervals  
@@ -200,31 +200,31 @@ In a more general case where neither $\mathsf{k}$ nor $\upsigma$ is constant, we
 
 # 4.1 SOFR Futures  
 
-A single [Eurodollar futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Convexity-Adjusted%20Models%20for%20LIBOR%20Forwards%20Qu.md) contract is similar to a [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) agreement to borrow or lend US\$1,ooo,o00 for three months starting on the [contract settlement](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/Three-Month%20SOFR%20Futures.md) date. Buying the contract is equivalent to lending money, and selling the contract short is equivalent to borrowing money.  
+A single Eurodollar futures contract is similar to a forward rate agreement to borrow or lend US\$1,ooo,o00 for three months starting on the contract settlement date. Buying the contract is equivalent to lending money, and selling the contract short is equivalent to borrowing money.  
 
-[SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) are similar to [Eurodollar futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Convexity-Adjusted%20Models%20for%20LIBOR%20Forwards%20Qu.md), and their [final settlement price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/EURIBOR%20Futures%20Options.md) are calculated as  
+SOFR futures are similar to Eurodollar futures, and their final settlement price are calculated as  
 $$
 P r i c e=100-R
 $$  
 
-where 1M [SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) use [simple interest](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md)  
+where 1M SOFR futures use simple interest  
 $$
 R={\frac{\sum_{i}\delta_{i}r_{i}}{\sum_{i}\delta_{i}}}\times100=\left[\sum_{i=1}^{d_{b}}{\frac{r_{i}\times n_{i}}{360}}\right]\times{\frac{360}{d_{c}}}\times100
 $$  
 
-while 3M [SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) use compounded interest  
+while 3M SOFR futures use compounded interest  
 $$
 R=\left[\prod_{i=1}^{d_{b}}\left(1+\frac{r_{i}\times n_{i}}{360}\right)-1\right]\times\frac{360}{d_{c}}\times100\
 $$  
 
 where ${\mathsf{d}}_{\mathsf{b}}$ denotes the number business days during the calculation period, either 1M or 3M, and r, is the SOFR rate published by Fed NY next day.  
 
-The 3M [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) are worth $\$2500$ per index point and the 1M futures are worth. $\$4167$ per index point. One can think of the 3M [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) as having a. $\$1$ million face value and the 1M futures as having a $\$5$ million face value, since.  
+The 3M futures are worth $\$2500$ per index point and the 1M futures are worth. $\$4167$ per index point. One can think of the 3M futures as having a. $\$1$ million face value and the 1M futures as having a $\$5$ million face value, since.  
 $$
 \begin{array}{l c r}{{2500=1000000\times\displaystyle\frac{1}{100}\times\frac{3}{12}}}\ {{}}\ {{4167\approx10000000\times\displaystyle\frac{1}{100}\times\frac{1}{12}}}\end{array}
 $$  
 
-Note that [SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) uses day counter Act/360 Fixed. Also note that for 3M [SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) the month symbol refers to the beginning of the calculation period, not the month for final settlement, while for 1M [sOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) the month symbol refers to the [delivery month](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) for that contract.  
+Note that SOFR futures uses day counter Act/360 Fixed. Also note that for 3M SOFR futures the month symbol refers to the beginning of the calculation period, not the month for final settlement, while for 1M sOFR futures the month symbol refers to the delivery month for that contract.  
 
 Define a daily rolling money market account  
 $$
@@ -236,26 +236,26 @@ $$
 R_{G}=\left[\frac{M(T)}{M(T_{0})}-1\right]\times\frac{1}{T-T_{0}}\times100\
 $$  
 
-where ${\sf T}_{0}$ denotes the beginning of the calculation period and $\intercal$ is the settlement date. For example, for 3M [SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) $\mathsf{T}-\mathsf{T}_{0}=3\mathsf{M}$  
+where ${\sf T}_{0}$ denotes the beginning of the calculation period and $\intercal$ is the settlement date. For example, for 3M SOFR futures $\mathsf{T}-\mathsf{T}_{0}=3\mathsf{M}$  
 
-Like any other [futures contracts](Mathematics%20of%20the%20Financial%20Markets.md) there is a [convexity adjustment](Derivatives/Part%20II%20-%20Fixed%20Income%20Cash%20Markets/Chapter%2010%20-%20Bonds:%20Duration%20and%20Convexity.md) between [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) and [forward price](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Forward%20Contracts%20and%20Forward%20Prices.md) or rate due to [daily settlement](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Pricing%20and%20Hedging%20Implications%20of%20Daily%20Sett.md), and the [convexity adjustment](Derivatives/Part%20II%20-%20Fixed%20Income%20Cash%20Markets/Chapter%2010%20-%20Bonds:%20Duration%20and%20Convexity.md) is computed by  
+Like any other futures contracts there is a convexity adjustment between futures and forward price or rate due to daily settlement, and the convexity adjustment is computed by  
 $$
 F_{R_{G}}(t)-f_{R_{G}}(t)=E[R_{G}]-E^{T}[R_{G}]
 $$  
 
-where by definition the [forward rate](../Clippings/Forward%20Points%20in%20Currency.md) is martingale under the $\intercal$ -forward measure  
+where by definition the forward rate is martingale under the $\intercal$ -forward measure  
 $$
 f_{R_{G}}(t)=E^{T}[R_{G}]=\frac{1}{\delta}\biggl(\frac{P(t,T_{0})}{P(t,T)}-1\biggr)
 $$  
 
-With [daily settlement](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2011/Pricing%20and%20Hedging%20Implications%20of%20Daily%20Sett.md), the [SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) rate (without discounting) must be a martingale under the spot [risk-neutral measure](Verifying%20Martingale%20Property%20with%20Q.md), i.e.  
+With daily settlement, the SOFR futures rate (without discounting) must be a martingale under the spot risk-neutral measure, i.e.  
 $$
-F_{R_{G}}(t)=\frac{1}{T-T_{0}}E\left[\frac{M(T)}{M(T_{0})}-1\right|\mathcal{F}_{t}\right]=\frac{1}{T-T_{0}}\left(\frac{E\left[M(T)|\mathcal{F}_{t}\right]}{M(T_{0})}-1\right)
+F_{R_{G}}(t)=\frac{1}{T-T_{0}}E\left[\frac{M(T)}{M(T_{0})}-1\right | \mathcal{F}_{t}\right]=\frac{1}{T-T_{0}}\left(\frac{E\left[M(T) | \mathcal{F}_{t}\right]}{M(T_{0})}-1\right)
 $$  
 
-which requires an [interest rate model](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) in order to compute the [convexity adjustment](Derivatives/Part%20II%20-%20Fixed%20Income%20Cash%20Markets/Chapter%2010%20-%20Bonds:%20Duration%20and%20Convexity.md).  
+which requires an interest rate model in order to compute the convexity adjustment.  
 
-Assuming the SOFR rate is governed by a 1-Factor [Hull-White model](../Course%20Notes/Python/QuantLib-Python/On%20the%20Convergence%20of%20Hull%20White%20Monte%20Carlo%20Simulations.md), we can calculate the [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) SOFR rate for $\mathsf{T}_{0}{>}\mathsf{t}$  
+Assuming the SOFR rate is governed by a 1-Factor Hull-White model, we can calculate the futures SOFR rate for $\mathsf{T}_{0}{>}\mathsf{t}$  
 $$
 \begin{array}{l}{{\displaystyle{\vec{\bf\tau}}_{R_{G}}(t)=\frac{1}{T-T_{0}}\left(\frac{P(t,T_{0})}{P(t,T)}-1\right)}}\ {{\displaystyle~+\frac{1}{T-T_{0}}\frac{P(t,T_{0})}{P(t,T)}\left[\exp\left(A(t,T)-A(t,T_{0})+A(T_{0},T)+\frac{1}{2}B(T_{0},T)^{2}V a r\left(y+y\right)\right)\right]~,}}\end{array}
 $$  
@@ -275,9 +275,9 @@ $$
 F_{R_{G}}={\frac{1}{T-T_{0}}}\left[e x p\left(\int_{T_{0}}^{t}r_{s}(u)d u\right)e x p\left(2\int_{t}^{T}\varphi(u)d u\right)P(t,T)-1\right]
 $$  
 
-where $\boldsymbol{\mathsf{r}}_{s}$ is the realized SOFR from. ${\sf T}_{0}$ through t and. $\mathsf{P}(\mathtt{t},\top)$ can be calculated from the [SOFR curve](../Credit%20Markets/Credit%20Market%20PSETS/Credit%20Markets%20Homework%203.md).  
+where $\boldsymbol{\mathsf{r}}_{s}$ is the realized SOFR from. ${\sf T}_{0}$ through t and. $\mathsf{P}(\mathtt{t},\top)$ can be calculated from the SOFR curve.  
 
-For 1M [SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) [simple interest](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) formula is used instead, which can be approximated by  
+For 1M SOFR futures simple interest formula is used instead, which can be approximated by  
 $$
 R_{A}(T)=\left[\sum_{i=1}^{d_{b}}{\frac{r_{i}\times n_{i}}{N}}\right]\times{\frac{N}{d_{c}}}\times100\approx{\frac{1}{T-T_{0}}}\int_{T_{0}}^{T}r_{s}(u)d u\times100={\frac{1}{T-T_{0}}}l n{\frac{M(T)}{M(T_{0})}}\times100\times10^{-1}d u.
 $$  
@@ -289,31 +289,31 @@ $$
 
 which can be calculated analytically.  
 
-The 1M [sOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) rate is martingale under the spot [risk-neutral measure](Verifying%20Martingale%20Property%20with%20Q.md), and thus we have  
+The 1M sOFR futures rate is martingale under the spot risk-neutral measure, and thus we have  
 $$
-\frac{1}{\cdot-T_{0}}E\left[\int_{T_{0}}^{T}r_{s}(u)d u\right|\mathcal{F}_{t}\right]=\frac{1}{T-T_{0}}\left(\int_{T_{0}}^{T}\varphi(u)d u+\frac{\exp\left(-k(T_{0}-t)\right)-\exp\left(-k(T-t)\right)}{k}x^{2}+4\frac{\sum_{s=0}^{T}\varphi^{2}(u)d u}{2k}x^{2}\right)+\frac{1}{4}x^{4}+4{\sqrt{3}}(2{\sqrt{3}}(u-t)^{2}+4{\sqrt{3}}(u-t)^{2})+\sum_{s=0}^{T}\varphi^{2}(u)d u.
+\frac{1}{\cdot-T_{0}}E\left[\int_{T_{0}}^{T}r_{s}(u)d u\right | \mathcal{F}_{t}\right]=\frac{1}{T-T_{0}}\left(\int_{T_{0}}^{T}\varphi(u)d u+\frac{\exp\left(-k(T_{0}-t)\right)-\exp\left(-k(T-t)\right)}{k}x^{2}+4\frac{\sum_{s=0}^{T}\varphi^{2}(u)d u}{2k}x^{2}\right)+\frac{1}{4}x^{4}+4{\sqrt{3}}(2{\sqrt{3}}(u-t)^{2}+4{\sqrt{3}}(u-t)^{2})+\sum_{s=0}^{T}\varphi^{2}(u)d u.
 $$  
 
-where the expected [short rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md)  
+where the expected short rate  
 $$
-E[r_{s}(u)|\mathcal{F}_{t}]=\varphi(t)+x(t)e x p\left(-\int_{t}^{u}k d t\right)
+E[r_{s}(u) | \mathcal{F}_{t}]=\varphi(t)+x(t)e x p\left(-\int_{t}^{u}k d t\right)
 $$  
 
-Unlike an SOFR-linked OlS swap, the [floating leg](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) of a fixed vs SOFR swap makes multiple payment as the [floating leg](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) of a LIBOR swap.  
+Unlike an SOFR-linked OlS swap, the floating leg of a fixed vs SOFR swap makes multiple payment as the floating leg of a LIBOR swap.  
 
-In a SOFR fixed-floating swaps, the [floating leg](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) pays at time $\mathsf{T}_{\mathrm{j}}$  
+In a SOFR fixed-floating swaps, the floating leg pays at time $\mathsf{T}_{\mathrm{j}}$  
 $$
 \delta_{j}R_{G}\bigl(T_{j}\bigr)=\prod_{i=1}^{d_{b,j}}\biggl(1+{\frac{r_{i}\times n_{i}}{360}}\biggr)-1={\frac{M\bigl(T_{j}\bigr)}{M\bigl(T_{j-1}\bigr)}}-1
 $$  
 
 where ${\mathsf{d}}_{\mathsf{b,j}}$ is the number of business days between $[\mathsf{T}_{\mathrm{j}-1},\mathsf{T}_{\mathrm{j}}]$ . It is essentially an SOFR linked OIS swap with multiple floating payments with reset in-arrears.  
 
-Assuming compound average and no payment delay the PV of the [floating leg](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) at time t is then given by  
+Assuming compound average and no payment delay the PV of the floating leg at time t is then given by  
 $$
 \begin{array}{c}{P V_{F l o a t}(t)=\displaystyle\sum_{j=1}^{n}E\left[\left(\frac{M\big(T_{j}\big)}{M\big(T_{j-1}\big)}-1\right)D\big(t,T_{j}\big)\right]=\displaystyle\sum_{j=1}^{n}E\big[D\big(t,T_{j-1}\big)\big]-E\big[D\big(t,T_{j}\big)\big]}\ {=P(t,T_{0})-P(t,T_{n})}\end{array}
 $$  
 
-With payment delay, e.g. 2 business days, the [convexity adjustment](Derivatives/Part%20II%20-%20Fixed%20Income%20Cash%20Markets/Chapter%2010%20-%20Bonds:%20Duration%20and%20Convexity.md) should be taken into account in theory. However, in practice the [convexity adjustment](Derivatives/Part%20II%20-%20Fixed%20Income%20Cash%20Markets/Chapter%2010%20-%20Bonds:%20Duration%20and%20Convexity.md) is quite small and thus neglectable  
+With payment delay, e.g. 2 business days, the convexity adjustment should be taken into account in theory. However, in practice the convexity adjustment is quite small and thus neglectable  
 $$
 P V_{F l o a t}(t)=\sum_{j=1}^{n}\delta_{j}f_{R_{G}}{\bigl(}T_{j}{\bigr)}P(t,T_{j,p})
 $$  
@@ -323,7 +323,7 @@ $$
 f_{R_{G}}(T_{j})=\frac{1}{\delta_{j}}\left(\frac{P\left(t,T_{j-1}\right)}{P\left(t,T_{j}\right)}-1\right)
 $$  
 
-The [fixed leg](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) pays at time $\mathsf{T}_{\mathrm{j}}$ for unit notional.  
+The fixed leg pays at time $\mathsf{T}_{\mathrm{j}}$ for unit notional.  
 $$
 (T_{i}-T_{i-1})S
 $$  
@@ -333,25 +333,25 @@ $$
 P V_{F i x e d}(t)=\sum_{i=1}^{m}E[(T_{i}-T_{i-1})S\cdot D(t,T_{i})]=\sum_{i=1}^{m}(T_{i}-T_{i-1})S\cdot P(t,T_{i})
 $$  
 
-Thus, the breakeven SOFR [swap rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md)  
+Thus, the breakeven SOFR swap rate  
 $$
 S(t)=\frac{\sum_{j=1}^{n}\delta_{j}f_{R_{G}}\big(T_{j}\big)P(t,T_{j,p})}{\sum_{i=1}^{m}\delta_{i}P(t,T_{j})}
 $$  
 
-In certain circumstances we ignore the payment delay and the faire [swap rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) becomes  
+In certain circumstances we ignore the payment delay and the faire swap rate becomes  
 $$
 S(t)=\frac{P(t,T_{0})-P(t,T_{n})}{\sum_{i=1}^{m}\delta_{i}P(t,T_{j})}
 $$  
 
-Note that assuming the [swap cash flows](Derivatives/Part%20VIII%20-%20Swaps/Chapter%2034%20-%20Pricing%20Interest%20Rate%20Swaps.md) use [compound interest](../Financial%20Instruments/Review%20Session%20Notes/Continuously%20Compounding%20Interest.md) and are discounted at SOFR itself, the valuation of sOFR fixed-floating swaps with compounded interest are exactly the same as a vanilla IR swap based on Libor.  
+Note that assuming the swap cash flows use compound interest and are discounted at SOFR itself, the valuation of sOFR fixed-floating swaps with compounded interest are exactly the same as a vanilla IR swap based on Libor.  
 
-For [simple interest](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md), we have to assume an [interest rate model](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) and use the forward simple SOFR term rate $f_{R_{A}}(T_{j})$ in place of $f_{R_{G}}(T_{j})$  
+For simple interest, we have to assume an interest rate model and use the forward simple SOFR term rate $f_{R_{A}}(T_{j})$ in place of $f_{R_{G}}(T_{j})$  
 
 # 4.3 SOFR Swaptions  
 
-The underlying of a SOFR swaption is an SOFR [fixed vs floating](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%204%20-%20Swap%20Markets/Fundamentals%20of%20Swaps.md) swap, which is similar to a LIBOR vanilla swap except for the index and resetting.  
+The underlying of a SOFR swaption is an SOFR fixed vs floating swap, which is similar to a LIBOR vanilla swap except for the index and resetting.  
 
-Similar to a LIBOR swap, the values of a [floating leg](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) and a [fixed leg](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) are  
+Similar to a LIBOR swap, the values of a floating leg and a fixed leg are  
 $$
 P V_{F l o a t}(t)=\sum_{j=1}^{n}E\left[\left(\frac{M\left(T_{j}\right)}{M\left(T_{j-1}\right)}-1\right)D(t,T_{j})\right]=P(t,T_{0})-P(t,T_{n})
 $$  
@@ -361,7 +361,7 @@ $$
 P V_{F i x e d}(t)=\sum_{k=1}^{m}E[(T_{i}-T_{i-1})S\cdot D(t,T_{i})]=S\sum_{i=1}^{m}(T_{i}-T_{i-1})\cdot P(t,T_{i})
 $$  
 
-Thus, ignoring the payment delay the SOFR [swap rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) is the same a LIBOR swap with a single curve  
+Thus, ignoring the payment delay the SOFR swap rate is the same a LIBOR swap with a single curve  
 $$
 S(t)=\frac{P(t,T_{0})-P(t,T_{n})}{\sum_{i=1}^{m}\delta_{j}P(t,T_{i})}
 $$  
@@ -375,7 +375,7 @@ $$
 
 with $E^{A}[S(T_{0})]=S(t)$  
 
-A Bermudan swaption has to be valued numerically on a lattice, e.g. trinomial tree. The [fixed leg](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) can be calculated easily by backward deduction. The [floating leg](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Pricing%20Interest%20Rate%20Swaps.md) can be calculated similar to a callable SOFR floater.  
+A Bermudan swaption has to be valued numerically on a lattice, e.g. trinomial tree. The fixed leg can be calculated easily by backward deduction. The floating leg can be calculated similar to a callable SOFR floater.  
 
 With geometric averaging, the PV of a floating payment at the beginning of a payment period  
 $$
@@ -425,7 +425,7 @@ $$
 \delta_{i}\cdot R_{G}(T_{i})=\left[\exp\left(\delta_{i}\cdot R_{A}(T_{i})\right)-1\right]
 $$  
 
-Assuming the [short rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) follows a mean-reverting process, ${\sf R}_{\sf A}({\sf T}_{\mathrm{i}})$ as the integral of a normal process is.   
+Assuming the short rate follows a mean-reverting process, ${\sf R}_{\sf A}({\sf T}_{\mathrm{i}})$ as the integral of a normal process is.   
 normally distributed, and thus. ${\sf R}_{\sf G}({\sf T}_{\mathrm{i}})$ is lognormally distributed..  
 
 In order to value SOFR cap/floor, we compute the mean and variance of both ${\sf R_{A}(T_{i})}$ and ${\sf R}_{\sf G}({\sf T}_{\mathrm{i}})$  
@@ -442,7 +442,7 @@ $$
 {}^{T_{i}}[\exp{(R_{A}(T_{i})\cdot\delta_{i})}]=\exp{(2\delta_{i}\cdot E^{T_{i}}[R_{A}(T_{i})]+\delta_{i}^{2}V a r^{T_{i}}[R_{A}(T_{i})])}(\exp\bigl(\delta_{i}^{~2}V a r^{T_{i}}[R_{A}(T_{i})]\bigr)),
 $$  
 
-Then, [Black-Scholes](Mathematical%20Modeling%20of%20Derivative%20Pricing.md) (Blank and Scholes, 1973) or Bachelier formula can be applied to value the caplet accordingly  
+Then, Black-Scholes (Blank and Scholes, 1973) or Bachelier formula can be applied to value the caplet accordingly  
 $$
 V_{C a p l e t}(t)=E[(R_{G}(T_{i})-K)^{+}\delta_{i}D(t,T_{i})]=P(t,T_{i})E^{T_{i}}\left[\left(\exp\bigl(\delta_{i}\cdot R_{A}(T_{i})\bigr)-(1+\delta_{i}K)\right)+(1-\delta_{i})^{+}\delta_{i}T_{i}\right]
 $$  
@@ -454,9 +454,9 @@ $$
 
 # 4.5 Options on SOFR Futures  
 
-Options on [SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) are very similar to options on [Eurodollar futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%206%20Options%20on%20Non-Price%20Variables/Convexity-Adjusted%20Models%20for%20LIBOR%20Forwards%20Qu.md). There are American options on both 3M [SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) and 1M [SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md). Each option is exercisable into one specified underlying. instrument, i.e. CME [SOFR futures contract](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md).  
+Options on SOFR futures are very similar to options on Eurodollar futures. There are American options on both 3M SOFR futures and 1M SOFR futures. Each option is exercisable into one specified underlying. instrument, i.e. CME SOFR futures contract.  
 
-The [SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) price is a function of the corresponding [SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) rate  
+The SOFR futures price is a function of the corresponding SOFR futures rate  
 $$
 P r i c e=100-F_{R}
 $$  
@@ -473,31 +473,31 @@ $$
 
 for 3-month and 1-month, respectively.  
 
-As derived earlier, a forward SOFR term rate is a martingale under the T-forward measure, while a [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md) SOFR term rate is martingale under the spot [risk-neutral measure](Verifying%20Martingale%20Property%20with%20Q.md).  
+As derived earlier, a forward SOFR term rate is a martingale under the T-forward measure, while a futures SOFR term rate is martingale under the spot risk-neutral measure.  
 
 Suppose the expiration time of a European SOFR call option is T. Its value is  
 $$
 V_{C a l l}(t)=E[(F_{R}(T)-K)^{+}D(t,T)]
 $$  
 
-where the [SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) rate R is martingale under the spot [risk-neutral measure](Verifying%20Martingale%20Property%20with%20Q.md)  
+where the SOFR futures rate R is martingale under the spot risk-neutral measure  
 $$
-F_{R}(\tau)=\frac{1}{T-T_{0}}E\left[e x p\left(\int_{T_{0}}^{T}r_{s}(u)d u\right)-1\right|\mathcal{F}_{\tau}\right]
+F_{R}(\tau)=\frac{1}{T-T_{0}}E\left[e x p\left(\int_{T_{0}}^{T}r_{s}(u)d u\right)-1\right | \mathcal{F}_{\tau}\right]
 $$  
 
 for geometric averaging, or  
 $$
-F_{R}(\tau)=\frac{1}{T-T_{0}}E\left[\int_{T_{0}}^{T}r_{s}(u)d u\Biggr|\mathcal{F}_{\tau}\right]
+F_{R}(\tau)=\frac{1}{T-T_{0}}E\left[\int_{T_{0}}^{T}r_{s}(u)d u\Biggr | \mathcal{F}_{\tau}\right]
 $$  
 
 for arithmetic averaging.  
 
-Using a one-factor affine model, e.g. [Hull-White model](../Course%20Notes/Python/QuantLib-Python/On%20the%20Convergence%20of%20Hull%20White%20Monte%20Carlo%20Simulations.md), we have for geometric averaging  
+Using a one-factor affine model, e.g. Hull-White model, we have for geometric averaging  
 $$
-F_{R}(\tau)=\frac{1}{T-T_{0}}E\left[e x p\left(\int_{T_{0}}^{T}r_{s}(u)d u\right)-1\right|\mathcal{F}_{\tau}\right]=\frac{1}{T-T_{0}}
+F_{R}(\tau)=\frac{1}{T-T_{0}}E\left[e x p\left(\int_{T_{0}}^{T}r_{s}(u)d u\right)-1\right | \mathcal{F}_{\tau}\right]=\frac{1}{T-T_{0}}
 $$  
 $$
-\begin{array}{r l}{\displaystyle}&{=\frac{1}{T-T_{0}}\bigg(e x p\left(\displaystyle\int_{T_{0}}^{T}\varphi(u)d u\right)E\big[\exp\bigl(A(T_{0},T)-B(T_{0},T)y_{T_{0}}\bigr)\big|\mathcal{F}_{t}\big]-1\bigg)}\ {\displaystyle}&{=\frac{P(t,T_{0})}{P(t,T)}\exp\left(A(t,T)-A(t,T_{0})+A(T_{0},T)-B(T_{0},T)E\big[y_{T_{0}}\big]+\frac{1}{2}B(T_{0},T)^{2}V a r(y_{T_{0}})\right)-}\ {\displaystyle}&{\qquadT-T_{0}}\end{array}
+\begin{array}{r l}{\displaystyle}&{=\frac{1}{T-T_{0}}\bigg(e x p\left(\displaystyle\int_{T_{0}}^{T}\varphi(u)d u\right)E\big[\exp\bigl(A(T_{0},T)-B(T_{0},T)y_{T_{0}}\bigr)\big | \mathcal{F}_{t}\big]-1\bigg)}\ {\displaystyle}&{=\frac{P(t,T_{0})}{P(t,T)}\exp\left(A(t,T)-A(t,T_{0})+A(T_{0},T)-B(T_{0},T)E\big[y_{T_{0}}\big]+\frac{1}{2}B(T_{0},T)^{2}V a r(y_{T_{0}})\right)-}\ {\displaystyle}&{\qquadT-T_{0}}\end{array}
 $$  
 
 where the state variable $\mathsf{v}(\ t)=-\mathsf{x}(\ t)$ that is governed by.  
@@ -507,19 +507,19 @@ $$
 
 and  
 $$
-E\big[y_{T_{0}}|\mathcal{F}_{\tau}\big]=y(\tau)\mathrm{exp}\left(-\int_{\tau}^{T_{0}}\kappa d u\right)
+E\big[y_{T_{0}} | \mathcal{F}_{\tau}\big]=y(\tau)\mathrm{exp}\left(-\int_{\tau}^{T_{0}}\kappa d u\right)
 $$  
 
-Because $\mathsf{v}(\tau)$ is normally distributed and $\mathsf{V a r}(\mathsf{V}\tau_{0})$ is deterministic, ${\sf F}_{\sf R}(\tau)$ will be a shifted lognormal process, and eventually the [Black-Scholes formula](../Credit%20Markets/Credit%20Markets%20Session%205.md) can be applied to value a European option.  
+Because $\mathsf{v}(\tau)$ is normally distributed and $\mathsf{V a r}(\mathsf{V}\tau_{0})$ is deterministic, ${\sf F}_{\sf R}(\tau)$ will be a shifted lognormal process, and eventually the Black-Scholes formula can be applied to value a European option.  
 
 In the case of arithmetic averaging, similarly we have  
 $$
-\begin{array}{l}{{F_{R}(\tau)=\displaystyle\frac{1}{T-T_{0}}E\left[\int_{T_{0}}^{T}r_{s}(u)d u\bigg|\mathcal{F}_{\tau}\right]=\displaystyle\frac{1}{T-T_{0}}\int_{T_{0}}^{T}E[r_{s}(u)|\mathcal{F}_{\tau}]d u}}\ {{\displaystyle=\frac{1}{T-T_{0}}\left(\int_{T_{0}}^{T}\varphi(u)d u+\frac{\exp\left(-k(T_{0}-\tau)\right)-\exp\left(-k(T-\tau)\right)}{k}x(\tau)\right)}}\end{array}
+\begin{array}{l}{{F_{R}(\tau)=\displaystyle\frac{1}{T-T_{0}}E\left[\int_{T_{0}}^{T}r_{s}(u)d u\bigg | \mathcal{F}_{\tau}\right]=\displaystyle\frac{1}{T-T_{0}}\int_{T_{0}}^{T}E[r_{s}(u) | \mathcal{F}_{\tau}]d u}}\ {{\displaystyle=\frac{1}{T-T_{0}}\left(\int_{T_{0}}^{T}\varphi(u)d u+\frac{\exp\left(-k(T_{0}-\tau)\right)-\exp\left(-k(T-\tau)\right)}{k}x(\tau)\right)}}\end{array}
 $$  
 
-Because ${\mathbf{\boldsymbol{\times}}}(\tau)$ is normally distributed,. ${\sf F}_{\sf R}(\tau)$ will be a normal process and thus the Bachelier formula can be applied to value a European option on SOFR 1M [futures](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%203%20-%20Futures%20Markets/Futures%20Not%20Subject%20to%20Cash-And-Carry.md).  
+Because ${\mathbf{\boldsymbol{\times}}}(\tau)$ is normally distributed,. ${\sf F}_{\sf R}(\tau)$ will be a normal process and thus the Bachelier formula can be applied to value a European option on SOFR 1M futures.  
 
-Usually, options on [SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md) have American style, i.e. they can be exercised any time before settlement date, and therefore a trinomial tree can be built for the state variable x(t) and then [early exercise](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2016/Bond%20Futures%20Options.md) can be modeled on the lattice.  
+Usually, options on SOFR futures have American style, i.e. they can be exercised any time before settlement date, and therefore a trinomial tree can be built for the state variable x(t) and then early exercise can be modeled on the lattice.  
 
 # 4.6 SOFR Callable Floaters  
 
@@ -530,9 +530,9 @@ $$
 
 where ${\sf f}_{\sf R.}({\sf T}_{\mathrm{i}})$ is the average SOFR rate for the ith period and the spread can be treated as a fixed rate coupon.  
 
-If a SOFR-linked structured note has an embedded option, the lattice method can be applied to evaluate the option similar to any other callable bonds. To that end, we build a trinomial tree according to the [short rate model](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) for SOFR [term structure](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md).  
+If a SOFR-linked structured note has an embedded option, the lattice method can be applied to evaluate the option similar to any other callable bonds. To that end, we build a trinomial tree according to the short rate model for SOFR term structure.  
 
-On a lattice the [discount factor](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) and transition probability for the kth path at $t$ can be written as  
+On a lattice the discount factor and transition probability for the kth path at $t$ can be written as  
 $$
 D_{i,k}(t,T)=\prod_{l}D_{i,k}(T_{l-1},T_{l})
 $$  
@@ -544,16 +544,16 @@ $$
 
 which provides us a way to calculate the Arrow-Debru price recursively.  
 
-For each node on the lattice, the present value of a fixed rate [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) can be easily calculated as  
+For each node on the lattice, the present value of a fixed rate cash flow can be easily calculated as  
 $$
-P V_{F i x}=\delta_{i}c\cdot E\left[E\big[D(t,T)\big|x(T)=x_{j}\big]\right]=\delta_{i}c\cdot E\left[\sum_{k}D_{i,k}(t,T)p_{i,k}\right]
+P V_{F i x}=\delta_{i}c\cdot E\left[E\big[D(t,T)\big | x(T)=x_{j}\big]\right]=\delta_{i}c\cdot E\left[\sum_{k}D_{i,k}(t,T)p_{i,k}\right]
 $$  
 
-where $\mathsf{D}_{\mathrm{i,k}}(\mathsf{t},\mathsf{T})$ and $\uprho_{\mathrm{i,k}}$ represent the [discount factor](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) and transition probability, respectively, of the kth path that ends at the node $\mathsf{x}_{\mathrm{j}},$ and their product is actually the Arrow-Debru price.  
+where $\mathsf{D}_{\mathrm{i,k}}(\mathsf{t},\mathsf{T})$ and $\uprho_{\mathrm{i,k}}$ represent the discount factor and transition probability, respectively, of the kth path that ends at the node $\mathsf{x}_{\mathrm{j}},$ and their product is actually the Arrow-Debru price.  
 
-The calculation of a floating rate coupon is more complicated. Since the floating cash flows are pathdependent, and thus non-combining, its PV cannot be calculated by backward deduction. Instead, floating cash flows' PVs should be calculated at the beginning of each [cash flow](../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) period either analytically. or numerically.  
+The calculation of a floating rate coupon is more complicated. Since the floating cash flows are pathdependent, and thus non-combining, its PV cannot be calculated by backward deduction. Instead, floating cash flows' PVs should be calculated at the beginning of each cash flow period either analytically. or numerically.  
 
-As mentioned earlier, there are two types of interest rate based on SOFR rate, namely [compound interest](../Financial%20Instruments/Review%20Session%20Notes/Continuously%20Compounding%20Interest.md) and [simple interest](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md). For [compound interest](../Financial%20Instruments/Review%20Session%20Notes/Continuously%20Compounding%20Interest.md), the coupon payment can actually be efficiently computed at the beginning of the coupon period Ti-1  
+As mentioned earlier, there are two types of interest rate based on SOFR rate, namely compound interest and simple interest. For compound interest, the coupon payment can actually be efficiently computed at the beginning of the coupon period Ti-1  
 $$
 \begin{array}{c}{{P V_{F l o a t}\big(T_{i-1};x_{j}\big)=E\left[\left(\displaystyle\frac{1}{D(T_{i-1},T_{i})}-1\right)D(T_{i-1},T_{i})+s\delta_{i}D(T_{i-1},T_{i})\right\vert x(T_{i-1})=x_{j}\right]}}\ {{=1+(s\delta_{i}-1)E\big[D(T_{i-1},T_{i})\big\vert x(T_{i-1})=x_{j}\big]}}\end{array}
 $$  
@@ -562,10 +562,10 @@ where s denotes the spread over SOFR.
 
 Similarly, the PV of the floating payment based on simple average of SOFR at the beginning of the period is given by  
 $$
-P V_{F l o a t}\big(T_{i-1};x_{j}\big)=E\big[-l n D(T_{i-1},T_{i})\cdot D(T_{i-1},T_{i})\big|x(T_{i-1})=x_{j}\big]
+P V_{F l o a t}\big(T_{i-1};x_{j}\big)=E\big[-l n D(T_{i-1},T_{i})\cdot D(T_{i-1},T_{i})\big | x(T_{i-1})=x_{j}\big]
 $$  
 
-If the [Hull-White model](../Course%20Notes/Python/QuantLib-Python/On%20the%20Convergence%20of%20Hull%20White%20Monte%20Carlo%20Simulations.md) is used to model the dynamics of the interest rate, i.e.  
+If the Hull-White model is used to model the dynamics of the interest rate, i.e.  
 $$
 d x=-\kappa x d x+\sigma d W
 $$  
@@ -592,7 +592,7 @@ where $\mathsf{x}(\mathsf{T}_{\mathrm{i-1}})$ is given.
 
 If there is no analytic solution for each floating payment, approximations can be applied to simplify the calculation. Let $\begin{array}{r}{D(T_{i-1},T_{i})=e x p\left(\int_{T_{i-1}}^{T_{i}}-r(u)d u\right):=y}\end{array}$ Then, we have  
 $$
-P V_{F l o a t}\big(T_{i-1};x_{j}\big)=E\big[-l n y\cdot y\big|x(T_{i-1})=x_{j}\big]
+P V_{F l o a t}\big(T_{i-1};x_{j}\big)=E\big[-l n y\cdot y\big | x(T_{i-1})=x_{j}\big]
 $$  
 
 which can be approximated by Taylor expansion around E[y]  
@@ -614,7 +614,7 @@ can also be computed on a recombining tree by backward deduction.
 
 # 4.7 SOFR CMS with cap/floor  
 
-With a single curve the breakeven SOFR [swap rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md)  
+With a single curve the breakeven SOFR swap rate  
 $$
 S(t)=\frac{\sum_{j=1}^{n}\delta_{j}f_{R_{G}}\big(T_{j}\big)P(t,T_{j,p})}{\sum_{i=1}^{m}\delta_{i}P(t,T_{i})}
 $$  
@@ -624,21 +624,21 @@ $$
 f_{R_{G}}(T_{j})=\frac{1}{\delta_{j}}\bigg(\frac{P\big(t,T_{j-1}\big)}{P(t,T_{i})}-1\bigg)
 $$  
 
-Ignoring the payment delay the faire [swap rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) becomes  
+Ignoring the payment delay the faire swap rate becomes  
 $$
 S(t)=\frac{P(t,T_{0})-P(t,T_{n})}{\sum_{i=1}^{m}\delta_{i}P(t,T_{i})}
 $$  
 
-which is the same as the LIBOR [swap rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md).  
+which is the same as the LIBOR swap rate.  
 
-If the [discount curve](../Credit%20Markets/Credit%20Market%20PSETS/Advanced%20Usage%20of%20QuantLib%20analytics%20library.md) is different from the forecast curve, similarly we have the breakeven [swap rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md)  
+If the discount curve is different from the forecast curve, similarly we have the breakeven swap rate  
 $$
 S(t)=\frac{\sum_{j=1}^{n}\delta_{j}f_{R_{G}}\big(T_{j}\big)P_{d}\big(t,T_{j}\big)}{\sum_{i=1}^{m}\delta_{i}P_{d}(t,T_{i})}=\frac{\sum_{j=1}^{n}\delta_{j}(P_{f}\big(t,T_{j-1}\big)-P_{f}\big(t,T_{j}\big))\frac{P_{d}\big(t,T_{j,p}\big)}{P_{f}\big(t,T_{j}\big)}}{\sum_{i=1}^{m}\delta_{i}P_{d}(t,T_{i})}
 $$  
 
 where ZCB bond ratios are lognormally distributed under the ${\sf T}_{\sf p j}$ -forward measure.  
 
-Both dual-curve and payment lag can be handled with the dual curve method, in which the sOFR [swap rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md) conditional on the state variable Z  
+Both dual-curve and payment lag can be handled with the dual curve method, in which the sOFR swap rate conditional on the state variable Z  
 $$
 S(t;Z)=\frac{\sum_{k}\left(\frac{P_{f}\left(t,T_{k-1}\right)}{P_{f}\left(t,T_{p j}\right)}e^{-\frac{1}{2}\beta_{k-1}\left(T_{j}\right)^{2}-\beta_{k-1}\left(T_{j}\right)Z}-\frac{P_{f}\left(T_{j},T_{k}\right)}{P_{f}\left(t,T_{p j}\right)}e^{-\frac{1}{2}\beta_{k}\left(T_{j}\right)^{2}-\beta_{k}\left(T_{j}\right)Z}\right)\frac{P_{d}\left(t,T_{j}\right)}{P_{f}\left(t,T_{j}\right)}}{\sum_{i}\delta_{i}\frac{P_{f}\left(T_{j},T_{i}\right)}{P_{f}\left(t,T_{p j}\right)}e^{-\frac{1}{2}\beta_{i}\left(T_{j}\right)^{2}-\beta_{i}\left(T_{j}\right)Z}\frac{P_{d}\left(t,T_{i}\right)}{P_{f}\left(t,T_{i}\right)}}
 $$  
@@ -648,7 +648,7 @@ $$
 \beta(T)=\sqrt{\int_{0}^{T}\sigma_{F B}(t)^{2}d t}=\sqrt{\int_{0}^{T}(B\big(t,T_{j}\big)-B(t,T))^{2}\sigma(t)^{2}d t}
 $$  
 
-Given the distribution of the SOFR [swap rate](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/Teaching%20Note%204%20Interest%20Rate%20Derivatives.md), the CMS rate and a CMS optionlet can be valued numerically  
+Given the distribution of the SOFR swap rate, the CMS rate and a CMS optionlet can be valued numerically  
 $$
 C M S(t)=E^{T_{p j}}[S(t;Z)]
 $$  
@@ -662,12 +662,12 @@ where the option type indicator $\omega=\pm1$
 
 # 5. Summary  
 
-In 2017 the [Secured Overnight Financing Rate](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2010/SOFR.md) (SOFR) was recommended as the replacement for USD LIBOR, and the transition from USD LIBOR to SOFR is set to complete by the end of 2021, after which the SOFR rate will become the primary benchmark floating rate used by most financial products. Since the. announcement SOFR-linked [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md) started to develop and their liquidities have also improved. Because of daily sOFR rate averaging, arithmetic average in particular, and timing mismatch [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md). [SOFR derivatives](.md) is more complicated than [pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) LIBOR [derivatives](../Financial%20Markets/Financial%20Trading%20and%20Markets/Chapter%209%20Arbitrage%20and%20Hedging%20With%20Options.md), even if a vanilla IR swap. In order to address these challenges, we apply a mean-reverting Gaussian model, e.g. 1-factor [Hull-White model](../Course%20Notes/Python/QuantLib-Python/On%20the%20Convergence%20of%20Hull%20White%20Monte%20Carlo%20Simulations.md),. to model the dynamics of the instantaneous SOFR rate and derive analytic formula for forward SOFR term rates as well as future SOFR term rates, which can then be used to price most linear SOFR products. Moreover, based on an affine [interest rate model](../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/An%20Overview%20of%20the%20Vasicek%20Short%20Rate%20Model.md) for the SOFR rate [closed-form solutions](Derivatives/Part%20IX%20-%20Fixed%20Income%20Derivatives/Chapter%2040%20-%20Pricing%20Fixed%20Income%20Options:%20Black’s%20Model%20and%20MCS.md) are also derived for European SOFR options, including SOFR swaptions, SOFR cap/floor and options on [SOFR futures](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2012/One-Month%20SOFR%20Futures.md). American options cannot be priced analytically, but efficient numerical methods are developed by combining lattice and analytic formula. Although a 1-facotor [Hull-White model](../Course%20Notes/Python/QuantLib-Python/On%20the%20Convergence%20of%20Hull%20White%20Monte%20Carlo%20Simulations.md) is used in this paper, it. is almost straightforward to extend it to multi-factor affine models..  
+In 2017 the Secured Overnight Financing Rate (SOFR) was recommended as the replacement for USD LIBOR, and the transition from USD LIBOR to SOFR is set to complete by the end of 2021, after which the SOFR rate will become the primary benchmark floating rate used by most financial products. Since the. announcement SOFR-linked derivatives started to develop and their liquidities have also improved. Because of daily sOFR rate averaging, arithmetic average in particular, and timing mismatch pricing. SOFR derivatives is more complicated than pricing LIBOR derivatives, even if a vanilla IR swap. In order to address these challenges, we apply a mean-reverting Gaussian model, e.g. 1-factor Hull-White model,. to model the dynamics of the instantaneous SOFR rate and derive analytic formula for forward SOFR term rates as well as future SOFR term rates, which can then be used to price most linear SOFR products. Moreover, based on an affine interest rate model for the SOFR rate closed-form solutions are also derived for European SOFR options, including SOFR swaptions, SOFR cap/floor and options on SOFR futures. American options cannot be priced analytically, but efficient numerical methods are developed by combining lattice and analytic formula. Although a 1-facotor Hull-White model is used in this paper, it. is almost straightforward to extend it to multi-factor affine models..  
 
 # References  
 
 ARRC (2021) A User's Guide to SOFR.  
 
-Black, Fischer and Myron Scholes (1973). The [Pricing](../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) of Options and Corporate Liabilities. Journal of Political Economy. 81 (3): 637-654.  
+Black, Fischer and Myron Scholes (1973). The Pricing of Options and Corporate Liabilities. Journal of Political Economy. 81 (3): 637-654.  
 
-Damiano Brigo and Fabio Mercurio (2001) Interest Rate Models - Theory and Practice with Smile, [Inflation](../International%20Finance/Bridgewater/Principles%20For%20Navigating%20Big%20Debt%20Cycles/Part%20II%20Detailed%20Case%20Studies/German%20Debt%20Crisis%20andHyperinflation%20(1918–1924)/War%20Economies%20and%20Hyperinflation.md) and Credit (2nd ed. 2006 ed.). Springer Verlag. ISBN 978-3-540-22149-4.  
+Damiano Brigo and Fabio Mercurio (2001) Interest Rate Models - Theory and Practice with Smile, Inflation/War%20Economies%20and%20Hyperinflation.md) and Credit (2nd ed. 2006 ed.). Springer Verlag. ISBN 978-3-540-22149-4.

@@ -19,10 +19,10 @@ key_concepts:
 
 # 2 Hedge Funds: Alpha, Beta, and Strategy Indexes 287  
 
-12.1Hedge Fund Strategies 289   
-12.1.1 Relative Asset Value Funds 289   
-12.1.2 Relative Corporate/Credit Structure 292   
-12.1.3 Theoretical Relative Value 294   
-12.1.4 Statistical Relative Value [Arbitrage](../../../Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) 296   
-12.2 [Portable Alpha](.md) and [Market-Neutral Plays](.md) 298   
-12.3 [Hedge Fund Replication](.md) and [Strategy Indexes](.md) 299  
+[^12]: 1Hedge Fund Strategies 289
+[^12]: 1.1 Relative Asset Value Funds 289
+[^12]: 1.2 Relative Corporate/Credit Structure 292
+[^12]: 1.3 Theoretical Relative Value 294
+[^12]: 1.4 Statistical Relative Value Arbitrage 296
+[^12]: 2 Portable Alpha and Market-Neutral Plays 298
+[^12]: 3 Hedge Fund Replication and Strategy Indexes 299

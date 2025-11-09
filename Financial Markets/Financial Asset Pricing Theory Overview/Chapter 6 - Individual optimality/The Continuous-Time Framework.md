@@ -19,9 +19,9 @@ key_concepts:
 
 # 6.4 The continuous-time framework  
 
-In a [continuous-time setting](.md) an individual consumes according to a non-negative continuous-time process $c=\left(c_{t}\right)$ . Suppose that her preferences are described by [time-additive expected utility](../Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/General%20Multi-Period%20Link%20Between%20Consumption%20a.md) so that the objective is to maximize $\begin{array}{r}{\operatorname{E}[\int_{0}^{T}e^{-\delta t}u(c_{t})d t]}\end{array}$  
+In a continuous-time setting an individual consumes according to a non-negative continuous-time process $c=\left(c_{t}\right)$ . Suppose that her preferences are described by time-additive expected utility so that the objective is to maximize $\begin{array}{r}{\operatorname{E}[\int_{0}^{T}e^{-\delta t}u(c_{t})d t]}\end{array}$  
 
-We will again go through a variational argument giving a link between the [optimal consumption process](.md) and asset prices. For simplicity assume that assets pay no intermediate dividends. Suppose $c=\left(c_{t}\right)$ is the [optimal consumption process](.md) for some agent and consider the following deviation from this strategy: at time 0 increase the [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) in asset $i$ by $\varepsilon$ units. The extra costs of $\varepsilon P_{i0}$ implies a reduced consumption now. Let us suppose that the individual finances this extra [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) by cutting down the consumption rate in the time interval $[0,\Delta t]$ for some small positive $\Delta t$ by $\varepsilon P_{i0}/\Delta t$ . The extra $\varepsilon$ units of asset $i$ is resold at time $t<T$ , yielding a revenue of $\varepsilon P_{i t}$ . This finances an increase in the consumption rate over $[t,t+\Delta t]$ by $\varepsilon P_{i t}/\Delta t$ . The consumption rates outside the intervals $[0,\Delta t]$ and $[t,t+\Delta t]$ will be unaffected. Given the optimality of $c=\left(c_{t}\right)$ , we must have that  
+We will again go through a variational argument giving a link between the optimal consumption process and asset prices. For simplicity assume that assets pay no intermediate dividends. Suppose $c=\left(c_{t}\right)$ is the optimal consumption process for some agent and consider the following deviation from this strategy: at time 0 increase the investment in asset $i$ by $\varepsilon$ units. The extra costs of $\varepsilon P_{i0}$ implies a reduced consumption now. Let us suppose that the individual finances this extra investment by cutting down the consumption rate in the time interval $[0,\Delta t]$ for some small positive $\Delta t$ by $\varepsilon P_{i0}/\Delta t$ . The extra $\varepsilon$ units of asset $i$ is resold at time $t<T$ , yielding a revenue of $\varepsilon P_{i t}$ . This finances an increase in the consumption rate over $[t,t+\Delta t]$ by $\varepsilon P_{i t}/\Delta t$ . The consumption rates outside the intervals $[0,\Delta t]$ and $[t,t+\Delta t]$ will be unaffected. Given the optimality of $c=\left(c_{t}\right)$ , we must have that  
 $$
 \operatorname{E}\left[\int_{0}^{\Delta t}e^{-\delta s}\left(u\left(c_{s}-{\frac{\varepsilon P_{i0}}{\Delta t}}\right)-u(c_{s})\right)d s+\int_{t}^{t+\Delta t}e^{-\delta s}\left(u\left(c_{s}+{\frac{\varepsilon P_{i t}}{\Delta t}}\right)-u(c_{s})\right)d s\right]\leq0.
 $$  
@@ -56,18 +56,18 @@ $$
 \zeta_{t}=e^{-\delta t}\frac{u^{\prime}(c_{t})}{u^{\prime}(c_{0})}
 $$  
 
-defines a [state-price deflator](Exercises.md), exactly as in the discrete-time case.  
+defines a state-price deflator, exactly as in the discrete-time case.  
 
 If the market is complete, we can easily reach (6.44) solving step one of the two-step procedure suggested in Section 6.2.4. The problem is  
 $$
 \operatorname*{max}_{c=(c_{t})}\operatorname{E}\left[\int_{0}^{T}e^{-\delta t}u(c_{t})d t\right]\qquad\mathrm{s.t.}\mathrm{E}\left[\int_{0}^{T}\zeta_{t}c_{t}d t\right]\leq e_{0}+\mathrm{E}\left[\int_{0}^{T}\zeta_{t}e_{t}d t\right],
 $$  
 
-where $\zeta=\left(\zeta_{t}\right)$ is the unique [state-price deflator](Exercises.md). The left-hand side of the constraint is the present value of the consumption process, the right-hand side is the sum of the [initial wealth](The%20One-Period%20Framework.md) $e_{0}$ and the present value of the income process. The Lagrangian for this problem is  
+where $\zeta=\left(\zeta_{t}\right)$ is the unique state-price deflator. The left-hand side of the constraint is the present value of the consumption process, the right-hand side is the sum of the initial wealth $e_{0}$ and the present value of the income process. The Lagrangian for this problem is  
 $$
 \begin{array}{r l}&{\mathcal{L}=\mathrm{E}\left[\displaystyle\int_{0}^{T}e^{-\delta t}u(c_{t})d t\right]+\alpha\left(e_{0}+\mathrm{E}\left[\displaystyle\int_{0}^{T}\zeta_{t}e_{t}d t\right]-\mathrm{E}\left[\displaystyle\int_{0}^{T}\zeta_{t}c_{t}\right]\right)}\ &{\quad=\alpha\left(e_{0}+\mathrm{E}\left[\displaystyle\int_{0}^{T}\zeta_{t}e_{t}d t\right]\right)+\mathrm{E}\left[\displaystyle\int_{0}^{T}\left(e^{-\delta t}u(c_{t})-\alpha\zeta_{t}c_{t}\right)d t\right].}\end{array}
 $$  
 
 If we for each $t$ and each state maximize the integrand in the last integral above, we will surely maximize the Lagrangian. The first-order condition is $e^{-\delta t}u^{\prime}(c_{t})=\alpha\zeta_{t}$ and since $\zeta_{0}=1$ , we must have (6.44).  
 
-Exercise 6.10 considers an individual with [habit formation](../Chapter%208%20-%20Consumption-Based%20Asset%20Pricing/CCAPM%20with%20Alternative%20Preferences.md) in a [continuous-time setting](.md).  
+Exercise 6.10 considers an individual with habit formation in a continuous-time setting.

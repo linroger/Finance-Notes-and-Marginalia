@@ -43,13 +43,13 @@ In particular if we let $\Delta t=h$ (so that $\Delta S_t=S_{t+h}-S_t$ and $\Del
 
 $$\frac{S_{t+h}-S_t}{S_t}\approx\mu h+\sigma(W_{t+h}-W_t).$$
 
-Since $\sigma(W_{t+h}-W_t)\sim N(0, \sigma^2h)$, the histogram of $(S_{t+h}-S_t)/S_t$ should resemble a normal distribution with standard deviation $\sigma\sqrt{h}$ (It is called the $h$-day volatility.) To see it is indeed the case we have plotted the histograms for $h=1, 2, 3, 5, 7$ (days) in Figures 5.2 up to
+Since $\sigma(W_{t+h}-W_t)\sim N(0, \sigma[^2]h)$, the histogram of $(S_{t+h}-S_t)/S_t$ should resemble a normal distribution with standard deviation $\sigma\sqrt{h}$ (It is called the $h$-day volatility.) To see it is indeed the case we have plotted the histograms for $h=1, 2, 3, 5, 7$ (days) in Figures 5.2 up to
 
-![500](Attachments/500-101.png)
+!500
 
 Figure 5.1: KOSPI 200 from 2001. 1. 2 to 2011. 5. 18.
 
-5.7. In there, we have also computed the normal distributions that are closest to the given histograms. Such normal distributions are overlaid together in Figure 5.8. In there, we can see the standard deviations ($h$-day volatility) for each time interval $h$ increases as shown in Table 5.1.
+[^5]: 7. In there, we have also computed the normal distributions that are closest to the given histograms. Such normal distributions are overlaid together in Figure 5.8. In there, we can see the standard deviations ($h$-day volatility) for each time interval $h$ increases as shown in Table 5.1.
 
 Let us now see if the $h$-day volatility increases in proportion to $\sqrt{h}$. The last column of Table 5.1 shows the $h$-day volatilities divided by $\sqrt{h}$. There, we can see that they remain roughly constant. In Figure 5.9 are plotted $h$-day volatilities and a graph $y=0.016436\sqrt{h}$ that best fits the data. In either case, we can see that the $h$-day volatilities scales roughly in proportion to $\sqrt{h}$.
 
@@ -96,15 +96,15 @@ $$\frac{\Delta S_t}{S_t}\approx\mu\Delta t+\sigma \Delta W_t,$$
 
 using the increment Brownian motion $W_t$, it is not enough to check that the standard deviation of $\Delta S_t/S_t$ scales like $\sqrt{h}$. We also need to check the independence of increment. In order to do that, let us go back to the stochastic differential equation for $S_t$ and rewrite $d\log S_t$ using the Ito formula as:
 
-$$d\log S_t=(\mu-\frac{1}{2}\sigma^2)dt+\sigma dW_t.$$
+$$d\log S_t=(\mu-\frac{1}{2}\sigma[^2])dt+\sigma dW_t.$$
 
 Therefore we can write
 
-$$\Delta\log S_t\approx\left(\mu-\frac{1}{2}\sigma^2\right)\Delta t+\sigma\Delta W_t.$$
+$$\Delta\log S_t\approx\left(\mu-\frac{1}{2}\sigma[^2]\right)\Delta t+\sigma\Delta W_t.$$
 
 On the other hand
 
-$$\log S_t=\log S_0+\left(\mu-\frac{1}{2}\sigma^2\right)t+\sigma W_t.$$
+$$\log S_t=\log S_0+\left(\mu-\frac{1}{2}\sigma[^2]\right)t+\sigma W_t.$$
 
 Therefore from (5.1) and (5.2), $\log S_t$ and $\Delta\log S_t$ should exhibit "independent" behavior. For that purpose, the following lemma comes in handy.
 
@@ -112,7 +112,7 @@ Lemma 5.1. Let $X$ and $Y$ be both Gaussian random variables. Then $X$ and $Y$ a
 
 $$Cor(X, Y)=E\left[\left(\frac{X-m_X}{\sigma_X}\right)\left(\frac{Y-m_Y}{\sigma_Y}\right)\right],$$
 
-where $m_X=E[X]$ and $\sigma_X^2 = E[(X - m_X)^2]$ and $m_Y$ and $\sigma_Y$ are defined similarly.
+where $m_X=E[X]$ and $\sigma_X[^2] = E[(X - m_X)[^2]]$ and $m_Y$ and $\sigma_Y$ are defined similarly.
 
 From the data we can compute $Cor(\log S_t, \Delta\log S_t)$, which turns out to be -0.023749. This correlation between $\log S_t$ and $\Delta\log S_t$ is quite small; therefore it is reasonable to presume it to be zero, which then implies by Lemma 5.1 that $\log S_t$ and $\Delta\log S_t$ are independent.
 
@@ -126,7 +126,7 @@ But
 
 $$\log\frac{S_{t+h}}{S_t}=\log\left(1+\frac{S_{t+h}-S_t}{S_t}\right).$$
 
-By the Taylor expansion, $\log(1+x)=x+O(x^2)$. Therefore
+By the Taylor expansion, $\log(1+x)=x+O(x[^2])$. Therefore
 
 $$\log\frac{S_{t+h}}{S_t}\approx\frac{S_{t+h}-S_t}{S_t}.$$
 
@@ -224,7 +224,7 @@ $$dS_t=S_t(\mu dt+\sigma dW_t),$$
 
 where $\mu$ is a constant while we always assume $\sigma$ is a positive constant. Thus $S_t$ is the so-called geometric Brownian motion studied in Example 4.25 of Chapter 4. In particular, we know that
 
-$$S_t=S_0\exp\left[\left(\mu-\frac{1}{2}\sigma^2\right)t+\sigma W_t\right].$$
+$$S_t=S_0\exp\left[\left(\mu-\frac{1}{2}\sigma[^2]\right)t+\sigma W_t\right].$$
 
 ### Discounted stock price process
 
@@ -249,7 +249,7 @@ $$dQ_t=M_tdP.$$
 
 Then let $Q=Q_T$. We learned that
 
-$$Q_t=Q|_{\mathcal{F}_t}.$$
+$$Q_t=Q | _{\mathcal{F}_t}.$$
 
 The Girsanov theorem says that the new stochastic process $\widetilde{W}_t$ defined by
 
@@ -406,19 +406,19 @@ where $\mathbf{1}_{\{S_T>K\}}$ is the indicator (characteristic) function of the
 
 Compute $I_2$: First, note that
 
-$$S_T=S_0\exp\left[\left(r-\frac{1}{2}\sigma^2\right)T+\sigma\widetilde{W}_T\right]>K$$
+$$S_T=S_0\exp\left[\left(r-\frac{1}{2}\sigma[^2]\right)T+\sigma\widetilde{W}_T\right]>K$$
 
 Is equivalent to
 
-$$\log(S_0/K)+\left(r-\frac{1}{2}\sigma^2\right)T>-\sigma\widetilde{W}_T\stackrel{\mathcal{L}}{=}-\sigma\sqrt{T}\widetilde{W}_1,$$
+$$\log(S_0/K)+\left(r-\frac{1}{2}\sigma[^2]\right)T>-\sigma\widetilde{W}_T\stackrel{\mathcal{L}}{=}-\sigma\sqrt{T}\widetilde{W}_1,$$
 
 where the symbol $\mathcal{L}$ above the equal sign denotes the equality in law, or equivalently in distribution. Then
 
-$$Prob(S_T>K)=Prob\left(-\widetilde{W}_1<\frac{\log(S_0/K)+(r-\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}\right).$$
+$$Prob(S_T>K)=Prob\left(-\widetilde{W}_1<\frac{\log(S_0/K)+(r-\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}}\right).$$
 
 Thus, since the distribution of $-\widetilde{W}_1$ is the standard normal distribution $N(0, 1)$ of mean 0 and variance 1,
 
-$$E_Q[\mathbf{1}_{\{S_T>K\}}]=Prob\left(Z<\frac{\log(S_0/K)+(r-\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}\right),$$
+$$E_Q[\mathbf{1}_{\{S_T>K\}}]=Prob\left(Z<\frac{\log(S_0/K)+(r-\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}}\right),$$
 
 where $Z$ is a standard Gaussian random variable with mean 0 and variance 1. Therefore
 
@@ -426,11 +426,11 @@ $$E_Q[\mathbf{1}_{\{S_T>K\}}]=N(d_2),$$
 
 Where
 
-$$N(d)=\frac{1}{\sqrt{2\pi}}\int_{-\infty}^{d}e^{-x^2/2}dx$$
+$$N(d)=\frac{1}{\sqrt{2\pi}}\int_{-\infty}^{d}e^{-x[^2]/2}dx$$
 
 And
 
-$$d_2=\frac{\log(S_0/K)+(r-\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}.$$
+$$d_2=\frac{\log(S_0/K)+(r-\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}}.$$
 
 Thus
 
@@ -448,7 +448,7 @@ Recall
 
 $$dS_t^*=\sigma S_t^*d\widetilde{W}_t.$$
 
-Thus $S_t^*$ is an exponential martingale, and so is $\frac{S_t^*}{S_0}$. In view of the facts that $\frac{S_t^*}{S_0}$ is an exponential martingale and $\left.\frac{S_t^*}{S_0}\right|_{t=0}=1$, define a new measure $\widetilde{\widetilde{P}}$ by first defining $\widetilde{\widetilde{P}}_t$ by
+Thus $S_t^*$ is an exponential martingale, and so is $\frac{S_t^*}{S_0}$. In view of the facts that $\frac{S_t^*}{S_0}$ is an exponential martingale and $\left.\frac{S_t^*}{S_0}\right | _{t=0}=1$, define a new measure $\widetilde{\widetilde{P}}$ by first defining $\widetilde{\widetilde{P}}_t$ by
 
 $$d\widetilde{\widetilde{P}}_t=\frac{S_t^*}{S_0}dQ$$
 
@@ -467,13 +467,13 @@ $$dS_t=S_t(rdt+\sigma d\widetilde{W}_t),$$
 We have
 
 $$\begin{aligned}
-S_T &= S_0\exp\left[\left(r-\frac{1}{2}\sigma^2\right)T+\sigma\widetilde{W}_T\right]\\
-&= S_0\exp\left[\left(r+\frac{1}{2}\sigma^2\right)T+\sigma\widetilde{\widetilde{W}}_T\right]
+S_T &= S_0\exp\left[\left(r-\frac{1}{2}\sigma[^2]\right)T+\sigma\widetilde{W}_T\right]\\
+&= S_0\exp\left[\left(r+\frac{1}{2}\sigma[^2]\right)T+\sigma\widetilde{\widetilde{W}}_T\right]
 \end{aligned}$$
 
 by (5.13). Hence $S_T>K$ if and only if
 
-$$d_1=\frac{\log(S_0/K)+\left(r+\frac{1}{2}\sigma^2\right)T}{\sigma\sqrt{T}}>-\frac{\widetilde{\widetilde{W}}_T}{\sqrt{T}}=Z,$$
+$$d_1=\frac{\log(S_0/K)+\left(r+\frac{1}{2}\sigma[^2]\right)T}{\sigma\sqrt{T}}>-\frac{\widetilde{\widetilde{W}}_T}{\sqrt{T}}=Z,$$
 
 where $Z$ is a standard Gaussian random variable of mean 0 and variance 1. Therefore
 
@@ -500,9 +500,9 @@ $$V_t=S_tN(d_1)-Ke^{-r(T-t)}N(d_2),$$
 Where
 
 $$\begin{aligned}
-N(d) &= \frac{1}{\sqrt{2\pi}}\int_{-\infty}^{d}e^{-x^2/2}dx,\\
-d_1 &= \frac{\log(S_t/K)+(r+\frac{1}{2}\sigma^2)(T-t)}{\sigma\sqrt{T-t}},\\
-d_2 &= \frac{\log(S_t/K)+(r-\frac{1}{2}\sigma^2)(T-t)}{\sigma\sqrt{T-t}}.
+N(d) &= \frac{1}{\sqrt{2\pi}}\int_{-\infty}^{d}e^{-x[^2]/2}dx,\\
+d_1 &= \frac{\log(S_t/K)+(r+\frac{1}{2}\sigma[^2])(T-t)}{\sigma\sqrt{T-t}},\\
+d_2 &= \frac{\log(S_t/K)+(r-\frac{1}{2}\sigma[^2])(T-t)}{\sigma\sqrt{T-t}}.
 \end{aligned}$$
 
 Note also that Theorem 5.8 provides a valuable information on the replicating portfolio. Namely,
@@ -548,19 +548,19 @@ for some smooth deterministic function $C(t, S)$ of two variables $t$ and $S$. A
 $$\begin{aligned}
 dC^* &= d(e^{-rt}C)\\
 &= e^{-rt}dC-re^{-rt}Cdt\\
-&= e^{-rt}\left[\frac{\partial C}{\partial t}dt+\frac{\partial C}{\partial S}dS_t+\frac{1}{2}\frac{\partial^2C}{\partial S^2}(dS_t)^2\right]-re^{-rt}Cdt.
+&= e^{-rt}\left[\frac{\partial C}{\partial t}dt+\frac{\partial C}{\partial S}dS_t+\frac{1}{2}\frac{\partial[^2]C}{\partial S[^2]}(dS_t)[^2]\right]-re^{-rt}Cdt.
 \end{aligned}$$
 
-The last equality is due to Ito's formula. It is to be noted that $\frac{\partial C}{\partial S}(t, S)$ is $\frac{\partial C}{\partial S}=\frac{\partial C}{\partial S}(t, S_t)$ and $C(t, S)$ is $C(t, S_t)$. The same applies to the $\frac{\partial C}{\partial t}$ and $\frac{\partial^2C}{\partial S^2}$. Collecting terms and using (5.14), we have
+The last equality is due to Ito's formula. It is to be noted that $\frac{\partial C}{\partial S}(t, S)$ is $\frac{\partial C}{\partial S}=\frac{\partial C}{\partial S}(t, S_t)$ and $C(t, S)$ is $C(t, S_t)$. The same applies to the $\frac{\partial C}{\partial t}$ and $\frac{\partial[^2]C}{\partial S[^2]}$. Collecting terms and using (5.14), we have
 
 $$\begin{aligned}
-dC^* &= e^{-rt}\left[\frac{\partial C}{\partial t}+rS_t\frac{\partial C}{\partial S}+\frac{1}{2}\sigma^2S_t^2\frac{\partial^2C}{\partial S^2}-rC\right]dt\\
+dC^* &= e^{-rt}\left[\frac{\partial C}{\partial t}+rS_t\frac{\partial C}{\partial S}+\frac{1}{2}\sigma[^2]S_t[^2]\frac{\partial[^2]C}{\partial S[^2]}-rC\right]dt\\
 &+ \sigma e^{-rt}S_t\frac{\partial C}{\partial S}d\widetilde{W}_t.
 \end{aligned}$$
 
 Thus utilizing (5.14) the necessary and sufficient condition for $C(t, S_t)$ to be equal to $V_t$ is that
 
-$$\left.\frac{\partial C}{\partial t}+rS\frac{\partial C}{\partial S}+\frac{1}{2}\sigma^2S^2\frac{\partial^2C}{\partial S^2}-rC\right|_{t=t, S=S_t}=0$$
+$$\left.\frac{\partial C}{\partial t}+rS\frac{\partial C}{\partial S}+\frac{1}{2}\sigma[^2]S[^2]\frac{\partial[^2]C}{\partial S[^2]}-rC\right | _{t=t, S=S_t}=0$$
 
 And
 
@@ -572,7 +572,7 @@ $$\zeta_t=\frac{\partial C}{\partial S}=\frac{\partial C}{\partial S}(t, S_t)$$
 
 and (5.16) says that the deterministic function $C(t, S)$ of two variables $t$ and S must satisfies the following partial differential equation
 
-$$\frac{\partial C}{\partial t}+rS\frac{\partial C}{\partial S}+\frac{1}{2}\sigma^2S^2\frac{\partial^2C}{\partial S^2}-rC=0.$$
+$$\frac{\partial C}{\partial t}+rS\frac{\partial C}{\partial S}+\frac{1}{2}\sigma[^2]S[^2]\frac{\partial[^2]C}{\partial S[^2]}-rC=0.$$
 
 The reason for the validity of this partial differential equation is that $S_t$ can take any positive value therefore (5.19) must hold for any $t\geq0$ and $S$. (In fact it suffices to assume $S>0$. But it is a moot point here.) Now it is easy to see that the replication condition is
 
@@ -613,8 +613,8 @@ $$V_t=C(t, S_t)$$
 for some smooth function $C(t, S)$ of two variables $t$ and $S$. Then by Ito's formula
 
 $$\begin{aligned}
-dC &= \frac{\partial C}{\partial t}dt+\frac{\partial C}{\partial S}dS_t+\frac{1}{2}\frac{\partial^2C}{\partial S^2}(dS_t)^2\\
-&= \left[\frac{\partial C}{\partial t}+\mu S_t\frac{\partial C}{\partial S}+\frac{1}{2}\sigma^2S_t^2\frac{\partial^2C}{\partial S^2}\right]dt\\
+dC &= \frac{\partial C}{\partial t}dt+\frac{\partial C}{\partial S}dS_t+\frac{1}{2}\frac{\partial[^2]C}{\partial S[^2]}(dS_t)[^2]\\
+&= \left[\frac{\partial C}{\partial t}+\mu S_t\frac{\partial C}{\partial S}+\frac{1}{2}\sigma[^2]S_t[^2]\frac{\partial[^2]C}{\partial S[^2]}\right]dt\\
 &+ \sigma S_t\frac{\partial C}{\partial S}dW_t.
 \end{aligned}$$
 
@@ -624,7 +624,7 @@ $$\zeta_t=\frac{\partial C}{\partial S}(t, S_t)$$
 
 And
 
-$$re^{rt}\xi_t+\mu\zeta_tS_t=\frac{\partial C}{\partial t}+\mu S_t\frac{\partial C}{\partial S}+\frac{1}{2}\sigma^2S_t^2\frac{\partial^2C}{\partial S^2}.$$
+$$re^{rt}\xi_t+\mu\zeta_tS_t=\frac{\partial C}{\partial t}+\mu S_t\frac{\partial C}{\partial S}+\frac{1}{2}\sigma[^2]S_t[^2]\frac{\partial[^2]C}{\partial S[^2]}.$$
 
 Since
 
@@ -636,7 +636,7 @@ $$\xi_t=e^{-rt}\left[C(t, S_t)-S_t\frac{\partial C}{\partial S}(t, S_t)\right].$
 
 Plugging (5.24) and (5.26) into (5.25) and simplifying, we have
 
-$$\left.\frac{\partial C}{\partial t}+rS\frac{\partial C}{\partial S}+\frac{1}{2}\sigma^2S^2\frac{\partial^2C}{\partial S^2}-rC\right|_{t=t, S=S_t}=0,$$
+$$\left.\frac{\partial C}{\partial t}+rS\frac{\partial C}{\partial S}+\frac{1}{2}\sigma[^2]S[^2]\frac{\partial[^2]C}{\partial S[^2]}-rC\right | _{t=t, S=S_t}=0,$$
 
 Which is exactly what we have derived before. Therefore the Black Scholes PDE (5.19) must also hold.
 
@@ -664,7 +664,7 @@ V_t &=& e^{rt}\xi_t+\zeta_tS_t\\
 
 Let us now prove the self-financing property of this portfolio. Rewriting the Black-Scholes PDE by
 
-$$\frac{\partial C}{\partial t}+\mu S_t\frac{\partial C}{\partial S}+\frac{1}{2}\sigma^2S_t^2\frac{\partial^2C}{\partial S^2}=(\mu-r)S_t\frac{\partial C}{\partial S}+rC$$
+$$\frac{\partial C}{\partial t}+\mu S_t\frac{\partial C}{\partial S}+\frac{1}{2}\sigma[^2]S_t[^2]\frac{\partial[^2]C}{\partial S[^2]}=(\mu-r)S_t\frac{\partial C}{\partial S}+rC$$
 
 And plugging this into (5.23), we have
 
@@ -690,12 +690,12 @@ Now solve the Black-Scholes PDE (5.19) subject to the condition (5.20). Let $S_0
 
 $$\begin{array}{rcl}
 \frac{\partial\widetilde{C}}{\partial z} &=& S\frac{\partial C}{\partial S},\\
-\frac{\partial^2\widetilde{C}}{\partial z^2} &=& S^2\frac{\partial^2C}{\partial S^2}+S\frac{\partial C}{\partial S}.
+\frac{\partial[^2]\widetilde{C}}{\partial z[^2]} &=& S[^2]\frac{\partial[^2]C}{\partial S[^2]}+S\frac{\partial C}{\partial S}.
 \end{array}$$
 
 Therefore, Black-Scholes equation becomes
 
-$$\frac{\partial\widetilde{C}}{\partial t}+\left(r-\frac{1}{2}\sigma^2\right)\frac{\partial\widetilde{C}}{\partial z}+\frac{1}{2}\sigma^2\frac{\partial^2\widetilde{C}}{\partial z^2}-r\widetilde{C}=0.$$
+$$\frac{\partial\widetilde{C}}{\partial t}+\left(r-\frac{1}{2}\sigma[^2]\right)\frac{\partial\widetilde{C}}{\partial z}+\frac{1}{2}\sigma[^2]\frac{\partial[^2]\widetilde{C}}{\partial z[^2]}-r\widetilde{C}=0.$$
 
 Now let $x=Az+Bt$, where $A$ and $B$ are constant to be determined. Let
 
@@ -706,24 +706,24 @@ Then
 $$\begin{aligned}
 \frac{\partial\widetilde{C}}{\partial t} &= \frac{\partial v}{\partial t}+\frac{\partial v}{\partial x}\frac{\partial x}{\partial t}=\frac{\partial v}{\partial t}+B\frac{\partial v}{\partial x},\\
 \frac{\partial\widetilde{C}}{\partial z} &= \frac{\partial v}{\partial t}\frac{\partial t}{\partial z}+\frac{\partial v}{\partial x}\frac{\partial x}{\partial z}=A\frac{\partial v}{\partial x},\\
-\frac{\partial^2\widetilde{C}}{\partial z^2} &= A^2\frac{\partial^2v}{\partial x^2}.
+\frac{\partial[^2]\widetilde{C}}{\partial z[^2]} &= A[^2]\frac{\partial[^2]v}{\partial x[^2]}.
 \end{aligned}$$
 
 Therefore (5.32) becomes
 
-$$\frac{\partial v}{\partial t}+\left(B+\left(r-\frac{1}{2}\sigma^2\right)A\right)\frac{\partial v}{\partial x}+\frac{1}{2}\sigma^2A^2\frac{\partial^2v}{\partial x^2}-rv=0.$$
+$$\frac{\partial v}{\partial t}+\left(B+\left(r-\frac{1}{2}\sigma[^2]\right)A\right)\frac{\partial v}{\partial x}+\frac{1}{2}\sigma[^2]A[^2]\frac{\partial[^2]v}{\partial x[^2]}-rv=0.$$
 
 Let us choose $A$ and $B$ so that
 
-$$B+\left(r-\frac{1}{2}\sigma^2\right)A=0\quad\mathrm{and}\quad\sigma A=1,$$
+$$B+\left(r-\frac{1}{2}\sigma[^2]\right)A=0\quad\mathrm{and}\quad\sigma A=1,$$
 
 i.e.,
 
-$$A=\frac{1}{\sigma}\quad\text{and}\quad B=-\frac{1}{\sigma}\left(r-\frac{1}{2}\sigma^2\right).$$
+$$A=\frac{1}{\sigma}\quad\text{and}\quad B=-\frac{1}{\sigma}\left(r-\frac{1}{2}\sigma[^2]\right).$$
 
 Then (5.33) becomes
 
-$$\frac{\partial v}{\partial t}+\frac{1}{2}\frac{\partial^2v}{\partial x^2}-rv=0.$$
+$$\frac{\partial v}{\partial t}+\frac{1}{2}\frac{\partial[^2]v}{\partial x[^2]}-rv=0.$$
 
 Define
 
@@ -731,21 +731,21 @@ $$u(t, x)=e^{-rt}v(t, x),$$
 
 Then (5.35) becomes
 
-$$\frac{\partial u}{\partial t}+\frac{1}{2}\frac{\partial^2u}{\partial x^2}=0.$$
+$$\frac{\partial u}{\partial t}+\frac{1}{2}\frac{\partial[^2]u}{\partial x[^2]}=0.$$
 
 If we replace $A$ and $B$ in (5.34) then:
 
-$$x=\frac{1}{\sigma}z-\frac{1}{\sigma}\left(r-\frac{1}{2}\sigma^2\right)t,$$
+$$x=\frac{1}{\sigma}z-\frac{1}{\sigma}\left(r-\frac{1}{2}\sigma[^2]\right)t,$$
 
 And so
 
-$$z=\left(r-\frac{1}{2}\sigma^2\right)t+\sigma x.$$
+$$z=\left(r-\frac{1}{2}\sigma[^2]\right)t+\sigma x.$$
 
 Back to the first change of variable, we have
 
 $$\begin{array}{rcl}
 S &=& S_0e^z\\
-&=& S_0\exp\left(\left(r-\frac{1}{2}\sigma^2\right)t+\sigma x\right).
+&=& S_0\exp\left(\left(r-\frac{1}{2}\sigma[^2]\right)t+\sigma x\right).
 \end{array}$$
 
 In conclusion, if $u$ is defined by
@@ -755,34 +755,34 @@ $$u(t, x)=e^{-rt}v(t, x)=e^{-rt}C(t, S),$$
 $u$ satisfies the following heat equation initial boundary problem:
 
 $$\left\{\begin{array}{l}
-\frac{\partial u}{\partial t}+\frac{1}{2}\frac{\partial^2u}{\partial x^2}=0\\\\
+\frac{\partial u}{\partial t}+\frac{1}{2}\frac{\partial[^2]u}{\partial x[^2]}=0\\\\
 u(T, x)=e^{-rT}C(T, S)
 \end{array}\right.$$
 
 where $x$ and $S$ are related by
 
-$$S=S_0\exp\left(\left(r-\frac{1}{2}\sigma^2\right)t+\sigma x\right).$$
+$$S=S_0\exp\left(\left(r-\frac{1}{2}\sigma[^2]\right)t+\sigma x\right).$$
 
 The equation in (5.38) is the so-called heat equation, but with the time seemingly flowing backward. However, if we make one more substitution $\tau = T-t$ for time, (5.38) becomes an equation for $u(\tau, x)$ satisfying
 
 $$\left\{\begin{array}{l}
-\frac{\partial u}{\partial\tau}=\frac{1}{2}\frac{\partial^2u}{\partial x^2}\\\\
+\frac{\partial u}{\partial\tau}=\frac{1}{2}\frac{\partial[^2]u}{\partial x[^2]}\\\\
 u(0, x)=e^{-rT}C(T, S).
 \end{array}\right.$$
 
 This is the usual form of the initial value problem of the heat equation. In other words, (5.38) is the correct, well-posed heat equation because the initial condition $u(T, x)=e^{-rT}C(T, S)$ is posed at a future time while we are interested in the solution at times before that fixed future time. Incidentally, in finance literature, (5.38) is called the boundary value problem. It is a well known fact from the theory of parabolic (heat) equations that the solution $u(t, x)$ of (5.38) can be written as
 
-$$u(t, x)=\int_{-\infty}^{\infty}\frac{1}{\sqrt{2\pi(T-t)}}e^{-\frac{(x-y)^2}{2(T-t)}}u(T, y)dy.$$
+$$u(t, x)=\int_{-\infty}^{\infty}\frac{1}{\sqrt{2\pi(T-t)}}e^{-\frac{(x-y)[^2]}{2(T-t)}}u(T, y)dy.$$
 
 Here the function
 
-$$\frac{1}{\sqrt{2\pi(T-t)}}e^{-\frac{(x-y)^2}{2(T-t)}}$$
+$$\frac{1}{\sqrt{2\pi(T-t)}}e^{-\frac{(x-y)[^2]}{2(T-t)}}$$
 
 is called the heat kernel (for (5.38)) and its probabilistic meaning is that it represents the probability density function for a Brownian particle (motion) to move from $y$ to $x$ in time $T-t$.
 
 Let us now derive the value of the European call option. Since the stock price at time $t=0$ is $S_0$, it must be $C(0, S_0)$. It is easily seen from (5.37) that this case corresponds to the case in which $t=0$ and $x=0$. Namely, by (5.40) the option's value at time $t=0$ is nothing but
 
-$$u(0, 0)=\int_{-\infty}^{\infty}\frac{1}{\sqrt{2\pi T}}e^{-\frac{x^2}{2T}}u(T, x)dx.$$
+$$u(0, 0)=\int_{-\infty}^{\infty}\frac{1}{\sqrt{2\pi T}}e^{-\frac{x[^2]}{2T}}u(T, x)dx.$$
 
 We now derive the Black-Scholes formula for the call option. Note that
 
@@ -790,27 +790,27 @@ $$u(T, x)=e^{-rT}(S_T-K)^+.$$
 
 By (5.41),
 
-$$u(0, 0)=\int_{-\infty}^{\infty}\frac{1}{\sqrt{2\pi T}}e^{-\frac{x^2}{2T}}e^{-rT}(S_T-K)^+dx,$$
+$$u(0, 0)=\int_{-\infty}^{\infty}\frac{1}{\sqrt{2\pi T}}e^{-\frac{x[^2]}{2T}}e^{-rT}(S_T-K)^+dx,$$
 
 where at $T$, $S_T$ and $x$ are related by
 
-$$S_T=S_0\exp\left(\left(r-\frac{1}{2}\sigma^2\right)T+\sigma x\right).$$
+$$S_T=S_0\exp\left(\left(r-\frac{1}{2}\sigma[^2]\right)T+\sigma x\right).$$
 
 One can compute $u(0, 0)$ as follows:
 
 $$\begin{aligned}
-u(0, 0) &= e^{-rT}\int_{D}\frac{1}{\sqrt{2\pi T}}e^{-\frac{x^2}{2T}}\left(S_0\exp\left(\left(r-\frac{1}{2}\sigma^2\right)T+\sigma x\right)-K\right)dx \\
-&= e^{-rT}\int_{D}\frac{1}{\sqrt{2\pi T}}e^{-\frac{x^2}{2T}}S_0\exp\left(\left(r-\frac{1}{2}\sigma^2\right)T+\sigma x\right)dx \\
-&- Ke^{-rT}\int_{D}\frac{1}{\sqrt{2\pi T}}e^{-\frac{x^2}{2T}}dx \\
+u(0, 0) &= e^{-rT}\int_{D}\frac{1}{\sqrt{2\pi T}}e^{-\frac{x[^2]}{2T}}\left(S_0\exp\left(\left(r-\frac{1}{2}\sigma[^2]\right)T+\sigma x\right)-K\right)dx \\
+&= e^{-rT}\int_{D}\frac{1}{\sqrt{2\pi T}}e^{-\frac{x[^2]}{2T}}S_0\exp\left(\left(r-\frac{1}{2}\sigma[^2]\right)T+\sigma x\right)dx \\
+&- Ke^{-rT}\int_{D}\frac{1}{\sqrt{2\pi T}}e^{-\frac{x[^2]}{2T}}dx \\
 &= I_1-Ke^{-rT}I_2
 \end{aligned}$$
 
 Where
 
 $$\begin{aligned}
-D &= \left\{x:S_0\exp\left(\left(r-\frac{1}{2}\sigma^2\right)T+\sigma x\right)>K\right\},\\
-I_1 &= e^{-rT}\int_{D}\frac{1}{\sqrt{2\pi T}}e^{-\frac{x^2}{2T}}S_0\exp\left(\left(r-\frac{1}{2}\sigma^2\right)T+\sigma x\right)dx,\\
-I_2 &= \int_{D}\frac{1}{\sqrt{2\pi T}}e^{-\frac{x^2}{2T}}dx.
+D &= \left\{x:S_0\exp\left(\left(r-\frac{1}{2}\sigma[^2]\right)T+\sigma x\right)>K\right\},\\
+I_1 &= e^{-rT}\int_{D}\frac{1}{\sqrt{2\pi T}}e^{-\frac{x[^2]}{2T}}S_0\exp\left(\left(r-\frac{1}{2}\sigma[^2]\right)T+\sigma x\right)dx,\\
+I_2 &= \int_{D}\frac{1}{\sqrt{2\pi T}}e^{-\frac{x[^2]}{2T}}dx.
 \end{aligned}$$
 
 ### Compute $I_2$
@@ -818,17 +818,17 @@ I_2 &= \int_{D}\frac{1}{\sqrt{2\pi T}}e^{-\frac{x^2}{2T}}dx.
 Put $y=\frac{x}{\sqrt{T}}$ then
 
 $$\begin{aligned}
-D &= \left\{x:S_0\exp\left(\left(r-\frac{1}{2}\sigma^2\right)T+\sigma x\right)>K\right\}\\
-&= \left\{y:y>-\frac{\log(S_0/K)+(r-\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}\right\}
+D &= \left\{x:S_0\exp\left(\left(r-\frac{1}{2}\sigma[^2]\right)T+\sigma x\right)>K\right\}\\
+&= \left\{y:y>-\frac{\log(S_0/K)+(r-\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}}\right\}
 \end{aligned}$$
 
 And
 
 $$\begin{aligned}
-I_2 &= \int_{D}\frac{1}{\sqrt{2\pi}}e^{-\frac{y^2}{2}}dy \\
-&= \int_{-\frac{\log(S_0/K)+(r-\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}}^{\infty}\frac{1}{\sqrt{2\pi}}e^{-\frac{y^2}{2}}dy \\
-&= \int_{-\infty}^{\frac{\log(S_0/K)+(r-\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}}\frac{1}{\sqrt{2\pi}}e^{-\frac{y^2}{2}}dy \\
-&= N\left(\frac{\log(S_0/K)+(r-\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}\right).
+I_2 &= \int_{D}\frac{1}{\sqrt{2\pi}}e^{-\frac{y[^2]}{2}}dy \\
+&= \int_{-\frac{\log(S_0/K)+(r-\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}}}^{\infty}\frac{1}{\sqrt{2\pi}}e^{-\frac{y[^2]}{2}}dy \\
+&= \int_{-\infty}^{\frac{\log(S_0/K)+(r-\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}}}\frac{1}{\sqrt{2\pi}}e^{-\frac{y[^2]}{2}}dy \\
+&= N\left(\frac{\log(S_0/K)+(r-\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}}\right).
 \end{aligned}$$
 
 ### Compute $I_1$
@@ -836,17 +836,17 @@ I_2 &= \int_{D}\frac{1}{\sqrt{2\pi}}e^{-\frac{y^2}{2}}dy \\
 Put $y=\frac{x-\sigma T}{\sqrt{T}}$ then
 
 $$\begin{aligned}
-D &= \left\{x:S_0\exp\left(\left(r-\frac{1}{2}\sigma^2\right)T+\sigma x\right)>K\right\}\\
-&= \left\{y:y>-\frac{\log(S_0/K)+(r+\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}\right\}
+D &= \left\{x:S_0\exp\left(\left(r-\frac{1}{2}\sigma[^2]\right)T+\sigma x\right)>K\right\}\\
+&= \left\{y:y>-\frac{\log(S_0/K)+(r+\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}}\right\}
 \end{aligned}$$
 
 And
 
 $$\begin{gathered}
-I_1 = S_0\int_{D}\frac{1}{\sqrt{2\pi T}}\exp\left(-\frac{1}{2}\left(\frac{x-\sigma T}{\sqrt{T}}\right)^2\right)dx \\
-= S_0\int_{-\frac{\log(S_0/K)+(r+\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}}^{\infty}\frac{1}{\sqrt{2\pi}}e^{-\frac{y^2}{2}}dy \\
-= S_0\int_{-\infty}^{\frac{\log(S_0/K)+(r+\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}}\frac{1}{\sqrt{2\pi}}e^{-\frac{y^2}{2}}dy \\
-= S_0N\left(\frac{\log(S_0/K)+(r+\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}\right).
+I_1 = S_0\int_{D}\frac{1}{\sqrt{2\pi T}}\exp\left(-\frac{1}{2}\left(\frac{x-\sigma T}{\sqrt{T}}\right)[^2]\right)dx \\
+= S_0\int_{-\frac{\log(S_0/K)+(r+\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}}}^{\infty}\frac{1}{\sqrt{2\pi}}e^{-\frac{y[^2]}{2}}dy \\
+= S_0\int_{-\infty}^{\frac{\log(S_0/K)+(r+\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}}}\frac{1}{\sqrt{2\pi}}e^{-\frac{y[^2]}{2}}dy \\
+= S_0N\left(\frac{\log(S_0/K)+(r+\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}}\right).
 \end{gathered}$$
 
 Therefore, we can obtain the following:
@@ -856,8 +856,8 @@ $$C(0, S_0)=S_0N(d_1)-e^{-rT}KN(d_2),$$
 Where
 
 $$\begin{gathered}
-d_1 = \frac{\log(S_0/K)+(r+\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}},\\
-d_2 = \frac{\log(S_0/K)+(r-\frac{1}{2}\sigma^2)T}{\sigma\sqrt{T}}.
+d_1 = \frac{\log(S_0/K)+(r+\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}},\\
+d_2 = \frac{\log(S_0/K)+(r-\frac{1}{2}\sigma[^2])T}{\sigma\sqrt{T}}.
 \end{gathered}$$
 
 In general, if we know the value $S_t$ at time $t$, then we can apply the same formula to get
@@ -867,8 +867,8 @@ $$C(t, S_t)=S_tN(d_1)-e^{-r(T-t)}KN(d_2),$$
 where $T-t$ is the time to expiry from time $t$ and
 
 $$\begin{aligned}
-d_1 &= \frac{\log(S_t/K)+(r+\frac{1}{2}\sigma^2)(T-t)}{\sigma\sqrt{T-t}},\\
-d_2 &= \frac{\log(S_t/K)+(r-\frac{1}{2}\sigma^2)(T-t)}{\sigma\sqrt{T-t}}.
+d_1 &= \frac{\log(S_t/K)+(r+\frac{1}{2}\sigma[^2])(T-t)}{\sigma\sqrt{T-t}},\\
+d_2 &= \frac{\log(S_t/K)+(r-\frac{1}{2}\sigma[^2])(T-t)}{\sigma\sqrt{T-t}}.
 \end{aligned}$$
 
 Note also that (5.43) provides a valuable information on the replicating portfolio. Namely,
@@ -906,15 +906,15 @@ C_t-P_t &= B_tE_Q\left[\frac{X-Y}{B_T}\mid\mathcal{F}_t\right] \\
 &= S_t-Ke^{-r(T-t)}.
 \end{aligned}$$
 
-![500](Attachments/500-98.png)
+!500
 
 Figure 5.10: Payoff of $C_T$
 
-![500](Attachments/500-97.png)
+!500
 
 Figure 5.11: Payoff of $P_T$
 
-![500](Attachments/500-99.png)
+!500
 
 Figure 5.12: Payoff of $C_T-P_T$
 
@@ -929,8 +929,8 @@ P_t &= C_t-S_t+Ke^{-r(T-t)}\\
 Where
 
 $$\begin{aligned}
-d_1 &= \frac{\log(S_t/K)+(r+\frac{1}{2}\sigma^2)(T-t)}{\sigma\sqrt{T-t}},\\
-d_2 &= \frac{\log(S_t/K)+(r-\frac{1}{2}\sigma^2)(T-t)}{\sigma\sqrt{T-t}}.
+d_1 &= \frac{\log(S_t/K)+(r+\frac{1}{2}\sigma[^2])(T-t)}{\sigma\sqrt{T-t}},\\
+d_2 &= \frac{\log(S_t/K)+(r-\frac{1}{2}\sigma[^2])(T-t)}{\sigma\sqrt{T-t}}.
 \end{aligned}$$
 
 Here we used the fact that
@@ -948,34 +948,34 @@ $$\left\{\begin{array}{ll}
 
 ## Appendix
 
-![500](Attachments/500-102.png)
+!500
 
 Figure 5.2: 1-day percentage changes of KOSPI 200.
 
-![500](Attachments/500-103.png)
+!500
 
 Figure 5.3: 1-day percentage changes of KOSPI 200 with Normal Distribution Approximation.
 
-![500](Attachments/500-107.png)
+!500
 
 Figure 5.4: 2-day percentage changes of KOSPI 200 with Normal Distribution Approximation
 
-![500](Attachments/500-105.png)
+!500
 
 Figure 5.5: 3-day percentage changes of KOSPI 200 with Normal Distribution Approximation
 
-![500](Attachments/500-108.png)
+!500
 
 Figure 5.6: 5-day percentage changes of KOSPI 200 with Normal Distribution Approximation
 
-![500](Attachments/500-104.png)
+!500
 
 Figure 5.7: 7-day percentage changes of KOSPI 200 with Normal Distribution Approximation.
 
-![500](Attachments/500-106.png)
+!500
 
 Figure 5.8: Overlaid normal distributions.
 
-![500](Attachments/500-100.png)
+!500
 
 Figure 5.9: Change of the $h$-day Volatilities

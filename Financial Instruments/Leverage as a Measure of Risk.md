@@ -203,13 +203,13 @@ n &=& \displaystyle\frac{T}{\Delta t}\;, \\
 $$
 
 ### Table 2: LIBOR Quotes
-![Table 2: LIBOR Quotes](Attachments/Table_2!_LIBOR_Quotes.jpg)
+!Table 2: LIBOR Quotes
 
 ### Table 3: Future Quotes
-![Table 3: Future Quotes](Attachments/Table_3!_Future_Quotes.jpg)
+!Table 3: Future Quotes
 
 ### Table 4: Swap Quotes
-![Table 4: Swap Quotes](Attachments/Table_4!_Swap_Quotes.jpg)
+!Table 4: Swap Quotes
 
 From (B.1) - (B.6), the PV of a forward swap effective between $t+\tau$ and $t+T$ as seen at $t$ is:
 $$
@@ -241,14 +241,14 @@ $$
 $$
 
 ### Table 5: ATM Implied Swaption Volatilities
-![Table 5: ATM Implied Swaption Volatilities](Attachments/Table_5!_ATM_Implied_Swaption_Volatilities.jpg)
+!Table 5: ATM Implied Swaption Volatilities
 
 ## References
 
-1. D. Goldman. *Seeing is not believing: Fund of funds and hedge fund risk assessment and transparency, survival and leverage*. Working paper, Measurisk TM, 2003.
-2. J. Hull. *Options, Futures and Other Derivatives*. Prentice Hall, 6th edition, 2006.
-3. F. Fabozzi. *The Handbook of Fixed Income Securities*. McGraw-Hill, 7th edition, 2005.
-4. W. Feller. *An Introduction to Probability Theory and Its Applications*, Volume 1. John Wiley & Sons, 3rd edition, 1968.
-5. P. Glasserman. *Monte Carlo Methods in Financial Engineering* (Stochastic Modelling and Applied Probability). Springer-Verlag, New York, 2004.
-6. M. Matsumoto and T. Nishimura. *Mersenne Twister: A 623-dimensionally equidistributed uniform pseudorandom number generator*. *ACM Transactions on Modeling and Computer Simulation*, 8 (1):3–30, January 1998. [http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/ARTICLES/mt.pdf](http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/ARTICLES/mt.pdf).
-7. P. Miron and P. Swannell. *Pricing and Hedging Swaps*. Euromoney Books, 1991.
+[^1]: D. Goldman. *Seeing is not believing: Fund of funds and hedge fund risk assessment and transparency, survival and leverage*. Working paper, Measurisk TM, 2003.
+[^2]: J. Hull. *Options, Futures and Other Derivatives*. Prentice Hall, 6th edition, 2006.
+[^3]: F. Fabozzi. *The Handbook of Fixed Income Securities*. McGraw-Hill, 7th edition, 2005.
+[^4]: W. Feller. *An Introduction to Probability Theory and Its Applications*, Volume 1. John Wiley & Sons, 3rd edition, 1968.
+[^5]: P. Glasserman. *Monte Carlo Methods in Financial Engineering* (Stochastic Modelling and Applied Probability). Springer-Verlag, New York, 2004.
+[^6]: M. Matsumoto and T. Nishimura. *Mersenne Twister: A 623-dimensionally equidistributed uniform pseudorandom number generator*. *ACM Transactions on Modeling and Computer Simulation*, 8 (1):3–30, January 1998. http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/ARTICLES/mt.pdf.
+[^7]: P. Miron and P. Swannell. *Pricing and Hedging Swaps*. Euromoney Books, 1991.

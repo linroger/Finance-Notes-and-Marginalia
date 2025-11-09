@@ -38,12 +38,12 @@ This chapter is devoted to introducing the binomial tree model, also known as a 
 ## I. One-Period Binomial Tree
 
 ### Figure 4-1
-![Figure 4-1](Attachments/Figure_4-1.jpg)
+!Figure 4-1
 
 (i) Constructing a portfolio: long $\Delta$ shares and short 1 call.
 
 ### Figure 4-2
-![Figure 4-2](Attachments/Figure_4-2.jpg)
+!Figure 4-2
 
 (ii) Deciding the value of $\Delta$: if $22\Delta - 1 = 18\Delta \Rightarrow$ portfolio is riskless.
 
@@ -52,7 +52,7 @@ This chapter is devoted to introducing the binomial tree model, also known as a 
 *$^*$ Note that the risk-free interest rate $r$ emerges due to the use of the no-arbitrage argument.
 
 ### Figure 4-3
-![Figure 4-3](Attachments/Figure_4-3.jpg)
+!Figure 4-3
 
 $$
 \begin{array}{rl}
@@ -129,15 +129,15 @@ $$
 $$
 
 $$
-\therefore \ln S_T \sim N\left( \ln S_0 + \left( \mu - \frac{\sigma^2}{2} \right) T,\; \sigma^2 T \right)
+\therefore \ln S_T \sim N\left( \ln S_0 + \left( \mu - \frac{\sigma[^2]}{2} \right) T,\; \sigma[^2] T \right)
 $$
 
 $$
-\Rightarrow E[S_T] = S_0 e^{\mu T}, \quad \mathrm{var}(S_T) = S_0^2 e^{2\mu T} \left( e^{\sigma^2 T} - 1 \right).
+\Rightarrow E[S_T] = S_0 e^{\mu T}, \quad \mathrm{var}(S_T) = S_0[^2] e^{2\mu T} \left( e^{\sigma[^2] T} - 1 \right).
 $$
 
 $$
-\therefore \ln S_{t+\Delta t} \sim N\left( \ln S_t + \left( \mu - \frac{\sigma^2}{2} \right) \Delta t,\; \sigma^2 \Delta t \right)
+\therefore \ln S_{t+\Delta t} \sim N\left( \ln S_t + \left( \mu - \frac{\sigma[^2]}{2} \right) \Delta t,\; \sigma[^2] \Delta t \right)
 $$
 
 $$
@@ -145,42 +145,42 @@ $$
 $$
 
 $$
-\Rightarrow \mathrm{var}(S_{t+\Delta t}) = S_t^2 e^{2\mu \Delta t} \left( e^{\sigma^2 \Delta t} - 1 \right) \approx S_t^2 \sigma^2 \Delta t
+\Rightarrow \mathrm{var}(S_{t+\Delta t}) = S_t[^2] e^{2\mu \Delta t} \left( e^{\sigma[^2] \Delta t} - 1 \right) \approx S_t[^2] \sigma[^2] \Delta t
 $$
 
-(because $e^x \approx 1 + x$ when $x \to 0$), ignoring the terms with $\Delta t^2$.
+(because $e^x \approx 1 + x$ when $x \to 0$), ignoring the terms with $\Delta t[^2]$.
 
 (In the next paragraph, we will use this property to derive the parameters $u$, $d$, and $p$ in the CRR binomial tree framework.)
 
 ### Deriving $u$, $d$, and $p$ in the CRR (Cox, Ross, and Rubinstein (1979)) Binomial Tree Model
 
-![Figure 4-5](Attachments/Figure_4-5.jpg)
+!Figure 4-5
 
 #### Problems of the CRR Model:
 
-1. $p = \frac{e^{r \Delta t} - d}{u - d} = \frac{e^{\sigma r \sqrt{\Delta t}} - e^{-\sigma r \sqrt{\Delta t}}}{u - d}$ is not necessarily inside $[0,1]$ unless $\Delta t$ is small enough.
-2. The approximations used to derive $\mathrm{var}(S_{t+\Delta t})$ as well as $u$ and $d$ are valid only when $\Delta t$ is very small.
+[^1]: $p = \frac{e^{r \Delta t} - d}{u - d} = \frac{e^{\sigma r \sqrt{\Delta t}} - e^{-\sigma r \sqrt{\Delta t}}}{u - d}$ is not necessarily inside $[0,1]$ unless $\Delta t$ is small enough.
+[^2]: The approximations used to derive $\mathrm{var}(S_{t+\Delta t})$ as well as $u$ and $d$ are valid only when $\Delta t$ is very small.
 
 #### Another Binomial Tree Model Proposed in Jarrow and Rudd (1983):
 
 By considering the logarithmic stock price space and the constraint of $p=1/2$, then
 
 $$
-u = e^{\left(r - \frac{\sigma^2}{2}\right)\Delta t + \sigma \sqrt{\Delta t}}, \quad
-d = e^{\left(r - \frac{\sigma^2}{2}\right)\Delta t - \sigma \sqrt{\Delta t}},
+u = e^{\left(r - \frac{\sigma[^2]}{2}\right)\Delta t + \sigma \sqrt{\Delta t}}, \quad
+d = e^{\left(r - \frac{\sigma[^2]}{2}\right)\Delta t - \sigma \sqrt{\Delta t}},
 $$
 
 Can be solved as follows.
 
 ### Figure 4-6
-![Figure 4-6](Attachments/Figure_4-6.jpg)
+!Figure 4-6
 
 $$
-\ln S_{t+\Delta t} \sim N\left( \ln S_t + \left(r - \frac{\sigma^2}{2}\right)\Delta t,\; \sigma^2 \Delta t \right)
+\ln S_{t+\Delta t} \sim N\left( \ln S_t + \left(r - \frac{\sigma[^2]}{2}\right)\Delta t,\; \sigma[^2] \Delta t \right)
 $$
 
 $$
-\therefore E[\ln S_{t+\Delta t}] = \ln S_t + \left(r - \frac{\sigma^2}{2}\right)\Delta t,\quad \mathrm{var}(\ln S_{t+\Delta t}) = \sigma^2 \Delta t
+\therefore E[\ln S_{t+\Delta t}] = \ln S_t + \left(r - \frac{\sigma[^2]}{2}\right)\Delta t,\quad \mathrm{var}(\ln S_{t+\Delta t}) = \sigma[^2] \Delta t
 $$
 
 Matching mean and variance of $\ln S_{t+\Delta t}$:
@@ -189,8 +189,8 @@ $$
 \Rightarrow
 \left\{
 \begin{array}{ll}
-p (\ln S_t + \ln u) + (1-p) (\ln S_t + \ln d) = \ln S_t + \left(r - \frac{\sigma^2}{2}\right)\Delta t, \\
-p (\ln S_t + \ln u)^2 + (1-p) (\ln S_t + \ln d)^2 - \left( \ln S_t + \left(r - \frac{\sigma^2}{2}\right)\Delta t \right)^2 = \sigma^2 \Delta t
+p (\ln S_t + \ln u) + (1-p) (\ln S_t + \ln d) = \ln S_t + \left(r - \frac{\sigma[^2]}{2}\right)\Delta t, \\
+p (\ln S_t + \ln u)[^2] + (1-p) (\ln S_t + \ln d)[^2] - \left( \ln S_t + \left(r - \frac{\sigma[^2]}{2}\right)\Delta t \right)[^2] = \sigma[^2] \Delta t
 \end{array}
 \right.
 $$
@@ -198,16 +198,16 @@ $$
 In this model, $p$ is fixed to be 0.5, and only $u$ and $d$ are left as unknowns. By further derivations, one obtains
 
 $$
-\ln u = 2 \left(r - \frac{\sigma^2}{2}\right)\Delta t - \ln d.
+\ln u = 2 \left(r - \frac{\sigma[^2]}{2}\right)\Delta t - \ln d.
 $$
 
 $\Rightarrow$ Replacing $\ln u$ with $2\mu - D$ in Eq. (2) yields
 
 $$
 \begin{array}{rl}
-& 0.5 (\ln S_t + 2\mu - D)^2 + 0.5 (\ln S_t + D)^2 - 2 (\ln S_t + \mu)^2 = 2\sigma^2 \Delta t \\
-& \Rightarrow D^2 - 2\mu D + \mu^2 - \sigma^2 \Delta t = 0 \\
-& \Rightarrow D = \frac{2\mu \pm \sqrt{4\mu^2 - 4(\mu^2 - \sigma^2 \Delta t)}}{2} = \mu \pm \sigma \sqrt{\Delta t} = \ln d \\
+& 0.5 (\ln S_t + 2\mu - D)[^2] + 0.5 (\ln S_t + D)[^2] - 2 (\ln S_t + \mu)[^2] = 2\sigma[^2] \Delta t \\
+& \Rightarrow D[^2] - 2\mu D + \mu[^2] - \sigma[^2] \Delta t = 0 \\
+& \Rightarrow D = \frac{2\mu \pm \sqrt{4\mu[^2] - 4(\mu[^2] - \sigma[^2] \Delta t)}}{2} = \mu \pm \sigma \sqrt{\Delta t} = \ln d \\
 & \Rightarrow \ln u = \mu \pm \sigma \sqrt{\Delta t}.
 \end{array}
 $$
@@ -220,16 +220,16 @@ $$
 $$
 
 ### Figure 4-5
-![Figure 4-5](Attachments/Figure_4-5.jpg)
+!Figure 4-5
 
 - Advantages of this alternative binomial tree model: 
-  1) There is no approximation
-  2) $p$ maintains to be a positive number between 0 and 1
-  3) The convergence rate is generally better than the CRR model for pricing plain vanilla options.
+[^1]: ) There is no approximation
+[^2]: ) $p$ maintains to be a positive number between 0 and 1
+[^3]: ) The convergence rate is generally better than the CRR model for pricing plain vanilla options.
 
 - Disadvantages of this alternative binomial tree model is due to $S_{0}u d\neq S_{0}$: 
-  1) Since there is no stock price layer coinciding with the specified barrier price, it is less efficient to price the family of barrier options. 
-  2) Since there is no stock price layer equal to $S_{0}$, it is impossible to apply a quick method, known as the extended tree model, to estimate some Greek letters, like $\Delta$, $\Gamma$, and $\Theta$.
+[^1]: ) Since there is no stock price layer coinciding with the specified barrier price, it is less efficient to price the family of barrier options.
+[^2]: ) Since there is no stock price layer equal to $S_{0}$, it is impossible to apply a quick method, known as the extended tree model, to estimate some Greek letters, like $\Delta$, $\Gamma$, and $\Theta$.
 
 - One possible trinomial tree structure proposed in Hull (2011):
 
@@ -302,7 +302,7 @@ $$
 
 $\Rightarrow$ The geometric average of daily returns
 
-$\Rightarrow$ The arithmetic average of daily returns estimate the continuously compounding return $\mu_d - \frac{\sigma_d^2}{2}$
+$\Rightarrow$ The arithmetic average of daily returns estimate the continuously compounding return $\mu_d - \frac{\sigma_d[^2]}{2}$
 
 $\Rightarrow$ The standard deviation of the series of daily $\ln\frac{S_{t+1}}{S_{t}}$, $\ln\frac{S_{1}}{S_{0}}$, $\ln\frac{S_{2}}{S_{1}}, \ldots, \ln\frac{S_{n}}{S_{n-1}}$ generates the estimation of $\sigma_{d}$.
 
@@ -354,7 +354,7 @@ This section introduces how to modify the option pricing models if the dividend 
 ### Table 4-1 Three Different Models for Dividend Payments
 
 $$
-\begin{array}{|c|c|c|c|}
+\begin{array}{ | c | c | c | c | }
 \hline
 \text{Suppose the time point today is 0 Model 1:} & \text{Black-Scholes Model European} & \text{Binomial Tree Model European} & \text{Binomial Tree Model American} \\
 \hline
@@ -383,7 +383,7 @@ S_0 e^{-qT} + \text{no dividend yield}
 $$
 
 ### Figure 4-8
-![Figure 4-8](Attachments/Figure_4-8.jpg)
+!Figure 4-8
 
 #### Analytical Formula
 
@@ -411,7 +411,7 @@ $$
 For any derivative $f$ on $S$, by Itô's lemma:
 
 $$
-df = \left( \frac{\partial f}{\partial t} + \frac{\partial f}{\partial S} (\mu - q) S + \frac{1}{2} \frac{\partial^2 f}{\partial S^2} \sigma^2 S^2 \right) dt + \frac{\partial f}{\partial S} \sigma S dZ.
+df = \left( \frac{\partial f}{\partial t} + \frac{\partial f}{\partial S} (\mu - q) S + \frac{1}{2} \frac{\partial[^2] f}{\partial S[^2]} \sigma[^2] S[^2] \right) dt + \frac{\partial f}{\partial S} \sigma S dZ.
 $$
 
 Construct a portfolio $\pi$:
@@ -421,7 +421,7 @@ $$
 $$
 
 $$
-= \left( -\frac{\partial f}{\partial t} - \frac{1}{2} \frac{\partial^2 f}{\partial S^2} \sigma^2 S^2 + \frac{\partial f}{\partial S} S q \right) dt.
+= \left( -\frac{\partial f}{\partial t} - \frac{1}{2} \frac{\partial[^2] f}{\partial S[^2]} \sigma[^2] S[^2] + \frac{\partial f}{\partial S} S q \right) dt.
 $$
 
 Due to the no-arbitrage argument,
@@ -431,11 +431,11 @@ d\pi = r \pi dt
 $$
 
 $$
-\Rightarrow \left( -\frac{\partial f}{\partial t} - \frac{1}{2} \frac{\partial^2 f}{\partial S^2} \sigma^2 S^2 + \frac{\partial f}{\partial S} S q \right) dt = r (-f + \frac{\partial f}{\partial S} S) dt
+\Rightarrow \left( -\frac{\partial f}{\partial t} - \frac{1}{2} \frac{\partial[^2] f}{\partial S[^2]} \sigma[^2] S[^2] + \frac{\partial f}{\partial S} S q \right) dt = r (-f + \frac{\partial f}{\partial S} S) dt
 $$
 
 $$
-\Rightarrow \frac{\partial f}{\partial t} + (r - q) S \frac{\partial f}{\partial S} + \frac{1}{2} \sigma^2 S^2 \frac{\partial^2 f}{\partial S^2} = r f.
+\Rightarrow \frac{\partial f}{\partial t} + (r - q) S \frac{\partial f}{\partial S} + \frac{1}{2} \sigma[^2] S[^2] \frac{\partial[^2] f}{\partial S[^2]} = r f.
 $$
 
 You can check that the formulas shown at the top of this page are the solutions to the above PDE given the boundary conditions being $\max (S_T - K, 0)$ and $\max (K - S_T, 0)$ for the call and put options, respectively.
@@ -469,7 +469,7 @@ $\odot$ For the Black-Scholes formula, it is unavailable to deal with this probl
 $\odot$ For the binomial tree model, it is simple to deal with this problem (see Figure 4-8).
 
 ### Figure 4-8
-![Figure 4-8](Attachments/Figure_4-8-1.jpg)
+!Figure 4-8
 
 ### Model 3: Known Cash Dividends $D$ at Time Point $t$
 
@@ -491,12 +491,12 @@ $$
 (This is because the distributions of $S_\tau$ ($\tau \ge t$) are the same under no dividend payment.)
 
 ### Figure 4-9
-![Figure 4-9](Attachments/Figure_4-9.jpg)
+!Figure 4-9
 
 **Method 3**: This method can maintain the recombined feature of the binomial tree.
 
 ### Figure 4-10
-![Figure 4-10](Attachments/Figure_4-10.jpg)
+!Figure 4-10
 
 Define $S_0^* = S_0 - D e^{-r (t - t_0)} = S_0 - D e^{-rt}$.
 
@@ -527,7 +527,7 @@ $$
 Where
 
 $$
-d_1 = \frac{\ln (S_0/K) + (r - r_f + \frac{\sigma^2}{2}) T}{\sigma \sqrt{T}},
+d_1 = \frac{\ln (S_0/K) + (r - r_f + \frac{\sigma[^2]}{2}) T}{\sigma \sqrt{T}},
 \quad
 d_2 = d_1 - \sigma \sqrt{T}.
 $$
@@ -549,17 +549,17 @@ $$
 Let $c (F, t)$ be the call on futures, and according to Itô's lemma,
 
 $$
-d c = \left( \frac{\partial c}{\partial t} + \frac{\partial c}{\partial F} \mu F + \frac{1}{2} \frac{\partial^2 c}{\partial F^2} \sigma^2 F^2 \right) dt + \frac{\partial c}{\partial F} \sigma F dZ.
+d c = \left( \frac{\partial c}{\partial t} + \frac{\partial c}{\partial F} \mu F + \frac{1}{2} \frac{\partial[^2] c}{\partial F[^2]} \sigma[^2] F[^2] \right) dt + \frac{\partial c}{\partial F} \sigma F dZ.
 $$
 
 Construct portfolio $\pi = -c + \left ( \frac{\partial c}{\partial F} \right) F$ (noting the initial value of futures is 0),
 
 $$
-d\pi = -d c + \frac{\partial c}{\partial F} d F = -\left( \frac{\partial c}{\partial t} + \frac{1}{2} \frac{\partial^2 c}{\partial F^2} \sigma^2 F^2 \right) dt = r \pi dt = r (-c) dt
+d\pi = -d c + \frac{\partial c}{\partial F} d F = -\left( \frac{\partial c}{\partial t} + \frac{1}{2} \frac{\partial[^2] c}{\partial F[^2]} \sigma[^2] F[^2] \right) dt = r \pi dt = r (-c) dt
 $$
 
 $$
-\Rightarrow \frac{\partial c}{\partial t} + \frac{1}{2} \sigma^2 F^2 \frac{\partial^2 c}{\partial F^2} = r c.
+\Rightarrow \frac{\partial c}{\partial t} + \frac{1}{2} \sigma[^2] F[^2] \frac{\partial[^2] c}{\partial F[^2]} = r c.
 $$
 
 (Comparing with the PDE for stock options, there is no such term $\frac{\partial c}{\partial F} (r - q) F$.)
@@ -573,7 +573,7 @@ $$
 Where
 
 $$
-d_1 = \frac{\ln(F_0/K) + \frac{\sigma^2}{2} T}{\sigma \sqrt{T}},
+d_1 = \frac{\ln(F_0/K) + \frac{\sigma[^2]}{2} T}{\sigma \sqrt{T}},
 \quad
 d_2 = d_1 - \sigma \sqrt{T}.
 $$
@@ -590,7 +590,7 @@ $$
 Another way to derive $p$:
 
 ### Figure 4-11
-![Figure 4-11](Attachments/Figure_4-11.jpg)
+!Figure 4-11
 
 - The Black-Scholes model as well as the binomial tree model are versatile models: Treat stock index, currency, and futures like a share of stock paying a dividend yield $q$.
   - For stock index options: $q = \text{average dividend yield on the index over the option life}$
@@ -602,7 +602,7 @@ Another way to derive $p$:
 - Combinatorial method for European options: Based on the binomial tree framework, applying the combinatorial method is far faster than the backward induction procedure. In fact, it is not necessary to build the binomial tree in the combinatorial method, which is another advantage because it can save memory space for computer programming.
 
 ### Figure 4-12
-![Figure 4-12](Attachments/Figure_4-12.jpg)
+!Figure 4-12
 
 $$
 \text{European option value} = e^{-r T} \sum_{j=0}^{n} \binom{n}{j} p^{n-j} (1-p)^{j} \max\left(S_0 u^{n-j} d^{j} - K,\, 0\right),
@@ -610,7 +610,7 @@ $$
 
 Where $\binom{n}{j}$, also denoted as $C_j^n$, is the combination of $j$ from $n$, $u = e^{\sigma \sqrt{\Delta t}}$, $d = e^{-\sigma \sqrt{\Delta t}}$, and $p = \frac{e^{(r - q) \Delta t} - d}{u - d}$.
 
-*$^*$ For the binomial tree model, its complexity is $O(n^2)$, whereas for the above combinatorial method, the complexity is $O(n)$. The difference in required computational time is substantial for a large number of $n$, e.g., $n > 5000$.
+*$^*$ For the binomial tree model, its complexity is $O(n[^2])$, whereas for the above combinatorial method, the complexity is $O(n)$. The difference in required computational time is substantial for a large number of $n$, e.g., $n > 5000$.
 
 ## Appendix A. Binomial Tree Model for Jump-Diffusion Processes
 
@@ -623,21 +623,21 @@ $$
 \frac{dS}{S} = (r - q - \lambda K_Y)\,dt + \sigma\,dZ + (Y - 1)\,dq,
 $$
 
-Where $K_Y = E[Y - 1]$ and $\ln Y \sim N\left(\mu_J, \sigma_J^2\right)$. By Itô's lemma,
+Where $K_Y = E[Y - 1]$ and $\ln Y \sim N\left(\mu_J, \sigma_J[^2]\right)$. By Itô's lemma,
 
 $$
-d\,\ln S = \left( r - q - \frac{1}{2} \sigma^2 - \lambda K_Y \right) dt + \sigma\,dZ + \ln Y\,dq = \alpha\,dt + \sigma\,dZ + \ln Y\,dq.
+d\,\ln S = \left( r - q - \frac{1}{2} \sigma[^2] - \lambda K_Y \right) dt + \sigma\,dZ + \ln Y\,dq = \alpha\,dt + \sigma\,dZ + \ln Y\,dq.
 $$
 
 $\odot$ A modified lattice model based on Amin (1993):
 
 ### Figure 4-13
-![Figure 4-13](Attachments/Figure_4-13.jpg)
+!Figure 4-13
 
 $\odot$ Backward induction:
 
 ### Figure 4-14
-![Figure 4-14](Attachments/Figure_4-14.jpg)
+!Figure 4-14
 
 *$^*$ Define the branching probabilities as follows.
 
@@ -674,7 +674,7 @@ $$
 \left\{
 \begin{array}{ll}
 p_u S_t u + p_d S_t d = S_t e^{\alpha \Delta t}, \\
-p_u S_t^2 u^2 + p_d S_t^2 d^2 - \left( p_u S_t u + p_d S_t d \right)^2 = S_t^2 \sigma^2 \Delta t, \\
+p_u S_t[^2] u[^2] + p_d S_t[^2] d[^2] - \left( p_u S_t u + p_d S_t d \right)[^2] = S_t[^2] \sigma[^2] \Delta t, \\
 p_u + p_d = 1.
 \end{array}
 \right.
@@ -686,13 +686,13 @@ $$
 p_u = \frac{e^{\alpha \Delta t} - d}{u - d}.
 $$
 
-*$^*$ However, if we consider the probabilities of $(1 - \lambda \Delta t) p_u$ and $(1 - \lambda \Delta t) p_d$ for the upward and downward branches, respectively, when the jump component is introduced, the mean and variance generated by the probabilities of $(1 - \lambda \Delta t) p_u$ and $(1 - \lambda \Delta t) p_d$ are no longer $S_t e^{\alpha \Delta t}$ and $S_t^2 \sigma^2 \Delta t$:
+*$^*$ However, if we consider the probabilities of $(1 - \lambda \Delta t) p_u$ and $(1 - \lambda \Delta t) p_d$ for the upward and downward branches, respectively, when the jump component is introduced, the mean and variance generated by the probabilities of $(1 - \lambda \Delta t) p_u$ and $(1 - \lambda \Delta t) p_d$ are no longer $S_t e^{\alpha \Delta t}$ and $S_t[^2] \sigma[^2] \Delta t$:
 
 $$
 \left\{
 \begin{array}{ll}
 (1 - \lambda \Delta t) p_u S_t u + (1 - \lambda \Delta t) p_d S_t d = (1 - \lambda \Delta t) S_t e^{\alpha \Delta t}, \\
-(1 - \lambda \Delta t) p_u S_t^2 u^2 + (1 - \lambda \Delta t) p_d S_t^2 d^2 - \left[ (1 - \lambda \Delta t) S_t e^{\alpha \Delta t} \right]^2 \approx (1 - \lambda \Delta t) S_t^2 \sigma^2 \Delta t, \\
+(1 - \lambda \Delta t) p_u S_t[^2] u[^2] + (1 - \lambda \Delta t) p_d S_t[^2] d[^2] - \left[ (1 - \lambda \Delta t) S_t e^{\alpha \Delta t} \right][^2] \approx (1 - \lambda \Delta t) S_t[^2] \sigma[^2] \Delta t, \\
 (1 - \lambda \Delta t) p_u + (1 - \lambda \Delta t) p_d = (1 - \lambda \Delta t).
 \end{array}
 \right.
@@ -701,7 +701,7 @@ $$
 For the variance equation, it can be rewritten as
 
 $$
-(1 - \lambda \Delta t) \left[ p_u S_t^2 u^2 + p_d S_t^2 d^2 - \left( p_u S_t u + p_d S_t d \right)^2 \right] \approx (1 - \lambda \Delta t) S_t^2 \sigma^2 \Delta t,
+(1 - \lambda \Delta t) \left[ p_u S_t[^2] u[^2] + p_d S_t[^2] d[^2] - \left( p_u S_t u + p_d S_t d \right)[^2] \right] \approx (1 - \lambda \Delta t) S_t[^2] \sigma[^2] \Delta t,
 $$
 
 If $\Delta t$ is small such that $(1 - \lambda \Delta t) \approx 1$.
@@ -714,7 +714,7 @@ $$
 \left\{
 \begin{array}{ll}
 p_u S_t u + p_d S_t d = \frac{S_t e^{\alpha \Delta t}}{1 - \lambda \Delta t}, \\
-p_u S_t^2 u^2 + p_d S_t^2 d^2 - \left( p_u S_t u + p_d S_t d \right)^2 = \frac{S_t^2 \sigma^2 \Delta t}{1 - \lambda \Delta t}, \\
+p_u S_t[^2] u[^2] + p_d S_t[^2] d[^2] - \left( p_u S_t u + p_d S_t d \right)[^2] = \frac{S_t[^2] \sigma[^2] \Delta t}{1 - \lambda \Delta t}, \\
 p_u + p_d = 1.
 \end{array}
 \right.
@@ -743,7 +743,7 @@ $$
 $\odot$ To consider the adjustment for the variance, a simple method of adjusting the grid size of the multinomial tree can achieve this goal. By defining $\sigma^* = \sigma\sqrt{1 - \lambda \Delta t}$, $u^* = e^{\alpha \Delta t + \sigma^* \sqrt{\Delta t}}$, $d^* = e^{\alpha \Delta t - \sigma^* \sqrt{\Delta t}}$, one can derive the following tree structure and the corresponding branching probabilities.
 
 ### Figure 4-15
-![Figure 4-15](Attachments/Figure_4-15.jpg)
+!Figure 4-15
 
 $$
 P^*(k) =

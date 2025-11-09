@@ -26,42 +26,42 @@ key_concepts:
 
 %% Begin Waypoint %%
 
-- **[Teaching Note 1- Forward Rates Agreement](.md)**
-	- [Carry Trade](Carry%20Trade.md)
-	- [Ch1 Introduction to Derivative Markets](Ch1%20Introduction%20to%20Derivative%20Markets.md)
-	- [Contango And Backwardation In Arbitrage-Free Futures-Markets](Contango%20And%20Backwardation%20In%20Arbitrage-Free%20Futures-Markets.md)
-	- [Deriving Forward Exchange Rate Numerical Example](Deriving%20Forward%20Exchange%20Rate%20Numerical%20Example.md)
-	- [Foreign Exchange Quoting Conventions](Foreign%20Exchange%20Quoting%20Conventions.md)
-	- [Forward Contracts on Exchange Rates](Forward%20Contracts%20on%20Exchange%20Rates.md)
-	- [Forwards and Futures Notes](Forwards%20and%20Futures%20Notes.md)
-	- [Hedging Strategies with Forwards](Hedging%20Strategies%20with%20Forwards.md)
-	- [Interest Rates,  Carry Trades,  and Exchange Rate Movements](Interest%20Rates,%20%20Carry%20Trades,%20%20and%20Exchange%20Rate%20Movements)
-	- [Primary vs. Secondary Commodities](Primary%20vs.%20Secondary%20Commodities.md)
-	- [Teaching Note 1- Forward Rates Agreement](.md)
+- **Teaching Note 1- Forward Rates Agreement**
+	- Carry Trade
+	- Ch1 Introduction to Derivative Markets
+	- Contango And Backwardation In Arbitrage-Free Futures-Markets
+	- Deriving Forward Exchange Rate Numerical Example
+	- Foreign Exchange Quoting Conventions
+	- Forward Contracts on Exchange Rates
+	- Forwards and Futures Notes
+	- Hedging Strategies with Forwards
+	- Interest Rates,  Carry Trades,  and Exchange Rate Movements
+	- Primary vs. Secondary Commodities
+	- Teaching Note 1- Forward Rates Agreement
 
 %% End Waypoint %%
 
-[Carry Trade](Carry%20Trade.md)
+Carry Trade
 
-	- [Ch1 Introduction to Derivative Markets](Ch1%20Introduction%20to%20Derivative%20Markets.md)
+	- Ch1 Introduction to Derivative Markets
 
-	- [Chapter 6 (Hull) Hedging Strategies with Forwards](Chapter%206%20(Hull)%20Hedging%20Strategies%20with%20Forwards)
+	- Chapter 6 (Hull) Hedging Strategies with Forwards%20Hedging%20Strategies%20with%20Forwards)
 
-	- [Deriving Forward Exchange Rate Numerical Example](Deriving%20Forward%20Exchange%20Rate%20Numerical%20Example.md)
+	- Deriving Forward Exchange Rate Numerical Example
 
-	- [Differences Between Co[[Primary vs. Secondary Commodities](Differences%20Between%20Co[[Primary%20vs.%20Secondary%20Commodities)uoting Conventions]]
+	- Differences Between CoPrimary vs. Secondary Commoditiesuoting Conventions]]
 
-	- [Forward Contracts on Exchange Rates](Forward%20Contracts%20on%20Exchange%20Rates.md)
+	- Forward Contracts on Exchange Rates
 
-	- [Forwards and Futures Notes](Forwards%20and%20Futures%20Notes.md)
+	- Forwards and Futures Notes
 
-	- [Hedging Strategies with Forwards](Hedging%20Strategies%20with%20Forwards.md)
+	- Hedging Strategies with Forwards
 
-	- [Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Interest Rates,       Carry Trades,       and Exchange Rate Movements](Financial%20Instruments/Lecture%20Notes/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Interest%20Rates,%20%20%20%20%20%20%20Carry%20Trades,%20%20%20%20%20%20%20and%20Exchange%20Rate%20Movements)
+	- Financial Instruments/Lecture Notes/Teaching Note 1- Forward Rates Agreement/Interest Rates,       Carry Trades,       and Exchange Rate Movements
 
-	- [Teaching Note 1 Forward Rates Agreement](Teaching%20Note%201%20Forward%20Rates%20Agreement)
+	- Teaching Note 1 Forward Rates Agreement
 
-[PSET 1-Financial Instruments](PSET%201-Financial%20Instruments.md)
+PSET 1-Financial Instruments
 
 ## INTRODUCTION TO COMMODITY FORWARDS
 
@@ -197,8 +197,8 @@ $$\begin{equation*}
 
 - A synthetic commodity can be created by combining a forward contract with a zero-coupon bond
 
-| Investment strategy                                      | Cost at time 0  |                   Payoff at time T                    |
-| -------------------------------------------------------- | :-------------: | :---------------------------------------------------: |
-| A long commodity forward contract at the price $F_{0,      T}$ |       $0$       |                   $S_{T} - F_{0,      T}$                   |
-| A zero-coupon bond that pays $F_{0,      T}$ at time T         | $F_{0,      T}/(1+R)$ |                       $F_{0,      T}$                       |
-| Total                                                    | $F_{0,      T}/(1+R)$ | $S_{T} =$ the value unit of the commodity at time $T$ |
+ | Investment strategy | Cost at time 0 | Payoff at time T | 
+ | -------------------------------------------------------- | :-------------: | :---------------------------------------------------: | 
+ | A long commodity forward contract at the price $F_{0,      T}$ | $0$ | $S_{T} - F_{0,      T}$ | 
+ | A zero-coupon bond that pays $F_{0,      T}$ at time T | $F_{0,      T}/(1+R)$ | $F_{0,      T}$ | 
+ | Total | $F_{0,      T}/(1+R)$ | $S_{T} =$ the value unit of the commodity at time $T$ |

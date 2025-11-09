@@ -1,5 +1,7 @@
 ---
 title: Credit Market Homework 1
+cssclasses: 
+  - academia
 tags:
   - bond_symbology
   - credit_market_homework
@@ -8,6 +10,9 @@ tags:
   - yield_curve
   - credit_markets
   - financial_instruments
+  - credit_spreads
+  - g_spreads
+  - quantlib_pricing
 aliases:
   - Bond Symbology
   - FINM 35700
@@ -19,9 +24,11 @@ key_concepts:
   - Time series of coupons
   - US treasury instruments
   - US treasury yields
-  - G-spreads
-  - Credit spreads
-  - Yield curve analysis
+  - G-spreads calculation
+  - Credit spreads analysis
+  - Yield curve bootstrapping
+  - QuantLib bond pricing
+  - Corporate bond valuation
 ---
 
 # Credit Market Homework 1
@@ -32,15 +39,11 @@ key_concepts:
 
 This homework relies on:
 
-- the government and [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) symbology file `bond_symbology`,
+- the government and Corporate Bonds symbology file `bond_symbology`,
 - the "on-the-run" treasuries data file `govt_on_the_run` and
 - the market data file `bond_market_prices_eod`.
 
-<<<<<<< HEAD
-You can find more details on [US treasury instruments](.md) in the FINM 37400 [Fixed Income](Lecture%20Notes%20Bonds,%20Preferred%20Stock,%20and%20Structured%20Products) course.
-=======
-You can find more details on [[Credit Market Homework 1|US treasury instruments]] in the FINM 37400 [[Lecture Notes Bonds, Preferred Stock, and Structured Products|Fixed Income]] course.
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
+You can find more details on US treasury instruments in the FINM 37400 Fixed Income course.
 
 ```python
 import QuantLib as ql
@@ -53,19 +56,14 @@ import plotly.express as px
 import plotly.graph_objects as go
 ```
 
-# Problem 1: Explore symbology for US treasuries and [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md)
+# Problem 1: Explore symbology for US treasuries and Corporate Bonds
 
 ## a. Load and explore US government bond symbology
 
-Load the `bond_symbology` Excel file into a dataframe. It contains symbology for both government and [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md).
+Load the `bond_symbology` Excel file into a dataframe. It contains symbology for both government and Corporate Bonds.
 
-Select US Treasury bonds only (class = 'Govt', ticker = 'T'). For each government bond issue, calculate its initial term/time-to-maturity in years (based on issue date and maturity date), as well as the current time-to-maturity. Assume a year has 365.25 days (alternatively, use [QuantLib](../../Course%20Notes/Python/QuantLib-Python/Introduction%20to%20QuantLib%20Python.md) yearFraction function).
+Select US Treasury bonds only (class = 'Govt', ticker = 'T'). For each government bond issue, calculate its initial term/time-to-maturity in years (based on issue date and maturity date), as well as the current time-to-maturity. Assume a year has 365.25 days (alternatively, use QuantLib yearFraction function).
 
-<<<<<<< HEAD
-=======
-Select US Treasury bonds only (class = 'Govt', ticker = 'T'). For each government bond issue, calculate its initial term/time-to-maturity in years (based on issue date and maturity date), as well as the current time-to-maturity. Assume a year has 365.25 days (alternatively, use [[Introduction to QuantLib Python|QuantLib]] yearFraction function).
-
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
 ```python
 import pandas as pd
 
@@ -139,7 +137,7 @@ display(govt_symbology.head())
 
 ## b. Historical time series of US treasury coupons
 
-Plot the [time series of coupons](.md) for for US treasury notes/bonds issued in the last 10 years (indexed by issue date).
+Plot the time series of coupons for US treasury notes/bonds issued in the last 10 years (indexed by issue date).
 What can you say about the overall level of issued coupons in the last 4 years?
 
 ```python
@@ -160,11 +158,7 @@ govt_symbology_4y.plot(x='start_date', y='coupon', grid=True, style='-*',
                      title='US Treasury coupons by issue date (last 4 years)', figsize=(12, 8))
 
 # describe
-<<<<<<< HEAD
-govt_symbology_4y['start_date', 'coupon']('start_date',%20'coupon').describe()
-=======
-govt_symbology_4y[['start_date', 'coupon']].describe()
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
+govt_symbology_4y'start_date', 'coupon']].describe()
 ```
 
 What can you say about the overall level of issued coupons in the last 4 years?
@@ -178,17 +172,13 @@ Based on the summary statistics provided, we can make following observations:
 
 ## c. Load the on-the-run US treasuries
 
-<<<<<<< HEAD
-Load the `govt_on_the_run` Excel file into a dataframe. Select the current on-the-run 2Y, 3Y, 5Y, 7Y, 10Y, 20Y and 30Y issues (off-the-run issues have the B & C suffix). Create a separate symbology dataframe for [on-the-run treasuries](.md) only, to be used later on for the on-the-run government yield curve bootstrapping.
-=======
-Load the `govt_on_the_run` Excel file into a dataframe. Select the current on-the-run 2Y, 3Y, 5Y, 7Y, 10Y, 20Y and 30Y issues (off-the-run issues have the B & C suffix). Create a separate symbology dataframe for [[Credit Market Homework 1|on-the-run treasuries]] only, to be used later on for the on-the-run government yield curve bootstrapping.
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
+Load the `govt_on_the_run` Excel file into a dataframe. Select the current on-the-run 2Y, 3Y, 5Y, 7Y, 10Y, 20Y and 30Y issues (off-the-run issues have the B & C suffix). Create a separate symbology dataframe for on-the-run treasuries only, to be used later on for the on-the-run government yield curve bootstrapping.
 
 ```python
 # Load govt_on_the_run, as of 2024-04-01
 
 # Keep OTR treasuries only
-govt_on_the_run_simple = govt_on_the_run[~govt_on_the_run['ticker'].str.contains('B|C')]
+govt_on_the_run_simple = govt_on_the_run[~govt_on_the_run['ticker'].str.contains('B | C')]
 display(govt_on_the_run_simple)
 ```
 
@@ -199,11 +189,7 @@ govt_symbology_otr = govt_symbology_otr.sort_values(by='TTM')
 display(govt_symbology_otr)
 ```
 
-<<<<<<< HEAD
-## d. Load and explore US [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) symbology data
-=======
-## d. Load and explore US [[Class Notes 2 – Corporate Bond Contracts|Corporate Bonds]] symbology data
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
+## d. Load and explore US Corporate Bonds symbology data
 
 Starting from the `bond_symbology` dataframe, create a corporate bond dataframe containing
 
@@ -213,8 +199,8 @@ Starting from the `bond_symbology` dataframe, create a corporate bond dataframe 
 
 Bonds only, with following columns:
 
-| ticker | isin | figi | security | name | coupon | start_date | maturity | term | TTM |
-|--------|------|------|----------|------|--------|-----------|----------|------|-----|
+ | ticker | isin | figi | security | name | coupon | start_date | maturity | term | TTM | 
+ | -------- | ------ | ------ | ---------- | ------ | -------- | ----------- | ---------- | ------ | ----- | 
 
 Where
 
@@ -232,7 +218,7 @@ corp_symbology = corp_symbology[(corp_symbology['mty_typ'] == 'AT MATURITY')
                                    & (corp_symbology['cpn_type'] == 'FIXED')]
 
 # Keep selected columns only
-corp_symbology = corp_symbology[['ticker', 'isin', 'figi', 'security', 'name', 'coupon', 
+corp_symbology = corp_symbology'ticker', 'isin', 'figi', 'security', 'name', 'coupon', 
                                'start_date', 'maturity', 'term', 'TTM']]
 
 # Filter for VZ issuer
@@ -247,12 +233,12 @@ display(corp_symbology_vz)
 
 ## a. Load and explore treasury market prices and yields
 
-Load the `bond_market_prices_eod` Excel file into a dataframe. It provides market data for US treasuries and [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) as of 2024-04-01.
+Load the `bond_market_prices_eod` Excel file into a dataframe. It provides market data for US treasuries and Corporate Bonds as of 2024-04-01.
 
 Merge the treasuries symbology dataframe with the market data and add the following columns:
 
-| date | bidPrice | askPrice | midPrice | bidYield | askYield | midYield | term | TTM |
-|------|----------|----------|----------|----------|----------|----------|------|-----|
+ | date | bidPrice | askPrice | midPrice | bidYield | askYield | midYield | term | TTM | 
+ | ------ | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ------ | ----- | 
 
 Plot a graph/scatter plot of treasury mid yields by TTM.
 
@@ -282,11 +268,7 @@ govt_agg = govt_symbology.merge(bond_market_prices_eod, on=['class', 'ticker', '
 govt_agg.head()
 
 fig = px.scatter(govt_agg, x='TTM', y='midYield', title='US Treasury Yields by TTM')
-<<<<<<< HEAD
-fig.update_layout(xaxis_title='[Time to Maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (Years)', 
-=======
-fig.update_layout(xaxis_title='[[Hedging Strategies with Forwards|Time to Maturity]] (Years)', 
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
+fig.update_layout(xaxis_title='Time to Maturity (Years)', 
                  yaxis_title='Mid Yield', template='plotly_white')
 fig.show()
 ```
@@ -303,21 +285,17 @@ govt_agg_otr = govt_symbology_otr.merge(bond_market_prices_eod, on=['class', 'ti
 
 fig = px.scatter(govt_agg_otr, x='TTM', y='midYield', title='OTR US Treasury yields by TTM')
 fig.update_traces(mode='lines+markers')
-<<<<<<< HEAD
-fig.update_layout(xaxis_title='[Time to Maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (Years)', 
-=======
-fig.update_layout(xaxis_title='[[Hedging Strategies with Forwards|Time to Maturity]] (Years)', 
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
+fig.update_layout(xaxis_title='Time to Maturity (Years)', 
                  yaxis_title='Mid Yield', template='plotly_white')
 fig.show()
 ```
 
 ## c. Load and explore corporate bond market prices and yields
 
-Merge the filtered [Corporate Bonds](../../Financial%20Markets%20and%20Institutions/II.%20The%20Roles%20of%20Banks%20and%20Derivative%20Markets%20in%20Resolving%20Problems%20Inherent%20in%20Debt%20Contracts/Class%202-%20Debt%20Contracts%20due%20to%20Lack%20of%20Information/Class%20Notes%202%20–%20Corporate%20Bond%20Contracts.md) symbology dataframe with the market data and add the following columns:
+Merge the filtered Corporate Bonds symbology dataframe with the market data and add the following columns:
 
-| date | bidPrice | askPrice | midPrice | bidYield | askYield | midYield | term | TTM |
-|------|----------|----------|----------|----------|----------|----------|------|-----|
+ | date | bidPrice | askPrice | midPrice | bidYield | askYield | midYield | term | TTM | 
+ | ------ | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ------ | ----- | 
 
 List the unique tickers/issuers available in the dataframe.
 
@@ -332,11 +310,7 @@ display(corp_agg.head())
 
 ```python
 # Unique tickers
-<<<<<<< HEAD
-corp_agg_unique_tickers = corp_agg['ticker', 'name']('ticker',%20'name').drop_duplicates()
-=======
-corp_agg_unique_tickers = corp_agg[['ticker', 'name']].drop_duplicates()
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
+corp_agg_unique_tickers = corp_agg'ticker', 'name']].drop_duplicates()
 
 display(corp_agg_unique_tickers)
 ```
@@ -354,11 +328,7 @@ fig = px.scatter(corp_agg, x='TTM', y='midYield', color='ticker',
                title='Corporate Bond Yields by TTM')
 fig.add_trace(px.scatter(govt_agg_otr, x='TTM', y='midYield').data[0])
 fig.update_traces(mode='lines+markers')
-<<<<<<< HEAD
-fig.update_layout(xaxis_title='[Time to Maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (Years)', 
-=======
-fig.update_layout(xaxis_title='[[Hedging Strategies with Forwards|Time to Maturity]] (Years)', 
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
+fig.update_layout(xaxis_title='Time to Maturity (Years)', 
                  yaxis_title='Mid Yield', template='plotly_white')
 fig.show()
 ```
@@ -371,8 +341,8 @@ Start with the corporate bond symbology dataframe. Use the column 'und_bench_yie
 
 Add two new columns to the joint corporate bond dataframe:
 
-| und_bench_yield | credit_spread |
-|-----------------|---------------|
+ | und_bench_yield | credit_spread | 
+ | ----------------- | --------------- | 
 
 Where
 
@@ -381,23 +351,16 @@ Where
 
 ```python
 # Use the column 'und_bench_yield' to identify the underlying benchmark bond for each bond issue.
-<<<<<<< HEAD
-corp_merged = corp_agg.merge(bond_symbology['isin', 'und_bench_isin']('isin',%20'und_bench_isin'), on='isin')
+corp_merged = corp_agg.merge(bond_symbology'isin', 'und_bench_isin']], on='isin')
 
 # Create df containing govt_benchmark_yields
-govt_benchmark_yields = bond_market_prices_eod[bond_market_prices_eod['class'] == 'Govt']['isin', 'midYield']('isin',%20'midYield')
-=======
-corp_merged = corp_agg.merge(bond_symbology[['isin', 'und_bench_isin']], on='isin')
-
-# Create df containing govt_benchmark_yields
-govt_benchmark_yields = bond_market_prices_eod[bond_market_prices_eod['class'] == 'Govt'][['isin', 'midYield']]
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
+govt_benchmark_yields = bond_market_prices_eod[bond_market_prices_eod['class'] == 'Govt']'isin', 'midYield']]
 govt_benchmark_yields.rename(columns={'midYield': 'und_bench_yield', 'isin': 'und_bench_isin'}, inplace=True)
 
 # Add benchmark bond yield
 corp_merged = corp_merged.merge(govt_benchmark_yields, on='und_bench_isin')
 corp_merged['credit_spread'] = corp_merged['midYield'] - corp_merged['und_bench_yield']
-display(corp_merged[['ticker', 'isin', 'figi', 'security', 'und_bench_isin', 
+display(corp_merged'ticker', 'isin', 'figi', 'security', 'und_bench_isin', 
                     'midYield', 'und_bench_yield', 'credit_spread']])
 ```
 
@@ -409,13 +372,8 @@ Plot a graph/scatter plot of credit spread curves by TTM (one line per issuer).
 fig = px.scatter(corp_merged, x='TTM', y='credit_spread', color='ticker', 
                title='Corporate Bond Credit Spreads by TTM')
 fig.update_traces(mode='lines+markers') 
-<<<<<<< HEAD
-fig.update_layout(xaxis_title='[Time to Maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (Years)', 
-                 yaxis_title='[Credit Spread](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%2014/Cds-Equivalent%20Bond%20Spread.md)', 
-=======
-fig.update_layout(xaxis_title='[[Hedging Strategies with Forwards|Time to Maturity]] (Years)', 
-                 yaxis_title='[[Cds-Equivalent Bond Spread|Credit Spread]]', 
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
+fig.update_layout(xaxis_title='Time to Maturity (Years)', 
+                 yaxis_title='Credit Spread', 
                  template='plotly_white')
 fig.show()
 ```
@@ -424,8 +382,8 @@ fig.show()
 
 Add two new columns to the joint corporate bond dataframe:
 
-| interp_tsy_yield | g_spread |
-|------------------|----------|
+ | interp_tsy_yield | g_spread | 
+ | ------------------ | ---------- | 
 
 Where
 
@@ -441,7 +399,7 @@ corp_merged['interp_tsy_yield'] = interp_tsy_yield_vec
 corp_merged['g_spread'] = corp_merged['midYield'] - corp_merged['interp_tsy_yield']
 
 # Display results
-display(corp_merged[['ticker', 'isin', 'figi', 'security', 'und_bench_isin', 'midYield', 
+display(corp_merged'ticker', 'isin', 'figi', 'security', 'und_bench_isin', 'midYield', 
                     'und_bench_yield', 'credit_spread', 'interp_tsy_yield', 'g_spread']])
 ```
 
@@ -453,11 +411,7 @@ Plot a graph/scatter plot of g-spread curves by TTM (one line per issuer).
 fig = px.scatter(corp_merged, x='TTM', y='g_spread', color='ticker', 
                title='Corporate Bond G-Spreads by TTM')
 fig.update_traces(mode='lines+markers')
-<<<<<<< HEAD
-fig.update_layout(xaxis_title='[Time to Maturity](../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%201-%20Forward%20Rates%20Agreement/Hedging%20Strategies%20with%20Forwards.md) (Years)', 
-=======
-fig.update_layout(xaxis_title='[[Hedging Strategies with Forwards|Time to Maturity]] (Years)', 
->>>>>>> d83d5c06204d625fbecfdb77e4d3f37c9c80e27b
+fig.update_layout(xaxis_title='Time to Maturity (Years)', 
                  yaxis_title='G-Spread', template='plotly_white') 
 fig.show()
 ```

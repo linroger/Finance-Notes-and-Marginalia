@@ -34,10 +34,10 @@ key_concepts:
 - Income Statement
 - Cash Flow Statement
 
-1.2. **Historical Analysis**
+[^1]: 2. **Historical Analysis**
 - Analyze past performance to understand trends.
 
-1.3. **Assumptions for Future Projections**
+[^1]: 3. **Assumptions for Future Projections**
 - Revenue Growth Rate
 - Operating Margin Improvements
 - Capital Expenditures
@@ -45,28 +45,28 @@ key_concepts:
 - Tax Rate
 
 ### 2. Forecasting Free Cash Flow
-2.1. **Forecast Revenue and Expenses**
+[^2]: 1. **Forecast Revenue and Expenses**
 - Project future revenues and expenses based on historical trends and assumptions.
 
-2.2. **Calculate Earnings Before Interest and Taxes (EBIT)**
+[^2]: 2. **Calculate Earnings Before Interest and Taxes (EBIT)**
 - $$ \text{EBIT} = \text{Revenue} - \text{Operating Expenses} - \text{Depreciation} $$
 
-2.3. **Adjust for Taxes to Get NOPAT (Net Operating Profit After Taxes)**
+[^2]: 3. **Adjust for Taxes to Get NOPAT (Net Operating Profit After Taxes)**
 - $$ \text{NOPAT} = \text{EBIT} \times (1 - \text{Tax Rate}) $$
 
-2.4. **Non-Cash Adjustments**
+[^2]: 4. **Non-Cash Adjustments**
 - Add back non-cash expenses (e.g., Depreciation & Amortization).
 
-2.5. **Changes in Working Capital**
+[^2]: 5. **Changes in Working Capital**
 - Calculate the change in working capital and adjust the cash flow accordingly.
 - $$ \Delta \text{Working Capital} = \text{Current Year Working Capital} - \text{Previous Year Working Capital} $$
 
-2.6. **Capital Expenditures (CapEx)**
+[^2]: 6. **Capital Expenditures (CapEx)**
 - Subtract capital expenditures to get Free Cash Flow (FCF).
 - $$ \text{FCF} = \text{NOPAT} + \text{Depreciation} - \Delta \text{Working Capital} - \text{CapEx} $$
 
 ### 3. Discount Rate Determination
-3.1. **Weighted Average Cost of Capital (WACC) for Firm Valuation**
+[^3]: 1. **Weighted Average Cost of Capital (WACC) for Firm Valuation**
 - $$ \text{WACC} = \frac{E}{V} \times Re + \frac{D}{V} \times Rd \times (1 - Tc) $$
 - Where:
   - $E$ = Market value of the equity
@@ -76,7 +76,7 @@ key_concepts:
   - $Rd$ = Cost of debt
   - $Tc$ = Corporate tax rate
 
-3.2. **Cost of Equity (Using CAPM)**
+[^3]: 2. **Cost of Equity (Using CAPM)**
 - $$ Re = Rf + \beta \times (Rm - Rf) $$
 - Where:
   - $Rf$ = Risk-free rate
@@ -84,29 +84,29 @@ key_concepts:
   - $Rm$ = Expected market return
 
 ### 4. Forecasting and Discounting Cash Flows
-4.1. **Forecasting Cash Flows**
+[^4]: 1. **Forecasting Cash Flows**
 - Project the free cash flows over a 5 to 10 year period based on the assumptions.
 
-4.2. **Terminal Value Calculation**
+[^4]: 2. **Terminal Value Calculation**
 - Gordon Growth Model: $$ \text{TV} = \frac{\text{FCF}_{n+1}}{(WACC - g)} $$
 - Where:
   - $g$ = growth rate to perpetuity
   - $FCF_{n+1}$ = Free cash flow in the first year beyond the forecast period
 
-4.3. **Discount Cash Flows and Terminal Value to Present Value**
+[^4]: 3. **Discount Cash Flows and Terminal Value to Present Value**
 - $$ \text{DCF} = \sum_{t=1}^{n} \frac{\text{FCF}_t}{(1+WACC)^t} + \frac{\text{TV}}{(1+WACC)^n} $$
 
 ### 5. Valuation and Sensitivity Analysis
-5.1. **Calculate Enterprise Value**
+[^5]: 1. **Calculate Enterprise Value**
 - Sum of the present values of forecasted Free Cash Flows plus the present value of the Terminal Value.
 
-5.2. **Adjust for Non-Operating Assets**
+[^5]: 2. **Adjust for Non-Operating Assets**
 - Add value of non-operating assets (e.g., investments).
 
-5.3. **Subtract Debt and Add Cash**
+[^5]: 3. **Subtract Debt and Add Cash**
 - To find Equity Value: $$ \text{Equity Value} = \text{Enterprise Value} - \text{Debt} + \text{Cash} $$
 
-5.4. **Sensitivity Analysis**
+[^5]: 4. **Sensitivity Analysis**
 - Vary key assumptions (WACC, growth rates) to test the sensitivity of the valuation.
 
 ### 6. Conclusion and Reporting

@@ -62,7 +62,7 @@ The continuously-compounded interest rate is 2% per year.
 
 > [!ANSWER]
 > Solution: The stock price dynamics are given by:
-> ![|500](IMG-20240913171226888.png)
+> ! | 500
 > 
 > To do the hedging and pricing we need all of the Delta's and bond positions. These are:
 > 
@@ -107,10 +107,10 @@ A few years ago your company issued a bond denominated in Euros. The bond has a 
 
 The current exchange rate is 1.3 dollars per Euro (USD/EUR). The current LIBOR rates (in continuously compounded units) are:
 
-| Maturity   | USD   | Euro   |
-|------------|-------|--------|
-| 6 months   | 2%    | 2%     |
-| 1 year     | 2.5%  | 3%     |
+ | Maturity | USD | Euro | 
+ | ------------ | ------- | -------- | 
+ | 6 months | 2% | 2% | 
+ | 1 year | 2.5% | 3% | 
 
 (a) (10 points) You would like to hedge your exposure to the Euro using forward contracts. How many and what maturities of forward contracts would you use? What would be the forward prices of these contracts?
 
@@ -127,10 +127,10 @@ The current exchange rate is 1.3 dollars per Euro (USD/EUR). The current LIBOR r
 
 (b) (10 points) Suppose the day after you signed your forward contract in part (a) above, the spot exchange rate between dollars and Euros is 1.29 dollars per Euro (USD/EUR). Yields (c.c.) in the LIBOR market are now:
 
-| Maturity              | USD   | Euro   |
-|-----------------------|-------|--------|
-| 6 months (less a day) | 2%    | 2%     |
-| 1 year (less a day)   | 2.5%  | 3.1%   |
+ | Maturity | USD | Euro | 
+ | ----------------------- | ------- | -------- | 
+ | 6 months (less a day) | 2% | 2% | 
+ | 1 year (less a day) | 2.5% | 3.1% | 
 
 What would be the market values of the forward contracts you signed in part (a)?(Assume that there are 360 days in a year.)
 
@@ -191,7 +191,7 @@ Under these assumptions, what should be the value of your portfolio? What is the
 > [!ANSWER]
 > Solution: Black-Scholes quantities:
 > 
-> $$d_1=\frac{\ln(1200/1000)+(0.01+0.3^2/2)\times2}{0.3\times\sqrt{2}}=0.69$$
+> $$d_1=\frac{\ln(1200/1000)+(0.01+0.3[^2]/2)\times2}{0.3\times\sqrt{2}}=0.69$$
 > 
 > $$d_2=0.69-0.3\times\sqrt{2}=0.26$$
 > 

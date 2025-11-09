@@ -23,9 +23,9 @@ key_concepts:
 
 # Introduction to QuantLib Python
 
-This post will walk through some of the basics of [QuantLib Python library](.md).
+This post will walk through some of the basics of QuantLib Python library.
 
-I installed the latest version of [QuantLib](.md) (V1.5) and the python wrapper to [QuantLib](.md). My experiments lately have been to get a feel for the [QuantLib](.md) API. The library itself is so extensive,  that it is rather hard for a new comer to get going. In this post we will look into some of the basic classes and functionality in [QuantLib](.md).
+I installed the latest version of QuantLib (V1.5) and the python wrapper to QuantLib. My experiments lately have been to get a feel for the QuantLib API. The library itself is so extensive,  that it is rather hard for a new comer to get going. In this post we will look into some of the basic classes and functionality in QuantLib.
 
 ## Time SubModule
 
@@ -60,7 +60,7 @@ Date(31, 3, 2016)
 True
 ```
 
-The Schedule object can be used to construct a list of dates such as [coupon payments](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%203/Realized%20Returns.md). Lets look at some examples.
+The Schedule object can be used to construct a list of dates such as coupon payments. Lets look at some examples.
 ```latex
 >>> date1 = ql.Date(1,  1,  2015)
 >>> date2 = ql.Date(1,  1,  2016)
@@ -98,7 +98,7 @@ The InterestRate class can be used to store the interest rate with the compoundi
 >>> interestRate = ql.InterestRate(annualRate,  dayCount,  compoundType,  frequency)
 ```
 
-Lets say if you invest a dollar at the interest rate described by interestRate,  the compoundFactor method gives you how much your [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) will be worth after t years. Below we show that the value returned by compoundFactor for 2 years agrees with the expected compounding formula.
+Lets say if you invest a dollar at the interest rate described by interestRate,  the compoundFactor method gives you how much your investment will be worth after t years. Below we show that the value returned by compoundFactor for 2 years agrees with the expected compounding formula.
 ```latex
 >>> interestRate.compoundFactor(2.0)
 1.1025
@@ -106,7 +106,7 @@ Lets say if you invest a dollar at the interest rate described by interestRate, 
 1.1025
 ```
 
-The discountFactor method [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) the reciprocal of the compoundFactor method. The [discount factor](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%201/Discount%20Factors.md) is useful while calculating the present value of future cashflows.
+The discountFactor method returns the reciprocal of the compoundFactor method. The discount factor is useful while calculating the present value of future cashflows.
 ```latex
 >>> interestRate.discountFactor(2.0)
 0.9070294784580498
@@ -132,11 +132,11 @@ Here we have converted into a semi-annual compounding type. A 4.939% of semi-ann
 0.9523809523809521
 ```
 
-So this means that [pricing](../../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) bonds using either interest rate convention should give the same net present value (barring some precision).
+So this means that pricing bonds using either interest rate convention should give the same net present value (barring some precision).
 
 ## Conclusion
 
-In this post we looked at the basics of [QuantLib](.md):
+In this post we looked at the basics of QuantLib:
 
 - We learnt how to use Date and Schedule classes from the time sub-module
 - we learnt how to use the InterestRate class

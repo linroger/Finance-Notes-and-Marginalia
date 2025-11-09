@@ -1,14 +1,14 @@
 %% Begin Waypoint %%
-- **[Chapter 10 - The Economics of the Term Structure of Interest Rates](.md)**
-	- [Basic Interest Rate Concepts and Relations](Basic%20Interest%20Rate%20Concepts%20and%20Relations.md)
-	- [Chapter 10 - The Economics of the Term Structure of Interest Rates](.md)
-	- [Equilibrium Interest Rate Models](Equilibrium%20Interest%20Rate%20Models.md)
-	- [Exercises](Exercises.md)
-	- [Liquidity Preference Market Segmentation and P](Liquidity%20Preference%20Market%20Segmentation%20and%20P.md)
-	- [Real and Nominal Interest Rates and Term Struc](Real%20and%20Nominal%20Interest%20Rates%20and%20Term%20Struc.md)
-	- [Real Interest Rates and Aggregate Consumption](Real%20Interest%20Rates%20and%20Aggregate%20Consumption.md)
-	- [Real Interest Rates and Aggregate Production](Real%20Interest%20Rates%20and%20Aggregate%20Production.md)
-	- [The Expectation Hypothesis](The%20Expectation%20Hypothesis.md)
+- **Chapter 10 - The Economics of the Term Structure of Interest Rates**
+	- Basic Interest Rate Concepts and Relations
+	- Chapter 10 - The Economics of the Term Structure of Interest Rates
+	- Equilibrium Interest Rate Models
+	- Exercises
+	- Liquidity Preference Market Segmentation and P
+	- Real and Nominal Interest Rates and Term Struc
+	- Real Interest Rates and Aggregate Consumption
+	- Real Interest Rates and Aggregate Production
+	- The Expectation Hypothesis
 
 %% End Waypoint %%
 10 The economics of the term structure of interest rates 243  
@@ -29,5 +29,4 @@
 10.7.3 The weak expectation hypothesis . . 272   
 10.8 Liquidity preference, market segmentation, and preferred habitats 272   
 10.9 Concluding remarks 273   
-10.10 Exercises 273  
-
+10.10 Exercises 273

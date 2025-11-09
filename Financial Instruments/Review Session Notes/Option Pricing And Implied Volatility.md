@@ -37,28 +37,28 @@ key_concepts:
 5. Stock volatility: $\sigma$
 ## 2. OPTIMAL PRICING FORMULA
 
-1. Delta hedging parameters:
+[^1]: Delta hedging parameters:
    $$\begin{array}{c}{{d_{1}(S,K,T,r,\sigma)=\frac{\ln\left[\frac{S}{K}\right]+\left(r+\frac{\sigma^{2}}{2}\right)\cdot T}{\sigma\cdot\sqrt{T}}}}\\ {{d_{2}(S,K,T,r,\sigma)=d_{1}-\sigma\cdot\sqrt{T}}}\end{array}$$
 
-2. Standard normal cumulative distribution function:
+[^2]: Standard normal cumulative distribution function:
    $$\Phi(x):={\frac{1}{\sqrt{2\pi}}}\cdot\int_{-\infty}^{x}\exp\left(-{\frac{1}{2}}\cdot u^{2}\right)du$$
 
-3. Call option price:
+[^3]: Call option price:
    $$c=S\cdot\Phi\big(d_{1}(S,K,T,r,\sigma)\big)-K\cdot\exp(-r\cdot T)\cdot\Phi\big(d_{2}(S,K,T,r,\sigma)\big)$$
 
-4. Put option price:
+[^4]: Put option price:
    $$p=-S\cdot\Phi\bigl(-d_{1}(S,K,T,r,\sigma)\bigr)+K\cdot\exp(-r\cdot T)\cdot\Phi\bigl(-d_{2}(S,K,T,r,\sigma)\bigr)$$
 
 ## 3. IMPLIED VOLATILITY
 
-1. Suppose we observe option prices $(c, p)$.
+[^1]: Suppose we observe option prices $(c, p)$.
 
-2. **Question**: What is the volatility parameter $\sigma$ *implied* by the Black-Scholes model?
+[^2]: **Question**: What is the volatility parameter $\sigma$ *implied* by the Black-Scholes model?
 
-3. **Answer**: It is the volatility parameter that solves a non-linear equation:
+[^3]: **Answer**: It is the volatility parameter that solves a non-linear equation:
    $$\begin{aligned}
    c &= S \cdot \Phi\big(d_1(S,K,T,r,\sigma_c^*)\big)-K \cdot e^{-r \cdot T} \cdot \Phi\big(d_2(S,K,T,r,\sigma_c^*)\big)\\
    p &= -S \cdot \Phi\big(-d_1(S,K,T,r,\sigma_p^*)\big)+K \cdot e^{-r \cdot T} \cdot \Phi\big(-d_2(S,K,T,r,\sigma_p^*)\big)
    \end{aligned}$$
 
-4. Use non-linear equation solve function to solve for implied volatility values ($\sigma_{c}^{*}, \sigma_{p}^{*}$).
+[^4]: Use non-linear equation solve function to solve for implied volatility values ($\sigma_{c}^{*}, \sigma_{p}^{*}$).

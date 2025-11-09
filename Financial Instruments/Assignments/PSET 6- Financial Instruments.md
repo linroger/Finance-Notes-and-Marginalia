@@ -71,19 +71,19 @@ You should use the data in the "Excel file" used in his book. This gives monthly
 
 ![](03bc29ba4ac59fbc321f2f432023249d.png)
 
-| Assumptions |  |
-|-------------|------------|
-| Start Date | Feb 12th, 2024 |
-| Maturity Date | June 21st, 2024 |
-| Days to Expiration | 130 |
-| Risk Free Rate | 5.29% (3 Month Treasury Rate as of Feb 12th, 2024) |
-| Dividend Yield | 1.608% (average dividend yield on SPX over 2023) |
-| Strike Price | $5,020 |
-| Price of Underlying | $5,021.84 |
-| ITM Call Premium | $190.75 |
-| IV on ITM Call Option | 16.18% |
-| ITM Put Premium | $120.50 |
-| IV on ITM Put Option | 10.35% |
+ | Assumptions |
+ | ------------- | ------------ | 
+ | Start Date | Feb 12th, 2024 | 
+ | Maturity Date | June 21st, 2024 | 
+ | Days to Expiration | 130 | 
+ | Risk Free Rate | 5.29% (3 Month Treasury Rate as of Feb 12th, 2024) | 
+ | Dividend Yield | 1.608% (average dividend yield on SPX over 2023) | 
+ | Strike Price | $5,020 | 
+ | Price of Underlying | $5,021.84 | 
+ | ITM Call Premium | $190.75 | 
+ | IV on ITM Call Option | 16.18% | 
+ | ITM Put Premium | $120.50 | 
+ | IV on ITM Put Option | 10.35% | 
 
 ![](ea19896c234fab61d22703aa002e42dc.png)
 
@@ -92,18 +92,18 @@ You should use the data in the "Excel file" used in his book. This gives monthly
 - (1) A wealthy investor hires you to help her evaluate a recent security issued by Morgan Stanley, called PLUS (see prospectus: The security was issued by Morgan Stanley in April 2008. Assume the same security is issued today and has one-year to Maturity, but it is otherwise identical). To assess its fair value, you decide to use the appropriate implied volatility from the options markets as in Exercise (1).
   - (a) How can you decompose the PLUS into more basic securities? (Tip: The Solution to the Mock Midterm might be helpful…)
 
-| Start Date | Feb 12th, 2024 |
-|------------|----------------|
-| Maturity Date | Feb 12th, 2025 |
-| T | 1 |
-| Risk Free Rate | 4.87% (1 year constant maturity Treasury Rate as of Feb 12th, 2024) |
-| Dividend Yield | 1.608% (average dividend yield on SPX over 2023) |
-| Implied Volatility | 16.18% |
+ | Start Date | Feb 12th, 2024 | 
+ | ------------ | ---------------- | 
+ | Maturity Date | Feb 12th, 2025 | 
+ | T | 1 | 
+ | Risk Free Rate | 4.87% (1 year constant maturity Treasury Rate as of Feb 12th, 2024) | 
+ | Dividend Yield | 1.608% (average dividend yield on SPX over 2023) | 
+ | Implied Volatility | 16.18% | 
 
-| Stock Index Price | B0 | normalized index price |
-|-------------------|----|-----------------------|
-| 1329.51 | 0.00752 | 9.997915 |
-| 1417 | 0.00752 | 10.65584 |
+ | Stock Index Price | B0 | normalized index price | 
+ | ------------------- | ---- | ----------------------- | 
+ | 1329.51 | 0.00752 | 9.997915 | 
+ | 1417 | 0.00752 | 10.65584 | 
 
 > [!NOTE]
 > - We can decompose the PLUS security into:
@@ -146,55 +146,55 @@ You should use the data in the "Excel file" used in his book. This gives monthly
 
 ![](aa4d12a40d58406aa012877a83a05b9a.png)
 
-| | | | |
-|---|---|---|---|
-| Maturity | 1/365 | 6 months | 1 year |
-| Value of zero coupon bond | 9.99864731 | 9.7594407 | 9.52466827 |
-| ATM Call(K0=10) | 0.03447201 | 0.53365626 | 0.79484313 |
-| N(d1) | 0.5059398 | 0.57916686 | 0.61122258 |
-| N(d2) | 0.50253798 | 0.5340095 | 0.54803841 |
-| | | | |
-| OTM Call (K1=11.9) | -4.831E-95 | -0.0472135 | -0.1797505 |
-| N(d1) | 1.1608E-92 | 0.09330454 | 0.21400364 |
-| N(d2) | 9.7511E-93 | 0.07563117 | 0.16993903 |
-| | | | |
-| ATM Put(K0=10) | -0.0335647 | -0.3702476 | -0.4709137 |
-| N(d1) | 0.49746202 | 0.4659905 | 0.45196159 |
-| N(d2) | 0.49746202 | 0.4659905 | 0.45196159 |
-| | | | |
-| dV/dS | 0.01519207 | 0.0147959 | 0.01272506 |
-| β | 2.00605971 | 1.81327046 | 1.55225645 |
+|  |  |
+ | --- | --- | --- | --- | 
+ | Maturity | 1/365 | 6 months | 1 year | 
+ | Value of zero coupon bond | 9.99864731 | 9.7594407 | 9.52466827 | 
+ | ATM Call(K0=10) | 0.03447201 | 0.53365626 | 0.79484313 | 
+ | N(d1) | 0.5059398 | 0.57916686 | 0.61122258 | 
+ | N(d2) | 0.50253798 | 0.5340095 | 0.54803841 | 
+|  |  |
+ | OTM Call (K1=11.9) | -4.831E-95 | -0.0472135 | -0.1797505 | 
+ | N(d1) | 1.1608E-92 | 0.09330454 | 0.21400364 | 
+ | N(d2) | 9.7511E-93 | 0.07563117 | 0.16993903 | 
+|  |  |
+ | ATM Put(K0=10) | -0.0335647 | -0.3702476 | -0.4709137 | 
+ | N(d1) | 0.49746202 | 0.4659905 | 0.45196159 | 
+ | N(d2) | 0.49746202 | 0.4659905 | 0.45196159 | 
+|  |  |
+ | dV/dS | 0.01519207 | 0.0147959 | 0.01272506 | 
+ | β | 2.00605971 | 1.81327046 | 1.55225645 | 
 
 ## STRUCTURED INVESTMENTS OPPORTUNITIES IN EQUITIES PLUS BASED ON THE VALUE OF THE S&P 500® INDEX DUE APRIL 20, 2009 PERFORMANCE LEVERAGED UPSIDE SECURITIES
 
 The PLUS are senior unsecured obligations of Morgan Stanley, will pay no interest, do not guarantee any return of principal at maturity and have the terms described in the prospectus supplement for PLUS and the prospectus, as supplemented or modified by this pricing supplement.
 
-| Term | Details |
-| ---- | ---- |
-| Issuer | Morgan Stanley |
-| Maturity date | April 20, 2009 |
-| Underlying index | S&P 500® Index |
-| Aggregate principal amount | $47,500,000 |
-| Payment at maturity | If final index value is greater than initial index value, $10 + leveraged upside payment. In no event will the payment at maturity exceed the maximum payment at maturity. If final index value is less than or equal to initial index value, $10 × (final index value / initial index value). This amount will be less than or equal to the stated principal amount of $10. |
-| Leveraged upside payment | $10 × leverage factor × index percent increase |
-| Index percent increase | (final index value – initial index value) / initial index value |
-| Initial index value | 1,329.51, the index closing value of the underlying index on the pricing date |
-| Final index value | The index closing value of the underlying index on the valuation date |
-| Valuation date | April 16, 2009, subject to adjustment for certain market disruption events |
-| Leverage factor | 300% |
-| Maximum payment at maturity | $11.90 (119% of the stated principal amount) per PLUS |
-| Stated principal amount | $10 per PLUS |
-| Issue price | $10 per PLUS (see "Commissions and Issue Price" below) |
-| Pricing date | March 20, 2008 |
-| Original issue date | March 31, 2008 |
-| CUSIP | 61747W166 |
-| Listing | The PLUS have been approved for listing on the American Stock Exchange LLC under the ticker symbol "SKE," subject to official notice of issuance. It is not possible to predict whether any secondary market for the PLUS will develop. |
-| Agent | Morgan Stanley & Co. Incorporated |
+ | Term | Details | 
+ | ---- | ---- | 
+ | Issuer | Morgan Stanley | 
+ | Maturity date | April 20, 2009 | 
+ | Underlying index | S&P 500® Index | 
+ | Aggregate principal amount | $47,500,000 | 
+ | Payment at maturity | If final index value is greater than initial index value, $10 + leveraged upside payment. In no event will the payment at maturity exceed the maximum payment at maturity. If final index value is less than or equal to initial index value, $10 × (final index value / initial index value). This amount will be less than or equal to the stated principal amount of $10. | 
+ | Leveraged upside payment | $10 × leverage factor × index percent increase | 
+ | Index percent increase | (final index value – initial index value) / initial index value | 
+ | Initial index value | 1,329.51, the index closing value of the underlying index on the pricing date | 
+ | Final index value | The index closing value of the underlying index on the valuation date | 
+ | Valuation date | April 16, 2009, subject to adjustment for certain market disruption events | 
+ | Leverage factor | 300% | 
+ | Maximum payment at maturity | $11.90 (119% of the stated principal amount) per PLUS | 
+ | Stated principal amount | $10 per PLUS | 
+ | Issue price | $10 per PLUS (see "Commissions and Issue Price" below) | 
+ | Pricing date | March 20, 2008 | 
+ | Original issue date | March 31, 2008 | 
+ | CUSIP | 61747W166 | 
+ | Listing | The PLUS have been approved for listing on the American Stock Exchange LLC under the ticker symbol "SKE," subject to official notice of issuance. It is not possible to predict whether any secondary market for the PLUS will develop. | 
+ | Agent | Morgan Stanley & Co. Incorporated | 
 
-| Commissions and Issue Price: | Price to Public | Agent's Commissions | Proceeds to Company |
-|------------------------------|-----------------|---------------------|---------------------|
-| Per PLUS                     | $10.00          | $0.15               | $9.85               |
-| Total                        | $47,500,000     | $712,500            | $46,787,500         |
+ | Commissions and Issue Price: | Price to Public | Agent's Commissions | Proceeds to Company | 
+ | ------------------------------ | ----------------- | --------------------- | --------------------- | 
+ | Per PLUS | $10.00 | $0.15 | $9.85 | 
+ | Total | $47,500,000 | $712,500 | $46,787,500 | 
 
 (1) The actual price to public and agent's commissions for a particular investor may be reduced for volume purchase discounts depending on the aggregate amount of PLUS purchased by that investor. The lowest price payable by an investor is $9.95 per PLUS. Please see "Syndicate Information" on page 4 for further details.
 

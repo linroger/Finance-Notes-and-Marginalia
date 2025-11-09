@@ -23,39 +23,39 @@ key_concepts:
 
 # Class Slides 2-Debt as a Promise and a Threat
 
-[Class Note 2-[Debt Contracts](../../I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/Lecture%20Note%201-%20Debt%20Pricing.md) Due to the Lack of Information: Debt as a Promise and a Threat](Class%20Note%202-Debt%20Contracts%20Due%20to%20the%20Lack%20of%20Information%20Debt%20as%20a%20Promise%20and%20a%20Threat.md)
+Class Note 2-Debt Contracts Due to the Lack of Information: Debt as a Promise and a Threat
 
 ## An Extreme Free Cash Flow Problem
 
 Consider a borrower who needs to raise a large quantity of capital.
 
-- All lenders and borrowers are [risk neutral](../../../Financial%20Instruments/Lecture%20Notes-%20Financial%20Instruments/Teaching%20Note%207-Exotic%20Options%20And%20Derivative%20Pricing%20By%20Monte%20Carlo%20Simulation.md).
+- All lenders and borrowers are risk neutral.
  - The borrower has no capital and needs to raise 1 (\$1 million).
 - Outside investors do not observe the borrower's operations directly,  not even its sales or cash flows.
 
 ### How can the borrower be made to pay some of the cash?
 
-How can the [lenders write a contract](Class%20Note%202-%20Debt%20Contracts%20Due%20to%20the%20Lack%20of%20Information%20Debt%20as%20a%20Promise%20and%20a%20Threat.md) where they do not need to monitor the information about actual [cash flow](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md)?
+How can the lenders write a contract where they do not need to monitor the information about actual cash flow?
 
 Detailed Example:
 
-- The firm needs to raise 1 (\$1 million)) and investors require an [expected return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) of r=5%.
+- The firm needs to raise 1 (\$1 million)) and investors require an expected return of r=5%.
 - An expected repayment of 1.05.
 
 #### Future Cash Flow is uncertain,  all know the probabilities
-- Actual final [cash flow](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) not observed by lenders,  who observe only the amount repaid.
- ![500](Attachments/500-83.png)
+- Actual final cash flow not observed by lenders,  who observe only the amount repaid.
+ !500
 
 #### A simple candidate for a financial contract is equity
-- An [equity contract](.md) in this context is a profit-sharing agreement,  where the profit shared depends on the profits reported by the borrower.
+- An equity contract in this context is a profit-sharing agreement,  where the profit shared depends on the profits reported by the borrower.
 - Much more detailed than public equity,  where there is no obligation to pay any dividends,  but similar in spirit (as we will see).
 
 ##### Equity: Pay a fraction “a" of reported cash flow (or profits) P
-- A fraction of "a" of reported [cash flow](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) (or,  equivalently,  profits) goes to the outside investor,  while the borrower retains the fraction 1-a,  plus any under reported [cash flow](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md).
+- A fraction of "a" of reported cash flow (or,  equivalently,  profits) goes to the outside investor,  while the borrower retains the fraction 1-a,  plus any under reported cash flow.
 
 ###### Actual cash=V ,  reported cash=Z
 - Suppose that the borrower's contract is just to pay a fraction of reported profits,  Z,  with no other details or penalties specified.
-- [Borrower Payoff](.md) = Va (Z)
+- Borrower Payoff = Va (Z)
 - Poll: How much would you report (Z),  if V=1.4 and a=0.5?
 
 ###### Report as little as possible
@@ -76,7 +76,7 @@ Detailed Example:
 Liquidation is useful as a penalty that a borrower can avoid by paying the debt,  but regular liquidation is not a good way to run a firm
 
 ##### When to Liquidate?
-- How does one specify an [optimal financial contract](.md) between investor and borrower?
+- How does one specify an optimal financial contract between investor and borrower?
 - This means choosing when to liquidate (to penalize the borrower) and when to not liquidate,  as a function of the payment made.
 
 ###### Lets see how to use liquidation
@@ -297,12 +297,12 @@ A list of payments
 - If F >1,  then there will be liquidation with probability at least 0.2 (the probability that V=1).
 
 ### Future Cash Flow is uncertain,  all know the probabilities
-- Actual [cash flow](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) not observed by lenders,  who observe only the amount repaid.
- ![500](Attachments/500-84.png)
+- Actual cash flow not observed by lenders,  who observe only the amount repaid.
+ !500
 - Borrower & lender get 0
-- The lender's [Expected Return](../../../Advanced%20Investments/Lecture%201-%20Probability%20Distributions%20of%20Returns.md) must be at least 1.05
-- Actual [cash flow](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) not observed by lenders,  who observe only the amount repaid.
- ![500](Attachments/500-83.png)
+- The lender's Expected Return must be at least 1.05
+- Actual cash flow not observed by lenders,  who observe only the amount repaid.
+ !500
 - 0.8 F + 0.2 (0) ≥1.05
 - $$F\geq1.05/0.8=1.3125$$
 
@@ -312,18 +312,18 @@ A list of payments
 
 ## Extend this to Loan Covenants
 - This applies not only to defaults on principal and interest covenants,  but to any other covenant that depends on hard-to-observe information.
-- When it too costly for lenders to collect the information to enforce or renegotiate other detailed covenants,  then [Slides](Class%20[[Slides%20Note%209%20Bidask.not%20New%202020) 2 Discussion of [Loan Covenants](Class%20Slides%202%20Discussion%20of%20Loan%20Covenants%20Vs.%20Bond%20Covenants.md) Vs. Bond Covenants|Covenants]] that "mean what they say" (and involve a default when violated) must be used.
+- When it too costly for lenders to collect the information to enforce or renegotiate other detailed covenants,  then Slides 2 Discussion of Loan Covenants Vs. Bond Covenants | Covenants]] that "mean what they say" (and involve a default when violated) must be used.
 
 #### Don't renegotiate if you can't monitor
 - Why not?
-- How does this relate to the [US Federal Trust Indenture Act](Discussion%20of%20Loan%20Covenants%20vs.%20Bond%20Covenants.md)?
-- [Debt contracts](../../I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/I-%20Introduction%20to%20Financial%20Markets%20and%20Intermediation/Lecture%20Note%201-%20Debt%20Pricing.md) can be improved by costly monitoring
+- How does this relate to the US Federal Trust Indenture Act?
+- Debt contracts can be improved by costly monitoring
 
 ##### Debt contracts can be improved by costly monitoring
-- What would you do if you could monitor the true [cash flow](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md),  V?
+- What would you do if you could monitor the true cash flow,  V?
 
 ###### Renegotiation
-- Instead of always or never accepting 1 in lieu of liquidation,  the lender who monitors the firm's [cash flow](../../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Preview%20of%20the%20Book.md) can accept 1 when V=1 and reject it when V=1.4.
+- Instead of always or never accepting 1 in lieu of liquidation,  the lender who monitors the firm's cash flow can accept 1 when V=1 and reject it when V=1.4.
 - This saves 0.2 (\$1 M) = \$0.2 M.
 - If this monitoring cost \$200 (\$. 002 M),  it would certainty be worth doing.
 

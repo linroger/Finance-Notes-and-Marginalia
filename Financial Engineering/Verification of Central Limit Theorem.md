@@ -22,21 +22,21 @@ key_concepts:
 
 # A Verification of the Central Limit Theorem  
 
-Central Limit Theorem: If. $\{X_{I},X_{2},\ldots\}$ is a set of independent and identically distributed random variables with mean. $\mu$ and standard deviation $\sigma,$ then the [distribution function](.md) for the random. variable  
+Central Limit Theorem: If. $\{X_{I},X_{2},\ldots\}$ is a set of independent and identically distributed random variables with mean. $\mu$ and standard deviation $\sigma,$ then the distribution function for the random. variable  
 $$
 Z_{n}={\frac{{\bar{X}}-\mu}{\sigma/{\sqrt{n}}}}
 $$  
 
-approaches the [distribution function](.md) for the [standard normal distribution](.md) as $n\to\infty$ where the sample mean random variable is defined as X = Ei-1 Xi.  
+approaches the distribution function for the standard normal distribution as $n\to\infty$ where the sample mean random variable is defined as X = Ei-1 Xi.  
 
-Proof: We start by proving that the [moment generating function](.md) (defined shortly) of the random. variable $Z_{n}$ approaches the [moment generating function](.md) of the standard normal random variable $Z$ as $n$ approaches infinity. The point is that the [moment generating function](.md) of a random. variable uniquely determines the [distribution function](.md) of the random variable, although we will not prove this fact. Some details in this prove will not be completely rigorous, since a rigorous proof is beyond the level of this text..  
+Proof: We start by proving that the moment generating function (defined shortly) of the random. variable $Z_{n}$ approaches the moment generating function of the standard normal random variable $Z$ as $n$ approaches infinity. The point is that the moment generating function of a random. variable uniquely determines the distribution function of the random variable, although we will not prove this fact. Some details in this prove will not be completely rigorous, since a rigorous proof is beyond the level of this text..  
 
-The [moment generating function](.md) $M_{X}(t)$ of a random variable. $X$ is defined to be the. expectation of the random variable $e^{X t}\colon M_{X}(t)=E[e^{X t}]$ where $t$ can be any real number. Since.  
+The moment generating function $M_{X}(t)$ of a random variable. $X$ is defined to be the. expectation of the random variable $e^{X t}\colon M_{X}(t)=E[e^{X t}]$ where $t$ can be any real number. Since.  
 $$
 {\frac{1}{\sqrt{2\pi}}}e^{-z^{2}/2}
 $$  
 
-is the density function for the standard normal random variable $Z.$ then [moment generating function](.md) of $Z$ is:  
+is the density function for the standard normal random variable $Z.$ then moment generating function of $Z$ is:  
 $$
 \begin{array}{r}{M_{Z}(t)=E[e^{Z t}]=\frac{1}{\sqrt{2\pi}}\int_{-\infty}^{\infty}e^{-z^{2}/2}e^{z t}d z.}\end{array}
 $$  
@@ -68,12 +68,12 @@ $$
 Z_{n}={\frac{{\bar{X}}-\mu}{\sigma/{\sqrt{n}}}}={\frac{\sum_{i=1}^{n}(X_{i}-\mu)}{\sigma{\sqrt{n}}}}.
 $$  
 
-Thus, the [moment generating function](.md) for $Z_{n}$ is:  
+Thus, the moment generating function for $Z_{n}$ is:  
 $$
 M_{Z_{n}}(t)=E\left[e^{\frac{t\sum_{i=1}^{n}\left(X_{i}-\mu\right)}{\sigma{\sqrt{n}}}}\right].
 $$  
 
-Since the $X_{i}^{\prime}s$ are [independent random variables](.md), then $Z_{n}$ has the density function $p(x_{1})p(x_{2})\cdots p(x_{n})$ where $p(x_{i})$ is the density function for the random variable $X_{i}$ . Referring to equation (4), we can express the [moment generating function](.md) in the form  
+Since the $X_{i}^{\prime}s$ are independent random variables, then $Z_{n}$ has the density function $p(x_{1})p(x_{2})\cdots p(x_{n})$ where $p(x_{i})$ is the density function for the random variable $X_{i}$ . Referring to equation (4), we can express the moment generating function in the form  
 $$
 M_{Z_{n}}(t)=\int\displaylimits_{-\infty}^{\infty}\int\displaylimits_{-\infty}^{\infty}\cdots\int\displaylimits_{-\infty}^{\infty}e^{\frac{t\sum_{i=1}^{n}(x_{i}-\mu)}{\sigma\sqrt{n}}}p(x_{1})p(x_{2})\cdots p(x_{n})d x_{1}d x_{2}\cdots d x_{n}
 $$  
@@ -128,4 +128,4 @@ $$
 M_{Z_{n}}(t)\rightarrow e^{\frac{t^{2}}{2}}
 $$  
 
-as $n\to\infty$ as we set out to verify.  
+as $n\to\infty$ as we set out to verify.

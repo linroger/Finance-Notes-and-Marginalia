@@ -23,23 +23,23 @@ key_concepts:
 # An Overview of the Vasicek Short Rate Model
 # Abstract
 
-The [Vasicek model](Vasicek%20Short%20Rate%20Model.md) (1977) is one of the earliest stochastic models of the [term structure of interest rates](../../Financial%20Engineering/6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md). This model,  though it has it’s shortcomings,  has many advantages,  such as analytical tract ability and [mean reversion](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) features,  and may be viewed as a [short rate model](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) template.
+The Vasicek model (1977) is one of the earliest stochastic models of the term structure of interest rates. This model,  though it has it’s shortcomings,  has many advantages,  such as analytical tract ability and mean reversion%20Process.md) features,  and may be viewed as a short rate model template.
 
-Several [short rate](.md) models have their foundations rooted in the [Vasicek model](Vasicek%20Short%20Rate%20Model.md). The classical [Hull-White model](../../Course%20Notes/Python/QuantLib-Python/On%20the%20Convergence%20of%20Hull%20White%20Monte%20Carlo%20Simulations.md) (1990a),  for example,  is an extension of the [Vasicek model](Vasicek%20Short%20Rate%20Model.md) with time dependent parameters 1 .
+Several short rate models have their foundations rooted in the Vasicek model. The classical Hull-White model (1990a),  for example,  is an extension of the Vasicek model with time dependent parameters 1 .
 
-In the work that follows we derive the [short rate](.md) implied by the [Vasicek model](Vasicek%20Short%20Rate%20Model.md) using the integrating factor method and provide an [overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md) of this method and it’s shorthand. Secondly we consider the model dynamics and ﬁnally we apply the model to zero-coupon bond [pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) 2 and provide a detailed derivation.
+In the work that follows we derive the short rate implied by the Vasicek model using the integrating factor method and provide an overview of this method and it’s shorthand. Secondly we consider the model dynamics and ﬁnally we apply the model to zero-coupon bond pricing 2 and provide a detailed derivation.
 
-Finally in reviewing the [Vasicek model](Vasicek%20Short%20Rate%20Model.md) we outline it’s disadvantages,  consider other [short rate](.md) models and look at the [Hull-White extension](.md) to this model. The aim of the paper is to provide an [overview](../../Financial%20Markets/Financial%20Engineering%20and%20Arbitrage%20in%20the%20Financial%20Markets/PART%20I%20RELATIVE%20VALUE%20BUILDING%20BLOCKS/Chapter%201%20-%20Purpose%20and%20Structure%20of%20Financial%20Markets/Overview%20of%20Financial%20Markets.md) of the [Vasicek model](Vasicek%20Short%20Rate%20Model.md) and an [introduction](../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%209-%20Bailouts%20and%20Bank%20Failures/Squam%20Lake%20Group%20Introduction.md) into [short rate](.md) modelling.
+Finally in reviewing the Vasicek model we outline it’s disadvantages,  consider other short rate models and look at the Hull-White extension to this model. The aim of the paper is to provide an overview of the Vasicek model and an introduction into short rate modelling.
 
 # 1. Short Rates
 
-The [short rate](.md) $r_{t}$ is taken to be the continually compounded annualised interest rate at which one can borrow or lend money for an in nite sim ally short period at a future time t.
+The short rate $r_{t}$ is taken to be the continually compounded annualised interest rate at which one can borrow or lend money for an in nite sim ally short period at a future time t.
 
-[Short rate](.md) models attempt to model the [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) of instantaneous forward [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) 3 . Such models come in two ﬂavours,  namely endogenous equilibrium models,  where the [short rate](.md) [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) is a model output and exogenous [arbitrage](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md)-free models,  where it is an explicit input. The later is preferred and better explains the interest rate dynamics observed in the market.
+Short rate models attempt to model the term structure of instantaneous forward interest rates 3 . Such models come in two ﬂavours,  namely endogenous equilibrium models,  where the short rate term structure is a model output and exogenous arbitrage-free models,  where it is an explicit input. The later is preferred and better explains the interest rate dynamics observed in the market.
 
-In the models that follow the [short rate](.md) is stochastic and corresponds to the instantaneous [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md). By modelling the evolution of the [short rate](.md) we can determine at any future time t the price zero-coupon bond $Z(t,     T)$ maturing at time $\mathrm{T}$ as
+In the models that follow the short rate is stochastic and corresponds to the instantaneous forward rate. By modelling the evolution of the short rate we can determine at any future time t the price zero-coupon bond $Z(t,     T)$ maturing at time $\mathrm{T}$ as
 $$
-Z(t,     T)=\mathbb{E}\left[e x p\left(-\int_{s=t}^{T}r_{s}\;d s\right)|\mathcal{F}_{s}\right]
+Z(t,     T)=\mathbb{E}\left[e x p\left(-\int_{s=t}^{T}r_{s}\;d s\right) | \mathcal{F}_{s}\right]
 $$  
 
 which means that instantaneous forward rates can be speciﬁed as follows
@@ -48,7 +48,7 @@ f(t,     T)=-\frac{\partial}{\partial T}l n(Z(t,     T))
 $$  
 # 2. Vasicek Short Rate Model
 
-The [Vasicek model](Vasicek%20Short%20Rate%20Model.md) describes short [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) as having the following dynamics
+The Vasicek model describes short interest rates as having the following dynamics
 $$
 d r_{t}=(\theta-a r_{t})d t+\sigma d B_{t}
 $$  
@@ -60,18 +60,18 @@ $$
 
 where
 
-- a=Speed of [Mean Reversion](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md),  $0\leq a\leq1$
-- b = [Mean Reversion](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) Level
-- $r_{t}=$ [Short Rate](.md) at time,  t
-- $\sigma=$ [Short Rate](.md) Volatility
-- $B_{t}=$ [Brownian Motion](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) Process at time,  t
+- a=Speed of Mean Reversion%20Process.md),  $0\leq a\leq1$
+- b = Mean Reversion%20Process.md) Level
+- $r_{t}=$ Short Rate at time,  t
+- $\sigma=$ Short Rate Volatility
+- $B_{t}=$ Brownian Motion Process at time,  t
 - and $\theta={\mathrm{ab}}$
 
-The [Vasicek Model](Vasicek%20Short%20Rate%20Model.md)’s drift term exhibits [mean reversion](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md),  meaning that over time [interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%202/Interest%20Rate%20Quotations.md) will converge to the [mean reversion](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) level $b$ with speed $a$ . The $b$ parameter can be thought of as the long term interest rate level. When the [short rate](.md) wanders above the long term rate it is pulled down and likewise when it drifts below the long term rate it is pushed up.
+The Vasicek Model’s drift term exhibits mean reversion%20Process.md),  meaning that over time interest rates will converge to the mean reversion%20Process.md) level $b$ with speed $a$ . The $b$ parameter can be thought of as the long term interest rate level. When the short rate wanders above the long term rate it is pulled down and likewise when it drifts below the long term rate it is pushed up.
 
-Figure 1 demonstrates [mean reversion](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) manifesting itself as strong resistance and support from which the [short rate](.md) will bounce to return and converge to the long term interest rate level.
+Figure 1 demonstrates mean reversion%20Process.md) manifesting itself as strong resistance and support from which the short rate will bounce to return and converge to the long term interest rate level.
 
-The [mean reversion](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) for the [Vasicek model](Vasicek%20Short%20Rate%20Model.md) is captured within the drift term $d r_{t}\,     =\,     a(b\,     -\,     r_{t})$ ,  where a and b are positive constants. Mathematically we demonstrate this below in table 1 . When the [short rate](.md) $r_{t}$ drifts above (below) the long term rate $b$ then the change in the [Vasicek](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) process is negative (positive) forcing convergence to the long term interest rate level.
+The mean reversion%20Process.md) for the Vasicek model is captured within the drift term $d r_{t}\,     =\,     a(b\,     -\,     r_{t})$ ,  where a and b are positive constants. Mathematically we demonstrate this below in table 1 . When the short rate $r_{t}$ drifts above (below) the long term rate $b$ then the change in the Vasicek process is negative (positive) forcing convergence to the long term interest rate level.
 
 # 3. Vasicek Solution for the Short Rate
 
@@ -82,7 +82,7 @@ $$
 
 The Integrating Factor $I_{t}$ is set to be $I_{t}\;=\;e^{\int P_{t}d t}$ R . Multiplying both sides of ( 3 ) by $I_{t}$ and integrating leads to an expression for $r_{t}$ .
 
-Applying the Integrating Factor method to the [Vasicek](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) process we obtain
+Applying the Integrating Factor method to the Vasicek process we obtain
 $$
 d r_{t}+a r_{t}d t=\theta d t+\sigma d B_{t}
 $$  
@@ -111,7 +111,7 @@ $$
 r_{t}=\underbrace{e^{-a(t-s)}r_{s}+{\frac{\theta}{a}}(1-e^{-a(t-s)})}_{D r i f t}+\underbrace{\sigma\int_{u=s}^{t}e^{-a(t-u)}\;d B_{u}}_{D i f f u s i o n}
 $$  
 
-This is exactly what is required,  namely an expression for the [short rate](.md) at a future time t.
+This is exactly what is required,  namely an expression for the short rate at a future time t.
 
 # 4. Solving SDEs using the Integrating Factor Method
 
@@ -136,7 +136,7 @@ $$
 1. Simple integration can now be used to obtain a result for $X_{t}$
 # 4.2 Integrating Factor Shorthand
 
-It is common practice within academic literature to jump straight to step 5 above when solving ﬁrst order SDEs,  which for the [Vasicek Model](Vasicek%20Short%20Rate%20Model.md) would be as follows
+It is common practice within academic literature to jump straight to step 5 above when solving ﬁrst order SDEs,  which for the Vasicek Model would be as follows
 $$
 d r_{t}=(\theta-a r_{t})d t+\sigma d B_{t}
 $$  
@@ -162,62 +162,62 @@ Inspecting ( 7 ) we observe that the expression for $r_{t}$ is made up of two de
 
 From the drift terms
 $$
-\mathbb{E}[r_{t}|\mathcal{F}_{s}]=e^{-a(t-s)}r_{s}+\frac{\theta}{a}(1-e^{-a(t-s)})
+\mathbb{E}[r_{t} | \mathcal{F}_{s}]=e^{-a(t-s)}r_{s}+\frac{\theta}{a}(1-e^{-a(t-s)})
 $$  
 
 and from diffusion term
 $$
-\begin{array}{l}{{V a r(r_{t}|\mathcal{F}_{s})=V a r\left(\sigma\int_{u=s}^{t}e^{-a(t-u)}\;d B_{u}\right)}}\\ {{\qquad\qquad=\mathbb{E}\left[\left(\sigma\int_{u=s}^{t}e^{-a(t-u)}\;d B_{u}|\mathcal{F}_{s}\right)^{2}\right]-\underbrace{\mathbb{E}\left[\sigma\int_{u=s}^{t}e^{-a(t-u)}\;d B_{u}|\mathcal{F}_{s}\right]^{2}}_{=0}}}\end{array}
+\begin{array}{l}{{V a r(r_{t} | \mathcal{F}_{s})=V a r\left(\sigma\int_{u=s}^{t}e^{-a(t-u)}\;d B_{u}\right)}}\\ {{\qquad\qquad=\mathbb{E}\left[\left(\sigma\int_{u=s}^{t}e^{-a(t-u)}\;d B_{u} | \mathcal{F}_{s}\right)^{2}\right]-\underbrace{\mathbb{E}\left[\sigma\int_{u=s}^{t}e^{-a(t-u)}\;d B_{u} | \mathcal{F}_{s}\right]^{2}}_{=0}}}\end{array}
 $$
 
  | {z }
 
 The second term is zero,  since the expectation of a stochastic integral is zero by deﬁnition
 $$
-\begin{array}{l}{{V a r(r_{t}|F_{s})=\mathbb{E}\left[\left(\sigma\int_{u=s}^{t}e^{-a(t-u)}\;d B_{u}\right)^{2}\vert F_{s}\right]}}\\ {{\ }}\\ {{\ =\sigma^{2}\int_{u=s}^{t}e^{-2a(t-u)}\;d u}}\\ {{\ }}\\ {{\ =\sigma^{2}\left[\frac{e^{-2a(t-u)}}{2a}\right]_{u=s}^{t}}}\\ {{\ }}\\ {{\ =\frac{\sigma^{2}}{2a}\left(1-e^{-2a(t-s)}\right)}}\end{array}
+\begin{array}{l}{{V a r(r_{t} | F_{s})=\mathbb{E}\left[\left(\sigma\int_{u=s}^{t}e^{-a(t-u)}\;d B_{u}\right)^{2}\vert F_{s}\right]}}\\ {{\ }}\\ {{\ =\sigma^{2}\int_{u=s}^{t}e^{-2a(t-u)}\;d u}}\\ {{\ }}\\ {{\ =\sigma^{2}\left[\frac{e^{-2a(t-u)}}{2a}\right]_{u=s}^{t}}}\\ {{\ }}\\ {{\ =\frac{\sigma^{2}}{2a}\left(1-e^{-2a(t-s)}\right)}}\end{array}
 $$  
 
 Note we dropped the expectation operator $\mathbb{E}[.]$ whilst applying Itˆo Isometry,  where $d B_{u}^{2}=d u$ ,  since there is no longer any source of randomness.
 
-Now since $r_{t}$ is a [Brownian Motion](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%202%20-%20Uncertainty,%20Information,%20and%20Stochastic%20Processes/Continuous-Time%20Stochastic%20Processes.md) we know it is normally distributed as follows
+Now since $r_{t}$ is a Brownian Motion we know it is normally distributed as follows
 $$
-\begin{array}{l}{r_{t}\sim N\left(\mathbb{E}[r_{t}|\mathcal{F}_{s}],     V a r\left(r_{t}|\mathcal{F}_{s}\right)\right)}\\ {r_{t}\sim N\left(e^{-a\left(t-s\right)}r_{s}+\cfrac{\theta}{a}(1-e^{-a\left(t-s\right)},     \cfrac{\sigma^{2}}{2a}\left(1-e^{-2a\left(t-s\right)}\right)\right)}\end{array}
+\begin{array}{l}{r_{t}\sim N\left(\mathbb{E}[r_{t} | \mathcal{F}_{s}],     V a r\left(r_{t} | \mathcal{F}_{s}\right)\right)}\\ {r_{t}\sim N\left(e^{-a\left(t-s\right)}r_{s}+\cfrac{\theta}{a}(1-e^{-a\left(t-s\right)},     \cfrac{\sigma^{2}}{2a}\left(1-e^{-2a\left(t-s\right)}\right)\right)}\end{array}
 $$  
 
 In the limit as $t\to\infty$ we observe
 $$
-\operatorname*{lim}_{t\to\infty}\mathbb{E}[r_{t}|\mathcal{F}_{s}]=\frac{\theta}{a}
+\operatorname*{lim}_{t\to\infty}\mathbb{E}[r_{t} | \mathcal{F}_{s}]=\frac{\theta}{a}
 $$  
 
 and
 $$
-\operatorname*{lim}_{t\rightarrow\infty}V a r(r_{t}|\mathcal{F}_{s})=\frac{\sigma^{2}}{2a}
+\operatorname*{lim}_{t\rightarrow\infty}V a r(r_{t} | \mathcal{F}_{s})=\frac{\sigma^{2}}{2a}
 $$  
 
-Hence in the limiting case the [Vasicek model](Vasicek%20Short%20Rate%20Model.md) has the following dynamics
+Hence in the limiting case the Vasicek model has the following dynamics
 $$
 r_{t}\sim N\left(\frac{\theta}{a,     },     \frac{\sigma^{2}}{2a}\right)
 $$  
 
-It can be seen that the expected value tends to $\left({\frac{\theta}{a}}\right)$ ,  which equals $b$ ,  namely the long term rate or [mean reversion](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) level and the variance tends to $\left({\frac{\sigma^{2}}{2a}}\right)$ ,  which is the model variance scaled by the speed of [mean reversion](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md).
+It can be seen that the expected value tends to $\left({\frac{\theta}{a}}\right)$ ,  which equals $b$ ,  namely the long term rate or mean reversion%20Process.md) level and the variance tends to $\left({\frac{\sigma^{2}}{2a}}\right)$ ,  which is the model variance scaled by the speed of mean reversion%20Process.md).
 
 # 6 Zero Coupon Bond Pricing
 
 In what follows we describe how to price a zero-coupon bond as at a future time t,  which enables us to price a variety of linear and non-linear products. We also draw the reader’s attention to the fact that coupon bearing bonds,  and for that matter any cashﬂow,  can be decomposed into a series of zero-coupon bonds,  see Jamshidian (1989).
 
-To evaluate the price at a future time t of a zero-coupon bond $Z({\mathfrak{t}},     {\mathrm{T}})$ maturing at time T,  where $0\leq t\leq T$ ,  we consider the expected value of the [short rate](.md) over time
+To evaluate the price at a future time t of a zero-coupon bond $Z({\mathfrak{t}},     {\mathrm{T}})$ maturing at time T,  where $0\leq t\leq T$ ,  we consider the expected value of the short rate over time
 $$
-Z(t,     T)=\mathbb{E}[e^{-\int_{u=t}^{T}r_{u}\ d u}|{\mathcal F}_{t}]
+Z(t,     T)=\mathbb{E}[e^{-\int_{u=t}^{T}r_{u}\ d u} | {\mathcal F}_{t}]
 $$
 
-We know from the model dynamics that the process is normally distributed and recall from the deﬁnition of the normal [moment generating function](../../Financial%20Engineering/Verification%20of%20Central%20Limit%20Theorem.md)
+We know from the model dynamics that the process is normally distributed and recall from the deﬁnition of the normal moment generating function
 $$
 \mathbb{E}(e^{X})=e^{\mathbb{E}[X]+\frac{1}{2}V a r(X)}
 $$  
 
-Applying the normal [moment generating Function](../../Financial%20Engineering/Verification%20of%20Central%20Limit%20Theorem.md) to ( 13 )
+Applying the normal moment generating Function to ( 13 )
 $$
-Z(t,     T)=e^{\mathbb{E}\left[-\int_{u=t}^{T}r_{u}\ d u|\mathcal{F}_{t}\right]+\frac{1}{2}V a r\left(-\int_{u=t}^{T}r_{u}\ d u|\mathcal{F}_{t}\right)}
+Z(t,     T)=e^{\mathbb{E}\left[-\int_{u=t}^{T}r_{u}\ d u | \mathcal{F}_{t}\right]+\frac{1}{2}V a r\left(-\int_{u=t}^{T}r_{u}\ d u | \mathcal{F}_{t}\right)}
 $$  
 
 Evaluating the $\mathbb{E}[.]$ and $V a r(.)$ terms will lead to an expression for the bond price of the form
@@ -229,7 +229,7 @@ To derive a closed form solution to equation ( 15 ) we decompose the problem. Fi
 
 # 6.1 Zero Coupon Bond,  Integral Term
 
-Evaluating the integral term of ( 15 ) using the [short rate](.md) $r_{t}$ derived in ( 7 ) and paying attention to the relabelling of integration bounds within ( 7 ) from ( s,  t ) to ( t,  T )
+Evaluating the integral term of ( 15 ) using the short rate $r_{t}$ derived in ( 7 ) and paying attention to the relabelling of integration bounds within ( 7 ) from ( s,  t ) to ( t,  T )
 $$
 \begin{array}{l}{{\displaystyle\int_{u=t}^{T}r_{u}\,     d u=\int_{u=t}^{T}r_{t}e^{-a\left(u-t\right)}\,     d u+\frac{\theta}{a}\int_{u=t}^{T}\left(1-e^{-a\left(u-t\right)}\right)\,     d u+\sigma\int_{u=t}^{T}\int_{s=t}^{u}e^{-a\left(u-s\right)}\,     d B_{s}\,     d u}}\\ {{\displaystyle\qquad\qquad=\left[-\frac{r_{t}e^{-a\left(u-t\right)}}{a}\right]_{u=t}^{T}+\frac{\theta}{a}\left[u+\frac{e^{-a\left(u-t\right)}}{a}\right]_{u=t}^{T}+\sigma\int_{u=t}^{T}\int_{s=t}^{u}e^{-a\left(u-s\right)}\,     d B_{s}\,     d u}}\\ {{\displaystyle\qquad\qquad=r_{t}\left(\frac{1-e^{-a\left(T-t\right)}}{a}\right)+\frac{\theta}{a}\left(\left(T-t\right)-\left(\frac{1-e^{-a\left(T-t\right)}}{a}\right)\right)+\sigma\int_{u=t}^{T}\int_{s=t}^{u}e^{-a\left(u-s\right)}\,     d B_{s}\,     d u}}\end{array}
 $$  
@@ -238,46 +238,46 @@ $$
 
 The derivation of the conditional expectation term within ( 15 ) follows from ( 17 ). The expectation of the stochastic integral is zero and therefore after observing the negative sign within the expectation
 $$
-\mathbb{E}\left[-\int_{u=t}^{T}r_{u}\:d u|\mathcal{F}_{t}\right]=-r_{t}\left(\frac{1-e^{-a(T-t)}}{a}\right)-\frac{\theta}{a}\left((T-t)-\left(\frac{1-e^{-a(T-t)}}{a}\right)\right)
+\mathbb{E}\left[-\int_{u=t}^{T}r_{u}\:d u | \mathcal{F}_{t}\right]=-r_{t}\left(\frac{1-e^{-a(T-t)}}{a}\right)-\frac{\theta}{a}\left((T-t)-\left(\frac{1-e^{-a(T-t)}}{a}\right)\right)
 $$  
 
 # 6.3 Zero Coupon Bond,  Variance Term
 
 Likewise the conditional variance term required within ( 15 ) follows from ( 17 ),  where the variance is determined from the diffusion term,  namely the stochastic integral,  since the two determini stic drift terms make no contribution to the variance. This gives
 $$
-V a r\left(-\int_{u=t}^{T}r_{u}\;d u|\mathcal{F}_{t}\right)=V a r\left(-\sigma\int_{u=t}^{T}\int_{s=t}^{u}e^{-a\left(u-s\right)}\;d B_{s}\;d u\right)
+V a r\left(-\int_{u=t}^{T}r_{u}\;d u | \mathcal{F}_{t}\right)=V a r\left(-\sigma\int_{u=t}^{T}\int_{s=t}^{u}e^{-a\left(u-s\right)}\;d B_{s}\;d u\right)
 $$  
 
 Knowing $V a r(X)=\mathbb{E}[X^{2}]-\mathbb{E}[X]^{2}$ and that $V a r(-X)=V a r(X)$
 $$
-\begin{array}{r l r}{\lefteqn{\cdot\left(-\int_{u=t}^{T}r_{u}\,     d u|\mathcal{F}_{t}\right)=V a r\left(\int_{u=t}^{T}r_{u}\,     d u\right)}}\\{=\mathbb{E}\left[\left(\sigma\int_{u=t}^{T}\int_{s=t}^{u}e^{-a\left(u-s\right)}\,     d B_{s}\,     d u\right)^{2}\right]-\underbrace{\mathbb{E}\left[\sigma\int_{u=t}^{T}\int_{s=t}^{u}e^{-a\left(u-s\right)}\,     d B_{s}\,     d u\right]}_{=0}\ .}\end{array}
+\begin{array}{r l r}{\lefteqn{\cdot\left(-\int_{u=t}^{T}r_{u}\,     d u | \mathcal{F}_{t}\right)=V a r\left(\int_{u=t}^{T}r_{u}\,     d u\right)}}\\{=\mathbb{E}\left[\left(\sigma\int_{u=t}^{T}\int_{s=t}^{u}e^{-a\left(u-s\right)}\,     d B_{s}\,     d u\right)^{2}\right]-\underbrace{\mathbb{E}\left[\sigma\int_{u=t}^{T}\int_{s=t}^{u}e^{-a\left(u-s\right)}\,     d B_{s}\,     d u\right]}_{=0}\ .}\end{array}
 $$
 
  | {z
 
 Observe that the expected value of the second stochastic integral is zero by deﬁnition and therefore
 $$
-V a r\left(-\int_{u=t}^{T}r_{u}\;d u|\mathcal{F}_{t}\right)=\mathbb{E}\left[\left(\sigma\int_{u=t}^{T}\int_{s=t}^{u}e^{-a(u-s)}\;d B_{s}\;d u\right)^{2}\right]
+V a r\left(-\int_{u=t}^{T}r_{u}\;d u | \mathcal{F}_{t}\right)=\mathbb{E}\left[\left(\sigma\int_{u=t}^{T}\int_{s=t}^{u}e^{-a(u-s)}\;d B_{s}\;d u\right)^{2}\right]
 $$  
 
 Using Fubini’s Theorem to switch the integration order allows us reduce the remaining stochastic integrand to a deterministic term,  since via Itˆo’s Isometry $d B_{s}^{2}=d s$ . Careful attention is paid to the upper bound $s=u$ within the inner integral which requires a bounds transformation 4 and this gives
 $$
-V a r\left(-\int_{u=t}^{T}r_{u}\;d u|\mathcal{F}_{t}\right)=\mathbb{E}\left[\left(\sigma\underbrace{\int_{s=t}^{T}\int_{u=s}^{T}}_{B o u n d s C h a n g e}e^{-a(u-s)}\;d u\;d B_{s}\right)^{2}\right]
+V a r\left(-\int_{u=t}^{T}r_{u}\;d u | \mathcal{F}_{t}\right)=\mathbb{E}\left[\left(\sigma\underbrace{\int_{s=t}^{T}\int_{u=s}^{T}}_{B o u n d s C h a n g e}e^{-a(u-s)}\;d u\;d B_{s}\right)^{2}\right]
 $$  
 
 The square term eliminates the source of randomness,  since $d B_{s}^{2}$ becomes $d s$ ,  and hence the expectation operator is no longer required
 $$
-\begin{array}{l}{{V a r\left(-\displaystyle\int_{u=t}^{T}r_{u}\;d u|\mathcal{F}_{t}\right)=\mathbb{E}\left[\sigma^{2}\displaystyle\int_{s=t}^{T}\left(\displaystyle\int_{u=s}^{T}e^{-a(u-s)}\;d u\right)^{2}\;d s\right]}}\\ {{\quad\quad\quad\quad\quad\quad\quad\quad\quad=\sigma^{2}\displaystyle\int_{s=t}^{T}\left(\displaystyle\int_{u=s}^{T}e^{-a(u-s)}\;d u\right)^{2}\;d s}}\end{array}
+\begin{array}{l}{{V a r\left(-\displaystyle\int_{u=t}^{T}r_{u}\;d u | \mathcal{F}_{t}\right)=\mathbb{E}\left[\sigma^{2}\displaystyle\int_{s=t}^{T}\left(\displaystyle\int_{u=s}^{T}e^{-a(u-s)}\;d u\right)^{2}\;d s\right]}}\\ {{\quad\quad\quad\quad\quad\quad\quad\quad\quad=\sigma^{2}\displaystyle\int_{s=t}^{T}\left(\displaystyle\int_{u=s}^{T}e^{-a(u-s)}\;d u\right)^{2}\;d s}}\end{array}
 $$  
 
 Continuing with simple integration leads to
 $$
-\begin{array}{c}{{V a r\left(-\displaystyle\int_{u=t}^{T}r_{u}\:d u|\mathcal F_{t}\right)=\sigma^{2}\displaystyle\int_{s=t}^{T}\left(\displaystyle\frac{1-e^{-a(T-s)}}{a}\right)^{2}\:d s}}\\ {{=\sigma^{2}\displaystyle\int_{s=t}^{T}\left(\displaystyle\frac{1-2e^{-a(T-s)}+e^{-2a(T-s)}}{a^{2}}\right)\:d s}}\\ {{=\displaystyle\frac{\sigma^{2}}{a^{2}}\left[s-\displaystyle\frac{2e^{-a(T-s)}}{a}+\displaystyle\frac{e^{-2a(T-s)}}{2a}\right]_{s=t}^{T}}}\end{array}
+\begin{array}{c}{{V a r\left(-\displaystyle\int_{u=t}^{T}r_{u}\:d u | \mathcal F_{t}\right)=\sigma^{2}\displaystyle\int_{s=t}^{T}\left(\displaystyle\frac{1-e^{-a(T-s)}}{a}\right)^{2}\:d s}}\\ {{=\sigma^{2}\displaystyle\int_{s=t}^{T}\left(\displaystyle\frac{1-2e^{-a(T-s)}+e^{-2a(T-s)}}{a^{2}}\right)\:d s}}\\ {{=\displaystyle\frac{\sigma^{2}}{a^{2}}\left[s-\displaystyle\frac{2e^{-a(T-s)}}{a}+\displaystyle\frac{e^{-2a(T-s)}}{2a}\right]_{s=t}^{T}}}\end{array}
 $$  
 
 giving
 $$
-V a r\left(-\int_{u=t}^{T}r_{u}\;d u|\mathcal{F}_{t}\right)=\frac{\sigma^{2}}{a^{2}}\left[(T-t)-2\left(\frac{1-e^{-a(T-t)}}{a}\right)+\left(\frac{1-e^{-2a(T-t)}}{2a}\right)\right]
+V a r\left(-\int_{u=t}^{T}r_{u}\;d u | \mathcal{F}_{t}\right)=\frac{\sigma^{2}}{a^{2}}\left[(T-t)-2\left(\frac{1-e^{-a(T-t)}}{a}\right)+\left(\frac{1-e^{-2a(T-t)}}{2a}\right)\right]
 $$  
 
 4 Fubini’s Theorem allows the change of integration order for double and multiple stochastic integrals,  however when the integration bounds are a function of one-another a bounds transformation is required.
@@ -295,14 +295,14 @@ $$
 \int_{x=a}^{x=b}\int_{y=c}^{y=f(x)}[.]\;d y\;d x
 $$  
 
-1. Plot the area represented by the original integration bounds,  ignoring the function being integrated.
-1. First start with the inner integral and chart the area bounded by the limits of the inner integral. Always plot functional bounds on the y-axis. In this case we plot $y\,     =\,     f(x)$ on the y-axis.
-1. Next chart the area bounded by the outer integral’s limits on the same chart,  giving the net area captured by the limits of the inner and outer integrals.
-1. Replot the same area,  reﬂected in the $y=x$ axis,  this is equivalent switching the integration order. Again we do this in stages,  ﬁrst for the new inner and then the new outer integral,  inverting any functional limits.
-1. Swap the axis of the original chart and visualise the region captured by the original integration limits reﬂected in the $y=x$ axis.
-1. Next plot the new y limits that capture the same area as the original chart,  but reﬂected in $y=x$ axis. Remember to invert any functional limits,  in this case $x=f^{-1}(y)$ .
-1. Repeat the process for the new x limits,  again inverting any functional limits.
-1. Finally read the new integration bounds from the resulting bounds chart,  in the correct order,  starting with the inner then outer integral.
+[^1]: Plot the area represented by the original integration bounds,  ignoring the function being integrated.
+[^1]: First start with the inner integral and chart the area bounded by the limits of the inner integral. Always plot functional bounds on the y-axis. In this case we plot $y\,     =\,     f(x)$ on the y-axis.
+[^1]: Next chart the area bounded by the outer integral’s limits on the same chart,  giving the net area captured by the limits of the inner and outer integrals.
+[^1]: Replot the same area,  reﬂected in the $y=x$ axis,  this is equivalent switching the integration order. Again we do this in stages,  ﬁrst for the new inner and then the new outer integral,  inverting any functional limits.
+[^1]: Swap the axis of the original chart and visualise the region captured by the original integration limits reﬂected in the $y=x$ axis.
+[^1]: Next plot the new y limits that capture the same area as the original chart,  but reﬂected in $y=x$ axis. Remember to invert any functional limits,  in this case $x=f^{-1}(y)$ .
+[^1]: Repeat the process for the new x limits,  again inverting any functional limits.
+[^1]: Finally read the new integration bounds from the resulting bounds chart,  in the correct order,  starting with the inner then outer integral.
 # Bounds Transformations,  Example
 
 Next we outline the above step by step process providing a graphical representation of the bounds in equation ( 19 ),  namely
@@ -323,9 +323,9 @@ $$
 
 # 6.5 Zero Coupon Bond Pricing
 
-Returning to the Zero Coupon Bond [Pricing](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%207/Arbitrage%20Pricing%20of%20Derivatives.md) formula ( 13 ) having derived all the terms required
+Returning to the Zero Coupon Bond Pricing formula ( 13 ) having derived all the terms required
 $$
-Z(t,     T)=e^{\mathbb{E}\left[-\int_{u=t}^{T}r_{u}\ d u|\mathcal{F}_{t}\right]+\frac{1}{2}V a r\left(-\int_{u=t}^{T}r_{u}\ d u|\mathcal{F}_{t}\right)}
+Z(t,     T)=e^{\mathbb{E}\left[-\int_{u=t}^{T}r_{u}\ d u | \mathcal{F}_{t}\right]+\frac{1}{2}V a r\left(-\int_{u=t}^{T}r_{u}\ d u | \mathcal{F}_{t}\right)}
 $$ 
 
 Substituting the conditional expectation ( 18 ) and variance ( 21 )
@@ -376,27 +376,27 @@ B(t,     T)=\left({\frac{1-e^{-a(T-t)}}{a}}\right)
 $$ 
 # 7. Disadvantages of the Vasicek Model
 
-The [Vasicek Model](Vasicek%20Short%20Rate%20Model.md) has several disadvantages which we list below.
+The Vasicek Model has several disadvantages which we list below.
 
-1. It is endogenous with time homogeneous parameters that do not vary over time. As such [short rate](.md) [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) is an output not an input.
-1. [Vasicek](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) short rates can be negative for certain combinations of model parameters. Although [negative interest rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Front%20Matter/Negative%20Rates%20and%20Qe%20in%20Europe%20and%20Japan.md) have indeed been observed in Non-Deliverable [Forwards](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%2012%20-%20Derivatives/Forwards%20and%20Futures.md),  in Switzerland & Japan. This is neither typical nor as frequent an observation as implied by this model. 3. There is no [term structure](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) of volatility. Volatility is assumed constant 5 . 4. Some observed [short rate](.md) term structures are difﬁcult and sometimes impossible to ﬁt with this model. 5. It is a one [factor model](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Pricing%20Factors%20in%20a%20One-Period%20Framework.md). It assumes that short rates are $100\%$ correlated and can only cater for parallel shifts in the yield curve.
+[^1]: It is endogenous with time homogeneous parameters that do not vary over time. As such short rate term structure is an output not an input.
+[^1]: Vasicek short rates can be negative for certain combinations of model parameters. Although negative interest rates have indeed been observed in Non-Deliverable Forwards,  in Switzerland & Japan. This is neither typical nor as frequent an observation as implied by this model. 3. There is no term structure of volatility. Volatility is assumed constant 5 . 4. Some observed short rate term structures are difﬁcult and sometimes impossible to ﬁt with this model. 5. It is a one factor model. It assumes that short rates are $100\%$ correlated and can only cater for parallel shifts in the yield curve.
 
 # 8. Other Short Rate Models
 
-Other [short rate](.md) models were developed,  both endogenous and exogenous to address the shortcomings of the [Vasicek](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) and other preceding [short rate](.md) models. Consequently there are several [short rate](.md) models which have similar but different functional forms,  some of which are listed in table 2 .
+Other short rate models were developed,  both endogenous and exogenous to address the shortcomings of the Vasicek and other preceding short rate models. Consequently there are several short rate models which have similar but different functional forms,  some of which are listed in table 2 .
 
-The [Vasicek model](Vasicek%20Short%20Rate%20Model.md) provided a foundation for these models. For example scaling the [Vasicek](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) diffusion term by $\sqrt{r_{t}}$ gives the Cox,  Ingersoll and Ross model,  setting the [Vasicek](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) $a$ parameter and making θ time dependent to zero leads to the Ho-Lee Model. Likewise making the all the [Vasicek](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) parameters time dependent leads to the Hull-White (1990a) model.
+The Vasicek model provided a foundation for these models. For example scaling the Vasicek diffusion term by $\sqrt{r_{t}}$ gives the Cox,  Ingersoll and Ross model,  setting the Vasicek $a$ parameter and making θ time dependent to zero leads to the Ho-Lee Model. Likewise making the all the Vasicek parameters time dependent leads to the Hull-White (1990a) model.
 
 # 9. The Extended Vasicek / Hull-White Model
 
-The Hull-White (1990a) Model below,  is also known as the Extended [Vasicek Model](Vasicek%20Short%20Rate%20Model.md). It is in essence the very same model,  but with time dependent parameters.
+The Hull-White (1990a) Model below,  is also known as the Extended Vasicek Model. It is in essence the very same model,  but with time dependent parameters.
 $$
 d r_{t}=(\theta_{t}-a_{t}r_{t})d t+\sigma_{t}d B_{t}
 $$  
 
-The [Hull-White Model](../../Course%20Notes/Python/QuantLib-Python/On%20the%20Convergence%20of%20Hull%20White%20Monte%20Carlo%20Simulations.md) appears in it’s most generic case with the $\theta_{t},     a_{t}$ and $\sigma_{t}$ parameters being deterministic and time dependent,  however it is not unusual to see the Hull White Model with any combination of these parameters ﬁxed. The [Hull-White model](../../Course%20Notes/Python/QuantLib-Python/On%20the%20Convergence%20of%20Hull%20White%20Monte%20Carlo%20Simulations.md) can be implemented as a series of discrete [Vasicek](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) models. The extended Vasicicek model attempts to deal with the disadvantages highlighted in section 7 .
+The Hull-White Model appears in it’s most generic case with the $\theta_{t},     a_{t}$ and $\sigma_{t}$ parameters being deterministic and time dependent,  however it is not unusual to see the Hull White Model with any combination of these parameters ﬁxed. The Hull-White model can be implemented as a series of discrete Vasicek models. The extended Vasicicek model attempts to deal with the disadvantages highlighted in section 7 .
 
-Hull & White developed this model further into a two [factor model](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Pricing%20Factors%20in%20a%20One-Period%20Framework.md). This was due to one factor models only catering for short rates that are $100\%$ correlated. This in turn only allows for parallel moves resulting yield curves. The two factor [Hull-White model](../../Course%20Notes/Python/QuantLib-Python/On%20the%20Convergence%20of%20Hull%20White%20Monte%20Carlo%20Simulations.md) has a stochastic [mean reversion](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) term,  giving the model richer explanatory power. The 2 [factor model](../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%209%20-%20Factor%20Models/Pricing%20Factors%20in%20a%20One-Period%20Framework.md) process is outlined below.
+Hull & White developed this model further into a two factor model. This was due to one factor models only catering for short rates that are $100\%$ correlated. This in turn only allows for parallel moves resulting yield curves. The two factor Hull-White model has a stochastic mean reversion%20Process.md) term,  giving the model richer explanatory power. The 2 factor model process is outlined below.
 $$
 \begin{array}{r l}&{d r(t)=(\theta(t)+u(t)-a r(t))d t+\sigma_{1}d B_{1}(t)}\\ &{d u(t)=-b u(t)+\sigma_{2}d B_{2}(t)}\end{array}
 $$
@@ -407,8 +407,8 @@ d B_{1}(t)d B_{2}(t)=\rho d t
 $$  
 # Conclusion
 
-In summary the [short rate](.md) is the instantaneous [forward rate](../../Clippings/Forward%20Points%20in%20Currency.md) at which one can borrow or lend money for an in nite sim ally short period at a future time t. [Short rate](.md) models can be endogenous or exogenous and the [term structure of rates](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%208/Expectations.md) can be a model output or input respectively. The later is preferred and a better ﬁt of market rates.
+In summary the short rate is the instantaneous forward rate at which one can borrow or lend money for an in nite sim ally short period at a future time t. Short rate models can be endogenous or exogenous and the term structure of rates can be a model output or input respectively. The later is preferred and a better ﬁt of market rates.
 
-The [Vasicek model](Vasicek%20Short%20Rate%20Model.md) and it’s [mean reversion](../../The%20Ornstein-Uhlenbeck%20(OU)%20Process.md) feature were examined,  as well as the possible functional forms of the resulting yield curve. The [short rate](.md) was derived from the [Vasicek](../../Financial%20Markets/Fixed%20Income%20Securities%20Tools%20for%20Today's%20Markets/Chapter%209/The%20Vasicek%20Model.md) SDE using the integrating factor method and model dynamics were considered with particular interest in the limiting case.
+The Vasicek model and it’s mean reversion%20Process.md) feature were examined,  as well as the possible functional forms of the resulting yield curve. The short rate was derived from the Vasicek SDE using the integrating factor method and model dynamics were considered with particular interest in the limiting case.
 
-The closed form solution for zero-coupon bond prices was derived and the procedure for the change of integration bounds when applying Fubini’s theorem outlined. Finally the model shortcomings were discussed and other [short rate](.md) models considered,  including the [Hull-White extension](.md) to the [Vasicek model](Vasicek%20Short%20Rate%20Model.md),  which were aimed at addressing these shortcomings.
+The closed form solution for zero-coupon bond prices was derived and the procedure for the change of integration bounds when applying Fubini’s theorem outlined. Finally the model shortcomings were discussed and other short rate models considered,  including the Hull-White extension to the Vasicek model,  which were aimed at addressing these shortcomings.

@@ -49,11 +49,11 @@ See regression output for the standard error of beta estimate
 
  - CAPM is based on solid theory about the tradeoff between risk and return
 	‒ It accounts for the notion of diversification
-	‒ Realized [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) are extremely noisy and so tests of the CAPM have low power
+	‒ Realized returns are extremely noisy and so tests of the CAPM have low power
 	‒ Evidence that "conditioning" on current info is part of the issue
 		- Betas conditioned on current macro information or time‐varying betas
  - Fama and French evidence:
-	‒ Several other factors appear to explain future [returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) (beyond beta)
+	‒ Several other factors appear to explain future returns (beyond beta)
  - Potential reason (among many others):
 	‒ Other sources of risk beyond single risk factor?
 	‒ Maybe small stocks have risk premium? Illiquidity premium?
@@ -65,7 +65,7 @@ characteristics per se)
 
 ## THE FAMA‐FRENCH 3‐FACTOR MODEL
 
- - Fama and French, "Common Risk Factors in the [Returns](../../../Financial%20Markets/Financial%20Asset%20Pricing%20Theory%20Overview/Chapter%203%20-%20%20Assets,%20Portfolios,%20and%20Arbitrage/Assets.md) on Stocks and Bonds,"
+ - Fama and French, "Common Risk Factors in the Returns on Stocks and Bonds,"
 Journal of Financial Economics 1993
  - An empirical "extension" of the CAPM:
 	 - $$R_{stock}=R_f+\beta^*(R_m-R_f)+\beta_{SIZE}^*R_{SMB})+\beta^{*}_{BM}(R_{HML})$$
@@ -74,7 +74,7 @@ Journal of Financial Economics 1993
 	‒ From WRDS or homepage of Prof. Ken French:
 	‒ http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
 
- ![500](8dc839f7c15531100a9525b01c4278bb.png)
+ !500
 
 ## EXAMPLE: 3‐FACTOR COST OF CAPITAL
  - Follow same procedure as CAPM estimates, but include Size and BM in regression:$$(R_{\mathrm{stock}}-R_{\mathrm{f}})=\alpha+\beta^{*}(R_{\mathrm{m}}-R_{\mathrm{f}})+\beta_{\mathrm{SIZE}}*(R_{\mathrm{SMB}})+\beta_{\mathrm{BM}}*(R_{\mathrm{HML}})$$
@@ -91,7 +91,7 @@ Journal of Financial Economics 1993
 	‒ Could be used for other parameters as well (e.g., implied growth rate)
  - You need to assume that the market prices a firm on average correctly
  - Then, we can use analysts' forecasts about future earnings and growth as a proxy
-for the market's [expectations](../../../Fixed%20Income%20Asset%20Pricing/Fixed%20Income%20Lecture%20Notes/FORWARD%20RATES%20AND%20TERM%20STRUCTURE.md)
+for the market's expectations
 	‒ We use these as inputs and plug them into an abnormal earnings model
 	‒ Back out an estimate of cost of equity capital "implied" by the market price$$\mathrm{P}_{0}=\sum_{t=1}^{\infty}\ \frac{\mathrm{D}_{t}}{\left(1+\mathrm{R}_{\mathrm{e}}\right)^{t}}=\sum_{t=1}^{\infty}\ \frac{\mathrm{NI}_{t}+\mathrm{BVE}_{t-1}-\mathrm{BVE}_{t}}{\left(1+\mathrm{R}_{\mathrm{e}}\right)^{t}}=\mathrm{BVE}_{0}+\sum_{t=1}^{\infty}\ \frac{\mathrm{NI}_{t}-\mathrm{R}_{\mathrm{e}}*\mathrm{BVE}_{t-1}}{\left(1+\mathrm{R}_{\mathrm{e}}\right)^{t}}$$
  - Hail and Leuz (2006) implement for four different models
@@ -117,22 +117,22 @@ for the market's [expectations](../../../Fixed%20Income%20Asset%20Pricing/Fix
 ## COST OF EQUITY
 - No Traded Equity Means That We Cannot Directly Estimate Beta
  - Alternative approaches:
-	 - 1. Industry or asset betas (basically using traded [comparables](../../Financial%20Ratios/Comps%20Definition,%20How%20They're%20Used%20in%20Analysis,%20and%20Example.md))
+	 - 1. Industry or asset betas (basically using traded comparables)
 	 - 2. Accounting and fundamental betas
 
 ## APPROACH 1
-- ‒ Estimate mean (median) "asset beta" (unlevered beta) for public [comparables](../../Financial%20Ratios/Comps%20Definition,%20How%20They're%20Used%20in%20Analysis,%20and%20Example.md)
+- ‒ Estimate mean (median) "asset beta" (unlevered beta) for public comparables
 - ‒ Then, re‐lever to reflect private firm's capital structure
 - ‒ Levering betas in private companies is difficult due to the lack of market prices for debt and/or equity
 	- Use book value
-	- Assume private firm's future [leverage](../../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) ratio eventually resembles the industry average
+	- Assume private firm's future leverage ratio eventually resembles the industry average
 	- Use a target debt‐to‐equity ratio
 ##  - **APPROACH 2:** SEE DAMODARAN READING
 
- ![500](ad2137d571e390994d008d0e6b922de4.png)
+ !500
 
  - Note the similarity of asset betas
-	‒ Compute median or average by industry and then re‐lever for your firm's [capital structure](../../Introduction%20to%20Corporate%20Finance.md)
+	‒ Compute median or average by industry and then re‐lever for your firm's capital structure
  - Ideally, try to find publicly traded "pure plays" for this exercise
 	‒ If private firm has multiple business lines, do it for each line and compute weighted average beta
 
@@ -142,16 +142,16 @@ for the market's [expectations](../../../Fixed%20Income%20Asset%20Pricing/Fix
 	‒ Typically, a well‐diversified investor
 	‒ In private company, owner has invested most of the wealth in the business
 	‒ The owner is exposed to all risk in the firm, and not just the market risk
- - Use total beta for the firm: Divide market $β$ by the square root of $R^2$ (= correlation coefficient with the market): $$\text{Total Beta}=\text{Market beta/ p}_{\mathrm{jm}}$$ ‒ Ex: For a private firm $i$ with a market $β$ of 0.82(from traded [comparables](../../Financial%20Ratios/Comps%20Definition,%20How%20They're%20Used%20in%20Analysis,%20and%20Example.md)) and an average R-squared of 16\%:$$\mathrm{Market~\beta_{i}~=~\frac{cov(r_{i},r_{m})}{var(r_{m})}=\frac{\sigma_{i}\times\sigma_{m}\times\rho_{im}}{\sigma_{m}^{2}}=\frac{\sigma_{i}\times\rho_{im}}{\sigma_{m}}~\to\frac{Market\beta_{i}}{\rho_{im}}=\frac{\sigma_{i}}{\sigma_{m}}}$$$$\mathrm{tal~\beta_{i}=\frac{Market~\beta_{i}}{\rho_{im}}=\frac{Market~\beta_{i}}{\sqrt{R-Sq}}=\frac{0.82}{\sqrt{0.16}}=2.05}$$
+ - Use total beta for the firm: Divide market $β$ by the square root of $R[^2]$ (= correlation coefficient with the market): $$\text{Total Beta}=\text{Market beta/ p}_{\mathrm{jm}}$$ ‒ Ex: For a private firm $i$ with a market $β$ of 0.82(from traded comparables) and an average R-squared of 16\%:$$\mathrm{Market~\beta_{i}~=~\frac{cov(r_{i},r_{m})}{var(r_{m})}=\frac{\sigma_{i}\times\sigma_{m}\times\rho_{im}}{\sigma_{m}^{2}}=\frac{\sigma_{i}\times\rho_{im}}{\sigma_{m}}~\to\frac{Market\beta_{i}}{\rho_{im}}=\frac{\sigma_{i}}{\sigma_{m}}}$$$$\mathrm{tal~\beta_{i}=\frac{Market~\beta_{i}}{\rho_{im}}=\frac{Market~\beta_{i}}{\sqrt{R-Sq}}=\frac{0.82}{\sqrt{0.16}}=2.05}$$
 ## ILLUSTRATION: SECURE MAIL SOFTWARE
 
- ![500](d4e1b4b36c80f3f9775f48f7743a0c0f.png)
+ !500
 
 - Note that this formula for unlevering the beta assumes that the risk of the debt tax shields equals the risk of the firm (and debt beta is zero)
 
 ## ILLUSTRATION: SECURE MAIL SOFTWARE (CONT.)
 
- ![500](5c9597a04e708666f240566562f8bef9.png)
+ !500
 
 Cost Of Debt  - Private Companies Rarely Have Publicly Traded Debt
 
@@ -162,14 +162,14 @@ Cost Of Debt  - Private Companies Rarely Have Publicly Traded Debt
 	‒ Reason: Access to finance is more limited 
 
  - Alternative Approaches:
-- ‒ Cost of debt for public [comparables](../../Financial%20Ratios/Comps%20Definition,%20How%20They're%20Used%20in%20Analysis,%20and%20Example.md) (plus some adjustment)
+- ‒ Cost of debt for public comparables (plus some adjustment)
 - ‒ Recent borrowing: Cost of Debt = Interest Expense/Outstanding Debt
 - ‒ Synthetic rating & default spread
 	- Estimate an appropriate synthetic rating based on financial ratios
 
 ## SYNTHETIC RATINGS AND COST OF DEBT
 
- ![500](d09ae9c4b32bf544c741ead1f71f3899.png)
+ !500
 
  - Steps:
 	‒ Compute the interest coverage ratio
@@ -206,14 +206,14 @@ To illustrate:
 - Customers/suppliers' concerns about potential interruptions/cancellations of warranties, parts, and service
 	- Fire‐sale of assets
 	- Potential underinvestment (shareholders' unwilling to fund new projects since benefits will accrue to bondholders)
-	- Management time spent in discussions with creditors and [investment](../../../Advanced%20Investments/An%20Asset%20Allocation%20Primer.md) bankers about refinancing and reorganization (instead of running the business)
+	- Management time spent in discussions with creditors and investment bankers about refinancing and reorganization (instead of running the business)
  - Costs of financial distress likely vary across industries and over time
 
 ## HOW HIGH ARE THE COSTS OF FINANCIAL DISTRESS?
- - Upper bound on expected costs of financial distress as a fraction of levered firm value for different [leverage](../../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) ratios L
- - Final column shows upper bound on costs of [financial distress](../../../Financial%20Markets%20and%20Institutions/III.%20Liquidity%20of%20Assets/Class%205-%20Private%20Information,%20Liquidity,%20and%20Securitization/Southland%20Corp.%20(c).md) at actual industry [leverage](../../../Advanced%20Investments/Lecture%206-Leverage,%20Tail%20Risk,%20Volatility%20Products.md) (1994‐2004)
+ - Upper bound on expected costs of financial distress as a fraction of levered firm value for different leverage ratios L
+ - Final column shows upper bound on costs of financial distress.md) at actual industry leverage (1994‐2004)
  - Costs higher in industries with:
 	 - Risk of asset fire‐sales
 	 - High reliance on human capital
 	 - High importance on postsales service, warranties, and parts
--  ![500](dfe93510282e0b1c4e7aa256de597102.png)
+-  !500

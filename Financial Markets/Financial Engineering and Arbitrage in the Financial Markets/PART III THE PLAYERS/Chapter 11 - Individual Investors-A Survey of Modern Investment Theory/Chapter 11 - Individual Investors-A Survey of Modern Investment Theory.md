@@ -1,10 +1,10 @@
 %% Begin Waypoint %%
-- **[Chapter 11 - Individual Investors-A Survey of Modern Investment Theory](.md)**
-	- [A Brief History of Investment Thought](A%20Brief%20History%20of%20Investment%20Thought.md)
-	- [Chapter 11 - Individual Investors-A Survey of Modern Investment Theory](.md)
-	- [Free Cash Flow Valuation of Companies](Free%20Cash%20Flow%20Valuation%20of%20Companies.md)
-	- [Fundamental Indexing](Fundamental%20Indexing.md)
-	- [The Modern Portfolio Theory and the Capm](The%20Modern%20Portfolio%20Theory%20and%20the%20Capm.md)
+- **Chapter 11 - Individual Investors-A Survey of Modern Investment Theory**
+	- A Brief History of Investment Thought
+	- Chapter 11 - Individual Investors-A Survey of Modern Investment Theory
+	- Free Cash Flow Valuation of Companies
+	- Fundamental Indexing
+	- The Modern Portfolio Theory and the Capm
 
 %% End Waypoint %%
 
@@ -27,5 +27,4 @@
 11.5.1 A Brief History of Fundamental Indexing 285   
 11.5.2 Fundamental Indexing and Rebalancing 285   
 11.5.3 Tactical Asset Allocation 286   
-11.5.4 Fundamentally Indexed US Funds 286  
-
+11.5.4 Fundamentally Indexed US Funds 286

@@ -1,10 +1,10 @@
 %% Begin Waypoint %%
-- **[Chapter 6 Options on Non-Price Variables](.md)**
-	- [Arbitrage-Free Interest Rate Models](Arbitrage-Free%20Interest%20Rate%20Models.md)
-	- [Black Models for Bond Price Options Capsfloors](Black%20Models%20for%20Bond%20Price%20Options%20Capsfloors.md)
-	- [Chapter 6 Options on Non-Price Variables](.md)
-	- [Convexity-Adjusted Models for LIBOR Forwards Qu](Convexity-Adjusted%20Models%20for%20LIBOR%20Forwards%20Qu.md)
-	- [Exotic Interest Rate Options](Exotic%20Interest%20Rate%20Options.md)
+- **Chapter 6 Options on Non-Price Variables**
+	- Arbitrage-Free Interest Rate Models
+	- Black Models for Bond Price Options Capsfloors
+	- Chapter 6 Options on Non-Price Variables
+	- Convexity-Adjusted Models for LIBOR Forwards Qu
+	- Exotic Interest Rate Options
 
 %% End Waypoint %%
 
@@ -31,4 +31,4 @@
 6.3.4 Bermudan Swaptions and Multifactor Models 180   
 6.4 Exotic Interest Rate Options 181   
 6.4.1 Periodic Caps 181   
-6.4.2 Digitals and Ranges 181  
+6.4.2 Digitals and Ranges 181

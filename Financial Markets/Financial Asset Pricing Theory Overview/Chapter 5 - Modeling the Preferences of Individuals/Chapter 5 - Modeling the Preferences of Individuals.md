@@ -7,15 +7,15 @@ tags:
 ---
 # Chapter 5  
 %% Begin Waypoint %%
-- **[Chapter 5 - Modeling the Preferences of Individuals](.md)**
-	- [Chapter 5 - Modeling the Preferences of Individuals](.md)
-	- [Consumption Plans and Preference Relations](Consumption%20Plans%20and%20Preference%20Relations.md)
-	- [Exercises](Exercises.md)
-	- [Expected Utility Representation of Preferences](Expected%20Utility%20Representation%20of%20Preferences.md)
-	- [Preferences for Multi-Date Consumption Plans](Preferences%20for%20Multi-Date%20Consumption%20Plans.md)
-	- [Risk Aversion](Risk%20Aversion.md)
-	- [Utility Functions in Models and in Reality](Utility%20Functions%20in%20Models%20and%20in%20Reality.md)
-	- [Utility Indices](Utility%20Indices.md)
+- **Chapter 5 - Modeling the Preferences of Individuals**
+	- Chapter 5 - Modeling the Preferences of Individuals
+	- Consumption Plans and Preference Relations
+	- Exercises
+	- Expected Utility Representation of Preferences
+	- Preferences for Multi-Date Consumption Plans
+	- Risk Aversion
+	- Utility Functions in Models and in Reality
+	- Utility Indices
 
 %% End Waypoint %%
 # Modeling the Preferences of Individuals  
@@ -52,4 +52,4 @@ Although an individual will typically obtain utility from consumption at many di
 
 Sections 5.2-5.4 discuss how to represent individual preferences in a tractable way. We will demonstrate that under some fundamental assumptions ("axioms') on individual behavior, the preferences can be modeled by a utility index which to each consumption plan assigns a real number with higher numbers to the more preferred plans. Under an additional axiom we can represent the preferences in terms of expected utility, which is even simpler to work with and used in most models of financial economics. Section 5.5 defines and discusses the important concept of risk aversion. Section 5.6 introduces the utility functions that are typically applied in models of financial economics and provides a short discussion of which utility functions and levels of risk aversions that seem to be reasonable for representing the decisions of individuals. In Section 5.7 we discuss extensions to preferences for consumption at more than one point in time.  
 
-There is a large literature on how to model the preferences of individuals for uncertain outcomes and the presentation here is by no means exhaustive. The literature dates back at least to Swiss mathematician Daniel Bernoulli in 1738 (see English translation in Bernoulli (1954), but was put on a firm formal setting by von Neumann and Morgenstern (1944). For some recent textbook presentations on a similar level as the one given here, see Huang and Litzenberger (1988, Ch. 1), Kreps (1990, Ch. 3), Gollier (2001, Chs. 1-3), and Danthine and Donaldson (2002, Ch. 2).  
+There is a large literature on how to model the preferences of individuals for uncertain outcomes and the presentation here is by no means exhaustive. The literature dates back at least to Swiss mathematician Daniel Bernoulli in 1738 (see English translation in Bernoulli (1954), but was put on a firm formal setting by von Neumann and Morgenstern (1944). For some recent textbook presentations on a similar level as the one given here, see Huang and Litzenberger (1988, Ch. 1), Kreps (1990, Ch. 3), Gollier (2001, Chs. 1-3), and Danthine and Donaldson (2002, Ch. 2).
