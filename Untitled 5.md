@@ -1,109 +1,109 @@
 # Table of Contents
 
-Setting Up the Texas BA II Plus Financial Calculator 5  
-VOLUME 1: QUANTITATIVE METHODS 5  
-Learning Module 1: Rates and Returns. 5  
-Learning Module 2: Time Value of Money in Finance 8  
-Learning Module 3: Statistical Measures of Asset Returns 10  
-Learning Module 4: Probability Trees and Conditional Expectations 12  
-Learning Module 5: Portfolio Mathematics 13  
-Learning Module 6: Simulation Methods 14  
-Learning Module 7: Estimation and Inference 15  
-Learning Module 8: Hypothesis Testing. 16  
-Learning Module 9: Parametric and Non-Parametric Tests of Independence 18  
-Learning Module 10: Simple Linear Regression 19  
-Learning Module 11: Introduction to Big Data Techniques 22  
-VOLUME 2: ECONOMICS 23  
-Learning Module 1: The Firm and Market Structures. 23  
-Learning Module 2: Understanding Business Cycles 23  
-Learning Module 3: Fiscal Policy 24  
-Learning Module 4: Monetary Policy 24  
-Learning Module 5: Introduction to Geopolitics 24  
-Learning Module 6: International Trade 24  
-Learning Module 7: Capital Flows and the FX Market 25  
-Learning Module 8: Exchange Rate Calculations 25  
-VOLUME 3: CORPORATE ISSUERS 26  
-Learning Module 1: Organizational Forms, Corporate Issuer Features, and Ownership 26  
-Learning Module 2: Investors and Other Stakeholders 26  
-Learning Module 3: Working Capital and Liquidity. 26  
-Learning Module 4: Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits 27  
-Learning Module 5: Capital Investments and Capital Allocation 27  
-Learning Module 6: Capital Structure 28  
-Learning Module 7: Business Models 29  
-VOLUME 4: FINANCIAL STATEMENT ANALYSIS 30  
-Learning Module 1: Introduction to Financial Statement Analysis. 30  
-Learning Module 2: Analyzing Income Statements 30  
-Learning Module 3: Analyzing Balance Sheets 31  
+Setting Up the Texas BA II Plus Financial Calculator 5
+VOLUME 1: QUANTITATIVE METHODS 5
+Learning Module 1: Rates and Returns. 5
+Learning Module 2: Time Value of Money in Finance 8
+Learning Module 3: Statistical Measures of Asset Returns 10
+Learning Module 4: Probability Trees and Conditional Expectations 12
+Learning Module 5: Portfolio Mathematics 13
+Learning Module 6: Simulation Methods 14
+Learning Module 7: Estimation and Inference 15
+Learning Module 8: Hypothesis Testing. 16
+Learning Module 9: Parametric and Non-Parametric Tests of Independence 18
+Learning Module 10: Simple Linear Regression 19
+Learning Module 11: Introduction to Big Data Techniques 22
+VOLUME 2: ECONOMICS 23
+Learning Module 1: The Firm and Market Structures. 23
+Learning Module 2: Understanding Business Cycles 23
+Learning Module 3: Fiscal Policy 24
+Learning Module 4: Monetary Policy 24
+Learning Module 5: Introduction to Geopolitics 24
+Learning Module 6: International Trade 24
+Learning Module 7: Capital Flows and the FX Market 25
+Learning Module 8: Exchange Rate Calculations 25
+VOLUME 3: CORPORATE ISSUERS 26
+Learning Module 1: Organizational Forms, Corporate Issuer Features, and Ownership 26
+Learning Module 2: Investors and Other Stakeholders 26
+Learning Module 3: Working Capital and Liquidity. 26
+Learning Module 4: Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits 27
+Learning Module 5: Capital Investments and Capital Allocation 27
+Learning Module 6: Capital Structure 28
+Learning Module 7: Business Models 29
+VOLUME 4: FINANCIAL STATEMENT ANALYSIS 30
+Learning Module 1: Introduction to Financial Statement Analysis. 30
+Learning Module 2: Analyzing Income Statements 30
+Learning Module 3: Analyzing Balance Sheets 31
 Learning Module 4: Analyzing Statements of Cash Flows I 32
 
-Learning Module 5: Analyzing Statements of Cash Flows II 33  
-Learning Module 6: Analysis of Inventories 34  
-Learning Module 7: Analysis of Long-Term Assets 35  
-Learning Module 8: Topics in Long-Term Liabilities and Equity 36  
-Learning Module 9: Analysis of Income Taxes 37  
-Learning Module 10: Financial Reporting Quality 37  
-Learning Module 11: Financial Analysis Techniques. 38  
+Learning Module 5: Analyzing Statements of Cash Flows II 33
+Learning Module 6: Analysis of Inventories 34
+Learning Module 7: Analysis of Long-Term Assets 35
+Learning Module 8: Topics in Long-Term Liabilities and Equity 36
+Learning Module 9: Analysis of Income Taxes 37
+Learning Module 10: Financial Reporting Quality 37
+Learning Module 11: Financial Analysis Techniques. 38
 Learning Module 12: Introduction to Financial Statement Modeling 41
 
 # VOLUME 5: EQUITY INVESTMENTS 42
 
-Learning Module 1: Market Organization and Structure 42  
-Learning Module 2: Security Market Indexes 42  
-Learning Module 3: Market Efficiency 43  
-Learning Module 4: Overview of Equity Securities 43  
-Learning Module 5: Company Analysis: Past and Present. 44  
-Learning Module 6: Industry and Company Analysis. 44  
-Learning Module 7: Company Analysis: Forecasting 45  
+Learning Module 1: Market Organization and Structure 42
+Learning Module 2: Security Market Indexes 42
+Learning Module 3: Market Efficiency 43
+Learning Module 4: Overview of Equity Securities 43
+Learning Module 5: Company Analysis: Past and Present. 44
+Learning Module 6: Industry and Company Analysis. 44
+Learning Module 7: Company Analysis: Forecasting 45
 Learning Module 8: Equity Valuation: Concepts and Basic Tools 45
 
 # VOLUME 6: FIXED INCOME 47
 
-Learning Module 1: Fixed-Income Instrument Features 47  
-Learning Module 2: Fixed-Income Cash Flows and Types 47  
-Learning Module 3: Fixed-Income Issuance and Trading 48  
-Learning Module 4: Fixed-Income Markets for Corporate Issuers 48  
-Learning Module 5: Fixed-Income Markets for Government Issuers 48  
-Learning Module 6: Fixed-Income Bond Valuation: Prices and Yields 49  
-Learning Module 7: Yield and Yield Spread Measures for Fixed Rate Bonds 50  
-Learning Module 8: Yield and Yield Spread Measures for Floating-Rate Instruments 51  
-Learning Module 9: The Term Structure of Interest Rates: Spot, Par, and Forward Curves 52  
-Learning Module 10: Interest Rate Risk and Return. 53  
-Learning Module 11: Yield-Based Bond Duration Measures and Properties 53  
-Learning Module 12: Yield-Based Bond Convexity and Portfolio Properties 54  
-Learning Module 13: Curve-Based and Empirical Fixed-Income Risk Measures 55  
-Learning Module 14: Credit Risk. 56  
-Learning Module 15: Credit Analysis for Government Issuers 56  
-Learning Module 16: Credit Analysis for Corporate Issuers 57  
-Learning Module 17: Fixed-Income Securitization 57  
+Learning Module 1: Fixed-Income Instrument Features 47
+Learning Module 2: Fixed-Income Cash Flows and Types 47
+Learning Module 3: Fixed-Income Issuance and Trading 48
+Learning Module 4: Fixed-Income Markets for Corporate Issuers 48
+Learning Module 5: Fixed-Income Markets for Government Issuers 48
+Learning Module 6: Fixed-Income Bond Valuation: Prices and Yields 49
+Learning Module 7: Yield and Yield Spread Measures for Fixed Rate Bonds 50
+Learning Module 8: Yield and Yield Spread Measures for Floating-Rate Instruments 51
+Learning Module 9: The Term Structure of Interest Rates: Spot, Par, and Forward Curves 52
+Learning Module 10: Interest Rate Risk and Return. 53
+Learning Module 11: Yield-Based Bond Duration Measures and Properties 53
+Learning Module 12: Yield-Based Bond Convexity and Portfolio Properties 54
+Learning Module 13: Curve-Based and Empirical Fixed-Income Risk Measures 55
+Learning Module 14: Credit Risk. 56
+Learning Module 15: Credit Analysis for Government Issuers 56
+Learning Module 16: Credit Analysis for Corporate Issuers 57
+Learning Module 17: Fixed-Income Securitization 57
 Learning Module 18: Asset-Backed Security (ABS) Instrument and Market Features 57
 
-Learning Module 19: Mortgage-Backed Security (MBS) Instrument and Market Features............57  
-VOLUME 7: DERIVATIVES 59  
-Learning Module 1: Derivative Instrument and Derivatives Market Features 59  
-Learning Module 2: Forward Commitments and Contingent Claim Features and Instruments ....59  
-Learning Module 3: Derivative Benefits, Risks, and Issuer and Investor Uses 60  
-Learning Module 4: Arbitrage, Replication, and the Cost of Carry in Pricing Derivatives 61  
-Learning Module 5: Pricing and Valuation of Forward Contracts and for an Underlying with  
-Varying Maturities 61  
-Learning Module 6: Pricing and Valuation of Futures Contracts 62  
-Learning Module 7: Pricing and Valuation of Interest Rates and Other Swaps. 63  
-Learning Module 8: Pricing and Valuation of Options 64  
-Learning Module 9: Option Replication Using Put-Call Parity 64  
-Learning Module 10: Valuing a Derivative Using a One-Period Binomial Model 65  
-VOLUME 8: ALTERNATIVE INVESTMENTS 67  
-Learning Module 1: Alternative Investment Features, Methods, and Structures. 67  
-Learning Module 2: Alternative Investment Performance and Returns 67  
-Learning Module 3: Investments in Private Capital: Equity and Debt 69  
-Learning Module 4: Real Estate and Infrastructure 69  
-Learning Module 5: Natural Resources. 69  
-Learning Module 6: Hedge Funds 69  
-Learning Module 7: Introduction to Digital Assets 69  
-VOLUME 9: PORTFOLIO MANAGEMENT. 70  
-Learning Module 1: Portfolio Risk and Return: Part I 70  
-Learning Module 2: Portfolio Risk and Return: Part II 72  
-Learning Module 3: Portfolio Management: An Overview 74  
-Learning Module 4: Basics of Portfolio Planning and Construction. 74  
-Learning Module 5: The Behavioral Biases of Individuals 74  
+Learning Module 19: Mortgage-Backed Security (MBS) Instrument and Market Features............57
+VOLUME 7: DERIVATIVES 59
+Learning Module 1: Derivative Instrument and Derivatives Market Features 59
+Learning Module 2: Forward Commitments and Contingent Claim Features and Instruments ....59
+Learning Module 3: Derivative Benefits, Risks, and Issuer and Investor Uses 60
+Learning Module 4: Arbitrage, Replication, and the Cost of Carry in Pricing Derivatives 61
+Learning Module 5: Pricing and Valuation of Forward Contracts and for an Underlying with
+Varying Maturities 61
+Learning Module 6: Pricing and Valuation of Futures Contracts 62
+Learning Module 7: Pricing and Valuation of Interest Rates and Other Swaps. 63
+Learning Module 8: Pricing and Valuation of Options 64
+Learning Module 9: Option Replication Using Put-Call Parity 64
+Learning Module 10: Valuing a Derivative Using a One-Period Binomial Model 65
+VOLUME 8: ALTERNATIVE INVESTMENTS 67
+Learning Module 1: Alternative Investment Features, Methods, and Structures. 67
+Learning Module 2: Alternative Investment Performance and Returns 67
+Learning Module 3: Investments in Private Capital: Equity and Debt 69
+Learning Module 4: Real Estate and Infrastructure 69
+Learning Module 5: Natural Resources. 69
+Learning Module 6: Hedge Funds 69
+Learning Module 7: Introduction to Digital Assets 69
+VOLUME 9: PORTFOLIO MANAGEMENT. 70
+Learning Module 1: Portfolio Risk and Return: Part I 70
+Learning Module 2: Portfolio Risk and Return: Part II 72
+Learning Module 3: Portfolio Management: An Overview 74
+Learning Module 4: Basics of Portfolio Planning and Construction. 74
+Learning Module 5: The Behavioral Biases of Individuals 74
 Learning Module 6: Introduction to Risk Management. 74
 
 # CFA Level 1 – Formula Sheet (2025)
@@ -227,10 +227,10 @@ $N =$  Number of years
 # Annualizing Returns
 
 $
-\begin{array}{l} 
-R_{annual} = (1 + R_{weekly})^{52} - 1 \\ 
-R_{annual} = (1 + R_{monthly})^{12} - 1 \\ 
-R_{annual} = (1 + R_{daily})^{252} - 1 \quad \text{assuming 252 trading days per year} \\ 
+\begin{array}{l}
+R_{annual} = (1 + R_{weekly})^{52} - 1 \\
+R_{annual} = (1 + R_{monthly})^{12} - 1 \\
+R_{annual} = (1 + R_{daily})^{252} - 1 \quad \text{assuming 252 trading days per year} \\
 R_{weekly} = (1 + R_{daily})^{5} - 1 \quad \text{assuming 5 trading days per week}
 \end{array}
 $
@@ -1021,13 +1021,13 @@ $$
 
 where:
 
-$\widehat{Y}_i =$  Estimated value on the regression line for the ith observation
+$\widehat{Y}_i =$  Estimated value on the regression line for the $i^{th}$ observation
 
 $\widehat{b}_0 = \text{Intercept}$
 
 $\hat{b}_{1} = \text{Slope}$
 
-$e_i =$  Residual for the ith observation
+$e_i =$  Residual for the $i^{th}$ observation
 
 $$
 \hat {b} _ {1} = \frac {\textit {CovarianceofXandY}}{\textit {VarianceofX}} = \frac {\sum_ {i = 1} ^ {n} (Y _ {i} - \bar {Y}) (X _ {i} - \bar {X})}{\sum_ {i = 1} ^ {n} (X _ {i} - \bar {X}) ^ {2}}
@@ -1573,9 +1573,9 @@ Taxable income = Operating income - Interest expense
 
 Net income = Taxable income - Taxes
 
-Ending shareholders' equity = Beginning shareholders' equity + Net income  
-+ Other comprehensive income  
-- Dividends  
+Ending shareholders' equity = Beginning shareholders' equity + Net income
++ Other comprehensive income
+- Dividends
 +Net capital contributions from shareholders
 
 Ending retained earnings = Beginning retained earnings + Net income - Dividends
@@ -3929,7 +3929,7 @@ Portfolio variance,  $\sigma_p^2 = w_1^2\sigma_1^2 +w_2^2\sigma_2^2 +2w_1w_2Cov(
 
 Portfolio standard deviation,  $\sigma_{p} = \sqrt{w_{1}^{2}\sigma_{1}^{2} + w_{2}^{2}\sigma_{2}^{2} + 2w_{1}w_{2}Cov(R_{1},R_{2})}$
 
-Note: 1)  $\text{Cov}(R_1, R_2) = \rho_{12}\sigma_1\sigma_2$  
+Note: 1)  $\text{Cov}(R_1, R_2) = \rho_{12}\sigma_1\sigma_2$
 2)  $n$  securities requires  $n$  variances and  $\frac{n(n - 1)}{2}$  covariances
 
 Video: https://youtu.be/luwulZ9ONCO
@@ -4159,58 +4159,58 @@ No formula.
 
 # Contents
 
-Setting Up the Texas BA II Plus Financial Calculator 4  
-VOLUME 1: QUANTITATIVE METHODS 4  
-Learning Module 1 | Basics of Multiple Regression and Underlying Assumptions. 4  
-Learning Module 2 | Evaluating Regression Model Fit and Interpreting Model Results 4  
-Learning Module 3 | Model Misspecification. 6  
-Learning Module 4 | Extensions of Multiple Regression. 6  
-Learning Module 5 | Time-Series Analysis. 7  
-Learning Module 6 | Machine Learning. 8  
-Learning Module 7 | Big Data Projects 9  
-VOLUME 2: ECONOMICS 10  
-Learning Module 1 | Currency Exchange Rates: Understanding Equilibrium Value 10  
-Learning Module 2 | Economic Growth and the Investment Decision 12  
-VOLUME 3: FINANCIAL STATEMENT ANALYSIS. 14  
-Learning Module 1 | Intercorporate Investments. 14  
-Learning Module 2 | Employee Compensation - Post-Employment and Share-Based 15  
-Learning Module 3 | Multinational Operations. 16  
-Learning Module 4 | Analysis of Financial Institutions. 17  
-Learning Module 5 | Evaluating Quality of Financial Reports 18  
-Learning Module 6 | Integration of Financial Statement Analysis Techniques. 18  
-VOLUME 4: CORPORATE ISSUERS 19  
-Learning Module 1 | Analysis of Dividends and Share Repurchases. 19  
-Learning Module 3 | Cost of Capital: Advanced Topics 20  
-Learning Module 4 | Corporate Restructuring 23  
-VOLUME 5: EQUITY VALUATION 24  
-Learning Module 1 | Equity Valuation Applications and Processes 24  
-Learning Module 2 | Discounted Dividend Valuation 24  
-Learning Module 3 | Free Cash Flow Valuation. 25  
-Learning Module 4 | Market-Based Valuation Price and Enterprise Value Multiples. 27  
-Learning Module 5 | Residual Income Valuation 29  
-Learning Module 6 | Private Company Valuation 30  
-VOLUME 6: FIXED INCOME 32  
-Learning Module 1 | The Term Structure and Interest Rate Dynamics. 32  
-Learning Module 2 | The Arbitrage-Free Valuation Framework 33  
-Learning Module 3 | Valuation and Analysis - Bonds with Embedded Options. 34  
+Setting Up the Texas BA II Plus Financial Calculator 4
+VOLUME 1: QUANTITATIVE METHODS 4
+Learning Module 1 | Basics of Multiple Regression and Underlying Assumptions. 4
+Learning Module 2 | Evaluating Regression Model Fit and Interpreting Model Results 4
+Learning Module 3 | Model Misspecification. 6
+Learning Module 4 | Extensions of Multiple Regression. 6
+Learning Module 5 | Time-Series Analysis. 7
+Learning Module 6 | Machine Learning. 8
+Learning Module 7 | Big Data Projects 9
+VOLUME 2: ECONOMICS 10
+Learning Module 1 | Currency Exchange Rates: Understanding Equilibrium Value 10
+Learning Module 2 | Economic Growth and the Investment Decision 12
+VOLUME 3: FINANCIAL STATEMENT ANALYSIS. 14
+Learning Module 1 | Intercorporate Investments. 14
+Learning Module 2 | Employee Compensation - Post-Employment and Share-Based 15
+Learning Module 3 | Multinational Operations. 16
+Learning Module 4 | Analysis of Financial Institutions. 17
+Learning Module 5 | Evaluating Quality of Financial Reports 18
+Learning Module 6 | Integration of Financial Statement Analysis Techniques. 18
+VOLUME 4: CORPORATE ISSUERS 19
+Learning Module 1 | Analysis of Dividends and Share Repurchases. 19
+Learning Module 3 | Cost of Capital: Advanced Topics 20
+Learning Module 4 | Corporate Restructuring 23
+VOLUME 5: EQUITY VALUATION 24
+Learning Module 1 | Equity Valuation Applications and Processes 24
+Learning Module 2 | Discounted Dividend Valuation 24
+Learning Module 3 | Free Cash Flow Valuation. 25
+Learning Module 4 | Market-Based Valuation Price and Enterprise Value Multiples. 27
+Learning Module 5 | Residual Income Valuation 29
+Learning Module 6 | Private Company Valuation 30
+VOLUME 6: FIXED INCOME 32
+Learning Module 1 | The Term Structure and Interest Rate Dynamics. 32
+Learning Module 2 | The Arbitrage-Free Valuation Framework 33
+Learning Module 3 | Valuation and Analysis - Bonds with Embedded Options. 34
 Learning Module 4 | Credit Analysis Models. 36
 
 Learning Module 5 | Credit Default Swaps 37
 
-VOLUME 7: DERIVATIVES 38  
-Learning Module 1 | Pricing and Valuation of Forward Commitments 38  
-Learning Module 2 | Valuation of Contingent Claims 42  
-VOLUME 8: ALTERNATIVE INVESTMENTS 46  
-Learning Module 1 | Introduction to Commodities and Commodity Derivatives. 46  
-Learning Module 2 | Overview of Types of Real Estate Investment 46  
-Learning Module 3 | Investments in Real Estate Through Publicly Traded Securities 48  
-Learning Module 4 | Hedge Fund Strategies 49  
-VOLUME 9: PORTFOLIO MANAGEMENT 50  
-Learning Module 1 | Economics and Investment Markets. 50  
-Learning Module 2 | Analysis of Active Portfolio Management. 52  
-Learning Module 3 | Exchange-Traded Funds: Mechanics and Applications 53  
-Learning Module 4 | Using Multifactor Models 54  
-Learning Module 5 | Measuring and Managing Market Risk 55  
+VOLUME 7: DERIVATIVES 38
+Learning Module 1 | Pricing and Valuation of Forward Commitments 38
+Learning Module 2 | Valuation of Contingent Claims 42
+VOLUME 8: ALTERNATIVE INVESTMENTS 46
+Learning Module 1 | Introduction to Commodities and Commodity Derivatives. 46
+Learning Module 2 | Overview of Types of Real Estate Investment 46
+Learning Module 3 | Investments in Real Estate Through Publicly Traded Securities 48
+Learning Module 4 | Hedge Fund Strategies 49
+VOLUME 9: PORTFOLIO MANAGEMENT 50
+Learning Module 1 | Economics and Investment Markets. 50
+Learning Module 2 | Analysis of Active Portfolio Management. 52
+Learning Module 3 | Exchange-Traded Funds: Mechanics and Applications 53
+Learning Module 4 | Using Multifactor Models 54
+Learning Module 5 | Measuring and Managing Market Risk 55
 Learning Module 6 | Backtesting and Simulation. 56
 
 # CFA Level II – Formula Sheet (2025)
@@ -4946,7 +4946,7 @@ $K =$  Face value of debt
 
 CDS spread  $\approx$  (1 - Recovery Rate)  $\times$  POD
 
-CDS payout amount = Payout ratio × Notional  
+CDS payout amount = Payout ratio × Notional
 $= (1 -$  Recovery rate of CTD bond)  $\times$  Notional
 
 Upfront payment = PV of protection leg - PV of premium leg
@@ -5289,9 +5289,9 @@ $$
 
 Put-call parity:  $p + S = c + Xe^{-rT}$
 
-- Hedge ratio for calls  $= N\left( {d}_{1}\right)$  
-- Probability that the call option expires in the money  $= N\left( {d}_{2}\right)  = \operatorname{Prob}\left( {{S}_{T} > X}\right)$  
-- Hedge ratio for puts  $= N\left( {d}_{1}\right)  - 1 =  - N\left( {-{d}_{1}}\right)$  
+- Hedge ratio for calls  $= N\left( {d}_{1}\right)$
+- Probability that the call option expires in the money  $= N\left( {d}_{2}\right)  = \operatorname{Prob}\left( {{S}_{T} > X}\right)$
+- Hedge ratio for puts  $= N\left( {d}_{1}\right)  - 1 =  - N\left( {-{d}_{1}}\right)$
 - Probability that the put option expires in the money  $= 1 - N\left( {d}_{2}\right)$
 
 $$
@@ -6030,42 +6030,42 @@ Setting Up the Texas BA II Plus Financial Calculator 3
 
 VOLUME 1 - ASSET ALLOCATION. 3
 
-Learning Module 1: Capital Market Expectations, Part 1: Framework and Macro Considerations...3  
-Learning Module 2: Capital Market Expectations, Part 2: Forecasting Asset Class Returns 4  
-Learning Module 3: Overview of Asset Allocation. 9  
-Learning Module 4: Principles of Asset Allocation 9  
+Learning Module 1: Capital Market Expectations, Part 1: Framework and Macro Considerations...3
+Learning Module 2: Capital Market Expectations, Part 2: Forecasting Asset Class Returns 4
+Learning Module 3: Overview of Asset Allocation. 9
+Learning Module 4: Principles of Asset Allocation 9
 Learning Module 5: Asset Allocation with Real-World Constraints. 10
 
 VOLUME 2 - PORTFOLIO CONSTRUCTION. 11
 
-Learning Module 1: Passive Equity Investing. 11  
-Learning Module 2: Overview of Fixed Income Portfolio Management 11  
-Learning Module 3: Asset Allocation to Alternative Investments 13  
-Learning Module 4: Overview of Private Wealth Management. 13  
-Learning Module 5: Portfolio Management for Institutional Investors 15  
-Learning Module 6: Trading Costs and Electronic Markets 16  
+Learning Module 1: Passive Equity Investing. 11
+Learning Module 2: Overview of Fixed Income Portfolio Management 11
+Learning Module 3: Asset Allocation to Alternative Investments 13
+Learning Module 4: Overview of Private Wealth Management. 13
+Learning Module 5: Portfolio Management for Institutional Investors 15
+Learning Module 6: Trading Costs and Electronic Markets 16
 Learning Module 7: Case Study in Portfolio Management: Institutional (SWF) 16
 
 VOLUME 3 - PERFORMANCE MEASUREMENT 17
 
-Learning Module 1: Portfolio Performance Evaluation 17  
-Learning Module 2: Investment Manager Selection. 20  
+Learning Module 1: Portfolio Performance Evaluation 17
+Learning Module 2: Investment Manager Selection. 20
 Learning Module 3: Overview of the Global Investment Performance Standards. 21
 
 VOLUME 4 - DERIVATIVES AND RISK MANAGEMENT 23
 
-Learning Module 1: Option Strategies 23  
-Learning Module 2: Swaps, Forwards, and Futures Strategies. 25  
+Learning Module 1: Option Strategies 23
+Learning Module 2: Swaps, Forwards, and Futures Strategies. 25
 Learning Module 3: Currency Management: An Introduction 27
 
 PRIVATE MARKETS PATHWAY 29
 
-Learning Module 1: Private Investments and Structures 29  
-Learning Module 2: General Partner and Investor Perspectives and the Investment Process. 30  
-Learning Module 3: Private Equity. 30  
-Learning Module 4: Private Debt 31  
-Learning Module 5: Private Special Situations. 33  
-Learning Module 6: Private Real Estate Investments 34  
+Learning Module 1: Private Investments and Structures 29
+Learning Module 2: General Partner and Investor Perspectives and the Investment Process. 30
+Learning Module 3: Private Equity. 30
+Learning Module 4: Private Debt 31
+Learning Module 5: Private Special Situations. 33
+Learning Module 6: Private Real Estate Investments 34
 Learning Module 7: Infrastructure. 36
 
 # CFA Level III – Formula Sheet (2025)
@@ -6258,7 +6258,7 @@ $$
 
 # Note:
 
-- Add liquidity premium where appropriate  
+- Add liquidity premium where appropriate
 - If Sharpe ratio of segmented market not given, use Sharpe ratio of global market portfolio
 
 Video: https://youtu.be/RK2WETqIzoQ
@@ -6301,24 +6301,24 @@ For a currency pair,  $d / f$ , if  $f$  changes by  $x\%$  against  $d$ , then 
 
 With  $N$  assets, required:
 
--  $N$  variances  
+-  $N$  variances
 $\frac{N(N - 1)}{2}$  covariances
 
 # VCV Matrices from Multi-Factor Models
 
-Return on ith asset:
+Return on $i^{th}$ asset:
 
 $$
 r _ {i} = \alpha_ {i} + \sum_ {k = 1} ^ {K} \beta_ {iK} F _ {K} + \varepsilon_ {i}
 $$
 
-Variance of the ith asset:
+Variance of the $i^{th}$ asset:
 
 $$
 \sigma_ {i} ^ {2} = \sum_ {m = 1} ^ {K} \sum_ {n = 1} ^ {K} \beta_ {im} \beta_ {in} \rho_ {mn} + \nu_ {i} ^ {2}
 $$
 
-Covariance between ith and jth asset:
+Covariance between $i^{th}$ and $j^{th}$ asset:
 
 $$
 \sigma_ {ij} = \sum_ {m = 1} ^ {K} \sum_ {n = 1} ^ {K} \beta_ {im} \beta_ {jn} \rho_ {mn}
@@ -6326,7 +6326,7 @@ $$
 
 With  $N$  assets and  $K$  factors, required:
 
--  $(N \times K)$  factor sensitivities  
+-  $(N \times K)$  factor sensitivities
 $K(K + 1)$  factor covariances
 
 where:
@@ -6335,21 +6335,21 @@ $$
 \alpha_ {i} = \text {Intercept}
 $$
 
-$\beta_{iK} =$  Asset's sensitivity to the kth factor
+$\beta_{iK} =$  Asset's sensitivity to the $K^{th}$ factor
 
 $$
-F _ {K} = k \text {thcommonfactorreturn}
-$$
-
-$$
-\varepsilon_ {i} = \text {stochasticterm (mean = zero)}
+F _ {K} = k \text {the common factor return}
 $$
 
 $$
-\rho_ {mn} = \text {correlationbetweenmthandnthfactors}
+\varepsilon_ {i} = \text {stochastic term (mean = zero)}
 $$
 
-$\nu_{i}^{2} =$  variance of unique component of ith asset's return
+$$
+\rho_ {mn} = \text {correlation between m^{th} and n^{th} factors}
+$$
+
+$\nu_{i}^{2} =$  variance of unique component of $i^{th}$ asset's return
 
 Video: https://youtu.be/XVpJ8yuTngo
 
@@ -6433,7 +6433,7 @@ where:
 
 $U_{m}^{LR} =$  Surplus objective function's expected value for asset mix m
 
-[ E\left(R_{s,m}\right) = \text{Expected surplus return for asset mix} m ]  
+[ E\left(R_{s,m}\right) = \text{Expected surplus return for asset mix} m ]
 $= \frac{\text{Change in asset value} - \text{Change in liability value}}{\text{Initial asset value}}$
 
 $\sigma_{s,m} =$  Surplus return volatility for asset mix  $m$
@@ -7088,7 +7088,7 @@ $$
 
 If manager not exposed to downside:
 
-Computed fee = Higher of either [1] Base fee, OR  
+Computed fee = Higher of either [1] Base fee, OR
 [2] Base fee plus sharing of positive performance
 
 If manager is not exposed to downside, and there is a maximum fee.
@@ -8077,7 +8077,7 @@ $$
 R _ {GP (Netwithhurdle)} = (P _ {1} \times r _ {m}) + \max \{0, [ P _ {1} (1 - r _ {m}) - P _ {0} \times (1 + r _ {h}) ] \times p \}
 $$
 
-- Management fee is based on end-of-period assets  
+- Management fee is based on end-of-period assets
 Performance fee is net of management fee and in excess of hurdle rate
 
 where:
@@ -8130,37 +8130,37 @@ $$
 
 # Table of Contents
 
-Setting Up the Texas BA II Plus Financial Calculator 3  
-VOLUME 1 - ASSET ALLOCATION 3  
-Learning Module 1: Capital Market Expectations, Part 1: Framework and Macro Considerations...3  
-Learning Module 2: Capital Market Expectations, Part 2: Forecasting Asset Class Returns 4  
-Learning Module 3: Overview of Asset Allocation. 9  
-Learning Module 4: Principles of Asset Allocation 9  
-Learning Module 5: Asset Allocation with Real-World Constraints 10  
-VOLUME 2 - PORTFOLIO CONSTRUCTION. 11  
-Learning Module 1: Passive Equity Investing. 11  
-Learning Module 2: Overview of Fixed Income Portfolio Management 11  
-Learning Module 3: Asset Allocation to Alternative Investments 13  
-Learning Module 4: Overview of Private Wealth Management. 13  
-Learning Module 5: Portfolio Management for Institutional Investors 15  
-Learning Module 6: Trading Costs and Electronic Markets 16  
-Learning Module 7: Case Study in Portfolio Management: Institutional (SWF) 16  
-VOLUME 3 - PERFORMANCE MEASUREMENT 17  
-Learning Module 1: Portfolio Performance Evaluation 17  
-Learning Module 2: Investment Manager Selection. 20  
-Learning Module 3: Overview of the Global Investment Performance Standards. 21  
-VOLUME 4 - DERIVATIVES AND RISK MANAGEMENT 23  
-Learning Module 1: Option Strategies 23  
-Learning Module 2: Swaps, Forwards, and Futures Strategies. 25  
-Learning Module 3: Currency Management An Introduction 27  
-PORTFOLIO MANAGEMENT PATHWAY 29  
-Learning Module 1: Index-Based Equity Strategies 29  
-Learning Module 2: Active Equity Investing: Strategies 29  
-Learning Module 3: Active Equity Investing: Portfolio Construction. 30  
-Learning Module 4: Liability-Driven and Index-Based Strategies 32  
-Learning Module 5: Yield Curve Strategies 34  
-Learning Module 6: Fixed Income Active Management: Credit Strategies 34  
-Learning Module 7: Trade Strategy and Execution. 37  
+Setting Up the Texas BA II Plus Financial Calculator 3
+VOLUME 1 - ASSET ALLOCATION 3
+Learning Module 1: Capital Market Expectations, Part 1: Framework and Macro Considerations...3
+Learning Module 2: Capital Market Expectations, Part 2: Forecasting Asset Class Returns 4
+Learning Module 3: Overview of Asset Allocation. 9
+Learning Module 4: Principles of Asset Allocation 9
+Learning Module 5: Asset Allocation with Real-World Constraints 10
+VOLUME 2 - PORTFOLIO CONSTRUCTION. 11
+Learning Module 1: Passive Equity Investing. 11
+Learning Module 2: Overview of Fixed Income Portfolio Management 11
+Learning Module 3: Asset Allocation to Alternative Investments 13
+Learning Module 4: Overview of Private Wealth Management. 13
+Learning Module 5: Portfolio Management for Institutional Investors 15
+Learning Module 6: Trading Costs and Electronic Markets 16
+Learning Module 7: Case Study in Portfolio Management: Institutional (SWF) 16
+VOLUME 3 - PERFORMANCE MEASUREMENT 17
+Learning Module 1: Portfolio Performance Evaluation 17
+Learning Module 2: Investment Manager Selection. 20
+Learning Module 3: Overview of the Global Investment Performance Standards. 21
+VOLUME 4 - DERIVATIVES AND RISK MANAGEMENT 23
+Learning Module 1: Option Strategies 23
+Learning Module 2: Swaps, Forwards, and Futures Strategies. 25
+Learning Module 3: Currency Management An Introduction 27
+PORTFOLIO MANAGEMENT PATHWAY 29
+Learning Module 1: Index-Based Equity Strategies 29
+Learning Module 2: Active Equity Investing: Strategies 29
+Learning Module 3: Active Equity Investing: Portfolio Construction. 30
+Learning Module 4: Liability-Driven and Index-Based Strategies 32
+Learning Module 5: Yield Curve Strategies 34
+Learning Module 6: Fixed Income Active Management: Credit Strategies 34
+Learning Module 7: Trade Strategy and Execution. 37
 Learning Module 8: Case Study in Portfolio Management: Institutional 38
 
 # CFA Level III – Formula Sheet (2025)
@@ -8332,7 +8332,7 @@ Expected return of asset class  $i$ ,  $E(R_{i}) = R_{F} + RP_{i}$
 where:
 
 $$
-\rho_{i,GM} = \text{correlation between ith asset and global market portfolio}
+\rho_{i,GM} = \text{correlation between $i^{th}$ asset and global market portfolio}
 $$
 
 $$
@@ -8353,13 +8353,14 @@ $$
 
 # Note:
 
-- Add liquidity premium where appropriate  
+- Add liquidity premium where appropriate
 - If Sharpe ratio of segmented market not given, use Sharpe ratio of global market portfolio
 
 Video: https://youtu.be/RK2WETqIzoQ
 
 # Risk Premium (Building Block) Approach to Fixed Income Returns
 
+$$
 \begin{tabular}{|c|c|}
 \hline
 Bond & Required Return \\
@@ -8374,9 +8375,10 @@ Long-term fixed-rate corporate bond & Real risk-free rate + Inflation premium + 
 \hline
 Long-term callable fixed-rate corporate bond & Real risk-free rate + Inflation premium + Maturity premium + Credit premium + Call risk \\
 \hline
-\end{tabular} NOIgrowthrate
+\end{tabular}
 $$
 
+## NOI growth rate
 Finite horizon:
 
 $$
@@ -8398,25 +8400,24 @@ For a currency pair,  $d / f$ , if  $f$  changes by  $x\%$  against  $d$ , then 
 # VCV Matrix with Sample Statistics
 
 With  $N$  assets, required:
-
--  $N$  variances  
+-  $N$  variances
 $\frac{N(N - 1)}{2}$  covariances
 
 # VCV Matrices from Multi-Factor Models
 
-Return on ith asset:
+Return on $i{th}$ asset:
 
 $$
 r _ {i} = \alpha_ {i} + \sum_ {k = 1} ^ {K} \beta_ {iK} F _ {K} + \varepsilon_ {i}
 $$
 
-Variance of the ith asset:
+Variance of the $i^{th}$ asset:
 
 $$
 \sigma_ {i} ^ {2} = \sum_ {m = 1} ^ {K} \sum_ {n = 1} ^ {K} \beta_ {im} \beta_ {in} \rho_ {mn} + \nu_ {i} ^ {2}
 $$
 
-Covariance between ith and jth asset:
+Covariance between $i^{th}$ and $j^{th}$ asset:
 
 $$
 \sigma_ {ij} = \sum_ {m = 1} ^ {K} \sum_ {n = 1} ^ {K} \beta_ {im} \beta_ {jn} \rho_ {mn}
@@ -8424,7 +8425,7 @@ $$
 
 With  $N$  assets and  $K$  factors, required:
 
--  $(N \times K)$  factor sensitivities  
+-  $(N \times K)$  factor sensitivities
 $K(K + 1)$  factor covariances
 
 where:
@@ -8433,7 +8434,7 @@ $$
 \alpha_ {i} = \text {Intercept}
 $$
 
-$\beta_{iK} =$  Asset's sensitivity to the kth factor
+$\beta_{iK} =$  Asset's sensitivity to the $k^{th}$ factor
 
 $$
 F _ {K} = k \text {thcommonfactorreturn}
@@ -8447,7 +8448,7 @@ $$
 \rho_ {mn} = \text {correlationbetweenmthandnthfactors}
 $$
 
-$\nu_{i}^{2} =$  variance of unique component of ith asset's return
+$\nu_{i}^{2} =$  variance of unique component of $i^{th}$ asset's return
 
 Video: https://youtu.be/XVpJ8yuTngo
 
@@ -8539,7 +8540,7 @@ where:
 
 $U_{m}^{LR} =$  Surplus objective function's expected value for asset mix m
 
-[ E\left(R_{s,m}\right) = \text{Expected surplus return for asset mix} m ]  
+[ E\left(R_{s,m}\right) = \text{Expected surplus return for asset mix} m ]
 $= \frac{\text{Change in asset value} - \text{Change in liability value}}{\text{Initial asset value}}$
 
 $\sigma_{s,m} =$  Surplus return volatility for asset mix  $m$
@@ -9192,7 +9193,7 @@ $$
 
 If manager not exposed to downside:
 
-Computed fee = Higher of either [1] Base fee, OR  
+Computed fee = Higher of either [1] Base fee, OR
 [2] Base fee plus sharing of positive performance
 
 If manager is not exposed to downside, and there is a maximum fee.
@@ -10077,7 +10078,7 @@ $$
 
 # Note:
 
-- Buy protection  $\rightarrow$  CDS Notional  $< 0$  (Short risk position)  
+- Buy protection  $\rightarrow$  CDS Notional  $< 0$  (Short risk position)
 - Sell protection  $\rightarrow$  CDS Notional  $>0$  (Long risk position)
 
 # Implementation Shortfall
@@ -10104,9 +10105,7 @@ Expanded IS = Delay cost + Trading cost + Opportunity cost + Fees
 
 Delay cost =  $\left(\sum s_{j}\right)P_{0} - \left(\sum s_{j}\right)P_{d}$
 
-\[
-\text{Trading cost} = \sum s_{j} p_{j} - \left( \sum s_{j} \right) P_{0}
-\]
+\$$\text{Trading cost} = \sum s_{j} p_{j} - \left( \sum s_{j} \right) P_{0}$$
 
 where:
 
