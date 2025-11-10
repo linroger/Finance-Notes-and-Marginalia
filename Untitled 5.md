@@ -8361,19 +8361,20 @@ Video: https://youtu.be/RK2WETqIzoQ
 # Risk Premium (Building Block) Approach to Fixed Income Returns
 
 $$
-\begin{tabular}{|c|c|}
+\documentclass{article}
+\begin{tabular}{|l|l|}
 \hline
-Bond & Required Return \\
+\textbf{Bond} & \textbf{Required Return (components)} \\
 \hline
-Short-term fixed-rate government bill & Real risk-free rate + Inflation premium \\
+Short-term fixed-rate government bill & $r^{*} + \pi^{e}$ \\
 \hline
-Long-term fixed-rate government bond & Real risk-free rate + Inflation premium + Maturity premium \\
+Long-term fixed-rate government bond & $r^{*} + \pi^{e} + \text{MP}$ \\
 \hline
-Long-term inflation-linked government bond & Real risk-free rate + Maturity premium \\
+Long-term inflation-linked government bond (real yield) & $r^{*} + \text{MP}$ \\
 \hline
-Long-term fixed-rate corporate bond & Real risk-free rate + Inflation premium + Maturity premium + Credit premium \\
+Long-term fixed-rate corporate bond & $r^{*} + \pi^{e} + \text{MP} + \text{CRP}$ \\
 \hline
-Long-term callable fixed-rate corporate bond & Real risk-free rate + Inflation premium + Maturity premium + Credit premium + Call risk \\
+Long-term \emph{callable} fixed-rate corporate bond & $r^{*} + \pi^{e} + \text{MP} + \text{CRP} + \text{CallRP}$ \\
 \hline
 \end{tabular}
 $$
@@ -9701,23 +9702,23 @@ $$
 where:
 
 $$
-r _ {t} = \text {fundreturnwithinperiodendingattime} t
+r _ {t} = \text {fund return with in period ending at time} t
 $$
 
 $$
-R _ {t} ^ {s} = \text {returnofstyleindexsinsameperiod}
+R _ {t} ^ {s} = \text {return of style indexs in same period}
 $$
 
 $$
-\beta^ {s} = \text {fundexposuretostyle} s \left(\sum_ {s = 1} ^ {m} \beta^ {s} = 1; \beta^ {s} > 0 \text {forlong - only}\right)
+\beta^ {s} = \text {fund exposure to style} s \left(\sum_ {s = 1} ^ {m} \beta^ {s} = 1; \beta^ {s} > 0 \text { for long - only}\right)
 $$
 
 $$
-\alpha = \text {manager} ^ {\prime} \text {svalueadded}
+\alpha = \text {manager} ^ {\prime} \text {svalue added}
 $$
 
 $$
-\varepsilon_ {t} = \text {residualreturnthatcannotbeexplainedbythestylesused}
+\varepsilon_ {t} = \text {residual return that cannot be explained by the styles used}
 $$
 
 # Active Return
@@ -10105,7 +10106,7 @@ Expanded IS = Delay cost + Trading cost + Opportunity cost + Fees
 
 Delay cost =  $\left(\sum s_{j}\right)P_{0} - \left(\sum s_{j}\right)P_{d}$
 
-\$$\text{Trading cost} = \sum s_{j} p_{j} - \left( \sum s_{j} \right) P_{0}$$
+$$\text{Trading cost} = \sum s_{j} p_{j} - \left( \sum s_{j} \right) P_{0}$$
 
 where:
 
