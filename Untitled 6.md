@@ -1,0 +1,675 @@
+
+- **CFA Level 1 (2025) Formula Sheet**
+  - **Calculator Setup (Texas BA II Plus)**
+    - Tutorial Videos:
+      - <https://youtu.be/0MS8d8QOFmc>
+      - <https://youtu.be/LWmTTiZz8BU>
+      - <https://fb.watch/nci5V7Dwtj/> (Facebook Login Required)
+  - **VOLUME 1: QUANTITATIVE METHODS**
+    - **Learning Module 1: Rates and Returns**
+      - Determinants of Interest Rates
+        - Formula: ( Interest rate, r = Real risk-free rate + Inflation premium + Default risk premium + Maturity premium + Maturity premium )
+        - Nominal vs. Real Risk-Free Rate: ( (1 + Nominal risk-free rate) = (1 + Real risk-free rate) × (1 + Inflation premium) )
+        - Simplified Nominal Rate: ( Nominal risk-free rate = Real risk-free rate + Inflation premium )
+        - Maturity Premium: ( Interest rate on long-term liquid Treasury debt - Interest rate on short-term Treasury debt )
+      - Holding Period Return (HPR)
+        - Single Period: ( R = \\frac{P_1 - P_0 + I_1}{P_0} ) (where ( P_0 )=Beginning Price, ( P_1 )=Ending Price, ( I_1 )=Income)
+        - Multi Period: ( R = (1 + R_1) × (1 + R_2) × ... × (1 + R_T) - 1 )
+      - Return Averages
+        - Arithmetic Mean: ( \\overline{R}*i = \\frac{1}{T} \\sum*{t=1}^{T} R_{it} )
+        - Geometric Mean: ( \\overline{R}*{Gi} = \\sqrt[T]{\\prod*{t=1}^{T} (1 + R_t)} - 1 )
+        - Harmonic Mean: ( \\overline{X}*{Hi} = \\frac{n}{\\sum*{i=1}^{n} (1/X_i)} ) (for ( X_i &gt; 0 ))
+        - Relationship: ( (Geometric mean)^2 = Arithmetic mean × Harmonic mean )
+      - Money-Weighted Return (MWR)
+        - Formula: ( \\sum_{t=0}^{T} \\frac{CF_t}{(1 + MWR)^t} = 0 ) (CF = Cash Flows)
+      - Time-Weighted Return (TWR)
+        - ( T &gt; 1 ) Year: ( Annualized TWR = [(1 + R_1) × (1 + R_2) × ... × (1 + R_T)]^{1/T} - 1 )
+        - ( T = 1 ) Year: ( Annualized TWR = (1 + R_1) × ... × (1 + R_T) - 1 )
+        - ( T &lt; 1 ) Year: ( TWR = (1 + R_1) × ... × (1 + R_T) - 1 )
+      - Non-Annual Compounding
+        - Present Value: ( PV = FV_N \\left(1 + \\frac{R_s}{m}\\right)^{-mN} ) (m=Compounding Periods/Year, ( R_s )=Quoted Rate, N=Years)
+      - Annualizing Returns
+        - Weekly to Annual: ( R_{annual} = (1 + R_{weekly})^{52} - 1 )
+        - Monthly to Annual: ( R_{annual} = (1 + R_{monthly})^{12} - 1 )
+        - Daily to Annual: ( R_{annual} = (1 + R_{daily})^{252} - 1 ) (252 Trading Days)
+        - Daily to Weekly: ( R_{weekly} = (1 + R_{daily})^5 - 1 ) (5 Trading Days/Week)
+      - Continuously Compounded Returns
+        - Price Formula: ( P_t = P_0 e^{r_{0,T}} )
+        - Return Calculation: ( r_{0,T} = ln\\left(\\frac{P_t}{P_0}\\right) )
+        - Additivity: ( r_{0,T} = r_{0,1} + r_{1,2} + ... + r_{T-1,T} )
+      - Real Returns
+        - Formula: ( (1 + real return) = (1 + real risk-free rate) × (1 + risk premium) )
+      - After-Tax Returns
+        - After-Tax Nominal: ( After-tax nominal return = Pre-tax nominal return × (1 - Tax rate) )
+        - After-Tax Real: ( After-tax real return = \\frac{1 + Pre-tax nominal return × (1 - Tax rate)}{1 + Inflation premium} - 1 )
+      - Leveraged Return
+        - Formula: ( R_L = R_P + \\frac{V_B}{V_E} (R_P - r_D) ) ( ( R_P )=Unleveraged Portfolio Return, ( r_D )=Debt Cost, ( V_B )=Debt, ( V_E )=Equity)
+    - **Learning Module 2: Time Value of Money in Finance**
+      - Basic Time Value (Single Cash Flow)
+        - Discrete Compounding: ( FV_t = PV(1 + r)^t ); ( PV = \\frac{FV_t}{(1 + r)^t} )
+        - Continuous Compounding: ( FV_t = PVe^{rt} ); ( PV = FV_t e^{-rt} )
+      - Zero-Coupon Bond Valuation
+        - Price: ( PV = \\frac{FV}{(1 + r)^t} ) (FV=Face Value, r=Market Discount Rate, t=Maturity)
+        - Yield: ( r = \\left(\\frac{FV_t}{PV}\\right)^{1/T} - 1 )
+      - Coupon Bond Valuation
+        - Price: ( PV = \\sum_{t=1}^{N} \\frac{PMT}{(1 + r)^t} + \\frac{FV}{(1 + r)^N} ) (PMT=Periodic Coupon, N=Periods)
+      - Perpetual Bond Valuation
+        - Price: ( PV = \\frac{PMT}{r} )
+      - Annuities (e.g., Mortgages)
+        - Periodic Payment: ( A = \\frac{rPV}{1 - (1 + r)^{-t}} ) (A=Periodic Cash Flow)
+      - Preferred Stock Valuation
+        - Price: ( PV_t = \\frac{D_t}{r} ) ( ( D_t )=Fixed Dividend, r=Expected Return)
+      - Common Stock Valuation
+        - Constant Growth Model: ( PV_t = \\frac{D_{t+1}}{r - g} ) (r &gt; g; ( D_{t+1}=D_t(1+g) ))
+        - Expected Return: ( r = \\frac{D_{t+1}}{PV_t} + g )
+        - P/E Ratios:
+          - Trailing: ( \\frac{PV_t}{E_t} = \\frac{(D_t/E_t)(1 + g)}{r - g} )
+          - Forward: ( \\frac{PV_t}{E_{t+1}} = \\frac{D_{t+1}/E_{t+1}}{r - g} )
+        - Two-Stage DDM: ( PV_t = \\sum_{i=1}^{n} \\frac{D_t(1 + g_s)^i}{(1 + r)^i} + \\frac{D_{t+n+1}}{(r - g_L)(1 + r)^n} ) ( ( g_s )=Short-Term Growth, ( g_L )=Long-Term Growth)
+      - Forward Rate (1-Year Forward 1-Year From Now)
+        - Formula: ( F_{1,1} = \\frac{(1 + r_2)^2}{(1 + r_1)} - 1 ) ( ( r_1 )=1-Year Rate, ( r_2 )=2-Year Rate)
+    - **Learning Module 3: Statistical Measures of Asset Returns**
+      - Central Tendency
+        - Sample Mean: ( \\overline{X} = \\frac{1}{n} \\sum_{i=1}^{n} X_i )
+        - Median Position: ( \\frac{Number of observations + 1}{2} )
+        - Interquartile Range (IQR): ( Q3 - Q1 ) (Q1=1st Quartile, Q3=3rd Quartile)
+      - Box and Whisker Plot
+        - Upper Fence: ( Q3 + 1.5 × IQR )
+        - Lower Fence: ( Q1 - 1.5 × IQR )
+      - Dispersion Measures
+        - Range: ( Maximum value - Minimum value )
+        - Mean Absolute Deviation (MAD): ( MAD = \\frac{\\sum_{i=1}^{n} |X_i - \\overline{X}|}{n} )
+        - Sample Variance: ( s^2 = \\frac{\\sum_{i=1}^{n} (X_i - \\overline{X})^2}{n - 1} )
+        - Sample Standard Deviation: ( s = \\sqrt{s^2} )
+        - Target Semideviation: ( s_{Target} = \\sqrt{\\frac{\\sum_{X_i \\leq B} (X_i - B)^2}{n - 1}} ) (B=Target)
+        - Coefficient of Variation (CV): ( CV = \\frac{S}{\\overline{X}} )
+      - Distribution Shape
+        - Sample Skewness: ( Skewness \\approx \\frac{1}{n} \\frac{\\sum_{i=1}^{n} (X_i - \\overline{X})3}{s3} )
+        - Sample Excess Kurtosis: ( K_E \\approx \\frac{1}{n} \\frac{\\sum_{i=1}^{n} (X_i - \\overline{X})4}{s4} - 3 )
+      - Correlation & Covariance
+        - Sample Covariance: ( S_{XY} = \\frac{1}{n - 1} \\sum_{i=1}^{n} (X_i - \\overline{X})(Y_i - \\overline{Y}) )
+        - Sample Correlation Coefficient: ( r_{XY} = \\frac{s_{XY}}{s_X s_Y} )
+    - **Learning Module 4: Probability Trees and Conditional Expectations**
+      - Expected Value (Discrete Random Variable)
+        - Formula: ( E(X) = \\sum_{i=1}^{n} P(X_i)X_i )
+      - Variance (Random Variable)
+        - Formula: ( \\sigma^2(X) = E[X - E(X)]^2 = \\sum_{i=1}^{n} P(X_i)[X - E(X)]^2 )
+      - Conditional Expected Value
+        - Formula: ( E(X|S) = \\sum_{i=1}^{n} P(X_i|S)X_i )
+      - Conditional Variance
+        - Formula: ( \\sigma^2(X|S) = \\sum_{i=1}^{n} P(X_i|S)[X_i - E(X|S)]^2 )
+      - Total Probability Rule for Expectation
+        - Formula: ( E(X) = \\sum_{i=1}^{n} E(X|S_i)P(S_i) ) ( ( S_i )=Mutually Exclusive/Exhaustive Events)
+      - Bayes’ Formula
+        - Basic: ( P(A|B) = \\frac{P(B|A)P(A)}{P(B)} )
+        - General: ( P(Event|Information) = \\frac{P(Information|Event)P(Event)}{P(Information)} )
+      - Tutorial Video: <https://youtu.be/9_h0EzssPZ4>
+    - **Learning Module 5: Portfolio Mathematics**
+      - Expected Portfolio Return (n Assets)
+        - Formula: ( E(R_P) = \\sum_{i=1}^{n} w_i E(R_i) ) ( ( w_i )=Asset Weight)
+      - Portfolio Variance (n Assets)
+        - Formula: ( \\sigma^2(R_P) = \\sum_{i=1}^{n} \\sum_{j=1}^{n} w_i w_j Cov(R_i, R_j) ) (Requires n Variances + ( \\frac{n(n-1)}{2} ) Covariances)
+      - Covariance Calculation
+        - Formula: ( Cov(R_i, R_j) = \\frac{1}{n - 1} \\sum_{t=1}^{n} (R_{i,t} - \\overline{R}*i)(R*{j,t} - \\overline{R}_j) )
+      - Two-Asset Portfolio
+        - Variance: ( \\sigma^2(R_P) = w_1^2 \\sigma_1^2 + w_2^2 \\sigma_2^2 + 2w_1w_2 Cov(R1, R2) )
+        - Covariance to Correlation: ( Cov(R1, R2) = \\rho(R1, R2) \\sigma1 \\sigma2 )
+      - Three-Asset Portfolio
+        - Variance: ( \\sigma^2(R_P) = w12\\sigma12 + w22\\sigma22 + w32\\sigma32 + 2w1w2Cov(R1,R2) + 2w1w3Cov(R1,R3) + 2w2w3Cov(R2,R3) )
+      - Covariance (Joint Probability Function)
+        - Formula: ( Cov(R_A, R_B) = \\sum_{i=1}^{m} \\sum_{j=1}^{n} P(R_{A,i}, R_{B,j})[R_{A,i} - E(R_A)][R_{B,j} - E(R_B)] )
+      - Safety-First Ratio (SFRatio)
+        - Formula: ( SFRatio = \\frac{E(R_P) - R_L}{\\sigma_P} ) ( ( R_L )=Threshold Return)
+        - Shortfall Risk: ( Pr[E(R_P) &lt; R_L] = Normal(-SFRatio) )
+      - Tutorial Video: <https://youtu.be/S3x5JrGIOUA>
+    - **Learning Module 6: Simulation Methods**
+      - Lognormal Distribution
+        - Mean: ( \\mu_L = exp(\\mu + 0.5\\sigma^2) )
+        - Variance: ( \\sigma_L^2 = exp(2\\mu + \\sigma2)(exp(\\sigma2) - 1) ) ( ( \\mu )=Mean of Normal Variable, ( \\sigma^2 )=Variance of Normal Variable)
+      - Continuously Compounded Returns (i.i.d.)
+        - Price: ( P_T = P_0 exp(r_{0,T}) )
+        - Return Additivity: ( r_{0,T} = r_{0,1} + r_{1,2} + ... + r_{T-1,T} )
+        - Mean Return: ( E(r_{0,T}) = \\mu T )
+        - Variance: ( \\sigma^2(r_{0,T}) = \\sigma^2 T )
+        - Standard Deviation: ( \\sigma(r_{0,T}) = \\sigma \\sqrt{T} )
+    - **Learning Module 7: Estimation and Inference**
+      - Sharpe Ratio
+        - Formula: ( Sharpe ratio = \\frac{R_P - R_F}{\\sigma_P} ) ( ( R_F )=Risk-Free Rate)
+      - Sampling Distribution
+        - Variance: ( \\frac{\\sigma^2}{n} )
+        - Standard Error: ( \\frac{\\sigma}{\\sqrt{n}} ) (Use Sample Std Dev ( s ) if ( \\sigma ) Unknown)
+      - Bootstrap Resampling (Standard Error of Sample Mean)
+        - Formula: ( s_{\\overline{X}} = \\sqrt{\\frac{1}{B - 1} \\sum_{b=1}^{B} (\\hat{\\theta}_b - \\overline{\\theta})^2} ) (B=Resamples, ( \\hat{\\theta}_b )=Resample Mean, ( \\overline{\\theta} )=Mean of Resample Means)
+    - **Learning Module 8: Hypothesis Testing**
+      - Key Definitions
+        - Confidence Level: ( 1 - \\alpha ) ( ( \\alpha )=Type I Error Probability)
+        - Test Power: ( 1 - \\beta ) ( ( \\beta )=Type II Error Probability)
+      - Test of Single Mean (t-Test)
+        - Test Statistic: ( t = \\frac{\\overline{X} - \\mu_0}{s/\\sqrt{n}} ) (df = n - 1)
+        - Confidence Interval: ( \\overline{X} \\pm Critical value × \\frac{s}{\\sqrt{n}} )
+      - Test of Difference in Means (Pooled Variance t-Test)
+        - Test Statistic: ( t = \\frac{(\\overline{X}*{d1} - \\overline{X}*{d2}) - (\\mu_{d1} - \\mu_{d2})}{\\sqrt{\\frac{s_p^2}{n_{d1}} + \\frac{s_p^2}{n_{d2}}}} )
+        - Pooled Variance: ( s_p^2 = \\frac{(n_{d1} - 1)s_{d1}^2 + (n_{d2} - 1)s_{d2}^2}{n_{d1} + n_{d2} - 2} ) (df = ( n_{d1} + n_{d2} - 2 ))
+      - Test of Mean of Differences (Paired t-Test)
+        - Test Statistic: ( t = \\frac{\\overline{d} - \\mu_{d0}}{s_{\\overline{d}}} ) (df = n - 1; ( \\overline{d} )=Mean of Differences)
+      - Test of Single Variance (Chi-Square Test)
+        - Test Statistic: ( \\chi^2 = \\frac{(n - 1)s2}{\\sigma_02} ) (df = n - 1)
+      - Test of Difference in Variances (F-Test)
+        - Test Statistic: ( F = \\frac{s_{Before}2}{s_{After}2} ) (df = ( n1 - 1, n2 - 1 ))
+      - Test of Correlation (t-Test)
+        - Test Statistic: ( t = \\frac{r\\sqrt{n - 2}}{\\sqrt{1 - r^2}} ) (df = n - 2)
+      - Test of Independence (Categorical Data, Chi-Square Test)
+        - Test Statistic: ( \\chi^2 = \\sum_{i=1}^{m} \\frac{(O_{ij} - E_{ij})^2}{E_{ij}} ) (df = (r - 1)(c - 1); ( O_{ij} )=Observed, ( E_{ij} )=Expected)
+    - **Learning Module 9: Parametric and Non-Parametric Tests of Independence**
+      - Test of Correlation (Same as Module 8)
+        - t-Test Statistic: ( t = \\frac{r\\sqrt{n - 2}}{\\sqrt{1 - r^2}} ) (df = n - 2)
+      - Pearson Correlation Coefficient
+        - Formula: ( r_{XY} = \\frac{S_{XY}}{s_X s_Y} )
+      - Spearman Rank Correlation Coefficient
+        - Formula: ( r_S = 1 - \\frac{6\\sum_{i=1}^{n} d_i2}{n(n2 - 1)} ) ( ( d_i )=Rank Differences)
+      - Test of Independence (Categorical Data, Same as Module 8)
+        - Chi-Square Statistic: ( \\chi^2 = \\sum_{i=1}^{m} \\frac{(O_{ij} - E_{ij})^2}{E_{ij}} ) (df = (r - 1)(c - 1))
+      - Standardized Residual
+        - Formula: ( Standardized Residual = \\frac{O_{ij} - E_{ij}}{\\sqrt{E_{ij}}} )
+    - **Learning Module 10: Simple Linear Regression**
+      - Regression Model & Estimation
+        - Population Model: ( Y_i = b_0 + b_1X_1 + ... + b_nX_n + \\varepsilon_i )
+        - Estimated Model: ( \\hat{Y}_i = \\hat{b}_0 + \\hat{b}_1X_i + e_i ) ( ( e_i )=Residual)
+        - Slope Coefficient: ( \\hat{b}*1 = \\frac{Cov(X,Y)}{Var(X)} = \\frac{\\sum*{i=1}^{n} (Y_i - \\overline{Y})(X_i - \\overline{X})}{\\sum_{i=1}^{n} (X_i - \\overline{X})^2} )
+        - Intercept: ( \\hat{b}_0 = \\overline{Y} - \\hat{b}_1\\overline{X} )
+      - Sum of Squares
+        - Total (SST): ( SST = \\sum_{i=1}^{n} (Y_i - \\overline{Y})^2 = SSR + SSE )
+        - Regression (SSR): ( SSR = \\sum_{i=1}^{n} (\\hat{Y}_i - \\overline{Y})^2 )
+        - Error (SSE): ( SSE = \\sum_{i=1}^{n} (Y_i - \\hat{Y}_i)^2 )
+      - Coefficient of Determination (( R^2 ))
+        - Formula: ( R^2 = \\frac{SSR}{SST} = 1 - \\frac{SSE}{SST} )
+      - Correlation Coefficient
+        - Formula: ( r = \\frac{Cov(X,Y)}{s_X s_Y} ) (Note: ( r^2 = R^2 ))
+      - Standard Deviations (X & Y)
+        - Sample Std Dev (X): ( s_X = \\sqrt{\\frac{\\sum_{i=1}^{n} (X_i - \\overline{X})^2}{n - 1}} )
+        - Sample Std Dev (Y): ( s_Y = \\sqrt{\\frac{\\sum_{i=1}^{n} (Y_i - \\overline{Y})^2}{n - 1}} )
+      - Homoskedasticity Assumption
+        - Formula: ( E(\\varepsilon_i^2) = \\sigma_{\\varepsilon}^2 )
+      - ANOVA F-Test
+        - Mean Square Regression (MSR): ( MSR = \\frac{SSR}{k} ) (k=Independent Variables)
+        - Mean Square Error (MSE): ( MSE = \\frac{SSE}{n - k - 1} )
+        - F-Statistic: ( F = \\frac{MSR}{MSE} )
+      - Standard Error of Estimate (( s_e ))
+        - Formula: ( s_e = \\sqrt{MSE} = \\sqrt{\\frac{\\sum_{i=1}^{n} (Y_i - \\hat{Y}_i)^2}{n - k - 1}} )
+      - Hypothesis Tests for Coefficients
+        - Slope (t-Test): ( t = \\frac{\\hat{b}*1 - B_1}{s*{\\hat{b}*1}} ) (df = n - k - 1; ( s*{\\hat{b}*1} = \\frac{s_e}{\\sqrt{\\sum*{i=1}^{n} (X_i - \\overline{X})^2}} ))
+        - Intercept (t-Test): ( t_{intercept} = \\frac{\\hat{b}*0 - B_0}{s*{\\hat{b}*0}} ) ( ( s*{\\hat{b}*0} = \\sqrt{\\frac{1}{n} + \\frac{\\overline{X}^2}{\\sum*{i=1}^{n} (X_i - \\overline{X})^2}} ))
+      - Prediction Interval
+        - Formula: ( \\hat{Y}*f \\pm t*{\\alpha/2} × s_f ) ( ( s_f = s_e \\sqrt{1 + \\frac{1}{n} + \\frac{(X_f - \\overline{X})^2}{(n - 1)s_X^2}} ))
+      - Regression Model Forms
+        - Log-Lin: ( lnY_i = b_0 + b_1X_i )
+        - Lin-Log: ( Y_i = b_0 + b_1lnX_i )
+        - Log-Log: ( lnY_i = b_0 + b_1lnX_i )
+    - **Learning Module 11: Introduction to Big Data Techniques**
+      - No Formulas
+  - **VOLUME 2: ECONOMICS**
+    - **Learning Module 1: The Firm and Market Structures**
+      - Profit Calculations
+        - Total Profit: ( Total profit = Total revenue - Total cost )
+        - Economic Profit: ( Economic profit = Total revenue - Total economic costs )
+        - Accounting Profit: ( Accounting profit = Total revenue - Total accounting costs )
+      - Revenue & Cost Metrics
+        - Total Revenue: ( Total revenue = P × Q )
+        - Average Revenue: ( Average revenue = \\frac{Total revenue}{Quantity} )
+        - Marginal Cost: ( Marginal cost = \\frac{\\Delta TC}{\\Delta Q} )
+        - Average Variable Cost: ( Average variable cost = \\frac{Total variable cost}{Quantity} )
+        - Average Fixed Cost: ( Average fixed cost = \\frac{Total fixed cost}{Quantity} )
+        - Total Cost: ( Total cost = Total fixed cost + Total variable cost )
+        - Average Total Cost: ( Average total cost = Average fixed cost + Average variable cost )
+      - Market Concentration
+        - Concentration Ratio: ( Concentration ratio = \\sum_{i=1}^{n} (Market share)_i )
+        - Herfindahl-Hirschman Index (HHI): ( HHI = \\sum_{i=1}^{n} (Market share)_i^2 )
+    - **Learning Module 2: Understanding Business Cycles**
+      - No Formulas
+    - **Learning Module 3: Fiscal Policy**
+      - Budget Surplus/Deficit
+        - Formula: ( Budget surplus/(deficit) = G - T + B ) (G=Govt Spending, T=Taxes, B=Transfer Payments)
+      - Disposable Income
+        - Formula: ( YD = Y - NT = (1 - t)Y ) (NT=Net Taxes=Taxes-Transfers, t=Tax Rate)
+      - Fiscal Multiplier
+        - Formula: ( Fiscal multiplier = \\frac{1}{1 - c(1 - t)} ) (c=Marginal Propensity to Consume)
+    - **Learning Module 4: Monetary Policy**
+      - Neutral Rate
+        - Formula: ( Neutral rate = Trend growth + Inflation target )
+    - **Learning Module 5: Introduction to Geopolitics**
+      - No Formulas
+    - **Learning Module 6: International Trade**
+      - No Formulas
+    - **Learning Module 7: Capital Flows and the FX Market**
+      - Real Exchange Rate
+        - Formula: ( Real exchange rate_{d/f} = S_{d/f} × \\frac{P_f}{P_d} ) ( ( S_{d/f} )=Spot Rate, ( P_f )=Foreign Price Level, ( P_d )=Domestic Price Level)
+      - % Change in Real Exchange Rate
+        - Approximation: ( % \\Delta Real exchange rate \\approx % \\Delta S_{d/f} + % \\Delta P_f - % \\Delta P_d )
+      - % Change in Base Currency (f vs d)
+        - Formula: ( \\frac{E(S_{d/f}) - S_{d/f}}{S_{d/f}} )
+    - **Learning Module 8: Exchange Rate Calculations**
+      - Cross Rate
+        - Formula: ( \\frac{A}{B} = \\frac{A}{C} × \\frac{C}{D} )
+      - Forward Rate
+        - Formula: ( F_{A/B} = S_{A/B} × \\frac{1 + r_A × T}{1 + r_B × T} )
+        - Forward Points: ( Forward points = F_{A/B} - S_{A/B} = S_{A/B} × \\frac{r_A - r_B}{1 + r_B} × T ) (T=Time to Maturity)
+  - **VOLUME 3: CORPORATE ISSUERS**
+    - **Learning Module 1: Organizational Forms, Corporate Issuer Features, and Ownership**
+      - No Formulas
+    - **Learning Module 2: Investors and Other Stakeholders**
+      - No Formulas
+    - **Learning Module 3: Working Capital and Liquidity**
+      - Cash Conversion Cycle
+        - Formula: ( Cash conversion cycle = Days of inventory on hand + Days sales outstanding - Days payables outstanding )
+      - Financing Cost (Trade Credit)
+        - Formula: ( Financing cost = \\left(1 + \\frac{Discount%}{100% - Discount%}\\right)^{\\frac{Days in Year}{Payment Period - Discount Period}} - 1 )
+      - Working Capital Definitions
+        - Total Working Capital: ( Total working capital = Current assets - Current liabilities )
+        - Net Working Capital: ( Net working capital = (Current assets - Cash - Marketable securities) - (Current liabilities - Short-term debt) )
+      - Cash Flow from Operations
+        - Formula: ( Cash flow from operations = Cash from customers + Interest/dividends received - Cash to employees/suppliers - Taxes paid - Interest paid )
+      - Free Cash Flow
+        - Formula: ( Free cash flow = Cash flow from operations - Investments in long-term assets )
+      - Liquidity Ratios
+        - Current Ratio: ( Current ratio = \\frac{Current assets}{Current liabilities} )
+        - Quick Ratio: ( Quick ratio = \\frac{Cash + Short-term marketable instruments + Receivables}{Current liabilities} )
+        - Cash Ratio: ( Cash ratio = \\frac{Cash + Short-term marketable instruments}{Current liabilities} )
+    - **Learning Module 4: Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits**
+      - No Formulas
+    - **Learning Module 5: Capital Investments and Capital Allocation**
+      - Net Present Value (NPV)
+        - Formula: ( NPV = \\sum_{t=0}^{T} \\frac{CF_t}{(1 + r)^t} ) ( ( CF_0 )=Initial Outlay, r=Required Return)
+      - Internal Rate of Return (IRR)
+        - Formula: ( \\sum_{t=0}^{T} \\frac{CF_t}{(1 + IRR)^t} = 0 )
+      - Tutorial Video: <https://youtu.be/bzck7QLhICw>
+      - Return on Invested Capital (ROIC)
+        - Basic: ( ROIC = \\frac{After-tax operating profit}{Average invested capital} )
+        - DuPont: ( ROIC = \\frac{After-tax operating profit}{Sales} × \\frac{Sales}{Average invested capital} )
+      - Real Options in Capital Budgeting
+        - Formula: ( NPV_{with option} = NPV_{without option} - Option cost + Option value )
+    - **Learning Module 6: Capital Structure**
+      - Weighted Average Cost of Capital (WACC)
+        - Formula: ( WACC = w_d r_d (1 - t) + w_e r_e ) ( ( w_d = \\frac{D}{D+E} ), ( w_e = \\frac{E}{D+E} ), ( r_d )=Pre-Tax Debt Cost, t=Tax Rate, ( r_e )=Equity Cost)
+      - Operating Leverage
+        - Formula: ( Operating leverage = \\frac{Fixed costs}{Total costs} )
+      - Interest Coverage Ratio
+        - Formula: ( Interest coverage = \\frac{Profit before interest and taxes (EBIT)}{Interest expense} )
+      - Modigliani-Miller Propositions (With Taxes)
+        - Firm Value: ( V_L = V_U + tD ) ( ( V_L )=Levered Value, ( V_U )=Unlevered Value, D=Debt)
+        - Equity Cost: ( r_e = r_0 + (r_0 - r_d)(1 - t)\\frac{D}{E} ) ( ( r_0 )=Unlevered Equity Cost)
+        - Equity Value: ( E = \\frac{(CF_e - r_d D)(1 - t)}{r_e} )
+        - Firm Value (WACC): ( V_L = \\frac{CF_e (1 - t)}{WACC} )
+      - Static Trade-Off Theory
+        - Formula: ( V_L = V_U + tD - PV(Costs of Financial Distress) )
+    - **Learning Module 7: Business Models**
+      - No Formulas
+  - **VOLUME 4: FINANCIAL STATEMENT ANALYSIS**
+    - **Learning Module 1: Introduction to Financial Statement Analysis**
+      - No Formulas
+    - **Learning Module 2: Analyzing Income Statements**
+      - Profit Calculations
+        - Gross Profit: ( Gross profit = Revenue - Cost of Goods Sold )
+        - Operating Income: ( Operating income = Gross margin - Selling/General/Administrative Expense )
+        - Taxable Income: ( Taxable income = Operating income - Interest expense )
+        - Net Income: ( Net income = Taxable income - Taxes )
+      - Equity & Retained Earnings
+        - Ending Shareholders’ Equity: ( Ending equity = Beginning equity + Net income + Other comprehensive income - Dividends )
+        - Ending Retained Earnings: ( Ending retained earnings = Beginning retained earnings + Net income - Dividends )
+      - Return on Equity (ROE)
+        - Formula: ( ROE = \\frac{Net income}{Average shareholders' equity} )
+      - Net Profit Margin
+        - Formula: ( Net profit margin = \\frac{Net income}{Revenue} )
+      - Earnings Per Share (EPS)
+        - Basic EPS: ( Basic EPS = \\frac{Net income - Preferred dividends}{Weighted average number of shares outstanding} )
+        - Diluted EPS (Convertible Preferred): ( Diluted EPS = \\frac{Net income}{Weighted average shares + Conversion shares} )
+        - Diluted EPS (Convertible Debt): ( Diluted EPS = \\frac{Net income - Preferred dividends + After-tax interest expense}{Weighted average shares + Conversion shares} )
+        - Diluted EPS (Options): ( Diluted EPS = \\frac{Net income - Preferred dividends}{Weighted average shares + Option shares} )
+      - Treasury Stock Method (Options)
+        - Additional Shares: ( Additional shares = (Option shares - Repurchased shares) × \\frac{Option period}{Year} )
+      - Tutorial Video: <https://youtu.be/2C-mwVqO2SQ>
+    - **Learning Module 3: Analyzing Balance Sheets**
+      - Working Capital
+        - Formula: ( Working capital = Current assets - Current liabilities )
+      - Liquidity Ratios (Same as Volume 3, Module 3)
+        - Current Ratio, Quick Ratio, Cash Ratio
+      - Solvency Ratios
+        - Long-Term Debt-to-Equity: ( Long-term debt-to-equity = \\frac{Long-term debt}{Total equity} )
+        - Debt-to-Equity: ( Debt-to-equity = \\frac{Total debt}{Total equity} )
+        - Total Debt-to-Asset: ( Total debt-to-asset = \\frac{Total debt}{Total assets} )
+        - Financial Leverage: ( Financial leverage = \\frac{Total assets}{Total equity} )
+    - **Learning Module 4: Analyzing Statements of Cash Flows I**
+      - Cash Flow Derivations (Key Relationships)
+        - Accounts Receivable: ( Ending A/R = Beginning A/R + Revenue - Cash from customers )
+        - Inventory: ( Ending Inventory = Beginning Inventory + Purchases - Cost of Goods Sold )
+        - Accounts Payable: ( Ending A/P = Beginning A/P + Purchases - Cash to suppliers )
+        - Wages Payable: ( Ending Wages Payable = Beginning Wages Payable + Wages Expense - Cash for wages )
+        - Interest Payable: ( Ending Interest Payable = Beginning Interest Payable + Interest Expense - Cash for interest )
+        - Income Tax Payable: ( Ending Tax Payable = Beginning Tax Payable + Tax Expense - Cash for taxes )
+        - PP&E: ( Ending PP&E = Beginning PP&E + Purchases - Sales - Depreciation )
+        - Gain on Sale: ( Gain on sale = Cash from sale - Book value of asset )
+        - Retained Earnings: ( Ending Retained Earnings = Beginning Retained Earnings + Net income - Dividends )
+    - **Learning Module 5: Analyzing Statements of Cash Flows II**
+      - Free Cash Flow to Firm (FCFF)
+        - Formula 1: ( FCFF = NI + NCC + Int(1 - Tax) - FCInv - WCInv ) (NI=Net Income, NCC=Non-Cash Charges, Int=Interest, FCInv=Capital Expenditures, WCInv=Working Capital Expenditures)
+        - Formula 2: ( FCFF = CFO + Int(1 - Tax) - FCInv ) (CFO=Cash Flow from Operations)
+      - Free Cash Flow to Equity (FCFE)
+        - Formula: ( FCFE = CFO - FCInv + Net Borrowing ) (Net Borrowing=Debt Issued - Debt Repaid)
+      - Performance Ratios (Cash Flow)
+        - Cash Flow to Revenue: ( \\frac{CFO}{Revenue} )
+        - Cash Return on Assets: ( \\frac{CFO}{Average total assets} )
+        - Cash Return on Equity: ( \\frac{CFO}{Average shareholders' equity} )
+        - Cash to Income: ( \\frac{CFO}{Operating income} )
+        - Cash Flow per Share: ( \\frac{CFO - Preferred dividends}{Common shares outstanding} )
+      - Coverage Ratios (Cash Flow)
+        - Debt Coverage: ( \\frac{CFO}{Total debt} )
+        - Interest Coverage: ( \\frac{CFO + Interest paid + Taxes paid}{Interest paid} )
+        - Reinvestment Ratio: ( \\frac{CFO}{Cash for long-term assets} )
+        - Debt Payment Ratio: ( \\frac{CFO}{Cash for long-term debt repayment} )
+        - Dividend Payment Ratio: ( \\frac{CFO}{Dividends paid} )
+        - Investing/Financing Ratio: ( \\frac{CFO}{Cash for investing + financing} )
+    - **Learning Module 6: Analysis of Inventories**
+      - Inventory Valuation Standards
+        - IFRS: ( Inventories = Lower of Cost and Net Realizable Value (NRV) ) (NRV=Selling Price - Completion Costs)
+        - US GAAP (LIFO/Retail): ( Inventories = Lower of Cost and Market ) (Market=Replacement Cost; Bounds: NRV ≥ Market ≥ NRV - Normal Profit)
+      - Inventory Turnover Metrics
+        - Inventory Turnover: ( Inventory turnover = \\frac{Cost of sales}{Average inventory} )
+        - Days of Inventory on Hand: ( Days of inventory = \\frac{Days in period}{Inventory turnover} )
+      - FIFO-LIFO Conversion
+        - FIFO Ending Inventory: ( FIFO Ending Inventory = LIFO Ending Inventory + LIFO Reserve )
+        - FIFO COGS: ( FIFO COGS = LIFO COGS - Change in LIFO Reserve )
+      - Tutorial Video: <https://youtu.be/V8C31msIBzs>
+    - **Learning Module 7: Analysis of Long-Term Assets**
+      - Book Value & Gain on Sale
+        - Book Value: ( Book value = Historical cost - Accumulated depreciation )
+        - Gain on Sale: ( Gain on sale = Sale proceeds - Book value )
+      - Asset Life Estimates
+        - Total Life: ( Total life = \\frac{Gross PP&E}{Annual depreciation expense} )
+        - Estimated Age: ( Estimated age = \\frac{Accumulated depreciation}{Annual depreciation expense} )
+        - Remaining Life: ( Remaining life = \\frac{Net PP&E}{Annual depreciation expense} )
+      - Straight-Line Depreciation
+        - Formula: ( Annual depreciation = \\frac{Historical cost - Salvage value}{Estimated useful life} )
+      - Fixed Asset Turnover
+        - Formula: ( Fixed asset turnover = \\frac{Revenue}{Average net PP&E} )
+      - Asset Impairment
+        - IFRS: ( Impairment = Carrying amount - Recoverable amount ) (Recoverable amount = max(Fair Value - Disposal Cost, Value in Use))
+        - US GAAP: If Carrying Amount &gt; Undiscounted Cash Flows, ( Impairment = Carrying amount - Fair value )
+    - **Learning Module 8: Topics in Long-Term Liabilities and Equity**
+      - Lessee Accounting (IFRS Finance Lease)
+        - Interest Expense: ( Interest expense = Implied rate × Beginning lease liability )
+        - Principal Payment: ( Principal payment = Lease payment - Interest expense )
+        - Ending Lease Liability: ( Ending liability = Beginning liability + Interest expense - Lease payment )
+        - ROU Asset Amortization: ( Amortization = \\frac{Initial ROU - Salvage value}{Lease term} )
+        - Ending ROU Asset: ( Ending ROU = Beginning ROU - Amortization )
+      - Lessee Accounting (US GAAP Operating Lease)
+        - Amortization Expense: ( Amortization expense = Lease payment - Interest expense )
+        - Ending ROU Asset: ( Ending ROU = Beginning ROU - Amortization expense )
+        - Ending Lease Liability: ( Ending liability = Beginning liability - Amortization expense )
+      - Stock Options (Compensation Expense)
+        - Formula: ( Compensation expense = \\frac{Fair value of options granted}{Vesting period} )
+    - **Learning Module 9: Analysis of Income Taxes**
+      - Deferred Tax Assets/Liabilities
+        - Assets: ( Deferred tax asset/liability = Tax rate × (Carrying amount of asset - Tax base of asset) )
+        - Liabilities: ( Deferred tax asset/liability = Tax rate × (Tax base of liability - Carrying amount of liability) )
+      - Income Tax Expense
+        - Formula: ( Income tax expense = Income tax payable + Changes in deferred tax assets/liabilities )
+      - Effective & Cash Tax Rates
+        - Effective Tax Rate: ( \\frac{Income tax expense}{Pre-tax income} )
+        - Cash Tax Rate: ( \\frac{Cash tax paid}{Pre-tax income} )
+    - **Learning Module 10: Financial Reporting Quality**
+      - Adjusted EBITDA
+        - Formula: ( Adjusted EBITDA = Adjusted EBIT + Software/R&D amortization + Post-IPO amortization )
+      - Depreciation Methods
+        - Straight-Line: ( Depreciation = \\frac{Cost - Salvage value}{Useful life} )
+        - Double-Declining Balance: ( Depreciation = \\frac{2}{Useful life} × (Cost - Accumulated depreciation) )
+        - Units-of-Production: ( Depreciation = \\frac{Units produced}{Total units} × (Cost - Salvage value) )
+      - Tutorial Video: <https://youtu.be/6RskYAxdAFk>
+    - **Learning Module 11: Financial Analysis Techniques**
+      - Activity Ratios
+        - Inventory Turnover, Days of Inventory, Receivables Turnover, Days of Sales Outstanding, Payables Turnover, Days of Payables, Working Capital Turnover, Fixed Asset Turnover, Total Asset Turnover
+      - Liquidity Ratios (Current, Quick, Cash, Defensive Interval, Cash Conversion Cycle)
+      - Solvency Ratios (Debt-to-Asset, Debt-to-Capital, Debt-to-Equity, Financial Leverage, Debt-to-EBITDA)
+      - Coverage Ratios (Interest Coverage, Fixed Charge Coverage)
+      - Profitability Ratios (Gross Margin, Operating Margin, Pretax Margin, Net Margin, Operating ROA, ROA, ROIC, ROE, Return on Common Equity)
+      - DuPont Analysis
+        - Basic: ( ROE = ROA × Financial Leverage )
+        - Extended: ( ROE = Net Margin × Total Asset Turnover × Financial Leverage )
+        - Advanced: ( ROE = Tax Burden × Interest Burden × EBIT Margin × Turnover × Leverage ) (Tax Burden=Net Income/EBIT; Interest Burden=EBIT/EBT)
+      - Business Risk (Coefficient of Variation: ( \\frac{Std Dev of Operating Income}{Average Operating Income} ); ( \\frac{Std Dev of Net Income}{Average Net Income} ))
+      - Financial Sector Ratios
+        - Reserve Requirement: ( \\frac{Reserves at central bank}{Specified deposit liabilities} )
+        - Net Interest Margin: ( \\frac{Net interest income}{Total interest-earning assets} )
+        - Liquid Asset Requirement: ( \\frac{Approved marketable securities}{Specified deposit liabilities} )
+      - Tutorial Video (Cash Conversion Cycle): <https://youtu.be/IFsI9c4wUD4>
+    - **Learning Module 12: Introduction to Financial Statement Modeling**
+      - No New Formulas
+  - **VOLUME 5: EQUITY INVESTMENTS**
+    - **Learning Module 1: Market Organization and Structure**
+      - Maximum Leverage Ratio
+        - Formula: ( Maximum leverage ratio = \\frac{1}{Minimum margin requirement} )
+      - Leveraged Stock Return
+        - Formula: ( Total Return = \\frac{Sale proceeds + Dividends - Loan - Margin interest}{Initial equity} - 1 ) (Initial Equity=Min Margin × Total Purchase Price)
+      - Margin Call Price
+        - Formula: ( Margin Call Price = \\frac{P_0(1 - Initial Margin)}{(1 - Maintenance Margin)} )
+      - Tutorial Video: <https://youtu.be/tZd4XtvjjlI>
+    - **Learning Module 2: Security Market Indexes**
+      - Price Return Index (VPRI)
+        - Formula: ( V_{PRI} = \\frac{\\sum_{i=1}^{N} n_i P_i}{D} ) ( ( n_i )=Units of Security i, D=Divisor)
+      - Price Return
+        - Formula: ( PR_I = \\frac{V_{PRI1} - V_{PRI0}}{V_{PRI0}} )
+      - Total Return Index (TRI)
+        - Formula: ( TR_I = \\frac{V_{PRI1} - V_{PRI0} + Inc_I}{V_{PRI0}} ) ( ( Inc_I )=Total Income from Index Securities)
+      - Index Weighting Methods
+        - Price Weighting: ( w_i^P = \\frac{P_i}{\\sum_{j=1}^{N} P_j} )
+        - Equal Weighting: ( w_i^E = \\frac{1}{N} )
+        - Market-Cap Weighting: ( w_i^M = \\frac{Q_i P_i}{\\sum_{j=1}^{N} Q_j P_j} )
+        - Float-Adjusted Market-Cap: ( w_i^M = \\frac{f_i Q_i P_i}{\\sum_{j=1}^{N} f_j Q_j P_j} ) ( ( f_i )=Float Fraction)
+        - Fundamental Weighting: ( w_i^F = \\frac{F_i}{\\sum_{j=1}^{N} F_j} ) ( ( F_i )=Fundamental Measure)
+      - Tutorial Video (Divisor Recalculation): <https://youtu.be/eYiZNK-ETrg>
+    - **Learning Module 3: Market Efficiency**
+      - No Formulas
+    - **Learning Module 4: Overview of Equity Securities**
+      - Return on Equity (ROE)
+        - Average Book Value: ( ROE_t = \\frac{NI_t}{(BVE_t + BVE_{t-1})/2} ) (BVE=Book Value of Equity)
+        - Beginning Book Value: ( ROE_t = \\frac{NI_t}{BVE_{t-1}} )
+    - **Learning Module 5: Company Analysis: Past and Present**
+      - Market & Sales Metrics
+        - Market Share: ( Market share = \\frac{Revenue}{Market size} )
+        - Sales Potential: ( Sales potential = 100% - Market share% )
+        - Net Sales: ( Net sales = Average selling price × Quantity sold )
+        - Take Rate: ( Take rate = \\frac{Revenue from transactions}{Total transaction volume} × 100% )
+      - Operating Income & Leverage
+        - Operating Income: ( Operating income = Q(P - VC) - FC ) (Q=Units, P=Price, VC=Variable Cost, FC=Fixed Cost)
+        - Degree of Operating Leverage (DOL): ( DOL = \\frac{% \\Delta Operating income}{% \\Delta Sales} )
+        - Degree of Financial Leverage (DFL): ( DFL = \\frac{% \\Delta Net income}{% \\Delta Operating income} )
+      - WACC (Same as Volume 3, Module 6)
+    - **Learning Module 6: Industry and Company Analysis**
+      - HHI (Same as Volume 2, Module 1)
+    - **Learning Module 7: Company Analysis: Forecasting**
+      - Cost Structure Forecasts
+        - % Variable Cost: ( \\approx \\frac{% \\Delta (Cost of Revenue + Operating Expense)}{% \\Delta Revenue} )
+        - % Fixed Cost: ( \\approx 1 - % Variable Cost )
+      - Cannibalization Impact
+        - Units Sold: ( Units sold = Pre-cannibalization units - Expected cannibalization )
+        - Expected Cannibalization: ( Pre-cannibalization units × Cannibalization factor )
+    - **Learning Module 8: Equity Valuation: Concepts and Basic Tools**
+      - Dividend Discount Model (DDM)
+        - General: ( V_0 = \\sum_{t=1}^{n} \\frac{D_t}{(1 + r)^t} + \\frac{P_n}{(1 + r)^n} ) ( ( P_n )=Terminal Value)
+      - FCFE Valuation
+        - Formula: ( V_0 = \\sum_{t=1}^{\\infty} \\frac{FCFE_t}{(1 + r)^t} ) ( ( FCFE = CFO - FCInv + Net Borrowing ))
+      - Preferred Stock Valuation
+        - Perpetual: ( V_0 = \\frac{D_0}{r} )
+        - Maturity: ( V_0 = \\sum_{t=1}^{n} \\frac{D_t}{(1 + r)^t} + \\frac{Par value}{(1 + r)^n} )
+      - Gordon Growth Model
+        - Price: ( P_0 = \\frac{D_1}{r - g} = \\frac{D_0(1 + g)}{r - g} ) (r &gt; g)
+        - Sustainable Growth Rate: ( g = b × ROE ) (b=Retention Rate=1 - Dividend Payout Ratio)
+      - Two-Stage DDM
+        - Formula: ( V_0 = \\sum_{t=1}^{n} \\frac{D_0(1 + g_s)^t}{(1 + r)^t} + \\frac{D_0(1 + g_s)^n(1 + g_L)}{(r - g_L)(1 + r)^n} ) ( ( g_s )=Short-Term Growth, ( g_L )=Long-Term Growth)
+      - Justified Forward P/E
+        - Formula: ( \\frac{P_0}{E_1} = \\frac{Dividend payout ratio}{r - g} )
+      - Enterprise Value (EV)
+        - Formula: ( EV = Market value of equity + Market value of preferred stock + Market value of debt - Cash - Short-term investments )
+      - Asset-Based Valuation
+        - Formula: ( Adjusted book value = Adjusted assets - Adjusted liabilities )
+      - Tutorial Video (Sustainable Growth): <https://youtu.be/MnfRRRhuGpA>
+  - **VOLUME 6: FIXED INCOME**
+    - **Learning Module 1: Fixed-Income Instrument Features**
+      - Current Yield
+        - Formula: ( Current yield = \\frac{Annual coupon}{Bond price} )
+      - Bond Price (General)
+        - Formula: ( Bond price = \\sum_{t=1}^{n} \\frac{Coupon}{(1 + r)^t} + \\frac{Face value}{(1 + r)^n} )
+      - Floating-Rate Note (FRN) Coupon
+        - Formula: ( FRN coupon rate = MRR + Spread ) (MRR=Market Reference Rate)
+    - **Learning Module 2: Fixed-Income Cash Flows and Types**
+      - Fully Amortizing Loan (Level Payment)
+        - Periodic Payment: ( A = \\frac{r × Principal}{1 - (1 + r)^{-N}} ) (N=Payment Periods)
+        - Monthly Interest: ( Monthly interest = Monthly rate × Beginning principal )
+        - Monthly Principal: ( Monthly principal = Monthly payment - Monthly interest )
+        - Ending Principal: ( Ending principal = Beginning principal - Monthly principal )
+      - Inflation-Indexed Bonds (e.g., TIPS)
+        - Inflation-Adjusted Principal: ( Inflation-adjusted principal = Principal × (1 + Inflation adjustment) )
+        - Periodic Coupon: ( Coupon = Coupon rate × Inflation-adjusted principal )
+      - Deferred Coupon Bond
+        - Tutorial Video: <https://youtu.be/erRbAUOGIyM>
+      - Convertible Bonds
+        - Conversion Ratio: ( Conversion ratio = \\frac{Par value}{Conversion price} )
+        - Conversion Value: ( Conversion value = Conversion ratio × Current share price )
+      - Zero-Coupon Bond
+        - Original Issue Discount: ( Original issue discount = Par value - Issuance price )
+    - **Learning Module 3: Fixed-Income Issuance and Trading**
+      - No Formulas
+    - **Learning Module 4: Fixed-Income Markets for Corporate Issuers**
+      - Repurchase Agreements (Repo)
+        - Repurchase Price: ( Repurchase price = Bond price × [1 + Repo rate × \\frac{Repo days}{Days in year}] )
+        - Initial Margin: ( Initial margin = \\frac{Security price_0}{Purchase price_0} )
+        - Haircut: ( Haircut = \\frac{Security price_0 - Purchase price_0}{Security price_0} )
+        - Variation Margin: ( Variation margin = (Initial margin × Purchase price_t) - Security price_t )
+    - **Learning Module 5: Fixed-Income Markets for Government Issuers**
+      - No Formulas
+    - **Learning Module 6: Fixed-Income Bond Valuation: Prices and Yields**
+      - Bond Present Value (General)
+        - Formula: ( PV = \\sum_{t=1}^{N} \\frac{PMT_t}{(1 + r)^t} + \\frac{FV}{(1 + r)^N} ) ( ( PMT_t )=Periodic Coupon)
+      - Full Price, Flat Price, Accrued Interest
+        - Full Price: ( PV^{Full} = PV^{Flat} + Accrued Interest = PV_{BOP} × (1 + r)^{t/T} ) (t=Days Since Last Coupon, T=Coupon Period Days)
+        - Accrued Interest: ( Accrued Interest = \\frac{t}{T} × PMT )
+      - Tutorial Video: <https://youtu.be/l7G075JAu5w>
+      - Matrix Pricing (Interpolated Yield)
+        - Formula: ( Interpolated yield = Yield_S + \\frac{Tenor_{Target} - Tenor_S}{Tenor_L - Tenor_S} × (Yield_L - Yield_S) ) ( ( Yield_S )=Shorter-Term Yield, ( Yield_L )=Longer-Term Yield)
+      - Required Yield Spread
+        - Formula: ( Required yield spread = Bond YTM - Government Bond YTM ) (Same Maturity)
+    - **Learning Module 7: Yield and Yield Spread Measures for Fixed Rate Bonds**
+      - Periodicity Conversion
+        - Formula: ( \\left(1 + \\frac{APR_m}{m}\\right)^m = \\left(1 + \\frac{APR_n}{n}\\right)^n ) (APR=Annual Percentage Rate)
+      - Yield Measures
+        - Current Yield: ( Current yield_t = \\frac{Annual coupon_t}{Bond price_t} )
+        - Government Equivalent Yield: ( Yield_{ACT/ACT} = \\frac{365}{360} × Yield_{30/360} )
+        - Simple Yield: ( Simple yield = \\frac{Coupon + (FV - PV)/N}{Flat price} )
+      - Callable Bonds
+        - Price (Yield to Call, YTC): ( PV = \\sum_{t=1}^{N} \\frac{PMT}{(1 + YTC)^t} + \\frac{Call price}{(1 + YTC)^N} )
+        - Option-Adjusted Price: ( Option-adjusted price = Flat price + Embedded call option value )
+        - Call Option Value: ( Call option value = Option-free bond price - Callable bond price )
+      - Yield Spreads
+        - G-Spread: ( G-spread = Bond YTM - Interpolated sovereign bond YTM )
+        - I-Spread: ( I-spread = Bond YTM - Swap rate )
+        - Z-Spread: ( PV = \\sum_{t=1}^{N} \\frac{PMT}{(1 + z_t + Z)^t} + \\frac{FV}{(1 + z_N + Z)^N} ) (Z=Z-Spread, ( z_t )=Spot Rate)
+        - OAS: ( OAS = Z-spread - Option value ) (Basis Points)
+    - **Learning Module 8: Yield and Yield Spread Measures for Floating-Rate Instruments**
+      - FRN Valuation
+        - Formula: ( PV = \\sum_{t=1}^{n} \\frac{(MRR + QM)×FV/m}{(1 + (MRR + DM)/m)^t} + \\frac{FV}{(1 + (MRR + DM)/m)^n} ) (QM=Quoted Margin, DM=Discount Margin, m=Periodicity)
+      - Tutorial Video: <https://youtu.be/zqYOtVLkYR8>
+      - Money Market Yields
+        - Discount Rate (DR) Basis: ( PV = FV × (1 - \\frac{Days}{Year} × DR) ); ( DR = \\frac{Year}{Days} × \\frac{FV - PV}{FV} )
+        - Add-On Rate (AOR) Basis: ( PV = \\frac{FV}{1 + \\frac{Days}{Year} × AOR} ); ( AOR = \\frac{Year}{Days} × \\frac{FV - PV}{PV} )
+        - Bond Equivalent Yield: ( Bond equivalent yield = \\frac{365}{Days} × \\frac{FV - PV}{PV} )
+    - **Learning Module 9: The Term Structure of Interest Rates: Spot, Par, and Forward Curves**
+      - Bond Pricing with Spot Rates
+        - Formula: ( PV = \\sum_{t=1}^{N} \\frac{PMT}{(1 + z_t)^t} + \\frac{FV}{(1 + z_N)^N} ) ( ( z_t )=Spot Rate for t Periods)
+      - Par Rate Derivation
+        - Formula: ( 100 = \\sum_{t=1}^{N} \\frac{PMT}{(1 + z_t)^t} + \\frac{100 + PMT}{(1 + z_N)^N} ) (PMT=Par Rate × FV)
+      - Forward Rate (IFR)
+        - Formula: ( (1 + z_B)^B = (1 + z_A)^A × (1 + IFR_{A,B-A})^{B-A} ) ( ( IFR_{A,B-A} )=Forward Rate for (B-A) Periods)
+    - **Learning Module 10: Interest Rate Risk and Return**
+      - Macaulay Duration
+        - Full Formula: ( Macaulay duration = \\sum_{t=1}^{N} (t - \\frac{t}{T}) × \\frac{PMT/(1 + r)^{t - t/T}}{PV^{Full}} )
+        - Simplified Formula: ( Macaulay duration = \\frac{1 + r}{r} - \\frac{1 + r + N(c - r)}{c[(1 + r)^N - 1] + r} - \\frac{t}{T} ) (c=Coupon Rate)
+      - Tutorial Video: <https://youtu.be/USgjcdCk7Fs>
+    - **Learning Module 11: Yield-Based Bond Duration Measures and Properties**
+      - Modified Duration
+        - Formula: ( Modified Duration = \\frac{Macaulay Duration}{1 + r} )
+      - Approximate Modified Duration
+        - Formula: ( AnnModDur \\approx \\frac{PV_- - PV_+}{2 × \\Delta Yield × PV_0} )
+        - Price Change %: ( % \\Delta PV^{Full} \\approx -AnnModDur × \\Delta Yield )
+      - Money Duration
+        - Formula: ( Money duration = AnnModDur × PV^{Full} )
+        - Price Change: ( \\Delta PV^{Full} \\approx -MoneyDur × \\Delta Yield )
+      - Duration by Bond Type
+        - Zero-Coupon: MacDur=Time to Maturity; ModDur=Time to Maturity/(1 + r)
+        - Perpetual: MacDur=(1 + r)/r; ModDur=1/r
+        - FRN: MacDur=Fraction of Period to Next Reset Date
+    - **Learning Module 12: Yield-Based Bond Convexity and Portfolio Properties**
+      - Convexity
+        - Formula: ( Convexity = \\sum_{t=1}^{N} \\frac{t(t + 1) × (PV_t / PV^{Full})}{(1 + YTM)^2} )
+      - Approximate Annual Convexity
+        - Formula: ( ApproxConv \\approx \\frac{PV_- + PV_+ - 2PV_0}{(\\Delta Yield)^2 × PV_0} )
+        - Price Change %: ( % \\Delta PV^{Full} \\approx -AnnModDur × \\Delta Yield + 0.5 × AnnConvexity × (\\Delta Yield)^2 )
+      - Money Convexity
+        - Formula: ( MoneyCon = AnnConvexity × PV^{Full} )
+        - Price Change: ( \\Delta PV^{Full} \\approx -MoneyDur × \\Delta Yield + 0.5 × MoneyCon × (\\Delta Yield)^2 )
+      - Portfolio Duration & Convexity
+        - Portfolio ModDur: ( \\sum_{i=1}^{N} w_i × ModDur_i )
+        - Portfolio Convexity: ( \\sum_{i=1}^{N} w_i × Convexity_i ) ( ( w_i )=Market Value Weight)
+    - **Learning Module 13: Curve-Based and Empirical Fixed-Income Risk Measures**
+      - Effective Duration
+        - Formula: ( EffDur = \\frac{PV_- - PV_+}{2 × \\Delta Curve × PV_0} )
+      - Effective Convexity
+        - Formula: ( EffCon = \\frac{PV_- + PV_+ - 2PV_0}{(\\Delta Curve)^2 × PV_0} )
+      - Price Change %: ( % \\Delta PV^{Full} \\approx -EffDur × \\Delta Curve + 0.5 × EffCon × (\\Delta Curve)^2 )
+      - Key Rate Duration
+        - Formula: ( KeyRateDur_k = -\\frac{1}{PV} × \\frac{\\Delta PV}{\\Delta r_k} ) ( ( r_k )=Key Rate)
+        - Price Change %: ( % \\Delta PV = -KeyRateDur_k × \\Delta r_k )
+        - Total Effective Duration: ( \\sum_{k=1}^{n} KeyRateDur_k = EffDur )
+    - **Learning Module 14: Credit Risk**
+      - Expected Loss (EL)
+        - Formula: ( EL = LGD × POD ) (LGD=Loss Given Default, POD=Probability of Default)
+        - LGD Calculation: ( LGD = EE × (1 - RR) ) (EE=Expected Exposure, RR=Recovery Rate)
+        - Loss Severity: ( 1 - RR = Loss severity )
+      - Credit Spread Approximation
+        - Formula: ( Credit spread \\approx POD × LGD )
+      - Yield Spread Decomposition
+        - Yield Spread: ( Bond YTM - Government Bond YTM )
+        - Liquidity Spread: ( Bond YTM (Bid) - Bond YTM (Offer) )
+        - Credit Spread: ( Yield spread - Liquidity spread )
+      - Price Impact of Spread Change
+        - Formula: ( % \\Delta PV^{Full} \\approx -AnnModDur × \\Delta Spread + 0.5 × AnnConvexity × (\\Delta Spread)^2 )
+    - **Learning Module 15: Credit Analysis for Government Issuers**
+      - No Formulas
+    - **Learning Module 16: Credit Analysis for Corporate Issuers**
+      - Credit Ratios
+        - EBIT Margin: ( \\frac{Operating income}{Revenue} )
+        - EBIT to Interest Expense: ( \\frac{Operating income}{Interest expense} )
+        - Debt to EBITDA: ( \\frac{Debt}{EBITDA} )
+        - RCF to Net Debt: ( \\frac{Retained cash flow}{Debt - Cash - Marketable securities} )
+        - FFO to Debt: ( \\frac{FFO}{Debt} ) (FFO=Net Income + Depreciation/Amortization + Deferred Taxes + Non-Cash Items)
+    - **Learning Module 17: Fixed-Income Securitization**
+      - No Formulas
+    - **Learning Module 18: Asset-Backed Security (ABS) Instrument and Market Features**
+      - No Formulas
+    - **Learning Module 19: Mortgage-Backed Security (MBS) Instrument and Market Features**
+      - Loan Metrics
+        - Loan-to-Value (LTV): ( LTV = \\frac{Loan amount}{House price} )
+        - Debt-to-Income (DTI): ( DTI = \\frac{Monthly debt payment}{Monthly pre-tax income} )
+      - Mortgage Pass-Through Securities
+        - Weighted Average Coupon (WAC): ( WAC = \\sum_{i=1}^{N} c_i × \\frac{CB_i}{CB} ) ( ( c_i )=Mortgage Coupon, ( CB_i )=Mortgage Current Balance, CB=Total Current Balance)
+        - Weighted Average Maturity (WAM): ( WAM = \\sum_{i=1}^{N} MM_i × \\frac{CB_i}{CB} ) ( ( MM_i )=Months to Maturity)
+      - Commercial MBS (CMBS)
+        - Debt Service Coverage Ratio (DSCR): ( DSCR = \\frac{Net operating income (NOI)}{Debt service} )
+        - NOI: ( NOI = (Rental income - Cash operating expenses) - Replacement reserves )
+  - **VOLUME 7: DERIVATIVES**
+    - **Learning Module 1: Derivative Instrument and Derivatives Market Features**
+      - No Formulas
+    - **Learning Module 2: Forward Commitments and Contingent Claim Features and Instruments**
+      - Forward Contract Payoff
+        - Long (Buyer): ( S_T - F_0(T) )
+        - Short (Seller): ( F_0(T) - S_T ) ( ( S_T )=Spot Price at Maturity, ( F_0(T) )=Forward Price)
+      - Futures Contract Mark-to-Market
+        - Long Daily: ( f_t(T) - f_{t-1}(T) )
+        - Short Daily: ( f_{t-1}(T) - f
