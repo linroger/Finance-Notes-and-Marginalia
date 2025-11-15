@@ -1,34 +1,258 @@
 ---
-cssclasses: academia
-title: Introduction to Financial Intermediation
-linter-yaml-title-alias: Introduction to Financial Intermediation
-tags:
-  - financial_intermediation
-  - financial_contracts
-  - risk_management
-  - financial_system
-  - financial_crisis
-  - great_recession
-  - financial_innovation
-  - banking_regulation
-  - securitization
-  - leverage
+academic_level: graduate
 aliases:
-  - Overview of Financial Intermediation
-  - Financial System Introduction
-  - Financial Markets and Institutions Introduction
+- Overview of Financial Intermediation
+- Financial System Introduction
+- Financial Markets and Institutions Introduction
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000201
 key_concepts:
-  - Financial contracts and securities
-  - Risk redistribution mechanisms
-  - Intertemporal consumption adjustment
-  - Financial system complexity and fragility
-  - Market information asymmetry
-  - Public intervention rationale
-  - Shadow banking system
-  - Securitization impacts
-  - Financial leverage consequences
-  - Great Recession lessons
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Securitization and structured finance
+- Collateralized debt obligations (CDO) and tranche structure
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Duration and Convexity in Fixed Income Risk Management
+- Auto-Callable Notes and Barrier Options
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Equity-Linked Notes and Market-Linked Securities
+- Delta, Gamma, and Vega Hedging Techniques
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Distressed Investing and Debt Restructuring
+- Flexibility Value in Capital Budgeting
+- Forward Curves and Roll Strategies
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Structured Products and Principal Protection
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Dynamic vs Static Hedging in Practice
+- Option to Expand and Investment Timing
+- Interest Rate Swaps and Currency Swap Structures
+- Term Structure of Interest Rates and Yield Curves
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Real Options in Strategic Investment Decisions
+- Credit Spreads and Rating Migration Analysis
+- Market Microstructure and Liquidity Analysis
+- Interest Rate Risk and DV01 Calculations
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: Introduction to Financial Intermediation
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- arch
+- bid-ask-spread
+- binomial-model
+- black-scholes-model
+- capital-asset-pricing
+- caplet
+- cds
+- coherent-risk-measure
+- collateralized-debt-obligation
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- counterparty-risk
+- asset-allocation
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- exchange-offers
+- backwardation
+- option-to-abandon
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- bond-pricing
+- option-strategies
+- cramdown
+- corporate-bonds
+- yield-curve
+- timing-options
+- unexpected-loss
+- clearinghouse
+- debt-restructuring
+- interpolation
+- overnight-indexed-swaps
+- interest-rate-risk
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- dirty-price
+- forward-curves
+- distressed-investing
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- forward-rates
+- fama-french
+- recovery-rate
+- zero-coupon-bonds
+- real-options
+- strategic-investment
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- modified-duration
+- expected-loss
+- market-efficiency
+- delta-hedging
+- quantitative-finance
+- forward-curve
+- order-flow
+- currency-swaps
+- market-linked-notes
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- liquidity
+- curve-steepening
+- reverse-convertibles
+- curve-fitting
+- credit-default-swaps
+- gamma-hedging
+- hedge-effectiveness
+- storage-costs
+- roll-yield
+- risk-premium
+- spot-rates
+- put-options
+- affine-term-structure
+- algorithmic-trading
+- momentum
+- curve-flattening
+- option-to-expand
+- basis-risk
+- convexity
+- hedge-strategies
+- term-structure
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- investment-analysis
+- portfolio-optimization
+- duration-analysis
+- value-at-risk
+- flexibility-value
+- metals-trading
+- blocker-strategy
+- factor-models
+- convenience-yield
+- creditor-committees
+- agricultural-commodities
+- barbell-strategy
+- risk-management
+- convergence
+- var-backtesting
+- barrier-options
+- tender-offers
+- cross-hedging
+- seasonality
+- ' DIP-financing'
+- clean-price
+- yield-curve-shocks
+- high-frequency-trading
+- principal-protected-notes
+- strangles
+- equity-linked-notes
+- fixed-income
+- dv01
+- short-rate-models
+- swap-spread
+- price-yield-relationship
+- credit-migration
+- default-probability
+- marking-to-market
+- auto-callables
+- total-return-swaps
+- libor
+- credit-spreads
+- multi-factor-models
+- structured-notes
+- iron-condors
+- financial-markets
+- macaulay-duration
+- static-hedging
+- size-effect
+- basis-swaps
+- knock-out-options
+- interest-rate-swaps
+- futures-contracts
+- apt
+- bootstrap-method
+- natural-resource-valuation
+- current-yield
+title: Introduction to Financial Intermediation
+type: note
 ---
+--
+
+
 
 # Introduction
 

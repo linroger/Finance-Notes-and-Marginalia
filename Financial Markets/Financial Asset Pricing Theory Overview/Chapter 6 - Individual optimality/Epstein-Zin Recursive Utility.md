@@ -1,21 +1,54 @@
 ---
 tags:
-  - consumption_choice
-  - epstein_zin_utility
-  - portfolio_choice
-  - recursive_utility
-  - state_price_deflator
+- gamma
+- discount
+- apt
+- epstein_zin_utility
+- portfolio_choice
+- theta
+- call
+- put
+- market
+- recursive_utility
+- cdo
+- yield
+- consumption_choice
+- portfolio
+- state_price_deflator
 aliases:
-  - Derived utility
-  - EZ utility
-  - Indirect utility
+- Derived utility
+- EZ utility
+- Indirect utility
 key_concepts:
-  - Epstein-Zin preferences
-  - Indirect utility
-  - Relative risk aversion
-  - Subjective discount factor
-  - Wealth dynamics
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Gamma risk and convexity adjustments in options
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000468
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 6.6 Epstein-Zin recursive utility  
 

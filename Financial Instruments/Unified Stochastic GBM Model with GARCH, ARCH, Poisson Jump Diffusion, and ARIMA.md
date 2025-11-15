@@ -1,34 +1,280 @@
 ---
-cssclasses: academia
-title: Unified Stochastic GBM Model with GARCH, ARCH, Poisson Jump Diffusion, and ARIMA
-tags:
-  - arima_model
-  - asset_prices
-  - garch_model
-  - gbm_model
-  - heavy_tails
-  - jump_diffusion
-  - regime_shifts
-  - time_series_model
-  - volatility_clustering
-  - financial_mathematics
-  - stochastic_modeling
+academic_level: graduate
 aliases:
-  - ARIMA-Driven Drift
-  - GARCH Jump-Diffusion
-  - Regime-Switching Model
-  - Unified Stochastic Process
+- ARIMA-Driven Drift
+- GARCH Jump-Diffusion
+- Regime-Switching Model
+- Unified Stochastic Process
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000135
 key_concepts:
-  - Asset price dynamics
-  - Heavy-tailed distributions
-  - Regime-dependent volatility
-  - Time-varying drift
-  - Volatility clustering
-  - Stochastic differential equations
-  - Exponential jump diffusion
-  - GARCH volatility model
-  - Parameter calibration
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Wiener process and Brownian motion modeling
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- GARCH models and volatility forecasting
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Alpha generation and active portfolio management
+- Beta estimation and systematic risk measurement
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Correlation analysis and dependency structures
+- Beta estimation and systematic risk measurement
+- Alpha generation and active return measurement
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Basel III Regulatory Framework and Capital Requirements
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Variance Reduction Techniques in Monte Carlo Methods
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Cost of Equity and Expected Returns
+- Stochastic Integration and Path-Dependent Options
+- Flexibility Value in Capital Budgeting
+- Black-Scholes Option Pricing Model and Its Applications
+- Forward Curves and Roll Strategies
+- Regulatory Capital and Stress Testing
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Time Series Analysis in Financial Markets
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Factor Models and Asset Pricing
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Hedge Strategies and Basis Risk Management
+- Option to Expand and Investment Timing
+- American Option Pricing and Early Exercise Premium
+- Interest Rate Swaps and Currency Swap Structures
+- Cointegration and Statistical Arbitrage
+- Liquidity Coverage Ratio and Net Stable Funding
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Real Options in Strategic Investment Decisions
+- Credit Spreads and Rating Migration Analysis
+- Market Microstructure and Liquidity Analysis
+- GARCH Models and Volatility Forecasting
+- Monte Carlo Simulation Methods for Derivative Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- arch
+- arch-processes
+- arima
+- asset-allocation
+- asset-backed-securities
+- banking-regulation
+- basel-accord
+- beta-estimation
+- binomial-model
+- black-scholes-model
+- brownian-motion
+- capital-adequacy
+- capital-asset-pricing
+- control-variates
+- leveraged-buyout
+- exotic-options
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- binomial-tree
+- straddles
+- extreme-value-theory
+- american-options
+- partial-differential-equation
+- book-to-market
+- arbitrage
+- risk-neutral-valuation
+- backwardation
+- option-to-abandon
+- energy-derivatives
+- net-stable-funding
+- style-analysis
+- leverage-ratio
+- volatility-analysis
+- option-strategies
+- timing-options
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- monte-carlo-simulation
+- hedge-ratio
+- market-price-of-risk
+- capital-conservation-buffer
+- volatility-surface
+- price-discovery
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- forward-curves
+- monte-carlo-var
+- options-trading
+- market-impact
+- commodity-trading
+- forward-contracts
+- stationarity
+- fama-french
+- price-to-earnings
+- bsm-model
+- recovery-rate
+- real-options
+- black-scholes-formula
+- strategic-investment
+- garch
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- regulatory-capital
+- random-walks
+- unit-roots
+- expected-loss
+- market-efficiency
+- quantitative-finance
+- order-flow
+- currency-swaps
+- bid-ask-spread
+- crr-model
+- systematic-risk
+- protective-puts
+- alpha
+- security-market-line
+- probabilty-of-default
+- liquidity
+- idiosyncratic-risk
+- storage-costs
+- roll-yield
+- tier-2-capital
+- beta
+- risk-premium
+- put-options
+- countercyclical-buffer
+- affine-term-structure
+- multi-period-binomial
+- capm
+- algorithmic-trading
+- momentum
+- option-to-expand
+- basis-risk
+- market-risk-premium
+- volatility-modeling
+- discrete-time-pricing
+- antithetic-variates
+- regime-switching
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- path-dependency
+- value-at-risk
+- flexibility-value
+- metals-trading
+- kalman-filter
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- arima-models
+- variance-reduction
+- stochastic-integration
+- state-space-models
+- sum-of-parts
+- european-options
+- seasonality
+- high-frequency-trading
+- lattice-models
+- strangles
+- conditional-var
+- cointegration
+- cox-ross-rubinstein
+- short-rate-models
+- least-squares-mc
+- swap-spread
+- optional-exercise
+- efficient-frontier
+- credit-migration
+- default-probability
+- marking-to-market
+- binomial-option-pricing
+- total-return-swaps
+- libor
+- credit-spreads
+- granger-causality
+- multi-factor-models
+- ito-calculus
+- trading-multiples
+- tier-1-capital
+- iron-condors
+- option-pricing
+- financial-markets
+- size-effect
+- basis-swaps
+- precedent-transactions
+- interest-rate-swaps
+- liquidity-coverage-ratio
+- lognormal-distribution
+- ipo-valuation
+- basel-iii
+- market-multiple
+- ' recombining-trees'
+- futures-contracts
+- quasi-monte-carlo
+- apt
+- natural-resource-valuation
+- credit-default-swaps
+title: Unified Stochastic GBM Model with GARCH, ARCH, Poisson Jump Diffusion, and
+  ARIMA
+type: note
 ---
+--
+
+
 
 # A Regime-Switching GARCH Jump-Diffusion Model with ARIMA-Driven Drift for Asset Prices
 

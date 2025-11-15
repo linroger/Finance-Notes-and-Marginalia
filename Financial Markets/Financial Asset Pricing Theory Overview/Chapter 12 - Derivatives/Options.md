@@ -1,24 +1,76 @@
 ---
 tags:
-  - call_option
-  - european_option
-  - option_pricing
-  - put_call_parity
-  - put_option
+- delta
+- risk-free
+- volatility
+- martingale
+- eur
+- probability
+- option_pricing
+- discount-rate
+- forward
+- future
+- implied
+- dividend
+- gamma
+- pricing
+- correlation
+- call_option
+- put_option
+- option
+- hedging
+- distribution
+- european_option
+- put
+- american
+- bond
+- put_call_parity
 aliases:
-  - Call Option
-  - European Options
-  - Option Pricing
-  - Put Option
+- Call Option
+- European Options
+- Option Pricing
+- Put Option
 key_concepts:
-  - European call option
-  - European put option
-  - Exercise price
-  - Forward martingale measure
-  - Non-dividend paying asset
-  - Option price formula
-  - Put-call parity
+- Black-Scholes model and option pricing theory
+- Option Greeks and risk sensitivities
+- American option pricing and early exercise
+- Option valuation and hedging strategies
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Financial derivatives pricing and valuation
+- Numerical methods in finance
+- Arbitrage pricing theory and no-arbitrage principle
+- Black-Scholes option pricing model and its applications
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Delta hedging strategies in options markets
+- Discount Rate in financial markets
+- Factor Model in financial markets
+- Gamma risk and convexity adjustments in options
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Risk Free in financial markets
+- Volatility modeling and implied volatility surfaces
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000398
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 12.3 Options  
 

@@ -1,21 +1,224 @@
 ---
-tags:
-  - dynamic_hedging
-  - portfolio_insurance
-  - put_call_parity
-  - replication_portfolio
-  - stock_put
+academic_level: graduate
 aliases:
-  - Protective Put
-  - Static Hedge
-  - Stock Put Insurance
+- Protective Put
+- Static Hedge
+- Stock Put Insurance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000372
 key_concepts:
-  - Drawbacks of stock put
-  - Dynamic portfolio insurance
-  - Hedging equity portfolio
-  - Replication portfolio of calls
-  - Static stock put insurance
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Collateralized debt obligations (CDO) and tranche structure
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Beta estimation and systematic risk measurement
+- Factor models and multi-factor pricing
+- Beta estimation and systematic risk measurement
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- Delta, Gamma, and Vega Hedging Techniques
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Cost of Equity and Expected Returns
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Credit Default Swaps and CDS Pricing
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- Interest Rate Swaps and Currency Swap Structures
+- Option Valuation and Exercise Strategies
+- CDS Spreads and Implied Default Probabilities
+- Credit Spreads and Rating Migration Analysis
+- Market Microstructure and Liquidity Analysis
+- Credit Risk Transfer and Synthetic Instruments
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- asset-allocation
+- banking-regulation
+- basel-accord
+- beta-estimation
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-asset-pricing
+- caplet
+- cds
+- coherent-risk-measure
+- collateralized-debt-obligation
+- conditional-var
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- backwardation
+- volatility-analysis
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- cds-spreads
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dirty-price
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- expected-loss
+- market-efficiency
+- delta-hedging
+- quantitative-finance
+- order-flow
+- currency-swaps
+- default-leg
+- bid-ask-spread
+- foreign-recurrency
+- cds-arbitrage
+- protective-puts
+- government-bonds
+- systematic-risk
+- alpha
+- security-market-line
+- probabilty-of-default
+- liquidity
+- gamma-hedging
+- hedge-effectiveness
+- credit-default-swaps
+- idiosyncratic-risk
+- roll-yield
+- beta
+- risk-premium
+- put-options
+- cds-coupons
+- affine-term-structure
+- capm
+- algorithmic-trading
+- momentum
+- basis-risk
+- market-risk-premium
+- hedge-strategies
+- cds-bond-basis
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- value-at-risk
+- risky-continuation
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- cross-hedging
+- sum-of-parts
+- clean-price
+- high-frequency-trading
+- strangles
+- fixed-income
+- short-rate-models
+- swap-spread
+- efficient-frontier
+- credit-migration
+- default-probability
+- marking-to-market
+- total-return-swaps
+- libor
+- credit-spreads
+- premium-leg
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- static-hedging
+- size-effect
+- basis-swaps
+- precedent-transactions
+- interest-rate-swaps
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- cds-implied-probability
+- apt
+- current-yield
+type: note
 ---
+--
+
+
+
 # Portfolio Insurance  
 
 # Aims  

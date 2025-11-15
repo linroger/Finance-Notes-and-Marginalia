@@ -1,40 +1,292 @@
 ---
-cssclasses: academia
-title: "HKS: The Banking Industry - Faculty Research Working Paper"
-date: 2023-10-15
-tags:
-  - banking_industry
-  - financial_crisis_2008
-  - commercial_banking
-  - investment_banking
-  - retail_banking
-  - banking_regulation
-  - dodd_frank_act
-  - bank_mergers
-  - antitrust_policy
-  - glass_steagall
-  - shadow_banking
-  - federal_reserve
-  - mortgage_crisis
-  - too_big_to_fail
-  - banking_concentration
+academic_level: graduate
 aliases:
-  - Banking Industry Study
-  - HKS Banking Paper
-  - Banking Market Structure
-  - Banking Policy Analysis
+- Banking Industry Study
+- HKS Banking Paper
+- Banking Market Structure
+- Banking Policy Analysis
+cssclasses: academia
+date: 2023-10-15
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000226
 key_concepts:
-  - Banking functions: Geographic space bridging and time preference mediation
-  - Great Recession 2008: Banking role in mortgage crisis and economic collapse
-  - Market structure: Concentration ratios and merger activity
-  - Regulatory framework: Glass-Steagall, Dodd-Frank, Basel requirements
-  - Performance measures: Profitability paradox and compensation rents
-  - Antitrust policy: Philadelphia Bank precedent and local market focus
-  - Financial innovation: Mortgage-backed securities, CDOs, credit default swaps
-  - Too big to fail: Government interventions and moral hazard
-  - Shadow banking: Non-traditional financial intermediaries
-  - Banking concentration: Ten largest banks hold 40-50% of core assets
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Collateralized debt obligations (CDO) and tranche structure
+- Basel accords and banking regulation framework
+- Dodd-Frank Act and financial regulation reform
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Auto-Callable Notes and Barrier Options
+- Basel III Regulatory Framework and Capital Requirements
+- Free Cash Flow and Enterprise Value
+- Value at Risk and Expected Shortfall
+- Derivatives Clearing and Volcker Rule
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- Equity-Linked Notes and Market-Linked Securities
+- Delta, Gamma, and Vega Hedging Techniques
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Cost of Equity and Expected Returns
+- Forward Curves and Roll Strategies
+- Regulatory Capital and Stress Testing
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Structured Products and Principal Protection
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Dodd-Frank Act and Financial Regulatory Reform
+- Credit Default Swaps and CDS Pricing
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- Interest Rate Swaps and Currency Swap Structures
+- Private Equity Investment Returns and Value Creation
+- Liquidity Coverage Ratio and Net Stable Funding
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- CDS Spreads and Implied Default Probabilities
+- Credit Spreads and Rating Migration Analysis
+- Market Microstructure and Liquidity Analysis
+- Systemic Risk and Living Wills
+- LBO Valuation and Debt Capacity Analysis
+- Credit Risk Transfer and Synthetic Instruments
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+- Terminal Value and WACC Calculations
+- Discounted Cash Flow Valuation Models
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arch
+- asset-allocation
+- banking-regulation
+- basel-accord
+- bid-ask-spread
+- capital-adequacy
+- caplet
+- cds
+- collateralized-debt-obligation
+- corporate-combinations
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- terminal-value
+- free-cash-flow
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- backwardation
+- net-stable-funding
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- enterprise-value
+- cds-spreads
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- systemic-risk
+- private-equity
+- market-price-of-risk
+- capital-conservation-buffer
+- price-discovery
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dirty-price
+- forward-curves
+- dynamic-hedging
+- monte-carlo-var
+- capital-budgeting
+- options-trading
+- coupon-bonds
+- market-impact
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- regulatory-capital
+- debt-capacity
+- expected-loss
+- wacc
+- market-efficiency
+- delta-hedging
+- quantitative-finance
+- order-flow
+- currency-swaps
+- default-leg
+- market-linked-notes
+- foreign-recurrency
+- cds-arbitrage
+- protective-puts
+- government-bonds
+- systematic-risk
+- investment-return
+- alpha
+- security-market-line
+- probabilty-of-default
+- discounted-cash-flow
+- dcf-valuation
+- liquidity
+- reverse-convertibles
+- gamma-hedging
+- hedge-effectiveness
+- credit-default-swaps
+- idiosyncratic-risk
+- storage-costs
+- living-wills
+- roll-yield
+- cost-of-debt
+- tier-2-capital
+- beta
+- risk-premium
+- put-options
+- cds-coupons
+- countercyclical-buffer
+- affine-term-structure
+- equity-kickers
+- capm
+- lbo-valuation
+- algorithmic-trading
+- momentum
+- basis-risk
+- market-risk-premium
+- regulatory-reform
+- hedge-strategies
+- cds-bond-basis
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- derivatives-clearing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- value-at-risk
+- bootstrap-strategy
+- metals-trading
+- management-buyout
+- risky-continuation
+- volcker-rule
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- barrier-options
+- cross-hedging
+- sum-of-parts
+- seasonality
+- clean-price
+- dodd-frank-act
+- high-frequency-trading
+- principal-protected-notes
+- strangles
+- conditional-var
+- equity-linked-notes
+- fixed-income
+- short-rate-models
+- cost-of-equity
+- swap-spread
+- efficient-frontier
+- credit-migration
+- default-probability
+- marking-to-market
+- auto-callables
+- total-return-swaps
+- libor
+- credit-spreads
+- premium-leg
+- multi-factor-models
+- trading-multiples
+- structured-notes
+- tier-1-capital
+- proprietary-trading
+- iron-condors
+- financial-markets
+- equity-value
+- static-hedging
+- credit-rating-agencies
+- size-effect
+- basis-swaps
+- precedent-transactions
+- knock-out-options
+- stress-tests
+- interest-rate-swaps
+- liquidity-coverage-ratio
+- ipo-valuation
+- basel-iii
+- market-multiple
+- futures-contracts
+- cds-implied-probability
+- apt
+- current-yield
+title: 'HKS: The Banking Industry - Faculty Research Working Paper'
+type: note
 ---
+--
+
+
 
 The Banking Industry Faculty Research Working Paper Series
 

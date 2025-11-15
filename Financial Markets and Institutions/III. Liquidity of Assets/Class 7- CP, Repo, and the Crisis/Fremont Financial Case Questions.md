@@ -1,23 +1,26 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Fremont Financial Case Questions
 tags:
-  - banking_industry
-  - case_study
-  - financial_crisis
-  - fremont_financial
-  - mortgage_loans
+- financial_crisis
+- mortgage_loans
+- banking_industry
+- case_study
+- fremont_financial
 aliases:
-  - FFC Questions
-  - Fremont Case
-  - Fremont Financial
+- FFC Questions
+- Fremont Case
+- Fremont Financial
 key_concepts:
-  - Bank regulatory issues
-  - Financial crisis impact
-  - Fremont Financial history
-  - Risk management failures
-  - Subprime mortgage lending
+- Financial crisis impact
+- Fremont Financial history
+- Subprime mortgage lending
+- Risk management failures
+- Bank regulatory issues
+- Financial markets and instruments overview
+- Risk management and portfolio optimization
+- Quantitative finance and modeling techniques
 ---
 
 # Fremont Financial Case Questions

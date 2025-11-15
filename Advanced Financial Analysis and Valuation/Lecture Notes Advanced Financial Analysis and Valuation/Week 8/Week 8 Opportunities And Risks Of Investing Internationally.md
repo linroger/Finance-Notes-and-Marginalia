@@ -1,13 +1,200 @@
 ---
-title: "Week 8 - Opportunities And Risks Of Investing Internationally"
-linter-yaml-title-alias: "Week 8 - Opportunities And Risks Of Investing Internationally"
-aliases: [International Investing, Investing Abroad, Global Investment Opportunities]
-date created: Tuesday, November 26th 2024, 8:55:15 pm
+academic_level: graduate
+aliases:
+- International Investing
+- Investing Abroad
+- Global Investment Opportunities
 cssclasses: academia
-tags: [currency_risks, diversification_benefits, emerging_markets, fdi_and_ma, international_investments, portfolio_theory, cross_border_mergers, market_integration, home_bias, country_risk, institutional_quality]
-key_concepts: [currency risks and volatility, diversification benefits, emerging market companies, global ma trends, importance of international investments, opportunities of investing abroad, cross border ma, financial integration, portfolio diversification, home bias explanation, international risk measurement, country credit ratings, sovereign spreads, capm adjustments]
+date created: Tuesday, November 26th 2024, 8:55:15 pm
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000285
 instructor: Thomas Rauter
+key_concepts:
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Discounted cash flow (DCF) valuation methodology
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Sharpe ratio and risk-adjusted performance measurement
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Correlation analysis and dependency structures
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Auto-Callable Notes and Barrier Options
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Equity-Linked Notes and Market-Linked Securities
+- Delta, Gamma, and Vega Hedging Techniques
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Cost of Equity and Expected Returns
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Structured Products and Principal Protection
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Fixed Income Securities and Credit Quality
+- Bond Pricing and Yield to Maturity Analysis
+- Dynamic vs Static Hedging in Practice
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: Week 8 - Opportunities And Risks Of Investing Internationally
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- arch
+- asset-allocation
+- banking-regulation
+- basel-accord
+- bid-ask-spread
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-asset-pricing
+- caplet
+- cash-flow-modeling
+- cds
+- continuous-time-pricing
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- volatility-analysis
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- capital-asset-pricing-model
+- arbitrage-pricing-theory
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dirty-price
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- yield-to-maturity
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- vega-hedging
+- expected-loss
+- market-efficiency
+- delta-hedging
+- quantitative-finance
+- order-flow
+- market-linked-notes
+- systematic-risk
+- protective-puts
+- government-bonds
+- alpha
+- security-market-line
+- probabilty-of-default
+- liquidity
+- reverse-convertibles
+- gamma-hedging
+- hedge-effectiveness
+- idiosyncratic-risk
+- beta
+- risk-premium
+- put-options
+- affine-term-structure
+- capm
+- algorithmic-trading
+- momentum
+- basis-risk
+- market-risk-premium
+- hedge-strategies
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- value-at-risk
+- factor-models
+- risk-management
+- var-backtesting
+- barrier-options
+- cross-hedging
+- sum-of-parts
+- clean-price
+- high-frequency-trading
+- principal-protected-notes
+- strangles
+- conditional-var
+- equity-linked-notes
+- fixed-income
+- short-rate-models
+- efficient-frontier
+- credit-migration
+- default-probability
+- auto-callables
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- structured-notes
+- iron-condors
+- financial-markets
+- static-hedging
+- size-effect
+- precedent-transactions
+- knock-out-options
+- ipo-valuation
+- market-multiple
+- apt
+- current-yield
+title: Week 8 - Opportunities And Risks Of Investing Internationally
+type: course-note
 ---
+--
+
+
 
 # Week 8 - Opportunities And Risks Of Investing Internationally
 

@@ -1,3 +1,134 @@
+---
+academic_level: graduate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000183
+key_concepts:
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Duration and Convexity in Fixed Income Risk Management
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Bond Portfolio Immunization Strategies
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Interest Rate Risk and DV01 Calculations
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- asset-allocation
+- banking-regulation
+- basel-accord
+- bid-ask-spread
+- capital-adequacy
+- caplet
+- cds
+- coherent-risk-measure
+- conditional-var
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- debit-valuation-adjustment
+- put-options
+- affine-term-structure
+- recovery-rate
+- hull-white
+- call-options
+- cir-model
+- high-frequency-trading
+- butterfly-spreads
+- momentum
+- strangles
+- curve-flattening
+- expected-shortfall
+- straddles
+- parametric-var
+- convexity
+- extreme-value-theory
+- var-methodologies
+- historical-var
+- book-to-market
+- mean-reversion
+- lognormal-models
+- volatility-analysis
+- covered-calls
+- ' exposure-at-default'
+- dv01
+- style-analysis
+- short-rate-models
+- option-strategies
+- stress-testing
+- arbitrage
+- unexpected-loss
+- ornstein-uhlenbeck
+- modified-duration
+- rating-migration
+- expected-loss
+- price-yield-relationship
+- investment-analysis
+- market-efficiency
+- duration-analysis
+- default-probability
+- credit-migration
+- value-at-risk
+- order-flow
+- credit-spreads
+- interest-rate-risk
+- arbitrage-pricing-theory
+- multi-factor-models
+- iron-condors
+- protective-puts
+- market-price-of-risk
+- financial-markets
+- macaulay-duration
+- probabilty-of-default
+- price-discovery
+- loss-given-default
+- size-effect
+- factor-models
+- liquidity
+- curve-steepening
+- value-factor
+- algorithmic-trading
+- vasicek-model
+- monte-carlo-var
+- barbell-strategy
+- risk-management
+- var-backtesting
+- options-trading
+- market-impact
+- apt
+- risk-premium
+- fama-french
+type: note
+---
+--
+
+
+
 # Bank Risks  
 
 “You got to know when to hold ‘em, know when to fold ‘em. Know when to walk away and know when to run.”  

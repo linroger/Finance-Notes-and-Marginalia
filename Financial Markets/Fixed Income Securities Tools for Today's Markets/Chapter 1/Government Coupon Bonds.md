@@ -1,20 +1,50 @@
 ---
 tags:
-  - bond_pricing
-  - cash_flows
-  - coupon_bonds
-  - government_bonds
-  - us_treasury
+- us_treasury
+- par-value
+- government_bonds
+- maturity
+- repo
+- coupon
+- cash_flows
+- coupon_bonds
+- bond_pricing
+- apt
+- call
+- put
+- bond
+- market
+- treasury
+- roa
 aliases:
-  - Coupon Bonds
-  - Government Bonds
+- Coupon Bonds
+- Government Bonds
 key_concepts:
-  - Bond prices quoted
-  - Cash flows defined
-  - Government coupon bonds
-  - Invoice ask price
-  - US Treasury bonds
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Par Value in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000159
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 1.1 GOVERNMENT COUPON BONDS  
 

@@ -1,36 +1,100 @@
 ---
 cssclasses:
-  - academia
-title: "Case Study of Northern Rock"
-linter-yaml-title-alias: "Case Study of Northern Rock"
+- academia
+title: Case Study of Northern Rock
+linter-yaml-title-alias: Case Study of Northern Rock
 tags:
-  - bank_run
-  - financial_crisis
-  - mortgage_finance
-  - securitization
-  - uk_banking_system
-  - liquidity_crisis
-  - 2007_crisis
-  - bank_nationalization
-  - regulatory_failure
+- efficiency
+- basel-iii
+- stress-test
+- solvency
+- 2007_crisis
+- margin
+- liquidity_crisis
+- bank_nationalization
+- forward
+- dividend
+- risk-management
+- forwards
+- put
+- regulatory-capital
+- caps-floors
+- crisis
+- financial-markets
+- stochastic-calculus
+- basel
+- mortgage
+- measure
+- bank_run
+- mortgage_finance
+- ito
+- diversification
+- financial_crisis
+- capital
+- equity
+- private-equity
+- mbs
+- market
+- model
+- treasury
+- liquidity
+- securitization
+- regulatory_failure
+- sifi
+- banking
+- uk_banking_system
 aliases:
-  - Basel III Case Study
-  - Northern Rock Case Study
-  - UK Banking Woes
-  - "Northern Rock Run"
+- Basel III Case Study
+- Northern Rock Case Study
+- UK Banking Woes
+- Northern Rock Run
 key_concepts:
-  - FSA supervision
-  - liquidity shock
-  - mortgage book growth
-  - regulatory capital requirements
-  - Wholesale funding dependence
-  - Bank run dynamics
-  - UK deposit guarantee scheme
-  - Bank of England intervention
-  - Granite securitization program
-  - Tripartite regulatory system
-  - wholesale-funded model
+- regulatory capital requirements
+- Granite securitization program
+- Bank of England intervention
+- liquidity shock
+- Tripartite regulatory system
+- wholesale-funded model
+- mortgage book growth
+- FSA supervision
+- Wholesale funding dependence
+- UK deposit guarantee scheme
+- Bank run dynamics
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Asset securitization and structured finance
+- Stress testing and scenario analysis
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000003
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Case Study of Northern Rock
 

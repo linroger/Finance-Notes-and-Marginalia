@@ -1,3 +1,76 @@
+---
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Chapter 7. External Economies of Scale and the International Location of Production
+  and financial analysis
+- Chapter 7. External Economies of Scale and the International Location of Production
+  in modern finance
+- Applications of Chapter 7. External Economies of Scale and the International Location
+  of Production
+- 'Case study: Chapter 7. External Economies of Scale and the International Location
+  of Production'
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+tags:
+- efficiency
+- eur
+- forward
+- swaps
+- risk-management
+- irs
+- oil
+- put
+- trading
+- american
+- bond
+- gold
+- futures
+- spread
+- measure
+- options
+- pandemic
+- ito
+- statement
+- comparable
+- repo
+- covid
+- capital
+- european
+- risk
+- apt
+- call
+- liquidity
+- var
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000539
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # External Economies of Scale and the International Location of Production  
 
 I n Chapter 3, we pointed out that there are two reasons why countries specialize and trade. First, countries differ either in their resources or in their technology and specialize in the things they do relatively well; second, economies of scale (or increasing returns) make it advantageous for each country to specialize in the production of only a limited range of goods and services. Chapters 3 through 6 considered models in which all trade is based on comparative advantage; that is, differences between countries are the only reason for trade. This chapter introduces the role of economies of scale.  

@@ -1,26 +1,143 @@
 ---
-title: An Introduction to Interest Rate Term Structure in QuantLib Python
-source: 
-  https://gouthamanbalaraman.com/blog/quantlib-term-structure-bootstrap-yield-curve.html
+academic_level: graduate
+aliases:
+- Interest Rate Term Structure
+- QuantLib Python
+- Yield Curve Bootstrapping
 description: This post will walk through the basics of bootstrapping yield curve in
   QuantLib Python.
-tags:
-  - bond_pricing
-  - bootstrapping
-  - interest_rate_term_structure
-  - quantlib_python
-  - yield_curve
-aliases:
-  - Interest Rate Term Structure
-  - QuantLib Python
-  - Yield Curve Bootstrapping
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000043
 key_concepts:
-  - Bootstrapping yield curve
-  - Coupon bonds
-  - Pricing securities
-  - QuantLib Python basics
-  - Spot rates
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Bootstrap methods and yield curve construction
+- QuantLib library and quantitative finance implementation
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Forward Rates and Curve Construction Methods
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Risk Measurement and VaR Backtesting
+- Fixed Income Securities and Credit Quality
+- Bond Pricing and Yield to Maturity Analysis
+- Private Equity Investment Returns and Value Creation
+- Term Structure of Interest Rates and Yield Curves
+- Option Valuation and Exercise Strategies
+- LBO Valuation and Debt Capacity Analysis
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+professional_application: theoreti
+source: https://gouthamanbalaraman.com/blog/quantlib-term-structure-bootstrap-yield-curve.html
+status: active
+tags:
+- asset-allocation
+- bootstrap-method
+- capital-structure
+- caplet
+- cash-flow-modeling
+- convexity-adjustment
+- cost-of-capital
+- credit-rating
+- dcf-valuation
+- derivatives-pricing
+- discount-factor-curve
+- discounted-cash-flow
+- duration-analysis
+- financial-modeling
+- fixed-income-sensitivity
+- spot-rates
+- put-options
+- leveraged-buyout
+- affine-term-structure
+- hull-white
+- sum-of-parts
+- call-options
+- zero-coupon-bonds
+- clean-price
+- yield-curve-shocks
+- cir-model
+- lbo-valuation
+- butterfly-spreads
+- dcf-analysis
+- strangles
+- price-to-earnings
+- expected-shortfall
+- straddles
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- lognormal-models
+- fixed-income
+- var-methodologies
+- historical-var
+- mean-reversion
+- term-structure
+- covered-calls
+- short-rate-models
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- yield-curve
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- debt-capacity
+- par-yield
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- quantitative-finance
+- risk-premium
+- interpolation
+- forward-curve
+- value-at-risk
+- trading-multiples
+- bootstrap-strategy
+- private-equity
+- investment-return
+- iron-condors
+- protective-puts
+- government-bonds
+- market-price-of-risk
+- management-buyout
+- financial-markets
+- precedent-transactions
+- vasicek-model
+- dirty-price
+- curve-fitting
+- ipo-valuation
+- equity-kickers
+- monte-carlo-var
+- var-backtesting
+- options-trading
+- coupon-bonds
+- market-multiple
+- current-yield
+- yield-to-maturity
+- forward-rates
+title: An Introduction to Interest Rate Term Structure in QuantLib Python
+type: note
 ---
+--
+
+
 
 # An Introduction to Interest Rate Term Structure in QuantLib Python
 

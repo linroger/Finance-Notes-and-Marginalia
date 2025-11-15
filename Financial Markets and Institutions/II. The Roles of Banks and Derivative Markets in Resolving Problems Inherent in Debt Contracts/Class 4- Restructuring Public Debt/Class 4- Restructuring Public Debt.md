@@ -1,37 +1,45 @@
 ---
 cssclasses:
-  - academia
-title: "Class 4: Restructuring Public Debt"
+- academia
+title: 'Class 4: Restructuring Public Debt'
 tags:
-  - bankruptcy
-  - bond_markets
-  - case_studies
-  - corporate_restructuring
-  - debt_restructuring
-  - exchange_offers
-  - exit_consents
-  - public_finance
-  - sovereign_debt
-  - coercive_exchanges
-  - holdout_problem
-  - trust_indenture_act
+- asset-allocation
+- banking-regulation
+- basel-accord
+- capital-adequacy
+- capital-structure
+- caplet
+- cash-flow-modeling
+- convexity-adjustment
+- cost-of-capital
+- credit-rating
+- dcf-valuation
+- debt-equity-mix
+- discounted-cash-flow
+- duration-analysis
+- fixed-income-sensitivity
 aliases:
-  - Class 4 Restructuring
-  - Public Debt Restructuring
-  - Debt Restructuring Outside Bankruptcy
+- Class 4 Restructuring
+- Public Debt Restructuring
+- Debt Restructuring Outside Bankruptcy
 key_concepts:
-  - Bankruptcy process
-  - Bond markets
-  - Debt restructuring
-  - Exchange offers
-  - Sovereign debt
-  - Coercive exchange offers
-  - Exit consents
-  - Trust Indenture Act
-  - Holdout problem
-  - CIT Group restructuring
-  - Greece bond swap
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
 
 # Class 4: Restructuring Public Debt
 %% Begin Waypoint %%

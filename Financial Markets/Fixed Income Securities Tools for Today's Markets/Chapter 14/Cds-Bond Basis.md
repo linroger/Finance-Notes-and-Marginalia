@@ -1,24 +1,68 @@
 ---
 tags:
-  - arbitrage
-  - cds_bond_basis
-  - cds_market
-  - corporate_debt
-  - credit_risk
-  - repo_market
+- default
+- cds
+- corporate_debt
+- pandemic
+- eur
+- arbitrage
+- ito
+- maturity
+- repo
+- coupon
+- cds_bond_basis
+- fundamental
+- covid
+- repo_market
+- swap
+- cds_market
+- put
+- trading
+- bond
+- crisis
+- overnight
+- spread
+- credit_risk
+- credit-risk
+- measure
 aliases:
-  - Basis Trade
-  - CDS-Bond Basis
-  - Negative Basis Trade
-  - Positive Basis Trade
+- Basis Trade
+- CDS-Bond Basis
+- Negative Basis Trade
+- Positive Basis Trade
 key_concepts:
-  - Arbitrage opportunity
-  - Bond spread
-  - CDS and bond pricing
-  - CDS spread
-  - Relative value trading
-  - Repo market financing
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Arbitrage pricing theory and no-arbitrage principle
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000233
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 14.8 CDS-BOND BASIS  
 

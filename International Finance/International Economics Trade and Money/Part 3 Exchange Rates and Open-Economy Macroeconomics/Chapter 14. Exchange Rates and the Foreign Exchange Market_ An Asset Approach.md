@@ -1,3 +1,85 @@
+---
+key_concepts:
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Chapter 14. Exchange Rates and the Foreign Exchange Market_ An Asset Approach and
+  financial analysis
+- Chapter 14. Exchange Rates and the Foreign Exchange Market_ An Asset Approach in
+  modern finance
+- Applications of Chapter 14. Exchange Rates and the Foreign Exchange Market_ An Asset
+  Approach
+- 'Case study: Chapter 14. Exchange Rates and the Foreign Exchange Market_ An Asset
+  Approach'
+- Arbitrage pricing theory and no-arbitrage principle
+- Carry Trade in financial markets
+- Correlation modeling and dependency structures
+- Covered Interest in financial markets
+- Credit default probability and recovery modeling
+- Delta hedging strategies in options markets
+- Exchange Rate in financial markets
+- Forward Rate in financial markets
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Spot Rate in financial markets
+- Uncovered Interest in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+tags:
+- delta
+- eur
+- volatility
+- multiple
+- hedge
+- probability
+- basis
+- commodity
+- forward
+- swaps
+- future
+- implied
+- swap
+- regulation
+- dividend
+- pricing
+- correlation
+- interest-rates
+- option
+- covered-interest
+- put
+- trading
+- american
+- bond
+- futures
+- options
+- theta
+- roll
+- call
+- liquidity
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000523
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # CHAPTER 14  
 
 # Exchange Rates and the Foreign Exchange Market: An Asset Approach  

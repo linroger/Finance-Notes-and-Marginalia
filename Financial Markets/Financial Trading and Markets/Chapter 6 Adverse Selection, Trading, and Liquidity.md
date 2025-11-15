@@ -1,22 +1,75 @@
 ---
 tags:
-  - adverse_selection
-  - asset_pricing
-  - bid_ask_spread
-  - liquidity
-  - market_microstructure
-  - trading
+- efficiency
+- strangle
+- market_microstructure
+- volatility
+- multiple
+- bid_ask_spread
+- adverse_selection
+- probability
+- margin
+- discount-rate
+- forward
+- momentum
+- future
+- implied
+- regulation
+- dividend
+- time-value
+- pricing
+- straddle
+- option
+- counterparty
+- correlation
+- covariance
+- trading
+- asset_pricing
+- liquidity
 aliases:
-  - Chapter 6
-  - Market Microstructure
-  - Trading and Liquidity
+- Chapter 6
+- Market Microstructure
+- Trading and Liquidity
 key_concepts:
-  - Adverse selection and trading
-  - Bid-ask spread and asset pricing
-  - Liquidity and spreads
-  - Market microstructure impacts prices
-  - Trader information asymmetry
+- Option valuation and hedging strategies
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Market liquidity and microstructure effects
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Financial derivatives pricing and valuation
+- Arbitrage pricing theory and no-arbitrage principle
+- Bid Ask in financial markets
+- Capital Asset Pricing Model and risk-return tradeoff
+- Correlation modeling and dependency structures
+- Discount Rate in financial markets
+- Exchange Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Time Value in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000272
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Adverse Selection, Trading, and Liquidity  
 

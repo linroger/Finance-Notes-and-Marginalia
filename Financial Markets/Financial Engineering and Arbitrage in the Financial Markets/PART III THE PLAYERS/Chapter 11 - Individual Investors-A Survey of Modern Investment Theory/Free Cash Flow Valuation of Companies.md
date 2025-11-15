@@ -1,22 +1,71 @@
 ---
 tags:
-  - company_valuation
-  - cost_of_equity
-  - discounting
-  - fcfe
-  - fcff
-  - free_cash_flow
+- delta
+- leverage
+- company_valuation
+- risk-free
+- multiple
+- fcff
+- margin
+- arma
+- wacc
+- cost_of_equity
+- future
+- discounting
+- dividend
+- free-cash-flow
+- pricing
+- distribution
+- option
+- intrinsic
+- free_cash_flow
+- put
+- fcfe
+- bond
+- factor-model
+- capm
+- measure
+- valuation
 aliases:
-  - Company Valuation
-  - FCF Valuation
-  - Free Cash Flow
+- Company Valuation
+- FCF Valuation
+- Free Cash Flow
 key_concepts:
-  - Discount rate for equity
-  - Dividends vs FCFE vs FCFF
-  - Perpetual stock valuation
-  - Present value of cash flows
-  - Stock cash flow definitions
+- Option Greeks and risk sensitivities
+- Option valuation and hedging strategies
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Banking and credit intermediation
+- Bank balance sheet management
+- Capital Asset Pricing Model and risk-return tradeoff
+- Credit default probability and recovery modeling
+- Delta hedging strategies in options markets
+- Ev Ebitda in financial markets
+- Factor Model in financial markets
+- Free Cash Flow in financial markets
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Market Risk in financial markets
+- P E in financial markets
+- Risk Free in financial markets
+- Terminal Value in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000359
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 11.2  FREE CASH FLOW VALUATION OF COMPANIES  
 

@@ -1,36 +1,215 @@
 ---
-cssclasses: academia
-title: Advanced Data Analysis with Python
-source: https://blog.enterprisedna.co/advanced-data-analysis-with-python/
-description:
-tags:
-  - big_data
-  - data_analysis
-  - data_preprocessing
-  - data_visualization
-  - data_wrangling
-  - exploratory_data_analysis
-  - pyspark
-  - python
-  - sql_queries
-  - time_series
+academic_level: graduate
 aliases:
-  - Data Analysis
-  - Pandas
-  - PySpark
-  - Python for Data
-  - SQLAlchemy
+- Data Analysis
+- Pandas
+- PySpark
+- Python for Data
+- SQLAlchemy
+cssclasses: academia
+description: null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000032
 key_concepts:
-  - Advanced Data Structures
-  - Advanced SQL Queries
-  - Big Data Analysis
-  - Data Cleaning Techniques
-  - Data Wrangling Tasks
-  - Efficient Data Manipulation
-  - Exploratory Data Analysis
-  - Interactive Visualizations
-  - Time Series Analysis
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Auto-Callable Notes and Barrier Options
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Machine Learning in Quantitative Finance
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- Equity-Linked Notes and Market-Linked Securities
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Forward Curves and Roll Strategies
+- Neural Networks and Deep Learning Applications
+- Structured Products and Principal Protection
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Time Series Analysis in Financial Markets
+- Fama-French Factors and Style Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Interest Rate Swaps and Currency Swap Structures
+- Cointegration and Statistical Arbitrage
+- Algorithmic Trading and Backtesting
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- GARCH Models and Volatility Forecasting
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+source: https://blog.enterprisedna.co/advanced-data-analysis-with-python/
+status: active
+tags:
+- ai-finance
+- arbitrage-opportunity
+- arbitrage-pricing
+- arima
+- binomial-model
+- black-scholes-model
+- capital-asset-pricing
+- capital-structure
+- caplet
+- cash-flow-modeling
+- charting
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- leveraged-buyout
+- asset-allocation
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- option-strategies
+- unexpected-loss
+- clearinghouse
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- machine-learning
+- deep-learning
+- support-vector-machines
+- feature-selection
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- forward-curves
+- monte-carlo-var
+- options-trading
+- commodity-trading
+- forward-contracts
+- stationarity
+- price-to-earnings
+- fama-french
+- neural-networks
+- recovery-rate
+- garch
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- unit-roots
+- expected-loss
+- quantitative-finance
+- currency-swaps
+- market-linked-notes
+- protective-puts
+- probabilty-of-default
+- reverse-convertibles
+- storage-costs
+- roll-yield
+- risk-premium
+- put-options
+- affine-term-structure
+- momentum
+- basis-risk
+- volatility-modeling
+- regime-switching
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- value-at-risk
+- out-of-sample
+- metals-trading
+- kalman-filter
+- backtesting
+- cross-validation
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- arima-models
+- barrier-options
+- state-space-models
+- sum-of-parts
+- seasonality
+- principal-protected-notes
+- strangles
+- equity-linked-notes
+- cointegration
+- short-rate-models
+- random-forests
+- swap-spread
+- credit-migration
+- default-probability
+- marking-to-market
+- auto-callables
+- total-return-swaps
+- libor
+- credit-spreads
+- granger-causality
+- multi-factor-models
+- trading-multiples
+- structured-notes
+- iron-condors
+- financial-markets
+- size-effect
+- basis-swaps
+- precedent-transactions
+- knock-out-options
+- interest-rate-swaps
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+- ensemble-methods
+- credit-default-swaps
+title: Advanced Data Analysis with Python
+type: note
 ---
+--
+
+
 
 # Advanced Data Analysis with Python
 

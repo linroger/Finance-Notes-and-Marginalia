@@ -1,19 +1,66 @@
 ---
 tags:
-  - credit_derivatives
-  - poisson_model
-  - risk_neutral
-  - single_issuer_default
-  - survival_probability
+- default
+- cds
+- risk-free
+- poisson_model
+- probability
+- survival_probability
+- margin
+- maturity
+- coupon
+- forward
+- implied
+- single_issuer_default
+- swap
+- yield-curve
+- libor
+- credit_derivatives
+- pricing
+- risk_neutral
+- correlation
+- distribution
+- put
+- bond
+- spread
+- stochastic
+- valuation
 aliases:
-  - Poisson default model
+- Poisson default model
 key_concepts:
-  - Poisson process
-  - credit derivative pricing
-  - default intensity
-  - risk-neutral setting
-  - survival probability
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Financial derivatives pricing and valuation
+- Model calibration and parameter estimation
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- LIBOR transition and benchmark rate reform
+- Risk Free in financial markets
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000304
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 7.4 A POISSON MODEL OF SINGLE ISSUER DEFAULT  
 

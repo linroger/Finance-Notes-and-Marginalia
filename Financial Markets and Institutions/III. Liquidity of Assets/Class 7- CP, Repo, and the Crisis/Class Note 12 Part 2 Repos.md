@@ -1,37 +1,62 @@
 ---
 cssclasses:
-  - academia
-title: "Class Note 12 Part 2: Repos"
-linter-yaml-title-alias: "Class Note 12 Part 2: Repos"
+- academia
+title: 'Class Note 12 Part 2: Repos'
+linter-yaml-title-alias: 'Class Note 12 Part 2: Repos'
 tags:
-  - collateralized_borrowing
-  - interest_rate
-  - margin
-  - repo_market
-  - security_trading
-  - haircuts
-  - tri_party_repo
-  - bilateral_repo
-  - repo_run
-  - shadow_banking
+- bilateral_repo
+- margin
+- security_trading
+- repo_market
+- interest_rate
+- haircuts
+- tri_party_repo
+- collateralized_borrowing
+- repo_run
+- shadow_banking
+- caps-floors
+- distressed
+- private-equity
+- financial-markets
+- risk-management
+- banking
+- financial-crisis
+- repo
+- credit-spread
+- tracking-error
 aliases:
-  - Collateralized Borrowing
-  - Repo
-  - Repos
-  - Repurchase Agreement
-  - "Repo Markets"
+- Collateralized Borrowing
+- Repo
+- Repos
+- Repurchase Agreement
+- Repo Markets
 key_concepts:
-  - Collateralized borrowing of cash
-  - Margin protects lenders
-  - Market value of security
-  - Repo agreement elements
-  - Haircuts and overcollateralization
-  - Tri-party repo structure
-  - Bilateral repo market
-  - Repo market runs
-  - Clearing bank role
-  - Term repos vs overnight
-  - Subprime mortgage security
+- Repo agreement elements
+- Margin protects lenders
+- Tri-party repo structure
+- Bilateral repo market
+- Clearing bank role
+- Market value of security
+- Haircuts and overcollateralization
+- Subprime mortgage security
+- Term repos vs overnight
+- Collateralized borrowing of cash
+- Repo market runs
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
 ---
 
 # Class Note 12 Part 2: Repos

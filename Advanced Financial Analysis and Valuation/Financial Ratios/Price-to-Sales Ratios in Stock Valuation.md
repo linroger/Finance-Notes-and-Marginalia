@@ -1,29 +1,138 @@
 ---
-title: Price-to-Sales Ratios in Stock Valuation
-tags:
-  - financial_ratios
-  - growth_stocks
-  - price_sales_ratio
-  - ps_ratio
-  - stock_valuation
-  - valuation_metrics
-  - corporate_finance
 aliases:
-  - P/S
-  - P/S Ratio
-  - Price/Sales
+- P/S
+- P/S Ratio
+- Price/Sales
 cssclasses:
-  - academia
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000236
 key_concepts:
-  - Company revenue assessment
-  - Low P/S indicating potential undervaluation
-  - Market capitalization relationship to sales
-  - Stock valuation for unprofitable or growth companies
-  - Industry-specific comparative analysis
-  - Debt consideration in P/S interpretation
-  - Enterprise value/sales alternative metric
-  - Profit margin correlation with sales metrics
+- Company revenue assessment
+- Low P/S indicating potential undervaluation
+- Market capitalization relationship to sales
+- Stock valuation for unprofitable or growth companies
+- Industry-specific comparative analysis
+- Debt consideration in P/S interpretation
+- Enterprise value/sales alternative metric
+- Profit margin correlation with sales metr
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Free Cash Flow and Enterprise Value
+- Value at Risk and Expected Shortfall
+- Company Valuation and Multiple Analysis
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- Distressed Investing and Debt Restructuring
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Credit Default Swaps and CDS Pricing
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- CDS Spreads and Implied Default Probabilities
+- Credit Spreads and Rating Migration Analysis
+- Credit Risk Transfer and Synthetic Instruments
+- Factor Models and Asset Pricing
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Terminal Value and WACC Calculations
+- Discounted Cash Flow Valuation Models
+- Arbitrage Pricing Theory and Multi-Factor Models
+tags:
+- financial_ratios
+- growth_stocks
+- price_sales_ratio
+- ps_ratio
+- stock_valuation
+- valuation_metrics
+- corporate_finance
+- leveraged-buyout
+- terminal-value
+- free-cash-flow
+- dcf-analysis
+- expected-shortfall
+- extreme-value-theory
+- book-to-market
+- exchange-offers
+- backwardation
+- style-analysis
+- cramdown
+- unexpected-loss
+- clearinghouse
+- debt-restructuring
+- enterprise-value
+- cds-spreads
+- arbitrage-pricing-theory
+- hedge-ratio
+- loss-given-default
+- value-factor
+- distressed-investing
+- monte-carlo-var
+- capital-budgeting
+- forward-contracts
+- price-to-earnings
+- fama-french
+- recovery-rate
+- parametric-var
+- var-methodologies
+- historical-var
+- contango
+- expected-loss
+- wacc
+- default-leg
+- foreign-recurrency
+- cds-arbitrage
+- probabilty-of-default
+- discounted-cash-flow
+- dcf-valuation
+- roll-yield
+- cost-of-debt
+- cds-coupons
+- momentum
+- basis-risk
+- cds-bond-basis
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- blocker-strategy
+- risky-continuation
+- factor-models
+- creditor-committees
+- convergence
+- var-backtesting
+- tender-offers
+- sum-of-parts
+- ' DIP-financing'
+- conditional-var
+- cost-of-equity
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- premium-leg
+- multi-factor-models
+- trading-multiples
+- financial-markets
+- equity-value
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- cds-implied-probability
+- apt
+- credit-default-swaps
+title: Price-to-Sales Ratios in Stock Valuation
 ---
+--
 
 # Price-to-Sales Ratios in Stock Valuation
 

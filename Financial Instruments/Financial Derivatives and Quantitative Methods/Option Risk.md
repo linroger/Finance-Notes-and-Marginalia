@@ -1,22 +1,150 @@
 ---
-title: Option Risk
-tags:
-  - binomial_model
-  - call_option
-  - elasticity
-  - option_risk
-  - volatility
+academic_level: graduate
 aliases:
-  - Option Risk
-  - Option Risk Notes
-  - Risk of an Option
+- Option Risk
+- Option Risk Notes
+- Risk of an Option
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000085
 key_concepts:
-  - Binomial model risk
-  - Call option elasticity
-  - Expected return calculation
-  - Option risk and CAPM
-  - Stock volatility
+- Black-Scholes option pricing model and continuous-time finance
+- Binomial option pricing model and lattice methods
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Beta estimation and systematic risk measurement
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Beta estimation and systematic risk measurement
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Capital Asset Pricing Model and Beta Analysis
+- Delta, Gamma, and Vega Hedging Techniques
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Cost of Equity and Expected Returns
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Dynamic vs Static Hedging in Practice
+- American Option Pricing and Early Exercise Premium
+- Option Valuation and Exercise Strategies
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- asset-allocation
+- banking-regulation
+- basel-accord
+- beta-estimation
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-asset-pricing
+- capital-budgeting
+- caplet
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- binomial-tree
+- straddles
+- extreme-value-theory
+- american-options
+- book-to-market
+- volatility-analysis
+- style-analysis
+- option-strategies
+- capital-asset-pricing-model
+- arbitrage-pricing-theory
+- market-price-of-risk
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- fama-french
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- vega-hedging
+- delta-hedging
+- quantitative-finance
+- crr-model
+- systematic-risk
+- protective-puts
+- alpha
+- security-market-line
+- gamma-hedging
+- hedge-effectiveness
+- idiosyncratic-risk
+- risk-premium
+- beta
+- put-options
+- affine-term-structure
+- multi-period-binomial
+- capm
+- momentum
+- basis-risk
+- market-risk-premium
+- discrete-time-pricing
+- hedge-strategies
+- covered-calls
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- investment-analysis
+- portfolio-optimization
+- value-at-risk
+- factor-models
+- risk-management
+- var-backtesting
+- cross-hedging
+- lattice-models
+- strangles
+- cox-ross-rubinstein
+- short-rate-models
+- optional-exercise
+- efficient-frontier
+- binomial-option-pricing
+- multi-factor-models
+- iron-condors
+- financial-markets
+- static-hedging
+- size-effect
+- ' recombining-trees'
+- apt
+title: Option Risk
+type: note
 ---
+--
+
+
 
 # Option Risk
 

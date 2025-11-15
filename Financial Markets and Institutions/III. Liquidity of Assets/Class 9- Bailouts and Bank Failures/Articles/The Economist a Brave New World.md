@@ -1,21 +1,70 @@
 ---
 title: The Economist a Brave New World
 tags:
-  - banking
-  - cbdc
-  - digital_currency
-  - financial_services
-  - monetary_policy
+- regression-discontinuity
+- tracking-error
+- digital_currency
+- regression-analysis
+- credit-spread
+- digital
+- capital
+- financial-crisis
+- monetary_policy
+- risk-management
+- private-equity
+- credit
+- market
+- financial_services
+- caps-floors
+- cap-floor
+- currency
+- trading
+- cbdc
+- financial-markets
+- esg
+- fail
+- chinese-markets
+- banking
+- crisis
+- spread
+- collateral
+- dark-pool
+- mean-reversion
+- machine-learning
 aliases:
-  - A Brave New World
-  - The Economist
+- A Brave New World
+- The Economist
 key_concepts:
-  - central bank digital currencies
-  - cheaper and fairer finance
-  - payment technologies upending finance
-  - reduce banks' traditional role
-  - threaten privacy and sovereignty
+- reduce banks' traditional role
+- payment technologies upending finance
+- threaten privacy and sovereignty
+- central bank digital currencies
+- cheaper and fairer finance
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000015
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # The Economist a Brave New World
 ## A Brave New World

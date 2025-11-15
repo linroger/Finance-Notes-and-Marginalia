@@ -1,23 +1,71 @@
 ---
 tags:
-  - black_scholes_merton
-  - coupon_bond
-  - dividend_payments
-  - european_call_option
-  - no_arbitrage
+- delta
+- no_arbitrage
+- black_scholes_merton
+- eur
+- volatility
+- arbitrage
+- probability
+- margin
+- european_call_option
+- coupon_bond
+- forward
+- future
+- swap
+- dividend
+- gamma
+- pricing
+- correlation
+- option
+- covariance
+- distribution
+- put
+- bond
+- dividend_payments
+- measure
+- brownian
 aliases:
-  - Exercise 12.1
-  - Exercise 12.2
-  - Exercise 12.3
-  - Exercise 12.4
-  - Exercise 12.5
+- Exercise 12.1
+- Exercise 12.2
+- Exercise 12.3
+- Exercise 12.4
+- Exercise 12.5
 key_concepts:
-  - Black-Scholes-Merton equation
-  - European call option pricing
-  - coupon bond futures price
-  - dividend payment impact
-  - no-arbitrage option price
+- Black-Scholes model and option pricing theory
+- Option Greeks and risk sensitivities
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Arbitrage pricing theory and no-arbitrage principle
+- Black-Scholes option pricing model and its applications
+- Correlation modeling and dependency structures
+- Delta hedging strategies in options markets
+- Gamma risk and convexity adjustments in options
+- Interest Rate in financial markets
+- Swaption pricing and interest rate option strategies
+- Volatility modeling and implied volatility surfaces
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000395
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 12.7 Exercises  
 

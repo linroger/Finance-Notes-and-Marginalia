@@ -1,23 +1,247 @@
 ---
-tags:
-  - downside_risk
-  - european_option
-  - no_arbitrage
-  - protective_put
-  - put_call_parity
-  - stock_index_options
+academic_level: graduate
 aliases:
-  - Car Insurance
-  - Protective Put
-  - S&P 500
-  - Stock-XYZ
+- Car Insurance
+- Protective Put
+- S&P 500
+- Stock-XYZ
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000392
 key_concepts:
-  - European put option
-  - downside risk control
-  - protective put
-  - put call parity
-  - stock index options
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Collateralized debt obligations (CDO) and tranche structure
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Beta estimation and systematic risk measurement
+- Factor models and multi-factor pricing
+- Beta estimation and systematic risk measurement
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Auto-Callable Notes and Barrier Options
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Variance Reduction Techniques in Monte Carlo Methods
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- Equity-Linked Notes and Market-Linked Securities
+- Delta, Gamma, and Vega Hedging Techniques
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Cost of Equity and Expected Returns
+- Stochastic Integration and Path-Dependent Options
+- Forward Curves and Roll Strategies
+- Black-Scholes Option Pricing Model and Its Applications
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Structured Products and Principal Protection
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Factor Models and Asset Pricing
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- Interest Rate Swaps and Currency Swap Structures
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Hedging Strategies and Risk Mitigation
+- Monte Carlo Simulation Methods for Derivative Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- asset-allocation
+- banking-regulation
+- barrier-options
+- basel-accord
+- beta-estimation
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-asset-pricing
+- capital-budgeting
+- caplet
+- cds
+- coherent-risk-measure
+- control-variates
+- exotic-options
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- partial-differential-equation
+- risk-neutral-valuation
+- backwardation
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- monte-carlo-simulation
+- hedge-ratio
+- market-price-of-risk
+- volatility-surface
+- price-discovery
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dirty-price
+- forward-curves
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- bsm-model
+- recovery-rate
+- zero-coupon-bonds
+- black-scholes-formula
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- random-walks
+- expected-loss
+- market-efficiency
+- delta-hedging
+- order-flow
+- currency-swaps
+- market-linked-notes
+- bid-ask-spread
+- systematic-risk
+- protective-puts
+- government-bonds
+- alpha
+- security-market-line
+- probabilty-of-default
+- liquidity
+- reverse-convertibles
+- credit-default-swaps
+- gamma-hedging
+- hedge-effectiveness
+- idiosyncratic-risk
+- storage-costs
+- roll-yield
+- beta
+- risk-premium
+- put-options
+- affine-term-structure
+- capm
+- algorithmic-trading
+- momentum
+- basis-risk
+- market-risk-premium
+- hedge-strategies
+- antithetic-variates
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- ornstein-uhlenbeck
+- rating-migration
+- investment-analysis
+- portfolio-optimization
+- path-dependency
+- value-at-risk
+- metals-trading
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- stochastic-integration
+- variance-reduction
+- cross-hedging
+- seasonality
+- european-options
+- clean-price
+- high-frequency-trading
+- principal-protected-notes
+- strangles
+- conditional-var
+- equity-linked-notes
+- fixed-income
+- short-rate-models
+- least-squares-mc
+- swap-spread
+- efficient-frontier
+- credit-migration
+- default-probability
+- marking-to-market
+- auto-callables
+- total-return-swaps
+- libor
+- credit-spreads
+- multi-factor-models
+- ito-calculus
+- structured-notes
+- iron-condors
+- option-pricing
+- financial-markets
+- static-hedging
+- size-effect
+- basis-swaps
+- knock-out-options
+- interest-rate-swaps
+- lognormal-distribution
+- futures-contracts
+- quasi-monte-carlo
+- apt
+- current-yield
+type: note
 ---
+--
+
+
+
 # Uses of Options  
 
 # Aims  

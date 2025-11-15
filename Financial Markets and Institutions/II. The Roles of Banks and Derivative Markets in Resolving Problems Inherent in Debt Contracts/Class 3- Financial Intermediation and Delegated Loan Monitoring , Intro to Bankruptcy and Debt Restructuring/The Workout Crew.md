@@ -2,32 +2,44 @@
 title: The Workout Crew
 cssclasses: academia
 tags:
-  - banking_fraternity
-  - business_failures
-  - nonperforming_loans
-  - workout_crew
-  - workout_officer
-  - debt_restructuring
-  - bank_control
-  - troubled_companies
-  - loan_recovery
-  - financial_distress
-  - turnaround_management
-  - special_assets
-  - problem_loans
-  - workout_specialists
-  - institutional_recovery
+- arch
+- asset-allocation
+- banking-regulation
+- basel-accord
+- capital-adequacy
+- caplet
+- cds
+- coherent-risk-measure
+- collateral-rates
+- conditional-var
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
 aliases:
-  - black hats
-  - morticians
-  - surgeons
+- black hats
+- morticians
+- surgeons
 key_concepts:
-  - bank control
-  - banking fraternity
-  - business loan
-  - nonperforming loans
-  - workout specialists
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
 
 # The Workout Crew
 

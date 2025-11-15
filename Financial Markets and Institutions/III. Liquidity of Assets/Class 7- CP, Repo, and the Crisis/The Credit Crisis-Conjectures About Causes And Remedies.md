@@ -2,24 +2,105 @@
 linter-yaml-title-alias: 'The Credit Crisis: Conjectures About Causes And Remedies'
 title: 'The Credit Crisis: Conjectures About Causes And Remedies'
 tags:
-  - asset_prices
-  - credit_crisis
-  - financial_crisis
-  - subprime_loans
-  - us_financial_sector
+- leverage
+- volatility
+- solvency
+- cdos
+- hedge
+- lehman
+- margin
+- future
+- subprime_loans
+- regulation
+- risk-management
+- leveraged-buyout
+- option
+- hedging
+- put
+- regulatory-capital
+- mertons-model
+- caps-floors
+- tranche
+- hedge-fund
+- financial-markets
+- stochastic-calculus
+- bond
+- tail-risk
+- crisis
+- overnight
+- asset_prices
+- spread
+- credit-risk
+- measure
+- mortgage
+- high-yield
+- financial_crisis
+- credit_crisis
+- us_financial_sector
+- distressed
+- private-equity
+- capital-structure
+- hedge-funds
+- banking
 aliases:
-  - Causes and Remedies
-  - Credit Crisis
-  - Douglas W. Diamond
-  - Raghuram G. Rajan
+- Causes and Remedies
+- Credit Crisis
+- Douglas W. Diamond
+- Raghuram G. Rajan
 key_concepts:
-  - asset price depression
-  - emerging market crises
-  - financial crisis causes
-  - misallocation of resources
-  - securitization of loans
-  - subprime loan buyers
+- emerging market crises
+- subprime loan buyers
+- financial crisis causes
+- securitization of loans
+- misallocation of resources
+- asset price depression
+- Arbitrage pricing theory and fundamental theorem of asset pricing
+- Market efficiency hypotheses and their implications for investment strategies
+- No-arbitrage conditions in financial markets
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Arbitrage pricing theory and no-arbitrage principle
+- Bear Stearns in financial markets
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Asset securitization and structured finance
+- Tail Risk in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000001
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # The Credit Crisis-Conjectures About Causes And Remedies
 

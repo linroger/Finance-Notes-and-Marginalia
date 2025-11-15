@@ -1,15 +1,55 @@
 ---
 tags:
-  - '#asset_pricing'
-  - '#asset_returns'
-  - '#brownian_motion'
-  - '#geometric_brownian_motion'
-  - '#law_of_iterated_expectations'
-  - '#ordinary_differential_equation'
-  - '#return_variance'
-  - '#stochastic_process'
-  - '#two_period_economy'
+- volatility
+- '#law_of_iterated_expectations'
+- '#asset_pricing'
+- future
+- '#stochastic_process'
+- dividend
+- '#return_variance'
+- correlation
+- distribution
+- covariance
+- '#two_period_economy'
+- apt
+- '#ordinary_differential_equation'
+- '#geometric_brownian_motion'
+- variance
+- '#asset_returns'
+- var
+- stochastic
+- '#brownian_motion'
+- brownian
+key_concepts:
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Correlation modeling and dependency structures
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000386
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
 # 2.8 Exercises  
 
 EXERCISE 2.1 In the two-period economy illustrated in Figures 2.1 and 2.2 consider an asset paying a dividend at time 2 given by  

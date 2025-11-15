@@ -1,25 +1,177 @@
 ---
-cssclasses:
-  - academia
-title: Overnight Index Swaps (Is)
-tags:
-  - day_count_convention
-  - federal_funds_rate
-  - floating_rate
-  - overnight_index_swaps
-  - sofr
-  - swap_rate
-  - zero_coupon_curve
+academic_level: graduate
 aliases:
-  - Is
-  - OIS
+- Is
+- OIS
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000142
 key_concepts:
-  - cumulative return overnight rate
-  - fixed for floating payments
-  - floating rate payment
-  - swap rate calculation
-  - value of Is
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Bootstrap methods and yield curve construction
+- Heath-Jarrow-Morton (HJM) and forward rate dynamics
+- SOFR benchmarks and risk-free rate transition
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Interest Rate Swaps and Currency Swap Structures
+- Private Equity Investment Returns and Value Creation
+- Term Structure of Interest Rates and Yield Curves
+- Option Valuation and Exercise Strategies
+- LBO Valuation and Debt Capacity Analysis
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- benchmark-reform
+- binomial-model
+- black-scholes-model
+- bootstrap-method
+- capital-structure
+- caplet
+- cash-flow-modeling
+- collateral-rates
+- continuous-time-pricing
+- convexity-adjustment
+- cost-of-capital
+- credit-rating
+- dcf-valuation
+- delta-hedging
+- derivatives
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- yield-curve
+- clearinghouse
+- interpolation
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- private-equity
+- market-price-of-risk
+- value-factor
+- vasicek-model
+- dirty-price
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- forward-rates
+- price-to-earnings
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- debt-capacity
+- forward-curve
+- currency-swaps
+- investment-return
+- protective-puts
+- government-bonds
+- curve-fitting
+- credit-default-swaps
+- roll-yield
+- risk-premium
+- spot-rates
+- put-options
+- affine-term-structure
+- equity-kickers
+- lbo-valuation
+- momentum
+- basis-risk
+- term-structure
+- covered-calls
+- swap-rate
+- sofr
+- stress-testing
+- ornstein-uhlenbeck
+- par-yield
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- bootstrap-strategy
+- management-buyout
+- factor-models
+- convergence
+- var-backtesting
+- sum-of-parts
+- clean-price
+- yield-curve-shocks
+- strangles
+- conditional-var
+- fixed-income
+- short-rate-models
+- swap-spread
+- marking-to-market
+- total-return-swaps
+- libor
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- size-effect
+- basis-swaps
+- precedent-transactions
+- interest-rate-swaps
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+- current-yield
+title: Overnight Index Swaps (Is)
+type: course-note
 ---
+--
+
+
 
 **Teaching Note 3 SwapsFinancial Instruments**
 	- Forward Rates Agreement

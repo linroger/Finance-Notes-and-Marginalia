@@ -1,22 +1,58 @@
 ---
 tags:
-  - credit_default_swaps
-  - credit_derivatives
-  - credit_migration
-  - default_risk
-  - poisson_model
+- credit_default_swaps
+- default
+- cds
+- arbitrage
+- poisson_model
+- probability
+- credit_migration
+- swap
+- credit_derivatives
+- pricing
+- default_risk
+- correlation
+- distribution
+- credit
+- model
+- bond
+- spread
+- derivative
 aliases:
-  - CDS
-  - Credit Derivatives
-  - Credit Swap
-  - Default Risk
+- CDS
+- Credit Derivatives
+- Credit Swap
+- Default Risk
 key_concepts:
-  - Constant Default Probability Model
-  - Credit Default Swaps
-  - Deterministic Credit Migration Model
-  - 'No Arbitrage: CDS'
-  - Poisson Model of Default
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial derivatives pricing and valuation
+- Arbitrage pricing theory and no-arbitrage principle
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000298
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 7 Default Risk and Credit Derivatives 183  
 

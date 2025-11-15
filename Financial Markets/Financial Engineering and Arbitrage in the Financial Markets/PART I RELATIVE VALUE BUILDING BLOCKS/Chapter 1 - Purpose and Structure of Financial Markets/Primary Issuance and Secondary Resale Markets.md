@@ -1,31 +1,68 @@
 ---
 tags:
-  - financial_markets
-  - investment_banking
-  - ipo
-  - issuance
-  - otc
-  - primary_markets
-  - resale
-  - secondary_markets
-  - securities
+- synthetic
+- eur
+- ito
+- secondary_markets
+- collateralized
+- securities
+- energy
+- primary_markets
+- commodity
+- forward
+- capital
+- swap
+- equity
+- otc
+- financial_markets
+- issuance
+- option
+- apt
+- credit
+- put
+- trading
+- bond
+- gold
+- call
+- resale
+- ipo
+- mortgage
+- investment_banking
+- valuation
 aliases:
-  - Issuance and Resale Markets
-  - Primary Market
-  - Primary and Secondary Markets
-  - Secondary Market
+- Issuance and Resale Markets
+- Primary Market
+- Primary and Secondary Markets
+- Secondary Market
 key_concepts:
-  - Asset markets
-  - Initial public offering
-  - Investment bankers
-  - Primary markets
-  - Private placement
-  - Secondary markets
-  - Securities transaction
-  - Share risks
-  - Transfer funds
-  - Users of capital
+- Asset markets
+- Initial public offering
+- Investment bankers
+- Primary markets
+- Private placement
+- Secondary markets
+- Securities transaction
+- Share risks
+- Transfer funds
+- Users of capital
+- Market liquidity analysis and liquidity risk
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000322
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 1.6 PRIMARY (ISSUANCE) AND SECONDARY (RESALE) MARKETS  
 

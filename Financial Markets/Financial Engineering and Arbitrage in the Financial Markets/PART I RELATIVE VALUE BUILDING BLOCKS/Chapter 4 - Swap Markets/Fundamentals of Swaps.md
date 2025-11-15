@@ -1,25 +1,67 @@
 ---
 tags:
-  - fixed_floating_swaps
-  - interest_rate_swaps
-  - notional_principal
-  - swap_fundamentals
-  - swap_valuation
+- duration
+- eur
+- hedge
+- maturity
+- margin
+- coupon
+- commodity
+- notional_principal
+- forward
+- future
+- swap
+- fixed_floating_swaps
+- yield-curve
+- pricing
+- counterparty
+- hedging
+- oil
+- swap_fundamentals
+- put
+- swap_valuation
+- bond
+- spread
+- forward-rate
+- interest_rate_swaps
+- valuation
 aliases:
-  - Cross-Currency Swaps
-  - Interest Rate Swap
-  - Swap Agreements
-  - Swap Basics
+- Cross-Currency Swaps
+- Interest Rate Swap
+- Swap Agreements
+- Swap Basics
 key_concepts:
-  - Dual nature of swaps
-  - Exchange cash flows
-  - FRA settlement formula
-  - Fictitious bonds exchange
-  - Fixed vs floating
-  - Notional principal
-  - String of forwards
-  - Swap legs
+- Dual nature of swaps
+- Exchange cash flows
+- FRA settlement formula
+- Fictitious bonds exchange
+- Fixed vs floating
+- Notional principal
+- String of forwards
+- Swap legs
+- Cross Currency in financial markets
+- Duration and interest rate risk measurement
+- Exchange Rate in financial markets
+- Forward Rate in financial markets
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Value at Risk and tail risk measurement
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000305
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 4.1 FUNDAMENTALS OF SWAPS  
 

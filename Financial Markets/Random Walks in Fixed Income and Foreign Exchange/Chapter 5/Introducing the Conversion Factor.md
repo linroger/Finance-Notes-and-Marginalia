@@ -1,20 +1,80 @@
 ---
-tags:
-  - conversion_factor
-  - credit_spread
-  - cross_currency
-  - issuer_choices
-  - yield_curve
 aliases:
-  - Conversion Factor
-  - Issuer's Choices
+- Conversion Factor
+- Issuer's Choices
 key_concepts:
-  - Conversion factor definition
-  - Credit spread impact
-  - Cross-currency basis effect
-  - Issuer's decision factors
-  - Tenor and currency
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Introducing the Conversion Factor and financial analysis
+- Introducing the Conversion Factor in modern finance
+- Applications of Introducing the Conversion Factor
+- 'Case study: Introducing the Conversion Factor'
+- Cross Currency in financial markets
+- Forward Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- Time Series in financial markets
+- Value at Risk and tail risk measurement
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+tags:
+- eur
+- multiple
+- hedge
+- basis
+- credit-spread
+- forward
+- swaps
+- future
+- swap
+- time-series
+- jpy
+- yield-curve
+- pricing
+- hedging
+- bond
+- crisis
+- futures
+- bonds
+- spread
+- forward-rate
+- valuation
+- basis-swap
+- cds
+- usd
+- coupon
+- gbp
+- capital
+- liquidity
+- yield
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000382
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Chapter 5 Introducing the Conversion Factor
 

@@ -1,21 +1,59 @@
 ---
 tags:
-  - asset_pricing
-  - efficient_returns
-  - excess_returns
-  - mean_variance_frontier
-  - portfolio_returns
+- efficiency
+- excess_returns
+- risk-free
+- arbitrage
+- theta
+- mean-variance
+- portfolio
+- dividend
+- mean_variance_frontier
+- pricing
+- call
+- model
+- market
+- asset_pricing
+- variance
+- efficient_returns
+- var
+- capm
+- measure
+- yield
+- portfolio_returns
 aliases:
-  - Efficient Portfolios
-  - Hansen and Richard (1987)
-  - Mean-Variance Analysis
+- Efficient Portfolios
+- Hansen and Richard (1987)
+- Mean-Variance Analysis
 key_concepts:
-  - Asset pricing theory
-  - Constant-mimicking return
-  - Excess return definition
-  - Mean-variance efficient returns
-  - Portfolio return variance
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Arbitrage pricing theory and no-arbitrage principle
+- Capital Asset Pricing Model and risk-return tradeoff
+- Mean Variance in financial markets
+- Risk Free in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000405
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 9.4 Mean-variance efficient returns and pricing factors  
 

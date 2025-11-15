@@ -1,21 +1,64 @@
 ---
 tags:
-  - dividend_pricing
-  - forward_measure
-  - risk_neutral_valuation
-  - state_price_deflator
-  - zero_coupon_bonds
+- delta
+- zero_coupon_bonds
+- risk-free
+- martingale
+- dividend_pricing
+- probability
+- maturity
+- coupon
+- forward
+- future
+- state_price_deflator
+- dividend
+- discount
+- distribution
+- covariance
+- put
+- trading
+- bond
+- forward_measure
+- call
+- risk_neutral_valuation
+- measure
+- brownian
+- valuation
+- girsanov
 aliases:
-  - Forward martingale measure
-  - Forward neutral measure
-  - Forward risk-adjusted measure
+- Forward martingale measure
+- Forward neutral measure
+- Forward risk-adjusted measure
 key_concepts:
-  - Forward risk-adjusted measure
-  - Radon-Nikodym derivative
-  - Risk-neutral valuation approach
-  - Time price of dividend
-  - Zero-coupon bond price
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial derivatives pricing and valuation
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Delta hedging strategies in options markets
+- Risk Free in financial markets
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000455
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 11.4 Forward risk-adjusted probability measures  
 

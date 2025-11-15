@@ -2,22 +2,46 @@
 cssclasses: academia
 title: Creditor Control Rights and Firm Investment Policy
 tags:
-  - capital_expenditures
-  - credit_quality
-  - creditor_rights
-  - debt_agreements
-  - firm_investment
+- arch
+- asset-backed-securities
+- banking-regulation
+- basel-accord
+- capital-adequacy
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cds
+- coherent-risk-measure
+- conditional-var
+- convexity-adjustment
+- cost-of-capital
+- counterparty-risk
+- credit-default-swap
 aliases:
-  - Creditor Control
-  - Firm Investment
-  - Investment Policy
+- Creditor Control
+- Firm Investment
+- Investment Policy
 key_concepts:
-  - Borrower credit quality
-  - Capital expenditure limits
-  - Creditor-borrower conflicts
-  - Firm investment restrictions
-  - Private credit agreements
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Alpha generation and active portfolio management
+- Volatility modeling and estimation techniques
+- Alpha generation and active return measurement
+- Risk preference theory and utility functions
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
 
 # Creditor Control Rights and Firm Investment Policy
 

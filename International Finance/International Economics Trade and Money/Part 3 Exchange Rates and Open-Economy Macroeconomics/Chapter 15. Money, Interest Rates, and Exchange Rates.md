@@ -1,3 +1,81 @@
+---
+key_concepts:
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Chapter 15. Money, Interest Rates, and Exchange Rates and financial analysis
+- Chapter 15. Money, Interest Rates, and Exchange Rates in modern finance
+- Applications of Chapter 15. Money, Interest Rates, and Exchange Rates
+- 'Case study: Chapter 15. Money, Interest Rates, and Exchange Rates'
+- Correlation modeling and dependency structures
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Pass Through in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+tags:
+- efficiency
+- eur
+- volatility
+- monetary-policy
+- ratio
+- commodity
+- future
+- pass-through
+- risk-management
+- correlation
+- interest-rates
+- option
+- oil
+- put
+- american
+- bond
+- crisis
+- bonds
+- spread
+- measure
+- options
+- pandemic
+- comparable
+- roe
+- repo
+- growth
+- risk
+- call
+- treasury
+- liquidity
+- var
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000525
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # CHAPTER 15  
 
 # Money, Interest Rates, and Exchange Rates  

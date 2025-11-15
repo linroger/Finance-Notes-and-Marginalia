@@ -1,3 +1,79 @@
+---
+key_concepts:
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Appendix and financial analysis
+- Appendix in modern finance
+- Applications of Appendix
+- 'Case study: Appendix'
+- Exchange Rate in financial markets
+- Fed Funds in financial markets
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Value at Risk and tail risk measurement
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+tags:
+- efficiency
+- leverage
+- eur
+- monetary-policy
+- senior
+- margin
+- regulation
+- yield-curve
+- dividend
+- pricing
+- interest-rates
+- oil
+- put
+- gold
+- bond
+- crisis
+- bonds
+- mortgage
+- measure
+- fed-funds
+- cds
+- options
+- ito
+- collateralized
+- maturity
+- call
+- treasury
+- liquidity
+- yield
+- regulatory
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000558
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 
 # **Appendix: Macroprudential Policies**
 

@@ -1,20 +1,58 @@
 ---
 tags:
-  - bayes_formula
-  - brownian_motion
-  - probability_measure
-  - radon_nikodym
-  - stochastic_process
+- volatility
+- ito
+- martingale
+- probability
+- derivative
+- stochastic
+- future
+- distribution
+- covariance
+- apt
+- girsanov
+- call
+- model
+- variance
+- bayes_formula
+- radon_nikodym
+- var
+- measure
+- probability_measure
+- brownian
+- stochastic_process
+- brownian_motion
 aliases:
-  - Change of Measure
-  - Probability Measure Change
+- Change of Measure
+- Probability Measure Change
 key_concepts:
-  - Change-of-measure process
-  - Equivalent probability measures
-  - Probability space
-  - Radon-Nikodym derivative
-  - Real-world probabilities
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000454
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 11.2 Change of probability measure  
 

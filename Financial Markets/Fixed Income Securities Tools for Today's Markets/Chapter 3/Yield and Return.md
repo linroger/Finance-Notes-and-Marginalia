@@ -1,20 +1,48 @@
 ---
 tags:
-  - bond_valuation
-  - coupon_reinvestment
-  - holding_period_return
-  - realized_return
-  - yield_to_maturity
+- yield_to_maturity
+- financial-modeling
+- risk-management
+- coupon_reinvestment
+- bond_valuation
+- bond
+- maturity
+- treasury
+- financial-engineering
+- financial-markets
+- quantitative-finance
+- coupon
+- realized_return
+- yield
+- holding_period_return
 aliases:
-  - Bond Return
-  - IRR
+- Bond Return
+- IRR
 key_concepts:
-  - Bond's Internal Rate
-  - Holding Period Return
-  - Initial Yield
-  - Reinvested Coupons
-  - Yield vs. Return
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000194
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 3.3 YIELD AND RETURN  
 

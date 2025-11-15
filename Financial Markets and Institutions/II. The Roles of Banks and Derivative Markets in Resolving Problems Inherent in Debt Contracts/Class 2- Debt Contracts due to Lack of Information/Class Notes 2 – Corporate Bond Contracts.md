@@ -1,33 +1,47 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Class Notes 2 – Corporate Bond Contracts
 tags:
-  - bondholder_rights
-  - corporate_bond_contracts
-  - indentures
-  - optional_redemption
-  - prospectus
-  - defeasance
-  - covenants
-  - trustee_role
+- arbitrage-opportunity
+- arbitrage-pricing
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-asset-pricing
+- capital-budgeting
+- caplet
+- cds
+- continuous-time-pricing
+- convexity-adjustment
+- corporate-combinations
+- counterparty-risk
 aliases:
-  - Bond Contracts
-  - Bond Indentures
-  - Corporate Bonds
-  - Indenture Provisions
+- Bond Contracts
+- Bond Indentures
+- Corporate Bonds
+- Indenture Provisions
 key_concepts:
-  - bond legal contracts
-  - bondholder get out
-  - optional redemption
-  - present value calculation
-  - rights responsibilities
-  - covenant structures
-  - default remedies
-  - contract modification
-  - defeasance provisions
-  - trustee obligations
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Risk preference theory and utility functions
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
 
 # Class Notes 2 – Corporate Bond Contracts
 

@@ -1,21 +1,63 @@
 ---
 tags:
-  - financial_markets
-  - market_completeness
-  - marketed_dividends
-  - one_period_framework
-  - random_variables
+- terminal-value
+- risk-free
+- volatility
+- one_period_framework
+- hedge
+- theta
+- probability
+- marketed_dividends
+- fundamental
+- future
+- dividend
+- financial_markets
+- apt
+- variance
+- trading
+- rho
+- model
+- call
+- rating
+- market
+- random_variables
+- cdo
+- stochastic
+- brownian
+- market_completeness
 aliases:
-  - Market Completeness
-  - Marketed Dividend
-  - Spanned Dividend
+- Market Completeness
+- Marketed Dividend
+- Spanned Dividend
 key_concepts:
-  - Complete financial market
-  - Incomplete financial market
-  - Marketed dividends
-  - Non-redundant assets
-  - One-period framework
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Hedging strategies and delta-gamma neutrality
+- Risk hedging strategies and instruments
+- Risk Free in financial markets
+- Terminal Value in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000445
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 3.6 Marketed dividends and market completeness  
 

@@ -1,21 +1,70 @@
 ---
 tags:
-  - bond_valuation
-  - ctd_bond
-  - futures_pricing
-  - quality_option
-  - yield_curve
+- duration
+- volatility
+- bond_valuation
+- arbitrage
+- convexity
+- hedge
+- ito
+- yield_curve
+- maturity
+- repo
+- coupon
+- quality_option
+- forward
+- future
+- yield-curve
+- spot-price
+- futures_pricing
+- pricing
+- straddle
+- option
+- put
+- trading
+- bond
+- spread
+- ctd_bond
 aliases:
-  - Delivery Option
-  - Futures Price
-  - TYU1
+- Delivery Option
+- Futures Price
+- TYU1
 key_concepts:
-  - Bond forward price ratio
-  - CTD and conversion factor
-  - Delivery option valuation
-  - Futures price before expiration
-  - Yield-price curve analysis
+- Option valuation and hedging strategies
+- Bond duration and interest rate risk
+- Bond convexity and price-yield relationships
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Arbitrage pricing theory and no-arbitrage principle
+- Convexity adjustments for bond portfolio management
+- Duration and interest rate risk measurement
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Market liquidity analysis and liquidity risk
+- Spot Price in financial markets
+- Term Structure in financial markets
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000183
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 11.11 FUTURES PRICE AND THE QUALITY OPTION BEFORE EXPIRATION  
 

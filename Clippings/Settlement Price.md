@@ -1,3 +1,70 @@
+---
+tags:
+- credit-rating
+- derivatives
+- dynamic-hedging
+- volatility
+- multiple
+- payoff
+- binomial-model
+- expected-loss
+- margin
+- continuous-time-pricing
+- derivative
+- conditional-var
+- delta-hedging
+- option
+- convexity-adjustment
+- call
+- put
+- market
+- black-scholes-model
+- trading
+- duration-analysis
+- fixed-income-sensitivity
+- variance
+- gold
+- var
+- forward-rates
+- discrete-time-pricing
+- interest-rate
+- coherent-risk-measure
+key_concepts:
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Interest Rate in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000081
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
+
+
 
 title: Settlement Price
 source: https://www.investopedia.com/terms/s/settlementprice.asp

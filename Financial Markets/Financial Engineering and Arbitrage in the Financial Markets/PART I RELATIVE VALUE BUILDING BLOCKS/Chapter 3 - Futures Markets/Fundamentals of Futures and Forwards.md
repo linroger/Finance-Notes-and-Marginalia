@@ -1,23 +1,70 @@
 ---
 tags:
-  - cash_settled
-  - clearinghouse
-  - futures_contracts
-  - futures_forwards
-  - marking_to_market
-  - spot_transactions
+- default
+- arbitrage
+- multiple
+- hedge
+- roe
+- futures_contracts
+- clearinghouse
+- margin
+- energy
+- commodity
+- fundamental
+- forward
+- future
+- cash_settled
+- marking_to_market
+- swap
+- pricing
+- counterparty
+- option
+- oil
+- trading
+- bond
+- spread
+- futures_forwards
+- fed-funds
+- spot_transactions
 aliases:
-  - Forward Contracts
-  - Fundamentals of Futures
-  - Futures vs Forwards
+- Forward Contracts
+- Fundamentals of Futures
+- Futures vs Forwards
 key_concepts:
-  - Cash settlement
-  - Clearinghouse purpose
-  - Forward contract
-  - Futures contract
-  - Physical settlement
-  - Spot transaction
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Arbitrage pricing theory and no-arbitrage principle
+- Credit default probability and recovery modeling
+- Fed Funds in financial markets
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Spot Price in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000297
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 3.1 FUNDAMENTALS OF FUTURES AND FORWARDS  
 

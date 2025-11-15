@@ -1,35 +1,47 @@
 ---
-title: II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts
+title: II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent
+  in Debt Contracts
 tags:
-  - banking
-  - debt_contracts
-  - derivatives
-  - financial_intermediation
-  - lending
-  - risk_management
-  - information_asymmetry
-  - credit_monitoring
-  - debt_restructuring
-  - bankruptcy
-  - covenants
-  - exchange_offers
+- covenants
+- risk_management
+- debt_contracts
+- debt_restructuring
+- information_asymmetry
+- credit_monitoring
+- lending
+- derivatives
+- bankruptcy
+- banking
+- exchange_offers
+- financial_intermediation
+- distressed
+- financial-markets
+- tracking-error
+- trading
+- stochastic-calculus
+- restructuring
+- ito-lemma
+- credit-risk
 cssclasses: academia
 aliases:
-  - Debt Contracts
-  - Derivative Markets
-  - Bank Asset Services
-  - Debt Restructuring
+- Debt Contracts
+- Derivative Markets
+- Bank Asset Services
+- Debt Restructuring
 key_concepts:
-  - Banks and Debt Contracts
-  - Debt Contract Problems
-  - Derivative Market Roles
-  - Resolving Debt Contract Issues
-  - Information Asymmetry Solutions
-  - Delegated Monitoring
-  - Debt Restructuring Mechanisms
-  - Coercive Exchange Offers
-  - Bankruptcy Alternatives
-  - Loan vs Bond Covenants
+- Information Asymmetry Solutions
+- Banks and Debt Contracts
+- Derivative Market Roles
+- Bankruptcy Alternatives
+- Debt Contract Problems
+- Coercive Exchange Offers
+- Delegated Monitoring
+- Loan vs Bond Covenants
+- Resolving Debt Contract Issues
+- Debt Restructuring Mechanisms
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
 ---
 
 # II. The Roles of Banks and Derivative Markets in Resolving Problems Inherent in Debt Contracts

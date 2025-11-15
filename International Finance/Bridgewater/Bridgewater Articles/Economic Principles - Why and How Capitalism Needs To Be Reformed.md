@@ -1,25 +1,85 @@
 ---
-cssclasses:
-  - academia
-title: Economic Principles - Why and How Capitalism Needs To Be Reformed
-source: https://www.economicprinciples.org/Why-and-How-Capitalism-Needs-To-Be-Reformed/
-description:
-tags:
-  - american_dream
-  - capitalism_reform
-  - economic_principles
-  - income_inequality
-  - middle_class
 aliases:
-  - Capitalism Reform
-  - Economic System Reform
+- Capitalism Reform
+- Economic System Reform
+cssclasses:
+- academia
+description: null
 key_concepts:
-  - American Dream
-  - Capitalism's shortcomings
-  - Economic pie division
-  - Income/wealth gaps
-  - Socialist vs Capitalist
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Economic Principles - Why and How Capitalism Needs To Be Reformed and financial
+  analysis
+- Economic Principles - Why and How Capitalism Needs To Be Reformed in modern finance
+- Applications of Economic Principles - Why and How Capitalism Needs To Be Reformed
+- 'Case study: Economic Principles - Why and How Capitalism Needs To Be Reformed'
+- Interest Rate in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+source: https://www.economicprinciples.org/Why-and-How-Capitalism-Needs-To-Be-Reformed/
+tags:
+- efficiency
+- eur
+- multiple
+- monetary-policy
+- probability
+- basis
+- margin
+- arma
+- swaps
+- risk-management
+- irs
+- interest-rates
+- distribution
+- put
+- american
+- bond
+- crisis
+- futures
+- measure
+- cpr
+- options
+- ito
+- comparable
+- usd
+- repo
+- growth
+- fundamental
+- roll
+- capital
+- call
+- strike
+- var
+- interest-rate
+title: Economic Principles - Why and How Capitalism Needs To Be Reformed
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000604
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Economic Principles - Why and How Capitalism Needs To Be Reformed
 ## Summary

@@ -1,31 +1,83 @@
 ---
-tags:
-  - conversion_factor
-  - cross_currency_basis
-  - empirical_method
-  - fixed_income
-  - forward_curve
-  - fx_hedging
-  - maturity_matched
-  - rolling_hedges
-  - term_premium
-  - xva
 aliases:
-  - FX Hedged Pickup
-  - Table of Contents
-  - Term Premium
-  - XCCY Basis
+- FX Hedged Pickup
+- Table of Contents
+- Term Premium
+- XCCY Basis
 key_concepts:
-  - Conversion Factor Examples
-  - Cross-Currency Basis Swap
-  - Defining Convexity
-  - Defining Duration
-  - FX Hedge Strategies
-  - Forward Curve Analysis
-  - Maturity-Matched Hedges
-  - Term Premium Calculation
-  - XVA Calculation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Table of Contents and financial analysis
+- Table of Contents in modern finance
+- Applications of Table of Contents
+- 'Case study: Table of Contents'
+- Arbitrage pricing theory and no-arbitrage principle
+- Carry Trade in financial markets
+- Convexity adjustments for bond portfolio management
+- Cross Currency in financial markets
+- Duration and interest rate risk measurement
+- Forward Rate in financial markets
+- Risk hedging strategies and instruments
+- Term Structure in financial markets
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+tags:
+- duration
+- eur
+- volatility
+- convexity
+- hedge
+- basis
+- forward
+- swaps
+- implied
+- swap
+- yield-curve
+- pricing
+- irs
+- counterparty
+- hedging
+- trading
+- bond
+- crisis
+- futures
+- bonds
+- spread
+- forward-rate
+- valuation
+- arbitrage
+- usd
+- maturity
+- fixed-income
+- roll
+- term-structure
+- forward-rates
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000366
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Table of Contents - Random Walks in Fixed Income and Foreign Exchange
 # Contents

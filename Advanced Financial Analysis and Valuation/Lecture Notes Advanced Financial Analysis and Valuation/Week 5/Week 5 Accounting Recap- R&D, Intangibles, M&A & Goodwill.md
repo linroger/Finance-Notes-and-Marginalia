@@ -1,36 +1,144 @@
 ---
-cssclasses:
-  - academia
-title: Week 5 Accounting Recap - R&D, Intangibles, M&A & Goodwill
-linter-yaml-title-alias: Week 5 Accounting Recap - R&D, Intangibles, M&A & Goodwill
-tags:
-  - accounting_standards
-  - goodwill_impairment
-  - intangible_assets
-  - ma_accounting
-  - randd_expenses
-  - financial_reporting
-  - ifrs_vs_gaap
-  - pharmaceutical_accounting
-  - capitalization_policy
-  - non_gaap_metrics
+academic_level: graduate
 aliases:
-  - Goodwill Write-down
-  - Intangible Amortization
-  - M&A Accounting
-  - Week 5 Recap
+- Goodwill Write-down
+- Intangible Amortization
+- M&A Accounting
+- Week 5 Recap
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000253
 key_concepts:
-  - R&D capitalization impact on profits
-  - Goodwill impairment testing procedures
-  - M&A purchase price allocation steps
-  - Non-GAAP metrics and EBITA multiples
-  - Intangible asset amortization effects
-  - IFRS versus US GAAP R&D treatment
-  - Acquisition accounting complexities
-  - Organic growth versus M&A growth accounting
-  - Fair value measurement in M&A
-  - Kraft Heinz goodwill write-down case
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Value at Risk and Expected Shortfall
+- Company Valuation and Multiple Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: Week 5 Accounting Recap - R&D, Intangibles, M&A & Goodwill
+professional_application: theoreti
+status: active
+tags:
+- arch
+- asset-allocation
+- banking-regulation
+- basel-accord
+- capital-adequacy
+- capital-structure
+- caplet
+- cash-flow-modeling
+- convexity-adjustment
+- corporate-combinations
+- cost-of-capital
+- credit-rating
+- dcf-valuation
+- discounted-cash-flow
+- dividend-policy
+- put-options
+- leveraged-buyout
+- recovery-rate
+- sum-of-parts
+- call-options
+- zero-coupon-bonds
+- clean-price
+- price-to-earnings
+- butterfly-spreads
+- momentum
+- strangles
+- dcf-analysis
+- expected-shortfall
+- straddles
+- basis-risk
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- fixed-income
+- var-methodologies
+- historical-var
+- book-to-market
+- contango
+- backwardation
+- covered-calls
+- ' exposure-at-default'
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- stress-testing
+- unexpected-loss
+- rating-migration
+- comparable-analysis
+- clearinghouse
+- expected-loss
+- investment-analysis
+- economic-value-added
+- credit-migration
+- default-probability
+- marking-to-market
+- value-at-risk
+- credit-spreads
+- arbitrage-pricing-theory
+- multi-factor-models
+- hedge-ratio
+- trading-multiples
+- iron-condors
+- protective-puts
+- government-bonds
+- financial-markets
+- probabilty-of-default
+- loss-given-default
+- size-effect
+- factor-models
+- precedent-transactions
+- value-factor
+- dirty-price
+- ipo-valuation
+- monte-carlo-var
+- convergence
+- options-trading
+- coupon-bonds
+- futures-contracts
+- var-backtesting
+- roll-yield
+- market-multiple
+- apt
+- current-yield
+- forward-contracts
+- yield-to-maturity
+- fama-french
+title: Week 5 Accounting Recap - R&D, Intangibles, M&A & Goodwill
+type: course-note
 ---
+--
+
+
 
 # Week 5 Accounting Recap - R&D, Intangibles, M&A & Goodwill
 

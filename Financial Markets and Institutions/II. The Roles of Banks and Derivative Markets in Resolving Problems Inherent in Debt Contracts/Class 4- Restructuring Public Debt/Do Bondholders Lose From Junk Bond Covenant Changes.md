@@ -1,22 +1,58 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Do Bondholders Lose From Junk Bond Covenant Changes
 tags:
-  - agency_costs
-  - bondholders
-  - consent_solicitations
-  - covenant_changes
-  - junk_bonds
+- bondholders
+- junk_bonds
+- covenant_changes
+- agency_costs
+- consent_solicitations
+- event-study
+- mertons-model
+- caps-floors
+- high-yield
+- yield-to-maturity
+- distressed
+- private-equity
+- deposit-insurance
+- leveraged-buyout
+- regulatory-capital
+- risk-management
+- financial-markets
+- banking
+- capital-structure
+- stochastic-calculus
 aliases:
-  - Junk Bond Covenants
-  - Kahan & Tuckman
+- Junk Bond Covenants
+- Kahan & Tuckman
 key_concepts:
-  - Agency costs of debt
-  - Bondholder loss from covenant changes
-  - Consent solicitations and bondholders
-  - Covenant renegotiation
-  - Game-theoretic model
+- Covenant renegotiation
+- Consent solicitations and bondholders
+- Game-theoretic model
+- Bondholder loss from covenant changes
+- Agency costs of debt
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
 ---
 
 # Do Bondholders Lose From Junk Bond Covenant Changes

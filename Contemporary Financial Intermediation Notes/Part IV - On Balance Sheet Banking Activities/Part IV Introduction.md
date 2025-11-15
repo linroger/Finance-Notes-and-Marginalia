@@ -1,3 +1,163 @@
+---
+academic_level: graduate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000189
+key_concepts:
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- LIBOR market model and multi-curve framework
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Risk preference theory and utility functions
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Distressed Investing and Debt Restructuring
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Interest Rate Swaps and Currency Swap Structures
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-free-models
+- arbitrage-opportunity
+- arbitrage-pricing
+- asset-allocation
+- asset-backed-securities
+- banking-regulation
+- basel-accord
+- bid-ask-spread
+- capital-adequacy
+- capital-asset-pricing
+- caplet
+- cds
+- coherent-risk-measure
+- conditional-var
+- convexity-adjustment
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- exchange-offers
+- volatility-analysis
+- style-analysis
+- bond-pricing
+- option-strategies
+- cramdown
+- corporate-bonds
+- unexpected-loss
+- debt-restructuring
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- dirty-price
+- distressed-investing
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- yield-to-maturity
+- fama-french
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- expected-loss
+- market-efficiency
+- order-flow
+- currency-swaps
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- liquidity
+- credit-default-swaps
+- risk-premium
+- put-options
+- affine-term-structure
+- algorithmic-trading
+- momentum
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- ornstein-uhlenbeck
+- rating-migration
+- investment-analysis
+- portfolio-optimization
+- value-at-risk
+- blocker-strategy
+- factor-models
+- creditor-committees
+- risk-management
+- var-backtesting
+- tender-offers
+- ' DIP-financing'
+- clean-price
+- high-frequency-trading
+- strangles
+- fixed-income
+- short-rate-models
+- swap-spread
+- credit-migration
+- default-probability
+- total-return-swaps
+- libor
+- credit-spreads
+- multi-factor-models
+- iron-condors
+- financial-markets
+- size-effect
+- basis-swaps
+- interest-rate-swaps
+- apt
+- current-yield
+type: note
+---
+--
+
+
+
 # Spot Lending and Credit Risk  
 
 “Neither a borrower nor a lender be; for loan oft loses itself and a friend, and borrowing dulls the edge of husbandry.”  

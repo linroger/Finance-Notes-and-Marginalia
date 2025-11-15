@@ -2,22 +2,41 @@
 linter-yaml-title-alias: Direct Finance Without Monitoring
 title: Direct Finance Without Monitoring
 tags:
-  - costly_monitoring
-  - debt_contract
-  - delegated_monitoring
-  - financial_intermediation
-  - loan_monitoring
+- asset-allocation
+- banking-regulation
+- basel-accord
+- capital-adequacy
+- caplet
+- cds
+- cmbs-rmbs
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- debit-valuation-adjustment
+- default-probability
 aliases:
-  - Debt Without Monitoring
-  - Lender and Borrower
-  - Optimal Contract
+- Debt Without Monitoring
+- Lender and Borrower
+- Optimal Contract
 key_concepts:
-  - Borrower's cash flow
-  - Costly ex-post information
-  - Delegated loan monitoring
-  - Lender's expected repayment
-  - Optimal debt contract
+- Risk-neutral measures and martingale pricing
+- Martingale theory and change of measure
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Mortgage-backed securities (MBS) and prepayment modeling
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+type: course-note
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
 
 Financial Intermediation and Delegated Monitoring Business 35202 Class 3 1
 

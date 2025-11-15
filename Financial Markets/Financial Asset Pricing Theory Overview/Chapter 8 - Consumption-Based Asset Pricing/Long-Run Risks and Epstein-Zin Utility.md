@@ -1,22 +1,67 @@
 ---
 tags:
-  - asset_pricing
-  - consumption_dynamics
-  - epstein_zin_utility
-  - long_run_risks
-  - market_portfolio
+- delta
+- leverage
+- market_portfolio
+- risk-free
+- consumption_dynamics
+- epstein_zin_utility
+- volatility
+- theta
+- repo
+- growth
+- time-series
+- equity
+- dividend
+- gamma
+- pricing
+- correlation
+- distribution
+- market-risk
+- premium
+- apt
+- put
+- asset_pricing
+- portfolio
+- long_run_risks
+- valuation
 aliases:
-  - Bansal Yaron
-  - Consumption Growth
-  - Long-Run Risk
+- Bansal Yaron
+- Consumption Growth
+- Long-Run Risk
 key_concepts:
-  - Consumption and return data
-  - Consumption dynamics model
-  - Epstein-Zin utility
-  - Long-run risk component
-  - Market portfolio dividends
-  - Time-varying economic uncertainty
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Correlation modeling and dependency structures
+- Delta hedging strategies in options markets
+- Gamma risk and convexity adjustments in options
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Market Risk in financial markets
+- Mean Reversion in financial markets
+- Risk Free in financial markets
+- Time Series in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000429
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 8.8 Long-run risks and Epstein-Zin utility  
 

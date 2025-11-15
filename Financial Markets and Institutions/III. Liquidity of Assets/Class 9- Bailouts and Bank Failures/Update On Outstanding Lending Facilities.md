@@ -1,24 +1,56 @@
 ---
 title: Update On Outstanding Lending Facilities
 tags:
-  - cpff
-  - federal_reserve
-  - financial_markets
-  - lending_facilities
-  - mmlf
-  - pdcf
+- ito
+- pdcf
+- lending_facilities
+- repo
+- equity
+- financial_markets
+- dcf
+- credit
+- federal_reserve
+- market
+- treasury
+- cpff
+- mmlf
+- liquidity
+- crisis
+- roa
+- collateral
 aliases:
-  - CPFF
-  - MMLF
-  - PDCF
-  - Primary Dealer Credit Facility
+- CPFF
+- MMLF
+- PDCF
+- Primary Dealer Credit Facility
 key_concepts:
-  - Federal Reserve lending facilities
-  - Financial market functioning
-  - Funding Facility
-  - Money Market Liquidity Facility
-  - Primary Dealer Credit Facility
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Discounted Cash Flow valuation methodology
+- Market liquidity analysis and liquidity risk
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000025
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Update On Outstanding Lending Facilities
 

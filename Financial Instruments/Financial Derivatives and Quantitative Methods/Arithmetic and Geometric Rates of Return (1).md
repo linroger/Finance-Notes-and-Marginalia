@@ -1,31 +1,170 @@
 ---
-cssclasses: academia
-title: Arithmetic and Geometric Rates of Return
-tags:
-  - arithmetic_mean
-  - continuous_compounding
-  - geometric_mean
-  - rate_of_return
-  - wiener_process
-  - ito_calculus
-  - brownian_motion
-  - stochastic_processes
+academic_level: graduate
 aliases:
-  - Arithmetic Mean vs Geometric Mean
-  - Continuously Compounded Return
-  - Arithmetic vs Geometric Return
+- Arithmetic Mean vs Geometric Mean
+- Continuously Compounded Return
+- Arithmetic vs Geometric Return
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000078
 key_concepts:
-  - Arithmetic mean return
-  - Continuously compounded rate
-  - Geometric mean return calculation
-  - Variance impact on geometric returns
-  - Wiener process properties
-  - Ito's lemma application
-  - Geometric Brownian motion
-  - Forward price stochastic process
-  - Return variance relationship
-  - Log-normal distribution properties
+- Black-Scholes option pricing model and continuous-time finance
+- Binomial option pricing model and lattice methods
+- Options Greeks and sensitivity analysis for risk management
+- Ito's lemma and stochastic calculus applications
+- Wiener process and Brownian motion modeling
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Arbitrage opportunities and no-arbitrage pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Variance Reduction Techniques in Monte Carlo Methods
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Stochastic Integration and Path-Dependent Options
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Factor Models and Asset Pricing
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Hedge Strategies and Basis Risk Management
+- American Option Pricing and Early Exercise Premium
+- Interest Rate Swaps and Currency Swap Structures
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Monte Carlo Simulation Methods for Derivative Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- binomial-model
+- black-scholes-model
+- brownian-motion
+- coherent-risk-measure
+- collateral-rates
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- credit-rating
+- delta-hedging
+- derivatives
+- discrete-time-pricing
+- duration-analysis
+- dynamic-hedging
+- control-variates
+- exotic-options
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- binomial-tree
+- straddles
+- extreme-value-theory
+- american-options
+- book-to-market
+- backwardation
+- volatility-analysis
+- style-analysis
+- option-strategies
+- unexpected-loss
+- clearinghouse
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- monte-carlo-simulation
+- hedge-ratio
+- market-price-of-risk
+- loss-given-default
+- value-factor
+- vasicek-model
+- monte-carlo-var
+- options-trading
+- forward-contracts
+- fama-french
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- random-walks
+- expected-loss
+- quantitative-finance
+- currency-swaps
+- crr-model
+- protective-puts
+- probabilty-of-default
+- roll-yield
+- risk-premium
+- put-options
+- affine-term-structure
+- multi-period-binomial
+- momentum
+- basis-risk
+- antithetic-variates
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- path-dependency
+- value-at-risk
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- stochastic-integration
+- variance-reduction
+- lattice-models
+- strangles
+- cox-ross-rubinstein
+- short-rate-models
+- least-squares-mc
+- swap-spread
+- optional-exercise
+- credit-migration
+- default-probability
+- marking-to-market
+- binomial-option-pricing
+- total-return-swaps
+- libor
+- credit-spreads
+- multi-factor-models
+- iron-condors
+- size-effect
+- basis-swaps
+- interest-rate-swaps
+- ' recombining-trees'
+- futures-contracts
+- quasi-monte-carlo
+- apt
+- credit-default-swaps
+title: Arithmetic and Geometric Rates of Return
+type: note
 ---
+--
+
+
 
 # Arithmetic and Geometric Rates of Return
 

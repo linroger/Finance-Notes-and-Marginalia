@@ -1,21 +1,66 @@
 ---
 tags:
-  - arbitrage
-  - no_arbitrage
-  - separating_hyperplane
-  - state_price_deflator
-  - utility_maximization
+- delta
+- separating_hyperplane
+- no_arbitrage
+- risk-free
+- arbitrage
+- martingale
+- hedge
+- theta
+- probability
+- growth
+- utility_maximization
+- state_price_deflator
+- dividend
+- pricing
+- correlation
+- apt
+- put
+- trading
+- call
+- model
+- rating
+- market
+- stochastic
+- brownian
 aliases:
-  - SPD
-  - Separating Hyperplane Theorem
-  - state price deflator
+- SPD
+- Separating Hyperplane Theorem
+- state price deflator
 key_concepts:
-  - No arbitrage condition
-  - One-period framework
-  - Separating hyperplane theorem
-  - State-price deflator existence
-  - Utility maximization problem
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Hedging strategies and delta-gamma neutrality
+- Arbitrage pricing theory and no-arbitrage principle
+- Correlation modeling and dependency structures
+- Delta hedging strategies in options markets
+- Growth Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Risk Free in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000418
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 4.3 Properties of state-price deflators  
 

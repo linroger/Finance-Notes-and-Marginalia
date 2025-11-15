@@ -1,22 +1,66 @@
 ---
 tags:
-  - bond_yield
-  - dv01
-  - forward_contract
-  - forward_yield
-  - interest_rate_sensitivity
-  - repo_rate
+- forward_contract
+- hedge
+- maturity
+- repo
+- coupon
+- dv01
+- spot-rate
+- forward
+- yield-curve
+- spot-price
+- discount
+- apt
+- repo_rate
+- forward_yield
+- put
+- market
+- bond
+- treasury
+- var
+- roa
+- yield
+- interest-rate
+- bond_yield
+- interest_rate_sensitivity
 aliases:
-  - Bond Yield
-  - Forward Bond Yield
-  - Forward Price
+- Bond Yield
+- Forward Bond Yield
+- Forward Price
 key_concepts:
-  - bond's cash flows
-  - forward settlement
-  - interest rate sensitivity
-  - repo rate
-  - spot yield
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Spot Price in financial markets
+- Spot Rate in financial markets
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000186
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 11.2 FORWARD BOND YIELD  
 

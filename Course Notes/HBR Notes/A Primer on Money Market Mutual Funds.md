@@ -1,26 +1,184 @@
 ---
-cssclasses: academia
 Owner: RRoger Lin
-created:
-linter-yaml-title-alias: WHAT ARE MONEY MARKET FUNDS?
-title: A Primer on Money Market Mutual Funds
-tags:
-  - debt_securities
-  - fixed_income
-  - investment_strategy
-  - money_market_funds
-  - us_treasury
+academic_level: graduate
 aliases:
-  - MMMF
-  - Money Market Fund
-  - Money Market Mutual Fund
+- MMMF
+- Money Market Fund
+- Money Market Mutual Fund
+created: null
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000065
 key_concepts:
-  - Low volatility investments
-  - Repurchase agreements
-  - SEC fund regulations
-  - Short-term debt securities
-  - Taxable/tax-exempt income
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Duration and Convexity in Fixed Income Risk Management
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Credit Default Swaps and CDS Pricing
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Bond Portfolio Immunization Strategies
+- Interest Rate Swaps and Currency Swap Structures
+- Option Valuation and Exercise Strategies
+- CDS Spreads and Implied Default Probabilities
+- Credit Spreads and Rating Migration Analysis
+- Market Microstructure and Liquidity Analysis
+- Credit Risk Transfer and Synthetic Instruments
+- Interest Rate Risk and DV01 Calculations
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: WHAT ARE MONEY MARKET FUNDS?
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- asset-allocation
+- banking-regulation
+- basel-accord
+- bid-ask-spread
+- capital-adequacy
+- capital-asset-pricing
+- caplet
+- cds
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- volatility-analysis
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- cds-spreads
+- overnight-indexed-swaps
+- interest-rate-risk
+- arbitrage-pricing-theory
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- dirty-price
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- yield-to-maturity
+- fama-french
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- modified-duration
+- expected-loss
+- market-efficiency
+- order-flow
+- currency-swaps
+- default-leg
+- foreign-recurrency
+- cds-arbitrage
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- liquidity
+- curve-steepening
+- credit-default-swaps
+- risk-premium
+- put-options
+- cds-coupons
+- affine-term-structure
+- algorithmic-trading
+- momentum
+- curve-flattening
+- convexity
+- cds-bond-basis
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- ornstein-uhlenbeck
+- rating-migration
+- investment-analysis
+- portfolio-optimization
+- duration-analysis
+- value-at-risk
+- risky-continuation
+- factor-models
+- barbell-strategy
+- risk-management
+- var-backtesting
+- clean-price
+- high-frequency-trading
+- strangles
+- conditional-var
+- fixed-income
+- dv01
+- short-rate-models
+- swap-spread
+- price-yield-relationship
+- credit-migration
+- default-probability
+- total-return-swaps
+- libor
+- credit-spreads
+- premium-leg
+- multi-factor-models
+- iron-condors
+- financial-markets
+- macaulay-duration
+- size-effect
+- basis-swaps
+- interest-rate-swaps
+- cds-implied-probability
+- apt
+- current-yield
+title: A Primer on Money Market Mutual Funds
+type: primer
 ---
+--
+
+
 
 # A Primer on Money Market Mutual Funds
 

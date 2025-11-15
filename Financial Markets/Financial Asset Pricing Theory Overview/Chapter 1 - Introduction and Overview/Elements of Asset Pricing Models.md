@@ -1,20 +1,64 @@
 ---
 tags:
-  - asset_pricing
-  - consumption
-  - financial_assets
-  - investors
-  - stochastic_process
+- risk-free
+- multiple
+- derivative
+- coupon
+- financial_assets
+- consumption
+- forward
+- implied
+- future
+- swap
+- stochastic
+- dividend
+- pricing
+- option
+- apt
+- call
+- trading
+- investors
+- asset_pricing
+- bond
+- model
+- market
+- var
+- portfolio
+- stochastic_process
 aliases:
-  - Asset Pricing Models
-  - Elements of Asset Pricing
+- Asset Pricing Models
+- Elements of Asset Pricing
 key_concepts:
-  - financial asset characteristics
-  - future asset payments
-  - individual consumption modeling
-  - institutional investors role
-  - stochastic dividend process
+- Option valuation and hedging strategies
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial derivatives pricing and valuation
+- Risk Free in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000411
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 1.2 Elements of asset pricing models  
 

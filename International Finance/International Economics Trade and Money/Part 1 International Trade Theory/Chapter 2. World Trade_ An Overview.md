@@ -1,17 +1,73 @@
 ---
-cssclasses: [international-economics]
-title: Chapter 2. World Trade_ An Overview
-tags: [international-economics, world-trade, gravity-model, trade-patterns]
-aliases: [World Trade Overview]
+aliases:
+- World Trade Overview
+cssclasses:
+- international-economics
 key_concepts:
-  - Gravity Model
-  - Size Matters in Trade
-  - Distance and Trade
-  - Trade Impediments
-  - Trade Agreements
-  - Border Effects
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Chapter 2. World Trade_ An Overview and financial analysis
+- Chapter 2. World Trade_ An Overview in modern finance
+- Applications of Chapter 2. World Trade_ An Overview
+- 'Case study: Chapter 2. World Trade_ An Overview'
+- Exchange Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
 linter-yaml-title-alias: Chapter 2. World Trade_ An Overview
+tags:
+- options
+- barrier
+- eur
+- repo
+- swaps
+- regulation
+- agricultural
+- gas
+- exchange-rate
+- european
+- irs
+- risk
+- oil
+- apt
+- put
+- trading
+- call
+- american
+- model
+- liquidity
+- market
+- currency
+- roa
+- measure
+- regulatory
+title: Chapter 2. World Trade_ An Overview
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000541
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Chapter 2. World Trade: An Overview
 

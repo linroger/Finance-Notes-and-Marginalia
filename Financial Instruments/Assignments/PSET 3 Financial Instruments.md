@@ -1,35 +1,213 @@
 ---
-linter-yaml-title-alias: GREECE CURRENCY SWAPS
-title: PSET 3 Financial Instruments
-cssclasses: academia
-tags:
-  - bond_pricing
-  - currency_swap
-  - exchange_rate_risk
-  - financial_instruments
-  - zero_coupon_bonds
-  - options_strategies
-  - hedging_techniques
-  - risk_management
-  - derivatives_pricing
-  - collar_strategy
+academic_level: graduate
 aliases:
-  - Currency Swap
-  - Greek Bond
-  - PSET 3
-  - VeroTende
+- Currency Swap
+- Greek Bond
+- PSET 3
+- VeroTende
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000120
 key_concepts:
-  - Currency swap
-  - Dollar denominated note
-  - Exchange rate risk
-  - Semi-annual coupon rate
-  - Zero coupon bonds
-  - Option strategies
-  - Collar hedging
-  - Risk-neutral valuation
-  - Put-call parity
-  - Crude oil derivatives
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Risk-neutral measures and martingale pricing
+- Martingale theory and change of measure
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Currency swaps and foreign exchange risk management
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Collateralized debt obligations (CDO) and tranche structure
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Risk preference theory and utility functions
+- Auto-Callable Notes and Barrier Options
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Equity-Linked Notes and Market-Linked Securities
+- Delta, Gamma, and Vega Hedging Techniques
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Forward Curves and Roll Strategies
+- Structured Products and Principal Protection
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- Interest Rate Swaps and Currency Swap Structures
+- Term Structure of Interest Rates and Yield Curves
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: GREECE CURRENCY SWAPS
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-asset-pricing
+- caplet
+- cds
+- coherent-risk-measure
+- collateralized-debt-obligation
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- asset-allocation
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- yield-curve
+- unexpected-loss
+- clearinghouse
+- interpolation
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- dirty-price
+- forward-curves
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- forward-rates
+- fama-french
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- expected-loss
+- delta-hedging
+- forward-curve
+- currency-swaps
+- market-linked-notes
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- reverse-convertibles
+- curve-fitting
+- gamma-hedging
+- hedge-effectiveness
+- credit-default-swaps
+- storage-costs
+- roll-yield
+- risk-premium
+- spot-rates
+- put-options
+- affine-term-structure
+- momentum
+- basis-risk
+- hedge-strategies
+- term-structure
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- investment-analysis
+- portfolio-optimization
+- value-at-risk
+- metals-trading
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- barrier-options
+- cross-hedging
+- seasonality
+- clean-price
+- yield-curve-shocks
+- principal-protected-notes
+- strangles
+- equity-linked-notes
+- fixed-income
+- short-rate-models
+- swap-spread
+- credit-migration
+- default-probability
+- marking-to-market
+- auto-callables
+- total-return-swaps
+- libor
+- credit-spreads
+- multi-factor-models
+- structured-notes
+- iron-condors
+- financial-markets
+- static-hedging
+- size-effect
+- basis-swaps
+- knock-out-options
+- interest-rate-swaps
+- futures-contracts
+- apt
+- bootstrap-method
+- current-yield
+title: PSET 3 Financial Instruments
+type: case-study
 ---
+--
+
+
 
 **Homework 3**
 Roger Lin

@@ -1,31 +1,115 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Currency Swaps
-title: Currency Swaps
-tags:
-  - currency_swaps
-  - exchange_rate_risk
-  - government_bonds
-  - hedging
-  - swap_contract
-  - cross_currency_swaps
-  - fixed_income
-  - international_finance
+academic_level: graduate
 aliases:
-  - FX swap
-  - Currency Swap
-  - Cross-Currency Swap
+- FX swap
+- Currency Swap
+- Cross-Currency Swap
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000174
 key_concepts:
-  - Bond valuation in foreign currencies
-  - Currency swap rates determination
-  - Exchange rate risk hedging
-  - Government bond issuance
-  - Swap contract mechanics
-  - Principal exchange mechanics
-  - Semi-annual coupon payments
-  - Interest rate differentials
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Currency swaps and foreign exchange risk management
+- Collateralized debt obligations (CDO) and tranche structure
+- Sensitivity analysis and Greeks calculation
+- Swap Market Mechanisms and Pricing
+- Risk Measurement and VaR Backtesting
+- Delta, Gamma, and Vega Hedging Techniques
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Value at Risk and Expected Shortfall
+- Factor Models and Asset Pricing
+- Fama-French Factors and Style Analysis
+- Hedging Strategies and Risk Mitigation
+- Dynamic vs Static Hedging in Practice
+- Government and Corporate Bond Markets
+- Interest Rate Swaps and Currency Swap Structures
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: Currency Swaps
+professional_application: theoreti
+status: active
+tags:
+- binomial-model
+- black-scholes-model
+- cds
+- collateralized-debt-obligation
+- continuous-time-pricing
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- cross-currency-swap
+- currency-hedging
+- currency-markets
+- default-probability
+- cross-hedging
+- zero-coupon-bonds
+- clean-price
+- momentum
+- expected-shortfall
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- basis-risk
+- book-to-market
+- fixed-income
+- var-methodologies
+- historical-var
+- hedge-strategies
+- vega-hedging
+- volatility-analysis
+- sofr
+- swap-rate
+- style-analysis
+- bond-pricing
+- swap-spread
+- corporate-bonds
+- stress-testing
+- roll-over-risk
+- delta-hedging
+- value-at-risk
+- total-return-swaps
+- libor
+- currency-swaps
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- multi-factor-models
+- government-bonds
+- static-hedging
+- size-effect
+- factor-models
+- basis-swaps
+- value-factor
+- interest-rate-swaps
+- dirty-price
+- credit-default-swaps
+- gamma-hedging
+- dynamic-hedging
+- monte-carlo-var
+- hedge-effectiveness
+- risk-management
+- var-backtesting
+- coupon-bonds
+- apt
+- current-yield
+- yield-to-maturity
+- fama-french
+title: Currency Swaps
+type: note
 ---
+--
+
+
 
 # Currency Swaps
 

@@ -1,3 +1,71 @@
+---
+tags:
+- basel-accord
+- credit-rating
+- multiple
+- roe
+- maturity
+- forward-pricing
+- asset-allocation
+- growth
+- forward-contracts
+- fundamental
+- bid-ask-spread
+- future
+- yield-curve
+- caplet
+- capital-adequacy
+- funding-costs
+- premium
+- convexity-adjustment
+- debit-valuation-adjustment
+- call
+- market
+- bond
+- duration-analysis
+- fixed-income-sensitivity
+- liquidity
+- forward-rates
+- yield
+- banking-regulation
+- interest-rate
+- fed-funds
+key_concepts:
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Fed Funds in financial markets
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000087
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
+
+
  
 source: https://www.investopedia.com/terms/e/expectationstheory.asp
 description: Expectations theory attempts to predict what short-term interest rates

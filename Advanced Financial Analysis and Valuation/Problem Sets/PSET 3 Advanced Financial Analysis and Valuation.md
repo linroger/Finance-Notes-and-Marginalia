@@ -1,36 +1,176 @@
 ---
-tags:
-  - advanced_financial_analysis
-  - commodity_prices
-  - ethylene_capacity
-  - natural_gas_prices
-  - westlake_operations
-  - petrochemicals
-  - financial_forecasting
-  - cyclical_industries
-  - valuation
-  - risk_analysis
-  - earnings_per_share
+academic_level: graduate
 aliases:
-  - BUSN 30313
-  - PSET 3
-  - Roger Lin
-  - Westlake
+- BUSN 30313
+- PSET 3
+- Roger Lin
+- Westlake
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000229
 key_concepts:
-  - PVC and VCM production: Polyvinyl chloride and vinyl chloride monomer production processes in petrochemical industry
-  - commodity petrochemicals: Basic chemical products with standard specifications traded in large volumes
-  - ethylene production: Key olefin manufacturing process using natural gas as feedstock
-  - natural gas feedstocks: Primary raw material input for ethylene production at Westlake
-  - natural gas price volatility: Significant fluctuations in gas prices affecting production economics
-  - olefins and vinyls chains: Two main product segments comprising ethylene derivatives and PVC products
-  - peak cycle EPS estimate: Earnings per share forecast at the cyclical peak of commodity margins
-  - vertically integrated producer: Company controlling multiple stages from raw materials to finished products
-  - operating leverage: High fixed costs relative to variable costs in petrochemical manufacturing
-  - pricing power: Ability to influence product prices in competitive commodity markets
-  - interest rate sensitivity: Impact of rate changes on construction demand for PVC products
-  - supply-demand dynamics: Market forces driving commodity price cycles in petrochemicals
+- Duration analysis and interest rate risk management
+- Value at Risk (VaR) and tail risk measurement
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Duration and Convexity in Fixed Income Risk Management
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Flexibility Value in Capital Budgeting
+- Forward Curves and Roll Strategies
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Option to Expand and Investment Timing
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Real Options in Strategic Investment Decisions
+- Credit Spreads and Rating Migration Analysis
+- Interest Rate Risk and DV01 Calculations
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- asset-allocation
+- caplet
+- commodity-derivatives
+- commodity-futures
+- credit-rating
+- debit-valuation-adjustment
+- duration-analysis
+- fixed-income-sensitivity
+- forward-contracts
+- forward-pricing
+- funding-costs
+- futures
+- hedging
+- interest-rate-cap
+- interest-rate-ceiling
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- option-to-abandon
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- option-strategies
+- timing-options
+- unexpected-loss
+- clearinghouse
+- interest-rate-risk
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- forward-curves
+- monte-carlo-var
+- options-trading
+- commodity-trading
+- price-to-earnings
+- fama-french
+- recovery-rate
+- real-options
+- strategic-investment
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- modified-duration
+- expected-loss
+- quantitative-finance
+- protective-puts
+- probabilty-of-default
+- curve-steepening
+- storage-costs
+- roll-yield
+- risk-premium
+- put-options
+- affine-term-structure
+- momentum
+- curve-flattening
+- option-to-expand
+- basis-risk
+- convexity
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- flexibility-value
+- metals-trading
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- barbell-strategy
+- risk-management
+- convergence
+- var-backtesting
+- sum-of-parts
+- seasonality
+- strangles
+- conditional-var
+- dv01
+- short-rate-models
+- price-yield-relationship
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- macaulay-duration
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+- natural-resource-valuation
+type: note
 ---
+--
+
+
 
 # PSET 3 - Advanced Financial Analysis and Valuation
 

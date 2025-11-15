@@ -1,24 +1,222 @@
 ---
-tags:
-  - capital_allocation
-  - equity_markets
-  - market_efficiency
-  - shareholders
-  - stock_exchange
+academic_level: graduate
 aliases:
-  - Efficient Market Hypothesis
-  - Equity Markets
-  - Stock Exchanges
+- Efficient Market Hypothesis
+- Equity Markets
+- Stock Exchanges
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000332
 key_concepts:
-  - Acquisition motives
-  - Benefits of stock exchange
-  - Efficient capital allocation
-  - Level playing field
-  - Liquid stock exchanges
-  - NPV decision rule
-  - Public company reporting
-  - Shareholder wealth
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Net present value (NPV) and investment evaluation
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Alpha generation and active portfolio management
+- Beta estimation and systematic risk measurement
+- Volatility modeling and estimation techniques
+- Beta estimation and systematic risk measurement
+- Alpha generation and active return measurement
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Delta, Gamma, and Vega Hedging Techniques
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Distressed Investing and Debt Restructuring
+- Cost of Equity and Expected Returns
+- Forward Curves and Roll Strategies
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- active-return
+- arbitrage-opportunity
+- arch
+- asset-allocation
+- banking-regulation
+- basel-accord
+- beta-estimation
+- bid-ask-spread
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-budgeting
+- capital-structure
+- caplet
+- cash-flow-modeling
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- exchange-offers
+- backwardation
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- bond-pricing
+- option-strategies
+- cramdown
+- corporate-bonds
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- debt-restructuring
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dirty-price
+- forward-curves
+- distressed-investing
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- expected-loss
+- market-efficiency
+- delta-hedging
+- order-flow
+- systematic-risk
+- protective-puts
+- government-bonds
+- alpha
+- security-market-line
+- probabilty-of-default
+- liquidity
+- gamma-hedging
+- hedge-effectiveness
+- idiosyncratic-risk
+- storage-costs
+- roll-yield
+- beta
+- risk-premium
+- put-options
+- affine-term-structure
+- capm
+- algorithmic-trading
+- momentum
+- basis-risk
+- market-risk-premium
+- hedge-strategies
+- covered-calls
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- roll-over-risk
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- value-at-risk
+- metals-trading
+- blocker-strategy
+- factor-models
+- convenience-yield
+- creditor-committees
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- tender-offers
+- cross-hedging
+- sum-of-parts
+- seasonality
+- clean-price
+- ' DIP-financing'
+- high-frequency-trading
+- strangles
+- conditional-var
+- fixed-income
+- short-rate-models
+- efficient-frontier
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- static-hedging
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+- current-yield
+type: note
 ---
+--
+
+
 
 # 1 An introduction to equity markets  
 

@@ -1,21 +1,59 @@
 ---
 tags:
-  - arrow_debreu_asset
-  - gop
-  - growth_optimal_portfolio
-  - numeraire
-  - tangency_portfolio
+- delta
+- gop
+- numeraire
+- risk-free
+- growth-rate
+- theta
+- probability
+- arrow_debreu_asset
+- growth
+- growth_optimal_portfolio
+- tangency_portfolio
+- stochastic
+- dividend
+- oil
+- call
+- market
+- trading
+- cdo
+- var
+- measure
+- portfolio
 aliases:
-  - Arrow-Debreu assets
-  - GOP strategy
-  - Growth-optimal trading strategy
+- Arrow-Debreu assets
+- GOP strategy
+- Growth-optimal trading strategy
 key_concepts:
-  - Arrow-Debreu asset definition
-  - Changing numeraire, measure
-  - GOP in multi-period setting
-  - Growth-optimal portfolio (GOP)
-  - Maximize expected log-return
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Banking and credit intermediation
+- Bank balance sheet management
+- Delta hedging strategies in options markets
+- Growth Rate in financial markets
+- Risk Free in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000450
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 11.6 Changing the numeraire without changing the measure  
 

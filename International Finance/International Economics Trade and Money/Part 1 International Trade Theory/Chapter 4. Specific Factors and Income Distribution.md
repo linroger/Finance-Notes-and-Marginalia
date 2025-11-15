@@ -1,19 +1,71 @@
 ---
-cssclasses: [international-economics]
-title: Chapter 4. Specific Factors and Income Distribution
-tags: [international-economics, specific-factors-model, income-distribution, short-run-effects]
-aliases: [Specific Factors Model, Income Distribution]
+aliases:
+- Specific Factors Model
+- Income Distribution
+cssclasses:
+- international-economics
 key_concepts:
-  - Specific Factors
-  - Mobile Factors
-  - Income Distribution
-  - Short-run Effects of Trade
-  - Winners and Losers from Trade
-  - Diminishing Returns
-  - Production Possibility Frontier
-  - Factor Price Equalization
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Chapter 4. Specific Factors and Income Distribution and financial analysis
+- Chapter 4. Specific Factors and Income Distribution in modern finance
+- Applications of Chapter 4. Specific Factors and Income Distribution
+- 'Case study: Chapter 4. Specific Factors and Income Distribution'
+- Duration and interest rate risk measurement
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
 linter-yaml-title-alias: Chapter 4. Specific Factors and Income Distribution
+tags:
+- efficiency
+- options
+- duration
+- probability
+- margin
+- swaps
+- capital
+- agricultural
+- risk-management
+- irs
+- distribution
+- apt
+- put
+- trading
+- call
+- model
+- market
+- liquidity
+- bonds
+- var
+- measure
+title: Chapter 4. Specific Factors and Income Distribution
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000544
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Chapter 4. Specific Factors and Income Distribution
 

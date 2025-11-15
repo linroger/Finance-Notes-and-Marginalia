@@ -1,23 +1,86 @@
 ---
-title: War Economies
-cssclasses: academia
-tags:
-  - big_debt_crises
-  - economic_conflicts
-  - economic_rivalries
-  - geopolitical_cycle
-  - war_economies
 aliases:
-  - Conflict Economics
-  - Military Economics
-  - War Economy
+- Conflict Economics
+- Military Economics
+- War Economy
+cssclasses: academia
 key_concepts:
-  - economic conflicts, military conflicts
-  - economic rivalries, fighting
-  - economic/geopolitical cycle
-  - populist, autocratic leaders
-  - war production, consumption, accounting
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- War Economies and financial analysis
+- War Economies in modern finance
+- Applications of War Economies
+- 'Case study: War Economies'
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Discount Rate in financial markets
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Premium Bond in financial markets
+- Time Value in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+tags:
+- barrier
+- volatility
+- eur
+- solvency
+- hedge
+- margin
+- commodity
+- discount-rate
+- arma
+- swaps
+- forward
+- future
+- time-value
+- dividend
+- irs
+- option
+- oil
+- put
+- trading
+- bond
+- intrinsic
+- american
+- bonds
+- spread
+- options
+- fixed-income
+- credit
+- call
+- strike
+- treasury
+- liquidity
+- yield
+title: War Economies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000550
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # War Economies
 

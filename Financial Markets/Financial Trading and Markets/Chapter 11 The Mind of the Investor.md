@@ -1,20 +1,76 @@
 ---
 tags:
-  - behavioral_finance
-  - day_traders
-  - investor_behavior
-  - market_efficiency
-  - rational_investor
+- investor_behavior
+- efficiency
+- eur
+- volatility
+- multiple
+- rational_investor
+- hedge
+- convexity
+- probability
+- margin
+- discount-rate
+- behavioral_finance
+- forward
+- momentum
+- future
+- time-value
+- dividend
+- gamma
+- day_traders
+- pricing
+- correlation
+- option
+- hedging
+- distribution
+- market_efficiency
 aliases:
-  - Investor's Mind
-  - Rationality in Investing
+- Investor's Mind
+- Rationality in Investing
 key_concepts:
-  - Day traders' performance
-  - Efficient market theories
-  - Investor IQ and success
-  - Rational investor paradigms
-  - Rationality assumption in models
+- American option pricing and early exercise
+- Option valuation and hedging strategies
+- Bond convexity and price-yield relationships
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Model calibration and parameter estimation
+- Bid Ask in financial markets
+- Convexity adjustments for bond portfolio management
+- Correlation modeling and dependency structures
+- Discount Rate in financial markets
+- Gamma risk and convexity adjustments in options
+- Risk hedging strategies and instruments
+- Mean Reversion in financial markets
+- Time Value in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000270
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # The Mind of the Investor  
 

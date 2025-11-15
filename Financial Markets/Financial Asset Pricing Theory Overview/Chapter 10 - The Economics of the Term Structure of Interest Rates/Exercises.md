@@ -1,20 +1,69 @@
 ---
 tags:
-  - discount_function
-  - interest_rate
-  - ornstein_uhlenbeck
-  - term_premium
-  - zero_coupon_bond
+- delta
+- zero_coupon_bond
+- volatility
+- martingale
+- term_premium
+- arbitrage
+- probability
+- maturity
+- coupon
+- discount-rate
+- spot-rate
+- forward
+- future
+- stochastic
+- gamma
+- correlation
+- distribution
+- interest_rate
+- ornstein_uhlenbeck
+- put
+- bond
+- discount_function
+- measure
+- forward-rate
+- brownian
 aliases:
-  - Chapter 10 Exercises
-  - Exercises
+- Chapter 10 Exercises
+- Exercises
 key_concepts:
-  - Arbitrage and short rate
-  - Interest rate uncertainty
-  - Nominal term structure
-  - SAINTS model
-  - Term premium and deflator
+- Fixed income securities and yield curve analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Arbitrage pricing theory and no-arbitrage principle
+- Correlation modeling and dependency structures
+- Delta hedging strategies in options markets
+- Discount Rate in financial markets
+- Forward Rate in financial markets
+- Gamma risk and convexity adjustments in options
+- Interest Rate in financial markets
+- Spot Rate in financial markets
+- Term Structure in financial markets
+- Volatility modeling and implied volatility surfaces
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000460
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 10.10 Exercises  
 

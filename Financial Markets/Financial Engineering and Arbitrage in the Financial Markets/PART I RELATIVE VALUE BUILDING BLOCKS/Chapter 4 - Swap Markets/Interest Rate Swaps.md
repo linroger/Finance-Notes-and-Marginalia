@@ -1,21 +1,77 @@
 ---
 tags:
-  - fixed_rate
-  - floating_rate
-  - fra
-  - interest_rate_swaps
-  - libor
+- fra
+- fixed_rate
+- floating_rate
+- delta
+- synthetic
+- eur
+- volatility
+- hedge
+- convexity
+- discount-rate
+- forward
+- future
+- implied
+- swap
+- libor
+- yield-curve
+- pricing
+- counterparty
+- option
+- hedging
+- put
+- bond
+- spread
+- forward-rate
+- interest_rate_swaps
 aliases:
-  - IRS
-  - Interest Rate Swap
-  - Swap
+- IRS
+- Interest Rate Swap
+- Swap
 key_concepts:
-  - FRA Settlement Formula
-  - Fixed vs Floating Rates
-  - LIBOR and Indexing
-  - Off-Market FRAs
-  - Swap Valuation
+- Option Greeks and risk sensitivities
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Bond convexity and price-yield relationships
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Hedging strategies and delta-gamma neutrality
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Financial derivatives pricing and valuation
+- Convexity adjustments for bond portfolio management
+- Delta hedging strategies in options markets
+- Discount Rate in financial markets
+- Fed Funds in financial markets
+- Forward Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Spot Rate in financial markets
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000309
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 4.2 INTEREST RATE SWAPS  
 

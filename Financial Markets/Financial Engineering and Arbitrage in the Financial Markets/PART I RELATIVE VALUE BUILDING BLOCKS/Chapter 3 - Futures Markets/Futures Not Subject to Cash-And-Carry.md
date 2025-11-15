@@ -1,21 +1,67 @@
 ---
 tags:
-  - cash_and_carry
-  - commodity_markets
-  - convenience_yield
-  - financial_assets
-  - futures_contracts
+- backwardation
+- contango
+- convenience_yield
+- arbitrage
+- hedge
+- futures_contracts
+- margin
+- repo
+- energy
+- coupon
+- financial_assets
+- commodity
+- forward
+- commodity_markets
+- future
+- agricultural
+- libor
+- dividend
+- spot-price
+- oil
+- put
+- trading
+- bond
+- gold
+- cash_and_carry
 aliases:
-  - Commodities
-  - Convenience Assets
-  - Futures
+- Commodities
+- Convenience Assets
+- Futures
 key_concepts:
-  - Commodities convenience assets
-  - Convenience yield definition
-  - Cost-of-carry equation
-  - Futures not cash-and-carry
-  - Pure financial assets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Arbitrage pricing theory and no-arbitrage principle
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Spot Price in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000293
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 3.4  FUTURES NOT SUBJECT TO CASH-AND-CARRY  
 

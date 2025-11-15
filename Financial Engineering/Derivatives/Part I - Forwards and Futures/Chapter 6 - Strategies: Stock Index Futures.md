@@ -1,22 +1,210 @@
 ---
-tags:
-  - hedge_funds
-  - market_risk
-  - merger_arbitrage
-  - stock_index_futures
-  - stock_picking
+academic_level: graduate
 aliases:
-  - MaxPill
-  - MoneyPlus
-  - SIF
-  - Stock picks
+- MaxPill
+- MoneyPlus
+- SIF
+- Stock picks
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000376
 key_concepts:
-  - effective beta
-  - hedge market risk
-  - merger arbitrage
-  - stock index futures
-  - underpriced stocks
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Alpha generation and active portfolio management
+- Beta estimation and systematic risk measurement
+- Factor models and multi-factor pricing
+- Beta estimation and systematic risk measurement
+- Alpha generation and active return measurement
+- Risk preference theory and utility functions
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Delta, Gamma, and Vega Hedging Techniques
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Cost of Equity and Expected Returns
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- Interest Rate Swaps and Currency Swap Structures
+- Private Equity Investment Returns and Value Creation
+- Term Structure of Interest Rates and Yield Curves
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- asset-allocation
+- banking-regulation
+- basel-accord
+- beta-estimation
+- capital-adequacy
+- capital-asset-pricing
+- caplet
+- coherent-risk-measure
+- conditional-var
+- convexity-adjustment
+- corporate-combinations
+- credit-rating
+- delta-hedging
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- backwardation
+- volatility-analysis
+- style-analysis
+- leverage-ratio
+- option-strategies
+- yield-curve
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- interpolation
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- private-equity
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- market-impact
+- forward-contracts
+- forward-rates
+- fama-french
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- debt-capacity
+- expected-loss
+- market-efficiency
+- quantitative-finance
+- forward-curve
+- order-flow
+- currency-swaps
+- bid-ask-spread
+- systematic-risk
+- investment-return
+- protective-puts
+- alpha
+- security-market-line
+- probabilty-of-default
+- liquidity
+- curve-fitting
+- gamma-hedging
+- hedge-effectiveness
+- idiosyncratic-risk
+- roll-yield
+- beta
+- risk-premium
+- spot-rates
+- put-options
+- affine-term-structure
+- equity-kickers
+- capm
+- lbo-valuation
+- algorithmic-trading
+- momentum
+- basis-risk
+- market-risk-premium
+- hedge-strategies
+- term-structure
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- investment-analysis
+- portfolio-optimization
+- value-at-risk
+- bootstrap-strategy
+- management-buyout
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- cross-hedging
+- yield-curve-shocks
+- high-frequency-trading
+- strangles
+- short-rate-models
+- swap-spread
+- efficient-frontier
+- credit-migration
+- default-probability
+- marking-to-market
+- total-return-swaps
+- libor
+- credit-spreads
+- multi-factor-models
+- iron-condors
+- financial-markets
+- static-hedging
+- size-effect
+- basis-swaps
+- interest-rate-swaps
+- futures-contracts
+- apt
+- bootstrap-method
+- credit-default-swaps
+type: note
 ---
+--
+
+
+
 # Strategies: Stock Index Futures  
 
 # Aims  

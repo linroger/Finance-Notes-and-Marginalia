@@ -1,22 +1,57 @@
 ---
 tags:
-  - accrued_interest
-  - bond_pricing
-  - clean_price
-  - day_count_convention
-  - dirty_price
+- ito
+- clean_price
+- maturity
+- coupon
+- dirty_price
+- bond_pricing
+- day_count_convention
+- dcf
+- apt
+- compliance
+- put
+- call
+- bond
+- accrued_interest
+- treasury
+- rating
+- market
+- trading
+- roa
+- interest-rate
 aliases:
-  - Flat Price
-  - Full Price
-  - Invoice Price
-  - Quoted Price
+- Flat Price
+- Full Price
+- Invoice Price
+- Quoted Price
 key_concepts:
-  - Accrued Interest Calculation
-  - Actual/Actual Day-Count
-  - Coupon Payment Division
-  - Full vs. Flat Price
-  - Present Value of Cash Flows
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Discounted Cash Flow valuation methodology
+- Interest Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000156
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 1.6 ACCRUED INTEREST  
 

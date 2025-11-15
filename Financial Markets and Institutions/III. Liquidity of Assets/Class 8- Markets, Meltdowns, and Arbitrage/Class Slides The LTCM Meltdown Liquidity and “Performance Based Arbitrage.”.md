@@ -1,26 +1,94 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Class Slides The LTCM Meltdown Liquidity and “Performance
   Based Arbitraged
 title: Class Slides The LTCM Meltdown Liquidity and “Performance Based Arbitrage.”
 tags:
-  - hedge_fund
-  - ltcm_meltdown
-  - news_trade
-  - pba_arb
-  - performance_based_arbitrage
+- performance_based_arbitrage
+- tracking-error
+- hedge
+- probability
+- margin
+- future
+- pricing
+- hedge_fund
+- put
+- regulatory-capital
+- caps-floors
+- trading
+- ltcm
+- hedge-fund
+- financial-markets
+- crisis
+- derivatives
+- default
+- noise
+- regression-discontinuity
+- arbitrage
+- pba_arb
+- event-study
+- repo
+- news_trade
+- fundamental
+- capital
+- financial-crisis
+- private-equity
+- ltcm_meltdown
+- hedge-funds
+- call
+- investment-strategy
+- market
+- cdo
+- liquidity
+- banking
+- yield
+- yield-to-maturity
 aliases:
-  - LTCM
-  - Long-Term Arbitrage
-  - PBA
+- LTCM
+- Long-Term Arbitrage
+- PBA
 key_concepts:
-  - Hedge Fund Behavior
-  - LTCM Meltdown
-  - News Trade
-  - PBA Investor Decisions
-  - Performance Based Arbitrage
+- LTCM Meltdown
+- News Trade
+- Hedge Fund Behavior
+- Performance Based Arbitrage
+- PBA Investor Decisions
+- Arbitrage pricing theory and fundamental theorem of asset pricing
+- Market efficiency hypotheses and their implications for investment strategies
+- No-arbitrage conditions in financial markets
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
+- Arbitrage pricing theory and no-arbitrage principle
+- Credit default probability and recovery modeling
+- Risk hedging strategies and instruments
+- Market liquidity analysis and liquidity risk
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000068
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 LTCM Meltdown]]
 

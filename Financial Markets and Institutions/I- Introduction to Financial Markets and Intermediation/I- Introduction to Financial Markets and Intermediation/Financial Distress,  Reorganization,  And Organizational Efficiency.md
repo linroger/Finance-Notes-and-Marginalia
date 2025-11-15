@@ -2,33 +2,82 @@
 cssclasses: academia
 title: Financial Distress, Reorganization, and Organizational Efficiency
 tags:
-  - bankruptcy
-  - chapter_11
-  - financial_distress
-  - organizational_efficiency
-  - restructuring
-  - agency_conflicts
-  - workout_negotiations
-  - corporate_reorganization
-  - insolvency_types
-  - distress_costs
+- efficiency
+- leverage
+- solvency
+- binomial-model
+- continuous-time-pricing
+- future
+- caplet
+- capital-adequacy
+- cash-flow-modeling
+- distribution
+- option
+- oil
+- put
+- bond
+- structured
+- banking-regulation
+- valuation
+- coherent-risk-measure
+- basel-accord
+- default
+- cds
+- ito
+- cost-of-capital
+- repo
+- capital
+- arch
+- equity
+- conditional-var
+- capital-structure
+- apt
+- credit
+- convexity-adjustment
+- call
+- rating
+- black-scholes-model
 aliases:
-  - Financial Restructuring
-  - Organizational Changes
-  - Financial Distress Resolution
-  - Corporate Reorganization
+- Financial Restructuring
+- Organizational Changes
+- Financial Distress Resolution
+- Corporate Reorganization
 key_concepts:
-  - Conflicts of interest
-  - Financial distress impact
-  - Financial restructuring costs
-  - Organizational restructuring
-  - Resolving distress methods
-  - Stock vs flow insolvency
-  - Information asymmetry
-  - Bankruptcy court supervision
-  - Private workout solutions
-  - Chapter 7 vs Chapter 11
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Credit default probability and recovery modeling
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000074
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
+
 
 # Financial Distress, Reorganization, and Organizational Efficiency
 

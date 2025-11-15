@@ -1,20 +1,53 @@
 ---
 tags:
-  - curve_risk
-  - key_rates
-  - on_the_run_bonds
-  - term_structure
-  - treasury_yields
+- curve_risk
+- term-structure
+- hedging
+- apt
+- hedge
+- treasury_yields
+- term_structure
+- bond
+- maturity
+- on_the_run_bonds
+- treasury
+- financial-engineering
+- financial-markets
+- yield
+- key_rates
 aliases:
-  - Key Rates Motivation
-  - Term Structure Changes
+- Key Rates Motivation
+- Term Structure Changes
 key_concepts:
-  - Control curve risk
-  - Multi-factor hedging
-  - On-the-run bonds
-  - Term structure behavior
-  - Treasury yield changes
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Risk hedging strategies and instruments
+- Term Structure in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000214
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 5.1 KEY RATES: MOTIVATION  
 

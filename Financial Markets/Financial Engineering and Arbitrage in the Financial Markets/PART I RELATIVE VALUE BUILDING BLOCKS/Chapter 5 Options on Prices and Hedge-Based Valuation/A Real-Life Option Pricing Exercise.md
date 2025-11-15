@@ -1,32 +1,74 @@
 ---
 tags:
-  - binomial_model
-  - black_scholes
-  - libor
-  - option_pricing
-  - put_call_parity
+- delta
+- eur
+- volatility
+- convexity
+- hedge
+- option_pricing
+- commodity
+- forward
+- future
+- implied
+- yield-curve
+- libor
+- black_scholes
+- dividend
+- gamma
+- pricing
+- distribution
+- option
+- hedging
+- binomial
+- put
+- bond
+- put_call_parity
+- binomial_model
+- valuation
 aliases:
-  - Binomial
-  - Black-Scholes
-  - LIBOR
-  - Option Pricing Exercise
-  - Put-Call Parity
+- Binomial
+- Black-Scholes
+- LIBOR
+- Option Pricing Exercise
+- Put-Call Parity
 key_concepts:
-  - Binomial model inputs
-  - Black-Scholes model
-  - Black-Scholes output
-  - Continuous put-call parity
-  - Delta difference
-  - Dividend yield calculation
-  - Fair forward calculation
-  - Futures cash-and-carry parity
-  - Greeks of calls/puts
-  - Implied volatility
-  - Interest rate conversion
-  - Option pricing exercise
-  - Put-call parity
-  - Strike price impact
+- Binomial model inputs
+- Black-Scholes model
+- Black-Scholes output
+- Continuous put-call parity
+- Delta difference
+- Dividend yield calculation
+- Fair forward calculation
+- Futures cash-and-carry parity
+- Greeks of calls/puts
+- Implied volatility
+- Interest rate conversion
+- Option pricing exercise
+- Put-call parity
+- Strike price impact
+- Arbitrage pricing theory and no-arbitrage principle
+- Binomial option pricing model and tree methods
+- Black-Scholes option pricing model and its applications
+- Convexity adjustments for bond portfolio management
+- Delta hedging strategies in options markets
+- Gamma risk and convexity adjustments in options
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Value at Risk and tail risk measurement
+- Vega and volatility exposure in options trading
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000284
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 5.9 A REAL-LIFE OPTION PRICING EXERCISE  
 

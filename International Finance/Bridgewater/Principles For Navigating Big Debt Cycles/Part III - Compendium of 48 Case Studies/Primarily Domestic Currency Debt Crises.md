@@ -1,3 +1,75 @@
+---
+key_concepts:
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Primarily Domestic Currency Debt Crises and financial analysis
+- Primarily Domestic Currency Debt Crises in modern finance
+- Applications of Primarily Domestic Currency Debt Crises
+- 'Case study: Primarily Domestic Currency Debt Crises'
+- Credit default probability and recovery modeling
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+tags:
+- eur
+- monetary-policy
+- solvency
+- commodity
+- swaps
+- irs
+- interest-rates
+- put
+- gold
+- crisis
+- measure
+- default
+- options
+- ito
+- usd
+- growth
+- capital
+- equity
+- exchange-rate
+- european
+- credit
+- call
+- market
+- currency
+- liquidity
+- portfolio-optimization
+- portfolio
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000559
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 ## Principles For Navigating Big Debt Crises**
 
 ### **Part 3: Compendium of 48 Case Studies**

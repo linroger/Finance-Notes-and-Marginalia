@@ -1,3 +1,190 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000019
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Chapter 6 Intermediate Input Trade and Offshoring and financial analysis
+- Chapter 6 Intermediate Input Trade and Offshoring in modern finance
+- Applications of Chapter 6 Intermediate Input Trade and Offshoring
+- 'Case study: Chapter 6 Intermediate Input Trade and Offshoring'
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Auto-Callable Notes and Barrier Options
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- Equity-Linked Notes and Market-Linked Securities
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Cost of Equity and Expected Returns
+- Forward Curves and Roll Strategies
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Structured Products and Principal Protection
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Interest Rate Swaps and Currency Swap Structures
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+tags:
+- credit
+- options
+- swaps
+- put
+- ratio
+- var
+- trading
+- liquidity
+- spread
+- call
+- multiple
+- irs
+- risk-managem
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- option-strategies
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- forward-curves
+- monte-carlo-var
+- options-trading
+- commodity-trading
+- forward-contracts
+- fama-french
+- price-to-earnings
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- expected-loss
+- quantitative-finance
+- currency-swaps
+- market-linked-notes
+- systematic-risk
+- protective-puts
+- alpha
+- security-market-line
+- probabilty-of-default
+- reverse-convertibles
+- idiosyncratic-risk
+- storage-costs
+- roll-yield
+- beta
+- risk-premium
+- put-options
+- affine-term-structure
+- capm
+- momentum
+- basis-risk
+- market-risk-premium
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- metals-trading
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- barrier-options
+- sum-of-parts
+- seasonality
+- principal-protected-notes
+- strangles
+- conditional-var
+- equity-linked-notes
+- short-rate-models
+- swap-spread
+- efficient-frontier
+- credit-migration
+- default-probability
+- marking-to-market
+- auto-callables
+- total-return-swaps
+- libor
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- structured-notes
+- iron-condors
+- financial-markets
+- size-effect
+- basis-swaps
+- precedent-transactions
+- knock-out-options
+- interest-rate-swaps
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+- credit-default-swaps
+---
+--
+
 # **Chapter 6**
 
 # **Intermediate Input Trade and Offshoring**

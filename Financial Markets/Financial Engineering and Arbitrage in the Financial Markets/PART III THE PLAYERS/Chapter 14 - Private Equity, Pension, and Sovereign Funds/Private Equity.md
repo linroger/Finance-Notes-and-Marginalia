@@ -1,29 +1,67 @@
 ---
 tags:
-  - investment
-  - lbo
-  - limited_partnership
-  - private_equity
-  - venture_capital
+- efficiency
+- leverage
+- eur
+- multiple
+- diversification
+- p-e
+- senior
+- subordinated
+- repo
+- growth
+- investment
+- arma
+- dividend
+- limited_partnership
+- pricing
+- distribution
+- option
+- put
+- trading
+- bond
+- private_equity
+- venture_capital
+- crisis
+- lbo
+- structured
 aliases:
-  - LBO
-  - Leveraged Buyout
-  - PE
-  - Private Equity
+- LBO
+- Leveraged Buyout
+- PE
+- Private Equity
 key_concepts:
-  - Capital call liability
-  - General partner (GP)
-  - Leverage buyout (LBO)
-  - Limited partners (LPs)
-  - Limited partnership funds
-  - Limited partnership shares
-  - Mezzanine debt financing
-  - Net asset value (NAV)
-  - Operating cash flows
-  - Private equity firms
-  - Raise funds for acquisitions
-  - Return on investment
+- Capital call liability
+- General partner (GP)
+- Leverage buyout (LBO)
+- Limited partners (LPs)
+- Limited partnership funds
+- Limited partnership shares
+- Mezzanine debt financing
+- Net asset value (NAV)
+- Operating cash flows
+- Private equity firms
+- Raise funds for acquisitions
+- Return on investment
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- P E in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000361
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 14.1  PRIVATE EQUITY  
 

@@ -1,22 +1,81 @@
 ---
-title: "Appendix 18.B Constructing a Normal Probability Plot"
-cssclasses: academia
-tags:
-  - cumulative-inverse
-  - data-analysis
-  - normal-distribution
-  - probability-plot
-  - quantile
+academic_level: graduate
 aliases:
-  - NPP
-  - Normal Probability Plot
+- NPP
+- Normal Probability Plot
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000425
 key_concepts:
-  - Compare data quantiles
-  - Cumulative inverse function
-  - Data point plotting
-  - Normal probability plot
-  - Standard normal distribution
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Risk Measurement and VaR Backtesting
+- Ornstein-Uhlenbeck Process in Finance
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Factor Models and Asset Pricing
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- asset-allocation
+- coherent-risk-measure
+- conditional-var
+- credit-rating
+- expected-loss
+- hedging
+- investment-grade
+- linear-regression
+- low-default-risk
+- portfolio-management
+- regression-analysis
+- risk-management
+- risk-measures
+- statistical-modeling
+- tail-risk
+- affine-term-structure
+- hull-white
+- cir-model
+- momentum
+- expected-shortfall
+- parametric-var
+- extreme-value-theory
+- book-to-market
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- style-analysis
+- short-rate-models
+- stress-testing
+- ornstein-uhlenbeck
+- value-at-risk
+- arbitrage-pricing-theory
+- multi-factor-models
+- market-price-of-risk
+- size-effect
+- factor-models
+- value-factor
+- vasicek-model
+- monte-carlo-var
+- var-backtesting
+- apt
+- risk-premium
+- fama-french
+title: Appendix 18.B Constructing a Normal Probability Plot
+type: note
 ---
+--
+
+
 
 # Appendix 18.B Constructing a Normal Probability Plot
 

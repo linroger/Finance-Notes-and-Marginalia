@@ -1,25 +1,67 @@
 ---
 tags:
-  - bond_pricing
-  - credit_risk
-  - fixed_income
-  - market_participants
-  - yield_spreads
+- eur
+- hedge
+- maturity
+- repo
+- yield_spreads
+- forward
+- implied
+- market_participants
+- bond_pricing
+- future
+- swap
+- sofr
+- pricing
+- dcf
+- fixed_income
+- put
+- trading
+- bond
+- basel
+- spread
+- credit_risk
+- credit-risk
+- measure
+- forward-rate
+- valuation
 aliases:
-  - BTP-Bund spread
-  - JNJ bond
-  - bond spreads
-  - yield spread
+- BTP-Bund spread
+- JNJ bond
+- bond spreads
+- yield spread
 key_concepts:
-  - European sovereign debt
-  - German government bond
-  - benchmark bonds
-  - coupon effect
-  - fixed income securities
-  - idiosyncratic factors
-  - market-wide interest rates
-  - yield spreads
+- European sovereign debt
+- German government bond
+- benchmark bonds
+- coupon effect
+- fixed income securities
+- idiosyncratic factors
+- market-wide interest rates
+- yield spreads
+- Credit Risk in financial markets
+- Discounted Cash Flow valuation methodology
+- Forward Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- Relative Valuation in financial markets
+- SOFR implementation and overnight rate markets
+- Term Structure in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000197
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 3.5 SPREADS  
 

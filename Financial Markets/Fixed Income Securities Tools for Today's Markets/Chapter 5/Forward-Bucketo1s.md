@@ -1,22 +1,59 @@
 ---
 tags:
-  - forward_bucket
-  - interest_rate_risk
-  - key_rate
-  - municipal_bonds
-  - term_structure
-  - yield_curve
+- hedge
+- yield_curve
+- maturity
+- repo
+- coupon
+- municipal_bonds
+- forward_bucket
+- forward
+- portfolio
+- swap
+- discount
+- term-structure
+- hedging
+- interest_rate_risk
+- call
+- put
+- term_structure
+- bond
+- market
+- forward-rate
+- yield
+- key_rate
 aliases:
-  - Forward Bucket
-  - Forward-Bucket
-  - Wellesley Bonds
+- Forward Bucket
+- Forward-Bucket
+- Wellesley Bonds
 key_concepts:
-  - Forward bucket interpretation
-  - Forward rate curve
-  - Key rate vs forward bucket
-  - Term structure shifts
-  - Wellesley general obligation bonds
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Forward Rate in financial markets
+- Risk hedging strategies and instruments
+- Term Structure in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000212
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 5.6 FORWARD-BUCKET'O1S  
 

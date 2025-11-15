@@ -1,3 +1,153 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000023
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Chapter 2 The Principle of Comparative Advantage and financial analysis
+- Chapter 2 The Principle of Comparative Advantage in modern finance
+- Applications of Chapter 2 The Principle of Comparative Advantage
+- 'Case study: Chapter 2 The Principle of Comparative Advantage'
+- Basel III Regulatory Framework and Capital Requirements
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Forward Curves and Roll Strategies
+- Regulatory Capital and Stress Testing
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Liquidity Coverage Ratio and Net Stable Funding
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+tags:
+- swaps
+- options
+- put
+- var
+- trading
+- liquidity
+- spread
+- call
+- pricing
+- statement
+- ratio
+- arbitrage
+- irs
+- risk-managem
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- net-stable-funding
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- leverage-ratio
+- option-strategies
+- unexpected-loss
+- clearinghouse
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- capital-conservation-buffer
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- forward-curves
+- monte-carlo-var
+- options-trading
+- commodity-trading
+- forward-contracts
+- fama-french
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- regulatory-capital
+- expected-loss
+- quantitative-finance
+- protective-puts
+- probabilty-of-default
+- storage-costs
+- roll-yield
+- tier-2-capital
+- risk-premium
+- put-options
+- countercyclical-buffer
+- affine-term-structure
+- momentum
+- basis-risk
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- investment-analysis
+- value-at-risk
+- metals-trading
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- seasonality
+- strangles
+- conditional-var
+- short-rate-models
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- tier-1-capital
+- multi-factor-models
+- iron-condors
+- financial-markets
+- size-effect
+- liquidity-coverage-ratio
+- basel-iii
+- futures-contracts
+- apt
+---
+--
+
 # **Chapter 2 The Principle of Comparative Advantage**
 
 Imagine a place that grows avocados, strawberries, lemons, and almonds all at lower prices than anywhere else in the world. The same place also makes motorcycles, skateboards, laptops, and mobile apps. Whatever it makes is more competitively priced than in any other country. Should this place trade its products with other people around the world? After all, no growers and manufacturers elsewhere can match the imaginary place's prices. Moreover, what goods would other suppliers around the globe have to offer since it appears they would have little chance to compete?

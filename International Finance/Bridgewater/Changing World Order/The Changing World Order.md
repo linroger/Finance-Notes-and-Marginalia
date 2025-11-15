@@ -1,3 +1,138 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000003
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- The Changing World Order and financial analysis
+- The Changing World Order in modern finance
+- Applications of The Changing World Order
+- 'Case study: The Changing World Order'
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Forward Curves and Roll Strategies
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+tags:
+- credit
+- options
+- swaps
+- put
+- bonds
+- default
+- monetary-policy
+- yield
+- cds
+- call
+- interest-rate
+- interest-rates
+- null
+- put-options
+- leveraged-buyout
+- affine-term-structure
+- recovery-rate
+- sum-of-parts
+- call-options
+- price-to-earnings
+- cir-model
+- hull-white
+- seasonality
+- butterfly-spreads
+- momentum
+- strangles
+- dcf-analysis
+- expected-shortfall
+- straddles
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- book-to-market
+- var-methodologies
+- historical-var
+- mean-reversion
+- lognormal-models
+- covered-calls
+- ' exposure-at-default'
+- style-analysis
+- short-rate-models
+- energy-derivatives
+- option-strategies
+- stress-testing
+- mathematical-finance
+- unexpected-loss
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- expected-loss
+- investment-analysis
+- economic-value-added
+- quantitative-finance
+- credit-migration
+- default-probability
+- value-at-risk
+- credit-spreads
+- arbitrage-pricing-theory
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- protective-puts
+- market-price-of-risk
+- metals-trading
+- financial-markets
+- probabilty-of-default
+- loss-given-default
+- size-effect
+- factor-models
+- precedent-transactions
+- roll-strategies
+- value-factor
+- convenience-yield
+- vasicek-model
+- ipo-valuation
+- forward-curves
+- agricultural-commodities
+- monte-carlo-var
+- var-backtesting
+- options-trading
+- market-multiple
+- storage-costs
+- apt
+- risk-premium
+- commodity-trading
+- fama-french
+---
+--
+
 # The Changing World Order
 
 # **The Changing World Order**

@@ -1,30 +1,51 @@
 ---
 cssclasses:
-  - academia
-title: "Class Note 6: Restructuring Public Debt Out of Bankruptcy - Exchange Offers"
+- academia
+title: 'Class Note 6: Restructuring Public Debt Out of Bankruptcy - Exchange Offers'
 tags:
-  - bankruptcy
-  - coercive_exchange
-  - exchange_offers
-  - federal_trust_act
-  - public_debt
-  - junior_securities
-  - senior_securities
-  - holdout_problem
+- coercive_exchange
+- public_debt
+- holdout_problem
+- federal_trust_act
+- junior_securities
+- bankruptcy
+- senior_securities
+- exchange_offers
+- distressed
+- private-equity
+- financial-markets
+- banking
+- restructuring
+- corporate-finance
+- valuation
+- tracking-error
+- derivatives
+- mean-reversion
+- dark-pool
+- machine-learning
 aliases:
-  - Bankruptcy Exchange
-  - Debt Restructuring
-  - Note 6
-  - Exchange Offers
+- Bankruptcy Exchange
+- Debt Restructuring
+- Note 6
+- Exchange Offers
 key_concepts:
-  - Bankruptcy exchange offers
-  - Coercive exchange offers
-  - Junior securities failure
-  - Public debt restructuring
-  - Tendering vs holding out
-  - Senior vs junior securities
-  - Trust Indenture Act
-  - Collective action problems
+- Trust Indenture Act
+- Senior vs junior securities
+- Collective action problems
+- Junior securities failure
+- Tendering vs holding out
+- Coercive exchange offers
+- Bankruptcy exchange offers
+- Public debt restructuring
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
 ---
 
 # Class Note 6: Restructuring Public Debt Out of Bankruptcy - Exchange Offers

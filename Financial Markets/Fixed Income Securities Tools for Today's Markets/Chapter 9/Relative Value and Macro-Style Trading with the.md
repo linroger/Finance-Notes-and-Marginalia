@@ -1,23 +1,66 @@
 ---
 tags:
-  - factor_exposure
-  - forward_rates
-  - gauss_model
-  - macro_trading
-  - relative_value
-  - term_structure
+- convexity
+- hedge
+- maturity
+- repo
+- gauss_model
+- fundamental
+- forward
+- future
+- implied
+- regulation
+- time-series
+- sofr
+- forward_rates
+- libor
+- pricing
+- macro_trading
+- term-structure
+- put
+- trading
+- term_structure
+- bond
+- relative_value
+- overnight
+- measure
+- forward-rate
+- factor_exposure
 aliases:
-  - GAU Model
-  - Macro-Style Trading
-  - Relative Value Trading
+- GAU Model
+- Macro-Style Trading
+- Relative Value Trading
 key_concepts:
-  - Factor exposure minimization
-  - Forward rate convergence
-  - Macro trading factors
-  - Mean reverting trades
-  - Relative value trade
-  - Term structure model
+- Bond convexity and price-yield relationships
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial derivatives pricing and valuation
+- Convexity adjustments for bond portfolio management
+- Forward Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- SOFR implementation and overnight rate markets
+- Term Structure in financial markets
+- Time Series in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000148
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 9.4 RELATIVE VALUE AND MACRO-STYLE TRADING WITH THE GAU $\S\S+$ MODEL  
 

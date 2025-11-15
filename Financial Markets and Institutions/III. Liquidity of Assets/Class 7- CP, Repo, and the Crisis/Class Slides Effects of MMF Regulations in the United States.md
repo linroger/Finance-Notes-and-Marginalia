@@ -1,26 +1,101 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Class Slides Effects of MMF Regulations in the United States
 tags:
-  - aum_flows
-  - liquidity_management
-  - march_2020_turmoil
-  - mmf_regulations
-  - mmlf_program
+- mmlf_program
+- volatility
+- mmf_regulations
+- tracking-error
+- solvency
+- lehman
+- future
+- aum_flows
+- time-series
+- march_2020_turmoil
+- regulation
+- risk-management
+- distribution
+- oil
+- trading
+- bond
+- cdo-of-abs
+- crisis
+- financial-markets
+- stochastic-calculus
+- modern-portfolio-theory
+- default
+- regression-discontinuity
+- ito
+- maturity
+- liquidity_management
+- covid
+- financial-crisis
+- private-equity
+- market-risk
+- credit
+- market
+- investment-strategy
+- ito-lemma
+- recovery
+- treasury
+- liquidity
+- sifi
+- commodities
+- banking
 aliases:
-  - MMF Run
-  - MMLF
-  - March 2020
-  - Money Market Fund Regulations
-  - Prime MMFs
+- MMF Run
+- MMLF
+- March 2020
+- Money Market Fund Regulations
+- Prime MMFs
 key_concepts:
-  - AUM rebound
-  - Fund-level flows
-  - Liquidity management
-  - MMF regulation effects
-  - March 2020 turmoil
+- March 2020 turmoil
+- MMF regulation effects
+- Fund-level flows
+- Liquidity management
+- AUM rebound
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
+- Credit default probability and recovery modeling
+- Market liquidity analysis and liquidity risk
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000002
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Class Slides Effects of MMF Regulations in the United States
 

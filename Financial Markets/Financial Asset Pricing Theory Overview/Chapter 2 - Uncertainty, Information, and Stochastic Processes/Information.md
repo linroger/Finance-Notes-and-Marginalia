@@ -1,21 +1,53 @@
 ---
 tags:
-  - information
-  - information_filtration
-  - multi_period_model
-  - state_space
-  - uncertainty
+- probability
+- information_filtration
+- filtration
+- future
+- dividend
+- pricing
+- correlation
+- multi_period_model
+- covariance
+- state_space
+- call
+- put
+- model
+- variance
+- cdo
+- var
+- information
+- uncertainty
 aliases:
-  - Information flow
-  - Partitions
-  - Sigma-algebra
+- Information flow
+- Partitions
+- Sigma-algebra
 key_concepts:
-  - Information filtration
-  - Information representation
-  - Multi-period model
-  - Sigma-algebra construction
-  - Uncertainty resolution over time
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Correlation modeling and dependency structures
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000388
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 2.3 Information  
 

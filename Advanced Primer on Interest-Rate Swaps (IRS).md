@@ -1,3 +1,314 @@
+---
+academic_level: graduate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000076
+key_concepts:
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Risk-neutral measures and martingale pricing
+- Martingale theory and change of measure
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Net present value (NPV) and investment evaluation
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Heath-Jarrow-Morton (HJM) and forward rate dynamics
+- LIBOR market model and multi-curve framework
+- Collateralized debt obligations (CDO) and tranche structure
+- Basel accords and banking regulation framework
+- Dodd-Frank Act and financial regulation reform
+- Arbitrage opportunities and no-arbitrage pricing
+- Alpha generation and active portfolio management
+- Libor Market Model and Volatility Structure
+- Duration and Convexity in Fixed Income Risk Management
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Basel III Regulatory Framework and Capital Requirements
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Derivatives Clearing and Volcker Rule
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Variance Reduction Techniques in Monte Carlo Methods
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Delta, Gamma, and Vega Hedging Techniques
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Cost of Equity and Expected Returns
+- Stochastic Integration and Path-Dependent Options
+- Regulatory Capital and Stress Testing
+- Black-Scholes Option Pricing Model and Its Applications
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Dodd-Frank Act and Financial Regulatory Reform
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Factor Models and Asset Pricing
+- Dynamic vs Static Hedging in Practice
+- American Option Pricing and Early Exercise Premium
+- Interest Rate Swaps and Currency Swap Structures
+- Term Structure of Interest Rates and Yield Curves
+- Liquidity Coverage Ratio and Net Stable Funding
+- Arbitrage-Free Interest Rate Models
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Systemic Risk and Living Wills
+- Heath-Jarrow-Morton Forward Rate Model
+- Interest Rate Risk and DV01 Calculations
+- Hedging Strategies and Risk Mitigation
+- Monte Carlo Simulation Methods for Derivative Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-free-models
+- arbitrage-opportunity
+- arbitrage-pricing
+- array-computing
+- asset-allocation
+- banking-regulation
+- basel-accord
+- basis-point-value
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-asset-pricing
+- capital-budgeting
+- capital-structure
+- caplet
+- control-variates
+- leveraged-buyout
+- exotic-options
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- binomial-tree
+- straddles
+- extreme-value-theory
+- american-options
+- partial-differential-equation
+- book-to-market
+- arbitrage
+- risk-neutral-valuation
+- backwardation
+- net-stable-funding
+- volatility-analysis
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- yield-curve
+- unexpected-loss
+- capital-asset-pricing-model
+- heath-jarrow-morton
+- clearinghouse
+- interpolation
+- overnight-indexed-swaps
+- interest-rate-risk
+- arbitrage-pricing-theory
+- monte-carlo-simulation
+- hedge-ratio
+- systemic-risk
+- market-price-of-risk
+- capital-conservation-buffer
+- volatility-surface
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dirty-price
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- musiela-parametrization
+- market-impact
+- forward-contracts
+- yield-to-maturity
+- forward-rates
+- fama-french
+- price-to-earnings
+- bsm-model
+- recovery-rate
+- zero-coupon-bonds
+- black-scholes-formula
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- random-walks
+- regulatory-capital
+- modified-duration
+- expected-loss
+- market-efficiency
+- delta-hedging
+- quantitative-finance
+- forward-curve
+- drift-condition
+- order-flow
+- currency-swaps
+- bid-ask-spread
+- crr-model
+- systematic-risk
+- protective-puts
+- government-bonds
+- alpha
+- security-market-line
+- probabilty-of-default
+- liquidity
+- curve-steepening
+- curve-fitting
+- credit-default-swaps
+- gamma-hedging
+- hedge-effectiveness
+- idiosyncratic-risk
+- living-wills
+- roll-yield
+- tier-2-capital
+- beta
+- risk-premium
+- spot-rates
+- put-options
+- countercyclical-buffer
+- change-of-numeraire
+- affine-term-structure
+- multi-period-binomial
+- capm
+- algorithmic-trading
+- momentum
+- curve-flattening
+- basis-risk
+- market-risk-premium
+- regulatory-reform
+- convexity
+- arbitrage-free
+- discrete-time-pricing
+- hedge-strategies
+- antithetic-variates
+- term-structure
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- derivatives-clearing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- duration-analysis
+- path-dependency
+- value-at-risk
+- volcker-rule
+- factor-models
+- forward-measure
+- barbell-strategy
+- risk-management
+- convergence
+- var-backtesting
+- forward-rate-models
+- variance-reduction
+- stochastic-integration
+- cross-hedging
+- sum-of-parts
+- european-options
+- clean-price
+- yield-curve-shocks
+- gaussian-hjm
+- high-frequency-trading
+- dodd-frank-act
+- lattice-models
+- strangles
+- conditional-var
+- fixed-income
+- cox-ross-rubinstein
+- dv01
+- short-rate-models
+- least-squares-mc
+- swap-spread
+- optional-exercise
+- efficient-frontier
+- price-yield-relationship
+- libor-market-model
+- credit-migration
+- default-probability
+- marking-to-market
+- binomial-option-pricing
+- total-return-swaps
+- libor
+- credit-spreads
+- tier-1-capital
+- multi-factor-models
+- ito-calculus
+- trading-multiples
+- proprietary-trading
+- iron-condors
+- option-pricing
+- financial-markets
+- macaulay-duration
+- static-hedging
+- credit-rating-agencies
+- size-effect
+- basis-swaps
+- precedent-transactions
+- stress-tests
+- interest-rate-swaps
+- liquidity-coverage-ratio
+- lognormal-distribution
+- ipo-valuation
+- basel-iii
+- market-multiple
+- ' recombining-trees'
+- futures-contracts
+- quasi-monte-carlo
+- apt
+- bootstrap-method
+- current-yield
+type: primer
+---
+--
+
+
+
 # Advanced Primer on Interest-Rate Swaps (IRS)
 ## Plain Vanilla Fixed-for-Floating Swaps
 ---

@@ -1,3 +1,82 @@
+---
+key_concepts:
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Introduction to How Countries Go Broke and financial analysis
+- Introduction to How Countries Go Broke in modern finance
+- Applications of Introduction to How Countries Go Broke
+- 'Case study: Introduction to How Countries Go Broke'
+- Credit default probability and recovery modeling
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Risk Free in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+tags:
+- leverage
+- risk-free
+- multiple
+- monetary-policy
+- solvency
+- margin
+- ratio
+- forward
+- future
+- risk-management
+- pricing
+- counterparty
+- interest-rates
+- option
+- distribution
+- intrinsic
+- gold
+- bond
+- crisis
+- bonds
+- spread
+- mortgage
+- measure
+- valuation
+- default
+- cds
+- options
+- maturity
+- credit
+- call
+- var
+- yield
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000598
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # Chapter 1: The Big Debt Cycle in a Tiny Nutshell
 
 ## Deciphering the Mechanics of Cyclical Debt Dynamics

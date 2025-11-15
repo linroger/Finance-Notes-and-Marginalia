@@ -1,23 +1,70 @@
 ---
 title: The Value of Bank Durability Borrowers as Bank Stakeholders
 tags:
-  - bank_durability
-  - bank_stakeholders
-  - borrowers
-  - continental_illinois
-  - fdic_rescue
+- efficiency
+- leverage
+- continental_illinois
+- multiple
+- solvency
+- probability
+- senior
+- subordinated
+- future
+- regulation
+- time-series
+- dividend
+- pricing
+- distribution
+- oil
+- intrinsic
+- put
+- american
+- bond
+- bank_durability
+- fdic_rescue
+- trading
+- crisis
+- borrowers
+- bank_stakeholders
 aliases:
-  - Bank Durability Borrowers
-  - Bank Lending Relationships
-  - Bank Stakeholders
-  - Continental Illinois Bank
+- Bank Durability Borrowers
+- Bank Lending Relationships
+- Bank Stakeholders
+- Continental Illinois Bank
 key_concepts:
-  - Asset services view
-  - Bank durability value
-  - Borrowing firms analysis
-  - Client firm share prices
-  - FDIC rescue effects
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Market liquidity analysis and liquidity risk
+- Time Series in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000026
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # The Value of Bank Durability Borrowers as Bank Stakeholders
 

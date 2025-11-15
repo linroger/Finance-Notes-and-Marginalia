@@ -1,23 +1,91 @@
 ---
 title: The Economist Intangible Capitalism
 tags:
-  - capital_markets
-  - intangible_capitalism
-  - intellectual_property
-  - venture_capital
-  - whaling_industry
+- eur
+- whaling_industry
+- intellectual_property
+- probability
+- credit-spread
+- digital
+- risk-management
+- oil
+- put
+- regulatory-capital
+- caps-floors
+- american
+- crisis
+- financial-markets
+- structured
+- spread
+- credit-risk
+- capital_markets
+- valuation
+- modern-portfolio-theory
+- default
+- intangible_capitalism
+- payoff
+- event-study
+- repo
+- capital
+- financial-crisis
+- equity
+- european
+- private-equity
+- apt
+- credit
+- call
+- investment-strategy
+- currency
+- venture_capital
+- chinese-markets
+- banking
+- commodities
 aliases:
-  - Capitalism without Capital
-  - Intangible Capitalism
-  - Venture Capital
-  - Whaling
+- Capitalism without Capital
+- Intangible Capitalism
+- Venture Capital
+- Whaling
 key_concepts:
-  - Intangible vs. Tangible Capital
-  - Low-probability, high-payoff
-  - Shift in Business Investment
-  - Venture Capitalists
-  - Whaling Agents
+- Low-probability, high-payoff
+- Shift in Business Investment
+- Venture Capitalists
+- Whaling Agents
+- Intangible vs. Tangible Capital
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
+- Credit default probability and recovery modeling
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000014
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # The Economist Intangible Capitalism
 # Intangible Capitalism

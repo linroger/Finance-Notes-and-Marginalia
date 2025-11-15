@@ -1,21 +1,66 @@
 ---
 tags:
-  - dividend_beta
-  - one_period_framework
-  - risk_adjusted_discount
-  - risk_free_return
-  - state_price_deflator
+- delta
+- risk-free
+- martingale
+- ito
+- one_period_framework
+- theta
+- risk_adjusted_discount
+- coupon
+- discount-rate
+- future
+- state_price_deflator
+- risk_free_return
+- dividend
+- pricing
+- correlation
+- distribution
+- covariance
+- dividend_beta
+- put
+- trading
+- bond
+- capm
+- measure
+- portfolio
+- valuation
 aliases:
-  - Event-Price Deflator
-  - Pricing Kernel
-  - Stochastic Discount Factor
+- Event-Price Deflator
+- Pricing Kernel
+- Stochastic Discount Factor
 key_concepts:
-  - Finite variance assumption
-  - Gross rates of returns
-  - Pricing equation
-  - Risk-free portfolio
-  - State-price deflator definition
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Monte Carlo simulation for derivatives valuation
+- Capital Asset Pricing Model and risk-return tradeoff
+- Correlation modeling and dependency structures
+- Delta hedging strategies in options markets
+- Discount Rate in financial markets
+- Interest Rate in financial markets
+- Monte Carlo in financial markets
+- Risk Free in financial markets
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000421
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 4.2 Definitions and immediate consequences  
 

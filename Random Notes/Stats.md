@@ -1,3 +1,121 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000321
+key_concepts:
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Financial econometrics and regression
+- Time series analysis in finance
+- Volatility modeling (GARCH)
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Stats and financial analysis
+- Stats in modern finance
+- Applications of Stats
+- 'Case study: Stats'
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Risk Measurement and VaR Backtesting
+- Comparable Company Analysis and Trading Multiples
+- Ornstein-Uhlenbeck Process in Finance
+- Value at Risk and Expected Shortfall
+- Credit Spreads and Rating Migration Analysis
+- Cost of Equity and Expected Returns
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Security Market Line and Risk-Return Tradeoff
+- Factor Models and Asset Pricing
+- Capital Asset Pricing Model and Beta Analysis
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Arbitrage Pricing Theory and Multi-Factor Models
+tags:
+- swaps
+- var
+- liquidity
+- spread
+- regression
+- multiple
+- beta
+- split
+- irs
+- risk-management
+- market-efficie
+- leveraged-buyout
+- affine-term-structure
+- recovery-rate
+- sum-of-parts
+- hull-white
+- cir-model
+- capm
+- momentum
+- dcf-analysis
+- price-to-earnings
+- expected-shortfall
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- market-risk-premium
+- book-to-market
+- var-methodologies
+- historical-var
+- mean-reversion
+- lognormal-models
+- ' exposure-at-default'
+- style-analysis
+- short-rate-models
+- stress-testing
+- mathematical-finance
+- unexpected-loss
+- ornstein-uhlenbeck
+- rating-migration
+- capital-asset-pricing-model
+- efficient-frontier
+- expected-loss
+- comparable-analysis
+- economic-value-added
+- quantitative-finance
+- credit-migration
+- default-probability
+- risk-premium
+- value-at-risk
+- credit-spreads
+- arbitrage-pricing-theory
+- multi-factor-models
+- trading-multiples
+- systematic-risk
+- market-price-of-risk
+- alpha
+- security-market-line
+- probabilty-of-default
+- loss-given-default
+- size-effect
+- factor-models
+- precedent-transactions
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- ipo-valuation
+- monte-carlo-var
+- idiosyncratic-risk
+- var-backtesting
+- market-multiple
+- apt
+- fama-french
+---
+--
+
 Got it, let's start by understanding the first part: deriving the logistic function from the log-odds. The user's notes show the steps for logit to probability, so let's go through that carefully. Then, we need to cover expected value, variance, and normal distribution properties. Let's break it down.
 
 

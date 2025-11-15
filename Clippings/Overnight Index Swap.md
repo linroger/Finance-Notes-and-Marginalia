@@ -1,3 +1,69 @@
+---
+tags:
+- basel-accord
+- credit-rating
+- dynamic-hedging
+- hedge
+- expected-loss
+- derivative
+- swap
+- caplet
+- equity
+- conditional-var
+- capital-adequacy
+- collateral-rates
+- delta-hedging
+- fixed-floating-swap
+- counterparty
+- hedging
+- credit
+- convexity-adjustment
+- market
+- bond
+- duration-analysis
+- fixed-income-sensitivity
+- overnight
+- var
+- spread
+- banking-regulation
+- interest-rate
+- coherent-risk-measure
+key_concepts:
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Interest rate swaps and fixed income derivatives
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000098
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
+
+
  
 source: https://www.investopedia.com/terms/o/overnightindexswap.asp
 description: An overnight index swap is a hedging strategy in which a cash flow based

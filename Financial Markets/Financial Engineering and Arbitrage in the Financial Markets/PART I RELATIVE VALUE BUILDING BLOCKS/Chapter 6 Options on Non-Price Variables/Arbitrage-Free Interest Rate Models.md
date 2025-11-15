@@ -1,21 +1,82 @@
 ---
 tags:
-  - arbitrage_free_models
-  - interest_rate_models
-  - short_rate_models
-  - swaptions
-  - yield_curve
+- delta
+- swaptions
+- eur
+- volatility
+- short_rate_models
+- multiple
+- convexity
+- yield_curve
+- arbitrage_free_models
+- probability
+- discount-rate
+- forward
+- future
+- implied
+- yield-curve
+- swap
+- pricing
+- correlation
+- option
+- distribution
+- binomial
+- interest_rate_models
+- put
+- american
+- bond
 aliases:
-  - AFIRM
-  - IRM
-  - Interest Rate Modeling
+- AFIRM
+- IRM
+- Interest Rate Modeling
 key_concepts:
-  - Arbitrage-free model
-  - Model calibration
-  - Short rate models
-  - Trinomial trees
-  - Yield curve tilts
+- Black-Scholes model and option pricing theory
+- Binomial option pricing model
+- Option Greeks and risk sensitivities
+- American option pricing and early exercise
+- Exotic options and path-dependent derivatives
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Swap market mechanisms and pricing
+- Bond convexity and price-yield relationships
+- Fixed income securities and yield curve analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Monte Carlo simulation for derivatives valuation
+- Financial derivatives pricing and valuation
+- Model calibration and parameter estimation
+- Numerical methods in finance
+- Arbitrage pricing theory and no-arbitrage principle
+- Binomial option pricing model and tree methods
+- Black-Scholes option pricing model and its applications
+- Convexity adjustments for bond portfolio management
+- Correlation modeling and dependency structures
+- Delta hedging strategies in options markets
+- Discount Rate in financial markets
+- Factor Model in financial markets
+- Forward Rate in financial markets
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Mean Reversion in financial markets
+- Monte Carlo in financial markets
+- Spot Rate in financial markets
+- Swaption pricing and interest rate option strategies
+- Term Structure in financial markets
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Zero Coupon in financial markets
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000287
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 6.3 ARBITRAGE-FREE INTEREST RATE MODELS  
 

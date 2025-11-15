@@ -1,39 +1,93 @@
 ---
 title: Lecture 2 - Asset Allocation with Multiple Risky Assets
 cssclasses:
-  - academia
-  - finance
+- academia
+- finance
 tags:
-  - asset_allocation
-  - covariance_matrix
-  - multiple_assets
-  - portfolio_theory
-  - risk_return
-  - portfolio_optimization
-  - modern_portfolio_theory
-  - efficient_frontier
-  - diversification
-  - risk_management
+- leverage
+- risk-free
+- volatility
+- multiple
+- eur
+- convexity
+- binomial-model
+- hedge
+- probability
+- margin
+- continuous-time-pricing
+- forward
+- momentum
+- future
+- implied
+- caplet
+- time-series
+- dividend
+- gamma
+- capital-adequacy
+- pricing
+- correlation
+- distribution
+- covariance
+- intrinsic
+- banking-regulation
+- coherent-risk-measure
+- basel-accord
+- arbitrage-opportunity
+- capital-asset-pricing
+- asset-allocation
+- conditional-var
+- convexity-adjustment
+- arbitrage-pricing
+- black-scholes-model
 aliases:
-  - Asset Allocation
-  - Multiple Risky Assets
-  - Lecture 2
-  - Portfolio Optimization
-  - Tangency Portfolio
+- Asset Allocation
+- Multiple Risky Assets
+- Lecture 2
+- Portfolio Optimization
+- Tangency Portfolio
 key_concepts:
-  - CRRA preferences
-  - Mean-standard deviation frontier
-  - Optimal portfolio framework
-  - Portfolio return variance
-  - Tangency portfolio formulas
-  - Efficient frontier construction
-  - Diversification benefits
-  - Correlation effects
-  - Capital allocation line
-  - Matrix algebra in portfolio theory
-  - Constrained optimization
-  - Global minimum variance portfolio
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Correlation analysis and dependency structures
+- Risk preference theory and utility functions
+- Asset Allocation in financial markets
+- Bid Ask in financial markets
+- Capital Asset Pricing Model and risk-return tradeoff
+- Correlation modeling and dependency structures
+- Gamma risk and convexity adjustments in options
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Mean Variance in financial markets
+- Risk Free in financial markets
+- Time Series in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+type: course-note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000120
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
+
 
 # Lecture 2: Asset Allocation with Multiple Risky Assets
 

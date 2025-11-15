@@ -1,26 +1,68 @@
 ---
 tags:
-  - bond_pricing
-  - equilibrium
-  - interest_rate_models
-  - mean_reversion
-  - ornstein_uhlenbeck_process
-  - vasicek_model
-  - yield_curve
+- delta
+- ornstein_uhlenbeck_process
+- eur
+- volatility
+- barrier
+- ito
+- theta
+- yield_curve
+- probability
+- equilibrium
+- vasicek_model
+- forward
+- future
+- bond_pricing
+- yield-curve
+- gamma
+- pricing
+- correlation
+- option
+- mean_reversion
+- distribution
+- put
+- interest_rate_models
+- gold
+- bond
+- brownian
+- mean-reversion
 aliases:
-  - Ornstein-Uhlenbeck
-  - Short-term interest rate
-  - Vasicek
-  - Zero-coupon bond
+- Ornstein-Uhlenbeck
+- Short-term interest rate
+- Vasicek
+- Zero-coupon bond
 key_concepts:
-  - Bond pricing and yield curve
-  - Equilibrium real interest rate
-  - Market price of risk
-  - Mean reversion in drift
-  - Ornstein-Uhlenbeck process
-  - Stochastic differential equation (SDE)
-  - Vasicek interest rate model
+- Option Greeks and risk sensitivities
+- Option valuation and hedging strategies
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Financial derivatives pricing and valuation
+- Correlation modeling and dependency structures
+- Delta hedging strategies in options markets
+- Gamma risk and convexity adjustments in options
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Mean Reversion in financial markets
+- Term Structure in financial markets
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000462
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 10.5 Equilibrium interest rate models  
 

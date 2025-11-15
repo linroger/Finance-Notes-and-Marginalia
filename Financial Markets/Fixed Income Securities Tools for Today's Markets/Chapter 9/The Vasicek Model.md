@@ -1,28 +1,77 @@
 ---
 tags:
-  - analytic_solutions
-  - binomial_tree
-  - fixed_income_securities
-  - forward_rate
-  - mean_reversion
-  - risk_premium
-  - short_term_rate
-  - spot_rate
-  - term_structure_models
-  - vasicek_model
+- binomial_tree
+- short_term_rate
+- fixed_income_securities
+- duration
+- volatility
+- convexity
+- hedge
+- theta
+- maturity
+- vasicek_model
+- spot-rate
+- forward
+- future
+- implied
+- risk_premium
+- pricing
+- option
+- mean_reversion
+- term_structure_models
+- hedging
+- forward_rate
+- term-structure
+- binomial
+- put
+- bond
+- trading
+- spread
+- forward-rate
+- analytic_solutions
+- spot_rate
 aliases:
-  - Mean Reversion
-  - Risk Neutrality
-  - Short Rate Model
-  - Term Structure
-  - Vasicek
+- Mean Reversion
+- Risk Neutrality
+- Short Rate Model
+- Term Structure
+- Vasicek
 key_concepts:
-  - Analytical solutions
-  - Drift and shock
-  - Mean reversion of rates
-  - Risk premium impact
-  - Risk-neutral dynamics
+- Binomial option pricing model
+- Option valuation and hedging strategies
+- Bond duration and interest rate risk
+- Bond convexity and price-yield relationships
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Numerical methods in finance
+- Binomial option pricing model and tree methods
+- Convexity adjustments for bond portfolio management
+- Duration and interest rate risk measurement
+- Forward Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Mean Reversion in financial markets
+- Spot Rate in financial markets
+- Term Structure in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000144
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 9.1 THE VASICEK MODEL  
 

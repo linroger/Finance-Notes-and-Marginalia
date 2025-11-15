@@ -1,24 +1,90 @@
 ---
-title: US Debt Crisis and Adjustment 1928-1937
-cssclasses: academia
-tags:
-  - bubble_economy
-  - deflationary_deleveraging
-  - economic_history
-  - great_depression
-  - us_debt_crisis
 aliases:
-  - 1928-1937 Debt Crisis
-  - Debt Cycle
-  - Great Depression
-  - US Debt Crisis
+- 1928-1937 Debt Crisis
+- Debt Cycle
+- Great Depression
+- US Debt Crisis
+cssclasses: academia
 key_concepts:
-  - Deflationary deleveraging example
-  - Great Depression details
-  - Stock market bubble
-  - Technology-led growth
-  - US debt cycle
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- US Debt Crisis and Adjustment 1928-1937 and financial analysis
+- US Debt Crisis and Adjustment 1928-1937 in modern finance
+- Applications of US Debt Crisis and Adjustment 1928-1937
+- 'Case study: US Debt Crisis and Adjustment 1928-1937'
+- Carry Trade in financial markets
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Discount Rate in financial markets
+- Duration and interest rate risk measurement
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Par Value in financial markets
+- Tail Risk in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+tags:
+- leverage
+- duration
+- barrier
+- volatility
+- multiple
+- solvency
+- par-value
+- eur
+- margin
+- commodity
+- discount-rate
+- arma
+- swaps
+- forward
+- future
+- regulation
+- yield-curve
+- dividend
+- distribution
+- option
+- put
+- trading
+- bond
+- bonds
+- spread
+- options
+- maturity
+- fixed-income
+- municipal
+- call
+- strike
+- treasury
+- liquidity
+- cdo
+- yield
+title: US Debt Crisis and Adjustment 1928-1937
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000553
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # US Debt Crisis and Adjustment 1928-1937
 ## ********US Debt Crisis and Adjustment \(1928–1937\)

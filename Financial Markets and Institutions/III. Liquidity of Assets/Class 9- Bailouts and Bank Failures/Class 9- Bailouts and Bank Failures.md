@@ -2,22 +2,77 @@
 linter-yaml-title-alias: Class 9Bailouts and Bank Failures
 title: Class 9Bailouts and Bank Failures
 tags:
-  - bailouts
-  - bank_failures
-  - banking_industry
-  - financial_crisis
-  - government_intervention
+- derivatives
+- government_intervention
+- tracking-error
+- usd
+- shareholder-value
+- lehman
+- repo
+- financial_crisis
+- banking_industry
+- capital
+- bear-stearns
+- regulation
+- financial-crisis
+- risk-management
+- distressed
+- private-equity
+- option
+- asian
+- bailout
+- caps-floors
+- cap-floor
+- fail
+- liquidity
+- deposit-insurance
+- crisis
+- bailouts
+- banking
+- bank_failures
+- dark-pool
+- mean-reversion
+- machine-learning
 aliases:
-  - Bank Crisis
-  - Class 9
-  - Financial Crisis
+- Bank Crisis
+- Class 9
+- Financial Crisis
 key_concepts:
-  - Bank failures
-  - Banking regulations
-  - Economic instability
-  - Financial crisis causes
-  - Government bailouts
+- Bank failures
+- Banking regulations
+- Government bailouts
+- Financial crisis causes
+- Economic instability
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
+- Bear Stearns in financial markets
+- Market liquidity analysis and liquidity risk
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000023
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Class 9Bailouts and Bank Failures
 

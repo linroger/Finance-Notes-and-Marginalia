@@ -1,42 +1,195 @@
 ---
-title: Basic Usage of QuantLib Analytics Library
-tags:
-  - analytics
-  - bond_pricing
-  - cashflow_schedule
-  - quantlib
-  - yield_curve
-  - fixed_income
-  - duration_convexity
-  - discount_curve
-  - z_spread
-  - interest_rate_scenarios
-  - bootstrap_calibration
-  - bond_yield
-cssclasses:
-  - tutorial
+academic_level: graduate
 aliases:
-  - QuantLib Example
-  - QuantLib Tutorial
-  - QuantLib Basic Usage
-  - Python Bond Pricing
+- QuantLib Example
+- QuantLib Tutorial
+- QuantLib Basic Usage
+- Python Bond Pricing
+cssclasses:
+- tutorial
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000314
 key_concepts:
-  - Bond pricing and valuation
-  - Cashflow schedule generation
-  - QuantLib library fundamentals
-  - Quote objects and handles
-  - Yield curve construction
-  - Discount curve modeling
-  - Fixed and floating rate bonds
-  - Duration and convexity calculation
-  - Z-spread computation
-  - Interest rate scenarios
-  - Yield curve calibration
-  - Bond price to yield conversions
-  - Present value calculation
-  - Clean vs dirty prices
-  - Day-count conventions
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Bootstrap methods and yield curve construction
+- SOFR benchmarks and risk-free rate transition
+- QuantLib library and quantitative finance implementation
+- Risk preference theory and utility functions
+- Duration and Convexity in Fixed Income Risk Management
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Company Valuation and Multiple Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Interest Rate Swaps and Currency Swap Structures
+- Private Equity Investment Returns and Value Creation
+- Term Structure of Interest Rates and Yield Curves
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Interest Rate Risk and DV01 Calculations
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- array-computing
+- basis-point-value
+- benchmark-reform
+- bootstrap-method
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cds
+- convexity-adjustment
+- cost-of-capital
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- leveraged-buyout
+- call-options
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- volatility-analysis
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- yield-curve
+- unexpected-loss
+- clearinghouse
+- interpolation
+- overnight-indexed-swaps
+- interest-rate-risk
+- arbitrage-pricing-theory
+- hedge-ratio
+- private-equity
+- loss-given-default
+- value-factor
+- dirty-price
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- forward-contracts
+- yield-to-maturity
+- forward-rates
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- var-methodologies
+- historical-var
+- contango
+- debt-capacity
+- modified-duration
+- expected-loss
+- quantitative-finance
+- forward-curve
+- currency-swaps
+- investment-return
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- curve-steepening
+- curve-fitting
+- credit-default-swaps
+- roll-yield
+- spot-rates
+- put-options
+- equity-kickers
+- lbo-valuation
+- momentum
+- curve-flattening
+- basis-risk
+- convexity
+- term-structure
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- rating-migration
+- par-yield
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- duration-analysis
+- value-at-risk
+- bootstrap-strategy
+- management-buyout
+- factor-models
+- barbell-strategy
+- risk-management
+- convergence
+- var-backtesting
+- sum-of-parts
+- clean-price
+- yield-curve-shocks
+- strangles
+- conditional-var
+- fixed-income
+- dv01
+- swap-spread
+- price-yield-relationship
+- credit-migration
+- default-probability
+- marking-to-market
+- total-return-swaps
+- libor
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- macaulay-duration
+- size-effect
+- basis-swaps
+- precedent-transactions
+- interest-rate-swaps
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+- current-yield
+title: Basic Usage of QuantLib Analytics Library
+type: note
 ---
+--
+
+
 
 # Basic Usage of QuantLib Analytics Library
 

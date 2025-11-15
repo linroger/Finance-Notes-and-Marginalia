@@ -1,22 +1,66 @@
 ---
 tags:
-  - cftc
-  - fixed_income
-  - interest_rate_swaps
-  - market_size
-  - swap_dealers
+- synthetic
+- hedge
+- measure
+- comparable
+- swap_dealers
+- repo
+- commodity
+- cftc
+- forward
+- future
+- swap
+- counterparty
+- market_size
+- option
+- hedging
+- apt
+- fixed_income
+- call
+- trading
+- bond
+- market
+- currency
+- overnight
+- mortgage
+- interest_rate_swaps
 aliases:
-  - ENN
-  - IRS market
-  - five-year equivalent
-  - notional amount
+- ENN
+- IRS market
+- five-year equivalent
+- notional amount
 key_concepts:
-  - CFTC reporting entities
-  - Entity-netted notionals (ENNs)
-  - Five-year equivalent notional
-  - Interest rate swap products
-  - Long and short positions
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Swap market mechanisms and pricing
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Swaption pricing and interest rate option strategies
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000240
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 13.1 MARKET SIZE AND PARTICIPANTS  
 

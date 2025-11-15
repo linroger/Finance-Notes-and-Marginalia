@@ -1,32 +1,184 @@
 ---
-cssclasses:
-  - academia
-title: Week 1 Introduction to Financial Analysis
-tags:
-  - accounting_analysis
-  - business_model
-  - dcf_model
-  - financial_analysis
-  - valuation
-  - corporate_finance
-  - financial_statements
+academic_level: graduate
 aliases:
-  - Financial Analysis Intro
-  - Financial Statement Analysis
-  - Introduction to Valuation
-  - Week 1
+- Financial Analysis Intro
+- Financial Statement Analysis
+- Introduction to Valuation
+- Week 1
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000272
 key_concepts:
-  - Accounting shenanigans and their impact on financial analysis
-  - Business model analysis and its relationship to financial performance
-  - Discounted cash flow (DCF) methodology fundamentals
-  - Economic profit sustainability and competitive advantage
-  - Free cash flow computation and forecasting techniques
-  - Fundamental analysis frameworks and valuation approaches
-  - Moats (competitive advantages) and mean reversion patterns
-  - Operating vs financing activities separation in financial analysis
-  - ROE decomposition and financial ratio interpretation
-  - Value driver model for simplified financial forecasting
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Correlation analysis and dependency structures
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Free Cash Flow and Enterprise Value
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Distressed Investing and Debt Restructuring
+- Flexibility Value in Capital Budgeting
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Option to Expand and Investment Timing
+- Option Valuation and Exercise Strategies
+- Real Options in Strategic Investment Decisions
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Terminal Value and WACC Calculations
+- Discounted Cash Flow Valuation Models
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- banking-regulation
+- basel-accord
+- capital-adequacy
+- capital-asset-pricing
+- capital-structure
+- caplet
+- cash-flow-distribution
+- cash-flow-modeling
+- coherent-risk-measure
+- conditional-var
+- convexity-adjustment
+- cost-of-capital
+- credit-rating
+- leveraged-buyout
+- asset-allocation
+- hull-white
+- call-options
+- cir-model
+- terminal-value
+- free-cash-flow
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- exchange-offers
+- backwardation
+- option-to-abandon
+- style-analysis
+- option-strategies
+- cramdown
+- timing-options
+- unexpected-loss
+- clearinghouse
+- debt-restructuring
+- enterprise-value
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- loss-given-default
+- value-factor
+- vasicek-model
+- distressed-investing
+- monte-carlo-var
+- capital-budgeting
+- options-trading
+- forward-contracts
+- price-to-earnings
+- fama-french
+- recovery-rate
+- real-options
+- strategic-investment
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- expected-loss
+- wacc
+- quantitative-finance
+- protective-puts
+- probabilty-of-default
+- discounted-cash-flow
+- dcf-valuation
+- roll-yield
+- cost-of-debt
+- risk-premium
+- put-options
+- affine-term-structure
+- momentum
+- option-to-expand
+- basis-risk
+- covered-calls
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- value-at-risk
+- flexibility-value
+- blocker-strategy
+- factor-models
+- creditor-committees
+- convergence
+- var-backtesting
+- tender-offers
+- sum-of-parts
+- ' DIP-financing'
+- strangles
+- short-rate-models
+- cost-of-equity
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- equity-value
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+- natural-resource-valuation
+title: Week 1 Introduction to Financial Analysis
+type: course-note
 ---
+--
+
+
 
 # Week 1 Introduction to Financial Analysis
 

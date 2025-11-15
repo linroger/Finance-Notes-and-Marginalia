@@ -1,36 +1,50 @@
 ---
 title: Financial Markets and Institutions Lecture Notes
 tags:
-  - agency_problems
-  - asset_substitution_theory
-  - borrower_lender_conflicts
-  - capital_structure
-  - debt_capacity
-  - financial_institutions
-  - debt_contracts
-  - corporate_control
-  - leverage_effects
-  - bankruptcy_risk
-  - asymmetric_information
+- arbitrage-opportunity
+- arbitrage-pricing
+- asset-backed-securities
+- beta-estimation
+- binomial-model
+- black-scholes-model
+- capital-asset-pricing
+- capital-budgeting
+- capital-structure
+- caplet
+- cds
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
 aliases:
-  - Financial Institutions Lecture Notes
-  - Financial Markets Lecture Notes
-  - Markets and Institutions Notes
+- Financial Institutions Lecture Notes
+- Financial Markets Lecture Notes
+- Markets and Institutions Notes
 key_concepts:
-  - Asset substitution theory
-  - Borrower-Lender conflicts
-  - Debt capacity impact
-  - Implied agency problems
-  - Perverse incentive effects
-  - Debt contract monitoring
-  - Credit risk assessment
-  - Information asymmetry
-  - Leverage and capital structure
-  - Covenant enforcement
-  - Single lender advantages
-  - Federal Trust Indenture Act
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Risk-neutral measures and martingale pricing
+- Martingale theory and change of measure
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Net present value (NPV) and investment evaluation
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Arbitrage opportunities and no-arbitrage pricing
+- Beta estimation and systematic risk measurement
+- Factor models and multi-factor pricing
+- Beta estimation and systematic risk measurement
+- Risk preference theory and utility functions
 cssclasses: academia
+type: course-note
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
 
 # Financial Markets and Institutions Lecture Notes
 

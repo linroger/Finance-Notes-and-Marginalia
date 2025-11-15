@@ -1,21 +1,73 @@
 ---
 tags:
-  - bid_ask_spread
-  - liquidity
-  - market_depth
-  - market_trends
-  - trading
+- pandemic
+- market_depth
+- eur
+- arbitrage
+- ito
+- bid_ask_spread
+- hedge
+- bid-ask
+- maturity
+- repo
+- future
+- regulation
+- pricing
+- hedging
+- dcf
+- oil
+- trading
+- bond
+- liquidity
+- crisis
+- market_trends
+- spread
+- credit-risk
+- measure
 aliases:
-  - Liquidity in Trading
-  - Market Liquidity
-  - Trading and Liquidity
+- Liquidity in Trading
+- Market Liquidity
+- Trading and Liquidity
 key_concepts:
-  - Bid-ask spread measurement
-  - Market depth in CLOB
-  - Market liquidity definition
-  - Price impact on trading
-  - Volume and turnover metrics
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Arbitrage pricing theory and no-arbitrage principle
+- Bid Ask in financial markets
+- Credit Risk in financial markets
+- Discounted Cash Flow valuation methodology
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Market Risk in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000129
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 0.6 TRADING AND LIQUIDITY  
 

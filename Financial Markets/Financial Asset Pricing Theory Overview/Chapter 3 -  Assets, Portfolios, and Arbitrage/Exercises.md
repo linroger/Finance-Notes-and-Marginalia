@@ -1,24 +1,54 @@
 ---
 tags:
-  - arbitrage
-  - call_option
-  - no_arbitrage
-  - one_period_model
-  - risk_free_asset
+- no_arbitrage
+- risk-free
+- arbitrage
+- payoff
+- theta
+- one_period_model
+- dividend
+- call_option
+- option
+- risk_free_asset
+- model
+- call
+- put
+- market
+- portfolio
+- interest-rate
 aliases:
-  - Exercise 3.1
-  - Exercise 3.2
-  - Exercise 3.3
-  - Exercise 3.4
+- Exercise 3.1
+- Exercise 3.2
+- Exercise 3.3
+- Exercise 3.4
 key_concepts:
-  - Law of One Price
-  - arbitrage-free market
-  - market complete
-  - no-arbitrage price
-  - one-period model
-  - risk-free asset
-  - risk-free dividend
+- Option valuation and hedging strategies
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Arbitrage pricing theory and no-arbitrage principle
+- Interest Rate in financial markets
+- Risk Free in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000446
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 3.8 Exercises  
 

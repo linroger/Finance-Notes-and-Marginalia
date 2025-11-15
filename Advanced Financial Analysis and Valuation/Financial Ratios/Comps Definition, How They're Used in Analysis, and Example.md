@@ -1,33 +1,155 @@
 ---
-cssclasses:
-  - academia
-title: Comps Definition, How They're Used in Analysis, and Example
-tags:
-  - business_valuation
-  - comparable_company_analysis
-  - comps_definition
-  - retail_sector
-  - same_store_sales
-  - financial_metrics
-  - enterprise_value
-  - equity_valuation
 aliases:
-  - Comparable Company Analysis
-  - Comparables
-  - FMV
-  - Trading Multiples
-  - Peer Analysis
+- Comparable Company Analysis
+- Comparables
+- FMV
+- Trading Multiples
+- Peer Analysis
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000239
 key_concepts:
-  - Comparable company analysis methodology
-  - Comps as financial metrics for valuation
-  - Business valuation using multiples
-  - Fair market value (FMV) determination
-  - Retail same-store sales metrics
-  - Enterprise value to EBITDA multiple
-  - Price-to-earnings valuation
-  - Growth rate calculation methodology
-  - Real estate property valuation
+- Comparable company analysis methodology
+- Comps as financial metrics for valuation
+- Business valuation using multiples
+- Fair market value (FMV) determination
+- Retail same-store sales metrics
+- Enterprise value to EBITDA multiple
+- Price-to-earnings valuation
+- Growth rate calculation methodology
+- Real estate property valuation
+- Equity valuation and analysis
+- Dividend discount models
+- Bond pricing and yield analysis
+- Duration and convexity
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Free Cash Flow and Enterprise Value
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Forward Curves and Roll Strategies
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Terminal Value and WACC Calculations
+- Discounted Cash Flow Valuation Models
+- Arbitrage Pricing Theory and Multi-Factor Models
+tags:
+- comps_definition
+- equity
+- regulatory-framework
+- equity_valuation
+- valuation
+- financial_metrics
+- volatility
+- commodities
+- bonds
+- same_store_sales
+- retail_sector
+- private_equity
+- enterprise_value
+- options
+- comparable_company_analysis
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- terminal-value
+- free-cash-flow
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- energy-derivatives
+- style-analysis
+- option-strategies
+- unexpected-loss
+- enterprise-value
+- arbitrage-pricing-theory
+- market-price-of-risk
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- forward-curves
+- monte-carlo-var
+- capital-budgeting
+- options-trading
+- commodity-trading
+- price-to-earnings
+- fama-french
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- expected-loss
+- wacc
+- protective-puts
+- probabilty-of-default
+- discounted-cash-flow
+- dcf-valuation
+- storage-costs
+- cost-of-debt
+- risk-premium
+- put-options
+- affine-term-structure
+- momentum
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- metals-trading
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- var-backtesting
+- sum-of-parts
+- seasonality
+- strangles
+- conditional-var
+- short-rate-models
+- cost-of-equity
+- credit-migration
+- default-probability
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- equity-value
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- apt
+title: Comps Definition, How They're Used in Analysis, and Exam
 ---
+--
 
 # Comps Definition, How They're Used in Analysis, and Example
 ## WHAT ARE COMPS?

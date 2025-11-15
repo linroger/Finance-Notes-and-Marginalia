@@ -1,25 +1,65 @@
 ---
 tags:
-  - absolute_risk_aversion
-  - crra_utility
-  - hara_utility
-  - logarithmic_utility
-  - power_utility
-  - relative_risk_aversion
-  - risk_aversion
-  - utility_functions
+- absolute_risk_aversion
+- crra_utility
+- relative_risk_aversion
+- risk-free
+- risk_aversion
+- convexity
+- logarithmic_utility
+- hara_utility
+- probability
+- margin
+- mean-variance
+- fundamental
+- power_utility
+- gamma
+- pricing
+- distribution
+- premium
+- apt
+- put
+- utility_functions
+- call
+- model
+- variance
+- var
+- roa
+- measure
+- derivative
 aliases:
-  - extended power utility
-  - isoelastic utility
+- extended power utility
+- isoelastic utility
 key_concepts:
-  - Absolute risk aversion
-  - CRRA utility definition
-  - HARA utility function
-  - Logarithmic utility function
-  - Negative exponential utility
-  - Relative risk aversion
-  - Satiation HARA utility
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial derivatives pricing and valuation
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Convexity adjustments for bond portfolio management
+- Gamma risk and convexity adjustments in options
+- Mean Variance in financial markets
+- Risk Free in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000438
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 5.6 Utility functions in models and in reality  
 

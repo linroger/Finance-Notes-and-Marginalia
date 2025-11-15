@@ -1,21 +1,50 @@
 ---
-title: Problem Sets
-tags:
-  - course_introduction
-  - exercises
-  - practice_questions
-  - problem_sets
-  - solutions
 aliases:
-  - assignments
-  - problem sets
+- assignments
+- problem sets
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000513
 key_concepts:
-  - financial modeling
-  - option pricing
-  - portfolio construction
-  - risk management
-  - valuation techniques
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Problem Sets and financial analysis
+- Problem Sets in modern finance
+- Applications of Problem Sets
+- 'Case study: Problem Sets'
+- Financial markets and institutions
+- Risk Measurement and VaR Backtesting
+- Fixed Income Securities and Credit Quality
+- Bond Pricing and Yield to Maturity Analysis
+- Value at Risk and Expected Shortfall
+- Government and Corporate Bond Markets
+- Stress Testing and Extreme Value Analysis
+tags:
+- pricing
+- fixed-income
+- zero-coupon-bonds
+- clean-price
+- expected-shortfall
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- var-methodologies
+- historical-var
+- bond-pricing
+- corporate-bonds
+- stress-testing
+- value-at-risk
+- government-bonds
+- dirty-price
+- monte-carlo-var
+- var-backtesting
+- coupon-bonds
+- current-yield
+- yield-to-maturity
+title: Problem S
 ---
+--
 
 # Problem Sets
 

@@ -1,21 +1,74 @@
 ---
 tags:
-  - case_study
-  - cds_index
-  - credit_deterioration
-  - jpmorgan_chase
-  - london_whale
+- delta
+- jpmorgan_chase
+- default
+- synthetic
+- hedge
+- london_whale
+- senior
+- margin
+- prepayment
+- future
+- cds_index
+- pricing
+- correlation
+- option
+- hedging
+- put
+- american
+- trading
+- case_study
+- tranche
+- crisis
+- spread
+- credit-risk
+- mortgage
+- credit_deterioration
 aliases:
-  - JPM
-  - JPMorgan
-  - London Whale
+- JPM
+- JPMorgan
+- London Whale
 key_concepts:
-  - CDS index tranches
-  - Credit deterioration
-  - Index notional amount
-  - JPMorgan Chase losses
-  - Synthetic Credit Portfolio
+- Option Greeks and risk sensitivities
+- American option pricing and early exercise
+- Option valuation and hedging strategies
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Correlation modeling and dependency structures
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Delta hedging strategies in options markets
+- Risk hedging strategies and instruments
+- Market liquidity analysis and liquidity risk
+- Mortgage prepayment modeling and MBS analysis
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000227
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 14.13 CASE STUDY: THE LONDON WHALE  
 

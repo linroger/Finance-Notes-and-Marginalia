@@ -1,23 +1,83 @@
 ---
-tags:
-  - archetypical_sequence
-  - central_bank
-  - debt_crisis
-  - fiat_currency
-  - hard_currency
-  - how_countries_go_broke
 aliases:
-  - Central Governments
-  - Chapter 4
-  - Chapter 5
-  - Debt Crises
+- Central Governments
+- Chapter 4
+- Chapter 5
+- Debt Crises
 key_concepts:
-  - Archetypical process details
-  - Central banks going broke
-  - Debt crises sequence
-  - Fiat monetary system
-  - Hard vs. fiat money
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- How Countries Go Broke - Chapter 4 & Chapter 5 and financial analysis
+- How Countries Go Broke - Chapter 4 & Chapter 5 in modern finance
+- Applications of How Countries Go Broke - Chapter 4 & Chapter 5
+- 'Case study: How Countries Go Broke - Chapter 4 & Chapter 5'
+- Credit default probability and recovery modeling
+- Exchange Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Risk Free in financial markets
+- Value at Risk and tail risk measurement
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+tags:
+- risk-free
+- eur
+- multiple
+- monetary-policy
+- hedge
+- probability
+- margin
+- forward
+- future
+- yield-curve
+- hedging
+- put
+- trading
+- bond
+- gold
+- crisis
+- futures
+- bonds
+- structured
+- spread
+- measure
+- valuation
+- default
+- options
+- maturity
+- fixed-income
+- roll
+- call
+- yield
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000588
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 ## Part 2: The Archetypical Sequence Leading to Central Governments and Central Banks Going Broke
 

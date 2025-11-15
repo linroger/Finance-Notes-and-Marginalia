@@ -1,22 +1,71 @@
 ---
 tags:
-  - asset_pricing
-  - forward_price
-  - forwards_futures
-  - futures_price
-  - risk_neutral
-  - zero_coupon_bond
+- delta
+- zero_coupon_bond
+- risk-free
+- volatility
+- martingale
+- eur
+- hedge
+- payoff
+- probability
+- forward
+- forwards_futures
+- future
+- dividend
+- forward_price
+- correlation
+- risk_neutral
+- option
+- covariance
+- put
+- trading
+- bond
+- asset_pricing
+- measure
+- forward-rate
+- brownian
+- futures_price
 aliases:
-  - Forward Contracts
-  - Forwards
-  - Futures
+- Forward Contracts
+- Forwards
+- Futures
 key_concepts:
-  - Forward price definition
-  - Futures contract payoff
-  - Risk-neutral probability measure
-  - Underlying asset price
-  - Zero-coupon bond pricing
+- Option Greeks and risk sensitivities
+- Option valuation and hedging strategies
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Correlation modeling and dependency structures
+- Delta hedging strategies in options markets
+- Forward Rate in financial markets
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Risk Free in financial markets
+- Spot Price in financial markets
+- Spot Rate in financial markets
+- Volatility modeling and implied volatility surfaces
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000396
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 12.2 Forwards and futures  
 

@@ -1,40 +1,229 @@
 ---
-cssclasses: academia
-title: "HBS Case Study: Dollar General Going Private"
-date: 2023-10-15
-tags:
-  - dollar_general
-  - going_private
-  - kkr_acquisition
-  - private_equity
-  - leveraged_buyout
-  - shareholder_lawsuit
-  - fiduciary_duty
-  - management_buyout
-  - deep_discount_retail
-  - valuation_premium
-  - regulatory_capital
-  - 2005_sec_settlement
-  - lbo_market_2007
-  - shareholder_rights
-  - retail_industry
+academic_level: graduate
 aliases:
-  - Dollar General KKR LBO Case
-  - DG Going Private 2007
-  - Dollar General $6.9B Buyout
-  - Perdue Dollar General Case
+- Dollar General KKR LBO Case
+- DG Going Private 2007
+- Dollar General $6.9B Buyout
+- Perdue Dollar General Case
+cssclasses: academia
+date: 2023-10-15
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000225
 key_concepts:
-  - LBO by KKR: $6.9 billion buyout at $22/share
-  - Fiduciary duty: Directors' obligations to shareholders
-  - Premium offered: 31.1% above closing price
-  - Shareholder lawsuit: Claim of grossly inadequate price
-  - Deep-discount retail: Dollar store industry dynamics
-  - SEC settlement 2005: Accounting restatements and penalties
-  - Packaway inventory model: Strategic shift in merchandising
-  - Management interests: CEO realizes $28 million
-  - Real estate strategy: Store closures and remodels
-  - No-shop provision: $225 million termination fee
+- Value at Risk (VaR) and tail risk measurement
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Free Cash Flow and Enterprise Value
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- Delta, Gamma, and Vega Hedging Techniques
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Distressed Investing and Debt Restructuring
+- Forward Curves and Roll Strategies
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- Interest Rate Swaps and Currency Swap Structures
+- Private Equity Investment Returns and Value Creation
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+- Terminal Value and WACC Calculations
+- Discounted Cash Flow Valuation Models
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arch
+- asset-allocation
+- caplet
+- corporate-combinations
+- credit-rating
+- hedging
+- heteroskedasticity
+- interest-rate-cap
+- interest-rate-ceiling
+- interest-rate-sensitivity
+- investment-grade
+- ito-calculus
+- ito-integration
+- low-default-risk
+- m&a
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- terminal-value
+- free-cash-flow
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- exchange-offers
+- backwardation
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- cramdown
+- corporate-bonds
+- unexpected-loss
+- clearinghouse
+- debt-restructuring
+- enterprise-value
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- private-equity
+- market-price-of-risk
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- dirty-price
+- forward-curves
+- distressed-investing
+- dynamic-hedging
+- monte-carlo-var
+- capital-budgeting
+- options-trading
+- coupon-bonds
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- debt-capacity
+- expected-loss
+- wacc
+- delta-hedging
+- quantitative-finance
+- currency-swaps
+- investment-return
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- discounted-cash-flow
+- dcf-valuation
+- gamma-hedging
+- hedge-effectiveness
+- credit-default-swaps
+- storage-costs
+- roll-yield
+- cost-of-debt
+- risk-premium
+- put-options
+- affine-term-structure
+- equity-kickers
+- lbo-valuation
+- momentum
+- basis-risk
+- hedge-strategies
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- bootstrap-strategy
+- metals-trading
+- management-buyout
+- blocker-strategy
+- factor-models
+- convenience-yield
+- creditor-committees
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- tender-offers
+- cross-hedging
+- sum-of-parts
+- seasonality
+- clean-price
+- ' DIP-financing'
+- strangles
+- conditional-var
+- fixed-income
+- short-rate-models
+- cost-of-equity
+- swap-spread
+- credit-migration
+- default-probability
+- marking-to-market
+- total-return-swaps
+- libor
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- equity-value
+- static-hedging
+- size-effect
+- basis-swaps
+- precedent-transactions
+- interest-rate-swaps
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+- current-yield
+title: 'HBS Case Study: Dollar General Going Private'
+type: note
 ---
+--
+
+
 
 # Dollar General Going Private
 

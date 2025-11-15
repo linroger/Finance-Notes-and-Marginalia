@@ -1,3 +1,84 @@
+---
+key_concepts:
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- How Countries Go Broke and financial analysis
+- How Countries Go Broke in modern finance
+- Applications of How Countries Go Broke
+- 'Case study: How Countries Go Broke'
+- Arbitrage pricing theory and no-arbitrage principle
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Discount Rate in financial markets
+- Exchange Rate in financial markets
+- Fed Funds in financial markets
+- Growth Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- P E in financial markets
+- Risk Free in financial markets
+- Spot Price in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+tags:
+- efficiency
+- leverage
+- synthetic
+- eur
+- multiple
+- monetary-policy
+- forward
+- yield-curve
+- hedging
+- put
+- trading
+- bond
+- bonds
+- credit-risk
+- valuation
+- default
+- cds
+- options
+- arbitrage
+- usd
+- maturity
+- repo
+- fixed-income
+- equity
+- exchange-rate
+- discount
+- spot-price
+- corporate-bond
+- market
+- recovery
+- currency
+- treasury
+- yield
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000592
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 
 # Introduction
 

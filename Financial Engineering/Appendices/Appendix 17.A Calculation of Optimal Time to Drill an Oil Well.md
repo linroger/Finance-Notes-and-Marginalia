@@ -1,22 +1,149 @@
 ---
-title: "Appendix 17.A Calculation of Optimal Time to Drill an Oil Well"
-cssclasses: academia
-tags:
-  - investment-decision
-  - investment-trigger
-  - oil-well-drilling
-  - optimal-solution
-  - shutdown-restart
+academic_level: graduate
 aliases:
-  - Oil Well Drilling
-  - Optimal Drilling Time
+- Oil Well Drilling
+- Optimal Drilling Time
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000419
 key_concepts:
-  - Investment trigger value
-  - L'Hospital's rule application
-  - Maximize expression
-  - Optimal investment deferral
-  - Single shutdown restart
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Auto-Callable Notes and Barrier Options
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Equity-Linked Notes and Market-Linked Securities
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Forward Curves and Roll Strategies
+- Structured Products and Principal Protection
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- asset-allocation
+- binomial-model
+- black-scholes-model
+- continuous-time-pricing
+- convexity-adjustment
+- credit-rating
+- crude-oil
+- delta-hedging
+- derivatives
+- discrete-time-pricing
+- duration-analysis
+- dynamic-hedging
+- energy-derivatives
+- fixed-income-sensitivity
+- forward-rates
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- style-analysis
+- option-strategies
+- unexpected-loss
+- clearinghouse
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- forward-curves
+- monte-carlo-var
+- options-trading
+- commodity-trading
+- forward-contracts
+- fama-french
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- expected-loss
+- market-linked-notes
+- protective-puts
+- probabilty-of-default
+- reverse-convertibles
+- storage-costs
+- roll-yield
+- risk-premium
+- put-options
+- affine-term-structure
+- momentum
+- basis-risk
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- ornstein-uhlenbeck
+- rating-migration
+- investment-analysis
+- value-at-risk
+- metals-trading
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- convergence
+- var-backtesting
+- barrier-options
+- seasonality
+- principal-protected-notes
+- strangles
+- conditional-var
+- equity-linked-notes
+- short-rate-models
+- credit-migration
+- default-probability
+- marking-to-market
+- auto-callables
+- credit-spreads
+- multi-factor-models
+- structured-notes
+- iron-condors
+- financial-markets
+- size-effect
+- knock-out-options
+- futures-contracts
+- apt
+title: Appendix 17.A Calculation of Optimal Time to Drill an Oil Well
+type: note
 ---
+--
+
+
 
 # Appendix 17.A Calculation of Optimal Time to Drill an Oil Well
 ## Single-Barrel Solution

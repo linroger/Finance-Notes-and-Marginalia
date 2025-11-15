@@ -1,20 +1,68 @@
 ---
 tags:
-  - financial_crisis
-  - financial_stress
-  - liquidity_management
-  - regulatory_issues
-  - repo_market
+- default
+- leverage
+- stress-test
+- hedge
+- repo
+- financial_crisis
+- regulatory_issues
+- liquidity_management
+- capital
+- regulation
+- repo_market
+- equity
+- financial_stress
+- credit
+- put
+- trading
+- bond
+- call
+- rating
+- crisis
+- market
+- treasury
+- liquidity
+- net-stable-funding
+- mortgage
 aliases:
-  - Funding Stability
-  - Liquidity and Regulations
+- Funding Stability
+- Liquidity and Regulations
 key_concepts:
-  - financial crisis impact
-  - high-quality liquid assets
-  - liquidity coverage ratio
-  - repo borrowing instability
-  - stable funding sources
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Credit default probability and recovery modeling
+- Risk hedging strategies and instruments
+- Market liquidity analysis and liquidity risk
+- Net Stable Funding in financial markets
+- Stress testing and scenario analysis
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000173
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 10.6 LIQUIDITY MANAGEMENT AND CURRENTREGULATORY ISSUES  
 

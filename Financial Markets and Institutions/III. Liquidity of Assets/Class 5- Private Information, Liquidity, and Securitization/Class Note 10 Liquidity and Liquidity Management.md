@@ -1,38 +1,106 @@
 ---
 cssclasses:
-  - academia
-title: "Class Note 10: Liquidity and Liquidity Management"
-linter-yaml-title-alias: "Class Note 10: Liquidity and Liquidity Management"
+- academia
+title: 'Class Note 10: Liquidity and Liquidity Management'
+linter-yaml-title-alias: 'Class Note 10: Liquidity and Liquidity Management'
 tags:
-  - asset_liquidity
-  - balance_sheet
-  - financial_intermediaries
-  - illiquidity
-  - liquidity_management
-  - financial_markets
-  - liquidity_risk
-  - liquidity_crisis
-  - federal_funds
-  - repurchase_agreements
+- volatility
+- liquidity_crisis
+- implied
+- future
+- balance_sheet
+- risk-management
+- option
+- financial_intermediaries
+- regulatory-capital
+- put
+- trading
+- bond
+- crisis
+- financial-markets
+- stochastic-calculus
+- spread
+- liquidity_risk
+- measure
+- fed-funds
+- ito
+- bid-ask
+- maturity
+- event-study
+- repurchase_agreements
+- fundamental
+- liquidity_management
+- financial-crisis
+- federal_funds
+- asset_liquidity
+- financial_markets
+- discount
+- private-equity
+- credit
+- market
+- investment-strategy
+- rating
+- banking
+- portfolio
+- illiquidity
+- yield-to-maturity
 aliases:
-  - "Class Note 10"
-  - "Illiquid Assets"
-  - "Liquidity"
-  - "Liquidity Management"
+- Class Note 10
+- Illiquid Assets
+- Liquidity
+- Liquidity Management
 key_concepts:
-  - Liquidity measurement and forced sales
-  - Illiquid asset bid-ask spreads
-  - Perfectly liquid assets vs illiquid assets
-  - Financial intermediary liquidity provision
-  - Bank liquidity risk management
-  - Sources of bank liquidity
-  - Asset management for liquidity
-  - Liability management for liquidity
-  - Federal funds market
-  - Federal Reserve discount window
-  - Liquidity crisis prevention
-  - Forward-looking liquidity management
+- Asset management for liquidity
+- Forward-looking liquidity management
+- Bank liquidity risk management
+- Federal funds market
+- Sources of bank liquidity
+- Financial intermediary liquidity provision
+- Liquidity crisis prevention
+- Illiquid asset bid-ask spreads
+- Liability management for liquidity
+- Liquidity measurement and forced sales
+- Federal Reserve discount window
+- Perfectly liquid assets vs illiquid assets
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
+- Bid Ask in financial markets
+- Fed Funds in financial markets
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000046
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Class Note 10: Liquidity and Liquidity Management
 

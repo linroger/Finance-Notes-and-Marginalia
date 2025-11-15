@@ -1,25 +1,115 @@
 ---
-title: Lecture Notes 9A-Credit Default Swaps
-tags:
-  - bis_report
-  - cds_indexes
-  - credit_default_swaps
-  - financial_instruments
-  - his_markit
-  - multi_name_cds
-  - reference_entity
-  - single_name_cds
+academic_level: graduate
 aliases:
-  - CDS
-  - Credit Default Swap
-  - Lecture 9A
+- CDS
+- Credit Default Swap
+- Lecture 9A
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000157
 key_concepts:
-  - CDS Indexes
-  - Credit Default Swaps
-  - Multi-name CDS
-  - Reference Entity
-  - Single-name CDS
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Swap Market Mechanisms and Pricing
+- Risk Measurement and VaR Backtesting
+- Credit Default Swaps and CDS Pricing
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Option Valuation and Exercise Strategies
+- CDS Spreads and Implied Default Probabilities
+- Value at Risk and Expected Shortfall
+- Factor Models and Asset Pricing
+- Credit Risk Transfer and Synthetic Instruments
+- Fama-French Factors and Style Analysis
+- Options Trading Strategies and Risk Management
+- Interest Rate Swaps and Currency Swap Structures
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- asset-allocation
+- banking-regulation
+- basel-accord
+- capital-adequacy
+- capital-asset-pricing
+- caplet
+- cds
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- default-probability
+- put-options
+- cds-coupons
+- call-options
+- butterfly-spreads
+- momentum
+- strangles
+- expected-shortfall
+- straddles
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- book-to-market
+- var-methodologies
+- historical-var
+- cds-bond-basis
+- covered-calls
+- swap-rate
+- sofr
+- style-analysis
+- option-strategies
+- swap-spread
+- stress-testing
+- investment-analysis
+- cds-spreads
+- portfolio-optimization
+- value-at-risk
+- total-return-swaps
+- libor
+- currency-swaps
+- overnight-indexed-swaps
+- premium-leg
+- default-leg
+- arbitrage-pricing-theory
+- multi-factor-models
+- foreign-recurrency
+- cds-arbitrage
+- iron-condors
+- protective-puts
+- financial-markets
+- risky-continuation
+- size-effect
+- factor-models
+- basis-swaps
+- value-factor
+- interest-rate-swaps
+- monte-carlo-var
+- var-backtesting
+- options-trading
+- cds-implied-probability
+- apt
+- credit-default-swaps
+- fama-french
+title: Lecture Notes 9A-Credit Default Swaps
+type: course-note
 ---
+--
+
+
 
 # Lecture Notes 9A- Credit Default Swaps
 ### Financial Instruments

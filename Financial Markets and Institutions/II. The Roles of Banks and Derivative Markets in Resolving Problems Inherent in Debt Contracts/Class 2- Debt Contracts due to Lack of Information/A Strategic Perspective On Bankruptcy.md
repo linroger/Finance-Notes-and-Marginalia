@@ -1,21 +1,44 @@
 ---
 title: A Strategic Perspective On Bankruptcy
 tags:
-  - bankruptcy
-  - chapter_11
-  - creditors
-  - financial_distress
-  - reorganization
+- arch
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cds
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- cost-of-capital
 aliases:
-  - Bankruptcy Strategy
-  - Strategic Bankruptcy
+- Bankruptcy Strategy
+- Strategic Bankruptcy
 key_concepts:
-  - Chapter 11 bankruptcy code
-  - Company financial obligations
-  - Court-supervised reorganization
-  - Financial distress causes
-  - Out-of-court reorganization
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
 
 # A Strategic Perspective On Bankruptcy
 

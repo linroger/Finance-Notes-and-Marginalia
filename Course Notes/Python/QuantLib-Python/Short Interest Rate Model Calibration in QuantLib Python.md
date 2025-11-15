@@ -1,25 +1,178 @@
 ---
-title: Short Interest Rate Model Calibration in QuantLib Python
-source: 
-  http://gouthamanbalaraman.com/blog/short-interest-rate-model-calibration-quantlib.html
+academic_level: graduate
+aliases:
+- QuantLib Calibration
+- Short Rate Calibration
 description: Provides examples of short interest rate model calibration to swaption
   volatilities in QuantLib Python
-tags:
-  - hull_white_model
-  - interest_rate_models
-  - model_calibration
-  - quantlib_python
-  - swaption_volatilities
-aliases:
-  - QuantLib Calibration
-  - Short Rate Calibration
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000050
 key_concepts:
-  - Black Karasinski model
-  - Calibrating model parameters
-  - Hull-White model details
-  - QuantLib Python examples
-  - Swaption volatility calibration
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Hull-White model and Gaussian HJM framework
+- QuantLib library and quantitative finance implementation
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Interest Rate Swaps and Currency Swap Structures
+- Term Structure of Interest Rates and Yield Curves
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+source: http://gouthamanbalaraman.com/blog/short-interest-rate-model-calibration-quantlib.html
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- binomial-model
+- black-scholes-model
+- bond-option
+- capital-asset-pricing
+- capital-structure
+- caplet
+- cash-flow-modeling
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- cost-of-capital
+- credit-rating
+- leveraged-buyout
+- asset-allocation
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- volatility-analysis
+- style-analysis
+- option-strategies
+- yield-curve
+- unexpected-loss
+- clearinghouse
+- interpolation
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- loss-given-default
+- value-factor
+- vasicek-model
+- monte-carlo-var
+- options-trading
+- forward-contracts
+- fama-french
+- forward-rates
+- price-to-earnings
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- expected-loss
+- quantitative-finance
+- forward-curve
+- currency-swaps
+- protective-puts
+- probabilty-of-default
+- curve-fitting
+- roll-yield
+- risk-premium
+- spot-rates
+- put-options
+- affine-term-structure
+- momentum
+- basis-risk
+- term-structure
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- value-at-risk
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- sum-of-parts
+- yield-curve-shocks
+- strangles
+- short-rate-models
+- swap-spread
+- credit-migration
+- default-probability
+- marking-to-market
+- total-return-swaps
+- libor
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- size-effect
+- basis-swaps
+- precedent-transactions
+- interest-rate-swaps
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+- bootstrap-method
+- credit-default-swaps
+title: Short Interest Rate Model Calibration in QuantLib Python
+type: note
 ---
+--
+
+
 
 # Short Interest Rate Model Calibration in QuantLib Python
 

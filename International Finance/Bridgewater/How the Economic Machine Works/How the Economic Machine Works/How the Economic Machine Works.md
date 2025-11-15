@@ -1,3 +1,80 @@
+---
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- How the Economic Machine Works and financial analysis
+- How the Economic Machine Works in modern finance
+- Applications of How the Economic Machine Works
+- 'Case study: How the Economic Machine Works'
+- Credit default probability and recovery modeling
+- Fed Funds in financial markets
+- Growth Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Value at Risk and tail risk measurement
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+tags:
+- efficiency
+- leverage
+- multiple
+- monetary-policy
+- hedge
+- basis
+- commodity
+- forward
+- future
+- implied
+- yield-curve
+- pricing
+- distribution
+- interest-rates
+- put
+- intrinsic
+- american
+- bond
+- gold
+- futures
+- credit-risk
+- measure
+- fed-funds
+- valuation
+- default
+- options
+- roll
+- call
+- var
+- interest-rate
+- collateral
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000576
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # Economic Principles
 
 I. How the Economic Machine Works 1

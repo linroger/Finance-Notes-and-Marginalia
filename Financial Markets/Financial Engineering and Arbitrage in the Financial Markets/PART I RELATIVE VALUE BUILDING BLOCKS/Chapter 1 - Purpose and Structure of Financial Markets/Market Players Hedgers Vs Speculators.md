@@ -1,22 +1,69 @@
 ---
 tags:
-  - fixed_rate_mortgage
-  - hedgers_speculators
-  - market_players
-  - opportunity_cost
-  - price_uncertainty
-  - risk_sharing
+- default
+- risk_sharing
+- leverage
+- synthetic
+- risk-free
+- hedgers_speculators
+- eur
+- fixed_rate_mortgage
+- hedge
+- arbitrage
+- maturity
+- margin
+- future
+- capital
+- equity
+- market-risk
+- premium
+- apt
+- credit
+- put
+- trading
+- bond
+- market_players
+- price_uncertainty
+- mortgage
+- opportunity_cost
 aliases:
-  - Hedgers vs. Speculators
-  - Market Participants
+- Hedgers vs. Speculators
+- Market Participants
 key_concepts:
-  - Fixed rate mortgage
-  - Investment as speculation
-  - Investors buy high, sell low
-  - Opportunity cost of capital
-  - Predictability vs. risk
-  - Risk sharing in markets
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Arbitrage pricing theory and no-arbitrage principle
+- Credit default probability and recovery modeling
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market Risk in financial markets
+- Risk Free in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000327
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 1.7 MARKET PLAYERS: HEDGERS VS SPECULATORS  
 

@@ -1,26 +1,60 @@
 ---
-title: The Risks of US-China Military War Have Declined and a New Type of War Has
-Begun | LinkedIn
-source: 
-  https://www.linkedin.com/pulse/risks-us-china-military-war-have-declined-new-type-has-ray-dalio-dck8e/
-description:
-tags:
-  - apec_meeting
-  - changing_world_order
-  - geopolitical_conflict
-  - military_war
-  - us_china_relations
-aliases:
-  - Biden-Xi meeting
-  - US-China conflict
-  - geopolitical risks
 key_concepts:
-  - APEC meeting in San Francisco
-  - Military war risk declines
-  - New type of war begins
-  - Principles for world order
-  - US-China conflict changes
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- The Risks of US-China Military War Have Declined and a New Type of War Has Begun
+  and financial analysis
+- The Risks of US-China Military War Have Declined and a New Type of War Has Begun
+  in modern finance
+- Applications of The Risks of US-China Military War Have Declined and a New Type
+  of War Has Begun
+- 'Case study: The Risks of US-China Military War Have Declined and a New Type of
+  War Has Begun'
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+tags:
+- options
+- algorithmic-trading
+- strategy
+- margin
+- repo
+- swaps
+- risk-management
+- irs
+- oil
+- put
+- call
+- market
+- american
+- var
+- roa
+- measure
+- split
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000608
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 *This will become more apparent at the upcoming Biden-Xi APEC meeting.*
 

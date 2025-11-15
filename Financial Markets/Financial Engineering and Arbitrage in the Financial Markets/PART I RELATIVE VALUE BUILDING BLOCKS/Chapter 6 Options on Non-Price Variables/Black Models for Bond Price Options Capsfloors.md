@@ -1,21 +1,77 @@
 ---
 tags:
-  - black_model
-  - bond_price_options
-  - european_swaptions
-  - option_pricing
-  - yield_curve
+- delta
+- duration
+- eur
+- volatility
+- multiple
+- moneyness
+- hedge
+- convexity
+- bond_price_options
+- yield_curve
+- option_pricing
+- forward
+- future
+- implied
+- yield-curve
+- swap
+- pricing
+- counterparty
+- option
+- put
+- american
+- bond
+- black_model
+- european_swaptions
+- valuation
 aliases:
-  - Caps/Floors
-  - European Swaptions
-  - Options on Bond Prices
+- Caps/Floors
+- European Swaptions
+- Options on Bond Prices
 key_concepts:
-  - Black model
-  - Bond price options
-  - Forward bond price
-  - Price volatility
-  - Yield curve construction
+- Black-Scholes model and option pricing theory
+- Option Greeks and risk sensitivities
+- American option pricing and early exercise
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Swap market mechanisms and pricing
+- Bond duration and interest rate risk
+- Bond convexity and price-yield relationships
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Hedging strategies and delta-gamma neutrality
+- Arbitrage pricing theory and no-arbitrage principle
+- Black-Scholes option pricing model and its applications
+- Convexity adjustments for bond portfolio management
+- Delta hedging strategies in options markets
+- Duration and interest rate risk measurement
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Spot Price in financial markets
+- Swaption pricing and interest rate option strategies
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000289
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 6.1  BLACK MODELS FOR BOND PRICE OPTIONS, CAPS/FLOORS, AND EUROPEAN SWAPTIONS  
 

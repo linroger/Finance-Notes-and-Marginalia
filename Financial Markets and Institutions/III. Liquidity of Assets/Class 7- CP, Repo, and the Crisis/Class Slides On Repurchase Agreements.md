@@ -1,23 +1,50 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Class SlIdes On Repurchase Agreements
 title: Class Slides On Repurchase Agreements
 tags:
-  - haircut
-  - interest_calculation
-  - margin
-  - repo_transaction
-  - repurchase_agreements
+- margin
+- repo_transaction
+- haircut
+- repurchase_agreements
+- interest_calculation
+- caps-floors
+- distressed
+- private-equity
+- financial-markets
+- risk-management
+- banking
+- financial-crisis
+- repo
+- credit-spread
+- tracking-error
+- derivatives
+- regression-discontinuity
+- cap-floor
+- subprime
+- mean-reversion
 aliases:
-  - Repo Slides
-  - Repurchase Agreements
+- Repo Slides
+- Repurchase Agreements
 key_concepts:
-  - Borrowing a security
-  - Interest calculation
-  - Margin or haircut
-  - Repo transaction example
-  - Selling the security
+- Repo transaction example
+- Interest calculation
+- Selling the security
+- Margin or haircut
+- Borrowing a security
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
 ---
 
 Class Note 12 Part 2 Repos

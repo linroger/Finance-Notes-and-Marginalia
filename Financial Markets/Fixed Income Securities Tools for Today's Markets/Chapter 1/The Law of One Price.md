@@ -1,20 +1,60 @@
 ---
 tags:
-  - bond_pricing
-  - discount_factors
-  - law_of_one_price
-  - market_price
-  - us_treasury_bonds
+- us_treasury_bonds
+- discount_factors
+- maturity
+- coupon
+- future
+- bond_pricing
+- discount
+- apt
+- credit
+- market_price
+- call
+- put
+- model
+- law_of_one_price
+- bond
+- treasury
+- liquidity
+- market
+- trading
+- credit-risk
 aliases:
-  - LOOP
-  - Law of One Price
+- LOOP
+- Law of One Price
 key_concepts:
-  - Bonds trading rich or cheap
-  - Deviations from the law
-  - Identical cash flows, same price
-  - Market price vs present value
-  - Present value calculation
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Credit Risk in financial markets
+- Market liquidity analysis and liquidity risk
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000155
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 1.3 THE LAW OF ONE PRICE  
 

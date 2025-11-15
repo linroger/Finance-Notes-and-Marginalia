@@ -1,27 +1,74 @@
 ---
 tags:
-  - agency_mbs
-  - fha
-  - fhlmc
-  - financial_crisis
-  - fnma
-  - gnma
-  - gse
-  - mbs
-  - mortgage_market
-  - us_government
+- default
+- fhlmc
+- pandemic
+- ito
+- gnma
+- hedge
+- us_government
+- gse
+- repo
+- financial_crisis
+- forward
+- capital
+- equity
+- fha
+- mbs
+- apt
+- rescue
+- credit
+- mortgage_market
+- put
+- call
+- model
+- market
+- agency_mbs
+- crisis
+- treasury
+- credit-risk
+- fnma
+- mortgage
 aliases:
-  - Agency MBS
-  - GSEs
-  - Mortgage Lending
-  - US Mortgage Market
+- Agency MBS
+- GSEs
+- Mortgage Lending
+- US Mortgage Market
 key_concepts:
-  - Agency MBS, GSEs
-  - FHA, FNMA, VA
-  - MBS securitization
-  - Mortgage market in US
-  - Secondary mortgage market
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Risk hedging strategies and instruments
+- Market liquidity analysis and liquidity risk
+- Asset securitization and structured finance
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000252
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 15.1 THE MORTGAGE MARKET IN THE UNITED STATES  
 

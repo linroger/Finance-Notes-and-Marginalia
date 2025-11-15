@@ -1,27 +1,146 @@
 ---
-cssclasses: academia
-title: Part I - Basic Concepts Introduction
-linter-yaml-title-alias: Part I - Basic Concepts Introduction
-tags:
-  - financial_economics
-  - risk_preferences
-  - banking_theory
-  - financial_concepts
-  - market_completeness
+academic_level: graduate
 aliases:
-  - Financial Intermediation Basic Concepts
-  - Part I Background Introduction
+- Financial Intermediation Basic Concepts
+- Part I Background Introduction
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000212
 key_concepts:
-  - Risk preferences (neutral, averse, preferring)
-  - Utility functions and wealth
-  - Expected utility theory
-  - Jensen's inequality
-  - Market completeness
-  - Riskless arbitrage
-  - Options
-  - Market efficiency
-  - Informational asymmetry
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Risk-neutral measures and martingale pricing
+- Martingale theory and change of measure
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Securitization and structured finance
+- Mortgage-backed securities (MBS) and prepayment modeling
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Alpha generation and active portfolio management
+- Alpha generation and active return measurement
+- Risk preference theory and utility functions
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Black-Scholes Option Pricing Model and Its Applications
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: Part I - Basic Concepts Introduction
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- asset-backed-securities
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- caplet
+- cds
+- cmbs-rmbs
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- counterparty-risk
+- credit-default-swap
+- put-options
+- bsm-model
+- affine-term-structure
+- hull-white
+- european-options
+- call-options
+- cir-model
+- high-frequency-trading
+- black-scholes-formula
+- butterfly-spreads
+- strangles
+- momentum
+- expected-shortfall
+- straddles
+- basis-risk
+- parametric-var
+- partial-differential-equation
+- var-methodologies
+- historical-var
+- extreme-value-theory
+- book-to-market
+- mean-reversion
+- contango
+- risk-neutral-valuation
+- backwardation
+- lognormal-models
+- covered-calls
+- volatility-analysis
+- style-analysis
+- short-rate-models
+- option-strategies
+- stress-testing
+- arbitrage
+- mathematical-finance
+- ornstein-uhlenbeck
+- clearinghouse
+- investment-analysis
+- market-efficiency
+- quantitative-finance
+- marking-to-market
+- value-at-risk
+- order-flow
+- arbitrage-pricing-theory
+- ito-calculus
+- hedge-ratio
+- multi-factor-models
+- bid-ask-spread
+- iron-condors
+- option-pricing
+- protective-puts
+- market-price-of-risk
+- volatility-surface
+- financial-markets
+- price-discovery
+- size-effect
+- factor-models
+- liquidity
+- algorithmic-trading
+- value-factor
+- vasicek-model
+- lognormal-distribution
+- monte-carlo-var
+- risk-management
+- convergence
+- options-trading
+- var-backtesting
+- futures-contracts
+- roll-yield
+- market-impact
+- apt
+- risk-premium
+- forward-contracts
+- fama-french
+title: Part I - Basic Concepts Introduction
+type: note
 ---
+--
+
+
 
 # Basic Concepts
 

@@ -1,21 +1,57 @@
 ---
 tags:
-  - bond_returns
-  - coupon_payments
-  - financing_costs
-  - horizon_return
-  - realized_returns
+- financing_costs
+- horizon_return
+- leverage
+- hedge
+- repo
+- coupon
+- capital
+- apt
+- put
+- call
+- coupon_payments
+- bond
+- market
+- collateral
+- interest-rate
+- bond_returns
+- realized_returns
 aliases:
-  - Gross Horizon Return
-  - Net Horizon Return
-  - Realized Return
+- Gross Horizon Return
+- Net Horizon Return
+- Realized Return
 key_concepts:
-  - bond price
-  - coupon payments
-  - financing cost
-  - net horizon return
-  - return on capital
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000193
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 3.1 REALIZED RETURNS  
 

@@ -1,22 +1,82 @@
 ---
-tags:
-  - cross_currency_basis
-  - fx_hedged_pickup
-  - government_bonds
-  - interest_rates
-  - xccy_basis
 aliases:
-  - Cross-currency basis
-  - FX Hedged Pickup
-  - Hedged Pickups
-  - XCCY basis
+- Cross-currency basis
+- FX Hedged Pickup
+- Hedged Pickups
+- XCCY basis
 key_concepts:
-  - FX hedged pickup
-  - cross currency basis
-  - currency quote convention
-  - government bond yields
-  - xccy basis calculation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Calculating Novel Cross-Currency Bases a and financial analysis
+- Calculating Novel Cross-Currency Bases a in modern finance
+- Applications of Calculating Novel Cross-Currency Bases a
+- 'Case study: Calculating Novel Cross-Currency Bases a'
+- Credit Risk in financial markets
+- Cross Currency in financial markets
+- Discounted Cash Flow valuation methodology
+- Delta hedging strategies in options markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Spot Rate in financial markets
+- Time Series in financial markets
+- Value at Risk and tail risk measurement
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+tags:
+- delta
+- eur
+- multiple
+- hedge
+- basis
+- forward
+- swaps
+- yield-curve
+- swap
+- time-series
+- jpy
+- hedging
+- dcf
+- bond
+- crisis
+- futures
+- bonds
+- spread
+- credit-risk
+- basis-swap
+- usd
+- maturity
+- gbp
+- fixed-income
+- spot-rate
+- roll
+- cross-currency
+- yield
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000377
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Chapter 3 Calculating Novel Cross-Currency Bases and FX Hedged Pickups
 

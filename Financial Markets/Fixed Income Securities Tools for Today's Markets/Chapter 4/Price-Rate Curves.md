@@ -1,22 +1,64 @@
 ---
 tags:
-  - bond_pricing
-  - bond_yields
-  - hqm_curve
-  - interest_rate_risk
-  - price_rate_curves
-  - treasury_bonds
+- price_rate_curves
+- duration
+- convexity
+- maturity
+- treasury_bonds
+- coupon
+- bond_pricing
+- yield-curve
+- discount
+- hqm_curve
+- apt
+- interest_rate_risk
+- call
+- put
+- bond
+- market
+- treasury
+- spread
+- roa
+- yield
+- bond_yields
+- interest-rate
 aliases:
-  - Bond Sensitivity
-  - HQM Curve
-  - Price-Rate Curve
+- Bond Sensitivity
+- HQM Curve
+- Price-Rate Curve
 key_concepts:
-  - 30-year par rate
-  - Bond price sensitivity
-  - Bond yield spreads
-  - HQM par rate curve
-  - Interest rate risk metrics
+- Bond duration and interest rate risk
+- Bond convexity and price-yield relationships
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Convexity adjustments for bond portfolio management
+- Duration and interest rate risk measurement
+- Interest Rate in financial markets
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000204
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 4.1 PRICE-RATE CURVES  
 

@@ -3,36 +3,81 @@ cssclasses: academia
 linter-yaml-title-alias: Lecture Note 1 - Debt Pricing
 title: Lecture Note 1 - Debt Pricing
 tags:
-  - bankruptcy
-  - capital_structure
-  - debt_contracts
-  - financial_crisis
-  - securitization
-  - debt_pricing
-  - leverage_effects
-  - liquidity_provision
-  - asset_substitution
-  - agency_costs
+- collateralized-debt-obligation
+- probability
+- lehman
+- bid-ask-spread
+- capital-budgeting
+- counterparty-risk
+- caplet
+- capital-adequacy
+- cash-flow-modeling
+- pricing
+- bond
+- crisis
+- banking-regulation
+- basel-accord
+- default
+- cds
+- payoff
+- cost-of-capital
+- covid
+- capital
+- equity
+- subprime
+- capital-structure
+- asian
+- bailout
+- convexity-adjustment
+- market
+- credit-default-swap
+- cdo
+- liquidity
+- securitization
+- credit-derivatives
 aliases:
-  - Bankruptcy & Reorganization
-  - Debt Contracts
-  - Debt Pricing
-  - Lecture 1
-  - Strategic Effects of Debt
+- Bankruptcy & Reorganization
+- Debt Contracts
+- Debt Pricing
+- Lecture 1
+- Strategic Effects of Debt
 key_concepts:
-  - Banks and financial engineering
-  - Debt contracts and bankruptcy
-  - Liquidity in markets
-  - Securitization structures
-  - Strategic effects of debt
-  - Capital structure choice
-  - Source of funds selection
-  - Debt capacity calculation
-  - Agency costs of debt
-  - Asset substitution problem
-  - Public vs private debt
-  - Financial crisis mechanisms
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Net present value (NPV) and investment evaluation
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Securitization and structured finance
+- Collateralized debt obligations (CDO) and tranche structure
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Credit default probability and recovery modeling
+- Market liquidity analysis and liquidity risk
+- Asset securitization and structured finance
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: course-note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000076
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
+
 
 # Lecture Note 1 - Debt Pricing
 

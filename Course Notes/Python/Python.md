@@ -1,21 +1,43 @@
 ---
-cssclasses:
-  - academia
-title: Python
-tags:
-  - coding
-  - programming
-  - python
+academic_level: graduate
 aliases:
-  - Python Language
-  - Python Programming
+- Python Language
+- Python Programming
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000031
 key_concepts:
-  - Data structures
-  - Large standard library
-  - Object-oriented programming
-  - Scripting language
-  - Web development
+- QuantLib library and quantitative finance implementation
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+professional_application: theoreti
+status: active
+tags:
+- asset-allocation
+- charting
+- dashboards
+- data-visualization
+- debit-valuation-adjustment
+- derivatives-pricing
+- financial-modeling
+- funding-costs
+- hedging
+- interactive-plots
+- plotting
+- portfolio-management
+- python-finance
+- quantitative-analysis
+- quantitative-finance
+title: Python
+type: note
 ---
+--
+
+
 
 # Python
 

@@ -1,3 +1,71 @@
+---
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Chapter 12. Controversies in Trade Policy and financial analysis
+- Chapter 12. Controversies in Trade Policy in modern finance
+- Applications of Chapter 12. Controversies in Trade Policy
+- 'Case study: Chapter 12. Controversies in Trade Policy'
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+tags:
+- barrier
+- eur
+- margin
+- energy
+- commodity
+- swaps
+- future
+- regulation
+- pricing
+- irs
+- distribution
+- oil
+- put
+- trading
+- american
+- bonds
+- spread
+- measure
+- options
+- payoff
+- ito
+- statement
+- comparable
+- growth
+- capital
+- risk
+- call
+- liquidity
+- yield
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000536
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # CHAPTER 12  
 
 # Controversies in Trade Policy  

@@ -1,23 +1,297 @@
 ---
-tags:
-  - credit_derivatives
-  - credit_risk_modeling
-  - default_risk
-  - reduced_form_models
-  - structural_models
+academic_level: graduate
 aliases:
-  - Credit Models
-  - Credit Risk Introduction
+- Credit Models
+- Credit Risk Introduction
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000352
 key_concepts:
-  - CAPM and portfolio theory
-  - Credit default swap contracts
-  - Default probability modeling
-  - Default rates and credit ratings
-  - Models of credit risks
-  - Option pricing for bonds
-  - Structural and reduced form models
-  - Valuing default risk claims
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Risk-neutral measures and martingale pricing
+- Martingale theory and change of measure
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Interest rate swaps and fixed income derivatives
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Collateralized debt obligations (CDO) and tranche structure
+- Arbitrage opportunities and no-arbitrage pricing
+- Sharpe ratio and risk-adjusted performance measurement
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Auto-Callable Notes and Barrier Options
+- Basel III Regulatory Framework and Capital Requirements
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Equity-Linked Notes and Market-Linked Securities
+- Delta, Gamma, and Vega Hedging Techniques
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Cost of Equity and Expected Returns
+- Forward Curves and Roll Strategies
+- Regulatory Capital and Stress Testing
+- Black-Scholes Option Pricing Model and Its Applications
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Structured Products and Principal Protection
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Credit Default Swaps and CDS Pricing
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- American Option Pricing and Early Exercise Premium
+- Interest Rate Swaps and Currency Swap Structures
+- Term Structure of Interest Rates and Yield Curves
+- Liquidity Coverage Ratio and Net Stable Funding
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- CDS Spreads and Implied Default Probabilities
+- Credit Spreads and Rating Migration Analysis
+- Market Microstructure and Liquidity Analysis
+- Credit Risk Transfer and Synthetic Instruments
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- adapted-processes
+- arbitrage-opportunity
+- arbitrage-pricing
+- arch
+- asset-allocation
+- bid-ask-spread
+- binomial-model
+- black-scholes-model
+- capital-asset-pricing
+- caplet
+- cds
+- coherent-risk-measure
+- collateral-rates
+- collateralized-debt-obligation
+- compound-poisson
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- binomial-tree
+- straddles
+- extreme-value-theory
+- american-options
+- partial-differential-equation
+- book-to-market
+- arbitrage
+- risk-neutral-valuation
+- backwardation
+- net-stable-funding
+- energy-derivatives
+- volatility-analysis
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- yield-curve
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- cds-spreads
+- interpolation
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- capital-conservation-buffer
+- volatility-surface
+- price-discovery
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dirty-price
+- forward-curves
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- forward-rates
+- fama-french
+- price-to-earnings
+- bsm-model
+- recovery-rate
+- zero-coupon-bonds
+- black-scholes-formula
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- regulatory-capital
+- expected-loss
+- market-efficiency
+- delta-hedging
+- quantitative-finance
+- forward-curve
+- order-flow
+- currency-swaps
+- default-leg
+- market-linked-notes
+- crr-model
+- foreign-recurrency
+- protective-puts
+- government-bonds
+- cds-arbitrage
+- systematic-risk
+- alpha
+- security-market-line
+- probabilty-of-default
+- liquidity
+- reverse-convertibles
+- curve-fitting
+- credit-default-swaps
+- gamma-hedging
+- hedge-effectiveness
+- idiosyncratic-risk
+- storage-costs
+- roll-yield
+- tier-2-capital
+- beta
+- risk-premium
+- spot-rates
+- put-options
+- cds-coupons
+- countercyclical-buffer
+- affine-term-structure
+- multi-period-binomial
+- capm
+- algorithmic-trading
+- momentum
+- basis-risk
+- market-risk-premium
+- discrete-time-pricing
+- hedge-strategies
+- term-structure
+- cds-bond-basis
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- value-at-risk
+- metals-trading
+- risky-continuation
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- barrier-options
+- cross-hedging
+- sum-of-parts
+- european-options
+- clean-price
+- yield-curve-shocks
+- seasonality
+- high-frequency-trading
+- principal-protected-notes
+- lattice-models
+- strangles
+- conditional-var
+- equity-linked-notes
+- fixed-income
+- cox-ross-rubinstein
+- short-rate-models
+- swap-spread
+- optional-exercise
+- efficient-frontier
+- credit-migration
+- default-probability
+- marking-to-market
+- binomial-option-pricing
+- auto-callables
+- total-return-swaps
+- libor
+- credit-spreads
+- premium-leg
+- multi-factor-models
+- ito-calculus
+- trading-multiples
+- structured-notes
+- tier-1-capital
+- iron-condors
+- option-pricing
+- financial-markets
+- static-hedging
+- size-effect
+- basis-swaps
+- precedent-transactions
+- knock-out-options
+- interest-rate-swaps
+- liquidity-coverage-ratio
+- lognormal-distribution
+- ipo-valuation
+- basel-iii
+- market-multiple
+- ' recombining-trees'
+- futures-contracts
+- cds-implied-probability
+- apt
+- bootstrap-method
+- current-yield
+type: note
 ---
+--
+
+
 
 # An Introduction to Credit Risk Modelling
 

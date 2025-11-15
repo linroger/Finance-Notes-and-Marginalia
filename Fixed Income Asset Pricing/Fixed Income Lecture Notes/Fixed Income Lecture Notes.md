@@ -1,24 +1,157 @@
 ---
+aliases:
+- FI Notes
+- Fixed Income
+- Lecture Notes
 cssclasses: academia
-title: Fixed Income Lecture Notes
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000540
+key_concepts:
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Fixed Income Lecture Notes and financial analysis
+- Fixed Income Lecture Notes in modern finance
+- Applications of Fixed Income Lecture Notes
+- 'Case study: Fixed Income Lecture Notes'
+- Duration and Convexity in Fixed Income Risk Management
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Ornstein-Uhlenbeck Process in Finance
+- Black-Scholes Option Pricing Model and Its Applications
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Interest Rate Swaps and Currency Swap Structures
+- Term Structure of Interest Rates and Yield Curves
+- Interest Rate Risk and DV01 Calculations
+- Government and Corporate Bond Markets
 linter-yaml-title-alias: FIXED INCOME LECTURE NOTES
 tags:
-  - bond_pricing
-  - fixed_income
-  - interest_rates
-  - lecture_notes
-  - yield_curve
-aliases:
-  - FI Notes
-  - Fixed Income
-  - Lecture Notes
-key_concepts:
-  - Bond Pricing
-  - Bond Valuation
-  - Fixed Income Securities
-  - Interest Rates
-  - Yield Curve
+- swap
+- swaps
+- bonds
+- yield
+- yield-curve
+- fixed-income
+- basis-swap
+- term-structure
+- risk
+- forward-rates
+- interest-rates
+- interest-rate
+- pricing
+- derivatives
+- hull-white
+- cir-model
+- expected-shortfall
+- extreme-value-theory
+- partial-differential-equation
+- backwardation
+- risk-neutral-valuation
+- volatility-analysis
+- bond-pricing
+- corporate-bonds
+- clearinghouse
+- interpolation
+- overnight-indexed-swaps
+- interest-rate-risk
+- hedge-ratio
+- market-price-of-risk
+- volatility-surface
+- vasicek-model
+- dirty-price
+- monte-carlo-var
+- coupon-bonds
+- forward-contracts
+- yield-to-maturity
+- bsm-model
+- zero-coupon-bonds
+- black-scholes-formula
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- modified-duration
+- quantitative-finance
+- forward-curve
+- currency-swaps
+- government-bonds
+- curve-steepening
+- curve-fitting
+- credit-default-swaps
+- roll-yield
+- risk-premium
+- spot-rates
+- affine-term-structure
+- curve-flattening
+- basis-risk
+- convexity
+- sofr
+- swap-rate
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- par-yield
+- investment-analysis
+- duration-analysis
+- value-at-risk
+- barbell-strategy
+- risk-management
+- convergence
+- var-backtesting
+- european-options
+- clean-price
+- yield-curve-shocks
+- conditional-var
+- dv01
+- short-rate-models
+- swap-spread
+- price-yield-relationship
+- marking-to-market
+- total-return-swaps
+- libor
+- ito-calculus
+- option-pricing
+- financial-markets
+- black-scholes-model
+- macaulay-duration
+- basis-swaps
+- interest-rate-swaps
+- lognormal-distribution
+- futures-contracts
+- bootstrap-method
+- current-yield
+title: Fixed Income Lecture No
 ---
+--
 
 # Fixed Income Lecture Notes
 

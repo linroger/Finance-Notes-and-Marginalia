@@ -1,20 +1,67 @@
 ---
 tags:
-  - cds_spread
-  - cds_upfront_amounts
-  - financial_crisis
-  - market_conventions
-  - maturity_dates
+- default
+- cds
+- cds_spread
+- market_conventions
+- probability
+- maturity
+- maturity_dates
+- financial_crisis
+- repo
+- coupon
+- future
+- swap
+- libor
+- discount
+- pricing
+- hedging
+- premium
+- cds_upfront_amounts
+- apt
+- credit
+- put
+- market
+- crisis
+- spread
+- credit-risk
 aliases:
-  - CDS Upfront
-  - Upfront Amounts
+- CDS Upfront
+- Upfront Amounts
 key_concepts:
-  - Annual coupon contracts
-  - CDS trading like swaps
-  - Market conventions simplify CDS
-  - Standardized maturity dates
-  - Upfront amount compensation
+- Interest rate swaps and term structure modeling
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000232
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 14.6 CDS UPFRONT AMOUNTS  
 

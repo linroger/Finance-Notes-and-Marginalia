@@ -1,25 +1,67 @@
 ---
 tags:
-  - bond_investing
-  - carry_roll_down
-  - interest_rates
-  - p_and_l_attribution
-  - term_structure
+- duration
+- convexity
+- hedge
+- maturity
+- carry_roll_down
+- repo
+- coupon
+- spot-rate
+- forward
+- future
+- premium-bond
+- swap
+- portfolio
+- interest_rates
+- pricing
+- discount
+- p_and_l_attribution
+- hedging
+- bond_investing
+- put
+- term_structure
+- trading
+- bond
+- spread
+- forward-rate
 aliases:
-  - P&L Breakdown
-  - Profit and Loss Attribution
-  - Return Attribution
+- P&L Breakdown
+- Profit and Loss Attribution
+- Return Attribution
 key_concepts:
-  - Attribution reports
-  - Cash carry
-  - Changes in rates
-  - Changes in spreads
-  - Coupon income
-  - Financing arrangements
-  - Forward loan example
-  - P&L component parts
-  - Term structure scenario
+- Attribution reports
+- Cash carry
+- Changes in rates
+- Changes in spreads
+- Coupon income
+- Financing arrangements
+- Forward loan example
+- P&L component parts
+- Term structure scenario
+- Convexity adjustments for bond portfolio management
+- Duration and interest rate risk measurement
+- Forward Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Premium Bond in financial markets
+- Spot Rate in financial markets
+- Term Structure in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000195
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 3.8 P&L ATTRIBUTION  
 

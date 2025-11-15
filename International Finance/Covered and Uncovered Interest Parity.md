@@ -1,24 +1,156 @@
 ---
-cssclasses: academia
-title: Covered and Uncovered Interest Parity
-tags:
-  - covered_interest_parity
-  - exchange_rates
-  - interest_rates
-  - international_finance
-  - uncovered_interest_parity
 aliases:
-  - CIP
-  - FX Parity
-  - Interest Parity
-  - UIP
+- CIP
+- FX Parity
+- Interest Parity
+- UIP
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000018
 key_concepts:
-  - Arbitrage in FX markets
-  - 'CIP: interest rate parity'
-  - Forward exchange contracts
-  - Risk premium deviations
-  - 'UIP: exchange rate expectations'
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Covered and Uncovered Interest Parity and financial analysis
+- Covered and Uncovered Interest Parity in modern finance
+- Applications of Covered and Uncovered Interest Parity
+- 'Case study: Covered and Uncovered Interest Parity'
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Delta, Gamma, and Vega Hedging Techniques
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- Term Structure of Interest Rates and Yield Curves
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Hedging Strategies and Risk Mitigation
+tags:
+- forward
+- options
+- futures
+- hedging
+- basis
+- liquidity
+- call
+- interest-rate
+- interest-rates
+- delta
+- risk
+- arbitrage
+- volatility
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- backwardation
+- volatility-analysis
+- option-strategies
+- yield-curve
+- unexpected-loss
+- clearinghouse
+- interpolation
+- hedge-ratio
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- vasicek-model
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- market-impact
+- forward-contracts
+- forward-rates
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- expected-loss
+- market-efficiency
+- delta-hedging
+- quantitative-finance
+- forward-curve
+- order-flow
+- bid-ask-spread
+- protective-puts
+- probabilty-of-default
+- curve-fitting
+- gamma-hedging
+- hedge-effectiveness
+- roll-yield
+- risk-premium
+- spot-rates
+- put-options
+- affine-term-structure
+- algorithmic-trading
+- basis-risk
+- hedge-strategies
+- term-structure
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- investment-analysis
+- value-at-risk
+- risk-management
+- convergence
+- var-backtesting
+- cross-hedging
+- yield-curve-shocks
+- high-frequency-trading
+- strangles
+- conditional-var
+- short-rate-models
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- iron-condors
+- financial-markets
+- static-hedging
+- futures-contracts
+- bootstrap-method
+title: Covered and Uncovered Interest Par
 ---
+--
 
 # Covered and Uncovered Interest Parity
 

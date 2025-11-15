@@ -1,23 +1,70 @@
 ---
 tags:
-  - bilateral_markets
-  - collateral_management
-  - money_market_funds
-  - repo_market
-  - tri_party_repo
+- bilateral_markets
+- default
+- volatility
+- collateral_management
+- maturity
+- margin
+- repo
+- repo_market
+- mortgage
+- counterparty
+- apt
+- mbs
+- credit
+- call
+- rating
+- market
+- treasury
+- liquidity
+- var
+- yield
+- money_market_funds
+- measure
+- portfolio
+- tri_party_repo
+- collateral
 aliases:
-  - Market Structure
-  - Repo Market Overview
-  - Repo Market Size
-  - Tri-party vs. Bilateral
+- Market Structure
+- Repo Market Overview
+- Repo Market Size
+- Tri-party vs. Bilateral
 key_concepts:
-  - Bilateral repo trades
-  - Collateral management services
-  - General collateral optimization
-  - Repo margin enforcement
-  - Repo market structure
-  - Tri-party repo agent
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Market liquidity and microstructure effects
+- Banking and credit intermediation
+- Bank balance sheet management
+- Credit default probability and recovery modeling
+- Market liquidity analysis and liquidity risk
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000172
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 10.3 MARKET STRUCTURE AND SIZE  
 

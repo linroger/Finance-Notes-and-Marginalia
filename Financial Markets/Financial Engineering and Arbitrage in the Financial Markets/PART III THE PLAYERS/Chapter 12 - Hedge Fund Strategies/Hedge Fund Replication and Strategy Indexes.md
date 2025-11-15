@@ -1,21 +1,77 @@
 ---
 tags:
-  - hedge_funds
-  - passive_funds
-  - replication
-  - strategy_indexes
-  - survivorship_bias
+- delta
+- leverage
+- regression
+- eur
+- volatility
+- arbitrage
+- strategy_indexes
+- hedge
+- margin
+- commodity
+- passive_funds
+- future
+- hedge_funds
+- implied
+- swap
+- jpy
+- correlation
+- option
+- survivorship_bias
+- distribution
+- put
+- trading
+- bond
+- gold
+- replication
 aliases:
-  - Fund Replication
-  - Hedge Fund Performance
-  - Strategy Index Creation
+- Fund Replication
+- Hedge Fund Performance
+- Strategy Index Creation
 key_concepts:
-  - Hedge fund returns
-  - High fees erosion
-  - Lack of transparency
-  - Replicating hedge fund strategies
-  - Survivorship bias impact
+- Option Greeks and risk sensitivities
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Arbitrage pricing theory and no-arbitrage principle
+- Asset Allocation in financial markets
+- Correlation modeling and dependency structures
+- Delta hedging strategies in options markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- P E in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000352
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 12.3 HEDGE FUND REPLICATION AND STRATEGY INDEXES  
 

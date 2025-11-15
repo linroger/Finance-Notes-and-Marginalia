@@ -1,22 +1,75 @@
 ---
 tags:
-  - bond_convexity
-  - bond_duration
-  - interest_rate_risk
-  - macaulay_duration
-  - yield_to_maturity
+- yield_to_maturity
+- delta
+- default
+- duration
+- eur
+- volatility
+- hedge
+- convexity
+- measure
+- maturity
+- coupon
+- discount-rate
+- future
+- macaulay_duration
+- bond_duration
+- yield-curve
+- pricing
+- option
+- interest_rate_risk
+- put
+- trading
+- bond
+- spread
+- mortgage
+- bond_convexity
 aliases:
-  - Bond Risk
-  - Duration and Convexity
-  - Interest Rate Risk
-  - PVBP
+- Bond Risk
+- Duration and Convexity
+- Interest Rate Risk
+- PVBP
 key_concepts:
-  - Bond cash flows
-  - Bond price fluctuations
-  - Coupon rate impact
-  - Interest rate risk
-  - Macaulay duration calculation
+- Option Greeks and risk sensitivities
+- Option valuation and hedging strategies
+- Bond duration and interest rate risk
+- Bond convexity and price-yield relationships
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Hedging strategies and delta-gamma neutrality
+- Financial derivatives pricing and valuation
+- Numerical methods in finance
+- Convexity adjustments for bond portfolio management
+- Credit default probability and recovery modeling
+- Delta hedging strategies in options markets
+- Discount Rate in financial markets
+- Duration and interest rate risk measurement
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000312
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 2.4 INTEREST RATE RISK: DURATION AND CONVEXITY  
 

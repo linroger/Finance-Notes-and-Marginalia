@@ -1,34 +1,40 @@
 ---
 cssclasses:
-  - academia
-title: "Class Note 05: US Bankruptcy Rules"
+- academia
+title: 'Class Note 05: US Bankruptcy Rules'
 tags:
-  - asset_liquidation
-  - bankruptcy
-  - commercial_law
-  - court_procedures
-  - creditor_rights
-  - debt_restructuring
-  - financial_reorganization
-  - legal_framework
-  - legal_notes
-  - us_bankruptcy_rules
-  - bankruptcy_code
-  - chapter_7
-  - chapter_11
+- asset-allocation
+- banking-regulation
+- basel-accord
+- bid-ask-spread
+- capital-adequacy
+- caplet
+- hedging
+- interest-rate-cap
+- interest-rate-ceiling
+- ito-calculus
+- ito-integration
+- liquidity-risk
+- market-liquidity
+- portfolio-management
+- risk-management
 aliases:
-  - US Bankruptcy Rules
-  - Class Note 5
-  - Bankruptcy Code
+- US Bankruptcy Rules
+- Class Note 5
+- Bankruptcy Code
 key_concepts:
-  - US Bankruptcy Code
-  - Chapter 7 liquidation
-  - Chapter 11 reorganization
-  - Creditor rights
-  - Debtor protections
-  - Court procedures
-  - Asset liquidation
-  - Debt restructuring
-  - Financial reorganization
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
+
 # Class Note 05: US Bankruptcy Rules

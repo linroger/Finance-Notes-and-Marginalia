@@ -1,24 +1,79 @@
 ---
 tags:
-  - cds
-  - credit_default_swaps
-  - credit_risk
-  - financial_crisis
-  - index_cds
-  - itraxx_europe
+- credit_default_swaps
+- cds
+- default
+- synthetic
+- pandemic
+- eur
+- itraxx_europe
+- hedge
+- maturity
+- senior
+- financial_crisis
+- future
+- swap
+- option
+- hedging
+- dcf
+- put
+- american
+- bond
+- trading
+- crisis
+- index_cds
+- credit_risk
+- spread
+- credit-risk
 aliases:
-  - CDS
-  - CDX.NA.IG
-  - Credit Default Swaps
-  - iTraxx Europe Main
+- CDS
+- CDX.NA.IG
+- Credit Default Swaps
+- iTraxx Europe Main
 key_concepts:
-  - CDS contract components
-  - historical CDS spreads
-  - index CDS broader portfolios
-  - issuer defaults, compensation payment
-  - protection buyer pays fee
-  - trading credit risk
+- American option pricing and early exercise
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Credit Risk in financial markets
+- Discounted Cash Flow valuation methodology
+- Credit default probability and recovery modeling
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Term Structure in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000234
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 14.5 CREDIT DEFAULT SWAPS  
 

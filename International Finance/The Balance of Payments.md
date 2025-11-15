@@ -1,37 +1,84 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: The Balance of Payments
-title: The Balance of Payments
-tags:
-  - balance_of_payments
-  - capital_financial_account
-  - current_account
-  - economic_transactions
-  - residents_non_residents
-  - trade_balance
-  - international_finance
-  - bop_accounting
-  - foreign_exchange_reserves
-  - macroeconomics
-  - open_economy
 aliases:
-  - Balance of Payments
-  - Balance of Payments Accounting
+- Balance of Payments
+- Balance of Payments Accounting
+cssclasses:
+- academia
 key_concepts:
-  - Balance of payments accounting system
-  - Current account structure and components
-  - Capital and financial account transactions
-  - Official settlements balance measurement
-  - Trade balance calculation methods
-  - Visible vs invisible balance distinction
-  - Net international investment position (NIIP)
-  - Foreign exchange reserves management
-  - IMF quota and credit facilities
-  - Open economy multipliers and identities
-  - Current account financing mechanisms
-  - International transactions recording principles
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- The Balance of Payments and financial analysis
+- The Balance of Payments in modern finance
+- Applications of The Balance of Payments
+- 'Case study: The Balance of Payments'
+- Carry Trade in financial markets
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+linter-yaml-title-alias: The Balance of Payments
+tags:
+- eur
+- hedge
+- margin
+- future
+- dividend
+- distribution
+- interest-rates
+- put
+- tranche
+- bond
+- gold
+- bonds
+- measure
+- valuation
+- options
+- ito
+- roe
+- repo
+- growth
+- fixed-income
+- fundamental
+- capital
+- equity
+- exchange-rate
+- mbs
+- credit
+- call
+- treasury
+- yield
+- interest-rate
+title: The Balance of Payments
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000515
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # The Balance of Payments
 

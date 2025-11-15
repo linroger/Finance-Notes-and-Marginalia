@@ -1,21 +1,180 @@
 ---
-tags:
-  - bond_numeraire
-  - discounted_stock
-  - martingale_property
-  - risk_neutral_probability
-  - stock_price
+academic_level: graduate
 aliases:
-  - Martingale Verification
-  - Risk-Neutral Measure
-  - Stock Price Martingale
+- Martingale Verification
+- Risk-Neutral Measure
+- Stock Price Martingale
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000437
 key_concepts:
-  - Bond as numeraire
-  - Discounted stock price
-  - Martingale property verification
-  - Risk-neutral probabilities
-  - Stock price dynamics
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Risk-neutral measures and martingale pricing
+- Martingale theory and change of measure
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Arbitrage opportunities and no-arbitrage pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Variance Reduction Techniques in Monte Carlo Methods
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Stochastic Integration and Path-Dependent Options
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Hedge Strategies and Basis Risk Management
+- Factor Models and Asset Pricing
+- American Option Pricing and Early Exercise Premium
+- Private Equity Investment Returns and Value Creation
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Monte Carlo Simulation Methods for Derivative Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- binomial-model
+- black-scholes-model
+- cds
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- default-probability
+- delta-hedging
+- control-variates
+- leveraged-buyout
+- exotic-options
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- binomial-tree
+- straddles
+- extreme-value-theory
+- american-options
+- book-to-market
+- backwardation
+- volatility-analysis
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- clearinghouse
+- arbitrage-pricing-theory
+- monte-carlo-simulation
+- hedge-ratio
+- private-equity
+- market-price-of-risk
+- loss-given-default
+- value-factor
+- vasicek-model
+- dirty-price
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- random-walks
+- debt-capacity
+- expected-loss
+- quantitative-finance
+- investment-return
+- crr-model
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- roll-yield
+- risk-premium
+- put-options
+- affine-term-structure
+- equity-kickers
+- multi-period-binomial
+- lbo-valuation
+- momentum
+- basis-risk
+- discrete-time-pricing
+- antithetic-variates
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- path-dependency
+- value-at-risk
+- bootstrap-strategy
+- management-buyout
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- stochastic-integration
+- variance-reduction
+- clean-price
+- lattice-models
+- strangles
+- fixed-income
+- cox-ross-rubinstein
+- short-rate-models
+- least-squares-mc
+- optional-exercise
+- credit-migration
+- marking-to-market
+- binomial-option-pricing
+- credit-spreads
+- multi-factor-models
+- iron-condors
+- size-effect
+- ' recombining-trees'
+- futures-contracts
+- quasi-monte-carlo
+- apt
+- current-yield
+type: note
 ---
+--
+
+
 
 # Chapter 5 Additional Readings  
 

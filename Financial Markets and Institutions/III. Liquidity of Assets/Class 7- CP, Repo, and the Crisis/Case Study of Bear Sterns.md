@@ -1,33 +1,64 @@
 ---
 cssclasses:
-  - academia
-title: "Case Study of Bear Stearns"
-linter-yaml-title-alias: "Case Study of Bear Stearns"
+- academia
+title: Case Study of Bear Stearns
+linter-yaml-title-alias: Case Study of Bear Stearns
 tags:
-  - asset_management
-  - bear_stearns_case_study
-  - cdo_market
-  - financial_crisis
-  - subprime_mortgages
-  - repo_market
-  - 2008_crisis
-  - investment_banking
-  - liquidity_crisis
+- financial_crisis
+- investment_banking
+- bear_stearns_case_study
+- 2008_crisis
+- repo_market
+- asset_management
+- liquidity_crisis
+- subprime_mortgages
+- cdo_market
+- event-study
+- basel-iii
+- yield-to-maturity
+- distressed
+- private-equity
+- financial-markets
+- regulatory-capital
+- risk-management
+- hedge-funds
+- hedge-fund
+- banking
 aliases:
-  - BS Case Study
-  - Bear Stearns Collapse
-  - "Bear Stearns Case"
+- BS Case Study
+- Bear Stearns Collapse
+- Bear Stearns Case
 key_concepts:
-  - Bear Stearns leveraged bank
-  - CDO market major player
-  - High-Grade funds collapse
-  - Repo market leverage
-  - Securitization repackaging techniques
-  - Liquidity crisis and bank run
-  - JP Morgan acquisition
-  - Prime brokerage business
-  - Counterparty risk
-  - Fed intervention
+- CDO market major player
+- JP Morgan acquisition
+- Repo market leverage
+- Prime brokerage business
+- Fed intervention
+- Bear Stearns leveraged bank
+- Liquidity crisis and bank run
+- High-Grade funds collapse
+- Counterparty risk
+- Securitization repackaging techniques
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
 ---
 
 # Case Study of Bear Stearns

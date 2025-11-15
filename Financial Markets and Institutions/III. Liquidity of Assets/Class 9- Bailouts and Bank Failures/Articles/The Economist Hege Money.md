@@ -1,22 +1,66 @@
 ---
 aliases:
-  - The Economist Hege Money
-  - The Economist Hege Money.md
-  - The Economist Hege-Money
+- The Economist Hege Money
+- The Economist Hege Money.md
+- The Economist Hege-Money
 linter-yaml-title-alias: The Economist Hege-Money
 title: The Economist Hege-Money
 tags:
-  - '#alipay'
-  - '#capital_controls'
-  - '#central_bank_digital_currency'
-  - '#chinese_economy'
-  - '#digital_money'
-  - '#dollar_hegemony'
-  - '#emerging_economies'
-  - '#international_finance'
-  - '#monetary_sovereignty'
-  - '#yuan'
+- '#chinese_economy'
+- '#monetary_sovereignty'
+- '#international_finance'
+- '#emerging_economies'
+- eur
+- tracking-error
+- event-study
+- digital
+- '#dollar_hegemony'
+- capital
+- risk-management
+- '#alipay'
+- '#capital_controls'
+- '#digital_money'
+- private-equity
+- oil
+- '#yuan'
+- market
+- regulatory-capital
+- caps-floors
+- rating
+- american
+- currency
+- financial-markets
+- '#central_bank_digital_currency'
+- financial-engineering
+- chinese-markets
+- banking
+- commodities
+key_concepts:
+- Bond duration and interest rate risk
+- Bond convexity and price-yield relationships
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000013
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
 # The Economist Hege Money
 
 # Hege-Money

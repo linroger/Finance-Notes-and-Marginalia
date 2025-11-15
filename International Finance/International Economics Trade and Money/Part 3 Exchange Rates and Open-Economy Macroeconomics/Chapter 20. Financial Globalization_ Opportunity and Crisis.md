@@ -1,3 +1,84 @@
+---
+key_concepts:
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Chapter 20. Financial Globalization_ Opportunity and Crisis and financial analysis
+- Chapter 20. Financial Globalization_ Opportunity and Crisis in modern finance
+- Applications of Chapter 20. Financial Globalization_ Opportunity and Crisis
+- 'Case study: Chapter 20. Financial Globalization_ Opportunity and Crisis'
+- Arbitrage pricing theory and no-arbitrage principle
+- Bear Stearns in financial markets
+- Carry Trade in financial markets
+- Correlation modeling and dependency structures
+- Covered Interest in financial markets
+- Credit default probability and recovery modeling
+- Dodd Frank in financial markets
+- Exchange Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Liquidity Coverage in financial markets
+- Net Stable Funding in financial markets
+- Asset securitization and structured finance
+- Stress testing and scenario analysis
+- Uncovered Interest in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+tags:
+- efficiency
+- leverage
+- barrier
+- eur
+- arma
+- forward
+- regulation
+- compliance
+- put
+- trading
+- bond
+- basel
+- bonds
+- spread
+- valuation
+- cds
+- options
+- arbitrage
+- maturity
+- repo
+- dodd-frank
+- liquidity-coverage
+- equity
+- exchange-rate
+- discount
+- market
+- currency
+- treasury
+- liquidity
+- portfolio-optimization
+- portfolio
+- regulatory
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000530
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # CHAPTER 20  
 
 # Financial Globalization: Opportunity and Crisis  

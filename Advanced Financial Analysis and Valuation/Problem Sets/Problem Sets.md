@@ -1,29 +1,88 @@
 ---
-title: "Problem Sets - Advanced Financial Analysis and Valuation"
-linter-yaml-title-alias: "Problem Sets - Advanced Financial Analysis and Valuation"
-tags:
-  - aFAV
-  - case_questions
-  - exercises  
-  - practice_questions
-  - problem_sets
-  - solutions
-  - waypoint
-  - navigation
+academic_level: graduate
 aliases:
-  - "Practice Set"
-  - "Problem Set"
-  - "Advanced Financial Analysis Problem Sets"
-key_concepts:
-  - Harvard Business School case studies
-  - Private equity valuation cases
-  - Bank valuation problem sets
-  - Pharmaceutical industry valuation
-  - Retail industry analysis
-  - Financial reporting and regulatory capital
-  - Dissenting shareholder cases
+- Practice Set
+- Problem Set
+- Advanced Financial Analysis Problem Sets
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000220
+key_concepts:
+- Discounted cash flow (DCF) valuation methodology
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Value at Risk (VaR) and tail risk measurement
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Risk preference theory and utility functions
+- Liquidity Coverage Ratio and Net Stable Funding
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Risk Measurement and VaR Backtesting
+- Basel III Regulatory Framework and Capital Requirements
+- Comparable Company Analysis and Trading Multiples
+- Value at Risk and Expected Shortfall
+- Regulatory Capital and Stress Testing
+- Company Valuation and Multiple Analysis
+- Stress Testing and Extreme Value Analysis
+linter-yaml-title-alias: Problem Sets - Advanced Financial Analysis and Valuation
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- asset-allocation
+- banking-regulation
+- basel-accord
+- capital-adequacy
+- capital-asset-pricing
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cost-of-capital
+- credit-rating
+- dcf-valuation
+- debit-valuation-adjustment
+- discounted-cash-flow
+- countercyclical-buffer
+- leveraged-buyout
+- sum-of-parts
+- dcf-analysis
+- expected-shortfall
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- var-methodologies
+- historical-var
+- regulatory-capital
+- net-stable-funding
+- leverage-ratio
+- stress-testing
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- value-at-risk
+- tier-1-capital
+- trading-multiples
+- financial-markets
+- capital-conservation-buffer
+- precedent-transactions
+- liquidity-coverage-ratio
+- ipo-valuation
+- monte-carlo-var
+- basel-iii
+- var-backtesting
+- market-multiple
+- tier-2-capital
+- price-to-earnings
+title: Problem Sets - Advanced Financial Analysis and Valuation
+type: note
 ---
+--
+
+
 
 # Problem Sets - Advanced Financial Analysis and Valuation
 

@@ -1,21 +1,161 @@
 ---
-title: Deriving Forward Exchange Rate Numerical Example
-tags:
-  - currency_depreciation
-  - forward_exchange_rate
-  - futures_contracts
-  - hedging_strategy
-  - mark_to_market
+academic_level: graduate
 aliases:
-  - FX Forward Example
-  - Forward Rate Derivation
+- FX Forward Example
+- Forward Rate Derivation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000154
 key_concepts:
-  - European bank hedging
-  - Forward exchange rate
-  - Futures contract payoff
-  - Hedging currency risk
-  - Mark to market
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Duration and Convexity in Fixed Income Risk Management
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Delta, Gamma, and Vega Hedging Techniques
+- Ornstein-Uhlenbeck Process in Finance
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Dynamic vs Static Hedging in Practice
+- Term Structure of Interest Rates and Yield Curves
+- Credit Spreads and Rating Migration Analysis
+- Interest Rate Risk and DV01 Calculations
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- asset-allocation
+- banking-regulation
+- basel-accord
+- capital-adequacy
+- caplet
+- convexity-adjustment
+- credit-rating
+- currency-markets
+- currency-strategy
+- delta-hedging
+- duration-analysis
+- dynamic-hedging
+- exchange-rates
+- fixed-income-sensitivity
+- foreign-exchange
+- hull-white
+- cir-model
+- expected-shortfall
+- extreme-value-theory
+- book-to-market
+- backwardation
+- style-analysis
+- bond-pricing
+- corporate-bonds
+- yield-curve
+- unexpected-loss
+- clearinghouse
+- interpolation
+- interest-rate-risk
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- loss-given-default
+- value-factor
+- vasicek-model
+- dirty-price
+- monte-carlo-var
+- coupon-bonds
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- forward-rates
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- modified-duration
+- expected-loss
+- forward-curve
+- government-bonds
+- probabilty-of-default
+- curve-steepening
+- curve-fitting
+- gamma-hedging
+- hedge-effectiveness
+- roll-yield
+- risk-premium
+- spot-rates
+- affine-term-structure
+- momentum
+- curve-flattening
+- basis-risk
+- convexity
+- hedge-strategies
+- term-structure
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- investment-analysis
+- value-at-risk
+- factor-models
+- barbell-strategy
+- convergence
+- var-backtesting
+- cross-hedging
+- clean-price
+- yield-curve-shocks
+- conditional-var
+- fixed-income
+- dv01
+- short-rate-models
+- price-yield-relationship
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- multi-factor-models
+- financial-markets
+- macaulay-duration
+- static-hedging
+- size-effect
+- futures-contracts
+- apt
+- bootstrap-method
+- current-yield
+title: Deriving Forward Exchange Rate Numerical Example
+type: course-note
 ---
+--
+
+
 
 # Deriving Forward Exchange Rate Numerical Example
 

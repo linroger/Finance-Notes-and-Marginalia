@@ -1,33 +1,64 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: HomeMax Case Study Solution
 tags:
-  - capital_structure
-  - case_study
-  - debt_recovery
-  - distressed_debt
-  - financial_analysis
-  - homemax_inc
-  - investment_analysis
-  - oaktree_capital
-  - restructuring
-  - valuation
+- financial_analysis
+- oaktree_capital
+- valuation
+- investment_analysis
+- homemax_inc
+- case_study
+- restructuring
+- debt_recovery
+- capital_structure
+- distressed_debt
+- event-study
+- stress-test
+- caps-floors
+- shareholder-value
+- high-yield
+- distressed
+- private-equity
+- financial-markets
+- leveraged-buyout
+- regulatory-capital
 aliases:
-  - Distressed Investing
-  - HomeMax Case Study
-  - Howard Marks
-  - Restructuring Plan
-  - Train & Co. Acquisition
+- Distressed Investing
+- HomeMax Case Study
+- Howard Marks
+- Restructuring Plan
+- Train & Co. Acquisition
 key_concepts:
-  - Acquisition by Train & Co.
-  - Capital structure analysis
-  - Distressed debt investing
-  - Enterprise value estimation
-  - Equity allocation valuation
-  - HomeMax Inc. overview
-  - Restructuring process steps
-  - Risk considerations
+- Risk considerations
+- Enterprise value estimation
+- Distressed debt investing
+- Capital structure analysis
+- Acquisition by Train & Co.
+- Restructuring process steps
+- HomeMax Inc. overview
+- Equity allocation valuation
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
 ---
 
 # HomeMax Case Study Solution

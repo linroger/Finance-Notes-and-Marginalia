@@ -1,3 +1,86 @@
+---
+tags:
+- duration
+- binomial-model
+- continuous-time-pricing
+- forward
+- future
+- swap
+- caplet
+- capital-adequacy
+- cash-flow-modeling
+- counterparty
+- option
+- hedging
+- trading
+- bond
+- gold
+- crisis
+- overnight
+- mortgage
+- sofr
+- banking-regulation
+- valuation
+- coherent-risk-measure
+- basel-accord
+- default
+- cds
+- arbitrage-opportunity
+- usd
+- repo
+- fundamental
+- covid
+- conditional-var
+- capital-structure
+- black-scholes-model
+- benchmark-reform
+- arbitrage-free-models
+key_concepts:
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Interest rate swaps and fixed income derivatives
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- LIBOR market model and multi-curve framework
+- SOFR benchmarks and risk-free rate transition
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Risk preference theory and utility functions
+- Credit default probability and recovery modeling
+- Duration and interest rate risk measurement
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- SOFR implementation and overnight rate markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000093
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
+
+
  
 source: 
   https://www.investopedia.com/articles/active-trading/111414/how-value-interest-rate-swaps.asp

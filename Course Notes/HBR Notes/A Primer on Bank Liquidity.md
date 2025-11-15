@@ -1,29 +1,192 @@
 ---
-cssclasses:
-  - academia
 Owner: Roger Lin
-title: A Primer on Bank Liquidity
-tags:
-  - bank_liquidity
-  - banking
-  - diamond_dybvig
-  - fdic
-  - interbank_market
-  - liquidity_risk
-  - maturity_transformation
-  - reserves
+academic_level: graduate
 aliases:
-  - Bank Liquidity Primer
-  - Liquidity in Banking
+- Bank Liquidity Primer
+- Liquidity in Banking
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000063
 key_concepts:
-  - Bank liquidity definition
-  - Diamond-Dybvig model
-  - FDIC deposit insurance
-  - Funding illiquid assets
-  - Illiquidity vs insolvency
-  - Interbank market borrowing
-  - Precautionary savings reserves
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Basel III Regulatory Framework and Capital Requirements
+- Value at Risk and Expected Shortfall
+- Derivatives Clearing and Volcker Rule
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Regulatory Capital and Stress Testing
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Dodd-Frank Act and Financial Regulatory Reform
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Liquidity Coverage Ratio and Net Stable Funding
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Systemic Risk and Living Wills
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arch
+- asset-allocation
+- banking-regulation
+- basel-accord
+- bid-ask-spread
+- capital-adequacy
+- caplet
+- cds
+- coherent-risk-measure
+- conditional-var
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- backwardation
+- net-stable-funding
+- volatility-analysis
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- clearinghouse
+- arbitrage-pricing-theory
+- hedge-ratio
+- systemic-risk
+- market-price-of-risk
+- capital-conservation-buffer
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- dirty-price
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- forward-contracts
+- yield-to-maturity
+- price-to-earnings
+- fama-french
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- regulatory-capital
+- expected-loss
+- market-efficiency
+- order-flow
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- liquidity
+- living-wills
+- roll-yield
+- tier-2-capital
+- risk-premium
+- put-options
+- countercyclical-buffer
+- affine-term-structure
+- algorithmic-trading
+- momentum
+- basis-risk
+- regulatory-reform
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- derivatives-clearing
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- volcker-rule
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- sum-of-parts
+- dodd-frank-act
+- clean-price
+- high-frequency-trading
+- strangles
+- fixed-income
+- short-rate-models
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- tier-1-capital
+- proprietary-trading
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- credit-rating-agencies
+- size-effect
+- precedent-transactions
+- stress-tests
+- liquidity-coverage-ratio
+- ipo-valuation
+- basel-iii
+- market-multiple
+- futures-contracts
+- apt
+- current-yield
+title: A Primer on Bank Liquidity
+type: primer
 ---
+--
+
+
 
 # A Primer on Bank Liquidity
 

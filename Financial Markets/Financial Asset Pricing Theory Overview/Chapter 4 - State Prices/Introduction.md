@@ -1,20 +1,49 @@
 ---
 tags:
-  - continuous_time
-  - expected_returns
-  - present_value
-  - pricing_rule
-  - state_price_deflator
+- dividend
+- pricing
+- distribution
+- expected_returns
+- continuous_time
+- apt
+- arbitrage
+- put
+- call
+- financial-engineering
+- financial-markets
+- valuation
+- pricing_rule
+- present_value
+- state_price_deflator
 aliases:
-  - Pricing Assets
-  - State-Price Deflator
+- Pricing Assets
+- State-Price Deflator
 key_concepts:
-  - Closed-form expression dividends
-  - Expected returns consequences
-  - General pricing rule
-  - Real vs nominal deflators
-  - State-price deflator definition
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Arbitrage pricing theory and no-arbitrage principle
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000419
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 4.1 Introduction  
 

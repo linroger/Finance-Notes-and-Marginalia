@@ -1,26 +1,37 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Class Slides 2 Discussion of Loan Class Slides 2 Discussion
-of Loan Covenants Vs. Bond Covenants | Covenants]] Vs Bond Covenants
-title: Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants
 tags:
-  - bond_covenants
-  - default_events
-  - loan_agreements
-  - loan_covenants
-  - wellman_loans
-aliases:
-  - Bond Covenants
-  - Loan Covenants
-  - Loan vs Bond Covenants
+- asset-allocation
+- banking-regulation
+- basel-accord
+- capital-adequacy
+- caplet
+- cds
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- default-probability
+- dividend-policy
+- dividend-stability
 key_concepts:
-  - Borrower control by lenders
-  - Default under indebtedness
-  - Events of default
-  - Loan agreement default
-  - Loan covenants vs bond covenants
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
 
 # Class Slides 2 Discussion of Loan Covenants Vs. Bond Covenants
 

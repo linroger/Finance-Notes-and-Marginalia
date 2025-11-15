@@ -1,38 +1,232 @@
 ---
-cssclasses:
-  - academia
-title: Week 6 Bank Business Model, Regulation, and Accounting Rules
-linter-yaml-title-alias: Week 6 Bank Business Model, Regulation, and Accounting Rules
-tags:
-  - accounting_rules
-  - balance_sheets
-  - bank_business_model
-  - banking_regulation
-  - financial_intermediaries
-  - basel_iii
-  - regulatory_capital
-  - loan_loss_provisions
-  - risk_weighted_assets
-  - tier_1_capital
+academic_level: graduate
 aliases:
-  - Bank Business Model
-  - Banking Regulation Framework
-  - Bank Accounting Rules
+- Bank Business Model
+- Banking Regulation Framework
+- Bank Accounting Rules
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000277
 key_concepts:
-  - Banks as financial intermediaries
-  - Deposit taking and lending functions
-  - Interest rate spread business model
-  - Duration mismatch between assets and liabilities
-  - Credit, liquidity, and interest rate risks
-  - Balance sheets of U.S. banks
-  - Income statements of U.S. banks
-  - Regulatory capital requirements
-  - Risk-weighted assets calculation
-  - Basel III capital ratios
-  - Loan loss accounting and provisions
-  - Expected credit loss models (CECL)
-  - IFRS versus US GAAP differences
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Dodd-Frank Act and financial regulation reform
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Risk preference theory and utility functions
+- Duration and Convexity in Fixed Income Risk Management
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Auto-Callable Notes and Barrier Options
+- Basel III Regulatory Framework and Capital Requirements
+- Value at Risk and Expected Shortfall
+- Derivatives Clearing and Volcker Rule
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Equity-Linked Notes and Market-Linked Securities
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Flexibility Value in Capital Budgeting
+- Regulatory Capital and Stress Testing
+- Structured Products and Principal Protection
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Dodd-Frank Act and Financial Regulatory Reform
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Option to Expand and Investment Timing
+- Liquidity Coverage Ratio and Net Stable Funding
+- Option Valuation and Exercise Strategies
+- Real Options in Strategic Investment Decisions
+- Credit Spreads and Rating Migration Analysis
+- Market Microstructure and Liquidity Analysis
+- Systemic Risk and Living Wills
+- Interest Rate Risk and DV01 Calculations
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: Week 6 Bank Business Model, Regulation, and Accounting Rules
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- arch
+- asset-allocation
+- asset-backed-securities
+- banking-regulation
+- basel-2
+- basel-accord
+- basel-iii
+- bid-ask-spread
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-asset-pricing
+- caplet
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- backwardation
+- option-to-abandon
+- net-stable-funding
+- volatility-analysis
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- timing-options
+- unexpected-loss
+- clearinghouse
+- interest-rate-risk
+- arbitrage-pricing-theory
+- hedge-ratio
+- systemic-risk
+- market-price-of-risk
+- capital-conservation-buffer
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- dirty-price
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- real-options
+- strategic-investment
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- regulatory-capital
+- modified-duration
+- expected-loss
+- market-efficiency
+- quantitative-finance
+- order-flow
+- market-linked-notes
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- liquidity
+- curve-steepening
+- reverse-convertibles
+- living-wills
+- roll-yield
+- tier-2-capital
+- risk-premium
+- put-options
+- countercyclical-buffer
+- affine-term-structure
+- algorithmic-trading
+- momentum
+- curve-flattening
+- option-to-expand
+- basis-risk
+- regulatory-reform
+- convexity
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- derivatives-clearing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- duration-analysis
+- value-at-risk
+- flexibility-value
+- volcker-rule
+- factor-models
+- barbell-strategy
+- risk-management
+- convergence
+- var-backtesting
+- barrier-options
+- sum-of-parts
+- dodd-frank-act
+- clean-price
+- high-frequency-trading
+- principal-protected-notes
+- strangles
+- conditional-var
+- equity-linked-notes
+- fixed-income
+- dv01
+- short-rate-models
+- price-yield-relationship
+- credit-migration
+- default-probability
+- marking-to-market
+- auto-callables
+- credit-spreads
+- tier-1-capital
+- proprietary-trading
+- multi-factor-models
+- trading-multiples
+- structured-notes
+- iron-condors
+- financial-markets
+- macaulay-duration
+- credit-rating-agencies
+- size-effect
+- precedent-transactions
+- knock-out-options
+- stress-tests
+- liquidity-coverage-ratio
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+- natural-resource-valuation
+- current-yield
+title: Week 6 Bank Business Model, Regulation, and Accounting Rules
+type: course-note
 ---
+--
+
+
 
 # Bank Business Model, Regulation, and Accounting Rules
 

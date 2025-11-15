@@ -1,23 +1,48 @@
 ---
 tags:
-  - archimedean_axiom
-  - continuity_property
-  - monotonicity
-  - preference_relation
-  - utility_index
+- financial-modeling
+- risk-management
+- distribution
+- monotonicity
+- utility_index
+- preference_relation
+- investment-analysis
+- put
+- call
+- probability
+- financial-engineering
+- quantitative-finance
+- financial-markets
+- archimedean_axiom
+- continuity_property
 aliases:
-  - Axiom 5.1
-  - Axiom 5.2
-  - Preference
-  - Utility Index
+- Axiom 5.1
+- Axiom 5.2
+- Preference
+- Utility Index
 key_concepts:
-  - Archimedean axiom
-  - Continuity property preference
-  - Monotonicity axiom
-  - Preference relation
-  - Strictly increasing transformation
-  - Utility index function
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000434
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 5.3 Utility indices  
 

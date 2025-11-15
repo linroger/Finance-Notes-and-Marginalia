@@ -2,36 +2,105 @@
 cssclasses: academia
 title: Lessons From The Crisis
 tags:
-  - convexity_risk
-  - counterparty_risk
-  - financial_crisis
-  - regulatory_environment
-  - securitization
+- restructuring
+- leverage
+- stress-test
+- volatility
+- multiple
+- cdos
+- hedge
+- convexity
+- probability
+- senior
+- regulation
+- counterparty_risk
+- risk-management
+- counterparty
+- leveraged-buyout
+- correlation
+- hedging
+- interest-rate-risk
+- tranche
+- regulatory-capital
+- caps-floors
+- trading
+- bond
+- tail-risk
+- financial-markets
+- crisis
+- structured
+- spread
+- mortgage
+- convexity_risk
+- modern-portfolio-theory
+- financial_crisis
+- regulatory_environment
+- financial-crisis
+- private-equity
+- capital-structure
+- mbs
+- securitization
+- banking
 aliases:
-  - ACA
-  - AMPS
-  - Lessons Learned
-  - Morgan Stanley
-  - UBS
+- ACA
+- AMPS
+- Lessons Learned
+- Morgan Stanley
+- UBS
 key_concepts:
-  - Basis risk
-  - Correlation was ignored
-  - Counterparty risk
-  - Extreme scenarios
-  - Failure of supply chain
-  - Financial instrument complexity
-  - Hedging the tail end
-  - Ignored incentives
-  - Inconsistent rules/standards
-  - Leverage existed
-  - Mezzanine CDOs
-  - Nominal default probability
-  - Prudent analysis lacking
-  - Structural causes of crisis
-  - Super Senior tranches
-  - Thorough stress testing
-  - Thoroughly modeled legs
+- Extreme scenarios
+- Prudent analysis lacking
+- Thoroughly modeled legs
+- Nominal default probability
+- Failure of supply chain
+- Super Senior tranches
+- Thorough stress testing
+- Correlation was ignored
+- Financial instrument complexity
+- Hedging the tail end
+- Basis risk
+- Structural causes of crisis
+- Ignored incentives
+- Leverage existed
+- Counterparty risk
+- Mezzanine CDOs
+- Inconsistent rules/standards
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Convexity adjustments for bond portfolio management
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Risk hedging strategies and instruments
+- Market liquidity analysis and liquidity risk
+- Market Risk in financial markets
+- Asset securitization and structured finance
+- Stress testing and scenario analysis
+- Tail Risk in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000069
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Lessons From The Crisis
 

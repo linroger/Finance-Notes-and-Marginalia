@@ -1,21 +1,193 @@
 ---
-tags:
-  - foreign_currency
-  - fx_options
-  - hedging
-  - otc_market
-  - speculation
+academic_level: graduate
 aliases:
-  - Currency Options
-  - FX Options
-  - OTC Options
+- Currency Options
+- FX Options
+- OTC Options
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000395
 key_concepts:
-  - Call option
-  - FX options contracts
-  - Hedging with options
-  - OTC market
-  - Put option
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Value at Risk (VaR) and tail risk measurement
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Risk preference theory and utility functions
+- Auto-Callable Notes and Barrier Options
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Variance Reduction Techniques in Monte Carlo Methods
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Equity-Linked Notes and Market-Linked Securities
+- Delta, Gamma, and Vega Hedging Techniques
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Stochastic Integration and Path-Dependent Options
+- Structured Products and Principal Protection
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Factor Models and Asset Pricing
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- Term Structure of Interest Rates and Yield Curves
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Hedging Strategies and Risk Mitigation
+- Monte Carlo Simulation Methods for Derivative Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- arch
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-asset-pricing
+- caplet
+- continuous-time-pricing
+- convexity-adjustment
+- credit-rating
+- currency-markets
+- debit-valuation-adjustment
+- control-variates
+- asset-allocation
+- exotic-options
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- volatility-analysis
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- yield-curve
+- unexpected-loss
+- clearinghouse
+- interpolation
+- arbitrage-pricing-theory
+- monte-carlo-simulation
+- hedge-ratio
+- market-price-of-risk
+- loss-given-default
+- value-factor
+- vasicek-model
+- dirty-price
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- forward-contracts
+- yield-to-maturity
+- forward-rates
+- fama-french
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- random-walks
+- expected-loss
+- delta-hedging
+- forward-curve
+- market-linked-notes
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- reverse-convertibles
+- curve-fitting
+- gamma-hedging
+- hedge-effectiveness
+- roll-yield
+- risk-premium
+- spot-rates
+- put-options
+- affine-term-structure
+- momentum
+- basis-risk
+- hedge-strategies
+- antithetic-variates
+- term-structure
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- investment-analysis
+- portfolio-optimization
+- path-dependency
+- value-at-risk
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- variance-reduction
+- stochastic-integration
+- barrier-options
+- cross-hedging
+- clean-price
+- yield-curve-shocks
+- principal-protected-notes
+- strangles
+- conditional-var
+- equity-linked-notes
+- fixed-income
+- short-rate-models
+- least-squares-mc
+- credit-migration
+- default-probability
+- marking-to-market
+- auto-callables
+- credit-spreads
+- multi-factor-models
+- structured-notes
+- iron-condors
+- financial-markets
+- static-hedging
+- size-effect
+- knock-out-options
+- futures-contracts
+- quasi-monte-carlo
+- apt
+- bootstrap-method
+- current-yield
+type: note
 ---
+--
+
+
+
 # Foreign Currency Options  
 
 # Aims  

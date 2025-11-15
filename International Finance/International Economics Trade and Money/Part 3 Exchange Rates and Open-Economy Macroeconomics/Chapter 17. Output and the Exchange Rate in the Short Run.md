@@ -1,3 +1,79 @@
+---
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Chapter 17. Output and the Exchange Rate in the Short Run and financial analysis
+- Chapter 17. Output and the Exchange Rate in the Short Run in modern finance
+- Applications of Chapter 17. Output and the Exchange Rate in the Short Run
+- 'Case study: Chapter 17. Output and the Exchange Rate in the Short Run'
+- Discounted Cash Flow valuation methodology
+- Delta hedging strategies in options markets
+- Duration and interest rate risk measurement
+- Exchange Rate in financial markets
+- Gamma risk and convexity adjustments in options
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- P E in financial markets
+- Pass Through in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+tags:
+- delta
+- duration
+- eur
+- volatility
+- monetary-policy
+- margin
+- swaps
+- forward
+- future
+- implied
+- pass-through
+- gamma
+- pricing
+- distribution
+- interest-rates
+- option
+- dcf
+- put
+- trading
+- bond
+- american
+- crisis
+- overnight
+- bonds
+- spread
+- options
+- call
+- liquidity
+- yield
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000531
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # CHAPTER 17  
 
 # Output and the Exchange Rate in the Short Run  

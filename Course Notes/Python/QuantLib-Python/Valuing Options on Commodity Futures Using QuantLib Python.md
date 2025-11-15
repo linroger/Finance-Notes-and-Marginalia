@@ -1,25 +1,212 @@
 ---
-title: Valuing Options on Commodity Futures Using QuantLib Python
-source: 
-  http://gouthamanbalaraman.com/blog/value-options-commodity-futures-black-formula-quantlib-python.html
+academic_level: graduate
+aliases:
+- Commodity Option Pricing
+- QuantLib Example
 description: Describes how to value options on commodity futures contract using the
   Black formula in QuantLib Python
-tags:
-  - black_formula
-  - commodity_futures
-  - futures_options
-  - option_pricing
-  - quantlib_python
-aliases:
-  - Commodity Option Pricing
-  - QuantLib Example
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000040
 key_concepts:
-  - Black formula application
-  - Commodity futures options valuation
-  - Futures price modeling
-  - Lognormal stochastic process
-  - QuantLib Python implementation
+- Black-Scholes option pricing model and continuous-time finance
+- Monte Carlo simulation for derivatives pricing and risk management
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Hull-White model and Gaussian HJM framework
+- QuantLib library and quantitative finance implementation
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Variance Reduction Techniques in Monte Carlo Methods
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Stochastic Integration and Path-Dependent Options
+- Forward Curves and Roll Strategies
+- Black-Scholes Option Pricing Model and Its Applications
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Factor Models and Asset Pricing
+- Hedge Strategies and Basis Risk Management
+- Interest Rate Swaps and Currency Swap Structures
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Monte Carlo Simulation Methods for Derivative Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+source: http://gouthamanbalaraman.com/blog/value-options-commodity-futures-black-formula-quantlib-python.html
+status: active
+tags:
+- binomial-model
+- black-scholes-model
+- bond-option
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cds
+- commodity-derivatives
+- commodity-futures
+- continuous-time-pricing
+- convexity
+- convexity-adjustment
+- cost-of-capital
+- counterparty-risk
+- credit-default-swap
+- control-variates
+- leveraged-buyout
+- exotic-options
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- partial-differential-equation
+- risk-neutral-valuation
+- backwardation
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- clearinghouse
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- monte-carlo-simulation
+- hedge-ratio
+- market-price-of-risk
+- volatility-surface
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- dirty-price
+- forward-curves
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- price-to-earnings
+- bsm-model
+- recovery-rate
+- zero-coupon-bonds
+- black-scholes-formula
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- random-walks
+- expected-loss
+- quantitative-finance
+- currency-swaps
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- credit-default-swaps
+- storage-costs
+- roll-yield
+- risk-premium
+- put-options
+- affine-term-structure
+- momentum
+- basis-risk
+- antithetic-variates
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- path-dependency
+- value-at-risk
+- metals-trading
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- stochastic-integration
+- variance-reduction
+- sum-of-parts
+- european-options
+- clean-price
+- seasonality
+- strangles
+- conditional-var
+- fixed-income
+- short-rate-models
+- least-squares-mc
+- swap-spread
+- credit-migration
+- default-probability
+- marking-to-market
+- total-return-swaps
+- libor
+- credit-spreads
+- multi-factor-models
+- ito-calculus
+- trading-multiples
+- iron-condors
+- option-pricing
+- financial-markets
+- size-effect
+- basis-swaps
+- precedent-transactions
+- interest-rate-swaps
+- lognormal-distribution
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- quasi-monte-carlo
+- apt
+- current-yield
+title: Valuing Options on Commodity Futures Using QuantLib Python
+type: note
 ---
+--
+
+
 
 # Valuing Options on Commodity Futures Using QuantLib Python
 Describes how to value options on commodity futures contract using the Black formula in QuantLib Python

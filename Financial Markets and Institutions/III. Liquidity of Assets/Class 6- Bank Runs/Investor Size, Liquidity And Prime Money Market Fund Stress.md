@@ -1,36 +1,105 @@
 ---
 cssclasses:
-  - academia
-title: "Investor Size, Liquidity, and Prime Money Market Fund Stress"
-linter-yaml-title-alias: "Investor Size, Liquidity, and Prime Money Market Fund Stress"
+- academia
+title: Investor Size, Liquidity, and Prime Money Market Fund Stress
+linter-yaml-title-alias: Investor Size, Liquidity, and Prime Money Market Fund Stress
 tags:
-  - investor_size
-  - liquidity
-  - march_2020
-  - money_market_funds
-  - redemptions
-  - covid19_shock
-  - federal_reserve
-  - mmlf
-  - financial_stress
-  - institutional_behavior
+- leverage
+- march_2020
+- eur
+- volatility
+- margin
+- arma
+- momentum
+- regulation
+- swap
+- risk-management
+- pricing
+- oil
+- regulatory-capital
+- mertons-model
+- caps-floors
+- american
+- trading
+- financial-markets
+- crisis
+- spread
+- credit-risk
+- measure
+- peer
+- covid19_shock
+- pandemic
+- investor_size
+- regression
+- ito
+- high-yield
+- institutional_behavior
+- distressed
+- private-equity
+- financial_stress
+- federal_reserve
+- liquidity
+- mmlf
+- money_market_funds
+- redemptions
+- yield-to-maturity
 aliases:
-  - MMF stress
-  - money market funds
-  - prime MMFs
-  - "Investor Size and MMF Stress"
+- MMF stress
+- money market funds
+- prime MMFs
+- Investor Size and MMF Stress
 key_concepts:
-  - Covid-19 shock
-  - fund managers less liquid
-  - large investor withdrawals
-  - policy relief liquidity
-  - short-term dollar funding
-  - Money Market Mutual Fund Liquidity Facility
-  - Prime institutional vs retail MMFs
-  - Large vs small institutional investors
-  - Liquidity buffer management
-  - Market-wide liquidity shortages
+- short-term dollar funding
+- Liquidity buffer management
+- Market-wide liquidity shortages
+- Covid-19 shock
+- Prime institutional vs retail MMFs
+- large investor withdrawals
+- fund managers less liquid
+- Money Market Mutual Fund Liquidity Facility
+- policy relief liquidity
+- Large vs small institutional investors
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Time series analysis and forecasting models
+- Panel data models and fixed/random effects
+- Bid Ask in financial markets
+- Credit Risk in financial markets
+- Market liquidity analysis and liquidity risk
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000055
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Investor Size, Liquidity, and Prime Money Market Fund Stress
 

@@ -1,20 +1,59 @@
 ---
 tags:
-  - closed_form_valuation
-  - continuous_time
-  - discrete_time
-  - multi_period_valuation
-  - state_price_deflator
+- risk-free
+- multi_period_valuation
+- growth
+- future
+- state_price_deflator
+- closed_form_valuation
+- dividend
+- discount
+- correlation
+- distribution
+- continuous_time
+- rho
+- model
+- market
+- variance
+- cdo
+- var
+- roa
+- growth-rate
+- discrete_time
+- interest-rate
+- valuation
 aliases:
-  - Multi-Period Models
-  - Multi-Period Valuation
+- Multi-Period Models
+- Multi-Period Valuation
 key_concepts:
-  - Closed-form dividend valuation
-  - Continuous-time valuation
-  - Discrete-time framework
-  - Price-dividend ratio
-  - Risk-adjusted discount factor
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Correlation modeling and dependency structures
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Risk Free in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000422
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 4.4 Multi-period valuation models  
 

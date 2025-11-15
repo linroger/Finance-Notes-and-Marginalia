@@ -1,35 +1,108 @@
 ---
 cssclasses:
-  - academia
-title: "Note on the Leveraged Loan Market"
-linter-yaml-title-alias: "Note on the Leveraged Loan Market"
+- academia
+title: Note on the Leveraged Loan Market
+linter-yaml-title-alias: Note on the Leveraged Loan Market
 tags:
-  - credit_market
-  - financial_analysis
-  - institutional_investors
-  - leveraged_loan
-  - loan_syndication
-  - high_yield_debt
-  - corporate_finance
-  - syndicated_loans
-  - credit_risk
+- leverage
+- duration
+- barrier
+- multiple
+- hedge
+- senior
+- subordinated
+- tranche
+- financial_analysis
+- swap
+- dividend
+- risk-management
+- pricing
+- leveraged-buyout
+- hedging
+- compliance
+- intrinsic
+- regulatory-capital
+- leveraged_loan
+- caps-floors
+- put
+- hedge-fund
+- financial-markets
+- american
+- bond
+- credit_risk
+- corporate_finance
+- trading
+- crisis
+- structured
+- syndicated_loans
+- credit_market
+- event-study
+- institutional_investors
+- distressed
+- private-equity
+- hedge-funds
+- loan_syndication
+- high_yield_debt
+- yield-to-maturity
 aliases:
-  - LBO financing
-  - Leveraged Loans
-  - Senior Secured Loans
-  - "Note on Leveraged Loans"
+- LBO financing
+- Leveraged Loans
+- Senior Secured Loans
+- Note on Leveraged Loans
 key_concepts:
-  - Callable loan feature
-  - Institutional investor base
-  - Loan spread threshold
-  - Non-investment-grade loans
-  - Risk sharing syndication
-  - Leveraged buyout financing
-  - Senior secured debt
-  - Covenant-lite loans
-  - CLO market dynamics
-  - Default risk premiums
+- Risk sharing syndication
+- Callable loan feature
+- Covenant-lite loans
+- Institutional investor base
+- Non-investment-grade loans
+- CLO market dynamics
+- Leveraged buyout financing
+- Senior secured debt
+- Loan spread threshold
+- Default risk premiums
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Credit default probability and recovery modeling
+- Dodd Frank in financial markets
+- Duration and interest rate risk measurement
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- Asset securitization and structured finance
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000059
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Note on the Leveraged Loan Market
 

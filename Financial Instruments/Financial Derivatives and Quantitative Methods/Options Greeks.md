@@ -1,25 +1,189 @@
 ---
-cssclasses: academia
-title: Options Greeks
-tags:
-  - delta
-  - gamma
-  - greeks
-  - options_greeks
-  - rho
-  - theta
-  - vega
+academic_level: graduate
 aliases:
-  - Black-Scholes
-  - Option Pricing
-  - The Greeks
+- Black-Scholes
+- Option Pricing
+- The Greeks
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000087
 key_concepts:
-  - Delta of option
-  - Hedging risks
-  - Option price changes
-  - Risk management
-  - Volatility smiles
+- Black-Scholes option pricing model and continuous-time finance
+- Binomial option pricing model and lattice methods
+- Implied volatility calculation and volatility surface analysis
+- Volatility smile and skew in options markets
+- Options Greeks and sensitivity analysis for risk management
+- Risk-neutral measures and martingale pricing
+- Martingale theory and change of measure
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Swap Market Mechanisms and Pricing
+- Delta, Gamma, and Vega Hedging Techniques
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Black-Scholes Option Pricing Model and Its Applications
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- American Option Pricing and Early Exercise Premium
+- Interest Rate Swaps and Currency Swap Structures
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- american-derivatives
+- arbitrage-opportunity
+- arbitrage-pricing
+- asset-allocation
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-asset-pricing
+- caplet
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- binomial-tree
+- straddles
+- extreme-value-theory
+- american-options
+- partial-differential-equation
+- book-to-market
+- arbitrage
+- risk-neutral-valuation
+- backwardation
+- volatility-analysis
+- style-analysis
+- option-strategies
+- clearinghouse
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- volatility-surface
+- price-discovery
+- value-factor
+- vasicek-model
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- market-impact
+- forward-contracts
+- fama-french
+- bsm-model
+- black-scholes-formula
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- market-efficiency
+- delta-hedging
+- quantitative-finance
+- order-flow
+- currency-swaps
+- bid-ask-spread
+- crr-model
+- protective-puts
+- liquidity
+- gamma-hedging
+- hedge-effectiveness
+- roll-yield
+- risk-premium
+- put-options
+- affine-term-structure
+- multi-period-binomial
+- algorithmic-trading
+- momentum
+- basis-risk
+- discrete-time-pricing
+- hedge-strategies
+- covered-calls
+- swap-rate
+- sofr
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- investment-analysis
+- portfolio-optimization
+- value-at-risk
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- cross-hedging
+- european-options
+- high-frequency-trading
+- lattice-models
+- strangles
+- cox-ross-rubinstein
+- short-rate-models
+- swap-spread
+- optional-exercise
+- marking-to-market
+- binomial-option-pricing
+- total-return-swaps
+- libor
+- multi-factor-models
+- ito-calculus
+- iron-condors
+- option-pricing
+- financial-markets
+- static-hedging
+- size-effect
+- basis-swaps
+- interest-rate-swaps
+- lognormal-distribution
+- ' recombining-trees'
+- futures-contracts
+- apt
+- credit-default-swaps
+title: Options Greeks
+type: note
 ---
+--
+
+
 
 # Options Greeks
 # The Greeks

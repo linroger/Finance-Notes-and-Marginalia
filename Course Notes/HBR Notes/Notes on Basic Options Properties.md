@@ -1,33 +1,200 @@
 ---
-cssclasses:
-  - academia
 Owner: RRoger Lin
-title: Notes on Basic Options Properties
-tags:
-  - call_options
-  - option_bounds
-  - option_parameters
-  - option_payoffs
-  - option_pricing
-  - options_basics
-  - put_options
-  - underlying_security
+academic_level: graduate
 aliases:
-  - Basic Options
-  - Call and Put
-  - Option Fundamentals
-  - Option Properties
+- Basic Options
+- Call and Put
+- Option Fundamentals
+- Option Properties
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000061
 key_concepts:
-  - 'Call: Right to buy'
-  - Option buyer/holder
-  - Option payoff schemes
-  - Option price bounds
-  - Option seller/writer
-  - Option value parameters
-  - 'Options: Right to buy/sell'
-  - 'Put: Right to sell'
-  - Underlying security
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Forward Curves and Roll Strategies
+- Black-Scholes Option Pricing Model and Its Applications
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Hedge Strategies and Basis Risk Management
+- American Option Pricing and Early Exercise Premium
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-asset-pricing
+- caplet
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- credit-rating
+- delta-hedging
+- asset-allocation
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- binomial-tree
+- straddles
+- extreme-value-theory
+- american-options
+- partial-differential-equation
+- book-to-market
+- arbitrage
+- risk-neutral-valuation
+- backwardation
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- clearinghouse
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- volatility-surface
+- price-discovery
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- dirty-price
+- forward-curves
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- bsm-model
+- recovery-rate
+- zero-coupon-bonds
+- black-scholes-formula
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- expected-loss
+- market-efficiency
+- quantitative-finance
+- order-flow
+- bid-ask-spread
+- crr-model
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- liquidity
+- storage-costs
+- roll-yield
+- risk-premium
+- put-options
+- affine-term-structure
+- multi-period-binomial
+- algorithmic-trading
+- momentum
+- basis-risk
+- discrete-time-pricing
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- investment-analysis
+- portfolio-optimization
+- value-at-risk
+- metals-trading
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- seasonality
+- european-options
+- clean-price
+- high-frequency-trading
+- lattice-models
+- strangles
+- fixed-income
+- cox-ross-rubinstein
+- short-rate-models
+- optional-exercise
+- credit-migration
+- default-probability
+- marking-to-market
+- binomial-option-pricing
+- credit-spreads
+- multi-factor-models
+- ito-calculus
+- iron-condors
+- option-pricing
+- financial-markets
+- size-effect
+- lognormal-distribution
+- ' recombining-trees'
+- futures-contracts
+- apt
+- current-yield
+title: Notes on Basic Options Properties
+type: note
 ---
+--
+
+
 
 # Notes on Basic Options Properties
 

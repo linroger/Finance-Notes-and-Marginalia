@@ -1,44 +1,98 @@
 ---
 title: Lecture 7 - Risk and Return of Bonds
 cssclasses:
-  - academia
-  - finance
+- academia
+- finance
 tags:
-  - default_free_bonds
-  - fixed_income
-  - treasury_bonds
-  - yield_to_maturity
-  - zero_coupon_bonds
-  - yield_curve
-  - expectations_hypothesis
-  - monetary_policy
-  - bond_stock_correlation
-  - term_structure
-  - interest_rate_risk
-  - duration
-  - taylor_rule
-  - business_cycle
+- delta
+- collateralized-debt-obligation
+- duration
+- synthetic
+- risk-free
+- volatility
+- multiple
+- hedge
+- binomial-model
+- continuous-time-pricing
+- asset-backed-securities
+- discount-rate
+- forward
+- future
+- implied
+- time-series
+- caplet
+- yield-curve
+- dividend
+- pricing
+- beta-estimation
+- correlation
+- option
+- oil
+- put
+- trading
+- coherent-risk-measure
+- cds
+- arbitrage-opportunity
+- asset-allocation
+- arch
+- conditional-var
+- convexity-adjustment
+- black-scholes-model
+- counterparty-risk
 aliases:
-  - Nominal Bonds
-  - Risk and Return
-  - Bond Risk Analysis
-  - Fixed Income Risk
+- Nominal Bonds
+- Risk and Return
+- Bond Risk Analysis
+- Fixed Income Risk
 key_concepts:
-  - Default-free bonds
-  - Fixed-income instruments
-  - U.S. Treasury bonds
-  - Yield to maturity
-  - Zero-coupon bonds
-  - Yield curve factors (level, slope, curvature)
-  - Expectations hypothesis
-  - Bond duration
-  - Bond-stock beta correlation
-  - Monetary policy transmission
-  - Taylor rule
-  - Predictability of bond returns
-  - Asset allocation with bonds
-  - Fed put phenomenon
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Collateralized debt obligations (CDO) and tranche structure
+- Arbitrage opportunities and no-arbitrage pricing
+- Beta estimation and systematic risk measurement
+- Volatility modeling and estimation techniques
+- Correlation analysis and dependency structures
+- Beta estimation and systematic risk measurement
+- Risk preference theory and utility functions
+- Arbitrage pricing theory and no-arbitrage principle
+- Asset Allocation in financial markets
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Delta hedging strategies in options markets
+- Discount Rate in financial markets
+- Duration and interest rate risk measurement
+- Fed Funds in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Market Risk in financial markets
+- Premium Bond in financial markets
+- Risk Free in financial markets
+- Time Series in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Zero Coupon in financial markets
+type: course-note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000122
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
+
+
 # Lecture 7 - Risk and Return of Bonds
 
 Our goal in this session is to better understand the risk and return properties of fixed-income instruments such as U.S. Treasury bonds. $^{1}$ For now, we focus on default-free bonds, i.e., we assume that the cash flows (coupons and principal) that the bonds promise to pay will be paid for sure. More precisely, we will for now focus on nominal default-free bonds, which are bonds that promise a fixed stream of dollar cash flows that are not adjusted for inflation. For example, if you buy a nominal bond default-free bond today that matures 10 years from now, you will know for sure how many dollars of principal payment you will get back at the maturity date, but you don't know the purchasing power this dollar cash flow will have at the maturity date.

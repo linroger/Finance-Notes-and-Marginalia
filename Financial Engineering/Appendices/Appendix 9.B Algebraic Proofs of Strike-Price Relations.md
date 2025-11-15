@@ -1,23 +1,126 @@
 ---
-title: "Appendix 9.B Algebraic Proofs of Strike-Price Relations"
-cssclasses: academia
-tags:
-  - algebraic-proofs
-  - american-options
-  - call-premium
-  - european-options
-  - strike-price
+academic_level: graduate
 aliases:
-  - Call Option Premium
-  - Option Pricing Proofs
-  - Strike Price Relations
+- Call Option Premium
+- Option Pricing Proofs
+- Strike Price Relations
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000429
 key_concepts:
-  - American option exercise
-  - European option restriction
-  - call premium decreases
-  - convex function strike price
-  - strike price changes
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Convexity adjustments and yield curve sensitivity
+- Arbitrage opportunities and no-arbitrage pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Option Valuation and Exercise Strategies
+- Value at Risk and Expected Shortfall
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Market Microstructure and Liquidity Analysis
+- Price Discovery and Market Efficiency
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- asset-allocation
+- binomial-model
+- black-scholes-model
+- caplet
+- continuous-time-pricing
+- convexity
+- convexity-adjustment
+- credit-rating
+- delta-hedging
+- derivatives
+- discrete-time-pricing
+- dynamic-hedging
+- gamma-hedging
+- hedging
+- put-options
+- affine-term-structure
+- recovery-rate
+- hull-white
+- call-options
+- cir-model
+- high-frequency-trading
+- butterfly-spreads
+- momentum
+- strangles
+- algorithmic-trading
+- expected-shortfall
+- straddles
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- book-to-market
+- var-methodologies
+- historical-var
+- mean-reversion
+- lognormal-models
+- covered-calls
+- ' exposure-at-default'
+- style-analysis
+- short-rate-models
+- option-strategies
+- stress-testing
+- arbitrage
+- unexpected-loss
+- ornstein-uhlenbeck
+- rating-migration
+- expected-loss
+- market-efficiency
+- credit-migration
+- default-probability
+- value-at-risk
+- order-flow
+- credit-spreads
+- arbitrage-pricing-theory
+- multi-factor-models
+- bid-ask-spread
+- iron-condors
+- protective-puts
+- market-price-of-risk
+- probabilty-of-default
+- price-discovery
+- loss-given-default
+- size-effect
+- factor-models
+- liquidity
+- value-factor
+- vasicek-model
+- monte-carlo-var
+- var-backtesting
+- options-trading
+- market-impact
+- apt
+- risk-premium
+- fama-french
+title: Appendix 9.B Algebraic Proofs of Strike-Price Relations
+type: note
 ---
+--
+
+
 
 # Appendix 9.B Algebraic Proofs of Strike-Price Relations
 

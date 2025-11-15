@@ -1,21 +1,43 @@
 ---
 title: Wellman Inc the Importance of Loan Covenants
 tags:
-  - business_strategy
-  - credit_quality
-  - financial_analysis
-  - loan_covenants
-  - wellman_inc
+- arch
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- caplet
+- cds
+- continuous-time-pricing
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
 aliases:
-  - Loan Covenants
-  - Wellman Inc.
+- Loan Covenants
+- Wellman Inc.
 key_concepts:
-  - 'Borrower: Wellman Inc.'
-  - Conflicts of interest
-  - Credit quality
-  - Loan covenants
-  - Rating downgrade
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
 
 # Wellman Inc the Importance of Loan Covenants
 

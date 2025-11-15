@@ -2,29 +2,99 @@
 linter-yaml-title-alias: Excerpts From the Lehman Report
 title: Excerpts From the Lehman Report
 tags:
-  - accounting_issues
-  - balance_sheet_management
-  - citi_bank
-  - collateral_demands
-  - colorable_claims
-  - financial_disclosure
-  - guaranty_agreements
-  - jpmorgan_chase
-  - lehman_brothers
-  - whistleblower_letter
+- leverage
+- eur
+- collateral_demands
+- lehman_brothers
+- lehman
+- senior
+- implied
+- risk-management
+- citi_bank
+- whistleblower_letter
+- put
+- regulatory-capital
+- colorable_claims
+- caps-floors
+- crisis
+- financial-markets
+- stochastic-calculus
+- overnight
+- structured
+- balance_sheet_management
+- valuation
+- jpmorgan_chase
+- ito
+- collateralized
+- event-study
+- repo
+- bear-stearns
+- capital
+- distressed
+- private-equity
+- mbs
+- credit
+- accounting_issues
+- market
+- call
+- rating
+- fail
+- guaranty_agreements
+- financial_disclosure
+- banking
 aliases:
-  - 105 transactions
-  - J.P. Morgan
-  - Lehman report highlights
-  - Matthew Lee letter
-  - WSJ excerpts
+- 105 transactions
+- J.P. Morgan
+- Lehman report highlights
+- Matthew Lee letter
+- WSJ excerpts
 key_concepts:
-  - 105 accounting device
-  - Colorable claims against executives
-  - JPMorgan Chase demands collateral
-  - Lehman Brothers collapse report
-  - Whistleblower letter details
+- Lehman Brothers collapse report
+- 105 accounting device
+- Colorable claims against executives
+- JPMorgan Chase demands collateral
+- Whistleblower letter details
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
+- Bear Stearns in financial markets
+- Market liquidity analysis and liquidity risk
+- Asset securitization and structured finance
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000016
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # WSJ-Excerpts From the Lehman Report
 

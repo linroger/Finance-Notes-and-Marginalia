@@ -1,3 +1,84 @@
+---
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Chapter 5 The Last 500 Years Part 2 The Big Cycle of the United States and the Dollar
+  and financial analysis
+- Chapter 5 The Last 500 Years Part 2 The Big Cycle of the United States and the Dollar
+  in modern finance
+- Applications of Chapter 5 The Last 500 Years Part 2 The Big Cycle of the United
+  States and the Dollar
+- 'Case study: Chapter 5 The Last 500 Years Part 2 The Big Cycle of the United States
+  and the Dollar'
+- Credit default probability and recovery modeling
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Stress testing and scenario analysis
+- Value at Risk and tail risk measurement
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+tags:
+- efficiency
+- strangle
+- stress-test
+- eur
+- monetary-policy
+- hedge
+- probability
+- basis
+- margin
+- subordinated
+- digital
+- commodity
+- swaps
+- future
+- regulation
+- yield-curve
+- dividend
+- distribution
+- interest-rates
+- option
+- oil
+- put
+- american
+- bond
+- futures
+- bonds
+- options
+- roll
+- call
+- treasury
+- yield
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000617
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 Chapter 5: The Last 500 Years Part 2: The Big Cycle of the United States and the Dollar
 
 # **Chapter 5: The Last 500 Years Part 2: The Big Cycle of the United States and the Dollar**

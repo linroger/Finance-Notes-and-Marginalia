@@ -1,20 +1,92 @@
 ---
 tags:
-  - bsm_model
-  - forward_rate
-  - implied_volatility
-  - swaption_skew
-  - volatility_smile
+- delta
+- cds
+- noise
+- arbitrage
+- martingale
+- volatility_smile
+- usd
+- maturity
+- repo
+- prepayment
+- coupon
+- forward
+- bsm_model
+- euribor
+- implied_volatility
+- discount
+- swaption_skew
+- hedging
+- covariance
+- spot-price
+- forward_rate
+- market
+- trading
+- factor-model
+- valuation
 aliases:
-  - Swaption Volatility
-  - Volatility Skew
+- Swaption Volatility
+- Volatility Skew
 key_concepts:
-  - At-the-money options
-  - BSM delta
-  - BSM normal model
-  - Implied volatility varies
-  - Volatility skew
+- Black-Scholes model and option pricing theory
+- Binomial option pricing model
+- Option Greeks and risk sensitivities
+- American option pricing and early exercise
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Bond duration and interest rate risk
+- Bond convexity and price-yield relationships
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Arbitrage pricing theory and no-arbitrage principle
+- Binomial option pricing model and tree methods
+- Black-Scholes option pricing model and its applications
+- Convexity adjustments for bond portfolio management
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Delta hedging strategies in options markets
+- Duration and interest rate risk measurement
+- Factor Model in financial markets
+- Fed Funds in financial markets
+- Forward Rate in financial markets
+- Futures Contract in financial markets
+- Gamma risk and convexity adjustments in options
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Mean Reversion in financial markets
+- Monte Carlo in financial markets
+- Mortgage prepayment modeling and MBS analysis
+- Risk Free in financial markets
+- SOFR implementation and overnight rate markets
+- Spot Price in financial markets
+- Spot Rate in financial markets
+- Swaption pricing and interest rate option strategies
+- Term Structure in financial markets
+- Terminal Value in financial markets
+- Time Series in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000179
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 16.6 SWAPTION SKEW  
 

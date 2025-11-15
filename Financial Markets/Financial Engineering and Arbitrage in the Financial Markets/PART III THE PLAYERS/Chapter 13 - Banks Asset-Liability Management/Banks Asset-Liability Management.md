@@ -1,21 +1,69 @@
 ---
 tags:
-  - asset_liability_management
-  - banks
-  - basel_accords
-  - capital_flow
-  - risk_management
+- leverage
+- basel_accords
+- duration
+- eur
+- hedge
+- maturity
+- risk_management
+- value-at-risk
+- asset_liability_management
+- capital_flow
+- future
+- regulation
+- yield-curve
+- capital
+- equity
+- banks
+- correlation
+- european
+- market-risk
+- apt
+- credit
+- bond
+- crisis
+- basel
+- credit-risk
 aliases:
-  - ALM
-  - Bank Management
-  - Capital Transfer
+- ALM
+- Bank Management
+- Capital Transfer
 key_concepts:
-  - Banks and capital flow
-  - Basel accords and regulations
-  - Capital transformation function
-  - Credit risk quantification
-  - Risk management changes
+- Bond duration and interest rate risk
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Correlation modeling and dependency structures
+- Credit Risk in financial markets
+- Duration and interest rate risk measurement
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Market Risk in financial markets
+- Asset securitization and structured finance
+- Value At Risk in financial markets
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000348
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 13 Banks: Asset-Liability Management  
 

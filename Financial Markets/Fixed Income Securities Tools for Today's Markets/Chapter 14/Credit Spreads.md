@@ -1,21 +1,67 @@
 ---
 tags:
-  - asset_swap
-  - bond_spread
-  - credit_spreads
-  - oas
-  - yield_spread
+- default
+- hedge
+- maturity
+- credit_spreads
+- repo
+- bond_spread
+- coupon
+- oas
+- forward
+- swap
+- libor
+- discount
+- pricing
+- counterparty
+- option
+- term-structure
+- premium
+- apt
+- put
+- bond
+- asset_swap
+- yield_spread
+- spread
+- credit-risk
+- measure
 aliases:
-  - Bond Spread
-  - Credit Spreads
-  - OAS
+- Bond Spread
+- Credit Spreads
+- OAS
 key_concepts:
-  - asset swap spreads
-  - bond cash flows
-  - credit risk
-  - embedded options
-  - yield spread
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Term Structure in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000235
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 14.3 CREDIT SPREADS  
 

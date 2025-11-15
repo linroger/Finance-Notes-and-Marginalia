@@ -1,21 +1,87 @@
 ---
-tags:
-  - arbitrage
-  - counterparty_risk
-  - credit_risk
-  - cross_currency_basis
-  - xva
 aliases:
-  - XVA
-  - xccy basis
+- XVA
+- xccy basis
 key_concepts:
-  - Counterparty risk
-  - Credit valuation adjustment
-  - Exposure profiles
-  - Multiple transactions
-  - Positive and negative values
-  - XVA costs
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- XVA and the Cross-Currency Basis and financial analysis
+- XVA and the Cross-Currency Basis in modern finance
+- Applications of XVA and the Cross-Currency Basis
+- 'Case study: XVA and the Cross-Currency Basis'
+- Arbitrage pricing theory and no-arbitrage principle
+- Correlation modeling and dependency structures
+- Credit Risk in financial markets
+- Cross Currency in financial markets
+- Credit default probability and recovery modeling
+- Delta hedging strategies in options markets
+- Duration and interest rate risk measurement
+- Exchange Rate in financial markets
+- Forward Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- Risk Free in financial markets
+- Spot Rate in financial markets
+- Time Series in financial markets
+- Value at Risk and tail risk measurement
+- Yield Curve in financial markets
+tags:
+- delta
+- duration
+- synthetic
+- risk-free
+- eur
+- multiple
+- hedge
+- market-maker
+- probability
+- basis
+- senior
+- forward
+- swaps
+- future
+- implied
+- time-series
+- swap
+- jpy
+- regulation
+- yield-curve
+- irs
+- counterparty
+- option
+- hedging
+- default-probability
+- trading
+- futures
+- credit-risk
+- default
+- roll
+- recovery
+- liquidity
+- collateral
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000384
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Chapter 2 XVA and the Cross-Currency Basis
 

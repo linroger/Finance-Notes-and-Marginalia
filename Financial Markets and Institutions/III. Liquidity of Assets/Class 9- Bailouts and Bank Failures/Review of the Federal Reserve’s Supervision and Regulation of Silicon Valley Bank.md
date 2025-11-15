@@ -2,22 +2,105 @@
 title: Review of the Federal Reserve’s Supervision and Regulation of Silicon Valley
   Bank
 tags:
-  - bank_failure
-  - banking_regulation
-  - federal_reserve
-  - risk_management
-  - silicon_valley_bank
+- efficiency
+- leverage
+- basel-iii
+- bank_failure
+- eur
+- multiple
+- shareholder-value
+- operational-risk
+- forward
+- fair-value
+- hedging
+- mark-to-market
+- interest-rate-risk
+- trading
+- caps-floors
+- futures
+- stochastic-calculus
+- esg
+- banking_regulation
+- valuation
+- cds
+- regression-analysis
+- maturity
+- risk_management
+- repo
+- liquidity-coverage
+- equity
+- exchange-rate
+- discount
+- market-risk
+- federal_reserve
+- silicon_valley_bank
+- market
+- currency
+- treasury
+- chinese-markets
+- portfolio
 aliases:
-  - Federal Reserve supervision
-  - SVB review
-  - Silicon Valley Bank failure
+- Federal Reserve supervision
+- SVB review
+- Silicon Valley Bank failure
 key_concepts:
-  - Interest rate risk
-  - Regulatory weaknesses
-  - SVB mismanagement
-  - Supervisory failures
-  - Uninsured deposits
+- Interest rate risk
+- Uninsured deposits
+- Supervisory failures
+- SVB mismanagement
+- Regulatory weaknesses
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
+- '2008 Global Financial Crisis: causes and consequences'
+- Correlation modeling and dependency structures
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Dodd Frank in financial markets
+- Duration and interest rate risk measurement
+- Exchange Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- Liquidity Coverage in financial markets
+- Market Risk in financial markets
+- Net Stable Funding in financial markets
+- Operational Risk in financial markets
+- Asset securitization and structured finance
+- Stress testing and scenario analysis
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000030
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Review of the Federal Reserve’s Supervision and Regulation of Silicon Valley Bank
 

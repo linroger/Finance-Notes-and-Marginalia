@@ -1,23 +1,79 @@
 ---
 tags:
-  - corporate_bonds
-  - credit_default_swaps
-  - credit_derivatives
-  - credit_risk
-  - floating_rate_bonds
-  - no_arbitrage
+- credit_default_swaps
+- default
+- duration
+- synthetic
+- no_arbitrage
+- risk-free
+- eur
+- hedge
+- probability
+- margin
+- swap
+- corporate_bonds
+- credit_derivatives
+- pricing
+- counterparty
+- option
+- correlation
+- floating_rate_bonds
+- put
+- trading
+- bond
+- tranche
+- structured
+- spread
+- credit_risk
+- valuation
 aliases:
-  - CDS
-  - Credit Default Swap
-  - Default Insurance
-  - Protection Contract
+- CDS
+- Credit Default Swap
+- Default Insurance
+- Protection Contract
 key_concepts:
-  - Default insurance arrangement
-  - No-arbitrage principle
-  - Periodic premium payments
-  - Protection buyer seller
-  - Reference issue default risk
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Bond duration and interest rate risk
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Arbitrage pricing theory and no-arbitrage principle
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Duration and interest rate risk measurement
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Risk Free in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000302
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 7.1 CREDIT DEFAULT SWAPS  
 

@@ -1,22 +1,64 @@
 ---
 tags:
-  - budget_constraints
-  - consumption_plan
-  - one_period_framework
-  - state_price_deflator
-  - time_additive_utility
+- consumption_plan
+- delta
+- risk-free
+- arbitrage
+- one_period_framework
+- theta
+- margin
+- mean-variance
+- future
+- state_price_deflator
+- dividend
+- gamma
+- pricing
+- covariance
+- budget_constraints
+- apt
+- call
+- model
+- market
+- variance
+- cdo
+- time_additive_utility
+- var
+- roa
+- yield
 aliases:
-  - Consumption Framework
-  - One-Period Model
+- Consumption Framework
+- One-Period Model
 key_concepts:
-  - Budget constraints
-  - Initial wealth
-  - Optimal consumption plan
-  - State-dependent consumption
-  - State-price deflator
-  - Time 0 and 1
-  - Time-additive utility
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial derivatives pricing and valuation
+- Arbitrage pricing theory and no-arbitrage principle
+- Delta hedging strategies in options markets
+- Gamma risk and convexity adjustments in options
+- Mean Variance in financial markets
+- Risk Free in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000472
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 6.2 The one-period framework  
 

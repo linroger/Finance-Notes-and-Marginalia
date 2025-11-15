@@ -1,22 +1,91 @@
 ---
-tags:
-  - bond_convexity
-  - bond_pricing
-  - implied_convexity
-  - realised_convexity
-  - yield_curve
 aliases:
-  - Bond Convexity
-  - Convexity Analysis
-  - Implied vs. Realized
-  - Realised Convexity
+- Bond Convexity
+- Convexity Analysis
+- Implied vs. Realized
+- Realised Convexity
 key_concepts:
-  - Bond price non-linearity
-  - Bond price sensitivity
-  - Convexity value calculation
-  - Implied vs. realized convexity
-  - Yield change scenarios
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Implied Vs Realised Convexity and financial analysis
+- Implied Vs Realised Convexity in modern finance
+- Applications of Implied Vs Realised Convexity
+- 'Case study: Implied Vs Realised Convexity'
+- Arbitrage pricing theory and no-arbitrage principle
+- Carry Trade in financial markets
+- Convexity adjustments for bond portfolio management
+- Covered Interest in financial markets
+- Credit Risk in financial markets
+- Cross Currency in financial markets
+- Credit default probability and recovery modeling
+- Duration and interest rate risk measurement
+- Exchange Rate in financial markets
+- Forward Rate in financial markets
+- Gamma risk and convexity adjustments in options
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- P E in financial markets
+- Stress testing and scenario analysis
+- Swaption pricing and interest rate option strategies
+- Term Structure in financial markets
+- Time Series in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+tags:
+- duration
+- stress-test
+- volatility
+- multiple
+- monetary-policy
+- eur
+- hedge
+- convexity
+- basis
+- senior
+- swaps
+- forward
+- future
+- implied
+- yield-curve
+- time-series
+- jpy
+- swap
+- gamma
+- pricing
+- irs
+- counterparty
+- option
+- hedging
+- bond
+- futures
+- maturity
+- coupon
+- fixed-income
+- roll
+- swaption
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000369
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Chapter 9 Implied vs Realised Convexity
 

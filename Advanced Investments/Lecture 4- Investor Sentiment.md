@@ -1,38 +1,91 @@
 ---
 title: Lecture 4 - Investor Sentiment
 cssclasses:
-  - academia
-  - finance
+- academia
+- finance
 tags:
-  - dividend_growth
-  - investor_sentiment
-  - risk_aversion
-  - stock_market
-  - valuation_ratios
-  - behavioral_finance
-  - market_timing
-  - asset_pricing
-  - financial_economics
-  - investment_psychology
+- delta
+- credit-rating
+- risk-free
+- volatility
+- multiple
+- binomial-model
+- continuous-time-pricing
+- forward
+- future
+- implied
+- time-series
+- caplet
+- dividend
+- pricing
+- correlation
+- option
+- oil
+- put
+- trading
+- bond
+- gold
+- crisis
+- spread
+- measure
+- discrete-time-pricing
+- coherent-risk-measure
+- derivatives
+- arbitrage-opportunity
+- capital-asset-pricing
+- conditional-var
+- delta-hedging
+- dividend-policy
+- convexity-adjustment
+- arbitrage-pricing
+- black-scholes-model
 aliases:
-  - Investor Sentiment
-  - Lecture 4
-  - Sentiment Analysis
-  - Market Sentiment
-  - Investor Psychology
+- Investor Sentiment
+- Lecture 4
+- Sentiment Analysis
+- Market Sentiment
+- Investor Psychology
 key_concepts:
-  - Changing risk perceptions
-  - Dividend growth expectations
-  - Price-dividend ratio
-  - Time-varying sentiment
-  - Valuation cycles
-  - Sentiment-based valuation models
-  - Growth expectation bias
-  - Market timing strategies
-  - Behavioral asset pricing
-  - Irrational exuberance
-  - Contrarian investing
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Arbitrage pricing theory and no-arbitrage principle
+- Asset Allocation in financial markets
+- Correlation modeling and dependency structures
+- Delta hedging strategies in options markets
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Market Risk in financial markets
+- Risk Free in financial markets
+- Time Series in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+type: course-note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000124
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
+
 
 # Lecture 4: Investor Sentiment
 

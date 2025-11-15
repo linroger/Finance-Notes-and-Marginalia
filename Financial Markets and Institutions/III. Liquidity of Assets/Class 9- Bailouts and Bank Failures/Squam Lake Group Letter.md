@@ -1,24 +1,80 @@
 ---
 cssclasses: academia
-linter-yaml-title-alias:
+linter-yaml-title-alias: null
 title: Squam Lake Group Letter
 tags:
-  - capital_requirements
-  - economic_growth
-  - financial_system
-  - policy_recommendations
-  - world_financial_crisis
+- leverage
+- economic_growth
+- risk-free
+- volatility
+- eur
+- solvency
+- hedge
+- lehman
+- senior
+- margin
+- world_financial_crisis
+- value-at-risk
+- forward
+- future
+- regulation
+- swap
+- pricing
+- counterparty
+- option
+- oil
+- covered-interest
+- put
+- financial_system
+- capital_requirements
+- policy_recommendations
 aliases:
-  - 2007-2010 crisis
-  - WFC
-  - financial crisis
+- 2007-2010 crisis
+- WFC
+- financial crisis
 key_concepts:
-  - economic welfare
-  - financial firms regulations
-  - financial system's role
-  - policy interventions
-  - sovereign debts
+- American option pricing and early exercise
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Arbitrage pricing theory and no-arbitrage principle
+- Bear Stearns in financial markets
+- Covered Interest in financial markets
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Exchange Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Risk Free in financial markets
+- Asset securitization and structured finance
+- Value At Risk in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000008
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 ## Chapter 1 Introduction
 

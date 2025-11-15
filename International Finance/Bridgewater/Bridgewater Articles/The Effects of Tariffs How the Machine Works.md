@@ -1,22 +1,59 @@
 ---
-tags:
-  - currency
-  - fiscal_policy
-  - monetary_policy
-  - stagflation
-  - tariffs
-  - trade
 aliases:
-  - Effects of Tariffs
-  - Tariff Impacts
+- Effects of Tariffs
+- Tariff Impacts
 key_concepts:
-  - International conflict needs
-  - Protect domestic companies
-  - Reduce account imbalances
-  - Reduce global production
-  - Stagflationary effects
-  - Tariffs raise revenue
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- The Effects of Tariffs How the Machine Works and financial analysis
+- The Effects of Tariffs How the Machine Works in modern finance
+- Applications of The Effects of Tariffs How the Machine Works
+- 'Case study: The Effects of Tariffs How the Machine Works'
+- Interest Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+tags:
+- options
+- monetary-policy
+- swaps
+- future
+- capital
+- irs
+- interest-rates
+- call
+- trading
+- currency
+- american
+- market
+- financial-markets
+- roa
+- measure
+- interest-rate
+- market-impact
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000613
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 ## Article
 

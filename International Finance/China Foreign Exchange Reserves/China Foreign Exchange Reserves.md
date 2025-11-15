@@ -1,23 +1,42 @@
 ---
-cssclasses:
-  - academia
-title: China Foreign Exchange Reserves
-tags:
-  - central_bank
-  - china_economy
-  - china_foreign_exchange
-  - foreign_exchange_reserves
-  - monetary_policy
 aliases:
-  - China FX Reserves
-  - FX Reserves China
+- China FX Reserves
+- FX Reserves China
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000011
 key_concepts:
-  - Central bank policy
-  - China's foreign reserves
-  - Economic stability
-  - Exchange rate management
-  - Monetary policy tools
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- China Foreign Exchange Reserves and financial analysis
+- China Foreign Exchange Reserves in modern finance
+- Applications of China Foreign Exchange Reserves
+- 'Case study: China Foreign Exchange Reserves'
+- Financial markets and institutions
+- Stress Testing and Extreme Value Analysis
+- Risk Measurement and VaR Backtesting
+- Value at Risk and Expected Shortfall
+tags:
+- monetary-policy
+- interest-rates
+- value-at-risk
+- monte-carlo-var
+- stress-testing
+- var-backtesting
+- financial-markets
+- expected-shortfall
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- investment-analysis
+- var-methodologies
+- historical-var
+title: China Foreign Exchange Reser
 ---
+--
 
 # China Foreign Exchange Reserves
 

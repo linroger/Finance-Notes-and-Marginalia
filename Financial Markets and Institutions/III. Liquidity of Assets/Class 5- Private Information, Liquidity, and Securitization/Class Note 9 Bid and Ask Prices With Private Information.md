@@ -1,25 +1,76 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Class Note 9 Bid and Ask Prices With Private Information
 tags:
-  - adverse_selection
-  - bid_ask_spread
-  - liquidity_traders
-  - market_makers
-  - private_information
+- regression-discontinuity
+- tracking-error
+- bid_ask_spread
+- adverse_selection
+- bid-ask
+- probability
+- credit-spread
+- option-pricing-theory
+- machine-learning
+- future
+- market-microstructure
+- risk-management
+- private-equity
+- premium
+- t-bonds
+- trading
+- market
+- market_makers
+- financial-markets
+- basel
+- liquidity-risk
+- liquidity_traders
+- liquidity
+- spread
+- dark-pool
+- mean-reversion
+- private_information
 aliases:
-  - Adverse Selection
-  - Bid and Ask
-  - Glosten-Milgrom
-  - Market Maker
+- Adverse Selection
+- Bid and Ask
+- Glosten-Milgrom
+- Market Maker
 key_concepts:
-  - Bid-Ask Spread
-  - Informed vs. Liquidity Traders
-  - Market Maker Profits
-  - Private Information Impact
-  - Risk Neutrality Assumption
+- Risk Neutrality Assumption
+- Bid-Ask Spread
+- Informed vs. Liquidity Traders
+- Market Maker Profits
+- Private Information Impact
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
+- Bid Ask in financial markets
+- Market liquidity analysis and liquidity risk
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000041
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Class Note 9 Bid and Ask Prices With Private Information
 

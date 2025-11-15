@@ -1,29 +1,83 @@
 ---
-tags:
-  - convexity
-  - curve_slope
-  - duration
-  - forward_curve
-  - yield_curve
 aliases:
-  - 2's-10's trade
-  - Curve inversion
-  - Forward rate
-  - Yield curve shape
+- 2's-10's trade
+- Curve inversion
+- Forward rate
+- Yield curve shape
 key_concepts:
-  - Bond duration increase
-  - Central bank expectations
-  - Convexity value volatility
-  - Curve slope forecasts
-  - Curve steepening trade
-  - Fixed income products
-  - Forward curve analysis
-  - Implied forward evolution
-  - Market anomalies
-  - Term premium effect
-  - Yield curve convexity
-  - Yield curve implications
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Forward Curves Duration and Convexity and financial analysis
+- Forward Curves Duration and Convexity in modern finance
+- Applications of Forward Curves Duration and Convexity
+- 'Case study: Forward Curves Duration and Convexity'
+- Convexity adjustments for bond portfolio management
+- Correlation modeling and dependency structures
+- Discounted Cash Flow valuation methodology
+- Delta hedging strategies in options markets
+- Discount Rate in financial markets
+- Duration and interest rate risk measurement
+- Forward Rate in financial markets
+- Gamma risk and convexity adjustments in options
+- Interest Rate in financial markets
+- Swaption pricing and interest rate option strategies
+- Time Series in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Zero Coupon in financial markets
+tags:
+- delta
+- duration
+- eur
+- volatility
+- convexity
+- basis
+- discount-rate
+- forward
+- swaps
+- future
+- implied
+- time-series
+- swap
+- yield-curve
+- gamma
+- irs
+- correlation
+- distribution
+- dcf
+- put
+- bond
+- crisis
+- futures
+- spread
+- options
+- maturity
+- coupon
+- fixed-income
+- roll
+- swaption
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000371
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Chapter 8 Forward Curves, Duration and Convexity
 

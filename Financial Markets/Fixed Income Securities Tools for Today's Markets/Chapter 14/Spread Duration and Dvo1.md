@@ -1,21 +1,58 @@
 ---
 tags:
-  - corporate_bonds
-  - credit_portfolios
-  - dvo1
-  - spread_duration
-  - spread_risk
+- cds
+- spread_risk
+- duration
+- spread_duration
+- dvo1
+- swap
+- corporate_bonds
+- discount
+- apt
+- credit_portfolios
+- credit
+- put
+- model
+- bond
+- trading
+- spread
+- measure
+- portfolio
+- interest-rate
 aliases:
-  - DTS
-  - Duration times spread
+- DTS
+- Duration times spread
 key_concepts:
-  - benchmark curve
-  - bond price sensitivity
-  - hazard rate model
-  - risky Dv01
-  - spread Dv01
-  - spread duration
+- Interest rate swaps and term structure modeling
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Bond duration and interest rate risk
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Duration and interest rate risk measurement
+- Interest Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000229
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 14.10 SPREAD DURATION AND DVO1  
 

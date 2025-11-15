@@ -1,21 +1,78 @@
 ---
-cssclasses: [international-economics]
-title: Chapter 6. The Standard Trade Model
-tags: [international-economics, trade-theory, standard-trade-model]
-aliases: [Standard Trade Model]
+aliases:
+- Standard Trade Model
+cssclasses:
+- international-economics
 key_concepts:
-  - Terms of Trade
-  - Production Possibilities
-  - Relative Supply and Demand
-  - Economic Growth
-  - Export-biased Growth
-  - Import-biased Growth
-  - Immiserizing Growth
-  - Tariffs and Export Subsidies
-  - Intertemporal Trade
-  - Real Interest Rate
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Chapter 6. The Standard Trade Model and financial analysis
+- Chapter 6. The Standard Trade Model in modern finance
+- Applications of Chapter 6. The Standard Trade Model
+- 'Case study: Chapter 6. The Standard Trade Model'
+- Interest Rate in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
 linter-yaml-title-alias: Chapter 6. The Standard Trade Model
+tags:
+- efficiency
+- synthetic
+- eur
+- multiple
+- margin
+- energy
+- ratio
+- commodity
+- swaps
+- future
+- irs
+- interest-rates
+- distribution
+- oil
+- put
+- trading
+- american
+- measure
+- options
+- pandemic
+- statement
+- roe
+- growth
+- covid
+- capital
+- agricultural
+- call
+- liquidity
+- interest-rate
+title: Chapter 6. The Standard Trade Model
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000538
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # CHAPTER 6
 

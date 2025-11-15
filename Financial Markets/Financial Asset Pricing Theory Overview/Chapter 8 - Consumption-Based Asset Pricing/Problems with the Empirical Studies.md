@@ -1,20 +1,61 @@
 ---
 tags:
-  - asset_pricing
-  - consumption_based_model
-  - empirical_studies
-  - stock_returns
-  - survivorship_bias
+- default
+- diversification
+- empirical_studies
+- probability
+- margin
+- repo
+- growth
+- dividend
+- pricing
+- distribution
+- survivorship_bias
+- apt
+- consumption_based_model
+- call
+- model
+- bond
+- asset_pricing
+- market
+- sifi
+- factor-model
+- var
+- measure
+- stock_returns
 aliases:
-  - Empirical Study Issues
-  - Problems in Empirical Research
+- Empirical Study Issues
+- Problems in Empirical Research
 key_concepts:
-  - Ex-ante expectations vs realized
-  - Excess stock return estimate
-  - Poor quality consumption data
-  - Stationarity assumption issues
-  - Survivorship bias in returns
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Credit default probability and recovery modeling
+- Factor Model in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000427
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 8.6 Problems with the empirical studies  
 

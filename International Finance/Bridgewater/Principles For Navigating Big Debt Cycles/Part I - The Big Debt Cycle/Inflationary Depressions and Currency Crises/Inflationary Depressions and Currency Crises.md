@@ -1,3 +1,80 @@
+---
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Inflationary Depressions and Currency Crises and financial analysis
+- Inflationary Depressions and Currency Crises in modern finance
+- Applications of Inflationary Depressions and Currency Crises
+- 'Case study: Inflationary Depressions and Currency Crises'
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Duration and interest rate risk measurement
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Spot Price in financial markets
+- Value at Risk and tail risk measurement
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+tags:
+- leverage
+- duration
+- eur
+- monetary-policy
+- hedge
+- basis
+- margin
+- commodity
+- arma
+- forward
+- swaps
+- future
+- yield-curve
+- pricing
+- irs
+- interest-rates
+- correlation
+- distribution
+- oil
+- put
+- gold
+- bond
+- crisis
+- futures
+- spread
+- measure
+- options
+- call
+- strike
+- liquidity
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000574
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # **Inflationary Depressions and Currency Crises**
 
 In the previous section, we looked at the archetypal deflationary debt crisis, which we created by averaging the 21 deflationary cycles you can review in Part 3. We will now look at the archetypal inflationary debt crisis, which we created by averaging the 27 worst cases of inflationary cycles (also shown in Part 3). After reviewing this template, I encourage you to read about the hyperinflation in Germany's Weimar Republic, which is examined in depth in Part 2, to compare it to the archetypal case described here. Before we turn to the charts and other data, please remember that:

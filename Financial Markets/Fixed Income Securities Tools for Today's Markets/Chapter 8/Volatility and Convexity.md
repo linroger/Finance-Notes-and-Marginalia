@@ -1,23 +1,64 @@
 ---
 tags:
-  - binomial_tree
-  - convexity
-  - interest_rates
-  - volatility
-  - zero_coupon_bonds
+- binomial_tree
+- zero_coupon_bonds
+- volatility
+- convexity
+- probability
+- coupon
+- forward
+- future
+- interest_rates
+- discount
+- pricing
+- term-structure
+- apt
+- binomial
+- model
+- call
+- bond
+- var
+- forward-rate
+- interest-rate
 aliases:
-  - Bond Pricing
-  - Jensen's Inequality
-  - Volatility and Convexity
+- Bond Pricing
+- Jensen's Inequality
+- Volatility and Convexity
 key_concepts:
-  - Binomial tree
-  - Bond price curve
-  - Forward rates
-  - Interest rate volatility
-  - Jensen's inequality
-  - Short-term rates
-  - Zero coupon bonds
+- Bond convexity and price-yield relationships
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Binomial option pricing model and tree methods
+- Convexity adjustments for bond portfolio management
+- Forward Rate in financial markets
+- Interest Rate in financial markets
+- Term Structure in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000150
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 8.2 VOLATILITY AND CONVEXITY  
 

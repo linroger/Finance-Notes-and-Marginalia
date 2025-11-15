@@ -1,3 +1,78 @@
+---
+tags:
+- binomial-model
+- continuous-time-pricing
+- bond-option
+- forward
+- future
+- regulation
+- swap
+- counterparty-risk
+- caplet
+- capital-adequacy
+- option
+- trading
+- barrier-options
+- bond
+- structured
+- credit-risk
+- banking-regulation
+- basel-accord
+- exotic
+- cds
+- maturity
+- credit-modeling
+- apt
+- interest-rate
+- credit
+- convexity-adjustment
+- market
+- credit-default-swap
+- black-scholes-model
+- sifi
+- swaption
+- credit-derivatives
+- futures-contract
+- derivative
+key_concepts:
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Credit Risk in financial markets
+- Futures Contract in financial markets
+- Interest Rate in financial markets
+- Swaption pricing and interest rate option strategies
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000086
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
+
+
  
 source: 
   https://www.investopedia.com/ask/answers/052815/what-overthecounter-derivative.asp

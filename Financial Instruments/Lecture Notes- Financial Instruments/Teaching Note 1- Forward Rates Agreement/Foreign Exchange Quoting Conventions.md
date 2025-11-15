@@ -1,24 +1,173 @@
 ---
-title: Foreign Exchange Quoting Conventions
-tags:
-  - currency_pair
-  - foreign_exchange
-  - fx_forward_rate
-  - fx_spot_rate
-  - interest_rate_parity
-  - outright_forward
+academic_level: graduate
 aliases:
-  - FX
-  - FX Quoting
-  - Forex
+- FX
+- FX Quoting
+- Forex
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000147
 key_concepts:
-  - Base and quote currency
-  - Exchange rate definition
-  - FX forward rate
-  - FX spot rate
-  - Forward contract value
-  - Interest rate parity
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Heath-Jarrow-Morton (HJM) and forward rate dynamics
+- Collateralized debt obligations (CDO) and tranche structure
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Duration and Convexity in Fixed Income Risk Management
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Delta, Gamma, and Vega Hedging Techniques
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Dynamic vs Static Hedging in Practice
+- Interest Rate Swaps and Currency Swap Structures
+- Term Structure of Interest Rates and Yield Curves
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Interest Rate Risk and DV01 Calculations
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- asset-allocation
+- caplet
+- cds
+- collateralized-debt-obligation
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- currency-markets
+- currency-strategy
+- default-probability
+- delta-hedging
+- duration-analysis
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- style-analysis
+- option-strategies
+- yield-curve
+- unexpected-loss
+- clearinghouse
+- interpolation
+- overnight-indexed-swaps
+- interest-rate-risk
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- loss-given-default
+- value-factor
+- vasicek-model
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- forward-contracts
+- forward-rates
+- fama-french
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- modified-duration
+- expected-loss
+- forward-curve
+- currency-swaps
+- protective-puts
+- probabilty-of-default
+- curve-steepening
+- curve-fitting
+- gamma-hedging
+- hedge-effectiveness
+- roll-yield
+- risk-premium
+- spot-rates
+- put-options
+- affine-term-structure
+- momentum
+- curve-flattening
+- basis-risk
+- convexity
+- hedge-strategies
+- term-structure
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- investment-analysis
+- value-at-risk
+- factor-models
+- barbell-strategy
+- convergence
+- var-backtesting
+- cross-hedging
+- yield-curve-shocks
+- strangles
+- conditional-var
+- dv01
+- short-rate-models
+- swap-spread
+- price-yield-relationship
+- credit-migration
+- marking-to-market
+- total-return-swaps
+- libor
+- credit-spreads
+- multi-factor-models
+- iron-condors
+- financial-markets
+- macaulay-duration
+- static-hedging
+- size-effect
+- basis-swaps
+- interest-rate-swaps
+- futures-contracts
+- apt
+- bootstrap-method
+- credit-default-swaps
+title: Foreign Exchange Quoting Conventions
+type: course-note
 ---
+--
+
+
 
 - Introduction to Derivative Markets]]
 - Hedging%20[Key%20Rates%20O1s%20Durations%20and%20Hedging) Strategies with [Forwards]]

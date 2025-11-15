@@ -1,34 +1,182 @@
 ---
-title: Week 4 ESOs and Valuation
-cssclasses:
-  - academia
-linter-yaml-title-alias: Week 4 ESOs and Valuation
-tags:
-  - accounting_for_esos
-  - equity_compensation
-  - employee_stock_options
-  - stock_options
-  - valuation
-  - option_dilution
-  - executive_compensation
+academic_level: graduate
 aliases:
-  - Employee Stock Options Valuation
-  - ESO Analysis
-  - Stock-Based Compensation
+- Employee Stock Options Valuation
+- ESO Analysis
+- Stock-Based Compensation
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000246
 key_concepts:
-  - Accounting for stock compensation
-  - Cash-equivalent cost of grants
-  - ESOs align management interests
-  - Employee stock options impact valuation
-  - High-growth firms use ESOs
-  - Stock-based compensation at Google
-  - Valuation of compensation tricky
-  - Option dilution effects
-  - Black-Scholes valuation
-  - Treasury stock method
-  - Vesting periods
-  - Exercise behavior
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Free Cash Flow and Enterprise Value
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Hedge Strategies and Basis Risk Management
+- American Option Pricing and Early Exercise Premium
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Terminal Value and WACC Calculations
+- Discounted Cash Flow Valuation Models
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: Week 4 ESOs and Valuation
+professional_application: theoreti
+status: active
+tags:
+- binomial-model
+- black-scholes-model
+- capital-structure
+- caplet
+- cash-flow-modeling
+- continuous-time-pricing
+- convexity-adjustment
+- cost-of-capital
+- credit-rating
+- dcf-valuation
+- debit-valuation-adjustment
+- delta-hedging
+- derivatives
+- discounted-cash-flow
+- discrete-time-pricing
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- terminal-value
+- free-cash-flow
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- binomial-tree
+- straddles
+- extreme-value-theory
+- american-options
+- book-to-market
+- backwardation
+- volatility-analysis
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- clearinghouse
+- enterprise-value
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- loss-given-default
+- value-factor
+- vasicek-model
+- dirty-price
+- monte-carlo-var
+- capital-budgeting
+- options-trading
+- coupon-bonds
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- expected-loss
+- wacc
+- quantitative-finance
+- crr-model
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- roll-yield
+- cost-of-debt
+- risk-premium
+- put-options
+- affine-term-structure
+- multi-period-binomial
+- momentum
+- basis-risk
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- sum-of-parts
+- clean-price
+- lattice-models
+- strangles
+- conditional-var
+- fixed-income
+- cox-ross-rubinstein
+- short-rate-models
+- cost-of-equity
+- optional-exercise
+- credit-migration
+- default-probability
+- marking-to-market
+- binomial-option-pricing
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- equity-value
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- ' recombining-trees'
+- futures-contracts
+- apt
+- current-yield
+title: Week 4 ESOs and Valuation
+type: course-note
 ---
+--
+
+
 
 # Week 4 ESOs and Valuation
 

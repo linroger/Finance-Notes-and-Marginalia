@@ -1,23 +1,72 @@
 ---
 title: The Economist Time Is Cheap
 tags:
-  - bank_profits
-  - banking
-  - deutsche_bank
-  - interest_rates
-  - low_interest_rates
+- derivatives
+- regression-discontinuity
+- bank_profits
+- options
+- eur
+- tracking-error
+- margin
+- repo
+- sec
+- machine-learning
+- forward
+- future
+- capital
+- interest_rates
+- risk-management
+- forwards
+- private-equity
+- call
+- deutsche_bank
+- caps-floors
+- investment-strategy
+- cap-floor
+- put
+- bond
+- rating
+- sifi
+- roa
+- banking
+- low_interest_rates
+- interest-rate
+- dark-pool
+- modern-portfolio-theory
 aliases:
-  - Christian Sewing
-  - Low Interest Rates
-  - The Economist
-  - Time is Cheap
+- Christian Sewing
+- Low Interest Rates
+- The Economist
+- Time is Cheap
 key_concepts:
-  - Bank diversification strategy
-  - Banks and time travel
-  - Low rates and profits
-  - Negative interest rates impact
-  - Reversal rate and lending
+- Negative interest rates impact
+- Bank diversification strategy
+- Reversal rate and lending
+- Low rates and profits
+- Banks and time travel
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Interest Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000019
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # The Economist Time Is Cheap
 

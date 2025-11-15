@@ -1,21 +1,66 @@
 ---
 tags:
-  - asset_pricing
-  - brownian_motion
-  - continuous_time
-  - random_walk
-  - stochastic_process
+- delta
+- volatility
+- martingale
+- ito
+- theta
+- comparable
+- probability
+- wiener
+- filtration
+- future
+- capital
+- black-scholes
+- pricing
+- distribution
+- option
+- continuous_time
+- apt
+- brownian
+- put
+- call
+- asset_pricing
+- measure
+- random_walk
+- stochastic_process
+- brownian_motion
 aliases:
-  - Bachelier model
-  - Brownian motion
-  - Wiener process
+- Bachelier model
+- Brownian motion
+- Wiener process
 key_concepts:
-  - Brownian motion definition
-  - Independent increments
-  - Markov process
-  - Martingale property
-  - Option pricing formula
+- Black-Scholes model and option pricing theory
+- Option Greeks and risk sensitivities
+- Option valuation and hedging strategies
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Monte Carlo simulation for derivatives valuation
+- Banking and credit intermediation
+- Bank balance sheet management
+- Black-Scholes option pricing model and its applications
+- Delta hedging strategies in options markets
+- Interest Rate in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000385
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 2.6 Continuous-time stochastic processes  
 

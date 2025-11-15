@@ -1,24 +1,94 @@
 ---
-title: US Debt Crisis and Adjustment (2007–2011)
-cssclasses:
-  - academia
-tags:
-  - economic_cycle
-  - federal_reserve
-  - financial_crisis
-  - mortgage_securitization
-  - us_debt_crisis
 aliases:
-  - 2007-2011 Crisis
-  - Debt Crisis
-  - US Debt
+- 2007-2011 Crisis
+- Debt Crisis
+- US Debt
+cssclasses:
+- academia
 key_concepts:
-  - Debt-to-GDP ratio
-  - Economic conditions
-  - Federal Reserve interest rates
-  - Housing market
-  - US debt crisis
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- US Debt Crisis and Adjustment (2007–2011) and financial analysis
+- US Debt Crisis and Adjustment (2007–2011) in modern finance
+- Applications of US Debt Crisis and Adjustment (2007–2011)
+- 'Case study: US Debt Crisis and Adjustment (2007–2011)'
+- Arbitrage pricing theory and no-arbitrage principle
+- Bear Stearns in financial markets
+- Carry Trade in financial markets
+- Correlation modeling and dependency structures
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Discount Rate in financial markets
+- Dodd Frank in financial markets
+- Duration and interest rate risk measurement
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- Asset securitization and structured finance
+- Stress testing and scenario analysis
+- Value At Risk in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+tags:
+- efficiency
+- leverage
+- duration
+- synthetic
+- eur
+- forward
+- hedging
+- put
+- trading
+- bond
+- tranche
+- bonds
+- spread
+- valuation
+- cds
+- options
+- arbitrage
+- usd
+- repo
+- fixed-income
+- municipal
+- portfolio
+- equity
+- exchange-rate
+- discount
+- corporate-bond
+- mbs
+- market
+- currency
+- treasury
+- liquidity
+- securitization
+- yield
+title: US Debt Crisis and Adjustment (2007–2011)
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000548
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # US Debt Crisis and Adjustment (2007–2011)
 

@@ -1,21 +1,64 @@
 ---
 tags:
-  - bond_spread
-  - cds_equivalent
-  - credit_risk
-  - default_risk
-  - hazard_rate
+- default
+- cds
+- hazard_rate
+- probability
+- maturity
+- senior
+- bond_spread
+- coupon
+- implied
+- discount
+- pricing
+- default_risk
+- premium
+- apt
+- credit
+- cds_equivalent
+- put
+- call
+- bond
+- model
+- recovery
+- spread
+- credit_risk
+- credit-risk
+- measure
 aliases:
-  - CDS spread
-  - Genworth bond
-  - credit spread
+- CDS spread
+- Genworth bond
+- credit spread
 key_concepts:
-  - CDS-equivalent spread
-  - bond market price
-  - default and recovery
-  - discounted cash flows
-  - hazard rate calculation
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000231
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 14.7 CDS-EQUIVALENT BOND SPREAD  
 

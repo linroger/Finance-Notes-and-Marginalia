@@ -1,27 +1,220 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: TREASURY TRANSACTION AND CASH FLOW ANALYSIS
-title: Teaching Note 2Interest Rate Risk Management And Factors
-tags:
-  - coupon_bond
-  - duration
-  - interest_rate_risk
-  - pvbp
-  - zero_coupon_bond
 aliases:
-  - Duration
-  - Interest Rate Risk
-  - PVBP
+- Duration
+- Interest Rate Risk
+- PVBP
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000545
 key_concepts:
-  - Duration definition
-  - Interest rate sensitivity
-  - Macaulay duration
-  - Modified duration
-  - Portfolio duration calculation
-  - Price value basis point
-  - Zero coupon bond duration
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Teaching Note 2- Interest Rate Risk Management And Factors and financial analysis
+- Teaching Note 2- Interest Rate Risk Management And Factors in modern finance
+- Applications of Teaching Note 2- Interest Rate Risk Management And Factors
+- 'Case study: Teaching Note 2- Interest Rate Risk Management And Factors'
+- Duration and Convexity in Fixed Income Risk Management
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Delta, Gamma, and Vega Hedging Techniques
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Cost of Equity and Expected Returns
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Dynamic vs Static Hedging in Practice
+- Term Structure of Interest Rates and Yield Curves
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Interest Rate Risk and DV01 Calculations
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: TREASURY TRANSACTION AND CASH FLOW ANALYSIS
+tags:
+- options
+- yield-curve
+- var
+- hedge-ratio
+- put
+- dv01
+- fixed-income
+- interest-rate
+- maturity
+- bond
+- coupon
+- risk-management
+- duration
+- bonds
+- convexity
+- leveraged-buyout
+- asset-allocation
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- backwardation
+- volatility-analysis
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- interpolation
+- interest-rate-risk
+- arbitrage-pricing-theory
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dirty-price
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- forward-contracts
+- yield-to-maturity
+- forward-rates
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- modified-duration
+- expected-loss
+- market-efficiency
+- delta-hedging
+- forward-curve
+- order-flow
+- bid-ask-spread
+- systematic-risk
+- protective-puts
+- government-bonds
+- alpha
+- security-market-line
+- probabilty-of-default
+- liquidity
+- curve-steepening
+- curve-fitting
+- gamma-hedging
+- hedge-effectiveness
+- idiosyncratic-risk
+- roll-yield
+- beta
+- risk-premium
+- spot-rates
+- put-options
+- affine-term-structure
+- capm
+- algorithmic-trading
+- momentum
+- curve-flattening
+- basis-risk
+- market-risk-premium
+- hedge-strategies
+- term-structure
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- duration-analysis
+- value-at-risk
+- factor-models
+- barbell-strategy
+- convergence
+- var-backtesting
+- cross-hedging
+- sum-of-parts
+- clean-price
+- yield-curve-shocks
+- high-frequency-trading
+- strangles
+- conditional-var
+- short-rate-models
+- efficient-frontier
+- price-yield-relationship
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- macaulay-duration
+- static-hedging
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+- bootstrap-method
+- current-yield
+title: Teaching Note 2Interest Rate Risk Management And Fact
 ---
+--
 
  !500
 

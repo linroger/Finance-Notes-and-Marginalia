@@ -1,25 +1,260 @@
 ---
-linter-yaml-title-alias: HEDGING WITH CURRENCY SWAPS
-title: Teaching Note 3 SwapsFinancial Instruments
-tags:
-  - financial_instruments
-  - forward_rates
-  - fx_swap
-  - interest_rate_swaps
-  - no_arbitrage
+academic_level: graduate
 aliases:
-  - FX Swap
-  - Forward Contracts
-  - Swap Rate
-  - Swaps
-  - Teaching Note 3
+- FX Swap
+- Forward Contracts
+- Swap Rate
+- Swaps
+- Teaching Note 3
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000144
 key_concepts:
-  - 'FX swap: currency exchange'
-  - 'Forward rates: cash flow'
-  - Interest rate swaps
-  - No arbitrage condition
-  - 'Swap rate: zero value'
+- Black-Scholes option pricing model and continuous-time finance
+- Binomial option pricing model and lattice methods
+- Monte Carlo simulation for derivatives pricing and risk management
+- Implied volatility calculation and volatility surface analysis
+- Options Greeks and sensitivity analysis for risk management
+- Discounted cash flow (DCF) valuation methodology
+- Credit default swaps (CDS) and credit risk modeling
+- Interest rate swaps and fixed income derivatives
+- Currency swaps and foreign exchange risk management
+- LIBOR market model and multi-curve framework
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Free Cash Flow and Enterprise Value
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Variance Reduction Techniques in Monte Carlo Methods
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Delta, Gamma, and Vega Hedging Techniques
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Stochastic Integration and Path-Dependent Options
+- Forward Curves and Roll Strategies
+- Black-Scholes Option Pricing Model and Its Applications
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Credit Default Swaps and CDS Pricing
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Hedge Strategies and Basis Risk Management
+- Factor Models and Asset Pricing
+- Dynamic vs Static Hedging in Practice
+- American Option Pricing and Early Exercise Premium
+- Interest Rate Swaps and Currency Swap Structures
+- Term Structure of Interest Rates and Yield Curves
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- CDS Spreads and Implied Default Probabilities
+- Market Microstructure and Liquidity Analysis
+- Credit Risk Transfer and Synthetic Instruments
+- Hedging Strategies and Risk Mitigation
+- Monte Carlo Simulation Methods for Derivative Pricing
+- Government and Corporate Bond Markets
+- Terminal Value and WACC Calculations
+- Discounted Cash Flow Valuation Models
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: HEDGING WITH CURRENCY SWAPS
+professional_application: theoreti
+status: active
+tags:
+- american-derivatives
+- arbitrage-free-models
+- arbitrage-opportunity
+- banking-regulation
+- barrier-options
+- basel-accord
+- basis-risk
+- basis-swap
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- caplet
+- cash-flow-modeling
+- cds
+- collateral-rates
+- control-variates
+- exotic-options
+- hull-white
+- call-options
+- cir-model
+- terminal-value
+- free-cash-flow
+- butterfly-spreads
+- expected-shortfall
+- binomial-tree
+- straddles
+- extreme-value-theory
+- american-options
+- partial-differential-equation
+- book-to-market
+- arbitrage
+- risk-neutral-valuation
+- backwardation
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- yield-curve
+- clearinghouse
+- enterprise-value
+- cds-spreads
+- interpolation
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- monte-carlo-simulation
+- hedge-ratio
+- market-price-of-risk
+- volatility-surface
+- price-discovery
+- roll-strategies
+- value-factor
+- vasicek-model
+- dirty-price
+- forward-curves
+- dynamic-hedging
+- monte-carlo-var
+- capital-budgeting
+- options-trading
+- coupon-bonds
+- market-impact
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- forward-rates
+- fama-french
+- bsm-model
+- zero-coupon-bonds
+- black-scholes-formula
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- random-walks
+- wacc
+- market-efficiency
+- delta-hedging
+- forward-curve
+- order-flow
+- currency-swaps
+- default-leg
+- bid-ask-spread
+- crr-model
+- foreign-recurrency
+- protective-puts
+- government-bonds
+- cds-arbitrage
+- discounted-cash-flow
+- dcf-valuation
+- liquidity
+- curve-fitting
+- credit-default-swaps
+- gamma-hedging
+- hedge-effectiveness
+- storage-costs
+- roll-yield
+- cost-of-debt
+- risk-premium
+- spot-rates
+- put-options
+- cds-coupons
+- affine-term-structure
+- multi-period-binomial
+- algorithmic-trading
+- momentum
+- discrete-time-pricing
+- hedge-strategies
+- antithetic-variates
+- term-structure
+- covered-calls
+- swap-rate
+- sofr
+- cds-bond-basis
+- stress-testing
+- roll-over-risk
+- ornstein-uhlenbeck
+- par-yield
+- investment-analysis
+- path-dependency
+- value-at-risk
+- metals-trading
+- risky-continuation
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- variance-reduction
+- stochastic-integration
+- cross-hedging
+- seasonality
+- european-options
+- clean-price
+- yield-curve-shocks
+- high-frequency-trading
+- lattice-models
+- strangles
+- conditional-var
+- fixed-income
+- cox-ross-rubinstein
+- short-rate-models
+- cost-of-equity
+- least-squares-mc
+- swap-spread
+- optional-exercise
+- marking-to-market
+- binomial-option-pricing
+- total-return-swaps
+- libor
+- premium-leg
+- multi-factor-models
+- ito-calculus
+- iron-condors
+- option-pricing
+- equity-value
+- financial-markets
+- static-hedging
+- size-effect
+- basis-swaps
+- interest-rate-swaps
+- lognormal-distribution
+- ' recombining-trees'
+- futures-contracts
+- quasi-monte-carlo
+- cds-implied-probability
+- apt
+- bootstrap-method
+- current-yield
+title: Teaching Note 3 SwapsFinancial Instruments
+type: course-note
 ---
+--
+
+
 
 Teaching Note 2-Futures Contracts
 **Teaching Note 1Forward Rates Agreement**

@@ -1,20 +1,64 @@
 ---
 tags:
-  - pricing_equation
-  - radon_nikodym
-  - risk_free_return
-  - risk_neutral_probability
-  - state_price_deflator
+- risk_neutral_probability
+- risk-free
+- arbitrage
+- theta
+- probability
+- margin
+- mean-variance
+- discount-rate
+- state_price_deflator
+- risk_free_return
+- dividend
+- discount
+- pricing
+- covariance
+- premium
+- apt
+- put
+- call
+- model
+- factor-model
+- capm
+- radon_nikodym
+- measure
+- valuation
+- pricing_equation
 aliases:
-  - Alternative Representations
-  - Risk-Neutral Valuation
+- Alternative Representations
+- Risk-Neutral Valuation
 key_concepts:
-  - Asset price
-  - Radon-Nikodym derivative
-  - Risk-free return
-  - Risk-neutral probability measure
-  - State-price deflator
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial derivatives pricing and valuation
+- Arbitrage pricing theory and no-arbitrage principle
+- Capital Asset Pricing Model and risk-return tradeoff
+- Discount Rate in financial markets
+- Factor Model in financial markets
+- Interest Rate in financial markets
+- Mean Variance in financial markets
+- Risk Free in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000423
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 4.6 A preview of alternative formulations  
 

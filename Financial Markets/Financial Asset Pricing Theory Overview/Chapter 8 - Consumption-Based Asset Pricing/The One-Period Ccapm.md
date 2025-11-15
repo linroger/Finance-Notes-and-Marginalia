@@ -1,20 +1,64 @@
 ---
 tags:
-  - asset_pricing
-  - ccapm
-  - consumption_based_model
-  - consumption_growth
-  - risk_aversion
+- delta
+- risk-free
+- risk_aversion
+- margin
+- growth
+- consumption_growth
+- gamma
+- pricing
+- correlation
+- covariance
+- premium
+- consumption_based_model
+- rho
+- model
+- market
+- asset_pricing
+- variance
+- var
+- capm
+- growth-rate
+- portfolio
+- ccapm
 aliases:
-  - One-Period CCAPM
-  - Simple CCAPM
+- One-Period CCAPM
+- Simple CCAPM
 key_concepts:
-  - Expected excess returns
-  - Marginal rate of substitution
-  - Risk-free return
-  - State-price deflator
-  - Time-additive utility
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Capital Asset Pricing Model and risk-return tradeoff
+- Correlation modeling and dependency structures
+- Delta hedging strategies in options markets
+- Gamma risk and convexity adjustments in options
+- Growth Rate in financial markets
+- Risk Free in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000426
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 8.2 The one-period CCAPM  
 

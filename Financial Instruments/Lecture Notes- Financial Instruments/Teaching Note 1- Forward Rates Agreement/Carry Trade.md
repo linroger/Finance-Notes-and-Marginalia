@@ -1,22 +1,149 @@
 ---
-linter-yaml-title-alias: GOVERNMENT OF CANADA BOND FUTURES
-title: Carry Trade
-tags:
-  - arbitrage
-  - carry_trade
-  - futures_market
-  - market_neutral
-  - spot_market
+academic_level: graduate
 aliases:
-  - Cash-and-Carry
-  - Reverse Carry Trade
+- Cash-and-Carry
+- Reverse Carry Trade
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000153
 key_concepts:
-  - Arbitrage strategy
-  - Contango and backwardation
-  - Futures vs spot prices
-  - Market neutral strategy
-  - Profit from price spread
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Heath-Jarrow-Morton (HJM) and forward rate dynamics
+- Arbitrage opportunities and no-arbitrage pricing
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Duration and Convexity in Fixed Income Risk Management
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Delta, Gamma, and Vega Hedging Techniques
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Stress Testing and Extreme Value Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Dynamic vs Static Hedging in Practice
+- Term Structure of Interest Rates and Yield Curves
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Interest Rate Risk and DV01 Calculations
+- Hedging Strategies and Risk Mitigation
+linter-yaml-title-alias: GOVERNMENT OF CANADA BOND FUTURES
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- asset-allocation
+- caplet
+- convexity-adjustment
+- credit-rating
+- currency-strategy
+- debit-valuation-adjustment
+- delta-hedging
+- duration-analysis
+- dynamic-hedging
+- exchange-rates
+- fixed-income-sensitivity
+- forward-contracts
+- forward-curve
+- forward-pricing
+- hull-white
+- cir-model
+- expected-shortfall
+- extreme-value-theory
+- arbitrage
+- backwardation
+- volatility-analysis
+- yield-curve
+- unexpected-loss
+- clearinghouse
+- interpolation
+- interest-rate-risk
+- hedge-ratio
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- vasicek-model
+- monte-carlo-var
+- market-impact
+- forward-rates
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- modified-duration
+- expected-loss
+- market-efficiency
+- order-flow
+- bid-ask-spread
+- probabilty-of-default
+- liquidity
+- curve-steepening
+- curve-fitting
+- gamma-hedging
+- hedge-effectiveness
+- roll-yield
+- risk-premium
+- spot-rates
+- affine-term-structure
+- algorithmic-trading
+- curve-flattening
+- basis-risk
+- convexity
+- hedge-strategies
+- term-structure
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- investment-analysis
+- value-at-risk
+- barbell-strategy
+- risk-management
+- convergence
+- var-backtesting
+- cross-hedging
+- yield-curve-shocks
+- high-frequency-trading
+- conditional-var
+- dv01
+- short-rate-models
+- price-yield-relationship
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- financial-markets
+- macaulay-duration
+- static-hedging
+- futures-contracts
+- bootstrap-method
+title: Carry Trade
+type: course-note
 ---
+--
+
+
 
 Lecture Note 1- Forward Rates Agreement
 Teaching Note 2-Futures Contracts

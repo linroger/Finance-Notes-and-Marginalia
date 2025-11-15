@@ -1,20 +1,59 @@
 ---
 tags:
-  - arbitrage
-  - bond_pricing
-  - law_of_one_price
-  - market_efficiency
-  - replicating_portfolio
+- eur
+- arbitrage
+- replicating_portfolio
+- maturity
+- repo
+- coupon
+- implied
+- bond_pricing
+- future
+- discount
+- pricing
+- apt
+- put
+- rho
+- bond
+- law_of_one_price
+- call
+- rating
+- market_efficiency
+- market
+- treasury
+- fail
+- roa
+- portfolio
 aliases:
-  - Arbitrage Opportunity
-  - Law of One Price
+- Arbitrage Opportunity
+- Law of One Price
 key_concepts:
-  - Arbitrage profit generation
-  - Law of one price
-  - Market price adjustment
-  - Replicating portfolio
-  - Riskless profit trade
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Arbitrage pricing theory and no-arbitrage principle
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000157
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 1.4 ARBITRAGE AND THE LAW OF ONE PRICE  
 

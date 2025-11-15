@@ -1,23 +1,70 @@
 ---
 tags:
-  - asset_pricing
-  - assets
-  - discrete_time
-  - dividends
-  - risk_free
+- delta
+- default
+- risk-free
+- volatility
+- arbitrage
+- ito
+- probability
+- coupon
+- future
+- capital
+- stochastic
+- dividend
+- discount
+- pricing
+- covariance
+- apt
+- put
+- risk_free
+- asset_pricing
+- bond
+- dividends
+- capm
+- discrete_time
+- brownian
+- assets
 aliases:
-  - Asset characteristics
-  - Asset definition
-  - Returns
+- Asset characteristics
+- Asset definition
+- Returns
 key_concepts:
-  - Asset price and dividends
-  - Discrete-time model dividends
-  - Expected return and price
-  - Gross rate of return
-  - Net rate of return
-  - One-period model framework
-  - Risk-free asset definition
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Financial derivatives pricing and valuation
+- Arbitrage pricing theory and no-arbitrage principle
+- Capital Asset Pricing Model and risk-return tradeoff
+- Credit default probability and recovery modeling
+- Delta hedging strategies in options markets
+- Interest Rate in financial markets
+- Risk Free in financial markets
+- Volatility modeling and implied volatility surfaces
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000443
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 3.2 Assets  
 

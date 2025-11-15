@@ -1,20 +1,64 @@
 ---
 tags:
-  - asset_pricing
-  - inflation
-  - monetary_economies
-  - real_nominal_rates
-  - term_structure
+- delta
+- risk-free
+- multiple
+- ito
+- theta
+- maturity
+- margin
+- growth
+- coupon
+- optimization
+- dividend
+- gamma
+- pricing
+- hedging
+- monetary_economies
+- real_nominal_rates
+- covariance
+- term-structure
+- put
+- term_structure
+- asset_pricing
+- bond
+- inflation
+- stochastic
+- brownian
 aliases:
-  - Nominal Interest Rates
-  - Real vs Nominal Rates
+- Nominal Interest Rates
+- Real vs Nominal Rates
 key_concepts:
-  - Expected inflation rate
-  - Nominal state-price deflator
-  - Real short-term interest rate
-  - Real vs nominal bonds
-  - Real, nominal interest rates
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial derivatives pricing and valuation
+- Delta hedging strategies in options markets
+- Gamma risk and convexity adjustments in options
+- Interest Rate in financial markets
+- Risk Free in financial markets
+- Term Structure in financial markets
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000459
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 10.6 Real and nominal interest rates and term structures  
 

@@ -1,34 +1,45 @@
 ---
 cssclasses:
-  - academia
-title: "Class Note 4: Restructuring Debt Outside Bankruptcy"
+- academia
+title: 'Class Note 4: Restructuring Debt Outside Bankruptcy'
 tags:
-  - bank_debt
-  - bankruptcy
-  - bondholders
-  - public_debt
-  - renegotiation
-  - debt_restructuring
-  - going_concern_value
-  - trust_indenture_act
-  - debt_concessions
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- caplet
+- cds
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
 aliases:
-  - Bank Debt
-  - Class Note 4
-  - Restructuring Outside Bankruptcy
-  - Debt Renegotiation
+- Bank Debt
+- Class Note 4
+- Restructuring Outside Bankruptcy
+- Debt Renegotiation
 key_concepts:
-  - Bank lending limit
-  - Bankruptcy implications
-  - Private placement debt
-  - Public debt concessions
-  - Single bank lender
-  - Going concern value
-  - Trust indenture act
-  - Senior vs junior debt
-  - Debt covenant restrictions
-  - Me-first rules
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
 
 # Class Note 4: Restructuring Debt Outside Bankruptcy
 

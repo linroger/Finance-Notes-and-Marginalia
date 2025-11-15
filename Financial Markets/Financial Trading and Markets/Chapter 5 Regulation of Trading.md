@@ -1,20 +1,76 @@
 ---
 tags:
-  - financial_markets
-  - government_regulation
-  - market_failure
-  - regulatory_approaches
-  - securities_markets
+- efficiency
+- leverage
+- regulatory_approaches
+- stress-test
+- volatility
+- multiple
+- eur
+- hedge
+- securities_markets
+- lehman
+- senior
+- margin
+- energy
+- commodity
+- future
+- regulation
+- swap
+- financial_markets
+- pricing
+- option
+- mbs
+- compliance
+- put
+- government_regulation
+- market_failure
 aliases:
-  - Market Regulation
-  - Regulation Overview
+- Market Regulation
+- Regulation Overview
 key_concepts:
-  - Financial regulators powers
-  - Licensing, chartering, registration
-  - Maintain market competition
-  - Prevent market failure
-  - Protect investors and taxpayers
+- American option pricing and early exercise
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Arbitrage pricing theory and no-arbitrage principle
+- Bear Stearns in financial markets
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Dodd Frank in financial markets
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Market Risk in financial markets
+- Stress testing and scenario analysis
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000267
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Regulation of Trading and Securities Markets  
 

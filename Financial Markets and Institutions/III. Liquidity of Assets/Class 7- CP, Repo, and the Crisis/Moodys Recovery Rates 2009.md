@@ -1,20 +1,60 @@
 ---
 title: Moodys Recovery Rates 2009
 tags:
-  - corporate_default
-  - credit_loss_rates
-  - financial_industry
-  - moodys_recovery_rates
-  - recovery_rates
+- credit_loss_rates
+- recovery_rates
+- financial_industry
+- moodys_recovery_rates
+- corporate_default
+- event-study
+- stress-test
+- mertons-model
+- caps-floors
+- high-yield
+- yield-to-maturity
+- distressed
+- private-equity
+- financial-markets
+- leveraged-buyout
+- regulatory-capital
+- risk-management
+- pingan
+- hedge-fund
+- capital-structure
 aliases:
-  - Corporate Default Study
-  - Moody's 2009 Recovery Rates
+- Corporate Default Study
+- Moody's 2009 Recovery Rates
 key_concepts:
-  - corporate default rates
-  - credit loss calculations
-  - cumulative accuracy profile
-  - distressed exchanges
-  - financial industry defaults
+- cumulative accuracy profile
+- distressed exchanges
+- financial industry defaults
+- credit loss calculations
+- corporate default rates
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
+- Time series analysis and forecasting models
 ---
 
 # Moodys Recovery Rates 2009

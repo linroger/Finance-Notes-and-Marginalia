@@ -1,22 +1,85 @@
 ---
 tags:
-  - bond_valuation
-  - interest_rate_risk
-  - inverse_floater
-  - structured_products
-  - yield_curve
+- delta
+- backwardation
+- cds
+- leverage
+- contango
+- arbitrage
+- bond_valuation
+- yield_curve
+- maturity
+- prepayment
+- coupon
+- forward
+- inverse_floater
+- equity
+- spot-price
+- discount
+- hedging
+- interest_rate_risk
+- structured_products
+- tranche
+- trading
+- market
+- currency
+- treasury
+- valuation
 aliases:
-  - floating rate bond
-  - inverse floater
-  - structured notes
-  - yield curve structures
+- floating rate bond
+- inverse floater
+- structured notes
+- yield curve structures
 key_concepts:
-  - cash flow engineering
-  - floating rate bond pricing
-  - inverse floater coupon payout
-  - investor interest rate exposure
-  - structured bond building blocks
+- Option Greeks and risk sensitivities
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Bond duration and interest rate risk
+- Bond convexity and price-yield relationships
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Arbitrage pricing theory and no-arbitrage principle
+- Convexity adjustments for bond portfolio management
+- Correlation modeling and dependency structures
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Delta hedging strategies in options markets
+- Duration and interest rate risk measurement
+- Futures Contract in financial markets
+- Gamma risk and convexity adjustments in options
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Knock Out in financial markets
+- LIBOR transition and benchmark rate reform
+- Pass Through in financial markets
+- Mortgage prepayment modeling and MBS analysis
+- Asset securitization and structured finance
+- Spot Price in financial markets
+- Swaption pricing and interest rate option strategies
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Zero Coupon in financial markets
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000337
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 8.2 INTEREST RATE AND YIELD CURVE-BASED STRUCTURED PRODUCTS  
 

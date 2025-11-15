@@ -1,23 +1,69 @@
 ---
 tags:
-  - capital_asset_pricing
-  - efficient_market
-  - investment_thought
-  - portfolio_theory
-  - value_investing
+- leverage
+- regression
+- eur
+- margin
+- value_investing
+- discount-rate
+- implied
+- momentum
+- regulation
+- yield-curve
+- dividend
+- efficient_market
+- investment_thought
+- pricing
+- correlation
+- distribution
+- intrinsic
+- put
+- trading
+- gold
+- factor-model
+- capm
+- capital_asset_pricing
+- valuation
+- portfolio_theory
 aliases:
-  - Graham's Philosophy
-  - Investment History
-  - Markowitz's Theory
+- Graham's Philosophy
+- Investment History
+- Markowitz's Theory
 key_concepts:
-  - Active vs passive style
-  - Efficient market hypothesis
-  - Portfolio theory
-  - Rational investment philosophy
-  - Risk and return
-  - Short-term vs value
-  - Value investing father
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Arbitrage pricing theory and no-arbitrage principle
+- Asset Allocation in financial markets
+- Capital Asset Pricing Model and risk-return tradeoff
+- Correlation modeling and dependency structures
+- Discount Rate in financial markets
+- Factor Model in financial markets
+- Mean Variance in financial markets
+- P E in financial markets
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000356
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 11.1 A BRIEF HISTORY OF INVESTMENT THOUGHT  
 

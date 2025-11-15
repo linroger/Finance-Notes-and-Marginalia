@@ -1,24 +1,144 @@
 ---
-title: Python Convert JSON to CSV
-source: https://blog.enterprisedna.co/python-convert-json-to-csv/
-description:
-tags:
-  - csv_conversion
-  - data_analysis
-  - json_to_csv
-  - pandas
-  - python
+academic_level: graduate
 aliases:
-  - CSV conversion
-  - JSON conversion
-  - JSON to CSV
+- CSV conversion
+- JSON conversion
+- JSON to CSV
+description: null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000033
 key_concepts:
-  - CSV file format
-  - Convert JSON to CSV
-  - JSON file format
-  - Pandas library usage
-  - Python data conversion
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Auto-Callable Notes and Barrier Options
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Equity-Linked Notes and Market-Linked Securities
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Flexibility Value in Capital Budgeting
+- Structured Products and Principal Protection
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Option to Expand and Investment Timing
+- Private Equity Investment Returns and Value Creation
+- Option Valuation and Exercise Strategies
+- Real Options in Strategic Investment Decisions
+- Credit Spreads and Rating Migration Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+source: https://blog.enterprisedna.co/python-convert-json-to-csv/
+status: active
+tags:
+- arch
+- binomial-model
+- black-scholes-model
+- cds
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- data-analysis
+- default-probability
+- put-options
+- barrier-options
+- option-to-expand
+- affine-term-structure
+- recovery-rate
+- hull-white
+- call-options
+- cir-model
+- leveraged-buyout
+- lbo-valuation
+- equity-kickers
+- principal-protected-notes
+- butterfly-spreads
+- momentum
+- strangles
+- real-options
+- expected-shortfall
+- straddles
+- parametric-var
+- extreme-value-theory
+- book-to-market
+- var-methodologies
+- historical-var
+- mean-reversion
+- lognormal-models
+- equity-linked-notes
+- option-to-abandon
+- covered-calls
+- ' exposure-at-default'
+- style-analysis
+- short-rate-models
+- leverage-ratio
+- option-strategies
+- stress-testing
+- timing-options
+- unexpected-loss
+- ornstein-uhlenbeck
+- rating-migration
+- debt-capacity
+- expected-loss
+- credit-migration
+- value-at-risk
+- auto-callables
+- credit-spreads
+- flexibility-value
+- strategic-investment
+- arbitrage-pricing-theory
+- multi-factor-models
+- structured-notes
+- market-linked-notes
+- private-equity
+- investment-return
+- iron-condors
+- protective-puts
+- market-price-of-risk
+- management-buyout
+- bootstrap-strategy
+- probabilty-of-default
+- loss-given-default
+- size-effect
+- factor-models
+- knock-out-options
+- value-factor
+- reverse-convertibles
+- vasicek-model
+- monte-carlo-var
+- var-backtesting
+- options-trading
+- apt
+- natural-resource-valuation
+- risk-premium
+- fama-french
+title: Python Convert JSON to CSV
+type: note
 ---
+--
+
+
 
 # Python Convert JSON to CSV
 

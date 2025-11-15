@@ -1,21 +1,65 @@
 ---
 tags:
-  - fed_funds_futures
-  - fed_funds_market
-  - futures_contracts
-  - interest_rates
-  - monetary_policy
+- pandemic
+- fed_funds_market
+- probability
+- futures_contracts
+- spot-rate
+- covid
+- forward
+- implied
+- future
+- regulation
+- sofr
+- monetary_policy
+- interest_rates
+- discount
+- hedging
+- term-structure
+- premium
+- fed_funds_futures
+- put
+- crisis
+- overnight
+- spread
+- credit-risk
+- forward-rate
+- fed-funds
 aliases:
-  - FF Futures
-  - Fed Funds
-  - Fed Funds Futures
+- FF Futures
+- Fed Funds
+- Fed Funds Futures
 key_concepts:
-  - Federal Reserve system
-  - abundant reserves regime
-  - effective fed funds rate
-  - overnight borrowing/lending
-  - policy target range
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Credit Risk in financial markets
+- Fed Funds in financial markets
+- Forward Rate in financial markets
+- Futures Contract in financial markets
+- Interest Rate in financial markets
+- SOFR implementation and overnight rate markets
+- Spot Rate in financial markets
+- Term Structure in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000249
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 12.3 FED FUND FUTURES  
 

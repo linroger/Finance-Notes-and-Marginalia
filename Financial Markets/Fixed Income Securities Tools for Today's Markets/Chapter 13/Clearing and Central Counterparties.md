@@ -1,21 +1,69 @@
 ---
 tags:
-  - bilateral_swaps
-  - ccp_risk
-  - central_counterparties
-  - cleared_swaps
-  - clearinghouse
+- default
+- leverage
+- eur
+- volatility
+- ito
+- usd
+- clearinghouse
+- margin
+- bilateral_swaps
+- repo
+- gbp
+- central_counterparties
+- forward
+- capital
+- cleared_swaps
+- swap
+- jpy
+- counterparty
+- option
+- dcf
+- put
+- trading
+- ccp_risk
+- crisis
+- credit-risk
 aliases:
-  - Bilateral Swap
-  - CCP
-  - Cleared Swap
+- Bilateral Swap
+- CCP
+- Cleared Swap
 key_concepts:
-  - Bilateral vs. Cleared Swaps
-  - Cash flow risk
-  - Central Counterparty (CCP)
-  - Clearinghouse Members
-  - Default Backstopping
+- Option valuation and hedging strategies
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Market liquidity and microstructure effects
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Credit Risk in financial markets
+- Discounted Cash Flow valuation methodology
+- Credit default probability and recovery modeling
+- Market liquidity analysis and liquidity risk
+- Market Risk in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000241
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 13.5 CLEARING AND CENTRAL COUNTERPARTIES  
 

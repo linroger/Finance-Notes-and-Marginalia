@@ -2,21 +2,61 @@
 title: Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection
   Update,  March 2009
 tags:
-  - 2007_financial_crisis
-  - loss_projections
-  - mortgage_performance
-  - rmbs
-  - subprime_mortgages
+- mortgage_performance
+- rmbs
+- 2007_financial_crisis
+- subprime_mortgages
+- loss_projections
+- event-study
+- stress-test
+- mertons-model
+- caps-floors
+- high-yield
+- yield-to-maturity
+- distressed
+- private-equity
+- cdos
+- leveraged-buyout
+- regulatory-capital
+- risk-management
+- financial-markets
+- banking
+- forwards
 aliases:
-  - Loss Projection Update
-  - Moody's Report
-  - Subprime RMBS
+- Loss Projection Update
+- Moody's Report
+- Subprime RMBS
 key_concepts:
-  - Delinquency projection methodology
-  - Homeowner Affordability Plan
-  - Recent vintage subprime pools
-  - Subprime RMBS loss projections
-  - Updated loss projection results
+- Delinquency projection methodology
+- Subprime RMBS loss projections
+- Updated loss projection results
+- Recent vintage subprime pools
+- Homeowner Affordability Plan
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
+- Time series analysis and forecasting models
 ---
 
 # Moodys Structured Finance Rating Methodology Subprime RMBS Loss Projection Update,  March 2009

@@ -1,3 +1,78 @@
+---
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Chapter 3 The Changing Value of Money and financial analysis
+- Chapter 3 The Changing Value of Money in modern finance
+- Applications of Chapter 3 The Changing Value of Money
+- 'Case study: Chapter 3 The Changing Value of Money'
+- Credit default probability and recovery modeling
+- Exchange Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+tags:
+- eur
+- monetary-policy
+- hedge
+- swaps
+- risk-management
+- irs
+- interest-rates
+- distribution
+- put
+- gold
+- bond
+- crisis
+- measure
+- valuation
+- default
+- cds
+- options
+- bankruptcy
+- ito
+- growth
+- capital
+- exchange-rate
+- european
+- risk
+- depth
+- credit
+- apt
+- metal
+- call
+- var
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000614
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 Chapter 3: The Changing Value of Money
 
 # **Chapter 3: The Changing Value of Money**

@@ -1,33 +1,47 @@
 ---
 title: Governance in Financial Distress and Bankruptcy
 tags:
-  - bankruptcy
-  - board_turnover
-  - chapter_11
-  - corporate_governance
-  - creditor_rights
-  - distressed_firms
-  - financial_distress
-  - management
-  - restructuring
-  - shareholders
+- arbitrage-opportunity
+- arbitrage-pricing
+- arch
+- asset-backed-securities
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-asset-pricing
+- capital-structure
+- caplet
+- cds
+- coherent-risk-measure
+- collateralized-debt-obligation
 aliases:
-  - Corporate Bankruptcy
-  - Distressed Firm Governance
-  - Financial Distress Governance
-  - Governance in Distress
+- Corporate Bankruptcy
+- Distressed Firm Governance
+- Financial Distress Governance
+- Governance in Distress
 key_concepts:
-  - Automatic stay
-  - Chapter 11 reorganization process
-  - Control rights of stakeholders
-  - Creditor-controlled outcomes
-  - Debtor in possession
-  - Equity holder-creditor conflicts
-  - Framework of control rights
-  - Governance and financial distress
-  - Influence of creditors
-  - Management and board turnover
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Collateralized debt obligations (CDO) and tranche structure
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Risk preference theory and utility functions
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
 
 # Governance in Financial Distress and Bankruptcy
 

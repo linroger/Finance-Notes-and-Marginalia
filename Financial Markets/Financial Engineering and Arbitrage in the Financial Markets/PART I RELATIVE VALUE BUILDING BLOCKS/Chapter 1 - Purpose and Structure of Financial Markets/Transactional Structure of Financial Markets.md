@@ -1,20 +1,69 @@
 ---
 tags:
-  - financial_markets
-  - forward_transactions
-  - risk_transfer
-  - spot_markets
-  - transactional_structure
+- default
+- leverage
+- duration
+- arbitrage
+- hedge
+- forward_transactions
+- margin
+- transactional_structure
+- coupon
+- forward
+- future
+- capital
+- time-value
+- dividend
+- financial_markets
+- pricing
+- option
+- spot_markets
+- compliance
+- put
+- trading
+- bond
+- spread
+- mortgage
+- risk_transfer
 aliases:
-  - Financial Markets Structure
-  - Transactional Finance
+- Financial Markets Structure
+- Transactional Finance
 key_concepts:
-  - Financial market bazaar
-  - Forward buy transaction
-  - Risk transfer mechanism
-  - Spot market transactions
-  - Time of delivery
+- Option valuation and hedging strategies
+- Bond duration and interest rate risk
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial derivatives pricing and valuation
+- Arbitrage pricing theory and no-arbitrage principle
+- Credit default probability and recovery modeling
+- Duration and interest rate risk measurement
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Time Value in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000319
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 1.3 TRANSACTIONAL STRUCTURE OF FINANCIAL MARKETS  
 

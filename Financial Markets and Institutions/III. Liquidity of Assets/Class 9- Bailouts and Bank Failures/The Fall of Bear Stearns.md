@@ -1,23 +1,71 @@
 ---
 title: The Fall of Bear Stearns
 tags:
-  - alan_schwartz
-  - bear_stearns
-  - financial_crisis
-  - henry_paulson
-  - jp_morgan
-  - timothy_geithner
+- leverage
+- alan_schwartz
+- henry_paulson
+- ito
+- solvency
+- hedge
+- senior
+- financial_crisis
+- bear_stearns
+- future
+- bear-stearns
+- gas
+- option
+- asian
+- apt
+- oil
+- rescue
+- credit
+- put
+- trading
+- bond
+- gold
+- call
+- timothy_geithner
+- mortgage
+- jp_morgan
 aliases:
-  - Bear Stearns
-  - Bear Stearns Collapse
-  - JP Morgan
+- Bear Stearns
+- Bear Stearns Collapse
+- JP Morgan
 key_concepts:
-  - Bear Stearns collapse
-  - Financial system impact
-  - Find buyer for firm
-  - J.P. Morgan Chase deal
-  - Paulson pushed low bid
+- Option valuation and hedging strategies
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Bear Stearns in financial markets
+- Risk hedging strategies and instruments
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000034
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # The Fall of Bear Stearns
 ## Bear Stearns Neared Collapse Twice in Frenzied Last Days Paulson Pushed Low Ball Bid Relented; a Testy Time For Dimon

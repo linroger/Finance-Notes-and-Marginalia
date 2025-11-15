@@ -3,21 +3,61 @@ cssclasses: academia
 linter-yaml-title-alias: Corporate Default and Recovery Rates,   1920-2008
 title: Moody's Corporate Default and Recovery Rates,  1920-2008
 tags:
-  - corporate_defaults
-  - default_study
-  - financial_crisis
-  - moodys_ratings
-  - recovery_rates
+- financial_crisis
+- moodys_ratings
+- recovery_rates
+- corporate_defaults
+- default_study
+- event-study
+- stress-test
+- mertons-model
+- caps-floors
+- high-yield
+- yield-to-maturity
+- distressed
+- private-equity
+- financial-markets
+- leveraged-buyout
+- regulatory-capital
+- risk-management
+- strategic-asset-allocation
+- hedge-fund
+- capital-structure
 aliases:
-  - Corporate Default Study
-  - Default and Recovery Rates
-  - Moody's Report
+- Corporate Default Study
+- Default and Recovery Rates
+- Moody's Report
 key_concepts:
-  - Corporate default experience
-  - Credit trends in 2008
-  - Historical statistics
-  - Rating accuracy metrics
-  - Speculative-grade default rate
+- Historical statistics
+- Speculative-grade default rate
+- Corporate default experience
+- Rating accuracy metrics
+- Credit trends in 2008
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
+- Time series analysis and forecasting models
 ---
 
 Default and Recovery Rates,   1920-2008 | Corporate Defaults]]

@@ -1,20 +1,61 @@
 ---
 tags:
-  - 30_360_convention
-  - accrued_interest
-  - actual_360_convention
-  - actual_actual_convention
-  - day_count_conventions
+- actual_360_convention
+- actual_actual_convention
+- coupon
+- spot-rate
+- forward
+- day_count_conventions
+- swap
+- sofr
+- time-value
+- libor
+- 30_360_convention
+- apt
+- market
+- call
+- bond
+- accrued_interest
+- overnight
+- forward-rate
+- interest-rate
 aliases:
-  - Accrued Interest Calculation
-  - Day-Count Conventions
+- Accrued Interest Calculation
+- Day-Count Conventions
 key_concepts:
-  - 30/360 convention
-  - Accrued interest calculation
-  - Actual/360 convention
-  - Actual/actual convention
-  - Day-count conventions explained
+- Interest rate swaps and term structure modeling
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Forward Rate in financial markets
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- SOFR implementation and overnight rate markets
+- Spot Rate in financial markets
+- Time Value in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000158
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 1.7 DAY-COUNT CONVENTIONS  
 

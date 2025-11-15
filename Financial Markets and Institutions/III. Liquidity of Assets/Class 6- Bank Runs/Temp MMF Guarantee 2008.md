@@ -1,35 +1,84 @@
 ---
 cssclasses:
-  - academia
-title: "Temporary Guarantee Program for Money Funds"
-linter-yaml-title-alias: "Temporary Guarantee Program for Money Funds"
+- academia
+title: Temporary Guarantee Program for Money Funds
+linter-yaml-title-alias: Temporary Guarantee Program for Money Funds
 tags:
-  - fund_liquidation
-  - guarantee_event
-  - mmf
-  - temporary_guarantee_program
-  - us_treasury
-  - 2008_financial_crisis
-  - emergency_program
-  - market_stability
-  - government_intervention
+- guarantee_event
+- fund_liquidation
+- mmf
+- us_treasury
+- government_intervention
+- emergency_program
+- multiple
+- market_stability
+- repo
+- temporary_guarantee_program
+- 2008_financial_crisis
+- forward
+- future
+- financial-crisis
+- dividend
+- forwards
+- private-equity
+- distribution
+- h-shares
+- premium
+- mark-to-market
+- credit
+- compliance
+- market
+- investment-strategy
+- treasury
+- financial-markets
+- banking
+- portfolio
+- valuation
+- modern-portfolio-theory
 aliases:
-  - Guarantee Program
-  - Temp MMF Guarantee
-  - Temporary Guarantee Program
-  - "Treasury MMF Guarantee 2008"
+- Guarantee Program
+- Temp MMF Guarantee
+- Temporary Guarantee Program
+- Treasury MMF Guarantee 2008
 key_concepts:
-  - Board findings
-  - Fund liquidation required
-  - Guarantee event triggers
-  - Guarantee payment process
-  - MMF stable NAV
-  - Treasury guarantee coverage
-  - Participation requirements
-  - Coverage limitations
-  - Extension provisions
-  - Crisis response measures
+- Fund liquidation required
+- MMF stable NAV
+- Treasury guarantee coverage
+- Extension provisions
+- Board findings
+- Coverage limitations
+- Crisis response measures
+- Guarantee payment process
+- Guarantee event triggers
+- Participation requirements
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000049
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Temporary Guarantee Program for Money Funds
 

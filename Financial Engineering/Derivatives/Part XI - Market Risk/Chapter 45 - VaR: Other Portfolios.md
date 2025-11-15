@@ -1,20 +1,267 @@
 ---
-tags:
-  - domestic_equity
-  - portfolio_risk
-  - single_index_model
-  - var_calculation
-  - vcv_method
+academic_level: graduate
 aliases:
-  - SIM
-  - Value at Risk
+- SIM
+- Value at Risk
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000383
 key_concepts:
-  - Coupon bond as zero-coupon
-  - Portfolio of foreign stocks
-  - Reduce VaR computations
-  - Single index model (SIM)
-  - VaR for portfolio of options
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Collateralized debt obligations (CDO) and tranche structure
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Alpha generation and active portfolio management
+- Beta estimation and systematic risk measurement
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Correlation analysis and dependency structures
+- Beta estimation and systematic risk measurement
+- Alpha generation and active return measurement
+- Risk preference theory and utility functions
+- Duration and Convexity in Fixed Income Risk Management
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Variance Reduction Techniques in Monte Carlo Methods
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Delta, Gamma, and Vega Hedging Techniques
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Cost of Equity and Expected Returns
+- Stochastic Integration and Path-Dependent Options
+- Forward Curves and Roll Strategies
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Time Series Analysis in Financial Markets
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Factor Models and Asset Pricing
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Dynamic vs Static Hedging in Practice
+- Interest Rate Swaps and Currency Swap Structures
+- Private Equity Investment Returns and Value Creation
+- Term Structure of Interest Rates and Yield Curves
+- Cointegration and Statistical Arbitrage
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- GARCH Models and Volatility Forecasting
+- Credit Spreads and Rating Migration Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Interest Rate Risk and DV01 Calculations
+- Hedging Strategies and Risk Mitigation
+- Monte Carlo Simulation Methods for Derivative Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- arima
+- asset-allocation
+- banking-regulation
+- basel-accord
+- beta-estimation
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-asset-pricing
+- capital-budgeting
+- caplet
+- cds
+- coherent-risk-measure
+- control-variates
+- leveraged-buyout
+- exotic-options
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- yield-curve
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- interpolation
+- overnight-indexed-swaps
+- interest-rate-risk
+- arbitrage-pricing-theory
+- monte-carlo-simulation
+- hedge-ratio
+- private-equity
+- market-price-of-risk
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dirty-price
+- forward-curves
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- forward-rates
+- fama-french
+- stationarity
+- recovery-rate
+- zero-coupon-bonds
+- garch
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- random-walks
+- unit-roots
+- debt-capacity
+- modified-duration
+- expected-loss
+- delta-hedging
+- quantitative-finance
+- forward-curve
+- currency-swaps
+- investment-return
+- systematic-risk
+- protective-puts
+- government-bonds
+- alpha
+- security-market-line
+- probabilty-of-default
+- curve-steepening
+- curve-fitting
+- credit-default-swaps
+- gamma-hedging
+- hedge-effectiveness
+- idiosyncratic-risk
+- storage-costs
+- roll-yield
+- beta
+- risk-premium
+- spot-rates
+- put-options
+- affine-term-structure
+- equity-kickers
+- capm
+- lbo-valuation
+- momentum
+- curve-flattening
+- basis-risk
+- market-risk-premium
+- convexity
+- volatility-modeling
+- hedge-strategies
+- antithetic-variates
+- term-structure
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- regime-switching
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- investment-analysis
+- portfolio-optimization
+- duration-analysis
+- path-dependency
+- value-at-risk
+- bootstrap-strategy
+- metals-trading
+- kalman-filter
+- management-buyout
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- barbell-strategy
+- risk-management
+- convergence
+- var-backtesting
+- arima-models
+- variance-reduction
+- stochastic-integration
+- state-space-models
+- cross-hedging
+- seasonality
+- clean-price
+- yield-curve-shocks
+- strangles
+- conditional-var
+- fixed-income
+- cointegration
+- dv01
+- short-rate-models
+- least-squares-mc
+- swap-spread
+- efficient-frontier
+- price-yield-relationship
+- credit-migration
+- default-probability
+- marking-to-market
+- total-return-swaps
+- libor
+- credit-spreads
+- granger-causality
+- multi-factor-models
+- iron-condors
+- financial-markets
+- macaulay-duration
+- static-hedging
+- size-effect
+- basis-swaps
+- interest-rate-swaps
+- futures-contracts
+- quasi-monte-carlo
+- apt
+- bootstrap-method
+- current-yield
+type: note
 ---
+--
+
+
+
 # VaR: Other Portfolios  
 
 # Aims  

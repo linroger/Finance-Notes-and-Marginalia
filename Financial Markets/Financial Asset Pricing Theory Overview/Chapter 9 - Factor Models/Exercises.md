@@ -1,23 +1,66 @@
 ---
 tags:
-  - continuous_time
-  - discrete_time_economy
-  - linear_factor_model
-  - mean_variance
-  - state_price_deflator
+- delta
+- mean_variance
+- risk-free
+- arbitrage
+- ito
+- linear_factor_model
+- growth
+- discrete_time_economy
+- coupon
+- mean-variance
+- future
+- state_price_deflator
+- dividend
+- gamma
+- pricing
+- distribution
+- continuous_time
+- apt
+- put
+- market
+- bond
+- model
+- factor-model
+- capm
+- valuation
 aliases:
-  - Exercise 9.1
-  - Exercise 9.2
-  - Exercise 9.3
-  - Exercise 9.4
+- Exercise 9.1
+- Exercise 9.2
+- Exercise 9.3
+- Exercise 9.4
 key_concepts:
-  - continuous-time framework
-  - discrete-time economy
-  - linear factor model
-  - market price of risk
-  - mean-variance frontier
-  - state-price deflator
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Arbitrage pricing theory and no-arbitrage principle
+- Capital Asset Pricing Model and risk-return tradeoff
+- Delta hedging strategies in options markets
+- Factor Model in financial markets
+- Gamma risk and convexity adjustments in options
+- Growth Rate in financial markets
+- Mean Variance in financial markets
+- Risk Free in financial markets
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000403
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 9.8 Exercises  
 

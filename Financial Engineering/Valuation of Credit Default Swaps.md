@@ -1,21 +1,254 @@
 ---
-tags:
-  - credit_default_swaps
-  - credit_risk
-  - derivative_contract
-  - market_standard
-  - valuation_model
+academic_level: graduate
 aliases:
-  - CDS Valuation
-  - Credit Derivatives
-  - O'Kane & Turnbull
+- CDS Valuation
+- Credit Derivatives
+- O'Kane & Turnbull
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000506
 key_concepts:
-  - Credit default swap
-  - Credit event
-  - Market standard model
-  - Protection buyer/seller
-  - Trading credit risk
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- LIBOR market model and multi-curve framework
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Distressed Investing and Debt Restructuring
+- Flexibility Value in Capital Budgeting
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Credit Default Swaps and CDS Pricing
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Hedge Strategies and Basis Risk Management
+- Option to Expand and Investment Timing
+- American Option Pricing and Early Exercise Premium
+- Interest Rate Swaps and Currency Swap Structures
+- Private Equity Investment Returns and Value Creation
+- Term Structure of Interest Rates and Yield Curves
+- Option Valuation and Exercise Strategies
+- CDS Spreads and Implied Default Probabilities
+- Credit Spreads and Rating Migration Analysis
+- Real Options in Strategic Investment Decisions
+- Market Microstructure and Liquidity Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Credit Risk Transfer and Synthetic Instruments
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-free-models
+- arbitrage-opportunity
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cds
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- binomial-tree
+- straddles
+- extreme-value-theory
+- american-options
+- book-to-market
+- arbitrage
+- exchange-offers
+- backwardation
+- option-to-abandon
+- volatility-analysis
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- cramdown
+- corporate-bonds
+- yield-curve
+- timing-options
+- unexpected-loss
+- clearinghouse
+- debt-restructuring
+- cds-spreads
+- interpolation
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- private-equity
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- dirty-price
+- distressed-investing
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- forward-contracts
+- yield-to-maturity
+- forward-rates
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- real-options
+- strategic-investment
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- debt-capacity
+- expected-loss
+- market-efficiency
+- quantitative-finance
+- forward-curve
+- order-flow
+- currency-swaps
+- default-leg
+- bid-ask-spread
+- crr-model
+- foreign-recurrency
+- protective-puts
+- government-bonds
+- cds-arbitrage
+- investment-return
+- probabilty-of-default
+- liquidity
+- curve-fitting
+- credit-default-swaps
+- roll-yield
+- risk-premium
+- spot-rates
+- put-options
+- cds-coupons
+- affine-term-structure
+- equity-kickers
+- multi-period-binomial
+- lbo-valuation
+- algorithmic-trading
+- momentum
+- option-to-expand
+- basis-risk
+- discrete-time-pricing
+- term-structure
+- cds-bond-basis
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- flexibility-value
+- bootstrap-strategy
+- management-buyout
+- blocker-strategy
+- risky-continuation
+- factor-models
+- creditor-committees
+- risk-management
+- convergence
+- var-backtesting
+- tender-offers
+- sum-of-parts
+- ' DIP-financing'
+- clean-price
+- yield-curve-shocks
+- high-frequency-trading
+- lattice-models
+- strangles
+- fixed-income
+- cox-ross-rubinstein
+- short-rate-models
+- swap-spread
+- optional-exercise
+- credit-migration
+- default-probability
+- marking-to-market
+- binomial-option-pricing
+- total-return-swaps
+- libor
+- credit-spreads
+- premium-leg
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- size-effect
+- basis-swaps
+- precedent-transactions
+- interest-rate-swaps
+- ipo-valuation
+- market-multiple
+- ' recombining-trees'
+- futures-contracts
+- cds-implied-probability
+- apt
+- bootstrap-method
+- natural-resource-valuation
+- current-yield
+type: note
 ---
+--
+
+
 
 # Valuation of Credit Default Swaps
 

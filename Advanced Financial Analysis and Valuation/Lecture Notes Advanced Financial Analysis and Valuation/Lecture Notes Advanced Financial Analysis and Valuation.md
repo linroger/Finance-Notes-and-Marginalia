@@ -1,26 +1,65 @@
 ---
-cssclasses: academia
-title: Lecture Notes Advanced Financial Analysis and Valuation
-linter-yaml-title-alias: Lecture Notes Advanced Financial Analysis and Valuation
+academic_level: graduate
 aliases:
-  - Advanced Financial Analysis Course Notes
-  - MBA Valuation Lecture Notes
-tags:
-  - advanced_financial_analysis
-  - lecture_notes
-  - valuation
-  - corporate_finance
-  - financial_modeling
+- Advanced Financial Analysis Course Notes
+- MBA Valuation Lecture Notes
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000259
 key_concepts:
-  - Financial forecasting techniques
-  - Valuation of growth companies
-  - Industry analysis methods
-  - Bank valuation models
-  - International investment risks
-  - Private company valuation
-  - ESO valuation
-  - Platform business models
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Risk Measurement and VaR Backtesting
+- Comparable Company Analysis and Trading Multiples
+- Value at Risk and Expected Shortfall
+- Company Valuation and Multiple Analysis
+- Stress Testing and Extreme Value Analysis
+linter-yaml-title-alias: Lecture Notes Advanced Financial Analysis and Valuation
+professional_application: theoreti
+status: active
+tags:
+- asset-allocation
+- counterparty-risk
+- credit-exposure
+- credit-valuation-adjustment
+- debit-valuation-adjustment
+- funding-costs
+- hedging
+- portfolio-management
+- risk-management
+- self-cva
+- leveraged-buyout
+- sum-of-parts
+- dcf-analysis
+- expected-shortfall
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- var-methodologies
+- historical-var
+- stress-testing
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- trading-multiples
+- financial-markets
+- precedent-transactions
+- ipo-valuation
+- monte-carlo-var
+- var-backtesting
+- market-multiple
+- price-to-earnings
+title: Lecture Notes Advanced Financial Analysis and Valuation
+type: course-note
 ---
+--
+
+
 # Lecture Notes Advanced Financial Analysis and Valuation
 
 %% Begin Waypoint %%

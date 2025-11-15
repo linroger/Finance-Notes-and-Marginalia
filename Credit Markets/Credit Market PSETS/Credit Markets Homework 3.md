@@ -1,36 +1,195 @@
 ---
-title: Credit Markets Homework 3
-cssclasses: 
-  - academia
-tags:
-  - bond_pricing
-  - bootstrapping
-  - credit_market_homework
-  - duration_convexity
-  - fixed_rate_bond
-  - perpetual_bond
-  - scenario_analysis
-  - sofr_swap
-  - yield_curve
-  - cds_calibration
-  - hazard_rates
-  - risk_metrics
+academic_level: graduate
 aliases:
-  - Credit Markets
-  - Homework 3
-  - Perpetual Bond
-  - SOFR Curve
+- Credit Markets
+- Homework 3
+- Perpetual Bond
+- SOFR Curve
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000312
 key_concepts:
-  - Bond price and risk analysis
-  - DV01 and duration calculations
-  - Fixed rate corporate bond pricing
-  - Perpetual bond valuation
-  - SOFR yield curve calibration
-  - Scenario analysis for bonds
-  - US SOFR swap curve bootstrapping
-  - CDS spread calibration
-  - Hazard rate curves
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Bootstrap methods and yield curve construction
+- SOFR benchmarks and risk-free rate transition
+- QuantLib library and quantitative finance implementation
+- Risk preference theory and utility functions
+- Duration and Convexity in Fixed Income Risk Management
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Company Valuation and Multiple Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Comparable Company Analysis and Trading Multiples
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Credit Default Swaps and CDS Pricing
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Interest Rate Swaps and Currency Swap Structures
+- Private Equity Investment Returns and Value Creation
+- Term Structure of Interest Rates and Yield Curves
+- CDS Spreads and Implied Default Probabilities
+- Credit Spreads and Rating Migration Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Credit Risk Transfer and Synthetic Instruments
+- Interest Rate Risk and DV01 Calculations
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- array-computing
+- benchmark-reform
+- bootstrap-method
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cds
+- cds-flatness-steepness
+- collateral-rates
+- convexity-adjustment
+- cost-of-capital
+- counterparty-risk
+- credit-curve
+- credit-default-swap
+- credit-derivatives
+- leveraged-buyout
+- dcf-analysis
+- expected-shortfall
+- extreme-value-theory
+- book-to-market
+- backwardation
+- volatility-analysis
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- corporate-bonds
+- yield-curve
+- unexpected-loss
+- clearinghouse
+- cds-spreads
+- interpolation
+- overnight-indexed-swaps
+- interest-rate-risk
+- arbitrage-pricing-theory
+- hedge-ratio
+- private-equity
+- loss-given-default
+- value-factor
+- dirty-price
+- monte-carlo-var
+- coupon-bonds
+- forward-contracts
+- yield-to-maturity
+- forward-rates
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- var-methodologies
+- historical-var
+- contango
+- debt-capacity
+- modified-duration
+- expected-loss
+- quantitative-finance
+- forward-curve
+- currency-swaps
+- default-leg
+- investment-return
+- foreign-recurrency
+- cds-arbitrage
+- government-bonds
+- probabilty-of-default
+- curve-steepening
+- curve-fitting
+- credit-default-swaps
+- roll-yield
+- spot-rates
+- cds-coupons
+- equity-kickers
+- lbo-valuation
+- momentum
+- curve-flattening
+- basis-risk
+- convexity
+- term-structure
+- cds-bond-basis
+- sofr
+- swap-rate
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- rating-migration
+- par-yield
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- duration-analysis
+- value-at-risk
+- bootstrap-strategy
+- management-buyout
+- risky-continuation
+- factor-models
+- barbell-strategy
+- risk-management
+- convergence
+- var-backtesting
+- sum-of-parts
+- clean-price
+- yield-curve-shocks
+- conditional-var
+- fixed-income
+- dv01
+- swap-spread
+- price-yield-relationship
+- credit-migration
+- default-probability
+- marking-to-market
+- total-return-swaps
+- libor
+- credit-spreads
+- premium-leg
+- multi-factor-models
+- trading-multiples
+- financial-markets
+- macaulay-duration
+- size-effect
+- basis-swaps
+- precedent-transactions
+- interest-rate-swaps
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- cds-implied-probability
+- apt
+- current-yield
+title: Credit Markets Homework 3
+type: note
 ---
+--
+
+
 
 # Credit Markets Homework 3
 

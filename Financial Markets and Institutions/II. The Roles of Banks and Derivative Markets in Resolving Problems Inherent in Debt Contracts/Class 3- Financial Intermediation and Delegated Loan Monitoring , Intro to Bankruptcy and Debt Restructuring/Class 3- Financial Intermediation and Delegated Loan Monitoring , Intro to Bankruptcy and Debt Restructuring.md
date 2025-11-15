@@ -1,31 +1,44 @@
 ---
 cssclasses:
-  - academia
-title: Financial Intermediation and Delegated Loan Monitoring, Intro to Bankruptcy and Debt Restructuring
+- academia
+title: Financial Intermediation and Delegated Loan Monitoring, Intro to Bankruptcy
+  and Debt Restructuring
 tags:
-  - bankruptcy
-  - debt_restructuring
-  - delegated_loan_monitoring
-  - financial_intermediation
-  - bank_monitoring
-  - workout_management
+- asset-allocation
+- banking-regulation
+- basel-accord
+- bid-ask-spread
+- capital-adequacy
+- caplet
+- hedging
+- interest-rate-cap
+- interest-rate-ceiling
+- ito-calculus
+- ito-integration
+- linear-regression
+- liquidity-risk
+- market-liquidity
+- portfolio-management
 aliases:
-  - Bankruptcy Intro
-  - Class 3
-  - Debt Restructuring
-  - Delegated Monitoring
-  - Financial Intermediation
+- Bankruptcy Intro
+- Class 3
+- Debt Restructuring
+- Delegated Monitoring
+- Financial Intermediation
 key_concepts:
-  - Bankruptcy Introduction
-  - Debt Restructuring
-  - Financial Intermediation
-  - Loan Monitoring
-  - Bank Asset Services
-  - Delegated Monitoring Theory
-  - Workout Management
-  - Gordon Bargain Stores Case
-  - Technical Bankruptcy Terms
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
 
 # Class 3: Financial Intermediation and Delegated Loan Monitoring, Intro to Bankruptcy and Debt Restructuring
 

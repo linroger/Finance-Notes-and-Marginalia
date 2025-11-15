@@ -1,22 +1,99 @@
 ---
 tags:
-  - arbitrage
-  - financial_markets
-  - liquidity_risk
-  - ltcm_meltdown
-  - risk_management
+- eur
+- hedge
+- probability
+- margin
+- value-at-risk
+- future
+- risk-management
+- pricing
+- correlation
+- oil
+- put
+- regulatory-capital
+- caps-floors
+- trading
+- bond
+- hedge-fund
+- financial-markets
+- ltcm
+- crisis
+- liquidity_risk
+- modern-portfolio-theory
+- default
+- noise
+- arbitrage
+- risk_management
+- event-study
+- repo
+- fundamental
+- capital
+- financial-crisis
+- financial_markets
+- private-equity
+- ltcm_meltdown
+- hedge-funds
+- premium
+- investment-strategy
+- commodities
+- banking
+- yield-to-maturity
 aliases:
-  - Diamond-Dybvig model
-  - LTCM
-  - Long Term Capital Management
+- Diamond-Dybvig model
+- LTCM
+- Long Term Capital Management
 key_concepts:
-  - Russian default
-  - Shleifer-Vishny paper
-  - arbitrage opportunities
-  - illiquid assets
-  - liquidity risk
-  - margin calls
+- arbitrage opportunities
+- illiquid assets
+- Shleifer-Vishny paper
+- Russian default
+- margin calls
+- liquidity risk
+- Arbitrage pricing theory and fundamental theorem of asset pricing
+- Market efficiency hypotheses and their implications for investment strategies
+- No-arbitrage conditions in financial markets
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
+- Arbitrage pricing theory and no-arbitrage principle
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Risk hedging strategies and instruments
+- Market liquidity analysis and liquidity risk
+- Value At Risk in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000067
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Class Note 13 The LTCM Meltdown
 

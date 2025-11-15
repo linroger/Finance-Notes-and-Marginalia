@@ -1,22 +1,78 @@
 ---
 title: The Dodd Frank Act and Its Impact
 tags:
-  - dodd_frank_act
-  - financial_crisis
-  - financial_institutions
-  - financial_stability
-  - regulatory_reform
+- regulatory_reform
+- leverage
+- dodd_frank_act
+- stress-test
+- volatility
+- multiple
+- solvency
+- hedge
+- eur
+- probability
+- lehman
+- senior
+- margin
+- financial_crisis
+- subordinated
+- commodity
+- financial_stability
+- forward
+- future
+- regulation
+- swap
+- dividend
+- pricing
+- counterparty
+- financial_institutions
 aliases:
-  - Dodd Frank
-  - The Act
-  - Wall Street Reform Act
+- Dodd Frank
+- The Act
+- Wall Street Reform Act
 key_concepts:
-  - Financial crisis impact
-  - Financial reform legislation
-  - Financial stability oversight
-  - Regulatory environment changes
-  - Systemic risk reduction
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Arbitrage pricing theory and no-arbitrage principle
+- Bear Stearns in financial markets
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Dodd Frank in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Asset securitization and structured finance
+- Stress testing and scenario analysis
+- Tail Risk in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000031
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # The Dodd Frank Act and Its Impact
 

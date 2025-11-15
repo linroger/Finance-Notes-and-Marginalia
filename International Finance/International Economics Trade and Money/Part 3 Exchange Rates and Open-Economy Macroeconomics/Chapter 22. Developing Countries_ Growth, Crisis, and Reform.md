@@ -1,3 +1,82 @@
+---
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Chapter 22. Developing Countries_ Growth, Crisis, and Reform and financial analysis
+- Chapter 22. Developing Countries_ Growth, Crisis, and Reform in modern finance
+- Applications of Chapter 22. Developing Countries_ Growth, Crisis, and Reform
+- 'Case study: Chapter 22. Developing Countries_ Growth, Crisis, and Reform'
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Duration and interest rate risk measurement
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+tags:
+- efficiency
+- duration
+- barrier
+- volatility
+- multiple
+- monetary-policy
+- eur
+- probability
+- margin
+- currency-swap
+- commodity
+- swaps
+- forward
+- future
+- implied
+- swap
+- regulation
+- dividend
+- correlation
+- interest-rates
+- option
+- distribution
+- oil
+- put
+- bond
+- bonds
+- default
+- cds
+- options
+- call
+- treasury
+- yield
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000526
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # CHAPTER 22  
 
 # Developing Countries: Growth, Crisis, and Reform  

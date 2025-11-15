@@ -1,21 +1,69 @@
 ---
 tags:
-  - bond_yields
-  - interest_rate_risk
-  - market_maker
-  - regression_hedging
-  - relative_value_trading
+- delta
+- regression
+- volatility
+- hedge
+- probability
+- maturity
+- repo
+- coupon
+- market_maker
+- regression_hedging
+- future
+- correlation
+- distribution
+- hedging
+- apt
+- interest_rate_risk
+- put
+- market
+- bond
+- model
+- call
+- relative_value_trading
+- spread
+- measure
+- bond_yields
 aliases:
-  - DV01 Hedge
-  - JNJ Bonds
-  - Regression Hedge
+- DV01 Hedge
+- JNJ Bonds
+- Regression Hedge
 key_concepts:
-  - Regression hedge risk weight
-  - Regression hedge variance
-  - Single-variable regression hedging
-  - Standard deviation residuals
-  - Yield-based DV01 hedge
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Hedging strategies and delta-gamma neutrality
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Correlation modeling and dependency structures
+- Delta hedging strategies in options markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000164
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 6.1 SINGLE-VARIABLE REGRESSION HEDGING  
 

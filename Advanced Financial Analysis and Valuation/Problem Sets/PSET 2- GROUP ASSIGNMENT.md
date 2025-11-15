@@ -1,39 +1,180 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: PSET 2 - GROUP ASSIGNMENT
-title: PSET 2 - GROUP ASSIGNMENT
-tags:
-  - deep_discount_retail
-  - dollar_general
-  - financial_performance
-  - market_share
-  - profit_margins
-  - busn_30131
-  - advanced_financial_analysis
-  - valuation
-  - LBO_analysis
-  - KKR_acquisition
-  - pro_forma_statements
-  - EV_EBITDA_multiple
+academic_level: graduate
 aliases:
-  - BUSN 30131
-  - Dollar General Analysis
-  - Group 13
-  - PSET 2
-  - BUSN 30131 Problem Set 2
-  - Dollar General Valuation Assignment
-  - KKR Offer Evaluation
+- BUSN 30131
+- Dollar General Analysis
+- Group 13
+- PSET 2
+- BUSN 30131 Problem Set 2
+- Dollar General Valuation Assignment
+- KKR Offer Evaluation
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000219
 key_concepts:
-  - costs_of_goods_sold: Analysis of COGS growth outpacing revenue
-  - declining_profit_margins: FY2007 margin compression from 4.1% to 1.5%
-  - deep_discount_market_share: Dollar General's 25% market share
-  - dollar_general_performance: Strategic overhaul impacts on financials
-  - higher_profit_margins: Dollar Tree's superior margins 5.1% vs 4.1%
-  - inventory_impairment: $70.2 million charge in FY2006
-  - strategic_restructuring: Store closures and remodeling initiatives
-  - EV_EBITDA_valuation: KKR offer at 17.2x vs industry 10.7x multiple
+- Value at Risk (VaR) and tail risk measurement
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Distressed Investing and Debt Restructuring
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Interest Rate Swaps and Currency Swap Structures
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: PSET 2 - GROUP ASSIGNMENT
+professional_application: theoreti
+status: active
+tags:
+- arch
+- asset-allocation
+- asset-backed-securities
+- bid-ask-spread
+- caplet
+- credit-rating
+- debit-valuation-adjustment
+- dividend-policy
+- dividend-stability
+- forward-contracts
+- forward-pricing
+- funding-costs
+- hedging
+- heteroskedasticity
+- interest-rate-cap
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- exchange-offers
+- backwardation
+- style-analysis
+- option-strategies
+- cramdown
+- unexpected-loss
+- clearinghouse
+- debt-restructuring
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- distressed-investing
+- monte-carlo-var
+- options-trading
+- market-impact
+- price-to-earnings
+- fama-french
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- expected-loss
+- market-efficiency
+- quantitative-finance
+- order-flow
+- currency-swaps
+- protective-puts
+- probabilty-of-default
+- liquidity
+- roll-yield
+- risk-premium
+- put-options
+- affine-term-structure
+- algorithmic-trading
+- momentum
+- basis-risk
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- blocker-strategy
+- factor-models
+- creditor-committees
+- convergence
+- var-backtesting
+- tender-offers
+- sum-of-parts
+- ' DIP-financing'
+- high-frequency-trading
+- strangles
+- conditional-var
+- short-rate-models
+- swap-spread
+- credit-migration
+- default-probability
+- marking-to-market
+- total-return-swaps
+- libor
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- size-effect
+- basis-swaps
+- precedent-transactions
+- interest-rate-swaps
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+- credit-default-swaps
+title: PSET 2 - GROUP ASSIGNMENT
+type: case-study
 ---
+--
+
+
 
 # PSET 2 - Group Assignment
 

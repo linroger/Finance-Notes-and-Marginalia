@@ -1,20 +1,203 @@
 ---
-tags:
-  - dissenting_shareholders
-  - fair_value
-  - kohler_co
-  - private_company
-  - valuation
+academic_level: graduate
 aliases:
-  - Kohler Case
-  - Kohler Valuation
+- Kohler Case
+- Kohler Valuation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000265
 key_concepts:
-  - Dissenting shareholder valuation
-  - Fair market value definition
-  - Kohler Co. family business
-  - MBCA fair value
-  - Valuation date adjustment
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Beta estimation and systematic risk measurement
+- Beta estimation and systematic risk measurement
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Free Cash Flow and Enterprise Value
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Distressed Investing and Debt Restructuring
+- Cost of Equity and Expected Returns
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Private Equity Investment Returns and Value Creation
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Terminal Value and WACC Calculations
+- Discounted Cash Flow Valuation Models
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- banking-regulation
+- basel-accord
+- beta-estimation
+- bid-ask-spread
+- binomial-model
+- black-scholes-model
+- business-valuation
+- capital-adequacy
+- capital-structure
+- caplet
+- cash-flow-modeling
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- terminal-value
+- free-cash-flow
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- exchange-offers
+- backwardation
+- volatility-analysis
+- style-analysis
+- leverage-ratio
+- option-strategies
+- cramdown
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- debt-restructuring
+- enterprise-value
+- arbitrage-pricing-theory
+- hedge-ratio
+- private-equity
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- distressed-investing
+- monte-carlo-var
+- capital-budgeting
+- options-trading
+- market-impact
+- forward-contracts
+- fama-french
+- price-to-earnings
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- debt-capacity
+- expected-loss
+- wacc
+- market-efficiency
+- quantitative-finance
+- order-flow
+- systematic-risk
+- investment-return
+- protective-puts
+- alpha
+- security-market-line
+- probabilty-of-default
+- discounted-cash-flow
+- dcf-valuation
+- liquidity
+- idiosyncratic-risk
+- roll-yield
+- cost-of-debt
+- beta
+- risk-premium
+- put-options
+- affine-term-structure
+- equity-kickers
+- capm
+- lbo-valuation
+- algorithmic-trading
+- momentum
+- basis-risk
+- market-risk-premium
+- covered-calls
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- bootstrap-strategy
+- management-buyout
+- blocker-strategy
+- factor-models
+- creditor-committees
+- risk-management
+- convergence
+- var-backtesting
+- tender-offers
+- sum-of-parts
+- ' DIP-financing'
+- high-frequency-trading
+- strangles
+- short-rate-models
+- cost-of-equity
+- efficient-frontier
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- equity-value
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+type: course-note
 ---
+--
+
+
 
 Thomas Rauter
 

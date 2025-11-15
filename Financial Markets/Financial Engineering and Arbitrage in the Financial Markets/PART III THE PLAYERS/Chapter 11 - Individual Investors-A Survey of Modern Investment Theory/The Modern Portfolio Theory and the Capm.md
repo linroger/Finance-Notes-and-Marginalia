@@ -1,21 +1,64 @@
 ---
 tags:
-  - capm
-  - efficient_frontier
-  - modern_portfolio_theory
-  - portfolio_returns
-  - risk_management
+- modern_portfolio_theory
+- regression
+- risk-free
+- eur
+- arbitrage
+- probability
+- risk_management
+- margin
+- discount-rate
+- momentum
+- future
+- implied
+- yield-curve
+- dividend
+- pricing
+- correlation
+- distribution
+- put
+- factor-model
+- capm
+- measure
+- efficient_frontier
+- valuation
+- portfolio_returns
 aliases:
-  - MPT and CAPM
-  - Markowitz Theory
-  - Portfolio Optimization
+- MPT and CAPM
+- Markowitz Theory
+- Portfolio Optimization
 key_concepts:
-  - CSCO and XOM returns
-  - Diversification effects
-  - 'Efficient frontier: portfolios'
-  - 'MPT: reward and risk'
-  - 'Standard deviation: total risk'
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Arbitrage pricing theory and no-arbitrage principle
+- Asset Allocation in financial markets
+- Capital Asset Pricing Model and risk-return tradeoff
+- Correlation modeling and dependency structures
+- Discount Rate in financial markets
+- Factor Model in financial markets
+- Growth Rate in financial markets
+- Market Risk in financial markets
+- Mean Variance in financial markets
+- P E in financial markets
+- Risk Free in financial markets
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000357
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 11.3 THE MODERN PORTFOLIO THEORY AND THE CAPM  
 

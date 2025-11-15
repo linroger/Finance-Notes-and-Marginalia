@@ -1,25 +1,282 @@
 ---
-cssclasses:
-  - academia
 Owner: RRoger Lin
-title: A Primer on Distressed Investing
-tags:
-  - bankruptcy
-  - capital_markets
-  - corporate_debt
-  - distressed_investing
-  - restructuring
+academic_level: graduate
 aliases:
-  - Distressed Firm
-  - Distressed Investing
-  - Restructuring Process
+- Distressed Firm
+- Distressed Investing
+- Restructuring Process
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000059
 key_concepts:
-  - Acquiring firm control
-  - Bankruptcy market role
-  - Creditor control process
-  - Distressed investing overview
-  - Restructuring process steps
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Collateralized debt obligations (CDO) and tranche structure
+- Basel accords and banking regulation framework
+- Alpha generation and active portfolio management
+- Alpha generation and active return measurement
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Auto-Callable Notes and Barrier Options
+- Basel III Regulatory Framework and Capital Requirements
+- Free Cash Flow and Enterprise Value
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Equity-Linked Notes and Market-Linked Securities
+- Delta, Gamma, and Vega Hedging Techniques
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Distressed Investing and Debt Restructuring
+- Cost of Equity and Expected Returns
+- Forward Curves and Roll Strategies
+- Regulatory Capital and Stress Testing
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Structured Products and Principal Protection
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Credit Default Swaps and CDS Pricing
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- Private Equity Investment Returns and Value Creation
+- Liquidity Coverage Ratio and Net Stable Funding
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- CDS Spreads and Implied Default Probabilities
+- Credit Spreads and Rating Migration Analysis
+- Market Microstructure and Liquidity Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Credit Risk Transfer and Synthetic Instruments
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+- Terminal Value and WACC Calculations
+- Discounted Cash Flow Valuation Models
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- asset-allocation
+- banking-regulation
+- basel-accord
+- bid-ask-spread
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cds
+- coherent-risk-measure
+- collateralized-debt-obligation
+- conditional-var
+- continuous-time-pricing
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- terminal-value
+- free-cash-flow
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- exchange-offers
+- backwardation
+- net-stable-funding
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- cramdown
+- corporate-bonds
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- debt-restructuring
+- enterprise-value
+- cds-spreads
+- arbitrage-pricing-theory
+- hedge-ratio
+- private-equity
+- market-price-of-risk
+- capital-conservation-buffer
+- price-discovery
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dirty-price
+- forward-curves
+- distressed-investing
+- dynamic-hedging
+- monte-carlo-var
+- capital-budgeting
+- options-trading
+- coupon-bonds
+- market-impact
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- regulatory-capital
+- debt-capacity
+- expected-loss
+- wacc
+- market-efficiency
+- delta-hedging
+- quantitative-finance
+- order-flow
+- default-leg
+- market-linked-notes
+- foreign-recurrency
+- cds-arbitrage
+- protective-puts
+- government-bonds
+- systematic-risk
+- investment-return
+- alpha
+- security-market-line
+- probabilty-of-default
+- discounted-cash-flow
+- dcf-valuation
+- liquidity
+- reverse-convertibles
+- gamma-hedging
+- hedge-effectiveness
+- idiosyncratic-risk
+- storage-costs
+- roll-yield
+- cost-of-debt
+- tier-2-capital
+- beta
+- risk-premium
+- put-options
+- cds-coupons
+- countercyclical-buffer
+- affine-term-structure
+- equity-kickers
+- current-yield
+- capm
+- lbo-valuation
+- algorithmic-trading
+- momentum
+- basis-risk
+- market-risk-premium
+- hedge-strategies
+- cds-bond-basis
+- covered-calls
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- bootstrap-strategy
+- metals-trading
+- management-buyout
+- blocker-strategy
+- risky-continuation
+- factor-models
+- convenience-yield
+- creditor-committees
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- barrier-options
+- tender-offers
+- cross-hedging
+- sum-of-parts
+- seasonality
+- clean-price
+- ' DIP-financing'
+- high-frequency-trading
+- principal-protected-notes
+- strangles
+- equity-linked-notes
+- fixed-income
+- short-rate-models
+- cost-of-equity
+- efficient-frontier
+- credit-migration
+- default-probability
+- marking-to-market
+- auto-callables
+- credit-spreads
+- tier-1-capital
+- premium-leg
+- multi-factor-models
+- trading-multiples
+- structured-notes
+- iron-condors
+- financial-markets
+- equity-value
+- static-hedging
+- size-effect
+- precedent-transactions
+- knock-out-options
+- liquidity-coverage-ratio
+- ipo-valuation
+- basel-iii
+- market-multiple
+- futures-contracts
+- cds-implied-probability
+- apt
+- credit-default-swaps
+title: A Primer on Distressed Investing
+type: primer
 ---
+--
+
+
 
 # A Primer on Distressed Investing
 

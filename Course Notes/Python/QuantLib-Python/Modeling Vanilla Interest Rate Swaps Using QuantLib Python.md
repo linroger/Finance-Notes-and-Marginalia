@@ -1,25 +1,171 @@
 ---
-title: Modeling Vanilla Interest Rate Swaps Using QuantLib Python
-source: https://gouthamanbalaraman.com/blog/interest-rate-swap-quantlib-python.html
+academic_level: graduate
+aliases:
+- IRS
+- Interest Rate Swap
+- Swap Example
 description: Provides a basic introduction to valuing interest rate swaps using QuantLib
   Python.
-tags:
-  - fixed_floating
-  - interest_rate_swaps
-  - quantlib_python
-  - swap_valuation
-  - vanilla_swaps
-aliases:
-  - IRS
-  - Interest Rate Swap
-  - Swap Example
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000051
 key_concepts:
-  - Cash flow analysis
-  - Fixed vs. floating
-  - Interest rate swap
-  - Notional amount
-  - QuantLib Python valuation
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Net present value (NPV) and investment evaluation
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Interest rate swaps and fixed income derivatives
+- Bootstrap methods and yield curve construction
+- LIBOR market model and multi-curve framework
+- Basel accords and banking regulation framework
+- QuantLib library and quantitative finance implementation
+- Arbitrage opportunities and no-arbitrage pricing
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Company Valuation and Multiple Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Comparable Company Analysis and Trading Multiples
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Interest Rate Swaps and Currency Swap Structures
+- Private Equity Investment Returns and Value Creation
+- Term Structure of Interest Rates and Yield Curves
+- Credit Spreads and Rating Migration Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+source: https://gouthamanbalaraman.com/blog/interest-rate-swap-quantlib-python.html
+status: active
+tags:
+- arbitrage-free-models
+- arbitrage-opportunity
+- banking-regulation
+- basel-accord
+- basis-risk
+- basis-swap
+- bootstrap-method
+- capital-adequacy
+- capital-budgeting
+- capital-structure
+- caplet
+- cash-flow-modeling
+- convexity-adjustment
+- cost-of-capital
+- credit-rating
+- leveraged-buyout
+- dcf-analysis
+- expected-shortfall
+- extreme-value-theory
+- book-to-market
+- backwardation
+- volatility-analysis
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- corporate-bonds
+- yield-curve
+- unexpected-loss
+- clearinghouse
+- interpolation
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- private-equity
+- loss-given-default
+- value-factor
+- dirty-price
+- monte-carlo-var
+- coupon-bonds
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- forward-rates
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- var-methodologies
+- historical-var
+- contango
+- debt-capacity
+- expected-loss
+- quantitative-finance
+- forward-curve
+- currency-swaps
+- investment-return
+- government-bonds
+- probabilty-of-default
+- curve-fitting
+- credit-default-swaps
+- roll-yield
+- spot-rates
+- equity-kickers
+- lbo-valuation
+- momentum
+- term-structure
+- sofr
+- swap-rate
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- rating-migration
+- par-yield
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- bootstrap-strategy
+- management-buyout
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- sum-of-parts
+- clean-price
+- yield-curve-shocks
+- conditional-var
+- fixed-income
+- swap-spread
+- credit-migration
+- default-probability
+- marking-to-market
+- total-return-swaps
+- libor
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- financial-markets
+- size-effect
+- basis-swaps
+- precedent-transactions
+- interest-rate-swaps
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+- current-yield
+title: Modeling Vanilla Interest Rate Swaps Using QuantLib Python
+type: note
 ---
+--
+
+
 
 # Modeling Vanilla Interest Rate Swaps Using QuantLib Python
 

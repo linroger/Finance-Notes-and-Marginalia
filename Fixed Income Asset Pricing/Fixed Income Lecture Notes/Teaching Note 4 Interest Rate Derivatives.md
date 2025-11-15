@@ -1,28 +1,263 @@
 ---
-cssclasses:
-  - academia
-title: Teaching Note 4 Interest Rate Derivatives
-tags:
-  - forward_contracts
-  - hedging_interest_rate
-  - interest_rate_derivatives
-  - spot_curve
-  - swap_rates
 aliases:
-  - FRA
-  - Forward Rate Agreement
-  - Interest Rate Swap
-  - Swap
-  - Teaching Note
+- FRA
+- Forward Rate Agreement
+- Interest Rate Swap
+- Swap
+- Teaching Note
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000539
 key_concepts:
-  - Discount factor
-  - Fixed-for-floating swap
-  - Forward contracts
-  - Interest rate risk
-  - Spot curve
-  - Swap rate
-  - Trading strategy
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Teaching Note 4 Interest Rate Derivatives and financial analysis
+- Teaching Note 4 Interest Rate Derivatives in modern finance
+- Applications of Teaching Note 4 Interest Rate Derivatives
+- 'Case study: Teaching Note 4 Interest Rate Derivatives'
+- Duration and Convexity in Fixed Income Risk Management
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Delta, Gamma, and Vega Hedging Techniques
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Forward Curves and Roll Strategies
+- Black-Scholes Option Pricing Model and Its Applications
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Dynamic vs Static Hedging in Practice
+- Interest Rate Swaps and Currency Swap Structures
+- Private Equity Investment Returns and Value Creation
+- Term Structure of Interest Rates and Yield Curves
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Interest Rate Risk and DV01 Calculations
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+tags:
+- options
+- yield-curve
+- roll
+- irs
+- swaption
+- futures
+- put
+- basis
+- interest-rate
+- libor
+- maturity
+- forward
+- swaps
+- bond
+- coupon
+- leveraged-buyout
+- asset-allocation
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- partial-differential-equation
+- risk-neutral-valuation
+- backwardation
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- clearinghouse
+- interpolation
+- overnight-indexed-swaps
+- interest-rate-risk
+- arbitrage-pricing-theory
+- hedge-ratio
+- private-equity
+- market-price-of-risk
+- volatility-surface
+- price-discovery
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- dirty-price
+- forward-curves
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- forward-rates
+- fama-french
+- price-to-earnings
+- bsm-model
+- recovery-rate
+- zero-coupon-bonds
+- black-scholes-formula
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- debt-capacity
+- modified-duration
+- expected-loss
+- market-efficiency
+- delta-hedging
+- quantitative-finance
+- forward-curve
+- order-flow
+- currency-swaps
+- bid-ask-spread
+- investment-return
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- liquidity
+- curve-steepening
+- curve-fitting
+- credit-default-swaps
+- gamma-hedging
+- hedge-effectiveness
+- storage-costs
+- roll-yield
+- risk-premium
+- spot-rates
+- put-options
+- affine-term-structure
+- equity-kickers
+- lbo-valuation
+- algorithmic-trading
+- momentum
+- curve-flattening
+- basis-risk
+- convexity
+- hedge-strategies
+- term-structure
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- duration-analysis
+- value-at-risk
+- bootstrap-strategy
+- metals-trading
+- management-buyout
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- barbell-strategy
+- risk-management
+- convergence
+- var-backtesting
+- cross-hedging
+- sum-of-parts
+- european-options
+- clean-price
+- yield-curve-shocks
+- seasonality
+- high-frequency-trading
+- strangles
+- conditional-var
+- fixed-income
+- dv01
+- short-rate-models
+- swap-spread
+- price-yield-relationship
+- credit-migration
+- default-probability
+- marking-to-market
+- total-return-swaps
+- credit-spreads
+- multi-factor-models
+- ito-calculus
+- trading-multiples
+- iron-condors
+- option-pricing
+- financial-markets
+- black-scholes-model
+- macaulay-duration
+- static-hedging
+- size-effect
+- basis-swaps
+- precedent-transactions
+- interest-rate-swaps
+- lognormal-distribution
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+- bootstrap-method
+- current-yield
+title: Teaching Note 4 Interest Rate Derivati
 ---
+--
 
 # Teaching Note 4 Interest Rate Derivatives
 

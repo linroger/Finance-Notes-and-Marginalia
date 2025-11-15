@@ -1,43 +1,307 @@
 ---
-tags:
-  - bonds
-  - fixed_income
-  - market_risk
-  - pv_valuation
-  - swaps
-  - interest_rate_swaps
-  - derivatives
-  - yield_curves
-  - duration
-  - convexity
-  - hedging
-  - credit_spreads
+academic_level: graduate
 aliases:
-  - Bond and Swap Guide
-  - Fixed Income Markets
-  - Practical Guide
-  - Fixed Income Capital Markets Guide
-  - Bond and Swap Valuation Manual
-key_concepts:
-  - Bond market overview
-  - Fixed income markets
-  - Mark-to-market valuation
-  - Present value (PV)
-  - Swap market introduction
-  - Bond risk measures (BPV, DV01)
-  - Duration concepts (Modified, Macaulay's)
-  - Yield to maturity calculations
-  - Clean price vs dirty price
-  - Accrued interest conventions
-  - Interest rate hedging strategies
-  - Swap valuation methodology
-  - Fixed-floating interest rate swaps
-  - Credit arbitrage in swap markets
-  - Convexity and second-order risk
-  - Yield curve risk management
-  - Swap spread risk
+- Bond and Swap Guide
+- Fixed Income Markets
+- Practical Guide
+- Fixed Income Capital Markets Guide
+- Bond and Swap Valuation Manual
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000470
+key_concepts:
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Interest rate swaps and fixed income derivatives
+- Value at Risk (VaR) and tail risk measurement
+- Arbitrage opportunities and no-arbitrage pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Duration and Convexity in Fixed Income Risk Management
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Auto-Callable Notes and Barrier Options
+- Basel III Regulatory Framework and Capital Requirements
+- Free Cash Flow and Enterprise Value
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Variance Reduction Techniques in Monte Carlo Methods
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Equity-Linked Notes and Market-Linked Securities
+- Delta, Gamma, and Vega Hedging Techniques
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Cost of Equity and Expected Returns
+- Stochastic Integration and Path-Dependent Options
+- Forward Curves and Roll Strategies
+- Regulatory Capital and Stress Testing
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Structured Products and Principal Protection
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Factor Models and Asset Pricing
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Dynamic vs Static Hedging in Practice
+- Interest Rate Swaps and Currency Swap Structures
+- Private Equity Investment Returns and Value Creation
+- Term Structure of Interest Rates and Yield Curves
+- Liquidity Coverage Ratio and Net Stable Funding
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Interest Rate Risk and DV01 Calculations
+- Hedging Strategies and Risk Mitigation
+- Monte Carlo Simulation Methods for Derivative Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+- Terminal Value and WACC Calculations
+- Discounted Cash Flow Valuation Models
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- basis-point-value
+- binomial-model
+- black-scholes-model
+- capital-budgeting
+- caplet
+- cds
+- collateral-rates
+- continuous-time-pricing
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- control-variates
+- leveraged-buyout
+- asset-allocation
+- exotic-options
+- hull-white
+- call-options
+- cir-model
+- terminal-value
+- free-cash-flow
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- backwardation
+- net-stable-funding
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- yield-curve
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- enterprise-value
+- interpolation
+- overnight-indexed-swaps
+- interest-rate-risk
+- arbitrage-pricing-theory
+- monte-carlo-simulation
+- hedge-ratio
+- private-equity
+- market-price-of-risk
+- capital-conservation-buffer
+- price-discovery
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dirty-price
+- forward-curves
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- forward-rates
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- random-walks
+- regulatory-capital
+- debt-capacity
+- modified-duration
+- expected-loss
+- wacc
+- market-efficiency
+- delta-hedging
+- quantitative-finance
+- forward-curve
+- order-flow
+- currency-swaps
+- market-linked-notes
+- bid-ask-spread
+- systematic-risk
+- investment-return
+- protective-puts
+- government-bonds
+- alpha
+- security-market-line
+- probabilty-of-default
+- discounted-cash-flow
+- dcf-valuation
+- liquidity
+- curve-steepening
+- reverse-convertibles
+- curve-fitting
+- credit-default-swaps
+- gamma-hedging
+- hedge-effectiveness
+- idiosyncratic-risk
+- storage-costs
+- roll-yield
+- cost-of-debt
+- tier-2-capital
+- beta
+- risk-premium
+- spot-rates
+- put-options
+- countercyclical-buffer
+- affine-term-structure
+- equity-kickers
+- capm
+- lbo-valuation
+- algorithmic-trading
+- momentum
+- curve-flattening
+- basis-risk
+- market-risk-premium
+- convexity
+- hedge-strategies
+- antithetic-variates
+- term-structure
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- duration-analysis
+- path-dependency
+- value-at-risk
+- bootstrap-strategy
+- metals-trading
+- management-buyout
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- barbell-strategy
+- risk-management
+- convergence
+- var-backtesting
+- variance-reduction
+- stochastic-integration
+- barrier-options
+- cross-hedging
+- sum-of-parts
+- seasonality
+- clean-price
+- yield-curve-shocks
+- high-frequency-trading
+- principal-protected-notes
+- strangles
+- conditional-var
+- equity-linked-notes
+- fixed-income
+- dv01
+- cost-of-equity
+- least-squares-mc
+- short-rate-models
+- swap-spread
+- efficient-frontier
+- price-yield-relationship
+- credit-migration
+- default-probability
+- marking-to-market
+- auto-callables
+- total-return-swaps
+- libor
+- credit-spreads
+- tier-1-capital
+- multi-factor-models
+- trading-multiples
+- structured-notes
+- iron-condors
+- financial-markets
+- equity-value
+- macaulay-duration
+- static-hedging
+- size-effect
+- basis-swaps
+- precedent-transactions
+- knock-out-options
+- interest-rate-swaps
+- liquidity-coverage-ratio
+- ipo-valuation
+- basel-iii
+- market-multiple
+- futures-contracts
+- quasi-monte-carlo
+- apt
+- bootstrap-method
+- current-yield
+type: primer
 ---
+--
+
+
 
 # A PRACTICAL GUIDE TO BONDS AND SWAPS  
 

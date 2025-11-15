@@ -1,21 +1,57 @@
 ---
 tags:
-  - arbitrage
-  - bond_pricing
-  - cheapest_to_deliver
-  - cost_of_delivery
-  - futures_contract
+- eur
+- arbitrage
+- cost_of_delivery
+- maturity
+- coupon
+- cheapest_to_deliver
+- bond_pricing
+- future
+- pricing
+- option
+- call
+- market
+- bond
+- trading
+- measure
+- futures_contract
+- futures-contract
 aliases:
-  - CTD
-  - Final Settlement Price
-  - TYU1
+- CTD
+- Final Settlement Price
+- TYU1
 key_concepts:
-  - Arbitrage opportunities
-  - Cheapest-to-deliver bond
-  - Cost of delivery
-  - Deliverable basket bonds
-  - Futures price at expiration
+- Option valuation and hedging strategies
+- Fixed income securities and yield curve analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Arbitrage pricing theory and no-arbitrage principle
+- Futures Contract in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000182
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 11.6 COST OF DELIVERY AND THE FINAL SETTLEMENT PRICE  
 

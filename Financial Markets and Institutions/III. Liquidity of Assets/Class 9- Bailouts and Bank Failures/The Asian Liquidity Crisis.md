@@ -1,21 +1,77 @@
 ---
 title: The Asian Liquidity Crisis
 tags:
-  - asian_liquidity_crisis
-  - exchange_rate_collapse
-  - financial_crisis
-  - financial_liberalization
-  - international_illiquidity
+- efficiency
+- eur
+- barrier
+- multiple
+- solvency
+- hedge
+- senior
+- exchange_rate_collapse
+- financial_crisis
+- margin
+- financial_liberalization
+- future
+- implied
+- swap
+- regulation
+- yield-curve
+- option
+- oil
+- international_illiquidity
+- put
+- american
+- asian_liquidity_crisis
+- bond
+- gold
+- crisis
 aliases:
-  - Asian Crash
-  - Emerging Markets Crisis
+- Asian Crash
+- Emerging Markets Crisis
 key_concepts:
-  - classic financial crisis
-  - exchange rate collapses
-  - financial liberalization impact
-  - financial system collapse
-  - international illiquidity
+- American option pricing and early exercise
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Credit default probability and recovery modeling
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000027
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # The Asian Liquidity Crisis
 

@@ -1,20 +1,68 @@
 ---
 tags:
-  - ccapm
-  - consumption_based_model
-  - habit_formation
-  - risk_aversion
-  - state_dependent_preferences
+- delta
+- habit_formation
+- risk-free
+- risk_aversion
+- volatility
+- convexity
+- theta
+- margin
+- growth
+- state_dependent_preferences
+- forward
+- optimization
+- future
+- dividend
+- gamma
+- pricing
+- correlation
+- distribution
+- covariance
+- consumption_based_model
+- put
+- capm
+- portfolio
+- brownian
+- ccapm
 aliases:
-  - Alternative Preferences
-  - CCAPM
+- Alternative Preferences
+- CCAPM
 key_concepts:
-  - consumption-based model
-  - habit formation
-  - relative risk aversion
-  - risk-free asset
-  - state-price deflator
+- Bond convexity and price-yield relationships
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Banking and credit intermediation
+- Bank balance sheet management
+- Model calibration and parameter estimation
+- Capital Asset Pricing Model and risk-return tradeoff
+- Convexity adjustments for bond portfolio management
+- Correlation modeling and dependency structures
+- Delta hedging strategies in options markets
+- Gamma risk and convexity adjustments in options
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Risk Free in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000432
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 8.7 CCAPM with alternative preferences  
 

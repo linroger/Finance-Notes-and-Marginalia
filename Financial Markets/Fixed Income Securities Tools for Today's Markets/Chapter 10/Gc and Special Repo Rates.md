@@ -1,21 +1,67 @@
 ---
 tags:
-  - effr
-  - federal_funds
-  - gc_repo_rate
-  - repo_market
-  - treasury_collateral
+- effr
+- gc_repo_rate
+- hedge
+- measure
+- maturity
+- lehman
+- repo
+- capital
+- repo_market
+- federal_funds
+- subprime
+- premium
+- apt
+- credit
+- treasury_collateral
+- put
+- call
+- bond
+- market
+- model
+- crisis
+- overnight
+- spread
+- mortgage
+- fed-funds
 aliases:
-  - EFFR vs GC
-  - GC and Repo Rates
-  - General Collateral Rate
+- EFFR vs GC
+- GC and Repo Rates
+- General Collateral Rate
 key_concepts:
-  - EFFR vs GC spread
-  - GC rate benchmark
-  - Market disruptions
-  - Repo loan interest rates
-  - Window dressing
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Fed Funds in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000166
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 10.5 GC AND SPECIAL REPO RATES  
 

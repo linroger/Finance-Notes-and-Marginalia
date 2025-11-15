@@ -1,33 +1,65 @@
 ---
 cssclasses:
-  - academia
-title: "Asset Backed Commercial Paper: Understanding the Risks"
-linter-yaml-title-alias: "Asset Backed Commercial Paper: Understanding the Risks"
+- academia
+title: 'Asset Backed Commercial Paper: Understanding the Risks'
+linter-yaml-title-alias: 'Asset Backed Commercial Paper: Understanding the Risks'
 tags:
-  - abcp_programs
-  - asset_backed_securities
-  - credit_risk
-  - liquidity_risk
-  - short_term_financing
-  - structural_risk
+- structural_risk
+- asset_backed_securities
+- short_term_financing
+- credit_risk
+- abcp_programs
+- liquidity_risk
+- event-study
+- mertons-model
+- caps-floors
+- distressed
+- private-equity
+- binomial-model
+- financial-markets
+- regulatory-capital
+- risk-management
+- banking
+- sovereign-debt
+- stochastic-calculus
+- mbs
+- restructuring
 aliases:
-  - ABCP
-  - Asset-Backed
-  - Structured Finance
-  - "Asset Backed CP Risks"
+- ABCP
+- Asset-Backed
+- Structured Finance
+- Asset Backed CP Risks
 key_concepts:
-  - ABCP programs
-  - Credit risk
-  - Fully supported program
-  - Liquidity risk
-  - Partially supported program
-  - Short-term financing
-  - Structural risk
-  - Conduit structures
-  - Liquidity backstops
-  - Credit enhancements
-  - Maturity mismatches
-  - SIV structures
+- Liquidity risk
+- Liquidity backstops
+- Maturity mismatches
+- Fully supported program
+- Credit enhancements
+- SIV structures
+- Short-term financing
+- ABCP programs
+- Credit risk
+- Structural risk
+- Partially supported program
+- Conduit structures
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
 ---
 
 # Asset Backed Commercial Paper: Understanding the Risks

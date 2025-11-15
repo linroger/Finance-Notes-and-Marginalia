@@ -1,21 +1,65 @@
 ---
 tags:
-  - coupon_bond
-  - discount_factor
-  - interest_rates
-  - term_structure
-  - yield_curve
+- par-value
+- yield_curve
+- maturity
+- coupon
+- coupon_bond
+- discount-rate
+- forward
+- discount_factor
+- yield-curve
+- interest_rates
+- discount
+- term-structure
+- apt
+- ytm
+- put
+- call
+- term_structure
+- bond
+- market
+- cdo
+- yield
+- forward-rate
+- interest-rate
+- valuation
+- zero-coupon
 aliases:
-  - Discount Factors
-  - Term Structure
-  - Yield Curve Bootstrap
+- Discount Factors
+- Term Structure
+- Yield Curve Bootstrap
 key_concepts:
-  - Coupon bond valuation
-  - Discount factor bootstrap
-  - Spot zero rates
-  - Term structure of rates
-  - Yield to maturity
+- Fixed income securities and yield curve analysis
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Discount Rate in financial markets
+- Forward Rate in financial markets
+- Interest Rate in financial markets
+- Par Value in financial markets
+- Term Structure in financial markets
+- Yield Curve in financial markets
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000314
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 2.3 TERM STRUCTURE OF INTEREST RATES AND THE DISCOUNT FACTOR BOOTSTRAP  
 

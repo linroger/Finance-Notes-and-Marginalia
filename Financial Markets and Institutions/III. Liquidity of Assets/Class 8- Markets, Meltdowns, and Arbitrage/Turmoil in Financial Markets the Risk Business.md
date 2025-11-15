@@ -1,22 +1,103 @@
 ---
 title: Turmoil in Financial Markets the Risk Business
 tags:
-  - financial_markets
-  - hedge_funds
-  - long_term_capital_management
-  - market_turmoil
-  - risk_management
+- leverage
+- eur
+- volatility
+- hedge
+- probability
+- risk-management
+- oil
+- put
+- regulatory-capital
+- mertons-model
+- caps-floors
+- american
+- hedge-fund
+- financial-markets
+- bond
+- trading
+- ltcm
+- crisis
+- structured
+- spread
+- credit-risk
+- mortgage
+- modern-portfolio-theory
+- default
+- arbitrage
+- bid-ask
+- high-yield
+- roe
+- risk_management
+- event-study
+- hedge_funds
+- financial_markets
+- private-equity
+- hedge-funds
+- investment-strategy
+- market_turmoil
+- sovereign-debt
+- banking
+- long_term_capital_management
+- yield-to-maturity
 aliases:
-  - Financial Market Turmoil
-  - LTCM Collapse
-  - The Risk Business
+- Financial Market Turmoil
+- LTCM Collapse
+- The Risk Business
 key_concepts:
-  - Banks manage financial risk
-  - Carefree bullishness to pessimism
-  - Hedge funds blamed
-  - Long-Term Capital Management
-  - Markets have fallen sharply
+- Banks manage financial risk
+- Carefree bullishness to pessimism
+- Long-Term Capital Management
+- Markets have fallen sharply
+- Hedge funds blamed
+- Arbitrage pricing theory and fundamental theorem of asset pricing
+- Market efficiency hypotheses and their implications for investment strategies
+- No-arbitrage conditions in financial markets
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
+- Arbitrage pricing theory and no-arbitrage principle
+- Bid Ask in financial markets
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Exchange Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000060
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Turmoil in Financial Markets the Risk Business
 

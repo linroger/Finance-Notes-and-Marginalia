@@ -1,27 +1,131 @@
 ---
+aliases:
+- China's Currency Peg
+- Yuan Peg
 cssclasses:
-  - academia
+- academia
 description: Explore China's currency peg,           which has helped Asia's largest
   economy enjoy robust growth and continued prosperity by making the nation's exports
   cheaper.
-source: https://www.investopedia.com/articles/forex/030616/why-chinese-yuan-pegged.asp
-title: Chinese Currency Peg
-tags:
-  - china_economy
-  - chinese_yuan
-  - currency_peg
-  - exchange_rate
-  - trade_imbalance
-aliases:
-  - China's Currency Peg
-  - Yuan Peg
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000006
 key_concepts:
-  - Benefits of cheap goods
-  - China's currency peg explained
-  - Exports drive China's economy
-  - US manufacturers' complaints
-  - Yuan's low value benefits China
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Chinese Currency Peg and financial analysis
+- Chinese Currency Peg in modern finance
+- Applications of Chinese Currency Peg
+- 'Case study: Chinese Currency Peg'
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Seasonality and Convenience Yield
+- Risk Measurement and VaR Backtesting
+- Comparable Company Analysis and Trading Multiples
+- Commodity Markets and Energy Derivatives
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Fixed Income Securities and Credit Quality
+- Bond Pricing and Yield to Maturity Analysis
+- Option Valuation and Exercise Strategies
+- Value at Risk and Expected Shortfall
+- Factor Models and Asset Pricing
+- Forward Curves and Roll Strategies
+- Company Valuation and Multiple Analysis
+- Options Trading Strategies and Risk Management
+- Government and Corporate Bond Markets
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Arbitrage Pricing Theory and Multi-Factor Models
+source: https://www.investopedia.com/articles/forex/030616/why-chinese-yuan-pegged.asp
+tags:
+- options
+- bonds
+- monetary-policy
+- bond
+- trading
+- liquidity
+- call
+- interest-rate
+- interest-rates
+- risk
+- put-options
+- leveraged-buyout
+- sum-of-parts
+- call-options
+- zero-coupon-bonds
+- clean-price
+- price-to-earnings
+- seasonality
+- butterfly-spreads
+- momentum
+- strangles
+- dcf-analysis
+- expected-shortfall
+- straddles
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- book-to-market
+- fixed-income
+- var-methodologies
+- historical-var
+- volatility-analysis
+- covered-calls
+- energy-derivatives
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- stress-testing
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- arbitrage-pricing-theory
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- protective-puts
+- government-bonds
+- metals-trading
+- financial-markets
+- roll-strategies
+- size-effect
+- factor-models
+- precedent-transactions
+- value-factor
+- convenience-yield
+- dirty-price
+- ipo-valuation
+- forward-curves
+- agricultural-commodities
+- monte-carlo-var
+- risk-management
+- var-backtesting
+- options-trading
+- coupon-bonds
+- market-multiple
+- storage-costs
+- apt
+- current-yield
+- commodity-trading
+- yield-to-maturity
+- fama-french
+title: Chinese Currency
 ---
+--
 
 # Chinese Currency Peg
 ## What Is China's Currency Peg?

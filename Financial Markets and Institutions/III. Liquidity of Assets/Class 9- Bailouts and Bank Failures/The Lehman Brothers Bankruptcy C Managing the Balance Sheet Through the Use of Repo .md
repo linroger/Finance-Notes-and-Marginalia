@@ -1,27 +1,76 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: The Lehman Brothers Bankruptcy C Managing the Balance Sheet
   Through the Use of Repo
 title: The Lehman Brothers Bankruptcy C Managing the Balance Sheet Through the Use
   of Repo
 tags:
-  - balance_sheet_management
-  - financial_crisis
-  - lehman_brothers
-  - repo_transactions
-  - sfsa_140
+- sfsa_140
+- leverage
+- stress-test
+- eur
+- hedge
+- lehman_brothers
+- lehman
+- senior
+- margin
+- financial_crisis
+- overcollateralization
+- forward
+- future
+- counterparty
+- option
+- oil
+- repo_transactions
+- compliance
+- put
+- trading
+- crisis
+- overnight
+- structured
+- spread
+- balance_sheet_management
 aliases:
-  - Anton R. Valukas Report
-  - Lehman Bankruptcy
-  - Repo 105
+- Anton R. Valukas Report
+- Lehman Bankruptcy
+- Repo 105
 key_concepts:
-  - Balance sheet manipulation
-  - Lehman Brothers bankruptcy
-  - Repo 105 transactions
-  - SFAS 140 interpretation
-  - Standard repo transactions
+- Option valuation and hedging strategies
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Financial derivatives pricing and valuation
+- Bear Stearns in financial markets
+- Credit default probability and recovery modeling
+- Risk hedging strategies and instruments
+- Market liquidity analysis and liquidity risk
+- Asset securitization and structured finance
+- Stress testing and scenario analysis
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000036
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # The Lehman Brothers Bankruptcy C Managing the Balance Sheet Through the Use of Repo
 

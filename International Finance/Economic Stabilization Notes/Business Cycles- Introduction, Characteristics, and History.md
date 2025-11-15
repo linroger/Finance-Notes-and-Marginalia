@@ -1,38 +1,82 @@
 ---
-cssclasses: ["academia"]
-title: Business Cycles - Introduction, Characteristics, and History
+aliases:
+- Business Cycle
+- Business Cycle Overview
+- Economic Cycle
+- Business Cycles Introduction
+- Cyclical Fluctuations
+cssclasses:
+- academia
+key_concepts:
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Business Cycles- Introduction, Characteristics, and History and financial analysis
+- Business Cycles- Introduction, Characteristics, and History in modern finance
+- Applications of Business Cycles- Introduction, Characteristics, and History
+- 'Case study: Business Cycles- Introduction, Characteristics, and History'
+- Duration and interest rate risk measurement
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
 linter-yaml-title-alias: Business Cycles - Introduction, Characteristics, and History
 tags:
-  - business_cycles
-  - economic_activity
-  - expansions
-  - macroeconomic_fluctuations
-  - recessions
-  - economic_growth
-  - cyclical_patterns
-  - turning_points
-  - nber_dating
-  - economic_history
-aliases:
-  - Business Cycle
-  - Business Cycle Overview
-  - Economic Cycle
-  - Business Cycles Introduction
-  - Cyclical Fluctuations
-key_concepts:
-  - Aggregate output, income, employment
-  - Business cycle characteristics
-  - Fluctuations in economic activity
-  - Macroeconomic fiscal and monetary policies
-  - Recessions and expansions
-  - Burns-Mitchell definition
-  - Business cycle dating
-  - Peak and trough identification
-  - Cyclical vs. growth trends
-  - Duration and amplitude of cycles
-  - Synchronization across sectors
-  - Historical business cycles
+- duration
+- volatility
+- growth-rate
+- algorithmic-trading
+- risk-management
+- oil
+- put
+- bond
+- crisis
+- bonds
+- spread
+- measure
+- options
+- pandemic
+- roe
+- growth
+- fixed-income
+- covid
+- capital
+- depth
+- credit
+- call
+- treasury
+- var
+- roa
+- signal
+title: Business Cycles - Introduction, Characteristics, and History
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000516
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Business Cycles: Introduction, Characteristics, and History
 

@@ -1,21 +1,72 @@
 ---
 tags:
-  - bank_reserves
-  - central_bank
-  - federal_reserve
-  - financial_crisis
-  - monetary_policy
+- leverage
+- duration
+- pandemic
+- collateralized
+- repo
+- financial_crisis
+- growth
+- forward
+- future
+- regulation
+- swap
+- monetary_policy
+- option
+- oil
+- bank_reserves
+- federal_reserve
+- put
+- trading
+- bond
+- crisis
+- overnight
+- central_bank
+- spread
+- mortgage
+- fed-funds
 aliases:
-  - Abundant Reserves
-  - Discount Window
-  - The Fed
+- Abundant Reserves
+- Discount Window
+- The Fed
 key_concepts:
-  - Bank liquidity provision
-  - Dual mandate of Fed
-  - Federal Reserve roles
-  - National currency creation
-  - Reserves and banking system
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Bond duration and interest rate risk
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Duration and interest rate risk measurement
+- Fed Funds in financial markets
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000133
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 0.4 MONETARY POLICY WITH ABUNDANTRESERVES  
 

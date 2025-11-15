@@ -1,20 +1,64 @@
 ---
 tags:
-  - cpr
-  - mortgage_valuation
-  - prepayment_modeling
-  - refinancing
-  - s_curve
+- s_curve
+- efficiency
+- mortgage_valuation
+- cpr
+- default
+- ito
+- margin
+- repo
+- prepayment
+- coupon
+- optimization
+- implied
+- prepayment_modeling
+- option
+- apt
+- mbs
+- credit
+- refinancing
+- put
+- bond
+- call
+- model
+- mortgage
+- valuation
 aliases:
-  - Mortgage Prepayments
-  - Prepayment Models
+- Mortgage Prepayments
+- Prepayment Models
 key_concepts:
-  - CPR and mortgage rates
-  - Mortgage pool characteristics
-  - Prepayment model drivers
-  - Refinancing S-curve
-  - Refinancing incentive function
+- Option valuation and hedging strategies
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Credit default probability and recovery modeling
+- Interest Rate in financial markets
+- Mortgage prepayment modeling and MBS analysis
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000259
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 15.6 PREPAYMENT MODELING  
 

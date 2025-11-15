@@ -1,54 +1,80 @@
 ---
-cssclasses: ["academia"]
-title: Chinese Financial System
-tags:
-  - chinese_economy
-  - financial_system
-  - regulatory_framework
-  - banking_system
-  - capital_markets
-  - shadow_banking
-  - monetary_policy
-  - pboc
-  - state_owned_enterprises
-  - international_finance
-  - capital_controls
-  - rmb_internationalization
-  - digital_currency
-  - financial_regulation
-  - emerging_markets
-  - belt_and_road
 aliases:
-  - China Financial System
-  - PRC Financial System
-  - China Banking System
-  - Chinese Financial Markets
-  - China Financial Regulation
-  - China Banking Sector
-  - China Capital Markets
+- China Financial System
+- PRC Financial System
+- China Banking System
+- Chinese Financial Markets
+- China Financial Regulation
+- China Banking Sector
+- China Capital Markets
+cssclasses:
+- academia
 key_concepts:
-  - Chinese Communist Party oversight
-  - State Council regulatory structure
-  - Central Financial Commission
-  - People's Bank of China (PBOC)
-  - National Financial Regulatory Administration
-  - China Securities Regulatory Commission
-  - State Administration of Foreign Exchange
-  - State-owned commercial banks
-  - Shadow banking system
-  - Capital controls
-  - RMB internationalization
-  - Digital yuan (e-CNY)
-  - Financial stability framework
-  - Policy banks
-  - Local government financing vehicles
-  - Belt and Road Initiative financing
-  - Foreign exchange reserves management
-  - Wealth management products
-  - Financial system risks
-  - Financial opening and reform
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Chinese Financial System and financial analysis
+- Chinese Financial System in modern finance
+- Applications of Chinese Financial System
+- 'Case study: Chinese Financial System'
+- Interest Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
 linter-yaml-title-alias: Chinese Financial System
+tags:
+- derivatives
+- monetary-policy
+- balance sheet
+- digital
+- fixed-income
+- roll
+- future
+- regulation
+- capital
+- equity
+- interest-rates
+- corporate-bond
+- asian
+- credit
+- market
+- currency
+- bond
+- treasury
+- sifi
+- futures
+- bonds
+- forex
+- roa
+- regulatory
+- interest-rate
+- derivative
+title: Chinese Financial System
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000513
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Chinese Financial System
 

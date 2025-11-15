@@ -1,53 +1,90 @@
 ---
-cssclasses: ["academia"]
-title: Lecture Notes on International Finance
-tags:
-  - exchange_rates
-  - global_imbalances
-  - government_debt
-  - international_finance
-  - market_segmentation
-  - monetary_policy
-  - portfolio_choice
-  - risk_premia
-  - exchange_rate_puzzles
-  - currency_markets
-  - international_monetary_system
-  - fiscal_policy
-  - incomplete_markets
-  - convenience_yields
-  - financial_intermediation
-  - capital_flows
 aliases:
-  - International Financial
-  - Intl Finance
-  - Intl. Finance
-  - International Finance Lecture Notes
-  - Exchange Rate Theory
-  - Global Financial Markets
+- International Financial
+- Intl Finance
+- Intl. Finance
+- International Finance Lecture Notes
+- Exchange Rate Theory
+- Global Financial Markets
+cssclasses:
+- academia
 key_concepts:
-  - Convenience yields
-  - Currency risk premia
-  - Exchange rate accounting
-  - Global imbalances
-  - Government debt valuation
-  - Incomplete markets
-  - Monetary fiscal policies
-  - Portfolio choice approach
-  - No-arbitrage approach
-  - Complete market solution
-  - Asset demand systems
-  - Market segmentation
-  - Financial intermediation
-  - Net foreign assets
-  - Exorbitant privilege
-  - Reserve currency paradox
-  - Safe asset view
-  - Factor structure models
-  - Multi-currency dynamics
-  - International spillovers
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Lecture Notes on International Finance and financial analysis
+- Lecture Notes on International Finance in modern finance
+- Applications of Lecture Notes on International Finance
+- 'Case study: Lecture Notes on International Finance'
+- Arbitrage pricing theory and no-arbitrage principle
+- Delta hedging strategies in options markets
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Mean Variance in financial markets
+- Time Series in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
 linter-yaml-title-alias: Lecture Notes on International Finance
+tags:
+- delta
+- eur
+- monetary-policy
+- margin
+- forward
+- future
+- implied
+- time-series
+- risk-management
+- interest-rates
+- covariance
+- put
+- crisis
+- bonds
+- measure
+- valuation
+- options
+- arbitrage
+- theta
+- repo
+- growth
+- mean-variance
+- portfolio
+- capital
+- stochastic
+- discount
+- call
+- no-arbitrage
+- var
+- yield
+- interest-rate
+title: Lecture Notes on International Finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000521
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Lecture Notes on International Finance
 

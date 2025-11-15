@@ -1,22 +1,74 @@
 ---
 tags:
-  - bond_valuation
-  - cross_currency_swaps
-  - currency_swaps
-  - fixed_income
-  - interest_rate_swaps
-  - liability_management
+- delta
+- duration
+- eur
+- bond_valuation
+- multiple
+- hedge
+- currency_swaps
+- forward
+- future
+- swap
+- yield-curve
+- jpy
+- pricing
+- counterparty
+- hedging
+- cross_currency_swaps
+- fixed_income
+- covered-interest
+- put
+- american
+- bond
+- trading
+- spread
+- forward-rate
+- interest_rate_swaps
+- liability_management
 aliases:
-  - Currency swaps
-  - FX swaps
-  - XCCY swaps
+- Currency swaps
+- FX swaps
+- XCCY swaps
 key_concepts:
-  - Alter currency of liabilities
-  - Currency exchange of bonds
-  - Fixed-for-fixed exchange
-  - Present valuing both sides
-  - Principal exchange included
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Bond duration and interest rate risk
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Arbitrage pricing theory and no-arbitrage principle
+- Covered Interest in financial markets
+- Cross Currency in financial markets
+- Delta hedging strategies in options markets
+- Duration and interest rate risk measurement
+- Exchange Rate in financial markets
+- Forward Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Spot Rate in financial markets
+- Yield Curve in financial markets
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000307
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 4.3 CROSS-CURRENCY SWAPS  
 

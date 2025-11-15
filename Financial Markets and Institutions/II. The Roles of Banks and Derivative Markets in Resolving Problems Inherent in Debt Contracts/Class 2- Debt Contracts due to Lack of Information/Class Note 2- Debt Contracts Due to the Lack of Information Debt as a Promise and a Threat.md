@@ -1,34 +1,48 @@
 ---
 cssclasses:
-  - academia
-title: "Class Note 2: Debt Contracts Due to the Lack of Information - Debt as a Promise and a Threat"
+- academia
+title: 'Class Note 2: Debt Contracts Due to the Lack of Information - Debt as a Promise
+  and a Threat'
 tags:
-  - borrower_lender
-  - debt_contracts
-  - information_asymmetry
-  - liquidation
-  - monitoring_costs
-  - renegotiation
-  - bankruptcy
-  - covenant_enforcement
+- asset-backed-securities
+- banking-regulation
+- basel-accord
+- capital-adequacy
+- capital-budgeting
+- caplet
+- cds
+- coherent-risk-measure
+- conditional-var
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
 aliases:
-  - Borrower's Dilemma
-  - Debt as Promise
-  - Debt as Threat
-  - Non-Monitored Debt
-  - Information Problems in Debt
+- Borrower's Dilemma
+- Debt as Promise
+- Debt as Threat
+- Non-Monitored Debt
+- Information Problems in Debt
 key_concepts:
-  - Borrower's profitable project
-  - Borrower's underreported cash
-  - Debt in corporate control
-  - Lender's monitoring cost
-  - Lenders write a contract
-  - Optimal liquidation policy
-  - Face value determination
-  - Monitoring and renegotiation value
-  - Bankruptcy as penalty
-  - Financial contract optimization
+- Risk-neutral measures and martingale pricing
+- Martingale theory and change of measure
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Net present value (NPV) and investment evaluation
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
 
 # Class Note 2: Debt Contracts Due to the Lack of Information - Debt as a Promise and a Threat
 

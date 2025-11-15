@@ -2,21 +2,65 @@
 linter-yaml-title-alias: 'The HFT Arms Race: Example'
 title: The High Frequency Arms Race
 tags:
-  - cme_nyse
-  - high_frequency_trading
-  - limit_order_book
-  - market_correlation
-  - market_design
+- limit_order_book
+- credit-rating
+- regression-discontinuity
+- duration
+- tracking-error
+- enterprise-value
+- algorithmic-trading
+- market_correlation
+- credit-spread
+- sec
+- high_frequency_trading
+- future
+- market_design
+- cme_nyse
+- private-equity
+- correlation
+- distribution
+- t-bonds
+- trading
+- market
+- financial-engineering
+- financial-markets
+- spread
+- measure
+- dark-pool
+- machine-learning
 aliases:
-  - Frequent Batch Auctions
-  - HFT Arms Race
+- Frequent Batch Auctions
+- HFT Arms Race
 key_concepts:
-  - CME and NYSE data
-  - ES vs SPY
-  - High-frequency trading
-  - Limit order book
-  - Market correlations breakdown
+- Market correlations breakdown
+- Limit order book
+- CME and NYSE data
+- ES vs SPY
+- High-frequency trading
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Correlation modeling and dependency structures
+- Duration and interest rate risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000040
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 A few slides taken from: The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response Eric Budish,  Peter Cramton and John Shim Forthcoming,  Quarterly Journal of Economics Seminar Slides,  Sept 2015
 

@@ -1,21 +1,68 @@
 ---
 tags:
-  - nominal_dividends
-  - nominal_prices
-  - real_dividends
-  - real_prices
-  - state_price_deflator
+- risk-free
+- eur
+- nominal_prices
+- ito
+- future
+- time-series
+- state_price_deflator
+- dividend
+- pricing
+- correlation
+- premium
+- apt
+- real_prices
+- put
+- nominal_dividends
+- rho
+- model
+- call
+- market
+- variance
+- currency
+- var
+- roa
+- yield
+- real_dividends
 aliases:
-  - Inflation and Returns
-  - Real vs. Nominal
-  - State-Price Deflators
+- Inflation and Returns
+- Real vs. Nominal
+- State-Price Deflators
 key_concepts:
-  - Inflation Rate Calculation
-  - Lognormal Setting Returns
-  - Nominal vs Real Dividends
-  - Real and Nominal Returns
-  - State-Price Deflator Definition
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Correlation modeling and dependency structures
+- Interest Rate in financial markets
+- Risk Free in financial markets
+- Time Series in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000420
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 4.5 Nominal and real state-price deflators  
 

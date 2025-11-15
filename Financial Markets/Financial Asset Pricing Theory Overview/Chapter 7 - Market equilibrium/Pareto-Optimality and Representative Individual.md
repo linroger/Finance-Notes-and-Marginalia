@@ -1,21 +1,50 @@
 ---
 tags:
-  - consumption_allocation
-  - pareto_optimality
-  - risk_sharing
-  - utility_function
-  - welfare_theorem
+- delta
+- dividend
+- welfare_theorem
+- risk_sharing
+- pareto_optimality
+- utility_function
+- pricing
+- consumption_allocation
+- call
+- model
+- market
+- probability
+- margin
+- var
+- future
 aliases:
-  - Central Planner
-  - Pareto optimal
-  - Second Welfare Theorem
+- Central Planner
+- Pareto optimal
+- Second Welfare Theorem
 key_concepts:
-  - Central planner's problem
-  - Feasible consumption plan
-  - Marginal rates of substitution
-  - Pareto-optimal consumption allocation
-  - Time-additive expected utility
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Delta hedging strategies in options markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000478
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 7.2 Pareto-optimality and representative individuals  
 

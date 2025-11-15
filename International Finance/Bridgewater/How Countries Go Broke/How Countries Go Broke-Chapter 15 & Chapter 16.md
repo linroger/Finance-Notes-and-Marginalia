@@ -1,28 +1,90 @@
 ---
-title: How Countries Go Broke-Chapter 15 & Chapter 16
-source: 
-  https://www.linkedin.com/pulse/how-countries-go-broke-chapter-15-16-ray-dalio-4oefe/
-author:
-published: 2000-02-13
-created: 2025-04-07
-description:
-tags:
-  - central_bank_risk
-  - country_debt
-  - debt_indicators
-  - financial_risk
-  - reserve_currency
 aliases:
-  - Country Risk
-  - Debt Risk
-  - How Countries Go Broke
+- Country Risk
+- Debt Risk
+- How Countries Go Broke
+author: null
+created: 2025-04-07
+description: null
 key_concepts:
-  - Central government debt
-  - Debt risk assessment
-  - Long-term debt risks
-  - Reserve currency status
-  - Short-term debt risks
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- How Countries Go Broke-Chapter 15 & Chapter 16 and financial analysis
+- How Countries Go Broke-Chapter 15 & Chapter 16 in modern finance
+- Applications of How Countries Go Broke-Chapter 15 & Chapter 16
+- 'Case study: How Countries Go Broke-Chapter 15 & Chapter 16'
+- Credit default probability and recovery modeling
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Market Risk in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+published: 2000-02-13
+source: https://www.linkedin.com/pulse/how-countries-go-broke-chapter-15-16-ray-dalio-4oefe/
+tags:
+- efficiency
+- leverage
+- eur
+- monetary-policy
+- hedge
+- basis
+- energy
+- swaps
+- future
+- regulation
+- swap
+- irs
+- interest-rates
+- distribution
+- option
+- put
+- american
+- bond
+- trading
+- crisis
+- futures
+- bonds
+- basel
+- overnight
+- spread
+- measure
+- default
+- options
+- roll
+- call
+- yield
+- interest-rate
+title: How Countries Go Broke-Chapter 15 & Chapter 16
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000591
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 ## Chapter 15: What My Indicators Show
 

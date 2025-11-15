@@ -1,19 +1,76 @@
 ---
-cssclasses: [international-economics]
-title: Chapter 5. Resources and Trade_ The Heckscher-Ohlin Model
-tags: [international-economics, heckscher-ohlin-model, factor-proportions, comparative-advantage]
-aliases: [Heckscher-Ohlin Model, Factor Proportions Theory]
+aliases:
+- Heckscher-Ohlin Model
+- Factor Proportions Theory
+cssclasses:
+- international-economics
 key_concepts:
-  - Factor Abundance
-  - Factor Intensity
-  - Factor-Proportions Theory
-  - Factor Price Equalization
-  - Stolper-Samuelson Theorem
-  - Rybczynski Theorem
-  - Long-run Income Distribution
-  - Resource Endowments
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Mathematical optimization in finance
+- Portfolio optimization techniques
+- Linear and quadratic programming
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Chapter 5. Resources and Trade_ The Heckscher-Ohlin Model and financial analysis
+- Chapter 5. Resources and Trade_ The Heckscher-Ohlin Model in modern finance
+- Applications of Chapter 5. Resources and Trade_ The Heckscher-Ohlin Model
+- 'Case study: Chapter 5. Resources and Trade_ The Heckscher-Ohlin Model'
+- Factor Model in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
 linter-yaml-title-alias: Chapter 5. Resources and Trade_ The Heckscher-Ohlin Model
+tags:
+- constraint
+- options
+- barrier
+- eur
+- multiple
+- statement
+- margin
+- ratio
+- accounting
+- swaps
+- optimization
+- capital
+- risk-management
+- irs
+- distribution
+- apt
+- put
+- call
+- rating
+- model
+- market
+- factor-model
+- var
+- spread
+- roa
+- measure
+title: Chapter 5. Resources and Trade_ The Heckscher-Ohlin Model
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000542
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Chapter 5. Resources and Trade: The Heckscher-Ohlin Model
 

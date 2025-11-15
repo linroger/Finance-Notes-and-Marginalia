@@ -1,12 +1,53 @@
 ---
+academic_level: graduate
+aliases:
+- Financial Instruments Assignments
+- Problem Sets
 cssclasses:
-  - academia
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000105
+key_concepts:
+- Arbitrage opportunities and no-arbitrage pricing
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Price Discovery and Market Efficiency
+- Bid-Ask Spreads and Market Impact
+- Market Microstructure and Liquidity Analysis
 linter-yaml-title-alias: Assignments-Financial Instruments
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- asset-allocation
+- credit-rating
+- hedging
+- investment-grade
+- low-default-risk
+- market-efficiency
+- portfolio-management
+- risk-free-profit
+- risk-management
+- order-flow
+- high-frequency-trading
+- bid-ask-spread
+- algorithmic-trading
+- financial-markets
+- arbitrage
+- market-impact
+- investment-analysis
+- price-discovery
+- liquidity
 title: Assignments
-tags: [financial_instruments, coursework, problem_sets]
-aliases: [Financial Instruments Assignments, Problem Sets]
-key_concepts: [practice problems, midterm solutions, homework assignments]
+type: case-study
 ---
+--
+
+
+
 # Assignments
 
 %% Begin Waypoint %%

@@ -1,25 +1,92 @@
 ---
-title: Operating Income vs. Net Income What's the Difference
-cssclasses:
-  - academia
-tags:
-  - financial_metrics
-  - income_statement
-  - net_income
-  - operating_income
-  - profitability
 aliases:
-  - Bottom Line
-  - J.C. Penney Example
-  - Operating Profit
+- Bottom Line
+- J.C. Penney Example
+- Operating Profit
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000241
 key_concepts:
-  - Operating income vs net income differences
-  - Operating expenses components
-  - Net income calculation methodology
-  - Gross profit relationship to operating income
-  - J.C. Penney financial analysis example
-  - Impact of interest expenses on profitability
+- Operating income vs net income differences
+- Operating expenses components
+- Net income calculation methodology
+- Gross profit relationship to operating income
+- J.C. Penney financial analysis example
+- Impact of interest expenses on profitability
+- Equity valuation and analysis
+- Dividend discount models
+- Options pricing and payoff structures
+- Delta hedging and Greeks
+- Credit risk modeling
+- Default probability estimation
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Risk Measurement and VaR Backtesting
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Option Valuation and Exercise Strategies
+- Value at Risk and Expected Shortfall
+- Credit Spreads and Rating Migration Analysis
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+tags:
+- equity
+- options
+- credit
+- net_income
+- financial_metrics
+- operating_income
+- profitability
+- income_statement
+- put-options
+- affine-term-structure
+- recovery-rate
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- strangles
+- expected-shortfall
+- straddles
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- covered-calls
+- ' exposure-at-default'
+- short-rate-models
+- option-strategies
+- stress-testing
+- unexpected-loss
+- ornstein-uhlenbeck
+- rating-migration
+- expected-loss
+- investment-analysis
+- credit-migration
+- default-probability
+- value-at-risk
+- credit-spreads
+- iron-condors
+- protective-puts
+- market-price-of-risk
+- financial-markets
+- probabilty-of-default
+- loss-given-default
+- vasicek-model
+- monte-carlo-var
+- var-backtesting
+- options-trading
+- risk-premium
+title: Operating Income vs. Net Income What's the Differe
 ---
+--
 
 # Operating Income vs. Net Income What's the Difference
 

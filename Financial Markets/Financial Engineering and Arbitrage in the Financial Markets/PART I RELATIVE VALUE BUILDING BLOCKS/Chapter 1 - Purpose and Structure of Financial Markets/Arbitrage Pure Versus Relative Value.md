@@ -1,21 +1,78 @@
 ---
 tags:
-  - arbitrage
-  - bond_dealer
-  - relative_value
-  - riskless_profit
-  - swaption
+- delta
+- leverage
+- duration
+- eur
+- arbitrage
+- riskless_profit
+- volatility
+- multiple
+- hedge
+- arma
+- forward
+- future
+- implied
+- bond_dealer
+- yield-curve
+- swap
+- option
+- hedging
+- oil
+- put
+- trading
+- bond
+- relative_value
+- swaption
+- structured
 aliases:
-  - Arbitrage Definition
-  - Pure Arbitrage
-  - Relative Value
+- Arbitrage Definition
+- Pure Arbitrage
+- Relative Value
 key_concepts:
-  - Law of one price
-  - Pure vs. Relative Value
-  - Relative value arbitrage
-  - Riskless instantaneous profit
-  - Static and dynamic arbitrage
+- Option Greeks and risk sensitivities
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Bond duration and interest rate risk
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Arbitrage pricing theory and no-arbitrage principle
+- Bid Ask in financial markets
+- Carry Trade in financial markets
+- Credit default probability and recovery modeling
+- Delta hedging strategies in options markets
+- Duration and interest rate risk measurement
+- Forward Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market Risk in financial markets
+- Swaption pricing and interest rate option strategies
+- Vega and volatility exposure in options trading
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000324
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 1.4 ARBITRAGE: PURE VERSUS RELATIVE VALUE  
 

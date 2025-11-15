@@ -1,20 +1,51 @@
 ---
 tags:
-  - cmt_swap
-  - discounting
-  - market_price
-  - option_adjusted_spread
-  - relative_value
+- discount
+- cmt_swap
+- option
+- option_adjusted_spread
+- market_price
+- market
+- model
+- put
+- measure
+- relative_value
+- spread
+- discount-rate
+- valuation
+- swap
+- discounting
 aliases:
-  - OAS
-  - Option Adjusted Spread
+- OAS
+- Option Adjusted Spread
 key_concepts:
-  - CMT swap example
-  - Discount rates in model
-  - Model value of security
-  - OAS market price
-  - Risk-neutral rates
+- Option valuation and hedging strategies
+- Swap market mechanisms and pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Discount Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000140
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 7.6 OPTION-ADJUSTED SPREAD  
 

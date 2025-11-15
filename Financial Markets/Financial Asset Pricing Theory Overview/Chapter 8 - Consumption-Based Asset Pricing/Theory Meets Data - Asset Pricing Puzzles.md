@@ -1,21 +1,65 @@
 ---
 tags:
-  - asset_pricing
-  - consumption_model
-  - empirical_tests
-  - equity_premium
-  - risk_aversion
+- empirical_tests
+- risk_aversion
+- risk-free
+- volatility
+- growth
+- future
+- equity
+- gamma
+- pricing
+- correlation
+- consumption_model
+- premium
+- put
+- rho
+- bond
+- asset_pricing
+- model
+- call
+- market
+- variance
+- cdo
+- var
+- roa
+- yield
+- equity_premium
 aliases:
-  - Asset Pricing
-  - Consumption-Based Model
-  - Equity Premium Puzzle
+- Asset Pricing
+- Consumption-Based Model
+- Equity Premium Puzzle
 key_concepts:
-  - Asset pricing puzzles
-  - Consumption-based model tests
-  - Equity premium
-  - Historical average returns
-  - Relative risk aversion coefficient
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Correlation modeling and dependency structures
+- Gamma risk and convexity adjustments in options
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Risk Free in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000431
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 8.5 Theory meets data - asset pricing puzzles  
 

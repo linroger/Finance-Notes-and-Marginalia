@@ -1,20 +1,123 @@
 ---
-tags:
-  - feynman_kac
-  - money_illusion
-  - nominal_bonds
-  - ode_solutions
-  - real_bonds
 aliases:
-  - Short Rate Model
-  - Vasicek Model
+- Short Rate Model
+- Vasicek Model
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000528
 key_concepts:
-  - Feynman-Kac Formula
-  - First Derivatives
-  - Nominal vs Real Bonds
-  - ODE Solutions
-  - System of Equations
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Vasicek Short Rate Model and financial analysis
+- Vasicek Short Rate Model in modern finance
+- Applications of Vasicek Short Rate Model
+- 'Case study: Vasicek Short Rate Model'
+- Risk Measurement and VaR Backtesting
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Fixed Income Securities and Credit Quality
+- Bond Pricing and Yield to Maturity Analysis
+- Option Valuation and Exercise Strategies
+- Value at Risk and Expected Shortfall
+- Cost of Equity and Expected Returns
+- Factor Models and Asset Pricing
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Ornstein-Uhlenbeck Process in Finance
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Government and Corporate Bond Markets
+- Capital Asset Pricing Model and Beta Analysis
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Arbitrage Pricing Theory and Multi-Factor Models
+tags:
+- options
+- alpha
+- bonds
+- swaps
+- fixed-income
+- bond
+- gamma
+- call
+- pricing
+- beta
+- derivatives
+- irs
+- market-efficie
+- put-options
+- affine-term-structure
+- hull-white
+- call-options
+- zero-coupon-bonds
+- clean-price
+- capm
+- cir-model
+- butterfly-spreads
+- momentum
+- strangles
+- expected-shortfall
+- straddles
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- market-risk-premium
+- var-methodologies
+- historical-var
+- book-to-market
+- mean-reversion
+- lognormal-models
+- covered-calls
+- style-analysis
+- short-rate-models
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- stress-testing
+- ornstein-uhlenbeck
+- capital-asset-pricing-model
+- efficient-frontier
+- investment-analysis
+- risk-premium
+- value-at-risk
+- arbitrage-pricing-theory
+- multi-factor-models
+- systematic-risk
+- fama-french
+- iron-condors
+- protective-puts
+- government-bonds
+- market-price-of-risk
+- financial-markets
+- security-market-line
+- size-effect
+- factor-models
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dirty-price
+- monte-carlo-var
+- idiosyncratic-risk
+- var-backtesting
+- options-trading
+- coupon-bonds
+- apt
+- current-yield
+- yield-to-maturity
 ---
+--
 $\textbf{Define}$$$
 Q = \log (\text{CPI}), \quad y = \log (Y)
 $$$\textbf{so that}$$$

@@ -1,3 +1,86 @@
+---
+tags:
+- leverage
+- eur
+- hedge
+- binomial-model
+- commodity
+- future
+- regulation
+- swap
+- caplet
+- dividend
+- capital-adequacy
+- cash-flow-modeling
+- oil
+- put
+- trading
+- bond
+- crisis
+- overnight
+- structured
+- sofr
+- banking-regulation
+- commodity-derivatives
+- coherent-risk-measure
+- basel-accord
+- default
+- cds
+- arbitrage-opportunity
+- maturity
+- repo
+- commodity-futures
+- capital-structure
+- black-scholes-model
+- benchmark-reform
+- arbitrage-free-models
+key_concepts:
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Interest rate swaps and fixed income derivatives
+- Currency swaps and foreign exchange risk management
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- LIBOR market model and multi-curve framework
+- SOFR benchmarks and risk-free rate transition
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Risk preference theory and utility functions
+- Credit default probability and recovery modeling
+- Dodd Frank in financial markets
+- Exchange Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- SOFR implementation and overnight rate markets
+- Spot Price in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000099
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
+
+
  
 source: https://www.investopedia.com/terms/s/swap.asp
 description: A swap is a derivative contract through which two parties exchange the

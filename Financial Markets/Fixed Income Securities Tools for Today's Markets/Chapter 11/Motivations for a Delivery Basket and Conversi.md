@@ -1,20 +1,59 @@
 ---
 tags:
-  - bond_futures
-  - conversion_factors
-  - ctd_bond
-  - deliverable_basket
-  - squeeze_risk
+- conversion_factors
+- maturity
+- coupon
+- future
+- futures-contract
+- yield-curve
+- deliverable_basket
+- bond_futures
+- term-structure
+- premium
+- put
+- call
+- bond
+- market
+- treasury
+- liquidity
+- yield
+- squeeze_risk
+- ctd_bond
 aliases:
-  - Conversion Factors
-  - Delivery Basket
+- Conversion Factors
+- Delivery Basket
 key_concepts:
-  - Avoid single security risk
-  - Bond futures liquidity
-  - Conversion factor function
-  - Deliverable basket benefits
-  - Squeeze risk mitigation
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Futures Contract in financial markets
+- Market liquidity analysis and liquidity risk
+- Term Structure in financial markets
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000191
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 11.7 MOTIVATIONS FOR A DELIVERY BASKET AND CONVERSION FACTORS  
 

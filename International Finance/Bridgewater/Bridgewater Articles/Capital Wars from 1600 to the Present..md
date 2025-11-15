@@ -1,24 +1,77 @@
 ---
-title: Capital Wars from 1600 to the Present
-cssclasses:
-  - academia
-tags:
-  - asset_freezes
-  - capital_wars
-  - economic_conflicts
-  - geopolitical_conflict
-  - trade_embargoes
 aliases:
-  - Capital Conflicts
-  - Economic Warfare
-  - Financial Warfare
+- Capital Conflicts
+- Economic Warfare
+- Financial Warfare
+cssclasses:
+- academia
 key_concepts:
-  - Asset freezes and seizures
-  - Blocking capital market access
-  - Embargoes and blockades
-  - Escalating conflicts between powers
-  - Tit-for-tat escalation
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Capital Wars from 1600 to the Present. and financial analysis
+- Capital Wars from 1600 to the Present. in modern finance
+- Applications of Capital Wars from 1600 to the Present.
+- 'Case study: Capital Wars from 1600 to the Present.'
+- Forward Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+tags:
+- leverage
+- barrier
+- eur
+- basis
+- energy
+- forward
+- swaps
+- future
+- swap
+- irs
+- oil
+- trading
+- crisis
+- futures
+- measure
+- forward-rate
+- basis-swap
+- options
+- ito
+- roll
+- capital
+- equity
+- european
+- apt
+- call
+- market
+- currency
+- liquidity
+title: Capital Wars from 1600 to the Present
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000610
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Capital Wars from 1600 to the Present
 

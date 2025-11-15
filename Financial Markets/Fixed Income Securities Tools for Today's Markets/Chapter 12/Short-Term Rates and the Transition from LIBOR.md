@@ -1,21 +1,69 @@
 ---
 tags:
-  - financial_crisis
-  - interbank_borrowing
-  - libor_transition
-  - short_term_rates
-  - sofr
+- libor_transition
+- short_term_rates
+- synthetic
+- risk-free
+- eur
+- ito
+- hedge
+- usd
+- collateralized
+- financial_crisis
+- forward
+- future
+- jpy
+- option
+- put
+- american
+- trading
+- crisis
+- overnight
+- spread
+- credit-risk
+- interbank_borrowing
+- sofr
+- fed-funds
 aliases:
-  - LIBOR
-  - London Interbank Offered Rate
-  - SOFR
+- LIBOR
+- London Interbank Offered Rate
+- SOFR
 key_concepts:
-  - Interbank borrowing
-  - LIBOR reference rates
-  - Overnight rates
-  - SOFR benchmark
-  - Term loans
+- American option pricing and early exercise
+- Option valuation and hedging strategies
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Credit Risk in financial markets
+- Fed Funds in financial markets
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- Risk Free in financial markets
+- SOFR implementation and overnight rate markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000247
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 12.1 SHORT-TERM RATES AND THE TRANSITION FROM LIBOR  
 

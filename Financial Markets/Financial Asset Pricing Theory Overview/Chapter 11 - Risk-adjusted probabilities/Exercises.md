@@ -1,20 +1,46 @@
 ---
 tags:
-  - conditional_probabilities
-  - continuous_time
-  - exercises
-  - state_price
-  - two_period_economy
+- dividend
+- financial-modeling
+- risk-management
+- continuous_time
+- capital-markets
+- conditional_probabilities
+- investment-analysis
+- put
+- financial-engineering
+- quantitative-finance
+- financial-markets
+- exercises
+- state_price
+- two_period_economy
+- financial-instruments
 aliases:
-  - Exercise Questions
-  - Exercises
+- Exercise Questions
+- Exercises
 key_concepts:
-  - Asset pricing
-  - Conditional probabilities
-  - Equations equivalence
-  - State-price deflator dynamics
-  - Two-period economy asset
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000452
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 11.8 Exercises  
 

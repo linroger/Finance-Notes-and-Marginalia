@@ -1,23 +1,65 @@
 ---
 tags:
-  - bank_balance_sheets
-  - financial_statements
-  - income_statements
-  - jp_morgan
-  - zions_bancorporation
+- duration
+- bank_balance_sheets
+- eur
+- fed-funds
+- hedge
+- maturity
+- margin
+- subordinated
+- repo
+- capital
+- portfolio
+- yield-curve
+- dividend
+- hedging
+- trading
+- gold
+- basel
+- structured
+- spread
+- income_statements
+- zions_bancorporation
+- mortgage
+- financial_statements
+- jp_morgan
+- valuation
 aliases:
-  - Bank Financials
-  - Banking Statements
+- Bank Financials
+- Banking Statements
 key_concepts:
-  - Balance sheet review
-  - Bank financial statements
-  - Income statement analysis
-  - J.P. Morgan overview
-  - Market VaR methods
-  - Net interest income
-  - Yield curve sensitivity
-  - Zions Bancorporation profile
+- Balance sheet review
+- Bank financial statements
+- Income statement analysis
+- J.P. Morgan overview
+- Market VaR methods
+- Net interest income
+- Yield curve sensitivity
+- Zions Bancorporation profile
+- Duration and interest rate risk measurement
+- Fed Funds in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Value at Risk and tail risk measurement
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000350
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 13.1 BANK BALANCE SHEETS AND INCOME STATEMENTS  
 

@@ -1,23 +1,192 @@
 ---
-tags:
-  - bond_structure
-  - bond_valuation
-  - credit_risk
-  - fixed_income
-  - yield_measures
 aliases:
-  - Bonds Overview
-  - Fixed Income
-  - Lecture Notes
+- Bonds Overview
+- Fixed Income
+- Lecture Notes
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000515
 key_concepts:
-  - Bond characteristics
-  - Bond maturity
-  - Coupon types
-  - Investment risks
-  - Portfolio strategies
-  - Types of issuers
-  - Yield measures
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Lecture Notes Bonds,  Preferred Stock,  and Structured Products and financial analysis
+- Lecture Notes Bonds,  Preferred Stock,  and Structured Products in modern finance
+- Applications of Lecture Notes Bonds,  Preferred Stock,  and Structured Products
+- 'Case study: Lecture Notes Bonds,  Preferred Stock,  and Structured Products'
+- Duration and Convexity in Fixed Income Risk Management
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Auto-Callable Notes and Barrier Options
+- Value at Risk and Expected Shortfall
+- Company Valuation and Multiple Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- Equity-Linked Notes and Market-Linked Securities
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Price Discovery and Market Efficiency
+- Structured Products and Principal Protection
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Interest Rate Swaps and Currency Swap Structures
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Interest Rate Risk and DV01 Calculations
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+tags:
+- maturity
+- libor
+- options
+- bonds
+- put
+- municipal
+- yield
+- fixed-income
+- bond
+- var
+- treasury
+- call
+- interest-rates
+- sofr
+- cou
+- leveraged-buyout
+- asset-allocation
+- call-options
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- backwardation
+- volatility-analysis
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- clearinghouse
+- overnight-indexed-swaps
+- interest-rate-risk
+- arbitrage-pricing-theory
+- hedge-ratio
+- price-discovery
+- loss-given-default
+- value-factor
+- dirty-price
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- var-methodologies
+- historical-var
+- contango
+- modified-duration
+- expected-loss
+- market-efficiency
+- order-flow
+- currency-swaps
+- market-linked-notes
+- bid-ask-spread
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- liquidity
+- curve-steepening
+- reverse-convertibles
+- credit-default-swaps
+- roll-yield
+- put-options
+- algorithmic-trading
+- momentum
+- curve-flattening
+- basis-risk
+- convexity
+- covered-calls
+- swap-rate
+- ' exposure-at-default'
+- stress-testing
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- duration-analysis
+- value-at-risk
+- factor-models
+- barbell-strategy
+- risk-management
+- convergence
+- var-backtesting
+- barrier-options
+- sum-of-parts
+- clean-price
+- high-frequency-trading
+- principal-protected-notes
+- strangles
+- conditional-var
+- equity-linked-notes
+- dv01
+- swap-spread
+- price-yield-relationship
+- credit-migration
+- default-probability
+- marking-to-market
+- auto-callables
+- total-return-swaps
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- structured-notes
+- iron-condors
+- financial-markets
+- macaulay-duration
+- size-effect
+- basis-swaps
+- precedent-transactions
+- knock-out-options
+- interest-rate-swaps
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+- current-yield
 ---
+--
 
 # Lecture Notes: Bonds, Preferred Stock, and Structured Products
 

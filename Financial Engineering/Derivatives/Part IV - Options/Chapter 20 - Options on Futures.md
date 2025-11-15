@@ -1,22 +1,231 @@
 ---
-tags:
-  - american_options
-  - futures_contract
-  - futures_options
-  - market_conventions
-  - option_pricing
+academic_level: graduate
 aliases:
-  - Eurodollar futures
-  - Futures Option
-  - Options on Futures
-  - T-bond futures
+- Eurodollar futures
+- Futures Option
+- Options on Futures
+- T-bond futures
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000393
 key_concepts:
-  - European call/put bounds
-  - Futures option underlying futures
-  - Options on spot assets
-  - Payoffs and trading strategies
-  - Price quotes and delivery
+- Black-Scholes option pricing model and continuous-time finance
+- Monte Carlo simulation for derivatives pricing and risk management
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Collateralized debt obligations (CDO) and tranche structure
+- Arbitrage opportunities and no-arbitrage pricing
+- Risk preference theory and utility functions
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Variance Reduction Techniques in Monte Carlo Methods
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- Delta, Gamma, and Vega Hedging Techniques
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Stochastic Integration and Path-Dependent Options
+- Forward Curves and Roll Strategies
+- Black-Scholes Option Pricing Model and Its Applications
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Hedge Strategies and Basis Risk Management
+- Factor Models and Asset Pricing
+- Dynamic vs Static Hedging in Practice
+- American Option Pricing and Early Exercise Premium
+- Interest Rate Swaps and Currency Swap Structures
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Hedging Strategies and Risk Mitigation
+- Monte Carlo Simulation Methods for Derivative Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- binomial-model
+- black-scholes-model
+- caplet
+- cds
+- collateralized-debt-obligation
+- continuous-time-pricing
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- crude-oil
+- currency-markets
+- control-variates
+- exotic-options
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- binomial-tree
+- straddles
+- extreme-value-theory
+- american-options
+- partial-differential-equation
+- book-to-market
+- arbitrage
+- risk-neutral-valuation
+- backwardation
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- clearinghouse
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- monte-carlo-simulation
+- hedge-ratio
+- market-price-of-risk
+- volatility-surface
+- price-discovery
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- dirty-price
+- forward-curves
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- bsm-model
+- recovery-rate
+- zero-coupon-bonds
+- black-scholes-formula
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- random-walks
+- expected-loss
+- market-efficiency
+- delta-hedging
+- quantitative-finance
+- order-flow
+- currency-swaps
+- bid-ask-spread
+- crr-model
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- liquidity
+- credit-default-swaps
+- gamma-hedging
+- hedge-effectiveness
+- storage-costs
+- roll-yield
+- risk-premium
+- put-options
+- affine-term-structure
+- multi-period-binomial
+- algorithmic-trading
+- momentum
+- basis-risk
+- discrete-time-pricing
+- hedge-strategies
+- antithetic-variates
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- investment-analysis
+- path-dependency
+- value-at-risk
+- metals-trading
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- variance-reduction
+- stochastic-integration
+- cross-hedging
+- seasonality
+- european-options
+- clean-price
+- high-frequency-trading
+- lattice-models
+- strangles
+- conditional-var
+- fixed-income
+- cox-ross-rubinstein
+- short-rate-models
+- least-squares-mc
+- swap-spread
+- optional-exercise
+- credit-migration
+- default-probability
+- marking-to-market
+- binomial-option-pricing
+- total-return-swaps
+- libor
+- credit-spreads
+- multi-factor-models
+- ito-calculus
+- iron-condors
+- option-pricing
+- financial-markets
+- static-hedging
+- size-effect
+- basis-swaps
+- interest-rate-swaps
+- lognormal-distribution
+- ' recombining-trees'
+- futures-contracts
+- quasi-monte-carlo
+- apt
+- current-yield
+type: note
 ---
+--
+
+
+
 # Options on Futures  
 
 # Aims  

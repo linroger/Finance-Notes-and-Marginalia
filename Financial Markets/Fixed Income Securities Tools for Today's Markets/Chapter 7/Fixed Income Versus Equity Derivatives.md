@@ -1,21 +1,74 @@
 ---
 tags:
-  - black_scholes_merton
-  - bond_pricing
-  - equity_derivatives
-  - fixed_income
-  - interest_rates
+- black_scholes_merton
+- volatility
+- arbitrage
+- convexity
+- hedge
+- equity_derivatives
+- maturity
+- coupon
+- spot-rate
+- bond_pricing
+- equity
+- black-scholes
+- interest_rates
+- pricing
+- option
+- term-structure
+- premium
+- apt
+- fixed_income
+- binomial
+- model
+- bond
+- factor-model
+- roa
+- portfolio
 aliases:
-  - BSM Model
-  - Bond Option Pricing
-  - Fixed Income vs. Equity Derivatives
+- BSM Model
+- Bond Option Pricing
+- Fixed Income vs. Equity Derivatives
 key_concepts:
-  - BSM option pricing
-  - Bond price convergence
-  - Interest rate volatility
-  - Short-term rate modeling
-  - Term structure evolution
+- Black-Scholes model and option pricing theory
+- Binomial option pricing model
+- Option valuation and hedging strategies
+- Bond convexity and price-yield relationships
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Hedging strategies and delta-gamma neutrality
+- Financial derivatives pricing and valuation
+- Arbitrage pricing theory and no-arbitrage principle
+- Binomial option pricing model and tree methods
+- Black-Scholes option pricing model and its applications
+- Convexity adjustments for bond portfolio management
+- Factor Model in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Spot Rate in financial markets
+- Term Structure in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000136
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 7.9 FIXED INCOME VERSUS EQUITY DERIVATIVES  
 

@@ -1,33 +1,193 @@
 ---
-cssclasses:
-  - academia
-title: Problem Set 1 - Fixed Income Asset Pricing
-tags:
-  - asset_pricing
-  - bond_equivalent_yield
-  - fixed_income
-  - interest_rates
-  - t_bill_rate
-  - treasury_strips
-  - forecasting
+academic_level: graduate
 aliases:
-  - 3-month T-bill rate
-  - BEY
-  - Homework 1
-  - PSET 1
-  - Fixed Income Problem Set
+- 3-month T-bill rate
+- BEY
+- Homework 1
+- PSET 1
+- Fixed Income Problem Set
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000106
 key_concepts:
-  - Bond equivalent yield
-  - Fixed income asset pricing
-  - Historical interest rate data
-  - Mean reversion of rates
-  - Short term interest rates
-  - AR(1) process modeling
-  - Interest rate forecasting
-  - Forward rate calculation
-  - Yield curve construction
-  - Treasury strip pricing
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Alpha generation and active portfolio management
+- Beta estimation and systematic risk measurement
+- Beta estimation and systematic risk measurement
+- Alpha generation and active return measurement
+- Risk preference theory and utility functions
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Cost of Equity and Expected Returns
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Time Series Analysis in Financial Markets
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Term Structure of Interest Rates and Yield Curves
+- Cointegration and Statistical Arbitrage
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- GARCH Models and Volatility Forecasting
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arch
+- arima
+- asset-allocation
+- beta-estimation
+- caplet
+- coherent-risk-measure
+- conditional-var
+- convexity-adjustment
+- credit-rating
+- duration-analysis
+- excess-return
+- expected-loss
+- financial-modeling
+- fixed-income-sensitivity
+- forward-contracts
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- backwardation
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- yield-curve
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- interpolation
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dirty-price
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- yield-to-maturity
+- fama-french
+- forward-rates
+- stationarity
+- recovery-rate
+- zero-coupon-bonds
+- garch
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- unit-roots
+- market-efficiency
+- quantitative-finance
+- forward-curve
+- order-flow
+- bid-ask-spread
+- systematic-risk
+- protective-puts
+- government-bonds
+- alpha
+- security-market-line
+- probabilty-of-default
+- liquidity
+- curve-fitting
+- idiosyncratic-risk
+- roll-yield
+- beta
+- risk-premium
+- spot-rates
+- put-options
+- affine-term-structure
+- capm
+- algorithmic-trading
+- momentum
+- basis-risk
+- market-risk-premium
+- volatility-modeling
+- term-structure
+- regime-switching
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- investment-analysis
+- value-at-risk
+- kalman-filter
+- factor-models
+- convergence
+- var-backtesting
+- arima-models
+- state-space-models
+- clean-price
+- yield-curve-shocks
+- high-frequency-trading
+- strangles
+- fixed-income
+- cointegration
+- short-rate-models
+- efficient-frontier
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- granger-causality
+- multi-factor-models
+- iron-condors
+- financial-markets
+- size-effect
+- futures-contracts
+- apt
+- bootstrap-method
+- current-yield
+title: Problem Set 1 - Fixed Income Asset Pricing
+type: case-study
 ---
+--
+
+
 
 # Problem Set 1 - Fixed Income Asset Pricing
 

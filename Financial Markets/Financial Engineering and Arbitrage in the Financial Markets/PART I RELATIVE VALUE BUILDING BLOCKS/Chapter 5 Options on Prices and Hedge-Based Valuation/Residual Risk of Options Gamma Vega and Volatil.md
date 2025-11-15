@@ -1,21 +1,75 @@
 ---
 tags:
-  - delta_hedging
-  - gamma_risk
-  - options_pricing
-  - vega_risk
-  - volatility_risk
+- delta
+- volatility_risk
+- risk-free
+- volatility
+- eur
+- hedge
+- gamma_risk
+- probability
+- delta_hedging
+- forward
+- future
+- implied
+- jpy
+- gamma
+- options_pricing
+- pricing
+- counterparty
+- option
+- hedging
+- distribution
+- dcf
+- binomial
+- vega_risk
+- put
+- bond
 aliases:
-  - Delta Hedge Risk
-  - Gamma Vega Volatility
-  - Residual Risk
+- Delta Hedge Risk
+- Gamma Vega Volatility
+- Residual Risk
 key_concepts:
-  - Binomial model
-  - Delta hedging
-  - Gamma risk
-  - Vega risk
-  - Volatility assumption
+- Black-Scholes model and option pricing theory
+- Binomial option pricing model
+- Option Greeks and risk sensitivities
+- Option valuation and hedging strategies
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Arbitrage pricing theory and no-arbitrage principle
+- Bid Ask in financial markets
+- Binomial option pricing model and tree methods
+- Black-Scholes option pricing model and its applications
+- Discounted Cash Flow valuation methodology
+- Delta hedging strategies in options markets
+- Futures Contract in financial markets
+- Gamma risk and convexity adjustments in options
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Mean Reversion in financial markets
+- P E in financial markets
+- Risk Free in financial markets
+- Vega and volatility exposure in options trading
+- Volatility modeling and implied volatility surfaces
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000283
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 5.8 RESIDUAL RISK OF OPTIONS: GAMMA, VEGA, AND VOLATILITY  
 

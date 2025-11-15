@@ -1,3 +1,83 @@
+---
+key_concepts:
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- US Deleveraging 1930s and financial analysis
+- US Deleveraging 1930s in modern finance
+- Applications of US Deleveraging 1930s
+- 'Case study: US Deleveraging 1930s'
+- Carry Trade in financial markets
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Discount Rate in financial markets
+- Duration and interest rate risk measurement
+- Exchange Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Par Value in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+tags:
+- leverage
+- duration
+- barrier
+- volatility
+- multiple
+- eur
+- hedge
+- par-value
+- senior
+- margin
+- commodity
+- discount-rate
+- arma
+- forward
+- future
+- implied
+- regulation
+- dividend
+- distribution
+- option
+- put
+- trading
+- bond
+- bonds
+- spread
+- credit-risk
+- default
+- options
+- fixed-income
+- municipal
+- corporate-bond
+- recovery
+- liquidity
+- yield
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000581
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # US Deleveraging 1930s
 
 This document provides a timeline for the U.S. Deleveraging in the 1930s. I wrote it in a way to both make clear important cause and effect relationships and to convey an up-close feeling of what it was like to go through the experience as an investor. As a result, sometimes you will read about market action in detail that has no historical importance but provides perspective for investors trying to navigate such moves. For example, throughout this period there were giant market whip-saws and swings in sentiment that misled and hurt many. Also, the waves of destruction in asset values that occurred through changing market values and asset confiscations were enormous. So it is important that we, as managers of our clients' wealth, visualize how we would have navigated these changes. Only by going through this experience virtually, as well as going through the other deleveragings (the Weimar Republic in the 1920s, Latin America in the 1980s and Japan in the 1990s) and testing our strategies can we be confident that we can successfully navigate the next few years.

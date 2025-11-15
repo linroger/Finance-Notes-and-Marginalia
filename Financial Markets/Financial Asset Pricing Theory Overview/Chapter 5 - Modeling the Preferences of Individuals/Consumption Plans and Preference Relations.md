@@ -1,20 +1,52 @@
 ---
 tags:
-  - asset_pricing
-  - consumption_plans
-  - expected_utility
-  - preference_relations
-  - utility_index
+- gamma
+- pricing
+- distribution
+- apt
+- utility_index
+- preference_relations
+- expected_utility
+- call
+- model
+- asset_pricing
+- probability
+- var
+- measure
+- portfolio
+- consumption_plans
 aliases:
-  - Consumption Preferences
-  - Preference Theory
+- Consumption Preferences
+- Preference Theory
 key_concepts:
-  - Consumption plans comparison
-  - Expected utility function
-  - Preference relation representation
-  - State-independent preferences
-  - Utility index assignment
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Gamma risk and convexity adjustments in options
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000440
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 5.2 Consumption plans and preference relations  
 

@@ -1,20 +1,66 @@
 ---
 tags:
-  - basket_credit_derivatives
-  - credit_derivative_indexes
-  - default_correlation
-  - synthetic_cdo
+- default
+- hedging-strategies
+- capital-markets
+- synthetic
+- arbitrage
+- mathematical-finance
+- collateralized
+- quantitative-valuation
+- market-microstructure
+- financial-crisis
+- risk-management
+- pricing
+- correlation
+- hedging
+- finance
+- credit
+- tranche
+- quantitative-methods
+- model
+- financial-engineering
+- rating
+- cdo
+- statistical-analysis
+- crisis
+- credit-risk
+- structured-products
+- derivatives-pricing
+- collateral
+- derivative
 aliases:
-  - Basket Credit Derivatives
-  - CDO
-  - Credit Derivatives
+- Basket Credit Derivatives
+- CDO
+- Credit Derivatives
 key_concepts:
-  - CDO Tranche Pricing
-  - Cash CDO
-  - Copula Models
-  - First-to-Default Basket
-  - Synthetic CDO
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Financial derivatives pricing and valuation
+- Arbitrage pricing theory and no-arbitrage principle
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000330
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 10  Collateralized Debt Obligations and Basket Credit Derivatives  
 

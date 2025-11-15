@@ -1,22 +1,74 @@
 ---
 tags:
-  - debt_securities
-  - fixed_income
-  - global_markets
-  - interest_rate_derivatives
-  - issuer_residence
+- default
+- cds
+- eur
+- usd
+- global_markets
+- repo
+- interest_rate_derivatives
+- gbp
+- debt_securities
+- forward
+- future
+- regulation
+- swap
+- capital
+- jpy
+- equity
+- option
+- hedging
+- fixed_income
+- bond
+- issuer_residence
+- crisis
+- credit-risk
+- mortgage
+- forward-rate
 aliases:
-  - Debt Securities
-  - Fixed Income Overview
-  - Global Debt Markets
-  - Interest Rate Derivatives
+- Debt Securities
+- Fixed Income Overview
+- Global Debt Markets
+- Interest Rate Derivatives
 key_concepts:
-  - Debt by sector
-  - Debt securities issuers
-  - Global debt securities
-  - Government debt
-  - Interest rate derivatives
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Forward Rate in financial markets
+- Interest Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000135
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 0.1 GLOBAL FIXED INCOME MARKETS  
 

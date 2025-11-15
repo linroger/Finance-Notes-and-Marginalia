@@ -1,20 +1,51 @@
 ---
 tags:
-  - ctd_bond
-  - futures_contract
-  - implied_repo_rate
-  - relative_pricing
-  - repo_rate
+- repo
+- forward
+- future
+- implied
+- futures-contract
+- spot-price
+- pricing
+- implied_repo_rate
+- apt
+- repo_rate
+- call
+- put
+- bond
+- relative_pricing
+- measure
+- futures_contract
+- ctd_bond
 aliases:
-  - Implied Repo
-  - Repo Rates
+- Implied Repo
+- Repo Rates
 key_concepts:
-  - Bond spot and forward prices
-  - CTD bond futures contract
-  - Implied repo rate calculation
-  - Relative value measure
-  - Repo rate and forward price
+- Fixed income securities and yield curve analysis
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Futures Contract in financial markets
+- Spot Price in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000181
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 11.10 IMPLIED REPO RATES  
 

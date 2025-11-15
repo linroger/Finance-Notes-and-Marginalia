@@ -1,12 +1,181 @@
 ---
-title: "Week 9 - Information Risks and (International) Accounting Differences, Platform Businesses"
-linter-yaml-title-alias: "Week 9 - Information Risks and (International) Accounting Differences, Platform Businesses"
-aliases: [International Accounting, Week 9 Platform Businesses, Information Risk Analysis]
-date created: Tuesday, November 26th 2024, 9:30:45 pm
+academic_level: graduate
+aliases:
+- International Accounting
+- Week 9 Platform Businesses
+- Information Risk Analysis
 cssclasses: academia
-tags: [accounting_differences, ifrs, information_risks, non_gaap, platform_businesses, us_gaap, valuation, subscription_economy, saas_valuation, customer_based_valuation, blue_apron, zoom_case]
-key_concepts: [accounting differences valuation, ifrs adoption reporting, information risks global investments, non-gaap reporting metrics, platform subscription businesses, reporting incentives importance, customer lifetime value, unit economics, arr metrics, rpo accounting, asc_606, saas multiples]
+date created: Tuesday, November 26th 2024, 9:30:45 pm
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000263
+key_concepts:
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Correlation analysis and dependency structures
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Free Cash Flow and Enterprise Value
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Distressed Investing and Debt Restructuring
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Private Equity Investment Returns and Value Creation
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Terminal Value and WACC Calculations
+- Discounted Cash Flow Valuation Models
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: Week 9 - Information Risks and (International) Accounting
+  Differences, Platform Businesses
+professional_application: theoreti
+status: active
+tags:
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-budgeting
+- capital-structure
+- caplet
+- cash-flow-modeling
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- cost-of-capital
+- credit-rating
+- dcf-valuation
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- terminal-value
+- free-cash-flow
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- exchange-offers
+- backwardation
+- volatility-analysis
+- style-analysis
+- leverage-ratio
+- option-strategies
+- cramdown
+- unexpected-loss
+- clearinghouse
+- debt-restructuring
+- enterprise-value
+- arbitrage-pricing-theory
+- hedge-ratio
+- private-equity
+- market-price-of-risk
+- loss-given-default
+- value-factor
+- vasicek-model
+- distressed-investing
+- monte-carlo-var
+- options-trading
+- forward-contracts
+- price-to-earnings
+- fama-french
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- debt-capacity
+- expected-loss
+- wacc
+- quantitative-finance
+- investment-return
+- protective-puts
+- probabilty-of-default
+- discounted-cash-flow
+- roll-yield
+- cost-of-debt
+- risk-premium
+- put-options
+- affine-term-structure
+- equity-kickers
+- lbo-valuation
+- momentum
+- basis-risk
+- covered-calls
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- bootstrap-strategy
+- management-buyout
+- blocker-strategy
+- factor-models
+- creditor-committees
+- risk-management
+- convergence
+- var-backtesting
+- tender-offers
+- sum-of-parts
+- ' DIP-financing'
+- strangles
+- short-rate-models
+- cost-of-equity
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- equity-value
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+title: Week 9 - Information Risks and (International) Accounting Differences, Platform
+  Businesses
+type: course-note
 ---
+--
+
+
 
 # Week 9 - Information Risks and (International) Accounting Differences, Platform Businesses
 

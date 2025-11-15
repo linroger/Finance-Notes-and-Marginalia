@@ -1,3 +1,78 @@
+---
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Chapter 8. Firms in the Global Economy_ Export and Foreign Sourcing Decisions and
+  Multinational Enterprises and financial analysis
+- Chapter 8. Firms in the Global Economy_ Export and Foreign Sourcing Decisions and
+  Multinational Enterprises in modern finance
+- Applications of Chapter 8. Firms in the Global Economy_ Export and Foreign Sourcing
+  Decisions and Multinational Enterprises
+- 'Case study: Chapter 8. Firms in the Global Economy_ Export and Foreign Sourcing
+  Decisions and Multinational Enterprises'
+- Growth Rate in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+tags:
+- efficiency
+- eur
+- barrier
+- multiple
+- senior
+- margin
+- energy
+- arma
+- swaps
+- future
+- regulation
+- risk-management
+- pricing
+- irs
+- distribution
+- option
+- oil
+- put
+- trading
+- american
+- crisis
+- futures
+- spread
+- measure
+- options
+- roll
+- risk
+- call
+- liquidity
+- var
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000540
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # CHAPTER 8  
 
 # Firms in the Global Economy: Export and Foreign Sourcing Decisions and Multinational Enterprises  

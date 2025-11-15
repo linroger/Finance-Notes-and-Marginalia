@@ -1,33 +1,41 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Financial Intermediation and Delegated Monitoring
 tags:
-  - agency_problem
-  - banking
-  - credit_risk
-  - delegated_monitoring
-  - financial_intermediation
-  - information_asymmetry
-  - loan_monitoring
-  - banker_incentives
-  - diversification
+- asset-allocation
+- banking-regulation
+- basel-accord
+- bid-ask-spread
+- capital-adequacy
+- caplet
+- hedging
+- interest-rate-cap
+- interest-rate-ceiling
+- ito-calculus
+- ito-integration
+- liquidity-risk
+- market-liquidity
+- portfolio-management
+- risk-management
 aliases:
-  - Delegated Monitoring
-  - Financial Intermediation
-  - Banking Theory
-  - Monitoring Costs
+- Delegated Monitoring
+- Financial Intermediation
+- Banking Theory
+- Monitoring Costs
 key_concepts:
-  - Credit risk management
-  - Delegated monitoring model
-  - Financial intermediaries
-  - Information asymmetry
-  - Moral hazard
-  - Monitoring costs
-  - Banker incentives
-  - Portfolio diversification
-  - Control rent
-  - Liquidation threats
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
 
 # Financial Intermediation and Delegated Monitoring

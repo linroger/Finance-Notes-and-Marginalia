@@ -1,13 +1,208 @@
 ---
-title: "Week 8 - Dow Chemical Case - Assignment Review"
-linter-yaml-title-alias: "Week 8 - Dow Chemical Case - Assignment Review"
-aliases: [Bahia Blanca Complex, Dow's Bid, PBB Acquisition, Argentine Privatization Case]
-date created: Tuesday, November 26th 2024, 9:10:23 pm
+academic_level: graduate
+aliases:
+- Bahia Blanca Complex
+- Dow's Bid
+- PBB Acquisition
+- Argentine Privatization Case
 cssclasses: academia
-tags: [currency_crisis, dow_chemical, international_risks, pbb_privatization, valuation_model, argentina, emerging_markets, discount_rate_adjustment, scenario_analysis, expropriation_risk, petrochemicals]
-key_concepts: [dow's business model, incorporate risks valuation model, international project valuation, privatization of pbb, project stages evaluation, currency crisis impact, expropriation scenarios, sovereign spread, discount rate adjustments, export backstop, business risk analysis]
+date created: Tuesday, November 26th 2024, 9:10:23 pm
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000284
 instructor: Thomas Rauter
+key_concepts:
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Beta estimation and systematic risk measurement
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Beta estimation and systematic risk measurement
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Free Cash Flow and Enterprise Value
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Cost of Equity and Expected Returns
+- Forward Curves and Roll Strategies
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Terminal Value and WACC Calculations
+- Discounted Cash Flow Valuation Models
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: Week 8 - Dow Chemical Case - Assignment Review
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- banking-regulation
+- basel-accord
+- beta-estimation
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-asset-pricing
+- capital-budgeting
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cds
+- coherent-risk-measure
+- leveraged-buyout
+- asset-allocation
+- hull-white
+- call-options
+- cir-model
+- terminal-value
+- free-cash-flow
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- enterprise-value
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dirty-price
+- forward-curves
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- expected-loss
+- wacc
+- quantitative-finance
+- systematic-risk
+- protective-puts
+- government-bonds
+- alpha
+- security-market-line
+- probabilty-of-default
+- discounted-cash-flow
+- dcf-valuation
+- idiosyncratic-risk
+- storage-costs
+- roll-yield
+- cost-of-debt
+- beta
+- risk-premium
+- put-options
+- affine-term-structure
+- capm
+- momentum
+- basis-risk
+- market-risk-premium
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- value-at-risk
+- metals-trading
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- sum-of-parts
+- seasonality
+- clean-price
+- strangles
+- conditional-var
+- fixed-income
+- short-rate-models
+- cost-of-equity
+- efficient-frontier
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- equity-value
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+- current-yield
+title: Week 8 - Dow Chemical Case - Assignment Review
+type: course-note
 ---
+--
+
+
 
 # Week 8 - Dow Chemical Case - Assignment Review
 

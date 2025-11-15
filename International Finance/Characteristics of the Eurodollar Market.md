@@ -1,34 +1,84 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Characteristics of the Eurodollar Market
-title: Characteristics of the Eurodollar Market
-tags:
-  - eurobond_market
-  - eurocurrency_market
-  - eurodollar
-  - international_money_market
-  - libor
-  - fixed_income
-  - offshore_banking
-  - international_finance
 aliases:
-  - Eurocurrency Markets
-  - Eurodollar Deposits
-  - Euromarkets
-  - Offshore Banking Markets
+- Eurocurrency Markets
+- Eurodollar Deposits
+- Euromarkets
+- Offshore Banking Markets
+cssclasses:
+- academia
 key_concepts:
-  - Eurobond market structure and participants
-  - Eurodollar deposits and offshore markets
-  - International money vs capital markets
-  - LIBOR interest rate benchmarking
-  - Offshore banking jurisdictions
-  - Short-term borrowing and lending mechanisms
-  - Eurobond issuance and management process
-  - Sovereign bond spreads and credit ratings
-  - Syndicated lending structures
-  - Bearer bonds and tax advantages
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Characteristics of the Eurodollar Market and financial analysis
+- Characteristics of the Eurodollar Market in modern finance
+- Applications of Characteristics of the Eurodollar Market
+- 'Case study: Characteristics of the Eurodollar Market'
+- Credit default probability and recovery modeling
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+linter-yaml-title-alias: Characteristics of the Eurodollar Market
+tags:
+- eur
+- basis
+- senior
+- margin
+- regulation
+- swap
+- interest-rates
+- hedging
+- option
+- bond
+- futures
+- bonds
+- spread
+- default
+- options
+- comparable
+- roe
+- maturity
+- growth
+- coupon
+- fixed-income
+- capital
+- libor
+- equity
+- european
+- credit
+- call
+- treasury
+- yield
+- interest-rate
+title: Characteristics of the Eurodollar Market
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000514
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Characteristics of the Eurodollar Market
 ## THE EUROCURRENCY MARKET

@@ -1,37 +1,67 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Moody's Approach to Assessing the Adequacy of "Liquidity
   Risk Insurance"
 title: Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance
 tags:
-  - alternate_liquidity
-  - backstop_liquidity
-  - contingency_plans
-  - corporate_issuer
-  - fixed_income_market
-  - issuer_analysis
-  - liquidity_insurance
-  - liquidity_risk
-  - moodys_approach
-  - rating_methodology
+- backstop_liquidity
+- corporate_issuer
+- fixed_income_market
+- alternate_liquidity
+- issuer_analysis
+- liquidity_insurance
+- moodys_approach
+- liquidity_risk
+- contingency_plans
+- rating_methodology
+- stress-test
+- caps-floors
+- private-equity
+- financial-markets
+- cdos
+- leveraged-buyout
+- risk-management
+- banking
+- capital-structure
+- mbs
 aliases:
-  - Corporate Liquidity
-  - Liquidity Insurance
-  - Liquidity Risk Report
-  - Moody's Liquidity Assessment
-  - Moody's Rating Methodology
+- Corporate Liquidity
+- Liquidity Insurance
+- Liquidity Risk Report
+- Moody's Liquidity Assessment
+- Moody's Rating Methodology
 key_concepts:
-  - Alternate liquidity provisions
-  - Backstop liquidity sources
-  - Changing liquidity landscape
-  - Contingent claims and obligations
-  - Fixed income market concerns
-  - Industry-specific liquidity needs
-  - Issuer-by-issuer approach
-  - Liquidity risk insurance assessment
-  - Quantitative and qualitative analysis
-  - Total liquidity risk
+- Quantitative and qualitative analysis
+- Issuer-by-issuer approach
+- Contingent claims and obligations
+- Industry-specific liquidity needs
+- Backstop liquidity sources
+- Changing liquidity landscape
+- Liquidity risk insurance assessment
+- Total liquidity risk
+- Fixed income market concerns
+- Alternate liquidity provisions
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
 ---
 
 # Moody's Approach to Assessing the Adequacy of Liquidity Risk Insurance

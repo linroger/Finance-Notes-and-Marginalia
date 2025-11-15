@@ -1,20 +1,64 @@
 ---
 tags:
-  - asset_pricing
-  - capm
-  - market_portfolio
-  - mean_variance
-  - quadratic_utility
+- delta
+- mean_variance
+- market_portfolio
+- risk-free
+- probability
+- quadratic_utility
+- margin
+- mean-variance
+- fundamental
+- future
+- dividend
+- pricing
+- distribution
+- apt
+- call
+- model
+- market
+- asset_pricing
+- variance
+- cdo
+- capm
+- var
+- roa
+- portfolio
 aliases:
-  - Capital Asset Pricing Model
-  - Sharpe-Lintner-Mossin Model
+- Capital Asset Pricing Model
+- Sharpe-Lintner-Mossin Model
 key_concepts:
-  - Classical CAPM
-  - Consumption-based asset pricing
-  - Market portfolio return
-  - Mean-variance analysis
-  - Quadratic utility function
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Capital Asset Pricing Model and risk-return tradeoff
+- Delta hedging strategies in options markets
+- Mean Variance in financial markets
+- Risk Free in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000401
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 9.2 The classical one-period CAPM  
 

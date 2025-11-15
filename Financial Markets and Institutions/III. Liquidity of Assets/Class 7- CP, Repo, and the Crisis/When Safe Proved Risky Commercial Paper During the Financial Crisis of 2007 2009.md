@@ -1,25 +1,65 @@
 ---
 linter-yaml-title-alias: 'When Safe Proved Risky: Class Note 12 – Commercial Paper#Class
-Note 12 – Commercial Paper | Commercial Paper]] During the Financial Crisis of 2007–2009'
-title: 'When Safe Proved Risky: Class Note 12 – Commercial Paper#Class Note 12 –
-Commercial Paper | Commercial Paper]] During the Financial Crisis of 2007–2009'
+  Note 12 – Commercial Paper | Commercial Paper]] During the Financial Crisis of 2007–2009'
+title: 'When Safe Proved Risky: Class Note 12 – Commercial Paper#Class Note 12 – Commercial
+  Paper | Commercial Paper]] During the Financial Crisis of 2007–2009'
 tags:
-  - asset_backed
-  - commercial_paper
-  - financial_crisis
-  - money_market
-  - short_term_debt
+- financial_crisis
+- short_term_debt
+- money_market
+- commercial_paper
+- asset_backed
+- caps-floors
+- chinese-markets
+- stochastic-calculus
+- market-risk
+- operational-risk
+- regression-analysis
+- subprime
+- trading
+- insurance
+- cdo
+- liquidity-crunch
+- portfolio-management
+- enterprise-value
+- cdos
+- venture-capital
 aliases:
-  - CP
-  - Commercial Paper Crisis
-  - Financial Crisis 2007-2009
-  - Short-term Debt
+- CP
+- Commercial Paper Crisis
+- Financial Crisis 2007-2009
+- Short-term Debt
 key_concepts:
-  - Asset-backed commercial paper
-  - Financial sector impact
-  - Minimal credit risk
-  - Raising capital cheaply
-  - Short-term debt instrument
+- Asset-backed commercial paper
+- Minimal credit risk
+- Raising capital cheaply
+- Short-term debt instrument
+- Financial sector impact
+- Arbitrage pricing theory and fundamental theorem of asset pricing
+- Market efficiency hypotheses and their implications for investment strategies
+- No-arbitrage conditions in financial markets
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
+- '2008 Global Financial Crisis: causes and consequences'
 ---
 
 # When Safe Proved Risky Commercial Paper During the Financial Crisis of 2007 2009

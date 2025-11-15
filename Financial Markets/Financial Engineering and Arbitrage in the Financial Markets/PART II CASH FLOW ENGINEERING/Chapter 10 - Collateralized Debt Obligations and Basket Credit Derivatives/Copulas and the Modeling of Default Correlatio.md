@@ -1,23 +1,70 @@
 ---
 tags:
-  - cds_pricing
-  - credit_derivatives
-  - default_correlation
-  - gaussian_copula
-  - poisson_model
+- default
+- cds
+- arbitrage
+- poisson_model
+- multiple
+- theta
+- probability
+- maturity
+- margin
+- repo
+- gaussian_copula
+- equity
+- gamma
+- credit_derivatives
+- default_correlation
+- cds_pricing
+- pricing
+- correlation
+- distribution
+- hedging
+- apt
+- put
+- factor-model
+- spread
+- valuation
 aliases:
-  - CDS Modeling
-  - Copulas
-  - Default Correlation
-  - Gaussian Copula Example
+- CDS Modeling
+- Copulas
+- Default Correlation
+- Gaussian Copula Example
 key_concepts:
-  - CDS pricing
-  - Copula functions
-  - Default correlation modeling
-  - Gaussian copula
-  - Marginal probability distributions
-  - Poisson default model
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial derivatives pricing and valuation
+- Model calibration and parameter estimation
+- Numerical methods in finance
+- Arbitrage pricing theory and no-arbitrage principle
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Factor Model in financial markets
+- Gamma risk and convexity adjustments in options
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000331
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 10.3  COPULAS AND THE MODELING OF DEFAULT CORRELATION  
 

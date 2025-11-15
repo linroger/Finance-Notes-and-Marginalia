@@ -1,3 +1,81 @@
+---
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Financial econometrics and regression
+- Time series analysis in finance
+- Volatility modeling (GARCH)
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Part 1 The Formula for Economic Success and financial analysis
+- Part 1 The Formula for Economic Success in modern finance
+- Applications of Part 1 The Formula for Economic Success
+- 'Case study: Part 1 The Formula for Economic Success'
+- Arbitrage pricing theory and no-arbitrage principle
+- Correlation modeling and dependency structures
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Stress testing and scenario analysis
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+tags:
+- efficiency
+- leverage
+- stress-test
+- volatility
+- barrier
+- monetary-policy
+- eur
+- ratio
+- swaps
+- forward
+- future
+- implied
+- regulation
+- pricing
+- correlation
+- interest-rates
+- irs
+- distribution
+- put
+- american
+- measure
+- peer
+- options
+- regression
+- arbitrage
+- bankruptcy
+- ito
+- repo
+- statistical
+- credit
+- call
+- relative-value
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000580
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # Part 1: The Formula for Economic Success
 
 What determines which countries prosper and which countries don't? What determines different countries' future growth rates? For our investment purposes we look at relationships between causes and effects that we hope will be useful to others in answering these questions.

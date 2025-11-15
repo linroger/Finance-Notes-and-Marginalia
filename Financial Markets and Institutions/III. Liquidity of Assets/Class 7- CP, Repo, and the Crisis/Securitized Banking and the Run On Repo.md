@@ -1,23 +1,63 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Securitized Banking and the Run On Repo
 tags:
-  - bank_solvency
-  - credit_spreads
-  - financial_crisis
-  - repo_market
-  - securitized_banking
+- financial_crisis
+- securitized_banking
+- credit_spreads
+- bank_solvency
+- repo_market
+- caps-floors
+- stochastic-calculus
+- interest-rate-risk
+- valuation
+- regression-analysis
+- esg
+- subprime
+- trading
+- insurance
+- cdo
+- liquidity-crunch
+- basel-accord
+- portfolio-management
+- dividend-policy
+- alternative-data
 aliases:
-  - Repurchase Agreements
-  - Run on Repo
-  - Securitized Banking
+- Repurchase Agreements
+- Run on Repo
+- Securitized Banking
 key_concepts:
-  - Bank solvency concerns
-  - Credit spread correlation
-  - Run on repo market
-  - Securitization and finance
-  - Systemic bank run
+- Credit spread correlation
+- Run on repo market
+- Systemic bank run
+- Securitization and finance
+- Bank solvency concerns
+- Arbitrage pricing theory and fundamental theorem of asset pricing
+- Market efficiency hypotheses and their implications for investment strategies
+- No-arbitrage conditions in financial markets
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
 ---
 
 # Securitized Banking and the Run On Repo

@@ -1,20 +1,72 @@
 ---
 tags:
-  - chapter_12
-  - chapter_introduction
-  - derivative_markets
-  - derivatives
-  - financial_derivatives
+- derivatives
+- risk-free
+- eur
+- measure
+- probability
+- derivative_markets
+- chapter_12
+- financial_derivatives
+- commodity
+- forward
+- future
+- swap
+- dividend
+- pricing
+- distribution
+- option
+- oil
+- put
+- american
+- bond
+- trading
+- chapter_introduction
+- mortgage
+- forward-rate
+- valuation
 aliases:
-  - Chapter 12
-  - Derivatives
+- Chapter 12
+- Derivatives
 key_concepts:
-  - Derivatives
-  - financial instruments
-  - market participants
-  - pricing models
-  - risk management
+- Black-Scholes model and option pricing theory
+- American option pricing and early exercise
+- Exotic options and path-dependent derivatives
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial derivatives pricing and valuation
+- Arbitrage pricing theory and no-arbitrage principle
+- Black-Scholes option pricing model and its applications
+- Forward Rate in financial markets
+- Futures Contract in financial markets
+- Interest Rate in financial markets
+- Risk Free in financial markets
+- Swaption pricing and interest rate option strategies
+- Vega and volatility exposure in options trading
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000397
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
 %% Begin Waypoint %%
 - **Chapter 12 - Derivatives**
 	- American-Style Derivatives

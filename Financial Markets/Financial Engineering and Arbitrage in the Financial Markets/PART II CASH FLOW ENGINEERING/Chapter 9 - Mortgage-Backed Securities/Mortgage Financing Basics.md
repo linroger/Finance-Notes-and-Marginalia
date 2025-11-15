@@ -1,25 +1,72 @@
 ---
 tags:
-  - fico_score
-  - fixed_rate_mortgage
-  - gse
-  - loan_to_value
-  - mortgage_financing
-  - mortgage_loans
-  - servicing_fee
-  - underwriting_process
+- default
+- cpr
+- duration
+- mortgage_loans
+- mortgage_financing
+- fixed_rate_mortgage
+- convexity
+- collateralized
+- fico_score
+- gse
+- margin
+- prepayment
+- repo
+- forward
+- future
+- servicing_fee
+- underwriting_process
+- equity
+- libor
+- discount
+- credit
+- call
+- model
+- credit-risk
+- mortgage
+- loan_to_value
+- fed-funds
+- valuation
 aliases:
-  - Mortgage Basics
-  - Mortgage Financing
-  - Mortgage Loan Fundamentals
+- Mortgage Basics
+- Mortgage Financing
+- Mortgage Loan Fundamentals
 key_concepts:
-  - FICO score in loan evaluation
-  - Fixed rate mortgage terms
-  - Loan-to-value (LTV) ratio
-  - Mortgage loan collateralization
-  - Mortgage loan servicing fee
-  - Mortgage underwriting process
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Convexity adjustments for bond portfolio management
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Duration and interest rate risk measurement
+- Fed Funds in financial markets
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Mortgage prepayment modeling and MBS analysis
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000341
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 9.1  MORTGAGE FINANCING BASICS  
 

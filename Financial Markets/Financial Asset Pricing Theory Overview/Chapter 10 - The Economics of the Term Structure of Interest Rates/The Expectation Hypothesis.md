@@ -1,20 +1,65 @@
 ---
 tags:
-  - bond_markets
-  - expectation_hypothesis
-  - interest_rates
-  - term_structure
-  - yield_curve
+- bond_markets
+- delta
+- risk-free
+- volatility
+- arbitrage
+- ito
+- yield_curve
+- maturity
+- margin
+- coupon
+- spot-rate
+- forward
+- future
+- yield-curve
+- interest_rates
+- pricing
+- term-structure
+- premium
+- call
+- trading
+- term_structure
+- bond
+- expectation_hypothesis
+- forward-rate
+- brownian
 aliases:
-  - Expectations Hypothesis
-  - Pure Expectation Hypothesis
+- Expectations Hypothesis
+- Pure Expectation Hypothesis
 key_concepts:
-  - Continuously compounded returns
-  - Expected future interest rates
-  - Gross return trading strategies
-  - Long-term vs short-term bonds
-  - Risk-neutral investors
+- Fixed income securities and yield curve analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Banking and credit intermediation
+- Bank balance sheet management
+- Arbitrage pricing theory and no-arbitrage principle
+- Delta hedging strategies in options markets
+- Forward Rate in financial markets
+- Interest Rate in financial markets
+- Risk Free in financial markets
+- Spot Rate in financial markets
+- Term Structure in financial markets
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000466
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 10.7 The expectation hypothesis  
 

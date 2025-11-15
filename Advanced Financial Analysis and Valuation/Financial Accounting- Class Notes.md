@@ -1,36 +1,183 @@
 ---
-tags:
-  - accounting_principles
-  - class_notes
-  - financial_accounting
-  - financial_analysis
-  - financial_markets
-  - financial_reporting
-  - financial_statements
-  - gaap
-  - sec
 aliases:
-  - Accounting Notes
-  - Class 1
-  - Class Notes
-  - Financial Accounting Notes
+- Accounting Notes
+- Class 1
+- Class Notes
+- Financial Accounting Notes
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000242
 key_concepts:
-  - Accrual vs cash accounting differences
-  - Balance sheet structure and valuation methods
-  - Cash flow statement components and analysis
-  - Double-entry accounting system mechanics
-  - Financial statement interconnections
-  - GAAP and FASB regulatory framework
-  - Income statement recognition principles
-  - Inventory valuation and cost flow methods
-  - Journal entry recording process
-  - Ratio analysis for financial performance
-  - Revenue and expense recognition criteria
-  - T-account balancing and classification
-  - Three accounting statement framework
-  - Types of financial statement adjustments
-  - Working capital management implications
+- Accrual vs cash accounting differences
+- Balance sheet structure and valuation methods
+- Cash flow statement components and analysis
+- Double-entry accounting system mechanics
+- Financial statement interconnections
+- GAAP and FASB regulatory framework
+- Income statement recognition principles
+- Inventory valuation and cost flow methods
+- Journal entry recording process
+- Ratio analysis for financial performance
+- Revenue and expense recognition criteria
+- T-account balancing and classification
+- Three accounting statement framework
+- Types of financial statement adjustments
+- Working capital management implications
+- Equity valuation and analysis
+- Dividend discount models
+- Credit risk modeling
+- Default probability estimation
+- Bond pricing and yield analysis
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Distressed Investing and Debt Restructuring
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+tags:
+- equity
+- financial_analysis
+- regulatory-framework
+- stochastic_calculus
+- credit
+- valuation
+- sec
+- accounting_principles
+- class_notes
+- bonds
+- financial_statements
+- gaap
+- futures
+- options
+- financial_report
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- exchange-offers
+- backwardation
+- volatility-analysis
+- style-analysis
+- bond-pricing
+- option-strategies
+- cramdown
+- corporate-bonds
+- unexpected-loss
+- clearinghouse
+- debt-restructuring
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- dirty-price
+- distressed-investing
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- forward-contracts
+- yield-to-maturity
+- price-to-earnings
+- fama-french
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- expected-loss
+- market-efficiency
+- order-flow
+- bid-ask-spread
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- liquidity
+- roll-yield
+- risk-premium
+- put-options
+- affine-term-structure
+- algorithmic-trading
+- momentum
+- basis-risk
+- covered-calls
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- blocker-strategy
+- factor-models
+- creditor-committees
+- risk-management
+- convergence
+- var-backtesting
+- tender-offers
+- sum-of-parts
+- ' DIP-financing'
+- clean-price
+- high-frequency-trading
+- strangles
+- conditional-var
+- fixed-income
+- short-rate-models
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+- current-yield
 ---
+--
 
 # Financial Accounting: Class Notes
 ## 1. Lecture 1

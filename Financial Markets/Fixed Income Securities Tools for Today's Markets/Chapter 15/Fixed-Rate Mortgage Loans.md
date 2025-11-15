@@ -1,21 +1,60 @@
 ---
 tags:
-  - amortization
-  - fixed_rate_mortgage
-  - interest_rate
-  - monthly_payments
-  - mortgage_loans
+- amortization
+- mortgage_loans
+- risk-free
+- fixed_rate_mortgage
+- maturity
+- prepayment
+- discount
+- pricing
+- option
+- term-structure
+- interest_rate
+- credit
+- put
+- call
+- market
+- monthly_payments
+- spread
+- credit-risk
+- mortgage
+- yield
+- interest-rate
 aliases:
-  - 30-year mortgage
-  - Fixed-Rate Mortgage
-  - Mortgage Amortization
+- 30-year mortgage
+- Fixed-Rate Mortgage
+- Mortgage Amortization
 key_concepts:
-  - Amortization table example
-  - Fixed-rate mortgage loans
-  - Monthly payment calculation
-  - Mortgage amortization graphically
-  - Principal and interest components
+- Option valuation and hedging strategies
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Banking and credit intermediation
+- Bank balance sheet management
+- Credit Risk in financial markets
+- Interest Rate in financial markets
+- Mortgage prepayment modeling and MBS analysis
+- Risk Free in financial markets
+- Term Structure in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000253
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 15.2 FIXED-RATE MORTGAGE LOANS  
 

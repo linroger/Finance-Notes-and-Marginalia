@@ -1,43 +1,61 @@
 ---
-cssclasses:
-  - academia
-title: International Finance
-tags:
-  - currency_risk
-  - exchange_rates
-  - international_finance
-  - international_investments
-  - balance_of_payments
-  - foreign_exchange_markets
-  - international_capital_flows
-  - exchange_rate_policy
-  - international_monetary_system
-  - global_financial_crisis
-  - currency_hedging
-  - international_trade
 aliases:
-  - Intl Finance
-  - International Financial Markets
-  - Global Finance
-  - International Money and Finance
+- Intl Finance
+- International Financial Markets
+- Global Finance
+- International Money and Finance
+cssclasses:
+- academia
 key_concepts:
-  - Currency exchange risk
-  - Exchange rate determination
-  - Global financial markets
-  - International capital flows
-  - International trade
-  - Balance of payments accounting
-  - Foreign exchange market structure
-  - Interest rate parity conditions
-  - Eurocurrency markets
-  - International reserve management
-  - Financial globalization
-  - Exchange rate regimes
-  - International financial crises
-  - Currency speculation
-  - Global imbalances
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- International Finance and financial analysis
+- International Finance in modern finance
+- Applications of International Finance
+- 'Case study: International Finance'
+- Covered Interest in financial markets
+- Exchange Rate in financial markets
+- Uncovered Interest in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
 linter-yaml-title-alias: International Finance
+tags:
+- options
+- eur
+- roe
+- fixed-income
+- capital
+- exchange-rate
+- uncovered-interest
+- apt
+- covered-interest
+- put
+- market
+- bond
+- currency
+- bonds
+title: International Finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000546
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # International Finance
 

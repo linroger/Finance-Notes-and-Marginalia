@@ -1,16 +1,75 @@
 ---
 tags:
-  - '#asset_sensitivity'
-  - '#interest_rate_risk'
-  - '#interest_rate_swaps'
-  - '#interest_sensitive_gap_management'
-  - '#liability_sensitivity'
-  - '#loan_portfolio_maturity'
-  - '#maturity_gap_analysis'
-  - '#net_interest_margin'
-  - '#repricing_assets_liabilities'
-  - '#zions_bank'
+- '#liability_sensitivity'
+- cds
+- '#interest_rate_swaps'
+- ito
+- measure
+- maturity
+- margin
+- repo
+- growth
+- '#net_interest_margin'
+- '#zions_bank'
+- '#loan_portfolio_maturity'
+- '#asset_sensitivity'
+- '#interest_sensitive_gap_management'
+- future
+- yield-curve
+- swap
+- equity
+- '#interest_rate_risk'
+- pricing
+- hedging
+- '#repricing_assets_liabilities'
+- put
+- trading
+- crisis
+- spread
+- mortgage
+- portfolio
+- '#maturity_gap_analysis'
+- fed-funds
+key_concepts:
+- Interest rate swaps and term structure modeling
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Financial derivatives pricing and valuation
+- Fed Funds in financial markets
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000347
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
 # 13.2  INTEREST-SENSITIVE GAP MANAGEMENT  
 
 Let us step back and think broadly about analyzing the future prospects of any company.. If we were looking at Apple, we would want to know the product development mix: new. phones, music, and video players. The same would apply to any drug company or industrial manufacturing company, like Siemens. We would want to know not only Siemens' new equipment line-up, but also the long-term contract pipeline for power plant construction and large industrial installations. What about a bank such as Zions? The main drivers of future revenue, besides fees charged on deposit and loan servicing, would be the ability to generate. new loans and the interest rates earned on those new loans. The aim of the Interest-Sensitive (Maturity) Gap methods is to quantify the number of loans that come due in the near future, break them down by maturity, and assess the amount of revenue at risk..  

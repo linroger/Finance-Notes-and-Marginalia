@@ -1,41 +1,81 @@
 ---
-cssclasses: ["academia"]
-title: Theory of Stabilization Policy
+aliases:
+- ITC
+- Lucas critique
+- Milton Friedman
+- Investment Tax Credit
+- Policy Lags
+- Stabilization Theory
+cssclasses:
+- academia
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Financial econometrics and regression
+- Time series analysis in finance
+- Volatility modeling (GARCH)
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Theory of Stabilization Policy and financial analysis
+- Theory of Stabilization Policy in modern finance
+- Applications of Theory of Stabilization Policy
+- 'Case study: Theory of Stabilization Policy'
+- Correlation modeling and dependency structures
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
 linter-yaml-title-alias: Theory of Stabilization Policy
 tags:
-  - fiscal_policy
-  - inside_lags
-  - macroeconomic_model
-  - monetary_policy
-  - stabilization_policy
-  - outside_lags
-  - lucas_critique
-  - policy_timing
-  - countercyclical_policy
-  - destabilizing_policy
-aliases:
-  - ITC
-  - Lucas critique
-  - Milton Friedman
-  - Investment Tax Credit
-  - Policy Lags
-  - Stabilization Theory
-key_concepts:
-  - countercyclical policy issues
-  - destabilizing policy effects
-  - expectations and actions
-  - inside and outside lags
-  - investment tax credit
-  - policy intervention timing
-  - Lucas critique
-  - Friedman model
-  - policy magnitude
-  - policy correlation
-  - optimal stabilization
-  - variance minimization
-  - macroprudential policy
-  - great moderation
+- monetary-policy
+- probability
+- basis
+- future
+- risk-management
+- correlation
+- interest-rates
+- put
+- crisis
+- futures
+- measure
+- options
+- regression
+- roe
+- growth
+- capital
+- risk
+- depth
+- credit
+- call
+- rho
+- model
+- market
+- variance
+- cdo
+- var
+- roa
+title: Theory of Stabilization Policy
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000518
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Theory of Stabilization Policy
 

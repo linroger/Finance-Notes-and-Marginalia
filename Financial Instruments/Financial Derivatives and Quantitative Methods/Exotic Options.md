@@ -1,25 +1,128 @@
 ---
-cssclasses:
-  - academia
-title: Exotic Options
-tags:
-  - barrier_options
-  - digital_options
-  - exotic_options
-  - path_dependent
-  - range_forward
+academic_level: graduate
 aliases:
-  - binary option
-  - break forward
-  - digital put
-  - exotic derivatives
+- binary option
+- break forward
+- digital put
+- exotic derivatives
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000090
 key_concepts:
-  - break forward contract
-  - digital/binary option
-  - exotic option payoffs
-  - path dependent options
-  - range forward contract
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Risk preference theory and utility functions
+- Monte Carlo Simulation Methods for Derivative Pricing
+- Auto-Callable Notes and Barrier Options
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Equity-Linked Notes and Market-Linked Securities
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Futures and Forward Contracts in Financial Markets
+- Option Valuation and Exercise Strategies
+- Value at Risk and Expected Shortfall
+- Factor Models and Asset Pricing
+- Stochastic Integration and Path-Dependent Options
+- Hedge Strategies and Basis Risk Management
+- Variance Reduction Techniques in Monte Carlo Methods
+- Options Trading Strategies and Risk Management
+- Structured Products and Principal Protection
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- all-or-nothing
+- arbitrage-opportunity
+- arbitrage-pricing
+- asian-derivatives
+- asset-allocation
+- average-price-options
+- barrier-derivatives
+- barrier-options
+- binary-derivatives
+- binomial-model
+- black-scholes-model
+- capital-asset-pricing
+- caplet
+- coherent-risk-measure
+- conditional-var
+- control-variates
+- put-options
+- exotic-options
+- call-options
+- variance-reduction
+- principal-protected-notes
+- butterfly-spreads
+- momentum
+- strangles
+- expected-shortfall
+- straddles
+- basis-risk
+- parametric-var
+- extreme-value-theory
+- var-methodologies
+- historical-var
+- book-to-market
+- equity-linked-notes
+- contango
+- backwardation
+- antithetic-variates
+- random-walks
+- covered-calls
+- volatility-analysis
+- style-analysis
+- least-squares-mc
+- option-strategies
+- stress-testing
+- clearinghouse
+- investment-analysis
+- portfolio-optimization
+- marking-to-market
+- path-dependency
+- value-at-risk
+- auto-callables
+- arbitrage-pricing-theory
+- monte-carlo-simulation
+- hedge-ratio
+- multi-factor-models
+- structured-notes
+- market-linked-notes
+- iron-condors
+- protective-puts
+- financial-markets
+- size-effect
+- factor-models
+- knock-out-options
+- value-factor
+- reverse-convertibles
+- monte-carlo-var
+- risk-management
+- convergence
+- options-trading
+- var-backtesting
+- futures-contracts
+- roll-yield
+- quasi-monte-carlo
+- apt
+- stochastic-integration
+- forward-contracts
+- fama-french
+title: Exotic Options
+type: note
 ---
+--
+
+
 
 # Exotic Options
 

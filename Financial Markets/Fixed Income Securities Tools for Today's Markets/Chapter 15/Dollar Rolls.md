@@ -1,20 +1,62 @@
 ---
 tags:
-  - cash_and_carry
-  - dollar_rolls
-  - repo_rate
-  - tba_liquidity
-  - tba_prices
+- risk-free
+- arbitrage
+- hedge
+- repo
+- prepayment
+- coupon
+- forward
+- implied
+- tba_prices
+- discount
+- option
+- apt
+- mbs
+- repo_rate
+- put
+- call
+- bond
+- market
+- liquidity
+- dollar_rolls
+- cash_and_carry
+- tba_liquidity
+- mortgage
+- collateral
 aliases:
-  - Dollar Rolls
-  - TBA rolls
+- Dollar Rolls
+- TBA rolls
 key_concepts:
-  - Cash-and-carry arbitrage
-  - Forward contracts
-  - Implied financing rate
-  - Repo position
-  - TBA contracts
+- Option valuation and hedging strategies
+- Fixed income securities and yield curve analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Arbitrage pricing theory and no-arbitrage principle
+- Risk hedging strategies and instruments
+- Market liquidity analysis and liquidity risk
+- Mortgage prepayment modeling and MBS analysis
+- Risk Free in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000250
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 15.10 DOLLAR ROLLS  
 

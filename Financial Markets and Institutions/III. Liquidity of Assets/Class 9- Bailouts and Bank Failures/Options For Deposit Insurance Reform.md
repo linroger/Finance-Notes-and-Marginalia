@@ -1,22 +1,101 @@
 ---
 title: Options For Deposit Insurance Reform
 tags:
-  - bank_failures
-  - bank_runs
-  - deposit_insurance
-  - fdic
-  - uninsured_deposits
+- efficiency
+- basel-iii
+- barrier
+- eur
+- multiple
+- crypto
+- shareholder-value
+- subordinated
+- energy
+- operational-risk
+- forward
+- momentum
+- fair-value
+- hedging
+- mark-to-market
+- interest-rate-risk
+- bank_runs
+- trading
+- deposit_insurance
+- caps-floors
+- stochastic-calculus
+- esg
+- bank_failures
+- valuation
+- uninsured_deposits
+- regression-analysis
+- maturity
+- repo
+- liquidity-coverage
+- equity
+- discount
+- market-risk
+- market
+- currency
+- treasury
+- fdic
+- portfolio
 aliases:
-  - Bank Failures
-  - Deposit Insurance Reform
-  - FDIC
+- Bank Failures
+- Deposit Insurance Reform
+- FDIC
 key_concepts:
-  - Business payment accounts
-  - Deposit insurance limit increase
-  - Insured deposit funding
-  - Preventing bank runs
-  - Uninsured deposit losses
+- Uninsured deposit losses
+- Insured deposit funding
+- Deposit insurance limit increase
+- Business payment accounts
+- Preventing bank runs
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
+- '2008 Global Financial Crisis: causes and consequences'
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Dodd Frank in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Liquidity Coverage in financial markets
+- Market Risk in financial markets
+- Net Stable Funding in financial markets
+- Pass Through in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000033
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Options For Deposit Insurance Reform
 

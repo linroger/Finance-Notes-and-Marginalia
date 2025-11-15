@@ -1,29 +1,93 @@
 ---
 tags:
-  - cash_flow_engineering
-  - finance_textbook
-  - hedge_funds
-  - investment_banking
-  - market_participants
-  - market_segments
-  - relative_value
-  - security_valuation
+- duration
+- synthetic
+- hedge
+- financial_engineering
+- market_segments
+- commodity
+- discount-rate
+- swaps
+- forward
+- future
+- regulation
+- swap
+- options_pricing
+- pricing
+- derivatives_markets
+- option
+- structured_products
+- put
+- trading
+- bond
+- finance_textbook
+- portfolio_management
+- structured
+- security_valuation
+- mortgage
+- investment_banking
+- valuation
+- default
+- arbitrage
+- mortgage_backed_securities
+- futures_contracts
+- coupon
+- cash_flow_engineering
+- market_participants
+- arbitrage_pricing
+- hedge_funds
+- credit_derivatives
+- spot_markets
+- relative_value
+- bond_math
 aliases:
-  - Book Preview
-  - Cash Flow
-  - Finance Book Overview
-  - Relative Value
+- Book Preview
+- Cash Flow
+- Finance Book Overview
+- Relative Value
 key_concepts:
-  - asset-liability management
-  - cash flow diversion
-  - demand side participants
-  - internal workings of markets
-  - market segments
-  - relative value trades
-  - security valuation
-  - spot, forward, option contracts
-  - structured products
+- Arbitrage Principle in Security Valuation
+- Asset-Liability Management for Banks
+- Bond Math and Present Value Calculations
+- Cash Flow Diversion and Structured Products
+- Credit Derivatives and Risk Transfer
+- Demand-Side Market Participants
+- Financial Engineering Building Blocks
+- Forward and Futures Contracts
+- Hedge Fund Relative Value Strategies
+- Internal Workings of Financial Markets
+- Market Segmentation Approach to Finance
+- Mortgage-Backed Securities and CDOs
+- Options Pricing and Risk Management
+- Private Equity and Venture Capital
+- Relative Value Arbitrage Alpha
+- Security Valuation Methodologies
+- Spot Markets and Short Selling
+- Swap Markets and Interest Rate Derivatives
+- Three-Part Structural Organization of Financial Markets
+- Arbitrage pricing theory and no-arbitrage principle
+- Credit default probability and recovery modeling
+- Discount Rate in financial markets
+- Duration and interest rate risk measurement
+- Risk hedging strategies and instruments
+- Term Structure in financial markets
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000320
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 1.8  PREVIEW OF THE BOOK  
 

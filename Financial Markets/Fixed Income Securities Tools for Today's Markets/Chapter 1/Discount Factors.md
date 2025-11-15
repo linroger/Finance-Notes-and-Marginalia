@@ -1,21 +1,50 @@
 ---
 tags:
-  - bond_pricing
-  - discount_factors
-  - present_value
-  - term_structure
-  - treasury_bonds
+- discount
+- pricing
+- discount_factors
+- currency
+- term_structure
+- bond
+- maturity
+- treasury
+- treasury_bonds
+- repo
+- coupon
+- bond_pricing
+- future
+- present_value
+- time-value
 aliases:
-  - Discount Factor
-  - Present Value
-  - d(t)
+- Discount Factor
+- Present Value
+- d(t)
 key_concepts:
-  - Bonds and discount factors
-  - Discount factor definition
-  - Present value of currency
-  - US Treasury bonds
-  - Value decreases with term
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Time Value in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000154
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 1.2 DISCOUNT FACTORS  
 

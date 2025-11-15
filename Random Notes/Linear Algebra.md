@@ -1,3 +1,193 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000327
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Mathematical optimization in finance
+- Portfolio optimization techniques
+- Linear and quadratic programming
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Linear Algebra and financial analysis
+- Linear Algebra in modern finance
+- Applications of Linear Algebra
+- 'Case study: Linear Algebra'
+- Duration and Convexity in Fixed Income Risk Management
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Machine Learning in Quantitative Finance
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Cost of Equity and Expected Returns
+- Forward Curves and Roll Strategies
+- Neural Networks and Deep Learning Applications
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Interest Rate Swaps and Currency Swap Structures
+- Algorithmic Trading and Backtesting
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Interest Rate Risk and DV01 Calculations
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+tags:
+- options
+- futures
+- put
+- optimization
+- var
+- basis
+- call
+- portfolio-optimization
+- risk
+- derivatives
+- volatility
+- quadratic
+- risk-managem
+- asset-allocation
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- option-strategies
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- overnight-indexed-swaps
+- interest-rate-risk
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- machine-learning
+- deep-learning
+- support-vector-machines
+- feature-selection
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- forward-curves
+- monte-carlo-var
+- options-trading
+- commodity-trading
+- forward-contracts
+- fama-french
+- neural-networks
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- modified-duration
+- expected-loss
+- quantitative-finance
+- currency-swaps
+- systematic-risk
+- protective-puts
+- alpha
+- security-market-line
+- probabilty-of-default
+- curve-steepening
+- idiosyncratic-risk
+- storage-costs
+- roll-yield
+- beta
+- risk-premium
+- put-options
+- affine-term-structure
+- capm
+- momentum
+- curve-flattening
+- basis-risk
+- market-risk-premium
+- convexity
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- investment-analysis
+- duration-analysis
+- value-at-risk
+- out-of-sample
+- metals-trading
+- backtesting
+- cross-validation
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- barbell-strategy
+- risk-management
+- convergence
+- var-backtesting
+- seasonality
+- strangles
+- conditional-var
+- dv01
+- short-rate-models
+- random-forests
+- swap-spread
+- efficient-frontier
+- price-yield-relationship
+- credit-migration
+- default-probability
+- marking-to-market
+- total-return-swaps
+- libor
+- credit-spreads
+- multi-factor-models
+- iron-condors
+- financial-markets
+- macaulay-duration
+- size-effect
+- basis-swaps
+- interest-rate-swaps
+- futures-contracts
+- apt
+- ensemble-methods
+- credit-default-swaps
+---
+--
+
 # A Beginner's Guide to Linear Algebra for Machine Learning 
 *(From Basics to Applications in ML)*  
 

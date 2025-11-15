@@ -1,20 +1,65 @@
 ---
 tags:
-  - consumption_based_model
-  - factor_models
-  - intertemporal_capm
-  - market_portfolio
-  - theoretical_factors
+- delta
+- factor_models
+- market_portfolio
+- ito
+- intertemporal_capm
+- portfolio
+- future
+- capital
+- pricing
+- correlation
+- covariance
+- apt
+- consumption_based_model
+- call
+- model
+- market
+- variance
+- theoretical_factors
+- factor-model
+- var
+- capm
+- yield
+- interest-rate
 aliases:
-  - Intertemporal CAPM
-  - Theoretical Factors
+- Intertemporal CAPM
+- Theoretical Factors
 key_concepts:
-  - Expected excess return
-  - Market price of risk
-  - Optimal consumption plan
-  - Representative individual wealth
-  - State-price deflator dynamics
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Capital Asset Pricing Model and risk-return tradeoff
+- Correlation modeling and dependency structures
+- Delta hedging strategies in options markets
+- Factor Model in financial markets
+- Interest Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000404
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 9.7 Theoretical factors  
 

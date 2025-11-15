@@ -1,33 +1,178 @@
 ---
-title: Primary vs. Secondary Commodities
-tags:
-  - cash_and_carry
-  - commodity_prices
-  - convenience_yield
-  - extractive_commodities
-  - lease_rate
-  - primary_commodities
-  - primary_vs_secondary
-  - renewable_commodities
-  - secondary_commodities
-  - storage_costs
+academic_level: graduate
 aliases:
-  - Commodities Classification
-  - Commodity Prices
-  - Commodity Types
-  - Extractive vs Renewable
-  - Primary vs Secondary
+- Commodities Classification
+- Commodity Prices
+- Commodity Types
+- Extractive vs Renewable
+- Primary vs Secondary
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000152
 key_concepts:
-  - Cash-and-carry markets
-  - Commodity units
-  - Convenience yield
-  - Extractive commodities
-  - Lease rate
-  - Primary commodities
-  - Renewable commodities
-  - Secondary commodities
-  - Storage costs
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- LIBOR market model and multi-curve framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Duration and Convexity in Fixed Income Risk Management
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Delta, Gamma, and Vega Hedging Techniques
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Forward Curves and Roll Strategies
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Dynamic vs Static Hedging in Practice
+- Interest Rate Swaps and Currency Swap Structures
+- Term Structure of Interest Rates and Yield Curves
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Interest Rate Risk and DV01 Calculations
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-free-models
+- arbitrage-opportunity
+- asset-allocation
+- basis-risk
+- basis-swap
+- caplet
+- coherent-risk-measure
+- collateral-rates
+- commodity-derivatives
+- commodity-futures
+- conditional-var
+- convexity-adjustment
+- credit-rating
+- crude-oil
+- currency-strategy
+- call-options
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- yield-curve
+- clearinghouse
+- interpolation
+- overnight-indexed-swaps
+- interest-rate-risk
+- arbitrage-pricing-theory
+- hedge-ratio
+- roll-strategies
+- value-factor
+- dirty-price
+- forward-curves
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- forward-rates
+- fama-french
+- zero-coupon-bonds
+- parametric-var
+- var-methodologies
+- historical-var
+- contango
+- vega-hedging
+- modified-duration
+- delta-hedging
+- forward-curve
+- currency-swaps
+- protective-puts
+- government-bonds
+- curve-steepening
+- curve-fitting
+- gamma-hedging
+- hedge-effectiveness
+- credit-default-swaps
+- storage-costs
+- roll-yield
+- spot-rates
+- put-options
+- momentum
+- curve-flattening
+- convexity
+- hedge-strategies
+- term-structure
+- covered-calls
+- swap-rate
+- sofr
+- stress-testing
+- roll-over-risk
+- par-yield
+- investment-analysis
+- duration-analysis
+- value-at-risk
+- metals-trading
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- barbell-strategy
+- risk-management
+- convergence
+- var-backtesting
+- cross-hedging
+- seasonality
+- clean-price
+- yield-curve-shocks
+- strangles
+- fixed-income
+- dv01
+- swap-spread
+- price-yield-relationship
+- marking-to-market
+- total-return-swaps
+- libor
+- multi-factor-models
+- iron-condors
+- financial-markets
+- macaulay-duration
+- static-hedging
+- size-effect
+- basis-swaps
+- interest-rate-swaps
+- futures-contracts
+- apt
+- bootstrap-method
+- current-yield
+title: Primary vs. Secondary Commodities
+type: course-note
 ---
+--
+
+
 
 - Introduction to Derivative Markets]]
 - Hedging%20[Key%20Rates%20O1s%20Durations%20and%20Hedging) Strategies with [Forwards]]

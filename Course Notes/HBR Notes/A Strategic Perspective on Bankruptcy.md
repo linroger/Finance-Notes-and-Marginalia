@@ -1,25 +1,181 @@
 ---
-cssclasses:
-  - academia
 Owner: RRoger Lin
-linter-yaml-title-alias: A Strategic Perspective on Bankruptcy
-title: A Strategic Perspective on Bankruptcy
-tags:
-  - bankruptcy
-  - chapter_11
-  - liquidation
-  - reorganization
-  - secured_debt
+academic_level: graduate
 aliases:
-  - Bankruptcy Overview
-  - Strategic Bankruptcy
+- Bankruptcy Overview
+- Strategic Bankruptcy
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000062
 key_concepts:
-  - Chapter 11 reorganization
-  - Liquidation process
-  - Plan of reorganization
-  - Prepackaged bankruptcy
-  - Secured vs. unsecured debt
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Distressed Investing and Debt Restructuring
+- Forward Curves and Roll Strategies
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Credit Default Swaps and CDS Pricing
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- CDS Spreads and Implied Default Probabilities
+- Credit Spreads and Rating Migration Analysis
+- Credit Risk Transfer and Synthetic Instruments
+- Factor Models and Asset Pricing
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: A Strategic Perspective on Bankruptcy
+professional_application: theoreti
+status: active
+tags:
+- arch
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- caplet
+- cds
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- exchange-offers
+- backwardation
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- option-strategies
+- cramdown
+- unexpected-loss
+- clearinghouse
+- debt-restructuring
+- cds-spreads
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- forward-curves
+- distressed-investing
+- monte-carlo-var
+- options-trading
+- commodity-trading
+- forward-contracts
+- price-to-earnings
+- fama-french
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- expected-loss
+- default-leg
+- foreign-recurrency
+- cds-arbitrage
+- protective-puts
+- probabilty-of-default
+- storage-costs
+- roll-yield
+- risk-premium
+- put-options
+- cds-coupons
+- affine-term-structure
+- momentum
+- basis-risk
+- cds-bond-basis
+- covered-calls
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- metals-trading
+- blocker-strategy
+- risky-continuation
+- factor-models
+- convenience-yield
+- creditor-committees
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- tender-offers
+- sum-of-parts
+- seasonality
+- ' DIP-financing'
+- strangles
+- short-rate-models
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- premium-leg
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- cds-implied-probability
+- apt
+- credit-default-swaps
+title: A Strategic Perspective on Bankruptcy
+type: note
 ---
+--
+
+
 
 # A Strategic Perspective on Bankruptcy
 

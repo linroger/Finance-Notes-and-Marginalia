@@ -1,21 +1,57 @@
 ---
 tags:
-  - consumption_process
-  - discrete_time_framework
-  - habit_formation
-  - state_price_deflator
-  - time_additive_utility
+- delta
+- habit_formation
+- theta
+- margin
+- discrete_time_framework
+- future
+- portfolio
+- state_price_deflator
+- apt
+- call
+- consumption_process
+- trading
+- cdo
+- time_additive_utility
+- var
+- stochastic
+- derivative
 aliases:
-  - Discrete Time Framework
-  - Habit Formation Utility
-  - Time Additive Utility
+- Discrete Time Framework
+- Habit Formation Utility
+- Time Additive Utility
 key_concepts:
-  - Consumption process choice
-  - Habit level at time
-  - Non-additive preference specification
-  - State-price deflator definition
-  - Time-additive expected utility
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Delta hedging strategies in options markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000473
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 6.3 The discrete-time framework  
 

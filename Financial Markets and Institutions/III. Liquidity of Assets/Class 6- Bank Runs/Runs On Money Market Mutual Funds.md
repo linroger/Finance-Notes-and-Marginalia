@@ -1,35 +1,107 @@
 ---
 cssclasses:
-  - academia
-title: "Runs on Money Market Mutual Funds"
-linter-yaml-title-alias: "Runs on Money Market Mutual Funds"
+- academia
+title: Runs on Money Market Mutual Funds
+linter-yaml-title-alias: Runs on Money Market Mutual Funds
 tags:
-  - 2008_financial_crisis
-  - institutional_investors
-  - lehman_brothers
-  - money_market_funds
-  - run_risk
-  - financial_stability
-  - systemic_risk
-  - prime_funds
-  - fund_redemptions
+- leverage
+- duration
+- stress-test
+- volatility
+- multiple
+- eur
+- hedge
+- lehman_brothers
+- probability
+- lehman
+- margin
+- operational-risk
+- financial_stability
+- forward
+- future
+- implied
+- regulation
+- time-series
+- dividend
+- pricing
+- counterparty
+- correlation
+- fair-value
+- distribution
+- mark-to-market
+- prime_funds
+- trading
+- caps-floors
+- fund_redemptions
+- stochastic-calculus
+- esg
+- systemic_risk
+- valuation
+- run_risk
+- regression-analysis
+- institutional_investors
+- 2008_financial_crisis
+- money_market_funds
+- chinese-markets
 aliases:
-  - MMMFs
-  - Money Market Funds
-  - Reserve Primary Fund
-  - "Runs on MMFs"
+- MMMFs
+- Money Market Funds
+- Reserve Primary Fund
+- Runs on MMFs
 key_concepts:
-  - institutional share classes
-  - investor behavior
-  - liquidity mismatch
-  - money market fund flows
-  - run-like behavior
-  - Flow-performance sensitivity
-  - Prime fund vulnerabilities
-  - Breaking the buck risk
-  - Institutional vs retail dynamics
-  - Contagion effects
+- money market fund flows
+- investor behavior
+- liquidity mismatch
+- Breaking the buck risk
+- Institutional vs retail dynamics
+- run-like behavior
+- Prime fund vulnerabilities
+- institutional share classes
+- Contagion effects
+- Flow-performance sensitivity
+- Arbitrage pricing theory and fundamental theorem of asset pricing
+- Market efficiency hypotheses and their implications for investment strategies
+- No-arbitrage conditions in financial markets
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Arbitrage pricing theory and no-arbitrage principle
+- Asset Allocation in financial markets
+- Correlation modeling and dependency structures
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Duration and interest rate risk measurement
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Asset securitization and structured finance
+- Stress testing and scenario analysis
+- Time Series in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000058
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Runs on Money Market Mutual Funds
 

@@ -1,23 +1,50 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Greece Faces Bond-Swap Holdouts
 title: Greece Faces Bond Swap Holdouts
 tags:
-  - bond_holdouts
-  - bond_swap
-  - debt_restructuring
-  - foreign_law_bonds
-  - greece_debt
+- debt_restructuring
+- foreign_law_bonds
+- bond_holdouts
+- greece_debt
+- bond_swap
+- event-study
+- private-equity
+- financial-markets
+- regulatory-capital
+- banking
+- sovereign-debt
+- stochastic-calculus
+- restructuring
+- ito-lemma
+- tracking-error
+- derivatives
+- regression-discontinuity
+- difference-in-differences
+- mean-reversion
+- dark-pool
 aliases:
-  - Greece bond swap
-  - Greek debt deal
+- Greece bond swap
+- Greek debt deal
 key_concepts:
-  - Greece bond swap
-  - bond swap participation
-  - debt burden reduction
-  - debt restructuring deal
-  - foreign law bonds
+- debt restructuring deal
+- debt burden reduction
+- foreign law bonds
+- bond swap participation
+- Greece bond swap
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
 ---
 
 # Greece Faces Bond Swap Holdouts

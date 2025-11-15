@@ -1,26 +1,79 @@
 ---
-cssclasses:
-  - academia
-title: What’s Coming The Changing Domestic and World Orders Under the Trump Administration
-source: 
-  https://www.linkedin.com/pulse/whats-coming-changing-domestic-world-orders-under-trump-ray-dalio-v4yge/?trackingId=sJ1rfJbWRGiqvZgzbZMYUw%3D%3D
-description:
-tags:
-  - america_first
-  - domestic_policy
-  - foreign_policy
-  - political_war
-  - trump_administration
 aliases:
-  - Post-election analysis
-  - Trump's future plans
+- Post-election analysis
+- Trump's future plans
+cssclasses:
+- academia
+description: null
 key_concepts:
-  - America first foreign policy
-  - Deep state replacement
-  - Department of Government Efficiency
-  - External war with China
-  - Renovation of government
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- What’s Coming The Changing Domestic and World Orders Under the Trump Administration
+  and financial analysis
+- What’s Coming The Changing Domestic and World Orders Under the Trump Administration
+  in modern finance
+- Applications of What’s Coming The Changing Domestic and World Orders Under the Trump
+  Administration
+- 'Case study: What’s Coming The Changing Domestic and World Orders Under the Trump
+  Administration'
+- Interest Rate in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+source: https://www.linkedin.com/pulse/whats-coming-changing-domestic-world-orders-under-trump-ray-dalio-v4yge/?trackingId=sJ1rfJbWRGiqvZgzbZMYUw%3D%3D
+tags:
+- efficiency
+- options
+- eur
+- basis
+- energy
+- roll
+- swaps
+- capital
+- regulation
+- equity
+- risk-management
+- irs
+- risk
+- oil
+- credit
+- call
+- market
+- american
+- sifi
+- futures
+- var
+- roa
+- regulatory
+- interest-rate
+title: What’s Coming The Changing Domestic and World Orders Under the Trump Administration
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000612
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # What’s Coming The Changing Domestic and World Orders Under the Trump Administration
 **What’s Coming: The Changing Domestic and World Orders Under the Trump Administration**

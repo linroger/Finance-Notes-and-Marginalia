@@ -1,24 +1,66 @@
 ---
 tags:
-  - bond_market
-  - case_study
-  - financial_crisis
-  - mf_global
-  - repo_to_maturity
+- default
+- synthetic
+- pandemic
+- risk-free
+- volatility
+- bond_market
+- eur
+- repo_to_maturity
+- solvency
+- hedge
+- margin
+- financial_crisis
+- forward
+- future
+- mf_global
+- pricing
+- counterparty
+- option
+- put
+- trading
+- bond
+- case_study
+- gold
+- crisis
+- overnight
 aliases:
-  - MF Global Case Study
-  - MF Global's Repo Trades
-  - RTM Trades
+- MF Global Case Study
+- MF Global's Repo Trades
+- RTM Trades
 key_concepts:
-  - Chapter 11 filing
-  - European sovereign bonds
-  - French government bonds
-  - MF Global broker-dealer
-  - Margin requirements
-  - Repo haircuts increasing
-  - Repo-to-maturity trades
-  - Reverse RTM trades
+- Chapter 11 filing
+- European sovereign bonds
+- French government bonds
+- MF Global broker-dealer
+- Margin requirements
+- Repo haircuts increasing
+- Repo-to-maturity trades
+- Reverse RTM trades
+- Credit default probability and recovery modeling
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Risk Free in financial markets
+- Term Structure in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000170
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 10.7 CASE STUDY: MF GLOBAL'S REPO-TO-MATURITY TRADES  
 

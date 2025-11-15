@@ -1,28 +1,63 @@
 ---
 tags:
-  - bond_liquidity
-  - cds_auction
-  - cds_settlement
-  - corporate_bonds
-  - default_event
-  - hertz_cds
-  - physical_settlement
+- default
+- cds
+- eur
+- maturity
+- fundamental
+- cds_settlement
+- hertz_cds
+- capital
+- corporate_bonds
+- cds_auction
+- default_event
+- bond_liquidity
+- credit
+- physical_settlement
+- put
+- call
+- bond
+- recovery
+- market
+- liquidity
+- trading
+- gold
+- spread
+- fail
+- derivative
 aliases:
-  - CDS Auctions
-  - CDS Settlement
-  - Hertz CDS Auction
+- CDS Auctions
+- CDS Settlement
+- Hertz CDS Auction
 key_concepts:
-  - Auction phase one
-  - Bond price observation
-  - CDS settlement challenges
-  - Dealer bids and offers
-  - Deliverable obligations list
-  - Hertz CDS auction process
-  - Inside market midpoint
-  - Net CDS positions
-  - Physical settlement requests
-  - Physical settlement squeeze
+- Auction phase one
+- Bond price observation
+- CDS settlement challenges
+- Dealer bids and offers
+- Deliverable obligations list
+- Hertz CDS auction process
+- Inside market midpoint
+- Net CDS positions
+- Physical settlement requests
+- Physical settlement squeeze
+- Credit default probability and recovery modeling
+- Market liquidity analysis and liquidity risk
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000224
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 14.11 CDS SETTLEMENT AUCTIONS  
 

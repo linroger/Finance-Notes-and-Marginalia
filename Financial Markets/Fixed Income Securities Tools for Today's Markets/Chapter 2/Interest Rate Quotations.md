@@ -1,20 +1,51 @@
 ---
 tags:
-  - compounding
-  - continuous_compounding
-  - fixed_cash_flows
-  - interest_rate_quotations
-  - money_market
+- continuous_compounding
+- money_market
+- maturity
+- interest_rate_quotations
+- swap
+- discount
+- compounding
+- apt
+- fixed_cash_flows
+- call
+- put
+- bond
+- market
+- mortgage
+- interest-rate
+- valuation
 aliases:
-  - Interest Rate Quotes
-  - Rate Quotations
+- Interest Rate Quotes
+- Rate Quotations
 key_concepts:
-  - Compounding frequency
-  - Continuous compounding
-  - Fixed cash flows
-  - Interest rates
-  - Simple interest
+- Interest rate swaps and term structure modeling
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Interest Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000221
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 2.1 INTEREST RATE QUOTATIONS  
 

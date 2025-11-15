@@ -1,22 +1,46 @@
 ---
 title: A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt
 tags:
-  - capital_structure
-  - company_restructuring
-  - debt_acquisition
-  - distressed_investing
-  - institutional_investors
+- arbitrage-opportunity
+- banking-regulation
+- basel-accord
+- bid-ask-spread
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cds
+- coherent-risk-measure
+- collateralized-debt-obligation
+- conditional-var
+- continuous-time-pricing
 aliases:
-  - Buying Distressed Debt
-  - Distressed Debt Investing
-  - Investing in Distressed Companies
+- Buying Distressed Debt
+- Distressed Debt Investing
+- Investing in Distressed Companies
 key_concepts:
-  - Acquiring company debt
-  - Debt capacity and risk
-  - Institutional investor battles
-  - Restructuring plan execution
-  - Warren Buffett distressed investing
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Collateralized debt obligations (CDO) and tranche structure
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Risk preference theory and utility functions
+type: primer
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
 
 # A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt
 

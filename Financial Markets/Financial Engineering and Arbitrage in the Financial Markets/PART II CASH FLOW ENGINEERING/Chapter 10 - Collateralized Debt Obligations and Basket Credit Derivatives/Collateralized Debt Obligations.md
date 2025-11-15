@@ -1,21 +1,77 @@
 ---
 tags:
-  - cash_cdo
-  - cdo
-  - cdo_manager
-  - collateralized_debt
-  - spv
+- collateralized_debt
+- default
+- cds
+- synthetic
+- risk-free
+- eur
+- multiple
+- hedge
+- cdo_manager
+- senior
+- subordinated
+- spv
+- swap
+- pass-through
+- counterparty
+- correlation
+- put
+- cash_cdo
+- gold
+- bond
+- cdo
+- tranche
+- spread
+- mortgage
+- valuation
 aliases:
-  - CDO
-  - Cash CDO
-  - Collateralized Debt Obligations
+- CDO
+- Cash CDO
+- Collateralized Debt Obligations
 key_concepts:
-  - Actively managed CDOs
-  - CDO certificates
-  - CDO issuance
-  - Special purpose vehicle
-  - Transferring risk
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Arbitrage pricing theory and no-arbitrage principle
+- Bear Stearns in financial markets
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Risk hedging strategies and instruments
+- Pass Through in financial markets
+- Risk Free in financial markets
+- Asset securitization and structured finance
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000333
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 10.1  COLLATERALIZED DEBT OBLIGATIONS  
 

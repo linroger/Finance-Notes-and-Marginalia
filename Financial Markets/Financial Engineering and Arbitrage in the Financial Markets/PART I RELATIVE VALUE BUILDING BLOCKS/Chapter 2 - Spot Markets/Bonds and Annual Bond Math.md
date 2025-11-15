@@ -1,26 +1,84 @@
 ---
 tags:
-  - annual_interest_rate
-  - bond_math
-  - bond_valuation
-  - coupon_bond
-  - floating_rate_bond
-  - zero_coupon_bond
+- cash_flow_discounting
+- yield_to_maturity
+- zero_coupon_bond
+- bond_valuation
+- multiple
+- par-value
+- ito
+- yield_curve
+- loan_amortization
+- margin
+- maturity
+- coupon
+- coupon_bond
+- spot_discount_factor
+- forward
+- future
+- discount_factor
+- amortizing_bond
+- libor
+- floating_rate_bond
+- discount
+- option
+- apt
+- forward_rate
+- credit
+- annual_interest_rate
+- put
+- rho
+- bond
+- call
+- rating
+- par_value
+- bond_math
+- yield
+- forward-rate
+- spot_rate
 aliases:
-  - Bond Analysis
-  - Bond Pricing
-  - Loans and Bonds
+- Bond Analysis
+- Bond Pricing
+- Loans and Bonds
 key_concepts:
-  - Bond characteristics
-  - Cash flow valuation
-  - Coupon bonds valuation
-  - Discount bonds
-  - Floating rate bonds
-  - Interest rate reset
-  - Par value bonds
-  - Yield to maturity
-  - Zero-coupon bonds
+- Amortizing Loan Structure and Payment Schedule
+- Annual Interest Rate Calculations
+- Bond Cash Flow Valuation Methods
+- Bond Characteristics and Bond Types
+- Coupon Bond Pricing and Valuation
+- Discount Factor Computation and Application
+- Floating Rate Bond with Interest Rate Reset
+- Forward Rate vs Spot Rate Comparison
+- Loan Amortization and Principal Reduction
+- Par Value and Face Value Analysis
+- Present Value Calculations for Bonds
+- Spot Discount Factor Extraction
+- Spot Rate Curve Construction
+- Sum-of-the-Parts Bond Valuation
+- Yield Curve Analysis and Term Structure
+- Yield to Maturity Calculation
+- Zero-Coupon Bond Discounting
+- Forward Rate in financial markets
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Par Value in financial markets
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000317
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 2.1 BONDS AND ANNUAL BOND MATH  
 

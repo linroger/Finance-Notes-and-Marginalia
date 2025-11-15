@@ -1,20 +1,66 @@
 ---
 tags:
-  - arbitrage
-  - cash_and_carry
-  - cost_of_carry
-  - futures_pricing
-  - spot_price
+- spot_price
+- cost_of_carry
+- synthetic
+- arbitrage
+- eur
+- usd
+- roe
+- maturity
+- margin
+- commodity
+- forward
+- future
+- dividend
+- jpy
+- futures_pricing
+- oil
+- covered-interest
+- put
+- trading
+- bond
+- gold
+- cash_and_carry
+- spread
+- forward-rate
 aliases:
-  - Carry Arbitrage
-  - Cash and Carry
+- Carry Arbitrage
+- Cash and Carry
 key_concepts:
-  - Cost-of-carry equation
-  - Profit-seeking arbitrageurs
-  - Replicating derivative contracts
-  - Riskless profit opportunity
-  - Spot vs. futures prices
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial derivatives pricing and valuation
+- Arbitrage pricing theory and no-arbitrage principle
+- Covered Interest in financial markets
+- Forward Rate in financial markets
+- Futures Contract in financial markets
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Spot Price in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000292
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 3.3 CASH-AND-CARRY ARBITRAGE  
 

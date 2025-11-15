@@ -1,33 +1,73 @@
 ---
 tags:
-  - bond_recovery
-  - credit_losses
-  - credit_risk
-  - default_rates
-  - hertz_bonds
-  - investment_grade
-  - recovery_rates
-  - senior_unsecured_bonds
-  - seniority
-  - speculative_grade
+- default
+- default_rates
+- pandemic
+- risk-free
+- hertz_bonds
+- bond_recovery
+- maturity
+- senior
+- margin
+- energy
+- credit_losses
+- repo
+- growth
+- coupon
+- recovery_rates
+- premium
+- senior_unsecured_bonds
+- credit
+- put
+- market
+- bond
+- call
+- rating
+- crisis
+- credit_risk
+- credit-risk
+- portfolio
+- investment_grade
+- speculative_grade
+- seniority
 aliases:
-  - Bond Credit Risk
-  - Credit Loss
-  - Credit Risk Analysis
-  - Default and Recovery
-  - Hertz Bankruptcy
+- Bond Credit Risk
+- Credit Loss
+- Credit Risk Analysis
+- Default and Recovery
+- Hertz Bankruptcy
 key_concepts:
-  - Bond Recovery Rates
-  - Credit Losses
-  - Credit Risk Over Time
-  - Default Rates
-  - Hertz Bond Prices
-  - Impact of Seniority
-  - Investment Grade Bonds
-  - Recovery Rates
-  - Senior Unsecured Bonds
-  - Speculative Grade Bonds
+- Bond Recovery Rates
+- Credit Losses
+- Credit Risk Over Time
+- Default Rates
+- Hertz Bond Prices
+- Impact of Seniority
+- Investment Grade Bonds
+- Recovery Rates
+- Senior Unsecured Bonds
+- Speculative Grade Bonds
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Interest Rate in financial markets
+- Risk Free in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000222
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 14.2 DEFAULT RATES, RECOVERY RATES, AND CREDIT LOSSES  
 

@@ -1,24 +1,78 @@
 ---
 tags:
-  - bank_loans
-  - commercial_paper
-  - corporate_bonds
-  - corporate_loans
-  - floating_rate
-  - mtns
+- mtns
+- default
+- floating_rate
+- leverage
+- volatility
+- ito
+- bank_loans
+- hedge
+- collateralized
+- maturity
+- senior
+- subordinated
+- growth
+- coupon
+- swap
+- corporate_bonds
+- pricing
+- option
+- corporate_loans
+- commercial_paper
+- tranche
+- bond
+- overnight
+- spread
+- credit-risk
+- sofr
 aliases:
-  - Bond Markets
-  - Corporate Debt
-  - Debt Instruments
+- Bond Markets
+- Corporate Debt
+- Debt Instruments
 key_concepts:
-  - Bank loan features
-  - Commercial paper (CP)
-  - Corporate bond characteristics
-  - Corporate borrowing methods
-  - Floating-rate notes (FRNs)
-  - Medium-term notes (MTNs)
-  - Private placement bonds
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- SOFR implementation and overnight rate markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000225
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 14.1 CORPORATE BONDS AND LOANS  
 

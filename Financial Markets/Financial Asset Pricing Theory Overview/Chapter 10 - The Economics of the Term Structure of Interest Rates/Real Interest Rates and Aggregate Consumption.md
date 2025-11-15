@@ -1,20 +1,66 @@
 ---
 tags:
-  - aggregate_consumption
-  - consumption_dynamics
-  - real_interest_rates
-  - time_preference
-  - yield_curve
+- delta
+- consumption_dynamics
+- time_preference
+- aggregate_consumption
+- yield_curve
+- maturity
+- growth
+- coupon
+- future
+- stochastic
+- yield-curve
+- gamma
+- apt
+- real_interest_rates
+- market
+- bond
+- model
+- variance
+- var
+- growth-rate
+- yield
+- interest-rate
+- brownian
+- zero-coupon
 aliases:
-  - Consumption and Interest Rates
-  - Real Rates and Consumption
+- Consumption and Interest Rates
+- Real Rates and Consumption
 key_concepts:
-  - Equilibrium interest rate
-  - Interest rates and consumption
-  - State-price deflator
-  - Stochastic process
-  - Time-additive utility
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Delta hedging strategies in options markets
+- Gamma risk and convexity adjustments in options
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Yield Curve in financial markets
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000463
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 10.3 Real interest rates and aggregate consumption  
 

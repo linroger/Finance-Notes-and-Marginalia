@@ -1,21 +1,89 @@
 ---
-tags:
-  - arbitrage
-  - cross_currency_basis
-  - currency_risk
-  - fx_forward
-  - interest_rates
 aliases:
-  - XCCY basis
-  - basis
-  - cross-currency basis swaps
+- XCCY basis
+- basis
+- cross-currency basis swaps
 key_concepts:
-  - arbitrage conditions violation
-  - cross-currency swap
-  - currency hedging adjustment
-  - forward FX rate
-  - interest rate differentials
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- What Really Is the Cross-Currency Basis and financial analysis
+- What Really Is the Cross-Currency Basis in modern finance
+- Applications of What Really Is the Cross-Currency Basis
+- 'Case study: What Really Is the Cross-Currency Basis'
+- Arbitrage pricing theory and no-arbitrage principle
+- Carry Trade in financial markets
+- Correlation modeling and dependency structures
+- Covered Interest in financial markets
+- Credit Risk in financial markets
+- Cross Currency in financial markets
+- Discounted Cash Flow valuation methodology
+- Delta hedging strategies in options markets
+- Exchange Rate in financial markets
+- Forward Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- Risk Free in financial markets
+- Spot Rate in financial markets
+- Time Series in financial markets
+- Uncovered Interest in financial markets
+- Value at Risk and tail risk measurement
+- Yield Curve in financial markets
+tags:
+- delta
+- efficiency
+- leverage
+- synthetic
+- risk-free
+- eur
+- multiple
+- hedge
+- basis
+- margin
+- swaps
+- forward
+- future
+- implied
+- swap
+- yield-curve
+- time-series
+- jpy
+- regulation
+- pricing
+- irs
+- counterparty
+- correlation
+- trading
+- bond
+- futures
+- spread
+- maturity
+- coupon
+- libor
+- liquidity
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000374
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Chapter 1 What Really is the Cross-Currency Basis?
 

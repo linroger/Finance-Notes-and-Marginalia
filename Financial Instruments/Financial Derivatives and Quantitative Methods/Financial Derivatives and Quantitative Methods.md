@@ -1,23 +1,179 @@
 ---
-cssclasses: academia
-title: Financial Derivatives and Quantitative Methods
-tags:
-  - derivatives_pricing
-  - financial_derivatives
-  - market_analysis
-  - quantitative_methods
-  - risk_management
+academic_level: graduate
 aliases:
-  - Derivatives
-  - Financial Engineering
-  - Quant Methods
+- Derivatives
+- Financial Engineering
+- Quant Methods
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000091
 key_concepts:
-  - Derivatives pricing models
-  - Financial instrument valuation
-  - Market microstructure analysis
-  - Quantitative finance methods
-  - Risk management techniques
+- Black-Scholes option pricing model and continuous-time finance
+- Binomial option pricing model and lattice methods
+- Options Greeks and sensitivity analysis for risk management
+- Risk-neutral measures and martingale pricing
+- Martingale theory and change of measure
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Auto-Callable Notes and Barrier Options
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Variance Reduction Techniques in Monte Carlo Methods
+- Swap Market Mechanisms and Pricing
+- Equity-Linked Notes and Market-Linked Securities
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Stochastic Integration and Path-Dependent Options
+- Black-Scholes Option Pricing Model and Its Applications
+- Structured Products and Principal Protection
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Credit Default Swaps and Credit Risk Transfer
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Credit Default Swaps and CDS Pricing
+- Futures and Forward Contracts in Financial Markets
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Hedge Strategies and Basis Risk Management
+- American Option Pricing and Early Exercise Premium
+- Interest Rate Swaps and Currency Swap Structures
+- Option Valuation and Exercise Strategies
+- CDS Spreads and Implied Default Probabilities
+- Credit Risk Transfer and Synthetic Instruments
+- Monte Carlo Simulation Methods for Derivative Pricing
+professional_application: theoreti
+status: active
+tags:
+- barrier-options
+- binomial-model
+- black-scholes-model
+- cds
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- default-probability
+- delta-hedging
+- derivatives
+- control-variates
+- exotic-options
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- binomial-tree
+- straddles
+- extreme-value-theory
+- american-options
+- partial-differential-equation
+- risk-neutral-valuation
+- backwardation
+- volatility-analysis
+- option-strategies
+- clearinghouse
+- cds-spreads
+- overnight-indexed-swaps
+- monte-carlo-simulation
+- hedge-ratio
+- market-price-of-risk
+- volatility-surface
+- vasicek-model
+- monte-carlo-var
+- options-trading
+- forward-contracts
+- bsm-model
+- black-scholes-formula
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- random-walks
+- quantitative-finance
+- currency-swaps
+- default-leg
+- market-linked-notes
+- crr-model
+- foreign-recurrency
+- protective-puts
+- cds-arbitrage
+- reverse-convertibles
+- roll-yield
+- risk-premium
+- put-options
+- cds-coupons
+- affine-term-structure
+- multi-period-binomial
+- basis-risk
+- discrete-time-pricing
+- antithetic-variates
+- cds-bond-basis
+- covered-calls
+- swap-rate
+- sofr
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- investment-analysis
+- path-dependency
+- value-at-risk
+- risky-continuation
+- risk-management
+- convergence
+- var-backtesting
+- variance-reduction
+- stochastic-integration
+- european-options
+- principal-protected-notes
+- lattice-models
+- strangles
+- equity-linked-notes
+- cox-ross-rubinstein
+- short-rate-models
+- least-squares-mc
+- swap-spread
+- optional-exercise
+- marking-to-market
+- binomial-option-pricing
+- auto-callables
+- total-return-swaps
+- libor
+- premium-leg
+- ito-calculus
+- structured-notes
+- iron-condors
+- option-pricing
+- financial-markets
+- basis-swaps
+- knock-out-options
+- interest-rate-swaps
+- lognormal-distribution
+- ' recombining-trees'
+- futures-contracts
+- quasi-monte-carlo
+- cds-implied-probability
+- credit-default-swaps
+title: Financial Derivatives and Quantitative Methods
+type: note
 ---
+--
+
+
 
 # Financial Derivatives and Quantitative Methods
 

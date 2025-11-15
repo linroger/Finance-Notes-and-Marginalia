@@ -1,41 +1,75 @@
 ---
 title: Advanced Investments
 cssclasses:
-  - academia
-  - finance
+- academia
+- finance
 tags:
-  - advanced_investments
-  - financial_analysis
-  - investment_analysis
-  - investment_strategy
-  - risk_management
-  - portfolio_theory
-  - asset_allocation
-  - modern_portfolio_theory
-  - quantitative_finance
-  - behavioral_finance
+- credit-rating
+- cds
+- default
+- arbitrage-opportunity
+- leverage
+- capital-asset-pricing
+- volatility
+- multiple
+- probability
+- asset-allocation
+- credit-modeling
+- counterparty-risk
+- caplet
+- conditional-var
+- distribution
+- convexity-adjustment
+- debit-valuation-adjustment
+- arbitrage-pricing
+- credit-default-swap
+- tail-risk
+- bond
+- portfolio
+- credit-derivatives
+- coherent-risk-measure
 aliases:
-  - Advanced Investing
-  - Investments
-  - Advanced Investment Analysis
-  - Portfolio Management Techniques
+- Advanced Investing
+- Investments
+- Advanced Investment Analysis
+- Portfolio Management Techniques
 key_concepts:
-  - mean-variance optimization
-  - efficient frontier construction
-  - capital allocation line
-  - risk-return tradeoffs
-  - asset allocation strategies
-  - dynamic portfolio construction
-  - probability distributions of returns
-  - investor sentiment analysis
-  - behavioral finance implications
-  - fixed income securities analysis
-  - bond duration and convexity
-  - tail risk management
-  - volatility modeling and products
-  - inflation hedging strategies
-  - sovereign default risk assessment
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Asset Allocation in financial markets
+- Credit default probability and recovery modeling
+- Tail Risk in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000125
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
+
 
 # Advanced Investments
 

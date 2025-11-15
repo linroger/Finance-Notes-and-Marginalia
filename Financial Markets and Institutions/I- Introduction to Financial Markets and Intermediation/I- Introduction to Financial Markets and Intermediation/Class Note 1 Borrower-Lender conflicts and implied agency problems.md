@@ -2,32 +2,79 @@
 cssclasses: academia
 title: Class Note 1 Borrower-Lender Conflicts and Implied Agency Problems
 tags:
-  - agency_problems
-  - asset_services
-  - bond_covenants
-  - borrower_lender_conflicts
-  - capital_markets
-  - debt_incentives
-  - asset_substitution
-  - leverage_effects
-  - capital_structure
-  - moral_hazard
+- leverage
+- probability
+- discount-rate
+- capital-budgeting
+- implied
+- counterparty-risk
+- caplet
+- capital-adequacy
+- beta-estimation
+- cash-flow-modeling
+- distribution
+- put
+- bond
+- measure
+- banking-regulation
+- basel-accord
+- default
+- cds
+- payoff
+- ito
+- cost-of-capital
+- maturity
+- credit-modeling
+- capital
+- equity
+- discount
+- capital-structure
+- interest-rate
+- convexity-adjustment
+- market
+- credit-default-swap
+- model
+- credit-derivatives
 aliases:
-  - Borrower-Lender Conflicts
-  - Debt and Incentives  
-  - Asset Substitution Theory
+- Borrower-Lender Conflicts
+- Debt and Incentives
+- Asset Substitution Theory
 key_concepts:
-  - Asset services reduce bad effects
-  - Bond covenants and borrower behavior
-  - Debt common for smaller firms
-  - Debt distorts capital budgeting
-  - Incentives of equity holders
-  - Risky debt and lender advantage
-  - Leverage impact on incentives
-  - Perverse incentive effects
-  - Debt capacity calculation
-  - Covenant enforcement problems
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Net present value (NPV) and investment evaluation
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Basel accords and banking regulation framework
+- Beta estimation and systematic risk measurement
+- Beta estimation and systematic risk measurement
+- Risk preference theory and utility functions
+- Credit default probability and recovery modeling
+- Discount Rate in financial markets
+- Interest Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000078
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
+
 
 # Class Note 1 Borrower-Lender Conflicts and Implied Agency Problems
 

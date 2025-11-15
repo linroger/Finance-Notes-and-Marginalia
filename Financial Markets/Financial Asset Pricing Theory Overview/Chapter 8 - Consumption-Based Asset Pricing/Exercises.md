@@ -1,22 +1,71 @@
 ---
 tags:
-  - consumption_based_capm
-  - european_call_option
-  - present_value
-  - state_price_deflator
-  - zero_coupon_bond
+- delta
+- zero_coupon_bond
+- risk-free
+- volatility
+- eur
+- payoff
+- ito
+- theta
+- margin
+- european_call_option
+- discount-rate
+- future
+- state_price_deflator
+- consumption_based_capm
+- dividend
+- gamma
+- pricing
+- correlation
+- option
+- binomial
+- put
+- bond
+- capm
+- brownian
+- present_value
 aliases:
-  - carl smart
-  - exercise 8.1
-  - investment projects
-  - risk-ignoring approach
+- carl smart
+- exercise 8.1
+- investment projects
+- risk-ignoring approach
 key_concepts:
-  - aggregate consumption growth
-  - conditional CAPM
-  - consumption growth rate
-  - expected dividends
-  - riskless returns
+- Binomial option pricing model
+- Option Greeks and risk sensitivities
+- Option valuation and hedging strategies
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Banking and credit intermediation
+- Bank balance sheet management
+- Binomial option pricing model and tree methods
+- Capital Asset Pricing Model and risk-return tradeoff
+- Correlation modeling and dependency structures
+- Delta hedging strategies in options markets
+- Discount Rate in financial markets
+- Gamma risk and convexity adjustments in options
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Risk Free in financial markets
+- Volatility modeling and implied volatility surfaces
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000428
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 8.11 Exercises  
 

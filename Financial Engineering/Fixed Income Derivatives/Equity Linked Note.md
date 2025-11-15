@@ -1,21 +1,197 @@
 ---
-tags:
-  - call_option
-  - equity_exposure
-  - equity_linked_notes
-  - principal_guaranteed
-  - zero_coupon_bond
+academic_level: graduate
 aliases:
-  - ELN
-  - Equity-linked note
-  - Principal Guaranteed Structures
+- ELN
+- Equity-linked note
+- Principal Guaranteed Structures
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000357
 key_concepts:
-  - Bond with call option
-  - Downside protection
-  - Equity market participation
-  - Investment instrument
-  - Redemption amount calculation
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Collateralized debt obligations (CDO) and tranche structure
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Auto-Callable Notes and Barrier Options
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Variance Reduction Techniques in Monte Carlo Methods
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Equity-Linked Notes and Market-Linked Securities
+- Delta, Gamma, and Vega Hedging Techniques
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Stochastic Integration and Path-Dependent Options
+- Structured Products and Principal Protection
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Factor Models and Asset Pricing
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Hedging Strategies and Risk Mitigation
+- Monte Carlo Simulation Methods for Derivative Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- asset-allocation
+- banking-regulation
+- barrier-options
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-asset-pricing
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cds
+- coherent-risk-measure
+- control-variates
+- leveraged-buyout
+- exotic-options
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- volatility-analysis
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- clearinghouse
+- arbitrage-pricing-theory
+- monte-carlo-simulation
+- hedge-ratio
+- market-price-of-risk
+- loss-given-default
+- value-factor
+- vasicek-model
+- dirty-price
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- random-walks
+- expected-loss
+- delta-hedging
+- quantitative-finance
+- market-linked-notes
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- reverse-convertibles
+- gamma-hedging
+- hedge-effectiveness
+- roll-yield
+- risk-premium
+- put-options
+- affine-term-structure
+- momentum
+- basis-risk
+- hedge-strategies
+- antithetic-variates
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- path-dependency
+- value-at-risk
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- variance-reduction
+- stochastic-integration
+- cross-hedging
+- sum-of-parts
+- clean-price
+- principal-protected-notes
+- strangles
+- conditional-var
+- equity-linked-notes
+- fixed-income
+- short-rate-models
+- least-squares-mc
+- credit-migration
+- default-probability
+- marking-to-market
+- auto-callables
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- structured-notes
+- iron-condors
+- financial-markets
+- static-hedging
+- size-effect
+- precedent-transactions
+- knock-out-options
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- quasi-monte-carlo
+- apt
+- current-yield
+type: note
 ---
+--
+
+
 
 # Equity Linked Note
 # Equity Linked Note :  An Introduction to Principal  Guaranteed Structures

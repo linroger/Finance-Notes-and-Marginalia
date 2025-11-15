@@ -1,25 +1,84 @@
 ---
-title: Principles Part II
-cssclasses: academia
-tags:
-  - big_debt_crises
-  - cause_effect
-  - economic_dynamics
-  - principles
-  - world_order
 aliases:
-  - Changing World Order
-  - Debt Crises
-  - Principles Part 2
+- Changing World Order
+- Debt Crises
+- Principles Part 2
+cssclasses: academia
 key_concepts:
-  - Big debt crises
-  - Cause/effect relationships
-  - Dominant power changes
-  - Economic machine
-  - Important drivers changes
-  - Timeless universal truths
-  - World order transition
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Principles Part II and financial analysis
+- Principles Part II in modern finance
+- Applications of Principles Part II
+- 'Case study: Principles Part II'
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Exchange Rate in financial markets
+- Interest Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+tags:
+- efficiency
+- leverage
+- eur
+- monetary-policy
+- probability
+- margin
+- digital
+- forward
+- future
+- distribution
+- interest-rates
+- put
+- intrinsic
+- bond
+- american
+- gold
+- crisis
+- bonds
+- debt-restructuring
+- spread
+- credit-risk
+- measure
+- valuation
+- default
+- options
+- bankruptcy
+- fixed-income
+- credit
+- call
+- strike
+- treasury
+- yield
+- interest-rate
+title: Principles Part II
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000555
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 Principles Part I
 

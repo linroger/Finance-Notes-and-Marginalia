@@ -1,22 +1,78 @@
 ---
 tags:
-  - abnormal_returns
-  - efficient_market
-  - market_efficiency
-  - security_prices
-  - technical_analysis
+- efficiency
+- security_prices
+- leverage
+- duration
+- eur
+- volatility
+- multiple
+- hedge
+- probability
+- value-at-risk
+- commodity
+- discount-rate
+- technical_analysis
+- momentum
+- future
+- implied
+- regulation
+- abnormal_returns
+- dividend
+- time-series
+- efficient_market
+- free-cash-flow
+- pricing
+- correlation
+- market_efficiency
 aliases:
-  - Efficient Market
-  - Market Efficiency
-  - Weak Form Efficiency
+- Efficient Market
+- Market Efficiency
+- Weak Form Efficiency
 key_concepts:
-  - efficient capital market
-  - investors earn abnormal returns
-  - markets approach efficiency
-  - prices fluctuate randomly
-  - security prices reflect info
-  - zero net present value
+- American option pricing and early exercise
+- Option valuation and hedging strategies
+- Bond duration and interest rate risk
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Monte Carlo simulation for derivatives valuation
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Bid Ask in financial markets
+- Capital Asset Pricing Model and risk-return tradeoff
+- Correlation modeling and dependency structures
+- Discounted Cash Flow valuation methodology
+- Discount Rate in financial markets
+- Duration and interest rate risk measurement
+- Exchange Rate in financial markets
+- Free Cash Flow in financial markets
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Mean Reversion in financial markets
+- P E in financial markets
+- Time Series in financial markets
+- Value At Risk in financial markets
+- Volatility modeling and implied volatility surfaces
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000266
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Market Efficiency  
 

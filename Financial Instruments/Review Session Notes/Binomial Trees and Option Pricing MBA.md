@@ -1,31 +1,181 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Binomial Trees and Option Pricing MBA
-title: Binomial Trees and Option Pricing MBA
-tags:
-  - binomial_tree
-  - capm
-  - option_pricing
-  - risk_neutral
-  - stock_valuation
-  - dynamic_replication
-  - comparative_statics
+academic_level: graduate
 aliases:
-  - BOPM
-  - Binomial Option Pricing
-  - Option Valuation
-  - Single-Period Option Model
+- BOPM
+- Binomial Option Pricing
+- Option Valuation
+- Single-Period Option Model
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000172
 key_concepts:
-  - ATM option valuation
-  - Binomial tree parameters
-  - CAPM formula
-  - Risk neutral probability
-  - Stock price at maturity
-  - Dynamic replication strategies
-  - Single-period option pricing
-  - Risk-neutral methodology
+- Black-Scholes option pricing model and continuous-time finance
+- Binomial option pricing model and lattice methods
+- Options Greeks and sensitivity analysis for risk management
+- Risk-neutral measures and martingale pricing
+- Martingale theory and change of measure
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Collateralized debt obligations (CDO) and tranche structure
+- Arbitrage opportunities and no-arbitrage pricing
+- Beta estimation and systematic risk measurement
+- Factor models and multi-factor pricing
+- Beta estimation and systematic risk measurement
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Cost of Equity and Expected Returns
+- Black-Scholes Option Pricing Model and Its Applications
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Binomial Option Pricing Model for Discrete Time Valuation
+- American Option Pricing and Early Exercise Premium
+- Option Valuation and Exercise Strategies
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: Binomial Trees and Option Pricing MBA
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- asset-allocation
+- beta-estimation
+- binomial-model
+- black-scholes-model
+- capital-asset-pricing
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cds
+- coherent-risk-measure
+- collateralized-debt-obligation
+- conditional-var
+- continuous-time-pricing
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- binomial-tree
+- straddles
+- extreme-value-theory
+- american-options
+- partial-differential-equation
+- book-to-market
+- risk-neutral-valuation
+- volatility-analysis
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- capital-asset-pricing-model
+- arbitrage-pricing-theory
+- market-price-of-risk
+- volatility-surface
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dirty-price
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- yield-to-maturity
+- fama-french
+- price-to-earnings
+- bsm-model
+- zero-coupon-bonds
+- black-scholes-formula
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- crr-model
+- systematic-risk
+- protective-puts
+- government-bonds
+- alpha
+- security-market-line
+- idiosyncratic-risk
+- beta
+- risk-premium
+- put-options
+- affine-term-structure
+- multi-period-binomial
+- capm
+- momentum
+- market-risk-premium
+- discrete-time-pricing
+- covered-calls
+- stress-testing
+- ornstein-uhlenbeck
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- value-at-risk
+- factor-models
+- risk-management
+- var-backtesting
+- sum-of-parts
+- european-options
+- clean-price
+- lattice-models
+- strangles
+- fixed-income
+- cox-ross-rubinstein
+- short-rate-models
+- optional-exercise
+- efficient-frontier
+- binomial-option-pricing
+- multi-factor-models
+- ito-calculus
+- trading-multiples
+- iron-condors
+- option-pricing
+- financial-markets
+- size-effect
+- precedent-transactions
+- lognormal-distribution
+- ipo-valuation
+- market-multiple
+- ' recombining-trees'
+- apt
+- current-yield
+title: Binomial Trees and Option Pricing MBA
+type: note
 ---
+--
+
+
 
 # Binomial Trees and Option Pricing MBA
 ## 1. BINOMIAL TREES IN PHARMACEUTICALS

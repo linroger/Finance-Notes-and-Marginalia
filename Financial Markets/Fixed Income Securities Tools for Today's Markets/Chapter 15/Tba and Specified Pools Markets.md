@@ -1,22 +1,68 @@
 ---
 tags:
-  - delivery_option
-  - mortgage_pools
-  - pass_through_securities
-  - specified_pools
-  - tba_market
+- default
+- cds
+- pass_through_securities
+- specified_pools
+- comparable
+- maturity
+- delivery_option
+- prepayment
+- coupon
+- forward
+- future
+- swap
+- pass-through
+- pricing
+- option
+- apt
+- mbs
+- credit
+- call
+- tba_market
+- trading
+- bond
+- market
+- mortgage
+- mortgage_pools
 aliases:
-  - Specified Pools
-  - TBA
-  - To Be Announced
-  - UMBS
+- Specified Pools
+- TBA
+- To Be Announced
+- UMBS
 key_concepts:
-  - Cheapest-to-deliver
-  - Current coupon rate
-  - Delivery option
-  - Forward market
-  - TBA market
+- Option valuation and hedging strategies
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Banking and credit intermediation
+- Bank balance sheet management
+- Credit default probability and recovery modeling
+- Market liquidity analysis and liquidity risk
+- Pass Through in financial markets
+- Mortgage prepayment modeling and MBS analysis
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000251
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 15.8 TBA AND SPECIFIED POOLS MARKETS  
 

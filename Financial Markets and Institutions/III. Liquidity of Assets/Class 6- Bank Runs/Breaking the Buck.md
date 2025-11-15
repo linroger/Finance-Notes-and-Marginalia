@@ -1,38 +1,109 @@
 ---
 cssclasses:
-  - academia
-title: "Breaking the Buck"
-linter-yaml-title-alias: "Breaking the Buck"
+- academia
+title: Breaking the Buck
+linter-yaml-title-alias: Breaking the Buck
 tags:
-  - federal_reserve
-  - financial_crisis
-  - lehman_brothers
-  - money_market_fund
-  - prime_funds
-  - credit_risk
-  - market_liquidity
-  - fund_redemptions
-  - financial_regulation
-  - treasury_insurance_program
+- par-value
+- lehman_brothers
+- lehman
+- senior
+- money_market_fund
+- regulation
+- dividend
+- market_liquidity
+- risk-management
+- pricing
+- option
+- prime_funds
+- regulatory-capital
+- mertons-model
+- caps-floors
+- put
+- bond
+- fund_redemptions
+- deposit-insurance
+- financial-markets
+- credit_risk
+- crisis
+- structured
+- spread
+- credit-risk
+- mortgage
+- measure
+- valuation
+- default
+- cds
+- ito
+- diversification
+- event-study
+- financial_crisis
+- distressed
+- private-equity
+- financial_regulation
+- federal_reserve
+- treasury_insurance_program
+- yield-to-maturity
 aliases:
-  - Finbar McCall
-  - RPG Advisers
-  - RPGXX
-  - Reserve Primary Fund
-  - "Breaking the Buck"
+- Finbar McCall
+- RPG Advisers
+- RPGXX
+- Reserve Primary Fund
+- Breaking the Buck
 key_concepts:
-  - Breaking the buck
-  - Federal Reserve Regulation Q
-  - Lehman Brothers bankruptcy
-  - Money market funds
-  - Short-term debt securities
-  - Treasury Insurance Program
-  - Amortized cost accounting
-  - Asset-backed Commercial Paper Money Market Mutual Fund Liquidity Facility
-  - Net asset value maintenance
-  - Fund redemption management
-  - Money market fund insurance
+- Money market funds
+- Federal Reserve Regulation Q
+- Money market fund insurance
+- Lehman Brothers bankruptcy
+- Amortized cost accounting
+- Net asset value maintenance
+- Asset-backed Commercial Paper Money Market Mutual Fund Liquidity Facility
+- Short-term debt securities
+- Breaking the buck
+- Treasury Insurance Program
+- Fund redemption management
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Market Risk in financial markets
+- Par Value in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000054
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Breaking the Buck
 

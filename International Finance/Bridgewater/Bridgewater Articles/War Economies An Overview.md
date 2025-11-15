@@ -1,23 +1,85 @@
 ---
-title: 'War Economies: An Overview'
-cssclasses: academia
-tags:
-  - debt_crises
-  - economic_conflicts
-  - geopolitical_cycles
-  - military_conflicts
-  - war_economy
 aliases:
-  - Economic Conflicts
-  - War Economics
-  - War and Economy
+- Economic Conflicts
+- War Economics
+- War and Economy
+cssclasses: academia
 key_concepts:
-  - Consequences of war economies
-  - Dynamics of economic conflicts
-  - Economic and geopolitical cycles
-  - Long-term economic cycles
-  - War economy characteristics
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- War Economies An Overview and financial analysis
+- War Economies An Overview in modern finance
+- Applications of War Economies An Overview
+- 'Case study: War Economies An Overview'
+- Credit default probability and recovery modeling
+- Discount Rate in financial markets
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+tags:
+- eur
+- volatility
+- monetary-policy
+- solvency
+- hedge
+- margin
+- commodity
+- discount-rate
+- arma
+- future
+- distribution
+- interest-rates
+- option
+- put
+- trading
+- bond
+- intrinsic
+- american
+- gold
+- crisis
+- bonds
+- spread
+- measure
+- options
+- fixed-income
+- credit
+- call
+- strike
+- treasury
+- liquidity
+- interest-rate
+title: 'War Economies: An Overview'
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000611
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # War Economies: An Overview
 

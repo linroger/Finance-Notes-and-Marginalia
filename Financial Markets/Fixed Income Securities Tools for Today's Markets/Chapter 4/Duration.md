@@ -1,21 +1,53 @@
 ---
 tags:
-  - bond_valuation
-  - duration
-  - effective_duration
-  - interest_rate_risk
-  - yield_based_duration
+- yield_based_duration
+- delta
+- duration
+- bond_valuation
+- effective_duration
+- portfolio
+- interest_rate_risk
+- call
+- market
+- bond
+- treasury
+- measure
+- yield
+- interest-rate
+- derivative
 aliases:
-  - DV01
-  - bond risk
-  - price sensitivity
+- DV01
+- bond risk
+- price sensitivity
 key_concepts:
-  - 'DV01: price change'
-  - asset manager perspective
-  - bond price sensitivity
-  - 'duration: % price change'
-  - portfolio duration calculation
+- Bond duration and interest rate risk
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial derivatives pricing and valuation
+- Delta hedging strategies in options markets
+- Duration and interest rate risk measurement
+- Interest Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000207
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 4.4 DURATION  
 

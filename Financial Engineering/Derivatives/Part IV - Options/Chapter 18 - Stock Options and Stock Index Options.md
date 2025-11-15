@@ -1,23 +1,197 @@
 ---
-tags:
-  - dynamic_hedging
-  - protective_put
-  - ratio_spread
-  - stock_index_options
-  - stock_options
+academic_level: graduate
 aliases:
-  - Covered Call
-  - Options on Stocks
-  - Protective Put
-  - Ratio Spread
-  - Static Hedge
+- Covered Call
+- Options on Stocks
+- Protective Put
+- Ratio Spread
+- Static Hedge
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000396
 key_concepts:
-  - Dynamic delta hedging
-  - Mispriced options profit
-  - Protective put strategy
-  - Risk-free portfolio creation
-  - Stock options and indexes
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Delta hedging and dynamic replication strategies
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Collateralized debt obligations (CDO) and tranche structure
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Value at Risk and Expected Shortfall
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Delta, Gamma, and Vega Hedging Techniques
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Price Discovery and Market Efficiency
+- Cost of Equity and Expected Returns
+- Forward Curves and Roll Strategies
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- Private Equity Investment Returns and Value Creation
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- asset-allocation
+- binomial-model
+- black-scholes-model
+- capital-asset-pricing
+- caplet
+- cds
+- coherent-risk-measure
+- collateralized-debt-obligation
+- conditional-var
+- continuous-time-pricing
+- convexity
+- convexity-adjustment
+- counterparty-risk
+- leveraged-buyout
+- call-options
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- backwardation
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- arbitrage-pricing-theory
+- hedge-ratio
+- private-equity
+- price-discovery
+- loss-given-default
+- roll-strategies
+- value-factor
+- sharpe-ratio
+- dirty-price
+- forward-curves
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- var-methodologies
+- historical-var
+- contango
+- vega-hedging
+- debt-capacity
+- expected-loss
+- market-efficiency
+- delta-hedging
+- order-flow
+- bid-ask-spread
+- systematic-risk
+- investment-return
+- protective-puts
+- government-bonds
+- alpha
+- security-market-line
+- probabilty-of-default
+- liquidity
+- gamma-hedging
+- hedge-effectiveness
+- idiosyncratic-risk
+- storage-costs
+- roll-yield
+- beta
+- put-options
+- equity-kickers
+- capm
+- lbo-valuation
+- algorithmic-trading
+- momentum
+- basis-risk
+- market-risk-premium
+- hedge-strategies
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- rating-migration
+- investment-analysis
+- portfolio-optimization
+- value-at-risk
+- bootstrap-strategy
+- metals-trading
+- management-buyout
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- cross-hedging
+- seasonality
+- clean-price
+- high-frequency-trading
+- strangles
+- fixed-income
+- efficient-frontier
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- multi-factor-models
+- iron-condors
+- financial-markets
+- static-hedging
+- size-effect
+- futures-contracts
+- apt
+- current-yield
+type: note
 ---
+--
+
+
+
 # Stock Options and Stock Index Options  
 
 # Aims  

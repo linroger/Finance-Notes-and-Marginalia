@@ -1,40 +1,151 @@
 ---
-cssclasses: academia
-title: "HBS Case Study: Kohler Co. (A)"
-date: 2023-10-15
-tags:
- - private_company_valuation
- - family_business
- - ownership_control
- - reverse_stock_split
- - minority_shareholders
- - dissenting_shareholders
- - fair_value_determination
- - recapitalization
- - wisconsin_court_case
- - share_buyback
- - charitable_foundations
- - stewardship_trust
- - 1978_reverse_split
- - 1998_recapitalization
- - permitted_transferees
+academic_level: graduate
 aliases:
- - Kohler Case Study
- - Kohler Recapitalization 1998
- - Herbert Kohler Jr Case
- - Kohler Family Business
+- Kohler Case Study
+- Kohler Recapitalization 1998
+- Herbert Kohler Jr Case
+- Kohler Family Business
+cssclasses: academia
+date: 2023-10-15
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000218
 key_concepts:
- - Private company advantages: Long-term view, no public disclosure
- - Reverse stock split 1978: 1-for-20 to stay under 500 shareholders
- - 1998 recapitalization: Buyout of outside shareholders at $55,400/share
- - Dissenting shareholders: Claimed shares worth $273,000
- - Ownership structure: 4% outside shareholders, 96% family/foundations
- - Fair value dispute: Court to determine value vs company offer
- - Stewardship Trust: Control mechanism for future generations
- - Financial non-disclosure: Competitive advantage strategy
- - Diversified business: Plumbing, power systems, hospitality
- - Charitable foundations: Impact of valuation on giving requirements
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Distressed Investing and Debt Restructuring
+- Forward Curves and Roll Strategies
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arch
+- asset-allocation
+- caplet
+- credit-rating
+- crude-oil
+- energy-derivatives
+- hedging
+- heteroskedasticity
+- interest-rate-cap
+- interest-rate-ceiling
+- investment-grade
+- ito-calculus
+- ito-integration
+- low-default-risk
+- merger-acquisition
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- exchange-offers
+- volatility-analysis
+- style-analysis
+- option-strategies
+- cramdown
+- unexpected-loss
+- debt-restructuring
+- arbitrage-pricing-theory
+- market-price-of-risk
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- forward-curves
+- distressed-investing
+- monte-carlo-var
+- options-trading
+- commodity-trading
+- price-to-earnings
+- fama-french
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- expected-loss
+- protective-puts
+- probabilty-of-default
+- storage-costs
+- risk-premium
+- put-options
+- affine-term-structure
+- momentum
+- covered-calls
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- value-at-risk
+- metals-trading
+- blocker-strategy
+- factor-models
+- convenience-yield
+- creditor-committees
+- agricultural-commodities
+- risk-management
+- var-backtesting
+- tender-offers
+- sum-of-parts
+- seasonality
+- ' DIP-financing'
+- strangles
+- conditional-var
+- short-rate-models
+- credit-migration
+- default-probability
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- apt
+title: 'HBS Case Study: Kohler Co. (A)'
+type: note
 ---
+--
+
+
 
 # Kohler Co. (A)
 

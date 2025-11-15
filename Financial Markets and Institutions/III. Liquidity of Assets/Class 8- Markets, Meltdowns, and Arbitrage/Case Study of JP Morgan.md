@@ -1,23 +1,102 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Case Study of JP Morgan
 tags:
-  - banking_system
-  - case_study
-  - financial_crisis
-  - jp_morgan
-  - risk_management
+- basel-iii
+- banking_system
+- synthetic
+- eur
+- senior
+- energy
+- commodity
+- regulation
+- swap
+- risk-management
+- counterparty
+- leveraged-buyout
+- option
+- compliance
+- put
+- american
+- mertons-model
+- case_study
+- caps-floors
+- trading
+- financial-markets
+- stochastic-calculus
+- crisis
+- basel
+- credit-risk
+- mortgage
+- measure
+- jp_morgan
+- default
+- ito
+- high-yield
+- risk_management
+- financial_crisis
+- distressed
+- private-equity
+- capital-structure
+- investment-strategy
+- sovereign-debt
+- banking
+- yield-to-maturity
 aliases:
-  - JP Morgan Case Study
-  - JPMorgan Chase
+- JP Morgan Case Study
+- JPMorgan Chase
 key_concepts:
-  - 2008 financial crisis
-  - 'JP Morgan: financial leader'
-  - Risk management framework
-  - Too big to fail
-  - Value-at-Risk (VaR)
+- Risk management framework
+- 2008 financial crisis
+- Too big to fail
+- 'JP Morgan: financial leader'
+- Value-at-Risk (VaR)
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
+- '2008 Global Financial Crisis: causes and consequences'
+- Bear Stearns in financial markets
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000065
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Case Study of JP Morgan
 

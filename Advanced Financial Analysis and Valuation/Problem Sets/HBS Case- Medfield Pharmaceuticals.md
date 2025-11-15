@@ -1,36 +1,172 @@
 ---
-title: HBS Case - Medfield Pharmaceuticals
-cssclasses:
-  - academia
+academic_level: graduate
 aliases:
-  - Medfield Pharmaceuticals Case
-  - Fleximat Patent Strategy
-  - Medfield Acquisition Analysis
-  - Susan Johnson Case Study
-tags:
-  - case_study
-  - hbs_case
-  - pharmaceuticals
-  - fda_approval
-  - fleximat
-  - generic_drugs
-  - medfield_pharmaceuticals
-  - patent_life
-  - reformulation_strategy
-  - acquisition_valuation
-  - intangible_assets
+- Medfield Pharmaceuticals Case
+- Fleximat Patent Strategy
+- Medfield Acquisition Analysis
+- Susan Johnson Case Study
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000224
 key_concepts:
-  - Generic drug competition
-  - Marketing effort launch
-  - Medfield's flagship product
-  - Patent life extension
-  - Pharmaceutical industry crossroads
-  - Patent evergreening tactics
-  - Drug reformulation strategies
-  - Corporate acquisition valuation
-  - Pharmaceutical R&D costs
-  - Generic vs branded drugs
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Distressed Investing and Debt Restructuring
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Private Equity Investment Returns and Value Creation
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- arch
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-asset-pricing
+- capital-structure
+- caplet
+- cash-flow-modeling
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- leveraged-buyout
+- asset-allocation
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- exchange-offers
+- backwardation
+- volatility-analysis
+- style-analysis
+- leverage-ratio
+- option-strategies
+- cramdown
+- unexpected-loss
+- clearinghouse
+- debt-restructuring
+- arbitrage-pricing-theory
+- hedge-ratio
+- private-equity
+- market-price-of-risk
+- loss-given-default
+- value-factor
+- vasicek-model
+- distressed-investing
+- monte-carlo-var
+- options-trading
+- forward-contracts
+- price-to-earnings
+- fama-french
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- debt-capacity
+- expected-loss
+- investment-return
+- protective-puts
+- probabilty-of-default
+- roll-yield
+- risk-premium
+- put-options
+- affine-term-structure
+- equity-kickers
+- lbo-valuation
+- momentum
+- basis-risk
+- covered-calls
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- value-at-risk
+- bootstrap-strategy
+- management-buyout
+- blocker-strategy
+- factor-models
+- creditor-committees
+- risk-management
+- convergence
+- var-backtesting
+- tender-offers
+- sum-of-parts
+- ' DIP-financing'
+- strangles
+- short-rate-models
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+title: HBS Case - Medfield Pharmaceuticals
+type: case-study
 ---
+--
+
+
 
 # HBS Case - Medfield Pharmaceuticals
 

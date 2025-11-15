@@ -1,21 +1,120 @@
 ---
-tags:
-  - gauss_jordan
-  - inverse_matrices
-  - linear_systems
-  - matrix_algebra
-  - nonsingular_matrix
+academic_level: graduate
 aliases:
-  - Linear Systems Solutions
-  - Matrix Inverses
-  - Solving Equations
+- Linear Systems Solutions
+- Matrix Inverses
+- Solving Equations
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000415
 key_concepts:
-  - Gauss-Jordan method inverse
-  - Inverse matrix definition
-  - Linear equation solution
-  - Matrix equation representation
-  - Nonsingular matrix property
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Collateralized debt obligations (CDO) and tranche structure
+- Sensitivity analysis and Greeks calculation
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Risk Measurement and VaR Backtesting
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Option Valuation and Exercise Strategies
+- Value at Risk and Expected Shortfall
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- LBO Valuation and Debt Capacity Analysis
+- Options Trading Strategies and Risk Management
+- Leveraged Buyouts and Private Equity Transactions
+- Stress Testing and Extreme Value Analysis
+- Private Equity Investment Returns and Value Creation
+- Fama-French Factors and Style Analysis
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- binomial-model
+- black-scholes-model
+- cds
+- coherent-risk-measure
+- collateralized-debt-obligation
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- default-probability
+- delta-hedging
+- put-options
+- leveraged-buyout
+- affine-term-structure
+- recovery-rate
+- hull-white
+- call-options
+- cir-model
+- equity-kickers
+- lbo-valuation
+- butterfly-spreads
+- momentum
+- strangles
+- expected-shortfall
+- straddles
+- parametric-var
+- extreme-value-theory
+- book-to-market
+- var-methodologies
+- historical-var
+- mean-reversion
+- lognormal-models
+- covered-calls
+- ' exposure-at-default'
+- style-analysis
+- short-rate-models
+- leverage-ratio
+- option-strategies
+- stress-testing
+- unexpected-loss
+- ornstein-uhlenbeck
+- rating-migration
+- debt-capacity
+- expected-loss
+- credit-migration
+- value-at-risk
+- credit-spreads
+- arbitrage-pricing-theory
+- multi-factor-models
+- bootstrap-strategy
+- private-equity
+- investment-return
+- iron-condors
+- protective-puts
+- market-price-of-risk
+- management-buyout
+- probabilty-of-default
+- loss-given-default
+- size-effect
+- factor-models
+- value-factor
+- vasicek-model
+- monte-carlo-var
+- var-backtesting
+- options-trading
+- apt
+- risk-premium
+- fama-french
+type: note
 ---
+--
+
+
 
 # Chapter 1 Additional Readings  
 

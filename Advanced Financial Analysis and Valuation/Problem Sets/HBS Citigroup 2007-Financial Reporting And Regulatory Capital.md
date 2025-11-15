@@ -1,40 +1,239 @@
 ---
-cssclasses: academia
-title: "HBS Case Study: Citigroup 2007 - Financial Reporting and Regulatory Capital"
-date: 2023-10-15
-tags:
-  - financial_crisis_2007
-  - citigroup
-  - regulatory_capital
-  - financial_reporting
-  - tier_1_capital
-  - basel_regulations
-  - bank_capital_adequacy
-  - leverage_ratio
-  - subprime_mortgage_crisis
-  - fair_value_accounting
-  - securitization
-  - regulatory_requirements
-  - fdic_regulations
-  - risk_weighted_assets
-  - bank_supervision
+academic_level: graduate
 aliases:
-  - Citi 2007 Regulatory Capital Case
-  - Citigroup 2007 10-K Analysis
-  - Citi Financial Crisis Case Study
-  - Merando Citigroup Analysis
+- Citi 2007 Regulatory Capital Case
+- Citigroup 2007 10-K Analysis
+- Citi Financial Crisis Case Study
+- Merando Citigroup Analysis
+cssclasses: academia
+date: 2023-10-15
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000222
 key_concepts:
-  - Tier 1 capital ratio: Core capital divided by risk-weighted assets
-  - Regulatory capital: Capital required by Fed to offset credit, market, operational risks
-  - Risk-weighted assets: Assets multiplied by assigned risk weights
-  - Well-capitalized banks: 6% Tier 1, 10% total capital, 5% leverage ratio
-  - Capital adequacy: Minimum 4% Tier 1, 8% total capital, 3% leverage
-  - Fair value accounting: Mark-to-market valuation during crisis
-  - Subprime crisis: $18.1 billion write-off in Q4 2007
-  - Basel regulations: International banking supervision framework
-  - FDIC requirements: Federal deposit insurance standards
-  - Capital management framework: Citigroup's risk-based approach
+- Securitization and structured finance
+- Basel accords and banking regulation framework
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Duration and Convexity in Fixed Income Risk Management
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Auto-Callable Notes and Barrier Options
+- Basel III Regulatory Framework and Capital Requirements
+- Value at Risk and Expected Shortfall
+- Derivatives Clearing and Volcker Rule
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Equity-Linked Notes and Market-Linked Securities
+- Delta, Gamma, and Vega Hedging Techniques
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Regulatory Capital and Stress Testing
+- Structured Products and Principal Protection
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Dodd-Frank Act and Financial Regulatory Reform
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Dynamic vs Static Hedging in Practice
+- Private Equity Investment Returns and Value Creation
+- Liquidity Coverage Ratio and Net Stable Funding
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Systemic Risk and Living Wills
+- LBO Valuation and Debt Capacity Analysis
+- Interest Rate Risk and DV01 Calculations
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arch
+- asset-allocation
+- banking-regulation
+- basel-accord
+- bid-ask-spread
+- capital-adequacy
+- caplet
+- corporate-combinations
+- credit-rating
+- derivatives
+- exchange-rates
+- forward-contracts
+- forward-pricing
+- futures
+- fx
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- backwardation
+- net-stable-funding
+- volatility-analysis
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- clearinghouse
+- interest-rate-risk
+- arbitrage-pricing-theory
+- hedge-ratio
+- systemic-risk
+- private-equity
+- market-price-of-risk
+- capital-conservation-buffer
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- dirty-price
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- yield-to-maturity
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- regulatory-capital
+- debt-capacity
+- modified-duration
+- expected-loss
+- market-efficiency
+- delta-hedging
+- quantitative-finance
+- order-flow
+- market-linked-notes
+- investment-return
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- liquidity
+- curve-steepening
+- reverse-convertibles
+- gamma-hedging
+- hedge-effectiveness
+- living-wills
+- roll-yield
+- tier-2-capital
+- risk-premium
+- put-options
+- countercyclical-buffer
+- affine-term-structure
+- equity-kickers
+- lbo-valuation
+- algorithmic-trading
+- momentum
+- curve-flattening
+- basis-risk
+- regulatory-reform
+- convexity
+- hedge-strategies
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- derivatives-clearing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- duration-analysis
+- value-at-risk
+- bootstrap-strategy
+- management-buyout
+- volcker-rule
+- factor-models
+- barbell-strategy
+- risk-management
+- convergence
+- var-backtesting
+- barrier-options
+- cross-hedging
+- sum-of-parts
+- dodd-frank-act
+- clean-price
+- high-frequency-trading
+- principal-protected-notes
+- strangles
+- conditional-var
+- equity-linked-notes
+- fixed-income
+- dv01
+- short-rate-models
+- price-yield-relationship
+- credit-migration
+- default-probability
+- marking-to-market
+- auto-callables
+- credit-spreads
+- tier-1-capital
+- proprietary-trading
+- multi-factor-models
+- trading-multiples
+- structured-notes
+- iron-condors
+- financial-markets
+- macaulay-duration
+- static-hedging
+- credit-rating-agencies
+- size-effect
+- precedent-transactions
+- knock-out-options
+- stress-tests
+- liquidity-coverage-ratio
+- ipo-valuation
+- basel-iii
+- market-multiple
+- futures-contracts
+- apt
+- current-yield
+title: 'HBS Case Study: Citigroup 2007 - Financial Reporting and Regulatory Capital'
+type: note
 ---
+--
+
+
 
 ## Citigroup 2007: Financial Reporting and Regulatory Capital
 

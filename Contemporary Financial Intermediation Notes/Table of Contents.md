@@ -1,3 +1,120 @@
+---
+academic_level: graduate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000204
+key_concepts:
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Securitization and structured finance
+- Mortgage-backed securities (MBS) and prepayment modeling
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Duration and Convexity in Fixed Income Risk Management
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Dodd-Frank Act and Financial Regulatory Reform
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Value at Risk and Expected Shortfall
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Bond Portfolio Immunization Strategies
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Systemic Risk and Living Wills
+- Interest Rate Risk and DV01 Calculations
+- Derivatives Clearing and Volcker Rule
+- Stress Testing and Extreme Value Analysis
+professional_application: theoreti
+status: active
+tags:
+- banking-regulation
+- basel-accord
+- bid-ask-spread
+- capital-adequacy
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cds
+- cmbs-rmbs
+- coherent-risk-measure
+- conditional-var
+- cost-of-capital
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- affine-term-structure
+- recovery-rate
+- hull-white
+- dodd-frank-act
+- cir-model
+- high-frequency-trading
+- algorithmic-trading
+- curve-flattening
+- expected-shortfall
+- parametric-var
+- extreme-value-theory
+- convexity
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- arbitrage
+- regulatory-reform
+- volatility-analysis
+- ' exposure-at-default'
+- dv01
+- short-rate-models
+- stress-testing
+- derivatives-clearing
+- unexpected-loss
+- ornstein-uhlenbeck
+- modified-duration
+- rating-migration
+- expected-loss
+- price-yield-relationship
+- investment-analysis
+- market-efficiency
+- credit-migration
+- default-probability
+- duration-analysis
+- value-at-risk
+- order-flow
+- credit-spreads
+- interest-rate-risk
+- proprietary-trading
+- systemic-risk
+- market-price-of-risk
+- financial-markets
+- macaulay-duration
+- probabilty-of-default
+- price-discovery
+- loss-given-default
+- volcker-rule
+- credit-rating-agencies
+- liquidity
+- curve-steepening
+- stress-tests
+- vasicek-model
+- monte-carlo-var
+- barbell-strategy
+- risk-management
+- var-backtesting
+- living-wills
+- market-impact
+- risk-premium
+type: note
+---
+--
+
+
+
 # Contemporary Financial Intermediation - Table of Contents
 
 ## Introduction

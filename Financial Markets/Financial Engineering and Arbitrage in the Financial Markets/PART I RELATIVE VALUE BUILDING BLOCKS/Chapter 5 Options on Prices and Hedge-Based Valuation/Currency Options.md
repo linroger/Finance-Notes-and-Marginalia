@@ -1,20 +1,49 @@
 ---
 tags:
-  - call_option
-  - currency_options
-  - fx_market
-  - fx_rates
-  - put_option
+- spot-price
+- pricing
+- call_option
+- put_option
+- option
+- payoff
+- fx_rates
+- currency_options
+- fx_market
+- call
+- put
+- currency
+- financial-markets
+- forward
+- future
 aliases:
-  - Currency Derivatives
-  - FX Options
+- Currency Derivatives
+- FX Options
 key_concepts:
-  - Call option on dollar
-  - Currency option mechanics
-  - Dual nature of FX rates
-  - Put option on yen
-  - Strike price inversion
+- Option valuation and hedging strategies
+- Financial derivatives pricing and valuation
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Spot Price in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000281
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 5.5 CURRENCY OPTIONS  
 

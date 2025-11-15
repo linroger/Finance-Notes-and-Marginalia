@@ -1,26 +1,67 @@
 ---
 tags:
-  - agency_mbs
-  - cmo
-  - io_po
-  - mbs
-  - pac
-  - prepayment_risk
-  - remic
-  - tac
+- remic
+- duration
+- collateralized
+- prepayment
+- coupon
+- gas
+- pass-through
+- discount
+- mbs
+- tac
+- cmo
+- tranche
+- call
+- pac
+- io_po
+- agency_mbs
+- bond
+- liquidity
+- structured
+- sifi
+- roa
+- prepayment_risk
+- mortgage
+- portfolio
+- interest-rate
+- collateral
 aliases:
-  - Collateralized Mortgage Obligations
-  - IO
-  - MBS
-  - PO
-  - Real Estate Mortgage Investment Conduits
+- Collateralized Mortgage Obligations
+- IO
+- MBS
+- PO
+- Real Estate Mortgage Investment Conduits
 key_concepts:
-  - Address prepayment risk
-  - Combine pools into MBS
-  - IO and PO strips
-  - MBS other than pools
-  - PAC classes
+- Bond duration and interest rate risk
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Duration and interest rate risk measurement
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Pass Through in financial markets
+- Mortgage prepayment modeling and MBS analysis
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000257
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 15.11 OTHER MBS  
 

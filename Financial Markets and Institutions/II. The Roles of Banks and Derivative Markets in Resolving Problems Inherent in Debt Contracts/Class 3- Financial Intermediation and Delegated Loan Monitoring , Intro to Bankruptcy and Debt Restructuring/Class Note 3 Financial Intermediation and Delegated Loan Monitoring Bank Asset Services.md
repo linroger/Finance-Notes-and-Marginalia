@@ -1,33 +1,47 @@
 ---
 cssclasses:
-  - academia
-title: "Class Note 3: Financial Intermediation and Delegated Loan Monitoring - Bank Asset Services"
+- academia
+title: 'Class Note 3: Financial Intermediation and Delegated Loan Monitoring - Bank
+  Asset Services'
 tags:
-  - bank_asset_services
-  - class_note
-  - delegated_loan_monitoring
-  - financial_intermediation
-  - loan_rates
-  - diversification
-  - monitoring_incentives
+- arbitrage-opportunity
+- arbitrage-pricing
+- asset-allocation
+- banking-regulation
+- basel-accord
+- capital-adequacy
+- capital-asset-pricing
+- caplet
+- cds
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
 aliases:
-  - Banker Profit
-  - Class Note 3
-  - Financial Intermediaries
-  - Delegated Monitoring
-  - Bank Diversification
+- Banker Profit
+- Class Note 3
+- Financial Intermediaries
+- Delegated Monitoring
+- Bank Diversification
 key_concepts:
-  - Banker Profit Opportunity
-  - Delegated Loan Monitoring
-  - Financial Intermediation
-  - Payment Distribution Table
-  - Synthetic Large Investors
-  - Two-Loan Bank Model
-  - Monitoring Incentives
-  - Control Rent
-  - Diversification Benefits
-  - Mathematical Appendix
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Risk preference theory and utility functions
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
 
 # Class Note 3: Financial Intermediation and Delegated Loan Monitoring - Bank Asset Services
 

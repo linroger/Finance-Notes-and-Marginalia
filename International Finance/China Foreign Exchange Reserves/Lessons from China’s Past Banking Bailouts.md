@@ -1,25 +1,222 @@
 ---
-title: Lessons from China’s Past Banking Bailouts
-cssclasses:
-  - academia
-tags:
-  - bank_bailouts
-  - china_banking
-  - economic_history
-  - financial_stability
-  - npl
 aliases:
-  - Baoshang Bank
-  - Chinese bank rescues
-  - NPL crisis
-  - PBoC
+- Baoshang Bank
+- Chinese bank rescues
+- NPL crisis
+- PBoC
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000012
 key_concepts:
-  - Bank bailouts history
-  - China banking sector
-  - Economic growth trade tensions
-  - Financial stability threat
-  - NPL asset quality
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Lessons from China’s Past Banking Bailouts and financial analysis
+- Lessons from China’s Past Banking Bailouts in modern finance
+- Applications of Lessons from China’s Past Banking Bailouts
+- 'Case study: Lessons from China’s Past Banking Bailouts'
+- Auto-Callable Notes and Barrier Options
+- Basel III Regulatory Framework and Capital Requirements
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Equity-Linked Notes and Market-Linked Securities
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Distressed Investing and Debt Restructuring
+- Forward Curves and Roll Strategies
+- Regulatory Capital and Stress Testing
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Structured Products and Principal Protection
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Credit Default Swaps and CDS Pricing
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Private Equity Investment Returns and Value Creation
+- Liquidity Coverage Ratio and Net Stable Funding
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- CDS Spreads and Implied Default Probabilities
+- Credit Spreads and Rating Migration Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Credit Risk Transfer and Synthetic Instruments
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+tags:
+- maturity
+- credit
+- forward
+- discount
+- swaps
+- bonds
+- futures
+- options
+- put
+- fixed-income
+- bond
+- basis
+- roll
+- call
+- irs
+- leveraged-buyout
+- asset-allocation
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- exchange-offers
+- backwardation
+- net-stable-funding
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- cramdown
+- corporate-bonds
+- unexpected-loss
+- clearinghouse
+- debt-restructuring
+- cds-spreads
+- arbitrage-pricing-theory
+- hedge-ratio
+- private-equity
+- market-price-of-risk
+- capital-conservation-buffer
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- dirty-price
+- forward-curves
+- distressed-investing
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- regulatory-capital
+- debt-capacity
+- expected-loss
+- quantitative-finance
+- default-leg
+- market-linked-notes
+- investment-return
+- foreign-recurrency
+- cds-arbitrage
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- reverse-convertibles
+- storage-costs
+- roll-yield
+- tier-2-capital
+- risk-premium
+- put-options
+- cds-coupons
+- countercyclical-buffer
+- affine-term-structure
+- equity-kickers
+- current-yield
+- lbo-valuation
+- momentum
+- basis-risk
+- cds-bond-basis
+- covered-calls
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- investment-analysis
+- portfolio-optimization
+- value-at-risk
+- bootstrap-strategy
+- metals-trading
+- management-buyout
+- blocker-strategy
+- risky-continuation
+- factor-models
+- convenience-yield
+- creditor-committees
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- barrier-options
+- tender-offers
+- seasonality
+- ' DIP-financing'
+- clean-price
+- principal-protected-notes
+- strangles
+- conditional-var
+- equity-linked-notes
+- short-rate-models
+- credit-migration
+- default-probability
+- marking-to-market
+- auto-callables
+- credit-spreads
+- tier-1-capital
+- premium-leg
+- multi-factor-models
+- structured-notes
+- iron-condors
+- financial-markets
+- size-effect
+- knock-out-options
+- liquidity-coverage-ratio
+- basel-iii
+- futures-contracts
+- cds-implied-probability
+- apt
+- credit-default-swaps
+title: Lessons from China’s Past Banking Bailo
 ---
+--
 
 # Lessons from China’s Past Banking Bailouts
 # Abstract

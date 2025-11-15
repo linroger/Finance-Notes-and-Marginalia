@@ -1,41 +1,80 @@
 ---
-cssclasses: ["academia"]
-title: Macroeconomic Models of Business Cycles
+aliases:
+- IS curve
+- business cycle models
+- consumption smoothing
+- Aggregate Demand Models
+- Macroeconomic Stabilization
+cssclasses:
+- academia
+key_concepts:
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Macroeconomic Models of Business Cycles and financial analysis
+- Macroeconomic Models of Business Cycles in modern finance
+- Applications of Macroeconomic Models of Business Cycles
+- 'Case study: Macroeconomic Models of Business Cycles'
+- Correlation modeling and dependency structures
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
 linter-yaml-title-alias: Macroeconomic Models of Business Cycles
 tags:
-  - aggregate_demand
-  - business_cycles
-  - is_curve
-  - macroeconomic_models
-  - real_interest_rate
-  - consumption_theory
-  - life_cycle_hypothesis
-  - permanent_income_hypothesis
-  - fiscal_policy
-  - monetary_policy
-  - stabilization_policy
-aliases:
-  - IS curve
-  - business cycle models
-  - consumption smoothing
-  - Aggregate Demand Models
-  - Macroeconomic Stabilization
-key_concepts:
-  - aggregate demand
-  - consumer durables
-  - consumption smoothing
-  - ex ante real interest
-  - real interest rate
-  - IS curve derivation
-  - life-cycle hypothesis
-  - permanent income hypothesis
-  - marginal propensity to consume
-  - wealth effects
-  - time preference
-  - capital market imperfections
-  - borrowing constraints
-  - policy effectiveness
+- basis
+- margin
+- future
+- regulation
+- dividend
+- risk-management
+- correlation
+- interest-rates
+- put
+- bond
+- futures
+- basel
+- options
+- ito
+- roe
+- fundamental
+- capital
+- discount
+- premium
+- call
+- model
+- market
+- liquidity
+- var
+- interest-rate
+title: Macroeconomic Models of Business Cycles
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000520
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Macroeconomic Models of Business Cycles
 

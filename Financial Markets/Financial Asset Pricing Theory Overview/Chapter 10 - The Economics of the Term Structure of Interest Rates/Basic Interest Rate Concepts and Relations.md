@@ -1,22 +1,69 @@
 ---
 tags:
-  - compounding
-  - forward_rates
-  - interest_rates
-  - yield_curve
-  - zero_coupon_bonds
+- zero_coupon_bonds
+- arbitrage
+- yield_curve
+- maturity
+- coupon
+- discount-rate
+- spot-rate
+- forward
+- future
+- portfolio
+- yield-curve
+- swap
+- dividend
+- forward_rates
+- interest_rates
+- libor
+- discount
+- compounding
+- term-structure
+- apt
+- put
+- call
+- bond
+- market
+- forward-rate
 aliases:
-  - Bond Pricing
-  - Discount Function
-  - Interest Rate Basics
-  - Spot Rates
+- Bond Pricing
+- Discount Function
+- Interest Rate Basics
+- Spot Rates
 key_concepts:
-  - Coupon bond valuation
-  - Discount function
-  - Interest rate compounding
-  - Spot and forward rates
-  - Zero-coupon bond pricing
+- Interest rate swaps and term structure modeling
+- Swap market mechanisms and pricing
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Arbitrage pricing theory and no-arbitrage principle
+- Discount Rate in financial markets
+- Forward Rate in financial markets
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Spot Rate in financial markets
+- Term Structure in financial markets
+- Yield Curve in financial markets
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000464
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 10.2 Basic interest rate concepts and relations  
 

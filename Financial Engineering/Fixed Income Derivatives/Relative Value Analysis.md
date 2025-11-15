@@ -1,22 +1,229 @@
 ---
-tags:
-  - asset_swap
-  - bond_spreads
-  - credit_risk
-  - relative_value
-  - swap_spread
-  - treasury_spread
+academic_level: graduate
 aliases:
-  - Cash-CDS spread
-  - I-spread
-  - Z-spread
+- Cash-CDS spread
+- I-spread
+- Z-spread
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000355
 key_concepts:
-  - Asset swap spread
-  - Credit risk assessment
-  - Relative value of bonds
-  - Swap spread calculation
-  - Yield spread measurement
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- LIBOR market model and multi-curve framework
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Auto-Callable Notes and Barrier Options
+- Free Cash Flow and Enterprise Value
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Equity-Linked Notes and Market-Linked Securities
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Structured Products and Principal Protection
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Credit Default Swaps and CDS Pricing
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Interest Rate Swaps and Currency Swap Structures
+- Term Structure of Interest Rates and Yield Curves
+- Option Valuation and Exercise Strategies
+- CDS Spreads and Implied Default Probabilities
+- Credit Spreads and Rating Migration Analysis
+- Market Microstructure and Liquidity Analysis
+- Credit Risk Transfer and Synthetic Instruments
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Terminal Value and WACC Calculations
+- Discounted Cash Flow Valuation Models
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-free-models
+- arbitrage-opportunity
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cds
+- cds-flatness-steepness
+- continuous-time-pricing
+- convexity-adjustment
+- cost-of-capital
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- terminal-value
+- free-cash-flow
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- backwardation
+- volatility-analysis
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- yield-curve
+- unexpected-loss
+- clearinghouse
+- enterprise-value
+- cds-spreads
+- interpolation
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- dirty-price
+- monte-carlo-var
+- capital-budgeting
+- options-trading
+- coupon-bonds
+- market-impact
+- forward-contracts
+- yield-to-maturity
+- forward-rates
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- expected-loss
+- wacc
+- market-efficiency
+- forward-curve
+- order-flow
+- currency-swaps
+- default-leg
+- market-linked-notes
+- bid-ask-spread
+- foreign-recurrency
+- cds-arbitrage
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- discounted-cash-flow
+- dcf-valuation
+- liquidity
+- reverse-convertibles
+- curve-fitting
+- credit-default-swaps
+- roll-yield
+- cost-of-debt
+- risk-premium
+- spot-rates
+- put-options
+- cds-coupons
+- affine-term-structure
+- algorithmic-trading
+- momentum
+- basis-risk
+- term-structure
+- cds-bond-basis
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- risky-continuation
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- barrier-options
+- sum-of-parts
+- clean-price
+- yield-curve-shocks
+- high-frequency-trading
+- principal-protected-notes
+- strangles
+- conditional-var
+- equity-linked-notes
+- fixed-income
+- short-rate-models
+- cost-of-equity
+- swap-spread
+- credit-migration
+- default-probability
+- marking-to-market
+- auto-callables
+- total-return-swaps
+- libor
+- credit-spreads
+- premium-leg
+- multi-factor-models
+- trading-multiples
+- structured-notes
+- iron-condors
+- financial-markets
+- equity-value
+- size-effect
+- basis-swaps
+- precedent-transactions
+- knock-out-options
+- interest-rate-swaps
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- cds-implied-probability
+- apt
+- bootstrap-method
+- current-yield
+type: note
 ---
+--
+
+
 
 # Relative value analysis
  

@@ -1,21 +1,55 @@
 ---
 tags:
-  - bond_portfolio
-  - duration
-  - interest_rate_risk
-  - key_rates
-  - term_structure
+- duration
+- hedge
+- repo
+- portfolio
+- key_rates
+- term-structure
+- apt
+- interest_rate_risk
+- bond_portfolio
+- term_structure
+- bond
+- treasury
+- var
+- mortgage
+- yield
+- interest-rate
 aliases:
-  - Bloomberg Index
-  - JPM Fund
-  - Key Rate Overview
+- Bloomberg Index
+- JPM Fund
+- Key Rate Overview
 key_concepts:
-  - Bond portfolio risks
-  - Interest rate risk
-  - Key rate durations
-  - Term structure changes
-  - Total duration
+- Bond duration and interest rate risk
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Duration and interest rate risk measurement
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Term Structure in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000215
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 5.2 KEY RATES: OVERVIEW  
 

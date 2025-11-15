@@ -1,3 +1,83 @@
+---
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Chapter 19. International Monetary Systems_ A Historical Overview and financial
+  analysis
+- Chapter 19. International Monetary Systems_ A Historical Overview in modern finance
+- Applications of Chapter 19. International Monetary Systems_ A Historical Overview
+- 'Case study: Chapter 19. International Monetary Systems_ A Historical Overview'
+- Discounted Cash Flow valuation methodology
+- Credit default probability and recovery modeling
+- Delta hedging strategies in options markets
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Time Series in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+tags:
+- delta
+- efficiency
+- eur
+- volatility
+- barrier
+- monetary-policy
+- energy
+- commodity
+- swaps
+- forward
+- momentum
+- future
+- implied
+- time-series
+- dividend
+- irs
+- interest-rates
+- distribution
+- option
+- dcf
+- oil
+- put
+- trading
+- american
+- spread
+- default
+- cds
+- options
+- call
+- recovery
+- cdo
+- liquidity
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000532
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # CHAPTER 19  
 
 # International Monetary Systems: A Historical Overview  

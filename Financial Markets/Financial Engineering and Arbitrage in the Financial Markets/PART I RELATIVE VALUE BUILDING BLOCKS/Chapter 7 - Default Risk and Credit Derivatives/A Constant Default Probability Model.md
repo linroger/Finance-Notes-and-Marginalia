@@ -1,20 +1,68 @@
 ---
 tags:
-  - bond_valuation
-  - coupon_bond
-  - default_probability
-  - no_arbitrage
-  - treasury_notes
+- default
+- no_arbitrage
+- risk-free
+- treasury_notes
+- bond_valuation
+- default_probability
+- arbitrage
+- probability
+- maturity
+- coupon
+- coupon_bond
+- forward
+- implied
+- future
+- yield-curve
+- discount
+- term-structure
+- apt
+- credit
+- binomial
+- put
+- bond
+- spread
+- forward-rate
+- valuation
 aliases:
-  - ABC Corp Bond
-  - Constant Default Model
+- ABC Corp Bond
+- Constant Default Model
 key_concepts:
-  - Bond valuation
-  - Constant default probability
-  - Coupon payment
-  - Cumulative survival probability
-  - Default-free yield curve
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Banking and credit intermediation
+- Bank balance sheet management
+- Arbitrage pricing theory and no-arbitrage principle
+- Binomial option pricing model and tree methods
+- Credit default probability and recovery modeling
+- Forward Rate in financial markets
+- Interest Rate in financial markets
+- Risk Free in financial markets
+- Term Structure in financial markets
+- Yield Curve in financial markets
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000299
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 7.2 A CONSTANT DEFAULT PROBABILITY MODEL  
 

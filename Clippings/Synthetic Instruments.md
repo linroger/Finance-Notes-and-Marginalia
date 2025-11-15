@@ -1,3 +1,77 @@
+---
+tags:
+- collateralized-debt-obligation
+- duration
+- synthetic
+- binomial-model
+- continuous-time-pricing
+- swap
+- counterparty-risk
+- caplet
+- dividend
+- capital-adequacy
+- straddle
+- option
+- put
+- trading
+- bond
+- tranche
+- crisis
+- structured
+- banking-regulation
+- basel-accord
+- default
+- cds
+- payoff
+- asset-allocation
+- credit-modeling
+- capital
+- equity
+- credit
+- convexity-adjustment
+- call
+- credit-default-swap
+- market
+- black-scholes-model
+- cdo
+- credit-derivatives
+key_concepts:
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Collateralized debt obligations (CDO) and tranche structure
+- Basel accords and banking regulation framework
+- Alpha generation and active portfolio management
+- Alpha generation and active return measurement
+- Risk preference theory and utility functions
+- Credit default probability and recovery modeling
+- Duration and interest rate risk measurement
+- Interest Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000103
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
+
+
  
 source: https://www.investopedia.com/terms/s/synthetic.asp
 description: Synthetic is the term given to financial instruments that are engineered

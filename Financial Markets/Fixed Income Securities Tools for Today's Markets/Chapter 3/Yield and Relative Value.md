@@ -1,20 +1,57 @@
 ---
 tags:
-  - coupon_effect
-  - spot_rates
-  - term_structure
-  - treasury_bonds
-  - yield_to_maturity
+- yield_to_maturity
+- maturity
+- treasury_bonds
+- repo
+- coupon
+- spot-rate
+- coupon_effect
+- spot_rates
+- discount
+- pricing
+- term-structure
+- apt
+- put
+- market
+- term_structure
+- bond
+- treasury
+- measure
+- yield
+- interest-rate
 aliases:
-  - Coupon Impact
-  - Relative Bond Valuation
+- Coupon Impact
+- Relative Bond Valuation
 key_concepts:
-  - Coupon effect explained
-  - Spot rates vs. yields
-  - US Treasury bond market
-  - Upward sloping term structure
-  - Yield not relative value
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Numerical methods in finance
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Interest Rate in financial markets
+- Spot Rate in financial markets
+- Term Structure in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000198
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 3.4 YIELD AND RELATIVE VALUE  
 

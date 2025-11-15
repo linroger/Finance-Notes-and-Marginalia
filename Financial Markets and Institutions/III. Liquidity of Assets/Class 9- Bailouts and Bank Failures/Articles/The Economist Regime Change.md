@@ -2,23 +2,81 @@
 banner: Attachments/4a643986b2694830401910f31df7403911f5d2ef.avif.png
 title: The Economist Regime Change
 tags:
-  - central_banks
-  - economic_stability
-  - fiscal_policy
-  - global_inflation
-  - monetary_policy
+- eur
+- tracking-error
+- margin
+- energy
+- future
+- monetary_policy
+- risk-management
+- put
+- regulatory-capital
+- caps-floors
+- bond
+- crisis
+- financial-markets
+- stochastic-calculus
+- derivatives
+- pandemic
+- ito
+- economic_stability
+- event-study
+- repo
+- capital
+- gas
+- financial-crisis
+- central_banks
+- private-equity
+- european
+- apt
+- credit
+- call
+- investment-strategy
+- ito-lemma
+- rating
+- market
+- fiscal_policy
+- banking
+- global_inflation
+- pension-fund
+- interest-rate
 aliases:
-  - Fiscal Policy
-  - Monetary Policy
-  - Regime Change
-  - The Economist
+- Fiscal Policy
+- Monetary Policy
+- Regime Change
+- The Economist
 key_concepts:
-  - Central banks raising rates
-  - Economic policy reboot
-  - Federal Reserve shifts
-  - Fiscal policy reversal
-  - Global inflation surge
+- Economic policy reboot
+- Fiscal policy reversal
+- Federal Reserve shifts
+- Central banks raising rates
+- Global inflation surge
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
+- Interest Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000017
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
  !500
 

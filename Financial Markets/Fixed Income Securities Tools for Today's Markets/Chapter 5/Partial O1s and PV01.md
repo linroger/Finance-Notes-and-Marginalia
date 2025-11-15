@@ -1,20 +1,66 @@
 ---
 tags:
-  - curve_building
-  - hedging
-  - interest_rate_swaps
-  - pv01
-  - swap_markets
+- leverage
+- curve_building
+- hedge
+- coupon
+- discount-rate
+- forward
+- portfolio
+- swap
+- discount
+- hedging
+- term-structure
+- apt
+- put
+- trading
+- bond
+- swap_markets
+- call
+- market
+- currency
+- cdo
+- spread
+- pv01
+- forward-rate
+- interest_rate_swaps
 aliases:
-  - DV01
-  - Partial PV01
+- DV01
+- Partial PV01
 key_concepts:
-  - Curve refitting caveats
-  - Hedging with swaps
-  - Partial PV01 definition
-  - Present value calculation
-  - Swap rate curve
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Discount Rate in financial markets
+- Forward Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Term Structure in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000213
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 5.5 PARTIAL 'O1S AND PV01  
 

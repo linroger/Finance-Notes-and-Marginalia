@@ -1,22 +1,166 @@
 ---
-cssclasses: academia
-title: Appendix 21. C Solutions for Black-Scholes PDE
-tags:
-  - backward_equation
-  - black_scholes
-  - geometric_brownian_motion
-  - option_pricing
-  - pde
+academic_level: graduate
 aliases:
-  - BS equation solutions
-  - Black-Scholes PDE solutions
+- BS equation solutions
+- Black-Scholes PDE solutions
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000417
 key_concepts:
-  - Asset-or-nothing option
-  - Backward equation
-  - Black-Scholes equation
-  - Boundary conditions
-  - General solution
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Risk-neutral measures and martingale pricing
+- Martingale theory and change of measure
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Beta estimation and systematic risk measurement
+- Beta estimation and systematic risk measurement
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Auto-Callable Notes and Barrier Options
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Equity-Linked Notes and Market-Linked Securities
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Cost of Equity and Expected Returns
+- Black-Scholes Option Pricing Model and Its Applications
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Structured Products and Principal Protection
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- barrier-derivatives
+- beta-estimation
+- binomial-model
+- black-scholes-model
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity
+- convexity-adjustment
+- credit-rating
+- delta-hedging
+- derivatives
+- discrete-time-pricing
+- duration-analysis
+- dynamic-hedging
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- partial-differential-equation
+- risk-neutral-valuation
+- backwardation
+- volatility-analysis
+- style-analysis
+- option-strategies
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- volatility-surface
+- loss-given-default
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- monte-carlo-var
+- options-trading
+- forward-contracts
+- fama-french
+- bsm-model
+- recovery-rate
+- black-scholes-formula
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- expected-loss
+- market-linked-notes
+- systematic-risk
+- protective-puts
+- alpha
+- security-market-line
+- probabilty-of-default
+- reverse-convertibles
+- idiosyncratic-risk
+- roll-yield
+- risk-premium
+- beta
+- put-options
+- affine-term-structure
+- capm
+- momentum
+- basis-risk
+- market-risk-premium
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- ornstein-uhlenbeck
+- rating-migration
+- investment-analysis
+- value-at-risk
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- barrier-options
+- european-options
+- principal-protected-notes
+- strangles
+- equity-linked-notes
+- short-rate-models
+- efficient-frontier
+- credit-migration
+- default-probability
+- marking-to-market
+- auto-callables
+- credit-spreads
+- multi-factor-models
+- ito-calculus
+- structured-notes
+- iron-condors
+- option-pricing
+- financial-markets
+- size-effect
+- knock-out-options
+- lognormal-distribution
+- futures-contracts
+- apt
+title: Appendix 21. C Solutions for Black-Scholes PDE
+type: note
 ---
+--
+
+
 
 # Appendix 21. C Solutions for Black-Scholes PDE
 

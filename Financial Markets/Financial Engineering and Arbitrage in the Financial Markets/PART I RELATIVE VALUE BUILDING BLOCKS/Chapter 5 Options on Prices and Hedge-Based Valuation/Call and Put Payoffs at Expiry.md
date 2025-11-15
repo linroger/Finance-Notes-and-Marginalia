@@ -1,20 +1,55 @@
 ---
 tags:
-  - american_option
-  - call_option
-  - european_option
-  - option_payoff
-  - put_option
+- option_payoff
+- eur
+- payoff
+- digital
+- future
+- european
+- call_option
+- put_option
+- option
+- european_option
+- call
+- intrinsic
+- put
+- american
+- market
+- trading
+- var
+- interest-rate
+- american_option
 aliases:
-  - Call and Put Payoffs
-  - Option Payoffs at Expiry
+- Call and Put Payoffs
+- Option Payoffs at Expiry
 key_concepts:
-  - American options
-  - Call option payoff
-  - European options
-  - Put option payoff
-  - Strike price
+- American option pricing and early exercise
+- Option valuation and hedging strategies
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Interest Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000277
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 5.1 CALL AND PUT PAYOFFS AT EXPIRY  
 

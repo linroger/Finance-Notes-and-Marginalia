@@ -1,21 +1,53 @@
 ---
 tags:
-  - error_terms
-  - least_squares
-  - regression_analysis
-  - time_series
-  - yield_curve
+- delta
+- regression
+- apt
+- hedge
+- rho
+- model
+- yield_curve
+- call
+- bond
+- least_squares
+- var
+- yield
+- regression_analysis
+- time_series
+- error_terms
 aliases:
-  - Change-on-Change
-  - Level-on-Level
-  - Regression Models
+- Change-on-Change
+- Level-on-Level
+- Regression Models
 key_concepts:
-  - Error term independence
-  - Least-squares estimation
-  - Level vs. Change Regressions
-  - Serial correlation
-  - Yield dynamics
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Delta hedging strategies in options markets
+- Risk hedging strategies and instruments
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000163
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 6.3 LEVEL VERSUS CHANGE REGRESSIONS  
 

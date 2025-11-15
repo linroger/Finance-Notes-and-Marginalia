@@ -1,3 +1,96 @@
+---
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- parsing_log and financial analysis
+- parsing_log in modern finance
+- Applications of parsing_log
+- 'Case study: parsing_log'
+- Arbitrage pricing theory and no-arbitrage principle
+- Asset Allocation in financial markets
+- Binomial option pricing model and tree methods
+- Black-Scholes option pricing model and its applications
+- Capital Asset Pricing Model and risk-return tradeoff
+- Carry Trade in financial markets
+- Convexity adjustments for bond portfolio management
+- Correlation modeling and dependency structures
+- Covered Interest in financial markets
+- Credit Risk in financial markets
+- Cross Currency in financial markets
+- Discounted Cash Flow valuation methodology
+- Credit default probability and recovery modeling
+- Delta hedging strategies in options markets
+- Duration and interest rate risk measurement
+- Exchange Rate in financial markets
+- Forward Rate in financial markets
+- Futures Contract in financial markets
+- Gamma risk and convexity adjustments in options
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- Mean Variance in financial markets
+- Pass Through in financial markets
+- Asset securitization and structured finance
+- Tail Risk in financial markets
+- Term Structure in financial markets
+- Time Value in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+tags:
+- delta
+- efficiency
+- leverage
+- martingale
+- multiple
+- basis
+- dv01
+- forward
+- swaps
+- time-value
+- gamma
+- risk-management
+- irs
+- hedging
+- put
+- trading
+- bond
+- tail-risk
+- futures
+- valuation
+- cds
+- options
+- arbitrage
+- maturity
+- repo
+- coupon
+- equity
+- exchange-rate
+- discount
+- variance
+- risk-metrics
+- var
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000115
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # Parsing Progress Log
 
 ## Overview

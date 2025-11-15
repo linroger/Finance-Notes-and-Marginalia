@@ -3,41 +3,65 @@ cssclasses: academia
 title: I - Introduction to Financial Markets and Intermediation
 linter-yaml-title-alias: I - Introduction to Financial Markets and Intermediation
 tags:
-  - banking_industry
-  - financial_instruments
-  - financial_markets
-  - market_intermediation
-  - market_participants
-  - debt_contracts
-  - agency_problems
-  - financial_intermediaries
-  - credit_markets
-  - delegated_monitoring
+- basel-accord
+- efficiency
+- interest-rate-cap
+- financial-modeling
+- ito-integration
+- market-liquidity
+- ito
+- quantitative-finance
+- asset-allocation
+- portfolio-management
+- interest-rate-ceiling
+- ito-calculus
+- bid-ask-spread
+- implied
+- caplet
+- risk-management
+- capital-adequacy
+- pricing
+- hedging
+- market
+- financial-engineering
+- financial-markets
+- liquidity-risk
+- banking-regulation
 aliases:
-  - Finance 101
-  - Financial Markets
-  - Market Overview
-  - Introduction to Financial Markets
-  - Financial Markets and Intermediation
+- Finance 101
+- Financial Markets
+- Market Overview
+- Introduction to Financial Markets
+- Financial Markets and Intermediation
 key_concepts:
-  - Commercial banking
-  - Credit markets
-  - Derivatives markets
-  - Equity markets
-  - Financial instruments
-  - Financial markets structure
-  - Financial regulations
-  - Global markets
-  - Interest rates
-  - Investment banking
-  - Market efficiency
-  - Market intermediation
-  - Market participants
-  - Risk management
-  - Delegated monitoring
-  - Information asymmetry
-  - Debt contract design
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000077
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
+
 
 # I - Introduction to Financial Markets and Intermediation
 

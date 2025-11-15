@@ -1,21 +1,73 @@
 ---
 tags:
-  - euribor_swap
-  - fixed_floating_swaps
-  - floating_leg
-  - irs_cash_flows
-  - reset_dates
-  - sofr_swap
+- default
+- euribor_swap
+- risk-free
+- eur
+- hedge
+- maturity
+- reset_dates
+- margin
+- sofr_swap
+- future
+- swap
+- fixed_floating_swaps
+- floating_leg
+- pricing
+- counterparty
+- hedging
+- put
+- trading
+- bond
+- overnight
+- spread
+- irs_cash_flows
+- credit-risk
+- measure
+- sofr
+- valuation
 aliases:
-  - IRS Analytics
-  - OIS vs. Fixed-for-Floating Swaps
+- IRS Analytics
+- OIS vs. Fixed-for-Floating Swaps
 key_concepts:
-  - Euribor swap valuation
-  - Floating leg valuation
-  - Floating vs. fixed swaps
-  - Reset date valuation
-  - SOFR swap cash flows
+- Interest rate swaps and term structure modeling
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Numerical methods in finance
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Risk Free in financial markets
+- SOFR implementation and overnight rate markets
+- Term Structure in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000242
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 13.2 IRS CASH FLOWS AND ANALYTICS  
 

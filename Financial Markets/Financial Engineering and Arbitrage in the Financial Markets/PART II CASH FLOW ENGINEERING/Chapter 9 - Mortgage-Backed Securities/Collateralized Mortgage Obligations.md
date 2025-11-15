@@ -1,20 +1,74 @@
 ---
 tags:
-  - cmo
-  - mortgage_backed_securities
-  - prepayment_risk
-  - structured_finance
-  - tranches
+- structured_finance
+- duration
+- synthetic
+- tranches
+- multiple
+- convexity
+- hedge
+- mortgage_backed_securities
+- probability
+- senior
+- margin
+- prepayment
+- discount-rate
+- future
+- swap
+- pass-through
+- pricing
+- correlation
+- distribution
+- hedging
+- cmo
+- put
+- trading
+- bond
+- prepayment_risk
 aliases:
-  - CMOs
-  - Collateralized Mortgage Obligations
+- CMOs
+- Collateralized Mortgage Obligations
 key_concepts:
-  - CMO tranche design
-  - IO/PO class structure
-  - PAC CMO structure
-  - Prepayment risk exposure
-  - Sequential class CMO
+- Interest rate swaps and term structure modeling
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Bond duration and interest rate risk
+- Bond convexity and price-yield relationships
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Financial derivatives pricing and valuation
+- Convexity adjustments for bond portfolio management
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Discount Rate in financial markets
+- Duration and interest rate risk measurement
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Pass Through in financial markets
+- Mortgage prepayment modeling and MBS analysis
+- Asset securitization and structured finance
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000344
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 9.4 COLLATERALIZED MORTGAGE OBLIGATIONS  
 

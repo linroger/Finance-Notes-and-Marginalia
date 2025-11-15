@@ -1,27 +1,45 @@
 ---
-title: Discussion of Loan Covenants
-  vs. Bond Covenants
+title: Discussion of Loan Covenants vs. Bond Covenants
 tags:
-  - bond_covenants
-  - bondholder_rights
-  - corporate_bonds
-  - federal_trust_indenture_act
-  - loan_covenants
+- arbitrage-opportunity
+- arbitrage-pricing
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-asset-pricing
+- capital-budgeting
+- caplet
+- cds
+- continuous-time-pricing
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
 aliases:
-  - Bond Indentures
-  - Covenants vs. Bond Covenants
-  - Loan Covenants
-  - MGM Mirage Bond
+- Bond Indentures
+- Covenants vs. Bond Covenants
+- Loan Covenants
+- MGM Mirage Bond
 key_concepts:
-  - Bond contract features
-  - Bondholder voting rules
-  - Covenants in indentures
-  - Excessive debt risk choice
-  - Limits to debt renegotiation
-  - Loan contract default
-  - Make-whole call option
-  - US Federal Trust Indenture Act
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Risk preference theory and utility functions
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
 
 # Discussion of Loan Covenants vs. Bond Covenants
 

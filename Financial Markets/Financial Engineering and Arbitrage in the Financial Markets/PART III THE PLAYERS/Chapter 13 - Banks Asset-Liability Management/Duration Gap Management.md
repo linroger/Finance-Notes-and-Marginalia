@@ -1,20 +1,72 @@
 ---
 tags:
-  - asset_liability_management
-  - balance_sheet
-  - duration_gap
-  - interest_rate_risk
-  - zions_bank
+- delta
+- leverage
+- duration
+- eur
+- multiple
+- hedge
+- zions_bank
+- maturity
+- repo
+- asset_liability_management
+- future
+- swap
+- duration_gap
+- balance_sheet
+- yield-curve
+- libor
+- pricing
+- equity
+- hedging
+- interest_rate_risk
+- put
+- trading
+- bond
+- portfolio
+- fed-funds
 aliases:
-  - Duration Gap
-  - Interest Rate Exposure
+- Duration Gap
+- Interest Rate Exposure
 key_concepts:
-  - Asset and liability categories
-  - Duration Gap Management
-  - Interest rate exposure
-  - Neutral net worth position
-  - Weighted average duration
+- Interest rate swaps and term structure modeling
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Bond duration and interest rate risk
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Delta hedging strategies in options markets
+- Duration and interest rate risk measurement
+- Fed Funds in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000346
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 13.3 DURATION GAP MANAGEMENT  
 

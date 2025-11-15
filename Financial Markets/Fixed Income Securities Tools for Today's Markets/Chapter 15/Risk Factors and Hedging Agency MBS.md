@@ -1,21 +1,71 @@
 ---
 tags:
-  - agency_mbs
-  - hedging
-  - interest_rate_risk
-  - mortgage_spread_risk
-  - prepayment_risk
+- default
+- duration
+- volatility
+- convexity
+- hedge
+- prepayment
+- coupon
+- future
+- implied
+- swap
+- discount
+- pricing
+- straddle
+- option
+- hedging
+- premium
+- interest_rate_risk
+- trading
+- agency_mbs
+- spread
+- credit-risk
+- prepayment_risk
+- mortgage
+- mortgage_spread_risk
 aliases:
-  - Agency MBS Risk
-  - MBS Hedging
+- Agency MBS Risk
+- MBS Hedging
 key_concepts:
-  - Interest rate risk
-  - MBS risk factors
-  - Mortgage spread risk
-  - Originator pipeline risk
-  - Prepayment risk
-  - TBA hedging strategy
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Financial derivatives pricing and valuation
+- Convexity adjustments for bond portfolio management
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Duration and interest rate risk measurement
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Mortgage prepayment modeling and MBS analysis
+- Asset securitization and structured finance
+- Swaption pricing and interest rate option strategies
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000261
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 15.9 RISK FACTORS AND HEDGING AGENCY MBS  
 

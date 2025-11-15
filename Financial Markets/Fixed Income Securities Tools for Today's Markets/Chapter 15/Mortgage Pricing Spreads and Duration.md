@@ -1,32 +1,73 @@
 ---
 tags:
-  - duration
-  - fixed_rate_security
-  - interest_rate_risk
-  - mbs
-  - model_error
-  - mortgage_pricing
-  - oas
-  - prepayment_model
-  - relative_value_trades
-  - risk_neutral_model
+- duration
+- pandemic
+- convexity
+- hedge
+- model_error
+- prepayment_model
+- prepayment
+- coupon
+- oas
+- discount-rate
+- forward
+- capital
+- mortgage
+- discount
+- pricing
+- option
+- term-structure
+- mbs
+- interest_rate_risk
+- oil
+- apt
+- put
+- trading
+- bond
+- relative_value_trades
+- spread
+- fixed_rate_security
+- risk_neutral_model
+- mortgage_pricing
 aliases:
-  - MBS pricing
-  - Mortgage duration
-  - OAS
-  - Option-adjusted spread
+- MBS pricing
+- Mortgage duration
+- OAS
+- Option-adjusted spread
 key_concepts:
-  - Fixed cash flow duration
-  - MBS cash flows
-  - Mean reverting OAS
-  - Model error misspecification
-  - Model price vs market price
-  - Mortgage risk sensitivities
-  - Negative convexity
-  - Option-adjusted spread (OAS)
-  - Prepayment impact on price
-  - Relative value trades
+- Fixed cash flow duration
+- MBS cash flows
+- Mean reverting OAS
+- Model error misspecification
+- Model price vs market price
+- Mortgage risk sensitivities
+- Negative convexity
+- Option-adjusted spread (OAS)
+- Prepayment impact on price
+- Relative value trades
+- Convexity adjustments for bond portfolio management
+- Discount Rate in financial markets
+- Duration and interest rate risk measurement
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Mortgage prepayment modeling and MBS analysis
+- Term Structure in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000256
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 15.7 MORTGAGE PRICING, SPREADS, AND DURATION  
 

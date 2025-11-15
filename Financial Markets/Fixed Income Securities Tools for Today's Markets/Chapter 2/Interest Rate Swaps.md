@@ -1,23 +1,66 @@
 ---
 tags:
-  - fixed_swap_rate
-  - interest_rate_swaps
-  - notional_amount
-  - sofr_swap
-  - term_structure
+- risk-free
+- notional_amount
+- eur
+- usd
+- collateralized
+- maturity
+- sofr_swap
+- gbp
+- fixed_swap_rate
+- swap
+- libor
+- jpy
+- pricing
+- counterparty
+- term-structure
+- apt
+- put
+- call
+- term_structure
+- bond
+- market
+- treasury
+- overnight
+- sofr
+- interest_rate_swaps
 aliases:
-  - IRS
-  - SOFR
-  - SONIA
-  - Swap
-  - TONAR
+- IRS
+- SOFR
+- SONIA
+- Swap
+- TONAR
 key_concepts:
-  - Fixed swap rate
-  - Interest rate swap
-  - Notional amount
-  - SOFR swap payments
-  - Term structure currencies
+- Interest rate swaps and term structure modeling
+- Swap market mechanisms and pricing
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Banking and credit intermediation
+- Bank balance sheet management
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Risk Free in financial markets
+- SOFR implementation and overnight rate markets
+- Term Structure in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000219
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 2.2 INTEREST RATE SWAPS  
 

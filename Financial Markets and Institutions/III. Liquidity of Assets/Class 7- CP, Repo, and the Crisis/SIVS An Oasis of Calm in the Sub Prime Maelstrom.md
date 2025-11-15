@@ -1,24 +1,54 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: SIVS An Oasis of Calm in the Sub Prime Maelstrom
 tags:
-  - cdos
-  - rmbs
-  - sivs
-  - structured_finance
-  - subprime_mortgages
+- sivs
+- rmbs
+- structured_finance
+- subprime_mortgages
+- cdos
+- event-study
+- caps-floors
+- private-equity
+- financial-markets
+- regulatory-capital
+- banking
+- stochastic-calculus
+- mbs
+- investment-strategy
+- financial-crisis
+- ito-lemma
+- repo
+- credit-spread
+- valuation
+- corporate-finance
 aliases:
-  - SIV-lite
-  - SIVs
-  - Structured Investment Vehicles
+- SIV-lite
+- SIVs
+- Structured Investment Vehicles
 key_concepts:
-  - Aaa-rated assets
-  - CDOs of ABS
-  - RMBS exposure
-  - high-grade structured credit
-  - mark-to-market procedures
-  - maturity transformation
+- high-grade structured credit
+- Aaa-rated assets
+- CDOs of ABS
+- maturity transformation
+- mark-to-market procedures
+- RMBS exposure
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
 ---
 
 # SIVS An Oasis of Calm in the Sub Prime Maelstrom

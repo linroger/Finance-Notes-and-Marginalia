@@ -1,3 +1,73 @@
+---
+tags:
+- capital-markets
+- eur
+- mathematical-finance
+- convexity
+- digital
+- forward
+- quantitative-valuation
+- future
+- swap
+- market-microstructure
+- risk-management
+- pricing
+- option
+- bond
+- financial-engineering
+- statistical-analysis
+- stochastic-calculus
+- factor-model
+- options-pricing
+- exotic
+- arbitrage
+- maturity
+- fixed-income
+- libor
+- european
+- apt
+- finance
+- market
+- quantitative-methods
+- model
+- swaption
+- var
+- derivatives-pricing
+key_concepts:
+- Exotic options and path-dependent derivatives
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Swap market mechanisms and pricing
+- Bond convexity and price-yield relationships
+- Fixed income securities and yield curve analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Model calibration and parameter estimation
+- Arbitrage pricing theory and no-arbitrage principle
+- Convexity adjustments for bond portfolio management
+- Factor Model in financial markets
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Swaption pricing and interest rate option strategies
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000290
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 %% Begin Waypoint %%
 - **Chapter 6 Options on Non-Price Variables**
 	- Arbitrage-Free Interest Rate Models

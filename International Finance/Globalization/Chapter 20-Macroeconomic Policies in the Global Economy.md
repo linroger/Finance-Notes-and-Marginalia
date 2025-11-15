@@ -1,24 +1,276 @@
 ---
-title: Chapter 20-Macroeconomic Policies in the Global Economy
-cssclasses:
-  - academia
-tags:
-  - economic_recession
-  - fiscal_policy
-  - global_economy
-  - macroeconomic_policies
-  - monetary_policy
 aliases:
-  - Chapter 20
-  - Global Macro
-  - Macro Policies
+- Chapter 20
+- Global Macro
+- Macro Policies
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000025
 key_concepts:
-  - Developing countries growth
-  - Long-term growth paths
-  - Monetary and fiscal tools
-  - Subprime mortgage crisis
-  - U.S. dot.com boom
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Chapter 20-Macroeconomic Policies in the Global Economy and financial analysis
+- Chapter 20-Macroeconomic Policies in the Global Economy in modern finance
+- Applications of Chapter 20-Macroeconomic Policies in the Global Economy
+- 'Case study: Chapter 20-Macroeconomic Policies in the Global Economy'
+- Duration and Convexity in Fixed Income Risk Management
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Distressed Investing and Debt Restructuring
+- Cost of Equity and Expected Returns
+- Forward Curves and Roll Strategies
+- Black-Scholes Option Pricing Model and Its Applications
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Time Series Analysis in Financial Markets
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Credit Default Swaps and CDS Pricing
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Term Structure of Interest Rates and Yield Curves
+- Cointegration and Statistical Arbitrage
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- CDS Spreads and Implied Default Probabilities
+- Credit Spreads and Rating Migration Analysis
+- Market Microstructure and Liquidity Analysis
+- GARCH Models and Volatility Forecasting
+- Credit Risk Transfer and Synthetic Instruments
+- Interest Rate Risk and DV01 Calculations
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+tags:
+- options
+- bonds
+- put
+- monetary-policy
+- yield
+- var
+- bond
+- fixed-income
+- gamma
+- vega
+- call
+- delta
+- interest-rates
+- interest-rate
+- risk-management
+- leveraged-buyout
+- asset-allocation
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- partial-differential-equation
+- exchange-offers
+- risk-neutral-valuation
+- backwardation
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- bond-pricing
+- option-strategies
+- cramdown
+- corporate-bonds
+- yield-curve
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- debt-restructuring
+- cds-spreads
+- interpolation
+- interest-rate-risk
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- volatility-surface
+- price-discovery
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dirty-price
+- forward-curves
+- distressed-investing
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- forward-rates
+- fama-french
+- price-to-earnings
+- stationarity
+- bsm-model
+- recovery-rate
+- zero-coupon-bonds
+- black-scholes-formula
+- garch
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- unit-roots
+- modified-duration
+- expected-loss
+- market-efficiency
+- quantitative-finance
+- forward-curve
+- order-flow
+- default-leg
+- bid-ask-spread
+- foreign-recurrency
+- cds-arbitrage
+- protective-puts
+- government-bonds
+- systematic-risk
+- alpha
+- security-market-line
+- probabilty-of-default
+- liquidity
+- curve-steepening
+- curve-fitting
+- idiosyncratic-risk
+- storage-costs
+- roll-yield
+- beta
+- risk-premium
+- spot-rates
+- put-options
+- cds-coupons
+- affine-term-structure
+- current-yield
+- capm
+- algorithmic-trading
+- momentum
+- curve-flattening
+- basis-risk
+- market-risk-premium
+- convexity
+- volatility-modeling
+- term-structure
+- cds-bond-basis
+- covered-calls
+- ' exposure-at-default'
+- regime-switching
+- chapter-11-bankruptcy
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- duration-analysis
+- value-at-risk
+- metals-trading
+- kalman-filter
+- blocker-strategy
+- risky-continuation
+- factor-models
+- convenience-yield
+- creditor-committees
+- agricultural-commodities
+- barbell-strategy
+- convergence
+- var-backtesting
+- arima-models
+- state-space-models
+- tender-offers
+- sum-of-parts
+- european-options
+- clean-price
+- yield-curve-shocks
+- seasonality
+- high-frequency-trading
+- ' DIP-financing'
+- strangles
+- conditional-var
+- cointegration
+- dv01
+- short-rate-models
+- efficient-frontier
+- price-yield-relationship
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- premium-leg
+- multi-factor-models
+- ito-calculus
+- trading-multiples
+- granger-causality
+- iron-condors
+- option-pricing
+- financial-markets
+- black-scholes-model
+- macaulay-duration
+- size-effect
+- precedent-transactions
+- lognormal-distribution
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- cds-implied-probability
+- apt
+- bootstrap-method
+- credit-default-swaps
+title: Chapter 20-Macroeconomic Policies in the Global Econ
 ---
+--
 
 # Chapter 20-Macroeconomic Policies in the Global Economy
 

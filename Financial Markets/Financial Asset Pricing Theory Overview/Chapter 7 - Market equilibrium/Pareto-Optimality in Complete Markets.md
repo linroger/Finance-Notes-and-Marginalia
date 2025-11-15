@@ -1,20 +1,53 @@
 ---
 tags:
-  - complete_markets
-  - consumption_allocation
-  - first_welfare_theorem
-  - pareto_optimality
-  - risk_sharing
+- delta
+- complete_markets
+- risk_sharing
+- multiple
+- margin
+- first_welfare_theorem
+- pareto_optimality
+- pricing
+- apt
+- consumption_allocation
+- call
+- market
+- cdo
+- var
+- roa
+- interest-rate
+- derivative
 aliases:
-  - First Welfare Theorem
-  - Pareto optimality
+- First Welfare Theorem
+- Pareto optimality
 key_concepts:
-  - complete market equilibrium
-  - consumption allocation
-  - efficient risk sharing
-  - marginal rate of substitution
-  - state price deflator
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial derivatives pricing and valuation
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Delta hedging strategies in options markets
+- Interest Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000475
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 7.3 Pareto-optimality in complete markets  
 

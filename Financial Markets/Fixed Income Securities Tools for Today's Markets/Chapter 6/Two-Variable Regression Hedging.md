@@ -1,20 +1,58 @@
 ---
 tags:
-  - bond_yields
-  - butterfly_strategy
-  - regression_hedging
-  - relative_value_trade
-  - term_structure
+- delta
+- regression
+- hedge
+- regression_hedging
+- butterfly_strategy
+- portfolio
+- term-structure
+- hedging
+- apt
+- call
+- model
+- term_structure
+- bond
+- butterfly
+- treasury
+- var
+- roa
+- relative_value_trade
+- yield
+- bond_yields
+- interest-rate
 aliases:
-  - Regression hedging
-  - Two-variable hedging
+- Regression hedging
+- Two-variable hedging
 key_concepts:
-  - Butterfly trade
-  - Hedging face amounts
-  - Relative value trader
-  - Term structure correlation
-  - Two-variable regression hedging
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Delta hedging strategies in options markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Term Structure in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000160
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 6.2 TWO-VARIABLE REGRESSION HEDGING  
 

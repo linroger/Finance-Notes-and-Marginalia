@@ -1,29 +1,179 @@
 ---
-cssclasses:
-  - academia
-title: PSET 1-Financial Instruments
-tags:
-  - arbitrage
-  - financial_instruments
-  - forward_rates
-  - linear_compounding
-  - interest_rates
-  - currency_markets
-  - exchange_rates
+academic_level: graduate
 aliases:
-  - PSET 1-FINANCIAL INSTRUMENTS
-  - Problem Set 1
+- PSET 1-FINANCIAL INSTRUMENTS
+- Problem Set 1
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000119
 key_concepts:
-  - Compute Forward Exchange Rate
-  - Forward Exchange Rate
-  - Forward pricing formula
-  - Linear compounding rates
-  - Natural logarithm function
-  - Arbitrage opportunity identification
-  - Covered interest rate parity
-  - Interest rate conversion
-  - No-arbitrage relationship
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- LIBOR market model and multi-curve framework
+- Collateralized debt obligations (CDO) and tranche structure
+- Arbitrage opportunities and no-arbitrage pricing
+- Sensitivity analysis and Greeks calculation
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Interest Rate Swaps and Currency Swap Structures
+- Term Structure of Interest Rates and Yield Curves
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-free-models
+- arbitrage-opportunity
+- asset-allocation
+- cds
+- collateralized-debt-obligation
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- default-probability
+- delta-hedging
+- duration-analysis
+- dynamic-hedging
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- backwardation
+- volatility-analysis
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- yield-curve
+- unexpected-loss
+- clearinghouse
+- interpolation
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- dirty-price
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- forward-rates
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- expected-loss
+- market-efficiency
+- forward-curve
+- order-flow
+- currency-swaps
+- bid-ask-spread
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- liquidity
+- curve-fitting
+- credit-default-swaps
+- roll-yield
+- risk-premium
+- spot-rates
+- put-options
+- affine-term-structure
+- algorithmic-trading
+- momentum
+- basis-risk
+- term-structure
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- investment-analysis
+- value-at-risk
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- clean-price
+- yield-curve-shocks
+- high-frequency-trading
+- strangles
+- conditional-var
+- fixed-income
+- short-rate-models
+- swap-spread
+- credit-migration
+- marking-to-market
+- total-return-swaps
+- libor
+- credit-spreads
+- multi-factor-models
+- iron-condors
+- financial-markets
+- size-effect
+- basis-swaps
+- interest-rate-swaps
+- futures-contracts
+- apt
+- bootstrap-method
+- current-yield
+title: PSET 1-Financial Instruments
+type: case-study
 ---
+--
+
+
+
 # PSET 1-Financial Instruments
 
 Bus 35100

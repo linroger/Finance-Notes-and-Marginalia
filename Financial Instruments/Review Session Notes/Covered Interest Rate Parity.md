@@ -1,31 +1,116 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Covered Interest Rate Parity
-title: Covered Interest Rate Parity
-tags:
-  - covered_interest_rate_parity
-  - currency_security
-  - exchange_rate
-  - forward_rate
-  - model_parameters
-  - no_arbitrage
-  - foreign_exchange
-  - international_finance
+academic_level: graduate
 aliases:
-  - CIRP
-  - Interest Rate Parity
-  - Currency Forward Pricing
+- CIRP
+- Interest Rate Parity
+- Currency Forward Pricing
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000175
 key_concepts:
-  - Currency exchange mechanics
-  - Exchange rate units conventions
-  - Forward rate calculation
-  - No-arbitrage condition
-  - Investment strategy comparison
-  - Home and foreign interest rates
-  - Continuous compounding
-  - Forward contract pricing
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Collateralized debt obligations (CDO) and tranche structure
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Risk preference theory and utility functions
+- Forward Rates and Curve Construction Methods
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Ornstein-Uhlenbeck Process in Finance
+- Futures and Forward Contracts in Financial Markets
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Hedge Strategies and Basis Risk Management
+- Market Microstructure and Liquidity Analysis
+- Short Rate Models and Term Structure Dynamics
+- Price Discovery and Market Efficiency
+- Stress Testing and Extreme Value Analysis
+- Term Structure of Interest Rates and Yield Curves
+linter-yaml-title-alias: Covered Interest Rate Parity
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- banking-regulation
+- basel-accord
+- capital-adequacy
+- caplet
+- cds
+- coherent-risk-measure
+- collateralized-debt-obligation
+- conditional-var
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- spot-rates
+- affine-term-structure
+- hull-white
+- cir-model
+- yield-curve-shocks
+- high-frequency-trading
+- algorithmic-trading
+- expected-shortfall
+- basis-risk
+- parametric-var
+- extreme-value-theory
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- arbitrage
+- contango
+- backwardation
+- term-structure
+- short-rate-models
+- yield-curve
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- par-yield
+- clearinghouse
+- investment-analysis
+- market-efficiency
+- quantitative-finance
+- marking-to-market
+- interpolation
+- forward-curve
+- value-at-risk
+- order-flow
+- hedge-ratio
+- bid-ask-spread
+- market-price-of-risk
+- financial-markets
+- price-discovery
+- liquidity
+- vasicek-model
+- curve-fitting
+- monte-carlo-var
+- convergence
+- var-backtesting
+- futures-contracts
+- roll-yield
+- market-impact
+- bootstrap-method
+- risk-premium
+- forward-contracts
+- forward-rates
+title: Covered Interest Rate Parity
+type: note
 ---
+--
+
 
 
 # Covered Interest Rate Parity

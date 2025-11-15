@@ -1,3 +1,83 @@
+---
+key_concepts:
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- How Countries Go Broke-Chapter 8 to Chapter 11 Notes and financial analysis
+- How Countries Go Broke-Chapter 8 to Chapter 11 Notes in modern finance
+- Applications of How Countries Go Broke-Chapter 8 to Chapter 11 Notes
+- 'Case study: How Countries Go Broke-Chapter 8 to Chapter 11 Notes'
+- Credit default probability and recovery modeling
+- Discount Rate in financial markets
+- Exchange Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+tags:
+- efficiency
+- leverage
+- synthetic
+- eur
+- volatility
+- multiple
+- monetary-policy
+- solvency
+- hedge
+- margin
+- credit-spread
+- energy
+- digital
+- commodity
+- discount-rate
+- forward
+- future
+- yield-curve
+- dividend
+- pricing
+- distribution
+- interest-rates
+- option
+- put
+- bond
+- bonds
+- default
+- cds
+- options
+- fixed-income
+- recovery
+- treasury
+- yield
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000600
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # Breaking Down the Economic Evolution Since 1944: A Clearer Perspective on Debt Cycles and Monetary Policy
 
 ## Part 3: Looking Back

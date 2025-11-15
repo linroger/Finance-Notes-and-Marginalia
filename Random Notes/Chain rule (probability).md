@@ -1,3 +1,89 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000323
+key_concepts:
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Monte Carlo simulation methods
+- Stochastic processes in finance
+- Path-dependent derivatives pricing
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Chain rule (probability) and financial analysis
+- Chain rule (probability) in modern finance
+- Applications of Chain rule (probability)
+- 'Case study: Chain rule (probability)'
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Risk Measurement and VaR Backtesting
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Option Valuation and Exercise Strategies
+- Value at Risk and Expected Shortfall
+- Credit Spreads and Rating Migration Analysis
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+tags:
+- stochastic
+- swaps
+- options
+- risk-management
+- var
+- statement
+- call
+- irs
+- monte-ca
+- put-options
+- affine-term-structure
+- recovery-rate
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- strangles
+- expected-shortfall
+- straddles
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- covered-calls
+- ' exposure-at-default'
+- short-rate-models
+- option-strategies
+- stress-testing
+- unexpected-loss
+- ornstein-uhlenbeck
+- rating-migration
+- expected-loss
+- credit-migration
+- default-probability
+- value-at-risk
+- credit-spreads
+- iron-condors
+- protective-puts
+- market-price-of-risk
+- probabilty-of-default
+- loss-given-default
+- vasicek-model
+- monte-carlo-var
+- var-backtesting
+- options-trading
+- risk-premium
+---
+--
+
 # Chain rule (probability)
 
 In [probability theory](https://en.wikipedia.org/wiki/Probability_theory "Probability theory"), the **chain rule**[[1]](https://en.wikipedia.org/wiki/Chain_rule_\(probability\)#cite_note-1) (also called the **general product rule**[[2]](https://en.wikipedia.org/wiki/Chain_rule_\(probability\)#cite_note-2)[[3]](https://en.wikipedia.org/wiki/Chain_rule_\(probability\)#cite_note-3)) describes how to calculate the probability of the intersection of, not necessarily [independent](https://en.wikipedia.org/wiki/Independence_\(probability_theory\) "Independence (probability theory)"), events or the [joint distribution](https://en.wikipedia.org/wiki/Joint_distribution "Joint distribution") of [random variables](https://en.wikipedia.org/wiki/Random_variables "Random variables") respectively, using [conditional probabilities](https://en.wikipedia.org/wiki/Conditional_probabilities "Conditional probabilities"). This rule allows one to express a joint probability in terms of only conditional probabilities.[[4]](https://en.wikipedia.org/wiki/Chain_rule_\(probability\)#cite_note-4) The rule is notably used in the context of discrete [stochastic processes](https://en.wikipedia.org/wiki/Stochastic_process "Stochastic process") and in applications, e.g. the study of [Bayesian networks](https://en.wikipedia.org/wiki/Bayesian_network "Bayesian network"), which describe a [probability distribution](https://en.wikipedia.org/wiki/Probability_distribution "Probability distribution") in terms of conditional probabilities.

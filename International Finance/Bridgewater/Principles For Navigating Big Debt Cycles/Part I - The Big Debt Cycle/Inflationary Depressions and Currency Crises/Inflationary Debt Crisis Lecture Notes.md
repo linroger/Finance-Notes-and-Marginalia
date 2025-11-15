@@ -1,32 +1,87 @@
 ---
-title: Inflationary Debt Crisis Lecture Notes
-cssclasses:
-  - academia
-tags:
-  - central_bank_policy
-  - currency_devaluation
-  - economic_growth
-  - inflationary_debt_crisis
-  - inflationary_depressions
-  - investor_behavior
-  - monetary_policy
 aliases:
-  - Currency Dynamics
-  - Debt Crisis
-  - Inflationary Crisis
-  - Weimar Republic
+- Currency Dynamics
+- Debt Crisis
+- Inflationary Crisis
+- Weimar Republic
+cssclasses:
+- academia
 key_concepts:
-  - Capital flight, safer investments
-  - Central banks, money, credit
-  - Currency depreciation, debt holders
-  - Currency devaluation, rising inflation
-  - Debt as asset, liability
-  - Debt holders' expectations
-  - Deflationary vs. inflationary crises
-  - Inflation, economic growth balance
-  - Investor reactions, currency weakness
-  - Policy makers, burden redistribution
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Inflationary Debt Crisis Lecture Notes and financial analysis
+- Inflationary Debt Crisis Lecture Notes in modern finance
+- Applications of Inflationary Debt Crisis Lecture Notes
+- 'Case study: Inflationary Debt Crisis Lecture Notes'
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Duration and interest rate risk measurement
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Spot Price in financial markets
+- Value at Risk and tail risk measurement
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+tags:
+- leverage
+- duration
+- eur
+- monetary-policy
+- hedge
+- margin
+- commodity
+- forward
+- future
+- yield-curve
+- pricing
+- correlation
+- option
+- hedging
+- distribution
+- oil
+- put
+- gold
+- bond
+- crisis
+- bonds
+- spread
+- default
+- cds
+- options
+- call
+- recovery
+- strike
+- liquidity
+- yield
+- interest-rate
+title: Inflationary Debt Crisis Lecture Notes
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000572
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Inflationary Debt Crisis Lecture Notes
 

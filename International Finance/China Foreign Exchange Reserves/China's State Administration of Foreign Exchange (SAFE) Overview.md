@@ -1,28 +1,115 @@
 ---
+aliases:
+- China's Forex Regulator
+- Chinese Forex Agency
+- SAFE
 cssclasses:
-  - academia
+- academia
 description: China's State Administration of Foreign Exchange is the country's official
   state-run foreign exchange regulatory agency.
-source: 
-  https://www.investopedia.com/terms/s/state-administration-of-foreign-exchange.asp
-title: China's State Administration of Foreign Exchange (SAFE) Overview
-tags:
-  - china
-  - currency_regulation
-  - foreign_exchange
-  - pboc
-  - safe
-aliases:
-  - China's Forex Regulator
-  - Chinese Forex Agency
-  - SAFE
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000007
 key_concepts:
-  - China's forex regulator
-  - Drafts forex regulations
-  - Manages foreign exchange reserves
-  - Oversees forex market
-  - Part of Chinese government
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- China's State Administration of Foreign Exchange (SAFE) Overview and financial analysis
+- China's State Administration of Foreign Exchange (SAFE) Overview in modern finance
+- Applications of China's State Administration of Foreign Exchange (SAFE) Overview
+- 'Case study: China''s State Administration of Foreign Exchange (SAFE) Overview'
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Seasonality and Convenience Yield
+- Risk Measurement and VaR Backtesting
+- Commodity Markets and Energy Derivatives
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Option Valuation and Exercise Strategies
+- Value at Risk and Expected Shortfall
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Forward Curves and Roll Strategies
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Arbitrage Pricing Theory and Multi-Factor Models
+source: https://www.investopedia.com/terms/s/state-administration-of-foreign-exchange.asp
+tags:
+- credit
+- regulatory
+- options
+- regulation
+- call
+- put-options
+- affine-term-structure
+- recovery-rate
+- hull-white
+- call-options
+- cir-model
+- seasonality
+- butterfly-spreads
+- momentum
+- strangles
+- expected-shortfall
+- straddles
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- book-to-market
+- var-methodologies
+- historical-var
+- mean-reversion
+- lognormal-models
+- covered-calls
+- ' exposure-at-default'
+- style-analysis
+- short-rate-models
+- energy-derivatives
+- option-strategies
+- stress-testing
+- unexpected-loss
+- ornstein-uhlenbeck
+- rating-migration
+- expected-loss
+- investment-analysis
+- credit-migration
+- default-probability
+- value-at-risk
+- credit-spreads
+- arbitrage-pricing-theory
+- multi-factor-models
+- iron-condors
+- protective-puts
+- market-price-of-risk
+- metals-trading
+- financial-markets
+- probabilty-of-default
+- loss-given-default
+- size-effect
+- factor-models
+- roll-strategies
+- value-factor
+- convenience-yield
+- vasicek-model
+- forward-curves
+- agricultural-commodities
+- monte-carlo-var
+- var-backtesting
+- options-trading
+- storage-costs
+- apt
+- risk-premium
+- commodity-trading
+- fama-french
+title: China's State Administration of Foreign Exchange (SAFE) Overv
 ---
+--
 
 # China's State Administration of Foreign Exchange (SAFE) Overview
 ## What Is China's State Administration of Foreign Exchange (SAFE)?

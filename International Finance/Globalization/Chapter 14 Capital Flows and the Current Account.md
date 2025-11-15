@@ -1,3 +1,226 @@
+---
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000022
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Chapter 14 Capital Flows and the Current Account and financial analysis
+- Chapter 14 Capital Flows and the Current Account in modern finance
+- Applications of Chapter 14 Capital Flows and the Current Account
+- 'Case study: Chapter 14 Capital Flows and the Current Account'
+- Auto-Callable Notes and Barrier Options
+- Basel III Regulatory Framework and Capital Requirements
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Variance Reduction Techniques in Monte Carlo Methods
+- Capital Asset Pricing Model and Beta Analysis
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Equity-Linked Notes and Market-Linked Securities
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Distressed Investing and Debt Restructuring
+- Cost of Equity and Expected Returns
+- Stochastic Integration and Path-Dependent Options
+- Flexibility Value in Capital Budgeting
+- Forward Curves and Roll Strategies
+- Regulatory Capital and Stress Testing
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Structured Products and Principal Protection
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Factor Models and Asset Pricing
+- Option to Expand and Investment Timing
+- Private Equity Investment Returns and Value Creation
+- Liquidity Coverage Ratio and Net Stable Funding
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Real Options in Strategic Investment Decisions
+- Credit Spreads and Rating Migration Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Monte Carlo Simulation Methods for Derivative Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+tags:
+- maturity
+- credit
+- income statement
+- swaps
+- options
+- put
+- bonds
+- yield
+- var
+- bond
+- call
+- treasury
+- accounting
+- irs
+- risk-managem
+- control-variates
+- leveraged-buyout
+- asset-allocation
+- exotic-options
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- exchange-offers
+- option-to-abandon
+- net-stable-funding
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- cramdown
+- corporate-bonds
+- timing-options
+- unexpected-loss
+- capital-asset-pricing-model
+- debt-restructuring
+- arbitrage-pricing-theory
+- monte-carlo-simulation
+- private-equity
+- market-price-of-risk
+- capital-conservation-buffer
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dirty-price
+- forward-curves
+- distressed-investing
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- commodity-trading
+- yield-to-maturity
+- fama-french
+- recovery-rate
+- zero-coupon-bonds
+- real-options
+- strategic-investment
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- regulatory-capital
+- random-walks
+- debt-capacity
+- expected-loss
+- quantitative-finance
+- market-linked-notes
+- investment-return
+- systematic-risk
+- protective-puts
+- government-bonds
+- alpha
+- security-market-line
+- probabilty-of-default
+- reverse-convertibles
+- idiosyncratic-risk
+- storage-costs
+- tier-2-capital
+- risk-premium
+- beta
+- put-options
+- countercyclical-buffer
+- affine-term-structure
+- equity-kickers
+- capm
+- lbo-valuation
+- momentum
+- option-to-expand
+- market-risk-premium
+- antithetic-variates
+- covered-calls
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- investment-analysis
+- portfolio-optimization
+- path-dependency
+- value-at-risk
+- flexibility-value
+- bootstrap-strategy
+- metals-trading
+- management-buyout
+- blocker-strategy
+- factor-models
+- convenience-yield
+- creditor-committees
+- agricultural-commodities
+- risk-management
+- var-backtesting
+- variance-reduction
+- stochastic-integration
+- barrier-options
+- tender-offers
+- seasonality
+- ' DIP-financing'
+- clean-price
+- principal-protected-notes
+- strangles
+- conditional-var
+- equity-linked-notes
+- fixed-income
+- short-rate-models
+- least-squares-mc
+- efficient-frontier
+- credit-migration
+- default-probability
+- auto-callables
+- credit-spreads
+- tier-1-capital
+- multi-factor-models
+- structured-notes
+- iron-condors
+- financial-markets
+- size-effect
+- knock-out-options
+- liquidity-coverage-ratio
+- basel-iii
+- quasi-monte-carlo
+- apt
+- natural-resource-valuation
+- current-yield
+---
+--
+
 # **Chapter 14 Capital Flows and the Current Account**
 
 Once upon a time there was a politician, running on the following election platform: "As soon as I am in office, I will make our region both a leader in exports and a top destination for outside investors. I will make sure that our region will run a trade surplus, exporting more goods and services than we import. A trade surplus is what I call export success. Moreover, I will also make sure that our region attracts foreign capital clearly in excess of the investments that our residents make abroad. Large net capital inflows are what I mean by a top destination for outside investors. Vote for me to make these successes in trade and finance happen for our region." To live happily ever after, should you vote for this politician?

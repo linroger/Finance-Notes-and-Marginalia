@@ -1,20 +1,63 @@
 ---
 tags:
-  - bond_pricing
-  - daily_settlement
-  - forward_contract
-  - futures_contract
-  - hedge_ratio
+- delta
+- synthetic
+- volatility
+- forward_contract
+- hedge
+- maturity
+- margin
+- repo
+- forward
+- future
+- bond_pricing
+- pricing
+- daily_settlement
+- hedging
+- covariance
+- apt
+- hedge_ratio
+- call
+- trading
+- bond
+- market
+- variance
+- var
+- futures_contract
+- futures-contract
 aliases:
-  - Daily Settlement
-  - Futures vs. Forwards
+- Daily Settlement
+- Futures vs. Forwards
 key_concepts:
-  - Bond Price and Interest
-  - Daily P&L Realization
-  - Futures vs. Forwards Pricing
-  - Hedging with Futures
-  - Tailing the Hedge
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Delta hedging strategies in options markets
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000189
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 11.5 PRICING AND HEDGING IMPLICATIONS OF DAILY SETTLEMENT  
 

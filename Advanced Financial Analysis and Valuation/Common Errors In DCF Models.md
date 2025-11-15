@@ -1,24 +1,203 @@
 ---
-cssclasses:
-  - academia
-title: Common Errors In DCF Models
-tags:
-  - cash_flow
-  - dcf_models
-  - equity_investing
-  - financial_analysis
-  - valuation
 aliases:
-  - DCF Errors
-  - Mauboussin Valuation
-  - Valuation Mistakes
+- DCF Errors
+- Mauboussin Valuation
+- Valuation Mistakes
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000287
 key_concepts:
-  - Discounted cash flow analysis
-  - Economically sound models
-  - Present value of cash flows
-  - Transparent DCF models
-  - Value of a business
+- Discounted cash flow analysis
+- Economically sound models
+- Present value of cash flows
+- Transparent DCF models
+- Value of a business
+- Equity valuation and analysis
+- Dividend discount models
+- Fixed income securities
+- Interest rate derivatives
+- Foreign exchange markets
+- Currency derivatives
+- Option sensitivity analysis
+- Delta, gamma, vega, theta, rho
+- Bond pricing and yield analysis
+- Duration and convexity
+- Futures contracts and forward pricing
+- Margin requirements and clearing
+- Value at risk and stress testing
+- Portfolio risk metrics
+- Options pricing and payoff structures
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Free Cash Flow and Enterprise Value
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Cost of Equity and Expected Returns
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Interest Rate Swaps and Currency Swap Structures
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Terminal Value and WACC Calculations
+- Discounted Cash Flow Valuation Models
+- Arbitrage Pricing Theory and Multi-Factor Models
+tags:
+- equity
+- regulatory-framework
+- greeks
+- cash_flow
+- equity_investing
+- mathematical-finance
+- financial_analysis
+- valuation
+- fixed_income
+- fx
+- volatility
+- bonds
+- futures
+- risk_management
+- options
+- leveraged-buyout
+- asset-allocation
+- hull-white
+- call-options
+- cir-model
+- terminal-value
+- free-cash-flow
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- volatility-analysis
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- enterprise-value
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- loss-given-default
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dirty-price
+- monte-carlo-var
+- capital-budgeting
+- options-trading
+- coupon-bonds
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- expected-loss
+- wacc
+- quantitative-finance
+- currency-swaps
+- systematic-risk
+- protective-puts
+- government-bonds
+- alpha
+- security-market-line
+- probabilty-of-default
+- discounted-cash-flow
+- dcf-valuation
+- credit-default-swaps
+- idiosyncratic-risk
+- roll-yield
+- cost-of-debt
+- beta
+- risk-premium
+- put-options
+- affine-term-structure
+- capm
+- momentum
+- basis-risk
+- market-risk-premium
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- value-at-risk
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- sum-of-parts
+- clean-price
+- strangles
+- conditional-var
+- fixed-income
+- short-rate-models
+- cost-of-equity
+- swap-spread
+- efficient-frontier
+- credit-migration
+- default-probability
+- marking-to-market
+- total-return-swaps
+- libor
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- equity-value
+- size-effect
+- basis-swaps
+- precedent-transactions
+- interest-rate-swaps
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+- current-yield
+title: Common Errors In DCF Mod
 ---
+--
 
 Michael J. Mauboussin
 

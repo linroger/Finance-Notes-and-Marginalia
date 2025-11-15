@@ -1,23 +1,91 @@
 ---
 title: The Economist Margin Call of the Wild
 tags:
-  - archegos_capital
-  - equity_swaps
-  - financial_crisis
-  - leveraged_bets
-  - margin_call
+- equity_swaps
+- leverage
+- eur
+- tracking-error
+- hedge
+- margin
+- archegos_capital
+- swap
+- oil
+- put
+- american
+- caps-floors
+- trading
+- gold
+- hedge-fund
+- financial-markets
+- ltcm
+- crisis
+- modern-portfolio-theory
+- derivatives
+- default
+- regression-discontinuity
+- repo
+- financial_crisis
+- capital
+- financial-crisis
+- equity
+- private-equity
+- leveraged_bets
+- hedge-funds
+- credit
+- call
+- investment-strategy
+- market
+- fail
+- margin_call
+- chinese-markets
+- banking
+- commodities
+- interest-rate
 aliases:
-  - Archegos
-  - Bill Hwang
-  - Credit Suisse
-  - Nomura
+- Archegos
+- Bill Hwang
+- Credit Suisse
+- Nomura
 key_concepts:
-  - Archegos fire sale
-  - Equity swap derivatives
-  - Leverage and losses
-  - Long-term interest rates
-  - Wall Street profits
+- Wall Street profits
+- Long-term interest rates
+- Archegos fire sale
+- Equity swap derivatives
+- Leverage and losses
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
+- Credit default probability and recovery modeling
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000063
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # The Economist Margin Call of the Wild
 

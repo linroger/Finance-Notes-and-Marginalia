@@ -1,21 +1,109 @@
 ---
-title: Appendix 23. A The Reflection Principle for Wiener Process
-tags:
-  - barrier_probability
-  - brownian_motion
-  - knockout_call
-  - reflection_principle
-  - wiener_process
+academic_level: graduate
 aliases:
-  - Brownian Path
-  - Reflection Principle
+- Brownian Path
+- Reflection Principle
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000431
 key_concepts:
-  - Barrier probability calculation
-  - Brownian path reflection
-  - Down-and-in cash call
-  - Hitting barrier level
-  - Standard normal calculation
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Wiener process and Brownian motion modeling
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Auto-Callable Notes and Barrier Options
+- Risk Measurement and VaR Backtesting
+- Equity-Linked Notes and Market-Linked Securities
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Value at Risk and Expected Shortfall
+- Option Valuation and Exercise Strategies
+- Factor Models and Asset Pricing
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Structured Products and Principal Protection
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- binomial-model
+- black-scholes-model
+- brownian-motion
+- capital-budgeting
+- caplet
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- credit-rating
+- delta-hedging
+- derivatives
+- discrete-time-pricing
+- duration-analysis
+- dynamic-hedging
+- put-options
+- barrier-options
+- affine-term-structure
+- hull-white
+- call-options
+- cir-model
+- principal-protected-notes
+- butterfly-spreads
+- momentum
+- strangles
+- expected-shortfall
+- straddles
+- parametric-var
+- extreme-value-theory
+- book-to-market
+- var-methodologies
+- historical-var
+- mean-reversion
+- lognormal-models
+- equity-linked-notes
+- volatility-analysis
+- covered-calls
+- style-analysis
+- short-rate-models
+- option-strategies
+- stress-testing
+- ornstein-uhlenbeck
+- value-at-risk
+- auto-callables
+- arbitrage-pricing-theory
+- multi-factor-models
+- structured-notes
+- market-linked-notes
+- iron-condors
+- protective-puts
+- market-price-of-risk
+- size-effect
+- factor-models
+- knock-out-options
+- value-factor
+- reverse-convertibles
+- vasicek-model
+- monte-carlo-var
+- risk-management
+- var-backtesting
+- options-trading
+- apt
+- risk-premium
+- fama-french
+title: Appendix 23. A The Reflection Principle for Wiener Process
+type: note
 ---
+--
+
+
 
 # Appendix 23. A The Reflection Principle for Wiener Process
 

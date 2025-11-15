@@ -1,39 +1,92 @@
 ---
 title: Lecture 3 - Dynamics of Returns
 cssclasses:
-  - academia
-  - finance
+- academia
+- finance
 tags:
-  - conditional_returns
-  - lecture_notes
-  - market_timing
-  - stock_returns
-  - volatility
-  - return_predictability
-  - time_series_analysis
-  - market_efficiency
-  - dynamic_portfolio_management
-  - financial_econometrics
+- delta
+- collateralized-debt-obligation
+- efficiency
+- risk-free
+- volatility
+- multiple
+- convexity
+- binomial-model
+- hedge
+- probability
+- continuous-time-pricing
+- discount-rate
+- forward
+- momentum
+- future
+- implied
+- caplet
+- time-series
+- dividend
+- gamma
+- pricing
+- correlation
+- distribution
+- dcf
+- oil
+- coherent-risk-measure
+- cds
+- arbitrage-opportunity
+- capital-asset-pricing
+- conditional-var
+- convexity-adjustment
+- arbitrage-pricing
+- credit-default-swap
+- black-scholes-model
+- counterparty-risk
 aliases:
-  - Dynamics of Returns
-  - Lecture 3
-  - Lecture 3 Notes
-  - Return Dynamics
-  - Time-Varying Returns
+- Dynamics of Returns
+- Lecture 3
+- Lecture 3 Notes
+- Return Dynamics
+- Time-Varying Returns
 key_concepts:
-  - Conditional distribution of returns
-  - Optimal allocation formula
-  - Statistical model of returns
-  - Time-varying expected returns
-  - Unconditional distribution of returns
-  - Market timing strategies
-  - Return predictability evidence
-  - Volatility forecasting methods
-  - Dynamic allocation techniques
-  - Autoregressive processes
-  - Business cycle predictability
-  - Conditional variances
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Collateralized debt obligations (CDO) and tranche structure
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Asset Allocation in financial markets
+- Correlation modeling and dependency structures
+- Discounted Cash Flow valuation methodology
+- Delta hedging strategies in options markets
+- Discount Rate in financial markets
+- Gamma risk and convexity adjustments in options
+- Growth Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Mean Variance in financial markets
+- Risk Free in financial markets
+- Time Series in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+type: course-note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000116
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
 
 
 # Lecture 3: Dynamics of Returns

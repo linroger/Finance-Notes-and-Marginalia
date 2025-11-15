@@ -1,21 +1,199 @@
 ---
-tags:
-  - market_risk
-  - portfolio_theory
-  - value_at_risk
-  - var
-  - variance_covariance
+academic_level: graduate
 aliases:
-  - VCV
-  - VaR
+- VCV
+- VaR
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000382
 key_concepts:
-  - Backtesting VaR accuracy
-  - Basel internal models
-  - Forecasting volatility methods
-  - Market risk measurement
-  - Value at Risk (VaR)
-  - Variance-covariance approach
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Collateralized debt obligations (CDO) and tranche structure
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Basel III Regulatory Framework and Capital Requirements
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Machine Learning in Quantitative Finance
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- Delta, Gamma, and Vega Hedging Techniques
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Regulatory Capital and Stress Testing
+- Neural Networks and Deep Learning Applications
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- Interest Rate Swaps and Currency Swap Structures
+- Liquidity Coverage Ratio and Net Stable Funding
+- Algorithmic Trading and Backtesting
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- arch
+- asset-allocation
+- asset-backed-securities
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-asset-pricing
+- caplet
+- cds
+- coherent-risk-measure
+- collateral-rates
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- net-stable-funding
+- volatility-analysis
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- clearinghouse
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- machine-learning
+- deep-learning
+- support-vector-machines
+- capital-conservation-buffer
+- feature-selection
+- loss-given-default
+- value-factor
+- vasicek-model
+- dirty-price
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- neural-networks
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- regulatory-capital
+- expected-loss
+- delta-hedging
+- quantitative-finance
+- currency-swaps
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- gamma-hedging
+- hedge-effectiveness
+- credit-default-swaps
+- roll-yield
+- tier-2-capital
+- risk-premium
+- put-options
+- countercyclical-buffer
+- affine-term-structure
+- momentum
+- basis-risk
+- hedge-strategies
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- investment-analysis
+- portfolio-optimization
+- value-at-risk
+- out-of-sample
+- backtesting
+- cross-validation
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- cross-hedging
+- clean-price
+- strangles
+- conditional-var
+- fixed-income
+- short-rate-models
+- random-forests
+- swap-spread
+- credit-migration
+- default-probability
+- marking-to-market
+- total-return-swaps
+- libor
+- credit-spreads
+- tier-1-capital
+- multi-factor-models
+- iron-condors
+- financial-markets
+- static-hedging
+- size-effect
+- basis-swaps
+- interest-rate-swaps
+- liquidity-coverage-ratio
+- basel-iii
+- futures-contracts
+- apt
+- ensemble-methods
+- current-yield
+type: note
 ---
+--
+
+
+
 # MARKET RISK  
 
 # Value at Risk  

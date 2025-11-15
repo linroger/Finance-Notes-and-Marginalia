@@ -1,20 +1,76 @@
 ---
 tags:
-  - futures_mechanics
-  - interest_rate_futures
-  - marking_to_market
-  - physical_commodities
-  - variation_margin
+- duration
+- eur
+- multiple
+- convexity
+- hedge
+- par-value
+- futures_mechanics
+- margin
+- commodity
+- variation_margin
+- forward
+- future
+- marking_to_market
+- implied
+- regulation
+- swap
+- jpy
+- pricing
+- option
+- hedging
+- physical_commodities
+- put
+- american
+- bond
+- interest_rate_futures
 aliases:
-  - Commodity Futures
-  - Futures Trading
+- Commodity Futures
+- Futures Trading
 key_concepts:
-  - Futures trading mechanics
-  - Lock in purchase price
-  - Physical commodity contracts
-  - Two-way insurance contract
-  - Variation margin calculation
+- American option pricing and early exercise
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Bond duration and interest rate risk
+- Bond convexity and price-yield relationships
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Arbitrage pricing theory and no-arbitrage principle
+- Convexity adjustments for bond portfolio management
+- Duration and interest rate risk measurement
+- Exchange Rate in financial markets
+- Fed Funds in financial markets
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- Par Value in financial markets
+- Spot Price in financial markets
+- Spot Rate in financial markets
+- Financial markets and instrument analysis
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000294
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 3.2 FUTURES MECHANICS  
 

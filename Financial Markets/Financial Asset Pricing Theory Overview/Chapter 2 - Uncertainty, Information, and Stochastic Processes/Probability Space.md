@@ -1,20 +1,48 @@
 ---
 tags:
-  - asset_pricing
-  - probability_measure
-  - probability_space
-  - random_variable
-  - state_space
+- dividend
+- pricing
+- random_variable
+- state_space
+- model
+- asset_pricing
+- probability
+- cdo
+- financial-engineering
+- financial-markets
+- var
+- measure
+- probability_measure
+- probability_space
+- future
 aliases:
-  - Probability Model
-  - Probability Spaces
+- Probability Model
+- Probability Spaces
 key_concepts:
-  - Collection of events
-  - Possible outcomes
-  - Random variable on space
-  - Realization of uncertain objects
-  - State space for model
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000392
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 2.2 Probability space  
 

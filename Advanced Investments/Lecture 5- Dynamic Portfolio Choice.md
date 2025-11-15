@@ -1,40 +1,97 @@
 ---
 title: Lecture 5 - Dynamic Portfolio Choice
 cssclasses:
-  - academia
-  - finance
+- academia
+- finance
 tags:
-  - dynamic_portfolio_choice
-  - iid_assumption
-  - long_term_investor
-  - portfolio_weights
-  - risk_return
-  - time_varying_returns
-  - multi_period_investing
-  - log_normal_returns
-  - wealth_accumulation
-  - portfolio_rebalancing
-  - asset_allocation_strategies
+- collateralized-debt-obligation
+- leverage
+- risk-free
+- volatility
+- multiple
+- eur
+- hedge
+- binomial-model
+- probability
+- margin
+- continuous-time-pricing
+- forward
+- future
+- implied
+- time-series
+- caplet
+- swap
+- dividend
+- gamma
+- pricing
+- correlation
+- distribution
+- hedging
+- covariance
+- coherent-risk-measure
+- cds
+- arbitrage-opportunity
+- capital-asset-pricing
+- asset-allocation
+- conditional-var
+- convexity-adjustment
+- arbitrage-pricing
+- credit-default-swap
+- black-scholes-model
+- counterparty-risk
 aliases:
-  - Dynamic Portfolio Selection
-  - Long-Term Investing
-  - Multi-Period Portfolio Optimization
-  - Dynamic Asset Allocation
-  - Intertemporal Portfolio Choice
+- Dynamic Portfolio Selection
+- Long-Term Investing
+- Multi-Period Portfolio Optimization
+- Dynamic Asset Allocation
+- Intertemporal Portfolio Choice
 key_concepts:
-  - Dynamic portfolio problem
-  - IID setting
-  - Long-term investment horizons
-  - Optimal portfolio formulas
-  - Predictable stock market returns
-  - Time-varying expected returns
-  - Compounding of returns
-  - Portfolio rebalancing strategies
-  - Long-run wealth distribution
-  - Multi-period utility maximization
-  - Mean-variance portfolio analysis
-  - Intertemporal hedging demand
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Collateralized debt obligations (CDO) and tranche structure
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Arbitrage pricing theory and no-arbitrage principle
+- Asset Allocation in financial markets
+- Correlation modeling and dependency structures
+- Forward Rate in financial markets
+- Gamma risk and convexity adjustments in options
+- Growth Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Market Risk in financial markets
+- Mean Reversion in financial markets
+- Mean Variance in financial markets
+- Monte Carlo in financial markets
+- Risk Free in financial markets
+- Term Structure in financial markets
+- Time Series in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Zero Coupon in financial markets
+type: course-note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000121
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
+
 
 # Lecture 5-Dynamic Portfolio Choice
 

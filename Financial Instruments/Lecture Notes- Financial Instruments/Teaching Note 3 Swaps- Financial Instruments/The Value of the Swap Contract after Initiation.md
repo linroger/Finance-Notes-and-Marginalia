@@ -1,23 +1,122 @@
 ---
-tags:
-  - currency_swap
-  - eurodollar_futures
-  - fx_swap
-  - interest_rate_risk
-  - swap_contract
+academic_level: graduate
 aliases:
-  - Currency Swap
-  - Eurodollar Futures
-  - FX Swap
-  - Hedging Strategy
-  - Swap Value
+- Currency Swap
+- Eurodollar Futures
+- FX Swap
+- Hedging Strategy
+- Swap Value
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000145
 key_concepts:
-  - Borrowing in foreign currency
-  - Eurodollar futures hedging
-  - Hedging principal amount
-  - Plain vanilla FX swaps
-  - Swap value formula
+- Currency swaps and foreign exchange risk management
+- Heath-Jarrow-Morton (HJM) and forward rate dynamics
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Ornstein-Uhlenbeck Process in Finance
+- Futures and Forward Contracts in Financial Markets
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Hedge Strategies and Basis Risk Management
+- Short Rate Models and Term Structure Dynamics
+- Fama-French Factors and Style Analysis
+- Factor Models and Asset Pricing
+- Term Structure of Interest Rates and Yield Curves
+- Interest Rate Swaps and Currency Swap Structures
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- asset-allocation
+- collateral-rates
+- credit-rating
+- cross-currency-swap
+- currency-hedging
+- currency-markets
+- exchange-rates
+- foreign-exchange
+- forward-contracts
+- forward-curve
+- forward-pricing
+- forward-rate-agreement
+- forward-rate-dynamics
+- future-rates
+- futures
+- spot-rates
+- affine-term-structure
+- hull-white
+- cir-model
+- yield-curve-shocks
+- momentum
+- expected-shortfall
+- basis-risk
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- book-to-market
+- var-methodologies
+- historical-var
+- mean-reversion
+- lognormal-models
+- contango
+- backwardation
+- term-structure
+- sofr
+- swap-rate
+- style-analysis
+- short-rate-models
+- swap-spread
+- yield-curve
+- stress-testing
+- ornstein-uhlenbeck
+- par-yield
+- clearinghouse
+- investment-analysis
+- risk-premium
+- marking-to-market
+- interpolation
+- value-at-risk
+- total-return-swaps
+- libor
+- currency-swaps
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- multi-factor-models
+- hedge-ratio
+- fama-french
+- market-price-of-risk
+- financial-markets
+- size-effect
+- factor-models
+- basis-swaps
+- value-factor
+- interest-rate-swaps
+- vasicek-model
+- curve-fitting
+- monte-carlo-var
+- convergence
+- var-backtesting
+- futures-contracts
+- roll-yield
+- apt
+- bootstrap-method
+- credit-default-swaps
+- forward-rates
+type: course-note
 ---
+--
+
+
 
 **Teaching Note 3 SwapsFinancial Instruments**
 	- Forward Rates Agreement

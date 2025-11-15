@@ -1,23 +1,170 @@
 ---
-title: American Option Pricing with QuantLib and Python
-source: http://gouthamanbalaraman.com/blog/american-option-pricing-quantlib-python.html
-description: This post explains valuing American Options using QuantLib and Python
-tags:
-  - american_option_pricing
-  - binomial_engine
-  - european_option
-  - python
-  - quantlib
+academic_level: graduate
 aliases:
-  - AAPL Option Pricing
-  - Option Valuation
+- AAPL Option Pricing
+- Option Valuation
+description: This post explains valuing American Options using QuantLib and Python
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000045
 key_concepts:
-  - American option valuation
-  - Binomial tree approach
-  - Black-Scholes-Merton process
-  - European option pricing
-  - QuantLib and Python
+- Black-Scholes option pricing model and continuous-time finance
+- Binomial option pricing model and lattice methods
+- Options Greeks and sensitivity analysis for risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- QuantLib library and quantitative finance implementation
+- Alpha generation and active portfolio management
+- Volatility modeling and estimation techniques
+- Alpha generation and active return measurement
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Value at Risk and Expected Shortfall
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Cost of Equity and Expected Returns
+- Black-Scholes Option Pricing Model and Its Applications
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Hedge Strategies and Basis Risk Management
+- American Option Pricing and Early Exercise Premium
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+source: http://gouthamanbalaraman.com/blog/american-option-pricing-quantlib-python.html
+status: active
+tags:
+- american-derivatives
+- asset-allocation
+- binomial-model
+- black-scholes-model
+- capital-budgeting
+- capital-structure
+- caplet
+- cash-flow-modeling
+- charting
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- cost-of-capital
+- credit-rating
+- leveraged-buyout
+- call-options
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- binomial-tree
+- straddles
+- extreme-value-theory
+- american-options
+- partial-differential-equation
+- book-to-market
+- risk-neutral-valuation
+- backwardation
+- volatility-analysis
+- style-analysis
+- option-strategies
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- arbitrage-pricing-theory
+- hedge-ratio
+- volatility-surface
+- loss-given-default
+- value-factor
+- sharpe-ratio
+- monte-carlo-var
+- options-trading
+- forward-contracts
+- fama-french
+- price-to-earnings
+- bsm-model
+- recovery-rate
+- black-scholes-formula
+- parametric-var
+- var-methodologies
+- historical-var
+- contango
+- expected-loss
+- crr-model
+- systematic-risk
+- protective-puts
+- alpha
+- security-market-line
+- probabilty-of-default
+- idiosyncratic-risk
+- roll-yield
+- beta
+- put-options
+- multi-period-binomial
+- capm
+- momentum
+- basis-risk
+- market-risk-premium
+- discrete-time-pricing
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- sum-of-parts
+- european-options
+- lattice-models
+- strangles
+- cox-ross-rubinstein
+- optional-exercise
+- efficient-frontier
+- credit-migration
+- default-probability
+- marking-to-market
+- binomial-option-pricing
+- credit-spreads
+- multi-factor-models
+- ito-calculus
+- trading-multiples
+- iron-condors
+- option-pricing
+- financial-markets
+- size-effect
+- precedent-transactions
+- lognormal-distribution
+- ipo-valuation
+- market-multiple
+- ' recombining-trees'
+- futures-contracts
+- apt
+title: American Option Pricing with QuantLib and Python
+type: note
 ---
+--
+
+
 
 # American Option Pricing with QuantLib and Python
 

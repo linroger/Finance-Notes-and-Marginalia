@@ -1,20 +1,84 @@
 ---
 tags:
-  - arbitrage
-  - bond_pricing
-  - cash_flows
-  - coupon_bonds
-  - riskless_bonds
+- delta
+- duration
+- risk-free
+- arbitrage
+- volatility
+- multiple
+- eur
+- hedge
+- convexity
+- cash_flows
+- commodity
+- discount-rate
+- forward
+- coupon_bonds
+- bond_pricing
+- future
+- implied
+- yield-curve
+- riskless_bonds
+- time-value
+- pricing
+- distribution
+- option
+- hedging
+- oil
 aliases:
-  - Bond Arbitrage
-  - Fixed Income Arbitrage
+- Bond Arbitrage
+- Fixed Income Arbitrage
 key_concepts:
-  - Bond portfolio value
-  - Bond replication
-  - Cash flow series
-  - Guaranteed payments
-  - Riskless arbitrage
+- Option Greeks and risk sensitivities
+- American option pricing and early exercise
+- Option valuation and hedging strategies
+- Bond duration and interest rate risk
+- Bond convexity and price-yield relationships
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Market liquidity and microstructure effects
+- Arbitrage pricing theory and no-arbitrage principle
+- Convexity adjustments for bond portfolio management
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Delta hedging strategies in options markets
+- Discount Rate in financial markets
+- Duration and interest rate risk measurement
+- Exchange Rate in financial markets
+- Forward Rate in financial markets
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Mean Reversion in financial markets
+- Risk Free in financial markets
+- Spot Price in financial markets
+- Spot Rate in financial markets
+- Term Structure in financial markets
+- Time Value in financial markets
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Zero Coupon in financial markets
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000264
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Arbitrage and Hedging With Fixed Income Instruments and Currencies  
 

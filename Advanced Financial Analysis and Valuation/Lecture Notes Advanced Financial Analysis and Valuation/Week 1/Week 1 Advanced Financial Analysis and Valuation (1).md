@@ -1,32 +1,86 @@
 ---
-cssclasses:
-  - academia
-title: Week 1 Advanced Financial Analysis and Valuation
-tags:
-  - advanced_financial_analysis
-  - dcf_valuation
-  - financial_analysis
-  - valuation
-  - week_1
-  - corporate_finance
-  - financial_modeling
+academic_level: graduate
 aliases:
-  - Advanced Valuation
-  - Week 1
-  - Week 1 AFAV
+- Advanced Valuation
+- Week 1
+- Week 1 AFAV
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000271
 key_concepts:
-  - Advanced financial modeling techniques
-  - Business model analysis and valuation implications
-  - Competitive advantage assessment in valuation
-  - DCF methodology and implementation
-  - Enterprise vs. equity valuation approaches
-  - Financial analysis metrics and frameworks
-  - Free cash flow determination and forecasting
-  - Market efficiency considerations in analysis
-  - ROIC vs. WACC comparison in value creation
-  - Terminal value calculation methods
-  - Valuation approaches for different company types
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Bid-Ask Spreads and Market Impact
+- Comparable Company Analysis and Trading Multiples
+- Price Discovery and Market Efficiency
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Company Valuation and Multiple Analysis
+professional_application: theoreti
+status: active
+tags:
+- asset-allocation
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cost-of-capital
+- credit-rating
+- dcf-valuation
+- debit-valuation-adjustment
+- discounted-cash-flow
+- funding-costs
+- hedging
+- interest-rate-cap
+- interest-rate-ceiling
+- investment-grade
+- low-default-risk
+- leveraged-buyout
+- recovery-rate
+- sum-of-parts
+- high-frequency-trading
+- algorithmic-trading
+- dcf-analysis
+- arbitrage
+- ' exposure-at-default'
+- unexpected-loss
+- rating-migration
+- comparable-analysis
+- expected-loss
+- investment-analysis
+- market-efficiency
+- economic-value-added
+- credit-migration
+- default-probability
+- order-flow
+- credit-spreads
+- trading-multiples
+- bid-ask-spread
+- financial-markets
+- probabilty-of-default
+- price-discovery
+- loss-given-default
+- precedent-transactions
+- liquidity
+- ipo-valuation
+- market-multiple
+- market-impact
+- price-to-earnings
+title: Week 1 Advanced Financial Analysis and Valuation
+type: course-note
 ---
+--
+
+
 
 # Week 1 Advanced Financial Analysis and Valuation
 

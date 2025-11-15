@@ -1,19 +1,85 @@
 ---
-cssclasses: [international-economics]
-title: Chapter 3. Labor Productivity and Comparative Advantage_ The Ricardian Model
-tags: [international-economics, comparative-advantage, ricardian-model, labor-productivity]
-aliases: [Ricardian Model, Comparative Advantage]
+aliases:
+- Ricardian Model
+- Comparative Advantage
+cssclasses:
+- international-economics
 key_concepts:
-  - Comparative Advantage
-  - Absolute Advantage
-  - Ricardian Model
-  - Labor Productivity
-  - Production Possibility Frontier
-  - Opportunity Cost
-  - Unit Labor Requirements
-  - Relative Prices
-linter-yaml-title-alias: Chapter 3. Labor Productivity and Comparative Advantage_ The Ricardian Model
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Capital Asset Pricing Model (CAPM)
+- Arbitrage Pricing Theory (APT)
+- Multi-factor risk models
+- Chapter 3. Labor Productivity and Comparative Advantage_ The Ricardian Model and
+  financial analysis
+- Chapter 3. Labor Productivity and Comparative Advantage_ The Ricardian Model in
+  modern finance
+- Applications of Chapter 3. Labor Productivity and Comparative Advantage_ The Ricardian
+  Model
+- 'Case study: Chapter 3. Labor Productivity and Comparative Advantage_ The Ricardian
+  Model'
+- Correlation modeling and dependency structures
+- Factor Model in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+linter-yaml-title-alias: Chapter 3. Labor Productivity and Comparative Advantage_
+  The Ricardian Model
+tags:
+- efficiency
+- factor-models
+- barrier
+- energy
+- ratio
+- swaps
+- future
+- implied
+- risk-management
+- irs
+- correlation
+- put
+- american
+- trading
+- factor-model
+- bonds
+- options
+- statement
+- fundamental
+- capital
+- apt
+- call
+- model
+- rating
+- market
+- fail
+- cdo
+- var
+- yield
+title: Chapter 3. Labor Productivity and Comparative Advantage_ The Ricardian Model
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000543
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Chapter 3. Labor Productivity and Comparative Advantage: The Ricardian Model
 

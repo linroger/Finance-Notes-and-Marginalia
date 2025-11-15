@@ -1,22 +1,68 @@
 ---
 tags:
-  - cdx_index
-  - credit_derivatives
-  - credit_index
-  - dodd_frank
-  - itraxx_index
+- cds
+- itraxx_index
+- eur
+- multiple
+- hedge
+- diversification
+- collateralized
+- asset-allocation
+- commodity
+- dodd-frank
+- fundamental
+- cdx_index
+- credit_index
+- dodd_frank
+- momentum
+- optimization
+- capital
+- free-cash-flow
+- credit_derivatives
+- pricing
+- counterparty
+- put
+- trading
+- bond
+- valuation
 aliases:
-  - CDS indexes
-  - CDX
-  - Credit Derivative Indexes
-  - iTraxx
+- CDS indexes
+- CDX
+- Credit Derivative Indexes
+- iTraxx
 key_concepts:
-  - CDS market
-  - Counterparty risk
-  - Credit derivative indexes
-  - Dodd-Frank Act
-  - Investment grade corporate credits
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial derivatives pricing and valuation
+- Asset Allocation in financial markets
+- Dodd Frank in financial markets
+- Free Cash Flow in financial markets
+- Risk hedging strategies and instruments
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000336
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 10.5  CREDIT DERIVATIVE INDEXES  
 

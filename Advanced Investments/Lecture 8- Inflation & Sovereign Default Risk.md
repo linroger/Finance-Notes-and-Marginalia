@@ -1,42 +1,95 @@
 ---
 title: Lecture 8 - Inflation & Sovereign Default Risk
 cssclasses:
-  - academia
-  - finance
+- academia
+- finance
 tags:
-  - cpi
-  - inflation
-  - nominal_returns
-  - purchasing_power
-  - real_returns
-  - hyperinflation
-  - tips
-  - real_assets
-  - nominal_assets
-  - sovereign_default
-  - debt_crisis
-  - cpi_index
-  - inflation_hedging
+- delta
+- risk-free
+- volatility
+- multiple
+- eur
+- hedge
+- binomial-model
+- probability
+- margin
+- continuous-time-pricing
+- energy
+- discount-rate
+- forward
+- future
+- implied
+- time-series
+- counterparty-risk
+- caplet
+- yield-curve
+- dividend
+- gamma
+- correlation
+- hedging
+- covariance
+- coherent-risk-measure
+- cds
+- arbitrage-opportunity
+- capital-asset-pricing
+- asset-allocation
+- conditional-var
+- convexity-adjustment
+- arbitrage-pricing
+- credit-default-swap
+- black-scholes-model
+- credit-derivatives
 aliases:
-  - Lecture 8
-  - Sovereign Risk
-  - Inflation Risk
-  - Real Asset Allocation
+- Lecture 8
+- Sovereign Risk
+- Inflation Risk
+- Real Asset Allocation
 key_concepts:
-  - Asset Mix and Portfolio
-  - Consumer Price Index (CPI)
-  - Inflation and Purchasing Power
-  - Long-term Investment Impact
-  - Nominal vs. Real Returns
-  - Hyperinflation episodes
-  - Treasury Inflation Protected Securities (TIPS)
-  - Real vs nominal assets
-  - Stock-bond correlation in inflationary periods
-  - Gold as inflation hedge
-  - Sovereign default risk
-  - Historical debt crises
-  - German hyperinflation case study
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Correlation analysis and dependency structures
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Capital Asset Pricing Model and risk-return tradeoff
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Delta hedging strategies in options markets
+- Discount Rate in financial markets
+- Exchange Rate in financial markets
+- Gamma risk and convexity adjustments in options
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Mean Variance in financial markets
+- Risk Free in financial markets
+- Term Structure in financial markets
+- Time Series in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Zero Coupon in financial markets
+type: course-note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000126
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
+
 
 # Lecture 8 - Inflation & Sovereign Default Risk
 

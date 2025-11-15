@@ -1,25 +1,173 @@
 ---
-title: Option Model Handbook,  Part III European Option Pricing With QuantLib Python
-source: 
-  https://gouthamanbalaraman.com/blog/european-option-binomial-tree-quantlib-python.html
+academic_level: graduate
+aliases:
+- Option Pricing with QuantLib
+- QuantLib European Options
 description: Demonstrates how to price European options using QuantLib Python. Methods
   using Black-Scholes-Merton formula and binomial tree will be discussed.
-tags:
-  - aapl_option
-  - binomial_tree
-  - black_scholes_merton
-  - european_option_pricing
-  - quantlib_python
-aliases:
-  - Option Pricing with QuantLib
-  - QuantLib European Options
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000038
 key_concepts:
-  - AAPL call option
-  - Binomial tree method
-  - Black-Scholes-Merton formula
-  - European option pricing
-  - QuantLib Python example
+- Black-Scholes option pricing model and continuous-time finance
+- Binomial option pricing model and lattice methods
+- Options Greeks and sensitivity analysis for risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- QuantLib library and quantitative finance implementation
+- Alpha generation and active portfolio management
+- Volatility modeling and estimation techniques
+- Alpha generation and active return measurement
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Cost of Equity and Expected Returns
+- Black-Scholes Option Pricing Model and Its Applications
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Hedge Strategies and Basis Risk Management
+- American Option Pricing and Early Exercise Premium
+- Option Valuation and Exercise Strategies
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+source: https://gouthamanbalaraman.com/blog/european-option-binomial-tree-quantlib-python.html
+status: active
+tags:
+- asset-allocation
+- binomial-model
+- black-scholes-model
+- capital-budgeting
+- capital-structure
+- caplet
+- cash-flow-modeling
+- charting
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- cost-of-capital
+- credit-rating
+- data-visualization
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- binomial-tree
+- straddles
+- extreme-value-theory
+- american-options
+- partial-differential-equation
+- book-to-market
+- risk-neutral-valuation
+- backwardation
+- volatility-analysis
+- style-analysis
+- option-strategies
+- capital-asset-pricing-model
+- clearinghouse
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- volatility-surface
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- monte-carlo-var
+- options-trading
+- forward-contracts
+- fama-french
+- price-to-earnings
+- bsm-model
+- black-scholes-formula
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- quantitative-finance
+- crr-model
+- systematic-risk
+- protective-puts
+- alpha
+- security-market-line
+- idiosyncratic-risk
+- roll-yield
+- beta
+- risk-premium
+- put-options
+- affine-term-structure
+- multi-period-binomial
+- capm
+- momentum
+- basis-risk
+- market-risk-premium
+- discrete-time-pricing
+- covered-calls
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- sum-of-parts
+- european-options
+- lattice-models
+- strangles
+- cox-ross-rubinstein
+- short-rate-models
+- optional-exercise
+- efficient-frontier
+- marking-to-market
+- binomial-option-pricing
+- multi-factor-models
+- ito-calculus
+- trading-multiples
+- iron-condors
+- option-pricing
+- financial-markets
+- size-effect
+- precedent-transactions
+- lognormal-distribution
+- ipo-valuation
+- market-multiple
+- ' recombining-trees'
+- futures-contracts
+- apt
+title: Option Model Handbook,  Part III European Option Pricing With QuantLib Python
+type: note
 ---
+--
+
+
 
 # Option Model Handbook, Part III European Option Pricing With QuantLib Python
 

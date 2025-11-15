@@ -1,25 +1,83 @@
 ---
 title: Currency Swap Basics
 source: https://www.investopedia.com/articles/forex/11/introduction-currency-swaps.asp
-description: Find out what makes currency swaps unique and slightly more complicated than other types of swaps.
+description: Find out what makes currency swaps unique and slightly more complicated
+  than other types of swaps.
 tags:
-  - currency_swap
-  - exchange_rate_risk
-  - fx_swap
-  - hedging
-  - interest_rates
+- cross-currency-swap
+- credit-rating
+- hedge
+- swap
+- caplet
+- capital-adequacy
+- counterparty
+- hedging
+- currency-markets
+- american
+- bond
+- duration-analysis
+- spread
+- banking-regulation
+- basel-accord
+- arbitrage-opportunity
+- dynamic-hedging
+- equity-index-swap
+- ito
+- usd
+- maturity
+- fundamental
+- spot-rate
+- capital
+- equity
+- exchange-rate
+- currency-hedging
+- delta-hedging
+- credit
+- convexity-adjustment
+- debit-valuation-adjustment
+- call
+- market
+- currency
+- forex
 aliases:
-  - FX swap
-  - cross-currency swap
-  - currency exchange
+- FX swap
+- cross-currency swap
+- currency exchange
 key_concepts:
-  - Borrow foreign exchange
-  - Exchange currencies
-  - Exchange-rate risk
-  - Interest rate arbitrage
-  - Offsetting loans
- 
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Interest rate swaps and fixed income derivatives
+- Currency swaps and foreign exchange risk management
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Exchange Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Spot Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000080
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
 
 
 Currency swaps are an essential financial instrument utilized by banks, multinational corporations, and institutional investors. Although these type of swaps function in a similar fashion to interest rate swaps and equity swaps, there are some major fundamental qualities that make currency swaps unique and thus slightly more complicated.

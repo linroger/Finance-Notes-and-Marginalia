@@ -1,23 +1,189 @@
 ---
-title: DOLLAR GENERAL CASE STUDY
-cssclasses:
-  - academia
-tags:
-  - dollar_general
-  - financial_performance
-  - peer_comparison
-  - profit_margins
-  - revenue_growth
+academic_level: graduate
 aliases:
-  - DG Performance
-  - Dollar General Case
+- DG Performance
+- Dollar General Case
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000221
 key_concepts:
-  - Gross margin erosion
-  - Peer group comparison
-  - Profit margin decline
-  - ROA and ROE deterioration
-  - Revenue growth slowdown
+- Options Greeks and sensitivity analysis for risk management
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Distressed Investing and Debt Restructuring
+- Flexibility Value in Capital Budgeting
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Credit Default Swaps and CDS Pricing
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Option to Expand and Investment Timing
+- Private Equity Investment Returns and Value Creation
+- CDS Spreads and Implied Default Probabilities
+- Real Options in Strategic Investment Decisions
+- Credit Spreads and Rating Migration Analysis
+- Market Microstructure and Liquidity Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Credit Risk Transfer and Synthetic Instruments
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- asset-allocation
+- asset-backed-securities
+- banking-regulation
+- basel-accord
+- bid-ask-spread
+- capital-adequacy
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cost-of-capital
+- credit-rating
+- dcf-valuation
+- delta-hedging
+- discounted-cash-flow
+- hedging
+- leveraged-buyout
+- hull-white
+- cir-model
+- dcf-analysis
+- expected-shortfall
+- extreme-value-theory
+- arbitrage
+- book-to-market
+- exchange-offers
+- backwardation
+- option-to-abandon
+- volatility-analysis
+- style-analysis
+- leverage-ratio
+- cramdown
+- timing-options
+- unexpected-loss
+- clearinghouse
+- debt-restructuring
+- cds-spreads
+- arbitrage-pricing-theory
+- hedge-ratio
+- private-equity
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- distressed-investing
+- monte-carlo-var
+- market-impact
+- forward-contracts
+- price-to-earnings
+- fama-french
+- recovery-rate
+- real-options
+- strategic-investment
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- debt-capacity
+- expected-loss
+- market-efficiency
+- quantitative-finance
+- order-flow
+- default-leg
+- foreign-recurrency
+- cds-arbitrage
+- investment-return
+- probabilty-of-default
+- liquidity
+- roll-yield
+- risk-premium
+- cds-coupons
+- affine-term-structure
+- equity-kickers
+- lbo-valuation
+- algorithmic-trading
+- option-to-expand
+- momentum
+- basis-risk
+- cds-bond-basis
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- value-at-risk
+- flexibility-value
+- bootstrap-strategy
+- management-buyout
+- blocker-strategy
+- risky-continuation
+- factor-models
+- creditor-committees
+- risk-management
+- convergence
+- var-backtesting
+- tender-offers
+- sum-of-parts
+- ' DIP-financing'
+- high-frequency-trading
+- conditional-var
+- short-rate-models
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- premium-leg
+- multi-factor-models
+- trading-multiples
+- financial-markets
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- cds-implied-probability
+- apt
+- natural-resource-valuation
+- credit-default-swaps
+title: DOLLAR GENERAL CASE STUDY
+type: case-study
 ---
+--
+
+
 
 # DOLLAR GENERAL CASE STUDY
 

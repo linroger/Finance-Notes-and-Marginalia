@@ -1,25 +1,178 @@
 ---
-title: Mastering Data Analytics with Matplotlib in Python
-source: 
-  https://blog.enterprisedna.co/mastering-data-analytics-with-matplotlib-in-python/
-description:
-tags:
-  - data_analysis
-  - data_visualization
-  - matplotlib
-  - plotting
-  - python
+academic_level: graduate
 aliases:
-  - Data Visualization with Python
-  - Matplotlib Guide
-  - Matplotlib Tutorial
+- Data Visualization with Python
+- Matplotlib Guide
+- Matplotlib Tutorial
+description: null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000055
 key_concepts:
-  - Data visualization
-  - Interactive plots
-  - Matplotlib library
-  - Plot customization
-  - Python plotting
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Cost of Equity and Expected Returns
+- Forward Curves and Roll Strategies
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Time Series Analysis in Financial Markets
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Cointegration and Statistical Arbitrage
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- GARCH Models and Volatility Forecasting
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+source: https://blog.enterprisedna.co/mastering-data-analytics-with-matplotlib-in-python/
+status: active
+tags:
+- arima
+- array-computing
+- binomial-model
+- black-scholes-model
+- caplet
+- charting
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- credit-rating
+- data-analysis
+- data-science
+- data-visualization
+- debit-valuation-adjustment
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- energy-derivatives
+- style-analysis
+- option-strategies
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- forward-curves
+- monte-carlo-var
+- options-trading
+- commodity-trading
+- forward-contracts
+- stationarity
+- price-to-earnings
+- fama-french
+- recovery-rate
+- garch
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- unit-roots
+- expected-loss
+- systematic-risk
+- protective-puts
+- alpha
+- security-market-line
+- probabilty-of-default
+- idiosyncratic-risk
+- storage-costs
+- roll-yield
+- risk-premium
+- beta
+- put-options
+- affine-term-structure
+- capm
+- momentum
+- basis-risk
+- market-risk-premium
+- volatility-modeling
+- regime-switching
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- economic-value-added
+- value-at-risk
+- metals-trading
+- kalman-filter
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- convergence
+- var-backtesting
+- arima-models
+- state-space-models
+- sum-of-parts
+- seasonality
+- strangles
+- cointegration
+- short-rate-models
+- efficient-frontier
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- granger-causality
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+title: Mastering Data Analytics with Matplotlib in Python
+type: note
 ---
+--
+
+
 
 # Mastering Data Analytics with Matplotlib in Python
 - Introduction to Data Visualization

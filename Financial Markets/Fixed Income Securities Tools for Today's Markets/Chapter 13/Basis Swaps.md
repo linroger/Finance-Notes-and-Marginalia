@@ -1,20 +1,68 @@
 ---
 tags:
-  - basis_swaps
-  - cross_currency_swaps
-  - euribor
-  - sofr
-  - str
+- default
+- cds
+- risk-free
+- eur
+- hedge
+- collateralized
+- implied
+- swap
+- cross-currency
+- euribor
+- pricing
+- hedging
+- cross_currency_swaps
+- put
+- trading
+- str
+- bond
+- overnight
+- spread
+- credit-risk
+- measure
+- sofr
+- basis_swaps
+- fed-funds
 aliases:
-  - Basis Swap
-  - STR vs Euribor
+- Basis Swap
+- STR vs Euribor
 key_concepts:
-  - Basis risk definition
-  - Credit risk perspective
-  - Floating rate on one leg
-  - Hedging basis risk
-  - STR vs Euribor swap
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Credit Risk in financial markets
+- Cross Currency in financial markets
+- Credit default probability and recovery modeling
+- Exchange Rate in financial markets
+- Fed Funds in financial markets
+- Risk hedging strategies and instruments
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- Risk Free in financial markets
+- SOFR implementation and overnight rate markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000237
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 13.6 BASIS SWAPS  
 

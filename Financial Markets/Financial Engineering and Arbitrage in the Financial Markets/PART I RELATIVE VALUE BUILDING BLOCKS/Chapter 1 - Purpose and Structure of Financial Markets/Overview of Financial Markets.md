@@ -1,25 +1,66 @@
 ---
 tags:
-  - financial_markets
-  - hedgers
-  - investment_banks
-  - investors
-  - issuers
-  - primary_markets
-  - secondary_markets
+- arbitrage
+- ito
+- secondary_markets
+- issuers
+- hedge
+- primary_markets
+- forward
+- future
+- capital
+- equity
+- dividend
+- financial_markets
+- option
+- hedgers
+- put
+- trading
+- investors
+- bond
+- call
+- crisis
+- rating
+- market
+- spread
+- investment_banks
+- var
+- mortgage
+- roa
 aliases:
-  - Financial Market Overview
-  - Market Overview
-  - Overview
+- Financial Market Overview
+- Market Overview
+- Overview
 key_concepts:
-  - Commercial bank lending
-  - Excess savings allocation
-  - Government bond issuance
-  - Hedgers and risk takers
-  - Investment bank offerings
-  - Investors and intermediaries
-  - Primary and secondary markets
+- Option valuation and hedging strategies
+- Fixed income securities and yield curve analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Arbitrage pricing theory and no-arbitrage principle
+- Risk hedging strategies and instruments
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000328
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 1.1 OVERVIEW OF FINANCIAL MARKETS  
 

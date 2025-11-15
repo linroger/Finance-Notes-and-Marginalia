@@ -1,21 +1,55 @@
 ---
 tags:
-  - bond_pricing
-  - duration
-  - dv01
-  - hqm_par_rate_curve
-  - key_rate_shifts
+- duration
+- hqm_par_rate_curve
+- dv01
+- key_rate_shifts
+- forward
+- portfolio
+- bond_pricing
+- implied
+- term-structure
+- hedging
+- apt
+- put
+- market
+- bond
+- forward-rate
 aliases:
-  - HQM Curve
-  - JNJ Bonds
-  - Key Rate Shifts
+- HQM Curve
+- JNJ Bonds
+- Key Rate Shifts
 key_concepts:
-  - 20-year key-rate shift
-  - HQM par rate curve
-  - Key rate duration
-  - Key rate framework
-  - Par rate shifts
+- Bond duration and interest rate risk
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Duration and interest rate risk measurement
+- Forward Rate in financial markets
+- Term Structure in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000209
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 5.3 KEY RATES: SHIFTS  
 

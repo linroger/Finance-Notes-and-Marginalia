@@ -1,25 +1,147 @@
 ---
-title: Valuing European Option Using the Heston Model in QuantLib Python
-source: 
-  https://gouthamanbalaraman.com/blog/valuing-european-option-heston-model-quantLib.html
+academic_level: graduate
+aliases:
+- Heston Option Pricing
+- QuantLib Heston
 description: Introduces an example on how to value European options using Heston model
   in Quantlib Python
-tags:
-  - aapl_option
-  - european_option
-  - heston_model
-  - quantlib_python
-  - stochastic_volatility
-aliases:
-  - Heston Option Pricing
-  - QuantLib Heston
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000036
 key_concepts:
-  - Black-Scholes comparison
-  - European option valuation
-  - Heston model
-  - QuantLib Python example
-  - Stochastic volatility
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Net present value (NPV) and investment evaluation
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Vasicek model and mean-reverting interest rates
+- QuantLib library and quantitative finance implementation
+- Volatility modeling and estimation techniques
+- Correlation analysis and dependency structures
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Black-Scholes Option Pricing Model and Its Applications
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Option Valuation and Exercise Strategies
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+source: https://gouthamanbalaraman.com/blog/valuing-european-option-heston-model-quantLib.html
+status: active
+tags:
+- affine-term-structure
+- array-computing
+- binomial-model
+- black-scholes-model
+- capital-budgeting
+- capital-structure
+- caplet
+- cash-flow-modeling
+- charting
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- cost-of-capital
+- credit-rating
+- put-options
+- bsm-model
+- leveraged-buyout
+- hull-white
+- sum-of-parts
+- european-options
+- call-options
+- price-to-earnings
+- cir-model
+- black-scholes-formula
+- butterfly-spreads
+- strangles
+- momentum
+- expected-shortfall
+- straddles
+- basis-risk
+- parametric-var
+- partial-differential-equation
+- var-methodologies
+- historical-var
+- extreme-value-theory
+- book-to-market
+- mean-reversion
+- contango
+- risk-neutral-valuation
+- backwardation
+- lognormal-models
+- covered-calls
+- volatility-analysis
+- style-analysis
+- short-rate-models
+- option-strategies
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- comparable-analysis
+- clearinghouse
+- investment-analysis
+- economic-value-added
+- quantitative-finance
+- marking-to-market
+- value-at-risk
+- arbitrage-pricing-theory
+- ito-calculus
+- hedge-ratio
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- option-pricing
+- protective-puts
+- market-price-of-risk
+- volatility-surface
+- financial-markets
+- size-effect
+- factor-models
+- precedent-transactions
+- value-factor
+- vasicek-model
+- lognormal-distribution
+- ipo-valuation
+- monte-carlo-var
+- risk-management
+- dcf-analysis
+- convergence
+- options-trading
+- var-backtesting
+- futures-contracts
+- market-multiple
+- roll-yield
+- apt
+- risk-premium
+- forward-contracts
+- fama-french
+title: Valuing European Option Using the Heston Model in QuantLib Python
+type: note
 ---
+--
+
+
 
 # Valuing European Option Using the Heston Model in QuantLib Python
 

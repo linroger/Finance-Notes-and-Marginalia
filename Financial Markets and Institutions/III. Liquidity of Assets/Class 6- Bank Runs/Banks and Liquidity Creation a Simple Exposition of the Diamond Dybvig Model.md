@@ -1,38 +1,105 @@
 ---
 cssclasses:
-  - academia
-title: "Banks and Liquidity Creation: A Simple Exposition of the Diamond-Dybvig Model"
-linter-yaml-title-alias: "Banks and Liquidity Creation: A Simple Exposition of the Diamond-Dybvig Model"
+- academia
+title: 'Banks and Liquidity Creation: A Simple Exposition of the Diamond-Dybvig Model'
+linter-yaml-title-alias: 'Banks and Liquidity Creation: A Simple Exposition of the
+  Diamond-Dybvig Model'
 tags:
-  - bank_liquidity
-  - bank_runs
-  - demand_deposits
-  - diamond_dybvig_model
-  - financial_crises
-  - liquidity_creation
-  - deposit_insurance
-  - bank_panics
-  - maturity_transformation
-  - systemic_risk
+- eur
+- multiple
+- probability
+- margin
+- discount-rate
+- forward
+- future
+- regulation
+- risk-management
+- forwards
+- gamma
+- option
+- demand_deposits
+- bank_runs
+- regulatory-capital
+- deposit_insurance
+- caps-floors
+- put
+- hedge-fund
+- deposit-insurance
+- financial-markets
+- trading
+- liquidity_creation
+- gold
+- structured
+- systemic_risk
+- diamond_dybvig_model
+- financial_crises
+- payoff
+- ito
+- event-study
+- fundamental
+- equity
+- discount
+- bank_liquidity
+- private-equity
+- bank_panics
+- bailout
+- maturity_transformation
+- yield-to-maturity
 aliases:
-  - "Bank Runs"
-  - "Diamond-Dybvig"
-  - "Liquidity Creation"
-  - "Diamond-Dybvig Model"
+- Bank Runs
+- Diamond-Dybvig
+- Liquidity Creation
+- Diamond-Dybvig Model
 key_concepts:
-  - Bank run prevention mechanisms
-  - Banks create liquidity through maturity transformation
-  - Demand for liquid assets by consumers
-  - Deposit insurance as run prevention
-  - Illiquid asset valuation and early liquidation
-  - Self-fulfilling prophecies in banking
-  - Multiple equilibria and coordination failures
-  - Suspension of convertibility
-  - Risk-sharing through deposit contracts
-  - Entrepreneurial liquidity demand
-  - Nash equilibrium in bank runs
-  - Government guarantees and taxation authority
+- Illiquid asset valuation and early liquidation
+- Nash equilibrium in bank runs
+- Self-fulfilling prophecies in banking
+- Multiple equilibria and coordination failures
+- Bank run prevention mechanisms
+- Banks create liquidity through maturity transformation
+- Government guarantees and taxation authority
+- Risk-sharing through deposit contracts
+- Deposit insurance as run prevention
+- Entrepreneurial liquidity demand
+- Demand for liquid assets by consumers
+- Suspension of convertibility
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Time series analysis and forecasting models
+- Panel data models and fixed/random effects
+- Causal inference and identification strategies
+- Discount Rate in financial markets
+- Gamma risk and convexity adjustments in options
+- Market liquidity analysis and liquidity risk
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000057
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Banks and Liquidity Creation: A Simple Exposition of the Diamond-Dybvig Model
 

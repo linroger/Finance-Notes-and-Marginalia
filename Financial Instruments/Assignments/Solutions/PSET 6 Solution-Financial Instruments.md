@@ -1,22 +1,156 @@
 ---
-linter-yaml-title-alias: Solution to Homework 6
-title: Solution to Homework 6
-tags:
-  - black_scholes_merton
-  - call_option
-  - implied_volatility
-  - sp500
-  - structured_security
+academic_level: graduate
 aliases:
-  - BMS implied volatility
-  - Homework 6 Solution
+- BMS implied volatility
+- Homework 6 Solution
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000115
 key_concepts:
-  - Black-Scholes model
-  - Implied volatility calculation
-  - Option pricing
-  - PLUS security payoff
-  - Structured security valuation
+- Black-Scholes option pricing model and continuous-time finance
+- Implied volatility calculation and volatility surface analysis
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Collateralized debt obligations (CDO) and tranche structure
+- Beta estimation and systematic risk measurement
+- Volatility modeling and estimation techniques
+- Beta estimation and systematic risk measurement
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Auto-Callable Notes and Barrier Options
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Capital Asset Pricing Model and Beta Analysis
+- Forward Rates and Curve Construction Methods
+- Equity-Linked Notes and Market-Linked Securities
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Cost of Equity and Expected Returns
+- Black-Scholes Option Pricing Model and Its Applications
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Structured Products and Principal Protection
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Term Structure of Interest Rates and Yield Curves
+- Option Valuation and Exercise Strategies
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: Solution to Homework 6
+professional_application: theoreti
+status: active
+tags:
+- beta-estimation
+- binomial-model
+- black-scholes-model
+- caplet
+- cds
+- collateralized-debt-obligation
+- continuous-time-pricing
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- default-probability
+- delta-hedging
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- partial-differential-equation
+- risk-neutral-valuation
+- volatility-analysis
+- style-analysis
+- option-strategies
+- yield-curve
+- capital-asset-pricing-model
+- interpolation
+- arbitrage-pricing-theory
+- market-price-of-risk
+- volatility-surface
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- monte-carlo-var
+- options-trading
+- fama-french
+- forward-rates
+- bsm-model
+- black-scholes-formula
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- quantitative-finance
+- forward-curve
+- market-linked-notes
+- systematic-risk
+- protective-puts
+- alpha
+- security-market-line
+- reverse-convertibles
+- curve-fitting
+- idiosyncratic-risk
+- risk-premium
+- beta
+- spot-rates
+- put-options
+- affine-term-structure
+- capm
+- momentum
+- market-risk-premium
+- term-structure
+- covered-calls
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- par-yield
+- investment-analysis
+- value-at-risk
+- factor-models
+- risk-management
+- var-backtesting
+- barrier-options
+- european-options
+- yield-curve-shocks
+- principal-protected-notes
+- strangles
+- conditional-var
+- equity-linked-notes
+- short-rate-models
+- efficient-frontier
+- auto-callables
+- multi-factor-models
+- ito-calculus
+- structured-notes
+- iron-condors
+- option-pricing
+- financial-markets
+- size-effect
+- knock-out-options
+- lognormal-distribution
+- apt
+- bootstrap-method
+title: Solution to Homework 6
+type: case-study
 ---
+--
+
+
 
 # Solution to Homework 6
 

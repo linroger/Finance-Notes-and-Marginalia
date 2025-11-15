@@ -1,20 +1,48 @@
 ---
 tags:
-  - concave_function
-  - fair_gamble
-  - risk_aversion
-  - risk_premium
-  - utility_function
+- risk_premium
+- risk-management
+- utility_function
+- premium
+- risk_aversion
+- call
+- measure
+- financial-engineering
+- probability
+- concave_function
+- quantitative-finance
+- financial-markets
+- var
+- fair_gamble
+- derivative
 aliases:
-  - Certainty Equivalent
-  - Risk Attitudes
+- Certainty Equivalent
+- Risk Attitudes
 key_concepts:
-  - Attitudes towards risk
-  - Fair gamble definition
-  - Quantitative risk aversion
-  - Risk-averse individual
-  - Utility function preferences
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000436
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 5.5 Risk aversion  
 

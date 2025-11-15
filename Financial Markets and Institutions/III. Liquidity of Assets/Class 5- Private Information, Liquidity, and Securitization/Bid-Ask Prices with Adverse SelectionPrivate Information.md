@@ -1,37 +1,85 @@
 ---
 cssclasses:
-  - academia
-title: "Lecture Notes: Bid-Ask Prices with Adverse Selection/Private Information"
-linter-yaml-title-alias: "Lecture Notes: Bid-Ask Prices with Adverse Selection/Private Information"
+- academia
+title: 'Lecture Notes: Bid-Ask Prices with Adverse Selection/Private Information'
+linter-yaml-title-alias: 'Lecture Notes: Bid-Ask Prices with Adverse Selection/Private
+  Information'
 tags:
-  - adverse_selection
-  - bid_ask_spread
-  - liquidity
-  - market_makers
-  - private_information
-  - market_microstructure
-  - asymmetric_information
-  - financial_markets
-  - informed_trading
-  - price_discovery
+- efficiency
+- market_microstructure
+- regression-discontinuity
+- informed_trading
+- tracking-error
+- bid_ask_spread
+- adverse_selection
+- bid-ask
+- probability
+- credit-spread
+- price_discovery
+- asymmetric_information
+- future
+- market-microstructure
+- risk-management
+- financial_markets
+- private-equity
+- pricing
+- premium
+- market
+- model
+- trading
+- cdo
+- liquidity
+- financial-markets
+- market_makers
+- spread
+- private_information
+- dark-pool
+- mean-reversion
+- modern-portfolio-theory
 aliases:
-  - "Adverse Selection"
-  - "Bid-Ask"
-  - "Information Asymmetry"
-  - "Market Microstructure"
-  - "Bid-Ask Spreads with Private Information"
+- Adverse Selection
+- Bid-Ask
+- Information Asymmetry
+- Market Microstructure
+- Bid-Ask Spreads with Private Information
 key_concepts:
-  - Bid-ask spread with adverse selection
-  - Informed traders vs liquidity traders
-  - Market maker zero profit condition
-  - Price adjustment mechanisms
-  - Private information impact on spreads
-  - Adverse selection in financial markets
-  - Market microstructure theory
-  - Information asymmetry effects
-  - Trading behavior with private information
-  - Price discovery process
+- Informed traders vs liquidity traders
+- Information asymmetry effects
+- Price discovery process
+- Price adjustment mechanisms
+- Market microstructure theory
+- Adverse selection in financial markets
+- Trading behavior with private information
+- Private information impact on spreads
+- Market maker zero profit condition
+- Bid-ask spread with adverse selection
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Bid Ask in financial markets
+- Market liquidity analysis and liquidity risk
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000045
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Bid-Ask Prices with Adverse Selection/Private Information
 

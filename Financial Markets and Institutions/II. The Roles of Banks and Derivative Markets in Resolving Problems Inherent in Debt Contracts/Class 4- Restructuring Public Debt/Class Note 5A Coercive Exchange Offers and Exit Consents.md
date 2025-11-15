@@ -1,30 +1,48 @@
 ---
 cssclasses:
-  - academia
-title: "Class Note 5A: Coercive Exchange Offers and Exit Consents"
+- academia
+title: 'Class Note 5A: Coercive Exchange Offers and Exit Consents'
 tags:
-  - bondholders
-  - coercive_exchange_offers
-  - covenant_changes
-  - exit_consents
-  - trust_indenture_act
-  - debt_restructuring
-  - consent_payments
-  - seniority
+- bondholders
+- trust_indenture_act
+- covenant_changes
+- debt_restructuring
+- consent_payments
+- seniority
+- coercive_exchange_offers
+- exit_consents
+- machine-learning
+- private-equity
+- financial-markets
+- credit-rating
+- options
+- tracking-error
+- trading
+- derivatives
+- banking
+- t-bonds
+- enterprise-value
+- mean-reversion
 aliases:
-  - Coercive and Exit Consents
-  - Consent Payment
-  - Exit Consent Vote
-  - Class Note 5A
+- Coercive and Exit Consents
+- Consent Payment
+- Exit Consent Vote
+- Class Note 5A
 key_concepts:
-  - Change in covenants
-  - Coercive exchange offers
-  - Consent payment
-  - Exit consent vote
-  - New bond exchange
-  - Trust Indenture Act implications
-  - Seniority changes
-  - Collective action problems
+- Collective action problems
+- Seniority changes
+- Trust Indenture Act implications
+- Coercive exchange offers
+- Exit consent vote
+- Consent payment
+- New bond exchange
+- Change in covenants
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
 ---
 
 # Class Note 5A: Coercive Exchange Offers and Exit Consents

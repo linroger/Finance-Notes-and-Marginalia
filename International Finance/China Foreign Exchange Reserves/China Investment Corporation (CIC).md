@@ -1,27 +1,181 @@
 ---
+aliases:
+- CIC
+- China Investment Corp
+- Chinese Sovereign Wealth Fund
 cssclasses:
-  - academia
-title: China Investment Corporation (CIC)
-source: https://www.investopedia.com/terms/c/china-inv-corp.asp
+- academia
 description: China Investment Corporation is the sovereign wealth fund of China that
   invests in public and private assets to diversify foreign exchange holdings.
-tags:
-  - asset_management
-  - china_investment
-  - cic
-  - investment_strategy
-  - sovereign_wealth_fund
-aliases:
-  - CIC
-  - China Investment Corp
-  - Chinese Sovereign Wealth Fund
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000010
 key_concepts:
-  - China's sovereign wealth fund
-  - Global investments
-  - Investment principles
-  - Portfolio structure
-  - Subsidiaries and operations
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- China Investment Corporation (CIC) and financial analysis
+- China Investment Corporation (CIC) in modern finance
+- Applications of China Investment Corporation (CIC)
+- 'Case study: China Investment Corporation (CIC)'
+- Auto-Callable Notes and Barrier Options
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Equity-Linked Notes and Market-Linked Securities
+- Delta, Gamma, and Vega Hedging Techniques
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Forward Curves and Roll Strategies
+- Structured Products and Principal Protection
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- Private Equity Investment Returns and Value Creation
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Hedging Strategies and Risk Mitigation
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+source: https://www.investopedia.com/terms/c/china-inv-corp.asp
+tags:
+- credit
+- bonds
+- futures
+- portfolio
+- fixed-income
+- bond
+- var
+- basis
+- treasury
+- portfolio-optimization
+- risk
+- corporate-bond
+- risk-management
+- leveraged-buyout
+- asset-allocation
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- backwardation
+- volatility-analysis
+- energy-derivatives
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- clearinghouse
+- hedge-ratio
+- private-equity
+- market-price-of-risk
+- loss-given-default
+- roll-strategies
+- vasicek-model
+- dirty-price
+- forward-curves
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- debt-capacity
+- expected-loss
+- delta-hedging
+- market-linked-notes
+- investment-return
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- reverse-convertibles
+- gamma-hedging
+- hedge-effectiveness
+- storage-costs
+- roll-yield
+- risk-premium
+- put-options
+- affine-term-structure
+- equity-kickers
+- lbo-valuation
+- basis-risk
+- hedge-strategies
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- ornstein-uhlenbeck
+- rating-migration
+- investment-analysis
+- value-at-risk
+- bootstrap-strategy
+- metals-trading
+- management-buyout
+- convenience-yield
+- agricultural-commodities
+- convergence
+- var-backtesting
+- barrier-options
+- cross-hedging
+- seasonality
+- clean-price
+- principal-protected-notes
+- strangles
+- conditional-var
+- equity-linked-notes
+- short-rate-models
+- credit-migration
+- default-probability
+- marking-to-market
+- auto-callables
+- credit-spreads
+- structured-notes
+- iron-condors
+- financial-markets
+- static-hedging
+- knock-out-options
+- futures-contracts
+- current-yield
+title: China Investment Corporation (C
 ---
+--
 
 # China Investment Corporation (CIC)
 

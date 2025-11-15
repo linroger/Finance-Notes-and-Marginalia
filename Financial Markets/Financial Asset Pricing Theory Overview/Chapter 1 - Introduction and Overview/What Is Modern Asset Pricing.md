@@ -1,20 +1,66 @@
 ---
 tags:
-  - asset_allocation
-  - asset_pricing
-  - capital_budgeting
-  - capital_structure
-  - financial_markets
+- risk-free
+- volatility
+- ito
+- roe
+- probability
+- margin
+- asset-allocation
+- capital_budgeting
+- capital_structure
+- future
+- regulation
+- capital
+- financial_markets
+- pricing
+- distribution
+- covariance
+- premium
+- apt
+- credit
+- trading
+- asset_pricing
+- asset_allocation
+- capm
+- measure
+- valuation
 aliases:
-  - CAPM
-  - Modern Asset Pricing
+- CAPM
+- Modern Asset Pricing
 key_concepts:
-  - asset allocation
-  - capital budgeting decisions
-  - financial risk management
-  - pricing financial assets
-  - shareholders vs creditors
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Banking and credit intermediation
+- Bank balance sheet management
+- Asset Allocation in financial markets
+- Capital Asset Pricing Model and risk-return tradeoff
+- Interest Rate in financial markets
+- Risk Free in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000412
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 1.1 What is modern asset pricing?  
 

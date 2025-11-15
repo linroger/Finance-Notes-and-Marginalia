@@ -2,21 +2,89 @@
 linter-yaml-title-alias: Sizing Up the Fed’s Historic Coronavirus Crisis Intervention
 title: Sizing Up the Fed’s Historic Coronavirus Crisis Intervention
 tags:
-  - bond_market
-  - coronavirus_crisis
-  - federal_reserve
-  - market_intervention
-  - treasurys
+- eur
+- treasurys
+- tracking-error
+- hedge
+- coronavirus_crisis
+- market_intervention
+- future
+- swap
+- put
+- gold
+- bond
+- trading
+- hedge-fund
+- financial-markets
+- crisis
+- overnight
+- mortgage
+- measure
+- modern-portfolio-theory
+- derivatives
+- default
+- pandemic
+- bond_market
+- high-yield
+- repo
+- cross-currency
+- financial-crisis
+- distressed
+- private-equity
+- hedge-funds
+- federal_reserve
+- investment-strategy
+- market
+- currency
+- rating
+- treasury
+- commodities
+- banking
+- yield-to-maturity
 aliases:
-  - Coronavirus market intervention
-  - Fed's intervention
+- Coronavirus market intervention
+- Fed's intervention
 key_concepts:
-  - Agency mortgage-backed securities
-  - Federal Reserve actions
-  - Market stresses remain
-  - Repo market rates
-  - Treasury yield
+- Market stresses remain
+- Federal Reserve actions
+- Treasury yield
+- Agency mortgage-backed securities
+- Repo market rates
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
+- Cross Currency in financial markets
+- Credit default probability and recovery modeling
+- Risk hedging strategies and instruments
+- Market liquidity analysis and liquidity risk
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000018
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # WSJ-Sizing Up the Fed’s Historic Coronavirus Crisis Intervention
 

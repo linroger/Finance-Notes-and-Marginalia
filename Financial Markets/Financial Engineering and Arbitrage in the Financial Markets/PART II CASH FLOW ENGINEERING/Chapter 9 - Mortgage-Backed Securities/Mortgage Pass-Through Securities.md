@@ -1,21 +1,64 @@
 ---
 tags:
-  - interest_rates
-  - mbs
-  - mortgage_backed_securities
-  - pass_through_securities
-  - prepayment_risk
+- delta
+- duration
+- pass_through_securities
+- convexity
+- mortgage_backed_securities
+- maturity
+- coupon
+- prepayment
+- fundamental
+- yield-curve
+- pass-through
+- interest_rates
+- discount
+- option
+- mbs
+- put
+- call
+- bond
+- trading
+- prepayment_risk
+- mortgage
+- yield
+- interest-rate
 aliases:
-  - MBS
-  - Mortgage Pools
-  - Pass-Throughs
+- MBS
+- Mortgage Pools
+- Pass-Throughs
 key_concepts:
-  - Cash flow distribution
-  - Duration and convexity
-  - Mortgage pool information
-  - Prepayment risk
-  - Servicing fee
+- Option Greeks and risk sensitivities
+- Option valuation and hedging strategies
+- Bond duration and interest rate risk
+- Bond convexity and price-yield relationships
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Numerical methods in finance
+- Convexity adjustments for bond portfolio management
+- Delta hedging strategies in options markets
+- Duration and interest rate risk measurement
+- Interest Rate in financial markets
+- Pass Through in financial markets
+- Mortgage prepayment modeling and MBS analysis
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000343
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 9.3 MORTGAGE PASS-THROUGH SECURITIES  
 

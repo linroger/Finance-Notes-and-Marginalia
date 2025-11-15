@@ -1,17 +1,54 @@
 ---
 linter-yaml-title-alias: Oaktree And The Restructuring Of CIT Group (B)
 title: Oaktree and the Restructuring of CIT Group (b)
-cssclasses: ["academia"]
+cssclasses:
+- academia
 aliases:
-  - CIT Bankruptcy
-  - CIT Restructuring
-  - Oaktree CIT
+- CIT Bankruptcy
+- CIT Restructuring
+- Oaktree CIT
 key_concepts:
-  - CIT temporary liquidity guarantee
-  - Credit facility
-  - Lenders steering committee
-  - Restructuring plan
-  - Secured loan terms
+- Credit facility
+- Lenders steering committee
+- Restructuring plan
+- CIT temporary liquidity guarantee
+- Secured loan terms
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
+tags:
+- caps-floors
+- distressed
+- private-equity
+- financial-markets
+- leveraged-buyout
+- risk-management
+- mark-to-market
+- banking
+- capital-structure
+- stochastic-calculus
+- investment-strategy
+- restructuring
+- modern-portfolio-theory
+- ito-lemma
+- tracking-error
+- derivatives
+- regression-discontinuity
+- cap-floor
+- time-series
+- mean-reversion
 ---
 
 Oaktree and the Restructuring of CIT Group (a)

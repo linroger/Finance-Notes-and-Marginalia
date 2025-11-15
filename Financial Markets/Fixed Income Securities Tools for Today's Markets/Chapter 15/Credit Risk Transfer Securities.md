@@ -1,21 +1,74 @@
 ---
 tags:
-  - credit_risk
-  - crt_securities
-  - fnma
-  - gse
-  - mortgage_backed_securities
+- delta
+- default
+- pandemic
+- eur
+- hedge
+- mortgage_backed_securities
+- gse
+- senior
+- prepayment
+- future
+- swap
+- libor
+- black-scholes
+- mortgage
+- euribor
+- pricing
+- equity
+- option
+- tranche
+- bond
+- spread
+- credit_risk
+- fnma
+- crt_securities
+- credit-risk
 aliases:
-  - CAS
-  - CRT Securities
-  - STACR
+- CAS
+- CRT Securities
+- STACR
 key_concepts:
-  - CRT securities to public
-  - Default risk on mortgages
-  - GSEs sell default risk
-  - Investors buy bonds
-  - mortgage default risk transfer
+- Black-Scholes model and option pricing theory
+- Option Greeks and risk sensitivities
+- Option valuation and hedging strategies
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Black-Scholes option pricing model and its applications
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Delta hedging strategies in options markets
+- Risk hedging strategies and instruments
+- LIBOR transition and benchmark rate reform
+- Mortgage prepayment modeling and MBS analysis
+- Swaption pricing and interest rate option strategies
+- Term Structure in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000255
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 15.12 CREDIT RISK TRANSFER SECURITIES  
 

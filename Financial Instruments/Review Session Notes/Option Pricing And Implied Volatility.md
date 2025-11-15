@@ -1,32 +1,119 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Option Pricing and Implied Volatility
-title: Option Pricing and Implied Volatility
-tags:
-  - black_scholes_model
-  - call_option
-  - delta_hedging
-  - implied_volatility
-  - option_pricing
-  - normal_distribution
-  - put_option
-  - financial_mathematics
+academic_level: graduate
 aliases:
-  - BSM
-  - Black-Scholes
-  - Option Pricing Model
-  - Volatility Calculation
+- BSM
+- Black-Scholes
+- Option Pricing Model
+- Volatility Calculation
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000176
 key_concepts:
-  - Delta hedging parameters
-  - Implied volatility extraction
-  - Risk-free rate influence
-  - Maturity effects on pricing
-  - Stock price and strike price relationship
-  - Volatility parameter estimation
-  - Normal distribution application
-  - Non-linear equation solving
+- Black-Scholes option pricing model and continuous-time finance
+- Implied volatility calculation and volatility surface analysis
+- Options Greeks and sensitivity analysis for risk management
+- Delta hedging and dynamic replication strategies
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Collateralized debt obligations (CDO) and tranche structure
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Risk Measurement and VaR Backtesting
+- Delta, Gamma, and Vega Hedging Techniques
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Value at Risk and Expected Shortfall
+- Option Valuation and Exercise Strategies
+- Factor Models and Asset Pricing
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Hedging Strategies and Risk Mitigation
+- Options Trading Strategies and Risk Management
+- Dynamic vs Static Hedging in Practice
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: Option Pricing and Implied Volatility
+professional_application: theoreti
+status: active
+tags:
+- binomial-model
+- black-scholes-model
+- cds
+- collateralized-debt-obligation
+- continuous-time-pricing
+- convexity
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- default-probability
+- delta-hedging
+- derivatives
+- put-options
+- affine-term-structure
+- cross-hedging
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- momentum
+- strangles
+- expected-shortfall
+- straddles
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- basis-risk
+- var-methodologies
+- historical-var
+- hedge-strategies
+- book-to-market
+- mean-reversion
+- vega-hedging
+- lognormal-models
+- volatility-analysis
+- covered-calls
+- style-analysis
+- short-rate-models
+- option-strategies
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- quantitative-finance
+- value-at-risk
+- arbitrage-pricing-theory
+- multi-factor-models
+- iron-condors
+- protective-puts
+- market-price-of-risk
+- static-hedging
+- size-effect
+- factor-models
+- value-factor
+- vasicek-model
+- gamma-hedging
+- dynamic-hedging
+- hedge-effectiveness
+- monte-carlo-var
+- risk-management
+- var-backtesting
+- options-trading
+- apt
+- risk-premium
+- fama-french
+title: Option Pricing and Implied Volatility
+type: note
 ---
+--
+
+
 
 # BLACK-SCHOLES MODEL OF OPTION PRICING
 ## 1. PARAMETERS

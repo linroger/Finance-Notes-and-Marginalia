@@ -1,20 +1,55 @@
 ---
 tags:
-  - consumption_capm
-  - factor_pricing
-  - risk_adjusted_measures
-  - risk_neutral_measure
-  - state_price_deflator
+- risk-free
+- risk_adjusted_measures
+- probability
+- coupon
+- forward
+- state_price_deflator
+- pricing
+- apt
+- factor_pricing
+- model
+- bond
+- capm
+- yield
+- measure
+- risk_neutral_measure
+- interest-rate
+- consumption_capm
+- zero-coupon
 aliases:
-  - Chapter 11.7
-  - Concluding Chapter
+- Chapter 11.7
+- Concluding Chapter
 key_concepts:
-  - consumption-based CAPM
-  - real vs nominal
-  - risk-adjusted probability measures
-  - risk-neutral probability measure
-  - state-price deflators
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Banking and credit intermediation
+- Bank balance sheet management
+- Capital Asset Pricing Model and risk-return tradeoff
+- Interest Rate in financial markets
+- Risk Free in financial markets
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000449
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 11.7 Concluding remarks  
 

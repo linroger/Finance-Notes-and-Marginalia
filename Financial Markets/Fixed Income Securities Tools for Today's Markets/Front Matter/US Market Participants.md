@@ -1,26 +1,73 @@
 ---
 tags:
-  - consumer_credit
-  - debt_securities
-  - delinquencies
-  - federal_reserve
-  - financial_balance_sheets
-  - financial_crisis_2007_2009
-  - home_equity_loans
-  - student_loans
-  - us_market_participants
+- pandemic
+- ito
+- hedge
+- collateralized
+- lehman
+- repo
+- home_equity_loans
+- growth
+- delinquencies
+- covid
+- debt_securities
+- student_loans
+- regulation
+- equity
+- option
+- hedging
+- premium
+- apt
+- credit
+- mbs
+- federal_reserve
+- put
+- bond
+- us_market_participants
+- financial_balance_sheets
+- financial_crisis_2007_2009
+- crisis
+- mortgage
+- consumer_credit
 aliases:
-  - Consumer Credit Balances
-  - Market Sectors
-  - US Debt Holders
+- Consumer Credit Balances
+- Market Sectors
+- US Debt Holders
 key_concepts:
-  - Consumer credit components
-  - Debt security volumes
-  - Delinquency trends
-  - Home equity loan decline
-  - Market participant sectors
-  - Student loan increase
+- Option valuation and hedging strategies
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Risk hedging strategies and instruments
+- Market liquidity analysis and liquidity risk
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000134
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 0.3 US MARKET PARTICIPANTS  
 

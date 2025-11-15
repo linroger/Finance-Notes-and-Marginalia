@@ -1,35 +1,54 @@
 ---
 cssclasses:
-  - academia
-title: "Class 7: CP, Repo, and the Crisis"
-linter-yaml-title-alias: "Class 7: CP, Repo, and the Crisis"
+- academia
+title: 'Class 7: CP, Repo, and the Crisis'
+linter-yaml-title-alias: 'Class 7: CP, Repo, and the Crisis'
 tags:
-  - banking_crisis
-  - commercial_paper
-  - financial_crisis
-  - lehman_brothers
-  - repo_market
-  - 2008_crisis
-  - shadow_banking
-  - securitization
-  - asset_backed_cp
-  - money_markets
+- financial_crisis
+- money_markets
+- securitization
+- banking_crisis
+- repo_market
+- 2008_crisis
+- asset_backed_cp
+- lehman_brothers
+- commercial_paper
+- shadow_banking
+- private-equity
+- risk-management
+- banking
+- mbs
+- financial-crisis
+- repo
+- tracking-error
+- subprime
+- dark-pool
+- money-market
 aliases:
-  - "CP and Repo Crisis"
-  - Financial Crisis
-  - Repo Crisis
-  - "Class 7 CP Repo Crisis"
+- CP and Repo Crisis
+- Financial Crisis
+- Repo Crisis
+- Class 7 CP Repo Crisis
 key_concepts:
-  - Commercial paper market stress
-  - Repo market dynamics
-  - Asset-backed commercial paper
-  - Lehman Brothers collapse
-  - Northern Rock case study
-  - Securitized banking system
-  - Fire sales and illiquidity
-  - SIV structures
-  - Credit crisis mechanisms
-  - COVID-19 market interventions
+- Securitized banking system
+- Commercial paper market stress
+- Asset-backed commercial paper
+- COVID-19 market interventions
+- Lehman Brothers collapse
+- Fire sales and illiquidity
+- SIV structures
+- Repo market dynamics
+- Northern Rock case study
+- Credit crisis mechanisms
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
 ---
 
 # Class 7: CP, Repo, and the Crisis

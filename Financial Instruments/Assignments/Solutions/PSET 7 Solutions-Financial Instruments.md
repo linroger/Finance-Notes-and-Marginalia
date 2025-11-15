@@ -1,24 +1,188 @@
 ---
-linter-yaml-title-alias: PSET 7 SOLUTIONS
-title: PSET 7 SOLUTIONS
-tags:
-  - american_option
-  - american_put_option
-  - dividend_payments
-  - early_exercise
-  - european_call_option
+academic_level: graduate
 aliases:
-  - American Options
-  - Call Option
-  - Homework 7
-  - PSET 7
+- American Options
+- Call Option
+- Homework 7
+- PSET 7
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000114
 key_concepts:
-  - American option payoff
-  - Continuously compounded interest
-  - Dividend payments impact
-  - Early exercise value
-  - Risk neutral probability
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Risk-neutral measures and martingale pricing
+- Martingale theory and change of measure
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Collateralized debt obligations (CDO) and tranche structure
+- Basel accords and banking regulation framework
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Free Cash Flow and Enterprise Value
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Black-Scholes Option Pricing Model and Its Applications
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Binomial Option Pricing Model for Discrete Time Valuation
+- American Option Pricing and Early Exercise Premium
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Terminal Value and WACC Calculations
+- Discounted Cash Flow Valuation Models
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: PSET 7 SOLUTIONS
+professional_application: theoreti
+status: active
+tags:
+- american-derivatives
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cds
+- coherent-risk-measure
+- collateralized-debt-obligation
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- terminal-value
+- free-cash-flow
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- binomial-tree
+- straddles
+- book-to-market
+- american-options
+- partial-differential-equation
+- extreme-value-theory
+- risk-neutral-valuation
+- volatility-analysis
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- enterprise-value
+- arbitrage-pricing-theory
+- market-price-of-risk
+- volatility-surface
+- loss-given-default
+- value-factor
+- vasicek-model
+- dirty-price
+- monte-carlo-var
+- capital-budgeting
+- options-trading
+- coupon-bonds
+- yield-to-maturity
+- fama-french
+- price-to-earnings
+- bsm-model
+- recovery-rate
+- zero-coupon-bonds
+- black-scholes-formula
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- expected-loss
+- wacc
+- quantitative-finance
+- crr-model
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- discounted-cash-flow
+- dcf-valuation
+- cost-of-debt
+- risk-premium
+- put-options
+- affine-term-structure
+- multi-period-binomial
+- momentum
+- discrete-time-pricing
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- factor-models
+- risk-management
+- var-backtesting
+- sum-of-parts
+- european-options
+- clean-price
+- lattice-models
+- strangles
+- fixed-income
+- cox-ross-rubinstein
+- short-rate-models
+- cost-of-equity
+- optional-exercise
+- credit-migration
+- default-probability
+- binomial-option-pricing
+- credit-spreads
+- multi-factor-models
+- ito-calculus
+- trading-multiples
+- iron-condors
+- option-pricing
+- equity-value
+- financial-markets
+- size-effect
+- precedent-transactions
+- lognormal-distribution
+- ipo-valuation
+- market-multiple
+- ' recombining-trees'
+- apt
+- current-yield
+title: PSET 7 SOLUTIONS
+type: case-study
 ---
+--
+
+
 
 # PSET 7 SOLUTIONS
 ## WINTER 2024

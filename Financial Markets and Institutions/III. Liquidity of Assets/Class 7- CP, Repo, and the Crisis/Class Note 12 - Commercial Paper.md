@@ -1,37 +1,109 @@
 ---
 cssclasses:
-  - academia
-title: "Class Note 12: Commercial Paper"
-linter-yaml-title-alias: "Class Note 12: Commercial Paper"
+- academia
+title: 'Class Note 12: Commercial Paper'
+linter-yaml-title-alias: 'Class Note 12: Commercial Paper'
 tags:
-  - 2007_2009_financial_crisis
-  - asset_backed_paper
-  - backup_lines_of_credit
-  - commercial_paper
-  - short_term_promissory_note
-  - money_markets
-  - cp_market_freeze
-  - rating_agencies
-  - liquidity_facilities
+- eur
+- volatility
+- rating_agencies
+- margin
+- discount-rate
+- credit-enhancement
+- regulation
+- swap
+- risk-management
+- distribution
+- option
+- oil
+- put
+- regulatory-capital
+- mertons-model
+- caps-floors
+- trading
+- bond
+- financial-markets
+- stochastic-calculus
+- gold
+- crisis
+- spread
+- credit-risk
+- cp_market_freeze
+- mortgage
+- measure
+- valuation
+- short_term_promissory_note
+- event-study
+- backup_lines_of_credit
+- 2007_2009_financial_crisis
+- liquidity_facilities
+- distressed
+- private-equity
+- commercial_paper
+- money_markets
+- asset_backed_paper
+- banking
+- yield-to-maturity
 aliases:
-  - CP
-  - Class 12 Note
-  - Commercial Paper Note
-  - ECN
-  - "Commercial Paper Note"
+- CP
+- Class 12 Note
+- Commercial Paper Note
+- ECN
+- Commercial Paper Note
 key_concepts:
-  - Backup lines of credit
-  - Commercial paper significance
-  - Early-exit mechanism
-  - Prices and quotes
-  - CP issuance decline
-  - Dealer placement
-  - Direct placement
-  - Rating requirements
-  - ABCP conduits
-  - Maturity structure
-  - Regulations and maturities
+- Dealer placement
+- Regulations and maturities
+- Rating requirements
+- Early-exit mechanism
+- Maturity structure
+- Backup lines of credit
+- ABCP conduits
+- Commercial paper significance
+- CP issuance decline
+- Prices and quotes
+- Direct placement
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Credit Enhancement in financial markets
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Discount Rate in financial markets
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- Asset securitization and structured finance
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000004
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Class Note 12: Commercial Paper
 ## Commercial Paper

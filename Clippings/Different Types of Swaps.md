@@ -1,3 +1,85 @@
+---
+tags:
+- leverage
+- duration
+- volatility
+- multiple
+- hedge
+- binomial-model
+- continuous-time-pricing
+- commodity
+- future
+- regulation
+- swap
+- caplet
+- dividend
+- capital-adequacy
+- counterparty
+- option
+- hedging
+- oil
+- put
+- bond
+- spread
+- credit-risk
+- sofr
+- banking-regulation
+- commodity-derivatives
+- coherent-risk-measure
+- basel-accord
+- default
+- cds
+- arbitrage-opportunity
+- commodity-futures
+- conditional-var
+- convexity-adjustment
+- black-scholes-model
+- benchmark-reform
+key_concepts:
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Interest rate swaps and fixed income derivatives
+- Currency swaps and foreign exchange risk management
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- SOFR benchmarks and risk-free rate transition
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Arbitrage pricing theory and no-arbitrage principle
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Duration and interest rate risk measurement
+- Exchange Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Market Risk in financial markets
+- SOFR implementation and overnight rate markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000096
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
+
+
  
 source: https://www.investopedia.com/articles/investing/052915/different-types-swaps.asp
 description: Identify and explore the most common types of swap contracts. Swaps are

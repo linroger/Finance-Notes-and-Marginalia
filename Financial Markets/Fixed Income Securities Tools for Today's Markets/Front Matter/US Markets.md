@@ -1,23 +1,69 @@
 ---
 tags:
-  - floating_rate_notes
-  - inflation_risk
-  - municipal_securities
-  - nominal_bonds
-  - treasury_securities
-  - us_markets
+- default
+- pandemic
+- floating_rate_notes
+- measure
+- nominal_bonds
+- us_markets
+- comparable
+- collateralized
+- maturity
+- repo
+- coupon
+- covid
+- municipal_securities
+- future
+- capital
+- discount
+- pricing
+- treasury_securities
+- premium
+- trading
+- bond
+- crisis
+- inflation_risk
+- spread
+- credit-risk
+- mortgage
 aliases:
-  - FRNs
-  - Treasury Bonds
-  - US Debt
+- FRNs
+- Treasury Bonds
+- US Debt
 key_concepts:
-  - Debt instruments in US
-  - Floating-rate notes (FRNs)
-  - Inflation risk measurement
-  - Municipal securities
-  - Nominal vs. real return
-  - Treasury securities
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Asset securitization and structured finance
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000131
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 0.2 US MARKETS  
 

@@ -1,23 +1,65 @@
 ---
 tags:
-  - adjustable_rate_mortgages
-  - arm_features
-  - hybrid_arm
-  - interest_rate_risk
-  - mortgage_rates
+- default
+- leverage
+- hybrid_arm
+- maturity
+- margin
+- prepayment
+- arm_features
+- equity
+- option
+- mbs
+- interest_rate_risk
+- mortgage_rates
+- put
+- call
+- bond
+- market
+- treasury
+- crisis
+- fail
+- var
+- mortgage
+- interest-rate
+- collateral
+- adjustable_rate_mortgages
 aliases:
-  - ARM
-  - ARMs
-  - Adjustable Rate Mortgages
-  - Hybrid ARM
+- ARM
+- ARMs
+- Adjustable Rate Mortgages
+- Hybrid ARM
 key_concepts:
-  - 5/1 hybrid ARM
-  - Adjustable mortgage interest rate
-  - Cap structure limits
-  - Homeowners interest rate risk
-  - Lower initial interest rates
-  - Mortgage rate reset
+- Option valuation and hedging strategies
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Credit default probability and recovery modeling
+- Interest Rate in financial markets
+- Mortgage prepayment modeling and MBS analysis
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000254
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 15.3 ADJUSTABLE-RATE MORTGAGES  
 

@@ -1,23 +1,63 @@
 ---
 tags:
-  - alpha_transfer
-  - asset_allocation
-  - etf_arbitrage
-  - market_neutral_funds
-  - portable_alpha
+- risk-free
+- arbitrage
+- eur
+- hedge
+- asset-allocation
+- future
+- discount
+- pricing
+- european
+- portable_alpha
+- hedging
+- call
+- model
+- put
+- rating
+- asset_allocation
+- market_neutral_funds
+- market
+- alpha_transfer
+- roa
+- etf_arbitrage
+- portfolio
+- futures-contract
 aliases:
-  - Clever Alpha Fund
-  - ETF Neutral Arb Fund
-  - Joe Saxon
-  - market-neutral plays
+- Clever Alpha Fund
+- ETF Neutral Arb Fund
+- Joe Saxon
+- market-neutral plays
 key_concepts:
-  - ETF mispricing discovery
-  - asset allocation decisions
-  - dynamically hedging systematic risk
-  - market-neutral funds
-  - portable alpha solution
-  - specific security selection
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Arbitrage pricing theory and no-arbitrage principle
+- Asset Allocation in financial markets
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Risk Free in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000354
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 12.2  PORTABLE ALPHA AND MARKET-NEUTRAL PLAYS  
 

@@ -1,8 +1,59 @@
 ---
 tags:
-  - '#chapter_6'
-  - '#individual_optimality'
+- capital-markets
+- mathematical-finance
+- margin
+- portfolio-theory
+- mean-variance
+- optimization
+- quantitative-valuation
+- market-microstructure
+- dividend
+- risk-management
+- pricing
+- apt
+- finance
+- corporate-finance
+- call
+- market
+- model
+- financial-engineering
+- variance
+- var
+- roa
+- options-pricing
+- portfolio
+- derivatives-pricing
+key_concepts:
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Mean Variance in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000471
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
 # Chapter 6 - Individual optimality
 %% Begin Waypoint %%
 - **Chapter 6 - Individual optimality**

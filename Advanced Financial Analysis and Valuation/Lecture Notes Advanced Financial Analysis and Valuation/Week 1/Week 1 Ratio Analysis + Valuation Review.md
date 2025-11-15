@@ -1,45 +1,154 @@
 ---
-title: Week 1 Ratio Analysis + Valuation Review
-cssclasses:
-  - academia
-tags:
-  - dividend_discount_model
-  - enterprise_valuation
-  - equity_valuation
-  - free_cash_flow
-  - ratio_analysis
-  - roic
-  - valuation
-  - wacc
-  - financial_analysis
-  - corporate_finance
+academic_level: graduate
 aliases:
-  - DCF
-  - DDM
-  - Valuation Methods
-  - Week 1 Review
+- DCF
+- DDM
+- Valuation Methods
+- Week 1 Review
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000274
 key_concepts:
-  - Capital structure impact on valuation methods
-  - Continuing value calculation techniques
-  - Discount rate components and calculation
-  - Dividend discount model limitations
-  - Economic profit model applications
-  - Enterprise DCF process and methodology
-  - Enterprise vs equity valuation models
-  - Equity value determination from enterprise value
-  - Financial ratio analysis fundamentals
-  - Free cash flow calculation and components
-  - Mid-year adjustment technique
-  - NOPAT and FCF relationship
-  - Non-operating assets valuation 
-  - Operating vs investing classification
-  - ROE decomposition and drivers
-  - ROIC as a measure of operational efficiency
-  - ROIC vs ROA differences and applications
-  - Terminal value estimation methods
-  - Valuation basics and principles
-  - Weighted average cost of capital (WACC)
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Basel III Regulatory Framework and Capital Requirements
+- Free Cash Flow and Enterprise Value
+- Value at Risk and Expected Shortfall
+- Company Valuation and Multiple Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Regulatory Capital and Stress Testing
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Liquidity Coverage Ratio and Net Stable Funding
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Terminal Value and WACC Calculations
+- Discounted Cash Flow Valuation Models
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- asset-allocation
+- capital-structure
+- caplet
+- cash-flow-distribution
+- cash-flow-modeling
+- coherent-risk-measure
+- conditional-var
+- convexity-adjustment
+- cost-of-capital
+- credit-rating
+- dcf-valuation
+- debit-valuation-adjustment
+- debt-equity-mix
+- delta-hedging
+- discounted-cash-flow
+- leveraged-buyout
+- call-options
+- terminal-value
+- free-cash-flow
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- net-stable-funding
+- volatility-analysis
+- style-analysis
+- leverage-ratio
+- option-strategies
+- unexpected-loss
+- clearinghouse
+- enterprise-value
+- arbitrage-pricing-theory
+- hedge-ratio
+- capital-conservation-buffer
+- loss-given-default
+- value-factor
+- monte-carlo-var
+- capital-budgeting
+- options-trading
+- forward-contracts
+- price-to-earnings
+- fama-french
+- recovery-rate
+- parametric-var
+- var-methodologies
+- historical-var
+- contango
+- regulatory-capital
+- expected-loss
+- wacc
+- quantitative-finance
+- protective-puts
+- probabilty-of-default
+- roll-yield
+- tier-2-capital
+- cost-of-debt
+- put-options
+- countercyclical-buffer
+- momentum
+- basis-risk
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- sum-of-parts
+- strangles
+- cost-of-equity
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- tier-1-capital
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- equity-value
+- size-effect
+- precedent-transactions
+- liquidity-coverage-ratio
+- ipo-valuation
+- basel-iii
+- market-multiple
+- futures-contracts
+- apt
+title: Week 1 Ratio Analysis + Valuation Review
+type: course-note
 ---
+--
+
+
 
 # Week 1 Ratio Analysis + Valuation Review
 

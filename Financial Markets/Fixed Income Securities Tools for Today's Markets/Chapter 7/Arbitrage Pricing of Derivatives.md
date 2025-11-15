@@ -1,22 +1,60 @@
 ---
 tags:
-  - arbitrage_pricing
-  - bond_prices
-  - call_option
-  - interest_rate_derivatives
-  - law_of_one_price
-  - replicating_portfolio
+- eur
+- arbitrage
+- replicating_portfolio
+- payoff
+- probability
+- interest_rate_derivatives
+- coupon
+- future
+- arbitrage_pricing
+- discount
+- pricing
+- call_option
+- option
+- apt
+- call
+- put
+- bond
+- bond_prices
+- law_of_one_price
+- portfolio
+- interest-rate
+- derivative
 aliases:
-  - Arbitrage
-  - Derivatives
-  - Pricing
+- Arbitrage
+- Derivatives
+- Pricing
 key_concepts:
-  - Arbitrage opportunity
-  - Bond price dependence
-  - Call option pricing
-  - Interest rate contingent claim
-  - Replicating portfolio value
+- Option valuation and hedging strategies
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial derivatives pricing and valuation
+- Arbitrage pricing theory and no-arbitrage principle
+- Interest Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000142
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 7.2 ARBITRAGE PRICING OF DERIVATIVES  
 

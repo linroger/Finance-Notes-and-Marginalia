@@ -1,20 +1,58 @@
 ---
 tags:
-  - conditional_pricing
-  - multi_period_framework
-  - pricing_factor
-  - state_price_deflator
-  - unconditional_pricing
+- delta
+- risk-free
+- multi_period_framework
+- margin
+- growth
+- state_price_deflator
+- pricing
+- conditional_pricing
+- apt
+- pricing_factor
+- market
+- model
+- trading
+- unconditional_pricing
+- factor-model
+- var
+- measure
+- stochastic
 aliases:
-  - Multi-period Pricing
-  - Pricing Factors
+- Multi-period Pricing
+- Pricing Factors
 key_concepts:
-  - Conditional factor beta
-  - Continuous-time model
-  - Pricing factor definition
-  - State-price deflator relationship
-  - Unconditional pricing factor
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Delta hedging strategies in options markets
+- Factor Model in financial markets
+- Risk Free in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000407
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 9.5 Pricing factors in a multi-period framework  
 

@@ -1,30 +1,129 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Commodity Options
-title: Commodity Options
-tags:
-  - call_option
-  - commodity_options
-  - commodity_price_hedging
-  - jet_fuel
-  - options_strategy
-  - zero_cost_collar
-  - hedging_strategies
+academic_level: graduate
 aliases:
-  - Commodity Options
-  - Options Hedging
-  - Fuel Price Hedging
+- Commodity Options
+- Options Hedging
+- Fuel Price Hedging
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000177
 key_concepts:
-  - Call option parameters
-  - Commodity price hedging
-  - Zero-cost collar strategies
-  - Evaluating option performance
-  - Jet fuel price hedging
-  - Optimal number of options calculation
-  - Pass-through pricing effects
-  - Implicit short position management
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Collateralized debt obligations (CDO) and tranche structure
+- Sensitivity analysis and Greeks calculation
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Seasonality and Convenience Yield
+- Risk Measurement and VaR Backtesting
+- Delta, Gamma, and Vega Hedging Techniques
+- Commodity Markets and Energy Derivatives
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Option Valuation and Exercise Strategies
+- Value at Risk and Expected Shortfall
+- Credit Spreads and Rating Migration Analysis
+- Vasicek Interest Rate Model and Mean Reversion
+- Forward Curves and Roll Strategies
+- Short Rate Models and Term Structure Dynamics
+- Hedging Strategies and Risk Mitigation
+- Options Trading Strategies and Risk Management
+- Dynamic vs Static Hedging in Practice
+- Stress Testing and Extreme Value Analysis
+linter-yaml-title-alias: Commodity Options
+professional_application: theoreti
+status: active
+tags:
+- arch
+- asset-allocation
+- binomial-model
+- black-scholes-model
+- cap-floor-spread
+- caplet
+- cds
+- collateralized-debt-obligation
+- commodity-derivatives
+- commodity-futures
+- continuous-time-pricing
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- put-options
+- affine-term-structure
+- recovery-rate
+- cross-hedging
+- call-options
+- cir-model
+- hull-white
+- seasonality
+- butterfly-spreads
+- strangles
+- expected-shortfall
+- straddles
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- basis-risk
+- var-methodologies
+- historical-var
+- hedge-strategies
+- mean-reversion
+- lognormal-models
+- vega-hedging
+- covered-calls
+- ' exposure-at-default'
+- short-rate-models
+- energy-derivatives
+- option-strategies
+- stress-testing
+- roll-over-risk
+- unexpected-loss
+- ornstein-uhlenbeck
+- rating-migration
+- expected-loss
+- investment-analysis
+- delta-hedging
+- credit-migration
+- default-probability
+- value-at-risk
+- credit-spreads
+- iron-condors
+- protective-puts
+- market-price-of-risk
+- metals-trading
+- financial-markets
+- probabilty-of-default
+- static-hedging
+- loss-given-default
+- roll-strategies
+- convenience-yield
+- vasicek-model
+- forward-curves
+- gamma-hedging
+- dynamic-hedging
+- hedge-effectiveness
+- monte-carlo-var
+- agricultural-commodities
+- var-backtesting
+- options-trading
+- storage-costs
+- risk-premium
+- commodity-trading
+title: Commodity Options
+type: note
 ---
+--
+
+
 
 # Commodity Options
 ## 1. COMMODITY PRICE HEDGING USING OPTIONS

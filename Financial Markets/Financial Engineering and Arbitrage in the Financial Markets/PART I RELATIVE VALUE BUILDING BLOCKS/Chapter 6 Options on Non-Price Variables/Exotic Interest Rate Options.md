@@ -1,21 +1,78 @@
 ---
 tags:
-  - adjustable_rate_mortgages
-  - digital_options
-  - exotic_options
-  - interest_rate_options
-  - periodic_caps
+- delta
+- digital_options
+- eur
+- volatility
+- multiple
+- barrier
+- hedge
+- probability
+- lehman
+- margin
+- digital
+- adjustable_rate_mortgages
+- commodity
+- discount-rate
+- future
+- implied
+- yield-curve
+- swap
+- pricing
+- correlation
+- option
+- distribution
+- interest_rate_options
+- exotic_options
+- periodic_caps
 aliases:
-  - digitals
-  - exotic
-  - ranges
+- digitals
+- exotic
+- ranges
 key_concepts:
-  - adjustable rate mortgage
-  - digital option definition
-  - exotic option payoffs
-  - periodic cap structure
-  - range option structure
+- Black-Scholes model and option pricing theory
+- Binomial option pricing model
+- Option Greeks and risk sensitivities
+- Exotic options and path-dependent derivatives
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Arbitrage pricing theory and no-arbitrage principle
+- Binomial option pricing model and tree methods
+- Black-Scholes option pricing model and its applications
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Delta hedging strategies in options markets
+- Discount Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Knock In in financial markets
+- Knock Out in financial markets
+- LIBOR transition and benchmark rate reform
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Zero Coupon in financial markets
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000288
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 6.4 EXOTIC INTEREST RATE OPTIONS  
 

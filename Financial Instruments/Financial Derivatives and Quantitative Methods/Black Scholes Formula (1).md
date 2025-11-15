@@ -1,31 +1,215 @@
 ---
-title: Black Scholes Formula
-tags:
-  - black_scholes_formula
-  - digital_options
-  - european_options
-  - martingale_pricing
-  - pde
-  - option_pricing
-  - geometric_brownian_motion
-  - risk_neutral_pricing
-  - delta_hedging
+academic_level: graduate
 aliases:
-  - BS formula
-  - Black-Scholes formula
-key_concepts:
-  - Digital option payoff
-  - European option pricing
-  - Put-call parity
-  - Risk-neutral valuation
-  - Standard normal distribution
-  - Geometric Brownian motion
-  - Delta hedging strategies
-  - Self-financing portfolios
-  - Ito's lemma application
-  - Boundary conditions
+- BS formula
+- Black-Scholes formula
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000097
+key_concepts:
+- Black-Scholes option pricing model and continuous-time finance
+- Binomial option pricing model and lattice methods
+- Options Greeks and sensitivity analysis for risk management
+- Delta hedging and dynamic replication strategies
+- Risk-neutral measures and martingale pricing
+- Ito's lemma and stochastic calculus applications
+- Martingale theory and change of measure
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Delta, Gamma, and Vega Hedging Techniques
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Cost of Equity and Expected Returns
+- Black-Scholes Option Pricing Model and Its Applications
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- American Option Pricing and Early Exercise Premium
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- all-or-nothing
+- arbitrage-opportunity
+- arbitrage-pricing
+- asset-allocation
+- binary-derivatives
+- binomial-model
+- black-scholes-model
+- capital-asset-pricing
+- capital-structure
+- caplet
+- cash-flow-modeling
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- binomial-tree
+- straddles
+- extreme-value-theory
+- american-options
+- partial-differential-equation
+- book-to-market
+- arbitrage
+- risk-neutral-valuation
+- backwardation
+- volatility-analysis
+- style-analysis
+- option-strategies
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- volatility-surface
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- market-impact
+- forward-contracts
+- fama-french
+- price-to-earnings
+- bsm-model
+- recovery-rate
+- black-scholes-formula
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- expected-loss
+- market-efficiency
+- delta-hedging
+- quantitative-finance
+- order-flow
+- bid-ask-spread
+- crr-model
+- systematic-risk
+- protective-puts
+- alpha
+- security-market-line
+- probabilty-of-default
+- liquidity
+- gamma-hedging
+- hedge-effectiveness
+- idiosyncratic-risk
+- roll-yield
+- beta
+- risk-premium
+- put-options
+- affine-term-structure
+- multi-period-binomial
+- capm
+- algorithmic-trading
+- momentum
+- basis-risk
+- market-risk-premium
+- discrete-time-pricing
+- hedge-strategies
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- value-at-risk
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- cross-hedging
+- sum-of-parts
+- european-options
+- high-frequency-trading
+- lattice-models
+- strangles
+- cox-ross-rubinstein
+- short-rate-models
+- optional-exercise
+- efficient-frontier
+- credit-migration
+- default-probability
+- marking-to-market
+- binomial-option-pricing
+- credit-spreads
+- multi-factor-models
+- ito-calculus
+- trading-multiples
+- iron-condors
+- option-pricing
+- financial-markets
+- static-hedging
+- size-effect
+- precedent-transactions
+- lognormal-distribution
+- ipo-valuation
+- market-multiple
+- ' recombining-trees'
+- futures-contracts
+- apt
+title: Black Scholes Formula
+type: note
 ---
+--
+
+
 
 # Black Scholes Formula
 

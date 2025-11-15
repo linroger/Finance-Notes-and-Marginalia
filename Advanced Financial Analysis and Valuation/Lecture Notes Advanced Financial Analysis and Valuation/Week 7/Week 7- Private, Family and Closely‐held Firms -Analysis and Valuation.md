@@ -1,12 +1,196 @@
 ---
-title: "Week 7 - Private, Family and Closely-held Firms - Analysis and Valuation"
-linter-yaml-title-alias: "Week 7 - Private, Family and Closely-held Firms - Analysis and Valuation"
-aliases: [Control Rights, Kohler Co Valuation, Marketability Discount Analysis, Private Company Valuation Methods, Family Firm Governance]
-date created: Tuesday, November 26th 2024, 7:45:23 pm
+academic_level: graduate
+aliases:
+- Control Rights
+- Kohler Co Valuation
+- Marketability Discount Analysis
+- Private Company Valuation Methods
+- Family Firm Governance
 cssclasses: academia
-tags: [closely_held_firms, control_premium, corporate_governance, dcf_valuation, illiquidity_discount, kohler_case, minority_discount, private_firms, valuation_methods, wacc_calculation, family_business, insider_ownership, total_beta, institutional_environment, related_party_transactions, pyramids, dual_class_shares, investor_protection, emerging_markets]
-key_concepts: [control premium calculation, control rights valuation, corporate governance analysis, dcf and wacc application, illiquidity cost of capital, insider ownership impact, Kohler family case study, lack of marketability discount, total beta approach, valuing private companies, minority discount methodology, private benefits consumption, control enhancing mechanisms, investor protection importance, related party transactions, pyramidal ownership structures, governance premium valuation]
+date created: Tuesday, November 26th 2024, 7:45:23 pm
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000268
+key_concepts:
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Beta estimation and systematic risk measurement
+- Beta estimation and systematic risk measurement
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Free Cash Flow and Enterprise Value
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Distressed Investing and Debt Restructuring
+- Cost of Equity and Expected Returns
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Terminal Value and WACC Calculations
+- Discounted Cash Flow Valuation Models
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: Week 7 - Private, Family and Closely-held Firms - Analysis
+  and Valuation
+professional_application: theoreti
+status: active
+tags:
+- banking-regulation
+- basel-accord
+- beta-estimation
+- bid-ask-spread
+- capital-adequacy
+- capital-budgeting
+- capital-structure
+- caplet
+- cash-flow-modeling
+- coherent-risk-measure
+- conditional-var
+- convexity-adjustment
+- cost-of-capital
+- credit-rating
+- dcf-valuation
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- terminal-value
+- free-cash-flow
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- exchange-offers
+- backwardation
+- volatility-analysis
+- style-analysis
+- option-strategies
+- cramdown
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- debt-restructuring
+- enterprise-value
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- distressed-investing
+- monte-carlo-var
+- options-trading
+- market-impact
+- forward-contracts
+- fama-french
+- price-to-earnings
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- expected-loss
+- wacc
+- market-efficiency
+- quantitative-finance
+- order-flow
+- systematic-risk
+- protective-puts
+- alpha
+- security-market-line
+- probabilty-of-default
+- discounted-cash-flow
+- liquidity
+- idiosyncratic-risk
+- roll-yield
+- cost-of-debt
+- beta
+- risk-premium
+- put-options
+- affine-term-structure
+- capm
+- algorithmic-trading
+- momentum
+- basis-risk
+- market-risk-premium
+- covered-calls
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- blocker-strategy
+- factor-models
+- creditor-committees
+- risk-management
+- convergence
+- var-backtesting
+- tender-offers
+- sum-of-parts
+- ' DIP-financing'
+- high-frequency-trading
+- strangles
+- short-rate-models
+- cost-of-equity
+- efficient-frontier
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- equity-value
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+title: Week 7 - Private, Family and Closely-held Firms - Analysis and Valuation
+type: course-note
 ---
+--
+
+
 
 # Week 7 - Private, Family and Closely-held Firms - Analysis and Valuation
 

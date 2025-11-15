@@ -1,3 +1,78 @@
+---
+tags:
+- credit-rating
+- leverage
+- duration
+- eur
+- binomial-model
+- margin
+- continuous-time-pricing
+- commodity
+- bid-ask-spread
+- future
+- regulation
+- caplet
+- capital-adequacy
+- option
+- put
+- american
+- trading
+- gold
+- overnight
+- spread
+- measure
+- sofr
+- banking-regulation
+- commodity-derivatives
+- coherent-risk-measure
+- basel-accord
+- commodity-futures
+- capital
+- equity
+- conditional-var
+- european
+- convexity-adjustment
+- call
+- black-scholes-model
+- benchmark-reform
+key_concepts:
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- SOFR benchmarks and risk-free rate transition
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Duration and interest rate risk measurement
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- SOFR implementation and overnight rate markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000083
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
+
+
  
 source: https://www.investopedia.com/articles/stocks/09/trade-a-cfd.asp
 description: A contract for differences (CFD) is a type of derivative trade that is

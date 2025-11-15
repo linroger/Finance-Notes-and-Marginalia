@@ -1,24 +1,63 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Moody's Bank Loan RatingsPricing Implications and Approach
 title: Moody's Bank Loan RatingsPricing Implications and Approach
 tags:
-  - bank_loan_ratings
-  - bond_markets
-  - loan_market
-  - risk_adjusted_pricing
-  - syndicated_loan_market
+- syndicated_loan_market
+- loan_market
+- bank_loan_ratings
+- risk_adjusted_pricing
+- bond_markets
+- event-study
+- caps-floors
+- high-yield
+- yield-to-maturity
+- distressed
+- private-equity
+- cdos
+- leveraged-buyout
+- regulatory-capital
+- risk-management
+- financial-markets
+- pingan
+- banking
+- capital-structure
+- stochastic-calculus
 aliases:
-  - Commercial bank loan
-  - Kinsai Institute
-  - Moody's bank loan
+- Commercial bank loan
+- Kinsai Institute
+- Moody's bank loan
 key_concepts:
-  - Bank loan pricing
-  - Loan and bond markets
-  - Loan market convergence
-  - Loan portfolio managers
-  - Risk adjusted pricing
+- Risk adjusted pricing
+- Loan and bond markets
+- Loan portfolio managers
+- Bank loan pricing
+- Loan market convergence
+- Arbitrage pricing theory and fundamental theorem of asset pricing
+- Market efficiency hypotheses and their implications for investment strategies
+- No-arbitrage conditions in financial markets
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
 ---
 
 # Moody's Bank Loan RatingsPricing Implications and Approach

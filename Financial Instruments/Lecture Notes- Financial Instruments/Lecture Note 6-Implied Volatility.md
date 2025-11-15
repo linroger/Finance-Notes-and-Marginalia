@@ -1,27 +1,230 @@
 ---
+academic_level: graduate
+aliases:
+- BSM
+- IV
+- The Smirk
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000136
+key_concepts:
+- Black-Scholes option pricing model and continuous-time finance
+- Binomial option pricing model and lattice methods
+- Implied volatility calculation and volatility surface analysis
+- Volatility smile and skew in options markets
+- Options Greeks and sensitivity analysis for risk management
+- Risk-neutral measures and martingale pricing
+- Martingale theory and change of measure
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Arbitrage opportunities and no-arbitrage pricing
+- Alpha generation and active portfolio management
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Alpha generation and active return measurement
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- Delta, Gamma, and Vega Hedging Techniques
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Cost of Equity and Expected Returns
+- Black-Scholes Option Pricing Model and Its Applications
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Time Series Analysis in Financial Markets
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- American Option Pricing and Early Exercise Premium
+- Interest Rate Swaps and Currency Swap Structures
+- Cointegration and Statistical Arbitrage
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- GARCH Models and Volatility Forecasting
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
 linter-yaml-title-alias: LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY MONTE
   CARLO SIMULATION
-title: Lecture Note 6-Implied Volatility
+professional_application: theoreti
+status: active
 tags:
-  - black_scholes
-  - implied_volatility
-  - market_uncertainty
-  - option_pricing
-  - volatility_surface
-aliases:
-  - BSM
-  - IV
-  - The Smirk
-key_concepts:
-  - Black-Scholes model issues
-  - Fat tails in returns
-  - Implied volatility definition
-  - Implied volatility surface
-  - Moneyness definition
-  - Stochastic volatility
-  - VIX volatility swaps
+- arbitrage-opportunity
+- arbitrage-pricing
+- asset-allocation
+- barrier-options
+- binomial-model
+- black-scholes-model
+- capital-asset-pricing
+- caplet
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- credit-rating
+- delta-hedging
+- derivatives
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- binomial-tree
+- straddles
+- extreme-value-theory
+- american-options
+- partial-differential-equation
+- book-to-market
+- arbitrage
+- risk-neutral-valuation
+- backwardation
+- volatility-analysis
+- style-analysis
+- option-strategies
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- volatility-surface
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- market-impact
+- forward-contracts
+- stationarity
+- fama-french
+- bsm-model
+- recovery-rate
+- black-scholes-formula
+- garch
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- unit-roots
+- expected-loss
+- market-efficiency
+- quantitative-finance
+- order-flow
+- currency-swaps
+- bid-ask-spread
+- crr-model
+- systematic-risk
+- protective-puts
+- alpha
+- security-market-line
+- probabilty-of-default
+- liquidity
+- gamma-hedging
+- hedge-effectiveness
+- idiosyncratic-risk
+- roll-yield
+- beta
+- risk-premium
+- put-options
+- affine-term-structure
+- multi-period-binomial
+- capm
+- algorithmic-trading
+- momentum
+- basis-risk
+- market-risk-premium
+- volatility-modeling
+- discrete-time-pricing
+- hedge-strategies
+- regime-switching
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- investment-analysis
+- portfolio-optimization
+- value-at-risk
+- kalman-filter
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- arima-models
+- state-space-models
+- cross-hedging
+- european-options
+- high-frequency-trading
+- lattice-models
+- strangles
+- cointegration
+- cox-ross-rubinstein
+- short-rate-models
+- swap-spread
+- optional-exercise
+- efficient-frontier
+- credit-migration
+- default-probability
+- marking-to-market
+- binomial-option-pricing
+- total-return-swaps
+- libor
+- credit-spreads
+- granger-causality
+- multi-factor-models
+- ito-calculus
+- iron-condors
+- option-pricing
+- financial-markets
+- static-hedging
+- size-effect
+- basis-swaps
+- interest-rate-swaps
+- lognormal-distribution
+- ' recombining-trees'
+- futures-contracts
+- apt
+- credit-default-swaps
+title: Lecture Note 6-Implied Volatility
+type: course-note
 ---
+--
+
+
 
 # Lecture Note 6-Implied Volatility
 - **Title**: Implied Volatility

@@ -1,3 +1,74 @@
+---
+tags:
+- basel-accord
+- credit-rating
+- arbitrage-opportunity
+- eur
+- hedge
+- binomial-model
+- usd
+- maturity
+- continuous-time-pricing
+- commodity-futures
+- commodity
+- forward
+- swap
+- caplet
+- libor
+- conditional-var
+- capital-adequacy
+- option
+- convexity-adjustment
+- market
+- currency
+- black-scholes-model
+- overnight
+- var
+- banking-regulation
+- interest-rate
+- arbitrage-free-models
+- commodity-derivatives
+- coherent-risk-measure
+key_concepts:
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Interest rate swaps and fixed income derivatives
+- Currency swaps and foreign exchange risk management
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- LIBOR market model and multi-curve framework
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Risk preference theory and utility functions
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000092
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
+
+
  
 source: https://www.investopedia.com/terms/p/plain-vanilla-swap.asp
 description: A plain vanilla swap is the most basic type of forward claim that is

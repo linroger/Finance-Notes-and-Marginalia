@@ -1,24 +1,128 @@
 ---
-linter-yaml-title-alias: FIXED INCOME ASSET PRICING
-title: PSET II Fixed Income Asset Pricing 1
-tags:
-  - duration_convexity
-  - fixed_income_asset_pricing
-  - interest_rate_hedge
-  - leveraged_inverse_floater
-  - term_sheet
 aliases:
-  - Homework 2
-  - JCH Fixed Income Group
-  - LIF
-  - PSET II
+- Homework 2
+- JCH Fixed Income Group
+- LIF
+- PSET II
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000514
 key_concepts:
-  - Cash flows decomposition
-  - Convexity
-  - Duration calculation
-  - Fixed rate note
-  - Leveraged Inverse Floaters
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- PSET II Fixed Income Asset Pricing 1 and financial analysis
+- PSET II Fixed Income Asset Pricing 1 in modern finance
+- Applications of PSET II Fixed Income Asset Pricing 1
+- 'Case study: PSET II Fixed Income Asset Pricing 1'
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Risk Measurement and VaR Backtesting
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Fixed Income Securities and Credit Quality
+- Bond Pricing and Yield to Maturity Analysis
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Value at Risk and Expected Shortfall
+- Factor Models and Asset Pricing
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Ornstein-Uhlenbeck Process in Finance
+- Options Trading Strategies and Risk Management
+- Government and Corporate Bond Markets
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: FIXED INCOME ASSET PRICING
+tags:
+- maturity
+- options
+- bonds
+- put
+- yield
+- fixed-income
+- bond
+- risk
+- interest-rate
+- interest-rates
+- leverage
+- pricing
+- coupon
+- put-options
+- affine-term-structure
+- recovery-rate
+- hull-white
+- call-options
+- zero-coupon-bonds
+- clean-price
+- cir-model
+- butterfly-spreads
+- momentum
+- strangles
+- expected-shortfall
+- straddles
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- book-to-market
+- var-methodologies
+- historical-var
+- mean-reversion
+- lognormal-models
+- volatility-analysis
+- covered-calls
+- ' exposure-at-default'
+- style-analysis
+- short-rate-models
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- stress-testing
+- unexpected-loss
+- ornstein-uhlenbeck
+- rating-migration
+- expected-loss
+- investment-analysis
+- credit-migration
+- default-probability
+- risk-premium
+- value-at-risk
+- credit-spreads
+- arbitrage-pricing-theory
+- multi-factor-models
+- iron-condors
+- protective-puts
+- government-bonds
+- market-price-of-risk
+- financial-markets
+- probabilty-of-default
+- loss-given-default
+- size-effect
+- factor-models
+- value-factor
+- vasicek-model
+- dirty-price
+- monte-carlo-var
+- risk-management
+- var-backtesting
+- options-trading
+- coupon-bonds
+- apt
+- current-yield
+- yield-to-maturity
+- fama-french
+title: PSET II Fixed Income Asset Pricin
 ---
+--
 
 # PSET II Fixed Income Asset Pricing 1
 

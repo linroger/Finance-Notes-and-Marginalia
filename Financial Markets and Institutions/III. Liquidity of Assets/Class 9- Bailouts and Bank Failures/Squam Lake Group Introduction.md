@@ -1,22 +1,78 @@
 ---
 title: Squam Lake Group Introduction
 tags:
-  - economic_growth
-  - financial_crisis
-  - mortgage_backed_securities
-  - policy_recommendations
-  - world_financial_crisis
+- leverage
+- economic_growth
+- risk-free
+- volatility
+- eur
+- solvency
+- hedge
+- mortgage_backed_securities
+- lehman
+- senior
+- margin
+- financial_crisis
+- world_financial_crisis
+- value-at-risk
+- forward
+- future
+- regulation
+- swap
+- pricing
+- counterparty
+- option
+- oil
+- covered-interest
+- put
+- policy_recommendations
 aliases:
-  - Chapter 1
-  - Introduction
-  - WFC
+- Chapter 1
+- Introduction
+- WFC
 key_concepts:
-  - economic welfare
-  - financial firms
-  - financial system
-  - policy interventions
-  - sovereign debts
+- American option pricing and early exercise
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Arbitrage pricing theory and no-arbitrage principle
+- Bear Stearns in financial markets
+- Covered Interest in financial markets
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Exchange Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Risk Free in financial markets
+- Asset securitization and structured finance
+- Value At Risk in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000007
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Squam Lake Group Introduction
 # Chapter 1 Introduction

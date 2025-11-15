@@ -1,3 +1,83 @@
+---
+tags:
+- duration
+- capital-markets
+- eur
+- central-banking
+- volatility
+- convexity
+- prepayment
+- forward
+- quantitative-valuation
+- future
+- implied
+- swap
+- market-microstructure
+- risk-management
+- pricing
+- counterparty
+- option
+- hedging
+- bond-markets
+- trading
+- bond
+- spread
+- credit-risk
+- financial-institutions
+- options-pricing
+- mortgage
+- sofr
+- forward-rate
+- hedging-strategies
+- swap-markets
+- fixed-income
+- finance
+- quantitative-methods
+- structured-products
+key_concepts:
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Bond duration and interest rate risk
+- Bond convexity and price-yield relationships
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Market liquidity and microstructure effects
+- Arbitrage pricing theory and no-arbitrage principle
+- Convexity adjustments for bond portfolio management
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Duration and interest rate risk measurement
+- Forward Rate in financial markets
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- Mortgage prepayment modeling and MBS analysis
+- SOFR implementation and overnight rate markets
+- Spot Rate in financial markets
+- Swaption pricing and interest rate option strategies
+- Volatility modeling and implied volatility surfaces
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000128
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 %% Begin Waypoint %%
 - **Fixed Income Securities Tools for Today's Markets**
 	- **Chapter 1**

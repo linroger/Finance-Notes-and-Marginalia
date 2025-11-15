@@ -1,20 +1,68 @@
 ---
 tags:
-  - continuous_time
-  - discrete_time
-  - one_period_economy
-  - risk_free_return
-  - risk_neutral_probabilities
+- delta
+- risk_neutral_probabilities
+- risk-free
+- martingale
+- arbitrage
+- probability
+- coupon
+- future
+- stochastic
+- risk_free_return
+- dividend
+- discount
+- pricing
+- distribution
+- covariance
+- continuous_time
+- one_period_economy
+- put
+- trading
+- bond
+- measure
+- discrete_time
+- brownian
+- valuation
+- girsanov
 aliases:
-  - Risk-Neutral Expectation
-  - Risk-Neutral Measure
+- Risk-Neutral Expectation
+- Risk-Neutral Measure
 key_concepts:
-  - Continuous-time economy
-  - Discrete-time economy
-  - One-period economy
-  - Risk-free return
-  - Risk-neutral probability measure
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial derivatives pricing and valuation
+- Arbitrage pricing theory and no-arbitrage principle
+- Delta hedging strategies in options markets
+- Interest Rate in financial markets
+- Risk Free in financial markets
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000456
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 11.3 Risk-neutral probabilities  
 

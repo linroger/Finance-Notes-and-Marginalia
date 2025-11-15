@@ -1,24 +1,56 @@
 ---
 tags:
-  - carry_roll_down
-  - oas
-  - profit_loss_attribution
-  - relative_value_trading
-  - term_structure_models
+- hedge
+- profit_loss_attribution
+- carry_roll_down
+- oas
+- discount
+- term-structure
+- term_structure_models
+- apt
+- hedging
+- premium
+- call
+- model
+- market
+- factor-model
+- relative_value_trading
+- spread
+- measure
+- interest-rate
 aliases:
-  - OAS
-  - P&L attribution
-  - Spread change
+- OAS
+- P&L attribution
+- Spread change
 key_concepts:
-  - Carry-roll-down
-  - OAS definition
-  - One-factor model
-  - P&L attribution
-  - Rate changes
-  - Risk-neutral process
-  - Spread change
-  - Taylor approximation
+- Carry-roll-down
+- OAS definition
+- One-factor model
+- P&L attribution
+- Rate changes
+- Risk-neutral process
+- Spread change
+- Taylor approximation
+- Factor Model in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Term Structure in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000141
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 7.7 PROFIT AND LOSS ATTRIBUTION WITH AN OAS  
 

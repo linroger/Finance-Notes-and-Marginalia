@@ -1,3 +1,81 @@
+---
+tags:
+- delta
+- credit-rating
+- volatility
+- convexity
+- binomial-model
+- probability
+- continuous-time-pricing
+- asset-backed-securities
+- time-value
+- gamma
+- pricing
+- option
+- intrinsic
+- trading
+- duration-analysis
+- fixed-income-sensitivity
+- measure
+- discrete-time-pricing
+- derivatives
+- vega
+- dynamic-hedging
+- moneyness
+- theta
+- asset-allocation
+- delta-hedging
+- premium
+- greeks
+- convexity-adjustment
+- debit-valuation-adjustment
+- rho
+- call
+- black-scholes-model
+- market
+- roa
+- interest-rate
+key_concepts:
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Delta hedging strategies in options markets
+- Gamma risk and convexity adjustments in options
+- Interest Rate in financial markets
+- Time Value in financial markets
+- Vega and volatility exposure in options trading
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000091
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
+
+
  
 source: https://www.investopedia.com/terms/t/timedecay.asp
 description: Time decay is a measure of the rate of decline in the value of an options

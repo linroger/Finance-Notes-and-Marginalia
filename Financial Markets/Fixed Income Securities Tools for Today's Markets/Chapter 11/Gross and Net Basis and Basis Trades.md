@@ -1,23 +1,69 @@
 ---
 tags:
-  - basis_trades
-  - deliverable_bond
-  - futures_contract
-  - gross_basis
-  - net_basis
+- deliverable_bond
+- basis_trades
+- net_basis
+- synthetic
+- volatility
+- hedge
+- maturity
+- repo
+- coupon
+- forward
+- future
+- spot-price
+- pricing
+- apt
+- put
+- trading
+- bond
+- call
+- market
+- treasury
+- overnight
+- measure
+- futures_contract
+- futures-contract
+- gross_basis
 aliases:
-  - Basis Trade
-  - CTD
-  - Package Trade
-  - TYU1
+- Basis Trade
+- CTD
+- Package Trade
+- TYU1
 key_concepts:
-  - Basis Trade Definition
-  - Carry Calculation Example
-  - Conversion Factor Definition
-  - Deliverable Bond Price
-  - Futures Contract Price
-  - Gross and Net Basis
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Hedging strategies and delta-gamma neutrality
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Spot Price in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000184
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 11.9 GROSS AND NET BASIS AND BASIS TRADES  
 

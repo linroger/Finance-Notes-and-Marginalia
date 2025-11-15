@@ -1,21 +1,51 @@
 ---
 tags:
-  - asset_pricing
-  - consumption
-  - continuous_time
-  - expected_utility
-  - market_completeness
-  - state_price
+- delta
+- financial-modeling
+- expected_utility
+- quantitative-finance
+- state_price
+- consumption
+- dividend
+- risk-management
+- continuous_time
+- market
+- asset_pricing
+- financial-engineering
+- financial-markets
+- var
+- yield
+- market_completeness
 aliases:
-  - Continuous Time Framework
-  - Continuous-time Model
+- Continuous Time Framework
+- Continuous-time Model
 key_concepts:
-  - Continuous-time setting
-  - Market completeness
-  - Optimal consumption process
-  - State-price deflator
-  - Time-additive utility
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Delta hedging strategies in options markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000470
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 6.4 The continuous-time framework  
 

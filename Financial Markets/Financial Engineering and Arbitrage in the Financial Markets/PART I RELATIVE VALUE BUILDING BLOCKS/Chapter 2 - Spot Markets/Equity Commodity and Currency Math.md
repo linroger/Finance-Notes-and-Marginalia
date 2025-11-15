@@ -1,20 +1,66 @@
 ---
 tags:
-  - commodity_markets
-  - currency_exchange
-  - discounting
-  - equity_valuation
-  - financial_assets
+- delta
+- eur
+- arbitrage
+- bid-ask
+- usd
+- currency_exchange
+- energy
+- financial_assets
+- commodity
+- discount-rate
+- commodity_markets
+- future
+- discounting
+- equity_valuation
+- dividend
+- jpy
+- free-cash-flow
+- pricing
+- oil
+- put
+- american
+- bond
+- trading
+- spread
+- valuation
 aliases:
-  - Equity, Commodity, Currency
-  - Stocks, Commodities, Currencies
+- Equity, Commodity, Currency
+- Stocks, Commodities, Currencies
 key_concepts:
-  - Commodity definition
-  - Currency trading
-  - Discounted cash flows
-  - Dividend growth
-  - Stock valuation
+- Fixed income securities and yield curve analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Arbitrage pricing theory and no-arbitrage principle
+- Bid Ask in financial markets
+- Delta hedging strategies in options markets
+- Discount Rate in financial markets
+- Exchange Rate in financial markets
+- Free Cash Flow in financial markets
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- P E in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000318
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 2.5 EQUITY, COMMODITY, AND CURRENCY MATH  
 

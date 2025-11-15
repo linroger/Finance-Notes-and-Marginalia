@@ -1,21 +1,65 @@
 ---
 tags:
-  - fnma
-  - mbs
-  - mortgage_pools
-  - prepayments
-  - wac
+- cpr
+- prepayments
+- maturity
+- margin
+- repo
+- prepayment
+- coupon
+- pass-through
+- mortgage
+- pricing
+- mbs
+- credit
+- put
+- call
+- model
+- wac
+- market
+- var
+- spread
+- roa
+- fnma
+- measure
+- portfolio
+- mortgage_pools
 aliases:
-  - FNMA Pools
-  - MBS
-  - Mortgage Pool
+- FNMA Pools
+- MBS
+- Mortgage Pool
 key_concepts:
-  - Coupon and WAC
-  - MBS characteristics
-  - Mortgage pool definition
-  - Prepayment rates
-  - WAM and WALA
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Pass Through in financial markets
+- Mortgage prepayment modeling and MBS analysis
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000260
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 15.5 MORTGAGE POOLS  
 

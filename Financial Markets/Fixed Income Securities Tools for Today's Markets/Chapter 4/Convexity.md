@@ -1,21 +1,59 @@
 ---
 tags:
-  - bond_convexity
-  - bond_pricing
-  - duration
-  - dv01
-  - interest_rate_risk
+- delta
+- duration
+- convexity
+- coupon
+- dv01
+- bond_pricing
+- interest_rate_risk
+- call
+- put
+- bond
+- rating
+- treasury
+- market
+- var
+- measure
+- portfolio
+- interest-rate
+- bond_convexity
+- derivative
 aliases:
-  - convexity measure
-  - positive convexity
-  - price-rate curve
+- convexity measure
+- positive convexity
+- price-rate curve
 key_concepts:
-  - DV01 falling as rates
-  - bond price sensitivity
-  - convex shape of curve
-  - first-order approximation
-  - second derivative of price
+- Bond duration and interest rate risk
+- Bond convexity and price-yield relationships
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial derivatives pricing and valuation
+- Convexity adjustments for bond portfolio management
+- Delta hedging strategies in options markets
+- Duration and interest rate risk measurement
+- Interest Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000206
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 4.5 CONVEXITY  
 

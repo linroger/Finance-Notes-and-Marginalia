@@ -1,20 +1,77 @@
 ---
 tags:
-  - market_risk
-  - risk_management
-  - value_at_risk
-  - var_calculation
-  - yield_curve
+- duration
+- synthetic
+- eur
+- volatility
+- hedge
+- convexity
+- yield_curve
+- probability
+- risk_management
+- value-at-risk
+- commodity
+- value_at_risk
+- arma
+- momentum
+- future
+- yield-curve
+- implied
+- swap
+- pricing
+- correlation
+- option
+- covariance
+- distribution
+- var_calculation
+- market_risk
 aliases:
-  - Market VaR
-  - VaR
+- Market VaR
+- VaR
 key_concepts:
-  - Confidence level and horizon
-  - Factor change data
-  - Historical bootstrap method
-  - Portfolio sensitivity to factors
-  - 'VaR: critical value'
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Bond duration and interest rate risk
+- Bond convexity and price-yield relationships
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Arbitrage pricing theory and no-arbitrage principle
+- Convexity adjustments for bond portfolio management
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Duration and interest rate risk measurement
+- Fed Funds in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- Monte Carlo in financial markets
+- Swaption pricing and interest rate option strategies
+- Value At Risk in financial markets
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000345
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 13.4 VALUE AT RISK  
 

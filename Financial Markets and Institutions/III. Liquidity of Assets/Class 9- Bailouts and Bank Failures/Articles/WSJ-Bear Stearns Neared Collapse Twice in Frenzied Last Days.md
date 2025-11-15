@@ -1,23 +1,90 @@
 ---
 title: WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days
 tags:
-  - 2008_financial_crisis
-  - bear_stearns_collapse
-  - financial_crisis
-  - jp_morgan
-  - wall_street
+- restructuring
+- leverage
+- solvency
+- hedge
+- senior
+- future
+- risk-management
+- leveraged-buyout
+- option
+- oil
+- put
+- regulatory-capital
+- caps-floors
+- trading
+- bond
+- hedge-fund
+- financial-markets
+- stochastic-calculus
+- gold
+- mortgage
+- jp_morgan
+- modern-portfolio-theory
+- bear_stearns_collapse
+- ito
+- event-study
+- financial_crisis
+- 2008_financial_crisis
+- bear-stearns
+- gas
+- distressed
+- private-equity
+- asian
+- hedge-funds
+- apt
+- rescue
+- credit
+- wall_street
+- investment-strategy
+- call
+- banking
 aliases:
-  - Alan Schwartz
-  - Bear Stearns
-  - Henry Paulson
-  - Timothy Geithner
+- Alan Schwartz
+- Bear Stearns
+- Henry Paulson
+- Timothy Geithner
 key_concepts:
-  - Bear Stearns collapse
-  - Government loan guarantee
-  - J.P. Morgan acquisition
-  - Stock price decline
-  - Weekend deal deadline
+- Bear Stearns collapse
+- Government loan guarantee
+- Weekend deal deadline
+- Stock price decline
+- J.P. Morgan acquisition
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Bear Stearns in financial markets
+- Risk hedging strategies and instruments
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000022
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # WSJ-Bear Stearns Neared Collapse Twice in Frenzied Last Days
 

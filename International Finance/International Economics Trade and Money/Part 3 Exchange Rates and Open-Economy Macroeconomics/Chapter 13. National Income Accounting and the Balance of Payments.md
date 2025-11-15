@@ -1,3 +1,79 @@
+---
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Chapter 13. National Income Accounting and the Balance of Payments and financial
+  analysis
+- Chapter 13. National Income Accounting and the Balance of Payments in modern finance
+- Applications of Chapter 13. National Income Accounting and the Balance of Payments
+- 'Case study: Chapter 13. National Income Accounting and the Balance of Payments'
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+tags:
+- barrier
+- eur
+- arma
+- swaps
+- future
+- implied
+- dividend
+- irs
+- distribution
+- fair-value
+- oil
+- compliance
+- put
+- american
+- bond
+- trading
+- gold
+- crisis
+- bonds
+- measure
+- valuation
+- options
+- pandemic
+- ito
+- comparable
+- fixed-income
+- accounting
+- portfolio
+- credit
+- call
+- treasury
+- yield
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000524
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # CHAPTER 13  
 
 # National Income Accounting and the Balance of Payments  

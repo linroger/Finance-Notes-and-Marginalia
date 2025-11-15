@@ -1,36 +1,44 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: A Glossary of Technical Terms Related to Bankruptcy in the US
 tags:
-  - bankruptcy
-  - chapter_11
-  - chapter_7
-  - liquidation
-  - reorganization
-  - us_code
-  - creditor_rights
-  - debtor_protections
-  - reorganization_process
+- asset-backed-securities
+- banking-regulation
+- basel-accord
+- capital-adequacy
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cds
+- coherent-risk-measure
+- conditional-var
+- convexity-adjustment
+- cost-of-capital
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
 aliases:
-  - Bankruptcy Definitions
-  - Glossary of Bankruptcy Terms
-  - US Bankruptcy Code Terms
+- Bankruptcy Definitions
+- Glossary of Bankruptcy Terms
+- US Bankruptcy Code Terms
 key_concepts:
-  - 363 asset sale
-  - Absolute priority rule
-  - Automatic stay creditors
-  - Chapter 11 reorganization
-  - Chapter 7 liquidation
-  - Claims against debtor
-  - Cramdown process
-  - Debtor-in-possession financing
-  - Discharge of debts
-  - Exclusivity period
-  - Fraudulent transfer
-  - Impaired claims
-  - Plan of reorganization
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
 
 # A Glossary of Technical Terms Related to Bankruptcy in the US
 

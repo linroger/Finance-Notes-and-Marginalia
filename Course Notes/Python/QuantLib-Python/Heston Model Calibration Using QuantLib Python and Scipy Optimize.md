@@ -1,26 +1,176 @@
 ---
-title: Heston Model Calibration Using QuantLib Python and Scipy Optimize
-tags:
-  - heston_model
-  - option_pricing
-  - parameter_calibration
-  - quantlib_python
-  - scipy_optimize
+academic_level: graduate
 aliases:
-  - Heston Calibration
-  - Model Calibration
-  - QuantLib Calibration
-  - Scipy Optimization
+- Heston Calibration
+- Model Calibration
+- QuantLib Calibration
+- Scipy Optimization
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000053
 key_concepts:
-  - Differential evolution
-  - Heston model
-  - Least squares method
-  - Levenberg-Marquardt solver
-  - Local minima solvers
-  - Parameter calibration methods
-  - QuantLib Python
-  - Scipy Optimize package
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- QuantLib library and quantitative finance implementation
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Variance Reduction Techniques in Monte Carlo Methods
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Stochastic Integration and Path-Dependent Options
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Factor Models and Asset Pricing
+- Hedge Strategies and Basis Risk Management
+- Term Structure of Interest Rates and Yield Curves
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Monte Carlo Simulation Methods for Derivative Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- array-computing
+- asset-backed-securities
+- binomial-model
+- black-scholes-model
+- capital-asset-pricing
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cds
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- control-variates
+- leveraged-buyout
+- asset-allocation
+- exotic-options
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- volatility-analysis
+- style-analysis
+- option-strategies
+- yield-curve
+- unexpected-loss
+- clearinghouse
+- interpolation
+- arbitrage-pricing-theory
+- monte-carlo-simulation
+- hedge-ratio
+- market-price-of-risk
+- loss-given-default
+- value-factor
+- vasicek-model
+- monte-carlo-var
+- options-trading
+- forward-contracts
+- fama-french
+- forward-rates
+- price-to-earnings
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- random-walks
+- expected-loss
+- quantitative-finance
+- forward-curve
+- protective-puts
+- probabilty-of-default
+- curve-fitting
+- roll-yield
+- risk-premium
+- spot-rates
+- put-options
+- affine-term-structure
+- momentum
+- basis-risk
+- antithetic-variates
+- term-structure
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- path-dependency
+- value-at-risk
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- variance-reduction
+- stochastic-integration
+- sum-of-parts
+- yield-curve-shocks
+- strangles
+- short-rate-models
+- least-squares-mc
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- quasi-monte-carlo
+- apt
+- bootstrap-method
+title: Heston Model Calibration Using QuantLib Python and Scipy Optimize
+type: note
 ---
+--
+
+
 
 # Heston Model Calibration Using QuantLib Python and Scipy Optimize
 In this post we do a deep dive on calibration of Heston model using QuantLib Python and Scipy's Optimize package.

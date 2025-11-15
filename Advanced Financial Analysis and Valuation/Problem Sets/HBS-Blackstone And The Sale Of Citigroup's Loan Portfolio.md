@@ -1,40 +1,253 @@
 ---
-cssclasses: academia
-title: "HBS Case Study: Blackstone and the Sale of Citigroup's Loan Portfolio"
-date: 2023-10-15
-tags:
-  - blackstone_citigroup_deal
-  - leveraged_loans
-  - financial_crisis_2008
-  - distressed_debt
-  - private_equity
-  - lbo_financing
-  - regulatory_capital
-  - gso_capital
-  - loan_portfolio_sale
-  - mark_to_market_risk
-  - collateralized_loans
-  - subprime_crisis
-  - bear_stearns_collapse
-  - margin_requirements
-  - cds_spreads
+academic_level: graduate
 aliases:
-  - Blackstone Citigroup Loan Deal 2008
-  - GSO Capital Loan Purchase
-  - Citigroup $6.1B Loan Sale
-  - Distressed Debt Opportunity 2008
+- Blackstone Citigroup Loan Deal 2008
+- GSO Capital Loan Purchase
+- Citigroup $6.1B Loan Sale
+- Distressed Debt Opportunity 2008
+cssclasses: academia
+date: 2023-10-15
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000232
 key_concepts:
-  - Loan portfolio: $6.11 billion face value at 83 cents on dollar
-  - Leverage: 75% non-recourse financing from Citigroup
-  - Margin call risk: If portfolio value falls below 66.4% of face
-  - Regulatory capital relief: 100% risk weight for leveraged loans
-  - Mark-to-market: LCDX at 92 cents, causing writedowns
-  - Default probabilities: CDS implied 20.82% vs historic 5.91%
-  - Recycling provision: Four-year reinvestment flexibility
-  - First lien security: 75% senior secured debt
-  - Timing uncertainty: Market bottom unknown
-  - Partnership structure: Blackstone and TPG joint venture
+- Securitization and structured finance
+- Collateralized debt obligations (CDO) and tranche structure
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Basel III Regulatory Framework and Capital Requirements
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- Delta, Gamma, and Vega Hedging Techniques
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Distressed Investing and Debt Restructuring
+- Forward Curves and Roll Strategies
+- Regulatory Capital and Stress Testing
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Credit Default Swaps and CDS Pricing
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- Interest Rate Swaps and Currency Swap Structures
+- Private Equity Investment Returns and Value Creation
+- Liquidity Coverage Ratio and Net Stable Funding
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- CDS Spreads and Implied Default Probabilities
+- Credit Spreads and Rating Migration Analysis
+- Market Microstructure and Liquidity Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Credit Risk Transfer and Synthetic Instruments
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arch
+- asset-allocation
+- bid-ask-spread
+- caplet
+- collateralized-debt-obligation
+- credit-default-swap
+- credit-rating
+- financial-buyout
+- gold-bullion
+- gold-derivatives
+- hedging
+- heteroskedasticity
+- index-cds
+- interest-rate-cap
+- interest-rate-ceiling
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- exchange-offers
+- backwardation
+- net-stable-funding
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- cramdown
+- corporate-bonds
+- unexpected-loss
+- clearinghouse
+- debt-restructuring
+- cds-spreads
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- private-equity
+- market-price-of-risk
+- capital-conservation-buffer
+- price-discovery
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- dirty-price
+- forward-curves
+- distressed-investing
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- regulatory-capital
+- debt-capacity
+- expected-loss
+- market-efficiency
+- delta-hedging
+- quantitative-finance
+- order-flow
+- currency-swaps
+- default-leg
+- foreign-recurrency
+- cds-arbitrage
+- protective-puts
+- government-bonds
+- investment-return
+- probabilty-of-default
+- liquidity
+- gamma-hedging
+- hedge-effectiveness
+- credit-default-swaps
+- storage-costs
+- roll-yield
+- tier-2-capital
+- risk-premium
+- put-options
+- cds-coupons
+- countercyclical-buffer
+- affine-term-structure
+- equity-kickers
+- lbo-valuation
+- algorithmic-trading
+- momentum
+- basis-risk
+- hedge-strategies
+- cds-bond-basis
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- value-at-risk
+- bootstrap-strategy
+- metals-trading
+- management-buyout
+- blocker-strategy
+- risky-continuation
+- factor-models
+- convenience-yield
+- creditor-committees
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- tender-offers
+- cross-hedging
+- sum-of-parts
+- seasonality
+- clean-price
+- ' DIP-financing'
+- high-frequency-trading
+- strangles
+- conditional-var
+- fixed-income
+- short-rate-models
+- swap-spread
+- credit-migration
+- default-probability
+- marking-to-market
+- total-return-swaps
+- libor
+- credit-spreads
+- premium-leg
+- multi-factor-models
+- trading-multiples
+- tier-1-capital
+- iron-condors
+- financial-markets
+- static-hedging
+- size-effect
+- basis-swaps
+- precedent-transactions
+- interest-rate-swaps
+- liquidity-coverage-ratio
+- ipo-valuation
+- basel-iii
+- market-multiple
+- futures-contracts
+- cds-implied-probability
+- apt
+- current-yield
+title: 'HBS Case Study: Blackstone and the Sale of Citigroup''s Loan Portfolio'
+type: note
 ---
+--
+
+
 
 # Blackstone and the Sale of Citigroup's Loan Portfolio
 

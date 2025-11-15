@@ -1,26 +1,60 @@
 ---
 title: Merrill Coercive Exchange Offers
-cssclasses: ["academia"]
+cssclasses:
+- academia
 tags:
-  - bondholders
-  - coercive_exchange_offers
-  - corporate_restructuring
-  - high_yield_bonds
-  - leveraged_loans
+- corporate_restructuring
+- bondholders
+- leveraged_loans
+- high_yield_bonds
+- coercive_exchange_offers
+- event-study
+- caps-floors
+- high-yield
+- yield-to-maturity
+- distressed
+- private-equity
+- financial-markets
+- leveraged-buyout
+- regulatory-capital
+- risk-management
+- natural-language-processing
+- banking
+- capital-structure
+- stochastic-calculus
+- volatility-smile
 aliases:
-  - coercive offers
-  - exchange offers
+- coercive offers
+- exchange offers
 key_concepts:
-  - Merrill exchange offers
-  - bondholder treatment  
-  - corporate financial distress
-  - high yield bonds
-  - market participant evaluation
-  - exit consents
-  - holdout problem
-  - covenant stripping
-  - debt restructuring strategies
-  - exchange offer mechanics
+- Merrill exchange offers
+- high yield bonds
+- holdout problem
+- bondholder treatment
+- market participant evaluation
+- exchange offer mechanics
+- exit consents
+- debt restructuring strategies
+- covenant stripping
+- corporate financial distress
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
 ---
 
 # Merrill Coercive Exchange Offers

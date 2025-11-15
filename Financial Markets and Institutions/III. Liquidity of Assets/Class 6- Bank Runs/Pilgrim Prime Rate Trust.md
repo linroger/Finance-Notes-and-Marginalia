@@ -1,32 +1,107 @@
 ---
 cssclasses:
-  - academia
-title: "Pilgrim Prime Rate Trust"
-linter-yaml-title-alias: "Pilgrim Prime Rate Trust"
+- academia
+title: Pilgrim Prime Rate Trust
+linter-yaml-title-alias: Pilgrim Prime Rate Trust
 tags:
-  - closed_end_fund
-  - corporate_loans
-  - participation_interests
-  - prime_rate
-  - senior_loans
-  - investment_company
-  - credit_instruments
-  - loan_participations
+- prime_rate
+- leverage
+- credit_instruments
+- duration
+- solvency
+- senior_loans
+- participation_interests
+- senior
+- energy
+- prepayment
+- future
+- regulation
+- dividend
+- risk-management
+- free-cash-flow
+- pricing
+- leveraged-buyout
+- distribution
+- put
+- regulatory-capital
+- mertons-model
+- caps-floors
+- trading
+- bond
+- deposit-insurance
+- financial-markets
+- crisis
+- spread
+- credit-risk
+- measure
+- mortgage
+- closed_end_fund
+- high-yield
+- event-study
+- distressed
+- private-equity
+- corporate_loans
+- loan_participations
+- investment_company
+- yield-to-maturity
 aliases:
-  - Pilgrim Prime
-  - Prime Rate Trust
-  - "Pilgrim Prime Rate Fund"
+- Pilgrim Prime
+- Prime Rate Trust
+- Pilgrim Prime Rate Fund
 key_concepts:
-  - closed-end investment company
-  - participation interests
-  - preservation of capital
-  - seeks current income
-  - senior corporate loans
-  - Variable rate instruments
-  - Credit quality focus
-  - Closed-end fund structure
-  - Below investment grade loans
+- seeks current income
+- Closed-end fund structure
+- preservation of capital
+- Credit quality focus
+- Below investment grade loans
+- senior corporate loans
+- closed-end investment company
+- participation interests
+- Variable rate instruments
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Duration and interest rate risk measurement
+- Free Cash Flow in financial markets
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- Mortgage prepayment modeling and MBS analysis
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000053
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Pilgrim Prime Rate Trust
 

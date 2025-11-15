@@ -1,35 +1,94 @@
 ---
 cssclasses:
-  - academia
-title: "Money Market Mutual Fund Liquidity Facility"
-linter-yaml-title-alias: "Money Market Mutual Fund Liquidity Facility"
+- academia
+title: Money Market Mutual Fund Liquidity Facility
+linter-yaml-title-alias: Money Market Mutual Fund Liquidity Facility
 tags:
-  - collateral
-  - eligible_collateral
-  - federal_reserve
-  - liquidity_facility
-  - money_market_funds
-  - financial_crisis_2008
-  - emergency_lending
-  - central_banking
-  - market_stability
+- leverage
+- eligible_collateral
+- ito
+- maturity
+- market_stability
+- repo
+- valuation
+- liquidity_facility
+- future
+- capital
+- financial-crisis
+- risk-management
+- emergency_lending
+- financial_crisis_2008
+- central_banking
+- private-equity
+- option
+- mark-to-market
+- credit
+- federal_reserve
+- regulatory-capital
+- caps-floors
+- market
+- rating
+- currency
+- deposit-insurance
+- financial-markets
+- stochastic-calculus
+- treasury
+- money_market_funds
+- banking
+- liquidity
+- var
+- crisis
+- collateral
+- modern-portfolio-theory
 aliases:
-  - MMLF
-  - MMMF Liquidity Facility
-  - Money Market Facility
-  - "Money Market Fund Liquidity Facility"
+- MMLF
+- MMMF Liquidity Facility
+- Money Market Facility
+- Money Market Fund Liquidity Facility
 key_concepts:
-  - Borrower eligibility criteria
-  - Eligible borrowers and assets
-  - Eligible collateral types
-  - Facility opening date
-  - Provide liquidity to Funds
-  - Federal Reserve emergency facilities
-  - Asset-backed commercial paper
-  - Bank lending to MMFs
-  - Market stabilization measures
-  - Crisis intervention tools
+- Borrower eligibility criteria
+- Asset-backed commercial paper
+- Market stabilization measures
+- Eligible borrowers and assets
+- Bank lending to MMFs
+- Provide liquidity to Funds
+- Crisis intervention tools
+- Federal Reserve emergency facilities
+- Eligible collateral types
+- Facility opening date
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
+- Market liquidity analysis and liquidity risk
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000051
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Money Market Mutual Fund Liquidity Facility
 

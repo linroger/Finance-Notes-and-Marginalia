@@ -1,3 +1,82 @@
+---
+key_concepts:
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Chapter 18. Fixed Exchange Rates and Foreign Exchange Intervention and financial
+  analysis
+- Chapter 18. Fixed Exchange Rates and Foreign Exchange Intervention in modern finance
+- Applications of Chapter 18. Fixed Exchange Rates and Foreign Exchange Intervention
+- 'Case study: Chapter 18. Fixed Exchange Rates and Foreign Exchange Intervention'
+- Arbitrage pricing theory and no-arbitrage principle
+- Carry Trade in financial markets
+- Covered Interest in financial markets
+- Delta hedging strategies in options markets
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Uncovered Interest in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+tags:
+- delta
+- eur
+- volatility
+- multiple
+- monetary-policy
+- barrier
+- forward
+- future
+- implied
+- risk-management
+- interest-rates
+- option
+- oil
+- covered-interest
+- put
+- american
+- bond
+- trading
+- gold
+- crisis
+- bonds
+- spread
+- measure
+- options
+- maturity
+- fixed-income
+- call
+- treasury
+- cdo
+- var
+- yield
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000527
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # CHAPTER 18  
 
 # Fixed Exchange Rates and Foreign Exchange Intervention  

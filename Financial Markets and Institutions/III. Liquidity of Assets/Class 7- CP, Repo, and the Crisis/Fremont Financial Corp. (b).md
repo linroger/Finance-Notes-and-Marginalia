@@ -1,24 +1,27 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Fremont Financial Corp. (b)
 linter-yaml-title-alias: Fremont Financial Corp
 tags:
-  - bank_failure
-  - corporate_debt
-  - financial_crisis
-  - mortgage_loans
-  - subprime_mortgages
+- financial_crisis
+- mortgage_loans
+- bank_failure
+- corporate_debt
+- subprime_mortgages
 aliases:
-  - FFC
-  - Fremont Corp
-  - Fremont Financial
+- FFC
+- Fremont Corp
+- Fremont Financial
 key_concepts:
-  - Bank failures analysis
-  - Corporate debt exposure
-  - Financial crisis impact
-  - Mortgage-backed securities
-  - Subprime lending practices
+- Subprime lending practices
+- Financial crisis impact
+- Bank failures analysis
+- Mortgage-backed securities
+- Corporate debt exposure
+- Financial markets and instruments overview
+- Risk management and portfolio optimization
+- Quantitative finance and modeling techniques
 ---
 
 # Fremont Financial Corp. (b)

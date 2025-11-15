@@ -1,20 +1,63 @@
 ---
 tags:
-  - daily_compounded_sofr
-  - futures_contracts
-  - hedging
-  - interest_rate_risk
-  - sofr_futures
+- sofr_futures
+- hedge
+- futures_contracts
+- growth
+- forward
+- future
+- futures-contract
+- hedging
+- apt
+- daily_compounded_sofr
+- interest_rate_risk
+- call
+- trading
+- rating
+- market
+- variance
+- currency
+- cdo
+- var
+- spread
+- sofr
+- interest-rate
+- valuation
 aliases:
-  - 3-month SOFR futures
-  - SOFR futures contracts
+- 3-month SOFR futures
+- SOFR futures contracts
 key_concepts:
-  - contract settlement
-  - daily compounded SOFR
-  - hedging exposure to SOFR
-  - settlement rate
-  - three-month contracts
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- SOFR implementation and overnight rate markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000244
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 12.4 THREE-MONTH SOFR FUTURES  
 

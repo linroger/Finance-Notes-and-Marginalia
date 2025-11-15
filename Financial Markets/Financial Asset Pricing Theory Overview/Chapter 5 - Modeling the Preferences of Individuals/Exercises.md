@@ -1,20 +1,50 @@
 ---
 tags:
-  - exercises
-  - expected_utility
-  - insurance
-  - probability_distributions
-  - risk_aversion
+- delta
+- gamma
+- noise
+- distribution
+- premium
+- apt
+- risk_aversion
+- expected_utility
+- insurance
+- put
+- probability
+- financial-markets
+- exercises
+- probability_distributions
+- future
 aliases:
-  - consumption plans
-  - exercise problems
+- consumption plans
+- exercise problems
 key_concepts:
-  - actuarially fair insurance
-  - expected utility maximization
-  - one-period choice problem
-  - probability distributions
-  - risk averse consumer
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Delta hedging strategies in options markets
+- Gamma risk and convexity adjustments in options
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000437
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 5.8 Exercises  
 

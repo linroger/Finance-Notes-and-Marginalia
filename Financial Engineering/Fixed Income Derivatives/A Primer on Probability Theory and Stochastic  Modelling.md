@@ -1,20 +1,65 @@
 ---
-tags:
-  - markov_chain
-  - probability_equations
-  - stationary_distribution
-  - stochastic_modelling
-  - transition_probabilities
+academic_level: graduate
 aliases:
-  - Probability Primer
-  - Stochastic Process Example
+- Probability Primer
+- Stochastic Process Example
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000340
 key_concepts:
-  - Markov Chain Model
-  - Random Process Steps
-  - Stationary Distribution
-  - System of Equations
-  - Transition Probabilities
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Risk Measurement and VaR Backtesting
+- Value at Risk and Expected Shortfall
+- LBO Valuation and Debt Capacity Analysis
+- Leveraged Buyouts and Private Equity Transactions
+- Stress Testing and Extreme Value Analysis
+- Private Equity Investment Returns and Value Creation
+professional_application: theoreti
+status: active
+tags:
+- asset-allocation
+- credit-rating
+- hedging
+- investment-grade
+- linear-regression
+- low-default-risk
+- markov-chain
+- portfolio-management
+- probabilistic-models
+- regression-analysis
+- risk-management
+- state-transition
+- statistical-modeling
+- leveraged-buyout
+- equity-kickers
+- lbo-valuation
+- expected-shortfall
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- var-methodologies
+- historical-var
+- leverage-ratio
+- stress-testing
+- mathematical-finance
+- debt-capacity
+- quantitative-finance
+- value-at-risk
+- bootstrap-strategy
+- private-equity
+- investment-return
+- management-buyout
+- monte-carlo-var
+- var-backtesting
+type: primer
 ---
+--
+
+
 
 # A Primer on Probability Theory and Stochastic  Modelling  
 

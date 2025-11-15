@@ -1,26 +1,184 @@
 ---
-cssclasses:
-  - academia
-description: The People's Bank of China is the central
-  bank of the People's Republic of China and is located in Beijing.
-source: https://www.investopedia.com/terms/p/peoples-bank-china-pboc.asp
-title: People's Bank of China (PBoC)
-tags:
-  - china_economy
-  - chinese_central_bank
-  - financial_stability
-  - monetary_policy
-  - pboc
 aliases:
-  - PBOC
-  - People's Bank of China
+- PBOC
+- People's Bank of China
+cssclasses:
+- academia
+description: The People's Bank of China is the central bank of the People's Republic
+  of China and is located in Beijing.
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000015
 key_concepts:
-  - China's central bank
-  - Maintains economic stability
-  - Manages Renminbi currency
-  - Oversees monetary policy
-  - Regulates financial institutions
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- People's Bank of China (PBoC) and financial analysis
+- People's Bank of China (PBoC) in modern finance
+- Applications of People's Bank of China (PBoC)
+- 'Case study: People''s Bank of China (PBoC)'
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Distressed Investing and Debt Restructuring
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Term Structure of Interest Rates and Yield Curves
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+source: https://www.investopedia.com/terms/p/peoples-bank-china-pboc.asp
+tags:
+- credit
+- options
+- bonds
+- put
+- municipal
+- monetary-policy
+- regulation
+- fixed-income
+- bond
+- liquidity
+- treasury
+- interest-rate
+- interest-rates
+- risk
+- ratio
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- exchange-offers
+- backwardation
+- volatility-analysis
+- style-analysis
+- bond-pricing
+- option-strategies
+- cramdown
+- corporate-bonds
+- yield-curve
+- unexpected-loss
+- clearinghouse
+- debt-restructuring
+- interpolation
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- dirty-price
+- distressed-investing
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- forward-rates
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- expected-loss
+- market-efficiency
+- forward-curve
+- order-flow
+- bid-ask-spread
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- curve-fitting
+- roll-yield
+- risk-premium
+- spot-rates
+- put-options
+- affine-term-structure
+- algorithmic-trading
+- momentum
+- basis-risk
+- term-structure
+- covered-calls
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- investment-analysis
+- value-at-risk
+- blocker-strategy
+- factor-models
+- creditor-committees
+- risk-management
+- convergence
+- var-backtesting
+- tender-offers
+- ' DIP-financing'
+- clean-price
+- yield-curve-shocks
+- high-frequency-trading
+- strangles
+- conditional-var
+- short-rate-models
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- multi-factor-models
+- iron-condors
+- financial-markets
+- size-effect
+- futures-contracts
+- apt
+- bootstrap-method
+- current-yield
+title: People's Bank of China (PB
 ---
+--
 
 People's Bank of China) (PBoC)]]
 

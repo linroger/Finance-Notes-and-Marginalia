@@ -1,24 +1,76 @@
 ---
 tags:
-  - asset_transformation
-  - fixed_rate
-  - floating_rate
-  - hedging_interest_rate_risk
-  - interest_rate_swaps
-  - liability_transformation
-  - plain_vanilla_swap
+- delta
+- fixed_rate
+- floating_rate
+- efficiency
+- default
+- eur
+- volatility
+- martingale
+- probability
+- margin
+- forward
+- asset_transformation
+- future
+- swap
+- hedging_interest_rate_risk
+- pricing
+- distribution
+- option
+- plain_vanilla_swap
+- hedging
+- put
+- bond
+- liability_transformation
+- measure
+- forward-rate
+- interest_rate_swaps
+- valuation
 aliases:
-  - IRS
-  - Interest Rate Swap
-  - Swap Valuation
+- IRS
+- Interest Rate Swap
+- Swap Valuation
 key_concepts:
-  - Asset transformation
-  - Comparative advantages
-  - Fixed vs. floating rates
-  - Hedging interest rate risk
-  - Interest rate swap
-  - Liability transformation
+- Option Greeks and risk sensitivities
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Financial derivatives pricing and valuation
+- Credit default probability and recovery modeling
+- Delta hedging strategies in options markets
+- Forward Rate in financial markets
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Spot Rate in financial markets
+- Swaption pricing and interest rate option strategies
+- Term Structure in financial markets
+- Volatility modeling and implied volatility surfaces
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000400
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 12.4 Interest rate swaps and swaptions  
 

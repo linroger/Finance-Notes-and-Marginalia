@@ -1,3 +1,80 @@
+---
+key_concepts:
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Chapter 16. Price Levels and the Exchange Rate in the Long Run and financial analysis
+- Chapter 16. Price Levels and the Exchange Rate in the Long Run in modern finance
+- Applications of Chapter 16. Price Levels and the Exchange Rate in the Long Run
+- 'Case study: Chapter 16. Price Levels and the Exchange Rate in the Long Run'
+- Arbitrage pricing theory and no-arbitrage principle
+- Delta hedging strategies in options markets
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Pass Through in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+tags:
+- delta
+- efficiency
+- barrier
+- volatility
+- multiple
+- eur
+- margin
+- commodity
+- swaps
+- future
+- implied
+- yield-curve
+- pass-through
+- risk-management
+- pricing
+- irs
+- interest-rates
+- distribution
+- put
+- american
+- bond
+- trading
+- gold
+- spread
+- options
+- arbitrage
+- theta
+- risk
+- call
+- var
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000529
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # CHAPTER 16  
 
 # Price Levels and the Exchange Rate in the Long Run  

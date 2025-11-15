@@ -1,40 +1,164 @@
 ---
-cssclasses: academia
-title: "HBS Case Study: Westlake Chemical"
-date: 2023-10-15
-tags:
-  - westlake_chemical
-  - cyclical_industry
-  - commodity_chemicals
-  - ethylene_production
-  - pvc_manufacturing
-  - vertical_integration
-  - natural_gas_feedstock
-  - petrochemicals
-  - olefins_vinyls
-  - chemical_cycle
-  - peak_eps_estimation
-  - capacity_utilization
-  - margin_analysis
-  - commodity_pricing
-  - feedstock_volatility
+academic_level: graduate
 aliases:
-  - Westlake Chemical Case Study
-  - HBS Westlake Case
-  - Ethylene Value Chain Analysis
-  - Commodity Chemicals Valuation
+- Westlake Chemical Case Study
+- HBS Westlake Case
+- Ethylene Value Chain Analysis
+- Commodity Chemicals Valuation
+cssclasses: academia
+date: 2023-10-15
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000217
 key_concepts:
-  - Vertical integration: Ethylene to polyethylene/PVC value chain
-  - Natural gas volatility: Key feedstock price risk
-  - Cyclical margins: Chemical industry boom-bust cycles
-  - Peak EPS calculation: $4.24 estimated at cycle peak
-  - Operating rates: 95%+ drives peak margins
-  - Commodity exposure: Limited product differentiation
-  - Forward P/E concerns: Sustainability of peak earnings
-  - Capital intensity: High barriers to entry
-  - Feedstock flexibility: 90%+ ethane vs naphtha
-  - End market sensitivity: Construction and interest rates
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Distressed Investing and Debt Restructuring
+- Forward Curves and Roll Strategies
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- asset-allocation
+- caplet
+- commodity-derivatives
+- commodity-futures
+- counterparty-risk
+- credit-exposure
+- credit-rating
+- credit-valuation-adjustment
+- debit-valuation-adjustment
+- forward-contracts
+- forward-pricing
+- funding-costs
+- futures
+- hedging
+- interest-rate-cap
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- exchange-offers
+- backwardation
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- option-strategies
+- cramdown
+- unexpected-loss
+- clearinghouse
+- debt-restructuring
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- forward-curves
+- distressed-investing
+- monte-carlo-var
+- options-trading
+- commodity-trading
+- price-to-earnings
+- fama-french
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- expected-loss
+- protective-puts
+- probabilty-of-default
+- storage-costs
+- roll-yield
+- risk-premium
+- put-options
+- affine-term-structure
+- momentum
+- basis-risk
+- covered-calls
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- metals-trading
+- blocker-strategy
+- factor-models
+- convenience-yield
+- creditor-committees
+- agricultural-commodities
+- risk-management
+- convergence
+- var-backtesting
+- tender-offers
+- sum-of-parts
+- seasonality
+- ' DIP-financing'
+- strangles
+- conditional-var
+- short-rate-models
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+title: 'HBS Case Study: Westlake Chemical'
+type: case-study
 ---
+--
+
+
 
 # HBS Westlake Case
 

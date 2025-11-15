@@ -4,24 +4,77 @@ source: https://www.investopedia.com/terms/q/qsd.asp
 description: A quality spread differential (QSD) is the difference between market
   interest rates achieved by two parties who enter an interest rate swap.
 tags:
-  - bond_investors
-  - counterparty_risk
-  - creditworthiness
-  - fixed_rate_debt
-  - floating_rate_debt
-  - interest_rate_swap
-  - quality_spread_differential
+- basel-accord
+- credit-rating
+- cds
+- default
+- hedge
+- maturity
+- credit-modeling
+- swap
+- counterparty-risk
+- caplet
+- conditional-var
+- capital-adequacy
+- delta-hedging
+- counterparty
+- premium
+- interest-rate
+- credit
+- convexity-adjustment
+- default-probability
+- credit-default-swap
+- call
+- bond
+- market
+- var
+- spread
+- credit-risk
+- measure
+- yield
+- banking-regulation
+- credit-derivatives
+- coherent-risk-measure
 aliases:
-  - QSD
-  - QSD Example
-  - Quality Spread
+- QSD
+- QSD Example
+- Quality Spread
 key_concepts:
-  - Benefit both parties
-  - Difference in market rates
-  - Gauge counterparty risk
-  - Measure creditworthiness
-  - Subtract contracted market rate
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Interest rate swaps and fixed income derivatives
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000108
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
 
 
 ## What Is Quality Spread Differential (QSD)?

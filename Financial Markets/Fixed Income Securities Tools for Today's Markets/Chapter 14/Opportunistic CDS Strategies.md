@@ -1,21 +1,62 @@
 ---
 tags:
-  - cds_market
-  - cds_strategies
-  - hovnanian
-  - manufactured_default
-  - opportunistic_strategies
+- default
+- cds
+- eur
+- hedge
+- roe
+- coupon
+- manufactured_default
+- forward
+- cds_market
+- discount
+- premium
+- credit
+- put
+- trading
+- hovnanian
+- opportunistic_strategies
+- bond
+- market
+- call
+- rating
+- recovery
+- credit-risk
+- cds_strategies
+- fail
 aliases:
-  - CDS Strategies
-  - Manufactured Default
-  - Opportunistic CDS
+- CDS Strategies
+- Manufactured Default
+- Opportunistic CDS
 key_concepts:
-  - CDS buyers and sellers
-  - CDS traders and issuers
-  - Final recovery expectations
-  - Hovnanian manufactured default
-  - Opportunistic CDS strategies
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Risk hedging strategies and instruments
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000230
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 14.12 OPPORTUNISTIC CDS STRATEGIES  
 

@@ -1,20 +1,63 @@
 ---
 tags:
-  - factor_beta
-  - one_period_framework
-  - pricing_factors
-  - risk_premium
-  - zero_beta_return
+- factor_beta
+- risk-free
+- pricing_factors
+- arbitrage
+- one_period_framework
+- mean-variance
+- risk_premium
+- dividend
+- discount
+- pricing
+- covariance
+- premium
+- apt
+- call
+- market
+- variance
+- cdo
+- zero_beta_return
+- var
+- capm
+- portfolio
 aliases:
-  - Factor Model
-  - Pricing Factor
+- Factor Model
+- Pricing Factor
 key_concepts:
-  - Factor beta calculation
-  - Gross return equation
-  - Pricing factor definition
-  - Pricing factor theorem
-  - Zero-beta return
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Arbitrage pricing theory and no-arbitrage principle
+- Capital Asset Pricing Model and risk-return tradeoff
+- Mean Variance in financial markets
+- Risk Free in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000402
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 9.3 Pricing factors in a one-period framework  
 

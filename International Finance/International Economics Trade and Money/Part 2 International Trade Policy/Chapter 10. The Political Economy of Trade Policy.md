@@ -1,3 +1,73 @@
+---
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Chapter 10. The Political Economy of Trade Policy and financial analysis
+- Chapter 10. The Political Economy of Trade Policy in modern finance
+- Applications of Chapter 10. The Political Economy of Trade Policy
+- 'Case study: Chapter 10. The Political Economy of Trade Policy'
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+tags:
+- efficiency
+- eur
+- barrier
+- margin
+- arma
+- swaps
+- forward
+- future
+- regulation
+- irs
+- distribution
+- oil
+- compliance
+- put
+- trading
+- bond
+- american
+- basel
+- bonds
+- spread
+- structured
+- measure
+- exotic
+- options
+- statement
+- risk
+- call
+- strike
+- liquidity
+- yield
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000534
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # CHAPTER 10  
 
 # The Political Economy of Trade Policy  

@@ -1,3 +1,82 @@
+---
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- The Phases of the Classic Deflationary Debt Cycle and financial analysis
+- The Phases of the Classic Deflationary Debt Cycle in modern finance
+- Applications of The Phases of the Classic Deflationary Debt Cycle
+- 'Case study: The Phases of the Classic Deflationary Debt Cycle'
+- Credit default probability and recovery modeling
+- Dodd Frank in financial markets
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Risk Free in financial markets
+- Asset securitization and structured finance
+- Value at Risk and tail risk measurement
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+tags:
+- leverage
+- risk-free
+- monetary-policy
+- solvency
+- senior
+- margin
+- credit-spread
+- subordinated
+- commodity
+- arma
+- forward
+- future
+- regulation
+- yield-curve
+- swap
+- risk-management
+- pricing
+- distribution
+- interest-rates
+- put
+- intrinsic
+- american
+- bond
+- gold
+- spread
+- default
+- cds
+- options
+- call
+- recovery
+- liquidity
+- var
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000570
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # **The Phases of the Classic Deflationary Debt Cycle**
 
 The chart below illustrates the seven stages of an archetypal long-term debt cycle, by tracking the total debt of the economy as a percentage of the total income of the economy (GDP) and the total amount of debt service payments relative to GDP over a period of 12 years.

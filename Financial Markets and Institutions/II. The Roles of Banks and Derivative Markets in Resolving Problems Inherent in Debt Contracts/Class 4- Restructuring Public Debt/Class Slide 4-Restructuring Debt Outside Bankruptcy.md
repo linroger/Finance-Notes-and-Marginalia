@@ -1,32 +1,52 @@
 ---
 cssclasses:
-  - academia
-title: "Class Slide 4: Restructuring Debt Outside Bankruptcy"
+- academia
+title: 'Class Slide 4: Restructuring Debt Outside Bankruptcy'
 tags:
-  - bank_debt
-  - bankruptcy
-  - negative_pledge
-  - public_debt
-  - renegotiation
-  - debt_restructuring
-  - senior_debt
-  - junior_debt
-  - holdout_problem
+- public_debt
+- bank_debt
+- holdout_problem
+- debt_restructuring
+- negative_pledge
+- bankruptcy
+- junior_debt
+- renegotiation
+- senior_debt
+- caps-floors
+- yield-to-maturity
+- distressed
+- private-equity
+- financial-markets
+- risk-management
+- banking
+- restructuring
+- tracking-error
+- derivatives
+- regression-discontinuity
 aliases:
-  - Bank vs. Public Debt
-  - Debt Renegotiation
-  - Debt Restructuring
-  - Class Slide 4
+- Bank vs. Public Debt
+- Debt Renegotiation
+- Debt Restructuring
+- Class Slide 4
 key_concepts:
-  - Bank concessions and bankruptcy
-  - Bank debt seniority
-  - Negative pledge covenant
-  - Public debt vs bank debt
-  - Restructuring debt outside bankruptcy
-  - Senior vs junior debt priority
-  - Holdout problem
-  - Coercive exchange offers
-  - Exit consent votes
+- Bank debt seniority
+- Restructuring debt outside bankruptcy
+- Bank concessions and bankruptcy
+- Exit consent votes
+- Senior vs junior debt priority
+- Negative pledge covenant
+- Holdout problem
+- Public debt vs bank debt
+- Coercive exchange offers
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
 ---
 
 # Class Slide 4: Restructuring Debt Outside Bankruptcy

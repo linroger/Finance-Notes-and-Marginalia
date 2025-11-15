@@ -1,24 +1,165 @@
 ---
-title: Valuing Bonds with Credit Spreads in QuantLib Python
-source: https://gouthamanbalaraman.com/blog/bonds-with-spreads-quantlib-python.html
+academic_level: graduate
+aliases:
+- Credit Spread Valuation
+- QuantLib Example
 description: Provides an example of valuing bonds with credit spreads using QuantLib
   Python. This post walks through an example of shifting the yield term structure.
-tags:
-  - bond_valuation
-  - credit_spreads
-  - quantlib_python
-  - treasury_yield
-  - yield_curve
-aliases:
-  - Credit Spread Valuation
-  - QuantLib Example
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000054
 key_concepts:
-  - Adding credit spreads
-  - Constructing yield curve
-  - Parallel yield curve shift
-  - Shifting yield term structure
-  - Valuing bonds with spreads
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Bootstrap methods and yield curve construction
+- QuantLib library and quantitative finance implementation
+- Risk preference theory and utility functions
+- Duration and Convexity in Fixed Income Risk Management
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Company Valuation and Multiple Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Comparable Company Analysis and Trading Multiples
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Private Equity Investment Returns and Value Creation
+- Term Structure of Interest Rates and Yield Curves
+- Credit Spreads and Rating Migration Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Interest Rate Risk and DV01 Calculations
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+source: https://gouthamanbalaraman.com/blog/bonds-with-spreads-quantlib-python.html
+status: active
+tags:
+- bootstrap-method
+- capital-budgeting
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cds
+- convexity-adjustment
+- cost-of-capital
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- dcf-valuation
+- debit-valuation-adjustment
+- leveraged-buyout
+- dcf-analysis
+- expected-shortfall
+- extreme-value-theory
+- book-to-market
+- backwardation
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- corporate-bonds
+- yield-curve
+- unexpected-loss
+- clearinghouse
+- interpolation
+- interest-rate-risk
+- arbitrage-pricing-theory
+- hedge-ratio
+- private-equity
+- loss-given-default
+- value-factor
+- dirty-price
+- monte-carlo-var
+- coupon-bonds
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- forward-rates
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- var-methodologies
+- historical-var
+- contango
+- debt-capacity
+- modified-duration
+- expected-loss
+- quantitative-finance
+- forward-curve
+- investment-return
+- government-bonds
+- probabilty-of-default
+- curve-steepening
+- curve-fitting
+- roll-yield
+- spot-rates
+- equity-kickers
+- lbo-valuation
+- momentum
+- curve-flattening
+- basis-risk
+- convexity
+- term-structure
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- rating-migration
+- par-yield
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- duration-analysis
+- value-at-risk
+- bootstrap-strategy
+- management-buyout
+- factor-models
+- barbell-strategy
+- convergence
+- var-backtesting
+- sum-of-parts
+- clean-price
+- yield-curve-shocks
+- conditional-var
+- fixed-income
+- dv01
+- price-yield-relationship
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- financial-markets
+- macaulay-duration
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+- current-yield
+title: Valuing Bonds with Credit Spreads in QuantLib Python
+type: note
 ---
+--
+
+
 
 # Valuing Bonds with Credit Spreads in QuantLib Python
 

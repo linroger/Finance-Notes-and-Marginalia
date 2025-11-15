@@ -1,19 +1,190 @@
 ---
+academic_level: graduate
 aliases:
-  - 
-  - 
-title: Ch1 Introduction to Derivative Markets
+- null
+- null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000146
+key_concepts:
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Duration and Convexity in Fixed Income Risk Management
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Delta, Gamma, and Vega Hedging Techniques
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Dynamic vs Static Hedging in Practice
+- Term Structure of Interest Rates and Yield Curves
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Interest Rate Risk and DV01 Calculations
+- Hedging Strategies and Risk Mitigation
+- Government and Corporate Bond Markets
+professional_application: theoreti
+status: active
 tags:
-  - '#derivative_markets'
-  - '#financial_engineering'
-  - '#long_position'
-  - '#market_makers'
-  - '#regulatory_arbitrage'
-  - '#risk_management'
-  - '#short_selling'
-  - '#speculation'
-  - '#transaction_costs'
+- arbitrage-opportunity
+- banking-regulation
+- basel-accord
+- capital-adequacy
+- caplet
+- coherent-risk-measure
+- conditional-var
+- convexity-adjustment
+- credit-rating
+- currency-strategy
+- debit-valuation-adjustment
+- delta-hedging
+- dividend-policy
+- dividend-stability
+- duration-analysis
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- arbitrage
+- backwardation
+- volatility-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- yield-curve
+- unexpected-loss
+- clearinghouse
+- interpolation
+- interest-rate-risk
+- hedge-ratio
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- vasicek-model
+- dirty-price
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- forward-contracts
+- yield-to-maturity
+- forward-rates
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- vega-hedging
+- modified-duration
+- expected-loss
+- market-efficiency
+- quantitative-finance
+- forward-curve
+- order-flow
+- bid-ask-spread
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- liquidity
+- curve-steepening
+- curve-fitting
+- gamma-hedging
+- hedge-effectiveness
+- roll-yield
+- risk-premium
+- spot-rates
+- put-options
+- affine-term-structure
+- algorithmic-trading
+- curve-flattening
+- basis-risk
+- convexity
+- hedge-strategies
+- term-structure
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- barbell-strategy
+- risk-management
+- convergence
+- var-backtesting
+- cross-hedging
+- sum-of-parts
+- clean-price
+- yield-curve-shocks
+- high-frequency-trading
+- strangles
+- fixed-income
+- dv01
+- short-rate-models
+- price-yield-relationship
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- trading-multiples
+- iron-condors
+- financial-markets
+- macaulay-duration
+- static-hedging
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- bootstrap-method
+- current-yield
+title: Ch1 Introduction to Derivative Markets
+type: course-note
 ---
+--
+
+
+
 # Ch1 Introduction to Derivative Markets
 
 Introduction to Derivative Markets]]vative Markets]]

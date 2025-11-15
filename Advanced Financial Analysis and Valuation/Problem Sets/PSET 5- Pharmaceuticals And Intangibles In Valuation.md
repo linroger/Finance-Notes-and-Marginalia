@@ -1,34 +1,153 @@
 ---
-title: PSET 5 - Pharmaceuticals and Intangibles in Valuation
-cssclasses: academia
-tags:
-  - dcf_model
-  - intangibles
-  - medfield_pharma
-  - pharmaceuticals
-  - pset_5
-  - valuations
-  - financial_analysis
-  - drug_pipeline
-  - research_advantage
-  - patent_protection
-  - acquisition_analysis
+academic_level: graduate
 aliases:
-  - Fleximat Reformulation
-  - Medfield Case
-  - PSET 5
+- Fleximat Reformulation
+- Medfield Case
+- PSET 5
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000223
 key_concepts:
-  - Discounted Cash Flow (DCF) model
-  - Free Cash Flow (FCF) calculation
-  - Fleximat drug reformulation value
-  - Medfield pharmaceuticals valuation
-  - Research and development advantage valuation
-  - Reximet new drug value proposition
-  - Patent protection and drug lifecycle
-  - Terminal value estimation
-  - Intangible asset valuation
-  - Pharmaceutical company acquisitions
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Net present value (NPV) and investment evaluation
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Free Cash Flow and Enterprise Value
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Terminal Value and WACC Calculations
+- Discounted Cash Flow Valuation Models
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arch
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-budgeting
+- capital-structure
+- caplet
+- cash-flow-modeling
+- continuous-time-pricing
+- convexity-adjustment
+- cost-of-capital
+- credit-rating
+- dcf-valuation
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- terminal-value
+- free-cash-flow
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- style-analysis
+- option-strategies
+- unexpected-loss
+- clearinghouse
+- enterprise-value
+- arbitrage-pricing-theory
+- hedge-ratio
+- market-price-of-risk
+- loss-given-default
+- value-factor
+- vasicek-model
+- monte-carlo-var
+- options-trading
+- forward-contracts
+- price-to-earnings
+- fama-french
+- recovery-rate
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- expected-loss
+- wacc
+- quantitative-finance
+- protective-puts
+- probabilty-of-default
+- discounted-cash-flow
+- roll-yield
+- cost-of-debt
+- risk-premium
+- put-options
+- affine-term-structure
+- momentum
+- basis-risk
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- factor-models
+- convergence
+- var-backtesting
+- sum-of-parts
+- strangles
+- conditional-var
+- short-rate-models
+- cost-of-equity
+- credit-migration
+- default-probability
+- marking-to-market
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- equity-value
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- futures-contracts
+- apt
+title: PSET 5 - Pharmaceuticals and Intangibles in Valuation
+type: note
 ---
+--
+
+
 
 # PSET 5 - Pharmaceuticals and Intangibles in Valuation
 

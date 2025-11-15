@@ -1,21 +1,166 @@
 ---
-tags:
-  - alm_risk_management
-  - bank_risk
-  - credit_risk
-  - interest_rate_swaps
-  - swap_spreads
+academic_level: graduate
 aliases:
-  - Interest Rate Swap Spreads
-  - Swap Spread Determinants
-  - Swap Spread Factors
+- Interest Rate Swap Spreads
+- Swap Spread Determinants
+- Swap Spread Factors
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000337
 key_concepts:
-  - Bank risk premium
-  - Credit risk in swaps
-  - Interest rate swaps
-  - Macroeconomic factors impact
-  - Swap spread determinants
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Interest rate swaps and fixed income derivatives
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- LIBOR market model and multi-curve framework
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Volatility modeling and estimation techniques
+- Correlation analysis and dependency structures
+- Risk preference theory and utility functions
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Delta, Gamma, and Vega Hedging Techniques
+- Price Discovery and Market Efficiency
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- Interest Rate Swaps and Currency Swap Structures
+- Term Structure of Interest Rates and Yield Curves
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-free-models
+- arbitrage-opportunity
+- asset-backed-securities
+- banking-regulation
+- basel-accord
+- bid-ask-spread
+- capital-adequacy
+- caplet
+- cds
+- coherent-risk-measure
+- conditional-var
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- expected-shortfall
+- extreme-value-theory
+- arbitrage
+- book-to-market
+- backwardation
+- volatility-analysis
+- style-analysis
+- bond-pricing
+- corporate-bonds
+- yield-curve
+- unexpected-loss
+- clearinghouse
+- interpolation
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- hedge-ratio
+- price-discovery
+- loss-given-default
+- value-factor
+- dirty-price
+- dynamic-hedging
+- monte-carlo-var
+- coupon-bonds
+- market-impact
+- forward-contracts
+- yield-to-maturity
+- fama-french
+- forward-rates
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- var-methodologies
+- historical-var
+- contango
+- vega-hedging
+- expected-loss
+- market-efficiency
+- delta-hedging
+- forward-curve
+- order-flow
+- currency-swaps
+- government-bonds
+- probabilty-of-default
+- liquidity
+- curve-fitting
+- gamma-hedging
+- hedge-effectiveness
+- credit-default-swaps
+- roll-yield
+- spot-rates
+- algorithmic-trading
+- momentum
+- basis-risk
+- hedge-strategies
+- term-structure
+- sofr
+- swap-rate
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- rating-migration
+- par-yield
+- investment-analysis
+- value-at-risk
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- cross-hedging
+- clean-price
+- yield-curve-shocks
+- high-frequency-trading
+- fixed-income
+- swap-spread
+- credit-migration
+- default-probability
+- marking-to-market
+- total-return-swaps
+- libor
+- credit-spreads
+- multi-factor-models
+- financial-markets
+- static-hedging
+- size-effect
+- basis-swaps
+- interest-rate-swaps
+- futures-contracts
+- apt
+- bootstrap-method
+- current-yield
+type: note
 ---
+--
+
+
 
 # [](../1.%20DeterministicCashFlows.md#4.1%20The%20Yield%20Spread | The%20Determinants%20of%20the%20Swap%20Spread)
 Interest-rate swaps are an important ALM and risk management tool in banking markets.  The rate payable on a swap represents bank risk, if we assume that a swap is paying  (receiving) the fixed swap rate on one leg and receiving (paying) Libor-flat on the other  leg. If one of the counter parties is not a bank, then either leg is adjusted to account for the  different counter party risk; usually the floating leg will have a spread added to Libor. We  can see that this produces a swap curve that lies above the government bond yield curve,  if we compare Figure 1 with Figure 2. Figure 1 is the USD swap rates page from Tullett  & Tokyo brokers, and Figure 2 is the US Treasury yield curve, both as at 3 July 2006.  The higher rates payable on swaps represents the additional risk premium associated with  bank risk compared to government risk. The spread itself is the number of basis points  the swap rate lies above the equivalent-maturity government bond yield, quoted on the  same interest basis.

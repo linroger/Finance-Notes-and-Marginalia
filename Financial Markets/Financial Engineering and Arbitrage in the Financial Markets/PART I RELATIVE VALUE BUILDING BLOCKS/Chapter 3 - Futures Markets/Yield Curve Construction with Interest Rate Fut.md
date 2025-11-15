@@ -1,21 +1,77 @@
 ---
 tags:
-  - eurodollar_futures
-  - financing_rate
-  - interest_rate_futures
-  - libor_rate
-  - yield_curve
+- leverage
+- synthetic
+- eur
+- volatility
+- multiple
+- convexity
+- financing_rate
+- yield_curve
+- margin
+- commodity
+- discount-rate
+- forward
+- future
+- implied
+- swap
+- yield-curve
+- pricing
+- counterparty
+- option
+- oil
+- eurodollar_futures
+- put
+- bond
+- libor_rate
+- interest_rate_futures
 aliases:
-  - Eurodollar futures
-  - LIBOR
-  - Yield curve
+- Eurodollar futures
+- LIBOR
+- Yield curve
 key_concepts:
-  - Discount factors calculation
-  - Eurodollar futures role
-  - Financing rate information
-  - Spot LIBOR rate
-  - Yield curve construction
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Bond convexity and price-yield relationships
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Market liquidity and microstructure effects
+- Banking and credit intermediation
+- Bank balance sheet management
+- Numerical methods in finance
+- Arbitrage pricing theory and no-arbitrage principle
+- Convexity adjustments for bond portfolio management
+- Credit Risk in financial markets
+- Cross Currency in financial markets
+- Credit default probability and recovery modeling
+- Discount Rate in financial markets
+- Forward Rate in financial markets
+- Futures Contract in financial markets
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- Spot Rate in financial markets
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Zero Coupon in financial markets
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000296
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 3.5 YIELD CURVE CONSTRUCTION WITH INTEREST RATE FUTURES  
 

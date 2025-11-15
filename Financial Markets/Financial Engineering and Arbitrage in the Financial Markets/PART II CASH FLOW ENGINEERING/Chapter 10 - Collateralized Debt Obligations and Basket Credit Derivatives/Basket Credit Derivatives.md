@@ -1,22 +1,73 @@
 ---
 tags:
-  - basket_credit_derivatives
-  - cds
-  - credit_risk
-  - default_events
-  - protection_buyer
-  - protection_seller
-  - synthetic_cdo
+- delta
+- default
+- cds
+- synthetic
+- multiple
+- hedge
+- probability
+- margin
+- protection_seller
+- arma
+- swap
+- gamma
+- pricing
+- correlation
+- option
+- hedging
+- distribution
+- basket_credit_derivatives
+- put
+- bond
+- structured
+- spread
+- credit_risk
+- synthetic_cdo
+- protection_buyer
+- default_events
 aliases:
-  - Basket CDS
-  - Credit Derivatives Basket
+- Basket CDS
+- Credit Derivatives Basket
 key_concepts:
-  - CDS on defaultable securities
-  - Dealer buys and sells CDS
-  - First default triggers payout
-  - Protection buyer pays premium
-  - Protection seller receives losses
+- Option Greeks and risk sensitivities
+- Option valuation and hedging strategies
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Financial derivatives pricing and valuation
+- Arbitrage pricing theory and no-arbitrage principle
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Delta hedging strategies in options markets
+- Gamma risk and convexity adjustments in options
+- Risk hedging strategies and instruments
+- LIBOR transition and benchmark rate reform
+- Term Structure in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000334
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 10.2 BASKET CREDIT DERIVATIVES  
 

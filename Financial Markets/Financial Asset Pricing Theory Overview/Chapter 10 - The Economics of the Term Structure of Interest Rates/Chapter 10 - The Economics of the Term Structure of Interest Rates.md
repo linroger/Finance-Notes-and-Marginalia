@@ -1,3 +1,48 @@
+---
+tags:
+- capital-markets
+- mathematical-finance
+- quantitative-finance
+- quantitative-valuation
+- market-microstructure
+- pricing
+- term-structure
+- apt
+- finance
+- market
+- model
+- financial-engineering
+- liquidity
+- financial-markets
+- interest-rate
+key_concepts:
+- Market liquidity and microstructure effects
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Term Structure in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000465
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 %% Begin Waypoint %%
 - **Chapter 10 - The Economics of the Term Structure of Interest Rates**
 	- Basic Interest Rate Concepts and Relations

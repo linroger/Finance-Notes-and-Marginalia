@@ -1,26 +1,88 @@
 ---
-title: '(17) How Countries Go Broke: Introduction & Chapter One | LinkedIn'
-source: 
-  https://www.linkedin.com/pulse/how-countries-go-broke-introduction-chapter-one-ray-dalio-3wjae/
-description:
-tags:
-  - big_debt_crisis
-  - debt_cycle
-  - government_debt
-  - interest_rates
-  - reserve_currency
 aliases:
-  - Big Debt Cycle
-  - Debt Crisis
-  - Debt and Debt Growth
-  - How Countries Go Broke
+- Big Debt Cycle
+- Debt Crisis
+- Debt and Debt Growth
+- How Countries Go Broke
+description: null
 key_concepts:
-  - Big debt cycle
-  - Global macro investor
-  - Interest rates and debt
-  - Limits to country debt?
-  - Reserve currency and debt
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- How Countries Go Broke Introduction & Chapter 1 and financial analysis
+- How Countries Go Broke Introduction & Chapter 1 in modern finance
+- Applications of How Countries Go Broke Introduction & Chapter 1
+- 'Case study: How Countries Go Broke Introduction & Chapter 1'
+- Credit default probability and recovery modeling
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market Risk in financial markets
+- Risk Free in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+source: https://www.linkedin.com/pulse/how-countries-go-broke-introduction-chapter-one-ray-dalio-3wjae/
+tags:
+- leverage
+- risk-free
+- eur
+- monetary-policy
+- hedge
+- energy
+- future
+- regulation
+- swap
+- pricing
+- distribution
+- interest-rates
+- option
+- put
+- american
+- bond
+- trading
+- gold
+- crisis
+- bonds
+- structured
+- spread
+- measure
+- default
+- cds
+- options
+- fixed-income
+- risk
+- credit
+- call
+- yield
+- interest-rate
+title: '(17) How Countries Go Broke: Introduction & Chapter One | LinkedIn'
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000589
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 Introduction to How Countries Go Broke]]
 
 **Are there limits to a country’s’ debt and debt growth?**

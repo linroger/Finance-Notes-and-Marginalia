@@ -1,21 +1,66 @@
 ---
 tags:
-  - asset_liability_management
-  - convexity
-  - corporate_bonds
-  - duration
-  - pension_liabilities
+- duration
+- volatility
+- ito
+- convexity
+- hedge
+- maturity
+- coupon
+- pension_liabilities
+- asset_liability_management
+- forward
+- future
+- yield-curve
+- corporate_bonds
+- discount
+- hedging
+- term-structure
+- apt
+- put
+- call
+- bond
+- spread
+- measure
+- portfolio
 aliases:
-  - Asset Portfolio
-  - Barbell vs. Bullet
-  - JNJ Bonds
+- Asset Portfolio
+- Barbell vs. Bullet
+- JNJ Bonds
 key_concepts:
-  - Barbell and bullet portfolios
-  - Defined-benefit pension liabilities
-  - Duration and convexity
-  - Hedging with assets
-  - Johnson & Johnson bonds
+- Bond duration and interest rate risk
+- Bond convexity and price-yield relationships
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Hedging strategies and delta-gamma neutrality
+- Convexity adjustments for bond portfolio management
+- Duration and interest rate risk measurement
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Term Structure in financial markets
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000205
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 4.8 THE BARBELL VERSUS THE BULLET  
 

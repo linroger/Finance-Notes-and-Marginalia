@@ -1,28 +1,174 @@
 ---
+aliases:
+- China Reserve Requirements
+- GFC
+- PBOC policy
+- RRR cuts
 cssclasses:
-  - academia
-title: China Reserve Requirements,  GFC
-source: https://newbagehot.yale.edu/docs/china-reserve-requirements-gfc
+- academia
 description: The New Bagehot Project is an online platform for disseminating our knowledge
   on how to fight financial crises.
-tags:
-  - china_monetary_policy
-  - global_financial_crisis
-  - liquidity_management
-  - pboc
-  - rrr
-aliases:
-  - China Reserve Requirements
-  - GFC
-  - PBOC policy
-  - RRR cuts
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000004
 key_concepts:
-  - China reserve requirements
-  - Foreign currency reserves
-  - Global financial crisis
-  - Liquidity management tools
-  - PBOC monetary policy
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- China Reserve Requirements, GFC and financial analysis
+- China Reserve Requirements, GFC in modern finance
+- Applications of China Reserve Requirements, GFC
+- 'Case study: China Reserve Requirements, GFC'
+- Duration and Convexity in Fixed Income Risk Management
+- Value at Risk and Expected Shortfall
+- Distressed Debt Strategies and Recovery Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Price Discovery and Market Efficiency
+- Distressed Investing and Debt Restructuring
+- Forward Curves and Roll Strategies
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Fixed Income Securities and Credit Quality
+- Bond Pricing and Yield to Maturity Analysis
+- Bond Portfolio Immunization Strategies
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Interest Rate Risk and DV01 Calculations
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+source: https://newbagehot.yale.edu/docs/china-reserve-requirements-gfc
+tags:
+- credit
+- swaps
+- bonds
+- default
+- monetary-policy
+- fixed-income
+- bond
+- liquidity
+- spread
+- risk
+- interest-rate
+- interest-rates
+- ratio
+- irs
+- duration
+- asset-allocation
+- call-options
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- exchange-offers
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- bond-pricing
+- option-strategies
+- cramdown
+- corporate-bonds
+- unexpected-loss
+- debt-restructuring
+- interest-rate-risk
+- arbitrage-pricing-theory
+- price-discovery
+- loss-given-default
+- roll-strategies
+- value-factor
+- dirty-price
+- forward-curves
+- distressed-investing
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- market-impact
+- commodity-trading
+- yield-to-maturity
+- fama-french
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- var-methodologies
+- historical-var
+- modified-duration
+- expected-loss
+- market-efficiency
+- order-flow
+- bid-ask-spread
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- curve-steepening
+- storage-costs
+- put-options
+- algorithmic-trading
+- momentum
+- curve-flattening
+- convexity
+- covered-calls
+- ' exposure-at-default'
+- chapter-11-bankruptcy
+- stress-testing
+- rating-migration
+- investment-analysis
+- portfolio-optimization
+- duration-analysis
+- value-at-risk
+- metals-trading
+- blocker-strategy
+- factor-models
+- convenience-yield
+- creditor-committees
+- agricultural-commodities
+- barbell-strategy
+- risk-management
+- var-backtesting
+- tender-offers
+- seasonality
+- ' DIP-financing'
+- clean-price
+- high-frequency-trading
+- strangles
+- conditional-var
+- dv01
+- price-yield-relationship
+- credit-migration
+- default-probability
+- credit-spreads
+- multi-factor-models
+- iron-condors
+- financial-markets
+- macaulay-duration
+- size-effect
+- apt
+- current-yield
+title: China Reserve Requirements,
 ---
+--
 
 # China Reserve Requirements,  GFC
 

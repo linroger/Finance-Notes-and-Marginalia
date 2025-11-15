@@ -1,3 +1,82 @@
+---
+key_concepts:
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- US Debt Crisis and Adjustment(1928–1937) and financial analysis
+- US Debt Crisis and Adjustment(1928–1937) in modern finance
+- Applications of US Debt Crisis and Adjustment(1928–1937)
+- 'Case study: US Debt Crisis and Adjustment(1928–1937)'
+- Carry Trade in financial markets
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Discount Rate in financial markets
+- Duration and interest rate risk measurement
+- Exchange Rate in financial markets
+- Gamma risk and convexity adjustments in options
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Par Value in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+tags:
+- leverage
+- duration
+- barrier
+- volatility
+- multiple
+- solvency
+- par-value
+- eur
+- margin
+- commodity
+- discount-rate
+- arma
+- swaps
+- forward
+- future
+- regulation
+- yield-curve
+- dividend
+- gamma
+- irs
+- distribution
+- put
+- trading
+- bond
+- bonds
+- spread
+- options
+- maturity
+- fixed-income
+- municipal
+- corporate-bond
+- cdo
+- liquidity
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000561
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # **US Debt Crisis and Adjustment (1928–1937)**
 
 This section gives a detailed account of the big US debt cycle of the 1920s and 1930s, including the Great Depression, which is probably the most iconic case of a deflationary deleveraging. It takes you through the particulars of the case with reference to the template laid out earlier in the "Archetypal Big Debt Cycle." Though the Great Depression happened nearly a century ago, its dynamic was basically the same as what occurred in and around 2008. As with the other cases in this part, I both describe the timeline (which in this case is based on the library of books I've amassed on the Great Depression over the years rather than my personal experience trading through it) and provide a real-time "newsfeed" drawn from newspaper headlines and what the Federal Reserve was saying at the time that runs along the sides of the pages.

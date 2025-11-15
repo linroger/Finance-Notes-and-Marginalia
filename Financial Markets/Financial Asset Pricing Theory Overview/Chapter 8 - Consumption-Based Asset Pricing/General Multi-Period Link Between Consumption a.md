@@ -1,21 +1,66 @@
 ---
 tags:
-  - asset_returns
-  - consumption_growth
-  - continuous_time
-  - multi_period_model
-  - risk_free_rate
+- delta
+- risk-free
+- volatility
+- ito
+- margin
+- growth
+- consumption_growth
+- future
+- asset_returns
+- gamma
+- pricing
+- correlation
+- multi_period_model
+- continuous_time
+- covariance
+- rho
+- risk_free_rate
+- trading
+- model
+- call
+- market
+- variance
+- capm
+- var
+- growth-rate
 aliases:
-  - Consumption and Returns
-  - Multi-Period Analysis
+- Consumption and Returns
+- Multi-Period Analysis
 key_concepts:
-  - Consumption-beta equation
-  - Excess expected return
-  - Relative consumption growth
-  - Risk-free gross return
-  - State-price deflator
-  - Time-additive expected utility
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial derivatives pricing and valuation
+- Capital Asset Pricing Model and risk-return tradeoff
+- Correlation modeling and dependency structures
+- Delta hedging strategies in options markets
+- Gamma risk and convexity adjustments in options
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Risk Free in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000433
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 8.3 General multi-period link between consumption and asset returns  
 

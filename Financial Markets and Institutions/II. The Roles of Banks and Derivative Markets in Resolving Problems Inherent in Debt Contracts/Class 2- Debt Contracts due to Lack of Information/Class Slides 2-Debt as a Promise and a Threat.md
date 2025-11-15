@@ -1,25 +1,45 @@
 ---
 title: Class Slides 2-Debt as a Promise and a Threat
 tags:
-  - borrower_lender
-  - debt_contract
-  - financial_contract
-  - free_cash_flow
-  - liquidation
+- asset-allocation
+- asset-backed-securities
+- banking-regulation
+- basel-accord
+- capital-adequacy
+- caplet
+- cash-flow-distribution
+- cds
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- default-probability
 aliases:
-  - Borrower Payoff
-  - Class 2 Slides
-  - Debt as Threat
-  - Equity Contract
+- Borrower Payoff
+- Class 2 Slides
+- Debt as Threat
+- Equity Contract
 key_concepts:
-  - Borrower needs capital
-  - Debt face value
-  - Equity profit sharing
-  - Lender imposes penalty
-  - Liquidation as penalty
-  - Optimal financial contract
-  - Risk neutral parties
+- Risk-neutral measures and martingale pricing
+- Martingale theory and change of measure
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
 
 # Class Slides 2-Debt as a Promise and a Threat
 

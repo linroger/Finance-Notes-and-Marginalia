@@ -1,22 +1,71 @@
 ---
 tags:
-  - daily_settlement
-  - forward_agreement
-  - futures_contract
-  - futures_forward_difference
-  - interest_rates
-  - market_rates
+- default
+- risk-free
+- volatility
+- eur
+- market_rates
+- margin
+- dodd-frank
+- forward
+- future
+- swap
+- sofr
+- forward_agreement
+- libor
+- interest_rates
+- pricing
+- counterparty
+- futures_forward_difference
+- daily_settlement
+- overnight
+- factor-model
+- spread
+- credit-risk
+- forward-rate
+- futures_contract
+- fed-funds
+- futures-contract
 aliases:
-  - Forward Rates vs Futures Rates
-  - Futures vs. Forwards
-  - Futures-Forward
+- Forward Rates vs Futures Rates
+- Futures vs. Forwards
+- Futures-Forward
 key_concepts:
-  - Daily settlement impact
-  - Futures contract P&L
-  - Futures rates exceed forward rates
-  - One-factor term structure model
-  - Volatility and time
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial derivatives pricing and valuation
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Dodd Frank in financial markets
+- Factor Model in financial markets
+- Fed Funds in financial markets
+- Forward Rate in financial markets
+- Futures Contract in financial markets
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Risk Free in financial markets
+- SOFR implementation and overnight rate markets
+- Swaption pricing and interest rate option strategies
+- Term Structure in financial markets
+- Volatility modeling and implied volatility surfaces
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000245
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 12.6 THE FUTURES-FORWARD DIFFERENCE  
 

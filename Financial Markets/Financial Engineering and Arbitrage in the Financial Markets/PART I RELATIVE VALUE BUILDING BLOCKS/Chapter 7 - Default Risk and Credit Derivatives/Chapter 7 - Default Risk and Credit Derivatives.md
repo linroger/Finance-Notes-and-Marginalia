@@ -1,3 +1,64 @@
+---
+tags:
+- default
+- cds
+- capital-markets
+- arbitrage
+- mathematical-finance
+- probability
+- fixed-income
+- quantitative-valuation
+- swap
+- market-microstructure
+- risk-management
+- pricing
+- correlation
+- distribution
+- apt
+- finance
+- bond-markets
+- credit
+- model
+- bond
+- financial-engineering
+- statistical-analysis
+- spread
+- credit-risk
+- structured-products
+- derivatives-pricing
+- derivative
+- probability-theory
+key_concepts:
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial derivatives pricing and valuation
+- Arbitrage pricing theory and no-arbitrage principle
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000303
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 %% Begin Waypoint %%
 - **Chapter 7 - Default Risk and Credit Derivatives**
 	- A Constant Default Probability Model

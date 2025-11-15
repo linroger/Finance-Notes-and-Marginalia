@@ -3,34 +3,81 @@ cssclasses: academia
 linter-yaml-title-alias: Lecture Slides 1 - Debt Contracts
 title: Lecture Slides 1 - Debt Contracts
 tags:
-  - bank_runs
-  - bankruptcy
-  - capital_structure
-  - debt_contracts
-  - financial_crisis
-  - liquidity
-  - securitization
-  - debt_pricing
-  - agency_costs
-  - trust_indenture_act
+- probability
+- lehman
+- bid-ask-spread
+- capital-budgeting
+- counterparty-risk
+- caplet
+- capital-adequacy
+- cash-flow-modeling
+- pricing
+- bond
+- crisis
+- measure
+- banking-regulation
+- basel-accord
+- default
+- cds
+- payoff
+- cost-of-capital
+- maturity
+- covid
+- credit-modeling
+- capital
+- equity
+- subprime
+- capital-structure
+- asian
+- bailout
+- convexity-adjustment
+- market
+- credit-default-swap
+- liquidity
+- securitization
+- credit-derivatives
 aliases:
-  - Debt Contracts
-  - Debt and Bankruptcy
-  - Debt and Liquidity
-  - Lecture 1
-  - Strategic Effects of Debt Slides
+- Debt Contracts
+- Debt and Bankruptcy
+- Debt and Liquidity
+- Lecture 1
+- Strategic Effects of Debt Slides
 key_concepts:
-  - Bailouts and government crises
-  - Banks and financial engineering
-  - Capital structure choice
-  - Debt contracts and bankruptcy
-  - Financial panics and debt
-  - Liquidity in markets
-  - Securitization structures
-  - Strategic effects of debt
-  - Trust Indenture Act restrictions
-  - Debt capacity calculations
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Net present value (NPV) and investment evaluation
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Securitization and structured finance
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Credit default probability and recovery modeling
+- Market liquidity analysis and liquidity risk
+- Asset securitization and structured finance
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: course-note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000079
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
+
 
 # Lecture Slides 1 - Debt Contracts
 

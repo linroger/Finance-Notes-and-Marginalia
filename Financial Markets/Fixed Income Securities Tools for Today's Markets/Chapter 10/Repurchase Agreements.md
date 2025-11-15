@@ -1,20 +1,55 @@
 ---
 tags:
-  - bond_pricing
-  - collateral
-  - repurchase_agreement
-  - secured_loan
-  - variation_margin
+- default
+- collateralized
+- margin
+- repo
+- repurchase_agreement
+- variation_margin
+- forward
+- bond_pricing
+- counterparty
+- call
+- market
+- bond
+- var
+- structured
+- secured_loan
+- collateral
 aliases:
-  - repo
-  - repurchase agreements
+- repo
+- repurchase agreements
 key_concepts:
-  - collateral protection
-  - collateral value
-  - repo seller
-  - secured loan with bonds
-  - variation margin
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Credit default probability and recovery modeling
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000169
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 10.1 REPURCHASE AGREEMENTS  
 

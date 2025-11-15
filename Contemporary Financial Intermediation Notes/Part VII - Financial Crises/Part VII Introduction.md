@@ -1,3 +1,111 @@
+---
+academic_level: graduate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000202
+key_concepts:
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- LIBOR market model and multi-curve framework
+- Securitization and structured finance
+- Mortgage-backed securities (MBS) and prepayment modeling
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Risk preference theory and utility functions
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- Risk Measurement and VaR Backtesting
+- Distressed Investing and Debt Restructuring
+- Value at Risk and Expected Shortfall
+- Credit Spreads and Rating Migration Analysis
+- Fama-French Factors and Style Analysis
+- Factor Models and Asset Pricing
+- Distressed Debt Strategies and Recovery Analysis
+- Chapter 11 Bankruptcy and Creditor Negotiations
+- Interest Rate Swaps and Currency Swap Structures
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-free-models
+- arbitrage-opportunity
+- banking-regulation
+- basel-accord
+- capital-adequacy
+- caplet
+- cds
+- cmbs-rmbs
+- coherent-risk-measure
+- conditional-var
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- tender-offers
+- recovery-rate
+- ' DIP-financing'
+- momentum
+- expected-shortfall
+- parametric-var
+- extreme-value-theory
+- book-to-market
+- var-methodologies
+- historical-var
+- exchange-offers
+- volatility-analysis
+- sofr
+- swap-rate
+- ' exposure-at-default'
+- style-analysis
+- chapter-11-bankruptcy
+- cramdown
+- swap-spread
+- stress-testing
+- mathematical-finance
+- unexpected-loss
+- rating-migration
+- expected-loss
+- debt-restructuring
+- investment-analysis
+- quantitative-finance
+- credit-migration
+- default-probability
+- value-at-risk
+- total-return-swaps
+- libor
+- currency-swaps
+- overnight-indexed-swaps
+- credit-spreads
+- arbitrage-pricing-theory
+- multi-factor-models
+- financial-markets
+- blocker-strategy
+- probabilty-of-default
+- loss-given-default
+- size-effect
+- factor-models
+- basis-swaps
+- value-factor
+- interest-rate-swaps
+- creditor-committees
+- distressed-investing
+- monte-carlo-var
+- risk-management
+- var-backtesting
+- apt
+- credit-default-swaps
+- fama-french
+type: note
+---
+--
+
+
+
 # The 2007–2009 Financial Crisis and Other Financial Crises  
 
 “In its analysis of the crisis, my testimony before the Financial Crisis Inquiry Commission drew the distinction between triggers and vulnerabilities. The triggers of the crisis were the particular events or factors that touched off the events of 2007–2009 – the proximate causes, if you will. Developments in the market for subprime mortgages were a prominent example of a trigger of the crisis. In contrast, the vulnerabilities were the structural, and more fundamental, weaknesses in the financial system and in regulation and supervision that served to propagate and amplify the initial shocks.”  

@@ -1,32 +1,127 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Pricing American Options
-title: Pricing American Options
-tags:
-  - american_option
-  - binomial_tree
-  - call_option
-  - dividends
-  - option_pricing
-  - risk_neutral
-  - early_exercise
-  - dividend_impact
+academic_level: graduate
 aliases:
-  - American Call Option
-  - American Option Pricing
-  - Early Exercise
-  - Pricing American Options
+- American Call Option
+- American Option Pricing
+- Early Exercise
+- Pricing American Options
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000179
 key_concepts:
-  - Accounting for dividends in option pricing
-  - American option early exercise criteria
-  - Binomial tree methodology for option pricing
-  - Risk neutral probability calculation
-  - Value comparison between waiting and exercising
-  - Pre-dividend and post-dividend stock prices
-  - Multiple period option valuation
-  - Backward induction pricing method
+- Black-Scholes option pricing model and continuous-time finance
+- Binomial option pricing model and lattice methods
+- Options Greeks and sensitivity analysis for risk management
+- Risk-neutral measures and martingale pricing
+- Martingale theory and change of measure
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Collateralized debt obligations (CDO) and tranche structure
+- Sensitivity analysis and Greeks calculation
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Risk Measurement and VaR Backtesting
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Option Valuation and Exercise Strategies
+- Value at Risk and Expected Shortfall
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Black-Scholes Option Pricing Model and Its Applications
+- Options Trading Strategies and Risk Management
+- American Option Pricing and Early Exercise Premium
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Fama-French Factors and Style Analysis
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: Pricing American Options
+professional_application: theoreti
+status: active
+tags:
+- american-derivatives
+- asset-allocation
+- binomial-model
+- black-scholes-model
+- cds
+- collateralized-debt-obligation
+- continuous-time-pricing
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- default-probability
+- delta-hedging
+- put-options
+- bsm-model
+- recovery-rate
+- european-options
+- call-options
+- multi-period-binomial
+- black-scholes-formula
+- butterfly-spreads
+- lattice-models
+- strangles
+- expected-shortfall
+- binomial-tree
+- straddles
+- parametric-var
+- american-options
+- partial-differential-equation
+- discrete-time-pricing
+- var-methodologies
+- historical-var
+- conditional-var
+- extreme-value-theory
+- book-to-market
+- risk-neutral-valuation
+- volatility-analysis
+- covered-calls
+- cox-ross-rubinstein
+- ' exposure-at-default'
+- style-analysis
+- momentum
+- option-strategies
+- optional-exercise
+- stress-testing
+- unexpected-loss
+- rating-migration
+- expected-loss
+- credit-migration
+- value-at-risk
+- binomial-option-pricing
+- credit-spreads
+- arbitrage-pricing-theory
+- ito-calculus
+- multi-factor-models
+- crr-model
+- iron-condors
+- option-pricing
+- protective-puts
+- volatility-surface
+- probabilty-of-default
+- loss-given-default
+- size-effect
+- factor-models
+- value-factor
+- lognormal-distribution
+- monte-carlo-var
+- risk-management
+- var-backtesting
+- ' recombining-trees'
+- options-trading
+- apt
+- fama-french
+title: Pricing American Options
+type: note
 ---
+--
+
 
 
 # Pricing American Options

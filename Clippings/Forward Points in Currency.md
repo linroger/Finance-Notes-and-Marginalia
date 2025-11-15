@@ -4,22 +4,83 @@ source: https://www.investopedia.com/terms/f/forwardpoints.asp
 description: Forward points are the number of basis points added to or subtracted
   from the current spot rate to determine the forward rate.
 tags:
-  - currency_trading
-  - forward_discount
-  - forward_points
-  - forward_premium
-  - spot_rate
+- cross-currency-swap
+- credit-rating
+- eur
+- forward-pricing
+- forward
+- bid-ask-spread
+- future
+- swap
+- trading
+- bond
+- duration-analysis
+- fixed-income-sensitivity
+- forward-rate-agreement
+- spread
+- measure
+- forward-rate
+- dynamic-hedging
+- exchange-rates
+- usd
+- maturity
+- asset-allocation
+- forward-contracts
+- spot-rate
+- exchange-rate
+- currency-hedging
+- discount
+- delta-hedging
+- spot-price
+- premium
+- convexity-adjustment
+- call
+- market
+- currency
+- forward-curve
+- liquidity
 aliases:
-  - Discount Spread
-  - Forward Contract
-  - Forward Rate
+- Discount Spread
+- Forward Contract
+- Forward Rate
 key_concepts:
-  - Basis points added/subtracted
-  - Calculate forward rate
-  - Currency trading
-  - Forward points in currency
-  - Forward premium vs discount
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Currency swaps and foreign exchange risk management
+- Heath-Jarrow-Morton (HJM) and forward rate dynamics
+- Sensitivity analysis and Greeks calculation
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Exchange Rate in financial markets
+- Forward Rate in financial markets
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Spot Price in financial markets
+- Spot Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000109
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
 
 
 ## What Are Forward Points?

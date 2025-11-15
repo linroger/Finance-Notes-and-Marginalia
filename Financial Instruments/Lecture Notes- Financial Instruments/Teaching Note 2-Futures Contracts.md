@@ -1,25 +1,150 @@
 ---
-linter-yaml-title-alias: 'EXAMPLE: HEDGING WITH FUTURES'
-title: Teaching Note 2-Futures Contracts
-tags:
-  - basis_risk
-  - cme_euro_fx
-  - forward_contracts
-  - futures_contracts
-  - mark_to_market
+academic_level: graduate
 aliases:
-  - CME
-  - Forwards
-  - Futures
-  - Hedging
+- CME
+- Forwards
+- Futures
+- Hedging
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000158
 key_concepts:
-  - Futures vs Forwards
-  - Margin Call
-  - Mark to Market
-  - Speculating with Futures
-  - Standardization and Liquidity
-  - Stock Index Futures
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Delta, Gamma, and Vega Hedging Techniques
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Price Discovery and Market Efficiency
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Hedge Strategies and Basis Risk Management
+- Dynamic vs Static Hedging in Practice
+- Term Structure of Interest Rates and Yield Curves
+- Option Valuation and Exercise Strategies
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: 'EXAMPLE: HEDGING WITH FUTURES'
+professional_application: theoreti
+status: active
+tags:
+- arch
+- asset-allocation
+- bid-ask-spread
+- caplet
+- cds
+- coherent-risk-measure
+- conditional-var
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- currency-markets
+- currency-strategy
+- default-probability
+- call-options
+- butterfly-spreads
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- backwardation
+- volatility-analysis
+- style-analysis
+- option-strategies
+- yield-curve
+- unexpected-loss
+- clearinghouse
+- interpolation
+- arbitrage-pricing-theory
+- hedge-ratio
+- price-discovery
+- loss-given-default
+- value-factor
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- market-impact
+- forward-contracts
+- fama-french
+- forward-rates
+- recovery-rate
+- parametric-var
+- var-methodologies
+- historical-var
+- contango
+- vega-hedging
+- expected-loss
+- market-efficiency
+- delta-hedging
+- forward-curve
+- order-flow
+- protective-puts
+- probabilty-of-default
+- liquidity
+- curve-fitting
+- gamma-hedging
+- hedge-effectiveness
+- roll-yield
+- spot-rates
+- put-options
+- algorithmic-trading
+- momentum
+- basis-risk
+- hedge-strategies
+- term-structure
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- rating-migration
+- par-yield
+- investment-analysis
+- value-at-risk
+- factor-models
+- risk-management
+- convergence
+- var-backtesting
+- cross-hedging
+- yield-curve-shocks
+- high-frequency-trading
+- strangles
+- credit-migration
+- marking-to-market
+- credit-spreads
+- multi-factor-models
+- iron-condors
+- financial-markets
+- static-hedging
+- size-effect
+- futures-contracts
+- apt
+- bootstrap-method
+title: Teaching Note 2-Futures Contracts
+type: course-note
 ---
+--
+
+
 
 Carry Trade 1](Carry%20Trade%201.md)
 

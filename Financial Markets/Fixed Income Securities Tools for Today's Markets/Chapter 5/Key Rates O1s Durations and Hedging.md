@@ -1,22 +1,63 @@
 ---
 tags:
-  - asset_liability_management
-  - bond_hedging
-  - duration
-  - dv01
-  - key_rates
+- duration
+- hedge
+- maturity
+- coupon
+- dv01
+- asset_liability_management
+- bond_hedging
+- key_rates
+- hedging
+- apt
+- credit
+- call
+- model
+- put
+- bond
+- rating
+- spread
+- portfolio
+- interest-rate
+- valuation
+- derivative
 aliases:
-  - Duration
-  - Dv01
-  - Hedging
-  - Key Rate
+- Duration
+- Dv01
+- Hedging
+- Key Rate
 key_concepts:
-  - Asset liability management
-  - Key rate Dv01s
-  - Key rate durations
-  - Par bond key rate
-  - Pension liabilities hedging
+- Bond duration and interest rate risk
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Financial derivatives pricing and valuation
+- Duration and interest rate risk measurement
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000210
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 5.4 KEY RATES: 'O1S, DURATIONS, AND HEDGING  
 

@@ -4,22 +4,70 @@ source: https://www.investopedia.com/terms/b/bey.asp
 description: The bond equivalent yield is a calculation for restating semi-annual,
   quarterly, or monthly discount-bond or note yields into an annual yield.
 tags:
-  - bond_equivalent_yield
-  - bond_yield
-  - fixed_income
-  - investment_portfolio
-  - zero_coupon_bonds
+- basel-accord
+- credit-rating
+- arbitrage-opportunity
+- expected-returns
+- duration
+- capital-asset-pricing
+- factor-models
+- par-value
+- maturity
+- floorlet
+- asset-allocation
+- coupon
+- capital
+- caplet
+- discount
+- capital-adequacy
+- convexity-adjustment
+- call
+- arbitrage-pricing
+- bond
+- duration-analysis
+- fixed-income-sensitivity
+- spread
+- yield
+- portfolio
+- banking-regulation
+- zero-coupon
 aliases:
-  - BEY
-  - BEY formula
-  - Bond Yield
+- BEY
+- BEY formula
+- Bond Yield
 key_concepts:
-  - Bond equivalent yield definition
-  - Bond equivalent yield formula
-  - Compare bond performance
-  - Fixed income securities
-  - Zero-coupon bond returns
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Value at Risk (VaR) and tail risk measurement
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Risk preference theory and utility functions
+- Duration and interest rate risk measurement
+- Par Value in financial markets
+- Zero Coupon in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000113
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
 
 
 ## What Is the Bond Equivalent Yield?

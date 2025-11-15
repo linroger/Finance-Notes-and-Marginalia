@@ -1,23 +1,68 @@
 ---
 tags:
-  - fixed_rate
-  - floating_rate
-  - interest_rate_swaps
-  - par_rates
-  - swap_pricing
+- fixed_rate
+- floating_rate
+- leverage
+- usd
+- maturity
+- coupon
+- spot-rate
+- forward
+- implied
+- swap_pricing
+- time-value
+- swap
+- sofr
+- discount
+- pricing
+- counterparty
+- apt
+- par_rates
+- call
+- market
+- bond
+- treasury
+- forward-rate
+- interest_rate_swaps
+- interest-rate
 aliases:
-  - Fixed Leg
-  - Floating Leg
-  - IRS Pricing
-  - Par Rate
-  - Swap Valuation
+- Fixed Leg
+- Floating Leg
+- IRS Pricing
+- Par Rate
+- Swap Valuation
 key_concepts:
-  - Fixed-rate bond
-  - Floating-rate bond
-  - Notional amounts
-  - Par rates
-  - Pricing swaps
+- Interest rate swaps and term structure modeling
+- Swap market mechanisms and pricing
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Forward Rate in financial markets
+- Interest Rate in financial markets
+- SOFR implementation and overnight rate markets
+- Spot Rate in financial markets
+- Time Value in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000218
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 2.3 PRICING INTEREST RATE SWAPS  
 

@@ -1,20 +1,81 @@
 ---
-tags:
-  - american_dream
-  - capitalism_reform
-  - economic_inequality
-  - income_inequality
-  - wealth_gap
 aliases:
-  - Capitalism Reform
-  - Reforming Capitalism
+- Capitalism Reform
+- Reforming Capitalism
 key_concepts:
-  - Capitalism needs reform
-  - Economic investing game
-  - Equal opportunity is fair
-  - Self-reinforcing spirals
-  - Widening opportunity gaps
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Why and How Capitalism Needs to Be Reformed and financial analysis
+- Why and How Capitalism Needs to Be Reformed in modern finance
+- Applications of Why and How Capitalism Needs to Be Reformed
+- 'Case study: Why and How Capitalism Needs to Be Reformed'
+- Discounted Cash Flow valuation methodology
+- Credit default probability and recovery modeling
+- Interest Rate in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+tags:
+- efficiency
+- eur
+- multiple
+- probability
+- basis
+- margin
+- arma
+- swaps
+- risk-management
+- irs
+- distribution
+- dcf
+- put
+- american
+- crisis
+- futures
+- credit-risk
+- measure
+- default
+- cpr
+- options
+- ito
+- comparable
+- usd
+- roe
+- repo
+- growth
+- roll
+- credit
+- call
+- strike
+- var
+- collateral
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000607
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 April 5 th, 2019
 

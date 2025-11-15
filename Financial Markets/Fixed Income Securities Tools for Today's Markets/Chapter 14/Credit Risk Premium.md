@@ -1,20 +1,50 @@
 ---
 tags:
-  - corporate_bonds
-  - credit_losses
-  - credit_risk
-  - credit_spread
-  - risk_premium
+- corporate_bonds
+- risk_premium
+- default
+- premium
+- credit
+- rating
+- bond
+- repo
+- credit_spread
+- credit_losses
+- credit_risk
+- financial-markets
+- spread
+- credit-risk
+- yield
 aliases:
-  - Credit Risk
-  - Credit Spread Premium
+- Credit Risk
+- Credit Spread Premium
 key_concepts:
-  - Baa-rated bond
-  - Corporate bond spreads
-  - Credit losses compensation
-  - Credit risk premium
-  - Risk-averse investors
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000223
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 14.4 CREDIT RISK PREMIUM  
 

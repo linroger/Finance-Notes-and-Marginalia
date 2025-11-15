@@ -1,72 +1,270 @@
 ---
-title: 'A Guide to Duration, DV01, and Yield Curve Risk Transformations'
-cssclasses: academia
-tags:
-  - duration
-  - dv01
-  - interest_rate_risk
-  - modified_duration
-  - yield_curve
-  - yield_curve_partial_dv01s
-  - risk_transformations
-  - key_rate_durations
-  - fixed_income_risk
-  - partial_derivatives
-  - jacobian_matrix
-  - coordinate_transformation
-  - curve_variables
-  - macaulay_duration
-  - dollar_duration
-  - basis_point_value
-  - forward_curves
-  - zero_rates
-  - par_rates
-  - risk_management
-  - financial_engineering
-  - interest_rate_sensitivity
-  - portfolio_risk_analysis
+academic_level: graduate
 aliases:
-  - Basis Point Value
-  - Dollar Duration
-  - PV01
-  - Yield Curve Partial DV01s
-  - Risk Transformations
-  - Duration Guide
-  - DV01 Guide
-  - Key Rate Duration
-  - Modified Duration
-  - Macaulay Duration
-  - Partial DV01s
-  - Price Sensitivity
-  - Interest Rate Risk
-key_concepts:
-  - Key rate durations
-  - Modified duration
-  - Partial DV01s
-  - Price sensitivity measurement
-  - Yield curve risk
-  - Dollar duration (DV01)
-  - Macaulay duration
-  - Risk transformations
-  - Jacobian matrix transformations
-  - Curve variable derivatives
-  - Forward rate risk
-  - Zero rate risk
-  - Par rate risk
-  - Yield curve construction
-  - Risk compression techniques
-  - Alternate variable transformations
-  - Matrix inversion for risk
-  - Partial derivatives of prices
-  - Functional form of curves
-  - Interest rate derivative pricing
-created: 2024-12-20
+- Basis Point Value
+- Dollar Duration
+- PV01
+- Yield Curve Partial DV01s
+- Risk Transformations
+- Duration Guide
+- DV01 Guide
+- Key Rate Duration
+- Modified Duration
+- Macaulay Duration
+- Partial DV01s
+- Price Sensitivity
+- Interest Rate Risk
 author: Thomas S. Coleman
+created: 2024-12-20
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000503
 institution: Close Mountain Advisors LLC
+key_concepts:
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Collateralized debt obligations (CDO) and tranche structure
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Duration and Convexity in Fixed Income Risk Management
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Basel III Regulatory Framework and Capital Requirements
+- Free Cash Flow and Enterprise Value
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Cost of Equity and Expected Returns
+- Forward Curves and Roll Strategies
+- Regulatory Capital and Stress Testing
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Futures and Forward Contracts in Financial Markets
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Hedge Strategies and Basis Risk Management
+- Bond Portfolio Immunization Strategies
+- Interest Rate Swaps and Currency Swap Structures
+- Private Equity Investment Returns and Value Creation
+- Term Structure of Interest Rates and Yield Curves
+- Liquidity Coverage Ratio and Net Stable Funding
+- Seasonality and Convenience Yield
+- Commodity Markets and Energy Derivatives
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Interest Rate Risk and DV01 Calculations
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+- Terminal Value and WACC Calculations
+- Discounted Cash Flow Valuation Models
+- Arbitrage Pricing Theory and Multi-Factor Models
 paper_date: 2011-01-15
+professional_application: theoreti
+status: active
+tags:
+- asset-allocation
+- basis-point-value
+- binomial-model
+- black-scholes-model
+- cds
+- collateralized-debt-obligation
+- continuous-time-pricing
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- default-probability
+- delta-hedging
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- terminal-value
+- free-cash-flow
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- backwardation
+- net-stable-funding
+- volatility-analysis
+- energy-derivatives
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- yield-curve
+- unexpected-loss
+- capital-asset-pricing-model
+- clearinghouse
+- enterprise-value
+- interpolation
+- overnight-indexed-swaps
+- interest-rate-risk
+- arbitrage-pricing-theory
+- hedge-ratio
+- private-equity
+- market-price-of-risk
+- capital-conservation-buffer
+- loss-given-default
+- roll-strategies
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dirty-price
+- forward-curves
+- monte-carlo-var
+- capital-budgeting
+- options-trading
+- coupon-bonds
+- commodity-trading
+- forward-contracts
+- yield-to-maturity
+- forward-rates
+- fama-french
+- price-to-earnings
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- regulatory-capital
+- debt-capacity
+- modified-duration
+- expected-loss
+- wacc
+- quantitative-finance
+- forward-curve
+- currency-swaps
+- investment-return
+- systematic-risk
+- protective-puts
+- government-bonds
+- alpha
+- security-market-line
+- probabilty-of-default
+- discounted-cash-flow
+- dcf-valuation
+- curve-steepening
+- curve-fitting
+- credit-default-swaps
+- idiosyncratic-risk
+- storage-costs
+- roll-yield
+- cost-of-debt
+- tier-2-capital
+- beta
+- risk-premium
+- spot-rates
+- put-options
+- countercyclical-buffer
+- affine-term-structure
+- equity-kickers
+- capm
+- lbo-valuation
+- momentum
+- curve-flattening
+- basis-risk
+- market-risk-premium
+- convexity
+- term-structure
+- covered-calls
+- swap-rate
+- sofr
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- par-yield
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- duration-analysis
+- value-at-risk
+- bootstrap-strategy
+- metals-trading
+- management-buyout
+- factor-models
+- convenience-yield
+- agricultural-commodities
+- barbell-strategy
+- risk-management
+- convergence
+- var-backtesting
+- sum-of-parts
+- seasonality
+- clean-price
+- yield-curve-shocks
+- strangles
+- conditional-var
+- fixed-income
+- dv01
+- cost-of-equity
+- short-rate-models
+- swap-spread
+- efficient-frontier
+- price-yield-relationship
+- credit-migration
+- marking-to-market
+- total-return-swaps
+- libor
+- credit-spreads
+- tier-1-capital
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- equity-value
+- macaulay-duration
+- size-effect
+- basis-swaps
+- precedent-transactions
+- interest-rate-swaps
+- liquidity-coverage-ratio
+- ipo-valuation
+- basel-iii
+- market-multiple
+- futures-contracts
+- apt
+- bootstrap-method
+- current-yield
+title: A Guide to Duration, DV01, and Yield Curve Risk Transformations
+type: primer
 ---
+--
 
-  
+
 
 Thomas S. Coleman Close Mountain Advisors LLC  
 

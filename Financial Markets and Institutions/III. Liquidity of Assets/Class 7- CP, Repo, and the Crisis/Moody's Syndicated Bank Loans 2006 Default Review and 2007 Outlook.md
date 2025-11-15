@@ -1,25 +1,100 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: 'Syndicated Bank Loans: 2006 Default Review and 2007 Outlook'
 title: Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook
 tags:
-  - default_rates
-  - loan_defaults
-  - moodys_ratings
-  - recovery_rates
-  - speculative_grade
+- restructuring
+- eur
+- senior
+- subordinated
+- credit-spread
+- yield-curve
+- risk-management
+- recovery_rates
+- pricing
+- correlation
+- distribution
+- moodys_ratings
+- regulatory-capital
+- caps-floors
+- put
+- american
+- bond
+- financial-markets
+- stochastic-calculus
+- spread
+- default
+- vega
+- default_rates
+- ito
+- usd
+- high-yield
+- roe
+- event-study
+- growth
+- coupon
+- capital
+- financial-crisis
+- distressed
+- european
+- private-equity
+- loan_defaults
+- ito-lemma
+- banking
+- speculative_grade
+- yield-to-maturity
 aliases:
-  - 2006 Default Review
-  - 2007 Outlook
-  - Moody's Default Review
+- 2006 Default Review
+- 2007 Outlook
+- Moody's Default Review
 key_concepts:
-  - bond default rates
-  - economic growth impact
-  - loan default volume
-  - recovery rate decline
-  - speculative grade default
+- recovery rate decline
+- loan default volume
+- economic growth impact
+- speculative grade default
+- bond default rates
+- Black-Scholes-Merton differential equation and closed-form solutions
+- Binomial option pricing model and Cox-Ross-Rubinstein formulation
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho for risk management'
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Value at Risk and tail risk measurement
+- Vega and volatility exposure in options trading
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000005
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 Syndicated Loans
 

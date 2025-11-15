@@ -1,22 +1,70 @@
 ---
 tags:
-  - cash_management
-  - collateral_swaps
-  - long_financing
-  - repo_market
-  - repurchase_agreements
-  - short_financing
+- default
+- leverage
+- duration
+- hedge
+- margin
+- repo
+- repurchase_agreements
+- long_financing
+- collateral_swaps
+- capital
+- repo_market
+- swap
+- pricing
+- counterparty
+- short_financing
+- hedging
+- apt
+- cash_management
+- trading
+- bond
+- call
+- model
+- market
+- overnight
+- treasury
+- spread
 aliases:
-  - Repo applications
-  - Repo uses
-  - Repurchase agreement uses
+- Repo applications
+- Repo uses
+- Repurchase agreement uses
 key_concepts:
-  - Repo agreement duration
-  - Repo as short-term investment
-  - Repo for cash management
-  - Repo for collateral swaps
-  - Repo for short financing
+- Interest rate swaps and term structure modeling
+- Swap market mechanisms and pricing
+- Bond duration and interest rate risk
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Credit default probability and recovery modeling
+- Duration and interest rate risk measurement
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000171
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 10.2 USES OF REPURCHASE AGREEMENTS  
 

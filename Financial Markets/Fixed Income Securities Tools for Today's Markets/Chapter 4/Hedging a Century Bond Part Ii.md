@@ -1,20 +1,83 @@
 ---
 tags:
-  - century_bond
-  - convexity
-  - market_maker
-  - treasury_bond
+- duration
+- capital-markets
+- eur
+- central-banking
+- mathematical-finance
+- volatility
+- convexity
+- hedge
+- portfolio-theory
+- quantitative-valuation
+- market-microstructure
+- risk-management
+- pricing
+- option
+- hedging
+- bond-markets
+- put
+- trading
+- bond
+- financial-engineering
+- financial-institutions
+- options-pricing
+- mortgage
+- measure
+- hedging-strategies
+- arbitrage
+- maturity
+- coupon
+- fixed-income
+- fundamental
+- premium-bond
+- discount
+- finance
+- portfolio
+- derivatives-pricing
 aliases:
-  - Dv01
-  - Hedging a Century Bond
-  - P&L implications
+- Dv01
+- Hedging a Century Bond
+- P&L implications
 key_concepts:
-  - Convexity and duration
-  - Long convexity position risk
-  - Market maker hedging Dv01
-  - P&L implications
-  - Treasury bond prices
+- Option valuation and hedging strategies
+- Bond duration and interest rate risk
+- Bond convexity and price-yield relationships
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Hedging strategies and delta-gamma neutrality
+- Financial derivatives pricing and valuation
+- Arbitrage pricing theory and no-arbitrage principle
+- Convexity adjustments for bond portfolio management
+- Duration and interest rate risk measurement
+- Risk hedging strategies and instruments
+- Premium Bond in financial markets
+- Term Structure in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000203
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 4.6 HEDGING A CENTURY BOND: PART II  
 

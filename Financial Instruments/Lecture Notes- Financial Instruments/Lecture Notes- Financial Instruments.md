@@ -1,33 +1,195 @@
 ---
-cssclasses:
-  - academia
-title: Lecture Notes - Financial Instruments
-tags:
-  - derivatives
-  - financial_instruments
-  - lecture_notes
-  - risk_management
-  - valuation
-  - options_pricing
-  - black_scholes
-  - credit_derivatives
+academic_level: graduate
 aliases:
-  - Fin Instruments
-  - Financial Instruments
-  - Lecture Notes
-  - Financial Instruments Lecture Notes
+- Fin Instruments
+- Financial Instruments
+- Lecture Notes
+- Financial Instruments Lecture Notes
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000160
 key_concepts:
-  - Derivatives and risk
-  - Financial instrument valuation
-  - Instrument types and pricing
-  - Black-Scholes formula
-  - Implied volatility
-  - Forward rate agreements
-  - Futures contracts
-  - Interest rate derivatives
-  - Credit default swaps
-  - American options
+- Black-Scholes option pricing model and continuous-time finance
+- Binomial option pricing model and lattice methods
+- Monte Carlo simulation for derivatives pricing and risk management
+- Implied volatility calculation and volatility surface analysis
+- Options Greeks and sensitivity analysis for risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Ito's Lemma and Lognormal Asset Price Dynamics
+- Risk-Neutral Valuation in Option Pricing
+- Yield Curve Analysis and Bond Valuation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Variance Reduction Techniques in Monte Carlo Methods
+- Machine Learning in Quantitative Finance
+- Forward Rates and Curve Construction Methods
+- Swap Market Mechanisms and Pricing
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Stochastic Integration and Path-Dependent Options
+- Black-Scholes Option Pricing Model and Its Applications
+- Neural Networks and Deep Learning Applications
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Credit Default Swaps and Credit Risk Transfer
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Credit Default Swaps and CDS Pricing
+- Futures and Forward Contracts in Financial Markets
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Hedge Strategies and Basis Risk Management
+- American Option Pricing and Early Exercise Premium
+- Interest Rate Swaps and Currency Swap Structures
+- Term Structure of Interest Rates and Yield Curves
+- Algorithmic Trading and Backtesting
+- Option Valuation and Exercise Strategies
+- CDS Spreads and Implied Default Probabilities
+- Credit Risk Transfer and Synthetic Instruments
+- Monte Carlo Simulation Methods for Derivative Pricing
+professional_application: theoreti
+status: active
+tags:
+- ai-finance
+- american-derivatives
+- barrier-options
+- binomial-model
+- black-scholes-model
+- caplet
+- cds
+- continuous-time-pricing
+- convexity-adjustment
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- default-probability
+- delta-hedging
+- control-variates
+- exotic-options
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- binomial-tree
+- straddles
+- extreme-value-theory
+- american-options
+- partial-differential-equation
+- risk-neutral-valuation
+- backwardation
+- volatility-analysis
+- option-strategies
+- yield-curve
+- clearinghouse
+- cds-spreads
+- interpolation
+- overnight-indexed-swaps
+- monte-carlo-simulation
+- hedge-ratio
+- market-price-of-risk
+- machine-learning
+- deep-learning
+- support-vector-machines
+- volatility-surface
+- feature-selection
+- vasicek-model
+- monte-carlo-var
+- options-trading
+- forward-contracts
+- forward-rates
+- bsm-model
+- neural-networks
+- black-scholes-formula
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- contango
+- random-walks
+- forward-curve
+- currency-swaps
+- default-leg
+- crr-model
+- foreign-recurrency
+- protective-puts
+- cds-arbitrage
+- curve-fitting
+- roll-yield
+- risk-premium
+- spot-rates
+- put-options
+- cds-coupons
+- affine-term-structure
+- multi-period-binomial
+- basis-risk
+- discrete-time-pricing
+- antithetic-variates
+- term-structure
+- covered-calls
+- swap-rate
+- sofr
+- cds-bond-basis
+- stress-testing
+- ornstein-uhlenbeck
+- par-yield
+- investment-analysis
+- path-dependency
+- value-at-risk
+- out-of-sample
+- backtesting
+- cross-validation
+- risky-continuation
+- risk-management
+- convergence
+- var-backtesting
+- variance-reduction
+- stochastic-integration
+- european-options
+- yield-curve-shocks
+- lattice-models
+- strangles
+- conditional-var
+- cox-ross-rubinstein
+- short-rate-models
+- random-forests
+- least-squares-mc
+- swap-spread
+- optional-exercise
+- marking-to-market
+- binomial-option-pricing
+- total-return-swaps
+- libor
+- premium-leg
+- ito-calculus
+- iron-condors
+- option-pricing
+- financial-markets
+- basis-swaps
+- interest-rate-swaps
+- lognormal-distribution
+- ' recombining-trees'
+- futures-contracts
+- quasi-monte-carlo
+- cds-implied-probability
+- bootstrap-method
+- ensemble-methods
+- credit-default-swaps
+title: Lecture Notes - Financial Instruments
+type: course-note
 ---
+--
+
+
 
 # Lecture Notes - Financial Instruments
 

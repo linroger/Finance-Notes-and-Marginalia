@@ -1,31 +1,164 @@
 ---
-linter-yaml-title-alias: PSET 5 Financial Instruments
-title: PSET 5 Financial Instruments
-tags:
-  - binomial_tree
-  - convexity
-  - delta_hedging
-  - financial_instruments
-  - option_payoff
-  - option_pricing
-  - replicating_portfolio
-  - self_financing
-  - stock_price
+academic_level: graduate
 aliases:
-  - Binomial Tree
-  - Homework 5
-  - PSET 5
-  - Replicating Portfolio
+- Binomial Tree
+- Homework 5
+- PSET 5
+- Replicating Portfolio
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000118
 key_concepts:
-  - Convex relationship
-  - Multi-period binomial tree
-  - Option payoff computation
-  - Portfolio P&L
-  - Portfolio value calculation
-  - Replicating portfolio setup
-  - Self-financing portfolio
-  - Stock price tree
+- Black-Scholes option pricing model and continuous-time finance
+- Binomial option pricing model and lattice methods
+- Options Greeks and sensitivity analysis for risk management
+- Delta hedging and dynamic replication strategies
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Collateralized debt obligations (CDO) and tranche structure
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Delta, Gamma, and Vega Hedging Techniques
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Dynamic vs Static Hedging in Practice
+- American Option Pricing and Early Exercise Premium
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- Hedging Strategies and Risk Mitigation
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: PSET 5 Financial Instruments
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- asset-allocation
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- capital-asset-pricing
+- capital-budgeting
+- caplet
+- cds
+- collateralized-debt-obligation
+- continuous-time-pricing
+- convexity-adjustment
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- expected-shortfall
+- binomial-tree
+- straddles
+- extreme-value-theory
+- american-options
+- book-to-market
+- volatility-analysis
+- style-analysis
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- arbitrage-pricing-theory
+- market-price-of-risk
+- loss-given-default
+- value-factor
+- vasicek-model
+- dirty-price
+- dynamic-hedging
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- yield-to-maturity
+- fama-french
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- vega-hedging
+- expected-loss
+- delta-hedging
+- crr-model
+- protective-puts
+- government-bonds
+- probabilty-of-default
+- gamma-hedging
+- hedge-effectiveness
+- risk-premium
+- put-options
+- affine-term-structure
+- multi-period-binomial
+- momentum
+- basis-risk
+- discrete-time-pricing
+- hedge-strategies
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- roll-over-risk
+- ornstein-uhlenbeck
+- rating-migration
+- investment-analysis
+- portfolio-optimization
+- value-at-risk
+- factor-models
+- risk-management
+- var-backtesting
+- cross-hedging
+- clean-price
+- lattice-models
+- strangles
+- conditional-var
+- fixed-income
+- cox-ross-rubinstein
+- short-rate-models
+- optional-exercise
+- credit-migration
+- default-probability
+- binomial-option-pricing
+- credit-spreads
+- multi-factor-models
+- iron-condors
+- financial-markets
+- static-hedging
+- size-effect
+- ' recombining-trees'
+- apt
+- current-yield
+title: PSET 5 Financial Instruments
+type: case-study
 ---
+--
+
+
 
 ### Financial Instruments Winter
 # PSET 5 Financial Instruments

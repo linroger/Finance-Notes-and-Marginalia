@@ -1,21 +1,49 @@
 ---
 tags:
-  - brownian_motion
-  - diffusion_process
-  - ito_process
-  - jump_process
-  - stochastic_processes
+- diffusion_process
+- financial-modeling
+- risk-management
+- ito
+- investment-analysis
+- brownian
+- probability
+- ito_process
+- financial-engineering
+- quantitative-finance
+- financial-markets
+- stochastic
+- stochastic_processes
+- jump_process
+- brownian_motion
 aliases:
-  - Brownian Motion
-  - Ito's Lemma
-  - Stochastic Processes
+- Brownian Motion
+- Ito's Lemma
+- Stochastic Processes
 key_concepts:
-  - Brownian motion
-  - Ito processes
-  - Multi-dimensional processes
-  - Probability space
-  - Stochastic process definition
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000391
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 2 Uncertainty, information, and stochastic processes 13  
 

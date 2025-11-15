@@ -3,21 +3,60 @@ cssclasses: academia
 linter-yaml-title-alias: Note On LBO Capital Structure
 title: Note on LBO Capital Structure
 tags:
-  - capital_structure
-  - debt_financing
-  - lbo
-  - leveraged_loans
-  - senior_debt
+- leveraged_loans
+- debt_financing
+- lbo
+- senior_debt
+- capital_structure
+- event-study
+- mertons-model
+- caps-floors
+- high-yield
+- yield-to-maturity
+- distressed
+- private-equity
+- financial-markets
+- leveraged-buyout
+- regulatory-capital
+- risk-management
+- hedge-funds
+- hedge-fund
+- capital-structure
+- stochastic-calculus
 aliases:
-  - Capital Structure
-  - Debt Layers
-  - LBO Debt
+- Capital Structure
+- Debt Layers
+- LBO Debt
 key_concepts:
-  - Asset-backed loans
-  - Junior debt
-  - LBO debt characteristics
-  - Leveraged loans
-  - Senior secured debt
+- LBO debt characteristics
+- Junior debt
+- Senior secured debt
+- Asset-backed loans
+- Leveraged loans
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
+- '2008 Global Financial Crisis: causes and consequences'
+- Subprime mortgage crisis and structured products
+- Lehman Brothers collapse and systemic risk
 ---
 
 # Note on LBO Capital Structure

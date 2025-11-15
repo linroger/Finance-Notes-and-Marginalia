@@ -4,22 +4,84 @@ source: https://www.investopedia.com/terms/o/optionscontract.asp
 description: An options contract gives the holder the right to buy or sell an underlying
   security at a preset price, known as the strike price.
 tags:
-  - expiration_date
-  - financial_derivatives
-  - hedging
-  - options_contract
-  - strike_price
+- strangle
+- leverage
+- american-derivatives
+- eur
+- volatility
+- multiple
+- hedge
+- binomial-model
+- continuous-time-pricing
+- forward
+- future
+- swap
+- caplet
+- dividend
+- capital-adequacy
+- pricing
+- straddle
+- option
+- hedging
+- intrinsic
+- put
+- american
+- trading
+- spread
+- measure
+- banking-regulation
+- coherent-risk-measure
+- basel-accord
+- arbitrage-opportunity
+- capital-asset-pricing
+- asset-allocation
+- conditional-var
+- convexity-adjustment
+- arbitrage-pricing
+- black-scholes-model
 aliases:
-  - Option Contract
-  - Options
-  - Options Contracts
+- Option Contract
+- Options
+- Options Contracts
 key_concepts:
-  - Agreement for potential transaction
-  - Preset price and expiration
-  - Price affected by volatility
-  - Right to buy or sell asset
-  - Used for hedging and speculation
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000107
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
 
 
 Definition

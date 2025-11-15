@@ -1,21 +1,70 @@
 ---
 tags:
-  - corporate_bonds
-  - hedging
-  - interest_rate_swaps
-  - pension_liabilities
-  - sovereign_debt
+- leverage
+- synthetic
+- eur
+- hedge
+- maturity
+- margin
+- coupon
+- pension_liabilities
+- forward
+- future
+- swap
+- corporate_bonds
+- euribor
+- counterparty
+- distribution
+- hedging
+- sovereign_debt
+- term-structure
+- trading
+- bond
+- crisis
+- structured
+- spread
+- interest_rate_swaps
 aliases:
-  - IRS
-  - pension fund
-  - swap
+- IRS
+- pension fund
+- swap
 key_concepts:
-  - Exchange of interest payments
-  - Floating-rate debt
-  - Interest rate risk
-  - Leveraged position in bond
-  - Sovereign debt crisis
+- Interest rate swaps and term structure modeling
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit ratings and regulatory frameworks
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Term Structure in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000236
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 13.3 USES OF INTEREST RATE SWAPS  
 

@@ -1,3 +1,80 @@
+---
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Part 1 - The Archetypal Big Debt Cycle and financial analysis
+- Part 1 - The Archetypal Big Debt Cycle in modern finance
+- Applications of Part 1 - The Archetypal Big Debt Cycle
+- 'Case study: Part 1 - The Archetypal Big Debt Cycle'
+- Correlation modeling and dependency structures
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Growth Rate in financial markets
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+tags:
+- leverage
+- multiple
+- monetary-policy
+- basis
+- forward
+- swaps
+- future
+- irs
+- interest-rates
+- correlation
+- put
+- american
+- crisis
+- futures
+- spread
+- credit-risk
+- measure
+- default
+- cpr
+- options
+- ito
+- growth
+- fundamental
+- roll
+- capital
+- equity
+- discount
+- credit
+- call
+- liquidity
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000569
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 # **Principles For Navigating Big Debt Cycles**
 
 ## **Part 1 - The Archetypal Big Debt Cycle**

@@ -1,24 +1,73 @@
 ---
-title: Week 1
-cssclasses:
-  - academia
-tags:
-  - week_1
-  - financial_analysis
-  - valuation
-  - corporate_finance
-  - financial_modeling
+academic_level: graduate
 aliases:
-  - Week 1 Index
-  - Week 1 AFAV Overview
-  - Week 1 Contents
+- Week 1 Index
+- Week 1 AFAV Overview
+- Week 1 Contents
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000273
 key_concepts:
-  - Core financial analysis and valuation concepts
-  - Financial analysis frameworks and tools
-  - Market efficiency principles
-  - Ratio analysis fundamentals
-  - Valuation methodology overview
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Bid-Ask Spreads and Market Impact
+- Comparable Company Analysis and Trading Multiples
+- Price Discovery and Market Efficiency
+- Market Microstructure and Liquidity Analysis
+- Company Valuation and Multiple Analysis
+professional_application: theoreti
+status: active
+tags:
+- asset-allocation
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cost-of-capital
+- credit-rating
+- dcf-valuation
+- debit-valuation-adjustment
+- discounted-cash-flow
+- funding-costs
+- hedging
+- interest-rate-cap
+- interest-rate-ceiling
+- investment-grade
+- low-default-risk
+- leveraged-buyout
+- sum-of-parts
+- high-frequency-trading
+- algorithmic-trading
+- dcf-analysis
+- arbitrage
+- comparable-analysis
+- investment-analysis
+- market-efficiency
+- economic-value-added
+- order-flow
+- trading-multiples
+- bid-ask-spread
+- financial-markets
+- price-discovery
+- liquidity
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- market-impact
+- price-to-earnings
+title: Week 1
+type: course-note
 ---
+--
+
+
 
 # Week 1
 

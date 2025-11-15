@@ -1,20 +1,58 @@
 ---
 tags:
-  - consumption_plans
-  - expected_utility
-  - multi_date
-  - time_additivity
-  - time_preference
+- delta
+- time_preference
+- expected_utility
+- theta
+- probability
+- multi_date
+- time_additivity
+- future
+- gamma
+- discount
+- distribution
+- apt
+- call
+- model
+- put
+- cdo
+- var
+- measure
+- stochastic
+- consumption_plans
+- derivative
 aliases:
-  - Additively separable utility
-  - Multi-period consumption
+- Additively separable utility
+- Multi-period consumption
 key_concepts:
-  - Expected utility representation
-  - Intertemporal substitution
-  - Multi-date consumption plans
-  - Subjective time preference rate
-  - Time-separable utility
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Financial markets and securities trading
+- Capital market instruments and their characteristics
+- Modern portfolio theory and asset pricing
+- Financial engineering and structured products
+- Investment analysis and decision-making
+- Financial regulation and market oversight
+- Delta hedging strategies in options markets
+- Gamma risk and convexity adjustments in options
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000435
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 5.7 Preferences for multi-date consumption plans  
 

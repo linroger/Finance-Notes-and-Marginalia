@@ -1,33 +1,46 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: MGM Prospectus
 tags:
-  - debt_offering
-  - filing_424b5
-  - mgm_mirage
-  - prospectus
-  - senior_notes
-  - bond_covenants
-  - corporate_bonds
+- banking-regulation
+- basel-accord
+- binomial-model
+- black-scholes-model
+- capital-adequacy
+- caplet
+- coherent-risk-measure
+- collateral-rates
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- credit-rating
+- delta-hedging
+- derivatives
+- discrete-time-pricing
 aliases:
-  - MGM
-  - MGM Mirage
-  - Prospectus Supplement
-  - MGM Bond Offering
-  - Senior Notes Prospectus
+- MGM
+- MGM Mirage
+- Prospectus Supplement
+- MGM Bond Offering
+- Senior Notes Prospectus
 key_concepts:
-  - Joint Book-Running Managers
-  - Prospectus Information
-  - Redemption Price
-  - Senior Notes
-  - Unsecured Senior Obligations
-  - Interest Payment Dates
-  - Guarantee Structure
-  - Covenant Restrictions
-  - Use of Proceeds
-  - Risk Factors
+- Black-Scholes option pricing model and continuous-time finance
+- Monte Carlo simulation for derivatives pricing and risk management
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
 ---
+
+
 
 # MGM Prospectus
 

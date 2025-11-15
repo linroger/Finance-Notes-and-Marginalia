@@ -1,31 +1,72 @@
 ---
 tags:
-  - cap_weighting
-  - dividend_weighting
-  - equal_weighting
-  - etfs
-  - fundamental_indexing
-  - index_funds
-  - market_portfolio
-  - passive_investing
-  - research_affiliates
-  - risk_factors
+- index_funds
+- etfs
+- market_portfolio
+- eur
+- fundamental_indexing
+- hedge
+- dividend_weighting
+- cap_weighting
+- usd
+- passive_investing
+- asset-allocation
+- growth
+- mean-variance
+- commodity
+- fundamental
+- optimization
+- future
+- momentum
+- equity
+- dividend
+- free-cash-flow
+- discount
+- distribution
+- trading
+- gold
+- equal_weighting
+- capm
+- research_affiliates
+- risk_factors
+- valuation
 aliases:
-  - DVY
-  - Fundamental Indexing
-  - RSP
-  - Rob Arnott
+- DVY
+- Fundamental Indexing
+- RSP
+- Rob Arnott
 key_concepts:
-  - Cap weighting model
-  - Dividend-weighted index
-  - Equal-weighted index
-  - Fundamental indexing
-  - Index fund performance
-  - Overweight overpriced stocks
-  - Passive investor strategy
-  - Systematic risk factors
-  - Underweight underpriced stocks
+- Cap weighting model
+- Dividend-weighted index
+- Equal-weighted index
+- Fundamental indexing
+- Index fund performance
+- Overweight overpriced stocks
+- Passive investor strategy
+- Systematic risk factors
+- Underweight underpriced stocks
+- Asset Allocation in financial markets
+- Capital Asset Pricing Model and risk-return tradeoff
+- Free Cash Flow in financial markets
+- Risk hedging strategies and instruments
+- Mean Variance in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000355
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 11.5 FUNDAMENTAL INDEXING  
 

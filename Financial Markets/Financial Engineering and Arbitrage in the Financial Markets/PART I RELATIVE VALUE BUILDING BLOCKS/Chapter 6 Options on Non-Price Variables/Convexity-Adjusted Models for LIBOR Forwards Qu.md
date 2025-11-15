@@ -1,23 +1,82 @@
 ---
 tags:
-  - arrears_swap
-  - convexity_adjustment
-  - eurodollar_futures
-  - libor_forwards
-  - quanto_futures
-  - swap_rates
-  - yield_curve_bootstrap
+- delta
+- duration
+- risk-free
+- quanto_futures
+- volatility
+- multiple
+- eur
+- hedge
+- convexity
+- discount-rate
+- forward
+- future
+- arrears_swap
+- yield_curve_bootstrap
+- implied
+- yield-curve
+- swap
+- dividend
+- pricing
+- correlation
+- option
+- hedging
+- convexity_adjustment
+- eurodollar_futures
+- put
+- libor_forwards
+- swap_rates
 aliases:
-  - Black model
-  - European structures
-  - LIBOR/swap curve
+- Black model
+- European structures
+- LIBOR/swap curve
 key_concepts:
-  - Convexity adjustment for pricing
-  - Eurodollar futures
-  - Quantoed futures contract
-  - Swaps as convex instruments
-  - Yield curve construction
+- Black-Scholes model and option pricing theory
+- Option Greeks and risk sensitivities
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Swap market mechanisms and pricing
+- Bond duration and interest rate risk
+- Bond convexity and price-yield relationships
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Hedging strategies and delta-gamma neutrality
+- Financial derivatives pricing and valuation
+- Numerical methods in finance
+- Arbitrage pricing theory and no-arbitrage principle
+- Black-Scholes option pricing model and its applications
+- Convexity adjustments for bond portfolio management
+- Correlation modeling and dependency structures
+- Delta hedging strategies in options markets
+- Discount Rate in financial markets
+- Duration and interest rate risk measurement
+- Exchange Rate in financial markets
+- Factor Model in financial markets
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Risk Free in financial markets
+- Swaption pricing and interest rate option strategies
+- Term Structure in financial markets
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000291
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 6.2 CONVEXITY-ADJUSTED MODELS FOR LIBOR FORWARDS, QUANTOS, AND CONSTANT MATURITY SWAPS  
 

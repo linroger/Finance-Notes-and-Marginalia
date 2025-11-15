@@ -1,21 +1,116 @@
 ---
-linter-yaml-title-alias: OPTIONS STRATEGIES CONSTRUCTION
-title: OPTIONS STRATEGIES CONSTRUCTION
-tags:
-  - butterfly_spread
-  - option_expiration
-  - options_strategies
-  - protective_put
-  - stock_price
+academic_level: graduate
 aliases:
-  - Protective Put Strategy
+- Protective Put Strategy
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000161
 key_concepts:
-  - Limited risk
-  - Minimal stock movement
-  - Protective put portfolio
-  - Stock near expiration
-  - Stock price movement
+- Black-Scholes option pricing model and continuous-time finance
+- Binomial option pricing model and lattice methods
+- Options Greeks and sensitivity analysis for risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Value at Risk (VaR) and tail risk measurement
+- Arbitrage opportunities and no-arbitrage pricing
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Risk Measurement and VaR Backtesting
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Option Valuation and Exercise Strategies
+- Value at Risk and Expected Shortfall
+- Binomial Option Pricing Model for Discrete Time Valuation
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Options Trading Strategies and Risk Management
+- American Option Pricing and Early Exercise Premium
+- Stress Testing and Extreme Value Analysis
+- Lattice Methods and Recombining Trees in Derivatives Pricing
+- Fama-French Factors and Style Analysis
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: OPTIONS STRATEGIES CONSTRUCTION
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- asset-allocation
+- binomial-model
+- black-scholes-model
+- cap-floor-spread
+- capital-asset-pricing
+- caplet
+- continuous-time-pricing
+- convexity-adjustment
+- credit-rating
+- debit-valuation-adjustment
+- delta-hedging
+- derivatives
+- discrete-time-pricing
+- put-options
+- recovery-rate
+- call-options
+- multi-period-binomial
+- butterfly-spreads
+- momentum
+- lattice-models
+- strangles
+- expected-shortfall
+- binomial-tree
+- straddles
+- parametric-var
+- american-options
+- conditional-var
+- var-methodologies
+- historical-var
+- extreme-value-theory
+- book-to-market
+- volatility-analysis
+- covered-calls
+- cox-ross-rubinstein
+- ' exposure-at-default'
+- style-analysis
+- option-strategies
+- optional-exercise
+- stress-testing
+- unexpected-loss
+- rating-migration
+- expected-loss
+- investment-analysis
+- portfolio-optimization
+- credit-migration
+- default-probability
+- value-at-risk
+- binomial-option-pricing
+- credit-spreads
+- arbitrage-pricing-theory
+- multi-factor-models
+- crr-model
+- iron-condors
+- protective-puts
+- financial-markets
+- probabilty-of-default
+- loss-given-default
+- size-effect
+- factor-models
+- value-factor
+- monte-carlo-var
+- risk-management
+- var-backtesting
+- ' recombining-trees'
+- options-trading
+- apt
+- fama-french
+title: OPTIONS STRATEGIES CONSTRUCTION
+type: course-note
 ---
+--
+
+
 
 - **Binomial Trees]]**
 	- Financial Instruments/Lecture Notes- Financial Instruments/Teaching Note 4-Multiperiod Binomial Trees/Binomial Option Pricing]]

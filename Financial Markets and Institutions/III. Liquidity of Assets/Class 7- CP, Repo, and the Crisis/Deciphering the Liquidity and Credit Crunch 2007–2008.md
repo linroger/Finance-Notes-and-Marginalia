@@ -2,21 +2,61 @@
 cssclasses: academia
 title: Deciphering the Liquidity and Credit Crunch 2007–2008
 tags:
-  - credit_crunch
-  - federal_reserve
-  - financial_crisis
-  - mortgage_delinquencies
-  - ted_spread
+- financial_crisis
+- mortgage_delinquencies
+- ted_spread
+- credit_crunch
+- federal_reserve
+- caps-floors
+- mark-to-market
+- stochastic-calculus
+- valuation
+- operational-risk
+- esg
+- subprime
+- fair-value
+- futures
+- trading
+- insurance
+- dcf
+- cdo
+- basel-accord
+- liquidity-crunch
 aliases:
-  - Credit Crisis 2007-2008
-  - Financial Turmoil
-  - Liquidity Crisis
+- Credit Crisis 2007-2008
+- Financial Turmoil
+- Liquidity Crisis
 key_concepts:
-  - Federal Reserve actions
-  - Housing bubble burst
-  - Moody's rating downgrades
-  - Mortgage delinquencies impact
-  - Stock market decline
+- Housing bubble burst
+- Mortgage delinquencies impact
+- Federal Reserve actions
+- Moody's rating downgrades
+- Stock market decline
+- Arbitrage pricing theory and fundamental theorem of asset pricing
+- Market efficiency hypotheses and their implications for investment strategies
+- No-arbitrage conditions in financial markets
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- 'Credit default swaps: pricing, valuation, and risk management'
+- Structural and reduced-form models of default
+- Credit portfolio management and concentration risk
+- Value-at-Risk (VaR) methodologies and backtesting
+- Expected shortfall and coherent risk measures
+- Extreme value theory for tail risk modeling
+- Modern portfolio theory and mean-variance optimization
+- Capital Asset Pricing Model and factor models
+- Risk budgeting and risk parity strategies
+- 'Options trading strategies: straddles, strangles, spreads, and combinations'
+- Covered call and protective put strategies
+- Delta-neutral and market-neutral trading
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
+- Time series analysis and forecasting models
 ---
 
 # Deciphering the Liquidity and Credit Crunch 2007–2008

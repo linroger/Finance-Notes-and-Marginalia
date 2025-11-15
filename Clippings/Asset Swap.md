@@ -1,3 +1,80 @@
+---
+tags:
+- credit-rating
+- hedge
+- binomial-model
+- par-value
+- continuous-time-pricing
+- discount-rate
+- swap
+- counterparty-risk
+- caplet
+- capital-adequacy
+- option
+- bond
+- overnight
+- spread
+- credit-risk
+- sofr
+- banking-regulation
+- basel-accord
+- default
+- cds
+- maturity
+- coupon
+- credit-modeling
+- equity
+- discount
+- premium
+- credit
+- convexity-adjustment
+- market
+- credit-default-swap
+- currency
+- black-scholes-model
+- treasury
+- benchmark-reform
+- credit-derivatives
+key_concepts:
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Interest rate swaps and fixed income derivatives
+- SOFR benchmarks and risk-free rate transition
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Discount Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Par Value in financial markets
+- SOFR implementation and overnight rate markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000089
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
+
+
  
 source: https://www.investopedia.com/terms/a/assetswap.asp
 description: An asset swap is a derivative contract where two parties exchange fixed

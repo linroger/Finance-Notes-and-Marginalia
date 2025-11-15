@@ -1,24 +1,83 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Class Note On TerraUSD May 21 2022
 tags:
-  - bank_run
-  - cryptocurrency
-  - fixed_exchange_rates
-  - luna
-  - terrausd
+- derivatives
+- regression-discontinuity
+- fixed_exchange_rates
+- risk-free
+- arbitrage
+- tracking-error
+- usd
+- event-study
+- luna
+- valuation
+- banking
+- machine-learning
+- future
+- swap
+- equity
+- exchange-rate
+- risk-management
+- terrausd
+- private-equity
+- asian
+- corporate-finance
+- call
+- regulatory-capital
+- market
+- currency
+- treasury
+- fail
+- financial-markets
+- collateral
+- cryptocurrency
+- bank_run
+- dark-pool
+- mean-reversion
+- money-market
 aliases:
-  - LUNA
-  - TerraUSD Class Note
-  - UST
+- LUNA
+- TerraUSD Class Note
+- UST
 key_concepts:
-  - Arbitrage process
-  - Bank run analogy
-  - LUNA and UST swap
-  - Speculative attacks
-  - TerraUSD fixed exchange rates
+- Arbitrage process
+- TerraUSD fixed exchange rates
+- Bank run analogy
+- Speculative attacks
+- LUNA and UST swap
+- Arbitrage pricing theory and fundamental theorem of asset pricing
+- Market efficiency hypotheses and their implications for investment strategies
+- No-arbitrage conditions in financial markets
+- Bond pricing and yield-to-maturity calculations
+- Duration and convexity for interest rate risk management
+- Yield curve modeling and term structure of interest rates
+- Banking business models and revenue sources
+- Basel III regulatory framework and capital requirements
+- Liquidity risk management and LCR/NSFR metrics
+- Discounted cash flow (DCF) valuation methodologies
+- Weighted average cost of capital (WACC) calculation
+- Free cash flow to firm (FCFF) vs equity models
+- Arbitrage pricing theory and no-arbitrage principle
+- Exchange Rate in financial markets
+- Risk Free in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000024
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Class Note On TerraUSD May 21 2022
 

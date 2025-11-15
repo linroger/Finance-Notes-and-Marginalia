@@ -1,23 +1,153 @@
 ---
 LLM-tagged: 2025-03-10 14:13:25.958000+00:00
-tags:
-  - cds_spread
-  - corporate_risk
-  - credit_derivatives
-  - credit_risk
-  - merton_model
+academic_level: graduate
 aliases:
-  - Credit Derivatives
-  - Lecture Notes 9
+- Credit Derivatives
+- Lecture Notes 9
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000138
 key_concepts:
-  - Corporate Risk Management
-  - Credit Default Swaps (CDS)
-  - Credit Spread Formula
-  - Investment Banking
-  - Market Liquidity
-  - Notional Amount
-  - Protection Buyer/Seller
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Swap Market Mechanisms and Pricing
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Credit Default Swaps and Credit Risk Transfer
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Credit Default Swaps and CDS Pricing
+- Bond Pricing and Yield to Maturity Analysis
+- Fixed Income Securities and Credit Quality
+- Interest Rate Swaps and Currency Swap Structures
+- CDS Spreads and Implied Default Probabilities
+- Market Microstructure and Liquidity Analysis
+- Credit Spreads and Rating Migration Analysis
+- Credit Risk Transfer and Synthetic Instruments
+- Factor Models and Asset Pricing
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- asset-allocation
+- banking-regulation
+- basel-accord
+- bid-ask-spread
+- capital-adequacy
+- caplet
+- cds
+- cds-flatness-steepness
+- coherent-risk-measure
+- conditional-var
+- convexity-adjustment
+- counterparty-risk
+- credit-curve
+- credit-default-swap
+- credit-derivatives
+- hull-white
+- cir-model
+- expected-shortfall
+- extreme-value-theory
+- arbitrage
+- book-to-market
+- volatility-analysis
+- style-analysis
+- bond-pricing
+- corporate-bonds
+- unexpected-loss
+- cds-spreads
+- overnight-indexed-swaps
+- arbitrage-pricing-theory
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- dirty-price
+- monte-carlo-var
+- coupon-bonds
+- market-impact
+- yield-to-maturity
+- fama-french
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- expected-loss
+- market-efficiency
+- quantitative-finance
+- order-flow
+- currency-swaps
+- default-leg
+- foreign-recurrency
+- cds-arbitrage
+- government-bonds
+- probabilty-of-default
+- liquidity
+- risk-premium
+- cds-coupons
+- affine-term-structure
+- current-yield
+- algorithmic-trading
+- momentum
+- cds-bond-basis
+- sofr
+- swap-rate
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- investment-analysis
+- value-at-risk
+- risky-continuation
+- factor-models
+- risk-management
+- var-backtesting
+- clean-price
+- high-frequency-trading
+- fixed-income
+- short-rate-models
+- swap-spread
+- credit-migration
+- default-probability
+- total-return-swaps
+- libor
+- credit-spreads
+- premium-leg
+- multi-factor-models
+- financial-markets
+- size-effect
+- basis-swaps
+- interest-rate-swaps
+- cds-implied-probability
+- apt
+- credit-default-swaps
+type: course-note
 ---
+--
+
+
 
 Here is a tagged summary:
 

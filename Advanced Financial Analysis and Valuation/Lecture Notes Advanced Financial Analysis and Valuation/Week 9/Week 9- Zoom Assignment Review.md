@@ -1,39 +1,130 @@
 ---
-title: "Week 9- Zoom Assignment Review"
+academic_level: graduate
 aliases:
-  - "Zoom Assignment Review"
-  - "ARR"
-  - "CAC"
-  - "SaaS"
-  - "TAM"
-  - "Zoom"
-tags:
-  - aFAV
-  - week9
-  - arr
-  - cac
-  - nopat_margin
-  - roic
-  - saas_valuation
-  - sales_multiple
-  - tam
-  - zoom_valuation
-  - stock-compensation
-  - market-share-analysis
-key_concepts:
-  - ARR x Multiple = Value
-  - Long-term Zoom market share
-  - Sales multiple valuation
-  - TAM, revenue retention, CAC
-  - Valuing SaaS business
-  - Stock-based compensation dilution effects
-  - Enterprise vs SMB customer mix
-  - JPMorgan valuation approach
-  - Unified communications market sizing
-  - ROIC = NOPAT margin x Asset turnover
+- Zoom Assignment Review
+- ARR
+- CAC
+- SaaS
+- TAM
+- Zoom
 cssclasses: academia
-linter-yaml-title-alias: "Week 9- Zoom Assignment Review"
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000261
+key_concepts:
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Basel accords and banking regulation framework
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Risk Measurement and VaR Backtesting
+- Contango, Backwardation, and Roll Yield
+- Discounted Cash Flow Valuation Models
+- Comparable Company Analysis and Trading Multiples
+- Free Cash Flow and Enterprise Value
+- Futures and Forward Contracts in Financial Markets
+- Value at Risk and Expected Shortfall
+- Credit Spreads and Rating Migration Analysis
+- Hedge Strategies and Basis Risk Management
+- Terminal Value and WACC Calculations
+- Company Valuation and Multiple Analysis
+- Factor Models and Asset Pricing
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: Week 9- Zoom Assignment Review
+professional_application: theoreti
+status: active
+tags:
+- arch
+- asset-allocation
+- banking-regulation
+- basel-accord
+- capital-adequacy
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cost-of-capital
+- credit-rating
+- dcf-valuation
+- debit-valuation-adjustment
+- discounted-cash-flow
+- funding-costs
+- hedging
+- leveraged-buyout
+- recovery-rate
+- sum-of-parts
+- terminal-value
+- free-cash-flow
+- momentum
+- dcf-analysis
+- price-to-earnings
+- expected-shortfall
+- basis-risk
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- book-to-market
+- var-methodologies
+- historical-var
+- contango
+- backwardation
+- ' exposure-at-default'
+- style-analysis
+- cost-of-equity
+- stress-testing
+- mathematical-finance
+- unexpected-loss
+- rating-migration
+- comparable-analysis
+- clearinghouse
+- expected-loss
+- wacc
+- enterprise-value
+- investment-analysis
+- economic-value-added
+- quantitative-finance
+- credit-migration
+- default-probability
+- marking-to-market
+- value-at-risk
+- credit-spreads
+- arbitrage-pricing-theory
+- multi-factor-models
+- hedge-ratio
+- trading-multiples
+- financial-markets
+- equity-value
+- probabilty-of-default
+- loss-given-default
+- size-effect
+- factor-models
+- precedent-transactions
+- value-factor
+- ipo-valuation
+- monte-carlo-var
+- capital-budgeting
+- convergence
+- var-backtesting
+- market-multiple
+- futures-contracts
+- roll-yield
+- apt
+- cost-of-debt
+- forward-contracts
+- fama-french
+title: Week 9- Zoom Assignment Review
+type: course-note
 ---
+--
+
+
 
 Thomas Rauter
 

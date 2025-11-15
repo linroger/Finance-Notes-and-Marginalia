@@ -1,43 +1,96 @@
 ---
 title: An Asset Allocation Primer
 cssclasses:
-  - academia
-  - finance
+- academia
+- finance
 tags:
-  - asset_allocation
-  - asset_classes
-  - diversification
-  - investment_strategy
-  - portfolio_management
-  - risk_budgeting
-  - efficient_frontier
-  - human_capital
-  - portfolio_construction
-  - risk_management
-  - institutional_investing
+- efficiency
+- duration
+- risk-free
+- volatility
+- multiple
+- hedge
+- binomial-model
+- par-value
+- probability
+- margin
+- continuous-time-pricing
+- forward
+- momentum
+- future
+- swap
+- counterparty-risk
+- caplet
+- implied
+- dividend
+- yield-curve
+- beta-estimation
+- gamma
+- correlation
+- option
+- distribution
+- active-risk
+- coherent-risk-measure
+- cds
+- arbitrage-opportunity
+- asset-allocation
+- conditional-var
+- convexity-adjustment
+- credit-default-swap
+- black-scholes-model
+- credit-derivatives
 aliases:
-  - Asset Allocation
-  - Investment Primer
-  - Portfolio Construction Basics
-  - Strategic Asset Allocation
-  - Asset Allocation Fundamentals
+- Asset Allocation
+- Investment Primer
+- Portfolio Construction Basics
+- Strategic Asset Allocation
+- Asset Allocation Fundamentals
 key_concepts:
-  - active versus systematic risk
-  - asset allocation methodology
-  - diversification benefits
-  - purchasing power transportation
-  - two-step allocation approach
-  - market-weighted portfolio construction
-  - conditional asset allocation strategies
-  - efficient frontier optimization
-  - asset location tax strategies
-  - liquidity premium capture
-  - risk budgeting techniques
-  - strategic versus tactical allocation
-  - lifestyle and lifecycle investment approaches
-  - multi-asset portfolio management
-  - risk factor decomposition
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Arbitrage opportunities and no-arbitrage pricing
+- Alpha generation and active portfolio management
+- Beta estimation and systematic risk measurement
+- Volatility modeling and estimation techniques
+- Beta estimation and systematic risk measurement
+- Alpha generation and active return measurement
+- Risk preference theory and utility functions
+- Asset Allocation in financial markets
+- Correlation modeling and dependency structures
+- Credit default probability and recovery modeling
+- Duration and interest rate risk measurement
+- Exchange Rate in financial markets
+- Gamma risk and convexity adjustments in options
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Par Value in financial markets
+- Risk Free in financial markets
+- Spot Price in financial markets
+- Term Structure in financial markets
+- Terminal Value in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+type: primer
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000123
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
+
 
 # An Asset Allocation Primer
 

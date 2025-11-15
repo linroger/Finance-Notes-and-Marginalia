@@ -1,3 +1,81 @@
+---
+key_concepts:
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Untitled 2 and financial analysis
+- Untitled 2 in modern finance
+- Applications of Untitled 2
+- 'Case study: Untitled 2'
+- Discounted Cash Flow valuation methodology
+- Delta hedging strategies in options markets
+- Ev Ebitda in financial markets
+- Free Cash Flow in financial markets
+- Market liquidity analysis and liquidity risk
+- Risk Free in financial markets
+- Spot Rate in financial markets
+- Term Structure in financial markets
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+tags:
+- delta
+- efficiency
+- risk-free
+- volatility
+- multiple
+- basis
+- energy
+- wacc
+- implied
+- swap
+- yield-curve
+- gaap
+- free-cash-flow
+- pricing
+- dcf
+- put
+- bond
+- futures
+- bonds
+- measure
+- ifrs
+- valuation
+- noise
+- options
+- comparable
+- roe
+- maturity
+- coupon
+- fixed-income
+- accounting
+- treasury
+- yield
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000512
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 ### **1  Time-Series & Price-Level Concepts**
 
 |**Term**|**What it measures**|**How it is produced**|**Why it matters**|

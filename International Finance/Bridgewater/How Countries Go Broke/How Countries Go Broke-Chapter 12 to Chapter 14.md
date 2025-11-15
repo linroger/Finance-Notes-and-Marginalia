@@ -1,26 +1,87 @@
 ---
-title: '(24) How Countries Go Broke: Chapter 12 to Chapter 14 | LinkedIn'
-source: 
-  https://www.linkedin.com/pulse/how-countries-go-broke-chapter-12-14-ray-dalio-jdc9e/
-description:
-tags:
-  - big_debt_cycle
-  - covid_pandemic
-  - fiscal_policy
-  - interest_rates
-  - monetary_policy
 aliases:
-  - COVID-19
-  - How Countries Go Broke
-  - MP4
-  - Monetary Policy 4
+- COVID-19
+- How Countries Go Broke
+- MP4
+- Monetary Policy 4
+description: null
 key_concepts:
-  - Big fiscal deficits
-  - COVID pandemic impact
-  - Central bank monetization
-  - Interest rate changes
-  - Monetary policy independence
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- How Countries Go Broke-Chapter 12 to Chapter 14 and financial analysis
+- How Countries Go Broke-Chapter 12 to Chapter 14 in modern finance
+- Applications of How Countries Go Broke-Chapter 12 to Chapter 14
+- 'Case study: How Countries Go Broke-Chapter 12 to Chapter 14'
+- Credit default probability and recovery modeling
+- Exchange Rate in financial markets
+- Growth Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Market Risk in financial markets
+- P E in financial markets
+- Value at Risk and tail risk measurement
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+source: https://www.linkedin.com/pulse/how-countries-go-broke-chapter-12-14-ray-dalio-jdc9e/
+tags:
+- leverage
+- eur
+- monetary-policy
+- hedge
+- senior
+- margin
+- energy
+- digital
+- swaps
+- forward
+- future
+- regulation
+- yield-curve
+- swap
+- irs
+- interest-rates
+- distribution
+- option
+- oil
+- put
+- american
+- bond
+- trading
+- gold
+- bonds
+- options
+- fixed-income
+- call
+- treasury
+- yield
+- interest-rate
+title: '(24) How Countries Go Broke: Chapter 12 to Chapter 14 | LinkedIn'
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000587
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 ## Chapter 12: The History and Lessons from Phase 4, Since 2020—Pandemic and Big Fiscal Deficits Monetized (MP4)
 

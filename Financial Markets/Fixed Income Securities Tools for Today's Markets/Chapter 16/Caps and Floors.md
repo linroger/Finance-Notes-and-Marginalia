@@ -1,21 +1,59 @@
 ---
 tags:
-  - caplets
-  - caps_floors
-  - interest_rate_derivatives
-  - libor
-  - option_pricing
-  - volatility
+- volatility
+- payoff
+- option_pricing
+- caplets
+- interest_rate_derivatives
+- caps_floors
+- forward
+- portfolio
+- implied
+- swap
+- libor
+- discount
+- pricing
+- option
+- term-structure
+- premium
+- call
+- put
+- market
+- trading
+- forward-rate
+- derivative
 aliases:
-  - Caps
-  - Floors
+- Caps
+- Floors
 key_concepts:
-  - ATM cap pricing example
-  - 'Cap: portfolio of caplets'
-  - Caplet valuation formula
-  - 'Caplets: LIBOR and strike'
-  - Implied cap volatility
+- Option valuation and hedging strategies
+- Swap market mechanisms and pricing
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Financial derivatives pricing and valuation
+- Forward Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Term Structure in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000175
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 16.4 CAPS AND FLOORS  
 

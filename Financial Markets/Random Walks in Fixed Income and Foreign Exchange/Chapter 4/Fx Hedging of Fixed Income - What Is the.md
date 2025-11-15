@@ -1,21 +1,84 @@
 ---
-tags:
-  - cross_currency
-  - fixed_income
-  - fx_hedging
-  - fx_risk
-  - maturity_matched
 aliases:
-  - FX Hedge Strategies
-  - FX Hedging
-  - Maturity-Matched Hedges
+- FX Hedge Strategies
+- FX Hedging
+- Maturity-Matched Hedges
 key_concepts:
-  - Cross-currency basis
-  - FX risk for fixed income
-  - Foreign yield curve
-  - Maturity-matched pickup
-  - Unhedged positions
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Fx Hedging of Fixed Income - What Is the and financial analysis
+- Fx Hedging of Fixed Income - What Is the in modern finance
+- Applications of Fx Hedging of Fixed Income - What Is the
+- 'Case study: Fx Hedging of Fixed Income - What Is the'
+- Arbitrage pricing theory and no-arbitrage principle
+- Binomial option pricing model and tree methods
+- Carry Trade in financial markets
+- Correlation modeling and dependency structures
+- Cross Currency in financial markets
+- Discounted Cash Flow valuation methodology
+- Exchange Rate in financial markets
+- Forward Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Risk Free in financial markets
+- Spot Rate in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+tags:
+- risk-free
+- volatility
+- eur
+- hedge
+- basis
+- currency-swap
+- forward
+- swaps
+- swap
+- yield-curve
+- jpy
+- correlation
+- hedging
+- covariance
+- dcf
+- binomial
+- put
+- bond
+- trading
+- crisis
+- futures
+- bonds
+- spread
+- measure
+- forward-rate
+- basis-swap
+- maturity
+- fixed-income
+- roll
+- var
+- yield
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000380
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Chapter 4 FX Hedging of Fixed Income - What is the Best Way?
 

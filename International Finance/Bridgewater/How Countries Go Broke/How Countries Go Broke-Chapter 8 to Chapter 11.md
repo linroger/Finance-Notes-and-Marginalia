@@ -1,30 +1,89 @@
 ---
-title: How Countries Go Broke-Chapter 8 to Chapter 11
-source: 
-  https://www.linkedin.com/pulse/how-countries-go-broke-chapter-8-11-ray-dalio-yzlle/
-description:
-tags:
-  - acts_of_nature
-  - debt_money_economics
-  - geopolitical_cycle
-  - geopolitical_order
-  - how_countries_go_broke
-  - political_cycle
-  - technological_advances
-  - world_monetary_order
 aliases:
-  - Chapter 8-11
-  - Excerpt
-  - How Countries Go Broke
-  - Part 3
+- Chapter 8-11
+- Excerpt
+- How Countries Go Broke
+- Part 3
+description: null
 key_concepts:
-  - Archetypical sequence
-  - Five big forces
-  - Humanity's advances
-  - Internal order and cycle
-  - International order and cycle
-  - Mechanics of money-credit-debt
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- How Countries Go Broke-Chapter 8 to Chapter 11 and financial analysis
+- How Countries Go Broke-Chapter 8 to Chapter 11 in modern finance
+- Applications of How Countries Go Broke-Chapter 8 to Chapter 11
+- 'Case study: How Countries Go Broke-Chapter 8 to Chapter 11'
+- Credit default probability and recovery modeling
+- Discount Rate in financial markets
+- Exchange Rate in financial markets
+- Fed Funds in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market Risk in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Yield Curve in financial markets
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+source: https://www.linkedin.com/pulse/how-countries-go-broke-chapter-8-11-ray-dalio-yzlle/
+tags:
+- leverage
+- synthetic
+- eur
+- volatility
+- monetary-policy
+- hedge
+- basis
+- margin
+- energy
+- digital
+- commodity
+- discount-rate
+- future
+- regulation
+- yield-curve
+- swap
+- pricing
+- distribution
+- interest-rates
+- hedging
+- option
+- oil
+- put
+- intrinsic
+- bond
+- futures
+- bonds
+- options
+- fixed-income
+- roll
+- treasury
+- yield
+- interest-rate
+title: How Countries Go Broke-Chapter 8 to Chapter 11
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000602
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 ## Part 3: Looking Back
 

@@ -1,25 +1,124 @@
 ---
-cssclasses: academia
-title: Mastering Data Visualization with Plotly in Python
-source: 
-  https://blog.enterprisedna.co/mastering-data-visualization-with-plotly-in-python/
-description:
-tags:
-  - data_visualization
-  - line_plot
-  - plotly
-  - python
-  - scatter_plot
+academic_level: graduate
 aliases:
-  - Data Viz with Python
-  - Plotly Tutorial
+- Data Viz with Python
+- Plotly Tutorial
+cssclasses: academia
+description: null
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000034
 key_concepts:
-  - Advanced plot techniques
-  - Create scatter plots
-  - Customize plot appearance
-  - Interactive dashboards
-  - Plotly library
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Risk Measurement and VaR Backtesting
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Option Valuation and Exercise Strategies
+- Value at Risk and Expected Shortfall
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+source: https://blog.enterprisedna.co/mastering-data-visualization-with-plotly-in-python/
+status: active
+tags:
+- binomial-model
+- black-scholes-model
+- caplet
+- coherent-risk-measure
+- conditional-var
+- continuous-time-pricing
+- convexity-adjustment
+- credit-rating
+- dashboards
+- data-analysis
+- debit-valuation-adjustment
+- delta-hedging
+- derivatives
+- discrete-time-pricing
+- duration-analysis
+- put-options
+- leveraged-buyout
+- affine-term-structure
+- recovery-rate
+- sum-of-parts
+- call-options
+- price-to-earnings
+- cir-model
+- hull-white
+- butterfly-spreads
+- momentum
+- strangles
+- dcf-analysis
+- expected-shortfall
+- straddles
+- parametric-var
+- extreme-value-theory
+- book-to-market
+- var-methodologies
+- historical-var
+- mean-reversion
+- lognormal-models
+- covered-calls
+- ' exposure-at-default'
+- style-analysis
+- short-rate-models
+- option-strategies
+- stress-testing
+- unexpected-loss
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- expected-loss
+- economic-value-added
+- credit-migration
+- default-probability
+- value-at-risk
+- credit-spreads
+- arbitrage-pricing-theory
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- protective-puts
+- market-price-of-risk
+- probabilty-of-default
+- loss-given-default
+- size-effect
+- factor-models
+- precedent-transactions
+- value-factor
+- vasicek-model
+- ipo-valuation
+- monte-carlo-var
+- var-backtesting
+- options-trading
+- market-multiple
+- apt
+- risk-premium
+- fama-french
+title: Mastering Data Visualization with Plotly in Python
+type: note
 ---
+--
+
+
 
 # Mastering Data Visualization with Plotly in Python
 

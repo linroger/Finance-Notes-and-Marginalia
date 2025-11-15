@@ -1,29 +1,115 @@
 ---
+aliases:
+- China's monetary policy
+- PBOC
+- People's Bank of China
 cssclasses: academia
 description: Here is how the Central Bank of China manages its currency rates and
   the money supply.
-source: 
-  https://www.investopedia.com/articles/investing/072815/how-does-china-manage-its-money-supply.asp
-title: China's Monetary Policy
-tags:
-  - chinese_economy
-  - discount_rate
-  - forex_rates
-  - money_supply
-  - pboc
-  - reserve_ratio
-  - yuan
-aliases:
-  - China's monetary policy
-  - PBOC
-  - People's Bank of China
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000016
 key_concepts:
-  - Export-driven economy
-  - Manage forex rates
-  - PBOC controls money supply
-  - Printing currency
-  - Reserve ratio changes
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- China's Monetary Policy and financial analysis
+- China's Monetary Policy in modern finance
+- Applications of China's Monetary Policy
+- 'Case study: China''s Monetary Policy'
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Risk Measurement and VaR Backtesting
+- Ornstein-Uhlenbeck Process in Finance
+- Fixed Income Securities and Credit Quality
+- Bond Pricing and Yield to Maturity Analysis
+- Value at Risk and Expected Shortfall
+- Credit Spreads and Rating Migration Analysis
+- Vasicek Interest Rate Model and Mean Reversion
+- Real Options in Strategic Investment Decisions
+- Short Rate Models and Term Structure Dynamics
+- Flexibility Value in Capital Budgeting
+- Option to Expand and Investment Timing
+- Government and Corporate Bond Markets
+- Stress Testing and Extreme Value Analysis
+source: https://www.investopedia.com/articles/investing/072815/how-does-china-manage-its-money-supply.asp
+tags:
+- discount
+- bonds
+- futures
+- roll
+- bond
+- var
+- fixed-income
+- liquidity
+- treasury
+- spread
+- trading
+- ratio
+- risk-management
+- affine-term-structure
+- recovery-rate
+- hull-white
+- zero-coupon-bonds
+- clean-price
+- cir-model
+- real-options
+- strategic-investment
+- option-to-expand
+- expected-shortfall
+- parametric-var
+- conditional-var
+- extreme-value-theory
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- option-to-abandon
+- ' exposure-at-default'
+- short-rate-models
+- bond-pricing
+- corporate-bonds
+- stress-testing
+- timing-options
+- unexpected-loss
+- ornstein-uhlenbeck
+- rating-migration
+- expected-loss
+- investment-analysis
+- credit-migration
+- default-probability
+- risk-premium
+- value-at-risk
+- credit-spreads
+- flexibility-value
+- government-bonds
+- market-price-of-risk
+- financial-markets
+- probabilty-of-default
+- loss-given-default
+- vasicek-model
+- dirty-price
+- monte-carlo-var
+- var-backtesting
+- coupon-bonds
+- natural-resource-valuation
+- current-yield
+- yield-to-maturity
+title: China's Monetary Pol
 ---
+--
 
 # China's Monetary Policy
 

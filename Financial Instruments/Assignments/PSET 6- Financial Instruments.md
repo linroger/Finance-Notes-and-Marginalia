@@ -1,34 +1,189 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: PSET 6-Financial Instruments
-title: PSET 6-Financial Instruments
-tags:
-  - financial_instruments
-  - implied_volatility
-  - morgan_stanley
-  - options_data
-  - structured_security
-  - black_scholes
-  - equity_derivatives
-  - plus_securities
-  - options_pricing
+academic_level: graduate
 aliases:
-  - Homework 6
-  - PLUS Security
-  - PSET 6
+- Homework 6
+- PLUS Security
+- PSET 6
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000123
 key_concepts:
-  - Implied Volatility Calculation
-  - PLUS Security Decomposition
-  - Risk Factors
-  - S&P 500 Options Data
-  - Structured Security Valuation
-  - Option Elasticity
-  - Performance Leveraged Securities
-  - Option Replication Strategies
-  - Delta Sensitivity
-  - Beta Calculation
+- Black-Scholes option pricing model and continuous-time finance
+- Implied volatility calculation and volatility surface analysis
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Discounted cash flow (DCF) valuation methodology
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Collateralized debt obligations (CDO) and tranche structure
+- Arbitrage opportunities and no-arbitrage pricing
+- Beta estimation and systematic risk measurement
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Beta estimation and systematic risk measurement
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Auto-Callable Notes and Barrier Options
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Equity-Linked Notes and Market-Linked Securities
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Cost of Equity and Expected Returns
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Structured Products and Principal Protection
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Fixed Income Securities and Credit Quality
+- Bond Pricing and Yield to Maturity Analysis
+- Private Equity Investment Returns and Value Creation
+- Option Valuation and Exercise Strategies
+- Credit Spreads and Rating Migration Analysis
+- LBO Valuation and Debt Capacity Analysis
+- Factor Models and Asset Pricing
+- Leveraged Buyouts and Private Equity Transactions
+- Government and Corporate Bond Markets
+- Arbitrage Pricing Theory and Multi-Factor Models
+linter-yaml-title-alias: PSET 6-Financial Instruments
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- arbitrage-pricing
+- asset-allocation
+- beta-estimation
+- binomial-model
+- black-scholes-model
+- capital-asset-pricing
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cds
+- collateralized-debt-obligation
+- continuous-time-pricing
+- convexity-adjustment
+- cost-of-capital
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- volatility-analysis
+- style-analysis
+- leverage-ratio
+- bond-pricing
+- option-strategies
+- corporate-bonds
+- unexpected-loss
+- capital-asset-pricing-model
+- arbitrage-pricing-theory
+- private-equity
+- market-price-of-risk
+- loss-given-default
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- dirty-price
+- monte-carlo-var
+- options-trading
+- coupon-bonds
+- yield-to-maturity
+- price-to-earnings
+- fama-french
+- recovery-rate
+- zero-coupon-bonds
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- debt-capacity
+- expected-loss
+- market-linked-notes
+- investment-return
+- systematic-risk
+- protective-puts
+- government-bonds
+- alpha
+- security-market-line
+- probabilty-of-default
+- reverse-convertibles
+- idiosyncratic-risk
+- risk-premium
+- beta
+- put-options
+- affine-term-structure
+- equity-kickers
+- capm
+- lbo-valuation
+- momentum
+- market-risk-premium
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- portfolio-optimization
+- value-at-risk
+- bootstrap-strategy
+- management-buyout
+- factor-models
+- risk-management
+- var-backtesting
+- barrier-options
+- sum-of-parts
+- clean-price
+- principal-protected-notes
+- strangles
+- conditional-var
+- equity-linked-notes
+- fixed-income
+- short-rate-models
+- efficient-frontier
+- credit-migration
+- default-probability
+- auto-callables
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- structured-notes
+- iron-condors
+- financial-markets
+- size-effect
+- precedent-transactions
+- knock-out-options
+- ipo-valuation
+- market-multiple
+- apt
+- current-yield
+title: PSET 6-Financial Instruments
+type: case-study
 ---
+--
+
+
 
 # PSET 6-Financial Instruments
 

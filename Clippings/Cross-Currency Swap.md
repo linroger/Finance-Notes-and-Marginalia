@@ -1,3 +1,83 @@
+---
+tags:
+- eur
+- volatility
+- multiple
+- hedge
+- bid-ask-spread
+- future
+- swap
+- counterparty-risk
+- caplet
+- capital-adequacy
+- counterparty
+- hedging
+- american
+- bond
+- overnight
+- sofr
+- banking-regulation
+- coherent-risk-measure
+- basel-accord
+- default
+- cds
+- arbitrage-opportunity
+- arbitrage
+- usd
+- maturity
+- repo
+- credit-modeling
+- capital
+- cross-currency
+- euribor
+- conditional-var
+- convexity-adjustment
+- credit-default-swap
+- benchmark-reform
+- credit-derivatives
+key_concepts:
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Credit default swaps (CDS) and credit risk modeling
+- Currency swaps and foreign exchange risk management
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- SOFR benchmarks and risk-free rate transition
+- Basel accords and banking regulation framework
+- Arbitrage opportunities and no-arbitrage pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Arbitrage pricing theory and no-arbitrage principle
+- Cross Currency in financial markets
+- Credit default probability and recovery modeling
+- Exchange Rate in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- SOFR implementation and overnight rate markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+type: note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000102
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
+
+
  
 source: https://www.investopedia.com/terms/c/cross-currency-swap.asp
 description: A cross-currency swap is an agreement between two parties to exchange

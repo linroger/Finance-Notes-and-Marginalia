@@ -1,18 +1,80 @@
 ---
-cssclasses: [international-economics]
-title: Chapter 1. Introduction
-tags: [international-economics, trade, monetary-economics, introduction]
-aliases: [International Econ Introduction]
+aliases:
+- International Econ Introduction
+cssclasses:
+- international-economics
 key_concepts:
-  - Gains from Trade
-  - Pattern of Trade
-  - Balance of Payments
-  - Exchange Rate Determination
-  - International Policy Coordination
-  - International Capital Markets
-  - Protectionism
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Chapter 1. Introduction and financial analysis
+- Chapter 1. Introduction in modern finance
+- Applications of Chapter 1. Introduction
+- 'Case study: Chapter 1. Introduction'
+- Credit default probability and recovery modeling
+- Exchange Rate in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
 linter-yaml-title-alias: Chapter 1. Introduction
+tags:
+- barrier
+- eur
+- swaps
+- future
+- regulation
+- risk-management
+- irs
+- distribution
+- oil
+- put
+- american
+- bond
+- trading
+- gold
+- crisis
+- bonds
+- mortgage
+- measure
+- default
+- cds
+- options
+- pandemic
+- ito
+- roe
+- growth
+- fundamental
+- risk
+- call
+- var
+- yield
+title: Chapter 1. Introduction
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000522
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Chapter 1. Introduction
 

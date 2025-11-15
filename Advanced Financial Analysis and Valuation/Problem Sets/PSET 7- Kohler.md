@@ -1,34 +1,177 @@
 ---
-title: PSET 7 - Kohler
-cssclasses: academia
-tags:
-  - dcf_analysis
-  - enterprise_value
-  - kohler_co
-  - private_firm_valuation
-  - recapitalization
-  - family_business
-  - corporate_finance
-  - valuation_methods
-  - minority_shareholders
-  - financial_analysis
+academic_level: graduate
 aliases:
-  - DCF vs Public
-  - Herbert Kohler
-  - Kohler Valuation
-  - PSET 7
+- DCF vs Public
+- Herbert Kohler
+- Kohler Valuation
+- PSET 7
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000227
 key_concepts:
-  - availability_of_information: "Transparency differences between public and private firms"
-  - control_considerations: "Control premiums and minority discounts in valuations"
-  - dcf_valuation: "Application of discounted cash flow model to private firms"
-  - discount_rate: "Cost of capital adjustments for private firms"
-  - enterprise_value: "Total value of a company before debt obligations"
-  - growth_assumptions: "Long-term strategic planning in private firms"
-  - liquidity_marketability: "Discounts applied for lack of share liquidity"
-  - peer_analysis: "Comparison with similar public companies"
-  - family_ownership: "Preservation of family control and governance"
-  - public_vs_private: "Key valuation differences based on ownership structure"
+- Discounted cash flow (DCF) valuation methodology
+- Weighted Average Cost of Capital (WACC) and firm valuation
+- Beta estimation and systematic risk measurement
+- Beta estimation and systematic risk measurement
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- 'Valuation Methods: DCF, Comps, and Precedents'
+- Free Cash Flow and Enterprise Value
+- Value at Risk and Expected Shortfall
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Company Valuation and Multiple Analysis
+- Capital Asset Pricing Model and Beta Analysis
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Comparable Company Analysis and Trading Multiples
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Price Discovery and Market Efficiency
+- Cost of Equity and Expected Returns
+- Flexibility Value in Capital Budgeting
+- Security Market Line and Risk-Return Tradeoff
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Risk Measurement and VaR Backtesting
+- Bid-Ask Spreads and Market Impact
+- Option to Expand and Investment Timing
+- Option Valuation and Exercise Strategies
+- Real Options in Strategic Investment Decisions
+- Credit Spreads and Rating Migration Analysis
+- Market Microstructure and Liquidity Analysis
+- Factor Models and Asset Pricing
+- Terminal Value and WACC Calculations
+- Discounted Cash Flow Valuation Models
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- asset-allocation
+- asset-backed-securities
+- beta-estimation
+- bid-ask-spread
+- business-valuation
+- capital-structure
+- caplet
+- cash-flow-modeling
+- cost-of-capital
+- credit-rating
+- dcf-valuation
+- debit-valuation-adjustment
+- discounted-cash-flow
+- enterprise-valuation
+- firm-valuation
+- leveraged-buyout
+- hull-white
+- call-options
+- cir-model
+- terminal-value
+- free-cash-flow
+- butterfly-spreads
+- dcf-analysis
+- expected-shortfall
+- straddles
+- extreme-value-theory
+- book-to-market
+- arbitrage
+- option-to-abandon
+- volatility-analysis
+- style-analysis
+- option-strategies
+- timing-options
+- unexpected-loss
+- capital-asset-pricing-model
+- enterprise-value
+- arbitrage-pricing-theory
+- market-price-of-risk
+- price-discovery
+- loss-given-default
+- value-factor
+- vasicek-model
+- sharpe-ratio
+- monte-carlo-var
+- capital-budgeting
+- options-trading
+- market-impact
+- price-to-earnings
+- fama-french
+- recovery-rate
+- real-options
+- strategic-investment
+- parametric-var
+- lognormal-models
+- var-methodologies
+- historical-var
+- mean-reversion
+- expected-loss
+- wacc
+- market-efficiency
+- quantitative-finance
+- order-flow
+- systematic-risk
+- protective-puts
+- alpha
+- security-market-line
+- probabilty-of-default
+- liquidity
+- idiosyncratic-risk
+- cost-of-debt
+- risk-premium
+- beta
+- put-options
+- affine-term-structure
+- capm
+- algorithmic-trading
+- momentum
+- option-to-expand
+- market-risk-premium
+- covered-calls
+- ' exposure-at-default'
+- stress-testing
+- mathematical-finance
+- ornstein-uhlenbeck
+- rating-migration
+- comparable-analysis
+- investment-analysis
+- economic-value-added
+- value-at-risk
+- flexibility-value
+- factor-models
+- risk-management
+- var-backtesting
+- sum-of-parts
+- high-frequency-trading
+- strangles
+- conditional-var
+- short-rate-models
+- cost-of-equity
+- efficient-frontier
+- credit-migration
+- default-probability
+- credit-spreads
+- multi-factor-models
+- trading-multiples
+- iron-condors
+- financial-markets
+- equity-value
+- size-effect
+- precedent-transactions
+- ipo-valuation
+- market-multiple
+- apt
+- natural-resource-valuation
+title: PSET 7 - Kohler
+type: note
 ---
+--
+
+
 
 # PSET 7 - Kohler
 

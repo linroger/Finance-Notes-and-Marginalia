@@ -1,22 +1,108 @@
 ---
-tags:
-  - central_limit_theorem
-  - distribution_function
-  - moment_generating_function
-  - random_variables
-  - standard_normal_distribution
+academic_level: graduate
 aliases:
-  - CLT Verification
-  - Central Limit Theorem Proof
+- CLT Verification
+- Central Limit Theorem Proof
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch09-000467
 key_concepts:
-  - Distribution function
-  - Independent random variables
-  - Moment generating function
-  - Random variable mean
-  - Random variable variance
-  - Standard normal distribution
-  - Taylor series expansion
+- Credit default swaps (CDS) and credit risk modeling
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Collateralized debt obligations (CDO) and tranche structure
+- Arbitrage opportunities and no-arbitrage pricing
+- Volatility modeling and estimation techniques
+- Risk preference theory and utility functions
+- Financial modeling and quantitative analysis
+- Risk management and portfolio optimization
+- Derivatives pricing and hedging strategies
+- Market risk measurement and control
+- Credit Risk Management and Default Probability
+- Expected Loss and Loss Given Default Models
+- Risk Measurement and VaR Backtesting
+- 'Greeks: Delta, Gamma, Theta, and Vega Hedging'
+- Ornstein-Uhlenbeck Process in Finance
+- Option Valuation and Exercise Strategies
+- Value at Risk and Expected Shortfall
+- Credit Spreads and Rating Migration Analysis
+- Factor Models and Asset Pricing
+- Vasicek Interest Rate Model and Mean Reversion
+- Short Rate Models and Term Structure Dynamics
+- Options Trading Strategies and Risk Management
+- Stress Testing and Extreme Value Analysis
+- Fama-French Factors and Style Analysis
+- Arbitrage Pricing Theory and Multi-Factor Models
+professional_application: theoreti
+status: active
+tags:
+- arbitrage-opportunity
+- asset-allocation
+- cds
+- coherent-risk-measure
+- collateralized-debt-obligation
+- conditional-var
+- counterparty-risk
+- credit-default-swap
+- credit-derivatives
+- credit-modeling
+- credit-rating
+- default-probability
+- expected-loss
+- hedging
+- index-cds
+- put-options
+- affine-term-structure
+- recovery-rate
+- hull-white
+- call-options
+- cir-model
+- butterfly-spreads
+- momentum
+- strangles
+- expected-shortfall
+- straddles
+- parametric-var
+- extreme-value-theory
+- book-to-market
+- var-methodologies
+- historical-var
+- mean-reversion
+- lognormal-models
+- covered-calls
+- ' exposure-at-default'
+- style-analysis
+- short-rate-models
+- option-strategies
+- stress-testing
+- unexpected-loss
+- ornstein-uhlenbeck
+- rating-migration
+- credit-migration
+- value-at-risk
+- credit-spreads
+- arbitrage-pricing-theory
+- multi-factor-models
+- iron-condors
+- protective-puts
+- market-price-of-risk
+- probabilty-of-default
+- loss-given-default
+- size-effect
+- factor-models
+- value-factor
+- vasicek-model
+- monte-carlo-var
+- var-backtesting
+- options-trading
+- apt
+- risk-premium
+- fama-french
+type: note
 ---
+--
+
+
 
 # Chapter 2 Additional Readings  
 

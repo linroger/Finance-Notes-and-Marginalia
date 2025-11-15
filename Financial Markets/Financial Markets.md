@@ -1,3 +1,83 @@
+---
+tags:
+- efficiency
+- duration
+- capital-markets
+- stochastic-processes
+- mathematical-finance
+- volatility
+- convexity
+- probability
+- numerical-methods
+- forward
+- quantitative-valuation
+- future
+- implied
+- regulation
+- market-microstructure
+- swap
+- risk-management
+- pricing
+- distribution
+- option
+- hedging
+- binomial
+- put
+- american
+- financial-engineering
+- trading
+- stochastic-calculus
+- options-pricing
+- forward-rate
+- brownian
+- swap-markets
+- fixed-income
+- finance
+- quantitative-methods
+- probability-theory
+key_concepts:
+- Black-Scholes model and option pricing theory
+- Binomial option pricing model
+- Option Greeks and risk sensitivities
+- American option pricing and early exercise
+- Option valuation and hedging strategies
+- Interest rate swaps and term structure modeling
+- Cross-currency swaps and FX risk management
+- Swap market mechanisms and pricing
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Market liquidity and microstructure effects
+- Monte Carlo simulation for derivatives valuation
+- Financial derivatives pricing and valuation
+- Numerical methods in finance
+- Arbitrage pricing theory and no-arbitrage principle
+- Binomial option pricing model and tree methods
+- Black-Scholes option pricing model and its applications
+- Convexity adjustments for bond portfolio management
+- Cross Currency in financial markets
+- Duration and interest rate risk measurement
+- Forward Rate in financial markets
+- Interest Rate in financial markets
+- Market liquidity analysis and liquidity risk
+- Monte Carlo in financial markets
+- Term Structure in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000511
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 %% Begin Waypoint %%
 - **Financial Markets**
 	- **Financial Asset Pricing Theory Overview**

@@ -1,39 +1,93 @@
 ---
 title: Lecture 1 - Probability Distributions of Returns
 cssclasses:
-  - academia
-  - finance
+- academia
+- finance
 tags:
-  - asset_returns
-  - empirical_distribution
-  - macro_decisions
-  - portfolio_risk
-  - probability_distributions
-  - risk_aversion
-  - portfolio_optimization
-  - modern_portfolio_theory
-  - investment_horizon
+- credit-rating
+- leverage
+- risk-free
+- volatility
+- multiple
+- binomial-model
+- probability
+- margin
+- continuous-time-pricing
+- expected-shortfall
+- forward
+- future
+- implied
+- regulation
+- caplet
+- gamma
+- pricing
+- correlation
+- distribution
+- hedging
+- covariance
+- put
+- gold
+- bond
+- coherent-risk-measure
+- arbitrage-opportunity
+- capital-asset-pricing
+- asset-allocation
+- arch
+- conditional-var
+- delta-hedging
+- convexity-adjustment
+- debit-valuation-adjustment
+- arbitrage-pricing
+- black-scholes-model
 aliases:
-  - Advanced Investments Lecture
-  - Lecture 1
-  - Probability of Returns
-  - Return Distributions
+- Advanced Investments Lecture
+- Lecture 1
+- Probability of Returns
+- Return Distributions
 key_concepts:
-  - Asset class allocation
-  - Empirical distribution
-  - Expected return
-  - Portfolio risk properties
-  - Returns correlation
-  - Risk measurement approaches
-  - Mean-variance optimization
-  - Sharpe ratio
-  - Risk aversion calibration
-  - Risk-return tradeoffs
-  - Market equilibrium concepts
-  - Conditional return distributions
-  - Crash risk modeling
-  - Estimation uncertainty
+- Black-Scholes option pricing model and continuous-time finance
+- Options Greeks and sensitivity analysis for risk management
+- Duration analysis and interest rate risk management
+- Convexity adjustments and yield curve sensitivity
+- Capital Asset Pricing Model (CAPM) and expected returns
+- Value at Risk (VaR) and tail risk measurement
+- Expected shortfall and coherent risk measures
+- Arbitrage opportunities and no-arbitrage pricing
+- Sharpe ratio and risk-adjusted performance measurement
+- Factor models and multi-factor pricing
+- Volatility modeling and estimation techniques
+- Correlation analysis and dependency structures
+- Risk preference theory and utility functions
+- Sensitivity analysis and Greeks calculation
+- Asset Allocation in financial markets
+- Correlation modeling and dependency structures
+- Expected Shortfall in financial markets
+- Gamma risk and convexity adjustments in options
+- Mean Variance in financial markets
+- Risk Free in financial markets
+- Value at Risk and tail risk measurement
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+type: course-note
+status: active
+academic_level: graduate
+professional_application: theoretical
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000117
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
+
+
 
 # Lecture 1: Probability Distributions of Returns
 

@@ -1,22 +1,78 @@
 ---
-title: Principles Part I
-cssclasses: academia
-tags:
-  - bridgewater
-  - debt_cycles
-  - economic_cycles
-  - financial_crisis
-  - principles
 aliases:
-  - Big Debt Crises
-  - Principles Part 1
+- Big Debt Crises
+- Principles Part 1
+cssclasses: academia
 key_concepts:
-  - 2008 financial crisis
-  - mechanics of debt cycles
-  - money debt market cycles
-  - navigate big debt crises
-  - timeless universal mechanics
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Principles Part I and financial analysis
+- Principles Part I in modern finance
+- Applications of Principles Part I
+- 'Case study: Principles Part I'
+- Credit default probability and recovery modeling
+- Interest Rate in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+tags:
+- leverage
+- eur
+- monetary-policy
+- digital
+- future
+- interest-rates
+- put
+- trading
+- intrinsic
+- bond
+- gold
+- crisis
+- debt-restructuring
+- spread
+- structured
+- valuation
+- default
+- cds
+- options
+- bankruptcy
+- ito
+- growth
+- risk
+- depth
+- credit
+- apt
+- call
+- liquidity
+- interest-rate
+title: Principles Part I
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000556
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # Principles Part I
 

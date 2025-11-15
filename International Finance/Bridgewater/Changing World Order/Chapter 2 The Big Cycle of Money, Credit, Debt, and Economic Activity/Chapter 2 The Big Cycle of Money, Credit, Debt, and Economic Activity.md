@@ -1,3 +1,80 @@
+---
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Chapter 2 The Big Cycle of Money, Credit, Debt, and Economic Activity and financial
+  analysis
+- Chapter 2 The Big Cycle of Money, Credit, Debt, and Economic Activity in modern
+  finance
+- Applications of Chapter 2 The Big Cycle of Money, Credit, Debt, and Economic Activity
+- 'Case study: Chapter 2 The Big Cycle of Money, Credit, Debt, and Economic Activity'
+- Credit default probability and recovery modeling
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Value at Risk and tail risk measurement
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+tags:
+- leverage
+- eur
+- multiple
+- monetary-policy
+- hedge
+- senior
+- margin
+- commodity
+- future
+- distribution
+- interest-rates
+- option
+- put
+- intrinsic
+- bond
+- american
+- gold
+- crisis
+- bonds
+- structured
+- spread
+- measure
+- valuation
+- default
+- cds
+- options
+- fixed-income
+- credit
+- call
+- treasury
+- yield
+- interest-rate
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000616
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
+---
+
+
+
 Chapter 2: The Big Cycle of Money, Credit, Debt, and Economic Activity
 
 # **Chapter 2: The Big Cycle of Money, Credit, Debt, and Economic Activity**

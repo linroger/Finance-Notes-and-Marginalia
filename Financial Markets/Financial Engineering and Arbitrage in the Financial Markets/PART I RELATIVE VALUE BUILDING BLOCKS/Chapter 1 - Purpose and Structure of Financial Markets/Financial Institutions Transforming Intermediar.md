@@ -1,23 +1,73 @@
 ---
 tags:
-  - asset_transformers
-  - balance_sheets
-  - broker_dealers
-  - commercial_banks
-  - financial_institutions
+- cds
+- duration
+- commercial_banks
+- eur
+- arbitrage
+- hedge
+- diversification
+- roe
+- maturity
+- capital
+- regulation
+- asset_transformers
+- broker_dealers
+- european
+- market-risk
+- credit
+- call
+- trading
+- bond
+- balance_sheets
+- financial_institutions
+- model
+- market
+- spread
+- mortgage
 aliases:
-  - Asset Transformation
-  - Brokerage Firms
-  - Financial Intermediaries
+- Asset Transformation
+- Brokerage Firms
+- Financial Intermediaries
 key_concepts:
-  - Asset transformation explained
-  - Balance sheet analysis
-  - Broker-dealer characteristics
-  - Commercial bank examples
-  - Customer-friendly liabilities
-  - Financial institutions roles
-  - Government insurance benefits
+- Bond duration and interest rate risk
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Portfolio optimization and asset allocation
+- Capital Asset Pricing Model and beta analysis
+- Mean-variance optimization and efficient frontier
+- Arbitrage theory and no-arbitrage pricing
+- Risk-neutral measures and martingale pricing
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Arbitrage pricing theory and no-arbitrage principle
+- Duration and interest rate risk measurement
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- Market Risk in financial markets
+- Asset securitization and structured finance
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+- Capital markets and trading strategies
+- Financial engineering and product innovation
+- Regulatory frameworks and compliance
+- Market dynamics and behavioral finance
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000326
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 1.5 FINANCIAL INSTITUTIONS: TRANSFORMING INTERMEDIARIES VS BROKER-DEALERS  
 

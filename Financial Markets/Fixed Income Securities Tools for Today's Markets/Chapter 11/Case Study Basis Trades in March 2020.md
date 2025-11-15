@@ -1,21 +1,68 @@
 ---
 tags:
-  - basis_trades
-  - futures_contracts
-  - hedge_funds
-  - market_volatility
-  - treasury_bonds
+- basis_trades
+- pandemic
+- eur
+- volatility
+- ito
+- hedge
+- comparable
+- futures_contracts
+- margin
+- treasury_bonds
+- repo
+- forward
+- market_volatility
+- future
+- hedge_funds
+- implied
+- sofr
+- pricing
+- hedging
+- bond
+- overnight
+- spread
+- measure
+- forward-rate
+- fed-funds
 aliases:
-  - COVID-19 market
-  - CTD bonds
-  - March 2020 Basis Trades
+- COVID-19 market
+- CTD bonds
+- March 2020 Basis Trades
 key_concepts:
-  - Basis trade in March 2020
-  - CTD bond and repo rate
-  - Hedge funds and basis trade
-  - Market volatility increase
-  - Treasury yields and futures
+- Treasury securities and government bond markets
+- Fixed income securities and yield curve analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial derivatives pricing and valuation
+- Fed Funds in financial markets
+- Forward Rate in financial markets
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- SOFR implementation and overnight rate markets
+- Term Structure in financial markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000188
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 11.13 CASE STUDY: BASIS TRADES IN MARCH 2020  
 

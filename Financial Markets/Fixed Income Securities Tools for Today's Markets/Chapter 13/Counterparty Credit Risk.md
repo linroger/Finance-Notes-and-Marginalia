@@ -1,19 +1,72 @@
 ---
 tags:
-  - bankruptcy_code
-  - counterparty_risk
-  - credit_valuation_adjustment
-  - safe_harbor
-  - swap_agreements
+- default
+- leverage
+- volatility
+- ito
+- hedge
+- collateralized
+- margin
+- valuation
+- bankruptcy_code
+- future
+- regulation
+- swap
+- counterparty_risk
+- counterparty
+- swap_agreements
+- hedging
+- put
+- trading
+- bond
+- safe_harbor
+- crisis
+- structured
+- credit-risk
+- sofr
+- credit_valuation_adjustment
 aliases:
-  - CCR
+- CCR
 key_concepts:
-  - Bankruptcy code safe harbor
-  - CVA charge
-  - Net positive NPV exposure
-  - Swap contract default risk
-  - Terminate swap contracts
+- Interest rate swaps and term structure modeling
+- Credit default swaps and counterparty risk
+- Swap market mechanisms and pricing
+- Fixed income securities and yield curve analysis
+- Credit risk assessment and default modeling
+- Credit derivatives and spread analysis
+- Value at Risk and tail risk measurement
+- Risk management and stress testing
+- Volatility modeling and stochastic processes
+- Ito calculus and stochastic differential equations
+- Market liquidity and microstructure effects
+- Hedging strategies and delta-gamma neutrality
+- Banking and credit intermediation
+- Bank balance sheet management
+- Financial crisis and systemic risk
+- Bailouts and regulatory responses
+- Financial derivatives pricing and valuation
+- Credit Risk in financial markets
+- Credit default probability and recovery modeling
+- Dodd Frank in financial markets
+- Futures Contract in financial markets
+- Risk hedging strategies and instruments
+- Interest Rate in financial markets
+- LIBOR transition and benchmark rate reform
+- Market liquidity analysis and liquidity risk
+- SOFR implementation and overnight rate markets
+- Volatility modeling and implied volatility surfaces
+- Financial markets and instrument analysis
+- Quantitative finance and mathematical modeling
+- Risk management and hedging strategies
+- Investment analysis and portfolio theory
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch08-000238
+batch: BATCH_AH
+processing_agent: Enhancement Agent 8
 ---
+
+
 
 # 13.4 COUNTERPARTY CREDIT RISK  
 
