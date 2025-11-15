@@ -1,4 +1,17 @@
 ---
+tags:
+- credit
+- credit-derivatives
+- fixed-income
+- fixed-income-derivatives
+- ito-calculus
+- stochastic
+key_concepts:
+- Expected Shortfall (ES) and coherent risk measures
+- Ito's Lemma and stochastic calculus
+---
+
+---
 cssclasses:
   - academia
 linter-yaml-title-alias: Class Slides 2 Discussion of Loan Class Slides 2 Discussion

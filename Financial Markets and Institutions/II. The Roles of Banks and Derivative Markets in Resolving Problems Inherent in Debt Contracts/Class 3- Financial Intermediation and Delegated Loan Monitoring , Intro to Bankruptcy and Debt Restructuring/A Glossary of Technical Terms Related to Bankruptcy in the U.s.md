@@ -1,36 +1,95 @@
 ---
-cssclasses:
-  - academia
-title: A Glossary of Technical Terms Related to Bankruptcy in the US
-tags:
-  - bankruptcy
-  - chapter_11
-  - chapter_7
-  - liquidation
-  - reorganization
-  - us_code
-  - creditor_rights
-  - debtor_protections
-  - reorganization_process
 aliases:
-  - Bankruptcy Definitions
-  - Glossary of Bankruptcy Terms
-  - US Bankruptcy Code Terms
+- Bankruptcy Definitions
+- Glossary of Bankruptcy Terms
+- US Bankruptcy Code Terms
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-165ae2
 key_concepts:
-  - 363 asset sale
-  - Absolute priority rule
-  - Automatic stay creditors
-  - Chapter 11 reorganization
-  - Chapter 7 liquidation
-  - Claims against debtor
-  - Cramdown process
-  - Debtor-in-possession financing
-  - Discharge of debts
-  - Exclusivity period
-  - Fraudulent transfer
-  - Impaired claims
-  - Plan of reorganization
+- 363 asset sale
+- Absolute priority rule
+- Apt
+- Arbitrage pricing theory (APT)
+- Automatic stay creditors
+- Capital Structure
+- Case Study
+- Chapter 11 reorganization
+- Chapter 7 liquidation
+- Claims against debtor
+- Course Material
+- Cramdown process
+- Credit risk and default probability
+- Cross-currency basis swaps and funding
+- Debtor-in-possession financing
+- Discharge of debts
+- Distressed Debt
+- Exclusivity period
+- Expected Shortfall (ES) and coherent risk measures
+- Expected Shortfall and coherent risk measures
+- Fixed-for-floating swap cash flows and valuation
+- Fraudulent transfer
+- Historical simulation vs. parametric VaR models
+- Impaired claims
+- Interest rate models and term structure
+- Interest rate swap pricing and valuation
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Monte Carlo VaR for complex portfolios
+- Monte Carlo simulation for derivatives
+- Plan of reorganization
+- Portfolio optimization and mean-variance theory
+- Quantitative Implementation
+- Solution
+- Stress testing and scenario analysis
+- Swap spread and credit risk considerations
+- VaR backtesting and model validation
+- Value at Risk (VaR) and risk metrics
+- Value at Risk (VaR) methodologies and backtesting
+- Variance swaps and volatility trading strategies
+tags:
+- apt
+- bankruptcy
+- capital-structure
+- case-study
+- chapter_11
+- chapter_7
+- course-material
+- credit
+- credit-derivatives
+- creditor_rights
+- debtor_protections
+- derivatives-markets
+- distressed-debt
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- interest-rate-derivatives
+- interest-rate-swaps
+- ito-calculus
+- liquidation
+- markets
+- microeconomics
+- monte-carlo-simulation
+- numerical-simulation
+- options
+- options-pricing
+- quantitative-implementation
+- quantitative-pricing
+- reorganization
+- reorganization_process
+- risk-management
+- solution
+- statistics
+- stochastic
+- us_code
+- value-at-risk
+title: A Glossary of Technical Terms Related to Bankruptcy in the US
 ---
+
 
 # A Glossary of Technical Terms Related to Bankruptcy in the US
 

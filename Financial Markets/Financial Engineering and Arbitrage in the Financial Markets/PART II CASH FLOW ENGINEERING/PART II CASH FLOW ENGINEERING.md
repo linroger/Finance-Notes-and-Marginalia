@@ -1,8 +1,57 @@
-%% Begin Waypoint %%
-- **PART II CASH FLOW ENGINEERING**
-	- **Chapter 8 - Structured Finance**
-	- **Chapter 9 - Mortgage-Backed Securities**
-	- **Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives**
-	- PART II CASH FLOW ENGINEERING
-
-%% End Waypoint %%
+---
+tags:
+- apt
+- asset-pricing
+- banking
+- collateralized-debt-obligation
+- corporate-finance
+- credit-markets
+- derivatives
+- financial-institutions
+- financial-markets
+- financial-modeling
+- fixed-income
+- portfolio-theory
+- quantitative-finance
+- risk-management
+- structured-finance
+key_concepts:
+- Agricultural futures and seasonality
+- Alternative investments and hedge fund strategies
+- Asset swaps and spread-lock strategies
+- Barrier options and knock-in/knock-out structures
+- Basis swaps and cross-currency basis adjustments
+- Basis swaps and floating rate correlations
+- Behavioral finance and market anomalies
+- Best execution and regulatory requirements
+- Bid-ask spreads and market making profitability
+- Black-Litterman model and portfolio optimization
+- CDO structuring and tranche allocation methodologies
+- CDO-squared structures and correlation trading
+- Calendar spreads and roll strategies
+- Central clearing and CCP risk management
+- Commodity futures and convenience yields
+- Commodity swaps and energy derivatives
+- Crack spreads in energy markets
+- Credit default swaps and credit protection mechanisms
+- Credit risk assessment and loan pricing
+- Credit valuation adjustment (CVA) and counterparty risk
+- Cryptocurrency valuation and blockchain technology
+- Currency swaps and cross-currency basis
+- Dark pools and alternative trading venues
+- DeFi protocols and decentralized finance
+- Deposit insurance and systemic risk
+- Discounted cash flow (DCF) valuation methodologies
+- Duration and convexity for bond price sensitivity
+- ESG investing and sustainability metrics
+- Enterprise value and equity value relationships
+- Equity swaps and total return swaps
+- Exotic derivatives and path-dependent options
+- FX futures and currency hedging
+- Fama-French three-factor and five-factor models
+- Fintech disruption and digital banking
+- Gamma trading and convexity adjustments
+- Green bonds and climate risk assessment
+- HJM and forward rate model frameworks
+- Historical simulation and parametric VaR approaches
+- Hull-Whit

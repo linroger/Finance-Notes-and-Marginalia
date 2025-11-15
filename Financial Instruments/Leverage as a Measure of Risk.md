@@ -2,28 +2,58 @@
 cssclasses: academia
 title: Leverage as a Measure of Risk
 tags:
-  - accounting_leverage
-  - derivative_products
-  - equivalent_security
-  - portfolio_management
-  - risk_based_leverage
-  - financial_risk
-  - risk_metrics
+- accounting_leverage
+- black-scholes-model
+- derivative_products
+- equity-derivatives
+- equivalent_security
+- financial_risk
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- monte-carlo-simulation
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- portfolio_management
+- quantitative-pricing
+- risk-management
+- risk_based_leverage
+- risk_metrics
+- stochastic
 aliases:
-  - Leverage Impact
-  - Leverage Risk
-  - Risk Measure
-  - Risk-Based Leverage
+- Leverage Impact
+- Leverage Risk
+- Risk Measure
+- Risk-Based Leverage
 key_concepts:
-  - Accounting vs risk leverage
-  - Derivative product leverage
-  - Equivalent security approach
-  - Leverage as risk factor
-  - Portfolio risk management
-  - DV01 calculation
-  - Risk sensitivity measurement
-  - Bucketized risk analysis
+- Accounting vs risk leverage
+- Arbitrage pricing theory (APT)
+- Black-Scholes option pricing model
+- Bucketized risk analysis
+- Capital Asset Pricing Model (CAPM)
+- DV01 calculation
+- Delta hedging and Greeks calculation
+- Derivative product leverage
+- Equivalent security approach
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Leverage as risk factor
+- Monte Carlo simulation for derivatives
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Portfolio risk management
+- Risk sensitivity measurement
 ---
+
 
 # Leverage as a Measure of Risk
 

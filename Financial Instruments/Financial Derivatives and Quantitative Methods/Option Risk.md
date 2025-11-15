@@ -1,22 +1,41 @@
 ---
 title: Option Risk
 tags:
-  - binomial_model
-  - call_option
-  - elasticity
-  - option_risk
-  - volatility
+- binomial-model
+- binomial_model
+- call_option
+- elasticity
+- equity-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- option-greeks
+- option_risk
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- volatility
 aliases:
-  - Option Risk
-  - Option Risk Notes
-  - Risk of an Option
+- Option Risk
+- Option Risk Notes
+- Risk of an Option
 key_concepts:
-  - Binomial model risk
-  - Call option elasticity
-  - Expected return calculation
-  - Option risk and CAPM
-  - Stock volatility
+- Binomial model risk
+- Binomial tree models for option pricing
+- Call option elasticity
+- Capital Asset Pricing Model (CAPM)
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Expected return calculation
+- Interest rate models and term structure
+- Option risk and CAPM
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Stock volatility
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Option Risk
 

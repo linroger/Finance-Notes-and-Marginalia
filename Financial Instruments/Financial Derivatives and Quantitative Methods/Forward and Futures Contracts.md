@@ -1,22 +1,42 @@
 ---
 title: Forward and Futures Contracts
 tags:
-  - arbitrage
-  - derivative_pricing
-  - forward_contracts
-  - futures_contracts
-  - hedging
+- arbitrage
+- derivative_pricing
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- forward_contracts
+- futures_contracts
+- hedging
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- options
+- options-pricing
+- risk-management
+- stochastic
 aliases:
-  - Derivatives
-  - Forwards and Futures
-  - Hull Chapters 1, 2, 5
+- Derivatives
+- Forwards and Futures
+- Hull Chapters 1, 2, 5
 key_concepts:
-  - Arbitrage
-  - Forward contracts
-  - Futures contracts
-  - Hedging
-  - Replication
+- Arbitrage
+- Arbitrage pricing theory (APT)
+- Capital Asset Pricing Model (CAPM)
+- Complete markets and replication
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Forward contracts
+- Futures contracts
+- Hedging
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Portfolio optimization and mean-variance theory
+- Replication
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Forward and Futures Contracts
 

@@ -2,31 +2,68 @@
 cssclasses: academia
 title: Financial Engineering
 tags:
-  - derivative_pricing
-  - financial_engineering
-  - financial_markets
-  - investment_strategies
-  - risk_management
-  - quantitative_finance
-  - stochastic_calculus
-  - fixed_income
+- arbitrage
+- black-scholes-model
+- credit
+- credit-derivatives
+- derivative_pricing
+- derivatives-pricing
+- equity-derivatives
+- financial_engineering
+- financial_markets
+- fixed-income
+- fixed-income-derivatives
+- fixed_income
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- investment_strategies
+- ito-calculus
+- markets
+- martingale-theory
+- mathematics
+- model-calibration
+- options
+- quantitative_finance
+- risk-management
+- risk_management
+- stochastic
+- stochastic_calculus
 aliases:
-  - Fin. Engineering
-  - FinEng
-  - Financial Eng.
-  - Quantitative Finance
+- Fin. Engineering
+- FinEng
+- Financial Eng.
+- Quantitative Finance
 key_concepts:
-  - Derivatives pricing models
-  - Financial innovation techniques
-  - Structured products design
-  - Arbitrage pricing theory
-  - Risk-neutral valuation
-  - Stochastic processes in finance
-  - Credit risk modeling
-  - Interest rate modeling
-  - Volatility surface calibration
-  - Financial engineering tools
+- Arbitrage pricing theory
+- Arbitrage pricing theory (APT)
+- Black-Scholes option pricing model
+- Capital Asset Pricing Model (CAPM)
+- Complete markets and replication
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Credit risk modeling
+- Derivatives pricing models
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Financial engineering tools
+- Financial innovation techniques
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate modeling
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Model calibration and parameter estimation
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation
+- Risk-neutral valuation and martingale measures
+- Stochastic processes in finance
+- Structured products design
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
+- Volatility surface calibration
 ---
+
 
 # Financial Engineering
 

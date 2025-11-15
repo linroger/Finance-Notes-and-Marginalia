@@ -1,27 +1,45 @@
 ---
-tags:
-  - bank_loans
-  - eurodollar_contract
-  - fixed_income
-  - hedging
-  - interest_rate_futures
-  - t_bills
 aliases:
-  - Chapter 12
-  - Futures Contracts
-  - Hedging Strategies
-  - Interest Rate Futures
+- Chapter 12
+- Futures Contracts
+- Hedging Strategies
+- Interest Rate Futures
 key_concepts:
-  - 90-day Eurodollar contracts
-  - 90-day T-bill contracts
-  - Bank deposit hedging
-  - Duration-based hedge ratio
-  - Floating rate bank loans
-  - Hedging fixed income assets
-  - Interest rate futures
-  - Locking in future rates
-  - Price value of basis point
-  - Strip, rolling, stack hedges
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Chapter 12 - Hedging with Interest Rate Futures and financial analysis
+- Chapter 12 - Hedging with Interest Rate Futures in modern finance
+- Applications of Chapter 12 - Hedging with Interest Rate Futures
+- 'Case study: Chapter 12 - Hedging with Interest Rate Futures'
+tags:
+- yield-curve
+- roll
+- var
+- term-structure
+- hedge-ratio
+- futures
+- spot-rates
+- basis
+- interest-rate
+- forward-rates
+- libor
+- maturity
+- forward
+- bond
+- risk-management
 ---
 # Hedging with Interest Rate Futures  
 

@@ -1,35 +1,45 @@
 ---
-tags:
-  - accounting_principles
-  - class_notes
-  - financial_accounting
-  - financial_analysis
-  - financial_markets
-  - financial_reporting
-  - financial_statements
-  - gaap
-  - sec
 aliases:
-  - Accounting Notes
-  - Class 1
-  - Class Notes
-  - Financial Accounting Notes
+- Accounting Notes
+- Class 1
+- Class Notes
+- Financial Accounting Notes
 key_concepts:
-  - Accrual vs cash accounting differences
-  - Balance sheet structure and valuation methods
-  - Cash flow statement components and analysis
-  - Double-entry accounting system mechanics
-  - Financial statement interconnections
-  - GAAP and FASB regulatory framework
-  - Income statement recognition principles
-  - Inventory valuation and cost flow methods
-  - Journal entry recording process
-  - Ratio analysis for financial performance
-  - Revenue and expense recognition criteria
-  - T-account balancing and classification
-  - Three accounting statement framework
-  - Types of financial statement adjustments
-  - Working capital management implications
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Financial Accounting- Class Notes and financial analysis
+- Financial Accounting- Class Notes in modern finance
+- Applications of Financial Accounting- Class Notes
+- 'Case study: Financial Accounting- Class Notes'
+tags:
+- gaap
+- forward
+- options
+- futures
+- put
+- swaps
+- bonds
+- financial-statement
+- irs
+- ifrs
+- basis
+- roll
+- bond
+- call
+- accounting
 ---
 
 # Financial Accounting: Class Notes

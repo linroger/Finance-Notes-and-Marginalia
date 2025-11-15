@@ -1,11 +1,22 @@
 ---
-title: "Week 8 - Advanced Financial Analysis and Valuation"
-linter-yaml-title-alias: "Week 8 - Advanced Financial Analysis and Valuation"
-aliases: [Week 8 Navigation, International Valuation Week]
-date created: Tuesday, November 26th 2024, 8:30:45 pm
+aliases:
+- Week 8 Navigation
+- International Valuation Week
 cssclasses: academia
-tags: [waypoint, week_8, international_valuation, country_risk, emerging_markets, exchange_rates, political_risk, sovereign_risk, advanced_financial_analysis, dow_chemical_case]
-key_concepts: [international risk assessment, country risk premium, political risk analysis, exchange rate forecasting, emerging market valuation, sovereign default risk, currency hedging, international cost of capital]
+date created: Tuesday, November 26th 2024, 8:30:45 pm
+key_concepts:
+- Week 8 and financial analysis
+- Week 8 in modern finance
+- Applications of Week 8
+- 'Case study: Week 8'
+- Financial markets and institutions
+- Risk management and analysis
+- Portfolio theory and optimization
+- Derivative securities and hedging
+linter-yaml-title-alias: Week 8 - Advanced Financial Analysis and Valuation
+tags:
+- valuation
+title: Week 8 - Advanced Financial Analysis and Valuation
 ---
 
 # Week 8 - Advanced Financial Analysis and Valuation

@@ -1,23 +1,110 @@
 ---
-cssclasses: academia
-title: Creditor Control Rights and Firm Investment Policy
-tags:
-  - capital_expenditures
-  - credit_quality
-  - creditor_rights
-  - debt_agreements
-  - firm_investment
 aliases:
-  - Creditor Control
-  - Firm Investment
-  - Investment Policy
+- Creditor Control
+- Firm Investment
+- Investment Policy
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-b491a1
 key_concepts:
-  - Borrower credit quality
-  - Capital expenditure limits
-  - Creditor-borrower conflicts
-  - Firm investment restrictions
-  - Private credit agreements
+- Borrower credit quality
+- Capital Structure
+- Capital expenditure limits
+- Carry trades and momentum in FX markets
+- Case Study
+- Collateralized Debt Obligations
+- Commodity markets and pricing dynamics
+- Course Material
+- Credit exposure measurement and EAD
+- Credit portfolio diversification and concentration
+- Credit risk and default probability
+- Credit risk modeling and default probability estimation
+- Creditor-borrower conflicts
+- Cross-currency basis swaps and funding
+- Currency markets and foreign exchange trading
+- Currency risk management and hedging
+- Delta hedging and Greeks calculation
+- Exchange rate determination and PPP theory
+- Expected Shortfall (ES) and coherent risk measures
+- Expected Shortfall and coherent risk measures
+- Firm investment restrictions
+- Fixed-for-floating swap cash flows and valuation
+- Forward rates and interest rate parity
+- GARCH models and volatility forecasting
+- Heath-Jarrow-Morton (HJM) framework
+- Historical simulation vs. parametric VaR models
+- Interest rate models and term structure
+- Interest rate swap pricing and valuation
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Loss given default and recovery rates
+- Mathematical Finance
+- Monte Carlo VaR for complex portfolios
+- Monte Carlo simulation for derivatives
+- Portfolio optimization and mean-variance theory
+- Private credit agreements
+- Quantitative Implementation
+- Solution
+- Stress testing and scenario analysis
+- Swap spread and credit risk considerations
+- VaR backtesting and model validation
+- Value at Risk (VaR) and risk metrics
+- Value at Risk (VaR) methodologies and backtesting
+- Variance swaps and volatility trading strategies
+- Vasicek and Cox-Ingersoll-Ross models
+- Working Capital
+- Wrong-way risk in derivative transactions
+tags:
+- capital-structure
+- capital_expenditures
+- case-study
+- collateralized-debt-obligations
+- commodities
+- corporate-bonds
+- course-material
+- credit
+- credit-analysis
+- credit-derivatives
+- credit-risk
+- credit_quality
+- creditor_rights
+- dcf-valuation
+- debt_agreements
+- distressed-debt
+- equity-derivatives
+- exchange-rates
+- firm_investment
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- garch-models
+- harvard-business-review
+- implied-volatility
+- interest-rate-derivatives
+- interest-rate-swaps
+- ito-calculus
+- markets
+- mathematical-finance
+- mean-reversion
+- monte-carlo-simulation
+- municipal-bonds
+- numerical-simulation
+- options
+- options-pricing
+- private-equity
+- quantitative-implementation
+- quantitative-pricing
+- risk-management
+- solution
+- stochastic
+- syndicated-loans
+- value-at-risk
+- vasicek-model
+- working-capital
+title: Creditor Control Rights and Firm Investment Policy
 ---
+
 
 # Creditor Control Rights and Firm Investment Policy
 

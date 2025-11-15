@@ -1,20 +1,37 @@
 ---
-title: Appendix 23. A The Reflection Principle for Wiener Process
-tags:
-  - barrier_probability
-  - brownian_motion
-  - knockout_call
-  - reflection_principle
-  - wiener_process
 aliases:
-  - Brownian Path
-  - Reflection Principle
+- Brownian Path
+- Reflection Principle
 key_concepts:
-  - Barrier probability calculation
-  - Brownian path reflection
-  - Down-and-in cash call
-  - Hitting barrier level
-  - Standard normal calculation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Monte Carlo simulation methods
+- Stochastic processes in finance
+- Path-dependent derivatives pricing
+- Appendix 23.A The Reflection Principle for Wiener Process and financial analysis
+- Appendix 23.A The Reflection Principle for Wiener Process in modern finance
+- Applications of Appendix 23.A The Reflection Principle for Wiener Process
+- 'Case study: Appendix 23.A The Reflection Principle for Wiener Process'
+tags:
+- stochastic
+- swaps
+- options
+- put
+- var
+- monte-carlo
+- call
+- delta
+- risk
+- irs
+- risk-management
+title: Appendix 23. A The Reflection Principle for Wiener Process
 ---
 
 # Appendix 23. A The Reflection Principle for Wiener Process

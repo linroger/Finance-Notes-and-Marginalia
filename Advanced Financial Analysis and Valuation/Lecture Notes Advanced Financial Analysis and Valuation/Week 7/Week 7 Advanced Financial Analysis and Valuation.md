@@ -1,23 +1,20 @@
 ---
-title: Week 7 Advanced Financial Analysis and Valuation
-tags:
-  - advanced_financial_analysis
-  - derivatives
-  - fixed_income
-  - risk_management
-  - valuation
-  - week_7
 aliases:
-  - Advanced Finance
-  - Valuation Techniques
-  - Week 7 Notes
+- Advanced Finance
+- Valuation Techniques
+- Week 7 Notes
 key_concepts:
-  - Bond valuation
-  - Credit risk management
-  - Discounted cash flow (DCF)
-  - Financial statement analysis
-  - Interest rate swaps
-  - Option pricing models
+- Week 7 Advanced Financial Analysis and Valuation and financial analysis
+- Week 7 Advanced Financial Analysis and Valuation in modern finance
+- Applications of Week 7 Advanced Financial Analysis and Valuation
+- 'Case study: Week 7 Advanced Financial Analysis and Valuation'
+- Financial markets and institutions
+- Risk management and analysis
+- Portfolio theory and optimization
+- Derivative securities and hedging
+tags:
+- valuation
+title: Week 7 Advanced Financial Analysis and Valuation
 ---
 
 # Week 7 Advanced Financial Analysis and Valuation

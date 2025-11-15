@@ -1,35 +1,48 @@
 ---
-title: Credit Markets Homework 3
-cssclasses: 
-  - academia
-tags:
-  - bond_pricing
-  - bootstrapping
-  - credit_market_homework
-  - duration_convexity
-  - fixed_rate_bond
-  - perpetual_bond
-  - scenario_analysis
-  - sofr_swap
-  - yield_curve
-  - cds_calibration
-  - hazard_rates
-  - risk_metrics
 aliases:
-  - Credit Markets
-  - Homework 3
-  - Perpetual Bond
-  - SOFR Curve
+- Credit Markets
+- Homework 3
+- Perpetual Bond
+- SOFR Curve
+cssclasses:
+- academia
 key_concepts:
-  - Bond price and risk analysis
-  - DV01 and duration calculations
-  - Fixed rate corporate bond pricing
-  - Perpetual bond valuation
-  - SOFR yield curve calibration
-  - Scenario analysis for bonds
-  - US SOFR swap curve bootstrapping
-  - CDS spread calibration
-  - Hazard rate curves
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Credit Markets Homework 3 and financial analysis
+- Credit Markets Homework 3 in modern finance
+- Applications of Credit Markets Homework 3
+- 'Case study: Credit Markets Homework 3'
+tags:
+- yield-curve
+- corporate-bond
+- dv01
+- recovery
+- fixed-income
+- liquidity
+- interest-rate
+- maturity
+- bond
+- trading
+- spread
+- coupon
+- duration
+- bonds
+- convexity
+title: Credit Markets Homework 3
 ---
 
 # Credit Markets Homework 3

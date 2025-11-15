@@ -1,5 +1,31 @@
 ---
 tags:
+- financial-instruments/abs
+- financial-instruments/bond
+- financial-instruments/bonds
+- financial-instruments/call
+- financial-instruments/cap
+- financial-markets/corporate bonds
+- financial-markets/credit
+- financial-markets/equity
+- educational-level/introductory
+- professional-context/trading
+key_concepts:
+- bond pricing and yield curve analysis
+- financial mathematics and quantitative analysis
+- derivatives and structured products
+- risk management and portfolio optimization
+- stochastic processes in finance
+- mathematical modeling and simulation
+type: note
+status: active
+academic_level: graduate
+professional_application: practical
+institutional_standard: true
+---
+
+
+tags:
   - dealer_markets
   - fixed_income
   - market_microstructure
@@ -16,72 +42,3 @@ key_concepts:
   - Market microstructure analysis
   - Structured credit products
 ---
-
-# Survey of Fixed-Income Market Microstructure
-
-## Abstract
-
-This survey examines the literature on fixed-income trading mechanisms, focusing on:
-- Trading rules and outcomes
-- Structured Products | Treasury securities, corporate and municipal bonds]]
-- Structured credit products
-- Comparative analysis with equity markets
-
-## Introduction to Fixed-Income Markets
-
-### Market Characteristics
-Fixed-income markets are predominantly dealer-oriented over-the-counter (OTC) search markets with unique trading dynamics.
-
-### Key Market Segments
-- Structured Products | Treasury securities]]
-- Corporate bonds
-- Municipal bonds
-- Structured products
-
-### Structured Product Examples
-- Mortgage-backed securities.md) (MBS)
-  - Agency MBS
-  - Private-label MBS
-- Asset-backed securities (ABS)
-- Bank loan packages
-- Collateralized debt obligations (CDOs)
-
-## Market Significance
-
-### Research Context
-- Historically less researched compared to equity markets
-- Substantially larger capital market
-- Increasing theoretical and empirical research focus
-
-## Research Objectives
-- Review key issues in fixed-income trading
-- Summarize important studies
-- Identify future research directions
-
-### Key Research Areas
-- Trading mechanisms
-- Market microstructure
-- Intermediation processes
-- Search cost dynamics
-- Electronic trading evolution
-
-## Comparative Market Analysis
-
-### Differences from Equity Markets
-- OTC trading dominance
-- Limited pre-trade transparency
-- Complex intermediation chains
-- Dealer network significance
-
-## Conclusion
-
-Understanding fixed-income market microstructure requires comprehensive analysis of:
-- Trading mechanisms
-- Dealer networks
-- Technological innovations
-- Regulatory frameworks
-
-## References
-- Academic finance journals
-- Market microstructure literature
-- Regulatory publications

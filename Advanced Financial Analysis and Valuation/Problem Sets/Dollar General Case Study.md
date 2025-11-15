@@ -1,22 +1,46 @@
 ---
-title: DOLLAR GENERAL CASE STUDY
-cssclasses:
-  - academia
-tags:
-  - dollar_general
-  - financial_performance
-  - peer_comparison
-  - profit_margins
-  - revenue_growth
 aliases:
-  - DG Performance
-  - Dollar General Case
+- DG Performance
+- Dollar General Case
+cssclasses:
+- academia
 key_concepts:
-  - Gross margin erosion
-  - Peer group comparison
-  - Profit margin decline
-  - ROA and ROE deterioration
-  - Revenue growth slowdown
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Dollar General Case Study and financial analysis
+- Dollar General Case Study in modern finance
+- Applications of Dollar General Case Study
+- 'Case study: Dollar General Case Study'
+tags:
+- income statement
+- forward
+- futures
+- recovery
+- financial-statement
+- cds
+- roll
+- basis
+- trading
+- liquidity
+- spread
+- execution
+- risk
+- leverage
+- accounting
+title: DOLLAR GENERAL CASE STUDY
 ---
 
 # DOLLAR GENERAL CASE STUDY

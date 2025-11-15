@@ -1,20 +1,44 @@
 ---
-tags:
-  - american_options
-  - bopm
-  - european_options
-  - fixed_income_derivatives
-  - interest_rate_lattice
 aliases:
-  - BOPM
-  - Chapter 41
-  - Pricing Derivatives
+- BOPM
+- Chapter 41
+- Pricing Derivatives
 key_concepts:
-  - American option pricing
-  - Arbitrage-free pricing
-  - European option pricing
-  - Interest rate lattice
-  - Term structure consistency
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- 'Chapter 41 - Pricing Fixed Income Derivatives: BOPM and financial analysis'
+- 'Chapter 41 - Pricing Fixed Income Derivatives: BOPM in modern finance'
+- 'Applications of Chapter 41 - Pricing Fixed Income Derivatives: BOPM'
+- 'Case study: Chapter 41 - Pricing Fixed Income Derivatives: BOPM'
+tags:
+- options
+- yield-curve
+- irs
+- swaption
+- put
+- fixed-income
+- gamma
+- interest-rate
+- maturity
+- libor
+- swaps
+- bond
+- coupon
+- swap
+- bonds
 ---
 # Pricing Fixed Income Derivatives: BOPM  
 

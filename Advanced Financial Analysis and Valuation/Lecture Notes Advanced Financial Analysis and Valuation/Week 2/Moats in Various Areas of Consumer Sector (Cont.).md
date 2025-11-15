@@ -1,29 +1,48 @@
 ---
-title: Moats in Various Areas of Consumer Sector (Cont.)
+aliases:
+- Global Firms Valuation
+- Retail Competitive Analysis
+- Consumer Sector Moats
 cssclasses:
-  - academia
+- academia
+key_concepts:
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Moats in Various Areas of Consumer Sector (Cont.) and financial analysis
+- Moats in Various Areas of Consumer Sector (Cont.) in modern finance
+- Applications of Moats in Various Areas of Consumer Sector (Cont.)
+- 'Case study: Moats in Various Areas of Consumer Sector (Cont.)'
 linter-yaml-title-alias: Moats in Various Areas of Consumer Sector (Cont.)
 tags:
-  - competitive_analysis
-  - porter_five_forces
-  - pricing_analysis
-  - retail_industry_analysis
-  - revenue_forecasting
-  - consumer_sector
-aliases:
-  - Global Firms Valuation
-  - Retail Competitive Analysis
-  - Consumer Sector Moats
-key_concepts:
-  - Competitive rivalry in food retail
-  - Pricing analysis competitors
-  - Retail industry analysis
-  - Revenue forecasting methods
-  - Value drivers in retail
-  - Porter's five forces framework
-  - Unit economics in retail
-  - Financial shenanigans
-  - Same store sales analysis
+- gaap
+- credit
+- forward
+- strategy
+- discount
+- options
+- futures
+- put
+- financial-statement
+- roll
+- var
+- call
+- algorithmic-trading
+- accounting
+- risk-management
+title: Moats in Various Areas of Consumer Sector (Cont.)
 ---
 
 # Moats in Various Areas of Consumer Sector (Cont.)

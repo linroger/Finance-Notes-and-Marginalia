@@ -1,36 +1,48 @@
 ---
-title: Week 4 Valuing Young and High‐Growth Companies
+aliases:
+- Valuation of Growth Companies
+- Valuing Young Firms
+- High-Growth Valuation
 cssclasses:
-  - academia
+- academia
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Week 4 Valuing Young and High‐Growth Companies and financial analysis
+- Week 4 Valuing Young and High‐Growth Companies in modern finance
+- Applications of Week 4 Valuing Young and High‐Growth Companies
+- 'Case study: Week 4 Valuing Young and High‐Growth Companies'
 linter-yaml-title-alias: Week 4 Valuing Young and High‐Growth Companies
 tags:
-  - accounting_shenanigans
-  - dcf_model
-  - executive_stock_compensation
-  - forecasting
-  - high_growth_companies
-  - market_multiples
-  - mean_reversion
-  - netflix_valuation
-  - valuation
-  - scenario_analysis
-aliases:
-  - Valuation of Growth Companies
-  - Valuing Young Firms
-  - High-Growth Valuation
-key_concepts:
-  - Accounting shenanigans
-  - Analysts use multiples
-  - Backward induction approach
-  - DCF model assumptions
-  - Executive stock compensation
-  - Forecasting issues
-  - High growth valuation challenges
-  - Market value implied rates
-  - Mean reversion competition
-  - Sales growth decline
-  - Scenario analysis
-  - Terminal value importance
+- gaap
+- regulatory
+- maturity
+- multiple
+- discount
+- options
+- bonds
+- regulation
+- capital-requirement
+- trading
+- execution
+- risk
+- leverage
+- pricing
+- accounting
+title: Week 4 Valuing Young and High‐Growth Companies
 ---
 
 # Week 4 Valuing Young and High‐Growth Companies

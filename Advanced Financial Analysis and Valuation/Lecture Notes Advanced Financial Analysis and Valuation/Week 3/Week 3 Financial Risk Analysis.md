@@ -1,32 +1,48 @@
 ---
-title: Week 3 Financial Risk Analysis
+aliases:
+- Financial Risk Analysis
+- Credit Risk Assessment
+- Week 3 Risk Analysis
 cssclasses:
-  - academia
+- academia
+key_concepts:
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Week 3 Financial Risk Analysis and financial analysis
+- Week 3 Financial Risk Analysis in modern finance
+- Applications of Week 3 Financial Risk Analysis
+- 'Case study: Week 3 Financial Risk Analysis'
 linter-yaml-title-alias: Week 3 Financial Risk Analysis
 tags:
-  - cash_flow_analysis
-  - financial_risk
-  - liquidity_ratios
-  - solvency_ratios
-  - credit_analysis
-  - bankruptcy_prediction
-  - covenant_analysis
-aliases:
-  - Financial Risk Analysis
-  - Credit Risk Assessment
-  - Week 3 Risk Analysis
-key_concepts:
-  - Bankruptcy prediction models
-  - Cash flow analysis
-  - Credit default swap spreads
-  - Financial risk analysis
-  - Forecast cash flows
-  - Liquidity and profitability ratios
-  - Lemons problem in lending
-  - Risk-incentive problems
-  - Loan covenants
-  - Altman Z-score
-  - Piotroski F-score
+- credit
+- forward
+- credit-risk
+- strategy
+- default
+- futures
+- discount
+- default-probability
+- cds
+- signal
+- liquidity
+- spread
+- leverage
+- algorithmic-trading
+- multiple
+title: Week 3 Financial Risk Analysis
 ---
 
 # Week 3 Financial Risk Analysis

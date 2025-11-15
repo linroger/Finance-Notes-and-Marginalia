@@ -1,28 +1,45 @@
 ---
-title: Credit Markets Session 3
-tags:
-  - cds_pricing
-  - credit_markets
-  - default_probabilities
-  - hazard_rate
-  - risk_neutral
-  - survival_probability
-  - bond_pricing
 aliases:
-  - CDS
-  - Credit Derivatives
-  - Hazard Rate Model
+- CDS
+- Credit Derivatives
+- Hazard Rate Model
 key_concepts:
-  - CDS cash flows
-  - Default probabilities
-  - Discount factor curve
-  - Forward interest rates
-  - Hazard rate model
-  - Recovery rate
-  - Risk neutral valuation
-  - Survival probability curves
-  - Bond pricing
-  - CDS duration
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Credit Markets Session 3 and financial analysis
+- Credit Markets Session 3 in modern finance
+- Applications of Credit Markets Session 3
+- 'Case study: Credit Markets Session 3'
+tags:
+- options
+- put
+- dv01
+- recovery
+- fixed-income
+- liquidity
+- maturity
+- credit-risk
+- default
+- bond
+- trading
+- spread
+- coupon
+- duration
+- bonds
+title: Credit Markets Session 3
 ---
 
 # Credit Markets Session 3

@@ -1,42 +1,47 @@
 ---
-title: Credit Markets Homework 2
-tags:
-  - bond_market_data
-  - cashflow_schedules
-  - credit_markets
-  - fixed_rate_bonds
-  - quantlib
-  - yield_curve_calibration
-  - credit_spreads
-  - risk_metrics
-  - z_spread
-  - duration_convexity
-  - treasury_bonds
-  - corporate_bonds
-  - discount_factors
 aliases:
-  - Credit Markets Homework 2
-  - Fixed Rate Bonds Homework
-  - Bond Cash Flow Analysis
+- Credit Markets Homework 2
+- Fixed Rate Bonds Homework
+- Bond Cash Flow Analysis
 cssclasses:
-  - homework
+- homework
 key_concepts:
-  - Bond cash flows
-  - Cashflow schedules
-  - Fixed rate bonds
-  - QuantLib date object
-  - Symbology data
-  - Yield curve calibration
-  - Duration and convexity calculation
-  - Discount factor curves
-  - Z-spread calculation
-  - Bond pricing using discount curves
-  - PiecewiseLogCubicDiscount curve
-  - Bootstrapping yield curves
-  - Analytical vs scenario-based risk metrics
-  - Treasury bond pricing
-  - Corporate bond pricing
-  - Bond risk measurement
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Credit Markets Homework 2_formatted and financial analysis
+- Credit Markets Homework 2_formatted in modern finance
+- Applications of Credit Markets Homework 2_formatted
+- 'Case study: Credit Markets Homework 2_formatted'
+tags:
+- maturity
+- options
+- bonds
+- put
+- convexity
+- dv01
+- yield
+- swaps
+- fixed-income
+- bond
+- liquidity
+- spread
+- treasury
+- corporate-bond
+- coupon
+title: Credit Markets Homework 2
 ---
 
 # Credit Markets Homework 2

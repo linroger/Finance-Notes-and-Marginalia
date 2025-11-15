@@ -1,30 +1,48 @@
 ---
-title: On the Convergence of Hull White Monte Carlo Simulations
-source: 
-  https://gouthamanbalaraman.com/blog/hull-white-simulation-monte-carlo-convergence.html
+aliases:
+- HW Model Convergence
+- Hull White Convergence
+- Monte Carlo Convergence
 description: Discusses the convergence of the Monte-Carlo simulations of the Hull-White
   model
-tags:
-  - brownian_bridge
-  - convergence
-  - discount_factor
-  - hull_white_model
-  - interest_rates
-  - monte_carlo_simulation
-  - quantlib
-  - short_rate_model
-  - simulation
-  - volatility
-aliases:
-  - HW Model Convergence
-  - Hull White Convergence
-  - Monte Carlo Convergence
 key_concepts:
-  - Convergence analysis
-  - Discount factor estimation
-  - Hull-White model
-  - Monte Carlo simulations
-  - Short rate model
+- Monte Carlo simulation methods
+- Stochastic processes in finance
+- Path-dependent derivatives pricing
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- On the Convergence of Hull White Monte Carlo Simulations and financial analysis
+- On the Convergence of Hull White Monte Carlo Simulations in modern finance
+- Applications of On the Convergence of Hull White Monte Carlo Simulations
+- 'Case study: On the Convergence of Hull White Monte Carlo Simulations'
+source: https://gouthamanbalaraman.com/blog/hull-white-simulation-monte-carlo-convergence.html
+tags:
+- forward
+- discount
+- options
+- futures
+- put
+- spot-rates
+- simulation
+- theta
+- var
+- monte-carlo
+- term-structure
+- discount-factors
+- ratio
+- volatility
+- risk-management
+title: On the Convergence of Hull White Monte Carlo Simulations
 ---
 
 # On the Convergence of Hull White Monte Carlo Simulations

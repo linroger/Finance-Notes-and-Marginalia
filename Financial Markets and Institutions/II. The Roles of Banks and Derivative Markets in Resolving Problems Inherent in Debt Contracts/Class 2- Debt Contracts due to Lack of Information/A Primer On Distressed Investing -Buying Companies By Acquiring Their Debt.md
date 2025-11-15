@@ -1,22 +1,117 @@
 ---
-title: A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt
-tags:
-  - capital_structure
-  - company_restructuring
-  - debt_acquisition
-  - distressed_investing
-  - institutional_investors
 aliases:
-  - Buying Distressed Debt
-  - Distressed Debt Investing
-  - Investing in Distressed Companies
+- Buying Distressed Debt
+- Distressed Debt Investing
+- Investing in Distressed Companies
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-1d63b9
 key_concepts:
-  - Acquiring company debt
-  - Debt capacity and risk
-  - Institutional investor battles
-  - Restructuring plan execution
-  - Warren Buffett distressed investing
+- 2008 financial crisis and systemic risk analysis
+- Acquiring company debt
+- American option pricing in binomial trees
+- Apt
+- Arbitrage pricing theory (APT)
+- Binomial option pricing model with multiple time steps
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- Capital Structure
+- Case Study
+- Collateralized Debt Obligations
+- Commodity markets and pricing dynamics
+- Computational implementation of binomial option pricing
+- Convergence of binomial model to Black-Scholes solution
+- Course Material
+- Cox-Ross-Rubinstein parameter specification
+- Credit default swap pricing and risk-neutral probabilities
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Credit spread decomposition and hazard rates
+- Cross-currency basis swaps and funding
+- Debt capacity and risk
+- Expected Shortfall (ES) and coherent risk measures
+- Expected Shortfall and coherent risk measures
+- Fixed-for-floating swap cash flows and valuation
+- GARCH models and volatility forecasting
+- Historical simulation vs. parametric VaR models
+- Institutional investor battles
+- Interest rate models and term structure
+- Interest rate swap pricing and valuation
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Mathematical Finance
+- Monte Carlo VaR for complex portfolios
+- Monte Carlo simulation for derivatives
+- Pairs trading and statistical arbitrage strategies
+- Portfolio optimization and mean-variance theory
+- Restructuring plan execution
+- Risk-neutral valuation and martingale measures
+- Single-name vs. index CDS trading
+- Stress testing and scenario analysis
+- Swap spread and credit risk considerations
+- VaR backtesting and model validation
+- Value at Risk (VaR) and risk metrics
+- Value at Risk (VaR) methodologies and backtesting
+- Variance swaps and volatility trading strategies
+- Vasicek and Cox-Ingersoll-Ross models
+- Warren Buffett distressed investing
+tags:
+- 2008-financial-crisis
+- algorithmic-trading
+- apt
+- arbitrage
+- binomial-model
+- black-scholes-model
+- capital-structure
+- capital_structure
+- case-study
+- collateralized-debt-obligations
+- commodities
+- company_restructuring
+- course-material
+- credit
+- credit-default-swaps
+- credit-derivatives
+- dcf-valuation
+- debt_acquisition
+- distressed-debt
+- distressed_investing
+- equity-derivatives
+- exchange-rates
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- garch-models
+- harvard-business-review
+- hedge-funds
+- hedging-strategies
+- institutional_investors
+- interest-rate-derivatives
+- interest-rate-swaps
+- ito-calculus
+- leveraged-buyouts
+- markets
+- mathematical-finance
+- momentum-strategies
+- monte-carlo-simulation
+- municipal-bonds
+- numerical-simulation
+- options
+- options-pricing
+- pairs-trading
+- private-equity
+- quantitative-implementation
+- quantitative-pricing
+- risk-management
+- solution
+- stochastic
+- treasury-bonds
+- value-at-risk
+title: A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt
 ---
+
 
 # A Primer On Distressed Investing -Buying Companies By Acquiring Their Debt
 

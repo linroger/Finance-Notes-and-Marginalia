@@ -1,24 +1,48 @@
 ---
-cssclasses: academia
 Owner: RRoger Lin
-linter-yaml-title-alias: Long-Term Capital Management,        L.P. (A)
-title: Note on Long-Term Capital Management,  L.P. HBP
-tags:
-  - interest_rate_swap
-  - long_term_capital_management
-  - ltcm
-  - risk_arbitrage
-  - yield_curve
 aliases:
-  - HBP Note
-  - LTCM
-  - Long-Term Capital Portfolio
+- HBP Note
+- LTCM
+- Long-Term Capital Portfolio
+cssclasses: academia
 key_concepts:
-  - Interest rate swap agreement
-  - Long-Term Capital Management
-  - Option premia collateral
-  - Risk arbitrage strategy
-  - Yield curve relative value
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Note on Long-Term Capital Management,  L.P. HBP and financial analysis
+- Note on Long-Term Capital Management,  L.P. HBP in modern finance
+- Applications of Note on Long-Term Capital Management,  L.P. HBP
+- 'Case study: Note on Long-Term Capital Management,  L.P. HBP'
+linter-yaml-title-alias: Long-Term Capital Management,        L.P. (A)
+tags:
+- roll
+- corporate-bond
+- irs
+- futures
+- fixed-income
+- basis
+- liquidity
+- maturity
+- forward
+- swaps
+- bond
+- trading
+- spread
+- duration
+- swap
+title: Note on Long-Term Capital Management,  L.P. HBP
 ---
 
 **Harvard Business School**

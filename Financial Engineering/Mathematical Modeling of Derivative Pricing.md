@@ -1,21 +1,58 @@
 ---
 tags:
-  - black_scholes_model
-  - derivative_pricing
-  - heston_model
-  - option_pricing
-  - stochastic_calculus
+- arbitrage
+- black-scholes-model
+- black_scholes_model
+- credit
+- credit-derivatives
+- derivative_pricing
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- girsanov-theorem
+- heston_model
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- martingale-theory
+- mathematics
+- option-greeks
+- option_pricing
+- options
+- options-pricing
+- pde-methods
+- quantitative-pricing
+- risk-management
+- stochastic
+- stochastic_calculus
 aliases:
-  - Black-Scholes
-  - Heston
-  - Option Pricing
+- Black-Scholes
+- Heston
+- Option Pricing
 key_concepts:
-  - Black-Scholes-Merton PDE
-  - Heston model introduction
-  - Option pricing formulas
-  - Stochastic calculus review
-  - Stochastic volatility modeling
+- Arbitrage pricing theory (APT)
+- Black-Scholes option pricing model
+- Black-Scholes-Merton PDE
+- Brownian motion and Wiener processes
+- Capital Asset Pricing Model (CAPM)
+- Complete markets and replication
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- GARCH models and volatility forecasting
+- Girsanov's theorem and measure changes
+- Heston model introduction
+- Implied volatility and volatility surface
+- Ito's Lemma and stochastic calculus
+- Numerical methods for PDEs
+- Option Greeks and sensitivity analysis
+- Option pricing formulas
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Stochastic calculus review
+- Stochastic volatility modeling
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # MATHEMATICAL MODELING OF DERIVATIVE PRICING  
 

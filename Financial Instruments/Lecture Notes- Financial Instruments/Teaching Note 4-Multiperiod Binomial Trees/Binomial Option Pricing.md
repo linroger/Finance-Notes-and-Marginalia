@@ -2,21 +2,49 @@
 linter-yaml-title-alias: Binomial Option Pricing
 title: Binomial Option Pricing
 tags:
-  - american_option
-  - binomial_model
-  - european_option
-  - option_pricing
-  - stock_option
+- american_option
+- arbitrage
+- binomial-model
+- binomial_model
+- black-scholes-model
+- equity-derivatives
+- european_option
+- fixed-income
+- fixed-income-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- monte-carlo-simulation
+- option-greeks
+- option_pricing
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- stock_option
 aliases:
-  - Binomial Pricing
-  - CRR model
+- Binomial Pricing
+- CRR model
 key_concepts:
-  - Binomial option pricing model
-  - European and American options
-  - Market maker synthetic options
-  - No-arbitrage option price
-  - Underlying asset price movement
+- Arbitrage pricing theory (APT)
+- Binomial option pricing model
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- Complete markets and replication
+- Delta hedging and Greeks calculation
+- European and American options
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Market maker synthetic options
+- Monte Carlo simulation for derivatives
+- No-arbitrage option price
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Underlying asset price movement
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 - **Binomial Trees]]**
 	- Financial Instruments/Lecture Notes- Financial Instruments/Teaching Note 4-Multiperiod Binomial Trees/Binomial Option Pricing]]

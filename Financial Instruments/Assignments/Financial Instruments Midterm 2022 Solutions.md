@@ -1,31 +1,59 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Financial Instruments Midterm 2022 Solutions
 tags:
-  - binomial_tree
-  - exchange_rate
-  - financial_instruments
-  - forward_contract
-  - swap_rate
-  - options_pricing
-  - risk_neutral_probability
-  - european_options
-  - hedging_strategies
-  - capital_protected_notes
-aliases: [FINANCIAL INSTRUMENTS MIDTERM SOLUTIONS]
+- arbitrage
+- binomial-model
+- binomial_tree
+- capital_protected_notes
+- credit
+- credit-derivatives
+- equity-derivatives
+- european_options
+- exchange_rate
+- financial_instruments
+- fixed-income
+- fixed-income-derivatives
+- forward_contract
+- fx-derivatives
+- hedging-strategies
+- hedging_strategies
+- interest-rate-derivatives
+- markets
+- option-greeks
+- options
+- options-pricing
+- options_pricing
+- quantitative-pricing
+- risk-management
+- risk_neutral_probability
+- swap_rate
+aliases:
+- FINANCIAL INSTRUMENTS MIDTERM SOLUTIONS
 key_concepts:
-  - Binomial tree option pricing
-  - Risk-neutral probability calculation
-  - Exchange rate forward contracts
-  - Interest rate parity
-  - Forward contract valuation
-  - Swap rate determination
-  - Delta hedging strategies
-  - Capital protected notes
-  - Option replication
-  - Lookback options
+- Binomial tree models for option pricing
+- Binomial tree option pricing
+- Capital protected notes
+- Complete markets and replication
+- Delta hedging and Greeks calculation
+- Delta hedging strategies
+- Exchange rate forward contracts
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Forward contract valuation
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Interest rate parity
+- Interest rate swaps and swap pricing
+- Lookback options
+- Option replication
+- Risk-neutral probability calculation
+- Risk-neutral valuation and martingale measures
+- Swap rate determination
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Financial Instruments Midterm 2022 Solutions
 

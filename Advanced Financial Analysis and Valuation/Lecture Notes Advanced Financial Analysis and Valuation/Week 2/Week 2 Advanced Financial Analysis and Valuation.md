@@ -1,26 +1,24 @@
 ---
+aliases:
+- Week 2 AFAV Notes
+- Retail Valuation Week
 cssclasses:
-  - academia
-title: Week 2 - Advanced Financial Analysis and Valuation
+- academia
+key_concepts:
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Week 2 Advanced Financial Analysis and Valuation and financial analysis
+- Week 2 Advanced Financial Analysis and Valuation in modern finance
+- Applications of Week 2 Advanced Financial Analysis and Valuation
+- 'Case study: Week 2 Advanced Financial Analysis and Valuation'
+- Financial markets and institutions
 linter-yaml-title-alias: Week 2 - Advanced Financial Analysis and Valuation
 tags:
-  - advanced_financial_analysis
-  - retail_analysis
-  - forecasting
-  - valuation
-  - week_2
-  - consumer_sector
-aliases:
-  - Week 2 AFAV Notes
-  - Retail Valuation Week
-key_concepts:
-  - Fundamentals of forecasting
-  - Retail industry analysis
-  - Consumer sector moats
-  - Dollar General case study
-  - Revenue forecasting methods
-  - Unit economics in retail
-  - Financial shenanigans
+- valuation
+- risk-management
+- var
+title: Week 2 - Advanced Financial Analysis and Valuation
 ---
 
 # Week 2 - Advanced Financial Analysis and Valuation

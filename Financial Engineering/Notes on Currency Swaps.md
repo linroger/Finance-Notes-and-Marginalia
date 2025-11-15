@@ -1,22 +1,46 @@
 ---
 tags:
-  - currency_swaps
-  - debt_markets
-  - financial_markets
-  - foreign_currency
-  - interest_rates
+- arbitrage
+- credit
+- credit-derivatives
+- currency_swaps
+- debt_markets
+- equity-derivatives
+- financial_markets
+- fixed-income
+- fixed-income-derivatives
+- foreign_currency
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- interest_rates
+- markets
+- options
+- options-pricing
+- risk-management
 aliases:
-  - Cross-Currency Swaps
-  - Currency Exchange
-  - FX Swaps
+- Cross-Currency Swaps
+- Currency Exchange
+- FX Swaps
 key_concepts:
-  - All-in financing cost
-  - Borrowing costs
-  - Currency swap diagram
-  - Debt service
-  - Exchange currency
-  - Interest and principal
+- All-in financing cost
+- Borrowing costs
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Currency swap diagram
+- Debt service
+- Delta hedging and Greeks calculation
+- Exchange currency
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Interest and principal
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Portfolio optimization and mean-variance theory
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 
 # Currency Swaps  
 

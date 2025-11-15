@@ -1,25 +1,23 @@
 ---
+aliases:
+- Week 3 AFAV Navigation
+- W3 Course Materials
 cssclasses:
-  - academia
-title: Week 3 - Advanced Financial Analysis and Valuation
+- academia
+key_concepts:
+- Week 3 Advanced Financial Analysis and Valuation and financial analysis
+- Week 3 Advanced Financial Analysis and Valuation in modern finance
+- Applications of Week 3 Advanced Financial Analysis and Valuation
+- 'Case study: Week 3 Advanced Financial Analysis and Valuation'
+- Financial markets and institutions
+- Risk management and analysis
+- Portfolio theory and optimization
+- Derivative securities and hedging
 linter-yaml-title-alias: Week 3 - Advanced Financial Analysis and Valuation
 tags:
-  - advanced_financial_analysis
-  - cyclical_industries
-  - financial_risk_analysis
-  - credit_risk
-  - industry_cycles
-  - week_3
-aliases:
-  - Week 3 AFAV Navigation
-  - W3 Course Materials
-key_concepts:
-  - Cyclical industry analysis
-  - Advanced forecasting methods
-  - Financial risk assessment
-  - Credit risk modeling
-  - Industry cycle impacts
-  - Dow Chemical case study
+- valuation
+- risk
+title: Week 3 - Advanced Financial Analysis and Valuation
 ---
 
 # Week 3 - Advanced Financial Analysis and Valuation

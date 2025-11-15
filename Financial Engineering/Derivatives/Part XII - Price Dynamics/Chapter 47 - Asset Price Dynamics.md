@@ -1,25 +1,49 @@
 ---
 tags:
-  - asset_price_dynamics
-  - black_scholes
-  - continuous_time
-  - geometric_brownian_motion
-  - ito_lemma
-  - sde
-  - stochastic_process
-  - wiener_process
+- arbitrage
+- asset_price_dynamics
+- binomial-model
+- black-scholes-model
+- black_scholes
+- continuous_time
+- equity-derivatives
+- geometric_brownian_motion
+- hedging-strategies
+- ito-calculus
+- ito_lemma
+- mathematics
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- sde
+- stochastic
+- stochastic_process
+- wiener_process
 aliases:
-  - Asset Price
-  - GBM
-  - Price Dynamics
+- Asset Price
+- GBM
+- Price Dynamics
 key_concepts:
-  - Black-Scholes formula
-  - Continuous time mathematics
-  - Geometric Brownian motion
-  - Ito's lemma
-  - Stochastic process
-  - Wiener process
+- Arbitrage pricing theory (APT)
+- Binomial tree models for option pricing
+- Black-Scholes formula
+- Black-Scholes option pricing model
+- Brownian motion and Wiener processes
+- Continuous time mathematics
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Geometric Brownian motion
+- Ito's Lemma and stochastic calculus
+- Ito's lemma
+- Numerical methods for PDEs
+- Portfolio optimization and mean-variance theory
+- Stochastic process
+- Value at Risk (VaR) and risk metrics
+- Wiener process
 ---
+
 # PRICE DYNAMICS  
 
 # Asset Price Dynamics  

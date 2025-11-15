@@ -1,21 +1,45 @@
 ---
-tags:
-  - hedge_funds
-  - market_risk
-  - merger_arbitrage
-  - stock_index_futures
-  - stock_picking
 aliases:
-  - MaxPill
-  - MoneyPlus
-  - SIF
-  - Stock picks
+- MaxPill
+- MoneyPlus
+- SIF
+- Stock picks
 key_concepts:
-  - effective beta
-  - hedge market risk
-  - merger arbitrage
-  - stock index futures
-  - underpriced stocks
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- 'Chapter 6 - Strategies: Stock Index Futures and financial analysis'
+- 'Chapter 6 - Strategies: Stock Index Futures in modern finance'
+- 'Applications of Chapter 6 - Strategies: Stock Index Futures'
+- 'Case study: Chapter 6 - Strategies: Stock Index Futures'
+tags:
+- merger
+- forward
+- alpha
+- futures
+- portfolio
+- hedging
+- roll
+- var
+- arbitrage
+- risk
+- portfolio-optimization
+- leverage
+- beta
+- risk-management
+- market-efficiency
 ---
 # Strategies: Stock Index Futures  
 

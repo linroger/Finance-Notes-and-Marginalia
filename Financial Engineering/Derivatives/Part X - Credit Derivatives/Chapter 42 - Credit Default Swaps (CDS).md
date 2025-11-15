@@ -1,21 +1,45 @@
 ---
-tags:
-  - cds_spread
-  - credit_default_swaps
-  - credit_derivatives
-  - credit_indices
-  - credit_risk
 aliases:
-  - CDS
-  - CDX
-  - Credit Default Swap
-  - iTraxx
+- CDS
+- CDX
+- Credit Default Swap
+- iTraxx
 key_concepts:
-  - CDS spread options
-  - credit default swaps (CDS)
-  - credit derivative operation
-  - credit indices analysis
-  - hedge credit risks
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Chapter 42 - Credit Default Swaps (CDS) and financial analysis
+- Chapter 42 - Credit Default Swaps (CDS) in modern finance
+- Applications of Chapter 42 - Credit Default Swaps (CDS)
+- 'Case study: Chapter 42 - Credit Default Swaps (CDS)'
+tags:
+- corporate-bond
+- market-maker
+- irs
+- swaption
+- recovery
+- fixed-income
+- liquidity
+- maturity
+- credit-risk
+- default
+- swaps
+- bond
+- trading
+- spread
+- coupon
 ---
 # CREDIT DERIVATIVES  
 

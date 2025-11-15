@@ -1,31 +1,48 @@
 ---
-cssclasses:
-  - academia
-title: Week 1 Introduction to Financial Analysis
-tags:
-  - accounting_analysis
-  - business_model
-  - dcf_model
-  - financial_analysis
-  - valuation
-  - corporate_finance
-  - financial_statements
 aliases:
-  - Financial Analysis Intro
-  - Financial Statement Analysis
-  - Introduction to Valuation
-  - Week 1
+- Financial Analysis Intro
+- Financial Statement Analysis
+- Introduction to Valuation
+- Week 1
+cssclasses:
+- academia
 key_concepts:
-  - Accounting shenanigans and their impact on financial analysis
-  - Business model analysis and its relationship to financial performance
-  - Discounted cash flow (DCF) methodology fundamentals
-  - Economic profit sustainability and competitive advantage
-  - Free cash flow computation and forecasting techniques
-  - Fundamental analysis frameworks and valuation approaches
-  - Moats (competitive advantages) and mean reversion patterns
-  - Operating vs financing activities separation in financial analysis
-  - ROE decomposition and financial ratio interpretation
-  - Value driver model for simplified financial forecasting
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Week 1 Introduction to Financial Analysis and financial analysis
+- Week 1 Introduction to Financial Analysis in modern finance
+- Applications of Week 1 Introduction to Financial Analysis
+- 'Case study: Week 1 Introduction to Financial Analysis'
+tags:
+- income statement
+- forward
+- strategy
+- discount
+- options
+- futures
+- dividend
+- financial-statement
+- var
+- basis
+- call
+- algorithmic-trading
+- multiple
+- accounting
+- risk-management
+title: Week 1 Introduction to Financial Analysis
 ---
 
 # Week 1 Introduction to Financial Analysis

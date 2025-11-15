@@ -1,29 +1,69 @@
 ---
 title: Dynamic Replication Methods and Synthetics Engineering
 tags:
-  - dynamic-replication
-  - synthetic-instruments
-  - financial-engineering
-  - delta-hedging
-  - options-replication
-  - static-replication
-  - black-scholes
-  - hedging-strategies
+- arbitrage
+- binomial-model
+- black-scholes
+- black-scholes-model
+- credit
+- credit-derivatives
+- delta-hedging
+- dynamic-replication
+- equity-derivatives
+- financial-engineering
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- martingale-theory
+- mathematics
+- monte-carlo-simulation
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- options-replication
+- quantitative-pricing
+- risk-management
+- static-replication
+- stochastic
+- synthetic-instruments
 aliases:
-  - Chapter 8 Dynamic Replication
-  - Synthetic Instruments Engineering
-  - Dynamic Hedging Methods
+- Chapter 8 Dynamic Replication
+- Synthetic Instruments Engineering
+- Dynamic Hedging Methods
 key_concepts:
-  - Dynamic vs static replication
-  - Delta hedging
-  - Synthetic positions
-  - Black-Scholes framework
-  - Continuous rebalancing
-  - Path dependency
-  - Transaction costs
-  - Volatility estimation
+- Arbitrage pricing theory (APT)
+- Binomial tree models for option pricing
+- Black-Scholes framework
+- Black-Scholes option pricing model
+- Capital Asset Pricing Model (CAPM)
+- Complete markets and replication
+- Continuous rebalancing
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Delta hedging
+- Delta hedging and Greeks calculation
+- Dynamic vs static replication
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Monte Carlo simulation for derivatives
+- Numerical methods for PDEs
+- Option Greeks and sensitivity analysis
+- Path dependency
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Synthetic positions
+- Transaction costs
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
+- Volatility estimation
 cssclasses: academia
 ---
+
 
 # DYNAMIC REPLICATION METHODS AND SYNTHETICS ENGINEERING
 

@@ -1,19 +1,43 @@
 ---
-tags:
-  - dissenting_shareholders
-  - fair_value
-  - kohler_co
-  - private_company
-  - valuation
 aliases:
-  - Kohler Case
-  - Kohler Valuation
+- Kohler Case
+- Kohler Valuation
 key_concepts:
-  - Dissenting shareholder valuation
-  - Fair market value definition
-  - Kohler Co. family business
-  - MBCA fair value
-  - Valuation date adjustment
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Week 7- Kohler Case Assignment Review and financial analysis
+- Week 7- Kohler Case Assignment Review in modern finance
+- Applications of Week 7- Kohler Case Assignment Review
+- 'Case study: Week 7- Kohler Case Assignment Review'
+tags:
+- income statement
+- discount
+- swaps
+- options
+- fair-value
+- put
+- futures
+- bankruptcy
+- basis
+- liquidity
+- risk
+- beta
+- accounting
+- irs
+- market-efficiency
 ---
 
 Thomas Rauter

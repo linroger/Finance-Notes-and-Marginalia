@@ -1,31 +1,45 @@
 ---
-title: BMW Valuation Report
-tags:
-  - automotive_industry
-  - automotive_segment
-  - bev_technology
-  - bmw_valuation
-  - brand_recognition
-  - competitive_advantage
-  - dcf_analysis
-  - financial_services
-  - free_cash_flow
-  - rd_expenditure
 aliases:
-  - BMW Analysis
-  - BMW Report
-  - BMW Valuation
+- BMW Analysis
+- BMW Report
+- BMW Valuation
 key_concepts:
-  - Automotive segment revenue
-  - BEV technology advancement
-  - Brand recognition advantage
-  - Financial services segment
-  - Healthy free cash flow
-  - Motorcycles segment growth
-  - Profit growth tailwind
-  - R&D and technical innovation
-  - Record sales achieved
-  - Target price calculation
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- BMW Valuation Report and financial analysis
+- BMW Valuation Report in modern finance
+- Applications of BMW Valuation Report
+- 'Case study: BMW Valuation Report'
+tags:
+- credit
+- strategy
+- options
+- futures
+- swaps
+- dividend
+- portfolio
+- roll
+- var
+- call
+- risk
+- algorithmic-trading
+- multiple
+- irs
+- risk-management
+title: BMW Valuation Report
 ---
 
 **Executive Summary**

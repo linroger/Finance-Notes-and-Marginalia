@@ -1,20 +1,39 @@
 ---
 tags:
-  - commodity_swap
-  - forward_contract
-  - hedging
-  - oil_swap
-  - swap
+- commodity_swap
+- credit
+- credit-derivatives
+- fixed-income
+- fixed-income-derivatives
+- forward_contract
+- fx-derivatives
+- hedging
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- oil_swap
+- options
+- options-pricing
+- risk-management
+- swap
 aliases:
-  - Commodity Swap Example
-  - Swap Contract
+- Commodity Swap Example
+- Swap Contract
 key_concepts:
-  - Borrowing and lending
-  - Exchange of payments
-  - Forward contract pricing
-  - Hedging risky payments
-  - Lock in fixed price
+- Borrowing and lending
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Exchange of payments
+- Expected Shortfall (ES) and coherent risk measures
+- Forward contract pricing
+- Heath-Jarrow-Morton (HJM) framework
+- Hedging risky payments
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Lock in fixed price
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 **Teaching Note 3 SwapsFinancial Instruments**
 	- Forward Rates Agreement

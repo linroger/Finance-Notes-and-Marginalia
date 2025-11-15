@@ -1,21 +1,53 @@
 ---
 tags:
-  - goldman_sachs
-  - hedging_strategies
-  - option_replication
-  - options_pricing
-  - quantitative_finance
+- binomial-model
+- black-scholes-model
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- goldman_sachs
+- hedging-strategies
+- hedging_strategies
+- interest-rate-derivatives
+- markets
+- mathematics
+- optimization
+- option-greeks
+- option_replication
+- options
+- options-pricing
+- options_pricing
+- quantitative-pricing
+- quantitative_finance
+- risk-management
+- stochastic
 aliases:
-  - Derman, Ergener, Kani
-  - Option Replication
-  - Static Replication
+- Derman, Ergener, Kani
+- Option Replication
+- Static Replication
 key_concepts:
-  - Fixed portfolio weights
-  - Option hedging method
-  - Option pricing models
-  - Replicating option portfolio
-  - Standard option portfolio
+- Barrier options and knock-in/knock-out features
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- Brownian motion and Wiener processes
+- Complete markets and replication
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Fixed portfolio weights
+- Interest rate models and term structure
+- Numerical methods for PDEs
+- Option hedging method
+- Option pricing models
+- Portfolio optimization and mean-variance theory
+- Replicating option portfolio
+- Risk-neutral valuation and martingale measures
+- Standard option portfolio
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 
 # Quantitative Strategies Research Notes  
 

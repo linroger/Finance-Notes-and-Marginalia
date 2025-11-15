@@ -1,28 +1,42 @@
 ---
-title: Price-to-Sales Ratios in Stock Valuation
-tags:
-  - financial_ratios
-  - growth_stocks
-  - price_sales_ratio
-  - ps_ratio
-  - stock_valuation
-  - valuation_metrics
-  - corporate_finance
 aliases:
-  - P/S
-  - P/S Ratio
-  - Price/Sales
+- P/S
+- P/S Ratio
+- Price/Sales
 cssclasses:
-  - academia
+- academia
 key_concepts:
-  - Company revenue assessment
-  - Low P/S indicating potential undervaluation
-  - Market capitalization relationship to sales
-  - Stock valuation for unprofitable or growth companies
-  - Industry-specific comparative analysis
-  - Debt consideration in P/S interpretation
-  - Enterprise value/sales alternative metric
-  - Profit margin correlation with sales metrics
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Price-to-Sales Ratios in Stock Valuation and financial analysis
+- Price-to-Sales Ratios in Stock Valuation in modern finance
+- Applications of Price-to-Sales Ratios in Stock Valuation
+- 'Case study: Price-to-Sales Ratios in Stock Valuation'
+tags:
+- discount
+- bonds
+- futures
+- dividend
+- recovery
+- yield
+- ratio
+- bankruptcy
+- cds
+- basis
+- balance sheet
+- multiple
+- valuation
+title: Price-to-Sales Ratios in Stock Valuation
 ---
 
 # Price-to-Sales Ratios in Stock Valuation

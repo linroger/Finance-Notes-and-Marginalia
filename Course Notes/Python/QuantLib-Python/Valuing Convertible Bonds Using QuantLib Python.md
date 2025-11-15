@@ -1,26 +1,50 @@
 ---
-category: 'Clippings'
-author:
-title: Valuing Convertible Bonds Using QuantLib Python
-source: http://gouthamanbalaraman.com/blog/value-convertible-bond-quantlib-python.html
-clipped: 2024-10-25
-published:
-topics:
-tags:
-  - black_scholes
-  - bond_valuation
-  - convertible_bonds
-  - pricing_engine
-  - quantlib_python
 aliases:
-  - Convertible Bond Valuation
-  - QuantLib Example
+- Convertible Bond Valuation
+- QuantLib Example
+author: null
+category: Clippings
+clipped: 2024-10-25
 key_concepts:
-  - Black-Scholes-Merton process
-  - Call and put schedule
-  - QuantLib Python implementation
-  - Redemption amount scaling
-  - Valuing convertible bonds
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Black-Scholes-Merton option pricing model
+- Greeks calculation and interpretation
+- Volatility surface and smile
+- Valuing Convertible Bonds Using QuantLib Python and financial analysis
+- Valuing Convertible Bonds Using QuantLib Python in modern finance
+- Applications of Valuing Convertible Bonds Using QuantLib Python
+- 'Case study: Valuing Convertible Bonds Using QuantLib Python'
+published: null
+source: http://gouthamanbalaraman.com/blog/value-convertible-bond-quantlib-python.html
+tags:
+- maturity
+- bsm
+- options
+- bonds
+- put
+- dividend
+- yield
+- fixed-income
+- bond
+- black-scholes
+- liquidity
+- spread
+- call
+- coupon
+- volatility
+title: Valuing Convertible Bonds Using QuantLib Python
+topics: null
 ---
 
 # Valuing Convertible Bonds Using QuantLib Python

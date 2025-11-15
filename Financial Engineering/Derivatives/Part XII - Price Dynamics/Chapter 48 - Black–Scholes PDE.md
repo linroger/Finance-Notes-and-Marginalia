@@ -1,21 +1,58 @@
 ---
 tags:
-  - black_scholes
-  - derivative_pricing
-  - european_option
-  - pde
-  - risk_neutral
+- arbitrage
+- black-scholes-model
+- black_scholes
+- derivative_pricing
+- equity-derivatives
+- european_option
+- fixed-income
+- fixed-income-derivatives
+- girsanov-theorem
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- mathematics
+- monte-carlo-simulation
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- pde
+- pde-methods
+- quantitative-pricing
+- risk-management
+- risk_neutral
+- stochastic
 aliases:
-  - BS PDE
-  - Black-Scholes PDE
-  - Option Pricing
+- BS PDE
+- Black-Scholes PDE
+- Option Pricing
 key_concepts:
-  - Black-Scholes closed-form solutions
-  - Deterministic partial differential equation
-  - European option pricing
-  - No-arbitrage replication portfolio
-  - Risk-neutral valuation
+- Arbitrage pricing theory (APT)
+- Asian options and average price derivatives
+- Barrier options and knock-in/knock-out features
+- Black-Scholes closed-form solutions
+- Black-Scholes option pricing model
+- Brownian motion and Wiener processes
+- Complete markets and replication
+- Delta hedging and Greeks calculation
+- Deterministic partial differential equation
+- European option pricing
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Girsanov's theorem and measure changes
+- Interest rate models and term structure
+- Ito's Lemma and stochastic calculus
+- Monte Carlo simulation for derivatives
+- No-arbitrage replication portfolio
+- Numerical methods for PDEs
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation
+- Risk-neutral valuation and martingale measures
+- Value at Risk (VaR) and risk metrics
 ---
+
 # Black–Scholes PDE  
 
 # Aims  

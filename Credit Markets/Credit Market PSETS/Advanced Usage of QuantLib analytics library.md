@@ -1,34 +1,47 @@
 ---
-title: Advanced Usage of QuantLib analytics library
-tags:
-  - bond_pricing
-  - cds
-  - credit_risk
-  - curve_calibration
-  - hazard_rate
-  - interest_rates
-  - nelson_siegel
-  - quantlib
-  - risk_management
-  - sofr
 aliases:
-  - Credit Default Swaps
-  - Nelson-Siegel Model
-  - QuantLib Advanced
-  - Risky Bond Pricing
-  - SOFR Swaps
+- Credit Default Swaps
+- Nelson-Siegel Model
+- QuantLib Advanced
+- Risky Bond Pricing
+- SOFR Swaps
 key_concepts:
-  - CDS hazard rate
-  - Corporate bond pricing
-  - Credit curve
-  - Credit default risk
-  - Discount curve
-  - Hazard rate curves
-  - Nelson-Siegel model
-  - Risky bond pricing
-  - SOFR curve calibration
-  - SOFR swaps
-  - Survival probability
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Advanced Usage of QuantLib analytics library and financial analysis
+- Advanced Usage of QuantLib analytics library in modern finance
+- Applications of Advanced Usage of QuantLib analytics library
+- 'Case study: Advanced Usage of QuantLib analytics library'
+tags:
+- yield-curve
+- corporate-bond
+- recovery
+- fixed-income
+- liquidity
+- interest-rate
+- maturity
+- libor
+- credit-risk
+- default
+- bond
+- spread
+- coupon
+- bonds
+- yield
+title: Advanced Usage of QuantLib analytics library
 ---
 
 # Advanced Usage of QuantLib analytics library

@@ -1,21 +1,45 @@
 ---
-tags:
-  - american_options
-  - futures_contract
-  - futures_options
-  - market_conventions
-  - option_pricing
 aliases:
-  - Eurodollar futures
-  - Futures Option
-  - Options on Futures
-  - T-bond futures
+- Eurodollar futures
+- Futures Option
+- Options on Futures
+- T-bond futures
 key_concepts:
-  - European call/put bounds
-  - Futures option underlying futures
-  - Options on spot assets
-  - Payoffs and trading strategies
-  - Price quotes and delivery
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Chapter 20 - Options on Futures and financial analysis
+- Chapter 20 - Options on Futures in modern finance
+- Applications of Chapter 20 - Options on Futures
+- 'Case study: Chapter 20 - Options on Futures'
+tags:
+- maturity
+- options
+- futures
+- put
+- bonds
+- strike
+- bond
+- fixed-income
+- expiry
+- liquidity
+- call
+- delta
+- spread
+- trading
+- pricing
 ---
 # Options on Futures  
 

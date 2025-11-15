@@ -1,21 +1,51 @@
 ---
 tags:
-  - credit_default_swaps
-  - credit_risk
-  - derivative_contract
-  - market_standard
-  - valuation_model
+- arbitrage
+- binomial-model
+- credit
+- credit-derivatives
+- credit_default_swaps
+- credit_risk
+- derivative_contract
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- interest-rate-derivatives
+- market_standard
+- markets
+- model-calibration
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- valuation_model
 aliases:
-  - CDS Valuation
-  - Credit Derivatives
-  - O'Kane & Turnbull
+- CDS Valuation
+- Credit Derivatives
+- O'Kane & Turnbull
 key_concepts:
-  - Credit default swap
-  - Credit event
-  - Market standard model
-  - Protection buyer/seller
-  - Trading credit risk
+- Arbitrage pricing theory (APT)
+- Asian options and average price derivatives
+- Binomial tree models for option pricing
+- Credit default swap
+- Credit default swaps (CDS) pricing
+- Credit event
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Market standard model
+- Model calibration and parameter estimation
+- Option Greeks and sensitivity analysis
+- Protection buyer/seller
+- Trading credit risk
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Valuation of Credit Default Swaps
 

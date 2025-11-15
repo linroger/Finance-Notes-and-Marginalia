@@ -1,20 +1,37 @@
 ---
 tags:
-  - arbitrage_free_pricing
-  - forward_contract
-  - geometric_brownian_motion
-  - ito_lemma
-  - stochastic_process
+- arbitrage
+- arbitrage_free_pricing
+- equity-derivatives
+- fixed-income
+- forward_contract
+- geometric_brownian_motion
+- interest-rate-derivatives
+- ito-calculus
+- ito_lemma
+- option-greeks
+- options
+- options-pricing
+- risk-management
+- stochastic
+- stochastic_process
 aliases:
-  - Forward Price Dynamics
-  - Ito's Lemma
+- Forward Price Dynamics
+- Ito's Lemma
 key_concepts:
-  - Arbitrage-free price
-  - Drift rate comparison
-  - Forward contract price
-  - Geometric Brownian Motion (GBM)
-  - Ito's Lemma expansion
+- Arbitrage pricing theory (APT)
+- Arbitrage-free price
+- Brownian motion and Wiener processes
+- Delta hedging and Greeks calculation
+- Drift rate comparison
+- Expected Shortfall (ES) and coherent risk measures
+- Forward contract price
+- Geometric Brownian Motion (GBM)
+- Ito's Lemma and stochastic calculus
+- Ito's Lemma expansion
+- Option Greeks and sensitivity analysis
 ---
+
 
 # Determining the Stochastic Process for a Forward Contract from Ito’s Lemma 
 

@@ -1,21 +1,32 @@
 ---
 tags:
-  - gauss_jordan
-  - inverse_matrices
-  - linear_systems
-  - matrix_algebra
-  - nonsingular_matrix
+- gauss_jordan
+- inverse_matrices
+- linear_systems
+- mathematics
+- matrix_algebra
+- nonsingular_matrix
+- option-greeks
+- options
+- risk-management
+- stochastic
 aliases:
-  - Linear Systems Solutions
-  - Matrix Inverses
-  - Solving Equations
+- Linear Systems Solutions
+- Matrix Inverses
+- Solving Equations
 key_concepts:
-  - Gauss-Jordan method inverse
-  - Inverse matrix definition
-  - Linear equation solution
-  - Matrix equation representation
-  - Nonsingular matrix property
+- Arbitrage pricing theory (APT)
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Gauss-Jordan method inverse
+- Inverse matrix definition
+- Ito's Lemma and stochastic calculus
+- Linear equation solution
+- Matrix equation representation
+- Nonsingular matrix property
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Chapter 1 Additional Readings  
 

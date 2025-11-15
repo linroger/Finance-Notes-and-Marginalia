@@ -1,25 +1,48 @@
 ---
-title: An Introduction to Interest Rate Term Structure in QuantLib Python
-source: 
-  https://gouthamanbalaraman.com/blog/quantlib-term-structure-bootstrap-yield-curve.html
+aliases:
+- Interest Rate Term Structure
+- QuantLib Python
+- Yield Curve Bootstrapping
 description: This post will walk through the basics of bootstrapping yield curve in
   QuantLib Python.
-tags:
-  - bond_pricing
-  - bootstrapping
-  - interest_rate_term_structure
-  - quantlib_python
-  - yield_curve
-aliases:
-  - Interest Rate Term Structure
-  - QuantLib Python
-  - Yield Curve Bootstrapping
 key_concepts:
-  - Bootstrapping yield curve
-  - Coupon bonds
-  - Pricing securities
-  - QuantLib Python basics
-  - Spot rates
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- An Introduction to Interest Rate Term Structure in QuantLib Python and financial
+  analysis
+- An Introduction to Interest Rate Term Structure in QuantLib Python in modern finance
+- Applications of An Introduction to Interest Rate Term Structure in QuantLib Python
+- 'Case study: An Introduction to Interest Rate Term Structure in QuantLib Python'
+source: https://gouthamanbalaraman.com/blog/quantlib-term-structure-bootstrap-yield-curve.html
+tags:
+- maturity
+- options
+- bonds
+- put
+- yield
+- spot-rates
+- yield-curve
+- fixed-income
+- bond
+- term-structure
+- interest-rate
+- interest-rates
+- pricing
+- coupon
+title: An Introduction to Interest Rate Term Structure in QuantLib Python
 ---
 
 # An Introduction to Interest Rate Term Structure in QuantLib Python

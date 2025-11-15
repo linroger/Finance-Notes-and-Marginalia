@@ -1,20 +1,47 @@
 ---
 tags:
-  - arbitrage_pricing
-  - fixed_income
-  - interest_rates
-  - mathematical_finance
-  - risk_neutral
+- arbitrage
+- arbitrage_pricing
+- fixed-income
+- fixed-income-derivatives
+- fixed_income
+- fx-derivatives
+- interest-rate-derivatives
+- interest_rates
+- markets
+- martingale-theory
+- mathematical_finance
+- mathematics
+- optimization
+- option-greeks
+- options
+- options-pricing
+- risk-management
+- risk_neutral
+- stochastic
 aliases:
-  - Fixed Income Math
-  - Fixed Income Pricing
+- Fixed Income Math
+- Fixed Income Pricing
 key_concepts:
-  - arbitrage pricing theory
-  - discount bond maturity
-  - fixed income pricing
-  - risk neutral valuation
-  - stochastic variables calculus
+- Arbitrage pricing theory (APT)
+- Brownian motion and Wiener processes
+- Complete markets and replication
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Filtrations and adapted processes
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Ito's Lemma and stochastic calculus
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Value at Risk (VaR) and risk metrics
+- arbitrage pricing theory
+- discount bond maturity
+- fixed income pricing
+- risk neutral valuation
+- stochastic variables calculus
 ---
+
 
 # Introduction to the Mathematics of Fixed Income Pricing  
   

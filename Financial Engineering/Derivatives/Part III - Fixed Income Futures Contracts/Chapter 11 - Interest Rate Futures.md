@@ -1,22 +1,45 @@
 ---
-tags:
-  - eurodollar_futures
-  - futures_contracts
-  - hedging
-  - interest_rate_futures
-  - libor
-  - t_bill_futures
 aliases:
-  - 3-month Eurodollar
-  - 3-month Sterling
-  - IRF
-  - US T-bills
+- 3-month Eurodollar
+- 3-month Sterling
+- IRF
+- US T-bills
 key_concepts:
-  - arbitrage strategies
-  - contract specifications
-  - implied repo rate
-  - price quotes
-  - settlement procedures
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Chapter 11 - Interest Rate Futures and financial analysis
+- Chapter 11 - Interest Rate Futures in modern finance
+- Applications of Chapter 11 - Interest Rate Futures
+- 'Case study: Chapter 11 - Interest Rate Futures'
+tags:
+- maturity
+- libor
+- forward
+- futures
+- bonds
+- yield
+- spot-rates
+- yield-curve
+- roll
+- basis
+- hedging
+- no-arbitrage
+- term-structure
+- interest-rate
+- interest-rates
 ---
 # FIXED INCOME FUTURES CONTRACTS  
 

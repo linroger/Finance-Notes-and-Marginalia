@@ -1,30 +1,46 @@
 ---
-title: Risk Neutral Valuation Framework for Credit Default Swaps
-tags:
-  - cds_valuation
-  - credit_default_swaps
-  - credit_risk
-  - hazard_rates
-  - risk_neutral_valuation
-  - credit_markets
-  - survival_probability
-  - credit_derivatives
 aliases:
-  - CDS
-  - Credit Derivatives
-  - Risk Neutrality
-  - Hazard Rate Model
+- CDS
+- Credit Derivatives
+- Risk Neutrality
+- Hazard Rate Model
 key_concepts:
-  - CDS cash flows
-  - CDS duration
-  - Deterministic interest rates
-  - Hazard rates
-  - Risk neutral valuation
-  - CDS pricing formulas
-  - Default probabilities
-  - Recovery rates
-  - Default leg valuation
-  - Premium leg valuation
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS (1) and financial analysis
+- RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS (1) in modern finance
+- Applications of RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS (1)
+- 'Case study: RISK NEUTRAL VALUATION FRAMEWORK FOR CREDIT DEFAULT SWAPS (1)'
+tags:
+- irs
+- swaption
+- recovery
+- liquidity
+- interest-rate
+- maturity
+- credit-risk
+- default
+- swaps
+- bond
+- trading
+- spread
+- coupon
+- duration
+- swap
+title: Risk Neutral Valuation Framework for Credit Default Swaps
 ---
 
 # Risk Neutral Valuation Framework for Credit Default Swaps

@@ -1,38 +1,48 @@
 ---
-title: Introduction to Corporate Finance
-cssclasses:
-  - academia
-tags:
-  - capital_markets
-  - cfo
-  - corporate_finance
-  - project_valuation
-  - shareholder_wealth
-  - financial_management
-  - valuation_methods
-  - capital_budgeting
-  - capital_structure
-  - financial_decisions
 aliases:
-  - Corporate Finance Intro
-  - Finance Introduction
-  - CFO Decision Making
-  - Financial Decisions Framework
+- Corporate Finance Intro
+- Finance Introduction
+- CFO Decision Making
+- Financial Decisions Framework
+cssclasses:
+- academia
 key_concepts:
-  - capital structure optimization
-  - financial decision-making
-  - maximize shareholder wealth
-  - project valuation techniques
-  - cost of capital calculation
-  - discounted cash flow analysis
-  - risk and return tradeoff
-  - corporate governance principles
-  - shareholder value creation
-  - financial forecasting
-  - investment evaluation metrics
-  - net present value (NPV)
-  - internal rate of return (IRR)
-  - perfect capital markets
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Introduction to Corporate Finance and financial analysis
+- Introduction to Corporate Finance in modern finance
+- Applications of Introduction to Corporate Finance
+- 'Case study: Introduction to Corporate Finance'
+tags:
+- options
+- var
+- corporate-bond
+- hedge-ratio
+- put
+- efficient-frontier
+- portfolio
+- fixed-income
+- gamma
+- portfolio-optimization
+- maturity
+- bond
+- coupon
+- risk-management
+- duration
+title: Introduction to Corporate Finance
 ---
 
 # Introduction to Corporate Finance

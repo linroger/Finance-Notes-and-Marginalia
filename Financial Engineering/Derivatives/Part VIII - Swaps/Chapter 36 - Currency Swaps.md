@@ -1,20 +1,44 @@
 ---
-tags:
-  - currency_swaps
-  - foreign_exchange
-  - fxed_fxed
-  - interest_rates
-  - usd_euro
 aliases:
-  - Currency Swap
-  - Fixed-Fixed Currency Swap
-  - USD-Euro Swap
+- Currency Swap
+- Fixed-Fixed Currency Swap
+- USD-Euro Swap
 key_concepts:
-  - Euro liability
-  - USD loan
-  - fixed interest rate
-  - foreign exchange exposure
-  - plain vanilla currency swap
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Chapter 36 - Currency Swaps and financial analysis
+- Chapter 36 - Currency Swaps in modern finance
+- Applications of Chapter 36 - Currency Swaps
+- 'Case study: Chapter 36 - Currency Swaps'
+tags:
+- libor
+- maturity
+- swap
+- currency-swap
+- forward
+- swaps
+- bonds
+- futures
+- yield
+- yield-curve
+- var
+- bond
+- basis
+- interest-rate
+- interest-rates
 ---
 # Currency Swaps  
 

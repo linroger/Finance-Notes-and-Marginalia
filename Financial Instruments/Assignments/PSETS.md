@@ -1,33 +1,46 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Problem Set 1 - Fixed Income Asset Pricing
 tags:
-  - asset_pricing
-  - bond_equivalent_yield
-  - fixed_income
-  - interest_rates
-  - t_bill_rate
-  - treasury_strips
-  - forecasting
+- asset_pricing
+- bond_equivalent_yield
+- fixed-income
+- fixed-income-derivatives
+- fixed_income
+- forecasting
+- interest-rate-derivatives
+- interest_rates
+- markets
+- options
+- options-pricing
+- risk-management
+- t_bill_rate
+- treasury_strips
 aliases:
-  - 3-month T-bill rate
-  - BEY
-  - Homework 1
-  - PSET 1
-  - Fixed Income Problem Set
+- 3-month T-bill rate
+- BEY
+- Homework 1
+- PSET 1
+- Fixed Income Problem Set
 key_concepts:
-  - Bond equivalent yield
-  - Fixed income asset pricing
-  - Historical interest rate data
-  - Mean reversion of rates
-  - Short term interest rates
-  - AR(1) process modeling
-  - Interest rate forecasting
-  - Forward rate calculation
-  - Yield curve construction
-  - Treasury strip pricing
+- AR(1) process modeling
+- Bond equivalent yield
+- Capital Asset Pricing Model (CAPM)
+- Expected Shortfall (ES) and coherent risk measures
+- Fixed income asset pricing
+- Forward rate calculation
+- Heath-Jarrow-Morton (HJM) framework
+- Historical interest rate data
+- Interest rate forecasting
+- Interest rate models and term structure
+- Mean reversion of rates
+- Short term interest rates
+- Treasury strip pricing
+- Value at Risk (VaR) and risk metrics
+- Yield curve construction
 ---
+
 
 # Problem Set 1 - Fixed Income Asset Pricing
 

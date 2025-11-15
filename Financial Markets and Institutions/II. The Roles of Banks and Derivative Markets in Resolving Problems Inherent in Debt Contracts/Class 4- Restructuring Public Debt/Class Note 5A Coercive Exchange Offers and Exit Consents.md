@@ -1,31 +1,74 @@
 ---
-cssclasses:
-  - academia
-title: "Class Note 5A: Coercive Exchange Offers and Exit Consents"
-tags:
-  - bondholders
-  - coercive_exchange_offers
-  - covenant_changes
-  - exit_consents
-  - trust_indenture_act
-  - debt_restructuring
-  - consent_payments
-  - seniority
 aliases:
-  - Coercive and Exit Consents
-  - Consent Payment
-  - Exit Consent Vote
-  - Class Note 5A
+- Coercive and Exit Consents
+- Consent Payment
+- Exit Consent Vote
+- Class Note 5A
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-a38436
 key_concepts:
-  - Change in covenants
-  - Coercive exchange offers
-  - Consent payment
-  - Exit consent vote
-  - New bond exchange
-  - Trust Indenture Act implications
-  - Seniority changes
-  - Collective action problems
+- Capital markets and securities trading
+- Case Study
+- Change in covenants
+- Coercive exchange offers
+- Collective action problems
+- Consent payment
+- Corporate finance and business valuation
+- Course Material
+- Credit analysis and default forecasting
+- Delta hedging and Greeks calculation
+- Distressed Debt
+- Exit consent vote
+- Expected Shortfall (ES) and coherent risk measures
+- Financial instruments and their characteristics
+- Financial markets and institutional structures
+- Hedging strategies and risk mitigation
+- Investment analysis and due diligence processes
+- Liquidity provision and market making
+- Macroeconomic factors and market correlations
+- Market dynamics and price discovery mechanisms
+- New bond exchange
+- Portfolio optimization and mean-variance theory
+- Quantitative Implementation
+- Quantitative analysis and mathematical modeling
+- Regulatory frameworks and compliance requirements
+- Risk management and portfolio optimization
+- Seniority changes
+- Solution
+- Systemic risk and financial stability
+- Trust Indenture Act implications
+- Valuation methodologies and price multiples
+tags:
+- bondholders
+- case-study
+- coercive_exchange_offers
+- consent_payments
+- course-material
+- covenant_changes
+- credit
+- credit-derivatives
+- debt_restructuring
+- distressed-debt
+- exit_consents
+- fixed-income
+- fixed-income-derivatives
+- interest-rate-derivatives
+- mathematics
+- microeconomics
+- optimization
+- options
+- options-pricing
+- quantitative-implementation
+- risk-management
+- seniority
+- solution
+- trust_indenture_act
+title: 'Class Note 5A: Coercive Exchange Offers and Exit Consents'
 ---
+
 
 # Class Note 5A: Coercive Exchange Offers and Exit Consents
 

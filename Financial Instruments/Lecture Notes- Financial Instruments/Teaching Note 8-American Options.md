@@ -1,22 +1,50 @@
 ---
 title: Teaching Note 8-American Options
 tags:
-  - american_options
-  - binomial_trees
-  - early_exercise
-  - no_arbitrage
-  - option_pricing
+- american_options
+- arbitrage
+- binomial-model
+- binomial_trees
+- early_exercise
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- interest-rate-derivatives
+- markets
+- monte-carlo-simulation
+- no_arbitrage
+- numerical-simulation
+- option-greeks
+- option_pricing
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- stochastic
 aliases:
-  - American Option
-  - Binomial Model
-  - Option Valuation
+- American Option
+- Binomial Model
+- Option Valuation
 key_concepts:
-  - American option features
-  - Binomial tree method
-  - Dynamic replication strategy
-  - Early exercise decision
-  - No arbitrage bounds
+- American option features
+- Arbitrage pricing theory (APT)
+- Binomial tree method
+- Binomial tree models for option pricing
+- Complete markets and replication
+- Delta hedging and Greeks calculation
+- Dynamic replication strategy
+- Early exercise decision
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Monte Carlo simulation for derivatives
+- No arbitrage bounds
+- Portfolio optimization and mean-variance theory
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Teaching Note 8-American Options
 

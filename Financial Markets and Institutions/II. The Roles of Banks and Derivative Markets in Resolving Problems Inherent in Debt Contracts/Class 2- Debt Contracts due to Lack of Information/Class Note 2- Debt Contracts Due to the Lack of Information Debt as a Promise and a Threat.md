@@ -1,34 +1,99 @@
 ---
-cssclasses:
-  - academia
-title: "Class Note 2: Debt Contracts Due to the Lack of Information - Debt as a Promise and a Threat"
-tags:
-  - borrower_lender
-  - debt_contracts
-  - information_asymmetry
-  - liquidation
-  - monitoring_costs
-  - renegotiation
-  - bankruptcy
-  - covenant_enforcement
 aliases:
-  - Borrower's Dilemma
-  - Debt as Promise
-  - Debt as Threat
-  - Non-Monitored Debt
-  - Information Problems in Debt
+- Borrower's Dilemma
+- Debt as Promise
+- Debt as Threat
+- Non-Monitored Debt
+- Information Problems in Debt
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-33882d
 key_concepts:
-  - Borrower's profitable project
-  - Borrower's underreported cash
-  - Debt in corporate control
-  - Lender's monitoring cost
-  - Lenders write a contract
-  - Optimal liquidation policy
-  - Face value determination
-  - Monitoring and renegotiation value
-  - Bankruptcy as penalty
-  - Financial contract optimization
+- Bankruptcy as penalty
+- Borrower's profitable project
+- Borrower's underreported cash
+- Case Study
+- Collateralized Debt Obligations
+- Common pitfalls in DCF valuation
+- Corporate Bonds
+- Course Material
+- Credit risk and default probability
+- Cross-currency basis swaps and funding
+- Debt in corporate control
+- Discounted Cash Flow valuation methodology
+- Distressed Debt
+- Expected Shortfall (ES) and coherent risk measures
+- Expected Shortfall and coherent risk measures
+- Face value determination
+- Financial contract optimization
+- Fixed-for-floating swap cash flows and valuation
+- Free cash flow to equity and firm valuation
+- Historical simulation vs. parametric VaR models
+- Interest rate models and term structure
+- Interest rate swap pricing and valuation
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Lender's monitoring cost
+- Lenders write a contract
+- Monitoring and renegotiation value
+- Monte Carlo VaR for complex portfolios
+- Monte Carlo simulation for derivatives
+- Optimal liquidation policy
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Quantitative Implementation
+- Sensitivity analysis in DCF models
+- Solution
+- Stress testing and scenario analysis
+- Swap spread and credit risk considerations
+- Terminal value estimation and perpetuity growth
+- VaR backtesting and model validation
+- Value at Risk (VaR) and risk metrics
+- Value at Risk (VaR) methodologies and backtesting
+- Variance swaps and volatility trading strategies
+tags:
+- bankruptcy
+- borrower_lender
+- case-study
+- collateralized-debt-obligations
+- corporate-bonds
+- course-material
+- covenant_enforcement
+- credit
+- credit-derivatives
+- dcf-valuation
+- debt_contracts
+- distressed-debt
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- information_asymmetry
+- interest-rate-derivatives
+- interest-rate-swaps
+- ito-calculus
+- liquidation
+- markets
+- mathematics
+- monitoring_costs
+- monte-carlo-simulation
+- numerical-simulation
+- optimization
+- options
+- options-pricing
+- quantitative-implementation
+- quantitative-pricing
+- renegotiation
+- risk-management
+- solution
+- stochastic
+- value-at-risk
+title: 'Class Note 2: Debt Contracts Due to the Lack of Information - Debt as a Promise
+  and a Threat'
 ---
+
 
 # Class Note 2: Debt Contracts Due to the Lack of Information - Debt as a Promise and a Threat
 

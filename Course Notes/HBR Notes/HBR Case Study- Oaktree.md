@@ -1,34 +1,48 @@
 ---
-cssclasses:
-  - academia
 Owner: RRoger Lin
-title: HBR Case StudyOaktree
-tags:
-  - cit_group
-  - credit_crisis
-  - hbr_case_study
-  - oaktree_capital
-  - restructuring
 aliases:
-  - CIT Group Restructuring
-  - Oaktree Case Study
-  - Rajath Shourie
+- CIT Group Restructuring
+- Oaktree Case Study
+- Rajath Shourie
+cssclasses:
+- academia
 key_concepts:
-  - CIT Group lender
-  - Capital markets reliance
-  - Consumer installment loans
-  - Corporate finance
-  - Factoring business
-  - Finance company funding
-  - Financial services
-  - Loan portfolio segments
-  - Oaktree Capital Management
-  - Securitization markets
-  - Subprime meltdown
-  - Trade financing
-  - Transportation financing
-  - Unsecured debt
-  - Vendor financing
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- HBR Case Study- Oaktree and financial analysis
+- HBR Case Study- Oaktree in modern finance
+- Applications of HBR Case Study- Oaktree
+- 'Case study: HBR Case Study- Oaktree'
+tags:
+- maturity
+- swap
+- distressed
+- bonds
+- futures
+- swaps
+- insolvency
+- bankruptcy
+- chapter-11
+- bond
+- liquidity
+- spread
+- treasury
+- trading
+- basis
+title: HBR Case StudyOaktree
 ---
 
 # HBR Case StudyOaktree

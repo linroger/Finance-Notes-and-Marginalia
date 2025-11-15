@@ -1,9 +1,54 @@
 ---
-title: "Pricing Tools in Financial Engineering"
+title: Pricing Tools in Financial Engineering
 chapter: 12
-subject: "Financial Engineering"
-category: "Principles of Financial Engineering"
+subject: Financial Engineering
+category: Principles of Financial Engineering
+tags:
+- arbitrage
+- binomial-model
+- black-scholes-model
+- credit
+- credit-derivatives
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- martingale-theory
+- mathematics
+- monte-carlo-simulation
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- stochastic
+key_concepts:
+- Arbitrage pricing theory (APT)
+- Asian options and average price derivatives
+- Barrier options and knock-in/knock-out features
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- Brownian motion and Wiener processes
+- Complete markets and replication
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Monte Carlo simulation for derivatives
+- Numerical methods for PDEs
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Put-call parity and option relationships
+- Risk-neutral valuation and martingale measures
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # PRICING TOOLS IN FINANCIAL ENGINEERING  
 

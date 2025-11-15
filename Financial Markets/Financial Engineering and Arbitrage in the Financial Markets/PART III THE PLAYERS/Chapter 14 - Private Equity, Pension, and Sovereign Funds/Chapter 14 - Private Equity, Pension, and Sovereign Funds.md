@@ -1,22 +1,58 @@
-%% Begin Waypoint %%
-- **Chapter 14**
-	- Chapter 14
-	- Private Equity Pension and Sovereign Funds 329
-	- Private Equity
-	- Risk Allocation for Pension Funds and Sovereig
-
-%% End Waypoint %%
-
-14 Private Equity, Pension, and Sovereign Funds 329  
-14.1 Private Equity 329   
-14.1.1 Investment in Private Equity - Limited Partnership Funds. 330   
-14.1.2 Leverage Buyouts 331   
-14.1.3 Private Equity Lending - Mezzanine Capital and Distressed Loans 332   
-14.1.4 Other Forms of Private Equity - PIPEs 333   
-14.1.5 Venture Capital 333   
-14.1.6 Exit Strategies - IPOs and Secondary Sales 334   
-14.2 Risk Allocation for Pension Funds and Sovereign Funds. 335   
-14.2.1  Defined Benefit Pension Funds and Endowments 335   
-14.2.2 The Risk Budget Allocation Process 336   
-Acknowledgment 338  
-References 339
+---
+tags:
+- apt
+- banking
+- corporate-finance
+- credit-markets
+- defi
+- derivatives
+- financial-markets
+- financial-modeling
+- fixed-income
+- ipo
+- lending
+- private-equity
+- quantitative-finance
+- risk-management
+- venture-capital
+key_concepts:
+- Agricultural futures and seasonality
+- Alternative investments and hedge fund strategies
+- Asset swaps and spread-lock strategies
+- Bank capital adequacy and Basel III compliance
+- Bank stress testing and CCAR requirements
+- Barrier options and knock-in/knock-out structures
+- Basel III capital requirements and risk metrics
+- Basis swaps and cross-currency basis adjustments
+- Basis swaps and floating rate correlations
+- Behavioral finance and market anomalies
+- Best execution and regulatory requirements
+- Bid-ask spreads and market making profitability
+- Black-Litterman model and portfolio optimization
+- CDO structuring and tranche allocation methodologies
+- CDO-squared structures and correlation trading
+- Calendar spreads and roll strategies
+- Capital Asset Pricing Model (CAPM) and beta estimation
+- Capital expenditure planning and depreciation
+- Central clearing and CCP risk management
+- Commodity futures and convenience yields
+- Commodity swaps and energy derivatives
+- Crack spreads in energy markets
+- Credit risk assessment and loan pricing
+- Cryptocurrency valuation and blockchain technology
+- Currency swaps and cross-currency basis
+- Dark pools and alternative trading venues
+- DeFi protocols and decentralized finance
+- Delta hedging strategies in options markets
+- Deposit insurance and systemic risk
+- Duration and convexity for bond price sensitivity
+- ESG investing and sustainability metrics
+- Enterprise value and equity value relationships
+- Equity swaps and total return swaps
+- Exotic derivatives and path-dependent options
+- FX futures and currency hedging
+- Fama-French three-factor and five-factor models
+- Fintech disruption and digital banking
+- GARCH models for volatility forecasting
+- Gamma trading and convexity adjustments
+- Green bonds and climate risk ass

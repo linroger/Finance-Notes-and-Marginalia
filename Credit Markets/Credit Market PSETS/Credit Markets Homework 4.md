@@ -1,36 +1,44 @@
 ---
-title: Credit Markets Homework 4
-cssclasses: 
-  - academia
-tags:
-  - bond_duration
-  - bond_valuation
-  - cds_pricing
-  - credit_market_homework
-  - hazard_rate_model
-  - ibm_bonds
-  - ir01
-  - risky_bonds
-  - scenario_analysis
-  - yield_curve_calibration
-  - treasury_curve
-  - sofr_curve
 aliases:
-  - Bond Sensitivities
-  - Credit Markets HW4
-  - Homework 4
-  - Risky Bond Pricing
+- Bond Sensitivities
+- Credit Markets HW4
+- Homework 4
+- Risky Bond Pricing
+cssclasses:
+- academia
 key_concepts:
-  - Bond duration calculation
-  - Bond market data analysis
-  - CDS hazard rate calibration
-  - CDS-implied bond prices
-  - Intrinsic vs market basis
-  - Risky bond pricing methodology
-  - Scenario IR01 analysis
-  - Treasury yield curve calibration
-  - SOFR curve bootstrapping
-  - Credit spread dynamics
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Credit Markets Homework 4 and financial analysis
+- Credit Markets Homework 4 in modern finance
+- Applications of Credit Markets Homework 4
+- 'Case study: Credit Markets Homework 4'
+tags:
+- credit
+- swap
+- swaps
+- bonds
+- cds
+- fixed-income
+- bond
+- interest-rates
+- multiple
+- sofr
+- valuation
+title: Credit Markets Homework 4
 ---
 
 # Credit Markets Homework 4

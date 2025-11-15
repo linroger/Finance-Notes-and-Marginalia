@@ -1,29 +1,54 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Risk Neutral Pricing of Options
 tags:
-  - american_option
-  - call_option
-  - european_option
-  - intrinsic_value
-  - maturity_date
-  - options
-  - put_option
-  - strike_price
-  - time_value
+- american_option
+- arbitrage
+- binomial-model
+- call_option
+- equity-derivatives
+- european_option
+- fixed-income
+- fixed-income-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- intrinsic_value
+- markets
+- maturity_date
+- option-greeks
+- options
+- options-pricing
+- put_option
+- quantitative-pricing
+- risk-management
+- stochastic
+- strike_price
+- time_value
 aliases:
-  - Option Holder
-  - Option Payoffs
-  - Option Pricing
-  - Option Writer
+- Option Holder
+- Option Payoffs
+- Option Pricing
+- Option Writer
 key_concepts:
-  - Derivative assets
-  - Expiration date
-  - Option payoffs
-  - Option types
-  - Underlying asset
+- Arbitrage pricing theory (APT)
+- Binomial tree models for option pricing
+- Complete markets and replication
+- Delta hedging and Greeks calculation
+- Derivative assets
+- Expected Shortfall (ES) and coherent risk measures
+- Expiration date
+- Interest rate models and term structure
+- Option payoffs
+- Option types
+- Portfolio optimization and mean-variance theory
+- Put-call parity and option relationships
+- Risk-neutral valuation and martingale measures
+- Underlying asset
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 
  
 # Risk Neutral Pricing of Options

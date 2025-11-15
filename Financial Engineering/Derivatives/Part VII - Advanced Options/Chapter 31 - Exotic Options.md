@@ -1,23 +1,44 @@
 ---
-tags:
-  - asian_options
-  - barrier_options
-  - bopm
-  - chooser_options
-  - exotic_options
-  - mcs
-  - path_dependent
 aliases:
-  - Average Rate Options
-  - Exotic Option Pricing
-  - Path-dependent Options
+- Average Rate Options
+- Exotic Option Pricing
+- Path-dependent Options
 key_concepts:
-  - Asian and barrier options
-  - BOPM and MCS
-  - Closed-form solutions
-  - European vs American options
-  - Exotic option types
-  - Path-dependent payoffs
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Monte Carlo simulation methods
+- Stochastic processes in finance
+- Path-dependent derivatives pricing
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Chapter 31 - Exotic Options and financial analysis
+- Chapter 31 - Exotic Options in modern finance
+- Applications of Chapter 31 - Exotic Options
+- 'Case study: Chapter 31 - Exotic Options'
+tags:
+- maturity
+- forward
+- options
+- bonds
+- put
+- futures
+- yield
+- simulation
+- risk-management
+- strike
+- hedging
+- var
+- expiry
+- call
+- delta
 ---
 # Exotic Options  
 

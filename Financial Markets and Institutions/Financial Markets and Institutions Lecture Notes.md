@@ -1,36 +1,230 @@
 ---
 title: Financial Markets and Institutions Lecture Notes
 tags:
-  - agency_problems
-  - asset_substitution_theory
-  - borrower_lender_conflicts
-  - capital_structure
-  - debt_capacity
-  - financial_institutions
-  - debt_contracts
-  - corporate_control
-  - leverage_effects
-  - bankruptcy_risk
-  - asymmetric_information
+- ' leveraged-buyout'
+- abs
+- agency_problems
+- apt
+- arbitrage
+- artificial-intelligence
+- asset_substitution_theory
+- asymmetric_information
+- bank-failure
+- banking
+- bankruptcy_risk
+- beta
+- bond-pricing
+- borrower_lender_conflicts
+- capital_structure
+- corporate_control
+- credit
+- credit-derivatives
+- dcf
+- debt_capacity
+- debt_contracts
+- defi
+- deposit-insurance
+- dva
+- equity-derivatives
+- fdic
+- financial_institutions
+- fixed-income
+- fixed-income-derivatives
+- haircuts
+- hedging-strategies
+- implied-volatility
+- interest-rate-derivatives
+- interest-rate-swap
+- investment-banking
+- irs
+- ito-calculus
+- lending
+- leverage-ratio
+- leverage_effects
+- liquidity-risk
+- ma
+- margin-calls
+- margin-requirements
+- market-impact
+- markets
+- mbs
+- moral-hazard
+- mortgage-backed-securities
+- mpt
+- nim
+- options
+- options-pricing
+- prime-brokerage
+- repo
+- repurchase-agreements
+- resolution
+- risk-management
+- roll-over
+- securitization
+- senior-tranches
+- shadow-banking
+- sifi
+- stochastic
+- stress-testing
+- systemic-risk
+- too-big-to-fail
+- tranche-risks
+- value-at-risk
+- var
 aliases:
-  - Financial Institutions Lecture Notes
-  - Financial Markets Lecture Notes
-  - Markets and Institutions Notes
+- Financial Institutions Lecture Notes
+- Financial Markets Lecture Notes
+- Markets and Institutions Notes
 key_concepts:
-  - Asset substitution theory
-  - Borrower-Lender conflicts
-  - Debt capacity impact
-  - Implied agency problems
-  - Perverse incentive effects
-  - Debt contract monitoring
-  - Credit risk assessment
-  - Information asymmetry
-  - Leverage and capital structure
-  - Covenant enforcement
-  - Single lender advantages
-  - Federal Trust Indenture Act
+- Agricultural futures and seasonality
+- Alternative investments and hedge fund strategies
+- American vs European options and early exercise features
+- Arbitrage Pricing Theory (APT) and factor models
+- Arbitrage pricing theory (APT)
+- Asset substitution theory
+- Asset swaps and spread-lock strategies
+- Bank asset-liability management (ALM) strategies
+- Bank capital adequacy and Basel III compliance
+- Bank stress testing and CCAR requirements
+- Barrier options and knock-in/knock-out structures
+- Basel III capital requirements and risk metrics
+- Basis swaps and cross-currency basis adjustments
+- Basis swaps and floating rate correlations
+- Behavioral finance and market anomalies
+- Best execution and regulatory requirements
+- Bid-ask spreads and market making profitability
+- Binomial option pricing model with multi-period trees
+- Black-Litterman model and portfolio optimization
+- Black-Scholes option pricing model and its applications
+- Bond portfolio immunization strategies
+- Borrower-Lender conflicts
+- CDO structuring and tranche allocation methodologies
+- CDO-squared structures and correlation trading
+- CDS spread curves and hazard rate modeling
+- Calendar spreads and roll strategies
+- Capital Asset Pricing Model (CAPM)
+- Capital Asset Pricing Model (CAPM) and beta estimation
+- Capital expenditure planning and depreciation
+- Central bank digital currencies (CBDCs)
+- Central clearing and CCP risk management
+- Commodity futures and convenience yields
+- Commodity swaps and energy derivatives
+- Constant maturity swaps and roll-over features
+- Corporate bond pricing and credit spread decomposition
+- Covenant enforcement
+- Crack spreads in energy markets
+- Credit default swaps and credit protection mechanisms
+- Credit risk and default probability
+- Credit risk assessment
+- Credit risk assessment and loan pricing
+- Credit valuation adjustment (CVA) and counterparty risk
+- Cryptocurrency valuation and blockchain technology
+- Currency swaps and cross-currency basis
+- Dark pools and alternative trading venues
+- DeFi protocols and decentralized finance
+- Debt capacity impact
+- Debt contract monitoring
+- Deposit insurance and systemic risk
+- Discounted cash flow (DCF) valuation methodologies
+- Dividend discount model (DDM) applications
+- Duration and convexity for bond price sensitivity
+- ESG investing and sustainability metrics
+- Enterprise value and equity value relationships
+- Equity swaps and total return swaps
+- Exotic derivatives and path-dependent options
+- Expected Shortfall (ES) and coherent risk measures
+- Extreme value theory and tail risk modeling
+- FX futures and currency hedging
+- Fama-French three-factor and five-factor models
+- Federal Trust Indenture Act
+- Fintech disruption and digital banking
+- Forward contract pricing and cost of carry
+- Futures vs forwards and delivery options
+- GARCH models for volatility forecasting
+- Gamma trading and convexity adjustments
+- Green bonds and climate risk assessment
+- HJM and forward rate model frameworks
+- High frequency trading and algorithmic strategies
+- Historical simulation and parametric VaR approaches
+- Hull-White and Black-Karasinski short rate models
+- IPO pricing and underpricing analysis
+- Implied agency problems
+- Implied volatility and volatility surface
+- Implied volatility and volatility surface modeling
+- Inflation-linked swaps and CPI adjustments
+- Information asymmetry
+- Interest rate derivatives and forward rate agreements
+- Interest rate models and term structure
+- Interest rate swaps and swap spread decomposition
+- Ito's Lemma and stochastic calculus
+- Key rate duration and curve risk decomposition
+- Leverage and capital structure
+- Leveraged buyout (LBO) financial modeling
+- Liquidity coverage ratio and funding strategies
+- Liquidity-adjusted VaR and liquidity horizons
+- Margin requirements and collateral optimization
+- Market impact and transaction cost analysis
+- Mean reversion in interest rate processes
+- Mergers and acquisitions due diligence
+- Metal futures and industrial commodities
+- Model backtesting and validation procedures
+- Modern portfolio theory and efficient frontier
+- Momentum and reversal investment strategies
+- Mortgage-backed securities and prepayment modeling
+- Multi-factor interest rate models
+- Negative interest rates and floor/cap structures
+- Net interest margin and banking profitability
+- Netting agreements and close-out procedures
+- Non-deliverable forwards and emerging market instruments
+- OIS discounting and collateralized interest rate derivatives
+- Option Greeks and sensitivity analysis
+- Option-adjusted spread (OAS) analysis
+- Options on futures and forward-starting options
+- Payment systems and settlement risk
+- Perverse incentive effects
+- Portfolio optimization and mean-variance theory
+- Prime brokerage and securities lending
+- Private credit and direct lending
+- Project finance and syndicated lending
+- Real estate investment trusts (REITs)
+- Recovery rate modeling and loss given default
+- Repo markets and securities lending
+- Risk factor decomposition and sensitivity analysis
+- Risk parity and risk budgeting strategies
+- Shadow banking and non-bank intermediation
+- Single lender advantages
+- Smart beta and alternative indexing approaches
+- Stochastic volatility in interest rate markets
+- Stress testing and scenario analysis
+- Stress testing and scenario analysis frameworks
+- Subprime mortgage crisis and structured finance risks
+- Swaptions and interest rate option pricing
+- Swaptions and option volatility surfaces
+- Synthetic CDOs and credit-linked note structures
+- Terminal value modeling and exit multiples
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho sensitivity analysis'
+- Too-big-to-fail policies and resolution regimes
+- Treasury futures and bond basis
+- Treasury securities and government bond markets
+- VIX futures and volatility trading
+- Value at Risk (VaR) and expected shortfall methodologies
+- Value at Risk (VaR) and risk metrics
+- Value vs growth investing frameworks
+- Vasicek and CIR interest rate models
+- Volatility smile and skew patterns in option markets
+- Weighted average cost of capital (WACC) calculations
+- Working capital and cash conversion cycle
+- Wrong-way risk and correlation adjustments
+- Yield curve construction and term structure modeling
+- Zero-coupon bond pricing and bootstrapping
 cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch04-841996
 ---
+
+
+
 
 # Financial Markets and Institutions Lecture Notes
 

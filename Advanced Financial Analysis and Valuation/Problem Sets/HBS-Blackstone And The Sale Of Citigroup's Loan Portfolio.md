@@ -1,39 +1,48 @@
 ---
-cssclasses: academia
-title: "HBS Case Study: Blackstone and the Sale of Citigroup's Loan Portfolio"
-date: 2023-10-15
-tags:
-  - blackstone_citigroup_deal
-  - leveraged_loans
-  - financial_crisis_2008
-  - distressed_debt
-  - private_equity
-  - lbo_financing
-  - regulatory_capital
-  - gso_capital
-  - loan_portfolio_sale
-  - mark_to_market_risk
-  - collateralized_loans
-  - subprime_crisis
-  - bear_stearns_collapse
-  - margin_requirements
-  - cds_spreads
 aliases:
-  - Blackstone Citigroup Loan Deal 2008
-  - GSO Capital Loan Purchase
-  - Citigroup $6.1B Loan Sale
-  - Distressed Debt Opportunity 2008
+- Blackstone Citigroup Loan Deal 2008
+- GSO Capital Loan Purchase
+- Citigroup $6.1B Loan Sale
+- Distressed Debt Opportunity 2008
+cssclasses: academia
+date: 2023-10-15
 key_concepts:
-  - Loan portfolio: $6.11 billion face value at 83 cents on dollar
-  - Leverage: 75% non-recourse financing from Citigroup
-  - Margin call risk: If portfolio value falls below 66.4% of face
-  - Regulatory capital relief: 100% risk weight for leveraged loans
-  - Mark-to-market: LCDX at 92 cents, causing writedowns
-  - Default probabilities: CDS implied 20.82% vs historic 5.91%
-  - Recycling provision: Four-year reinvestment flexibility
-  - First lien security: 75% senior secured debt
-  - Timing uncertainty: Market bottom unknown
-  - Partnership structure: Blackstone and TPG joint venture
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- HBS-Blackstone And The Sale Of Citigroup's Loan Portfolio and financial analysis
+- HBS-Blackstone And The Sale Of Citigroup's Loan Portfolio in modern finance
+- Applications of HBS-Blackstone And The Sale Of Citigroup's Loan Portfolio
+- 'Case study: HBS-Blackstone And The Sale Of Citigroup''s Loan Portfolio'
+tags:
+- credit
+- regulatory
+- swap
+- default
+- swaps
+- recovery
+- regulation
+- cds
+- portfolio
+- capital-requirement
+- trading
+- liquidity
+- spread
+- portfolio-optimization
+- irs
+title: 'HBS Case Study: Blackstone and the Sale of Citigroup''s Loan Portfolio'
 ---
 
 # Blackstone and the Sale of Citigroup's Loan Portfolio

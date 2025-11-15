@@ -1,38 +1,52 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: PSET 2 - GROUP ASSIGNMENT
-title: PSET 2 - GROUP ASSIGNMENT
-tags:
-  - deep_discount_retail
-  - dollar_general
-  - financial_performance
-  - market_share
-  - profit_margins
-  - busn_30131
-  - advanced_financial_analysis
-  - valuation
-  - LBO_analysis
-  - KKR_acquisition
-  - pro_forma_statements
-  - EV_EBITDA_multiple
 aliases:
-  - BUSN 30131
-  - Dollar General Analysis
-  - Group 13
-  - PSET 2
-  - BUSN 30131 Problem Set 2
-  - Dollar General Valuation Assignment
-  - KKR Offer Evaluation
+- BUSN 30131
+- Dollar General Analysis
+- Group 13
+- PSET 2
+- BUSN 30131 Problem Set 2
+- Dollar General Valuation Assignment
+- KKR Offer Evaluation
+cssclasses:
+- academia
 key_concepts:
-  - costs_of_goods_sold: Analysis of COGS growth outpacing revenue
-  - declining_profit_margins: FY2007 margin compression from 4.1% to 1.5%
-  - deep_discount_market_share: Dollar General's 25% market share
-  - dollar_general_performance: Strategic overhaul impacts on financials
-  - higher_profit_margins: Dollar Tree's superior margins 5.1% vs 4.1%
-  - inventory_impairment: $70.2 million charge in FY2006
-  - strategic_restructuring: Store closures and remodeling initiatives
-  - EV_EBITDA_valuation: KKR offer at 17.2x vs industry 10.7x multiple
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- PSET 2- GROUP ASSIGNMENT and financial analysis
+- PSET 2- GROUP ASSIGNMENT in modern finance
+- Applications of PSET 2- GROUP ASSIGNMENT
+- 'Case study: PSET 2- GROUP ASSIGNMENT'
+linter-yaml-title-alias: PSET 2 - GROUP ASSIGNMENT
+tags:
+- maturity
+- credit
+- income statement
+- forward
+- strategy
+- options
+- futures
+- bonds
+- yield
+- basis
+- call
+- interest-rate
+- interest-rates
+- algorithmic-trading
+- multiple
+title: PSET 2 - GROUP ASSIGNMENT
 ---
 
 # PSET 2 - Group Assignment

@@ -1,24 +1,46 @@
 ---
 title: Forwards and Futures Notes
 tags:
-  - coupon_bonds
-  - currency_forwards
-  - implied_forward_rates
-  - interest_arbitrage
-  - zero_coupon_bonds
+- arbitrage
+- coupon_bonds
+- credit
+- currency_forwards
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- implied_forward_rates
+- interest-rate-derivatives
+- interest_arbitrage
+- markets
+- option-greeks
+- options
+- options-pricing
+- risk-management
+- zero_coupon_bonds
 aliases:
-  - Bonds
-  - Currency
-  - Forwards
-  - Futures
+- Bonds
+- Currency
+- Forwards
+- Futures
 key_concepts:
-  - Coupon bond pricing
-  - Covered interest arbitrage
-  - Currency forward rate
-  - Implied forward rates
-  - Prepaid forward price
-  - Zero-coupon bond pricing
+- Arbitrage pricing theory (APT)
+- Coupon bond pricing
+- Covered interest arbitrage
+- Currency forward rate
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Implied forward rates
+- Interest rate models and term structure
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Prepaid forward price
+- Value at Risk (VaR) and risk metrics
+- Zero-coupon bond pricing
 ---
+
 
 - Introduction to Derivative Markets]]
 - Hedging%20[Key%20Rates%20O1s%20Durations%20and%20Hedging) Strategies with [Forwards]]

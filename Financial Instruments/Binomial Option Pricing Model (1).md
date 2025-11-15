@@ -2,27 +2,59 @@
 cssclasses: academia
 title: Binomial Option Pricing Model
 tags:
-  - american_options
-  - binomial_model
-  - lattice_model
-  - option_pricing
-  - risk_neutral
-  - jump_diffusion
-  - numerical_methods
+- american_options
+- arbitrage
+- binomial-model
+- binomial_model
+- black-scholes-model
+- equity-derivatives
+- fixed-income
+- fx-derivatives
+- interest-rate-derivatives
+- jump_diffusion
+- lattice_model
+- markets
+- mathematics
+- model-calibration
+- numerical_methods
+- option-greeks
+- option_pricing
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- risk_neutral
+- stochastic
 aliases:
-  - CRR model
-  - Cox Ross Rubinstein
-  - Binomial Tree Model
+- CRR model
+- Cox Ross Rubinstein
+- Binomial Tree Model
 key_concepts:
-  - American-style options
-  - Binomial tree model
-  - Lattice models
-  - Option pricing equation
-  - Risk-neutral world
-  - Cox-Ross-Rubinstein framework
-  - Delta hedging
-  - Dividend adjustments
+- American-style options
+- Arbitrage pricing theory (APT)
+- Barrier options and knock-in/knock-out features
+- Binomial tree model
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- Brownian motion and Wiener processes
+- Cox-Ross-Rubinstein framework
+- Delta hedging
+- Delta hedging and Greeks calculation
+- Dividend adjustments
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Lattice models
+- Model calibration and parameter estimation
+- Numerical methods for PDEs
+- Option pricing equation
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Risk-neutral world
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Binomial Tree Model
 

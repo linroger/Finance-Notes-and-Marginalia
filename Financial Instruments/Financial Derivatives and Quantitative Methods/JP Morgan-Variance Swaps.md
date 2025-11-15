@@ -2,21 +2,67 @@
 title: JP Morgan-Variance Swaps
 cssclasses: academia
 tags:
-  - hedging
-  - jpmorgan
-  - market_mechanics
-  - variance_swaps
-  - volatility
+- arbitrage
+- binomial-model
+- black-scholes-model
+- credit
+- credit-derivatives
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging
+- hedging-strategies
+- interest-rate-derivatives
+- ito-calculus
+- jpmorgan
+- market_mechanics
+- markets
+- mathematics
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- stochastic
+- variance_swaps
+- volatility
 aliases:
-  - Variance Swaps
-  - Volatility Swaps
+- Variance Swaps
+- Volatility Swaps
 key_concepts:
-  - Delta-hedged portfolio
-  - Generating alpha
-  - Hedging volatility exposures
-  - Variance swap market
-  - Volatility exposure
+- Arbitrage pricing theory (APT)
+- Barrier options and knock-in/knock-out features
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- Capital Asset Pricing Model (CAPM)
+- Complete markets and replication
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Delta-hedged portfolio
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- GARCH models and volatility forecasting
+- Generating alpha
+- Hedging volatility exposures
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Monte Carlo simulation for derivatives
+- Numerical methods for PDEs
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- VaR backtesting and model validation
+- Value at Risk (VaR) and risk metrics
+- Variance swap market
+- Vasicek and Cox-Ingersoll-Ross models
+- Volatility exposure
 ---
+
 
 # JP Morgan-Variance Swaps
 

@@ -1,3 +1,16 @@
+---
+tags:
+- derivatives-pricing
+- fixed-income-derivatives
+- markets
+- stochastic
+key_concepts:
+- Arbitrage pricing theory (APT)
+- Brownian motion and Wiener processes
+- Complete markets and replication
+- Expected Shortfall (ES) and coherent risk measures
+---
+
 # Parsing Log for Financial Engineering Directory
 
 ## Session: 2025-01-17

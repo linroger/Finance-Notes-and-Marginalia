@@ -1,21 +1,85 @@
 ---
-title: Wellman Inc the Importance of Loan Covenants
-tags:
-  - business_strategy
-  - credit_quality
-  - financial_analysis
-  - loan_covenants
-  - wellman_inc
 aliases:
-  - Loan Covenants
-  - Wellman Inc.
+- Loan Covenants
+- Wellman Inc.
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-bb5f04
 key_concepts:
-  - 'Borrower: Wellman Inc.'
-  - Conflicts of interest
-  - Credit quality
-  - Loan covenants
-  - Rating downgrade
+- Algorithmic trading and execution strategies
+- 'Borrower: Wellman Inc.'
+- Capital Structure
+- Carry trades and momentum in FX markets
+- Case Study
+- Collateralized Debt Obligations
+- Commodity markets and pricing dynamics
+- Conflicts of interest
+- Corporate Bonds
+- Course Material
+- Credit Analysis
+- Credit quality
+- Credit risk and default probability
+- Cross-currency basis swaps and funding
+- Currency markets and foreign exchange trading
+- Currency risk management and hedging
+- Delta hedging and Greeks calculation
+- Exchange rate determination and PPP theory
+- Expected Shortfall (ES) and coherent risk measures
+- Fixed-for-floating swap cash flows and valuation
+- Forward rates and interest rate parity
+- GARCH models and volatility forecasting
+- Heath-Jarrow-Morton (HJM) framework
+- High Yield Bonds
+- Interest rate models and term structure
+- Interest rate swap pricing and valuation
+- Interest rate swaps and swap pricing
+- Investment Banking
+- Loan covenants
+- Quantitative Implementation
+- Rating downgrade
+- Solution
+- Swap spread and credit risk considerations
+- Syndicated Loans
+- Treasury Bonds
+- Value at Risk (VaR) and risk metrics
+- Variance swaps and volatility trading strategies
+tags:
+- algorithmic-trading
+- business_strategy
+- capital-structure
+- case-study
+- collateralized-debt-obligations
+- commodities
+- corporate-bonds
+- course-material
+- credit
+- credit-analysis
+- credit-derivatives
+- credit_quality
+- equity-derivatives
+- exchange-rates
+- financial_analysis
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- garch-models
+- high-yield-bonds
+- interest-rate-derivatives
+- interest-rate-swaps
+- investment-banking
+- loan_covenants
+- markets
+- options
+- options-pricing
+- quantitative-implementation
+- risk-management
+- solution
+- syndicated-loans
+- treasury-bonds
+- wellman_inc
+title: Wellman Inc the Importance of Loan Covenants
 ---
+
 
 # Wellman Inc the Importance of Loan Covenants
 

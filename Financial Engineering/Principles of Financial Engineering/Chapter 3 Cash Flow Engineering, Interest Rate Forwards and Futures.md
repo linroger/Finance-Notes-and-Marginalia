@@ -1,31 +1,65 @@
 ---
 title: Cash Flow Engineering, Interest Rate Forwards and Futures
 tags:
-  - cash-flow-engineering
-  - interest-rate-forwards
-  - interest-rate-futures
-  - fixed-income
-  - libor
-  - yield-curve
-  - synthetic-assets
-  - day-count-conventions
+- arbitrage
+- cash-flow-engineering
+- credit
+- credit-derivatives
+- day-count-conventions
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- interest-rate-forwards
+- interest-rate-futures
+- ito-calculus
+- libor
+- markets
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- risk-management
+- stochastic
+- synthetic-assets
+- yield-curve
 aliases:
-  - Chapter 3 Cash Flow Engineering
-  - Interest Rate Derivatives Engineering
-  - Synthetic Interest Rate Instruments
+- Chapter 3 Cash Flow Engineering
+- Interest Rate Derivatives Engineering
+- Synthetic Interest Rate Instruments
 key_concepts:
-  - Cash flow engineering
-  - Synthetic instruments
-  - Interest rate forwards
-  - Interest rate futures
-  - LIBOR benchmarks
-  - Fixed income conventions
-  - Day-count conventions
-  - Forward loans
-  - Contractual equations
-  - Replication strategies
+- Arbitrage pricing theory (APT)
+- Basel III regulatory framework
+- Cash flow engineering
+- Complete markets and replication
+- Contractual equations
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Day-count conventions
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Fixed income conventions
+- Forward loans
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate forwards
+- Interest rate futures
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- LIBOR benchmarks
+- Monte Carlo simulation for derivatives
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Replication strategies
+- Synthetic instruments
+- VaR backtesting and model validation
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 cssclasses: academia
 ---
+
 
 # CASH FLOW ENGINEERING, INTEREST RATE FORWARDS AND FUTURES  
 

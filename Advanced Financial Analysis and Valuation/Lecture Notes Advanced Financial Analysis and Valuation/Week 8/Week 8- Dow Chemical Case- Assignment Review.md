@@ -1,12 +1,50 @@
 ---
-title: "Week 8 - Dow Chemical Case - Assignment Review"
-linter-yaml-title-alias: "Week 8 - Dow Chemical Case - Assignment Review"
-aliases: [Bahia Blanca Complex, Dow's Bid, PBB Acquisition, Argentine Privatization Case]
-date created: Tuesday, November 26th 2024, 9:10:23 pm
+aliases:
+- Bahia Blanca Complex
+- Dow's Bid
+- PBB Acquisition
+- Argentine Privatization Case
 cssclasses: academia
-tags: [currency_crisis, dow_chemical, international_risks, pbb_privatization, valuation_model, argentina, emerging_markets, discount_rate_adjustment, scenario_analysis, expropriation_risk, petrochemicals]
-key_concepts: [dow's business model, incorporate risks valuation model, international project valuation, privatization of pbb, project stages evaluation, currency crisis impact, expropriation scenarios, sovereign spread, discount rate adjustments, export backstop, business risk analysis]
+date created: Tuesday, November 26th 2024, 9:10:23 pm
 instructor: Thomas Rauter
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Week 8- Dow Chemical Case- Assignment Review and financial analysis
+- Week 8- Dow Chemical Case- Assignment Review in modern finance
+- Applications of Week 8- Dow Chemical Case- Assignment Review
+- 'Case study: Week 8- Dow Chemical Case- Assignment Review'
+linter-yaml-title-alias: Week 8 - Dow Chemical Case - Assignment Review
+tags:
+- discount
+- options
+- swaps
+- put
+- bonds
+- portfolio
+- var
+- bond
+- liquidity
+- spread
+- call
+- risk
+- ratio
+- irs
+- risk-management
+title: Week 8 - Dow Chemical Case - Assignment Review
 ---
 
 # Week 8 - Dow Chemical Case - Assignment Review

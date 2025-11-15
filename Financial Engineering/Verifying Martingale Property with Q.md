@@ -1,21 +1,39 @@
 ---
 tags:
-  - bond_numeraire
-  - discounted_stock
-  - martingale_property
-  - risk_neutral_probability
-  - stock_price
+- bond_numeraire
+- discounted_stock
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- martingale-theory
+- martingale_property
+- option-greeks
+- options
+- options-pricing
+- risk-management
+- risk_neutral_probability
+- stochastic
+- stock_price
 aliases:
-  - Martingale Verification
-  - Risk-Neutral Measure
-  - Stock Price Martingale
+- Martingale Verification
+- Risk-Neutral Measure
+- Stock Price Martingale
 key_concepts:
-  - Bond as numeraire
-  - Discounted stock price
-  - Martingale property verification
-  - Risk-neutral probabilities
-  - Stock price dynamics
+- Arbitrage pricing theory (APT)
+- Bond as numeraire
+- Brownian motion and Wiener processes
+- Delta hedging and Greeks calculation
+- Discounted stock price
+- Expected Shortfall (ES) and coherent risk measures
+- Filtrations and adapted processes
+- Martingale property verification
+- Risk-neutral probabilities
+- Risk-neutral valuation and martingale measures
+- Stock price dynamics
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Chapter 5 Additional Readings  
 

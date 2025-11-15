@@ -1,24 +1,48 @@
 ---
-cssclasses:
-  - academia
 Owner: RRoger Lin
-linter-yaml-title-alias: A Strategic Perspective on Bankruptcy
-title: A Strategic Perspective on Bankruptcy
-tags:
-  - bankruptcy
-  - chapter_11
-  - liquidation
-  - reorganization
-  - secured_debt
 aliases:
-  - Bankruptcy Overview
-  - Strategic Bankruptcy
+- Bankruptcy Overview
+- Strategic Bankruptcy
+cssclasses:
+- academia
 key_concepts:
-  - Chapter 11 reorganization
-  - Liquidation process
-  - Plan of reorganization
-  - Prepackaged bankruptcy
-  - Secured vs. unsecured debt
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- A Strategic Perspective on Bankruptcy and financial analysis
+- A Strategic Perspective on Bankruptcy in modern finance
+- Applications of A Strategic Perspective on Bankruptcy
+- 'Case study: A Strategic Perspective on Bankruptcy'
+linter-yaml-title-alias: A Strategic Perspective on Bankruptcy
+tags:
+- gaap
+- credit
+- distressed
+- options
+- put
+- swaps
+- bankruptcy
+- ifrs
+- chapter-11
+- var
+- call
+- delta
+- accounting
+- irs
+- risk-management
+title: A Strategic Perspective on Bankruptcy
 ---
 
 # A Strategic Perspective on Bankruptcy

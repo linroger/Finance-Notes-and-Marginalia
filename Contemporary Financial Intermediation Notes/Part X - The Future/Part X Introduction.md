@@ -1,3 +1,23 @@
+---
+key_concepts:
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Part X Introduction and financial analysis
+- Part X Introduction in modern finance
+- Applications of Part X Introduction
+- 'Case study: Part X Introduction'
+tags:
+- credit
+- discount
+- options
+- regulation
+- call
+---
+
 # The Future  
 
 “It is always wise to look ahead, but difficult to look further than you can see.”  

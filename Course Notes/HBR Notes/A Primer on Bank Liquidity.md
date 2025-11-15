@@ -1,28 +1,47 @@
 ---
-cssclasses:
-  - academia
 Owner: Roger Lin
-title: A Primer on Bank Liquidity
-tags:
-  - bank_liquidity
-  - banking
-  - diamond_dybvig
-  - fdic
-  - interbank_market
-  - liquidity_risk
-  - maturity_transformation
-  - reserves
 aliases:
-  - Bank Liquidity Primer
-  - Liquidity in Banking
+- Bank Liquidity Primer
+- Liquidity in Banking
+cssclasses:
+- academia
 key_concepts:
-  - Bank liquidity definition
-  - Diamond-Dybvig model
-  - FDIC deposit insurance
-  - Funding illiquid assets
-  - Illiquidity vs insolvency
-  - Interbank market borrowing
-  - Precautionary savings reserves
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- A Primer on Bank Liquidity and financial analysis
+- A Primer on Bank Liquidity in modern finance
+- Applications of A Primer on Bank Liquidity
+- 'Case study: A Primer on Bank Liquidity'
+tags:
+- maturity
+- credit
+- swaps
+- options
+- bonds
+- default
+- regulation
+- compliance
+- basel
+- liquidity
+- call
+- treasury
+- risk
+- multiple
+- irs
+title: A Primer on Bank Liquidity
 ---
 
 # A Primer on Bank Liquidity

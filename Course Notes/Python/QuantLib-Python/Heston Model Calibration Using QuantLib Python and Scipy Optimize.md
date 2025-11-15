@@ -1,25 +1,47 @@
 ---
-title: Heston Model Calibration Using QuantLib Python and Scipy Optimize
-tags:
-  - heston_model
-  - option_pricing
-  - parameter_calibration
-  - quantlib_python
-  - scipy_optimize
 aliases:
-  - Heston Calibration
-  - Model Calibration
-  - QuantLib Calibration
-  - Scipy Optimization
+- Heston Calibration
+- Model Calibration
+- QuantLib Calibration
+- Scipy Optimization
 key_concepts:
-  - Differential evolution
-  - Heston model
-  - Least squares method
-  - Levenberg-Marquardt solver
-  - Local minima solvers
-  - Parameter calibration methods
-  - QuantLib Python
-  - Scipy Optimize package
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Model calibration procedures
+- Parameter estimation methods
+- Maximum likelihood estimation
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Heston Model Calibration Using QuantLib Python and Scipy Optimize and financial
+  analysis
+- Heston Model Calibration Using QuantLib Python and Scipy Optimize in modern finance
+- Applications of Heston Model Calibration Using QuantLib Python and Scipy Optimize
+- 'Case study: Heston Model Calibration Using QuantLib Python and Scipy Optimize'
+tags:
+- forward
+- options
+- bonds
+- put
+- calibration
+- futures
+- yield
+- default
+- theta
+- dividend
+- strike
+- var
+- expiry
+- call
+- risk-management
+title: Heston Model Calibration Using QuantLib Python and Scipy Optimize
 ---
 
 # Heston Model Calibration Using QuantLib Python and Scipy Optimize

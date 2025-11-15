@@ -1,23 +1,45 @@
 ---
-title: Modeling Fixed Rate Bonds in QuantLib Python
-source: https://gouthamanbalaraman.com/blog/quantlib-bond-modeling.html
+aliases:
+- Bond Modeling
+- QuantLib Example
 description: This post will walk through an example of modeling fixed rate bonds using
   QuantLib Python.
-tags:
-  - bond_valuation
-  - coupon_bond
-  - fixed_rate_bond
-  - quantlib_python
-  - term_structure
-aliases:
-  - Bond Modeling
-  - QuantLib Example
 key_concepts:
-  - Bond fair value
-  - Coupon payments
-  - Fixed rate bonds
-  - QuantLib Python modeling
-  - Spot rates
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Modeling Fixed Rate Bonds in QuantLib Python and financial analysis
+- Modeling Fixed Rate Bonds in QuantLib Python in modern finance
+- Applications of Modeling Fixed Rate Bonds in QuantLib Python
+- 'Case study: Modeling Fixed Rate Bonds in QuantLib Python'
+source: https://gouthamanbalaraman.com/blog/quantlib-bond-modeling.html
+tags:
+- maturity
+- swap
+- options
+- bonds
+- put
+- swaps
+- yield
+- spot-rates
+- fixed-income
+- bond
+- term-structure
+- treasury
+- coupon
+title: Modeling Fixed Rate Bonds in QuantLib Python
 ---
 
 # Modeling Fixed Rate Bonds in QuantLib Python

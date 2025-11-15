@@ -1,11 +1,54 @@
 ---
-title: "Week 9 - Information Risks and (International) Accounting Differences, Platform Businesses"
-linter-yaml-title-alias: "Week 9 - Information Risks and (International) Accounting Differences, Platform Businesses"
-aliases: [International Accounting, Week 9 Platform Businesses, Information Risk Analysis]
-date created: Tuesday, November 26th 2024, 9:30:45 pm
+aliases:
+- International Accounting
+- Week 9 Platform Businesses
+- Information Risk Analysis
 cssclasses: academia
-tags: [accounting_differences, ifrs, information_risks, non_gaap, platform_businesses, us_gaap, valuation, subscription_economy, saas_valuation, customer_based_valuation, blue_apron, zoom_case]
-key_concepts: [accounting differences valuation, ifrs adoption reporting, information risks global investments, non-gaap reporting metrics, platform subscription businesses, reporting incentives importance, customer lifetime value, unit economics, arr metrics, rpo accounting, asc_606, saas multiples]
+date created: Tuesday, November 26th 2024, 9:30:45 pm
+key_concepts:
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Week 9-Information Risks and (International) Accounting Differences, Platform Businesses
+  and financial analysis
+- Week 9-Information Risks and (International) Accounting Differences, Platform Businesses
+  in modern finance
+- Applications of Week 9-Information Risks and (International) Accounting Differences,
+  Platform Businesses
+- 'Case study: Week 9-Information Risks and (International) Accounting Differences,
+  Platform Businesses'
+linter-yaml-title-alias: Week 9 - Information Risks and (International) Accounting
+  Differences, Platform Businesses
+tags:
+- gaap
+- forward
+- options
+- futures
+- put
+- financial-statement
+- ifrs
+- var
+- basis
+- liquidity
+- spread
+- call
+- accounting
+- fair-value
+- risk-management
+title: Week 9 - Information Risks and (International) Accounting Differences, Platform
+  Businesses
 ---
 
 # Week 9 - Information Risks and (International) Accounting Differences, Platform Businesses

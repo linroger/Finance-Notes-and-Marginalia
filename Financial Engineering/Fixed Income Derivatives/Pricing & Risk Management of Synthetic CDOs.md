@@ -1,21 +1,50 @@
 ---
 tags:
-  - credit_risk
-  - default_modeling
-  - risk_management
-  - synthetic_cdos
-  - tranche_pricing
+- arbitrage
+- credit
+- credit-derivatives
+- credit_risk
+- default_modeling
+- equity-derivatives
+- fixed-income
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- monte-carlo-simulation
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- risk_management
+- stochastic
+- synthetic_cdos
+- tranche_pricing
 aliases:
-  - CDO Risk Analysis
-  - Synthetic CDO Pricing
-  - Synthetic Collateralized Debt Obligations
+- CDO Risk Analysis
+- Synthetic CDO Pricing
+- Synthetic Collateralized Debt Obligations
 key_concepts:
-  - Joint default distribution
-  - Model parameter sensitivities
-  - Reference asset correlations
-  - Synthetic CDO structures
-  - Tranche expected losses
+- Arbitrage pricing theory (APT)
+- Capital Asset Pricing Model (CAPM)
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Joint default distribution
+- Model parameter sensitivities
+- Monte Carlo simulation for derivatives
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Reference asset correlations
+- Synthetic CDO structures
+- Tranche expected losses
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Pricing & Risk Management of Synthetic CDOs
 

@@ -1,28 +1,47 @@
 ---
-cssclasses:
-  - academia
-title: Black-Scholes Model
-tags:
-  - black_scholes_model
-  - geometric_brownian_motion
-  - kospi_200
-  - stock_price_process
-  - volatility
-  - option_pricing
-  - risk_neutral_valuation
 aliases:
-  - BSM
-  - Black Scholes
-  - Black-Scholes Formula
+- BSM
+- Black Scholes
+- Black-Scholes Formula
+cssclasses:
+- academia
 key_concepts:
-  - Drift and volatility
-  - Geometric Brownian motion
-  - KOSPI 200 index data
-  - Normal distribution histograms
-  - Stock price process
-  - Risk-neutral valuation
-  - Black-Scholes PDE
-  - Option pricing
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Black-Scholes-Merton option pricing model
+- Greeks calculation and interpretation
+- Volatility surface and smile
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Black-Scholes Model and financial analysis
+- Black-Scholes Model in modern finance
+- Applications of Black-Scholes Model
+- 'Case study: Black-Scholes Model'
+tags:
+- options
+- bonds
+- put
+- portfolio
+- strike
+- var
+- black-scholes
+- expiry
+- gamma
+- call
+- delta
+- portfolio-optimization
+- bond
+- risk-management
+- duration
+title: Black-Scholes Model
 ---
 
 # Black-Scholes Model

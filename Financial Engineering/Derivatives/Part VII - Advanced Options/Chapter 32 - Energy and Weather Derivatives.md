@@ -1,21 +1,44 @@
 ---
-tags:
-  - catastrophe_bonds
-  - energy_derivatives
-  - price_risk
-  - volume_risk
-  - weather_derivatives
 aliases:
-  - CAT bonds
-  - Commodity Derivatives
-  - Energy and Weather Derivatives
+- CAT bonds
+- Commodity Derivatives
+- Energy and Weather Derivatives
 key_concepts:
-  - Catastrophe bond purpose
-  - Energy contracts overview
-  - Energy price volatility
-  - Hedging price risk
-  - Hedging volume risk
-  - Weather derivative uses
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Chapter 32 - Energy and Weather Derivatives and financial analysis
+- Chapter 32 - Energy and Weather Derivatives in modern finance
+- Applications of Chapter 32 - Energy and Weather Derivatives
+- 'Case study: Chapter 32 - Energy and Weather Derivatives'
+tags:
+- options
+- roll
+- futures
+- put
+- basis
+- liquidity
+- maturity
+- forward
+- swaps
+- bond
+- trading
+- expiry
+- spread
+- coupon
+- swap
 ---
 # Energy and Weather Derivatives  
 

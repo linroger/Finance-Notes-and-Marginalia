@@ -1,22 +1,34 @@
 ---
 title: Fixed Income Derivatives
 tags:
-  - bond_futures
-  - caps_floors
-  - fixed_income
-  - interest_rate_derivatives
-  - swaptions
+- bond_futures
+- caps_floors
+- derivatives-pricing
+- fixed-income
+- fixed-income-derivatives
+- fixed_income
+- interest-rate-derivatives
+- interest_rate_derivatives
+- markets
+- risk-management
+- swaptions
 aliases:
-  - Fixed Income Derivatives Index
-  - Fixed Income Derivatives Overview
+- Fixed Income Derivatives Index
+- Fixed Income Derivatives Overview
 key_concepts:
-  - Bond futures
-  - Caps and floors  
-  - Fixed income products
-  - Interest rate swaps
-  - Swaptions
+- Arbitrage pricing theory (APT)
+- Bond futures
+- Caps and floors
+- Expected Shortfall (ES) and coherent risk measures
+- Fixed income products
+- Interest rate models and term structure
+- Interest rate swaps
+- Interest rate swaps and swap pricing
+- Swaptions
+- Value at Risk (VaR) and risk metrics
 cssclasses: academia
 ---
+
 
 # Fixed Income Derivatives
 

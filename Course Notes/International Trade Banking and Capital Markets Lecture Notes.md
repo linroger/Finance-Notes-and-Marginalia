@@ -1,19 +1,44 @@
 ---
-tags:
-  - capital_markets
-  - international_trade
-  - trade_balance
 aliases:
-  - Global Trade
-  - International Finance
-  - Trade Banking
+- Global Trade
+- International Finance
+- Trade Banking
 key_concepts:
-  - Central bank management
-  - Currencies bought/sold
-  - Global trade overview
-  - Investment capital flows
-  - Trade and macroeconomics
-  - Trade policy instruments
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- International Trade Banking and Capital Markets Lecture Notes and financial analysis
+- International Trade Banking and Capital Markets Lecture Notes in modern finance
+- Applications of International Trade Banking and Capital Markets Lecture Notes
+- 'Case study: International Trade Banking and Capital Markets Lecture Notes'
+tags:
+- libor
+- forward
+- options
+- futures
+- put
+- monetary-policy
+- roll
+- basis
+- var
+- call
+- delta
+- interest-rates
+- interest-rate
+- arbitrage
+- risk-management
 ---
 
 International Trade Banking and Capital Markets: Introduction and Global Trade Overview

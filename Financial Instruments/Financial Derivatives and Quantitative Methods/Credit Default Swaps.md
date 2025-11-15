@@ -2,27 +2,55 @@
 title: Credit Default Swaps
 cssclasses: academia
 tags:
-  - cds_market
-  - cds_valuation
-  - cdx_index
-  - credit_curves
-  - credit_default_swaps
-  - credit_derivatives
-  - credit_risk
-  - credit_risk_management
-  - financial_crisis
+- arbitrage
+- cds_market
+- cds_valuation
+- cdx_index
+- credit
+- credit-derivatives
+- credit_curves
+- credit_default_swaps
+- credit_derivatives
+- credit_risk
+- credit_risk_management
+- equity-derivatives
+- financial_crisis
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- option-greeks
+- options
+- options-pricing
+- risk-management
 aliases:
-  - CDS
-  - CDS market
-  - CDX
-  - Credit Default Swaps
+- CDS
+- CDS market
+- CDX
+- Credit Default Swaps
 key_concepts:
-  - CDS spread
-  - credit derivative
-  - protection buyer
-  - protection seller
-  - transfer credit risk
+- Arbitrage pricing theory (APT)
+- Basel III regulatory framework
+- CDS spread
+- Complete markets and replication
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
+- credit derivative
+- protection buyer
+- protection seller
+- transfer credit risk
 ---
+
 
 # Credit Default Swaps
 

@@ -1,3 +1,42 @@
+---
+key_concepts:
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Part II Introduction and financial analysis
+- Part II Introduction in modern finance
+- Applications of Part II Introduction
+- 'Case study: Part II Introduction'
+tags:
+- maturity
+- credit
+- bonds
+- futures
+- yield
+- fixed-income
+- bond
+- var
+- basis
+- liquidity
+- trading
+- risk
+- coupon
+- risk-management
+- duration
+---
+
 # The Nature and Variety of Financial Intermediation  
 
 “Don’t it always seem to go that you don’t know what you’ve got ‘til it’s gone?”  

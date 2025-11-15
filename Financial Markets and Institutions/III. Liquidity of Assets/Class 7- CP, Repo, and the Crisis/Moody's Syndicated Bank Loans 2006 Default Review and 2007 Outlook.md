@@ -1,25 +1,177 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: 'Syndicated Bank Loans: 2006 Default Review and 2007 Outlook'
 title: Moody's Syndicated Bank Loans 2006 Default Review and 2007 Outlook
 tags:
-  - default_rates
-  - loan_defaults
-  - moodys_ratings
-  - recovery_rates
-  - speculative_grade
+- alm
+- apt
+- artificial-intelligence
+- auto-loans
+- banking
+- bond-pricing
+- credit
+- credit-derivatives
+- default_rates
+- defi
+- dva
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- interest-rate-derivatives
+- interest-rate-swap
+- irs
+- ito-calculus
+- liquidity-risk
+- loan_defaults
+- ma
+- markets
+- moodys_ratings
+- option-greeks
+- options
+- options-pricing
+- recovery-rate
+- recovery_rates
+- risk-management
+- speculative_grade
+- stochastic
+- value-at-risk
+- var
+- yield-curve
+- yield-spreads
 aliases:
-  - 2006 Default Review
-  - 2007 Outlook
-  - Moody's Default Review
+- 2006 Default Review
+- 2007 Outlook
+- Moody's Default Review
 key_concepts:
-  - bond default rates
-  - economic growth impact
-  - loan default volume
-  - recovery rate decline
-  - speculative grade default
+- Agricultural futures and seasonality
+- Alternative investments and hedge fund strategies
+- American vs European options and early exercise features
+- Arbitrage Pricing Theory (APT) and factor models
+- Arbitrage pricing theory (APT)
+- Asset swaps and spread-lock strategies
+- Bank asset-liability management (ALM) strategies
+- Bank capital adequacy and Basel III compliance
+- Bank stress testing and CCAR requirements
+- Barrier options and knock-in/knock-out structures
+- Basel III capital requirements and risk metrics
+- Basis swaps and cross-currency basis adjustments
+- Basis swaps and floating rate correlations
+- Behavioral finance and market anomalies
+- Best execution and regulatory requirements
+- Bid-ask spreads and market making profitability
+- Binomial option pricing model with multi-period trees
+- Black-Litterman model and portfolio optimization
+- Black-Scholes option pricing model and its applications
+- Bond portfolio immunization strategies
+- CDO structuring and tranche allocation methodologies
+- CDO-squared structures and correlation trading
+- CDS spread curves and hazard rate modeling
+- Calendar spreads and roll strategies
+- Capital Asset Pricing Model (CAPM) and beta estimation
+- Capital expenditure planning and depreciation
+- Central bank digital currencies (CBDCs)
+- Central clearing and CCP risk management
+- Commodity futures and convenience yields
+- Commodity swaps and energy derivatives
+- Corporate bond pricing and credit spread decomposition
+- Crack spreads in energy markets
+- Credit default swaps and credit protection mechanisms
+- Credit risk assessment and loan pricing
+- Credit valuation adjustment (CVA) and counterparty risk
+- Cryptocurrency valuation and blockchain technology
+- Currency swaps and cross-currency basis
+- Dark pools and alternative trading venues
+- DeFi protocols and decentralized finance
+- Delta hedging and Greeks calculation
+- Deposit insurance and systemic risk
+- Dividend discount model (DDM) applications
+- Duration and convexity for bond price sensitivity
+- ESG investing and sustainability metrics
+- Enterprise value and equity value relationships
+- Equity swaps and total return swaps
+- Exotic derivatives and path-dependent options
+- Expected Shortfall (ES) and coherent risk measures
+- FX futures and currency hedging
+- Fama-French three-factor and five-factor models
+- Fintech disruption and digital banking
+- Forward contract pricing and cost of carry
+- GARCH models for volatility forecasting
+- Gamma trading and convexity adjustments
+- Green bonds and climate risk assessment
+- HJM and forward rate model frameworks
+- High frequency trading and algorithmic strategies
+- Historical simulation and parametric VaR approaches
+- Hull-White and Black-Karasinski short rate models
+- IPO pricing and underpricing analysis
+- Implied volatility and volatility surface modeling
+- Inflation-linked swaps and CPI adjustments
+- Interest rate derivatives and forward rate agreements
+- Interest rate models and term structure
+- Interest rate swaps and swap spread decomposition
+- Ito's Lemma and stochastic calculus
+- Key rate duration and curve risk decomposition
+- Liquidity coverage ratio and funding strategies
+- Liquidity-adjusted VaR and liquidity horizons
+- Margin requirements and collateral optimization
+- Market impact and transaction cost analysis
+- Mean reversion in interest rate processes
+- Mergers and acquisitions due diligence
+- Metal futures and industrial commodities
+- Model backtesting and validation procedures
+- Momentum and reversal investment strategies
+- Mortgage-backed securities and prepayment modeling
+- Multi-factor interest rate models
+- Negative interest rates and floor/cap structures
+- Net interest margin and banking profitability
+- Netting agreements and close-out procedures
+- Non-deliverable forwards and emerging market instruments
+- OIS discounting and collateralized interest rate derivatives
+- Option-adjusted spread (OAS) analysis
+- Options on futures and forward-starting options
+- Payment systems and settlement risk
+- Prime brokerage and securities lending
+- Private credit and direct lending
+- Project finance and syndicated lending
+- Recovery rate modeling and loss given default
+- Repo markets and securities lending
+- Risk factor decomposition and sensitivity analysis
+- Risk parity and risk budgeting strategies
+- Shadow banking and non-bank intermediation
+- Smart beta and alternative indexing approaches
+- Spot rates, forward rates, and discount factor curves
+- Stochastic volatility in interest rate markets
+- Stress testing and scenario analysis frameworks
+- Swaptions and interest rate option pricing
+- Swaptions and option volatility surfaces
+- Synthetic CDOs and credit-linked note structures
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho sensitivity analysis'
+- Too-big-to-fail policies and resolution regimes
+- Treasury futures and bond basis
+- Treasury securities and government bond markets
+- VIX futures and volatility trading
+- Value at Risk (VaR) and expected shortfall methodologies
+- Value at Risk (VaR) and risk metrics
+- Value vs growth investing frameworks
+- Vasicek and CIR interest rate models
+- Volatility smile and skew patterns in option markets
+- Weighted average cost of capital (WACC) calculations
+- Working capital and cash conversion cycle
+- Wrong-way risk and correlation adjustments
+- Yield curve construction and term structure modeling
+- Zero-coupon bond pricing and bootstrapping
+- bond default rates
+- economic growth impact
+- loan default volume
+- recovery rate decline
+- speculative grade default
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch04-601362
 ---
+
+
+
 
 Syndicated Loans
 

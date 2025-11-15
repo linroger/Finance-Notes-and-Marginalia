@@ -1,24 +1,48 @@
 ---
-cssclasses:
-  - academia
 Owner: RRoger Lin
-title: Note on the Leveraged Loan Market
-tags:
-  - credit_market
-  - financial_analysis
-  - institutional_investors
-  - lbo_financing
-  - leveraged_loan
 aliases:
-  - LBO Financing
-  - Leveraged Loan Market
-  - Loan Market
+- LBO Financing
+- Leveraged Loan Market
+- Loan Market
+cssclasses:
+- academia
 key_concepts:
-  - financing for corporate transactions
-  - institutional investor base
-  - key market concepts
-  - leveraged loan definition
-  - loan market contraction
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Note on the Leveraged Loan Market and financial analysis
+- Note on the Leveraged Loan Market in modern finance
+- Applications of Note on the Leveraged Loan Market
+- 'Case study: Note on the Leveraged Loan Market'
+tags:
+- maturity
+- securitization
+- options
+- bonds
+- put
+- yield
+- mbs
+- subprime
+- fixed-income
+- bond
+- trading
+- liquidity
+- spread
+- call
+- corporate-bond
+title: Note on the Leveraged Loan Market
 ---
 
 # Note on the Leveraged Loan Market

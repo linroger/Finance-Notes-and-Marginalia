@@ -1,22 +1,38 @@
 ---
 tags:
-  - asset_swap
-  - bond_spreads
-  - credit_risk
-  - relative_value
-  - swap_spread
-  - treasury_spread
+- arbitrage
+- asset_swap
+- bond_spreads
+- credit
+- credit-derivatives
+- credit_risk
+- fixed-income
+- fixed-income-derivatives
+- interest-rate-derivatives
+- markets
+- options
+- options-pricing
+- relative_value
+- swap_spread
+- treasury_spread
 aliases:
-  - Cash-CDS spread
-  - I-spread
-  - Z-spread
+- Cash-CDS spread
+- I-spread
+- Z-spread
 key_concepts:
-  - Asset swap spread
-  - Credit risk assessment
-  - Relative value of bonds
-  - Swap spread calculation
-  - Yield spread measurement
+- Arbitrage pricing theory (APT)
+- Asset swap spread
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Credit risk assessment
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Relative value of bonds
+- Swap spread calculation
+- Yield spread measurement
 ---
+
 
 # Relative value analysis
  

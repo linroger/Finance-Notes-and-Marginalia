@@ -1,31 +1,24 @@
 ---
-cssclasses:
-  - academia
-title: Week 1 Advanced Financial Analysis and Valuation
-tags:
-  - advanced_financial_analysis
-  - dcf_valuation
-  - financial_analysis
-  - valuation
-  - week_1
-  - corporate_finance
-  - financial_modeling
 aliases:
-  - Advanced Valuation
-  - Week 1
-  - Week 1 AFAV
+- Advanced Valuation
+- Week 1
+- Week 1 AFAV
+cssclasses:
+- academia
 key_concepts:
-  - Advanced financial modeling techniques
-  - Business model analysis and valuation implications
-  - Competitive advantage assessment in valuation
-  - DCF methodology and implementation
-  - Enterprise vs. equity valuation approaches
-  - Financial analysis metrics and frameworks
-  - Free cash flow determination and forecasting
-  - Market efficiency considerations in analysis
-  - ROIC vs. WACC comparison in value creation
-  - Terminal value calculation methods
-  - Valuation approaches for different company types
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Week 1 Advanced Financial Analysis and Valuation and financial analysis
+- Week 1 Advanced Financial Analysis and Valuation in modern finance
+- Applications of Week 1 Advanced Financial Analysis and Valuation
+- 'Case study: Week 1 Advanced Financial Analysis and Valuation'
+- Financial markets and institutions
+tags:
+- ratio
+- valuation
+- market-efficiency
+title: Week 1 Advanced Financial Analysis and Valuation
 ---
 
 # Week 1 Advanced Financial Analysis and Valuation

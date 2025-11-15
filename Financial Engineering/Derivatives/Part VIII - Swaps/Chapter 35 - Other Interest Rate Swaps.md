@@ -1,21 +1,45 @@
 ---
-tags:
-  - basis_swaps
-  - interest_rate_swaps
-  - swap_hedging
-  - variable_rate_swaps
-  - zero_coupon_swaps
 aliases:
-  - floating-floating swap
-  - non-standard swaps
-  - spread-to-LIBOR swap
-  - yield curve swap
+- floating-floating swap
+- non-standard swaps
+- spread-to-LIBOR swap
+- yield curve swap
 key_concepts:
-  - floating rate interest payments
-  - hedge credit risk
-  - price non-standard swaps
-  - swap dealers hedge
-  - value interest rate swaps
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Chapter 35 - Other Interest Rate Swaps and financial analysis
+- Chapter 35 - Other Interest Rate Swaps in modern finance
+- Applications of Chapter 35 - Other Interest Rate Swaps
+- 'Case study: Chapter 35 - Other Interest Rate Swaps'
+tags:
+- options
+- yield-curve
+- roll
+- swaption
+- futures
+- put
+- basis
+- gamma
+- interest-rate
+- libor
+- maturity
+- forward
+- swaps
+- bond
+- coupon
 ---
 # Other Interest Rate Swaps  
 

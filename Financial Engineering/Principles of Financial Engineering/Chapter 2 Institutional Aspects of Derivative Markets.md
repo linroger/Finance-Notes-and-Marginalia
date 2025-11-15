@@ -1,22 +1,53 @@
 ---
 title: Institutional Aspects of Derivative Markets
 tags:
-  - clearing_houses
-  - derivatives_markets
-  - euromarkets
-  - futures_exchanges
-  - market_conventions
+- arbitrage
+- clearing_houses
+- credit
+- credit-derivatives
+- derivatives_markets
+- equity-derivatives
+- euromarkets
+- fixed-income
+- fixed-income-derivatives
+- futures_exchanges
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- ito-calculus
+- market_conventions
+- markets
+- option-greeks
+- options
+- options-pricing
+- risk-management
+- stochastic
 aliases:
-  - Derivative Market Infrastructure
-  - Institutional Aspects
+- Derivative Market Infrastructure
+- Institutional Aspects
 key_concepts:
-  - Clearing and settlement
-  - Euromarkets structure
-  - Futures vs forwards
-  - Market participants
-  - Trading conventions
+- Arbitrage pricing theory (APT)
+- Clearing and settlement
+- Complete markets and replication
+- Credit default swaps (CDS) pricing
+- Delta hedging and Greeks calculation
+- Euromarkets structure
+- Expected Shortfall (ES) and coherent risk measures
+- Futures vs forwards
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Market participants
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Put-call parity and option relationships
+- Trading conventions
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 cssclasses: academia
 ---
+
 
 # INSTITUTIONAL ASPECTS OF DERIVATIVE MARKETS  
 

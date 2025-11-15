@@ -1,33 +1,48 @@
 ---
-title: Week 4 ESOs and Valuation
+aliases:
+- Employee Stock Options Valuation
+- ESO Analysis
+- Stock-Based Compensation
 cssclasses:
-  - academia
+- academia
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Black-Scholes-Merton option pricing model
+- Greeks calculation and interpretation
+- Volatility surface and smile
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Week 4 ESOs and Valuation and financial analysis
+- Week 4 ESOs and Valuation in modern finance
+- Applications of Week 4 ESOs and Valuation
+- 'Case study: Week 4 ESOs and Valuation'
 linter-yaml-title-alias: Week 4 ESOs and Valuation
 tags:
-  - accounting_for_esos
-  - equity_compensation
-  - employee_stock_options
-  - stock_options
-  - valuation
-  - option_dilution
-  - executive_compensation
-aliases:
-  - Employee Stock Options Valuation
-  - ESO Analysis
-  - Stock-Based Compensation
-key_concepts:
-  - Accounting for stock compensation
-  - Cash-equivalent cost of grants
-  - ESOs align management interests
-  - Employee stock options impact valuation
-  - High-growth firms use ESOs
-  - Stock-based compensation at Google
-  - Valuation of compensation tricky
-  - Option dilution effects
-  - Black-Scholes valuation
-  - Treasury stock method
-  - Vesting periods
-  - Exercise behavior
+- options
+- bonds
+- put
+- option-pricing
+- strike
+- bond
+- black-scholes
+- fixed-income
+- valuation
+- treasury
+- risk
+- pricing
+- accounting
+- volatility
+- fair-value
+title: Week 4 ESOs and Valuation
 ---
 
 # Week 4 ESOs and Valuation

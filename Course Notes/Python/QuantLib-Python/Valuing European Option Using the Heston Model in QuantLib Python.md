@@ -1,24 +1,48 @@
 ---
-title: Valuing European Option Using the Heston Model in QuantLib Python
-source: 
-  https://gouthamanbalaraman.com/blog/valuing-european-option-heston-model-quantLib.html
+aliases:
+- Heston Option Pricing
+- QuantLib Heston
 description: Introduces an example on how to value European options using Heston model
   in Quantlib Python
-tags:
-  - aapl_option
-  - european_option
-  - heston_model
-  - quantlib_python
-  - stochastic_volatility
-aliases:
-  - Heston Option Pricing
-  - QuantLib Heston
 key_concepts:
-  - Black-Scholes comparison
-  - European option valuation
-  - Heston model
-  - QuantLib Python example
-  - Stochastic volatility
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Black-Scholes-Merton option pricing model
+- Greeks calculation and interpretation
+- Volatility surface and smile
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Monte Carlo simulation methods
+- Stochastic processes in finance
+- Path-dependent derivatives pricing
+- Valuing European Option Using the Heston Model in QuantLib Python and financial
+  analysis
+- Valuing European Option Using the Heston Model in QuantLib Python in modern finance
+- Applications of Valuing European Option Using the Heston Model in QuantLib Python
+- 'Case study: Valuing European Option Using the Heston Model in QuantLib Python'
+source: https://gouthamanbalaraman.com/blog/valuing-european-option-heston-model-quantLib.html
+tags:
+- maturity
+- bsm
+- stochastic
+- options
+- bonds
+- put
+- yield
+- theta
+- strike
+- var
+- black-scholes
+- monte-carlo
+- call
+- risk
+- risk-management
+title: Valuing European Option Using the Heston Model in QuantLib Python
 ---
 
 # Valuing European Option Using the Heston Model in QuantLib Python

@@ -1,31 +1,90 @@
 ---
-cssclasses:
-  - academia
-title: "Class Note 6: Restructuring Public Debt Out of Bankruptcy - Exchange Offers"
-tags:
-  - bankruptcy
-  - coercive_exchange
-  - exchange_offers
-  - federal_trust_act
-  - public_debt
-  - junior_securities
-  - senior_securities
-  - holdout_problem
 aliases:
-  - Bankruptcy Exchange
-  - Debt Restructuring
-  - Note 6
-  - Exchange Offers
+- Bankruptcy Exchange
+- Debt Restructuring
+- Note 6
+- Exchange Offers
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-11d873
 key_concepts:
-  - Bankruptcy exchange offers
-  - Coercive exchange offers
-  - Junior securities failure
-  - Public debt restructuring
-  - Tendering vs holding out
-  - Senior vs junior securities
-  - Trust Indenture Act
-  - Collective action problems
+- Bankruptcy exchange offers
+- Capital markets and securities trading
+- Case Study
+- Coercive exchange offers
+- Collective action problems
+- Corporate finance and business valuation
+- Course Material
+- Credit analysis and default forecasting
+- Credit risk and default probability
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks calculation
+- Distressed Debt
+- Expected Shortfall (ES) and coherent risk measures
+- Financial instruments and their characteristics
+- Financial markets and institutional structures
+- Fixed-for-floating swap cash flows and valuation
+- Hedging strategies and risk mitigation
+- Interest rate models and term structure
+- Interest rate swap pricing and valuation
+- Interest rate swaps and swap pricing
+- Investment analysis and due diligence processes
+- Junior securities failure
+- Liquidity provision and market making
+- Macroeconomic factors and market correlations
+- Market dynamics and price discovery mechanisms
+- Pairs trading and statistical arbitrage strategies
+- Portfolio optimization and mean-variance theory
+- Public debt restructuring
+- Quantitative Implementation
+- Quantitative analysis and mathematical modeling
+- Regulatory frameworks and compliance requirements
+- Risk management and portfolio optimization
+- Senior vs junior securities
+- Solution
+- Swap spread and credit risk considerations
+- Systemic risk and financial stability
+- Tendering vs holding out
+- Trust Indenture Act
+- Valuation methodologies and price multiples
+- Value at Risk (VaR) and risk metrics
+- Variance swaps and volatility trading strategies
+tags:
+- arbitrage
+- bankruptcy
+- case-study
+- coercive_exchange
+- course-material
+- credit
+- credit-derivatives
+- distressed-debt
+- exchange_offers
+- federal_trust_act
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- holdout_problem
+- interest-rate-derivatives
+- interest-rate-swaps
+- junior_securities
+- markets
+- mathematics
+- microeconomics
+- optimization
+- options
+- options-pricing
+- pairs-trading
+- public_debt
+- quantitative-implementation
+- risk-management
+- senior_securities
+- solution
+- statistics
+title: 'Class Note 6: Restructuring Public Debt Out of Bankruptcy - Exchange Offers'
 ---
+
 
 # Class Note 6: Restructuring Public Debt Out of Bankruptcy - Exchange Offers
 

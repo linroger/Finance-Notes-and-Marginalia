@@ -1,39 +1,59 @@
 ---
 tags:
-  - annuities
-  - bond_valuation
-  - duration_convexity
-  - financial_instruments
-  - financial_mathematics
-  - interest_rates
-  - term_structure
-  - actuarial_science
-  - present_value
-  - future_value
+- actuarial_science
+- annuities
+- bond_valuation
+- credit
+- credit-derivatives
+- duration_convexity
+- equity-derivatives
+- financial_instruments
+- financial_mathematics
+- fixed-income
+- fixed-income-derivatives
+- future_value
+- interest-rate-derivatives
+- interest_rates
+- ito-calculus
+- markets
+- option-greeks
+- options
+- options-pricing
+- present_value
+- risk-management
+- stochastic
+- term_structure
 aliases:
-  - Actuarial Guide
-  - Business Professionals
-  - Financial Math
-  - Financial Mathematics
-  - Time Value of Money
+- Actuarial Guide
+- Business Professionals
+- Financial Math
+- Financial Mathematics
+- Time Value of Money
 key_concepts:
-  - Bond valuation
-  - Duration, convexity, immunization
-  - Financial instruments
-  - Interest rates and factors
-  - Level annuities
-  - Project appraisal and loans
-  - Varying annuities
-  - Amortization and sinking fund methods
-  - Term structure of interest rates
-  - Annuity-immediate and annuity-due
-  - Continuously payable annuities
-  - Perpetuities
-  - Equations of value
-  - Deferred annuities
-  - Varying force of interest
+- Amortization and sinking fund methods
+- Annuity-immediate and annuity-due
+- Bond valuation
+- Continuously payable annuities
+- Deferred annuities
+- Delta hedging and Greeks calculation
+- Duration, convexity, immunization
+- Equations of value
+- Expected Shortfall (ES) and coherent risk measures
+- Financial instruments
+- Interest rate models and term structure
+- Interest rates and factors
+- Ito's Lemma and stochastic calculus
+- Level annuities
+- Perpetuities
+- Portfolio optimization and mean-variance theory
+- Project appraisal and loans
+- Term structure of interest rates
+- Value at Risk (VaR) and risk metrics
+- Varying annuities
+- Varying force of interest
 cssclasses: academia
 ---
+
 
 # Financial Mathematics: A Practical Guide for Actuaries and other Business Professionals
 

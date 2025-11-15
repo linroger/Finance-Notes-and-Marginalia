@@ -1,33 +1,95 @@
 ---
-cssclasses:
-  - academia
-title: "Class Slide 4: Restructuring Debt Outside Bankruptcy"
-tags:
-  - bank_debt
-  - bankruptcy
-  - negative_pledge
-  - public_debt
-  - renegotiation
-  - debt_restructuring
-  - senior_debt
-  - junior_debt
-  - holdout_problem
 aliases:
-  - Bank vs. Public Debt
-  - Debt Renegotiation
-  - Debt Restructuring
-  - Class Slide 4
+- Bank vs. Public Debt
+- Debt Renegotiation
+- Debt Restructuring
+- Class Slide 4
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-bf4512
 key_concepts:
-  - Bank concessions and bankruptcy
-  - Bank debt seniority
-  - Negative pledge covenant
-  - Public debt vs bank debt
-  - Restructuring debt outside bankruptcy
-  - Senior vs junior debt priority
-  - Holdout problem
-  - Coercive exchange offers
-  - Exit consent votes
+- Bank concessions and bankruptcy
+- Bank debt seniority
+- Capital markets and securities trading
+- Case Study
+- Coercive exchange offers
+- Corporate Bonds
+- Corporate finance and business valuation
+- Course Material
+- Credit analysis and default forecasting
+- Credit risk and default probability
+- Cross-currency basis swaps and funding
+- Deleveraging cycles and balance sheet restructuring
+- Delta hedging and Greeks calculation
+- Distressed Debt
+- Exit consent votes
+- Expected Shortfall (ES) and coherent risk measures
+- Financial instruments and their characteristics
+- Financial markets and institutional structures
+- Fixed-for-floating swap cash flows and valuation
+- Hedging strategies and risk mitigation
+- High Yield Bonds
+- Holdout problem
+- Interest rate models and term structure
+- Interest rate swap pricing and valuation
+- Interest rate swaps and swap pricing
+- Investment analysis and due diligence processes
+- Liquidity provision and market making
+- Macroeconomic factors and market correlations
+- Market dynamics and price discovery mechanisms
+- Negative pledge covenant
+- Portfolio optimization and mean-variance theory
+- Public debt vs bank debt
+- Quantitative Implementation
+- Quantitative analysis and mathematical modeling
+- Regulatory frameworks and compliance requirements
+- Restructuring debt outside bankruptcy
+- Risk management and portfolio optimization
+- Senior vs junior debt priority
+- Solution
+- Swap spread and credit risk considerations
+- Systemic risk and financial stability
+- Valuation methodologies and price multiples
+- Value at Risk (VaR) and risk metrics
+- Variance swaps and volatility trading strategies
+tags:
+- bank_debt
+- bankruptcy
+- case-study
+- corporate-bonds
+- course-material
+- credit
+- credit-derivatives
+- debt_restructuring
+- deleveraging
+- distressed-debt
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- high-yield-bonds
+- holdout_problem
+- interest-rate-derivatives
+- interest-rate-swaps
+- junior_debt
+- markets
+- mathematics
+- microeconomics
+- negative_pledge
+- optimization
+- options
+- options-pricing
+- public_debt
+- quantitative-implementation
+- renegotiation
+- risk-management
+- senior_debt
+- solution
+- statistics
+title: 'Class Slide 4: Restructuring Debt Outside Bankruptcy'
 ---
+
 
 # Class Slide 4: Restructuring Debt Outside Bankruptcy
 

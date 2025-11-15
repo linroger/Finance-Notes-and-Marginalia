@@ -1,20 +1,43 @@
 ---
-tags:
-  - arbitrage
-  - cme_group
-  - hedging
-  - index_futures
-  - stock_index
 aliases:
-  - SIF
-  - futures contracts
+- SIF
+- futures contracts
 key_concepts:
-  - contract specification
-  - diversified portfolio
-  - index arbitrage
-  - market risk
-  - program trading
-  - settlement procedures
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Chapter 5 - Index Futures and financial analysis
+- Chapter 5 - Index Futures in modern finance
+- Applications of Chapter 5 - Index Futures
+- 'Case study: Chapter 5 - Index Futures'
+tags:
+- credit
+- forward
+- futures
+- alpha
+- portfolio
+- hedging
+- basis
+- var
+- no-arbitrage
+- arbitrage
+- portfolio-optimization
+- beta
+- hedge-ratio
+- risk-management
+- market-efficiency
 ---
 # Index Futures  
 

@@ -1,34 +1,47 @@
 ---
-title: PSET 6 - Evaluating Bank Balance Sheets and Loan Portfolios
-tags:
-  - bank_balance_sheets
-  - citigroup
-  - financial_analysis
-  - loan_portfolios
-  - regulatory_capital
-  - tier_1_capital
-  - leveraged_loans
-  - risk_weighted_assets
-  - basel_requirements
-  - capital_ratios
-  - blackstone
-  - credit_risk
-  - banking_crisis
-cssclasses:
-  - academia
 aliases:
-  - Blackstone Case
-  - Citigroup Case
-  - PSET 6
+- Blackstone Case
+- Citigroup Case
+- PSET 6
+cssclasses:
+- academia
 key_concepts:
-  - Citigroup balance sheet items: Analysis of major asset and liability line items including loans, deposits, and trading assets
-  - Citigroup income statement items: Focus on net interest income, provision for credit losses, and operating expenses
-  - Run on the bank: Understanding deposit flight and the liquidity crisis scenario for banks
-  - Tier 1 Capital ratio: Core capital adequacy measure (Tier 1 Capital/Risk-Weighted Assets)
-  - US regulatory capital ratios: Basel I requirements including 4% minimum and 6% well-capitalized threshold
-  - Risk-weighted assets: Assets adjusted for credit risk according to regulatory weights
-  - Leveraged loans: High-yield corporate loans typically used in LBOs
-  - Portfolio sales: Structured transactions to reduce risk exposure and improve capital ratios
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios and financial analysis
+- PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios in modern finance
+- Applications of PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios
+- 'Case study: PSET 6- Evaluating Bank Balance Sheets and Loan Portfolios'
+tags:
+- credit
+- income statement
+- credit-risk
+- collateral
+- default
+- discount
+- recovery
+- default-probability
+- bankruptcy
+- portfolio
+- cds
+- trading
+- liquidity
+- spread
+- portfolio-optimization
+title: PSET 6 - Evaluating Bank Balance Sheets and Loan Portfolios
 ---
 
 # PSET 6 - Evaluating Bank Balance Sheets and Loan Portfolios

@@ -1,21 +1,48 @@
 ---
-title: Appendix 22. C Risk-Neutral Pricing and Marginal Utility in the Binomial Model
-tags:
-  - binomial_model
-  - marginal_utility
-  - risk_averse
-  - risk_neutral_pricing
-  - stochastic_discount_factor
 aliases:
-  - Binomial Pricing
-  - Risk-Neutral Valuation
+- Binomial Pricing
+- Risk-Neutral Valuation
 key_concepts:
-  - Marginal utility of consumption
-  - Physical probabilities valuation
-  - Risk-neutral binomial pricing
-  - Risk-neutral probabilities
-  - Risky stock and bond
-  - Stochastic discount factors
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Monte Carlo simulation methods
+- Stochastic processes in finance
+- Path-dependent derivatives pricing
+- Appendix 22.C Risk-Neutral Pricing and Marginal Utility in the Binomial Model and
+  financial analysis
+- Appendix 22.C Risk-Neutral Pricing and Marginal Utility in the Binomial Model in
+  modern finance
+- Applications of Appendix 22.C Risk-Neutral Pricing and Marginal Utility in the Binomial
+  Model
+- 'Case study: Appendix 22.C Risk-Neutral Pricing and Marginal Utility in the Binomial
+  Model'
+tags:
+- stochastic
+- discount
+- options
+- bonds
+- put
+- fixed-income
+- bond
+- var
+- monte-carlo
+- call
+- risk
+- ratio
+- pricing
+- valuation
+- risk-management
+title: Appendix 22. C Risk-Neutral Pricing and Marginal Utility in the Binomial Model
 ---
 
 # Appendix 22. C Risk-Neutral Pricing and Marginal Utility in the Binomial Model

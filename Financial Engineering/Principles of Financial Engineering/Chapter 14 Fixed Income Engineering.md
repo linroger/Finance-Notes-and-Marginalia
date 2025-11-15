@@ -1,9 +1,51 @@
 ---
-title: "Fixed Income Engineering"
+title: Fixed Income Engineering
 chapter: 14
-subject: "Financial Engineering"
-category: "Principles of Financial Engineering"
+subject: Financial Engineering
+category: Principles of Financial Engineering
+tags:
+- arbitrage
+- credit
+- credit-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- girsanov-theorem
+- hedging-strategies
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- martingale-theory
+- model-calibration
+- monte-carlo-simulation
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- stochastic
+key_concepts:
+- Arbitrage pricing theory (APT)
+- Brownian motion and Wiener processes
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Girsanov's theorem and measure changes
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Model calibration and parameter estimation
+- Monte Carlo simulation for derivatives
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 
 # FIXED INCOME ENGINEERING  
 

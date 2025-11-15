@@ -1,38 +1,176 @@
 ---
 tags:
-  - arbitrage
-  - asset_pricing
-  - continuous_time
-  - dividend
-  - expected_return
-  - one_period_economy
-  - portfolio
-  - redundant_assets
-  - risk_free_asset
-  - sharpe_ratio
-  - state_price_deflator
-  - state_price_vector
+- abs
+- apt
+- arbitrage
+- artificial-intelligence
+- asset_pricing
+- binomial-model
+- bond-pricing
+- continuous_time
+- defi
+- dividend
+- expected_return
+- fixed-income
+- fixed-income-derivatives
+- interest-rate-derivatives
+- interest-rate-swap
+- irs
+- ma
+- markets
+- one_period_economy
+- options
+- portfolio
+- quantitative-pricing
+- redundant_assets
+- resolution
+- risk-management
+- risk_free_asset
+- sharpe-ratio
+- sharpe_ratio
+- state_price_deflator
+- state_price_vector
+- stochastic
+- transaction-costs
+- value-at-risk
+- var
+- yield-curve
 aliases:
-  - Exercise 4.1
-  - Exercise 4.2
-  - Exercise 4.3
-  - Exercise 4.4
-  - Exercise 4.5
-  - Exercise 4.6
-  - Exercise 4.7
-  - Exercise 4.8
+- Exercise 4.1
+- Exercise 4.2
+- Exercise 4.3
+- Exercise 4.4
+- Exercise 4.5
+- Exercise 4.6
+- Exercise 4.7
+- Exercise 4.8
 key_concepts:
-  - Absence of arbitrage
-  - Continuous-time framework
-  - Dividend payments
-  - Expected return calculation
-  - Maximal Sharpe ratio
-  - One-period economy
-  - Portfolio construction
-  - Redundant assets
-  - Risk-free asset pricing
-  - State-price deflator
+- Absence of arbitrage
+- Agricultural futures and seasonality
+- Alternative investments and hedge fund strategies
+- Arbitrage Pricing Theory (APT) and factor models
+- Arbitrage pricing theory (APT)
+- Asset swaps and spread-lock strategies
+- Barrier options and knock-in/knock-out structures
+- Basis swaps and cross-currency basis adjustments
+- Basis swaps and floating rate correlations
+- Behavioral finance and market anomalies
+- Best execution and regulatory requirements
+- Bid-ask spreads and market making profitability
+- Binomial option pricing model with multi-period trees
+- Binomial tree models for option pricing
+- Black-Litterman model and portfolio optimization
+- Black-Scholes option pricing model and its applications
+- Bond portfolio immunization strategies
+- Brownian motion and Wiener processes
+- CDO structuring and tranche allocation methodologies
+- CDO-squared structures and correlation trading
+- Calendar spreads and roll strategies
+- Capital Asset Pricing Model (CAPM) and beta estimation
+- Central clearing and CCP risk management
+- Commodity futures and convenience yields
+- Commodity swaps and energy derivatives
+- Constant maturity swaps and roll-over features
+- Continuous-time framework
+- Corporate bond pricing and credit spread decomposition
+- Crack spreads in energy markets
+- Credit risk assessment and loan pricing
+- Cryptocurrency valuation and blockchain technology
+- Currency swaps and cross-currency basis
+- Dark pools and alternative trading venues
+- DeFi protocols and decentralized finance
+- Deposit insurance and systemic risk
+- Dividend discount model (DDM) applications
+- Dividend payments
+- Duration and convexity for bond price sensitivity
+- ESG investing and sustainability metrics
+- Enterprise value and equity value relationships
+- Equity swaps and total return swaps
+- Exotic derivatives and path-dependent options
+- Expected Shortfall (ES) and coherent risk measures
+- Expected return calculation
+- Extreme value theory and tail risk modeling
+- FX futures and currency hedging
+- Fama-French three-factor and five-factor models
+- Fintech disruption and digital banking
+- Forward contract pricing and cost of carry
+- GARCH models for volatility forecasting
+- Gamma trading and convexity adjustments
+- Green bonds and climate risk assessment
+- HJM and forward rate model frameworks
+- Historical simulation and parametric VaR approaches
+- Hull-White and Black-Karasinski short rate models
+- IPO pricing and underpricing analysis
+- Implied volatility and volatility surface modeling
+- Inflation-linked swaps and CPI adjustments
+- Interest rate derivatives and forward rate agreements
+- Interest rate models and term structure
+- Interest rate swaps and swap spread decomposition
+- Key rate duration and curve risk decomposition
+- Liquidity coverage ratio and funding strategies
+- Liquidity-adjusted VaR and liquidity horizons
+- Margin requirements and collateral optimization
+- Market impact and transaction cost analysis
+- Maximal Sharpe ratio
+- Mean reversion in interest rate processes
+- Mergers and acquisitions due diligence
+- Metal futures and industrial commodities
+- Model backtesting and validation procedures
+- Modern portfolio theory and efficient frontier
+- Momentum and reversal investment strategies
+- Mortgage-backed securities and prepayment modeling
+- Multi-factor interest rate models
+- Negative interest rates and floor/cap structures
+- Net interest margin and banking profitability
+- Netting agreements and close-out procedures
+- Non-deliverable forwards and emerging market instruments
+- OIS discounting and collateralized interest rate derivatives
+- One-period economy
+- Options on futures and forward-starting options
+- Payment systems and settlement risk
+- Portfolio construction
+- Portfolio optimization and mean-variance theory
+- Prime brokerage and securities lending
+- Private credit and direct lending
+- Project finance and syndicated lending
+- Real estate investment trusts (REITs)
+- Recovery rate modeling and loss given default
+- Redundant assets
+- Repo markets and securities lending
+- Risk factor decomposition and sensitivity analysis
+- Risk parity and risk budgeting strategies
+- Risk-free asset pricing
+- Shadow banking and non-bank intermediation
+- Smart beta and alternative indexing approaches
+- State-price deflator
+- Stochastic volatility in interest rate markets
+- Stress testing and scenario analysis frameworks
+- Swaptions and interest rate option pricing
+- Swaptions and option volatility surfaces
+- Synthetic CDOs and credit-linked note structures
+- Terminal value modeling and exit multiples
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho sensitivity analysis'
+- Too-big-to-fail policies and resolution regimes
+- Treasury futures and bond basis
+- Treasury securities and government bond markets
+- VIX futures and volatility trading
+- Value at Risk (VaR) and expected shortfall methodologies
+- Value at Risk (VaR) and risk metrics
+- Value vs growth investing frameworks
+- Vasicek and CIR interest rate models
+- Volatility smile and skew patterns in option markets
+- Weighted average cost of capital (WACC) calculations
+- Working capital and cash conversion cycle
+- Wrong-way risk and correlation adjustments
+- Yield curve construction and term structure modeling
+- Zero-coupon bond pricing and bootstrapping
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch04-971197
 ---
+
+
+
 
 # 4.8 Exercises  
 

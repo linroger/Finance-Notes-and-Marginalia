@@ -1,31 +1,22 @@
 ---
-title: Credit Market PSETS
-cssclasses: 
-  - academia
-tags:
-  - credit_markets
-  - credit_risk
-  - market_instruments
-  - pset
-  - valuation
-  - homework
-  - quantlib
-  - problem_sets
-  - bond_pricing
-  - cds_pricing
 aliases:
-  - Credit Market Problem Sets
-  - Credit PSETS
-  - Credit Assignments
+- Credit Market Problem Sets
+- Credit PSETS
+- Credit Assignments
+cssclasses:
+- academia
 key_concepts:
-  - QuantLib analytics library usage
-  - Bond pricing and yield calculations
-  - Z-spread computation
-  - Duration and convexity analysis
-  - CDS valuation
-  - Risk-neutral pricing framework
-  - Term structure modeling
-  - Credit spread dynamics
+- Credit Market PSETS and financial analysis
+- Credit Market PSETS in modern finance
+- Applications of Credit Market PSETS
+- 'Case study: Credit Market PSETS'
+- Financial markets and institutions
+- Risk management and analysis
+- Portfolio theory and optimization
+- Derivative securities and hedging
+tags:
+- credit
+title: Credit Market PSETS
 ---
 
 # Credit Market PSETS

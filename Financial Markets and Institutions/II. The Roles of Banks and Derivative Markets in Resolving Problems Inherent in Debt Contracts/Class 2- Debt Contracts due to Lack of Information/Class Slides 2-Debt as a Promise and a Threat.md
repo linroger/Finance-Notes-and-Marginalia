@@ -1,25 +1,89 @@
 ---
-title: Class Slides 2-Debt as a Promise and a Threat
-tags:
-  - borrower_lender
-  - debt_contract
-  - financial_contract
-  - free_cash_flow
-  - liquidation
 aliases:
-  - Borrower Payoff
-  - Class 2 Slides
-  - Debt as Threat
-  - Equity Contract
+- Borrower Payoff
+- Class 2 Slides
+- Debt as Threat
+- Equity Contract
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-19aa52
 key_concepts:
-  - Borrower needs capital
-  - Debt face value
-  - Equity profit sharing
-  - Lender imposes penalty
-  - Liquidation as penalty
-  - Optimal financial contract
-  - Risk neutral parties
+- Borrower needs capital
+- Capital markets and securities trading
+- Case Study
+- Corporate finance and business valuation
+- Course Material
+- Credit analysis and default forecasting
+- Credit risk and default probability
+- Cross-currency basis swaps and funding
+- Debt face value
+- Delta hedging and Greeks calculation
+- Distressed Debt
+- Equity profit sharing
+- Expected Shortfall (ES) and coherent risk measures
+- Financial instruments and their characteristics
+- Financial markets and institutional structures
+- Fixed-for-floating swap cash flows and valuation
+- Hedging strategies and risk mitigation
+- Interest rate models and term structure
+- Interest rate swap pricing and valuation
+- Interest rate swaps and swap pricing
+- Investment analysis and due diligence processes
+- Ito's Lemma and stochastic calculus
+- Lender imposes penalty
+- Liquidation as penalty
+- Liquidity provision and market making
+- Macroeconomic factors and market correlations
+- Market dynamics and price discovery mechanisms
+- Mathematical Finance
+- Optimal financial contract
+- Portfolio optimization and mean-variance theory
+- Quantitative Implementation
+- Quantitative analysis and mathematical modeling
+- Regulatory frameworks and compliance requirements
+- Risk management and portfolio optimization
+- Risk neutral parties
+- Solution
+- Swap spread and credit risk considerations
+- Systemic risk and financial stability
+- Valuation methodologies and price multiples
+- Value at Risk (VaR) and risk metrics
+- Variance swaps and volatility trading strategies
+tags:
+- borrower_lender
+- case-study
+- course-material
+- credit
+- credit-derivatives
+- debt_contract
+- distressed-debt
+- equity-derivatives
+- equity-markets
+- financial_contract
+- fixed-income
+- fixed-income-derivatives
+- free_cash_flow
+- fx-derivatives
+- interest-rate-derivatives
+- interest-rate-swaps
+- ito-calculus
+- liquidation
+- macroeconomics
+- markets
+- mathematical-finance
+- mathematics
+- microeconomics
+- optimization
+- options
+- options-pricing
+- quantitative-implementation
+- risk-management
+- solution
+- statistics
+- stochastic
+title: Class Slides 2-Debt as a Promise and a Threat
 ---
+
 
 # Class Slides 2-Debt as a Promise and a Threat
 

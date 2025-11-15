@@ -1,21 +1,45 @@
 ---
-tags:
-  - asset_backed_securitization
-  - collateralized_debt_obligation
-  - credit_risk_transfer
-  - mortgage_backed_securitization
-  - structured_finance
 aliases:
-  - Andy Jobst
-  - IMF
-  - Primer
-  - Structured Finance
+- Andy Jobst
+- IMF
+- Primer
+- Structured Finance
 key_concepts:
-  - Asset-backed securitization
-  - Collateralized debt obligations
-  - Credit risk transfer
-  - Mortgage-backed securitization
-  - Structured finance definition
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- A Primer on Structured Finance and financial analysis
+- A Primer on Structured Finance in modern finance
+- Applications of A Primer on Structured Finance
+- 'Case study: A Primer on Structured Finance'
+tags:
+- options
+- counterparty
+- put
+- recovery
+- mbs
+- maturity
+- credit-risk
+- securitization
+- default
+- collateral
+- bond
+- coupon
+- tranche
+- duration
+- bonds
 ---
 
 # A primer on structured finance  

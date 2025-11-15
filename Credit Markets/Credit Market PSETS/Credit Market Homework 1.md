@@ -1,34 +1,48 @@
 ---
-title: Credit Market Homework 1
-cssclasses: 
-  - academia
-tags:
-  - bond_symbology
-  - credit_market_homework
-  - time_series_analysis
-  - us_treasury_bonds
-  - yield_curve
-  - credit_markets
-  - financial_instruments
-  - credit_spreads
-  - g_spreads
-  - quantlib_pricing
 aliases:
-  - Bond Symbology
-  - FINM 35700
-  - Homework 1
-  - US Treasuries
+- Bond Symbology
+- FINM 35700
+- Homework 1
+- US Treasuries
+cssclasses:
+- academia
 key_concepts:
-  - Bond symbology exploration
-  - On-the-run treasuries
-  - Time series of coupons
-  - US treasury instruments
-  - US treasury yields
-  - G-spreads calculation
-  - Credit spreads analysis
-  - Yield curve bootstrapping
-  - QuantLib bond pricing
-  - Corporate bond valuation
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Credit Market Homework 1 and financial analysis
+- Credit Market Homework 1 in modern finance
+- Applications of Credit Market Homework 1
+- 'Case study: Credit Market Homework 1'
+tags:
+- maturity
+- swap
+- swaps
+- bonds
+- yield
+- yield-curve
+- fixed-income
+- bond
+- liquidity
+- spread
+- treasury
+- interest-rates
+- corporate-bond
+- sofr
+- coupon
+title: Credit Market Homework 1
 ---
 
 # Credit Market Homework 1

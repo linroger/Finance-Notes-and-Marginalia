@@ -1,9 +1,51 @@
 ---
-title: "Chapter 21: Securitization, ABSs, CDOs, and Credit Structured Products"
-author: "Principles of Financial Engineering"
-date: "2024"
+title: 'Chapter 21: Securitization, ABSs, CDOs, and Credit Structured Products'
+author: Principles of Financial Engineering
+date: '2024'
 output: pdf_document
+tags:
+- arbitrage
+- binomial-model
+- credit
+- credit-derivatives
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- model-calibration
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- stochastic
+key_concepts:
+- Arbitrage pricing theory (APT)
+- Asian options and average price derivatives
+- Barrier options and knock-in/knock-out features
+- Basel III regulatory framework
+- Binomial tree models for option pricing
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Model calibration and parameter estimation
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Stress testing and scenario analysis
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 
 # SECURITIZATION, ABSs, CDOs, AND CREDIT STRUCTURED PRODUCTS  
 

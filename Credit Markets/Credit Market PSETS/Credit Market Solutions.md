@@ -1,32 +1,48 @@
 ---
-title: Credit Market Solutions
-cssclasses: 
-  - academia
-tags:
-  - bond_symbology
-  - credit_market_solutions
-  - government_bonds
-  - us_treasuries
-  - yield_curve
-  - credit_spreads
-  - g_spreads
-  - quantlib_analysis
-  - homework_solutions
 aliases:
-  - FINM 35700
-  - Homework 1
-  - Treasury bonds
-  - UChicago
+- FINM 35700
+- Homework 1
+- Treasury bonds
+- UChicago
+cssclasses:
+- academia
 key_concepts:
-  - Bond symbology exploration
-  - Historical coupon time series
-  - On-the-run US treasuries
-  - US treasury instruments
-  - US treasury yield curve
-  - Credit spread calculations
-  - G-spread computation
-  - Benchmark bond analysis
-  - QuantLib bond pricing
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Credit Market Solutions and financial analysis
+- Credit Market Solutions in modern finance
+- Applications of Credit Market Solutions
+- 'Case study: Credit Market Solutions'
+tags:
+- maturity
+- bonds
+- yield
+- yield-curve
+- cds
+- fixed-income
+- bond
+- credit-spread
+- liquidity
+- spread
+- treasury
+- interest-rates
+- corporate-bond
+- sofr
+- coupon
+title: Credit Market Solutions
 ---
 
 # Credit Market Solutions

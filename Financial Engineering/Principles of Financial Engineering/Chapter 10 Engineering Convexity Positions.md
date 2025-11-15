@@ -1,29 +1,65 @@
 ---
 title: Engineering Convexity Positions
 tags:
-  - convexity
-  - bond-convexity
-  - options
-  - volatility-trading
-  - gamma-trading
-  - financial-engineering
-  - delta-hedging
-  - derivative-strategies
+- arbitrage
+- black-scholes-model
+- bond-convexity
+- convexity
+- credit
+- credit-derivatives
+- delta-hedging
+- derivative-strategies
+- equity-derivatives
+- financial-engineering
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- gamma-trading
+- hedging-strategies
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- mathematics
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- stochastic
+- volatility-trading
 aliases:
-  - Chapter 10 Convexity Engineering
-  - Convexity Positions
-  - Gamma Trading Strategies
+- Chapter 10 Convexity Engineering
+- Convexity Positions
+- Gamma Trading Strategies
 key_concepts:
-  - Bond convexity
-  - Options convexity
-  - Delta-hedged portfolios
-  - Gamma trading
-  - Volatility positions
-  - Convexity value
-  - Dynamic hedging
-  - Convexity trades
+- Arbitrage pricing theory (APT)
+- Black-Scholes option pricing model
+- Bond convexity
+- Brownian motion and Wiener processes
+- Convexity trades
+- Convexity value
+- Credit default swaps (CDS) pricing
+- Delta hedging and Greeks calculation
+- Delta-hedged portfolios
+- Dynamic hedging
+- Expected Shortfall (ES) and coherent risk measures
+- Gamma trading
+- Heath-Jarrow-Morton (HJM) framework
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Numerical methods for PDEs
+- Option Greeks and sensitivity analysis
+- Options convexity
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
+- Volatility positions
 cssclasses: academia
 ---
+
 
 # ENGINEERING CONVEXITY POSITIONS  
 

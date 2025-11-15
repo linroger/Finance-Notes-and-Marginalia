@@ -1,22 +1,39 @@
 ---
-title: "Appendix 5.A Taxes and the Forward Price"
-cssclasses: academia
-tags:
-  - arbitrage
-  - derivative-pricing
-  - forward-price
-  - futures-price
-  - taxes
 aliases:
-  - Forward contract pricing
-  - Futures vs. Forwards
-  - Tax impact
+- Forward contract pricing
+- Futures vs. Forwards
+- Tax impact
+cssclasses: academia
 key_concepts:
-  - Broker-dealer tax treatment
-  - Forward vs. futures prices
-  - No-arbitrage forward price
-  - Stochastic interest rates
-  - Taxes on forward prices
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Appendix 5.A Taxes and the Forward Price and financial analysis
+- Appendix 5.A Taxes and the Forward Price in modern finance
+- Applications of Appendix 5.A Taxes and the Forward Price
+- 'Case study: Appendix 5.A Taxes and the Forward Price'
+tags:
+- forward
+- options
+- futures
+- swaps
+- dividend
+- no-arbitrage
+- delta
+- call
+- risk
+- arbitrage
+- irs
+title: Appendix 5.A Taxes and the Forward Price
 ---
 
 # Appendix 5.A Taxes and the Forward Price

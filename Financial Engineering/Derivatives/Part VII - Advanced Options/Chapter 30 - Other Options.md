@@ -1,21 +1,45 @@
 ---
-tags:
-  - black_scholes_model
-  - corporate_debt
-  - equity_collar
-  - equity_warrants
-  - options_theory
 aliases:
-  - Advanced Options
-  - Merton Model
-  - Risk Reversal
-  - Zero Cost Collar
+- Advanced Options
+- Merton Model
+- Risk Reversal
+- Zero Cost Collar
 key_concepts:
-  - Black-Scholes formula
-  - Corporate debt valuation
-  - Equity collar strategy
-  - Equity warrants explained
-  - European call option
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Chapter 30 - Other Options and financial analysis
+- Chapter 30 - Other Options in modern finance
+- Applications of Chapter 30 - Other Options
+- 'Case study: Chapter 30 - Other Options'
+tags:
+- maturity
+- credit-risk
+- options
+- bonds
+- put
+- default
+- yield
+- portfolio
+- strike
+- bond
+- fixed-income
+- cds
+- delta
+- call
+- portfolio-optimization
 ---
 # ADVANCED OPTIONS  
 

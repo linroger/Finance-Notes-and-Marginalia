@@ -1,22 +1,44 @@
 ---
-cssclasses: academia
-title: QuantLib-Python
-tags:
-  - derivative_pricing
-  - financial_modeling
-  - option_pricing
-  - python_libraries
-  - quantlib_python
 aliases:
-  - Python QuantLib
-  - QL-Python
-  - QuantLib
+- Python QuantLib
+- QL-Python
+- QuantLib
+cssclasses: academia
 key_concepts:
-  - Derivative pricing
-  - Financial library
-  - Interest rate models
-  - Python implementation
-  - Risk management
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Monte Carlo simulation methods
+- Stochastic processes in finance
+- Path-dependent derivatives pricing
+- QuantLib-Python and financial analysis
+- QuantLib-Python in modern finance
+- Applications of QuantLib-Python
+- 'Case study: QuantLib-Python'
+tags:
+- credit
+- options
+- bonds
+- simulation
+- fixed-income
+- bond
+- treasury
+- interest-rate
+- interest-rates
+- call
+- pricing
+- volatility
+- monte-carlo
+title: QuantLib-Python
 ---
 
 # QuantLib-Python

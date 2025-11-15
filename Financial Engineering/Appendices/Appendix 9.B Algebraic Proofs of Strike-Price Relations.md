@@ -1,22 +1,38 @@
 ---
-title: "Appendix 9.B Algebraic Proofs of Strike-Price Relations"
-cssclasses: academia
-tags:
-  - algebraic-proofs
-  - american-options
-  - call-premium
-  - european-options
-  - strike-price
 aliases:
-  - Call Option Premium
-  - Option Pricing Proofs
-  - Strike Price Relations
+- Call Option Premium
+- Option Pricing Proofs
+- Strike Price Relations
+cssclasses: academia
 key_concepts:
-  - American option exercise
-  - European option restriction
-  - call premium decreases
-  - convex function strike price
-  - strike price changes
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Appendix 9.B Algebraic Proofs of Strike-Price Relations and financial analysis
+- Appendix 9.B Algebraic Proofs of Strike-Price Relations in modern finance
+- Applications of Appendix 9.B Algebraic Proofs of Strike-Price Relations
+- 'Case study: Appendix 9.B Algebraic Proofs of Strike-Price Relations'
+tags:
+- strategy
+- options
+- put
+- strike
+- liquidity
+- spread
+- call
+- algorithmic-trading
+- arbitrage
+- cash flow
+title: Appendix 9.B Algebraic Proofs of Strike-Price Relations
 ---
 
 # Appendix 9.B Algebraic Proofs of Strike-Price Relations

@@ -1,26 +1,41 @@
 ---
 title: Forward Rates Agreement
 cssclasses:
-  - academia
+- academia
 tags:
-  - arbitrage
-  - forward_contracts
-  - law_of_one_price
-  - no_arbitrage
-  - spot_exchange
+- arbitrage
+- credit
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- forward_contracts
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- law_of_one_price
+- markets
+- no_arbitrage
+- options
+- options-pricing
+- spot_exchange
 aliases:
-  - arbitrage opportunity
-  - forward rate
-  - long forward
-  - short forward
-  - spot rate
+- arbitrage opportunity
+- forward rate
+- long forward
+- short forward
+- spot rate
 key_concepts:
-  - buy cheap sell dear
-  - exchange goods for money
-  - identical payoffs same price
-  - no arbitrage principle
-  - prespecified future date price
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- buy cheap sell dear
+- exchange goods for money
+- identical payoffs same price
+- no arbitrage principle
+- prespecified future date price
 ---
+
 
 Deriving Forward Exchange Rate Numerical Example 1
 

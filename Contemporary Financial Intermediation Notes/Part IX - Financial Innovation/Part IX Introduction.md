@@ -1,3 +1,20 @@
+---
+key_concepts:
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Part IX Introduction and financial analysis
+- Part IX Introduction in modern finance
+- Applications of Part IX Introduction
+- 'Case study: Part IX Introduction'
+- Financial markets and institutions
+tags:
+- credit
+- multiple
+- mbs
+- securitization
+---
+
 # The Evolution of Banks and Markets and the Role of Financial Innovation  
 
 “Finance is wholly different from the rest of the economy.”  

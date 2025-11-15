@@ -1,39 +1,48 @@
 ---
-cssclasses: academia
-title: "HBS Case Study: Westlake Chemical"
-date: 2023-10-15
-tags:
-  - westlake_chemical
-  - cyclical_industry
-  - commodity_chemicals
-  - ethylene_production
-  - pvc_manufacturing
-  - vertical_integration
-  - natural_gas_feedstock
-  - petrochemicals
-  - olefins_vinyls
-  - chemical_cycle
-  - peak_eps_estimation
-  - capacity_utilization
-  - margin_analysis
-  - commodity_pricing
-  - feedstock_volatility
 aliases:
-  - Westlake Chemical Case Study
-  - HBS Westlake Case
-  - Ethylene Value Chain Analysis
-  - Commodity Chemicals Valuation
+- Westlake Chemical Case Study
+- HBS Westlake Case
+- Ethylene Value Chain Analysis
+- Commodity Chemicals Valuation
+cssclasses: academia
+date: 2023-10-15
 key_concepts:
-  - Vertical integration: Ethylene to polyethylene/PVC value chain
-  - Natural gas volatility: Key feedstock price risk
-  - Cyclical margins: Chemical industry boom-bust cycles
-  - Peak EPS calculation: $4.24 estimated at cycle peak
-  - Operating rates: 95%+ drives peak margins
-  - Commodity exposure: Limited product differentiation
-  - Forward P/E concerns: Sustainability of peak earnings
-  - Capital intensity: High barriers to entry
-  - Feedstock flexibility: 90%+ ethane vs naphtha
-  - End market sensitivity: Construction and interest rates
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Model calibration procedures
+- Parameter estimation methods
+- Maximum likelihood estimation
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- HBS Westlake Case and financial analysis
+- HBS Westlake Case in modern finance
+- Applications of HBS Westlake Case
+- 'Case study: HBS Westlake Case'
+tags:
+- forward
+- options
+- futures
+- put
+- calibration
+- regulation
+- capital-requirement
+- call
+- interest-rate
+- interest-rates
+- risk
+- multiple
+- pricing
+- estimation
+- valuation
+title: 'HBS Case Study: Westlake Chemical'
 ---
 
 # HBS Westlake Case

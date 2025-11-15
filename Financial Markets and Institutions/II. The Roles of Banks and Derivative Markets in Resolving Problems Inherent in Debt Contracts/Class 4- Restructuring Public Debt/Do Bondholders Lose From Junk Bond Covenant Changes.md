@@ -1,23 +1,111 @@
 ---
-cssclasses:
-  - academia
-title: Do Bondholders Lose From Junk Bond Covenant Changes
-tags:
-  - agency_costs
-  - bondholders
-  - consent_solicitations
-  - covenant_changes
-  - junk_bonds
 aliases:
-  - Junk Bond Covenants
-  - Kahan & Tuckman
+- Junk Bond Covenants
+- Kahan & Tuckman
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-f352c3
 key_concepts:
-  - Agency costs of debt
-  - Bondholder loss from covenant changes
-  - Consent solicitations and bondholders
-  - Covenant renegotiation
-  - Game-theoretic model
+- Agency costs of debt
+- American option pricing in binomial trees
+- Binomial option pricing model with multiple time steps
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- Bondholder loss from covenant changes
+- Capital Structure
+- Case Study
+- Complete markets and replication
+- Computational implementation of binomial option pricing
+- Consent solicitations and bondholders
+- Convergence of binomial model to Black-Scholes solution
+- Course Material
+- Covenant renegotiation
+- Cox-Ross-Rubinstein parameter specification
+- Credit risk and default probability
+- Cross-currency basis swaps and funding
+- Debt capacity analysis in LBO transactions
+- Delta hedging and Greeks calculation
+- Delta hedging and the replication argument
+- Equity returns and value creation mechanisms
+- Expected Shortfall (ES) and coherent risk measures
+- Expected Shortfall and coherent risk measures
+- Fixed-for-floating swap cash flows and valuation
+- GARCH models and volatility forecasting
+- Game-theoretic model
+- Gamma and convexity adjustments
+- High Yield Bonds
+- Historical simulation vs. parametric VaR models
+- Interest rate models and term structure
+- Interest rate swap pricing and valuation
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- LBO financing sources and covenant structures
+- Leveraged Buyout financial structures and returns
+- Mathematical Finance
+- Monte Carlo VaR for complex portfolios
+- Monte Carlo simulation for derivatives
+- Option Greeks and portfolio risk management
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Stress testing and scenario analysis
+- Swap spread and credit risk considerations
+- Theta and time decay modeling
+- VaR backtesting and model validation
+- Value at Risk (VaR) and risk metrics
+- Value at Risk (VaR) methodologies and backtesting
+- Variance swaps and volatility trading strategies
+- Vasicek and Cox-Ingersoll-Ross models
+- Vega and volatility risk management
+tags:
+- agency_costs
+- binomial-model
+- black-scholes-model
+- bondholders
+- capital-structure
+- case-study
+- consent_solicitations
+- corporate-bonds
+- course-material
+- covenant_changes
+- credit
+- credit-derivatives
+- credit-risk
+- deposit-insurance
+- distressed-debt
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- garch-models
+- greeks
+- harvard-business-review
+- high-yield-bonds
+- interest-rate-derivatives
+- interest-rate-swaps
+- ito-calculus
+- junk_bonds
+- leveraged-buyouts
+- markets
+- mathematical-finance
+- monte-carlo-simulation
+- municipal-bonds
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- private-equity
+- quantitative-implementation
+- quantitative-pricing
+- risk-management
+- solution
+- stochastic
+- treasury-bonds
+- value-at-risk
+title: Do Bondholders Lose From Junk Bond Covenant Changes
 ---
+
 
 # Do Bondholders Lose From Junk Bond Covenant Changes
 

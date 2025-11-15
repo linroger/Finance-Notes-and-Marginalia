@@ -1,24 +1,34 @@
 ---
-cssclasses: academia
-title: Mastering Data Visualization with Plotly in Python
-source: 
-  https://blog.enterprisedna.co/mastering-data-visualization-with-plotly-in-python/
-description:
-tags:
-  - data_visualization
-  - line_plot
-  - plotly
-  - python
-  - scatter_plot
 aliases:
-  - Data Viz with Python
-  - Plotly Tutorial
+- Data Viz with Python
+- Plotly Tutorial
+cssclasses: academia
+description: null
 key_concepts:
-  - Advanced plot techniques
-  - Create scatter plots
-  - Customize plot appearance
-  - Interactive dashboards
-  - Plotly library
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Mastering Data Visualization with Plotly in Python and financial analysis
+- Mastering Data Visualization with Plotly in Python in modern finance
+- Applications of Mastering Data Visualization with Plotly in Python
+- 'Case study: Mastering Data Visualization with Plotly in Python'
+source: https://blog.enterprisedna.co/mastering-data-visualization-with-plotly-in-python/
+tags:
+- swaps
+- options
+- put
+- var
+- call
+- multiple
+- irs
+- risk-management
+title: Mastering Data Visualization with Plotly in Python
 ---
 
 # Mastering Data Visualization with Plotly in Python

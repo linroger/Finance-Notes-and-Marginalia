@@ -1,3 +1,22 @@
+---
+tags:
+- quantitative-models/apt
+- financial-markets/credit
+- financial-markets/currency
+- educational-level/intermediate
+key_concepts:
+- financial mathematics and quantitative analysis
+- derivatives and structured products
+- risk management and portfolio optimization
+- stochastic processes in finance
+- mathematical modeling and simulation
+type: note
+status: active
+academic_level: graduate
+professional_application: practical
+institutional_standard: true
+---
+
 # The Changing World Order
 
 ## Table of Contents

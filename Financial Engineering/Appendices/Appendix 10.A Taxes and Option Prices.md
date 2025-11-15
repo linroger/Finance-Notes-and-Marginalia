@@ -1,23 +1,40 @@
 ---
-title: "Appendix 10.A Taxes and Option Prices"
-cssclasses: academia
-tags:
-  - binomial-pricing
-  - capital-gains
-  - dealers
-  - marked-to-market
-  - option-prices
-  - tax-rates
-  - taxes
 aliases:
-  - Appendix 10
-  - Taxes and Options
+- Appendix 10
+- Taxes and Options
+cssclasses: academia
 key_concepts:
-  - After-tax return equality
-  - Binomial price with taxes
-  - Dealer marked-to-market
-  - Option pricing formula
-  - Tax rates on income
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Appendix 10.A Taxes and Option Prices and financial analysis
+- Appendix 10.A Taxes and Option Prices in modern finance
+- Applications of Appendix 10.A Taxes and Option Prices
+- 'Case study: Appendix 10.A Taxes and Option Prices'
+tags:
+- options
+- bonds
+- futures
+- portfolio
+- fixed-income
+- basis
+- bond
+- delta
+- portfolio-optimization
+- pricing
+title: Appendix 10.A Taxes and Option Prices
 ---
 
 # Appendix 10.A Taxes and Option Prices

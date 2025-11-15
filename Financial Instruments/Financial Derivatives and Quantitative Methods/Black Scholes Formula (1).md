@@ -1,31 +1,60 @@
 ---
 title: Black Scholes Formula
 tags:
-  - black_scholes_formula
-  - digital_options
-  - european_options
-  - martingale_pricing
-  - pde
-  - option_pricing
-  - geometric_brownian_motion
-  - risk_neutral_pricing
-  - delta_hedging
+- arbitrage
+- binomial-model
+- black-scholes-model
+- black_scholes_formula
+- delta_hedging
+- digital_options
+- equity-derivatives
+- european_options
+- geometric_brownian_motion
+- hedging-strategies
+- ito-calculus
+- martingale-theory
+- martingale_pricing
+- mathematics
+- option-greeks
+- option_pricing
+- options
+- options-pricing
+- pde
+- quantitative-pricing
+- risk-management
+- risk_neutral_pricing
+- stochastic
 aliases:
-  - BS formula
-  - Black-Scholes formula
+- BS formula
+- Black-Scholes formula
 key_concepts:
-  - Digital option payoff
-  - European option pricing
-  - Put-call parity
-  - Risk-neutral valuation
-  - Standard normal distribution
-  - Geometric Brownian motion
-  - Delta hedging strategies
-  - Self-financing portfolios
-  - Ito's lemma application
-  - Boundary conditions
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- Boundary conditions
+- Brownian motion and Wiener processes
+- Capital Asset Pricing Model (CAPM)
+- Complete markets and replication
+- Delta hedging and Greeks calculation
+- Delta hedging strategies
+- Digital option payoff
+- European option pricing
+- Expected Shortfall (ES) and coherent risk measures
+- Geometric Brownian motion
+- Implied volatility and volatility surface
+- Ito's Lemma and stochastic calculus
+- Ito's lemma application
+- Numerical methods for PDEs
+- Portfolio optimization and mean-variance theory
+- Put-call parity
+- Put-call parity and option relationships
+- Risk-neutral valuation
+- Risk-neutral valuation and martingale measures
+- Self-financing portfolios
+- Standard normal distribution
+- Value at Risk (VaR) and risk metrics
 cssclasses: academia
 ---
+
 
 # Black Scholes Formula
 

@@ -1,51 +1,63 @@
 ---
-cssclasses: ["academia"]
+cssclasses:
+- academia
 title: Economic Stabilization Notes
 linter-yaml-title-alias: Economic Stabilization Notes
 tags:
-  - economic_policy
-  - economic_stabilization
-  - financial_crisis
-  - government_intervention
-  - recession
-  - business_cycles
-  - fiscal_policy
-  - monetary_policy
-  - macroeconomic_stabilization
-  - economic_fluctuations
-  - policy_effectiveness
-  - automatic_stabilizers
+- automatic_stabilizers
+- business_cycles
+- economic_fluctuations
+- economic_policy
+- economic_stabilization
+- financial_crisis
+- fiscal_policy
+- government_intervention
+- ma
+- macroeconomic_stabilization
+- monetary_policy
+- policy_effectiveness
+- recession
 aliases:
-  - Economic Notes
-  - Economic Stabilization
-  - Stabilization
-  - Macroeconomic Stabilization
-  - Stabilization Policy
+- Economic Notes
+- Economic Stabilization
+- Stabilization
+- Macroeconomic Stabilization
+- Stabilization Policy
 key_concepts:
-  - Economic downturn
-  - Economic stabilization
-  - Financial crisis
-  - Government policy
-  - Policy responses
-  - Business cycle theory
-  - Stabilization policy instruments
-  - Fiscal policy effectiveness
-  - Monetary policy transmission
-  - Automatic stabilizers
-  - Discretionary policy
-  - Policy lags
-  - Rational expectations
-  - Policy credibility
-  - Macroeconomic models
----
-
-# Economic Stabilization Notes
-
-%% Begin Waypoint %%
-- **[[Economic Stabilization Notes]]**
-  - [[Business Cycles- Introduction, Characteristics, and History]]
-  - [[Macroeconomic Models of Business Cycles]]
-  - [[Theory of Stabilization Policy]]
-  - [[Topics in Fiscal and Monetary Policies and Stabilization- Empirical Issues]]
-
-%% End Waypoint %%
+- Agricultural futures and seasonality
+- Alternative investments and hedge fund strategies
+- Arbitrage Pricing Theory (APT) and factor models
+- Asset swaps and spread-lock strategies
+- Automatic stabilizers
+- Barrier options and knock-in/knock-out structures
+- Basis swaps and cross-currency basis adjustments
+- Basis swaps and floating rate correlations
+- Behavioral finance and market anomalies
+- Best execution and regulatory requirements
+- Bid-ask spreads and market making profitability
+- Black-Litterman model and portfolio optimization
+- Business cycle theory
+- CDO structuring and tranche allocation methodologies
+- CDO-squared structures and correlation trading
+- Calendar spreads and roll strategies
+- Central clearing and CCP risk management
+- Commodity futures and convenience yields
+- Commodity swaps and energy derivatives
+- Crack spreads in energy markets
+- Cryptocurrency valuation and blockchain technology
+- Currency swaps and cross-currency basis
+- Dark pools and alternative trading venues
+- DeFi protocols and decentralized finance
+- Deposit insurance and systemic risk
+- Discretionary policy
+- Dividend discount model (DDM) applications
+- Duration and convexity for bond price sensitivity
+- ESG investing and sustainability metrics
+- Economic downturn
+- Economic stabilization
+- Enterprise value and equity value relationships
+- Equity swaps and total return swaps
+- Exotic derivatives and path-dependent options
+- Extreme value theory and tail risk modeling
+- FX futures and currency hedging
+- Fama-French thre

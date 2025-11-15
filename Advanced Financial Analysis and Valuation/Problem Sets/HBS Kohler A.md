@@ -1,39 +1,48 @@
 ---
-cssclasses: academia
-title: "HBS Case Study: Kohler Co. (A)"
-date: 2023-10-15
-tags:
- - private_company_valuation
- - family_business
- - ownership_control
- - reverse_stock_split
- - minority_shareholders
- - dissenting_shareholders
- - fair_value_determination
- - recapitalization
- - wisconsin_court_case
- - share_buyback
- - charitable_foundations
- - stewardship_trust
- - 1978_reverse_split
- - 1998_recapitalization
- - permitted_transferees
 aliases:
- - Kohler Case Study
- - Kohler Recapitalization 1998
- - Herbert Kohler Jr Case
- - Kohler Family Business
+- Kohler Case Study
+- Kohler Recapitalization 1998
+- Herbert Kohler Jr Case
+- Kohler Family Business
+cssclasses: academia
+date: 2023-10-15
 key_concepts:
- - Private company advantages: Long-term view, no public disclosure
- - Reverse stock split 1978: 1-for-20 to stay under 500 shareholders
- - 1998 recapitalization: Buyout of outside shareholders at $55,400/share
- - Dissenting shareholders: Claimed shares worth $273,000
- - Ownership structure: 4% outside shareholders, 96% family/foundations
- - Fair value dispute: Court to determine value vs company offer
- - Stewardship Trust: Control mechanism for future generations
- - Financial non-disclosure: Competitive advantage strategy
- - Diversified business: Plumbing, power systems, hospitality
- - Charitable foundations: Impact of valuation on giving requirements
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- HBS Kohler A and financial analysis
+- HBS Kohler A in modern finance
+- Applications of HBS Kohler A
+- 'Case study: HBS Kohler A'
+tags:
+- regulatory
+- merger
+- strategy
+- swaps
+- options
+- put
+- regulation
+- financial-statement
+- irs
+- portfolio
+- valuation
+- algorithmic-trading
+- accounting
+- split
+- fair-value
+title: 'HBS Case Study: Kohler Co. (A)'
 ---
 
 # Kohler Co. (A)

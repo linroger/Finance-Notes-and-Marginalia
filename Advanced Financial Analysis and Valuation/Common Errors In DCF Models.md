@@ -1,23 +1,47 @@
 ---
-cssclasses:
-  - academia
-title: Common Errors In DCF Models
-tags:
-  - cash_flow
-  - dcf_models
-  - equity_investing
-  - financial_analysis
-  - valuation
 aliases:
-  - DCF Errors
-  - Mauboussin Valuation
-  - Valuation Mistakes
+- DCF Errors
+- Mauboussin Valuation
+- Valuation Mistakes
+cssclasses:
+- academia
 key_concepts:
-  - Discounted cash flow analysis
-  - Economically sound models
-  - Present value of cash flows
-  - Transparent DCF models
-  - Value of a business
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Common Errors In DCF Models and financial analysis
+- Common Errors In DCF Models in modern finance
+- Applications of Common Errors In DCF Models
+- 'Case study: Common Errors In DCF Models'
+tags:
+- options
+- swaps
+- put
+- bonds
+- yield
+- strike
+- var
+- bond
+- delta
+- call
+- beta
+- coupon
+- irs
+- risk-management
+- market-efficiency
+title: Common Errors In DCF Models
 ---
 
 Michael J. Mauboussin

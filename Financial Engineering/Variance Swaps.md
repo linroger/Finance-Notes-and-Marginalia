@@ -1,28 +1,72 @@
 ---
 tags:
-  - equity_indices
-  - hedging
-  - option_pricing
-  - relative_value_trading
-  - variance_swaps
-  - volatility
-  - volatility_view
+- arbitrage
+- black-scholes-model
+- credit
+- credit-derivatives
+- equity-derivatives
+- equity_indices
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging
+- hedging-strategies
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- mathematics
+- numerical-simulation
+- option-greeks
+- option_pricing
+- options
+- options-pricing
+- quantitative-pricing
+- relative_value_trading
+- risk-management
+- stochastic
+- variance_swaps
+- volatility
+- volatility_view
 aliases:
-  - Variance Swap
-  - Variance Swap Market
-  - Volatility Swap
+- Variance Swap
+- Variance Swap Market
+- Volatility Swap
 key_concepts:
-  - Delta hedging portfolio
-  - Exploiting volatility view
-  - Exposure to underlying volatility
-  - Generating alpha
-  - Hedging volatility exposures
-  - Market development
-  - Replicating with options
-  - Small premium to ATM
-  - Trading forward volatility
-  - Variance swap mechanics
+- Arbitrage pricing theory (APT)
+- Barrier options and knock-in/knock-out features
+- Black-Scholes option pricing model
+- Capital Asset Pricing Model (CAPM)
+- Complete markets and replication
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Delta hedging portfolio
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Exploiting volatility view
+- Exposure to underlying volatility
+- GARCH models and volatility forecasting
+- Generating alpha
+- Hedging volatility exposures
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Market development
+- Monte Carlo simulation for derivatives
+- Numerical methods for PDEs
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Replicating with options
+- Risk-neutral valuation and martingale measures
+- Small premium to ATM
+- Trading forward volatility
+- VaR backtesting and model validation
+- Value at Risk (VaR) and risk metrics
+- Variance swap mechanics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 
 # Variance Swaps
 

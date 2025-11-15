@@ -1,20 +1,52 @@
 ---
 tags:
-  - equilibrium_models
-  - fixed_income_derivatives
-  - risk_neutral_valuation
-  - short_rate
-  - term_structure
+- arbitrage
+- black-scholes-model
+- equilibrium_models
+- fixed-income
+- fixed-income-derivatives
+- fixed_income_derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- mathematics
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- risk_neutral_valuation
+- short_rate
+- stochastic
+- term_structure
 aliases:
-  - Equilibrium Term Structure
-  - Short Rate Models
+- Equilibrium Term Structure
+- Short Rate Models
 key_concepts:
-  - Black's model
-  - Bond prices and options
-  - Continuous time stochastic process
-  - Path-dependent options
-  - Risk-neutral valuation
+- Arbitrage pricing theory (APT)
+- Black's model
+- Bond prices and options
+- Brownian motion and Wiener processes
+- Continuous time stochastic process
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Numerical methods for PDEs
+- Option Greeks and sensitivity analysis
+- Path-dependent options
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation
+- Risk-neutral valuation and martingale measures
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 # Equilibrium Models: Term Structure  
 
 # Aims  

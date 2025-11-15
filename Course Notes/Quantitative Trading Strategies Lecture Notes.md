@@ -1,20 +1,44 @@
 ---
-tags:
-  - credit_risk
-  - market_inefficiency
-  - quantitative_trading
-  - risk_management
-  - trading_strategies
 aliases:
-  - Quant Trading
-  - Quantitative Finance
-  - Trading Strategies
+- Quant Trading
+- Quantitative Finance
+- Trading Strategies
 key_concepts:
-  - Credit risk
-  - Market inefficiency
-  - Providing services
-  - Quantitative trading elements
-  - Sources of profit
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Quantitative Trading Strategies Lecture Notes and financial analysis
+- Quantitative Trading Strategies Lecture Notes in modern finance
+- Applications of Quantitative Trading Strategies Lecture Notes
+- 'Case study: Quantitative Trading Strategies Lecture Notes'
+tags:
+- strategy
+- options
+- roll
+- algorithmic-trading
+- market-maker
+- futures
+- put
+- market-impact
+- basis
+- liquidity
+- gamma
+- algo
+- forward
+- trading
+- spread
 ---
 
 # INTRODUCTION TO QUANTITATIVE TRADING  

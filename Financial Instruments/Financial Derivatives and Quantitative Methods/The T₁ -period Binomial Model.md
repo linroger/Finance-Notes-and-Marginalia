@@ -1,22 +1,41 @@
 ---
-title: The T₁ -period Binomial Model
+title: "The T\u2081 -period Binomial Model"
 tags:
-  - binomial_model
-  - derivatives
-  - hull_chapter_11
-  - option_pricing
-  - risk_neutral_valuation
+- binomial-model
+- binomial_model
+- derivatives
+- equity-derivatives
+- hull_chapter_11
+- interest-rate-derivatives
+- markets
+- option-greeks
+- option_pricing
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- risk_neutral_valuation
 aliases:
-  - T1 model
-  - binomial tree model
-  - multi-period binomial model
+- T1 model
+- binomial tree model
+- multi-period binomial model
 key_concepts:
-  - Binomial coefficients
-  - Delta hedging
-  - Risk-neutral probability
-  - Synthetic options
-  - Two-period binomial model
+- Arbitrage pricing theory (APT)
+- Binomial coefficients
+- Binomial tree models for option pricing
+- Complete markets and replication
+- Delta hedging
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Portfolio optimization and mean-variance theory
+- Risk-neutral probability
+- Risk-neutral valuation and martingale measures
+- Synthetic options
+- Two-period binomial model
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # The T₁ -period Binomial Model
 

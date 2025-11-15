@@ -1,35 +1,46 @@
 ---
-tags:
-  - advanced_financial_analysis
-  - commodity_prices
-  - ethylene_capacity
-  - natural_gas_prices
-  - westlake_operations
-  - petrochemicals
-  - financial_forecasting
-  - cyclical_industries
-  - valuation
-  - risk_analysis
-  - earnings_per_share
 aliases:
-  - BUSN 30313
-  - PSET 3
-  - Roger Lin
-  - Westlake
+- BUSN 30313
+- PSET 3
+- Roger Lin
+- Westlake
 cssclasses: academia
 key_concepts:
-  - PVC and VCM production: Polyvinyl chloride and vinyl chloride monomer production processes in petrochemical industry
-  - commodity petrochemicals: Basic chemical products with standard specifications traded in large volumes
-  - ethylene production: Key olefin manufacturing process using natural gas as feedstock
-  - natural gas feedstocks: Primary raw material input for ethylene production at Westlake
-  - natural gas price volatility: Significant fluctuations in gas prices affecting production economics
-  - olefins and vinyls chains: Two main product segments comprising ethylene derivatives and PVC products
-  - peak cycle EPS estimate: Earnings per share forecast at the cyclical peak of commodity margins
-  - vertically integrated producer: Company controlling multiple stages from raw materials to finished products
-  - operating leverage: High fixed costs relative to variable costs in petrochemical manufacturing
-  - pricing power: Ability to influence product prices in competitive commodity markets
-  - interest rate sensitivity: Impact of rate changes on construction demand for PVC products
-  - supply-demand dynamics: Market forces driving commodity price cycles in petrochemicals
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- PSET 3 Advanced Financial Analysis and Valuation and financial analysis
+- PSET 3 Advanced Financial Analysis and Valuation in modern finance
+- Applications of PSET 3 Advanced Financial Analysis and Valuation
+- 'Case study: PSET 3 Advanced Financial Analysis and Valuation'
+tags:
+- forward
+- options
+- futures
+- put
+- swaps
+- bonds
+- ratio
+- call
+- interest-rate
+- interest-rates
+- risk
+- multiple
+- volatility
+- irs
+- duration
 ---
 
 # PSET 3 - Advanced Financial Analysis and Valuation

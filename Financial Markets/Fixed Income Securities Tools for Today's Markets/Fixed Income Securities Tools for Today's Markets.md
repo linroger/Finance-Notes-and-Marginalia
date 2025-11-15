@@ -1,155 +1,75 @@
-%% Begin Waypoint %%
-- **Fixed Income Securities Tools for Today's Markets**
-	- **Chapter 1**
-		- Accrued Interest
-		- Arbitrage and the Law of One Price
-		- Chapter 1
-		- Day-Count Conventions
-		- Discount Factors
-		- Government Coupon Bonds
-		- The Law of One Price
-	- **Chapter 2**
-		- Chapter 2
-		- Forward Rates
-		- Interest Rate Quotations
-		- Interest Rate Swaps
-		- Pricing Interest Rate Swaps
-		- Spot Rates
-	- **Chapter 3**
-		- Chapter 3
-		- Pl Attribution
-		- Realized Returns
-		- Spreads
-		- Yield and Relative Value
-		- Yield and Return
-		- Yield to Maturity
-	- **Chapter 4**
-		- Chapter 4
-		- Convexity
-		- Duration
-		- DV01
-		- Hedging a Century Bond Part I
-		- Hedging a Century Bond Part Ii
-		- Price-Rate Curves
-		- The Barbell Versus the Bullet
-	- **Chapter 5**
-		- Chapter 5
-		- Forward-Bucketo1s
-		- Key Rates Motivation
-		- Key Rates O1s Durations and Hedging
-		- Key Rates Overview
-		- Key Rates Shifts
-		- Multi-Factor Exposures and Portfolio Volatility
-		- Partial O1s and PV01
-	- **Chapter 6**
-		- Chapter 6
-		- Level Versus Change Regressions
-		- Principal Component Analysis
-		- Reverse Regressions
-		- Single-Variable Regression Hedging
-		- Two-Variable Regression Hedging
-	- **Chapter 7**
-		- Arbitrage Pricing of Derivatives
-		- Chapter 7
-		- Fixed Income Versus Equity Derivatives
-		- Option-Adjusted Spread
-		- Profit and Loss Attribution with an OAS
-		- Rate and Price Trees
-		- Reducing the Time Step
-		- Risk-Neutral Pricing
-	- **Chapter 8**
-		- An Analytical Decomposition of Forward Rates
-		- Chapter 8
-		- Expectations
-		- Volatility and Convexity
-	- **Chapter 9**
-		- A Practical Estimation Method
-		- Chapter 9
-		- Relative Value and Macro-Style Trading with the
-		- The Gauss Model
-		- The Vasicek Model
-	- **Chapter 10**
-		- Case Study Mf Globals Repo-To-Maturity Trades
-		- Chapter 10
-		- Gc and Special Repo Rates
-		- Liquidity Management and Currentregulatory Iss
-		- Market Structure and Size
-		- Repurchase Agreements
-		- SOFR
-		- Uses of Repurchase Agreements
-	- **Chapter 11**
-		- Case Study Basis Trades in March 2020
-		- Chapter 11
-		- Cost of Delivery and the Final Settlement Pric
-		- Forward Bond Yield
-		- Forward Contracts and Forward Prices
-		- Futures Price and the Quality Option Before E
-		- Gross and Net Basis and Basis Trades
-		- Implied Repo Rates
-		- Mechanics of Us Treasury Note and Bond Futures
-		- Motivations for a Delivery Basket and Conversi
-		- Pricing and Hedging Implications of Daily Sett
-		- The Quality Option at Expiration
-	- **Chapter 12**
-		- Chapter 12
-		- EURIBOR Forward Rate Agreements and Futures
-		- Fed Fund Futures
-		- One-Month SOFR Futures
-		- Short-Term Rates and the Transition from LIBOR
-		- The Futures-Forward Difference
-		- Three-Month SOFR Futures
-	- **Chapter 13**
-		- Basis Swaps
-		- Chapter 13
-		- Clearing and Central Counterparties
-		- Counterparty Credit Risk
-		- Irs Cash Flows and Analytics
-		- Market Size and Participants
-		- Uses of Interest Rate Swaps
-	- **Chapter 14**
-		- Case Study the London Whale
-		- CDS Settlement Auctions
-		- CDS Upfront Amounts
-		- Cds-Bond Basis
-		- Cds-Equivalent Bond Spread
-		- Chapter 14
-		- Corporate Bonds and Loans
-		- Credit Default Swaps
-		- Credit Risk Premium
-		- Credit Spreads
-		- Default Rates Recovery Rates and Credit Losses
-		- Hazard-Adjusted Duration and Dvo1
-		- Opportunistic CDS Strategies
-		- Spread Duration and Dvo1
-	- **Chapter 15**
-		- Adjustable-Rate Mortgages
-		- Chapter 15
-		- Credit Risk Transfer Securities
-		- Dollar Rolls
-		- Fixed-Rate Mortgage Loans
-		- Mortgage Pools
-		- Mortgage Pricing Spreads and Duration
-		- Other MBS
-		- Prepayment Modeling
-		- Risk Factors and Hedging Agency MBS
-		- Tba and Specified Pools Markets
-		- The Mortgage Market in the United States
-	- **Chapter 16**
-		- Bond Futures Options
-		- Caps and Floors
-		- Chapter 16
-		- Embedded Bond Call Options
-		- EURIBOR Futures Options
-		- Swaption Skew
-		- Swaptions
-	- Fixed Income Securities Tools for Today's Markets
-	- **Front Matter**
-		- Front Matter
-		- Global Fixed Income Markets
-		- Monetary Policy with Abundantreserves
-		- Negative Rates and Qe in Europe and Japan
-		- Trading and Liquidity
-		- US Market Participants
-		- US Markets
-
-%% End Waypoint %%
+---
+tags:
+- apt
+- arbitrage-pricing
+- artificial-intelligence
+- basis-swap
+- bond-futures
+- bond-pricing
+- cds
+- clearing
+- convexity
+- corporate-bonds
+- coupon-bonds
+- credit-default-swap
+- credit-risk
+- credit-spread
+- credit-spreads
+- discount-factors
+- duration
+- euribor
+- forward-contracts
+- forward-rates
+- futures-contracts
+- g-spread
+- interest-rate-swap
+- irs
+- libor
+- liquidity-risk
+- ma
+- mbs
+- mortgage-backed-securities
+- negative-rates
+- oas
+- recovery-rate
+- repo
+- repurchase-agreements
+- rwa
+- settlement
+- spot-rates
+- swaption
+- value-at-risk
+- var
+- vasicek-model
+key_concepts:
+- Agricultural futures and seasonality
+- Alternative investments and hedge fund strategies
+- Arbitrage Pricing Theory (APT) and factor models
+- Asset swaps and spread-lock strategies
+- Bank asset-liability management (ALM) strategies
+- Barrier options and knock-in/knock-out structures
+- Basis swaps and cross-currency basis adjustments
+- Basis swaps and floating rate correlations
+- Behavioral finance and market anomalies
+- Best execution and regulatory requirements
+- Bid-ask spreads and market making profitability
+- Binomial option pricing model with multi-period trees
+- Black-Litterman model and portfolio optimization
+- Black-Scholes option pricing model and its applications
+- Bond portfolio immunization strategies
+- CDO structuring and tranche allocation methodologies
+- CDO-squared structures and correlation trading
+- CDS spread curves and hazard rate modeling
+- Calendar spreads and roll strategies
+- Capital Asset Pricing Model (CAPM) and beta estimation
+- Central bank digital currencies (CBDCs)
+- Central clearing and CCP risk management
+- Commodity futures and convenience yields
+- Commodity swaps and energy derivatives
+- Constant maturity swaps and roll-over features
+- Corporate bond pricing and credit spread decomposition
+- Crack spreads in energy markets
+- Credit default swaps and credit protection mechanisms
+- Credit risk assessment and loan pricing
+- Credit valuation adjustment (CVA) and counterparty risk
+- Cryptocurre

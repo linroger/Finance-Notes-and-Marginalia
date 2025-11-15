@@ -1,24 +1,47 @@
 ---
-title: Valuing Options on Commodity Futures Using QuantLib Python
-source: 
-  http://gouthamanbalaraman.com/blog/value-options-commodity-futures-black-formula-quantlib-python.html
+aliases:
+- Commodity Option Pricing
+- QuantLib Example
 description: Describes how to value options on commodity futures contract using the
   Black formula in QuantLib Python
-tags:
-  - black_formula
-  - commodity_futures
-  - futures_options
-  - option_pricing
-  - quantlib_python
-aliases:
-  - Commodity Option Pricing
-  - QuantLib Example
 key_concepts:
-  - Black formula application
-  - Commodity futures options valuation
-  - Futures price modeling
-  - Lognormal stochastic process
-  - QuantLib Python implementation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Monte Carlo simulation methods
+- Stochastic processes in finance
+- Path-dependent derivatives pricing
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Valuing Options on Commodity Futures Using QuantLib Python and financial analysis
+- Valuing Options on Commodity Futures Using QuantLib Python in modern finance
+- Applications of Valuing Options on Commodity Futures Using QuantLib Python
+- 'Case study: Valuing Options on Commodity Futures Using QuantLib Python'
+source: http://gouthamanbalaraman.com/blog/value-options-commodity-futures-black-formula-quantlib-python.html
+tags:
+- maturity
+- forward
+- stochastic
+- options
+- futures
+- bonds
+- yield
+- theta
+- simulation
+- strike
+- bond
+- fixed-income
+- gamma
+- vega
+- call
+title: Valuing Options on Commodity Futures Using QuantLib Python
 ---
 
 # Valuing Options on Commodity Futures Using QuantLib Python

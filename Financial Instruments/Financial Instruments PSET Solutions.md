@@ -1,25 +1,63 @@
 ---
 tags:
-  - arbitrage
-  - commodity_futures
-  - currency_swaps
-  - forward_rates
-  - hedging
-  - options_hedging
+- arbitrage
+- binomial-model
+- black-scholes-model
+- commodity_futures
+- credit
+- credit-derivatives
+- currency_swaps
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- forward_rates
+- fx-derivatives
+- hedging
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- mathematics
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- options_hedging
+- quantitative-pricing
+- risk-management
 aliases:
-  - Commodity Futures
-  - FX Forwards
-  - Financial Derivatives
-  - PSET Solutions
-  - Southwest Hedge
+- Commodity Futures
+- FX Forwards
+- Financial Derivatives
+- PSET Solutions
+- Southwest Hedge
 key_concepts:
-  - Amaranth Calendar Spread
-  - Arbitrage and Forward Rates
-  - Commodity Futures
-  - Covered Interest Rate Parity
-  - Currency Swaps
-  - Hedging with Futures
+- Amaranth Calendar Spread
+- Arbitrage and Forward Rates
+- Asian options and average price derivatives
+- Basel III regulatory framework
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- Capital Asset Pricing Model (CAPM)
+- Commodity Futures
+- Complete markets and replication
+- Covered Interest Rate Parity
+- Credit risk and default probability
+- Currency Swaps
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Hedging with Futures
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Monte Carlo simulation for derivatives
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Put-call parity and option relationships
+- Risk-neutral valuation and martingale measures
+- Value at Risk (VaR) and risk metrics
 ---
+
 ```markdown
 # Financial Instruments
 ## Bus 35100

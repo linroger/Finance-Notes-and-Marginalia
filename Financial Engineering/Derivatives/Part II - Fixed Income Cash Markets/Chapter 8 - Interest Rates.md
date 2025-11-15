@@ -1,21 +1,44 @@
 ---
-tags:
-  - fed_funds_rate
-  - fra_pricing
-  - interest_rates
-  - libor
-  - ois_rates
-  - repo_rates
 aliases:
-  - BBA
-  - annualized yields
-  - forward rate agreement
+- BBA
+- annualized yields
+- forward rate agreement
 key_concepts:
-  - compound interest
-  - forward rates
-  - present value
-  - simple interest
-  - terminal value
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Chapter 8 - Interest Rates and financial analysis
+- Chapter 8 - Interest Rates in modern finance
+- Applications of Chapter 8 - Interest Rates
+- 'Case study: Chapter 8 - Interest Rates'
+tags:
+- yield-curve
+- roll
+- term-structure
+- swaption
+- futures
+- spot-rates
+- basis
+- interest-rate
+- forward-rates
+- libor
+- maturity
+- forward
+- swaps
+- bond
+- coupon
 ---
 # FIXED INCOME: CASH MARKETS  
 

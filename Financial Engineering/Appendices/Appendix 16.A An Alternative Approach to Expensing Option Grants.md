@@ -1,21 +1,45 @@
 ---
-title: "Appendix 16.A An Alternative Approach to Expensing Option Grants"
-cssclasses: academia
-tags:
-  - binomial-example
-  - bulow-and-shoven
-  - compensation-options
-  - option-grants
-  - option-valuation
 aliases:
-  - Bulow-Shoven Approach
-  - Expensing Option Grants
+- Bulow-Shoven Approach
+- Expensing Option Grants
+cssclasses: academia
 key_concepts:
-  - Accounting for compensation options
-  - Binomial option example
-  - Deduct market value at exercise
-  - Long-term option cost
-  - Option expense calculation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Appendix 16.A An Alternative Approach to Expensing Option Grants and financial analysis
+- Appendix 16.A An Alternative Approach to Expensing Option Grants in modern finance
+- Applications of Appendix 16.A An Alternative Approach to Expensing Option Grants
+- 'Case study: Appendix 16.A An Alternative Approach to Expensing Option Grants'
+tags:
+- forward
+- options
+- swaps
+- put
+- futures
+- strike
+- var
+- delta
+- call
+- risk
+- pricing
+- accounting
+- valuation
+- irs
+- risk-management
+title: Appendix 16.A An Alternative Approach to Expensing Option Grants
 ---
 
 # Appendix 16.A An Alternative Approach to Expensing Option Grants

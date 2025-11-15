@@ -1,36 +1,40 @@
 ---
-cssclasses:
-  - academia
-title: Appendices
-tags:
-  - appendices
-  - financial-engineering
-  - options-pricing
-  - mathematical-proofs
-  - forward-pricing
-  - futures-pricing
-  - black-scholes
-  - risk-neutral-pricing
-  - binomial-model
-  - wiener-process
-  - interest-rate-models
 aliases:
-  - Appendix Collection
-  - Mathematical Appendices
-  - Financial Mathematics Appendices
+- Appendix Collection
+- Mathematical Appendices
+- Financial Mathematics Appendices
+cssclasses:
+- academia
 key_concepts:
-  - Tax implications on forwards
-  - Random interest rates
-  - Strike price relations
-  - Option grant accounting
-  - Real options valuation
-  - Normal probability plots
-  - Geometric average options
-  - DCF valuation
-  - PDE solutions
-  - Risk-neutral pricing
-  - Reflection principle
-  - BDT tree construction
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Black-Scholes-Merton option pricing model
+- Greeks calculation and interpretation
+- Volatility surface and smile
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Appendices and financial analysis
+- Appendices in modern finance
+- Applications of Appendices
+- 'Case study: Appendices'
+tags:
+- forward
+- options
+- futures
+- strike
+- black-scholes
+- risk
+- interest-rate
+- interest-rates
+- pricing
+- valuation
+- cash flow
+title: Appendices
 ---
 
 # Appendices

@@ -1,24 +1,109 @@
 ---
-cssclasses: academia
-linter-yaml-title-alias: Note On LBO Capital Structure
-title: Note on LBO Capital Structure
-tags:
-  - capital_structure
-  - debt_financing
-  - lbo
-  - leveraged_loans
-  - senior_debt
 aliases:
-  - Capital Structure
-  - Debt Layers
-  - LBO Debt
+- Capital Structure
+- Debt Layers
+- LBO Debt
+cssclasses: academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-31f8b2
 key_concepts:
-  - Asset-backed loans
-  - Junior debt
-  - LBO debt characteristics
-  - Leveraged loans
-  - Senior secured debt
+- Apt
+- Arbitrage pricing theory (APT)
+- Asset-backed loans
+- Capital Structure
+- Case Study
+- Collateralized Debt Obligations
+- Course Material
+- Credit exposure measurement and EAD
+- Credit portfolio diversification and concentration
+- Credit risk and default probability
+- Credit risk modeling and default probability estimation
+- Cross-currency basis swaps and funding
+- Debt capacity analysis in LBO transactions
+- Equity returns and value creation mechanisms
+- Exit strategies and return maximization
+- Expected Shortfall (ES) and coherent risk measures
+- Expected Shortfall and coherent risk measures
+- Fixed-for-floating swap cash flows and valuation
+- Hedge fund strategies and alternative investments
+- High Yield Bonds
+- Historical simulation vs. parametric VaR models
+- Interest rate models and term structure
+- Interest rate swap pricing and valuation
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Junior debt
+- LBO debt characteristics
+- LBO financing sources and covenant structures
+- Leveraged Buyout financial structures and returns
+- Leveraged loans
+- Loss given default and recovery rates
+- Monte Carlo VaR for complex portfolios
+- Monte Carlo simulation for derivatives
+- Portfolio optimization and mean-variance theory
+- Quantitative Implementation
+- Senior secured debt
+- Solution
+- Stress testing and scenario analysis
+- Swap spread and credit risk considerations
+- VaR backtesting and model validation
+- Value at Risk (VaR) and risk metrics
+- Value at Risk (VaR) methodologies and backtesting
+- Variance swaps and volatility trading strategies
+- Working Capital
+- Wrong-way risk in derivative transactions
+linter-yaml-title-alias: Note On LBO Capital Structure
+tags:
+- apt
+- capital-structure
+- capital_structure
+- case-study
+- collateralized-debt-obligations
+- corporate-bonds
+- course-material
+- credit
+- credit-derivatives
+- credit-risk
+- debt_financing
+- distressed-debt
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- harvard-business-review
+- hedge-funds
+- hedging-strategies
+- high-yield-bonds
+- infrastructure
+- interest-rate-derivatives
+- interest-rate-swaps
+- ito-calculus
+- lbo
+- leveraged-buyouts
+- leveraged_loans
+- liquidity-risk
+- markets
+- mbs-cmos
+- monte-carlo-simulation
+- numerical-simulation
+- options
+- options-pricing
+- private-equity
+- quantitative-implementation
+- quantitative-pricing
+- real-estate
+- risk-management
+- senior_debt
+- solution
+- stochastic
+- syndicated-loans
+- treasury-bonds
+- value-at-risk
+- working-capital
+title: Note on LBO Capital Structure
 ---
+
 
 # Note on LBO Capital Structure
 

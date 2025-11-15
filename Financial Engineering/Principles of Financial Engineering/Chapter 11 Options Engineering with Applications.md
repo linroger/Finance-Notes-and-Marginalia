@@ -1,9 +1,52 @@
 ---
-title: "Options Engineering with Applications"
+title: Options Engineering with Applications
 chapter: 11
-subject: "Financial Engineering"
-category: "Principles of Financial Engineering"
+subject: Financial Engineering
+category: Principles of Financial Engineering
+tags:
+- arbitrage
+- black-scholes-model
+- credit
+- credit-derivatives
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- monte-carlo-simulation
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- stochastic
+key_concepts:
+- Arbitrage pricing theory (APT)
+- Asian options and average price derivatives
+- Barrier options and knock-in/knock-out features
+- Black-Scholes option pricing model
+- Complete markets and replication
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- GARCH models and volatility forecasting
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Monte Carlo simulation for derivatives
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Put-call parity and option relationships
+- Quasi-Monte Carlo and variance reduction
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # OPTIONS ENGINEERING WITH APPLICATIONS  
 

@@ -2,27 +2,58 @@
 title: Financial Instruments Example Midterm Solutions
 cssclasses: academia
 tags:
-  - binomial_trees
-  - bond_valuation
-  - european_call_option
-  - european_put_option
-  - no_arbitrage_price
+- arbitrage
+- binomial-model
+- binomial_trees
+- black-scholes-model
+- bond_valuation
+- credit
+- credit-derivatives
+- equity-derivatives
+- european_call_option
+- european_put_option
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- no_arbitrage_price
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
 aliases:
-  - financial instruments midterm solutions
-  - option pricing exam
-  - option valuation
+- financial instruments midterm solutions
+- option pricing exam
+- option valuation
 key_concepts:
-  - Binary option price
-  - Binomial tree pricing
-  - Bond valuation example
-  - European call option
-  - European put option
-  - Forward contract pricing
-  - Hedging strategies
-  - Risk-neutral valuation
-  - No-arbitrage pricing
-  - Option delta calculation
+- Arbitrage pricing theory (APT)
+- Binary option price
+- Binomial tree models for option pricing
+- Binomial tree pricing
+- Black-Scholes option pricing model
+- Bond valuation example
+- Complete markets and replication
+- Delta hedging and Greeks calculation
+- European call option
+- European put option
+- Expected Shortfall (ES) and coherent risk measures
+- Forward contract pricing
+- Heath-Jarrow-Morton (HJM) framework
+- Hedging strategies
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- No-arbitrage pricing
+- Option Greeks and sensitivity analysis
+- Option delta calculation
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation
+- Risk-neutral valuation and martingale measures
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Financial Instruments Example Midterm Solutions
 

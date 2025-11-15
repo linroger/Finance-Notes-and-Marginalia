@@ -1,9 +1,35 @@
 ---
-title: "Tools for Volatility Engineering, Volatility Swaps, and Volatility Trading"
+title: Tools for Volatility Engineering, Volatility Swaps, and Volatility Trading
 chapter: 15
-subject: "Financial Engineering"
-category: "Principles of Financial Engineering"
+subject: Financial Engineering
+category: Principles of Financial Engineering
+tags:
+- arbitrage
+- black-scholes-model
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- option-greeks
+- options
+- options-pricing
+- risk-management
+key_concepts:
+- Arbitrage pricing theory (APT)
+- Black-Scholes option pricing model
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # TOOLS FOR VOLATILITY ENGINEERING, VOLATILITY SWAPS, AND VOLATILITY TRADING  
 

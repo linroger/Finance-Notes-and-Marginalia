@@ -1,19 +1,43 @@
 ---
-tags:
-  - futures_contracts
-  - futures_markets
-  - hedging
-  - speculation
-  - trading_mechanics
 aliases:
-  - Futures
-  - Futures Trading
+- Futures
+- Futures Trading
 key_concepts:
-  - OTC vs exchange
-  - delivery month
-  - futures contract trading
-  - futures quotes
-  - futures traders
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Chapter 2 - Futures Markets and financial analysis
+- Chapter 2 - Futures Markets in modern finance
+- Applications of Chapter 2 - Futures Markets
+- 'Case study: Chapter 2 - Futures Markets'
+tags:
+- maturity
+- credit
+- forward
+- default
+- futures
+- bonds
+- hedging
+- basis
+- trading
+- liquidity
+- spread
+- execution
+- bond
+- var
+- risk-management
 ---
 
 # FORWARDS AND FUTURES

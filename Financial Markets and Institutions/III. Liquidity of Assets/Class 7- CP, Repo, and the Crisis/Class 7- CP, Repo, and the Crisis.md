@@ -1,36 +1,159 @@
 ---
 cssclasses:
-  - academia
-title: "Class 7: CP, Repo, and the Crisis"
-linter-yaml-title-alias: "Class 7: CP, Repo, and the Crisis"
+- academia
+title: 'Class 7: CP, Repo, and the Crisis'
+linter-yaml-title-alias: 'Class 7: CP, Repo, and the Crisis'
 tags:
-  - banking_crisis
-  - commercial_paper
-  - financial_crisis
-  - lehman_brothers
-  - repo_market
-  - 2008_crisis
-  - shadow_banking
-  - securitization
-  - asset_backed_cp
-  - money_markets
+- 2008_crisis
+- alm
+- asset_backed_cp
+- banking
+- banking_crisis
+- commercial_paper
+- credit
+- credit-derivatives
+- financial_crisis
+- lehman_brothers
+- liquidity-risk
+- ma
+- mbs
+- money_markets
+- mortgage-backed-securities
+- oas
+- recovery-rate
+- repo
+- repo_market
+- repurchase-agreements
+- rmbs
+- securitization
+- shadow_banking
+- structured-finance
 aliases:
-  - "CP and Repo Crisis"
-  - Financial Crisis
-  - Repo Crisis
-  - "Class 7 CP Repo Crisis"
+- CP and Repo Crisis
+- Financial Crisis
+- Repo Crisis
+- Class 7 CP Repo Crisis
 key_concepts:
-  - Commercial paper market stress
-  - Repo market dynamics
-  - Asset-backed commercial paper
-  - Lehman Brothers collapse
-  - Northern Rock case study
-  - Securitized banking system
-  - Fire sales and illiquidity
-  - SIV structures
-  - Credit crisis mechanisms
-  - COVID-19 market interventions
+- Agricultural futures and seasonality
+- Alternative investments and hedge fund strategies
+- American vs European options and early exercise features
+- Arbitrage Pricing Theory (APT) and factor models
+- Asset swaps and spread-lock strategies
+- Asset-backed commercial paper
+- Bank asset-liability management (ALM) strategies
+- Bank capital adequacy and Basel III compliance
+- Bank stress testing and CCAR requirements
+- Barrier options and knock-in/knock-out structures
+- Basis swaps and cross-currency basis adjustments
+- Basis swaps and floating rate correlations
+- Behavioral finance and market anomalies
+- Best execution and regulatory requirements
+- Bid-ask spreads and market making profitability
+- Binomial option pricing model with multi-period trees
+- Black-Litterman model and portfolio optimization
+- Black-Scholes option pricing model and its applications
+- CDO structuring and tranche allocation methodologies
+- CDO-squared structures and correlation trading
+- COVID-19 market interventions
+- Calendar spreads and roll strategies
+- Capital Asset Pricing Model (CAPM) and beta estimation
+- Central bank digital currencies (CBDCs)
+- Central clearing and CCP risk management
+- Commercial paper market stress
+- Commodity futures and convenience yields
+- Commodity swaps and energy derivatives
+- Corporate bond pricing and credit spread decomposition
+- Crack spreads in energy markets
+- Credit crisis mechanisms
+- Credit default swaps and credit protection mechanisms
+- Credit risk assessment and loan pricing
+- Credit valuation adjustment (CVA) and counterparty risk
+- Cryptocurrency valuation and blockchain technology
+- Currency swaps and cross-currency basis
+- Dark pools and alternative trading venues
+- DeFi protocols and decentralized finance
+- Deposit insurance and systemic risk
+- Duration and convexity for bond price sensitivity
+- ESG investing and sustainability metrics
+- Enterprise value and equity value relationships
+- Equity swaps and total return swaps
+- Exotic derivatives and path-dependent options
+- Expected Shortfall (ES) and coherent risk measures
+- FX futures and currency hedging
+- Fama-French three-factor and five-factor models
+- Fintech disruption and digital banking
+- Fire sales and illiquidity
+- Forward contract pricing and cost of carry
+- Futures vs forwards and delivery options
+- Gamma trading and convexity adjustments
+- Green bonds and climate risk assessment
+- HJM and forward rate model frameworks
+- Historical simulation and parametric VaR approaches
+- Hull-White and Black-Karasinski short rate models
+- IPO pricing and underpricing analysis
+- Implied volatility and volatility surface modeling
+- Inflation-linked swaps and CPI adjustments
+- Interest rate derivatives and forward rate agreements
+- Interest rate swaps and swap spread decomposition
+- Key rate duration and curve risk decomposition
+- Lehman Brothers collapse
+- Liquidity coverage ratio and funding strategies
+- Liquidity-adjusted VaR and liquidity horizons
+- Margin requirements and collateral optimization
+- Market impact and transaction cost analysis
+- Mean reversion in interest rate processes
+- Mergers and acquisitions due diligence
+- Metal futures and industrial commodities
+- Model backtesting and validation procedures
+- Modern portfolio theory and efficient frontier
+- Momentum and reversal investment strategies
+- Mortgage-backed securities and prepayment modeling
+- Multi-factor interest rate models
+- Negative interest rates and floor/cap structures
+- Netting agreements and close-out procedures
+- Non-deliverable forwards and emerging market instruments
+- Northern Rock case study
+- OIS discounting and collateralized interest rate derivatives
+- Options on futures and forward-starting options
+- Payment systems and settlement risk
+- Prime brokerage and securities lending
+- Private credit and direct lending
+- Project finance and syndicated lending
+- Recovery rate modeling and loss given default
+- Repo market dynamics
+- Repo markets and securities lending
+- Risk factor decomposition and sensitivity analysis
+- Risk parity and risk budgeting strategies
+- SIV structures
+- Securitized banking system
+- Shadow banking and non-bank intermediation
+- Smart beta and alternative indexing approaches
+- Spot rates, forward rates, and discount factor curves
+- Stochastic volatility in interest rate markets
+- Stress testing and scenario analysis frameworks
+- Subprime mortgage crisis and structured finance risks
+- Swaptions and interest rate option pricing
+- Swaptions and option volatility surfaces
+- Synthetic CDOs and credit-linked note structures
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho sensitivity analysis'
+- Too-big-to-fail policies and resolution regimes
+- Treasury futures and bond basis
+- Treasury securities and government bond markets
+- VIX futures and volatility trading
+- Value at Risk (VaR) and expected shortfall methodologies
+- Value vs growth investing frameworks
+- Vasicek and CIR interest rate models
+- Volatility smile and skew patterns in option markets
+- Working capital and cash conversion cycle
+- Wrong-way risk and correlation adjustments
+- Zero-coupon bond pricing and bootstrapping
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch04-183377
 ---
+
+
+
 
 # Class 7: CP, Repo, and the Crisis
 

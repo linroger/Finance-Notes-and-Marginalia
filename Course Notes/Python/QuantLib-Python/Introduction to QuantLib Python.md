@@ -1,24 +1,45 @@
 ---
-title: Introduction to QuantLib Python
-source: https://gouthamanbalaraman.com/blog/quantlib-basics.html
-description: This post will walk through some of the basics of QuantLib Python library.
-tags:
-  - date_object
-  - interest_rate
-  - quantlib_python
-  - schedule_object
-  - time_module
 aliases:
-  - QL
-  - QuantLib
-  - QuantLib Python
+- QL
+- QuantLib
+- QuantLib Python
+description: This post will walk through some of the basics of QuantLib Python library.
 key_concepts:
-  - Compound factor method
-  - Date object construction
-  - Discount factor calculation
-  - InterestRate class usage
-  - QuantLib Python library
-  - Schedule object dates
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Introduction to QuantLib Python and financial analysis
+- Introduction to QuantLib Python in modern finance
+- Applications of Introduction to QuantLib Python
+- 'Case study: Introduction to QuantLib Python'
+source: https://gouthamanbalaraman.com/blog/quantlib-basics.html
+tags:
+- forward
+- discount
+- bonds
+- futures
+- var
+- bond
+- term-structure
+- discount-factors
+- interest-rate
+- interest-rates
+- pricing
+- coupon
+- risk-management
+title: Introduction to QuantLib Python
 ---
 
 # Introduction to QuantLib Python

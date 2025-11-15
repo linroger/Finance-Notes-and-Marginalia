@@ -1,29 +1,27 @@
 ---
+aliases:
+- Week 6 Banking Analysis
+- Banking Industry Valuation
+- Financial Intermediation Analysis
 cssclasses:
-  - academia
-title: Week 6 Advanced Financial Analysis and Valuation
+- academia
+key_concepts:
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Week 6 Advanced Financial Analysis and Valuation and financial analysis
+- Week 6 Advanced Financial Analysis and Valuation in modern finance
+- Applications of Week 6 Advanced Financial Analysis and Valuation
+- 'Case study: Week 6 Advanced Financial Analysis and Valuation'
 linter-yaml-title-alias: Week 6 Advanced Financial Analysis and Valuation
 tags:
-  - banking_industry
-  - financial_analysis
-  - bank_valuation
-  - regulatory_capital
-  - advanced_financial_analysis
-  - week_6
-aliases:
-  - Week 6 Banking Analysis
-  - Banking Industry Valuation
-  - Financial Intermediation Analysis
-key_concepts:
-  - Bank business models
-  - Financial intermediation
-  - Regulatory capital framework
-  - Bank balance sheet analysis
-  - Income statement analysis
-  - Duration mismatch
-  - Interest rate spread
-  - Loan portfolio valuation
-  - Bank-specific valuation methods
+- regulation
+- valuation
+- accounting
+title: Week 6 Advanced Financial Analysis and Valuation
 ---
 
 # Week 6 Advanced Financial Analysis and Valuation

@@ -1,20 +1,44 @@
 ---
-tags:
-  - arbitrage_arguments
-  - floating_rate_note
-  - interest_rate_swaps
-  - replication_portfolio
-  - term_structure
 aliases:
-  - FRN Valuation
-  - IRS Pricing
-  - Swap Valuation
+- FRN Valuation
+- IRS Pricing
+- Swap Valuation
 key_concepts:
-  - FRN market value
-  - FRN valuation methods
-  - Replication portfolio
-  - Swap cash flows
-  - Swap rate calculation
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Chapter 34 - Pricing Interest Rate Swaps and financial analysis
+- Chapter 34 - Pricing Interest Rate Swaps in modern finance
+- Applications of Chapter 34 - Pricing Interest Rate Swaps
+- 'Case study: Chapter 34 - Pricing Interest Rate Swaps'
+tags:
+- yield-curve
+- roll
+- term-structure
+- irs
+- futures
+- spot-rates
+- basis
+- discount-factors
+- interest-rate
+- forward-rates
+- libor
+- maturity
+- forward
+- swaps
+- bond
 ---
 # Pricing Interest Rate Swaps  
 

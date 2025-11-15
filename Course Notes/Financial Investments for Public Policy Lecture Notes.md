@@ -1,15 +1,41 @@
 ---
-tags:
-  - financial_markets
-  - public_policy
-  - risk_return
-aliases: 
+aliases: null
 key_concepts:
-  - Assess risk and return
-  - Excel for financial data
-  - Financial markets and policy
-  - Introductory investments tools
-  - Public policy investment questions
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Financial Investments for Public Policy Lecture Notes and financial analysis
+- Financial Investments for Public Policy Lecture Notes in modern finance
+- Applications of Financial Investments for Public Policy Lecture Notes
+- 'Case study: Financial Investments for Public Policy Lecture Notes'
+tags:
+- options
+- alpha
+- theta
+- efficient-market
+- beta
+- put
+- efficient-frontier
+- portfolio
+- fixed-income
+- gamma
+- portfolio-optimization
+- market-efficiency
+- maturity
+- bond
+- expiry
 ---
 
 # Prof. Carolin Pflueger  

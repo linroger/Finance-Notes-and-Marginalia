@@ -1,33 +1,56 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Lecture Notes - Financial Instruments
 tags:
-  - derivatives
-  - financial_instruments
-  - lecture_notes
-  - risk_management
-  - valuation
-  - options_pricing
-  - black_scholes
-  - credit_derivatives
+- binomial-model
+- black-scholes-model
+- black_scholes
+- credit
+- credit-derivatives
+- credit_derivatives
+- derivatives
+- derivatives-pricing
+- financial_instruments
+- interest-rate-derivatives
+- lecture_notes
+- markets
+- monte-carlo-simulation
+- numerical-simulation
+- options
+- options_pricing
+- quantitative-pricing
+- risk-management
+- risk_management
+- valuation
 aliases:
-  - Fin Instruments
-  - Financial Instruments
-  - Lecture Notes
-  - Financial Instruments Lecture Notes
+- Fin Instruments
+- Financial Instruments
+- Lecture Notes
+- Financial Instruments Lecture Notes
 key_concepts:
-  - Derivatives and risk
-  - Financial instrument valuation
-  - Instrument types and pricing
-  - Black-Scholes formula
-  - Implied volatility
-  - Forward rate agreements
-  - Futures contracts
-  - Interest rate derivatives
-  - Credit default swaps
-  - American options
+- American options
+- Binomial tree models for option pricing
+- Black-Scholes formula
+- Black-Scholes option pricing model
+- Credit default swaps
+- Credit default swaps (CDS) pricing
+- Derivatives and risk
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Financial instrument valuation
+- Forward rate agreements
+- Futures contracts
+- Heath-Jarrow-Morton (HJM) framework
+- Implied volatility
+- Implied volatility and volatility surface
+- Instrument types and pricing
+- Interest rate derivatives
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Monte Carlo simulation for derivatives
 ---
+
 
 # Lecture Notes - Financial Instruments
 

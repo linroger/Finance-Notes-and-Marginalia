@@ -1,20 +1,34 @@
 ---
 tags:
-  - arbitrage_trading
-  - basis_trading
-  - delivery_option
-  - futures_contracts
-  - implied_repo_rate
+- arbitrage
+- arbitrage_trading
+- basis_trading
+- delivery_option
+- fixed-income
+- fixed-income-derivatives
+- futures_contracts
+- implied_repo_rate
+- interest-rate-derivatives
+- markets
+- options
+- options-pricing
+- risk-management
 aliases:
-  - Basis and Repo
-  - Futures Basis
+- Basis and Repo
+- Futures Basis
 key_concepts:
-  - arbitrage trading opportunities
-  - basis and futures prices
-  - cheapest-to-deliver bond
-  - no-arbitrage futures price
-  - short future delivery option
+- Arbitrage pricing theory (APT)
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
+- arbitrage trading opportunities
+- basis and futures prices
+- cheapest-to-deliver bond
+- no-arbitrage futures price
+- short future delivery option
 ---
+
 
 # Basis Trading and the Implied Repo Rate 
 

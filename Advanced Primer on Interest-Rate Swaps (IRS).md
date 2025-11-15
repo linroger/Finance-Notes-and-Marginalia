@@ -1,3 +1,42 @@
+---
+key_concepts:
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Advanced Primer on Interest-Rate Swaps (IRS) and financial analysis
+- Advanced Primer on Interest-Rate Swaps (IRS) in modern finance
+- Applications of Advanced Primer on Interest-Rate Swaps (IRS)
+- 'Case study: Advanced Primer on Interest-Rate Swaps (IRS)'
+tags:
+- options
+- stress-test
+- var
+- hedge-ratio
+- irs
+- swaption
+- futures
+- dv01
+- basis
+- gamma
+- maturity
+- forward
+- swaps
+- bond
+- coupon
+---
+
 # Advanced Primer on Interest-Rate Swaps (IRS)
 ## Plain Vanilla Fixed-for-Floating Swaps
 ---

@@ -1,24 +1,48 @@
 ---
-title: Modeling Vanilla Interest Rate Swaps Using QuantLib Python
-source: https://gouthamanbalaraman.com/blog/interest-rate-swap-quantlib-python.html
+aliases:
+- IRS
+- Interest Rate Swap
+- Swap Example
 description: Provides a basic introduction to valuing interest rate swaps using QuantLib
   Python.
-tags:
-  - fixed_floating
-  - interest_rate_swaps
-  - quantlib_python
-  - swap_valuation
-  - vanilla_swaps
-aliases:
-  - IRS
-  - Interest Rate Swap
-  - Swap Example
 key_concepts:
-  - Cash flow analysis
-  - Fixed vs. floating
-  - Interest rate swap
-  - Notional amount
-  - QuantLib Python valuation
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Modeling Vanilla Interest Rate Swaps Using QuantLib Python and financial analysis
+- Modeling Vanilla Interest Rate Swaps Using QuantLib Python in modern finance
+- Applications of Modeling Vanilla Interest Rate Swaps Using QuantLib Python
+- 'Case study: Modeling Vanilla Interest Rate Swaps Using QuantLib Python'
+source: https://gouthamanbalaraman.com/blog/interest-rate-swap-quantlib-python.html
+tags:
+- libor
+- maturity
+- swap
+- forward
+- swaps
+- bonds
+- futures
+- yield
+- yield-curve
+- basis
+- basis-swap
+- liquidity
+- spread
+- interest-rate
+- interest-rates
+title: Modeling Vanilla Interest Rate Swaps Using QuantLib Python
 ---
 
 # Modeling Vanilla Interest Rate Swaps Using QuantLib Python

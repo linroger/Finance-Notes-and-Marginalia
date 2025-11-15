@@ -1,30 +1,71 @@
 ---
 title: Counterparty Risk, Multiple Curves, CVA, DVA, and FVA
 tags:
-  - counterparty-risk
-  - cva
-  - dva
-  - fva
-  - credit-risk
-  - derivatives-valuation
-  - xva
-  - collateral-management
-  - financial-engineering
+- arbitrage
+- black-scholes-model
+- collateral-management
+- counterparty-risk
+- credit
+- credit-derivatives
+- credit-risk
+- cva
+- derivatives-valuation
+- dva
+- financial-engineering
+- fixed-income
+- fixed-income-derivatives
+- fva
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- model-calibration
+- monte-carlo-simulation
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- stochastic
+- xva
 aliases:
-  - Chapter 24 Counterparty Risk
-  - CVA DVA FVA
-  - XVA Adjustments
+- Chapter 24 Counterparty Risk
+- CVA DVA FVA
+- XVA Adjustments
 key_concepts:
-  - Credit Valuation Adjustment (CVA)
-  - Debit Valuation Adjustment (DVA)
-  - Funding Valuation Adjustment (FVA)
-  - Counterparty credit risk
-  - Collateral agreements
-  - Wrong-way risk
-  - Multiple curve framework
-  - Bilateral CVA
+- Arbitrage pricing theory (APT)
+- Barrier options and knock-in/knock-out features
+- Basel III regulatory framework
+- Bilateral CVA
+- Black-Scholes option pricing model
+- Collateral agreements
+- Complete markets and replication
+- Counterparty credit risk
+- Credit Valuation Adjustment (CVA)
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Debit Valuation Adjustment (DVA)
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Funding Valuation Adjustment (FVA)
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Model calibration and parameter estimation
+- Monte Carlo simulation for derivatives
+- Multiple curve framework
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Value at Risk (VaR) and risk metrics
+- Wrong-way risk
 cssclasses: academia
 ---
+
 
 # COUNTERPARTY RISK, MULTIPLE CURVES, CVA, DVA, AND FVA  
 

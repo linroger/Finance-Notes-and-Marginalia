@@ -1,38 +1,184 @@
 ---
 cssclasses:
-  - academia
-title: "Banks and Liquidity Creation: A Simple Exposition of the Diamond-Dybvig Model"
-linter-yaml-title-alias: "Banks and Liquidity Creation: A Simple Exposition of the Diamond-Dybvig Model"
+- academia
+title: 'Banks and Liquidity Creation: A Simple Exposition of the Diamond-Dybvig Model'
+linter-yaml-title-alias: 'Banks and Liquidity Creation: A Simple Exposition of the
+  Diamond-Dybvig Model'
 tags:
-  - bank_liquidity
-  - bank_runs
-  - demand_deposits
-  - diamond_dybvig_model
-  - financial_crises
-  - liquidity_creation
-  - deposit_insurance
-  - bank_panics
-  - maturity_transformation
-  - systemic_risk
+- artificial-intelligence
+- bank-failure
+- bank_liquidity
+- bank_panics
+- bank_runs
+- banking
+- demand_deposits
+- deposit-insurance
+- deposit_insurance
+- diamond_dybvig_model
+- dva
+- equity-derivatives
+- financial_crises
+- fixed-income
+- interest-rate-derivatives
+- interest-rate-swap
+- ipo
+- irs
+- ito-calculus
+- lending
+- liquidity-risk
+- liquidity_creation
+- ma
+- markets
+- maturity_transformation
+- mpt
+- option-greeks
+- options
+- options-pricing
+- risk-management
+- rwa
+- sifi
+- stochastic
+- systemic_risk
 aliases:
-  - "Bank Runs"
-  - "Diamond-Dybvig"
-  - "Liquidity Creation"
-  - "Diamond-Dybvig Model"
+- Bank Runs
+- Diamond-Dybvig
+- Liquidity Creation
+- Diamond-Dybvig Model
 key_concepts:
-  - Bank run prevention mechanisms
-  - Banks create liquidity through maturity transformation
-  - Demand for liquid assets by consumers
-  - Deposit insurance as run prevention
-  - Illiquid asset valuation and early liquidation
-  - Self-fulfilling prophecies in banking
-  - Multiple equilibria and coordination failures
-  - Suspension of convertibility
-  - Risk-sharing through deposit contracts
-  - Entrepreneurial liquidity demand
-  - Nash equilibrium in bank runs
-  - Government guarantees and taxation authority
+- Agricultural futures and seasonality
+- Alternative investments and hedge fund strategies
+- American vs European options and early exercise features
+- Arbitrage Pricing Theory (APT) and factor models
+- Asset swaps and spread-lock strategies
+- Bank asset-liability management (ALM) strategies
+- Bank capital adequacy and Basel III compliance
+- Bank run prevention mechanisms
+- Bank stress testing and CCAR requirements
+- Banks create liquidity through maturity transformation
+- Barrier options and knock-in/knock-out structures
+- Basis swaps and cross-currency basis adjustments
+- Basis swaps and floating rate correlations
+- Behavioral finance and market anomalies
+- Best execution and regulatory requirements
+- Bid-ask spreads and market making profitability
+- Binomial option pricing model with multi-period trees
+- Black-Litterman model and portfolio optimization
+- Black-Scholes option pricing model and its applications
+- Bond portfolio immunization strategies
+- CDO structuring and tranche allocation methodologies
+- CDO-squared structures and correlation trading
+- Calendar spreads and roll strategies
+- Capital Asset Pricing Model (CAPM) and beta estimation
+- Central bank digital currencies (CBDCs)
+- Central clearing and CCP risk management
+- Commodity futures and convenience yields
+- Commodity swaps and energy derivatives
+- Constant maturity swaps and roll-over features
+- Crack spreads in energy markets
+- Credit risk assessment and loan pricing
+- Cryptocurrency valuation and blockchain technology
+- Currency swaps and cross-currency basis
+- Dark pools and alternative trading venues
+- DeFi protocols and decentralized finance
+- Delta hedging and Greeks calculation
+- Demand for liquid assets by consumers
+- Deposit insurance and systemic risk
+- Deposit insurance as run prevention
+- Discounted cash flow (DCF) valuation methodologies
+- Dividend discount model (DDM) applications
+- Duration and convexity for bond price sensitivity
+- ESG investing and sustainability metrics
+- Enterprise value and equity value relationships
+- Entrepreneurial liquidity demand
+- Equity swaps and total return swaps
+- Exotic derivatives and path-dependent options
+- Expected Shortfall (ES) and coherent risk measures
+- Extreme value theory and tail risk modeling
+- FX futures and currency hedging
+- Fama-French three-factor and five-factor models
+- Fintech disruption and digital banking
+- Forward contract pricing and cost of carry
+- Futures vs forwards and delivery options
+- GARCH models for volatility forecasting
+- Gamma trading and convexity adjustments
+- Government guarantees and taxation authority
+- Green bonds and climate risk assessment
+- HJM and forward rate model frameworks
+- High frequency trading and algorithmic strategies
+- Historical simulation and parametric VaR approaches
+- Hull-White and Black-Karasinski short rate models
+- IPO pricing and underpricing analysis
+- Illiquid asset valuation and early liquidation
+- Implied volatility and volatility surface modeling
+- Inflation-linked swaps and CPI adjustments
+- Interest rate derivatives and forward rate agreements
+- Interest rate swaps and swap spread decomposition
+- Ito's Lemma and stochastic calculus
+- Key rate duration and curve risk decomposition
+- Liquidity coverage ratio and funding strategies
+- Liquidity-adjusted VaR and liquidity horizons
+- Margin requirements and collateral optimization
+- Market impact and transaction cost analysis
+- Mean reversion in interest rate processes
+- Mergers and acquisitions due diligence
+- Metal futures and industrial commodities
+- Model backtesting and validation procedures
+- Modern portfolio theory and efficient frontier
+- Momentum and reversal investment strategies
+- Mortgage-backed securities and prepayment modeling
+- Multi-factor interest rate models
+- Multiple equilibria and coordination failures
+- Nash equilibrium in bank runs
+- Negative interest rates and floor/cap structures
+- Net interest margin and banking profitability
+- Netting agreements and close-out procedures
+- Non-deliverable forwards and emerging market instruments
+- OIS discounting and collateralized interest rate derivatives
+- Options on futures and forward-starting options
+- Payment systems and settlement risk
+- Portfolio optimization and mean-variance theory
+- Prime brokerage and securities lending
+- Private credit and direct lending
+- Project finance and syndicated lending
+- Real estate investment trusts (REITs)
+- Recovery rate modeling and loss given default
+- Repo markets and securities lending
+- Risk factor decomposition and sensitivity analysis
+- Risk parity and risk budgeting strategies
+- Risk-neutral valuation and martingale measures
+- Risk-sharing through deposit contracts
+- Self-fulfilling prophecies in banking
+- Shadow banking and non-bank intermediation
+- Smart beta and alternative indexing approaches
+- Spot rates, forward rates, and discount factor curves
+- Stochastic volatility in interest rate markets
+- Stress testing and scenario analysis frameworks
+- Suspension of convertibility
+- Swaptions and interest rate option pricing
+- Swaptions and option volatility surfaces
+- Synthetic CDOs and credit-linked note structures
+- Terminal value modeling and exit multiples
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho sensitivity analysis'
+- Too-big-to-fail policies and resolution regimes
+- Treasury futures and bond basis
+- Treasury securities and government bond markets
+- VIX futures and volatility trading
+- Value at Risk (VaR) and expected shortfall methodologies
+- Value vs growth investing frameworks
+- Vasicek and CIR interest rate models
+- Vasicek and Cox-Ingersoll-Ross models
+- Volatility smile and skew patterns in option markets
+- Weighted average cost of capital (WACC) calculations
+- Working capital and cash conversion cycle
+- Wrong-way risk and correlation adjustments
+- Yield curve construction and term structure modeling
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch04-819177
 ---
+
+
+
 
 # Banks and Liquidity Creation: A Simple Exposition of the Diamond-Dybvig Model
 

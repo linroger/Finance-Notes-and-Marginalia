@@ -1,27 +1,99 @@
 ---
-title: Discussion of Loan Covenants
-  vs. Bond Covenants
-tags:
-  - bond_covenants
-  - bondholder_rights
-  - corporate_bonds
-  - federal_trust_indenture_act
-  - loan_covenants
 aliases:
-  - Bond Indentures
-  - Covenants vs. Bond Covenants
-  - Loan Covenants
-  - MGM Mirage Bond
+- Bond Indentures
+- Covenants vs. Bond Covenants
+- Loan Covenants
+- MGM Mirage Bond
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-d8ad41
 key_concepts:
-  - Bond contract features
-  - Bondholder voting rules
-  - Covenants in indentures
-  - Excessive debt risk choice
-  - Limits to debt renegotiation
-  - Loan contract default
-  - Make-whole call option
-  - US Federal Trust Indenture Act
+- Algorithmic trading and execution strategies
+- American option pricing in binomial trees
+- Apt
+- Arbitrage pricing theory (APT)
+- Binomial option pricing model with multiple time steps
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- Bond contract features
+- Bondholder voting rules
+- Case Study
+- Commodity markets and pricing dynamics
+- Common pitfalls in DCF valuation
+- Computational implementation of binomial option pricing
+- Convergence of binomial model to Black-Scholes solution
+- Corporate Bonds
+- Course Material
+- Covenants in indentures
+- Cox-Ross-Rubinstein parameter specification
+- Credit risk and default probability
+- Cross-currency basis swaps and funding
+- Discounted Cash Flow valuation methodology
+- Distressed Debt
+- Excessive debt risk choice
+- Expected Shortfall (ES) and coherent risk measures
+- Fixed-for-floating swap cash flows and valuation
+- Free cash flow to equity and firm valuation
+- GARCH models and volatility forecasting
+- Harvard Business Review
+- Interest rate models and term structure
+- Interest rate swap pricing and valuation
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Limits to debt renegotiation
+- Loan contract default
+- Make-whole call option
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Quantitative Implementation
+- Sensitivity analysis in DCF models
+- Solution
+- Swap spread and credit risk considerations
+- Terminal value estimation and perpetuity growth
+- Treasury Bonds
+- US Federal Trust Indenture Act
+- Value at Risk (VaR) and risk metrics
+- Variance swaps and volatility trading strategies
+- Vasicek and Cox-Ingersoll-Ross models
+tags:
+- algorithmic-trading
+- apt
+- binomial-model
+- black-scholes-model
+- bond_covenants
+- bondholder_rights
+- case-study
+- commodities
+- corporate-bonds
+- corporate_bonds
+- course-material
+- credit
+- credit-derivatives
+- dcf-valuation
+- distressed-debt
+- equity-derivatives
+- federal_trust_indenture_act
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- garch-models
+- harvard-business-review
+- interest-rate-derivatives
+- interest-rate-swaps
+- ito-calculus
+- loan_covenants
+- markets
+- options
+- options-pricing
+- quantitative-implementation
+- quantitative-pricing
+- risk-management
+- solution
+- stochastic
+- treasury-bonds
+title: Discussion of Loan Covenants vs. Bond Covenants
 ---
+
 
 # Discussion of Loan Covenants vs. Bond Covenants
 

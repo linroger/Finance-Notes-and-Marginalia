@@ -1,27 +1,46 @@
 ---
-title: Credit Markets Session 1
-tags:
-  - credit_instruments
-  - credit_markets
-  - credit_trading
-  - default_risk
-  - bond_pricing
-  - fixed_income
 aliases:
-  - Credit Default Risk
-  - Credit Markets
-  - Credit Trading
-  - Credit Instruments
+- Credit Default Risk
+- Credit Markets
+- Credit Trading
+- Credit Instruments
 key_concepts:
-  - credit default swaps
-  - credit market segments
-  - default risk valuation
-  - instrument types
-  - seniority ranks
-  - bond cash flows
-  - yield calculations
-  - credit spreads
-  - duration and convexity
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Credit Markets Session 1 and financial analysis
+- Credit Markets Session 1 in modern finance
+- Applications of Credit Markets Session 1
+- 'Case study: Credit Markets Session 1'
+tags:
+- options
+- theta
+- corporate-bond
+- market-maker
+- put
+- dv01
+- fixed-income
+- gamma
+- liquidity
+- maturity
+- credit-risk
+- default
+- bond
+- trading
+- spread
+title: Credit Markets Session 1
 ---
 
 # Credit Markets Session 1

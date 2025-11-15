@@ -1,39 +1,48 @@
 ---
-cssclasses: academia
-title: "HKS: The Banking Industry - Faculty Research Working Paper"
-date: 2023-10-15
-tags:
-  - banking_industry
-  - financial_crisis_2008
-  - commercial_banking
-  - investment_banking
-  - retail_banking
-  - banking_regulation
-  - dodd_frank_act
-  - bank_mergers
-  - antitrust_policy
-  - glass_steagall
-  - shadow_banking
-  - federal_reserve
-  - mortgage_crisis
-  - too_big_to_fail
-  - banking_concentration
 aliases:
-  - Banking Industry Study
-  - HKS Banking Paper
-  - Banking Market Structure
-  - Banking Policy Analysis
+- Banking Industry Study
+- HKS Banking Paper
+- Banking Market Structure
+- Banking Policy Analysis
+cssclasses: academia
+date: 2023-10-15
 key_concepts:
-  - Banking functions: Geographic space bridging and time preference mediation
-  - Great Recession 2008: Banking role in mortgage crisis and economic collapse
-  - Market structure: Concentration ratios and merger activity
-  - Regulatory framework: Glass-Steagall, Dodd-Frank, Basel requirements
-  - Performance measures: Profitability paradox and compensation rents
-  - Antitrust policy: Philadelphia Bank precedent and local market focus
-  - Financial innovation: Mortgage-backed securities, CDOs, credit default swaps
-  - Too big to fail: Government interventions and moral hazard
-  - Shadow banking: Non-traditional financial intermediaries
-  - Banking concentration: Ten largest banks hold 40-50% of core assets
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- HKS The Banking Industry and financial analysis
+- HKS The Banking Industry in modern finance
+- Applications of HKS The Banking Industry
+- 'Case study: HKS The Banking Industry'
+tags:
+- libor
+- default
+- bonds
+- options
+- put
+- recovery
+- yield
+- cds
+- fixed-income
+- bond
+- treasury
+- call
+- interest-rates
+- interest-rate
+- corporate-bond
+title: 'HKS: The Banking Industry - Faculty Research Working Paper'
 ---
 
 The Banking Industry Faculty Research Working Paper Series

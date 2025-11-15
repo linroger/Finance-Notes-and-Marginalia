@@ -1,69 +1,60 @@
 ---
-title: 'A Guide to Duration, DV01, and Yield Curve Risk Transformations'
-cssclasses: academia
-tags:
-  - duration
-  - dv01
-  - interest_rate_risk
-  - modified_duration
-  - yield_curve
-  - yield_curve_partial_dv01s
-  - risk_transformations
-  - key_rate_durations
-  - fixed_income_risk
-  - partial_derivatives
-  - jacobian_matrix
-  - coordinate_transformation
-  - curve_variables
-  - macaulay_duration
-  - dollar_duration
-  - basis_point_value
-  - forward_curves
-  - zero_rates
-  - par_rates
-  - risk_management
-  - financial_engineering
-  - interest_rate_sensitivity
-  - portfolio_risk_analysis
 aliases:
-  - Basis Point Value
-  - Dollar Duration
-  - PV01
-  - Yield Curve Partial DV01s
-  - Risk Transformations
-  - Duration Guide
-  - DV01 Guide
-  - Key Rate Duration
-  - Modified Duration
-  - Macaulay Duration
-  - Partial DV01s
-  - Price Sensitivity
-  - Interest Rate Risk
-key_concepts:
-  - Key rate durations
-  - Modified duration
-  - Partial DV01s
-  - Price sensitivity measurement
-  - Yield curve risk
-  - Dollar duration (DV01)
-  - Macaulay duration
-  - Risk transformations
-  - Jacobian matrix transformations
-  - Curve variable derivatives
-  - Forward rate risk
-  - Zero rate risk
-  - Par rate risk
-  - Yield curve construction
-  - Risk compression techniques
-  - Alternate variable transformations
-  - Matrix inversion for risk
-  - Partial derivatives of prices
-  - Functional form of curves
-  - Interest rate derivative pricing
-created: 2024-12-20
+- Basis Point Value
+- Dollar Duration
+- PV01
+- Yield Curve Partial DV01s
+- Risk Transformations
+- Duration Guide
+- DV01 Guide
+- Key Rate Duration
+- Modified Duration
+- Macaulay Duration
+- Partial DV01s
+- Price Sensitivity
+- Interest Rate Risk
 author: Thomas S. Coleman
+created: 2024-12-20
+cssclasses: academia
 institution: Close Mountain Advisors LLC
+key_concepts:
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- A Guide to Duration DV01 and Yield Curve (1) and financial analysis
+- A Guide to Duration DV01 and Yield Curve (1) in modern finance
+- Applications of A Guide to Duration DV01 and Yield Curve (1)
+- 'Case study: A Guide to Duration DV01 and Yield Curve (1)'
 paper_date: 2011-01-15
+tags:
+- maturity
+- swap
+- forward
+- swaps
+- bonds
+- futures
+- dv01
+- yield
+- var
+- bond
+- basis
+- fixed-income
+- coupon
+- irs
+- risk-management
+title: A Guide to Duration, DV01, and Yield Curve Risk Transformations
 ---
 
   

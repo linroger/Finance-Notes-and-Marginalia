@@ -1,20 +1,20 @@
 ---
-cssclasses:
-  - academia
-title: Python
-tags:
-  - coding
-  - programming
-  - python
 aliases:
-  - Python Language
-  - Python Programming
+- Python Language
+- Python Programming
+cssclasses:
+- academia
 key_concepts:
-  - Data structures
-  - Large standard library
-  - Object-oriented programming
-  - Scripting language
-  - Web development
+- Python and financial analysis
+- Python in modern finance
+- Applications of Python
+- 'Case study: Python'
+- Financial markets and institutions
+- Risk management and analysis
+- Portfolio theory and optimization
+- Derivative securities and hedging
+tags: []
+title: Python
 ---
 
 # Python

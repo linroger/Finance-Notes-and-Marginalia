@@ -1,33 +1,129 @@
 ---
-title: Governance in Financial Distress and Bankruptcy
-tags:
-  - bankruptcy
-  - board_turnover
-  - chapter_11
-  - corporate_governance
-  - creditor_rights
-  - distressed_firms
-  - financial_distress
-  - management
-  - restructuring
-  - shareholders
 aliases:
-  - Corporate Bankruptcy
-  - Distressed Firm Governance
-  - Financial Distress Governance
-  - Governance in Distress
+- Corporate Bankruptcy
+- Distressed Firm Governance
+- Financial Distress Governance
+- Governance in Distress
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-8950cd
 key_concepts:
-  - Automatic stay
-  - Chapter 11 reorganization process
-  - Control rights of stakeholders
-  - Creditor-controlled outcomes
-  - Debtor in possession
-  - Equity holder-creditor conflicts
-  - Framework of control rights
-  - Governance and financial distress
-  - Influence of creditors
-  - Management and board turnover
+- 2008 financial crisis and systemic risk analysis
+- Apt
+- Arbitrage pricing theory (APT)
+- Automatic stay
+- Basel III regulatory framework
+- Basel III regulatory framework and capital requirements
+- Capital Structure
+- Case Study
+- Chapter 11 reorganization process
+- Collateralized Debt Obligations
+- Commodity markets and pricing dynamics
+- Control rights of stakeholders
+- Course Material
+- Credit risk and default probability
+- Creditor-controlled outcomes
+- Cross-currency basis swaps and funding
+- Debtor in possession
+- Equity holder-creditor conflicts
+- Exotic options and path-dependent derivatives
+- Expectations hypothesis and liquidity preference theory
+- Expected Shortfall (ES) and coherent risk measures
+- Expected Shortfall and coherent risk measures
+- Fixed-for-floating swap cash flows and valuation
+- Framework of control rights
+- GARCH models and volatility forecasting
+- Governance and financial distress
+- Government bailout mechanisms and market interventions
+- Heath-Jarrow-Morton (HJM) framework
+- Historical simulation vs. parametric VaR models
+- Influence of creditors
+- Interest rate models and term structure
+- Interest rate swap pricing and valuation
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Leverage ratio and large exposures
+- Liquidity coverage ratio and net stable funding ratio
+- Management and board turnover
+- Mathematical Finance
+- Monte Carlo VaR for complex portfolios
+- Monte Carlo simulation for derivatives
+- Parallel and non-parallel shifts in the yield curve
+- Portfolio optimization and mean-variance theory
+- Risk-weighted assets and capital adequacy ratios
+- Spot rates vs. forward rates modeling
+- Stress testing and scenario analysis
+- Stress testing and supervisory review processes
+- Swap spread and credit risk considerations
+- Term structure of interest rates and yield curve shapes
+- VaR backtesting and model validation
+- Value at Risk (VaR) and risk metrics
+- Value at Risk (VaR) methodologies and backtesting
+- Variance swaps and volatility trading strategies
+- Vasicek and Cox-Ingersoll-Ross models
+- Yield curve fitting and interpolation methods
+tags:
+- 2008-financial-crisis
+- apt
+- bailout
+- bank-regulation
+- bankruptcy
+- basel-iii
+- board_turnover
+- capital-structure
+- case-study
+- chapter_11
+- collateralized-debt-obligations
+- commodities
+- corporate-bonds
+- corporate_governance
+- course-material
+- credit
+- credit-analysis
+- credit-derivatives
+- creditor_rights
+- dcf-valuation
+- deleveraging
+- distressed-debt
+- distressed_firms
+- duration-convexity
+- equity-derivatives
+- exotic-options
+- financial_distress
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- garch-models
+- harvard-business-review
+- hedge-funds
+- hedging-strategies
+- infrastructure
+- interest-rate-derivatives
+- interest-rate-swaps
+- ito-calculus
+- leveraged-buyouts
+- management
+- markets
+- mathematical-finance
+- monte-carlo-simulation
+- municipal-bonds
+- numerical-simulation
+- options
+- options-pricing
+- private-equity
+- quantitative-implementation
+- quantitative-pricing
+- restructuring
+- risk-management
+- shareholders
+- solution
+- stochastic
+- treasury-bonds
+- value-at-risk
+- yield-curve
+title: Governance in Financial Distress and Bankruptcy
 ---
+
 
 # Governance in Financial Distress and Bankruptcy
 

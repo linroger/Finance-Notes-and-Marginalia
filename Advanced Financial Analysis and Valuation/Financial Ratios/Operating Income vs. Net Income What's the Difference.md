@@ -1,24 +1,34 @@
 ---
-title: Operating Income vs. Net Income What's the Difference
-cssclasses:
-  - academia
-tags:
-  - financial_metrics
-  - income_statement
-  - net_income
-  - operating_income
-  - profitability
 aliases:
-  - Bottom Line
-  - J.C. Penney Example
-  - Operating Profit
+- Bottom Line
+- J.C. Penney Example
+- Operating Profit
+cssclasses:
+- academia
 key_concepts:
-  - Operating income vs net income differences
-  - Operating expenses components
-  - Net income calculation methodology
-  - Gross profit relationship to operating income
-  - J.C. Penney financial analysis example
-  - Impact of interest expenses on profitability
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Operating Income vs. Net Income What's the Difference and financial analysis
+- Operating Income vs. Net Income What's the Difference in modern finance
+- Applications of Operating Income vs. Net Income What's the Difference
+- 'Case study: Operating Income vs. Net Income What''s the Difference'
+tags:
+- income statement
+- options
+- futures
+- financial-statement
+- roll
+- call
+- accounting
+- statement
+title: Operating Income vs. Net Income What's the Difference
 ---
 
 # Operating Income vs. Net Income What's the Difference

@@ -1,28 +1,47 @@
 ---
-cssclasses:
-  - academia
-title: Leverage Ratio
-tags:
-  - accounting_leverage
-  - banking_regulation
-  - consumer_leverage_ratio
-  - debt_to_equity_ratio
-  - financial_ratios
 aliases:
-  - Debt Ratio
-  - Financial Leverage
-  - Leverage
+- Debt Ratio
+- Financial Leverage
+- Leverage
+cssclasses:
+- academia
 key_concepts:
-  - Assess financial obligations
-  - Banks and leverage ratios
-  - Debt amplifies returns
-  - Debt and equity mix
-  - Debt and financial obligations
-  - Debt-to-equity ratio
-  - Equity multiplier
-  - Financial structure analysis
-  - Regulatory requirements
-  - Risk assessment
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Leverage Ratio and financial analysis
+- Leverage Ratio in modern finance
+- Applications of Leverage Ratio
+- 'Case study: Leverage Ratio'
+tags:
+- credit
+- regulatory
+- options
+- default
+- put
+- futures
+- regulation
+- bankruptcy
+- cds
+- var
+- capital-requirement
+- roll
+- call
+- ratio
+- risk-management
+title: Leverage Ratio
 ---
 
 # Leverage Ratio

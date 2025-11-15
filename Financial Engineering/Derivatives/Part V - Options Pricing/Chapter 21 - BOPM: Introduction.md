@@ -1,20 +1,44 @@
 ---
-tags:
-  - binomial_option_pricing_model
-  - bopm
-  - delta_hedging
-  - european_call_option
-  - risk_neutral_valuation
 aliases:
-  - BOPM
-  - Binomial Model
-  - Option Pricing
+- BOPM
+- Binomial Model
+- Option Pricing
 key_concepts:
-  - Binomial option pricing model
-  - Delta hedging
-  - European call option
-  - Risk-free arbitrage portfolio
-  - Risk-neutral valuation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- 'Chapter 21 - BOPM: Introduction and financial analysis'
+- 'Chapter 21 - BOPM: Introduction in modern finance'
+- 'Applications of Chapter 21 - BOPM: Introduction'
+- 'Case study: Chapter 21 - BOPM: Introduction'
+tags:
+- discount
+- options
+- futures
+- put
+- portfolio
+- strike
+- no-arbitrage
+- hedging
+- basis
+- delta
+- call
+- portfolio-optimization
+- arbitrage
+- hedge-ratio
+- risk-management
 ---
 # OPTIONS PRICING  
 

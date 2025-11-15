@@ -1,23 +1,47 @@
 ---
-title: Valuing Treasury Futures Using QuantLib Python
-source: http://gouthamanbalaraman.com/blog/value-treasury-futures-quantlib-python.html
+aliases:
+- QuantLib Futures
+- Valuing Futures
 description: Provides an introduction to valuation of treasury futures contract in
   QuantLib Python.
-tags:
-  - cheapest_to_deliver
-  - futures_contract
-  - quantlib_python
-  - treasury_futures
-  - yield_curve
-aliases:
-  - QuantLib Futures
-  - Valuing Futures
 key_concepts:
-  - Build yield curve
-  - Cheapest to deliver
-  - Futures contract modeling
-  - QuantLib Python contract
-  - Treasury futures valuation
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Valuing Treasury Futures Using QuantLib Python and financial analysis
+- Valuing Treasury Futures Using QuantLib Python in modern finance
+- Applications of Valuing Treasury Futures Using QuantLib Python
+- 'Case study: Valuing Treasury Futures Using QuantLib Python'
+source: http://gouthamanbalaraman.com/blog/value-treasury-futures-quantlib-python.html
+tags:
+- maturity
+- forward
+- bonds
+- futures
+- yield
+- yield-curve
+- fixed-income
+- bond
+- basis
+- liquidity
+- spread
+- treasury
+- term-structure
+- risk
+- coupon
+title: Valuing Treasury Futures Using QuantLib Python
 ---
 
 # Valuing Treasury Futures Using QuantLib Python

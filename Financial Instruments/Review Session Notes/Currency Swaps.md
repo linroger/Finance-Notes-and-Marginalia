@@ -1,31 +1,44 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Currency Swaps
 title: Currency Swaps
 tags:
-  - currency_swaps
-  - exchange_rate_risk
-  - government_bonds
-  - hedging
-  - swap_contract
-  - cross_currency_swaps
-  - fixed_income
-  - international_finance
+- cross_currency_swaps
+- currency_swaps
+- derivatives-pricing
+- exchange_rate_risk
+- fixed-income
+- fixed-income-derivatives
+- fixed_income
+- fx-derivatives
+- government_bonds
+- hedging
+- hedging-strategies
+- interest-rate-derivatives
+- international_finance
+- markets
+- risk-management
+- swap_contract
 aliases:
-  - FX swap
-  - Currency Swap
-  - Cross-Currency Swap
+- FX swap
+- Currency Swap
+- Cross-Currency Swap
 key_concepts:
-  - Bond valuation in foreign currencies
-  - Currency swap rates determination
-  - Exchange rate risk hedging
-  - Government bond issuance
-  - Swap contract mechanics
-  - Principal exchange mechanics
-  - Semi-annual coupon payments
-  - Interest rate differentials
+- Bond valuation in foreign currencies
+- Currency swap rates determination
+- Delta hedging and Greeks calculation
+- Exchange rate risk hedging
+- Expected Shortfall (ES) and coherent risk measures
+- Government bond issuance
+- Interest rate differentials
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Principal exchange mechanics
+- Semi-annual coupon payments
+- Swap contract mechanics
 ---
+
 
 # Currency Swaps
 

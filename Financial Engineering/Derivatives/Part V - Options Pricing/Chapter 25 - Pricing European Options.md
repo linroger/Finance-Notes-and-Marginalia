@@ -1,19 +1,43 @@
 ---
-tags:
-  - black_scholes
-  - dividend_stocks
-  - european_options
-  - foreign_currency
-  - futures_options
 aliases:
-  - European Option Pricing
-  - Pricing Options
+- European Option Pricing
+- Pricing Options
 key_concepts:
-  - Black-Scholes formula
-  - Dividend paying stocks
-  - Foreign currency options
-  - Futures options pricing
-  - Put-call parity
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Chapter 25 - Pricing European Options and financial analysis
+- Chapter 25 - Pricing European Options in modern finance
+- Applications of Chapter 25 - Pricing European Options
+- 'Case study: Chapter 25 - Pricing European Options'
+tags:
+- maturity
+- forward
+- options
+- futures
+- put
+- bonds
+- yield
+- portfolio
+- strike
+- bond
+- delta
+- call
+- portfolio-optimization
+- interest-rates
+- interest-rate
 ---
 # Pricing European Options  
 

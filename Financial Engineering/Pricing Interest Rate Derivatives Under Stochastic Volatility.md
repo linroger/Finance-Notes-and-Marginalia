@@ -1,21 +1,55 @@
 ---
 tags:
-  - coupon_bond
-  - frobenius_series
-  - gauss_laguerre
-  - interest_rate_derivatives
-  - stochastic_volatility
+- coupon_bond
+- credit
+- credit-derivatives
+- fixed-income
+- fixed-income-derivatives
+- frobenius_series
+- fx-derivatives
+- gauss_laguerre
+- interest-rate-derivatives
+- interest_rate_derivatives
+- ito-calculus
+- markets
+- mathematics
+- monte-carlo-simulation
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- stochastic
+- stochastic_volatility
 aliases:
-  - Interest Rate Derivatives Pricing
-  - Nabil Tahani
-  - Xiaofei Li
+- Interest Rate Derivatives Pricing
+- Nabil Tahani
+- Xiaofei Li
 key_concepts:
-  - Coupon bond options
-  - Frobenius series solution
-  - Gauss-Laguerre quadrature rule
-  - Interest rate derivatives pricing
-  - Stochastic interest rate volatility
+- Arbitrage pricing theory (APT)
+- Brownian motion and Wiener processes
+- Capital Asset Pricing Model (CAPM)
+- Coupon bond options
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Frobenius series solution
+- GARCH models and volatility forecasting
+- Gauss-Laguerre quadrature rule
+- Interest rate derivatives pricing
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Monte Carlo simulation for derivatives
+- Numerical methods for PDEs
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Stochastic interest rate volatility
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 
 # Pricing Interest Rate Derivatives under Stochastic Volatility  
 

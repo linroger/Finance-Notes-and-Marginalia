@@ -1,25 +1,120 @@
 ---
-cssclasses: ["academia"]
-linter-yaml-title-alias: Oaktree And The Restructuring Of Cit Group (A)
-title: Oaktree and the Restructuring of CIT Group (a)
-tags:
-  - cit_group
-  - credit_crisis
-  - financial_crisis
-  - oaktree_capital
-  - restructuring
 aliases:
-  - CIT
-  - HBS
-  - Rajath Shourie
-  - TARP
+- CIT
+- HBS
+- Rajath Shourie
+- TARP
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-3b5050
 key_concepts:
-  - CIT Group restructuring
-  - Credit crisis impact
-  - Financial institution funding
-  - Oaktree Capital Management
-  - Troubled Asset Relief Program
+- 2008 financial crisis and systemic risk analysis
+- American option pricing in binomial trees
+- Apt
+- Arbitrage pricing theory (APT)
+- Binomial option pricing model with multiple time steps
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- CDS clearing and central counterparties
+- CDS-Bond basis and arbitrrage opportunities
+- CIT Group restructuring
+- Capital Structure
+- Case Study
+- Commodity markets and pricing dynamics
+- Computational implementation of binomial option pricing
+- Convergence of binomial model to Black-Scholes solution
+- Course Material
+- Cox-Ross-Rubinstein parameter specification
+- Credit crisis impact
+- Credit default swap pricing and risk-neutral probabilities
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Credit spread decomposition and hazard rates
+- Cross-currency basis swaps and funding
+- Debt capacity analysis in LBO transactions
+- Expected Shortfall (ES) and coherent risk measures
+- Expected Shortfall and coherent risk measures
+- Financial institution funding
+- Fixed-for-floating swap cash flows and valuation
+- GARCH models and volatility forecasting
+- Government bailout mechanisms and market interventions
+- Historical simulation vs. parametric VaR models
+- Interest rate models and term structure
+- Interest rate swap pricing and valuation
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Leveraged Buyout financial structures and returns
+- Levy processes and jump diffusion
+- Monte Carlo VaR for complex portfolios
+- Monte Carlo simulation for derivatives
+- Oaktree Capital Management
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Single-name vs. index CDS trading
+- Stress testing and scenario analysis
+- Swap spread and credit risk considerations
+- Troubled Asset Relief Program
+- VaR backtesting and model validation
+- Value at Risk (VaR) and risk metrics
+- Value at Risk (VaR) methodologies and backtesting
+- Variance swaps and volatility trading strategies
+- Vasicek and Cox-Ingersoll-Ross models
+linter-yaml-title-alias: Oaktree And The Restructuring Of Cit Group (A)
+tags:
+- 2008-financial-crisis
+- apt
+- bailout
+- binomial-model
+- black-scholes-model
+- capital-structure
+- case-study
+- cit_group
+- commodities
+- corporate-bonds
+- course-material
+- credit
+- credit-analysis
+- credit-default-swaps
+- credit-derivatives
+- credit_crisis
+- deposit-insurance
+- distressed-debt
+- efficient-market
+- equity-derivatives
+- financial_crisis
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- garch-models
+- interest-rate-derivatives
+- interest-rate-swaps
+- investment-banking
+- ito-calculus
+- leveraged-buyouts
+- markets
+- mbs-cmos
+- monte-carlo-simulation
+- numerical-simulation
+- oaktree_capital
+- options
+- options-pricing
+- private-equity
+- quantitative-implementation
+- quantitative-pricing
+- restructuring
+- risk-management
+- solution
+- stochastic
+- syndicated-loans
+- systemic-risk
+- treasury-bonds
+- value-at-risk
+- wholesale-funding
+title: Oaktree and the Restructuring of CIT Group (a)
 ---
+
 
 Oaktree and the Restructuring of CIT Group (b)
 Note On LBO Capital Structure

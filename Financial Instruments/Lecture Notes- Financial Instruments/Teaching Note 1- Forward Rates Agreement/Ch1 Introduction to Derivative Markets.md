@@ -1,19 +1,40 @@
 ---
 aliases:
-  - 
-  - 
+- null
+- null
 title: Ch1 Introduction to Derivative Markets
 tags:
-  - '#derivative_markets'
-  - '#financial_engineering'
-  - '#long_position'
-  - '#market_makers'
-  - '#regulatory_arbitrage'
-  - '#risk_management'
-  - '#short_selling'
-  - '#speculation'
-  - '#transaction_costs'
+- '#derivative_markets'
+- '#financial_engineering'
+- '#long_position'
+- '#market_makers'
+- '#regulatory_arbitrage'
+- '#risk_management'
+- '#short_selling'
+- '#speculation'
+- '#transaction_costs'
+- arbitrage
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- options
+- options-pricing
+- risk-management
+- stochastic
+key_concepts:
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Ito's Lemma and stochastic calculus
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 # Ch1 Introduction to Derivative Markets
 
 Introduction to Derivative Markets]]vative Markets]]

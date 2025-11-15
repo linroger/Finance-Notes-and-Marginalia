@@ -1,22 +1,50 @@
 ---
 tags:
-  - government_bonds
-  - interest_rates
-  - liquidity
-  - market_expectations
-  - yield_curve
+- binomial-model
+- credit
+- credit-derivatives
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- government_bonds
+- hedging-strategies
+- interest-rate-derivatives
+- interest_rates
+- liquidity
+- market_expectations
+- markets
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- stochastic
+- yield_curve
 aliases:
-  - Forward Rates
-  - Spot Yield Curve
-  - Term Structure
-  - UK Gilt Market
+- Forward Rates
+- Spot Yield Curve
+- Term Structure
+- UK Gilt Market
 key_concepts:
-  - Government bond yield curve
-  - Impact of liquidity
-  - Market interest rate expectations
-  - Money market swap yield curve
-  - Predictive power of yield curve
+- Arbitrage pricing theory (APT)
+- Binomial tree models for option pricing
+- Capital Asset Pricing Model (CAPM)
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Government bond yield curve
+- Heath-Jarrow-Morton (HJM) framework
+- Impact of liquidity
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Market interest rate expectations
+- Money market swap yield curve
+- Predictive power of yield curve
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 
 # The Impact of Demand and Liquidity on the Information Content and Predictive Power of the Government Bond Yield Curve
 

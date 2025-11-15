@@ -2,24 +2,52 @@
 linter-yaml-title-alias: HEDGING WITH CURRENCY SWAPS
 title: Teaching Note 3 SwapsFinancial Instruments
 tags:
-  - financial_instruments
-  - forward_rates
-  - fx_swap
-  - interest_rate_swaps
-  - no_arbitrage
+- arbitrage
+- binomial-model
+- black-scholes-model
+- credit
+- credit-derivatives
+- derivatives-pricing
+- equity-derivatives
+- financial_instruments
+- forward_rates
+- fx-derivatives
+- fx_swap
+- hedging-strategies
+- interest-rate-derivatives
+- interest_rate_swaps
+- markets
+- monte-carlo-simulation
+- no_arbitrage
+- numerical-simulation
+- options
+- quantitative-pricing
+- risk-management
 aliases:
-  - FX Swap
-  - Forward Contracts
-  - Swap Rate
-  - Swaps
-  - Teaching Note 3
+- FX Swap
+- Forward Contracts
+- Swap Rate
+- Swaps
+- Teaching Note 3
 key_concepts:
-  - 'FX swap: currency exchange'
-  - 'Forward rates: cash flow'
-  - Interest rate swaps
-  - No arbitrage condition
-  - 'Swap rate: zero value'
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- Credit default swaps (CDS) pricing
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- 'FX swap: currency exchange'
+- 'Forward rates: cash flow'
+- Heath-Jarrow-Morton (HJM) framework
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps
+- Interest rate swaps and swap pricing
+- Monte Carlo simulation for derivatives
+- No arbitrage condition
+- 'Swap rate: zero value'
 ---
+
 
 Teaching Note 2-Futures Contracts
 **Teaching Note 1Forward Rates Agreement**

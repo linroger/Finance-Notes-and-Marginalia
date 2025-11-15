@@ -1,32 +1,51 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Option Pricing with Multiperiod Binomial Tree
 title: Option Pricing with Multiperiod Binomial Tree
 tags:
-  - binomial_tree
-  - dividend_yield
-  - european_option
-  - option_pricing
-  - stock_price
-  - replicating_portfolio
-  - self_financing
-  - no_arbitrage
+- arbitrage
+- binomial-model
+- binomial_tree
+- dividend_yield
+- equity-derivatives
+- european_option
+- fixed-income
+- fixed-income-derivatives
+- interest-rate-derivatives
+- markets
+- no_arbitrage
+- option-greeks
+- option_pricing
+- options
+- options-pricing
+- quantitative-pricing
+- replicating_portfolio
+- risk-management
+- self_financing
+- stock_price
 aliases:
-  - BOPM
-  - Binomial Option Pricing
-  - Multiperiod Binomial Model
-  - Option Tree Model
+- BOPM
+- Binomial Option Pricing
+- Multiperiod Binomial Model
+- Option Tree Model
 key_concepts:
-  - European call option pricing
-  - Multiperiod binomial tree construction
-  - Option pricing with dividends
-  - Replicating portfolio strategy
-  - Stock price payoff tree modeling
-  - Delta hedging calculation
-  - Self-financing portfolio properties
-  - Backward induction methodology
+- Backward induction methodology
+- Binomial tree models for option pricing
+- Complete markets and replication
+- Delta hedging and Greeks calculation
+- Delta hedging calculation
+- European call option pricing
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Multiperiod binomial tree construction
+- Option pricing with dividends
+- Portfolio optimization and mean-variance theory
+- Replicating portfolio strategy
+- Self-financing portfolio properties
+- Stock price payoff tree modeling
 ---
+
 
 # Option Pricing with Multiperiod Binomial Tree
 

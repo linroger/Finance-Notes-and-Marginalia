@@ -1,21 +1,41 @@
 ---
 tags:
-  - fixed_interest_rate
-  - interest_rate_swaps
-  - libor
-  - loan_agreement
-  - variable_interest_rate
+- arbitrage
+- credit
+- credit-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fixed_interest_rate
+- hedging-strategies
+- interest-rate-derivatives
+- interest_rate_swaps
+- libor
+- loan_agreement
+- markets
+- options
+- options-pricing
+- risk-management
+- variable_interest_rate
 aliases:
-  - IRS
-  - Interest Rate Swap
-  - Swaps
+- IRS
+- Interest Rate Swap
+- Swaps
 key_concepts:
-  - Fixed vs. Variable Rates
-  - Interest Rate Definitions
-  - LIBOR and Prime Rate
-  - Loan Interest Payments
-  - Repayment Schedule
+- Credit risk and default probability
+- Expected Shortfall (ES) and coherent risk measures
+- Fixed vs. Variable Rates
+- Heath-Jarrow-Morton (HJM) framework
+- Interest Rate Definitions
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- LIBOR and Prime Rate
+- Loan Interest Payments
+- Portfolio optimization and mean-variance theory
+- Repayment Schedule
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 
 # EDUCATION AND EXAMINATION COMMITTEE  
 

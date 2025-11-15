@@ -1,20 +1,44 @@
 ---
-tags:
-  - foreign_currency
-  - fx_options
-  - hedging
-  - otc_market
-  - speculation
 aliases:
-  - Currency Options
-  - FX Options
-  - OTC Options
+- Currency Options
+- FX Options
+- OTC Options
 key_concepts:
-  - Call option
-  - FX options contracts
-  - Hedging with options
-  - OTC market
-  - Put option
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Chapter 19 - Foreign Currency Options and financial analysis
+- Chapter 19 - Foreign Currency Options in modern finance
+- Applications of Chapter 19 - Foreign Currency Options
+- 'Case study: Chapter 19 - Foreign Currency Options'
+tags:
+- maturity
+- forward
+- strategy
+- options
+- futures
+- put
+- bonds
+- strike
+- hedging
+- basis
+- expiry
+- bond
+- call
+- algorithmic-trading
+- risk-management
 ---
 # Foreign Currency Options  
 

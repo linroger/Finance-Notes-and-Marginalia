@@ -1,29 +1,59 @@
 ---
 title: Introduction to Interest-Rate Swap Engineering
 tags:
-  - interest-rate-swaps
-  - swap-engineering
-  - financial-derivatives
-  - equity-swaps
-  - basis-swaps
-  - asset-swaps
-  - swap-logic
-  - derivatives-engineering
+- arbitrage
+- asset-swaps
+- basis-swaps
+- credit
+- credit-derivatives
+- derivatives-engineering
+- equity-derivatives
+- equity-swaps
+- financial-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- interest-rate-swaps
+- markets
+- option-greeks
+- options
+- options-pricing
+- risk-management
+- swap-engineering
+- swap-logic
 aliases:
-  - Chapter 4 Swap Engineering
-  - Interest Rate Swap Introduction
-  - Swap Markets Introduction
+- Chapter 4 Swap Engineering
+- Interest Rate Swap Introduction
+- Swap Markets Introduction
 key_concepts:
-  - Swap logic
-  - Equivalent of zero in finance
-  - Equity swaps
-  - Interest rate swaps
-  - Basis swaps
-  - Asset swaps
-  - Swap types
-  - Swap applications
+- Arbitrage pricing theory (APT)
+- Asian options and average price derivatives
+- Asset swaps
+- Basis swaps
+- Complete markets and replication
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Equity swaps
+- Equivalent of zero in finance
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Interest rate swaps
+- Interest rate swaps and swap pricing
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Swap applications
+- Swap logic
+- Swap types
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 cssclasses: academia
 ---
+
 
 # INTRODUCTION TO INTEREST-RATE SWAP ENGINEERING  
 

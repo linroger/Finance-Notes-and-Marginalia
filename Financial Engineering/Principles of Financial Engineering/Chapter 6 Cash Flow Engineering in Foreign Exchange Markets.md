@@ -1,17 +1,45 @@
 ---
 id: principles_of_financial_engineering_ch6
-title: "Ch. 6 Cash Flow Engineering in Foreign Exchange Markets"
+title: Ch. 6 Cash Flow Engineering in Foreign Exchange Markets
 category: financial_engineering
 subject: derivatives
 tags:
-  - forward_contracts
-  - fx_markets
-  - synthetic_instruments
-  - cash_flow_engineering
-  - currency_swaps
+- arbitrage
+- cash_flow_engineering
+- credit
+- credit-derivatives
+- currency_swaps
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- forward_contracts
+- fx-derivatives
+- fx_markets
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- option-greeks
+- options
+- options-pricing
+- risk-management
+- synthetic_instruments
 status: processed
-market_context: "Written in 1997-1998 context"
+market_context: Written in 1997-1998 context
+key_concepts:
+- Arbitrage pricing theory (APT)
+- Complete markets and replication
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Portfolio optimization and mean-variance theory
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 
 # Chapter 6: Cash Flow Engineering in Foreign Exchange Markets
 

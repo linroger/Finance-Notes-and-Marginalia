@@ -1,24 +1,51 @@
 ---
-title: Option Model Handbook,  Part III European Option Pricing With QuantLib Python
-source: 
-  https://gouthamanbalaraman.com/blog/european-option-binomial-tree-quantlib-python.html
+aliases:
+- Option Pricing with QuantLib
+- QuantLib European Options
 description: Demonstrates how to price European options using QuantLib Python. Methods
   using Black-Scholes-Merton formula and binomial tree will be discussed.
-tags:
-  - aapl_option
-  - binomial_tree
-  - black_scholes_merton
-  - european_option_pricing
-  - quantlib_python
-aliases:
-  - Option Pricing with QuantLib
-  - QuantLib European Options
 key_concepts:
-  - AAPL call option
-  - Binomial tree method
-  - Black-Scholes-Merton formula
-  - European option pricing
-  - QuantLib Python example
+- Black-Scholes-Merton option pricing model
+- Greeks calculation and interpretation
+- Volatility surface and smile
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Option Model Handbook, Part III European Option Pricing With QuantLib Python and
+  financial analysis
+- Option Model Handbook, Part III European Option Pricing With QuantLib Python in
+  modern finance
+- Applications of Option Model Handbook, Part III European Option Pricing With QuantLib
+  Python
+- 'Case study: Option Model Handbook, Part III European Option Pricing With QuantLib
+  Python'
+source: https://gouthamanbalaraman.com/blog/european-option-binomial-tree-quantlib-python.html
+tags:
+- maturity
+- forward
+- bsm
+- options
+- bonds
+- put
+- futures
+- alpha
+- yield
+- strike
+- black-scholes
+- call
+- pricing
+- option-pricing
+- market-efficiency
+title: Option Model Handbook,  Part III European Option Pricing With QuantLib Python
 ---
 
 # Option Model Handbook, Part III European Option Pricing With QuantLib Python

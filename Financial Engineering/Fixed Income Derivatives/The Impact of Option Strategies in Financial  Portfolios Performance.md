@@ -1,25 +1,51 @@
 ---
 tags:
-  - covered_call
-  - french_data
-  - it_m
-  - mean_variance
-  - option_strategies
-  - otm
-  - portfolio_performance
-  - protective_put
-  - stochastic_dominance
+- arbitrage
+- black-scholes-model
+- covered_call
+- equity-derivatives
+- french_data
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- it_m
+- markets
+- mean_variance
+- monte-carlo-simulation
+- numerical-simulation
+- option_strategies
+- options
+- options-pricing
+- otm
+- portfolio_performance
+- protective_put
+- quantitative-pricing
+- risk-management
+- stochastic
+- stochastic_dominance
 aliases:
-  - Option Strategy Impact
-  - Portfolio Performance Analysis
+- Option Strategy Impact
+- Portfolio Performance Analysis
 key_concepts:
-  - Covered call writing
-  - Mean-variance criterion
-  - Option strategies performance
-  - Portfolio management
-  - Protective put buying
-  - Stochastic dominance analysis
+- Capital Asset Pricing Model (CAPM)
+- Complete markets and replication
+- Covered call writing
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate swaps and swap pricing
+- Levy processes and jump diffusion
+- Mean-variance criterion
+- Monte Carlo simulation for derivatives
+- Option Greeks and sensitivity analysis
+- Option strategies performance
+- Portfolio management
+- Portfolio optimization and mean-variance theory
+- Protective put buying
+- Stochastic dominance analysis
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 
 # The Impact of Option Strategies in Financial  Portfolios Performance
 # The Impact of Option Strategies in Financial  Portfolios Performance: Mean-Variance and  Stochastic Dominance Approaches

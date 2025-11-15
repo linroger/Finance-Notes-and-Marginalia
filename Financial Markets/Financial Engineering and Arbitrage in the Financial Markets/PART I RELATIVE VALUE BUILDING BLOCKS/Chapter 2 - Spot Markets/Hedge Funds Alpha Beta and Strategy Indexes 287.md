@@ -1,28 +1,59 @@
 ---
 tags:
-  - alpha_beta
-  - hedge_funds
-  - market_neutral
-  - relative_value
-  - strategy_indexes
+- alpha_beta
+- alternative-investments
+- beta
+- derivatives
+- financial-markets
+- financial-modeling
+- fixed-income
+- hedge-funds
+- hedge_funds
+- ma
+- market_neutral
+- quantitative-finance
+- relative_value
+- risk-management
+- strategy_indexes
 aliases:
-  - Hedge Fund Strategies
-  - Market-Neutral Plays
-  - Portable Alpha
+- Hedge Fund Strategies
+- Market-Neutral Plays
+- Portable Alpha
 key_concepts:
-  - Hedge fund replication
-  - Hedge fund strategies
-  - Market-neutral plays
-  - Relative asset value funds
-  - Strategy indexes
----
-
-# 2 Hedge Funds: Alpha, Beta, and Strategy Indexes 287  
-
-[^12]: 1Hedge Fund Strategies 289
-[^12]: 1.1 Relative Asset Value Funds 289
-[^12]: 1.2 Relative Corporate/Credit Structure 292
-[^12]: 1.3 Theoretical Relative Value 294
-[^12]: 1.4 Statistical Relative Value Arbitrage 296
-[^12]: 2 Portable Alpha and Market-Neutral Plays 298
-[^12]: 3 Hedge Fund Replication and Strategy Indexes 299
+- Agricultural futures and seasonality
+- Alternative investments and hedge fund strategies
+- Arbitrage Pricing Theory (APT) and factor models
+- Asset swaps and spread-lock strategies
+- Barrier options and knock-in/knock-out structures
+- Basis swaps and cross-currency basis adjustments
+- Basis swaps and floating rate correlations
+- Behavioral finance and market anomalies
+- Best execution and regulatory requirements
+- Bid-ask spreads and market making profitability
+- Black-Litterman model and portfolio optimization
+- CDO structuring and tranche allocation methodologies
+- CDO-squared structures and correlation trading
+- Calendar spreads and roll strategies
+- Capital Asset Pricing Model (CAPM) and beta estimation
+- Central clearing and CCP risk management
+- Commodity futures and convenience yields
+- Commodity swaps and energy derivatives
+- Corporate bond pricing and credit spread decomposition
+- Crack spreads in energy markets
+- Credit default swaps and credit protection mechanisms
+- Credit risk assessment and loan pricing
+- Credit valuation adjustment (CVA) and counterparty risk
+- Cryptocurrency valuation and blockchain technology
+- Currency swaps and cross-currency basis
+- Dark pools and alternative trading venues
+- DeFi protocols and decentralized finance
+- Delta hedging strategies in options markets
+- Deposit insurance and systemic risk
+- Duration and convexity for bond price sensitivity
+- ESG investing and sustainability metrics
+- Enterprise value and equity value relationships
+- Equity swaps and total return swaps
+- Exotic derivatives and path-dependent options
+- Extreme value theory and tail risk modeling
+- FX futures and currency hedging
+- Fama-French three-factor and five-fa

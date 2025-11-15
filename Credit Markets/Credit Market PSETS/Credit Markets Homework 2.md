@@ -1,21 +1,45 @@
 ---
-title: Credit Markets Homework 2
-tags:
-  - bond_market_data
-  - cashflow_schedules
-  - credit_markets
-  - fixed_rate_bonds
-  - quantlib
 aliases:
-  - Credit Markets
-  - Fixed Rate Bonds
-  - Homework 2
+- Credit Markets
+- Fixed Rate Bonds
+- Homework 2
 key_concepts:
-  - Bond cash flows
-  - Cashflow schedules
-  - Fixed rate bonds
-  - QuantLib date object
-  - Symbology data
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Credit Markets Homework 2 and financial analysis
+- Credit Markets Homework 2 in modern finance
+- Applications of Credit Markets Homework 2
+- 'Case study: Credit Markets Homework 2'
+tags:
+- maturity
+- options
+- bonds
+- put
+- convexity
+- dv01
+- yield
+- swaps
+- fixed-income
+- bond
+- liquidity
+- spread
+- treasury
+- call
+- corporate-bond
+title: Credit Markets Homework 2
 ---
 
 # Credit Markets Homework 2

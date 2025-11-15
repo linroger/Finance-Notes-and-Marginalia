@@ -2,29 +2,45 @@
 cssclasses: academia
 title: Payoffs to Plain Vanilla Options
 tags:
-  - american_options
-  - european_options
-  - option_payoffs
-  - option_pricing
-  - plain_vanilla_options
-  - derivatives_trading
-  - financial_derivatives
+- american_options
+- arbitrage
+- derivatives_trading
+- equity-derivatives
+- european_options
+- financial_derivatives
+- fixed-income
+- fixed-income-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- option_payoffs
+- option_pricing
+- options
+- options-pricing
+- plain_vanilla_options
+- risk-management
 aliases:
-  - Options Payoffs
-  - Vanilla Options
-  - Option Trading Strategies
+- Options Payoffs
+- Vanilla Options
+- Option Trading Strategies
 key_concepts:
-  - Call and put options
-  - European and American options
-  - Option holder and writer
-  - Option trading properties
-  - Strike price and maturity
-  - Time and intrinsic value
-  - Bull and bear spreads
-  - Butterfly spreads
-  - Option arbitrage bounds
-  - Covered calls and protective puts
+- Bull and bear spreads
+- Butterfly spreads
+- Call and put options
+- Covered calls and protective puts
+- European and American options
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Option arbitrage bounds
+- Option holder and writer
+- Option trading properties
+- Portfolio optimization and mean-variance theory
+- Put-call parity and option relationships
+- Strike price and maturity
+- Time and intrinsic value
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Payoffs to Plain Vanilla Options
 

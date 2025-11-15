@@ -1,22 +1,46 @@
 ---
-tags:
-  - binomial_tree
-  - bopm
-  - dynamic_hedging
-  - replication_portfolio
-  - risk_neutral_valuation
 aliases:
-  - BOPM Implementation
-  - Backward Recursion
-  - Binomial Option Pricing Model
-  - RNV
-  - Replication Portfolio
+- BOPM Implementation
+- Backward Recursion
+- Binomial Option Pricing Model
+- RNV
+- Replication Portfolio
 key_concepts:
-  - Backward recursion
-  - Dynamic delta hedging
-  - No-arbitrage binomial pricing
-  - Replication portfolio
-  - Risk-neutral valuation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- 'Chapter 22 - BOPM: Implementation and financial analysis'
+- 'Chapter 22 - BOPM: Implementation in modern finance'
+- 'Applications of Chapter 22 - BOPM: Implementation'
+- 'Case study: Chapter 22 - BOPM: Implementation'
+tags:
+- options
+- theta
+- hedge-ratio
+- put
+- portfolio
+- gamma
+- portfolio-optimization
+- maturity
+- bond
+- coupon
+- risk-management
+- bonds
+- strike
+- no-arbitrage
+- hedging
 ---
 # BOPM: Implementation  
 

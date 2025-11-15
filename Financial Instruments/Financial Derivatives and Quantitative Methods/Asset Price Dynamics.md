@@ -1,24 +1,49 @@
 ---
 title: Asset Price Dynamics
 tags:
-  - asset_price_dynamics
-  - continuous_compounding
-  - efficient_markets
-  - geometric_brownian_motion
-  - rates_of_return
-  - stochastic_processes
+- asset_price_dynamics
+- binomial-model
+- black-scholes-model
+- continuous_compounding
+- efficient_markets
+- equity-derivatives
+- fixed-income
+- geometric_brownian_motion
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- martingale-theory
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- rates_of_return
+- risk-management
+- stochastic
+- stochastic_processes
 aliases:
-  - Asset Pricing
-  - Returns Analysis
-  - Stochastic Modeling
+- Asset Pricing
+- Returns Analysis
+- Stochastic Modeling
 key_concepts:
-  - Asset price returns
-  - Compounded rates of return
-  - Continuous time processes
-  - Efficient market hypothesis
-  - Geometric Brownian motion
-  - Rate of return calculation
+- Arbitrage pricing theory (APT)
+- Asset price returns
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- Brownian motion and Wiener processes
+- Compounded rates of return
+- Continuous time processes
+- Delta hedging and Greeks calculation
+- Efficient market hypothesis
+- Expected Shortfall (ES) and coherent risk measures
+- Geometric Brownian motion
+- Interest rate models and term structure
+- Ito's Lemma and stochastic calculus
+- Rate of return calculation
+- Risk-neutral valuation and martingale measures
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Asset Price Dynamics
 

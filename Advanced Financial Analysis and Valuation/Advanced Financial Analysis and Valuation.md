@@ -1,28 +1,24 @@
 ---
+aliases:
+- Fin Analysis
+- Financial Modeling
+- Valuation
+- Advanced Valuation
 cssclasses: academia
-title: Advanced Financial Analysis and Valuation
+key_concepts:
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Advanced Financial Analysis and Valuation and financial analysis
+- Advanced Financial Analysis and Valuation in modern finance
+- Applications of Advanced Financial Analysis and Valuation
+- 'Case study: Advanced Financial Analysis and Valuation'
+- Financial markets and institutions
 linter-yaml-title-alias: Advanced Financial Analysis and Valuation
 tags:
-  - advanced_finance
-  - dcf_valuation
-  - financial_analysis
-  - risk_management
-  - valuation
-  - corporate_finance
-aliases:
-  - Fin Analysis
-  - Financial Modeling
-  - Valuation
-  - Advanced Valuation
-key_concepts:
-  - Discounted Cash Flow (DCF) analysis
-  - Multiples-based valuation
-  - Financial statement analysis
-  - Enterprise value calculation
-  - WACC determination
-  - Terminal value estimation
-  - Risk assessment in valuation
-  - Cross-sectional and time-series analysis
+- accounting
+- valuation
+title: Advanced Financial Analysis and Valuation
 ---
 
 # Advanced Financial Analysis and Valuation

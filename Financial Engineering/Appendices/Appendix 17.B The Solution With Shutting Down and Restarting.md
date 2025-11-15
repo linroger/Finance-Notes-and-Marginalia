@@ -1,23 +1,29 @@
 ---
-title: "Appendix 17.B The Solution With Shutting Down and Restarting"
-cssclasses: academia
-tags:
-  - appendix
-  - investment-trigger
-  - restart
-  - shut-down
-  - undeveloped-reserves
 aliases:
-  - Appendix 17B
-  - Investment
-  - Restarting
-  - Shutting Down
+- Appendix 17B
+- Investment
+- Restarting
+- Shutting Down
+cssclasses: academia
 key_concepts:
-  - Developed operating reserves
-  - Investment trigger
-  - Shut down and restart
-  - Undeveloped reserve value
-  - Value of the well
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Appendix 17.B The Solution With Shutting Down and Restarting and financial analysis
+- Appendix 17.B The Solution With Shutting Down and Restarting in modern finance
+- Applications of Appendix 17.B The Solution With Shutting Down and Restarting
+- 'Case study: Appendix 17.B The Solution With Shutting Down and Restarting'
+tags:
+- swaps
+- options
+- put
+- call
+- delta
+- irs
+title: Appendix 17.B The Solution With Shutting Down and Restarting
 ---
 
 # Appendix 17.B The Solution With Shutting Down and Restarting  

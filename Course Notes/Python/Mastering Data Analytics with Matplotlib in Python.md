@@ -1,24 +1,45 @@
 ---
-title: Mastering Data Analytics with Matplotlib in Python
-source: 
-  https://blog.enterprisedna.co/mastering-data-analytics-with-matplotlib-in-python/
-description:
-tags:
-  - data_analysis
-  - data_visualization
-  - matplotlib
-  - plotting
-  - python
 aliases:
-  - Data Visualization with Python
-  - Matplotlib Guide
-  - Matplotlib Tutorial
+- Data Visualization with Python
+- Matplotlib Guide
+- Matplotlib Tutorial
+description: null
 key_concepts:
-  - Data visualization
-  - Interactive plots
-  - Matplotlib library
-  - Plot customization
-  - Python plotting
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Financial econometrics and regression
+- Time series analysis in finance
+- Volatility modeling (GARCH)
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Mastering Data Analytics with Matplotlib in Python and financial analysis
+- Mastering Data Analytics with Matplotlib in Python in modern finance
+- Applications of Mastering Data Analytics with Matplotlib in Python
+- 'Case study: Mastering Data Analytics with Matplotlib in Python'
+source: https://blog.enterprisedna.co/mastering-data-analytics-with-matplotlib-in-python/
+tags:
+- swaps
+- options
+- futures
+- var
+- correlation
+- basis
+- roll
+- leverage
+- time-series
+- regression
+- multiple
+- irs
+- risk-management
+title: Mastering Data Analytics with Matplotlib in Python
 ---
 
 # Mastering Data Analytics with Matplotlib in Python

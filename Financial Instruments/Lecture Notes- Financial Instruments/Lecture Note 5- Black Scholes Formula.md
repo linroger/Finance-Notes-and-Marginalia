@@ -3,22 +3,50 @@ cssclasses: academia
 linter-yaml-title-alias: LECTURE NOTE 5 BLACK SCHOLES FORMULA
 title: Lecture Note 5- Black Scholes Formula
 tags:
-  - black_scholes_formula
-  - delta_hedging
-  - dynamic_replication
-  - option_premium
-  - option_pricing
+- arbitrage
+- binomial-model
+- black-scholes-model
+- black_scholes_formula
+- delta_hedging
+- dynamic_replication
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- numerical-simulation
+- option-greeks
+- option_premium
+- option_pricing
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
 aliases:
-  - Black Scholes Formula
-  - Black and Scholes Formula
-  - Lecture Note 5- Black Scholes Formula
+- Black Scholes Formula
+- Black and Scholes Formula
+- Lecture Note 5- Black Scholes Formula
 key_concepts:
-  - Black Scholes Formula
-  - Delta Hedging
-  - Dynamic Replication
-  - Option Premium
-  - Replicating Portfolio
+- Binomial tree models for option pricing
+- Black Scholes Formula
+- Black-Scholes option pricing model
+- Capital Asset Pricing Model (CAPM)
+- Complete markets and replication
+- Delta Hedging
+- Delta hedging and Greeks calculation
+- Dynamic Replication
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Monte Carlo simulation for derivatives
+- Option Greeks and sensitivity analysis
+- Option Premium
+- Portfolio optimization and mean-variance theory
+- Replicating Portfolio
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Lecture Note 5- Black Scholes Formula
 

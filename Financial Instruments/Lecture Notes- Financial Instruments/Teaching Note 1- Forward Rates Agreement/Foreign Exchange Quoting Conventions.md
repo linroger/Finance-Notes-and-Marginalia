@@ -1,24 +1,36 @@
 ---
 title: Foreign Exchange Quoting Conventions
 tags:
-  - currency_pair
-  - foreign_exchange
-  - fx_forward_rate
-  - fx_spot_rate
-  - interest_rate_parity
-  - outright_forward
+- currency_pair
+- fixed-income
+- foreign_exchange
+- fx-derivatives
+- fx_forward_rate
+- fx_spot_rate
+- interest-rate-derivatives
+- interest_rate_parity
+- markets
+- options
+- options-pricing
+- outright_forward
+- risk-management
 aliases:
-  - FX
-  - FX Quoting
-  - Forex
+- FX
+- FX Quoting
+- Forex
 key_concepts:
-  - Base and quote currency
-  - Exchange rate definition
-  - FX forward rate
-  - FX spot rate
-  - Forward contract value
-  - Interest rate parity
+- Base and quote currency
+- Delta hedging and Greeks calculation
+- Exchange rate definition
+- Expected Shortfall (ES) and coherent risk measures
+- FX forward rate
+- FX spot rate
+- Forward contract value
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Interest rate parity
 ---
+
 
 - Introduction to Derivative Markets]]
 - Hedging%20[Key%20Rates%20O1s%20Durations%20and%20Hedging) Strategies with [Forwards]]

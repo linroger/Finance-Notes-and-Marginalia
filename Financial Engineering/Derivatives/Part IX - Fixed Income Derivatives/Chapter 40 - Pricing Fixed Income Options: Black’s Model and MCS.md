@@ -1,20 +1,45 @@
 ---
-tags:
-  - black_model
-  - european_options
-  - fixed_income_options
-  - interest_rate_derivatives
-  - monte_carlo_simulation
 aliases:
-  - Black's Model
-  - MCS
-  - Pricing Fixed Income Options
+- Black's Model
+- MCS
+- Pricing Fixed Income Options
 key_concepts:
-  - Black's model
-  - Closed-form solutions
-  - European options pricing
-  - Fixed income derivatives
-  - Monte Carlo simulation
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- 'Chapter 40 - Pricing Fixed Income Options: Black’s Model and MCS and financial
+  analysis'
+- 'Chapter 40 - Pricing Fixed Income Options: Black’s Model and MCS in modern finance'
+- 'Applications of Chapter 40 - Pricing Fixed Income Options: Black’s Model and MCS'
+- 'Case study: Chapter 40 - Pricing Fixed Income Options: Black’s Model and MCS'
+tags:
+- maturity
+- swap
+- forward
+- swaption
+- swaps
+- bonds
+- options
+- put
+- yield
+- futures
+- fixed-income
+- bond
+- strike
+- expiry
+- hedging
 ---
 # Pricing Fixed Income Options: Black’s Model and MCS  
 

@@ -1,35 +1,48 @@
 ---
+aliases:
+- Bank Moats and Valuation
+- Competitive Analysis Banking
+- Economic Spread Analysis
 cssclasses:
-  - academia
-title: Week 6 Bank Analysis and Valuation
+- academia
+key_concepts:
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Week 6 Bank Analysis and Valuation and financial analysis
+- Week 6 Bank Analysis and Valuation in modern finance
+- Applications of Week 6 Bank Analysis and Valuation
+- 'Case study: Week 6 Bank Analysis and Valuation'
 linter-yaml-title-alias: Week 6 Bank Analysis and Valuation
 tags:
-  - bank_analysis
-  - bank_valuation
-  - competitive_analysis
-  - moats_banking
-  - regulatory_capital
-  - cyclicality_lending
-  - economic_spread
-  - flow_to_equity
-  - market_to_book
-aliases:
-  - Bank Moats and Valuation
-  - Competitive Analysis Banking
-  - Economic Spread Analysis
-key_concepts:
-  - Moats in banking industry
-  - Economies of scale and scope
-  - Net interest margin analysis
-  - Economic spread analysis
-  - Cyclicality in lending
-  - Value drivers for banks
-  - Flow-to-equity valuation model
-  - Economic profit model for banks
-  - Market-to-book ratio for banks
-  - Regulatory capital importance
-  - Blackstone Citigroup case study
-  - Deutsche Bank valuation example
+- credit
+- regulatory
+- options
+- alpha
+- put
+- regulation
+- portfolio
+- capital-requirement
+- trading
+- liquidity
+- spread
+- call
+- portfolio-optimization
+- beta
+- market-efficiency
+title: Week 6 Bank Analysis and Valuation
 ---
 
 # Week 6 Bank Analysis and Valuation

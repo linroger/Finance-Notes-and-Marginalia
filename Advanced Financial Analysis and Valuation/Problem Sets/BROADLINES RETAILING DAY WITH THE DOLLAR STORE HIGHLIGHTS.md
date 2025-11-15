@@ -1,31 +1,45 @@
 ---
-title: "BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS"
-linter-yaml-title-alias: "BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS"
-cssclasses: academia
-tags:
-  - aFAV
-  - big_lots
-  - consumer_spending
-  - dollar_general
-  - dollar_store
-  - family_dollar
-  - merchandising
-  - retail_analysis
-  - minimum_wage_impact
-  - store_tour
-  - competitive_analysis
 aliases:
-  - "Broadlines Retailing"
-  - "Dollar Store Tour"
-  - "Retail Sector Update"
+- Broadlines Retailing
+- Dollar Store Tour
+- Retail Sector Update
+cssclasses: academia
 key_concepts:
-  - Comparison of low-end retailers (Dollar Tree, Dollar General, Family Dollar, Big Lots)
-  - Multi-price point strategies vs single price point models
-  - Merchandising initiatives and store layout analysis  
-  - Minimum wage impact on consumer spending
-  - Dollar store industry growth trends
-  - Shopping frequency and penetration analysis
-  - Store-specific competitive advantages
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS and financial analysis
+- BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS in modern finance
+- Applications of BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS
+- 'Case study: BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS'
+linter-yaml-title-alias: BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS
+tags:
+- forward
+- strategy
+- options
+- futures
+- swaps
+- roll
+- var
+- call
+- algorithmic-trading
+- pricing
+- split
+- irs
+- risk-management
+title: BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS
 ---
 
 # BROADLINES RETAILING DAY WITH THE DOLLAR STORE HIGHLIGHTS

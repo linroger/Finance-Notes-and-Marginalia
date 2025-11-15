@@ -1,44 +1,207 @@
 ---
-title: Lecture 7 - Risk and Return of Bonds
-cssclasses:
-  - academia
-  - finance
-tags:
-  - default_free_bonds
-  - fixed_income
-  - treasury_bonds
-  - yield_to_maturity
-  - zero_coupon_bonds
-  - yield_curve
-  - expectations_hypothesis
-  - monetary_policy
-  - bond_stock_correlation
-  - term_structure
-  - interest_rate_risk
-  - duration
-  - taylor_rule
-  - business_cycle
 aliases:
-  - Nominal Bonds
-  - Risk and Return
-  - Bond Risk Analysis
-  - Fixed Income Risk
+- Nominal Bonds
+- Risk and Return
+- Bond Risk Analysis
+- Fixed Income Risk
+cssclasses:
+- academia
+- finance
 key_concepts:
-  - Default-free bonds
-  - Fixed-income instruments
-  - U.S. Treasury bonds
-  - Yield to maturity
-  - Zero-coupon bonds
-  - Yield curve factors (level, slope, curvature)
-  - Expectations hypothesis
-  - Bond duration
-  - Bond-stock beta correlation
-  - Monetary policy transmission
-  - Taylor rule
-  - Predictability of bond returns
-  - Asset allocation with bonds
-  - Fed put phenomenon
+- Agricultural futures and seasonality
+- Alternative investments and hedge fund strategies
+- Applications of Lecture 7-Risk and Return of Bonds
+- Arbitrage Pricing Theory (APT) and factor models
+- Asset swaps and spread-lock strategies
+- Bank asset-liability management (ALM) strategies
+- Bank capital adequacy and Basel III compliance
+- Bank stress testing and CCAR requirements
+- Barrier options and knock-in/knock-out structures
+- Basel III capital requirements and risk metrics
+- Basis swaps and cross-currency basis adjustments
+- Basis swaps and floating rate correlations
+- Behavioral finance and market anomalies
+- Best execution and regulatory requirements
+- Bid-ask spreads and market making profitability
+- Binomial option pricing model with multi-period trees
+- Black-Litterman model and portfolio optimization
+- Black-Scholes option pricing model and its applications
+- Bond portfolio immunization strategies
+- Bond pricing and yield curves
+- Bond valuation and yield calculation
+- CDO structuring and tranche allocation methodologies
+- CDO-squared structures and correlation trading
+- CDS spread curves and hazard rate modeling
+- Calendar spreads and roll strategies
+- Call and put option strategies
+- Capital Asset Pricing Model (CAPM) and beta estimation
+- 'Case study: Lecture 7-Risk and Return of Bonds'
+- Central bank digital currencies (CBDCs)
+- Central clearing and CCP risk management
+- Commodity futures and convenience yields
+- Commodity swaps and energy derivatives
+- Constant maturity swaps and roll-over features
+- Corporate bond pricing and credit spread decomposition
+- Crack spreads in energy markets
+- Credit analysis and spread decomposition
+- Credit default swaps and credit protection mechanisms
+- Credit risk assessment and loan pricing
+- Credit spreads and bond valuation
+- Credit valuation adjustment (CVA) and counterparty risk
+- Cryptocurrency valuation and blockchain technology
+- Currency swaps and cross-currency basis
+- Dark pools and alternative trading venues
+- DeFi protocols and decentralized finance
+- Delta hedging strategies in options markets
+- Deposit insurance and systemic risk
+- Discounted cash flow (DCF) valuation methodologies
+- Dividend discount model (DDM) applications
+- Duration and convexity for bond price sensitivity
+- Duration and convexity hedging
+- ESG investing and sustainability metrics
+- Enterprise value and equity value relationships
+- Equity swaps and total return swaps
+- Exotic derivatives and path-dependent options
+- Extreme value theory and tail risk modeling
+- FX futures and currency hedging
+- Fama-French three-factor and five-factor models
+- Fintech disruption and digital banking
+- Fixed income securities and markets
+- Forward contract pricing and cost of carry
+- Forward rate calculations
+- Futures vs forwards and delivery options
+- GARCH models for volatility forecasting
+- Gamma trading and convexity adjustments
+- Green bonds and climate risk assessment
+- HJM and forward rate model frameworks
+- High frequency trading and algorithmic strategies
+- Historical simulation and parametric VaR approaches
+- Hull-White and Black-Karasinski short rate models
+- IPO pricing and underpricing analysis
+- Implied volatility and volatility surface modeling
+- Inflation-linked swaps and CPI adjustments
+- Interest rate derivatives and forward rate agreements
+- Interest rate swaps and swap spread decomposition
+- Interest rate theory and modeling
+- Key rate duration and curve risk decomposition
+- LIBOR transition and SOFR
+- Lecture 7-Risk and Return of Bonds and financial analysis
+- Lecture 7-Risk and Return of Bonds in modern finance
+- Liquidity coverage ratio and funding strategies
+- Liquidity-adjusted VaR and liquidity horizons
+- Margin requirements and collateral optimization
+- Market impact and transaction cost analysis
+- Mean reversion in interest rate processes
+- Mergers and acquisitions due diligence
+- Metal futures and industrial commodities
+- Model backtesting and validation procedures
+- Modern portfolio theory and efficient frontier
+- Momentum and reversal investment strategies
+- Monetary policy and rate setting
+- Mortgage-backed securities and prepayment modeling
+- Multi-factor interest rate models
+- Negative interest rates and floor/cap structures
+- Net interest margin and banking profitability
+- Netting agreements and close-out procedures
+- Non-deliverable forwards and emerging market instruments
+- OIS discounting and collateralized interest rate derivatives
+- Option pricing theory and Black-Scholes model
+- Option-adjusted spread (OAS) analysis
+- Options Greeks and risk management
+- Options on futures and forward-starting options
+- Payment systems and settlement risk
+- Prime brokerage and securities lending
+- Private credit and direct lending
+- Project finance and syndicated lending
+- Real estate investment trusts (REITs)
+- Recovery rate modeling and loss given default
+- Repo markets and securities lending
+- Risk factor decomposition and sensitivity analysis
+- Risk parity and risk budgeting strategies
+- Shadow banking and non-bank intermediation
+- Smart beta and alternative indexing approaches
+- Spot and discount factors
+- Spot rates, forward rates, and discount factor curves
+- Stochastic volatility in interest rate markets
+- Stress testing and scenario analysis frameworks
+- Subprime mortgage crisis and structured finance risks
+- Swaptions and interest rate option pricing
+- Swaptions and option volatility surfaces
+- Synthetic CDOs and credit-linked note structures
+- Terminal value modeling and exit multiples
+- 'The Greeks: Delta, Gamma, Vega, Theta, and Rho sensitivity analysis'
+- Too-big-to-fail policies and resolution regimes
+- Treasury futures and bond basis
+- Treasury securities and government bond markets
+- VIX futures and volatility trading
+- Value at Risk (VaR) and expected shortfall methodologies
+- Value vs growth investing frameworks
+- Vasicek and CIR interest rate models
+- Volatility smile and skew patterns in option markets
+- Weighted average cost of capital (WACC) calculations
+- Working capital and cash conversion cycle
+- Wrong-way risk and correlation adjustments
+- Yield curve construction and modeling
+- Yield curve construction and term structure modeling
+- Zero-coupon bond pricing and bootstrapping
+tags:
+- abs
+- alm
+- apt
+- artificial-intelligence
+- banking
+- beta
+- bond
+- bond-pricing
+- bonds
+- cdo
+- collateralized-debt-obligation
+- corporate-bond
+- corporate-bonds
+- coupon
+- coupon-bonds
+- defi
+- duration
+- dva
+- fed-funds
+- fixed-income
+- futures-contracts
+- interest-rate
+- interest-rate-swap
+- irs
+- lending
+- liquidity-risk
+- ma
+- maturity
+- monetary-policy
+- mpt
+- nim
+- options
+- portfolio-risk
+- private-equity
+- put
+- repo
+- repurchase-agreements
+- risk-parity
+- roll-over
+- rwa
+- sharpe-ratio
+- term-structure
+- treasury
+- treasury-futures
+- treasury-securities
+- value-at-risk
+- var
+- yield
+- yield-curve
+- zero-coupon-bonds
+title: Lecture 7 - Risk and Return of Bonds
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch04-489859
 ---
+
+
 # Lecture 7 - Risk and Return of Bonds
 
 Our goal in this session is to better understand the risk and return properties of fixed-income instruments such as U.S. Treasury bonds. $^{1}$ For now, we focus on default-free bonds, i.e., we assume that the cash flows (coupons and principal) that the bonds promise to pay will be paid for sure. More precisely, we will for now focus on nominal default-free bonds, which are bonds that promise a fixed stream of dollar cash flows that are not adjusted for inflation. For example, if you buy a nominal bond default-free bond today that matures 10 years from now, you will know for sure how many dollars of principal payment you will get back at the maturity date, but you don't know the purchasing power this dollar cash flow will have at the maturity date.

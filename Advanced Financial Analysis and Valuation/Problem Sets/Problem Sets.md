@@ -1,28 +1,28 @@
 ---
-title: "Problem Sets - Advanced Financial Analysis and Valuation"
-linter-yaml-title-alias: "Problem Sets - Advanced Financial Analysis and Valuation"
-tags:
-  - aFAV
-  - case_questions
-  - exercises  
-  - practice_questions
-  - problem_sets
-  - solutions
-  - waypoint
-  - navigation
 aliases:
-  - "Practice Set"
-  - "Problem Set"
-  - "Advanced Financial Analysis Problem Sets"
-key_concepts:
-  - Harvard Business School case studies
-  - Private equity valuation cases
-  - Bank valuation problem sets
-  - Pharmaceutical industry valuation
-  - Retail industry analysis
-  - Financial reporting and regulatory capital
-  - Dissenting shareholder cases
+- Practice Set
+- Problem Set
+- Advanced Financial Analysis Problem Sets
 cssclasses: academia
+key_concepts:
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Problem Sets and financial analysis
+- Problem Sets in modern finance
+- Applications of Problem Sets
+- 'Case study: Problem Sets'
+linter-yaml-title-alias: Problem Sets - Advanced Financial Analysis and Valuation
+tags:
+- regulatory
+- regulation
+- portfolio
+- portfolio-optimization
+- valuation
+title: Problem Sets - Advanced Financial Analysis and Valuation
 ---
 
 # Problem Sets - Advanced Financial Analysis and Valuation

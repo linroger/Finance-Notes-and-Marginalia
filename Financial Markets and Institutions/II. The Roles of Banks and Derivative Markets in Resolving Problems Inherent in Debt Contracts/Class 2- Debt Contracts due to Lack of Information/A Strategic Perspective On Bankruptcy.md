@@ -1,21 +1,93 @@
 ---
-title: A Strategic Perspective On Bankruptcy
-tags:
-  - bankruptcy
-  - chapter_11
-  - creditors
-  - financial_distress
-  - reorganization
 aliases:
-  - Bankruptcy Strategy
-  - Strategic Bankruptcy
+- Bankruptcy Strategy
+- Strategic Bankruptcy
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-601b50
 key_concepts:
-  - Chapter 11 bankruptcy code
-  - Company financial obligations
-  - Court-supervised reorganization
-  - Financial distress causes
-  - Out-of-court reorganization
+- 2008 financial crisis and systemic risk analysis
+- Apt
+- Arbitrage pricing theory (APT)
+- Case Study
+- Chapter 11 bankruptcy code
+- Commodity markets and pricing dynamics
+- Company financial obligations
+- Complete markets and replication
+- Course Material
+- Court-supervised reorganization
+- Credit risk and default probability
+- Cross-currency basis swaps and funding
+- Delta hedging and Greeks calculation
+- Delta hedging and the replication argument
+- Distressed Debt
+- Expected Shortfall (ES) and coherent risk measures
+- Expected Shortfall and coherent risk measures
+- Financial distress causes
+- Fixed-for-floating swap cash flows and valuation
+- GARCH models and volatility forecasting
+- Gamma and convexity adjustments
+- Harvard Business Review
+- Historical simulation vs. parametric VaR models
+- Interest rate models and term structure
+- Interest rate swap pricing and valuation
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Monte Carlo VaR for complex portfolios
+- Monte Carlo simulation for derivatives
+- Option Greeks and portfolio risk management
+- Option Greeks and sensitivity analysis
+- Out-of-court reorganization
+- Portfolio optimization and mean-variance theory
+- Quantitative Implementation
+- Solution
+- Stress testing and scenario analysis
+- Swap spread and credit risk considerations
+- Theta and time decay modeling
+- VaR backtesting and model validation
+- Value at Risk (VaR) and risk metrics
+- Value at Risk (VaR) methodologies and backtesting
+- Variance swaps and volatility trading strategies
+- Vasicek and Cox-Ingersoll-Ross models
+- Vega and volatility risk management
+tags:
+- 2008-financial-crisis
+- apt
+- bankruptcy
+- case-study
+- chapter_11
+- commodities
+- course-material
+- credit
+- credit-derivatives
+- creditors
+- distressed-debt
+- equity-derivatives
+- financial_distress
+- fixed-income
+- fx-derivatives
+- garch-models
+- greeks
+- harvard-business-review
+- interest-rate-derivatives
+- interest-rate-swaps
+- ito-calculus
+- markets
+- monte-carlo-simulation
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- quantitative-implementation
+- quantitative-pricing
+- reorganization
+- risk-management
+- solution
+- stochastic
+- value-at-risk
+title: A Strategic Perspective On Bankruptcy
 ---
+
 
 # A Strategic Perspective On Bankruptcy
 

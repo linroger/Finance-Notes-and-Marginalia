@@ -1,21 +1,32 @@
 ---
 title: Interest Rates,  Carry Trades,  and Exchange Rate Movements
 tags:
-  - carry_trade
-  - currency_markets
-  - exchange_rates
-  - interest_rate_differentials
-  - interest_rates
+- carry_trade
+- currency_markets
+- derivatives-pricing
+- exchange_rates
+- fixed-income
+- fx-derivatives
+- interest-rate-derivatives
+- interest_rate_differentials
+- interest_rates
+- markets
+- risk-management
 aliases:
-  - Carry Trade Strategy
-  - Exchange Rate Swings
+- Carry Trade Strategy
+- Exchange Rate Swings
 key_concepts:
-  - Carry trade strategy
-  - Covered interest parity
-  - Forward exchange rate
-  - Funding currency
-  - Interest rate differentials
+- Carry trade strategy
+- Covered interest parity
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Forward exchange rate
+- Funding currency
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate differentials
+- Interest rate models and term structure
 ---
+
 
 # Interest Rates, Carry Trades, and Exchange Rate Movements
 

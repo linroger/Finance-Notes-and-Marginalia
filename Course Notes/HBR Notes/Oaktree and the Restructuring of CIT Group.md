@@ -1,24 +1,48 @@
 ---
-cssclasses:
-  - academia
 Owner: RRoger Lin
-title: Oaktree and the Restructuring of CIT Group
-tags:
-  - bankruptcy
-  - commercial_lender
-  - financial_crisis
-  - restructuring
-  - unsecured_debt
 aliases:
-  - CIT Group
-  - Oaktree Capital
-  - Restructuring Case Study
+- CIT Group
+- Oaktree Capital
+- Restructuring Case Study
+cssclasses:
+- academia
 key_concepts:
-  - Asset-based lending
-  - Financial institution characteristics
-  - Government debt guarantee
-  - Liquidity crisis
-  - Unsecured debt bonds
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Oaktree and the Restructuring of CIT Group and financial analysis
+- Oaktree and the Restructuring of CIT Group in modern finance
+- Applications of Oaktree and the Restructuring of CIT Group
+- 'Case study: Oaktree and the Restructuring of CIT Group'
+tags:
+- maturity
+- credit
+- distressed
+- bonds
+- default
+- recovery
+- bankruptcy
+- cds
+- fixed-income
+- chapter-11
+- bond
+- liquidity
+- trading
+- portfolio
+- duration
+title: Oaktree and the Restructuring of CIT Group
 ---
 
 # Oaktree and the Restructuring of CIT Group

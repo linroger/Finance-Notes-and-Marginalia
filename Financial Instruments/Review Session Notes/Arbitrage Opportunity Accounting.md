@@ -1,27 +1,41 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Arbitrage Opportunity Accounting
 title: Arbitrage Opportunity Accounting
 tags:
-  - arbitrage_opportunity
-  - bond_valuation
-  - currency_swaps
-  - exchange_rate_risk
-  - government_bonds
-  - hedging_strategies
+- arbitrage
+- arbitrage_opportunity
+- bond_valuation
+- currency_swaps
+- derivatives-pricing
+- exchange_rate_risk
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- government_bonds
+- hedging-strategies
+- hedging_strategies
+- interest-rate-derivatives
+- markets
+- risk-management
 aliases:
-  - Currency Swap Accounting
-  - FX Risk Management
-  - Foreign Currency Bonds
+- Currency Swap Accounting
+- FX Risk Management
+- Foreign Currency Bonds
 key_concepts:
-  - Bond valuation in foreign currencies
-  - Currency swap contracts
-  - Exchange rate risk hedging
-  - Foreign currency bonds issuance
-  - Spot exchange rate mechanics
-  - Swap rate determination
+- Bond valuation in foreign currencies
+- Currency swap contracts
+- Delta hedging and Greeks calculation
+- Exchange rate risk hedging
+- Expected Shortfall (ES) and coherent risk measures
+- Foreign currency bonds issuance
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Spot exchange rate mechanics
+- Swap rate determination
 ---
+
 
 # Arbitrage Opportunity Accounting
 ## 1. DETERMINING CURRENCY SWAP RATES

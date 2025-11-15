@@ -1,28 +1,72 @@
 ---
 tags:
-  - credit_derivatives
-  - credit_risk_models
-  - default_swap
-  - intensity_models
-  - merton_model
-  - reduced_form_models
-  - structural_models
+- arbitrage
+- binomial-model
+- black-scholes-model
+- credit
+- credit-derivatives
+- credit_derivatives
+- credit_risk_models
+- default_swap
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- hedging-strategies
+- intensity_models
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- martingale-theory
+- mathematics
+- merton_model
+- model-calibration
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- reduced_form_models
+- risk-management
+- stochastic
+- structural_models
 aliases:
-  - CDS Valuation
-  - Credit Risk
-  - Default Swap Pricing
-  - KKM Model
+- CDS Valuation
+- Credit Risk
+- Default Swap Pricing
+- KKM Model
 key_concepts:
-  - Jarrow and Turnbull
-  - Kettunen model
-  - Merton model
-  - credit default swaps
-  - credit risk models
-  - intensity based models
-  - pricing credit derivatives
-  - reduced-form models
-  - structural models
+- Arbitrage pricing theory (APT)
+- Barrier options and knock-in/knock-out features
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- Brownian motion and Wiener processes
+- Capital Asset Pricing Model (CAPM)
+- Complete markets and replication
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Jarrow and Turnbull
+- Kettunen model
+- Merton model
+- Model calibration and parameter estimation
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Stopping times and optional stopping
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
+- credit default swaps
+- credit risk models
+- intensity based models
+- pricing credit derivatives
+- reduced-form models
+- structural models
 ---
+
 
 # Credit Risk Models and the Valuation of Credit  Default Swap Contracts
 

@@ -1,23 +1,57 @@
 ---
 tags:
-  - black_model
-  - caps_and_floors
-  - interest_rate_derivatives
-  - option_pricing
-  - risk_neutral
+- arbitrage
+- black-scholes-model
+- black_model
+- caps_and_floors
+- credit
+- credit-derivatives
+- fixed-income
+- fixed-income-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- interest_rate_derivatives
+- ito-calculus
+- markets
+- mathematics
+- option-greeks
+- option_pricing
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- risk_neutral
+- stochastic
 aliases:
-  - Black-Scholes Approach
-  - Caps and Floors Pricing
-  - Interest Rate Derivatives
+- Black-Scholes Approach
+- Caps and Floors Pricing
+- Interest Rate Derivatives
 key_concepts:
-  - Black-Scholes model
-  - Caps and floors
-  - Floating rate borrowers
-  - Interest rate derivatives
-  - Option payoff structure
-  - Over-the-counter market
-  - Risk neutral representation
+- Arbitrage pricing theory (APT)
+- Black-Scholes model
+- Black-Scholes option pricing model
+- Brownian motion and Wiener processes
+- Caps and floors
+- Complete markets and replication
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Floating rate borrowers
+- Heath-Jarrow-Morton (HJM) framework
+- Implied volatility and volatility surface
+- Interest rate derivatives
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Numerical methods for PDEs
+- Option payoff structure
+- Over-the-counter market
+- Portfolio optimization and mean-variance theory
+- Risk neutral representation
+- Risk-neutral valuation and martingale measures
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 
 # Interest Rate Derivatives-An Introduction to the  Pricing of Caps and Floors
 # Abstract

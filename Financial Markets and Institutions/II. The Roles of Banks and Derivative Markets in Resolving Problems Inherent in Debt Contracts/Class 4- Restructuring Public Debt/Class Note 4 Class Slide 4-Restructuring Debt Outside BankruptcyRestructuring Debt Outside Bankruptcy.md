@@ -1,34 +1,83 @@
 ---
-cssclasses:
-  - academia
-title: "Class Note 4: Restructuring Debt Outside Bankruptcy"
-tags:
-  - bank_debt
-  - bankruptcy
-  - bondholders
-  - public_debt
-  - renegotiation
-  - debt_restructuring
-  - going_concern_value
-  - trust_indenture_act
-  - debt_concessions
 aliases:
-  - Bank Debt
-  - Class Note 4
-  - Restructuring Outside Bankruptcy
-  - Debt Renegotiation
+- Bank Debt
+- Class Note 4
+- Restructuring Outside Bankruptcy
+- Debt Renegotiation
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ad78b5
 key_concepts:
-  - Bank lending limit
-  - Bankruptcy implications
-  - Private placement debt
-  - Public debt concessions
-  - Single bank lender
-  - Going concern value
-  - Trust indenture act
-  - Senior vs junior debt
-  - Debt covenant restrictions
-  - Me-first rules
+- Bank lending limit
+- Bankruptcy implications
+- Case Study
+- Course Material
+- Credit risk and default probability
+- Cross-currency basis swaps and funding
+- Debt covenant restrictions
+- Distressed Debt
+- Expected Shortfall (ES) and coherent risk measures
+- Expected Shortfall and coherent risk measures
+- Fixed-for-floating swap cash flows and valuation
+- Going concern value
+- Historical simulation vs. parametric VaR models
+- Interest rate models and term structure
+- Interest rate swap pricing and valuation
+- Interest rate swaps and swap pricing
+- Me-first rules
+- Monte Carlo VaR for complex portfolios
+- Monte Carlo simulation for derivatives
+- Portfolio optimization and mean-variance theory
+- Private placement debt
+- Public debt concessions
+- Quantitative Implementation
+- Senior vs junior debt
+- Single bank lender
+- Solution
+- Stress testing and scenario analysis
+- Swap spread and credit risk considerations
+- Trust indenture act
+- VaR backtesting and model validation
+- Value at Risk (VaR) and risk metrics
+- Value at Risk (VaR) methodologies and backtesting
+- Variance swaps and volatility trading strategies
+tags:
+- bank_debt
+- bankruptcy
+- bondholders
+- case-study
+- course-material
+- credit
+- credit-derivatives
+- debt_concessions
+- debt_restructuring
+- distressed-debt
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- going_concern_value
+- interest-rate-derivatives
+- interest-rate-swaps
+- markets
+- microeconomics
+- monte-carlo-simulation
+- numerical-simulation
+- options
+- options-pricing
+- public_debt
+- quantitative-implementation
+- quantitative-pricing
+- renegotiation
+- risk-management
+- solution
+- statistics
+- trust_indenture_act
+- value-at-risk
+title: 'Class Note 4: Restructuring Debt Outside Bankruptcy'
 ---
+
 
 # Class Note 4: Restructuring Debt Outside Bankruptcy
 

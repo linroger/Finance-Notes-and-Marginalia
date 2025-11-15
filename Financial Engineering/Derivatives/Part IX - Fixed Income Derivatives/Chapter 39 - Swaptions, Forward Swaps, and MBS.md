@@ -1,21 +1,45 @@
 ---
-tags:
-  - forward_swaps
-  - interest_rates
-  - mbs
-  - payer_swaption
-  - swaptions
 aliases:
-  - Chapter 39
-  - Forward Swap
-  - Mortgage-Backed Securities
-  - Payer Swaption
+- Chapter 39
+- Forward Swap
+- Mortgage-Backed Securities
+- Payer Swaption
 key_concepts:
-  - Cash market swap rates
-  - Greeks hedge fixed income
-  - Long forward swap known rate
-  - MBS and interest rate changes
-  - Payer swaption maximum swap rate
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Chapter 39 - Swaptions, Forward Swaps, and MBS and financial analysis
+- Chapter 39 - Swaptions, Forward Swaps, and MBS in modern finance
+- Applications of Chapter 39 - Swaptions, Forward Swaps, and MBS
+- 'Case study: Chapter 39 - Swaptions, Forward Swaps, and MBS'
+tags:
+- options
+- yield-curve
+- irs
+- swaption
+- futures
+- put
+- dv01
+- gamma
+- interest-rate
+- libor
+- maturity
+- forward
+- swaps
+- bond
+- coupon
 ---
 # Swaptions, Forward Swaps, and MBS  
 

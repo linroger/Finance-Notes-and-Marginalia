@@ -1,27 +1,46 @@
 ---
-tags:
-  - arbitrage
-  - cme
-  - derivative_securities
-  - forward_contracts
-  - futures_contracts
-  - hedging
-  - interest_rate_swaps
-  - options
-  - short_selling
-  - speculation
 aliases:
-  - Derivatives
-  - Forward Contracts
-  - Futures
-  - Options
-  - Swaps
+- Derivatives
+- Forward Contracts
+- Futures
+- Options
+- Swaps
 key_concepts:
-  - Call and put options
-  - Derivative securities
-  - Futures and forwards
-  - Hedging and arbitrage
-  - Interest rate swaps
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Chapter 1 - Derivative Securities and financial analysis
+- Chapter 1 - Derivative Securities in modern finance
+- Applications of Chapter 1 - Derivative Securities
+- 'Case study: Chapter 1 - Derivative Securities'
+tags:
+- options
+- irs
+- futures
+- put
+- basis
+- interest-rate
+- maturity
+- libor
+- forward
+- swaps
+- bond
+- expiry
+- swap
+- bonds
+- yield
 ---
 # Derivative Securities
 

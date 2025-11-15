@@ -2,21 +2,34 @@
 linter-yaml-title-alias: GOVERNMENT OF CANADA BOND FUTURES
 title: Carry Trade
 tags:
-  - arbitrage
-  - carry_trade
-  - futures_market
-  - market_neutral
-  - spot_market
+- arbitrage
+- carry_trade
+- derivatives-pricing
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- futures_market
+- fx-derivatives
+- interest-rate-derivatives
+- market_neutral
+- markets
+- risk-management
+- spot_market
 aliases:
-  - Cash-and-Carry
-  - Reverse Carry Trade
+- Cash-and-Carry
+- Reverse Carry Trade
 key_concepts:
-  - Arbitrage strategy
-  - Contango and backwardation
-  - Futures vs spot prices
-  - Market neutral strategy
-  - Profit from price spread
+- Arbitrage strategy
+- Contango and backwardation
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Futures vs spot prices
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Market neutral strategy
+- Profit from price spread
 ---
+
 
 Lecture Note 1- Forward Rates Agreement
 Teaching Note 2-Futures Contracts

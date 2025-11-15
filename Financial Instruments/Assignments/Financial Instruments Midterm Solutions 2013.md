@@ -1,33 +1,57 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Financial Instruments Midterm Solutions 2013
 title: Financial Instruments Midterm Solutions 2013
 tags:
-  - binary_option
-  - bond_valuation
-  - european_call_option
-  - hedging
-  - option_pricing
-  - black_scholes
-  - forward_contracts
-  - delta_hedging
-  - risk_neutral_pricing
-  - currency_exposure
+- binary_option
+- binomial-model
+- black-scholes-model
+- black_scholes
+- bond_valuation
+- currency_exposure
+- delta_hedging
+- equity-derivatives
+- european_call_option
+- fixed-income
+- fixed-income-derivatives
+- forward_contracts
+- fx-derivatives
+- hedging
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- option-greeks
+- option_pricing
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- risk_neutral_pricing
 aliases: []
 key_concepts:
-  - European call option
-  - S&P 500 index
-  - binary option pricing
-  - bond valuation
-  - hedge exposure
-  - delta hedging
-  - forward contracts
-  - risk-neutral probability
-  - Black-Scholes formula
-  - binomial tree pricing
-  - exchange rate hedging
+- Binomial tree models for option pricing
+- Black-Scholes formula
+- Black-Scholes option pricing model
+- Delta hedging and Greeks calculation
+- European call option
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- S&P 500 index
+- binary option pricing
+- binomial tree pricing
+- bond valuation
+- delta hedging
+- exchange rate hedging
+- forward contracts
+- hedge exposure
+- risk-neutral probability
 ---
+
 
 # Financial Instruments Midterm Solutions 2013
 

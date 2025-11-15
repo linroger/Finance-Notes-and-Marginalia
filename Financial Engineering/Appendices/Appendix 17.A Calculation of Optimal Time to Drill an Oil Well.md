@@ -1,21 +1,27 @@
 ---
-title: "Appendix 17.A Calculation of Optimal Time to Drill an Oil Well"
-cssclasses: academia
-tags:
-  - investment-decision
-  - investment-trigger
-  - oil-well-drilling
-  - optimal-solution
-  - shutdown-restart
 aliases:
-  - Oil Well Drilling
-  - Optimal Drilling Time
+- Oil Well Drilling
+- Optimal Drilling Time
+cssclasses: academia
 key_concepts:
-  - Investment trigger value
-  - L'Hospital's rule application
-  - Maximize expression
-  - Optimal investment deferral
-  - Single shutdown restart
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Appendix 17.A Calculation of Optimal Time to Drill an Oil Well and financial analysis
+- Appendix 17.A Calculation of Optimal Time to Drill an Oil Well in modern finance
+- Applications of Appendix 17.A Calculation of Optimal Time to Drill an Oil Well
+- 'Case study: Appendix 17.A Calculation of Optimal Time to Drill an Oil Well'
+tags:
+- swaps
+- options
+- put
+- call
+- delta
+- irs
+title: Appendix 17.A Calculation of Optimal Time to Drill an Oil Well
 ---
 
 # Appendix 17.A Calculation of Optimal Time to Drill an Oil Well

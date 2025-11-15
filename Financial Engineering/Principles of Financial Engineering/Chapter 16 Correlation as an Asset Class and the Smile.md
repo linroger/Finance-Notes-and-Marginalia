@@ -1,7 +1,47 @@
 ---
-title: "Chapter 16: Correlation as an Asset Class and the Smile"
-subject: "Financial Engineering"
+title: 'Chapter 16: Correlation as an Asset Class and the Smile'
+subject: Financial Engineering
+tags:
+- arbitrage
+- black-scholes-model
+- credit
+- credit-derivatives
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- mathematics
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- stochastic
+key_concepts:
+- Arbitrage pricing theory (APT)
+- Barrier options and knock-in/knock-out features
+- Black-Scholes option pricing model
+- Brownian motion and Wiener processes
+- Capital Asset Pricing Model (CAPM)
+- Complete markets and replication
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Numerical methods for PDEs
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # CORRELATION AS AN ASSET CLASS AND THE SMILE  
 

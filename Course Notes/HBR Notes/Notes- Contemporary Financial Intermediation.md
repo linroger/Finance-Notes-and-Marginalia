@@ -1,22 +1,20 @@
 ---
-cssclasses:
-  - academia
-title: NotesContemporary Financial Intermediation
-tags:
-  - banking_industry
-  - contemporary_finance
-  - financial_instruments
-  - financial_intermediation
-  - financial_markets
 aliases:
-  - Contemporary Finance
-  - Financial Intermediation
+- Contemporary Finance
+- Financial Intermediation
+cssclasses:
+- academia
 key_concepts:
-  - Financial innovation impact
-  - Financial market participants
-  - Financial market regulation
-  - Risk management in finance
-  - Role of intermediaries
+- Notes- Contemporary Financial Intermediation and financial analysis
+- Notes- Contemporary Financial Intermediation in modern finance
+- Applications of Notes- Contemporary Financial Intermediation
+- 'Case study: Notes- Contemporary Financial Intermediation'
+- Financial markets and institutions
+- Risk management and analysis
+- Portfolio theory and optimization
+- Derivative securities and hedging
+tags: []
+title: NotesContemporary Financial Intermediation
 ---
 
 # NotesContemporary Financial Intermediation

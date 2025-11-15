@@ -1,22 +1,53 @@
 ---
 tags:
-  - euro_swap_yield
-  - exchange_traded
-  - fixed_income
-  - interest_rate_swaps
-  - swapnote
+- arbitrage
+- credit
+- credit-derivatives
+- euro_swap_yield
+- exchange_traded
+- fixed-income
+- fixed-income-derivatives
+- fixed_income
+- hedging-strategies
+- interest-rate-derivatives
+- interest_rate_swaps
+- ito-calculus
+- markets
+- mathematics
+- monte-carlo-simulation
+- numerical-simulation
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- stochastic
+- swapnote
 aliases:
-  - Euro swap curve
-  - LIFFE Swapnote
-  - OTC swap
-  - Swapnote
+- Euro swap curve
+- LIFFE Swapnote
+- OTC swap
+- Swapnote
 key_concepts:
-  - Euro interest-rate swaps
-  - Exchange-traded swap contract
-  - Government bond markets
-  - Interest rate swap contract
-  - Standardised futures contract
+- Arbitrage pricing theory (APT)
+- Capital Asset Pricing Model (CAPM)
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Euro interest-rate swaps
+- Exchange-traded swap contract
+- Expected Shortfall (ES) and coherent risk measures
+- Government bond markets
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Interest rate swap contract
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Monte Carlo simulation for derivatives
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Standardised futures contract
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Assessing the LIFFE Swapnote
 

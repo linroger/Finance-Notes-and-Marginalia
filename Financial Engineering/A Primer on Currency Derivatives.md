@@ -1,38 +1,46 @@
 ---
-tags:
-  - currency_derivatives
-  - currency_futures
-  - currency_options
-  - exchange_rate_risk
-  - forward_contracts
-  - hedging
-  - speculation
-  - risk_management
-  - international_finance
-  - exotic_options
-  - binomial_pricing
 aliases:
-  - Currency Derivatives Primer
-  - Derivatives Primer
-  - Hopper Article
-  - Foreign Exchange Derivatives Guide
-key_concepts:
-  - Currency derivatives usage
-  - Currency exchange rate uncertainty
-  - Floating rate system
-  - Forward contract definition
-  - Forward exchange rate
-  - Credit risk in forward contracts
-  - Futures contract mechanics
-  - Margin requirements
-  - Option pricing theory
-  - Delta hedging
-  - Volatility risk
-  - Correlation risk
-  - Exotic derivatives
-  - Black-Scholes model
-  - Put-call parity
+- Currency Derivatives Primer
+- Derivatives Primer
+- Hopper Article
+- Foreign Exchange Derivatives Guide
 cssclasses: academia
+key_concepts:
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- A Primer on Currency Derivatives and financial analysis
+- A Primer on Currency Derivatives in modern finance
+- Applications of A Primer on Currency Derivatives
+- 'Case study: A Primer on Currency Derivatives'
+tags:
+- forward
+- options
+- futures
+- put
+- stress-test
+- portfolio
+- hedging
+- basis
+- strike
+- gamma
+- vega
+- call
+- delta
+- interest-rates
+- interest-rate
 ---
 
 # A Primer on Currency Derivatives  

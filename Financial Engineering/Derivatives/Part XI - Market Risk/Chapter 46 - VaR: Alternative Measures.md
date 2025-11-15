@@ -1,21 +1,53 @@
 ---
 tags:
-  - historical_simulation
-  - monte_carlo
-  - non_parametric
-  - portfolio_var
-  - stress_testing
-  - var
+- black-scholes-model
+- credit
+- credit-derivatives
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- historical_simulation
+- interest-rate-derivatives
+- markets
+- monte-carlo-simulation
+- monte_carlo
+- non_parametric
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- portfolio_var
+- quantitative-pricing
+- risk-management
+- stochastic
+- stress_testing
+- var
 aliases:
-  - HS
-  - VaR
+- HS
+- VaR
 key_concepts:
-  - Monte Carlo simulation
-  - historical simulation
-  - non-parametric VaR methods
-  - portfolio VaR calculation
-  - variance-covariance method
+- Arbitrage pricing theory (APT)
+- Asian options and average price derivatives
+- Brownian motion and Wiener processes
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Monte Carlo simulation
+- Monte Carlo simulation for derivatives
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Stress testing and scenario analysis
+- VaR backtesting and model validation
+- Value at Risk (VaR) and risk metrics
+- historical simulation
+- non-parametric VaR methods
+- portfolio VaR calculation
+- variance-covariance method
 ---
+
 # VaR: Alternative Measures  
 
 # Aims  

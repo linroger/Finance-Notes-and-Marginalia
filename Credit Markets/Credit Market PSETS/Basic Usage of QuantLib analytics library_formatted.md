@@ -1,41 +1,48 @@
 ---
-title: Basic Usage of QuantLib Analytics Library
-tags:
-  - analytics
-  - bond_pricing
-  - cashflow_schedule
-  - quantlib
-  - yield_curve
-  - fixed_income
-  - duration_convexity
-  - discount_curve
-  - z_spread
-  - interest_rate_scenarios
-  - bootstrap_calibration
-  - bond_yield
-cssclasses:
-  - tutorial
 aliases:
-  - QuantLib Example
-  - QuantLib Tutorial
-  - QuantLib Basic Usage
-  - Python Bond Pricing
+- QuantLib Example
+- QuantLib Tutorial
+- QuantLib Basic Usage
+- Python Bond Pricing
+cssclasses:
+- tutorial
 key_concepts:
-  - Bond pricing and valuation
-  - Cashflow schedule generation
-  - QuantLib library fundamentals
-  - Quote objects and handles
-  - Yield curve construction
-  - Discount curve modeling
-  - Fixed and floating rate bonds
-  - Duration and convexity calculation
-  - Z-spread computation
-  - Interest rate scenarios
-  - Yield curve calibration
-  - Bond price to yield conversions
-  - Present value calculation
-  - Clean vs dirty prices
-  - Day-count conventions
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Basic Usage of QuantLib analytics library_formatted and financial analysis
+- Basic Usage of QuantLib analytics library_formatted in modern finance
+- Applications of Basic Usage of QuantLib analytics library_formatted
+- 'Case study: Basic Usage of QuantLib analytics library_formatted'
+tags:
+- options
+- yield-curve
+- term-structure
+- put
+- dv01
+- fixed-income
+- discount-factors
+- interest-rate
+- maturity
+- bond
+- coupon
+- duration
+- bonds
+- convexity
+- yield
+title: Basic Usage of QuantLib Analytics Library
 ---
 
 # Basic Usage of QuantLib Analytics Library

@@ -1,27 +1,43 @@
 ---
-cssclasses:
-  - academia
 Owner: RRoger Lin
-title: Notes on Debtor-in-Possession DIP Financing
-tags:
-  - bankruptcy_code
-  - chapter_11
-  - debtor_in_possession
-  - dip_financing
-  - federal_bankruptcy_code
-  - loan_commitments
-  - super_priority_lien
-  - till_v_scs
 aliases:
-  - DIP Financing
-  - DIP Loans
-  - Debtor in Possession Financing
+- DIP Financing
+- DIP Loans
+- Debtor in Possession Financing
+cssclasses:
+- academia
 key_concepts:
-  - Chemical Bank DIP origin
-  - DIP financing for debtors
-  - Loan commitment features
-  - Section 364 Bankruptcy Code
-  - Super priority lien
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Notes on Debtor-in-Possession DIP Financing and financial analysis
+- Notes on Debtor-in-Possession DIP Financing in modern finance
+- Applications of Notes on Debtor-in-Possession DIP Financing
+- 'Case study: Notes on Debtor-in-Possession DIP Financing'
+tags:
+- credit
+- cash flow
+- credit-risk
+- collateral
+- swaps
+- bankruptcy
+- liquidity
+- interest-rate
+- interest-rates
+- irs
+title: Notes on Debtor-in-Possession DIP Financing
 ---
 
 DIP Financing | debtor in possession]]

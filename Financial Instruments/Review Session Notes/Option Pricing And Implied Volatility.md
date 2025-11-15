@@ -1,32 +1,48 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Option Pricing and Implied Volatility
 title: Option Pricing and Implied Volatility
 tags:
-  - black_scholes_model
-  - call_option
-  - delta_hedging
-  - implied_volatility
-  - option_pricing
-  - normal_distribution
-  - put_option
-  - financial_mathematics
+- black-scholes-model
+- black_scholes_model
+- call_option
+- delta_hedging
+- equity-derivatives
+- financial_mathematics
+- implied_volatility
+- interest-rate-derivatives
+- markets
+- normal_distribution
+- option-greeks
+- option_pricing
+- options
+- options-pricing
+- put_option
+- quantitative-pricing
+- risk-management
 aliases:
-  - BSM
-  - Black-Scholes
-  - Option Pricing Model
-  - Volatility Calculation
+- BSM
+- Black-Scholes
+- Option Pricing Model
+- Volatility Calculation
 key_concepts:
-  - Delta hedging parameters
-  - Implied volatility extraction
-  - Risk-free rate influence
-  - Maturity effects on pricing
-  - Stock price and strike price relationship
-  - Volatility parameter estimation
-  - Normal distribution application
-  - Non-linear equation solving
+- Black-Scholes option pricing model
+- Delta hedging and Greeks calculation
+- Delta hedging parameters
+- Expected Shortfall (ES) and coherent risk measures
+- Implied volatility and volatility surface
+- Implied volatility extraction
+- Interest rate models and term structure
+- Maturity effects on pricing
+- Model calibration and parameter estimation
+- Non-linear equation solving
+- Normal distribution application
+- Risk-free rate influence
+- Stock price and strike price relationship
+- Volatility parameter estimation
 ---
+
 
 # BLACK-SCHOLES MODEL OF OPTION PRICING
 ## 1. PARAMETERS

@@ -1,21 +1,44 @@
 ---
-tags:
-  - capm
-  - cost_of_capital
-  - equity_valuation
-  - fama_french
-  - implied_cost
-  - private_firms
 aliases:
-  - Advanced Financial Analysis
-  - Cost of Equity
-  - Fama French Model
+- Advanced Financial Analysis
+- Cost of Equity
+- Fama French Model
 key_concepts:
-  - CAPM model
-  - Estimate cost of equity
-  - Fama French 3-factor
-  - Implied cost of capital
-  - Private firm valuation
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Capital Asset Pricing Model (CAPM)
+- Arbitrage Pricing Theory (APT)
+- Multi-factor risk models
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Week 7- Cost of Capital Review, Implied Model, Private Firms and financial analysis
+- Week 7- Cost of Capital Review, Implied Model, Private Firms in modern finance
+- Applications of Week 7- Cost of Capital Review, Implied Model, Private Firms
+- 'Case study: Week 7- Cost of Capital Review, Implied Model, Private Firms'
+tags:
+- options
+- bonds
+- alpha
+- put
+- yield
+- bond
+- factor-models
+- liquidity
+- spread
+- treasury
+- call
+- capm
+- multiple
+- beta
+- market-efficiency
 ---
 
 ## ADVANCED FINANCIAL ANALYSIS AND VALUATION OF GLOBAL FIRMS

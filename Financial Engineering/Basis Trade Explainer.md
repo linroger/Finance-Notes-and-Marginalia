@@ -1,21 +1,45 @@
 ---
-tags:
-  - basis_trade
-  - financial_crisis
-  - repo_market
-  - treasury_futures
-  - treasury_yields
 aliases:
-  - JPMorgan
-  - Odd Lots
-  - basis trade
-  - hedge funds
+- JPMorgan
+- Odd Lots
+- basis trade
+- hedge funds
 key_concepts:
-  - 2008 financial crisis
-  - Basis trade explained
-  - Hedge fund returns
-  - Repo market funding
-  - Treasury yields spike
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Basis Trade Explainer and financial analysis
+- Basis Trade Explainer in modern finance
+- Applications of Basis Trade Explainer
+- 'Case study: Basis Trade Explainer'
+tags:
+- maturity
+- swap
+- swaps
+- bonds
+- futures
+- yield
+- roll
+- basis
+- hedging
+- bond
+- fixed-income
+- treasury
+- liquidity
+- spread
+- trading
 ---
 # Basis Trade Explainer
 I remember when the basis trade first burst into the market’s collective consciousness.

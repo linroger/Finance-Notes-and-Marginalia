@@ -2,22 +2,42 @@
 title: HSBC-Auto callable Barrier Notes with Step-up Premium
 cssclasses: academia
 tags:
-  - auto_callable_notes
-  - barrier_notes
-  - hsbc
-  - index_linked
-  - step_up_premium
+- auto_callable_notes
+- barrier_notes
+- credit
+- credit-derivatives
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- hsbc
+- index_linked
+- interest-rate-derivatives
+- markets
+- option-greeks
+- options
+- options-pricing
+- risk-management
+- step_up_premium
 aliases:
-  - Barrier Notes
-  - Callable Notes
-  - HSBC Notes
+- Barrier Notes
+- Callable Notes
+- HSBC Notes
 key_concepts:
-  - Auto callable notes
-  - Call threshold
-  - Least performing underlying
-  - Principal amount
-  - Step-up premium
+- Auto callable notes
+- Barrier options and knock-in/knock-out features
+- Call threshold
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Least performing underlying
+- Principal amount
+- Step-up premium
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 
 # HSBC-Auto callable Barrier Notes with Step-up Premium
 

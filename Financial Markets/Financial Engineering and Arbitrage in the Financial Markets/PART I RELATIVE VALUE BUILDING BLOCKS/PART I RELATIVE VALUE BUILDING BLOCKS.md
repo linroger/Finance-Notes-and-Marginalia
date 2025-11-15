@@ -1,12 +1,58 @@
-%% Begin Waypoint %%
-- **PART I RELATIVE VALUE BUILDING BLOCKS**
-	- **Chapter 1 - Purpose and Structure of Financial Markets**
-	- **Chapter 2 - Spot Markets**
-	- **Chapter 3 - Futures Markets**
-	- **Chapter 4 - Swap Markets**
-	- **Chapter 5 Options on Prices and Hedge-Based Valuation**
-	- **Chapter 6 Options on Non-Price Variables**
-	- **Chapter 7 - Default Risk and Credit Derivatives**
-	- PART I RELATIVE VALUE BUILDING BLOCKS
-
-%% End Waypoint %%
+---
+tags:
+- apt
+- banking
+- corporate-finance
+- credit-markets
+- derivatives
+- financial-markets
+- financial-modeling
+- fixed-income
+- futures-contracts
+- interest-rate-swap
+- ma
+- quantitative-finance
+- risk-management
+- value-at-risk
+- var
+key_concepts:
+- Agricultural futures and seasonality
+- Alternative investments and hedge fund strategies
+- Asset swaps and spread-lock strategies
+- Barrier options and knock-in/knock-out structures
+- Basis swaps and cross-currency basis adjustments
+- Basis swaps and floating rate correlations
+- Behavioral finance and market anomalies
+- Best execution and regulatory requirements
+- Bid-ask spreads and market making profitability
+- Binomial option pricing model with multi-period trees
+- Black-Litterman model and portfolio optimization
+- Black-Scholes option pricing model and its applications
+- CDO structuring and tranche allocation methodologies
+- CDO-squared structures and correlation trading
+- Calendar spreads and roll strategies
+- Central clearing and CCP risk management
+- Commodity futures and convenience yields
+- Commodity swaps and energy derivatives
+- Crack spreads in energy markets
+- Credit default swaps and credit protection mechanisms
+- Credit risk assessment and loan pricing
+- Credit valuation adjustment (CVA) and counterparty risk
+- Cryptocurrency valuation and blockchain technology
+- Currency swaps and cross-currency basis
+- Dark pools and alternative trading venues
+- DeFi protocols and decentralized finance
+- Deposit insurance and systemic risk
+- Duration and convexity for bond price sensitivity
+- ESG investing and sustainability metrics
+- Enterprise value and equity value relationships
+- Equity swaps and total return swaps
+- Exotic derivatives and path-dependent options
+- Extreme value theory and tail risk modeling
+- FX futures and currency hedging
+- Fama-French three-factor and five-factor models
+- Fintech disruption and digital banking
+- Futures vs forwards and delivery options
+- Gamma trading and convexity adjustments
+- Green bonds and climate risk assessment
+-

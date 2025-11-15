@@ -1,4 +1,24 @@
 ---
+tags:
+- financial-instruments/cap
+- financial-instruments/put
+- quantitative-models/apt
+- educational-level/introductory
+- professional-context/portfolio-management
+key_concepts:
+- financial mathematics and quantitative analysis
+- derivatives and structured products
+- risk management and portfolio optimization
+- stochastic processes in finance
+- mathematical modeling and simulation
+type: note
+status: active
+academic_level: graduate
+professional_application: practical
+institutional_standard: true
+---
+
+
 cssclasses: academia
 title: Globalization Textbook Chapters
 linter-yaml-title-alias: GLOBALIZATION TEXTBOOK CHAPTERS
@@ -19,20 +39,3 @@ key_concepts:
   - Textbook chapter outline
   - Trade and investment
 ---
-
-# Globalization Textbook Chapters
-
-%% Begin Waypoint %%
-
-- **Globalization Textbook Chapters**
-	- _Index_of_Globalization Textbook Chapters
-	- Globalization Textbook Chapters
-	- Globalization- Chapter 1 Introduction
-	- Chapter 2-The Principle Of Comparative Advantage
-	- Globalization- Chapter 4 Trade,   Endowments,   and the Income Distribution
-	- Globalization- Chapter 6 Intermediate Input Trade and Offshoring
-	- Globalization- Chapter 14 Capital Flows and the Current Account
-	- Globalization-Chapter 1 Introduction
-	- Globalization-Chapter 3 Comparative Advantage,   Competitiveness,   And The Terms Of Trade The Great Doubling Of The Global Workforce
-
-%% End Waypoint %%

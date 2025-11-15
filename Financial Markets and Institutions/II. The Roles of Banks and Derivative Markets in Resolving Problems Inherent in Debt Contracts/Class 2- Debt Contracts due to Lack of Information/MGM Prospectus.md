@@ -1,33 +1,107 @@
 ---
-cssclasses:
-  - academia
-title: MGM Prospectus
-tags:
-  - debt_offering
-  - filing_424b5
-  - mgm_mirage
-  - prospectus
-  - senior_notes
-  - bond_covenants
-  - corporate_bonds
 aliases:
-  - MGM
-  - MGM Mirage
-  - Prospectus Supplement
-  - MGM Bond Offering
-  - Senior Notes Prospectus
+- MGM
+- MGM Mirage
+- Prospectus Supplement
+- MGM Bond Offering
+- Senior Notes Prospectus
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-d33947
 key_concepts:
-  - Joint Book-Running Managers
-  - Prospectus Information
-  - Redemption Price
-  - Senior Notes
-  - Unsecured Senior Obligations
-  - Interest Payment Dates
-  - Guarantee Structure
-  - Covenant Restrictions
-  - Use of Proceeds
-  - Risk Factors
+- Carry trades and momentum in FX markets
+- Commodity markets and pricing dynamics
+- Complete markets and replication
+- Corporate Bonds
+- Course Material
+- Covenant Restrictions
+- Credit risk and default probability
+- Cross-currency basis swaps and funding
+- Currency markets and foreign exchange trading
+- Currency risk management and hedging
+- Delta hedging and Greeks calculation
+- Delta hedging and the replication argument
+- Exchange rate determination and PPP theory
+- Expected Shortfall (ES) and coherent risk measures
+- Expected Shortfall and coherent risk measures
+- Fixed-for-floating swap cash flows and valuation
+- Forward rates and interest rate parity
+- Gamma and convexity adjustments
+- Guarantee Structure
+- Heath-Jarrow-Morton (HJM) framework
+- Historical simulation vs. parametric VaR models
+- Infrastructure investment and project finance
+- Interest Payment Dates
+- Interest rate models and term structure
+- Interest rate swap pricing and valuation
+- Interest rate swaps and swap pricing
+- Investment Banking
+- Joint Book-Running Managers
+- Monte Carlo VaR for complex portfolios
+- Monte Carlo simulation for derivative pricing
+- Monte Carlo simulation for derivatives
+- Option Greeks and portfolio risk management
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Prospectus Information
+- Quantitative Implementation
+- Quasi-Monte Carlo and variance reduction
+- Redemption Price
+- Risk Factors
+- Senior Notes
+- Solution
+- Stress testing and scenario analysis
+- Swap spread and credit risk considerations
+- Theta and time decay modeling
+- Unsecured Senior Obligations
+- Use of Proceeds
+- VaR backtesting and model validation
+- Value at Risk (VaR) and risk metrics
+- Value at Risk (VaR) methodologies and backtesting
+- Variance reduction techniques in Monte Carlo methods
+- Variance swaps and volatility trading strategies
+- Vasicek and Cox-Ingersoll-Ross models
+- Vega and volatility risk management
+- Working Capital
+tags:
+- bond_covenants
+- commodities
+- corporate-bonds
+- corporate_bonds
+- course-material
+- credit
+- credit-derivatives
+- debt_offering
+- derivatives-pricing
+- exchange-rates
+- filing_424b5
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- greeks
+- infrastructure
+- interest-rate-derivatives
+- interest-rate-swaps
+- investment-banking
+- markets
+- mgm_mirage
+- monte-carlo
+- monte-carlo-simulation
+- numerical-simulation
+- option-greeks
+- prospectus
+- quantitative-implementation
+- quantitative-pricing
+- risk-management
+- senior_notes
+- solution
+- value-at-risk
+- working-capital
+title: MGM Prospectus
 ---
+
 
 # MGM Prospectus
 

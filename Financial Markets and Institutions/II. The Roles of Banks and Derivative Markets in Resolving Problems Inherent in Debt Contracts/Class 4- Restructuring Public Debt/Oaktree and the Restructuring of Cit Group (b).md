@@ -1,18 +1,84 @@
 ---
-linter-yaml-title-alias: Oaktree And The Restructuring Of CIT Group (B)
-title: Oaktree and the Restructuring of CIT Group (b)
-cssclasses: ["academia"]
 aliases:
-  - CIT Bankruptcy
-  - CIT Restructuring
-  - Oaktree CIT
+- CIT Bankruptcy
+- CIT Restructuring
+- Oaktree CIT
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-71c5e0
 key_concepts:
-  - CIT temporary liquidity guarantee
-  - Credit facility
-  - Lenders steering committee
-  - Restructuring plan
-  - Secured loan terms
+- American option pricing in binomial trees
+- Apt
+- Arbitrage pricing theory (APT)
+- Binomial option pricing model with multiple time steps
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- CIT temporary liquidity guarantee
+- Capital Structure
+- Commodity markets and pricing dynamics
+- Computational implementation of binomial option pricing
+- Convergence of binomial model to Black-Scholes solution
+- Course Material
+- Cox-Ross-Rubinstein parameter specification
+- Credit facility
+- Debt capacity analysis in LBO transactions
+- Distressed Debt
+- Equity returns and value creation mechanisms
+- Exit strategies and return maximization
+- Expected Shortfall (ES) and coherent risk measures
+- Expected Shortfall and coherent risk measures
+- GARCH models and volatility forecasting
+- Historical simulation vs. parametric VaR models
+- Interest rate models and term structure
+- Ito's Lemma and stochastic calculus
+- LBO financing sources and covenant structures
+- Lenders steering committee
+- Leveraged Buyout financial structures and returns
+- Monte Carlo VaR for complex portfolios
+- Monte Carlo simulation for derivatives
+- Portfolio optimization and mean-variance theory
+- Quantitative Implementation
+- Restructuring plan
+- Secured loan terms
+- Solution
+- Stress testing and scenario analysis
+- VaR backtesting and model validation
+- Value at Risk (VaR) and risk metrics
+- Value at Risk (VaR) methodologies and backtesting
+linter-yaml-title-alias: Oaktree And The Restructuring Of CIT Group (B)
+tags:
+- apt
+- binomial-model
+- black-scholes-model
+- capital-structure
+- commodities
+- course-material
+- credit
+- credit-derivatives
+- distressed-debt
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- garch-models
+- interest-rate-derivatives
+- ito-calculus
+- leveraged-buyouts
+- markets
+- monte-carlo-simulation
+- numerical-simulation
+- options
+- options-pricing
+- quantitative-implementation
+- quantitative-pricing
+- risk-management
+- solution
+- stochastic
+- value-at-risk
+title: Oaktree and the Restructuring of CIT Group (b)
 ---
+
 
 Oaktree and the Restructuring of CIT Group (a)
 Note On LBO Capital Structure

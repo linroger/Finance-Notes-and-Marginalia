@@ -1,39 +1,48 @@
 ---
-cssclasses: academia
-title: "HBS Case Study: Citigroup 2007 - Financial Reporting and Regulatory Capital"
-date: 2023-10-15
-tags:
-  - financial_crisis_2007
-  - citigroup
-  - regulatory_capital
-  - financial_reporting
-  - tier_1_capital
-  - basel_regulations
-  - bank_capital_adequacy
-  - leverage_ratio
-  - subprime_mortgage_crisis
-  - fair_value_accounting
-  - securitization
-  - regulatory_requirements
-  - fdic_regulations
-  - risk_weighted_assets
-  - bank_supervision
 aliases:
-  - Citi 2007 Regulatory Capital Case
-  - Citigroup 2007 10-K Analysis
-  - Citi Financial Crisis Case Study
-  - Merando Citigroup Analysis
+- Citi 2007 Regulatory Capital Case
+- Citigroup 2007 10-K Analysis
+- Citi Financial Crisis Case Study
+- Merando Citigroup Analysis
+cssclasses: academia
+date: 2023-10-15
 key_concepts:
-  - Tier 1 capital ratio: Core capital divided by risk-weighted assets
-  - Regulatory capital: Capital required by Fed to offset credit, market, operational risks
-  - Risk-weighted assets: Assets multiplied by assigned risk weights
-  - Well-capitalized banks: 6% Tier 1, 10% total capital, 5% leverage ratio
-  - Capital adequacy: Minimum 4% Tier 1, 8% total capital, 3% leverage
-  - Fair value accounting: Mark-to-market valuation during crisis
-  - Subprime crisis: $18.1 billion write-off in Q4 2007
-  - Basel regulations: International banking supervision framework
-  - FDIC requirements: Federal deposit insurance standards
-  - Capital management framework: Citigroup's risk-based approach
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- HBS Citigroup 2007-Financial Reporting And Regulatory Capital and financial analysis
+- HBS Citigroup 2007-Financial Reporting And Regulatory Capital in modern finance
+- Applications of HBS Citigroup 2007-Financial Reporting And Regulatory Capital
+- 'Case study: HBS Citigroup 2007-Financial Reporting And Regulatory Capital'
+tags:
+- regulatory
+- securitization
+- options
+- put
+- regulation
+- mbs
+- subprime
+- financial-statement
+- capital-requirement
+- trading
+- liquidity
+- spread
+- call
+- tranche
+- accounting
+title: 'HBS Case Study: Citigroup 2007 - Financial Reporting and Regulatory Capital'
 ---
 
 ## Citigroup 2007: Financial Reporting and Regulatory Capital

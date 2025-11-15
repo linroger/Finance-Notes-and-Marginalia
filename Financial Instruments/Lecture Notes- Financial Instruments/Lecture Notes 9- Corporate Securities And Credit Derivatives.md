@@ -1,23 +1,36 @@
 ---
 LLM-tagged: 2025-03-10 14:13:25.958000+00:00
 tags:
-  - cds_spread
-  - corporate_risk
-  - credit_derivatives
-  - credit_risk
-  - merton_model
+- cds_spread
+- corporate_risk
+- credit
+- credit-derivatives
+- credit_derivatives
+- credit_risk
+- derivatives-pricing
+- fixed-income
+- fixed-income-derivatives
+- interest-rate-derivatives
+- merton_model
+- risk-management
 aliases:
-  - Credit Derivatives
-  - Lecture Notes 9
+- Credit Derivatives
+- Lecture Notes 9
 key_concepts:
-  - Corporate Risk Management
-  - Credit Default Swaps (CDS)
-  - Credit Spread Formula
-  - Investment Banking
-  - Market Liquidity
-  - Notional Amount
-  - Protection Buyer/Seller
+- Arbitrage pricing theory (APT)
+- Corporate Risk Management
+- Credit Default Swaps (CDS)
+- Credit Spread Formula
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate swaps and swap pricing
+- Investment Banking
+- Market Liquidity
+- Notional Amount
+- Protection Buyer/Seller
 ---
+
 
 Here is a tagged summary:
 

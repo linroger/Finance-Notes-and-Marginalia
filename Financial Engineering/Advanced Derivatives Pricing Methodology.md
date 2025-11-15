@@ -1,20 +1,44 @@
 ---
-tags:
-  - advanced_derivatives_pricing
-  - derivative_securities
-  - no_arbitrage
-  - risk_management
-  - valuation
 aliases:
-  - Advanced Pricing
-  - Derivatives Pricing
-  - P v. Q
+- Advanced Pricing
+- Derivatives Pricing
+- P v. Q
 key_concepts:
-  - future cash flows
-  - no-arbitrage models
-  - risk-neutral probabilities
-  - underlying security price
-  - valuation replication hedging
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Advanced Derivatives Pricing Methodology and financial analysis
+- Advanced Derivatives Pricing Methodology in modern finance
+- Applications of Advanced Derivatives Pricing Methodology
+- 'Case study: Advanced Derivatives Pricing Methodology'
+tags:
+- options
+- theta
+- var
+- hedge-ratio
+- futures
+- put
+- portfolio
+- gamma
+- portfolio-optimization
+- maturity
+- forward
+- bond
+- expiry
+- coupon
+- risk-management
 ---
 
 # Overview  

@@ -1,25 +1,21 @@
 ---
-cssclasses: academia
-title: Lecture Notes Advanced Financial Analysis and Valuation
-linter-yaml-title-alias: Lecture Notes Advanced Financial Analysis and Valuation
 aliases:
-  - Advanced Financial Analysis Course Notes
-  - MBA Valuation Lecture Notes
-tags:
-  - advanced_financial_analysis
-  - lecture_notes
-  - valuation
-  - corporate_finance
-  - financial_modeling
+- Advanced Financial Analysis Course Notes
+- MBA Valuation Lecture Notes
+cssclasses: academia
 key_concepts:
-  - Financial forecasting techniques
-  - Valuation of growth companies
-  - Industry analysis methods
-  - Bank valuation models
-  - International investment risks
-  - Private company valuation
-  - ESO valuation
-  - Platform business models
+- Lecture Notes Advanced Financial Analysis and Valuation and financial analysis
+- Lecture Notes Advanced Financial Analysis and Valuation in modern finance
+- Applications of Lecture Notes Advanced Financial Analysis and Valuation
+- 'Case study: Lecture Notes Advanced Financial Analysis and Valuation'
+- Financial markets and institutions
+- Risk management and analysis
+- Portfolio theory and optimization
+- Derivative securities and hedging
+linter-yaml-title-alias: Lecture Notes Advanced Financial Analysis and Valuation
+tags:
+- valuation
+title: Lecture Notes Advanced Financial Analysis and Valuation
 ---
 # Lecture Notes Advanced Financial Analysis and Valuation
 

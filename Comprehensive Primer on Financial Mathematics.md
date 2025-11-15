@@ -1,3 +1,42 @@
+---
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Comprehensive Primer on Financial Mathematics and financial analysis
+- Comprehensive Primer on Financial Mathematics in modern finance
+- Applications of Comprehensive Primer on Financial Mathematics
+- 'Case study: Comprehensive Primer on Financial Mathematics'
+tags:
+- options
+- theta
+- roll
+- corporate-bond
+- irs
+- swaption
+- futures
+- put
+- dv01
+- backwardation
+- fixed-income
+- basis
+- gamma
+- maturity
+- forward
+---
+
 # Comprehensive Primer on Financial Mathematics: Instrument Pricing and Risk Analysis
 
 ## Executive Summary

@@ -1,30 +1,31 @@
 ---
-title: Fixed Asset Turnover Ratio
-cssclasses:
-  - academia
-tags:
-  - accounting_analysis
-  - asset_turnover
-  - financial_ratio
-  - fixed_asset_turnover
-  - manufacturing_industry
-  - efficiency_ratio
-  - capital_utilization
-  - operational_performance
 aliases:
-  - FAT ratio
-  - Fixed Asset Turnover
+- FAT ratio
+- Fixed Asset Turnover
+cssclasses:
+- academia
 key_concepts:
-  - Fixed asset efficiency
-  - Net revenue to fixed asset ratio
-  - Property, plant & equipment utilization
-  - Capital expenditure effectiveness
-  - Industry benchmarking
-  - Operational efficiency measurement
-  - Manufacturing performance metrics
-  - Asset-intensive business analysis
-  - Fixed asset productivity
-  - Investment return assessment
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Fixed Asset Turnover Ratio and financial analysis
+- Fixed Asset Turnover Ratio in modern finance
+- Applications of Fixed Asset Turnover Ratio
+- 'Case study: Fixed Asset Turnover Ratio'
+tags:
+- income statement
+- options
+- put
+- var
+- call
+- balance sheet
+- ratio
+- cash flow
+- risk-management
+title: Fixed Asset Turnover Ratio
 ---
 
 # Fixed Asset Turnover Ratio

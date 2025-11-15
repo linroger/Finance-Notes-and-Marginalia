@@ -1,26 +1,41 @@
 ---
+aliases:
+- Financial Intermediation Basic Concepts
+- Part I Background Introduction
 cssclasses: academia
-title: Part I - Basic Concepts Introduction
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Part I Introduction and financial analysis
+- Part I Introduction in modern finance
+- Applications of Part I Introduction
+- 'Case study: Part I Introduction'
 linter-yaml-title-alias: Part I - Basic Concepts Introduction
 tags:
-  - financial_economics
-  - risk_preferences
-  - banking_theory
-  - financial_concepts
-  - market_completeness
-aliases:
-  - Financial Intermediation Basic Concepts
-  - Part I Background Introduction
-key_concepts:
-  - Risk preferences (neutral, averse, preferring)
-  - Utility functions and wealth
-  - Expected utility theory
-  - Jensen's inequality
-  - Market completeness
-  - Riskless arbitrage
-  - Options
-  - Market efficiency
-  - Informational asymmetry
+- securitization
+- options
+- mbs
+- var
+- call
+- risk
+- balance sheet
+- arbitrage
+- risk-management
+- market-efficiency
+title: Part I - Basic Concepts Introduction
 ---
 
 # Basic Concepts

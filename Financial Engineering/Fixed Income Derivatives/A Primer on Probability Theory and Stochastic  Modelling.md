@@ -1,20 +1,23 @@
 ---
 tags:
-  - markov_chain
-  - probability_equations
-  - stationary_distribution
-  - stochastic_modelling
-  - transition_probabilities
+- markov_chain
+- probability_equations
+- stationary_distribution
+- stochastic
+- stochastic_modelling
+- transition_probabilities
 aliases:
-  - Probability Primer
-  - Stochastic Process Example
+- Probability Primer
+- Stochastic Process Example
 key_concepts:
-  - Markov Chain Model
-  - Random Process Steps
-  - Stationary Distribution
-  - System of Equations
-  - Transition Probabilities
+- Expected Shortfall (ES) and coherent risk measures
+- Markov Chain Model
+- Random Process Steps
+- Stationary Distribution
+- System of Equations
+- Transition Probabilities
 ---
+
 
 # A Primer on Probability Theory and Stochastic  Modelling  
 

@@ -1,21 +1,42 @@
 ---
 tags:
-  - cds_pricing
-  - corporate_bonds
-  - credit_default_swaps
-  - credit_risk
-  - financial_markets
+- cds_pricing
+- corporate_bonds
+- credit
+- credit-derivatives
+- credit_default_swaps
+- credit_risk
+- financial_markets
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- interest-rate-derivatives
+- markets
+- martingale-theory
+- option-greeks
+- options
+- options-pricing
+- risk-management
+- stochastic
 aliases:
-  - CDS Basics
-  - CDS Primer
-  - Credit Derivatives
+- CDS Basics
+- CDS Primer
+- Credit Derivatives
 key_concepts:
-  - Buying protection shorting FRN
-  - CDS as leveraged bond
-  - CDS counterparty risk
-  - CDS structure explained
-  - Selling protection long FRN
+- Buying protection shorting FRN
+- CDS as leveraged bond
+- CDS counterparty risk
+- CDS structure explained
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Risk-neutral valuation and martingale measures
+- Selling protection long FRN
 ---
+
 
 # A PRIMER ON CREDIT DEFAULT SWAPS (CDS)  
 

@@ -1,25 +1,35 @@
 ---
 title: Lecture Notes 9A-Credit Default Swaps
 tags:
-  - bis_report
-  - cds_indexes
-  - credit_default_swaps
-  - financial_instruments
-  - his_markit
-  - multi_name_cds
-  - reference_entity
-  - single_name_cds
+- bis_report
+- cds_indexes
+- credit
+- credit-derivatives
+- credit_default_swaps
+- financial_instruments
+- his_markit
+- interest-rate-derivatives
+- multi_name_cds
+- options
+- options-pricing
+- reference_entity
+- single_name_cds
 aliases:
-  - CDS
-  - Credit Default Swap
-  - Lecture 9A
+- CDS
+- Credit Default Swap
+- Lecture 9A
 key_concepts:
-  - CDS Indexes
-  - Credit Default Swaps
-  - Multi-name CDS
-  - Reference Entity
-  - Single-name CDS
+- CDS Indexes
+- Credit Default Swaps
+- Credit default swaps (CDS) pricing
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate swaps and swap pricing
+- Multi-name CDS
+- Portfolio optimization and mean-variance theory
+- Reference Entity
+- Single-name CDS
 ---
+
 
 # Lecture Notes 9A- Credit Default Swaps
 ### Financial Instruments

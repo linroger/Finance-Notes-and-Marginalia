@@ -1,8 +1,58 @@
-%% Begin Waypoint %%
-- **Chapter 12 - Hedge Fund Strategies**
-	- Chapter 12 - Hedge Fund Strategies
-	- Hedge Fund Replication and Strategy Indexes
-	- Hedge Fund Strategies
-	- Portable Alpha and Market-Neutral Plays
-
-%% End Waypoint %%
+---
+tags:
+- alternative-investments
+- apt
+- asset-pricing
+- banking
+- corporate-finance
+- credit-markets
+- derivatives
+- financial-institutions
+- financial-markets
+- financial-modeling
+- fixed-income
+- ma
+- portfolio-theory
+- quantitative-finance
+- risk-management
+key_concepts:
+- Agricultural futures and seasonality
+- Alternative investments and hedge fund strategies
+- Asset swaps and spread-lock strategies
+- Barrier options and knock-in/knock-out structures
+- Basis swaps and cross-currency basis adjustments
+- Basis swaps and floating rate correlations
+- Behavioral finance and market anomalies
+- Best execution and regulatory requirements
+- Bid-ask spreads and market making profitability
+- Black-Litterman model and portfolio optimization
+- CDO structuring and tranche allocation methodologies
+- CDO-squared structures and correlation trading
+- Calendar spreads and roll strategies
+- Central clearing and CCP risk management
+- Commodity futures and convenience yields
+- Commodity swaps and energy derivatives
+- Crack spreads in energy markets
+- Cryptocurrency valuation and blockchain technology
+- Currency swaps and cross-currency basis
+- Dark pools and alternative trading venues
+- DeFi protocols and decentralized finance
+- Delta hedging strategies in options markets
+- Deposit insurance and systemic risk
+- Duration and convexity for bond price sensitivity
+- ESG investing and sustainability metrics
+- Enterprise value and equity value relationships
+- Equity swaps and total return swaps
+- Exotic derivatives and path-dependent options
+- FX futures and currency hedging
+- Fama-French three-factor and five-factor models
+- Fintech disruption and digital banking
+- Gamma trading and convexity adjustments
+- Green bonds and climate risk assessment
+- HJM and forward rate model frameworks
+- Historical simulation and parametric VaR approaches
+- Hull-White and Black-Karasinski short rate models
+- IPO pricing and underpricing analysis
+- Implied volatility and volatility surface modeling
+- Inflation-linked swaps and CPI adjustments
+- Inter

@@ -1,31 +1,41 @@
 ---
-title: Operating Margin
-cssclasses:
-  - academia
-tags:
-  - ebit
-  - financial_metrics
-  - operating_margin
-  - profitability
-  - return_on_sales
-  - financial_ratios
-  - corporate_finance
 aliases:
-  - Operating Profit Margin
-  - Profit Margin
-  - ROS
-  - Return on Sales
+- Operating Profit Margin
+- Profit Margin
+- ROS
+- Return on Sales
+cssclasses:
+- academia
 key_concepts:
-  - Compare within industry
-  - EBIT divided by sales
-  - Efficiency in generating profit
-  - Profit from core operations
-  - Variable costs of production
-  - Measure of operational efficiency
-  - Indicator of management effectiveness
-  - Higher is better within same industry
-  - Also known as Return on Sales (ROS)
-  - Core component of profitability analysis
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Operating Margin and financial analysis
+- Operating Margin in modern finance
+- Applications of Operating Margin
+- 'Case study: Operating Margin'
+tags:
+- options
+- futures
+- var
+- basis
+- call
+- risk
+- ratio
+- pricing
+- accounting
+- cash flow
+- risk-management
+title: Operating Margin
 ---
 
 # Operating Margin

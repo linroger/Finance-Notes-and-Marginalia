@@ -1,31 +1,68 @@
 ---
 title: Mechanics of Options
 tags:
-  - options
-  - derivatives
-  - financial-engineering
-  - call-options
-  - put-options
-  - option-valuation
-  - option-mechanics
-  - american-options
-  - european-options
+- american-options
+- arbitrage
+- black-scholes-model
+- call-options
+- credit
+- credit-derivatives
+- derivatives
+- equity-derivatives
+- european-options
+- financial-engineering
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- girsanov-theorem
+- hedging-strategies
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- mathematics
+- option-greeks
+- option-mechanics
+- option-valuation
+- options
+- options-pricing
+- put-options
+- quantitative-pricing
+- risk-management
+- stochastic
 aliases:
-  - Chapter 9 Options Mechanics
-  - Options Introduction
-  - Options Trading Mechanics
+- Chapter 9 Options Mechanics
+- Options Introduction
+- Options Trading Mechanics
 key_concepts:
-  - Option definition
-  - Call and put options
-  - Option notation
-  - European vs American options
-  - Option payoff diagrams
-  - Strike price
-  - Expiration date
-  - Option pricing basics
-  - Option strategies
+- Arbitrage pricing theory (APT)
+- Barrier options and knock-in/knock-out features
+- Black-Scholes option pricing model
+- Brownian motion and Wiener processes
+- Call and put options
+- Credit default swaps (CDS) pricing
+- Delta hedging and Greeks calculation
+- European vs American options
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Expiration date
+- Girsanov's theorem and measure changes
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Ito's Lemma and stochastic calculus
+- Numerical methods for PDEs
+- Option Greeks and sensitivity analysis
+- Option definition
+- Option notation
+- Option payoff diagrams
+- Option pricing basics
+- Option strategies
+- Portfolio optimization and mean-variance theory
+- Strike price
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 cssclasses: academia
 ---
+
 
 # MECHANICS OF OPTIONS  
 

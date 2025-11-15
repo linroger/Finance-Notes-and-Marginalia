@@ -1,20 +1,44 @@
 ---
-tags:
-  - arbitrage
-  - cash_and_carry
-  - forward_contracts
-  - futures_prices
-  - risk_free_rate
 aliases:
-  - Forward Pricing
-  - Futures Pricing
-  - No-Arbitrage Pricing
+- Forward Pricing
+- Futures Pricing
+- No-Arbitrage Pricing
 key_concepts:
-  - Cash-and-carry arbitrage
-  - Fair forward price
-  - Forward contract replication
-  - Implied repo rate
-  - Income stream impact
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Chapter 3 - Forward and Futures Prices and financial analysis
+- Chapter 3 - Forward and Futures Prices in modern finance
+- Applications of Chapter 3 - Forward and Futures Prices
+- 'Case study: Chapter 3 - Forward and Futures Prices'
+tags:
+- options
+- yield-curve
+- backwardation
+- futures
+- put
+- basis
+- interest-rate
+- maturity
+- contango
+- forward
+- bond
+- coupon
+- bonds
+- yield
+- hedging
 ---
 # Forward and Futures Prices  
 

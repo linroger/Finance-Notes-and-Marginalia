@@ -1,29 +1,67 @@
 ---
 title: Credit Markets - CDS Engineering
 tags:
-  - credit-derivatives
-  - cds
-  - credit-default-swaps
-  - credit-risk
-  - financial-engineering
-  - structured-credit
-  - default-risk
-  - credit-spreads
+- arbitrage
+- cds
+- credit
+- credit-default-swaps
+- credit-derivatives
+- credit-risk
+- credit-spreads
+- default-risk
+- equity-derivatives
+- financial-engineering
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- mathematics
+- model-calibration
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- stochastic
+- structured-credit
 aliases:
-  - Chapter 18 CDS Engineering
-  - Credit Default Swaps
-  - Credit Markets Engineering
+- Chapter 18 CDS Engineering
+- Credit Default Swaps
+- Credit Markets Engineering
 key_concepts:
-  - Credit default swaps
-  - Reference entities
-  - Credit spread
-  - Default events
-  - Recovery rates
-  - CDS valuation
-  - Synthetic CDOs
-  - Credit risk transfer
+- Arbitrage pricing theory (APT)
+- Barrier options and knock-in/knock-out features
+- CDS valuation
+- Complete markets and replication
+- Credit default swaps
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Credit risk transfer
+- Credit spread
+- Default events
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Model calibration and parameter estimation
+- Numerical methods for PDEs
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Recovery rates
+- Reference entities
+- Risk-neutral valuation and martingale measures
+- Synthetic CDOs
+- Value at Risk (VaR) and risk metrics
 cssclasses: academia
 ---
+
 
 # CREDIT MARKETS: CDS ENGINEERING  
 

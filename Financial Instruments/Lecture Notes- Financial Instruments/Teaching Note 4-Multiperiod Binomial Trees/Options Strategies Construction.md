@@ -2,20 +2,31 @@
 linter-yaml-title-alias: OPTIONS STRATEGIES CONSTRUCTION
 title: OPTIONS STRATEGIES CONSTRUCTION
 tags:
-  - butterfly_spread
-  - option_expiration
-  - options_strategies
-  - protective_put
-  - stock_price
+- binomial-model
+- butterfly_spread
+- equity-derivatives
+- interest-rate-derivatives
+- option_expiration
+- options
+- options-pricing
+- options_strategies
+- protective_put
+- quantitative-pricing
+- risk-management
+- stock_price
 aliases:
-  - Protective Put Strategy
+- Protective Put Strategy
 key_concepts:
-  - Limited risk
-  - Minimal stock movement
-  - Protective put portfolio
-  - Stock near expiration
-  - Stock price movement
+- Binomial tree models for option pricing
+- Expected Shortfall (ES) and coherent risk measures
+- Limited risk
+- Minimal stock movement
+- Portfolio optimization and mean-variance theory
+- Protective put portfolio
+- Stock near expiration
+- Stock price movement
 ---
+
 
 - **Binomial Trees]]**
 	- Financial Instruments/Lecture Notes- Financial Instruments/Teaching Note 4-Multiperiod Binomial Trees/Binomial Option Pricing]]

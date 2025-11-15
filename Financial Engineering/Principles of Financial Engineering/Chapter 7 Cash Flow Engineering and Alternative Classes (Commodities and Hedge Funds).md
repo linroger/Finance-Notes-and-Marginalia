@@ -1,28 +1,57 @@
 ---
 title: Cash Flow Engineering and Alternative Classes (Commodities and Hedge Funds)
 tags:
-  - cash-flow-engineering
-  - commodities
-  - hedge-funds
-  - alternative-investments
-  - futures-contracts
-  - commodity-futures
-  - backwardation
-  - contango
+- alternative-investments
+- arbitrage
+- backwardation
+- cash-flow-engineering
+- commodities
+- commodity-futures
+- contango
+- credit
+- credit-derivatives
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- futures-contracts
+- fx-derivatives
+- hedge-funds
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- option-greeks
+- options
+- options-pricing
+- risk-management
 aliases:
-  - Chapter 7 Alternative Classes
-  - Commodities and Hedge Funds Engineering
-  - Alternative Asset Classes
+- Chapter 7 Alternative Classes
+- Commodities and Hedge Funds Engineering
+- Alternative Asset Classes
 key_concepts:
-  - Futures contract parameters
-  - Term structure of commodity futures
-  - Backwardation and contango
-  - Commodity futures engineering
-  - Hedge fund strategies
-  - Alternative investment vehicles
-  - Cash flow engineering applications
+- Alternative investment vehicles
+- Arbitrage pricing theory (APT)
+- Asian options and average price derivatives
+- Backwardation and contango
+- Basel III regulatory framework
+- Cash flow engineering applications
+- Commodity futures engineering
+- Complete markets and replication
+- Credit default swaps (CDS) pricing
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Futures contract parameters
+- Heath-Jarrow-Morton (HJM) framework
+- Hedge fund strategies
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Portfolio optimization and mean-variance theory
+- Term structure of commodity futures
+- Value at Risk (VaR) and risk metrics
 cssclasses: academia
 ---
+
 
 # CASH FLOW ENGINEERING AND ALTERNATIVE CLASSES (COMMODITIES AND HEDGE FUNDS)  
 

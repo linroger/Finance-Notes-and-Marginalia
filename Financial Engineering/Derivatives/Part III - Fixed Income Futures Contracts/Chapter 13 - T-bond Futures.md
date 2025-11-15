@@ -1,21 +1,44 @@
 ---
-tags:
-  - arbitrage
-  - bond_portfolio
-  - futures_contract
-  - hedging
-  - market_timing
-  - t_bond_futures
 aliases:
-  - T-bond futures
-  - UK Gilt futures
-  - cheapest-to-deliver
+- T-bond futures
+- UK Gilt futures
+- cheapest-to-deliver
 key_concepts:
-  - Cash-and-carry arbitrage
-  - Eliminate price risk
-  - Optimal futures contract
-  - Speculative strategies
-  - T-bond futures details
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Chapter 13 - T-bond Futures and financial analysis
+- Chapter 13 - T-bond Futures in modern finance
+- Applications of Chapter 13 - T-bond Futures
+- 'Case study: Chapter 13 - T-bond Futures'
+tags:
+- maturity
+- forward
+- bonds
+- futures
+- convexity
+- yield
+- portfolio
+- fixed-income
+- bond
+- hedging
+- basis
+- no-arbitrage
+- treasury
+- portfolio-optimization
+- corporate-bond
 ---
 # T-bond Futures  
 

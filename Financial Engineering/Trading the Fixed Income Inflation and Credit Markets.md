@@ -1,22 +1,67 @@
 ---
 tags:
-  - bond_fundamentals
-  - credit_markets
-  - fixed_income
-  - inflation
-  - market_risk
+- arbitrage
+- binomial-model
+- black-scholes-model
+- bond_fundamentals
+- credit
+- credit-derivatives
+- credit_markets
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fixed_income
+- fx-derivatives
+- hedging-strategies
+- inflation
+- interest-rate-derivatives
+- ito-calculus
+- market_risk
+- markets
+- monte-carlo-simulation
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- stochastic
 aliases:
-  - Credit Markets
-  - Fixed Income Markets
-  - Trading Fixed Income
+- Credit Markets
+- Fixed Income Markets
+- Trading Fixed Income
 key_concepts:
-  - Bond fundamentals
-  - Market risk management
-  - Pricing relationships
-  - Relative value
-  - Spot-forward relationship
-  - Yield curve formation
+- Arbitrage pricing theory (APT)
+- Barrier options and knock-in/knock-out features
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- Bond fundamentals
+- Capital Asset Pricing Model (CAPM)
+- Complete markets and replication
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Market risk management
+- Monte Carlo simulation for derivatives
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Pricing relationships
+- Put-call parity and option relationships
+- Relative value
+- Risk-neutral valuation and martingale measures
+- Spot-forward relationship
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
+- Yield curve formation
 ---
+
 
 Trading the Fixed Income, Inflation/War%20Economies%20and%20Hyperinflation.md) and Credit Markets  
 

@@ -1,23 +1,42 @@
 ---
+aliases:
+- HBR
+- HBR Article
+- Harvard Business Review
 cssclasses: academia
-title: HBR Notes
+key_concepts:
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- HBR Notes and financial analysis
+- HBR Notes in modern finance
+- Applications of HBR Notes
+- 'Case study: HBR Notes'
 linter-yaml-title-alias: HBR NOTES
 tags:
-  - business_publication
-  - case_study
-  - financial_analysis
-  - hbr_notes
-  - management
-aliases:
-  - HBR
-  - HBR Article
-  - Harvard Business Review
-key_concepts:
-  - Business case studies
-  - Financial analysis tools
-  - Harvard Business Review
-  - Management insights
-  - Strategic business decisions
+- credit
+- swap
+- currency-swap
+- distressed
+- swaps
+- options
+- regulation
+- bankruptcy
+- dodd-frank
+- liquidity
+title: HBR Notes
 ---
 
 # HBR Notes

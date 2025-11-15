@@ -1,23 +1,45 @@
 ---
-tags:
-  - eurodollar_futures
-  - fixed_income_derivatives
-  - interest_rate_caps
-  - interest_rate_options
-  - libor_bank_loan
-  - t_bond_option
 aliases:
-  - Eurodollar options
-  - Interest rate caps and floors
-  - Interest rate collar
-  - T-bond options
+- Eurodollar options
+- Interest rate caps and floors
+- Interest rate collar
+- T-bond options
 key_concepts:
-  - Interest rate caps
-  - Interest rate collar
-  - Interest rate floors
-  - LIBOR bank loan
-  - Options on T-bond futures
-  - Options on T-bonds
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Chapter 38 - T-Bond Option, Caps, Floors and Collar and financial analysis
+- Chapter 38 - T-Bond Option, Caps, Floors and Collar in modern finance
+- Applications of Chapter 38 - T-Bond Option, Caps, Floors and Collar
+- 'Case study: Chapter 38 - T-Bond Option, Caps, Floors and Collar'
+tags:
+- libor
+- maturity
+- forward
+- options
+- bonds
+- put
+- futures
+- strike
+- bond
+- fixed-income
+- hedging
+- basis
+- call
+- interest-rate
+- interest-rates
 ---
 # FIXED INCOME DERIVATIVES  
 

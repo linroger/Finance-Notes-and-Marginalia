@@ -1,24 +1,46 @@
 ---
-title: Short Interest Rate Model Calibration in QuantLib Python
-source: 
-  http://gouthamanbalaraman.com/blog/short-interest-rate-model-calibration-quantlib.html
+aliases:
+- QuantLib Calibration
+- Short Rate Calibration
 description: Provides examples of short interest rate model calibration to swaption
   volatilities in QuantLib Python
-tags:
-  - hull_white_model
-  - interest_rate_models
-  - model_calibration
-  - quantlib_python
-  - swaption_volatilities
-aliases:
-  - QuantLib Calibration
-  - Short Rate Calibration
 key_concepts:
-  - Black Karasinski model
-  - Calibrating model parameters
-  - Hull-White model details
-  - QuantLib Python examples
-  - Swaption volatility calibration
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Model calibration procedures
+- Parameter estimation methods
+- Maximum likelihood estimation
+- Mathematical optimization in finance
+- Portfolio optimization techniques
+- Linear and quadratic programming
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Short Interest Rate Model Calibration in QuantLib Python and financial analysis
+- Short Interest Rate Model Calibration in QuantLib Python in modern finance
+- Applications of Short Interest Rate Model Calibration in QuantLib Python
+- 'Case study: Short Interest Rate Model Calibration in QuantLib Python'
+source: http://gouthamanbalaraman.com/blog/short-interest-rate-model-calibration-quantlib.html
+tags:
+- swap
+- swaption
+- swaps
+- calibration
+- options
+- put
+- theta
+- optimization
+- call
+- constraint
+- portfolio-optimization
+- pricing
+- volatility
+- irs
+title: Short Interest Rate Model Calibration in QuantLib Python
 ---
 
 # Short Interest Rate Model Calibration in QuantLib Python

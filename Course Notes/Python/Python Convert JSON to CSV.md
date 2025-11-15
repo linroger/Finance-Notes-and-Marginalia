@@ -1,23 +1,43 @@
 ---
-title: Python Convert JSON to CSV
-source: https://blog.enterprisedna.co/python-convert-json-to-csv/
-description:
-tags:
-  - csv_conversion
-  - data_analysis
-  - json_to_csv
-  - pandas
-  - python
 aliases:
-  - CSV conversion
-  - JSON conversion
-  - JSON to CSV
+- CSV conversion
+- JSON conversion
+- JSON to CSV
+description: null
 key_concepts:
-  - CSV file format
-  - Convert JSON to CSV
-  - JSON file format
-  - Pandas library usage
-  - Python data conversion
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Python Convert JSON to CSV and financial analysis
+- Python Convert JSON to CSV in modern finance
+- Applications of Python Convert JSON to CSV
+- 'Case study: Python Convert JSON to CSV'
+source: https://blog.enterprisedna.co/python-convert-json-to-csv/
+tags:
+- options
+- swaps
+- put
+- default
+- cds
+- var
+- liquidity
+- spread
+- call
+- irs
+- risk-management
+title: Python Convert JSON to CSV
 ---
 
 # Python Convert JSON to CSV

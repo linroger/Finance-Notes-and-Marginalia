@@ -1,34 +1,48 @@
 ---
+aliases:
+- Financial Intermediation
+- Banking and Finance
+- Financial Systems
+- Credit Markets Analysis
 cssclasses: academia
-title: Contemporary Financial Intermediation
+key_concepts:
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Contemporary Financial Intermediation Notes and financial analysis
+- Contemporary Financial Intermediation Notes in modern finance
+- Applications of Contemporary Financial Intermediation Notes
+- 'Case study: Contemporary Financial Intermediation Notes'
 linter-yaml-title-alias: Contemporary Financial Intermediation
 tags:
-  - financial_intermediation
-  - banking_systems
-  - risk_management
-  - credit_risk
-  - capital_markets
-  - debt_financing
-  - equity_financing
-  - regulatory_framework
-  - financial_institutions
-  - fractional_reserve_banking
-aliases:
-  - Financial Intermediation
-  - Banking and Finance
-  - Financial Systems
-  - Credit Markets Analysis
-key_concepts:
-  - Financial market channels from savers to borrowers
-  - Risk transformation and management
-  - Credit screening and monitoring
-  - Fractional reserve banking stability
-  - Bank capital requirements
-  - Collateral and loan covenants
-  - Interest rate risk management
-  - Liquidity provision
-  - Regulatory frameworks
-  - Financial crisis prevention
+- maturity
+- credit-risk
+- collateral
+- default
+- bonds
+- counterparty
+- options
+- put
+- yield
+- cds
+- bond
+- trading
+- liquidity
+- spread
+- treasury
+title: Contemporary Financial Intermediation
 ---
 
 # Contemporary Financial Intermediation

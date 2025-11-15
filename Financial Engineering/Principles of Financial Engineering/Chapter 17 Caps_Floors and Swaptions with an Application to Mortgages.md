@@ -1,29 +1,57 @@
 ---
 title: Caps/Floors and Swaptions with an Application to Mortgages
 tags:
-  - caps
-  - floors
-  - swaptions
-  - interest-rate-derivatives
-  - mortgages
-  - prepayment-risk
-  - financial-engineering
-  - hedging-strategies
+- arbitrage
+- caps
+- credit
+- credit-derivatives
+- equity-derivatives
+- financial-engineering
+- fixed-income
+- fixed-income-derivatives
+- floors
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- martingale-theory
+- monte-carlo-simulation
+- mortgages
+- option-greeks
+- options
+- options-pricing
+- prepayment-risk
+- quantitative-pricing
+- risk-management
+- stochastic
+- swaptions
 aliases:
-  - Chapter 17 Caps Floors Swaptions
-  - Interest Rate Options
-  - Mortgage Applications
+- Chapter 17 Caps Floors Swaptions
+- Interest Rate Options
+- Mortgage Applications
 key_concepts:
-  - Interest rate caps
-  - Interest rate floors
-  - Swaptions
-  - Mortgage market mechanics
-  - Prepayment risk
-  - Hedging mortgage portfolios
-  - Convexity risk
-  - Option-adjusted spreads
+- Arbitrage pricing theory (APT)
+- Convexity risk
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Hedging mortgage portfolios
+- Interest rate caps
+- Interest rate floors
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Monte Carlo simulation for derivatives
+- Mortgage market mechanics
+- Option-adjusted spreads
+- Portfolio optimization and mean-variance theory
+- Prepayment risk
+- Risk-neutral valuation and martingale measures
+- Swaptions
+- Value at Risk (VaR) and risk metrics
 cssclasses: academia
 ---
+
 
 # CAPS/FLOORS AND SWAPTIONS WITH AN APPLICATION TO MORTGAGES  
 

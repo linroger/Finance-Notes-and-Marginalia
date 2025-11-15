@@ -1,29 +1,57 @@
-%% Begin Waypoint %%
-- **Chapter 3 - Futures Markets**
-	- Cash-And-Carry Arbitrage
-	- Chapter 3 - Futures Markets
-	- Fundamentals of Futures and Forwards
-	- Futures Mechanics
-	- Futures Not Subject to Cash-And-Carry
-	- Yield Curve Construction with Interest Rate Fut
-
-%% End Waypoint %%
-
-3 Futures Markets 57  
-3.1 Fundamentals of Futures and Forwards 57   
-3.2 Futures Mechanics 59   
-3.2.1 Physical Commodity Futures 59   
-3.2.2 Interest Rate Futures 62   
-3.2.3 Stock Index Futures 69   
-3.2.4 Currency Futures and Forwards 70   
-3.3 Cash-and-Carry Arbitrage 73   
-3.3.1 Commodities 74   
-3.3.2 Stock Indexes 76   
-3.3.3 Currencies 79   
-3.4 Futures Not Subject to Cash-and-Carry 81   
-3.5 Yield Curve Construction with Interest Rate Futures 84   
-3.5.1 Certainty Equivalence of Eurodollar Futures. 85   
-3.5.2 Forward Rate Agreements 86   
-3.5.3 Building Spot Zeros 88   
-3.5.4 Recovering the Forwards. 91   
-3.5.5 Including Repo Rates in the Calculation of the Forwards 93
+---
+tags:
+- apt
+- artificial-intelligence
+- commodity-futures
+- currency-futures
+- forward-contracts
+- futures-contracts
+- index-futures
+- interest-rate-futures
+- ma
+- repo
+- repurchase-agreements
+- rwa
+- yield-curve
+key_concepts:
+- Agricultural futures and seasonality
+- Alternative investments and hedge fund strategies
+- Arbitrage Pricing Theory (APT) and factor models
+- Asset swaps and spread-lock strategies
+- Barrier options and knock-in/knock-out structures
+- Basis swaps and cross-currency basis adjustments
+- Basis swaps and floating rate correlations
+- Behavioral finance and market anomalies
+- Best execution and regulatory requirements
+- Bid-ask spreads and market making profitability
+- Black-Litterman model and portfolio optimization
+- CDO structuring and tranche allocation methodologies
+- CDO-squared structures and correlation trading
+- Calendar spreads and roll strategies
+- Central clearing and CCP risk management
+- Commodity futures and convenience yields
+- Commodity swaps and energy derivatives
+- Crack spreads in energy markets
+- Cryptocurrency valuation and blockchain technology
+- Currency swaps and cross-currency basis
+- Dark pools and alternative trading venues
+- DeFi protocols and decentralized finance
+- Deposit insurance and systemic risk
+- Discounted cash flow (DCF) valuation methodologies
+- Duration and convexity for bond price sensitivity
+- ESG investing and sustainability metrics
+- Enterprise value and equity value relationships
+- Equity swaps and total return swaps
+- Exotic derivatives and path-dependent options
+- FX futures and currency hedging
+- Fama-French three-factor and five-factor models
+- Fintech disruption and digital banking
+- Forward contract pricing and cost of carry
+- Futures vs forwards and delivery options
+- GARCH models for volatility forecasting
+- Gamma trading and convexity adjustments
+- Green bonds and climate risk assessment
+- HJM and forward rate model frameworks
+- Historical simulation and parametric VaR approaches
+- Hull-White and Black-Karasinski short rate models
+- IPO

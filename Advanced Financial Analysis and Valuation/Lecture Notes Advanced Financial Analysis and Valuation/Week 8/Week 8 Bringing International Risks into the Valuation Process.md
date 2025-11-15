@@ -1,11 +1,49 @@
 ---
-title: "Week 8 - Bringing International Risks into the Valuation Process"
-linter-yaml-title-alias: "Week 8 - Bringing International Risks into the Valuation Process"
-aliases: [International Valuation Methods, Country Risk Analysis, Global Financial Valuation]
-date created: Tuesday, November 26th 2024, 8:45:23 pm
+aliases:
+- International Valuation Methods
+- Country Risk Analysis
+- Global Financial Valuation
 cssclasses: academia
-tags: [corporate_governance, cost_of_capital, emerging_markets, international_risks, investor_protection, ownership_structure, political_risk, transparency, valuation, currency_risk, sovereign_risk, institutional_risks, wacc, capm, global_valuation]
-key_concepts: [international dcf valuation, emerging market opportunities, global valuation process, international risk measurement, ownership structure impacts, political risk assessment, transparency and information risk, cost of capital pitfalls, country risk premium approach, sovereign spread, institutional risk factors, correlation of risks, scenario analysis method, implied cost of capital]
+date created: Tuesday, November 26th 2024, 8:45:23 pm
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Capital Asset Pricing Model (CAPM)
+- Arbitrage Pricing Theory (APT)
+- Multi-factor risk models
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Week 8 Bringing International Risks into the Valuation Process and financial analysis
+- Week 8 Bringing International Risks into the Valuation Process in modern finance
+- Applications of Week 8 Bringing International Risks into the Valuation Process
+- 'Case study: Week 8 Bringing International Risks into the Valuation Process'
+linter-yaml-title-alias: Week 8 - Bringing International Risks into the Valuation
+  Process
+tags:
+- forward
+- credit-risk
+- options
+- alpha
+- put
+- default
+- futures
+- cds
+- roll
+- basis
+- factor-models
+- call
+- capm
+- beta
+- market-efficiency
+title: Week 8 - Bringing International Risks into the Valuation Process
 ---
 
 # Week 8 - Bringing International Risks into the Valuation Process

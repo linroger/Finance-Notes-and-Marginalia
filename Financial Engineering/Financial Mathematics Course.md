@@ -1,34 +1,86 @@
 ---
 tags:
-  - arbitrage
-  - asset_pricing
-  - derivatives
-  - financial_mathematics
-  - interest_rates
-  - mathematical_modeling
-  - options
-  - quantitative_finance
-  - risk_management
-  - stochastic_processes
+- arbitrage
+- asset_pricing
+- binomial-model
+- black-scholes-model
+- credit
+- credit-derivatives
+- derivatives
+- equity-derivatives
+- financial_mathematics
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- girsanov-theorem
+- hedging-strategies
+- interest-rate-derivatives
+- interest_rates
+- ito-calculus
+- markets
+- martingale-theory
+- mathematical_modeling
+- mathematics
+- numerical-simulation
+- optimization
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- quantitative_finance
+- risk-management
+- risk_management
+- stochastic
+- stochastic_processes
 aliases:
-  - Financial Mathematics
+- Financial Mathematics
 key_concepts:
-  - Arbitrage theory
-  - Asset pricing models
-  - Black-Scholes model
-  - Complete markets
-  - Continuous-time models
-  - Derivative securities
-  - Discrete-time models
-  - Financial mathematics
-  - Interest rate theory
-  - Martingale measures
-  - Option pricing
-  - Risk management
-  - Risk-neutral pricing
-  - Stochastic calculus
-  - Term structure models
+- Arbitrage pricing theory (APT)
+- Arbitrage theory
+- Asian options and average price derivatives
+- Asset pricing models
+- Barrier options and knock-in/knock-out features
+- Binomial tree models for option pricing
+- Black-Scholes model
+- Black-Scholes option pricing model
+- Brownian motion and Wiener processes
+- Capital Asset Pricing Model (CAPM)
+- Complete markets
+- Complete markets and replication
+- Continuous-time models
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Derivative securities
+- Discrete-time models
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Filtrations and adapted processes
+- Financial mathematics
+- Girsanov's theorem and measure changes
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Interest rate theory
+- Ito's Lemma and stochastic calculus
+- Levy processes and jump diffusion
+- Martingale measures
+- Model calibration and parameter estimation
+- Monte Carlo simulation for derivatives
+- Numerical methods for PDEs
+- Option Greeks and sensitivity analysis
+- Option pricing
+- Portfolio optimization and mean-variance theory
+- Put-call parity and option relationships
+- Risk management
+- Risk-neutral pricing
+- Risk-neutral valuation and martingale measures
+- Stochastic calculus
+- Stopping times and optional stopping
+- Term structure models
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 # Financial Mathematics I  
 
 Lecture Notes Universitat Ulm  

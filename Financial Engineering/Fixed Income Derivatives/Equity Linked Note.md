@@ -1,21 +1,41 @@
 ---
 tags:
-  - call_option
-  - equity_exposure
-  - equity_linked_notes
-  - principal_guaranteed
-  - zero_coupon_bond
+- call_option
+- credit
+- credit-derivatives
+- equity-derivatives
+- equity_exposure
+- equity_linked_notes
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- options
+- options-pricing
+- principal_guaranteed
+- risk-management
+- zero_coupon_bond
 aliases:
-  - ELN
-  - Equity-linked note
-  - Principal Guaranteed Structures
+- ELN
+- Equity-linked note
+- Principal Guaranteed Structures
 key_concepts:
-  - Bond with call option
-  - Downside protection
-  - Equity market participation
-  - Investment instrument
-  - Redemption amount calculation
+- Arbitrage pricing theory (APT)
+- Asian options and average price derivatives
+- Bond with call option
+- Downside protection
+- Equity market participation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Investment instrument
+- Portfolio optimization and mean-variance theory
+- Redemption amount calculation
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Equity Linked Note
 # Equity Linked Note :  An Introduction to Principal  Guaranteed Structures

@@ -1,67 +1,62 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: International Finance
 tags:
-  - currency_risk
-  - exchange_rates
-  - international_finance
-  - international_investments
-  - balance_of_payments
-  - foreign_exchange_markets
-  - international_capital_flows
-  - exchange_rate_policy
-  - international_monetary_system
-  - global_financial_crisis
-  - currency_hedging
-  - international_trade
+- apt
+- balance_of_payments
+- bond-pricing
+- currency_hedging
+- currency_risk
+- dva
+- exchange_rate_policy
+- exchange_rates
+- foreign_exchange_markets
+- global_financial_crisis
+- international_capital_flows
+- international_finance
+- international_investments
+- international_monetary_system
+- international_trade
+- ma
 aliases:
-  - Intl Finance
-  - International Financial Markets
-  - Global Finance
-  - International Money and Finance
+- Intl Finance
+- International Financial Markets
+- Global Finance
+- International Money and Finance
 key_concepts:
-  - Currency exchange risk
-  - Exchange rate determination
-  - Global financial markets
-  - International capital flows
-  - International trade
-  - Balance of payments accounting
-  - Foreign exchange market structure
-  - Interest rate parity conditions
-  - Eurocurrency markets
-  - International reserve management
-  - Financial globalization
-  - Exchange rate regimes
-  - International financial crises
-  - Currency speculation
-  - Global imbalances
-linter-yaml-title-alias: International Finance
----
-
-# International Finance
-
-%% Begin Waypoint %%
-- **[[International Finance]]**
-	- **[[Bridgewater]]**
-	- [[Characteristics of the Eurodollar Market]]
-	- **[[China Foreign Exchange Reserves]]**
-	- [[Chinese Financial System]]
-	- [[Covered and Uncovered Interest Parity]]
-	- **[[Economic Stabilization Notes]]**
-	- [[Foreign Exchange Markets and Exchange Rate Determination]]
-	- **[[Globalization]]**
-		- [[Chapter 1-Introduction to Globalization]]
-		- [[Chapter 2-The Principle Of Comparative Advantage]]
-		- [[Chapter 3-Comparative Advantage, Competitiveness, and the Terms of Trade]]
-		- [[Chapter 6-Intermediate Input Trade and Offshoring]]
-		- [[Chapter 14- Capital Flows and the Current Account]]
-		- [[Chapter 20-Macroeconomic Policies in the Global Economy]]
-		- [[Globalization Textbook Chapters]]
-	- **[[International Economics Trade and Money]]**
-	- [[Lecture Notes on International Finance]]
-	- [[The Balance of Payments]]
-	- [[The Eurocurrency and Eurobond Markets Annotations]]
-	- [[The Foreign Exchange Market Annotations]]
-
-%% End Waypoint %%
+- Agricultural futures and seasonality
+- Alternative investments and hedge fund strategies
+- Asset swaps and spread-lock strategies
+- Balance of payments accounting
+- Bank capital adequacy and Basel III compliance
+- Barrier options and knock-in/knock-out structures
+- Basel III capital requirements and risk metrics
+- Basis swaps and cross-currency basis adjustments
+- Basis swaps and floating rate correlations
+- Behavioral finance and market anomalies
+- Best execution and regulatory requirements
+- Bid-ask spreads and market making profitability
+- Black-Litterman model and portfolio optimization
+- Bond portfolio immunization strategies
+- CDO structuring and tranche allocation methodologies
+- CDO-squared structures and correlation trading
+- Calendar spreads and roll strategies
+- Capital Asset Pricing Model (CAPM) and beta estimation
+- Capital expenditure planning and depreciation
+- Central clearing and CCP risk management
+- Commodity futures and convenience yields
+- Commodity swaps and energy derivatives
+- Corporate bond pricing and credit spread decomposition
+- Crack spreads in energy markets
+- Cryptocurrency valuation and blockchain technology
+- Currency exchange risk
+- Currency speculation
+- Currency swaps and cross-currency basis
+- Dark pools and alternative trading venues
+- DeFi protocols and decentralized finance
+- Deposit insurance and systemic risk
+- Discounted cash flow (DCF) valuation methodologies
+- Duration and convexity for bond price sensitivity
+- ESG investing and sustainability metrics
+- Enterprise value and

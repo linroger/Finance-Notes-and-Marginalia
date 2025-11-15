@@ -1,24 +1,46 @@
 ---
 title: Hedging Strategies with Forwards
 tags:
-  - continuous_dividends
-  - dividend_yield
-  - forward_contracts
-  - prepaid_forward
-  - stock_price
+- arbitrage
+- continuous_dividends
+- credit
+- credit-derivatives
+- dividend_yield
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- forward_contracts
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- option-greeks
+- options
+- options-pricing
+- prepaid_forward
+- risk-management
+- stock_price
 aliases:
-  - continuous dividend
-  - forward price
-  - prepaid forward
-  - stock index
+- continuous dividend
+- forward price
+- prepaid forward
+- stock index
 key_concepts:
-  - continuous dividend yield
-  - dividend reinvestment
-  - forward contract
-  - future spot price
-  - prepaid forward price
-  - time to maturity
+- Arbitrage pricing theory (APT)
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Option Greeks and sensitivity analysis
+- continuous dividend yield
+- dividend reinvestment
+- forward contract
+- future spot price
+- prepaid forward price
+- time to maturity
 ---
+
 
 - Introduction to Derivative Markets]]
 - Hedging%20[Key%20Rates%20O1s%20Durations%20and%20Hedging) Strategies with [Forwards]]

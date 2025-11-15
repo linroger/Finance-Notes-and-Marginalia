@@ -1,28 +1,35 @@
 ---
-title: Credit Markets
+aliases:
+- Bond Market
+- Credit
+- Credit Market
+- Debt Market
+- Fixed Income Markets
+key_concepts:
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Black-Scholes-Merton option pricing model
+- Greeks calculation and interpretation
+- Volatility surface and smile
+- Credit Markets and financial analysis
+- Credit Markets in modern finance
+- Applications of Credit Markets
+- 'Case study: Credit Markets'
 linter-yaml-title-alias: Credit Markets
 tags:
-  - bond_market
-  - credit_markets
-  - credit_risk
-  - financial_markets
-  - market_instruments
-  - fixed_income
-aliases:
-  - Bond Market
-  - Credit
-  - Credit Market
-  - Debt Market
-  - Fixed Income Markets
-key_concepts:
-  - Bond market dynamics
-  - Credit market instruments
-  - Credit risk assessment
-  - Debt instruments
-  - Market participants
-  - Fixed income securities
-  - Credit default swaps
-  - Risk neutral valuation
+- credit
+- swap
+- swaps
+- default
+- cds
+- black-scholes
+- risk
+- valuation
+title: Credit Markets
 ---
 
 # Credit Markets

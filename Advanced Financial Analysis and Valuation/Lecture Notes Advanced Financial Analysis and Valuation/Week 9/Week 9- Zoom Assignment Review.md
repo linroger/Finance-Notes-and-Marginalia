@@ -1,38 +1,32 @@
 ---
-title: "Week 9- Zoom Assignment Review"
 aliases:
-  - "Zoom Assignment Review"
-  - "ARR"
-  - "CAC"
-  - "SaaS"
-  - "TAM"
-  - "Zoom"
-tags:
-  - aFAV
-  - week9
-  - arr
-  - cac
-  - nopat_margin
-  - roic
-  - saas_valuation
-  - sales_multiple
-  - tam
-  - zoom_valuation
-  - stock-compensation
-  - market-share-analysis
-key_concepts:
-  - ARR x Multiple = Value
-  - Long-term Zoom market share
-  - Sales multiple valuation
-  - TAM, revenue retention, CAC
-  - Valuing SaaS business
-  - Stock-based compensation dilution effects
-  - Enterprise vs SMB customer mix
-  - JPMorgan valuation approach
-  - Unified communications market sizing
-  - ROIC = NOPAT margin x Asset turnover
+- Zoom Assignment Review
+- ARR
+- CAC
+- SaaS
+- TAM
+- Zoom
 cssclasses: academia
-linter-yaml-title-alias: "Week 9- Zoom Assignment Review"
+key_concepts:
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Week 9- Zoom Assignment Review and financial analysis
+- Week 9- Zoom Assignment Review in modern finance
+- Applications of Week 9- Zoom Assignment Review
+- 'Case study: Week 9- Zoom Assignment Review'
+linter-yaml-title-alias: Week 9- Zoom Assignment Review
+tags:
+- liquidity
+- spread
+- interest-rate
+- interest-rates
+- multiple
+- valuation
+title: Week 9- Zoom Assignment Review
 ---
 
 Thomas Rauter

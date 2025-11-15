@@ -1,32 +1,29 @@
 ---
-cssclasses:
-  - academia
-title: Comps Definition, How They're Used in Analysis, and Example
-tags:
-  - business_valuation
-  - comparable_company_analysis
-  - comps_definition
-  - retail_sector
-  - same_store_sales
-  - financial_metrics
-  - enterprise_value
-  - equity_valuation
 aliases:
-  - Comparable Company Analysis
-  - Comparables
-  - FMV
-  - Trading Multiples
-  - Peer Analysis
+- Comparable Company Analysis
+- Comparables
+- FMV
+- Trading Multiples
+- Peer Analysis
+cssclasses:
+- academia
 key_concepts:
-  - Comparable company analysis methodology
-  - Comps as financial metrics for valuation
-  - Business valuation using multiples
-  - Fair market value (FMV) determination
-  - Retail same-store sales metrics
-  - Enterprise value to EBITDA multiple
-  - Price-to-earnings valuation
-  - Growth rate calculation methodology
-  - Real estate property valuation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Comps Definition, How They're Used in Analysis, and Example and financial analysis
+- Comps Definition, How They're Used in Analysis, and Example in modern finance
+- Applications of Comps Definition, How They're Used in Analysis, and Example
+- 'Case study: Comps Definition, How They''re Used in Analysis, and Example'
+- Financial markets and institutions
+tags:
+- options
+- put
+- ratio
+- call
+- multiple
+- valuation
+title: Comps Definition, How They're Used in Analysis, and Example
 ---
 
 # Comps Definition, How They're Used in Analysis, and Example

@@ -1,24 +1,56 @@
-%% Begin Waypoint %%
-- **Chapter 7 - Default Risk and Credit Derivatives**
-	- A Constant Default Probability Model
-	- A Deterministic Credit Migration Model
-	- A Poisson Model of Single Issuer Default
-	- Chapter 7 - Default Risk and Credit Derivatives
-	- Credit Default Swaps
-	- Default Risk and Credit Derivatives 183
-	- The Default Correlation of the Reference Issuer
-
-%% End Waypoint %%
-
-7 Default Risk and Credit Derivatives 183  
-7.1 Credit Default Swaps 184   
-7.1.1 Credit Default Swap 184   
-7.1.2 No Arbitrage: CDS vs Corporate Bond Spread 185   
-7.1.3 Bundled Single-Name Credit Derivatives 186   
-7.2 A Constant Default Probability Model. 190   
-7.3 A Deterministic Credit Migration Model 193   
-7.4 A Poisson Model of Single Issuer Default 195   
-7.4.1 Poisson Distribution 195   
-7.4.2 A Single Issuer Default Model. 196   
-7.4.3 Pricing a Credit Default Swap in a Single Issuer Default Model 198   
-7.5 The Default Correlation of the Reference Issuer and the Protection Seller 199
+---
+tags:
+- apt
+- banking
+- bond-pricing
+- cds
+- corporate-finance
+- credit-default-swap
+- credit-markets
+- default-probability
+- derivatives
+- financial-markets
+- financial-modeling
+- fixed-income
+- interest-rate-swap
+- quantitative-finance
+- risk-management
+key_concepts:
+- Agricultural futures and seasonality
+- Alternative investments and hedge fund strategies
+- American vs European options and early exercise features
+- Arbitrage Pricing Theory (APT) and factor models
+- Asset swaps and spread-lock strategies
+- Barrier options and knock-in/knock-out structures
+- Basis swaps and cross-currency basis adjustments
+- Basis swaps and floating rate correlations
+- Behavioral finance and market anomalies
+- Best execution and regulatory requirements
+- Bid-ask spreads and market making profitability
+- Binomial option pricing model with multi-period trees
+- Black-Litterman model and portfolio optimization
+- Black-Scholes option pricing model and its applications
+- Bond portfolio immunization strategies
+- CDO structuring and tranche allocation methodologies
+- CDO-squared structures and correlation trading
+- CDS spread curves and hazard rate modeling
+- Calendar spreads and roll strategies
+- Capital Asset Pricing Model (CAPM) and beta estimation
+- Central clearing and CCP risk management
+- Commodity futures and convenience yields
+- Commodity swaps and energy derivatives
+- Constant maturity swaps and roll-over features
+- Corporate bond pricing and credit spread decomposition
+- Crack spreads in energy markets
+- Credit default swaps and credit protection mechanisms
+- Credit risk assessment and loan pricing
+- Credit valuation adjustment (CVA) and counterparty risk
+- Cryptocurrency valuation and blockchain technology
+- Currency swaps and cross-currency basis
+- Dark pools and alternative trading venues
+- DeFi protocols and decentralized finance
+- Deposit insurance and systemic risk
+- Dividend discount model (DDM) applications
+- Duration and convexity for bond price sensitivity
+- ESG investing and sustainability metrics
+- Enterprise 

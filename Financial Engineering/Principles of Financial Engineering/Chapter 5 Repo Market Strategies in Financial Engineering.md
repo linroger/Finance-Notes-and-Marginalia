@@ -1,29 +1,56 @@
 ---
 title: REPO Market Strategies in Financial Engineering
 tags:
-  - repo-market
-  - repurchase-agreements
-  - financial-engineering
-  - securities-financing
-  - collateral-management
-  - repo-strategies
-  - money-markets
-  - liquidity-management
+- arbitrage
+- collateral-management
+- credit
+- credit-derivatives
+- equity-derivatives
+- financial-engineering
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- ito-calculus
+- liquidity-management
+- markets
+- money-markets
+- option-greeks
+- options
+- options-pricing
+- repo-market
+- repo-strategies
+- repurchase-agreements
+- risk-management
+- securities-financing
+- stochastic
 aliases:
-  - Chapter 5 REPO Strategies
-  - Repurchase Agreement Strategies
-  - REPO Market Engineering
+- Chapter 5 REPO Strategies
+- Repurchase Agreement Strategies
+- REPO Market Engineering
 key_concepts:
-  - Repurchase agreements
-  - REPO market mechanics
-  - Securities financing
-  - Collateral management
-  - REPO rates
-  - Special vs general collateral
-  - Haircuts and margins
-  - REPO market strategies
+- Arbitrage pricing theory (APT)
+- Collateral management
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Haircuts and margins
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Portfolio optimization and mean-variance theory
+- REPO market mechanics
+- REPO market strategies
+- REPO rates
+- Repurchase agreements
+- Securities financing
+- Special vs general collateral
+- Value at Risk (VaR) and risk metrics
 cssclasses: academia
 ---
+
 
 # REPO MARKET STRATEGIES IN FINANCIAL ENGINEERING  
 

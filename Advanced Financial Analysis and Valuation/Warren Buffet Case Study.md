@@ -1,32 +1,48 @@
 ---
-title: Warren Buffett Case Study
-cssclasses:
-  - academia
-tags:
-  - acquisition
-  - berkshire_hathaway
-  - precision_castparts
-  - value_investing
-  - warren_buffett
-  - investment_philosophy
-  - intrinsic_value
-  - long_term_investing
 aliases:
-  - Buffett
-  - PCP
-  - Buffett's Investment Approach
-  - Berkshire Acquisition Strategy
+- Buffett
+- PCP
+- Buffett's Investment Approach
+- Berkshire Acquisition Strategy
+cssclasses:
+- academia
 key_concepts:
-  - Berkshire Hathaway acquisition strategy
-  - Berkshire Hathaway company history
-  - Buffett's investment philosophy
-  - Economic reality vs accounting reality
-  - Intrinsic value calculation
-  - Market efficiency critique
-  - Opportunity cost analysis
-  - PCP acquisition valuation
-  - Time value of money
-  - Value-based investing principles
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Warren Buffet Case Study and financial analysis
+- Warren Buffet Case Study in modern finance
+- Applications of Warren Buffet Case Study
+- 'Case study: Warren Buffet Case Study'
+tags:
+- gaap
+- income statement
+- discount
+- options
+- bonds
+- put
+- yield
+- financial-statement
+- portfolio
+- fixed-income
+- bond
+- call
+- treasury
+- portfolio-optimization
+- accounting
+title: Warren Buffett Case Study
 ---
 
 # Warren E. Buffett, 2015  

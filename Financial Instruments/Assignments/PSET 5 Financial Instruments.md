@@ -1,32 +1,56 @@
 ---
-title: "PSET 5 - Financial Instruments - Options Pricing"
-linter-yaml-title-alias: "PSET 5 - Financial Instruments - Options Pricing"
+title: PSET 5 - Financial Instruments - Options Pricing
+linter-yaml-title-alias: PSET 5 - Financial Instruments - Options Pricing
 cssclasses: academia
 tags:
-  - binomial_tree
-  - european_call_option
-  - hedging_risk
-  - option_pricing
-  - stock_price
-  - black_scholes
-  - delta_hedging
-  - risk_neutral_pricing
+- binomial-model
+- binomial_tree
+- black-scholes-model
+- black_scholes
+- credit
+- credit-derivatives
+- delta_hedging
+- equity-derivatives
+- european_call_option
+- fixed-income
+- fixed-income-derivatives
+- hedging-strategies
+- hedging_risk
+- interest-rate-derivatives
+- option-greeks
+- option_pricing
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- risk_neutral_pricing
+- stock_price
 aliases:
-  - Homework 5
-  - John Heaton
-  - Multiperiod Binomial Tree
-  - Suna Bai
+- Homework 5
+- John Heaton
+- Multiperiod Binomial Tree
+- Suna Bai
 key_concepts:
-  - Black Scholes formula
-  - Binomial tree convergence
-  - Option delta hedging strategies
-  - Replicating portfolio construction
-  - Risk-neutral pricing
-  - Dividend effects on option pricing
-  - Put-call parity
-  - European option valuation
-  - Stock price volatility effects
+- Binomial tree convergence
+- Binomial tree models for option pricing
+- Black Scholes formula
+- Black-Scholes option pricing model
+- Complete markets and replication
+- Delta hedging and Greeks calculation
+- Dividend effects on option pricing
+- European option valuation
+- Expected Shortfall (ES) and coherent risk measures
+- Option Greeks and sensitivity analysis
+- Option delta hedging strategies
+- Portfolio optimization and mean-variance theory
+- Put-call parity
+- Put-call parity and option relationships
+- Replicating portfolio construction
+- Risk-neutral pricing
+- Risk-neutral valuation and martingale measures
+- Stock price volatility effects
 ---
+
 
 # PSET 5 - Financial Instruments - Options Pricing
 Homework 5 Due at the beginning of class 6

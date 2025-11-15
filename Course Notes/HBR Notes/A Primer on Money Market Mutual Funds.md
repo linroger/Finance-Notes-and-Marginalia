@@ -1,25 +1,49 @@
 ---
-cssclasses: academia
 Owner: RRoger Lin
-created:
-linter-yaml-title-alias: WHAT ARE MONEY MARKET FUNDS?
-title: A Primer on Money Market Mutual Funds
-tags:
-  - debt_securities
-  - fixed_income
-  - investment_strategy
-  - money_market_funds
-  - us_treasury
 aliases:
-  - MMMF
-  - Money Market Fund
-  - Money Market Mutual Fund
+- MMMF
+- Money Market Fund
+- Money Market Mutual Fund
+created: null
+cssclasses: academia
 key_concepts:
-  - Low volatility investments
-  - Repurchase agreements
-  - SEC fund regulations
-  - Short-term debt securities
-  - Taxable/tax-exempt income
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- A Primer on Money Market Mutual Funds and financial analysis
+- A Primer on Money Market Mutual Funds in modern finance
+- Applications of A Primer on Money Market Mutual Funds
+- 'Case study: A Primer on Money Market Mutual Funds'
+linter-yaml-title-alias: WHAT ARE MONEY MARKET FUNDS?
+tags:
+- maturity
+- regulatory
+- credit
+- credit-risk
+- collateral
+- discount
+- bonds
+- municipal
+- yield
+- regulation
+- fixed-income
+- bond
+- liquidity
+- treasury
+- duration
+title: A Primer on Money Market Mutual Funds
 ---
 
 # A Primer on Money Market Mutual Funds

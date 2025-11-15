@@ -1,20 +1,44 @@
 ---
-tags:
-  - american_options
-  - binomial_tree
-  - bopm
-  - continuous_dividends
-  - european_options
 aliases:
-  - American put pricing
-  - BOPM extensions
-  - Binomial option pricing
+- American put pricing
+- BOPM extensions
+- Binomial option pricing
 key_concepts:
-  - American option pricing
-  - Binomial approach
-  - Continuous dividend
-  - Early exercise
-  - Path-dependent options
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- 'Chapter 23 - BOPM: Extensions and financial analysis'
+- 'Chapter 23 - BOPM: Extensions in modern finance'
+- 'Applications of Chapter 23 - BOPM: Extensions'
+- 'Case study: Chapter 23 - BOPM: Extensions'
+tags:
+- maturity
+- forward
+- options
+- futures
+- put
+- bonds
+- yield
+- strike
+- hedging
+- bond
+- expiry
+- var
+- call
+- delta
+- no-arbitrage
 ---
 # BOPM: Extensions  
 

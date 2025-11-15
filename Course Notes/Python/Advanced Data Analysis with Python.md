@@ -1,35 +1,50 @@
 ---
-cssclasses: academia
-title: Advanced Data Analysis with Python
-source: https://blog.enterprisedna.co/advanced-data-analysis-with-python/
-description:
-tags:
-  - big_data
-  - data_analysis
-  - data_preprocessing
-  - data_visualization
-  - data_wrangling
-  - exploratory_data_analysis
-  - pyspark
-  - python
-  - sql_queries
-  - time_series
 aliases:
-  - Data Analysis
-  - Pandas
-  - PySpark
-  - Python for Data
-  - SQLAlchemy
+- Data Analysis
+- Pandas
+- PySpark
+- Python for Data
+- SQLAlchemy
+cssclasses: academia
+description: null
 key_concepts:
-  - Advanced Data Structures
-  - Advanced SQL Queries
-  - Big Data Analysis
-  - Data Cleaning Techniques
-  - Data Wrangling Tasks
-  - Efficient Data Manipulation
-  - Exploratory Data Analysis
-  - Interactive Visualizations
-  - Time Series Analysis
+- Financial econometrics and regression
+- Time series analysis in finance
+- Volatility modeling (GARCH)
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Advanced Data Analysis with Python and financial analysis
+- Advanced Data Analysis with Python in modern finance
+- Applications of Advanced Data Analysis with Python
+- 'Case study: Advanced Data Analysis with Python'
+source: https://blog.enterprisedna.co/advanced-data-analysis-with-python/
+tags:
+- multiple
+- options
+- swaps
+- put
+- garch
+- var
+- statistical
+- correlation
+- call
+- time-series
+- regression
+- algorithmic-trading
+- algo
+- irs
+- risk-management
+title: Advanced Data Analysis with Python
 ---
 
 # Advanced Data Analysis with Python

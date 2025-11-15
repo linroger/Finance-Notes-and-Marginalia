@@ -1,21 +1,47 @@
 ---
 tags:
-  - affine_models
-  - futures
-  - options
-  - sofr
-  - swaption
+- affine_models
+- black-scholes-model
+- credit
+- credit-derivatives
+- fixed-income
+- fixed-income-derivatives
+- futures
+- interest-rate-derivatives
+- markets
+- martingale-theory
+- mathematics
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- sofr
+- stochastic
+- swaption
 aliases:
-  - Gaussian models
-  - SOFR derivative pricing
-  - SOFR derivatives
+- Gaussian models
+- SOFR derivative pricing
+- SOFR derivatives
 key_concepts:
-  - Affine term structure models
-  - Analytic pricing formula
-  - European SOFR options
-  - Overnight Treasury repo rate
-  - SOFR reference rate
+- Affine term structure models
+- Analytic pricing formula
+- Arbitrage pricing theory (APT)
+- Black-Scholes option pricing model
+- Capital Asset Pricing Model (CAPM)
+- Delta hedging and Greeks calculation
+- European SOFR options
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Overnight Treasury repo rate
+- Risk-neutral valuation and martingale measures
+- SOFR reference rate
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 
 # SOFR Derivative Pricing Using a Short Rate Model
 

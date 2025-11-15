@@ -5,6 +5,18 @@ tags:
   - value_at_risk
   - var
   - variance_covariance
+  - risk_management
+  - basel_iii
+  - regulatory_capital
+  - volatility_forecasting
+  - ewma
+  - risk_metrics
+  - financial_institutions
+  - expected_shortfall
+  - stress_testing
+  - backtesting
+  - correlation_analysis
+  - diversification_benefit
 aliases:
   - VCV
   - VaR
@@ -15,6 +27,14 @@ key_concepts:
   - Market risk measurement
   - Value at Risk (VaR)
   - Variance-covariance approach
+  - RiskMetrics framework and implementation
+  - EWMA volatility forecasting
+  - Portfolio diversification and correlation
+  - Basel III capital adequacy requirements
+  - Expected shortfall beyond VaR
+  - Root-T rule for multi-day VaR
+  - Statistical backtesting of risk models
+  - Stress testing and scenario analysis
 ---
 # MARKET RISK  
 

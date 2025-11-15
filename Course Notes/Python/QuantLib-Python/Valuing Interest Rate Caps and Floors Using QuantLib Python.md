@@ -1,24 +1,47 @@
 ---
-title: Valuing Interest Rate Caps and Floors Using QuantLib Python
-source: 
-  http://gouthamanbalaraman.com/blog/interest-rate-cap-floor-valuation-quantlib-python.html
-description: A tutorial on valuing caps and floors using QuantLib Python.
-tags:
-  - black_formula
-  - caplet_valuation
-  - interest_rate_caps
-  - quantlib_python
-  - volatility_surface
 aliases:
-  - Cap and Floor Pricing
-  - Interest Rate Derivatives
-  - QuantLib Tutorial
+- Cap and Floor Pricing
+- Interest Rate Derivatives
+- QuantLib Tutorial
+description: A tutorial on valuing caps and floors using QuantLib Python.
 key_concepts:
-  - Caplet Black formula
-  - Interest rate term structure
-  - QuantLib Python example
-  - Valuing caps and floors
-  - Volatility surface construction
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Valuing Interest Rate Caps and Floors Using QuantLib Python and financial analysis
+- Valuing Interest Rate Caps and Floors Using QuantLib Python in modern finance
+- Applications of Valuing Interest Rate Caps and Floors Using QuantLib Python
+- 'Case study: Valuing Interest Rate Caps and Floors Using QuantLib Python'
+source: http://gouthamanbalaraman.com/blog/interest-rate-cap-floor-valuation-quantlib-python.html
+tags:
+- libor
+- forward
+- options
+- futures
+- bonds
+- yield
+- strike
+- basis
+- term-structure
+- call
+- interest-rate
+- interest-rates
+- forward-rates
+- pricing
+- volatility
+title: Valuing Interest Rate Caps and Floors Using QuantLib Python
 ---
 
 # Valuing Interest Rate Caps and Floors Using QuantLib Python

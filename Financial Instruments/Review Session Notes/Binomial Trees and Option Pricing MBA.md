@@ -1,31 +1,52 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Binomial Trees and Option Pricing MBA
 title: Binomial Trees and Option Pricing MBA
 tags:
-  - binomial_tree
-  - capm
-  - option_pricing
-  - risk_neutral
-  - stock_valuation
-  - dynamic_replication
-  - comparative_statics
+- binomial-model
+- binomial_tree
+- capm
+- comparative_statics
+- dynamic_replication
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- interest-rate-derivatives
+- markets
+- option-greeks
+- option_pricing
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- risk_neutral
+- stock_valuation
 aliases:
-  - BOPM
-  - Binomial Option Pricing
-  - Option Valuation
-  - Single-Period Option Model
+- BOPM
+- Binomial Option Pricing
+- Option Valuation
+- Single-Period Option Model
 key_concepts:
-  - ATM option valuation
-  - Binomial tree parameters
-  - CAPM formula
-  - Risk neutral probability
-  - Stock price at maturity
-  - Dynamic replication strategies
-  - Single-period option pricing
-  - Risk-neutral methodology
+- ATM option valuation
+- Binomial tree models for option pricing
+- Binomial tree parameters
+- CAPM formula
+- Capital Asset Pricing Model (CAPM)
+- Complete markets and replication
+- Delta hedging and Greeks calculation
+- Dynamic replication strategies
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Portfolio optimization and mean-variance theory
+- Risk neutral probability
+- Risk-neutral methodology
+- Risk-neutral valuation and martingale measures
+- Single-period option pricing
+- Stock price at maturity
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Binomial Trees and Option Pricing MBA
 ## 1. BINOMIAL TREES IN PHARMACEUTICALS

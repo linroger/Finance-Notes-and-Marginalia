@@ -1,22 +1,45 @@
 ---
-tags:
-  - downside_risk
-  - european_option
-  - no_arbitrage
-  - protective_put
-  - put_call_parity
-  - stock_index_options
 aliases:
-  - Car Insurance
-  - Protective Put
-  - S&P 500
-  - Stock-XYZ
+- Car Insurance
+- Protective Put
+- S&P 500
+- Stock-XYZ
 key_concepts:
-  - European put option
-  - downside risk control
-  - protective put
-  - put call parity
-  - stock index options
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Chapter 15 - Uses of Options and financial analysis
+- Chapter 15 - Uses of Options in modern finance
+- Applications of Chapter 15 - Uses of Options
+- 'Case study: Chapter 15 - Uses of Options'
+tags:
+- libor
+- maturity
+- options
+- bonds
+- put
+- portfolio
+- strike
+- bond
+- fixed-income
+- delta
+- call
+- interest-rates
+- interest-rate
+- portfolio-optimization
+- coupon
 ---
 # Uses of Options  
 

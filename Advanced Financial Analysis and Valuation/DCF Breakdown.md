@@ -1,29 +1,48 @@
 ---
-title: DCF Breakdown
-cssclasses:
-  - academia
-tags:
-  - capm
-  - dcf_model
-  - financial_modeling
-  - free_cash_flow
-  - sensitivity_analysis
-  - valuation
-  - wacc
 aliases:
-  - DCF
-  - Discounted Cash Flow
-  - Enterprise Value
-  - FCF
+- DCF
+- Discounted Cash Flow
+- Enterprise Value
+- FCF
+cssclasses:
+- academia
 key_concepts:
-  - CAPM for cost of equity calculation
-  - Enterprise value to equity value conversion
-  - Free cash flow forecast methodology
-  - Gordon growth model for terminal value
-  - Present value calculation techniques
-  - Projected financial statements analysis
-  - WACC determination process
-  - Working capital impact on cash flow
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Capital Asset Pricing Model (CAPM)
+- Arbitrage Pricing Theory (APT)
+- Multi-factor risk models
+- DCF Breakdown and financial analysis
+- DCF Breakdown in modern finance
+- Applications of DCF Breakdown
+- 'Case study: DCF Breakdown'
+tags:
+- income statement
+- discount
+- swaps
+- options
+- var
+- factor-models
+- delta
+- capm
+- risk
+- balance sheet
+- beta
+- valuation
+- irs
+- risk-management
+- market-efficiency
+title: DCF Breakdown
 ---
 
 # DCF Breakdown

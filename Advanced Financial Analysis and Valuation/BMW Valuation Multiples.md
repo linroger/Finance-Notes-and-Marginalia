@@ -1,20 +1,38 @@
 ---
-title: BMW Valuation Multiples
-tags:
-  - bmw
-  - financial_services
-  - multiples_analysis
-  - peer_comparison
-  - valuation
 aliases:
-  - BMW Multiples
-  - BMW Valuation
+- BMW Multiples
+- BMW Valuation
 key_concepts:
-  - BMW peer companies
-  - Debt ratio analysis
-  - EV/EBIT valuation
-  - Forward multiples
-  - Operating income comparison
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- BMW Valuation Multiples and financial analysis
+- BMW Valuation Multiples in modern finance
+- Applications of BMW Valuation Multiples
+- 'Case study: BMW Valuation Multiples'
+tags:
+- multiple
+- forward
+- futures
+- financial-statement
+- trading
+- liquidity
+- leverage
+- risk
+- balance sheet
+- ratio
+- accounting
+- valuation
+title: BMW Valuation Multiples
 ---
 
 # BMW Valuation Multiples

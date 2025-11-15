@@ -1,35 +1,48 @@
 ---
-title: HBS Case - Medfield Pharmaceuticals
-cssclasses:
-  - academia
 aliases:
-  - Medfield Pharmaceuticals Case
-  - Fleximat Patent Strategy
-  - Medfield Acquisition Analysis
-  - Susan Johnson Case Study
-tags:
-  - case_study
-  - hbs_case
-  - pharmaceuticals
-  - fda_approval
-  - fleximat
-  - generic_drugs
-  - medfield_pharmaceuticals
-  - patent_life
-  - reformulation_strategy
-  - acquisition_valuation
-  - intangible_assets
+- Medfield Pharmaceuticals Case
+- Fleximat Patent Strategy
+- Medfield Acquisition Analysis
+- Susan Johnson Case Study
+cssclasses:
+- academia
 key_concepts:
-  - Generic drug competition
-  - Marketing effort launch
-  - Medfield's flagship product
-  - Patent life extension
-  - Pharmaceutical industry crossroads
-  - Patent evergreening tactics
-  - Drug reformulation strategies
-  - Corporate acquisition valuation
-  - Pharmaceutical R&D costs
-  - Generic vs branded drugs
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- HBS Case- Medfield Pharmaceuticals and financial analysis
+- HBS Case- Medfield Pharmaceuticals in modern finance
+- Applications of HBS Case- Medfield Pharmaceuticals
+- 'Case study: HBS Case- Medfield Pharmaceuticals'
+tags:
+- cash flow
+- discount
+- swaps
+- options
+- put
+- futures
+- portfolio
+- var
+- basis
+- roll
+- call
+- portfolio-optimization
+- valuation
+- irs
+- risk-management
+title: HBS Case - Medfield Pharmaceuticals
 ---
 
 # HBS Case - Medfield Pharmaceuticals

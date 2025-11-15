@@ -1,23 +1,24 @@
 ---
-title: Week 1
-cssclasses:
-  - academia
-tags:
-  - week_1
-  - financial_analysis
-  - valuation
-  - corporate_finance
-  - financial_modeling
 aliases:
-  - Week 1 Index
-  - Week 1 AFAV Overview
-  - Week 1 Contents
+- Week 1 Index
+- Week 1 AFAV Overview
+- Week 1 Contents
+cssclasses:
+- academia
 key_concepts:
-  - Core financial analysis and valuation concepts
-  - Financial analysis frameworks and tools
-  - Market efficiency principles
-  - Ratio analysis fundamentals
-  - Valuation methodology overview
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Week 1 (1) and financial analysis
+- Week 1 (1) in modern finance
+- Applications of Week 1 (1)
+- 'Case study: Week 1 (1)'
+- Financial markets and institutions
+tags:
+- ratio
+- valuation
+- market-efficiency
+title: Week 1
 ---
 
 # Week 1

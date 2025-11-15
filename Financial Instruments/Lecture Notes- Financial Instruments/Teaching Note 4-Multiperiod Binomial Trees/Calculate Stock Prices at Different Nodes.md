@@ -2,22 +2,37 @@
 linter-yaml-title-alias: CALCULATE STOCK PRICES AT DIFFERENT NODES
 title: Calculate Stock Prices at Different Nodes
 tags:
-  - binomial_model
-  - european_call
-  - option_pricing
-  - replicating_portfolio
-  - stock_price
+- binomial-model
+- binomial_model
+- equity-derivatives
+- european_call
+- fx-derivatives
+- hedging-strategies
+- option-greeks
+- option_pricing
+- options
+- options-pricing
+- quantitative-pricing
+- replicating_portfolio
+- risk-management
+- stock_price
 aliases:
-  - Binomial Option Pricing
-  - Option Replication
-  - Stock Price Calculation
+- Binomial Option Pricing
+- Option Replication
+- Stock Price Calculation
 key_concepts:
-  - Binomial tree
-  - Option payoff
-  - Option price calculation
-  - Replicating portfolio
-  - Stock price movement
+- Binomial tree
+- Binomial tree models for option pricing
+- Complete markets and replication
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Option payoff
+- Option price calculation
+- Portfolio optimization and mean-variance theory
+- Replicating portfolio
+- Stock price movement
 ---
+
 
 # Calculate Stock Prices at Different Nodes
 

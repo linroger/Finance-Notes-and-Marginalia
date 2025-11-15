@@ -2,22 +2,43 @@
 cssclasses: academia
 title: Financial Derivatives and Quantitative Methods
 tags:
-  - derivatives_pricing
-  - financial_derivatives
-  - market_analysis
-  - quantitative_methods
-  - risk_management
+- binomial-model
+- black-scholes-model
+- credit
+- credit-derivatives
+- derivatives_pricing
+- financial_derivatives
+- interest-rate-derivatives
+- market_analysis
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- quantitative_methods
+- risk-management
+- risk_management
 aliases:
-  - Derivatives
-  - Financial Engineering
-  - Quant Methods
+- Derivatives
+- Financial Engineering
+- Quant Methods
 key_concepts:
-  - Derivatives pricing models
-  - Financial instrument valuation
-  - Market microstructure analysis
-  - Quantitative finance methods
-  - Risk management techniques
+- Barrier options and knock-in/knock-out features
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- Credit default swaps (CDS) pricing
+- Delta hedging and Greeks calculation
+- Derivatives pricing models
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Financial instrument valuation
+- Interest rate swaps and swap pricing
+- Market microstructure analysis
+- Option Greeks and sensitivity analysis
+- Quantitative finance methods
+- Risk management techniques
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Financial Derivatives and Quantitative Methods
 

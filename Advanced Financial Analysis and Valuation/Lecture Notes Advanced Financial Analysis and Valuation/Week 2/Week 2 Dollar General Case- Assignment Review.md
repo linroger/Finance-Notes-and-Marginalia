@@ -1,28 +1,44 @@
 ---
+aliases:
+- DG Case Review
+- Dollar General Assignment Review
 cssclasses:
-  - academia
-title: Week 2 Dollar General Case - Assignment Review
+- academia
+key_concepts:
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Week 2 Dollar General Case- Assignment Review and financial analysis
+- Week 2 Dollar General Case- Assignment Review in modern finance
+- Applications of Week 2 Dollar General Case- Assignment Review
+- 'Case study: Week 2 Dollar General Case- Assignment Review'
 linter-yaml-title-alias: Week 2 Dollar General Case - Assignment Review
 tags:
-  - acquisition
-  - dollar_general
-  - financial_analysis
-  - lbo
-  - valuation
-  - case_study
-  - retail_analysis
-aliases:
-  - DG Case Review
-  - Dollar General Assignment Review
-key_concepts:
-  - Acquisition offer analysis
-  - Financial statement analysis
-  - Market pricing vs. KKR offer
-  - Non-recurring items adjustment
-  - Store appearance and customer satisfaction
-  - Pro-forma adjustments
-  - Valuation multiples
-  - Private equity transactions
+- merger
+- forward
+- strategy
+- discount
+- options
+- futures
+- put
+- financial-statement
+- leverage
+- algorithmic-trading
+- multiple
+- pricing
+- accounting
+- valuation
+- statement
+title: Week 2 Dollar General Case - Assignment Review
 ---
 
 # Week 2 Dollar General Case - Assignment Review

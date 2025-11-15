@@ -1,12 +1,23 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Assignments-Financial Instruments
 title: Assignments
-tags: [financial_instruments, coursework, problem_sets]
-aliases: [Financial Instruments Assignments, Problem Sets]
-key_concepts: [practice problems, midterm solutions, homework assignments]
+tags:
+- arbitrage
+- coursework
+- financial_instruments
+- problem_sets
+aliases:
+- Financial Instruments Assignments
+- Problem Sets
+key_concepts:
+- Expected Shortfall (ES) and coherent risk measures
+- homework assignments
+- midterm solutions
+- practice problems
 ---
+
 # Assignments
 
 %% Begin Waypoint %%

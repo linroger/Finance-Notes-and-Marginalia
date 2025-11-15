@@ -1,29 +1,40 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: PSET 1-Financial Instruments
 tags:
-  - arbitrage
-  - financial_instruments
-  - forward_rates
-  - linear_compounding
-  - interest_rates
-  - currency_markets
-  - exchange_rates
+- arbitrage
+- currency_markets
+- exchange_rates
+- financial_instruments
+- fixed-income
+- fixed-income-derivatives
+- forward_rates
+- fx-derivatives
+- interest-rate-derivatives
+- interest_rates
+- linear_compounding
+- markets
+- options
+- options-pricing
 aliases:
-  - PSET 1-FINANCIAL INSTRUMENTS
-  - Problem Set 1
+- PSET 1-FINANCIAL INSTRUMENTS
+- Problem Set 1
 key_concepts:
-  - Compute Forward Exchange Rate
-  - Forward Exchange Rate
-  - Forward pricing formula
-  - Linear compounding rates
-  - Natural logarithm function
-  - Arbitrage opportunity identification
-  - Covered interest rate parity
-  - Interest rate conversion
-  - No-arbitrage relationship
+- Arbitrage opportunity identification
+- Compute Forward Exchange Rate
+- Covered interest rate parity
+- Expected Shortfall (ES) and coherent risk measures
+- Forward Exchange Rate
+- Forward pricing formula
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate conversion
+- Interest rate models and term structure
+- Linear compounding rates
+- Natural logarithm function
+- No-arbitrage relationship
 ---
+
 # PSET 1-Financial Instruments
 
 Bus 35100

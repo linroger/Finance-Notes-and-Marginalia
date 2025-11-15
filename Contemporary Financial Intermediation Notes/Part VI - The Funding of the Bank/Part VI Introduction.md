@@ -1,3 +1,42 @@
+---
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Part VI Introduction and financial analysis
+- Part VI Introduction in modern finance
+- Applications of Part VI Introduction
+- 'Case study: Part VI Introduction'
+tags:
+- options
+- var
+- irs
+- put
+- basel
+- maturity
+- regulatory
+- swaps
+- regulation
+- bond
+- risk-management
+- duration
+- swap
+- bonds
+- yield
+---
+
 # The Deposit Contract, Deposit Insurance, and Shadow Banking  
 
 “As to guaranteeing bank deposits, the minute the government starts to do that... the government runs into a probable loss. We do not wish to make the United States government liable for the mistakes and errors of individual banks, and put a premium on unsound banking in the future.”  

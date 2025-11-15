@@ -1,29 +1,69 @@
 ---
 title: Engineering of Equity Instruments and Structural Models of Default
 tags:
-  - equity-derivatives
-  - structural-models
-  - default-models
-  - financial-engineering
-  - merton-model
-  - equity-valuation
-  - credit-models
-  - convertible-bonds
+- arbitrage
+- black-scholes-model
+- convertible-bonds
+- credit
+- credit-derivatives
+- credit-models
+- default-models
+- equity-derivatives
+- equity-valuation
+- financial-engineering
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- martingale-theory
+- merton-model
+- option-greeks
+- options
+- options-pricing
+- risk-management
+- stochastic
+- structural-models
 aliases:
-  - Chapter 19 Equity Engineering
-  - Structural Default Models
-  - Equity Derivatives Engineering
+- Chapter 19 Equity Engineering
+- Structural Default Models
+- Equity Derivatives Engineering
 key_concepts:
-  - Equity as call option
-  - Merton model
-  - Structural default models
-  - Convertible bonds
-  - Equity volatility
-  - Capital structure arbitrage
-  - Debt-equity relationships
-  - Default boundaries
+- Arbitrage pricing theory (APT)
+- Asian options and average price derivatives
+- Barrier options and knock-in/knock-out features
+- Black-Scholes option pricing model
+- Brownian motion and Wiener processes
+- Capital Asset Pricing Model (CAPM)
+- Capital structure arbitrage
+- Complete markets and replication
+- Convertible bonds
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Debt-equity relationships
+- Default boundaries
+- Delta hedging and Greeks calculation
+- Equity as call option
+- Equity volatility
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Merton model
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Structural default models
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 cssclasses: academia
 ---
+
 
 # ENGINEERING OF EQUITY INSTRUMENTS AND STRUCTURAL MODELS OF DEFAULT  
 

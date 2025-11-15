@@ -1,24 +1,75 @@
 ---
 tags:
-  - credit_derivatives
-  - financial_derivatives
-  - futures_contracts
-  - interest_rate_derivatives
-  - options_trading
+- arbitrage
+- binomial-model
+- black-scholes-model
+- credit
+- credit-derivatives
+- credit_derivatives
+- equity-derivatives
+- financial_derivatives
+- fixed-income
+- fixed-income-derivatives
+- futures_contracts
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- interest_rate_derivatives
+- ito-calculus
+- markets
+- martingale-theory
+- mathematics
+- monte-carlo-simulation
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- options_trading
+- quantitative-pricing
+- risk-management
+- stochastic
 aliases:
-  - Derivative Types
-  - Derivatives Overview
-  - Derivatives and Uses
-  - Financial Instruments
+- Derivative Types
+- Derivatives Overview
+- Derivatives and Uses
+- Financial Instruments
 key_concepts:
-  - Alternative investment form
-  - Exposure to underlying assets
-  - Financial instrument agreement
-  - Leverage and speculation
-  - Risk mitigation and hedging
-  - Swaps, futures, options
-  - Underlying asset value
+- Alternative investment form
+- Arbitrage pricing theory (APT)
+- Asian options and average price derivatives
+- Barrier options and knock-in/knock-out features
+- Basel III regulatory framework
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- Capital Asset Pricing Model (CAPM)
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Exposure to underlying assets
+- Financial instrument agreement
+- GARCH models and volatility forecasting
+- Heath-Jarrow-Morton (HJM) framework
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Leverage and speculation
+- Monte Carlo simulation for derivatives
+- Numerical methods for PDEs
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Put-call parity and option relationships
+- Risk mitigation and hedging
+- Risk-neutral valuation and martingale measures
+- Swaps, futures, options
+- Underlying asset value
+- VaR backtesting and model validation
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 
 # Contents  
 Derivative (finance) 1   

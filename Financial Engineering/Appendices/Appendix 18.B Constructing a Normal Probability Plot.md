@@ -1,21 +1,21 @@
 ---
-title: "Appendix 18.B Constructing a Normal Probability Plot"
-cssclasses: academia
-tags:
-  - cumulative-inverse
-  - data-analysis
-  - normal-distribution
-  - probability-plot
-  - quantile
 aliases:
-  - NPP
-  - Normal Probability Plot
+- NPP
+- Normal Probability Plot
+cssclasses: academia
 key_concepts:
-  - Compare data quantiles
-  - Cumulative inverse function
-  - Data point plotting
-  - Normal probability plot
-  - Standard normal distribution
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Appendix 18.B Constructing a Normal Probability Plot and financial analysis
+- Appendix 18.B Constructing a Normal Probability Plot in modern finance
+- Applications of Appendix 18.B Constructing a Normal Probability Plot
+- 'Case study: Appendix 18.B Constructing a Normal Probability Plot'
+- Financial markets and institutions
+tags:
+- risk-management
+- var
+title: Appendix 18.B Constructing a Normal Probability Plot
 ---
 
 # Appendix 18.B Constructing a Normal Probability Plot

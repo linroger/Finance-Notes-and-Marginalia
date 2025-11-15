@@ -1,35 +1,49 @@
 ---
+aliases:
+- Goodwill Write-down
+- Intangible Amortization
+- M&A Accounting
+- Week 5 Recap
 cssclasses:
-  - academia
-title: Week 5 Accounting Recap - R&D, Intangibles, M&A & Goodwill
+- academia
+key_concepts:
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill and financial analysis
+- Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill in modern finance
+- Applications of Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill
+- 'Case study: Week 5 Accounting Recap- R&D, Intangibles, M&A & Goodwill'
 linter-yaml-title-alias: Week 5 Accounting Recap - R&D, Intangibles, M&A & Goodwill
 tags:
-  - accounting_standards
-  - goodwill_impairment
-  - intangible_assets
-  - ma_accounting
-  - randd_expenses
-  - financial_reporting
-  - ifrs_vs_gaap
-  - pharmaceutical_accounting
-  - capitalization_policy
-  - non_gaap_metrics
-aliases:
-  - Goodwill Write-down
-  - Intangible Amortization
-  - M&A Accounting
-  - Week 5 Recap
-key_concepts:
-  - R&D capitalization impact on profits
-  - Goodwill impairment testing procedures
-  - M&A purchase price allocation steps
-  - Non-GAAP metrics and EBITA multiples
-  - Intangible asset amortization effects
-  - IFRS versus US GAAP R&D treatment
-  - Acquisition accounting complexities
-  - Organic growth versus M&A growth accounting
-  - Fair value measurement in M&A
-  - Kraft Heinz goodwill write-down case
+- gaap
+- merger
+- forward
+- options
+- futures
+- bonds
+- dividend
+- ifrs
+- bond
+- fixed-income
+- call
+- balance sheet
+- multiple
+- accounting
+- fair-value
+title: Week 5 Accounting Recap - R&D, Intangibles, M&A & Goodwill
 ---
 
 # Week 5 Accounting Recap - R&D, Intangibles, M&A & Goodwill

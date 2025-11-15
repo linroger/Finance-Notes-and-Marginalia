@@ -1,21 +1,39 @@
 ---
 tags:
-  - call_option
-  - delta_hedging
-  - option_pricing
-  - static_hedging
-  - volatility
+- black-scholes-model
+- call_option
+- delta_hedging
+- hedging-strategies
+- mathematics
+- option-greeks
+- option_pricing
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- static_hedging
+- volatility
 aliases:
-  - Option Hedging
-  - Static Hedge
-  - Uncertain Volatility
+- Option Hedging
+- Static Hedge
+- Uncertain Volatility
 key_concepts:
-  - Black-Scholes equation
-  - Delta hedging
-  - Digital option payoff
-  - Static hedging
-  - Volatility range
+- Black-Scholes equation
+- Black-Scholes option pricing model
+- Complete markets and replication
+- Delta hedging
+- Delta hedging and Greeks calculation
+- Digital option payoff
+- Expected Shortfall (ES) and coherent risk measures
+- GARCH models and volatility forecasting
+- Levy processes and jump diffusion
+- Numerical methods for PDEs
+- Portfolio optimization and mean-variance theory
+- Static hedging
+- Value at Risk (VaR) and risk metrics
+- Volatility range
 ---
+
 
 # Uncertain Volatility with Static Hedge
 

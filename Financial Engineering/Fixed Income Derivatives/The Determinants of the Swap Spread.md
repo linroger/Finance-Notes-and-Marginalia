@@ -1,21 +1,42 @@
 ---
 tags:
-  - alm_risk_management
-  - bank_risk
-  - credit_risk
-  - interest_rate_swaps
-  - swap_spreads
+- alm_risk_management
+- bank_risk
+- credit
+- credit-derivatives
+- credit_risk
+- derivatives-pricing
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- interest_rate_swaps
+- markets
+- options
+- risk-management
+- swap_spreads
 aliases:
-  - Interest Rate Swap Spreads
-  - Swap Spread Determinants
-  - Swap Spread Factors
+- Interest Rate Swap Spreads
+- Swap Spread Determinants
+- Swap Spread Factors
 key_concepts:
-  - Bank risk premium
-  - Credit risk in swaps
-  - Interest rate swaps
-  - Macroeconomic factors impact
-  - Swap spread determinants
+- Arbitrage pricing theory (APT)
+- Asian options and average price derivatives
+- Bank risk premium
+- Credit risk and default probability
+- Credit risk in swaps
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Interest rate swaps
+- Interest rate swaps and swap pricing
+- Macroeconomic factors impact
+- Swap spread determinants
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # [](../1.%20DeterministicCashFlows.md#4.1%20The%20Yield%20Spread | The%20Determinants%20of%20the%20Swap%20Spread)
 Interest-rate swaps are an important ALM and risk management tool in banking markets.  The rate payable on a swap represents bank risk, if we assume that a swap is paying  (receiving) the fixed swap rate on one leg and receiving (paying) Libor-flat on the other  leg. If one of the counter parties is not a bank, then either leg is adjusted to account for the  different counter party risk; usually the floating leg will have a spread added to Libor. We  can see that this produces a swap curve that lies above the government bond yield curve,  if we compare Figure 1 with Figure 2. Figure 1 is the USD swap rates page from Tullett  & Tokyo brokers, and Figure 2 is the US Treasury yield curve, both as at 3 July 2006.  The higher rates payable on swaps represents the additional risk premium associated with  bank risk compared to government risk. The spread itself is the number of basis points  the swap rate lies above the equivalent-maturity government bond yield, quoted on the  same interest basis.

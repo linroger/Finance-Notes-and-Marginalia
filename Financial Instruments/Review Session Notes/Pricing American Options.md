@@ -1,32 +1,44 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Pricing American Options
 title: Pricing American Options
 tags:
-  - american_option
-  - binomial_tree
-  - call_option
-  - dividends
-  - option_pricing
-  - risk_neutral
-  - early_exercise
-  - dividend_impact
+- american_option
+- binomial-model
+- binomial_tree
+- call_option
+- dividend_impact
+- dividends
+- early_exercise
+- equity-derivatives
+- fixed-income
+- interest-rate-derivatives
+- markets
+- option_pricing
+- options
+- options-pricing
+- quantitative-pricing
+- risk_neutral
 aliases:
-  - American Call Option
-  - American Option Pricing
-  - Early Exercise
-  - Pricing American Options
+- American Call Option
+- American Option Pricing
+- Early Exercise
+- Pricing American Options
 key_concepts:
-  - Accounting for dividends in option pricing
-  - American option early exercise criteria
-  - Binomial tree methodology for option pricing
-  - Risk neutral probability calculation
-  - Value comparison between waiting and exercising
-  - Pre-dividend and post-dividend stock prices
-  - Multiple period option valuation
-  - Backward induction pricing method
+- Accounting for dividends in option pricing
+- American option early exercise criteria
+- Backward induction pricing method
+- Binomial tree methodology for option pricing
+- Binomial tree models for option pricing
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Multiple period option valuation
+- Pre-dividend and post-dividend stock prices
+- Risk neutral probability calculation
+- Value comparison between waiting and exercising
 ---
+
 
 
 # Pricing American Options

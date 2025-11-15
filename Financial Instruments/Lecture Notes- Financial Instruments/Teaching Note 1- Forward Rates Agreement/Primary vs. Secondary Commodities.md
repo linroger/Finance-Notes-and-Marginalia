@@ -1,33 +1,51 @@
 ---
 title: Primary vs. Secondary Commodities
 tags:
-  - cash_and_carry
-  - commodity_prices
-  - convenience_yield
-  - extractive_commodities
-  - lease_rate
-  - primary_commodities
-  - primary_vs_secondary
-  - renewable_commodities
-  - secondary_commodities
-  - storage_costs
+- cash_and_carry
+- commodity_prices
+- convenience_yield
+- credit
+- credit-derivatives
+- equity-derivatives
+- extractive_commodities
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- interest-rate-derivatives
+- lease_rate
+- markets
+- options
+- options-pricing
+- primary_commodities
+- primary_vs_secondary
+- renewable_commodities
+- risk-management
+- secondary_commodities
+- storage_costs
 aliases:
-  - Commodities Classification
-  - Commodity Prices
-  - Commodity Types
-  - Extractive vs Renewable
-  - Primary vs Secondary
+- Commodities Classification
+- Commodity Prices
+- Commodity Types
+- Extractive vs Renewable
+- Primary vs Secondary
 key_concepts:
-  - Cash-and-carry markets
-  - Commodity units
-  - Convenience yield
-  - Extractive commodities
-  - Lease rate
-  - Primary commodities
-  - Renewable commodities
-  - Secondary commodities
-  - Storage costs
+- Cash-and-carry markets
+- Commodity units
+- Convenience yield
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Extractive commodities
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Lease rate
+- Primary commodities
+- Renewable commodities
+- Secondary commodities
+- Storage costs
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 - Introduction to Derivative Markets]]
 - Hedging%20[Key%20Rates%20O1s%20Durations%20and%20Hedging) Strategies with [Forwards]]

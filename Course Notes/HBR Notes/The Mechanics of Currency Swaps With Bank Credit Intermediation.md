@@ -1,25 +1,49 @@
 ---
-cssclasses:
-  - academia
 Owner: RRoger Lin
-linter-yaml-title-alias: THE MECHANICS OF CURRENCY SWAPS WITH BANK CREDIT INTERMEDIATION
-title: The Mechanics of Currency Swaps With Bank Credit Intermediation
-tags:
-  - bank_forward
-  - currency_swap
-  - debt_service
-  - foreign_currency
-  - interest_rate
 aliases:
-  - Cross-Currency Swap
-  - Currency Exchange
-  - FX Swap
+- Cross-Currency Swap
+- Currency Exchange
+- FX Swap
+cssclasses:
+- academia
 key_concepts:
-  - Bank forward exchange market
-  - Borrowing in different currencies
-  - Exchange currencies with interest
-  - Lock in financing cost
-  - Service each other's debt
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- The Mechanics of Currency Swaps With Bank Credit Intermediation and financial analysis
+- The Mechanics of Currency Swaps With Bank Credit Intermediation in modern finance
+- Applications of The Mechanics of Currency Swaps With Bank Credit Intermediation
+- 'Case study: The Mechanics of Currency Swaps With Bank Credit Intermediation'
+linter-yaml-title-alias: THE MECHANICS OF CURRENCY SWAPS WITH BANK CREDIT INTERMEDIATION
+tags:
+- maturity
+- libor
+- swap
+- currency-swap
+- forward
+- swaps
+- bonds
+- futures
+- fixed-income
+- bond
+- hedging
+- basis-swap
+- basis
+- interest-rate
+- interest-rates
+title: The Mechanics of Currency Swaps With Bank Credit Intermediation
 ---
 
 !Untitled 5. jpeg

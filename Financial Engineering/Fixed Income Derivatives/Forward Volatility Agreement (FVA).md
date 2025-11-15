@@ -1,20 +1,62 @@
 ---
 tags:
-  - carry_trade
-  - forward_volatility
-  - fva
-  - implied_volatility
-  - volatility_swap
+- arbitrage
+- black-scholes-model
+- carry_trade
+- credit
+- credit-derivatives
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- forward_volatility
+- fva
+- fx-derivatives
+- girsanov-theorem
+- hedging-strategies
+- implied_volatility
+- interest-rate-derivatives
+- markets
+- mathematics
+- model-calibration
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- stochastic
+- volatility_swap
 aliases:
-  - FVA
-  - Forward Volatility Agreement
+- FVA
+- Forward Volatility Agreement
 key_concepts:
-  - forward implied volatility
-  - future spot volatility
-  - long short straddle
-  - spot implied volatility
-  - volatility swap contract
+- Arbitrage pricing theory (APT)
+- Barrier options and knock-in/knock-out features
+- Black-Scholes option pricing model
+- Brownian motion and Wiener processes
+- Capital Asset Pricing Model (CAPM)
+- Complete markets and replication
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- GARCH models and volatility forecasting
+- Girsanov's theorem and measure changes
+- Heath-Jarrow-Morton (HJM) framework
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Model calibration and parameter estimation
+- Numerical methods for PDEs
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
+- forward implied volatility
+- future spot volatility
+- long short straddle
+- spot implied volatility
+- volatility swap contract
 ---
+
 
 # Forward Volatility Agreement (FVA)
 # 1.1   Forward Volatility Agreement (FVA)

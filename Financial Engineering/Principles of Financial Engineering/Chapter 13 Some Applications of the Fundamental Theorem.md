@@ -1,9 +1,58 @@
 ---
-title: "Some Applications of the Fundamental Theorem"
+title: Some Applications of the Fundamental Theorem
 chapter: 13
-subject: "Financial Engineering"
-category: "Principles of Financial Engineering"
+subject: Financial Engineering
+category: Principles of Financial Engineering
+tags:
+- arbitrage
+- binomial-model
+- black-scholes-model
+- credit
+- credit-derivatives
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- martingale-theory
+- mathematics
+- model-calibration
+- monte-carlo-simulation
+- numerical-simulation
+- optimization
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- stochastic
+key_concepts:
+- Arbitrage pricing theory (APT)
+- Asian options and average price derivatives
+- Barrier options and knock-in/knock-out features
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- Brownian motion and Wiener processes
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Ito's Lemma and stochastic calculus
+- Model calibration and parameter estimation
+- Monte Carlo simulation for derivatives
+- Numerical methods for PDEs
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Quasi-Monte Carlo and variance reduction
+- Risk-neutral valuation and martingale measures
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # SOME APPLICATIONS OF THE FUNDAMENTAL THEOREM  
 

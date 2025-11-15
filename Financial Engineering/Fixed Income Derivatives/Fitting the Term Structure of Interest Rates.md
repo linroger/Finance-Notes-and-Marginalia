@@ -1,21 +1,41 @@
 ---
 tags:
-  - cubic_spline
-  - curve_fitting
-  - interest_rates
-  - market_practitioners
-  - term_structure
+- arbitrage
+- credit
+- credit-derivatives
+- cubic_spline
+- curve_fitting
+- fixed-income
+- fixed-income-derivatives
+- interest-rate-derivatives
+- interest_rates
+- market_practitioners
+- markets
+- option-greeks
+- options
+- options-pricing
+- risk-management
+- term_structure
 aliases:
-  - Cubic Spline Implementation
-  - Fitting Interest Rates
-  - Term Structure Modeling
+- Cubic Spline Implementation
+- Fitting Interest Rates
+- Term Structure Modeling
 key_concepts:
-  - cubic spline method
-  - fitting discount function
-  - market practitioners valuation
-  - parametric vs spline methods
-  - term structure interest rates
+- Arbitrage pricing theory (APT)
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
+- cubic spline method
+- fitting discount function
+- market practitioners valuation
+- parametric vs spline methods
+- term structure interest rates
 ---
+
 
 # [](../1.%20DeterministicCashFlows.md#3%20The%20Term%20Structure%20Of%20Interest%20Rates | Fitting%20the%20Term%20Structure%20of%20Interest%20Rates)
 # [](../1.%20DeterministicCashFlows.md#3%20The%20Term%20Structure%20Of%20Interest%20Rates | Fitting%20the%20Term%20Structure%20of%20Interest%20Rates): The Practical Implementation  of  Cubic Spline Methodology

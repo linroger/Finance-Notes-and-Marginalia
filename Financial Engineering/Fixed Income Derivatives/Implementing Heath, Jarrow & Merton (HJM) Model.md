@@ -1,20 +1,51 @@
 ---
 tags:
-  - forward_rates
-  - hjm_model
-  - monte_carlo
-  - no_arbitrage
-  - risk_neutral
+- arbitrage
+- fixed-income
+- fixed-income-derivatives
+- forward_rates
+- hedging-strategies
+- hjm_model
+- interest-rate-derivatives
+- markets
+- mathematics
+- monte-carlo-simulation
+- monte_carlo
+- no_arbitrage
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- risk_neutral
+- stochastic
 aliases:
-  - HJM framework
-  - Heath-Jarrow-Morton
+- HJM framework
+- Heath-Jarrow-Morton
 key_concepts:
-  - Forward rate curve
-  - HJM model dynamics
-  - Risk-neutral world
-  - Stochastic differential equation
-  - Zero coupon bond
+- Arbitrage pricing theory (APT)
+- Brownian motion and Wiener processes
+- Complete markets and replication
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Forward rate curve
+- GARCH models and volatility forecasting
+- HJM model dynamics
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Levy processes and jump diffusion
+- Monte Carlo simulation for derivatives
+- Numerical methods for PDEs
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Risk-neutral world
+- Stochastic differential equation
+- Value at Risk (VaR) and risk metrics
+- Zero coupon bond
 ---
+
 
 # [](../6.%20A%20Brief%20Introduction%20to%20Stochastic%20Calculus.md#3%20Some%20Specific%20Models | Implementing%20Heath,%20Jarrow%20&%20Merton%20(HJM)%20Model)
 # 1.1 HJM model by Monte Carlo Simulation.

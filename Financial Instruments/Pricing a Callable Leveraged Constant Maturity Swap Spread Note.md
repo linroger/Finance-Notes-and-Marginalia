@@ -1,37 +1,65 @@
 ---
 tags:
-  - callable_leveraged_cms
-  - cms_spread_note
-  - interest_rate_risk
-  - monte_carlo_simulation
-  - swaption_volatility
-  - structured_products
-  - fixed_income
-  - quantitative_finance
-  - derivative_pricing
+- callable_leveraged_cms
+- cms_spread_note
+- credit
+- credit-derivatives
+- derivative_pricing
+- fixed-income
+- fixed-income-derivatives
+- fixed_income
+- interest-rate-derivatives
+- interest_rate_risk
+- markets
+- model-calibration
+- monte-carlo-simulation
+- monte_carlo_simulation
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- quantitative_finance
+- risk-management
+- stochastic
+- structured_products
+- swaption_volatility
 aliases:
-  - CMS Spread Note
-  - Callable Note
-  - Swap Spread Note
-  - Constant Maturity Swap Note
-  - Leveraged CMS Spread Structure
+- CMS Spread Note
+- Callable Note
+- Swap Spread Note
+- Constant Maturity Swap Note
+- Leveraged CMS Spread Structure
 key_concepts:
-  - CMS spread
-  - Discount curve construction
-  - Implied swaption volatility
-  - Monte Carlo simulation
-  - Stochastic cash flows
-  - Interest rate correlation
-  - Black-76 model
-  - Bermudan option valuation
-  - Term structure modeling
-  - Correlation calibration
-  - Antithetic variance reduction
-  - Interest rate path simulation
-  - Rational call strategy
-  - Yield curve bootstrapping
+- Antithetic variance reduction
+- Arbitrage pricing theory (APT)
+- Bermudan option valuation
+- Black-76 model
+- CMS spread
+- Capital Asset Pricing Model (CAPM)
+- Correlation calibration
+- Delta hedging and Greeks calculation
+- Discount curve construction
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Implied swaption volatility
+- Implied volatility and volatility surface
+- Interest rate correlation
+- Interest rate models and term structure
+- Interest rate path simulation
+- Interest rate swaps and swap pricing
+- Model calibration and parameter estimation
+- Monte Carlo simulation
+- Monte Carlo simulation for derivatives
+- Quasi-Monte Carlo and variance reduction
+- Rational call strategy
+- Stochastic cash flows
+- Term structure modeling
+- Value at Risk (VaR) and risk metrics
+- Yield curve bootstrapping
 cssclasses: academia
 ---
+
 
 # Pricing a Callable Leveraged Constant Maturity Swap Spread Note
 

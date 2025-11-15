@@ -1,34 +1,67 @@
 ---
 cssclasses: academia
-title: Unified Stochastic GBM Model with GARCH, ARCH, Poisson Jump Diffusion, and ARIMA
+title: Unified Stochastic GBM Model with GARCH, ARCH, Poisson Jump Diffusion, and
+  ARIMA
 tags:
-  - arima_model
-  - asset_prices
-  - garch_model
-  - gbm_model
-  - heavy_tails
-  - jump_diffusion
-  - regime_shifts
-  - time_series_model
-  - volatility_clustering
-  - financial_mathematics
-  - stochastic_modeling
+- arbitrage
+- arima_model
+- asset_prices
+- black-scholes-model
+- credit
+- equity-derivatives
+- financial_mathematics
+- fixed-income
+- garch_model
+- gbm_model
+- heavy_tails
+- interest-rate-derivatives
+- jump_diffusion
+- markets
+- martingale-theory
+- mathematics
+- model-calibration
+- monte-carlo-simulation
+- numerical-simulation
+- optimization
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- regime_shifts
+- risk-management
+- stochastic
+- stochastic_modeling
+- time_series_model
+- volatility_clustering
 aliases:
-  - ARIMA-Driven Drift
-  - GARCH Jump-Diffusion
-  - Regime-Switching Model
-  - Unified Stochastic Process
+- ARIMA-Driven Drift
+- GARCH Jump-Diffusion
+- Regime-Switching Model
+- Unified Stochastic Process
 key_concepts:
-  - Asset price dynamics
-  - Heavy-tailed distributions
-  - Regime-dependent volatility
-  - Time-varying drift
-  - Volatility clustering
-  - Stochastic differential equations
-  - Exponential jump diffusion
-  - GARCH volatility model
-  - Parameter calibration
+- Arbitrage pricing theory (APT)
+- Asset price dynamics
+- Basel III regulatory framework
+- Brownian motion and Wiener processes
+- Capital Asset Pricing Model (CAPM)
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Exponential jump diffusion
+- GARCH models and volatility forecasting
+- GARCH volatility model
+- Heavy-tailed distributions
+- Model calibration and parameter estimation
+- Monte Carlo simulation for derivatives
+- Parameter calibration
+- Regime-dependent volatility
+- Risk-neutral valuation and martingale measures
+- Stochastic differential equations
+- Time-varying drift
+- VaR backtesting and model validation
+- Value at Risk (VaR) and risk metrics
+- Volatility clustering
 ---
+
 
 # A Regime-Switching GARCH Jump-Diffusion Model with ARIMA-Driven Drift for Asset Prices
 

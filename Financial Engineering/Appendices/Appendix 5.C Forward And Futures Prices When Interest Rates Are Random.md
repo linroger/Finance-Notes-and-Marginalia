@@ -1,23 +1,49 @@
 ---
-cssclasses:
-  - academia
-title: "Appendix 5.C Forward And Futures Prices When Interest Rates Are Random"
-tags:
-  - forward-prices
-  - futures-prices
-  - interest-rates
-  - money-market-account
-  - stochastic-calculus
 aliases:
-  - Appendix 5.C
-  - Forward vs. Futures
-  - Stochastic Interest Rates
+- Appendix 5.C
+- Forward vs. Futures
+- Stochastic Interest Rates
+cssclasses:
+- academia
 key_concepts:
-  - Continuous time formula
-  - Forward price formula
-  - Futures price derivation
-  - Money-market account
-  - Replicating fully funded contracts
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Appendix 5.C Forward And Futures Prices When Interest Rates Are Random and financial
+  analysis
+- Appendix 5.C Forward And Futures Prices When Interest Rates Are Random in modern
+  finance
+- Applications of Appendix 5.C Forward And Futures Prices When Interest Rates Are
+  Random
+- 'Case study: Appendix 5.C Forward And Futures Prices When Interest Rates Are Random'
+tags:
+- maturity
+- forward
+- strategy
+- bonds
+- futures
+- yield
+- portfolio
+- fixed-income
+- bond
+- interest-rate
+- interest-rates
+- algorithmic-trading
+- coupon
+- cash flow
+title: Appendix 5.C Forward And Futures Prices When Interest Rates Are Random
 ---
 
 # Appendix 5.C Forward And Futures Prices When Interest Rates Are Random

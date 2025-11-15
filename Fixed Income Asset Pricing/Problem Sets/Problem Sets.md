@@ -1,4 +1,29 @@
 ---
+tags:
+- financial-instruments/option
+- financial-markets/fixed income
+- quantitative-methods/risk management
+- risk-management
+- derivatives-pricing
+- educational-level/introductory
+- professional-context/risk-management
+key_concepts:
+- option pricing models and theory
+- risk management and portfolio optimization
+- portfolio theory and optimization
+- financial mathematics and quantitative analysis
+- derivatives and structured products
+- risk management and portfolio optimization
+- stochastic processes in finance
+- mathematical modeling and simulation
+type: note
+status: active
+academic_level: graduate
+professional_application: practical
+institutional_standard: true
+---
+
+
 title: Problem Sets
 tags:
   - course_introduction
@@ -16,18 +41,3 @@ key_concepts:
   - risk management
   - valuation techniques
 ---
-
-# Problem Sets
-
-%% Begin Waypoint %%
-- **Problem Sets**
-	- BUS 35130 SPRING 2024 SOLUTION TO HOMEWORK 1
-	- Fixed Income Assignments LATEX Completed.md .gitFinderDeleted
-	- Fixed Income HW Assignments.md .gitFinderDeleted
-	- Fixed Income HW LaTeX Files.md .gitFinderDeleted
-	- Fixed Income Python Code.md .gitFinderDeleted
-	- Problem Sets
-	- PSET II Fixed Income Asset Pricing 1
-	- PSET VI Fixed Income
-
-%% End Waypoint %%

@@ -1,3 +1,32 @@
+---
+key_concepts:
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Part VII Introduction and financial analysis
+- Part VII Introduction in modern finance
+- Applications of Part VII Introduction
+- 'Case study: Part VII Introduction'
+tags:
+- libor
+- securitization
+- regulation
+- mbs
+- subprime
+- bankruptcy
+- interest-rate
+- interest-rates
+---
+
 # The 2007–2009 Financial Crisis and Other Financial Crises  
 
 “In its analysis of the crisis, my testimony before the Financial Crisis Inquiry Commission drew the distinction between triggers and vulnerabilities. The triggers of the crisis were the particular events or factors that touched off the events of 2007–2009 – the proximate causes, if you will. Developments in the market for subprime mortgages were a prominent example of a trigger of the crisis. In contrast, the vulnerabilities were the structural, and more fundamental, weaknesses in the financial system and in regulation and supervision that served to propagate and amplify the initial shocks.”  

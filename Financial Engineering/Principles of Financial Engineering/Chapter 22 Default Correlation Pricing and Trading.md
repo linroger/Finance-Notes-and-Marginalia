@@ -1,29 +1,65 @@
 ---
 title: Default Correlation Pricing and Trading
 tags:
-  - default-correlation
-  - credit-derivatives
-  - correlation-trading
-  - financial-engineering
-  - copulas
-  - cdo-pricing
-  - credit-risk
-  - correlation-models
+- binomial-model
+- black-scholes-model
+- cdo-pricing
+- copulas
+- correlation-models
+- correlation-trading
+- credit
+- credit-derivatives
+- credit-risk
+- default-correlation
+- equity-derivatives
+- financial-engineering
+- fixed-income
+- fixed-income-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- monte-carlo-simulation
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- stochastic
 aliases:
-  - Chapter 22 Default Correlation
-  - Correlation Trading
-  - Credit Correlation Models
+- Chapter 22 Default Correlation
+- Correlation Trading
+- Credit Correlation Models
 key_concepts:
-  - Default correlation
-  - Correlation trading
-  - Copula models
-  - CDO tranches
-  - Base correlation
-  - Implied correlation
-  - Correlation risk
-  - Portfolio credit models
+- Arbitrage pricing theory (APT)
+- Asian options and average price derivatives
+- Base correlation
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- CDO tranches
+- Copula models
+- Correlation risk
+- Correlation trading
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Default correlation
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Implied correlation
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Monte Carlo simulation for derivatives
+- Option Greeks and sensitivity analysis
+- Portfolio credit models
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 cssclasses: academia
 ---
+
 
 # DEFAULT CORRELATION PRICING AND TRADING  
 

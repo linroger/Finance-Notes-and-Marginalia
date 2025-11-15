@@ -1,21 +1,37 @@
 ---
-title: Appendix 25. A Constructing the BDT Tree
-tags:
-  - bdt_tree
-  - black_derman_toy
-  - bond_pricing
-  - yield_volatility
-  - zero_coupon_bond
 aliases:
-  - BDT Tree Construction
-  - Constructing BDT Tree
-  - Verifying Yields
+- BDT Tree Construction
+- Constructing BDT Tree
+- Verifying Yields
 key_concepts:
-  - 1-year yield calculation
-  - 2-year bond price
-  - BDT tree verification
-  - Building tree outward
-  - Yield volatility matching
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Appendix 25. A Constructing the BDT Tree and financial analysis
+- Appendix 25. A Constructing the BDT Tree in modern finance
+- Applications of Appendix 25. A Constructing the BDT Tree
+- 'Case study: Appendix 25. A Constructing the BDT Tree'
+tags:
+- options
+- bonds
+- put
+- swaps
+- yield
+- fixed-income
+- bond
+- coupon
+- volatility
+- irs
+title: Appendix 25. A Constructing the BDT Tree
 ---
 
 # Appendix 25. A Constructing the BDT Tree

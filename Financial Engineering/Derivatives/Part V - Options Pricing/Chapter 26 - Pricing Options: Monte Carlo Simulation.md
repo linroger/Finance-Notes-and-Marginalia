@@ -1,21 +1,45 @@
 ---
-tags:
-  - brownian_motion
-  - european_options
-  - monte_carlo_simulation
-  - risk_neutral_valuation
-  - stochastic_process
 aliases:
-  - Brownian Motion
-  - Greeks
-  - MCS
-  - RNV
+- Brownian Motion
+- Greeks
+- MCS
+- RNV
 key_concepts:
-  - Calculate the Greeks
-  - Complex option pricing
-  - Pricing options with MCS
-  - Reduce computational time
-  - Stochastic path for asset
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Monte Carlo simulation methods
+- Stochastic processes in finance
+- Path-dependent derivatives pricing
+- Financial econometrics and regression
+- Time series analysis in finance
+- Volatility modeling (GARCH)
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- 'Chapter 26 - Pricing Options: Monte Carlo Simulation and financial analysis'
+- 'Chapter 26 - Pricing Options: Monte Carlo Simulation in modern finance'
+- 'Applications of Chapter 26 - Pricing Options: Monte Carlo Simulation'
+- 'Case study: Chapter 26 - Pricing Options: Monte Carlo Simulation'
+tags:
+- stochastic
+- options
+- put
+- theta
+- simulation
+- var
+- strike
+- statistical
+- gamma
+- vega
+- call
+- delta
+- monte-carlo
+- regression
+- correlation
 ---
 # Pricing Options: Monte Carlo Simulation  
 

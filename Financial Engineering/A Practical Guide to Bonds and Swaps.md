@@ -1,42 +1,47 @@
 ---
-tags:
-  - bonds
-  - fixed_income
-  - market_risk
-  - pv_valuation
-  - swaps
-  - interest_rate_swaps
-  - derivatives
-  - yield_curves
-  - duration
-  - convexity
-  - hedging
-  - credit_spreads
 aliases:
-  - Bond and Swap Guide
-  - Fixed Income Markets
-  - Practical Guide
-  - Fixed Income Capital Markets Guide
-  - Bond and Swap Valuation Manual
-key_concepts:
-  - Bond market overview
-  - Fixed income markets
-  - Mark-to-market valuation
-  - Present value (PV)
-  - Swap market introduction
-  - Bond risk measures (BPV, DV01)
-  - Duration concepts (Modified, Macaulay's)
-  - Yield to maturity calculations
-  - Clean price vs dirty price
-  - Accrued interest conventions
-  - Interest rate hedging strategies
-  - Swap valuation methodology
-  - Fixed-floating interest rate swaps
-  - Credit arbitrage in swap markets
-  - Convexity and second-order risk
-  - Yield curve risk management
-  - Swap spread risk
+- Bond and Swap Guide
+- Fixed Income Markets
+- Practical Guide
+- Fixed Income Capital Markets Guide
+- Bond and Swap Valuation Manual
 cssclasses: academia
+key_concepts:
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- A Practical Guide to Bonds and Swaps and financial analysis
+- A Practical Guide to Bonds and Swaps in modern finance
+- Applications of A Practical Guide to Bonds and Swaps
+- 'Case study: A Practical Guide to Bonds and Swaps'
+tags:
+- roll
+- corporate-bond
+- irs
+- futures
+- dv01
+- fixed-income
+- basis
+- liquidity
+- maturity
+- forward
+- swaps
+- bond
+- trading
+- spread
+- coupon
 ---
 
 # A PRACTICAL GUIDE TO BONDS AND SWAPS  

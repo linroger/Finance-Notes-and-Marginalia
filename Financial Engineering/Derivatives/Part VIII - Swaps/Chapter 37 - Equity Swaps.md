@@ -1,22 +1,46 @@
 ---
-tags:
-  - asset_swap
-  - cross_currency_swap
-  - equity_for_libor
-  - equity_swaps
-  - outperformance_swaps
 aliases:
-  - Asset Swap
-  - Equity Linked Deposit
-  - Equity Swap
-  - Relative Performance Swaps
-  - Two-index Swaps
+- Asset Swap
+- Equity Linked Deposit
+- Equity Swap
+- Relative Performance Swaps
+- Two-index Swaps
 key_concepts:
-  - Asset swap description
-  - Equity-for-LIBOR swap pricing
-  - Gain market exposure
-  - Low cost portfolio change
-  - Value equity swap
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Chapter 37 - Equity Swaps and financial analysis
+- Chapter 37 - Equity Swaps in modern finance
+- Applications of Chapter 37 - Equity Swaps
+- 'Case study: Chapter 37 - Equity Swaps'
+tags:
+- libor
+- credit
+- swap
+- currency-swap
+- discount
+- swaps
+- portfolio
+- var
+- hedging
+- interest-rate
+- interest-rates
+- portfolio-optimization
+- arbitrage
+- irs
+- risk-management
 ---
 # Equity Swaps  
 

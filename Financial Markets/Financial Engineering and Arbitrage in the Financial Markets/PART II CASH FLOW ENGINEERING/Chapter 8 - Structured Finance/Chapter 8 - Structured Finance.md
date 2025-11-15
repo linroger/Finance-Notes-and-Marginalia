@@ -1,23 +1,58 @@
-%% Begin Waypoint %%
-- **Chapter 8 - Structured Finance**
-	- A Simple Classification of Structured Notes
-	- Chapter 8 - Structured Finance
-	- Interest Rate and Yield Curve-Based Structured
-	- Structured Finance 203
-
-%% End Waypoint %%
-
-8 Structured Finance 203  
-8.1 A Simple Classification of Structured Notes 204   
-8.2 Interest Rate and Yield Curve-Based Structured Products 206   
-8.2.1 An Inverse Floater 206   
-8.2.2 A Leveraged Inverse Floater 209   
-8.2.3 A Capped Floater 211   
-8.2.4 A Callable 211   
-8.2.5 A Range Floater 212   
-8.2.6 An Index Principal Swap 212   
-8.3 Asset Class-Linked Notes 213   
-8.3.1 Principal-Protected Equity-Linked Notes 213   
-8.3.2 A (Rainbow) Multi-Asset-Linked Note 216   
-8.3.3 Principal-At-Risk Notes and Commodity-Tracking ETNs 216   
-8.4 Insurance Risk Structured Products 219
+---
+tags:
+- apt
+- artificial-intelligence
+- banking
+- corporate-finance
+- credit-markets
+- derivatives
+- financial-markets
+- financial-modeling
+- fixed-income
+- interest-rate-swap
+- quantitative-finance
+- risk-management
+- sifi
+- structured-finance
+- yield-curve
+key_concepts:
+- Agricultural futures and seasonality
+- Alternative investments and hedge fund strategies
+- Asset swaps and spread-lock strategies
+- Barrier options and knock-in/knock-out structures
+- Basis swaps and cross-currency basis adjustments
+- Basis swaps and floating rate correlations
+- Behavioral finance and market anomalies
+- Best execution and regulatory requirements
+- Bid-ask spreads and market making profitability
+- Black-Litterman model and portfolio optimization
+- CDO structuring and tranche allocation methodologies
+- CDO-squared structures and correlation trading
+- Calendar spreads and roll strategies
+- Capital Asset Pricing Model (CAPM) and beta estimation
+- Central clearing and CCP risk management
+- Commodity futures and convenience yields
+- Commodity swaps and energy derivatives
+- Crack spreads in energy markets
+- Credit risk assessment and loan pricing
+- Cryptocurrency valuation and blockchain technology
+- Currency swaps and cross-currency basis
+- Dark pools and alternative trading venues
+- DeFi protocols and decentralized finance
+- Deposit insurance and systemic risk
+- Duration and convexity for bond price sensitivity
+- ESG investing and sustainability metrics
+- Enterprise value and equity value relationships
+- Equity swaps and total return swaps
+- Exotic derivatives and path-dependent options
+- FX futures and currency hedging
+- Fama-French three-factor and five-factor models
+- Fintech disruption and digital banking
+- Gamma trading and convexity adjustments
+- Green bonds and climate risk assessment
+- HJM and forward rate model frameworks
+- Historical simulation and parametric VaR approaches
+- Hull-White and Black-Karasinski short rate models
+- IPO pricing and underpricing analysis
+- Implied volatility and volatility surface modeling
+-

@@ -1,31 +1,68 @@
 ---
 tags:
-  - corporate_bond
-  - credit_risk
-  - lehman_brothers
-  - option_adjusted_spread
-  - z_spread
-  - fixed_income
-  - bond_valuation
-  - interest_rate_models
+- binomial-model
+- bond_valuation
+- corporate_bond
+- credit
+- credit-derivatives
+- credit_risk
+- fixed-income
+- fixed-income-derivatives
+- fixed_income
+- hedging-strategies
+- interest-rate-derivatives
+- interest_rate_models
+- lehman_brothers
+- markets
+- mathematics
+- model-calibration
+- monte-carlo-simulation
+- optimization
+- option-greeks
+- option_adjusted_spread
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- stochastic
+- z_spread
 aliases:
-  - Lehman Brothers OAS
-  - OAS
-  - Z-spread
-  - Black-Karasinski model
+- Lehman Brothers OAS
+- OAS
+- Z-spread
+- Black-Karasinski model
 key_concepts:
-  - Callable corporate bond
-  - Discounted cash flow
-  - Treasury and LIBOR curves
-  - Z-spread of security
-  - Zero-coupon interest rates
-  - Option adjusted spread calculation
-  - Stochastic term structure models
-  - Volatility calibration
-  - Hazard rate models
-  - Credit default swap spread
+- Arbitrage pricing theory (APT)
+- Binomial tree models for option pricing
+- Brownian motion and Wiener processes
+- Callable corporate bond
+- Credit default swap spread
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Discounted cash flow
+- Expected Shortfall (ES) and coherent risk measures
+- Hazard rate models
+- Heath-Jarrow-Morton (HJM) framework
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Model calibration and parameter estimation
+- Monte Carlo simulation for derivatives
+- Option Greeks and sensitivity analysis
+- Option adjusted spread calculation
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Stochastic term structure models
+- Treasury and LIBOR curves
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
+- Volatility calibration
+- Z-spread of security
+- Zero-coupon interest rates
 cssclasses: academia
 ---
+
 
 # Explaining the Lehman Brothers Option Adjusted Spread of a Corporate Bond
 

@@ -1,28 +1,45 @@
 ---
-tags:
-  - at_the_money
-  - black_scholes
-  - bopm_model
-  - delta_hedging
-  - gamma_hedging
-  - option_greeks
-  - option_pricing
-  - portfolio_management
-  - underlying_asset
-  - volatility
 aliases:
-  - Delta-Gamma Hedging
-  - Greeks
-  - Option Sensitivities
-  - Portfolio Delta
+- Delta-Gamma Hedging
+- Greeks
+- Option Sensitivities
+- Portfolio Delta
 key_concepts:
-  - 'BOPM: Greek calculation'
-  - Black-Scholes formula
-  - 'Delta hedging: small price changes'
-  - Delta-gamma-vega hedging
-  - 'Gamma hedging: large price changes'
-  - 'Greeks: delta, gamma, rho, vega'
-  - 'Greeks: option price approximation'
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Chapter 28 - The Greeks and financial analysis
+- Chapter 28 - The Greeks in modern finance
+- Applications of Chapter 28 - The Greeks
+- 'Case study: Chapter 28 - The Greeks'
+tags:
+- maturity
+- options
+- futures
+- put
+- bonds
+- yield
+- theta
+- portfolio
+- strike
+- hedging
+- var
+- gamma
+- vega
+- call
+- delta
 ---
 # The Greeks  
 

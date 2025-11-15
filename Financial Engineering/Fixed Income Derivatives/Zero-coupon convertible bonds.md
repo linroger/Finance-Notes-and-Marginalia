@@ -1,24 +1,47 @@
 ---
 tags:
-  - convertible_bonds
-  - equity_play
-  - ocns
-  - quanto_note
-  - volatility
-  - zero_coupon_bonds
+- arbitrage
+- binomial-model
+- black-scholes-model
+- convertible_bonds
+- credit
+- credit-derivatives
+- equity-derivatives
+- equity_play
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- interest-rate-derivatives
+- markets
+- ocns
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- quanto_note
+- risk-management
+- volatility
+- zero_coupon_bonds
 aliases:
-  - Convertible Quanto Note
-  - OCNs
-  - Optional Convertible Notes
+- Convertible Quanto Note
+- OCNs
+- Optional Convertible Notes
 key_concepts:
-  - Downside market protection
-  - Equity play with protection
-  - Exposure to company equity
-  - High upside potential
-  - Implicit yield and trade
-  - No foreign exchange risk
-  - Zero-coupon convertible bonds
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- Delta hedging and Greeks calculation
+- Downside market protection
+- Equity play with protection
+- Expected Shortfall (ES) and coherent risk measures
+- Exposure to company equity
+- High upside potential
+- Implicit yield and trade
+- Interest rate models and term structure
+- No foreign exchange risk
+- Option Greeks and sensitivity analysis
+- Zero-coupon convertible bonds
 ---
+
 
 # [](../1.%20DeterministicCashFlows.md#2%20Fixed%20Income%20Securities | Zero-coupon) convertible bonds
 Zero-coupon convertible bonds or “optional convertible notes” (OCNs) are wellestablished in the market. When they are issued at a discount to par, they exhibit an  implicit yield and trade essentially as coupon convertibles. Similarly, if they are  issued at par but redeemed at a stated price above par, an implicit coupon is paid and  so again these bonds trade in similar fashion to coupon convertibles. A zero-coupon  bond issued at par and redeemed at par is a slightly different instrument for investors  to consider. With these products, the buyer is making more of an equity play than he  is with conventional OCNs, but with an element of capital protection retained.

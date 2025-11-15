@@ -1,21 +1,44 @@
 ---
-tags:
-  - delta_hedging
-  - dynamic_hedging
-  - european_call
-  - greeks
-  - options_portfolio
-  - stock_price
 aliases:
-  - Call Option Delta
-  - Delta Hedging
-  - Delta Neutral
+- Call Option Delta
+- Delta Hedging
+- Delta Neutral
 key_concepts:
-  - Call option premium
-  - Delta hedging
-  - Dynamic delta hedging
-  - Hedge ratio
-  - Rebalancing stock-call portfolio
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Chapter 27 - Delta Hedging and financial analysis
+- Chapter 27 - Delta Hedging in modern finance
+- Applications of Chapter 27 - Delta Hedging
+- 'Case study: Chapter 27 - Delta Hedging'
+tags:
+- maturity
+- forward
+- options
+- futures
+- put
+- bonds
+- portfolio
+- strike
+- hedging
+- var
+- delta
+- call
+- portfolio-optimization
+- hedge-ratio
+- risk-management
 ---
 # THE GREEKS  
 

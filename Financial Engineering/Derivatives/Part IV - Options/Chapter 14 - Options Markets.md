@@ -1,21 +1,45 @@
 ---
-tags:
-  - cboe
-  - market_maker
-  - options_markets
-  - otc_market
-  - strike_price
 aliases:
-  - CBOE
-  - OTC
-  - Options
-  - Options Markets
+- CBOE
+- OTC
+- Options
+- Options Markets
 key_concepts:
-  - Call and put payoffs
-  - ITM, ATM, OTM
-  - Intrinsic and time value
-  - Options market organization
-  - Speculation and insurance
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Chapter 14 - Options Markets and financial analysis
+- Chapter 14 - Options Markets in modern finance
+- Applications of Chapter 14 - Options Markets
+- 'Case study: Chapter 14 - Options Markets'
+tags:
+- maturity
+- credit-risk
+- options
+- bonds
+- put
+- default
+- cds
+- strike
+- bond
+- trading
+- expiry
+- liquidity
+- call
+- treasury
+- spread
 ---
 # OPTIONS  
 

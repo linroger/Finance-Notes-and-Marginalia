@@ -1,21 +1,45 @@
 ---
-cssclasses: academia
-title: Appendix 21. C Solutions for Black-Scholes PDE
-tags:
-  - backward_equation
-  - black_scholes
-  - geometric_brownian_motion
-  - option_pricing
-  - pde
 aliases:
-  - BS equation solutions
-  - Black-Scholes PDE solutions
+- BS equation solutions
+- Black-Scholes PDE solutions
+cssclasses: academia
 key_concepts:
-  - Asset-or-nothing option
-  - Backward equation
-  - Black-Scholes equation
-  - Boundary conditions
-  - General solution
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Black-Scholes-Merton option pricing model
+- Greeks calculation and interpretation
+- Volatility surface and smile
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Appendix 21.C Solutions for Black-Scholes PDE and financial analysis
+- Appendix 21.C Solutions for Black-Scholes PDE in modern finance
+- Applications of Appendix 21.C Solutions for Black-Scholes PDE
+- 'Case study: Appendix 21.C Solutions for Black-Scholes PDE'
+tags:
+- options
+- swaps
+- put
+- strike
+- var
+- black-scholes
+- gamma
+- delta
+- pricing
+- risk
+- beta
+- derivatives
+- irs
+- risk-management
+- market-efficiency
+title: Appendix 21. C Solutions for Black-Scholes PDE
 ---
 
 # Appendix 21. C Solutions for Black-Scholes PDE

@@ -1,24 +1,42 @@
 ---
 tags:
-  - debt_market
-  - interest_rate_swap
-  - libor_rate
-  - repo_rate
-  - swap_spread
+- credit
+- credit-derivatives
+- debt_market
+- derivatives-pricing
+- fixed-income
+- fixed-income-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- interest_rate_swap
+- libor_rate
+- markets
+- repo_rate
+- risk-management
+- swap_spread
 aliases:
-  - Interest Rate Swap Curve
-  - Par Swap
-  - Swap Curve
-  - Swap Spread Fair Value
+- Interest Rate Swap Curve
+- Par Swap
+- Swap Curve
+- Swap Spread Fair Value
 key_concepts:
-  - Fair Value Swap Spread
-  - Fixed and Floating Legs
-  - Government Bond Yields
-  - Interest Rate Swaps
-  - Libor and Repo Rates
-  - Swap Curve Benchmark
-  - Swap Spread Definition
+- Arbitrage pricing theory (APT)
+- Credit risk and default probability
+- Expected Shortfall (ES) and coherent risk measures
+- Fair Value Swap Spread
+- Fixed and Floating Legs
+- Government Bond Yields
+- Interest Rate Swaps
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Libor and Repo Rates
+- Portfolio optimization and mean-variance theory
+- Swap Curve Benchmark
+- Swap Spread Definition
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 
 # Determining the Expression for the Fair Value of the Swap Spread
 

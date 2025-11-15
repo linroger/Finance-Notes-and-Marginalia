@@ -1,11 +1,23 @@
 ---
-title: "Week 9 - Advanced Financial Analysis and Valuation"
-linter-yaml-title-alias: "Week 9 - Advanced Financial Analysis and Valuation"
-aliases: [Week 9 Navigation, Information Risks Week]
-date created: Tuesday, November 26th 2024, 9:15:30 pm
+aliases:
+- Week 9 Navigation
+- Information Risks Week
 cssclasses: academia
-tags: [waypoint, week_9, information_risks, accounting_differences, platform_businesses, zoom_case, international_accounting, advanced_financial_analysis]
-key_concepts: [information risk analysis, accounting standard differences, platform business valuation, network effects, zoom case study, international accounting harmonization, gaap vs ifrs]
+date created: Tuesday, November 26th 2024, 9:15:30 pm
+key_concepts:
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Week 9 and financial analysis
+- Week 9 in modern finance
+- Applications of Week 9
+- 'Case study: Week 9'
+- Financial markets and institutions
+linter-yaml-title-alias: Week 9 - Advanced Financial Analysis and Valuation
+tags:
+- accounting
+- valuation
+title: Week 9 - Advanced Financial Analysis and Valuation
 ---
 
 # Week 9 - Advanced Financial Analysis and Valuation

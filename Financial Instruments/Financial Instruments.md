@@ -2,29 +2,57 @@
 cssclasses: academia
 title: Financial Instruments
 tags:
-  - binomial_model
-  - delta_hedging
-  - financial_instruments
-  - option_pricing
-  - replication
-  - risk_neutral_valuation
-  - synthetic_options
+- arbitrage
+- binomial-model
+- binomial_model
+- delta_hedging
+- equity-derivatives
+- financial_instruments
+- fixed-income
+- fixed-income-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- option-greeks
+- option_pricing
+- options
+- options-pricing
+- quantitative-pricing
+- replication
+- risk-management
+- risk_neutral_valuation
+- stochastic
+- synthetic_options
 aliases:
-  - Binomial Option Pricing
-  - Delta Hedging Example
-  - Financial Instruments Notes
+- Binomial Option Pricing
+- Delta Hedging Example
+- Financial Instruments Notes
 key_concepts:
-  - Call option payoff
-  - Delta hedging
-  - One period binomial model
-  - Risk-free rate of return
-  - Risk-neutral probabilities
-  - Synthetic option creation
-  - Underlying security price
-  - Option elasticity
-  - Binomial coefficients
-  - Digital and barrier options
+- Arbitrage pricing theory (APT)
+- Asian options and average price derivatives
+- Barrier options and knock-in/knock-out features
+- Binomial coefficients
+- Binomial tree models for option pricing
+- Call option payoff
+- Capital Asset Pricing Model (CAPM)
+- Complete markets and replication
+- Delta hedging
+- Delta hedging and Greeks calculation
+- Digital and barrier options
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- One period binomial model
+- Option elasticity
+- Portfolio optimization and mean-variance theory
+- Risk-free rate of return
+- Risk-neutral probabilities
+- Risk-neutral valuation and martingale measures
+- Synthetic option creation
+- Underlying security price
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Financial Instruments
 

@@ -1,20 +1,42 @@
 ---
 tags:
-  - domestic_equity
-  - portfolio_risk
-  - single_index_model
-  - var_calculation
-  - vcv_method
+- domestic_equity
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- portfolio_risk
+- risk-management
+- single_index_model
+- var_calculation
+- vcv_method
 aliases:
-  - SIM
-  - Value at Risk
+- SIM
+- Value at Risk
 key_concepts:
-  - Coupon bond as zero-coupon
-  - Portfolio of foreign stocks
-  - Reduce VaR computations
-  - Single index model (SIM)
-  - VaR for portfolio of options
+- Arbitrage pricing theory (APT)
+- Capital Asset Pricing Model (CAPM)
+- Coupon bond as zero-coupon
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Monte Carlo simulation for derivatives
+- Portfolio of foreign stocks
+- Portfolio optimization and mean-variance theory
+- Reduce VaR computations
+- Single index model (SIM)
+- VaR for portfolio of options
+- Value at Risk (VaR) and risk metrics
 ---
+
 # VaR: Other Portfolios  
 
 # Aims  

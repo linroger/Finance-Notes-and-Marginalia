@@ -1,34 +1,57 @@
-%% Begin Waypoint %%
-- **Chapter 6 Options on Non-Price Variables**
-	- Arbitrage-Free Interest Rate Models
-	- Black Models for Bond Price Options Capsfloors
-	- Chapter 6 Options on Non-Price Variables
-	- Convexity-Adjusted Models for LIBOR Forwards Qu
-	- Exotic Interest Rate Options
-
-%% End Waypoint %%
-
-6 Options on Non-Price Variables 155  
-6.1 Black Models For Bond Price Options, Caps/Floors, and European Swaptions 156   
-6.1.1 Options on Bond Prices 156   
-6.1.2 Cap and Floor Definitions. 158   
-6.1.3 Relationship of Caps and Floors to FRAs and Swaps 159   
-6.1.4 A Cap Application 160   
-6.1.5 Pricing of Caps and Floors 163   
-6.1.6 European Swaption Definitions 164   
-6.1.7 Options to Cancel Swaps 165   
-6.1.8 Relationship of Swaptions to Forward Swaps 165   
-6.1.9 Pricing of European Swaptions 167   
-6.1.10 Limitations of the Black Model 168   
-6.2 Convexity-Adjusted Models For Libor Forwards, Quantos, and Constant Maturity Swaps 168   
-6.2.1 Convexity Adjustment for Eurodollar Futures 169   
-6.2.2 Convexity Adjustment for CMS Options 170   
-6.2.3 Quanto Adjustments 171   
-6.3 Arbitrage-Free Interest Rate Models 172   
-6.3.1 Short Rate Models 173   
-6.3.2 Trinomial Trees and Calibration 174   
-6.3.3 The Heath-Jarrow-Morton Model and the LIBOR Market Model 176   
-6.3.4 Bermudan Swaptions and Multifactor Models 180   
-6.4 Exotic Interest Rate Options 181   
-6.4.1 Periodic Caps 181   
-6.4.2 Digitals and Ranges 181
+---
+tags:
+- apt
+- bond-pricing
+- convexity
+- defi
+- factor-models
+- forward-contracts
+- futures-contracts
+- interest-rate-swap
+- libor
+- ma
+- rwa
+- swaption
+- value-at-risk
+- var
+key_concepts:
+- Agricultural futures and seasonality
+- Alternative investments and hedge fund strategies
+- American vs European options and early exercise features
+- Arbitrage Pricing Theory (APT) and factor models
+- Asset swaps and spread-lock strategies
+- Barrier options and knock-in/knock-out structures
+- Basis swaps and cross-currency basis adjustments
+- Basis swaps and floating rate correlations
+- Behavioral finance and market anomalies
+- Best execution and regulatory requirements
+- Bid-ask spreads and market making profitability
+- Binomial option pricing model with multi-period trees
+- Black-Litterman model and portfolio optimization
+- Black-Scholes option pricing model and its applications
+- Bond portfolio immunization strategies
+- CDO structuring and tranche allocation methodologies
+- CDO-squared structures and correlation trading
+- Calendar spreads and roll strategies
+- Capital Asset Pricing Model (CAPM) and beta estimation
+- Central bank digital currencies (CBDCs)
+- Central clearing and CCP risk management
+- Commodity futures and convenience yields
+- Commodity swaps and energy derivatives
+- Constant maturity swaps and roll-over features
+- Corporate bond pricing and credit spread decomposition
+- Crack spreads in energy markets
+- Credit default swaps and credit protection mechanisms
+- Credit valuation adjustment (CVA) and counterparty risk
+- Cryptocurrency valuation and blockchain technology
+- Currency swaps and cross-currency basis
+- Dark pools and alternative trading venues
+- DeFi protocols and decentralized finance
+- Deposit insurance and systemic risk
+- Dividend discount model (DDM) applications
+- Duration and convexity for bond price sensitivity
+- ESG investing and sustainability metrics
+- Enterprise value and equity value relationships
+- Equity swaps and total return swaps
+- Exotic derivatives and path-dependent options
+- F

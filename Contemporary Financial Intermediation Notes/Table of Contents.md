@@ -1,3 +1,37 @@
+---
+key_concepts:
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Table of Contents and financial analysis
+- Table of Contents in modern finance
+- Applications of Table of Contents
+- 'Case study: Table of Contents'
+tags:
+- credit
+- regulatory
+- credit-risk
+- regulation
+- cds
+- var
+- liquidity
+- risk
+- balance sheet
+- risk-management
+---
+
 # Contemporary Financial Intermediation - Table of Contents
 
 ## Introduction

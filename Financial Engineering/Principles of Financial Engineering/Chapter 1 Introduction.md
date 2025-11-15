@@ -1,22 +1,50 @@
 ---
 title: Introduction
 tags:
-  - financial_engineering
-  - introduction
-  - money_market
-  - swap_market
-  - volatility_trading
+- credit
+- credit-derivatives
+- equity-derivatives
+- financial_engineering
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- introduction
+- ito-calculus
+- markets
+- money_market
+- option-greeks
+- options
+- options-pricing
+- risk-management
+- stochastic
+- swap_market
+- volatility_trading
 aliases:
-  - Financial Engineering Introduction
-  - Introduction to Financial Engineering
+- Financial Engineering Introduction
+- Introduction to Financial Engineering
 key_concepts:
-  - Financial engineering principles
-  - Money market problems
-  - Swap contracts
-  - Taxation considerations
-  - Volatility trading
+- Arbitrage pricing theory (APT)
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Financial engineering principles
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Money market problems
+- Portfolio optimization and mean-variance theory
+- Swap contracts
+- Taxation considerations
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
+- Volatility trading
 cssclasses: academia
 ---
+
 
 # INTRODUCTION  
 

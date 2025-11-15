@@ -1,21 +1,53 @@
 ---
 tags:
-  - barrier_options
-  - black_scholes
-  - exotic_options
-  - option_pricing
-  - path_dependent
+- arbitrage
+- barrier_options
+- binomial-model
+- black-scholes-model
+- black_scholes
+- equity-derivatives
+- exotic_options
+- fixed-income
+- fixed-income-derivatives
+- hedging-strategies
+- ito-calculus
+- mathematics
+- monte-carlo-simulation
+- numerical-simulation
+- option-greeks
+- option_pricing
+- options
+- options-pricing
+- path_dependent
+- pde-methods
+- quantitative-pricing
+- risk-management
+- stochastic
 aliases:
-  - Barrier Option Pricing
-  - Knock-in Options
-  - Knock-out Options
+- Barrier Option Pricing
+- Knock-in Options
+- Knock-out Options
 key_concepts:
-  - Advantages for buyer/writer
-  - Analytical pricing solution
-  - Barrier option properties
-  - Continuous vs discrete monitoring
-  - Option valuation techniques
+- Advantages for buyer/writer
+- Analytical pricing solution
+- Barrier option properties
+- Barrier options and knock-in/knock-out features
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- Brownian motion and Wiener processes
+- Continuous vs discrete monitoring
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Ito's Lemma and stochastic calculus
+- Monte Carlo simulation for derivatives
+- Numerical methods for PDEs
+- Option valuation techniques
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # [](../7.%20Black%20Scholes%20Model.md#2%20The%20Volatility%20Surface | Exotic%20Options)
 

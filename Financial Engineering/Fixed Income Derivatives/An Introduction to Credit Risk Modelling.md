@@ -1,23 +1,61 @@
 ---
 tags:
-  - credit_derivatives
-  - credit_risk_modeling
-  - default_risk
-  - reduced_form_models
-  - structural_models
+- arbitrage
+- black-scholes-model
+- credit
+- credit-derivatives
+- credit_derivatives
+- credit_risk_modeling
+- default_risk
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- martingale-theory
+- mathematics
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- reduced_form_models
+- risk-management
+- stochastic
+- structural_models
 aliases:
-  - Credit Models
-  - Credit Risk Introduction
+- Credit Models
+- Credit Risk Introduction
 key_concepts:
-  - CAPM and portfolio theory
-  - Credit default swap contracts
-  - Default probability modeling
-  - Default rates and credit ratings
-  - Models of credit risks
-  - Option pricing for bonds
-  - Structural and reduced form models
-  - Valuing default risk claims
+- Barrier options and knock-in/knock-out features
+- Black-Scholes option pricing model
+- Brownian motion and Wiener processes
+- CAPM and portfolio theory
+- Capital Asset Pricing Model (CAPM)
+- Credit default swap contracts
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Default probability modeling
+- Default rates and credit ratings
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Filtrations and adapted processes
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Models of credit risks
+- Numerical methods for PDEs
+- Option pricing for bonds
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Stopping times and optional stopping
+- Structural and reduced form models
+- Value at Risk (VaR) and risk metrics
+- Valuing default risk claims
 ---
+
 
 # An Introduction to Credit Risk Modelling
 

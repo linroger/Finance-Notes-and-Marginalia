@@ -1,29 +1,64 @@
 ---
 title: Principal Protection Techniques
 tags:
-  - principal-protection
-  - cppi
-  - structured-products
-  - financial-engineering
-  - capital-guaranteed
-  - portfolio-insurance
-  - dynamic-hedging
-  - risk-management
+- black-scholes-model
+- capital-guaranteed
+- cppi
+- credit
+- credit-derivatives
+- dynamic-hedging
+- equity-derivatives
+- financial-engineering
+- fixed-income
+- fixed-income-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- mathematics
+- monte-carlo-simulation
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- portfolio-insurance
+- principal-protection
+- quantitative-pricing
+- risk-management
+- stochastic
+- structured-products
 aliases:
-  - Chapter 23 Principal Protection
-  - CPPI Strategies
-  - Capital Protection Engineering
+- Chapter 23 Principal Protection
+- CPPI Strategies
+- Capital Protection Engineering
 key_concepts:
-  - Principal protection
-  - CPPI (Constant Proportion Portfolio Insurance)
-  - Dynamic portfolio insurance
-  - Gap risk
-  - Leverage constraints
-  - Cushion management
-  - Floor values
-  - Multiplier selection
+- Arbitrage pricing theory (APT)
+- Basel III regulatory framework
+- Black-Scholes option pricing model
+- Brownian motion and Wiener processes
+- CPPI (Constant Proportion Portfolio Insurance)
+- Complete markets and replication
+- Credit default swaps (CDS) pricing
+- Cushion management
+- Delta hedging and Greeks calculation
+- Dynamic portfolio insurance
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Floor values
+- Gap risk
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Leverage constraints
+- Monte Carlo simulation for derivatives
+- Multiplier selection
+- Portfolio optimization and mean-variance theory
+- Principal protection
+- VaR backtesting and model validation
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 cssclasses: academia
 ---
+
 
 # PRINCIPAL PROTECTION TECHNIQUES  
 

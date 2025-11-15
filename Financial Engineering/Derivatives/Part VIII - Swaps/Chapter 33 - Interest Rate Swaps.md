@@ -1,23 +1,46 @@
 ---
-tags:
-  - comparative_advantage
-  - interest_rate_swaps
-  - libor
-  - otc_instruments
-  - plain_vanilla_swaps
-  - swap_dealers
 aliases:
-  - Fixed-for-Floating Swap
-  - IRS
-  - Interest Rate Swap
-  - Swap
-  - Swap Agreements
+- Fixed-for-Floating Swap
+- IRS
+- Interest Rate Swap
+- Swap
+- Swap Agreements
 key_concepts:
-  - Cash flow determination
-  - Convert uncertain cash flows
-  - Principle of comparative advantage
-  - Privately arranged contracts
-  - Role of swap dealers
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Chapter 33 - Interest Rate Swaps and financial analysis
+- Chapter 33 - Interest Rate Swaps in modern finance
+- Applications of Chapter 33 - Interest Rate Swaps
+- 'Case study: Chapter 33 - Interest Rate Swaps'
+tags:
+- libor
+- maturity
+- swap
+- currency-swap
+- swaps
+- bonds
+- yield
+- fixed-income
+- bond
+- liquidity
+- spread
+- treasury
+- interest-rate
+- interest-rates
+- irs
 ---
 # SWAPS  
 

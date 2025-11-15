@@ -1,30 +1,46 @@
 ---
-title: Lectures on Valuation and Security Analysis
-tags:
-  - cost_of_capital
-  - financial_statement_analysis
-  - lecture_notes
-  - security_analysis
-  - valuation
-  - dcf_models
-  - equity_valuation
-  - fundamental_analysis
 aliases:
-  - Financial Analysis
-  - Security Analysis
-  - Valuation Lectures
-  - Financial Valuation Methods
+- Financial Analysis
+- Security Analysis
+- Valuation Lectures
+- Financial Valuation Methods
 key_concepts:
-  - cost of capital calculation
-  - discounted cash flow models
-  - financial statement analysis
-  - intrinsic value estimation
-  - multiples-based valuation
-  - residual income models
-  - security analysis techniques
-  - free cash flow determination
-  - enterprise vs equity valuation
-  - terminal value estimation
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Lectures on Valuation and Security Analysis and financial analysis
+- Lectures on Valuation and Security Analysis in modern finance
+- Applications of Lectures on Valuation and Security Analysis
+- 'Case study: Lectures on Valuation and Security Analysis'
+tags:
+- options
+- alpha
+- theta
+- efficient-market
+- corporate-bond
+- beta
+- put
+- portfolio
+- fixed-income
+- gamma
+- portfolio-optimization
+- market-efficiency
+- maturity
+- bond
+- coupon
+title: Lectures on Valuation and Security Analysis
 ---
 
 # Lectures on Valuation and Security Analysis

@@ -1,21 +1,45 @@
 ---
-tags:
-  - bond_duration
-  - convexity
-  - spot_rates
-  - yield_curve
-  - ytm
 aliases:
-  - Bond Pricing
-  - Chapter 10
-  - Duration
-  - Yield Curve
+- Bond Pricing
+- Chapter 10
+- Duration
+- Yield Curve
 key_concepts:
-  - Convexity adjustment
-  - Duration and bond price
-  - Parallel shift in yield curve
-  - Spot rates and yield curve
-  - YTM changes and bond prices
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- 'Chapter 10 - Bonds: Duration and Convexity and financial analysis'
+- 'Chapter 10 - Bonds: Duration and Convexity in modern finance'
+- 'Applications of Chapter 10 - Bonds: Duration and Convexity'
+- 'Case study: Chapter 10 - Bonds: Duration and Convexity'
+tags:
+- maturity
+- bonds
+- convexity
+- dv01
+- yield
+- yield-curve
+- portfolio
+- fixed-income
+- bond
+- term-structure
+- interest-rate
+- interest-rates
+- portfolio-optimization
+- coupon
+- duration
 ---
 # Bonds: Duration and Convexity  
 

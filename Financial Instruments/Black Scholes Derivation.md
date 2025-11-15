@@ -1,29 +1,53 @@
 ---
 tags:
-  - black_scholes
-  - european_call
-  - geometric_brownian_motion
-  - options_pricing
-  - pde
-  - financial_mathematics
-  - risk_neutral_pricing
+- arbitrage
+- black-scholes-model
+- black_scholes
+- equity-derivatives
+- european_call
+- financial_mathematics
+- geometric_brownian_motion
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- mathematics
+- option-greeks
+- options
+- options-pricing
+- options_pricing
+- pde
+- quantitative-pricing
+- risk-management
+- risk_neutral_pricing
+- stochastic
 aliases:
-  - BS equation
-  - Black-Scholes model
-  - Option pricing derivation
-  - Black-Scholes-Merton model
+- BS equation
+- Black-Scholes model
+- Option pricing derivation
+- Black-Scholes-Merton model
 key_concepts:
-  - Black-Scholes PDE
-  - European call option
-  - Geometric Brownian motion
-  - Risk-free rate
-  - Risk-neutral portfolio
-  - Underlying asset price
-  - Ito's lemma
-  - Delta hedging
-  - No-arbitrage principle
+- Black-Scholes PDE
+- Black-Scholes option pricing model
+- Brownian motion and Wiener processes
+- Delta hedging
+- Delta hedging and Greeks calculation
+- European call option
+- Expected Shortfall (ES) and coherent risk measures
+- Geometric Brownian motion
+- Interest rate models and term structure
+- Ito's Lemma and stochastic calculus
+- Ito's lemma
+- No-arbitrage principle
+- Numerical methods for PDEs
+- Portfolio optimization and mean-variance theory
+- Risk-free rate
+- Risk-neutral portfolio
+- Risk-neutral valuation and martingale measures
+- Underlying asset price
+- Value at Risk (VaR) and risk metrics
 cssclasses: academia
 ---
+
 
 # Black-Scholes Derivation
 

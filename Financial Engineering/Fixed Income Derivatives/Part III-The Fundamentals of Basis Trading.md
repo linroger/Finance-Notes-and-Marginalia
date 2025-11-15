@@ -1,23 +1,43 @@
 ---
 tags:
-  - basis_trading
-  - bond_pricing
-  - ctd_bond
-  - delivery_option
-  - futures_contract
-  - market_analysis
-  - repo_rates
+- arbitrage
+- basis_trading
+- bond_pricing
+- ctd_bond
+- delivery_option
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- futures_contract
+- hedging-strategies
+- interest-rate-derivatives
+- ito-calculus
+- market_analysis
+- options
+- options-pricing
+- repo_rates
+- risk-management
+- stochastic
 aliases:
-  - Basis Trading Fundamentals
-  - CTD Bond Basis
-  - Repo Rate Impact
+- Basis Trading Fundamentals
+- CTD Bond Basis
+- Repo Rate Impact
 key_concepts:
-  - Basis trading considerations
-  - Delivery option impact
-  - Futures price and cash
-  - Market repo rate
-  - Net basis history tracking
+- Arbitrage pricing theory (APT)
+- Basis trading considerations
+- Delivery option impact
+- Expected Shortfall (ES) and coherent risk measures
+- Futures price and cash
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Market repo rate
+- Net basis history tracking
+- Option Greeks and sensitivity analysis
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 
 # 3 The Fundamentals of Basis Trading
 

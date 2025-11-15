@@ -1,33 +1,47 @@
 ---
-title: PSET 7 - Kohler
-cssclasses: academia
-tags:
-  - dcf_analysis
-  - enterprise_value
-  - kohler_co
-  - private_firm_valuation
-  - recapitalization
-  - family_business
-  - corporate_finance
-  - valuation_methods
-  - minority_shareholders
-  - financial_analysis
 aliases:
-  - DCF vs Public
-  - Herbert Kohler
-  - Kohler Valuation
-  - PSET 7
+- DCF vs Public
+- Herbert Kohler
+- Kohler Valuation
+- PSET 7
+cssclasses: academia
 key_concepts:
-  - availability_of_information: "Transparency differences between public and private firms"
-  - control_considerations: "Control premiums and minority discounts in valuations"
-  - dcf_valuation: "Application of discounted cash flow model to private firms"
-  - discount_rate: "Cost of capital adjustments for private firms"
-  - enterprise_value: "Total value of a company before debt obligations"
-  - growth_assumptions: "Long-term strategic planning in private firms"
-  - liquidity_marketability: "Discounts applied for lack of share liquidity"
-  - peer_analysis: "Comparison with similar public companies"
-  - family_ownership: "Preservation of family control and governance"
-  - public_vs_private: "Key valuation differences based on ownership structure"
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- PSET 7- Kohler and financial analysis
+- PSET 7- Kohler in modern finance
+- Applications of PSET 7- Kohler
+- 'Case study: PSET 7- Kohler'
+tags:
+- discount
+- options
+- futures
+- put
+- roll
+- trading
+- liquidity
+- spread
+- call
+- term-structure
+- discount-factors
+- multiple
+- beta
+- valuation
+- market-efficiency
+title: PSET 7 - Kohler
 ---
 
 # PSET 7 - Kohler

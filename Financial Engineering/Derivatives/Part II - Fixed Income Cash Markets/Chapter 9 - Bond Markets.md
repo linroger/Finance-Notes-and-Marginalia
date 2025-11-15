@@ -1,20 +1,44 @@
 ---
-tags:
-  - bond_markets
-  - coupon_bonds
-  - default_risk
-  - spot_yields
-  - zero_coupon_bonds
 aliases:
-  - Bond Pricing
-  - Chapter 9
-  - Yield to Maturity
+- Bond Pricing
+- Chapter 9
+- Yield to Maturity
 key_concepts:
-  - Coupon bond pricing
-  - Default risk in bonds
-  - Risk-free arbitrage profits
-  - Spot rates explained
-  - Zero-coupon bonds analysis
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Yield curve construction and modeling
+- Forward rate calculations
+- Spot and discount factors
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Chapter 9 - Bond Markets and financial analysis
+- Chapter 9 - Bond Markets in modern finance
+- Applications of Chapter 9 - Bond Markets
+- 'Case study: Chapter 9 - Bond Markets'
+tags:
+- yield-curve
+- term-structure
+- corporate-bond
+- spot-rates
+- fixed-income
+- discount-factors
+- forward-rates
+- interest-rate
+- maturity
+- municipal
+- bond
+- coupon
+- duration
+- bonds
+- yield
 ---
 # Bond Markets  
 

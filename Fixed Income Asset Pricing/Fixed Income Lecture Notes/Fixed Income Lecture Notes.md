@@ -1,4 +1,37 @@
 ---
+tags:
+- financial-instruments/basis swap
+- financial-instruments/bond
+- financial-instruments/forward
+- financial-instruments/swap
+- financial-instruments/swaps
+- financial-markets/derivatives
+- financial-markets/fixed income
+- financial-markets/forward
+- quantitative-methods/risk management
+- mathematical-finance/continuous
+- mathematical-finance/forward rate
+- mathematical-finance/interest rate risk
+- mathematics/derivative
+- risk-management
+- derivatives-pricing
+key_concepts:
+- interest rate swaps and swap valuation
+- risk management and portfolio optimization
+- derivatives pricing and valuation methods
+- financial mathematics and quantitative analysis
+- derivatives and structured products
+- risk management and portfolio optimization
+- stochastic processes in finance
+- mathematical modeling and simulation
+type: note
+status: active
+academic_level: graduate
+professional_application: practical
+institutional_standard: true
+---
+
+
 cssclasses: academia
 title: Fixed Income Lecture Notes
 linter-yaml-title-alias: FIXED INCOME LECTURE NOTES
@@ -19,31 +52,3 @@ key_concepts:
   - Interest Rates
   - Yield Curve
 ---
-
-# Fixed Income Lecture Notes
-
-%% Begin Waypoint %%
-- **Fixed Income Lecture Notes**
-	- A Guide to the Front End and Basis Swap Markets
-	- An Overview of the Vasicek Short Rate Model
-	- Fixed Income Asset Pricing Teaching Notes
-	- Fixed Income Lecture Notes
-	- FORWARD RATES AND TERM STRUCTURE
-	- Inflation Swaps
-	- Teaching Note 1-Introduction To Fixed Income Securities
-	- Teaching Note 2- Interest Rate Risk Management And Factors
-	- Teaching Note 3 Understanding The Term Structure Of Interest Rates
-	- Teaching Note 4 Interest Rate Derivatives
-	- Teaching Note 5 Risk Neutral Pricing
-	- Teaching Note 6 Mortgage Backed Securities
-	- Teaching Note 7 A Rundown On Continuous Time Models
-	- Understanding the Term Structure of Interest Rates
-	- Understanding the Yield Curve Notes
-	- Understanding The Yield Curve- Part 1
-	- UNDERSTANDING THE YIELD CURVE- PART 2
-	- Untitled 2.md .gitFinderDeleted
-	- Vasicek Short Rate Model
-	- Yield Curve Extraction Methods-A Comprehensive Analysis .md .gitFinderDeleted
-	- Yield Curve Extraction Methods-A Comprehensive Analysis
-
-%% End Waypoint %%

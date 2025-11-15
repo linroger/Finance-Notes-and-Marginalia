@@ -1,26 +1,63 @@
 ---
 tags:
-  - arbitrage
-  - financial_mathematics
-  - interest_rates
-  - options
-  - probability_theory
+- arbitrage
+- binomial-model
+- black-scholes-model
+- credit
+- equity-derivatives
+- financial_mathematics
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- interest_rates
+- ito-calculus
+- markets
+- martingale-theory
+- option-greeks
+- options
+- options-pricing
+- probability_theory
+- quantitative-pricing
+- risk-management
+- stochastic
 aliases:
-  - FinMath
-  - Financial Math
-  - Intro to FinMath
+- FinMath
+- Financial Math
+- Intro to FinMath
 key_concepts:
-  - Assets, portfolios, arbitrage
-  - Binomial tree pricing
-  - Black-Scholes model
-  - Compound interest, discounting
-  - European/American options
-  - Forward contracts definition
-  - Forward rates and Libor
-  - Futures contracts
-  - Interest rate swaps
-  - Sample space, events, variables
+- Arbitrage pricing theory (APT)
+- Asian options and average price derivatives
+- Assets, portfolios, arbitrage
+- Binomial tree models for option pricing
+- Binomial tree pricing
+- Black-Scholes model
+- Black-Scholes option pricing model
+- Capital Asset Pricing Model (CAPM)
+- Complete markets and replication
+- Compound interest, discounting
+- Delta hedging and Greeks calculation
+- European/American options
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Forward contracts definition
+- Forward rates and Libor
+- Futures contracts
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate models and term structure
+- Interest rate swaps
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Put-call parity and option relationships
+- Risk-neutral valuation and martingale measures
+- Sample space, events, variables
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 
 # Introduction to Financial Mathematics
 

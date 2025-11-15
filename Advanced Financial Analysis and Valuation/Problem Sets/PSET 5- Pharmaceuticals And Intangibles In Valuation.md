@@ -1,33 +1,38 @@
 ---
-title: PSET 5 - Pharmaceuticals and Intangibles in Valuation
-cssclasses: academia
-tags:
-  - dcf_model
-  - intangibles
-  - medfield_pharma
-  - pharmaceuticals
-  - pset_5
-  - valuations
-  - financial_analysis
-  - drug_pipeline
-  - research_advantage
-  - patent_protection
-  - acquisition_analysis
 aliases:
-  - Fleximat Reformulation
-  - Medfield Case
-  - PSET 5
+- Fleximat Reformulation
+- Medfield Case
+- PSET 5
+cssclasses: academia
 key_concepts:
-  - Discounted Cash Flow (DCF) model
-  - Free Cash Flow (FCF) calculation
-  - Fleximat drug reformulation value
-  - Medfield pharmaceuticals valuation
-  - Research and development advantage valuation
-  - Reximet new drug value proposition
-  - Patent protection and drug lifecycle
-  - Terminal value estimation
-  - Intangible asset valuation
-  - Pharmaceutical company acquisitions
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- PSET 5- Pharmaceuticals And Intangibles In Valuation and financial analysis
+- PSET 5- Pharmaceuticals And Intangibles In Valuation in modern finance
+- Applications of PSET 5- Pharmaceuticals And Intangibles In Valuation
+- 'Case study: PSET 5- Pharmaceuticals And Intangibles In Valuation'
+tags:
+- income statement
+- discount
+- swaps
+- options
+- futures
+- basis
+- call
+- accounting
+- valuation
+- irs
+title: PSET 5 - Pharmaceuticals and Intangibles in Valuation
 ---
 
 # PSET 5 - Pharmaceuticals and Intangibles in Valuation

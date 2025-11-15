@@ -1,30 +1,47 @@
 ---
-title: Credit Market Session 2
-tags:
-  - cds
-  - cdx_index
-  - credit_market
-  - etfs
-  - sovereign_bonds
-  - fixed_income
-  - hazard_rate
 aliases:
-  - CDS
-  - CDX
-  - Fixed Income ETFs
-  - Sovereign Bonds
-  - Credit Default Swap
+- CDS
+- CDX
+- Fixed Income ETFs
+- Sovereign Bonds
+- Credit Default Swap
 key_concepts:
-  - cdx index trading
-  - credit default swap
-  - currency devaluation risk
-  - etf basis arbitrage
-  - fixed income etfs
-  - hazard rate model
-  - sovereign bonds
-  - sovereign debt issuers
-  - floating rate bonds
-  - reference interest rates
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Credit Market Session 2 and financial analysis
+- Credit Market Session 2 in modern finance
+- Applications of Credit Market Session 2
+- 'Case study: Credit Market Session 2'
+tags:
+- corporate-bond
+- recovery
+- fixed-income
+- liquidity
+- interest-rate
+- maturity
+- libor
+- credit-risk
+- default
+- bond
+- trading
+- spread
+- coupon
+- bonds
+- yield
+title: Credit Market Session 2
 ---
 
 # Credit Market Session 2

@@ -1,37 +1,41 @@
 ---
-title: Dollar Tree Case Study
-cssclasses:
-  - academia
 aliases:
-  - Dollar Tree Analysis
-  - Dollar Tree Performance Review
-  - DT Case Study
-  - Dollar Tree Retail Study
-tags:
-  - case_study
-  - dollar_tree
-  - dollar_general
-  - financial_ratios
-  - kkr_offer
-  - minimum_wage
-  - peer_comparison
-  - performance_analysis
-  - profit_margins
-  - revenue_growth
-  - discount_retail
-  - competitive_analysis
+- Dollar Tree Analysis
+- Dollar Tree Performance Review
+- DT Case Study
+- Dollar Tree Retail Study
+cssclasses:
+- academia
 key_concepts:
-  - Dollar General performance analysis
-  - Dollar Tree competitive positioning
-  - Minimum wage impact on discount retail
-  - Profit margin compression
-  - ROA and ROE deterioration
-  - Revenue growth decline
-  - Gross margin erosion
-  - SG&A expense deleverage
-  - Inventory management challenges
-  - Operational underperformance
-  - LBO valuation analysis
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Market structure and trading
+- Order types and execution
+- Market making and liquidity provision
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- DOLLAR TREE CASE STUDY and financial analysis
+- DOLLAR TREE CASE STUDY in modern finance
+- Applications of DOLLAR TREE CASE STUDY
+- 'Case study: DOLLAR TREE CASE STUDY'
+tags:
+- income statement
+- futures
+- financial-statement
+- basis
+- trading
+- liquidity
+- multiple
+- pricing
+- accounting
+- valuation
+- statement
+title: Dollar Tree Case Study
 ---
 
 # Dollar Tree Case Study

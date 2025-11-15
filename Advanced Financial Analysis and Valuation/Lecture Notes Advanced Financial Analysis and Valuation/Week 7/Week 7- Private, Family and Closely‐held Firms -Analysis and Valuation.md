@@ -1,11 +1,53 @@
 ---
-title: "Week 7 - Private, Family and Closely-held Firms - Analysis and Valuation"
-linter-yaml-title-alias: "Week 7 - Private, Family and Closely-held Firms - Analysis and Valuation"
-aliases: [Control Rights, Kohler Co Valuation, Marketability Discount Analysis, Private Company Valuation Methods, Family Firm Governance]
-date created: Tuesday, November 26th 2024, 7:45:23 pm
+aliases:
+- Control Rights
+- Kohler Co Valuation
+- Marketability Discount Analysis
+- Private Company Valuation Methods
+- Family Firm Governance
 cssclasses: academia
-tags: [closely_held_firms, control_premium, corporate_governance, dcf_valuation, illiquidity_discount, kohler_case, minority_discount, private_firms, valuation_methods, wacc_calculation, family_business, insider_ownership, total_beta, institutional_environment, related_party_transactions, pyramids, dual_class_shares, investor_protection, emerging_markets]
-key_concepts: [control premium calculation, control rights valuation, corporate governance analysis, dcf and wacc application, illiquidity cost of capital, insider ownership impact, Kohler family case study, lack of marketability discount, total beta approach, valuing private companies, minority discount methodology, private benefits consumption, control enhancing mechanisms, investor protection importance, related party transactions, pyramidal ownership structures, governance premium valuation]
+date created: Tuesday, November 26th 2024, 7:45:23 pm
+key_concepts:
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation and financial
+  analysis
+- Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation in modern
+  finance
+- Applications of Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation
+- 'Case study: Week 7- Private, Family and Closely‐held Firms -Analysis and Valuation'
+linter-yaml-title-alias: Week 7 - Private, Family and Closely-held Firms - Analysis
+  and Valuation
+tags:
+- gaap
+- discount
+- options
+- futures
+- put
+- dividend
+- roll
+- liquidity
+- spread
+- call
+- risk
+- beta
+- accounting
+- pricing
+- market-efficiency
+title: Week 7 - Private, Family and Closely-held Firms - Analysis and Valuation
 ---
 
 # Week 7 - Private, Family and Closely-held Firms - Analysis and Valuation

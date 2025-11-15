@@ -1,35 +1,50 @@
 ---
-cssclasses:
-  - academia
-title: Earnings Before Interest and Taxes (EBIT) Formula and Example
-tags:
-  - ebit
-  - financial_analysis
-  - income_statement
-  - operating_profit
-  - profitability
-  - financial_metrics
-  - performance_evaluation
-  - valuation_tools
-  - corporate_finance
 aliases:
-  - EBIT Calculation
-  - EBIT Formula
-  - Operating Earnings
-  - Profit Before Interest and Taxes
-  - Operating Income
-  - Operating Performance Metric
+- EBIT Calculation
+- EBIT Formula
+- Operating Earnings
+- Profit Before Interest and Taxes
+- Operating Income
+- Operating Performance Metric
+cssclasses:
+- academia
 key_concepts:
-  - Company's core operational performance
-  - EBIT vs EBITDA comparison
-  - Excludes tax and interest expenses
-  - Measures company profitability before financing costs
-  - Revenue minus operating expenses calculation
-  - Financial metric for comparing similar companies
-  - Interest coverage ratio analysis
-  - Enterprise value comparison tool
-  - Operating efficiency measurement
-  - Capital structure independence
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Earnings Before Interest and Taxes (EBIT) Formula and Example and financial analysis
+- Earnings Before Interest and Taxes (EBIT) Formula and Example in modern finance
+- Applications of Earnings Before Interest and Taxes (EBIT) Formula and Example
+- 'Case study: Earnings Before Interest and Taxes (EBIT) Formula and Example'
+tags:
+- gaap
+- credit
+- income statement
+- multiple
+- options
+- bonds
+- futures
+- financial-statement
+- fixed-income
+- bond
+- roll
+- call
+- balance sheet
+- ratio
+- accounting
+title: Earnings Before Interest and Taxes (EBIT) Formula and Example
 ---
 
 # Earnings Before Interest and Taxes (EBIT) Formula and Example

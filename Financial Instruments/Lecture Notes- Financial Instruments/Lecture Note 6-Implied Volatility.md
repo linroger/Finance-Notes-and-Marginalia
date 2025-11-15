@@ -4,24 +4,51 @@ linter-yaml-title-alias: LECTURE NOTE 7-EXOTIC OPTIONS AND DERIVATIVE PRICING BY
   CARLO SIMULATION
 title: Lecture Note 6-Implied Volatility
 tags:
-  - black_scholes
-  - implied_volatility
-  - market_uncertainty
-  - option_pricing
-  - volatility_surface
+- arbitrage
+- binomial-model
+- black-scholes-model
+- black_scholes
+- equity-derivatives
+- fixed-income
+- hedging-strategies
+- implied_volatility
+- interest-rate-derivatives
+- market_uncertainty
+- numerical-simulation
+- option-greeks
+- option_pricing
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- stochastic
+- volatility_surface
 aliases:
-  - BSM
-  - IV
-  - The Smirk
+- BSM
+- IV
+- The Smirk
 key_concepts:
-  - Black-Scholes model issues
-  - Fat tails in returns
-  - Implied volatility definition
-  - Implied volatility surface
-  - Moneyness definition
-  - Stochastic volatility
-  - VIX volatility swaps
+- Binomial tree models for option pricing
+- Black-Scholes model issues
+- Black-Scholes option pricing model
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Fat tails in returns
+- GARCH models and volatility forecasting
+- Implied volatility and volatility surface
+- Implied volatility definition
+- Implied volatility surface
+- Interest rate swaps and swap pricing
+- Moneyness definition
+- Monte Carlo simulation for derivatives
+- Portfolio optimization and mean-variance theory
+- Risk-neutral valuation and martingale measures
+- Stochastic volatility
+- VIX volatility swaps
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Lecture Note 6-Implied Volatility
 - **Title**: Implied Volatility

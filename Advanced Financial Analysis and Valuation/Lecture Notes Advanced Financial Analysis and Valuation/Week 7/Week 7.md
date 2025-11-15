@@ -1,19 +1,18 @@
 ---
-title: Week 7
-tags:
-  - derivatives
-  - financial_analysis
-  - investment
-  - week
-  - week_7
 aliases:
-  - W7
+- W7
 key_concepts:
-  - Derivative instruments
-  - Financial market analysis
-  - Investment strategies
-  - Risk management
-  - Week 7 overview
+- Week 7 and financial analysis
+- Week 7 in modern finance
+- Applications of Week 7
+- 'Case study: Week 7'
+- Financial markets and institutions
+- Risk management and analysis
+- Portfolio theory and optimization
+- Derivative securities and hedging
+tags:
+- valuation
+title: Week 7
 ---
 
 # Week 7

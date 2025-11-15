@@ -1,29 +1,74 @@
 ---
 title: Essentials of Structured Product Engineering
 tags:
-  - structured-products
-  - financial-engineering
-  - exotic-options
-  - hybrid-instruments
-  - retail-products
-  - capital-protected
-  - yield-enhancement
-  - rainbow-options
+- arbitrage
+- black-scholes-model
+- capital-protected
+- credit
+- credit-derivatives
+- equity-derivatives
+- exotic-options
+- financial-engineering
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- hybrid-instruments
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- model-calibration
+- monte-carlo-simulation
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- rainbow-options
+- retail-products
+- risk-management
+- stochastic
+- structured-products
+- yield-enhancement
 aliases:
-  - Chapter 20 Structured Products
-  - Structured Product Engineering
-  - Exotic Product Design
+- Chapter 20 Structured Products
+- Structured Product Engineering
+- Exotic Product Design
 key_concepts:
-  - Structured product design
-  - Capital protection
-  - Yield enhancement
-  - Touch and digital options
-  - Rainbow options
-  - Barrier options
-  - Product decomposition
-  - Risk-return profiles
+- Arbitrage pricing theory (APT)
+- Asian options and average price derivatives
+- Barrier options
+- Barrier options and knock-in/knock-out features
+- Black-Scholes option pricing model
+- Capital Asset Pricing Model (CAPM)
+- Capital protection
+- Complete markets and replication
+- Credit default swaps (CDS) pricing
+- Credit risk and default probability
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- GARCH models and volatility forecasting
+- Heath-Jarrow-Morton (HJM) framework
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Model calibration and parameter estimation
+- Monte Carlo simulation for derivatives
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Product decomposition
+- Rainbow options
+- Risk-neutral valuation and martingale measures
+- Risk-return profiles
+- Structured product design
+- Touch and digital options
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
+- Yield enhancement
 cssclasses: academia
 ---
+
 
 # ESSENTIALS OF STRUCTURED PRODUCT ENGINEERING  
 

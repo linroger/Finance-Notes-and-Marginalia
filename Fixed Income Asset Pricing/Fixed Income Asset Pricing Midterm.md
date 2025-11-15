@@ -1,5 +1,37 @@
 ---
 tags:
+- financial-instruments/coupon
+- financial-instruments/duration
+- financial-instruments/forward
+- financial-instruments/swap
+- financial-instruments/yield
+- quantitative-models/risk-neutral
+- financial-markets/fixed income
+- financial-markets/forward
+- financial-markets/spot
+- quantitative-methods/var
+- mathematical-finance/duration
+- mathematical-finance/forward rate
+- mathematical-finance/risk-neutral
+- risk-management
+- derivatives-pricing
+key_concepts:
+- duration and convexity in fixed income
+- value at risk and tail risk measurement
+- financial mathematics and quantitative analysis
+- derivatives and structured products
+- risk management and portfolio optimization
+- stochastic processes in finance
+- mathematical modeling and simulation
+type: note
+status: active
+academic_level: graduate
+professional_application: practical
+institutional_standard: true
+---
+
+
+tags:
   - asset_pricing
   - fixed_income
   - floating_rate_notes
@@ -17,30 +49,3 @@ key_concepts:
   - Swap Value Inception
   - Term Structure Slope
 ---
-
-# Fixed Income Asset Pricing Midterm Solutions
-
-## INSTRUCTIONS
-- This is a comprehensive solution to the Fixed Income Asset Pricing midterm.
-- Solutions cover three primary questions addressing various aspects of fixed income markets.
-- Answers are detailed and include mathematical derivations and economic intuition.
-
-## Problem Breakdown
-### Question 1: True/False Questions
-#### (1.A) Duration of Floating Rate Notes
-**True**. As discussed in class, floating rate notes reset to par at every coupon date.
-
-#### (1.B) Spot and Forward Rates Relationship
-**True**. The forward rate is a function of the slope of the term structure.
-
-#### (1.C) Swap Value at Inception
-**False**. While designed to have zero value at inception, the swap's value changes over time as interest rates fluctuate.
-
-#### (1.D) Risk-Neutral Probabilities
-**False**. Risk-neutral probabilities are a pricing methodology that embeds risk premiums, not an indication of actual risk neutrality.
-
-#### (1.E) Real Yield Calculation
-**False**. The real yield involves more than simple subtraction of expected inflation/War%20Economies%20and%20Hyperinflation.md) from nominal yield.
-
-## Detailed Solutions
-... [rest of the solutions follow] ...

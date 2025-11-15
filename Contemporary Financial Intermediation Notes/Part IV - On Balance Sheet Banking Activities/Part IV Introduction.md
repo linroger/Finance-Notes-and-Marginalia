@@ -1,3 +1,42 @@
+---
+key_concepts:
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Part IV Introduction and financial analysis
+- Part IV Introduction in modern finance
+- Applications of Part IV Introduction
+- 'Case study: Part IV Introduction'
+tags:
+- maturity
+- libor
+- credit
+- credit-risk
+- collateral
+- discount
+- bonds
+- bankruptcy
+- fixed-income
+- bond
+- trading
+- liquidity
+- treasury
+- interest-rate
+- interest-rates
+---
+
 # Spot Lending and Credit Risk  
 
 “Neither a borrower nor a lender be; for loan oft loses itself and a friend, and borrowing dulls the edge of husbandry.”  

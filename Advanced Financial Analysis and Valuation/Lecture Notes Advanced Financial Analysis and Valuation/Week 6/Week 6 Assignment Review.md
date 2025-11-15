@@ -1,35 +1,48 @@
 ---
+aliases:
+- Blackstone Citigroup Case
+- Loan Portfolio Valuation
+- Week 6 Review
 cssclasses:
-  - academia
-title: Week 6 Assignment Review
+- academia
+key_concepts:
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Week 6 Assignment Review and financial analysis
+- Week 6 Assignment Review in modern finance
+- Applications of Week 6 Assignment Review
+- 'Case study: Week 6 Assignment Review'
 linter-yaml-title-alias: Week 6 Assignment Review
 tags:
-  - bank_regulation
-  - blackstone
-  - citigroup
-  - financial_statements
-  - loan_portfolio
-  - tier_1_capital
-  - bank_run
-  - loan_valuation
-  - regulatory_capital
-aliases:
-  - Blackstone Citigroup Case
-  - Loan Portfolio Valuation
-  - Week 6 Review
-key_concepts:
-  - Citigroup financial statements analysis
-  - Bank regulatory capital requirements
-  - Tier 1 capital ratio impacts
-  - Run on the bank mechanics
-  - Loan portfolio valuation methods
-  - Expected cash flows calculation
-  - Duration mismatch in banking
-  - Loan loss provisions cyclicality
-  - Cost of risky debt computation
-  - Credit market dislocations
-  - Asset sales versus capital raising
-  - Dividend payments during crisis
+- credit
+- income statement
+- default
+- options
+- put
+- recovery
+- financial-statement
+- portfolio
+- cds
+- trading
+- liquidity
+- call
+- portfolio-optimization
+- accounting
+- fair-value
+title: Week 6 Assignment Review
 ---
 
 # Week 6 Assignment Review

@@ -1,37 +1,80 @@
 ---
-cssclasses:
-  - academia
-title: "Class 4: Restructuring Public Debt"
-tags:
-  - bankruptcy
-  - bond_markets
-  - case_studies
-  - corporate_restructuring
-  - debt_restructuring
-  - exchange_offers
-  - exit_consents
-  - public_finance
-  - sovereign_debt
-  - coercive_exchanges
-  - holdout_problem
-  - trust_indenture_act
 aliases:
-  - Class 4 Restructuring
-  - Public Debt Restructuring
-  - Debt Restructuring Outside Bankruptcy
+- Class 4 Restructuring
+- Public Debt Restructuring
+- Debt Restructuring Outside Bankruptcy
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-ed0859
 key_concepts:
-  - Bankruptcy process
-  - Bond markets
-  - Debt restructuring
-  - Exchange offers
-  - Sovereign debt
-  - Coercive exchange offers
-  - Exit consents
-  - Trust Indenture Act
-  - Holdout problem
-  - CIT Group restructuring
-  - Greece bond swap
+- American option pricing in binomial trees
+- Bankruptcy process
+- Binomial option pricing model with multiple time steps
+- Binomial tree models for option pricing
+- Black-Scholes option pricing model
+- Bond markets
+- CIT Group restructuring
+- Capital Structure
+- Coercive exchange offers
+- Computational implementation of binomial option pricing
+- Convergence of binomial model to Black-Scholes solution
+- Corporate Bonds
+- Course Material
+- Cox-Ross-Rubinstein parameter specification
+- Debt capacity analysis in LBO transactions
+- Debt restructuring
+- Distressed Debt
+- Equity returns and value creation mechanisms
+- Exchange offers
+- Exit consents
+- Exit strategies and return maximization
+- Expected Shortfall (ES) and coherent risk measures
+- Greece bond swap
+- High Yield Bonds
+- Holdout problem
+- Interest rate swaps and swap pricing
+- LBO financing sources and covenant structures
+- Leveraged Buyout financial structures and returns
+- Quantitative Implementation
+- Solution
+- Sovereign debt
+- Trust Indenture Act
+tags:
+- bankruptcy
+- binomial-model
+- black-scholes-model
+- bond_markets
+- capital-structure
+- case_studies
+- coercive_exchanges
+- corporate-bonds
+- corporate_restructuring
+- course-material
+- debt_restructuring
+- distressed-debt
+- equity-derivatives
+- exchange_offers
+- exit_consents
+- fixed-income
+- fixed-income-derivatives
+- high-yield-bonds
+- holdout_problem
+- interest-rate-derivatives
+- leveraged-buyouts
+- markets
+- options
+- options-pricing
+- public_finance
+- quantitative-implementation
+- quantitative-pricing
+- solution
+- sovereign_debt
+- trust_indenture_act
+title: 'Class 4: Restructuring Public Debt'
 ---
+
 
 # Class 4: Restructuring Public Debt
 %% Begin Waypoint %%

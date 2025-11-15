@@ -1,3 +1,38 @@
+---
+key_concepts:
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Part III Introduction and financial analysis
+- Part III Introduction in modern finance
+- Applications of Part III Introduction
+- 'Case study: Part III Introduction'
+tags:
+- credit
+- credit-risk
+- options
+- put
+- counterparty
+- var
+- liquidity
+- risk
+- interest-rate
+- interest-rates
+- risk-management
+---
+
 # Bank Risks  
 
 “You got to know when to hold ‘em, know when to fold ‘em. Know when to walk away and know when to run.”  

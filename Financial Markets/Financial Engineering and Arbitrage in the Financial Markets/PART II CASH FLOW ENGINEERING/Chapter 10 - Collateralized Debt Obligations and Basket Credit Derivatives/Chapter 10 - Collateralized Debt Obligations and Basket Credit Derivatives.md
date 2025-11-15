@@ -1,28 +1,56 @@
-%% Begin Waypoint %%
-- **Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives**
-	- Basket Credit Derivatives
-	- Chapter 10 - Collateralized Debt Obligations and Basket Credit Derivatives
-	- Collateralized Debt Obligations and Basket Cred
-	- Collateralized Debt Obligations
-	- Copulas and the Modeling of Default Correlatio
-	- Credit Derivative Indexes
-	- Synthetic CDO Tranche Pricing and Loss Analysi
-
-%% End Waypoint %%
-
-10  Collateralized Debt Obligations and Basket Credit Derivatives  
-10.1 Collateralized Debt Obligations 243   
-10.1.1 Cash CDO 244   
-10.1.2 Synthetic CDO 246   
-10.2 Basket Credit Derivatives 249   
-10.2.1 First-to-Default Basket 249   
-10.2.2 Nth-to-Default Basket, Arbitrage Conditions, and Hedging 251   
-10.2.3 Hedging of Basket Derivatives 252   
-10.3 Copulas and the Modeling of Default Correlation 252   
-10.3.1 A Gaussian Copula 254   
-10.3.2 General Copula Models 255   
-10.4 Synthetic CDO Tranche Pricing and Loss Analysis 256   
-10.4.1 Synthetic CDO Revisited 256   
-10.4.2 Synthetic CDO Pricing and Expected Loss 257   
-10.4.3 Synthetic CDO - Loss Rates, Ratings and the Crisis of 2008 259   
-10.5 Credit Derivative Indexes 260
+---
+tags:
+- apt
+- banking
+- cdo
+- collateralized-debt-obligation
+- credit-markets
+- derivatives
+- financial-markets
+- financial-modeling
+- fixed-income
+- interest-rate-swap
+- irs
+- quantitative-finance
+- risk-management
+- synthetic-cdo
+- tranche-risks
+key_concepts:
+- Agricultural futures and seasonality
+- Alternative investments and hedge fund strategies
+- Arbitrage Pricing Theory (APT) and factor models
+- Asset swaps and spread-lock strategies
+- Barrier options and knock-in/knock-out structures
+- Basis swaps and cross-currency basis adjustments
+- Basis swaps and floating rate correlations
+- Behavioral finance and market anomalies
+- Best execution and regulatory requirements
+- Bid-ask spreads and market making profitability
+- Binomial option pricing model with multi-period trees
+- Black-Litterman model and portfolio optimization
+- Black-Scholes option pricing model and its applications
+- CDO structuring and tranche allocation methodologies
+- CDO-squared structures and correlation trading
+- Calendar spreads and roll strategies
+- Capital Asset Pricing Model (CAPM) and beta estimation
+- Central clearing and CCP risk management
+- Commodity futures and convenience yields
+- Commodity swaps and energy derivatives
+- Corporate bond pricing and credit spread decomposition
+- Crack spreads in energy markets
+- Credit default swaps and credit protection mechanisms
+- Credit risk assessment and loan pricing
+- Credit valuation adjustment (CVA) and counterparty risk
+- Cryptocurrency valuation and blockchain technology
+- Currency swaps and cross-currency basis
+- Dark pools and alternative trading venues
+- DeFi protocols and decentralized finance
+- Delta hedging strategies in options markets
+- Deposit insurance and systemic risk
+- Discounted cash flow (DCF) valuation methodologies
+- Dividend discount model (DDM) applications
+- Duration and convexity for bond price sensitivity
+- ESG investing and sustainability metrics
+- Enterprise value and equity value relationships
+- Equity swaps and total return swaps
+- Exotic derivatives and pat

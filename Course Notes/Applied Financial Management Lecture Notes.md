@@ -1,16 +1,43 @@
 ---
-tags:
-  - corporate_finance
-  - silicon_valley_bank
-  - tvm
 aliases:
-  - AFM Lecture Notes
-  - Finance Overview
+- AFM Lecture Notes
+- Finance Overview
 key_concepts:
-  - Cash flows across time
-  - Investments vs Corporate Finance
-  - Silicon Valley Bank Crisis
-  - Time Value of Money (TVM)
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Applied Financial Management Lecture Notes and financial analysis
+- Applied Financial Management Lecture Notes in modern finance
+- Applications of Applied Financial Management Lecture Notes
+- 'Case study: Applied Financial Management Lecture Notes'
+tags:
+- options
+- alpha
+- theta
+- corporate-bond
+- beta
+- irs
+- put
+- dv01
+- fixed-income
+- gamma
+- market-efficiency
+- maturity
+- swaps
+- municipal
+- bond
 ---
 
 # Introduction & Big Ideas Silicon Valley Bank  

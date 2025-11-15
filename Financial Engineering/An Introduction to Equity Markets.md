@@ -1,23 +1,44 @@
 ---
-tags:
-  - capital_allocation
-  - equity_markets
-  - market_efficiency
-  - shareholders
-  - stock_exchange
 aliases:
-  - Efficient Market Hypothesis
-  - Equity Markets
-  - Stock Exchanges
+- Efficient Market Hypothesis
+- Equity Markets
+- Stock Exchanges
 key_concepts:
-  - Acquisition motives
-  - Benefits of stock exchange
-  - Efficient capital allocation
-  - Level playing field
-  - Liquid stock exchanges
-  - NPV decision rule
-  - Public company reporting
-  - Shareholder wealth
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Financial econometrics and regression
+- Time series analysis in finance
+- Volatility modeling (GARCH)
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- An Introduction to Equity Markets and financial analysis
+- An Introduction to Equity Markets in modern finance
+- Applications of An Introduction to Equity Markets
+- 'Case study: An Introduction to Equity Markets'
+tags:
+- bonds
+- alpha
+- yield
+- var
+- bond
+- trading
+- liquidity
+- spread
+- correlation
+- hedging
+- regression
+- efficient-market
+- beta
+- coupon
+- risk-management
 ---
 
 # 1 An introduction to equity markets  

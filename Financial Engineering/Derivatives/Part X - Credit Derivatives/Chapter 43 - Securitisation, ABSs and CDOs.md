@@ -1,20 +1,44 @@
 ---
-tags:
-  - abs_cdos
-  - credit_crisis
-  - credit_risk
-  - securitization
-  - structured_products
 aliases:
-  - ABS
-  - CDO
-  - asset backed securities
+- ABS
+- CDO
+- asset backed securities
 key_concepts:
-  - ABS-CDOs in credit crisis
-  - Securitization process analysis
-  - Single tranche trading
-  - Structured product credit enhancement
-  - Total return swaps
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Credit analysis and rating
+- Default probability modeling
+- Loss given default estimation
+- Chapter 43 - Securitisation, ABSs and CDOs and financial analysis
+- Chapter 43 - Securitisation, ABSs and CDOs in modern finance
+- Applications of Chapter 43 - Securitisation, ABSs and CDOs
+- 'Case study: Chapter 43 - Securitisation, ABSs and CDOs'
+tags:
+- corporate-bond
+- mortgage-backed
+- counterparty
+- recovery
+- mbs
+- default-probability
+- fixed-income
+- maturity
+- credit-risk
+- collateral
+- default
+- bond
+- coupon
+- tranche
+- bonds
 ---
 # Securitisation, ABSs and CDOs  
 

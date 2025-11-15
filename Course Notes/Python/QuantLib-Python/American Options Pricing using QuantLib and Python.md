@@ -1,21 +1,45 @@
 ---
-title: American Option Pricing with QuantLib and Python
-tags:
-  - american_option_pricing
-  - binomial_tree
-  - european_option
-  - python
-  - quantlib
 aliases:
-  - AAPL
-  - Option Pricing
-  - QuantLib Python
+- AAPL
+- Option Pricing
+- QuantLib Python
 key_concepts:
-  - American option valuation
-  - Binomial tree approach
-  - European option pricing
-  - Option exercise type
-  - Strike price
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Black-Scholes-Merton option pricing model
+- Greeks calculation and interpretation
+- Volatility surface and smile
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Monte Carlo simulation methods
+- Stochastic processes in finance
+- Path-dependent derivatives pricing
+- American Options Pricing using QuantLib and Python and financial analysis
+- American Options Pricing using QuantLib and Python in modern finance
+- Applications of American Options Pricing using QuantLib and Python
+- 'Case study: American Options Pricing using QuantLib and Python'
+tags:
+- maturity
+- forward
+- bsm
+- options
+- bonds
+- put
+- futures
+- yield
+- simulation
+- strike
+- black-scholes
+- call
+- pricing
+- volatility
+- monte-carlo
+title: American Option Pricing with QuantLib and Python
 ---
 
 # American Options Pricing using QuantLib and Python

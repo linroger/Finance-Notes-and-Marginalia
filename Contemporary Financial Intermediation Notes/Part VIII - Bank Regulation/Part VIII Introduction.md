@@ -1,3 +1,40 @@
+---
+key_concepts:
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Part VIII Introduction and financial analysis
+- Part VIII Introduction in modern finance
+- Applications of Part VIII Introduction
+- 'Case study: Part VIII Introduction'
+tags:
+- gaap
+- regulatory
+- credit
+- options
+- bonds
+- futures
+- regulation
+- roll
+- treasury
+- call
+- arbitrage
+- accounting
+- duration
+---
+
 # Objectives of Bank Regulation  
 
 “There have been three great inventions since the beginning of time: fire, the wheel, and central banking.”  

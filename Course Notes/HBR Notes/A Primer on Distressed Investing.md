@@ -1,24 +1,48 @@
 ---
-cssclasses:
-  - academia
 Owner: RRoger Lin
-title: A Primer on Distressed Investing
-tags:
-  - bankruptcy
-  - capital_markets
-  - corporate_debt
-  - distressed_investing
-  - restructuring
 aliases:
-  - Distressed Firm
-  - Distressed Investing
-  - Restructuring Process
+- Distressed Firm
+- Distressed Investing
+- Restructuring Process
+cssclasses:
+- academia
 key_concepts:
-  - Acquiring firm control
-  - Bankruptcy market role
-  - Creditor control process
-  - Distressed investing overview
-  - Restructuring process steps
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- A Primer on Distressed Investing and financial analysis
+- A Primer on Distressed Investing in modern finance
+- Applications of A Primer on Distressed Investing
+- 'Case study: A Primer on Distressed Investing'
+tags:
+- distressed
+- default
+- options
+- put
+- recovery
+- bankruptcy
+- cds
+- var
+- chapter-11
+- trading
+- liquidity
+- spread
+- call
+- workout
+- risk-management
+title: A Primer on Distressed Investing
 ---
 
 # A Primer on Distressed Investing

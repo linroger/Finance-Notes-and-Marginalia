@@ -1,20 +1,39 @@
 ---
 tags:
-  - basis_trading
-  - bond_futures
-  - cash_and_carry
-  - forward_pricing
-  - repo_market
+- arbitrage
+- basis_trading
+- bond_futures
+- cash_and_carry
+- fixed-income
+- fixed-income-derivatives
+- forward_pricing
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- options
+- options-pricing
+- repo_market
+- risk-management
 aliases:
-  - Cash and Carry Trading
-  - Government Bond Basis
+- Cash and Carry Trading
+- Government Bond Basis
 key_concepts:
-  - 'Basis: spot vs futures price'
-  - Cheapest-to-deliver bond
-  - Forward and futures pricing
-  - Open repo market essential
-  - Trading cash bonds and futures
+- Arbitrage pricing theory (APT)
+- 'Basis: spot vs futures price'
+- Cheapest-to-deliver bond
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Forward and futures pricing
+- Interest rate models and term structure
+- Open repo market essential
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Trading cash bonds and futures
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 
 # Basis Trading
 # 1 The Government Bond Basis

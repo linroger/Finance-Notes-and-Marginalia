@@ -1,22 +1,38 @@
 ---
 title: Contango And Backwardation In Arbitrage-Free Futures-Markets
 tags:
-  - arbitrage_free
-  - backwardation
-  - carry_trades
-  - contango
-  - futures_prices
+- arbitrage
+- arbitrage_free
+- backwardation
+- carry_trades
+- contango
+- equity-derivatives
+- fixed-income
+- futures_prices
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- options
+- options-pricing
+- risk-management
 aliases:
-  - Forward Prices
-  - Futures Markets
-  - Spot Prices
+- Forward Prices
+- Futures Markets
+- Spot Prices
 key_concepts:
-  - Arbitrage opportunities
-  - Carry and reverse trades
-  - Contango and backwardation
-  - Futures price determination
-  - Term structure of prices
+- Arbitrage opportunities
+- Arbitrage pricing theory (APT)
+- Carry and reverse trades
+- Contango and backwardation
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Futures price determination
+- Interest rate models and term structure
+- Portfolio optimization and mean-variance theory
+- Term structure of prices
 ---
+
 
 # Contango And Backwardation In Arbitrage-Free Futures-Markets
 

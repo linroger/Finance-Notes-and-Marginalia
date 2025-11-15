@@ -1,33 +1,92 @@
 ---
-cssclasses:
-  - academia
-title: Class Notes 2 – Corporate Bond Contracts
-tags:
-  - bondholder_rights
-  - corporate_bond_contracts
-  - indentures
-  - optional_redemption
-  - prospectus
-  - defeasance
-  - covenants
-  - trustee_role
 aliases:
-  - Bond Contracts
-  - Bond Indentures
-  - Corporate Bonds
-  - Indenture Provisions
+- Bond Contracts
+- Bond Indentures
+- Corporate Bonds
+- Indenture Provisions
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-8d2d8b
 key_concepts:
-  - bond legal contracts
-  - bondholder get out
-  - optional redemption
-  - present value calculation
-  - rights responsibilities
-  - covenant structures
-  - default remedies
-  - contract modification
-  - defeasance provisions
-  - trustee obligations
+- Algorithmic trading and execution strategies
+- Case Study
+- Commodity markets and pricing dynamics
+- Common pitfalls in DCF valuation
+- Corporate Bonds
+- Course Material
+- Credit risk and default probability
+- Cross-currency basis swaps and funding
+- Discounted Cash Flow valuation methodology
+- Expected Shortfall (ES) and coherent risk measures
+- Fixed-for-floating swap cash flows and valuation
+- Free cash flow to equity and firm valuation
+- GARCH models and volatility forecasting
+- Harvard Business Review
+- High Yield Bonds
+- Interest rate models and term structure
+- Interest rate swap pricing and valuation
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Option Greeks and sensitivity analysis
+- Portfolio optimization and mean-variance theory
+- Quantitative Implementation
+- Sensitivity analysis in DCF models
+- Solution
+- Swap spread and credit risk considerations
+- Terminal value estimation and perpetuity growth
+- Treasury Bonds
+- Value at Risk (VaR) and risk metrics
+- Variance swaps and volatility trading strategies
+- bond legal contracts
+- bondholder get out
+- contract modification
+- covenant structures
+- default remedies
+- defeasance provisions
+- optional redemption
+- present value calculation
+- rights responsibilities
+- trustee obligations
+tags:
+- algorithmic-trading
+- bondholder_rights
+- case-study
+- commodities
+- corporate-bonds
+- corporate_bond_contracts
+- course-material
+- covenants
+- credit
+- credit-derivatives
+- dcf-valuation
+- defeasance
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- garch-models
+- harvard-business-review
+- high-yield-bonds
+- indentures
+- interest-rate-derivatives
+- interest-rate-swaps
+- ito-calculus
+- markets
+- optional_redemption
+- options
+- options-pricing
+- prospectus
+- quantitative-implementation
+- risk-management
+- solution
+- stochastic
+- treasury-bonds
+- trustee_role
+title: "Class Notes 2 \u2013 Corporate Bond Contracts"
 ---
+
 
 # Class Notes 2 – Corporate Bond Contracts
 

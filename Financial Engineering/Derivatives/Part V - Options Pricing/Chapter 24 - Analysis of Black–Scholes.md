@@ -1,20 +1,44 @@
 ---
-tags:
-  - black_scholes
-  - ewma
-  - option_pricing
-  - stock_returns
-  - volatility
 aliases:
-  - B-S
-  - BS
-  - Black-Scholes
+- B-S
+- BS
+- Black-Scholes
 key_concepts:
-  - Black-Scholes equation validity
-  - Equally weighted average
-  - Estimating stock volatility
-  - European option pricing
-  - Volatility forecasting methods
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Financial econometrics and regression
+- Time series analysis in finance
+- Volatility modeling (GARCH)
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Chapter 24 - Analysis of Black–Scholes and financial analysis
+- Chapter 24 - Analysis of Black–Scholes in modern finance
+- Applications of Chapter 24 - Analysis of Black–Scholes
+- 'Case study: Chapter 24 - Analysis of Black–Scholes'
+tags:
+- options
+- alpha
+- garch
+- var
+- hedge-ratio
+- put
+- regression
+- market-efficiency
+- maturity
+- statistical
+- correlation
+- time-series
+- risk-management
+- bonds
+- yield
 ---
 # Analysis of Black–Scholes  
 

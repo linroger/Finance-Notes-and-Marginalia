@@ -1,22 +1,46 @@
 ---
-title: "Appendix 19.A Formulas for Geometric Average Options"
-cssclasses: academia
-tags:
-  - asian-options
-  - average-strike-options
-  - black-scholes-formula
-  - geometric-average-options
-  - monte-carlo-valuation
 aliases:
-  - Average Price Options
-  - Geometric Asian Options
-  - Geometric Average Options Formulas
+- Average Price Options
+- Geometric Asian Options
+- Geometric Average Options Formulas
+cssclasses: academia
 key_concepts:
-  - Average strike options
-  - Black-Scholes formula
-  - Geometric average price options
-  - Monte Carlo valuation
-  - Prepaid forward price
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Appendix 19.A Formulas for Geometric Average Options and financial analysis
+- Appendix 19.A Formulas for Geometric Average Options in modern finance
+- Applications of Appendix 19.A Formulas for Geometric Average Options
+- 'Case study: Appendix 19.A Formulas for Geometric Average Options'
+tags:
+- forward
+- options
+- bonds
+- put
+- futures
+- swaps
+- yield
+- strike
+- var
+- delta
+- call
+- risk
+- valuation
+- irs
+- risk-management
+title: Appendix 19.A Formulas for Geometric Average Options
 ---
 
 # Appendix 19.A Formulas for Geometric Average Options

@@ -1,23 +1,46 @@
 ---
 Owner: RRoger Lin
-title: HBR Case StudyLTCM
-tags:
-  - financial_crisis
-  - hbr_case_study
-  - hedge_fund
-  - ltcm_meltdown
-  - market_risk
-  - russian_default
 aliases:
-  - LTCM Case
-  - Long-Term Capital Management
-  - Meriwether Fund
+- LTCM Case
+- Long-Term Capital Management
+- Meriwether Fund
 key_concepts:
-  - Financial institution exposure
-  - Market judgement
-  - Meriwether's hedge fund
-  - Quantitative models
-  - Russian sovereign default
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Financial econometrics and regression
+- Time series analysis in finance
+- Volatility modeling (GARCH)
+- HBR Case Study LTCM and financial analysis
+- HBR Case Study LTCM in modern finance
+- Applications of HBR Case Study LTCM
+- 'Case study: HBR Case Study LTCM'
+tags:
+- options
+- bonds
+- put
+- yield
+- fixed-income
+- bond
+- trading
+- liquidity
+- spread
+- treasury
+- call
+- regression
+- statistical
+- corporate-bond
+- correlation
+title: HBR Case StudyLTCM
 ---
 
 Long-Term Capital Management,  L.P. HBP]]

@@ -1,11 +1,48 @@
 ---
-title: "Week 7- Kohler Case Assignment Review"
-linter-yaml-title-alias: "Week 7- Kohler Case Assignment Review"
-aliases: [Kohler Valuation Case, Kohler Recapitalization Analysis, Private Company Fair Value Case]
-date created: Tuesday, November 26th 2024, 6:12:44 pm
+aliases:
+- Kohler Valuation Case
+- Kohler Recapitalization Analysis
+- Private Company Fair Value Case
 cssclasses: academia
-tags: [private-company-valuation, dissenting-shareholders, fair-value-standard, kohler-case, recapitalization, dcf-valuation, multiples-analysis, majority-shareholder-squeeze-out, dual-class-shares, illiquidity-discount, control-premium, wisconsin-law, minority-oppression]
-key_concepts: [kohler-recapitalization, going-concern-value, fair-value-determination, dissenter-rights, dual-class-structure, illiquidity-discount, control-premium, minority-squeeze-out, wisconsin-statute, entire-fairness-standard, dcf-methodology, comparable-company-analysis, wacc-calculation, terminal-value, equity-value-per-share]
+date created: Tuesday, November 26th 2024, 6:12:44 pm
+key_concepts:
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Mathematical optimization in finance
+- Portfolio optimization techniques
+- Linear and quadratic programming
+- Week 7- Kohler Case Assignment Review and financial analysis
+- Week 7- Kohler Case Assignment Review in modern finance
+- Applications of Week 7- Kohler Case Assignment Review
+- 'Case study: Week 7- Kohler Case Assignment Review'
+linter-yaml-title-alias: Week 7- Kohler Case Assignment Review
+tags:
+- discount
+- options
+- put
+- financial-statement
+- optimization
+- trading
+- liquidity
+- delta
+- constraint
+- risk
+- ratio
+- beta
+- accounting
+- fair-value
+- market-efficiency
+title: Week 7- Kohler Case Assignment Review
 ---
 
 # Week 7- Kohler Case Assignment Review

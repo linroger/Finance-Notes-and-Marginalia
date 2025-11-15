@@ -1,38 +1,46 @@
 ---
-title: Week 2 Fundamentals Of Forecasting
+aliases:
+- Forecasting Fundamentals
+- Behavioral Biases in Forecasting
+- Inside vs Outside View
 cssclasses:
-  - academia
+- academia
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Financial econometrics and regression
+- Time series analysis in finance
+- Volatility modeling (GARCH)
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Week 2 Fundamentals Of Forecasting and financial analysis
+- Week 2 Fundamentals Of Forecasting in modern finance
+- Applications of Week 2 Fundamentals Of Forecasting
+- 'Case study: Week 2 Fundamentals Of Forecasting'
 linter-yaml-title-alias: Week 2 Fundamentals Of Forecasting
 tags:
-  - analyst_forecasts
-  - behavioral_biases
-  - forecasting
-  - industry_metrics
-  - inside_view
-  - mean_reversion
-  - outside_view
-  - representativeness_heuristic
-  - financial_modeling
-aliases:
-  - Forecasting Fundamentals
-  - Behavioral Biases in Forecasting
-  - Inside vs Outside View
-key_concepts:
-  - Analyst forecast biases
-  - Base rates and outcomes
-  - Behavioral biases in forecasting
-  - Competition and market forces
-  - Confirmation bias
-  - Consider range of alternatives
-  - Forecasting fundamentals
-  - Ignore base rates
-  - Industry profit margin
-  - Inside vs outside view
-  - Mean reversion in outcomes
-  - Overconfidence in forecasts
-  - Reference class statistics
-  - Salience and availability heuristic
-  - Anchoring and adjustment
+- strategy
+- swaps
+- options
+- stress-test
+- statistical
+- call
+- risk
+- regression
+- algorithmic-trading
+- multiple
+- valuation
+- irs
+- risk-management
+title: Week 2 Fundamentals Of Forecasting
 ---
 
 # Week 2 Fundamentals Of Forecasting

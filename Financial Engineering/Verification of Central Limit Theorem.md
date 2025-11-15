@@ -1,22 +1,29 @@
 ---
 tags:
-  - central_limit_theorem
-  - distribution_function
-  - moment_generating_function
-  - random_variables
-  - standard_normal_distribution
+- central_limit_theorem
+- distribution_function
+- fixed-income
+- moment_generating_function
+- options
+- random_variables
+- risk-management
+- standard_normal_distribution
 aliases:
-  - CLT Verification
-  - Central Limit Theorem Proof
+- CLT Verification
+- Central Limit Theorem Proof
 key_concepts:
-  - Distribution function
-  - Independent random variables
-  - Moment generating function
-  - Random variable mean
-  - Random variable variance
-  - Standard normal distribution
-  - Taylor series expansion
+- Arbitrage pricing theory (APT)
+- Distribution function
+- Expected Shortfall (ES) and coherent risk measures
+- Independent random variables
+- Moment generating function
+- Random variable mean
+- Random variable variance
+- Standard normal distribution
+- Taylor series expansion
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Chapter 2 Additional Readings  
 

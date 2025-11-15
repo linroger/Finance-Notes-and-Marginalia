@@ -1,32 +1,47 @@
 ---
-title: Week 1 Market Efficiency
-cssclasses:
-  - academia
-tags:
-  - arbitrage
-  - behavioral_biases
-  - fundamental_analysis
-  - market_efficiency
-  - stock_prices
-  - financial_theory
-  - efficient_markets
 aliases:
-  - Efficient Markets
-  - Market Anomalies
-  - Market Efficiency
+- Efficient Markets
+- Market Anomalies
+- Market Efficiency
+cssclasses:
+- academia
 key_concepts:
-  - Arbitrage limitations and constraints in real markets
-  - Behavioral biases affecting financial decision making
-  - Capital markets as a fair game under efficiency conditions
-  - Cost of information acquisition and paradox of efficient markets
-  - Evidence supporting and contradicting market efficiency
-  - Information processing speed and market reaction to news
-  - Market anomalies and their persistence over time
-  - Market efficiency definition and relationship to fundamental analysis
-  - Passive vs active investment strategies implications
-  - Quantitative and machine learning approaches to investment
-  - Random walk hypothesis and unpredictability of price movements
-  - Stock prices rapidly adjusting to incorporate new information
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Week 1 Market Efficiency and financial analysis
+- Week 1 Market Efficiency in modern finance
+- Applications of Week 1 Market Efficiency
+- 'Case study: Week 1 Market Efficiency'
+tags:
+- credit
+- options
+- alpha
+- financial-statement
+- trading
+- liquidity
+- call
+- risk
+- efficient-market
+- leverage
+- arbitrage
+- accounting
+- valuation
+- pricing
+- market-efficiency
+title: Week 1 Market Efficiency
 ---
 
 # Week 1 Market Efficiency

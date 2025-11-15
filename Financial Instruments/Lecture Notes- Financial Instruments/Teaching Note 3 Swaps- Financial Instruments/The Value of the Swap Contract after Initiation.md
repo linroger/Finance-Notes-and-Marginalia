@@ -1,23 +1,33 @@
 ---
 tags:
-  - currency_swap
-  - eurodollar_futures
-  - fx_swap
-  - interest_rate_risk
-  - swap_contract
+- currency_swap
+- derivatives-pricing
+- eurodollar_futures
+- fx-derivatives
+- fx_swap
+- interest-rate-derivatives
+- interest_rate_risk
+- markets
+- risk-management
+- swap_contract
 aliases:
-  - Currency Swap
-  - Eurodollar Futures
-  - FX Swap
-  - Hedging Strategy
-  - Swap Value
+- Currency Swap
+- Eurodollar Futures
+- FX Swap
+- Hedging Strategy
+- Swap Value
 key_concepts:
-  - Borrowing in foreign currency
-  - Eurodollar futures hedging
-  - Hedging principal amount
-  - Plain vanilla FX swaps
-  - Swap value formula
+- Borrowing in foreign currency
+- Delta hedging and Greeks calculation
+- Eurodollar futures hedging
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Hedging principal amount
+- Interest rate swaps and swap pricing
+- Plain vanilla FX swaps
+- Swap value formula
 ---
+
 
 **Teaching Note 3 SwapsFinancial Instruments**
 	- Forward Rates Agreement

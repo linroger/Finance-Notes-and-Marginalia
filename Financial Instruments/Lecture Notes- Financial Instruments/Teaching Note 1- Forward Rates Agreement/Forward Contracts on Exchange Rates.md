@@ -1,22 +1,36 @@
 ---
 title: Forward Contracts on Exchange Rates
 tags:
-  - arbitrage
-  - currency_risk
-  - exchange_rates
-  - forward_contracts
-  - interest_rates
+- arbitrage
+- credit
+- currency_risk
+- exchange_rates
+- fixed-income
+- forward_contracts
+- fx-derivatives
+- interest-rate-derivatives
+- interest_rates
+- markets
+- options
+- options-pricing
+- risk-management
 aliases:
-  - Currency Forwards
-  - FX Forwards
-  - Forward FX Contracts
+- Currency Forwards
+- FX Forwards
+- Forward FX Contracts
 key_concepts:
-  - Arbitrage strategy
-  - Forward rate definition
-  - Interest rate differential
-  - Short forward contract
-  - Spot exchange rate
+- Arbitrage strategy
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Forward rate definition
+- Heath-Jarrow-Morton (HJM) framework
+- Interest rate differential
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Short forward contract
+- Spot exchange rate
 ---
+
 
 Foreign Exchange Quoting Conventions
 

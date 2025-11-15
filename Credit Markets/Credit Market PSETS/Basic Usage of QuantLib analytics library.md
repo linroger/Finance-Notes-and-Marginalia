@@ -1,21 +1,45 @@
 ---
-title: Basic Usage of QuantLib analytics library
-tags:
-  - analytics
-  - bond_pricing
-  - cashflow_schedule
-  - quantlib
-  - yield_curve
 aliases:
-  - QuantLib example
-  - QuantLib tutorial
-  - QuantLib usage
+- QuantLib example
+- QuantLib tutorial
+- QuantLib usage
 key_concepts:
-  - Bond pricing
-  - Cashflow schedule
-  - QuantLib library
-  - Quote object
-  - Yield curve
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Basic Usage of QuantLib analytics library and financial analysis
+- Basic Usage of QuantLib analytics library in modern finance
+- Applications of Basic Usage of QuantLib analytics library
+- 'Case study: Basic Usage of QuantLib analytics library'
+tags:
+- options
+- yield-curve
+- put
+- fixed-income
+- liquidity
+- gamma
+- interest-rate
+- maturity
+- bond
+- spread
+- coupon
+- duration
+- bonds
+- convexity
+- yield
+title: Basic Usage of QuantLib analytics library
 ---
 
 # Basic Usage of QuantLib analytics library

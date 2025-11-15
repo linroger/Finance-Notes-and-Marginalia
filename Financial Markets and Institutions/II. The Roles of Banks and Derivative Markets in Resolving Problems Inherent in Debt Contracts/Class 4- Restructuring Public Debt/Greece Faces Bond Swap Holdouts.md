@@ -1,24 +1,79 @@
 ---
-cssclasses:
-  - academia
-linter-yaml-title-alias: Greece Faces Bond-Swap Holdouts
-title: Greece Faces Bond Swap Holdouts
-tags:
-  - bond_holdouts
-  - bond_swap
-  - debt_restructuring
-  - foreign_law_bonds
-  - greece_debt
 aliases:
-  - Greece bond swap
-  - Greek debt deal
+- Greece bond swap
+- Greek debt deal
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-06429f
 key_concepts:
-  - Greece bond swap
-  - bond swap participation
-  - debt burden reduction
-  - debt restructuring deal
-  - foreign law bonds
+- Capital markets and securities trading
+- Corporate finance and business valuation
+- Course Material
+- Credit analysis and default forecasting
+- Delta hedging and Greeks calculation
+- Distressed Debt
+- Expected Shortfall (ES) and coherent risk measures
+- Financial instruments and their characteristics
+- Financial markets and institutional structures
+- GARCH models and volatility forecasting
+- Government bailout mechanisms and market interventions
+- Greece bond swap
+- Hedging strategies and risk mitigation
+- Infrastructure investment and project finance
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Investment analysis and due diligence processes
+- Ito's Lemma and stochastic calculus
+- Liquidity provision and market making
+- Macroeconomic factors and market correlations
+- Market dynamics and price discovery mechanisms
+- Portfolio optimization and mean-variance theory
+- Quantitative Implementation
+- Quantitative analysis and mathematical modeling
+- Regulatory frameworks and compliance requirements
+- Risk management and portfolio optimization
+- Solution
+- Systemic risk and financial stability
+- Treasury Bonds
+- Valuation methodologies and price multiples
+- bond swap participation
+- debt burden reduction
+- debt restructuring deal
+- foreign law bonds
+linter-yaml-title-alias: Greece Faces Bond-Swap Holdouts
+tags:
+- bailout
+- bond_holdouts
+- bond_swap
+- course-material
+- credit
+- credit-derivatives
+- debt_restructuring
+- distressed-debt
+- fixed-income
+- fixed-income-derivatives
+- foreign_law_bonds
+- garch-models
+- greece_debt
+- infrastructure
+- interest-rate-derivatives
+- ito-calculus
+- markets
+- mathematics
+- microeconomics
+- optimization
+- options
+- options-pricing
+- quantitative-implementation
+- risk-management
+- solution
+- stochastic
+- treasury-bonds
+title: Greece Faces Bond Swap Holdouts
 ---
+
 
 # Greece Faces Bond Swap Holdouts
 

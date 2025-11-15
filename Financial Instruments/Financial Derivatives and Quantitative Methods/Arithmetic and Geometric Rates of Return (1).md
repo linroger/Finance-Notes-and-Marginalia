@@ -2,30 +2,49 @@
 cssclasses: academia
 title: Arithmetic and Geometric Rates of Return
 tags:
-  - arithmetic_mean
-  - continuous_compounding
-  - geometric_mean
-  - rate_of_return
-  - wiener_process
-  - ito_calculus
-  - brownian_motion
-  - stochastic_processes
+- arithmetic_mean
+- binomial-model
+- brownian_motion
+- continuous_compounding
+- equity-derivatives
+- geometric_mean
+- interest-rate-derivatives
+- ito-calculus
+- ito_calculus
+- markets
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- rate_of_return
+- risk-management
+- stochastic
+- stochastic_processes
+- wiener_process
 aliases:
-  - Arithmetic Mean vs Geometric Mean
-  - Continuously Compounded Return
-  - Arithmetic vs Geometric Return
+- Arithmetic Mean vs Geometric Mean
+- Continuously Compounded Return
+- Arithmetic vs Geometric Return
 key_concepts:
-  - Arithmetic mean return
-  - Continuously compounded rate
-  - Geometric mean return calculation
-  - Variance impact on geometric returns
-  - Wiener process properties
-  - Ito's lemma application
-  - Geometric Brownian motion
-  - Forward price stochastic process
-  - Return variance relationship
-  - Log-normal distribution properties
+- Arithmetic mean return
+- Binomial tree models for option pricing
+- Brownian motion and Wiener processes
+- Continuously compounded rate
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Forward price stochastic process
+- Geometric Brownian motion
+- Geometric mean return calculation
+- Interest rate models and term structure
+- Ito's Lemma and stochastic calculus
+- Ito's lemma application
+- Log-normal distribution properties
+- Return variance relationship
+- Value at Risk (VaR) and risk metrics
+- Variance impact on geometric returns
+- Wiener process properties
 ---
+
 
 # Arithmetic and Geometric Rates of Return
 

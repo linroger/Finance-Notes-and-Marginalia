@@ -1,37 +1,48 @@
 ---
+aliases:
+- Bank Business Model
+- Banking Regulation Framework
+- Bank Accounting Rules
 cssclasses:
-  - academia
-title: Week 6 Bank Business Model, Regulation, and Accounting Rules
+- academia
+key_concepts:
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Week 6 Bank Business Model, Regulation, and Accounting Rules and financial analysis
+- Week 6 Bank Business Model, Regulation, and Accounting Rules in modern finance
+- Applications of Week 6 Bank Business Model, Regulation, and Accounting Rules
+- 'Case study: Week 6 Bank Business Model, Regulation, and Accounting Rules'
 linter-yaml-title-alias: Week 6 Bank Business Model, Regulation, and Accounting Rules
 tags:
-  - accounting_rules
-  - balance_sheets
-  - bank_business_model
-  - banking_regulation
-  - financial_intermediaries
-  - basel_iii
-  - regulatory_capital
-  - loan_loss_provisions
-  - risk_weighted_assets
-  - tier_1_capital
-aliases:
-  - Bank Business Model
-  - Banking Regulation Framework
-  - Bank Accounting Rules
-key_concepts:
-  - Banks as financial intermediaries
-  - Deposit taking and lending functions
-  - Interest rate spread business model
-  - Duration mismatch between assets and liabilities
-  - Credit, liquidity, and interest rate risks
-  - Balance sheets of U.S. banks
-  - Income statements of U.S. banks
-  - Regulatory capital requirements
-  - Risk-weighted assets calculation
-  - Basel III capital ratios
-  - Loan loss accounting and provisions
-  - Expected credit loss models (CECL)
-  - IFRS versus US GAAP differences
+- gaap
+- regulatory
+- options
+- bonds
+- put
+- regulation
+- ifrs
+- capital-requirement
+- trading
+- basel
+- liquidity
+- call
+- spread
+- treasury
+- accounting
+title: Week 6 Bank Business Model, Regulation, and Accounting Rules
 ---
 
 # Bank Business Model, Regulation, and Accounting Rules

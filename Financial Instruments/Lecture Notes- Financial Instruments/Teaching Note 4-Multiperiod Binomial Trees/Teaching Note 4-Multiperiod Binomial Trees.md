@@ -2,23 +2,59 @@
 linter-yaml-title-alias: LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
 title: LECTURE NOTE 4-MULTIPERIOD BINOMIAL TREES
 tags:
-  - binomial_trees
-  - multiperiod_model
-  - option_pricing
-  - replicating_portfolio
-  - risk_neutral_pricing
+- arbitrage
+- binomial-model
+- binomial_trees
+- black-scholes-model
+- credit
+- credit-derivatives
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- markets
+- monte-carlo-simulation
+- multiperiod_model
+- numerical-simulation
+- option-greeks
+- option_pricing
+- options
+- options-pricing
+- quantitative-pricing
+- replicating_portfolio
+- risk-management
+- risk_neutral_pricing
 aliases:
-  - Binomial Tree
-  - Multi-Step Trees
-  - One Step Binomial Trees
-  - Two-Step Binomial Trees
+- Binomial Tree
+- Multi-Step Trees
+- One Step Binomial Trees
+- Two-Step Binomial Trees
 key_concepts:
-  - American option valuation
-  - Binomial tree pricing
-  - Option pricing methodology
-  - Replicating portfolio
-  - Risk neutral valuation
+- American option valuation
+- Binomial tree models for option pricing
+- Binomial tree pricing
+- Black-Scholes option pricing model
+- Complete markets and replication
+- Credit default swaps (CDS) pricing
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Heath-Jarrow-Morton (HJM) framework
+- Implied volatility and volatility surface
+- Interest rate models and term structure
+- Interest rate swaps and swap pricing
+- Monte Carlo simulation for derivatives
+- Option Greeks and sensitivity analysis
+- Option pricing methodology
+- Portfolio optimization and mean-variance theory
+- Replicating portfolio
+- Risk neutral valuation
+- Risk-neutral valuation and martingale measures
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Teaching Note 4-Multiperiod Binomial Trees
 

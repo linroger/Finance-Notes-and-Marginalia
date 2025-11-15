@@ -1,29 +1,48 @@
 ---
-title: Porter's Five Forces
-cssclasses:
-  - academia
-tags:
-  - competitive_strategy
-  - industry_analysis
-  - market_structure
-  - porter_five_forces
-  - rivalry
-  - strategic_management
-  - competitive_advantage
 aliases:
-  - Five Forces Model
-  - Industry Analysis
-  - Porter's Framework
-  - Competitive Structure Analysis
+- Five Forces Model
+- Industry Analysis
+- Porter's Framework
+- Competitive Structure Analysis
+cssclasses:
+- academia
 key_concepts:
-  - Five competitive forces (rivalry, buyer power, supplier power, substitutes, new entrants)
-  - Industry concentration ratio
-  - Industry profitability analysis
-  - Product differentiation strategies
-  - Rivalry intensity factors
-  - Barriers to entry and exit
-  - Strategic positioning
-  - Competitive advantage development
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Porter's Five Forces and financial analysis
+- Porter's Five Forces in modern finance
+- Applications of Porter's Five Forces
+- 'Case study: Porter''s Five Forces'
+tags:
+- regulatory
+- forward
+- strategy
+- options
+- futures
+- put
+- swaps
+- regulation
+- bankruptcy
+- compliance
+- call
+- risk
+- algorithmic-trading
+- leverage
+- irs
+title: Porter's Five Forces
 ---
 
 The model of pure competition implies that risk-adjusted rates of return should be constant across firms and industries. However, numerous economic studies have affirmed that different industries can sustain different levels of profitability; part of this difference is explained by industry structure.

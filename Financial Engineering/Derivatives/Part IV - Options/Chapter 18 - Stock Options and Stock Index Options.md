@@ -1,22 +1,46 @@
 ---
-tags:
-  - dynamic_hedging
-  - protective_put
-  - ratio_spread
-  - stock_index_options
-  - stock_options
 aliases:
-  - Covered Call
-  - Options on Stocks
-  - Protective Put
-  - Ratio Spread
-  - Static Hedge
+- Covered Call
+- Options on Stocks
+- Protective Put
+- Ratio Spread
+- Static Hedge
 key_concepts:
-  - Dynamic delta hedging
-  - Mispriced options profit
-  - Protective put strategy
-  - Risk-free portfolio creation
-  - Stock options and indexes
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Chapter 18 - Stock Options and Stock Index Options and financial analysis
+- Chapter 18 - Stock Options and Stock Index Options in modern finance
+- Applications of Chapter 18 - Stock Options and Stock Index Options
+- 'Case study: Chapter 18 - Stock Options and Stock Index Options'
+tags:
+- maturity
+- options
+- bonds
+- put
+- portfolio
+- strike
+- bond
+- trading
+- expiry
+- gamma
+- call
+- vega
+- delta
+- portfolio-optimization
+- liquidity
 ---
 # Stock Options and Stock Index Options  
 

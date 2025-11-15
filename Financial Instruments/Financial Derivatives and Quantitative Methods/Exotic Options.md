@@ -1,25 +1,39 @@
 ---
 cssclasses:
-  - academia
+- academia
 title: Exotic Options
 tags:
-  - barrier_options
-  - digital_options
-  - exotic_options
-  - path_dependent
-  - range_forward
+- barrier_options
+- digital_options
+- exotic_options
+- interest-rate-derivatives
+- markets
+- options
+- options-pricing
+- path_dependent
+- range_forward
+- risk-management
 aliases:
-  - binary option
-  - break forward
-  - digital put
-  - exotic derivatives
+- binary option
+- break forward
+- digital put
+- exotic derivatives
 key_concepts:
-  - break forward contract
-  - digital/binary option
-  - exotic option payoffs
-  - path dependent options
-  - range forward contract
+- Asian options and average price derivatives
+- Barrier options and knock-in/knock-out features
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Portfolio optimization and mean-variance theory
+- Put-call parity and option relationships
+- Value at Risk (VaR) and risk metrics
+- break forward contract
+- digital/binary option
+- exotic option payoffs
+- path dependent options
+- range forward contract
 ---
+
 
 # Exotic Options
 

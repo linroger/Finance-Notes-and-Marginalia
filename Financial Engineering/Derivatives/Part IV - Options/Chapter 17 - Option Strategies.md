@@ -1,29 +1,46 @@
 ---
-tags:
-  - bear_spreads
-  - bull_spreads
-  - butterfly_spreads
-  - condors
-  - financial_engineering
-  - option_strategies
-  - straddles
-  - strangles
-  - volatility_strategies
 aliases:
-  - Call Premium
-  - Option Payoffs
-  - Put Premium
-  - Structured Products
-  - Synthetic Securities
+- Call Premium
+- Option Payoffs
+- Put Premium
+- Structured Products
+- Synthetic Securities
 key_concepts:
-  - Bull and bear spreads
-  - Combine options for payoffs
-  - Forecasting stock prices
-  - Long call payoff
-  - Long put payoff
-  - Short call payoff
-  - Short put payoff
-  - Volatility strategies
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Algorithmic trading strategies
+- Quantitative signal development
+- High-frequency trading
+- Chapter 17 - Option Strategies and financial analysis
+- Chapter 17 - Option Strategies in modern finance
+- Applications of Chapter 17 - Option Strategies
+- 'Case study: Chapter 17 - Option Strategies'
+tags:
+- maturity
+- forward
+- algorithmic-trading
+- strategy
+- options
+- bonds
+- put
+- futures
+- strike
+- bond
+- trading
+- expiry
+- gamma
+- call
+- vega
 ---
 # Option Strategies  
 

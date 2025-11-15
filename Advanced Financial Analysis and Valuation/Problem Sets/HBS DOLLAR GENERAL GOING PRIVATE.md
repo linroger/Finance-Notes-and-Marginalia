@@ -1,39 +1,48 @@
 ---
-cssclasses: academia
-title: "HBS Case Study: Dollar General Going Private"
-date: 2023-10-15
-tags:
-  - dollar_general
-  - going_private
-  - kkr_acquisition
-  - private_equity
-  - leveraged_buyout
-  - shareholder_lawsuit
-  - fiduciary_duty
-  - management_buyout
-  - deep_discount_retail
-  - valuation_premium
-  - regulatory_capital
-  - 2005_sec_settlement
-  - lbo_market_2007
-  - shareholder_rights
-  - retail_industry
 aliases:
-  - Dollar General KKR LBO Case
-  - DG Going Private 2007
-  - Dollar General $6.9B Buyout
-  - Perdue Dollar General Case
+- Dollar General KKR LBO Case
+- DG Going Private 2007
+- Dollar General $6.9B Buyout
+- Perdue Dollar General Case
+cssclasses: academia
+date: 2023-10-15
 key_concepts:
-  - LBO by KKR: $6.9 billion buyout at $22/share
-  - Fiduciary duty: Directors' obligations to shareholders
-  - Premium offered: 31.1% above closing price
-  - Shareholder lawsuit: Claim of grossly inadequate price
-  - Deep-discount retail: Dollar store industry dynamics
-  - SEC settlement 2005: Accounting restatements and penalties
-  - Packaway inventory model: Strategic shift in merchandising
-  - Management interests: CEO realizes $28 million
-  - Real estate strategy: Store closures and remodels
-  - No-shop provision: $225 million termination fee
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- HBS DOLLAR GENERAL GOING PRIVATE and financial analysis
+- HBS DOLLAR GENERAL GOING PRIVATE in modern finance
+- Applications of HBS DOLLAR GENERAL GOING PRIVATE
+- 'Case study: HBS DOLLAR GENERAL GOING PRIVATE'
+tags:
+- gaap
+- options
+- swaps
+- put
+- futures
+- financial-statement
+- irs
+- strike
+- var
+- basis
+- roll
+- call
+- accounting
+- fair-value
+- risk-management
+title: 'HBS Case Study: Dollar General Going Private'
 ---
 
 # Dollar General Going Private

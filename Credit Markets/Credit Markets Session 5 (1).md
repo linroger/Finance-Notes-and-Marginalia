@@ -1,38 +1,47 @@
 ---
-title: Credit Markets Session 5
-tags:
-  - black_scholes_model
-  - capital_structure
-  - cdos
-  - correlated_defaults
-  - credit_markets
-  - merton_model
-  - volatility_smiles
-  - structural_credit_models
-  - credit_default_risk
-  - option_pricing
 aliases:
-  - BS Model
-  - Credit Risk
-  - Merton
-  - Structural Credit
-  - Capital Structure Models
+- BS Model
+- Credit Risk
+- Merton
+- Structural Credit
+- Capital Structure Models
 key_concepts:
-  - Base correlations
-  - Black-Scholes formula
-  - CS strategies
-  - Capital structure modeling
-  - Collateralized debt obligations
-  - Credit default risk
-  - Fair value bonds
-  - Fair value equity
-  - Hedging bonds defaults
-  - Merton model
-  - Synthetic cdo pricing
-  - Volatility smiles
-  - Structural Credit Models
-  - Correlated Defaults
-  - Default Barrier
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Credit default swap mechanics
+- CDS-Bond basis and relative value
+- Credit risk and default modeling
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Credit Markets Session 5 (1) and financial analysis
+- Credit Markets Session 5 (1) in modern finance
+- Applications of Credit Markets Session 5 (1)
+- 'Case study: Credit Markets Session 5 (1)'
+tags:
+- options
+- corporate-bond
+- mortgage-backed
+- put
+- recovery
+- mbs
+- fixed-income
+- maturity
+- credit-risk
+- default
+- bond
+- expiry
+- coupon
+- tranche
+- duration
+title: Credit Markets Session 5
 ---
 
 # Credit Markets Session 5

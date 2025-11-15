@@ -1,30 +1,58 @@
-%% Begin Waypoint %%
-- **Chapter 11 - Individual Investors-A Survey of Modern Investment Theory**
-	- A Brief History of Investment Thought
-	- Chapter 11 - Individual Investors-A Survey of Modern Investment Theory
-	- Free Cash Flow Valuation of Companies
-	- Fundamental Indexing
-	- The Modern Portfolio Theory and the Capm
-
-%% End Waypoint %%
-
-11  Individual Investors: A Survey of Modern Investment Theory  
-11.1 A Brief History of Investment Thought 266   
-11.2 Free Cash Flow Valuation of Companies 269   
-11.2.1 Free Cash Flow Definitions 270   
-11.2.2 Growth and the Discounting of the Cash Flows 273   
-11.2.3 Terminal Multiple Models of Cash Flow Discounting 274   
-11.3 The Modern Portfolio Theory and the CAPM 276   
-11.3.1 Diversification and the Efficient Frontier 276   
-11.3.2 Two-Fund Separation 278   
-11.3.3 Systematic Risk and the CAPM 279   
-11.3.4 Using the CAPM as a Stock Screen to Discover Alpha 280   
-11.4 Multifactor Index Models 282   
-11.4.1 The Fama-French Three-Factor Model 283   
-11.4.2 The Carhart Fourth Factor: the Momentum 283   
-11.4.3 International Index Factors 284   
-11.5 Fundamental Indexing 284   
-11.5.1 A Brief History of Fundamental Indexing 285   
-11.5.2 Fundamental Indexing and Rebalancing 285   
-11.5.3 Tactical Asset Allocation 286   
-11.5.4 Fundamentally Indexed US Funds 286
+---
+tags:
+- apt
+- capm
+- credit-markets
+- defi
+- derivatives
+- efficient-frontier
+- financial-markets
+- financial-modeling
+- fixed-income
+- fundamental-indexing
+- ma
+- modern-portfolio-theory
+- quantitative-finance
+- risk-management
+- sifi
+key_concepts:
+- Agricultural futures and seasonality
+- Alternative investments and hedge fund strategies
+- Arbitrage Pricing Theory (APT) and factor models
+- Asset swaps and spread-lock strategies
+- Barrier options and knock-in/knock-out structures
+- Basis swaps and cross-currency basis adjustments
+- Basis swaps and floating rate correlations
+- Behavioral finance and market anomalies
+- Best execution and regulatory requirements
+- Bid-ask spreads and market making profitability
+- Black-Litterman model and portfolio optimization
+- Bond portfolio immunization strategies
+- CDO structuring and tranche allocation methodologies
+- CDO-squared structures and correlation trading
+- Calendar spreads and roll strategies
+- Capital Asset Pricing Model (CAPM) and beta estimation
+- Central clearing and CCP risk management
+- Commodity futures and convenience yields
+- Commodity swaps and energy derivatives
+- Crack spreads in energy markets
+- Credit risk assessment and loan pricing
+- Credit valuation adjustment (CVA) and counterparty risk
+- Cryptocurrency valuation and blockchain technology
+- Currency swaps and cross-currency basis
+- Dark pools and alternative trading venues
+- DeFi protocols and decentralized finance
+- Deposit insurance and systemic risk
+- Discounted cash flow (DCF) valuation methodologies
+- Dividend discount model (DDM) applications
+- Duration and convexity for bond price sensitivity
+- ESG investing and sustainability metrics
+- Enterprise value and equity value relationships
+- Equity swaps and total return swaps
+- Exotic derivatives and path-dependent options
+- Extreme value theory and tail risk modeling
+- FX futures and currency hedging
+- Fama-French three-factor and five-factor models
+- Fintech disruption and digital banking
+- GARCH models for volatility forecasting
+- Gamma tra

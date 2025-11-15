@@ -2,34 +2,62 @@
 linter-yaml-title-alias: LECTURE NOTES 10 INTEREST RATE DERIVATIVES
 title: LECTURE NOTES 10 INTEREST RATE DERIVATIVES
 tags:
-  - black_model
-  - callable_bonds
-  - financial_instruments
-  - floating_rate_debt
-  - forward_rate_agreement
-  - interest_rate_derivatives
-  - interest_rate_swaps
-  - risk_neutral_pricing
-  - swap_contract
-  - treasury_bills
+- arbitrage
+- black-scholes-model
+- black_model
+- callable_bonds
+- credit
+- credit-derivatives
+- equity-derivatives
+- financial_instruments
+- fixed-income
+- fixed-income-derivatives
+- floating_rate_debt
+- forward_rate_agreement
+- hedging-strategies
+- interest-rate-derivatives
+- interest_rate_derivatives
+- interest_rate_swaps
+- markets
+- model-calibration
+- option-greeks
+- options
+- options-pricing
+- quantitative-pricing
+- risk-management
+- risk_neutral_pricing
+- swap_contract
+- treasury_bills
 aliases:
-  - FRA
-  - IR Derivatives
-  - Interest Rate Trees
-  - Lecture 10
-  - Swaps
+- FRA
+- IR Derivatives
+- Interest Rate Trees
+- Lecture 10
+- Swaps
 key_concepts:
-  - Callable bonds
-  - Floating rate debt
-  - Forward rate agreement
-  - Hedging problem solution
-  - Ho Lee Model
-  - Interest rate derivatives
-  - Interest rate swaps
-  - Risk neutral pricing
-  - Swap rate calculation
-  - Zero coupon bonds
+- Arbitrage pricing theory (APT)
+- Black-Scholes option pricing model
+- Callable bonds
+- Credit default swaps (CDS) pricing
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Floating rate debt
+- Forward rate agreement
+- Heath-Jarrow-Morton (HJM) framework
+- Hedging problem solution
+- Ho Lee Model
+- Implied volatility and volatility surface
+- Interest rate derivatives
+- Interest rate models and term structure
+- Interest rate swaps
+- Interest rate swaps and swap pricing
+- Model calibration and parameter estimation
+- Risk neutral pricing
+- Swap rate calculation
+- Value at Risk (VaR) and risk metrics
+- Zero coupon bonds
 ---
+
 
 # Lecture Notes 10- Interest Rate Derivatives
 

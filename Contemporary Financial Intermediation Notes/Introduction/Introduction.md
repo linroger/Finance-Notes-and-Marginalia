@@ -1,33 +1,47 @@
 ---
+aliases:
+- Overview of Financial Intermediation
+- Financial System Introduction
+- Financial Markets and Institutions Introduction
 cssclasses: academia
-title: Introduction to Financial Intermediation
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Mortgage-backed securities structure
+- Prepayment modeling and analysis
+- Securitization and CDO structures
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Introduction and financial analysis
+- Introduction in modern finance
+- Applications of Introduction
+- 'Case study: Introduction'
 linter-yaml-title-alias: Introduction to Financial Intermediation
 tags:
-  - financial_intermediation
-  - financial_contracts
-  - risk_management
-  - financial_system
-  - financial_crisis
-  - great_recession
-  - financial_innovation
-  - banking_regulation
-  - securitization
-  - leverage
-aliases:
-  - Overview of Financial Intermediation
-  - Financial System Introduction
-  - Financial Markets and Institutions Introduction
-key_concepts:
-  - Financial contracts and securities
-  - Risk redistribution mechanisms
-  - Intertemporal consumption adjustment
-  - Financial system complexity and fragility
-  - Market information asymmetry
-  - Public intervention rationale
-  - Shadow banking system
-  - Securitization impacts
-  - Financial leverage consequences
-  - Great Recession lessons
+- regulatory
+- securitization
+- options
+- put
+- regulation
+- mbs
+- subprime
+- var
+- capital-requirement
+- trading
+- liquidity
+- spread
+- call
+- tranche
+- risk-management
+title: Introduction to Financial Intermediation
 ---
 
 # Introduction

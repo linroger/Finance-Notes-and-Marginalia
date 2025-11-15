@@ -1,37 +1,48 @@
 ---
+aliases:
+- Week 5 Pharma and Intangibles
+- Pharmaceutical Valuation
+- Medfield Case Study
 cssclasses:
-  - academia
-title: Week 5 Pharmaceuticals and Intangibles in Valuation
+- academia
+key_concepts:
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Week 5 Pharmaceuticals and Intangibles in Valuation and financial analysis
+- Week 5 Pharmaceuticals and Intangibles in Valuation in modern finance
+- Applications of Week 5 Pharmaceuticals and Intangibles in Valuation
+- 'Case study: Week 5 Pharmaceuticals and Intangibles in Valuation'
 linter-yaml-title-alias: Week 5 Pharmaceuticals and Intangibles in Valuation
 tags:
-  - pharmaceutical_industry
-  - intangible_valuation
-  - drug_development
-  - ma_accounting
-  - healthcare_sector
-  - randd_capitalization
-  - biotech_valuation
-  - patent_expiration
-  - goodwill_accounting
-  - non_gaap_reporting
-  - economic_profit_model
-aliases:
-  - Week 5 Pharma and Intangibles
-  - Pharmaceutical Valuation
-  - Medfield Case Study
-key_concepts:
-  - Pharmaceutical industry value drivers
-  - Drug development process and cash flows
-  - Biotech risk and valuation approaches
-  - Moat sources in healthcare sector
-  - R&D capitalization versus expensing
-  - Intangible asset economics
-  - Economic profit model with intangibles
-  - Adjusting DCF and multiples for R&D
-  - Future M&A value creation
-  - IFRS versus US GAAP treatment
-  - OncoMed case example
-  - Relative valuation adjustments
+- gaap
+- income statement
+- options
+- swaps
+- put
+- alpha
+- bonds
+- yield
+- portfolio
+- expiry
+- call
+- risk
+- accounting
+- irs
+- market-efficiency
+title: Week 5 Pharmaceuticals and Intangibles in Valuation
 ---
 
 # Week 5 Pharmaceuticals and Intangibles in Valuation

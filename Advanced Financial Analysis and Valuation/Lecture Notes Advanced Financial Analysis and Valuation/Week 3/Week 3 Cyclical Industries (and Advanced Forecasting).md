@@ -1,35 +1,48 @@
 ---
-title: Week 3 Cyclical Industries (and Advanced Forecasting)
+aliases:
+- Cyclical Industries Analysis
+- Advanced Forecasting Methods
+- Terminal Value Considerations
 cssclasses:
-  - academia
+- academia
+key_concepts:
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Week 3 Cyclical Industries (and Advanced Forecasting) and financial analysis
+- Week 3 Cyclical Industries (and Advanced Forecasting) in modern finance
+- Applications of Week 3 Cyclical Industries (and Advanced Forecasting)
+- 'Case study: Week 3 Cyclical Industries (and Advanced Forecasting)'
 linter-yaml-title-alias: Week 3 Cyclical Industries (and Advanced Forecasting)
 tags:
-  - advanced_forecasting
-  - capital_allocation
-  - competitive_analysis
-  - cyclical_industries
-  - industry_analysis
-  - market_sentiment
-  - operating_leverage
-  - terminal_value
-  - financial_modeling
-aliases:
-  - Cyclical Industries Analysis
-  - Advanced Forecasting Methods
-  - Terminal Value Considerations
-key_concepts:
-  - Capital allocation in cycles
-  - Competitive advantage is key
-  - Cyclicality poses forecasting problems
-  - High fixed costs
-  - Industry analysis for companies
-  - Market sentiment cycles
-  - Operating leverage
-  - Terminal value in your model
-  - Trucker profitability and sales
-  - Scenario analysis
-  - Value driver formula
-  - ROIC vs RONIC
+- gaap
+- credit
+- forward
+- options
+- futures
+- put
+- ratio
+- bankruptcy
+- var
+- liquidity
+- spread
+- call
+- multiple
+- accounting
+- risk-management
+title: Week 3 Cyclical Industries (and Advanced Forecasting)
 ---
 
 # Week 3 Cyclical Industries (and Advanced Forecasting)

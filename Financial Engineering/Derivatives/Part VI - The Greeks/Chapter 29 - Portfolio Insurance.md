@@ -1,20 +1,44 @@
 ---
-tags:
-  - dynamic_hedging
-  - portfolio_insurance
-  - put_call_parity
-  - replication_portfolio
-  - stock_put
 aliases:
-  - Protective Put
-  - Static Hedge
-  - Stock Put Insurance
+- Protective Put
+- Static Hedge
+- Stock Put Insurance
 key_concepts:
-  - Drawbacks of stock put
-  - Dynamic portfolio insurance
-  - Hedging equity portfolio
-  - Replication portfolio of calls
-  - Static stock put insurance
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Chapter 29 - Portfolio Insurance and financial analysis
+- Chapter 29 - Portfolio Insurance in modern finance
+- Applications of Chapter 29 - Portfolio Insurance
+- 'Case study: Chapter 29 - Portfolio Insurance'
+tags:
+- maturity
+- options
+- futures
+- put
+- bonds
+- yield
+- portfolio
+- strike
+- hedging
+- roll
+- bond
+- var
+- delta
+- call
+- portfolio-optimization
 ---
 # Portfolio Insurance  
 

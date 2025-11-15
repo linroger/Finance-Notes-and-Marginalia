@@ -2,24 +2,40 @@
 linter-yaml-title-alias: 'EXAMPLE: HEDGING WITH FUTURES'
 title: Teaching Note 2-Futures Contracts
 tags:
-  - basis_risk
-  - cme_euro_fx
-  - forward_contracts
-  - futures_contracts
-  - mark_to_market
+- basis_risk
+- cme_euro_fx
+- credit
+- credit-derivatives
+- equity-derivatives
+- fixed-income
+- forward_contracts
+- futures_contracts
+- fx-derivatives
+- hedging-strategies
+- interest-rate-derivatives
+- mark_to_market
+- markets
+- options
+- options-pricing
+- risk-management
 aliases:
-  - CME
-  - Forwards
-  - Futures
-  - Hedging
+- CME
+- Forwards
+- Futures
+- Hedging
 key_concepts:
-  - Futures vs Forwards
-  - Margin Call
-  - Mark to Market
-  - Speculating with Futures
-  - Standardization and Liquidity
-  - Stock Index Futures
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Futures vs Forwards
+- Interest rate models and term structure
+- Margin Call
+- Mark to Market
+- Speculating with Futures
+- Standardization and Liquidity
+- Stock Index Futures
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 Carry Trade 1](Carry%20Trade%201.md)
 

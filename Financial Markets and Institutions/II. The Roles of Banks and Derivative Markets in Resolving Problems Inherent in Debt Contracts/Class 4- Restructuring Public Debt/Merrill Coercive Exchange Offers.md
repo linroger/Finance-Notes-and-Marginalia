@@ -1,27 +1,111 @@
 ---
-title: Merrill Coercive Exchange Offers
-cssclasses: ["academia"]
-tags:
-  - bondholders
-  - coercive_exchange_offers
-  - corporate_restructuring
-  - high_yield_bonds
-  - leveraged_loans
 aliases:
-  - coercive offers
-  - exchange offers
+- coercive offers
+- exchange offers
+cssclasses:
+- academia
+enhanced: true
+enhancement_date: '2025-11-06'
+enhancement_id: batch03-523f28
 key_concepts:
-  - Merrill exchange offers
-  - bondholder treatment  
-  - corporate financial distress
-  - high yield bonds
-  - market participant evaluation
-  - exit consents
-  - holdout problem
-  - covenant stripping
-  - debt restructuring strategies
-  - exchange offer mechanics
+- After-tax cost of debt and capital structure
+- Apt
+- Arbitrage pricing theory (APT)
+- Capital Asset Pricing Model (CAPM)
+- Capital Structure
+- Commodity markets and pricing dynamics
+- Cost of equity estimation using CAPM and other models
+- Course Material
+- Credit risk and default probability
+- Cross-currency basis swaps and funding
+- Deposit stability and core funding
+- Expected Shortfall (ES) and coherent risk measures
+- Expected Shortfall and coherent risk measures
+- Fixed-for-floating swap cash flows and valuation
+- Funding liquidity vs. market liquidity
+- GARCH models and volatility forecasting
+- High Yield Bonds
+- Historical simulation vs. parametric VaR models
+- Interest rate models and term structure
+- Interest rate swap pricing and valuation
+- Interest rate swaps and swap pricing
+- Ito's Lemma and stochastic calculus
+- Liquidity risk management in financial institutions
+- Liquidity stress testing and contingency funding plans
+- Market value weights vs. book value weights
+- Merrill exchange offers
+- Monte Carlo VaR for complex portfolios
+- Monte Carlo simulation for derivatives
+- Portfolio optimization and mean-variance theory
+- Quantitative Implementation
+- Real estate investment and property valuation
+- Solution
+- Stress testing and scenario analysis
+- Swap spread and credit risk considerations
+- Treasury Bonds
+- VaR backtesting and model validation
+- Value at Risk (VaR) and risk metrics
+- Value at Risk (VaR) methodologies and backtesting
+- Variance swaps and volatility trading strategies
+- Vasicek and Cox-Ingersoll-Ross models
+- WACC for multinational corporations
+- Weighted Average Cost of Capital calculation
+- Wholesale funding markets and maturity transformation
+- bondholder treatment
+- corporate financial distress
+- covenant stripping
+- debt restructuring strategies
+- exchange offer mechanics
+- exit consents
+- high yield bonds
+- holdout problem
+- market participant evaluation
+tags:
+- apt
+- bondholders
+- capital-structure
+- coercive_exchange_offers
+- commodities
+- corporate-bonds
+- corporate_restructuring
+- course-material
+- credit
+- credit-analysis
+- credit-derivatives
+- distressed-debt
+- equity-derivatives
+- fixed-income
+- fixed-income-derivatives
+- fx-derivatives
+- garch-models
+- harvard-business-review
+- high-yield-bonds
+- high_yield_bonds
+- implied-volatility
+- infrastructure
+- interest-rate-derivatives
+- interest-rate-swaps
+- ito-calculus
+- leveraged_loans
+- liquidity-risk
+- markets
+- monte-carlo-simulation
+- municipal-bonds
+- numerical-simulation
+- options
+- options-pricing
+- quantitative-implementation
+- quantitative-pricing
+- real-estate
+- risk-management
+- solution
+- stochastic
+- treasury-bonds
+- value-at-risk
+- wacc
+title: Merrill Coercive Exchange Offers
 ---
+
 
 # Merrill Coercive Exchange Offers
 

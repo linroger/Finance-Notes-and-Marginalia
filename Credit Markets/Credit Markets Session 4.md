@@ -1,28 +1,45 @@
 ---
-title: Credit Markets Session 4
-tags:
-  - credit_markets
-  - g_spreads
-  - hazard_rate
-  - nelson_siegel
-  - bond_pricing
-  - quant_trading
-  - parametric_models
 aliases:
-  - Calibration
-  - Model Prices
-  - Verizon Bonds
+- Calibration
+- Model Prices
+- Verizon Bonds
 key_concepts:
-  - Hazard Rate Models
-  - Parametric IR Models
-  - Quant Credit Trading
-  - Risk Models
-  - Smooth Yield Curve
-  - Nelson-Siegel Model
-  - Model Calibration
-  - G-Spreads
-  - I-Spreads
-  - Portfolio Optimization
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Credit Markets Session 4 and financial analysis
+- Credit Markets Session 4 in modern finance
+- Applications of Credit Markets Session 4
+- 'Case study: Credit Markets Session 4'
+tags:
+- options
+- theta
+- corporate-bond
+- put
+- dv01
+- portfolio
+- fixed-income
+- liquidity
+- gamma
+- portfolio-optimization
+- maturity
+- bond
+- trading
+- spread
+- coupon
+title: Credit Markets Session 4
 ---
 
 # Credit Markets Session 4

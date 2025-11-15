@@ -1,21 +1,45 @@
 ---
-tags:
-  - covered_interest_arbitrage
-  - currency_futures
-  - fx_forwards
-  - fx_hedging
-  - spot_exchange_rate
 aliases:
-  - Currency Forwards
-  - Currency Futures
-  - FX Futures
-  - FX-forward
+- Currency Forwards
+- Currency Futures
+- FX Futures
+- FX-forward
 key_concepts:
-  - Covered interest arbitrage
-  - Currency speculation
-  - FX futures contracts
-  - Hedging future payments
-  - Spot exchange rate
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Chapter 7 - Currency Forwards and Futures and financial analysis
+- Chapter 7 - Currency Forwards and Futures in modern finance
+- Applications of Chapter 7 - Currency Forwards and Futures
+- 'Case study: Chapter 7 - Currency Forwards and Futures'
+tags:
+- maturity
+- forward
+- options
+- futures
+- bonds
+- put
+- theta
+- hedging
+- basis
+- no-arbitrage
+- bond
+- expiry
+- call
+- interest-rate
+- interest-rates
 ---
 # Currency Forwards and Futures  
 

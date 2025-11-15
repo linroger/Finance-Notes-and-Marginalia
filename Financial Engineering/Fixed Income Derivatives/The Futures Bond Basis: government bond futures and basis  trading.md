@@ -1,21 +1,29 @@
 ---
 tags:
-  - basis_trading
-  - bond_futures
-  - cheapest_to_deliver
-  - gilt_market
-  - government_bonds
+- basis_trading
+- bond_futures
+- cheapest_to_deliver
+- derivatives-pricing
+- fixed-income
+- fixed-income-derivatives
+- gilt_market
+- government_bonds
+- risk-management
 aliases:
-  - Basis
-  - Bond Futures
-  - Futures Bond Basis
+- Basis
+- Bond Futures
+- Futures Bond Basis
 key_concepts:
-  - Basis trading mechanics
-  - Cheapest-to-deliver concept
-  - Government bond futures
-  - Gross and net basis
-  - Implied repo rate
+- Arbitrage pricing theory (APT)
+- Basis trading mechanics
+- Cheapest-to-deliver concept
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Government bond futures
+- Gross and net basis
+- Implied repo rate
 ---
+
 
 # The Futures Bond Basis: government bond futures and basis  trading  
 

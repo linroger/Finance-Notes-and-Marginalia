@@ -1,4 +1,26 @@
 ---
+tags:
+- financial-markets/currency
+- financial-markets/foreign exchange
+- financial-markets/fx
+- mathematics/ols
+- mathematics/stability
+- educational-level/intermediate
+- professional-context/portfolio-management
+key_concepts:
+- financial mathematics and quantitative analysis
+- derivatives and structured products
+- risk management and portfolio optimization
+- stochastic processes in finance
+- mathematical modeling and simulation
+type: note
+status: active
+academic_level: graduate
+professional_application: practical
+institutional_standard: true
+---
+
+
 cssclasses:
   - academia
 title: China Foreign Exchange Reserves
@@ -18,24 +40,3 @@ key_concepts:
   - Exchange rate management
   - Monetary policy tools
 ---
-
-# China Foreign Exchange Reserves
-
-%% Begin Waypoint %%
-- **China Foreign Exchange Reserves**
-	- China Foreign Exchange Reserves
-	- China Investment Corporation (CIC).md)
-	- China Reserve Requirements, GFC
-	- China's Monetary Policy
-	- China's State Administration of Foreign Exchange (SAFE) Overview%20Overview.md)
-	- Chinese Currency Peg
-	- Currency Appreciation and Depreciation
-	- **Foreign Exchange Reserves - Wikipedia**
-		- Foreign Exchange Reserves - Wikipedia
-		- Foreign Exchange Reserves
-	- Foreign Exchange Sterilization
-	- Lessons from China’s Past Banking Bailouts
-	- People's Bank of China (PBoC).md)
-	- The Battle to Defend Hong Kong’s Financial Stability
-
-%% End Waypoint %%

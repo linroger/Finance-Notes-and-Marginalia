@@ -1,44 +1,48 @@
 ---
-title: Week 1 Ratio Analysis + Valuation Review
-cssclasses:
-  - academia
-tags:
-  - dividend_discount_model
-  - enterprise_valuation
-  - equity_valuation
-  - free_cash_flow
-  - ratio_analysis
-  - roic
-  - valuation
-  - wacc
-  - financial_analysis
-  - corporate_finance
 aliases:
-  - DCF
-  - DDM
-  - Valuation Methods
-  - Week 1 Review
+- DCF
+- DDM
+- Valuation Methods
+- Week 1 Review
+cssclasses:
+- academia
 key_concepts:
-  - Capital structure impact on valuation methods
-  - Continuing value calculation techniques
-  - Discount rate components and calculation
-  - Dividend discount model limitations
-  - Economic profit model applications
-  - Enterprise DCF process and methodology
-  - Enterprise vs equity valuation models
-  - Equity value determination from enterprise value
-  - Financial ratio analysis fundamentals
-  - Free cash flow calculation and components
-  - Mid-year adjustment technique
-  - NOPAT and FCF relationship
-  - Non-operating assets valuation 
-  - Operating vs investing classification
-  - ROE decomposition and drivers
-  - ROIC as a measure of operational efficiency
-  - ROIC vs ROA differences and applications
-  - Terminal value estimation methods
-  - Valuation basics and principles
-  - Weighted average cost of capital (WACC)
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Interest rate swaps and valuation
+- Currency and cross-currency swaps
+- Swap spreads and basis trading
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Week 1 Ratio Analysis + Valuation Review and financial analysis
+- Week 1 Ratio Analysis + Valuation Review in modern finance
+- Applications of Week 1 Ratio Analysis + Valuation Review
+- 'Case study: Week 1 Ratio Analysis + Valuation Review'
+tags:
+- income statement
+- discount
+- swaps
+- options
+- futures
+- dividend
+- roll
+- var
+- trading
+- liquidity
+- call
+- risk
+- leverage
+- irs
+- risk-management
+title: Week 1 Ratio Analysis + Valuation Review
 ---
 
 # Week 1 Ratio Analysis + Valuation Review

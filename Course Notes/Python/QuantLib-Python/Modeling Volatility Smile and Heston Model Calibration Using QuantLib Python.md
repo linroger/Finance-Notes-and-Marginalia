@@ -1,21 +1,49 @@
 ---
-title: Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python
-tags:
-  - european_options
-  - heston_model
-  - implied_volatility
-  - quantlib_python
-  - volatility_smile
 aliases:
-  - Heston Calibration
-  - QuantLib Python Tutorial
-  - Volatility Surface Modeling
+- Heston Calibration
+- QuantLib Python Tutorial
+- Volatility Surface Modeling
 key_concepts:
-  - Arbitrage-free smoothing
-  - European option pricing
-  - Heston model calibration
-  - Implied volatility surface
-  - Market volatility quotes
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Model calibration procedures
+- Parameter estimation methods
+- Maximum likelihood estimation
+- Monte Carlo simulation methods
+- Stochastic processes in finance
+- Path-dependent derivatives pricing
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python and
+  financial analysis
+- Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python in
+  modern finance
+- Applications of Modeling Volatility Smile and Heston Model Calibration Using QuantLib
+  Python
+- 'Case study: Modeling Volatility Smile and Heston Model Calibration Using QuantLib
+  Python'
+tags:
+- maturity
+- stochastic
+- options
+- bonds
+- put
+- calibration
+- yield
+- theta
+- simulation
+- strike
+- var
+- expiry
+- monte-carlo
+- call
+- risk-management
+title: Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python
 ---
 
 # Modeling Volatility Smile and Heston Model Calibration Using QuantLib Python

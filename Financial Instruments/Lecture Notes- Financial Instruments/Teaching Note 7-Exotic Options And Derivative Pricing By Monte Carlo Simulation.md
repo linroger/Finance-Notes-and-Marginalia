@@ -1,27 +1,52 @@
 ---
-linter-yaml-title-alias: Teaching Note 7  Exotic Options  and Derivative Pricing
-  by Monte Carlo Simulation
-title: Teaching Note 7- Exotic Options  And Derivative Pricing By Monte Carlo
-  Simulation
+linter-yaml-title-alias: Teaching Note 7  Exotic Options  and Derivative Pricing by
+  Monte Carlo Simulation
+title: Teaching Note 7- Exotic Options  And Derivative Pricing By Monte Carlo Simulation
 tags:
-  - asian_options
-  - derivative_pricing
-  - monte_carlo_simulation
-  - path_dependent_payoff
-  - risk_neutral_trees
+- arbitrage
+- asian_options
+- black-scholes-model
+- derivative_pricing
+- equity-derivatives
+- fixed-income
+- interest-rate-derivatives
+- markets
+- monte-carlo-simulation
+- monte_carlo_simulation
+- numerical-simulation
+- option-greeks
+- options
+- options-pricing
+- path_dependent_payoff
+- quantitative-pricing
+- risk-management
+- risk_neutral_trees
+- stochastic
 aliases:
-  - John Heaton
-  - Monte Carlo
-  - Risk Neutral
-  - Teaching Note 7
+- John Heaton
+- Monte Carlo
+- Risk Neutral
+- Teaching Note 7
 key_concepts:
-  - Asian options pricing
-  - Delta calculation
-  - Monte Carlo simulations
-  - Multi-step tree
-  - Path-dependent payoff
-  - Risk neutral trees
+- Asian options and average price derivatives
+- Asian options pricing
+- Barrier options and knock-in/knock-out features
+- Complete markets and replication
+- Delta calculation
+- Delta hedging and Greeks calculation
+- Exotic options and path-dependent derivatives
+- Expected Shortfall (ES) and coherent risk measures
+- Interest rate models and term structure
+- Monte Carlo simulation for derivatives
+- Monte Carlo simulations
+- Multi-step tree
+- Option Greeks and sensitivity analysis
+- Path-dependent payoff
+- Risk neutral trees
+- Risk-neutral valuation and martingale measures
+- Value at Risk (VaR) and risk metrics
 ---
+
 
 # Teaching Note 7- Exotic Options  And Derivative Pricing By Monte Carlo Simulation
 

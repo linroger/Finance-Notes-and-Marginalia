@@ -1,32 +1,49 @@
 ---
-cssclasses:
-  - academia
 Owner: RRoger Lin
-title: Notes on Basic Options Properties
-tags:
-  - call_options
-  - option_bounds
-  - option_parameters
-  - option_payoffs
-  - option_pricing
-  - options_basics
-  - put_options
-  - underlying_security
 aliases:
-  - Basic Options
-  - Call and Put
-  - Option Fundamentals
-  - Option Properties
+- Basic Options
+- Call and Put
+- Option Fundamentals
+- Option Properties
+cssclasses:
+- academia
 key_concepts:
-  - 'Call: Right to buy'
-  - Option buyer/holder
-  - Option payoff schemes
-  - Option price bounds
-  - Option seller/writer
-  - Option value parameters
-  - 'Options: Right to buy/sell'
-  - 'Put: Right to sell'
-  - Underlying security
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Arbitrage principles and opportunities
+- Relative value trading
+- Law of one price enforcement
+- Interest rate theory and modeling
+- Monetary policy and rate setting
+- LIBOR transition and SOFR
+- Notes on Basic Options Properties and financial analysis
+- Notes on Basic Options Properties in modern finance
+- Applications of Notes on Basic Options Properties
+- 'Case study: Notes on Basic Options Properties'
+tags:
+- maturity
+- options
+- bonds
+- put
+- dividend
+- strike
+- bond
+- fixed-income
+- expiry
+- call
+- treasury
+- interest-rates
+- interest-rate
+- arbitrage
+- coupon
+title: Notes on Basic Options Properties
 ---
 
 # Notes on Basic Options Properties

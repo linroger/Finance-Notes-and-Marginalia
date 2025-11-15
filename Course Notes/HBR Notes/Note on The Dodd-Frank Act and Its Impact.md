@@ -1,21 +1,45 @@
 ---
 Owner: RRoger Lin
-tags:
-  - dodd_frank_act
-  - financial_crisis
-  - financial_institutions
-  - financial_stability
-  - regulatory_reform
 aliases:
-  - Dodd-Frank
-  - Financial Reform
-  - Wall Street Reform Act
+- Dodd-Frank
+- Financial Reform
+- Wall Street Reform Act
 key_concepts:
-  - Financial crisis impact
-  - Financial stability oversight
-  - Prudential standards
-  - Regulatory reform goals
-  - Systemic risk reduction
+- Financial regulation and compliance
+- Basel III capital requirements
+- Dodd-Frank Act implications
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Note on The Dodd-Frank Act and Its Impact and financial analysis
+- Note on The Dodd-Frank Act and Its Impact in modern finance
+- Applications of Note on The Dodd-Frank Act and Its Impact
+- 'Case study: Note on The Dodd-Frank Act and Its Impact'
+tags:
+- roll
+- futures
+- dodd-frank
+- fixed-income
+- basis
+- basel
+- liquidity
+- maturity
+- regulatory
+- forward
+- regulation
+- municipal
+- bond
+- trading
+- spread
 ---
 
 # Note on The Dodd-Frank Act and Its Impact

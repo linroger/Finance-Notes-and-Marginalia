@@ -1,22 +1,37 @@
 ---
 title: Risk Preferences
 tags:
-  - hedging
-  - portfolio_risk
-  - risk_aversion
-  - risk_preferences
-  - utility_theory
+- hedging
+- hedging-strategies
+- interest-rate-derivatives
+- option-greeks
+- options
+- options-pricing
+- portfolio_risk
+- risk-management
+- risk_aversion
+- risk_preferences
+- stochastic
+- utility_theory
 aliases:
-  - Investor Preferences
-  - Risk Assessment
-  - Riskiness
+- Investor Preferences
+- Risk Assessment
+- Riskiness
 key_concepts:
-  - Hedging risk with assets
-  - Investor portfolio risk
-  - Risk aversion notions
-  - Total vs partial payoffs
-  - Utility theory
+- Arbitrage pricing theory (APT)
+- Capital Asset Pricing Model (CAPM)
+- Delta hedging and Greeks calculation
+- Expected Shortfall (ES) and coherent risk measures
+- Hedging risk with assets
+- Investor portfolio risk
+- Portfolio optimization and mean-variance theory
+- Risk aversion notions
+- Total vs partial payoffs
+- Utility theory
+- Value at Risk (VaR) and risk metrics
+- Vasicek and Cox-Ingersoll-Ross models
 ---
+
 
  #Risk_Preferences
 

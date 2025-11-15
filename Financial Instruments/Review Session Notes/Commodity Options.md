@@ -1,30 +1,40 @@
 ---
 cssclasses:
-  - academia
+- academia
 linter-yaml-title-alias: Commodity Options
 title: Commodity Options
 tags:
-  - call_option
-  - commodity_options
-  - commodity_price_hedging
-  - jet_fuel
-  - options_strategy
-  - zero_cost_collar
-  - hedging_strategies
+- call_option
+- commodity_options
+- commodity_price_hedging
+- fixed-income
+- hedging-strategies
+- hedging_strategies
+- jet_fuel
+- markets
+- option-greeks
+- options
+- options-pricing
+- options_strategy
+- risk-management
+- zero_cost_collar
 aliases:
-  - Commodity Options
-  - Options Hedging
-  - Fuel Price Hedging
+- Commodity Options
+- Options Hedging
+- Fuel Price Hedging
 key_concepts:
-  - Call option parameters
-  - Commodity price hedging
-  - Zero-cost collar strategies
-  - Evaluating option performance
-  - Jet fuel price hedging
-  - Optimal number of options calculation
-  - Pass-through pricing effects
-  - Implicit short position management
+- Call option parameters
+- Commodity price hedging
+- Delta hedging and Greeks calculation
+- Evaluating option performance
+- Expected Shortfall (ES) and coherent risk measures
+- Implicit short position management
+- Jet fuel price hedging
+- Optimal number of options calculation
+- Pass-through pricing effects
+- Zero-cost collar strategies
 ---
+
 
 # Commodity Options
 ## 1. COMMODITY PRICE HEDGING USING OPTIONS

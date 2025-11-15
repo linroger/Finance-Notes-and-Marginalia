@@ -1,11 +1,23 @@
 ---
-title: "Week 8 Advanced Financial Analysis and Valuation"
-linter-yaml-title-alias: "Week 8 Advanced Financial Analysis and Valuation"
-aliases: [Advanced Finance Week 8, International Valuation Module, Week 8 AFAV]
-date created: Tuesday, November 26th 2024, 8:35:15 pm
+aliases:
+- Advanced Finance Week 8
+- International Valuation Module
+- Week 8 AFAV
 cssclasses: academia
-tags: [advanced_financial_analysis, international_finance, country_risk, emerging_markets, valuation, week_8, exchange_rates, political_risk, sovereign_risk, dow_chemical]
-key_concepts: [international valuation methods, country risk premium calculation, political risk assessment, exchange rate impacts, emerging market analysis, sovereign default risk, currency risk management, international cost of capital]
+date created: Tuesday, November 26th 2024, 8:35:15 pm
+key_concepts:
+- Week 8 Advanced Financial Analysis and Valuation and financial analysis
+- Week 8 Advanced Financial Analysis and Valuation in modern finance
+- Applications of Week 8 Advanced Financial Analysis and Valuation
+- 'Case study: Week 8 Advanced Financial Analysis and Valuation'
+- Financial markets and institutions
+- Risk management and analysis
+- Portfolio theory and optimization
+- Derivative securities and hedging
+linter-yaml-title-alias: Week 8 Advanced Financial Analysis and Valuation
+tags:
+- valuation
+title: Week 8 Advanced Financial Analysis and Valuation
 ---
 
 # Week 8 Advanced Financial Analysis and Valuation

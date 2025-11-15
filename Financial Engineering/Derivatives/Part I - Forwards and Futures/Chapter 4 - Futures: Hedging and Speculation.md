@@ -1,21 +1,45 @@
 ---
-tags:
-  - basis_risk
-  - futures_contracts
-  - hedging
-  - price_risk
-  - spot_market
 aliases:
-  - Futures Hedging
-  - Hedging with Futures
-  - Long Position
-  - Short Hedge
+- Futures Hedging
+- Hedging with Futures
+- Long Position
+- Short Hedge
 key_concepts:
-  - Futures contract gain
-  - Futures for hedging
-  - Reduce price risk
-  - Short hedge explained
-  - Spot market risk
+- Futures and forwards contract mechanics
+- Cash-and-carry arbitrage
+- Basis trading and roll strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Value at Risk (VaR) and stress testing
+- Portfolio risk metrics and measures
+- Hedging strategies and effectiveness
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- 'Chapter 4 - Futures: Hedging and Speculation and financial analysis'
+- 'Chapter 4 - Futures: Hedging and Speculation in modern finance'
+- 'Applications of Chapter 4 - Futures: Hedging and Speculation'
+- 'Case study: Chapter 4 - Futures: Hedging and Speculation'
+tags:
+- options
+- roll
+- var
+- backwardation
+- futures
+- put
+- basis
+- liquidity
+- maturity
+- contango
+- forward
+- bond
+- trading
+- spread
+- risk-management
 ---
 # Futures: Hedging and Speculation  
 

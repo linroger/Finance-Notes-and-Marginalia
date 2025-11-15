@@ -1,21 +1,43 @@
 ---
-tags:
-  - business_analysis
-  - capital_structure
-  - corporate_finance
-  - corporate_governance
-  - financial_statements
-  - investment_decisions
 aliases:
-  - Business Organizations
-  - Corporate Finance
+- Business Organizations
+- Corporate Finance
 key_concepts:
-  - Capital structure costs
-  - Corporate governance role
-  - Earnings and cash flow
-  - Financial statement analysis
-  - Net present value (NPV)
-  - Time value of money
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Fixed income securities and markets
+- Bond valuation and yield calculation
+- Credit analysis and spread decomposition
+- Corporate bankruptcy process
+- Debt restructuring and workouts
+- Chapter 11 reorganization
+- Corporate Finance Lecture Notes and financial analysis
+- Corporate Finance Lecture Notes in modern finance
+- Applications of Corporate Finance Lecture Notes
+- 'Case study: Corporate Finance Lecture Notes'
+tags:
+- options
+- chapter-11
+- efficient-market
+- workout
+- beta
+- distressed
+- put
+- fixed-income
+- gamma
+- market-efficiency
+- maturity
+- bond
+- coupon
+- duration
+- bonds
 ---
 
 #  

@@ -1,12 +1,49 @@
 ---
-title: "Week 8 - Opportunities And Risks Of Investing Internationally"
-linter-yaml-title-alias: "Week 8 - Opportunities And Risks Of Investing Internationally"
-aliases: [International Investing, Investing Abroad, Global Investment Opportunities]
-date created: Tuesday, November 26th 2024, 8:55:15 pm
+aliases:
+- International Investing
+- Investing Abroad
+- Global Investment Opportunities
 cssclasses: academia
-tags: [currency_risks, diversification_benefits, emerging_markets, fdi_and_ma, international_investments, portfolio_theory, cross_border_mergers, market_integration, home_bias, country_risk, institutional_quality]
-key_concepts: [currency risks and volatility, diversification benefits, emerging market companies, global ma trends, importance of international investments, opportunities of investing abroad, cross border ma, financial integration, portfolio diversification, home bias explanation, international risk measurement, country credit ratings, sovereign spreads, capm adjustments]
+date created: Tuesday, November 26th 2024, 8:55:15 pm
 instructor: Thomas Rauter
+key_concepts:
+- Financial econometrics and regression
+- Time series analysis in finance
+- Volatility modeling (GARCH)
+- Modern Portfolio Theory and mean-variance optimization
+- Efficient frontier and portfolio construction
+- Asset allocation and diversification
+- Market liquidity and measurement
+- Bid-ask spreads and transaction costs
+- Market impact and execution
+- Financial accounting standards
+- GAAP and IFRS differences
+- Mark-to-market accounting
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Week 8 Opportunities And Risks Of Investing Internationally and financial analysis
+- Week 8 Opportunities And Risks Of Investing Internationally in modern finance
+- Applications of Week 8 Opportunities And Risks Of Investing Internationally
+- 'Case study: Week 8 Opportunities And Risks Of Investing Internationally'
+linter-yaml-title-alias: Week 8 - Opportunities And Risks Of Investing Internationally
+tags:
+- credit
+- options
+- put
+- portfolio
+- ifrs
+- correlation
+- trading
+- liquidity
+- spread
+- call
+- portfolio-optimization
+- regression
+- asset-allocation
+- accounting
+- volatility
+title: Week 8 - Opportunities And Risks Of Investing Internationally
 ---
 
 # Week 8 - Opportunities And Risks Of Investing Internationally

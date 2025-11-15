@@ -1,20 +1,36 @@
 ---
-title: Appendix 20. A Valuation Using Discounted Cash Flow
-tags:
-  - dcf_valuation
-  - expected_payoff
-  - geometric_brownian_motion
-  - jensen_inequality
-  - risk_neutral_pricing
 aliases:
-  - DCF Valuation
-  - Discounted Cash Flow
+- DCF Valuation
+- Discounted Cash Flow
 key_concepts:
-  - DCF valuation
-  - Expected payoff calculation
-  - Geometric Brownian motion
-  - Jensen's inequality impact
-  - Risk-neutral pricing
+- Efficient market hypothesis
+- Market anomalies and patterns
+- Price discovery and information
+- Option pricing theory and Black-Scholes model
+- Options Greeks and risk management
+- Call and put option strategies
+- Bond pricing and yield curves
+- Duration and convexity hedging
+- Credit spreads and bond valuation
+- Appendix 20.A Valuation Using Discounted Cash Flow and financial analysis
+- Appendix 20.A Valuation Using Discounted Cash Flow in modern finance
+- Applications of Appendix 20.A Valuation Using Discounted Cash Flow
+- 'Case study: Appendix 20.A Valuation Using Discounted Cash Flow'
+tags:
+- discount
+- options
+- alpha
+- put
+- bonds
+- yield
+- delta
+- risk
+- ratio
+- pricing
+- valuation
+- cash flow
+- market-efficiency
+title: Appendix 20. A Valuation Using Discounted Cash Flow
 ---
 
 # Appendix 20. A Valuation Using Discounted Cash Flow
